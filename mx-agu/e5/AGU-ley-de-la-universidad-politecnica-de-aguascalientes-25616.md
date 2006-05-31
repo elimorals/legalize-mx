@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-politecnica-de-aguascalientes-25616"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-12"
-last_updated: "2002-08-12"
+last_updated: "2006-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 31 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de agosto de 2002.
 
@@ -614,3 +616,27 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 31 DE MAYO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de la Universidad Politécnica de Aguascalientes, emitida mediante Decreto número 38, por la LVIII Legislatura del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el día 121 de agosto de 2002.
+
+###### ARTICULO TERCERO.
+
+La Junta Directiva de la Universidad Politécnica de Aguascalientes, deberá quedar integrada de conformidad de conformidad con el presente Decreto en el plazo de noventa días contados a partir de la entrada en vigencia de esta Ley, en tanto subsistirán los integrantes preexistentes.
+
+###### ARTICULO CUARTO.
+
+La Junta Directiva de la Universidad Politécnica de Aguascalientes designará a las personas distinguidas de la sociedad para integrar el Consejo Social dentro de su primera sesión.
+
+###### ARTICULO QUINTO.
+
+Los representantes del personal académico del primer Consejo de Calidad serán designados por el Director del Programa Académico respectivo, de entre los profesores de mayor nivel.
