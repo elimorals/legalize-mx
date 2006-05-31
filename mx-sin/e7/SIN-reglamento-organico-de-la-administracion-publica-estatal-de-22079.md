@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2006-02-15"
+last_updated: "2006-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2006.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -143,7 +143,9 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Administración y Finanzas;
 
-III. Secretaría de Planeación y Desarrollo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2006)</small>
+
+III. La Secretaría de Desarrollo Social y Sustentable;
 
 IV. Secretaría de Educación Pública y Cultura;
 
@@ -293,9 +295,9 @@ XVII. Diseñar, implantar y actualizar un sistema de programación del gasto pú
 
 XVII-A. Autorizar la liberación de recursos relativos a los gastos de inversión de obra pública convenidos con la federación o los ayuntamientos, de obra pública directa y bienes de capital;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2006)</small>
 
-XVll-B. Establecer y concertar las normas específicas, las estructuras programáticas y financieras de los programas operativos y de inversión de las dependencias y organismos descentralizados de la administración pública estatal. Por lo que se refiere a los programas operativos anuales de las dependencias de la administración pública estatal, previamente deberán ser validados por la Secretaría de Planeación y Desarrollo;
+XVll-B. Establecer y concertar las normas específicas, las estructuras programáticas y financieras de los programas operativos y de inversión de las dependencias y organismos descentralizados de la administración pública estatal. Por lo que se refiere a los programas operativos anuales de las dependencias de la administración pública estatal, previamente deberán ser validados por la Coordinación General de Asesoría y Políticas Públicas;
 
 XVIII. Establecer las normas específicas para la elaboración del anteproyecto de presupuesto de egresos en lo relativo al gasto de operación e inversión de las dependencias y entidades de la administración pública estatal;
 
@@ -355,105 +357,51 @@ XLV. Coordinar y evaluar los institutos para la atención especializada que dete
 
 XLVI. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2006)</small>
+
 ###### Artículo 19.
 
-A la Secretaría de Planeación y Desarrollo le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social y Sustentable, le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+I. Coordinar la formulación, ejecución y seguimiento de los programas de desarrollo social y sustentable que el gobierno del estado acuerde con la federación, los municipios y los sectores social y privado, apoyando al ejecutivo estatal en la elaboración de los convenios respectivos;
 
-I. Formular, dar seguimiento y evaluar el Plan Estatal de Desarrollo, los programas regionales de desarrollo, especiales y sectoriales, en el marco de un sistema de planeación, en congruencia con el artículo 11 de la Ley de Planeación para el Estado de Sinaloa;
+II. Integrar, conducir y evaluar la ejecución de los programas de ecología, desarrollo social, así como los relativos a usos del suelo, abastecimiento y tratamiento de aguas, servicios de drenaje y alcantarillado, de común acuerdo con las autoridades federales y los municipios y con la participación de los sectores social y privado;
 
-II. Validar y evaluar los programas sectoriales e institucionales que elaboren las dependencias de la administración pública estatal y paraestatal;
+III. Procurar la conservación de los recursos naturales con que cuenta la entidad;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+IV. Promover el cuidado del medio ambiente y la preservación del entorno ecológico, en coordinación con los municipios y las dependencias de la administración pública federal correspondientes, así como con la participación de los sectores social y privado;
 
-III. Diseñar, implantar, coordinar y actualizar un sistema de planeación para el impulso del desarrollo sustentable;
+V. Formular, dar seguimiento y evaluar la política general de saneamiento ambiental, en coordinación con las dependencias competentes:
 
-IV. Integrar con la participación de las dependencias y entidades de la administración pública, el informe anual de ejecución del Plan Estatal de Desarrollo y el Informe de Gobierno;
+VI. Promover un desarrollo regional y social armónico, que beneficie en forma equitativa a todas las comunidades e impulse las potencialidades de los distintos sectores de la población;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+VII. Formular, instrumentar y evaluar la política social del gobierno del estado, con el apoyo y participación de la federación, los municipios y los sectores social y privado;
 
-V. Formular con la participación de las dependencias del Poder Ejecutivo Estatal y organismos de la administración pública paraestatal, los programas operativos anuales relativos a la planeación del desarrollo estatal;
+VIII. Integrar, conducir y evaluar los programas de inversión pública en materia de desarrollo social y proponer al Ejecutivo Estatal los programas de inversión que deban convenirse con la Federación a través del Convenio de Coordinación para el Desarrollo Social y Humano, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+IX. Coordinar los programas y acciones que el ejecutivo estatal acuerde con la federación y los municipios en materia de desarrollo social y regional;
 
-VI. Establecer los mecanismos de seguimiento y evaluación del Plan Estatal de Desarrollo y de los programas operativos anuales relativos a la planeación de desarrollo estatal;
+X. Diseñar, implementar y evaluar planes y programas que promuevan el combate a la marginación y la pobreza, concertando las modalidades y los mecanismos de participación del gobierno federal y los municipios, así como de los sectores social y privado;
 
-VII. (DEROGADA, P.O. 12 DE AGOSTO DE 2002)
+XI. Coordinar los estudios y acciones que emprenda el gobierno del estado para impulsar el desarrollo y fortalecimiento municipal;
 
-VIII. (DEROGADA, P.O. 12 DE AGOSTO DE 2002)
+XII. Participar en los comités, consejos y demás órganos de coordinación de la administración pública estatal vinculados con la promoción del desarrollo municipal;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+XIII. Coordinar, a solicitud de las autoridades municipales, las gestiones que realicen entre sí ante los gobiernos federal y estatal y ante organismos sociales o privados, con pleno respeto a su autonomía;
 
-IX. Organizar e instrumentar un sistema de información y estadística para la planeación del desarrollo;
+XIV. Intervenir en la elaboración de convenios, acuerdos y anexos de ejecución que celebre el Gobierno del Estado, en el ámbito de su competencia;
 
-X. Tener a su cargo la coordinación general del Comité de Planeación para el Desarrollo del Estado de Sinaloa;
+XV. Administrar y operar los fondos y fideicomisos que sean necesarios para el cumplimiento de las atribuciones de la Secretaría, cuando así lo determine el Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+XVI. Promover, implantar y operar un sistema de planeación-programación del gasto público, para el impulso del desarrollo social y sustentable;
 
-XI. Apoyar al Ejecutivo en la elaboración de los convenios que celebre el Gobierno del Estado con la federación y los municipios en materia de planeación del desarrollo sustentable;
+XVII. Coordinar, con la participación de la federación, los municipios y las dependencias y entidades del poder ejecutivo estatal, la elaboración, seguimiento y evaluación de los programas estatales, en el ámbito de su competencia;
 
-XII. Formular, dirigir, coordinar y controlar la ejecución de los programas de desarrollo urbano, vivienda y desarrollo social en la Entidad;
+XVIII. Establecer y concertar con las dependencias y entidades del ejecutivo estatal, las normas específicas, las estructuras programáticas y financieras de sus planes y programas de inversión, en materia de desarrollo social y sustentable;
 
-XIII. Formular los programas de constitución de reserva territorial, de regularización de la tenencia de la tierra e integrar conjuntamente con los municipios y la sociedad, los programas de equipamiento urbano e infraestructura básica, así como diseñar estrategias y mecanismos para el fomento de la vivienda;
+XIX. Resolver los recursos administrativos que sean de su competencia conforme a lo establecido en leyes y reglamentos; y,
 
-XIV. Elaborar, coordinar y evaluar de común acuerdo con la federación y los municipios, programas relativos a usos de suelo, abastecimiento y tratamiento de aguas, servicios de drenaje y alcantarillado;
-
-XV. Formular en concertación con la sociedad civil, con los municipios y la federación, programas de regulación, preservación y recuperación ecológica, mejoramiento del medio ambiente y el aprovechamiento racional de los recursos naturales;
-
-XVI. Definir normas y políticas de desarrollo urbano que considere los aspectos de transporte, vialidad, equipamiento, vivienda e infraestructura básica y vigilar su cumplimiento de acuerdo a la legislación estatal en esta materia;
-
-XVII. Elaborar con la participación que le corresponde a los sectores social y privado, los planos reguladores previstos en la legislación de la materia y vigilar su cumplimiento;
-
-XVIII. Gestionar acciones directamente o a través de los organismos competentes, para la regularización de la tenencia de la tierra y la constitución de nuevas reservas territoriales que permitan un crecimiento ordenado de los centros de población y la construcción y mejoramiento de la vivienda, así como la planeación y programación de los servicios públicos básicos;
-
-XIX. Promover el ordenamiento ecológico general del territorio estatal, en coordinación con las dependencias de la administración pública federal, estatal y municipal correspondientes, y con la participación de los sectores social y privado;
-
-XX. Formular y conducir la política general de saneamiento ambiental, en coordinación con la Secretaría de Salud y demás dependencias competentes;
-
-XXI. Proponer normas y criterios ecológicos para el aprovechamiento de los recursos naturales y para preservar y restaurar la calidad del ambiente, con la participación que en su caso corresponda a otras dependencias;
-
-XXII. Diseñar normas y, en su caso, ejecutar las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad, en particular, en situaciones de emergencia o contingencia ambiental, con la participación que corresponda a otras dependencias federales, estatales y municipales;
-
-XXIII. Establecer los criterios ecológicos y normas de carácter general que deban satisfacer las descargas de aguas residuales, para evitar la contaminación que ponga en peligro la salud pública o degrade los ecosistemas, en coordinación con las dependencias competentes y con la participación de los gobiernos federal y municipales;
-
-XXIV. Evaluar las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten los sectores público, social y privado, y, de acuerdo con la normatividad aplicable, expedir las licencias y permisos en la materia;
-
-XXV. Promover, fomentar y realizar investigaciones relacionadas con la vivienda, desarrollo regional y urbano y ecología;
-
-XXVI. Impulsar y desarrollar programas de orientación a la población que fomenten una nueva cultura del agua, para su aprovechamiento con eficiencia y racionalidad;
-
-XXVII. Apoyar a las juntas municipales de agua potable y alcantarillado de la Entidad en la elaboración de estudios, proyectos y programas, para elevar su capacidad técnica, financiera y administrativa;
-
-XXVIII. Participar en la evaluación del funcionamiento de la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, de conformidad con la ley respectiva;
-
-XXIX. Promover un desarrollo regional y social armónico, que beneficie en forma equitativa a las regiones y que impulse las potencialidades de los distintos sectores de la sociedad;
-
-XXX. Prestar a los municipios asesoría y apoyo técnico para la formulación de sus planes generales de desarrollo económico y social y sus programas específicos, así como en el establecimiento y operación de los comités de planeación municipal;
-
-XXXI. Otorgar a los municipios asesoría, así como coordinar los estudios y acciones que emprenda el Gobierno del Estado para el desarrollo y fortalecimiento municipal;
-
-XXXII. Fomentar y apoyar la realización de programas de colaboración intermunicipal para emprender proyectos prioritarios que incidan en la solución de problemas comunes entre municipios;
-
-XXXIII. Coordinar, a solicitud de las autoridades municipales, las gestiones que realicen entre sí y ante el gobierno federal y estatal, con pleno respeto a su autonomía;
-
-XXXIV. Promover los proyectos tendientes a fortalecer el desarrollo administrativo de los municipios y la participación comunitaria;
-
-XXXV. Participar en los comités, consejos y demás órganos de coordinación de la administración pública vinculados con la promoción del desarrollo municipal;
-
-XXXVI. Diseñar, coordinar y evaluar los planes y programas del Gobierno del Estado que promuevan el desarrollo social y el combate a la pobreza, concertando las modalidades y los mecanismos de participación del gobierno federal, los municipios, así como de los sectores social y privado;
-
-XXXVII. Coordinar, concertar y ejecutar los programas especiales para la atención de los sectores sociales más desprotegidos, en especial los grupos indígenas, los pobladores de zonas rurales y colonos de zonas urbanas, para elevar su nivel de vida, con la intervención de las dependencias de la administración pública federal y municipal correspondientes y los sectores social y privado;
-
-XXXVIII. Coordinar, ejecutar y evaluar la política del Gobierno del Estado para apoyar la formación y fortalecimiento de empresas sociales que involucren a los sectores más desprotegidos de la comunidad;
-
-XXXIX. Atender los planteamientos de las organizaciones no gubernamentales, a través del establecimiento de una ventanilla única y encauzarlos a las dependencias correspondientes;
-
-XL. Administrar y operar los fondos y fideicomisos que sean necesarios para el cumplimiento de sus atribuciones, cuando así lo determine el Gobernador del Estado;
-
-XLI. Coordinar y evaluar los institutos para la atención especializada que determine el Ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y,
-
-XLII. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+XX. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende expresamente el Titular del Ejecutivo; (sic)
 
 ###### Artículo 20.
 
@@ -957,7 +905,9 @@ El Ejecutivo del Estado contará con las siguientes entidades administrativas:
 
 I. La Secretaría Particular del Gobernador del Estado;
 
-II. La Coordinación General de Asesores del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2006)</small>
+
+II. La Coordinación General de Asesoría y Políticas Públicas;
 
 III. La Coordinación General de Comunicación Social;
 
@@ -1003,25 +953,61 @@ Al titular de esta entidad administrativa se le denominará Secretario Particula
 
 ### CAPÍTULO III. DE LA COORDINACIÓN GENERAL DE ASESORES DEL GOBERNADOR DEL ESTADO
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2006)</small>
+
 ###### Artículo 47.
 
-A la Coordinación General de Asesores del Gobernador del Estado le corresponde el despacho de los siguientes asuntos:
+A la Coordinación General de Asesoría y Políticas Públicas, corresponde el despacho de los siguientes asuntos:
 
-I. Realizar los estudios y análisis de los temas y asuntos que el titular del Ejecutivo considere necesarios;
+I. Proponer, formular, coordinar y evaluar las políticas públicas;
 
-II. Apoyar el proceso de toma de decisiones de las distintas dependencias, cuando el titular del Ejecutivo así lo instruya;
+II. Dirigir el sistema de planeación integral en el Estado;
 
-III. Evaluar y dar seguimiento a los programas de las dependencias de la administración pública estatal, cuando el Gobernador del Estado lo disponga;
+III. Coordinar la elaboración, seguimiento y evaluación del Plan Estatal de Desarrollo, así como de los programas sectoriales, especiales, regionales e institucionales, de conformidad con lo estipulado en la Ley de Planeación para el Estado de Sinaloa;
 
-IV. Crear y coordinar la Unidad de Atención a la Ciudadanía para canalizar ante las dependencias correspondientes las gestiones y peticiones que recibe directamente el Gobernador del Estado por parte de la población y organizaciones sociales y productivas;
+IV. Coordinar, con la participación de las dependencias y entidades del Poder Ejecutivo Estatal, de la federación, los municipios y la sociedad, la formulación, seguimiento y evaluación de los programas operativos anuales en el ámbito de la planeación integral y dirigir la elaboración del mismo para la dependencia;
 
-V. Promover la realización de encuestas ciudadanas que permitan conocer la percepción social sobre el Gobierno del Estado; y,
+V. Validar los programas sectoriales e institucionales, que elaboren las dependencias de la administración pública estatal y organismos;
 
-VI. Cumplir las encomiendas específicas que el Gobernador del Estado le asigne.
+VI. Coordinar, con la participación de la federación, los municipios y las dependencias y entidades del Poder Ejecutivo Estatal, la elaboración, seguimiento y evaluación de los programas estatales;
+
+VII. Integrar, con la participación de las dependencias y entidades de la administración pública estatal, el Informe Anual de Ejecución del Plan Estatal de Desarrollo y el Informe de Gobierno, así como los correspondientes a los programas operativos anuales en el ámbito de la planeación integral;
+
+VIII. Coordinar la formulación, ejecución y seguimiento de los programas de desarrollo que el Gobierno del Estado acuerde con la federación, los municipios y los sectores social y privado, apoyando al Ejecutivo Estatal en la elaboración de los convenios respectivos;
+
+IX. Organizar e instrumentar un sistema de información y estadística para la planeación integral del desarrollo y tener bajo su custodia y responsabilidad las estadísticas del Poder Ejecutivo Estatal;
+
+X. Recabar los datos de las labores desarrolladas por las dependencias y entidades públicas, para la formulación del Informe de Gobierno;
+
+XI. Realizar los estudios y análisis de los temas y asuntos que el Titular del Ejecutivo considere necesarios;
+
+XII. Apoyar el proceso de toma de decisiones de las distintas dependencias, cuando el Titular del Ejecutivo así lo instruya;
+
+XIII. Coordinar la Unidad de Atención a la Ciudadanía para canalizar ante las dependencias correspondientes las gestiones y peticiones que recibe directamente el Titular del Ejecutivo por parte de la población y organizaciones sociales y productivas;
+
+XIV. Tener a su cargo la coordinación general del Comité Estatal de Planeación para el Desarrollo de Sinaloa;
+
+XV. Promover la realización de encuestas ciudadanas que permitan conocer la percepción social sobre el Gobierno del Estado;
+
+XVI. Proponer al Titular del Ejecutivo, los proyectos de leyes, reglamentos, decretos, acuerdos, convenios y contratos, sobre los asuntos competencia de la Coordinación General;
+
+XVII. Proponer la organización de la Coordinación General, así como los manuales de organización, de procedimientos y de servicios al público, conforme a la normatividad vigente;
+
+XVIII. Acordar con el Titular del Ejecutivo, los nombramientos de los titulares de las unidades administrativas que integran la Coordinación General;
+
+XIX. Aprobar el anteproyecto del presupuesto anual de egresos de la Coordinación General, remitiéndolo a la Secretaría de Administración y Finanzas;
+
+XX. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo;
+
+XXI. Desempeñar las comisiones y funciones especiales que el Titular del Ejecutivo le confiera y mantenerlo informado del desarrollo de las mismas; y,
+
+XXII. Las demás que le atribuyan las leyes, reglamentos y acuerdos o que expresamente le confiera el Titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2006)</small>
 
 ###### Artículo 48.
 
-Al titular de esta entidad administrativa se le denominará Coordinador General de Asesores del Gobernador Constitucional del Estado. Para el despacho de los asuntos de su competencia, se auxiliará de los servidores públicos que señale su reglamento interior o que determine el presupuesto de egresos.
+Al titular de esta entidad administrativa se le denominará Coordinador General de Asesoría y Políticas Públicas. Para el despacho de los asuntos de su competencia, se auxiliará de los servidores públicos y unidades administrativas que señale su Reglamento Interior y que determine el presupuesto de egresos.
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
@@ -1440,3 +1426,9 @@ Artículo Único. El presente Decreto entrará en vigor el día siguiente de su 
 P.O. 15 DE FEBRERO DE 2006.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE MAYO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
