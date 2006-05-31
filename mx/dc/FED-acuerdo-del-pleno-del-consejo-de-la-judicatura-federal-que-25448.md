@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-pleno-del-consejo-de-la-judicatura-federal-que-2544
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-08-19"
-last_updated: "1998-08-19"
+last_updated: "2006-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-19"
 
 ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA ATENCION DE LOS ASUNTOS RELACIONADOS CON LOS BIENES ASEGURADOS Y DECOMISADOS A QUE SE REFIEREN LOS ARTICULOS 40 Y 41 DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2006.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, en la página 973 del Tomo VIII de Agosto de 1998.
 
@@ -59,7 +59,7 @@ Si se trata de los últimos bienes, se atenderá a lo dispuesto por la legislaci
 
 Para los efectos señalados en el artículo anterior, el Juez de Distrito del conocimiento pondrá a disposición del Consejo de la Judicatura Federal los bienes referidos a través de la Contraloría del Poder Judicial de la Federación.
 
-El Consejo de la Judicatura Federal enviará a la Secretaría de Hacienda y Crédito Público aquellos bienes que por disposición de la ley o por razones de utilidad deban ser subastados para aplicar el producto de su venta en beneficio de la administración de justicia.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 19/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2006)</small>
 
 Los bienes que sean de utilidad para el Poder Judicial de la Federación, serán asignados a los órganos jurisdiccionales o administrativos donde se requieran para beneficio de la administración de justicia.
 
@@ -67,7 +67,7 @@ Los bienes que consistan en numerario en moneda nacional y extranjera se aplicar
 
 ###### ARTÍCULO 4o.
 
-La Contraloría del Poder Judicial de la Federación, concertará con la Secretaría de Hacienda y Crédito Público, un convenio de colaboración en el que se establezcan los mecanismos necesarios para la implementación del presente acuerdo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 19/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2006)
 
 ###### ARTÍCULO 5o.
 
@@ -77,7 +77,7 @@ Para la asignación directa de bienes decomisados, la Comisión de Administraci�
 
 Atendiendo a la naturaleza y características de algunos bienes que no sean de utilidad para la administración de justicia, la Comisión de Administración podrá someter a consideración del Pleno del Consejo, que se donen a una institución pública, para el apoyo a las funciones que la ley les otorga, o a una institución privada con fines de beneficencia o asistencia social.
 
-En caso de que los bienes decomisados no puedan ser inmediatamente aprovechables, y los asegurados no reclamados, serán remitidos a la Secretaría de Hacienda y Crédito Público, para su enajenación, conforme al convenio de colaboración a que se refiere el artículo anterior.
+> <small>(DEROGADO CUARTO PARRAFO POR EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 19/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2006)</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -92,3 +92,15 @@ CUARTO.- Se instruye al secretario Ejecutivo del Pleno y Carrera Judicial, a fin
 QUINTO.- Se instruye al secretario Ejecutivo del Pleno y Carrera Judicial, haga las gestiones conducentes para la publicación del presente acuerdo en el Semanario Judicial de la Federación y su Gaceta.
 
 LICENCIADO ADOLFO O. ARAGÓN MENDÍA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo del Pleno del Consejo de la Judicatura Federal, que fija las bases para la atención de los asuntos relacionados con los bienes asegurados y decomisados a que se refieren los artículos 40 y 41 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, fue aprobado por el propio Pleno, en sesión de diecinueve de agosto de mil novecientos noventa y ocho, por unanimidad de cinco votos de los señores consejeros: presidente Ministro José Vicente Aguinaco Alemán, Rodolfo Héctor Lara Ponte, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a veintiuno de agosto de mil novecientos noventa y ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS QUE REFORMAN EL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE MAYO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a los treinta días siguientes al de su publicación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación.
+
+TERCERO.- La Contraloría del Poder Judicial de la Federación elaborará el formato del Certificado de Disponibilidad a que se refiere el artículo 3 del presente Acuerdo, y deberá remitirlo a los titulares de los juzgados de Distrito antes de la entrada en vigor de este Acuerdo.
+
+CUARTO.- Se derogan el párrafo segundo del artículo 3o., el artículo 4o., así como el cuarto párrafo del numeral 5o., del Acuerdo del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Atención de los Asuntos Relacionados con los Bienes Asegurados y Decomisados a que se Refieren los Artículos 40 y 41 del Código Penal para el Distrito Federal en Materia de Fuero Común y para Toda la República en Materia de Fuero Federal, aprobado en sesión de diecinueve de agosto de mil novecientos noventa y ocho; así como las demás disposiciones que se opongan al presente Acuerdo.
