@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2004-09-29"
+last_updated: "2006-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -1241,9 +1241,11 @@ IV. No haber sido durante los últimos tres años miembro de la dirigencia Estat
 
 V. Las demás que señalen los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2006)</small>
+
 ###### ARTÍCULO 78.
 
-La Auditoría Superior Gubernamental es la entidad de fiscalización perteneciente al Congreso del Estado, que se integra, rige y depende en los términos de la ley de la materia.
+La Auditoría Superior Gubernamental es el Órgano Superior de Auditoría Gubernamental con que cuenta el Congreso del Estado, creada constitucionalmente, se integra y se rige en los términos de la ley de la materia, tiene autonomía de gestión, contará con un presupuesto del asignado al Congreso del Estado e integrará el Fondo para el Fortalecimiento de la Fiscalización Superior.
 
 ###### ARTÍCULO 79.
 
@@ -1508,3 +1510,9 @@ P.O. 29 DE SEPTIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
 
 SEGUNDO.- El presente Decreto túrnese al Titular del Poder Ejecutivo para los efectos de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión del Gobierno del Estado.
+
+P.O. 31 DE MAYO DE 2006.
+
+PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
