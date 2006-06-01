@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2003-05-22"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -747,7 +747,9 @@ REGISTRO DEL PATRIMONIO DE LOS SERVIDORES PUBLICOS.
 
 El registro de la situación patrimonial de los servidores públicos se llevará de conformidad con esta Ley y demás disposiciones aplicables y, según la competencia, estará a cargo de:
 
-I.- La Gran Comisión del Congreso;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2006)</small>
+
+I.- La Junta de Coordinación Política del Congreso del Estado;
 
 II.- La Dirección de Contraloría del Supremo Tribunal de Justicia, en términos de la fracción V del artículo 131 de la Ley Orgánica del Poder Judicial del Estado;
 
@@ -761,9 +763,9 @@ IV.- El Ejecutivo del Estado, en tratándose de los servidores públicos de conf
 
 Tienen obligación de presentar declaraciones inicial, actual y final de situación patrimonial, bajo protesta de decir verdad:
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2006)</small>
 
-I.- En el Congreso del Estado: Diputados, Oficial Mayor y Auditor Superior del Estado;
+I.- En el Congreso del Estado: Diputados, Secretario General, el Titular de la Unidad de Servicios Administrativos y Financieros y Auditor Superior del Estado;
 
 II.- En el Poder Judicial del Estado: Magistrados, Jueces, Secretarios de Acuerdos, Relatores y Actuarios;
 
@@ -918,3 +920,9 @@ Artículo Tercero.- La presentación de la declaración inicial de situación pa
 P.O. 22 DE MAYO DE 2003
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
