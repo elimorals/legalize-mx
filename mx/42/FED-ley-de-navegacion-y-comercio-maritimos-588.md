@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1994-01-04"
+last_updated: "2006-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-> <small>N. DE E. MEDIANTE DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DE 4 DE ENERO DE 1994 SE DEROGO LA PRESENTE LEY EN VARIAS DE SUS DISPOSICIONES, SALVO LOS ARTICULOS 222 AL 232 Y 234 AL 250.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMOS, PUBLICADA EN EL D.O.F. DE 1 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -1577,3 +1577,27 @@ CUARTO.- En tanto no sean expedidos los reglamentos de la presente ley, se conti
 QUINTO.- Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la fecha de expedición de la presente ley, continuarán en vigor hasta el término de su vigencia, sin perjuicio de lo dispuesto en la Ley de Puertos.
 
 SEXTO.- Las solicitudes de concesiones, permisos o autorizaciones, que se encuentren en proceso de trámite al entrar en vigor la presente ley, quedarán sujetas al régimen y condiciones previstas en la misma.
+
+D.O.F. 1 DE JUNIO DE 2006.
+
+Artículo Primero.- Se abroga la Ley de Navegación publicada el 4 de enero de 1994 y sus reformas de 23 de enero de 1998 y 26 de mayo del 2000.
+
+Artículo Segundo.- Se abroga la Ley de Navegación y Comercio Marítimos publicada en el Diario Oficial de la Federación del 21 de Noviembre de 1963.
+
+Artículo Tercero.- Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Cuarto.- La Secretaría y demás autoridades competentes que regulen actividades establecidas en esta ley deberán, dentro del término de ciento ochenta días, expedir las disposiciones reglamentarias derivadas de ésta Ley y en tanto no sean expedidas éstas, se continuarán aplicando las vigentes, en lo que no se opongan a éste ordenamiento.
+
+El reglamento respectivo establecerá los regímenes de navegación permitidos para cada tipo de embarcación pesquera, atendiendo a las disposiciones aplicables sobre la seguridad de la vida humana en el mar.
+
+Artículo Quinto.- Los permisos y autorizaciones otorgadas con anterioridad a la fecha de promulgación de la presente Ley, continuarán en vigor hasta el término de su vigencia.
+
+Artículo Sexto.- Las solicitudes de permisos o autorizaciones, que se encuentren en proceso de trámite al entrar en vigor la presente Ley, quedarán sujetas al régimen y condiciones previstos por ésta.
+
+Artículo Séptimo.- Las embarcaciones que al entrar en vigor esta Ley se ubiquen en los supuestos señalados en el artículo 89 de la misma, tendrán un plazo de 30 días hábiles para ser retiradas sin que la capitanía de puerto competente declare su abandono.
+
+Artículo Octavo.- El Ejecutivo Federal deberá publicar los reglamentos de la presente Ley en un año calendario a contar a partir de la fecha de publicación de la presente Ley en el Diario Oficial de la Federación.
+
+Artículo Noveno.- La presente Ley entrará en vigor a los 30 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
+
+Artículo Décimo.- Los certificados de competencia, así como los nombramientos de pilotos de puerto, expedidos con anterioridad a la entrada en vigor de la presente Ley, serán respetados y tendrán plena vigencia. La Secretaría de Comunicaciones y Transportes, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor de esta ley, realizará el canje de los permisos para la prestación del servicio de pilotaje por los respectivos certificados de competencia previstos en el artículo 56 de esta Ley a favor de sus titulares, para lo cual no exigirá mayor requisito de la presentación del propio permiso.
