@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-atencion-y-asistencia-de-la-violencia-14496"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-05"
-last_updated: "1999-06-05"
+last_updated: "2006-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCION, ATENCION Y ASISTENCIA DE LA VIOLENCIA INTRAFAMILIAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de junio de 1999.
 
@@ -73,7 +73,9 @@ V.- Ley.- Ley de Prevención, Atención y Asistencia de la Violencia Intrafamili
 
 VI.- Procuraduría.- Procuraduría General de Justicia del Estado de Tamaulipas;
 
-VII.- Secretarías.- Secretaría General de Gobierno y Secretaría de Desarrollo Social, de acuerdo a su competencia; y
+(REFORMADA, P.O. 1 DE JUNIO DE 2006) (F. DE E., P.O. 14 DE JUNIO DE 2006)
+
+VII.- Secretarías.- Secretaría General de Gobierno, Secretaría de Desarrollo Social, Cultura y Deporte, Secretaría de Salud y Secretaría de Educación;
 
 VIII.- D.I.F..- Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
@@ -85,9 +87,15 @@ Corresponde la aplicación de esta Ley, al Gobierno del Estado y a los Ayuntamie
 
 ### CAPITULO UNICO. DE LA COORDINACION Y CONCERTACION
 
-###### ARTICULO 5o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2006)</small>
 
-Se crea el Consejo para la Prevención, Atención y Asistencia de la Violencia Intrafamiliar en el Estado de Tamaulipas, como órgano honorario, de apoyo, normativo, de consulta, de evaluación y coordinación de las tareas y acciones que en materia de violencia intrafamiliar se realicen, presidido por el Ejecutivo del Estado, e integrado por representantes de las Secretarías General, de Desarrollo Social, el D.I.F., la Procuraduría y de las organizaciones civiles que se convoquen.
+###### Artículo 5º.
+
+Se crea el Consejo para la Prevención, Atención y Asistencia de la Violencia Intrafamiliar en el Estado de Tamaulipas, como órgano honorario, de apoyo, normativo, de consulta, de evaluación y coordinación de las tareas y acciones que en materia de violencia intrafamiliar se realicen, presidido por el Titular del Poder Ejecutivo del Estado e integrado por los Titulares de la Procuraduría, de las Secretarías General, de Desarrollo Social, Cultura y Deporte, de Salud, de Educación, el D.I.F., Comisión Estatal de Derechos Humanos, del Instituto de la Mujer, del Instituto Tamaulipeco de la Juventud y de las organizaciones civiles que se convoquen.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2006)</small>
+
+En caso de ausencia del titular del Ejecutivo del Estado, el Consejo será presidido por el titular de la Procuraduría. Los Titulares de las Dependencias e Instituciones antes citadas designarán a sus respectivos suplentes.
 
 El Consejo contará con una Secretaría Ejecutiva, dependiente del Sistema para el Desarrollo Integral de la Familia; la persona designada tendrá a su cargo la operatividad de la aplicación de la Ley.
 
@@ -334,3 +342,11 @@ A T E N T A M E N T E
 "SUFRAGIO EFECTIVO. NO REELECCION".
 
 El Gobernador Constitucional del Estado. TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO. LAURA ALICIA GARZA GALINDO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el Día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
