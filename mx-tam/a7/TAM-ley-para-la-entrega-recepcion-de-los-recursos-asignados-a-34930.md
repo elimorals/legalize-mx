@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2003-11-06"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -79,15 +79,21 @@ C) Los titulares de las áreas que integran las dependencias referidas en el inc
 
 II.- En el Poder Legislativo:
 
-A) El Presidente de la Gran Comisión;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
 
-B) El Oficial Mayor;
+A) El Presidente de la Junta de Coordinación Política;
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
+
+B) El Secretario General;
 
 C) El Auditor Superior del Estado;
 
 D) Los Auditores Especiales;
 
-E) Los Directores; y
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
+
+E) Los Titulares de las diferentes Unidades; y
 
 F) Los Jefes de Departamento;
 
@@ -333,11 +339,15 @@ Los servidores públicos que habrán de concluir en su función deberán proporc
 
 La información relativa a los recursos humanos, materiales y financieros que se entregan, se registrará en los formatos autorizados por el Organo de Control correspondiente, los cuales deberán complementarse por cuadruplicado y validarse con la firma autógrafa de quienes intervienen en el acto de entrega-recepción, en los términos de los artículos 28 y 29 de la presente ley.
 
-En el caso de la entrega-recepción final, la información será validada con la firma autógrafa del titular de la dependencia o entidad del Poder Ejecutivo, del Presidente de la Gran Comisión del Congreso, del Presidente del Supremo Tribunal de Justicia, del Presidente Municipal o del titular de la dependencia o entidad municipal, según corresponda, en el formato especialmente diseñado para este objeto, el cual se incorporará como parte integral de los formatos aludidos en el párrafo anterior. Asimismo, también deberá validarla el titular de la Unidad Administrativa, quien será responsable de su contenido.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
+
+En el caso de la entrega-recepción final, la información será validada con la firma autógrafa del titular de la dependencia o entidad del Poder Ejecutivo, del Presidente de la Junta de Coordinación Política del Congreso del Estado, del Presidente del Supremo Tribunal de Justicia, del Presidente Municipal o del titular de la dependencia o entidad municipal, según corresponda, en el formato especialmente diseñado para este objeto, el cual se incorporará como parte integral de los formatos aludidos en el párrafo anterior. Asimismo, también deberá validarla el titular de la Unidad Administrativa, quien será responsable de su contenido.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
 
 ###### Artículo 18.
 
-Cuando se trate del acto de entrega-recepción intermedio que deba realizarse por el titular de una dependencia o entidad del Poder Ejecutivo; por el Presidente de la Gran Comisión del Congreso del Estado; por el Presidente del Supremo Tribunal de Justicia; por un Presidente Municipal, o por el titular de una dependencia o entidad municipal, la información relativa a los recursos humanos, materiales y financieros que se entreguen, deberá ser la correspondiente a las oficinas asignadas para su despacho.
+Cuando se trate del acto de entrega-recepción intermedio que deba realizarse por el titular de una dependencia o entidad del Poder Ejecutivo; por el Presidente de la Junta de Coordinación Política del Congreso del Estado; por el Presidente del Supremo Tribunal de Justicia; por un Presidente Municipal, o por el titular de una dependencia o entidad municipal, la información relativa a los recursos humanos, materiales y financieros que se entreguen, deberá ser la correspondiente a las oficinas asignadas para su despacho.
 
 ###### Artículo 19.
 
@@ -355,7 +365,9 @@ V.- Un ejemplar de la información reproducida quedará en poder del servidor p�
 
 Cuando la información solicitada en los términos del párrafo anterior, haya sido generada dentro de los quince días previos al acto de entrega-recepción, deberá solicitarse una vez que se haya formalizado dicho acto, teniendo la obligación las autoridades correspondientes de atender dicha petición dentro del término de cinco días hábiles contados a partir de la presentación de la misma.
 
-Cuando el interesado en obtener copia de la información sea titular del Organo de Control de cualquiera de los Poderes o Ayuntamientos del Estado, la comunicación escrita a que hace referencia la fracción I de este artículo, será dirigida al Gobernador del Estado, al Presidente de la Gran Comisión del Congreso del Estado, al Pleno del Supremo Tribunal de Justicia, o al Ayuntamiento del Municipio, según corresponda, quienes designarán a la persona que actuará para los efectos de lo previsto en las fracciones III y IV de este precepto.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
+
+Cuando el interesado en obtener copia de la información sea el titular del órgano de Control de cualquiera de los Poderes o Ayuntamientos del Estado, la comunicación escrita a que hace referencia la fracción I de este artículo, será dirigida al Gobernador del Estado, al Presidente de la Junta de Coordinación Política del Congreso del Estado, al Pleno del Supremo Tribunal de Justicia, o al Ayuntamiento del Municipio, según corresponda, quienes designarán a la persona que actuará para los efectos de lo previsto en las fracciones III y IV de este precepto.
 
 La solicitud del servidor público para la obtención de copia de información a que se refiere la fracción I y el testimonio público señalado en la fracción IV, formarán parte del acta de entrega-recepción que se realice en los términos de la presente ley.
 
@@ -437,9 +449,13 @@ IV.- El titular o representante del Organo de Control de los Poderes Ejecutivo, 
 
 En la formalización del acto de entrega-recepción final intervendrán:
 
-I.- El titular de la dependencia o entidad del Poder Ejecutivo; el Presidente de la Gran Comisión del Congreso del Estado; el Presidente del Supremo Tribunal de Justicia; el Presidente Municipal que entrega, o el titular de la entidad paramunicipal que entrega según corresponda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2006)</small>
 
-II.- La persona que asumirá la titularidad de la dependencia o entidad del Poder Ejecutivo, de la Presidencia de la Gran Comisión del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, de la Presidencia Municipal o de la titularidad de la entidad municipal que recibe, según corresponda;
+I.- El titular de la dependencia o entidad del Poder Ejecutivo; el Presidente de la Junta de Coordinación Política del Congreso del Estado; el Presidente del Supremo Tribunal de Justicia; el Presidente Municipal que entrega, o el titular de la entidad paramunicipal que entrega según corresponda;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2006)</small>
+
+II.- La persona que asumirá la titularidad de la dependencia o entidad del Poder Ejecutivo, de la Presidencia de la Junta de Coordinación Política del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, de la Presidencia Municipal o de la titularidad de la entidad municipal que recibe, según corresponda;
 
 III.- El Director Administrativo saliente o su similar de la dependencia o entidad del Poder Ejecutivo, del Poder Legislativo, del Poder Judicial, o de la entidad paramunicipal; en tratándose de los Ayuntamientos, la persona que designe el presidente Municipal en términos del segundo párrafo del artículo 26 de esta ley; y
 
@@ -447,9 +463,11 @@ IV.- El titular o representante del Organo de Control de la dependencia o entida
 
 En el caso del titular del Poder Ejecutivo, éste podrá designar a una persona para que formalice la entrega de los recursos asignados a las oficinas de su despacho.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2006)</small>
+
 ###### Artículo 30.
 
-Dentro de los tres días hábiles siguientes a la formalización del acto a que se refiere el artículo anterior, la persona que reciba, sea el titular de la dependencia o entidad del Poder Ejecutivo, la Presidencia de la Gran Comisión del Congreso, de la Presidencia del Supremo Tribunal de Justicia, de la Presidencia Municipal o de la titularidad de la entidad municipal, remitirá la información y documentación correspondiente al titular de cada Unidad Administrativa adscrita a la esfera de competencia que corresponda a la función que se asume.
+Dentro de los tres días hábiles siguientes a la formalización del acto a que se refiere el artículo anterior, la persona que reciba, sea el titular de la dependencia o entidad del Poder Ejecutivo, la Presidencia de la Junta de Coordinación Política del Congreso del Estado, de la Presidencia del Supremo Tribunal de Justicia, de la Presidencia Municipal o de la titularidad de la entidad municipal, remitirá la información y documentación correspondiente al titular de cada Unidad Administrativa adscrita a la esfera de competencia que corresponda a la función que se asume.
 
 ###### Artículo 31.
 
@@ -494,3 +512,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de noviembre del año dos mil tres.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
