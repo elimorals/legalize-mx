@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2006-02-03"
+last_updated: "2006-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -206,7 +206,7 @@ Aniversario de la Victoria de las armas nacionales sobre el Imperio en 1867.
 
 > <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
 
-1o. de septiembre.
+1o. de septiembre:
 
 Apertura del primer período de sesiones ordinarias del Congreso de la Unión.
 
@@ -315,6 +315,12 @@ Aniversario de la muerte de Benito Juárez en 1872.
 30 de julio:
 
 Aniversario de la muerte de Miguel Hidalgo y Costilla en 1811.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2006)</small>
+
+12 de septiembre:
+
+Conmemoración de la gesta heroica del Batallón de San Patricio en 1847.
 
 13 de septiembre:
 
@@ -717,3 +723,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente al de
 D.O.F. 3 DE FEBRERO DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
