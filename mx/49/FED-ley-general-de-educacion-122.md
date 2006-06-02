@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2005-01-04"
+last_updated: "2006-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -106,7 +106,11 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
 
-XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
+XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2006)</small>
+
+XIII.- Fomentar los valores y principios del cooperativismo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -250,9 +254,15 @@ VIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigaci�
 
 IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
 
-X.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2006)</small>
 
-XI.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+X.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2006)</small>
+
+XI.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares, y
+
+XII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 El Ejecutivo Federal y el gobierno de cada entidad federativa podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, les confieren los artículos 12 y 13.
 
@@ -484,9 +494,11 @@ Esta educación incluye orientación a los padres o tutores, así como también 
 
 En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 43.
 
-La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación básica y comprende, entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la solidaridad social.
+La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación primaria y secundaria. La misma se presta a través de servicios de alfabetización, educación primaria y secundaria, así como la formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la solidaridad social.
 
 ###### ARTICULO 44.
 
@@ -975,3 +987,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cabal cumplimiento a lo dispuesto en el presente Decreto, las autoridades educativas federal, estatales y municipales, en sus respectivos ámbitos de competencia, establecerán instrumentos y mecanismos técnico-pedagógicos y financieros como estímulos o subvenciones, a fin de ampliar la cobertura y garantizar la permanencia, el fortalecimiento y eficiencia terminal de los estudiantes del nivel medio superior de la educación pública del país y fortalecer su estructura.
+
+D.O.F. 2 DE JUNIO DE 2006.
+
+DECRETO QUE REFORMA EL ARTICULO 43 DE LA LEY GENERAL DE EDUCACION.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2006.
+
+DECRETO QUE ADICIONA UNA FRACCION XIII AL ARTICULO 7 Y UNA FRACCION XI, PASANDO LA ACTUAL A SER FRACCION XII, AL ARTICULO 14 DE LA LEY GENERAL DE EDUCACION.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal deberá actualizar y modernizar el Reglamento de Cooperativas Escolares vigente desde 1982, utilizando para tal fin el esquema de participación sectorial que más convenga a la dependencia, en un plazo no mayor a sesenta días a partir de la publicación del presente decreto.
