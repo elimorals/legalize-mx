@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2003-05-21"
+last_updated: "2006-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -58,9 +58,9 @@ Las universidades y demás instituciones de educación superior a las que la Ley
 
 Las dependencias de la Administración Pública Federal que tengan como objeto predominante realizar actividades de investigación científica y tecnológica y que sean reconocidas como tales, serán consideradas como Centros Públicos de Investigación, los cuales se regirán por las leyes específicas en materia de ciencia y tecnología y por sus respectivos instrumentos de creación. En lo relativo al control y evaluación del ejercicio de los recursos se aplicará en lo conducente, la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2006)</small>
 
-La Comisión Nacional de Derechos Humanos, la Procuraduría Agraria y la Procuraduría Federal del Consumidor, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
+La Comisión Nacional de los Derechos Humanos, la Procuraduría Agraria, la Procuraduría Federal del Consumidor y la Agencia de Noticias del Estado Mexicano, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
 
 ###### ARTICULO 4o.
 
@@ -667,3 +667,7 @@ D.O.F. 4 DE JUNIO DE 2002.
 D.O.F. 21 DE MAYO DE 2003
 
 Unico.- Los artículos segundo y tercero de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
