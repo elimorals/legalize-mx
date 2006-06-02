@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2006-05-04"
+last_updated: "2006-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -314,7 +314,9 @@ XXV.- Formular, normar, coordinar y vigilar las políticas de apoyo a la partici
 
 XXVI.- Fijar el calendario oficial;
 
-XXVII.- Formular, regular y conducir la política de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información, así como la operación de la agencia noticiosa del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2006)</small>
+
+XXVII.- Formular, regular y conducir la política de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información;
 
 XXVIII.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal;
 
@@ -476,7 +478,7 @@ XVI.- Organizar y prestar los servicios de sanidad naval;
 
 XVII.- Programar, fomentar, desarrollar y ejecutar, sin perjuicio de las atribuciones que correspondan a otras dependencias, los trabajos de investigación científica y tecnológica en las ciencias marítimas, creando los institutos de investigación necesarios;
 
-XVIII.- Integrar el archivo de información oceanográfica nacional, y
+XVIII.- Integrar el archivo de información oceanográfica nacional, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
@@ -2147,3 +2149,7 @@ D.O.F. 4 DE MAYO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 2 DE JUNIO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
