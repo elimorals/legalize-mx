@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2005-11-05"
+last_updated: "2006-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -41,7 +41,7 @@ RESULTANDO SEGUNDO.- En sesión del Pleno correspondiente al 28 de Junio de 2005
 
 RESULTANDO TERCERO.- Por acuerdo de la Presidencia de la Mesa Directiva y con fundamento en lo dispuesto por los artículos 56, fracción 1, y 59, párrafo 1, fracción I de nuestro Reglamento General, las Iniciativas de referencia fueron turnadas a través de los Memorandos números 798 y 823, de fechas 16 y 28 de junio, a las Comisiones de Puntos Constitucionales y de Discapacitados y Tercera Edad, para su estudio y dictamen.
 
-RESULTANDO CUARTO.- Que por economía del proceso legislativo y de conformidad con lo dispuesto por el artículo 56 numeral 2 del Reglamento General del Poder Legislativo, por tratarse de asuntos relativos a la misma materia, las Comisiones Dictaminadoras ordenaron la acumulación de los Expedientes INI/037/2005 e INl/043/2005 a efecto de emitir un solo Dictamen, el que fue leído en sesión del Pleno de fecha 11 de octubre del 2005 y aprobado por el pleno de esta Legislatura en sesión celebrada el día 13 del mismo mes y año.
+RESULTANDO CUARTO.- Que por economía del proceso legislativo y de conformidad con lo dispuesto por el artículo 56 numeral 2 del Reglamento General del Poder Legislativo, por tratarse de asuntos relativos a la misma materia, las Comisiones Dictaminadoras ordenaron la acumulación de los Expedientes INI/037/2005 e INI/043/2005 a efecto de emitir un solo Dictamen, el que fue leído en sesión del Pleno de fecha 11 de octubre del 2005 y aprobado por el pleno de esta Legislatura en sesión celebrada el día 13 del mismo mes y año.
 
 EXPOSICIÓN DE MOTIVOS
 
@@ -349,7 +349,7 @@ I. Una Junta de Gobierno;
 
 II. Una Dirección General;
 
-IIII. Una Secretaría Técnica;
+III. Una Secretaría Técnica;
 
 IV. Un Comisariato; y
 
@@ -397,7 +397,7 @@ I. Aprobar, de acuerdo a los planes y programas del sector de desarrollo social 
 
 II. Aprobar el proyecto de presupuesto anual de ingresos y egresos de la Comisión;
 
-III. Aprobar las cuotas de recuperación de aquellos servicios que asÍ lo ameriten y los porcentajes de apoyo en la adaptación de ayudas técnicas;
+III. Aprobar las cuotas de recuperación de aquellos servicios que así lo ameriten y los porcentajes de apoyo en la adaptación de ayudas técnicas;
 
 IV. Analizar y aprobar la utilización de recursos crediticios, internos y externos, para el financiamiento de la Comisión, sujetándose a la observancia de los lineamientos que dicten las autoridades competentes en materia financiera;
 
@@ -1015,9 +1015,11 @@ La Dirección de Transporte Público y Vialidad, será la encargada de promover 
 
 La Comisión es la única instancia facultada para dotar de calcomanía, con el símbolo universal de discapacidad, a los vehículos que sean conducidos por personas con discapacidad o que les den servicio, a fin de que puedan hacer uso de los estacionamientos a ellos reservados.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2006)</small>
+
 ###### Artículo 95.
 
-El Ejecutivo del Estado, a través de la Dirección de Transporte Público y Vialidad, deberá incluir en las concesiones para el servicio de transporte público, la obligación de los concesionarios de otorgar un 50% de descuento en el pago de pasaje que del transporte público realicen a las personas con discapacidad, identificándose para ello, con la credencial que para este fin expida la Comisión.
+El Ejecutivo del Estado, a través de la Dirección de Transporte Público y Vialidad, deberá incluir en las concesiones para el servicio de transporte público, la obligación de los concesionarios de otorgar hasta un 50% de descuento en el pago de pasaje que del transporte público realicen las personas con discapacidad, identificándose para ello, con la credencial que para este fin expida la Comisión y de acuerdo al grado de incapacidad que en ésta se señale.
 
 ###### Artículo 96.
 
@@ -1071,7 +1073,9 @@ En el supuesto de incumplimiento de las autoridades responsables de la aplicaci�
 
 Las infracciones a las disposiciones de esta ley se sancionarán, según sea su naturaleza y la gravedad de las mismas, de la siguiente manera:
 
-I. Multa de hasta quinientas cuotas de salario mínimo general vigente en la entidad, al momento de cometerse la infracción, la que podrá ser duplicada en caso de reincidencia;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2006)</small>
+
+I. Multa de hasta cien cuotas de salario mínimo general vigente en la entidad, al momento de cometerse la infracción, la que podrá ser duplicada en caso de reincidencia en términos de lo que establezca el Reglamento respectivo;
 
 II. Arresto administrativo hasta por treinta y seis horas;
 
@@ -1164,3 +1168,9 @@ PRESIDENTE: DIP. ADÁN GONZÁLEZ AGOSTA; SECRETARIO: DIP. CARLOS ALVARADO CAMPA;
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, el día veinticinco del mes de Octubre del año dos mil cinco.- Atentamente Sufragio Efectivo. No Reelección.- LA GOBERNADORA DEL ESTADO DE ZACATECAS.- AMALIA D. GARCIA MEDINA.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. TOMAS TORRES MERCADO. Rúbricas.
+
+N. DE EL A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 3 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
