@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-23611"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-26"
-last_updated: "2004-11-24"
+last_updated: "2006-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de marzo de 2001.
 
@@ -789,9 +789,9 @@ XVII.- De la Familia;
 
 XVIII.- De Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2006)</small>
 
-XIX.- De Equidad Social y Humana;
+XIX.- De Equidad de Género, Social y Humana;
 
 > <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -1075,19 +1075,29 @@ II.- La creación y supresión de municipios; y
 
 III.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 94.
 
-Corresponde a la Comisión de Equidad Social y Humana el conocimiento y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Equidad de Género, Social y Humana, el conocimiento y Dictamen de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
 I.- Las iniciativas de Ley, reformas o adiciones relacionadas con la promoción de la igualdad entre las personas, sin importar cuestiones de género, edad, creencias religiosas, posición económica, cultura y demás actividades y comportamientos humanos que pudieren causar discriminación o segregación social o humana;
 
-II.- Las propuestas y medidas legislativas para dar cumplimiento a las convenciones internacionales de apoyo a la mujer, los menores, las personas de la tercera edad, y los grupos socialmente desprotegidos, y en particular su defensa en contra de la desigualdad;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2006)</small>
 
-III.- Las campañas para establecer medidas de acción afirmativas tendientes a desaparecer las desigualdades existentes, con el fin de posibilitar los cambios sociales requeridos que permitan hacer efectivo el ejercicio de la equidad;
+II.- Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos por México en materia de apoyo a la mujer, los menores, las personas de la tercera edad, y los grupos socialmente desprotegidos, así como darle seguimiento a los mismos;
 
-IV.- Las campañas para promover la cultura y equidad social y humana; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2006)</small>
+
+III.- Las campañas para establecer medidas de acción, tendientes a desaparecer las desigualdades existentes entre los géneros, con el fin de posibilitar los cambios sociales requeridos que permitan hacer efectivo el ejercicio de la equidad;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2006)</small>
+
+IV.- Las campañas para promover la cultura de equidad de género; y
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
 V.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
@@ -2722,3 +2732,9 @@ P.O. 24 DE NOVIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor para efectos de la vida interna del Congreso del Estado, a partir de su aprobación y para los efectos ante terceros, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
