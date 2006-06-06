@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-24956"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-06-11"
-last_updated: "2004-05-11"
+last_updated: "2006-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-10"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2002.
 
@@ -115,9 +115,13 @@ VI. Contribuir a la democratización de la sociedad mexicana y la plena vigencia
 
 La presente Ley es de observancia obligatoria para los servidores públicos federales.
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 6.
 
-En la interpretación de esta Ley se deberá favorecer el principio de publicidad de la información en posesión de los sujetos obligados.
+En la interpretación de esta Ley y de su Reglamento, así como de las normas de carácter general a las que se refiere el Artículo 61, se deberá favorecer el principio de máxima publicidad y disponibilidad de la información en posesión de los sujetos obligados.
+
+El derecho de acceso a la información pública se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos; la Declaración Universal de los Derechos Humanos; el Pacto Internacional de Derechos Civiles y Políticos; la Convención Americana sobre Derechos Humanos; la Convención Sobre la Eliminación de Todas las Formas de Discriminación Contra la Mujer, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados.
 
 ### Capítulo II. Obligaciones de transparencia
 
@@ -760,3 +764,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 11 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
