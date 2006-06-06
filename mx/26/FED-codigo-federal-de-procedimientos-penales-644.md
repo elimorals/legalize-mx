@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2006-05-25"
+last_updated: "2006-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2418,6 +2418,28 @@ El juez o tribunal desechará únicamente las preguntas que sean objetadas por i
 ###### ARTICULO 243.
 
 No se obligará a declarar al tutor, curador, pupilo o cónyuge del inculpado ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados y en la colateral hasta el cuarto inclusive, ni a los que estén ligados con el inculpado por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieren voluntad de declarar se hará constar esta circunstancia y se recibirá su declaración.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 243 Bis.
+
+No estarán obligados a declarar sobre la información que reciban, conozcan o tengan en su poder:
+
+I. Los abogados, consultores técnicos y los notarios, respecto de los asuntos en los cuales hubieran intervenido y tengan información que deban reservarse para el ejercicio de su profesión;
+
+II. Los ministros de cualquier culto, con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten;
+
+III. Los periodistas, respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta pudiera llevar a la identificación de las personas que, con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado;
+
+IV. Las personas o servidores públicos que desempeñen cualquier otro empleo, cargo oficio o profesión, en virtud del cual la ley les reconozca el deber de guardar reserva o secreto profesional, y
+
+V. Los médicos cirujanos o especialistas y psicólogos clínicos, respecto de la información concerniente a la salud de sus pacientes, que conozcan con motivo de su ejercicio profesional.
+
+En caso de que alguna o algunas de las personas comprendidas en las fracciones anteriores manifiesten su deseo de declarar y cuenten con el consentimiento expreso de quien les confió el secreto, información o confesión, se hará constar dicha circunstancia y se recibirá su declaración o testimonio.
+
+La reserva de información que, por disposición de la propia ley, deben guardar los servidores públicos, se hará del conocimiento de la autoridad que requiera la declaración o testimonio y, en todo caso, se estará a lo dispuesto en la ley que rija las facultades del servidor público correspondiente.
+
+Al servidor público que viole lo dispuesto en este artículo, se le aplicarán las penas a que se refiere el artículo 215 del Código Penal Federal, pero si el delito es cometido contra la administración de justicia, se le aplicarán las penas a que se refiere el artículo 225 del mismo ordenamiento.
 
 ###### ARTICULO 244.
 
@@ -4980,3 +5002,7 @@ D.O.F. 23 DE MAYO DE 2006.
 D.O.F. 25 DE MAYO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
