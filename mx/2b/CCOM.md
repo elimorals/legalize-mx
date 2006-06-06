@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2006-04-26"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -698,7 +698,9 @@ VIII. Las empresas de transportes de personas o cosas, por tierra o por agua; y 
 
 IX. Las librerías, y las empresas editoriales y tipográficas;
 
-X. Las empresas de comisiones, de agencias, de oficinas de negocios comerciales y establecimientos de ventas en pública almoneda;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2006)</small>
+
+X. Las empresas de comisiones, de agencias, de oficinas de negocios comerciales, casas de empeño y establecimientos de ventas en pública almoneda;
 
 XI. Las empresas de espectáculos públicos;
 
@@ -9005,3 +9007,13 @@ D.O.F. 26 DE ABRIL DE 2006.
 DECRETO QUE REFORMA LAS FRACCIONES V Y VI DEL ARTICULO 1068 DEL CODIGO DE COMERCIO.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los sujetos a los que hace referencia el artículo 65 Bis, tendrán un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el tercer párrafo del citado precepto.
+
+Tercero.- La Secretaría de Economía deberá emitir la Norma Oficial Mexicana a que se refiere el presente Decreto, de conformidad con lo dispuesto por la Ley Federal Sobre Metrología y Normalización.
+
+Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor de este decreto, cuentan con un plazo de seis meses contados a partir de la publicación de la Norma Oficial Mexicana a que se refiere el artículo anterior, para obtener el registro del contrato correspondiente ante la Procuraduría.
