@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -74,7 +74,9 @@ Pequeña 11-50 11-30 11-50
 
 Mediana 51-250 31-100 51-100
 
-Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y prestadores de servicios turísticos;
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
+Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;
 
 IV. Competitividad: La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;
 
@@ -453,3 +455,9 @@ Artículo Sexto.- En las Entidades Federativas o en el caso del Distrito Federal
 México, D.F., a 13 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Rafael Melgoza Radillo, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+Artículo Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
