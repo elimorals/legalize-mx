@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2006-01-26"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -623,9 +623,11 @@ Todos los servidores públicos que integran la planta de la Comisión Nacional, 
 
 ## TITULO VI. DEL PATRIMONIO Y DEL PRESUPUESTO DE LA COMISIÓN NACIONAL
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 75.
 
-La Comisión Nacional de Derechos Humanos contará con patrimonio propio. El Gobierno Federal deberá proporcionarle los recursos materiales y financieros para su debido funcionamiento.
+La Comisión Nacional de los Derechos Humanos contará con patrimonio propio. El Gobierno Federal deberá proporcionarle los recursos materiales y financieros para su debido funcionamiento.
 
 ###### ARTICULO 76.
 
@@ -680,3 +682,11 @@ SEGUNDO.- La Comisión Nacional de los Derechos Humanos realizará las reformas 
 TERCERO.- Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al efecto realice la Comisión en el ámbito de su competencia, deberán contemplar medidas tendientes a capacitar y especializar a los servidores públicos a cargo del área encargada del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres.
 
 CUARTO.- El área a que se refieren los numerales anteriores iniciará sus funciones al momento de entrar en vigor las adecuaciones al Reglamento Interior de la Comisión, con los recursos y la estructura que al efecto disponga ésta de acuerdo con su Presupuesto en vigor; sin perjuicio de las ampliaciones presupuestales que se propongan en términos de la Ley de la Comisión Nacional de los Derechos Humanos para los ejercicios fiscales subsecuentes y se aprueben en términos de la legislación aplicable.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El patrimonio del organismo descentralizado denominado "Comisión Nacional de Derechos Humanos" pasa a formar parte del organismo autónomo "Comisión Nacional de los Derechos Humanos".
+
+TERCERO.- Para efectos de la regularización de los bienes inmuebles a que se refiere la presente reforma, la Comisión Nacional de los Derechos Humanos deberá realizar el procedimiento administrativo correspondiente ante la Secretaría de la Función Pública, de conformidad con lo dispuesto en la Ley General de Bienes Nacionales.
