@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2003-03-18"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2006.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -49,9 +49,11 @@ LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto reglamentar el artículo 9 de la Constitución Política del Estado, en materia de aguas de jurisdicción estatal, así como establecer las bases de coordinación entre los Ayuntamientos y el Ejecutivo del Estado.
+La presente Ley es de orden público e interés social y tiene por objeto reglamentar el artículo 9 de la Constitución Política del Estado, en materia de aguas de jurisdicción estatal, así como establecer las bases de coordinación entre los ayuntamientos y el Ejecutivo del estado, en caso de aguas de jurisdicción nacional estarán a lo dispuesto por la legislación federal respectiva.
 
 Se consideran de jurisdicción estatal las aguas, sus cauces, lechos y riberas respectivos, localizadas en el territorio del Estado de Veracruz, en términos de lo dispuesto por la Constitución y leyes federales, esta ley y demás leyes del Estado.
 
@@ -63,11 +65,15 @@ En el Estado de Veracruz de Ignacio de la Llave se considerará de utilidad púb
 
 En materia de aguas de jurisdicción estatal, así como de aquellas que para su explotación, uso o aprovechamiento les asigne la Federación, los Ayuntamientos y el Ejecutivo del Estado, en sus respectivos ámbitos de competencia, tendrán las siguientes atribuciones:
 
-I. Administrar, suministrar, distribuir, controlar y preservar su cantidad y calidad para lograr el desarrollo sustentable de dicho recurso;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+I. Administrar, suministrar, distribuir, generar, controlar y preservar su cantidad y calidad para lograr el desarrollo sustentable de dicho recurso;
 
 II. Participar en el Sistema Veracruzano del Agua;
 
-III. Prestar o concesionar, total o parcialmente, el servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, de conformidad con lo dispuesto por esta ley y demás legislación aplicable;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+III. Prestar o concesionar, total o parcialmente, el servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, de conformidad con lo dispuesto por esta ley y demás legislación aplicable, velando siempre por el interés colectivo;
 
 IV. Participar en la planeación, regulación y expedición de la normatividad técnica en la materia;
 
@@ -75,13 +81,17 @@ V. Aplicar o establecer, según el caso, las cuotas o tarifas que correspondan p
 
 VI. Convenir la asunción del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de los servicios públicos.
 
-Los Ayuntamientos y el Ejecutivo del Estado estarán obligados a fomentar el uso racional del recurso hidráulico y el establecimiento de sistemas de información necesarios para su mejor explotación, uso o aprovechamiento.
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
+Los ayuntamientos y el Ejecutivo del estado estarán obligados a fomentar el uso racional del recurso hidráulico y el establecimiento de sistemas de información necesarios para su mejor explotación, uso o aprovechamiento, los vecinos del estado serán responsables por el uso del agua en los términos de la presente ley.
+
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
 
 ###### Artículo 3.
 
-Los Ayuntamientos, de conformidad con lo dispuesto por la Ley Orgánica del Municipio Libre, esta ley y demás leyes del Estado, prestarán, directamente o a través de sus correspondientes Organismos Operadores, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales. Asimismo, administrarán las aguas propiedad de la Nación que tuvieren asignadas, hasta antes de su descarga en cuerpos y corrientes que no sean de su propiedad.
+Los ayuntamientos de conformidad con lo dispuesto por la Ley Orgánica del Municipio Libre, esta ley y demás leyes del estado, prestarán, directamente o a través de sus correspondientes Organismos Operadores, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales. Asimismo, administrarán las aguas propiedad de la nación que tuvieren asignadas hasta antes de su descarga en cuerpos y corrientes que no sean de su competencia.
 
-El Ejecutivo del Estado, a través de la Comisión, ejercerá las atribuciones previstas en el artículo 2 de esta Ley y prestará los servicios de suministro de agua en bloque, drenaje, alcantarillado y tratamiento de aguas residuales, previo convenio a celebrarse en los términos de la presente Ley y demás legislación aplicable.
+El Ejecutivo del estado, a través de la Comisión del Agua del Estado de Veracruz de Ignacio de la Llave, ejercerá las atribuciones previstas en el artículo 2 de esta ley y prestará los servicios de suministro de agua en bloque, drenaje, alcantarillado y tratamiento de aguas residuales, en su caso, previo convenio a celebrarse en los términos de la presente ley y demás legislación aplicable.
 
 ###### Artículo 4.
 
@@ -177,9 +187,25 @@ XLIV. Uso Público Urbano: la utilización de agua para el abasto a centro de po
 
 XLV. Uso recreativo: la utilización del agua en actividades de esparcimiento, como balnearios, navegación y otras similares, que presten instituciones públicas o privadas con fines comerciales;
 
-XLVI. Usuario: las personas físicas o morales que hagan uso de los servicios a que se refiere la presente Ley; y
+XLVI. Usuario: las personas físicas o morales que hagan uso de los servicios a que se refiere la presente Ley; y (sic)
 
-XLVII. Zona de protección: la franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de jurisdicción estatal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hidráulicas a cargo del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, medida horizontalmente a partir del nivel de aguas máximas ordinarias. Dicha franja será de cinco metros cuando el cauce o depósito sea menor de cinco metros, y de diez metros cuando dicho cauce o depósito sea mayor a cinco metros. El nivel de aguas máximas ordinarias se calculará a partir de la creciente máxima ordinaria que estará asociada a un periodo de retorno de cinco años, de acuerdo con lo dispuesto en el reglamento de esta ley.
+XLVII. Zona de protección: la franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de jurisdicción estatal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hidráulicas a cargo del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, medida horizontalmente a partir del nivel de aguas máximas ordinarias. Dicha franja será de cinco metros cuando el cauce o depósito sea menor de cinco metros, y de diez metros cuando dicho cauce o depósito sea mayor a cinco metros. El nivel de aguas máximas ordinarias se calculará a partir de la creciente máxima ordinaria que estará asociada a un periodo de retorno de cinco años, de acuerdo con lo dispuesto en el reglamento de esta ley;
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+XLVIII. Desarrollo sustentable: en materia de recursos hídricos, es el proceso evaluable mediante criterios e indicadores de carácter hídrico, económico, social y ambiental, que tiende a mejorar la calidad de vida y la productividad de las personas, que se fundamenta en las medidas necesarias para la preservación del equilibrio hidrológico, el aprovechamiento y protección de los recursos hídricos, de manera que no se comprometa la satisfacción de las necesidades de agua de las generaciones futuras;
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+XLIX. Gestión del agua: proceso sustentado en el conjunto de principios, políticas, actos, recursos, instrumentos, normas formales y no formales, bienes, recursos, derechos, atribuciones y responsabilidades, mediante el cual coordinadamente el estado, los usuarios del agua y las organizaciones de la sociedad, promueven e instrumentan para lograr el desarrollo sustentable en beneficio de los seres humanos y su medio social, económico y ambiental, el control y manejo del agua y las cuencas hidrológicas, incluyendo los acuíferos, por ende su distribución y administración, la regulación de la explotación, uso o aprovechamiento del agua y la preservación y sustentabilidad de los recursos hídricos en cantidad y calidad, considerando los riesgos ante la ocurrencia de fenómenos hidrometeorológicos extraordinarios y daños a ecosistemas vitales y al medio ambiente. La gestión del agua comprende en su totalidad a la administración gubernamental del agua;
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+L. Gestión integrada de los recursos hídricos: proceso que promueve la gestión y desarrollo coordinado del agua, la tierra, los recursos relacionados con éstos y el ambiente, con el fin de maximizar el bienestar social y económico equitativamente sin comprometer la sustentabilidad de los ecosistemas vitales. Dicha gestión está íntimamente vinculada con el desarrollo sustentable. Para la aplicación de esta ley en relación con este concepto se consideran primordialmente agua y bosque; y
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+LI. Servicios ambientales: los beneficios de interés social que se generan o se derivan de las cuencas hidrológicas y sus componentes, tales como regulación climática, conservación de los ciclos hidrológicos, control de la erosión, control de inundaciones, recarga de acuíferos, mantenimiento de escurrimientos en calidad y cantidad, formación de suelo, captura de carbono, purificación de cuerpos de agua, así como conservación y protección de la biodiversidad; para la aplicación de este concepto en la ley se consideran primordialmente los recursos hídricos y su vínculo con los forestales.
 
 ###### Artículo 5.
 
@@ -189,9 +215,11 @@ En cualquier caso, la prestación del servicio se ajustará a criterios de gener
 
 ### CAPÍTULO II. DEL SISTEMA VERACRUZANO DEL AGUA
 
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 6.
 
-El Sistema Veracruzano del Agua se integra por el Ejecutivo del Estado, los Ayuntamientos y los sectores social y privado, así como por el conjunto de políticas, instrumentos, planes, programas, proyectos, obras, acciones, bases y normas que regulan la explotación, uso y aprovechamiento de las aguas en el territorio del Estado de Veracruz y la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, sin perjuicio de las atribuciones que la Constitución Federal y la Constitución Local otorgan a otras autoridades.
+El Sistema Veracruzano del Agua se integra por el conjunto de políticas, instrumentos, planes, programas, proyectos, obras, acciones, bases y normas que regulan la explotación, uso y aprovechamiento de las aguas en el territorio del estado de Veracruz y la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
 
 ###### Artículo 7.
 
@@ -213,7 +241,9 @@ VII. La coordinación, participación y corresponsabilidad de acciones entre los
 
 VIII. El establecimiento de un sistema financiero integral para el desarrollo hidráulico del Estado; y
 
-IX. La ejecución de las acciones necesarias para incorporar en los diversos niveles educativos y académicos, la cultura del ahorro y uso eficiente del agua como un recurso vital escaso, promoviendo el desarrollo de investigaciones técnicas, científicas y de mercado, que permitan lograr tal fin.
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+IX. La ejecución de las acciones necesarias para incorporar en todos los niveles educativos la cultura del ahorro y uso eficiente del agua como un recurso vital escaso, promoviendo el desarrollo de investigaciones técnicas, científicas y de mercado, que permitan lograr tal fin.
 
 ###### Artículo 8.
 
@@ -237,7 +267,9 @@ Los grupos académicos, especialistas y asociaciones, podrán participar en la p
 
 Para el establecimiento, conservación y desarrollo del Sistema Veracruzano del Agua, se declara de utilidad pública:
 
-I. La prestación de los servicios de suministro de agua en bloque, agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, a los centros de población y asentamientos humanos urbanos y rurales del Estado, incluyendo la planeación, diseño, construcción, ampliación, rehabilitación, conservación, mantenimiento, administración y recuperación de las obras necesarias;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+I. La prestación de los servicios de suministro de agua en bloque, agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, a los centros de población y asentamientos humanos urbanos y rurales del estado, incluyendo la planeación, diseño, construcción, ampliación, rehabilitación, conservación, mantenimiento, administración y recuperación de las obras necesarias, la generación de agua y la identificación y protección de zonas de recarga de mantos hídricos;
 
 II. La regulación, captación, conducción, potabilización, almacenamiento y distribución del agua; la colección, desalojo, tratamiento y aprovechamiento ulterior de las aguas residuales, y la disposición y manejo de los lodos producto de dicho tratamiento;
 
@@ -261,7 +293,7 @@ El Ejecutivo del Estado, por sí o a promoción de la Comisión o del Organismo 
 
 ###### Artículo 12.
 
-Se crea el Consejo del Sistema Veracruzano del Agua como instancia superior, responsable de la coordinación, planeación y supervisión del Sistema Veracruzano del Agua. El Consejo contará con autonomía técnica y de gestión, y su patrimonio se constituirá por:
+Se crea el Consejo del Sistema Veracruzano del Agua como instancia responsable de la coordinación, planeación y supervisión del Sistema Veracruzano del Agua. El Consejo contará con autonomía técnica y de gestión y su patrimonio se constituirá por:
 
 I. El presupuesto necesario para el cumplimiento de sus funciones, que apruebe el Congreso del Estado;
 
@@ -305,9 +337,21 @@ f) El Secretario de Desarrollo Agropecuario, Forestal y Pesquero.
 
 g) El Secretario de Educación y Cultura; y
 
+> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2006)</small>
+
+h) El Secretario de Salud; y
+
 III. Un Secretario del Consejo, designado por el Presidente del mismo.
 
 Previo acuerdo del Consejo, podrán participar en sus sesiones, titulares de los Organismos Operadores Municipales, representantes de organizaciones del sector social y privado, así como de las dependencias, entidades u órganos de naturaleza federal en la Entidad, vinculados directamente con la materia de aguas.
+
+> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2006)</small>
+
+El Congreso, previa calificación de la causa, podrá remover al Presidente del Consejo.
+
+> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2006)</small>
+
+El Consejo contará con el personal técnico y administrativo estrictamente necesario ara su funcionamiento, de conformidad con las disposiciones legales y presupuestales aplicables.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES ESTATALES Y MUNICIPALES
 
@@ -320,6 +364,8 @@ El Consejo celebrará una sesión ordinaria cada tres meses, así como las extra
 El Consejo tomará sus resoluciones mediante el voto de la mayoría de sus miembros presentes y, sólo en caso de empate, el Presidente tendrá voto de calidad.
 
 #### SECCIÓN PRIMERA. DEL CONSEJO DEL SISTEMA VERACRUZANO DEL AGUA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -337,7 +383,9 @@ V. Estudiar y, en su caso, atender las propuestas que en materia de agua realice
 
 VI. Aprobar las acciones de planeación y programación hidráulica que habrán de tratarse en el Consejo de Cuenca correspondiente;
 
-VII. Proponer al Ejecutivo Estatal actualizaciones al marco jurídico del sector hidráulico;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+VII. Proponer la actualización al marco jurídico del sector hidráulico;
 
 VIII. Desarrollar y promover la tecnología del agua en el Estado, así como impulsar su difusión y transferencia;
 
@@ -355,7 +403,9 @@ XIV. Prestar servicios de investigación, desarrollo tecnológico, capacitación
 
 XV. Establecer, en coordinación con las autoridades competentes, los mecanismos de regulación para el cumplimiento de normas para certificar la calidad del equipo y maquinaria asociados al uso y aprovechamiento del agua, así como para promover una nueva cultura del agua como un bien escaso y que requiere el cuidado de su calidad y desarrollo sustentable;
 
-XVI. Participar en la elaboración de anteproyectos de normas sobre agua y para la acreditación de laboratorios, así como establecer y evaluar indicadores de gestión en la prestación de los servicios que se regulan en esta Ley;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+XVI. Participar en la elaboración de anteproyectos de normas sobre agua y para la acreditación de laboratorios en el estado, así como establecer y evaluar indicadores de gestión en la prestación de los servicios que se regulan en esta ley;
 
 XVII. Proponer, consensuar, aprobar y difundir las orientaciones de política hidráulica y de los servicios públicos;
 
@@ -391,11 +441,13 @@ XXXII. Participar en los Consejos de Cuenca;
 
 XXXIII. Promover, conjuntamente con los Ayuntamientos, la construcción de obras de protección contra inundaciones;
 
-XXXIV. Emitir opinión, a solicitud del Congreso del Estado, en controversias surgidas por la prestación de los servicios públicos entre los Municipios y el Ejecutivo estatal en materia de aguas, así como en los procesos de concesiones para la prestación de dichos servicios públicos; y
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+XXXIV. Emitir opinión, a solicitud del Congreso del Estado, en controversias surgidas por la prestación de los servicios públicos entre los municipios y el Ejecutivo estatal en materia de aguas, así como en los procesos de concesiones para la prestación de dichos servicios públicos y en general sobre el servicio que estén prestando los organismos operadores; y
 
 XXXV. Las demás que expresamente señalen esta ley y demás legislación aplicable;
 
-El Consejo contará con el personal técnico y administrativo estrictamente necesario para su funcionamiento, de conformidad con las disposiciones legales y presupuestales aplicables.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -437,7 +489,9 @@ VI. Someter a la aprobación del Consejo, el anteproyecto de presupuesto, para s
 
 VII. Ejecutar los acuerdos del Consejo;
 
-VIII. Rendir, para su aprobación, un informe anual de actividades al Consejo;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+VIII. Rendir, para su aprobación, un informe anual de actividades al Consejo y una vez aprobado, presentarlo al Congreso del Estado;
 
 IX. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
@@ -449,11 +503,15 @@ XI. Las demás que señalen expresamente esta Ley y las leyes del Estado.
 
 La conducción, planeación, formulación, promoción, instauración, ejecución y evaluación de la Programación Hidráulica en el Estado comprenderá:
 
-I. La integración y actualización del inventario de las aguas nacionales asignadas por la Federación, al Estado o a los Ayuntamientos, de las que formen parte de reservas constituidas conforme a las leyes en la materia, y de las aguas de jurisdicción estatal y sus bienes públicos inherentes, así como de los usos del agua en la Entidad y de la infraestructura federal, estatal o municipal para su aprovechamiento y control;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+I. La integración y actualización del inventario de las aguas nacionales asignadas por la federación, al estado o a los municipios, de las que formen parte de reservas constituidas conforme a las leyes en la materia, y de las aguas de jurisdicción estatal y sus bienes públicos inherentes, así como de los usos del agua en la entidad y de la infraestructura federal, estatal o municipal para su aprovechamiento y control;
 
 II. La integración y actualización del catálogo de proyectos estatales y municipales para el aprovechamiento y manejo del agua en el Estado, y para la preservación y control de su calidad;
 
-III. La formulación de planes, programas, políticas y estrategias, sectoriales, regionales, municipales y de cuenca que permitan inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el Estado, así como el control y preservación de su cantidad y calidad, incluido el tratamiento y reúso de las aguas residuales;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+III. La formulación de planes, programas, políticas y estrategias, sectoriales, regionales, municipales y de cuenca que permitan inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el estado, así como la generación, control y preservación de su cantidad y calidad, incluido el tratamiento y reúso de las aguas residuales;
 
 IV. La aprobación, por parte del Ejecutivo, del Programa Hidráulico Estatal;
 
@@ -513,7 +571,9 @@ X. Solicitar a las autoridades competentes la expropiación, ocupación temporal
 
 XI. Establecer y difundir las normas técnicas referentes a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución del agua, drenaje, alcantarillado, disposición y tratamiento de aguas residuales;
 
-XII. Definir, en el ámbito de su competencia, las fuentes de abastecimiento de agua potable y las normas técnicas para su distribución;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+XII. Definir en el ámbito de su competencia, las fuentes de abastecimiento de agua y las normas técnicas para su distribución;
 
 XIII. Promover, apoyar y, en su caso, realizar por sí o a través de particulares, la potabilización del agua, el tratamiento de las aguas residuales y el reúso de las mismas;
 
@@ -679,9 +739,11 @@ La Comisión, durante el período de operación transitoria a que se refiere el 
 
 ### CAPÍTULO II. DE LAS AUTORIDADES MUNICIPALES
 
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 30.
 
-Los Ayuntamientos o, en su caso, los organismos operadores municipales a que se refiere el artículo 3 de esta ley, prestarán los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales. Asimismo, realizarán la construcción de las obras públicas necesarias para la prestación de dichos servicios y cobrarán al usuario las tarifas o cuotas correspondientes.
+Los ayuntamientos o, en su caso, los organismos operadores municipales a que se refiere el artículo 3 de esta ley, prestarán los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales. Asimismo, realizarán la construcción de las obras públicas necesarias para la prestación de dichos servicios y cobrarán al usuario las tarifas o cuotas correspondientes; realizarán acciones tendientes a la generación de agua y a la declaratoria de zonas de conservación a las que se determinen como de recarga de mantos y promoverán el pago de los servicios ambientales.
 
 ###### Artículo 31.
 
@@ -797,11 +859,15 @@ Por cada representante propietario se nombrará un suplente.
 
 Se podrá invitar a las sesiones del Órgano de Gobierno, a representantes de las dependencias federales, estatales o municipales, vinculados directamente con la materia de agua, los que participarán con voz, pero sin voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 38.
 
-El Órgano de Gobierno tendrá las siguientes atribuciones indelegables:
+El Órgano del Gobierno tendrá las siguientes atribuciones indelegables:
 
-I. Establecer, en el ámbito de su competencia, los lineamientos y políticas en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios públicos y realizarse las obras que para ese efecto se requieran;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+I. Establecer en el ámbito de su competencia y de conformidad con esta ley, los lineamientos y políticas en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios públicos y realizarse las obras que para ese efecto se requieran;
 
 II. Examinar y, en su caso, aprobar el programa operativo anual del organismo que le presente el Director y supervisar su ejecución;
 
@@ -861,7 +927,9 @@ VII. Gestionar y obtener, conforme a la legislación aplicable y previa autoriza
 
 VIII. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Órgano de Gobierno las erogaciones extraordinarias;
 
-IX. Ordenar el pago de los derechos por el uso o aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+IX. Ordenar el pago de los derechos de conformidad con la legislación aplicable;
 
 X. Ejecutar los acuerdos del Órgano de Gobierno;
 
@@ -909,11 +977,11 @@ El reglamento que al efecto se expida, determinará, de conformidad con las disp
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
 
 ###### Artículo 44.
 
-Se considera de interés público la promoción y fomento de la participación organizada del sector social y de los particulares para el financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del Estado de Veracruz de Ignacio de la Llave, así como para la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; y las acciones que promuevan el reúso de las aguas tratadas.
+Se considera de interés público la promoción y fomento de la participación organizada del sector social y del sector privado para el financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del estado de Veracruz-Llave (sic), así como para la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; y las acciones que promuevan el reúso de las aguas tratadas.
 
 ###### Artículo 45.
 
@@ -1221,9 +1289,11 @@ Para la contratación, conexión y prestación del servicio de drenaje y alcanta
 
 Corresponde a los usuarios no domésticos que efectúen descargas de aguas residuales a los sistemas de drenaje y alcantarillado, reintegrarlas en condiciones para su aprovechamiento y mantener el equilibrio ecológico de los ecosistemas o, en su caso, cubrir al prestador del servicio los costos por el servicio de tratamiento de agua.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 85.
 
-Para efectos de lo dispuesto en el artículo anterior, los organismos operadores, en el ámbito de sus respectivas atribuciones y en coordinación con las autoridades competentes, podrán:
+Para efectos de lo dispuesto en el artículo anterior, los organismos operadores, en el ámbito de sus respectivas atribuciones y en coordinación con las autoridades competentes, deberán:
 
 I. Aplicar las normas técnicas para el control y prevención de la contaminación de las aguas residuales, que se descarguen a los sistemas de drenaje de las poblaciones del Estado;
 
@@ -1263,13 +1333,17 @@ La construcción de las obras y el costo de la operación de los sistemas munici
 
 El Organismo Operador podrá supervisar que los proyectos y obras realizadas por los usuarios no domésticos, para el tratamiento y disposición de aguas residuales que se descarguen en el sistema de drenaje y alcantarillado, cumplan con las disposiciones en esa materia.
 
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 90.
 
-No efectuarán el pago de las cuotas y tarifas a que se refiere el artículo 103 de esta ley, los propietarios o poseedores de los predios responsables de las descargas que demuestren que éstas cumplen con las diversas disposiciones aplicables en materia de calidad de aguas residuales, comprobación que se hará en la forma y términos que determine el reglamento de la presente ley.
+No efectuarán el pago de las cuotas y tarifas por tratamiento y disposición de aguas residuales a que se refiere el artículo 103 de esta ley, los propietarios o poseedores de los predios responsables de las descargas que demuestren que éstas cumplen con las diversas disposiciones aplicables en materia de calidad de aguas residuales, comprobación que se hará en la forma y términos que determine el Reglamento de la presente ley.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 6 DE JUNIO DE 2006)</small>
 
 ###### Artículo 91.
 
-Los Organismos Operadores elaborarán y notificarán a las autoridades competentes y al Consejo, el inventario de las descargas de aguas residuales no domésticas que se vierten al sistema de drenaje y alcantarillado a su cargo, en el que se incluirán los volúmenes y condiciones de descarga autorizados.
+Los Organismos Operadores elaborarán y notificarán a las autoridades competentes y al Consejo, el inventario de las descargas de aguas residuales no domésticas que se vierten al sistema de drenaje y alcantarillado a su cargo, en el que se incluirán los volúmenes y condiciones particulares de descarga autorizados.
 
 En los sistemas de tratamiento y disposición de aguas residuales que se pretendan construir, se considerarán y deberán realizar los proyectos para el manejo y disposición final de lodos, en los términos de las disposiciones legales respectivas.
 
@@ -1277,7 +1351,9 @@ En los sistemas de tratamiento y disposición de aguas residuales que se pretend
 
 Los Organismos Operadores, en el ámbito de sus respectivas competencias, promoverán ante la autoridad federal competente, la fijación de parámetros específicos de calidad del agua residual que se descargue a un determinado depósito o corriente de propiedad nacional, a fin de establecer condiciones para conservar el cuerpo corriente.
 
-De igual manera, en los cuerpos y corrientes que en los términos de las disposiciones legales, queden a cargo de la administración de la autoridad estatal del agua, ésta promoverá ante el Ejecutivo del Estado las disposiciones reglamentarias para establecer el control y protección de los cuerpos de agua.
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
+De igual manera, en los cuerpos y corrientes que en los términos de las disposiciones legales queden a cargo de la administración de la autoridad estatal del agua, ésta promoverá ante el Ejecutivo del estado las disposiciones reglamentarias para establecer el control y protección de los cuerpos de agua en relación con las descargas.
 
 ###### Artículo 93.
 
@@ -1359,9 +1435,13 @@ I. La tarifa media de equilibrio de los servicios de abastecimiento de agua pota
 
 II. La tarifa media de equilibrio de los servicios de drenaje y alcantarillado;
 
-III. La tarifa media de equilibrio de los servicios de recolección, tratamiento y disposición de aguas residuales; y
+III. La tarifa media de equilibrio de los servicios de recolección, tratamiento y disposición de aguas residuales; y (sic)
 
-IV. La cuota por conexión a la red de agua potable.
+IV. La cuota por conexión a la red de agua potable;
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+V. La cuota por conexión al sistema de drenaje.
 
 ###### Artículo 103.
 
@@ -1375,11 +1455,15 @@ El cálculo de las cuotas por consumo de agua potable se efectuará aplicando la
 
 Cuando no se pueda determinar el volumen de agua, como consecuencia de la descompostura del medidor por causas no imputables al usuario, la tarifa de agua se pagará conforme a la cantidad de metros cúbicos usados en promedio de los tres últimos períodos, o en su defecto, del último periodo pagado, en los casos que determine el reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 105.
 
-La determinación y pago de la cuota por consumo de agua se realizará por períodos bimestrales y se deberá efectuar dentro del mes siguiente al bimestre que se cubre.
+La determinación y pago de la cuota por consumo de agua se realizará por períodos mensuales y se deberá efectuar dentro del mes siguiente al periodo que se cubre.
 
-La falta de pago de dos bimestres consecutivos, faculta al prestador del servicio a suspenderlo hasta que se regularice el pago y se cubran los gastos por el restablecimiento del servicio.
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
+La falta de pago de dos periodos consecutivos faculta al prestador del servicio a suspenderlo hasta que se regularice el pago y se cubran los gastos por el restablecimiento del servicio.
 
 Igualmente, el prestador del servicio podrá suspenderlo cuando se comprueben derivaciones no autorizadas o un uso distinto al contratado o convenido.
 
@@ -1405,9 +1489,11 @@ Además de las señaladas en el artículo 1 de esta Ley, se estiman aguas de jur
 
 La jurisdicción estatal de las aguas a que se refiere el párrafo anterior, subsistirá aun cuando las agua no cuenten con la declaratoria respectiva, emitida por el Ejecutivo del Estado; asimismo, subsistirá la propiedad de esas aguas, cuando mediante la construcción de obras, sean desviadas del cauce o de vaso originales, o se impida su afluencia a ellos. Las aguas residuales provenientes del uso de las aguas de jurisdicción estatal tendrán el mismo carácter.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 109.
 
-El Ejecutivo del Estado, a través de la Comisión y con base en los lineamientos que establezca el Sistema Veracruzano del Agua, vigilará que la explotación, uso, aprovechamiento, distribución y control de las aguas de jurisdicción estatal, se realice en los términos de la presente ley y demás legislación aplicable.
+El Ejecutivo del estado, a través de la Comisión y con base en los lineamientos que establezca el Consejo del Sistema Veracruzano del Agua, vigilará que la explotación, uso, aprovechamiento, distribución y control de las aguas de jurisdicción estatal, se realice en los términos de la presente ley y demás legislación aplicable.
 
 La explotación, uso o aprovechamiento de las aguas de jurisdicción estatal, así como de sus bienes inherentes, motivará el pago por parte del usuario de los derechos que establezcan las leyes de la materia.
 
@@ -1539,7 +1625,9 @@ Por tanto, se considera de interés público la promoción y ejecución de las m
 
 La Comisión, en coordinación con los ayuntamientos o sus respectivos organismos operadores, tendrá a su cargo:
 
-I. Realizar mediciones, estudios, investigaciones, planes y proyectos considerados en el Programa Hidráulico Estatal para la conservación y mejoramiento de la calidad del agua;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+I. Realizar mediciones, estudios, investigaciones, planes y proyectos considerados en el Programa Hidráulico Estatal para la generación del recurso, su conservación y mejoramiento de la calidad del agua;
 
 II. Promover, ejecutar y operar la infraestructura y los servicios necesarios para preservación, conservación y mejoramiento de la calidad del agua;
 
@@ -1707,9 +1795,11 @@ III. Definir las normas técnicas y realizar las acciones necesarias para evitar
 
 Las disposiciones contenidas en este capítulo serán aplicables para los organismos operadores de los servicios de agua potable, drenaje y tratamiento y disposición de aguas residuales, respecto de las obras que realicen para mejorar prestación del servicio.
 
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
 ###### Artículo 137.
 
-Los usuarios de las aguas de jurisdicción estatal, y los de los servicios públicos de agua potable, drenaje y tratamiento y disposición de aguas residuales, deberán conservar y mantener en óptimo estado sus instalaciones hidráulicas para evitar fugas y desperdicios de agua, así como para contribuir a la prevención y control de la contaminación del recurso.
+Los usuarios de las aguas de jurisdicción estatal, y los de los servicios públicos de agua potable, drenaje y tratamiento y disposición de aguas residuales, deberán conservar y mantener en óptimo estado sus instalaciones hidráulicas para evitar fugas y desperdicios de agua, así como para contribuir a la prevención y control de la contaminación del recurso y al pago de los servicios ambientales.
 
 ###### Artículo 138.
 
@@ -1763,7 +1853,9 @@ V. Los consumos de agua de los diferentes usuarios atiendan a los programas de u
 
 VI. Los diámetros y especificaciones técnicas de las descargas cumplan con lo dispuesto por las normas correspondientes al tipo de usuario autorizado; o
 
-VII. En las descargas no se presenten residuos sólidos o sustancias tóxicas o biológicas no autorizadas.
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+VII. En las descargas no se presenten residuos sólidos o sustancias peligrosas.
 
 ###### Artículo 145.
 
@@ -1843,7 +1935,9 @@ XXIII. Descargar aguas residuales en las redes de drenaje y alcantarillado, por 
 
 XXIV. Incumplir el concesionario con cualquier (sic) de las obligaciones establecidas en la presente ley, o las previstas en el título de concesión;
 
-XXV. Realizar campañas con fines de lucro o beneficios personales, con el objeto de incitar a la comunidad a incumplir con lo dispuesto en esta ley;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
+
+XXV. Realizar campañas con el objeto de incitar a la comunidad a incumplir con lo dispuesto en esta ley;
 
 XXVI. No registrar las instalaciones u obras hidráulicas ante la Comisión; o
 
@@ -1962,3 +2056,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 6 DE JUNIO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los organismos operadores de carácter municipal o regional creados como descentralizados, y en donde los municipios aún no hayan formalizado la transferencia del servicio, se integrarán a la Comisión del Agua del Estado, como oficinas operadoras de ésta, la Contraloría del Estado, supervisará esta incorporación en términos de la legislación aplicable.
