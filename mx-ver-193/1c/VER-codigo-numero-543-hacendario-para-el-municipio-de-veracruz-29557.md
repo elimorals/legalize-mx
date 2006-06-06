@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2006-01-11"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -132,8 +132,6 @@ XXI. Síndico: El Síndico del Ayuntamiento;
 XXII. Tesorería: La Tesorería del Ayuntamiento; y
 
 XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
-
-3.- La Hacienda Pública Municipal se formará por los bienes municipales del dominio público y privado, así como por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
 
 ###### Artículo 3.
 
@@ -1505,17 +1503,21 @@ Rangos de valor Construidos Baldíos
 
 ADELANTE 0.70 al millar 1.05 al millar
 
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
+
 Rurales
 
-Rangos de valor Construidos Baldíos
+RANGOS DE VALOR PARTICULARES EJIDALES
 
-1.00-78,822.00 8 salarios mínimos 8 salarios mínimos
+1.00 - 78,822.00 8 salarios mínimos 8 salarios mínimos
 
-78,823.00-293,333.00 4.50 al millar 8 salarios mínimos
+78,823.00 - 4.50 al millar 8 salarios mínimos
 
-293,334.00-EN
+293,333.00
 
-ADELANTE 4.50 al millar 1.40 al millar
+293,334.00 - EN 4.50 al millar 1.40 al millar
+
+ADELANTE
 
 ###### Artículo 118.
 
@@ -2767,7 +2769,7 @@ Popular 0.2
 
 II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.010 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
 
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento diez por ciento.
+Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -5082,3 +5084,7 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 G.O. 11 DE ENERO DE 2006.
 
 Artículo único. El presente Decreto entrará en vigor el 1 de enero del año 2006, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 6 DE JUNIO DE 2006.
+
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
