@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2005-12-22"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,9 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
-ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2005.
-
-Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
+Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
@@ -795,6 +793,16 @@ IV. El costo de los gastos de mantenimiento para el primer año y la manera en q
 V. Las opciones de intercambio con otros prestadores del servicio y si existen costos adicionales para realizar tales intercambios; y
 
 VI. Descripción de las fianzas y garantías que se otorgarán en favor del consumidor.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
+ARTICULO 65 BIS.- Los proveedores personas físicas o sociedades mercantiles no regulados por leyes financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán registrar su contrato de adhesión ante la Procuraduría.
+
+Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas por las leyes vigentes a las instituciones del sistema financiero nacional.
+
+Los proveedores deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos. Además deberán informar, el monto de la tasa de interés anualizada que se cobra sobre los saldos insolutos; dicha información deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+
+Los proveedores deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, la cual incluirá aspectos operativos tales como las características de la información que se debe proporcionar al consumidor, y los elementos de información que debe contener el contrato de adhesión que se utilice para formalizar las operaciones. Asimismo, deberá contener o permitir obtener para los principales servicios ofrecidos, la suma de todos los costos asociados a la operación.
 
 ### Capítulo VII. De las operaciones a crédito
 
@@ -1582,11 +1590,11 @@ Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás di
 
 Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $319.45 a $1'022,231.88.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $479.17 a $1'874,091.79.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $479.17 a $1'874,091.79.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2005)
 
@@ -1883,3 +1891,13 @@ NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigen
 ## TRANSITORIO
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2006.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los sujetos a los que hace referencia el artículo 65 Bis, tendrán un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el tercer párrafo del citado precepto.
+
+Tercero.- La Secretaría de Economía deberá emitir la Norma Oficial Mexicana a que se refiere el presente Decreto, de conformidad con lo dispuesto por la Ley Federal Sobre Metrología y Normalización.
+
+Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor de este decreto, cuentan con un plazo de seis meses contados a partir de la publicación de la Norma Oficial Mexicana a que se refiere el artículo anterior, para obtener el registro del contrato correspondiente ante la Procuraduría.
