@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2006-05-25"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -3592,7 +3592,7 @@ Los envases y empaques de las substancias psicotrópicas, para su expendio lleva
 
 ### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 257.
 
@@ -3842,7 +3842,9 @@ En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a men
 
 No se venderán o distribuirán cigarros a los consumidores en empaques que contengan menos de catorce cigarros, cigarros sueltos o tabaco picado en bolsas de menos de diez gramos.
 
-No se venderán o distribuirán cigarrillos en farmacias, boticas, hospitales, ni escuelas de nivel preescolar hasta bachillerato o preparatoria.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
+Por razones de orden público e interés social, no se venderán o distribuirán cigarrillos en farmacias, boticas, hospitales, ni escuelas de nivel preescolar hasta bachillerato o preparatoria.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
 
@@ -5344,7 +5346,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 > <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
-###### ARTICULO 414 Bis.
+###### Artículo 414 Bis.
 
 Será procedente la acción de aseguramiento prevista en el artículo 414 como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos de perfumería y belleza que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
 
@@ -6053,3 +6055,7 @@ SEGUNDO.- El Ejecutivo Federal contará con sesenta días a partir de la entrada
 D.O.F. 25 DE MAYO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
