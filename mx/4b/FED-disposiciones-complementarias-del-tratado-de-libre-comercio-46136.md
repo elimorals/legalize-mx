@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2006-05-17"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,31 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-AVISO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DE LOS ARTICULOS 3, 4 Y 5 DEL DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASÍ COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO POR EL CUAL SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, AL AMPARO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, VARILLA DE HIERRO O ACERO CORRUGADA O BARRAS DE HIERRO O ACERO PARA ARMADURAS, PARA CEMENTO U HORMIGON, Y PERFILES DE HIERRO O ACERO SIN ALEAR EN "L" ORIGINARIOS DE LA REPUBLICA DE EL SALVADOR.
 
-Aviso publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 17 de mayo de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 6 de junio de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal, 5o. fracción X y 14 de la Ley de Comercio Exterior, 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en el artículo 3-04 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9 fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (el Tratado), firmado el 29 de junio de 2000 y aprobado por el Senado de la República el 14 de diciembre del mismo año, entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de Guatemala y El Salvador;
+Que para fortalecer y ampliar las relaciones comerciales con las Repúblicas de El Salvador, Guatemala y Honduras, con fecha 29 de junio de 2000 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (“el Tratado”), mismo que aprobó el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001, el cual entró en vigor el 15 de marzo del mismo año para el comercio entre los Estados Unidos Mexicanos y la República de El Salvador;
 
-Que el 12 de agosto de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 15 mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero y eliminar el arancel aplicable a la importación de ciertos néctares originarios de la República de El Salvador; y que de conformidad con lo establecido en el numeral 3 de la referida Decisión ésta entrará en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas;
+Que los párrafos 6 y 7 del artículo 3-04 del Tratado establecen que a petición de cualquiera de las Partes se realizarán consultas para examinar la posibilidad de acelerar la eliminación de aranceles aduaneros prevista en el Programa de Desgravación Arancelaria y que, una vez aprobada por las Partes el acuerdo que se adopte respecto a la eliminación acelerada del arancel aduanero sobre un bien originario, ésta prevalecerá sobre cualquier arancel aduanero o categoría de desgravación aplicable de conformidad con el Programa de Desgravación Arancelaria para ese bien;
 
-Que el 3 de marzo del presente año se publicó en el Diario Oficial de la Federación el Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón (el Decreto);
+Que con fundamento en el artículo citado en el párrafo anterior, la Comisión Administradora del Tratado suscribió las Decisiones números 15 y 16 mediante las cuales los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero originarios de la República de El Salvador a través del establecimiento de aranceles cupo y que la vigencia de dichos aranceles cupo será anual. Estas decisiones entrarán en vigor una vez que las Partes se hayan notificado la conclusión de sus respectivas formalidades jurídicas;
 
-Que el artículo tercero transitorio del Decreto establece que la aceleración de la desgravación de ciertos néctares y el cupo de acero previstos en los artículos 3, 4 y 5 del mismo entrarán en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen entre sí la conclusión de sus respectivas formalidades jurídicas necesarias. A tal efecto la Secretaría de Economía publicará un aviso notificando su entrada en vigor, y
+Que el 3 de marzo del presente año se publicó en el Diario Oficial de la Federación el Decreto que modifica el diverso por el que se establece la tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, que en su artículo tercero transitorio establece que la referida aceleración entrará en vigor una vez que las Partes se hayan notificado la conclusión de sus formalidades jurídicas;
 
-Que los gobiernos de los Estados Unidos Mexicanos y de la República de El Salvador, se han notificado la conclusión de sus respectivas formalidades jurídicas para la entrada en vigor de la Decisión No. 15, he tenido a bien expedir el siguiente:
+Que las autoridades de los Estados Unidos Mexicanos y la República de El Salvador se han notificado la conclusión de sus respectivas formalidades jurídicas necesarias para la entrada en vigor de las Decisiones números 15 y 16;
 
-AVISO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DE LOS ARTICULOS 3, 4 Y 5 DEL DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+Que es necesario propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado, y
+
+Que los procedimientos de asignación de cupos al amparo de los aranceles-cuota establecidos en el Tratado cuentan con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL CUAL SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, AL AMPARO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, VARILLA DE HIERRO O ACERO CORRUGADA O BARRAS DE HIERRO O ACERO PARA ARMADURAS, PARA CEMENTO U HORMIGON, Y PERFILES DE HIERRO O ACERO SIN ALEAR EN “L” ORIGINARIOS DE LA REPUBLICA DE EL SALVADOR
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -50,45 +54,37 @@ Se suprimen y se adicionan al Apéndice del Decreto por el que se establece la T
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras y para internar a la República de Honduras, bienes textiles que cumplan con lo dispuesto en el Anexo 3-19 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, durante el 1 de enero al 31 de diciembre de cada año, en el periodo 2006 a 2009, son los que se determinan a continuación:
+Los cupos que podrán ser importados a los Estados Unidos Mexicanos, durante el periodo que comprende del 1 de junio al 31 de mayo de cada año al amparo de los aranceles-cuota establecidos para varilla de hierro o acero corrugada o barras de hierro o acero para armaduras, para cemento u hormigón, y perfiles de hierro o acero sin alear en “L” originarios de la República de El Salvador con un impuesto de importación de 2.5% son los que se determinan en el cuadro siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
-_1/ - En el caso de productos clasificados en el capítulo 60, el factor de conversión aplicable es de 0.235kg/m2.
-
 ###### ARTICULO SEGUNDO.
 
-De conformidad con lo dispuesto en los artículos 24 párrafo segundo de la Ley de Comercio Exterior y 31 de su Reglamento, y con el objeto de promover las corrientes comerciales entre las partes, el mecanismo a través del cual se asignarán los cupos descritos en el artículo anterior, es de asignación directa en la modalidad de "primero en tiempo, primero en derecho", que consiste en asignar los cupos conforme los interesados los soliciten. La vigencia de los certificados de cupo será al 31 de diciembre del año de su expedición.
+De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado, se aplicará a los cupos a que se refiere el presente Acuerdo el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de los cupos señalados en el artículo primero, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que deseen exportar o importar bienes textiles bajo los niveles de flexibilidad temporal acordados entre México y Honduras dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, que cuenten con la inscripción vigente a que se refiere el artículo siguiente.
+Podrán solicitar asignación del cupo descrito en el cuadro del artículo primero del presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos. La Secretaría de Economía asignará hasta agotar el cupo.
 
 ###### ARTICULO CUARTO.
 
-Para la obtención de los certificados de cupo de exportación o de importación, según sea el caso, los interesados deberán obtener previamente la constancia de inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, de la siguiente manera:
-
-a) Los interesados deberán presentar el formato SE-03-012-3, "Solicitud de Inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras" en la ventanilla de atención al público de la Dirección General de Comercio Exterior, en la planta baja del edificio ubicado en Insurgentes Sur 1940, colonia Florida, Delegación Alvaro Obregón, México, D.F., o bien en las representaciones federales de esta Secretaría en toda la República.
-
-b) El horario de recepción de dicho formato será de 9:00 a 14:00 horas, en días hábiles.
-
-c) La Secretaría expedirá la constancia de inscripción en un plazo no mayor a siete días hábiles contados a partir de la fecha de recepción de la solicitud. Este registro deberá solicitarse anualmente por grupo de productos, según la clasificación arancelaria que corresponda.
+Para cada año, la primera solicitud de asignación de cada uno de los cupos a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La hoja de requisitos específicos se establece como anexo del presente Acuerdo. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
 
 ###### ARTICULO QUINTO.
 
-Una vez obtenida la constancia de inscripción, se deberá solicitar, la expedición del certificado de cupo de exportación o importación correspondiente para cada embarque, presentando el formato SE-03-013-8 “Solicitud de certificado de elegibilidad para bienes textiles y del vestido bajo los niveles de flexibilidad temporal con la República de Honduras” acompañado de la factura comercial (original y copia), para el caso de la exportación y, para el caso de la importación, del original del documento proporcionado por la Secretaría de Industria y Comercio de Honduras, en horario de 9:00 a 10:00 horas, en la oficina donde se emitió la Constancia de inscripción a que se refiere el artículo anterior. El certificado será entregado en horario de 13:00 a 14:00 horas del mismo día de la presentación de la solicitud.
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato "Solicitud de certificados de cupo (obtenido por asignación directa)" SE-03-013-5, en la ventanilla de atención al público de la Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
+
+Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá haber ejercido por lo menos una de las expediciones otorgadas presentando copia del pedimento de importación correspondiente.
+
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 31 de mayo de cada año.
 
 ###### ARTICULO SEXTO.
 
-Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica:
 
-a) Para el caso del formato SE-03-012-3 "Solicitud de Inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras":
+http://www.cofemertramites.gob.mx/intranet/co_bin_passthrough.asp?coNodes=790122&coMediaID=0001195860, para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”, y
 
-<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-036-C>
-
-b) Para el caso del formato SE-03-013-8 “Solicitud de certificado de elegibilidad para bienes textiles y del vestido bajo los niveles de flexibilidad temporal con la República de Honduras”:
-
-<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-041-C>
+http://www.cofemertramites.gob.mx/intranet/co_bin_passthrough.asp?coNodes=649647&coMediaID=0001233842, para el caso del formato SE-03-013-5, "Solicitud de certificados de cupo (obtenido por asignación directa)".
 
 ###### ARTÍCULO 1.
 
@@ -260,6 +256,24 @@ Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establ
 
 ## TRANSITORIO
 
-UNICO.- El presente Aviso entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 10 de mayo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 2 de junio de 2006.- El Secretario de Economía, Sergio Alejandro Garcia de Alba Zepeda.- Rúbrica.
+
+HOJA DE REQUISITOS PARA LA ASIGNACION DE LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, AL AMPARO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, VARILLA DE HIERRO O ACERO CORRUGADA O BARRAS DE HIERRO O ACERO PARA ARMADURAS, PARA CEMENTO U HORMIGON, Y PERFILES DE HIERRO O ACERO SIN ALEAR EN "L" ORIGINARIOS DE LA REPUBLICA DE EL SALVADOR.
+
+7214.20.01 y 7216.21.01
+
+Beneficiarios Personas físicas o morales establecidas
+
+en los Estados Unidos Mexicanos
+
+Solicitud: Formato de "SOLICITUD DE ASIGNACIÓN
+
+DE CUPO" SE-03-011-1
+
+Requisitos: Copia de factura comercial y conocimiento
+
+de embarque.
+
+Guía aérea o carta de porte, según sea el caso.
