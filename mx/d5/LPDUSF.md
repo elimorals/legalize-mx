@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2005-07-07"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -990,7 +990,7 @@ En caso de que un asunto represente, en cualquier forma, un conflicto de interes
 
 ### CAPÍTULO II. DE LA SUBSTANCIACIÓN DEL RECURSO
 
-> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 93.
 
@@ -1070,7 +1070,9 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 ###### ARTÍCULO 99.
 
-En contra de las resoluciones de la Comisión Nacional dictadas fuera del procedimiento arbitral, con fundamento en las disposiciones de esta Ley, se podrá interponer por escrito recurso de revisión.
+Procede el recurso de revisión contra aquéllas resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento, o bien, cuando a través de las mismas se imponga una sanción.
+
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
 
 La interposición del recurso de revisión será optativa para el interesado antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
 
@@ -1177,3 +1179,7 @@ Segundo.- El término para la emisión del dictamen a que se refiere la fracció
 D.O.F. 7 DE JULIO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
