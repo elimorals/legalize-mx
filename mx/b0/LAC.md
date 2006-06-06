@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2001-12-28"
+last_updated: "2006-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -354,9 +354,13 @@ XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesi
 
 XIII. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
 
-La Secretaría revocará las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a V y VII anteriores.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
 
-En los casos de las fracciones VIII a XI, la Secretaría sólo revocará la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción. Para los supuestos de las fracciones VI, XII y XIII, se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones por las causas previstas en la misma fracción.
+La Secretaría revocará las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a V y VII anteriores. De igual forma procederá en el caso de la fracción X cuando a su juicio sea grave la infracción para la seguridad de la operación.
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+
+En los casos de las fracciones VIII, IX y XI, la Secretaría sólo revocará la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción. Para los supuestos de las fracciones VI, XII y XIII, se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones por las causas previstas en la misma fracción.
 
 El titular de una concesión o permiso que hubiere sido revocado no podrá obtener, directa o indirectamente, otra concesión o permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
 
@@ -1197,3 +1201,7 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. El presente Decreto deroga todas aquellas disposiciones jurídicas que se opongan al mismo.
 
 La autoridad correspondiente deberá adecuar todas aquellas disposiciones reglamentarias a más tardar dentro de los 120 días siguientes a la fecha de su entrada en vigor.
+
+D.O.F. 6 DE JUNIO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
