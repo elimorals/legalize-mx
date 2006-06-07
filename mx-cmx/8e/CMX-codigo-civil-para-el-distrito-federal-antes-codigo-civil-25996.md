@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2006-05-19"
+last_updated: "2006-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8327,7 +8327,9 @@ ARTICULO 1,602.- Tienen derecho a heredar por sucesión legítima:
 
 I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el artículo 1635.
 
-II.- A falta de los anteriores, la beneficencia pública.
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+II.- A falta de los anteriores, el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
 ARTICULO 1,603.- El parentesco de afinidad no da derecho de heredar.
 
@@ -8423,9 +8425,13 @@ ARTICULO 1,635.- La concubina y el concubinario tienen derecho a heredarse recí
 
 ### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
-ARTICULO 1,636.- A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
 
-ARTICULO 1,637.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+ARTICULO 1,636.- A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+ARTICULO 1,637.- Cuando sea heredera el Sistema para el Desarrollo Integral de la Familia del Distrito Federal y entre lo que corresponda existan bienes raíces que no pueda adquirir conforme al articulo 27 constitucional, se venderán los bienes en publica subasta, antes de hacer la adjudicación, aplicándose al Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el precio que se obtuviere.
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
@@ -8671,7 +8677,9 @@ ARTICULO 1,724.- Son nulas de pleno derecho las disposiciones por las que el tes
 
 ARTICULO 1,725.- La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
 
-ARTICULO 1,726.- Cuando fuere heredera la Beneficencia Pública o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+ARTICULO 1,726.- Cuando fuere heredera el Sistema para el Desarrollo Integral de la Familia del Distrito Federal o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
 ARTICULO 1,727.- Aprobadas las cuentas, los interesados pueden celebrar sobre su resultado, los convenios que quieran.
 
@@ -8725,7 +8733,9 @@ II.- Por muerte;
 
 III.- Por incapacidad legal, declarada en forma;
 
-IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o el Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
 
 V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -13733,13 +13743,13 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -13751,7 +13761,7 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
@@ -13898,3 +13908,11 @@ TERCERO.- Se deroga el Título Décimo Tercero referente a "Delitos contra la in
 CUARTO.- Los juicios en materia civil que se estén tramitando antes de la entrada en vigor de la presente ley se sujetarán en los sustantivo a la ley vigente al momento en que ocurrieron los hechos. Los de materia penal se sobreseerán al momento de la entrada en vigor de la presente ley. En cuanto al procedimiento las partes de común acuerdo podrán solicitar al Juez que tenga a su cargo el caso, la continuación del procedimiento en los términos de la presente ley.
 
 QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 7 DE JUNIO DE 2006.
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
