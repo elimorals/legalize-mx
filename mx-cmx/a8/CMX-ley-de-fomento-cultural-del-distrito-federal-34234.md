@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2006-05-03"
+last_updated: "2006-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -114,7 +114,13 @@ XV. Promotor cultural: Toda persona física o moral cuya labor consiste en organ
 
 XVI. Redes sociales vinculadas a la cultura: El conjunto de personas cuya actividad social se relaciona con el campo del fomento y desarrollo cultural.
 
-XVII. Secretaría: La Secretaría de Cultura del Gobierno del Distrito Federal.
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+XVII.- Secretaria: La Secretaria de Cultura del Gobierno del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+XVIII.- El Consejo de la Crónica: El Consejo de la Crónica de la Ciudad de México.
 
 ## TÍTULO SEGUNDO. Del Fomento y Desarrollo Cultural
 
@@ -648,6 +654,10 @@ En caso de que llegara a presentarse cambio de Jefe Delegacional, el nuevo titul
 
 ## TÍTULO SÉPTIMO. De las Declaratorias de Patrimonio Cultural Tangible e Intangible
 
+### Capítulo Único. De su funcionamiento
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 55.
 
 Las declaratorias objeto de esta Ley, que no se opongan a las establecidas en la Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal, son los instrumentos jurídicos que tendrán como fin la preservación de aquellos bienes y valores culturales considerados patrimonio tangible e intangible del Distrito Federal, cuya característica sea el reconocimiento de la diversidad cultural expresada o manifiesta en esta ciudad capital.
@@ -704,6 +714,172 @@ b. Descripción detallada del procedimiento seguido.
 
 c. Síntesis de la argumentación social y académica presentada en favor del bien declarado.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2006)</small>
+
+## TÍTULO OCTAVO. Del Consejo de la Crónica
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 62.
+
+Para el mejor desempeño de las autoridades encargadas de aplicar el presente ley, el Consejo de la Crónica de la Ciudad de México será el órgano auxiliar y de apoyo del Sistema de Fomento y Desarrollo Cultural para el Distrito Federal y prestará su servicio para cualquier ciudadano. El Consejo de la Crónica tendrá como objetivo principal investigar, registrar, publicar y difundir los acontecimientos históricos importantes en el ámbito social, político, cultural, artístico, científico, tecnológico, paleontológico, arqueológico, arquitectónico y urbanístico en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 63.
+
+El Consejo de la Crónica de la Ciudad de México es un órgano de consulta y apoyo cultural de la Administración Publica del Distrito Federal que esta al servicio de la Sociedad, y tiene como premisa principal el investigar, registrar, sistematizar y difundir las tradiciones, costumbres, personajes y los acontecimientos de gran trascendencia en la vida pasada y actual de nuestra Ciudad, mediante un registro literario y documental que permita la descripción histórico-social del Distrito Federal.
+
+El Consejo de la Crónica también coordinara a aquellos individuos que sean considerados como Cronistas regionales y con ello coadyuvar a su desempeño profesional en beneficio de la cultura ciudadana.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 64.
+
+El Consejo de la Crónica de la Ciudad de México, estará integrado por Consejeros Cronistas que serán designados por el jefe de Gobierno del Distrito Federal. En todo caso, el desempeño de la función de Consejero de la Crónica o, en el caso de los reconocidos como Consejeros Regionales, tendrá carácter gratuito.
+
+Los Consejeros Cronistas deberán ser personas que se distingan por sus conocimientos en la historia y cultura de la Ciudad, que sean profesionales en el área y que tengan vocación por recopilar y sistematizar la información que permita la compresión de los fundamentos histórico-culturales de la metrópoli.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 65.
+
+Son funciones del Consejo de la Crónica:
+
+I.- Elaborar, ejecutar y evaluar un plan anual de trabajo;
+
+II.- Ser órgano de apoyo de las autoridades locales en materia de desarrollo urbano y fungir como órgano de consulta de la sociedad en general;
+
+III.- Investigar y estudiar el pasado de la Ciudad de México, utilizando las nuevas técnicas de investigación y los recursos bibliográficos de los que actualmente se dispone;
+
+IV.- Promover el conocimiento del patrimonio histórico-cultural de la Ciudad, así como coordinar acciones orientadas a rescatar y conservar los mismos;
+
+V.- Llevar la Crónica de la Ciudad de México, mediante la organización de eventos y foros de discusión, cuyo tema principal sea la Crónica histórica-cultural de las diferentes Delegaciones que conforman el Distrito Federal;
+
+VI.- Elaborar, preferentemente cada año, una memoria que contenga los acontecimientos ocurridos en el transcurso del año, con relación a temas históricos, sociales, culturales y científicos; memoria que será publicada por la Secretaria. Asimismo, la Secretaria apoyara conforme a la suficiencia presupuestal con que cuente, todas aquellas obras que traten sobre investigaciones de los temas señalados en esta fracción;
+
+VII.- Colaborar con las campañas en beneficio de la difusión cultural que para tal efecto señalen los Planes de Desarrollo de cada Delegación;
+
+VIII.- Colaborar de manera activa con las instituciones académicas, Universidades, Centros Culturales, especialmente con aquellas que se encuentran ubicadas dentro de la Ciudad y la zona metropolitana;
+
+IX.- Establecer a través de la Secretaria convenios y acuerdos de coordinación con instituciones homólogas de otras entidades federativas;
+
+X.- Formular opinión a la Comisión de Nomenclatura del Distrito Federal sobre la asignación o modificación de nombres de las calles y avenidas de la Ciudad;
+
+XI.- Informar a la Secretaria de Cultura acerca de la renuncia, falta absoluta o separación por cualquier causa de los cronistas integrantes; y
+
+XII.- Realizar investigación sobre los elementos de cultura popular presentes en la Ciudad, relacionadas con costumbres, tradiciones, leyendas, personajes, grupos sociales, fiestas, ferias, música, danzas, gastronomía, descanso, diversión y otros relacionados con la materia cultural.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 66.
+
+El Consejo de la Crónica estará integrado por diecisiete consejeros cronistas, en representación de cada una de los Órganos Político-Administrativos que conforman el Distrito Federal y uno en representación del Gobierno del Distrito Federal, quienes deberán cumplir los siguientes requisitos:
+
+I.- Tener una residencia en el Distrito Federal mínima de cinco años;
+
+II.- Ser mayor de treinta años;
+
+III.- Tener conocimientos teórico-metodológicos así como de investigación histórica;
+
+IV.- Tener fama publica y honestidad intelectual;
+
+V.- Tener estudios en alguna de las siguientes ramas: historia, arquitectura, sociología, arqueología, antropología, derecho, literatura y arte; y
+
+VI.- No ser dirigente de partido político ni ocupar un cargo de elección popular.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 67.
+
+Los órganos político-administrativos podrán contar con Cronistas en su demarcación a los que se les denominara Cronistas Regionales, mismos que estarán registrados por el Consejo de la Crónica con el objetivo de colaborar con ellos en la transmisión de la historia oral y escrita de los pueblos y barrios de cada Delegación.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 68.
+
+Los Cronistas Regionales tendrán las siguientes funciones:
+
+I. Contribuir al enriquecimiento, sistematización y difusión de la Crónica de órgano político administrativo al que representan;
+
+II. Difundir los valores y el conocimiento de las características típicas de su delegación;
+
+III. Coadyuvar al desarrollo de los programas de trabajo delegacionales que fortalezcan la identidad de los habitantes que ahí residen;
+
+IV. Promover la colaboración de patronatos o grupos de colaboración voluntaria para la realización de proyectos; y
+
+V. Coordinar sus actividades dentro de los lineamientos y políticas emanadas de la presente Ley y los acuerdos internos del propio Consejo de la Crónica.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 69.
+
+Los nombramientos de los Cronistas de la Ciudad de México, los hará el Jefe de Gobierno del Distrito Federal a propuesta de:
+
+I. Las Universidades públicas o privadas y otras instituciones de nivel superior del Distrito Federal;
+
+II. Los grupos artísticos o culturales que trabajen de una manera permanente y cuenten con reconocido prestigio;
+
+III. La Secretaria de Cultura del Distrito Federal;
+
+IV. Los Jefes Delegacionales; y
+
+V. Los Diputados a la Asamblea Legislativa del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 70.
+
+Los Cronistas duraran en su cargo seis años, excepto en los siguientes casos:
+
+I. Renuncia;
+
+II. Ausencia prolongada por más de cinco meses consecutivos fuera de la Ciudad;
+
+III. Enfermedad o lesiones que imitad el cumplimiento de su cargo;
+
+IV. Inactividad de sus funciones por un periodo de tres meses consecutivos sin causa justificada; y
+
+V. La comisión de algún delito doloso.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 71.
+
+Previa propuesta de los organismos a que hace referencia el artículo anterior y de acuerdo con su desempeño, el jefe de Gobierno podrá ratificar a los Cronistas en funciones por el mismo periodo.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 72.
+
+Cuando algún Cronista deje de fungir como tal, por las causas establecidas en el artículo anterior, deberá entregar al Presidente del Consejo, los archivos, documentos y equipos que estén bajo su custodia, así como los trabajos de investigación que haya realizado y formen parte del archivo del Consejo y los trabajos que se encuentren pendientes por terminar.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 73.
+
+De entre los miembros del Consejo se elegirá un Presidente, quien durará en su cargo tres años, sin derecho a reelección en dicho cargo, y tendrá las siguientes facultades:
+
+I. Convocar a juntas del Consejo de la Crónica;
+
+II. Coordinar y dirigir los trabajos del Consejo de la Crónica;
+
+III. Ser el representante del Consejo de la Crónica; y
+
+IV. Ejecutar los acuerdos que le encomiende el Consejo de la Crónica.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 74.
+
+El Consejo deberá sesionar por lo menos cada 30 días con la presencia de la mayoría de sus miembros y los acuerdos deberán tomarse por mayoría simple, en caso de empate el Presidente tendrá voto de calidad. El Consejo tendrá su domicilio en el Distrito Federal y contará con la infraestructura y el personal administrativo que sean necesarios para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 75.
+
+Para el mejor desempeño de su responsabilidad, el Consejo de la Crónica de la Ciudad de México contará con el apoyo informativo y económico del Gobierno del Distrito Federal, que podrá constituir un fideicomiso público con base en la aportación económica que le asigne al Consejo y al cual se incorporarán como parte del patrimonio fideicomitido las donaciones y apoyos que realicen por su cuenta personas físicas y morales.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor difusión, publíquese en el Diario Oficial de la Federación.
@@ -747,3 +923,13 @@ G.O. 3 DE MAYO DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión también publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- Dentro de los treinta días siguientes al de aquel de entrada en vigor del presente decreto, cada uno de los 16 Jefes Delegacionales integrará formalmente el Consejo Delegacional de Fomento y Desarrollo Cultural respectivo, estableciendo en la primera sesión la fecha para cada una de las sesiones ordinarias trimestrales que deberán celebrarse en el ejercicio 2006. Del acta correspondiente se elaborará minuta que será remitida a la Secretaría de Cultura para conocimiento de esa dependencia y del Consejo de Fomento y Desarrollo Cultural del Distrito Federal.
+
+G.O. 7 DE JUNIO DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+Artículo Tercero.- El Jefe de Gobierno realizará los nombramientos a que se refiere el artículo 64 del presente decreto dentro de los 90 días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto.- Los decretos sobre el Consejo de la Crónica de la Ciudad de México, publicados el 11 de junio de 1998 y 4 de julio de 2000, en la Gaceta Oficial del Distrito Federal, quedan abrogados al momento de entrada de vigencia del presente decreto.
