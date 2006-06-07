@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2005-12-27"
+last_updated: "2006-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -223,9 +223,9 @@ III.- Dar curso legal y dictar los acuerdos que deban recaer sobre los asuntos q
 
 IV.- Determinar el orden de discusión de los asuntos que deban tratarse en cada sesión, dando preferencia a los que considere de interés general, a no ser que la Asamblea, a moción de alguno de los Diputados, determine un orden distinto;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2006)</small>
 
-V.- dirigir y encausar los debates, concediendo el uso de la palabra a los Diputados, alternadamente en contra y a favor, en el orden en que lo soliciten;
+V.- Dirigir y encausar los debates, concediendo el uso de la palabra a los Diputados, alternadamente en contra y a favor, en el orden en que lo soliciten, de conformidad con lo dispuesto en los artículo 91 fracción IV, 126 y 129 de este Reglamento, contando para tal efecto con las facultades que sean necesarias para hacer respetar las referidas disposiciones legales;
 
 VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido objeto de aquélla;
 
@@ -1307,6 +1307,14 @@ III.- Informe de las Comisiones y de los Comités; y
 
 IV.- Asuntos Generales, punto en el que se concederá el uso de la palabra a los Diputados, en el orden en que lo soliciten.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2006)</small>
+
+Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por diez minutos. A los oradores que utilicen la Tribuna para hablas a favor o en contra en este punto del orden del día, incluyendo las subsecuentes intervenciones del Diputado que dio inicio al tema, tendrán un tiempo límite de hasta cinco minutos cada uno.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2006)</small>
+
+Para llevar a cabo el orden de discusiones, se atenderá en lo conducente lo dispuesto por los artículos 126 y 129 de este Reglamento.
+
 ###### Artículo 92.
 
 De toda sesión se formulará una acta, la cual será aprobada en la siguiente sesión:
@@ -1367,7 +1375,7 @@ Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará
 
 ### CAPITULO III. DE LAS DELIBERACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 102.
 
@@ -1419,11 +1427,15 @@ La Asamblea podrá acordar aplazar su discusión y aprobación fijando una fecha
 
 Todo dictamen relativo a una iniciativa de Ley, se conocerá y discutirá en lo general, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. De aprobarse en lo general, en esa misma sesión, se discutirá la iniciativa de Ley en lo particular, separando los artículos que lo ameriten y solamente éstos se someterán a votación de la Asamblea.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 112 Bis.
 
-El Pleno del Congreso podrá acordar, por mayoría calificada de los Diputados presentes, que en la lectura de un dictamen que contenga un decreto con más de treinta artículos, se lea un extracto de la parte expositiva, sólo cuando el dictamen haya sido entregado a los integrantes de la Legislatura con al menos, cuarenta y ocho horas de anticipación. Los proyectos de Ley, Decreto o Acuerdo contenidos en el dictamen serán leídos invariablemente de manera íntegra.
+El Pleno del Congreso podrá acordar que los dictámenes que hayan sido programados por la Oficialía Mayor, para su presentación en el pleno y que hayan sido circulados a los integrantes de la Legislatura con al menos veinticuatro horas de anticipación, podrán recibir la dispensa de su lectura o determinarse que únicamente se lean los resolutivos, procediéndose de inmediato a su discusión y aprobación.
+
+Para efecto de lo dispuesto por el presente artículo los Grupos Legislativos, y en su caso los Diputados que no formen parte de un Grupo Legislativo, deberán contar con un reloj fechador en sus respectivas oficinas, a través del cual se llevará el registro oficial de la fecha y hora de circulación de los dictámenes.
+
+Para que proceda la dispensa el Secretario deberá dar fe de que del registro oficial de la fecha y hora en que se circularon los dictámenes, se desprende que han transcurrido las veinticuatro horas a que hace referencia el párrafo primero del presente artículo.
 
 ###### Artículo 113.
 
@@ -1499,11 +1511,15 @@ Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Pe
 
 ###### Artículo 126.
 
-Terminada la lectura del dictamen que presente la Comisión, el Presiente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
+Terminada la lectura del dictamen que presente la Comisión, o habiéndose otorgado la dispensa que prevé el artículo 112 Bis, el Presidente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
 
-Solamente podrán hablar en la misma sesión tres Diputados en contra y tres a favor del sentido de la proposición que se discuta, con la excepción de que el Pleno del Congreso considere que un asunto requiera más participantes en la Tribuna.
+Solamente podrán hablar en la misma sesión tres Diputados en contra y tres a favor del sentido de la proposición que se discuta, con la excepción de que el Pleno del Congreso considere que un asunto requiera más participaciones en la Tribuna. Las intervenciones de los oradores tendrán un tiempo límite de hasta cinco minutos, cada una.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2006)</small>
+
+En el caso de que no se inscriban oradores en contra, bastará con una intervención a favor, del diputado que se haya inscrito en primer lugar en la lista correspondiente. De no haber diputados inscritos a favor o en contra, se procederá en los términos del artículo 116 del presente Reglamento.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -1960,3 +1976,9 @@ P.O. 27 DE DICIEMBRE DE 2005.
 Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- La Comisión de Coordinación y Régimen Interno determinará el destino de los recursos que se hayan descontado o dejado de otorgar a los Diputados, de conformidad con lo dispuesto por los artículos 13 y 14 modificados por el presente Decreto, los que serán destinados a una causa social.
+
+P.O. 7 DE JUNIO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los 5 días contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Para efectos de lo dispuesto por el segundo párrafo del Artículo 112 Bis que se adiciona en el presente Decreto, los Coordinadores de los Grupos Legislativos y los Diputados que no formen parte de un Grupo Legislativo, en tanto no cuenten con reloj fechador deberán hacer del conocimiento de la Oficialía Mayor, mediante escrito, el nombre y firma de la o las personas acreditadas para recibir los dictámenes que se circulen.
