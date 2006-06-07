@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2004-01-29"
+last_updated: "2006-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -68,13 +68,17 @@ IV. Anulabilidad: Reconocimiento del órgano competente, en el sentido de que un
 
 V. Autoridad: Persona que dispone de la fuerza pública, en virtud de circunstancias legales o de hecho;
 
-VI. Autoridad competente: Dependencia o entidad de la Administración Pública del Distrito Federal facultada por los ordenamientos jurídicos, para dictar, ordenar o ejecutar un acto administrativo;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+VI. Autoridad competente: Dependencia, Órgano Desconcentrado, Órgano Político Administrativo o Entidad de la Administración Pública del Distrito Federal facultada por los ordenamientos jurídicos, para dictar, ordenar o ejecutar un acto administrativo;
 
 VII. Causahabiente: Persona que sucede o se subroga en el derecho de otra;
 
-VIII. Dependencia: Organo de la Administración Pública Central del Distrito Federal;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
 
-IX. Entidad: Organo de la Administración Pública Paraestatal del Distrito Federal; y concretamente para efectos de esta Ley los organismos descentralizados que emitan o dicten actos de autoridad;
+VIII. Documento Administrativo: aquel que contiene una declaración de voluntad decisoria de una autoridad competente sobre el ámbito de su competencia;
+
+IX. (DEROGADA, G.O. 7 DE JUNIO DE 2006)
 
 X. Formalidades: Principios esenciales del procedimiento administrativo, relativos a las garantías de legalidad, seguridad jurídica, audiencia e irretroactividad, que deben observarse para que los interesados obtengan una decisión apegada a derecho;
 
@@ -482,7 +486,9 @@ VIII. Permitir el acceso a sus registros y archivos en los términos previstos e
 
 IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
 
-X. Dictar resolución expresa sobre cuantas peticiones le formulen, en caso contrario, operará la afirmativa o negativa ficta en los términos de la presente Ley, según proceda; y
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+X. Salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo, no podrá exceder de tres meses el tiempo para que la dependencia, órgano desconcentrado, descentralizado, entidad u órganos político administrativos resuelvan expresamente lo que corresponda a la petición o solicitud emitida por el particular, en caso contrario operará la afirmativa o negativa ficta en los términos de la presente Ley, según proceda; y
 
 XI. Dictar resolución expresa en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo emitirla dentro del plazo fijado por esta Ley o por los ordenamientos jurídicos aplicables.
 
@@ -806,35 +812,41 @@ IV. La declaración de caducidad de la instancia.
 
 Las resoluciones que pongan fin al procedimiento deberán decidir todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
 ###### Artículo 89.
 
-Cuando se trate de autorizaciones, licencias o permisos las autoridades competentes deberán resolver el procedimiento administrativo correspondiente, en los términos previstos por los ordenamientos jurídicos o el Manual; y sólo que éstos no contemplen un término específico, deberá resolverse en 40 días hábiles, contados a partir de la presentación de la solicitud. En estos casos, si la autoridad competente no emite su resolución, dentro de los plazos establecidos, habiendo el interesado cumplido los requisitos que prescriben las normas aplicables, se entenderá que la resolución es en sentido afirmativo, en todo lo que lo favorezca, salvo en los siguientes casos:
+Cuando se trate de solicitudes de autorizaciones, licencias, permisos o de cualquier otro tipo, las autoridades competentes deberán resolver el procedimiento administrativo correspondiente en los plazos previstos por las leyes aplicables o el manual; y sólo que esto (sic) no establezcan un término específico deberá resolverse en 40 días hábiles contado a partir de la presentación de la solicitud. Si la autoridad competente no emite su resolución dentro de los plazos establecidos se entenderá que la resolución es en sentido negativo, salvo que las leyes o el manual establezcan expresamente que para el caso concreto opera la afirmativa ficta.
 
-I. Tratándose de las materias relativas a la salubridad general, concesiones y las actividades riesgosas que se definan en los diferentes ordenamientos jurídicos o en el Manual; y a falta de definición se considerarán como tales aquellas que en forma directa o inminente pongan en peligro la seguridad y tranquilidad públicas, o alteren o afecten el orden público;
+Cuando opere la negativa ficta por silencio de la autoridad, el interesado podrá interponer el recurso de inconformidad previsto en la presente Ley, o bien, intentar el juicio de nulidad ante el Tribunal.
 
-II. Tratándose del derecho de petición formulado por los particulares con fundamento en los artículos 8o. y 35 fracción V de la Constitución Política de los Estados Unidos Mexicanos, sin que la autoridad emita resolución expresa; o
-
-III. En todos aquellos en que los ordenamientos jurídicos establezcan que la falta de resolución tendrá efectos de negativa ficta.
-
-En los casos previstos en las fracciones I y II de este artículo el interesado podrá considerar que su solicitud ha sido negada e interponer los medios de defensa que en derecho correspondan.
-
-En el caso de que se interponga el recurso de inconformidad, contra la negativa ficta; y este recurso a su vez no sea resuelto expresamente, se estará a lo previsto en el artículo 124 de esta Ley.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 90.
 
-Cuando por el silencio de la autoridad en los términos señalados en el artículo anterior, el interesado presuma que ha operado en su favor la afirmativa ficta, deberá solicitar para la plena eficacia del acto presunto, en un término de hasta diez días hábiles, la certificación de que ha operado esta resolución ficta.
+Ante el silencio de la autoridad competente para resolver el procedimiento administrativo correspondiente, procede la afirmativa ficta en los casos en los que expresamente lo establezcan, bajo cualquier modalidad, las leyes aplicables y el manual.
 
-Para la certificación de afirmativa ficta, el interesado deberá recabar y presentar el formato correspondiente en los Módulos de Atención Ciudadana de la Contraloría General, la Contraloría Interna o en su caso ante la propia Contraloría General del Distrito Federal, al que necesariamente deberá acompañar, el acuse de recibo de la solicitud no resuelta. Dentro de las 48 horas siguientes a que el órgano de control reciba la solicitud de certificación, deberá remitirla al superior jerárquico de la autoridad omisa, quien en un término no mayor de cinco días hábiles, contados a partir de que reciba el formato correspondiente, deberá proveer lo que corresponda, debiendo enviar en todos los casos, copia de lo proveído, al órgano de control respectivo.
+La afirmativa ficta opera cuando la solicitud del particular se realiza ante la autoridad competente, reúne los requisitos de la Ley y no contraviene norma de orden público o interés general.
 
-La certificación que se expida hará una relación sucinta de la solicitud presentada y del procedimiento seguido, de la fecha de iniciación y de vencimiento del plazo con que contó la autoridad competente para dictar su resolución y la manifestación de que ha operado la afirmativa ficta.
+Cuando el interesado presuma que se ha operado a favor esta figura administrativa, deberá solicitar para la plena eficacia del acto, en un término de 10 días hábiles, la certificación de que se ha configurado esta resolución ficta de acuerdo a lo siguiente:
 
-Cuando el superior jerárquico niegue la expedición de la certificación solicitada, tendrá que fundar y motivar dicha negativa en su resolución.
+I. El interesado comparecerá personalmente o a través de su representante legal ante la Contraloría Interna de la autoridad en que se haya ingresado el trámite o se inició el procedimiento, o bien, ante la Contraloría General cuando no se cuente con órgano de control interno;
 
-Cuando se expida al interesado una certificación relativa a licencia, permiso, o autorización, que genere el pago de contribuciones o derechos de conformidad con el Código Financiero, el superior jerárquico deberá señalar al interesado el pago de los mismos, tomando en consideración para su determinación, los datos manifestados en la solicitud respectiva, así como la naturaleza del acto.
+II. Suscribirá el formato previamente requisitado por el órgano de control respectivo, al que deberá anexar el original del acuse de recibo de la solicitud no resuelta;
 
-La certificación de afirmativa ficta, producirá todos los efectos legales de la resolución favorable que se pidió; y es deber de todas las personas y autoridades reconocerla así. Para la revalidación de una resolución afirmativa ficta, en caso de que sea necesaria, por así establecerlo la Ley o el Manual, la misma se efectuará en los términos y condiciones que señala el artículo 35 de esta Ley.
+III. El órgano de control que corresponda, dentro de los 2 días hábiles siguientes a que reciba la solicitud de certificación, remitirá el formato al superior jerárquico de la autoridad omisa;
 
-Si la certificación no fuese emitida en el plazo que señala este artículo, la afirmativa ficta será eficaz; y se podrá acreditar mediante la exhibición de la solicitud del trámite respectivo y de la petición que se hizo de la certificación ante el superior jerárquico. Dicha omisión será considerada como una falta grave que deberá ser sancionada por la Contraloría, en los términos de la Ley de Responsabilidades.
+IV. El superior jerárquico, en un término no mayor de 5 días hábiles, contado a partir de que reciba el formato correspondiente, resolverá lo conducente, debiendo enviar copia de lo proveído al órgano de control.
+
+En el supuesto que el superior jerárquico niegue la expedición de la certificación solicitada, tendrá que fundar y motivar la negativa de su resolución;
+
+V. La autoridad competente notificará la resolución al interesado en términos de la presente ley.
+
+Cuando se expida al interesado una certificación que genere el pago de contribuciones o aprovechamientos de conformidad con el Código Financiero, el superior jerárquico deberá señalar al interesado el monto de las mismas, tomando en cuenta para su determinación, los datos manifestados en la solicitud respectiva, así como la naturaleza del acto.
+
+Si la certificación no fuese emitida en el plazo que señala este artículo, la afirmativa ficta será eficaz habiéndose cumplido con lo establecido en el segundo párrafo del presente artículo; se podrá acreditar mediante la exhibición de la solicitud del trámite respectivo y el formato de certificación ante el superior jerárquico.
+
+La certificación de la afirmativa ficta, producirá todos los efectos legales de la resolución favorable que se pidió; y es deber de todas las personas y autoridades reconocerla así. Para la revalidación de una resolución afirmativa ficta, en caso de que sea necesaria, por así establecerlo la Ley o el manual, la misma se efectuará en los términos y condiciones que señala el artículo 35 de esta Ley.
 
 ###### Artículo 91.
 
@@ -1223,3 +1235,11 @@ DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 14, 14 BIS, 19, 19 BIS, 20,
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Los procedimientos iniciados con anterioridad a la presente publicación, continuaran su proceso con base en la normatividad que les dio inicio.
+
+G.O. 7 DE JUNIO DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los trámites que se encuentren en proceso de afirmativa ficta ante las autoridades correspondientes, deberán de ser resueltos conforme a la normatividad en que se iniciaron.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
