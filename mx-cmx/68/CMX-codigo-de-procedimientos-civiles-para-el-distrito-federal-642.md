@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2006-05-19"
+last_updated: "2006-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1500,7 +1500,7 @@ a).- De las acciones de petición de herencia;
 
 b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
+c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
@@ -3544,9 +3544,7 @@ ARTICULO 435
 
 Contra la Sentencia que se dicte procede la apelación en ambos efectos.
 
-ARTICULO 436
-
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
+ARTICULO 436 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
 ARTICULO 437 (DEROGADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -5928,9 +5926,11 @@ V.- Los juicios que sigan los herederos deduciendo la acción de petición de he
 
 VI.- Las acciones de los legatarios reclamando sus legados siempre que sean posteriores a la fracción de inventarios y antes de la adjudicación, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
 ARTICULO 779
 
-En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo a los menores o incapacitados que no tengan representantes legítimos y a la Beneficencia Pública cuando no haya herederos legítimos dentro del grado de ley y mientras no se haga reconocimiento o declaración de herederos.
+En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a los menores o incapacitados que no tengan representantes legítimos, y al Sistema para el Desarrollo Integral de la Familia del Distrito Federal cuando no haya herederos legítimos dentro del grado de ley y mientras no se haga reconocimiento o declaración de herederos.
 
 ARTICULO 780
 
@@ -6082,9 +6082,11 @@ Dentro de diez días de haber aceptado su cargo el albacea debe proceder a la fo
 
 El inventario y avalúo se practicarán simultáneamente, siempre que no fuere imposible por la naturaleza de los bienes.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
 ARTICULO 817
 
-El inventario se practicará por el actuario del juzgado o por un notario nombrado por la mayoría de los herederos cuando ésta la constituyan menores de edad o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
+El inventario se practicará por el actuario del juzgado o por un notario nombrado por la mayoría de los herederos, cuando ésta la constituyan menores de edad o cuando el Sistema para el Desarrollo Integral de la Familia del Distrito Federal tuvieren interés en la sucesión como herederos o legatarios.
 
 ARTICULO 818
 
@@ -6274,11 +6276,11 @@ ARTICULO 814
 
 Al albacea se le entregarán los bienes sucesorios así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil.
 
-(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
 
 ARTICULO 815
 
-Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredera a la Beneficencia Pública.
+Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredero al Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
@@ -6382,9 +6384,11 @@ ARTICULO 842
 
 Los libros de cuentas y papeles del difunto, se entregarán al albacea, y hecha la partición, a los herederos reconocidos, observándose, respecto a los títulos, lo prescrito en el capítulo VI siguiente. Los demás papeles quedarán en poder del que haya desempeñado el albaceazgo.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
 ARTICULO 843
 
-Si nadie se hubiera presentado alegando derecho a la herencia, o no hubieren sido reconocidos los que se hubiesen presentado, y se hubiere declarado heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con ella. Los demás se archivarán con los autos del intestado, en un pliego cerrado y sellado, en cuya cubierta rubricarán el juez, el representante del Ministerio Público y el secretario.
+Si nadie se hubiera presentado alegando derecho a la herencia, o no hubieren sido reconocidos los que se hubiesen presentado, y se hubiere declarado heredero al Sistema para el Desarrollo Integral de la Familia del Distrito Federal, se entregarán a éste los bienes y los libros y papeles que tengan relación con ella. Los demás se archivarán con los autos del intestado, en un pliego cerrado y sellado, en cuya cubierta rubricarán el juez, el representante del Ministerio Público y el secretario.
 
 ARTICULO 844
 
@@ -8138,6 +8142,8 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 ...
 
+D.O.F. 24 DE MAYO DE 1996.
+
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
 
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
@@ -8279,3 +8285,11 @@ G.O. 19 DE MAYO DE 2006.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE JUNIO DE 2006.
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
