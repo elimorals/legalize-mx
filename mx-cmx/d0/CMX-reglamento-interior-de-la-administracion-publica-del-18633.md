@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2006-05-03"
+last_updated: "2006-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -2010,9 +2010,25 @@ XI. Participar y opinar respecto a los proyectos de instalación y operación de
 
 XII. Realizar acciones tendientes a proporcionar a la población de escasos recursos económicos, productos y servicios que mejoren su poder adquisitivo;
 
-XIII. Llevar a cabo acciones tendientes a reducir la intermediación de los canales de distribución con programas de abasto por conducto de comités vecinales y demás formas de organización; e
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
 
-XIV. Impulsar programas vecinales de abasto para protección al consumidor y mejoramiento de su poder adquisitivo.
+XIII. Llevar a cabo acciones tendientes a reducir la intermediación de los canales de distribución con programas de abasto por conducto de comités vecinales y demás formas de organización;
+
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+XIV. Impulsar programas vecinales de abasto para protección al consumidor y mejoramiento de su poder adquisitivo;
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+XV. Administrar las plazas comerciales en las que su operación y funcionamiento se derive de programas desarrollados para la Administración Publica Centralizada con este fin; así como otorgar y revocar los permisos, concesiones y demás autorizaciones para su operación y funcionamiento; salvo disposición en contrario;
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+XVI. Autorizar los giros mercantiles a desarrollarse en los locales de las plazas comerciales administradas por esta Unidad Administrativa; así como integrar y actualizar el padrón de permisionarios de las mismas, y
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+
+XVII. Ordenar y ejecutar las verificaciones administrativas relacionadas con el cumplimiento de las disposiciones jurídicas y administrativas del Distrito Federal, aplicables en las plazas comerciales administradas par esta Unidad Administrativa e imponer las sanciones establecidas en la normatividad de la materia, derivadas de dichos procedimientos, así como iniciar, substanciar y resolver los procedimientos administrativos relativos a la administración de las Plazas, y al otorgamiento y revocación de permisos, concesiones y autorizaciones otorgadas para la operación y funcionamiento de esas plazas comerciales, cuando así proceda.
 
 ###### Artículo 53.
 
@@ -4670,7 +4686,7 @@ XIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-
 
 > <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-Las atribuciones relativas a la realización de auditorías, formulación de observaciones, emisión de recomendaciones, seguimiento para la solventación de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités en materia de Obra Pública, realización de inspecciones y verificación del correcto ejercicio y aplicación de recursos, requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XIV, XVII y XVIII, podrán ser ejercidas por las Unidades Administrativas Técnico-Operativas de la Dirección General de Auditoría, así como por las Unidades Administrativas Técnico Operativas que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
+Las atribuciones relativas a la realización de auditorías, formulación de observaciones, emisión de recomendaciones, seguimiento para la solventación de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités en materia de Obra Pública, realización de inspecciones y verificación del correcto ejercicio y aplicación de recursos, requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XIV, XVII y XVIII, podrán ser ejercidas por las Unidades Administrativas Técnico-Operativas de la Dirección General de Auditoría, así como por las Unidades Administrativas Técnico Operativas que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
 
 ###### Artículo 103.
 
@@ -8867,5 +8883,9 @@ PRIMERO.- El presente decreto entrará en vigor a partir de la fecha de su publi
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 G.O. 3 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
