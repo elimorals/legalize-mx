@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-publica-del-31414"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-05-20"
-last_updated: "2003-05-20"
+last_updated: "2006-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31414&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-07"
 
 LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Ley Orgánica publicada en la Gaceta Oficial del Distrito Federal, el martes 20 de mayo de 2003.
 
@@ -818,6 +818,18 @@ IX. Aprobar el proceso de selección, evaluación y el curso de formación bási
 
 X. No estar suspendido ni haber sido destituido inhabilitado de ningún cuerpo de seguridad pública ni como servidor público, en los términos de las normas aplicables.
 
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### Artículo 50 Bis.
+
+Los requisitos previstos en las fracciones IV y V del artículo anterior serán exigibles en los términos siguientes:
+
+I. Cuando se acredite el grado de secundaria, se deberá contar con una edad máxima de veintidós años;
+
+II. Cuando se acredite el grado de preparatoria o equivalente, se deberá contar con una edad máxima de veinticuatro años; y
+
+III. Cuando se acredite el grado de licenciatura, se deberá contar con una edad máxima de veintiséis años.
+
 ###### Artículo 51.
 
 Para permanecer como elemento de la Policía, se requiere:
@@ -846,6 +858,12 @@ XI No padecer alcoholismo; y
 
 XII. No estar suspendido ni haber sido destituido o inhabilitado de la Policía ni como servidor público, en los de las normas aplicables.
 
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+###### Artículo 51 Bis.
+
+El elemento de la policía que cumpla con sesenta años de edad o treinta años de servicio no podrá permanecer en servicio activo, por lo que deberá solicitar su retiro, salvo cuando por acuerdo del Secretario se motiven las razones por las que el elemento puede continuar en el servicio por un período máximo de cinco años adicionales, durante los cuales podrá desempeñar solamente funciones no operativas o administrativas.
+
 ###### Artículo 52.
 
 Los elementos de la Policía serán adscritos a las diversas unidades, agrupamientos y servicios, considerando su jerarquía, nivel y especialidad.
@@ -861,6 +879,14 @@ La profesionalización de la Policía será permanente y obligatoria conforme al
 ###### Artículo 55.
 
 Los elementos de la Policía que hayan cumplido con el tiempo mínimo de permanencia que determine el ordenamiento respectivo, en una jerarquía o nivel, deberán participar en los sistemas de ascenso a que sean convocados. En caso de no haberlos aprobado hasta en tres oportunidades, dejarán de ser miembros de la carrera policial y causarán baja de la Policía.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+En las convocatorias deberá determinarse la edad y antigüedades requeridas para participar en los sistemas de ascenso.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+La Secretaría difundirá públicamente, a través de la Gaceta Oficial del Distrito Federal, durante el primer trimestre de cada año, la lista de plazas disponibles para ascensos.
 
 ###### Artículo 56.
 
@@ -989,3 +1015,19 @@ Recinto Legislativo a 01 de abril de 2003
 PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. CARLOS ORTIZ CHÁVEZ,- SECRETARIO, DIP. ROBERTO E. LÓPEZ GRANADOS.- (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos, 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los siete días del mes de abril de dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 7 DE JUNIO DE 2006.
+
+PRIMERO.- Remítase el presente Decreto para su promulgación y publicación al Jefe de Gobierno del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Gobierno del Distrito Federal deberá iniciar, dentro de los sesenta días siguientes a la publicación del presente decreto, los programas de retiro voluntario dirigidos a los elementos de la policía en servicio activo que a la entrada en vigor del presente decreto, hayan cumplido sesenta años de edad o treinta años de servicio.
+
+CUARTO.- De manera periódica y en atención a las plazas disponibles, la Secretaría de Seguridad Pública del Distrito Federal expedirá las convocatorias de ascenso para el personal que se encuentre en activo a la fecha de entrada en vigor del presente decreto, señalando el límite de edad exigido para cada promoción.
+
+Los elementos que rebasen la edad referida, se acogerán a los programas de retiro que para este efecto instrumente la Secretaría.
+
+QUINTO.- Por este único año, la Secretaría de Seguridad Pública del Distrito Federal, inmediato a la entrada en vigor del presente decreto, publicará en la Gaceta Oficial del Distrito Federal la lista de plazas disponibles para ascensos.
