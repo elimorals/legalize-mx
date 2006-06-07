@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-generales-para-la-aplicacion-del-libro-sexto-50659
 country: "mx"
 rank: "lineamientos"
 publication_date: "2005-10-27"
-last_updated: "2005-10-27"
+last_updated: "2006-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50659&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-09-21"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA APLICACION DEL LIBRO SEXTO DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES CON RELACION A LOS ARTICULOS 296 Y 297
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de octubre de 2005.
 
@@ -249,8 +249,148 @@ Artículo 8
 
 Las disposiciones comprendidas en el presente capítulo serán aplicables a las personas que contiendan en procesos internos de selección de candidatos de los partidos políticos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+### Capítulo Tercero (sic).- Recepción de piezas postales conteniendo la boleta electoral.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 11 (sic)
+
+Las piezas postales que sean entregadas al Instituto y que no cumplan los requisitos señalados en el artículo 286, o bien que debido al estado físico en el que se encuentran, resulta imposible su clasificación conforme al Listado Nominal de Electores Residentes en el Extranjero, deberán ser remitidas para su atención a las mesa (sic) de escrutinio y cómputo o a la Comisión del Voto de los Mexicanos Residentes en el Extranjero.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 12
+
+La mesa de escrutinio y cómputo realizará las acciones que tiene encomendadas en los incisos c) y d) del primer párrafo del artículo 291 del Código de la materia y en los casos que determine el presente acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 13
+
+Serán considerados votos emitidos en el extranjero los que sean recibidos por el Instituto en el plazo fijado por la ley, por correo certificado o su equivalente y que provengan del extranjero, de los ciudadanos que se encuentren inscritos en el Listado Nominal de Electores Residentes en el Extranjero, así como aquellos que hubieran obtenido una resolución favorable por el Tribunal Electoral del Poder Judicial de la Federación sobre su inscripción a dicho Listado.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 14
+
+Con fundamento en los artículos 282, fracciones 3 y 4, y 158 del Código Federal de Instituciones y Procedimientos Electorales, los sobres remitidos por los ciudadanos residentes en el extranjero, que por observación realizada a la Lista Nominal de Electores Residentes en el Extranjero de exhibición por parte de las representaciones de los partidos políticos, debieron ser dados de baja de la referida Lista Nominal de Electores, y que en razón de que no se conocía esta determinación a la fecha de envío de los Paquetes Electores Postales, deberán:
+
+a) Identificarse y separarse, e incluirse en un acta que refiera esta circunstancia, para hacerlo del conocimiento de la Comisión del Voto de los Mexicanos Residentes en el Extranjero.
+
+b) Ser dados de baja de la Lista Nominal de Electores Residentes en el Extranjero como resultado de la aplicación de este lineamiento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 15
+
+Las piezas postales que sean entregadas al Instituto y que contengan los datos necesarios para la identificación del ciudadano en el Listado Nominal de Electores Residentes en el Extranjero serán turnadas para escrutinio y cómputo, conforme a lo siguiente:
+
+I. En caso de que los datos de identificación del ciudadano correspondan con lo comprendido en el Listado Nominal de Electores Residentes en el Extranjero, se procederá a testar el nombre y domicilio del ciudadano colocando con marcador de tinta permanente color negro una línea recta sobre estos, de tal forma que sean ilegibles con el fin de salvaguardar la confidencialidad del remitente del sufragio.
+
+II. En caso de que la pieza postal recibida se encuentre dañada o en mal estado será turnada a la mesa de escrutinio y cómputo quien con base en el artículo 118 párrafo 2 del Código de la materia, determinará si se garantiza la libre emisión, el secreto del voto y la efectividad del sufragio.
+
+Si al ser recibida la pieza postal se encuentra dañada de tal forma que se infiera de manera evidente que la boleta pudiera haber sido manipulada, la Dirección Ejecutiva del Registro Federal de Electores hará un acta circunstanciada, misma que se hará del conocimiento de la Comisión del Voto de los Mexicanos Residentes en el Extranjero en el más corto plazo.
+
+III. Las piezas postales recibidas en un sobre distinto al remitido al ciudadano por el Instituto, podrán ser turnadas para escrutinio y cómputo conforme a lo siguiente:
+
+a) Cuando con los datos del remitente se logre identificar al ciudadano en el Listado Nominal de Electores Residentes en el Extranjero, será turnada para escrutinio y cómputo.
+
+En caso de que los datos de identificación de una pieza postal coincidan con los de más de un ciudadano en el Listado Nominal de Electores Residentes en el Extranjero, se procederá a resguardar dicha pieza postal, en espera de la recepción de las correspondientes a los otros ciudadanos, en cuyo caso se inferirá que la pieza postal corresponde al ciudadano en cuestión. De no ser posible verificar la identidad del ciudadano en el Listado Nominal de Electores Residentes en el Extranjero, la pieza postal no será remitida a escrutinio y cómputo.
+
+b) Las piezas postales recibidas en sobres distintos al diseñado por el Instituto serán verificadas con los datos del remitente, a fin de identificar si éste se encuentra inscrito en la Lista Nominal de Electores Residentes en el Extranjero. En caso de coincidir el nombre o domicilio en el extranjero, y bajo la presunción de que la pieza postal pudiera contener el sobre para el envío de la boleta electoral al interior, se procederá a turnarla a escrutinio y cómputo.
+
+c) Cuando los datos contenidos en el sobre recibido no permitan la verificación del remitente con el Listado Nominal de Electores Residentes en el Extranjero se procederá a la apertura de la pieza postal. En caso de detectarse que contiene en su interior un sobre diseñado para el envío del voto, éste se turnará para escrutinio y cómputo.
+
+d) Si al verificar los datos del remitente se concluye que el ciudadano que envió el sobre no se encuentra en el Listado Nominal de Electores Residentes en el Extranjero dicho sobre no será enviado para escrutinio y cómputo.
+
+e) En los casos de recepción de piezas postales conteniendo la boleta electoral no previstos en el presente artículo de este acuerdo, la Dirección Ejecutiva del Registro Federal de Electores presentará a la Comisión del Voto de los Mexicanos Residentes en el Extranjero un dictamen técnico detallando las características de cada pieza postal para determinar lo que procede. Dicho dictamen deberá ser remitido a la Secretaría Técnica de la Comisión dentro de los tres días naturales siguientes a la recepción de la pieza postal, a fin de que ésta distribuya dicho dictamen a los miembros de la Comisión.
+
+La Comisión del Voto de los Mexicanos Residentes en el Extranjero, será la instancia del Instituto Federal Electoral responsable de conocer y determinar el destino de los sobres que contengan la boleta electoral.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 16
+
+En caso de que los funcionarios de las mesas de escrutinio y cómputo lo estimen necesario, podrán solicitar el apoyo del Instituto Federal Electoral para determinar si un sobre y/o boleta cumple con las formalidades de la ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 17
+
+Si de los sobres turnados a la mesa de escrutinio y cómputo se encuentra alguno abierto o que contenga más de una boleta electoral, el secretario de la mesa anotará el incidente en el acta respectiva y no podrán considerarse como emitidos y se considerarán como votos nulos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+### Capítulo Cuarto.- Devolución del Paquete Electoral Postal al Instituto Federal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 18
+
+De los Paquetes Electorales Postales que sean devueltos por el Servicio Postal Mexicano al Instituto Federal Electoral debido a la imposibilidad de realizar la entrega al ciudadano residente en el extranjero, se elaborará por la Dirección Ejecutiva del Registro Federal de Electores, un informe con el nombre del ciudadano, número de registro de la pieza postal devuelta, dirección de envío, causa de devolución y la fecha en que se recibió. Esta Dirección Ejecutiva analizará el motivo de la devolución y se estará a lo siguiente:
+
+I. Se cotejará la información de envío de la pieza postal con la remitida por el ciudadano en su solicitud de inscripción al Listado Nominal de Electores Residentes en el Extranjero, así como en el comprobante de domicilio anexo a dicha solicitud. De corroborarse que se trató de un error subsanable, se reenviará el Paquete Electoral Postal y se le notificará por todas las vías posibles al ciudadano de este reenvío.
+
+II. Se harán constar en actas circunstanciadas aquellos casos que, por causas no imputables al Instituto Federal Electoral, el Paquete Electoral Postal no haya sido entregado al ciudadano.
+
+III. Personal autorizado de la Dirección Ejecutiva del Registro Federal de Electores entablará comunicación, por todas las vías a su alcance, con los ciudadanos que se encuentren en este supuesto, informándoles acerca de lo manifestado por el servicio postal del país donde residen por lo cual no se entregó del Paquete Electoral Postal. Si el ciudadano manifiesta información en contrario a lo asentado por el servicio postal de su país de residencia como causa de no entrega, el Instituto reenviará de manera inmediata el Paquete Electoral Postal, dando seguimiento particular al reenvío para asegurar su entrega.
+
+IV. En caso de que la Dirección Ejecutiva del Registro Federal de Electores no pueda entablar comunicación directa con el ciudadano, utilizará los datos de su referencia en México a fin de obtener información para localizarlo e informarle la situación que guarda su Paquete Electoral Postal.
+
+V. Si el Instituto, a través del personal autorizado de la Dirección Ejecutiva del Registro Federal de Electores, no localiza al ciudadano residente en el extranjero por ningún medio se tendrá como cierta la causa señalada por el servicio postal del país de residencia del ciudadano. En tal caso, la referida Dirección Ejecutiva asentará una leyenda en dichas piezas postales, la cual textualmente señalará: “VERIFICADO”.
+
+VI. Cuando el Paquete Electoral Postal sea devuelto por alguna de las causas enumeradas a continuación, la Dirección Ejecutiva del Registro Federal de Electores actuará conforme a lo siguiente:
+
+a) Dirección insuficiente: se verificará en gabinete si el dato faltante es subsanable con el cotejo de su comprobante de domicilio o con la información asentada en la solicitud de inscripción al Listado Nominal de Electores Residentes en el Extranjero, en cuyo caso el error se subsanará y se procederá al reenvío.
+
+Si se trata de un dato faltante o incorrecto se contactará por todas las vías posibles al ciudadano al ciudadano (sic), con el fin de subsanar el error y proceder al reenvío.
+
+b) Destinatario desconocido: se verificará si se trata de errores de captura, ortográficos o de insuficiencia en los datos del ciudadano. Si no fuera el caso, se buscará contactar al ciudadano para subsanar el error y proceder al reenvío.
+
+c) Fallecimiento: se buscará por vía telefónica y/o electrónica al ciudadano. Si existen elementos que permitan suponer que el ciudadano no ha fallecido, se procederá al reenvío del Paquete Electoral Postal.
+
+d) Cambio de domicilio: se buscará al ciudadano por todos los medios posibles, para avisarle de la devolución y enviarle de nueva cuenta el Paquete Electoral Postal por correo certificado a la oficina postal correspondiente a la dirección que quedó asentada en el Listado Nominal de Electores Residentes en el Extranjero.
+
+e) El destinatario se rehusó a aceptar la correspondencia: se buscará al ciudadano por todos los medios posibles para verificar la veracidad de la información. Si el ciudadano manifiesta que aceptará la correspondencia o niega haberla rechazado, entonces se procederá al reenvío.
+
+f) El destinatario está fuera temporalmente y el periodo de retención de la correspondencia ha expirado: se reenviará el Paquete Electoral Postal, lo cual le será notificado al ciudadano por todos los medios al alcance de la Dirección Ejecutiva del Registro Federal de Electores.
+
+VII. Aquellos casos de devolución del paquete electoral postal no previstos en el presente artículo de este acuerdo serán resueltos por la Dirección Ejecutiva del Registro Federal de Electores dentro de los tres días naturales siguientes a su recepción. Esta Dirección Ejecutiva informará a los miembros de la Comisión el contenido de dichas resoluciones.
+
+VIII. Las devoluciones del Paquete Electoral Postal recibidas por el Instituto se informarán a la Comisión Nacional de Vigilancia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 19
+
+Si al analizar la causa por la cual es devuelto el Paquete Electoral Postal se identifica que ésta no es atribuible al ciudadano será subsanada inmediatamente y se reenviará el paquete electoral postal al ciudadano.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 20
+
+Los sobres y su contenido remitidos por los ciudadanos, que no sean turnados a las mesas de escrutinio y cómputo, serán destruidas conforme al protocolo establecido en el párrafo segundo del artículo 288 del Código Federal de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2006)</small>
+
+Artículo 21
+
+La Comisión del Voto de los Mexicanos sesionará dentro de las 48 horas previas a la jornada electoral con el fin de recibir un informe de la Dirección Ejecutiva del Registro Federal de Electores que deberá contener una relación de las piezas postales recibidas por el Instituto desglosando aquellas piezas que fueron recibidas conforme a lo establecido por el artículo 286 del Código Electoral, aquellas piezas postales dañadas, recibidas en otro sobre distinto al enviado por el Instituto, aquellas recibidas por correo ordinario y todos aquellos supuestos que entren bajo la regulación de los presentes lineamientos. De igual manera, se informará sobre la devolución de los Paquetes Electorales Postales.
+
 TERCERO.- El presente acuerdo entrará en vigor al día siguiente de su aprobación.
 
 CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación.
 
 El presente acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 21 de septiembre de dos mil cinco.- El Consejero Presidente del Consejo General, Luis Carlos Ugalde Ramírez.- Rúbrica.- La Secretaria del Consejo General, María del Carmen Alanis Figueroa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 7 DE JUNIO DE 2006.
+
+...
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación.
