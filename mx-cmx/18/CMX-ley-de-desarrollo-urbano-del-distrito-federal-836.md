@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "2005-04-08"
+last_updated: "2006-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 08 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996.
 
@@ -2440,7 +2440,7 @@ Procederá la ejecución forzosa en caso de que se hubiera agotado el procedimie
 
 ###### Artículo 97.
 
-En el caso de que la autoridad competente omita responder a una solicitud fundada, operará la afirmativa ficta en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+(DEROGADO, G.O. 7 DE JUNIO DE 2006)
 
 ###### Artículo 98.
 
@@ -3080,6 +3080,26 @@ SEGUNDO.- En lo referente al Sistema de Información Geográfica, a partir del a
 
 G.O. 29 DE ENERO DE 2004.
 
+PRIMERO.- Las adiciones y modificaciones a la presente Ley entrarán en vigor al día siguiente de su publicación en la Gaceta oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan o contravengan al presente decreto.
+
+TERCERO.- El Jefe de Gobierno contará con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto para emitir el Reglamento para el Ordenamiento del Paisaje Urbano. En tanto se publique dicho reglamento se aplicará lo establecido en los reglamentos de anuncios, mobiliario urbano, así como el reglamento de esta Ley.
+
+CUARTO.- La Secretaría tendrá un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para instrumentar un Programa de Reordenamiento de Anuncios, instalados con anterioridad a la entrada en vigor del presente decreto.
+
+Los interesados de participar en este Programa tendrán un plazo de 30 días naturales, contados a partir de la publicación de este ordenamiento, para presentar ante la Secretaría un inventario que contenga el número, ubicación y características de los anuncios que puedan ser objeto de reordenamiento. Aquellos anuncios no manifestados no podrán formar parte de dicho Programa.
+
+QUINTO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente decreto, seguirán sustanciándose en los términos de dichas disposiciones.
+
+SEXTO. Los anuncios comerciales fijos que hubieran sido objeto de procedimientos administrativos y que a la fecha de entrada en vigor del presente decreto hubiera quedado en firme su resolución administrativa, no serán incluidos en el Programa de Reordenamiento de Anuncios, que pondrá en marcha la Secretaría de Desarrollo Urbano y Vivienda.
+
+SÉPTIMO.- La Secretaría tendrá un plazo de 180 días naturales contados a partir de la entrada en vigor de este decreto, para expedir y someter a consideración de la Asamblea Legislativa del Distrito Federal los Planos de zonificación en materia de anuncios, los cuales adquieren vigencia jurídica. Una vez que termine el proceso de modificación de los Programas Delegacionales de Desarrollo Urbano, se incorporarán a éstos.
+
+OCTAVO.- Hasta en tanto no se publiquen en la Gaceta Oficial del Distrito Federal, continuarán vigentes los Planos de Zonificación en materia de anuncios, en todo aquello que no se opongan a este decreto.
+
+G.O. 29 DE ENERO DE 2004.
+
 DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY DE DESARROLLO URBANO.
 
 PRIMERO.- Las adiciones y modificaciones a la presente Ley entrarán en vigor al día siguiente de su publicación en la Gaceta oficial del Distrito Federal.
@@ -3111,3 +3131,11 @@ TERCERO.- Una vez publicadas, las Normas de Ordenación Generales formarán part
 CUARTO.- La Norma de Ordenación General número 22 "ALTURA MÁXIMA Y PORCENTAJE DE ÁREA LIBRE PERMITIDA EN LAS ZONIFICACIONES; (E) EQUIPAMIENTO; (CB) CENTRO DE BARRIO; E (I) INDUSTRIA", continuará aplicándose en términos del presente Decreto, en tanto no se actualice el Programa Delegacional respectivo, una vez publicado éste, dicha Norma quedará derogada.
 
 QUINTO.- Los Certificados de Zonificación de Uso del Suelo, Licencias de Uso del Suelo, Estudios de Impacto Urbano, Impacto Urbano-Ambiental y cualquier otra Constancia o Autorización que se encuentre en trámite, se resolverá de conformidad con las Normas de Ordenación Generales publicadas en la Gaceta Oficial del Distrito Federal el 10 de abril de 1997 en los Programas Delegacionales de Desarrollo Urbano.
+
+G.O. 7 DE JUNIO DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los trámites que se encuentren en proceso de afirmativa ficta ante las autoridades correspondientes, deberán de ser resueltos conforme a la normatividad en que se iniciaron.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
