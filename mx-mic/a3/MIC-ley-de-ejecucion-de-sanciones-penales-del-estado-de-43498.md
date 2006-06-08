@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-penales-del-estado-de-43498"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-27"
-last_updated: "2005-01-27"
+last_updated: "2006-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 27 de enero de 2005.
 
@@ -399,13 +399,15 @@ Para el adecuado funcionamiento de los centros, en la designación del personal 
 
 Antes de asumir el cargo y durante el desempeño de éste, el personal de los centros debe seguir los cursos de formación y de actualización que se realicen, así como aprobar los exámenes de selección.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2006)</small>
+
 ###### Artículo 45.
 
-El sitio que se destine para la extinción de las sanciones privativas de la libertad será distinto y completamente separado del destinado a la prisión preventiva. Las mujeres quedarán recluidas en lugares diferentes a los de los hombres.
+El sitio que se destine para la extinción de las sanciones privativas de la libertad será distinto y completamente separado del destinado a la prisión preventiva.
 
 ###### Artículo 46.
 
-En los centros o en las secciones destinadas a las mujeres, la labor de vigilancia estará a cargo de personal femenino.
+(DEROGADO, P.O. 8 DE JUNIO DE 2006)
 
 ###### Artículo 47.
 
@@ -441,9 +443,73 @@ Ninguno de los internos podrá usar medicamentos o someterse a tratamientos que 
 
 El responsable del Servicio Médico de cada centro queda obligado a hacer del inmediato conocimiento de la Dirección, los casos de enfermedades transmisibles, a fin de tomar las medidas necesarias para evitar contagios o epidemias.
 
-### Capítulo Segundo. De la Disciplina
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2006)</small>
 
-### Capítulo Primero. De los Sustitutivos en General
+### Capítulo Segundo. De las Mujeres y los Hijos que las Acompañan
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 A. Las mujeres serán internadas en centros destinados especialmente para ellas o; en su defecto, en secciones especiales de los establecimientos, pero siempre separadas de los hombres.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 B. La custodia de los centros o secciones de mujeres, estarán exclusivamente a cargo de personal femenino y no deberán tener acceso a dichos lugares celadores varones, salvo por causa de fuerza mayor y bajo la estricta responsabilidad de quien lo permita.
+
+Los restantes miembros del personal masculino sólo tendrán acceso a los centros o secciones mencionadas en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 C. Las mujeres tienen derecho a recibir educación y capacitación para el trabajo, de acuerdo a los lineamientos dispuestos en el Título Tercero, Capítulo Cuarto y Quinto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 D. Los centros y secciones en lo posible contarán con medicamentos, equipo y personal necesario para proporcionar a las internas atención médica especializada durante el embarazo y servicios ginecológicos, obstétricos y pediátricos de emergencia, así como lo necesario para brindar atención psicológica.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 E. En los centros y secciones de mujeres se facilitarán a las internas los artículos necesarios de uso normal para la higiene íntima.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 F. Las mujeres tienen derecho a recibir visita íntima.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 G. La Dirección General dictará las medidas necesarias para que los hijos de las internas nazcan en instalaciones de los Servicios de Salud del Gobierno del Estado.
+
+Los Centros deberán contar con lo necesario para atender aquellos partos cuya urgencia, no permita que se lleven a cabo fuera de la institución.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 H. Cuando una interna solicite el ingreso de un hijo o hija, se podrá autorizar previa valoración que se realice por el Consejo Técnico Interdisciplinario y en razón de que no exista familiar directo que asuma con responsabilidad la guarda y custodia del mismo.
+
+Los hijos e hijas que las internas ingresen, así como aquellos que nazcan durante el periodo de reclusión, en caso de que permanezcan dentro de la institución, recibirán atención nutricional, pediátrica, y educación inicial.
+
+En el documento que acredite al niño o a la niña haber cursado algún grado de educación, no se mencionará el domicilio ni las características del lugar donde lo cursó.
+
+En ningún caso podrán los niños y niñas permanecer después de la edad de cuatro años alojados en los Centros de Readaptación Social. En todo caso, la Dirección de Prevención y Readaptación Social del Estado se abocará, con la anticipación debida, a realizar los estudios de trabajo social necesarios para entregar a estos menores a los familiares más cercanos o a instituciones que desarrollen funciones de asistencia social.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 I. Las niñas y los niños nacidos en los centros de reclusión deberán ser registrados a la brevedad posible.
+
+Las actas de nacimiento de las niñas y los niños nacidos en las instituciones penitenciarias señalarán como domicilio el que señale la madre fuera del Centro de Readaptación.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 J. La Dirección del Centro garantizará, en la medida de lo posible, los espacios adecuados y las condiciones necesarias para la estancia de los menores en los Centros de Reclusión.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 K. Cuando la permanencia de un menor en el Centro de Reclusión se determine que es nociva para su desarrollo biopsicosocial, se entregará a los familiares más cercanos o a la institución de asistencia social correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2006)</small>
+
+Artículo 54 L. No se autorizará la permanencia de más de un hijo o hija por interna dentro de los Centros de Reclusión, a excepción de que no exista familiar directo que asuma con responsabilidad la guarda y custodia del menor.
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEGUNDO], P.O. 8 DE JUNIO DE 2006)
+
+### Capítulo Tercero. De la Disciplina
 
 ###### Artículo 55.
 
@@ -491,7 +557,7 @@ Los directores de los centros deberán realizar inspecciones periódicas tendien
 
 ## TÍTULO QUINTO. DE LOS SUSTITUTIVOS PENALES
 
-### Capítulo Segundo. Del Tratamiento en Externación
+### Capítulo Primero. De los Sustitutivos en General
 
 ###### Artículo 64.
 
@@ -521,7 +587,7 @@ La Dirección determinará el lugar y trabajo que deba desempeñarse en favor de
 
 Todo sentenciado a quien se le haya concedido el beneficio de la Suspensión Condicional de la Ejecución de la Sanción, quedará bajo el cuidado y vigilancia de la Dirección, debiendo cumplir con las condiciones y obligaciones que le fueron impuestas por la autoridad judicial.
 
-### Capítulo Tercero. De la Libertad Anticipada
+### Capítulo Segundo. Del Tratamiento en Externación
 
 ###### Artículo 69.
 
@@ -597,7 +663,7 @@ IV. No frecuentar centros de vicio; y,
 
 V. En su caso, realizar las actividades que a favor de la comunidad determine la Dirección, para lo cual se abrirá el expediente respectivo donde se registrará el control de las condiciones, horarios y actividades que realizará.
 
-### Capítulo Primero. Del Trámite y Resolución
+### Capítulo Tercero. De la Libertad Anticipada
 
 ###### Artículo 77.
 
@@ -703,7 +769,7 @@ La remisión funcionará independientemente de la libertad condicional; para est
 
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO PARA LA CONCESIÓN DEL TRATAMIENTO EN EXTERNACIÓN Y DE LA LIBERTAD ANTICIPADA
 
-### Capítulo Primero. De los Inimputables
+### Capítulo Primero. Del Trámite y Resolución
 
 ###### Artículo 87.
 
@@ -751,7 +817,7 @@ Los términos antes establecidos, podrán ampliarse por la Secretaría, a petici
 
 ## TÍTULO SÉPTIMO. DE LOS INIMPUTABLES Y ENFERMOS PSIQUIÁTRICOS
 
-### Capítulo Segundo. De los Enfermos Psiquiátricos
+### Capítulo Primero. De los Inimputables
 
 ###### Artículo 94.
 
@@ -765,7 +831,7 @@ La modificación o conclusión de la medida de seguridad impuesta, la realizará
 
 Las medidas de seguridad sólo podrán adecuarse cuando se esté ante los supuestos previstos en el Código Penal del Estado.
 
-### Capítulo Único. De la Modificación no Esencial de la Pena de Prisión
+### Capítulo Segundo. De los Enfermos Psiquiátricos
 
 ###### Artículo 97.
 
@@ -783,7 +849,7 @@ III. Cuente con una persona de confianza que se sujete a las obligaciones que es
 
 ## TÍTULO OCTAVO. DE LA MODIFICACIÓN NO ESENCIAL DE LA PENA DE PRISIÓN
 
-### Capítulo Primero. De la Suspensión
+### Capítulo Único. De la Modificación no Esencial de la Pena de Prisión
 
 ###### Artículo 99.
 
@@ -791,13 +857,13 @@ Cuando se acredite que el sentenciado no puede cumplir con alguna de las modalid
 
 ## TÍTULO NOVENO. DE LA SUSPENSIÓN Y REVOCACIÓN DEL TRATAMIENTO EN EXTERNACIÓN Y DE LA LIBERTAD ANTICIPADA
 
-### Capítulo Segundo. De la Revocación
+### Capítulo Primero. De la Suspensión
 
 ###### Artículo 100.
 
 Al sentenciado que se le haya otorgado el Tratamiento en Externación o cualquier beneficio de Libertad Anticipada, se le suspenderá cuando se le dicte Auto de Formal Prisión por la comisión de un nuevo delito, siempre que no sea culposo.
 
-### Capítulo Único. De la Extinción
+### Capítulo Segundo. De la Revocación
 
 ###### Artículo 101.
 
@@ -817,7 +883,7 @@ Para que se haga efectiva la revocación, la Dirección solicitará al titular d
 
 ## TÍTULO DÉCIMO. DE LA EXTINCIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-### Capítulo Único. De las Instituciones de Asistencia Social a Liberados
+### Capítulo Único. De la Extinción
 
 ###### Artículo 104.
 
@@ -836,6 +902,8 @@ V. Prescripción; o,
 VI. Las demás que señale el Código Penal del Estado de Michoacán.
 
 ## TÍTULO UNDÉCIMO. DE LA ASISTENCIA POSTPENITENCIARIA
+
+### Capítulo Único. De las Instituciones de Asistencia Social a Liberados
 
 ###### Artículo 105.
 
@@ -878,3 +946,11 @@ PRESIDENTE.- DIP. ARMANDO OCTAVIO BALLINAS MAYÉS; SECRETARIO.- DIP. RICARDO LUN
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de enero del año 2005 dos mil cinco.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JUNIO DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los reglamentos interiores de los Centros de Readaptación Social deberán ser reformados para adecuarse a lo dispuesto por el presente (sic), en un plazo de dos meses contados a partir de la entrada en vigor de este Decreto.
