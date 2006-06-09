@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2006-05-12"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -591,7 +591,7 @@ IX. Diseñar, desarrollar, programar, implantar y mantener los sistemas informá
 
 X. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)
 
-XI. Apoyar a la Dirección General de Recursos Materiales y Servicios Generales en la planeación, diseño, implantación y mantenimiento de la infraestructura de telefonía que asegure el buen funcionamiento y la comunicación de las personas que laboran en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia y del Tribunal Electoral;
+XI. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 33/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JUNIO DE 2006)
 
 > <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
 
@@ -1748,3 +1748,11 @@ SEGUNDO.- El texto de esta reforma deberá integrase (sic), de inmediato, al Acu
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
 
 CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El texto de esta reforma deberá integrarse, de inmediato, a los Acuerdos Generales 5/2000 y 25/2006, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
