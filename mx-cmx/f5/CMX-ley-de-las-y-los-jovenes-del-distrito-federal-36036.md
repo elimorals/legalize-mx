@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2006-05-24"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -52,11 +52,21 @@ LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
 La presente ley es de orden público e interés social y tiene por objeto normar las medidas y acciones que contribuyan al desarrollo integral de las y los jóvenes del Distrito Federal, así como regular el funcionamiento del Instituto de la Juventud del Distrito Federal. Esta ley se sustenta en una perspectiva de género que busca equilibrar las relaciones entre las y los jóvenes, y tiene también una perspectiva juvenil, en tanto concibe al joven como sujeto de derecho y actor social pleno.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+La presente ley va dirigida a jóvenes menores y mayores de edad, lo cual debe ser considerado en la aplicación de la misma.
+
 ###### Artículo 2.
 
 Para efectos de esta Ley se entiende por:
 
-I. Joven. Sujeto de derecho cuya edad comprende el rango entre los 15 y los 29 años de edad, identificado como un actor social estratégico para la transformación y el mejoramiento de la ciudad;
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+I. Joven. Sujeto de derecho cuya edad comprende:
+
+a) Mayor de edad. El rango entre los 18 y los 29 años de edad cumplidos, identificado como un actor social estratégico para la transformación y el mejoramiento de la ciudad;
+
+b) Menor de edad. El rango entre los 14 años cumplidos y los 18 incumplidos, identificado como un actor social estratégico para la transformación y el mejoramiento de la ciudad;
 
 II. Juventud. Al conjunto de jóvenes;
 
@@ -86,11 +96,13 @@ XIII. Ley. La Ley de la Juventud del Distrito Federal.
 
 ### CAPITULO I. DEL DERECHO A UNA VIDA DIGNA
 
-> <small>(REFORMADO, G.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### Artículo 3.
 
-Las normas de la presente ley, los derechos y garantías, se aplicarán a todos las y los jóvenes, de manera independiente a su condición familiar, social, cultural, religiosa, económica, racial, étnica, filiación política, opción sexual, o cualquier otra condición personal o la de sus padres, representantes legales o responsables.
+Todas las y los jóvenes como miembros de la sociedad y como habitantes del Distrito Federal, tienen el derecho de acceso y disfrute de los servicios y beneficios socio-económicos, políticos, culturales, informativos, de desarrollo y de convivencia que les permitan construir una vida digna en la ciudad.
+
+Las y los jóvenes menores de edad gozarán de los derechos que reconoce esta Ley, sin detrimento de los derechos contenidos en la Ley de los Derechos de las Niñas y los Niños en el Distrito Federal, demás normas federales e internacionales y de los que pueden ejercer una vez que cumplan la mayoría de edad.
 
 > <small>(REFORMADO, G.O. 24 DE MAYO DE 2006)</small>
 
@@ -146,7 +158,9 @@ b) Consolidar su incorporación a la actividad económica mediante una ocupació
 
 c) Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social, económica, su religión, opinión, raza, color, sexo, edad, orientación sexual y lengua.
 
-La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 15 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal. Los lineamientos deberán establecerse en términos de lo estipulado en el artículo 8 de la presente Ley.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 14 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal. Los lineamientos deberán establecerse en términos de lo estipulado en el artículo 8 de la presente Ley.
 
 > <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
 
@@ -199,6 +213,10 @@ El Plan debe contemplar un sistema de becas, estímulos e intercambios académic
 ###### Artículo 13.
 
 En los programas educativos se debe dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Distrito Federal, en particular en temas como la ecología, la participación ciudadana, las adicciones, la sexualidad, VIH-SIDA, problemas psico-sociales, entre otros.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+Artículo 13 BIS.- La educación se basará en el fomento al aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos, motivando a la juventud a generar proyectos para un mejor desarrollo de la Ciudad.
 
 ###### Artículo 14.
 
@@ -279,6 +297,12 @@ Todas las y los jóvenes tienen derecho al acceso a espacios culturales y a expr
 ###### Artículo 22.
 
 El Gobierno debe promover y garantizar, por todos los medios a su alcance, la promoción de las expresiones culturales de las y los jóvenes de la ciudad y el intercambio cultural a nivel nacional e internacional.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 22 BIS.- Para promover y garantizar las expresiones culturales de las y los jóvenes del Distrito Federal, el Gobierno a través del Instituto garantizará la suficiencia presupuestal y el diseño de los programas tendientes a promover y garantizar dichas expresiones.
+
+Así mismo, las organizaciones juveniles participarán en el diagnóstico, diseño, ejecución y evaluación de los programas de promoción de sus expresiones culturales.
 
 ###### Artículo 23.
 
@@ -716,9 +740,13 @@ I. La Junta de Gobierno;
 
 II. El Consejo del Instituto;
 
-III. La Red, y
+III. La Red, y (sic)
 
-IV. La Asamblea.
+IV. La Asamblea;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+V. El Instituto de Ciencia y Tecnología del Distrito Federal.
 
 ###### Artículo 72.
 
@@ -787,3 +815,37 @@ SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicaci
 G.O. 24 DE MAYO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA LOS ARTICULOS 1, 2, 3 Y 9 TER A LA LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL.
+
+PRIMERO. Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTICULO 22 BIS A LA LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL.
+
+Primero.- El presente decreto se publicará en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión;
+
+Segundo.- El presente decreto entrará en vigor al siguiente día de su publicación.
+
+Tercero.- El Jefe de Gobierno expedirá todas las disposiciones necesarias para la exacta observancia de la presente Ley.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO POR EL QUE SE ADICIONAN EL ARTICULO 13 BIS, Y LA FRACCION V AL ARTICULO 71 DE LA LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese el presente decreto al Jefe de Gobierno para los efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal nombrará a los miembros del Consejo Operativo, a más tardar el 1º de octubre de 2006, de conformidad con los requerimientos que así establezca la presente Ley.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal nombrará al Director General del Instituto de Ciencia y Tecnología a más tardar el 31 de octubre de 2006.
+
+QUINTO.- El Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente, deberán enviar las propuestas al Secretario de Desarrollo Social, para que éste elija a los Miembros Temporales de la Junta de Gobierno a más tardar el 1º de octubre de 2006, debiendo el Secretario de Desarrollo Social elegir a los tres Miembros Temporales a más tardar el 31 de octubre de 2006.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá incluir en el Presupuesto de Egresos del Distrito Federal para el año 2007 la partida que corresponda al Instituto de Ciencia y Tecnología del Distrito Federal para que éste inicie operaciones el 2º de enero de 2007.
