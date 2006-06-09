@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2005-12-30"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -416,9 +416,45 @@ IV.- No frecuentar centros de vicio.
 
 V.- Realizar las actividades que a favor de la comunidad determine la Dirección, para lo cual se abrirá el expediente respectivo donde se registrará el control de las condiciones, horarios y actividades que realizará.
 
-### CAPITULO III. DE LA LIBERTAD ANTICIPADA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2006)</small>
 
-### CAPITULO IV. DEL TRATAMIENTO PRELIBERACIONAL
+### CAPITULO II BIS. DE LA RECLUSION DOMICILIARIA MEDIANTE EL PROGRAMA DE MONITOREO ELECTRONICO A DISTANCIA
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+###### Artículo 39 Bis.
+
+El beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia es un medio de ejecutar la sanción penal hasta en tanto se alcance el beneficio de Tratamiento Preliberacional, y se sujetará a las bases y principios que disponen los artículos 33 y 35 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+###### Artículo 39 Ter.
+
+El beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a que se refiere el artículo anterior, se concederá al sentenciado que cumpla con los siguientes requisitos:
+
+I. Sea primodelincuente;
+
+II. Que la pena privativa de libertad no sea menor de siete años ni mayor de diez años;
+
+III. Que le falte por lo menos dos años para alcanzar el beneficio de tratamiento preliberacional. Y que no se encuentre dentro de los supuestos del Artículo 42 de esta ley;
+
+IV. Cubra o garantice en su totalidad la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
+
+V. Acredite buen desarrollo institucional;
+
+VI. Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el beneficiado;
+
+VII. Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continué estudiando;
+
+VIII. Cuente con aval afianzador;
+
+IX. Acredite apoyo familiar;
+
+X. Cubra el costo del dispositivo electrónico de monitoreo, en las condiciones que para ello establezca el Reglamento y;
+
+XI. Las demás que establezca el Reglamento que regule este beneficio.
+
+### CAPITULO III. DE LA LIBERTAD ANTICIPADA
 
 ###### Artículo 40.
 
@@ -440,9 +476,7 @@ III.- Remisión Parcial de la Pena.
 
 Los beneficios de libertad anticipada, en sus modalidades de tratamiento preliberacional y libertad preparatoria, no se concederán a los sentenciados por los delitos de: homicidio calificado, previsto en el artículo 128; inseminación artificial, previsto en los artículos 150 y 151; desaparición forzada de personas, previsto en el artículo 168; violación, previsto en los artículos 174, 175 y 178; secuestro, contenido en los artículos 163, 163 bis, 164, 165, 166 y 166 bis, con excepción de lo previsto en el último párrafo del artículo 164, pornografía infantil, a que se refiere el artículo 187; robo agravado, previsto en el artículo 220 en relación a los artículos 224 fracciones I, y 225; asociación delictuosa y delincuencia organizada, previstos en los artículos 253, 254 y 255; tortura, a que se refieren los artículos 294 y 295; todos del Nuevo Código Penal para el Distrito Federal; salvo en los casos de colaboración previstos por la Ley contra la Delincuencia Organizada para el Distrito Federal.
 
-### CAPITULO V. DE LA LIBERTAD PREPARATORIA
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+### CAPITULO IV. DEL TRATAMIENTO PRELIBERACIONAL
 
 ###### Artículo 43.
 
@@ -496,7 +530,9 @@ a).- Salida diaria a trabajar o estudiar con reclusión nocturna y salida los d�
 
 b).- Reclusión los sábados y domingos para tratamiento técnico.
 
-### CAPITULO VI. DE LA REMISION PARCIAL DE LA PENA
+### CAPITULO V. DE LA LIBERTAD PREPARATORIA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 46.
 
@@ -538,15 +574,15 @@ I.- Esté sujeto a otro u otros procesos penales o haya sido condenado por sente
 
 II.- Se encuentre en el caso señalado por el artículo 42 de ésta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-No estar sujeto a otro u otros procesos penales o que con anterioridad, no se le haya concedido el tratamiento en externación y/o algún beneficio de libertad anticipada y se encuentren vigentes o que alguno de éstos le hubiere sido revocado.
+Con anterioridad, se le haya concedido el tratamiento en externación y/o algún beneficio de Libertad Anticipada y se encuentren vigentes o que alguno de éstos le hubiese sido revocado.
 
 ###### Artículo 49.
 
 El sentenciado que haya obtenido el beneficio de libertad preparatoria, estará obligado a presentarse ante la Dirección, la que tomará en cuenta los horarios de trabajo o estudio, además de supervisar su comportamiento por conducto de las áreas técnicas correspondientes.
 
-### CAPITULO UNICO. TRÁMITE Y RESOLUCIÓN
+### CAPITULO VI. DE LA REMISION PARCIAL DE LA PENA
 
 ###### Artículo 50.
 
@@ -564,7 +600,7 @@ La autoridad al conceder la remisión parcial de la pena, establecerá las condi
 
 PROCEDIMIENTO PARA LA CONCESIÓN DEL TRATAMIENTO EN EXTERNACIÓN Y EL BENEFICIO DE LIBERTAD ANTICIPADA.
 
-### CAPITULO I. DE LOS INIMPUTABLES
+### CAPITULO UNICO. TRÁMITE Y RESOLUCIÓN
 
 ###### Artículo 51.
 
@@ -608,9 +644,7 @@ En ningún caso dicha ampliación será mayor a los términos antes señalados r
 
 ## TITULO QUINTO. DE LOS INIMPUTABLES Y ENFERMOS PSIQUIATRICOS
 
-### CAPITULO II. DE LOS ENFERMOS PSIQUIATRICOS
-
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+### CAPITULO I. DE LOS INIMPUTABLES
 
 ###### Artículo 58.
 
@@ -626,9 +660,9 @@ La modificación o conclusión de la medida de seguridad impuesta, la realizará
 
 Las medidas de seguridad solo podrán adecuarse cuando se esté ante los supuestos previstos en el Nuevo Código Penal para el Distrito Federal.
 
-### CAPITULO UNICO. ADECUACIÓN Y MODIFICACION NO ESENCIAL DE LA PENA DE PRISIÓN
+### CAPITULO II. DE LOS ENFERMOS PSIQUIATRICOS
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 61.
 
@@ -646,7 +680,9 @@ III.- Cuente con responsable legal que se sujete a las obligaciones que establez
 
 ## TITULO SEXTO. ADECUACION Y MODIFICACION NO ESENCIAL DE LA PENA DE PRISION
 
-### CAPITULO I. SUSPENSION
+### CAPITULO UNICO. ADECUACIÓN Y MODIFICACION NO ESENCIAL DE LA PENA DE PRISIÓN
+
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 63.
 
@@ -654,13 +690,13 @@ Cuando se acredite que el sentenciado no puede cumplir con alguna de las modalid
 
 ## TITULO SEPTIMO. SUSPENSIÓN Y REVOCACION DEL TRATAMIENTO EN EXTERNACIÓN Y DEL BENEFICIO DE LIBERTAD ANTICIPADA
 
-### CAPITULO II. REVOCACION DEL TRATAMIENTO EN EXTERNACIÓN Y DEL BENEFICIO DE LIBERTAD ANTICIPADA
+### CAPITULO I. SUSPENSION
 
 ###### Articulo 64.
 
 Al sentenciado que se le haya otorgado el Tratamiento en Externación o el beneficio de Libertad Anticipada se le suspenderá, por virtud de estar sujeto a un procedimiento penal por la comisión de un nuevo delito.
 
-### CAPITULO UNICO. EXTINCION
+### CAPITULO II. REVOCACION DEL TRATAMIENTO EN EXTERNACIÓN Y DEL BENEFICIO DE LIBERTAD ANTICIPADA
 
 ###### Artículo 65.
 
@@ -682,7 +718,7 @@ Para que se haga efectiva la revocación, la Autoridad Ejecutora solicitará al 
 
 ## TITULO OCTAVO. EXTINCION DE LAS PENAS PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-### CAPITULO UNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
+### CAPITULO UNICO. EXTINCION
 
 ###### Artículo 68.
 
@@ -703,6 +739,8 @@ V.- Prescripción; y
 VI.- Las demás que señale el Nuevo Código Penal para el Distrito Federal.
 
 ## TITULO NOVENO. ASISTENCIA POSTPENITENCIARIA
+
+### CAPITULO UNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
 
 ###### Artículo 69.
 
@@ -793,3 +831,21 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 48 DE LA LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO QUE ADICIONA UN CAPITULO II BIS A LA LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguientes al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
