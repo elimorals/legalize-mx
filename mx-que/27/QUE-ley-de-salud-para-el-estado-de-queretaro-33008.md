@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-para-el-estado-de-queretaro-33008"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-11"
-last_updated: "2006-02-17"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 11 de julio de 2003.
 
@@ -908,6 +908,12 @@ En los servicios de salud se promoverán la organización institucional de comit
 ###### ARTÍCULO 72.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quien ejerzan la patria potestad sobre ellos, con el Estado y la sociedad en general.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE ADICIONA EL ARTICULO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2006)</small>
+
+Para tutelar la protección de la salud mental de los menores, las instituciones públicas y personas físicas o morales que presten servicios de salud a personas con embarazos de alto riesgo o a menores que presenten daños neurológicos, deberán notificar estos casos, desde el momento de su detección, a los centros oficiales de rehabilitación para que puedan proporcionar a os padres o tutores la información necesaria para su oportuna atención.
 
 ###### ARTÍCULO 73.
 
@@ -2634,3 +2640,9 @@ El Titular del Ejecutivo del Estado deberá, según sea el caso, realizar los ca
 ###### ARTÍCULO TERCERO.
 
 El Titular del Ejecutivo del Estado deberá expedir el Reglamento al que se hace referencia en el artículo 58 de la presente Ley, en un plazo no mayor de ciento ochenta días hábiles posteriores a la publicación de esta Ley.
+
+P.O. 9 DE JUNIO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor treinta días hábiles posteriores a la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Las autoridades locales en materia de salud, en el periodo comprendido entre la publicación de la presente Ley y el inicio de su vigencia, darán a conocer el contenido de la misma a todas las instituciones y personas físicas morales.
