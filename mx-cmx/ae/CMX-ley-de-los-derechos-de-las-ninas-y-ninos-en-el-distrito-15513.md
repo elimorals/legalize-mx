@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2000-01-31"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -558,9 +558,13 @@ I. Garantizar el acceso a todas las niñas y niños a escuelas dignas, seguras y
 
 II. Propiciar la integración de las niñas y niños discapacitados a planteles de educación básica;
 
-III. Fomentar el otorgamiento de becas en las instituciones particulares a fin de apoyar a las familias de escasos recursos para que sus hijos continúen con su formación educativa; y
+III. Fomentar el otorgamiento de becas en las instituciones particulares a fin de apoyar a las familias de escasos recursos para que sus hijos continúen con su formación educativa; y (sic)
 
-IV. Impulsar programas de fomento educativo con los padres, educandos y maestros.
+IV. Impulsar programas de fomento educativo con los padres, educandos y maestros;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+V.- Fortalecer la infraestructura tecnológica de las escuelas públicas para fomentar la formación científica y tecnológica de las niñas y los niños.
 
 ###### Artículo 35.
 
@@ -781,3 +785,19 @@ TERCERO.- Por lo que se refiere a las facultades y obligaciones que se establece
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 21 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. YOLANDA TELLO MONDRAGON, SECRETARIO.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO CORDERA PASTOR.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 9 DE JUNIO DE 2006.
+
+PRIMERO.- Túrnese el presente decreto al Jefe de Gobierno para los efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal nombrará a los miembros del Consejo Operativo, a más tardar el 1º de octubre de 2006, de conformidad con los requerimientos que así establezca la presente Ley.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal nombrará al Director General del Instituto de Ciencia y Tecnología a más tardar el 31 de octubre de 2006.
+
+QUINTO.- El Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente, deberán enviar las propuestas al Secretario de Desarrollo Social, para que éste elija a los Miembros Temporales de la Junta de Gobierno a más tardar el 1º de octubre de 2006, debiendo el Secretario de Desarrollo Social elegir a los tres Miembros Temporales a más tardar el 31 de octubre de 2006.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá incluir en el Presupuesto de Egresos del Distrito Federal para el año 2007 la partida que corresponda al Instituto de Ciencia y Tecnología del Distrito Federal para que éste inicie operaciones el 2º de enero de 2007.
