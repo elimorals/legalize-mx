@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2004-05-31"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -382,13 +382,27 @@ Son infracciones contra la dignidad de las personas;
 
 I. Vejar o maltratar física o verbalmente a cualquier persona;
 
-II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido, y
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
 
-III. Propinar a una persona, en forma intencional y fuera de riña, golpes que no le causen lesión.
+II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+III. Propinar a una persona, en forma intencional y fuera de riña, golpes que no le causen lesión; y
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+IV. Lesionar a una persona siempre y cuando las lesiones que se causen de acuerdo al dictamen médico tarden en sanar menos de quince días.
+
+En caso de que las lesiones tarden en sanar más de quince días el juez dejará a salvo los derechos del afectado para que éste los ejercite por la vía que estime procedente.
 
 La infracción establecida en la fracción I se sancionará con multa por el equivalente de 1 a 10 días de salario mínimo o con arresto de 6 a 12 horas.
 
 Las infracciones establecidas en las fracciones II y III se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+La infracción establecida en la fracción IV, se sancionará con arresto de veinticinco a treinta y seis horas. Sólo procederá la conciliación cuando el probable infractor repare el daño. Las partes de común acuerdo fijarán el monto del daño.
 
 ###### Artículo 24.
 
@@ -1203,3 +1217,15 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del
 POR LA MESA DIRECTIVA, DIP. FRANCISCO CHIGUIL FIGUEROA.- PRESIDENTE.- DIP. MA. ELENA TORRES BALTAZAR.- SECRETARIA.- DIP. JOSÉ DE JESÚS LÓPEZ SANDOVAL.- SECRETARIO.- (FIRMAS).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de mayo del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, LIC. MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 9 DE JUNIO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguientes al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
