@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2006-05-19"
+last_updated: "2006-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-07-11"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL-
 
-NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
+CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS, ENTRARA EN VIGOR A LOS 60 DIAS SIGUIENTES DE SU PUBLICACION EN LA G.O. DEL D.F.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -42,7 +44,9 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, II LEGISLATURA
 
 DECRETA:
 
-NUEVO CÓDIGO PENAL PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2006)</small>
+
+CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -290,11 +294,9 @@ V. Intervención.
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
-###### ARTÍCULO 33.
-
-(Concepto y duración de la prisión). La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años. Su ejecución se llevará a cabo en los establecimientos del Distrito Federal o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados.
+ARTÍCULO 33 (Concepto y duración de la prisión). La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años. Su ejecución se llevará a cabo en los establecimientos o lugares donde disponga la autoridad ejecutora de las sanciones penales en el Distrito Federal o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados.
 
 En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención o del arraigo.
 
@@ -330,7 +332,9 @@ La semilibertad podrá imponerse como pena autónoma o como sustitutiva de la pr
 
 En todo caso, la semilibertad se cumplirá bajo el cuidado de la autoridad competente.
 
-### CAPÍTULO V. TRABAJO EN BENEFICIO DE LA VÍCTIMA O EN FAVOR DE LA COMUNIDAD
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2006)</small>
+
+### CAPÍTULO V. TRABAJO A FAVOR DE LA VÍCTIMA O A FAVOR DE LA COMUNIDAD
 
 ARTÍCULO 36 (Concepto y duración). El trabajo en beneficio de la víctima del delito consiste en la prestación de servicios remunerados, en instituciones públicas, educativas, empresas de participación estatal o en empresas privadas, en los términos de la legislación correspondiente.
 
@@ -362,7 +366,9 @@ El momento de consumación de la última conducta, si el delito es continuado.
 
 ARTÍCULO 39 (Sustitución de la multa). Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en beneficio de la víctima o trabajo a favor de la comunidad. Cada jornada de trabajo saldará dos días multa.
 
-Cuando no sea posible o conveniente la sustitución de la multa por trabajo en favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días multa sustituido, sin que este plazo sea mayor al de la prescripción.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+Cuando no sea posible o conveniente la sustitución de la multa por trabajo a favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá el número de días multa sustituido, sin que este plazo sea mayor al de la prescripción.
 
 ARTÍCULO 40 (Exigibilidad de la multa). La autoridad ejecutora iniciará el procedimiento económico coactivo, dentro de los cinco días siguientes a la recepción de la sentencia.
 
@@ -490,7 +496,9 @@ A estas misma (sic) reglas se sujetará la inhabilitación.
 
 ARTÍCULO 58 (Suspensión de derechos como consecuencia de la pena de prisión). La pena de prisión produce la suspensión de los derechos políticos, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, y en su caso, los derechos de tutela, curatela, para ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en concursos, árbitro, arbitrador o representante de ausentes. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y concluirá cuando se extinga la pena de prisión.
 
-ARTÍCULO 59 (Efectividad de la suspensión). En el caso de destitución, ésta se hará efectiva a partir del día en que cause ejecutoria la sentencia.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 59 (Momento de la destitución). En el caso de destitución, ésta se hará efectiva a partir del día en que cause ejecutoria la sentencia.
 
 ### CAPÍTULO IX. SUPERVISIÓN DE LA AUTORIDAD
 
@@ -572,6 +580,18 @@ En ningún caso se podrán rebasar los extremos previstos en este Código.
 
 Lo previsto en el párrafo anterior no es aplicable para la reparación del daño ni la sanción económica.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 71 Bis (De la disminución de la pena en delitos no graves). Cuando el sujeto activo confiese su participación en la comisión de delito no grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria, se disminuirá la pena en una mitad, según el delito que se trate.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 71 Ter (De la disminución de la pena en delitos graves) Cuando el sujeto activo confiese su participación en la comisión de delito grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria se disminuirá la pena una tercera parte, según el delito que se trate, excepto cuando estén relacionados con delincuencia organizada, en cuyo caso se aplicará la Ley de la materia. Este beneficio no es aplicable para los delitos de Homicidio, previsto en el artículo 123 en relación al 18, párrafo segundo; Secuestro, contenido en los artículos 163, 163 Bis, 164, 165, 166 y 166 Bis, con excepción de lo previsto en el último párrafo del artículo 164; Desaparición Forzada de Personas, previsto en el artículo 168; Violación, previsto en los artículos 174 y 175; Pornografía Infantil, a que se refiere el artículo 187; Robo, previsto en el artículo 220, en relación al artículo 225; Tortura, previsto en los artículos 294 y 295; todos de este Código.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 71 Quáter (Reglas generales para la aplicación de las penas disminuidas por reconocimiento de participación en la comisión del delito). El otorgamiento de la pena disminuida sólo será aplicable tratándose de primodelincuentes por delitos dolosos consumados y se requerirá que el reconocimiento que haga el sujeto activo de su participación en la comisión del delito se encuentre robustecido con otros elementos de prueba, para cuyo efecto se observarán las reglas previstas en los tres últimos párrafos del artículo 71 de éste Código.
+
 ARTÍCULO 72 (Criterios para la individualización de las penas y medidas de seguridad). El Juez, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, con base en la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
 
 I. La naturaleza de la acción u omisión y los medios empleados para ejecutarla;
@@ -594,13 +614,15 @@ Para la adecuada aplicación de las penas y medidas de seguridad, el Juez deber�
 
 ### CAPÍTULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
 
-ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos, se impondrá la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquellos para los que la ley señale una pena específica. Además se impondrá, en su caso, suspensión o privación definitiva de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos, se impondrá la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquellos para los que la ley señale una pena específica o un tratamiento diverso regulado por ordenamiento legal distinto a este Código. Además se impondrá, en su caso, suspensión o privación definitiva de derechos para ejercer profesión, oficio, autorización, licencia o permiso, por un término igual a la pena de prisión impuesta.
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Indebido de Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente, a que se refieren los artículos 345 y 346; y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente, a que se refieren los artículos 345 y 346; y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
 ARTÍCULO 77 (Clasificación de la gravedad de la culpa e individualización de la sanción para el delito culposo). La calificación de la gravedad de la culpa queda al prudente arbitrio del Juez, quien deberá considerar las circunstancias generales señaladas en el artículo 72 de este Código y las especiales siguientes:
 
@@ -639,6 +661,16 @@ b) Presente senilidad avanzada; o
 c) Padezca enfermedad grave e incurable avanzada o precario estado de salud. En estos casos, el juez tomará en cuenta el resultado de los dictámenes médicos y asentará con precisión, en la sentencia, las razones de su determinación.
 
 Se exceptúa la reparación del daño y la sanción económica, por lo que no se podrá prescindir de su imposición.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 75 Bis.
+
+Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad o de precario estado de salud permanente, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que procedan. La petición se tramitará incidentalmente.
+
+No gozarán de esta prerrogativa quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes directa o indirectamente participen o deban participar en el proceso.
+
+En todo caso, la valoración del juez se apoyará en dictámenes de peritos.
 
 ### CAPÍTULO IV. PUNIBILIDAD EN EL CASO DE CONCURSO DE DELITOS Y DELITO CONTINUADO
 
@@ -790,7 +822,9 @@ El Gobierno del Distrito Federal cubrirá el daño a quien habiendo sido condena
 
 ARTÍCULO 100 (Extinción por perdón del ofendido). El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercitado la acción penal, o ante el órgano jurisdiccional antes de que cause ejecutoria la sentencia. En caso de que la sentencia haya causado ejecutoria, el ofendido podrá acudir ante la autoridad judicial a otorgar el perdón. Ésta deberá proceder de inmediato a decretar la extinción de la potestad de ejecutar las penas y medidas de seguridad.
 
-Una vez otorgado el perdón, éste no podrá revocarse.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+Una vez otorgado el perdón, éste no podrá revocarse, a excepción de los supuestos previstos en los artículos 200 y 201 de este Código, en cuyo caso el perdón previamente otorgado solamente suspende la pretensión punitiva o la ejecución de las penas y medidas de seguridad, y podrá revocarse hasta un año posterior a su otorgamiento.
 
 Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por un acto equivalente a la querella. Para la extinción de la pretensión punitiva es suficiente la manifestación de quien está autorizado para ello, de que el interés afectado ha sido satisfecho.
 
@@ -961,6 +995,10 @@ V. De tres a cinco años de prisión, cuando disminuyan alguna facultad o el nor
 VI. De tres a ocho años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad incorregible; y
 
 VII. De tres a ocho años de prisión, cuando pongan en peligro la vida.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+Las lesiones a que se refiere la fracción I serán sancionadas por este Código únicamente cuando se produzcan de manera dolosa.
 
 ###### ARTÍCULO 131.
 
@@ -1214,7 +1252,7 @@ Si el agente espontáneamente libera a la víctima dentro de las veinticuatro ho
 
 La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto del agente.
 
-Cuando la privación de la libertad se lleve a cabo únicamente para cometer los delitos de robo o extorsión, previstos en los artículos 220 y 236 de este Código respectivamente, la pena será de cinco a veinte años de prisión.
+> <small>(DEROGADO QUINTO PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 161.
 
@@ -1856,6 +1894,8 @@ Cuando el agente sea servidor público, se le impondrá, además, destitución e
 
 ### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 219.
 
 (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
@@ -1876,7 +1916,9 @@ II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa,
 
 III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor de lo robado exceda de trescientas pero no de setecientas cincuenta veces el salario mínimo, y
 
-IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientos cincuenta veces el salario mínimo.
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+IV. Prisión de cuatro a diez años y de cuatrocientos o seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el salario mínimo.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1976,9 +2018,17 @@ I. De treinta a noventa días multa, cuando el valor de lo dispuesto no exceda d
 
 II. Prisión de cuatro meses a tres años y de noventa a doscientos cincuenta días multa, cuando el valor de lo dispuesto exceda de cincuenta pero no de quinientas veces el salario mínimo;
 
-III. Prisión de tres a seis años y de doscientos cincuenta a seiscientos días multa, cuando el valor de lo dispuesto exceda de quinientas pero no de cinco mil veces el salario mínimo; y
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
 
-IV. Prisión de seis a doce años y de setecientos a novecientos días multa, si el valor de lo dispuesto excede de cinco mil veces el salario mínimo.
+III. Prisión de tres a cuatro años y de doscientos cincuenta a seiscientos días multa, cuando el valor de lo dispuesto exceda de quinientas pero no de cinco mil veces el salario mínimo;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+IV. Prisión de cuatro a seis años y de seiscientos a novecientos días multa, si el valor de lo dispuesto excede de cinco mil pero no de diez mil veces el salario mínimo; y
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+V. Prisión de seis a doce años y de novecientos a mil doscientos cincuenta días multa, si el valor de lo dispuesto excede de diez mil veces el salario mínimo.
 
 ###### ARTÍCULO 228.
 
@@ -2008,9 +2058,17 @@ I. De veinticinco a setenta y cinco días multa, cuando el valor de lo defraudad
 
 II. Prisión de cuatro meses a dos años seis meses y de setenta y cinco a doscientos días multa, cuando el valor de lo defraudado exceda de cincuenta pero no de quinientas veces el salario mínimo;
 
-III. Prisión de dos años seis meses a cinco años y de doscientos a quinientos días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces el salario mínimo; y
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
 
-IV. Prisión de cinco a once años y de quinientos a ochocientos días multa, cuando el valor de lo defraudado exceda de cinco mil veces el salario mínimo.
+III. Prisión de dos años seis meses a cuatro años y de doscientos a quinientos días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces el salario mínimo;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+IV. Prisión de cuatro a seis años y de quinientos a ochocientos días multa, cuando el valor de lo defraudado exceda de cinco mil pero no de diez mil veces el salario mínimo; y
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+V. Prisión de seis a once años y de ochocientos a mil doscientos días multa, cuando el valor de lo defraudado exceda de diez mil veces el salario mínimo.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -2108,7 +2166,9 @@ II. Al que de propia autoridad y haciendo uso de cualquiera de los medios indica
 
 III. Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
 
-El delito se sancionará aún cuando el derecho a la posesión de la cosa usurpada, sea dudosa o esté en disputa.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+El delito se sancionará sin importar si el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
 ###### ARTÍCULO 238.
 
@@ -2134,9 +2194,13 @@ I. De veinte a sesenta días multa, cuando el valor del daño no exceda de veint
 
 II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa, cuando el valor del daño exceda de veinte pero no de trescientas veces el salario mínimo;
 
-III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de trescientos pero no de setecientas cincuenta veces el salario mínimo; y
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
 
-IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor del daño exceda de setecientas cincuenta veces el salario mínimo.
+III. Prisión de dos a tres años y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de trescientos pero no de setecientas cincuenta veces el salario mínimo; y
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+IV. Prisión de tres a siete años y de cuatrocientos a seiscientos días multa, cuando el valor del daño exceda de setecientas cincuenta veces el salario mínimo.
 
 ###### ARTÍCULO 240.
 
@@ -2227,6 +2291,10 @@ d) 239, 240 y 242;
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Se perseguirán de oficio los delitos a que se refieren los artículos 227, 228, 229, 230, 231, 232, 233, 234, 235 y 241, cuando el monto del lucro o valor del objeto exceda de cinco mil veces el salario, o cuando se cometan en perjuicio de dos o más ofendidos.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+El sentenciado ejecutoriado por los delitos de Abuso de Confianza, Fraude, Administración Fraudulenta e Insolvencia Fraudulenta, sean perseguibles por querella o de oficio, podrá obtener su libertad inmediata cuando cubra la totalidad de la reparación del daño y una vez que se decrete la extinción de la potestad de ejecutar las penas y las medidas de seguridad, por parte de la autoridad judicial única y exclusivamente, y para tal efecto es suficiente la manifestación expresa del querellante o denunciante de que el daño patrimonial ocasionado le ha sido resarcido.
 
 ###### ARTÍCULO 247.
 
@@ -2436,13 +2504,21 @@ d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamie
 
 II. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-Al que comete el delito de uso ilegal de atribuciones y facultades se le impondrá las siguientes sanciones:
+Al que cometa el delito de uso ilegal de atribuciones y facultades, se le impondrán de tres meses a dos años de prisión y de quinientos a mil días multa.
 
-Cuando el monto de las operaciones a que hace referencia este artículo no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de cien a quinientos días multa.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
-Cuando el monto de las operaciones a que hace referencia este artículo, exceda del equivalente a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de quinientos a mil días multa.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 268 Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, pareja permanente, adoptante o adoptado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se impondrán las siguientes sanciones:
+
+Si el monto de los beneficios no excede del equivalente a mil quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de mil a mil quinientos días multa.
+
+Cuando el monto de los beneficios a que hace referencia este artículo exceda mil quinientas veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de cuatro a doce años de prisión y de mil quinientos a dos mil días multa.
 
 ###### ARTÍCULO 268.
 
@@ -2472,7 +2548,7 @@ II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerid
 
 ###### ARTÍCULO 271.
 
-Al servidor público que por si o por interpósita persona, promueva o gestione la tramitación de negocios o resoluciones públicas ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrán de dos a seis años de prisión y de cien a quinientos días multa.
+Al servidor público que por sí o por interpósita persona, promueva o gestione la tramitación de negocios o resoluciones públicas ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrán de dos a seis años de prisión y de cien a quinientos días multa.
 
 Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad.
 
@@ -2552,9 +2628,11 @@ II. De uno a cinco años de prisión y de trescientos a ochocientos días multa 
 
 El juez podrá imponer al particular una tercera parte de las penas señaladas en el párrafo anterior, o eximirlo de las mismas, cuando hubiese actuado para beneficiar a alguna persona con la que lo ligue un vínculo familiar, de dependencia o cuando haya denunciado espontáneamente el delito cometido.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 279.
 
-Al particular que estando obligado legalmente a la custodia, deposito, administración de bienes muebles o inmuebles pertenecientes al erario público, o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le impondrán de seis meses a tres años de prisión y de cien a quinientos días multa.
+Al particular que estando obligado legalmente a la custodia, depósito, administración de bienes muebles o inmuebles pertenecientes al erario público, o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le impondrán de seis meses a tres años de prisión y de cien a quinientos días multa.
 
 ###### ARTÍCULO 280.
 
@@ -2854,6 +2932,12 @@ Al que indebidamente ponga en libertad o favorezca la evasión de una persona qu
 
 Al que favorezca al mismo tiempo, o en un solo acto, la evasión de dos o más personas privadas legalmente de su libertad, se le impondrán de tres a diez años de prisión y de cien a trescientos cincuenta días multa.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 305 Bis.
+
+Se equipara al delito de evasión de presos y se le impondrán de dos a siete años de prisión y de cien a trescientos días multa, al que encontrándose sujeto al beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, evada por cualquier medio la vigilancia de la autoridad ejecutora.
+
 ###### ARTÍCULO 306.
 
 Las sanciones previstas en los artículos anteriores se aumentarán en una mitad, cuando:
@@ -2898,11 +2982,11 @@ Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de e
 
 Si la falsedad en declaración se refiere a las circunstancias o accidentes de los hechos que motivan la intervención de la autoridad, la pena será de uno a tres años de prisión y de cincuenta a ciento cincuenta días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 312.
 
-A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo 311, será sancionado con pena de cuatro a ocho años de prisión si el delito materia de la averiguación previa o del proceso no es grave. Si el delito es grave, se impondrá de cinco a diez años de prisión.
+A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo 311, será sancionado con pena de tres a siete años de prisión si el delito materia de la averiguación previa o del proceso no es grave. Si el delito es grave, se impondrá de cinco a diez años de prisión.
 
 La pena de prisión se aumentará en una mitad para el testigo falso que fuere examinado en un procedimiento penal, cuando su testimonio se rinda para producir convicción sobre la responsabilidad del inculpado, por un delito no grave. Si se trata de delito grave, la pena de prisión se aumentará en un tanto.
 
@@ -3058,7 +3142,9 @@ Los delitos previstos en este artículo se perseguirán por querella.
 
 A quien intervenga comunicaciones privadas sin mandato de autoridad judicial competente, se le impondrán de dos a ocho años de prisión y de cien a mil días multa.
 
-A quien revele, divulgue utilice indebidamente, o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le impondrán de tres a doce años de prisión y de doscientos a mil días multa.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le impondrán de tres a doce años de prisión y de doscientos a mil días multa.
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA FE PÚBLICA
 
@@ -3316,7 +3402,9 @@ I. La realización de las acciones necesarias para restaurar las condiciones de 
 
 A fin de determinar el monto de la indemnización a que se refiere esta fracción, el Juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente, la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta.
 
-II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito respectivo.
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -3697,3 +3785,33 @@ TERCERO.- Se deroga el Título Décimo Tercero referente a "Delitos contra la in
 CUARTO.- Los juicios en materia civil que se estén tramitando antes de la entrada en vigor de la presente ley se sujetarán en los sustantivo a la ley vigente al momento en que ocurrieron los hechos. Los de materia penal se sobreseerán al momento de la entrada en vigor de la presente ley. En cuanto al procedimiento las partes de común acuerdo podrán solicitar al Juez que tenga a su cargo el caso, la continuación del procedimiento en los términos de la presente ley.
 
 QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO QUE MODIFICA DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO. En todos los ordenamientos legales a que se haga referencia al Nuevo Código Penal para el Distrito Federal se entenderá al Código Penal para el Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO QUE ADICIONA UN ARTICULO 75 BIS AL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Para su mayor difusión publíquese también en el Diario Oficial de la Federación.
+
+G.O. 9 DE JUNIO DE 2006.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS AL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguientes al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
