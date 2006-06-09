@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-servicio-publico-de-carrera-de-la-administracion-16391"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-13"
-last_updated: "2004-01-27"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16391&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-06-05"
 
 LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 13 de junio de 2000.
 
@@ -804,23 +804,23 @@ En contra de las resoluciones que dicte el Consejo en los recursos de inconformi
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-PRIMERO.- La presente Ley entrará en vigor el 1 de enero del 2001. Los procedimientos descritos en los Títulos Tercero, Cuarto y Quinto, de la Ley, entrarán en vigor el 1 de julio de 2006.
+PRIMERO.- La presente Ley entrará en vigor el 1 de enero del 2001. Los procedimientos descritos en los Títulos Tercero, Cuarto y Quinto, de la Ley, entrarán en vigor el 1 de julio de 2008.
 
 SEGUNDO. El Consejo Directivo del Sistema Integral del Servicio Público de Carrera de la Administración Pública del Distrito Federal, deberá quedar instalado a más tardar 90 días después de la entrada en vigor de la presente Ley. Los Comités Técnicos de las Dependencias, Unidades Administrativas u Organos Desconcentrados, deberán quedar instalados a más tardar 60 días después de instalado el Consejo. En la instalación, no será necesario que los servidores que integren los Comités sean de carrera, aunque sí deberán tener los puestos y funciones que se señalan en el artículo 23 de esta Ley.
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-TERCERO.- El Catálogo y Tabulador a que aluden las fracciones II y III del artículo 10 de esta Ley deberán presentarse para su opinión al Consejo Directivo a más tardar el 30 de enero del 2006.
+TERCERO.- El Catálogo y Tabulador a que aluden las fracciones II y III del artículo 10 de esta Ley deberán presentarse para su opinión al Consejo Directivo a más tardar el 30 de enero del 2008.
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-CUARTO.- Los Servidores Públicos que al 1 de julio de 2006 se encuentren desempeñando algunos de los puestos a que aluden el artículo 5 de este (sic) Ley podrán cumplir con lo dispuesto en las fracciones I y II del artículo 37 y, una vez satisfecho ese requisito, se les expedirá el nombramiento respectivo en términos de lo dispuesto por los artículos 45 y 46, párrafos primero y tercero. En estos casos no se exigirá lo requerido por el artículo 32, fracción IV, de esta Ley.
+CUARTO.- Los Servidores Públicos que al 1 de julio de 2008 se encuentren desempeñando algunos de los puestos a que aluden el artículo 5 de este Ley podrán cumplir con lo dispuesto en las fracciones I y II del artículo 37 y, una vez satisfecho ese requisito, se les expedirá el nombramiento respectivo en términos de lo dispuesto por los artículos 45 y 46, párrafos primero y tercero. En estos casos no se exigirá lo requerido por el artículo 32, fracción IV, de esta Ley.
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
-QUINTO.- La vacantes que se den a partir del 1 de julio del año 2006 invariablemente se sujetarán a los procedimientos de ingreso y promoción establecidos en la misma.
+QUINTO.- La (sic) vacantes que se den a partir del 1 de julio del año 2008 invariablemente se sujetarán a los procedimientos de ingreso y promoción establecidos en la misma.
 
 SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
@@ -839,3 +839,9 @@ SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias y administra
 G.O. 27 DE ENERO DE 2004.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Para su mayor difusión publíquese en el Diario Oficial de la Federación.
