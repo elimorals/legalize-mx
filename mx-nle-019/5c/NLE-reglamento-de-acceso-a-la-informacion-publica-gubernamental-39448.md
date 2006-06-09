@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-gubernamental-394
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-14"
-last_updated: "2005-01-26"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 14 de abril de 2004.
 
@@ -45,19 +45,29 @@ El presente Reglamento es de orden público e interés social, y tiene por objet
 
 Este Reglamento establece los procedimientos para que las autoridades municipales, en el ámbito de su competencia faciliten el acceso a la información pública gubernamental observando los principios de celeridad, economía y buena fe en beneficio de los gobernados.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 3.
 
-Para los efectos de este Reglamento se entiende por autoridad a los servidores públicos señalados en el artículo tercero de la Ley de Acceso a la Información Pública de Nuevo León, en cuanto a el Ayuntamiento y su administración pública se refiere.
+Para los efectos de este Reglamento se entiende por
 
-Serán responsables de proveer el acceso a la información pública gubernamental los servidores públicos titulares de cada dependencia administrativa municipal. Al recibirse la solicitud de información, el servidor público que conozca de la misma, deberá turnarla al coordinador administrativo de su respectiva dependencia administrativa municipal, para que provea lo conducente.
+I. Autoridad: Los servidores públicos señalados en el artículo tercero de la Ley de Acceso a la Información Pública de Nuevo León, en cuanto a el Ayuntamiento y su administración pública se refiere;
 
-Se entiende por Comisión, la Comisión de Transparencia del R. Ayuntamiento, entidad a quien compete la vigilancia para la correcta aplicación del presente reglamento.
+II. Comisión: La Comisión de Transparencia del R. Ayuntamiento, entidad a quien compete la vigilancia para la correcta aplicación del presente reglamento;
+
+III. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que en forma gráfica o escrita describa el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar contenidos en cualquiera de las modalidades señaladas en este artículo;
+
+IV. Modalidad: Formato en que el solicitante prefiera se otorgue la información, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnologías en que obre a la información; y,
+
+V. Responsables del acceso a la información pública: El Presidente Municipal, los Síndicos y Regidores, así como los Secretarios, Directores Generales, Directores y Coordinadores Administrativos de la Administración Pública Centralizada y Paramunicipal y los fideicomisos en donde el fideicomitente o el fideicomisario sea el Municipio. Al recibirse la solicitud de información, el servidor público que conozca de la misma, deberá turnarla al Coordinador Administrativo de su respectiva dependencia u organismo, para que provea lo conducente.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2006)</small>
 
 ###### Artículo 4.
 
-La autoridad, sin que medie justificación, está obligada a proporcionar la información que obrando en su poder le sea solicitada, siempre que sea de aquella que en los términos de la ley de la materia y el presente reglamento, y por los motivos que en los mismos se definen deba de otorgarse.
+La Autoridad, sin que medie justificación, está obligada a proporcionar la información que obrando en su poder le sea solicitada, siempre que sea de aquella que en los términos de la ley de la materia y el presente Reglamento y por los motivos que en los mismos se definen deba de otorgarse, en la modalidad señalada por el solicitante, cuando esta Dependencia cuente con la información en dicho formato.
 
-El ejercicio del derecho al acceso a la información pública gubernamental del municipio de San Pedro Garza García, se entenderá a favor del gobernado, sin perjuicio de lo que establecen otras disposiciones legales en la materia.
+El ejercicio del derecho al acceso a la información pública gubernamental del Municipio, se entenderá a favor del gobernado, sin perjuicio de lo que establecen otras disposiciones legales en la materia.
 
 ### CAPÍTULO II. DE LA INFORMACIÓN PÚBLICA
 
@@ -85,23 +95,33 @@ VI. Los servicios que ofrecen; y
 
 VII. Los trámites, requisitos y formatos que se utilicen en la dependencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 7.
 
-La Comisión supervisará que el Gobierno municipal, bajo la responsabilidad de la Secretaría de Contraloría, haga del conocimiento público a través de la red mundial de información conocida como Internet, la información siguiente:
+La Comisión supervisará que el Gobierno Municipal, bajo la coordinación y revisión de la Contraloría Municipal, haga del conocimiento público a través de la red mundial de información conocida como Internet, la información siguiente:
 
 I. El articulo 115 de la Constitución Política Federal, la Constitución Política del Estado de Nuevo León, las leyes, decretos, reglamentos, actas del R. Ayuntamiento, circulares y demás disposiciones de observancia general;
 
-II. Las convocatorias a concurso o licitación para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2006)</small>
 
-III. Los datos principales de su organización y funcionamiento;
+II. Las convocatorias a concurso o subasta para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, incluyendo las modalidades para su contratación y los resultados de estos;
 
-IV. Los presupuestos de ingresos y egresos que hayan sido aprobados en los últimos 3-tres ejercicios fiscales;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+III. Los datos principales de su organización y funcionamiento, así como la integración y funciones de os Consejos, Comisiones, Comités y Juntas Municipales, el directorio de oficinas de atención al público, la publicación de los Inspectores Municipales y Jueces Calificadores con nombre completo y fotografía, el listado de los Jueces Auxiliares y la agenda de las actividades como Servidor Público del Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+IV. Los presupuestos de ingresos y egresos que hayan sido aprobados en los últimos 3-tres ejercicios fiscales; así como el comparativo de ingresos e índices de morosidad del impuesto predial, multas, derechos y otras obligaciones fiscales;
 
 V. Las cuentas públicas, así como los informes trimestrales de origen y aplicación de recursos públicos de los 3-tres últimos ejercicios fiscales;
 
 VI. La nómina para la retribución de los servidores públicos municipales, con expresión del nombre, cargo, dependencia de adscripción y remuneración mensual neta;
 
-VII. La relación mensual de pagos hechos a contratistas, proveedores y por honorarios pagados a profesionistas, que incluya número de control, nombre, razón o denominación social, breve descripción del gasto y monto pagado incluyendo IVA;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+VII. La relación mensual de pagos hechos a contratistas, proveedores y por honorarios pagados a profesionistas, que incluya número de control, nombre, razón o denominación social, breve descripción del gasto y monto pagado incluyendo IVA; así como la información de las compras que realiza el Mundial;
 
 VIII. Los dictámenes sobre la aprobación o rechazo de las cuentas públicas, que se hayan votado en el H. Congreso del Estado;
 
@@ -109,9 +129,61 @@ IX. El Plan Municipal de Desarrollo y sus Programas;
 
 X. Los informes mensuales de actividades de las (sic) Administración Pública Municipal, así como el Informe Anual que rinda por conducto del Presidente Municipal, el R. Ayuntamiento;
 
-XI. El Contrato Colectivo de Trabajo con el Sindicato Único de Trabajadores al Servicio del Municipio; y,
+XI. El Contrato Colectivo de Trabajo con el Sindicato Único de Trabajadores al Servicio del Municipio; y, (sic)
 
-XII. Los Manuales de Organización, de Políticas y de Procedimientos Administrativos.
+XII. Los Manuales de Organización, de Políticas y de Procedimientos Administrativos;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XIII. El programa anual de obras, el informe de obras concluidas y los reportes mensures con fotografía de las obras terminadas y en proceso;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XIV. Los padrones de proveedores y contratistas;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XV. El Código de ética;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XVI. El inventario de bienes muebles e inmuebles propiedad municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XVII. Los informes mensuales de la aplicación de la inversión del ramo 33 asignada al Municipio correspondiente a los 3-tres últimos ejercicios fiscales;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XVIII. El reporte mensual de Deuda Pública u la Opinión Crediticia anual;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XIX. Las devoluciones y cobros suspendidos de impuestos por juicios de amparo;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XX. Las rutas de recolección de basura domiciliaria, incluyendo el nombre de las colonias, días y horarios;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XXI. Los resultados de la gestión y reconocimientos otorgados al Municipio;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XXII. Las notas al Estado de Origen y Aplicación de Recursos por parte de los auditores independientes; y
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+XXIII. La integración y funciones de la Comisión, incluyendo nombre completo y fotografía de los integrantes;
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2006)</small>
+
+Se deberá transmitir a través de este mismo medio y en tiempo real, todas y cada una de las Sesiones Ordinarias, Extraordinarias y Solemnes del R. Ayuntamiento, del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, del Comité de Adquisiciones, debiendo quedar registrados los elementos necesarios para su consulta y visualización por un periodo mínimo de 4-cuatro años posterior a la fecha de su celebración. Así mismo se deberá mantener a la vista del público a través del Internet el Orden del Día de las Sesiones de los Órganos Colegiados descritos en este artículo simultáneamente a la expedición de la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2006)</small>
+
+Además de lo señalado, debe estar a disposición del público en general a través del sitio oficial de Internet un registro municipal, que incluya nombre, requisitos, costos y procedimientos de los trámites y servicios que ofrece el Gobierno Municipal.
 
 ###### Artículo 8.
 
@@ -171,9 +243,11 @@ Los resultados de las auditorias, para efectos de su publicidad, no deberán con
 
 Las observaciones de auditorias que puedan dar lugar a procedimientos administrativos o judiciales, serán hechas públicas una vez que los procedimientos sean resueltos de manera definitiva y las resoluciones correspondientes hayan causado estado y no sean recurribles en forma alguna.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 16.
 
-Las dependencias administrativas municipales deberán publicar a más tardar dentro de los primeros treinta días hábiles posteriores a la aprobación correspondiente, la información relativa a programas de estímulos, apoyos y subsidios. Dicha información deberá actualizarse cada tres meses y contener, por lo menos, los siguientes elementos:
+Las Dependencias Administrativas municipales deberán publicar en Internet a más tardar dentro de los primeros 30-treinta días hábiles posteriores a la aprobación correspondiente, la información relativa a programas de estímulos, apoyos y subsidios. Dicha información deberá actualizarse cada tres meses y contener, por lo menos, los siguientes elementos:
 
 I. El nombre o denominación del programa;
 
@@ -189,21 +263,27 @@ VI. Los montos; y,
 
 VII. Los resultados periódicos o informes sobre el desarrollo de los programas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 17.
 
-Las dependencias administrativas municipales deberán publicar la información relativa a concesiones, autorizaciones y permisos que otorguen. Dicha información deberá contener como mínimo:
+Las Dependencias Administrativas municipales deberán publicar mensualmente la información relativa a concesiones, autorizaciones, licencias y permisos que otorguen. Dicha información deberá contener como mínimo:
 
 I. La unidad administrativa que los otorgue;
 
 II. El nombre de la persona física o la razón o denominación social de la persona moral concesionaria, autorizada o permisionaria;
 
-III. El objeto y vigencia de la concesión, autorización o permiso; y,
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+III. El objeto y vigencia de la concesión, autorización, licencia o permiso; y,
 
 IV. El procedimiento que se siguió para su otorgamiento en caso de concesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 18.
 
-Las dependencias administrativas municipales deberán publicar la información relativa a los contratos que hayan celebrado en materia de adquisiciones, arrendamientos, servicios, obras públicas y los servicios relacionados con éstas, detallando en cada caso:
+Las Dependencias Administrativas municipales deberán publicar mensualmente en Internet la información relativa a los contratos que hayan celebrado en materia de adquisiciones, arrendamientos, servicios, obras públicas y los servicios relacionados con éstas, así como los Convenios de Colaboración celebrados con el sector público y privado, detallando en cada caso:
 
 I. La unidad administrativa que celebró el contrato;
 
@@ -217,13 +297,17 @@ V. Los convenios de modificación a los contratos, en su caso, precisando los el
 
 VI. Las garantías y fianzas depositadas en los términos de la legislación respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 19.
 
-La autoridad municipal, cuando reciba o transfiera recursos públicos, deberá hacer pública la siguiente información:
+La Autoridad municipal, cuando reciba o transfiera recursos públicos, deberá hacer pública a través del Internet la siguiente información:
 
 I. Los montos que reciba o entregue;
 
-II. La dependencia federal, estatal y/o municipal de la que los haya recibido o a la que los haya transferido; y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2006)</small>
+
+II. La dependencia federal, estatal o municipal de la que los haya recibido o a la que los haya transferido; y
 
 III. Especificar los programas de aplicación de dichos recursos.
 
@@ -241,7 +325,13 @@ Las dependencias administrativas municipales de nueva creación, contarán con u
 
 La solicitud de información deberá hacerse en términos y la forma consignados en el artículo 13 de la Ley de Acceso a la Información Pública de Nuevo León.
 
-En caso de que la solicitud de información se presente ante una autoridad distinta a aquella que dispone de la información solicitada, el coordinador administrativo de la dependencia administrativa receptora de la solicitud, deberá turnarla dentro de los tres días hábiles siguientes a la dependencia administrativa municipal que corresponda, notificando de lo anterior al peticionario.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2006)</small>
+
+En caso de que la solicitud de información se presente ante una Autoridad distinta a aquella que dispone de la información solicitada, el Coordinador Administrativo de la dependencia receptora de la solicitud, deberá turnarla dentro de los 3-tres días hábiles siguientes a la dependencia municipal que corresponda, notificando de lo anterior al peticionario.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2006)</small>
+
+Cuando la solicitud no establezca la modalidad de entrega de la información, ésta será proporcionada por la Autoridad en el formato que ésta considere idónea, en atención a su naturaleza.
 
 ###### Artículo 23.
 
@@ -277,9 +367,11 @@ Cuando medien circunstancias que no permitan proporcionar la información dentro
 
 ### CAPÍTULO IV. COSTOS POR REPRODUCCIÓN Y ENVÍO DE LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 29.
 
-El acceso a la información pública gubernamental es gratuito, si para su entrega se requiere de su reproducción ya sea en papel o en algún otro medio, el solicitante deberá cubrir el pago de derechos, derivados de su costo, mismo que cubrirá de conformidad a las leyes hacendarias.
+El acceso a la información pública gubernamental es gratuito, si para su entrega se requiere de su reproducción ya sea papel o en alguna otra modalidad, el solicitante deberá cubrir el pago de derechos, derivados de su costo, de conformidad a las Leyes Hacendarias, procurando los sujetos obligados a proporcionarla reducir los costos de entrega de la misma.
 
 ###### Artículo 30.
 
@@ -437,11 +529,11 @@ Cuando la autoridad resuelva que, conforme a la Ley de Acceso a la Información 
 
 La falta de respuesta por parte de la autoridad y el transcurso del plazo en que se debe proporcionar la información solicitada, permite establecer que la misma fue negada, haciendo acreedor al servidor público responsable, si procede, de las sanciones administrativas previstas en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2006)</small>
 
 ###### Artículo 56.
 
-Cuando la autoridad no responda en el plazo señalado de diez días hábiles, entregue información distinta a la solicitada o se niegue a proporcionarla total o parcialmente, será potestativo para el peticionario interponer Recurso de Reconsideración ante la propia autoridad dentro de los diez días hábiles siguientes, o acudir directamente ante la Comisión de Acceso a la Información Pública del Estado, a solicitar que determine si la información debe considerarse como pública y en su caso se le entregue dicha información.
+Cuando la autoridad no responda en el plazo señalado de 10-diez días hábiles, entregue información distinta a la solicitada o se niegue a proporcionarla total o parcialmente, será potestativo para el peticionario interponer recurso de reconsideración ante la propia Autoridad dentro de los 10-diez días hábiles siguientes o acudir directamente ante la Comisión de Acceso a la Información Pública de Nuevo León, a solicitar que determine si la información debe considerarse como pública y en su caso se le entregue dicha información.
 
 ###### Artículo 57.
 
@@ -520,3 +612,13 @@ Dado en el Despacho del C. Presidente Municipal de San Pedro Garza García, Nuev
 P.O. 26 DE ENERO DE 2005.
 
 Artículo Único.- Las reformas por modificación, el Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, N.L. publicado en el Periódico Oficial del Estado, número 51 de fecha 14 de abril del año 2004, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 9 DE JUNIO DE 2006.
+
+Artículo Único.- Las reformas por adición y modificación al Reglamento de Acceso ala Información Pública Gubernamental del Municipio de San Pedro Garza García Nuevo León, entrarán en vigor al día siguiente de su publicación y hágase posteriormente su difusión a través de la Gaceta Municipal.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+SEGUNDO: Mándese publicar el presente acuerdo en el Periódico Oficial del Estado de Nuevo León, a fin de que las modificaciones al Reglamento señaladas en el punto anterior, entren en vigor al día siguiente de su publicación y hágase posteriormente su difusión a través de la Gaceta Municipal.
+
+TERCERO: Gírense las instrucciones al Presidente Municipal y al Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
