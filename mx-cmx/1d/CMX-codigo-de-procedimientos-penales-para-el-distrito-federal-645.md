@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2006-01-25"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -2664,6 +2664,12 @@ Abierto el procedimiento sumario, las partes dispondrán de tres días comunes, 
 
 El inculpado o su defensor podrán renunciar a los plazos señalados anteriormente, cuando lo consideren necesario para ejercer el derecho de defensa.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 307 Bis.
+
+(Juicio sumario por reconocimiento de participación). En los casos de confesión de participación en la comisión del delito ante el Ministerio Público y ratificación ante el Juez en la declaración preparatoria, previstos en los artículos 71 Bis y 71 Ter del Nuevo Código Penal para el Distrito Federal, se dictará auto de formal prisión, se seguirá procedimiento sumario y en caso de que el inculpado y su defensor renuncien a los plazos probatorios, se procederá conforme al artículo 315 de este Código.
+
 > <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 308.
@@ -4598,11 +4604,11 @@ Lo previsto en este capítulo será aplicable en lo conducente a la libertad baj
 
 ### CAPITULO I. De la ejecución de sentencias
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 575.
 
-La ejecución de las sentencias ejecutoriadas en materia penal, corresponde a la Dirección General de Prevención y Readaptación Social. Esta designará los lugares en que los reos deban extinguir las sanciones privativas de libertad, ejercerá todas las funciones que le señalen las leyes y reglamentos, practicará todas las diligencias para que las sentencias se cumplan estrictamente y reprimirá todos los abusos que cometan sus subalternos.
+La ejecución de las sentencias ejecutoriadas en materia penal, corresponde a la Dirección de Ejecución de Sanciones Penales. Esta designará los lugares en que los reos deban de extinguir las sanciones privativas de libertad, ejercerá todas las funciones que le señalen las leyes y reglamentos, practicará todas las diligencias para que las sentencias se cumplan estrictamente y reprimirá todos los abusos que cometan sus subalternos.
 
 ###### ARTICULO 576.
 
@@ -4612,33 +4618,33 @@ Entiéndese por sentencia irrevocable: aquella contra la cual no se concede ning
 
 En toda sentencia condenatoria se prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone, y de ello se extenderá diligencia, pero sin que la falta de ésta obste para hacer efectivas las sanciones de la reincidencia y la de la habitualidad.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 578.
 
-Pronunciada una sentencia ejecutoriada condenatoria o absolutoria, el juez o el tribunal que las pronuncie expedirá dentro de cuarenta y ocho horas, una copia certificada para la Dirección General de Prevención y Readaptación Social, con los datos de identificación del reo. El incumplimiento de esta disposición será sancionado con una multa de cinco a quince días de salario mínimo.
+Pronunciada una sentencia ejecutoriada condenatoria o absolutoria, el juez o el tribunal que las pronuncie expedirá dentro de cuarenta y ocho horas, una copia certificada para la Dirección de Ejecución de Sanciones Penales, con los datos de identificación del reo. El incumplimiento de esta disposición será sancionado con una multa de cinco a quince días de salario mínimo.
 
 ###### ARTICULO 579.
 
 Los Agentes del Ministerio Público comunicarán por escrito al Procurador de Justicia la sentencia que se pronuncie en los negocios en que hayan intervenido, expresando los datos que crean que puedan servir para la formación de la estadística criminal.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 580.
 
-El juez o tribunal están obligados a dictar de oficio, todas las providencias conducentes para que el reo sea puesto a disposición de la Dirección General de Prevención y Readaptación Social. El incumplimiento de esta obligación se sancionará con multa de veinte a cuarenta días de salario mínimo.
+El juez o tribunal están obligados a dictar de oficio, todas las providencias conducentes para que el reo sea puesto a disposición de la Dirección General de Prevención y Readaptación Social como autoridad que custodie al ejecutoriado y de la Dirección de Ejecución de Sanciones Penales como autoridad ejecutora. El incumplimiento de esta obligación se sancionará con multa de veinte a cuarenta días de salario mínimo.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 581.
 
-Recibida por la Dirección General de Prevención y Readaptación Social la copia de la sentencia y puesto a su disposición el reo, destinará a éste al lugar en que deba extinguir la sanción privativa de libertad.
+Recibida por la Dirección de Ejecución de Sanciones Penales la copia de la sentencia y puesto a su disposición el reo, señalará el lugar y condiciones en que éste deba extinguir la sanción privativa de libertad.
 
-> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 582.
 
-Para la ejecución de las sanciones, la Dirección General de Prevención y Readaptación Social se sujetará a lo previsto en el Nuevo Código Penal para el Distrito Federal, en éste y en las leyes y los reglamentos respectivos.
+Para la ejecución de las sanciones la Dirección de Ejecución de Sanciones Penales se sujetará a lo previsto en el Nuevo Código Penal para el Distrito Federal, en éste y en las leyes y los reglamentos respectivos.
 
 ### CAPITULO II. De la libertad preparatoria
 
@@ -5701,3 +5707,13 @@ PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su respectiva p
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 9 DE JUNIO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguientes al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
