@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-ciencia-y-tecnologia-del-distrito-15945"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2003-04-15"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15945&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-03-14"
 
 LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -48,19 +48,27 @@ LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL DISTRITO FEDERAL
 
 Se crea el Instituto de Ciencia y Tecnología del Distrito Federal como organismo descentralizado con personalidad jurídica y patrimonio propio.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+La aplicación y vigilancia del cumplimiento de esta Ley compete al Jefe de Gobierno del DF a través del Instituto de Ciencia y Tecnología del Distrito Federal, en los términos que la misma establece.
+
 ###### Artículo 2.
 
 El Instituto de Ciencia y Tecnología del Distrito Federal tiene el objeto de asesorar y auxiliar al Jefe de Gobierno del Distrito Federal en la fijación, instrumentación y evaluación de la política de ciencia y tecnología. Así como ser medio de vinculación con los centros e institutos de investigación públicos y privados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+
 ###### Artículo 3.
 
-El Instituto de Ciencia y Tecnología del Distrito Federal tiene las siguientes atribuciones:
+El Instituto de Ciencia y Tecnología del Distrito Federal, a través de su Director General, tiene las siguientes atribuciones:
 
 I.- Ser asesor del Jefe de Gobierno del Distrito Federal y de la Secretaría de Desarrollo Social en la planeación, programación, coordinación, orientación, sistematización, promoción y dirección de las actividades relacionadas con la ciencia y tecnología;
 
-II.- Ser organismo de consulta obligatoria para todas las dependencias y entidades de la administración pública del Distrito Federal en todo lo concerniente a ciencia y tecnología.
+II.- Ser organismo de consulta obligatoria para todas las dependencias y entidades de la administración pública del Distrito Federal en todo lo concerniente a ciencia y tecnología;
 
-III.- Celebrar convenios de asesoría para proporcionarla a los organismos públicos, así como a los particulares.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+III.- Celebrar convenios con la Administración Pública Local, con instituciones y organismo públicos federales, estatales e internacionales así como de la iniciativa privada, de asesoría, inversión, investigación, divulgación, formación, modernización, promoción y desarrollo de actividades, enfocadas al impulso de la ciencia y tecnología;
 
 IV.- Formular los programas de investigación científica, tecnológica y aplicada, relacionados con el desarrollo económico y social del Distrito Federal, procurando la participación de la comunidad científica, de los organismos públicos, de las Instituciones de educación superior y de los usuarios de la investigación;
 
@@ -74,11 +82,13 @@ VIII.- Asesorar a las dependencias y entidades de la Administración Pública de
 
 IX.- Formular un programa de becas para estudios sobre el Distrito Federal;
 
-X.- Celebrar los convenios necesarios para el cumplimiento de sus fines, con organismos nacionales o internacionales;
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+X.- Realizar e impulsar actividades científicas y tecnológicas como son; foros, ferias, talleres, congresos, exposiciones, y demás actividades relacionadas con la cultura científica y tecnológica;
 
 XI.- Dar seguimiento al personal del Instituto, en los trabajos de investigación relacionados con el Distrito Federal que se realizan en el extranjero;
 
-XII.- Fomentar el intercambio de docentes, investigadores y técnicos con instituciones extranjeras.
+XII.- Fomentar el intercambio de docentes, investigadores y técnicos con instituciones extranjeras;
 
 XIII.- Promover cursos de capacitación, especialización y actualización en ciencia y tecnología entre la comunidad científica e interesados;
 
@@ -98,7 +108,15 @@ XVIII.- Para cumplir la función de fomento, deberá proponer el esquema de est�
 
 XIX.- Proponer formas de reconocimiento para las personas e instituciones que se distingan en Ciencia y Tecnología;
 
-XX.- Las demás que le atribuyan los ordenamientos legales.
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+XX.- Promover las publicaciones científicas y tecnológicas;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
+
+XXI.- Presentar anualmente, informe actividades ante el Pleno de la Asamblea Legislativa;
+
+XXII.- Las demás que le atribuyan los ordenamientos legales.
 
 ### Capítulo II. De la Junta de Gobierno
 
@@ -121,6 +139,10 @@ Los miembros permanentes sólo podrán hacerse representar por un Subsecretario.
 Los miembros temporales lo serán por periodos bianuales irrevocables, y serán uno de los rectores de las instituciones de educación superior sitas en el Distrito Federal, un representante de alguna de las cámaras de la industria o comercio de la Ciudad de México y un representante de uno de los centros de investigación sitos en el Distrito Federal.
 
 Los miembros temporales podrán hacerse representar por la persona de mayor jerarquía del organismo de que se trate.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+
+Los miembros temporales deberán ser elegidos por el Secretario de Desarrollo Social, a propuesta del Secretario de finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente.
 
 ### Capítulo III. De las sesiones de la Junta de Gobierno
 
@@ -253,3 +275,17 @@ G.O. 15 DE ABRIL DE 2003.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2006.
+
+PRIMERO.- Túrnese el presente decreto al Jefe de Gobierno para los efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal nombrará a los miembros del Consejo Operativo, a más tardar el 1º de octubre de 2006, de conformidad con los requerimientos que así establezca la presente Ley.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal nombrará al Director General del Instituto de Ciencia y Tecnología a más tardar el 31 de octubre de 2006.
+
+QUINTO.- El Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente, deberán enviar las propuestas al Secretario de Desarrollo Social, para que éste elija a los Miembros Temporales de la Junta de Gobierno a más tardar el 1º de octubre de 2006, debiendo el Secretario de Desarrollo Social elegir a los tres Miembros Temporales a más tardar el 31 de octubre de 2006.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal deberá incluir en el Presupuesto de Egresos del Distrito Federal para el año 2007 la partida que corresponda al Instituto de Ciencia y Tecnología del Distrito Federal para que éste inicie operaciones el 2º de enero de 2007.
