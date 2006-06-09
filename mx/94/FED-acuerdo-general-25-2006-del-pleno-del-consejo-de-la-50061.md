@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-25-2006-del-pleno-del-consejo-de-la-50061"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-11"
-last_updated: "2006-04-11"
+last_updated: "2006-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50061&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-04-05"
 
 ACUERDO GENERAL 25/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 5/2000 DEL PROPIO PLENO, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 11 de abril de 2006.
 
@@ -161,4 +161,18 @@ SEGUNDO.- Se deroga cualquier disposición emitida por este Consejo de la Judica
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 33/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JUNIO DE 2006)</small>
+
+CUARTO.- Los servidores públicos adscritos a la Dirección General de Informática que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Sistemas de Redes Informáticas, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
+
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 25/2006, del Pleno del Consejo de la Judicatura Federal, por el que se Adicionan y Reforman Diversas Disposiciones del Acuerdo General 5/2000 del Propio Pleno, que Determina la Adscripción de Diversas Unidades Administrativas a la Presidencia del Mismo, y Actualiza las Atribuciones del Secretariado Ejecutivo, con las Direcciones Generales que les Corresponden, fue aprobado por el Pleno del propio Consejo, en sesión de cinco de abril de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a cinco de abril de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El texto de esta reforma deberá integrarse, de inmediato, a los Acuerdos Generales 5/2000 y 25/2006, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
