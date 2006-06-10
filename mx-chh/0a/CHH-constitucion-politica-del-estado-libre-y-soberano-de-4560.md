@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2006-02-18"
+last_updated: "2006-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2006.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -109,11 +109,25 @@ El indiciado no podrá ser obligado a declarar. Queda prohibida y será sanciona
 
 Toda persona privada de su libertad tiene derecho a ser alimentada y a tener acceso a asistencia médica, con cargo a los fondos públicos.
 
-Los reos sentenciados que compurguen penas de prisión en los penales del Estado tendrán acceso, conforme a la ley, a las actividades laborales, educativas, deportivas y otras que se desarrollen en aquéllos, que les permitan disminuir su condena o favorezcan su rehabilitación.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2006)</small>
+
+Los reos sentenciados que compurguen penas de prisión en los penales del Estado tendrán acceso, conforme a la ley, a las actividades laborales, las que serán obligatorias si así fuere determinado en sentencia ejecutoriada dictada por la autoridad judicial; así mismo, disfrutarán de las actividades educativas, deportivas y otras que se desarrollen en los centros penitenciarios, que les permitan disminuir su condena o favorezcan su rehabilitación.
 
 Toda persona que se encuentre en prisión preventiva y sujeta a un proceso penal, tiene derecho a que se le confine en un lugar totalmente separado y distinto al sitio destinado para extinguir la pena. La violación de este precepto será causa de responsabilidad de acuerdo a lo previsto por la ley de la materia.
 
 El arresto por infracciones a reglamentos gubernativos y de policía comenzará a computarse desde el momento en que se realice. Quien lo ejecute estará obligado a poner sin demora al infractor a disposición de la autoridad competente y, ésta, a fijar la sanción alternativa en un plazo no mayor de seis horas.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2006)</small>
+
+Cuando se atribuya la realización de una conducta tipificada como delito por la ley penal a personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, el caso será turnado a las autoridades especializadas del Sistema Estatal de Justicia para Adolescentes. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetas a rehabilitación y asistencia social.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2006)</small>
+
+El Sistema Estatal de Justicia para Adolescentes se regirá por los principios de interés superior del adolescente, protección integral y respeto a sus derechos específicos que por su condición de personas en desarrollo les han sido reconocidos, formación integral y reinserción en su familia y en la sociedad.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2006)</small>
+
+Las medidas sancionadoras impuestas por la realización de una conducta tipificada como delito por la ley penal, deberán ser racionales y proporcionales a la conducta y corresponderá su aplicación al área especializada del Poder Judicial del Estado, previo procedimiento acusatorio oral, contradictorio, continuo, concentrado y expedito. La ejecución de las medidas sancionadoras corresponderá al Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1445,15 +1459,15 @@ XX.- Proponer al Congreso los candidatos a magistrados del Tribunal de lo Conten
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2006)</small>
 
-XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Secretarios, Coordinadores, Subprocuradores y Directores y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
+XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Secretarios, Coordinadores y Directores y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
 
-En acatamiento al decreto que expida el Congreso, el Gobernador extenderá el nombramiento al Procurador General de Justicia y procederá a tomarle la protesta de Ley.
+En acatamiento al decreto que expida el Congreso, el Gobernador extenderá el nombramiento al Procurador General de Justicia y procederá a tomarle la protesta de ley. El Procurador General de Justicia designará a los Subprocuradores, en los términos que se establezca en su ley orgánica y el Gobernador les extenderá su nombramiento y tomará su protesta de ley.
 
-El Gobernador removerá libremente del cargo al Procurador General de Justicia.
+El Gobernador removerá libremente del cargo al Procurador General de Justicia y a los Subprocuradores.
 
-Asimismo, nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en está Constitución o en las leyes.
+Asimismo, nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes.
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1645,15 +1659,13 @@ Los magistrados y jueces en funciones o que disfruten de licencia con goce de su
 
 (DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1997)
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2006)</small>
 
 ###### Art. 105.
 
-El Supremo Tribunal de Justicia funcionará en pleno o en salas unitarias, que podrán ser regionales, según lo determine la ley.
+El Supremo Tribunal de Justicia funcionará en pleno, en salas colegiadas o en unitarias, que podrán ser regionales, según lo determine la ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
-
-Su Presidente rendirá en el mes de enero de cada año, un informe ante el Pleno sobre el estado que guarda la administración de justicia.
+Su Presidente rendirá en el mes de enero de cada año, un informe ante el pleno sobre el estado que guarda la administración de justicia.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1807,11 +1819,11 @@ Los Jueces de Primer Instancia, Menores y de Paz, nombrarán y removerán con ap
 
 Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2006)</small>
 
 ###### Art. 117.
 
-La Ley Orgánica determinará el número de Magistrados y Jueces, sus jurisdicciones, competencias y todo lo demás relativo a los funcionarios, empleados y auxiliares de la administración de justicia.
+La Ley Orgánica determinará el número de Magistrados, Jueces de Garantía, Jueces de Juicio Oral y Jueces, sus jurisdicciones, competencias y todo lo demás relativo a los funcionarios, empleados y auxiliares de la administración de justicia.
 
 ## TITULO X.
 
@@ -3216,3 +3228,15 @@ P.O. 18 DE FEBRERO DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para los efectos del artículo 202 de la Constitución Política del Estado, envíese a los 67 Ayuntamientos que conforman el Estado, el presente dictamen y la iniciativa que le dio origen, así como la parte relativa del Diario de los Debates.
+
+P.O. 10 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del artículo 202 de la Constitución Política del Estado, envíese oportunamente a los H. Ayuntamientos del Estado, copia de la iniciativa y de los debates del Congreso.
+
+Realizado en cómputo a que el mismo se refiere, hágase la declaración correspondiente a su aprobación y envíese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
