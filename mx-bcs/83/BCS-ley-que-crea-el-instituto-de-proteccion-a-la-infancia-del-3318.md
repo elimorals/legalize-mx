@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-crea-el-instituto-de-proteccion-a-la-infancia-del-3318"
 country: "mx"
 rank: "ley"
 publication_date: "1975-04-03"
-last_updated: "1977-04-14"
+last_updated: "2006-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE CREA EL INSTITUTO DE PROTECCION A LA INFANCIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 14 DE ABRIL DE 1977.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO NUMERO 1614 DEL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 10 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
@@ -308,3 +308,7 @@ El Sistema para el Desarrollo Integral de la Familia (sic) Baja California Sur, 
 ###### ARTICULO 3o.
 
 Este Decreto entrara en vigor el día siguiente a su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2006.
+
+ÚNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
