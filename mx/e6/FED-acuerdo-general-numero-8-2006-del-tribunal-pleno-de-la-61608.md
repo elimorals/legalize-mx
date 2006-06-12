@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-8-2006-del-tribunal-pleno-de-la-61608"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-05-15"
-last_updated: "2006-05-15"
+last_updated: "2006-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61608&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-05-15"
 
 ACUERDO GENERAL NUMERO 8/2006, DE QUINCE DE MAYO DE DOS MIL SEIS, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PARA REGULAR EL TURNO DE EXPEDIENTES
 
-TEXTO ORIGINAL.
+N. DE. E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 9/2006, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIV, JULIO DE 2006, PAGINA 1409, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL D ELA FEDERACION Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIII, Mayo de 2006, página 1929.
 
@@ -104,3 +106,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en su sesión privada celebrada hoy, quince de mayo de dos mil seis, y por unanimidad de siete votos de los señores Ministros presidente Mariano Azuela Güitrón, Margarita Beatriz Luna Ramos, Juan Díaz Romero, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, emitió el Acuerdo General Número 8/2006, para regular el turno de expedientes, que antecede.- México, Distrito Federal, quince de mayo de dos mil seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXIV, JULIO DE 2006, PAGINA 1409.
+
+PRIMERO. Este acuerdo entrará en vigor el día diecinueve de junio de dos mil seis.
+
+SEGUNDO. A partir de la entrada en vigor del presente acuerdo se abroga el diverso Acuerdo General Plenario 8/2006.
+
+TERCERO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
