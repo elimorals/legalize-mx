@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2005-01-21"
+last_updated: "2006-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -72,7 +72,11 @@ VI. Espectador: Los asistentes a los Espectáculos públicos;
 
 VII. Establecimientos mercantiles: El inmueble en el que una persona física o moral desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de bienes o servicios en forma permanente, de conformidad con la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal;
 
-VIII. Participante: El actor, artista, músico, cantante, deportista o ejecutante taurino y, en general, todos aquellos que participen en un Espectáculo público, ante los espectadores;
+VIII. Participante: El actor, artista, músico, cantante, deportista o ejecutante taurino y, en general, todos aquellos que participen en un Espectáculo público, ante los espectadores.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2006)</small>
+
+En el caso de los ejecutantes taurinos, sólo se considerará como actuante nacional o extranjero el anunciado en el cartel programado por evento, excluyendo de estos términos a cuadrillas de picadores, banderilleros, puntilleros y subalternos;
 
 IX. Ley: La presente Ley para la Celebración de Espectáculos Públicos en el Distrito Federal;
 
@@ -492,9 +496,9 @@ Para la presentación de Espectáculos taurinos se deberá observar, además de 
 
 Además de cumplir con lo dispuesto por el Capítulo IV del Título Segundo, en este tipo de Espectáculos públicos la venta de derechos de apartado sólo la podrá hacer el Titular registrado y autorizado por la Delegación, sujetándose a los siguientes criterios:
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2006)</small>
 
-I. Únicamente se permitirá su venta, si el Titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el primer domingo de noviembre con un mínimo de doce corridas ininterrumpidas, sin contar las de rejoneadores. Previamente al inicio de la temporada se deberán dar por lo menos doce novilladas a partir del mes de mayo de cada año;
+I. Únicamente se permitirá la venta, si el titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el segundo domingo de noviembre con un mínimo de doce corridas ininterrumpidas. Previamente al inicio de la temporada se deberán dar por lo menos doce novilladas, pudiendo iniciarlas a partir de la primer semana de marzo;
 
 II. Se concederá preferencia para la adquisición del derecho de apartado a quienes lo hayan utilizado en la temporada anterior. Cualquier problema que surja en las taquillas, será resuelto en definitiva por la Delegación;
 
@@ -536,9 +540,23 @@ V. Precio de las localidades.
 
 En ningún caso se permitirá la venta de boletos al público, si no ha sido aprobado el programa por la Delegación.
 
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2006)</small>
+
 ###### Artículo 47.
 
-Tratándose de actuantes extranjeros en cualquiera de las categorías de festejos que se ofrezcan al público, consideradas aisladamente cada una de ellas, aquellos no podrán exceder del cincuenta por ciento de los Participantes programados. Sin excepción, todos los carteles deberán estar integrados por el cincuenta por ciento de Participantes mexicanos como mínimo.
+Tratándose de actuantes extranjeros en cualquiera de las categorías de festejos que se ofrezcan al público, consideradas aisladamente cada una de ellas, aquellos no podrán exceder del cincuenta por ciento de los Participantes programados. Es decir, sin excepción, todos los carteles deberán estar integrados por el cincuenta por ciento de Participantes mexicanos como mínimo.
+
+Para los efectos de este artículo, los actuantes deberán someterse a cualquiera de las siguientes categorías:
+
+a) Matadores de toros de a pie;
+
+b) Matadores de toros de a caballo o rejoneadores;
+
+c) Matadores de novillos de a pie, y
+
+d) Matadores de novillos de a caballo o rejoneadores.
+
+En los carteles de matadores en los que alternen rejoneadores, éstos últimos no harán número para efectos del porcentaje de nacionalidad. En un festejo de rejoneadores en el que actúen varios de ellos, podrán actuar matadores, pero éstos no harán número para efectos del porcentaje de nacionalidad. El porcentaje de participantes extranjeros se establecerá sin mezclar las categorías y en igualdad de circunstancias, respecto a la calidad de los toros o novillos que se asignan en el cartel, dado a conocer previamente para cada actuante.
 
 ###### Artículo 48.
 
@@ -1029,3 +1047,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- En tanto se expidan las disposiciones reglamentarias que se deriven del presente Decreto, seguirán vigentes las actuales en lo que no lo contravengan.
 
 TERCERO.- Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+G.O. 12 DE JUNIO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal, con motivos del presente Decreto, deberá reformar el Reglamento Taurino en el Distrito Federal, en su artículo 26, en un término de 60 días naturales contados a partir de la publicación del presente.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
