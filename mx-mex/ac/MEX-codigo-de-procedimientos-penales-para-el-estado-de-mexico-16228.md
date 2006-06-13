@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-01-02"
+last_updated: "2006-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JUNIO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -802,6 +802,10 @@ Si la persona ofendida se halla en situación de poseer la cosa material del del
 ###### Artículo 128.
 
 . Para la comprobación del cuerpo del delito y la responsabilidad penal, el Ministerio Público y los tribunales gozarán de la acción más amplia para disponer las medidas de investigación que estimen conducentes con apego a las disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 13 DE JUNIO DE 2006)</small>
+
+Para la comprobación del estado de ebriedad, en los casos a que se refiere el artículo 61 del Código Penal, los peritos médicos legistas oficiales podrán hacer uso del alcoholímetro para apoyar su dictamen.
 
 ### CAPITULO II. ASEGURAMIENTO DE LOS INSTRUMENTOS Y DE LAS COSAS OBJETO O EFECTO DEL DELITO
 
@@ -3134,3 +3138,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales después de su publicación el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Dentro del término de novena días naturales contados a partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura instalará en cada Distrito Judicial del Estado de México un Juzgado donde se ventilen juicios orales.
+
+G.G. 13 DE JUNIO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
