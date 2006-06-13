@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-15241
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-03-31"
-last_updated: "2001-03-20"
+last_updated: "2006-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 31 de marzo de 1997.
 
@@ -882,3 +884,37 @@ P.O. 20 DE MARZO DE 2001.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE JUNIO DE 2006.
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Estado; y entrará en vigor el uno de agosto del año 2006.
+
+Los artículos 24, 35, 36 y 52 de este Decreto, entrarán en vigor al día siguiente de la entrada en vigor del Decreto que reforma los artículos 51, 52 primer párrafo, y 59 de la Constitución Política del Estado; en tanto, seguirán en vigor los artículos 92, 35 y 77, correlativos de la ley que se abroga.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de San Luis Potosí, publicada en el Periódico Oficial del Estado el 31 de marzo de 1997; excepto en sus artículos 35, 77 y 92, que seguirán vigentes hasta la fecha que dispone el artículo anterior.
+
+TERCERO. Por única vez, los grupos parlamentarios de la Quincuagésima Séptima Legislatura, se inscribirán ante la Directiva del Congreso, en la siguiente sesión a la que entre en vigor la presente Ley; asimismo, en esa sesión se integrará la Junta de Coordinación Política, así como las comisiones y comités, conforme lo dispone la presente Ley.
+
+CUARTO. Los diputados que a la fecha de entrada en vigor de la presente Ley integren la Gran Comisión, pasarán a formar parte de la Junta de Coordinación Política, debiendo además integrar a la misma, a los demás coordinadores de los grupos parlamentarios y representaciones parlamentarias.
+
+Por única ocasión, en la integración de la Junta de Coordinación Política, no se aplicarán las normas relativas a la forma de presidir a la misma, que establece esta Ley; y ésta será presidida hasta el término de la LVII Legislatura, por el diputado que presida la Gran Comisión.
+
+Las referencias en leyes, reglamentos o cualquier otra disposición, relativas a la Gran Comisión, se entenderán hechas a la Junta de Coordinación Política, hasta que los mismos se reformen.
+
+QUINTO. La Comisión de Vigilancia ejercerá las atribuciones que establece esta Ley, a partir del uno de enero del 2007; en tanto, continuará ejerciendo las que le correspondan conforme a la ley que se abroga.
+
+SEXTO. El Pleno del Congreso del Estado hará la designación y/o en su caso, ratificación del Oficial Mayor y coordinadores que establece esta Ley, conforme lo dispone la presente Ley.
+
+SEPTIMO. La Junta de Coordinación Política instituirá los órganos de nueva creación conforme a la presente Ley, en un término de quince días contados a partir de su constitución.
+
+OCTAVO. La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de esta Ley, se realizará incluyendo los recursos humanos, financieros .y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos de que conoció.
+
+NOVENO. Los derechos laborales del personal que en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
+
+DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas a la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
+
+DECIMO PRIMERO. El Reglamento Interior del Congreso del Estado seguirá vigente en todo lo que no se oponga a la presente Ley, hasta en tanto la Legislatura expida el Reglamento para el Gobierno Interior del Congreso del Estado, lo que deberá hacer en un término que no exceda de noventa días a partir de la entrada en vigor de la presente Ley; en tanto, las referencias que en esta Ley se hagan al Reglamento para el Gobierno Interior del Congreso del Estado, se entenderán hechas al Reglamento Interior del Congreso del Estado, vigente.
+
+DECIMO SEGUNDO. El Reglamento del Instituto de Investigaciones Legislativas deberá adecuarse en lo conducente a lo dispuesto en la presente Ley, dentro de lo siguientes treinta días a su entrada en vigor; en tanto, seguirá vigente en lo que no se oponga a este Decreto.
+
+DECIMO TERCERO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
