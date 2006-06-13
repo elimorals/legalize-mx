@@ -4,7 +4,7 @@ identifier: "FED-reglamento-que-establece-los-lineamientos-relativos-a-la-45085"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-22"
-last_updated: "2005-06-22"
+last_updated: "2006-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-05-31"
 
 REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS RELATIVOS A LA DISOLUCION, LIQUIDACION Y DESTINO DE LOS BIENES DE LOS PARTIDOS POLITICOS NACIONALES QUE PIERDAN O LES SEA CANCELADO SU REGISTRO ANTE EL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federacion, el miércoles 22 de junio de 2005.
 
@@ -59,7 +59,13 @@ i) Reglamento de Fiscalización: Reglamento que Establece los Lineamientos, Form
 
 j) Reglamento: el presente Reglamento.
 
-k) Secretaría Técnica: Dirección Ejecutiva de Prerrogativas y Partidos Políticos en su calidad de Secretaría Técnica de la Comisión.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE JUNIO DE 2006)</small>
+
+k) SAE: El organismo descentralizado de la Administración Pública Federal, denominado Servicio de Administración y Enajenación de Bienes, previsto en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 13 DE JUNIO DE 2006)</small>
+
+l) Secretaría Técnica: Dirección Ejecutiva de Prerrogativas y Partidos Políticos en su calidad de Secretaría Técnica de la Comisión.
 
 ## TITULO SEGUNDO. PROCEDIMIENTO Y ACCIONES
 
@@ -85,13 +91,19 @@ e) A partir del día siguiente en que el Consejo General haya impuesto la sanci�
 
 ARTICULO 4
 
-1. En el periodo de prevención entrará en funciones un visitador designado por la Secretaría Técnica, para proteger los recursos del partido, seleccionado de la Lista de Especialistas de Concursos Mercantiles con registro vigente que el Instituto Federal de Especialistas de Concursos Mercantiles del Poder Judicial de la Federación publique en Internet.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2006)</small>
+
+1. En el periodo de prevención entrará en funciones un visitador designado por la Secretaría Técnica, para proteger los recursos del partido, que podrá ser el SAE o podrá ser seleccionado de la Lista de Especialistas de Concursos Mercantiles con registro vigente que el Instituto Federal de Especialistas de Concursos Mercantiles del Poder Judicial de la Federación publique en Internet.
 
 2. La lista a que alude el párrafo anterior será sometida a la consideración de los partidos políticos y validada por la Comisión en el mes de febrero de cada año. Dicha lista será publicada en el Diario Oficial de la Federación.
 
 3. Si el visitador designado no aceptare el nombramiento, la Secretaría Técnica seleccionará en estricto orden de aparición, al siguiente visitador de la lista. En el caso en que no se obtuviere la aceptación de ninguno de los visitadores, la Comisión hará la designación correspondiente a propuesta del Secretario Técnico. Al respecto, los aspirantes deberán cumplir con los requisitos establecidos en las fracciones I a III y V del artículo 326 de la Ley de Concursos Mercantiles, así como lo establecido en el artículo 328 del citado ordenamiento, el cual se aplicará para efectos de evitar conflictos de interés entre el visitador y los partidos políticos.
 
 4. En tanto el visitador no hubiere sido designado y aceptare el cargo, los dirigentes y el encargado del órgano responsable de la administración del patrimonio y los recursos financieros del Partido Político, en términos del artículo 27 del Código, permanecerán en funciones, teniendo los derechos y obligaciones previstos en el presente Reglamento para el visitador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE JUNIO DE 2006)</small>
+
+5. En caso de que el Secretario Técnico designe al SAE, éste actuará con fundamento en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y en lo conducente, con base en el presente Reglamento.
 
 ARTICULO 5
 
@@ -121,7 +133,9 @@ ARTICULO 6
 
 3. El visitador y sus auxiliares tendrán acceso a los libros de contabilidad, registros y balanzas de comprobación del partido político, así como a cualquier otro documento o medio electrónico de almacenamiento de datos que le sean útiles para llevar a cabo sus funciones. Asimismo, podrán llevar a cabo verificaciones directas de bienes y de las operaciones.
 
-4. El partido político y sus representantes estarán obligados a colaborar con el visitador y sus auxiliares. En caso contrario, serán sujetos a los procedimientos establecidos en el Código. Si el partido político a través de sus funcionarios, empleados o terceros se opusieren u obstaculizaran el ejercicio de las facultades del visitador, el Secretario Ejecutivo del Instituto, a petición de aquél, podrá solicitar el auxilio de la fuerza pública.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2006)</small>
+
+4. El partido político y sus representantes estarán obligados a colaborar con el visitador y sus auxiliares. En caso contrario, serán sujetos a los procedimientos establecidos en el Código. Si el partido político a través de sus funcionarios, empleados o terceros se opusieren u obstaculizaran el ejercicio de las facultades del visitador, el Presidente del Consejo General del Instituto, a petición de aquél, podrá solicitar el auxilio de la fuerza pública.
 
 5. El visitador informará a la Comisión, a través de su Secretario Técnico, de las irregularidades que encuentre en el desempeño de sus funciones.
 
@@ -207,7 +221,9 @@ ARTICULO 15
 
 3. El liquidador será el encargado de administrar el patrimonio del partido político con la finalidad de hacer líquidos los activos y cubrir los pasivos pendientes. Asimismo, tendrá derecho a una remuneración o pago de honorarios por su labor, la cual será determinada por la Comisión, a propuesta de su Secretario Técnico y con el apoyo de la Dirección Ejecutiva de Administración para su definición y concreción.
 
-4. Si el partido político a través de sus funcionarios, empleados o terceros se opusieren u obstaculizaran el ejercicio de las facultades del liquidador, el Secretario Ejecutivo del Instituto, a petición de aquél, podrá solicitar el auxilio de la fuerza pública, conforme a las leyes aplicables.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2006)</small>
+
+4. Si el partido político a través de sus funcionarios, empleados o terceros se opusieren u obstaculizaran el ejercicio de las facultades del liquidador, el Presidente del Consejo General del Instituto, a petición de aquél, podrá solicitar el auxilio de la fuerza pública, conforme a las leyes aplicables.
 
 ARTICULO 16
 
@@ -287,9 +303,19 @@ f) El procedimiento descrito se deberá realizar una vez que hayan quedado firme
 
 ARTICULO 20
 
-1. Una vez cubiertos los pasivos por el liquidador, y en caso de existir un saldo final positivo, éste deberá ser entregado a quien tenga derecho a recibirlo.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2006)</small>
 
-2. Después de que el liquidador culmine con las operaciones señaladas en el párrafo anterior, procederá a elaborar un informe final del cierre del proceso de liquidación del partido político que corresponda, en el que se detallarán las operaciones realizadas, las circunstancias relevantes del proceso y el destino final de los saldos. El informe será entregado al Secretario Técnico que lo presentará a la Comisión para su posterior remisión al Consejo General.
+1. En los casos en los que el visitador y liquidador hubiese sido designado de la Lista de Especialistas de Concursos Mercantiles con registro vigente del Instituto Federal de Especialistas de Concursos Mercantiles del Poder Judicial de la Federación, y en caso de existir un saldo final positivo, deberá ajustarse a lo siguiente:
+
+a) Tratándose de saldos en cuentas bancarias y recursos en efectivo, el liquidador emitirá cheques a favor del Instituto, que serán entregados al Secretario Ejecutivo, con la única finalidad de que los recursos sean transferidos a la Tesorería de la Federación.
+
+b) Tratándose de bienes muebles e inmuebles, el liquidador llevará a cabo los trámites necesarios para transferir la propiedad de los mismos al Instituto, con la única finalidad de que los bienes sean transferidos al SAE para que éste determine el destino final de los mismos con base en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2006)</small>
+
+2. En los casos en los que el SAE hubiese sido designado como visitador y liquidador desde el inicio del procedimiento, éste determinará el destino final de los saldos y de los bienes con base en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+3. Después de que el liquidador culmine con las operaciones señaladas en los párrafos anteriores, procederá a elaborar un informe final del cierre del proceso de liquidación del partido político que corresponda, en el que se detallarán las operaciones realizadas, las circunstancias relevantes del proceso y el destino final de los saldos. El informe será entregado al Secretario Técnico que lo presentará a la Comisión para su posterior remisión al Consejo General.
 
 ## TITULO QUINTO. SUPERVISION DE LA COMISION Y RENDICION DE CUENTAS
 
@@ -348,3 +374,15 @@ FORMATO 1
 FORMATO 2
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE JUNIO DE 2006.
+
+...
+
+SEGUNDO. Las modificaciones a que hace referencia el punto de acuerdo PRIMERO entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Con la finalidad de dar mayor certeza, se presenta como Anexo I del presente acuerdo la versión completa del "Reglamento que Establece los Lineamientos Relativos a la Disolución, Liquidación y Destino de los Bienes de los Partidos Políticos Nacionales que Pierdan o les sea Cancelado su Registro ante el Instituto Federal Electoral", con las modificaciones aprobadas en esta sesión.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
