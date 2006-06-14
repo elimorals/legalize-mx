@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "1999-03-27"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ULTI MA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -103,6 +103,10 @@ Para los efectos de esta Ley, se entiende por derechos humanos, las garantías i
 
 Se crea la Comisión de Derechos Humanos del Estado de Zacatecas como un organismo autónomo, con personalidad jurídica y patrimonio propios que tiene por objeto la protección, respeto, defensa, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+La sede general de la Comisión de Derechos Humanos del Estado de Zacatecas, es la Ciudad Capital del Estado, sin perjuicio del establecimiento de Visitadurías en Distritos Judiciales o en Cabeceras Municipales.
+
 ###### ARTICULO 4o.
 
 La Comisión de Derechos Humanos del Estado de Zacatecas es competente para conocer de quejas y denuncias relacionadas con presunta violación de los derechos humanos, cuando éstas fueren imputables a autoridades y servidores públicos de carácter estatal y municipal; y por lo que hace a los del Poder Judicial, autoridades laborales y electorales, sólo se admitirán o conocerán cuando se trate de actos u omisiones administrativos de carácter procesal que no diriman controversia alguna.
@@ -138,6 +142,10 @@ II. El Presidente.
 III. Un Secretario Ejecutivo.
 
 IV. Tres visitadores, por lo menos.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+V. Las unidades técnicas y Administrativas contempladas en el Reglamento y que autorice su presupuesto.
 
 La Comisión contará con el personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
@@ -179,13 +187,17 @@ XIII. Formular programas y proponer acciones en coordinación con las dependenci
 
 XIV. Proponer al Ejecutivo Estatal los Instrumentos Jurídicos, Administrativos, Sociales, Educativos, Culturales o de naturaleza análoga que tengan por propósito promover, prevenir y salvaguardar en el Estado los derechos humanos;
 
-XV. Expedir su Reglamento Interior, y manuales de organización y de procedimientos.
+XV. Expedir su Reglamento Interior, y manuales de organización y de procedimientos;
 
 XVI. La Comisión pondrá especial interés en la asistencia y protección de los Sectores Sociales más desprotegidos. En particular de los menores, mujeres, ancianos y discapacitados. La defensa del Sistema Ecológico así como los derechos de los campesinos y etnias serán igualmente prioritarios;
 
 XVII. Procurar las instancias necesarias de vinculación con las Comisiones Locales Fronterizas para la adecuada defensa de los derechos humanos de los emigrantes Zacatecanos;
 
-XVIII. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Ministerial, Centros de Readaptación Social y centros de detención para menores en el Estado, les sean respetados sus derechos constitucionales y se garantice la plena vigencia de sus derechos humanos;
+
+XIX. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ###### ARTICULO 9o.
 
@@ -195,9 +207,13 @@ I. Resoluciones de organismos y autoridades electorales;
 
 II. Resoluciones de fondo de carácter jurisdiccional;
 
-III. Resoluciones de conflictos de carácter laboral; y,
+III. Resoluciones de conflictos de carácter laboral; y, (sic)
 
-IV. Consultas formuladas por autoridades, particulares y otras entidades, sobre interpretación de las disposiciones constitucionales y legales.
+IV. Consultas formuladas por autoridades, particulares y otras entidades, sobre interpretación de las disposiciones constitucionales y legales;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+V. Resoluciones de carácter legislativo emitidas por la Legislatura del Estado.
 
 ### CAPITULO SEGUNDO. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISION
 
@@ -225,9 +241,11 @@ e) No haber sido Dirigente de Partido Político, ni Ministro de Culto Religioso 
 
 El Presidente de la Comisión, será designado por la Legislatura, de una terna que le formulen las fracciones parlamentarias representadas en la propia Legislatura.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 13.
 
-El Presidente de la Comisión durará en sus funciones cuatro años, pudiendo ser designado para otro periodo únicamente.
+El Presidente de la Comisión durará en sus funciones tres años, pudiendo ser designado para otro periodo únicamente.
 
 ###### ARTICULO 14.
 
@@ -267,7 +285,9 @@ VIII. Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IX. Distribuir y delegar funciones a los Visitadores en los términos del Reglamento interno;
 
-X. Rendir un informe anual, por escrito, a la Legislatura en trabajo de Comisión con la asistencia de los Diputados y al Gobernador del Estado sobre las actividades de la Comisión;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+X. Rendir anualmente un informe escrito, a la Legislatura del Estado; sin perjuicio de informar cada cuatro meses a la Comisión Legislativa de Derechos Humanos, sobre el desarrollo y funcionamiento de la Comisión, estos informes serán públicos y abiertos;
 
 XI. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -287,7 +307,9 @@ El Presidente, el Secretario Ejecutivo y los Visitadores de la Comisión, en sus
 
 El Consejo Consultivo estará integrado, además del Presidente, por siete personas de reconocida solvencia moral, mexicanos, en pleno ejercicio de sus derechos ciudadanos y que no desempeñen cargo o comisión como servidores públicos.
 
-A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo cuatro años, pudiendo ser ratificados para otro periodo igual.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Podrán recibir una dieta mensual, que en ningún caso excederá de 200 cuotas de salario mínimo general vigente en el Estado, de acuerdo a los lineamientos que se establezcan en el Reglamento Interno de la Comisión Estatal y con cargo al presupuesto que anualmente le destine la Legislatura del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
 
@@ -303,7 +325,9 @@ Tendrá las siguientes facultades:
 
 I. El examen y opinión de los problemas que se presenten, relativos al respeto y defensa de los derechos humanos;
 
-II. Proponer al Gobernador del Estado, por conducto del Presidente de la Comisión, la política estatal sobre la prevención y defensa de los derechos humanos;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+II. Proponer a la Legislatura del Estado, a través de la Comisión Legislativa de Derechos Humanos, por conducto de su Presidente, la política estatal sobre la difusión, reconocimiento y defensa de los derechos humanos;
 
 III. Establecer los lineamientos generales para la actuación de la Comisión;
 
@@ -397,11 +421,17 @@ II. El Presupuesto que le asigne la Legislatura del Estado; y
 
 III. Las donaciones, subsidios y aportaciones que le hagan organismos internacionales, dependencias federales, estatales o municipales, así como otras personas físicas o morales haciendo del conocimiento a la Legislatura Local.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+En caso de extinción de la Comisión de Derechos Humanos, su patrimonio se restituirá al erario público y éste decidirá sobre su destino.
+
 ###### ARTICULO 28.
 
 Al rendir el informe a que se refiere la fracción X del artículo 17 de esta Ley, el Presidente de la Comisión dará cuenta en forma circunstanciada, del ejercicio presupuestal realizado.
 
-La Contaduría Mayor de Hacienda podrá intervenir, con las facultades que le competen, respecto del ejercicio presupuestal de la Comisión.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+La Auditoría Superior del Estado podrá intervenir, con las facultades que le competen, respecto del ejercicio presupuestal de la Comisión.
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ANTE LA COMISION DE DERECHOS HUMANOS
 
@@ -411,7 +441,9 @@ La Contaduría Mayor de Hacienda podrá intervenir, con las facultades que le co
 
 El procedimiento que se siga ante la Comisión deberá ser breve y sencillo y estará sujeto sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirá además, de acuerdo con los principios de inmediatez, concentración y rapidez, y se procurará, en la medida de lo posible, el contacto directo con los quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
 
-Ningún procedimiento podrá exceder del término de tres meses, contados a partir de la denuncia o queja.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+Ningún procedimiento podrá exceder del término de cuatro meses, contados a partir de que reciba la queja, el cual podrá ampliarse a solicitud del denunciante o a consideración del Presidente de la Comisión, debiéndose justificar tal circunstancia. En caso de que se determine la ampliación del término, se hará del conocimiento del quejoso y de la autoridad involucrada.
 
 ### CAPITULO SEGUNDO. DE LAS QUEJAS O DENUNCIAS
 
@@ -459,9 +491,39 @@ Cuando la queja sea inadmisible por ser manifiestamente improcedente o infundada
 
 Admitida la queja o denuncia los hechos se pondrán en conocimiento del servidor público señalado como infractor, así como a su superior inmediato u organismo de quien dependa, utilizando en caso de urgencia cualquier medio de comunicación electrónica. En el mismo escrito se solicitará a los servidores públicos responsables, que rindan un informe sobre los actos, omisiones o resoluciones que se les atribuyan, al cual deberá contestar por escrito dentro de un plazo máximo de ocho días naturales.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+Si la queja o denuncia se interpone en contra del Gobernador del Estado, de un Diputado Local, o de algún miembro del Ayuntamiento, la radicación de la misma se hará del conocimiento de la Legislatura del Estado, y será a esta autoridad a quien se enviará la recomendación para su cumplimiento en el caso de que sea procedente.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+Tratándose de corporaciones policiales, el informe se requerirá a su superior jerárquico, según sea el caso.
+
 ###### ARTICULO 40.
 
 Si la queja es relativa a la privación de la libertad fuera de procedimiento judicial, el informe al que se refiere el artículo anterior, deberá rendirse inmediatamente o en un plazo que no podrá exceder de doce horas; en este caso, la autoridad correspondiente podrá rendir en forma verbal el informe solicitado sobre los hechos motivo de la queja, y obligada a formularlo por escrito en un plazo no mayor de veinticuatro horas.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+ARTICULO 40 BIS.- En caso de desaparición o detención ilegal de personas, cualquier ciudadano, incluso un menor de edad, podrá interponer ante la Comisión de Derechos Humanos del Estado, la petición extraordinaria de exhibición de persona.
+
+Las autoridades estatales y municipales que tengan el carácter de dependencias administrativas, de procuración de justicia, de seguridad pública, de vialidad o cualquier otro servidor público que hubiese ordenado una detención presumiblemente ilegal, estarán obligadas a otorgar las facilidades correspondientes a efecto de que la Comisión pueda garantizar que no ocurran violaciones a los derechos humanos.
+
+El procedimiento de exhibición de personas se sujetará a lo siguiente:
+
+I. La petición, se podrá hacer valer ante la Comisión de Derechos Humanos del Estado en cualquier momento, incluso de manera verbal, cuando esté en riesgo la vida, la integridad corporal y la salud física o mental de una persona;
+
+II. La Comisión deberá resolver de inmediato la solicitud, de hacerlo favorablemente, el Visitador autorizado se trasladará al sitio en donde se presuma se encuentra detenida ilegalmente la persona. El funcionario se hará acompañar del solicitante o de quien conozca al presunto detenido y de un médico, para que, en su caso, pueda darse testimonio de la identidad del presentado y del estado físico en que se encuentra, o bien, certificar que no se encontraba dicha persona en el lugar señalado por el peticionario;
+
+III. El Visitador podrá solicitar a las autoridades y servidores públicos, se le permita el acceso a las instalaciones u oficinas, incluyendo separos, centros de detención, de prisión, vehículos o cualquier otro lugar en donde se presuma se encuentra ilegalmente detenido el afectado;
+
+IV. Si la autoridad responsable exhibiera a la persona agraviada, el Visitador solicitará que se ponga a disposición de la autoridad competente y vigilará que le sean respetadas las garantías que establecen la Constitución, los Tratados Internacionales y las diversas disposiciones legales aplicables a los detenidos; y
+
+V. En caso de que la Comisión lo estimara pertinente, podrá solicitar a la autoridad señalada como responsable un informe por escrito con relación a la petición promovida, quien deberá rendirlo en el plazo establecido en esta Ley para los procedimientos de queja.
+
+La petición extraordinaria de exhibición de persona, no implica que la Comisión emita opinión sobre la responsabilidad penal o administrativa de la persona detenida.
+
+Si las autoridades señaladas como presuntas responsables o cualquier otra, rindiera a la Comisión informes falsos o incompletos, esta situación se hará pública en caso de que haya lugar a una recomendación.
 
 ###### ARTICULO 41.
 
@@ -486,6 +548,10 @@ Si de la presentación de la queja no se deducen los elementos que permitan la i
 En el informe que deberán rendir las autoridades señaladas como responsables, se hará constar los antecedentes, los fundamentos y motivaciones de los actos u omisiones impugnados, si efectivamente éstos existieron, así como los elementos de información que consideren necesarios para la tramitación del asunto.
 
 La falta de rendición del informe o de la documentación que lo apoye, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva, tendrá el efecto de que en relación con el trámite de la queja, se tenga por ciertos los hechos materia de la misma, salvo prueba en contrario.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+Recibido el informe de autoridad y si a juicio del Visitador es necesaria la colaboración de la parte quejosa para la aportación de pruebas, la citará debidamente para esos efectos; en caso de que no comparezca al segundo citatorio, se dará por terminada la causa por falta de interés del quejoso.
 
 ###### ARTICULO 46.
 
@@ -517,6 +583,10 @@ Podrá ofrecerse como prueba todo lo que pueda constituirla, siempre y cuando gu
 
 Las pruebas que se presenten, tanto por los interesados como por las autoridades o servidores públicos a los que se imputen las violaciones, o bien que la Comisión requiera y recabe de oficio, serán valoradas en su conjunto por el Visitador de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+En el caso de que sean insuficientes para acreditar los actos violatorios, se requerirá al quejoso para que aporte los medios de convicción necesarios; si no obstante lo anterior, no se logra obtener mayores datos y elementos de convicción, el Visitador procederá a formular proyecto de acuerdo de no responsabilidad por insuficiencia de pruebas dando por terminada la investigación.
+
 ###### ARTICULO 50.
 
 Una vez que se hayan valorado las pruebas, si a juicio de la Presidencia de la Comisión no hiciere falta realizar otras diligencias para el esclarecimiento de los hechos, se procederá a dictar la resolución correspondiente en un plazo no mayor de quince días hábiles. La Legislatura del Estado o la Comisión Permanente en su caso, a solicitud del interesado, podrá dirigir una excitativa al Presidente de la Comisión, cuando no se dicte la Resolución en el plazo señalado.
@@ -538,6 +608,10 @@ En caso de que no se comprueben las violaciones de derechos humanos imputadas, l
 La recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público y, en consecuencia, no podrá por sí misma, anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiere presentado la queja o denuncia.
 
 Recibida la recomendación, la autoridad o servidor público de que se trate informará, dentro de los 15 días hábiles siguientes a su notificación, si acepta dicha recomendación. Entregará, en su caso, en otros 15 días adicionales, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+La recomendación se notificará al superior jerárquico del o los servidores públicos responsables de violentar derechos humanos y a la Contraloría Interna del Estado o del municipio de que se trate, para los efectos legales de su competencia, con excepción de lo establecido en el párrafo segundo del artículo 39 de esta Ley.
 
 ###### ARTICULO 54.
 
@@ -573,9 +647,11 @@ Ninguna autoridad o servidor público dará instrucciones a la Comisión de Dere
 
 ### CAPITULO QUINTO. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 61.
 
-Las inconformidades que se presenten en relación con las recomendaciones, acuerdos, u omisiones de la Comisión de Derechos Humanos del Estado, se sustanciarán con base en lo dispuesto por el artículo 102 apartado B, de la Constitución Política de los Estados Unidos Mexicanos y de acuerdo con las disposiciones de la Ley de la Comisión Nacional de Derechos Humanos.
+Las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de la Comisión de Derechos Humanos del Estado, se sustanciarán con base en lo dispuesto por el artículo 102 apartado B, de la Constitución Política de los Estados Unidos Mexicanos, debiéndose hacer valer dentro de los treinta días naturales contados a partir de que la parte quejosa tenga conocimiento del hecho.
 
 ###### ARTICULO 62.
 
@@ -674,3 +750,11 @@ LIC. EUSTAQUIO DE LEON CONTRERAS
 P.O. 27 DE MARZO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 14 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO.- El Presidente de la Comisión de Derechos Humanos del Estado de Zacatecas, en funciones, concluirá su encargo en fecha 24 de Junio de 2007, de conformidad con el Decreto número 263 expedido por el LVII Legislatura y no podrá ser reelecto para un periodo inmediato.
+
+TERCERO.- Los actuales Consejeros concluirán su encargo en la fecha en que termine el periodo para el que fueron designados.
