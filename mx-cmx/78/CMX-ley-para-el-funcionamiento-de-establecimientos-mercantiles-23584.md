@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2005-06-01"
+last_updated: "2006-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -982,9 +982,11 @@ V. Cubrir el pago del deducible cuando sea robo total.
 
 #### SECCIÓN PRIMERA. DE LOS ESTACIONAMIENTOS PÚBLICOS Y ACOMODADORES DE VEHÍCULOS
 
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2006)</small>
+
 ###### Artículo 58.
 
-Los Estacionamientos Públicos estarán obligados a fraccionar sus tarifas por cada 15 minutos desde la primera hora. Podrán tener otros giros, siempre y cuando el espacio que se destine para su prestación no exceda del 10% de la superficie del establecimiento y no se vendan bebidas alcohólicas.
+Los Estacionamientos Públicos estarán obligados a fraccionar sus tarifas por cada 15 minutos desde la primera hora, debiendo ser el mismo precio para cada fracción. Podrán tener otros giros, siempre y cuando el espacio que se destine para su prestación no exceda del 10% de la superficie del establecimiento y no se vendan bebidas alcohólicas.
 
 ###### Artículo 59.
 
@@ -1026,7 +1028,9 @@ Los titulares o los operadores de los estacionamientos construidos como parte de
 
 Para los efectos de esta Ley, se entenderá por Tarifa Preferencial, aquella que otorgue a los clientes de los Establecimientos Mercantiles un descuento sobre la tarifa al público en general; en todo caso, el descuento que se otorgue no podrá ser menor al 50% de la tarifa autorizada.
 
-Además, cuando existan estancias prolongadas deberán cobrar únicamente hasta 5 horas por cada período continuo de 24 horas. Se entenderá por estancias prolongadas aquellas que excedan de 5 horas de servicio.
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+Además, cuando existan estancias prolongadas deberán cobrar únicamente hasta un máximo equivalente a la tarifa por 5 horas por cada período continuo de 24 horas. Se entenderá por estancias prolongadas aquellas que excedan de 5 horas de servicio. En ningún caso el cobro por estancia prolongada podrá exceder al equivalente de 2 días de salario mínimo.
 
 Asimismo, deberán de asignar un espacio para usuarios que utilicen otros medios de transporte como bicicletas o motocicletas que garanticen su seguridad.
 
@@ -1377,3 +1381,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los establecimientos mercantiles con giro de servicio de hospedaje que cuenten actualmente con la licencia tipo A y además con diversas licencias para los giros de restaurante, bar o discoteca, contarán con un término de 180 días hábiles para presentar el o los avisos de cese definitivo ante la autoridad competente por estos giros, para los efectos de revalidación sólo de la licencia correspondiente al giro de servicio de hospedaje.
 
 TERCERO.- Para el caso de los establecimientos mercantiles que tengan como actividad preponderante el servicio de hospedaje, y además brinden el servicio complementario de restaurante, bar y/o discoteca, efectuaran el pago de derechos equivalente al número y tipo de actividades complementarias por expedición de licencia nueva o revalidación, conforme a lo dispuesto por el Código Financiero del Distrito Federal.
+
+G.O. 14 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
