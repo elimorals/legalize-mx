@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2005-12-30"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -667,7 +667,9 @@ Quien haga pago de créditos fiscales deberá obtener como medio de comprobació
 
 En los términos fijados en días, por disposición de la ley o por las autoridades fiscales, se computarán solo los días hábiles, considerándose así, aquéllos en que se encuentren las oficinas abiertas al público, durante las horas que median entre las 8:00 y las 18:00. En los términos fijados en periodos, cuando no se señale una fecha específica, se comprenderán para su cómputo todos los días, incluso los inhábiles.
 
-En los plazos fijados en días, no se contarán los sábados, los domingos, el 1 de enero, el 5 de febrero, el 21 de marzo, el 1 y 5 de mayo, el 16 de septiembre, el 12 de octubre, el 2 y 20 de noviembre, el 1 de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal, el 25 de diciembre y los que señale y dé a conocer el Presidente.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
+En los plazos fijados en días, no se contarán los sábados, los domingos, el 1 de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1 de mayo, el 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1 de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal, el 25 de diciembre y los que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 Tampoco se computarán en dichos plazos los días en que tengan vacaciones generales las autoridades fiscales. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -4666,3 +4668,13 @@ CUARTO.- Serán válidos los actos administrativos pronunciados por la Direcció
 QUINTO.- Las disposiciones legales, acuerdos, órdenes, circulares, en que se haga mención de la Dirección de Registro y Fiscalización, se entenderá, a la fecha de entrada en vigor del presente Decreto, que se refieren a la Dirección de Ingresos.
 
 SEXTO.- Las disposiciones legales, acuerdos, órdenes, circulares, actos administrativos, avalúos y en general todos los actos relacionados con el desarrollo de operaciones catastrales, en que se haga mención al Departamento de Catastro, se entenderá a la fecha de entrada en vigor del presente Decreto, que se refieren a la Dirección de Catastro de la Tesorería.
+
+P.O. 14 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
