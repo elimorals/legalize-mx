@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2006-06-12"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -67,6 +67,10 @@ III. Aviso: El acto por medio del cual las personas físicas o morales calificad
 IV. Delegaciones: A las Delegaciones del Distrito Federal;
 
 V. Espectáculo público: La representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, cinematográfica, teatral o cultural, organizada por una persona física o moral, en cualquier lugar y tiempo y a la que se convoca al público con fines culturales, o de entretenimiento, diversión o recreación, en forma gratuita o mediante el pago de una contraprestación en dinero o especie;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
+
+V-bis. Espectáculo tradicional: Aquellas manifestaciones populares de contenido cultural que tengan connotación simbólica y/o arraigo en la sociedad y que contribuyan a preservar y difundir el patrimonio intangible que da identidad a los barrios, pueblos y colonias que conforman el Distrito Federal;
 
 VI. Espectador: Los asistentes a los Espectáculos públicos;
 
@@ -238,7 +242,9 @@ II. Espectáculos taurinos;
 
 III. Espectáculos musicales, teatrales, artísticos, culturales o recreativos;
 
-IV. Espectáculos tradicionales y populares, y
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2006)</small>
+
+IV. Espectáculos tradicionales, y
 
 V. Espectáculos masivos, cualquiera que sea su tipo, cuando el número de espectadores sea superior a 2,500 personas.
 
@@ -604,11 +610,117 @@ En caso de que con antelación a la celebración de un Espectáculo público és
 
 Asimismo, deberá comunicarlo al público, por los mismos medios que utilizó para su difusión, indicando el domicilio y los horarios a los que podrá acudir el público para obtener la devolución de su dinero, lo cual deberá ser hecho en un plazo máximo de tres días hábiles.
 
-### CAPÍTULO IV. De los Espectáculos Tradicionales y Populares
+> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE JUNIO DE 2006)</small>
+
+### CAPÍTULO IV. De los Espectáculos Tradicionales
+
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2006)</small>
 
 ###### Artículo 55.
 
-Se prohíbe la celebración de Espectáculos públicos en la vía pública, parques o espacios públicos, excepto que la Delegación constate que revisten un interés para la comunidad expresado a través de quienes suscriban la solicitud o tienen por objeto resguardar las tradiciones, en cuyo caso y previo a la expedición de la autorización correspondiente, la Delegación fijará las condiciones y requisitos mínimos que se deberán cumplir, los cuales en ningún caso podrán ser menores a los señalados en el artículo 31 fracción IV, de la Ley.
+Se prohíbe la celebración de espectáculos públicos en la vía pública, parques o espacios públicos, excepto que la Delegación constate que se trata de espectáculos tradicionales.
+
+Los espectáculos a que se refiere el párrafo anterior serán gratuitos para el espectador.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+###### Artículo 55
+
+bis.- Los Titulares de los espectáculos tradicionales solicitarán con 20 días hábiles de anticipación a su realización, el permiso correspondiente a la Delegación, para lo cual el escrito de solicitud deberá contener la siguiente información e ir acompañada de:
+
+I.- Documento que demuestre que el solicitante fue designado por la comunidad para llevar la organización del festejo, con domicilio y nombre de las personas autorizadas para oír o recibir notificaciones;
+
+II.- Señalamiento y croquis de localización del lugar en el que se realizará la festividad tradicional;
+
+III.- El Programa de la Festividad tradicional, el cual indicará:
+
+a) El tipo de actividades culturales y artísticas que se realizarán durante su celebración, y
+
+b) Si habrá o no quema de juegos pirotécnicos, el horario y lugar en que se efectuará la quema, anexando los permisos correspondientes en términos de la Ley Federal de Armas de Fuego y Explosivos y demás normatividad aplicable.
+
+días en que se llevará a cabo, así como el horario del mismo; especificar si se incluirá procesión o algún otro recorrido; en el caso de realizarse el supuesto anterior, anexar croquis que especifique las vialidades que podrían ser afectadas y el horario de su afectación. (sic)
+
+Dentro de los cinco días hábiles siguientes a que se haya recibido la solicitud, la Delegación, a través de su Unidad de Protección Civil en coordinación con los titulares, instrumentarán para ese evento en particular, el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento.
+
+Una vez que se cuente con el Programa Especial de Protección Civil, la Delegación expedirá a los Titulares el permiso correspondiente.
+
+Durante la celebración del festejo tradicional, tanto los titulares del mismo como la Unidad de Protección Civil, serán los responsables de la Ejecución del Programa Especial que se haya elaborado. Asimismo, se contará con el apoyo de la Secretaría de Seguridad Pública.
+
+La Delegación solicitara a los titulares de los festejos tradicionales, a efecto de que, si considera pertinente, éstos cuenten también con una Póliza de Responsabilidad Civil, para cubrir cualquier eventualidad, riesgo o siniestro que pudieran sufrir los espectadores y participantes de la festividad tradicional.
+
+En caso de que se realice la festividad tradicional sin la anuencia de la autoridad correspondiente, la Delegación impondrá las sanciones que correspondan de conformidad con las Leyes y Reglamentos aplicables, siendo los titulares de la festividad los responsables directos de cualquier siniestro o accidente que se pudiera presentar durante su realización, respondiendo civil o penalmente por los daños que se llegaran a ocasionar a terceros.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+###### Artículo 55
+
+ter.- Los interesados en obtener permisos para la realización de ferias en la vía pública de los pueblos, barrios y colonias del Distrito Federal, solicitarán con 20 días hábiles de anticipación a su realización, el permiso correspondiente a la Delegación, para lo cual el escrito de solicitud deberá contener los siguientes datos:
+
+a) Nombre, domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes y nacionalidad;
+
+b) Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
+
+c) Si el solicitante es extranjero, deberá presentar la autorización expedida por la Secretaría de Gobernación, por la que se le permita llevar a cabo la actividad de que se trate.
+
+La realización de ferias en la vía pública de los pueblos, barrios y colonias del Distrito Federal se sujetarán a lo siguiente:
+
+I.- Para expedir los permisos de instalación de las ferias a que se refiere este artículo, la Delegación a efecto de disminuir los posibles riesgos, procurará que éstas queden debidamente seccionadas en:
+
+a) Juegos mecánicos y electromecánicos;
+
+b) Servicio de entretenimiento;
+
+c) Venta de alimentos preparados;
+
+d) Venta de artesanías;
+
+e) Juegos pirotécnicos; y
+
+f) Otros, siempre y cuando se ajusten al concepto de Espectáculos tradicionales establecido en la presente Ley.
+
+Asimismo, la Delegación tomará las acciones necesarias y suficientes para garantizar el libre acceso de los vecinos a sus domicilios y el acceso de los servicios de emergencias a los lugares en donde se realicen las ferias;
+
+II.- La Delegación, a través de la Unidad de Protección Civil, instrumentará y ejecutará, en coordinación con el o los Comités Ciudadanos involucrados y con asociaciones civiles y vecinos interesados, el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento. Si la feria se realizó con motivo de una festividad tradicional, los Programas Especiales de Protección Civil de la Feria y de la Festividad Tradicional deberán ser compatibles;
+
+III.- El organizador dispondrá de apoyo sanitario y médico para el adecuado desarrollo de las ferias y, en su caso de Protección Civil y de Seguridad Pública;
+
+IV.- En ferias en las que se otorguen los permisos correspondientes, el Gobierno del Distrito Federal, a través de las instancias competentes, vigilará que los alimentos que se ofrezcan al público, cuenten con higiene para proteger la salud de los consumidores, atendiendo lo establecido en la fracción XI del artículo 85 de la presente ley;
+
+V.- La autorización de los juegos pirotécnicos tomará en cuenta el horario de descanso de los vecinos de la zona que previamente hayan establecido la Delegación junto con el Comité Ciudadano;
+
+VI.- Queda estrictamente prohibida la venta de cualquier tipo de bebida alcohólica, así como de bebidas en general en envase de vidrio, o en envases similares en la ferias a las que se refiere este artículo, y
+
+VII.- Para la seguridad de los asistentes, se contará con el apoyo del sector correspondiente de la Secretaria de Seguridad Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+###### Artículo 55
+
+quater.- Los interesados en obtener los permisos para la instalación de juegos mecánicos y electromecánicos, para prestar servicios de entretenimiento y servicios de venta de alimentos preparados, de artesanías y otros en las ferias a las que se refiere este artículo, deberán presentar la solicitud correspondiente ante la Ventanilla Única de la Delegación con 20 días hábiles de anticipación a la realización de la feria, con los siguientes datos y documentos:
+
+I.- Nombre, domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes y nacionalidad;
+
+II.- Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
+
+III.- Si el solicitante es extranjero deberá presentar la autorización expedida por la Secretaría de Gobernación, por la que se le permita llevar a cabo la actividad de que se trate;
+
+IV.- Descripción del juego mecánico o electromecánico que se pretenda instalar o del servicio de entretenimiento que se pretenda prestar o en su caso señalar el tipo de alimentos, artesanías u objetos que se pretenden ofrecer al público; con sus respectivos precios de acceso o venta;
+
+V.- El número de metros de la vía pública que pretenda ser ocupado y ubicación precisa;
+
+VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, y V del artículo 55 de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, y demostrar que cuentan con una póliza de seguro de responsabilidad civil, para cubrir cualquier eventualidad, riesgo o siniestro que puedan sufrir tanto los usuarios de los juegos como los vecinos de la zona;
+
+VII.- El recibo por el cual se acredita la contratación del servicio de energía eléctrica y/o acreditar que cuentan con una planta generadora de energía eléctrica, así como el escrito por el cual responsabiliza por las averías que se provoquen en las instalaciones y equipos eléctricos tanto públicos como privados, bajo pena de revocación del permiso en caso de incumplimiento, además del respectivo pago de daños y perjuicios.
+
+Una vez que la Delegación reciba todas las solicitudes, y hasta 5 días hábiles antes a la realización de la feria, la Delegación notificará a los interesados por medio de listas que se colocarán en la sede delegacional, cuáles son las solicitudes aceptadas y la cantidad que se tendrá que pagar por concepto de derechos conforme al Código Financiero del Distrito Federal. Una vez hecho lo anterior, se entregará el permiso correspondiente en el que se indicará cuales son las obligaciones que se tendrán que cumplir. En todo caso en el permiso se precisará lo siguiente:
+
+a) Horario de funcionamiento de juegos mecánicos y electromecánicos, pirotecnia, servicios de entretenimiento, servicios de venta de alimentos preparados, artesanías u otros;
+
+b) Las medidas mínimas de seguridad e higiene que se tendrá que observar; y
+
+c) Número y localización de las acometidas de luz a las cuales tendrán acceso los solicitantes del permiso.
+
+En caso de que la autorización delegacional no se pronuncie dentro del plazo que establece el párrafo anterior respecto de una solicitud en específico que le haya sido presentada, se entenderá que ésta no fue aprobada.
 
 ###### Artículo 56.
 
@@ -1055,3 +1167,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal, con motivos del presente Decreto, deberá reformar el Reglamento Taurino en el Distrito Federal, en su artículo 26, en un término de 60 días naturales contados a partir de la publicación del presente.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 14 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
