@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2006-03-04"
+last_updated: "2006-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -785,89 +785,103 @@ Los dictámenes que se produzcan sobre asuntos que no llegue a conocer la Legisl
 
 Son Comisiones de Dictamen Legislativo, las siguientes:
 
-I.- De Gobernación y Puntos Constitucionales;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+I.- Primera de Gobernación y Puntos Constitucionales;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+II.- Segunda de Gobernación y Puntos Constitucionales;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+III.- De Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+IV.- De Atención a la Niñez y Adolescencia;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-II.- De Programación, Presupuesto y Hacienda Pública;
+V.- De Programación, Presupuesto y Hacienda Pública;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-III.- De Educación Pública, Cultura Ciencia y Tecnología;
+VI.- De Educación Pública, Cultura Ciencia y Tecnología;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-IV.- De Justicia y Derechos Humanos;
+VII.- De Justicia y Derechos Humanos;
 
 > <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
 
-V.- De Obras y Servicios Públicos;
+VIII.- De Obras y Servicios Públicos;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-VI.- De Protección Civil;
+IX.- De Protección Civil;
 
-VII.- De Trabajo y Previsión Social;
+X.- De Trabajo y Previsión Social;
 
-VIII.- De Asuntos Indigenistas;
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
-
-IX.- De Desarrollo Social;
+XI.- De Asuntos Indigenistas;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-X.- De Desarrollo Municipal y Fortalecimiento del Federalismo;
+XII.- De Desarrollo Social;
 
-XI.- De Asuntos Fronterizos;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XIII.- De Desarrollo Municipal y Fortalecimiento del Federalismo;
+
+XIV.- De Asuntos Fronterizos;
 
 > <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
 
-XII.- De Participación Ciudadana;
+XV.- De Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
 
-XVIII.- De Atención a Personas con Discapacidad y Grupos Vulnerables;
+XVI.- De Desarrollo Rural;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-XIV.- De Salud;
+XVII.- De Salud;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-XV.- De Desarrollo Económico;
+XVIII.- De Desarrollo Económico;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-XVI.- De Juventud y Deporte;
+XIX.- De Juventud y Deporte;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-XVII.- De Equidad, Género y Familia;
+XX.- De Equidad, Género y Familia;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
+
+XXI.- De Atención a Personas con Discapacitados y Grupos Vulnerables;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-XVIII.- De Atención a Discapacitados y Grupos Vulnerables;
-
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
-
-XIX.- De Atención al Adulto Mayor.
+XXII.- De Atención al Adulto Mayor;
 
 > <small>(ADICIONADA, P.O. 12 DE ENERO DE 2002)</small>
 
-XX.- De Ecología y Medio Ambiente.
+XXIII.- De Ecología y Medio Ambiente;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2004)</small>
 
-XXI. De Turismo.
+XXIV.- De Turismo;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
 
-XXII. De Vivienda.
+XXV.- De Vivienda; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2006)</small>
 
-XXIII. Del agua y su sustentabilidad.
+XXVI.- Del agua y su sustentabilidad.
 
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
@@ -2014,3 +2028,9 @@ P.O. 4 DE MARZO DE 2006.
 PRIMERO.-Los integrantes de la Comisión serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria, y deberán reflejar la composición plural de la Legislatura.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación.
