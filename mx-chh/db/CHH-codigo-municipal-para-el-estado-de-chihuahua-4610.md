@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2006-03-04"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1377,9 +1377,23 @@ XII.- Intervenir directamente o a través de apoderado en representación del in
 
 XIII.- Las demás que fijen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 65.
 
-El Tesorero al iniciar sus funciones deberá caucionar su manejo, con la garantía que fije el Ayuntamiento. Cuando no lo haga, además de la responsabilidad pecuniaria que contraiga, será suspendido en el desempeño del cargo, hasta en tanto, otorgue la correspondiente garantía en el plazo breve que le señale el Ayuntamiento; si no cumple con la obligación en el término que le fue fijado, será cesado de sus funciones.
+El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía suficiente que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
+
+A).- Fianza, deberá ser otorgada por una institución autorizada para dichos fines.
+
+B).- Prenda, deberá celebrarse el contrato respectivo en el cual se describa el bien objeto del contrato, así como las obligaciones a cargo del otorgante.
+
+C).- Hipoteca, deberán hacerse las inscripciones marginales en el Registro Público de la Propiedad sobre dicho bien.
+
+D).- Numerario, la cantidad que se otorgue deberá depositarse en la cuenta que para tal efecto se apertura y se establezca algún mecanismo para que sólo el Ayuntamiento ejerza el manejo de tal cuenta.
+
+Cuando no lo haga, además de la responsabilidad pecuniaria que contraiga, será suspendido en el desempeño del cargo hasta en tanto otorgue la correspondiente garantía en el plazo breve que le señale el Ayuntamiento; si no cumple con la obligación en el término que le fue fijado, será cesado de sus funciones.
+
+La garantía que se otorgue se liberará, en su caso, hasta que se dictamine la Cuenta Pública del ejercicio fiscal que corresponda, siempre y cuando no exista presunción de responsabilidad respecto del tesorero.
 
 ###### ARTICULO 66.
 
@@ -3724,3 +3738,9 @@ Independientemente del impuesto que resulte de aplicar la tasa del artículo 149
 P.O. 4 DE MARZO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
