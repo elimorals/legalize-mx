@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-para-la-investigacion-cientifica-y-21755"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2001-06-29"
+last_updated: "2006-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE FOMENTO PARA LA INVESTIGACION CIENTIFICA Y DESARROLLO TECNOLOGICO PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 15 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de junio de 2001.
 
@@ -518,3 +520,19 @@ LIC. JOAQUÍN HENDRICKS DÍAZ.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. JOSé LUIS PECH VÁRGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 15 DE JUNIO DE 2006.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Artículo Segundo.- Se abroga la Ley de Fomento para la Investigación Científica y Desarrollo Tecnológico para el Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo el 29 de junio de 2001 y el Decreto por el que se crea el Consejo Quintanarroense de Ciencia y Tecnología como un organismo descentralizado de la administración pública, publicado en el Periódico Oficial del Gobierno del Estado en fecha 20 de Diciembre de 1999.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente ley.
+
+Artículo Cuarto.- El COQCYT expedirá, dentro de un plazo no mayor a seis meses, a partir de la entrada en vigor de este Decreto, el Reglamento del Sistema Estatal de Investigadores y las Bases de Organización y Funcionamiento del Sistema Estatal de Información y Documentación Científica y Tecnológica.
+
+Artículo Quinto.- En el Presupuesto de Egresos del Estado se consignará la información consolidada de los recursos destinados a la investigación científica y tecnológica, de cada una de las dependencias y entidades del Gobierno del Estado para el cumplimiento de las facultades que la presente Ley otorga al COQCYT.
+
+Artículo Sexto.- El COQCYT, dentro de un plazo no mayor de seis meses, a partir de la entrada en vigor de este decreto, realizará las adecuaciones pertinentes a su estructura orgánica y normatividad interna para cumplir con las obligaciones impuestas por la presente ley.
