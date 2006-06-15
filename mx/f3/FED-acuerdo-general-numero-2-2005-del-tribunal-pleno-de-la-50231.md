@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-2005-del-tribunal-pleno-de-la-50231"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-01-24"
-last_updated: "2005-01-24"
+last_updated: "2006-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50231&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-01-24"
 
 ACUERDO GENERAL NUMERO 2/2005, DE DIECISIETE DE ENERO DE DOS MIL CINCO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PARA REGULAR EL TURNO DE EXPEDIENTES
 
-TEXTO ORIGINAL.
+N. DE. E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 8/2006, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIV, JULIO DE 2006, PAGINA 1929, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXI, Enero de 2005, página 1899.
 
@@ -80,3 +82,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 2/2005 para regular el turno de expedientes, fue emitido por el Tribunal Pleno en sesión privada celebrada el diecisiete de enero de dos mil cinco y aprobado formalmente hoy veinticuatro de enero en curso, por unanimidad de diez votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.-México, Distrito Federal, a veinticuatro de enero de dos mil cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXIV, JULIO DE 2006, PAGINA 1929.
+
+PRIMERO. Este acuerdo entrará en vigor el día diecinueve de junio de dos mil seis.
+
+SEGUNDO. A partir de la entrada en vigor del presente acuerdo se abroga el diverso Acuerdo General Plenario 2/2005.
+
+TERCERO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
