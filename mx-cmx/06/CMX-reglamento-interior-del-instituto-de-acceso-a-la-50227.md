@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-50227"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-28"
-last_updated: "2006-04-28"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50227&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-04-26"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2006.
 
 Reglamento publicado en el número Ter de la Gaceta Oficial del Distrito Federal, el viernes 28 de abril de 2006.
 
@@ -122,9 +122,9 @@ Además de lo señalado por el artículo 4 de la Ley de Transparencia y Acceso a
 
 > <small>(F. DE E., G.O. 16 DE JUNIO DE 2006)</small>
 
-I. Comisionados: Los Comisionados Ciudadanos designados por la Asamblea Legislativa del Distrito Federal como integrantes del Pleno del Instituto de Acceso a la Información Pública del Distrito Federal;
+I. Comisionados: Los Comisionados Ciudadanos designados por la Asamblea Legislativa del Distrito Federal como integrantes del Pleno del Instituto de acceso a la Información Pública del Distrito Federal;
 
-II. Invitados Permanentes: Los Órganos Ejecutivo, Legislativo, Judicial y Autónomos por Ley, que podrán intervenir con derecho a voz en las sesiones del Pleno del Instituto de Acceso a la Información Pública del Distrito Federal;
+II. (DEROGADA, G.O. 16 DE JUNIO DE 2006)
 
 III. Ley: La Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
@@ -132,9 +132,9 @@ IV. Pleno: Es el órgano máximo de dirección del Instituto de Acceso a la Info
 
 V. Presidente: El Comisionado Ciudadano designado por la Asamblea Legislativa del Distrito Federal como Presidente del Instituto de Acceso a la Información Pública del Distrito Federal;
 
-VI. Reglamento: El Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal;
+VI. (DEROGADA, G.O. 16 DE JUNIO DE 2006)
 
-VII. Representantes Titulares: Los representantes de los invitados permanentes designados ante el Pleno, los cuales podrán designar en caso de ausencia hasta dos suplentes;
+VII. (DEROGADA, G.O. 16 DE JUNIO DE 2006)
 
 VIII. Representantes Suplentes: Las personas a que se refiere la última parte de la fracción anterior;
 
@@ -258,7 +258,9 @@ Por acuerdo del Pleno se podrá dar la voz a los titulares de unidades administr
 
 De cada sesión se levantará un acta que contenga lo siguiente: la lista de asistencia; el orden del día; el sentido general de las intervenciones y del voto del Presidente y Comisionados; así como los acuerdos y resoluciones aprobados.
 
-El proyecto de acta deberá incluir, en su caso, las modificaciones que el Pleno del Instituto le haya aprobado, la cual será sometida a su consideración en la sesión correspondiente.
+> <small>(REFORMADO, G.O. 16 DE JUNIO DE 2006)</small>
+
+El proyecto de acta deberá incluir, en su caso, las modificaciones que el Pleno del Instituto haya aprobado, el Secretario Técnico enviará a los Comisionados el proyecto de acta de cada sesión dentro de los cinco días siguientes a su celebración y deberá someterse a la consideración del Pleno en la siguiente sesión de que se trate, salvo cuando la misma se realice en días consecutivos, caso en el cual se presentará para su aprobación hasta la siguiente sesión.
 
 Se elaborará una versión completa de audio, video y de texto que contendrá íntegramente lo tratado en la sesión, la cual servirá de respaldo para la formulación del proyecto de acta a que alude este artículo.
 
@@ -324,7 +326,9 @@ II. Establecer los vínculos institucionales con los niveles de gobierno, entida
 
 III. Designar o remover al Secretario Técnico de conformidad con lo previsto en el presente Reglamento;
 
-IV. Proponer al Pleno el nombramiento o remoción del Contralor del Instituto, así como de los titulares de las unidades administrativas de conformidad con los procesos de selección que para tal efecto aprueba el Pleno;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+IV. Proponer al Pleno el nombramiento y remoción del Contralor del Instituto, así como de los titulares de las unidades administrativas;
 
 V. Delegar funciones al Secretario Técnico y a los titulares de las unidades administrativas y demás servidores públicos que juzgue conveniente;
 
@@ -346,7 +350,13 @@ XIII. Supervisar que las unidades administrativas realicen acciones encaminadas 
 
 XIV. Definir estrategias para el cumplimiento de los acuerdos del Pleno;
 
-XV. Las demás que le señalen la Ley, el presente Reglamento, y demás disposiciones legales y administrativas que le sean aplicables.
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XV. Expedir el nombramiento de los servidores públicos del Instituto;
+
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XVI. Las demás que le señalen la Ley, el presente Reglamento y demás disposiciones legales y administrativas que le sean aplicables.
 
 #### SECCIÓN III. DE LOS COMISIONADOS
 
@@ -378,7 +388,9 @@ X. Participar en cualquier tipo de eventos y foros en materia de transparencia e
 
 XI. Participar en los procesos de selección del Contralor y, titulares de las unidades administrativas del Instituto;
 
-XII. Nombrar y remover a su personal de apoyo, de acuerdo con los criterios establecidos por el Pleno, en materia de estructura organizacional y presupuesto del propio Instituto;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XII. Designar y remover a su personal de apoyo, de acuerdo con la estructura organizacional y presupuesto del Instituto;
 
 XIII. Informar al Pleno sobre las actividades y proyectos que éste le encomiende;
 
@@ -430,7 +442,17 @@ VIII. Publicar los actos del Pleno que éste considere conveniente, en la Gaceta
 
 IX. Auxiliar al Presidente en la supervisión de los trabajos de las unidades administrativas del Instituto;
 
-X. Las demás que le confiere el presente Reglamento, el Presidente, así como las que establezcan otros ordenamientos aplicables.
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+X. Recibir la correspondencia del Instituto y turnarla a la instancia o unidad administrativa correspondiente;
+
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XI. Dar seguimiento al cumplimiento de los acuerdos adoptados por el Pleno;
+
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XII. Las demás que le confiere el presente Reglamento, el Pleno, el Presidente, así como las que establezcan otros ordenamientos aplicables.
 
 #### SECCIÓN V. DE LA CONTRALORÍA
 
@@ -466,13 +488,37 @@ XIII. Asistir a los actos de entrega-recepción de los servidores públicos del 
 
 XIV. Instar al área jurídica del Instituto a formular cuando así se requiera, las denuncias o querellas a que hubiere lugar ante la autoridad competente;
 
-XV. Participar en los comités creados por el Pleno del Instituto; así como en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, a fin de vigilar que se cumpla con la normatividad aplicable; resolver de las inconformidades que presenten los proveedores, contratistas o concursantes, así como de los procedimientos administrativos para declarar la inhabilitación de proveedores, acorde con lo establecido en la normatividad en la materia, y
+XV. Participar en los comités creados por el Pleno del Instituto; así como en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, a fin de vigilar que se cumpla con la normatividad aplicable; resolver de las inconformidades que presenten los proveedores, contratistas o concursantes, así como de los procedimientos administrativos para declarar la inhabilitación de proveedores, acorde con lo establecido en la normatividad en la materia, y (sic)
 
-XVI. Las demás que expresamente le confiera la Ley, el Pleno, el presente Reglamento, así como las que establezcan las disposiciones legales administrativas que le sean aplicables.
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XVI. Realizar acciones preventivas para el adecuado cumplimiento de las normas aplicables a la operación interna del Instituto, así como contribuir en el diseño y revisión de los manuales administrativos y demás normas que faciliten su organización y su funcionamiento;
+
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XVII. Acordar con el Presidente los asuntos de su competencia y rendir un informe del cumplimiento de sus programas en forma cuatrimestral a Pleno;
+
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XVIII. Las demás que expresamente le confiera la Ley, el Pleno, el presente Reglamento, así como las que establezcan las disposiciones legales administrativas que le sean aplicables.
+
+> <small>(REFORMADO, G.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 30.
 
-El Contralor acordará con el Presidente los asuntos de su competencia y rendirá un informe del cumplimiento de sus programas en forma cuatrimestral al Pleno.
+Para ser Contralor se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Contar con título y cédula profesional, así como acreditar un mínimo de tres años de experiencia en la administración pública, al día de su designación;
+
+III. Contar con conocimientos y experiencia en tareas afines al cargo;
+
+IV. Tener cuando menos 30 años cumplidos al día de su designación;
+
+V. No haber sido dirigente de algún partido político o asociación política, ni ministro de culto religiosos en los últimos tres años inmediatos anteriores, al momento de su designación; y
+
+VI. No haber sido condenado por delito doloso ni haber sido inhabilitado para un cargo público.
 
 #### SECCIÓN VI. DE LAS DIRECCIONES Y UNIDADES ADMINISTRATIVAS
 
@@ -488,7 +534,9 @@ III. No ser ni haber sido dirigente de algún partido o asociación política, n
 
 IV. No haber sido condenado por delito doloso ni haber sido inhabilitado para un cargo público; y,
 
-V. En el caso del Director de Asuntos Jurídicos y Desarrollo Normativo, éste deberá de contar con título y cédula profesional de licenciado en Derecho.
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+V. En el caso del Director Jurídico y Desarrollo Normativo, éste deberá contar con título y cédula profesional de licenciado en Derecho.
 
 ###### Artículo 32.
 
@@ -564,9 +612,13 @@ VIII. Las demás que le encomiende el Pleno, el Presidente y las que se deriven 
 
 La Dirección Jurídica y Desarrollo Normativo tendrá las siguientes atribuciones:
 
-I. Coadyuvar con el Presidente en la representación del Instituto ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que aquél tenga interés o injerencia jurídica, incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien éste represente;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
 
-II. Coadyuvar con el Presidente en la representación del Instituto para formular denuncias, querellas o desistimientos en materia penal, así como quejas o denuncias antes las autoridades administrativas;
+I. Previa delegación de atribuciones que le otorgue el Presidente, representar al Instituto ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que tenga interés o injerencia jurídica, incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien éste represente;
+
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+II. Formular denuncias, querellas o desistimientos en materia penal, así como quejas o denuncias ante las autoridades administrativas;
 
 III. Elaborar los proyectos de normas, lineamientos y criterios que establece la Ley y los que el Pleno le encomiende;
 
@@ -590,7 +642,9 @@ XI. Las demás que le encomiende el Pleno, el Presidente y las que se deriven de
 
 La Dirección de Evaluación y Atención a la Sociedad tendrá las siguientes atribuciones:
 
-I. Dar seguimiento al cumplimiento de las normas, resoluciones y recomendaciones que en materia de transparencia y acceso a la información emita el Instituto;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+I. Dar seguimiento al cumplimiento de las normas y recomendaciones que en materia de transparencia y acceso a la información emita al Instituto;
 
 II. Realizar la verificación periódica sobre el cumplimiento de la publicidad de las obligaciones y acciones de transparencia contenidas en la Ley;
 
@@ -600,7 +654,9 @@ IV. Proponer al Pleno, por conducto de su Presidente, un sistema de índices e i
 
 V. Ejecutar y aplicar los sistemas y metodologías de evaluación sobre el cumplimiento de las obligaciones y acciones de transparencia aprobados por el Pleno;
 
-VI. Formular proyectos de recomendaciones necesarias para el cumplimiento de la normatividad de transparencia;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+VI. Formular proyectos de recomendaciones necesarias para el cumplimiento de la Ley;
 
 VII. Coordinar la Oficina de Información Pública del Instituto;
 
@@ -608,7 +664,11 @@ VIII. Asesorar a los entes públicos en el cumplimiento de sus obligaciones;
 
 IX. Coordinar, en el ámbito de su competencia, la Red de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
-X. Las demás que le encomiende el Pleno, el Presidente y las que se deriven del presente Reglamento.
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+X. Recibir y atender las promociones de particulares y entes públicos relacionados con el ejercicio del derecho de acceso a la información pública;
+
+XI. Las demás que le encomiende el Pleno, el Presidente y las que se deriven del presente Reglamento.
 
 ###### Artículo 37.
 
@@ -674,15 +734,23 @@ XII. Atender las necesidades materiales y de servicios generales de las unidades
 
 XIII. Proveer lo necesario para el cumplimiento de las normas relativas al reclutamiento, selección, nombramiento y control de personal;
 
-XIV. Integrar y custodiar el archivo de concentración e histórico del Instituto; y,
+XIV. Integrar y custodiar el archivo de concentración e histórico del Instituto; y, (sic)
 
-XV. La demás que le encomiende el Pleno, el Presidente y las que deriven del presente Reglamento.
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XV. Conducir la contratación, promoción y separación del personal del Instituto por instrucciones del Presidente y de acuerdo a la política laboral aprobada por el Pleno, así como dar de alta a los servidores públicos del Instituto en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2006)</small>
+
+XVI. Las demás que le encomiende el Plano (sic), el Presidente y las que deriven del presente Reglamento.
 
 ### CAPÍTULO CUARTO. DEL RECURSO DE REVOCACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Artículo 39.
 
-El recurso de revocación procede contra los acuerdos y resoluciones no definitivos del Instituto.
+El recurso de revocación podrá ser interpuesto por el recurrente contra los acuerdos y resoluciones no definitivos del Instituto dictados durante la substanciación del recurso de revisión.
 
 El recurso de revocación se presentará por escrito o medio electrónico, ante la Dirección Jurídica y Desarrollo Normativo, dentro de los tres días hábiles siguientes a la notificación del acto motivo de impugnación.
 
@@ -698,7 +766,9 @@ IV. Señalar la fecha en que se notificó el acto o acuerdo impugnado; y
 
 V. Precisar los hechos en que funda el recurso, los agravios que le cause la emisión de dicho acto, así como ofrecer las pruebas que, en su caso, considere pertinentes.
 
-En la sustanciación de este recurso, sólo serán admisibles las pruebas que establece el Código de Procedimientos Civiles para el Distrito Federal y su valoración se hará en los términos establecidos por este.
+> <small>(REFORMADO, G.O. 16 DE JUNIO DE 2006)</small>
+
+En la sustanciación de este recurso sólo será admisible la prueba documental y su valoración se hará en los términos que establece el Código de Procedimientos Civiles para el Distrito Federal.
 
 ###### Artículo 40.
 
@@ -753,3 +823,7 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se abroga el Reglamento Interior del Consejo de Información Pública del Distrito Federal, aprobado el treinta y uno de mayo de dos mil cuatro.
 
 Así lo aprobó por unanimidad el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal, en sesión celebrada el día 26 de abril de dos mil seis, ante el Secretario de Técnico en funciones.- Oscar Mauricio Guerra Ford.- Comisionado Ciudadano Presidente. Arelí Cano Guadiana.- Comisionada Ciudadana. Bernardo Agustín Millán Gómez.- Comisionado Ciudadano. Salvador Guerrero Chiprés.- Comisionado Ciudadano. Jorge Bustillos Roqueñí.- Comisionado Ciudadano. José Ángel Oyarvide Polo.- Secretario Técnico en funciones.-Firmas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE EN EL DISTRITO FEDERAL.
