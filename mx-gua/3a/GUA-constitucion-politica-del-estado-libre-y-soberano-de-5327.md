@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2005-12-20"
+last_updated: "2006-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -240,6 +240,22 @@ El Gobernador del Estado hará la declaratoria correspondiente en cada caso espe
 ###### ARTICULO 13.
 
 La Ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+En el Estado de Guanajuato operará, en los términos previstos por esta Constitución y por la Ley, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución General de la República y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, tribunales y autoridades especializados. En los términos y condiciones que se contengan en la Ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale l a Ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidad.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -607,11 +623,11 @@ El Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado 
 
 El Poder Ejecutivo se ejercerá por una sola persona denominada Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 39.
 
-El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, a los Jueces de Partido, a los Jueces Menores y al Consejo del Poder Judicial con arreglo a las leyes respectivas.
+El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, a los Jueces de Partido, a los Jueces Menores, a los Tribunales Especializados en la Impartición de Justicia para Adolescentes y al Consejo del Poder Judicial, con arreglo a las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1331,6 +1347,10 @@ Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del E
 
 La Ley organizará al Ministerio Público, cuyos servidores serán nombrados y removidos por el Poder Ejecutivo. El Ministerio Público estará presidido por un Procurador General de Justicia, nombrado por el titular del Poder Ejecutivo, con la ratificación del Congreso del Estado. En tanto el Congreso apruebe el nombramiento, el titular del Poder Ejecutivo podrá designar un encargado de despacho, en los términos que establezca la Ley.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+El Ministerio Público contará con instituciones especializadas en la procuración de justicia para adolescentes, cuya estructura, atribuciones y funcionamiento se determinarán en la Ley.
+
 Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
@@ -1345,9 +1365,9 @@ Para la defensa de los derechos de los particulares frente a los actos de las au
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES
+#### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES Y DE LOS TRIBUNALES ESPECIALIZADOS EN LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 83.
 
@@ -1491,7 +1511,9 @@ IV.- Hacer las propuestas de designación de los Magistrados de acuerdo con las 
 
 V.- Dictar las medidas que sean procedentes para que la impartición de justicia sea pronta, completa e imparcial en términos de Ley;
 
-VI.- Designar a los jueces y al personal de los juzgados de acuerdo con las reglas de la carrera judicial, en los términos de Ley;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VI.- Designar a los jueces, a los titulares de los Tribunales Especializados en la Impartición de Justicia para Adolescentes; y al personal de estos órganos con las reglas de la carrera judicial, en los términos de Ley;
 
 VII.- Establecer la competencia por materia de las salas, previa opinión del Pleno del Supremo Tribunal de Justicia;
 
@@ -1551,9 +1573,13 @@ II.- La estructura, integración, competencia y funcionamiento del Pleno del Sup
 
 III.- La organización, competencia y funcionamiento de las Salas;
 
-IV.- La organización, competencia y funcionamiento de los Juzgados de Partido, Menores y de sus demás órganos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-V.- Las atribuciones del Presidente, de los Magistrados, de los Jueces, del Consejo del Poder Judicial y de los demás servidores públicos;
+IV.- La organización, competencia y funcionamiento de los Juzgados de Partido, de os Juzgados Menores, de los Tribunales Especializados en la Impartición de Justicia para Adolescentes y de sus demás órganos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+V.- Las atribuciones del Presidente, de los Magistrados, de los Jueces, de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, del Consejo del Poder Judicial y de los demás servidores públicos;
 
 VI.- Los términos en que será obligatoria la jurisprudencia que establezca el Pleno del Supremo Tribunal de Justicia sobre interpretación de las Leyes, así como los requisitos para su interrupción o modificación;
 
@@ -1567,11 +1593,11 @@ X.- La forma de constituir el fondo auxiliar para la impartición de justicia, s
 
 XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Supremo Tribunal de Justicia resolverá los conflictos laborales suscitados entre el Poder Judicial y sus servidores.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 94.
 
-Los Jueces de Partido y los Jueces Menores serán nombrados por el Consejo del Poder Judicial, atendiendo a lo dispuesto por la fracción VI del artículo 90 de esta Constitución.
+Los Jueces de Partido, los Jueces Menores y los titulares de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, serán nombrados por el Consejo del Poder Judicial, atendiendo a lo dispuesto por la fracción VI del artículo 90 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2802,3 +2828,11 @@ Federales:
 Cuarto.- Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Dolores Hidalgo, se entenderá hecha al Municipio de Dolores Hidalgo Cuna de la Independencia Nacional.
 
 Quinto.- El ayuntamiento de Dolores Hidalgo Cuna de la Independencia Nacional, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus reglamentos municipales, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 16 DE JUNIO DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, para el efecto de que el Congreso del Estado emita las leyes que lo reglamente. El Congreso habrá de aprobar las leyes respectivas antes del 31 de agosto del presente año.
+
+Artículo Segundo. El sistema a que se refiere el artículo 13 que se reforma mediante el presente operará a partir del 12 doce de septiembre del año 2006 dos mil seis.
+
+Artículo Tercero. En la Ley se precisará la situación jurídica que deberá corresponder a las personas que encontrándose bajo los supuestos a que se contrae el presente decreto, estén siendo objeto de tratamiento previsto por la Ley de Justicia para Menores; de averiguación previa; de proceso judicial o de ejecución de sentencia, en el momento en que entre en vigor dicha Ley.
