@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-7648"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-26"
-last_updated: "2000-10-20"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,13 @@ state: "QUE"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de mayo de 1988.
 
 Lic. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a lo habitantes del mismo, sabed que:
 
 ...
-
-> <small>N. DE E. DE CONFORMIDAD CON LA LEY QUE REFORMA DIVERSOS ARTICULOS DEL PRESENTE ORDENAMIENTO, PUBLICADA EN EL P.O. DE 20 DE OCTUBRE DE 2000, SE MODIFICA DE MANERA SUBSTANCIAL PRACTICAMENTE TODO EL TEXTO; Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA FECHA SEÑALADA.</small>
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
@@ -143,7 +141,9 @@ III.- AMBIENTE: El conjunto de elementos naturales o inducidos por el ser humano
 
 IV.- APROVECHAMIENTO SUSTENTABLE: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos.
 
-V.- AREAS NATURALES PROTEGIDAS: Las zonas de la entidad que han quedado sujetas al régimen de protección, para preservar y conservar ambientes naturales y salvaguardar la biodiversidad; lograr el aprovechamiento sustentable de los recursos naturales y preservar y mejorar la calidad del entorno;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+V.- AREAS NATURALES PROTEGIDAS: Las zonas de la entidad que han quedado sujetas al régimen de protección, para preservar y conservar ambientes naturales y salvaguardar la biodiversidad; lograr el aprovechamiento sustentable de los recursos naturales, preservar y mejorar la calidad del entorno y los servicios ambientales que los ecosistemas otorgan;
 
 VI.- AUDITORIA AMBIENTAL: Los procesos de verificación y autorregulación ambiental que desarrollan voluntariamente las empresas, productores y organizaciones empresariales, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
 
@@ -236,6 +236,10 @@ XLIX.- RESIDUOS PELIGROSOS: Todos aquellos residuos en cualquier estado físico,
 L.- RESTAURACIÓN: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
 LI.- SECRETARIA: La Secretaría de Desarrollo Sustentable del Gobierno del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+LI Bis.- SERVICIOS AMBIENTALES: Son el conjunto de componentes, condiciones y procesos naturales incluyendo especies y genes, que la sociedad pueda utilizar y que ofrecen las áreas naturales por su simple existencia. Dentro de este conglomerado de servicios, se pueden señalar la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos entre otros;
 
 LII.- TRATAMIENTO DE AGUA RESIDUAL: Proceso a que se someten las aguas residuales, con el objetivo de disminuir o eliminar las características perjudiciales que se le hayan incorporado; y
 
@@ -367,9 +371,11 @@ d) La contaminación visual en su territorio;
 
 IV.- Formular y expedir los programas de ordenamiento ecológico local, así como el control y vigilancia del uso y cambio de suelo establecidos en dichos programas, en congruencia con el ordenamiento regional formulado por el Ejecutivo del Estado;
 
-V.- En coordinación con el Gobierno del Estado, establecer áreas naturales protegidas conforme a las disposiciones de esta Ley, y ejercer las facultades que en materia de administración y vigilancia de las mismas le transfieran los gobiernos estatal o federal.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-Los Ayuntamientos podrán proponer al Gobierno del Estado el establecimiento de áreas naturales protegidas de su competencia;
+V.- Establecer y registrar áreas naturales protegidas conforme a las disposiciones de esta Ley, en por lo menos el 10% de su territorio y ejercer las facultades que en materia de administración y vigilancia de las mismas le transfieran los gobiernos estatal o federal.
+
+Los Ayuntamientos podrán proponer al Gobierno del Estado el establecimiento de áreas naturales protegidas de su competencia y conforme a las categorías en los bandos o reglamentos municipales;
 
 VI.- Participar con el Gobierno del Estado en la evaluación y dictamen a que se refiere la fracción XIII del artículo inmediato anterior, cuando las obras o actividades se realicen en el ámbito de su circunscripción territorial. Las autoridades municipales condicionarán las autorizaciones de uso de suelo y las licencias de construcción u operación, al resultado satisfactorio de esa evaluación;
 
@@ -1353,9 +1359,13 @@ III.- Generar, rescatar y divulgar conocimientos y tecnologías que permitan el 
 
 IV.- Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, sitios de interés históricos, cultural, arqueológico y de manejo tradicional de los recursos naturales en armonía con su entorno;
 
-V.- Proteger sitios escénicos para asegurar la calidad del ambiente y promover el turismo; y
+V.- Proteger sitios escénicos para asegurar la calidad del ambiente y promover el turismo; y (sic)
 
-VI.- Dotar a la población de áreas para su esparcimiento, a fin de contribuir a formar conciencia ecológica sobre el valor e importancia de los recursos naturales.
+VI.- Dotar a la población de áreas para su esparcimiento, a fin de contribuir a formar conciencia ecológica sobre el valor e importancia de los recursos naturales;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VII.- Asegurar, evaluar e incrementar servicios ambientales a los asentamientos humanos, que permitan mejorar la calidad de vida de la población de la entidad e incluir en el pago de estos servicios a los poseedores de terrenos con valor ambiental.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -1383,15 +1393,21 @@ VII.- Las que determinen otros ordenamientos jurídicos locales.
 
 En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se refiere el artículo anterior, participarán sus habitantes y los propietarios o poseedores de terrenos que se ubiquen en ellas, de conformidad con los convenios de concertación que al efecto se celebren, a fin de propiciar el desarrollo integral de la comunidad y asegurar la protección de los ecosistemas.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 88.
 
-Las Reservas Estatales se constituirán en aquellas áreas relevantes a nivel estatal, por su biodiversidad, por ser representativas de comunidades vegetales no alteradas significativamente por la acción del ser humano, y en las que habiten especies de flora y fauna consideradas endémicas, raras, amenazadas, sujetas a protección especial o en peligro de extinción.
+Las reservas estatales se constituirán en aquellas áreas relevantes a nivel estatal, por su biodiversidad, por ser representativas de comunidades vegetales no alteradas significativamente por la acción del ser humano, y en las que habiten especies de flora y fauna consideradas endémicas, raras, amenazadas, sujetas a protección especial o en peligro de extinción y aquellas áreas que sean valiosas por los servicios ambientales que prestan para el territorio de la entidad y sus habitantes.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 En tales Reservas se establecerán Zonas Núcleo y Zonas de Amortiguamiento.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+
 Las Zonas Núcleo se establecerán en aquellas áreas mejor conservadas, o no alteradas, que alojen ecosistemas o recursos naturales de especial importancia y especies de flora y fauna bajo algún estatus de conservación; en ellas podrá autorizarse la realización de investigaciones científicas con fines de preservación y aprovechamiento sustentable de los ecosistemas y sus elementos, de educación ambiental, y limitarse o prohibirse aprovechamientos que alteren estas áreas.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 Las Zonas de Amortiguamiento estarán constituidas por el resto de área de la Reserva, protegiendo las Zonas Núcleo del impacto exterior; en ellas se podrán realizar actividades productivas que sean compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos de la declaratoria respectiva y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
 
@@ -1409,11 +1425,13 @@ III.- Realizar actividades cinegéticas; y
 
 IV.- Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva, el programa de manejo y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 90.
 
-Los Parques Estatales se constituirán en aquellas áreas representativas de una o más comunidades vegetales, que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora o fauna nativa, por su aptitud para el desarrollo del turismo, o bien por razones análogas de interés general.
+Los Parques Estatales se constituirán en aquellas áreas representativas de una o más comunidades vegetales, que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora o fauna nativa, por su aptitud para el desarrollo del turismo, por los servicios ambientales que presten para el territorio del Estado y sus habitantes o bien por razones análogas de interés general.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 En los Parques Estatales sólo se permitirá la realización de actividades relacionadas con la protección de sus recursos naturales, saneamiento, incremento de su flora y fauna, y en general, con la preservación de los ecosistemas y de sus elementos, así como la investigación, recreación, turismo y educación ambiental.
 
@@ -1562,6 +1580,10 @@ En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos
 ###### ARTÍCULO 106.
 
 Las áreas naturales protegidas de competencia estatal podrán comprender, total o parcialmente, predios sujetos a cualquier régimen de propiedad.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+En las ventas de terrenos ejidales que cuenten con dominio pleno y que a través de la venta a cualquier particular pasen a formar pequeña propiedad, se deberá notificar a la Secretaría, la cual enviará al gobernador la sugerencia para ejercer su derecho de tanto, si el terreno cuenta con las características forestales o para ser declarada como área natural protegida y es de interés del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -2840,3 +2862,13 @@ Para los efectos del artículo 10, corresponde al titular del Poder Ejecutivo de
 El titular del Poder Ejecutivo del Estado expedirá un plazo no mayor de un año contado a partir de la fecha de entrada en vigor de la presente Ley; los reglamentos a que se refieren los artículos 24, 28 y 178, a demás de los que resulten necesarios para la eficaz aplicación de la Ley, y adecuará conforme a ella los Reglamentos ya existentes.
 
 En tanto se expidan o adecuen las disposiciones reglamentarias que deriven de la presente Ley subsistirán las vigentes en lo que no la contravengan.
+
+P.O. 16 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia el siguiente día de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
