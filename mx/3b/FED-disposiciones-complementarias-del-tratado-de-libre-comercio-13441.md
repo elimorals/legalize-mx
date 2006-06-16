@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-03-29"
+last_updated: "2006-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,55 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE MODIFICA EL SIMILAR POR EL QUE SE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
+DECRETO POR EL QUE SE ESTABLECE UN ARANCEL-CUPO A LAS IMPORTACIONES ADICIONALES DE MAIZ AMARILLO DURANTE 2006, PARA LAS MERCANCIAS ORIGINARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de marzo de 2006.
+Decreto publicado en el Diario Oficial de la Federación, el viernes 16 de junio de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III, V y X, 15 fracción II, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracciones I inciso c) y II inciso b) y 104 fracción II de la Ley Aduanera; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 21 del Reglamento de la Ley de Comercio Exterior; 1, 4, 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior; sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, y
 
 CONSIDERANDO
 
-Que el 9 de noviembre de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diverso dado a conocer en el mismo medio informativo el 20 de diciembre de 2005;
+Que el artículo sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, publicada en el Diario Oficial de la Federación el 14 de diciembre de 2005, establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las Partes en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
 
-Que el 30 de agosto de 1990 el Departamento de Comercio de los Estados Unidos de América emitió una orden por la cual impuso derechos antidumping a las importaciones procedentes de México de cemento gris portland y cemento clinker;
+Que la oferta nacional de maíz amarillo resulta insuficiente para el abasto competitivo para los sectores productivos del país, por lo que se hace necesario complementarla con importaciones, a fin de que las industrias que lo utilizan en sus procesos productivos tengan acceso a este insumo en condiciones competitivas;
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que durante las consultas con organizaciones de productores e industriales consumidores de maíz y el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se resolvió sobre la importancia de promover la competitividad de las cadenas de productos agrícolas, y
 
-Que el artículo 102 del TLCAN señala que uno de sus objetivos es eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y de servicios entre los territorios de las Partes;
+Que la Comisión de Comercio Exterior ha emitido opinión favorable respecto a la tasa arancelaria aplicable a la cuota adicional de maíz amarillo, he tenido a bien expedir el siguiente
 
-Que el artículo 1904 del TLCAN establece que cada una de las Partes reemplazará la revisión judicial interna de las resoluciones definitivas sobre cuotas antidumping y compensatorias con la revisión que lleve a cabo un panel binacional;
-
-Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo por el que se establece la OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
-
-Que el Acuerdo por el que se establece la OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
-
-Que desde la imposición de la orden antidumping por parte de los Estados Unidos de América a las importaciones de cemento gris portland y cemento clinker procedentes de México, el Gobierno mexicano ha impugnado dicha orden en la OMC, y se han establecido diversos procedimientos de solución de controversias ante paneles binacionales conforme al artículo 1904 del TLCAN;
-
-Que el párrafo primero del artículo 8 del Acuerdo Antidumping señala que se podrán suspender o dar por terminados los procedimientos sin derechos antidumping si el exportador comunica que asume voluntariamente compromisos de poner fin a las exportaciones a la zona en cuestión a precios de dumping, de modo que las autoridades, en este caso de los Estados Unidos de América, queden convencidas de que se elimina el efecto perjudicial del dumping;
-
-Que el párrafo sexto y séptimo del artículo 3 del Entendimiento prevé que las Partes en una diferencia pueden llegar a soluciones mutuamente convenidas de los asuntos planteados formalmente ante el Organo de Solución de Diferencias de la OMC y que se debe dar siempre preferencia a una solución mutuamente aceptable para las partes en la diferencia y que esté de conformidad con los acuerdos de la OMC;
-
-Que la Regla 71 (2) de las Reglas de Procedimiento del Artículo 1904 y del Comité de Impugnación Extraordinaria del TLCAN publicadas en el Diario Oficial de la Federación el 20 de junio de 1994 establece que un procedimiento de revisión ante el panel concluye cuando algún participante presente una petición incidental de terminación de la revisión;
-
-Que el artículo 1 de la Ley Sobre la Celebración de Tratados publicada en el Diario Oficial de la Federación el 21 de enero de 1992 establece que los acuerdos interinstitucionales podrán ser celebrados entre una dependencia u organismos descentralizados de la Administración Pública Federal, Estatal o Municipal y uno o varios órganos gubernamentales extranjeros u organizaciones internacionales;
-
-Que el 6 de marzo de 2006 los titulares de la Secretaría de Economía de México, del Departamento de Comercio de los Estados Unidos de América y de la Oficina del Representante Comercial de los Estados Unidos de América suscribieron un acuerdo interinstitucional sobre el comercio de cemento (el Acuerdo sobre Comercio de Cemento), con el objetivo de finalizar el procedimiento de solución de diferencias ante la OMC y diversos litigios conforme al artículo 1904 del TLCAN y en consecuencia eliminar en un periodo de tres años el derecho antidumping impuesto por los Estados Unidos de América;
-
-Que el Acuerdo Sobre Comercio de Cemento establece en sus párrafos II.A.1, III y IV, que durante la vigencia del mismo las exportaciones de cemento mexicano a los Estados Unidos de América se regularán mediante cupos de exportación administrados por medio de permisos previos a la exportación;
-
-Que el Acuerdo Sobre Comercio de Cemento establece en su párrafo III.A que la Secretaría de Economía se asegurará que no se exporte cemento mexicano de México a los Estados Unidos de América sin que vaya acompañado de un permiso de exportación;
-
-Que el Acuerdo Sobre Comercio de Cemento señala en su párrafo II.A.1 que el límite inicial del cupo para exportaciones de cemento mexicano a los Estados Unidos de América será de 3,000,000 de toneladas métricas anuales, mismo que deberá dividirse en ocho subregiones establecidas de conformidad con el párrafo I.V de dicho Acuerdo;
-
-Que así mismo el Acuerdo Sobre Comercio de Cemento establece en su párrafo II.A.3 la posibilidad de que el Departamento de Comercio de los Estados Unidos de América y la Secretaría de Economía liberen un cupo adicional a la exportación de cemento mexicano a los Estados Unidos de América por una cantidad de 200,000 toneladas métricas, por evento, en casos de una declaración de estado de emergencia como resultado de un desastre;
-
-Que con la misma fecha de publicación del presente Acuerdo, se publicó en el Diario Oficial de la Federación el Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris portland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo Sobre Comercio de Cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Acuerdo cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE MODIFICA EL SIMILAR POR EL QUE SE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
+DECRETO
 
 ###### ARTICULO PRIMERO.
 
@@ -74,13 +44,17 @@ Se modifica el numeral 2o.) de los incisos B), C) y D) de la cuarta columna “P
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-Se adiciona el artículo 7 bis del Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diverso dado a conocer en el mismo medio informativo el 20 de diciembre de 2005, para quedar como sigue:
+De conformidad con el artículo sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, el arancel-cupo aplicable a la cuota adicional a la mínima acordada en el Tratado de Libre Comercio de América del Norte para la importación de las mercancías originarias en el propio Tratado, comprendidas en la fracción arancelaria 1005.90.03, es el que a continuación se indica:
 
-ARTICULO 7 bis.- Se sujetan al requisito de permiso previo de exportación por parte de la Secretaría de Economía, las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de exportación definitiva o temporal y se trate de mercancías con destino a los Estados Unidos de América:
+CÓDIGO DESCRIPCIÓN Unidad AD-VALOREM
 
-(VEASE ARCHIVO ANEXO)
+IMP. EXP.
+
+1005.90.03 Maíz amarillo. Kg 1 No aplica
+
+Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
 
 ###### ARTICULO 15.
 
@@ -362,6 +336,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 3 de abril de 2006, y concluirá su vigencia el 31 de marzo de 2009.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
 
-México, D.F., a 22 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.
