@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-el-estado-de-guanajuato-y-sus-3345
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-15"
-last_updated: "2003-08-15"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de agosto del 2003.
 
@@ -339,7 +339,11 @@ III.- Energía eléctrica y alumbrado público;
 
 IV.- Vialidades vehiculares interiores y de conexión con la red vial urbana; y
 
-V.- Áreas verdes y espacios libres, equipados con mobiliario urbano, jardinería y arbolado, de acuerdo a sus características de uso y destino.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+V.- Áreas verdes equipadas con mobiliario urbano, jardinería y arbolado, de acuerdo a sus características de uso y destino.
+
+Tratándose de desarrollos en condominio, la superficie destinada para áreas verdes será la que determine el reglamento municipal. En los desarrollos en condominio de tipo horizontal de uso habitacional, dicha superficie no podrá ser menor al cuatro por ciento del total de la superficie del desarrollo, ni podrá destinarse para un uso distinto.
 
 ###### Artículo 22.
 
@@ -347,7 +351,11 @@ Además de los servicios anteriores, en el caso de los desarrollos en condominio
 
 I.- Áreas de circulación peatonal en áreas comunes;
 
-II.- Áreas de equipamiento urbano en función de las superficies que señale el reglamento municipal correspondiente;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+II.- Áreas de uso común para la realización de obras complementarias de beneficio colectivo y relativas a la cultura, educación, esparcimiento, deporte o asistenciales, en función de las superficies que señale el reglamento municipal correspondiente.
+
+En desarrollos en condominio de tipo horizontal, la superficie destinada a estos usos no podrá ser menor al dos por ciento del total de la superficie del desarrollo;
 
 III.- Estacionamiento para vehículos de acuerdo a los requerimientos del reglamento de uso de suelo o de construcción aplicable; y
 
@@ -383,9 +391,15 @@ Los fraccionamientos promovidos para usos de habitación popular o de interés s
 
 En los fraccionamientos y desarrollos en condominio, los proyectos de los sistemas de infraestructura de agua potable, drenaje, alcantarillado y energía eléctrica deberán ser calculados tomando en consideración la densidad de población contemplada en el proyecto o de acuerdo con la densidad máxima de población a la zona de ubicación del proyecto, de acuerdo a las disposiciones que se establezcan en los planes de ordenamiento territorial.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Los desarrollos en condominio de tipo horizontal de uso habitacional no podrán realizarse en zonas habitacionales de densidad alta, de habitación popular o de interés social. Asimismo, en este tipo de desarrollos no se permitirán unidades de propiedad exclusiva que tengan un frente menor a 9.00 metros y una superficie inferior a 225.00 metros cuadrados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Artículo 29.
 
-Los fraccionamientos deberán contar con áreas de donación, destinadas para la dotación de equipamiento urbano, de acuerdo a lo siguiente:
+Los fraccionamientos deberán contar con áreas de donación, destinadas para la dotación de equipamiento urbano y áreas verdes, de acuerdo a lo siguiente:
 
 I.- Para los fraccionamientos de uso habitacional el 12% sobre la superficie total del proyecto autorizado;
 
@@ -441,7 +455,9 @@ I.- Haber obtenido la licencia de urbanización en el fraccionamiento o desarrol
 
 II.- El pago correspondiente a los impuestos y derechos de conexión;
 
-III.- La escrituración a favor del Municipio sobre las áreas de donación o de las áreas de equipamiento urbano, respectivamente, según se trate de un fraccionamiento o de un desarrollo en condominio y de las vías públicas; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III.- La escrituración a favor del Municipio sobre las áreas de donación y vías públicas; y
 
 IV.- El otorgamiento de garantías ante la autoridad competente, sobre la ejecución total y adecuada de las obras de urbanización con las especificaciones y plazo previstos en la licencia de urbanización.
 
@@ -483,9 +499,13 @@ II.- Licencia de urbanización;
 
 III.- Permiso de venta; y
 
-IV.- Recepción de las obras de urbanización y equipamiento urbano del fraccionamiento o desarrollo en condominio.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-En el caso de los desarrollos en condominio se deberá obtener también la licencia de edificación, en este supuesto las obras de edificación deberán realizarse simultáneamente a las obras de urbanización, de conformidad a lo dispuesto en el reglamento de construcción de cada Municipio.
+IV.- Recepción de las obras de urbanización y equipamiento urbano, según se trate de un fraccionamiento o desarrollo en condominio.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Tratándose de desarrollos en condominio, la licencia de edificación podrá obtenerse por el desarrollador o por el condómino, en los términos que fije la Ley, los reglamentos y las disposiciones municipales aplicables, así como las características generales y arquitectónicas de la vivienda, locales o edificios que señale el reglamento del propio condominio.
 
 ###### Artículo 43.
 
@@ -527,15 +547,21 @@ Si posterior a la ampliación otorgada existieran causas justificadas, la Direcc
 
 ### CAPÍTULO PRIMERO. DEL PERMISO DE VENTA EN FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Artículo 49.
 
-Iniciadas las obras de urbanización y edificación en el caso de un fraccionamiento o desarrollo en condominio, según corresponda, el desarrollador podrá solicitar ante el Ayuntamiento el permiso de venta, anexando los siguientes documentos:
+Iniciadas las obras de urbanización en el caso de un fraccionamiento o desarrollo en condominio, el desarrollador podrá solicitar ante el Ayuntamiento el permiso de venta, anexando los siguientes documentos:
 
 I.- Certificado de gravámenes. En caso de existir algún gravamen, acreditar que el mismo se deriva de la aplicación de recursos para la construcción del fraccionamiento o desarrollo en condominio y, que se cuenta con anuencia para continuar con el trámite de permiso de venta, otorgado por el titular del gravamen;
 
-II.- Copia certificada de la escritura del área de donación y de las vialidades en el caso de fraccionamientos y de equipamiento urbano en desarrollos en condominio;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-III.- Garantía para la ejecución total o de las obras faltantes por el importe a valor futuro que señale la Dirección de acuerdo con el programa de ejecución de obra, a excepción de los considerados bajo el procedimiento de urbanización progresiva; y
+II.- Copia certificada de la escritura del área de donación y de las vialidades;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III.- Garantía para la ejecución de las obras de urbanización total o faltantes, por el importe a valor futuro que señale la Dirección de acuerdo con el programa de ejecución de obra, a excepción de los considerados bajo el procedimiento de urbanización progresiva; y
 
 IV.- En el caso de que las obras se encuentren concluidas deberá exhibir la certificación correspondiente.
 
@@ -565,9 +591,15 @@ El Ayuntamiento señalará en su resolución, las condiciones y temporalidad de 
 
 A la terminación de las obras de urbanización de la etapa o total autorizado, el desarrollador podrá solicitar a la Dirección y a los organismos operadores, la recepción de obras y servicios, respectivamente.
 
-###### Artículo 54.
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
 
-Una vez recibida la solicitud, la Dirección citará al desarrollador y a los organismos operadores a efecto de que se realice una inspección final del fraccionamiento o, en su caso, de las vialidades públicas del desarrollo en condominio.
+Una vez recibida la solicitud, la Dirección citará al desarrollador y a los organismos operadores a efecto de que se realice una inspección final del fraccionamiento o, en su caso, de las obras de urbanización y equipamiento del desarrollo en condominio.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 272, SE DEROGA EL PRIMER PARRAFO RECORRIENDOSE EL SUBSECUENTE.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
+###### Artículo 54.
 
 De dicha inspección final se levantará el acta correspondiente, en la que se señalarán:
 
@@ -585,11 +617,17 @@ Los desperfectos que se presenten en las obras de urbanización previas a la rec
 
 El desarrollador una vez realizadas las reparaciones a que se refiere el artículo anterior, podrá solicitar la formalización de la entrega-recepción de los sistemas de infraestructura del fraccionamiento o desarrollo en condominio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Artículo 57.
 
-La Dirección y los organismos operadores recibirán las obras de urbanización, los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos, de un fraccionamiento habitacional urbano, para la conservación y operación de las redes de servicio de agua potable, drenaje y alcantarillado, alumbrado público, vialidades y banquetas.
+La Dirección y los organismos operadores recibirán las obras de urbanización, los bienes inmuebles, equipo e instala-ciones (sic) destinados a los servi-cios (sic) públicos de los fraccionamientos, para la conservación y operación de las redes de servicio de agua potable, drenaje y alcantarillado, alumbrado público, vialidades y banquetas.
 
 Las instalaciones internas de los desarrollos en condominio, estarán a cargo de la administración de los mismos, de acuerdo con su reglamento interno.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+En los desarrollos en condominio, los gastos que se originen por la prestación de los servicios en las tareas o bienes comunes se cubrirán de conformidad con lo dispuesto por la Ley; pero en todo caso el organismo operador, prestador del servicio, expedirá a cada condominio su recibo o factura y le cobrará individualmente por el servicio que reciba en su unidad de propiedad exclusiva.
 
 ###### Artículo 58.
 
@@ -621,7 +659,13 @@ II.- Establecer la infraestructura para la prestación de los servicios público
 
 III.- Donar al Municipio la superficie de terreno ubicada en el propio fraccionamiento, que exclusivamente se utilizará para espacios verdes y equipamiento urbano, sin que puedan destinarse a fines distintos en el caso de las áreas destinadas a espacios verdes, el desarrollador deberá entregarlas forestadas y equipadas. Dicha superficie será deducida del área total del proyecto autorizado en los términos de esta Ley.
 
-En el caso de desarrollos en condominio la superficie para equipamiento urbano será determinada en el reglamento municipal correspondiente, atendiendo al número de unidades.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+En el caso de desarrollos en condominio, la superficie de donación fuera del desarrollo será determinada en el reglamento municipal correspondiente, pero en ningún caso podrá ser mayor al cuatro por ciento de su superficie.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Tratándose de desarrollos en condominio de tipo horizontal de uso habitacional, la superficie de donación fuera del polígono condominal será del cuatro por ciento de la superficie total del desarrollo
 
 Las superficies a que se refieren los párrafos anteriores deberán entregarse en áreas consolidadas, de tal forma que permita su aprovechamiento por parte de los municipios;
 
@@ -631,7 +675,9 @@ V.- Otorgar ante el Ayuntamiento y a satisfacción de éste, una garantía para 
 
 VI.- Responder por los vicios ocultos en las obras de urbanización;
 
-VII.- Escriturar a favor del Municipio la superficie del terreno de donación destinada a equipamiento urbano y áreas verdes, así como las superficies correspondientes a la vialidad pública; en el caso de desarrollos en condominio deberá de escriturar la superficie que se destine a equipamiento urbano. El Notario Público será el que indique el desarrollador;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VII.- Escriturar a favor del Municipio la superficie del área de donación, y de las vías públicas en su caso. El Notario Público será el que indique el desarrollador;
 
 VIII.- Colocar y conservar en el predio del cual se autorice el fraccionamiento o el desarrollo en condominio, el aviso donde se mencionen las características de los mismos y las autorizaciones otorgadas;
 
@@ -878,3 +924,13 @@ EL SUBSECRETARIO DE GOBIERNO
 Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artículo 66 del Reglamento Interior de la Secretaría de Gobierno.
 
 GERARDO LUIS RODRÍGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los desarrolladores que hayan iniciado un procedimiento para la autorización de un fraccionamiento previo a la entrada en vigor del presente decreto podrán solicitar, hasta antes de haber recibido el permiso de venta, la autorización para desarrollar en su lugar un condominio efectuando las adecuaciones y modificaciones a que haya lugar; lo anterior sin afectar la donación escriturada a favor del Municipio.
+
+Artículo Tercero.- El Ejecutivo del Estado y los Ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
