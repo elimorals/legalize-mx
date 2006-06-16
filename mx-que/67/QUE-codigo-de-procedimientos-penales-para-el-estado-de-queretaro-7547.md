@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2004-03-19"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -121,7 +121,47 @@ ARTICULO 17 (Medios para hacer valer la incompetencia).- En cualquier etapa del 
 
 Las partes podrán promover las cuestiones de competencia por medio de la declinatoria o de la inhibitoria, en los términos previstos en este Código.
 
-ARTICULO 18 (Impedimentos, excusas y recusaciones).- Los magistrados, los jueces y los secretarios deben excusarse de conocer los asuntos en que intervengan, cuando tengan impedimento legal.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+ARTICULO 18 (Impedimentos, excusas y recusaciones).- Los magistrados, los jueces y los secretarios deben excusarse de conocer de los asuntos en que intervengan, cuando tengan impedimento legal, por alguna de las siguientes causas:
+
+I Tener parentesco en línea recta, sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad, hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
+
+II Tener amistad íntima o enemistad con alguna de las personas a que se refiere la fracción anterior;
+
+III Tener interés personal en el asunto o tenerlo su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo;
+
+IV Haber presentado querella o denuncia el funcionario, su cónyuge o sus parientes, en los grados que expresa la citada fracción I, en contra de alguno de los interesados;
+
+V Tener pendiente el funcionario, su cónyuge o sus parientes, en los grados que expresa dicha fracción I, un juicio contra alguno de los interesados o no haber transcurrido más de un año, desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI Haber sido procesado el funcionario, su cónyuge o parientes, en los grados expresados en la misma fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
+
+VII Tener pendiente de resolución un asunto que hubiese promovido, semejante al de que se trate o tenerlo su cónyuge o sus parientes, en los grados expresados en la citada fracción I;
+
+VIII Tener interés personal en un asunto donde alguna de las partes del juicio que sigue, sea juez o árbitro;
+
+IX Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados o vivir en familia con alguno de ellos;
+
+X Aceptar presentes o servicios de alguno de los interesados;
+
+XI Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores o amenazar de cualquier modo a alguno de ellos;
+
+XII Ser acreedor, deudor, socio, arrendador, arrendatario, dependiente o principal de alguno de los interesados;
+
+XIII Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XIV Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el funcionario ha aceptado la herencia o el legado o ha hecho alguna manifestación en ese sentido;
+
+XV Ser el cónyuge de alguno de los hijos del funcionario, acreedor, deudor o fiador de alguno de los interesados;
+
+XVI Haber sido juez o magistrado en el mismo asunto, pero en otra instancia;
+
+XVII Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata o haber gestionado o recomendado anteriormente el asunto, en favor o en contra de alguno de los interesados; y
+
+XVIII Cualquier otra análoga a las anteriores.
+
+Se considerará como interesado, en los asuntos del orden penal, al inculpado o a la persona que tenga derecho a la reparación del daño o a la responsabilidad civil.
 
 El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica del Poder Judicial.
 
@@ -313,7 +353,7 @@ Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimie
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
-ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal). Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
+ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1377,7 +1417,7 @@ III.- Comunicar inmediatamente a la misma autoridad todo cambio del lugar donde 
 
 IV.- Extender certificado de sanidad o de defunción si muere el lesionado, con los datos pertinentes al caso, y los demás que le solicite la autoridad.
 
-El incumplimiento de cualquiera de las obligaciones señaladas en este artículo, ameritará la imposición de la corrección disciplinaria correspondiente.imposición de la corrección disciplinaria correspondiente.
+El incumplimiento de cualquiera de las obligaciones señaladas en este artículo, ameritará la imposición de la corrección disciplinaria correspondiente.
 
 ARTICULO 234 (Certificados de sanidad o defunción).- Los certificados de sanidad o de defunción expedidos por médicos particulares, estarán sujetos a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
 
@@ -2109,7 +2149,7 @@ ARTICULO 339 (Internamiento provisional del enfermo mental en las diligencias de
 
 ARTICULO 340 (Declaración Preparatoria y Nombramiento de Defensor).- Si durante la diligencia de la declaración preparatoria, el Juzgador estima que el inculpado se encuentra en alguno de los estados a que se refiere el artículo anterior, que lo imposibilite para la práctica de la diligencia, se abstendrá de llevarla a cabo. Si el Juzgador considera que el inculpado se encuentra en condiciones de nombrar defensor, le hará saber el derecho que tiene de hacerlo. En caso contrario, el nombramiento lo podrá hacer el tutor del inculpado, si lo tiene, su cónyuge, sus ascendientes o descendientes en primer grado o, en su defecto, el Juzgador.
 
-ARTICULO 341 (Auto de Procesamiento).- Para que el internamiento provisional pueda prolongarse por más de setenta y dos horas, deberá justificarse con auto que se dicte en los términos y para los efectos que señala el artículo 19 Constitucional.
+ARTICULO 341 (Auto de procesamiento).- Para que el internamiento provisional pueda prolongarse por más de setenta y dos horas, deberá justificarse con auto que se dicte en los términos y para los efectos que señala el artículo 19 Constitucional.
 
 ARTICULO 342 (Dictamen pericial).- Cuando haya motivo fundado para suponer que el inculpado es inimputable, en los términos del Código Penal, el Juzgador lo mandará examinar por peritos, quienes dentro de un plazo de treinta días dictaminarán sobre su estado mental y ordenará, en su caso, que se le interne en el establecimiento especial, si procede.
 
@@ -2399,6 +2439,12 @@ Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se 
 
 P.O. 19 DE MARZO DE 2004.
 
-Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"..
+Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Segundo.- En los procedimientos penales que se encuentren en trámite por los delitos de violación o secuestro, las víctimas o los ofendidos que sean menores de edad, podrán solicitar en su favor, la aplicación inmediata de los beneficios que les otorga la presente ley.
+
+P.O. 16 DE JUNIO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
