@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adquisiciones-del-poder-legislativo-13332"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-21"
-last_updated: "1998-07-21"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13332&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE ADQUISICIONES DEL PODER LEGISLATIVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 21 de julio de 1998.
 
@@ -298,3 +300,11 @@ Diputado Secretario.
 Ignacio Barajas Orozco.
 
 Diputado Secretario.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JUNIO DE 2006.
+
+Primero. El presente reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el decreto número 74 publicado en el Periódico Oficial del Gobierno del Estado número 58, segunda parte, de fecha 21 de julio de 1998.
