@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2005-11-29"
+last_updated: "2006-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1507,11 +1507,11 @@ Para efecto de lo anterior, el Congreso y el Pleno del Tribunal Superior de Just
 
 Los magistrados de los Tribunales Superior de Justicia y de Justicia Electoral, así como el Juez Consejero, no recibirán por desempeñar este cargo, compensación, estímulos o cualquier otra prestación en dinero o en especie adicional a la que reciban como titulares de sus respectivos órganos jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 157.
 
-El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado, y funcionará en Pleno o a través de Comisiones en forma permanente, en los términos de su calendario anual de actividades colegiadas que en Pleno aprobará a propuesta del Presidente o de sus Consejeros.
+El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado, y funcionará en Pleno o a través de Comisiones en forma permanente, en los términos de su calendario anual de actividades colegiadas que en Pleno aprobará durante la primera sesión del año a propuesta del Presidente o de sus Consejeros.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
@@ -1535,13 +1535,15 @@ Las resoluciones del Consejo de la Judicatura del Estado y de sus organismos aux
 
 Cuando el Pleno del Consejo de la Judicatura del Estado, estime que sus reglamentos, acuerdos, resoluciones o de sus organismos auxiliares pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 160.
 
 El Consejo de la Judicatura del Estado, sesionará de acuerdo al calendario anual de actividades colegiadas aprobado, mismas que se celebrarán semanalmente el día y hora preestablecidos en la agenda, previa convocatoria del Presidente.
 
-Se podrá sesionar fuera de calendario, para tratar y resolver únicamente aquellos asuntos de carácter urgente, previa convocatoria del Presidente por iniciativa propia o de los Consejeros.
+Se podrá sesionar fuera de calendario, para tratar y resolver únicamente aquellos asuntos de carácter urgente, previa convocatoria del Presidente por iniciativa propia o a solicitud de alguno de los Consejeros.
+
+En caso de ausencia del Presidente del Consejo a las sesiones que hubiese convocado conforme al calendario anual de actividades colegiadas aprobado, así como a las sesiones que haya convocado fuera del mismo, será designado previa verificación del cumplimiento del quórum y por mayoría simple de los miembros presentes, un Consejero quien se encargará de presidir la reunión, dirigir los debates y conservar el orden durante el transcurso de la sesión.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
@@ -1555,11 +1557,13 @@ El Pleno se integrará con siete Consejeros; bastará la presencia de la mayorí
 
 Las sesiones aprobadas en el calendario anual de actividades colegiadas aprobadas por el Consejo de la Judicatura, serán públicas.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 163.
 
-Las resoluciones del Pleno del Consejo de la Judicatura del Estado se tomarán por el voto de la mayoría de los Consejeros presentes, los Consejeros no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate; el presidente tendrá voto de calidad.
+Las resoluciones del Pleno del Consejo de la Judicatura del Estado, se tomarán por el voto de la mayoría de los Consejeros presentes, los Consejeros no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate; el Presidente tendrá voto de calidad.
 
-El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el presidente, será substituido por el magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido y en caso de empate, tendrá voto de calidad el Consejero que por turno le corresponda asumir la Presidencia del Consejo de la Judicatura con motivo de impedimento o excusa.
+El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido. Asumirá la presidencia del Consejo de la Judicatura con motivo de impedimento o excusa, el Consejero que por turno le corresponda, quien en su caso empate (sic), tendrá voto de calidad.
 
 ### CAPITULO VIII. DEL ARCHIVO JUDICIAL
 
@@ -3214,3 +3218,7 @@ P.O. 29 DE NOVIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La presente reforma será aplicable a los Consejeros de la Judicatura que sustituyan a los que actualmente se encuentren en funciones.
+
+P.O. 16 DE JUNIO DE 2006.
+
+ARTÍCULO TRANSITORIO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
