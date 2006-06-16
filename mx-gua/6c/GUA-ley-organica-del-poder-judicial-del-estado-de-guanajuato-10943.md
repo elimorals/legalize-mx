@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "2001-08-03"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -1419,13 +1419,35 @@ El procedimiento para determinar las responsabilidades de los servidores públic
 
 Las quejas y denuncias que se formulen, deberán estar apoyadas en pruebas suficientes para establecer la existencia de la infracción, y presumir la responsabilidad del servidor público denunciado.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Artículo 154.
 
-Para la determinación de las responsabilidades a que se refiere este Título, deberá seguirse el siguiente procedimiento:
+El procedimiento para establecer la responsabilidad de los servidores públicos del Poder Judicial será el siguiente:
 
-I.- Se enviará una copia del escrito de queja o denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las constancias correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de queja o denuncia, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar; y
+I.- Presentada la queja o denuncia para instaurar de oficio el procedimiento, el Consejo del Poder Judicial deberá emitir auto para iniciarlo o para desechar aquellas, el que deberá notificarse al servidor público y al quejoso o denunciante. La notificación al servidor público se practicará mediante oficio con acuse de recibo, haciéndole saber con precisión los hechos que se le imputan y las pruebas en que se fundan, mismas que se anexarán en copia certificada al oficio, si obran por escrito. En el mismo oficio se hará saber al servidor público que cuenta con un término de cinco días hábiles, que se computará a partir del día siguiente a aquél en que se reciba la notificación, para que formule un informe sobre los hechos materia del procedimiento y ofrezca en su defensa las pruebas que estime convenientes;
 
-II.- Recibido el informe, se resolverá dentro de los diez días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo las sanciones correspondientes, y se le notificará, personalmente o por correo certificado con acuse de recibo, la resolución al servidor público y al promovente de la queja o denuncia dentro de las setenta y dos horas siguientes a que se haya dictado la resolución.
+II.- Al rendir el informe el servidor público deberá referirse a todos y cada uno de los hechos que se le atribuyan, afirmándolos o negándolos, señalando aquéllos que no le sean propios o que ignore; y refiriéndose a los mismos como considere que tuvieron lugar. Si el servidor público no rindiera el informe se presumirá la existencia de os hechos, salvo prueba en contrario;
+
+III.- Con el informe al que se refieren las fracciones anteriores, el servidor público ofrecerá las pruebas que estime convenientes para su defensa, las que se admitirán y desahogarán por el Consejo del Poder Judicial siempre que se justifique la necesidad e idoneidad de las mismas. Cuando se ofrezca la testimonial de cualquier servidor público, ésta se rendirá por oficio a requerimiento del Consejo del Poder Judicial debidamente notificado. En este procedimiento no se admitirá la prueba de absolución de posiciones;
+
+IV.- El Consejo del Poder Judicial podrá, de oficio o a petición del Consejero Magistrado encargado de realizar el proyecto de resolución, solicitar cualquier aclaración a los servidores públicos, o a quienes presenten la queja o denuncia o agregar al procedimiento las documentales que a su juicio tengan por objeto dilucidar los hechos o calificar la gravedad de la falta. En este caso, se deberá notificar al servidor público sobre la recepción de los nuevos elementos de prueba agregados al expediente, para que alegue lo que a su interés convenga, pueda objetarlos u ofrecer nuevas probanzas para su defensa. Si el servidor público en términos de lo dispuesto en esta fracción ofrece nuevas pruebas, habiéndose desahogado la audiencia a que se refiere la fracción V de este artículo, el Congreso del Poder Judicial deberá fijar fecha y hora para la recepción de aquéllas en diligencia especial;
+
+V.- Recibido el informe del servidor público o vencido el plazo para su rendición, el Consejo del Poder Judicial acordará sobre su recepción o sobre la no presentación del mismo. En el primer supuesto acordará la admisión o desecamiento de las pruebas ofrecidas por el servidor público, citando a una audiencia para el desahogo de las que fueren admitidas, la cual deberá celebrarse dentro de los diez días hábiles que sigan al acuerdo. A la audiencia deberá ser citado el servidor público, pero su ausencia no será motivo para diferir la celebración de la misma, si obra constancia de la citación. Cuando no se rinda el informe, el Consejo del Poder Judicial acordará que no existen pruebas por desahogar, procediendo en términos de la fracción siguiente;
+
+VI.- Celebrada la audiencia y recibidas las pruebas ofrecidas o no existiendo otras que desahogar, se enviará el expediente al Consejero Magistrado que por turno le corresponda, para que realice el proyecto correspondiente; lo que hará dentro de los diez días hábiles siguientes. Elaborado el proyecto, se someterá al pleno del Consejo del Poder Judicial para su aprobación, resolviendo sobre la existencia de responsabilidad e imponiendo en su caso la sanción correspondiente o determinando la ausencia de aquélla; y
+
+VII.- La resolución se notificará personalmente o por correo certificado con acuse de recibo al servidor público y al promoverte de la queja o denuncia.
+
+El procedimiento a que se refiere este artículo, se tramitará en todas sus etapas por el Pleno del Supremo Tribunal de Justicia, cuando se siga contra un Consejero Magistrado o contra un Magistrado del propio Pleno.
+
+El Consejo del Poder Judicial, o en su caso, el Pleno del Supremo Tribunal de Justicia, en el mismo auto a que se refiere la fracción I de este artículo, podrá acordar en cada caso, la delegación en cualquiera de sus integrantes, de la facultad para presidir las audiencias de desahogo de pruebas.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+###### Artículo 154-A.
+
+En la substanciación del procedimiento disciplinario será aplicable supletoriamente el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
 ###### Artículo 155.
 
@@ -1447,9 +1469,21 @@ II.- Suspensión hasta por sesenta días: por violación al contenido de las fra
 
 III.- Destitución: por incumplimiento de las obligaciones a que se refiere la fracción XV del artículo 151 o por incurrir en las faltas a que se refieren las fracciones IV, V, VI, VII y X del artículo 152 de esta Ley o por haber sido suspendido en dos ocasiones en el término de un año.
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Artículo 157.
 
+La prescripción impide el ejercicio de la facultad de fincar responsabilidad administrativa a los servidores públicos del Poder Judicial.
+
 Las faltas que ameriten destitución prescribirán al año, las que ameriten suspensión a los seis meses y las que se sancionen con amonestación a los tres meses de cometida la falta.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Los términos para la prescripción serán continuos y comenzarán a contar a partir del día siguiente a aquél en que se haya cometido la falta administrativa, o del momento en que ésta haya cesado, si fue de carácter continuo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+La prescripción se interrumpirá con el inicio del procedimiento de responsabilidad administrativa que regula la presente Ley. La prescripción deberá decretarse de oficio o a petición de parte.
 
 ###### Artículo 158.
 
@@ -1594,3 +1628,11 @@ Ante la no reelección de un Magistrado deberá formularse la propuesta de desig
 La reelección o, en su caso, la determinación de no proponerla deberá quedar concluida antes de que se cumpla el término del nombramiento del Magistrado de que se trate. Si el proceso relativo no ha concluido, en tanto se llamará a un Supernumerario.
 
 Artículo Segundo.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 2006.
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las presentes reformas y adiciones serán aplicables a los procedimientos disciplinarios que se inicien a partir de su entrada en vigor.
+
+Los procedimientos disciplinarios pendientes de resolución a la entrada en vigor del presente decreto, deberá reponerse para que se sujeten a los términos dispuestos por el artículo 154 contenido en el presente decreto.
