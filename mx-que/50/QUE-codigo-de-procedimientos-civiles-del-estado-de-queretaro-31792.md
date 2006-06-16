@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2004-09-10"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -1173,9 +1173,11 @@ Los magistrados y jueces que conozcan de una recusación, son irrecusables para 
 
 Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de cinco a diez días de salario mínimo general, si se trata de un juez municipal; de diez a treinta días, si fuere un juez de primera instancia y de treinta a cincuenta días, si fuere magistrado. No se dará trámite a ninguna recusación si no exhibe el recusante al interponerla, el billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante, si lo hubiere, por vía de indemnización y, en caso contrario, al fisco.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 184.
 
-De la recusación de un magistrado o juez conocerá el pleno del Tribunal Superior, que se integrará en primer caso, de acuerdo con la ley. De la de los secretarios el superior con quien actúen.
+De la recusación de los magistrados integrantes de una Sala, conocerá aquella a la que corresponda y para tal efecto, se integrará de acuerdo a la ley; de la recusación de un juez, conocerá, de manera unitaria o colegiada, el o los magistrados de la Sala respectiva. La recusación de los secretarios del Tribunal Superior de justicia y de los juzgados de primera instancia y municipales, se sustanciará ante las salas o jueces con quienes actúen. Las resoluciones de los jueces de primera instancia serán apelables en el efecto devolutivo.
 
 ###### ARTÍCULO 185.
 
@@ -6686,3 +6688,9 @@ PRIMERO.- La presente ley entrará en vigor a partir del día siguiente de su pu
 SEGUNDO.- Los procedimientos que se encuentren en trámite, se resolverán de conformidad con las disposiciones legales anteriores a la entrada en vigor de la presente ley.
 
 TERCERO.- Se derogan las disposiciones legales que se opongan a la presente ley.
+
+P.O. 16 DE JUNIO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
