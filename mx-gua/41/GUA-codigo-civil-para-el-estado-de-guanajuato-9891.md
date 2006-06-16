@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2005-06-10"
+last_updated: "2006-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,71 +21,23 @@ state: "GUA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN PABLO HUIXTEPEC, DISTRITO DE ZIMATLÁN, OAXACA, PARA EL EJERCICIO FISCAL 2022
+CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
-Ley publicada en la Décima Sexta Sección del Número 7 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de febrero de 2022.
+Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+El C. Licenciado JUAN JOSE TORRES LANDA, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, a los habitantes del mismo, sabed:
 
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Que la H. Legislatura del Estado se ha servido dirigirme el siguiente:
 
-###### Artículo 45.
+DECRETO NUMERO 94
 
-Este derecho se recauda de conformidad con lo establecido en el Capítulo I del Título Tercero de la Ley de Hacienda Municipal del Estado de Oaxaca.
+El H. XLVI Congreso Constitucional del Estado Libre y Soberano de Guanajuato, decreta:
 
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-###### Artículo 48.
-
-Es base de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas; y, sólo para el caso de que estás no se publiquen la tasa aplicable serán (sic) del 8% para las tarifas 01, 1A, 1B, 1C, 02, 03, y 07 y 4% para las tarifas OM, HM, HS, y HT.
-
-###### Artículo 57.
-
-El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
-
-Concepto Cuota en
-
-(pesos)
-
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-I. COPIAS SIMPLES DE DOCUMENTOS
-
-EXISTENTES EN LOS ARCHIVOS DE LAS
-
-OFICINAS MUNICIPALES POR HOJA 3.00
-
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-II. CERTIFICACIÓN DE DOCUMENTOS
-
-EXISTENTES EN LOS
-
-ARCHIVOS MUNICIPALES 70.00
-
-III. Expedición de certificados de residencia, origen,
-
-dependencia económica, de situación fiscal actual o
-
-pasada, de contribuyentes inscritos en la Tesorería
-
-Municipal, de morada conyugal 70.00
-
-IV. Certificación de registro fiscal de bienes inmuebles
-
-en el padrón 100.00
-
-V. Certificación de la ubicación de un inmueble o uso
-
-de la suela habitacional 100.00
-
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-VI. BÚSQUEDA DE DOCUMENTOS EN
-
-EL ARCHIVO MUNICIPAL 50.00
+Disposiciones Preliminares
 
 ###### Art. 1.
 
@@ -427,6 +379,12 @@ En las zonas rurales, los Oficiales del Registro Civil, en sus faltas temporales
 
 La Dirección del Registro Civil y los oficiales, cuidarán de que los libros y actas y demán (sic) documentos del propio registro se lleven debidamente, pudiendo inspeccionarlos en cualquier época.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 61-A.
+
+En todos los casos comprendidos en el presente Capítulo, en los que se disponga que los Jueces o Magistrados deban hacer saber una comunicación, remitir oficios, certificaciones o cualquier otro documento al Oficial del Registro Civil, para efectos de anotaciones, cancelaciones o notas marginales, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga su firma electrónica certificada, para cumplimentar dichas disposiciones, y los funcionarios receptores deberán acusar el recibo electrónico correspondiente.
+
 ### Capítulo II. De las actas de nacimiento
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
@@ -495,27 +453,41 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 73.
 
-Toda persona que encontrase a un recién nacido, o en cuya casa o propiedad fuera expuesto alguno, deberá presentarlo ante la Procuraduría en materia de Asistencia Social en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como, las demás circunstancias que en el caso hayan concurrido, para que esta proceda a lo siguiente:
+Toda persona que encontrase a un menor de doce años, ya sea que éste estuviere extraviado o abandonado, o en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría en Materia de Asistencia Social en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como, las demás circunstancias que en el caso hayan concurrido, para que ésta proceda a lo siguiente:
 
-I.- Denunciar los hechos ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-II.- Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente;
+I. Denunciar los hechos inmediatamente ante el Ministerio Público;
 
-III.- Entregar la custodia del menor a las personas interesadas en su cuidado, preferenciando a aquellas que lo hayan presentado, o a una Institución de Asistencia Social; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-IV.- Coadyuvar en los trámites que tiendan a la adopción del menor expósito o abandonado.
+II. Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede cuando se haya definido la situación jurídica del menor;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+III. Entregar la custodia temporal del menor a una institución de asistencia social que pueda atenderlo adecuadamente;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+IV. Coadyuvar en los trámites que tiendan a la adopción pronta del menor que resulte expósito;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+V. Coadyuvar en la promoción y trámite del juicio de pérdida de la patria potestad contra quienes hayan abandonado al menor; y posteriormente coadyuvar con los trámites de la adopción del mismo a falta de sucesores idóneos para el ejercicio de la patria potestad; o según el caso, asegurarse de la reincorporación o incorporación del menor con el o los familiares que correspondan legalmente.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 Para los efectos de la fracción III, el Procurador en materia de Asistencia Social o los Procuradores Auxiliares, en su caso, tendrán la tutela del menor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 74.
 
-La misma obligación de recurrir a la Procuraduría en materia de asistencia social la tienen los jefes, directores o administradores de los centros de reclusión y de cualquier casa de comunidad, hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación de recurrir a la Procuraduría en Materia de Asistencia Social, la tienen los jefes, directores o administradores de los centros de reclusión y de cualquier casa de comunidad, hospitales, casas de maternidad e inclusas, respecto de los niños nacidos, abandonados o expuestos a ellas.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
 
@@ -725,7 +697,7 @@ El Oficial del Registro Civil a quien se presente una solicitud de matrimonio qu
 
 Recibida la solicitud, el Oficial del Registro Civil informará a los pretendientes, los derechos y obligaciones que nacen del matrimonio, además de los efectos que produce éste respecto a los bienes y con relación a los hijos. Asimismo, en coordinación con las autoridades de salud competentes, proporcionará orientación suficiente y objetiva con relación a la planificación familiar, para que, en su caso, puedan decidir en forma libre, responsable e informada el número y espaciamiento de sus hijos.
 
-Una vez cubiertos los requisitos que establece este Capítulo para la celebración del matrimonio, éste se llevará a cabo dentro del ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil.
+Una vez cubiertos los requisitos que establece este Capítulo para la celebración del matrimonio, éste se llevará a cabo dentro de ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil.
 
 ###### Art. 105.
 
@@ -909,17 +881,19 @@ El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar part
 
 (DEROGADO, P.O. 29 DE ENERO DE 1982)
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 132.
 
-En todos los casos de muerte violenta en las prisiones o en los lugares de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 122.
+En todos los casos de muerte violenta en las prisiones o en los lugares de detención, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 122.
 
 ###### Art. 133.
 
 Los Oficiales del Registro Civil que levanten un acta de defunción, deberán enviar copia de dicha acta dentro de las setenta y dos horas siguientes, a las Oficinas del Registro Civil donde tengan conocimiento que se haya inscrito el nacimiento y matrimonio del difunto dentro de la República. Los Oficiales del Registro Civil dentro del Estado al recibir la citada copia, harán las anotaciones correspondientes en los registros de nacimiento y matrimonio.
 
-### Capítulo XI. De las aclaraciones y rectificación de las actas del estado civil
+### Capítulo XI. De las aclaraciones, rectificaciones y modificaciones de las actas del estado civil
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 134.
 
@@ -933,11 +907,21 @@ El Oficial del Registro levantará de inmediato el acta correspondiente, en la q
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso a los Oficiales del Registro Civil que correspondan por el mismo interesado o por la autoridad respectiva, para que cancele el acta y las anotaciones a que se refieren los artículos anteriores.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JUNIO DE 2005)</small>
+
 ### Capítulo I. De los requisitos para contraer matrimonio
 
 ###### Art. 137.
 
-La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo en los casos que a continuación se señalan, los que se tramitarán ante la Dirección General del Registro Civil o ante el Oficial del Registro Civil, y se resolverán ante la Dirección referida, siendo éstos los siguientes:
+
+I. En las actas de nacimiento cuando el registrado, ha usado un nombre diverso al asentado en el acta y solicite ajustarlo a la realidad social, sin que se afecte su filiación ni se trate de los apellidos.
+
+II. Errores de fechas o lugares de nacimiento, así como del nombre que se adviertan del cotejo efectuado a los libros o apéndices de los archivos del Registro Civil o en su caso, mediante documental pública consistente en las actas del estado civil de donde se transcribieron los datos, siempre y cuando no se trate de los apellidos;
+
+III. La corrección de las actas del estado civil de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus actas respectivas.
+
+El reconocimiento que voluntariamente haga un progenitor de su hijo, se sujetará a las prescripciones de este Código.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
@@ -947,9 +931,11 @@ La rectificación o modificación de un acta del Estado Civil, no puede hacerse 
 
 Ha lugar a pedir la rectificación cuando se solicite variar algún nombre, apellido u otra circunstancia que sea esencial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 139.
 
-Pueden pedir la rectificación de un acta del estado civil:
+Pueden pedir la rectificación o modificación judicial o administrativa de un acta del estado civil:
 
 I. Las personas de cuyo estado se trata;
 
@@ -964,6 +950,36 @@ V. Aquellos cuyo carácter de herederos de las personas a que se refieren las fr
 ###### Art. 140.
 
 El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+La rectificación administrativa se llevará a cabo bajo el procedimiento siguiente:
+
+I. El interesado o su representante legal deberá presentar su solicitud por escrito y de manera personal, a la Dirección General del Registro Civil o ante el Oficial del Registro Civil, la que deberá contener:
+
+a) El nombre del solicitante y el domicilio que señale para oír notificaciones;
+
+b) El señalamiento preciso de los errores que contenga el acta que se pretende corregir, expresando los argumentos en los cuales el interesado sustenta su petición;
+
+II. A la solicitud se acompañarán los siguientes documentos:
+
+a) Certificado reciente del acta que se pretende corregir;
+
+b) Identificación oficial con fotografía del solicitante;
+
+c) Los documentos suficientes que acrediten la petición del interesado, pero en todo caso, deberá acreditarse en forma indubitable la identidad del solicitante;
+
+III. Si la solicitud de rectificación o modificación de una acta del estado civil, no fuere clara o no se acompañasen pruebas, la Dirección General del Registro Civil o el Oficial del Registro Civil, prevendrá por una sola ocasión al interesado por un plazo de tres días hábiles, para que la aclare o presente las pruebas, con el apercibimiento de que si no lo hiciere, se desechará de plano su petición;
+
+IV. A efecto, de mejor proveer, la Dirección General del Registro Civil o el Oficial del Registro Civil, podrá allegarse las pruebas y realizar las diligencias que estime convenientes llevando a cabo las prevenciones necesarias;
+
+V. La Dirección General del Registro Civil, una vez que se encuentre debidamente integrado el expediente y desahogadas las probanzas, dictará resolución dentro de un plazo de diez días hábiles;
+
+VI. La Dirección General del Registro Civil resolverá de plano, emitiendo la resolución en la que funde y motive la procedencia o improcedencia de la solicitud, ordenando, en su caso, la rectificación o modificación respectiva. Una vez que haya sido notificada la resolución al interesado, se comunicará a la Oficialía del Registro Civil correspondiente a fin de que se realicen las anotaciones marginales conducentes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+En caso de negarse la solicitud, el interesado, podrá acudir ante el Juez competente para su trámite judicial, en los términos que prescribe el Código de Procedimientos Civiles vigente.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
@@ -1557,6 +1573,8 @@ El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que l
 
 ### Capítulo X. De las donaciones entre consortes
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 253.
 
 (DEROGADO, P.O. 29 DE ENERO DE 1982)
@@ -1705,11 +1723,13 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 ###### Art. 288.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, y siempre que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones, siempre que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes del donante a recibir alimentos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 289.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+Las donaciones entre consortes únicamente pueden ser revocadas por las causas previstas en el artículo 1866 de este Código.
 
 ###### Art. 290.
 
@@ -1777,7 +1797,7 @@ La acción de nulidad proveniente del atentado contra la vida de alguno de los c
 
 El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
-I. Que uno u otro importe el peligro de perder la vida, la honra, la libertad, la salud, o una parte considerable de los bienes; .
+I. Que uno u otro importe el peligro de perder la vida, la honra, la libertad, la salud, o una parte considerable de los bienes;
 
 II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
 
@@ -1915,7 +1935,9 @@ X. La declaración de ausencia legalmente hecha o la de la presunción de muerte
 
 XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan imposible la vida conyugal;
 
-XII. La negativa de los cónyuges de darse alimentos de acuerdo con lo dispuesto por el artículo 161, siempre que no puedan hacer efectivos los derechos que les conceden los artículos 162 y 163;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+XII. La negativa injustificada de los cónyuges de darse alimentos de acuerdo con lo dispuesto por el artículo 161;
 
 XIII. La acusación calumniosa hecha por un cónyuge contra el otro por delito intencional, que merezca pena mayor de dos años de prisión;
 
@@ -1985,21 +2007,51 @@ Ninguna de las causas enumeradas en el artículo 323 pueden alegarse para pedir 
 
 La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aun no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 336.
 
-Al admitirse la demanda de divorcio o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+Al admitirse la demanda de divorcio o antes si hubiere urgencia, el juez bajo su responsabilidad, decretará provisionalmente y sólo mientras dure el juicio, lo siguiente:
 
-I. Separar a los cónyuges en todo caso;
+I. (DEROGADA, P.O. 10 DE JUNIO DE 2005)
 
-II. Proceder en cuanto a depósito o separación de los cónyuges en los términos del Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+II. Proceder en cuanto a la separación de los cónyuges en los términos del Código de Procedimientos Civiles, ordenando quién de los dos debe permanecer en el domicilio conyugal. Asimismo, previo inventario, deberá determinar los bienes y enseres que deberán continuar en éste y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
+
+La separación conyugal decretada por el juez interrumpe los términos a que se refieren las fracciones VIII y XVIII del artículo 323 de este Código;
 
 III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
-IV. Dictar las medidas convenientes para que el administrador no cause perjuicios al otro cónyuge en sus bienes propios o en los de la sociedad conyugal o legal;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+IV. Dictar las medidas convenientes para que el administrador no cause perjuicios al otro cónyuge en sus bienes propios o en los de la sociedad conyugal. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público que corresponda;
 
 V. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos; el Juez, con audiencia del otro cónyuge, resolverá inmediatamente, designando a la persona en caso de no ser aceptada la propuesta.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos o ambos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona con quien deban quedar provisionalmente los hijos; el Juez, resolverá lo conducente en los términos del Código de Procedimientos Civiles, tomando en cuenta la opinión del menor.
+
+Salvo riesgo para el normal desarrollo de los hijos, los menores de doce años deberán quedar al cuidado de la madre;
+
+> <small>(ADICIONADA, P. O. 10 DE JUNIO DE 2005)</small>
+
+VII. El Juez resolverá teniendo presente el interés superior de los hijos menores, quienes serán escuchados sobre las modalidades del derecho de visita o convivencia con sus padres;
+
+> <small>(ADICIONADA, P. O. 10 DE JUNIO DE 2005)</small>
+
+VIII. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca este Código;
+
+> <small>(ADICIONADA, P. O. 10 DE JUNIO DE 2005)</small>
+
+IX. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 336-A.
+
+A petición de parte y en los casos en que el Juez lo considere pertinente, tomando en consideración los hechos expuestos, las causales invocadas en la demanda y lo expuesto por el demandado, prohibirá al cónyuge de que se trate ir a lugar determinado, o acercarse a los agraviados a la distancia mínima que el propio Juez considere pertinente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 1989)</small>
 
@@ -2007,15 +2059,17 @@ VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren de
 
 La sentencia de divorcio fijará la situación de los hijos conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1989)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-I. Cuando la causa de divorcio estuviere comprendida en las fracciones lII, V y XV del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor;
+I. Cuando la causa de divorcio estuviere comprendida en las fracciones III, V y XV del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda en los términos del artículo 468 de este Código, y si no lo hubiere se nombrará tutor;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1989)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-II. En todos los demás casos el Juez decidirá sobre los derechos y obligaciones inherentes a la patria potestad y a la custodia de los hijos menores de edad, determinando su conservación, pérdida o suspensión para uno o ambos cónyuges, independientemente del carácter de vencedor o perdedor en juicio, mirando sólo el beneficio de los menores. En su caso, llamará a quien legalmente corresponda el ejercicio de la patria potestad o designará tutor;
+II. En todos los demás casos se estará a lo convenido por los cónyuges, siempre que a juicio del Juez, no se atente contra los intereses del menor; y si no hubiere pacto al respecto, el Juez decidirá sobre los derechos y obligaciones inherentes a la patria potestad y a la custodia de los hijos menores de edad, determinando su conservación, pérdida o suspensión para uno o ambos cónyuges, independientemente del carácter de vencedor o perdedor en juicio, mirando sólo el beneficio de los menores. En su caso, y de conformidad con la fracción IV del artículo 468, llamará a quien legalmente corresponda el ejercicio de la patria potestad o designará tutor;
 
-III. En los casos de las fracciones VI y VII del artículo 323, los hijos quedarán en poder del cónyuge sano pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+III. En los casos de las fracciones VI y VII del artículo 323, los hijos quedarán bajo la custodia del cónyuge sano, pero el consorte enfermo conservará los demás derechos de la patria potestad.
 
 ###### Art. 338.
 
@@ -2133,9 +2187,11 @@ Los hermanos y demás parientes colaterales, a que se refiere el artículo anter
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 362.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica obligatoria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
 
 ###### Art. 363.
 
@@ -2677,6 +2733,8 @@ El trámite de la adopción se hará conforme a lo establecido en los artículos
 
 ### Capítulo I. De los efectos de la patria potestad respecto de la persona de los hijos
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 456.
 
 Con la adopción plena, el adoptado se integra plenamente como miembro de la familia del adoptante, adquiriendo lazos de parentesco con todos los parientes de éste, como si hubiera filiación consanguínea. Correlativamente se extinguirán todos los vínculos consanguíneos con la familia del adoptado, subsistiendo los impedimentos para contraer matrimonio.
@@ -2805,7 +2863,7 @@ El procedimiento para la revocación por la causal prevista en la fracción I de
 
 ###### Art. 465.
 
-Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
 ###### Art. 466.
 
@@ -2815,19 +2873,29 @@ Los hijos menores de edad no emancipados están bajo la patria potestad mientras
 
 La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 468.
 
-La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre o en su caso por el supérstite. A falta de padres, la patria potestad corresponde a los abuelos de acuerdo a las siguientes disposiciones:
+La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre, o en su caso, por el supérstite. En caso de que éstos o éste fallezcan o pierdan la patria potestad, se estará a lo siguiente:
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y, en su defecto, al ministerio público.
 
 En cuanto tenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 II. Cuando sean dos o más los menores de una misma familia que convivan juntos, el juez procurará la continuación de dicha convivencia, si ello fuere posible; y
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 III. En todos los casos, para determinar a quién corresponde ejercer la patria potestad, el juez tendrá en cuenta el interés superior de los menores.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+IV. Si de la valoración que haga el juez de los abuelos del o los menores, resultara que ninguno de ellos es apto e idóneo para el ejercicio de la patria potestad, el juez le nombrará un tutor conforme a esta misma Ley, quien tendrá la obligación, de ser el caso que el interés superior del menor así lo requiera, de tramitar la adopción de éste a la brevedad.
 
 ###### Art. 469.
 
@@ -2865,6 +2933,16 @@ La menor o incapacitada que procree un hijo, ejercerá la patria potestad a trav
 
 Si sólo faltare alguna de las dos personas a quienes corresponda ejercer la patria potestad, la que quede continuará en ejercicio de ese derecho.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 474-A.
+
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que resultare inconveniente para éstos.
+
+No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+
+El juez aplicará las medidas previstas en el Código de Procedimientos Civiles e incluso podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, impida injustificadamente de manera reiterada la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
+
 ###### Art. 475.
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
@@ -2873,11 +2951,13 @@ Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los
 
 A las personas que tienen al hijo bajo su patria potestad incumbe la obligación de educarlo convenientemente. Cuando llegue a conocimiento del Agente del Ministerio Público que las personas de que se trata no cumplen con la obligación, promoverá lo que corresponda.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 477.
 
-Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+Los que ejercen la patria potestad tienen la obligación de educar y corregir a los hijos menores, así como de observar una conducta que sirva a éstos de buen ejemplo. Corregir no implica afectar al menor en su integridad física o psíquica.
 
-Las autoridades auxiliarán a los padres en el ejercicio de ésta y de las demás facultades que les concede la ley, de manera prudente y moderada, siempre que sean requeridas para ello.
+Las autoridades auxiliarán a los padres en el ejercicio de la patria potestad, de manera prudente y moderada, siempre que sean requeridas para ello.
 
 ###### Art. 478.
 
@@ -2995,9 +3075,11 @@ II. Con el matrimonio del sujeto a ella;
 
 III. Por la mayor edad del hijo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 497.
 
-La Patria potestad se pierde:
+La Patria potestad se pierde por resolución judicial:
 
 I. Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado por delito grave;
 
@@ -3005,11 +3087,15 @@ II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 337
 
 III. Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley Penal;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-IV. Por el abandono que el padre o la madre hicieren de sus hijos, por más de tres meses;
+IV. Por el abandono que el padre o la madre hicieren de sus hijos, por más de treinta días, sin causa justificada;
 
 V. (DEROGADA, P.O. 30 DE JULIO DE 1996)
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+VI. El incumplimiento de la obligación alimentaria por más de noventa días, sin causa justificada.
 
 ###### Art. 498.
 
@@ -3030,6 +3116,14 @@ I. Por la incapacidad declarada judicialmente;
 II. Por la ausencia declarada en forma;
 
 III. Por la sentencia condenatoria que imponga esta suspensión.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+IV. Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos o amenacen causar algún perjuicio cualquiera que este sea al menor, y a juicio del juez esta situación sea sólo temporal;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+V. Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente, sin causa justificada.
 
 ###### Art. 501.
 
@@ -4833,7 +4927,7 @@ El cazador se hace dueño del animal que caza por el acto de apoderarse de él, 
 
 ###### Art. 853.
 
-Se considera capturado el animal que ha sido muerto por el cazador durante el acto venatario, y también el que está preso en redes.
+Se considera capturado el animal que ha sido muerto por el cazador durante el acto venatorio, y también el que está preso en redes.
 
 ###### Art. 854.
 
@@ -4981,7 +5075,7 @@ III. Los frutos civiles.
 
 ###### Art. 886.
 
-Son frutos naturales las producciones espontaneas de la tierra, las crías y demás productos de los animales.
+Son frutos naturales las producciones espontáneas de la tierra, las crías y demás productos de los animales.
 
 ###### Art. 887.
 
@@ -5133,11 +5227,13 @@ Si la incorporación se hace por cualquiera de los dueños a vista o conocimient
 
 Siempre que el dueño de la materia empleada sin su conocimiento tenga derecho a indemnización, podrá exigir que ésta consista en la entrega de una cosa igual en especie, en valor y en todas sus circunstancias a la empleada, o bien el precio de ella fijado por peritos.
 
-#### Sección Segunda. Condominio
+#### Sección Segunda. Condominio y Conjunto Condominal
 
 Parte Primera
 
 Disposiciones generales
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 922.
 
@@ -5377,7 +5473,11 @@ El derecho de copropiedad sobre los elementos comunes del edificio sólo será e
 
 Los derechos y obligaciones de los copropietarios a que se refiere este precepto se regirán por las escrituras en que se hubiese establecido el régimen de copropiedad, por las de compraventa correspondientes, por el reglamento interno de condominio y por las disposiciones de la siguiente sección.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 972.
+
+Se le denominará condominio al conjunto de edificios, de departamentos, de pisos, de viviendas, de casas, de locales, de naves de un inmueble, de lotes de terreno, así como de terrenos delimitados en los que hubiere servicios de infraestructura urbana, construidos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública y que pertenecieran a distintos propietarios, los que tendrán un derecho singular y exclusivo de propiedad sobre una unidad de propiedad exclusiva y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute.
 
 El régimen de propiedad en condominio puede originarse:
 
@@ -5391,39 +5491,67 @@ IV. Cuando los distintos copropietarios de un edificio decidan dividirlo en part
 
 V. Por testamento en el que el testador constituya el régimen, o fije las bases para constituirlo;
 
-VI. En todos los demás casos comprendidos en el texto del artículo anterior.
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1983)</small>
+VI. Cuando el propietario o propietarios de un lote de terreno decidan construirlo como un condominio horizontal, ya sea con viviendas o lotes de terrenos;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VII. Cuando dos o más propietarios tengan lotes de terreno en común, áreas verdes, áreas deportivas, educativas, derechos de paso o vialidades comunes, parques y servicios y decidan administrarlos como condominio;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VIII. En los demás casos que lo señale la ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Art. 972 A. Se denomina conjunto condominal a la agrupación de dos o más condominios, construidos o establecidos en uno o varios inmuebles que formen una unidad, siempre que dichos condominios, conserven para sí áreas de uso exclusivo; y compartan accesos o vialidades y áreas comunes al conjunto, tales como: parques, áreas verdes y equipamiento y otros similares.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 973.
 
-Para que un edificio pueda ser sometido a régimen de condominio, bastará con que se dé cualesquiera de los supuestos del artículo anterior, independientemente del número de plantas que tenga.
+El régimen de propiedad en condominio, se constituirá independientemente del número de plantas que tengan los edificios o casas, o el número de casas o lotes de terreno que se encuentren dentro de éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 1983)</small>
+El conjunto condominal podrá constituirse con independencia del número de edificios, plantas de cada edificio o construcción, número de casas, departamentos, pisos, locales, naves, lotes de terreno delimitados o lotes de terreno que integren cada uno de los condominios que forman el conjunto; y del tipo de condominio integrados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 974.
 
-Para constituir régimen de condominio, el propietario o propietarios, deberán declarar su voluntad en escritura pública, que necesariamente incluirá:
+Para constituir un régimen de condominio o un conjunto condominal, el propietario o propietarios, deberán declarar su voluntad en escritura pública, la que necesariamente incluirá:
 
 I. La situación, dimensiones y linderos del terreno así como una descripción general del edificio;
 
-II. La descripción de cada piso, departamento, vivienda o local, su número, situación, medidas, piezas de que consta, anexos, tales como estacionamiento, cuarto de servicio, tendederos, etc., y demás datos necesarios para identificarlo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-III. El valor total del inmueble, el valor de cada piso, departamento, vivienda o local y, consecuentemente, el porcentaje que corresponda a cada propiedad en el valor total del edificio;
+II. La descripción de cada edificio, departamento, piso, vivienda, casa, local, nave de inmueble, lote de terreno o terreno delimitado; su número, situación, medidas, piezas de que consta, anexos, tales como estacionamiento, cuarto de servicio, tendederos, y demás datos necesarios para identificarlo;
 
-IV. El destino general del edificio y el especial de cada piso, departamento, vivienda o local;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III. El valor total del inmueble, el valor de cada edificio, departamento, piso, vivienda, casa, local, nave de inmueble, lote de terreno o terreno delimitado y, consecuentemente, el porcentaje que corresponda a cada propiedad en el valor total;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+IV. El destino general del edificio y el especial de cada departamento, piso, vivienda, casa, local, nave de inmueble, terreno o terreno delimitado;
 
 V. Los bienes de propiedad común, su destino, con la especificación y detalles necesarios y, en su caso, su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación;
 
-VI. Constancia de las autoridades competentes en materias de construcciones urbana y de salubridad, de que el edificio construido reúne los requisitos que deben tener este tipo de construcciones. En el caso de edificios solamente proyectados, o que no se encuentren aun terminados, bastará con que en la escritura se haga constar la aprobación por las autoridades indicadas en este inciso, de los planos y proyectos del edificio, debiendo observarse, al ser terminado el inmueble, lo preceptuado por la segunda parte del artículo 977 de este Código. Lo prescrito en esta fracción deberá observarse en los casos de reformas a la escritura constitutiva del régimen de condominio, cuando la modificación implique alteración en la distribución del edificio;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VI. Contar con las autorizaciones y permisos que expidan las autoridades competentes, en los términos de las leyes y reglamentos aplicables. En el caso de edificios solamente proyectados, o que no se encuentren aún terminados, bastará con que en la escritura se haga constar la aprobación por las autoridades indicadas en este inciso, de los planos y proyectos del edificio, debiendo observarse, al ser terminado el inmueble, lo preceptuado por la segunda parte del artículo 977 de este Código. Lo prescrito en esta fracción deberá observarse en los casos de reformas a la escritura constitutiva del régimen de condominio, cuando la modificación implique alteración en la distribución del edificio;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1983)</small>
 
 VII. Constancia de que al Apéndice del Protocolo Notarial, así cmo (sic) al testimonio de la escritura constitutiva, se adjuntan:
 
-a).- Plano general del edificio, entendiéndose por ello los que correspondan a fachadas, planta baja y, en su caso, plantas tipo.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
-b).- Planos particulares correspondientes a cada una de las plantas, en los que se especifiquen los departamentos, viviendas o locales de propiedad privada, así como las áreas de propiedad común.
+a).- Plano general del condominio o del conjunto condominal;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+b).- Planos particulares correspondientes a cada una de las plantas, en los que se especifiquen los departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lote de terreno o terreno delimitado de propiedad privada, así como las áreas de propiedad común;
 
 c).- Plano sanitario.
 
@@ -5431,79 +5559,115 @@ d).- Plano de la instalación eléctrica.
 
 Todos los planos anteriores deberán estar aprobados por las autoridades respectivas.
 
-e).- El reglamento de condominio y administración, en el que se pormenorizarán los derechos y las obligaciones de los condóminos y administradores;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+e).- El Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condonimal, en el que se pormenorizarán los derechos y obligaciones de los condóminos y administradores;
 
 VIII. (DEROGADA, P.O. 19 DE AGOSTO DE 1983)
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+IX. En su caso, la especificación del número de condominios que integrarán el conjunto condominal, determinando las características generales, áreas exclusivas y áreas comunes de cada condominio; así como de las áreas de uso exclusivo de cada condominio; y los accesos o vialidades y demás áreas comunes al conjunto.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 975.
 
-Solamente por acuerdo unánime de los propietarios se podrá modificar lo dispuesto en la escritura de que se ocupa el artículo anterior, en materia de destino general del edificio o especial de cada piso, departamento, vivienda o local; el porcentaje que corresponde a cada una de estas viviendas respecto del valor total del inmueble, y de los bienes de propiedad común.
+Solamente por acuerdo unánime de los propietarios se podrá modificar lo dispuesto en la escritura de que se ocupa el artículo anterior, en materia de destino general de la propiedad exclusiva en el condominio o conjunto condominal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 976.
 
-La declaración de voluntad a que se refiere el artículo 974 de este Código se considerará irrevocable desde el momento en que se grave o enajene cualquiera de las partes del edificio.
+Declarada la voluntad a que se refiere el artículo 974 y desde el momento en que se grave o enajene una de las propiedades exclusivas, el régimen de condominio o conjunto condominal surtirá todos sus efectos entre los otorgantes y sólo podrá extinguirse o modificarse por las causas que se señalan en este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 977.
 
-La escritura constitutiva del régimen de condominio y las posteriores que contengan modificaciones, se inscribirán en el Registro Público de la Propiedad para que produzcan efectos con relación a terceros.
+La escritura constitutiva del régimen de condominio o del conjunto condominal, se inscribirá en el Registro Público de la Propiedad para que produzcan efectos con relación a terceros.
 
-En el caso de edificios solamente proyectados, o que no se encuentren aún terminados, deberá hacerse constar expresamente esta circunstancia en el Registro Público. Al ser concluido el edificio el propietario o propietarios deberán declarar este hecho ante notario público, presentándole las constancias administrativas que autoricen la ocupación del inmueble. El acta que levante el notario deberá inscribirse en el Registro Público de la Propiedad.
+En el caso de inmuebles solamente proyectados, o que no se encuentren aún terminados, deberá hacerse constar expresamente esta circunstancia en el Registro Público. Al ser concluido el inmueble, el propietario o propietarios deberán declarar este hecho ante notario público, presentándole las constancias administrativas que autoricen la ocupación del inmueble. El acta que levante el notario deberá inscribirse en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 978.
 
-Establecido el régimen de condominio sólo se podrá extinguir por acuerdo unánime de los propietarios o en los casos previstos por la Parte Séptima de esta Sección. En caso de concentración en una sola persona de todos los pisos, departamentos, viviendas o locales, el régimen de condominio sólo se extinguirá si el propietario hace declaración de voluntad en tal sentido.
+Establecido el régimen de condominio o el conjunto condominal, sólo se podrá extinguir o modificar por acuerdo de quienes representen el setenta y cinco por ciento de su valor total, tomado en asamblea con la representación de por lo menos el sesenta y seis por ciento de los condóminos. En caso de concentración en una sola persona de todos los edificios, departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados, el régimen de condominio o de conjunto condominal sólo se extinguirá si el condómino hace declaración de voluntad en tal sentido.
+
+Los inconformes siempre que representen el veinticinco por ciento de los condóminos y la cuarta parte del valor del inmueble, pueden oponerse a la modificación del régimen de condominio o conjunto condominal, haciendo del conocimiento de la autoridad judicial sus razones dentro de los treinta días siguientes a la fecha de la asamblea.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 979.
 
-La extinción del régimen de condominio se hará constar en escritura pública, la cual deberá inscribirse en el Registro Público de la Propiedad.
+La extinción o modificación del régimen de condominio y del régimen del conjunto condominal se hará constar en escritura pública, la cual deberá inscribirse en el Registro Público de la Propiedad.
 
 Parte Segunda
 
 De los bienes propios
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 980.
 
-Cada propietario será dueño exclusivo de su piso, departamento, vivienda o local y condueño de los elementos y partes del edificio que sean necesarios o convenientes para la existencia, seguridad, comodidad de acceso, recreo, ornato, o cualquiera otro fin semejante.
+Cada condómino será dueño exclusivo de su edificio, departamento, piso, vivienda, casa, local, nave de un inmueble, lote de terreno o delimitado, y copropietario de los elementos que sean necesarios o convenientes para la existencia estructural, seguridad, comodidad de acceso, recreo, ornato o cualquier otro fin semejante dentro del edificio o dentro del condominio o conjunto condominal.
+
+Son condóminos las personas físicas o morales que sean titulares de los derechos sobre una propiedad exclusiva dentro del condominio o conjunto condominal en términos de este artículo.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 981.
 
-El propietario de un piso, departamento, vivienda o local, puede usar, gozar y disponer de él con las limitaciones y prohibiciones de este Código y con las demás que se establezcan en la escritura constitutiva del régimen y en el Reglamento de Condominio y Administración, mencionado en el artículo 974.
+El condómino puede usar, gozar y disponer de su propiedad exclusiva con las limitaciones y prohibiciones de este código y con las demás que se establezcan en la escritura constitutiva del régimen y en el reglamento mencionado en el artículo 974.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 982.
 
-Cada propietario podrá enajenar, hipotecar o gravar en cualquiera otra forma, su propiedad privativa sin necesidad del consentimiento de los demás. En la enajenación, gravamen o embargo de un piso, departamento, vivienda o local se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
+Cada condómino podrá enajenar, hipotecar o gravar en cualquiera otra forma, su propiedad exclusiva sin necesidad del consentimiento de los demás condóminos. En la enajenación, gravamen o embargo de la propiedad exclusiva se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 983.
 
-En caso de venta de un piso, departamento, vivienda o local que esté dado en arrendamiento, el inquilino de dicha parte privativa disfrutará del derecho del tanto. Los propietarios de los otros pisos, departamentos, viviendas o locales no disfrutarán de ese derecho.
+En caso de que una propiedad exclusiva se ponga en venta, los demás condóminos no disfrutarán del derecho al tanto.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 984.
 
-En caso de que un propietario deseare vender un piso, departamento, vivienda o local, lo notificará al inquilino por medio del administrador del edificio, de un notario, o judicialmente, con expresión del precio ofrecido y de las demás condiciones de la operación, a efecto de que dentro de los diez días siguientes el arrendatario manifieste si hace uso del derecho del tanto.
+Cuando existan vicios ocultos en la propiedad exclusiva, la acción del condómino para hacer valer sus derechos contra el vendedor prescribirá en cinco años contados a partir del momento en que entre en posesión física o jurídica de dicha propiedad.
 
 ###### Art. 985.
 
-Si el piso, departamento, vivienda o local se enajenare con infracción a lo dispuesto en el artículo anterior, el inquilino podrá subrogarse en el lugar del adquirente con las mismas condiciones estipuladas en el contrato de compraventa, siempre que haga uso del derecho de retracto, con exhibición del precio, dentro de los quince días siguientes al en que haya tenido conocimiento de la enajenación. Los notarios o quienes hagan sus veces se abstendrán de autorizar una escritura de compraventa de esta naturaleza si antes no se les comprueba que el vendedor ha respetado el derecho del tanto. En caso de que la notificación se haya hecho por conducto del administrador del edificio, éste deberá comprobar ante el notario, o quien haga sus veces, en forma indubitable el día y la hora en que notificó al inquilino.
+(DEROGADO, P.O. 16 DE JUNIO DE 2006)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 986.
 
-Cada propietario usará de su piso, departamento, vivienda o local en forma ordenada y tranquila. No podrá, en consecuencia, destinarlo a usos contrarios a la moral o a las buenas costumbres; ni hacerlo servir a otros objetos que los establecidos expresamente en la escritura constitutiva del régimen de condominio; y en caso de duda, a aquellos que deban presumirse conforme a la naturaleza del edificio y su ubicación; ni efectuar acto alguno que perturbe la tranquilidad de los demás propietarios o que comprometa la solidez, seguridad, salubridad o comodidad del edificio; ni incurrir en omisiones que produzcan los mismos resultados.
+Cada condómino usará de su propiedad exclusiva en forma ordenada y tranquila. No podrá, en consecuencia, destinarlo a usos contrarios a la moral o a las buenas costumbres; ni hacerlo servir a otros objetos que los establecidos expresamente en la escritura constitutiva del régimen de condominio o conjunto condominal y en el Reglamento de Funcionamiento y Administración respectivo; y en caso de duda, a aquellos que deban presumirse conforme a la naturaleza del inmueble y su ubicación; ni efectuar acto alguno que perturbe la tranquilidad de los demás propietarios a que comprometa total o parcialmente la solidez, seguridad, salubridad o comodidad del condominio o del conjunto condominal; ni incurrir en omisiones que produzcan los mismos resultados.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 987.
 
-Los dueños de los locales ubicados en la planta baja o en el último piso no tendrán más derecho que los restantes propietarios, y por lo mismo no podrán hacer excavaciones u otras obras en el subsuelo ni elevar nuevos pisos o realizar construcciones en la azotea. Salvo que lo establezca la escritura constitutiva del régimen de condominio o el Reglamento de Condominio y Administración ningún propietario podrá ocupar los vestíbulos, jardines, patios y otros lugares especiales de la planta baja, ni los sótanos, ni el subsuelo, ni tampoco ocupar la azotea o techo
+Los titulares de una propiedad exclusiva ubicados en la planta baja o en el último piso no tendrán más derecho que los restantes condóminos, y por lo mismo no podrán hacer excavaciones u otras obras en el subsuelo ni elevar nuevos pisos o realizar construcciones en la azotea. Salvo que lo establezca la escritura constitutiva del régimen de condominio o del conjunto condominal, o su Reglamento de Funcionamiento y Administración, ningún condómino podrá ocupar los vestíbulos, jardines, patios y otros lugares especiales de la planta baja, ni los sótanos, ni el subsuelo, ni tampoco ocupar la azotea o techo.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 988.
 
-Cada propietario podrá hacer toda clase de obras y reparaciones en el interior de su piso, departamento, vivienda o local, pero le estará prohibida toda innovación o modificación que afecte a la estructura, paredes maestras y otros elementos esenciales del edificio, o que pueda perjudicar a su solidez, seguridad, salubridad o comodidad. Tampoco podrá abrir luces o ventanas, ni pintar o decorar la fachada o las paredes exteriores en forma que desentone del conjunto o que perjudique a la estética general del edificio. En cuanto a los servicios comunes e instalaciones generales, deberá abstenerse de todo acto, aun en el interior de su propiedad, que impida o haga menos eficaz su operación.
+Cada condómino podrá hacer toda clase de obras y reparaciones en el interior de su propiedad exclusiva, pero le estará prohibida toda innovación o modificación que afecte a la estructura, paredes maestras y otros elementos esenciales del condominio, o que pueda perjudicar a su solidez, seguridad, salubridad o comodidad. Tampoco podrá abrir luces a ventanas, ni pintar o decorar la fachada o las paredes exteriores en forma que afecte el conjunto o que perjudique total o parcialmente a la estética general del condominio. En cuanto a los servicios comunes e instalaciones generales, el condómino deberá abstenerse de todo acto, aún en el interior de su propiedad, que impida o haga menos eficaz su operación.
 
-Los propietarios deberán permitir la realización de las obras o reparaciones generales del edificio, aun dentro de su propiedad.
+Los condóminos deberán permitir la realización de las obras o reparaciones generales en el condominio o conjunto condominal, aún dentro de su propiedad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 989.
 
-En las escrituras de enajenación de cada piso, departamento, vivienda o local se hará referencia a la escritura constitutiva del régimen que exige el artículo 974 de este Código, y al Apéndice de Documentos del Protocolo del notario que autorice, se agregará un ejemplar, firmado por los otorgantes, del Reglamento de Condominio y Administración del edificio. En los testimonios, podrá insertarse dicho Reglamento o bien se agregará a cada uno de ellos un ejemplar del mismo, certificado por notario.
+En las escrituras de enajenación de cada propiedad exclusiva, se hará referencia a la escritura constitutiva del régimen que exige el artículo 974 de este código, y al apéndice de documentos del protocolo del notario que autorice, se agregará un ejemplar, firmado por los otorgantes, del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal. En los testimonios, podrá insertarse dicho reglamento o bien se agregará a cada uno de ellos un ejemplar del mismo, certificado por notario.
 
 Asimismo, en estas escrituras el notario deberá tener a la vista y agregar al apéndice de su protocolo una certificación, expedida por el Administrador del edificio, en la que conste que el enajenante está al corriente en sus pagos por gastos comunes, o en su caso los adeudos que tenga por este concepto.
 
@@ -5511,17 +5675,23 @@ Asimismo, en estas escrituras el notario deberá tener a la vista y agregar al a
 
 Para que se inscriba en el Registro Público de la Propiedad la escritura de compraventa de un piso, departamento, vivienda o local, será necesario que la escritura constitutiva del régimen se haya inscrito previamente en el mencionado Registro.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 991.
 
-Cuando se hipoteque un edificio sujeto al régimen de condominio, para la seguridad de un crédito, se determinará por que porción del crédito responda cada local, y puede cada uno de ellos ser redimido del gravamen, pagándose la parte del crédito que garantiza. En ausencia de la determinación anterior se considerará que los distintos locales responden del crédito en la misma proporción que cada piso, departamento, vivienda o local represente en el valor total del edificio.
+Cuando se hipoteque un edificio, un conjunto de pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados, sujetos al régimen de condominio o al régimen de conjunto condominal, para la seguridad del crédito, se determinará en que porción del crédito responderá cada unidad privativa, pudiendo redimirse el gravamen de cada uno de ellos, mediante el pago de la parte del crédito que garantiza. En ausencia de la determinación anterior se considerará que las distintas unidades privativas responden del crédito en la misma proporción que cada edificio, departamento, piso, vivienda, casa, local, lote de terreno o terreno delimitado, represente sobre el valor total del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 992.
 
-Cuando un edificio hipotecado se someta al régimen de condominio se repartirá equitativamente el gravamen hipotecario entre los distintos locales. Al efecto se pondrán de acuerdo el dueño del edificio y el acreedor hipotecario, y si no se consiguiere ese acuerdo, la distribución del gravamen se hará por decisión judicial, previa audiencia de peritos.
+Cuando un edificio, o conjunto de departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados hipotecados se someta al régimen de condominio o régimen de conjunto condominal, se repartirá equitativamente el gravamen hipotecario entre las distintas partes privativas del condominio. Al efecto deberá existir acuerdo entre los condóminos y el acreedor hipotecario, y si no se consiguiere ese acuerdo, la distribución del gravamen se hará por decisión judicial, previa audiencia de peritos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 993.
 
-Cada uno de los propietarios responderá Solo del gravamen que corresponde a su local.
+Cada uno de los condóminos responderá sólo del gravamen que corresponde a su propiedad exclusiva.
 
 Parte Tercera
 
@@ -5565,83 +5735,129 @@ Los techopisos entre dos plantas del edificio y los muros u otras divisiones que
 
 Los bienes comunes no podrán ser objeto de acción divisoria, salvo en los casos previstos en el Capítulo Séptimo de esta Sección.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 998.
 
-Los derechos de cada condueño sobre los bienes de propiedad común son inseparables de su propiedad individual cuyo uso o goce permitan o faciliten, por lo que solo podrán enajenarse, gravarse o ser embargados, juntamente con el derecho de propiedad sobre su piso, departamento, vivienda o local.
+Los derechos de cada condómino sobre los bienes de propiedad común son inseparables de su propiedad individual cuyo uso o goce permitan o faciliten, por lo que sólo podrán enajenarse, gravarse o ser embargados, juntamente con su derecho de propiedad exclusiva.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 999.
 
-Aunque un condueño haga abandono de sus derechos sobre los bienes comunes o renuncie a usar determinadas partes de propiedad colectiva, continuará sujeto a las obligaciones que le impone este Código y las demás que se establezcan en la escritura constitutiva del régimen de condominio y en el Reglamento de Condominio y Administración.
+Aunque un condómino haga abandono de sus derechos sobre los bienes comunes o renuncie a usar determinadas partes de propiedad colectiva, continuará sujeto a las obligaciones que le impone este Código y las demás que se establezcan en la escritura constitutiva del régimen de condominio o conjunto condominal, y en su Reglamento de Funcionamiento y Administración.
 
-Los propietarios pueden liberarse de tales obligaciones mediante el abandono de su parte privativa.
+Los condóminos pueden liberarse de tales obligaciones mediante el abandono de su unidad privativa.
 
-En tal caso el abandono se entiende realizado en favor de los propietarios restantes, y el bien abandonado pertenecerá en copropiedad a éstos, en proporción al porcentaje que les corresponde en el valor total del edificio.
+En tal caso el abandono se entiende realizado en favor de los condóminos restantes, y el bien abandonado pertenecerá en copropiedad a éstos, en proporción al porcentaje que les corresponde en el valor total del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1000.
 
-Cada condueño podrá servirse de los bienes comunes y gozar de los servicios e instalaciones generales conforme a su naturaleza y destino ordinarios, sin restringir o hacer más oneroso el derecho de los demás.
+Cada condómino podrá servirse de los bienes comunes y gozar de los servicios e instalaciones generales conforme a su naturaleza y destino ordinarios, sin restringir o hacer más oneroso el derecho de los demás.
 
 ###### Art. 1001.
 
 Para las obras en los bienes comunes e instalaciones generales se observarán las siguientes reglas:
 
-I. Las obras necesarias para mantener el edificio en buen estado de conservación y para que los servicios funcionen normal y eficazmente se ejecutarán por el administrador sin necesidad de previo acuerdo de los propietarios, con cargo al presupuesto de gastos respectivos. Cuando éste no baste o sea preciso efectuar obras no previstas, el administrador convocará a la asamblea de propietarios a fin de que resuelva lo conveniente;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-II. Para emprender obras puramente voluntarias, que aun cuando se traduzcan en mejor aspecto o mayor comodidad no aumenten el valor del edificio, u obras que sin ser necesarias aumenten el valor del edificio se requerirá el voto aprobatorio de la totalidad de los propietarios;
+I. Las obras necesarias para mantener el condominio en buen estado de conservación y para que los servicios funcionen normal y eficazmente se ejecutarán por el administrador sin necesidad de previo acuerdo de los condóminos, con cargo al presupuesto de gastos respectivos. Cuando éste no baste o sea preciso efectuar obras no previstas, el administrador convocará a la asamblea de condóminos a fin de que resuelva lo conveniente;
 
-III. Los propietarios no podrán emprender ni realizar obra alguna en los bienes comunes e instalaciones generales, excepto las reparaciones o reposiciones urgentes, en caso de falta del administrador. En este último caso tendrán derecho a repetir de los demás el pago proporcional de los gastos hechos, mediante las justificaciones pertinentes;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-IV. Se prohiben las obras que puedan poner en peligro la solidez o seguridad del edificio, las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, o las que demeriten cualquier localidad privativa.
+II. Para emprender obras puramente voluntarias, que aun cuando se traduzcan en mejor aspecto o mayor comodidad no aumenten el valor del condominio u obras que sin ser necesarias aumenten el valor del edificio se requerirá el voto aprobatorio de la totalidad de los condóminos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III. Los condóminos no podrán emprender ni realizar obra alguna en los bienes comunes e instalaciones generales, excepto las reparaciones o reposiciones urgentes, en caso de falta del administrador. En este último caso tendrán derecho a repetir de los demás el pago proporcional de los gastos hechos, mediante las justificaciones pertinentes;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+IV. Se prohíbe la realización de obras que puedan poner en peligro la solidez o seguridad del condominio, las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, o las que demeriten cualquier localidad privativa.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1002.
 
-Cada propietario debe contribuir en proporción al valor de su piso, departamento, vivienda o local a los gastos de la administración, conservación y operación de los bienes y servicios comunes.
+Cada condómino debe contribuir en la proporción que represente su parte privativa en el valor del condominio, a los gastos de la administración, conservación y operación de los bienes y servicios comunes.
 
-En caso de que el edificio sujeto al régimen de condominio cause daños a terceros, los dueños de las distintas partes privativas responderán mancomunadamente, en proporción al valor que su local represente en el valor total del edificio, del pago de la responsabilidad civil que resulte.
+Para el caso de que incumplan los condóminos con la obligación señalada en el párrafo anterior, se podrá exigir el pago de conformidad a lo señalado en el Título Sexto, del Libro Segundo del Código de Procedimientos Civiles para el Estado de Guanajuato, en cuyo caso el demandado sólo podrá oponer las siguientes excepciones:
+
+I. Pago o compensación;
+
+II. Remisión o quita;
+
+III. Oferta de no cobro o de espera;
+
+IV. Cosa Juzgada;
+
+V. Las personales que pueda oponer el deudor.
+
+En caso de que las construcciones que forman el condominio, causen daños a terceros, los dueños de las distintas partes privativas responderán mancomunadamente, en proporción al valor que su unidad privativa represente en relación con el valor total del condominio y del monto del valor que resulte por concepto de responsabilidad civil.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1003.
 
-Tratándose de bienes comunes exclusivamente para algunos propietarios, como en el caso de los techopisos medianeros y las paredes u otras divisiones que tengan el mismo carácter, los gastos originados por dichos bienes serán por cuenta de los condueños respectivos.
+Tratándose de bienes comunes exclusivamente para algunos condóminos, como en el caso de los techos pisos medianeros y las paredes u otras divisiones que tengan el mismo carácter, los gastos originados por dichos bienes serán por cuenta de los condóminos respectivos.
 
-Los propietarios del último piso, o de los departamentos, viviendas o locales situados en él costearán les obras de los techos sólo en su parte interior; y los propietarios de la planta baja o departamento, viviendas o locales que formen parte de ella, las obras que necesiten los suelos o pavimentos, sólo en la parte que esté dentro de su propiedad.
+Los condóminos del último piso, o de los departamentos, viviendas o locales situados en él, costearán las obras de los techos solo en su parte interior; y los condóminos de la planta baja o departamento, viviendas o locales que formen parte de ella, las obras que necesiten los suelos o pavimentos, sólo en la parte que esté dentro de su propiedad.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1004.
 
-Cuando se trate de cosas o servicios que beneficien a los propietarios en proporciones diversas, los gastos podrán repartirse en relación con el uso que cada uno haga de aquellos.
+Cuando se trate de cosas o servicios que beneficien a los condóminos en proporciones diversas, los gastos podrán repartirse en relación con el uso que cada uno haga de aquéllos.
 
-Cuando un edificio conste de diferentes partes y comprenda obras o instalaciones, cualesquiera que sean destinadas a servir únicamente a una parte del conjunto, podrá establecerse en la escritura constitutiva del Régimen de Condominio o en el Reglamento de Condominio y Administración que los gastos especiales relativos serán a cargo del grupo de propietarios beneficiados. También en el caso de las escaleras, ascensores, montacargas y otros elementos, aparatos o instalaciones cuya utilización será variable por los propietarios podrán establecerse normas especiales para el reparto de los gastos.
+Cuando una construcción, conste de diferentes partes o comprenda obras o instalaciones, cualesquiera que sean, destinadas a servir únicamente a una parte del conjunto, podrá establecerse en la escritura constitutiva del régimen de condominio o de conjunto condominal o en su Reglamento de Funcionamiento y Administración, que los gastos especiales relativos serán a cargo del grupo de condóminos beneficiados. También en el caso de las escaleras, ascensores, montacargas y otros elementos, aparatos o instalaciones cuya utilización será variable por los condóminos, podrán establecerse normas especiales para el reparto de los gastos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1005.
 
-Cuando en el edificio existan vicios ocultos que afecten a los bienes comunes, y no sea posible obtener reparación o indemnización del vendedor, las obras necesarias para la reparación del inmueble serán por cuenta de todos los propietarios en la proporción que cada uno represente sobre el valor total del edificio.
+Cuando en el condominio existan vicios ocultos que afecten a los bienes comunes, y no sea posible obtener reparación o indemnización del vendedor, las obras necesarias para la reparación del inmueble serán por cuenta de todos los condóminos en la proporción del valor de los bienes privados que cada uno represente sobre el valor total del mismo condominio.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1006.
 
-Las cuotas para gastos comunes que los propietarios no cubran oportunamente, causarán intereses al tipo que fije el Reglamento de Condominio y Administración o los legales si éste es omiso.
+Las cuotas para gastos comunes que los condóminos no cubran oportunamente, causarán intereses al tipo que fije el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal, o los legales si éste es omiso.
 
-El acta de la asamblea en que se acuerde el pago de cuotas anticipadas o en la que se distribuyan los gastos ya efectuados, protocolizada ante notario público, servirá de título ejecutivo para exigirlos en juicio civil a los remisos. Para acreditar la liquidez y el plazo cumplido de la deuda bastará con el cotejo que practique y la certificación que expida el Juez, o un notario, de la partida deudora a cargo del remiso en la contabilidad que lleve la administración del edificio. La falsedad en los asientos que sirvan de base para el cotejo, se castigará penalmente con las sanciones establecidas para los delitos de fraude y falsificación.
+El acta de la asamblea en que se acuerde el pago de cuotas anticipadas o en la que se distribuyan los gastos ya efectuados, protocolizada ante notario público, servirá de título ejecutivo para exigirlos en juicio civil a los remisos. Para acreditar la liquidez y el plazo cumplido de la deuda bastará con el cotejo que practique y la certificación que expida el Juez, o un notario, de la partida deudora a cargo del remiso en la contabilidad que lleve la administración del condominio. La falsedad en los asientos que sirvan de base para el cotejo, se castigará penalmente con las sanciones establecidas para los delitos de fraude y falsificación.
 
-Los créditos por concepto de cuotas para los gastos comunes seguirán siempre al dominio de los respectivos pisos, departamentos, viviendas o locales, aun cuando se transmitan a terceros. En caso de concurso de acreedores los adeudos a que se refiere este artículo gozarán del privilegio establecido para los acreedores con garantía hipotecaria, debiendo ser pagados preferentemente con el importe de la venta de la localidad del deudor; cuando se trate de gastos motivados por las obras a que se refiere la fracción II del artículo 1001 de este Código, procederá el privilegio, siempre y cuando dichos gastos se encuentren acordados en resoluciones de asamblea celebrada con anterioridad al concurso.
+Los créditos por concepto de cuotas para los gastos comunes seguirán siempre al dominio de los respectivos edificios, departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados, aun cuando se transmitan a terceros. En caso de concurso de acreedores los adeudos a que se refiere este artículo gozarán del privilegio establecido para los acreedores con garantía hipotecaria, debiendo ser pagados preferentemente con el importe de la venta de la localidad del deudor; cuando se trate de gastos motivados por las obras a que se refiere la fracción II del artículo 1001 de este código, procederá el privilegio, siempre y cuando dichos gastos se encuentren acordados en resoluciones de asamblea celebrada con anterioridad al concurso.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
 
 Parte Cuarta
 
-Del reglamento de condominio y administración
+Del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1007.
 
-El Reglamento de Condominio y Administración determinará, en los casos en que la ley lo permita, los derechos y obligaciones de cada uno de los propietarios, las modalidades del funcionamiento de los servicios del inmueble y las limitaciones a que queda sujeto el ejercicio del derecho de usar tanto los bienes comunes como los propios.
+El Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal determinará, en los casos en que la ley lo permita, los derechos y obligaciones de cada uno de los condóminos, las modalidades del funcionamiento de los servicios del inmueble y las limitaciones a que queda sujeto el ejercicio del derecho de usar tanto los bienes comunes como los propios. La administración del condominio o del conjunto condominal se sujetará a las disposiciones del Reglamento de Funcionamiento y Administración y a los acuerdos de la asamblea de condóminos.
+
+Cuando se trate de desarrollo en condominio en lotes de terreno o en terrenos delimitados, el Reglamento de Funcionamiento y Administración del Condominio o Conjunto Condominal determinará las características generales y arquitectónicas del edificio, departamento, piso, vivienda, casa, local o nave de un inmueble que habrán de construirse sobre éstos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1008.
 
-Cualquier adquirente u ocupante de un local del edificio está obligado a sujetarse al Reglamento que ya exista.
+Cualquier adquirente u ocupante de una unidad privativa, del condominio, está obligado a sujetarse al Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal.
 
-En los contratos de arrendamiento, y en los documentos en los que conste cualquiera otro acto translativo de uso sobre una parte privativa, deberá incluirse la obligación de la persona a la que se le transmita el uso, de observar las disposiciones del Reglamento de Condominio y Administración del edificio, agregándose al documento un ejemplar, firmado por las partes, de dicho Reglamento.
+En los contratos de arrendamiento, y en los documentos en los que conste cualquiera otro acto traslativo de uso sobre una parte privativa, deberá incluirse la obligación de la persona a la que se le transmita el uso, de observar las disposiciones del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal. Al contrato de que se trate deberá anexarse un ejemplar del reglamento, firmado por las partes.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1009.
 
-El Reglamento de Condominio y Administración sólo podrá modificarse mediante acuerdo tomado en asamblea por una mayoría que represente cuando menos el setenta y cinco por ciento de los propietarios y además las tres cuartas partes del valor del edificio.
+El Reglamento de Funcionamiento y Administración, sólo podrá modificarse mediante acuerdo tomado en asamblea por una mayoría que represente cuando menos el setenta y cinco por ciento del valor del condominio.
 
-Los inconformes siempre que representen el veinticinco por ciento de los propietarios y la cuarta parte del valor del inmueble, pueden oponerse a la reforma del Reglamento, haciendo del conocimiento de la autoridad judicial sus razones dentro de los treinta días siguientes a la fecha de la asamblea.
+Los inconformes siempre que representen el veinticinco por ciento de los condóminos y la cuarta parte del valor del inmueble, pueden oponerse a la reforma del Reglamento de Funcionamiento y Administración, haciendo del conocimiento de la autoridad judicial sus razones dentro de los treinta días siguientes a la fecha de la asamblea.
 
 Parte Quinta
 
@@ -5651,9 +5867,11 @@ De la asamblea y del administrador
 
 La asamblea es la máxima autoridad del consorcio de propietarios. Constituida válidamente, sus resoluciones son de cumplimiento obligatorio, aún para los ausentes o disidentes, siempre que hubieren sido adoptadas por las mayorías exigidas en esta parte quinta.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1011.
 
-Las asambleas serán ordinarias o extraordinarias. Ordinarias son las que se ocupan de los asuntos enumerados en el artículo siguiente. Las demás serán extraordinarias. Salvo que el Reglamento de Condominio y Administración disponga otra cosa, las asambleas, tanto ordinarias como extraordinarias, deberán reunirse en el edificio sujeto al régimen de condominio.
+Las asambleas serán ordinarias o extraordinarias. Ordinarias son las que se ocupan de los asuntos enumerados en el artículo siguiente. Las demás serán extraordinarias. Salvo que el Reglamento de Funcionamiento y Administración disponga otra cosa, las asambleas, tanto ordinarias como extraordinarias, deberán reunirse en el domicilio del inmueble sujeto al régimen de condominio o de conjunto condominal.
 
 ###### Art. 1012.
 
@@ -5663,17 +5881,27 @@ La asamblea ordinaria se reunirá cuando menos una vez durante los primeros cuat
 
 El administrador hará la convocatoria para las asambleas la cual deberá contener la orden del día y la hora, fecha y lugar en que deban celebrarse.
 
-La convocatoria para las asambleas deberá hacerse por medio de la publicación de un aviso en el periódico oficial del Estado o en uno de los periódicos de mayor circulación en el lugar en donde se encuentre ubicado el edificio.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
-Tratándose de edificios divididos en menos de cincuenta unidades privativas la convocatoria podrá hacerse personalmente, recogiendo el administrador las firmas de los propietarios o sus representantes para constancia. En todo caso la convocatoria deberá fijarse en los tableros de la administración del edificio.
+La convocatoria para las asambleas deberá hacerse por medio de la publicación de un aviso en el Periódico Oficial del Gobierno del Estado o en uno de los periódicos de mayor circulación en el lugar en donde se encuentra ubicado el edificio, conjunto de viviendas o conjunto de lotes de terrenos.
 
-Cuando se trate de una asamblea ordinaria la convocatoria deberá estar acompañada de la rendición de cuentas del ejercicio vencido y el presupuesto para el ejercicio siguiente. Si dicha convocatoria se ha efectuado mediante publicaciones, deberá hacerse constar en ella que la rendición de cuentas del ejercicio vencido queda a disposición de los propietarios en la administración del edificio.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Tratándose de inmuebles divididos en menos de cincuenta unidades privativas la convocatoria podrá hacerse personalmente, recogiendo el administrador las firmas de los condóminos o sus representantes para constancia. En todo caso la convocatoria deberá fijarse en los tableros de la administración del inmueble.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Cuando se trate de una asamblea ordinaria la convocatoria deberá estar acompañada de la rendición de cuentas del ejercicio vencido y el presupuesto para el ejercicio siguiente. Si dicha convocatoria se ha efectuado mediante publicaciones, deberá hacerse constar en ella que la rendición de cuentas del ejercicio vencido queda a disposición de los condóminos en la administración del condominio.
 
 Entre la fecha de la publicación o notificación de la convocatoria a una asamblea, y el día señalado para ésta, deberán mediar por lo menos diez días. Este término podrá acortarse hasta tres días en los casos urgentes.
 
-Si el administrador no hace la convocatoria para una asamblea, cuando por disposición de la ley o del Reglamento de Condominio y Administración deba hacerla, cualquiera de los propietarios podrá requerirlo para ello, y si en el término de ocho días contados a partir de la fecha del requerimiento, el administrador no convoca a la asamblea este hecho motivará su remoción.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
-Los propietarios podrán convocar a asamblea extraordinaria sin intervención del administrador cuando representen, por lo menos, la décima parte del valor del edificio.
+Si el administrador no hace la convocatoria para una asamblea, cuando por disposición de la ley o del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal, deba hacerla, cualquiera de los condóminos podrá requerirlo para ello, y si en el término de ocho días contados a partir de la fecha del requerimiento, el administrador no convoca a la asamblea este hecho motivará su remoción.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Los condóminos podrán convocar a asamblea extraordinaria sin intervención del administrador cuando representen, por lo menos, la décima parte del valor del condominio.
 
 Art. 10014 (sic). Los propietarios podrán hacerse representar en las asambleas por mandatarios. El mandato especial para el efecto podrá conferirse en simple carta poder.
 
@@ -5683,31 +5911,43 @@ Para constituir la asamblea presidirá provisionalmente el propietario que repre
 
 Designado el presidente, la asamblea procederá a examinar si se halla legalmente constituida, y a continuación a desahogar la orden del día.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1016.
 
-Para que una asamblea se considere legalmente reunida en virtud de primera convocatoria, deberá estar representada en ella por lo menos el cincuenta y uno por ciento del valor del edificio y sus resoluciones serán válidas cuando se tomen por mayoría de votos de los presentes, a menos de que este capítulo o el Reglamento de Condominio y Administración establezcan para el caso un número de votos más elevado o la unanimidad.
+Para que una asamblea se considere legalmente reunida en virtud de primera convocatoria, deberá estar representada en ella por lo menos el cincuenta y uno por ciento del valor del condominio y sus resoluciones serán válidas cuando se tomen por mayoría de votos de los presentes, a menos de que este capítulo o el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal establezcan para el caso un número de votos más elevado o la unanimidad.
 
-Si las proporciones a que se refiere el párrafo precedente no se obtienen en la primera reunión, se hará una segunda convocatoria con expresión de tal circunstancia y las resoluciones se tomarán validamente por mayoría de votos de los presentes, cualquiera que sea la proporción del valor del edificio representada en la asamblea, salvo en los casos que este capítulo o el Reglamento de Condominio y Administración exijan una mayoría especial o bien la unanimidad.
+Si las proporciones a que se refiere el párrafo precedente no se obtienen en la primera reunión, se hará una segunda convocatoria con expresión de tal circunstancia y las resoluciones se tomarán validamente por mayoría de votos de los presentes, cualquiera que sea la proporción del valor del condominio, representada en la asamblea, salvo en los casos que este capítulo o el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal, exijan una mayoría especial o bien la unanimidad.
 
 ###### Art. 1017.
 
 Instalada legalmente una asamblea si no pudiere por falta de tiempo resolver todos los asuntos para los que hubiere sido convocada, podrá suspenderse la reunión para proseguirla en otro u otros días, sin necesidad de nueva convocatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1018.
 
-Cada propietario gozará de un número de votos igual al porcentaje que el valor de su local o departamento represente en el total del edificio.
+Cada condómino gozará de un número de votos igual al porcentaje que el valor de su propiedad exclusiva represente en el total del condominio.
 
-Cuando se trate de resoluciones relativas a los bienes comunes a que se refiere el artículo 996, sólo tendrán derecho a deliberación y votación los condueños que tengan derechos sobre ellos. En caso de que el administrador sea uno de los propietarios deberá abstenerse de participar en las deliberaciones o votaciones relativas a su gestión administrativa.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
-En caso de copropiedad de un local los copropietarios deberán nombrar un representante común para los efectos de la votación, aunque se permitirá la presencia de todos para que deliberen entre sí.
+Cuando se trate de resoluciones relativas a los bienes comunes a que se refiere el artículo 996, sólo tendrán derecho a deliberación y votación los condóminos que tengan derechos sobre ellos. En caso de que el administrador sea uno de los condóminos deberá abstenerse de participar en las deliberaciones o votaciones relativas a su gestión administrativa.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+En caso de copropiedad de una unidad privativa, los condóminos deberán nombrar un representante común para los efectos de la votación, aunque se permitirá la presencia de todos para que deliberen entre sí.
 
 Cuando el usufructo de un local pertenezca a una persona distinta del nudo propietario, ambos podrán concurrir a la asamblea, y en los asuntos relacionados exclusivamente con el uso o goce del local deberá votar el usufructuario.
 
 En todos los demás casos el voto corresponderá al nudo propietario.
 
-Cuando un sólo propietario represente más del cincuenta por ciento del valor del edificio y por lo mismo con su solo voto consiga mayoría, para adoptar una resolución será además necesario que el acuerdo se tome por mayoría de votos de los propietarios, computándose en este caso los votos por persona.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
-Las votaciones serán económicas, a menos de que cualquier propietario pida que sean nominales o por cédula.
+Cuando un sólo condómino represente más del cincuenta por ciento del valor del condominio, y por lo mismo con su solo voto consiga mayoría, para adoptar una resolución será además necesario que el acuerdo se tome por mayoría de votos de los condóminos, computándose en este caso los votos por persona.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Las votaciones serán económicas, a menos de que cualquier condómino pida que sean nominales o por cédula.
 
 ###### Art. 1019.
 
@@ -5715,47 +5955,67 @@ De las deliberaciones y resoluciones de la asamblea deberá el secretario levant
 
 I. El lugar, fecha y hora de la reunión y la orden del día propuesta;
 
-II. La lista de asistencia, en la que deberán figurar las firmas de los propietarios presentes o las de sus representantes, las cuales deberán ser puestas antes de comenzar la asamblea;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-III. El número de votos presentes o representados, apellido y nombre de los propietarios a quienes pertenecen y local respectivo;
+II. La lista de asistencia, en la que deberán figurar las firmas de los condóminos presentes o las de sus representantes, las cuales deberán ser puestas antes de comenzar la asamblea;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III. El número de votos presentes o representados, apellido y nombre de los condóminos a quienes pertenecen y unidad privativa respectiva;
 
 IV. Constitución de la asamblea, elección del presidente y declaración de validez de su constitución;
 
 V. Texto de las resoluciones adoptadas con expresión de los votos a favor y en contra;
 
-VI. Las declaraciones o reservas de que cualquiera de los propietarios quisiera dejar constancia.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VI. Las declaraciones o reservas de que cualquiera de los condóminos quisiera dejar constancia.
 
 El acta deberá quedar asentada en el libro respectivo y firmada al final del texto por quienes hayan fungido como presidente y secretario.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1020.
 
-El administrador enviará a los propietarios, cuando éstos lo soliciten, copia autorizada con su firma del acta de cualquiera de las asambleas celebradas
+El administrador enviará a los condóminos, cuando éstos lo soliciten, copia autorizada con su firma del acta de cualquiera de las asambleas celebradas.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1021.
 
-La asamblea de propietarios nombrará un administrador, quien podrá ser una persona física o moral asignándole su remuneración. El administrador podrá ser alguno de los propietarios o bien una persona extraña
+La asamblea de condóminos nombrará un administrador, quien podrá ser una persona física o moral asignándole su remuneración. El administrador podrá ser alguno de los condóminos o bien una persona extraña.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1022.
 
-La persona o personas que constituyan el régimen de condominio deberán nombrar el primer administrador del edificio, el cual durará en su encargo hasta en tanto no sea removido por la asamblea de propietarios. Este administrador deberá otorgar fianza por la cantidad que fije el constituyente del Régimen de Condominio, quien también deberá señalarle su remuneración.
+La persona o personas que constituyan el régimen de condominio o conjunto condominal deberán nombrar el primer administrador el cual durará en su encargo hasta en tanto no sea removido por la asamblea de condóminos. Este administrador deberá otorgar fianza por la cantidad que fije el constituyente del régimen de condominio o del conjunto condominal, quien también deberá señalarle su remuneración.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1023.
 
-El administrador para tomar posesión de su cargo deberá otorgar fianza por la cantidad que fije el Reglamento de Condominio y Administración o la Asamblea de Propietarios que lo nombre.
+El administrador para tomar posesión de su cargo deberá otorgar fianza por la cantidad que fije el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal o la asamblea de condóminos que lo nombre.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1024.
 
-El administrador durará en su encargo hasta en tanto no se nombre nuevo administrador y podrá ser removida libremente por el voto de la mayoría de los propietarios reunidos en asamblea en los términos establecidos en este Código.
+El administrador durará en su encargo hasta en tanto no se nombre nuevo administrador y podrá ser removido libremente por el voto de la mayoría de los condóminos reunidos en asamblea en los términos establecidos en este Código.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1025.
 
-El administrador será el representante legal de los propietarios en todos los asuntos comunes relacionados con el edificio, sea que se promuevan a nombre o en contra de ellos. Tendrá las facultades de representación propias de un apoderado para administrar bienes y para pleitos y cobranzas pero no las especiales o las que requieran cláusula especial conforme a la ley, salvo que se confieran por el Reglamento de Condominio y Administración o por la asamblea.
+El administrador será el representante legal de los condóminos en todos los asuntos comunes relacionados con el condominio, sea que se promuevan a nombre o en contra de ellos. Tendrá las facultades de representación propias de un apoderado para administrar bienes y para pleitos y cobranzas pero no las especiales o las que requieran cláusula especial conforme a la ley, salvo que se confieran por el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal o por la asamblea.
 
-El administrador, salvo que el Reglamento o la asamblea disponga otra cosa, tendrá facultades para delegar sus atribuciones en caso de pleitos y cobranzas y por lo mismo podrá otorgar libremente mandatos judiciales y revocarlos.
+El administrador, salvo que el Reglamento de Funcionamiento o Administración del Condominio o del Conjunto Condominal o la asamblea disponga otra cosa, tendrá facultades para delegar sus atribuciones en caso de pleitos y cobranzas y por lo mismo podrá otorgar libremente mandatos judiciales y revocarlos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1026.
 
-El administrador queda expresamente facultado para contratar y renovar en nombre de los propietarios el seguro a que se refiere el artículo 1034. En caso de siniestro parcial, el administrador en su carácter de representante de los propietarios recibirá la indemnización correspondiente, la cual deberá emplear, exclusivamente, en volver las cosas al estado que guardaban antes del siniestro.
+El administrador queda expresamente facultado para contratar y renovar en nombre de los condóminos el seguro a que se refiere el artículo 1034. En caso de siniestro parcial, el administrador en su carácter de representante de los condóminos recibirá la indemnización correspondiente, la cual deberá emplear, exclusivamente, en volver las cosas al estado que guardaban antes del siniestro.
 
 ###### Art. 1027.
 
@@ -5763,17 +6023,25 @@ Corresponderá al administrador:
 
 I. El cuidado y vigilancia de los bienes y servicios comunes: atención y operación de las instalaciones y servicios generales y la realización de todos los actos de administración y conservación;
 
-II. Velar por la observancia de las disposiciones de esta sección y las del Reglamento de Condominio y Administración;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
-III. Ejecutar los acuerdos de la asamblea de propietarios salvo que se designe a otra persona para el cumplimiento de algún acuerdo especial;
+II. Velar por la observancia de las disposiciones de esta sección y las del Reglamento de Funcionamiento o Administración del Condominio o del Conjunto Condominal;
 
-IV. Recaudar de los propietarios, lo que a cada uno corresponda en los gastos comunes y en general, exigirles el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III. Ejecutar los acuerdos de la asamblea de condóminos salvo que se designe a otra persona para el cumplimiento de algún acuerdo especial;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+IV. Recaudar de los condóminos lo que a cada uno corresponda en los gastos comunes y en general, exigirles el cumplimiento de sus obligaciones;
 
 V. Efectuar las obras a que se refiere la fracción I del artículo 1001;
 
 VI. Cuidar que se lleve, o llevar él mismo, una contabilidad detallada relativa al inmueble; y formular un inventario de los bienes muebles de propiedad común;
 
-VII. Las demás facultades y obligaciones que le fijen la Ley o Reglamento de Condominio y Administración.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+VII. Las demás facultades y obligaciones que le fijen la ley o el Reglamento de Funcionamiento o Administración del Condominio o del Conjunto Condominal.
 
 ###### Art. 1028.
 
@@ -5783,7 +6051,9 @@ I. El libro de actas de asamblea;
 
 II. Los libros de contabilidad;
 
-III. El libro de propietarios en el que deberá expresarse para cada local, el nombre, apellido y domicilio del propietario; la fecha de la escritura u otro título de adquisición, el nombre y número del notario o funcionarios autorizantes, los datos de inscripción en el Registro Público de la Propiedad y las demás menciones que juzgue pertinentes el administrador;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+III. El libro de condóminos en el que deberá expresarse para cada unidad privativa, el nombre, apellido y domicilio del condómino; la fecha de la escritura u otro título de adquisición, el nombre y número del notario o funcionarios autorizantes, los datos de inscripción en el Registro Público de la Propiedad y las demás menciones que juzgue pertinentes el administrador;
 
 IV. El libro de inventario de las cosas muebles de propiedad común.
 
@@ -5793,23 +6063,29 @@ Asimismo el administrador deberá conservar en depósito los títulos de propied
 
 El administrador tiene la obligación de cumplir con todas las obligaciones administrativas, federales o locales relativas al inmueble en su conjunto.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1030.
 
-Las medidas que tome y las disposiciones que dicte el administrador, dentro de sus facultades, serán obligatorias para todos los propietarios, a menos de que la asamblea las modifique o revoque.
+Las medidas que tome y las disposiciones que dicte el administrador, dentro de sus facultades, serán obligatorias para todos los condóminos, a menos de que la asamblea las modifique o revoque.
 
 Parte Sexta
 
 De las controversias
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1031.
 
-El propietario u ocupante que no cumpla con las obligaciones a su cargo será responsable de los daños y perjuicios que cause a los demás.
+El condómino u ocupante que no cumpla con las obligaciones a su cargo será responsable de los daños y perjuicios que cause a los demás.
 
-Sin perjuicio de lo anterior, si el infractor fuese un ocupante no propietario, el administrador deberá demandarle, llamando al juicio al propietario, la desocupación del piso, departamento, vivienda o local, previo acuerdo de las tres cuartas partes de los demás propietarios.
+Sin perjuicio de lo anterior, si el infractor fuese un ocupante no condómino, el administrador deberá demandarle, llamando a juicio al condómino, la desocupación del edificio, departamento, piso, vivienda, casa, local, nave de un inmueble, lote de terreno o terrenos delimitados, previo acuerdo de las tres cuartas partes de los demás condóminos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1032.
 
-El propietario que reiteradamente no cumpla con sus obligaciones podrá ser condenado judicialmente a vender sus derechos en pública subasta. Para el ejercicio de esta acción por el administrador, deberá preceder la resolución de las tres cuartas partes de los propietarios restantes.
+El condómino que reiteradamente no cumpla con sus obligaciones podrá ser condenado judicialmente a vender sus derechos en pública subasta. Para el ejercicio de esta acción por el administrador, deberá preceder la resolución de las tres cuartas partes de los condóminos restantes.
 
 ###### Art. 1033.
 
@@ -5819,27 +6095,35 @@ Parte Séptima
 
 Del seguro, destrucción, ruina y reconstrucción del edificio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1034.
 
-Todos los edificios sujetos al régimen de condominio que establece este título, deberán estar asegurados cuando menos contra los riesgos de terremoto, incendio y explosión. Las primas de este seguro deberán ser cubiertas por el administrador con cargo a la partida de gastos generales del edificio sin necesidad de previo acuerdo con los propietarios. Cualquiera de los condóminos puede compeler al administrador a tomar y mantener en vigor el seguro cuando éste no lo haga oportunamente.
+Todos los inmuebles construidos sujetos al régimen de condominio o conjunto condominal que establece este título, deberán estar asegurados cuando menos contra los riesgos de terremoto, incendio y explosión. Las primas de este seguro deberán ser cubiertas por el administrador con cargo a la partida de gastos generales del condominio sin necesidad de previo acuerdo con los condóminos. Cualquiera de los condóminos puede compeler al administrador a tomar y mantener en vigor el seguro cuando éste no lo haga oportunamente.
 
-Salvo que por unanimidad la asamblea de propietarios resuelva otra cosa, el importe del seguro deberá emplearse en volver las cosas al estado que guardaban antes de la realización del siniestro.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+Salvo que por unanimidad la asamblea de condóminos resuelva otra cosa, el importe del seguro deberá emplearse en volver las cosas al estado que guardaban antes de la realización del siniestro.
 
 En caso de que por cualquier motivo no pueda hacerse efectivo el seguro, o el importe de éste sea insuficiente, se estará a lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### Art. 1035.
 
-Si el edificio se destruyere en su totalidad o en una proporción que represente, cuando menos las tres cuartas partes de su valor, cualquiera de los propietarios podrá pedir la división del terreno y los bienes que aun quedaren, con arreglo a las disposiciones generales sobre copropiedad.
+Si el condominio se destruyere en su totalidad o en una proporción que represente, cuando menos las tres cuartas partes de su valor, cualquiera de los condóminos podrá pedir la división del terreno y los bienes que aún quedaren, con arreglo a las disposiciones generales sobre copropiedad.
 
-Si la destrucción no alcanza a la gravedad que se indica, la mayoría de los propietarios podrá resolver la reconstrucción.
+Si la destrucción no alcanza a la gravedad que se indica, la mayoría de los condóminos podrá resolver la reconstrucción.
 
-Los propietarios que queden en minoría estarán obligados a contribuir a la reconstrucción en la proporción que les corresponda, o a vender sus derechos a los mayoritarios, según valuación judicial.
+Los condóminos que queden en minoría estarán obligados a contribuir a la reconstrucción en la proporción que les corresponda, o a vender sus derechos a los mayoritarios, según valuación judicial.
 
-Las mismas reglas se observarán en caso de ruina o vetustez del edificio que hagan necesaria su demolición.
+Las mismas reglas se observarán en caso de ruina o vetustez de las construcciones del condominio que hagan necesaria su demolición.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Art. 1036.
 
-Cuando se trate de edificios que consten de varios cuerpos separados en su estructura y cimentación, y con accesos independientes a la vía pública y los daños no sean de igual magnitud en cada uno de ellos, las proporciones indicadas en el artículo anterior deberán considerarse aisladamente en cada cuerpo.
+Cuando se trate de condominios que consten de varios cuerpos separados en su estructura y cimentación, y con accesos independientes a la vía pública y los daños no sean de igual magnitud en cada uno de ellos, las proporciones indicadas en el artículo anterior deberán considerarse aisladamente en cada cuerpo.
 
 ## Título Quinto. De la posesión
 
@@ -5961,7 +6245,7 @@ Tiene derecho a que se le reembolsen los gastos necesarios.
 
 ###### Art. 1061.
 
-El que posee en concepto de dueño por un año o más, pacífica, continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
+El que posee en concepto de dueño por un año o más, pacífica, contínua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
 
 I. A las dos terceras partes de los frutos industriales que haga producir a la cosa poseída, perteneciendo la otra tercera parte al propietario, si reivindica la cosa antes de que prescriba;
 
@@ -6091,7 +6375,7 @@ En los casos en que las corporaciones no puedan legalmente adquirir, poseer o ad
 
 ###### Art. 1086.
 
-El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorías, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario o contra éste, siempre que en él se interese el usufructo.
+El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario o contra éste, siempre que en él se interese el usufructo.
 
 ###### Art. 1087.
 
@@ -6261,7 +6545,7 @@ El que por sucesión adquiere una parte del usufructo universal, pagará el lega
 
 ###### Art. 1126.
 
-El usutructuario particular de una finca hipotecada no está obligado a pagar las deudas para cuya seguridad se constituyó la hipoteca.
+El usufructuario particular de una finca hipotecada no está obligado a pagar las deudas para cuya seguridad se constituyó la hipoteca.
 
 ###### Art. 1127.
 
@@ -7095,17 +7379,21 @@ Los contratos celebrados a nombre de otro por quien no sea su legítimo represen
 
 Del consentimiento
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 1291.
 
-El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad debe manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Es expreso cuando la voluntad se manifiesta verbalmente, por escrito, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad debe manifestarse expresamente.
 
 ###### Art. 1292.
 
 Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 1293.
 
-Cuando la oferta se haga a una persona presente, sin fijación de plaza para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono o por otros medios de comunicación mediante los cuales pueda obtenerse respuesta inmediata.
+Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono, medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
 ###### Art. 1294.
 
@@ -7131,6 +7419,12 @@ El proponente quedará libre de su oferta cuando la respuesta que reciba no sea 
 
 La propuesta y aceptación hechas por telégrafo producen efectos si los originales de los respectivos telegramas contienen las firmas de los contratantes.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 1299-A.
+
+Tratándose de la propuesta y aceptación hechas por teléfono, telégrafo o a través de medios electrónicos, ópticos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzcan efectos.
+
 Vicios del consentimiento
 
 ###### Art. 1300.
@@ -7143,7 +7437,7 @@ El error de derecho no anula el contrato y el de hecho lo invalida cuando recae 
 
 ###### Art. 1302.
 
-El error de calculo sólo da lugar a que se rectifique.
+El error de cálculo sólo da lugar a que se rectifique.
 
 ###### Art. 1303.
 
@@ -7235,17 +7529,27 @@ En los contratos civiles cada uno se obliga en la manera y términos que aparezc
 
 Cuando la ley exija determinada forma para un contrato, mientras éste no revista esa forma no será válido, salvo disposición legal en contrario, pero cualquiera de los otorgantes puede exigir que se dé al contrato la forma legal.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 1321.
 
-Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas que en él intervinieron.
+Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego ante dos testigos y en el documento se imprimirá la huella digital del que no firmó.
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 1321-A.
+
+Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de dichos medios sea atribuible a las personas obligadas y accesibles para su ulterior consulta.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuye dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
 
 División de los contratos
 
 ###### Art. 1322.
 
-El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada .
+El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
 
 ###### Art. 1323.
 
@@ -7307,7 +7611,7 @@ En las obligaciones mancomunadas con cláusula penal, bastará la contravención
 
 ###### Art. 1337.
 
-En el caso de la mancomunidad por herencia, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria .
+En el caso de la mancomunidad por herencia, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
 
 ###### Art. 1338.
 
@@ -7421,6 +7725,12 @@ Los contratos que no están especialmente reglamentados en este Código, se regi
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la ley sobre los mismos.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 1357-A.
+
+Todo mensaje de datos se tendrá por expedido en el lugar donde el emisor tenga su domicilio legal y por recibido en el lugar donde el destinatario tenga el suyo, salvo prueba en contrario.
+
 ### Capítulo V. De las obligaciones que nacen de los actos ilícitos
 
 ###### Art. 1358.
@@ -7439,7 +7749,7 @@ El que en los términos del artículo anterior ejecutare el servicio pedido o ll
 
 Antes de que esté prestado el servicio o cumplida la condición, podrá el promitente revocar su oferta, siempre que la revocación se haga con la misma publicidad que el ofrecimiento.
 
-En este caso, el que pruebe que ha hecho erogaciones para prestar el servicio o cumplir la condición por la que se había ofrecido recompensa, tiene derecho a que se le reembolse .
+En este caso, el que pruebe que ha hecho erogaciones para prestar el servicio o cumplir la condición por la que se había ofrecido recompensa, tiene derecho a que se le reembolse.
 
 ###### Art. 1362.
 
@@ -8493,7 +8803,11 @@ Sin embargo, cuando la deuda tuviere una parte liquida y otra ilíquida, podrá 
 
 El pago se hará en el tiempo designado en el contrato, exceptuando aquellos casos en que la ley permita o prevenga expresamente otra cosa.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+La falta de pago puntual causará el interés legal del 6% anual, si al respecto no hubiere pacto entre las partes.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 En los casos a que se refiere el Artículo 1590 no incurrirá el deudor en mora, si dentro del término de diez días de ser exigible la obligación, efectúa el ofrecimiento del pago ante la autoridad judicial, con los requisitos que, para el pago, señala el artículo anterior.
 
@@ -8857,7 +9171,7 @@ En caso de enajenación de animales, ya sea que se enajenen individualmente, por
 
 ###### Art. 1647.
 
-La calificación de los vicios o defectos de la cosa enajenada se hará por peritos nombrados por las partes, y por un tercero que elegirá el Juez, en caso de discordia .
+La calificación de los vicios o defectos de la cosa enajenada se hará por peritos nombrados por las partes, y por un tercero que elegirá el Juez, en caso de discordia.
 
 ###### Art. 1648.
 
@@ -9337,7 +9651,7 @@ El comprador debe pagar el precio en los términos y plazos convenidos. A falta 
 
 ###### Art. 1749.
 
-El precio de frutos y cereales vendidos a plazo, a personas no comerciantes y para su consumo, no podrá exceder del mayor que esos géneros tuvieran en el Iugar, en el periodo corrido desde la entrega hasta el fin de la siguiente cosecha.
+El precio de frutos y cereales vendidos a plazo, a personas no comerciantes y para su consumo, no podrá exceder del mayor que esos géneros tuvieran en el lugar, en el periodo corrido desde la entrega hasta el fin de la siguiente cosecha.
 
 ###### Art. 1750.
 
@@ -9629,7 +9943,7 @@ El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los
 
 ###### Art. 1807.
 
-Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el Capítulo III Título Décimosegundo relativo a la compra de esperanza.
+Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el Capítulo III Título Decimosegundo relativo a la compra de esperanza.
 
 ###### Art. 1808.
 
@@ -9699,9 +10013,11 @@ Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por l
 
 No pueden adquirir en remate por sí, ni por interpósita persona, el Juez, secretario y demás empleados del juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente, ni los peritos que hayan valuado los bienes objeto del remate.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 1820.
 
-Por regla general, las ventas judiciales se harán en moneda efectiva y al contado; y cuando la cosa fuere inmueble, pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el Juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
+Por regla general, las ventas judiciales se harán en moneda efectiva y al contado; y cuando la cosa fuere inmueble, pasará al comprador libre de todo gravamen, por lo que el Juez bajo su responsabilidad, mandará hacer la cancelación o cancelaciones respectivas, excepto cuando exista estipulación expresa en contrario, en cuyo caso hará la reserva de derecho que corresponda, en los términos que disponga el Código de Procedimientos Civiles.
 
 ###### Art. 1821.
 
@@ -10043,23 +10359,23 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 1895.
 
-El interés legal será el 50% del Costo Porcentual Promedio (CPP Banxico) o cualquier otro índice o factor que para el mismo efecto fije el Banco de México. El interés convencional es el que fijen los contratantes, y que puede ser mayor o menor al interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal será el previsto en el artículo 1570 de este Código. El interés convencional es el que fijen los contratantes, y que puede ser mayor o menor al interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
 
-Para los efectos del párrafo anterior el interés legal se determinará atendiendo al promedio del CPP Banxico vigente en la fecha en que la obligación fue exigible y la fecha del cumplimiento de la misma.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 1896.
 
-Si en el caso a que se refiere el artículo anterior, el deudor demostrará que realmente su acreedor abusó de su estado de necesidad, de su ignorancia o inexperiencia, podrá pedir, si no optará por la reducción equitativa del interés, que se declare la nulidad absoluta del contrato, con efectos restitutorios, sirviendo como base para calcular el interés por el tiempo anterior a la declaratoria de nulidad, el que equitativamente fije el Juez, según las circunstancias del caso, el cual podrá ser reducido hasta el tipo del interés legal, si tales circunstancias lo ameritan.
+Si en el caso a que se refiere el artículo anterior, el deudor demostrara que realmente su acreedor abusó de su estado de necesidad, de su ignorancia o inexperiencia, podrá pedir, si no optara por la reducción equitativa del interés, que se declare la nulidad del pacto relativo a intereses desproporcionados, con efectos restitutorios, sirviendo como base para calcular el interés por el tiempo anterior a la declaratoria de nulidad, el que equitativamente fije el Juez, según las circunstancias del caso, el cual podrá ser reducido hasta el tipo del interés legal, si tales circunstancias lo ameritan.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 1897.
 
-Si se ha convenido un interés más alto que el 100% del Costo Porcentual Promedio, (CPP Banxico) el deudor en cualquier tiempo a partir de la fecha de celebración del contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor y pagando los intereses vencidos.
+Si se ha convenido un interés más alto que el interés legal, el deudor en cualquier tiempo a partir de la fecha de celebración del contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor y pagando los intereses vencidos.
 
 ###### Art. 1898.
 
@@ -11023,11 +11339,13 @@ II. Los Jueces, Magistrados y demás funcionarios y empleados de la administraci
 
 III. Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos distritos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2099.
 
-El mandato judicial será otorgado en escritura pública, o en escrito presentado y ratificado por el otorgante ante el juez de los autos. Si el juez no conoce al otorgante, exigirá testigos de identificación.
+El mandato judicial será otorgado en escritura pública, o en escrito presentado y ratificado por el otorgante ante el tribunal de los autos, o bien en comparecencia o diligencia ante dicho tribunal de manera verbal y directa. Desde el momento de la ratificación o de la designación del mandatario en comparecencia o diligencia, el mandato judicial surte todos sus efectos y el mandatario queda facultado para actuar en nombre y representación del otorgante sin necesidad de proveído judicial ulterior. Si el tribunal no conoce al otorgante, o bien si éste no se identifica debidamente, exigirá testigos para su identificación.
 
-La substitución del mandato judicial se hará en la misma forma que su otorgamiento
+La substitución del mandato judicial se hará en la misma forma que su otorgamiento.
 
 ###### Art. 2100.
 
@@ -11471,7 +11789,7 @@ El hospedaje expreso se rige por las condiciones estipuladas y el tácito por el
 
 Los equipajes de los pasajeros responden preferentemente del importe del hospedaje. A ese efecto, los dueños de los establecimientos donde se hospeden podrán retenerlos en prenda hasta que obtengan el pago de lo adeudado
 
-Título Décimoprimero
+Título Decimoprimero
 
 De las asociaciones y de las sociedades
 
@@ -12097,7 +12415,7 @@ Si el deudor adquiere bienes después del requerimiento, o si se descubren los q
 
 ###### Art. 2314.
 
-El acreedor puede obligar al fiador a que haga la excisión en los bienes del deudor.
+El acreedor puede obligar al fiador a que haga la escisión en los bienes del deudor.
 
 ###### Art. 2315.
 
@@ -12583,7 +12901,7 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 ###### Art. 2410.
 
-La hipoteca constituIda a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Registro Público.
+La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Registro Público.
 
 ###### Art. 2411.
 
@@ -12797,9 +13115,11 @@ Podrá haber transacción sobre las cantidades que ya sean debidas por alimentos
 
 El fiador sólo queda obligado por la transacción cuando consiente en ella.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2446.
 
-La transacción tiene, respecto de las partes, la misma eficacia y autoridad que la cosa juzgada; pero podrá pedirse la nulidad o la rescisión de aquélla en los casos autorizados por la ley para los contratos.
+La transacción respecto de las partes, se equiparará a sentencia ejecutoria, siempre y cuando se ratifique ante juez competente; pero podrá pedirse la nulidad o la rescisión de aquélla en los casos autorizados por la ley para los contratos.
 
 ###### Art. 2447.
 
@@ -12869,7 +13189,7 @@ La proposición de convenio se discutirá y pondrá a votación, formando resolu
 
 ###### Art. 2461.
 
-Dentro de los ocho días siguientes a la celebración de la junta en que se hubiere aprobado el convenio, los acreedores desidentes y los que no hubieren concurrido, a la junta podrán oponerse a la aprobación del mismo.
+Dentro de los ocho días siguientes a la celebración de la junta en que se hubiere aprobado el convenio, los acreedores dicidentes y los que no hubieren concurrido, a la junta podrán oponerse a la aprobación del mismo.
 
 ###### Art. 2462.
 
@@ -13099,6 +13419,12 @@ El registro será público. Los encargados de la oficina tienen la obligación d
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 2819.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 2494-A.
+
+En todos los casos comprendidos en el presente Capítulo, en los que se disponga que los Jueces o Magistrados deban hacer saber una comunicación, remitir oficios, certificaciones o cualquier otro documento a la Oficina del Registro Público, para efectos de anotaciones, cancelaciones o notas marginales, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga su firma electrónica certificada, para cumplimentar dichas disposiciones, y los funcionarios receptores deberán acusar el recibo electrónico correspondiente.
+
 ### Capítulo II. De la capacidad para testar
 
 ###### Art. 2495.
@@ -13195,9 +13521,9 @@ Para inscribir o anotar títulos por los que se declaren, transmitan, graven, mo
 
 En caso de resultar incristo (sic) o anotado ese derecho a favor de persona distinta de la que otorgue la transmisión o gravamen, los registradores denegarán la inscripción solicitada a menos que el acto se hubiere ordenado por resolución judicial, dictada con audiencia de la persona a cuyo nombre aparezca inscrito el inmueble.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1971)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá hacerse por resolución judicial especialmente razonada.
+Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá hacerse por resolución judicial especialmente razonada; excepto cuando se trate de parcelas sobre las que se adoptó dominio pleno o solares urbanos en los ejidos y comunidades.
 
 ### Capítulo III. De la capacidad para heredar
 
@@ -13287,9 +13613,9 @@ El registro producirá sus efectos desde el día y la hora en que el documento s
 
 Cuando vaya a otorgarse una escritura en la que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso preventivo deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la anotación marginal correspondiente, anotación que tendrá vigencia por un término de veinte días naturales a partir de la fecha de presentación de la solicitud.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público dentro de los cinco días hábiles siguientes, de no ser así quedará sin efectos y, contendrá además de los datos mencionados en el párrafo anterior, el número y la fecha de la escritura. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de veinte días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo, en caso contrario, solo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público dentro de los cinco días hábiles siguientes y contendrá además de los datos mencionados en el párrafo anterior, el número y la fecha de la escritura. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de veinte días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo, en caso contrario, solo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
@@ -13331,9 +13657,11 @@ El Reglamento especial establecerá los derechos y obligaciones de los Registrad
 
 Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2522.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+Las inscripciones pueden cancelarse por consentimiento de las partes, por caducidad, por decisión judicial o por cambio a inscripción definitiva.
 
 ###### Art. 2523.
 
@@ -13354,6 +13682,16 @@ IV. Cuando se declare la nulidad de la inscripción;
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1820;
 
 VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+VII. Cuando opere la caducidad de la inscripción.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 2524-A.
+
+Cancelada una inscripción o una anotación, se presumen extinguidos sus efectos.
 
 ###### Art. 2525.
 
@@ -13383,15 +13721,17 @@ Cuando se registre una sentencia que declare haber cesado los efectos de otra qu
 
 Los administradores de los bienes de los menores, incapacitados, ausentes o ignorados, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados en el caso de pago o por sentencia judicial.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2531.
 
-La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
+La cancelación de las inscripciones de hipotecas constituidas en garantía, puede hacerse:
 
-I. Presentándose la escritura otorgada por los que hayan cobrado los créditos en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
+I. Presentándose la escritura de cancelación otorgada por el acreedor hipotecario;
 
-II. Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
+II. Por resolución judicial; y
 
-III. Por ofrecimiento de pago y consignación del importe de los títulos hechos de acuerdo con las disposiciones relativas.
+III. Por caducidad.
 
 ###### Art. 2532.
 
@@ -13411,9 +13751,27 @@ Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, 
 
 Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios, a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa porque se hace la cancelación y su fecha.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2536.
 
-Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+Las inscripciones preventivas se cancelarán por caducidad cuando se extinga el derecho inscrito y cuando se conviertan en definitivas.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 2536-A.
+
+La inscripción para garantizar el cumplimiento de obligaciones o derechos, sujetos a plazo determinado, caducan en un término de tres años contados a partir de la fecha en que se extinguió el plazo concedido al deudor para su cumplimiento.
+
+En caso de que el documento que contenga obligaciones o derechos, no establezcan plazo, la inscripción caducará en un término de cinco años contados a partir de la fecha en que fue inscrito.
+
+A petición de parte en documento formal otorgado ante notario público, o por mandato de autoridad, podrá solicitarse la prórroga de la inscripción, para que se conserve la prelación registral, por un plazo de tres años cada vez que se requiera y antes de que caduque la existente.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 2536-B.
+
+La caducidad de la inscripción registral operará por el simple transcurso del tiempo y el registrador podrá hacer la cancelación de oficio, a petición de parte o de terceros.
 
 # LIBRO CUARTO. De las sucesiones
 
@@ -13935,6 +14293,8 @@ Toda disposición en favor de persona incierta o sobre cosa que no pueda identif
 
 ### Capítulo II. Del testamento público abierto
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2647.
 
 Cuando no haya disposiciones especiales, los legatarios se regirán por las mismas normas que los herederos.
@@ -14329,7 +14689,9 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
 
-### Capítulo IV. Del testamento ológrafo
+### Capítulo IV. Del testamento público simplificado
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2740.
 
@@ -14399,7 +14761,7 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## Título Tercero. De la forma de los testamentos
 
-### Capítulo V. Del testamento privado
+### Capítulo V. Del testamento ológrafo
 
 ###### Art. 2755.
 
@@ -14413,7 +14775,13 @@ I. Público abierto;
 
 II. Público cerrado; y
 
-III. Ológrafo.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+III. Público simplificado; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
+
+IV. Ológrafo.
 
 ###### Art. 2757.
 
@@ -14443,9 +14811,11 @@ V. Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o herma
 
 VI. Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2759.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, un intérprete nombrado por el mismo testador.
 
 ###### Art. 2760.
 
@@ -14481,49 +14851,71 @@ Lo dispuesto en el último Párrafo del Artículo que precede, se observará por
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez del domicilio del testador
 
-### Capítulo VI. Del testamento militar
+### Capítulo VI. Del testamento privado
 
 ###### Art. 2767.
 
-Testamento público abierto es el que se otorga ante notario y tres testigos idóneos
+Testamento público abierto es el que se otorga ante notario, de conformidad con las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2768.
 
-El testador expresará de un modo claro y terminante su voluntad al notario en presencia de los testigos. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2769.
 
-Si alguno de los testigos no supiere escribir, imprimirá su huella digital y firmará otro de ellos por él, pero cuando menos, deberán constar las firmas de dos testigos.
+En los casos previstos en los artículos 2770, 2772 y 2772-A de este Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
+
+Los testigos instrumentales a que se refiere este artículo podrán intervenir, además, como testigos de conocimiento.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2770.
 
-Si el testador no pudiere o no supiere escribir, imprimirá su huella digital e intervendrá otro testigo más, que firme a su ruego.
+Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
 
 ###### Art. 2771.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, podrá firmar por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P. O. DE JUNIO DE 2005)
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2772.
 
-El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea en su nombre.
+El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea en su nombre, pudiendo ser uno de los testigos llamados por el testador.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+
+###### Art. 2772-A.
+
+Cuando el testador sea ciego o no pueda o no sepa leer, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 2768, y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2773.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 2759. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto.
+Cuando el testador ignore el idioma del país, si puede, escribirá su testamento, que será traducido al español por un intérprete a que se refiere el artículo 2759. La traducción se transcribirá como testamento en el protocolo respectivo y el original firmado por el testador, el intérprete y el notario, se archivará en el apéndice correspondiente del notario que intervenga en el acto.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por el intérprete que debe concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido por el intérprete, se procederá como dispone el párrafo primero de este artículo.
+
+En este caso, el intérprete podrá intervenir, además, como testigo de conocimiento.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2774.
 
-Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
+Las formalidades expresadas en este capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquéllas.
 
 ###### Art. 2775.
 
 Faltando algunas de las referidas formalidades, quedará el testamento sin efecto; el notario será responsable de los daños y perjuicios y, según la gravedad del caso, podrá decretarse la pérdida del oficio.
 
-### Capítulo I. Disposiciones generales
+### Capítulo VII. Del testamento militar
 
 ###### Art. 2776.
 
@@ -14639,11 +15031,29 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 ###### Art. 2804.
 
-Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 2764 y 2765, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la sanción si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la pena que le corresponda conforme al Código Penal
+Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 2764 y 2765, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la sanción si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la pena que le corresponda conforme al Código Penal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2005)</small>
+
+### Capítulo I. Disposiciones generales
+
+###### Art. 2804-A.
+
+Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble cuando así lo determine el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble, de conformidad con lo siguiente:
+
+I. El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
+
+II. Si hubiere pluralidad de adquirentes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 2552 de este Código;
+
+III. Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+IV. Los legatarios podrán reclamar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 2951, 3009 y demás relativos de este Código;
+
+V. Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del Código de Procedimientos Civiles para el Estado de Guanajuato.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 10 DE JUNIO DE 2005)</small>
 
 ### Capítulo II. De la sucesión de los descendientes
-
-### Capítulo III. De la sucesión de los ascendientes
 
 ###### Art. 2805.
 
@@ -14709,7 +15119,9 @@ El testamento ológrafo quedará sin efecto cuando el original o el duplicado, e
 
 El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los Jueces competentes que oficialmente se los pidan.
 
-### Capítulo IV. De la sucesión del cónyuge
+> <small>(REFORMADA SU NUMERACION, P.O. 10 DE JUNIO DE 2005)</small>
+
+### Capítulo III. De la sucesión de los ascendientes
 
 ###### Art. 2820.
 
@@ -14787,7 +15199,9 @@ Lo dispuesto en el artículo anterior se observará también en el caso de ausen
 
 Sabiéndose el lugar donde se encuentren los testigos, serán examinados por exhorto.
 
-### Capítulo V. De la sucesión de los colaterales
+> <small>(REFORMADA SU NUMERACION, P.O. 10 DE JUNIO DE 2005)</small>
+
+### Capítulo IV. De la sucesión del cónyuge
 
 ###### Art. 2834.
 
@@ -14807,9 +15221,7 @@ Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de �
 
 ## Título Cuarto. De la sucesión legítima
 
-### Capítulo VI. De la sucesión de la concubina
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+### Capítulo V. De la sucesión de los colaterales
 
 ###### Art. 2838.
 
@@ -14859,9 +15271,9 @@ Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título Sexto, Libro Primero.
 
-### Capítulo VII. De la sucesión de la Universidad de Guanajuato
+### Capítulo VI. De la sucesión de la concubina
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 2846.
 
@@ -14895,7 +15307,9 @@ Concurriendo padres y adoptantes y descendientes del adoptado, los primeros sól
 
 Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
-### Capítulo I. De las precauciones que deben adoptarse cuando la viuda quede encinta
+### Capítulo VII. De la sucesión de la Universidad de Guanajuato
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
 
 ###### Art. 2854.
 
@@ -14935,7 +15349,7 @@ Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus d
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### Capítulo II. De la apertura y transmisión de la herencia
+### Capítulo I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
 ###### Art. 2863.
 
@@ -14957,7 +15371,7 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### Capítulo III. De la aceptación y de la repudiación de la herencia
+### Capítulo II. De la apertura y transmisión de la herencia
 
 ###### Art. 2868.
 
@@ -14981,13 +15395,13 @@ A falta de los llamados en los artículos anteriores sucederán los parientes m�
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el capítulo siguiente.
 
-### Capítulo IV. De los albaceas
+### Capítulo III. De la aceptación y de la repudiación de la herencia
 
 ###### Art. 2873.
 
 La mujer o el varón con quien el autor de la herencia vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar igual que un cónyuge supérstite.
 
-### Capítulo V. Del inventario y de la liquidación de la herencia
+### Capítulo IV. De los albaceas
 
 ###### Art. 2874.
 
@@ -15001,7 +15415,7 @@ En las sucesiones en que la Universidad de Guanajuato sea heredera se le adjudic
 
 ## Título Quinto. Disposiciones comunes a las sucesiones testamentaria y legítima
 
-### Capítulo VI. De la partición
+### Capítulo V. Del inventario y de la liquidación de la herencia
 
 ###### Art. 2876.
 
@@ -15049,7 +15463,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, más los acreedores podrán ser pagados por mandato judicial.
 
-### Capítulo VII. De los efectos de la partición
+### Capítulo VI. De la partición
 
 ###### Art. 2887.
 
@@ -15073,7 +15487,7 @@ La acptación (sic) expresa o tácita de la herencia o del legado interrumpen el
 
 El derecho de reclamar la herencia en los casos en que suceda la Universidad de Guanajuato, prescribe en el término de dos años, contados a partir de la muerte del autor de la sucesión.
 
-### Capítulo VIII. De la rescisión y nulidad de las particiones
+### Capítulo VII. De los efectos de la partición
 
 ###### Art. 2891.
 
@@ -15180,6 +15594,8 @@ El que a instancias de un legatario o acreedor hereditario haya sido declarado h
 ###### Art. 2916.
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda la herencia se entiende aceptada a beneficio del inventario, aunque no se exprese.
+
+### Capítulo VIII. De la rescisión y nulidad de las particiones
 
 ###### Art. 2917.
 
@@ -15811,7 +16227,7 @@ D.S.
 
 Lic. Sacramento Silva García.
 
-D.S
+D.S.
 
 Dip. Lic. Arturo Valdés Sánchez.
 
@@ -16007,7 +16423,7 @@ P.O. 30 DE JULIO DE 1996.
 
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor a los sesenta día siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -16076,3 +16492,15 @@ Se deroga el artículo 1418 del Código Civil para el Estado de Guanajuato.
 ###### ARTÍCULO QUINTO.
 
 Se deroga el segundo párrafo del artículo 7 de la Ley Orgánica Municipal para el Estado de Guanajuato.
+
+P.O. 10 DE JUNIO DE 2005.
+
+Artículo Primero. Este decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Para los efectos del artículo 2536-A y en el caso de las inscripciones que se hayan presentado ante el Registro Público de la Propiedad con anterioridad a la entrada en vigor de esta reforma, la caducidad de la inscripción operará a los quince días siguientes contados a partir del término que conceda la ley para la prescripción de la acción de la obligación tutelada.
+
+P.O. 16 DE JUNIO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se deroga cualquier disposición que se oponga al presente Decreto.
