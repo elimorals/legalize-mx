@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-16140"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2000-07-21"
+last_updated: "2006-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -401,9 +401,11 @@ Será obligación del comité emitir el dictamen sobre la adjudicación de la li
 
 Invariablemente, el dictamen o fallo beneficiará al licitante que haya cumplido con todos los requisitos de la convocatoria, presente las mejores condiciones en cuanto a las especificaciones requeridas en las bases y el cumplimiento de las obligaciones respectivas.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 40.
 
-En los casos que resultare que dos o más proposiciones cumplen en igualdad de circunstancias con todos los requisitos, el pedido o contrato se ofrecerá adjudicar a los licitantes en partes proporcionales, de no aceptarlo estos últimos, el comité lo podrá adjudicar a quien éste lo determine.
+En los casos que resultare que dos o más proposiciones cumplen en igualdad de circunstancias con todos los requisitos, las condiciones de cantidad o calidad y cualquier otro requisito establecido en las bases de la licitación, siendo la única variación el precio se ofrecerá adjudicar el pedido o contrato a aquel licitante que tuviera su domicilio fiscal en el Estado de Querétaro, otorgándole a su favor un diferencial en este rubro hasta de 5 por ciento en relación a los licitantes que no cumplan con esta característica. Si todos tuvieren su domicilio en el Estado o si ninguno lo tuviere, el pedido o contrato se ofrecerá adjudicar a los licitantes en partes proporcionales, de no aceptarlo estos últimos, el comité lo podrá adjudicar a quien éste lo determine.
 
 ### CAPITULO SEXTO. DE LA CONTRATACIÓN
 
@@ -413,7 +415,9 @@ Los contratos que se celebren conforme a esta ley contendrán como formalidad m�
 
 I. Personalidad de las partes, incluyendo el objeto y monto del contrato, así como las referencias presupuestales con base en las cuales se cubrirá el compromiso derivado del mismo;
 
-II. La fecha y lugar de entrega del bien contratado;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+
+II. La fecha, lugar y condiciones de entrega del bien o servicio contratado;
 
 III. El plazo, forma o lugar de pago, incluyendo el porcentaje de anticipo que en su caso se otorgará;
 
@@ -948,3 +952,9 @@ La presente Ley entrará en vigencia a partir del día de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 16 DE JUNIO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
