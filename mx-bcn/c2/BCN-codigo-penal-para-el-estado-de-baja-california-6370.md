@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-05-19"
+last_updated: "2006-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1231,7 +1231,7 @@ Suspensión por participación,- Si en el infanticidio tomare participación un 
 
 ###### Artículo 131.
 
-Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión. Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
+Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión, Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
 
 Si la persona a quien se instiga o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, la pena aplicable será la correspondiente al homicidio calificado.
 
@@ -1991,9 +1991,13 @@ IV.- Cuando el huésped o comenzal (sic) o alguna de su familia o de los criados
 
 V.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquiera otra persona;
 
-VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y,
+VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y, (sic)
 
-VII.- Cuando se cometan por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprenda, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado.
+VII.- Cuando se cometan por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprenda, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2006)</small>
+
+VIII.- Cuando se cometa en contra de bienes afectados a la prestación de un servicio público Estatal o Municipal.
 
 > <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -2123,7 +2127,7 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 ###### Artículo 216.
 
-Abuso por retención.- Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no lo entrega a la autoridad para que ésta disponga de la misma conforme a la Ley.
+Abuso por retención.- Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entrega a la autoridad para que ésta disponga de la misma conforme a la Ley.
 
 ###### Artículo 217.
 
@@ -3960,5 +3964,9 @@ DECRETO No. 189
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 19 DE MAYO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE JUNIO DE 2006.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
