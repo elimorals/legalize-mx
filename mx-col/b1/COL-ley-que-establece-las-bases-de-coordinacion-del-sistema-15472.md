@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-bases-de-coordinacion-del-sistema-15472"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-18"
-last_updated: "1996-05-18"
+last_updated: "2006-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS BASES DE COORDINACION DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 18 de mayo de 1996.
 
@@ -416,3 +418,21 @@ Dado en el Recinto Oficial del Poder Legislativo a los nueve días del mes de Ma
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los catorce días del mes de mayo de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN. Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley que establece las Bases de Coordinación del Sistema Estatal de Seguridad Pública, aprobada mediante Decreto 179 de fecha 9 de mayo de 1996 y publicada en el periódico oficial "El Estado de Colima" el 18 de mayo de 1996.
+
+TERCERO.- Se abroga la Ley de Policía Preventiva del Estado de Colima, aprobada mediante Decreto 222 de fecha 12 de septiembre de 1996 y publicada en el periódico oficial "El Estado de Colima" el 28 de septiembre de 1996.
+
+CUARTO.- En tanto se expidan los reglamentos previstos en esta Ley, seguirán vigentes las disposiciones que regulan la integración y operación del Sistema Estatal de seguridad Pública, en tanto no se opongan a la presente ley.
+
+QUINTO.- El Ejecutivo del Estado dispondrá máximo de un año, a partir de la entrada en vigor de esta Ley, a fin de que expida la Reglamentación correspondiente de esta Ley.
+
+SEXTO.- En el caso del Municipio de Colima, en tanto el Ayuntamiento asuma el servicio de Seguridad Pública Municipal, este se seguirá presentando por el Gobierno del Estado por conducto de la Policía Estatal Preventiva.
+
+SÉPTIMO.- Los Ayuntamientos del Estado, dispondrán del mismo plazo que el artículo quinto transitorio para los mismos fines en el ámbito de su competencia.
