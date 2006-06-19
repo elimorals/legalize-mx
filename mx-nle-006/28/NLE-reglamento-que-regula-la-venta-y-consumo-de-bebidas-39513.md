@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-la-venta-y-consumo-de-bebidas-39513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-05"
-last_updated: "2004-04-05"
+last_updated: "2006-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE APODACA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de abril de 2004.
 
@@ -47,71 +47,153 @@ Las disposiciones del presente reglamento, son de orden público e interés soci
 
 La venta de bebidas alcohólicas, solo podrá realizarse en los establecimientos o lugares que señala este reglamento, previa autorización de la autoridad correspondiente, mediante la licencia o permiso respectivo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 19 DE JUNIO DE 2006, EL PRESENTE ARTICULO ES MODIFICADO EN CUANTO A SU ESTRUCTURA, SIN EMBARGO EN LA PAGINA ELECTRONICA WWW.E-APODACA.GOB.MX APARECE UN TEXTO DIFERENTE AL PUBLICADO EN EL DECRETO, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2006)</small>
+
 ###### Artículo 3.
 
 Para los efectos de este reglamento, se entenderá por:
 
-Barra libre: La venta, expendio u ofrecimiento ilimitado o excesivo de bebidas alcohólicas que se ofrecen en un establecimiento, en forma gratuita o mediante el cobro de una determinada cantidad de dinero, exigible por el ingreso al establecimiento o ya dentro de este mismo. También se considerará barra libre la venta de bebidas alcohólicas a un precio menor al equivalente al cincuenta por ciento de su valor comercial promedio;
+I. ALMACENAJE: Es el acopio de bebidas alcohólicas, que se realiza para su posterior distribución al mayoreo o al menudeo para su venta, expendio y/o consumo.
 
-Bebida adulterada: Es aquella bebida alcohólica cuya naturaleza o composición no corresponde a las que describa su etiqueta, anuncio, expendio, suministro, o cuando no coincida con las especificaciones de su autorización, o haya sufrido cualesquier tipo de tratamiento que disimule su alteración, o encubra defectos en su proceso, o en la calidad sanitaria de las materias primas utilizadas;
+II. BARRA LIBRE: Venta, expendio u ofrecimiento ilimitado o excesivo de bebidas alcohólicas que se ofrecen en un establecimiento, en forma gratuita o mediante el cobro de una determinada cantidad de dinero, exigible por el ingreso al establecimiento o ya dentro de este mismo. También se considerará como barra libre la venta de bebidas alcohólicas en un establecimiento a un precio menor al equivalente al cincuenta por ciento de su valor comercial promedio.
 
-Bebida alcohólica: Aquélla que contenga alcohol etílico en una proporción de dos por ciento y hasta cincuenta y cinco por ciento en volumen. Cualquier otra bebida que tengan (sic) proporción mayor no podrá comercializarse para consumo humano;
+III. BEBIDAS ALCOHÓLICAS: Todos los líquidos potables de consumo humano que contengan conforme a las Normas oficiales mexicanas cualquier grado del 2% y hasta el 55% en volumen de alcohol etílico, con cualquier combinación de liquido o sustancia. Cualquier otra bebida que incluya una proporción mayor no podrá comercializarse. Las cuales pueden ser: (sic)
 
-Bebida alterada: Bebida alcohólica cuyo contenido o materia prima por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzca su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos;
+IV. BEBIDAS PREPARADAS Y/O TROPICALES: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras.
 
-Bebida contaminada: Bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los limites permisibles establecidos por la Secretaría;
+V. CERVEZA: La bebida fermentada, elaborada con malta, cebada, lúpulo y agua potable, con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjunto de malta, con adición de lúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2 y 6 grados en la escala GAY LUSSAC.
 
-Bebida preparada: Es toda bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí, o combinadas con bebidas no alcohólicas, con agua, jugos, refrescos u otros;
+VI. VINOS DE MESA: Bebidas alcohólicas obtenidas de la fermentación alcohólica completa o parcial, de los mostos de uva en contacto o no de sus orujos.
 
-Control sanitario: Conjunto de acciones de orientación, educación, muestreo, o verificación y en su caso, la aplicación de medidas de seguridad y sanciones que ejerce el Municipio con el propósito de vigilar y garantizar el cumplimiento de esta y otras leyes por parte de las personas físicas y morales que realicen las actividades a que se refiere la misma;
+VII. d) (sic) LICORES: Bebidas alcohólicas obtenidas por la fermentación de jugos diferentes al procedente del jugo de la uva.
 
-Cuota: Salario mínimo diario general vigente en el área geográfica B, según la Comisión Nacional de los Salarios Mínimos;
+VIII. BEBIDA ADULTERADA: Bebida alcohólica cuya naturaleza o composición no corresponda a aquéllas con que se etiquete, anuncie, expenda, suministre o cuando no coincida con las especificaciones de su autorización o haya sufrido tratamiento que disimule su alteración, se encubran sus defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
 
-Dueño de Establecimiento: El propietario, la persona física o moral a nombre de la cual se encuentre la licencia de operación o por quien asuma esa responsabilidad con motivo de la operación y explotación del establecimiento en donde se haya servido o vendido bebidas alcohólicas o aquellas que contengan una mayor proporción de alcohol al permitido por la Ley a la persona que causo el daño;
+IX. BEBIDA ALTERADA: Bebida alcohólica cuyo contenido o materia prima por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzcan su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de la misma.
 
-Establecimiento: Negocio en el que se expenden o se consumen bebidas alcohólicas, ya sea en envase cerrado o abierto, o al copeo;
+X. BEBIDA CONTAMINADA: Bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salud del Estado.
 
-Establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos: aquellos en las que el producto de las ventas de bebidas alcohólicas no exceda del cuarenta por ciento de sus ingresos totales;
+XI. BOTELLA Y/O ENVASE CERRADO: Envase de origen de las bebidas alcohólicas que se conserva desde su fabricación y no sufre ninguna alteración en su contenido y forma original hasta venderse o servirse al consumidor final.
 
-Estado de ebriedad: Condición física y mental ocasionada por la ingesta de alcohol etílico, que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en cualquier otro sistema de medición;
+XII. CLAUSURA: Sanción mediante la cual la Autoridad cierra, total o parcialmente un establecimiento por cualquier violación al Reglamento, mediante sellos o símbolos de clausura.
 
-Estado de inaptitud (sic) para conducir: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y0.3 (sic) gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición;
+La clausura de un establecimiento puede ser:
 
-Evidente Estado de Ebriedad: Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se pueda apreciar que la conducta o la condición física de una persona presenta alteraciones de la coordinación., en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico;
+a) TEMPORAL.- Cuando es cerrado un establecimiento por un tiempo determinado hasta por 30 días naturales.
 
-Ley de Alcoholes: Ley Estatal de Prevención y Combate al Abuso del Alcohol;
+b) PARCIAL.- Cuando es cerrada parte de sus instalaciones.
 
-Ley de Salud: legislación vigente en el Estado en materia de salud;
+c) DEFINITIVA.- Cuando es cerrado y no se le permitirá abrir nuevamente.
 
-Licencia: la autorización escrita que emite el R. Ayuntamiento, para que opere cualquier tipo de expendio en el Municipio;
+XIII. CONTROL SANITARIO: Conjunto de acciones de orientación, educación, muestreo , o verificación y en su caso la aplicación de medidas de seguridad y sanciones que ejerce el Municipio con el propósito de vigilar y garantizar el cumplimiento de este y otras leyes por parte de las personas físicas y morales que realicen las actividades a que se refiere la misma.
 
-Permiso: la autorización escrita que emite el Presidente Municipal, o el Secretario del R. Ayuntamiento, para que una persona física o moral pueda expender bebidas alcohólicas en forma eventual;
+XIV. CORREDOR URBANO: Término que designa a las calles o Avenidas de la Ciudad en función de la combinación de usos de suelo que se permite autorizar en ellos, según lo establecido en la Matriz de Compatibilidad.
 
-Prevención: Conjunto de acciones dirigidas a evitar, o reducir el abuso en el consumo de bebidas alcohólicas;
+XV. CUOTA: Salario mínimo diario general vigente en la zona geográfica B, según la Comisión Nacional de los Salarios Mínimos.
 
-Refrendo: Acto administrativo que realiza la autoridad Municipal cada año, de la licencia para que siga operando el establecimiento;
+XVI. DISTRIBUCIÓN: Es el acto mediante el cual se surte de bebidas alcohólicas, para su venta, expendio en envase abierto o cerrado al consumidor final.
 
-Reglamento: el presente ordenamiento;
+XVII. DISTRIBUIDOR CLANDESTINO: Persona física o moral que distribuye, almacena y/o comercializa bebidas alcohólicas al mayoreo y/o al menudeo sin contar con permiso o autorización del R. Ayuntamiento.
 
-Regularización: es el procedimiento que (sic) por el cual los titulares de licencias expedidas con anterioridad pueden corregir su funcionamiento en lo que toca al titular de la licencia, y domicilio o giro del establecimiento.
+XVIII. DUEÑO DE ESTABLECIMIENTO: El propietario, la persona física o moral a nombre del cual se encuentre la licencia de operación o por quien asuma la responsabilidad con motivo de la operación y explotación del establecimiento en donde se haya servido o vendido bebidas alcohólicas o aquellas que contenga (sic) una mayor proporción de alcohol al permitido por la Ley a la persona que causo el daño.
 
-Reincidencia: cuando el infractor cometa la misma violación a las disposiciones de este reglamento dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
+XIX. ESTABLECIMIENTO CLANDESTINO: Todo lugar donde se almacenen y/o vendan bebidas alcohólicas y que no cuenten con el permiso debidamente autorizado por el R. Ayuntamiento.
 
-Salud pública: el conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar y prolongar la vida humana, mismas que complementan los servicios de atención médica y asistencia social. Estas acciones comprenden, entre otras, la prevención y control de enfermedades y accidentes; la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud; la investigación para la salud y la información relativa para las condiciones, recursos y servicios de salud del Estado;
+XX. ENVASE ABIERTO O AL COPEO: Apertura que sufren en su envase de origen las bebidas alcohólicas solo para ser consumidas en los establecimientos que cuentan con autorización para tal efecto.
 
-Secretaría: Secretaría de Salud del Estado;
+XXI. ESPECTÁCULO MASIVO: Evento o acto con fines de esparcimiento, cuya expectativa de asistencia es superior a 500-quinientas personas.
 
-Sistemas de venta, consumo o expendio con descuento en precio: Es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan vender o consumir bebidas alcohólicas, sin costo, con artículo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y
+XXII. ESCALA: Los contenidos alcohólicos se entenderán referidos a las proporciones de la escala GAY LUSSAC.
 
-Tratamiento: conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
+XXIII. ESTADO DE EBRIEDAD: Condición física y mental condicionada por la ingesta de alcohol etílico, que se presenta en una persona cuando su organismo contiene 1.5 o mas gramos de alcohol por litro de sangre o su equivalente en cualquier otro sistema de medición.
+
+XXIV. ESTADO DE INAPTITUD (SIC) PARA CONDUCIR: Condición física y mental ocasionada por la ingesta de alcohol etílico, que se presenta en una persona cuando su organismo contiene 0.8 o mas gramos de alcohol por litro de sangre y 0.3 gramos de alcohol por litro de sangre tratándose de conductores de servicio publico de transporte; o en ambos casos, su equivalente en algún otro sistema de medición.
+
+XXV. ESTABLECIMIENTO: Negocio en el que se expendan o se consuman bebidas alcohólicas, ya sea en envase cerrado o abierto, o al copeo.
+
+XXVI. ESTABLECIMIENTOS CUYA ACTIVIDAD PREPONDERANTE SEA LA PREPARACIÓN, EXPENDIO, VENTA Y CONSUMO DE ALIENTOS: Aquellos en las que el producto de las ventas de bebidas alcohólicas no exceda del cuarenta por ciento de sus ingresos totales.
+
+XXVII. EVIDENTE ESTADO DE EBRIEDAD: Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de bebidas alcohólicas.
+
+XXVIII. GIRO: Tipo específico de autorización que denota el alcance de la Licencia o Permiso que se otorgue para que el establecimiento pueda operar la venta en envase cerrado, o permitir el consumo en envase abierto o al copeo.
+
+XXIX. IDENTIFICACIÓN OFICIAL: Para efectos de acreditar la mayoría de edad en relación con la venta, la compra, el expendio o el consumo de bebidas alcohólicas únicamente se considerarán válidos como medios de identificación, la credencial para votar con fotografía o el pasaporte.
+
+XXX. INFRACCIÓN: Cualquier violación a las disposiciones del presente Reglamento.
+
+XXXI. LEY DE ALCOHOLES: La Ley Estatal de Prevención y Combate al Abuso del Alcohol.
+
+XXXII. LEY DE HACIENDA: La Ley de Hacienda para los Municipios del Estado de Nuevo León.
+
+XXXIII. LEY DE SALUD: Legislación vigente en el Estado en materia de salud.
+
+XXXIV. LICENCIA: La autorización escrita que emite el R. Ayuntamiento, para que opere cualquier tipo de expendio en el Municipio.
+
+XXXV. MATRIZ DE COMPATIBILIDAD: Instrumento técnico normativo que establece los usos permitidos, condicionados o prohibidos en cada zona del Plan Parcial de Desarrollo Urbano del Municipio.
+
+XXXVI. MEDIOS PUBLICITARIOS: Revistas, volantes, mantas, lonas, pinturas en fachadas, y/o cualquier otro medio impreso.
+
+XXXVII. MULTA: Sanción pecuniaria impuesta por la Autoridad Municipal competente al violar las disposiciones del presente Ordenamiento.
+
+XXXVIII. MUNICIPIO: El Territorio que conforma la Ciudad de Apodaca, Nuevo León.
+
+XXXIX. OFERTA: Ofrecimiento al publico de bebidas alcohólicas o de servicios de la misma calidad a precios rebajados o inferiores a los normales del mercado, entendiéndose de manera similar las baratas, descuentos, remates, dos por uno, o cualquier otra expresión parecida.
+
+XL. PERMISO ESPECIAL: Autorización por escrito, de carácter temporal, que emite el Secretario del R. Ayuntamiento y/o el Presidente Municipal según sea el caso, para la realización de un evento en particular, el cual no podrá exceder de tres días naturales.
+
+XLI. PERMISO TEMPORAL: Autorización por escrito, de carácter especial que emite el Presidente Municipal y/o el Secretario del Ayuntamiento, previa autorización del R. Ayuntamiento para la realización de un evento en particular y el cual no podrá exceder de treinta días naturales.
+
+XLII. PERMISO: La autorización escrita que emite el Presidente Municipal o el Secretario del R. Ayuntamiento, para que una persona física o moral pueda expender bebidas alcohólicas en forma eventual.
+
+XLIII. PREVENCIÓN: Conjunto de acciones dirigidas a evitar, o reducir el abuso en el consumo de bebidas alcohólicas.
+
+XLIV. PROMOCIONES: Las practicas comerciales consistentes en el ofrecimiento al publico de bienes o servicios:
+
+a) Con el incentivo de adicionalmente a la venta o consumo de bebidas alcohólicas o cerveza otro bien o servicio iguales o diversos, en forma gratuita, a pecio reducido o a un solo precio;
+
+Con un contenido adicional en la presentación usual de un producto, en forma gratuita o a precio reducido;
+
+b) Con figuras o leyendas impresas en la tapa, etiqueta, o envases de los productos o incluidas dentro de aquellos, distintas a las que obligatoriamente deben usarse;
+
+c) Bienes o servicios con el incentivo de participar en sorteos, concursos y otros eventos similares.
+
+XLV. REFRENDO: Acto Administrativo que realiza la Autoridad Municipal cada año, de la licencia para que siga operando el establecimiento, previo pago de los derechos correspondientes.
+
+XLVI. REGLAMENTO: El presente Ordenamiento.
+
+XLVII. REGULARIZACIÓN: Es el procedimiento que (sic) por el cual los titulares de licencia expedidas con anterioridad pueden corregir su funcionamiento en lo que toca al titular de la licencia, y domicilio o giro del establecimiento.
+
+XLVIII. REINCIDENCIA: Cuando el infractor cometa la misma violación a las disposiciones de este reglamento dos o mas veces dentro del periodo de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
+
+XLIX. REVOCACIÓN: El acto mediante el cual se deja sin efecto una licencia cuando se haya otorgado en contravención a lo establecido a los Reglamentos o leyes vigentes al momento de su expedición, se extinga la persona moral a la que se le otorgó o por incurrir en la infracción correspondiente establecida en este Reglamento.
+
+L. SALUD PUBLICA: El conjunto de acciones que tiene por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar y prolongar la vida humana, mismas que complementan los servicios de atención medica y asistencia social.- Estas acciones comprenden, entre otras, la prevención y control de enfermedades y accidentes; la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud; la investigación para la salud y la información relativa para las condiciones, recursos y servicios de salud del Estado.
+
+LI. SECRETARIA: Secretaria de Salud del Estado.
+
+LII. SISTEMA DE VENTA, CONSUMO O EXPENDIO CON DESCUENTO EN PRECIO: Es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier practica mediante la cual se puedan vender o consumir bebidas alcohólicas, sin costo, con articulo agregado o con descuento de mas del cincuenta por ciento en el precio, o bien el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento.
+
+LIII. TESORERÍA MUNICIPAL: Tesorería Municipal.
+
+LIV. TITULAR: La (s) persona (s) física o moral, a nombre de la cual se encuentre la licencia o permiso, quien será responsable y beneficiario de su operación y explotación.
+
+LV. TRATAMIENTO: Conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
+
+LVI. VECINO: Toda persona física o moral que tenga su domicilio particular contiguo a un establecimiento y hasta en un radio no mayor de 100 metros.
+
+LVII. VENTA DE BEBIDAS ALCOHÓLICAS: Cualquier acto de comercio que de manera directa o indirecta permita el acceso al consumo y/o posesión de bebidas alcohólicas.
 
 ###### Artículo 4.
 
 Queda prohibido vender bebidas alcohólicas a menores de edad, tanto en envase cerrado, como abierto, o al copeo.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2006)</small>
+
 ###### Artículo 5.
 
-La publicidad y propaganda sobre bebidas alcohólicas deberá reunir y cumplir con los requisitos que fije la Ley de Alcoholes y el Reglamento Municipal de Anuncios.
+La publicidad, propaganda o promociones sobre bebidas alcohólicas deberá reunir y cumplir con los requisitos que fije la Ley de Alcoholes, el presente ordenamiento y el Reglamento Municipal de Anuncios.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -277,6 +359,8 @@ IX.- No recibir en pago, o en prenda, objetos personales o mercaderías, por ven
 
 X.- Vender, expender u otorgar para consumo bebidas alcohólicas libres de adulteración, contaminación o alteración, y con el contenido de alcohol etílico permitido, en los términos de las disposiciones aplicables;
 
+(REPUBLICADA, P.O. 19 DE JUNIO DE 2006)
+
 XI.- Colocar en un lugar visible el cartel oficial emitido por la Secretaría que contenga al menos la leyenda “EL CONSUMO ABUSIVO DE ALCOHOL PUEDE PRODUCIR ADICCIONES Y GRAVES PROBLEMAS DE SALUD” además del emitido por este Municipio con la Leyenda "NO SE VENDEN BEBIDAS ALCOHÓLICAS A MENORES";
 
 XII.- Solicitar la acreditación de la mayoría de edad a aquéllas personas que pretendan ingerir o adquirir bebidas alcohólicas y que aparenten no ser mayores de edad;
@@ -295,7 +379,19 @@ XVIII.- Contar con la licencia respectiva en los términos del artículo 75 de l
 
 XIX.- Impedir la realización de actos, dentro del establecimiento, que ataquen a la moral pública o a las buenas costumbres, que perturben la tranquilidad del lugar, que atenten contra la paz e integridad física de las personas o de sus intereses, aun y cuando dichos actos no lleguen a constituir delitos; y
 
-XX.- Las demás que fije este Reglamento.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XX.- No publicar ofertas, promociones y/o descuentos de bebidas alcohólicas en medios publicitarios;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XXI.- No rotular, pintar, instalar o adherir cualquier diseño, imagen, logotipo y/o marcas de bebidas alcohólicas en mas de un 10% de la superficie total del establecimiento considerándose como tal las paredes y bardas;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XXII.- Distribuir a los establecimientos en vehículos identificados mediante rotulo en las puertas del mismo, que indique la denominación de la empresa o el nombre comercial; en su caso realizar actos de distribución de bebidas alcohólicas deberá tener el giro autorizado para tal efecto;
+
+XXIII.- Las demás que fije este Reglamento.
 
 ###### Artículo 14 Bis.
 
@@ -361,9 +457,9 @@ II.- Copia del acta de nacimiento o acta constitutiva, según sea persona físic
 
 III.- Constancia de factibilidad de uso de suelo;
 
-> <small>(F. DE E., P.O. 5 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2006)</small>
 
-IV.- El local que pretenda obtener una licencia, deberá ubicarse a una distancia perimetral mínima de 200 metros, contados a partir de los límites de la propiedad con áreas verdes, áreas Municipales, plazas públicas, instituciones educativas, iglesias, templos, hospitales, clínicas y centros de salud, con excepción de tiendas de conveniencia, tiendas de autoservicio; restaurantes y establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; centros o clubes sociales o deportivos; hoteles; estadios de fútbol y béisbol; arenas de box y lucha libre; plazas de toros y en general todo lugar en que se realicen actividades deportivas;
+IV.- El local que pretenda obtener una licencia, deberá ubicarse a una distancia lineal mínima de 200 metros, contados a partir de los limites de la propiedad entre establecimientos ya operando con licencia, con áreas verdes, áreas municipales, plazas publicas, instituciones educativas, iglesias, templos, hospitales, clínica y centros de salud, con excepción de tiendas de conveniencia, tiendas de autoservicios, restaurantes y establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; centros o clubes sociales o deportivos; hoteles; estadios de fútbol y béisbol; arenas de box y lucha libre; plazas de toros y en general todo lugar en que se realicen actividades deportivas;
 
 V.- Constancia de la Secretaría de Salud, en caso de nuevos establecimientos o cambios de domicilio; y (sic)
 
@@ -577,7 +673,23 @@ VIII.- Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, age
 
 IX.- Se deroga
 
-X.- Las demás conductas contrarias a las disposiciones de este Reglamento.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+X.- La publicación de ofertas, promociones y/o descuentos de bebidas alcohólicas en medios publicitarios;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XI.- El rotular, pintar, instalar o adherir cualquier diseño, imagen, logotipo y/o marcas de bebidas alcohólicas en mas de un 10% de la superficie total del establecimiento considerándose como tal las paredes y bardas;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XII.- Distribuir a los establecimientos en vehículos no identificados mediante rotulo en las puertas del mismo, que indique la denominación de la empresa o el nombre comercial; o realizar actos de distribución de bebidas alcohólicas sin tener el giro autorizado para tal efecto;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XIII.- Por sí o por interpósita persona, distribuir, expender, vender o suministrar bebidas alcohólicas, vinos de mesa, licores y/o cerveza, a negocios que la Autoridad los hubiese notificado como irregulares y/o clandestinos, por carecer de Licencia o Permiso, que vendan o permitan el consumo de bebidas alcohólicas sin contar con la licencia correspondiente, o sea operado sin que corresponda la licencia a su titular o al domicilio del establecimiento;
+
+XIV.- Las demás conductas contrarias a las disposiciones de este Reglamento.
 
 En la aplicación de este reglamento se considerará que una persona se encuentra en evidente estado de ebriedad o bajo el efecto evidente de psicotrópicos, cuando derivado del consumo de alcohol etílico, o sustancias psicotrópicas, presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio, o del lenguaje.
 
@@ -611,11 +723,39 @@ X.- Por incumplimiento a lo dispuesto por el Artículo 42, fracciones III, V, VI
 
 XI.- Por incumplimiento a lo dispuesto por los Artículos 42 fracción IX y 44 en el caso de ser servidores públicos, se tendrá a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León;
 
-XII.- Por cometer cualquier otra infracción no precisada en las fracciones que anteceden, se impondrá multa de 20 a 100 cuotas.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XII.- Por incumplimiento a lo dispuesto en el articulo 42 fracciones (sic) X, se impondrá multa de 500 a 2500 cuotas; en caso de reincidencia se duplicara el monto de la multa impuesta previamente;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XIII.- Por incumplimiento a lo dispuesto en el articulo 42 fracción XI, se impondrá multa de 200 a 2500 cuotas; en caso de reincidencia se duplicara el monto de la multa impuesta previamente;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XIV.- Por incumplimiento a lo dispuesto en el articulo 42 fracción XII, se impondrá multa de 350 a 2500 cuotas; en caso de reincidencia se duplicara el monto de la multa impuesta previamente;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2006)</small>
+
+XV.- Por incumplimiento a lo dispuesto en el articulo 42 fracción XIII, se impondrá multa de 350 a 2500 cuotas; en caso de reincidencia se duplicara el monto de la multa impuesta previamente;
+
+XVI.- Por cometer cualquier otra infracción no precisada en las fracciones que anteceden, se impondrá multa de 20 a 100 cuotas.
 
 Al aplicarse las sanciones se tomarán en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
 Podrán acumularse las sanciones administrativas contenidas en este Reglamento, que correspondan a dos o más infracciones cometidas por la misma persona.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2006)</small>
+
+Cuando la sanción consista en arresto, a fin de que este no le sea aplicado, el infractor podrá solicitar cubrir un servicio a la comunidad de una hora por cada hora de arresto, debiendo acreditarlo ante la autoridad competente, la cual determinara si lo concede o no, tomando en cuenta las circunstancias particulares del caso.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2006)</small>
+
+Las primeras ocho horas de arresto no serán conmutables.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2006)</small>
+
+Cuando e (sic) infractor no cumpla con el tiempo de servicio comunitario impuesto por la autoridad competente, deberá cumplir con una hora de arresto por cada hora de servicio no prestado, en los términos del reglamento correspondiente.
 
 ###### Artículo 43 Bis.
 
@@ -736,3 +876,23 @@ Presidente Municipal
 LIC. BENITO CABALLERO GARZA
 
 Secretario Del R. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A los titulares de licencias y establecimientos que operan con licencias que no están a su nombre, o lugar, o giro distinto, se les concede un plazo de 30 días hábiles, a partir del día siguiente de la publicación del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, para que presenten la documentación a que se refiere el capítulo respectivo y se proceda a su regularización ante la Dirección que determine el Presidente Municipal.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente reglamento los dueños de los establecimientos dedicados a la venta y/o consumo de bebidas alcohólicas deberán quitar cualquier promoción o publicidad de bebidas alcohólicas que se encuentren en el exterior de los mismos; así como modificar en el termino de 60 días sus pinturas y fachadas en caso de contravenir lo aprobado en este reglamento
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones legales que contravengan a lo que se establece en el presente Reglamento.
