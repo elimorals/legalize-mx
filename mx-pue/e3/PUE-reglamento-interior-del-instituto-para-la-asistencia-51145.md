@@ -1,0 +1,550 @@
+---
+title: "REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PUBLICA DEL ESTADO DE PUEBLA"
+identifier: "PUE-reglamento-interior-del-instituto-para-la-asistencia-51145"
+country: "mx"
+rank: "reglamento"
+publication_date: "2006-06-19"
+last_updated: "2006-06-19"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51145&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-pue"
+scjn_id: "51145"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "8 TERCERA SECCION"
+reform_count: "3"
+scjn_last_update: "2012-12-31"
+issue_date: "2006-04-27"
+state: "PUE"
+---
+# REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PUBLICA DEL ESTADO DE PUEBLA
+
+REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PUBLICA DEL ESTADO DE PUEBLA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de junio de 2006.
+
+ACUERDO de la Honorable Junta Directiva del Instituto para la Asistencia Pública del Estado de Puebla, por virtud del cual expide el REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PÚBLICA DEL ESTADO DE PUEBLA.
+
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Instituto para la Asistencia Pública del Estado de Puebla.
+
+CONSIDERANDO.
+
+Que en mérito de lo expuesto y en ejecución de lo dispuesto por la H. Junta Directiva del Instituto para la Asistencia Pública, con fundamento en lo dispuesto por los artículos 10 fracción II y 15 fracción I del Decreto de Creación del Instituto para la Asistencia Pública del Estado de Puebla; 45 de la Ley Orgánica de la Administración Pública Estatal; 12, 36 y 52 fracción VIII de la Ley de Entidades Paraestatales del Estado de Puebla, el órgano de gobierno ha tenido a bien expedir el siguiente:
+
+REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PÚBLICA DEL ESTADO DE PUEBLA
+
+## TÍTULO PRIMERO. DE LA COMPETENCIA Y ORGANIZACIÓN DEL INSTITUTO
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 1.
+
+El Instituto para la Asistencia Pública del Estado de Puebla, es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Salud, que tiene a su cargo las atribuciones y el despacho de los asuntos que expresamente le confieren su Decreto de Creación, este Reglamento Interior y las demás disposiciones legales aplicables.
+
+###### ARTÍCULO 2.
+
+El presente Reglamento Interior tiene por objeto establecer la organización y el funcionamiento del Instituto para la Asistencia Pública del Estado de Puebla.
+
+###### ARTÍCULO 3.
+
+Cuando en el presente Reglamento se utilice el término Instituto u Organismo, se entenderá que se hace referencia al Instituto para la Asistencia Pública del Estado de Puebla.
+
+###### ARTÍCULO 4.
+
+Para la atención y despacho de los asuntos de su competencia, el Instituto estará integrado de la siguiente forma:
+
+I.- Una Junta Directiva;
+
+II.- Un Patronato;
+
+III.- Un Director General, y
+
+IV.- Las siguientes unidades administrativas:
+
+1) Dirección del Monte de Piedad;
+
+a. Subdirección Técnica de Valuación;
+
+2) Dirección de Administración de Negocios;
+
+a. Subdirección de Operación de Negocios;
+
+3) Dirección de Acciones de Filantropía;
+
+4) Dirección Administrativa;
+
+5) Dirección Jurídica;
+
+6) Dirección de Desarrollo Administrativo, Planeación e Informática, y
+
+7) Coordinación de Seguimiento Operacional.
+
+###### ARTÍCULO 5.
+
+Los demás servidores públicos adscritos a la estructura administrativa del Instituto, cualquiera que sea el cargo que ostenten, realizarán las funciones que les correspondan en términos de los respectivos manuales de organización, de procedimientos, de servicios al público y las que les asignen o encomienden la Junta Directiva, el Director General, así como del superior jerárquico del cual dependan, debiendo coordinar y supervisar directamente los trabajos del personal que les esté subordinado o forme parte del área del cual sea responsable, en términos del acuerdo de adscripción que emita, así como la demás normatividad aplicable, atendiendo a las necesidades del servicio y a la suficiencia presupuestal correspondiente.
+
+###### ARTÍCULO 6.
+
+Las unidades productivas son aquéllas que por su propia naturaleza tienden a la captación de recursos económicos y financieros, con el objetivo de incrementar el patrimonio del Instituto, y que son:
+
+I.- El Monte de Piedad de Puebla y sus sucursales;
+
+II.- El Panteón de la Piedad y los Servicios Funerarios de la Piedad;
+
+III.- La Exhacienda de Chautla;
+
+IV.- Los estacionamientos;
+
+V.- La administración de los inmuebles en propiedad o en posesión del Instituto;
+
+VI.- Las Estaciones de Servicio, y
+
+VII.- Todas aquéllas que sean incorporadas al Instituto bajo cualquier título, para su administración.
+
+###### ARTÍCULO 7.
+
+Para efectos del presente Reglamento, las unidades productivas serán consideradas indistintamente como unidades administrativas.
+
+###### ARTÍCULO 8.
+
+Las unidades administrativas del Instituto estarán integradas por el personal directivo, técnico, administrativo y operativo que el servicio requiera, de acuerdo a la disponibilidad presupuestal y la normatividad aplicable.
+
+###### ARTÍCULO 9.
+
+La Junta Directiva y el Patronato del Instituto se integrarán de conformidad con lo establecido por el Decreto de Creación del Instituto.
+
+## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES
+
+### CAPÍTULO I. DE LA JUNTA DIRECTIVA
+
+###### ARTÍCULO 10.
+
+La Junta Directiva tendrá las atribuciones que le otorga el Decreto de Creación del Instituto, la Ley de Entidades Paraestatales del Estado de Puebla, así como las que expresamente le confiera la demás normatividad aplicable.
+
+### CAPÍTULO II. DEL PATRONATO
+
+###### ARTÍCULO 11.
+
+El Patronato es un órgano de apoyo externo que tiene por objeto la captación de recursos financieros para la consecución de los fines del Instituto, contando con las siguientes atribuciones:
+
+I.- Participar a través de su Presidente en los eventos de carácter de asistencia social realizados por el Instituto, coadyuvando con el Director General en la entrega de apoyos;
+
+II.- Participar a través de los miembros que se designen a las Sesiones de la Junta Directiva;
+
+III.- Apoyar activamente en la planeación, organización y desarrollo de los eventos especiales del Instituto, que sean de su competencia, y
+
+IV.- Las demás que le encomiende la Junta Directiva, el Decreto de Creación del Instituto o el presente Reglamento Interior.
+
+### CAPÍTULO III. DEL DIRECTOR GENERAL
+
+###### ARTÍCULO 12.
+
+El Director General, además de las atribuciones que le confiere el Decreto de Creación del Instituto y la Ley de Entidades Paraestatales del Estado de Puebla, tendrá las siguientes:
+
+I.- Ejercer directamente cualquiera de las atribuciones de los titulares de las unidades administrativas del Instituto cuando lo juzgue necesario;
+
+II.- Revisar periódicamente los ingresos y egresos de los estados financieros del Instituto; así como verificar los ingresos de las unidades productivas del Instituto para informar a la Junta Directiva;
+
+III.- Dar seguimiento y girar instrucciones a los titulares de las unidades correspondientes, para que se cumplan los acuerdos de la Junta Directiva o del Patronato;
+
+IV.- Proponer a la Junta Directiva para su análisis y aprobación en su caso, los manuales de organización de procedimientos y de servicios al público, correspondientes a las distintas unidades administrativas que integran el Instituto;
+
+V.- Participar en las sesiones de los órganos de gobierno de las demás entidades en los términos que al efecto establezcan las disposiciones legales aplicables en la materia;
+
+VI.- Definir y mantener vigentes junto con el personal a su cargo, la misión, la visión, los valores y objetivos estratégicos de la Institución y asegurar que todo el personal los conozca;
+
+VII.- Instruir y decidir sobre las propuestas que le sean formuladas por el Sindicato de Trabajadores al Servicio del Estado y Organismos Descentralizados para la modificación de las condiciones generales de trabajo, y
+
+VIII.- Las demás que le asigne la propia Junta Directiva y el presente Reglamento.
+
+### CAPÍTULO IV. DE LOS DIRECTORES
+
+###### ARTÍCULO 13.
+
+Al frente de cada Dirección habrá un Director, quien se auxiliará de los Subdirectores, Jefes de Departamento, así como del personal técnico, administrativo y operativo que se determine por acuerdo del Director General, con base en la estructura orgánica aprobada y a los presupuestos asignados.
+
+###### ARTÍCULO 14.
+
+Los Directores tendrán las siguientes atribuciones:
+
+I.- Planear, organizar, dirigir, controlar y evaluar las actividades de la unidad administrativa a su cargo;
+
+II.- Elaborar en coordinación con la Dirección Administrativa, el presupuesto anual de ingresos y egresos del Instituto, bajo criterios de racionalidad, y evaluar mensualmente su ejercicio, en caso de existir discrepancias, proponer al Director General alternativas de solución;
+
+III.- Elaborar y presentar al Director General su Programa Anual de Trabajo, así como las evaluaciones periódicas de su avance, de acuerdo con los lineamientos y el calendario que establezcan la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública y la Secretaría de Finanzas y Administración;
+
+IV.- Establecer las estrategias y mecanismos que permitan controlar y evaluar los planes, proyectos, programas y actividades aprobados por la Junta Directiva y autorizados por el Director General, para que sean ejecutados eficaz y eficientemente en cada una de sus unidades administrativas;
+
+V.- Proponer al Director General, los proyectos de innovación, técnicos, administrativos y jurídicos que sean de su competencia, para el funcionamiento y operatividad del Instituto, que correspondan al área de su responsabilidad;
+
+VI.- Desempeñar las funciones y comisiones que el Director General les delegue o encomiende, manteniéndolo informado sobre el desarrollo de sus actividades del área que tenga asignada;
+
+VII.- Proporcionar los informes y datos que les sean solicitados por el Director General o por otras unidades administrativas del Instituto;
+
+VIII.- Verificar que el personal a su cargo cumpla con eficiencia, lealtad, honestidad y diligencia la función laboral que le fue asignada y proponer al Director General los cambios y movimientos correspondientes;
+
+IX.- Procurar y fomentar la capacitación y actualización del personal adscrito a su Dirección;
+
+X.- Proponer al Director General, el personal que se haya destacado por su desempeño o capacitación para la obtención de premios y estímulos que corresponda, atendiendo a la suficiencia presupuestal y la normatividad aplicable;
+
+XI.- Establecer las medidas necesarias para evitar que el personal adscrito a la Dirección a su cargo, incurra en deficiencia del servicio, abuso o ejercicio indebido de su empleo, cargo o comisión;
+
+XII.- Someter al Director General los asuntos en los que el personal adscrito a la Dirección, pudiesen ser generadores de alguna sanción, remoción o cese con motivo de las funciones de su trabajo;
+
+XIII.- Autorizar los permisos que el personal solicite para ausentarse de sus labores, atendiendo a las necesidades del servicio y la normatividad en la materia;
+
+XIV.- Turnar a la Dirección Jurídica, previo acuerdo del Director General, los casos que requieran atención legal, proporcionando a esa Dirección la información y documentación que solicite en los plazos y términos requeridos;
+
+XV.- Elaborar, actualizar y proponer al Director General para la posterior aprobación de la Junta Directiva, los Manuales de Organización, de Procedimientos y de Servicios al Público, de conformidad con los lineamientos que al efecto establezca la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, con la asesoría de la Dirección de Desarrollo Administrativo, Planeación e Informática;
+
+XVI.- Asegurarse que el personal adscrito a la unidad administrativa a su cargo, conozca el puesto que desempeña, los manuales de organización, de procedimientos y de servicios al público, así como su correcta aplicación;
+
+XVII.- Observar las normas y políticas generales del Instituto, y
+
+XVIII.- Las que les delegue o encomiende el Director General, así como las que les confieran las demás disposiciones legales aplicables.
+
+### CAPÍTULO V. DE LA DIRECCIÓN DEL MONTE DE PIEDAD DE PUEBLA
+
+###### ARTÍCULO 15.
+
+La Dirección del Monte de Piedad de Puebla, depende del Director General y su Titular además de las atribuciones establecidas en el artículo 14 del presente Reglamento, tendrá las siguientes:
+
+I.- Prever y optimizar la disposición de recursos para préstamos de las sucursales;
+
+II.- Autorizar y enviar a la Dirección General y a la Dirección Administrativa, los reportes diarios, semanales y mensuales de las operaciones que realicen las sucursales;
+
+III.- Realizar conjuntamente con la Dirección Administrativa del Instituto, la conciliación de la contabilidad general del Monte de Piedad de Puebla, los controles auxiliares, los estados de resultados y los balances mensuales y anuales;
+
+IV.- Aplicar los sistemas de control de las operaciones que realicen los comisionistas y valuadores;
+
+V.- Reportar a la unidad administrativa correspondiente, las fallas del sistema informático o en su caso, solicitar la actualización del mismo;
+
+VI.- Proponer al Director General la apertura de nuevas sucursales y/o nuevos servicios que se otorguen a través del Monte de Piedad, de acuerdo a la demanda y la normatividad que resulte aplicable;
+
+VII.- Establecer y mantener un sistema de quejas y sugerencias, que permita conocer las opiniones de los pignorantes y estar en posibilidades de mantener una óptima atención al público, y
+
+VIII.- Estructurar junto con el Departamento de Comunicación Social, campañas de promoción y mercadotecnia a favor del Instituto, a efecto de difundir los servicios que brindan las sucursales.
+
+### CAPÍTULO VI. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE NEGOCIOS
+
+###### ARTÍCULO 16.
+
+El Titular de la Dirección de Administración de Negocios, depende del Director General y además de las atribuciones establecidas en el artículo 14 del presente Reglamento, tendrá las siguientes:
+
+I.- Analizar diariamente el reporte de ingresos remitidos por las unidades productivas bajo su adscripción;
+
+II.- Realizar todo tipo de actos y trámites administrativos ante las dependencias y entidades del orden Federal, Estatal y Municipal competentes, así como ante organismos públicos y privados en los términos del poder notarial que al efecto le otorgue el Director General, previo acuerdo de la Junta Directiva, relacionados con asuntos de su exclusiva competencia;
+
+III.- Coordinar la organización y realización de los eventos artísticos, culturales, sociales, rifas y sorteos que autorice la Junta Directiva de acuerdo con el programa y presupuesto anual autorizado;
+
+IV.- Establecer vínculos con instituciones públicas y privadas dedicadas a la promoción de la cultura y las artes en todas sus expresiones para lograr la participación de grupos artísticos en eventos organizados por el Instituto, tendientes a la obtención de recursos financieros;
+
+V.- Proponer eventos en los que participen organizaciones públicas y privadas que actúen con el carácter de benefactores, en beneficio del Instituto;
+
+VI.- Elaborar en coordinación con la Dirección Jurídica y Administrativa del Organismo, los contratos que sean necesarios en relación con los servicios requeridos para la realización de los eventos;
+
+VII.- Establecer controles de calidad en atención al cliente en las unidades productivas a su cargo;
+
+VIII.- Proponer al Director General la creación y desarrollo de negocios que puedan representar ingresos para el Instituto, contactando a organismos públicos y privados;
+
+IX.- Estructurar junto con el Departamento de Comunicación Social, campañas de promoción y mercadotecnia a favor del Instituto, a efecto de difundir las unidades productivas a su cargo;
+
+X.- Enviar a la Dirección General y a la Dirección Administrativa previa revisión, los reportes diarios, semanales y mensuales de las operaciones que realizan las unidades administrativas de su adscripción, y
+
+XI.- Elaborar el informe de resultados financieros de cada uno de los eventos que se realicen y entregarlo al Director General para su autorización y envío al Departamento de Finanzas y Contabilidad del Organismo.
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DE ACCIONES DE FILANTROPÍA
+
+###### ARTÍCULO 17.
+
+El Titular de la Dirección de Acciones de Filantropía, depende del Director General y además de las atribuciones señaladas en el artículo 14 del presente Reglamento, tendrá las siguientes:
+
+I.- Coordinar, previo acuerdo del Director General, las acciones del Instituto con las dependencias y entidades del Gobierno Federal, Estatal o Municipal, a fin de sumar esfuerzos para la prestación de servicios de asistencia social que competan al Instituto;
+
+II.- Promover los servicios de asistencia social que proporciona el Instituto con instituciones de carácter público y privado;
+
+III.- Colaborar con las demás unidades administrativas del Instituto en la elaboración de estudios e informes de la población a beneficiar;
+
+IV.- Supervisar los estudios e investigaciones ejecutados por las áreas a su cargo, en relación a las personas que soliciten apoyo del Instituto;
+
+V.- Elaborar los diagnósticos de la población beneficiaria de los proyectos y programas de asistencia social;
+
+VI.- Establecer y mantener actualizado el padrón de instituciones de asistencia social beneficiadas por el Instituto y que éstas cumplan con los requisitos establecidos por el mismo;
+
+VII.- Revisar, autorizar y enviar a la Dirección General los reportes mensuales de las acciones de asistencia realizadas por la Dirección a su cargo;
+
+VIII.- Autorizar las requisiciones de materiales y servicios que se entregarán a las personas sujetas de apoyo, rindiendo informes al Director General sobre estas actividades;
+
+IX.- Coordinar y asistir a las entregas de apoyos programadas a los municipios del Estado, debiendo informar oportunamente al Director General sobre las actividades llevadas a cabo;
+
+X.- Impulsar y fomentar la participación social en acciones de asistencia;
+
+XI.- Vigilar la correcta prestación de servicios en los establecimientos de asistencia social que se adscriban a la unidad administrativa a su cargo, y
+
+XII.- Administrar los establecimientos de asistencia social que por cualquier circunstancia se encuentren bajo la administración del Instituto.
+
+### CAPÍTULO VIII. DE LA DIRECCIÓN ADMINISTRATIVA
+
+###### ARTÍCULO 18.
+
+El Titular de la Dirección Administrativa, depende del Director General y además de las atribuciones señaladas en el artículo 14 del presente Reglamento, tendrá las siguientes:
+
+I.- Administrar los recursos financieros, humanos y materiales del Instituto;
+
+II.- Aplicar las políticas institucionales para el óptimo aprovechamiento de los recursos del Instituto, evitando el dispendio;
+
+III.- Proponer al Director General, las disposiciones y lineamientos aplicables, para el manejo, ejercicio y control presupuestal del Instituto;
+
+IV.- Elaborar el presupuesto de ingresos y egresos del Instituto en coordinación con los Directores de Área, aplicando las políticas de austeridad, racionalidad y disciplina presupuestal, prevista en la normatividad aplicable;
+
+V.- Organizar y proponer al Director General, las estrategias tendientes a eficientar los mecanismos y criterios para la contratación, nombramientos, renuncias, remociones, cambio de adscripciones, otorgamiento de vacaciones y demás trámites necesarios para el personal del Instituto, en apego a las disposiciones legales aplicables;
+
+VI.- Vigilar el cumplimiento de las disposiciones legales en materia de adquisiciones, abasto, obra pública, mantenimiento y reparación de bienes muebles e inmuebles llevadas a cabo por el Instituto;
+
+VII.- Asegurar el cumplimiento de las disposiciones fiscales que obliguen al Instituto;
+
+VIII.- Autorizar las requisiciones y transferencia de recursos, que soliciten las unidades administrativas del Instituto, previa consulta de sus respectivos presupuestos y en apego a la normatividad aplicable, debiendo informar al Director General sobre los resultados obtenidos;
+
+IX.- Elaborar y actualizar permanentemente el inventario de bienes muebles e inmuebles y equipo de oficina del Instituto, en coordinación con las áreas involucradas;
+
+X.- Suscribir, previo acuerdo del Director General, convenios y demás documentos relativos al ejercicio de sus funciones;
+
+XI.- Formular los estados financieros y dictámenes que le sean solicitados por el Director General y asesorar técnicamente en asuntos de su especialidad a las otras áreas del Instituto, cuando se le solicite;
+
+XII.- Actuar como órgano de enlace en los asuntos de su competencia, con dependencias gubernamentales, previa autorización del Director General;
+
+XIII.- Participar en la ejecución de programas de intercambio de información, en el ámbito de su competencia, con instancias gubernamentales y privadas, informando oportunamente al Director General sobre dichas actividades;
+
+XIV.- Coadyuvar en la implantación de los programas de modernización y simplificación administrativa del Instituto, que proponga la Dirección de Desarrollo Administrativo, Planeación e Informática, autorizada por el Director General;
+
+XV.- Establecer relación con los dirigentes sindicales, para mantener un ambiente de armonía entre el Sindicato y el Instituto, concertar previo acuerdo del Director General los aumentos y prestaciones que les otorgue el Gobierno del Estado de Puebla;
+
+XVI.- Asegurar el abasto oportuno de materiales y suministros necesarios para una óptima operación de las unidades administrativas del Instituto, y
+
+XVII.- Proporcionar la información, datos, cooperación y asesoría técnica que le sea (sic) requeridas por las unidades administrativas del propio Instituto, de acuerdo a las disposiciones legales aplicables y a las políticas establecidas al respecto.
+
+### CAPÍTULO IX. DE LA DIRECCIÓN JURÍDICA
+
+###### ARTÍCULO 19.
+
+El Titular de la Dirección Jurídica, depende del Director General y además de las atribuciones señaladas en el artículo 14 del presente Reglamento, tendrá las siguientes:
+
+I.- Apoyar y asesorar a la Junta Directiva, Patronato y Dirección General, así como a las demás unidades administrativas del Instituto, en la elaboración de documentos de carácter jurídico, que sean de su competencia;
+
+II.- Representar al Instituto en todas las controversias y trámites que sean de su competencia, en términos del poder notarial otorgado por el Director General, con la autorización previa de la Junta Directiva;
+
+III.- Tramitar las sucesiones testamentarias e intestamentarias en aquellos asuntos susceptibles de incrementar el patrimonio del Instituto;
+
+IV.- Ejercitar las acciones conducentes ante los órganos jurisdiccionales, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones;
+
+V.- Formular denuncias y querellas ante las autoridades competentes, respecto de hechos presuntamente ilícitos, que sean perpetrados en contra de los intereses del Instituto;
+
+VI.- Intervenir en los Juicios de Amparo en los que el Instituto sea llamado a juicio como tercero perjudicado o como autoridad responsable, así como promover los mismos, rendir pruebas, interponer recursos y demás medios de impugnación que establezca la ley de la materia, en defensa de los intereses del Organismo;
+
+VII.- Previo acuerdo del Director General, expedir en forma conjunta con el responsable del área respectiva, las constancias o copias de documentos relativos a los asuntos que se tramitan en el Instituto, que soliciten las dependencias Federales, Estatales y Municipales y los particulares;
+
+VIII.- Gestionar ante las autoridades o instituciones competentes la certificación de documentos que requiera el Instituto y, en su caso, expedir mancomunadamente con el responsable del área, copias certificadas de los documentos que obren en los archivos del Instituto a quien tenga derecho para ello, y
+
+IX.- Autorizar la radicación y la baja de los expedientes tanto jurisdiccionales como administrativos, previo el estudio y análisis correspondiente.
+
+### CAPÍTULO X. DE LA DIRECCIÓN DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
+
+###### ARTÍCULO 20.
+
+El Titular de la Dirección de Desarrollo Administrativo, Planeación e Informática, depende del Director General y además de las atribuciones señaladas en el artículo 14 del presente Reglamento, tendrá las siguientes:
+
+I.- Integrar y ejecutar las acciones de planeación de las unidades administrativas del Instituto, solicitadas por las diversas dependencias del Poder Ejecutivo en el marco de sus respectivas facultades, así como dar cumplimiento a los planes, programas y proyectos de índole interna que le señale el Director General;
+
+II.- Representar al Instituto, previo acuerdo con el Director General, ante las dependencias del Poder Ejecutivo en la planeación, ejecución y evaluación de los programas de trabajo que se establezcan;
+
+III.- Proponer al Director General la realización de programas de racionalidad, modernización, simplificación y calidad de las estructuras organizacionales, procesos de trabajo y servicios al público, que permitan una clara y eficiente operación del Instituto, impulsando la participación de los servidores públicos, con el fin de dar mayor valor a los bienes y servicios que se prestan;
+
+IV.- Asesorar, coordinar y apoyar a las unidades administrativas del Instituto, en la elaboración y actualización de los manuales de organización, de procedimientos y de servicios al público, así como de aquellos instrumentos normativos que permitan una operación óptima del Instituto;
+
+V.- Procurar la capacitación permanente de los servidores públicos difundiendo y promoviendo aquellos cursos y eventos que propicien su desarrollo personal y de la Institución;
+
+VI.- Coordinar los trabajos que en materia de acceso a la información le corresponden, como representante de sujeto obligado del Instituto según la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
+
+VII.- Proponer al Director General la arquitectura tecnológica y equipamiento idóneo para las unidades administrativas del Instituto;
+
+VIII.- Administrar la infraestructura de tecnología de información utilizada en las diversas unidades administrativas del Instituto, encargándose de su correcta instalación, operación y mantenimiento directamente o a través de terceros;
+
+IX.- Proponer al Director General el desarrollo de programas y servicios de procesamiento de datos y sistemas para mejorar el desempeño de los diversos procesos que se realizan en el Instituto y para proveer de información oportuna para toma de decisiones;
+
+X.- Asegurar el cumplimiento de medidas de seguridad conforme a lineamientos establecidos para el acceso a las instalaciones de tecnología de información, las redes, los equipos y datos vitales del Instituto;
+
+XI.- Administrar la operación de las redes y sistemas del Instituto asegurando el debido respaldo de información, y
+
+XII.- Apoyar a las unidades administrativas del Instituto en el desarrollo de sus actividades utilizando los recursos humanos y técnicos necesarios.
+
+### CAPÍTULO XI. DE LOS SUBDIRECTORES
+
+###### ARTÍCULO 21.
+
+Al frente de cada Subdirección habrá un Subdirector, quien se auxiliará de los Jefes de Departamento, así como del personal técnico, administrativo y operativo que se determine por acuerdo del Director General, con base a la estructura orgánica aprobada y al presupuesto asignado.
+
+###### ARTÍCULO 22.
+
+Los Subdirectores tendrán las siguientes atribuciones:
+
+I.- Colaborar con el superior jerárquico y con la Dirección Administrativa para la elaboración del presupuesto anual de ingresos y egresos, bajo criterios de racionalidad y evaluando mensualmente, si se da cumplimiento con lo programado y en caso contrario proponer al Director de Área alternativas de solución;
+
+II.- Apoyar al superior inmediato en la elaboración de su Programa Anual de Trabajo, para su integración, con sus evaluaciones periódicas de acuerdo a los lineamientos y el calendario que establezcan la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública y la Secretaría de Finanzas y Administración;
+
+III.- Coadyuvar con el superior jerárquico o el Director General, en la planeación, programación, organización, control y evaluación de las actividades propias de las unidades administrativas de su área de competencia;
+
+IV.- Supervisar que las unidades administrativas que integran su Subdirección cumplan con la normatividad, las políticas del Instituto y los manuales administrativos;
+
+V.- Verificar que los informes y datos que envían las unidades administrativas a su cargo sean precisos;
+
+VI.- Analizar mensualmente que los ingresos programados sean congruentes con los reales o en caso contrario, proponer a su Director o al Director General las medidas correctivas adecuadas;
+
+VII.- Realizar permanentemente visitas de supervisión a las diferentes unidades administrativas para verificar su funcionamiento y operación;
+
+VIII.- Difundir y apoyar al personal de su área, en la toma de cursos de capacitación administrativa y técnica;
+
+IX.- Supervisar el desempeño, comportamiento y productividad del personal adscrito al área administrativa a su cargo, y
+
+X.- Las que le delegue o encomiende el Director General o el Superior Jerárquico correspondiente, así como las que le confieran las demás disposiciones legales aplicables.
+
+### CAPÍTULO XII. DE LA SUBDIRECCIÓN TÉCNICA DE VALUACIÓN
+
+###### ARTÍCULO 23.
+
+El Subdirector Técnico de Valuación, depende del Director del Monte de Piedad de Puebla y su Titular además de las atribuciones señaladas en el artículo 22 del presente Reglamento, tendrá las siguientes:
+
+I.- Auxiliar al Director a coordinar, administrar, evaluar y controlar las actividades de las sucursales del Monte de Piedad de Puebla;
+
+II.- Verificar que se cumpla con las políticas, procedimientos, lineamientos, programas y metas del Monte de Piedad de Puebla;
+
+III.- Examinar y reportar al superior jerárquico las operaciones que realicen los comisionistas y valuadores;
+
+IV.- Coadyuvar en la optimización de los recursos destinados para préstamos de las Sucursales del Monte de Piedad de Puebla, verificando diariamente el manejo de los mismos;
+
+V.- Informar al Director del Monte de Piedad de Puebla, sobre las cotizaciones base del centenario, solicitando su autorización para efecto de aplicarlas;
+
+VI.- Mantener actualizados a los valuadores sobre la cotización base y los precios en el mercado del centenario, relojería, gemas y otros artículos;
+
+VII.- Informar al Director sobre el estado que guardan los precios de las mercancías que son entregadas al Monte de Piedad de Puebla en comisión y consignación;
+
+VIII.- Realizar continuamente visitas y supervisiones a las Sucursales del Monte de Piedad previa autorización del Director del Monte de Piedad de Puebla, para verificar el correcto desempeño de los valuadores y así poder reportar anomalías detectadas con motivo del desempeño de sus funciones;
+
+IX.- Elaborar los reportes que le sean solicitados por el Director del Monte de Piedad de Puebla;
+
+X.- Coordinar y autorizar las suplencias y movimientos de valuadores requeridos en las Sucursales previa autorización del Director del Monte de Piedad de Puebla;
+
+XI.- Corroborar que los avalúos de las prendas entregadas al área de almoneda de las sucursales sean los correctos, informando al Director del Monte de Piedad de Puebla, el estado general que guardan éstas;
+
+XII.- Proponer a los valuadores para la realización de valuaciones externas, previa autorización del Director del Monte de Piedad de Puebla;
+
+XIII.- Realizar estudios comparativos y de mercado, así como investigaciones sobre los manuales de políticas y procedimientos de otras casas de empeño, informando sobre los resultados al Director, y
+
+XIV.- Sugerir al Director del Monte de Piedad las medidas necesarias para lograr mayor posicionamiento en el mercado.
+
+### CAPÍTULO XIII. DE LA SUBDIRECCIÓN DE OPERACIÓN DE NEGOCIOS
+
+###### ARTÍCULO 24.
+
+El Subdirector de Operación de Negocios, depende del Director de Administración de Negocios y su Titular además de las atribuciones señaladas en el artículo 22 del presente Reglamento, tendrá las siguientes:
+
+I.- Auxiliar al Director a coordinar, administrar, evaluar y controlar las actividades del Panteón de la Piedad, Servicios Funerarios Integrales de la Piedad; del arrendamiento de inmuebles y estacionamientos, así como de la Exhacienda de Chautla y Estaciones de Servicio en lo que por derecho corresponda al Organismo;
+
+II.- Administrar en forma racional y eficiente las unidades productivas a su cargo;
+
+III.- Proponer al Director los proyectos tendientes a incrementar los ingresos y el patrimonio de las unidades productivas a su cargo;
+
+IV.- Remitir los reportes de ingresos diarios y mensuales que generen las unidades productivas al superior inmediato, para su revisión y autorización, para que sean turnadas a la Dirección General y Administrativa, respectivamente;
+
+V.- Realizar permanentemente visitas de supervisión a las unidades productivas para verificar su funcionamiento y operación;
+
+VI.- Informar oportunamente al Director de Administración de Negocios, el estado que guardan las unidades a su cargo;
+
+VII.- Proponer al Director los mecanismos administrativos y programas de trabajo de las unidades a su cargo;
+
+VIII.- Supervisar así como llevar un control y registro del inventario de los bienes inmuebles propiedad del Instituto, así como su actualización en su situación catastral, legal y fiscal;
+
+IX.- Elaborar el programa anual de eventos especiales a realizar por el Organismo, informando al Director de Administración de Negocios, de los avances y resultados correspondientes;
+
+X.- Organizar y realizar los eventos artísticos, culturales, sociales, rifas y sorteos, que autorice la Junta Directiva, de acuerdo con el programa y presupuesto anual autorizado;
+
+XI.- Elaborar el presupuesto de cada uno de los eventos a realizar, así como diseñar y aplicar los esquemas logísticos administrativos necesarios para la ejecución de los mismos;
+
+XII.- Proponer eventos en los que participen organizaciones públicas y privadas que actúen con el carácter de benefactoras, en beneficio del Instituto;
+
+XIII.- Elaborar en coordinación con la Dirección Jurídica y Administrativa del Organismo, los contratos que sean necesarios en relación con los servicios requeridos para la realización de los eventos;
+
+XIV.- Informar a su inmediato superior del estado que guardan las Estaciones de Servicio del Instituto en el cumplimiento de la normatividad, los procedimientos y las políticas generales que estable (sic) PEMEX-Refinación o cualquier otra dependencia competente;
+
+XV.- Analizar diariamente el reporte de ingresos, remitido por los responsables de las Estaciones de Servicio;
+
+XVI.- Informar al Director de Administración de Negocios sobre los requerimientos y trámites que se deban realizar, ante las instancias correspondientes, como los permisos o autorizaciones necesarias para el funcionamiento de las Estaciones de Servicio;
+
+XVII.- Elaborar y someter a consideración de su inmediato superior, la programación de abastecimiento de combustible de las Estaciones de Servicio del Instituto, manteniendo el contacto con la terminal de abastecimiento y distribución de PEMEX-Refinación;
+
+XVIII.- Verificar los registro (sic) de las Estaciones de Servicio, por la venta de combustible, vales, reembolso de fondo revolvente, depósitos bancarios y en general toda la documentación que se envía al área administrativa correspondiente del Instituto;
+
+XIX.- Elaborar el informe de resultados financieros de los eventos que se realicen y entregarlo al Director para su autorización y envío a la Dirección Administrativa;
+
+XX.- Instruir al personal y vigilar que se cumpla con las políticas establecidas por PEMEX-Refinación, normatividad en materia ambiental, programas, manuales y disposiciones relativas a las Estaciones de Servicio;
+
+XXI.- Supervisar que se cumpla con los objetivos básicos de productividad, eficiencia, calidad en el otorgamiento de los servicios;
+
+XXII.- Controlar el estado de operación de todas las instalaciones, maquinaria y equipo de las Estaciones de Servicio;
+
+XXIII.- Conocer y difundir entre el personal de su área el programa de contingencias, para su correcta aplicación;
+
+XXIV.- Elaborar conjuntamente con el jefe de mantenimiento, el programa de trabajo de mantenimiento preventivo de las Estaciones;
+
+XXV.- Dar seguimiento a las inspecciones y observaciones de organismos y dependencias relacionadas con la materia de los negocios;
+
+XXVI.- Observar los alineamientos y normatividad de PEMEX-Refinación;
+
+XXVII.- Inspeccionar continuamente que la imagen y la calidad del servicio se refleje en la presentación de las Estaciones de Servicio, así como en el personal que atiende al público, y
+
+XXVIII.- Solucionar los problemas que se presenten en torno a las Estaciones y reportarlo de inmediato a su jefe inmediato superior.
+
+### CAPÍTULO XIV. DE LA COORDINACIÓN DE SEGUIMIENTO OPERACIONAL
+
+###### ARTÍCULO 25.
+
+La Coordinación de Seguimiento Operacional, estará a cargo de un Coordinador bajo el mando directo del Director General y su Titular además de las atribuciones establecidas en el artículo 22 de este Reglamento, tendrá las siguientes:
+
+I.- Evaluar a través de estrategias y mecanismos adecuados, el cumplimiento de los objetivos y metas que se establezcan en el programa operativo anual del Organismo;
+
+II.- Dar seguimiento, acorde con la normatividad establecida por el Gobierno del Estado, a través de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, al desarrollo de programas y metas del Organismo;
+
+III.- Asesorar al Director General en asuntos que sean de su competencia;
+
+IV.- Auxiliar al Director General en la formulación de informes;
+
+V.- Solicitar, recopilar y analizar la información de las unidades del Instituto que se deban presentar a las sesiones de la Junta Directiva y a las del Patronato;
+
+VI.- Dar seguimiento a la correspondencia de la Dirección General;
+
+VII.- Revisar y analizar las solventaciones que las unidades administrativas deban presentar ante la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, en coordinación con los titulares de las áreas involucradas;
+
+VIII.- Evaluar el impacto socioeconómico de los programas del Organismo, sustentado en los datos que se generen mensual y anualmente;
+
+IX.- Registrar el cumplimiento de las metas y objetivos de las unidades administrativas del Organismo, y
+
+X.- Las demás que le confieran las disposiciones legales aplicables y las que le encomiende el Director General.
+
+## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+###### ARTÍCULO 26.
+
+El Director General del Instituto durante sus ausencias no mayores a quince días, previo acuerdo de él mismo, será suplido por cualquiera de los Titulares de las Direcciones que al efecto designe, de acuerdo al asunto de que se trate y en sus respectivos ámbitos de su competencia, sin perjuicio de las facultades conferidas a la Junta Directiva.
+
+###### ARTÍCULO 27.
+
+Los Directores del Instituto serán suplidos durante su ausencia temporal, por cualquiera de los Subdirectores, o por el servidor público del nivel jerárquico inmediato inferior, en los asuntos de sus respectivas competencias.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Dado en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de abril del año dos mil seis.- El Director General del Instituto para la Asistencia Pública del Estado de Puebla.- INGENIERO JOSÉ SALVADOR GARMILLA HERRERA, en cumplimiento del Acuerdo de la H. Junta Directiva del Instituto.- Rúbrica.
