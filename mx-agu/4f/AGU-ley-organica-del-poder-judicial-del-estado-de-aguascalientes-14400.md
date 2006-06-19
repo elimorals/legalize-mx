@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2005-12-26"
+last_updated: "2006-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2006.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -705,13 +705,11 @@ III.- Las demás que señalen las disposiciones legales aplicables.
 
 Habrá en la capital del Estado los Juzgados de Primera Instancia, Civiles, Familiares, Penales y Mixtos que se distinguirán por los números ordinales que les correspondan que sean necesarios para la pronta administración de justicia; pero para la creación de un nuevo juzgado, el Supremo Tribunal de Justicia lo solicitará al H. Congreso del Estado, con la fundamentación necesaria.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 35.
 
-Habrá en el Estado cuatro partidos judiciales:
-
-El primero comprenderá los Municipios de Aguascalientes, Jesús María y El Llano; el segundo, comprenderá el Municipio de Calvillo; el tercero comprenderá los Municipios de Pabellón de Arteaga, San José de Gracia, Asientos y San Francisco de los Romo y el cuarto comprenderá los Municipios de Rincón de Romos, Cosío y Tepezalá, residiendo el Juzgado de Primera Instancia en el primero de los Municipios citados en cada partido. Los Juzgados de Primera Instancia de los partidos judiciales segundo, tercero y cuarto serán mixtos y conocerán de asuntos civiles, familiares y penales.
+Habrá en el Estado cinco partidos judiciales: el Primero comprenderá los Municipios de Aguascalientes, Jesús María y el Llano; el Segundo, comprenderá el Municipio de Calvillo; el Tercero comprenderá los Municipios de Pabellón de Arteaga, San José de Gracia, Asientos, San Francisco de los Romo; el Cuarto, comprende los Municipios de Rincón de Romos, Cosío y Tepezalá; y el Quinto al Municipio de Jesús María, residiendo en el Juzgado de Primera Instancia en el primero de los Municipios citados en cada partido. Los juzgados de Primera Instancia de los Partidos Judiciales Segundo, Tercero, Cuarto, y Quinto, serán mixtos y conocerán de asuntos Civiles, Familiares y Penales.
 
 Para entrar al desempeño de sus funciones, los jueces protestarán ante el Pleno del Supremo Tribunal de Justicia del Estado.
 
@@ -1444,3 +1442,13 @@ El Consejo de la Judicatura dentro de los cuarenta y cinco días siguientes a la
 ###### ARTICULO QUINTO.
 
 Hasta en tanto el Congreso del Estado no designe al Magistrado del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, éste suspenderá sus funciones a partir del día cuatro de enero del 2006. Los juicios tramitados ante el Tribunal se suspenderán en sus términos hasta la designación del nuevo Magistrado que será el competente para conocer y resolver de los mismos.
+
+P.O. 19 DE JUNIO DE 2006.
+
+PRIMERO.- Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Juzgado Mixto de Primera Instancia del Quinto Partido Judicial iniciará sus actividades en la fecha que determine el Pleno del Supremo Tribunal de Justicia del Estado.
+
+TERCERO.- Los asuntos que deba conocer el Juzgado Mixto de Primera Instancia del Quinto Partido Judicial, que estén en trámite, en los Juzgados Civiles, Familiares y Penales del Primer Partido Judicial, continuarán hasta su total conclusión en el Juzgado que se encuentran.
+
+CUARTO.- En tanto no entre en funcionamiento el Juzgado Mixto de Primera Instancia del Quinto Partido Judicial, seguirá conociendo des esta jurisdicción el Primer Partido Judicial.
