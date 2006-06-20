@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2006-06-02"
+last_updated: "2006-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -710,7 +710,11 @@ El acuerdo secretarial respectivo señalará los requisitos específicos que deb
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria;
+I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2006)</small>
+
+La edad mínima para ingresar a la educación básica en el nivel preescolar es de 3 años, y para nivel primaria 6 años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
 II.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
@@ -1001,3 +1005,7 @@ DECRETO QUE ADICIONA UNA FRACCION XIII AL ARTICULO 7 Y UNA FRACCION XI, PASANDO 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Ejecutivo Federal deberá actualizar y modernizar el Reglamento de Cooperativas Escolares vigente desde 1982, utilizando para tal fin el esquema de participación sectorial que más convenga a la dependencia, en un plazo no mayor a sesenta días a partir de la publicación del presente decreto.
+
+D.O.F. 20 DE JUNIO DE 2006.
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
