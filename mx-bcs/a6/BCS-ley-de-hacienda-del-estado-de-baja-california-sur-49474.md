@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2006-02-28"
+last_updated: "2006-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2006.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -59,17 +59,21 @@ Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de l
 
 El pago de las contribuciones a que se refiere esta Ley se efectuará en las oficinas de la Dirección de Ingresos, Recaudaciones o Subrecaudaciones de Rentas de la Secretaría de Finanzas del Gobierno del Estado, o en las oficinas e instituciones bancarias que autorice la citada Secretaría, a través de alguno de los medios de pago autorizados en el Código Fiscal del Estado y Municipios de Baja California Sur o de los medios electrónicos autorizados por la misma Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+
 ###### Artículo 5.
 
-El entero de los pagos provisionales de los impuestos a que se refieren los Capítulos Segundo, Quinto, Secciones I, II y IV del Título Segundo de esta Ley, se efectuará a más tardar el día 15 del mes inmediato posterior a aquél al que corresponde el pago.
+El entero de los pagos provisionales de los impuestos a que se refiere el Capítulo Segundo, del Título Segundo de esta Ley, se efectuará a más tardar el día 15 del mes inmediato posterior a aquél al que corresponde el pago.
 
 Tratándose del entero de los pagos definitivos a que se refieren los Capítulos Primero, Tercero y Cuarto del Título Segundo de esta Ley se efectuarán en la misma fecha señalada en el párrafo anterior.
 
 La declaración tanto de pagos provisionales, como del ejercicio y definitivas se presentarán en el formato oficial que al efecto autorice y publique en el Boletín Oficial de Gobierno la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+
 ###### Artículo 6.
 
-Los contribuyentes de los impuestos a que se refieren los Capítulos Segundo y Quinto, Secciones I, II y IV del Título Segundo de esta Ley presentarán declaración anual del ejercicio a más tardar antes de las siguientes fechas:
+Los contribuyentes de los impuestos a que se refiere el Capítulo Segundo de esta Ley presentarán declaración anual del ejercicio a más tardar antes de las siguientes fechas:
 
 I. Tratándose de personas morales presentarán declaración del ejercicio en las oficinas o instituciones bancarias a que se refiere el Artículo 4 de esta Ley dentro de los tres meses siguientes al cierre del ejercicio.
 
@@ -301,7 +305,9 @@ Los ingresos provenientes de premios derivados de loterías, rifas, sorteos o co
 
 Es objeto de este Impuesto la realización de los pagos en efectivo y/o en especie por concepto de remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón dentro del territorio del Estado.
 
-Para los efectos de este gravamen, se consideran remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón las siguientes: sueldos y salarios, cantidades pagadas por tiempo extraordinario, premios, primas, bonos, estímulos e incentivos, gratificaciones, aguinaldos, participación patronal al fondo de ahorros, primas de antigüedad, participación de los trabajadores en las utilidades de la empresa, indemnizaciones por despido o terminación de la relación laboral, comisiones, pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones, ayuda para despensa y/o transporte, primas de seguro para gastos médicos o de vida, honorarios asimilables a los salarios.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2006)</small>
+
+Para los efectos de este gravamen, se consideran remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón las siguientes: sueldos y salarios, cantidades pagadas por tiempo extraordinario, premios, primas, bonos, estímulos e incentivos, gratificaciones, aguinaldos, participación patronal al fondo de ahorros, primas de antigüedad, participación de los trabajadores en las utilidades de la empresa, comisiones, pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones, ayuda para despensa y/o transporte, primas de seguro para gastos médicos o de vida, honorarios asimilables a los salarios.
 
 Para los efectos de este impuesto, se considerarán honorarios asimilables a salarios, los percibidos cuando las personas presten servicios preponderantemente a un prestatario, si dichos servicios se llevan a cabo en instalaciones de éste último, o si dichos ingresos representan para el prestador más del 50% de los ingresos que deriven de un servicio personal independiente.
 
@@ -615,81 +621,29 @@ Disposiciones Generales
 
 ###### Artículo 89.
 
-Las autoridades fiscales, podrán determinar presuntivamente la utilidad gravable y en su caso determinar el impuesto omitido de los contribuyentes, y para ello podrán aplicar a los ingresos brutos declarados o determinados presuntivamente, el coeficiente de 20% o el que corresponda tratándose de alguna de las actividades que a continuación se indican:
-
-I. Se aplicará 6% a los siguientes giros:
-
-Comerciales: Gasolina, petróleo y otros combustibles de origen mineral.
-
-II. Se aplicará 12% en los siguientes casos:
-
-Industriales: Sombreros de palma y paja.
-
-Comerciales: Abarrotes con venta de granos, semillas y chiles secos, azúcar, carnes en estado natural; cereales y granos en general; leches naturales, masa para tortillas de maíz, pan; billetes de lotería y teatros.
-
-Agrícolas: Cereales y granos en general.
-
-Ganaderas: Producción de leches naturales.
-
-III. Se aplicará 15% a los giros siguientes:
-
-Comerciales: Abarrotes con venta de vinos y licores de producción nacional; salchichonería, café para consumo nacional; dulces, confites, bombones y chocolates; legumbres, nieves y helados, galletas y pastas alimenticias, cerveza y refrescos embotellados, hielo, jabones y detergentes, libros, papeles y artículos de escritorio, confecciones, telas y artículos de algodón, artículos para deportes; pieles y cueros, productos obtenidos del mar, lagos y ríos, sustancias y productos químicos o farmacéuticos, velas y veladoras; cemento, cal y arena, explosivos; ferreterías y tlapalerías; fierro y acero, pinturas y barnices, vidrio y otros materiales para construcción, llantas y cámaras, automóviles, camiones, piezas de repuesto y otros artículos del ramo, con excepción de accesorios.
-
-Agrícolas: Café para consumo nacional y legumbres.
-
-Pesca: Productos obtenidos del mar, lagos, lagunas y ríos.
-
-IV. Se aplicará 22% a los siguientes rubros:
-
-Industriales: Masa para tortillas de maíz y pan de precio popular.
-
-Comerciales: Espectáculos en arenas, cines y campos deportivos.
-
-V. Se aplicará 23% a los siguientes giros:
-
-Industriales: Azúcar, leches naturales; aceites vegetales; café para consumo nacional; maquila en molienda de nixtamal, molienda de trigo y arroz; galletas y pastas alimenticias; jabones y detergentes; confecciones, telas y artículos de algodón; artículos para deportes; pieles y cueros; calzado de todas clases; explosivos, armas y municiones; fierro y acero; construcción de inmuebles; pintura y barnices, vidrio y otros materiales para construcción; muebles de madera corriente; extracción de gomas y resinas; velas y veladoras; imprenta; litografía y encuadernación.
-
-VI. Se aplicará 25% a los siguientes rubros:
-
-Industriales: Explotación y refinación de sal, extracción de maderas finas, metales y plantas minero-metalúrgicas.
-
-Comerciales: Restaurantes y agencias funerarias.
-
-VII. Se aplicará 27% a los siguientes giros:
-
-Industriales: Dulces, bombones, confites y chocolates, cerveza, alcohol, perfumes, esencias, cosméticos y otros productos de tocador; instrumentos musicales, discos y artículos del ramo; joyería y relojería; papel y artículos de papel; artefactos de polietileno, de hule natural o sintético; llantas y cámaras; automóviles, camiones, piezas de repuesto y otros artículos del ramo.
-
-VIII. Se aplicará 39% a los siguientes giros:
-
-Industriales: Fraccionamiento y fábricas de cemento.
-
-Comerciales: Comisionistas y otorgamiento del uso o goce temporal de inmuebles.
-
-IX. Se aplicará 50% en el caso de prestación de servicios personales independientes.
+(DEROGADO, B.O. 20 DE JUNIO DE 2006)
 
 ###### Artículo 90.
 
-Las autoridades fiscales podrán modificar la utilidad, mediante la determinación presuntiva del precio en que los contribuyentes adquieran o enajenen bienes, así como el monto de la contraprestación en el caso de operaciones distintas de enajenación, cuando:
-
-I. Las operaciones de que se trate se pacten a menos del precio de mercado o el costo de adquisición sea mayor que dicho precio.
-
-II. La enajenación de los bienes se realice al costo o a menos del costo, salvo que el contribuyente compruebe que la enajenación se hizo al precio de mercado en la fecha de la operación, o que los bienes sufrieron demérito o existieron circunstancias que determinaron la necesidad de efectuar la enajenación en estas condiciones.
-
-Para los efectos de lo dispuesto en el párrafo anterior, las autoridades fiscales podrán considerar los precios corrientes en el mercado, o el de avalúo que practiquen u ordenen practicar las autoridades fiscales.
+(DEROGADO, B.O. 20 DE JUNIO DE 2006)
 
 ## Título Tercero. De los derechos
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+
 ###### Artículo 91.
 
-Los derechos previstos en este título se podrán pagar en las cajas recaudadoras de las dependencias y unidades administrativas que presten los servicios, salvo las excepciones prevista (sic) en este mismo título.
+Los derechos previstos en este título se podrán pagar en las oficinas de la Dirección de Ingresos, en las recaudaciones o subrecaudaciones de rentas de la Secretaria de Finanzas. La Secretaria de Finanzas podrá autorizar mediante acuerdo que se deberá de publicar en el Boletín Oficial del Gobierno del Estado, para que las dependencias y unidades administrativas que presten los servicios, reciban el pago de los derechos previstos en este Título.
 
 Por ningún concepto las autoridades administrativas podrán dispensar a los particulares del pago de los derechos comprendidos en este capítulo, u otorgar algún subsidio o reducción sobre dichos conceptos.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+
 ###### Artículo 92.
 
-Las autoridades que en los términos del artículo anterior recauden ingresos por los conceptos señalados en este Título, estarán obligadas a informar sobre el importe recaudado a la Secretaría de Finanzas a más tardar el día 15 del mes siguiente a su recaudación.
+Las autoridades que en los términos del artículo anterior recauden ingresos por los conceptos señalados en este Título, estarán obligadas a enterar el importe y presentar un informe de lo recaudado a la Secretaría de Finanzas a más tardar el día 15 del mes siguiente a su recaudación.
 
 El informe mencionado en el párrafo anterior contendrá los siguientes datos:
 
@@ -739,7 +693,9 @@ a) Por la primera hoja 1.50
 
 b) Por cada hoja siguiente 1
 
-IV. Expedición de constancias de no antecedentes penales; 5
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2006)</small>
+
+IV. Expedición de constancia de no antecedentes penales; 1
 
 V. Anuencias; 3
 
@@ -948,6 +904,12 @@ a) Número del día; 0.5
 b) Número extraordinario; 0.75
 
 c) Número atrasado. 1
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2006)</small>
+
+III. Por publicación de avisos en el Boletín Oficial
+
+a) Por palabra 0.005
 
 ###### Artículo 96.
 
@@ -1217,9 +1179,11 @@ o particular autorizado para expedir títulos
 
 profesionales o grados académicos. 73
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2006)</small>
+
 ###### Artículo 101.
 
-Los derechos causados conforme al artículo anterior, podrán pagarse en las oficinas de la Secretaría de Educación Pública o en las oficinas o instituciones bancarias autorizadas por la Secretaría de Finanzas. En los casos de las Fracciones XI y XII del mismo artículo, el pago podrá realizarse en la Institución Educativa que aplique los exámenes, pero deberá enterar el importe recaudado a la Secretaría de Educación Pública en los plazos a que se refiere el Artículo 92 de esta Ley.
+En los casos de las Fracciones XI y XII del mismo artículo, el pago podrá realizarse en la Institución Educativa que aplique los exámenes, pero deberá enterar el importe recaudado a la Secretaría de Finanzas en los plazos a que se refiere el Artículo 92 de esta Ley.
 
 ###### Artículo 102.
 
@@ -1694,3 +1658,11 @@ Artículo Primero.- El presente decreto entrará en vigor el día de su publicac
 Artículo Segundo.- Los créditos fiscales causados hasta la fecha, en virtud de las contribuciones a que se refieren los capítulos Quinto y Sexto que se derogan, así como sus accesorios, quedan extinguidos en virtud del presente decreto.
 
 Artículo Tercero.- Quedan derogadas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- El impuesto sobre nómina causado durante el mes de febrero de 2006, se causará a una tasa del 2% y será a partir del 1 de marzo de 2006, que se causará a la tasa de 2.5%.
+
+TERCERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
