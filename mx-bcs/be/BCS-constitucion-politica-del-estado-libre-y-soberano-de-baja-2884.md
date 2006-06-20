@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2005-11-10"
+last_updated: "2006-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2006.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -859,11 +859,9 @@ XVII.- Ejercer el presupuesto de egresos;
 
 XVIII.- Contratar empréstitos con la aprobación del Congreso del Estado destinado a inversiones públicas productivas.
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2006)</small>
 
-XIX.- Presentar al Congreso del Estado durante la primera quincena del mes de Noviembre de cada año, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos que deberán regir durante el año siguiente.
-
-El Gobernador del Estado, podrá solicitar la ampliación del plazo para hacer entrega al Congreso del Estado de los mencionados documentos.
+XIX.- Presentar al Congreso del Estado durante la segunda quincena del mes de octubre de cada año, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, que deberán regir durante el año siguiente;
 
 XX.- Rendir al Congreso un informe anual del Estado que guarde la administración pública de la entidad;
 
@@ -2460,3 +2458,7 @@ B.O. 10 DE NOVIEMBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JUNIO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
