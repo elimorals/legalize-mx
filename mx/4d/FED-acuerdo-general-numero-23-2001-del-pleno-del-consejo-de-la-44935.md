@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2006-06-19"
+last_updated: "2006-06-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -115,7 +115,7 @@ XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 > <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
-XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+XXIX.- VIGÉSIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
@@ -135,9 +135,9 @@ I.- PRIMER CIRCUITO:
 
 II.- SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 35/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 46/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE JUNIO DE 2006)</small>
 
-1.- Once Tribunales Colegiados especializados: tres en materia penal, uno en materia administrativa, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y dos Tribunales Colegiados en Materia Administrativa, con residencia en Naucalpan de Juárez
+1.- Doce tribunales colegiados especializados: cuatro en materia penal, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y tres tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 72/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1540,5 +1540,21 @@ D.O.F. 19 DE JUNIO DE 2006.
 ACUERDO 36/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO I, NUMERO 2.
 
 PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 20 DE JUNIO DE 2006.
+
+ACUERDO 37/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO II, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 20 DE JUNIO DE 2006.
+
+ACUERDO 46/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO II, NUMERO 1.
+
+PRIMERO.- El presente acuerdo entrará en vigor el nueve de julio de dos mil seis.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
