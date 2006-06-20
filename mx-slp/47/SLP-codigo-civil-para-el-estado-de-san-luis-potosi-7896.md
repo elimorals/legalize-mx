@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2004-06-19"
+last_updated: "2006-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1767,37 +1767,53 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la pensión hereditaria y los alimentos que fije la Ley.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+### CAPITULO V. De la Adopción
 
-### CAPITULO VIII. De la adopción internacional
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
 
-ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
+ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
+ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
 
-En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
 
-ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
 
-ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
+I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
 
-El Ministerio Público vigilará que se cumpla con esta disposición.
+II.- El tutor de quien va a ser adoptado;
 
-ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
+
+IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
+
+V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
+
+VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
+
+Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -1929,53 +1945,37 @@ Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcion
 
 ART. 370.8.- Ejecutoriada que sea la sentencia que decrete la adopción plena, quedarán extinguidos todos los vínculos con la familia de origen del menor.
 
-### CAPITULO V. De la Adopción
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+### CAPITULO VIII. De la adopción internacional
 
-ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
 
-ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
+Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
+ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
 
-ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
 
-ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
 
-ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
+ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
 
-II.- El tutor de quien va a ser adoptado;
+El Ministerio Público vigilará que se cumpla con esta disposición.
 
-III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
-
-IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
-
-V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
-
-VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
-
-Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
+ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ## TITULO OCTAVO. De la Patria Potestad
 
@@ -5817,6 +5817,22 @@ ART. 1633.2.- Si en cualquier momento de la ejecución de los contratos a que se
 
 ART. 1633.3.- Se entiende por acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevengan por hechos o circunstancias que alteren la situación económica del país o del Estado de San Luis Potosí, de tal manera que de haber sabido el deudor se iban a manifestar en perjuicio de lo pactado por él, no se habría obligado, ni convenido en la forma y términos en que lo hizo.
 
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
 Del Consentimiento
 
 ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
@@ -5836,38 +5852,6 @@ ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin 
 ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
-Interpretación
-
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
-
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
-
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
-
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
-
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
-
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
-
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
-
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
-
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
-
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 Vicios del Consentimiento
 
@@ -5895,26 +5879,6 @@ ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del do
 
 ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
 Del objeto y del motivo o fin de los Contratos
 
 ART. 1660.- Son objeto de los contratos:
@@ -5940,6 +5904,16 @@ ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el
 ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
 
 ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 División de los Contratos
 
@@ -5980,6 +5954,32 @@ ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la co
 ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
+
+Interpretación
+
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -9445,11 +9445,11 @@ ART. 2846.- El registrador que haga una inscripción sin cumplir con lo dispuest
 
 ART. 2847.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2006)</small>
 
-ART. 2848.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir el derecho, excepto en el caso previsto en el Artículo 2147 en que el fedatario estará obligado a hacerlo, dar a la Oficina del Registro Público de la Propiedad, un primer aviso preventivo al solicitar el certificado sobre la existencia de la inscripción en favor del titular registral o sobre las gravámenes que reporte el inmueble o derecho, o la libertad de los mismos. Dicho aviso deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de 30 días naturales, contados a partir de la fecha de su presentación.
+ART. 2848.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir el derecho, excepto en el caso previsto en el artículo 2147 en que el fedatario estará obligado a hacerlo, dar a la Oficina del Registro Público de la Propiedad, un primer aviso preventivo al solicitar el certificado sobre la existencia de la inscripción en favor del titular registral o sobre las gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de sesenta días naturales, contados a partir de la fecha de su presentación.
 
-Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó, dará al Registro, dentro de las 48 horas siguientes, un segundo aviso preventivo sobre la operación de que se trate, que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y se asentará al margen de la inscripción, una anotación preventiva del segudno (sic) aviso que tendrá vigencia por un término de 90 días naturales, contados a partir de la fecha de su presentación. En los casos en que el segundo aviso que se menciona en este párrafo, se dé dentro del término de 30 días a que se contrae el párrafo anterior, los efectos preventivos del segundo aviso, se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
+Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó, dará al Registro, dentro de las cuarenta y ocho horas siguientes, un segundo aviso preventivo sobre la operación de que se trate, que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y se asentará al margen de la inscripción, una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales, contados a partir de la fecha de su presentación. En los casos en que el segundo aviso que se menciona en este párrafo, se dé dentro del término de sesenta días a que se contrae el párrafo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
 
@@ -9812,3 +9812,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
 
 TERCERO. De acuerdo a las reformas aprobadas, se concede al titular del Poder Ejecutivo del Estado, el término de ciento ochenta días para que formule el Reglamento del Registro Público de la Propiedad y de Comercio.
+
+P.O. 20 DE JUNIO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este decreto.
+
+TERCERO. Los trámites que se hayan iniciado conforme al artículo que se reforma con el presente Decreto, atenderán a los plazos que en el mismo artículo se establecen hasta antes de su modificación.
