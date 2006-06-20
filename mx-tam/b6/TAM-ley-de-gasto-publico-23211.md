@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2002-10-02"
+last_updated: "2006-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -41,9 +41,11 @@ LEY DE GASTO PUBLICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 1º.
 
-El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejecución, control, evaluación e información; mismas que se norman y se regulan por las disposiciones previstas en la presente ley.
+El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejecución, control, evaluación e información y transparencia; mismas que se norman y se regulan por las disposiciones previstas en la presente ley.
 
 ###### ARTICULO 2º.
 
@@ -496,3 +498,9 @@ P.O. 2 DE OCTUBRE DE 2002
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
