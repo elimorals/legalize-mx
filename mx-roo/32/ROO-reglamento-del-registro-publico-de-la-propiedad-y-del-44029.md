@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-registro-publico-de-la-propiedad-y-del-44029"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-28"
-last_updated: "2005-02-28"
+last_updated: "2006-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 28 de febrero de 2005.
 
@@ -43,17 +43,23 @@ REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE QU
 
 Las disposiciones del presente ordenamiento son de orden público e interés social y tienen por objeto reglamentar el Libro Cuarto de la Cuarta Parte Especial del Código Civil para el Estado de Quintana Roo.
 
-Su aplicación e interpretación competen al Titular del Ejecutivo del Estado por conducto del Secretario de Gobierno, al Director General del Registro, así como a los Registradores y demás funcionarios y empleados de la Unidad Administrativa, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
+Su aplicación e interpretación competen al Titular del Ejecutivo del Estado por conducto del Secretario de Hacienda, Subsecretario de Ingresos, al Director General del Registro, así como a los registradores y demás funcionarios y empleados de la unidad administrativa, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 2.
 
 El Registro Público de la Propiedad y del Comercio del Estado, es la Institución, a través de la cual, el Gobierno del Estado proporciona el servicio de inscribir y dar publicidad a los actos y negocios jurídicos que conforme al Código Civil deban registrarse.
 
-Es una unidad administrativa del Poder Ejecutivo del Estado y en términos de lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y en el Reglamento Interior de la Secretaría de Gobierno, estará adscrita a dicha Dependencia por conducto de la Secretaría de Asuntos Jurídicos, a quien le corresponderá la planeación, programación, organización, coordinación, dirección, control y evaluación de la misma.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
+Es una unidad administrativa del Poder Ejecutivo del Estado y en términos de lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y en el Reglamento Interior de la Secretaría de Hacienda, estará adscrita a dicha Dependencia por conducto de la Subsecretaría de Ingresos, a quien le corresponderá la planeación, programación, organización, coordinación, dirección, control y evaluación de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
 
 ###### Artículo 3.
 
-Al Registro Público de la Propiedad y del Comercio le corresponde el desempeño de las funciones registrales en materia inmobiliaria, mobiliaria y de personas jurídicas o morales, con arreglo a las prevenciones del Código Civil para el Estado de Quintana Roo, de este Reglamento, del Reglamento Interior de la Secretaría de Gobierno, de los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Gobierno, de los Manuales de Operación del Sistema Informático del propio Registro y de las demás disposiciones legislativas, reglamentarias y administrativas aplicables.
+Al Registro Público de la Propiedad y del Comercio le corresponde el desempeño de las funciones registrales en materia inmobiliaria, mobiliaria y de personas jurídicas o morales, con arreglo a las prevenciones del Código Civil para el Estado de Quintana Roo, de este Reglamento, del Reglamento Interior de la Secretaría de Hacienda, de los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, de los Manuales de Operación del Sistema Informático del propio Registro y de las demás disposiciones legislativas, reglamentarias y administrativas aplicables.
 
 Sus oficinas se ubican en la Ciudad de Chetumal; y cuando las necesidades del servicio lo requieran, se podrán establecer Delegaciones en otras ciudades de la Entidad por Acuerdo Administrativo del Ejecutivo, en el que se precisará la jurisdicción de cada una de ellas.
 
@@ -143,7 +149,9 @@ V. Formular y presentar ante el Ministerio Público las denuncias, o querellas p
 
 VI. Asesorar y apoyar jurídicamente a las Delegaciones, a efecto de que los asuntos de su competencia se resuelvan con estricto apego a las leyes en la materia.
 
-VII. Coordinarse con las autoridades competentes a fin de resolver con estricto apego a las leyes fiscales, los casos de cobro de derechos registrales no previstos en términos de la Ley de Hacienda del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+VII. Coordinarse con el Subsecretario de Ingresos a fin de resolver con estricto apego a las leyes fiscales, los casos de cobro de derechos registrales no previstos en términos de la Ley de Hacienda del Estado de Quintana Roo.
 
 VIII. Coordinar y supervisar la instauración de métodos y procedimientos acordes con el sistema registral.
 
@@ -151,7 +159,9 @@ IX. Representar con el nombramiento respectivo en documento fehaciente, a la Ins
 
 X. Promover e instaurar planes y programas de calidad, tendientes a lograr la modernización registral en el Estado.
 
-XI. Vigilar el cumplimiento de las resoluciones dictadas por la Secretaría de Gobierno o autoridad competente sobre las inconformidades.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XI. Vigilar el cumplimiento de las resoluciones dictadas por la Secretaría de Hacienda o autoridad competente sobre las inconformidades.
 
 XII. Dar su visto bueno en aquéllos casos que le sea requerido por los funcionarios del Registro.
 
@@ -183,11 +193,15 @@ VIII. No haber sido condenado por delito doloso.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DELEGADOS Y TITULARES DE LAS ÁREAS, Y DE SUS PERFILES PROFESIONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 11.
 
-Los Delegados, así como los Titulares de las Áreas Jurídica, Informática, Administrativa y de Archivo, tendrán las siguientes atribuciones genéricas:
+Los Delegados, así como los titulares de las Áreas Jurídica, Informática, Administrativa y de Archivo, tendrán las siguientes atribuciones genéricas:
 
-I. Acatar las disposiciones que emanen de la Dirección General.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+I. Acatar las disposiciones que emanen de la Secretaría de Hacienda, Subsecretaría de Ingresos y la Dirección General.
 
 II. Supervisar de manera permanente el funcionamiento de las oficinas registrales en su respectiva área de competencia.
 
@@ -217,7 +231,9 @@ XIV. Determinar la actividad a desarrollar por el personal a su cargo, según la
 
 XV. Excusarse de participar en procedimientos del Registro en los cuales tenga interés jurídico.
 
-XVI. Las demás que les encomienden el Secretario de Gobierno, el Director General, y les señalen el Código, el Reglamento Interior de la Secretaría de Gobierno, este Reglamento, los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Gobierno, los Manuales de Operación del Sistema Informático del Registro, y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XVI. Las demás que les encomienden el Secretario de Hacienda, El Subsecretario de Ingresos, el Director General, y les señalen el Código, el Reglamento Interior de la Secretaría de Hacienda, este Reglamento, los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, los Manuales de Operación del Sistema Informático del Registro, y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
 
 ###### Artículo 12.
 
@@ -235,29 +251,39 @@ IV. El Titular del Área de Archivo, deberá contar con Título de Licenciado en
 
 #### SECCIÓN I. DE LOS DELEGADOS
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 13.
 
-El Registro brindará los servicios registrales estipulados en el Código, en el Reglamento Interior de la Secretaría de Gobierno, en este Reglamento, en los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Gobierno, en los Manuales de Operación del Sistema Informático, y en las demás disposiciones legislativas, reglamentarias y administrativas aplicables, a través de la Dirección General y de las Delegaciones que para tal efecto se establezcan en toda la circunscripción territorial del Estado.
+El Registro brindará los servicios registrales estipulados en el Código, en el Reglamento Interior de la Secretaría de Hacienda, en este Reglamento, en los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la. Secretaría de Hacienda, en los Manuales de Operación del Sistema Informático, y en las demás disposiciones legislativas, reglamentarias y administrativas aplicables, a través de la Subsecretaría de Ingresos, de la Dirección General y de las Delegaciones que para tal efecto se establezcan en toda la circunscripción territorial del Estado.
 
 ###### Artículo 14.
 
 Las Delegaciones, dependerán de la Dirección General y al frente de cada una habrá un servidor público a quien se le denominará Delegado, el cual deberá reunir los mismos requisitos que para ocupar el cargo de Director General y que para el óptimo desempeño de sus funciones contará, con la estructura orgánica, personal y recursos materiales que requiera en base a su capacidad funcional y de servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 15.
 
-Los Delegados, además de las atribuciones señaladas en el artículo 11 de este Reglamento, tendrán las siguientes atribuciones específicas:
+Los Delegados, además de las atribuciones señaladas en el Artículo 11 de este Reglamento, tendrán las siguientes atribuciones específicas:
 
-I. Acatar los lineamientos y políticas propuestos por la Dirección General, para aprobar y promover los planes y programas de trabajo, que permitan una práctica sana, uniforme y ágil del proceso registral.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+I. Acatar los lineamientos y políticas propuestos por la Subsecretaría de Ingresos y la Dirección General, para aprobar y promover los planes y programas de trabajo, que permitan una práctica sana, uniforme y ágil del proceso registral.
 
 II. Ser depositarios, al igual que los registradores, de la fe pública registral y autorizar con su clave, firma y sellos correspondientes, las inscripciones y certificaciones generadas y que obren en los archivos del Registro.
 
 III. Coordinar de manera efectiva y eficiente, las actividades que desarrollen las áreas adscritas al Registro.
 
-IV. Formular y presentar ante el Ministerio Público las denuncias, o querellas por hechos que se consideren delictuosos, cometidos en agravio de la institución.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+IV. Formular y presentar ante el Ministerio Público las denuncias, o querellas por hechos que se consideren delictuosos, cometidos en agravio de la institución e informar a la Subsecretaría de Ingresos, por conducto de la Direccion General.
 
 V. Asesorar a los usuarios de los servicios registrales, a efecto de que se resuelvan con estricto apego a las leyes en la materia, los asuntos de su competencia.
 
-VI. Coordinarse con las autoridades competentes a fin de resolver con estricto apego a las leyes fiscales, los casos de cobro de derechos registrales no previstos en el esquema de tarifas vigente.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+VI. Coordinarse con la Subsecretaría de Ingresos y con la Direccion General a fin de resolver con estricto apego a las leyes fiscales, los casos de cobro de derechos registrales no previstos en el esquema de tarifas vigente.
 
 VII. Expedir certificaciones de los asientos registrales que obren en los archivos de la Delegación.
 
@@ -267,19 +293,25 @@ IX. Representar con el nombramiento respectivo en documento fehaciente, a la Ins
 
 X. Promover e instaurar planes y programas de calidad, tendientes a lograr la modernización registral en el territorio de su adscripción.
 
-XI. Recibir y enviar inmediatamente al Secretario de Gobierno para su resolución, el recurso de inconformidad presentado por los usuarios del servicio.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XI. Recibir y enviar inmediatamente al Subsecretario de Ingresos para su resolución, el recurso de inconformidad presentado por los usuarios del servicio.
 
 XII. Acordar con los Titulares de las Áreas, sobre los asuntos que así lo requieran para su efectiva resolución y toma de decisiones.
 
 XIII. Acordar y promover las medidas que considere pertinentes para la continua actualización del Programa informático registral y de la estructura administrativa y funcional.
 
-XIV. Aprobar y presentar a la autoridad competente, el anteproyecto de presupuesto anual, para su autorización, a efecto de cumplir con los objetivos y programas de modernización definidos.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XIV. Presentar a la autoridad competente, el anteproyecto de presupuesto anual, para su autorización, a efecto de cumplir con los objetivos y programas de modernización definidos, previo acuerdo con el Subsecretario de Ingresos.
 
 XV. Someter a consideración de la Dirección General, los recursos humanos, materiales, financieros y tecnológicos que requieran las áreas para el cumplimiento debido y eficiente desempeño de sus funciones.
 
 XVI. Colaborar con las autoridades judiciales y de cualquier otra índole, en los casos que así lo establezcan las leyes respectivas.
 
-XVII. Vigilar el cumplimiento de las resoluciones dictadas por el Secretario de Gobierno o autoridad competente.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XVII. Vigilar el cumplimiento de las resoluciones dictadas por el Secretario de Hacienda o autoridad competente.
 
 #### SECCIÓN II. DEL ÁREA JURÍDICA
 
@@ -313,7 +345,9 @@ I. Vigilar la legalidad y exactitud de los registros que se practiquen.
 
 II. Formular los acuerdos de denegación o suspensión de las solicitudes de inscripción, incluyendo en el mismo las causas, y remitirlas al Área Jurídica para su visto bueno.
 
-III. Registrar en el Programa informático el nuevo acto, introduciendo en el mismo los datos esenciales y complementarios de inscripción, de conformidad con las formas precodificadas autorizadas por la Dirección General, y en los términos que se señalen en el Manual de Procedimientos autorizado por el Gobernador del Estado y expedido por la Secretaría de Gobierno y en el Manual de Operación del mencionado Sistema.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+III. Registrar en el programa informático, el nuevo acto, introduciendo en el mismo los datos esenciales y complementarios de inscripción, de conformidad con las formas precodificadas autorizadas por la Dirección General, previo acuerdo con la Subsecretaría de Ingresos y en los términos que se señalen en el Manual de Procedimientos autorizado por el Gobernador del Estado y expedido por la Secretaría de Hacienda y en el Manual de Operación del mencionado Sistema.
 
 IV. Asignar, de acuerdo al Programa, el número de folio electrónico que corresponda a la inscripción según la solicitud respectiva.
 
@@ -325,7 +359,9 @@ VII. Informar al Titular del Área Jurídica de cualquier anomalía que advierta
 
 VIII. Excusarse de ejercer la función calificadora cuando, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso el documento se calificará y registrará por el Registrador que designe el Director General, o por él mismo.
 
-IX. Las demás que le encomiende el Director General y le señalen el Código, el Reglamento Interior de la Secretaría de Gobierno, el presente Reglamento, los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Gobierno, los Manuales de Operación del Sistema Informático del Registro, y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+IX. Las demás que le encomiende el Director General y le señalen el Código, el Reglamento Interior de la Secretaría de Hacienda, el presente Reglamento, los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, los Manuales de Operación del Sistema Informático del Registro, y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
 
 #### SECCIÓN III. DEL ÁREA INFORMÁTICA
 
@@ -333,9 +369,11 @@ IX. Las demás que le encomiende el Director General y le señalen el Código, e
 
 Al frente del Área Informática habrá un Titular, a quien le corresponderá la operación, organización y administración de los recursos informáticos de la Institución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 21.
 
-Además de las atribuciones señaladas en el artículo 11 de este Reglamento, el Titular del Área Informática tendrá las siguientes atribuciones específicas:
+Además de las atribuciones señaladas en el Artículo 11 de este Reglamento, el titular del área informática tendrá las siguientes atribuciones específicas:
 
 I. Proporcionar a las Áreas de la Dirección General o en su caso a la Delegación territorio de su adscripción correspondiente, el apoyo técnico en materia de informática, para el ejercicio de sus funciones y cumplimiento de sus metas y objetivos.
 
@@ -355,7 +393,9 @@ VIII. Mantener permanentemente actualizado el acervo informático del Registro, 
 
 IX. Participar en la formulación de propuestas tendientes a la modernización y actualización del Programa informático del Registro.
 
-X. Coordinarse con el titular del área administrativa a efecto de salvaguardar la base de datos, respaldos electrónicos y equipos de cómputo del Registro en caso de alguna emergencia.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+X. Coordinarse con el titular del área de informática de la Secretaría de Hacienda a efecto de salvaguardar la base de datos, respaldos electrónicos y equipos de cómputo del Registro en caso de alguna emergencia, previa autorización y conocimiento del Director General.
 
 XI. Supervisar cada quince días la calidad de la información contenida en la base de datos del Programa informático.
 
@@ -449,11 +489,15 @@ Para los efectos del artículo 3164 del Código, y para cada uno de los ramos es
 
 En cuanto a sus efectos, será, en unos casos, además de publicitario, constitutivo, y en otros, meramente publicitario, en los casos y bajo los presupuestos que señala el propio Código.
 
-En todo caso, los funcionarios y empleados del Registro deberán cumplir con las disposiciones del Código, de este Reglamento, del Reglamento Interior de la Secretaría de Gobierno, de los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Gobierno, de los Manuales de Operación del Sistema Informático del Registro, y de las demás disposiciones legislativas, reglamentarias y administrativas aplicables.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
+En todo caso, los funcionarios y empleados del Registro deberán cumplir con las disposiciones del Código, de este Reglamento, del Reglamento Interior de la Secretaría de Hacienda, de los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, de los Manuales de Operación del Sistema Informático del Registro, y de las demás disposiciones legislativas, reglamentarias y administrativas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
 
 ###### Artículo 27.
 
-El Registro operará con un Programa Informático que contará con bases de datos independientes por cada una de las Delegaciones, y posteriormente concentradas en la Dirección General por medio de enlaces de comunicación, ubicadas en las distintas circunscripciones territoriales que determine el Ejecutivo del Estado a través de la Secretaría de Gobierno. Las Bases de Datos contarán con al menos un respaldo electrónico.
+El Registro operará con un Programa Informático que contará con bases de datos independientes por cada una de las Delegaciones, y posteriormente concentradas en la Dirección General por medio de enlaces de comunicación, ubicadas en las distintas circunscripciones territoriales que determine el Ejecutivo del Estado a través de la Secretaría de Hacienda. Las bases de datos contarán con al menos un respaldo electrónico.
 
 Mediante el Programa Informático se realizará la captura, almacenamiento, custodia, seguridad, consulta, verificación, administración, transmisión, generación, envío, recepción, archivo, reproducción y procesamiento de la información registral.
 
@@ -463,7 +507,9 @@ Las bases de datos de las Delegaciones se integrarán con el conjunto de la info
 
 La Base de Datos Central, se integrará con la información que las Delegaciones incorporen a sus Bases de Datos, y con la información de la Dirección General, misma que deberá ser enviada vía red a la Dirección General.
 
-El Programa Informático será definido, establecido y controlado por el Área de Informática de la Dirección General. El Programa y todas las Bases de Datos y los respaldos electrónicos correspondientes, serán propiedad del Gobierno del Estado Libre y Soberano de Quintana Roo.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
+El Programa Informático será definido, establecido y controlado de común acuerdo con el Subsecretario de Ingresos, la Dirección de Informática de la Secretaría de Hacienda y por el área de informática de la Dirección General. El programa y todas las bases de datos y los respaldos electrónicos correspondientes, serán propiedad del Gobierno del Estado Libre y Soberano de Quintana Roo en posesión de la Secretaría de Hacienda.
 
 En caso de existir discrepancia o presunción de alteración de la información del Registro contenida en la Base de Datos de alguna Delegación, o sobre cualquier otro respaldo que hubiere, prevalecerá la información registrada en la Base de Datos Central de la Dirección General, salvo prueba en contrario.
 
@@ -493,9 +539,11 @@ El Sistema de Folio Registral del Estado de Quintana Roo, es la herramienta tecn
 
 En los casos de suspensión temporal del servicio registral electrónico por causa de fuerza mayor, podrán recibirse los documentos y continuar el procedimiento de registro de manera manual en las formas precodificadas, debiéndose, una vez reestablecido el servicio, capturar en el Programa Informático del Sistema, la información generada durante la contingencia.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 33.
 
-La información contenida en la Base de Datos de las Delegaciones y de la Dirección General, así como la Base de Datos Central, deberá ser respaldada en los medios de almacenamiento digital que resulten adecuados en función de los avances de la tecnología informática, los cuales serán resguardados en la caja fuerte de la Dirección General y en otro lugar distinto que para el efecto determine la Secretaría de Gobierno.
+La información contenida en la base de datos de las delegaciones y de la Dirección General, así como la base de datos central, deberá ser respaldada en los medios de almacenamiento digital que resulten adecuados en función de los avances de la tecnología informática, los cuales serán resguardados en la caja fuerte de la Dirección General y en otro lugar distinto que para el efecto determine la Secretaría de Hacienda.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO REGISTRAL
 
@@ -1079,9 +1127,11 @@ I. Contra la calificación registral que emita el Registrador, en virtud de la c
 
 II. Contra la oposición del Registrador a rectificar los asientos registrales.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 105.
 
-El recurso de inconformidad se presentará por escrito ante el Secretario de Gobierno o los Delegados, según sea el caso, en un plazo no mayor de cinco días hábiles contados a partir de la fecha en que se haga saber la resolución impugnada. Los Delegados remitirán el recurso inmediatamente al Secretario de Gobierno para su resolución.
+El recurso de inconformidad se presentará por escrito ante el Secretario de Hacienda o los Delegados, según sea el caso, en un plazo no mayor de cinco días hábiles contados a partir de la fecha en que se haga saber la resolución impugnada. Los Delegados remitirán el recurso inmediatamente al Secretario de Hacienda para su resolución.
 
 ###### Artículo 106.
 
@@ -1107,9 +1157,11 @@ Si el escrito en que se haga valer el recurso no satisface los requisitos establ
 
 La falta de firma del escrito donde se interponga el recurso, trae como consecuencia que se tenga por no presentado.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### Artículo 108.
 
-Una vez admitido el recurso, o agotadas las prevenciones, se le dará trámite al expediente, requiriendo a la autoridad en contra de quién se promovió el recurso, remita a la Secretaría de Gobierno en un término mayor de 10 días hábiles, el informe con justificación.
+Una vez admitido el recurso, o agotadas las prevenciones, se le dará trámite al expediente, requiriendo a la autoridad en contra de quién se promovió el recurso, remita a la Secretaría de Hacienda en un término mayor de 10 días hábiles, el informe con justificación.
 
 ###### Artículo 109.
 
@@ -1184,3 +1236,11 @@ LIC. JOAQUIN ERNESTO HENDRICKS DIAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 C. PEDRO JOSE FLORA ALCOCER
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JUNIO DE 2006.
+
+Primero. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a los preceptos de la presente reforma.
