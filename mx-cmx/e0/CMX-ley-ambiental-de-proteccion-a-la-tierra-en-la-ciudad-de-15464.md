@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2004-06-04"
+last_updated: "2006-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -128,7 +128,9 @@ IV. La prevención y control de la contaminación ambiental del aire, agua y sue
 
 V. Las actividades vinculadas con la prestación del servicio público de suministro de agua potable;
 
-VI. La ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+VI. La Ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental y para la conservación de servicios ambientales en las áreas naturales protegidas de competencia del Distrito Federal, las áreas comunitarias de conservación ecológica y el suelo de conservación;
 
 VII. La participación social encaminada al desarrollo sustentable del Distrito Federal; y
 
@@ -157,6 +159,10 @@ ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL: conjunto de órganos, centrales, 
 AGUAS RESIDUALES: Son las provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad que, por el uso de que han sido objeto, contienen materia orgánica y otras sustancias químicas que alteran su calidad original;
 
 AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados. Deberá entenderse también como medio ambiente;
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+ÁREAS COMUNITARIAS DE CONSERVACIÓN ECOLÓGICA. Superficies del suelo de conservación, cubiertas de vegetación natural, establecidas por acuerdo del ejecutivo local con los ejidos y comunidades, en terrenos de su propiedad, que se destinan a la preservación, protección y restauración de la biodiversidad y los servicios ambientales, sin modificar el régimen de propiedad de dichos terrenos.
 
 > <small>(REFORMADO G.O. 31 DE ENERO DE 2002)</small>
 
@@ -610,7 +616,9 @@ VIII. Cualquier programa, proyecto o acción que se desarrolle en el Distrito Fe
 
 IX. Se deberá propiciar la continuidad de los procesos ecológicos en el Distrito Federal; y
 
-X. Es responsabilidad de la Secretaría fomentar el mantenimiento y mejoramiento de la calidad de los bienes y servicios ambientales que proporcionan a la población los recursos naturales del suelo de conservación.
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+X. Es responsabilidad de la Secretaría fomentar e incentivar el mantenimiento y mejoramiento de la calidad de los recursos naturales y servicios ambientales que proporcionan a la población.
 
 ###### ARTÍCULO 19.
 
@@ -664,7 +672,9 @@ Para los efectos del artículo anterior, el Jefe de Gobierno del Distrito Federa
 
 I. Convocarán, en el ámbito del sistema local de planeación democrática, a todos los sectores interesados en la materia ambiental, para que manifiesten su opinión y propuestas;
 
-II. Celebrarán convenios con personas interesadas, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción del Distrito Federal, el aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente y la realización de estudios e investigación en la materia;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+II. Celebrarán convenios con personas interesadas, ejidos y comunidades agrarias, organizaciones sociales e instituciones, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción del Distrito Federal, el aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente; la realización de estudios e investigación en la materia; y la retribución por la conservación de servicios ambientales;
 
 III. Celebrarán convenios con los medios de comunicación masiva para la difusión, divulgación, Información y promoción de acciones de conservación del equilibrio ecológico, de protección al ambiente y de educación;
 
@@ -1308,25 +1318,29 @@ Se crea el fondo ambiental público cuyos recursos se destinarán a:
 
 I. La realización de acciones de conservación del medio ambiente, la protección ecológica y la restauración del equilibrio ecológico;
 
-II. El manejo y la administración de las áreas naturales protegidas;
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-III. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
+II. La vigilancia y conservación de los recursos naturales en Áreas Comunitarias de Conservación Ecológica;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+III. El manejo y la administración de las áreas naturales protegidas;
 
-IV. La retribución por proteger, restaurar o ampliar los servicios ambientales;
+IV. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+V. La retribución por proteger, restaurar o ampliar los servicios ambientales;
 
-V. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+VI. La retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica;
 
-VII. (SIC) La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
+VII. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
 
-> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-VII. La reparación de daños ambientales.
+VIII. El cuidado y protección de los animales del Distrito Federal;
+
+IX. La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
+
+X. La reparación de daños ambientales.
 
 ###### ARTÍCULO 70.
 
@@ -1355,6 +1369,12 @@ VI. Los recursos derivados de los instrumentos económicos y de mercado correspo
 > <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
 VII. Los demás recursos que se generen por cualquier otro concepto.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### Artículo 70 Bis.
+
+El Presupuesto de Egresos del Distrito Federal establecerá los recursos del fondo ambiental y, entre otros, aquellos destinados específicamente para la vigilancia y conservación de los recursos naturales, así como la retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica, y su monto no podrá ser menor al que se hubiera establecido en el ejercicio fiscal anterior.
 
 ###### ARTÍCULO 71.
 
@@ -1576,9 +1596,17 @@ II. La emisión de normas ambientales para el Distrito Federal;
 
 III. El desarrollo de programas de inspección y vigilancia y en su caso, la imposición de las sanciones que correspondan de conformidad con esta Ley;
 
-IV. El ejercicio de las acciones judiciales y administrativas que correspondan en los casos de invasión de áreas verdes, áreas naturales protegidas y en general, de suelo de conservación; y
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-V. Elaborar los programas de reforestación y restauración con especies nativas apropiadas a cada ecosistema.
+IV. El ejercicio de las acciones administrativas que correspondan en los casos de invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas de su competencia y, en general, de suelo de conservación;
+
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+V. Elaborar los programas de reforestación y restauración con especies nativas apropiadas a cada ecosistema; y
+
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+VI. La formulación e instrumentación del Programa de Retribución por la Conservación de Servicios Ambientales en Áreas Comunitarias de Conservación Ecológica.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1590,7 +1618,7 @@ Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposici
 
 ### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1608,7 +1636,7 @@ V. Alamedas y arboledas;
 
 VI. Promontorios, cerros, colinas, elevaciones y depresiones orográficas, pastizales naturales y áreas rurales de producción forestal, agroindustrial o que presten servicios ecoturísticos;
 
-VII. Barrancas;
+VII. (DEROGADA, G.O. 21 DE JUNIO DE 2006)
 
 VIII. Zonas de recarga de mantos acuíferos; y
 
@@ -1728,11 +1756,15 @@ Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sancio
 
 ###### ARTÍCULO 90 Bis.
 
-Las categorías de áreas de valor ambiental de competencia del Distrito Federal, son:
+Las categorías de áreas de valor ambiental de competencia del Distrito Federal son:
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 I. Bosques Urbanos, y
 
-II. Barrancas perturbadas.
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+II. Barrancas.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1740,27 +1772,37 @@ II. Barrancas perturbadas.
 
 Los bosques urbanos son las áreas de valor ambiental que se localizan en suelo urbano, en las que predominan especies de flora arbórea y arbustiva y se distribuyen otras especies de vida silvestre asociadas y representativas de la biodiversidad, así como especies introducidas para mejorar su valor ambiental, estético, científico, educativo, recreativo, histórico o turístico, o bien, por otras razones análogas de interés general, cuya extensión y características contribuyen a mantener la calidad del ambiente en el Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
-
 ###### ARTÍCULO 90 Bis 2.
 
-Las barrancas perturbadas son aquellas que presentan deterioros ambientales por el impacto urbano y los asentamientos humanos, y que requieren ser restauradas y preservadas.
+(DEROGADO, G.O. 21 DE JUNIO DE 2006)
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 90 Bis 3.
 
-Las áreas de valor ambiental se establecerán mediante decreto del Jefe de Gobierno, el cual deberá contener, además de los requisitos establecidos en las fracciones II, IV y VI del artículo 94 de esta Ley, los siguientes:
+Las áreas de valor ambiental bajo la categoría de bosques urbanos se establecerán mediante decreto del Jefe de Gobierno, el cual deberá contener, además de los requisitos establecidos en las fracciones II, IV y VI del artículo 94 de esta Ley, las siguientes:
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 I.- La categoría de área de valor ambiental que se constituye, así como la finalidad y objetivos de su declaratoria;
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
 II.- Limitaciones y modalidades al uso del suelo y destinos, así como, en su caso, los lineamientos para el manejo de los recursos naturales del área;
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 III.- Los responsables de su manejo, y
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
 IV.- La determinación y especificación de los elementos naturales y la biodiversidad que pretenda restaurarse, rehabilitarse o conservarse.
 
-Para decretar barrancas perturbadas, además de las disposiciones anteriores, se requiere de un diagnóstico ecológico que determine el deterioro ambiental, elaborado por la Secretaría.
+> <small>(REFORMADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+Las barrancas del Distrito Federal son áreas de valor ambiental. La Secretaría elaborará un diagnóstico ambiental para la formulación del programa de manejo observando las disposiciones contendidas en la presente Ley, el Programa de Ordenamiento Ecológico del Distrito Federal y el Programa de Desarrollo Urbano del Distrito Federal y los delegacionales aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 La Secretaría solicitará la opinión de las delegaciones correspondientes, previo a la expedición de la declaratoria de un área de valor ambiental.
 
@@ -1788,7 +1830,35 @@ III.- Las acciones a realizar en el corto, mediano y largo plazos para la restau
 
 Las prohibiciones que establece la presente Ley en relación con las áreas naturales protegidas, deberán observarse para las áreas de valor ambiental, además de la prohibición para el aprovechamiento o extracción de recursos naturales, salvo en aquellos casos que se determinen en el reglamento respectivo, observando las disposiciones de la presente Ley.
 
-### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### Artículo 90 Bis 7.
+
+Los bosques urbanos bajo la categoría de áreas de valor ambiental tendrán un Consejo Rector Ciudadano, cuyo objeto es evaluar, planear, diseñar y sancionar, en coordinación con las autoridades competentes, los programas, proyectos y acciones que se pretendan desarrollar en estás, así como establecer los criterios que normen las decisiones administrativas en dichas Áreas de Valor Ambiental.
+
+Estos criterios serán considerados por las autoridades competentes para la administración de las Áreas de Valor Ambiental, sin que estos sustituyan los actos de autoridad frente a los gobernados, mismos que invariablemente estarán fundados y motivados.
+
+El Consejo Rector Ciudadano estará integrado por 7 ciudadanos reconocidos por sus actividades ambientales, preferentemente vecinos de las áreas, que serán designados por el Jefe de Gobierno y que durarán en su encargo cuatro años posteriores a su designación, pudiendo ratificarse su permanencia por un período de dos años adicionales, y sólo podrán retirarse del encargo por renuncia expresa o por remoción determinada por la mayoría de los miembros del Consejo.
+
+El Consejo Rector Ciudadano estará organizado y funcionará en los términos del acuerdo que emita el Jefe de Gobierno para este efecto y tendrá las funciones que le establezca el Reglamento, además de las siguientes:
+
+I. Ser un órgano de planeación, evaluación y sanción de las acciones, programas y proyectos que se desarrollen en los bosques urbanos, así como de la aplicación de recursos públicos y privados:
+
+II. Participar en la elaboración de los proyectos de regulación sobre el funcionamiento de los bosques urbanos;
+
+III. Emitir opinión, respecto el establecimiento de criterios para la expedición de autorizaciones, permisos, concesiones y demás actos jurídicos para la realización de actividades dentro de los bosques urbanos, que determine la autoridad competente;
+
+IV. Sancionar los Programas de Manejo de los bosques urbanos y sus modificaciones, antes de la aprobación por la autoridad competente;
+
+V. Emitir las recomendaciones y presentar proyectos para las tareas de conservación, mantenimiento y, en su caso, aprovechamiento de los bosques urbanos;
+
+VI. Colaborar con las autoridades en la persecución de fondos y/o financiamiento, para la conservación, aprovechamiento y mantenimiento de los bosques urbanos; y
+
+VII. Las demás que determine el Acuerdo que expida el Jefe de Gobierno.
+
+### CAPÍTULO III BIS. ÁREAS COMUNITARIAS DE CONSERVACIÓN ECOLÓGICA
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 91.
 
@@ -1988,9 +2058,87 @@ Cualquier persona podrá solicitar por escrito a la Secretaría, el establecimie
 
 La Secretaría integrará el Registro de Áreas Naturales Protegidas del Distrito Federal, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen, el cual podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al sistema de información ambiental del Distrito Federal.
 
-### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 21 DE JUNIO DE 2006)</small>
 
-### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
+### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
+
+###### ARTÍCULO 103 Bis.
+
+Las Áreas Comunitarias de Conservación Ecológica se establecen por acuerdo del ejecutivo local con los ejidos y comunidades y se mantendrán como tal, con el consentimiento de éstas, expresado en Asamblea, así como la suscripción de un Convenio de Concertación de Acciones con el Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 1.
+
+Una vez suscrito el convenio respectivo, el titular de la Administración Pública Local emitirá la declaratoria constitutiva del Área Comunitaria de Conservación Ecológica, y ambos instrumentos serán publicados en la Gaceta Oficial del Distrito Federal.
+
+La declaratoria de un Área Comunitaria de Conservación Ecológica no modifica el régimen de propiedad y no tendrá como propósito la expropiación.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 2.
+
+El Convenio de Concertación de Acciones deberá contener, cuando menos:
+
+I. La finalidad y objetivos de la declaratoria;
+
+II. La delimitación del área que se destinará a la preservación, protección y restauración de la biodiversidad y los servicios ambientales, con la descripción de poligonales, ubicación, superficie, medidas y linderos y, en su caso, zonificación;
+
+III. Las obligaciones de las partes para asegurar la conservación y vigilancia de la Reserva; y
+
+IV. Los lineamientos y plazo para que se elabore el programa de manejo del Área Comunitaria de Conservación Ecológica.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 3.
+
+La administración y manejo de las Áreas Comunitarias de Conservación Ecológica corresponde a los ejidos o comunidades que detentan su propiedad.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 4.
+
+El programa de manejo del Área de Conservación Ecológica es el instrumento de planeación y normatividad, contendrá entre otros aspectos, las líneas de acción, criterios, lineamientos y, en su caso, actividades específicas a las cuales se sujetará su administración y manejo. Deberá contener lo siguiente:
+
+I. Las características físicas, biológicas, culturales, sociales y económicas del área;
+
+II. Los objetivos del área;
+
+III. Las limitaciones y regulación sobre el manejo de recursos naturales y la realización de actividades en el área y en sus distintas zonas, de acuerdo con sus condiciones ecológicas, las actividades compatibles con las mismas y con los objetivos del área;
+
+IV. Las acciones a realizar en el corto, mediano y largo plazo para la conservación, restauración e incremento de los recursos naturales, para la investigación y educación ambiental y, en su caso, para el aprovechamiento racional del área y sus recursos;
+
+V. Las bases para la administración, mantenimiento y vigilancia del área;
+
+VI. El señalamiento de las disposiciones jurídicas ambientales aplicables; y
+
+VII. Los mecanismos de financiamiento del área, incluido el programa de inversión para la conservación.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 5.
+
+El programa de manejo del Área Comunitaria de Conservación Ecológica será elaborado por el ejido o comunidad que corresponda, quien podrá ser asistido en el proceso por instituciones u organizaciones con experiencia en la conservación y manejo de recursos naturales. Su contenido deberá tener el consenso y validación de los miembros del pueblo, comunidad o ejido, expresada mediante asamblea.
+
+El programa de manejo deberá ser aprobado por la Secretaría y publicado en la Gaceta Oficial del Distrito Federal.
+
+Las disposiciones del programa de manejo se integrarán en los programas de Ordenamiento Ecológico del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 6.
+
+Las limitaciones y regulación sobre el manejo de recursos naturales y la realización de actividades establecidas en las Áreas Comunitarias de Conservación Ecológica son de utilidad pública y serán obligatorias para los propietarios o poseedores de los terrenos y los bienes localizados en las mismas.
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+
+###### ARTÍCULO 103 Bis 7.
+
+Para apoyar económicamente a los núcleos agrarios que determinen el establecimiento de Áreas Comunitarias de Conservación Ecológica, la Secretaría formulará y publicará en la Gaceta Oficial del Distrito Federal, el Programa de Retribución por la Conservación de Servicios Ambientales en Áreas Comunitarias de Conservación Ecológica.
+
+En dicho programa se establecerán los montos máximos y condiciones mínimas de las retribuciones provenientes del Fondo Ambiental Público, para que los pueblos, comunidades y ejidos realicen la administración, manejo, conservación y vigilancia de dichas áreas, e incluirá el pago de estímulos por la conservación de los servicios ambientales.
+
+### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
 
 ###### ARTÍCULO 104.
 
@@ -2068,7 +2216,7 @@ La Secretaría realizará las acciones necesarias para evitar o, en su caso, con
 
 Queda estrictamente prohibido el relleno, secado o uso diferente al que tienen, los cuerpos de agua superficiales del Distrito Federal.
 
-### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
+### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
 
 ###### ARTÍCULO 111.
 
@@ -2106,9 +2254,7 @@ VII. La formulación del programa de ordenamiento ecológico; y
 
 VIII. La evaluación del impacto ambiental de las obras o proyectos que en su caso se sometan a consideración de la Secretaría.
 
-### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
 
 ###### ARTÍCULO 113.
 
@@ -2126,7 +2272,7 @@ En los suelos de conservación que presenten deterioros ecológicos, la Secretar
 
 En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2196,7 +2342,9 @@ Las acciones de inspección e imposición de medidas de seguridad, correctivas o
 
 La Secretaría establecerá en los programas respectivos las medidas necesarias para evitar los incendios forestales.
 
-### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 122.
 
@@ -2204,13 +2352,13 @@ La Secretaría celebrará acuerdos y convenios para el establecimiento de progra
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
 
 ###### ARTÍCULO 123.
 
 Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría, así como a utilizar los equipos, dispositivos y sistemas de reducción de emisiones que determine dicha dependencia. Quedan comprendidos la generación de residuos sólidos, de contaminantes visuales y de la emisión de contaminantes de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 ###### ARTÍCULO 124.
 
@@ -2246,7 +2394,7 @@ La Secretaría en coordinación con las autoridades federales y locales, estable
 
 La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de residuos sólidos y de aguas residuales.
 
-### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -2474,7 +2622,7 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, lumín
 
 Los propietarios de fuentes que generen cualquiera de estos contaminantes, están obligados a instalar mecanismos para recuperación y disminución de vapores, olores, ruido, energía y gases o a retirar los elementos que generan contaminación visual.
 
-### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
+### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
 ###### ARTÍCULO 152.
 
@@ -2564,7 +2712,7 @@ Cuando alguna descarga al sistema de drenaje, a pesar del cumplimiento de los l�
 
 La Secretaría establecerá y operará un sistema de monitoreo de las aguas residuales en el Distrito Federal.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
+### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
 
 ###### ARTÍCULO 163.
 
@@ -2788,7 +2936,7 @@ VI. La infraestructura para la dotación de servicios básicos.
 
 La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimiento de zonas intermedias de salvaguarda, con el objeto de prevenir y controlar el riesgo ambiental que puedan ocasionar las industrias, comercios y servicios que realicen actividades riesgosas en el territorio del Distrito Federal.
 
-### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
 
 ###### ARTÍCULO 182.
 
@@ -2810,13 +2958,11 @@ Los Programas de Contingencia Ambiental establecerán las condiciones bajo las c
 
 En situación de contingencia ambiental, los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes.
 
-### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
 
 ## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2838,7 +2984,7 @@ La Secretaría instrumentará programas de acreditación de prestadores de servi
 
 En ningún caso podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley ni las personas con las que tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas morales de las que el servidor público o las personas antes referidas formen o hayan formado parte. La infracción a esta disposición será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2974,7 +3120,7 @@ VII. Prestar sus servicios de conformidad con los contratos autorizados por la S
 
 VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones.
 
-### CAPÍTULO III. MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2984,7 +3130,7 @@ La Secretaría establecerá los lineamientos y procedimientos para autorizar lab
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3002,7 +3148,9 @@ Serán de aplicación supletoria al presente Título, en el orden que se indica,
 
 La Secretaría organizará y coordinará el servicio de inspección y vigilancia ambiental del Distrito Federal, con el propósito de establecer los criterios y lineamientos que se habrán (sic) observarse por las distintas unidades administrativas del gobierno del Distrito Federal que realicen acciones para verificar el cumplimiento de las disposiciones jurídicas señaladas en el artículo 201 de esta Ley, así como para fortalecer la capacitación y profesionalización de los servidores públicos que participen en dichas tareas.
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 202.
 
@@ -3158,7 +3306,7 @@ El reglamento conciliará la aplicación de los mecanismos anotados y los proced
 
 Corresponde a la Secretaría y a las delegaciones realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes ecoguardas asignados a esta función deberán estar debidamente acreditados por la Secretaría en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a las visitas domiciliarias y actos de inspección señaladas en este Título.
 
-### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 211.
 
@@ -3196,7 +3344,7 @@ Las personas responsables de los hechos que dan lugar a la imposición de las me
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en el artículo 211 de esta Ley, indicará al interesado, cuando procedan, las acciones que debe llevar a cabo para subsanar o corregir los hechos que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se dejen sin efectos o se ordene el retiro de las medidas de seguridad impuestas.
 
-### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
+### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
 
 ###### ARTÍCULO 213.
 
@@ -3281,6 +3429,8 @@ En el caso de aquellas constancias, certificados, certificaciones, permisos, lic
 ###### ARTÍCULO 219.
 
 Los funcionarios públicos que contravengan las disposiciones de esta Ley, su reglamento y las demás disposiciones aplicables incurren en responsabilidad y serán sancionados en los términos de la Ley correspondiente.
+
+### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
 
 ###### ARTÍCULO 220.
 
@@ -3375,3 +3525,13 @@ G.O. 10 DE FEBRERO DE 2004.
 G.O. 4 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 21 DE JUNIO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La Secretaría y las autoridades competentes del Gobierno del Distrito Federal realizarán las adecuaciones correspondientes en los Programas y Reglamentos derivadas de la presente reforma.
+
+TERCERO.-. Se exceptúan de la aplicación de las disposiciones a que se refieren los artículos 139 y 140 las motocicletas en circulación matriculadas en el Distrito Federal, hasta en tanto se expida la Normatividad Oficial Mexicana aplicable precisamente a la verificación de emisiones contaminantes de motocicletas y una vez expedidas, la Secretaría deberá establecer una tarifa equitativa por concepto de verificación y un holograma específico por la verificación de motocicletas.
+
+CUARTO.- La instalación del Consejo Rector Ciudadano a que se refiere el artículo 90 Bis 7, se conformará dentro de los 120 días siguientes a la declaratoria que se emita de Bosque Urbano.
