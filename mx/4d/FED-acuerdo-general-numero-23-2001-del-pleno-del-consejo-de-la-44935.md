@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2006-06-20"
+last_updated: "2006-06-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -115,7 +115,7 @@ XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 > <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
-XXIX.- VIGÉSIMO NOVENO CIRCUITO: Estado de Hidalgo.
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
@@ -149,9 +149,9 @@ II.- SEGUNDO CIRCUITO:
 
 III.- TERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 39/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2006)</small>
 
-1.- Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+1.- Trece tribunales colegiados especializados: dos en materia penal, cuatro en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
 
 > <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
 
@@ -207,7 +207,9 @@ VII.- SEPTIMO CIRCUITO:
 
 1.- Siete tribunales colegiados especializados: dos en materia penal y dos en materias administrativa y de trabajo, con residencia en Boca del Río; y tres en materia civil con sede en Xalapa.
 
-2.- Un tribunal unitario con residencia en Boca del Río.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 40/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2006)</small>
+
+2.- Dos tribunales unitarios con residencia en Boca del Río.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 36/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE SEPTIEMBRE DE 2005)</small>
 
@@ -253,7 +255,9 @@ X.- DECIMO CIRCUITO:
 
 XI.- DECIMOPRIMER CIRCUITO:
 
-1.- Tres tribunales colegiados con residencia en Morelia.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 41/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2006)</small>
+
+1.- Cuatro tribunales colegiados con residencia en Morelia.
 
 2.- Dos tribunales unitarios con sede en Morelia.
 
@@ -305,9 +309,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 2.- Siete Tribunales Unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 90/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 42/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2006)</small>
 
-3.- Catorce juzgados de distrito en el Estado de Baja California: cinco con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
+3.- Quince juzgados de distrito en el Estado de Baja California: seis con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
@@ -1556,5 +1560,37 @@ D.O.F. 20 DE JUNIO DE 2006.
 ACUERDO 46/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO II, NUMERO 1.
 
 PRIMERO.- El presente acuerdo entrará en vigor el nueve de julio de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE JUNIO DE 2006.
+
+ACUERDO 39/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO III, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE JUNIO DE 2006.
+
+ACUERDO 40/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO VII, NUMERO 2.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE JUNIO DE 2006.
+
+ACUERDO 41/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XI, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE JUNIO DE 2006.
+
+ACUERDO 42/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XV, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
