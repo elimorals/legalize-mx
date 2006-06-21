@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-registro-publico-de-la-propiedad-4634"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-09-19"
-last_updated: "1978-02-15"
+last_updated: "2006-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2006.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chiapas, el miércoles 19 de septiembre de 1973.
 
@@ -91,7 +91,9 @@ II.- Inspeccionar con regularidad el cumplimiento por parte de los encargados de
 
 III.- Imponer al personal que dependa de la Dirección General del Registro Público, previo acuerdo del Ejecutivo, correcciones disciplinarias que podrán consistir en apercibimiento, multa de $50 00 a $500.00, suspensión en el empleo hasta por el término de quince días sin goce de sueldo; y cese.
 
-IV.- Ser el encargado de la oficina del Registro Público de la Propiedad en el Distrito Judicial de Tuxtla Gutiérrez, autorizando con su firma las inscripciones, certificados y demás documentos inscritos o expedidos en la oficina a su cargo.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+IV.- Ser encargo (sic) de la Oficina de Registro Públicos (sic) de la Propiedad en el Distrito Judicial de Tuxtla Gutiérrez, autorizado (sic) con su firma autógrafa o electrónica las inscripciones, certificados y demás documentos inscritos o expedidos en la oficina a su cargo.
 
 V.- Llevar en regla el archivo del Registro Público de la Propiedad en el Estado, hacer las Búsquedas necesarias de las constancias que obren en el propio archivo, expedirlas con toda oportunidad para lo cual los encargados de las oficinas de los distintos Distritos Judiciales, remitirán mensualmente sus estadísticas con la copia de todos los certificados expedidos, anexando la boleta con que fue pagado el impuesto; y remitir anualmente los duplicados de los libros.
 
@@ -107,9 +109,11 @@ IX.- Autorizar con su firma la primera y la última hoja de los libros que se ll
 
 El Sub-Director del Registro Público de la Propiedad, substituye en sus ausencias al Director y tendrá atribuciones que le señale el Titular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 7o.
 
-Son obligaciones de los Encargados o Delegados del Registro:
+Son obligaciones de los encargados o delegados del registro:
 
 I.- Asistir diariamente a la oficina de las nueve a las catorce horas y de las dieciséis a las diecinueve horas.
 
@@ -121,7 +125,9 @@ IV.- Imponer las sanciones disciplinarias a los empleados cuando estas sean just
 
 V.- Informar diariamente al Director o al Sub-Director del Registro, sobre el movimiento habido en la Oficina a su cargo.
 
-VI.- Autorizar con su firma todos los certificados, actas, anotaciones, registros y demás actos que se realicen en su oficina.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+VI.- Autorizar con su firma autógrafa o electrónica todos los certificados, actas, anotaciones, registros y demás actos que se realicen en su oficina.
 
 VII.- Hacer la compulsa de los impuestos que de acuerdo con la Ley de Ingresos deban pagar los interesados por concepto de registro, poniendo además, el día y la hora, valor de la boleta, su número y anexar una copia.
 
@@ -163,7 +169,9 @@ V.- Cancelar una inscripción o anotación sin el título correspondiente o sin 
 
 VI.- Incurrir en error, inexactitud, omisión o retardo en los informes o certificados de libertad o gravamen que se soliciten salvo si el error proviene de la insuficiencia o inexactitud de las declaraciones hechas por los interesados, o de otras causas que no sean imputables al Encargado o delegado.
 
-VII.- No autorizar con su firma oportunamente los actos en que intervengan, si con tal omisión se ocasionaren perjuicio.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+VII.- No autorizar con su firma autógrafa o electrónica oportunamente los actos en que se intervenga, si con tal omisión se ocasionaren perjuicio a terceros.
 
 VIII.- Toda falta de cumplimiento a las leyes o reglamentos aplicables, si con ella resulta algún perjuicio a terceros.
 
@@ -1084,3 +1092,9 @@ P.O. 15 DE FEBRERO DE 1978.
 PRIMERO.- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
 
 SEGUNDO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2006.
+
+Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Ejecutivo dispondrá que se publique, circule y se le dé debido cumplimiento.
