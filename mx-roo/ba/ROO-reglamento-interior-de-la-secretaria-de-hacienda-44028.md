@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-44028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-18"
-last_updated: "2005-02-18"
+last_updated: "2006-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2006.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado, el viernes 18 de febrero de 2005.
 
@@ -81,49 +81,97 @@ IX. Dirección Técnica;
 
 X. Subsecretaría de Ingresos;
 
-XI. Dirección General de Ingresos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XII. Recaudadoras de Rentas;
+XI. Dirección General del Registro Público de la Propiedad y del Comercio;
 
-XIII. Dirección General de Auditoria Fiscal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XlV. Dirección de Auditoria Fiscal;
+XII. Dirección General de Ingresos;
 
-XV. Dirección de Catastro;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XVI. Dirección General de Zona Federal Marítimo Terrestre;
+XIlI. Recaudadoras de Rentas.
 
-XVII. Dirección de Zona Federal Marítimo Terrestre;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XVIII. Dirección Jurídica;
+XIV. Dirección General de Auditoría Fiscal
 
-XIX. Dirección de Administración de Fondos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XX. Tesorería General;
+XV. Dirección de Auditoría Fiscal.
 
-XXI. Dirección General de Egresos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XXII. Dirección de Egresos;
+XVI. Dirección de Catastro.
 
-XXIII. Dirección de Caja;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XXIV. Dirección de Contabilidad Gubernamental;
+XVII. Dirección General de Zona Federal Marítimo Terrestre;
 
-XXV. Subsecretaría de Planeación Hacendaria y Política Presupuestal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XXVI. Dirección Técnica Hacendaria;
+XVIII. Dirección de Zona Federal Marítimo Terrestre;
 
-XXVII. Dirección de Programación y Control Presupuestal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XXVIII. Dirección de Política Presupuestal;
+XIX. Dirección Jurídica;
 
-XXIX. Subsecretaría de Crédito y Finanzas;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XXX. Dirección de Crédito y Desarrollo;
+XX. Dirección de Administración de Fondos;
 
-XXXI. Dirección de Empresas, Fondos y Fideicomisos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
-XXXII. Dirección de Gestión y Normatividad; (sic)
+XXI. Tesorería General;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXII. Dirección General de Egresos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXIII .Dirección de Egresos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXIV. Dirección de Caja;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXV. Dirección de Contabilidad Gubernamental;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXVI. Subsecretaría de Planeación Hacendaría y Política Presupuestal;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXVII. Dirección Técnica Hacendaría;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXVIII. Dirección de Programación y Control Presupuestal;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXIX. Dirección de Política Presupuestal;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXX. Subsecretaría de Crédito Finanzas (sic);
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXXI. Dirección de Crédito y Desarrollo;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXXII. Dirección de Empresas, Fondos y Fideicomisos;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXXIII. Dirección de Gestión y Normatividad.
 
 ###### Artículo 6.
 
@@ -143,7 +191,9 @@ La representación, trámite y resolución de los asuntos competencia de la Secr
 
 El Secretario tendrá las siguientes facultades:
 
-I. Conducir la política hacendaria del Estado en materia de administración tributaria, ingresos, gasto, deuda pública y procuración fiscal, en los términos de la legislación aplicable a la materia;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+I. Conducir la política hacendaria del Estado en materia de administración tributaria, ingresos, gasto, deuda pública, procuración fiscal y registro público en los términos de la legislación aplicable a la materia;
 
 II. Proponer al Gobernador del Estado, en congruencia con el Plan Básico de Gobierno, políticas en materia: de Ingresos, Fiscal, Crediticia, de Presupuesto, de Gasto y Contable del Estado, así como los proyectos de leyes, decretos y otros ordenamientos jurídico-administrativos relacionados con los asuntos de su competencia;
 
@@ -213,7 +263,9 @@ XXXIV. Ordenar a la unidad administrativa correspondiente, el Procedimiento admi
 
 XXV. Autorizar, previo acuerdo con el Ejecutivo Estatal, la cancelación de las cuentas cuyos saldos sean incobrables y le haya sido informado por la Dirección de Egresos de la Secretaria;
 
-XXXVI. Administrar, normar, conducir y supervisar los servicios catastrales en el Estado;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXXVI. Administrar, normar, conducir y supervisar los servicios catastrales y del registro público de la propiedad y de comercio en el Estado;
 
 XXXVII. Suscribir convenios o acuerdos de coordinación en materia de catastro con dependencias de la administración pública federal, estatal, municipal y con otras entidades federativas;
 
@@ -505,7 +557,9 @@ IX. Las demás que le señalen otras disposiciones legales y las que le confiera
 
 La Subsecretaría de Ingresos tendrá las siguientes facultades:
 
-I. Organizar, controlar y evaluar el funcionamiento de las Direcciones Generales de: Ingresos, Auditoria Fiscal, Catastro y Zona Federal Marítimo Terrestre;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+I. Organizar, controlar y evaluar el funcionamiento de las Direcciones Generales de: Registro Público, Ingresos, Auditoría Fiscal, Catastro y Zona Federal Marítimo Terrestre;
 
 II. Coordinar la elaboración y proponer al Secretario los anteproyectos de Ley de Ingresos del Estado y participar en la formulación de las demás disposiciones en materia fiscal;
 
@@ -545,15 +599,79 @@ XIX. Validar por sí o a través de la unidad administrativa correspondiente, la
 
 XX. Ordenar e implantar operativos de verificación de vehículos de procedencia extranjera, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y demás ordenamientos aplicables de la materia;
 
-XXI. Las demás que le señalen otras disposiciones legales y las que le confiere el Secretario expresamente en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXI. Resolver el recurso de inconformidad e intervenir ante cualquier tribunal cuando se traten asuntos relacionados con el Registro Público;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2006)</small>
+
+XXII. Las demás que señalen otras disposiciones legales y las que le confiera el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
 
 ###### Artículo 21.
 
-La Dirección General de Ingresos tendrá su sede en la Ciudad de Chetumal, Quintana Roo, ejercerá sus facultades en todo el territorio del Estado de Quintana Roo y estará a cargo de un Director General de Ingresos, quien será auxiliado en el ejercicio de las atribuciones conferidas en el siguiente artículo, por las Unidades Administrativas correspondientes.
+Corresponde al Director General del Registro Público de la Propiedad y del Comercio, el ejercicio de las siguientes atribuciones:
+
+I. Coordinar sus actividades con la Subsecretaría de Ingresos;
+
+II. Ejercer la fe pública registral;
+
+III. Autorizar con su clave, firma y sellos correspondientes, las inscripciones generados y que obren en los archivos de la Dirección;
+
+IV. Expedir certificaciones de los asientos registrales que obren en los archivos de la Dirección;
+
+V. Coordinar las actividades de las delegaciones de registro público de la propiedad y del comercio;
+
+VI. Preservar y conservar bajo su más estricta responsabilidad el acervo documental y electrónico que contenga los instrumentos, documentos y avisos propios de la actividad registral;
+
+VII. Vigilar el funcionamiento y exacto cumplimiento de las obligaciones de los servidores públicos encargados de realizar la función en el Estado;
+
+VIII. Ordenar y efectuar visitas de trabajo a las delegaciones, para cerciorarse del buen funcionamiento del servicio;
+
+IX. Ordenar la reposición o restauración, en su caso, de libros, documentos y sistemas deteriorados, destruidos o extraviados, de acuerdo con las constancias existentes en la Dirección y las que se proporcionen a las autoridades, los notarios públicos o los interesados;
+
+X. Rendir a la Subsecretaría, por lo menos una vez al mes y cuando se le requiera, el informe que guarde la Dirección General y sus Delegaciones;
+
+XI. Proponer a la Subsecretaría los nombramientos, ascensos y remociones del personal de la Dirección General con arreglo a los procedimientos administrativos de selección, valuación y escalafón determinados para tal efecto;
+
+XII. Representar, con el nombramiento respectivo a la Dirección General y a sus Delegaciones en los litigios de cualquier naturaleza jurídica en los cuales sea parte;
+
+XIII. Comunicar al Subsecretario cualquier hecho que pudiere dar motivo a responsabilidad administrativa de los servidores públicos de la Dirección General y sus Delegaciones a efecto de que se proceda a instaurar los procedimientos legales correspondientes;
+
+XIV. Designar entre los funcionarios con fe pública registral quien supla las ausencias temporales de los registradores;
+
+XV. Procurar aprovisionar a la Dirección General y a sus Delegaciones de los elementos técnicos que puedan aprovecharse para el óptimo ejercicio de la función registral, y
+
+XVI. Las demás que le otorguen el Código Civil y otras disposiciones aplicables vigentes en el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2006)</small>
+
+###### Artículo 21
+
+BIS. La Dirección General del Registro Público de la Propiedad y del Comercio, tendrá su sede en la ciudad de Chetumal, Quintana Roo, ejercerá sus facultades en todo el Estado, estará a cargo de un Director General quien será auxiliado en el ejercicio de sus atribuciones por Delegaciones ubicadas en los municipios de Benito Juárez, Cozumel y Solidaridad, con jurisdicción territorial en el municipio correspondiente, con la facultades siguientes:
+
+I. Ser depositario de la fe pública registral;
+
+II. Autorizar con su clave, firma y sellos correspondientes las inscripciones generadas y que obren en los archivos del registro de su Delegación;
+
+III. Expedir certificaciones de los asientos registrales que obren en los archivos de la Delegación;
+
+IV. Supervisar de manera permanente el funcionamiento de la Delegación a su cargo;
+
+V. Rendir a la Dirección General, dentro de los primeros diez días hábiles de cada mes, un informe completo de sus actividades realizadas en el mes inmediato anterior;
+
+VI. Firmar los documentos que le correspondan;
+
+VII. Excusarse de participar en procedimientos del registro en los cuales tenga interés jurídico;
+
+VIII. Las demás que prevengan las leyes y otras disposiciones normativas.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
 
 ###### Artículo 22.
 
-La Dirección General de Ingresos estará auxiliada para el desempeño de sus funciones por ocho recaudadoras de rentas con sede en cada uno de los municipios del Estado de Quintana Roo, y una Recaudadora de Tenencia y Control Vehicular en el Municipio de Othón P. Blanco.
+La Dirección General de Ingresos tendrá su sede en la ciudad de Chetumal, Quintana Roo, ejercerá sus facultades en todo el territorio del Estado y estará a cargo de un Director General de Ingresos, quien será auxiliado en el ejercicio de las atribuciones conferidas por las unidades administrativas siguientes: ocho recaudadores de rentas con sede en cada uno de los municipios del Estado de Quintana Roo, y una Recaudadora de Tenencia y Control Vehicular en el Municipio de Othón P. Blanco.
 
 ###### Artículo 23.
 
@@ -1512,3 +1630,11 @@ SECRETARIO DE HACIENDA
 LIC. PEDRO FLOTA ALCOCER
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JUNIO DE 2006.
+
+Primero. La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a los preceptos de la presente reforma.
