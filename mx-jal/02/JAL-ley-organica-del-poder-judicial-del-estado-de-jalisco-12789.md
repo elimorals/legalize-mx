@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2005-12-13"
+last_updated: "2006-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -899,11 +899,21 @@ V. La negativa de una autoridad para ordenar la devolución de un ingreso ilegal
 
 VI. Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los ayuntamientos y sus organismos descentralizados;
 
-VII: Los actos de las autoridades del Estado, cuando por virtud de los convenios de coordinación, los ayuntamientos sufran algún agravio en materia fiscal; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
 
-VIII. Las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Administrativo del Estado.
+VII. Los actos de las autoridades del Estado, cuando por virtud de los convenios de coordinación, los ayuntamientos sufran algún agravio en materia fiscal;
 
-Para los efectos de las dos primeras fracciones de este artículo, los (sic) resoluciones se considerarán definitivas, cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
+
+VIII. Las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Administrativo del Estado; y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
+
+IX. Los actos de las autoridades estatales y municipales, relativos a la relación administrativa con sus cuerpos de seguridad pública.
+
+(REPUBLICADO, P.O. 22 DE JUNIO DE 2006)
+
+Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas, cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo.
 
 ###### Artículo 68.
 
@@ -1847,6 +1857,8 @@ El procedimiento, recusación, el orden que debe seguirse en las audiencias y en
 
 ### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+
 ###### Artículo 130.
 
 Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo General del Poder Judicial. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
@@ -1915,7 +1927,7 @@ Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamento
 
 ###### Artículo 142.
 
-El Pleno del Consejo General del Poder Judicial se integrará con los siete consejeros, pero bastará la presencia de cinco de ellos para funcionar legalmente.
+El Pleno del Consejo General del poder Judicial se integrará con los siete consejeros; pero bastará la presencia de cuatro de ellos para funcionar legalmente.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
@@ -2061,9 +2073,11 @@ X. Las demás que determinen las leyes, los correspondientes reglamentos interio
 
 El Consejo General del Poder Judicial del Estado contará con las comisiones permanentes o transitorias que determine el Pleno del mismo, debiendo existir en todo caso las de administración, Carrera Judicial, disciplina, creación de nuevos órganos y la de adscripción.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+
 ###### Artículo 153.
 
-Cada comisión se integrará con tres consejeros; solamente uno deberá provenir de los órganos jurisdiccionales.
+Cada comisión se integrará con los consejeros y cuando menos uno deberá provenir de la representación ciudadana.
 
 ###### Artículo 154.
 
@@ -2987,7 +3001,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSÍTORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE ENERO DE 1998.
 
@@ -3062,3 +3076,15 @@ SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulac
 P.O. 13 DE DICIEMBRE DE 2005.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JUNIO DE 2006.
+
+DECRETO NUMERO 21351
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JUNIO DE 2006.
+
+DECRETO NUMERO 21356
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
