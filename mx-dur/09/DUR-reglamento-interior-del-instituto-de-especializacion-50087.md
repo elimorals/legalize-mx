@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-del-instituto-de-especializacion-50087"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-26"
-last_updated: "2006-03-26"
+last_updated: "2006-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ESPECIALIZACION JUDICIAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 26 de marzo de 2006.
 
@@ -885,9 +885,23 @@ La calificación en cursos de formación, será expresada en decimales, en una e
 
 En el caso de las Especialidades y Maestría se regirán por los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+
 ###### Artículo 79.
 
-En todos los casos, los exámenes deberán presentarse el día y hora señalados en la calendarización del Instituto; la evaluación de los exámenes de los cursos de formación, será definitiva e inapelable.
+En todos los casos, los exámenes deberán presentarse el día y hora señalados en la calendarización del Instituto.
+
+El alumno podrá impugnar cualquier examen, siempre que considere que:
+
+I. La evaluación no se realizó conforme a este Reglamento;
+
+II. Los temas del examen no forman parte del contenido de los programas, y
+
+III. El contenido del examen fue evaluado incorrectamente.
+
+La impugnación de las evaluaciones realizadas en los cursos de formación tiene por objeto la confirmación o modificación del o los exámenes. En todo caso, es requisito indispensable que la impugnación se haga por escrito ante el Director, con respeto y absteniéndose de denostar al profesor y demás servidores públicos del Poder Judicial, sin cuyos requisitos será, improcedente el citado escrito. En éste se deberán especificar las causas de inconformidad y el o los exámenes que impugna, dentro de los tres días hábiles siguientes a la publicación de resultados. Fuera de este tiempo la impugnación será desechada.
+
+Satisfechos los anteriores requisitos, el director lo pondrá en conocimiento del Consejero Presidente de la Comisión con el fin de integrar un comité de revisión en el que participarán el propio director, el coordinador general del Comité Académico y el Consejero Presidente de la Comisión o quien éste designe. El citado comité de revisión analizará los motivos de inconformidad y resolverá por escrito en un plazo no mayor de 15 días hábiles. Esta resolución será definitiva e inatacable.
 
 ###### Artículo 80.
 
@@ -1060,3 +1074,13 @@ CUARTO. Para efectos de cumplir con el principio de publicidad de los actos a qu
 QUINTO. De conformidad con lo dispuesto por el artículo 73 de la Ley Orgánica del Poder Judicial del Estado el Consejo de la Judicatura dispone que el presente Reglamento se publique por una sola vez en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 Así lo acuerdan y firman los Consejeros integrantes del Pleno del Consejo de la Judicatura del Poder Judicial del Estado, DR. MIGUEL ÁNGEL RODRÍGUEZ VÁZQUEZ (Magistrado Presidente), LIC. JOSÉ ISMAEL RIVERA ALVARADO, LIC. MOISÉS MORENO ARMENDÁRIZ, LIC. SUSANA PACHECO RODRÍGUEZ y LIC. FRANCISCO LUIS QUIÑONES RUIZ, en la sesión ordinaria celebrada el 20 de febrero de 2006, ante el LIC. MARIO R. VALERO SALAS, Secretario Ejecutivo del Pleno, Carrera Judicial y Disciplina del Consejo de la Judicatura, que da fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JUNIO DE 2006.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Consejo de la Judicatura.
+
+SEGUNDO. En caso de que a la fecha en que entra en vigor el presente acuerdo existan inconformidades hechas por escrito por cualquiera de los participantes en el curso de capacitación para aspirantes a ingresar a la carrera judicial en la categoría de actuarios, del Poder Judicial del Estado de Durango, celebrado del diecisiete de febrero al veintinueve de abril del año en curso, se deberán turnar al Consejero Presidente de la Comisión para que proceda en los términos del artículo 79 del Reglamento Interior del Instituto de Especialización Judicial ya incluida la reforma.
+
+TERCERO. Para efectos de cumplir con el principio de publicidad de los actos a que hace referencia el artículo 7 de la Ley de Acceso a la Información Pública del Estado, se ordena su publicación en la página Web del Poder Judicial.
