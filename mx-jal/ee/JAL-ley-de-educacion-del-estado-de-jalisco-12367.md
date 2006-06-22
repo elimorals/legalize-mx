@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2006-04-22"
+last_updated: "2006-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1441,13 +1441,21 @@ c) Sistematizar los elementos y aportaciones relativos a las particularidades de
 
 d) Opinar en asuntos pedagógicos;
 
-e) Conocer las demandas y necesidades que emanen de la participación social en la educación a través de los Consejos Escolares y Municipales conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo, y
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
 
-f) Conocer los resultados de las evaluaciones que efectúen las autoridades educativas, y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
+e) Conocer las demandas y necesidades que emanen de la participación social en la educación a través de los Consejos Escolares y Municipales conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo;
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
 
-g) Otorgar estímulos a alumnos, docentes y escuelas que se destaquen.
+f) Conocer los resultados de las evaluaciones que efectúen las autoridades educativas, y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+
+g) Otorgar estímulos a alumnos, docentes y escuelas que se destaquen; y
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2006)</small>
+
+h) Promover la implementación de programas de avanzada en la detección y preparación de alumnos sobresalientes y la impartición de educación especial para los mismos.
 
 ###### ARTICULO 136.
 
@@ -1784,5 +1792,9 @@ P.O. 11 DE MARZO DE 2006.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 22 DE ABRIL DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JUNIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
