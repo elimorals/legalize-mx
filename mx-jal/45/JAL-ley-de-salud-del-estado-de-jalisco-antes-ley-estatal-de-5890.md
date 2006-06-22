@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2006-03-04"
+last_updated: "2006-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -679,9 +679,9 @@ Las autoridades sanitarias estatales realizarán actividades de vigilancia epide
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
 
-Art. 39 bis. Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por VIH, se integra el Consejo Estatal Contra el SIDA como un órgano desconcentrado de la Secretaría de Salud Jalisco.
+Art. 39 bis.- Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia adquirida (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud (sic) Jalisco.
 
 ###### Art. 40.
 
@@ -3764,3 +3764,7 @@ SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulac
 P.O. 4 DE MARZO DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JUNIO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
