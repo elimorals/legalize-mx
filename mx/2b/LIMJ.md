@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "2006-03-20"
+last_updated: "2006-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -50,21 +50,25 @@ Cuando la presente Ley se refiera al Instituto, se entenderá por éste al Insti
 
 La población cuya edad quede comprendida entre los 12 y 29 años que, por su importancia estratégica para el desarrollo del país, será objeto de los programas, servicios y acciones que el Instituto lleve a cabo.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
+
 ###### Artículo 3.
 
 El Instituto tendrá por objeto:
 
 I. Definir e instrumentar una política nacional de juventud, que permita incorporar plenamente a los jóvenes al desarrollo del país;
 
-II. Asesorar al Ejecutivo Federal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo al Plan Nacional de Desarrollo;
+II. Proponer al Ejecutivo Federal programas especiales orientados a mejorar las condiciones de salud y educación de los jóvenes indígenas, así como los espacios para la convivencia y recreación, sin menoscabo de las atribuciones que en estos propósitos competen a otras dependencias;
 
-III. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales, y de los sectores social y privado cuando así lo requieran;
+III. Asesorar al Ejecutivo Federal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo al Plan Nacional de Desarrollo;
 
-> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2006)</small>
+IV. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales, y de los sectores social y privado cuando así lo requieran;
 
-IV. Promover coordinadamente con las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, económicas, culturales y derechos, y
+V. Promover coordinadamente con las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, económicas, culturales y derechos, y
 
-V. Fungir como representante del Gobierno Federal en materia de juventud, ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
+VI. Fungir como representante del Gobierno Federal en materia de juventud, ante los Gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
 
 ###### Artículo 4.
 
@@ -76,21 +80,23 @@ II. Promover la coordinación interinstitucional con organismos gubernamentales 
 
 III. Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales, para el desarrollo de proyectos que beneficien a la juventud;
 
-IV. Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles;
+IV. Consultar, en coordinación con la Comisión Nacional para el Desarrollo de los Pueblos Indígenas las políticas, programas y acciones de desarrollo de los jóvenes indígenas; garantizar la participación de éstos en su diseño y operación; y, en su caso, incorporar a la planeación nacional sus recomendaciones propuestas;
 
-V. Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud;
+V. Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles;
 
-VI. Auxiliar a las dependencias y entidades de la Administración Pública Federal, así como a los gobiernos de las entidades federativas y municipios en la difusión y promoción de los servicios que presten a la juventud cuando así lo requieran;
+VI. Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud;
 
-VII. Prestar los servicios que se establezcan en los programas que formule el Instituto en aplicación de esta Ley;
+VII. Auxiliar a las dependencias y entidades de la Administración Pública Federal, así como a los gobiernos de las entidades federativas y municipios en la difusión y promoción de los servicios que presten a la juventud cuando así lo requieran;
 
-VIII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes mexicanos en distintos ámbitos del acontecer nacional;
+VIII. Prestar los servicios que se establezcan en los programas que formule el Instituto en aplicación de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2006)</small>
+IX. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes mexicanos en distintos ámbitos del acontecer nacional y, en especial, aquellas que reconozcan y fomenten la herencia cultural de los pueblos y comunidades indígenas y fortalezcan el respeto y el conocimiento de las diversas culturas existentes en el país;
 
-IX.- Elaborar, en coordinación con las dependencias y las entidades de la Administración Pública Federal, programas y cursos de orientación e información sobre adicciones, nutrición, educación sexual y salud reproductiva, medio ambiente, servicios culturales juveniles, género y equidad, apoyo a jóvenes en situación de exclusión, derechos humanos, incorporación laboral, autoempleo, vivienda, organización juvenil, liderazgo social y participación y en general todas aquellas actividades que de acuerdo a su competencia y a su capacidad presupuestal, estén orientados al desarrollo integral de la juventud, y
+X. Elaborar, en coordinación con las dependencias y las entidades de la Administración pública Federal, programas y cursos de orientación e información sobre adicciones, nutrición, educación sexual y salud reproductiva, medio ambiente, servicios culturales juveniles, genero y equidad, apoyo a jóvenes en situación de exclusión, derechos humanos, incorporación laboral, autoempleo, vivienda, organización juvenil, liderazgo social y participación y en general todas aquellas actividades que de acuerdo a su competencia y a su capacidad presupuestal, estén orientados al desarrollo integral de la juventud;
 
-X. Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
+XI. Proponer a la Secretaría de Educación Pública la operación de programas especiales de becas para fortalecer la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior de los estudiantes indígenas, y
+
+XII. Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
 
 ###### Artículo 5.
 
@@ -118,11 +124,13 @@ II. Dirección General, y
 
 III. Las estructuras administrativas que se establezcan en el Estatuto Orgánico.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
+
 ###### Artículo 8.
 
 La Junta Directiva se integrará por diecisiete miembros, de los cuales serán:
 
-I. Diez miembros propietarios:
+I. Diez Miembros Propietarios:
 
 a) El Secretario de Educación Pública, quien lo presidirá;
 
@@ -138,11 +146,11 @@ f) El Secretario de Salud;
 
 g) El Secretario de Desarrollo Social;
 
-h) El Secretario de Comercio y Fomento Industrial;
+h) El Secretario de Economía;
 
 i) El Secretario de Comunicaciones y Transportes, y
 
-j) El Director General del Instituto Nacional Indigenista.
+j) El Director General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
 
 Por cada Miembro Propietario, el titular podrá nombrar a un suplente, y
 
@@ -152,7 +160,7 @@ a) Los representantes de tres entidades federativas, designados por los titulare
 
 b) Dos rectores o directores de universidades o instituciones públicas de educación superior del país, a propuesta de la Asociación Nacional de Universidades e Instituciones de Educación Superior, y
 
-c) Dos jóvenes integrantes del Consejo de Seguimiento de Proyectos y Programas.
+c) Dos jóvenes, integrantes del Consejo de Seguimiento de Proyectos y Programas.
 
 Estos siete miembros formarán parte de la Junta Directiva a invitación del Secretario de Educación Pública, durarán en su encargo un año y serán designados de acuerdo al procedimiento que se señale en el Estatuto Orgánico.
 
@@ -240,11 +248,13 @@ El Organo de Vigilancia del Instituto estará integrado por un Comisario Públic
 
 ### Capítulo III. Del Consejo de Seguimiento de Proyectos y Programas
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
+
 ###### Artículo 15.
 
-El Instituto contará con un Consejo de Seguimiento de Proyectos y Programas, que tendrá por objeto: recabar las sugerencias y propuestas de los jóvenes del país para la elaboración de los proyectos de desarrollo de la juventud; dar seguimiento a las acciones de los programas que se ejecuten a través de la Dirección General del Instituto y, formular las propuestas correspondientes.
+El Instituto contará con un Consejo de Seguimiento de Proyectos y Programas, que tendrá por objeto: recabar las sugerencias y propuestas de los jóvenes del país para la elaboración de los proyectos de desarrollo de la juventud; dar seguimiento a las acciones de los programas que se ejecuten a través de la Dirección General del Instituto y formular las propuestas correspondientes.
 
-El Consejo se integrará con diez jóvenes mexicanos, cuyas edades se encuentren comprendidas entre los 18 y los 29 años y de manera equitativa en cuanto a su género, los cuales serán seleccionados por la Junta Directiva, a convocatoria pública formulada a las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social y los sectores público o privado.
+El Consejo se integrará con diez jóvenes mexicanos, cuyas edades se encuentren comprendidas entre los 18 y los 29 años y de manera equitativa en cuanto a su género, los cuales serán seleccionados por la Junta Directiva, a convocatoria pública formulada a las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social y los sectores público o privado y a los pueblos y comunidades indígenas.
 
 Los cargos de consejero son honoríficos y se desempeñarán por un período de dos años. El Consejo se renovará por mitad cada año. Los requisitos para la integración del Consejo, así como las atribuciones y funcionamiento de éste, se establecerán en el Estatuto Orgánico del Instituto.
 
@@ -281,3 +291,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 20 DE MARZO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo de la presente ley, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
