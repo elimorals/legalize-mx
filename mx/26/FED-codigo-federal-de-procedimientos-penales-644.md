@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2006-06-06"
+last_updated: "2006-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -95,7 +95,9 @@ VI.- Asegurar o restituir al ofendido en sus derechos en los términos del artí
 
 VII.- Determinar la reserva o el ejercicio de la acción penal;
 
-VIII.- Acordar y notificar al ofendido o víctima el no ejercicio de la acción penal y, en su caso, resolver sobre la inconformidad que aquéllos formulen;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
+
+VIII.- Acordar y notificar personalmente al ofendido o víctima el no ejercicio de la acción penal y, en su caso, resolver sobre la inconformidad que aquéllos formulen;
 
 IX.- Conceder o revocar, cuando proceda, la libertad provisional del indiciado;
 
@@ -1293,9 +1295,15 @@ II.- Coadyuvar con el Ministerio Público;
 
 III.- Estar presente en el desarrollo de todos los actos procesales en los que el inculpado tenga este derecho;
 
-IV.- Recibir la asistencia médica de urgencia y psicológica cuando lo requiera; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
 
-V.- Los demás que señalen las leyes.
+IV.- Recibir la asistencia médica de urgencia y psicológica cuando lo requiera;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2006)</small>
+
+V.- Ser notificado personalmente del desistimiento de la acción penal, y
+
+VI.- Los demás que señalen las leyes.
 
 En virtud de lo anterior, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba con que cuenten, que conduzcan a acreditar los elementos del tipo penal y a establecer la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
 
@@ -5004,5 +5012,9 @@ D.O.F. 25 DE MAYO DE 2006.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 6 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
