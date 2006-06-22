@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2005-06-22"
+last_updated: "2006-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -94,7 +94,9 @@ II. Instituto Nacional de Cardiología Ignacio Chávez, para los padecimientos c
 
 III. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, para las disciplinas biomédicas vinculadas con la medicina interna de alta especialidad en adultos y las relacionadas con la nutrición;
 
-IV. Instituto Nacional de Enfermedades Respiratorias, para los padecimientos del aparato respiratorio;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
+
+IV. Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, para los padecimientos del aparato respiratorio;
 
 V. Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez, para las afecciones del sistema nervioso;
 
@@ -655,3 +657,7 @@ Artículo Segundo. La creación del Organismo Público Descentralizado de la Adm
 Artículo Tercero. Las relaciones entre el Instituto Nacional de Rehabilitación y sus trabajadores, se sujetarán a lo dispuesto en el apartado B) del artículo 123 Constitucional.
 
 Artículo Cuarto. Una vez constituida la Junta de Gobierno del Instituto Nacional de Rehabilitación, expedirá su Estatuto Orgánico en un plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
