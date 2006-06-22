@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2005-12-23"
+last_updated: "2006-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -658,9 +658,9 @@ VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
 
-IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes que correspondan a los seguros citados.
+IX.- El aseguramiento contra riesgos agropecuarios, los seguros de crédito a la vivienda que cubran el riesgo de incumplimiento de los deudores de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles, destinados a casa habitación, los seguros de garantía financiera que cubran el pago por incumplimiento de los emisores de valores, títulos de crédito o documentos que sean objeto de oferta pública o de intermediación en mercados de valores, siempre que los recursos provenientes de la colocación de dichos valores, títulos de crédito o documentos, se utilicen para el financiamiento de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación y los seguros de vida ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes que correspondan a los seguros citados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -848,7 +848,7 @@ Para los efectos de esta Ley se entiende por uso o goce temporal de bienes, el a
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-Se dará el tratamiento que está Ley establece para el uso o goce temporal de bienes, a la prestación del servicio de tiempo compartido.
+Se dará el tratamiento que esta Ley establece para el uso o goce temporal de bienes, a la prestación del servicio de tiempo compartido.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1698,7 +1698,7 @@ Durante el año de 1991 estarán vigentes las siguientes disposiciones:
 
 I.- Se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.-B y de los contenidos en el artículo 2o.-C de la Ley de la materia.
 
-II.- Se aplicará la tasa del 15% al hule, aun cuando no esté industrializado. Tratándose de las operaciones a que se refiere el artículo 2o. de la Ley del Impuesto al Valor Agregado, se aplicará la tasa del 6%.
+II.- Se aplicará la tasa de 15% al hule, aun cuando no esté industrializado. Tratándose de las operaciones a que se refiere el artículo 2o. de la Ley del Impuesto al Valor Agregado, se aplicará la tasa del 6%.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
@@ -2045,3 +2045,15 @@ III. Para los efectos del artículo 2o.-C, noveno párrafo de la Ley del Impuest
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El cargo de los primeros consejeros externos que se designen en términos de lo establecido en la fracción II del artículo 14 de esta Ley, durará hasta el 31 de diciembre de 2006. Los períodos de los consejeros externos cuyas designaciones se realicen a la conclusión del término antes señalado, vencerán los días 31 de diciembre de 2009, 2010, 2011 y 2012, y el Secretario de Hacienda y Crédito Público, al hacer la designación que le corresponda, indicará cuál de los citados períodos corresponde a cada consejero.
+
+TERCERO.- A más tardar a los 90 días siguientes a que el Secretario de Hacienda y Crédito Público designe a los consejeros externos en términos de lo dispuesto por el artículo transitorio anterior, se deberá modificar la integración de los Comités de Auditoría y de Recursos Humanos y Desarrollo Institucional a que se refieren los artículos 23 y 31 de esta Ley.
+
+CUARTO.- La garantía del Gobierno Federal respecto de las obligaciones de la Sociedad a que se refieren los párrafos tercero y cuarto del artículo segundo transitorio de la Ley Orgánica de Sociedad Hipotecaria Federal, en los términos reformados y adicionados conforme al "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 24 de junio de 2002 y aclarado mediante fe de erratas publicada en ese mismo medio el 8 de julio de 2002, será aplicable a aquellas obligaciones que asuma la Sociedad al amparo de las fracciones I y II del artículo 24 Ter que, por virtud del presente Decreto, se adiciona a la Ley Orgánica de Sociedad Hipotecaria Federal.
+
+QUINTO. Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
