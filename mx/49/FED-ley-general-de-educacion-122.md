@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2006-06-20"
+last_updated: "2006-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -350,9 +350,9 @@ Los beneficiados directamente por los servicios educativos deberán prestar serv
 
 El Ejecutivo Federal y el gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos. El monto anual que el Estado -Federación, entidades federativas y municipios-, destine al gasto en educación pública y en los servicios educativos, no podrá ser menor a ocho por ciento del producto interno bruto del país, destinado de este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las Instituciones de Educación Superior Públicas. En la asignación del presupuesto a cada uno de los niveles de educación, se deberá dar la continuidad y la concatenación entre los mismos, con el fin de que la población alcance el máximo nivel de estudios posible.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
 
-Los recursos federales recibidos para ese fin por cada entidad federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad.
+Los recursos federales recibidos para ese fin por cada entidad federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad. El gobierno de cada entidad federativa publicará en su respectivo diario oficial, los recursos que la Federación le transfiera para tal efecto, en forma desagregada por nivel, programa educativo y establecimiento escolar.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1009,3 +1009,9 @@ SEGUNDO.- El Ejecutivo Federal deberá actualizar y modernizar el Reglamento de 
 D.O.F. 20 DE JUNIO DE 2006.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
