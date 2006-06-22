@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2006-04-28"
+last_updated: "2006-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2006.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -537,7 +537,7 @@ En ningún caso la Legislatura del Estado podrá sesionar sin la concurrencia de
 
 Los diputados que asistan tanto a las juntas preparatorias como a las sesiones ordinarias y extraordinarias, y éstas excepcionalmente no pudieran celebrarse por falta de quórum, deberán compeler a los ausentes a que se presenten en un plazo que no exceda de 48 horas, apercibiéndolos de que, si no lo hacen, se llamará desde luego a los suplentes; y si éstos no se presentaran después de haber sido apercibidos, se declarará vacante la diputación y, si procede, se convocará a elecciones extraordinarias.
 
-Los diputados que falten a tres sesiones consecutivas sin previa licencia del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el periodo en que ocurran las faltas y se llamará desde luego a los suplentes.
+Los diputados que falten a tres sesiones consecutivas sin previa licencia del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el período en que ocurran las faltas y se llamará desde luego a los suplentes.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -779,7 +779,17 @@ Los integrantes de los concejos municipales y de los ayuntamientos provisionales
 
 XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
 
-La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley, y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior o en la ley que estableció el empleo;
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
+
+La Legislatura al expedir el Presupuesto de Egresos, aprobará la retribución mínima y máxima que corresponda a cada nivel de empleo, cargo o comisión y en caso de que por cualquier circunstancia se omita establecer dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2006)</small>
+
+Cuando se trate de la creación de un nuevo empleo, cuya remuneración no se hubiere fijado, se le asignará la prevista para alguno similar.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2006)</small>
+
+La retribución estará sujeta a las modificaciones que, en su caso, sean convenidas conforme a la legislación de la materia.
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1235,7 +1245,7 @@ Las leyes determinarán los procedimientos que habrán de seguirse para sustanci
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cuál se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(ADICIONADO, G.G.12 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, G.G. 12 DE JULIO DE 2004)</small>
 
 ###### Artículo 88
 
@@ -1323,7 +1333,7 @@ Aunque los magistrados no se presenten a tomar posesión de sus cargos en el té
 
 El Pleno estará integrado por todos los magistrados; la Sala Constitucional, por cinco magistrados; las Salas Colegiadas, por tres magistrados cada una; y las Unitarias, por un magistrado en cada Sala.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 95.
 
@@ -1339,21 +1349,21 @@ IV. Expedir y modificar el Reglamento Interior del Tribunal; y
 
 V. Ejercer las atribuciones que le señalen la Ley Orgánica del Poder Judicial y otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE ABRIL DE 2003)</small>
 
 ###### Artículo 96.
 
 Corresponde a las salas colegiadas y unitarias regionales del Tribunal Superior de Justicia conocer y resolver:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. En segunda instancia, los asuntos que determinen los ordenamientos legales aplicables;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 II. Los conflictos de competencia que se susciten entre los jueces del Estado; y
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Los demás asuntos que les confieran las leyes.
 
@@ -1721,23 +1731,29 @@ XII. Las demás que le señale la presente Constitución, la Ley Orgánica respe
 
 ## TITULO SEXTO. De la Administración y Vigilancia de los Recursos Públicos
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE JUNIO DE 2006)</small>
 
 ###### Artículo 129.
 
-Los recursos económicos de que dispongan los poderes públicos del Estado y los ayuntamientos de los municipios, así como sus organismos auxiliares y fideicomisos públicos se administrarán con eficiencia, eficacia y honradez para cumplir con los objetivos y programas a los que estén destinados.
+Los recursos económicos del Estado, de los municipios, así como de los organismos autónomos, se administrarán con eficiencia, eficacia y honradez, para cumplir con los objetivos y programas a los que estén destinados.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y se adjudicarán por medio de licitaciones públicas mediante convocatoria pública, para que se presenten propuestas en sobre cerrado, que será abierto públicamente, a fin de asegurar al Gobierno del Estado y a los municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-Las licitaciones a que hace referencia el párrafo anterior serán idóneas para asegurar dichas condiciones, y las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los municipios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
-El manejo de los recursos económicos estatales y municipales se sujetará a las bases de este artículo.
+Cuando las licitaciones a las que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, los municipios y los órganos autónomos.
 
-Todos los pagos que efectúe el Gobierno se harán mediante orden escrita en la que se expresará la partida del presupuesto a cargo de la cual se hacen éstos.
+> <small>(DEROGADO CUARTO PARRAFO, G.G. 22 DE JUNIO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
-El Órgano Superior de Fiscalización, la Secretaría de la Contraloría del Estado y las Contralorías de los Ayuntamientos, vigilarán el cumplimiento de lo dispuesto en este título, conforme a sus respectivas competencias.
+Todos los pagos se harán mediante orden escrita en la que se expresará la partida del presupuesto a cargo de la cual se realicen.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
+
+El Órgano Superior de Fiscalización, la Secretaría de la Contraloría, las contralorías de los poderes Legislativo y Judicial; las de los organismos autónomos; y las de los ayuntamientos, vigilarán el cumplimiento de lo dispuesto en este título, conforme a sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1879,11 +1895,13 @@ Ningún individuo podrá desempeñar dos cargos de elección popular, pero el el
 
 Los ciudadanos mexicanos que ejerzan el ministerio de cualquier culto no podrán desempeñar cargos de secretarios, subsecretarios, directores en la administración pública estatal, o ser titulares de organismos auxiliares a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes de la aceptación del cargo respectivo y seis meses para los demás puestos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
 ###### Artículo 147.
 
-El Gobernador, los diputados, los magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo, los miembros del Consejo de la Judicatura y los demás trabajadores al servicio de los poderes del Estado, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
+El Gobernador, los diputados, los magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo, los miembros del Consejo de la Judicatura, los trabajadores al servicio del Estado, los integrantes y servidores de los organismos autónomos, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
+
+Las remuneraciones mínimas y máximas se determinarán con base, entre otros, en los factores siguientes: población, recursos económicos disponibles, costo promedio de vida, índice inflacionario, grado de marginalidad, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos, de acuerdo con la información oficial correspondiente.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2684,3 +2702,7 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
