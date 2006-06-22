@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2006-06-21"
+last_updated: "2006-06-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -309,9 +309,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 2.- Siete Tribunales Unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 42/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 43/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2006)</small>
 
-3.- Quince juzgados de distrito en el Estado de Baja California: seis con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
+3.- Dieciséis juzgados de distrito en el Estado de Baja California: seis con sede en Mexicali, ocho con residencia en Tijuana y dos con sede en Ensenada.
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
@@ -389,7 +389,9 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
-1.- Dos Tribunales Colegiados con residencia en Querétaro.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 44/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2006)</small>
+
+1.- Tres tribunales colegiados con residencia en Querétaro.
 
 2.- Un Tribunal Unitario con sede en Querétaro.
 
@@ -465,7 +467,9 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 2.- Un Tribunal Unitario con sede en Pachuca.
 
-3.- Dos Juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 45/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2006)</small>
+
+3.- Tres juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca.
 
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que enseguida se indica:
 
@@ -1590,6 +1594,30 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 21 DE JUNIO DE 2006.
 
 ACUERDO 42/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XV, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+ACUERDO 43/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XV, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+ACUERDO 44/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XXII, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE JUNIO DE 2006.
+
+ACUERDO 45/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XXIX, NUMERO 3.
 
 PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
 
