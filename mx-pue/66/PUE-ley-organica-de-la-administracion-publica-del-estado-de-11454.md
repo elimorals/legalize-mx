@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2005-03-04"
+last_updated: "2006-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -565,7 +565,9 @@ XLVI.- Coadyuvar en el control de la radio-comunicación interna de los órganos
 
 XLVII.- Cumplir y controlar las actividades del Calendario Oficial de Ceremonias Cívicas;
 
-XLVIII.- Administrar el Archivo General del Estado; así como normar y asesorar a las Dependencias y Entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deben enviar a esta Secretaría;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XLVIII.- Administrar el Archivo General del Estado, normar y asesorar a las Dependencias y Entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deban enviar a esta Secretaría; así como coordinar con las Secretarías de Finanzas y Administración y de Desarrollo, Evaluación y Control de la Administración Pública, la emisión de las normas y lineamientos que deban observar las Dependencias y Entidades de la Administración Pública Estatal para la guarda, custodia, conservación y en su caso, baja de documentos oficiales, de conformidad con las disposiciones legales aplicables;
 
 XLIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
 
@@ -675,7 +677,9 @@ XL.- Previo acuerdo del Ejecutivo, contratar créditos a cargo del Gobierno del 
 
 XLI.- Suscribir las garantías que deba otorgar el Gobierno del Estado, cuando se cubran los requisitos legales correspondientes;
 
-XLII.- Recibir, conservar y en su caso hacer efectivas las garantías que las personas físicas o morales, otorguen bajo cualquier título al Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XLII.- Recibir, conservar y en su caso hacer efectivas, dentro de la circunscripción territorial de esta Entidad Federativa, así como en términos de los ordenamientos legales aplicables, las garantías que las personas físicas o morales otorguen bajo cualquier título a favor del Gobierno del Estado;
 
 XLIII.- Establecer las normas y criterios a que se sujetarán los pagos autorizados con cargo al Presupuesto de Egresos del Estado y los demás que conforme a las Leyes y otras disposiciones deban efectuarse por el Gobierno Estatal, ordenando la ejecución e incremento de las reservas necesarias que basten para cubrir las obligaciones presupuestarias; asimismo formular programas de financiamiento para las obras del Gobierno de la Entidad;
 
@@ -955,7 +959,9 @@ I.- Formular y conducir las políticas generales de desarrollo rural del Estado 
 
 II.- Elaborar y proponer al Gobernador del Estado los planes y programas en materia de Desarrollo Rural, que requiera la entidad con apego a las disposiciones legales aplicables;
 
-III.- Ejercer las atribuciones y funciones que en materia agropecuaria, forestal y de desarrollo rural corresponde al Estado, en términos de los Acuerdos, Convenios y Decretos correspondientes;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+III.- Ejercer las atribuciones y funciones que en materia agropecuaria, producción acuícola y desarrollo rural corresponde al Estado en términos de los acuerdos, convenios y decretos correspondientes;
 
 IV.- Fomentar en el Estado el desarrollo rural, impulsando la agricultura, ganadería, pesca; avicultura, apicultura, piscicultura y silvicultura, así como el manejo sustentable de los recursos;
 
@@ -977,9 +983,13 @@ XII.- Coordinar con el Gobierno Federal, los programas de sanidad animal y veget
 
 XIII.- Fomentar la educación, investigación y los programas de transferencia de tecnología apropiada para el campo poblano, con las instituciones de enseñanza e investigación;
 
-XIV.- Participar con las autoridades federales, estatales y municipales correspondientes en la aplicación de técnicas y procedimientos para la conservación de los suelos agrícolas, pastizales, bosques y aguas de la entidad;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
 
-XV.- Participar en la integración del Plan Nacional de Desarrollo Agropecuario y Forestal;
+XIV.- Participar con las Autoridades Federales, Estatales y Municipales correspondientes, en la aplicación de técnicas y procedimientos para la conservación de los suelos agrícolas de la entidad;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XV.- Participar en la integración del Plan Nacional de Desarrollo;
 
 XVI.- Coordinar la participación estatal, con los Comités Directivos de los distritos de zonas de temporal del Estado;
 
@@ -1051,11 +1061,15 @@ XVI.- Construir, rehabilitar o conservar directamente, a través de terceros o e
 
 XVII.- Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
 
-XVIII.- Normar los criterios de vivienda en el Estado a través de los Programas de Desarrollo Urbano, de Ordenamiento Ecológico y demás disposiciones legales aplicables, con el objeto de respetar la vocación natural del suelo y buscar su integración al entorno ecológico;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XVIII.- Normar los criterios de vivienda en el Estado a través de los Programas de Desarrollo Urbano, y demás disposiciones legales aplicables, con el objeto de respetar la vocación natural del sueldo y buscar su integración al entorno ecológico;
 
 XIX.- Preveer y regular en concordancia con los Gobiernos Federal y Municipales, las políticas para satisfacer las necesidades de tierra para el desarrollo urbano y de vivienda, a nivel estatal;
 
-XX.- Asesorar a los ayuntamientos, cuando éstos lo soliciten y en coordinación con ellos, llevará acabo la implementación de políticas en todo lo relacionado con la obra pública, el desarrollo urbano y la ecología;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XX.- Asesorar a los Ayuntamientos, cuando éstos lo soliciten y en coordinación con ellos, llevar a cabo la implementación de políticas en todo lo relacionado con la obra pública y el desarrollo urbano;
 
 XXI.- (DEROGADA, P.O. 4 DE MARZO DE 2005)
 
@@ -1063,7 +1077,9 @@ XXII.- (DEROGADA, P.O. 4 DE MARZO DE 2005)
 
 XXIII.- Participar en las Comisiones Consultivas de Desarrollo Urbano, Ecología y en las que estén relacionadas con las funciones asignadas a esta Secretaría;
 
-XXIV.- Coordinarse con las Autoridades Federales, Estatales y Municipales de acuerdo a su competencia, para la aplicación de la normatividad en materia de obra pública, desarrollo urbano y ecología;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXIV.- Coordinarse con las Autoridades Federales, Estatales y Municipales de acuerdo a su competencia, para la aplicación de la normatividad en materia de obra pública y desarrollo urbano;
 
 XXV.- Regular, promover, planear y ejecutar, directamente o a través de terceros, la obra pública en la entidad, sin perjuicio de las atribuciones conferidas por la Ley de la materia a otras dependencias o entidades;
 
@@ -1689,7 +1705,9 @@ III.- Formular, evaluar y ejecutar el Programa Estatal de Protección al Ambient
 
 IV.- Expedir el Informe Anual del Medio Ambiente y ponerlo a disposición del público en términos de la Ley correspondiente;
 
-V.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico a que se refiere la Ley Para la Protección del Medio Ambiente Natural y el Desarrollo Sustentable del Estado, con la participación de los Ayuntamientos, previa celebración del convenio correspondiente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+V.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico a que se refiere la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado, con la participación de los Ayuntamientos, precia celebración del convenio correspondiente;
 
 VI.- Evaluar el impacto ambiental de las obras o actividades que no estén reservadas por la Federación, conforme a los preceptos correspondientes en la Ley respectiva;
 
@@ -1697,7 +1715,9 @@ VII.- Establecer, regular, administrar y vigilar áreas naturales protegidas de 
 
 VIII.- Prever y controlar la contaminación provocada por las emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores, generadas por establecimientos industriales, comerciales y de servicios, así como por fuentes móviles que circulen en la Entidad, en los términos establecidos en la Ley Para la Protección del Medio Ambiente Natural y el Desarrollo Sustentable del Estado;
 
-IX.- Aplicar las políticas y programas, en coordinación con las autoridades de protección civil, en casos de emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+IX.- Aplicar las políticas y programas, en coordinación con las autoridades de protección civil en caso de emergencia ecológica, contingencia o riesgo ambiental conforme a las políticas y programas de protección civil y de incendios forestales que al efecto se establezcan;
 
 X.- Prever y controlar la contaminación de los recursos naturales en los términos de la Ley de la materia;
 
@@ -1737,9 +1757,61 @@ XXVII.- Organizar, dirigir, ordenar y supervisar los servicios de visitas de ver
 
 XXVIII.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
 
-XXIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
 
-XXX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+XXIX.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos legales aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXX.- Diseñar, instrumentar y coordinar la política forestal en la Entidad, atendiendo los criterios que en la materia se emitan a nivel nacional, en concordancia con la Ley General de Desarrollo Forestal Sustentable, la Ley Estatal de la materia y los demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXI.- Coordinar la elaboración e instrumentación de los programas relativos al sector forestal estatal, vinculándolos con los programas nacionales, regionales y con el Plan Estatal de Desarrollo; así como colaborar en la elaboración y aplicación de los programas forestales regionales de ámbito interestatal o por cuencas hidrológico-forestales;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXII.- Fungir como instancia normativa en materia forestal, sin perjuicio de las facultades que correspondan a la Federación;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXIII.- Ejercer la representación del Gobierno del Estado en materia forestal, celebrando los acuerdos y convenios de coordinación, cooperación y concertación correspondientes con los diferentes niveles de gobierno;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXIV.- Planear, realizar, coordinar y supervisar las acciones orientadas a la preservación, protección y en su caso, restauración de los terrenos forestales del Estado; así como diseñar e instrumentar programas de forestación y reforestación en zonas degradadas de jurisdicción estatal, implementando acciones de mantenimiento de las zonas forestadas o reforestadas;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXV.- Instrumentar acciones de saneamiento de los ecosistemas forestales, celebrado de ser el caso, los convenios de coordinación que se requieran con el Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXVI.- Participar de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la Entidad, así como las acciones para prevenir y combatir la extracción ilegal y la tala clandestina de recursos forestales;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXVII.- En el ámbito de su competencia, establecer criterios, lineamientos, requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en las actividades forestales, en términos de las leyes, acuerdos o convenios respectivos;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXVIII.- Regular en el ámbito de su competencia, el uso del fuego en las actividades agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XXXIX.- Establecer los lineamientos, sistemas, métodos, servicios y mecanismos relativos a la prevención, combate y control de incendios forestales y al uso del fuego en terrenos forestales o preferentemente forestales;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XL.- Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones o delitos que se cometan en materia forestal;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XLI.- Imponer en la esfera de su competencia, las sanciones que determine la Ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+XLII.- Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2005)</small>
 
@@ -1755,7 +1827,9 @@ II.- Coadyuvar con las autoridades federales en la aplicación y vigilancia de l
 
 III.- Integrar, coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo del Estado;
 
-IV.- Coordinar la integración y establecimiento de la Junta local de Conciliación y Arbitraje y de las Comisiones que se formen para regular las relaciones obrero patronales, así como vigilar su funcionamiento;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2006)</small>
+
+IV.- Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje, de las Comisiones que se reformen para regular las relaciones obrero patronales y del Tribunal de Arbitraje de los Trabajadores al Servicio de los Poderes del Estado, así como vigilar el funcionamiento de los mismos;
 
 V.- Fomentar el incremento de la productividad en el trabajo entre los sectores de la producción; así como en coordinación con la Secretaría de Educación Pública, promover el desarrollo de la capacitación y adiestramiento del trabajo;
 
@@ -2021,13 +2095,17 @@ Los tribunales administrativos con autonomía jurisdiccional, formarán parte de
 
 La Junta Local de Conciliación y Arbitraje es un Tribunal con plena autonomía jurisdiccional, que conoce las controversias laborales en los términos de la competencia que le atribuye el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales aplicables.
 
-Las Juntas Especiales que la integran gozan de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que correspondan por Ley al Pleno o al Presidente de la Junta Local de Conciliación y Arbitraje. En lo Administrativo la Junta dependerá directamente de la Secretaría de Gobernación, quien atenderá las cuestiones relativas a los recursos materiales y humanos que requiera para su funcionamiento, de conformidad con la Ley de Egresos.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2006)</small>
+
+Las Juntas Especiales que la integran gozan de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que correspondan por Ley al Pleno o al Presidente de la Junta Local de Conciliación y Arbitraje. En lo administrativo la Junta dependerá directamente de la Secretaría del Trabajo y Competitividad, quien atenderá las cuestiones relativas a los recursos materiales y humanos que requiera para su funcionamiento, de conformidad con la Ley de Egresos del Estado.
 
 El nombramiento y remoción del Presidente de la Junta y de los Presidentes de las Juntas Especiales corresponde libremente al Gobernador del Estado, en los términos de la Ley Federal del Trabajo. Las facultades de dichos funcionarios son las determinadas por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Laboral mencionada.
 
-###### ARTICULO 72.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2006)</small>
 
-El Tribunal de Arbitraje de los Trabajadores al Servicio de los Poderes del Estado, es un Tribunal con plena autonomía para dictar sus resoluciones. En lo administrativo, el Tribunal dependerá directamente de la Secretaría de Gobernación, quien atenderá las cuestiones relativas a los recursos materiales y humanos que requiera para su funcionamiento, de conformidad con la Ley de Egresos.
+###### ARTÍCULO 72.
+
+El Tribunal de Arbitraje de los Trabajadores al Servicio de los Poderes del Estado, es un Tribunal con plena autonomía para dictar sus resoluciones. En lo administrativo, el Tribunal dependerá directamente de la Secretaría del Trabajo y Competitividad, quien atenderá las cuestiones relativas a los recursos materiales y humanos que requiera para su funcionamiento, de conformidad con la Ley de Egresos del Estado.
 
 El nombramiento y remoción del Presidente del Tribunal de Arbitraje de los Trabajadores al Servicio de los Poderes del Estado, se realizará conforme a lo establecido en la Ley de los Trabajadores al Servicio de los Poderes del Estado.
 
@@ -2194,3 +2272,17 @@ TERCERO.- Las menciones contenidas en cualquier disposición legal o reglamentar
 CUARTO.- Se faculta al Gobernador y al Secretario de Fianzas y Administración, para que respectivamente y en términos de la Ley de Presupuesto, Contabilidad y Gasto Público y la Ley de Egresos del Estado para el ejercicio del año 2005, realicen los ajustes necesarios a dicho presupuesto y las modificaciones procedentes a los manuales y lineamientos vigentes en materia presupuestal, a fin de que la normatividad resulte congruente con los cambios funcionales y a la estructura orgánica del Poder Ejecutivo, teniendo la obligación de informar de ello al Congreso del Estado al rendir la cuenta pública y de considerar que as erogaciones que deriven de la aplicación de la presente Ley se sujeten en todo momento a la suficiencia presupuestal aprobada por el Congreso del Estado.
 
 QUINTO.- Se derogan toda las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Dependencias que con motivo de la presente reforma sean modificadas en sus atribuciones y funciones, deberán realizar las adecuaciones necesarias a sus Reglamentos Interiores, en su caso, dentro del plazo de noventa días, contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
