@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2006-06-22"
+last_updated: "2006-06-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -143,9 +143,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 74/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 38/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2006)</small>
 
-3.- Diecinueve juzgados de distrito en el Estado de México: seis especializados en materia de procesos penales federales y cuatro especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; seis juzgados de distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Ciudad Nezahualcóyotl.
+3.- Veinte juzgados de distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; seis juzgados de distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -351,9 +351,9 @@ XVIII.- DECIMOCTAVO CIRCUITO:
 
 XIX.- DECIMONOVENO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 62/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F.29 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 47/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2006)</small>
 
-1.- Cinco tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como uno mixto, con sede en Reynosa, Tamaulipas.
+1.- Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos mixtos con sede en Reynosa.
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
@@ -665,7 +665,7 @@ El juzgado de distrito en el Estado de Coahuila, con residencia en Monclova, eje
 
 Los juzgados de distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL 21/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 21/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JUNIO DE 2005)</small>
 
 IX.- Noveno Circuito:
 
@@ -1618,6 +1618,22 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 22 DE JUNIO DE 2006.
 
 ACUERDO 45/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XXIX, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 23 DE JUNIO DE 2006.
+
+ACUERDO 38/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO II, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mi seis.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 23 DE JUNIO DE 2006.
+
+ACUERDO 47/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XIX, NUMERO 1.
 
 PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
 
