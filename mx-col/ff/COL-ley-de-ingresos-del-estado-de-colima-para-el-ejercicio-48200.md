@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-48200"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2006-06-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 28 de diciembre de 2005.
 
@@ -393,13 +393,13 @@ Entidades Federativas. 177,056,000.00
 
 Federalizados 0.00
 
-VIII.- INGRESOS
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
 
-EXTRAORDINARIOS 100,000,000.00
+VIII.- INGRESOS EXTRAORDINARIOS 600'000,000.00
 
-1.- Empréstitos. 100,000,000.00
+1.- Empréstitos 600'000,000.00
 
-T O T A L. 5,250,000,000.00
+TOTAL 5,750´000,000.00
 
 ###### Artículo 2.
 
@@ -461,9 +461,11 @@ c) Los previstos en la fracción I del artículo 55 de la Ley de Hacienda del Es
 
 La determinación de los sujetos de los beneficios previstos en este artículo y de los montos del mismo, estará a cargo de la Secretaría de Fomento Económico del Gobierno del Estado, aplicando los criterios y procedimientos establecidos en la Ley de Fomento Económico para el Estado de Colima y su Reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+
 ###### Artículo 8.
 
-Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para afectar las participaciones que en ingresos federales correspondan al Estado, en garantía de pago de los empréstitos que se contraten al amparo de la presente Ley, utilizando para ello los mecanismos establecidos en la Ley de Deuda Pública del Estado.
+Se autoriza al Gobierno del Estado para llevar a cabo la afectación del derecho a las participaciones que en ingresos federales correspondan al Estado de Colima, como fuente de pago de los empréstitos que adquiera al amparo de la presente Ley, utilizando para ello los mecanismos establecidos en la Ley de Deuda Pública del Estado.
 
 ###### Artículo 9.
 
@@ -486,3 +488,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 23 días del mes de diciembre del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
