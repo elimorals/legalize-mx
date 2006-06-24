@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-zacatecano-de-la-senectud-8753"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-07-23"
-last_updated: "1983-07-23"
+last_updated: "2006-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ORGANICA DEL INSTITUTO ZACATECANO DE LA SENECTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO AL P.O. DE 24 DE JUNIO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sabado 23 de julio de 1983.
 
@@ -194,3 +196,19 @@ LIC. JOSE GUADALUPE CERVANTES CORONA
 EL DIRECTOR GENERAL DEL GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JUNIO DE 2006.
+
+Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley Orgánica del Instituto Zacatecano de la Senectud, contenida en el Decreto número 432 de la Quincuagésima Legislatura Estatal, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el día 23 de julio de 1983.
+
+Tercero.- Una vez publicada la presente Ley en el Periódico Oficial, Órgano del Gobierno el Estado, el Ejecutivo y la Legislatura a través de las Comisiones de Discapacitados y Tercera Edad y de Desarrollo Social, deberán difundirla en los medios masivos de comunicación locales.
+
+CUARTO (SIC).- El Reglamento de la presente Ley, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor de este ordenamiento.
+
+QUINTO.- Dentro del término de noventa días naturales contados a partir de la vigencia de esta Ley, deberán quedar conformados los Consejos de Coordinación Interinstitucional y el Consejo Consultivo de las Personas Adultas Mayores, a que se refiere la presente Ley.
+
+SEXTO.- Dentro del término de sesenta días posteriores a la constitución de los Consejos a que se refiere el artículo transitorio que antecede deberá quedar constituida la Comisión de Valoración de las Capacidades de las personas adultas mayores.
