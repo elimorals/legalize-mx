@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2006-04-10"
+last_updated: "2006-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2006.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -257,7 +257,13 @@ La Violación consiste en realizar cópula con persona de cualquier sexo, utiliz
 
 Al responsable de Violación se le aplicarán de 8 a 14 años de prisión y de 20 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Para los efectos de esta legislación, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+Para los efectos de esta legislación, se entiende por cópula la introducción del pene en el cuerpo humano por vía vaginal, anal u oral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2006)</small>
+
+Si entre el activo y pasivo de la violación existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en este artículo.
 
 ###### Artículo 25.
 
@@ -269,9 +275,11 @@ II. Realizar cópula con persona que no tenga capacidad para comprender el signi
 
 Al responsable de Violación Equiparada se le aplicarán de 8 a 14 años de prisión y de 20 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física o moral sobre la clase de víctimas señaladas en el presente artículo, la punibilidad será de 12 a 21 años de prisión y de 30 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
 ###### Artículo 26.
 
-El Abuso Sexual consiste en la introducción por vía vaginal o anal de cualquier elemento o instrumento distinto del miembro viril, mediante el uso de la fuerza física o moral suficiente para el sometimiento de la víctima, sea cual fuere el sexo de ésta.
+El abuso sexual consiste en la introducción por vía vaginal o anal de cualquier elemento o instrumento distinto del pene, mediante el uso de la fuerza física o moral suficiente para el sometimiento de la víctima, sea cual fuere el sexo de ésta.
 
 Al responsable de Abuso Sexual se le aplicarán de 3 a 8 años de prisión y de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -5032,3 +5040,13 @@ P.O. 10 DE ABRIL DE 2006.
 DECRETO NUMERO 153
 
 UNICO.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE JUNIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los Artículos 24 y 26 de la Legislación Penal para el Estado de Aguascalientes vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia; asimismo, seguirán aplicándose a las personas indiciadas, procesadas o sentenciadas por los delitos previstos y sancionados por dichos Artículos.
