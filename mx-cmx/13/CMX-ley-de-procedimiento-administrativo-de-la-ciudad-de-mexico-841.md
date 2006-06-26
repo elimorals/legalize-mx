@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2006-06-07"
+last_updated: "2006-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -702,7 +702,29 @@ Contra las resoluciones pronunciadas en materia de impedimentos, excusas y recus
 
 Las actuaciones y diligencias previstas en esta Ley se practicarán en días y horas hábiles.
 
-Para los efectos de esta Ley se considerarán días inhábiles: Los sábados, domingos, 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre, 20 de noviembre, 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquéllos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, que se publicará en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2006)</small>
+
+Para los efectos de esta Ley se consideran días inhábiles:
+
+Los sábados y domingos;
+
+I. El 1 de enero;
+
+II. El primer lunes de febrero, en conmemoración del 5 de febrero, por el aniversario de la promulgación de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. El tercer lunes de marzo, en conmemoración del 21 de marzo, por el aniversario del Natalicio de Don Benito Juárez García, Presidente de la República y Benemérito de las Américas;
+
+IV. El 1 de mayo, día del Trabajo;
+
+V. El 16 de septiembre, día de la Independencia Nacional;
+
+VI. El tercer lunes de noviembre, en conmemoración del 20 de noviembre, por el aniversario de la Revolución Mexicana;
+
+VII. El 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder ejecutivo Federal;
+
+VIII. El 25 de diciembre;
+
+IX. Los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia, entidad do (sic) delegación respectiva, que se publicará en la Gaceta oficial del Distrito Federal.
 
 ###### Artículo 72.
 
@@ -1243,3 +1265,7 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los trámites que se encuentren en proceso de afirmativa ficta ante las autoridades correspondientes, deberán de ser resueltos conforme a la normatividad en que se iniciaron.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
