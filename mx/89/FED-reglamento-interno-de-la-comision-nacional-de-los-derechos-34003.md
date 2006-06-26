@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2006-03-07"
+last_updated: "2006-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2006.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 29 de septiembre de 2003.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Nacional de los Derechos Humanos.
 
@@ -245,11 +245,13 @@ Durante las ausencias temporales del presidente de la Comisión Nacional, sus fu
 
 ###### Artículo 21.
 
-(Unidades administrativas)
+(Unidades Administrativas)
 
-Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
+Para el despacho de los asuntos que directamente le corresponden a la presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
 
-I. Secretaría de Administración;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+I. Oficialía Mayor;
 
 II. Coordinación General de Comunicación y Proyectos;
 
@@ -283,11 +285,15 @@ Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y
 
 Sin perjuicio de lo anterior, los titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y los titulares de las Unidades Administrativas a que hacen referencia los artículos 21 y 37 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado "B" del artículo 123 constitucional, dando el correspondiente aviso al Presidente de la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
 ###### Artículo 22.
 
-(De la Secretaría de Administración)
+(De la Oficialía Mayor)
 
-La Secretaria de Administración tendrá las siguientes atribuciones, las cuales ejercerá por sí misma o a través de las áreas previstas en el Manual de Organización de la Comisión Nacional:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+La Oficialía Mayor tendrá las siguientes atribuciones, las cuales se ejercerán por sí misma o a través de las áreas previstas en su manual de organización:
 
 I. Ejercer, por acuerdo del presidente de la Comisión Nacional, la representación legal de la Comisión Nacional exclusivamente en el ámbito administrativo institucional;
 
@@ -327,11 +333,15 @@ XVIII. Establecer y operar el sistema de informática administrativa y demás re
 
 XIX. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
 ###### Artículo 23.
 
-(Estructura de la Secretaría de Administración)
+(Estructura de la Oficialía Mayor)
 
-Para el ejercicio de sus atribuciones, la Secretaría de Administración contará con las siguientes áreas:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+Para el ejercicio de sus atribuciones la Oficialía Mayor contará con las siguientes áreas:
 
 I. Normatividad y Desarrollo Tecnológico;
 
@@ -529,39 +539,33 @@ VII. Supervisar las actividades de distribución y comercialización de las publ
 
 > <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
 
-VIII. Colaborar con la Dirección General de la Planeación y Análisis en la elaboración del informe anual de actividades, y
+VIII. Colaborar con la Dirección General de la Planeación y Análisis en la elaboración del informe anual de actividades, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-IX. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
+IX. Organizar e impartir programas de formación académica en el campo de los derechos humanos, ya sea por sí mismo o en colaboración con instituciones nacionales o extranjeras, y
+
+X. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
+
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 35.
 
 (Estructura del Centro Nacional de Derechos Humanos)
 
-Para el ejercicio de sus atribuciones del Centro Nacional de Derechos Humanos contará con un titular y las áreas siguientes:
+Para el ejercicio de sus atribuciones, el Centro Nacional de Derechos Humanos contará con un titular y las siguientes áreas:
 
-I. Investigación en Derechos Humanos;
+I. Secretaría Académica;
 
-II. Desarrollo de Habilidades en Investigación;
+II. Publicaciones;
 
-III. Proyectos de Investigación;
+III. Editorial;
 
-IV. Desarrollo y Metodología de la Investigación;
+IV. Documentación y Biblioteca, y
 
-V. Enlace con Instituciones Educativas y Culturales, y (sic)
+V. Programación de Actividades Académicas.
 
-VI. Biblioteca;
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
-
-VII. Editorial, y
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
-
-VIII. Publicaciones.
-
-Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 Por su naturaleza, el Centro Nacional de Derechos Humanos contará con un Reglamento Interno que deberá aprobar el Consejo Consultivo de la Comisión Nacional.
 
@@ -635,13 +639,17 @@ Los lineamientos generales de actuación y las normas de carácter interno de la
 
 El presidente de la Comisión Nacional someterá a consideración de los miembros del Consejo Consultivo las propuestas de acuerdos, mismas que serán analizadas y aprobadas en la sesión correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
 ###### Artículo 42.
 
-(Informe anual y ejercicio presupuestal)
+(Informe Anual y Ejercicio Presupuestal)
 
 En la última sesión de cada año el presidente de la Comisión Nacional presentará al Consejo Consultivo el texto del proyecto de informe anual de actividades y convocará a una sesión extraordinaria para su análisis y opinión. Una vez aprobado el contenido de dicho informe se presentará ante los Poderes de la Unión y se hará del conocimiento de la opinión pública.
 
-El informe sobre el ejercicio programático-presupuestal se presentará en la tercera sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Nacional solicitará a los miembros del Consejo Consultivo la autorización para que el secretario de administración se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio fiscal en curso.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+El informe sobre el ejercicio programático-presupuestal se presentará en la tercera sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Nacional, solicitará a los miembros del Consejo Consultivo la autorización para que el Oficial Mayor se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio fiscal en curso.
 
 ###### Artículo 43.
 
@@ -1936,3 +1944,11 @@ D.O.F. 7 DE MARZO DE 2006.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Este Acuerdo deberá ser publicado en el Diario Oficial de la Federación y en la Gaceta de la Comisión Nacional de los Derechos Humanos.
+
+D.O.F. 26 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- La parte conducente al manual de organización de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones efectuadas a su Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente acuerdo y deberá ser publicada en el Diario Oficial de la Federación.
