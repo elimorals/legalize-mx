@@ -4,7 +4,7 @@ identifier: "SON-ley-de-aguas-del-estado-de-sonora-9563"
 country: "mx"
 rank: "ley"
 publication_date: "1944-04-05"
-last_updated: "1944-04-05"
+last_updated: "2006-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE AGUAS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE AGUAS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 26 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el miércoles 5 de abril de 1944.
 
@@ -732,3 +734,59 @@ GRAL. ABELARDO L. RODRIGUEZ.
 El Secretario de Gobierno,
 
 LIC. ANTONIO CANALE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 6 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los quince días siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Agua Potable y Alcantarillado del Estado de Sonora publicada en el Boletín Oficial del Estado de Sonora, de fecha 7 de mayo de 1992, así como las reformas realizadas a la misma y publicadas el 31 de diciembre de 1992 y 23 de diciembre de 2002.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Aguas del Estado de Sonora, publicada en el Boletín Oficial de de (sic) fecha 05 de Abril de 1944.
+
+###### ARTÍCULO CUARTO.
+
+Se transfieren todos los recursos humanos, materiales y financieros de la Comisión de Agua Potable y Alcantarillado del Estado de Sonora, los cuales pasarán a formar parte del patrimonio de la Comisión Estatal del Agua, respetándose los derechos de los trabajadores de conformidad con las disposiciones legales aplicables.
+
+La Comisión Estatal del Agua se subroga en los derechos y obligaciones que a la entrada en vigor de esta Ley correspondan a la Comisión de Agua Potable y Alcantarillado del Estado de Sonora, derivados de los convenios, contratos y demás actos jurídicos que esta hubiere celebrado.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos de los municipios del Estado continuarán prestando los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, bajo la forma de organismo público descentralizado, debiendo en todo caso ajustarse a las normas de la presente Ley.
+
+En el supuesto de que no publicasen los acuerdos tomados por los ayuntamientos, se entenderá que los servicios se continúan prestando bajo la forma de organismo descentralizado, debiendo, en todo caso, adecuarse a las normas de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los ayuntamientos continuarán formando parte del Sistema Estatal del Agua, por conducto de los titulares de los organismos operadores; en consecuencia, deberán acreditarlos para su incorporación al Consejo Estatal del Agua, en los términos de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los ayuntamientos, dentro del plazo de ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley, deberán formular el programa municipal de agua potable drenaje, alcantarillado, tratamiento y disposición de aguas residuales, de conformidad con este Ordenamiento y la Ley de Planeación del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobernador del Estado procederá a la instalación del Consejo Estatal del Agua en un plazo que no excederá de 60 días, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+En un plazo de 90 días, contados a partir de la entrada en vigor de la presente Ley, el Vocal Ejecutivo de la Comisión Estatal del Agua someterá a la aprobación de la Junta de Gobierno el Reglamento Interior, acorde a lo que señala la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+Durante el año 2006, los organismos operadores y los prestadores de los servicios públicos materia de la presente Ley seguirán cobrando las cuotas y tarifas autorizadas por el Congreso del Estado con las normas que para su actualización aprobó el mismo Congreso.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En materia de construcción de obras públicas para infraestructura hidráulica:
+
+I.- Las obras iniciadas con anterioridad a la entrada en vigor de esta Ley, se ejecutarán en los términos de ley por la dependencia o entidad que las contrató, hasta su terminación, momento en el cual se aportarán al patrimonio de los organismos operadores a que se refiere esta Ley, y
+
+II.- Las obras que se deben contratar e iniciar con posterioridad a la entrada en vigor de la presente Ley por el organismo operador o por la Comisión Estatal (sic) Agua, se deberán ajustar a lo dispuesto en esta Ley, en la de obras públicas del Estado y su reglamento.
