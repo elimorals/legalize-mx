@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2006-06-14"
+last_updated: "2006-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -860,7 +860,9 @@ Los Establecimientos Mercantiles en los que se preste el servicio de juegos elec
 
 I.- Aquellos donde se preste el servicio de juegos de video deberán:
 
-a) No instalarse a menos de 300 metros lineales de algún centro escolar de educación básica;
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2006)</small>
+
+a) No instalarse a menos de 300 metros a la redonda de algún centro escolar de educación básica;
 
 b) Contar con una clasificación que los identifique en grupos de la siguiente forma: Tipo A, B, C, y D. Cada videojuego deberá tener visiblemente la letra que le corresponda, la que deberá ser de por lo menos 15 centímetros de alto y de ancho y de un color determinado;
 
@@ -1090,7 +1092,9 @@ Los Establecimientos Mercantiles previstos en este capítulo podrán vender abar
 
 La venta de bebidas alcohólicas en envase cerrado sólo se podrá realizar de las 07:00 a las 24:00 horas.
 
-Las vinaterías no podrán instalarse, en ningún caso, a menos de trescientos metros lineales de un centro de educación básica.
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2006)</small>
+
+Las vinaterías no podrán instalarse, en ningún caso, a menos de 300 metros a la redonda de un centro de educación básica.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 14 DE MAYO DE 2002)</small>
 
@@ -1387,3 +1391,7 @@ G.O. 14 DE JUNIO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 26 DE JUNIO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
