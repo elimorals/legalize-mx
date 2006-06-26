@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2006-01-26"
+last_updated: "2006-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -468,9 +468,15 @@ El reglamento y las normas oficiales mexicanas sobre la materia establecerán la
 
 ### CAPÍTULO VII. CENTROS PARA LA CONSERVACIÓN E INVESTIGACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
 ###### Artículo 38.
 
-La Secretaría establecerá y operará, de conformidad con lo establecido en el reglamento, centros para la conservación e investigación de la vida silvestre, en los que se llevarán a cabo actividades de difusión, capacitación, rescate, rehabilitación, evaluación, muestreo, seguimiento permanente, manejo y cualesquiera otras que contribuyan a la conservación y al desarrollo del conocimiento sobre la vida silvestre y su hábitat, así como a la integración de éstos a los procesos de desarrollo sustentable. Asimismo, la Secretaría podrá celebrar convenios y acuerdos de coordinación y concertación para estos efectos.
+La Secretaría establecerá y operará de conformidad con lo establecido en el reglamento, Centros para la Conservación e Investigación de la Vida silvestre, en los que se llevarán a cabo actividades de:
+
+I. Recepción, rehabilitación, protección, recuperación, reintroducción, canalización, y cualquiera otras que contribuyan a la conservación de ejemplares producto de rescate, entregas voluntarias, o aseguramientos por parte de la Procuraduría Federal de Protección al Ambiente o la Procuraduría General de la República;
+
+II. Difusión, capacitación, monitoreo, evaluación, muestreo, manejo, seguimiento permanente y cualquiera otras que contribuyan al desarrollo del conocimiento de la vida silvestre y su hábitat, así como la integración de éstos a los procesos de desarrollo sostenible. La Secretaría podrá celebrar convenios y acuerdos de coordinación y concertación para estos efectos;
 
 En dichos centros se llevará un registro de las personas físicas y morales con capacidad de mantener ejemplares de fauna silvestre en condiciones adecuadas. En el caso de que existan ejemplares que no puedan rehabilitarse para su liberación, éstos podrán destinarse a las personas físicas y morales que cuenten con el registro correspondiente, de conformidad con lo establecido en el capítulo sexto de este título.
 
@@ -707,6 +713,12 @@ El promovente de una autorización para la captura de mamíferos marinos a los q
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
 
 Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial. Sólo se podrá autorizar la captura para actividades de restauración, repoblamiento y de reintroducción de dichas especies en su hábitat natural.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+###### Artículo 60 Bis 1.
+
+Ningún ejemplar de tortuga marina, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, incluyendo sus partes y derivados.
 
 ###### Artículo 61.
 
@@ -1148,7 +1160,9 @@ IV. La realización de las acciones necesarias para evitar que se continúen pre
 
 Al asegurar ejemplares, partes y derivados de especies silvestres conforme a esta Ley o las normas oficiales mexicanas, la Secretaría sólo podrá designar al infractor como depositario de los bienes asegurados cuando:
 
-a) No exista posibilidad inmediata de colocar los bienes asegurados en instituciones o con personas, debidamente registradas para tal efecto.
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+a) No exista posibilidad inmediata de colocar los bienes asegurados en los Centros para la Conservación e Investigación de la Vida Silvestre, en Unidades de Manejo para la Conservación de la Vida Silvestre, en instituciones o con personas, debidamente registradas para tal efecto.
 
 b) No existan antecedentes imputables al mismo, en materia de aprovechamiento o comercio ilegales.
 
@@ -1176,9 +1190,11 @@ VI. Existan signos evidentes de alteración de documentos o de la información c
 
 VII. Existan faltas respecto al trato digno y respetuoso, conforme a lo estipulado en la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
 ###### Artículo 120.
 
-La Secretaría, cuando realice aseguramientos precautorios de conformidad con esta Ley, podrá designar a la persona que reúna las mejores condiciones de seguridad y cuidado para la estancia y, en su caso, la reproducción de los ejemplares o bienes asegurados.
+La Secretaría, cuando realice aseguramientos precautorios de conformidad con esta Ley, canalizará los ejemplares asegurados al Centro para la Conservación e Investigación de la Vida Silvestre o consultará a éstos la canalización hacia Unidades de Manejo para la Conservación de la Vida Silvestre, instituciones o personas que reúnan las mejores condiciones de seguridad y cuidado para la estancia, y en su caso, la reproducción de los ejemplares o bienes asegurados.
 
 Las personas sujetas a inspección que sean designadas como depositarias de los bienes asegurados precautoriamente, deberán presentar ante la Secretaría una garantía suficiente que respalde la seguridad y cuidado de los ejemplares y bienes de que se trate, dentro de los cinco días siguientes a que se ordene el aseguramiento precautorio. En caso de que la Secretaría no reciba la garantía correspondiente, designará a otro depositario y los gastos que por ello se generen serán a cargo del inspeccionado.
 
@@ -1359,3 +1375,9 @@ D.O.F. 10 DE ENERO DE 2002.
 D.O.F. 26 DE ENERO DE 2006.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan al mismo.
