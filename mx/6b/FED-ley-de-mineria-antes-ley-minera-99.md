@@ -4,7 +4,7 @@ identifier: "FED-ley-de-mineria-antes-ley-minera-99"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-26"
-last_updated: "2005-04-28"
+last_updated: "2006-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-24"
 
 LEY MINERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de junio de 1992.
 
@@ -55,9 +55,13 @@ Se sujetarán a las disposiciones de esta Ley, la exploración, explotación, y 
 
 Para los efectos de la presente Ley se entiende por:
 
-I.- Exploración: Las obras y trabajos realizados en el terreno con el objeto de identificar depósitos minerales, al igual que de cuantificar y evaluar las reservas económicamente aprovechables que contengan;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-II.- Explotación: Las obras y trabajos destinados a la preparación y desarrollo del área que comprende el depósito mineral, así como los encaminados a desprender y extraer los productos minerales existentes en el mismo, y
+I.- Exploración: Las obras y trabajos realizados en el terreno con el objeto de identificar depósitos de minerales o sustancias, al igual que de cuantificar y evaluar las reservas económicamente aprovechables que contengan;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+II.- Explotación: Las obras y trabajos destinados a la preparación y desarrollo del área que comprende el depósito mineral, así como los encaminados a desprender y extraer los productos minerales o sustancias existentes en el mismo, y
 
 III.- Beneficio: Los trabajos para preparación, tratamiento, fundición de primera mano y refinación de productos minerales, en cualquiera de sus fases, con el propósito de recuperar u obtener minerales o sustancias, al igual que de elevar la concentración y pureza de sus contenidos.
 
@@ -97,9 +101,9 @@ VI. Los productos derivados de la descomposición de las rocas cuando su explota
 
 VII. Las materias minerales u orgánicas siguientes, susceptibles de ser utilizadas como fertilizantes: apatita, colófano, fosfosiderita, francolita, variscita, wavelita y guano;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-VIII. Los combustibles minerales sólidos siguientes: carbón mineral en todas sus variedades, y
+VIII.- El carbón mineral en todas sus variedades y el gas asociado a los yacimientos de éste;
 
 IX. Los demás que determine el Ejecutivo Federal, mediante decreto que será publicado en el Diario Oficial de la Federación, atendiendo a su uso industrial debido al desarrollo de nuevas tecnologías, a su cotización en los mercados internacionales o a la necesidad de promover la explotación racional y la preservación de los recursos no renovables en beneficio de la sociedad.
 
@@ -109,7 +113,9 @@ Quienes estén realizando la exploración o explotación de los minerales o sust
 
 Se exceptúan de la aplicación de la presente Ley:
 
-I.- El petróleo y los carburos de hidrógeno sólidos, líquidos o gaseosos;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+I.- El petróleo y los carburos de hidrógeno sólidos, líquidos o gaseosos; salvo el gas asociado a los yacimientos de carbón mineral;
 
 II.- Los minerales radiactivos;
 
@@ -163,9 +169,21 @@ XI.- Corregir administrativamente los errores que encuentre en un título de con
 
 XII.- Verificar el cumplimiento de los deberes y obligaciones que impone la presente Ley a quienes lleven a cabo la exploración, explotación o beneficio de minerales o sustancias concesibles e imponer las sanciones administrativas derivadas de su inobservancia;
 
-XIII.- Resolver los recursos que se interpongan conforme a lo previsto por esta Ley, y
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-XIV.- Las demás que le confieren expresamente otras leyes.
+XIII.- En conjunto con la Secretaría de Energía, formular y actualizar las políticas de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, para asegurar su aprovechamiento racional y promover su uso eficiente;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XIV.- En conjunto con la Secretaría de Energía, establecer los términos y condiciones, así como disposiciones administrativas de carácter técnico para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XV.- En conjunto con la Secretaría de Energía, evaluar la factibilidad de los proyectos de recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral y su congruencia con la política de energía;
+
+XVI.- Resolver los recursos que se interpongan conforme a lo previsto por esta Ley, y
+
+XVII.- Las demás que le confieren expresamente otras leyes.
 
 La Secretaría podrá solicitar la colaboración de otras autoridades federales, estatales y municipales en ejercicio de las facultades de verificación que le confiere la presente Ley.
 
@@ -493,11 +511,23 @@ IX.- Desistirse de las mismas y de los derechos que de ellas deriven;
 
 X.- Agrupar dos o más de ellas para efectos de comprobar obras y trabajos previstos por esta Ley y de rendir informes estadísticos y técnicos;
 
-XI.- Solicitar correcciones administrativas o duplicados de sus títulos, y
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+XI.- Solicitar correcciones administrativas o duplicados de sus títulos;
 
-XII.- Obtener la prórroga de las concesiones mineras por igual término de vigencia, de acuerdo con lo previsto por el artículo 15 de esta Ley.
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XII.- Obtener la prórroga en las concesiones minera por igual término de vigencia, de acuerdo con lo previsto por el artículo 15 de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XIII.- Obtener el permiso de la Secretaría de Energía para la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral. El aprovechamiento puede darse de dos maneras: el autoconsumo y la entrega a Petróleos Mexicanos. En el caso del autoconsumo dependiendo de la forma en que se de éste se sujetará a lo dispuesto en las leyes correspondientes.
+
+a) Los concesionarios de yacimientos para la explotación de carbón mineral podrán asociarse para recuperar, autoconsumir y aprovechar el gas asociado a los yacimientos de carbón mineral, previa autorización de la Secretaría de Energía.
+
+b) Para el caso del transporte y servicio de entrega del gas asociado a los yacimientos de carbón mineral a Petróleos Mexicanos, será necesario la celebración de un contrato en los términos de las disposiciones administrativas que fije la Secretaría de Energía.
+
+c) Los términos y la metodología para el pago de la contraprestación del servicio de transporte y entrega del gas a que se refiere el contrato citado en el párrafo anterior serán establecidos por la autoridad competente y deberá considerar las inversiones necesarias para su recuperación, transporte, operación y mantenimiento más la obtención de una utilidad razonable.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
@@ -585,19 +615,39 @@ V.- No retirar las obras permanentes de fortificación, los ademes y demás inst
 
 VI.- Conservar en el mismo lugar y mantener en buen estado la mojonera o señal que precise la ubicación del punto de partida;
 
-VII.- Rendir a la Secretaría los informes estadísticos, técnicos y contables en los términos y condiciones que señale el Reglamento de la presente Ley, y
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-VIII.- Permitir al personal comisionado por la Secretaría la práctica de visitas de inspección.
+VII.- Rendir a la Secretaría los informes estadísticos, técnicos y contables en los términos y condiciones que señale el Reglamento de la presente Ley;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+VIII.- Permitir al personal comisionado por la Secretaría la práctica de visitas de inspección;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
 IX.- Rendir a la Secretaría un informe geológico-minero cuando la concesión minera correspondiente se cancele por terminación de su vigencia, desistimiento, sustitución por reducción, infracción o resolución judicial. El informe describirá los trabajos de exploración y explotación realizados en el lote minero, o en la superficie que se abandona, de acuerdo a lo establecido en el Reglamento de esta Ley.
 
-La Secretaría entregará al Servicio Geológico Mexicano dicho informe para que sea incorporado en el sistema público de información del propio Servicio.
+La Secretaría entregará al Servicio Geológico Mexicano dicho informe para que sea incorporado en el sistema público de información del propio Servicio;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-X.- Rendir al Servicio Geológico Mexicano, en el caso de concesiones otorgadas mediante concurso, un informe semestral en los meses de enero y julio de cada año, de los trabajos realizados y de la producción obtenida en el lote amparado por la concesión minera, para efectos de control del pago de la prima por descubrimiento o cualquier otra contraprestación económica contemplada a favor de dicho organismo.
+X.- Rendir al Servicio Geológico Mexicano, en el caso de concesiones otorgadas mediante concurso, un informe semestral en los meses de enero y julio de cada año, de los trabajos realizados y de la producción obtenida en el lote amparado por la concesión minera, para efectos de control del pago de la prima por descubrimiento o cualquier otra contraprestación económica contemplada a favor de dicho organismo;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XI.- Dar aviso a la Secretaría de Energía sobre el inicio y suspensión de las actividades relacionadas con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, que se realice al amparo de su concesión minera;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XII. Acumular, registrar y proporcionar periódicamente información geológica a la Secretaría de Energía relacionada con la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XIII.- Avisar a la Secretaría de Energía sobre el descubrimiento de gas no asociado a los yacimientos de carbón mineral, como producto de las concesiones que amparan la exploración y explotación de yacimientos de carbón mineral, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XIV.- Entregar el gas asociado a los yacimientos de carbón mineral en el punto de conexión que indique Petróleos Mexicanos, en caso de que no se destine al autoconsumo.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
@@ -931,9 +981,27 @@ VI.- No sujetar las obras y trabajos de exploración o de explotación de carbó
 
 VII.- Realizar las obras y trabajos previstos por esta Ley sin las autorizaciones que señala el artículo 20 de la presente Ley;
 
-VIII.- Agrupar concesiones que amparen lotes mineros no colindantes para efectos de comprobación que no constituyan una unidad minera o minerometalúrgica desde el punto de vista técnico y administrativo, o
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
-IX.- Perder la capacidad para ser titular de concesiones.
+VIII.- Agrupar concesiones que amparen lotes mineros no colindantes para efectos de comprobación que no constituyan una unidad minera o minerometalúrgica desde el punto de vista técnico y administrativo;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+IX.- Recuperar, almacenar, transportar y prestar servicio de entrega del gas asociado que se derive de la recuperación y aprovechamiento de los yacimientos de carbón mineral, sin la autorización a que se refiere el artículo 19, fracción XIII, de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+X.- Recuperar, almacenar, transportar y prestar servicio de entrega del gas asociado a los yacimientos de carbón mineral a que se refiere el artículo 19, fracción XIII, de esta Ley, simulando sin realizar las actividades para las que fue otorgada la concesión;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XI.- Enajenar el gas asociado que se derive de la recuperación y aprovechamiento de los yacimientos de carbón mineral;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+XII.- Omitir información respecto al gas no asociado a los yacimientos de carbón mineral descubierto en las fases de exploración y explotación de los yacimientos de dicho mineral, o
+
+XIII.- Perder la capacidad para ser titular de concesiones.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
@@ -1098,3 +1166,9 @@ Las solicitudes de concesión de exploración en trámite se considerarán solic
 ###### ARTÍCULO QUINTO.
 
 Las obligaciones a que se refiere el segundo párrafo del artículo noveno transitorio de la Ley Minera publicada en el Diario Oficial de la Federación del 26 de junio de 1992 continuarán en vigor.
+
+D.O.F. 26 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las autoridades competentes expedirán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, las disposiciones relativas a la recuperación y aprovechamiento de parte de los concesionarios, la información geológica relacionada con la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral y la metodología relacionada con la contraprestación por el servicio de entrega a Petróleos Mexicanos del gas asociado a los yacimientos de carbón mineral que se realice al amparo de una concesión minera.
