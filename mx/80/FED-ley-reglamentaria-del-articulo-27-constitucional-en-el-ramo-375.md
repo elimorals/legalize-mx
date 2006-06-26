@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-27-constitucional-en-el-ramo-375
 country: "mx"
 rank: "ley"
 publication_date: "1958-11-29"
-last_updated: "2006-01-12"
+last_updated: "2006-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=375&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1958-11-27"
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 29 de noviembre de 1958.
 
@@ -56,6 +56,10 @@ La industria petrolera abarca:
 I. La exploración, la explotación, la refinación, el transporte, el almacenamiento, la distribución y las ventas de primera mano del petróleo y los productos que se obtengan de su refinación;
 
 II. La exploración, la explotación, la elaboración y las ventas de primera mano del gas, así como el transporte y el almacenamiento indispensables y necesarios para interconectar su explotación y elaboración, y
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2006)</small>
+
+Se exceptúa del párrafo anterior el gas asociado a los yacimientos de carbón mineral y la Ley Minera regulará su recuperación y aprovechamiento, y
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
 
@@ -282,3 +286,9 @@ D.O.F. 12 DE ENERO DE 2006
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que entren en contradicción con el presente Decreto; y se dejan sin efecto todas las disposiciones reglamentarias, circulares, acuerdos y todos los actos administrativos de carácter general que contradigan las disposiciones del presente Decreto.
+
+D.O.F. 26 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las autoridades competentes expedirán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, las disposiciones relativas a la recuperación y aprovechamiento de parte de los concesionarios, la información geológica relacionada con la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral y la metodología relacionada con la contraprestación por el servicio de entrega a Petróleos Mexicanos del gas asociado a los yacimientos de carbón mineral que se realice al amparo de una concesión minera.
