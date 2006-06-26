@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2006-05-29"
+last_updated: "2006-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -719,7 +719,9 @@ I.- PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA:
 
 a) Departamento Jurídico;
 
-1. Unidad Jurídica;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE JUNIO DE 2006)</small>
+
+1. Unidad Jurídica del Adulto Mayor;
 
 b) Departamento Jurídico Contencioso;
 
@@ -736,6 +738,14 @@ c) Departamento de Protección a Menores;
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2005)</small>
 
 g) (sic) Jefe de Departamento de Procesos Institucionales y Transparencia de la Información.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+h).Departamento del Centro de Encuentro y Convivencia;
+
+1. Unidad de Trabajo Social; y
+
+2. Unidad de Psicología.
 
 II.- DIRECCION DE ADMINISTRACION Y FINANZAS:
 
@@ -791,15 +801,29 @@ b) Departamento de Atención a la Familia;
 
 2. Unidad Nuestras Raíces;
 
-IV.- DIRECCION DE DESARROLLO COMUNITARIO:
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
 
-a) Departamento de Atención y Mejoramiento Nutricional;
+d) (sic) Departamento del Centro de Atención Integral a la Mujer.
 
-1. Unidad del Programa Raciones Alimentarias;
+1.- Unidad de Trabajo Social; y
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+2.- Unidad de Psicología.
 
-2. Unidad de Desayunos Escolares Modalidad Calientes;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
+IV.- DIRECCIÓN DE PROGRAMAS INSTITUCIONALES Y DESARROLLO COMUNITARIO:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
+a) Departamento de Atención y Mejoras Nutricionales;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+1.- Unidad de Desayunos Fríos;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+2.- Unidad de Desayunos Calientes;
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
 
@@ -821,9 +845,13 @@ b) Departamento de Programas de Desarrollo Comunitario.
 
 1. Unidad de Comunidad Diferente.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
 
-c) Departamento de Atención a las Personas Adultas Mayores;
+c) Departamento de Trabajo Social;
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+2.- (sic) Supervisor de Trabajo Social;
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
 
@@ -845,9 +873,15 @@ e) Departamento de Villas del Abuelo;
 
 3. Unidad de Psicología Villas del Abuelo.
 
-V.- DIRECCION DE PLANEACION, INFORMACION Y DESARROLLO:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
+V.- DIRECCION DE PLANEACION, INFORMACION Y ESTADISTICA:
 
 a) Unidad de Procesos Institucionales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2006)</small>
+
+2 (sic).- Programador Analista.
 
 b) Unidad de Planeación, Estadística y Evaluación;
 
@@ -871,15 +905,23 @@ b) Departamento de Programas, Atención a Personas con Discapacidad, Enseñanza 
 
 c) Departamento de Programas de Salud;
 
-d) Departamento de Rehabilitación e Integración Social;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
+c) (sic) Departamento de Rehabilitación e Integración Social;
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
 
 1. Unidad de Atención Integral Pediátrica;
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
 
-2. Unidad de Tratamiento;
+2.- Unidad de Terapia Física Pediátrica y de Intervención Temprana
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+3.- Unidad de Terapia Física Adultos;
+
+4.-… (sic)
 
 e) Departamento del Centro de Atención Integral al Adulto Mayor.
 
@@ -891,19 +933,35 @@ e) Departamento del Centro de Atención Integral al Adulto Mayor.
 
 f) Unidad de Cómputo;
 
-VII.- COORDINACION DE GESTION SOCIAL GIRAS Y EVENTOS ESPECIALES:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
+VII.- DIRECCION DE ATENCION Y DESARROLLO A PERSONAS ADULTAS MAYORES;
 
 a) Unidad de Atención y Seguimiento a la Demanda;
 
 b) Unidad de Relaciones Públicas y Programas Especiales;
 
-c) Unidad de Giras y Eventos Especiales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE JUNIO DE 2006)</small>
+
+c) Departamento del Centro de Atención Integral al Adulto Mayor;
+
+1.- Unidad Médica.
 
 VIII.- COORDINACIÓN DEL VOLUNTARIADO ESTATAL;
 
-IX.- COORDINACIÓN DE COMUNICACIÓN SOCIAL:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+
+IX.- COORDINACION DEL VOLUNTARIADO ESTATAL:
 
 a) Unidad de Prensa y Difusión.
+
+b)… (sic)
+
+c)… (sic)
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
+
+d) (sic) Unidad de enlace con Sectores Sociales.
 
 ### CAPITULO XI. De la Suplencia de los Servidores Públicos del DIF Estatal
 
@@ -1522,3 +1580,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 29 DE MAYO DE 2006.
 
 UNICO.- Las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2006.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
