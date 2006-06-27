@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-vivienda-360"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1984-02-07"
-last_updated: "1985-02-07"
+last_updated: "2006-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=360&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1983-12-30"
 
 LEY FEDERAL DE VIVIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA, PUBLICADA EN EL D.O.F. DE 27 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
 
@@ -654,3 +656,15 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 7 DE FEBRERO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE JUNIO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Federal de Vivienda, publicada en el Diario Oficial de la Federación el 7 de febrero de 1984, y se derogan todas las disposiciones legales y reglamentarias en materia de vivienda que se opongan al presente Decreto.
+
+TERCERO.- La Comisión Nacional de Vivienda quedará constituida a partir de la entrada en vigor del presente Decreto, asumiendo las funciones e integrándose con la estructura orgánica, recursos financieros, materiales y humanos que actualmente tiene asignados la Comisión Nacional de Fomento a la Vivienda, órgano desconcentrado de la Secretaría de Desarrollo Social.
+
+CUARTO.- El Ejecutivo Federal, deberá expedir el Estatuto Orgánico de la Comisión Nacional de Vivienda, a más tardar a los sesenta días naturales a la entrada en vigor del presente Decreto.
+
+QUINTO.- El personal que, en virtud de este Decreto, pase, de la Comisión Nacional de Fomento a la Vivienda a la Comisión Nacional de Vivienda, de ninguna forma resultará afectado en las prerrogativas y derechos laborales que haya adquirido con base en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
