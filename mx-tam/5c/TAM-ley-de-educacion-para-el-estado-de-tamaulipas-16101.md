@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2006-01-05"
+last_updated: "2006-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -69,11 +69,15 @@ VI.- SEP, la Secretaría de Educación Pública; y
 
 VII.- Ley General, la Ley General de Educación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 3°.
 
-La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
+La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar al hombre y la mujer de manera que tenga sentido de solidaridad social y el enfoque de la equidad de género.
 
-Todo individuo tiene derecho a recibir educación y, por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+
+Todo individuo en un amplio sentido de igualdad y sin distinción de sexo tiene derecho a recibir educación y, por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
 
 En el proceso educativo deberá asegurarse la participación activa de todos los actores en el proceso de enseñanza-aprendizaje, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines de la educación en Tamaulipas.
 
@@ -127,7 +131,9 @@ X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimi
 
 XI.- Fomentar y estimular la educación física y la práctica del deporte, como parte fundamental de la formación integral del individuo;
 
-XII.- Crear una cultura orientada a la preservación de la salud, desarrollando actitudes solidarias, éticas, de respeto a la vida como valor fundamental de la persona, de planificación familiar y ejercicio responsable de la paternidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana, así como fomentar el rechazo a los vicios;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+
+XII.- Crear una cultura orientada a la preservación de la salud, desarrollando actitudes solidarias, éticas, de respeto a la vida como valor fundamental de la persona, de planificación familiar y ejercicio responsable de la paternidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana; desarrollar e implementar las estrategias preventivas para la sensibilización y toma de conciencia a los educandos sobre los perjuicios que ocasionan las substancias nocivas y tóxicas como los narcóticos, estupefacientes, psicotrópicos, alcohol, tabaco, entre otras que determina la Ley General de Salud, por lo que se fomentará el rechazo a los vicios;
 
 XIII.- Concientizar sobre la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del medio ambiente;
 
@@ -207,7 +213,9 @@ XIV.- Revalidar y otorgar equivalencias de estudios de la educación primaria, s
 
 XV.- Impulsar el desarrollo de la enseñanza tecnológica, creando al efecto las nuevas instituciones que requiera el Estado, de acuerdo a las necesidades de la sociedad.
 
-XVI.- Apoyar el desarrollo de la investigación científica y tecnológica de los niveles educativos; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+
+XVI.- Apoyar, gestionar y aportar los medios y recursos necesarios para el desarrollo de la investigación científica y tecnológica de los niveles educativos; y
 
 XVII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen.
 
@@ -283,7 +291,9 @@ X.- Velar para que en los casos de epidemia las autoridades sanitarias y educati
 
 XI.- Otorgar becas a los estudiantes destacados y de escasos recursos;
 
-XII.- Fomentar y difundir las actividades artísticas, culturales y deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+
+XII.- Fomentar y difundir las actividades científicas, cívicas, artísticas, culturales y deportivas en todas sus manifestaciones;
 
 XIII.- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuitos, considerando la opinión de la Secretaría;
 
@@ -357,7 +367,9 @@ III.- Acudir a su plantel escolar con el debido aseo personal;
 
 IV.- Colaborar en las tareas escolares de equipo asignadas; y
 
-V.- Participar en los eventos culturales, artísticos, cívicos y deportivos.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+
+V.- Participar en los eventos científicos, culturales, artísticos, cívicos y deportivos.
 
 ### CAPITULO V. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -423,17 +435,21 @@ El tipo medio superior comprende el nivel de bachillerato, los demás niveles eq
 
 Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la Entidad, con el fin de generar recursos humanos en las diferentes actividades de la industria y del trabajo en general.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 29.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidades diferentes y aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con todo respeto a sus derechos y reconociendo su potencial; con equidad de género e igualdad de oportunidades educativas, sociales y laborales.
 
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
 
 Esta educación incluye orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que integran a alumnos con necesidades especiales de educación.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 30.
 
-En la impartición de la educación para menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre las bases del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+Al impartir educación a los menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su salud e integridad física, psicológica y social, sobre las bases del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, en un marco de equidad de género.
 
 ###### ARTICULO 31.
 
@@ -451,11 +467,15 @@ La educación superior tiene como propósito formar profesionistas, investigador
 
 La educación normal cualesquiera que sean sus modalidades, adoptará los planes y programas de estudios establecidos por la SEP y tendrá por objeto la formación de maestros para satisfacer las necesidades educativas de la Entidad, a fin de que éstos apliquen la política educativa del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 34.
 
-La educación para adultos constituye un sistema estatal y está destinado a individuos de quince años o más, que no hayan cursado o concluido la educación básica y comprende, entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la solidaridad social.
+La educación para adultos constituye un sistema estatal y está destinado a individuos de quince años o más, que no hayan cursado o concluido la educación básica y comprende, entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la solidaridad social; las instituciones del Sistema Educativo Estatal contribuirán a la educación para adultos, facilitando el uso de sus instalaciones.
 
-Tratándose de la educación para adultos, la autoridad educativa federal podrá prestar servicios educativos en concurrencia con el Estado.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+
+Tratándose de la educación para adultos, el Estado podrá prestar servicios educativos en concurrencia con la autoridad educativa federal.
 
 El Estado y los Municipios organizarán servicios permanentes de promoción y asesoría de educación para adultos y darán las facilidades necesarias a sus trabajadores y familiares para estudiar la educación primaria y la secundaria.
 
@@ -717,7 +737,9 @@ II.- Dedicará especial atención a la educación que imparta el Estado, de acue
 
 III.- Dotará a los estudiantes normalistas de una cultura general y pedagógica, con las bases teóricas y prácticas que los capacite para realizar eficazmente el servicio educativo, tanto en el medio rural como en el urbano;
 
-IV.- Infundirá en los estudiantes un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad y el bienestar social;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+
+IV.- Infundirá en los estudiantes un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad, el bienestar social y la igualdad de oportunidades entre los sexos;
 
 V.- Formará en los educandos una sólida conciencia social para la interpretación y aplicación de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
 
@@ -761,11 +783,13 @@ Las autoridades educativas estatal y municipales se reunirán periódicamente co
 
 ### CAPITULO VII. DE LA EQUIDAD EN LA EDUCACION
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 77.
 
-Las autoridades educativas estatal y municipales, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
+Las autoridades educativas estatal y municipales, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad entre hombres y mujeres en oportunidades de acceso, permanencia y promoción en los servicios educativos.
 
-Dichas medidas atenderán preferentemente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja. Asimismo, se atenderá al criterio de equidad en los géneros.
+Dichas medidas atenderán preferentemente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja. El Estado promoverá y defenderá la equidad entre las instituciones educativas públicas, tanto rurales como urbanas, con el propósito de elevar la calidad de la educación y la igualdad de oportunidades para todo Tamaulipeco.
 
 ###### ARTICULO 78.
 
@@ -1208,3 +1232,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE ENERO DE 2006.
 
 UNICO.- El presente decreto estará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
