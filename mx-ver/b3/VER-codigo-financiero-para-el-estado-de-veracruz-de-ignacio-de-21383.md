@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2006-01-02"
+last_updated: "2006-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3467,7 +3467,7 @@ XII. Aprovechamientos diversos.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO , G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 493.
 
@@ -3847,7 +3847,17 @@ e) Los ingresos obtenidos y gastos realizados del ejercicio presupuestal inmedia
 
 f) El saldo de la deuda pública del ejercicio fiscal inmediato anterior y estimación del que se tendrá al fin del que se propone;
 
-g) Los comentarios acerca de las condiciones económicas que se prevén.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2006)</small>
+
+g) Los comentarios acerca de las condiciones económicas que se prevén;
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
+
+h) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio, detallando los montos a ejercer en ejercicios subsecuentes; y
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
+
+i) Los proyectos de inversiones públicas productivas de ejecución multianual iniciados en ejercicios anteriores, detallando los montos a ejercer en el ejercicio.
 
 ###### Artículo 162.
 
@@ -3877,9 +3887,9 @@ Las unidades presupuestales están impedidas para presentar al Congreso modifica
 
 Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las unidades presupuestales podrán solicitar al Gobernador del Estado, por conducto de la Secretaría, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE JUNIO DE 2006)</small>
 
-Al efecto, la Secretaría, con base en la disponibilidad presupuestal existente, elaborará un dictamen sobre la procedencia de la solicitud, la que será sometida para su aprobación al Titular del Poder Ejecutivo.
+Al efecto, la Secretaría, con base en la disponibilidad presupuestal existente, elaborará un dictamen sobre la procedencia de la solicitud, la que será sometida para su aprobación al titular del Poder Ejecutivo, misma que se integrará al informe trimestral correspondiente.
 
 Tratándose del Poder Judicial, del Poder Legislativo y de los Organismos Autónomos, el Ejecutivo Estatal enviará las modificaciones al Congreso, el cual, en su caso, las aprobará.
 
@@ -4337,33 +4347,49 @@ Se exceptúan de las disposiciones del párrafo anterior, el ejercicio, la conta
 
 El Gobernador del Estado podrá autorizar la participación estatal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ABRIL DE 2002)</small>
 
 ###### Artículo 175.
 
 Cuando los fideicomisos públicos tengan por objeto crear entidades paraestatales, éstos sólo se podrán constituir previo decreto del Gobernador o del Congreso. El incremento en el patrimonio de los fideicomisos públicos se hará con autorización del Gobernador del Estado, emitida por conducto de la Secretaría; y cuando así convenga al interés público, la misma propondrá al ejecutivo Estatal la modificación o extinción de éstos.
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE JUNIO DE 2006)</small>
 
-El Ejecutivo del Estado o las entidades podrán afectar en fideicomiso bursátil sus bienes, así como las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios.
+El Ejecutivo del Estado o las entidades podrán afectar en fideicomiso bursátil sus bienes, así como las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
 
 Los fideicomisos bursátiles constituidos específicamente para emitir y colocar títulos en el mercado de valores tendrán la categoría de no paraestatales; su operación interna será ajena a la normatividad aplicable a la administración pública estatal y se sujetarán a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles correspondientes.
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
 
-Los bienes, así como las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios afectos a fideicomisos bursátiles, se considerarán desincorporados temporalmente del patrimonio del Estado o de sus entidades, aplicándose los recursos que produzcan a la conservación de los bienes afectos al fideicomiso, al pago de la emisión y a los demás fines previstos en el fideicomiso que resulten conexos a los anteriores.
+Los recursos que por cualquier concepto los fideicomisos bursátiles que refiere el párrafo anterior entreguen al Ejecutivo, serán vigilados por el Congreso del Estado, conforme a la ley de la materia.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
+
+Los bienes, así como las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal afectos a fideicomisos bursátiles, se considerarán desincorporados temporalmente del patrimonio del Estado o de sus entidades, aplicándose los recursos que produzcan a la conservación de los bienes afectos al fideicomiso, al pago de la emisión y a los demás fines previstos en el fideicomiso que resulten conexos a los anteriores.
 
 > <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 En los fideicomisos bursátiles cuyas emisiones no generen obligaciones directas o contingentes para el Estado o sus entidades, el riesgo de que dichos bienes o cantidades provenientes de impuestos, derechos, productos, aprovechamientos o sus respectivos accesorios y los recursos generados no sean suficientes para el pago de la emisión, correrá exclusivamente a cargo de los tenedores de los títulos colocados en el mercado de valores, por lo que no originarán deuda pública y su emisión y pago se regirán por las normas aplicables de derecho mercantil y bursátil.
 
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
 Las decisiones fundamentales sobre la disposición de los recursos derivados del patrimonio del fideicomiso se regirán por el contrato constitutivo y, en lo no previsto, por las decisiones del Comité Técnico y de los tenedores de los valores emitidos, según corresponda, incluyendo la posibilidad de que puedan fijar o variar las cuotas o contraprestaciones aplicables a los servicios que se presten al público con los bienes o derechos afectados temporalmente en este esquema.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
 
 La constitución o incremento en el patrimonio de los fideicomisos bursátiles requerirá de la aprobación previa del Congreso.
 
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+
 Los recursos que reciba el Estado o sus entidades como consecuencia de la emisión de los títulos, por concepto de excedentes o de aquellos respecto de los cuales tengan facultades para decidir sobre su aplicación o destino por medio del fideicomiso bursátil, estarán sujetos a las disposiciones previstas en este Código y en las demás leyes aplicables.
 
-Los recursos que el Estado o sus entidades capten bajo el esquema de colocación de títulos en el mercado de valores, se destinarán a financiar el gasto público.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
+
+Los recursos que el Estado o sus entidades capten bajo el esquema de colocación de títulos en el mercado de valores, se destinarán a los conceptos que, en su caso, autorice el Congreso del Estado.
+
+> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
 
 Los títulos que se emitan, conforme a lo dispuesto en este artículo, sólo podrán colocarse en bolsas de valores domiciliadas en el país y serán pagaderos en moneda nacional o en unidades de valor referidas a dicha moneda.
 
@@ -4489,7 +4515,9 @@ Con independencia de lo dispuesto en el párrafo anterior, quien ejerza gasto p�
 
 El gasto público se ajustará al monto autorizado para los programas y partidas presupuestales, salvo las partidas que se señalen como de ampliación automática en los presupuestos, para aquellas erogaciones cuyo monto no sea posible prever.
 
-La Secretaría, previo acuerdo del Gobernador del Estado, autorizará las ampliaciones o reducciones de los recursos asignados a las dependencias y entidades comprendidas en el presupuesto.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE JUNIO DE 2006)</small>
+
+La Secretaría, previo acuerdo del Gobernador del Estado, autorizará las ampliaciones o reducciones de los recursos asignados a las dependencias y entidades comprendidas en el presupuesto, misma que se integrará al informe trimestral correspondiente.
 
 Las ampliaciones presupuestales autorizadas a los Poderes Legislativo y Judicial, y a los Organismos Autónomos estarán a lo dispuesto por este Código y a las disposiciones legales aplicables.
 
@@ -4523,7 +4551,9 @@ Las entidades se sujetarán a las disposiciones legales referentes a la aprobaci
 
 Los órganos de gobierno de las entidades reportarán en tiempo y forma a la Secretaría la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Gobierno del Estado.
 
-El Ejecutivo del Estado podrá ordenar las modificaciones presupuestales de las entidades no incorporadas al presupuesto estatal, mismas que informarán a la Secretaría los cambios efectuados.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE JUNIO DE 2006)</small>
+
+El Ejecutivo del Estado podrá ordenar las modificaciones presupuestales de las entidades no incorporadas al presupuesto estatal, mismas que informarán a la Secretaría los cambios efectuados, los que se integrarán al informe trimestral correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -4691,9 +4721,11 @@ La Secretaría determinará los lineamientos a que se sujetarán las dependencia
 
 Los recursos presupuestales que no se hayan destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Secretaría.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
+
 ###### Artículo 195.
 
-Los montos presupuestales no devengados y las economías presupuestales, previa autorización de la Secretaría, podrán aplicarse a programas prioritarios de las unidades presupuestales que los originen, conforme a los lineamientos administrativos que al efecto expida la Secretaría.
+Los montos presupuestales no devengados y las economías presupuestales, previa autorización de la Secretaría, podrán aplicarse a programas prioritarios de las unidades presupuestales que los originen, conforme a los lineamientos administrativos que al efecto expida la Secretaría, los que se integrarán al informe trimestral correspondiente.
 
 ###### Artículo 196.
 
@@ -4731,13 +4763,19 @@ III. El avance programático presupuestal de sus programas, subprogramas y proye
 
 IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
 
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
+
+La autorización de las transferencias que refiere este artículo, se integrará al informe trimestral correspondiente.
+
 ###### Artículo 200.
 
 El Ejecutivo Estatal, por conducto de la Secretaría, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados.
 
 Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en la Entidad y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
 
-Los ajustes y reducciones que efectúe el Ejecutivo Estatal en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE JUNIO DE 2006)</small>
+
+Los ajustes y reducciones que efectúe el Ejecutivo Estatal en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico, los que se integrarán al informe trimestral correspondiente.
 
 ###### Artículo 201.
 
@@ -7491,7 +7529,7 @@ La administración de los panteones, deberá tener vigilancia las 24 horas del d
 
 ###### Artículo 311.
 
-Sólo se concertarán créditos para programas aprobados e incluidos en los presupuestos de las dependencias y entidades, previa autorización del Congreso. Estos créditos se contratarán por conducto de la Secretaría.
+Sólo se concertarán créditos para las inversiones públicas productivas cuya definición y razonabilidad hayan sido sustentadas por el Ejecutivo y aprobadas por el Congreso del Estado, y únicamente para los conceptos y montos autorizados anualmente en el presupuesto estatal. Estos créditos se contratarán por conducto de la Secretaría.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
 
@@ -7517,11 +7555,11 @@ Los municipios y sus entidades estarán sujetos a las disposiciones de la Ley de
 
 La deuda pública de los municipios y sus entidades será aquella que derive de operaciones de endeudamiento que, para cumplir con los objetivos encomendados, celebren estos o sus propias entidades, pudiendo el Gobierno del Estado concurrir como deudor solidario o aval. En este caso, la deuda pública municipal estará regulada por las disposiciones de este Código y demás aplicables.
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### Artículo 316.
 
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, la ejecución de obras, acciones, adquisiciones o manufacturas de bienes y prestación de servicios que puedan producir directa o indirectamente un ingreso para el Estado, incluyendo además, las acciones que se destinen para apoyar el gasto público en materia de educación, salud y asistencia, comunicaciones, desarrollo regional, fomento agropecuario, seguridad pública y combate a la pobreza extrema, que fomenten el crecimiento económico y la equidad social.
+Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales la ejecución de obras que directa o indirectamente produzcan un incremento en los ingresos públicos del Estado.
 
 ###### Artículo 317.
 
@@ -7580,6 +7618,8 @@ En ningún caso se autorizarán financiamientos que generen obligaciones que exc
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA EN MATERIA DE DEUDA PÚBLICA
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 454.
 
@@ -7677,7 +7717,7 @@ El Ejecutivo del Estado podrá solicitar al Congreso la contratación de montos 
 
 ###### Artículo 325.
 
-Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del Sistema Nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
+Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del sistema nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
 
 ###### Artículo 326.
 
@@ -8073,15 +8113,19 @@ Corresponde a la Secretaría de Servicios Públicos y Ecología a través de la 
 
 ###### Artículo 347.
 
-Los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a lo dispuesto en este Código a cargo del Estado o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación en pago o en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
-
-Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente o en el registro de la Secretaría de Hacienda y Crédito Público.
+Los ingresos derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a lo dispuesto en este Código a cargo del Estado o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación en pago o en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
 > <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
 
+Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente o en el registro de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2006)</small>
+
 ###### Artículo 348.
 
-El Estado, por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios como fuente o garantía de pago, o ambas, sobre las obligaciones que contraiga por sí o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, incluyendo los valores emitidos de conformidad con lo establecido en el presente Código.
+El Estado por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal como fuente o garantía de pago, o ambas, sobre las obligaciones que contraigan por sí o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente código, incluyendo los valores emitidos en términos de este Código.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
 
 Tratándose específicamente de los ingresos derivados de la recaudación del impuesto sobre nóminas, su afectación como fuente o garantía de pago, o ambas, sobre obligaciones contraídas en términos de este Código, sólo será procedente cuando los recursos netos derivados de los financiamientos se manejen y destinen en los términos que establece el artículo 105 de este Código.
 
@@ -8320,3 +8364,7 @@ G.O. 2 DE ENERO DE 2006.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE JUNIO DE 2006.
+
+Único.- Este Decreto iniciará su vigencia al siguiente día de su publicación en la Gaceta Oficial del gobierno del estado.
