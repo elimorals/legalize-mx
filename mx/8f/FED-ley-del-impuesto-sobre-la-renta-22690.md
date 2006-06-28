@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2005-12-29"
+last_updated: "2006-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -712,7 +712,9 @@ Tratándose de donativos otorgados a instituciones de enseñanza, los mismos ser
 
 II. Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección II de este Capítulo.
 
-III. Estar amparadas con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien la expida, así como de quien adquirió el bien de que se trate o recibió el servicio y que los pagos cuyo monto exceda de $2,000.00, se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+III. Estar amparadas con documentación que reúna los requisitos de las disposiciones fiscales y que los pagos cuyo monto exceda de $2,000.00 se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2222,6 +2224,12 @@ XIX. Informar a las autoridades fiscales, a través de los medios y formatos ele
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
 
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+XX. Tratándose de contribuyentes obligados a dictaminarse en los términos del artículo 32-A del Código Fiscal de la Federación, deberán dar a conocer en la Asamblea General Ordinaria de Accionistas un reporte en el que se informe sobre el cumplimiento de las obligaciones fiscales a su cargo en el ejercicio fiscal al que corresponda el dictamen.
+
+La obligación prevista en el párrafo anterior, se tendrá por cumplida si en la Asamblea referida se distribuye entre los accionistas y se da lectura al informe sobre la revisión de la situación fiscal a que se refiere la fracción III del artículo 52 del Código Fiscal de La Federación.
+
 ###### Artículo 87.
 
 Los contribuyentes residentes en el país que tengan establecimientos en el extranjero, además de las obligaciones establecidas en otros artículos de esta Ley, tendrán las siguientes:
@@ -2436,7 +2444,9 @@ Cuando la mayoría de los integrantes o accionistas de dichas personas morales s
 
 Los integrantes o accionistas de las personas morales a que se refiere este Título, no considerarán como ingresos los reembolsos que éstas les hagan de las aportaciones que hayan efectuado. Para dichos efectos, se estará a lo dispuesto en el artículo 89 de esta Ley.
 
-En el caso de que las personas morales a que se refiere este Título enajenen bienes distintos de su activo fijo o presten servicios a personas distintas de sus miembros, deberán determinar el impuesto que corresponda a la utilidad por los ingresos derivados de las actividades mencionadas, en los términos del Título II de esta Ley, a la tasa prevista en el artículo 10 de la misma, siempre que dichos ingresos excedan del 5% de los ingresos totales de la persona moral en el ejercicio de que se trate. Lo dispuesto en este párrafo no será aplicable tratándose de personas morales autorizadas para percibir donativos deducibles en los términos de los artículos 31, fracción I y 176, fracción III de esta Ley.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+En el caso de que las personas morales a que se refiere este Título enajenen bienes distintos de su activo fijo o presten servicios a personas distintas de sus miembros o socios, deberán determinar el impuesto que corresponda a la utilidad por los ingresos derivados de las actividades mencionadas, en los términos del Título II de esta Ley, a la tasa prevista en el artículo 10 de la misma, siempre que dichos ingresos excedan del 5% de los ingresos totales de la persona moral en el ejercicio de que se trate. Lo dispuesto en este párrafo no será aplicable tratándose de personas morales autorizadas para percibir donativos deducibles en los términos de los artículos 31, fracción I y 176, fracción III de esta Ley.
 
 ###### Artículo 94.
 
@@ -2748,9 +2758,13 @@ Se considera que dos o más personas son partes relacionadas, cuando una partici
 
 Cuando en este Título se haga referencia a Entidad Federativa, se entenderá incluido al Distrito Federal.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO CUARTO DE LAS DISPOSICIONES TRANSITORIOS DE LA LEY DEL DECRETO POR EL QUE SE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+
 ###### Artículo 107.
 
-Cuando una persona física realice en un año de calendario erogaciones superiores a los ingresos que hubiere declarado en ese mismo año, las autoridades fiscales procederán como sigue:
+Cuando una persona física, aun cuando no esté inscrita en el Registro Federal de Contribuyentes, realice en un año de calendario erogaciones superiores a los ingresos que hubiere declarado en ese mismo año, las autoridades fiscales procederán como sigue:
 
 I. Comprobarán el monto de las erogaciones y la discrepancia con la declaración del contribuyente y darán a conocer a éste el resultado de dicha comprobación.
 
@@ -2760,7 +2774,11 @@ II. El contribuyente, en un plazo de quince días, informará por escrito a las 
 
 III. Si no se formula inconformidad o no se prueba el origen de la discrepancia, ésta se estimará ingreso de los señalados en el Capítulo IX de este Título en el año de que se trate y se formulará la liquidación respectiva.
 
-Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago por la adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO CUARTO DE LAS DISPOSICIONES TRANSITORIOS DE LA LEY DEL DECRETO POR EL QUE SE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en cuentas bancarias o en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago por la adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
 
 Cuando el contribuyente obtenga ingresos de los previstos en este Título y no presente declaración anual estando obligado a ello, se aplicará este precepto como si la hubiera presentado sin ingresos. Tratándose de contribuyentes que no estén obligados a presentar declaración del ejercicio, se considerarán, para los efectos del presente artículo, los ingresos que los retenedores manifiesten haber pagado al contribuyente de que se trate.
 
@@ -3670,15 +3688,15 @@ La parte proporcional a que se refiere el párrafo que antecede, se calculará c
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refieren las fracciones I a V de este artículo, se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+
 ###### Artículo 143.
 
-Los contribuyentes que únicamente obtengan ingresos de los señalados en este Capítulo por el otorgamiento del uso o goce temporal de bienes inmuebles para casa habitación, efectuarán pagos provisionales trimestrales a cuenta del impuesto anual a más tardar el día 17 de los meses de abril, julio, octubre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. Los contribuyentes que obtengan ingresos por el otorgamiento del uso o goce temporal de bienes inmuebles para uso distinto del de casa habitación, efectuarán los pagos provisionales mensualmente, a más tardar el día 17 del mes inmediato posterior al que corresponda el pago.
+Los contribuyentes que obtengan ingresos de los señalados en este Capítulo por el otorgamiento del uso o goce temporal de bienes inmuebles, efectuarán los pagos provisionales mensualmente, a más tardar el día 17 del mes inmediato posterior al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 El pago provisional se determinará aplicando la tarifa que corresponda conforme a lo previsto en el tercer párrafo del artículo 127 de esta Ley, a la diferencia que resulte de disminuir a los ingresos del mes o del trimestre por el que se efectúa el pago, el monto de las deducciones a que se refiere el artículo 142 de la misma, correspondientes al mismo periodo.
-
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Los contribuyentes que únicamente obtengan ingresos de los señalados en este Capítulo, cuyo monto mensual no exceda de diez salarios mínimos generales vigentes en el Distrito Federal elevados al mes, no estarán obligados a efectuar pagos provisionales.
 
@@ -4192,7 +4210,9 @@ II. Que cuando esta Ley permita la deducción de inversiones se proceda en los t
 
 III. Que se resten una sola vez, aun cuando estén relacionadas con la obtención de diversos ingresos.
 
-IV. Estar amparada con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que los pagos cuyo monto exceda de $2,000.00, se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+IV. Estar amparada con documentación que reúna los requisitos que señalen las disposiciones fiscales y que los pagos cuyo monto exceda de $2,000.00, se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
 
 Los pagos que en los términos de esta fracción deban efectuarse mediante cheque nominativo del contribuyente, también podrán realizarse mediante traspasos de cuentas en instituciones de crédito o casas de bolsa del propio contribuyente.
 
@@ -7259,3 +7279,15 @@ D.O.F. 28 DE DICIEMBRE DE 2005.
 D.O.F. 29 DE DICIEMBRE DE 2005.
 
 Único.- El presente Decreto entrará en vigor el 1 de enero de 2006.
+
+D.O.F. 28 DE JUNIO DE 2006.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTÍCULO CUARTO.
+
+Las reformas del artículo 107, entrarán en vigor a partir del 1o de octubre del 2006. Para tales efectos, antes de la entrada en vigor de esta disposición el Servicio de Administración Tributaria, deberá emprender una campaña de difusión y orientación a los contribuyentes para cumplir con sus obligaciones fiscales.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
