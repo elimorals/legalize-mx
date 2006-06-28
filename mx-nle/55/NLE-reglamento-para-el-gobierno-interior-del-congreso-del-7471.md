@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2006-06-07"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -223,9 +223,9 @@ III.- Dar curso legal y dictar los acuerdos que deban recaer sobre los asuntos q
 
 IV.- Determinar el orden de discusión de los asuntos que deban tratarse en cada sesión, dando preferencia a los que considere de interés general, a no ser que la Asamblea, a moción de alguno de los Diputados, determine un orden distinto;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2006)</small>
 
-V.- Dirigir y encausar los debates, concediendo el uso de la palabra a los Diputados, alternadamente en contra y a favor, en el orden en que lo soliciten, de conformidad con lo dispuesto en los artículo 91 fracción IV, 126 y 129 de este Reglamento, contando para tal efecto con las facultades que sean necesarias para hacer respetar las referidas disposiciones legales;
+V.- Dirigir y encauzar los debates, concediendo el uso de la palabra a los Diputados, alternadamente en contra y a favor, en el orden en que lo soliciten, de conformidad con lo dispuesto en los Artículos 91 fracción IV, 99 BIS, 126, 127, párrafos segundo y tercero y 129 de este Reglamento, debiendo indicar al orador cuando haya sido concluído el tiempo reglamentario, a efecto de que concluya con su intervención. En el supuesto de que habiendo sido advertido el orador de que ha concluído el término previsto por este ordenamiento para su participación, y éste se niegue a concluir con su intervención, el Presidente podrá ordenar que se suspenda la transmisión del sonido hasta en tanto el orador no acate lo dispuesto por los mencionados dispositivos legales;
 
 VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido objeto de aquélla;
 
@@ -249,7 +249,7 @@ XIII.- Requerir a las comisiones que presenten dictamen sobre los asuntos que se
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-XIV.- Tomar las providencias conducentes para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes, en los términos del Artículo 63 fracción XXXIV de la Constitución Política del Estado; y
+XIV.- Tomar las providencias conducentes para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes, en los términos del Artículo 63 fracción XXXIV de la Constitución Política del Estado; y (sic)
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -803,9 +803,11 @@ Las Comisiones deberán rendir dictamen sobre los asuntos de su competencia a la
 
 Los proyectos de dictamen deberán ser circulados a los integrantes de la Comisión respectiva con por lo menos veinticuatro horas de anticipación a la celebración de la sesión de trabajo en que se vaya a discutir el asunto, exceptuando aquellos que sean turnados por el Pleno con el carácter de urgentes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
+
 ###### Artículo 49.
 
-Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asamblea deberá presentarse suscrito por la mayoría de los Diputados que integren la comisión correspondiente y ser entregado con una anticipación de veinticuatro horas a los Diputados, salvo los casos en que el asunto haya sido recibido con el carácter de urgente, por acuerdo del Pleno o por un Acuerdo Legislativo. Si algún Diputado disintiera del criterio sustentado, podrá formular su voto particular, que dará a conocer por su lectura íntegra en la misma sesión, inmediatamente después de que sea leído el dictamen de que se trate.
+Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asamblea deberá presentarse suscrito por la mayoría de los Diputados que integren la comisión correspondiente y ser entregado con una anticipación de veinticuatro horas a los Diputados, salvo los casos en que el asunto haya sido recibido con el carácter de urgente, por acuerdo del Pleno, a solicitud del orador o de algún otro Diputado, o por un Acuerdo Legislativo. Si algún Diputado disintiera del criterio sustentado, podrá formular su voto particular, que dará a conocer por su lectura íntegra en la misma sesión, inmediatamente después de que sea leído el dictamen de que se trate.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -1301,7 +1303,9 @@ Toda sesión se sujetará a un orden del día, que se aprobará previamente por 
 
 I.- Aprobación del acta de la sesión anterior;
 
-II.- Iniciativas de ley o decreto a presentarse por los Diputados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2006)</small>
+
+II.- Presentación de iniciativas de ley o decreto por los Diputados, punto en el que se podrá dar lectura a la propuesta cuando su extensión no exceda de 5 páginas. En caso contrario se autorizará a leer únicamente una síntesis de la misma que deberá contener como máximo dicha extensión;
 
 III.- Informe de las Comisiones y de los Comités; y
 
@@ -1311,9 +1315,9 @@ IV.- Asuntos Generales, punto en el que se concederá el uso de la palabra a los
 
 Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por diez minutos. A los oradores que utilicen la Tribuna para hablas a favor o en contra en este punto del orden del día, incluyendo las subsecuentes intervenciones del Diputado que dio inicio al tema, tendrán un tiempo límite de hasta cinco minutos cada uno.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
 
-Para llevar a cabo el orden de discusiones, se atenderá en lo conducente lo dispuesto por los artículos 126 y 129 de este Reglamento.
+Para llevar a cabo el orden de discusiones, se atenderá en lo conducente lo dispuesto por los artículos 99 Bis, 126, 127, párrafos segundo y tercero, y 129 de este Reglamento.
 
 ###### Artículo 92.
 
@@ -1359,11 +1363,11 @@ Las sesiones siempre se llevarán a cabo en el Recinto Oficial del Congreso. Sin
 
 En todas las sesiones públicas los asistentes deberán guardar el orden y en todo caso el Presidente de la Directiva podrá hacer uso de sus facultades para asegurar el correcto desahogo de la Sesión.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
 
 ###### Artículo 99 Bis.
 
-En cualquier estado de una sesión, un diputado podrá pedir la observancia de la Ley Orgánica del Poder Legislativo o de este Reglamento, formulando una moción de orden. Al efecto deberá citar el precepto o preceptos reglamentarios cuya aplicación reclama. Escuchada la moción, el Presidente del Congreso resolverá lo conducente.
+En cualquier estado de una sesión, un Diputado podrá pedir la observancia de la Ley Orgánica del Poder Legislativo o de este Reglamento, formulando una moción de orden en una participación que no deberá exceder de un minuto. Al efecto deberá citar el precepto o preceptos reglamentarios cuya aplicación reclama. Escuchada la moción, el Presidente del Congreso resolverá lo conducente.
 
 ###### Artículo 100.
 
@@ -1427,13 +1431,17 @@ La Asamblea podrá acordar aplazar su discusión y aprobación fijando una fecha
 
 Todo dictamen relativo a una iniciativa de Ley, se conocerá y discutirá en lo general, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. De aprobarse en lo general, en esa misma sesión, se discutirá la iniciativa de Ley en lo particular, separando los artículos que lo ameriten y solamente éstos se someterán a votación de la Asamblea.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2006)</small>
 
 ###### Artículo 112 Bis.
 
-El Pleno del Congreso podrá acordar que los dictámenes que hayan sido programados por la Oficialía Mayor, para su presentación en el pleno y que hayan sido circulados a los integrantes de la Legislatura con al menos veinticuatro horas de anticipación, podrán recibir la dispensa de su lectura o determinarse que únicamente se lean los resolutivos, procediéndose de inmediato a su discusión y aprobación.
+El Pleno del Congreso, a petición del orador o de algún otro Diputado, podrá acordar que los dictámenes que hayan sido programados por la Oficialía Mayor, para su presentación en el Pleno y que hayan sido circulados a los integrantes de la Legislatura con al menos veinticuatro horas de anticipación, podrán recibir la dispensa de su lectura o determinarse que únicamente se lean los resolutivos, procediéndose de inmediato a su discusión y votación.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
 
 Para efecto de lo dispuesto por el presente artículo los Grupos Legislativos, y en su caso los Diputados que no formen parte de un Grupo Legislativo, deberán contar con un reloj fechador en sus respectivas oficinas, a través del cual se llevará el registro oficial de la fecha y hora de circulación de los dictámenes.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
 
 Para que proceda la dispensa el Secretario deberá dar fe de que del registro oficial de la fecha y hora en que se circularon los dictámenes, se desprende que han transcurrido las veinticuatro horas a que hace referencia el párrafo primero del presente artículo.
 
@@ -1545,7 +1553,13 @@ IV.- Cuando pida a cualquiera de los presentes en las instalaciones del Recinto 
 
 V.- Cuando no haya quórum para continuar la sesión.
 
-En el supuesto de la fracción III de este artículo, las interpelaciones que se formulen a los Diputados que estén en uso de la palabra, se realizarán con el propósito de establecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento y deberán ser solicitadas al Presidente del Congreso. Quien solicite la interpelación lo hará desde su lugar y en forma que todos los asistentes puedan escucharle. Quedan absolutamente prohibidas las discusiones en forma de diálogo.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
+
+En el supuesto de la fracción III de este artículo, las interpelaciones que se formulen a los Diputados que estén en uso de la palabra, se realizarán con el propósito de esclarecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento y deberán ser solicitadas al Presidente del Congreso. Quien solicite la interpelación lo hará desde su lugar y en forma que todos los asistentes puedan escucharle, en una intervención que podrá ser de hasta un minuto. En el supuesto de que el orador decida aceptar la interpelación que se le solicite, su respuesta deberá ser otorgada en un término que no podrá exceder de un minuto, y que se contabilizará en el tiempo de cinco o diez minutos que este Reglamento prevé en sus artículos 91 fracción IV, 126 y 129, según corresponda, para las participaciones en Tribuna. Quedan prohibidas las discusiones en forma de diálogo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2006)</small>
+
+En el caso de que los supuestos previstos por las fracciones II y III del presente artículo sean motivados por la solicitud de algún Diputado, el Presidente podrá otorgar a éste una intervención de hasta un minuto, para que funde la solicitud.
 
 ###### Artículo 128.
 
@@ -2066,3 +2080,7 @@ P.O. 7 DE JUNIO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor a los 5 días contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Para efectos de lo dispuesto por el segundo párrafo del Artículo 112 Bis que se adiciona en el presente Decreto, los Coordinadores de los Grupos Legislativos y los Diputados que no formen parte de un Grupo Legislativo, en tanto no cuenten con reloj fechador deberán hacer del conocimiento de la Oficialía Mayor, mediante escrito, el nombre y firma de la o las personas acreditadas para recibir los dictámenes que se circulen.
+
+P.O. 28 DE JUNIO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
