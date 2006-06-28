@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-presupuesto-contabilidad-y-gasto-173"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-11-18"
-last_updated: "2002-06-05"
+last_updated: "2006-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1981-11-13"
 
 REGLAMENTO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de noviembre de 1981.
 
@@ -1814,3 +1816,37 @@ D.O.F. 5 DE JUNIO DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Hacienda y Crédito Público emitirá, a más tardar a los 60 días hábiles contados a partir de la publicación del presente Decreto, las disposiciones a que se refiere el artículo 3o.- Bis.
+
+D.O.F. 28 DE JUNIO DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, publicado en el Diario Oficial de la Federación el día 18 de noviembre de 1981.
+
+TERCERO. Todos aquellos procesos, trámites, autorizaciones y actos iniciados con base en el Reglamento que se abroga deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
+
+CUARTO. Quedan sin efectos todas aquellas disposiciones que contravengan lo dispuesto por el presente Reglamento.
+
+QUINTO. Quedan sin efectos todas aquellas disposiciones del Acuerdo por el que se expide el Manual de Normas Presupuestarias para la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2004 que contravengan o dupliquen lo dispuesto en el presente Reglamento y, en lo que continúe vigente, éste deberá actualizarse por las áreas competentes de la Secretaría mediante la emisión de las disposiciones correspondientes.
+
+SEXTO. El procedimiento establecido en los artículos 108 a 117 para realizar adecuaciones relativas a erogaciones adicionales con cargo a ingresos excedentes, entrará en vigor el 1 de enero de 2007. Las adecuaciones presupuestarias en dicha materia que se lleven a cabo durante el ejercicio fiscal 2006, se continuarán realizando conforme a lo previsto en la Ley de Ingresos de la Federación para el ejercicio fiscal 2006, el Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2006 y de acuerdo con lo previsto en el procedimiento para el dictamen, notificación o constancia de registro, por los ingresos excedentes obtenidos durante el ejercicio por las dependencias y entidades, así como por los Poderes Legislativo y Judicial y los Órganos Constitucionalmente Autónomos, publicado en el Diario Oficial de la Federación el 30 de enero de 2006.
+
+SÉPTIMO. La Secretaría, por conducto de la Unidad de Política y Control Presupuestario, en coordinación con la Dirección General Jurídica de Egresos, determinará en un plazo que no excederá de 45 días hábiles contados a partir de la publicación del presente Reglamento, qué unidades administrativas son coordinadoras de los fideicomisos, mandatos y análogos que conforme al Título Cuarto, Capítulo XVI de este instrumento se encuentren inscritos en el sistema de control y transparencia de fideicomisos que no tengan actualizada su información al respecto. Asimismo, en un plazo de 90 días hábiles, contados a partir de la publicación de este ordenamiento, las dependencias y entidades coordinadoras deberán solicitar, acreditar y realizar las gestiones ante la Secretaría, por conducto de dichas unidades administrativas, en términos de las disposiciones aplicables, a fin de que ésta opere la baja en dicho sistema de aquellos instrumentos registrados que conforme a las disposiciones aplicables ya no deban estarlo.
+
+Los casos que no sean gestionados en los términos y plazos establecidos en este transitorio por las dependencias y entidades coordinadoras o que hayan aportado recursos presupuestarios serán reportados por la Secretaría ante la Función Pública para los efectos conducentes.
+
+OCTAVO. La Secretaría contará con 10 días hábiles a partir de la publicación del presente Reglamento en el Diario Oficial de la Federación, para expedir los formatos oficiales a que se refiere el artículo 301 de este Reglamento.
+
+La Comisión Nacional Bancaria y de Valores contará con 90 días hábiles a partir de que se expidan los formatos oficiales a que se refiere el artículo 301 del presente Reglamento, para habilitarlos en el sistema interinstitucional de transferencia de información, para los efectos indicados en el mismo artículo.
+
+El titular o los titulares de las cuentas de depósito o inversión contarán con un plazo de 30 días naturales a partir de la publicación del presente reglamento en el Diario Oficial de la Federación, para cumplir con el artículo 301, fracciones I y III de este Reglamento.
+
+NOVENO. Conforme a las características de coordinación sectorial que representa el Ramo Administrativo 06, la Secretaría emitirá los lineamientos que permitan la coordinación sectorial de los órganos administrativos desconcentrados y entidades agrupadas en ésta, así como de las entidades no coordinadas.
+
+DÉCIMO. Las disposiciones administrativas emitidas por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, en las materias ya previstas en el presente Reglamento deberán ser actualizadas por éstas.
+
+DÉCIMO PRIMERO. La Secretaría, en los términos de los artículos transitorios Quinto, Séptimo y Octavo de la Ley, informará a los Poderes Legislativo y Judicial y a los entes autónomos, las características de los sistemas y registros a que se refieren los artículos 13, 14, 70, 94, 95 y 98 de la Ley y realizará los ajustes que acuerde con aquéllos mediante convenios o las comunicaciones correspondientes, con el objeto de facilitar la coordinación para efectos exclusivamente de consolidación de la información establecida en los referidos artículos.
+
+DÉCIMO SEGUNDO. Las solicitudes relativas a movimientos por creación, modificación, cancelación o cualquier afectación a la estructura ocupacional respecto del personal operativo, de categoría y de confianza, distinto de los de mando y de enlaces, se atenderán y registrarán ante la Secretaría hasta en tanto la Secretaría y la Función Pública expidan las disposiciones generales a que se refiere el artículo 104 de este Reglamento.
+
+DÉCIMO TERCERO. Los sistemas de control presupuestario que administra la Secretaría y los correspondientes a las dependencias y entidades deberán considerar la infraestructura para la aplicación integral de los componentes de las clasificaciones presupuestarias a fin de que se incluya la categoría entidad federativa de la estructura programática en los términos del artículo 27 de la Ley, a más tardar en el ejercicio fiscal de 2008.
