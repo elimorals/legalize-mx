@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2005-12-23"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2006.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -624,9 +624,9 @@ La obligación a que se refiere esta fracción no será aplicable a los producto
 
 XI. Los importadores o exportadores de los bienes a que se refieren los incisos A), B), C), G) y H), de la fracción I del artículo 2o. de esta Ley, deberán estar inscritos en el padrón de importadores y exportadores sectorial, según sea el caso, a cargo de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XII. Los fabricantes, productores y envasadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán reportar en el mes de enero de cada año, al Servicio de Administración Tributaria, las características de los equipos que utilizarán para la producción, destilación o envasamiento de dichos bienes.
+XII. Los fabricantes, productores y envasadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán reportar en el mes de enero de cada año, al Servicio de Administración Tributaria, las características de los equipos que utilizarán para la producción, destilación, envasamiento y almacenaje de dichos bienes, así como de los contenedores para el almacenaje de dichos bienes cuando no se trate de equipo.
 
 Asimismo, deberán reportar a dicha dependencia la fecha de inicio del proceso de producción, destilación o envasamiento, con quince días de anticipación al mismo, acompañando la información sobre las existencias de producto en ese momento. Igualmente, deberán reportar la fecha en que finalice el proceso, dentro de los quince días siguientes a la conclusión del mismo, acompañando la información sobre el volumen fabricado, producido o envasado.
 
@@ -640,13 +640,13 @@ XIII. Los contribuyentes de los bienes a que se refieren los incisos A), G) y H)
 
 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere esta fracción en los meses de enero y julio de cada año.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XIV. Los fabricantes, productores, envasadores e importadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público. Asimismo, los fabricantes, productores, envasadores e importadores, de bebidas alcohólicas, deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Reglamento de esta Ley.
+XIV. Los fabricantes, productores, envasadores e importadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público. Asimismo, los fabricantes, productores, envasadores e importadores, de bebidas alcohólicas, deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Reglamento de esta Ley y disposiciones de carácter general que para tal efecto se emitan.
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XV. Los productores, envasadores e importadores, de bebidas alcohólicas, estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, generados, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
+XV. Los productores, envasadores e importadores de bebidas alcohólicas estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
 
 XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la fracción I del artículo 2o. de esta Ley, estarán obligados a llevar un control volumétrico de producción y presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe que contenga el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se informa.
 
@@ -778,11 +778,11 @@ Para determinar el valor en que se enajenaron los bienes, se considerará que é
 
 Los porcientos a que se refieren las fracciones anteriores, únicamente son aplicables a los fabricantes, productores o envasadores de los bienes a que se refiere este artículo, según sea el caso.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 26.
 
-Cuando el contribuyente no se encuentre al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con lo establecido en el Código Fiscal de la Federación, las demás leyes tributarias y en las reglas de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público, las autoridades fiscales podrá (sic) no proporcionar los marbetes o precintos a que se refiere esta Ley.
+Cuando el contribuyente sea omiso en presentar por más de tres veces en un mismo ejercicio las declaraciones a que se refiere el artículo 19 de esta Ley, tenga adeudos fiscales a su cargo, salvo que los contribuyentes celebren convenio con las autoridades fiscales para cubrir a plazos, ya sea mediante pago diferido o en parcialidades o los hayan impugnado mediante cualquier medio de defensa, no se compruebe el uso de los marbetes o precintos entregados previamente, o se compruebe el uso incorrecto de los mismos, así como cuando no exista relación entre el volumen producido, envasado o comercializado y la solicitud respectiva, las autoridades fiscales podrán no proporcionar los marbetes o precintos a que se refiere esta Ley.
 
 > <small>(REFORMADO [N. DE E. ANTES TITULO III], D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -2181,6 +2181,10 @@ Se deroga el ARTÍCULO TERCERO del Decreto por el que se reforman y adicionan di
 DISPOSICION TRANSITORIA DEL DECRETO QUE MODIFICA LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
+
+D.O.F. 28 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## Transitorios
 
