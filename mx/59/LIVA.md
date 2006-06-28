@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2006-06-22"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2006.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -1164,9 +1164,9 @@ IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta 
 
 Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-V.- Expedir constancias por las retenciones del impuesto que se efectúen en los casos previstos en el artículo 1o.-A, al momento de recibir el comprobante a que se refiere la fracción III de este artículo, y presentar ante las oficinas autorizadas en el mes de febrero del año de calendario siguiente, declaración en la que proporcionen la información sobre las personas a las que les hubieren retenido el impuesto establecido en esta Ley durante el año de calendario inmediato anterior al mes en el que se debe presentar la declaración, en los formatos que para tal efecto autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+V.- Expedir constancias por las retenciones del impuesto que se efectúen en los casos previstos en el artículo 1-A, al momento de recibir el comprobante a que se refiere la fracción III de este artículo, y proporcionar mensualmente a las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración Tributaria, la información sobre las personas a las que les hubieren retenido el impuesto establecido en esta Ley, dicha información se presentará, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1179,6 +1179,10 @@ VI.- Las personas que efectúen de manera regular las retenciones a que se refie
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 VII.- Proporcionar la información que del impuesto al valor agregado se les solicite en las declaraciones del impuesto sobre la renta.
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+VIII.- Proporcionar mensualmente a las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración Tributaria, la información correspondiente sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, desglosando el valor de los actos o actividades por tasa a la cual trasladó o le fue trasladado el impuesto al valor agregado, incluyendo actividades por las que el contribuyente no está obligado al pago, dicha información se presentará, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2061,6 +2065,18 @@ TERCERO.- A más tardar a los 90 días siguientes a que el Secretario de Haciend
 CUARTO.- La garantía del Gobierno Federal respecto de las obligaciones de la Sociedad a que se refieren los párrafos tercero y cuarto del artículo segundo transitorio de la Ley Orgánica de Sociedad Hipotecaria Federal, en los términos reformados y adicionados conforme al "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 24 de junio de 2002 y aclarado mediante fe de erratas publicada en ese mismo medio el 8 de julio de 2002, será aplicable a aquellas obligaciones que asuma la Sociedad al amparo de las fracciones I y II del artículo 24 Ter que, por virtud del presente Decreto, se adiciona a la Ley Orgánica de Sociedad Hipotecaria Federal.
 
 QUINTO. Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
+
+D.O.F. 28 DE JUNIO DE 2006.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+###### ARTÍCULO SEXTO.
+
+Los contribuyentes proporcionarán la información mensual a que se refiere el artículo 32, fracciones V y VIII de la Ley del Impuesto al Valor Agregado a partir del día 17 de octubre de 2006.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
