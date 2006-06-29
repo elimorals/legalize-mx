@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "1998-12-31"
+last_updated: "2006-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -177,9 +177,13 @@ XIV.- En general, las demás que señalen las leyes y reglamentos aplicables.
 
 Los titulares de las Dependencias, las Entidades, los Órganos de Gobierno Estatal y Municipal, deberán procurar que en la adopción e instrumentación de las acciones que deban llevarse a cabo se promueva la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 10.
 
-Las controversias que se susciten con motivo de la aplicación de esta Ley o de los contratos celebrados con base en ella, se someterán a la jurisdicción de los Tribunales Estatales, sin perjuicio en la esfera administrativa, de las inconformidades y recursos que presenten los particulares, con relación a las diversas etapas del procedimiento de licitación y los contratos antes referidos, en los términos del Título Sexto de esta Ley.
+Las controversias que se susciten con motivo de la aplicación de esta Ley se someterán a la jurisdicción de los tribunales estatales, sin perjuicio en la esfera administrativa de las inconformidades y recursos que presenten los particulares con relación a las diversas, etapas del proceso de licitación, en los términos del Titulo VI de esta Ley.
+
+Las controversias que se susciten con motivo de los contratos celebrados con base en esta Ley, se someterán a la jurisdicción de los tribunales estatales o al arbitraje, según se estipule en dichos contratos.
 
 ###### ARTÍCULO 11.
 
@@ -271,6 +275,10 @@ En caso de que los proveedores incumplan con las obligaciones derivadas de los c
 
 La situación descrita en el párrafo anterior deberá hacerse del inmediato conocimiento de la Contraloría, por escrito, por conducto de los titulares de los organismos contratantes para su respectivo seguimiento y evaluación.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2006)</small>
+
+Lo dispuesto en este artículo no aplica a los contratos celebrados conforme a la Ley de Proyectos de Inversión y Prestación de Servicios.
+
 ###### ARTÍCULO 24.
 
 Los actos, convenios, pedidos, contratos y negocios jurídicos relativos a los regulados por esta Ley, que celebren las Dependencias, Entidades y Ayuntamientos en contravención a lo dispuesto por ella y las disposiciones que de ésta se deriven, serán nulos de pleno derecho.
@@ -349,6 +357,10 @@ Todo interesado que satisfaga los requisitos de la convocatoria, así como las b
 
 El plazo para la presentación y apertura de proposiciones no será menor de siete ni mayor de quince días naturales, contados a partir de la fecha de publicación de la convocatoria.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2006)</small>
+
+Para el caso de Proyectos de Inversión y Prestación de Servicios, el plazo para la presentación y apertura de proposiciones no será menor de siete días naturales, y el plazo mayor se establecerá en la convocatoria respectiva.
+
 ###### ARTÍCULO 30.
 
 En las licitaciones la entrega de proposiciones se hará por escrito, mediante dos sobres cerrados que contendrán por separado, la propuesta técnica y la propuesta económica, incluyendo en esta última la garantía de seriedad de las ofertas.
@@ -359,11 +371,15 @@ A los actos de apertura de proposiciones podrá invitarse a funcionarios o repre
 
 Cuando por causas de fuerza mayor no imputables a la Contraloría, ésta no pudiera estar presente en el acto, la licitante deberá turnar la documentación correspondiente al órgano de control a la mayor brevedad posible para su análisis y seguimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 32.
 
-Las personas físicas o morales que participen en las licitaciones que preveé la presente Ley, deberán garantizar, mediante la fianza correspondiente:
+Las personas físicas o morales que participen en las licitaciones que prevé la presente Ley, deberán garantizar, mediante la garantía que se establezca en la convocatoria:
 
-I.- La seriedad de las proposiciones en los procedimientos de adjudicación, cuyo monto de garantía será un mínimo de 5% del valor total de la propuesta económica;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2006)</small>
+
+I.- La seriedad de las proposiciones en los procedimientos de adjudicación, cuyo monto de garantía será el que se fije en la convocatoria;
 
 II.- Los anticipos que, en su caso, reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo; y
 
@@ -389,7 +405,11 @@ b) En la Segunda etapa:
 
 I.- Se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa o en el análisis detallado de las mismas, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos;
 
-II.- En caso de que el fallo de la licitación no se realice en la misma fecha, los licitantes y servidores públicos presentes además de la convocante firmarán las proposiciones económicas aceptadas. La convocante señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los treinta días naturales contados a partir de la fecha de inicio de la primera etapa y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales contados a partir del plazo establecido originalmente;
+II.- En caso de que el fallo de la licitación no se realice en la misma fecha, los licitantes y servidores públicos presentes además de la convocante firmarán las proposiciones económicas aceptadas. La convocante señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los treinta días naturales contados a partir de la fecha de inicio de la primera etapa y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales contados a partir del plazo establecido originalmente.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2006)</small>
+
+En tratándose de Proyectos de Inversión y Prestación de Servicios, el plazo de la prórroga para dar a conocer el fallo de la licitación será el que se establezca en la convocatoria respectiva;
 
 III.- En junta pública se dará a conocer el fallo de licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, la convocante podrá optar en comunicar por escrito el fallo de la licitación, a cada uno de los licitantes, y deberá enviar copia del fallo a la Contraloría;
 
@@ -413,11 +433,11 @@ La convocante procederá a declarar desierta una licitación cuando las posturas
 
 La convocante se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
 
-I.- Aquellas que no cuenten con su registro en el Padrón de Proveedores;
+I.- (DEROGADA, P.O. 29 DE JUNIO DE 2006)
 
 II.- En las que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas en que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-III.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte.
+III.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte;
 
 IV.- Aquellos proveedores que, por causas imputables a ellos mismos, la convocante les hubiere rescindido administrativamente un contrato, en más de una ocasión, dentro del lapso de dos años, calendario contado a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia convocante durante dos años, calendario contado a partir de la fecha de rescisión del segundo contrato;
 
@@ -427,7 +447,9 @@ VI.- Las que no hubieren cumplido sus obligaciones contractuales respecto de las
 
 VII.- Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe, en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia, o bien, la presentación o desahogo de una inconformidad;
 
-VIII.- LAs (sic) que, en virtud de la información con que cuente la Contraloría en el Padrón de Proveedores de las Dependencias y Entidades de la Administración Pública Estatal y Municipal, hayan celebrado contratos en contravención con esta Ley;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2006)</small>
+
+VIII.- Las que en virtud de la información con que cuente el órgano de control interno, hayan celebrado contratos en contravención a esta Ley;
 
 IX.- Aquellas a las que se les declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
 
@@ -461,13 +483,13 @@ Los derechos y obligaciones que se deriven de los contratos de adquisiciones, ar
 
 La garantía del anticipo o la del cumplimiento del contrato correspondiente deberá entregarse en un plazo que no excederá de diez días hábiles, contados a partir de su firma.
 
-Si el proveedor no firmare el contrato perderá en favor de la convocante la garantía de seriedad que hubiere otorgado, y la dependencia, entidad o ayuntamiento podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja de conformidad con lo asentado en el dictamen a que se refiere el artículo 35 párrafo IV de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 43.
 
 En caso de que la convocante no firme el contrato respectivo dentro del término señalado en el artículo 38, deberá reintegrar al proveedor la garantía de seriedad que otorgó a favor de la convocante.
 
-El proveedor a quien se hubiere adjudicado el contrato no estará obligado a suministrar los bienes o prestar el servicio, si la convocante, por causas no imputables al mismo proveedor, no firmare el contrato dentro del plazo establecido en esta Ley, en cuyo caso se reembolsarán los gastos no recuperables que estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 44.
 
@@ -475,7 +497,9 @@ En las adquisiciones, arrendamientos y servicios, deberá pactarse preferentemen
 
 Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
-En casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula que determine previamente la convocante en las bases de la licitación. En ningún caso procederán ajustes que hubieren sido considerados en las propias bases de la licitación.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2006)</small>
+
+En casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula que determine previamente la convocante en las bases de la licitación. En ningún caso procederán ajustes que no hubieren sido considerados en las propias bases de licitación.
 
 ###### ARTÍCULO 45.
 
@@ -505,7 +529,7 @@ Las dependencias, entidades o ayuntamientos podrán pactar penas convencionales 
 
 Tratándose de incumplimiento del proveedor por la no entrega de los bienes o de la prestación del servicio, éste deberá reintegrar los anticipos más los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos de la Federación en los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días calendario desde la fecha de su entrega, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia, entidad o ayuntamiento.
 
-Los proveedores quedarán obligados ante la dependencia, entidad o ayuntamiento a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en el código civil para el Estado de Durango.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
 
 Los proveedores cubrirán las cuotas compensatorias que conforme a la Ley de la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier otra modificación a contrato.
 
@@ -533,31 +557,21 @@ V.- Coadyuvar al cumplimiento de esta Ley y las demás disposiciones aplicables 
 
 El comité será un órgano de carácter técnico interinstitucional, de naturaleza técnica, consultiva y de opinión.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2006)</small>
+
 ### CAPÍTULO SEXTO. DE LOS PROVEEDORES Y SU REGISTRO
 
 ###### ARTÍCULO 52.
 
-La Contraloría realizará y mantendrá actualizando el padrón de proveedores de las Dependencias y Entidades de la Administración Pública Estatal y Municipal.
+(DEROGADO, P.O. 29 DE JUNIO DE 2006)
 
 ###### ARTÍCULO 53.
 
-Los interesados a formar parte del Padrón de Proveedores, deberán cumplir cuando menos, los siguientes requisitos:
-
-I.- Presentar solicitud ante la Contraloría en el formato previamente establecido y aprobado por ésta;
-
-II.- Cuando dicho trámite se lleve a cabo por persona física deberá acompañarse a éste, copia certificada de su cédula de identificación fiscal;
-
-III.- Tratándose de personas morales, su representante legal o persona que lo represente deberá anexar a su solicitud copia debidamente notariada, además de su cédula de identificación fiscal, del acta constitutiva y sus respectivas reformas, en el caso de organismos descentralizados la Ley o Decreto que los creo, y por último, con respecto a fideicomisos, el contrato correspondiente;
-
-IV.- Además mediante la exhibición del documento original, acreditar que es comerciante o productor, legalmente establecido, el que previo cotejo con la copia respectiva, se reintegrará al solicitante;
-
-V.- Demostrar su solvencia económica y capacidad para la producción o suministro de mercancías, materias primas y demás bienes muebles, y en su caso, para el arrendamiento de éstos o la prestación de servicios; y
-
-VI.- Pagar previamente los derechos establecidos.
+(DEROGADO, P.O. 29 DE JUNIO DE 2006)
 
 ###### ARTÍCULO 54.
 
-Los Proveedores a que se refiere el artículo anterior que incumplan con cualquier requisito, no serán registrados en el padrón correspondiente, así mismo que no den cumplimiento a los contratos establecidos con Dependencias, Entidades, Ayuntamientos o cualquier otro organismo al que se refiere esta Ley, serán dados de baja, cuando las causas sean imputables a su persona, los cuales estarán imposibilitados a formar parte de éste hasta transcurrido el término de 2 años, contados a partir del acto realizado.
+(DEROGADO, P.O. 29 DE JUNIO DE 2006)
 
 ### CAPÍTULO SÉPTIMO. DE LOS ALMACENES
 
@@ -601,11 +615,13 @@ IV.- Tratándose de adquisiciones y arrendamientos, el origen de los bienes.
 
 En estos casos, el Titular de la Dependencia, Entidad o Ayuntamiento, a más tardar el último día hábil de cada mes, enviará un informe a la Contraloría, y en su caso, al Órgano de Gobierno que corresponda, que se referirá a las operaciones autorizadas en el mes calendario inmediato, acompañando copia del dictamen aludido en el segundo párrafo de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 58.
 
-Las Dependencias, Entidades o Ayuntamientos bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, a través de un procedimiento de invitación restringida, cuando:
+Las Dependencias, Entidades o Ayuntamientos, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios a través de un procedimiento de invitación restringida o de adjudicación directa cuando:
 
-I.- El Contrato solo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos.
+I.- El Contrato solo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
 II.- Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna Zona del Estado, o Municipio como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos de fuerza mayor, o existan circunstancias que puedan provocar pérdidas o costos adicionales;
 
@@ -832,3 +848,15 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los quince días del mes de Diciembre del año de mil novecientos noventa y ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JESUS FLORES LOPEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
