@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2006-05-19"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6594,6 +6594,10 @@ La posesión adquirida por medio de un delito, se tendrá en cuenta para la pres
 ###### ARTICULO 1143.
 
 El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2006)</small>
+
+Admitida la demanda, el Juez ante quien se promueva el juicio pedirá informes al Catastro Municipal que corresponda, a la Secretaría de la Reforma Agraria, al Registro Agrario Nacional, a la Comisión Nacional del Agua y al Registro Público de la Propiedad Federal, para que en un plazo de nueve días informen acerca de los antecedentes que posea el inmueble a prescribir. Contesten o no, el juicio continuará.
 
 ###### ARTICULO 1144.
 
@@ -15313,6 +15317,8 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 ### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 2877.
 
 La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir o por el notario que haya autorizado la escritura de que se trate.
@@ -15327,9 +15333,11 @@ II.- Las sentencias y providencias judiciales certificadas legalmente;
 
 III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal o el Juez de Paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 2879.
 
-El interesado presentará el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un plano o croquis de esas fincas.
+El interesado presentará el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas, urbanas y suburbanas, levantamiento topográfico o deslinde, debidamente autorizados por el Catastro Municipal competente en la jurisdicción territorial donde se ubique el inmueble.
 
 ###### ARTICULO 2880.
 
@@ -15345,7 +15353,9 @@ Transcurrido tres años sin que se comunique al registrador la calificación que
 
 Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare el título, o la referencia al registro anterior en donde consten estos datos; asimismo constará la mención de haberse agregado el plano o croquis al legajo respectivo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2006)</small>
+
+I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare el título, o la referencia al registro anterior en donde consten estos datos; así mismo constará la mención de haberse agregado croquis, levantamiento topográfico o deslinde debidamente autorizados y certificados por el Catastro Municipal competente en la jurisdicción territorial donde se ubique el inmueble;
 
 II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
 
@@ -15407,7 +15417,7 @@ La Ley Reglamentaria establecerá los derechos y obligaciones de los registrador
 
 ###### ARTICULO 2890.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1143 por no estar inscrita en el Registro la Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
+El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en caso de deducir la acción que le concede el artículo 1143 por no estar inscrita en el Registro la (sic) Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos, además levantamiento topográfico o deslinde debidamente autorizado y certificado por el Catastro Municipal de la jurisdicción territorial donde se ubique el inmueble.
 
 La información se recibirá con citación del Ministerio Público, del respectivo registrador de la propiedad y de los colindantes.
 
@@ -15443,9 +15453,11 @@ La interposición de su demanda suspenderá el curso del expediente de informaci
 
 Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará este sin efecto, haciéndose en su caso la cancelación que proceda.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 2894.
 
-Transcurrido el plazo fijado en la parte final del artículo 2891, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro de inscripción de dominio correspondiente.
+Transcurrido el plazo fijado en la parte final del artículo 2891, sin que el Registro Público, y en el Catastro Municipal correspondiente, aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro de inscripción de dominio correspondiente.
 
 ###### ARTICULO 2895.
 
@@ -15822,3 +15834,7 @@ P.O. 25 DE NOVIEMBRE DE 2005.
 P.O. 19 DE MAYO DE 2006.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE JUNIO DE 2006.
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
