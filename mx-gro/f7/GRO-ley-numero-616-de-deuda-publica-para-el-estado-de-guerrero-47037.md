@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-616-de-deuda-publica-para-el-estado-de-guerrero-4703
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-11"
-last_updated: "2005-11-11"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de noviembre de 2005.
 
@@ -489,9 +489,11 @@ Financiamientos que excedan del período del Poder Ejecutivo y de los Ayuntamien
 
 Análisis del financiamiento.- Las Entidades Públicas que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado financiero, para los conceptos a que se destinarán los empréstitos o créditos y optar por la que ofrezca las condiciones jurídicas, técnicas y financieras, más favorables al interés público.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 30.
 
-Operaciones financieras de cobertura.- Las Entidades Públicas podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos con base en esta Ley. En los casos en que el plazo de las operaciones financieras de cobertura exceda de tres años su contratación, requerirá de la previa autorización del Congreso del Estado, de conformidad con lo establecido en esta Ley.
+Operaciones financieras de cobertura.- Las Entidades Públicas podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos con base en esta Ley. En los casos en que el plazo de las operaciones financieras de cobertura exceda de doce años su contratación, requerirá de la previa autorización del Congreso del Estado, de conformidad con lo establecido en esta Ley.
 
 ###### ARTICULO 31.
 
@@ -541,15 +543,23 @@ Afectación en pago de participaciones federales.- El Estado o los Municipios, e
 
 Las participaciones federales que correspondan al Estado o a los Municipios de Guerrero son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por el Estado de Guerrero o sus Municipios, con autorización del Congreso del Estado e inscritas en los registros de deuda pública cuando correspondan.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 40 Bis.
+
+Obligaciones financieras. El Estado o los Municipios podrán utilizar como fuente de pago de su deuda pública, los ingresos o derechos que reciban por concepto de Ramos, Programas, Ingresos o Aportaciones Federales y que conforme a la legislación aplicable, estén destinados al pago de sus obligaciones financieras.
+
 ###### ARTICULO 41.
 
 Afectación en garantía de participaciones federales.- El Estado, los Municipios, así como las Entidades Públicas, a quienes se les aplique la presente Ley, en la contratación de los empréstitos o créditos o en la emisión de valores, podrán utilizar como garantía de los mismos, un porcentaje de los derechos o ingresos de las participaciones que en ingresos federales les correspondan, de conformidad con la autorización de los citados empréstitos o créditos y su mecanismo de pago o garantías respectivas.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 42.
 
-Ingresos Propios como fuente de pago o garantía.- El Estado, los Municipios y las Entidades de la Administración Pública Paraestatal y Paramunicipal, también podrán utilizar como fuente de pago directa o alterna, así como otorgar en garantía de los financiamientos que reciban, los derechos o ingresos propios que reciban por concepto de contribuciones, derechos, productos o aprovechamientos, o inclusive de los ingresos o aportaciones federales o locales, que por cualquier otro rubro perciban, así como los derechos de .cobro de los ingresos antes referidos, y estén destinados a cubrir los citados financiamientos o, en su caso, los bienes del dominio privado que les correspondan.
+Ingresos propios como fuente de pago o garantía.- El Estado, los Municipios y las Entidades de la Administración Pública Paraestatal y Paramunicipal, también podrán utilizar como fuente de pago directa o alterna, así como otorgar en garantía de los financiamientos que reciban, los derechos o ingresos propios por concepto de contribuciones, derechos, productos, aprovechamientos, o aquellos que por cualquier rubro perciban, así como los derechos de cobro de los ingresos antes referidos o, en su caso, los bienes del dominio privado que les correspondan.
 
-Los ingresos propios, señalados en este artículo, son inembargables, salvo por lo que determine el Congreso del Estado.
+Los ingresos propios, tales como contribuciones, derechos, productos o aprovechamientos, o aquellos que por cualquier rubro perciban las entidades señaladas en el párrafo anterior, son inembargables.
 
 ###### ARTICULO 43.
 
@@ -742,3 +752,15 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACION.
 C.P. CARLOS ALVAREZ REYES.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DE 2006.
+
+PRIMERO.- Se ratifican las autorizaciones contenidas en el Decreto 617, por medio del cual se autorizó al Ejecutivo del Estado, el llevar a cabo el refinanciamiento o reestructuración de la Deuda Pública del Estado de Guerrero, incluyendo la celebración de una operación financiera de cobertura hasta por un plazo de cinco años.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- En su oportunidad remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales conducentes.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
