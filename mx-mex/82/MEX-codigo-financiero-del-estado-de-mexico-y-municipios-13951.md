@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2005-12-30"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JUNIO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1595,35 +1595,43 @@ CONCEPTO
 
 I. Por la expedición de copias certificadas
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Por la primera hoja $41.
+A). Por la primera hoja $42.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 B). Por cada hoja subsecuente $18.
 
 II. Copias simples $17.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 A). Por la primera hoja $10.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Por cada hoja subsecuente 50¢.
+B). Por cada hoja subsecuente 0.51¢.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Expedición de copias certificadas de testimonios de viviendas de interés social, social progresiva y popular $4.
+III. Expedición de copias certificadas de testimonios
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de viviendas de interés social, social progresiva y
 
-IV. Por la expedición de información en medios magnéticos. $8.
+popular $4.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por la expedición de información en disco compacto. $15.
+IV. Por la expedición de información en medios
+
+magnéticos. $8.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+V. Por la expedición de información en disco
+
+compacto. $15.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -1647,55 +1655,47 @@ A). Por cada legalización de firmas de servidores públicos del Poder Ejecutivo
 
 1. De Educación:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Programas de estudio. $54.
+a). Programas de estudio. $55.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Boletas de calificaciones. $54.
+b). Boletas de Calificaciones. $55.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Certificados de estudio. $54.
+c). Certificados de estudio. $55
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Títulos profesionales. $161.
+d). Títulos profesionales. $164.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Del Registro Civil. $54.
+2. Del Registro Civil: $55.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. De otros servidores públicos
+3. De otros servidores públicos del Poder
 
-del Poder Ejecutivo $54.
+Ejecutivo $55.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Por cada legalización de firmas
+B). Por cada legalización de firmas de servidores
 
-de servidores públicos del Poder
+públicos del Poder Judicial. $55.
 
-Judicial: $54.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+C). Por cada legalización de firmas de
 
-C). Por cada legalización de firmas
+servidores públicos municipales. $55.
 
-de servidores públicos municipales. $54.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
-
-II. Apostillamiento de documentos
-
-públicos para presentarse en países
-
-firmantes de la Convención de La
-
-Haya. $161.
+II. Apostillamiento de documentos públicos para presentarse en países firmantes de la convención de La Haya. $164.
 
 III. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
@@ -1703,13 +1703,15 @@ III. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
 IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Folios de Protocolo ordinario, por volumen $161.
+A). Folios de Protocolo ordinario,
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+por volumen $164.
 
-B). Folios de libros de cotejos, por volumen $269.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+B). Folios de libros de cotejos, por volumen $274.
 
 SUBSECCION SEGUNDA
 
@@ -1745,43 +1747,49 @@ TARIFA
 
 CONCEPTO
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-I. Por el estudio y evaluación de los servicios privados
+I. Por el estudio y evaluación de los servicios
 
-de seguridad, por cada elemento de seguridad con
+privados de seguridad, por cada elemento
 
-que cuente la empresa prestadora del servicio. $709.
+de seguridad con que cuente la empresa
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+prestadora del servicio. $723.
 
-II. Por cada evaluación posterior que realice la
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-autoridad competente en los términos del permiso
+II. Por cada evaluación posterior que realice
 
-respectivo. $709.
+la autoridad competente en los términos del
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+permiso respectivo. $723.
 
-III. Por la supervisión del cumplimiento de las medidas
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-preventivas para la seguridad y protección de las
+III. Por la supervisión del cumplimiento de las
 
-personas en los inmuebles, en los que se realicen
+medidas preventivas para la seguridad y
 
-actividades con gran afluencia de personas, tránsito
+protección de las personas en los inmuebles,
 
-de vehículos o manejo de efectivo y valores. $1,080.
+en los que se realicen actividades con gran
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+afluencia de personas, tránsito de vehículos o
+
+manejo de efectivo y valores. $1,102.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 IV. Por la instalación a los sistemas de alarma
 
-conectados a la red de comunicación de la Dirección
+conectados a la red de comunicación de la
 
-General de Seguridad Pública y Tránsito, para la
+Dirección General de Seguridad Pública y
 
-atención de llamadas de auxilio. $1,080.
+Tránsito, para la atención de llamadas de
+
+auxilio. $1,102.
 
 SUBSECCION TERCERA
 
@@ -1797,45 +1805,73 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION C
 
 Por los servicios prestados por la Dirección General de Protección Civil, se pagarán derechos conforme a la siguiente:
 
-TARIFA
-
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-CONCEPTO
+CONCEPTO TARIFA
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Grupos voluntarios. $1,404.
+A). Grupos voluntarios. $1,432.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Prestadoras de servicios de consultoría o capacitación en materia de protección civil. $2,808.
+B). Prestadoras de servicios de consultoría
+
+o capacitación en materia de protección civil $2,864.
 
 II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Por la evaluación de las condiciones de seguridad para usos del suelo que generen impacto regional. $2,165.
+III. Por la evaluación de las condiciones de
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+seguridad para usos del suelo que generen
 
-IV. Por la prestación de los servicios de asesoría técnica a personas físicas o jurídicas colectivas que así lo soliciten, para la elaboración de sus programas específicos de protección civil. $2,165.
+impacto regional. $2,208.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por la evaluación del análisis de vulnerabilidad y riesgo, así como la incorporación de información cualitativa y cuantitativa del Subsistema Afectable identificado al Sistema Estatal de Información de Protección Civil. $2,808.
+IV. Por la prestación de los servicios de asesoría
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+técnica a personas físicas o jurídicas colectivas
 
-VI. Por el suministro de productos del Sistema Estatal de Información de Protección Civil, en medios digitales o impresos. $1,737.
+que así lo soliciten, para la elaboración de sus
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+programas específicos de protección civil. $2,208.
 
-VII. Por la prestación de los servicios que involucre el Programa de Capacitación en materia de protección civil, por hora de capacitación, con un máximo de 20 personas $238.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+V. Por la evaluación del análisis de vulnerabilidad
+
+y riesgo, así como la incorporación de información
+
+cualitativa y cuantitativa del Subsistema
+
+Afectable identificado al Sistema Estatal de
+
+Información de Protección Civil. $2,864.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VI. Por el suministro de productos del Sistema
+
+Estatal de Información de Protección Civil, en
+
+medios digitales o impresos. $1,772.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VII. Por la prestación de los servicios que
+
+involucre el Programa de Capacitación en materia
+
+de protección civil, por hora de capacitación
+
+con un máximo de 20 personas $243.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1843,91 +1879,105 @@ VIII. Por la evaluación de las condiciones de seguridad para la emisión de la 
 
 Fuego y Explosivos:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Carro vitrina para juguetería pirotécnica. $301.
+A). Carro vitrina para juguetería pirotécnica. $307.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Bodega para artificios pirotécnicos. $1,206.
+B). Bodega para artificios pirotécnicos. $1,230.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Fabricación de artificios pirotécnicos. $1,807.
+C). Fabricación de artificios pirotécnicos. $1,843.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Fábrica de elementos pirotécnicos. $3,516.
+D). Fábrica de elementos pirotécnicos. $3,586.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-E). Compra-venta de sustancias químicas $2,160.
+E). Compra-venta de sustancias químicas. $2,203.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-F). Instalaciones en que se realiza la compra-venta
+F). Instalaciones en que se realiza la
 
-de substancias químicas. $2,160.
+compra-venta de sustancias químicas. $2,203.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-G). Obras de ingeniería civil. $2,160.
+G). Obras de ingeniería civil. $2,203.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-H). Industrias químicas de transformación $2,160.
+H). Industrias químicas de transformación $2,203.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-I). Almacén para la compra-venta de pólvoras deportivas, fulminantes y demás proyectiles impulsados por deflagración de pólvora. $1,868.
+I). Almacén para la compra-venta de pólvoras
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+deportivas, fulminantes y demás proyectiles
 
-J). Reparación de armas de fuego y gas $1,427.
+impulsados por deflagración de pólvora. $1,905.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-K). Transporte especializado de explosivos $1,905.
+J). Reparación de armas de fuego y gas $1,456.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+K). Transporte especializado de explosivos $1,943.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 IX. Por la evaluación de Programas Específicos de Protección Civil:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Presentación del programa $2,165.
+A). Presentación del programa $2,208.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Actualización del programa $810.
+B). Actualización del programa $826.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-X. Por la evaluación y dictamen de condiciones de seguridad de los bienes inmuebles, sus instalaciones y equipo, por cada vez que se solicite $1,134.
+X. Por la evaluación y dictamen de condiciones
+
+de seguridad de los bienes inmuebles, sus instalaciones
+
+y equipo, por cada vez que se solicite. $1,157
 
 > <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 XI. Evaluación de condiciones de seguridad en sitios de concentración masiva de población donde se reúnan 3,000 o más personas, ó se realicen torneos de gallos:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Instalaciones fijas, anual $1,134.
+A). Instalaciones fijas, anual. $1,157.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Instalaciones eventuales, por cada ocasión que se realice $1,134.
+B). Instalaciones eventuales, por cada ocasión
+
+que se realice. $1,157.
 
 > <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 XII. Por el suministro de guías:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Para la elaboración de programas específicos de protección civil $216.
+A). Para la elaboración de programas específicos
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de protección civil $220.
 
-B). Para la elaboración de análisis de vulnerabilidad y riesgo, por guía $216.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+B). Para la elaboración de análisis de
+
+vulnerabilidad y riesgo, por guía. $220.
 
 SUBSECCION CUARTA
 
@@ -1941,13 +1991,15 @@ Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán 
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Apeo y deslinde. $384.
+A). Apeo y deslinde $392.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Capitulaciones matrimoniales sobre inmuebles. $384.
+B). Capitulaciones matrimoniales sobre
+
+inmuebles $392.
 
 C). La declaración, reconocimiento, adquisición o transmisión de la propiedad o posesión de inmuebles o derechos sobre los mismos por cualquier título.
 
@@ -1959,121 +2011,145 @@ D). La compraventa a plazos, con reserva de dominio o cualquier otra condición 
 
 E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomisos traslativos de dominio, en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $44.
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomisos traslativos de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $45.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-En el caso de predios que se destinen a la construcción de conjuntos urbanos de los tipos de vivienda referidos en el párrafo que antecede, se pagarán $2,185. Para ser sujeto de dichos beneficios, el propietario del predio deberá recabar de la Secretaría de Desarrollo Urbano y Vivienda la constancia correspondiente.
+En el caso de predios que se destinen a la construcción de conjuntos urbanos de los tipos de vivienda referidos en el párrafo que antecede, se pagarán $2,229. Para ser sujeto de dichos beneficios, el propietario del predio deberá recabar de la Secretaría de Desarrollo Urbano y Vivienda la constancia correspondiente.
 
 F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
 Las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en campañas promovidas por el Gobierno o por los ayuntamientos, quedarán exentas del pago de los derechos señalados en este inciso.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $577.
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $589.
 
 H). Otros actos inscribibles o anotables.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $92, siempre y cuando conste de manera expresa que en los lotes de que se trate o fracciones resultantes se construirán ese tipo de viviendas, o que en el condominio en su totalidad tendrá esa naturaleza.
+Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $94, siempre y cuando conste de manera expresa que en los lotes de que se trate o fracciones resultantes se construirán ese tipo de viviendas, o que en el condominio en su totalidad tendrá esa naturaleza.
 
 Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1. Cuando los actos a inscribir no tengan valor
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $154,798. $1,040.
+determinado o éste sea hasta de $157,894. $1,061.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Cuando el valor de los actos a inscribir sea de más de $154,798 y hasta de $193,499. $3,124.
+2. Cuando el valor de los actos a inscribir sea
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de más de $157,894. y hasta de $197,369. $3,186.
 
-3. Cuando el valor de los actos a inscribir sea de más de $193,499 y hasta de $232,198. $5,205.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+3. Cuando el valor de los actos a inscribir sea de
 
-4. Cuando el valor de los actos a inscribir sea de más de $232,198 y hasta de $270,898. $7,287.
+más de $197,369. y hasta de $236,842. $5,309.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Cuando el valor de los actos a inscribir sea de más de $270,898 y hasta de $309,599. $9,371.
+4. Cuando el valor de los actos a inscribir sea de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+más de $236,842. y hasta de $276,316. $7,433.
 
-6. Cuando el valor de los actos a inscribir sea de más de $309,599. $10,433.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+5. Cuando el valor de los actos a inscribir sea
+
+de más de $276,316. y hasta de $315,791. $9,558.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6. Cuando el valor de los actos a inscribir sea de
+
+más de $315,791. $10,642.
 
 Por las inscripciones a que se refiere el inciso C), D), E) y H) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $411.
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $419.
 
 II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1. Cuando los actos a inscribir no tengan valor
 
-1. Cuando los actos a inscribir no tengan valor determinado o este sea hasta de $154,798. $1,040.
+determinado o éste sea hasta de $157,894 $1,061.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Cuando el valor de los actos a inscribir sea de más de $154,798 y hasta de $193,499. $3,124.
+2. Cuando el valor de los actos a inscribir sea
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de más de $157,894. y hasta de $197,369. $3,186.
 
-3. Cuando el valor de los actos a inscribir sea de más de $193,499 y hasta de $232,198. $5,205.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+3. Cuando el valor de los actos a inscribir sea
 
-4. Cuando el valor de los actos a inscribir sea de más de $232,198 y hasta de $270,898. $7,287
+de más de $197,369. y hasta de $236,842. $5,309.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Cuando el valor de los actos a inscribir sea de más de $270,898 y hasta de $309,599. $9,371.
+4. Cuando el valor de los actos a inscribir sea
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de más de $236,842. y hasta de $276,316. $7,433.
 
-6. Cuando el valor de los actos a inscribir sea de más de $309,599. $10,433.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+5. Cuando el valor de los actos a inscribir
+
+sea de más de $276,316. y hasta de
+
+$315,791. $9,558.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6. Cuando el valor de los actos a inscribir sea
+
+de más de $315,791. $10,642.
 
 Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-La división de hipoteca pagará una cantidad equivalente a $1,040.
+La división de hipoteca pagará una cantidad equivalente a $1,061.
 
 Por la inscripción de las hipotecas en las que intervenga el Fondo Instituido en Relación a la Agricultura (FIRA), el pago de los derechos se hará conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+A). Cuando el valor de la operación sea
 
-A). Cuando el valor de la operación sea hasta de $371,519. $341.
+hasta de $378,949. $348.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Cuando el valor de la operación exceda de $371,519. $864.
+B). Cuando el valor de la operación
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+exceda de $378,949. $881.
 
-Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $92.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $94.
 
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores, se pagarán $864. a excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $46., así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores, se pagarán $881. a excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $47., así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
@@ -2081,15 +2157,15 @@ Para la aplicación de los derechos previstos en este artículo referidos a vivi
 
 Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aún cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $384.
+III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $392.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE JUNIO DE 2006)</small>
 
 ###### Artículo 78.
 
@@ -2103,39 +2179,49 @@ III. Por otros actos inscribibles o anotables.
 
 Los derechos se pagarán conforme a la siguiente tarifa:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1. Cuando los actos a inscribir no tengan valor
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $154,798. $1,040.
+determinado o éste sea hasta de $157,894. $1,061.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Cuando el valor de los actos a inscribir sea de más de $154,798 y hasta de $193,499. $3,124.
+2. Cuando el valor de los actos a inscribir sea
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de más de $157,894. y hasta de $197,369. $3,186.
 
-3. Cuando el valor de los actos a inscribir sea de más de $193,499 y hasta de $232,198. $5,205.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+3. Cuando el valor de los actos a inscribir sea de
 
-4. Cuando el valor de los actos a inscribir sea de más de $232,198 y hasta de $270,898. $7,287.
+más de $197,369. y hasta de $236, 842. $5,309.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Cuando el valor de los actos a inscribir sea de más de $270,898 y hasta de $309,599. $9,371.
+4. Cuando el valor de los actos a inscribir sea de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+más de $236,842. y hasta de $276,316. $7,433.
 
-6. Cuando el valor de los actos a inscribir sea de más de $309,599. $10,433.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+5. Cuando el valor de los actos a inscribir sea de
 
-IV. Por cancelación de cualquiera de los actos contenidos
+más de $276,316. y hasta de $315,791. $9,558.
 
-en este artículo. $1,040.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6. Cuando el valor de los actos a inscribir sea
+
+de más de $315,791. $10,642.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+IV. Por cancelación de cualquiera de los actos
+
+contenidos en este artículo. $1,061.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2153,55 +2239,65 @@ En las sociedades de capital variable se tomará el capital suscrito como valor 
 
 II. Actas de asambleas de socios o de juntas de administradores de conformidad a la legislación aplicable.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Otorgamiento o sustitución de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán $424.
+III. Otorgamiento o sustitución. de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán $432.
 
 IV. Emisiones de acciones, cédulas, obligaciones o certificados de participación, tomándose como valor el importe de la emisión para la ubicación en el rango de la tarifa correspondiente.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Fianzas de corredores, se pagarán $577.
+V. Fianzas de corredores, se pagarán $589.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Depósito de la firma en facsímil de los administradores, se pagarán $1,040.
+VI. Depósito de la firma en facsímil de los administradores, se pagarán $1,061.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VII. Depósito de copia autorizada por balance, se pagarán $1,040.
+VII. Depósito de copia autorizada por banlance, se pagarán $1,061.
 
 VIII. Otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones I, II, IV y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1. Cuando los actos a inscribir no tengan valor
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $154,798. $1,040.
+determinado o éste sea hasta de $157,894. $1,061.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Cuando el valor de los actos a inscribir sea de más de $154,798 y hasta de $193,499. $3,124.
+2. Cuando el valor de los actos a inscribir sea de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+más de $157, 894. y hasta de $197,369. $3,186.
 
-3. Cuando el valor de los actos a inscribir sea de más de $193,499 y hasta de $232,198. $5,205.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+3. Cuando el valor de los actos a inscribir sea
 
-4. Cuando el valor de los actos a inscribir sea de más de $232,198 y hasta de $270,898. $7,287.
+de más de $197,369. y hasta de $236, 842. $5,309.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Cuando el valor de los actos a inscribir sea de más de $270,898 y hasta de $309,599. $9,371.
+4. Cuando el valor de los actos a inscribir sea de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+más de $236, 842. y hasta de $276,316. $7,433.
 
-6. Cuando el valor de los actos a inscribir sea de más de $309,599. $10,433.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+5. Cuando el valor de los actos a inscribir sea de
+
+más de $276,316. y hasta de $315,791 $9,558.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6. Cuando el valor de los actos a inscribir
+
+sea de más de $315,791. $10,642.
 
 No pagarán los derechos señalados en este artículo las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
 
@@ -2211,33 +2307,45 @@ No pagarán los derechos señalados en este artículo las microindustrias que es
 
 Por inscripciones de títulos de propiedad sujetos a registro en los términos del Registro Público de la Propiedad, se pagarán derechos, conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1. Cuando los actos a inscribir no tengan
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $154,798. $1,040.
+valor determinado o éste sea hasta de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+$157,894. $1,061.
 
-2. Cuando el valor de los actos a inscribir sea de más de $154,798 y hasta de $193,499. $3,124.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+2. Cuando el valor de los actos a inscribir sea
 
-3. Cuando el valor de los actos a inscribir sea de más de $193,499 y hasta de $232,198. $5,205.
+de más de $157,894. y hasta de $197,369. $3,186.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Cuando el valor de los actos a inscribir sea de más de $232,198 y hasta de $270,898. $7,287.
+3. Cuando el valor de los actos a inscribir sea de,
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+más de $197,369. y hasta de $236, 842. $5,309.
 
-5. Cuando el valor de los actos a inscribir sea de más de $270,898 y hasta de $309,599. $9,371.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+4. Cuando el valor de los actos a inscribir sea de
 
-6. Cuando el valor de los actos a inscribir sea de más de $309,599. $10,433.
+más de $236, 842. y hasta de $276,316. $7,433.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+5. Cuando el valor de los actos a inscribir sea de
+
+más de $276,316. y hasta de $315,791. $9,558.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6. Cuando el valor de los actos a inscribir sea de
+
+más de $315,791. $10,642.
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
@@ -2247,9 +2355,9 @@ CONCEPTO
 
 Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-I. Corresponsalía, $578.
+l. Corresponsalía, $590.
 
 II. Compra-venta con reserva de dominio.
 
@@ -2257,13 +2365,13 @@ III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente.
 
 IV. Embargos.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, $1,040.
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, $1,061.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $411.
+VI Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $419.
 
 VII. Arrendamiento financiero.
 
@@ -2271,51 +2379,59 @@ VIII. Otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones II, III, IV, VII y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1. Cuando los actos a inscribir no tengan
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $154,798. $1,040.
+valor determinado o éste sea hasta de $157,894. $1,061.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Cuando el valor de los actos a inscribir sea de más de $154,798 y hasta de $193,499. $3,124.
+2. Cuando el valor de los actos a inscribir sea de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+más de $157,894. y hasta de $197,369. $3,186.
 
-3. Cuando el valor de los actos a inscribir sea de más de $193,499 y hasta de $232,198. $5,205.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+3.- Cuando el valor de los actos a inscribir sea
 
-4. Cuando el valor de los actos a inscribir sea de más de $232,198 y hasta de $270,898. $7,287.
+de más de $197,369. y hasta de $236, 842. $5,309.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Cuando el valor de los actos a inscribir sea de más de $270,898 y hasta de $309,599. $9,371.
+4. Cuando el valor de los actos a inscribir sea
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de más de $236, 842. y hasta de $276,316. $7,433.
 
-6. Cuando el valor de los actos a inscribir sea de más de $309,599. $10,433.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+5. Cuando el valor de los actos a inscribir sea de
+
+más de $276,316. y hasta de $315, 791. $9,558.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6.- Cuando el valor de los actos a inscribir sea de
+
+más de $315,791. $10,642.
 
 Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervenga el Fondo Instituido en Relación a la Agricultura el pago de los derechos se hará conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+A). Cuando el valor de la operación
 
-A). Cuando el valor de la operación sea
+sea hasta de $378,949. $348.
 
-hasta $371,519 $341.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+B). Cuando el valor de la operación
 
-B). Cuando el valor de la operación exceda
-
-de $371,519 $864.
+exceda de $378.949 $881.
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -2323,25 +2439,23 @@ de $371,519 $864.
 
 Por las inscripciones o anotaciones de resoluciones judiciales que contengan actos mercantiles, se pagarán derechos:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+I. Providencias precautorias $1,061.
 
-I. Providencias precautorias. $1,040.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+II. Suspensión de pagos. $1,063.
 
-II. Suspensión de pagos. $1,042.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+III. Quiebras $1,063.
 
-III. Quiebras. $1,042.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
-
-IV. Otras resoluciones. $1,042.
+IV. Otras resoluciones $1,063
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
 
@@ -2359,73 +2473,79 @@ CONCEPTO
 
 I. Expedición de certificados:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). De no inscripción. $490.
+A). De no inscripción. $500.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). De no propiedad. $41.
+B). De no propiedad. $42.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-II. Expedición de certificados de inscripción. $490.
+II. Expedición de certificados de
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+inscripción. $500.
 
-III. Expedición de certificados de libertad o
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-existencia de gravámenes. $571.
+III. Expedición de certificados de libertad
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+o existencia de gravámenes. $582.
 
-Tratándose de la expedición de certificados de
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-libertad o existencia de gravámenes relacionados
+Tratándose de la expedición de certificados
 
-con la adquisición de viviendas de interés social,
+de libertad o existencia de gravámenes
 
-social progresiva o popular. $99.
+relacionados con la adquisición de viviendas
+
+de interés social, social progresiva o
+
+popular. $101.
 
 Los derechos a que se refieren las fracciones I, II y III se pagarán por cada fracción de terreno o lote.
 
 En el caso de certificados de no inscripción, de no propiedad o de libertad de gravámenes para fines de procedimientos por los que el Gobierno, o los ayuntamientos, lleven a cabo campañas de regularización de la tenencia de la tierra, quedarán exentos del pago de derechos señalados en las fracciones I y III.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 Tratándose de terrenos en donde se construyan
 
 viviendas de interés social, social progresiva o
 
-popular. $246.
+popular. $251.
 
 IV. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por expedición de informes sobre la
+V. Por expedición de informes sobre la existencia
 
-existencia o inexistencia de testamentos. $411.
+o inexistencia de testamentos. $419.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Por compulsa de documentos. $41.
+VI. Por compulsa de documentos. $42.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 VII. Expedición de copias literales de
 
-asientos registrales. $490.
+asientos registrales. $500.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 VIII. Por la expedición del certificado de una
 
 secuencia registral de un inmueble o asiento
 
-registral, por cada asiento que se certifique. $415.
+registral, por cada asiento que se
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+certifique. $423.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 IX. Por la búsqueda y expedición, sin
 
@@ -2433,11 +2553,11 @@ certificación, de informes contenidos en los
 
 libros del Registro Público de la Propiedad
 
-de antecedentes registrales. $215.
+de antecedentes registrales. $219.
 
 Cuando las certificaciones a que aluden las fracciones II y III de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la certificación solicitada, haciendo válido el pago efectuado.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
@@ -2449,9 +2569,9 @@ Cuando las certificaciones a que aluden las fracciones II y III de este artícul
 
 ###### Artículo 84.
 
-Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $312.
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $318.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
@@ -2459,27 +2579,27 @@ Por la calificación de los documentos, cuando se devuelvan sin haberse practica
 
 ###### Artículo 85.
 
-Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $81.
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $83.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
 
 ###### Artículo 86.
 
-Por la expedición de formas aprobadas, se pagarán por concepto de derechos $41.
+Por la expedición de formas aprobadas, se pagarán por concepto de derechos $42.
 
 ###### Artículo 87.
 
 Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
 
-Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $272, por cada una de ellas.
+Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $277. por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
 ###### Artículo 87 Bis.
 
-(DEROGADO, G.G. 22 DE DICIEMBRE DE 2004)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006).
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -2491,71 +2611,75 @@ Tratándose de instituciones y organizaciones de crédito y seguros, las inscrip
 
 Por los servicios prestados por el Archivo General de Notarías, se pagarán derechos conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+I. Expedición de Testimonios, incluida
 
-I. Expedición de Testimonios, incluida la autorización,
+la autorización, por cada hoja. $42.
 
-por cada hoja $41.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA, G.G. 1 DE JULIO DE 2005)
+II. Expedición de copias certificadas de
 
-II. Expedición de copias certificadas de planos que obran en el apéndice por cada foja, incluida la autorización $81.
+planos que obran en el apéndice por cada
+
+foja, incluida la autorización. $83.
 
 III. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 IV. Informe sobre existencia o inexistencia
 
-de testamento. $397.
+de testamento. $405.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Búsqueda de antecedentes notariales. $41.
+V. Búsqueda de antecedentes notariales. $42.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Autorización definitiva de las escrituras o actas
+VI. Autorización definitiva de las escrituras
 
-notariales de valor determinado que no contengan
+o actas notariales de valor determinado que
 
-cuota especial en este Código. $764.
+no contengan cuota especial en este Código. $779.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 VII. Cuando se trate de actas o escrituras de
 
-valor indeterminado, los derechos por autorización
+valor indeterminado, los derechos por
 
-definitiva serán por una cantidad equivalente a. $816.
+autorización definitiva serán por una
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+cantidad equivalente a. $832.
 
-VIII. Por la cancelación de la disposición del patrimonio
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-familiar. $384.
+VIII. Por la cancelación de la disposición del
 
-(ACTUALIZADA, G.G. 1 DE JULIO DE 2005)
+patrimonio familiar. $392.
 
-IX. por revocación, extinción y sustitución de poderes que
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-se asienten en nota complementaria dentro del acto
+IX. Por revocación, extinción de poderes que
 
-jurídico que corresponda. $393.
+se asienten en nota complementaria dentro
+
+del acto jurídico que corresponda. $401.
 
 X. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
+> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
 
 ###### Artículo 89.
 
-Los notarios públicos deberán estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las oficinas recaudadoras, mediante la presentación de los formatos autorizados para ese efecto por la Secretaría. Al presentar para su inscripción el testimonio respectivo, agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán, estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las oficinas recaudadoras, mediante la presentación de los formatos autorizados para ese efecto por la Secretaría. Al presentar para su inscripción el testimonio respectivo, agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
@@ -2567,47 +2691,85 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CI
 
 Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-I. Expedición de copias certificadas en papel comercial, de los apéndices de los actos y de la documentación concentrada en la Dirección General del Registro Civil por procedimiento administrativo. $56.
+I. Expedición de copias certificadas en papel comercial,
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de los apéndices de los actos y de la documentación
 
-II. Expedición de copias certificadas en papel comercial, de las actas concentradas en la Dirección General del Registro Civil, por hoja: $19.
+concentrada en la Dirección General del Registro
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Civil por procedimiento administrativo. $57.
 
-III. Expedición de copias certificadas del Registro Civil en papel seguridad autorizado por la Dirección General, de las actas y apéndices de los actos, por hoja. $41.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+II. Expedición de copias certificadas en papel
 
-IV. Por el dictamen de procedencia del divorcio administrativo. $406.
+comercial, de las actas concentradas en la Dirección
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+General del Registro Civil, por hoja. $19.
 
-V. Búsqueda en los libros del registro civil que se encuentren concentrados en la Dirección General del Registro Civil y oficinas regionales, cuando no se señale fecha de registro, por cada año o fracción. $6.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+III. Expedición de copias certificadas del Registro
 
-VI. Anotaciones marginales generadas por acuerdos de aclaración de acta por vía administrativa realizadas en la Dirección General y oficinas regionales. $59.
+Civil en papel seguridad autorizado por la Dirección
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+General, de las actas y apéndices de los actos,
 
-VII. Por certificación de constancia de inexistencia de registro. $41.
+por hoja. $42.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VIII. Por forma autorizada por la Dirección General del Registro Civil para copia certificada. $2.
+IV. Por el dictamen de procedencia del divorcio
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+administrativo. $424.
 
-IX. Por juego de formato para el asentamiento de hechos
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-y actos del estado civil. $3.
+V. Búsqueda en los libros del registro civil
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+que se encuentren concentrados en la Dirección
 
-X. Por el servicio de encuadernación de libros de actas ejemplar de Oficialía de las diversas actas del Estado Civil, por libro. $138.
+General del Registro Civil y oficinas regionales,
+
+cuando no se señale fecha de registro, por cada
+
+año o fracción. $6.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VI. Anotaciones marginales generadas por acuerdos
+
+de aclaración de acta por vía administrativa realizadas
+
+en la Dirección General y oficinas regionales. $60.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VII. Por certificación de constancia de inexistencia
+
+de registro. $42.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VIII. Por forma autorizada por la Dirección General
+
+del Registro Civil para copia certificada. $2.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+IX. Por juego de formato para el asentamiento de
+
+hechos y actos del estado civil. $3.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+X. Por el servicio de encuadernación de libros de
+
+actas ejemplar de Oficialía de las diversas actas
+
+del Estado Civil, por libro. $141.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -2615,53 +2777,61 @@ X. Por el servicio de encuadernación de libros de actas ejemplar de Oficialía 
 
 Por los servicios prestados por la Secretaría de Finanzas, se pagarán los siguientes derechos:
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-I. Expedición de certificados por cada foja $40.
+l. Expedición de certificados por cada foja. $41.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-II. Expedición de formas aprobadas $37.
+II. Expedición de formas aprobadas. $38.
 
 III. Práctica de auditoria realizada a solicitud de particulares:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Hora auditor: $33.
+A). Hora auditor $34.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Hora supervisor: $53.
+B). Hora supervisor. $54.
 
 IV. Por el almacenaje de bienes muebles secuestrados y liberados en la vía del procedimiento administrativo de ejecución y no retirados oportunamente, se pagarán derechos de acuerdo con la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+A). Cuando los bienes ocupen hasta 1 m2
 
-A). Cuando los bienes ocupen hasta 1 m2 de
+de superficie, por día. $6.
 
-superficie, por día $6.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+B). Por cada metro o fracción excedente,
 
-B). Por cada metro o fracción excedente, por día $1.
+por día. $1.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Expedición de copias microfilmadas a papel, por imagen $6.
+V. Expedición de copias microfilmadas a
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+papel, por imagen. $6.
 
-VI. Expedición de constancia de inexistencia de documentos $19.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VI. Expedición de constancia de inexistencia
+
+de documentos. $19.
 
 VII. (DEROGADA, G.G. 27 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VIII. Expedición de constancias de pago de los impuestos sobre tenencia o uso de vehículos federal y estatal. $104.
+VIII. Expedición de constancias de pago de
+
+los impuestos sobre tenencia o uso de vehículos
+
+federal y estatal. $106.
 
 ###### Artículo 92.
 
@@ -2673,83 +2843,109 @@ No pagarán estos derechos las empresas registradas en el Padrón Nacional de la
 
 Por los servicios prestados por la Secretaría de Educación, se pagarán derechos conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+I. Por la inscripción al programa para la incorporación
 
-I. Por la inscripción al programa para la incorporación gradual de los particulares que imparten educación preescolar al Sistema Educativo Estatal. $3,507.
+gradual de los particulares que imparten educación
+
+preescolar al Sistema Educativo Estatal. $3,577.
 
 II. Por la autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Preescolar $3,507.
+A). Preescolar $3,577.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Primaria $3,649.
+B). Primaria $3,722.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Secundaria $4,378.
+C). Secundaria $4,466.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Normal $6,757.
+D). Normal $6,892.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Por el reconocimiento de validez oficial de estudios, por plan de estudios, a escuelas particulares de educación media superior. $5,838.
+III. Por el reconocimiento de validez oficial
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de estudios, por plan de estudios, a
 
-IV. Por el reconocimiento de validez oficial de estudios, por plan de estudios o carrera a escuelas particulares de educación superior: $7,299.
+escuelas particulares de educación media
+
+superior. $5,955.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+IV. Por el reconocimiento de validez oficial
+
+de estudios, por plan de estudios o carrera a
+
+escuelas particulares de educación superior. $7,445.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 V. Por el reconocimiento de validez oficial de estudios por turno y por modalidad, a escuelas particulares:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Educación Media Superior $5,838.
+A). Educación Media Superior $5,955.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Educación Superior $7,299.
+B). Educación Superior $7,445.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Por vigencia anual de derechos, por reconocimiento de plan de estudios a escuelas particulares de educación media superior. $5,406.
+VI. Por vigencia anual de derechos, por
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+reconocimiento de plan de estudios a
 
-VII. Por vigencia anual de derechos, por reconocimiento, por carrera a escuelas particulares de educación superior. $6,757.
+escuelas particulares de educación media
+
+superior. $5,514.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VII. Por vigencia anual de derechos, por
+
+reconocimiento, por carrera a escuelas
+
+particulares de educación superior. $6,892.
 
 VIII. Por vigencia anual de derechos, plan de estudios, modalidad y turno a escuelas particulares:
 
 A). Autorización:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Preescolar $3,247.
+1. Preescolar $3,312.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Primaria $3,378.
+2. Primaria $3,446.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Secundaria $4,053.
+3. Secundaria $4,134.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Normal $6,757.
+4. Normal $6,892.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Escuelas inscritas en el programa de incorporación gradual a particulares que prestan servicio de educación preescolar al Sistema Educativo Estatal. $3,371.
+5. Escuelas inscritas en el programa de
+
+incorporación gradual a particulares que
+
+prestan servicio de educación preescolar $3,438.
 
 B). Reconocimiento de validez oficial de estudios:
 
@@ -2763,49 +2959,55 @@ B). Reconocimiento de validez oficial de estudios:
 
 C). (DEROGADO, G.G. 27 DE DICIEMBRE DE 2005) (F. DE E., G.G. 6 DE MARZO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-IX. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior, por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez, independientemente del grado o ciclo que curse. $54.
+IX. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior, por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez, independientemente del grado o ciclo que curse. $55.
 
 X. Por cambios diversos:
 
 A). Por cambio de plan de estudio:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Media Superior para Profesional Medio $2,530.
+1. Educación Media Superior para Profesional
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Medio. $2,581.
 
-2. Educación Superior $2,530.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+2. Educación Superior. $2,581.
 
-B). Por cambio de denominación de carrera de educación superior. $730.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+B). Por cambio de denominación de carrera de
+
+educación superior. $745.
 
 C). Por actualización de contenidos de programas de estudios:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Media Superior para Profesional Medio $730.
+1. Educación Media Superior para Profesional
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Medio. $745.
 
-2. Educación Superior $730.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+2. Educación Superior. $745.
 
 D). Por cambio de nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, domicilio o turno:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Básica $730.
+1. Eduación Básica $745.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Media Superior $730.
+2. Educación Media Superior $745.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Educación Superior $730.
+3. Educación Superior. $745.
 
 XI. Por expedición de certificados o de duplicados (sic) certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
 
@@ -2813,131 +3015,141 @@ XI. Por expedición de certificados o de duplicados (sic) certificados de estudi
 
 A). Por expedición de certificado:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Media Superior $114.
+1. Educación Media Superior $116.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Superior $162.
+2. Educación Superior $165.
 
 B). Por duplicado de certificado:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Básica $66.
+1. Educación Básica $67.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Media Superior $114.
+2. Educación Media Superior $116.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Educación Superior $162.
+3. Educación Superior $165.
 
 XII. Por resolución de revalidación de estudios o expedición de duplicados:
 
 A). Por resolución:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Básica $36.
+1. Educación Básica $37.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Media Superior $205.
+2. Educación Media Superior $209
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Educación Superior $612.
+3. Educación Superior $624.
 
 B). Por duplicado:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Media Superior $72.
+1. Educación Media Superior $73.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Superior $169.
+2. Educación Superior $172
 
 C). Por modificación o enmienda:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Media Superior $53.
+1. Educación Media Superior $54.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Superior $159.
+2. Educación Superior $162.
 
 XIII. Por resolución por equivalencia de estudios de tipo:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Medio Superior $205.
+A). Media Superior $209.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Superior $612.
+B). Superior $624.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XIV. Por expedición de cédula de pasante para el ejercicio profesional. $729.
+XIV. Por expedición de cédula de pasante para el
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+ejercicio profesional $744.
 
-XV. Por expedición de duplicado de cédula de pasante para el ejercicio profesional. $365.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XV. Por expedición de duplicado de cédula de
+
+pasante en el ejercicio profesional $372.
 
 XVI. Por inscripción de títulos profesionales:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Licenciatura o grado académico $365.
+A). Licenciatura o grado académico $372.
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 B). Profesional Técnico o Técnico Superior
 
-Universitario $184.
+Universitario $188.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XVII. Por registro de colegios de profesionistas. $5,180.
+XVII. Por registro de colegios de
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+profesionistas. $5,284.
 
-XVIII. Por enmienda al registro de los colegios
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-de profesionistas. $731.
+XVIII. Por enmienda al registro de los colegios de
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+profesionistas. $746.
 
-XIX. Refrendo de registro de colegios
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-de profesionistas. $731.
+XIX. Refrendo de registro de colegios de
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+profesionistas. $746.
 
-XX. Autorización temporal para ejercer
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-la actividad de perito. $731.
+XX. Autorización temporal para ejercer la
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+actividad de perito. $746.
 
-XXI. Refrendo y expedición de duplicado a la autorización para ejercer la actividad de perito. $731.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+XXI. Refrendo y expedición de duplicados
 
-XXII. Por la expedición de hojas de servicio,
+a la autorización para ejercer la
 
-por cada hoja. $16.
+actividad de perito. $746.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XXII. Por expedición de hojas de servicio, por
+
+cada hoja $16.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 XXIII. Por la expedición de constancia de
 
-antecedentes profesionales. $48.
+antecedentes profesionales $49.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -2945,31 +3157,29 @@ antecedentes profesionales. $48.
 
 Por los servicios prestados por el Organismo Público Descentralizado denominado Servicios Educativos Integrados al Estado de México, se pagarán derechos conforme a la siguiente:
 
-TARIFA
-
-CONCEPTO
+CONCEPTO TARIFA
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno de educación:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Preescolar $3,507.
+A). Preescolar $3,577.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Primaria $3,649.
+B) Primaria $3,722.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Secundaria $4,378.
+C). Secundaria $4,466.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Normal $6,757.
+D) Normal $6,892.
 
-II. (DEROGADA, G.G. 22 DE DICIEMBRE DE 2004)
+II. (DEROGADA, G.G. 30 DE JUNIO DE 2006)
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2977,25 +3187,25 @@ III. Por vigencia anual de derechos, por plan de estudios, modalidad, carrera y 
 
 A). Autorización:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Preescolar $3,247.
+1. Preescolar $3,312.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Primaria $3,378.
+2. Primaria $3,446.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Secundaria $4,053
+3. Secundaria $4,134.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Normal $6,757.
+4. Normal $6,892.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). A escuelas inscritas en el programa para la incorporación gradual de los particulares que imparten educación preescolar al Sistema Educativo Estatal. $3,507.
+B). A escuelas inscritas en el programa para la incorporación gradual de los particulares que imparten educación preescolar al Sistema Educativo Estatal. $3,577.
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -3003,57 +3213,49 @@ IV. Por expedición de certificados o duplicado de certificados de estudios real
 
 A). Certificados:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Normal $162.
-
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
-
-2. Educación Normal $159. (sic)
+1. Educación Normal $165.
 
 B). Duplicados:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Básica $66.
+1. Educación Básica $67.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Normal $162.
+2. Educación Normal $165.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por dictamen de revalidación de estudios tipo Básico $33.
+V. Por dictamen de revalidación de estudios
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de tipo Básico $34.
 
-VI. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez independientemente del grado o ciclo que curse $52
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+VI. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, norma, medio superior y superior por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez independientemente del grado o ciclo que curse. $53.
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 VII. Por cambio del nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, domicilio o turno:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Educación Básica $731.
+1. Educación Básica $746.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Educación Media Superior $731.
+2. Educación Media Superior $746.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Educación Superior $731.
+3. Educación Superior $746.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VIII. Por la inscripción al programa para la
-
-incorporación gradual de los particulares
-
-que imparten educación preescolar al
-
-Sistema Educativo Estatal. $3,507
+VIII. Por la inscripción al programa para la incorporación gradual de los particulares que imparten educación preescolar al Sistema Educativo Estatal. $3,577.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3073,43 +3275,49 @@ II. Por la expedición de duplicados existentes en archivo, se pagarán los dere
 
 CONCEPTO TARIFA
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Por el duplicado de la primera hoja simple $41
+A). Por el duplicado de la primera hoja simple. $42.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Por el duplicado de las subsecuentes hojas simples $18.
+B). Por el duplicado de las subsecuentes
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+hojas simples $18.
 
-C). Por duplicado de cada plano $109.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+C). Por duplicado de cada plano $111.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 D). Por el duplicado de planos con material
 
-proporcionado por el usuario $76.
+proporcionado por el usuario $78.
 
 La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente;
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Por la expedición de nombramientos de peritos responsables de obras, se pagarán derechos equivalentes a $729.
+III. Por la expedición de nombramientos de peritos
+
+responsables de obras, se pagarán derechos
+
+equivalentes a $744.
 
 Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $2,000.
+IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $2,040.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $2,081.
+V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $2,123.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Por la expedición de informe técnico urbano $468.
+VI. Por la expedición de informe técnico urbano, $477.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3371,177 +3579,191 @@ CONCEPTO
 
 I. Canalizaciones Superficiales por cada metro:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 A). De 0 a 999 metros $9.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 B). A partir de 1000 metros $6.
 
 II. Canalizaciones subterráneas por cada metro:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 A). De 0 a 999 metros $10.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 B). A partir de 1000 metros $6.
 
 III. Instalación de postería por cada metro:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 A). De 0 a 999 metros $3.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 B). A partir de 1000 metros $3.
 
 IV. Cruzamientos por cada metro:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Aéreo. $38.
+A). Aéreo $39.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Subterráneo $81.
+B). Subterráneo $83.
 
 V. Instalaciones marginales aéreas por cada metro:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 A). De 0 a 999 metros $7.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). A partir de 1000 metros $5.
+B) A partir de 1000 metros $5.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 VI. Por autorizaciones y permisos para la colocación de anuncios, pendones, gallardetes y otros análogos con vigencia anual, o al número de meses que corresponda en términos de la autorización o permiso:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Turístico tipo oficial por pieza $1,715.
+A). Turístico tipo oficial por pieza $1,749.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Informativo tipo oficial por pieza $1,992.
+B). Informativo tipo oficial por pieza $2,032.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 C). Estructura por metro cuadrado por mes $15.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Estructura para vallas por metro cuadrado por mes $33
+D). Estructura para vallas por metro cuadrado
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+por mes $34.
 
-E). Estructura de columnas y mobiliario urbano por pieza por mes $33.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+E). Estructura de columnas y mobiliario urbano
+
+por pieza por mes $34.
 
 VII. Registros para canalizaciones en cruces, avenidas o calles, por registro:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Para transición aéreo-subterráneo en baja tensión $1,414.
+A). Para transición aéreo-subterráneo en
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+baja tensión $1,442.
 
-B). Para instalaciones de telecomunicaciones $1,414.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+B). Para instalaciones de telecomunicaciones $1,442.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 C). Para líneas de drenaje, agua potable, hidrocarburos o similares:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por pozo $1,414.
+1. Por pozo $1,442.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por registro $707.
+2. Por registro $721.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VIII. Rupturas de banquetas por metro cúbico $76.
+VIII. Ruptura de banquetas por metro cúbico $78.
 
 IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Manual $94
+A). Manual $96.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Con maquinaria. $44
+B). Con maquinaria $45.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-X. Protección a instalaciones subterráneas con pintura o cinta plástica por metro lineal $11.
+X. Protección a instalaciones subterráneas con
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+pintura o cinta plástica por metro lineal $11.
 
-XI. Ruptura de guarnición por metro cúbico $44.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+XI. Ruptura de guarnición por metro cúbico $45.
 
-XII. Accesos por metro cuadrado $285.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XII. Accesos por metro cuadrado $291.
 
 XIII. Revisión técnica de memorias y/o planos:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Instalaciones marginales por metro lineal $10.
+A) Instalaciones marginales por metro lineal $10.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Cruzamientos aéreos o subterráneos por cruce $647.
+B). Cruzamientos aéreos o subterráneos por
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Cruce $660.
 
-C). Instalaciones marginales de telecomunicaciones por metro lineal $3.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+C) Instalaciones marginales de telecomunicaciones
 
-D). Anuncios por memoria $3,639
+por metro lineal $3.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+D). Anuncios por memoria $3,712.
 
 XIV. Por retiro de estructuras de anuncios publicitarios:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Estructurales $16,713
+A). Estructurales $17,047.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Semiestructurales $40,986.
+B) Semiestructurales $41,806.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Unipolares $67,461.
+C). Unipolares $68,810.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Bipolares $74,726.
+D). Bipolares $76,221.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-E). Tripolares $82,373.
+E). Tripolares $84,020.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-F). Denominativos $2,959
+F). Denominativos $3,018
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-G). Anuncios tipo oficial, pendones, gallardetes u otros análogos $11.
+G). Anuncios tipo oficial, pendones,
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Gallardetes u otros análogos $11.
 
-H). Estructura para vallas y columnas $21,651.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+H). Estructura para vallas y columnas $22,084.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3553,21 +3775,19 @@ Cuando por su denominación o características del anuncio no se encuentran comp
 
 Por el uso o aprovechamiento del derecho de vía de las autopistas de cuota y zonas aledañas, así como por los servicios prestados por el Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, se pagarán los siguientes derechos:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+I. Por la integración de expediente técnico de
 
-I. Por la integración de expediente técnico de la
-
-solicitud para la explotación y utilización del
+la solicitud para la explotación y utilización del
 
 derecho de vía de las autopistas estatales y
 
-zonas aledañas $48.
+zonas aledañas. $49.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 II. Por el estudio técnico de planos y proyectos
 
@@ -3575,9 +3795,11 @@ para la instalación de cada señalamiento vertical
 
 informativo dentro del derecho de vía de las
 
-autopistas de cuota estatales y zonas aledañas $285.
+autopistas de cuota estatales y zonas
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+aledañas. $291.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 III. Por el estudio técnico de planos y proyectos
 
@@ -3585,15 +3807,15 @@ para la instalación de cada señalamiento
 
 publicitario monumental dentro del derecho de
 
-vía de las autopistas de cuota estatales y zonas
+vía de las autopistas de cuota estatales y
 
-aledañas $4,523.
+zonas aledañas. $4,613.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-IV. Por el estudio técnico de planos, proyectos y
+IV. Por el estudio técnico de planos, proyectos
 
-memorias de cálculo, para obras e instalaciones
+y memorias de cálculo, para obras e instalaciones
 
 marginales dentro del derecho de vía de las
 
@@ -3601,17 +3823,19 @@ autopistas de cuota estatales y zonas aledañas,
 
 por cada 100 metros lineales o fracción que exceda
 
-de dicha longitud $4,523.
+de dicha longitud $4613.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por el estudio técnico para validación y restitución
+V. Por el estudio técnico para validación
 
-del derecho de vía de las autopistas de cuota
+y restitución del derecho de vía de las
 
-estatales y zonas aledañas $857.
+autopistas de cuota estatales y zonas
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+aledañas $874.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 VI. Por el estudio técnico de planos, proyectos
 
@@ -3621,189 +3845,209 @@ obras por cruzamientos superficiales, subterráneos
 
 o aéreos que atraviesen las autopistas de cuota
 
-estatales y zonas aledañas $3,332.
+estatales y zonas aledañas $3,399.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VII. Por el estudio técnico de planos, proyectos y
+VII. Por el estudio técnico de planos, proyectos
 
-memorias de cálculo para la construcción de obras
+y memorias de cálculo para la construcción de
 
-e instalaciones marginales subterráneas, que se
+obras e instalaciones marginales subterráneas,
 
-realicen dentro de los derechos de vía de las
+que se realicen dentro de los derechos de vía
 
-autopistas de cuota estatales y zonas aledañas,
+de las autopistas de cuota estatales y zonas
 
-por kilómetro lineal o fracción $857.
+aledañas, por kilómetro lineal o fracción. $874.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 VIII. Por el estudio técnico del proyecto y aprobación de obras para paradores integrales de servicio en las autopistas de cuota estatales y zonas aledañas:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Con superficie total del proyecto hasta
+A). Con superficie total del proyecto hasta 3,000
 
-3,000 metros cuadrados $36,942.
+metros cuadrados $37,681.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Con superficie total del proyecto hasta
+B). Con superficie total del proyecto hasta 5,000
 
-5,000 metros cuadrados $43,991.
+metros cuadrados $44,871.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Con superficie total del proyecto hasta
+C). Con superficie total del proyecto hasta 10,000
 
-10,000 metros cuadrados $51,511.
+metros cuadrados $52,541.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Con superficie mayor a los 10,000 m2,
+D). Con superficie mayor a los 10,000 m2, para
 
-para cada 1,000 metros cuadrados adicionales $1,476.
+cada 1,000 metros cuadrados adicionales $1,506.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-IX. Por el permiso para la instalación de cada
+IX. Por el permiso para la instalación de cada señalamiento informativo sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas $169.
 
-señalamiento informativo sobre el derecho de
-
-vía de las autopistas de cuota estatales y zonas
-
-aledañas $166.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 X. Por el permiso para la instalación de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). De 2.00 y hasta 50.00 metros cuadrados $10,930.
+A). De 2.00 y hasta 50.00 metros cuadrados $11,149.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). De 51.00 y hasta 75.00 metros cuadrados $13,733
+B). De 51.00 y hasta 75.00 metros cuadrados $14,008.
 
-XI. Por el permiso para la construcción de accesos que afecten el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+XI. Por el permiso para la construcción de accesos que afecten el derecho de vía de las autopistas de cuota estatales y zonas aledañas
 
-A). Proyecto a realizar en terreno plano $14,710
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+A). Proyecto a realizar en terreno plano $15,004.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 B). Proyecto a realizar en terreno de lomerío con:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Geometría en corte $15,425.
+1. Geometría en corte $15,734.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Geometría en terraplén $16,186.
+2. Geometría en terraplén $16,510.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 C). Proyecto a realizar en terreno montañoso con:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Geometría en corte $18,376.
+1. Geometría en corte $18,744.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Geometría en terraplén $19,091.
+2. Geometría en terraplén $19,473.
 
 XII. Por el permiso del proyecto geométrico, estructura de pavimentos y obras hidráulicas en las autopistas de cuota estatales y zonas aledañas:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Por obras desarrolladas en un tramo de
+A). Por obras desarrolladas en un tramo
 
-1 kilómetro de longitud $14,710.
+de 1 kilómetro de longitud $15,004.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Por obras desarrolladas en un tramo mayor de
+B). Por obras desarrolladas en un tramo
 
-1 kilómetro y hasta 5 kilómetros de longitud $16,186.
+mayor de 1 kilómetro y hasta 5 kilómetros de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+longitud. $16,510.
 
-C). Por obras desarrolladas en un tramo mayor de
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5 kilómetros y hasta 20 kilómetros de longitud $19,091.
+C). Por obras desarrolladas en un tramo mayor
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de 5 kilómetros y hasta 20 kilómetros de
 
-D). Por obras desarrolladas en un tramo mayor de
+longitud $19,473.
 
-20 kilómetros, por cada kilómetro adicional $192.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+D). Por obras desarrolladas en un tramo
 
-XIII. Pago anual por el permiso para permanencia de cada señalamiento informativo sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas $166.
+Mayor de 20 kilómetros, por cada kilómetro
+
+adicional. $196.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XIII. Pago anual por el permiso para permanencia
+
+de cada señalamiento informativo sobre el
+
+derecho de vía de las autopistas de cuota estatales
+
+y zonas aledañas. $169.
 
 XIV. Pago anual por el permiso para la permanencia de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). De 2.00 y hasta 50.00 metros cuadrados $39,471.
+A). De 2.00 y hasta 50.00 metros cuadrados $40,260.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). De 51.00 y hasta 75.00 metros cuadrados $58,716.
+B). De 51.00 y hasta 75.00 metros cuadrados $59,890.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XV. Pago anual por la explotación de cada acceso que
+XV. Pago anual por la explotación de cada acceso
 
-afecte el derecho de vía de las autopistas de cuota estatales
+que afecte el derecho de vía de las autopistas
 
-y zonas aledañas $69,411.
+de cuota estatales y zonas aledañas. $70,799.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XVI. Pago anual por la permanencia de cada cruce
+XVI. Pago anual por la permanencia de cada
 
-subterráneo o aéreo en las autopistas de cuota estatales
+cruce subterráneo o aéreo en las autopistas de
 
-y zonas aledañas $2,664.
+cuota estatales y zonas aledañas. $2,717.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XVII. Pago anual por la permanencia de instalaciones
+XVII. Pago anual por la permanencia de
 
-marginales subterráneas, que el particular realice dentro
+instalaciones marginales subterráneas, que el
 
-de los derechos de vía de las autopistas de cuota
+particular realice dentro de los derechos de vía
 
-estatales y zonas aledañas, por kilómetro
+de las autopistas de cuota estatales y zonas
 
-lineal o fracción $667.
+aledañas, por kilómetro lineal o fracción. $680.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XVIII. Permiso por un día para la expedición de folletos
+XVIII. Permiso por un día para la expedición de
 
-o volantes en plataformas y casetas de las autopistas de
+Folletos o volantes en plataformas y casetas de
 
-cuota estatales y zonas aledañas $980.
+las autopistas de cuota estatales y zonas
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+aledañas. $1,000.
 
-XIX. Por verificación inicial para desvíos y maniobras
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-en plataformas e instalaciones sobre el derecho de vía
+XIX. Por verificación inicial para desvíos y
 
-de las autopistas de cuota estatales y zonas aledañas $5,885.
+maniobras en plataformas e instalaciones
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+sobre el derecho de vía de las autopistas
 
-XX. Por la verificación inicial para la construcción de
+de cuota estatales y zonas aledañas $6,003.
 
-obras por cruzamientos superficiales, subterráneos o
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-aéreos que atraviesen las autopistas de cuota estatales
+XX. Por la verificación inicial para la
 
-y zonas aledañas $14,433.
+Construcción de obras por cruzamientos
+
+superficiales, subterráneos o aéreos que
+
+atraviesen las autopistas de cuota
+
+estatales y zonas aledañas $14,722.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -3821,49 +4065,51 @@ A). Servicio regular de pasaje.
 
 1. Colectivo:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobuses de 1ª . clase $17,668
+a). Autobuses de 1ª. clase $18,021.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Autobuses de 2ª . clase $14,486.
+b). Autobuses de 2ª. Clase $14,776.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Minibuses $14,486.
+c). Minibuses $14,776.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Vagonetas $14,486.
+d). Vagonetas $14,776.
 
 2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 3. Mixto:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Camioneta de carga y pasaje $11,779.
+a). Camioneta de carga y pasaje $12,015.
 
 B). Servicio discrecional de pasaje:
 
 1. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Vehículo de cuatro puertas sin incluir la del
+a). Vehículo de cuatro puertas sin incluir
 
-portaequipaje, con un máximo de cinco asientos y
+la del portaequipaje, con un máximo de
 
-un mínimo de cuatro, incluido el del operador $13,634.
+cinco asientos y un mínimo de cuatro,
+
+incluido el del operador $13,907.
 
 C). Por estudios técnicos y económicos, a solicitud de los particulares, para el otorgamiento de concesiones, ampliación de ruta y territorio de operación, referidos a:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 1. Concesiones para servicio de transporte
 
-de pasajeros. $1,177.
+de pasajeros $1,201.
 
 2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
@@ -3873,41 +4119,43 @@ A). Servicio regular de pasaje:
 
 1. Colectivo:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobuses de 1ª. Clase $14,135.
+a). Autobuses de 1ª. Clase $14,418.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Autobuses de 2ª. Clase $11,779.
+b). Autobuses de 2ª. Clase $12,015.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Minibuses $11,779.
+c). Minibuses $12,015.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Vagonetas $11,588.
+d). Vagonetas $11,820.
 
 2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 3. Mixto:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Camioneta mixta de carga y pasaje $9,424.
+a). Camioneta mixta de carga y pasaje $9,427.
 
 B). Servicio discrecional de pasaje:
 
 1. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Vehículo de cuatro puertas sin incluir la del
+a). Vehículo de cuatro puertas sin incluir
 
-portaequipaje, con un máximo de 5 asientos y
+la del portaequipaje, con un máximo de 5
 
-un mínimo de cuatro, incluido el operador $11,779.
+asientos y un mínimo de cuatro, incluido
+
+el del operador $12,015.
 
 III. Por la prórroga o cambio de temporalidad de vigencia de la concesión, que se refieran a las modalidades de:
 
@@ -3915,43 +4163,45 @@ A). Servicio regular de pasaje:
 
 1. Colectivo:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobuses de 1ª. Clase $8,833.
+a). Autobuses de 1a. Clase $9,010.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Autobuses de 2ª. Clase $7,362.
+b). Autobuses de 2a. Clase $7,509.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Minibuses $7,362.
+c). Minibuses $7,509.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Vagonetas $7,362.
+d). Vagonetas $7,509.
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005) (REPUBLICADO, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 2. Alta capacidad o masivo $0.
 
 3. Mixto:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Camioneta mixta de carga y pasaje $5,889.
+a). Camioneta mixta de carga y pasaje $6,007.
 
 B). Servicio discrecional de pasaje:
 
 1. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Vehículo de cuatro puertas sin incluir la del
+a). Vehículo de cuatro puertas sin incluir la
 
-portaequipaje, con un máximo de cinco asientos
+del portaequipaje, con un máximo de cinco
 
-y un mínimo de cuatro, incluido la del operador. $7,362.
+asientos y un mínimo de cuatro, incluido el
+
+del operador $7,509.
 
 Las tarifas establecidas en esta fracción, amparan la prórroga o cambio de la temporalidad de vigencia de las concesiones por un período hasta de diez años, pudiendo los contribuyentes solicitar la prestación de estos servicios por anualidad, para lo cual se pagarán los derechos correspondientes en forma proporcional al período solicitado, cuando así lo acuerde la autoridad administrativa.
 
@@ -3961,59 +4211,63 @@ A). Servicio discrecional de pasaje en la modalidad especializado:
 
 1. Vehículos de transporte de pasaje especializado escolar y personal de empresa:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $1,647.
+a). Autobús $1,680.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $1,647.
+b). Minibús $1,680.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vagonetas $1,414.
+c). Vagonetas $1,442.
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $3,534.
+a). Autobús $3,605.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $3,534.
+b). Minibús $3,605.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vagonetas $2,356.
+c). Vagonetas $2,403.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Bicitaxis $477.
+d) Bicitaxis $487.
 
 B). El servicio de transporte de carga en general:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Capacidad hasta de 3,000 kgs. $1,647.
+1. Capacidad hasta de 3,000 kgs. $1,680.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Capacidad de carga de más de 3,000 kgs. $2,356.
+2. Capacidad de carga de más de
+
+3,000 kgs. $2,403.
 
 C). El servicio especializado de carga:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Capacidad hasta de 3,000 kgs. $1,762.
+1. Capacidad hasta de 3,000 kgs. $1,797.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Capacidad de carga de más de 3,000 kgs. $2,356.
+2. Capacidad de carga de más de
+
+3,000 kgs $2,403.
 
 D). El servicio discrecional de arrastre o de salvamento:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 1. Grúas de arrastre u otros vehículos
 
@@ -4021,159 +4275,193 @@ especializados para trasladar vehículos
 
 impedidos mecánica o legalmente para
 
-su auto-desplazamiento $7,068
+su auto-desplazamiento. $7,209.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 2. Grúas de salvamento u otros vehículos
 
-especializados para el rescate de personas,
+especializados para el rescate de
 
-objetos o animales que se encuentren en
+personas, objetos o animales que se
 
-situaciones de peligro o atenten contra la
+encuentren en situaciones de peligro o
 
-seguridad de terceros en sus personas o
+que atenten contra la seguridad de
 
-bienes $7,068.
+terceros en sus personas o bienes $7,209.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Servicio de depósito de vehículos para guarda
+3. Servicio de depósito de vehículos
 
-y custodia de vehículos accidentados o a disposición
+para guarda y custodia de vehículos
 
-de autoridades diversas por cada corralón $5,026.
+accidentados o a disposición de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+autoridades diversas por cada corralón $5,127.
 
-4. Realización de estudios técnicos relativos a los
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-numerales anteriores a que se refiere este inciso $1,177.
+4. Realización de estudios técnicos
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+relativos a los numerales anteriores
 
-5. Por la realización de estudios técnicos y económicos a solicitud de los particulares, para el otorgamiento de permisos en la modalidad de vehículos de propulsión no mecánica $93.60
+a que se refiere este inciso. $1,201.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-E). Por el Otorgamiento de permiso o autorización de bases, sitios o lanzaderas, por cada uno de ellos $1,038.
+5. Por la realización de estudios
+
+técnicos y económicos a solicitud
+
+de los particulares, para el
+
+otorgamiento de permisos en la
+
+modalidad de vehículos de
+
+propulsión no mecánica. $95.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+E). Por el Otorgamiento de permiso o
+
+autorización de bases, sitios o
+
+lanzaderas, por cada uno de ellos $1,059.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 F). Los servicios conexos al servicio público de transporte:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por el otorgamiento de permiso para el
+1. Por el otorgamiento de permiso para
 
-establecimiento de terminales de pasaje $4,761.
+el establecimiento de terminales de pasaje $4,856.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por el otorgamiento de permiso para el establecimiento
+2. Por el otorgamiento de permiso para
 
-de bahías de ascenso y descenso $1,428.
+el establecimiento de bahías de ascenso
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+y descenso $1,457.
 
-3. Por el otorgamiento de permiso para el establecimiento
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-de cobertizos $2,381.
+3. Por el otorgamiento de permiso para
+
+el establecimiento de cobertizos $2,429.
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Por la realización de estudios técnicos para el
+5. Por la realización de estudios técnicos
 
-establecimiento de terminales de pasaje $4,761.
+para el establecimiento de terminales
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de pasaje $4,856.
 
-6. Por la realización de estudios técnicos para el
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-establecimiento de bahías de ascenso y descenso $1,428.
+6. Por la realización de estudios técnicos
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+para el establecimiento de bahías de
 
-7. Por la realización de estudios técnicos para el
+ascenso y descenso $1,457.
 
-establecimiento de cobertizos $2,381.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+7. Por la realización de estudios técnicos
+
+para el establecimiento de cobertizos $2,429.
 
 8. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-9. Por la realización de estudios técnicos y económicos
+9. Por la realización de estudios técnicos y
 
-a solicitud de los particulares, para el otorgamiento de
+económicos a solicitud de los particulares,
 
-concesiones y permisos en todas sus modalidades, por
+para el otorgamiento de concesiones y
 
-unidad vehicular $1,177.
+permisos en todas sus modalidades, por
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+unidad vehicular $1,201.
 
-10. Por la realización de estudios técnicos y económicos
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a solicitud de los particulares, para la autorización de
+10. Por la realización de estudios técnicos y
 
-ruta o derrotero, enlace, enrolamiento, sitios, bases
+económicos a solicitud de los particulares,
 
-o lanzaderas $2,944.
+para la autorización de ruta o derrotero, enlace,
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+enrolamiento, sitios, bases o lanzaderas $3,003.
 
-11. Para la realización de estudios técnicos y
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-económicos a solicitud de los particulares, para la
+11. Por la realización de estudios técnicos y
 
-modificación de ruta o derrotero, enlace, enrolamiento,
+económicos a solicitud de los particulares,
 
-sitios, bases o lanzaderas $2,944.
+para la modificación de ruta o derrotero,
+
+enlace, enrolamiento, sitios, bases o
+
+lanzaderas $3,003.
 
 12. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 G). La instalación y explotación de anuncios publicitarios en el transporte:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por la obtención del permiso para la instalación de
+1. Por la obtención del permiso para la
 
-anuncios publicitarios $2,380.
+instalación de anuncios publicitarios $2,428.
 
 2. Por la instalación y explotación de anuncios publicitarios por el período de ciento veinte días por unidad vehicular:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $477.
+a). Autobús $487.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $333.
+b). Minibús $340.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vehículo de cuatro puertas sin incluir la del
+c). Vehículo de cuatro puertas sin incluir la
 
-portaequipaje, con un máximo de cinco asientos
+del portaequipaje, con un máximo de cinco
 
-y un mínimo de cuatro, incluido el operador $285.
+asientos y un mínimo de cuatro, incluido el
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+del operador $291.
 
-d). Vagonetas $192.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+d). Vagonetas $196.
 
 H). Por estudios técnicos y económicos a solicitud de los particulares por el otorgamiento de permisos referidos a:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Permisos para vehículos de transporte de pasaje
+1. Permisos para vehículos de transporte
 
-especializado escolar personal de empresa y turismo,
+de pasaje especializado escolar, personal de
 
-de carga en general, especializado de carga y el
+empresa y turismo, de carga en general,
 
-servicio de arrastre o salvamento $589.
+especializado de carga y el servicio de
+
+arrastre o salvamento $601.
 
 V. Por la cesión de derechos o cambio de titular del permiso respecto de:
 
@@ -4181,103 +4469,113 @@ A). El servicio discrecional de pasaje:
 
 1. Transporte de pasaje especializado escolar y personal de empresa:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $1,414.
+a). Autobús $1,442.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $1,414.
+b). Minibús $1,442.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vagoneta $1,130.
+c). Vagoneta $1,153.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 2. El servicio de transporte de pasaje especializado o individual.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $2,826.
+a). Autobús $2,883.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $2,826.
+b). Minibús $2,883.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vagonetas $1,884.
+c). Vagonetas $1,922.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Vehículos de propulsión no mecánica, bicitaxis $233.
+d). Vehículos de propulsión no mecánica,
+
+bicitaxis $238.
 
 B). El servicio de carga en general y especializado de carga:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Capacidad hasta de 3000 kgs. $883.
+1. Capacidad hasta de 3000 kgs. $901.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Capacidad de más de 3000 kgs. $1,178.
+2. Capacidad de más de 3000 Kgs. $1,202.
 
 C). El servicio discrecional de arrastre o de salvamento:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Grúas de arrastre u otros vehículos especializados
+1. Grúas de arrastre u otros vehículos
 
-para trasladar vehículos impedidos mecánica o
+especializados para trasladar vehículos
 
-legalmente para su auto-desplazamiento $7,068.
+impedidos mecánica o legalmente para
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+su auto-desplazamiento $7,209.
 
-2. Grúas de salvamento u otros vehículos especializados
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-para el rescate de personas, objetos o animales que se
+2. Grúas de salvamento u otros vehículos
 
-encuentren en situaciones de peligro o que atenten
+especializados para el rescate de personas,
 
-contra la seguridad de terceros en sus personas
+objetos o animales que se encuentren en
 
-o bienes $7,068.
+situaciones de peligro o que atenten contra
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+la seguridad de terceros en sus personas
 
-3. El servicio de depósito de vehículos por cesión de
+o bienes $7,209.
 
-derechos o cambio de titular de permiso para guarda
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-y custodia de vehículos accidentados o a disposición
+3. Servicio de depósito de vehículos por
 
-de autoridades diversas, por cada corralón $5,026.
+cesión de derechos o cambio de titular de
+
+permiso para guardar y custodia de vehículos
+
+accidentados o a disposición de autoridades
+
+diversas, por cada corralón $5,127.
 
 D). Los servicios conexos:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Terminales de pasaje $4,761.
+1. Terminales de pasaje $4,856.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Bahías de ascenso y descenso $1,667.
+2. Bahías de ascenso y descenso $1,700.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Cobertizos $1,428.
+3. Cobertizos $1,457.
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
 E). La instalación de anuncios publicitarios en el transporte:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por la cesión de derechos o cambio de titular del
+1. Por la cesión de derechos o cambio de
 
-permiso para la instalación de anuncios publicitarios $1,190.
+titular del permiso para la instalación de
+
+anuncios publicitarios $1,214.
 
 VI. Por la prórroga o cambio de la temporalidad de vigencia del permiso respecto de:
 
@@ -4285,95 +4583,103 @@ A). El servicio discrecional de pasaje:
 
 1. El servicio de transporte de pasaje especializado escolar y personal de empresa:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $883.
+a). Autobús $901.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $707.
+b). Minibús $721.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vagonetas $707.
+c). Vagonetas $721.
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobús $1,767.
+a). Autobús $1,802.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Minibús $1,767.
+b). Minibús $1,802.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Vagonetas $1,178.
+c ). Vagonetas $1,202.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-d). Bicitaxi $477.
+d). Bicitaxi $487.
 
 B). El servicio de transporte de carga en general y especializado de carga:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Capacidad de hasta 3000 Kgs. $883.
+1. Capacidad de hasta 3000 Kgs. $901.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Capacidad de más de 3000 Kgs. $1,178.
+2. Capacidad de más de 3000 Kgs. $1,202.
 
 C). El servicio discrecional de arrastre o de salvamento:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Grúas de arrastre u otros vehículos especializados
+1. Grúas de arrastre u otros vehículos
 
-para trasladar vehículos impedidos mecánica o
+especializados para trasladar vehículos
 
-legalmente para su auto-desplazamiento $3,533.
+impedidos mecánica o legalmente para
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+su auto-desplazamiento $3,604.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 2. Grúas de salvamento u otros vehículos
 
-especializados para el rescate de personas, objetos
+especializados para el rescate de personas,
 
-o animales que se encuentren en situaciones de
+objetos o animales que se encuentren en
 
-peligro o que atenten contra la seguridad de terceros
+situaciones de peligro o que atenten contra
 
-en sus personas o bienes $3,533.
+la seguridad de terceros en sus personas
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+o bienes $3,604.
 
-3. Servicio de depósito de vehículos para guarda
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-y custodia de vehículos accidentados o a disposición
+3. Servicio de depósito dé vehículos para
 
-de autoridades diversas por cada corralón $5,026.
+guarda y custodia de vehículos accidentados
+
+o a disposición de autoridades diversas por
+
+cada corralón. $5,127.
 
 D). Los servicios conexos, por el establecimiento de:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Terminales de pasaje $2,381.
+1. Terminales de pasaje $2,429.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Bahías de ascenso y descenso $857.
+2. Bahías de ascenso y descenso $874.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Cobertizos $715.
+3. Cobertizos $729.
 
-4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+4. (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-E). El permiso para la instalación de anuncios publicitarios: $2,381.
+E). El permiso para la instalación de
+
+anuncios publicitarios: $2,429.
 
 En la prorroga o cambio de la temporalidad de vigencia de permisos para servicios de arrastre y de salvamento, depósito de vehículos y servicio de transporte especializado, que en términos del Reglamento de Transporte Público y Servicios Conexos del Estado de México, opten por la certificación de calidad respecto de dichos servicios y los bienes afectos a los mismos, acreditándolo debidamente ante la autoridad de transporte, se encontrarán exentos del pago que se contempla en esta fracción.
 
@@ -4381,47 +4687,81 @@ Se exceptúan de lo anterior, los permisos para servicio con vehículos de propu
 
 VII. Por la expedición de autorizaciones o modificaciones complementarias de las concesiones y permisos que correspondan, respecto de:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Autorización de ruta o área geográfica de operación del servicio público del (sic) transporte en las modalidades de colectivo, mixto, individual de automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base tipo intraurbano o suburbano, de carga, especializado de carga, de arrastre y de salvamento, por cada vehículo $1,456.
+A). Autorización de ruta o área geográfica
+
+de operación del servicio público de transporte
+
+en las modalidades de colectivo, mixto,
+
+individual de automóvil de alquiler de sitio,
+
+de alquiler de radio servicio y de alquiler sin
+
+base tipo intraurbano o suburbano, de carga,
+
+especializado de carga, de arrastre y de
+
+salvamento, por cada vehículo. $1,485.
 
 B). Modificación de rutas o área geográfica de operación del servicio público de transporte en las modalidades referidas en el inciso que antecede, por cada vehículo:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. De enrolamiento $1,038.
+1. De enrolamiento $1,059.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por la fusión de dos rutas como resultado de un enlace $1,038.
+2. Por la fusión de dos rutas como resultado
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de un enlace $1,059.
 
-3. De su derrotero por cambios de sentido de la
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-circulación vehicular $116.
+3. De su derrotero por cambios de sentido
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de la circulación vehicular $118.
 
-4. La reducción de su longitud por reubicarse su
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-origen o destino, reduciendo el derrotero $116.
+4. La reducción de su longitud por reubicarse
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+su origen o destino, reduciendo el derrotero $118.
 
-5. De frecuencia de la ruta o derrotero $1,038.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+5. De frecuencia de la ruta o derrotero $1,059.
 
-6. Por el cambio de base en los lugares de origen o destino $1,456.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+6. Por el cambio de base en los lugares de
 
-C). Autorización de las tarifas a que se sujetará la operación del servicio público de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo $166.
+origen o destino. $1,485.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Autorización de la cromática de los vehículos y equipos afectos a los servicios de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo $525.
+C). Autorización de las tarifas a que se
+
+sujetará la operación del servicio público de
+
+transporte en las modalidades referidas en
+
+los incisos A) Y B) anteriores, por cada
+
+vehículo. $169.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+D). Autorización de la cromática de los
+
+vehículos y equipos afectos a los servicios
+
+de transporte en las modalidades referidas
+
+en los incisos A) y B) anteriores, por cada
+
+vehículo. $536.
 
 E). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
@@ -4433,129 +4773,135 @@ VIII. Por la expedición inicial de licencias o de permisos para conducir vehíc
 
 A). Chofer para servicio público:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por cuatro años de vigencia $1,111.
+1. Por cuatro años de vigencia $1,133.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por tres años de vigencia $831.
+2. Por tres años de vigencia $848.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Por dos años de vigencia $625.
+3. Por dos años de vigencia $638.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Por un año de vigencia $468.
+4. Por un año de vigencia $477.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 B). Chofer para servicio particular:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por cuatro años de vigencia $825.
+1. Por cuatro años de vigencia $842.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por tres años de vigencia $619.
+2. Por tres años de vigencia $631.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Por dos años de vigencia $464.
+3. Por dos años de vigencia $473.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Por un año de vigencia $348.
+4. Por un año de vigencia $355.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 C). Automovilista:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por cuatro años de vigencia $632.
+1. Por cuatro años de vigencia $645.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por tres años de vigencia $475.
+2. Por tres años de vigencia $485.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Por dos años de vigencia $356.
+3. Por dos años de vigencia $363.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Por un año de vigencia $266.
+4. Por un año de vigencia $271.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 D). Motociclista:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por cuatro años de vigencia $632.
+1. Por cuatro años de vigencia $645.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por tres años de vigencia $475.
+2. Por tres años de vigencia $485.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Por dos años de vigencia $356.
+3. Por dos años de vigencia $363.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-4. Por un año de vigencia $266.
+4. Por un año de vigencia $271.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 E). Por la expedición de permiso provisional de practica "B".
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por dos años de vigencia $356.
+1. Por dos años de vigencia $363.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Por un año de vigencia $266.
+2. Por un año de vigencia $271.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-F). Por la expedición de permiso provisional de practica "A". $1,264.
+F). Por la expedición de permiso provisional
+
+de practica "A". $1,289.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-IX. Duplicado de licencias y permisos, con la vigencia
+IX. Duplicado de licencias y permisos, con la
 
-del documento expedido originalmente y con la leyenda
+vigencia del documento expedido originalmente
 
-de "Duplicado" $178.
+y con la leyenda de "Duplicado" $182.
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 X. Por la expedición de medios de identificación para manejar vehículos automotores y equipos afectos al servicio público de transporte:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Por la expedición de la tarjeta de identificación personal
+A). Por la expedición de la tarjeta de
 
-para operadores de transporte público, por año $ 726.
+identificación personal para operadores
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
+de transporte público, por año $741.
 
-B). Por el duplicado de la tarjeta de identificación personal
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-para operadores de transporte público con la vigencia
+B). Por el duplicado de la tarjeta de
 
-del documento expedido originalmente y con la leyenda
+identificación personal para operadores
 
-"Duplicado" $ 530.
+de transporte público con la vigencia del
+
+documento expedido originalmente y con
+
+la leyenda "Duplicado". $541.
 
 La expedición de la tarjeta de identificación personal incluye exámenes medico, psicométrico y toxicológico.
 
@@ -4565,265 +4911,343 @@ XI. Por los servicios de control vehicular se pagarán los siguientes derechos:
 
 A). Servicio público de transporte:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Por la expedición o reposición, en su caso, de placas,
+1. Por la expedición o reposición, en su
 
-tarjeta de circulación y calcomanía para vehículos de
+caso, de placas, tarjeta de circulación y
 
-servicio público en todas sus clases, modalidades
+calcomanía para vehículos de servicio
 
-y tipos $763.
+público en todas sus clases, modalidades
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+y tipos. $778.
 
-2. Por refrendo anual para vehículos afectos a la prestación
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-del servicio público del transporte en todas sus clases,
+2. Por refrendo anual para vehículos afectos
 
-modalidades y tipos, a excepción del servicio de carga en
+a la prestación del servicio público del
 
-general y especializado de carga $551.
+transporte en todas sus clases, modalidades
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+y tipos, a excepción del servicio de carga en
 
-3. Por cambio de propietario o reposición de calcomanía
+general y especializado de carga. $562.
 
-de vehículo afectos a la prestación del servicio público de
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-transporte en todas sus modalidades y tipos $111.
+3. Por cambio de propietario o reposición
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+de calcomanía de vehículo afectos a la
 
-4. Cambio de vehículo afecto a la prestación del servicio
+prestación del servicio público de
 
-público de transporte, en todas sus modalidades $294.
+transporte en todas sus modalidades y tipos. $113.
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-5. Por el trámite de baja de placas para vehículos
+4. Cambio de vehículo afecto a la prestación
 
-afectos a la prestación del servicio público de
+del servicio público de transporte, en todas
 
-transporte en todas sus clases, modalidades y tipos $224.
+sus modalidades $300.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-6. Por expedición o reposición de placa y tarjeta de
+5. Por el trámite de baja de placas para
 
-circulación, para vehículos de servicio público en la
+vehículos afectos a la prestación del servicio
 
-modalidad de individual en vehículo de propulsión no
+público de transporte en todas sus clases,
 
-mecánica $234.
+modalidades y tipos. $228.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+6. Por expedición o reposición de placa y
+
+tarjeta de circulación, para vehículos
+
+de servicio público en la modalidad de
+
+individual en vehículo de propulsión
+
+no mecánica. $239.
 
 B). Transporte particular y comercial:
 
 1. Por la expedición inicial o reposición de placas, tarjeta de circulación y calcomanía:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Para vehículos de servicio particular y
+a). Para vehículos de servicio particular
 
-capacidades diferentes $360.
+y capacidades diferentes. $367.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Para vehículos destinados a carga mercantil $621.
+b). Para vehículos destinados a
+
+carga mercantil $633.
 
 c). Para remolques:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Con capacidad de carga de hasta 1,000 Kg. $649.
+Con capacidad de carga de hasta 1,000 Kg. $662.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Con capacidad de carga de 1,001 a 5,000 Kg. $776.
+Con capacidad de carga de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1,001 a 5,000 Kg. $792.
 
-Con capacidad de carga de 5001 a 10,000 Kg. $927.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Con capacidad de carga de
 
-Con capacidad de carga de 10,001 Kg., en adelante $1,263.
+5001 a 10,000 Kg. $946.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+Con capacidad de carga de
+
+10,001 Kg., en adelante $1,288.
 
 d). Para motocicleta:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Cilindrada 350 c.c. $346.
+Cilindrada 350 c.c. $353.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Cilindrada 351 c.c. en adelante $416
+Cilindrada 351 c.c., en adelante $424.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-e). Para auto antiguo $897.
+e). Para auto antiguo $915.
 
 2. Por refrendo anual:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Para vehículos de uso particular y capacidades diferentes $164.
+a). Para vehículos de uso particular
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+y capacidades diferentes $167.
 
-b). Para vehículos destinados a carga mercantil $466.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+b). Para vehículos destinados a
+
+carga mercantil $475.
 
 c). Para remolques:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Con capacidad de carga de hasta 1,000 Kg. $649.
+Con capacidad de carga de hasta 1,000 Kg. $662.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Con capacidad de carga de 1,001 a 5,000 Kg. $776.
+Con capacidad de carga de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+1,001 a 5,000 Kg. $792.
 
-Con capacidad de carga de 5001 a 10,000 Kg. $927.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Con capacidad de carga de
 
-Con capacidad de carga de 10,001 Kg., en adelante $1,263.
+5001 a 10,000 Kg. $946.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+Con capacidad de carga de
+
+10,001 Kg., en adelante $1,288.
 
 d). Para motocicleta:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Cilindrada 350 c.c. $346.
+Cilindrada 350 c.c. $353.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Cilindrada 351 c.c., en adelante $416.
+Cilindrada 351 C.C., en adelante $424.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-e). Para auto antiguo $897.
+e). Para auto antiguo $915.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Por el duplicado o reposición de la tarjeta de circulación $197.
+3. Por el duplicado o reposición de
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Ia tarjeta de circulación $201.
 
-4. Por cambio de propietario o reposición de calcomanía $197.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+4. Por cambio de propietario o reposición
+
+de calcomanía $201.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2005)</small>
 
 5. Por la expedición de permiso para circular sin placas sin tarjeta de circulación y sin calcomanía hasta por treinta días:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Para vehículos de uso particular $111.
+a). Para vehículos de uso particular $113.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Para vehículos destinados a carga mercantil $224.
+b). Para vehículos destinados a
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+carga mercantil $228.
 
-c). Para remolques $224.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+c). Para remolques $228.
 
-d). Para motocicleta $108.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+d). Para motocicleta $110.
 
 6. Por la expedición del permiso para transportar carga en vehículo particular:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Por ciento ochenta días $551.
+a). Por ciento ochenta días $562.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Para motocicletas y motonetas, por cada 30 días $82.
+b). Para motocicletas y motonetas,
+
+por cada 30 días $84.
 
 7. Por el trámite de baja de vehículos:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Particular $224.
+a). Particular $228.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-b). Vehículos de carga mercantil $336.
+b). Vehículos de carga mercantil $343.
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-c). Particular emplacado en otra entidad federativa $0.
+c). Particular emplacado en otra
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+entidad federativa $0.
 
-d). Remolque $321.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+d). Remolque $327.
 
-e). Remolque emplacado en otra entidad federativa $0.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+e). Remolque emplacado en otra
 
-f). Motocicleta y motoneta $336.
+entidad federativa $0.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-g). Motocicleta y motoneta emplacada en otra entidad federativa $0.
+f). Motocicleta y motoneta $343.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-8. Por la expedición del permiso para agencia autorizada: $111.
+g). Motocicleta y motoneta emplacada
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
+en otra entidad federativa $0.
 
-9. Por la expedición del permiso en demostración y traslado: $111.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+8. Por la expedición del permiso para
 
-XII. Expedición de permiso de transporte público
+agencia autorizada $113.
 
-en otras modalidades $589.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+9. Por la expedición del permiso en
+
+demostración y traslado $113.
+
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XII. Expedición de permiso de transporte
+
+público en otras modalidades $601.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 XIII. Por otros servicios relativos al transporte particular y comercial, se pagarán los siguientes derechos:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Por la práctica anual de revista a vehículos
+A). Por la práctica anual de revista a
 
-particulares de carga $284.
+vehículos particulares de carga. $290.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Por la reposición del tarjetón de revista anual $121.
+B). Por la reposición del tarjetón de
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2005)
+revista anual. $123.
 
-C). Por los servicios de certificación de extravío, mutilación o deterioro de documentos que amparen la circulación del vehículo $41.
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+C). Por los servicios de certificación de
+
+extravío, mutilación o deterioro de
+
+documentos que amparen la circulación
+
+del vehículo. $42.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas jurídicas colectivas, unidades o empresas económicas.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Autorización $7,687.
+A). Autorización $7,841.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Refrendo $154.
+B). Refrendo $157.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-XV. Por la realización de estudios técnicos y económicos para el establecimiento de bases o concesionarios del Gobierno del Distrito Federal; personas físicas o jurídicas colectivas, unidades o empresas económicas $2,944.
+XV. Por la realización de estudios técnicos
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+y económicos para el establecimiento
 
-XVI. Expedición del permiso para el establecimiento de bases a concesionarios del Gobierno del Distrito Federal, que hayan sido autorizados para prestar el servicio público de autotransporte colectivo de pasajeros, en rutas fijas dentro del territorio del Estado $328.
+de bases o concesionarios del Gobierno
+
+del Distrito Federal; personas físicas o
+
+jurídicas colectivas, unidades o empresas
+
+económicas. $3,003.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XVI. Expedición del permiso para el
+
+establecimiento de bases a concesionarios
+
+del Gobierno del Distrito Federal, que
+
+hayan sido autorizados para prestar el
+
+servicio público de autotransporte colectivo
+
+de pasajeros, en rutas fijas dentro del
+
+territorio del Estado. $335.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4831,29 +5255,25 @@ XVI. Expedición del permiso para el establecimiento de bases a concesionarios d
 
 Por los servicios prestados por la Secretaría del Medio Ambiente que a continuación se mencionan, se pagarán los siguientes derechos:
 
-TARIFA
+CONCEPTO TARIFA
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-CONCEPTO
+I. Por la búsqueda y reposición de la
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Constancia sobre los resultados de la
 
-I. Por la búsqueda y reposición de la constancia
+verificación del vehículo automotor. $108.
 
-sobre los resultados de la verificación del vehículo
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-automotor $106.
+II. Por la expedición de la constancia que
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+Ampara a los vehículos que no quedan sujetos
 
-II. Por la expedición de la constancia que ampara
+Al programa "Hoy No Circula", conforme a las
 
-a los vehículos que no quedan sujetos al programa
-
-"Hoy No Circula", conforme a las normas técnicas
-
-emitidas al efecto $477.
+Normas técnicas emitidas al efecto. $487.
 
 III. Por el suministro y control, a los verificentros autorizados para efectuar la verificación de emisiones contaminantes, de la siguiente documentación:
 
@@ -4861,53 +5281,57 @@ III. Por el suministro y control, a los verificentros autorizados para efectuar 
 
 A). Por cada holograma tipo "cero cero":
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 1. Vehículos cuyo servicio sea de
 
-uso intensivo $285.
+uso intensivo $291.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Vehículos de servicio particular $285.
+2. Vehículos de servicio particular $291.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Por cada holograma tipo "cero". $32.
+B). Por cada holograma tipo "cero". $33.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Por cada holograma tipo "uno". $25.
+C). Por cada holograma tipo "uno". $26.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-D). Por cada holograma tipo "dos". $25.
+D). Por cada holograma tipo "dos". $26.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-E). Por cada constancia de rechazo. $10.
+E). Por cada constancia de rechazo $10.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-IV. Por la expedición y grabación de la memoria del
+IV. Por la expedición y grabación de la
 
-sistema de seguridad y control del equipo de
+Memoria del sistema de seguridad y
 
-reducción de emisiones, mismo que será administrado
+Control del equipo de reducción de
+
+emisiones, mismo que será administrado
 
 por el Estado, para el Programa Integral de
 
-Reducción de Emisiones Contaminantes $192.
+Reducción de Emisiones Contaminantes. $196.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-V. Por la inscripción y expedición de constancia
+V. Por la inscripción y expedición de
 
-del padrón de vehículos mercantiles a domicilio
+constancia del padrón de vehículos
 
-que operan con combustibles alternos de gas licuado
+mercantiles a domicilio que operan con
 
-de petróleo, natural o diesel, por cada uno $520.
+combustibles alternos de gas licuado
+
+de petróleo, natural o diesel, por cada uno. $530.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -4917,71 +5341,73 @@ El Gobernador emitirá semestralmente, por los servicios de verificación vehicu
 
 Por la evaluación del impacto ambiental, que efectúe la autoridad competente, en los términos de los ordenamientos jurídicos aplicables, se pagarán los siguientes derechos:
 
-TARIFA
-
-CONCEPTO
+CONCEPTO TARIFA
 
 INDUSTRIAL OTROS
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-I. Por la evaluación de la manifestación de
+I. Por la evaluación de la
 
-Impacto ambiental. $6,506. $6,695.
+Manifestación de impacto
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+ambiental $6,636. $6,829.
 
-II. Evaluación del estudio de riesgo ambiental $9,757. $10,044.
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+II. Evaluación del estudio de
+
+riesgo ambiental $9,952. $10,245.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 III. Por la evaluación de las solicitudes presentadas para la acreditación para la prestación de servicios profesionales en materia de impacto y riesgo ambiental.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Impacto $2,681.
+A). Impacto $2,735.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Riesgo $ 2,681.
+B). Riesgo $2,735.
 
 > <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 IV. Por la evaluación del Informe previo de impacto ambiental:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Industria $3,089.
+A). Industria $3,151.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Otros $3,183.
+B). Otros $3,247.
 
 > <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 V. Por expedición del oficio de prórroga de la vigencia de la resolución que contenga el análisis respecto de:
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-A). Informe Previo $1,544.
+A). Informe previo $1,575.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-B). Manifestación de impacto ambiental $3,189.
+B). Manifestación de impacto ambiental $3,253.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-C). Estudio de riesgo $4,783.
+C). Estudio de riesgo $4,879.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-VI. Por la expedición del oficio que determine que
+VI. Por la expedición del oficio que determine
 
-una obra y/o actividad no requiere someterse al
+que una obra y/o actividad no requiere
 
-procedimiento de evaluación en materia de impacto
+someterse al procedimiento de evaluación en
 
-ambiental. $315.
+materia de impacto ambiental $321.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4989,7 +5415,7 @@ No pagarán los derechos previstos en este artículo los fraccionadores de conju
 
 ###### Artículo 99 Bis.
 
-(DEROGADO, G.G. 6 DE DICIEMBRE DE 2002)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -4997,27 +5423,23 @@ No pagarán los derechos previstos en este artículo los fraccionadores de conju
 
 Por la evaluación permanente a verificentros autorizados, se pagará una cuota anual conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-CONCEPTO
+I. Por cada línea de verificación con que
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
-
-I. Por cada línea de verificación con que cuente
-
-el verificentro $3,508.
+cuente el verificentro $3,578.
 
 II. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, G.G. 30 DE JUNIO DE 2006)</small>
 
 ###### Artículo 101.
 
-Por los análisis técnicos y económicos para la procedencia operativa de verificentros autorizados, se pagarán $7,018., por cada doce meses.
+Por los análisis técnicos y económicos para la procedencia operativa de verificentros autorizados, se pagarán $7,158., por cada doce meses.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -5025,21 +5447,21 @@ Por los análisis técnicos y económicos para la procedencia operativa de verif
 
 Por la expedición o prórroga de constancia, actualización o verificación de:
 
-TARIFA
+CONCEPTO TARIFA
 
-CONCEPTO
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+I. Funcionamiento de emisiones
 
-I. Funcionamiento de emisiones a la atmósfera $324.
+a la atmósfera $330.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-II. Generador de residuos no peligrosos $216.
+II. Generador de residuos no peligrosos. $220.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-III. Quema de materiales a cielo abierto $541.
+III. Quema de materiales a cielo abierto $552.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -5049,13 +5471,13 @@ Por la renovación anual de acreditación en el Programa Integral de Reducción 
 
 CONCEPTO TARIFA
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-Taller autorizado en el Programa Integral de
+Taller autorizado en el Programa Integral
 
-Reducción de Emisiones de Contaminantes
+de Reducción de Emisiones de
 
-(PIREC) $3,571.
+Contaminantes (PIREC) $3.642.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -5063,17 +5485,13 @@ Reducción de Emisiones de Contaminantes
 
 Por los servicios prestados por la Procuraduría General de Justicia del Estado, se pagarán derechos conforme a la siguiente:
 
-TARIFA
+CONCEPTO TARIFA
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-CONCEPTO
+I. Expedición de certificados de no
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE DICIEMBRE DE 2005)
-
-I. Expedición de certificados de no antecedentes
-
-penales. $48.
+antecedentes penales. $49.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -5097,7 +5515,7 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 
 ###### Artículo 104.
 
-(DEROGADO, G.G. 6 DE DICIEMBRE DE 2002)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
 #### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
@@ -5105,7 +5523,7 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 
 ###### Artículo 105.
 
-(DEROGADO, G.G. 6 DE DICIEMBRE DE 2002)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -5115,7 +5533,9 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 
 ###### Artículo 106.
 
-Por certificados expedidos por el Tribunal de lo Contencioso administrativo se pagarán los derechos establecidos en el artículo 70 Bis.
+Por certificados expedidos por el Tribunal de lo Contencioso Administrativo se pagarán los derechos establecidos en el artículo 70 Bis.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 No se pagarán estos derechos ni los establecidos en el artículo 70 Bis, cuando se expidan:
 
@@ -5963,7 +6383,7 @@ El usuario sujeto al pago de este derecho deberá presentar la declaración o re
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-Los derechos previstos en este artículo se pagarán en el momento en que se paguen los derechos por el suministro de agua potable dentro de los plazos que prevé este Código.
+Los derechos previstos en este artículo se pagarán en el momento en se que paguen los derechos por el suministro de agua potable dentro de los plazos que prevé este Código.
 
 > <small>(DEROGADO CUARTO PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -11846,3 +12266,9 @@ G.G. 30 DE DICIEMBRE DE 2005.
 Único.- Publíquese en el periódico oficial "Gaceta del Gobierno".
 
 EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE DEL ESTADO DE MEXICO.
+
+G.G. 30 DE JUNIO DE 2006.
+
+Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
