@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-arrendamientos-y-contratacion-33443
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2004-03-12"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de agosto de 2003.
 
@@ -417,6 +417,60 @@ IV. Los demás aspectos que se establezcan en las solicitudes de cotización.
 
 Las operaciones de adquisiciones, arrendamientos o servicios que se realicen mediante el procedimiento de cotización por escrito, se adjudicarán al proveedor que presente las mejores condiciones de calidad, precio, servicio, garantías, oportunidad y financiamiento.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 31 BIS.- Independientemente de lo señalado en los artículos a que se refiere este capítulo, todas las adquisiciones de bienes que realicen las dependencias, los organismos descentralizados y los fideicomisos de la Administración Pública Municipal a que hace referencia el artículo 1 del presente ordenamiento, independientemente del rango en que se encuentren, deberá insertarse, invariablemente su requisición, en medios electrónicos, también denominados medios remotos de comunicación electrónica.
+
+La inserción en dichos medios electrónicos de que se habla en el presente capítulo deberá ser en el Portal del Ayuntamiento, en la página del sistema denominado “Mexicali e-compr@s”.
+
+El sistema de que se habla en el párrafo anterior, con todos sus pasos, normas, bases, manuales y procedimientos, deberá ser validado por la Coordinación de Informática, la Oficialía y la Sindicatura Municipal, quienes estamparán su firma conservando, cada una de dichas dependencias, un tanto original de cada una de las versiones para su resguardo.
+
+Se exceptúa de lo anterior los casos de excepción previstos en el artículo 28 del presente reglamento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 31 TER.- Oficialía Mayor y las Dependencias que pretendan adquirir los bienes a que se refiere el presente ordenamiento, deberán insertar sus requisiciones en el sistema “Mexicali e-compr@s”, antes de hacer uso de las prerrogativas consignadas en las fracciones I, II, III y IV, del artículo 27 del presente reglamento.
+
+Si derivado de la publicación, de las requisiciones a que alude el párrafo anterior, se presentase mayor número de cotizaciones de las que estipulan las hipótesis contenidas en las fracciones del artículo 27 de este reglamento, se deberá analizar cada una de ellas buscando las mejores condiciones de calidad, precio, servicio, garantías, oportunidad y financiamiento, y será obligatorio, a través del sistema “Mexicali e-compr@s”, que se lleven a cabo las adquisiciones.
+
+Si únicamente se presentasen los mínimos que establecen las hipótesis contenidas en las fracciones II, III y IV del artículo 27 del presente ordenamiento, las Dependencias podrán hacer uso del derecho en las mismas consignado, y en los términos ahí estipulados. En el caso de la fracción I la adjudicación directa sólo se llevará a cabo si no se presentase cotización alguna.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 31 QUATER.- El procedimiento para la adquisición de bienes a través del sistema denominado “Mexicali e-compr@s” a que se refiere este capítulo se desarrollará de la siguiente forma:
+
+A).- Se inicia con la convocatoria que Oficialía y las Dependencias a que aluden las fracciones II y III del artículo 1 del presente ordenamiento deberán insertar, invariablemente, en el Portal del Ayuntamiento, en la página de Internet denominada “Mexicali e-compr@s” para la difusión de sus requisiciones, haciéndola llegar, concomitantemente, vía electrónica, a los proveedores registrados en el Registro de Proveedores del Ayuntamiento.
+
+B).- Los proveedores registrados que deseen participar, presentarán sus cotizaciones a Oficialía y a las Dependencias referidas en el inciso anterior, a través del sistema electrónico a que se refiere este capítulo, a partir de la publicación de la convocatoria y hasta las 48 horas siguientes, fecha en que fenece el término de la misma.
+
+C).- Una vez que el sistema denominado Mexicali “e-compr@s” elabore los cuadros comparativos de las cotizaciones presentadas, los pondrá a disposición del Comité o de los órganos responsables de la dictaminación, según corresponda.
+
+D).- Tanto el Comité como los órganos a que alude el inciso anterior, evaluarán los expedientes eligiendo aquella cotización que ofrezca las mejores condiciones de precio, calidad, garantía, plazo de entrega y financiamiento, o en su caso, declarando desierta la licitación, emitiendo el fallo correspondiente.
+
+E).- El Comité o los órganos responsables, al realizar el análisis a que se refiere el inciso anterior, a su juicio, pueden declarar desierto el procedimiento cuando las ofertas no cumplan con cualquiera de los principios a que se refiere dicho inciso, o sean contrarias a los intereses del Municipio.
+
+F).- El Comité o los órganos responsables deberán firmar el fallo en el que se determine el ofertante ganador.
+
+G).- Una vez seleccionado al ofertante ganador, se hará público el acuerdo mediante la emisión del dictamen correspondiente, girando la orden de compra o celebración del contrato respectivo sobre lo autorizado.
+
+H).- La orden de compra se enviará automáticamente, por correo electrónico al ofertante ganador, quien en el término de cinco días deberá surtir o cumplir con la requisición. Si no lo hace en dicho término, se cancelará la orden de compra o contrato y se asignará al ofertante que ocupó el segundo lugar de entre los que cotizaron, siempre que asegure condiciones adecuadas al Municipio, procediéndose, en caso contrario, a enviarse al Comité o a los órganos responsables para ser declarado desierto el procedimiento.
+
+I).- La copia del contrato o de la orden de compra deberá ser enviada a la dependencia solicitante, o al área responsable las cuales deberán notificar a Oficialía Mayor la fecha de recepción del bien motivo de adquisición.
+
+J).- Tesorería efectuará el pago correspondiente una vez que verifique que los datos consignados en la orden de compra o en el contrato y los de la factura coincidan, y además, que esta última esté firmada y sellada de recibido por la dependencia solicitante.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 31 QUINQUIES.- Los ofertantes que no estén registrados en los términos del artículo 19 de este reglamento deberán presentar sus cotizaciones acompañándolas de la documentación señalada en el mismo, a fin de que reciban el registro electrónico correspondiente, a través del cual presentarán sus respectivas propuestas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 31 SEXIES.- Cuando, previo a la convocatoria o antes de la entrega de propuestas, falle el sistema electrónico, se estará a los términos y condiciones que señala el artículo 27 de este ordenamiento; adjuntando la justificación técnica que emita la Coordinación de Informática.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+ARTÍCULO 31 SEPTIES.- Los actos o contratos que se efectúen en contravención a lo dispuesto en este capítulo, en el presente reglamento y demás disposiciones legales y reglamentarias aplicables en la materia, son nulos y de la exclusiva responsabilidad de quienes los realicen.
+
 ### CAPÍTULO SEXTO. DE LOS LINEAMIENTOS POR LICITACIÓN PÚBLICA
 
 ###### ARTÍCULO 32.
@@ -439,9 +493,13 @@ I. Cuando la Oficialía determine que no existe oferta de proveedores nacionales
 
 II. Cuando habiéndose realizado una licitación de carácter nacional, no se presente alguna propuesta o ninguna cumpla con los requisitos establecidos por la convocante.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTÍCULO 34.
 
-Las adquisiciones, arrendamientos o contratación de servicios que se realicen por licitación pública, se basarán en la convocatoria pública, que podrá referirse a una o más de las operaciones reguladas en este Reglamento, misma que deberá publicarse en uno de los diarios de mayor circulación y será opcional para la Oficialía, recurrir a su publicación en medios electrónicos apegándose al artículo 27 de este reglamento.
+Las adquisiciones, arrendamientos o contratación de servicios que se realicen por licitación pública, se basarán en la convocatoria pública, que podrá referirse a una o más de las operaciones reguladas en este Reglamento, misma que deberá publicarse en uno de los diarios de mayor circulación y será obligatorio para la Oficialía, recurrir a su publicación en medios electrónicos apegándose al artículo 27 de este Reglamento.
+
+No obstante la obligatoriedad de la publicación a que alude el párrafo anterior, las adquisiciones, arrendamientos y contratación de servicios referidas en el mismo, se sujetarán a las bases, lineamientos y procedimientos de licitación pública de que refieren los Capítulos Sexto, Séptimo y Octavo, respectivamente de este reglamento.
 
 ###### ARTÍCULO 35.
 
@@ -946,3 +1004,9 @@ SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 P.O. 12 DE MARZO DE 2004.
 
 ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2006.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Las adquisiciones de bienes iniciadas con anterioridad a la vigencia de las presentes reformas se realizarán conforme a los criterios y procedimientos estipulados en este reglamento.
