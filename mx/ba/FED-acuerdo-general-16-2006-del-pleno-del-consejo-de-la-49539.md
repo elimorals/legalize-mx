@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2006-del-pleno-del-consejo-de-la-49539"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-10"
-last_updated: "2006-03-10"
+last_updated: "2006-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-02-28"
 
 ACUERDO GENERAL 16/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE OTORGA LA PRESTACION DEL FONDO DE RESERVA INDIVIDUALIZADO PARA EL PERSONAL DE NIVEL OPERATIVO DE LOS ORGANOS JURISDICCIONALES FEDERALES Y DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 10 de marzo de 2006.
 
@@ -135,9 +135,11 @@ La Institución invertirá los recursos del Fondo en los portafolios de inversi�
 
 El monto de los rendimientos se determinará desde el momento en que las aportaciones hayan sido ingresadas a la Institución, y será acreditado con fecha valor del primer día del mes inmediato posterior a aquel en que se devenguen.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 48/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE JUNIO DE 2006.)</small>
+
 ###### Artículo 16.
 
-El Consejo enterará a la Institución las retenciones efectuadas que correspondan al Fondo, los días 10 y 25 de cada mes o al siguiente día hábil, los cuales corresponderán a la quincena inmediata anterior.
+El Consejo enterará a la Institución las retenciones efectuadas que correspondan al Fondo, de la primera quincena de cada mes el día 15 o el día hábil siguiente y de la segunda quincena de cada mes el día 30 o el día hábil siguiente. Las retenciones extraordinarias se enterarán en la quincena subsecuente.
 
 ## TITULO QUINTO. Del Procedimiento de incorporación y Rescate del Fondo
 
@@ -188,3 +190,11 @@ CUARTO.- Se derogan todas aquellas disposiciones administrativas que se opongan 
 QUINTO.- La intervención del Comité de Inversión de Recursos Financieros del Consejo, prevista en el artículo 6 de este Acuerdo, queda sujeta a la aprobación que en su momento haga el Pleno del Consejo de la Judicatura Federal, del Acuerdo General por el que se crea el referido Comité.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2006, del Pleno del Consejo de la Judicatura Federal, por el que se Otorga la Prestación del "Fondo de Reserva Individualizado" para el Personal de Nivel Operativo de los Organos Jurisdiccionales Federales y del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de veintiocho de febrero de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente en funciones Ministro Juan Díaz Romero, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiocho de febrero de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 30 DE JUNIO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
