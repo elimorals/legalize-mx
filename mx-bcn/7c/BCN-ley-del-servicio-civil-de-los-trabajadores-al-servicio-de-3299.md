@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2001-08-31"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -223,9 +223,13 @@ Son días de descanso obligatorios con goce de salario íntegro los siguientes:
 
 1.- Primero de Enero.
 
-2.- 5 de Febrero.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
 
-3.- 21 de Marzo.
+2.- El primer lunes de Febrero en conmemoración del 5 de Febrero.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+3.- El tercer lunes de Marzo en conmemoración del 21 de Marzo.
 
 4.- 1 y 5 de Mayo.
 
@@ -233,13 +237,19 @@ Son días de descanso obligatorios con goce de salario íntegro los siguientes:
 
 6.- 12 y el 27 de Octubre.
 
-7.- 1 y el 20 de Noviembre.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
 
-8.- 1 de diciembre de cada seis años cuando corresponda a la trasmisión del Poder Ejecutivo Federal.
+7.- 1 de Noviembre.
 
-9.- 5 y el 25 de Diciembre.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2006)</small>
 
-10.- Los demás que señala el calendario oficial o concedan las autoridades públicas.
+8.- El tercer lunes de Noviembre en conmemoración del 20 de Noviembre.
+
+9- 1 de diciembre de cada seis años cuando corresponda a la trasmisión del Poder Ejecutivo Federal.
+
+10.- 5 y el 25 de Diciembre.
+
+11.- Los demás que señala el calendario oficial o concedan las autoridades públicas.
 
 ###### ARTICULO 31.
 
@@ -1394,3 +1404,7 @@ UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE AGOSTO DE 2001.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
