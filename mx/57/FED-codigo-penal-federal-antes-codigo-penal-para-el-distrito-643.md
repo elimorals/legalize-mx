@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2006-06-06"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -991,7 +991,9 @@ II.- Que del examen de su personalidad se presuma que está socialmente readapta
 
 III.- Que haya reparado o se comprometa a reparar el daño causado, sujetándose a la forma, medidas y términos que se le fijen para dicho objeto, si no puede cubrirlo desde luego.
 
-Llenados los anteriores requisitos, la autoridad competente podrá conceder la libertad, sujeta a las siguientes condiciones:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 2006)</small>
+
+Llenados los requisitos anteriores, la autoridad competente tendrá un plazo no mayor a 30 días hábiles para conceder la libertad preparatoria o en su caso informar al interesado el resultado de su trámite, dicha libertad preparatoria estará sujeta a las siguientes condiciones:
 
 a).- Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando la cincunstancia (sic) de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda;
 
@@ -2621,15 +2623,19 @@ III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pu
 
 IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
-> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2006)</small>
 
-V.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+V.- Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos, y
 
-Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este Artículo, se le impondrán de tres días a un año de prisión, multa de treinta o trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución en su caso, e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos.
+VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2006)</small>
 
-Al infractor de las fracciones III, IV, o V, se le impondrán de dos años a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
+Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de tres días a un año de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución en su caso, e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+
+Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -6218,5 +6224,17 @@ D.O.F. 19 DE MAYO DE 2006.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 6 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2006.
+
+DECRETO QUE REFORMA EL ARTICULO 84 DEL CODIGO PENAL.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2006.
+
+DECRETO QUE REFORMA EL ARTICULO 214 DEL CODIGO PENAL.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
