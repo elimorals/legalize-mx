@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2006-06-06"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -215,9 +215,9 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IV.- Distribuir y delegar funciones en los términos del Reglamento Interno;
 
-> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2006)</small>
 
-V.- Presentar anualmente, en el mes de febrero a los Poderes de la Unión, un informe de actividades, en los términos del artículo 52 de esta Ley;
+V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del artículo 52 de esta Ley;
 
 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -491,11 +491,11 @@ La Comisión Nacional notificará inmediatamente a los quejosos los resultados d
 
 El Presidente de la Comisión Nacional deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Nacional. En casos excepcionales podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 52.
 
-El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente en el mes de febrero, a los Poderes de la Unión un informe sobre las actividades que haya realizado en el periodo comprendido entre el 1o. de enero y el 31 de diciembre del año inmediato anterior. Al efecto comparecerá primero ante el Pleno de la Comisión Permanente del Congreso de la Unión; posteriormente ante el Presidente de los Estados Unidos Mexicanos y ante el Pleno de la Suprema Corte de Justicia de la Nación. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente ante los Poderes de la Unión, un informe sobre las actividades que haya realizado en el período comprendido entre el 1o. de enero y el 31 de diciembre del año inmediato anterior. Al efecto, comparecerá en el mes de enero ante el Pleno de la Comisión Permanente del Congreso de la Unión; posteriormente, presentará el informe ante el Presidente de los Estados Unidos Mexicanos y ante el Pleno de la Suprema Corte de Justicia de la Nación. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 ###### ARTICULO 53.
 
@@ -609,9 +609,21 @@ Respecto a los particulares que durante los procedimientos de la Comisión Nacio
 
 La Comisión Nacional deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Comisión Nacional sobre las medidas o sanciones disciplinarias impuestas.
 
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+
+La Comisión Nacional solicitará al órgano interno de control correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que deba instruirse en contra del servidor público respectivo.
+
 ###### ARTICULO 73.
 
 Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir las autoridades y servidores públicos en el curso de las investigaciones seguidas por la Comisión Nacional, podrá solicitar la amonestación pública o privada, según el caso, al titular de la dependencia de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+
+La Comisión Nacional podrá dar seguimiento a las actuaciones y diligencias que se practiquen en las averiguaciones previas, procedimientos penales y administrativos que se integren o instruyan con motivo de su intervención en términos de la presente Ley y del artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, a través de sus visitadores generales y de los visitadores adjuntos adscritos a ellos. Esta facultad se limitará únicamente a la observación atenta del curso del asunto de que se trate hasta su resolución definitiva, sin que en ningún caso se entienda como la posibilidad de intervenir como parte en aquéllos, haciendo o promoviendo las diligencias conducentes para su resolución.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+
+En caso de que algún servidor público en respuesta a un requerimiento de información formulado por la Comisión Nacional rindiera informes falsos o parcialmente verdaderos, se le sancionará en los términos que señala el artículo 214, fracción V, del Código Penal Federal.
 
 ## TITULO V. DEL REGIMEN LABORAL
 
@@ -690,3 +702,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El patrimonio del organismo descentralizado denominado "Comisión Nacional de Derechos Humanos" pasa a formar parte del organismo autónomo "Comisión Nacional de los Derechos Humanos".
 
 TERCERO.- Para efectos de la regularización de los bienes inmuebles a que se refiere la presente reforma, la Comisión Nacional de los Derechos Humanos deberá realizar el procedimiento administrativo correspondiente ante la Secretaría de la Función Pública, de conformidad con lo dispuesto en la Ley General de Bienes Nacionales.
+
+D.O.F. 30 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
