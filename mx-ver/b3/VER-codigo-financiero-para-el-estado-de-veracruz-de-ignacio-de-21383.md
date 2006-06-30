@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2006-06-27"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1389,11 +1389,13 @@ El 90% del ingreso que perciba el Estado proveniente del impuesto a que se refie
 
 El patrimonio de dicho fideicomiso podrá ser incrementado con las aportaciones que realicen el Gobierno del Estado, el Gobierno Federal a través de sus dependencias o entidades, los gobiernos municipales, los integrantes del sector hotelero de la entidad de manera directa o a través de sus organizaciones y en general los empresarios del sector turístico, así como los demás recursos que legalmente pueda procurarse para el cumplimiento de sus fines.
 
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2006)</small>
+
 ###### Artículo 114.
 
-Para efectos del ejercicio de los recursos fideicomitidos se creará un Comité en el que participen representantes del sector público estatal, federal y del sector hotelero del Estado.
+Para los efectos del ejercicio de los recursos fideicomitidos se creará un Comité en el que participen representantes del sector público estatal, federal y del sector turístico y restaurantero del Estado.
 
-El Comité del Fideicomiso estará integrado por un representante del sector privado de cada uno de los circuitos turísticos del estado definidos por la Secretaría de Desarrollo Económico en 7 regiones: Huasteco, que comprende los municipios de: Pánuco, Tamiahua y Tuxpan; Totonaca, que comprende los municipios de: Tecolutla, Tlapacoyan, Gutiérrez Zamora, Papantla, Nautla y Poza Rica; Olmeca, que comprende los municipios de: Coatzacoalcos, Acayucan y Minatitlán; los Tuxtlas, que comprende los municipios de: Alvarado, San Andrés Tuxtla, Catemaco, y Santiago Tuxtla; Primeros Pasos de Cortés, que comprende los municipios de: Veracruz y Boca del Río; Cultura y Aventura, que comprende los municipios de Xalapa, Actopan, Coatepec, Emiliano Zapata (únicamente por cuanto hace a la población de Carrizal), Jalcomulco, Teocelo, Perote y Xico; y Altas Montañas, que comprende los municipios de Córdoba, Coscomatepec, Fortín, Huatusco y Orizaba, un representante de las siguientes dependencias; de la Federación: la Secretaría de Turismo; del gobierno estatal: Secretaría de Finanzas y Planeación, Contraloría General y Secretaría de Desarrollo Económico, quien presidirá el citado fideicomiso. En ningún caso los representantes del sector público podrán ser mayoría.
+El Comité del Fideicomiso estará integrado por un representante del sector privado del ramo hotelero por cada una de las 7 regiones turísticas en que se divide el Estado de conformidad con la Ley de Turismo para el Estado de Veracruz de Ignacio de la Llave; un representante de la Cámara Nacional de la Industria Restaurantera (CANIRAC); un representante de las siguientes dependencias; de la Federación: la Secretaría de Turismo; del Gobierno Estatal: Secretaría de Turismo y Cultura, Secretaría de Finanzas y Planeación, un representante de la Contraloría General y el presidente de la Comisión Permanente de Turismo del Congreso del Estado de Veracruz de Ignacio de la Lave, todos tendrán voz y voto, excepto los dos últimos que únicamente contarán con voz. El representante de la Secretaría de Turismo y Cultura será quien resida el citado Comité del Fideicomiso. En ningún caso los representantes del sector público podrán ser mayoría.
 
 ###### Artículo 115.
 
@@ -8368,3 +8370,7 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 G.O. 27 DE JUNIO DE 2006.
 
 Único.- Este Decreto iniciará su vigencia al siguiente día de su publicación en la Gaceta Oficial del gobierno del estado.
+
+G.O. 30 DE JUNIO DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
