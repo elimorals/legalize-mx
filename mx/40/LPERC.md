@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2006-01-12"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -80,7 +80,7 @@ III.- de Ciencias y Artes;
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
 
-III- Bis.- De Demografía.
+III- Bis.- De Demografía;
 
 IV.- de Deportes;
 
@@ -94,35 +94,39 @@ VIII.- de la Juventud;
 
 IX.- de Servicios a la Comunidad;
 
-X.- de Antigüedad en el Servicio Público.
+X.- de Antigüedad en el Servicio Público;
 
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 1980)</small>
 
-XI.- De Administración Pública.
+XI.- De Administración Pública;
 
 > <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XI Bis.- Al Mérito Forestal.
+XI Bis.- Al Mérito Forestal;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-XIII (sic).- De Trabajo y Cultura Indígena.
+XIII (sic).- De Trabajo y Cultura Indígena;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-XIV.- De Derechos Humanos.
+XIV.- De Derechos Humanos;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-XV.- De Preservación del Medio Ambiente.
+XV.- De Preservación del Medio Ambiente;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-XVI.- De Seguridad Pública.
+XVI.- De Seguridad Pública;
 
-> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2006)</small>
 
-La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de Deportes, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su actuación y trayectoria deportiva.
+XVII.- Premio Nacional de la Cerámica.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+
+La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de la Cerámica y del Premio Nacional de Deportes, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su desempeño, virtud, actuación y trayectoria.
 
 ###### ARTICULO 7.
 
@@ -974,9 +978,9 @@ Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Con
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XXII. Disposiciones Generales
+### CAPITULO XXII. Premio Nacional de la Cerámica
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 109.
 
@@ -1001,6 +1005,10 @@ Para tal efecto, el Premio se tramitará ante el organismo federal protector de 
 En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio Nacional de Derechos Humanos podrá ser otorgado post mortem, para honrar la memoria de defensores de los derechos humanos que hayan luchado por la vigencia efectiva de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como lo establecido en las convenciones internacionales suscritas por el Gobierno de la República en materia de derechos humanos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
+
+### CAPITULO XXIII. Disposiciones Generales
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 113.
 
@@ -1074,27 +1082,65 @@ VI.- Trabajo Pericial.
 
 Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Seguridad Pública, quien lo presidirá; un representante de la Procuraduría General de la República; un representante de la Secretaría de la Defensa Nacional; un representante de la Secretaría de Marina; un representante de cada una de las Cámaras del Congreso de la Unión y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, con el carácter de Secretario Técnico del Consejo de Premiación.
 
-> <small>(REFORMADA SU NUMERACION, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION (N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 120.
 
-Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
+El Premio Nacional de la Cerámica es el reconocimiento otorgado a los artesanos que se han destacado por su empeño, trabajo y obras en favor de la promoción efectiva de la cerámica nacional.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 121.
 
-Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
+La convocatoria del Premio será publicada anualmente y considerará en sus objetivos la preservación de las técnicas artesanales y el impulso a las capacidades artísticas de los artesanos, promoviendo la igualdad de género.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 122.
 
-Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
+El Premio Nacional de la Cerámica se concederá en las siguientes categorías:
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+I.- Cerámica contemporánea;
+
+II.- Alfarería vidriada sin plomo;
+
+III.- Cerámica tradicional;
+
+IV.- Escultura en cerámica;
+
+V.- Cerámica en miniatura;
+
+VI.- Cerámica navideña, y
+
+VII.- Figura en arcilla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 123.
+
+Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación se integrará por el Presidente de la República, el titular del Consejo Nacional para la Cultura y las Artes, el titular del Fondo Nacional para el Fomento de las Artesanías, el Gobernador del Estado de Jalisco y el Presidente municipal de Tlaquepaque, localidad que será sede oficial del concurso.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES CAPITULO XXII], D.O.F. 30 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 124.
+
+Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 121], D.O.F. 30 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 125.
+
+Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 122], D.O.F. 30 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 126.
+
+Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 123], D.O.F. 30 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 127.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique el salario mínimo general en el Distrito Federal.
 
@@ -1165,3 +1211,7 @@ D.O.F. 11 DE OCTUBRE DE 2004.
 D.O.F. 12 DE ENERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
