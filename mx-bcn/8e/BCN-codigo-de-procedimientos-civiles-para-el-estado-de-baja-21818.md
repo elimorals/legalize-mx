@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2005-11-25"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -873,7 +873,9 @@ En los casos de las fracciones I y II, los edictos se publicarán por tres veces
 
 III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al Artículo 2890 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación.
 
-Igualmente los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien y sus colindancias; un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el Juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+
+Igualmente los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquéllas si fuere conocido; la ubicación precisa del bien, medidas y sus colindancias; el nombre y domicilio de los colindantes, debiendo acompañar levantamiento topográfico o deslinde debidamente autorizado y certificado por catastro competente en donde se ubique el inmueble; así como un certificado de no-inscripción del inmueble expedido por el Registro Público de la Propiedad. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad, al catastro Municipal que corresponda, a la Secretaría de la Reforma Agraria, al Registro Agrario Nacional, a la Comisión Nacional del Agua, y al Registro Público de la Propiedad Federal, para que manifiesten lo que a su derecho convenga, por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el Juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a in matricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días.
 
 La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
 
@@ -1691,7 +1693,7 @@ ART. 237.- Las disposiciones del artículo anterior comprenden no sólo al deudo
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 238.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuenta separada, y conocerá de ella el Juez que, al ser presentada la solicitud, esté conociendo del negocio.
+ART. 238.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuenta separada, y conocerá de ella el jJuez que, al ser presentada la solicitud, esté conociendo del negocio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6728,5 +6730,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publ
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
 P.O. 25 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2006.
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
