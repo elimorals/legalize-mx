@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-20246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-10"
-last_updated: "2003-03-20"
+last_updated: "2006-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2006.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de febrero de 2001.
 
@@ -391,17 +391,29 @@ VII. Captar, clasificar y analizar la información sobre el ejercicio del gasto 
 
 VIII. Emitir los reportes analíticos por concepto del ejercicio del Gasto Público;
 
-IX. Tramitar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
 
-X. Tramitar la reposición de fondos revolventes, así como sus incrementos de acuerdo a la normatividad vigente, de las dependencias de la Administración Pública Estatal;
+IX. Tramitar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal, cuando el importe del pago a realizar exceda a una cantidad equivalente a 100 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
 
-XI. Efectuar la programación de los egresos del Gobierno del Estado, tanto de gasto corriente como de inversión;
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2006)</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE FECHA 10 DE ABRIL DE 2001, QUE REFORMA ESTE REGLAMENTO, SE DEROGAN LAS FRACCION XII Y XIII, RECORRIENDOSE EN SU ORDEN LA FRACCION XIV.</small>
+X. Tramitar y autorizar el pago de la documentación que presenten proveedores, prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal, cuando el importe del pago a realizar no exceda a una cantidad equivalente a 100 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
 
-> <small>(F. DE E., B.O. 30 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
 
-XII. Las demás que le confieran las disposiciones legales aplicables, así como la que le asigne el Secretario del Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
+XI. Tramitar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal;
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
+
+XII. Tramitar la reposición de fondos revolventes, así como sus incrementos de acuerdo a la normatividad vigente, de las dependencias de la Administración Pública Estatal;
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
+
+XIII. Efectuar la programación de los egresos del Gobierno del Estado, tanto de gasto corriente como de inversión;
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
+
+XV. Las demás que le confieran las disposiciones legales aplicables, así como la que le asigne el Secretario del Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 16.
 
@@ -808,3 +820,9 @@ B.O. 20 DE MARZO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE JUNIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
