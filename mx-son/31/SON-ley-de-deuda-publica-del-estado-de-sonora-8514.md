@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "2004-07-08"
+last_updated: "2006-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JULIO DE 2006.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -295,7 +295,9 @@ La contratación de empréstitos y créditos, se sujetará a los montos de endeu
 
 Los entes públicos, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución General de la República, sólo podrán contraer directa o indirectamente obligaciones o empréstitos pagaderos en moneda nacional y dentro del territorio de la República. Los entes públicos no podrán contraer tales obligaciones o empréstitos con personas físicas o morales extranjeras o con gobiernos de otras naciones.
 
-Un ente público solo podrá contraer directa o indirectamente obligaciones o empréstitos cuando tenga estados de ingresos y egresos de los últimos tres ejercicios fiscales, dictaminados por un contador público independiente que cuente con capacidad técnica certificada por algún órgano colegiado de contadores públicos reconocido a nivel nacional y elaborados conforme a los principios de contabilidad aplicables, o bien, de conformidad con lo dispuesto por la legislación aplicable al ente público de que se trate, sin que el estado de ingresos y egresos correspondiente al ejercicio más reciente tenga una antigüedad superior a quince meses al momento de contraer la obligación o el empréstito, y siempre que dicho último estado de ingresos y egresos se haya publicado en un periódico de amplia circulación en el Estado.
+> <small>(REFORMADO, B.O. 3 DE JULIO DE 2006)</small>
+
+Un ente público sólo podrá contraer directa o indirectamente obligaciones o empréstitos cuando tenga estudios de ingresos y egresos de tres ejercicios fiscales consecutivos dictaminados por un contador público independiente que cuente con capacidad técnica certificada por algún órgano colegiado de contadores públicos reconocidos a nivel nacional y elaborados conforme a los principios de contabilidad aplicables, o bien, de conformidad con lo dispuesto con la legislación aplicable al ente público de que se trate, sin que el estado de ingresos y egresos correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciocho meses al momento de presentar la solicitud correspondiente al Congreso del Estado, y siempre que dicho último estado de ingresos y egresos se haya publicado en un periódico de amplia circulación en el Estado.
 
 Los estados de ingresos y egresos dictaminados deberán contener una explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y señalar las diferencias relevantes entre esas bases o reglas y los principios de contabilidad generalmente aceptados aplicables a empresas que cotizan en bolsa de valores en México.
 
@@ -372,3 +374,9 @@ II.- Para contraer directa o indirectamente obligaciones o empréstitos durante 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 3 DE JULIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
