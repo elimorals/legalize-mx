@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transito-del-estado-de-morelos-antes-transito-138
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-20"
-last_updated: "2000-08-02"
+last_updated: "2006-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2006.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 1998.
 
@@ -241,7 +241,7 @@ III.- Expedir las placas, tarjetas de circulación, calcomanías, las autorizaci
 
 IV.- Autorizar el tránsito temporal de vehículos carentes de la documentación necesaria para circular, en los casos previstos por este Reglamento;
 
-V.- Participar en la elaboración de los estudios que efectúe la Comisión de Transportes del Estado;
+V.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 VI.- Por acuerdo expreso del Ejecutivo del Estado y previa audiencia de los interesados, ocupar temporalmente los servicios públicos de tránsito o transporte en cualesquiera de sus modalidades, e intervenir en su administración, en los casos en que el concesionario o permisionario no lo preste eficazmente o se niegue a prestarlo o lo haga en condiciones de riesgo grave para las personas;
 
@@ -255,7 +255,7 @@ X.- Coordinar sus actividades con los ayuntamientos y las autoridades a que se r
 
 XI.- Planear, dirigir, controlar y regular los servicios públicos de tránsito y transporte en el Estado, en los términos previstos por la Ley de la materia;
 
-XII.- Participar en la Comisión de Transportes del Estado;
+XII.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 XIII.- Formular y proponer, en coordinación con la autoridad competente de Desarrollo Urbano, los sistemas de vialidad y transporte; para lograr mayor eficiencia en la circulación vehicular en el Estado;
 
@@ -319,7 +319,7 @@ V.- Participar junto con las autoridades estatales o municipales encargadas de l
 
 VI.- Planear, dirigir, controlar y regular el servicio público de tránsito, en los términos previstos por el presente Reglamento;
 
-VII.- Participar en la Comisión de Transportes del Estado;
+VII.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 VIII.- Formular y proponer ante el Director General los sistemas de vialidad; para lograr mayor eficiencia en la circulación vehicular en el Estado;
 
@@ -355,13 +355,13 @@ IV.- Administrar y resguardar las placas, tarjetas de circulación, calcomanías
 
 V.- Autorizar por acuerdo del Director General, el tránsito temporal de vehículos carentes de la documentación necesaria para circular, en los casos previstos por este Reglamento;
 
-VI.- Participar en la elaboración de los estudios que efectúe la Comisión de Transportes del Estado;
+VI.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 VII.- Participar junto con las autoridades estatales o municipales encargadas de la planeación del desarrollo urbano, en la programación, ejecución y desarrollo de las obras que se requieran en materia de transportes;
 
 VIII.- Planear, dirigir, controlar y regular el servicio público de transportes, en los términos previstos por el presente Reglamento;
 
-IX.- Participar en la Comisión de Transportes del Estado;
+IX.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 X.- Evaluar y dictaminar sobre el otorgamiento de concesiones y de permisos, para la prestación del servicio público de transporte;
 
@@ -397,7 +397,7 @@ II.- Ejercer el mando directo del personal de la Delegación, dictar las disposi
 
 III.- Planear, dirigir, controlar y regular los servicios públicos de tránsito y transportes en su jurisdicción, en los términos previstos por el presente Reglamento;
 
-IV.- Participar en la Comisión de Transportes del Estado;
+IV.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 V.- Mantener actualizado el sistema de información de concesionarios y permisionarios del servicio de transporte, así como de vehículos, instalaciones y demás aspectos relacionados con dichos servicios;
 
@@ -429,169 +429,41 @@ III.- Las Corporaciones Policíacas del Estado y de los Municipios.
 
 Se consideran órganos auxiliares de la Dirección General de Tránsito y Transportes, en materia de transportes los siguientes:
 
-I.- La Comisión de Transportes del Estado,
+I.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 II.- Las Corporaciones Policíacas que funcionen en el Estado cualquiera que sea su denominación, si se les delega la facultad de intervenir en materia de transporte.
 
 ###### ARTICULO 20.
 
-La Comisión de Transportes del Estado estará integrada por:
-
-I.- El Secretario General de Gobierno;
-
-II.- El Secretario de Desarrollo Urbano y Obras Públicas;
-
-III.- El Secretario de Hacienda;
-
-IV.- El Secretario de Desarrollo Económico;
-
-V.- El Secretario de Desarrollo Agropecuario;
-
-VI.- El Procurador General de Justicia;
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2000)</small>
-
-VII.- El Subsecretario de Gobierno;
-
-VIII.- El Director General de Tránsito y Transportes;
-
-IX- El Director de Tránsito;
-
-X.- El Director de Transporte;
-
-XI.- Los Delegados Regionales;
-
-XII.- El Director del Registro Público de la Propiedad y Comercio;
-
-XIII.- El Director de Protección Civil;
-
-XIV.- El Coordinador General de Turismo;
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2000)</small>
-
-XV.- Siete representantes de los concesionarios del transporte de pasajeros con itinerario fijo;
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2000)</small>
-
-XVI.- Seis representantes de los concesionarios del transporte de pasajeros sin itinerario fijo;
-
-XVII.- Un representante de los Concesionarios del Transporte de Materiales para Construcción;
-
-XVIII.- Un representante de los Concesionarios del Transporte de Carga en General; y
-
-XIX.- Un Secretario Técnico designado por el Titular del Ejecutivo, con voz pero sin voto.
-
-Los servidores públicos podrán nombrar sus suplentes. En el mismo acto de designación de sus representantes, los concesionarios podrán nombrar los respectivos suplentes.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 21.
 
-La Comisión de Transportes del Estado es un órgano técnico consultivo y tendrá las siguientes funciones:
-
-I.- Realizar los estudios técnicos y emitir opinión respecto de:
-
-a) El funcionamiento de los sistemas o rutas de transporte de pasajeros de carga o mixto y el establecimiento de los que requieran las necesidades del servicio;
-
-b) El establecimiento de los servicios públicos de transporte de pasajeros, de carga o mixtos en las poblaciones que carezcan de dichos servicios, o éstos sean deficientes;
-
-c) La emisión de nuevas concesiones;
-
-d) La conveniencia de coordinar, fusionar o enrolar cualesquiera de los servicios públicos de transporte, oyendo previamente a los interesados;
-
-e) El ajuste que del padrón y parque vehicular concesionado se presente;
-
-f) La prevención de accidentes y en general todas aquellas actividades tendientes a mejorar la prestación del servicio;
-
-g) Los problemas que en materia de transporte presente cualquiera que sea su naturaleza u origen, incluidos los problemas entre los propios transportistas;
-
-h) La determinación de las políticas generales y los objetivos para el desarrollo y la operación del servicio público de transporte;
-
-i) Las modalidades que se requieran para la mejor prestación del servicio público de transporte;
-
-j) La actualización de los ordenamientos legales que regulen ese servicio;
-
-k) La ubicación, funcionamiento y control de sitios, bases, terminales, estaciones de servicio, bodegas y otros servicios auxiliares; y
-
-l) Los convenios que se celebren con otras entidades federativas o con los Ayuntamientos para la coordinación en la prestación del servicio público de transporte.
-
-II.- Aprobar y validar las rutas sobre la que correrán los transportistas con itinerario fijo;
-
-III.- Recibir y canalizar ante las autoridades competentes las quejas de la comunidad por anomalías en la prestación del servicio público de transporte;
-
-IV.- Realizar los estudios técnicos necesarios, y autorizar en conjunto la emisión de las tarifas correspondientes a la prestación del servicio público de transporte de pasajeros, de carga o mixto, con o sin itinerario fijo;
-
-V.- Hacer los estudios que se requieran y emitir su opinión, sobre los incrementos al costo de los vehículos utilizados para la prestación del servicio, o de las refacciones y accesorios automotores, lubricantes, combustibles, o cualquier otro elemento indispensable para la eficiente prestación del servicio, y hagan más oneroso éste.
-
-Los estudios y dictámenes de la Comisión serán presentados a la consideración del Ejecutivo del Estado;
-
-VI.- Recomendar acciones específicas para mejorar las condiciones de seguridad y prevenir la comisión de hechos punibles;
-
-VII.- Promover la inversión de particulares en el desarrollo del transporte que mejoren la prestación del servicio público; y
-
-VIII.- Las demás que le confiera la Ley y este Reglamento.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 22.
 
-Son atribuciones del Secretario General de Gobierno, en su calidad de Presidente de la Comisión:
-
-I.- Suscribir los títulos administrativos de concesión;
-
-II.- Autorizar los libros del Registro Público de la Propiedad en los que se inscriban dichos títulos;
-
-III.- Autorizar la ampliación del padrón;
-
-IV.- Ratificar las determinaciones del Ejecutivo;
-
-V.- Convocar a sesiones de la Comisión del Transporte del Estado;
-
-VI.- Presidir las sesiones de la Comisión:
-
-a) Aprobar el orden del día de cada sesión.
-
-b) Dirigir los trabajos de la sesión de la Comisión.
-
-c) Promover lo necesario para el cumplimiento de los acuerdos de la Comisión.
-
-d) Firmar, junto con los demás miembros, las actas.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 23.
 
-El Secretario Técnico de la Comisión tendrá las siguientes funciones:
-
-I.- Convocar por acuerdo del Presidente a los miembros de la Comisión para la celebración de las sesiones ordinarias o extraordinarias, con anticipación de quince días naturales en las primeras y de veinticuatro horas en las segundas, preparar el orden del día, redactar las actas correspondientes y recabar las firmas en éstas, de todos los que intervengan.
-
-II.- Llevar a cabo el seguimiento de los acuerdos de la Comisión; y
-
-III.- Las demás que le confiera la Comisión.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 24.
 
-Las sesiones de la Comisión serán ordinarias o extraordinarias:
-
-I.- Las sesiones ordinarias se celebrarán por lo menos cada dos meses, las extraordinarias se realizarán cuando sea necesario, a petición del Ejecutivo del Estado, del Secretario General de Gobierno o de la mitad por lo menos de los integrantes de la Comisión;
-
-II.- Presidirá las sesiones el Secretario General de Gobierno, o la persona por él designada;
-
-III.- El quórum para que pueda reunirse legalmente la Comisión será la asistencia de la mitad más uno de sus miembros, entre los que deberá figurar el Secretario General de Gobierno o la persona que él designe, quien en caso de empate en las votaciones tendrá voto de calidad; y
-
-IV.- Las sesiones de la Comisión se realizarán en el lugar designado para tal efecto por el Secretario General de Gobierno.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 25.
 
-Cuando la Comisión lo considere conveniente, invitará a los servidores públicos de otras dependencias del propio Gobierno del Estado o de la Federación, Autoridades Municipales, de organismos descentralizados o de organizaciones representativas de los intereses de la colectividad.
-
-Las organizaciones de transportistas del Estado podrán acreditar como representantes a personas no integrantes de la Comisión de Transportes del Estado, para que asistan a las sesiones de ésta, con voz pero sin voto.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 26.
 
-La Comisión para emitir su opinión sobre cualquier asunto que sea sometido a su consideración podrá allegarse toda la información que juzgue conducente al buen desempeño de sus funciones.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ###### ARTICULO 27.
 
-Para la integración de la Comisión, cada dos años el Ejecutivo convocará a los concesionarios mencionados en las fracciones XV, XVI, XVII, XVIII y XIX del Artículo 20 de este Reglamento, para que designen representantes. La convocatoria se publicará en el Periódico Oficial "Tierra y Libertad" y en un diario de los de mayor circulación en el Estado.
-
-El Ejecutivo del Estado, designará en todo caso como representantes ante la Comisión, a aquellos concesionarios que acrediten contar con el mayor número de agremiados o afiliados prestadores de cada servicio de transporte público concesionado.
-
-La resolución de designación de representantes tendrá el carácter de definitiva, contra la que no procederá recurso alguno.
+(DEROGADO, P.O. 3 DE JULIO DE 2006)
 
 ## TITULO TERCERO. DEL SERVICIO PUBLICO DE TRANSITO
 
@@ -2103,7 +1975,9 @@ Las concesiones tienen el carácter de revocables y renovables; deberán ser ren
 
 Salvo los casos señalados en el artículo 190 de este Reglamento las concesiones del servicio público de transporte de pasajeros, de carga o mixto no podrán ser enajenadas o transferidas por ningún título, ni tampoco cedido su uso.
 
-La Comisión de Transportes del Estado evitará el monopolio del transporte, en el caso de las personas morales será necesario que haya cuando menos un socio por cada tres concesiones, y tendrá en cuenta que a ninguna persona física o moral se le otorguen mas de tres concesiones en cualquiera de las categorías a que se refiere el artículo 183 de este Reglamento.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2006)</small>
+
+El Titular del Ejecutivo Estatal evitará el monopolio del transporte, en el caso de las personas morales será necesario que haya cuando menos un socio por cada tres concesiones, y tendrá en cuenta que a ninguna persona física o moral se le otorguen mas de tres concesiones en cualquiera de las categorías a que se refiere el artículo 183 de este Reglamento.
 
 Los concesionarios podrán organizarse en sociedades civiles o mercantiles aportando a éstas sus respectivas concesiones, pero aquellos conservarán siempre la titularidad de su concesión.
 
@@ -2231,9 +2105,11 @@ La concesión para la prestación del servicio público de transporte otorga a s
 
 I.- Operar el servicio en los términos autorizados;
 
-II.- Cobrar a los usuarios las tarifas aprobadas previamente por el Ejecutivo Estatal, y sancionadas por la Comisión de Transportes, y
+> <small>(REFORMADA, 3 DE JULIO DE 2006)</small>
 
-III.- Participar en la Comisión de Transportes del Estado en los términos de este Reglamento.
+II.- Cobrar a los usuarios las tarifas aprobadas previamente por el Ejecutivo Estatal, y
+
+III.- (DEROGADA, 3 DE JULIO DE 2006)
 
 ###### ARTICULO 189.
 
@@ -2273,7 +2149,7 @@ XI.- Cumplir con las especificaciones que para la Construcción y equipamiento d
 
 XII.- Prestar gratuitamente el servicio en casos de emergencia, siniestros o cualquier problema grave que afecte a alguna comunidad del Estado, a requerimiento de las autoridades del transporte;
 
-XIII.- Suministrar a la Comisión del Transporte del Estado los datos que le solicite, relacionados con la concesión;
+XIII.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
 
 XIV.- Avisar por escrito a la Dirección General de cualquier circunstancia que impida la prestación del servicio por más de dos días, de la o las unidades que comprenda la concesión respectiva;
 
@@ -3486,3 +3362,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Tierra y Lib
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente.
+
+P.O. 3 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias que se contrapongan al presente Decreto.
