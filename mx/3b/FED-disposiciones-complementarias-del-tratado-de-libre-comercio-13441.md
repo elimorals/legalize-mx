@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-06-16"
+last_updated: "2006-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,41 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE ESTABLECE UN ARANCEL-CUPO A LAS IMPORTACIONES ADICIONALES DE MAIZ AMARILLO DURANTE 2006, PARA LAS MERCANCIAS ORIGINARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DA A CONOCER LA CUOTA ADICIONAL PARA IMPORTAR MAIZ AMARILLO, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA EN EL AÑO 2006
 
-Decreto publicado en el Diario Oficial de la Federación, el viernes 16 de junio de 2006.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 3 de julio de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior; sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía y FRANCISCO JAVIER MAYORGA CASTAÑEDA, Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 y 35 de la Ley Orgánica de la Administración Pública Federal; artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2006; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía; 1o. y 6o. del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
 
 CONSIDERANDO
 
-Que el artículo sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, publicada en el Diario Oficial de la Federación el 14 de diciembre de 2005, establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las Partes en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
+Que el Tratado de Libre Comercio de América del Norte establece un monto, determinado como mínimo, a importar dentro de un arancel-cuota para las importaciones de maíz de los Estados Unidos de América o Canadá, que puede ser incrementado de acuerdo a necesidades de abasto nacional;
 
-Que la oferta nacional de maíz amarillo resulta insuficiente para el abasto competitivo para los sectores productivos del país, por lo que se hace necesario complementarla con importaciones, a fin de que las industrias que lo utilizan en sus procesos productivos tengan acceso a este insumo en condiciones competitivas;
+Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, y sus reformas del 5 de agosto y 1o. de diciembre de 2004;
 
-Que durante las consultas con organizaciones de productores e industriales consumidores de maíz y el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se resolvió sobre la importancia de promover la competitividad de las cadenas de productos agrícolas, y
+Que la producción nacional de maíz y el cupo mínimo para importar en el año 2006 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, no son suficientes para abastecer la demanda nacional;
 
-Que la Comisión de Comercio Exterior ha emitido opinión favorable respecto a la tasa arancelaria aplicable a la cuota adicional de maíz amarillo, he tenido a bien expedir el siguiente
+Que la disponibilidad de maíz y granos forrajeros indica que se requiere importar maíz amarillo en un monto superior a la cuota mínima disponible, a fin de cubrir los requerimientos de los sectores que utilizan este grano en sus procesos productivos, por lo que es necesario aplicar el presente incremento a la cuota mínima negociada en el marco del Tratado de Libre Comercio con América del Norte;
 
-DECRETO
+Que en el artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que el Ejecutivo Federal creará una reserva de cuota mínima, para cubrir los requerimientos de maíz blanco para el 2o. semestre de 2006; la cual, por estar etiquetada para los consumidores de esta variedad específica de grano, no interferirá con la asignación de cuotas adicionales para los solicitantes de cupo de maíz amarillo;
+
+Que en el artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las partes en los tratados de libre comercio, la Secretaría de Economía y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
+
+Que en el artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que en lo referente a la importación de maíz amarillo se asegurará no poner en riesgo el suministro de materia prima a los consumidores industriales, pecuarios y formuladores de alimentos balanceados, a la vez que se atiendan los legítimos intereses de los productores primarios. En el marco de estas consideraciones, las cuotas mínimas y adicionales se asignarán preferentemente a los consumidores de la industria, sector pecuario y de alimentos balanceados que utilizan maíz amarillo.
+
+Que el 16 de junio de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece un arancel-cupo a las importaciones adicionales de maíz amarillo durante 2006, para las mercancías originarias del Tratado de Libre Comercio de América del Norte;
+
+Que el procedimiento de asignación de la cuota adicional de importación de maíz amarillo, excepto para siembra, es un instrumento de la política sectorial para el abasto nacional, y
+
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, hemos tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DA A CONOCER LA CUOTA ADICIONAL PARA IMPORTAR MAIZ AMARILLO, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA EN EL AÑO 2006
 
 ###### ARTICULO PRIMERO.
 
-Se modifica el numeral 2o.) de los incisos B), C) y D) de la cuarta columna “Periodo de recepción de solicitudes” del cuadro del artículo segundo del Acuerdo por el que se da a conocer el contingente mínimo para importar en 2006, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
+La cuota adicional para importar maíz amarillo, excepto para siembra, originario de los Estados Unidos de América en el año 2006, con el arancel-cupo establecido en el Decreto por el que se establece un arancel-cupo a las importaciones adicionales de maíz amarillo durante 2006, para las mercancías originarias del Tratado de Libre Comercio de América del Norte, publicado el 16 de junio en el Diario Oficial de la Federación, es la que se especifica en el siguiente cuadro:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -132,129 +144,117 @@ II.- Tratándose de productos calificados de Canadá, el criterio para trato pre
 
 ###### ARTICULO TERCERO.
 
-Se modifica el numeral 2o.) de los incisos B) y C) de la cuarta columna “Periodo de recepción de solicitudes” del cuadro del artículo segundo del Acuerdo por el que se da a conocer el cupo para importar en 2006 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
+Podrán solicitar asignación de la cuota adicional a que se refiere el presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos, de las industrias almidonera, cerealera, de frituras y botanas; así como del sector pecuario (incluyendo la fabricación de alimentos balanceados), que utilizan el maíz amarillo como insumo en sus procesos productivos.
 
-(VEASE ARCHIVO ANEXO)
+Aquellas personas físicas o morales que cuenten con varias plantas, se aplicará el criterio de asignación, de acuerdo a su información y ubicación geográfica, considerando el supuesto de asignación por cada solicitud presentada.
+
+En ningún caso, el monto máximo de asignación de cuota adicional por solicitante, podrá exceder el monto que resulte de la aplicación de los criterios establecidos en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006.
+
+En lo que se refiere a los consumos de granos importados presentados en los reportes de auditor externo, sólo se considerará la modalidad de importación definitiva.
 
 ###### ARTICULO CUARTO.
 
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso B) del artículo tercero de este Acuerdo, se tomará en cuenta lo siguiente:
+Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero del presente instrumento, que tengan antecedentes de consumo de maíz amarillo importado bajo cupo en el año 2005 y, que sus plantas industriales no estén ubicadas en los Estados de Campeche, Quintana Roo, Tabasco y Yucatán y que cumplan con la hoja de requisitos correspondiente, anexa a este instrumento, la asignación de la cuota adicional de importación de maíz amarillo será la que resulte de aplicar los criterios de asignación siguientes:
 
-Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada no sobrepase el 30% de la suma de los consumos auditados de leche en polvo y leche fluida convertida a sólidos totales equivalentes, utilizando el factor de 8.5, durante el año previo. Asimismo, registrarán sus compromisos de adquisición de leche de producción nacional para 2006.
+A. Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas señaladas en el artículo tercero del presente instrumento, que acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) compromisos de contratos de compra-venta o de agricultura por contrato de granos nacionales (ambos casos conforme al Anexo I de este instrumento) equivalentes a por lo menos el 25% del consumo anual auditado de maíz amarillo importado bajo cuota en 2005, si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación de cupo mínimo de 2006 de maíz amarillo.
 
-Los criterios de asignación aplicables a las empresas solicitantes de este cupo, son los que a continuación se indican:
+La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante, será equivalente al consumo anual auditado de granos en 2005 o, en su caso, el reportado para la asignación de cupo mínimo de 2006 de maíz amarillo total, menos la cantidad recibida de cupo mínimo en 2006, menos el 25% del consumo anual auditado de granos, reportado para la asignación de cuota mínima de 2006 de maíz amarillo importado bajo cuota.
 
-Para las empresas que cumplan la condición previa, se tomará como referencia el monto total autorizado en 2005 o, en su caso de 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo, obtenidos por asignación directa.
+B. Para las personas físicas o morales del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero del presente instrumento, que acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) compromisos de adquisición de granos forrajeros nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos forrajeros nacionales (ambos casos conforme al Anexo I de este instrumento) equivalentes a por lo menos el 25% del consumo total anual auditado de 2005 de maíz amarillo importado bajo cuota, si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2006.
 
-Este monto se ajustará por:
+La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante será el equivalente al consumo anual auditado de grano forrajero total de 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación del cupo mínimo en 2006, menos la cantidad recibida de cuota mínima en 2006, menos el 25% del consumo anual auditado, reportado para la asignación del cupo mínimo en 2006, de maíz amarillo importado bajo cuota.
 
-La participación del monto disponible para asignación directa del sector privado del cupo TLCAN, respecto al monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para este tipo de solicitantes y por la distribución por periodo.
-
-La fórmula que se aplicará para este tipo de solicitantes será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-La asignación en cada periodo se realizara siempre que exista saldo en el cupo.
-
-En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo reportado del año previo.
-
-En el segundo periodo establecido en el cuadro del artículo segundo de este ordenamiento, se procederá a realizar una distribución proporcional del mismo, entre las empresas que presenten su solicitud, sólo en caso de existir saldo.
+C. Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero, que no acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) compromisos de adquisición de granos forrajeros nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos forrajeros nacionales (ambos casos conforme al Anexo I de este instrumento) se les asignará una vez el promedio mensual del consumo total anual auditado de granos de 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2006.
 
 ###### ARTICULO QUINTO.
 
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso C) del Artículo Tercero que no puedan cumplir la condición previa señalada en el Artículo Cuarto de este Acuerdo, los criterios de asignación aplicables son los que a continuación se indican:
+Las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que tengan antecedentes de consumo de maíz amarillo importado bajo cupo en el 2005, que sus plantas industriales no estén ubicadas en los Estados de Campeche, Quintana Roo, Tabasco y Yucatán, y que no hayan acreditado lo dispuesto en el Anexo I de este instrumento, podrán ingresar una nueva solicitud, una vez que lo hayan acreditado y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, aplicándose los criterios de asignación que se indican a continuación:
 
-Se tomará como referencia el monto total autorizado en 2005 o, en su caso, en 2004 de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo, obtenidos por asignación directa.
+A. Para las personas físicas o morales que pertenezcan a las industrias: almidonera, cerealera, frituras y botanas señaladas en el artículo tercero de este instrumento. La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante, será equivalente al consumo anual auditado de granos en 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación de cupo mínimo de 2006 de maíz amarillo total, menos los volúmenes de cuotas mínima y adicional asignadas por la Dirección General de Comercio Exterior en 2006, menos el 25% del consumo anual auditado de granos, reportado para la asignación de cuota mínima de 2006 de maíz amarillo importado bajo cuota.
 
-Este monto se ajustará por:
+B. Para las personas físicas o morales que pertenezcan al sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento. La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante, será el equivalente al consumo anual auditado de grano forrajero total de 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación del cupo mínimo en 2006, menos los volúmenes de cuotas mínima y adicional asignadas por la Dirección General de Comercio Exterior en 2006, menos el 25% del consumo anual auditado, reportado para la asignación del cupo mínimo en 2006, de maíz amarillo importado bajo cuota.
 
-La participación del monto disponible para asignación directa del sector privado del cupo TLCAN, respecto al monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para este tipo de solicitantes y por la distribución por periodo.
-
-La fórmula que se aplicará para este tipo de solicitantes será la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-La asignación en cada periodo se realizara siempre que exista saldo en el cupo.
-
-En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo reportado del año previo.
-
-En el segundo periodo establecido en el cuadro del Artículo Segundo de este ordenamiento, se procederá a realizar una distribución proporcional del mismo, entre las empresas que presenten su solicitud, sólo en caso de existir saldo.
+C. Para las personas físicas o morales que pertenezcan a las industrias: almidonera, cerealera, frituras y botanas o al sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que no acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) compromisos de adquisición de granos forrajeros nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos forrajeros nacionales (ambos casos conforme al Anexo I de este instrumento), no se asignará ningún monto adicional.
 
 ###### ARTICULO SEXTO.
 
-Las solicitudes de asignación directa, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo” en la Representación Federal de esta Secretaría que le corresponda, la hoja de requisitos específicos se establece como anexo al presente instrumento.
+Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas o del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que hayan acreditado ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) lo dispuesto en el Anexo I de este instrumento, y que comprueben con el incremento en sus consumos de maíz amarillo y/o granos forrajeros mediante reporte de auditor externo, el incremento en su capacidad instalada o utilizada de 2006, respecto a la de 2005, y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento se les otorgará un monto extra de la cuota adicional de importación de maíz amarillo de la siguiente forma.
 
-Las asignaciones de cupo tendrán una vigencia al 31 de diciembre para la empresa del sector público. Para el resto de solicitantes será de cuatro meses, contados a partir de la fecha de emisión del oficio de asignación de cupo. La vigencia máxima de los certificados de cupo será al 31 de diciembre.
+En caso de que el solicitante se encuentre en el supuesto señalado en el párrafo anterior y cumpla con lo establecido en la hoja de requisitos correspondiente, podrá ingresar una nueva solicitud, asignándosele un monto extra de la cuota adicional de maíz amarillo equivalente a dos veces el incremento del consumo auditado de maíz amarillo y/o granos forrajeros del periodo enero-junio de 2006, respecto a los consumos de maíz amarillo y/o granos forrajeros del periodo enero-junio de 2005.
+
+La información correspondiente al periodo enero-junio de 2005, deberá coincidir con el reporte de auditor presentado para la asignación del cupo mínimo de 2006, o en su caso, el que presente para la asignación de la cuota adicional de maíz amarillo de 2006, la asignación del monto extra de la cuota adicional de importación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, sin que medie opinión por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
 
 ###### ARTICULO SEPTIMO.
 
-La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán reuniones con los representantes de las principales organizaciones de productores e industriales que integran la cadena productiva de leche y derivados lácteos, con el fin de evaluar y dar seguimiento a la administración de este cupo.
+Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas o del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que cuenten con plantas establecidas en los estados de Campeche, Quintana Roo, Tabasco y Yucatán, y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento la cuota adicional de importación de maíz amarillo a asignar será equivalente a cinco veces el promedio mensual de consumo total auditado de granos forrajeros de 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2006.
+
+En caso de que el solicitante se encuentre en el supuesto señalado en el párrafo anterior la asignación de la cuota adicional de importación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, sin que medie opinión por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
 
 ###### ARTICULO SEGUNDO.
 
-Se modifica el numeral 2o.) de los incisos B) y C) de la cuarta columna “Periodo de recepción de solicitudes” del cuadro del artículo segundo del Acuerdo por el que se da a conocer el cupo mínimo para importar en 2006, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
-
-(VEASE ARCHIVO ANEXO)
+De conformidad con lo dispuesto en el párrafo segundo del artículo 24 de la Ley de Comercio Exterior, se aplicará el procedimiento de asignación directa a la cuota adicional de importación a que se refiere el artículo anterior.
 
 ###### ARTICULO OCTAVO.
 
-Una vez asignado el monto para importar dentro del arancel-cuota por el mecanismo de asignación directa, la Secretaría expedirá los respectivos certificados de cupo, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”.
+Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas o del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, cuyas plantas se encuentren establecidas en otros Estados, que no sean Campeche, Quintana Roo, Tabasco y Yucatán, que cumplan con la hoja de requisitos correspondiente anexa a este instrumento y comprueben ante ASERCA/SAGARPA la imposibilidad de realizar compromisos bajo los esquemas de agricultura por contrato o contratos de compra-venta, deberán ingresar una solicitud para las plantas ubicadas en los Estados donde no haya sido posible acreditar lo establecido en el Anexo I de este instrumento.
 
-El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+La asignación para los solicitantes que cumplan lo señalado en el párrafo anterior será equivalente a cinco veces el promedio mensual de consumo total auditado de granos de 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2006.
 
 ###### ARTICULO NOVENO.
 
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica:
+Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas o del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que no tengan antecedentes de consumo de maíz amarillo bajo cupo en el 2005, que no estén ubicadas en los Estados de Campeche, Quintana Roo, Tabasco y Yucatán y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, la asignación de la cuota adicional de importación de maíz amarillo será la que se indica a continuación:
 
-Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-Para el formato de expedición del certificado de cupo (SE-03-013-5): “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
+La asignación de la cuota adicional será equivalente a una vez el consumo mensual promedio auditado de granos de 2005 si no ha sido beneficiario del cupo mínimo de maíz en el 2006 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2006. La asignación de la cuota adicional de importación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, sin que medie opinión por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
 
 ###### ARTICULO DECIMO.
 
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica: www.cofemer.gob.mx
+De conformidad con el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, en caso de que existan incumplimientos en agricultura por contrato por parte del vendedor o siniestros que sean dictaminados por SAGARPA, previa consulta en el Comité Nacional Sistema Producto Maíz, la Secretaría de Economía por medio de la Dirección General de Comercio Exterior, otorgará cupos adicionales equivalentes al monto del incumplimiento, previa presentación de la solicitud de asignación de cupo, en la cual el solicitante deberá señalar que presenta esta solicitud a causa de incumplimiento y cumplir con la hoja de requisitos correspondiente anexa a este instrumento.
+
+Para efecto de lo señalado en el párrafo anterior, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados dictamine el incumplimiento o no, presentado por el solicitante del cupo de importación. ASERCA/SAGARPA atenderá dicha solicitud, previa consulta al Comité Nacional Sistema Producto Maíz. Una vez realizado lo anterior, la Dirección General de Desarrollo de Mercados notificará a la Dirección General de Comercio Exterior el resultado de dicha consulta y, en su caso, el monto del incumplimiento.
 
 ###### ARTICULO DECIMO PRIMERO.
 
-En los casos en que uno o más de los materiales extranjeros incorporados a un bien no cumplan con el cambio de clasificación arancelaria aplicable establecido en el Anexo de Reglas Específicas por alguno de los motivos señalados a continuación, el país de origen del bien será aquel en el cual el bien fue producido, siempre que de dicha producción resulte una transformación sustancial de las partes o materiales extranjeros que se incorporen al mismo:
+La asignación de la cuota adicional de importación de maíz amarillo a que se refiere el presente instrumento, considerará lo establecido en el ANEXO I y lo siguiente:
 
-I.- Cuando el bien se hubiere importado al país sin ensamblar o en forma desensamblada pero se hubiere clasificado como un bien ensamblado conforme a la Regla General 2(a) del Sistema Armonizado, y
+La Dirección General de Comercio Exterior, enviará a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA los consumos totales anuales auditados, desglosados por tipo de grano, origen del grano y en el caso de maíz amarillo la modalidad de importación bajo cupo, de las empresas que presentaron reportes de auditor externo para la asignación del cupo mínimo de 2006, y en el caso de que el solicitante no haya sido beneficiario del cupo mínimo en 2006, enviará la solicitud anexando el reporte de auditor externo que presente.
 
-II.- Cuando la partida aplicable al bien sea la misma que la aplicable a sus partes y esa partida no se encuentre dividida en subpartidas, o la subpartida aplicable sea la misma tanto para el bien como para sus partes.
+Para efecto de lo señalado en los artículos sexto, séptimo y noveno de este instrumento, la Dirección General de Comercio Exterior otorgará la cuota adicional aplicando el criterio de asignación establecido en dicho artículo, sin realizar consulta a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
 
-Si un subensamble y sus partes están clasificados en la misma partida de partes que no está posteriormente dividida en subpartidas o están clasificados en la misma subpartida de partes, el país de origen del subensamble será el país en el que se produjo el subensamble, siempre que la producción resulte en una transformación sustancial.
+Para efecto de la aplicación de los criterios de asignación señalados en los artículos cuarto, quinto y octavo de este instrumento, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, informe el acreditamiento o no, de lo establecido en el Anexo I del presente instrumento, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA contará con un plazo de tres días hábiles contados a partir de que haya recibido dicha solicitud, para notificar a la Dirección General de Comercio Exterior.
 
-Lo dispuesto en este artículo no se aplicará a los Capítulos 50 a 63 del Sistema Armonizado.
+Para efecto de la aplicación del criterio de asignación establecido en el artículo décimo de este instrumento, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, informará a la Dirección General de Comercio Exterior el resultado y en su caso, el monto de incumplimiento o siniestro, de la consulta al Comité Nacional Sistema Producto Maíz, en un plazo de cinco días hábiles contados a partir de que tenga dicho resultado.
+
+Una vez recibida la notificación de acreditación de compromisos de adquisición de granos nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta (ambos casos conforme al Anexo I de este instrumento) por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, la Dirección General de Comercio Exterior aplicará el criterio correspondiente a la solicitudes subsecuentes.
+
+Para la aplicación de los criterios que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas.
 
 ###### ARTICULO DECIMO SEGUNDO.
 
-No se considerará que un material extranjero ha cumplido con el cambio de clasificación arancelaria aplicable establecido en el Anexo de Reglas Específicas o satisface los otros requisitos aplicables de ese Anexo, cuando el cambio de clasificación se realice por virtud de:
+La asignación de la cuota adicional a que se refiere el presente instrumento se hará a través de la Dirección General de Comercio Exterior, quien determinará el monto a asignar conforme al criterio aplicable a cada caso. El trámite de asignación de la cuota adicional de importación de maíz amarillo no será mayor a diez días hábiles, excepto para lo considerado en el artículo décimo de este instrumento.
 
-I.- Un cambio en su uso final;
+En las asignaciones se señalará el monto de la cuota adicional y el plazo para ejercer dicha asignación, así como las condiciones a que deberán someterse los beneficiarios.
 
-II.- Operaciones de desensamble o desmantelamiento;
+El periodo de recepción de solicitudes para los supuestos establecidos en los artículos cuarto, quinto, sexto, séptimo, octavo y noveno será a partir del siguiente día hábil de la entrada en vigor del presente instrumento, y finalizará el 15 de noviembre de 2006.
 
-III.- Simple embalaje, reembalaje o empaque para venta al menudeo sin más que un procesamiento menor;
+El periodo de recepción de solicitudes para los supuestos establecidos en el artículo décimo del presente instrumento será del 15 de agosto al 15 de septiembre de 2006.
 
-IV.- Simple dilución en agua u otra sustancia que no altere materialmente las características del material, y
-
-V.- Cualquier trabajo o proceso respecto al cual pueda ser demostrado, a partir de pruebas suficientes, que su único objeto era evadir lo dispuesto en estas reglas.
+La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2006. La mercancía no podrá ser comercializada en el mismo estado físico en que se importa.
 
 ###### ARTICULO DECIMO TERCERO.
 
-Para efectos del presente Acuerdo se estará a las siguientes Reglas Interpretativas:
+Las solicitudes de asignación de la cuota a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría. Las hojas de requisitos específicos se anexan al presente instrumento.
 
-I.- Cuando la Regla General 2(a) del Sistema Armonizado se enuncia en una regla para un bien en el Anexo de Reglas Específicas como base para no aceptar un cambio de clasificación arancelaria específico bajo dicha regla, ésto significa que el cambio será inaceptable si se da a partir de una disposición arancelaria a otra, en virtud de alguna de las siguientes razones:
+###### ARTICULO DECIMO CUARTO.
 
-a) La recolección de partes que se clasifican como si fueran un bien ensamblado conforme a la Regla General 2(a) del Sistema Armonizado.
+Una vez asignado el monto para importar dentro de la cuota adicional, esta Secretaría, a través de la Representación Federal correspondiente, expedirá los certificados de cupo, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible.
 
-b) El ensamble de partes en un subensamble que aún no es un bien completo o terminado, pero que se clasifica como un bien completo o terminado conforme a la Regla General 2(a) del Sistema Armonizado.
+###### ARTICULO DECIMO QUINTO.
 
-Lo anterior no se aplicará a los bienes desensamblados que ya habían sido ensamblados anteriormente y posteriormente desensamblados por conveniencia de empaque, manejo o transporte.
+Los formatos citados en el presente instrumento, estarán a disposición en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
 
-II.- Para propósitos de determinar el carácter esencial de un bien de conformidad con el artículo cuarto de este Acuerdo, dependiendo del tipo del bien podrán examinarse varios factores, como los siguientes: la naturaleza del material o componente, el volumen, la cantidad, el peso, el valor, la función desempeñada por un material constitutivo con relación a la utilización del bien, u otros factores relevantes.
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-Para propósitos de la aplicación del artículo cuarto, sólo los materiales nacionales y extranjeros que estén clasificados en las disposiciones arancelarias a partir de las cuales no está permitido el cambio arancelario en la regla dispuesta para el bien en el Anexo de Reglas Específicas, se tomarán en consideración al determinar las partes o materiales que confieren el carácter esencial del bien.
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### Artículo 1.
 
@@ -336,6 +336,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.
+México, D.F., a 26 de junio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.
