@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44488"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-02"
-last_updated: "2006-06-23"
+last_updated: "2006-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,27 @@ issue_date: "2003-03-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53 (BRASIL, 2002)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPUBLICA FEDERATIVA DEL BRASIL DIVERSOS PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS DIVERSOS PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA FEDERATIVA DEL BRASIL
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de junio de 2006.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 3 de julio de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos II-2 del Acuerdo de Complementación Económica No. 53; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos II-1 del Acuerdo de Complementación Económica No. 53; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 35 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que nuestro país es parte del Tratado de Montevideo 1980 que instituye la Asociación Latinoamericana de Integración, dentro de la cual se ha negociado con los distintos Estados miembros y con países de América Central y del Caribe, preferencias arancelarias sujetas a cupo;
+Que nuestro país es parte del Tratado de Montevideo 1980 que instituye la Asociación Latinoamericana de Integración, dentro de la cual se han negociado preferencias arancelarias sujetas a cupo con los distintos Estados miembros y con países de América Central y del Caribe;
 
-Que en el marco del Tratado de Montevideo 1980 los Gobiernos de los Estados Unidos Mexicanos y la República Federativa del Brasil, suscribieron el 3 de julio de 2002 el Acuerdo de Complementación Económica No. 53, y que fue publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002;
+Que en el marco del Tratado de Montevideo 1980 los gobiernos de los Estados Unidos Mexicanos y de la República Federativa del Brasil suscribieron el 3 de julio de 2002 el Acuerdo de Complementación Económica No. 53, y fue publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002;
 
-Que el 31 de marzo de 2003, los Estados Unidos Mexicanos y la República Federativa del Brasil suscribieron el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53, y que fue publicado en el Diario Oficial de la Federación el 2 de mayo de 2003;
+Que el 31 de marzo de 2003 los Estados Unidos Mexicanos y la República Federativa del Brasil suscribieron el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53, y fue publicado en el Diario Oficial de la Federación el 2 de mayo de 2003;
 
 Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos, y
 
-Que la Comisión de Comercio Exterior opinó favorable la medida a que se refiere el presente ordenamiento, he tenido a bien expedir el siguiente:
+Que la Comisión de Comercio Exterior opinó favorablemente la medida a que se refiere el presente ordenamiento, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPUBLICA FEDERATIVA DEL BRASIL DIVERSOS PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS DIVERSOS PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA FEDERATIVA DEL BRASIL
 
 ###### ARTÍCULO PRIMERO.
 
@@ -67,39 +67,37 @@ b) certificado de cupo ALADI expedido por la Secretaría de Economía, cuando as
 
 ###### ARTICULO 1.
 
-Los cupos para internar a la República Federativa del Brasil, diversos productos originarios y provenientes de los Estados Unidos Mexicanos en el periodo del 2 de mayo de un año al 30 de abril del año siguiente con la preferencia arancelaria establecida en el Anexo I del Acuerdo de Complementación Económica No. 53, celebrado entre los Estados Unidos Mexicanos y la República Federativa del Brasil, son los que se determinan a continuación:
+Los cupos para importar a los Estados Unidos Mexicanos diversos productos originarios y provenientes de la República Federativa del Brasil en el periodo del 1 de mayo de un año al 30 de abril del año siguiente con la preferencia arancelaria establecida en el Anexo I del Acuerdo de Complementación Económica No. 53, celebrado entre los Estados Unidos Mexicanos y la República Federativa del Brasil, son los que se determinan a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 2.
 
-A los cupos a que se refiere el presente Acuerdo, se aplica el procedimiento de asignación directa mediante la modalidad de “Primero en tiempo, primero en derecho”.
+A los cupos a que se refiere el presente Acuerdo se aplica el procedimiento de asignación directa mediante la modalidad de “Primero en tiempo, primero en derecho”.
 
 ###### ARTICULO 3.
 
-Podrán solicitar los cupos a que se refiere el presente Acuerdo las personas físicas o morales establecidas en los Estados Unidos Mexicanos, conforme a lo siguiente:
+Podrán solicitar asignación de los cupos de importación a que se refiere el presente Acuerdo las personas físicas y morales establecidas en los Estados Unidos Mexicanos, conforme a lo siguiente:
 
-a) El solicitante deberá contar con el “Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI”, correspondiente a los productos señalados en el artículo 1 del presente Acuerdo.
+a) El solicitante deberá contar con el certificado de origen de la Asociación Latinoamericana de Integración, expedido por la autoridad competente de la República Federativa del Brasil a nombre del proveedor brasileño, que señale en el campo de observaciones lo siguiente: “La fracción arancelaria…….. cuenta con una preferencia arancelaria de …..% para un monto de…. según el cupo asignado en el ACE 53”.
 
-Para obtener el Registro a que se refiere el párrafo anterior, deberá solicitarlo ante la Representación Federal de la Secretaría que corresponda, mediante la presentación del formato SE-03-019-1 “Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI”.
+b) Presentar la solicitud de asignación de cupo en el formato SE-03-016-1 “Solicitud de cupo anual ALADI” anexando copia del certificado de origen de la Asociación Latinoamericana de Integración a que se refiere el inciso a) del presente artículo, en la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de la presentación de la solicitud. Este trámite solamente deberá realizarse una vez durante la vigencia del cupo a que se refiere el presente Acuerdo.
 
-b) Una vez que el solicitante cuente con el Registro a que se refiere el inciso anterior, deberá presentar el formato SE-03-020-1 “Certificado de Origen ALADI” anexando la factura comercial que ampare la exportación, con lo que la Secretaría, a través de la Representación Federal que corresponda, asignará, en su caso, el cupo mediante la validación del certificado de origen de la ALADI para lo que señalará en el campo de observaciones lo siguiente: “La fracción arancelaria ….…… cuenta con una preferencia arancelaria de ....% para un monto de ……….….. según el cupo asignado en el ACE No. 53”.
+c) Una vez que el solicitante cuente con la constancia de asignación a que se refiere el inciso anterior, deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato SE-03-016-2 “Solicitud de importación específica ALADI”, acompañada de la copia del certificado de origen de ALADI, con lo que la Secretaría, a través de la Representación Federal que corresponda, emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-La asignación será por una cantidad equivalente a la indicada en la factura comercial, siempre que exista saldo disponible.
-
-No existe hoja de requisitos específicos para este Acuerdo.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 30 de abril de cada año.
 
 ###### ARTICULO 4.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-a) Para el caso del formato SE-03-019-1 “Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI”:
+a) Para el caso del formato SE-03-016-1 “Solicitud de cupo anual ALADI”:
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-051-B
+http:www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-028-A
 
-b) Para el caso del formato SE-03-020-1 “Certificado de Origen ALADI”:
+b) Para el caso del formato SE-03-016-2 “Solicitud de Importación específica ALADI”:
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-044-A
+http:www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-029
 
 ###### ARTICULO 5.
 
@@ -153,6 +151,6 @@ III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga u
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia en el momento en que entre en vigor un acuerdo entre el MERCOSUR y los Estados Unidos Mexicanos, o cuando medie denuncia de algunos de los países signatarios del Acuerdo de Complementación Económica No. 53.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia en el momento en que entre en vigor un Acuerdo entre el MERCOSUR y los Estados Unidos Mexicanos, o cuando medie denuncia de algunos de los países signatarios del Acuerdo de Complementación Económica No. 53.
 
-México, D.F., a 14 de junio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 21 de junio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
