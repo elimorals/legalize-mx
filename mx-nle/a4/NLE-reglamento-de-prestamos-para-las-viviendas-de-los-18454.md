@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-las-viviendas-de-los-18454"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-31"
-last_updated: "2005-07-22"
+last_updated: "2006-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PRESTAMOS PARA LAS VIVIENDAS DE LOS SERVIDORES PUBLICOS ADSCRITOS AL REGIMEN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 31 de enero de 2000.
 
@@ -143,13 +143,13 @@ a) Edad y salario, determinándose la puntuación conforme a la tabla "Edad-Sala
 
 b) Años cotizados y número de dependientes económicos, conforme a la tabla "Años cotizados-Dependientes económicos" que forma parte integrante de este reglamento, asignando dos puntos por cada año de cotización del servidor público y cinco puntos por cada dependiente económico del servidor público, hasta dos dependientes. Para estos efectos únicamente se tomarán los descendientes en primer grado así como la cónyuge o concubina. El esposo o concubinario será tomado en cuenta si reúne los requisitos del artículo 5, fracción VI, inciso g) de la Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
+ADICIONADO, P.O. 22 DE JULIO DE 2005)
 
 c) Una vez obtenidos los puntos totales se procederá a obtener el Monto Máximo de Crédito, conforme a la tabla de Montos Máximos de crédito que señala el Artículo 6 del presente reglamento y expresando el valor del crédito en veces el salario mínimo general vigente en el Distrito Federal.
 
 Los servidores públicos sólo podrán obtener un crédito por una sola vez.
 
-> <small>(ADICIONADO, P.O.22 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2005)</small>
 
 Para los casos de los servidores públicos que desempeñen dos o más empleos, se tomará el empleo de mayor antigüedad para efecto de los años cotizados, y con relación al salario base de cotización, se observará lo establecido en el Artículo 22 de la Ley.
 
@@ -201,11 +201,9 @@ Las prórrogas que se otorguen al trabajador no podrán ser mayor a doce meses c
 
 1.- Cuando el trabajador no haya solicitado prórroga en el plazo de 30 días o el término de éste hubiere vencido deberá realizar directamente los pagos de su crédito, hasta en tanto no se encuentre sujeto a una nueva relación laboral, dando aviso al Instituto de esta última situación.
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
 
 REGIMEN ESPECIAL DE AMORTIZACION
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 13 Bis
 
@@ -387,7 +385,7 @@ g) Copia de identificación oficial; credencial de lector, pasaporte o cartilla 
 
 4.- Escritura Pública antecedente que justifique la legitima propiedad del Vendedor, debidamente inscrita ante el Registro Público de la Propiedad y del Comercio del Estado.
 
-5.- Certificado de Libertad de gravamen autorizado a la fecha de la presentación del expediente técnico.
+5.- Certificado de Libertad de gravamen autorizado a la fecha de la presentación del expediente técnico;
 
 6.- Recibo de pago del impuesto predial al corriente.
 
@@ -491,11 +489,11 @@ SEGUNDO.- Las operaciones administrativas para la prestación objeto de este reg
 
 Expedido en la Ciudad de Monterrey, Capital del Estado de Nuevo León, el día 26 de enero del año 2000, por el Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2006)</small>
 
 TABLAS DE MONTOS MAXIMOS DE CREDITO
 
-> <small>N. DE E. VEANSE TABLAS MODIFICADAS EN EL P.O. DE 22 DE JULIO DE 2005, PAGINAS DE LA 39 A LA 40.</small>
+> <small>N. DE E. VEANSE TABLAS MODIFICADAS EN EL P.O. DE 3 DE JULIO DE 2006, PAGINAS DE LA 6 A LA 8.</small>
 
 XXV SESION ORDINARIA DEL CONSEJO DIRECTIVO DEL ISSSTELEON
 
@@ -557,7 +555,7 @@ Lic. Pedro Quezada Bautista en representación de la Lic. Alida Bonifaz Sánchez
 
 Subsecretaria de Asuntos Jurídicos de la Secretaria General de Gobierno del Estado
 
-C.P. Gabriel Morfin Flores
+C. P. Gabriel Morfin Flores
 
 Director de Administración y Finanzas del ISSSTELEON
 
@@ -568,3 +566,9 @@ P.O. 22 DE JULIO DE 2005.
 PRIMERO:- Las presentes modificaciones al Reglamento de Prestamos para las Viviendas de los Servidores Públicos adscritos al Régimen del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Nuevo León, entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO:- La tabla de montos máximos de crédito será de aplicación general a partir de que entren en vigor las presentes reformas y será extensiva para aquellos servidores públicos que se encuentren en trámite para obtener un crédito.
+
+P.O. 3 DE JULIO DE 2006.
+
+PRIMERO: La presente modificación a la tabla de montos máximos de crédito del Reglamento de Préstamos para las Viviendas de los Servidores Públicos Adscritos al Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La tabla de montos máximos de crédito será de aplicación general a partir de que entre en vigor y será extensiva para aquellos servidores públicos que se encuentren en trámite para obtener un crédito.
