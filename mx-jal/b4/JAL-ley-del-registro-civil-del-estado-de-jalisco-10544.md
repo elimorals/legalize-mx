@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2005-12-27"
+last_updated: "2006-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -59,9 +59,11 @@ El Registro Civil es público, por ello toda persona puede solicitar copias o ex
 
 La certificación es el medio de publicidad de las actas y documentos que obren en los diversos archivos del Registro Civil.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
+
 ###### Artículo 3.
 
-El Código Civil del Estado de Jalisco, será norma supletoria de las disposiciones de esta ley.
+El Código Civil y el Código de Procedimientos Civiles, ambos del Estado de Jalisco, será norma supletoria de las disposiciones de esta ley.
 
 ### CAPITULO II. De la Dirección General del Registro Civil
 
@@ -315,11 +317,11 @@ IX. No podrán dejar de anotarse los datos previstos en las formas del Registro 
 
 X. No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2006)</small>
 
 ###### Artículo 30.
 
-Las actas del estado civil se levantarán en formatos con características especiales denominados formas del registro civil, cuyas estructuras y contenido estarán determinados por las disposiciones legales relativas, la elaboración será por quintuplicado en las actas de nacimiento, matrimonio, divorcio, defunción; y por cuadruplicado en las demás; se levantarán en forma computarizada o mecanografiada debiendo contener la clave única del registro de población.
+Las actas del estado civil se sentarán en formatos con características especiales, cuyas estructuras y contenido estarán determinados por las disposiciones legales relativas, la elaboración será por quintuplicado en las actas de nacimiento, matrimonio, divorcio, defunción; y por cuadruplicado en las demás; se levantarán en forma computarizada o mecanografiada debiendo contener la Clave Única del Registro Nacional de Población (CURP).
 
 > <small>(F. DE E., 9 DE OCTUBRE DE 2004)</small>
 
@@ -413,11 +415,13 @@ Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil e
 
 Cuando no se de asistencia profesional durante el parto, para registrar el nacimiento se requiere, información rendida y apoyada por dos testigos vecinos o conocidos de la madre que sepan y les conste la gravidez y fecha de nacimiento, cuya declaración se efectuará ante el Oficial del Registro Civil, Presidente Municipal, Servidor Público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministerio Público, quienes tendrán la obligación de cerciorarse de la veracidad de la información ante ellos vertida.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2006)</small>
 
 ###### Artículo 42.
 
-El acta de nacimiento contendrá: lugar y fecha de registro; el año, mes, día, hora y lugar de nacimiento, sexo del registrado, el nombre que se le ponga y los apellidos que le correspondan; la expresión de si es presentado vivo o muerto; su impresión digital si está vivo, así como la Clave Unica del Registro de Población respectiva, y el número del certificado de nacimiento; el nombre, edad, domicilio, origen y nacionalidad de los padres, salvo lo dispuesto en el artículo siguiente; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos.
+El acta de nacimiento contendrá: lugar y fecha de registro; el año, mes, día, hora y lugar de nacimiento, sexo del registrado, el nombre que se le ponga y los apellidos que le correspondan; la expresión de si es presentado vivo o muerto; su impresión digital si está vivo, así como la Clave Única del Registro Nacional de Población respectiva, y el nombre, edad, domicilio, origen y nacionalidad de los padres, salvo lo dispuesto en el artículo siguiente; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 Si el registro lo realiza una persona distinta a los padres, deberá cumplimentar lo dispuesto en el artículo 27 de esta Ley, en caso de tratarse de una persona huérfana de padre y madre, quien comparezca al registro, deberá de presentar las constancias de alumbramiento del menor, así como las actas de defunción de los padres; en caso de tratarse de madre soltera, sólo se presentarán las constancias de alumbramiento y de defunción de la madre.
 
@@ -509,11 +513,11 @@ Las actas de registro extemporáneo de nacimiento deberán contener los datos pr
 
 ### CAPITULO VII. De las actas de reconocimiento de hijo
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
 
 ###### Artículo 59.
 
-El acta de reconocimiento de hijo contendrá: el nombre, apellidos, sexo, fecha y lugar de nacimiento, la edad, domicilio, huella digital y Clave Unica del Registro de Población del reconocido. Asimismo se asentarán los nombres, apellidos, edades, estado civil, nacionalidad y domicilio, del reconocedor, de los padres del mismo, así como de los testigos, y en su caso, del representante legal.
+El acta de reconocimiento de hijo contendrá: el nombre, apellidos, sexo, fecha y lugar de nacimiento, la edad, domicilio, huella digital y Clave Única del Registro Nacional de Población del reconocido. Asimismo, se asentarán los nombres, apellidos, edades, estado civil, nacionalidad y domicilio, del reconocedor, de los padres del mismo, así como de los testigos, y en su caso, del representante legal.
 
 (REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004) (F. DE E., P.O. 9 DE OCTUBRE DE 2004) (F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)
 
@@ -567,9 +571,9 @@ Dictada la resolución judicial definitiva que autorice la adopción, el o los a
 
 La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable de la misma a una multa equivalente a diez días del salario mínimo general vigente en la zona geográfica de su ubicación, que impondrá el oficial del Registro Civil.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
 
-Artículo 67 bis.- En los casos de adopción plena, se cancelará la clave única de registro de población que hubiere sido asignada, y se asignará una nueva en la correspondiente acta en el presente caso, la dirección general del registro civil deberá notificar dicha circunstancia al registro nacional de población e identificación personal para los efectos correspondientes.
+Artículo 67 bis.- En los casos de adopción plena, se cancelará la Clave Única de Registro Nacional de Población que hubiere sido asignada, y se asignará una nueva en la correspondiente acta en el presente caso, la dirección general del registro civil deberá notificar dicha circunstancia al registro nacional de población e identificación personal para los efectos correspondientes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -689,13 +693,15 @@ V. El convenio que los pretendientes deberán celebrar con relación a los biene
 
 Si fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de la misma;
 
-VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo o el acta de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2006)</small>
 
-VII. Copia certificada de la resolución que decrete la dispensa judicial de impedimento si los hubo.
+VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo o el acta de divorcio o copia certificada de la sentencia por ineficacia, invalidez o ilicitud del matrimonio que haya causado ejecutoria; en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+
+VII. Copia certificada de la resolución que decrete la dispensa judicial de impedimento si los hubo;
 
 > <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-VIII. Constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, en el cual se acredite que el hombre y la mujer recibieron el curso prematrimonial, previsto en el artículo 267 bis del Código Civil.
+VIII. Constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, en el cual se acredite que el hombre y la mujer recibieron el curso prematrimonial, previsto en el artículo 267 bis del Código Civil;
 
 > <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
 
@@ -739,9 +745,9 @@ I. Los nombres, apellido o apellidos, nacionalidad, ocupación, domicilio, lugar
 
 II. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1996)
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2006)</small>
 
-III. Los nombres, apellidos, nacionalidad, y domicilio de los padres;
+III. Los nombres, apellidos, edad, nacionalidad y domicilio de los padres;
 
 IV. En su caso, el consentimiento de sus ascendientes, del tutor o de la autoridad que corresponda si fueran menores de edad;
 
@@ -749,11 +755,13 @@ V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
 VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el oficial del Registro Civil, en nombre de la ley y de la sociedad;
 
-VII. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal, de separación de bienes o de sociedad legal según sea el caso;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+VII. La manifestación de los contrayentes de que su matrimonio se rige bajo el régimen de sociedad conyugal, de separación de bienes o de sociedad legal según sea el caso;
 
-VIII. Los nombres, apellidos, edad y domicilio de los testigos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2006)</small>
+
+VIII. Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos;
 
 IX. Que se cumplieron las formalidades exigidas por el artículo anterior; y
 
@@ -783,9 +791,11 @@ Los pretendientes que declaren maliciosamente un hecho falso, los testigos que d
 
 El oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresa en el acta el nombre, edad, ocupación, estado civil y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieron, será remitida al Juez de Primera Instancia que corresponda para que haga la calificación del impedimento.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
+
 ###### Artículo 91.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona ante el oficial del Registro Civil respectivo. Las que sean falsas, sujetan al denunciante a la legislación penal. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+Las denuncias de impedimento pueden hacerse por cualquier persona ante el oficial del Registro Civil respectivo. Las que sean falsas, sujetan al denunciante a la legislación penal. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de gastos, costas, daños y perjuicios.
 
 ###### Artículo 92.
 
@@ -819,9 +829,11 @@ También podrá exigir declaración bajo protesta de decir verdad, a los testigo
 
 La sentencia ejecutoria que declare un divorcio, se remitirá en copia certificada al Archivo General del Registro Civil y al oficial del Registro Civil del lugar donde se celebró el matrimonio, para que levante el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
+
 ###### Artículo 99.
 
-Las actas de divorcio expresarán el nombre, apellidos, edad, domicilio y nacionalidad de los divorciados, su Clave Unica de Registro de Población, si las tuvieren los datos de ubicación de las actas de nacimiento y matrimonio de los mismos, la parte resolutiva de la sentencia judicial, fecha de la misma, autoridad que la dictó y fecha en que causó ejecutoria.
+Las actas de divorcio expresarán el nombre, apellidos, edad, domicilio y nacionalidad de los divorciados, su Clave Única de Registro Nacional de Población, si las tuvieren, los datos de ubicación de las actas de nacimiento y matrimonio de los mismos, la parte resolutiva de la sentencia judicial, fecha de la misma, autoridad que la dictó y fecha en que causó ejecutoria.
 
 (NOTA: EL 21 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 3/2025, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1264,5 +1276,9 @@ DECRETO NO. 20519, QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DEL REGISTRO CIVIL D
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 27 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
