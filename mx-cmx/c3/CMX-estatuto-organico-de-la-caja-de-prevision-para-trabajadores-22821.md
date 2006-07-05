@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-para-trabajadores-228
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-12-04"
-last_updated: "2001-12-04"
+last_updated: "2006-07-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22821&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-09-25"
 
 ESTATUTO ORGANICO DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE JULIO DE 2006.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal el martes 4 de diciembre de 2001.
 
@@ -212,53 +212,55 @@ El Comisario tendrá dentro del Organismo, las atribuciones que le definan la Le
 
 ### CAPÍTULO SEXTO. DE LA ESTRUCTURA Y FUNCIONES DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2006)</small>
+
 ###### ARTÍCULO 15.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Organismo contará con la siguiente estructura:
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Organismo contará con la siguiente estructura
 
-Dirección General
+I. Dirección General
 
-Órgano de Control Interno
+II. Órgano de Control Interno
 
-Unidad Departamental de Auditoría del Ejercicio Presupuestal
+II. 1. Unidad Departamental de Control Interno
 
-Unidad Departamental de Auditoría de Administración de Recursos
+II.2. Unidad Departamental de Investigación y Evaluación
 
-Unidad Departamental de Quejas y Denuncias
+II.3. Unidad Departamental de Quejas y Denuncias
 
-Dirección de Prestaciones y Servicios al Derechohabiente
+III. Dirección de Prestaciones y Servicios al Derechohabiente
 
-Subdirección de Prestaciones y Servicios Sociales
+III. 1. Subdirección de Prestaciones y Servicios Sociales
 
-Unidad Departamental de Prestaciones Económicas
+III. 1.1. Unidad Departamental de Prestaciones Económicas
 
-Unidad Departamental de Servicios al Derechohabiente
+III. l.2. Unidad Departamental de Servicios al Derechohabiente
 
-Unidad Departamental de Planeación y Financiamiento a la Vivienda
+III. l.3. Unidad Departamental de Planeación y Financiamiento a la Vivienda
 
-Subdirección Jurídica
+III. 2. Subdirección Jurídica
 
-Dirección de Administración y Finanzas
+IV. Dirección de Administración y Finanzas
 
-Subdirección de Finanzas
+IV. 1. Subdirección de Finanzas
 
-Unidad Departamental de Contabilidad
+IV. 1.1. Unidad Departamental de Contabilidad
 
-Unidad Departamental de Presupuesto
+IV. 1.2. Unidad Departamental de Presupuesto
 
-Unidad Departamental de Tesorería
+IV. 1.3. Unidad Departamental de Tesorería
 
-Subdirección de Administración
+IV. 2. Subdirección de Administración
 
-Unidad Departamental de Adquisiciones y Servicios Generales
+IV. 2.1. Unidad Departamental de Adquisiciones y Servicios Generales.
 
-Unidad Departamental de Recursos Humanos
+IV. 2.2. Unidad Departamental de Recursos Humanos
 
-Subdirección de Informática
+IV. 3. Subdirección de Informática
 
-Unidad Departamental de Desarrollo de Sistemas
+IV. 3.1. Unidad Departamental de Desarrollo de Sistemas
 
-Unidad Departamental Técnica
+IV. 3.2. Unidad Departamental Técnica
 
 ###### ARTÍCULO 16.
 
@@ -320,109 +322,189 @@ XXIV. Las demás que determine el Consejo y las disposiciones jurídicas y admin
 
 DEL ÓRGANO DE CONTROL INTERNO
 
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2006)</small>
+
 ###### ARTÍCULO 18.
 
 El Órgano de Control Interno, lo constituye la Contraloría Interna quien será parte integrante de la estructura del Organismo, y dependerá administrativamente del mismo, pero jerárquica, técnica y funcionalmente, de la Contraloría General del Distrito Federal de la cual, dependerá el titular de dicho Órgano de Control Interno, así como el personal que lo integre.
 
-Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Organismo; desarrollará sus funciones conforme a los lineamientos que emita la Contraloría General del Distrito Federal.
+Sus acciones tendrán por objeto coadyuvar y asesorar al Titular de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal, en la función directiva promoviendo sistemáticamente el cumplimiento a las disposiciones legales aplicables en la materia, a través de la Implantación y Seguimiento de Sistemas de Control Interno; verificar la aplicación de los Indicadores de Gestión, y recibir, tramitar y resolver en su caso, las Quejas y Denuncias presentadas ante el Órgano de Control Interno.
+
+Todo ello conforme a la Ley Orgánica de la Administración Pública del Distrito Federal, Reglamento Interior de la Administración Pública del Distrito Federal y los Lineamientos que emita la Contraloría General del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2006)</small>
 
 ###### ARTÍCULO 19.
 
 Al Órgano de Control Interno le corresponde:
 
-I. Verificar que los instrumentos de control se apliquen de manera eficiente en apego a la normatividad aplicable en las áreas que integran el Organismo;
+I. Presentar para la aprobación del Titular de la Dirección General de Contralorías Internas de la Contraloría General del Distrito Federal, el Programa de Implantación y Seguimiento de Control Interno, manteniendo un seguimiento sistematizado de su ejecución.
 
-II. Intervenir en las actas de entrega y recepción que realicen los titulares y servidores públicos del Organismo, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento determinar las responsabilidades y sanciones administrativas correspondientes;
+II. Apoyar las revisiones programadas, así como las extraordinarias o adicionales a éstas, de conformidad con los Lineamientos que para tal fin emita la Contraloría General, a efecto de vigilar el cumplimiento de las disposiciones Legales, reglamentarias y Administrativas en materia de Información, Estadística, Organización, Procedimientos, Sistemas de Registro y Contabilidad, Contratación y Remuneración al Personal, Contratación de Adquisiciones, Arrendamientos, Servicios, Conservación, Uso, Destino, Afectación, Enajenación y Baja de Bienes Muebles e Inmuebles, Almacenes, Activos y demás que correspondan en términos de las disposiciones Jurídicas y Administrativas aplicables.
 
-III. Verificar los mecanismos que permitan la correcta aplicación de los recursos materiales en los cuales el Organismo participe;
+III. Formular observaciones derivadas de los procesos de implantación de sistemas de control interno y llevar su seguimiento, emitiendo las recomendaciones para su solventación.
 
-IV. Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Organismo, adquisiciones, arrendamientos, servicios y demás que señalen las disposiciones jurídicas y administrativas aplicables;
+IV. Asistir a las sesiones de los Comités y Subcomités instalados en la Entidad de la Administración Pública del Distrito Federal, en términos de las disposiciones jurídicas y administrativas aplicables y preparar los informes correspondientes.
 
-V. Elaborar los programas de control y auditoría aprobados por la Contraloría General del Distrito Federal, y cuando ello corresponda, practicar auditorías y revisiones a las áreas del Organismo, de cualquier naturaleza y alcance que se requiera para verificar el cumplimiento de las obligaciones derivadas de las disposiciones legales, normas, lineamientos en materia de ingresos, egresos, presupuestación, financiamiento, inversión, obra pública, adquisiciones, deuda y administración de recursos materiales y financieros;
+V. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de verificaciones, revisiones, inspecciones, visitas y procedimientos disciplinarios.
 
-VI. Formular las observaciones y recomendaciones requeridas a las áreas que integran el Organismo, con base en los resultados de auditorías y revisiones que realice;
+VI. Realizar verificaciones, revisiones, inspecciones, visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública e intervenir en todos los procesos administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, enajenación de bienes muebles, almacenes e inventarios, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables.
 
-VII. Llevar a cabo el seguimiento de las observaciones y recomendaciones resultantes de las auditorías y revisiones practicadas a las áreas del Organismo;
+VII. Atender los requerimientos que les formule la Contraloría General, por conducto de su titular o, a través de sus direcciones generales, ejecutivas o de área.
 
-VIII. Proporcionar a la Contraloría General del Distrito Federal, la información y elementos que requiera para el ejercicio de sus funciones;
+VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, así como a Proveedores, Contratistas y Prestadores de Servicio, cuando lo estime conveniente.
 
-IX. Atender los requerimientos de información que solicite la Contraloría General del Distrito Federal;
+IX. Apoyar a la Dirección General de Auditoría en la Revisión de los Subsidios otorgados por el Distrito Federal a través de la Entidad, para que éstos sean aplicados conforme a los Programas Autorizados, y evaluar su impacto con base en los Indicadores de Medición correspondientes.
 
-X. Informar al Director General sobre los resultados de las auditorías a las áreas que hayan sido objeto de revisión;
+X. Intervenir en las Actas de Entrega-Recepción que realicen los Titulares y Servidores Públicos de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública que correspondan, a fin de vigilar que se cumpla con la Normatividad aplicable, y en su caso de incumplimiento, determinar las Responsabilidades y Sanciones Administrativas correspondientes.
 
-XI. Recibir, atender y dar el seguimiento a las quejas y denuncias que presenten los trabajadores, derechohabientes o servidores públicos del Organismo y de ser procedente, instaurar los procedimientos administrativos disciplinarios que correspondan;
+XI. Conocer, investigar, desahogar y resolver Procedimientos Disciplinarios sobre actos u omisiones de Servidores Públicos adscritos a la Entidad, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tenga conocimiento por cualquier medio, para determinar en su caso las Sanciones que correspondan en los términos de la Ley de la materia.
 
-XII. Asistir a las sesiones de Comités y Subcomités en los términos de las disposiciones jurídicas y administrativas aplicables;
+XII. Substanciar y resolver los Recursos de Revocación que se promuevan en contra de Resoluciones que impongan Sanciones Administrativas a los Servidores Públicos, en términos de las disposiciones Jurídicas y Administrativa s aplicables.
 
-XIII. Intervenir en los procedimientos de licitación pública en sus diferentes modalidades;
+XIII. Acordar cuando proceda, la suspensión temporal de los Servidores Públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones.
 
-XIV. Tramitar y resolver las inconformidades que presenten los particulares con motivo de las adquisiciones y arrendamientos de bienes muebles, prestaciones de servicios de cualquier naturaleza, obra pública y servicios relacionados con la misma, concesiones, acuerdos, convenios, contratos y cualquier otro acto jurídico celebrado por el organismo, pudiendo suspender en los términos de ley los procesos que hayan sido motivo de tales inconformidades dentro del ámbito de su competencia;
+XIV. Verificar a través del Sistema de Seguimiento que para tal efecto se establezca, que la Entidad atienda hasta su conclusión las Observaciones y Recomendaciones de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, así como de la Auditoría Superior de la Federación.
 
-XV. Emitir opinión sobre el contenido de los convenios, contratos, bases de licitación para concursos y en aquellos actos significativos que representen ingresos, egresos, así como proyectos de disposiciones, políticas, normas y lineamientos en materia de control;
+XV. Verificar la aplicación de los Indicadores de Gestión que emita la Dirección General de Evaluación y Diagnóstico para lograr el cumplimiento por parte de la Entidad de las disposiciones en materia de Planeación, Programación, Presupuestación, Ingresos, Egresos, Financiamiento, Inversión en Valores, Deuda, Patrimonio, Fondos y Valores de la propiedad o al cuidado de éstas, así como en materia de Adquisiciones, Arrendamientos, Servicios y demás que señalen las disposiciones Jurídicas y Administrativas aplicables.
 
-XVI. Coadyuvar y participar en coordinación con los diferentes Órganos Fiscalizadores, en el seguimiento, control y evaluación de las recomendaciones;
+XVI. Coadyuvar con la Dirección General de Auditoria en la Revisión del Ejercicio de los Recursos Federales transferidos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, para que se apliquen con base en los acuerdos, convenios y bases de colaboración celebrados con las autoridades Federales competentes.
 
-XVII. Coadyuvar a la función directiva mediante la orientación, apoyo y capacitación en su caso, a todas las áreas que conforman el Organismo para el fortalecimiento de la operación, y
+XVII. Recibir, analizar y tramitar las solicitudes de Certificación de Afirmativa Ficta, y vigilar que se desahogue correctamente el Procedimiento por parte del superior jerárquico de la autoridad omisa, en los términos y plazos previstos en la Ley de Procedimiento Administrativo del Distrito Federal, debiendo informar a la Contraloría General sobre las solicitudes y trámites realizados, así como de las Responsabilidades y Sanciones que se determinen.
 
-XVIII. Las demás que sean análogas o necesarias a las fracciones anteriores para la ejecución de sus atribuciones en apego a las disposiciones legales, o bien, que sean encomienda de la Contraloría General del Distrito Federal.
+XVIII. Elaborar, para autorización previa del Titular de la Contraloría General, el Programa Operativo Anual correspondiente, así como rendir los Informes periódicos derivados de su aplicación.
+
+XIX. Supervisar el cumplimiento oportuno de las Obligaciones Fiscales a cargo de la Entidad.
+
+XX. Participar con la representación que corresponda, en los Comités de Control y Evaluación, para verificar el cumplimiento de la Implantación de Sistemas de Control y prevención específicos por parte de la Entidad.
+
+XXI. Asistir a las Sesiones del Órgano de Gobierno de la Entidad.
+
+XXII. Formular propuestas de Mejoras Regulatorias y Administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en las operaciones de la Entidad.
+
+XXIII. Coadyuvar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones, revisiones que se realicen en cualesquiera de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal.
+
+XXIV. Comisionar al personal a su cargo, para coadyuvar al cumplimiento de funciones y atribuciones conferidas a la Entidad.
+
+XXV. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos que sean remitidos por la Dirección Ejecutiva de Contraloría Ciudadana.
+
+XXVI. Realizar visitas e inspecciones a las instalaciones de los proveedores y contratistas que intervengan en las adquisiciones, arrendamientos, prestación de servicios, a efecto de vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas administrativas aplicables.
+
+XXVII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adquisiciones directas o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes, en materia de adquisiciones, arrendamientos, prestación de servicios, enajenación de bienes muebles, así como de todas las consecuencias legales que de esto resulten cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias.
+
+XXVIII. Instruir a la Entidad de la Administración Pública a la que se esta adscrita, a suspender temporal o definitivamente, rescindir o terminar anticipadamente los contratos y/o convenios, pagos y, demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, enajenación de bienes muebles; cuando derivado de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio 'se tenga conocimiento de irregularidades o inconsistencias.
+
+XXIX. Realizar las investigaciones y solicitar toda clase de información y documentación que resulten necesarios, para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos o que se deriven de los procedimientos administrativos disciplinarios que substancien.
+
+XXX. Vigilar que la Entidad de la Administración Pública a la que esta adscrita, cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y
+
+XXXI. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
+
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2006)</small>
 
 ###### ARTÍCULO 20.
 
-A la Unidad Departamental de Auditoría del Ejercicio Presupuestal, le corresponde:
+A la Unidad Departamental de Control Interno, le corresponde:
 
-I. Coadyuvar en la formulación e integración del Programa Anual de Control y Auditoría;
+I. Formular para aprobación del Contralor Interno, el Programa de Implantación y Seguimiento de Control Interno, manteniendo un Seguimiento Sistematizado de su Ejecución.
 
-II. Realizar auditorías, revisiones y evaluaciones a las distintas áreas del Organismo en materia de programación y presupuesto, derivadas del Programa Anual de Control y Auditoría, así como las especiales que se requieran;
+II. Apoyar previa autorización del Titular del Órgano de Control Interno, las revisiones programadas, así como las extraordinarias o adicionales a éstas, de conformidad con los Lineamientos que para tal fin emita la Contraloría General, a efecto de vigilar el cumplimiento de las disposiciones Legales, reglamentarias y Administrativas en materia de Información, Estadística, Organización, Procedimientos, Sistemas de Registro y Contabilidad, Contratación y Remuneración al Personal, Contratación de Adquisiciones, Arrendamientos, Servicios, Conservación, Uso, Destino, Afectación, Enajenación y Baja de Bienes Muebles e Inmuebles, Almacenes, Activos y demás que correspondan en términos de las disposiciones Jurídicas y Administrativas aplicables.
 
-III. Emitir las observaciones y recomendaciones derivadas de las auditorías, revisiones y evaluaciones y llevar a cabo su seguimiento hasta su atención;
+III. Formular las observaciones derivadas de los procesos de implantación de sistemas de control interno y llevar su seguimiento, emitiendo las recomendaciones para su solventación.
 
-IV. Vigilar que las áreas del Organismo atiendan las observaciones y recomendaciones formuladas a éstas, por los distintos Órganos Externos de fiscalización;
+IV. Asistir con la representación que designe el Contralor Interno a las sesiones de los Comités y Subcomités instalados en la Entidad de la Administración Pública del Distrito Federal, en términos de las disposiciones jurídicas y administrativas aplicables y preparar los informes correspondientes.
 
-V. Orientar las acciones para el diseño e implantación del Control Interno de acuerdo al Programa autorizado por la Contraloría General, así como dar seguimientos a las acciones implantadas;
+V. En representación de la Contraloría Interna realizar verificaciones, revisiones, inspecciones, visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública e intervenir en todos los procesos administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, enajenación de bienes muebles, almacenes e inventarios, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables.
 
-VI. Asistir a los procesos o eventos que designe el Contralor Interno, y
+VI. Preparar y presentar al Titular del Órgano de Control Interno la atención a los requerimientos que formule la Contraloría General, por conducto de su Titular o, a través de sus direcciones generales, ejecutivas o de área.
 
-VII. Las demás que determinen las disposiciones jurídicas y administrativas aplicables.
+VII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a la Entidad, así como a Proveedores, Contratistas y Prestadores de Servicio, cuando lo estime conveniente.
+
+VIII. Apoyar previa autorización del Titular del Órgano de Control Interno a la Dirección General de Auditoría en la Revisión de los Subsidios otorgados por el Distrito Federal a través de la Entidad, para que éstos sean aplicados conforme a los Programas Autorizados, y evaluar su impacto con base en los Indicadores de Medición correspondientes.
+
+IX. Apoyar previa autorización del Titular del Órgano de Control Interno a la Dirección General de Auditoría en la Revisión del Ejercicio de los Recursos Federales transferidos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, para que se apliquen con base en los acuerdos, convenios y bases de colaboración celebrados con las autoridades Federales competentes.
+
+X. Elaborar, para autorización previa del Titular del Órgano de Control Interno, el Programa Operativo Anual correspondiente, así como rendir los Informes periódicos derivados de su aplicación.
+
+XI. Asistir con la representación que designe el Contralor Interno a las Sesiones del Órgano de Gobierno de la Entidad.
+
+XII. Formular en representación de la Contraloría Interna, propuestas de Mejoras Regulatorias y Administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en las operaciones de la Entidad.
+
+XIII. Previa autorización del Titular del Órgano de Control Interno participar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones, revisiones que se realicen en cualesquiera de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal.
+
+XIV. Preparar y presentar al Contralor Interno la contestación a las opiniones y propuestas de los Contralores Ciudadanos que sean remitidos por la Dirección Ejecutiva de Contraloría Ciudadana.
+
+XV. Realizar en representación del Órgano de Control Interno, visitas e inspecciones a las instalaciones de los proveedores y contratistas que intervengan en las adquisiciones, arrendamientos, prestación de servicios, a efecto de vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas administrativas aplicables; y
+
+XVI. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
+
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2006)</small>
 
 ###### ARTÍCULO 21.
 
-A la Unidad Departamental de Auditoría de Administración de Recursos, le corresponde:
+A la Unidad Departamental de Investigación y Evaluación, le corresponde:
 
-I. Coadyuvar en la formulación e integración del Programa Anual de Control y Auditoría;
+I. Elaborar y presentar para aprobación del Contralor Interno, el Programa de Implantación y Seguimiento de Control Interno, manteniendo un seguimiento sistematizado de su ejecución.
 
-II. Realizar auditorías, revisiones y evaluaciones a las distintas áreas del Organismo, en el ámbito de la administración de recursos, derivadas del Programa Anual de Control y Auditoría, así como las especiales que se requieran;
+II. Apoyar previa autorización del Titular del Órgano de Control Interno, las revisiones
 
-III. Emitir las observaciones y recomendaciones derivadas de las auditorías, revisiones y evaluaciones, y llevar a cabo su seguimiento hasta su atención;
+programadas, así como las extraordinarias o adicionales a éstas, de conformidad con los Lineamientos que para tal fin emita la Contraloría General, a efecto de vigilar el cumplimiento de las disposiciones Legales, reglamentarias y Administrativas en materia de Información, Estadística, Organización, Procedimientos, Sistemas de Registro y Contabilidad, Contratación y Remuneración al Personal, Contratación de Adquisiciones, Arrendamientos, Servicios, Conservación, Uso, Destino, Afectación, Enajenación y Baja de Bienes Muebles e Inmuebles, Almacenes, Activos y demás que correspondan en términos de las disposiciones Jurídicas y Administrativas aplicables.
 
-IV. Llevar a cabo el registro e inventario de todas las observaciones y recomendaciones de los diferentes órganos fiscalizadores;
+III. Formular las observaciones derivadas de los procesos de implantación de sistemas de control interno y llevar su seguimiento, emitiendo las recomendaciones para su solventación.
 
-V. Coordinar el informe de Observaciones Relevantes y Seguimiento de Medidas Correctivas y su envío a la Dirección Ejecutiva de Coordinación de Contralorías Internas de la Contraloría General del Distrito Federal, así como al Titular del Organismo;
+IV. Asistir con la representación que designe el Contralor Interno a las sesiones de los Comités y Subcomités instalados en la Entidad de la Administración Pública del Distrito Federal, en términos de las disposiciones jurídicas y administrativas aplicables y preparar los informes correspondientes.
 
-VI. Asistir a los procesos o eventos que designe el Contralor Interno, y
+V. Preparar y presentar al Titular del Órgano de Control Interno la atención a los requerimientos que formule la Contraloría General, por conducto de su Titular o, a través de sus direcciones generales, ejecutivas o de área.
 
-VII. Las demás que determinen las disposiciones jurídicas y administrativas aplicables.
+VI. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a la Entidad, así como a Proveedores, Contratistas y Prestadores de Servicio, cuando lo estime conveniente.
+
+VII. Apoyar previa autorización del Titular del Órgano de Control Interno a la Dirección General de Auditoría en la Revisión de los Subsidios otorgados por el Distrito Federal a través de la Entidad, para que éstos sean aplicados conforme a los Programas Autorizados, y evaluar su impacto con base en los Indicadores de Medición correspondientes.
+
+VIII. Apoyar previa autorización del Titular del Órgano de Control Interno a la Dirección General de Auditoría en la Revisión del Ejercicio de los Recursos Federales transferidos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, para que se apliquen con base en los acuerdos, convenios y bases de colaboración celebrados con las autoridades Federales competentes.
+
+IX. Verificar a través del Sistema de Seguimiento que para tal efecto se establezca, que la Entidad; atienda hasta su conclusión las Observaciones y Recomendaciones de la Contaduría Mayor de Hacienda de la Asamblea Legislativa.
+
+X. Verificar la aplicación de los Indicadores de Gestión que emita la Dirección General de Evaluación y Diagnóstico para lograr el cumplimiento por parte de la Entidad de las disposiciones en materia de Planeación, Programación, Presupuestación, Ingresos, Egresos, Financiamiento, Inversión en Valores, Deuda, Patrimonio, Fondos y Valores de la propiedad o al cuidado de éstas, así como en materia de Adquisiciones, Arrendamientos, Servicios y demás que señalen las disposiciones Jurídicas y Administrativas aplicables.
+
+XI. Elaborar, para autorización previa del Titular de la Contraloría Interna, el Programa Operativo Anual correspondiente, así como rendir los Informes periódicos derivados de su aplicación.
+
+XII. Participar previa autorización del Titular del Órgano de Control Interno con la Dirección General de Auditoría en la Revisión del Ejercicio de los Recursos Federales transferidos a la Entidad, para que se aplique con base en los acuerdos, convenios y bases de colaboración celebrados con las autoridades Federales competentes.
+
+XIII. Supervisar el cumplimiento oportuno de las Obligaciones Fiscales a cargo de la Entidad.
+
+XIV. Participar con la representación que designe el Contralor Interno, en los Comités de Control y Evaluación, para verificar el cumplimiento de la Implantación de Sistemas de Control y prevención específicos por parte de la Entidad.
+
+XV. Asistir con la representación que designe el Contralor Interno a las Sesiones del Órgano de Gobierno de la Entidad.
+
+XVI. Formular en representación de la Contraloría Interna, propuestas de Mejoras Regulatorias y Administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en las operaciones de la Entidad.
+
+XVII. Previa autorización del Titular del Órgano de Control Interno participar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones, revisiones que se realicen en cualesquiera de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal.
+
+XVIII. Preparar y presentar al Contralor Interno la contestación a las opiniones y propuestas de los Contralores Ciudadanos que sean remitidos por la Dirección Ejecutiva de Contraloría Ciudadana.
+
+XIX. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
+
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2006)</small>
 
 ###### ARTÍCULO 22.
 
 A la Unidad Departamental de Quejas y Denuncias, le corresponde:
 
-I. Recibir y tramitar las quejas y denuncias que le formulen los trabajadores a lista de raya, jubilados, pensionados y derechohabientes, así como los empleados del organismo, sobre actos u omisiones a los servicios que proporciona el Organismo;
+I. Elaborar los diversos informes que al respecto requiera la Contraloría General, por conducto de su titular o, a través de sus direcciones generales, ejecutivas o de área.
 
-II. Efectuar las diligencias a que haya lugar, para la integración del expediente respectivo y determinar la procedencia de las quejas y denuncias recibidas de los servidores públicos o de los derechohabientes, sobre las irregularidades cometidas por los servidores públicos del Organismo durante la prestación del servicio, haciendo este hecho del conocimiento del Contralor Interno, y en su caso, iniciar el procedimiento administrativo disciplinario a que haya lugar, así como lo que instruya el titular del Órgano de Control Interno;
+II. Intervenir en las Actas de Entrega-Recepción que realicen los Titulares y Servidores Públicos de las Dependencias, Unidades administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública que correspondan, a fin de vigilar que se cumpla con la Normatividad aplicable, y en su caso de incumplimiento, determinar las Responsabilidades y Sanciones Administrativas correspondientes.
 
-III. Conocer e investigar sobre los actos u omisiones de los servidores públicos que se determinen como resultado de la práctica de las auditorías y de ser procedente iniciar el procedimiento administrativo correspondiente;
+III. Conocer, investigar, desahogar y resolver Procedimientos Disciplinarios sobre actos u omisiones de Servidores Públicos adscritos a la Entidad, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tenga conocimiento por cualquier medio, para determinar en su caso las Sanciones que correspondan en los términos de la Ley de la materia.
 
-IV. Elaborar los diversos informes que al respecto requiera la Contraloría General del Gobierno del Distrito Federal;
+IV. Substanciar y resolver los Recursos de Revocación que se promuevan en contra de Resoluciones que impongan Sanciones Administrativas a los Servidores Públicos, en términos de las disposiciones Jurídicas y Administrativas aplicables.
 
-V. Mantener actualizado el registro de servidores públicos del Organismo, sancionados por irregularidades cometidas durante el desempeño de sus funciones;
+V. Recibir, analizar y tramitar las solicitudes de Certificación de Afirmativa Ficta, y vigilar que se desahogue correctamente el Procedimiento por parte del superior jerárquico de la autoridad omisa, en los términos y plazos previstos en la Ley de Procedimiento Administrativo del Distrito Federal, debiendo informar a la Contraloría General sobre las solicitudes y trámites realizados, así como de las Responsabilidades y Sanciones que se determinen.
 
-VI. Intervenir en las actas de entrega y recepción de los servidores públicos de estructura, de los que manejan recursos financieros e información confidencial del Organismo y demás que el Contralor Interno le instruya;
+VI. Realizar las investigaciones y solicitar toda clase de información y documentación que resulten necesarios, para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos o que se deriven de los procedimientos administrativos disciplinarios que substancien.
 
-VII. Asesorar jurídicamente a la Contraloría Interna, en materia de quejas y denuncias de su competencia;
+VII. Vigilar que la Entidad a la que esta adscrita, cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y
 
-VIII. Asistir a los procesos o eventos que designe el Contralor Interno, y
-
-IX. Las demás que determinen las disposiciones jurídicas y administrativas aplicables.
+VIII. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
 
 DE LA DIRECCIÓN DE PRESTACIONES Y SERVICIOS AL DERECHOHABIENTE
 
@@ -977,3 +1059,11 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 Aprobado por el Consejo Directivo del Organismo en su segunda Sesión Ordinaria, celebrada el día 25 de septiembre de 2001.- Miembros del Consejo Directivo de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal.- Lic. Octavio Romero Oropeza, Oficial Mayor del Gobierno del Distrito Federal.-(Consejero Presidente Suplente).-Rúbrica.- Ing. Jorge Luis Basaldúa Ramos, Gerente General de la Caja de Previsión de la Policía Preventiva del Distrito Federal.- (Secretario Técnico).- Rúbrica.- C. P. Isaías Tomás Castro Jiménez, Director General de Administración de Personal.- (Consejero Propietario).- Rúbrica.- Lic. Reyna Basilio Ortiz, Directora General Sectorial Programático-Presupuestal de Progreso con Justicia, Gobierno, Seguridad Pública, Administración y Finanzas.-(Consejera Suplente).- Rúbrica.- Lic. Juan David López Manríquez, Director General de Comisarios de la Contraloría General del Gobierno del Distrito Federal.-(Comisario Propietario).- Rúbrica.- Lic. Carlos Felipe López Suárez, Director de Administración de Operación de Fondos y Valores.- (Consejero Suplente).- Rúbrica.
 
 ING. OCTAVIO ROMERO OROPEZA.- OFICIAL MAYOR DEL G. D. F., CONSEJERO PRESIDENTE SUPLENTE. - ING. JORGE LUIS BASALDÚA RAMOS.- GERENTE GENERAL DE LA CAJA DE PREVISIÓN DE LA POLICÍA PREVENTIVA DEL DISTRITO FEDERAL, SECRETARIO TÉCNICO.- C. P. ISAÍAS TOMÁS CASTRO JIMÉNEZ.- DIRECTOR GENERAL DE ADMINISTRACIÓN DE PERSONAL, CONSEJERO PROPIETARIO.- LIC. REYNA BASILIO ORTIZ.- DIRECTORA GENERAL SECTORIAL PROGRAMÁTICO-PRESUPUESTAL DE PROGRESO CON JUSTICIA, GOBIERNO, SEGURIDAD PÚBLICA, ADMINISTRACIÓN Y FINANZAS, CONSEJERA SUPLENTE.- LIC. JUAN DAVID LÓPEZ MANRÍQUEZ.- DIERCTOR (SIC) GENERAL DE COMISARIOS DE LA CONTRALORÍA GENERAL DEL GOBIERNO DEL DISTRITO FEDERAL, COMISARIO PROPIETARIO.- LIC. CARLOS FELIPE LÓPEZ SUÁREZ.- DIRECTOR DE ADMINISTRACIÓN DE OPERACIÓN DE FONDOS Y VALORES, CONSEJERO SUPLENTE.- FIRMAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 5 DE JULIO DE 2006.
+
+Primero. Publíquese las presentes reformas en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Las presentes reformas entrarán a partir de su publicación en la Gaceta Oficial del Distrito Federal.
