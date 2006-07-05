@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2006-06-28"
+last_updated: "2006-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -836,7 +836,9 @@ XXI. Tratándose de la deducción inmediata de bienes de activo fijo a que se re
 
 XXII. Que el importe de las mercancías, materias primas, productos semiterminados o terminados, en existencia, que por deterioro u otras causas no imputables al contribuyente hubiera perdido su valor, se deduzca de los inventarios durante el ejercicio en que esto ocurra; siempre que se cumpla con los requisitos establecidos en el Reglamento de esta Ley.
 
-Los contribuyentes podrán efectuar la deducción a que se refiere el párrafo anterior, siempre que tratándose de bienes básicos para la subsistencia humana en materia de alimentación o salud, antes de proceder a su destrucción, se ofrezcan en donación a las instituciones autorizadas para recibir donativos deducibles conforme a esta Ley, dedicadas a la atención de requerimientos básicos de subsistencia en materia de alimentación o salud de personas, sectores, comunidades o regiones, de escasos recursos, cumpliendo con los requisitos que para tales efectos establezca el Reglamento de esta Ley.
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2006)</small>
+
+Los contribuyentes podrán efectuar la deducción de las mercancías, materias primas, productos semiterminados o terminados a que se refiere el párrafo anterior, siempre que antes de proceder a su destrucción, se ofrezcan en donación a las instituciones autorizadas para recibir donativos deducibles conforme a esta Ley, dedicadas a la atención de requerimientos básicos de subsistencia en materia de alimentación, vestido, vivienda o salud de personas, sectores, comunidades o regiones, de escasos recursos, cumpliendo con los requisitos que para tales efectos establezca el Reglamento de esta Ley.
 
 ###### Artículo 32.
 
@@ -7291,3 +7293,7 @@ Las reformas del artículo 107, entrarán en vigor a partir del 1o de octubre de
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JULIO DE 2006.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
