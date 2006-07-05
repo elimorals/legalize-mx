@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-planeacion-36848"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-14"
-last_updated: "2004-05-31"
+last_updated: "2006-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de Enero de 2004.
 
@@ -67,13 +67,25 @@ V. Dirección de Asesoría Técnica;
 
 VI. Dirección Técnica Operativa;
 
-VII. Director General de Planeación;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2006)</small>
 
-VIII. Dirección de Planeación y Evaluación;
+VII. Dirección de Proyectos Estratégicos;
 
-IX. Dirección de Programación;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2006)</small>
 
-X. Dirección de Programas Operativos;
+VIII. Director General de Planeación;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2006)</small>
+
+IX. Dirección de Planeación y Evaluación;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2006)</small>
+
+X. Dirección de Programación;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2006)</small>
+
+XI. Dirección de Programas Operativos;
 
 El Secretario para el cumplimiento sus atribuciones, contará con el número de asesores, unidades de apoyo técnico y administrativo, así como con el número de servidores públicos necesarios, de conformidad al presupuesto anual de egresos autorizado.
 
@@ -560,6 +572,58 @@ IV. Dar seguimiento a la Aprobación, Presupuestación y a la Programación de l
 V. Emitir dictamen sobre los Convenios o Reglamentos que le son presentados al Secretario.
 
 VI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2006)</small>
+
+Artículo 22 A.- Corresponde a la Dirección de Proyectos Estratégicos:
+
+I.- Proponer al titular do la Secretaría de Planeación los proyectos que se consideren estratégicos para el desarrollo del Estado;
+
+II.- Coordinar, gestionar y promocionar las obras, proyectos e inversiones estratégicos para el desarrollo económico del Estado que justifiquen su viabilidad técnica, social y económica de acuerdo a los diversos esquemas de financiamiento de fuentes tradicionales ó alternativas, buscando la inserción de la administración pública, de la iniciativa privada y/o de la sociedad civil para la realización de los mismos;
+
+III.- Establecer el diálogo y la asesoría permanente a los titulares y el personal técnico de las diversas dependencias del Gobierno, a fin de identificar y dar continuidad a los proyectos que puedan y sean considerados como estratégicos para el desarrollo del Estado;
+
+IV.- Realizar estudios e investigaciones que permitan evaluar necesidades de infraestructura y equipamiento en el Estado a nivel de proyecto conceptual y proponer el orden programático para la realización de esos proyectos estratégicos que corresponda gestionar a la Secretaría;
+
+V.- Participar en los proyectos estratégicos para el desarrollo del Estado en coordinación con la Federación, los Estados y los Municipios;
+
+VI.- Realizar los estudios necesarios y el análisis de factibilidad correspondiente para determinar la viabilidad social y económica de los proyectos estratégicos que así determine el titular de la Secretaría de Planeación, considerando al efecto, criterios urbanos y ambientales;
+
+VII.- Realizar los estudios de factibilidad, técnicos, arquitectónicos y/o de ingeniería necesarios para la adecuada consecución de los proyectos considerados como estratégicos, por sí misma o a través de su contratación, para la elaboración de los expedientes, estudios y proyectos ejecutivos correspondientes, en estricto apego a la normatividad vigente para tales fines;
+
+VIII.- Proponer esquemas y mecanismos financieros para la realización de proyectos considerados como estratégicos;
+
+IX.- Elaborar en coordinación con las dependencias y entidades de la administración pública estatal, el anteproyecto anual de obras, acciones e inversiones estratégicas para el desarrollo del Estado, en congruencia con lo estipulado en el Plan Estatal de Desarrollo;
+
+X.- Evaluar los conocimientos técnicos del personal a su cargo, para en su caso determinar las necesidades de capacitación del mismo; y
+
+XI.- Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2006)</small>
+
+Articulo 22 B.- Para el desempeño de las atribuciones de la Dirección de Proyectos Estratégicos, se auxiliará con el Departamento de Proyectos, cuyas atribuciones son:
+
+I.- Participar en la elaboración de los proyectos estratégicos que el Director le encomiende;
+
+II.- Apoyar en el seguimiento de las gestiones que se realicen para la elaboración de proyectos e inversiones para el desarrollo económico del Estado;
+
+III.- Coadyuvar en la promoción de las obras y proyectos e inversiones estratégicos para el desarrollo del Estado;
+
+IV.- Analizar y proponer al Director proyectos estratégicos que correspondan a la Secretaría;
+
+V.- Apoyar en la realización de los estudios de factibilidad, técnicos, arquitectónicos y/o de ingeniería necesarios para la adecuada consecución de los proyectos estratégicos;
+
+VI.- Participar en la asesoría que le encomiende el Director a las diversas dependencias del Gobierno del Estado, relacionados con proyectos estratégicos
+
+VII.- Participar en el anteproyecto anual de obras, acciones e inversiones estratégicas para el desarrollo del Estado;
+
+VIII.- Asistir a las reuniones de trabajo que le encomiende el Director;
+
+IX.- Llevar el control del seguimiento de los proyectos estratégicos;
+
+X.-Opinar sobre los esquemas y mecanismos financieros para la realización de proyectos estratégicos; y
+
+XI.- Desarrollar las demás funciones inherentes al área de su competencia y las que le asigne su superior jerárquico.
 
 ###### Artículo 23.
 
@@ -1258,3 +1322,7 @@ Sufragio Efectivo No Reelección.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernad
 P.O. 31 DE MAYO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 5 DE JULIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
