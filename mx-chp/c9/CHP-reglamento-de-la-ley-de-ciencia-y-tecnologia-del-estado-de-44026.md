@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-de-ciencia-y-tecnologia-del-estado-de-4402
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-02"
-last_updated: "2005-03-02"
+last_updated: "2006-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 2 de marzo de 2005.
 
@@ -1501,15 +1501,23 @@ Los acuerdos de la COSEI que sean de la competencia de la Junta Directiva le ser
 
 #### Sección Cuarta. De las Categorías
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2006)</small>
+
 ###### Artículo 155.
 
-El SEI tendrá tres categorías en los niveles de calidad siguientes:
+El Sistema Estatal de Investigadores tendrá las seis categorías siguientes:
 
-I. Joven Investigador(a), nivel I;
+I. Joven Investigador(a).
 
-II. Investigador(a) Científico(a), niveles I, II y Honorífico; y,
+II. Investigador(a) (científico o tecnólogo) Nivel I, con grado de maestría.
 
-III. Investigador(a) Tecnólogo(a), niveles I, II y Honorífico.
+III. Investigador(a) (científico o tecnólogo) Nivel I, candidato a doctor.
+
+IV. Investigador(a) (científico o tecnólogo) Nivel I, con doctorado reciente.
+
+V. Investigador(a) (científico o tecnólogo) Nivel II.
+
+VI. investigador(a) (científico o tecnólogo) Honorífico (a).
 
 ###### Artículo 156.
 
@@ -1517,37 +1525,53 @@ Los y las aspirantes a pertenecer al SEI deberán reunir los siguientes requisit
 
 I. Tener una residencia continua mínima comprobable de 3 años en la Entidad. Las y los ciudadanos(as) chiapanecos(as) que se hayan ausentado del Estado por causa de estudios de posgrado y que los(as) hayan concluido con éxito, podrán ser dispensados(as) de este requisito;
 
-II. Ser investigadores, tecnólogos o profesores - investigadores de tiempo completo en activo adscrito(as) y postulados(as) por una institución del Sistema, registrada en el RENIECYT o en el Padrón del Consejo de Ciencia y Tecnología del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2006)</small>
+
+II. Ser personal académico de tiempo completo, que realice actividades de investigación, adscrito a una Institución del Sistema Estatal de Ciencia y Tecnología, registrada en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas o, en el Padrón del Consejo de Ciencia y Tecnología del Estado de Chiapas. En el caso de la categoría I, mencionada en el Artículo 155, la relación laboral podrá ser de al menos 20 horas;
 
 III. No tener otra actividad remunerada, excepto aquellas compatibles con su función principal y permitida por los ordenamientos de su institución que no excedan de 8 horas a la semana; y,
 
 IV. Presentar su solicitud de ingreso de acuerdo con las bases, documentación y formatos que se establezcan.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2006)</small>
+
 ###### Artículo 157.
 
-Además de los requisitos anteriores, las distintas categorías deberán cubrir los siguientes aspectos:
+Además de los requisitos generales, los integrantes del Sistema Estatal de Investigadores, deberán cumplir lo siguiente, según la categoría:
 
-I. Joven Investigador(a). Tener menos de 35 años, estudios mínimos de pasante de maestría, realizados en programas científicos o tecnológicos de posgrado de instituciones inscritas en el RENIECyT y reconocidos en los padrones de calidad del CONACyT o del Consejo de Ciencia y Tecnología del Estado de Chiapas;
+I. Joven Investigador (a). Tener menos de 35 años de edad, estudios mínimos de pasante de maestría, realizados en programas científicos o tecnológicos de posgrado, reconocidos en los padrones de calidad del Consejo Nacional de Ciencia y Tecnología o, del Consejo de Ciencia y Tecnología del Estado de Chiapas.
 
-II. Investigador(a) Nivel I. Tener obligadamente grado de maestría obtenido en programas científicos o tecnológicos de instituciones inscritas en el RENIECyT y reconocidos en los padrones de calidad del CONACyT o del Consejo, o ser candidato(a) de doctorado, con experiencia en investigación con un mínimo de 3 años de ejercicio después de la maestría; en ambos casos deberá comprobar su producción científica y/o tecnológica realizada en los dos años anteriores inmediatos a su solicitud;
+II. Investigador (a) (científico o tecnólogo) Nivel I, con grado de maestría. Tener obligadamente grado de maestría. Obtenido en programas científicos o tecnológicos reconocidos en los padrones de calidad del Consejo Nacional de Ciencia y Tecnología o, del Consejo de Ciencia y Tecnología del Estado de Chiapas, con una experiencia en investigación con un mínimo de 3 años de ejercicio después de la maestría, debiendo comprobar su producción científica y/o tecnología, realizada en los dos años anteriores inmediatos a su solicitud.
 
-III. Investigador(a) Nivel II. Tener obligadamente Grado de Doctor(a), 2 años de ejercicio continuo con ese grado y comprobar producción científica y/o tecnológica realizada en los dos años anteriores inmediatos a su solicitud; y,
+III. Investigador(a) (científico o tecnólogo) Nivel I, candidato a doctor. Ser candidato(a) a doctor(a) con experiencia en investigación, con un mínimo de 3 años de ejercicio después de la maestría, deberá comprobar su producción científica y/o tecnología, realizada en los dos años anteriores inmediatos a su solicitud.
 
-IV. Investigador(a) Honorífico(a). Pertenecer al SNI en cualesquiera de sus niveles y tener el grado de Doctor(a) o experiencia comprobable equivalente.
+IV. Investigador(a) (científico o tecnólogo) Nivel I, con doctorado reciente. Haber obtenido el grado de doctor, dentro de los 2 años previos a la fecha de publicación de la convocatoria, y con experiencia comprobable en investigación.
+
+V. Investigador(a) (científico o tecnólogo) Nivel II. Tener obligadamente grado de doctor con al menos 2 años de ejercicio continuo con ese grado, comprobar producción científica y/o tecnológica realizada en los dos años anteriores inmediatos a su solicitud, y no ser miembro del Sistema Nacional de Investigadores.
+
+VI. Investigador(a) (científico o tecnólogo) Honorífico(a). Pertenecer al Sistema Nacional de Investigadores en cualesquiera de sus niveles.
 
 #### Sección Quinta. De los Estímulos
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2006)</small>
+
 ###### Artículo 158.
 
-Las investigadoras e investigadores miembros del SEI recibirán su Nombramiento en un acto público y tendrán derecho a participar de los estímulos económicos que se establezcan, los cuales podrán ser de la siguiente manera, conforme a las disposiciones presupuestales del Consejo de Ciencia y Tecnología del Estado de Chiapas:
+Los(as) investigadores(as) miembros del Sistema Estatal de Investigadores recibirán su nombramiento en un acto público, y tendrán derecho a participar de los estímulos económicos que se establezcan, los cuales podrán ser de la siguiente manera, conforme a la disponibilidad presupuestal del Consejo de Ciencia y Tecnología del Estado de Chiapas:
 
-I. Las y los jóvenes investigadores podrán recibir apoyos económicos para la conclusión de sus tesis de maestría durante un tiempo máximo de un año, y serán considerados en prioridad para la realización de estudios de doctorado en las áreas y disciplinas que requiera el desarrollo del Estado. Este nombramiento tendrá vigencia hasta por cuatro años improrrogables a condición de estar inscritos(as) en un programa de doctorado, al término del cual deberá solicitar su promoción al Nivel I;
+I. Joven Investigador(a). Las y los jóvenes investigadores podrán recibir apoyos económicos para la conclusión de sus tesis de maestría durante un tiempo máximo de un año, y serán considerados en prioridad para la realización del doctorado en las áreas y disciplinas que requiera el desarrollo del Estado. Este nombramiento tendrá vigencia hasta por cuatro años improrrogables a condición de estar inscritos(as) en programas científicos o tecnológicos de doctorado;
 
-II. Los(as) investigadores(as) científicos(as) y tecnólogos(as) Nivel I, que solo tengan grado de maestría podrán recibir un apoyo económico único para infraestructura académica, que pasará a formar parte del patrimonio de su institución, y ser apoyados(as) en prioridad para la realización del doctorado en las áreas y disciplinas que requiera el desarrollo del Estado; aquellos(as) que sean candidatos(as) al doctorado podrán recibir apoyos económicos para la obtención del grado durante un tiempo máximo de dos años. El Nombramiento tendrá vigencia hasta por cuatro años improrrogables, a condición de estar inscritos(as) en programas científicos o tecnológicos de doctorado;
+II. Investigador(a) (científico o tecnólogo) Nivel I, con grado de maestría. Los(as) investigadores(as) científicos(as) y tecnológicos(as) Nivel I, que sólo tengan grado de maestría, podrán recibir un apoyo económico único para infraestructura académica, que la realización del doctorado en las áreas y disciplinas que requiera el desarrollo del Estado. El Nombramiento tendrá vigencia hasta por cuatro años improrrogables, a condición de estar inscritos(as) en programas científicos o tecnológicos de doctorado;
 
-III. Los(as) investigadores(as) científicos(as) y tecnólogos(as) Nivel II, podrán recibir un apoyo económico único para el mejoramiento de su infraestructura académica, que pasará a formar parte del patrimonio de su institución, y serán apoyados(as) en prioridad, a través de las convocatorias que se expidan, para el fortalecimiento de su infraestructura y el desarrollo de proyectos de investigación en las áreas de demanda que establezca el Consejo de Ciencia y Tecnología del Estado de Chiapas, también se apoyará de manera preferente la publicación de sus resultados en los programas editoriales del Consejo. El Nombramiento tendrá una vigencia de dos años, y será prorrogable por una sola ocasión, a condición de haber postulado su ingreso, sin éxito, al Sistema Nacional de Investigadores; y,
+III. Investigador(a) (científico o tecnólogo) Nivel I, candidato a doctor. Podrán recibir apoyos económicos para la conclusión de sus tesis de doctorado durante un tiempo máximo de dos años, y serán considerados(as) en prioridad a través de las convocatorias que se expidan, para el fortalecimiento de su infraestructura y el desarrollo de proyectos de investigación en las áreas de demanda que establezca el Consejo de Ciencia y Tecnología del Estado de Chiapas, el nombramiento tendrá una vigencia de dos años, y será prorrogable por una sola ocasión;
 
-IV. Los(as) investigadores(as) científicos(as) y tecnólogos(as) Nivel Honorífico, serán apoyados en prioridad, a través de las convocatorias que se expidan, para la consolidación de su infraestructura, el desarrollo de proyectos de investigación y de vinculación, así como el desarrollo de estancias posdoctorales, en las áreas de demanda que establezca el Consejo de Ciencia y Tecnología del Estado de Chiapas. También podrán ser apoyados(as) para participar en congresos y reuniones científicas y tecnológicas, conforme a los lineamientos que se establezcan. El Nombramiento tendrá la misma vigencia que el otorgado por el SNI.
+IV. Investigador (a) (científico o tecnólogo) Nivel I, con doctorado reciente. Podrán recibir un apoyo económico único para infraestructura académica, que pasará a formar parte del patrimonio de institución, y serán apoyados(as) en prioridad, a través de las convocatorias que se expidan, para el fortalecimiento de su infraestructura y el desarrollo de proyectos de investigación en las áreas de demanda que establezca el Consejo de Ciencia y Tecnología del Estado de Chiapas, el nombramiento tendrá una vigencia de dos años, y será prorrogable por una sola ocasión, a condición de haber postulado su ingreso sin éxito, al Sistema Nacional de Investigadores.
+
+V. Investigador(a) (científico o tecnólogo) Nivel II. Podrán recibir un apoyo económico único para infraestructura académica, que pasará a formar parte del patrimonio de institución, y serán apoyados(as) en prioridad, a través de las convocatorias que se expidan, para el fortalecimiento de su infraestructura y el desarrollo de proyectos de investigación en las áreas de demanda que establezca el Consejo de Ciencia y Tecnología del Estado de Chiapas, el nombramiento tendrá una vigencia de 2 años, y será prorrogable por una sola ocasión, a condición de haber postulado su ingreso sin éxito, al Sistema Nacional de Investigadores.
+
+VI. Investigador(a) (científico o tecnólogo) Honorífico (a). Los(as Investigadores(as) científicos(as) y tecnológicos(as) Nivel Honorífico serán apoyados en prioridad, a través de las convocatorias que se expidan, para la consolidación de su infraestructura, el desarrollo de proyectos de investigación y de vinculación, así como el desarrollo de estancias posdoctorales, en las áreas de demanda que establezca el Consejo de Ciencia y Tecnología del Estado de Chiapas; también podrán ser apoyados(as) para participar en congresos y reuniones científicas y tecnológicas, conforme a los lineamientos que se establezcan. El nombramiento tendrá la misma vigencia que el otorgado por el Sistema Nacional de Investigadores.
+
+Los miembros de las Categorías III, IV y V, del Sistema Estatal de Investigadores, que así lo soliciten tendrán preferencia en la publicación de sus resultados, en los programas editoriales del Consejo de Ciencia y Tecnología del Estado de Chiapas.
 
 #### Sección Sexta. De los Criterios de Evaluación
 
@@ -1764,3 +1788,13 @@ Artículo Noveno. Los casos no previstos en el presente ordenamiento, serán res
 Dado en la residencia oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veinticinco días del mes de noviembre de dos mil cuatro.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Alfredo Palacios Espinosa, Secretario de Educación.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 5 DE JULIO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En tanto no se cuente con el padrón del Consejo de Ciencia y Tecnología del Estado de Chiapas, y el padrón de calidad establecidos en el presente Reglamento, el Consejo de Ciencia y Tecnología del Estado de Chiapas, y sus órganos de apoyo, tendrán la facultad de decidir sobre el registro de las instituciones y la calidad de los posgrados de procedencia de los candidatos a ingresar al Sistema Estatal de Investigadores.
