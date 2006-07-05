@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2002-01-30"
+last_updated: "2006-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -595,15 +595,15 @@ ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas p�
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES
 
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
-
-ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
-
 > <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 94.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
+
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
@@ -801,133 +801,53 @@ Cuando las operaciones se celebren fuera del Municipio, sobre los bienes situado
 
 Por la promesa de enajenación de bienes que establecen las Fracciones II y XIII del Artículo 93 de esta Ley, el impuesto se liquidará una sola vez, siempre y cuando la persona del promitente comprador original. Toda cesión de derechos posterior se equipara a una nueva operación de traslación de dominio y causa el impuesto a que este capítulo se refiere.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)</small>
+
 ### CAPITULO SEGUNDO. DE LOS IMPUESTOS A LA EXPLOTACION DE JUEGOS, ESPECTACULOS, DIVERSIONES, LOTERIA Y LA OBTENCION DE PREMIOS EN APUESTAS PERMITIDAS
 
 ###### ARTICULO 108.
 
-Es objeto de este impuesto: la explotación de juegos, espectáculos, diversiones, loterías y la obtención de premios en apuestas permitidas.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 109.
 
-Son sujetos de este impuesto, quienes exploten los juegos, espectáculos, diversiones y quienes perciban los premios de loterías y apuestas permitidas.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 110.
 
-Tienen obligación de retener y enterar el impuesto, quienes hagan el pago del premio obtenido.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 111.
 
-Son responsables solidarios en el pago de los impuestos quienes organicen, manejen, patrocinen o intervengan, sea cuales fueren el nombre y función con el que lo hagan, en las actividades comprendidas en el artículo 108.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 112.
 
-La base para el pago del impuesto sobre juegos será por mesa o clase de juego, debiendo liquidarse por bimestre, en pago anticipado, dentro de los primeros quince días naturales del primer mes de cada bimestre, de acuerdo con la siguiente tarifa:
-
-I.- Mesas de billar o de boliche por cada una: $750.00.
-
-II.- Juegos de dominó, ajedrez, damas, cubilete, dados, y similares por cada juego: $200.00.
-
-III.- Otros no especificados, por cada uno: $300.00.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 113.
 
-No se causará este impuesto en los Clubes de servicio y en los establecimientos en los que su licencia permita el uso gratuito de mesas y equipo de juegos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 114.
 
-Es base del impuesto:
-
-Tasa o cuota Fija mensual
-
-I.- De espectáculos.
-
-A.- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
-
-a).- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
-
-b).- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
-
-c).- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
-
-B.- Obras de teatro, variedades y otros similares: 8% calculado sobre el ingreso total por función que derive de dichas actividades;
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
-
-C.- Funciones de circo: 8% calculado sobre el ingreso total por función que derive de dichas actividades;
-
-Los espectáculos públicos consistentes en obras de teatro y funciones de circo, no causarán el pago del impuesto adicional.
-
-D.- FESTIVALES TAURINOS:
-
-a).- Corridas de toros, sobre el ingreso bruto:15%
-
-b).- Novilladas, sobre el ingreso bruto:15%
-
-E.- LUCHA LIBRE Y BOX, SOBRE EL INGRESO BRUTO: 15%
-
-F.- GALLOS DE PELEA:
-
-a).- Sobre la entrada bruta: 15%
-
-b).- Sobre apuestas liquidadas: 15%
-
-G.- DEPORTIVOS, FUTBOL, BEISBOL Y OTROS ESPECTACULOS SIMILARES, SOBRE LA ENTRADA BRUTA: 15%
-
-II.- DIVERSIONES:
-
-A.- BAILES:
-
-a).- Cuando se celebren en lugares públicos o privados si se cobra por la entrada en cualquier forma de venta (boletos o de invitaciones, cuotas, donativos, cooperación, guardarropa, reservaciones de mesas, por piezas que se baile, por rifas, venta de objetos, etc.) 15% sobre los ingresos brutos que otorgan sin que el monto del impuesto sea inferior de $2,000.00.
-
-b).- Cuando se celebre en lugares públicos o privados si no se cobra por la entrada y los gastos se sufraguen por los organizadores o por los asistentes del 15% sobre el total de los gastos, pero sin que el monto del impuesto sea inferior a $3,000.00.
-
-III.- APARATOS FONOELECTROMECANICOS:
-
-A.- Por cada aparato, cuota anual $2,000.00
-
-B.- Aparatos de sonido:
-
-a).- De instalación fija cuota mensual de: $100.00 a $300.00
-
-b).- Instalados en vehículos cuota mensual de: $100.00 a $300.00
-
-c).- En ferias, verbenas, etc. cuota diaria de: $100.00 a $300.00
-
-IV.- SORTEOS O RIFAS.
-
-Sobre el ingreso bruto: 10%
-
-V.- Otros espectáculos, diversiones o juegos no especificados sobre sus ingresos brutos: 20%
-
-VI.- Loterías, instaladas en locales permanentes o puestos semifijos: diario de $75.00 a $300.00
-
-VII.- Por la obtención de premios en sorteos, loterías o rifas, sobre el ingreso bruto o valor del premio obtenido: 6%
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 115.
 
-Los contribuyentes del impuesto fijado en el Artículo anterior comprendidos en las fracciones I, inciso A subincisos a), lo pagarán dentro de los primeros quince días naturales del mes posterior; los comprendidos en las Fracciones I, incisos A, subincisos b) y c), B, C, D, E, F y G, II incisos A, Fracción III inciso B subincisos (sic) c), V y VI, lo cubrirán el día de la función; los comprendidos en la Fracción III incisos B subincisos a) y b) lo cubrirán en la primera quincena del respectivo mes; los comprendidos en la Fracción IV y VII, lo pagarán al inicio de la semana anterior a los sorteos o rifas; y los comprendidos en la Fracción III inciso A dentro de los primeros dos meses del año.
-
-Las cuotas a que se refiere este Artículo se cubrirán: si es anual dentro de los dos primeros meses del año, si es mensual dentro de los primeros quince días naturales del mes.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 116.
 
-Los explotadores de juegos con apuestas permitidas deberán retener el impuesto a cargo de los sujetos que obtengan los premios, sea en dinero o en especie, y enterarlo dentro de los cinco días naturales siguientes a la celebración del evento.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 117.
 
-Los organizadores de sorteos, rifas o loterías al iniciar la distribución o venta de las participaciones, deberán presentar a la Tesorería Municipal una manifestación en la que comprobarán haber cumplido con los requisitos federales y locales.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 118.
 
-Están exentos del pago:
-
-I.- La lotería nacional y pronósticos deportivos para la asistencia pública.
-
-II.- Los que causen impuestos federales participables.
-
-Sin embargo deberán cumplir con las obligaciones de retención que éste u otros impuestos les impongan.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ### CAPITULO TERCERO. DEL IMPUESTO ADICIONAL
 
@@ -3436,6 +3356,26 @@ P.O. 30 DE ENERO DE 2002.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. Remítase la presente Ley al Poder Ejecutivo, para los efectos a que se refieren los artículos 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO. Se abroga la Ley General de Hacienda del Estado de Morelos publicada en el Periódico Oficial número 3151, de fecha 4 de enero de 1984; así mismo se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO. Se derogan las disposiciones de la Ley General de Hacienda Municipal del Estado de Morelos, así como de las leyes de ingresos municipales correspondientes, en lo relativo al Impuesto a la Explotación de Juegos, Espectáculos, Diversiones, Lotería y la Obtención de Premios en Apuestas Permitidas; las disposiciones por concepto de rifas, sorteos y juegos permitidos con apuesta; y todo aquello que se contrapongan a lo establecido en la presente Ley.
+
+QUINTO. De conformidad con el artículo 6 de la presente Ley, las cuotas y tarifas contenidas en la presente Ley en cantidades determinadas, se deberán actualizar en el porcentaje que se incremente el Salario Mínimo General Vigente en el Estado de Morelos, y publicarse en la Ley de ingresos que corresponda.
+
+SEXTO. Las tasas contenidas en la presente Ley, se aplicarán a partir del día primero del mes siguiente a la fecha en que este ordenamiento entre en vigor.
+
+SÉPTIMO. Se concede al Titular del Poder Ejecutivo, así como a los Presidentes Municipales un plazo de sesenta días naturales, contados a partir de la vigencia de la presente Ley, para que presenten las iniciativas por las que se deroguen o modifiquen los ordenamientos legales que repercutan en la eficacia de la misma.
+
+OCTAVO. Se faculta al Poder Ejecutivo para que realice todos los actos jurídicos necesarios para dar cumplimiento a la nueva integración del Comité Técnico del Fideicomiso Turismo Morelos.
+
+NOVENO. En lo referente al artículo 45 de esta Ley, se cobrará la tasa del 1% en los ejercicios fiscales 2006 y 2007; a partir del ejercicio 2008 la tasa aplicable será del 2%.
 
 ###### ARTÍCULO PRIMERO.
 
