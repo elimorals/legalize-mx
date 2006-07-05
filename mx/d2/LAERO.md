@@ -4,7 +4,7 @@ identifier: "LAERO"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1995-12-22"
+last_updated: "2006-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAERO"
 
 LEY DE AEROPUERTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 1995.
 
@@ -252,7 +252,13 @@ I. La capacidad jurídica, técnica, administrativa y financiera, para asegurar 
 
 II. La acreditación legal de la posibilidad de usar y aprovechar el terreno para establecer instalaciones necesarias para prestar los servicios, según se trate, que cumpla con requisitos técnicos de seguridad y disposiciones en materia ambiental y cuente con el personal técnico y administrativo capacitado.
 
-La resolución de la Secretaría sobre el otorgamiento de permisos, deberá emitirse en un plazo que no exceda de noventa días naturales, contado a partir de aquél en que se hubiere presentado la solicitud debidamente integrada.
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2006)</small>
+
+La resolución de la Secretaría sobre el otorgamiento de permisos, deberá emitirse en un plazo que no exceda de noventa días naturales, contados a partir de aquel en que se hubiere presentado la solicitud debidamente integrada; tratándose de aeródromos de servicio particular, una vez transcurrido dicho plazo se considerará autorizado el permiso si la Secretaría no hubiere comunicado resolución alguna al promovente; el permiso se entenderá otorgado por diez años.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JULIO DE 2006)</small>
+
+Cuando la Secretaría resuelva negativamente sobre el otorgamiento de un permiso, ésta contará con 30 días naturales posteriores a la fecha de la resolución, para remitir al promovente un documento explicativo sobre los motivos para la negación del permiso.
 
 #### Sección tercera. Disposiciones comunes
 
@@ -813,3 +819,9 @@ SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de
 México, D.F., a 14 de diciembre de 1995.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Jorge G. López Tijerina, Secretario.- Dip. Virginia Hernández Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 5 DE JULIO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
