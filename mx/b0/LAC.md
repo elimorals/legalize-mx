@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2006-06-06"
+last_updated: "2006-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -158,11 +158,13 @@ XIII. Autorizar la práctica de visitas de verificación;
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
-XIV. Designar o, en su caso, remover a los comandantes regionales, comandantes de aeropuertos, helipuertos y aeródromos civiles en general, así como al personal técnico especializado que preste sus servicios en los mismos; y
+XIV. Designar o, en su caso, remover a los comandantes regionales, comandantes de aeropuertos, helipuertos y aeródromos civiles en general, así como al personal técnico especializado que preste sus servicios en los mismos; y (sic)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2006)</small>
 
-XV. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+XV. Aprobar el plan de vuelo que previamente el operador presentará por escrito o transmitirá por vía telefónica, interfono, frecuencia de radiocomunicación aeronáutica establecida o cualquier otro medio electrónico, conforme a las disposiciones administrativas que para tales efectos sean expedidas, y
+
+XVI. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1203,5 +1205,9 @@ Artículo Segundo. El presente Decreto deroga todas aquellas disposiciones jurí
 La autoridad correspondiente deberá adecuar todas aquellas disposiciones reglamentarias a más tardar dentro de los 120 días siguientes a la fecha de su entrada en vigor.
 
 D.O.F. 6 DE JUNIO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
