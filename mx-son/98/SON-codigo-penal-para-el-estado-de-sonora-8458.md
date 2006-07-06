@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2005-10-20"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -961,6 +961,10 @@ El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el 
 
 El perdón del ofendido, también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se satisfagan los requisitos antes señalados, con excepción de lo establecido en la fracción II de este artículo.
 
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+El perdón del ofendido, en el caso del delito de violencia intrafamiliar, procederá en los términos y condiciones que se señalan en el Capítulo IV del Título Decimotercero de este Código.
+
 ### CAPITULO V. INDULTO
 
 ###### ARTICULO 92.
@@ -1024,6 +1028,10 @@ El plazo para la prescripción se aumentará en un (sic) mitad más, si el indic
 ###### ARTICULO 100.
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+En los delitos de homicidio calificado, secuestro, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, la acción penal prescribirá en un plazo igual al término máximo de la pena privativa de la libertad que corresponda al delito cometido.
 
 ###### ARTICULO 101.
 
@@ -1943,7 +1951,7 @@ Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o 
 
 Este delito se perseguirá sólo a petición de parte ofendida.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 198.
 
@@ -2147,7 +2155,7 @@ DELITOS DE PELIGROSIDAD SOCIAL
 
 ### CAPITULO IV. Violencia Intrafamiliar
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 212.
 
@@ -2163,15 +2171,13 @@ DELITOS SEXUALES
 
 ###### ARTICULO 213.
 
-Al que sin consentimiento de una persona púber o impúber, o con el consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, se le aplicará pena de seis meses a cinco años de prisión.
+Al que sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto erótico, se le aplicará una pena de seis meses a cinco años de prisión.
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+Al que ejecute o haga ejecutar un acto erótico en perjuicio de un niño o una niña menores de doce años de edad, aunque hubieren dado su consentimiento, se le impondrá una pena de uno a ocho años de prisión.
 
-Si el ofendido es menor de doce años, o no tiene la capacidad de comprender el significado del hecho, aunque hubiere dado su consentimiento, o se trate de persona que no pueda oponer resistencia por enfermedad, pérdida del sentido o discapacidad, la pena de prisión será de dos a cinco años.
+Si la parte ofendida no tiene la capacidad de comprender el significado del hecho, aunque hubiere dado su consentimiento, o se trate de persona que no pueda oponer resistencia por enfermedad, pérdida del sentido o discapacidad, la pena será de dos a ocho años de prisión.
 
-Si se hiciere uso de la violencia física o moral en alguno de los supuestos señalados en este artículo, se aumentará la sanción correspondiente en dos terceras partes.
-
-El delito de abusos deshonestos, sólo se sancionará cuando se haya consumado.
+Si se hiciere uso de la violencia física o moral en alguno de los supuestos señalados en este artículo, o se cometa de manera reiterada sobre la misma víctima, aún cuando por las circunstancias especiales de ésta no tenga la capacidad de especificar con exactitud el tiempo en que fueron ocasionados, se aumentará la sanción correspondiente hasta en dos terceras partes.
 
 ###### ARTICULO 214.
 
@@ -2204,6 +2210,10 @@ Comete el delito de estupro el que tiene cópula con mujer menor de dieciocho a�
 ###### ARTICULO 216.
 
 No se procederá contra el estuprador, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos de sus representantes legítimos; pero cuando el delincuente se case con la mujer ofendida, cesará toda acción para perseguirlo o se extinguirá la sanción impuesta, en su caso.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Por el solo hecho de no haber cumplido dieciséis años de edad la mujer estuprada, se presume que se empleó la seducción en la obtención de su consentimiento para la cópula.
 
 ###### ARTICULO 217.
 
@@ -2357,19 +2367,35 @@ Para que el perdón concedido por el ofendido, o representante de los menores, p
 
 ###### ARTICULO 234-A.
 
-Por violencia intrafamiliar se entiende todo acto de poder u omisión reiterado e intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico o sexual, en los términos de la Ley de Prevención y Atención a la Violencia Intrafamiliar.
+Por violencia intrafamiliar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual o patrimonialmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico, sexual o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia Intrafamiliar.
 
-Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubino; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Comete el delito de violencia intrafamiliar el cónyuge, excónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
+
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
 Al que cometa el delito de violencia intrafamiliar se le impondrán de seis meses a seis años de prisión y la suspensión del derecho de alimentos.
 
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+
 Asimismo, cuando la víctima se trate de un menor, será condenado a la perdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
+
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
 En todo caso, el victimario deberá sujetarse a un tratamiento psicológico especializado como una medida para buscar su rehabilitación.
 
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+
 Si se rehabilita, podrá recuperar el derecho de alimentos por resolución judicial.
 
-Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en este caso se perseguirá de oficio.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad, incapaz o persona mayor de 65 años, en este caso se perseguirá de oficio. Dicho menor, incapaz o persona mayor de 65 años, sólo se reintegrará a la familia, previo certificado o dictamen emitido por peritos psicológicos y/o psiquiátricos, que determinen que la persona o personas que hayan cometido el delito no representan ya un peligro o riesgo para éstos.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Para que surta efectos legales el perdón de la víctima, el agresor deberá abstenerse de repetir la conducta delictiva por lo menos en seis meses, cumplir, con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento hasta en tanto se cumpla con dichos requisitos.
 
 > <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
@@ -2383,7 +2409,15 @@ Se equipara a la violencia intrafamiliar y se sancionará con seis meses a seis 
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia intrafamiliar y, bajo su estricta responsabilidad, impondrá al probable responsable como medidas precautorias y de seguridad, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra de la víctima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso, y en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial de la víctima.
 
-En tal sentido, el Ministerio Público podrá emitir órdenes de protección mediante las cuales se decreten providencias o medidas cautelares a favor de la familia y de los receptores de violencia intrafamiliar, quien a través de la Policía Judicial del Estado y las corporaciones de Policía y Tránsito Municipal, dará cumplimiento a las acciones y medidas preventivas dictadas para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales.
+(REFORMADO, B.O. 6 DE JULIO DE 2006) (F. DE E., B.O. 20 DE JULIO DE 2006)
+
+En tal sentido, el Ministerio Público podrá emitir providencias o medidas cautelares de protección provisional a favor de los receptores de violencia y sus familiares, exponiendo las razones y fundamentos que las justifiquen, las cuales deberán ser notificadas de inmediato al indiciado y se dará cumplimiento a las mismas a través de las corporaciones policiacas de que se auxilie; asimismo, remitirá las constancias respectivas al juez penal correspondiente, sin necesidad de ejercitar acción penal, para que dentro de las veinticuatro horas a la recepción de las mismas ratifique o modifique las medidas, según proceda. Cuando 10 (sic) considere necesario y siempre que con anterioridad no se hayan emitido, el juez podrá decretar las medidas antes mencionadas, debiendo notificar 10 (sic) anterior al inculpado e informar al Ministerio Público para que dé cumplimiento a las acciones y medidas preventivas dictadas para garantizar a los receptores de violencia y sus familiares la más completa protección a su integridad y seguridad personal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE JULIO DE 2006)</small>
+
+En caso de que el indiciado o inculpado quebrante las medidas de protección a que se refieren los párrafos anteriores, se le sancionará en los términos del artículo 157, fracción II del Código Penal para el Estado de Sonora.
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2006)</small>
 
 El juez de la causa, con el fin señalado, podrá ratificar o modificar dichas medidas.
 
@@ -2865,7 +2899,7 @@ Al responsable del delito de chantaje se le impondrán de seis meses a diez año
 
 ###### ARTÍCULO 293.
 
-Comete el delito de extorsión y se le aplicarán de tres a diez años de prisión y de veinte a trescientos días multa, al que sin derecho, y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para sí o para otro, o de causar a alguien un perjuicio patrimonial.
+Comete el delito de extorsión y se le aplicarán de tres a diez años de prisión y de veinte a trescientos días multa, al que sin derecho, y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para si o para otro, o de causar a alguien un perjuicio patrimonial.
 
 Las penas se aumentarán en una mitad más, si el constreñimiento se realiza por un miembro de una asociación delictuosa o por persona que sea o haya sido servidor público de alguna corporación policial, o por persona que, sin estar autorizada para ello, ejerza o haya ejercido funciones de éstas, imponiéndose, además, destitución e inhabilitación, en su caso, de dos a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -3604,3 +3638,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Lo dispuesto en el artículo 87 del Código Penal reformado mediante el presente Decreto, que regula la suspensión condicional de las sanciones, podrá ser aplicado retroactivamente a favor de los sentenciados que se encuentren compurgando condenas que no excedan de tres años de prisión y reúnan los requisitos previstos en los incisos a) a f) de la fracción I de dicho precepto, para lo cual presentarán su petición vía incidental ante el juez que hubiere conocido del proceso.
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
