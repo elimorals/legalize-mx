@@ -4,7 +4,7 @@ identifier: "LPAB"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-19"
-last_updated: "2001-06-01"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPAB"
 
 LEY DE PROTECCION AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 19 de enero de 1999.
 
@@ -96,7 +96,7 @@ Las Instituciones tienen la obligación de informar a las personas usuarias de s
 
 ###### Artículo 7o.
 
-Cuando se determine la liquidación de una Institución, o bien se declare la suspensión de pagos o quiebra de ella, el Instituto procederá a pagar las obligaciones garantizadas, líquidas y exigibles, a cargo de dicha Institución, con los límites y condiciones previstos en esta Ley.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 8o.
 
@@ -144,11 +144,7 @@ Asimismo, el Instituto estará obligado a publicar reglas de carácter general p
 
 ###### Artículo 15.
 
-Para recibir el pago en el plazo mencionado en el artículo siguiente, las personas a que se refiere el artículo 1o., deberán presentar dentro de los sesenta días siguientes a la fecha en que el Instituto publique la resolución relativa a la liquidación, suspensión de pagos o quiebra de la Institución, una solicitud de pago adjuntando las copias de los contratos, estados de cuenta, u otros justificantes de las operaciones a que se refiere el artículo 6o., realizadas con la Institución.
-
-La solicitud a que se refiere el párrafo anterior deberá presentarse en los términos, horarios y lugares señalados en el procedimiento de pago de obligaciones garantizadas que publique el Instituto.
-
-Cualquier acción en contra del Instituto prescribirá a los doce meses siguientes a la publicación de la resolución relativa a la liquidación, suspensión de pagos o quiebra de la Institución de que se trate.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 16.
 
@@ -210,107 +206,71 @@ Las cuotas a favor del Instituto no tendrán carácter fiscal, por lo que contra
 
 ###### Artículo 28.
 
-Excepcionalmente, el Instituto, por sí o a solicitud de la Comisión, podrá otorgar apoyos financieros tendientes a proveer la liquidez o el saneamiento de una Institución.
-
-Los apoyos podrán otorgarse mediante la suscripción de acciones y obligaciones subordinadas, asunción de obligaciones, otorgamiento de créditos o la adquisición de Bienes, de acuerdo con lo previsto en el presente capítulo y con las facultades del Instituto en términos del artículo 68.
-
-Los apoyos sólo procederán cuando:
-
-A) Se cuente con un estudio técnico, elaborado por personas o instituciones especializadas de reconocido prestigio y la opinión de la Comisión, que justifique la viabilidad de la Institución, y la idoneidad del apoyo;
-
-B) Como consecuencia del estudio técnico se estimare más conveniente que dicha Institución se mantenga en operación, porque tal opción se considere razonablemente menos costosa que el pago de las obligaciones garantizadas;
-
-C) Se presente un programa de saneamiento para la Institución que habrá de recibir el apoyo financiero;
-
-D) Se otorguen las garantías en los términos y supuestos previstos en el artículo 35 de esta Ley o el Instituto tome las medidas necesarias, a fin de que los accionistas de las instituciones apoyadas absorban el mismo costo que les hubiere correspondido de no haberse dado el apoyo, y
-
-E) Por resolución de la Junta de Gobierno, autorice el otorgamiento de apoyo financiero correspondiente con base en los elementos previstos en las fracciones que anteceden.
-
-Los apoyos financieros se darán únicamente con cargo a los recursos propios del Instituto y los financiamientos que obtenga en los términos del artículo 46 de esta Ley.
-
-El Instituto deberá publicar en los meses de marzo y septiembre un informe sobre los apoyos otorgados en el semestre calendario inmediato anterior y remitirlo al Congreso de la Unión, así como al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 29.
 
-Los apoyos de liquidez que otorgue el Instituto en los términos del artículo anterior estarán sujetos a lo siguiente:
-
-I. No podrán exceder en su plazo, de seis meses, término que podrá ser prorrogado por una sola vez;
-
-II. Se ordenará una inspección con cargo a la Institución, a fin de que el Instituto supervise la correcta aplicación de los apoyos financieros y el exacto cumplimiento del programa de saneamiento bajo el que fueron otorgados los mismos;
-
-III. Las obligaciones de la Institución por los apoyos financieros que otorgue el Instituto deberán quedar garantizadas en los términos del artículo 35.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 30.
 
-La inspección a que se refiere la fracción II del artículo anterior se hará sin perjuicio e independientemente de la intervención administrativa o gerencial, que en su caso, se decrete en la Institución apoyada.
-
-La Institución, sus funcionarios y empleados y, en su caso, el interventor, deberán otorgar a las personas designadas para la realización de la inspección, todas las facilidades necesarias para que éste cumpla su función.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 31.
 
-Para el otorgamiento de los apoyos financieros, el Instituto podrá considerar la situación financiera y operativa de la Institución y, consecuentemente, le podrá imponer los términos, modalidades, limitaciones y condiciones que estime necesarios y oportunos, en congruencia con su situación financiera; entre tales medidas, el Instituto podrá imponer restricciones operativas, constreñir a la Institución a la realización de operaciones determinadas y exigir la remoción y contratación de administradores, funcionarios y empleados.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 32.
 
-Concluido el plazo para el apoyo financiero, la Institución apoyada deberá entregar al Instituto sus estados financieros, auditados por contador público independiente, en los que se acredite el cumplimiento del programa y de las metas en él fijadas. Asimismo, la Institución deberá entregar al Instituto toda la demás documentación e información que éste le solicite.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 33.
 
-El Instituto podrá solicitar a la Comisión que realice las visitas de inspección necesarias, a efecto de constatar que la situación financiera, contable y legal de la Institución, corresponde a las metas establecidas en el programa correctivo.
-
-De igual forma, en las visitas de inspección que realice la Comisión de conformidad con las disposiciones aplicables, a solicitud del Instituto podrá participar personal de éste, para el adecuado cumplimiento de su objeto, a fin de revisar, verificar y evaluar la información que la Institución le haya proporcionado. En este caso, el personal del Instituto actuará coordinado con el de la Comisión.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 34.
 
-Es obligación de la Comisión informar al Instituto respecto de la situación financiera de la Institución, que a su juicio, fuera susceptible de ser intervenida. Por su parte el Instituto deberá informar a la Comisión de cualquier irregularidad que encuentre en las instituciones.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 35.
 
-El pago puntual y oportuno de los apoyos financieros que el Instituto otorgue mediante créditos, quedará garantizado con las acciones con derecho a voto pleno representativas del capital social ordinario de la Institución apoyada, las que serán abonadas a la cuenta que el Instituto mantenga con alguna de las instituciones para el depósito de valores autorizados en los términos de la Ley del Mercado de Valores. El traspaso correspondiente será solicitado por el director general de la Institución o quien ejerza sus funciones.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 36.
 
-En protección de las personas a que se refiere el artículo 1o. de esta Ley y del interés público, en el evento de que el director general, o quien ejerza sus funciones, no otorgue la garantía señalada en el artículo anterior, la institución para el depósito de valores respectiva deberá afectar en garantía dichas acciones en términos de lo dispuesto en el artículo anterior, bastando al efecto la solicitud por escrito por parte del Secretario Ejecutivo.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 37.
 
-En tanto no se cumplan los compromisos garantizados derivados del apoyo otorgado por el Instituto, el ejercicio de los derechos patrimoniales y corporativos inherentes a las acciones representativas del capital corresponderán al propio Instituto. La garantía en favor del Instituto se considerará de interés público y preferente a cualquier derecho constituido sobre dichos títulos. El producto que se derive del ejercicio de derechos patrimoniales quedará afecto al pago de las cantidades que se adeudaren al Instituto.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 38.
 
-En caso de que las obligaciones derivadas de los apoyos financieros otorgados por el Instituto no fueren cumplidas, el Instituto podrá adjudicarse la garantía constituida, considerando como valor de las acciones correspondientes el valor contable de las mismas conforme al estado financiero producido con los datos resultantes de las visitas de inspección de la Comisión. El remanente, si lo hubiera, será entregado a los anteriores accionistas en un plazo no mayor a noventa días hábiles.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 39.
 
-Las acciones referidas en el artículo que antecede, pasarán de pleno derecho a la titularidad del Instituto. Los anteriores accionistas únicamente podrán impugnar el valor de adjudicación. Para tales propósitos los accionistas designarán a un representante común, quien participará en el procedimiento a través del cual se designará, de común acuerdo con el Instituto, a un tercero que emitirá dictamen con respecto al valor contable de las citadas acciones.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 40.
 
-Si la Institución requiere ser capitalizada para recuperar su estabilidad, el Instituto, en ejercicio de los derechos corporativos de las acciones conforme al artículo 37 de esta Ley, o una vez adjudicadas éstas, podrá efectuar las aportaciones de capital necesarias de acuerdo a lo siguiente:
-
-I. Deberá realizar los actos tendientes a aplicar las partidas positivas del capital contable de la Institución a la absorción de pérdidas que tenga la misma;
-
-II. Efectuada la aplicación a que se refiere la fracción anterior, procederá a reducir el capital social y a realizar un aumento que suscribirá y pagará el Instituto, y
-
-III. Una vez hechas las aportaciones por parte del Instituto, éste deberá otorgar a los anteriores accionistas el derecho a adquirir acciones conforme a los porcentajes de que eran titulares hasta la fecha en que el propio Instituto haya suscrito y pagado los nuevos títulos, previo pago de la proporción de pérdidas que les corresponda.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 41.
 
-Para los efectos del artículo anterior, el Instituto publicará el aumento de capital que se realice. Los accionistas a que se refiere la fracción III del artículo anterior, contarán con un plazo de treinta días a partir de la publicación mencionada, para adquirir del Instituto las acciones que correspondan.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 42.
 
-En beneficio del interés público, en los estatutos y en los títulos representativos del capital social de las Instituciones, deberá preverse expresamente lo dispuesto en los artículos 35 a 41 de esta Ley, así como el consentimiento de los accionistas a las condiciones previstas en los mismos.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 43.
 
-Las Instituciones estarán obligadas a proporcionar al Instituto la información que éste le solicite para el cumplimiento de su objeto, incluyendo los datos que permitan estimar su situación financiera, así como a poner en conocimiento del mismo, con toda oportunidad, cualquier problema que ponga en riesgo su estabilidad financiera. Las Instituciones no estarán sujetas a lo establecido en el primer párrafo del artículo 117 y en el artículo 118 de la Ley de Instituciones de Crédito, por lo que hace a la obligación de entregar al Instituto la información antes señalada.
-
-Al Instituto no le serán aplicables las disposiciones señaladas en el párrafo anterior.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 44.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, el Instituto utilizará la información disponible de la Comisión. Para tal efecto, la Comisión compartirá con el Instituto su documentación y bases de datos relativos a la información financiera de las Instituciones.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 45.
 
@@ -334,71 +294,41 @@ Los financiamientos y los recursos autorizados en el Presupuesto de Egresos de l
 
 ###### Artículo 49.
 
-En virtud de la administración cautelar el Instituto se constituirá como administrador único de la Institución, substituyendo a la asamblea general y al consejo de administración, designándose para tal efecto por la Junta de Gobierno, a la persona que ejercerá dicha administración cautelar, contando para ello con las facultades siguientes:
-
-I. La representación y administración de la Institución;
-
-II. Las que correspondan al consejo de administración de la Institución y a su director general, gozando de plenos poderes generales para actos de dominio, de administración, de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la ley, así como para suscribir títulos de crédito, realizar operaciones de crédito, presentar denuncias y querellas, desistirse de estas últimas, y comprometerse en procedimientos arbitrales;
-
-III. Formular y presentar, para su previa aprobación, al Secretario Ejecutivo, el presupuesto necesario para la consecución de su objeto;
-
-IV. Presentar al Secretario Ejecutivo informe sobre la situación financiera en que se encuentra la Institución, así como de la operación administrativa de la misma y de su posible resolución;
-
-V. Autorizar la contratación de pasivos, inversiones, gastos, adquisiciones, enajenaciones y, en general, cualquier erogación que realice la Institución;
-
-VI. Suspender las operaciones que pongan en peligro la solvencia, estabilidad o liquidez de la Institución;
-
-VII. Contratar y remover al personal de la Institución que sea necesario para el desarrollo de su objeto, e informar de las mismas al Secretario Ejecutivo;
-
-VIII. Otorgar los poderes que crea convenientes, revocar los otorgados y, en atención a lo dispuesto por las leyes aplicables, delegar sus facultades en los apoderados que designe al efecto, para que las ejerzan en los términos y condiciones que el Instituto determine, y
-
-IX. Las demás que le otorgue la Junta de Gobierno u otros ordenamientos.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 50.
 
-Sólo tendrá lugar la administración cautelar cuando el Instituto hubiere otorgado apoyo financiero a alguna Institución, en los términos del Capítulo IV de este Título, formulando la declaración correspondiente.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 51.
 
-El Instituto también podrá otorgar los poderes generales y especiales que juzgue convenientes y revocar los que estuvieren otorgados, así como nombrar delegados fiduciarios de la Institución. Las facultades a que se refiere este artículo, se entenderán conferidas a los apoderados del Instituto, que podrán ser personas físicas o morales, en los términos que el mismo establezca.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 52.
 
-El Instituto no quedará supeditado en su actuación a la asamblea de accionistas ni al consejo de administración de la Institución de que se trate.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 53.
 
-El Instituto publicará e inscribirá en el Registro Público de Comercio del domicilio social de la Institución, sin más requisitos que una comunicación del Secretario Ejecutivo que contenga la declaratoria de la administración cautelar a su cargo. La administración cautelar surtirá plenos efectos a partir de la fecha de su inscripción.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 54.
 
-Los apoderados del Instituto que con fundamento en la administración cautelar desempeñen funciones de los dos primeros niveles jerárquicos de las Instituciones, deberán ser personas de reconocidos conocimientos en materia financiera.
-
-A partir de que sean nombrados como apoderados, ni ellos, sus cónyuges o parientes hasta el cuarto grado podrán celebrar operaciones con la institución administrada, por cualquier título bajo la pena del pago del doble del monto que hayan recibido. Se exceptúan las operaciones que se realicen en términos de las disposiciones aplicables con la aprobación expresa de la Junta de Gobierno.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ### CAPÍTULO VI. De la Liquidación, Suspensión de Pagos y Quiebra de las Instituciones
 
 ###### Artículo 55.
 
-El Instituto desempeñará las funciones de liquidador o síndico en las Instituciones que se encuentren en estado de liquidación, suspensión o quiebra, las cuales podrá ejercer con su personal o a través de apoderados que para tal efecto designe. El apoderamiento podrá ser hecho a favor de persona física o moral.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 56.
 
-El Instituto, en cumplimiento del objeto de esta Ley, podrá determinar la disolución y liquidación de las instituciones o solicitar, en términos de las disposiciones aplicables, la suspensión de pagos o declaración de quiebra de las Instituciones.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ###### Artículo 57.
 
-La disolución y liquidación, suspensión de pagos o quiebra de las Instituciones, se regirá, en lo que no se oponga a la presente Ley, por lo dispuesto en los Capítulos X y XI de la Ley General de Sociedades Mercantiles y por la Ley de Quiebras y Suspensión de Pagos, según corresponda, debiendo observar lo siguiente:
-
-I. El liquidador deberá elaborar el balance final de liquidación, sometiéndolo a la revisión de la Comisión. La Comisión podrá ordenar las correcciones que a su juicio fueren fundamentales. Una vez revisado el balance por la Comisión y habiéndose efectuado las correcciones que, en su caso, hubiere ordenado, se depositará e inscribirá en el Registro Público de Comercio del domicilio social de la Institución de que se trate y se procederá conforme a lo dispuesto en la fracción II del Artículo 247 de la Ley General de Sociedades Mercantiles.
-
-Concluido el plazo establecido para impugnaciones y en el evento de que hubiera un remanente, el liquidador efectuará el pago que corresponda a los accionistas.
-
-El Instituto en su carácter de liquidador contará con todas las atribuciones a que se refiere el artículo 51 de esta Ley, y
-
-II. Las propuestas de convenios dentro de los procedimientos de suspensión de pagos o quiebra, una vez admitidas en la junta de acreedores, deberán someterse a la aprobación del Instituto. Para estos efectos se deberá remitir el convenio respectivo del Instituto, en los términos previstos en la Ley de Quiebras y Suspensión de Pagos.
-
-El Juez dictará la sentencia sobre el convenio, con vista en el anterior dictamen.
+(DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 ## TÍTULO TERCERO. DE LOS BIENES
 
@@ -760,11 +690,7 @@ Para la imposición de las sanciones previstas en este Título, se deberá segui
 
 PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con las excepciones que a continuación se establecen.
 
-SEGUNDO.- El Ejecutivo Federal y la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, llevarán a cabo las acciones necesarias para que la designación y aprobación de los vocales de la Junta de Gobierno a que se refiere el artículo 75 de la Ley, la instalación de la propia Junta y la designación del Secretario Ejecutivo, se formalicen dentro de los treinta días naturales posteriores al inicio de vigencia de esta Ley.
-
-Para efectos del párrafo anterior, respecto de los vocales que por primera ocasión proponga el Ejecutivo Federal a la aprobación de la Cámara de Senadores, sus períodos de gestión vencerán los días 31 de diciembre de los años 2001, 2002, 2003 y 2004, por única vez, como excepción a lo establecido en el artículo 76 de esta Ley. En su propuesta el Ejecutivo Federal señalará cuál de los períodos corresponderá a cada vocal.
-
-Ninguna persona que haya sido Secretario de Hacienda y Crédito Público, Gobernador del Banco de México, o Presidente de la Comisión Nacional Bancaria y de Valores y en tal carácter miembro del Comité Técnico del Fondo Bancario de Protección al Ahorro de 1995 a 1997, podrá participar en la Junta de Gobierno del Instituto, ni fungir como Secretario Ejecutivo del mismo.
+SEGUNDO.- (DEROGADO, D.O.F. 6 DE JULIO DE 2006)
 
 TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público proveerá lo necesario en términos de esta Ley y del Presupuesto de Egresos de la Federación que en su caso apruebe la Cámara de Diputados, para que el Instituto inicie operaciones a más tardar en quince días posteriores a aquél en que la Junta de Gobierno haya quedado instalada. Asimismo, dentro de los tres meses siguientes a que quede debidamente integrada la Junta de Gobierno, ésta deberá aprobar el Estatuto Orgánico del Instituto.
 
@@ -909,3 +835,21 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 D.O.F. 1 DE JUNIO DE 2001.
 
 Unico.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones de banca múltiple deberán efectuar los actos corporativos necesarios para prever en sus estatutos sociales y títulos representativos de su capital social, los supuestos y acciones mencionadas en los artículos 29 Bis 1, 29 Bis 2, 29 Bis 4 y 122 Bis 15 de la Ley de Instituciones de Crédito, dentro de un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor del mismo.
+
+Las sociedades controladoras de grupos financieros, contarán con el plazo previsto en el párrafo anterior para efectuar los actos corporativos para adecuar el convenio único de responsabilidades, sus estatutos sociales y los títulos representativos de su capital social, conforme a lo dispuesto en los artículos 28 y 28 Bis de la Ley para Regular las Agrupaciones Financieras.
+
+El incumplimiento a lo previsto en el presente artículo será sancionado por la Comisión Nacional Bancaria y de Valores con multa equivalente de mil a treinta mil veces el salario mínimo general diario vigente en el Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente decreto se encuentren en procedimiento de liquidación o concurso mercantil, se regirán de conformidad con las disposiciones vigentes al momento en que hayan iniciado los procedimientos respectivos.
