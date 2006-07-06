@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2005-03-31"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -108,6 +108,10 @@ Las dependencias y entidades de la administración pública estatal deberán pla
 El Gobernador del Estado podrá celebrar convenios con el Ejecutivo Federal, en los términos de ley, de los que se deriven, por parte del Estado, la asunción de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal, cuando el desarrollo económico y social lo haga necesario.
 
 Asimismo, podrá celebrar convenios con los Ayuntamientos de la Entidad, a efecto de que éstos asuman la prestación de los servicios, la atención de las funciones y la ejecución y operación de las obras a que se refiere el párrafo anterior, o bien, la atención de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Estatal, cuando el desarrollo económico y social lo haga necesario.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Los titulares de las dependencias, cuando así lo determine el Ejecutivo Estatal, podrán firmar en representación del Gobierno del Estado los convenios a que se refiere este artículo, así como los convenios o acuerdos de coordinación o de colaboración que se deriven de los mismos.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA DIRECTA
 
@@ -199,7 +203,9 @@ IV.- Secretaría de Educación y Cultura.
 
 V.- Secretaría de Salud Pública.
 
-VI.- Secretaría de Infraestructura Urbana y Ecología.
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VI.- Secretaría de Infraestructura y Desarrollo Urbano.
 
 VII.- Secretaría de Economía.
 
@@ -230,6 +236,10 @@ III.- Asesorar y apoyar a los Ayuntamientos que lo soliciten, en el desempeño d
 IV.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación federal en materia de juegos y sorteos;
 
 V.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación en materia de asociaciones religiosas y culto público;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+V BIS.- Establecer las bases, definir, coordinar y operar las estrategias que en materia de comunicación social implemente el titular del Poder Ejecutivo del Estado;
 
 VI.- Promover la cultura cívico-política de los ciudadanos y los mecanismos de participación ciudadana;
 
@@ -263,9 +273,17 @@ D. En materia jurídico-administrativa:
 
 I.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado;
 
-II.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia; y
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-III.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativas al nombramiento de los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo.
+II.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+III.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativas al nombramiento de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo; y
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+IV.- Participar en la coordinación de giras de trabajo, eventos especiales y cívicos en los que intervenga el titular del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -371,9 +389,13 @@ II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria d
 
 III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
 
-IV.- Realizar, de acuerdo con el programa respectivo, las adquisiciones y suministros de los bienes y servicios que requiera el funcionamiento de las dependencias, llevando a cabo las licitaciones de acuerdo a la ley de la materia, así como celebrar los contratos o actos relativos, con cargo a la partida presupuestal correspondiente de las mismas; y
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-V.- Establecer las normas y procedimientos para la organización, coordinación y funcionamiento del Sistema Estatal de Información; coordinar los servicios de informática y de apoyo tecnológico a las dependencias; y asimismo, establecer las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación relacionados con dicho sistema.
+IV.- Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+V.- Establecer las normas y procedimientos para la organización, coordinación y funcionamiento de los sistemas de información que permitan integrar y consolidar los proyectos presupuestarios, informes, reportes, estados financieros y demás instrumentos relacionados con la planeación, presupuestación, ejercicio y rendición de cuentas a cargo del Ejecutivo del Estado.
 
 G.- En materia de contabilidad, evaluación y estadística:
 
@@ -407,21 +429,71 @@ III.- Coordinarse con los órganos de control y desarrollo administrativo, o sus
 
 IV.- Promover el fortalecimiento de los órganos de control y evaluación gubernamental de los municipios;
 
-V.- Compilar y difundir las disposiciones jurídicas, presupuestales y administrativas de carácter estatal y federal y fungir como instancia de apoyo de las dependencias, entidades y ayuntamientos, en lo relativo a las funciones de control relacionadas con los asuntos de su competencia; y
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-VI.- Coordinar programas de capacitación dirigidos a otros niveles de gobierno que desempeñen funciones relacionadas con la competencia de esta Secretaría.
+V.- Compilar y difundir las disposiciones jurídicas, presupuestales y administrativas de carácter estatal y federal y fungir como instancia de apoyo de las dependencias, entidades y ayuntamientos, en lo relativo a las funciones de control relacionadas con los asuntos de su competencia;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VI.- Coordinar programas de capacitación dirigidos a otros niveles de gobierno que desempeñen funciones relacionadas con la competencia de esta Secretaría; y
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VII.- Formular las políticas y estrategias para la implementación de la Agenda de Buen Gobierno en el ámbito del Poder Ejecutivo con base en los principios de ética, legalidad, honestidad, responsabilidad, eficiencia, transparencia, rendición de cuentas y vocación de servicio, como rectores del desempeño en el servicio público.
 
 B. En materia de desarrollo administrativo:
 
-I.- Implementar mecanismos e instrumentos para el mejoramiento del desempeño de la gestión gubernamental;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-II.- Coordinar con las dependencias y entidades la realización de proyectos y acciones en materia de simplificación administrativa;
+I.- Impulsar el desarrollo administrativo integral en las dependencias y entidades de la administración pública estatal a fin de que los recursos humanos, patrimoniales y procesos de la misma sean aprovechados y aplicados con criterios de eficiencia, eficacia, efectividad, descentralización, desconcentración y simplificación administrativa;
 
-III.- Implementar, en el marco de las acciones del Sistema Integral de Control y Desarrollo Administrativo, un esquema de gestión electrónico orientado al aprovechamiento y uso de las tecnologías de la información y las comunicaciones;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-IV.- Definir y difundir las políticas y lineamientos para la elaboración de los reglamentos interiores que emita el Gobernador del Estado, así como de los manuales de organización, de procedimientos y de servicios al público de las dependencias y entidades y aprobar estos instrumentos de apoyo administrativo;
+II.- Diseñar e instrumentar la política y directrices para promover la innovación y calidad en la administración pública estatal;
 
-V.- Instrumentar, normar y operar el Programa para la Entrega y Recepción de la Administración Estatal, en la transición de una administración a otra, así como en los casos de cambios de titulares de dependencias, entidades y unidades administrativas, o de su estructura, durante una misma administración;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+III.- Promover y orientar el mejoramiento del desempeño de la administración pública estatal a través de esquemas de gestión de calidad que aseguren la estandarización, mejora continua de procesos, dirección por servicios, satisfacción ciudadana y de los usuarios internos, así como el autocontrol;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+IV.- Instrumentar toda clase de acciones tendientes a incrementar la competitividad y mejoramiento del desempeño de los servidores públicos;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+V.- Emitir y difundir la política en materia de uso y aprovechamiento de tecnologías de la información y las comunicaciones;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VI.- Promover el uso de las tecnologías de la información y las comunicaciones e implementar las mejores prácticas de gobierno electrónico en la prestación de servicios al público y en los procesos internos de la administración pública estatal;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VII.- Intervenir y coordinarse con las dependencias y entidades en la mejora de sus procesos y sistemas de información, así como proporcionarles apoyo y soporte técnico necesario;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VIII.- Diseñar y coordinar la implementación de estrategias y el uso de recursos tecnológicos para la mejora de los procesos de prestación de servicios públicos y operación interna de la administración pública estatal;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+IX.- Coordinar con las dependencias y entidades competentes, la ejecución de programas y acciones en materia de simplificación administrativa en todas las ramas de la administración pública estatal;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+X.- Participar en la conformación de los sistemas de medición y evaluación del desempeño de las dependencias y entidades, así como en establecer mecanismos que faciliten su autocontrol;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+XI.- Definir y difundir las políticas y lineamientos para la elaboración de reglamentos interiores y manuales de organización, de procesos y de servicios al público de las dependencias y entidades y validar estos últimos instrumentos de apoyo administrativo;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+XII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública estatal y sus modificaciones, previo dictamen presupuestal favorable de la Secretaría de Hacienda; y
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+
+XIII.- Normar, instrumentar y operar el Sistema para la entrega y recepción de la Administración Estatal, en la transición de una administración a otra, así como en los cambios de titulares de dependencias y unidades administrativas y de directores generales o equivalentes de entidades, dentro de una misma administración.
 
 C. En materia de control gubernamental:
 
@@ -433,9 +505,13 @@ III.- Evaluar el desempeño de las dependencias y entidades en la ejecución de 
 
 IV.- Designar a los enlaces con las dependencias para el ejercicio permanente de las atribuciones de control a su cargo;
 
-V.- Designar y contratar, en los casos que se requiera, a los auditores externos de las entidades, así como controlar y evaluar sus actividades, con cargo al presupuesto de dichas entidades;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-VI.- Realizar, para el ejercicio de sus atribuciones, visitas, inspecciones, auditorías, revisiones, fiscalizaciones, verificaciones y demás actos sustantivos inherentes a su competencia, así como determinar las observaciones que se generen y ordenar a las dependencias y entidades la realización de las medidas preventivas y correctivas que se requieran, de conformidad con las disposiciones que regulan su marco de actuación;
+V.- Designar mediante procedimientos simplificados de licitación o de manera directa, cuando se considere necesario, a los auditores externos de la cuenta pública estatal y de las entidades de la administración pública estatal y demás entes públicos del Poder Ejecutivo del Estado, así como controlar y evaluar sus actividades y el cumplimiento de los contratos que se celebren con cargo al presupuesto de las propias entidades y entes; asimismo, emitir los lineamientos para la designación y contratación de consultores y casas certificadoras de calidad;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VI.- Realizar, para el ejercicio de sus atribuciones, visitas, inspecciones, auditorías, revisiones, fiscalizaciones, verificaciones y demás actos sustantivos inherentes a su competencia, así como determinar las observaciones que se generen y promover en las dependencias y entidades la realización de acciones preventivas y correctivas que se requieran, y evaluar la eficacia del cumplimiento de las medidas requeridas;
 
 VII.- Controlar, verificar, fiscalizar y evaluar el cumplimiento normativo, en su caso, de las dependencias y entidades, en lo relativo a: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios de cualquier naturaleza, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos de la Administración Pública Estatal; así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, financiamientos, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo;
 
@@ -531,7 +607,9 @@ A la Secretaría de Salud Pública le corresponden las facultades y obligaciones
 
 A. En materia de servicios de salud;
 
-I.- Proponer las políticas y conducir y evaluar los programas de servicios médicos, asistencia social y salubridad local;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+I.- Proponer las políticas y conducir y evaluar los programas de servicios médicos, asistencia social y salubridad;
 
 II.- Preservar, mejorar y rehabilitar las condiciones de salud de los habitantes del Estado;
 
@@ -551,13 +629,19 @@ IX.- Realizar una labor permanente de difusión y orientación hacia la poblaci�
 
 X.- Establecer normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento; y
 
-XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
+XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realice en el Estado.
 
-B. En materia de salubridad local:
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
-I.- Dictar la norma técnica en materia de salubridad local y verificar su cumplimiento;
+B. En materia de salubridad:
 
-II.- Llevar a cabo el control sanitario de la salubridad local, ordenando las medidas de seguridad que correspondan imponiendo las sanciones autorizadas por la Ley;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+I.- Dictar la norma técnica en materia de salubridad y verificar su cumplimiento;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+II.- Llevar a cabo el control sanitario de la salubridad, ordenando las medidas de seguridad que correspondan imponiendo las sanciones autorizadas por la Ley;
 
 III.- Proponer al Ejecutivo Estatal los acuerdos y convenios necesarios, a fin de descentralizar a los ayuntamientos funciones, servicios y establecimientos en materia de salubridad, en los términos fijados por la Ley de Salud para el Estado de Sonora;
 
@@ -565,11 +649,11 @@ IV.- Coordinar acciones preventivas y de control para el cuidado del medio ambie
 
 V.- Promover y coordinar las campañas sanitarias tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 29.
 
-A la Secretaría de Infraestructura Urbana y Ecología le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Infraestructura y Desarrollo Urbano le corresponden las facultades y obligaciones siguientes:
 
 A. En materia de desarrollo urbano e infraestructura:
 
@@ -589,13 +673,15 @@ VII.- Promover y ejecutar, en su caso, las acciones de equipamiento urbano y viv
 
 B. En materia de ecología y medio ambiente:
 
-I.- Proponer las políticas y ejecutar los programas relativos a la ecología y medio ambiente;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-II.- Promover la participación y responsabilidad de la sociedad en la formulación de la política ecológica, la aplicación de sus instrumentos, en acciones de información y vigilancia y, en general en las acciones ecológicas que emprenda el Estado;
+I.- Proponer políticas y programas relativos a las materias de ecología y medio ambiente;
 
-III.- Realizar, en los términos de los acuerdos de coordinación que se celebren, actos de inspección y vigilancia, para la verificación del cumplimiento de la Ley General del Equilibrio Ecológico y la Protección del Ambiente para el Estado de Sonora; y
+II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
-IV. Fungir como secretario técnico de la Comisión Estatal de Ecología.
+III.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+
+IV.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
 C. En materia de obra pública:
 
@@ -603,15 +689,29 @@ I.- Realizar obras públicas, directamente o a través de terceros, en los térm
 
 II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
 
-D. En materia de comunicaciones y transportes:
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
-I.- Proponer las políticas y ejecutar, en su caso, las acciones relativas a comunicaciones y transportes;
+D. En materia de transporte:
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+I.- Promover las políticas y ejecutar los programas relativos a la planeación, administración, regulación, modernización, control y supervisión del servicio público y privado de transporte en el Estado, y en su caso, promover las políticas y elaborar programas relativos a la prestación directa del servicio público de transporte por parte del Ejecutivo Estatal.
 
 E. En materia de investigación y asesoría:
 
-I.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, la ecología y medio ambiente, las comunicaciones y el transporte; y
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-II.- Asesorar técnicamente a los municipios en materia de desarrollo urbano, ecología y medio ambiente, comunicaciones, transporte y en la realización de obras públicas, cuando así lo soliciten los ayuntamientos.
+I.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, las comunicaciones y el transporte; y
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+II.- Asesorar técnicamente a los municipios en materia de desarrollo urbano, comunicaciones, transporte y en la realización de obras públicas, cuando así lo soliciten los ayuntamientos.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+F. En materia de comunicaciones:
+
+I.- Proponer políticas y ejecutar acciones en materia de comunicaciones en el Estado.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -633,7 +733,7 @@ V.- Promover la creación de fuentes de empleo mediante el fomento del desarroll
 
 VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
 
-VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
+VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, el turismo y de la minería;
 
 VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
 
@@ -655,21 +755,23 @@ XVI.- Promover la participación de la sociedad, en la ejecución de los program
 
 B. En materia de turismo:
 
-I.- Promover en coordinación con las autoridades federales competentes, las zonas de desarrollo turístico del Estado, así como la formulación de las declaratorias respectivas;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-II.- Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, en coordinación con las autoridades competentes;
+I.- Proponer políticas y programas en materia de turismo.
 
-III.- Fomentar y promover el turismo social y rural, en coordinación con las dependencias y entidades del sector público y con la participación de los sectores social y privado;
+II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
-IV.- Establecer, operar y optimizar un sistema de información y orientación al público, así como la recepción y atención de quejas y sugerencias, en relación con los servicios turísticos que se prestan en el Estado;
+III.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
-V.- Colaborar con las autoridades federales competentes, en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
+IV.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
-VI.- Formular y difundir la información turística del Gobierno del Estado y coordinar la publicidad que en esta materia realicen las dependencias y entidades estatales, de conformidad con los lineamientos establecidos al respecto, así como promover la que efectúan los sectores social y privado;
+V.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
-VII.- Promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores de la población involucrados; y
+VI.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
-VIII.- Promover la formación de recursos humanos y la capacitación de los existentes, con objeto de elevar la calidad en la prestación de los servicios turísticos.
+VII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+
+VIII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -709,9 +811,9 @@ III.- Promover un sistema para la certificación de origen y calidad de los prod
 
 IV.- Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado; y
 
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-V.- Instrumentar y ejecutar los programas, acciones y servicios relativos a la vida silvestre del Estado, de conformidad con la Ley General de Vida Silvestre y demás disposiciones e instrumentos jurídicos aplicables.
+V.- Instrumentar y ejecutar los programas de desarrollo, capacitación, sanidad, vigilancia y aprovechamiento sustentable, así como las acciones y servicios relativos a la fauna de interés cinegético y actividades afines, que se desarrollen en el Estado observando las disposiciones que emitan las autoridades competentes.
 
 C. En materia de desarrollo de infraestructura:
 
@@ -727,15 +829,15 @@ V.- Promover y contribuir en la conservación de flora y fauna marinas y dulceac
 
 D. En materia de coordinación:
 
-(REFORMADA, B.O. 31 DE MARZO DE 2005) (F. DE E., B.O. 2 DEMAYO DE 2005)
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-I.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, de vida silvestre, forestal, pesquera o acuícola, cuando así se establezca en dichos instrumentos;
+I.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, cinegética, forestal, pesquera o acuícola, cuando así se establezcan en dichos instrumentos;
 
 II.- Coordinar la participación estatal en los comités directivos de los distritos de desarrollo rural que operen en el Estado;
 
-(REFORMADA, B.O. 31 DE MARZO DE 2005) (F. DE E., B.O. 2 DEMAYO DE 2005)
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-III. Colaborar con el Gobierno Federal en la integración y revisión del Registro Nacional de Pesca, Registro de Derechos de Agua, Padrones de Usuarios de los Distritos de Riego, Servicio Nacional Forestal; así como en la interrelación con el Sistema Nacional de Información Forestal y el Subsistema Nacional de Información sobre la Vida Silvestre, mediante sus respectivos Sistemas Estatales con sus registros y padrón estatales correspondientes; y
+III.- Colaborar con el Gobierno Federal, en los términos de los convenios correspondientes, en la integración y revisión del Registro Nacional de Pesca, Registro de Derecho de Agua, Padrones de Usuarios de los Distritos de Riego, Servicio Nacional Forestal y en todos los demás afines a su competencia; así como en la interrelación con el Sistema Nacional de Información Forestal, mediante sus respectivos sistemas, registros y padrón estatales correspondientes; y
 
 IV.- Diseñar, coordinar y promover programas y campañas de prevención, combate y erradicación de las plagas y enfermedades que afecten a las especies agrícolas, pecuarias, forestales, pesqueras y acuícolas.
 
@@ -783,7 +885,7 @@ XI.- Promover programas relativos al desarrollo integral de los pueblos y las co
 
 B. En materia de desarrollo regional:
 
-I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
+I.- Intervenir en la planeación formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
 
 II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
 
@@ -813,183 +915,331 @@ VIII.- Diseñar e instrumentar políticas y programas para la atención de las m
 
 ### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 35.
 
-Son organismos descentralizados las entidades creadas por disposición del Congreso del Estado o Decreto del Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten, siempre que reúnan los siguientes requisitos:
+La creación o constitución de las entidades paraestatales deberá llevarse a cabo con sujeción a lo establecido en esta Ley, así como en las leyes o decretos de creación correspondientes.
 
-I.- Que su patrimonio se constituya total o parcialmente con recursos o bienes del Estado o de otros organismos descentralizados, aportaciones o concesiones que le otorgue el Gobierno del Estado o el Gobierno Federal; y
-
-II.- Que su objeto o fines sean la prestación de un servicio público o social, la explotación de bienes o recursos estatales, la investigación científica o tecnológica y la obtención o aplicación de recursos para fines y asistencia o seguridad social.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 36.
 
-La administración de los organismos descentralizados estará a cargo de un órgano de gobierno que podrá ser una junta directiva o su equivalente y un Director General.
+Las entidades paraestatales, como auxiliares de la administración pública estatal, gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, facultades y obligaciones establecidas en sus instrumentos de creación, y de los objetivos y metas señaladas en sus programas. Al efecto se vigilará que su administración sea ágil y eficiente, sujetándose a los sistemas de control establecidos en esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+Cuando alguna entidad paraestatal haya cumplido o deje de cumplir con su objeto o fines para los que fueron creadas o su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación no resulte conveniente para la economía estatal o el interés público, la Secretaría de Hacienda, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción, según sea el caso.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 37.
 
-El órgano de gobierno será presidido por el titular de la Dependencia coordinadora del sector, en el que se encuentre agrupado el organismo descentralizado cuando, por disposición expresa del ordenamiento jurídico que cree el citado organismo, dicha presidencia no corresponde al titular del Poder Ejecutivo o a otra persona.
+El Gobernador del Estado agrupará por sectores definidos las entidades de la administración pública considerando su objeto en relación con la esfera de competencia que ésta y otras leyes atribuyen a las dependencias.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+La intervención que conforme a este ordenamiento y a las demás leyes aplicables corresponde al Ejecutivo Estatal en la operación de las entidades de la administración pública estatal se realizará a través de la dependencia que corresponda según el agrupamiento que por sectores haya realizado el mismo, la cual fungirá como coordinadora del sector respectivo.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 38.
 
-La Secretaría de Hacienda estará representada en los órganos de gobierno de los organismos descentralizados. También participarán en dichos órganos las otras dependencias o entidades, en la medida que tengan relación con le objeto del organismo descentralizado de que se trate.
+Corresponde a los titulares de las dependencias coordinadoras de sector, establecer políticas de desarrollo para las entidades del sector correspondiente; coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas; conocer la operación y evaluar los resultados de las entidades de la administración pública paraestatal agrupadas en su sector; promover la generación de fondos propios de éstas y las demás atribuciones que les concedan los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las entidades respectivas.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 39.
 
-Son empresas de participación estatal mayoritaria, las sociedades de cualquier naturaleza que satisfagan alguno o varios de los siguientes requisitos:
+La administración de las entidades paraestatales estará a cargo de órganos de gobierno que podrán ser:
 
-I.- Que el Gobierno del Estado o una o más entidades de la administración pública paraestatal conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
+I.- Juntas directivas o sus equivalentes de los organismos descentralizados;
 
-II.- Que en la constitución de su capital, se hagan figurar títulos representativos del capital social de serie especial, que sólo puedan ser suscritos por el Gobierno Estatal; o
+II.- Consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria; y
 
-III.- Que al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno o su equivalente, o bien designar al Presidente o al Director General, o cuando tengan facultades para vetar los acuerdos del propio órgano de gobierno o su equivalente.
+III.- Comités técnicos de los fideicomisos públicos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+Las entidades paraestatales contarán con un Director General o su equivalente en quien recaerá la representación legal de cada una de ellas y también las atribuciones que les determine esta Ley y las demás leyes o decretos correspondientes.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+La Secretaría de Hacienda tendrá un representante en cada uno de los órganos de gobierno de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tenga relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+
+Asimismo, podrán participar, con la calidad que se determine en los instrumentos de creación de las entidades, las instituciones académicas, de investigación y organizaciones no gubernamentales y de la sociedad civil, cuando su participación pueda contribuir a la eficiente operación y desarrollo de la Entidad.
+
+Los representantes de las dependencias y de las entidades paraestatales, en las sesiones de los órganos de gobierno en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos de acuerdo con las facultades que les otorga esta Ley y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
+
+Los cargos de los integrantes del órgano de gobierno serán honoríficos, por lo tanto, sus miembros no recibirán remuneración alguna.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 40.
 
-Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles, en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+Los órganos de gobierno de las entidades paraestatales tendrán las siguientes atribuciones indelegables:
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+I.- Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal relativas a productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
+
+II.- Aprobar los programas y proyectos de presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
+
+III.- Aprobar la concertación de los instrumentos para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
+
+IV.- Expedir las normas o bases generales con arreglo a las cuales el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
+
+V.- Calificar, previo informe de los comisarios públicos y dictamen de los auditores externos, los estados financieros de la entidad paraestatal;
+
+VI.- Aprobar de acuerdo con las leyes aplicables las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza. El Director General o su equivalente de la entidad y, en su caso, los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno;
+
+VII.- Aprobar la estructura organizativa secundaria que fuere necesaria para el eficaz funcionamiento de la entidad paraestatal, y las modificaciones que procedan a la misma, así como su reglamento interior;
+
+VIII.- Proponer al Ejecutivo Estatal, por conducto de la dependencia coordinadora de sector, previa opinión de la Secretaría de Hacienda, los convenios de fusión con otras entidades;
+
+IX.- Autorizar la creación de comités de apoyo;
+
+X.- Nombrar a los servidores públicos de la entidad paraestatal que señalen su ordenamiento jurídico de creación y su reglamento interior; asimismo, aprobar la fijación de sus sueldos y prestaciones, de acuerdo con los tabuladores autorizados, y concederles licencias;
+
+XI.- Proponer y aprobar, en su caso, la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria de conformidad con las leyes aplicables a la entidad que corresponda. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal por los conductos adecuados;
+
+XII.- Autorizar la baja y enajenación de los bienes muebles con sujeción a las disposiciones legales aplicables;
+
+XIII.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General; y
+
+XIV.- Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen en los fines señalados en las instrucciones de la dependencia coordinadora del sector correspondiente.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 41.
 
-Los integrantes de los Consejos de Administración o sus equivalentes de las empresas de participación estatal mayoritaria, que representen la participación de la administración pública estatal, serán los señalados en el artículo 38 de esta Ley y deberán de constituir en todo tiempo más de la mitad de los miembros del Consejo. Dichos Consejos serán presididos por el titular de la Dependencia coordinadora de sector, excepto cuando los estatutos establezcan que la presidencia de los mismos, le corresponde al Gobernador del Estado, o a otra persona.
+El órgano de gobierno se reunirá con la periodicidad que se señale en el reglamento interior respectivo, sin que pueda ser menor de tres veces al año.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+El órgano de gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la administración pública. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
+
+Las funciones del Presidente y demás miembros integrantes del órgano de gobierno serán establecidas en el reglamento interior respectivo, sin perjuicio de las establecidas en otros ordenamientos.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 42.
 
-Los fideicomisos públicos a que se refiere esta Ley, son aquellos que se constituyen con recursos del Gobierno del Estado, siendo este fideicomitente único, para la atención de un objeto específico de interés público o beneficio colectivo, así como los que se creen con recursos de las entidades a que alude el artículo 3o. de este ordenamiento.
+Serán atribuciones de los directores generales de las entidades, las siguientes:
 
-Los fideicomisos públicos deberán contar con una estructura orgánica análoga a las de las otras entidades y deberán tener comités técnicos. Estos, en cuanto a su conformación, se ajustarán a las disposiciones que en este capítulo se establecen para la integración de los órganos de gobierno de los organismos descentralizados y de las empresas de participación estatal mayoritaria, en cuanto le sean compatibles a su naturaleza.
+I.- Administrar y representar a la entidad paraestatal;
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+II.- Formular los programas institucionales, así como los proyectos de presupuestos de la entidad y presentarlos para su aprobación al órgano de gobierno;
+
+III.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles de la entidad paraestatal;
+
+IV.- Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
+
+V.- Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
+
+VI.- Proponer al órgano de gobierno los nombramientos de los servidores públicos de la entidad a que hace referencia la fracción X del artículo 40 de esta Ley; así como la fijación de sueldos y demás prestaciones conforme a los tabuladores autorizados y a las asignaciones globales del presupuesto de egresos aprobado;
+
+VII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal para así poder mejorar la gestión de la misma;
+
+VIII.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+IX.- Rendir periódicamente al órgano de gobierno un informe del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, conforme lo establezca el reglamento o así lo determine dicho órgano de gobierno. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con los resultados alcanzados;
+
+X.- Establecer mecanismos de evaluación para conocer la eficiencia y la eficacia con que se desempeñe la entidad y presentar al órgano de gobierno, por lo menos semestralmente, la evaluación de gestión con el detalle que previamente se acuerde con el órgano y escuchando al Comisario Público;
+
+XI.- Ejecutar los acuerdos que dicte el órgano de gobierno; y
+
+XII.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 43.
 
-En los contratos constitutivos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley, que la naturaleza de su objeto no lo permita o que se constituyan con recursos de las entidades paraestatales.
+Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, durante los primeros diez días de cada mes, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Para el cumplimiento de lo anteriormente establecido, la respectiva dependencia coordinadora de sector conjuntamente con las Secretarías de Hacienda y de la Contraloría General, harán compatibles los requerimientos de información que se soliciten a las dependencias y entidades paraestatales racionalizando los flujos de información.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría de Hacienda, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción de las entidades de la administración pública paraestatal, cuando hayan cumplido o dejen de cumplir el objeto o fin para los que fueron creadas, o cuando su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación resulte contraria al interés público.
+Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Hacienda.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+Los directores generales de las entidades que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-### CAPITULO II. DE LA COORDINACION SECTORIAL
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+### CAPITULO II. DEL OBJETO, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS ENTIDADES PARAESTATALES
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 45.
 
-El Gobernador del Estado agrupará a las entidades de la administración pública paraestatal en sectores definidos, que serán coordinados por la dependencia que en cada caso y para cada agrupamiento designe como coordinadora del sector respectivo.
+Son organismos descentralizados las entidades creadas por disposición del Congreso del Estado o por decreto del Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten, siempre que reúnan los siguientes requisitos:
 
-El agrupamiento de entidades a que se refiere el párrafo anterior, se realizará considerando el objeto o fin de cada una de dichas entidades, en relación con la esfera de competencia que ésta u otras leyes atribuyen a las dependencias de la administración pública directa.
+I.- Que su objeto o fines sean la prestación de un servicio público o social, la explotación de bienes o recursos estatales, la investigación científica o tecnológica y la obtención o aplicación de recursos para fines de asistencia o seguridad sociales, mediante la realización de acciones que sean de interés general o de beneficio colectivo; y
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+II.- Que su patrimonio se constituya total o parcialmente con recursos o bienes del Gobierno del Estado o aportaciones del Gobierno Federal.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 45 BIS.- En las leyes o decretos que se expidan por el Congreso del Estado o por el Ejecutivo para la creación de un organismo descentralizado se establecerán cuando menos:
+
+I.- La denominación del organismo;
+
+II.- El objeto del organismo conforme a lo señalado en el artículo 45, fracción I de esta Ley;
+
+III.- Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
+
+IV.- La integración y funcionamiento del órgano de gobierno;
+
+V.- Las atribuciones del órgano de gobierno con especificación de las que serán indelegables;
+
+VI.- Las formas de suplencia de los integrantes del órgano de gobierno;
+
+VII.- Las atribuciones del Director General, quien tendrá la representación legal del Organismo;
+
+VIII.- La determinación de que el organismo no podrá iniciar su función sino hasta que la Secretaría de la Contraloría General designe a el o los órganos de control y vigilancia que correspondan; y
+
+IX.- El régimen laboral de sus servidores.
+
+En la extinción de los organismos descentralizados deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo fijar la forma y términos de su extinción y liquidación.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 45 BIS A.- El órgano de gobierno de un organismo descentralizado estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el titular de la dependencia coordinadora de sector o por la persona que se designe en la ley o decreto de creación de la entidad. Esto sin perjuicio de que, por disposición expresa del ordenamiento jurídico que cree el organismo, dicha presidencia pueda corresponder al titular del Poder Ejecutivo.
+
+En ningún caso podrán ser miembros del órgano de gobierno del organismo:
+
+I.- El Director General del organismo de que se trate, quien únicamente asistirá con voz a sus sesiones;
+
+II.- Los representantes de la Secretaría de la Contraloría General y los titulares de los órganos de control y vigilancia y los comisarios públicos oficiales y ciudadanos, quienes asistirán a sus sesiones correspondientes en ejercicio de las atribuciones competenciales a su cargo;
+
+III.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con el titular de la Secretaría coordinadora de sector o quien tenga a su cargo la designación de los integrantes del órgano de gobierno;
+
+IV.- Las personas que tengan litigios o adeudos pendientes con el organismo de que se trate; y
+
+V.- Las personas sentenciadas por delitos dolosos graves, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 45 BIS B.- El Director General del organismo descentralizado será designado por el titular del Poder Ejecutivo, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+
+I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- Acreditar conocimientos y experiencia en materia administrativa; y
+
+III.- No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones III, IV y V del artículo 45 Bis A de esta Ley.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 45 BIS C.- Los directores generales de los organismos descentralizados, en lo concerniente a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, decretos o reglamentos, ejercerán las atribuciones que el órgano de gobierno expresamente le otorgue.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 46.
 
-Corresponde a los titulares de las dependencias coordinadoras de sector, establecer políticas de desarrollo para las entidades del sector correspondiente; coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas; conocer la operación y evaluar los resultados de las entidades de la administración pública paraestatal agrupadas en su sector; promover la generación de fondos propios de éstas y las demás atribuciones que les concedan los ordenamientos jurídicos aplicables.
+Son empresas de participación estatal mayoritaria las sociedades de cualquier naturaleza que satisfagan alguno o varios de los siguientes requisitos:
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+I.- Que el Gobierno del Estado o una o más entidades de la administración pública paraestatal, conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
+
+II.- Que en la constitución de su capital se hagan figurar títulos representativos del capital social de serie especial que sólo puedan ser suscritos por el Gobierno Estatal; o
+
+III.- Que al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno, o bien designar al Presidente o al Director General, o cuando tengan facultades para vetar los acuerdos del propio órgano de gobierno o su equivalente.
+
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades y asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 46 BIS.- Los integrantes de los Consejos de Administración o sus equivalentes de las empresas de participación estatal mayoritaria, que representen la participación de la administración pública estatal, serán los señalados en el artículo 39 de esta Ley y deberán de constituir en todo tiempo más de la mitad de los miembros del Consejo. Dichos Consejos serán presididos por el titular de la dependencia coordinadora de sector, excepto cuando los estatutos establezcan que la presidencia de los mismos le corresponde al Gobernador del Estado o a otra persona.
+
+EL Consejo de Administración o su equivalente se reunirá con la periodicidad que se señale en los estatutos de la empresa, sin que pueda ser menor de tres veces al año.
+
+El propio Consejo deberá sesionar válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la participación del Gobierno del Estado. Las resoluciones se tomarán por mayoría de los miembros presentes, debiendo decidir el presidente en caso de empate.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 46 BIS A.- Los directores generales de las empresas de participación estatal mayoritaria, sin perjuicio de las atribuciones que se les atribuyan (sic) en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 42 de este ordenamiento.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 47.
 
-La intervención que conforme a esta y a las demás leyes aplicables le corresponde al Ejecutivo Estatal en la operación de las entidades de la administración pública paraestatal, se llevará a cabo a través de la dependencia coordinadora del sector respectivo.
+Los fideicomisos públicos que se constituyan por el Ejecutivo del Estado, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria y se constituyan con recursos de la administración pública estatal, para la atención de un objeto específico de interés público o beneficio colectivo, serán los que se consideren entidades paraestatales conforme lo dispuesto por esta Ley.
 
-La intervención a que se refiere el párrafo anterior, así como las relaciones del Gobernador del Estado con las entidades de la administración pública paraestatal, se regularán por la presente Ley y por sus disposiciones reglamentarias, y en lo no previsto en las mismas, por los ordenamientos jurídicos aplicables según las materias que correspondan.
+El Ejecutivo Estatal, en el decreto que autorice la constitución del fideicomiso, podrá facultar para la formalización del contrato respectivo al Secretario de Hacienda. En todo caso, éste cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije, en su caso al comité técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
+Los comités técnicos y los directores generales de los fideicomisos públicos se ajustarán, en cuanto a su integración, facultades y funcionamiento a las disposiciones que en este Título se establecen para los órganos de gobierno y para los directores generales de los organismos descentralizados, en cuanto le sean compatibles a su naturaleza.
 
-### CAPITULO III. DE LA OPERACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+El Ejecutivo Estatal podrá constituir fideicomisos públicos que no se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, en cuyo caso estarán asignados a una dependencia de la administración pública estatal responsable y cuyo patrimonio podrá incluir, además de los recursos estatales, recursos federales o provenientes del sector privado, con el objeto de apoyar entidades y organismos de interés público que se indiquen en los mismos. A estos fideicomisos también le serán aplicables las disposiciones de fiscalización de la administración pública estatal.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 47 BIS.- Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, el comité técnico emitirá las instrucciones necesarias para dar efectivo cumplimiento.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley, que la naturaleza de su objeto no lo permita o que se constituyan con recursos de las entidades paraestatales.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+
+### CAPITULO III. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTALES
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 48.
 
-Las entidades de la administración pública paraestatal, para el logro de sus objetivos o fines, gozarán de autonomía de gestión. Sin perjuicio de los anterior, llevarán a cabo su operación, conforme a lo dispuesto en este y en otros ordenamientos jurídicos aplicables y con base en las políticas, lineamientos y prioridades que establezca el Gobernador del Estado.
+Para su operación, las entidades de la administración pública paraestatal deberán elaborar, con sujeción a las disposiciones legales aplicables y en congruencia con el Plan Estatal de Desarrollo y con los programas sectoriales que se deriven del mismo, sus programas institucionales.
 
-Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
+Dichos programas, que constituirán la asunción de compromisos que deben alcanzar las señaladas entidades, deberán contener la fijación de objetivos y metas; los resultados económicos y financieros esperados; las bases para evaluar las acciones que se lleven a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas y las previsiones respecto a las posibles modificaciones a sus estructuras.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 49.
 
-Para su operación, las entidades de la administración pública paraestatal deberán elaborar, con sujeción a las disposiciones legales aplicables y en congruencia con el Plan Estatal de Desarrollo y con los programas sectoriales que se deriven del mismo, sus programas institucionales.
+Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Secretaría de Hacienda, sus programas financieros, los cuales deberán expresar, enunciativamente los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
 
-Dichos programas, que constituirán la asunción de compromisos que deben alcanzar las señaladas entidades, deberán contener: La fijación de objetivos y metas; los resultados económicos y financieros esperados; las bases para evaluar las acciones que se lleven a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas y las previsiones respecto a las posibles modificaciones a sus estructuras.
+Los programas financieros deberán enviarse por los directores generales de las entidades a la Secretaría de Hacienda, a más tardar el primero de octubre del ejercicio correspondiente, para que sean incluidos en el proyecto de Ley de Ingresos y Presupuesto de Ingresos del Estado.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 50.
 
-Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Secretaría de Hacienda, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
+Las entidades paraestatales deberán formular, a partir de sus programas operativos anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que, en ejercicio de sus facultades, realice la propia Secretaría de Hacienda, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
 
-Los programas financieros deberán enviarse por los directores generales de las entidades, o sus equivalentes, a la Secretaría de Hacienda, a más tardar el primero de noviembre del ejercicio correspondiente, para que sean incluidos en el proyecto de Ley de Ingresos y Presupuesto de Ingresos del Estado.
-
-Asimismo, dichas entidades deberán formular, a partir de sus programas anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que, en ejercicio de sus facultades, realice la propia Secretaría de Hacienda, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 51.
 
 Los presupuestos de egresos a que se refiere el artículo anterior deberán contener, como mínimo, la descripción detallada de objetivos y metas y el señalamiento de unidades responsables de su ejecución, así como los elementos que permitan la evaluación sistemática de los programas correspondientes.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 52.
 
-Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a que se refiere este Título, manejarán y erogarán sus recursos propios por medio de sus órganos.
+Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a que se refiere este Título manejarán y erogarán los fondos propios y los subsidios o transferencias que reciban del Estado y se sujetarán a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-Las entidades manejarán y administrarán por sus propios órganos los subsidios o transferencias que reciban del Estado y se sujetarán a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 53.
 
-Las relaciones entre el Ejecutivo Estatal y las entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de las Secretarías de Hacienda y de la Contraloría General, sin perjuicio de las atribuciones que competen a las coordinadoras de sector.
+Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la administración pública paraestatal, con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y de la Contraloría General, sin perjuicio de las atribuciones que competan a las dependencias coordinadoras de sector.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 54.
+
+El órgano de gobierno de las entidades paraestatales para el logro de los objetivos y metas de sus programas, ejercerá sus facultades con base en las políticas, lineamientos y prioridades que conforme a lo dispuesto por esta Ley establezca el Ejecutivo del Estado.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+###### ARTICULO 55.
+
+El órgano de gobierno de las entidades paraestatales podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley y podrá delegar discrecionalmente sus atribuciones en el Director General, salvo aquellas facultades a que se contrae el artículo 40 de este ordenamiento.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+###### ARTICULO 56.
 
 Las entidades de la administración pública paraestatal, a efecto de que cuenten en su funcionamiento con una administración ágil y eficiente, deberán formular, aprobar y mantener permanentemente actualizados sus reglamentos interiores, manuales de organización, de procedimientos y de servicios al público.
 
 Los señalados reglamentos interiores que emitan los órganos de gobierno de las entidades determinarán las atribuciones, la adscripción, en su caso, de las unidades administrativas de éstas, así como la forma en que los titulares de dichas unidades podrán ser suplidos en sus ausencias.
 
-Estos instrumentos de apoyo administrativo contendrán información sobre la estructura orgánica de las entidades, las funciones de las unidades administrativas, así como las líneas de autoridad y coordinación y los principales procedimientos administrativos que se establezcan, debiendo mantenerse a disposición del público de las propias entidades y promoverse su difusión.
+Los reglamentos interiores de las entidades de la administración pública paraestatal deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora, a más tardar a los ciento veinte días de haberse integrado su órgano de gobierno respectivo.
 
-Los reglamentos interiores de las entidades de la administración pública paraestatal deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+Los manuales como instrumentos de apoyo administrativo contendrán información sobre la estructura orgánica de las entidades, las funciones de sus unidades administrativas, así como las líneas de autoridad y coordinación y los principales procedimientos administrativos que se establezcan, debiendo mantenerse a disposición del público en las propias entidades y promoverse su difusión.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 55.
-
-En su operación, las entidades de la administración pública paraestatal deberán proporcionar, a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-###### ARTICULO 56.
-
-Las entidades a que se refiere esta Ley, Deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Hacienda.
-
-Los Directores Generales de dichas entidades, o sus equivalentes, que no cumplan con esta obligación, serán responsables en los términos de la Ley.
+Los manuales de organización, de procedimientos y de atención al público deberán formalmente expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior de la entidad.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1033,7 +1283,7 @@ Las empresas de participación estatal mayoritaria, en los términos de este Cap
 
 ## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 61.
 
@@ -1049,21 +1299,21 @@ Los titulares de las dependencias coordinadoras de sector, en los casos que lo c
 
 En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría de la Contraloría General del Estado. El ejercicio de los derechos respectivos se realizará conforme lo señalen los ordenamientos jurídicos correspondientes.
 
-### CAPITULO I. DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 6 DE JULIO DE 2006)</small>
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+### CAPITULO I. DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE
 
 ###### ARTICULO 63.
 
-Las Juntas Locales de Conciliación y Arbitraje, son Tribunales Administrativos con autonomía jurisdiccional, y se regularán, en su estructura y funcionamiento, conforme a lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local, la Ley Federal del Trabajo y los reglamentos de ésta.
+(DEROGADO, B.O. 6 DE JULIO DE 2006)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
 
 ### CAPITULO II. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
-
 ###### ARTICULO 64.
 
-El Tribunal de lo Contencioso Administrativo del Estado de Sonora, es un Tribunal Administrativo dotado de plena autonomía, con la organización y atribuciones que establecen su Ley Orgánica y las demás disposiciones aplicables.
+(DEROGADO, B.O. 6 DE JULIO DE 2006)
 
 ## TRANSITORIOS
 
@@ -1348,3 +1598,33 @@ B.O. 31 DE MARZO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias cuyas atribuciones resulten modificadas por virtud del presente Decreto y que por lo tanto incidan en su estructura orgánica, contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor de este ordenamiento, para llevar a cabo las modificaciones correspondientes a su reglamento interior.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, materiales y financieros asignados a la Secretaría de Infraestructura Urbana y Ecología para el ejercicios de las funciones de equilibrio ecológico y protección al ambiente se transferirán al organismo público descentralizado denominado Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, respetándose los derechos laborales de conformidad con las disposiciones legales aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que en materia de equilibrio ecológico y protección al ambiente estén en conocimiento de la Secretaría de Infraestructura Urbana y Ecología, permanecerán en el último trámite alcanzado hasta que las unidades administrativas de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, estén en condiciones de continuar su tramitación.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otros ordenamientos jurídicos respecto a la Secretaría de Infraestructura Urbana y Ecología, en relación con la materia de equilibrio ecológico y protección al ambiente, se entenderán referidas a la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Los ingresos que obtenga el Estado derivados del cobro de las contribuciones por concepto del otorgamiento de licencias y permisos y por el cobro de las multas que se impongan en materia de ecología y medio ambiente, se destinarán a los programas de ecología y medio ambiente a cargo de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
