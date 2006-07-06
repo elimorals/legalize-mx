@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2005-06-30"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE JULIO DE 2006.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -2905,7 +2905,9 @@ Todo integrante de la familia tiene derecho a que los demás miembros le respete
 
 Art. 489 BIS.- Todos los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
 
-Por violencia intrafamiliar se entiende todo acto de poder u omisión, reiterado e intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia y que pueda causar maltrato físico, verbal, psicológico o sexual, en los términos de la Ley de Prevención y Atención a la Violencia Intrafamiliar.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Por violencia intrafamiliar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter o agredir física, verbal, psicoemocional sexual o patrimonialmente a cualquier miembro de la familia y que pueda causar maltrato físico, verbal, psicológico, sexual o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia Intrafamiliar.
 
 ## TITULO SEPTIMO.
 
@@ -7915,9 +7917,9 @@ Son incapaces de adquirir por testamento o por intestado:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge, concubina o concubino o hermanos de él o ella;
 
-> <small>(REFORMADA, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos, cónyuge, concubina o concubino acusación de delito que merezca penal (sic) capital o de prisión, aún cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge, su hermano, su concubina o concubino, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos, cónyuge, concubina o concubino;
+II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos, cónyuge, concubina o concubino, acusación de delito que merezca pena de prisión, aún cuando aquélla sea fundada, si fuere su descendiente, ascendiente, cónyuge o hermano, concubina o concubino, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos, cónyuge, concubina o concubino;
 
 III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -17563,7 +17565,7 @@ Si la finca estuviere asegurada y se destruyere por incendio u otro caso fortuit
 
 ###### Art. 3288.
 
-La hipoteca subsistirá íntegra aunque se reduzca la obligación garantizada, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
+La hipoteca subsistirá integra aunque se reduzca la obligación garantizada, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
 
 ###### Art. 3289.
 
@@ -18890,3 +18892,9 @@ Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decre
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan a las del presente Decreto.
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
