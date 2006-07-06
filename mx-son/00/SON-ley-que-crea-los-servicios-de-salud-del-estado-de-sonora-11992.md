@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-los-servicios-de-salud-del-estado-de-sonora-11992"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-10"
-last_updated: "1997-03-10"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JULIO DE 2006.
 
 Ley publicada en la Sección II del Número 20 del Boletín Oficial del Estado de Sonora, el lunes 10 de marzo de 1997.
 
@@ -49,7 +49,9 @@ Se crean los Servicios de Salud de Sonora, como un organismo público descentral
 
 El Organismo tendrá las siguientes funciones:
 
-I.- Organizar y operar, los servicios de salud a población abierta en el Estado, en materia de salubridad general y de regulación y control y sanitarios conforme a lo que establecen las Leyes General y Estatal de Salud y a los acuerdos de coordinación;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+I.- Organizar y operar los servicios de salud a población abierta en el Estado en materia de salubridad general;
 
 II.- Participar en el Sistema Estatal de Salud en los términos de la Ley General y Estatal de Salud;
 
@@ -79,7 +81,7 @@ Además, el Organismo tendrá las siguientes funciones de autoridad administrati
 
 I.- Establecer las normas a las que deberán sujetarse los servicios de asistencia social, así como vigilar su cumplimiento, en los términos de la Ley General de Salud;
 
-II.- Ejercer las funciones de control y regulación sanitaria en materia de salubridad general, en los términos de la legislación aplicable y los acuerdos de coordinación específicos;
+II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
 III.- Expedir y, en su caso, revocar las autorizaciones que le corresponda en las materias a que se refieren las fracciones anteriores; y
 
@@ -223,9 +225,7 @@ El Organismo, gozará respecto de su patrimonio, de las franquicias y prerrogati
 
 ###### ARTICULO 15.
 
-Para el ejercicio de las funciones de vigilancia sanitaria, la aplicación de las medidas de seguridad y de las sanciones en el ámbito de su competencia, el Organismo observará lo dispuesto por la Ley General de Salud y la Ley de Salud para el Estado de Sonora.
-
-Contra los actos y resoluciones en materia de salubridad general que emita el Organismo, procederá el recurso establecido en la Ley Federal de Procedimiento Administrativo.
+(DEROGADO, B.O. 6 DE JULIO DE 2006)
 
 ###### ARTICULO 16.
 
@@ -272,3 +272,35 @@ Comuníquese al Ejecutivo para su promulgación.-
 SALON DE SESIONES DE LA H. DIPUTACION PERMANENTE DEL CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 7 de marzo de 1997.- DIPUTADO PRESIDENTE.- C. VICTOR MANUEL BORBON PABLOS.- RUBRICA.- DIPUTADO SECRETARIO.- C. AGAPITO PARRA MARES.- RUBRICA.- DIPUTADO SECRETARIO.- C. ROGELIO FIGUEROA CAMARGO.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, a 10 de marzo de mil novecientos noventa y siete.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias cuyas atribuciones resulten modificadas por virtud del presente Decreto y que por lo tanto incidan en su estructura orgánica, contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor de este ordenamiento, para llevar a cabo las modificaciones correspondientes a su reglamento interior.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, materiales y financieros asignados a la Secretaría de Infraestructura Urbana y Ecología para el ejercicios (sic) de las funciones de equilibrio ecológico y protección al ambiente se transferirán al organismo público descentralizado denominado Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, respetándose los derechos laborales de conformidad con las disposiciones legales aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que en materia de equilibrio ecológico y protección al ambiente estén en conocimiento de la Secretaría de Infraestructura Urbana y Ecología, permanecerán en el último trámite alcanzado hasta que las unidades administrativas de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, estén en condiciones de continuar su tramitación.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otros ordenamientos jurídicos respecto a la Secretaría de Infraestructura Urbana y Ecología, en relación con la materia de equilibrio ecológico y protección al ambiente, se entenderán referidas a la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Los ingresos que obtenga el Estado derivados del cobro de las contribuciones por concepto del otorgamiento de licencias y permisos y por el cobro de las multas que se impongan en materia de ecología y medio ambiente, se destinarán a los programas de ecología y medio ambiente a cargo de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
