@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2005-11-10"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -5217,6 +5217,10 @@ Art. 553 BIS.- No se requieren formalidades especiales para acudir ante el Juez 
 
 El Juez, valorando la situación de la parte agredida y la posibilidad de peligro para la misma, podrá recomendar a los involucrados que convengan en audiencia privada, los actos para hacer cesar la situación de violencia intrafamiliar y en caso de que no lo hicieran o no resultare conveniente para la parte agredida, en la misma audiencia el Juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, el Juez para normar su criterio, podrá tomar en cuenta, los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público, así como a la Procuraduría de la Defensa del Menor y de la Familia.
 
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Para que el convenio pueda producir sus efectos, se requerirá que tanto el generador como el receptor de la violencia se sometan a valoración psicológica y/o psiquiátrica a efecto de determinar el daño emocional causado, la viabilidad de ayuda terapéutica, así como el grado de peligrosidad del generador de la violencia, brindándoles las recomendaciones que al respecto sugieran los especialistas, las cuales se tomarán en cuenta para recomendar o no la celebración de dicho convenio.
+
 ###### Art. 554.
 
 Cuando las cuestiones a que se refiere este Título no impliquen controversia entre partes antagónicas, serán aplicables, en lo que no se opongan a las disposiciones de este Título, las normas de la jurisdicción voluntaria. Surgido cualquier conflicto, el asunto se regirá por lo establecido para la jurisdicción contenciosa.
@@ -8564,5 +8568,11 @@ Se derogan las disposiciones que se opongan a las del presente Decreto.
 B.O. 10 DE NOVIEMBRE DE 2005.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
