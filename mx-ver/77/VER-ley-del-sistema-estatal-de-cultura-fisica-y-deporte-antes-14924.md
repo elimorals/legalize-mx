@@ -4,7 +4,7 @@ identifier: "VER-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-antes-14924
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "2006-03-24"
+last_updated: "2006-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL SISTEMA ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JULIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de agosto de 1999.
 
@@ -104,6 +104,10 @@ Quedan excluidas del Sistema Estatal del Deporte, las actividades deportivas del
 Podrán inscribirse en el Sistema los deportistas profesionales que deseen participar en competencias nacionales e internacionales que representen oficialmente el deporte del Estado y aquellas que se realicen sin ánimo de lucro.
 
 Dichos deportistas deberán cumplir con las disposiciones reglamentarias para tales competencias.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2006)</small>
+
+No obstante lo referido en el primer párrafo, el Congreso del Estado autorizará al titular del Poder Ejecutivo, a través del instituto Veracruzano del Deporte, apoyos económicos para los equipos profesionales en los que tenga participación económica y social, que no podrán exceder, en forma conjunta, el cero punto uno por ciento (0.1%) del presupuesto de egresos aprobado. En tal sentido, las personas que reciban dichos apoyos se constituirán en unidades presupuestales para efectos del Código Financiero del Estado de Veracruz de Ignacio de la Llave, y tendrán las obligaciones que respecto de las entidades paraestatales establece el referido Código; por consiguiente, remitirán mensualmente al Congreso del Estado un informe que especifique los estados financieros realizados en el ejercicio fiscal en que sus actividades sean apoyadas por el Gobierno del Estado.
 
 ###### Artículo 6.
 
@@ -694,3 +698,7 @@ G.O. 24 DE MARZO DE 2006.
 Primero. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE JULIO DE 2006.
+
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
