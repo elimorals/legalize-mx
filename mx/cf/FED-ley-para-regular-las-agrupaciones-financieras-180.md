@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2002-12-24"
+last_updated: "2006-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -190,13 +190,17 @@ La separación de alguno o algunos de los integrantes de un grupo, así como la 
 
 La separación o disolución mencionadas, surtirán efectos a partir de la fecha en que la autorización a que se refiere este artículo, así como los respectivos acuerdos de las asambleas de accionistas, se inscriban en el Registro Público de Comercio. Tratándose de la separación, además será aplicable lo dispuesto en las fracciones V y VI del artículo anterior. Al surtir efectos la separación, las entidades financieras deberán dejar de ostentarse como integrantes del grupo respectivo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2006)</small>
 
-Cuando el Fondo Bancario de Protección al Ahorro o el Fondo de Apoyo al Mercado de Valores suscriba o adquiera el cincuenta por ciento o más del capital social de cualquier entidad financiera integrante de un grupo, no se observará lo dispuesto en el primero y segundo párrafos del presente artículo, así como en las fracciones V y VI del artículo 10 de esta Ley. La separación del grupo tendrá efectos a partir de dicha suscripción o adquisición, por lo que se tendrá por modificado el convenio único de responsabilidades en este sentido.
+Cuando el Instituto para la Protección al Ahorro Bancario suscriba o adquiera el cincuenta por ciento o más del capital social de una institución de banca múltiple integrante de un grupo, no se observará lo dispuesto en el primero y segundo párrafos del presente artículo, así como en las fracciones V y VI del artículo 10 de esta Ley. La separación de la institución respecto del grupo tendrá efectos a partir de dicha suscripción o adquisición, por lo que se tendrá por modificado el convenio único de responsabilidades en este sentido.
 
-La separación de las entidades financieras se llevará a cabo sin perjuicio de que las responsabilidades de la controladora a que se refiere el artículo 28 de esta Ley, subsistan en tanto no queden totalmente cumplidas todas las obligaciones contraídas por dichas entidades con anterioridad a su separación del grupo.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2006)</small>
 
-La controladora sólo podrá disolverse una vez cumplidas todas las obligaciones contraídas por cada una de las entidades financieras con anterioridad a la disolución del grupo.
+La separación de las entidades financieras se llevará a cabo sin perjuicio de que las responsabilidades de la controladora a que se refiere el artículo 28 de esta Ley, subsistan en tanto no queden totalmente cumplidas todas las obligaciones contraídas por dichas entidades con anterioridad a su separación del grupo, o bien, cubiertas las pérdidas en términos del citado artículo 28.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2006)</small>
+
+La controladora sólo podrá disolverse una vez cumplidas todas las obligaciones contraídas por cada una de las entidades financieras con anterioridad a la disolución del grupo, o bien, cubiertas las pérdidas en términos del artículo 28 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
@@ -204,7 +208,9 @@ La controladora sólo podrá disolverse una vez cumplidas todas las obligaciones
 
 La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y, según corresponda, a las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, así como a la controladora del grupo financiero afectado, podrá revocar la autorización a que se refiere el artículo 6o. de esta ley, si la controladora o alguno de los demás integrantes del grupo incumplen lo dispuesto en la presente ley o en las normas que de ella emanen.
 
-Al revocarse la autorización, los integrantes deberán dejar de ostentarse como miembros del grupo respectivo. Las responsabilidades de la controladora a que se refiere el artículo 28 de esta Ley, subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por cada una de las entidades financieras que formaban el grupo, con anterioridad a la revocación. La controladora se disolverá en los términos de lo dispuesto por el último párrafo del artículo anterior.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2006)</small>
+
+Al revocarse la autorización, los integrantes deberán dejar de ostentarse como miembros del grupo respectivo. Las responsabilidades de la controladora a que se refiere el artículo 28 de esta Ley, subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por cada una de las entidades financieras que formaban el grupo con anterioridad a la revocación, o bien, cubiertas las pérdidas de conformidad con el referido artículo 28. La controladora se disolverá en los términos de lo dispuesto por el último párrafo del artículo anterior.
 
 ###### ARTICULO 13.
 
@@ -790,11 +796,83 @@ La controladora y cada una de las entidades financieras integrantes de un grupo 
 
 I. La controladora responderá subsidiaria e ilimitadamente del cumplimiento de las obligaciones a cargo de las entidades financieras integrantes del grupo, correspondientes a las actividades que, conforme a las disposiciones aplicables, le sean propias a cada una de ellas, aun respecto de aquellas contraídas por dichas entidades con anterioridad a su integración al grupo, y
 
-II. La controladora responderá ilimitadamente por las pérdidas de todas y cada una de dichas entidades. En el evento de que el patrimonio de la controladora no fuere suficiente para hacer efectivas las responsabilidades que respecto de dos o más entidades financieras integrantes del grupo se presenten de manera simultánea, dichas responsabilidades se cubrirán a prorrata hasta agotar el patrimonio de la controladora. Al efecto, se considerará la relación que exista entre los por cientos que representan, en el capital de las controladoras, la participación de la misma en el capital de las entidades de que se trate.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JULIO DE 2006)</small>
+
+II. La controladora responderá ilimitadamente por las pérdidas de todas y cada una de dichas entidades. En el evento de que el patrimonio de la controladora no fuere suficiente para hacer efectivas las responsabilidades que, respecto de las entidades financieras integrantes del grupo se presenten de manera simultánea, dichas responsabilidades se cubrirán, en primer término, respecto de la institución de crédito que, en su caso, pertenezca a dicho grupo y, posteriormente, a prorrata respecto de las demás entidades integrantes del grupo hasta agotar el patrimonio de la controladora. Al efecto, se considerará la relación que exista entre los porcentajes que representan, en el capital de la controladora, su participación en el capital de las entidades de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JULIO DE 2006)</small>
+
+Para efectos de lo previsto en esta Ley, se entenderá que una entidad financiera perteneciente a un grupo financiero tiene pérdidas, cuando los activos de la entidad no sean suficientes para cubrir sus obligaciones de pago.
 
 Las referidas responsabilidades estarán previstas expresamente en los estatutos de la controladora.
 
 En el convenio citado también deberá señalarse expresamente que cada una de las entidades financieras del grupo no responderá por las pérdidas de la controladora, ni por las de los demás participantes del grupo.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JULIO DE 2006)</small>
+
+###### ARTICULO 28 Bis.
+
+La responsabilidad de la controladora derivada del convenio previsto en el artículo anterior, respecto de las instituciones de banca múltiple integrantes de un grupo financiero, se sujetará a lo siguiente:
+
+I. La sociedad controladora deberá responder por las pérdidas que registren las instituciones de banca múltiple integrantes del grupo financiero al que pertenezca, en términos de lo previsto en este artículo.
+
+II. El Instituto para la Protección al Ahorro Bancario deberá determinar el importe preliminar de las pérdidas a cargo de una institución de banca múltiple a la fecha en que la Junta de Gobierno del propio Instituto haya adoptado alguna de las resoluciones a que se refiere el artículo 122 Bis de la Ley de Instituciones de Crédito.
+
+El importe preliminar de las pérdidas se determinará con base en los resultados del estudio técnico a que se refiere el artículo 122 Bis 26 de la Ley de Instituciones de Crédito, dentro de los diez días hábiles siguientes a la fecha en que la Junta de Gobierno del propio Instituto haya adoptado la resolución correspondiente a que se refiere el artículo 122 Bis de dicha Ley. Cuando el estudio técnico haya sido elaborado por un tercero, en términos del artículo 122 Bis 26 antes citado, las pérdidas que se determinen con base en éste, serán consideradas como definitivas para los efectos previstos en la fracción V de este artículo. En aquellos casos en los que no se cuente con el estudio técnico, el Instituto determinará el importe preliminar de las pérdidas a cargo de la institución de banca múltiple, con base en el dictamen previsto en el artículo 139 de dicha Ley. En este caso, el Instituto deberá determinar el importe preliminar de las pérdidas dentro de los diez días hábiles siguientes a la fecha en que se haya concluido la elaboración del dictamen correspondiente.
+
+III. El Instituto para la Protección al Ahorro Bancario deberá notificar a la sociedad controladora el importe preliminar de las pérdidas al día hábil siguiente al de su determinación.
+
+La sociedad controladora deberá constituir una reserva con cargo a su capital, por un monto equivalente al importe preliminar de las pérdidas que el Instituto para la Protección al Ahorro Bancario haya determinado conforme a lo dispuesto en la fracción anterior. Para tales efectos, la sociedad contará con un plazo que no podrá exceder de quince días naturales, contados a partir de la fecha en que el propio Instituto le notifique el importe preliminar de las pérdidas a cargo de la institución de banca múltiple.
+
+IV. La sociedad controladora deberá garantizar al Instituto para la Protección al Ahorro Bancario, el pago de las pérdidas a cargo de la institución de banca múltiple que el propio Instituto haya determinado y que haya cubierto mediante el saneamiento de la institución conforme a la Ley de Instituciones de Crédito. La sociedad controladora deberá constituir la garantía a que se refiere esta fracción, en un plazo que no excederá de quince días naturales contados a partir de la fecha en que reciba la notificación a que se refiere la fracción III de este artículo, aún y cuando no se haya determinado el importe definitivo de las pérdidas a cargo de la institución de banca múltiple integrante del grupo financiero.
+
+La garantía citada en el párrafo anterior deberá ser por un monto equivalente al importe preliminar de las pérdidas a cargo de la institución de banca múltiple que el Instituto le haya notificado. Dicha garantía podrá constituirse sobre bienes propiedad de la sociedad controladora, siempre que éstos se encuentren libres de todo gravamen, o bien, sobre las acciones representativas del capital social de la propia sociedad controladora o de cualquiera de las entidades que integran el grupo financiero, consideradas a su valor contable conforme a los últimos estados financieros auditados disponibles.
+
+En el evento de que la garantía se constituya sobre las acciones representativas del capital social de la sociedad controladora, primero se afectarán las de la serie "O" o "F", según corresponda. Tratándose de la serie "O", deberán afectarse en primer lugar las acciones de las personas que, en términos de esta Ley, ejerzan el control de la sociedad controladora y, en caso de no ser suficientes, las demás acciones de dicha serie. En el evento de que las acciones de la serie "O" o "F" no sean suficientes, deberán afectarse las correspondientes a la serie "L". Para la constitución de esta garantía, las acciones deberán traspasarse a la cuenta que el Instituto mantenga en alguna de las instituciones para el depósito de valores autorizadas en los términos de la Ley del Mercado de Valores. La garantía en favor del Instituto se considerará de interés público y preferente a cualquier derecho constituido sobre dichos bienes o títulos.
+
+La garantía será otorgada por el director general de la sociedad controladora o quien ejerza sus funciones. Al efecto, la institución para el depósito de valores en que se encuentren las referidas acciones, a petición escrita del director general o de quien ejerza sus funciones, las traspasará y mantendrá en garantía en términos de lo señalado en el presente artículo, comunicándolo así a los titulares de las mismas.
+
+En el evento de que el director general o quien ejerza sus funciones no efectúe el traspaso mencionado, la institución para el depósito de valores respectiva deberá realizar dicho traspaso, bastando al efecto la solicitud por escrito por parte del Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario.
+
+Cuando la garantía se constituya sobre acciones representativas del capital social de alguna o algunas de las entidades integrantes del grupo financiero, el director general de la sociedad controladora o quien ejerza sus funciones, deberá traspasar a la cuenta que el Instituto para la Protección al Ahorro Bancario mantenga en una institución para el depósito de valores, las acciones propiedad de la sociedad controladora que sean suficientes para cubrir el monto de la garantía, tomando en consideración su valor contable conforme a los últimos estados financieros auditados disponibles de la entidad correspondiente. En caso de que el director general de la sociedad controladora o quien ejerza sus funciones, no efectúe el traspaso de las acciones, se observará lo previsto en el párrafo anterior.
+
+El ejercicio de los derechos patrimoniales y corporativos inherentes a las acciones que sean objeto de la garantía prevista en esta fracción, corresponderá al Instituto para la Protección al Ahorro Bancario.
+
+En caso de que la sociedad controladora otorgue la garantía a que se refiere la presente fracción con bienes distintos a las acciones representativas del capital social de la sociedad controladora o de las entidades integrantes del grupo financiero, la garantía se constituirá observando las disposiciones aplicables al acto jurídico de que se trate.
+
+V. En el caso de que las pérdidas preliminares se hayan determinado con base en el dictamen a que se refiere el artículo 139 de la Ley de Instituciones de Crédito, o bien, utilizando un estudio técnico que el Instituto para la Protección al Ahorro Bancario haya realizado con su personal de conformidad con el artículo 122 Bis 26 de la citada Ley, dicho Instituto deberá contratar a un tercero especializado a fin de que analice, evalúe y, en su caso, ajuste los resultados del estudio técnico o del dictamen, según sea el caso, con base en la información financiera de la propia institución y en las disposiciones aplicables. Para efectos de lo previsto en este artículo, la determinación definitiva de las pérdidas registradas por la institución de banca múltiple se hará con base en la información de la misma fecha que la utilizada para determinar el valor preliminar de las pérdidas, y será el que resulte del análisis efectuado por el tercero que el Instituto haya contratado.
+
+El tercero especializado deberá cumplir con los criterios de independencia e imparcialidad que la Comisión Nacional Bancaria y de Valores determine con fundamento en lo previsto en el artículo 101 de la Ley de Instituciones de Crédito.
+
+El Instituto para la Protección al Ahorro Bancario deberá notificar a la sociedad controladora el monto definitivo de las pérdidas a cargo de la institución de banca múltiple, en un plazo que no podrá exceder de ciento veinte días naturales contados a partir de la notificación a que se refiere la fracción III del presente artículo. La sociedad controladora deberá efectuar los ajustes que, en su caso, procedan al monto de la reserva y de la garantía a que se refieren las fracciones III y IV de este artículo, respectivamente, atendiendo al monto definitivo de las pérdidas que el propio Instituto le notifique.
+
+La sociedad controladora podrá objetar la determinación del monto definitivo de las pérdidas, dentro de los diez días hábiles siguientes a aquél en el que se le notifique dicho monto. Para tales efectos, la sociedad controladora, de común acuerdo con el Instituto para la Protección al Ahorro Bancario, designará a un tercero especializado que emitirá un dictamen con respecto a la cuantificación de las pérdidas, contando para ello con un plazo de sesenta días naturales contados a partir del día hábil siguiente aquél en el que la sociedad controladora hubiere presentado su objeción al Instituto. En tanto no se resuelva la cuantificación de las pérdidas derivadas de la objeción presentada por la sociedad controladora, dicha sociedad no estará obligada a efectuar los ajustes derivados del monto definitivo de las pérdidas que el citado Instituto le haya notificado.
+
+VI. La sociedad controladora deberá cubrir al Instituto para la Protección al Ahorro Bancario o a la institución en liquidación, según sea el caso, el importe definitivo de las pérdidas determinado conforme a lo previsto por la fracción V de este artículo, dentro de los sesenta días naturales siguientes a aquél en el que el propio Instituto le notifique dicho monto. Sin perjuicio de lo anterior, dicho Instituto podrá autorizar a la sociedad controladora a efectuar pagos parciales dentro del plazo antes referido, liberándose en forma proporcional la garantía a que se refiere la fracción IV del presente artículo. En este caso se liberará dicha garantía en el orden siguiente
+
+a) Los bienes distintos a las acciones representativas del capital social de la sociedad controladora y de las entidades integrantes del grupo financiero;
+
+b) Las acciones representativas del capital social de las entidades integrantes del grupo financiero, y
+
+c) Las acciones representativas del capital social de la sociedad controladora. En este caso, se liberarán en primer lugar las acciones de la serie "L"; en segundo término, las acciones de la serie "O" cuyos titulares no ejerzan el control de la sociedad controladora y, en último lugar, las acciones serie "O" del grupo de control o de la serie "F", según corresponda.
+
+En caso de que la controladora no cubra al Instituto para la Protección al Ahorro Bancario el importe a que se refiere el primer párrafo de esta fracción en el plazo señalado y la garantía del pago correspondiente se hubiere constituido sobre acciones, la titularidad de tales acciones se transmitirá de pleno derecho al referido Instituto, bastando al efecto la notificación por escrito de tal circunstancia a la institución para el depósito de valores correspondiente por parte del Secretario Ejecutivo del propio Instituto.
+
+VII. Sin perjuicio de lo previsto en este artículo, la sociedad controladora deberá responder por las pérdidas que la institución de banca múltiple integrante del grupo financiero registre con posterioridad a la determinación definitiva prevista en la fracción V de este precepto, siempre que dichas pérdidas deriven de operaciones celebradas con anterioridad a la fecha en la que la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario haya adoptado alguna de las resoluciones a que se refiere el artículo 122 Bis de la Ley de Instituciones de Crédito, y que al momento de la determinación por parte del propio Instituto no hayan sido reveladas.
+
+VIII. La sociedad controladora estará sujeta a un programa especial de supervisión de la Comisión que supervise a la entidad financiera integrante del grupo que la Secretaría de Hacienda y Crédito Público determine como preponderante.
+
+Adicionalmente, la Comisión competente de la supervisión de la sociedad controladora podrá solicitar la realización de visitas de inspección a las autoridades encargadas de la supervisión de las demás integrantes del grupo financiero. A dichas visitas podrá acudir el personal de la Comisión competente de la inspección y vigilancia de la sociedad controladora.
+
+En caso de que la supervisión de la sociedad controladora no sea competencia de la Comisión Nacional Bancaria y de Valores, ésta podrá participar en el programa especial de supervisión y en las visitas de inspección a que se refiere esta fracción.
+
+IX. Sin perjuicio de lo previsto por el artículo 30-B de esta Ley, la Comisión competente de supervisar a la sociedad controladora podrá declarar su intervención con carácter de gerencia, cuando ésta no constituya dentro de los plazos previstos para ello, la reserva y la garantía a que se refieren las fracciones III y IV de este artículo, respectivamente, o no las amplíe en términos de la fracción V. Al tomar posesión de la administración de la sociedad controladora, el interventor gerente deberá ejecutar los actos que correspondan referidos en las fracciones III, IV y V de este artículo.
+
+X. La sociedad controladora no podrá pagar dividendos a los accionistas, ni realizar cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales a los accionistas, a partir de la fecha en que la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario determine el método de resolución aplicable a la institución de banca múltiple, de conformidad con la Ley de Instituciones de Crédito, y hasta que la controladora cumpla con lo previsto en este artículo. La Comisión Nacional Bancaria y de Valores notificará dicha situación a la sociedad controladora.
+
+En protección de los intereses del público ahorrador, del sistema de pagos y del interés público, los estatutos sociales de la sociedad controladora y los títulos representativos de su capital social deberán incluir el contenido del presente artículo, señalando expresamente que los socios, por el solo hecho de serlo, aceptan que sus acciones puedan darse en garantía a favor del Instituto para la Protección al Ahorro Bancario, en términos de lo previsto en las fracciones IV y VI del presente artículo, así como su conformidad para que, en caso de incumplimiento en el pago oportuno que la sociedad controladora deba cubrir al Instituto para la Protección al Ahorro Bancario, de conformidad con lo dispuesto en la fracción VI de este artículo, la titularidad de sus acciones se transmita a favor del propio Instituto.
+
+La Secretaría de Hacienda y Crédito Público determinará, mediante reglas de carácter general, el procedimiento por virtud del cual la sociedad controladora dará cumplimiento a la responsabilidad asumida por ésta, mediante el convenio único de responsabilidades, sujetándose a lo previsto en este artículo, así como en el artículo anterior.
 
 ###### ARTICULO 29.
 
@@ -1097,3 +1175,21 @@ D.O.F. 24 DE DICIEMBRE DE 2002.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones de banca múltiple deberán efectuar los actos corporativos necesarios para prever en sus estatutos sociales y títulos representativos de su capital social, los supuestos y acciones mencionadas en los artículos 29 Bis 1, 29 Bis 2, 29 Bis 4 y 122 Bis 15 de la Ley de Instituciones de Crédito, dentro de un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor del mismo.
+
+Las sociedades controladoras de grupos financieros, contarán con el plazo previsto en el párrafo anterior para efectuar los actos corporativos para adecuar el convenio único de responsabilidades, sus estatutos sociales y los títulos representativos de su capital social, conforme a lo dispuesto en los artículos 28 y 28 Bis de la Ley para Regular las Agrupaciones Financieras.
+
+El incumplimiento a lo previsto en el presente artículo será sancionado por la Comisión Nacional Bancaria y de Valores con multa equivalente de mil a treinta mil veces el salario mínimo general diario vigente en el Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente decreto se encuentren en procedimiento de liquidación o concurso mercantil, se regirán de conformidad con las disposiciones vigentes al momento en que hayan iniciado los procedimientos respectivos.
