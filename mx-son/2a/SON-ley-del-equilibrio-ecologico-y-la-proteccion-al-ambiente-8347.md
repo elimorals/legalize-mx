@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-8347"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-03"
-last_updated: "2005-08-22"
+last_updated: "2006-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 3 de enero de 1991.
 
@@ -81,7 +81,9 @@ II.- Estado: El Poder Ejecutivo del Estado;
 
 III.- Ayuntamientos: Los Ayuntamientos de los Municipios del Estado;
 
-IV.- Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano de la Administración Pública Estatal;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+IV.- CEDES: Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora;
 
 V.- Organismos operadores: Los organismos descentralizados señalados en el artículo 13-A de la Ley de Agua Potable y Alcantarillado del Estado de Sonora y la estructura administrativa a que se refiere el artículo 29-A de la citada Ley;
 
@@ -431,11 +433,13 @@ VIII.- El uso de materiales de construcción apropiados al medio ambiente y a la
 
 #### SECCION IV. DE LA EVALUACION DEL IMPACTO AMBIENTAL
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Las personas físicas o morales, públicas o privadas, que pretendan realizar las obras o actividades a que se refiere esta Sección, que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos y en las normas técnicas ecológicas emitidas por la Federación para proteger el ambiente, deberán contar con la autorización de la Secretaria o de los Ayuntamientos, según corresponda, sin perjuicio de otras autorizaciones que se deban otorgar por otras autoridades.
+Las personas físicas o morales, públicas o privadas, que pretendan realizar las obras o actividades a que se refiere esta Sección, que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos y en las normas técnicas ecológicas emitidas por la Federación para proteger el ambiente, deberán contar con la autorización de la CEDES o de los ayuntamientos, según corresponda, sin perjuicio de otras autorizaciones que se deban otorgar por otras autoridades.
 
-Cuando se trate de la evaluación del impacto ambiental por la realización de obras o actividades que tengan por objeto el aprovechamiento de recursos naturales, la Secretaría o los Ayuntamientos, requerirán a los interesados que en la manifestación de impacto ambiental correspondiente se incluya la descripción de los posibles efectos de dichas obras o actividades en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que serían sujetos de aprovechamiento.
+Cuando se trate de la evaluación del impacto ambiental por la realización de obras o actividades que tengan por objeto el aprovechamiento de recursos naturales, la CEDES o los ayuntamientos, requerirán a los interesados que en la manifestación de impacto ambiental correspondiente se incluya la descripción de los posibles efectos de dichas obras o actividades en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que serían sujetos de aprovechamiento.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL B.O. 22 DE AGOSTO DE 2005, SE EXCEPTUA EL REQUISITO DE LA PRESENTACION DE LA MANIFESTACION DE IMPACTO AMBIENTAL, PREVISTO EN EL ARTICULO 21 DE LA PRESENTE LEY, PARA OBTENER LA AUTORIZACION CORRESPONDIENTE RESPECTO DE LAS OBRAS Y ACTIVIDADES QUE MENCIONAN.</small>
 
@@ -479,21 +483,27 @@ IV.- Establecimientos mercantiles y espectáculos públicos.
 
 El Gobernador del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, mediante disposiciones de observancia general, que deberán publicarse en el Boletín oficial del Gobierno del Estado, podrán exceptuar del requisito de la autorización a que se refiere el artículo 21 de esta Ley, a cualesquiera de las obras o actividades a que se refiere el presente artículo, cuando por la ubicación, magnitud, utilización de materiales u otras circunstancias, se considere que las mismas no causarán desequilibrios ecológicos, ni rebasarán los limites y condiciones señaladas en los reglamentos y normas técnicas ecológicas emitidas por la Federación para proteger el ambiente.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 23.
 
-Para obtener la autorización a que se refiere el artículo 21 de esta Ley, el interesado, en forma previa a la realización de la obra o actividad de que se trate, deberá presentar a la Secretaría o al Ayuntamiento una manifestación de impacto ambiental.
+Para obtener la autorización a que se refiere el artículo 21 de esta Ley, el interesado, en forma previa a la realización de la obra o actividad de que se trate, deberá presentar a la CEDES o al Ayuntamiento una manifestación de impacto ambiental.
 
-En el caso de obras o actividades consideradas como riesgosas, además de lo dispuesto en el párrafo anterior, deberá presentarse a la Secretaría o al Ayuntamiento, un estudio de riesgo en los términos previstos por los ordenamientos que rijan dichas actividades.
+En el caso de obras o actividades consideradas como riesgosas, además de lo dispuesto en el párrafo anterior, deberá presentarse a la CEDES o al Ayuntamiento, un estudio de riesgo en los términos previstos por los ordenamientos que rijan dichas actividades.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 24.
 
-Cuando quien pretenda realizar una obra o actividad de las que requieran autorización previa conforme a lo dispuesto por los artículos 21 y 22 de esta Ley, con excepción de las señaladas en la fracción II, inciso B de este último precepto, considere que el impacto ambiental de dicha obra o actividad no causará desequilibrio ecológico, ni rebasará los límites y condiciones señalados en el reglamento y normas técnicas ecológicas emitidas por la Federación para proteger al ambiente, antes de dar inicio a la obra o actividad de que se trate podrá presentar a la Secretaría o al Ayuntamiento, un informe preventivo para los efectos que se indican en este artículo.
+Cuando quien pretenda realizar una obra o actividad de las que requieran autorización previa conforme a lo dispuesto por los artículo 21 y 22 de esta Ley, con excepción de las señaladas en la fracción II, inciso B de este último precepto, considere que el impacto ambiental de dicha obra o actividad no causará desequilibrio ecológico, ni rebasará los límites y condiciones señalados en el reglamento y normas técnicas ecológicas emitidas por la Federación para proteger al ambiente, antes de dar inicio a la obra o actividad de que se trate podrá presentar a la CEDES o al Ayuntamiento, un informe preventivo para los efectos que se indican en este artículo.
 
-Una vez analizado el informe preventivo, la Secretaría o el Ayuntamiento, comunicarán al interesado, si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad conforme a la que deba formularse, y le informará de las normas técnicas ecológicas existentes, aplicables para la obra o actividad de que se trate.
+Una vez analizado el informe preventivo, la CEDES o el ayuntamiento, comunicarán al interesado, si procede o no la prestación de una manifestación de impacto ambiental, así como la modalidad conforme a la que deba formularse, y le informará de las normas técnicas ecológicas existentes, aplicable para la obra o actividad de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 25.
 
-El informe preventivo a que se refiere el artículo anterior, se formulará conforme a los instructivos que para ese efecto expidan la Secretaría o el Ayuntamiento, y deberán contener al menos, la siguiente información:
+El informe preventivo a que se refiere el artículo anterior, se formulará conforme a los instructivos que para ese efecto expidan la CEDES o el Ayuntamiento, y deberán contener al menos, la siguiente información.
 
 I.- Datos generales de quien pretenda realizar la obra o actividad proyectada, o en su caso, de quien hubiere ejecutado los proyectos o estudios previos correspondientes;
 
@@ -501,7 +511,9 @@ II.- Descripción de la obra o actividad proyectada; y
 
 III.- Descripción de las sustancias o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada y, los que, en su caso, vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales y tipo de residuos y procedimientos para su disposición final.
 
-De resultar insuficiente la información proporcionada, la Secretaria o el Ayuntamiento podrán requerir a los interesados la presentación de información complementaria.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+De resultar insuficiente la información proporcionada, la CEDES o el Ayuntamiento podrán requerir a los interesados la presentación de información complementaria.
 
 ###### ARTICULO 26.
 
@@ -515,9 +527,13 @@ III.- Especifica.
 
 Las personas físicas o morales que pretendan realizar las obras o actividades señaladas en el artículo 22 de esta Ley, deberán presentar una manifestación general de impacto ambiental.
 
-La manifestación de impacto ambiental, en sus modalidades intermedia o especifica, se presentará a requerimiento de la Secretaria o del Ayuntamiento, cuando las características de la obra o actividad, su magnitud o considerable impacto en el ambiente, o las condiciones del sitio en que pretenda desarrollar se, hagan necesaria la presentación de diversa y mas precisa información.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
-Los instructivos que al efecto formulen la Secretaría o los Ayuntamientos, precisarán el contenido y los lineamientos para desarrollar y presentar la manifestación de impacto ambiental, de acuerdo a la modalidad de que se trate.
+La manifestación de impacto ambiental, en sus modalidades intermedia o específica, se presentará a requerimiento de la CEDES o del Ayuntamiento, cuando las características de la obra o actividad, su magnitud o considerable impacto en el ambiente, o las condiciones del sitio en que pretenda desarrollarse, hagan necesaria la presentación de diversa y más precisa información.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Los instructivos que al efecto formulen la CEDES o los ayuntamientos, precisarán el contenido y los lineamientos para desarrollar y presentar la manifestación de impacto ambiental, de acuerdo a la modalidad de que se trate.
 
 ###### ARTICULO 27.
 
@@ -555,13 +571,15 @@ V.- Determinación del posible escenario ambiental resultante de la ejecución d
 
 VI.- Descripción de las medidas de prevención y mitigación para reducir los impactos ambientales adversos identificados en cada una de las etapas de la obra o actividad y el programa de recuperación y restauración del área impactada, al concluir la vida útil de la obra o al término de la actividad correspondiente.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 30.
 
-La Secretaría o el Ayuntamiento podrán requerir al interesado, información adicional que complemente la comprendida en la manifestación del impacto ambiental cuando ésta no se presente con el detalle que haga posible su evaluación.
+La CEDES o el Ayuntamiento podrán requerir al interesado, información adicional que complemente la comprendida en la manifestación del impacto ambiental cuando ésta no se presente con el detalle que haga posible su evolución.
 
-Cuando así lo consideren necesario, la Secretaría o el Ayuntamiento podrán solicitar además, los elementos técnicos que sirvieron de base para determinar tanto los impactos ambientales que generaría la obra o actividad de que se trate, como las medidas de prevención y mitigación previstas.
+Cuando así lo consideren necesario, la CEDES o el Ayuntamiento podrán solicitar además, los elementos técnicos que sirvieron de base para determinar tanto los impactos ambientales que generaría la obra o actividad de que se trate, como las medidas de prevención y mitigación previstas.
 
-La Secretaría o el Ayuntamiento evaluarán la manifestación de impacto ambiental cuando ésta se ajuste a lo previsto en la presente Ley y las demás disposiciones que se deriven de la misma y su formulación se haya sujetado a lo que establezca el instructivo respectivo.
+LA CEDES o el Ayuntamiento evaluarán la manifestación de impacto ambiental cuando ésta se ajuste a lo previsto en la presente Ley y las demás disposiciones que se deriven de la misma y su formulación se haya sujetado a lo que establezca el instructivo respectivo.
 
 ###### ARTICULO 31.
 
@@ -569,15 +587,19 @@ Una vez presentada la manifestación de impacto ambiental y satisfechos los requ
 
 Cualquier persona podrá consultar el expediente relativo, mismo que se integrará con la documentación comprendida en la manifestación de impacto ambiental.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría o el Ayuntamiento evaluarán la manifestación de impacto ambiental en su modalidad general, y en su caso la información complementaria requerida, y dentro de los treinta días hábiles siguientes a su presentación, o los siguientes cuarenta y cinco días hábiles, cuando requiera el dictamen técnico a que se refiere el artículo 36 de esta Ley, dictará la resolución de evaluación o requerirá la presentación de nueva manifestación de impacto ambiental en su modalidad intermedia o específica.
+La CEDES o el Ayuntamiento evaluarán la manifestación de impacto ambiental en su modalidad general y, en su caso, la información complementaria requerida, y dentro de los treinta días hábiles siguientes a su presentación o los siguientes cuarenta y cinco días hábiles, cuando requiera el dictamen técnico a que se refiere el artículo 36 de esta Ley, dictará la resolución de evolución o requerirá la presentación de nueva manifestación de impacto en su modalidad intermedia o específica.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría o el Ayuntamiento evaluarán, en su caso, la manifestación de impacto ambiental en su modalidad intermedia o especifica, así como la información complementaria cuando se haya solicitado ésta, y dentro de los sesenta días hábiles siguientes, tratándose de la modalidad intermedia, o dentro de los siguientes noventa días hábiles, cuando se trate de la manifestación de impacto ambiental en su modalidad específica, dictará la resolución de evaluación correspondiente, o requerirá la presentación de una manifestación de impacto ambiental en su modalidad específica, cuando hubiere sido presentada una manifestación en su modalidad intermedia.
+La CEDES o el Ayuntamiento evaluarán, en su caso, la manifestación de impacto ambiental en su modalidad intermedia o específica, así como la información complementaria cuando se haya solicitado ésta, y dentro de los sesenta días hábiles siguientes, tratándose de la modalidad intermedia, o dentro de los siguientes noventa días hábiles, cuando se trate de la manifestación de impacto ambiental en su modalidad específica, dictará la resolución de evaluación correspondiente, o requerirá la presentación de una manifestación de impacto ambiental en su modalidad específica, cuando hubiere sido presentada una manifestación en su modalidad intermedia.
 
-Los plazos para emitir la resolución a que se refiere este artículo, podrán ampliarse hasta en treinta días hábiles, cuando la Secretaría o el Ayuntamiento requieran el dictamen técnico a que se refiere el artículo 36 de esta Ley.
+Los plazos para emitir la resolución a que se refiere este artículo, podrá ampliarse hasta en treinta días hábiles, cuando la CEDES o el Ayuntamiento requieran el dictamen técnico a que se refiere el artículo 36 de esta Ley.
 
 ###### ARTICULO 34.
 
@@ -605,31 +627,47 @@ III.- Lo establecido en el programa de manejo del área natural protegida corres
 
 IV.- Las normas técnicas ecológicas especificas, del área considerada.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 36.
 
-Para la evaluación de la manifestación de impacto ambiental de obras o actividades que por sus características hagan necesaria la intervención de otras dependencias o entidades de la administración pública estatal o municipal, la Secretaria o el Ayuntamiento podrán solicitar a éstas la formulación de un dictamen técnico al respecto.
+Para la evaluación de la manifestación de impacto ambiental de obras o actividades que por sus características hagan necesaria la intervención de otras dependencias o entidades de la administración pública estatal o municipal, la CEDES o el Ayuntamiento podrán solicitar a éstas la formulación de un dictamen técnico al respecto.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 37.
 
-La Secretaría o el Ayuntamiento correspondiente, una vez que hubieren evaluado la manifestación del impacto ambiental, dictarán la resolución relativa. En dicha resolución podrán:
+La CEDES o el Ayuntamiento correspondiente, una vez que hubieren evaluado la manifestación del impacto ambiental, dictarán la resolución relativa. En dicha resolución podrán:
 
 I.- Otorgar la autorización para la ejecución de la obra o la realización de la actividad de que se trate, en los términos solicitados;
 
 II.- Negar dicha autorización; u
 
-III.- Otorgar de manera condicionada a la modificación del proyecto de obra o actividad, a fin de que se eviten o atenúen los impactos ambientales adversos susceptibles de ser producidos en la ejecución, operación normal y aún en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría o, en su caso, el Ayuntamiento respectivo, señalarán los requerimientos que deban observarse para la ejecución de la obra o la realización de la actividad prevista.
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+III.- Otorgar de manera condicionada a la modificación del proyecto de obra o actividades, a fin de que se eviten o atenúen los impactos ambientales adversos susceptibles de ser producidos en la ejecución, operación normal y aún en caso de accidente. Cuando se trate de autorizaciones condicionadas, la CEDES o, en su caso, el Ayuntamiento respectivo, señalarán los requerimientos que deban observarse para la ejecución de la obra o la realización de la actividad prevista.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 38.
 
-La Secretaría o el Ayuntamiento precisarán la vigencia de las autorizaciones a que se refiere el artículo anterior. La ejecución de la obra o la realización de la actividad de que se trate, deberá sujetarse a lo dispuesto en la resolución respectiva. En uso de sus facultades de inspección y vigilancia la Secretaria o el Ayuntamiento podrán verificar, en cualquier momento, que la obra o actividad de que se trate, se esté realizando o se haya realizado de conformidad con lo que disponga la autorización respectiva, y de manera de que se satisfagan los requisitos establecidos en los ordenamientos y normas técnicas ecológicas aplicables.
+La CEDES o el Ayuntamiento precisarán la vigencia de las autorizaciones a que se refiere el artículo anterior. La ejecución de la obra o la realización de la actividad de que se trate, deberá sujetarse a lo dispuesto en la resolución respectiva. En uso de sus facultades de inspección y vigilancia la CEDES o el Ayuntamiento podrán verificar, en cualquier momento, que la obra o actividad de que se trate, se esté realizando o se haya realizado de conformidad con lo que disponga la autorización respectiva, y de manera de que se satisfagan los requisitos establecidos en los ordenamientos y normas técnicas ecológicas aplicables.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 39.
 
-Todo interesado que desista de ejecutar una obra o realizar una actividad sometida a la autorización en materia de impacto ambiental, deberá comunicarlo así en forma escrita a la Secretaría o al Ayuntamiento, durante el procedimiento de evaluación del impacto ambiental, previo el otorgamiento de la autorización correspondiente, o al momento de suspender la realización de la obra o actividad, si ya se hubiere otorgado la autorización de impacto ambiental respectiva. En este caso, deberán adaptarse las medidas que determine la Secretaria o el Ayuntamiento, a efecto de que no se produzcan alteraciones nocivas al equilibrio ecológico o al ambiente.
+Todo interesado que desista de ejecutar una obra o realizar una actividad sometida a la autorización en materia de impacto ambiental, deberá comunicarlo así en forma escrita a la CEDES o al Ayuntamiento, durante el procedimiento de evaluación del impacto ambiental, previo el otorgamiento de la autorización correspondiente, o al momento de suspender la realización de la obra o actividad, si ya se hubieran otorgado la autorización de impacto ambiental respectiva. En ese caso, deberán adaptarse las medidas que determine la CEDES o el Ayuntamiento, a efecto de que no se produzcan alteraciones nocivas al equilibrio ecológico o al ambiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 40.
 
-Si con anterioridad a que se dicte la resolución a que se refiere el artículo 37 de esta Ley, se presentaren cambios o modificaciones en el proyecto descrito en la manifestación de impacto ambiental, el interesado lo comunicará así a la Secretaría o al Ayuntamiento, para que éstos determinen si procede o no la formulación de una nueva manifestación de impacto ambiental y en su caso, la modalidad en que deba presentarse. La Secretaria o el Ayuntamiento comunicarán dicha resolución a los interesados a partir de haber recibido el aviso de cambio o modificación de que se trate, dentro de un plazo de:
+Si con anterioridad a que se dicte la resolución a que se refiere el artículo 37 de esta Ley, se presenten cambios o modificaciones en el proyecto descrito en la manifestación de impacto ambiental, el interesado lo comunicará así a la CEDES o al Ayuntamiento, para que éstos determinen si procede o no la formulación de una nueva manifestación de impacto ambiental, y en su caso, la modalidad en que deba presentarse.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
+La CEDES o el Ayuntamiento comunicarán dicha resolución a los interesados a partir de haber recibido el aviso de cambio o modificación de que se trate, dentro de un plazo de:
 
 I.- Quince días hábiles en el caso de una manifestación de impacto ambiental en su modalidad general;
 
@@ -637,13 +675,15 @@ II.- Treinta días hábiles, cuando la última manifestación de impacto ambient
 
 III.- Cuarenta y cinco días hábiles cuando la última manifestación de impacto ambiental corresponda a la modalidad específica.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 41.
 
-En los casos en que una vez otorgada la autorización de impacto ambiental a que se refiere el artículo 37 de esta Ley, por caso fortuito o fuerza mayor llegaren a presentarse causas supervenientes de impacto ambiental no previstas en las manifestaciones formuladas por los interesados, la Secretaría o el Ayuntamiento podrán en cualquier tiempo evaluar nuevamente la manifestación de impacto ambiental de que se trate. En tales casos la Secretaría o el Ayuntamiento, requerirán al interesado la presentación de la información adicional que fuere necesaria, para evaluar el impacto ambiental de la obra o actividad respectiva.
+En los casos en que una vez otorgada la autorización de impacto ambiental a que se refiere el artículo 37 de esta Ley, por caso fortuito o fuerza mayor llegaren a presentarse causas supervenientes de impacto ambiental no previstas en las manifestaciones formuladas por los interesados, la CEDES o el Ayuntamiento podrán en cualquier tiempo evaluar nuevamente la manifestación de impacto ambiental de que se trate. En tales casos la CEDES o el Ayuntamiento, requerirán al interesado la presentación de la información adicional que fuere necesaria, para evaluar el impacto ambiental de la obra o actividad respectiva.
 
-La Secretaría o el Ayuntamiento podrán revalidar la autorización otorgada, modificarla, suspenderla o revocarla, si estuviere en riesgo el equilibrio ecológico o se produjeron afectaciones nocivas imprevistas en el ambiente.
+La CEDES o el Ayuntamiento podrán revalidar la autorización otorgada, modificarla, suspenderla o revocarla, si estuviere en riesgo el equilibrio ecológico o se produjeron (sic) afectaciones nocivas imprevistas en el ambiente.
 
-En tanto la Secretaria o el Ayuntamiento dicten la resolución a que se refiere el párrafo anterior, previa audiencia que otorguen a los interesados, podrán ordenar la suspensión temporal, parcial o total, de la obra o actividad correspondiente, en los casos de peligro inminente de desequilibrio ecológico, o de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública.
+En tanto la CEDES o el Ayuntamiento dicten la resolución a que se refiere el párrafo anterior, previa audiencia que otorguen a los interesados, podrán ordenar la suspensión temporal, parcial o total de la obra o actividad correspondiente, en los casos de peligro inminente de desequilibrio ecológico, o de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública.
 
 ###### ARTICULO 42.
 
@@ -655,27 +695,33 @@ Los Ayuntamientos podrán solicitar al Estado la asistencia técnica para la eva
 
 Los Ayuntamientos, en el otorgamiento de autorizaciones para usos del suelo y de licencias de construcción, establecerán como condición para su expedición, la presentación de la resolución del impacto ambiental, en los casos de obras o actividades a que se refieren los artículos 22 de esta Ley y 29 de la Ley General.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 44.
 
-La Secretaría establecerá un registro estatal en el que deberán inscribirse los prestadores de servicios que realicen estudios de impacto ambiental.
+La CEDES establecerá un registro estatal en el que deberán inscribirse los prestadores de servicios que realicen estudios de impacto ambiental.
 
-Los interesados en inscribirse en el registro a que se refiere el párrafo anterior presentarán ante la Secretaria una solicitud con la información y documentos siguientes:
+Los interesados en inscribirse en el registro a que se refiere el párrafo anterior presentarán ante la CEDES una solicitud con la información y documentas siguientes:
 
 I.- Nombre, nacionalidad y domicilio del solicitante;
 
 II.- Los documentos que acrediten la experiencia y capacidad técnica del interesado para la realización de estudios de impacto ambiental; y
 
-III.- Los demás documentos e información que, en su caso, requiera la Secretaria.
+III.- Los demás documentos e información que, en su caso, requiera la CEDES.
 
-La Secretaría podrá practicar las investigaciones necesarias para verificar la capacidad y aptitud de los prestadores de servicios para realizar las manifestaciones de impacto ambiental que establece esta Ley.
+La CEDES podrá practicar las investigaciones necesarias para verificar la capacidad y aptitud de los prestadores de servicios para realizar las manifestaciones de impacto ambiental que establece esta Ley.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 45.
 
-Recibida la solicitud a que se refiere el artículo anterior, la Secretaria en un plazo que no excederá de quince días hábiles contados a partir de la fecha en que se presente la solicitud, resolverá sobre la inscripción en el registro, del prestador de servicios de que se trate.
+Recibida la solicitud a que se refiere el artículo anterior, la CEDES en un plazo que no excederá de quince días hábiles contados a partir de la fecha en que se presente la solicitud, resolverá sobre la inscripción en el registro, del prestador de servicios de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría podrá cancelar el registro de los prestadores de servicios que realicen estudios de impacto ambiental por cualesquiera de las siguientes causas:
+La CEDES podrá cancelar el registro de los prestadores de servicios que realicen estudios de impacto ambiental por cualesquiera de las siguientes causas:
 
 I.- Por haber proporcionado información falsa o notoriamente incorrecta para su inscripción en el registro estatal de prestadores de servicios en materia de impacto ambiental;
 
@@ -685,13 +731,17 @@ III.- Por presentar de tal manera la información de las manifestaciones o estud
 
 IV.- Por haber perdido la capacidad técnica que dio origen a su inscripción.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 47.
 
-Los Ayuntamientos en los términos del presente Capítulo, establecerán un registro municipal en el que deberán inscribirse los prestadores de servicios que realicen estudios de impacto ambiental, o bien, podrán acogerse al registro estatal a que se refieren los artículos precedentes. En el supuesto de que se opte por establecer el registro municipal correspondiente, el Ayuntamiento ejercerá las atribuciones que se otorgan a la Secretaria en esta sección para la operación del registro respectivo.
+Los ayuntamientos en los términos del presente Capítulo, establecerán un registro municipal en el que deberán inscribirse los prestadores de servicios que realicen estudios de impacto ambiental, o bien, podrán acogerse al registro estatal a que se refieren los artículos precedentes. En el supuesto de que se opte por establecer el registro municipal correspondiente, el Ayuntamiento ejercerá las atribuciones que se otorgan a la CEDES en esta sección para la operación del registro respectivo.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 48.
 
-Se requerirá que el prestador de servicios esté inscrito en el registro estatal o municipal correspondiente, para que la Secretaría o el Ayuntamiento reconozcan validez y evalúen los estudios y manifestaciones de impacto ambiental que formulen.
+Se requerirá que el prestador de servicios esté inscrito en el registro estatal o municipal correspondiente, para que la CEDES o el Ayuntamiento reconozcan (sic) validen y evalúen los estudios y manifestaciones de impacto ambiental que formulen.
 
 #### SECCION V. DE LA INVESTIGACION Y EDUCACION ECOLOGICA
 
@@ -699,9 +749,11 @@ Se requerirá que el prestador de servicios esté inscrito en el registro estata
 
 El Estado y los Ayuntamientos promoverán la incorporación de contenidos de carácter ecológico en el Sistema Educativo Estatal, especialmente en los niveles básico y medio superior. Asimismo, fomentarán la realización de acciones de concientización y cultura ecológicas que propicien el fortalecimiento de la educación ambiental de la población.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 50.
 
-La Secretaria, con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la Entidad.
+LA CEDES, con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la Entidad.
 
 Para llevar a cabo dichas actividades, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
@@ -771,7 +823,9 @@ Las áreas naturales protegidas, se establecerán mediante declaratoria que expi
 
 Los Ayuntamientos realizarán los estudios previos que den base a la expedición de las declaratorias para el establecimiento de áreas naturales protegidas, cuando éstas se circunscriban a un centro de población y propondrán al Gobernador del Estado, la expedición de la declaratoria correspondiente.
 
-Cuando las áreas naturales protegidas estén fuera de los centros de población o abarquen dos o más centros de población o municipios, los estudios previos a que se refiere el párrafo anterior, los realizará la Secretaría y ésta propondrá al Gobernador del Estado, la expedición de la declaratoria correspondiente.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+Cuando las áreas naturales protegidas estén fuera de los centros de población o abarquen dos o más centros de población o municipios, los estudios previstos a que se refiere el párrafo anterior, los realizará la CEDES y ésta propondrá al Gobernador del Estado, la expedición de la declaratoria correspondiente.
 
 ###### ARTICULO 61.
 
@@ -797,9 +851,11 @@ Las declaratorias se inscribirán en el Registro Público de la Propiedad del Di
 
 Una vez establecida una área natural protegida, sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos, por determinación del Gobernador del Estado, siguiéndose el mismo procedimiento que para su establecimiento señala esta Ley.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 64.
 
-Cuando los Ayuntamientos y la Secretaría propongan al Gobernador del Estado el establecimiento de una área natural protegida, elaborarán el programa de manejo del área de que se trate, en el plazo que señale la declaratoria correspondiente.
+Cuando los ayuntamientos y la CEDES propongan al Gobernador del Estado el establecimiento de una área natural protegida, elaborarán el programa de manejo del área de que se trate, en el plazo que señale la declaratoria correspondiente.
 
 ###### ARTICULO 65.
 
@@ -841,9 +897,11 @@ IV.- Las formas y esquemas de concertación con la comunidad, los grupos sociale
 
 Las áreas naturales protegidas, constituyen en su conjunto el Sistema Estatal de Areas Naturales Protegidas.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 71.
 
-La Secretaría llevará a cabo el registro de las áreas integrantes del Sistema Estatal de Areas Naturales Protegidas, en el que se consignen los datos de su inscripción en los registros públicos de la propiedad correspondientes.
+La CEDES llevará a cabo el registro de las áreas integrantes del Sistema Estatal de Áreas Naturales Protegidas, en el que se consignen los datos de su inscripción en los registros públicos de la propiedad correspondiente.
 
 ## TITULO CUARTO. DE LA PROTECCION AL AMBIENTE
 
@@ -877,7 +935,9 @@ IV.- Integrarán y mantendrán actualizado el inventario de fuentes fijas de con
 
 V.- Establecerán y operarán sistemas de verificación de emisiones de vehículos automotores en circulación;
 
-VI.- Establecerán y operarán, con el apoyo técnico, en su caso, de la Secretaría de Desarrollo Urbano y Ecología, sistemas de monitoreo de la calidad del aire. Dichos sistemas deberán contar con dictamen técnico previo de dicha Secretaría. Esta promoverá, mediante acuerdos de coordinación, la incorporación de los reportes locales de monitoreo a la información nacional;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VI.- Establecerán y operarán, con el apoyo técnico, en su caso, de la Secretaría del Medio Ambiente y Recursos Naturales, sistemas de monitoreo de la calidad del aire. Dichos sistemas deberán contar con dictamen técnico previo de CEDES. Esta promoverá, mediante acuerdos de coordinación, la incorporación de los reportes locales de monitoreo a la información nacional;
 
 VII.- Establecerán requisitos y procedimientos para regular las emisiones de contaminantes de vehículos automotores, excepto los destinados al transporte público federal, y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
 
@@ -903,7 +963,9 @@ a) Las obras o actividades industriales, comerciales y de servicios que realicen
 
 b) Los establecimientos industriales que no sean por su actividad productiva, competencia de la Federación;
 
-c) Las obras o actividades localizadas en un Municipio, cuyas emisiones a la atmósfera contaminen o afecten el equilibrio ecológico de otro u otros municipios, cuando así lo determine la Secretaría o lo solicite al Gobernador del Estado el Ayuntamiento afectado por las emisiones contaminantes a la atmósfera;
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+c) Las obras o actividades localizadas en un Municipio, cuyas emisiones a la atmósfera contaminen o afecten el equilibrio ecológico de otro u otros municipios, cuando así lo determine la CEDES o lo solicite al Gobernador del Estado el Ayuntamiento afectado por las emisiones contaminantes a la atmósfera;
 
 d) El transporte público estatal; y
 
@@ -927,19 +989,25 @@ DE LA EMISION DE CONTAMINANTES GENERADA POR FUENTES FIJAS.
 
 Las emisiones de olores, gases, así como de partículas sólidas y líquidas a la atmósfera que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisión e inmisión, por contaminantes y por fuentes de contaminación, que se establezcan en las normas técnicas ecológicas.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 78.
 
-Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de jurisdicción estatal o municipal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán licencia de funcionamiento expedida por la Secretaría o el Ayuntamiento, la que tendrá una vigencia indefinida.
+Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de jurisdicción estatal o municipal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán licencia de funcionamiento expedida por la CEDES o el Ayuntamiento, la que tendrá una vigencia indefinida.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 79.
 
-Para obtener la licencia de funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes, deberán presentar a la Secretaría o al Ayuntamiento, solicitud por escrito acampanada de la información y documentación que señalen las disposiciones de observancia general que deriven de la presente Ley.
+Para obtener la licencia de funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes, deberán presentar a la CEDES o el Ayuntamiento, solicitud por escrito acompañada de la información y documentación que señalen las disposiciones de observancia general que deriven de la presente Ley.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 80.
 
-Una vez recibida la información a que se refiere el artículo anterior, la Secretaría o el Ayuntamiento otorgarán o negarán la licencia de funcionamiento correspondiente, dentro de un plazo de 30 días hábiles contados a partir de la fecha en que se cuente con toda la información requerida.
+Una vez recibida la información a que se refiere el artículo anterior, la CEDES o el Ayuntamiento otorgarán o negarán la licencia de funcionamiento correspondiente, dentro de un plazo de 30 días hábiles contados a partir de la fecha en que se cuente con toda la información requerida.
 
-De otorgarse la licencia, la Secretaría o el Ayuntamiento determinarán que actividades habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, las cuales, en todos los casos, se deberán especificar en la señalada licencia.
+De otorgarse la licencia, la CEDES o el Ayuntamiento determinarán que actividades habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, las cuales, en todos los casos, se deberán especificar en la señalada licencia.
 
 ###### ARTICULO 81.
 
@@ -947,27 +1015,41 @@ Las actividades a que se refiere el artículo anterior podrán ser las siguiente
 
 I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas técnicas ecológicas correspondientes;
 
-II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría o el Ayuntamiento y remitir el mismo a estas autoridades, con la periodicidad que determinen;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la CEDES o el Ayuntamiento y remitir el mismo y estas autoridades, con la periodicidad que determinen;
 
 III.- Instalar plataformas y puertos de muestreo;
 
-IV.- Medir las emisiones de contaminantes a la atmósfera, con la periodicidad que determinen la Secretaría o el Ayuntamiento, registrar los resultados en el formato que estas autoridades precisen y remitir los registros relativos cuando así se lo soliciten las mismas;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-V.- Llevar a cabo el monitoreo perimetral de las emisiones contaminantes a la atmósfera, con la periodicidad que determinen la Secretaria o el Ayuntamiento, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas, y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro a los ecosistemas;
+IV.- Medir las emisiones de contaminantes a la atmósfera, con la periodicidad que determinen la CEDES o el Ayuntamiento, registrar los resultados en el formato que estas autoridades precisen y remitir los registros relativos cuando así se los soliciten las mismas;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+V.- Llevar a cabo el monitoreo perimetral de las emisiones contaminantes a la atmósfera, con la periodicidad que determine la CEDES o el Ayuntamiento, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas, y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro a los ecosistemas;
 
 VI.- Llevar una bitácora de operación y mantenimiento de los equipos de proceso y de control;
 
-VII.- Dar aviso anticipado a la Secretaria o al Ayuntamiento, del inicio de operación de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos puedan provocar contaminación;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-VIII.- Dar aviso inmediato a la Secretaria o al Ayuntamiento, en el caso de falla del equipo de control, para que éstos determinen lo conducente, si la falla puede provocar contaminación;
+VII.- Dar aviso anticipado a la CEDES o al Ayuntamiento, del inicio de operación de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos puedan provocar contaminación;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+VIII.- Dar aviso inmediato a la CEDES o al Ayuntamiento, en el caso de falla del equipo de control, para que éstos determinen lo conducente, si la falla puede provocar contaminación;
 
 IX.- Las medidas y acciones que deberán llevarse a cabo en el caso de una contingencia; y
 
-X.- Las demás que establezcan esta Ley, las disposiciones que de ellas se deriven o determinen la Secretaría o el Ayuntamiento, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+X.- Las demás que establezcan esta Ley, las disposiciones que de ellas se deriven o determinen la CEDES o el Ayuntamiento, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 82.
 
-La Secretaría y los Ayuntamientos, convendrán con los responsables de las fuentes fijas de jurisdicción estatal y municipal, la realización de las actividades a que se refiere el artículo anterior, o bien, requerirán a los mismos para que lleven a cabo, en forma obligatoria, dichas actividades.
+La CEDES y los ayuntamientos, convendrán con los responsables de las fuentes fijas de jurisdicción estatal y municipal, la realización de las actividades a que se refiere el artículo anterior, o bien, requerirán a los mismos para que lleven a cabo, en forma obligatoria, dichas actividades.
 
 #### SECCION III
 
@@ -977,9 +1059,11 @@ DE LA EMISION DE CONTAMINANTES A LA ATMOSFERA GENERADA POR VEHICULOS AUTOMOTORES
 
 Las emisiones de contaminantes de los vehículos automotores que circulen en el territorio del Estado, no deberán rebasar los límites permisibles establecidos en las normas técnicas ecológicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 84.
 
-Los propietarios o poseedores de vehículos automotores, verificarán periódicamente sus vehículos con el propósito de controlar, en la circulación de los mismos, las emisiones contaminantes. Dicha verificación deberá efectuarse en los períodos y centros de verificación vehicular, que para tal efecto determinen la Secretaría y los Ayuntamientos.
+Los propietarios o poseedores de vehículos automotores, verificarán periódicamente sus vehículos con el propósito de controlar en la circulación de los mismos, las emisiones contaminantes. Dicha verificación deberá efectuarse en los periodos y centros de verificación vehicular, que para tal efecto determinen la CEDES y los ayuntamientos.
 
 En el caso de que de la verificación de emisiones contaminantes se determine que éstas exceden los limites permisibles, el propietario deberá efectuar las reparaciones necesarias, a fin de que se satisfagan las normas técnicas ecológicas correspondientes, en el plazo que para tal efecto se haya establecido.
 
@@ -993,7 +1077,9 @@ Lo dispuesto en este artículo se aplicará en aquellos municipios cuyo parque v
 
 En relación con las emisiones de contaminantes de vehículos automotores, excepto los destinados al transporte público federal, corresponderá:
 
-A) A la Secretaría, respecto de los vehículos destinados al servicio público de transporte concesionario por el Estado;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
+A) A la CEDES respecto de los vehículos destinados al servicio público de transporte concesionado por el estado;
 
 I.- Participar, en coordinación con los Ayuntamientos, en la prevención y el control de la contaminación atmosférica generada por los vehículos automotores destinados al servicio público estatal, a que se refiere este inciso;
 
@@ -1051,9 +1137,11 @@ III.- (DEROGADA, B.O. 2 DE NOVIEMBRE DE 1993)
 
 IV.- Servicio de transporte de uso privado en los casos de emergencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 87.
 
-Los interesados en obtener autorización para establecer y operar centros de verificación vehicular obligatoria con reconocimiento oficial, deberán presentar solicitud ante la Secretaría o ante el Ayuntamiento que corresponda, según el ámbito de competencia de cada uno de éstos.
+Los interesados en obtener autorización para establecer y operar centros de verificación vehicular obligatoria con reconocimiento oficial, deberán presentar solicitud ante la CEDES o ante el Ayuntamiento que corresponda, según el ámbito de competencia de cada uno de éstos.
 
 Se considera de interés social, convocar públicamente a los interesados en establecer y operar centros de verificación, para que presenten las solicitudes respectivas.
 
@@ -1097,9 +1185,11 @@ El personal que tenga a su cargo la verificación vehicular, deberá contar con 
 
 Para determinar el monto de los productos que se causen por los servicios de verificación vehicular obligatoria en centros operados por las autoridades estatales o municipales, se estará a lo que dispongan las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 93.
 
-Procederá la revocación de las autorizaciones que otorguen la Secretaría o los Ayuntamientos, para el establecimiento y operación de centros de verificación vehicular, en los siguientes casos:
+Procederá la revocación de las autorizaciones que otorguen la CEDES o los ayuntamientos, para el establecimiento y operación de centros de verificación vehicular, en los siguientes casos:
 
 I.- Cuando las verificaciones no se realicen conforme a las normas técnicas ecológicas aplicables o en los términos de la autorización otorgada;
 
@@ -1161,7 +1251,9 @@ Para la prevención y control de la contaminación del agua corresponderá a los
 
 I.- Llevar el control de las descargas de aguas residuales a los cuerpos de agua de jurisdicción estatal y a los sistemas de drenaje y alcantarillado;
 
-II.- Llevar y actualizar el registro de las descargas a que se refiere el inciso anterior y actualizar y proporcionarlo a la Secretaria para que sea integrado al registro nacional de descargas a cargo de la Federación, en los términos del artículo 119 fracción V inciso d) de la Ley General;
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+
+II.- Llevar y actualizar el registro de las descargas a que se refiere el inciso anterior y proporcionarlo a la CEDES para que sea integrado al registro nacional de descargas a cago de la Federación, en los términos del artículo 119 fracción V inciso d) de la Ley General;
 
 III.- Requerir a quienes pretendan descargar a dichos cuerpos o corrientes de agua y no satisfagan las normas técnicas ecológicas que se expidan, la instalación de sistemas de tratamiento de sus aguas residuales, o en su caso, la aceptación del organismo operador para tomar a su cargo dicho tratamiento, en la que se haga constar que el usuario cubrirá las cuotas o derechos correspondientes;
 
@@ -1199,9 +1291,11 @@ El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la 
 
 Los responsables de las descargas de aguas residuales podrán solicitar a los organismos operadores, tomen a su cargo el tratamiento de dichas aguas, previo el pago de las cuotas que se fijen en las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 105.
 
-La Secretaria, con la participación de los Ayuntamientos y, en su caso, de los organismos operadores correspondientes, realizará un monitoreo sistemático y permanente de la calidad de las aguas de jurisdicción estatal, para detectar la presencia de contaminantes y aplicar las medidas que procedan o, en su caso, promover su ejecución.
+La CEDES, con la colaboración de los ayuntamientos y, en su caso, de los organismos operadores correspondientes, realizarán un monitoreo sistemático y permanente de la calidad de las aguas de jurisdicción estatal, para detectar la presencia de contaminantes y aplicar las medidas que procedan o, en su caso, promover su ejecución.
 
 Para el ejercicio de estas atribuciones, podrán celebrarse acuerdos de coordinación con las autoridades federales correspondientes.
 
@@ -1267,9 +1361,11 @@ II.- La identificación de alternativas de reutilización y disposición final d
 
 ACTIVIDADES NO CONSIDERADAS ALTAMENTE RIESGOSAS.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 113.
 
-El Gobernador del Estado, a propuesta de la Secretaría y previa opinión de las Secretarías de Salud Pública, Fomento Agrícola, Fomento Ganadero, Fomento Industrial y Comercio y Fomento al Turismo, determinará y publicará en el Boletín Oficial del Gobierno del Estado, los listados de las actividades que deban considerarse riesgosas.
+El Gobernador del Estado, a propuesta de la CEDES y previa opinión de las Secretarías de infraestructura y Desarrollo Urbano, de Salud Pública, de Agricultura, Ganadería, Recursos Hidráulicos. Pesca y Acuacultura y de Economía y la Comisión de Fomento al Turismo del Estado de Sonora, determinará y publicará en el Boletín Oficial del Gobierno del Estado, los listados de las actividades que deban considerarse riesgosas.
 
 ###### ARTICULO 114.
 
@@ -1333,17 +1429,21 @@ Los Ayuntamientos quedan facultados para formular y establecer las disposiciones
 
 REGULACION DE LOS APROVECHAMIENTOS DE MINERALES O SUSTANCIAS NO RESERVADAS A LA FEDERACION.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 123.
 
-El aprovechamiento de minerales o sustancias no reservadas a la Federación que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición, que sólo puedan utilizarse para la fabricación de materiales para la construcción y ornamento, requerirá autorización de la Secretaría.
+El aprovechamiento de minerales o sustancias no reservadas a la Federación que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición, que sólo puedan utilizarse para la fabricación de materiales para la construcción y ornamento, requerirá autorización de la CEDES.
 
 ###### ARTICULO 124.
 
 Las actividades de exploración, explotación y aprovechamiento de los recursos no reservados a la Federación, se llevarán a cabo de manera que se eviten daños al equilibrio ecológico y al ambiente de las localidades en el Estado.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 125.
 
-La realización de las actividades a que se refiere este Capítulo, en zonas urbanas o en áreas cercanas a centros de población, podrá negarse o suspenderse cuando a juicio de la Secretaria, se ponga en serio peligro el equilibrio ecológico o al ambiente de la localidad.
+La realización de las actividades a que se refiere este capítulo, en zonas urbanas o en áreas cercanas a centros de población, podrá negarse o suspenderse cuando a juicio de la CEDES, se ponga en serio peligro el equilibrio ecológico o al ambiente de la localidad.
 
 ###### ARTICULO 126.
 
@@ -1353,9 +1453,11 @@ I.- Controlar la emisión o el desprendimiento de polvos, humos o gases que pued
 
 II.- Controlar esos residuos y evitar su propagación fuera de los terrenos en los que lleven a cabo dichas tareas.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 127.
 
-Corresponde a la Secretaría vigilar que los responsables de la exploración, explotación y aprovechamiento de los recursos minerales o sustancias a que se refiere este Capitulo, cumplan con las disposiciones que sobre la materia señala la presente Ley y las que de ella se deriven.
+Corresponde a la CEDES vigilar que los responsables de la exploración, explotación y aprovechamiento de los recursos minerales o sustancias a que se refiere este capítulo, cumplan con las disposiciones que sobre la materia señala la presente Ley y las que de ella se deriven.
 
 ### CAPITULO VII
 
@@ -1387,9 +1489,11 @@ La prevención y el control de emergencias ecológicas y contingencias ambiental
 
 La prevención y control de emergencias ecológicas y contingencias ambientales será competencia del Ayuntamiento, cuando la magnitud o gravedad de los desequilibrios ecológicos o los daños al ambiente no rebasen el territorio del Municipio respectivo, o cuando no se haga necesaria la acción exclusiva del Estado o de la Federación. En el último de los casos, los municipios solicitarán la intervención de la Federación por conducto del Estado.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 132.
 
-Corresponderá a la Secretaría, proponer al titular del Ejecutivo Estatal la adopción de las medidas que sean necesarias para la prevención y el control de emergencias ecológicas y contingencias ambientales. Igualmente, le corresponderá la aplicación de tales medidas en el ámbito de su competencia, así como su coordinación, cuando para la atención de dichas situaciones deban intervenir dos o más dependencias estatales.
+Corresponderá a la CEDES, proponer al titular del Ejecutivo Estatal la adaptación de las medidas que sean necesarias para la prevención y el control de emergencias ecológicas y contingencias ambientales. Igualmente, le corresponderá la aplicación de tales medidas en el ámbito de su competencia, así como su coordinación, cuando para la atención de dichas situaciones deban intervenir dos o más dependencias estatales.
 
 ## TITULO QUINTO. DE LA PARTICIPACION SOCIAL
 
@@ -1431,7 +1535,9 @@ III.- Impulsar la participación en estas tareas de los sectores públicos, soci
 
 La Comisión Estatal de Ecología se integrará por un Presidente que será el Gobernador del Estado, por representantes de las dependencias estatales que se relacionen con las atribuciones de la Comisión y por los representantes de los grupos y organismos sociales de los diferentes sectores e instituciones educativas y de servicio que se inviten por el Presidente de la Comisión a formar parte de ella.
 
-La Comisión tendrá un Secretario Técnico que será el titular de la Secretaria, quién suplirá al Presidente de la Comisión en las ausencias de éste.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
+La Comisión tendrá un Secretario Técnico que será el Director General de la CEDES, quién suplirá al Presidente de la Comisión en las ausencias de éste.
 
 Asimismo, se podrá invitar a participar en la Comisión a los representantes de las dependencias y entidades de la Administración Pública Federal en el Estado, así como los Ayuntamientos, cuando se trate de asuntos que incidan en su ámbito territorial.
 
@@ -1527,9 +1633,11 @@ Cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminac
 
 ### CAPITULO IV. DE LAS SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 152.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente por la Secretaría, en asuntos de competencia del Estado y por los Ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emana, constituyen infracción y serán sancionadas administrativamente por la CEDES, en asuntos de competencia del Estado y por los ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
 
 I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en la capital del Estado en el momento de imponer la sanción.
 
@@ -1559,9 +1667,11 @@ III.- La reincidencia, si la hubiere.
 
 Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 156.
 
-La Secretaría o los Ayuntamientos podrán promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico.
+La CEDES o los ayuntamientos podrán promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico.
 
 ### CAPITULO V. DEL RECURSO DE INCONFORMIDAD
 
@@ -1619,9 +1729,11 @@ Transcurrido el término para desahogo de las pruebas, si las hubiere, se dictar
 
 ### CAPITULO VI. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 163.
 
-Toda persona podrá denunciar ante la Secretaría, o ante los Ayuntamientos, todo hecho, acto u omisión de competencia estatal o municipal, que produzca desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la Ley General, de la presente Ley, o de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+Toda persona podrá denunciar ante la CEDES, o ante los ayuntamientos, todo hecho, acto u omisión de competencia estatal o municipal, que produzca desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la Ley General, de la presente Ley, o de los demás ordenamientos que regulen materias relacionadas por la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
 Si la denuncia presentada resulta del orden federal, deberá ser remitida a la autoridad competente, en un plazo no mayor dé cinco días hábiles contados a partir de la fecha de recepción de la denuncia.
 
@@ -1629,21 +1741,29 @@ Si la denuncia presentada resulta del orden federal, deberá ser remitida a la a
 
 La denuncia popular podrá ejercitarse por cualquier persona, bastando para darle curso, el señalamiento de los datos necesarios que permitan localizar la obra o actividad que esté causando deterioro ecológico, así como el nombre y domicilio del denunciante.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 165.
 
-La Secretaría o el Ayuntamiento, una vez recibida la denuncia, procederá por los medios que resulten conducentes a identificar al denunciante, y en su caso, hará saber la denuncia a la persona o personas a quien se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida.
+La CEDES o el Ayuntamiento, una vez recibida la denuncia, procederá por los medios que resulten conducentes a identificación al denunciante, y en su caso, hará saber la denuncia a la persona o personas a quien se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 166.
 
-La Secretaria o el Ayuntamiento, efectuará las diligencias necesarias para la comprobación de los hechos denunciados así como para la evaluación correspondiente.
+La CEDES o el Ayuntamiento, efectuará las diligencias necesarias para la comprobación de los hechos denunciados así como para la evaluación correspondiente.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 167.
 
-La Secretaria o el Ayuntamiento, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquélla y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+La CEDES o el Ayuntamiento, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquélla y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 168.
 
-Cuando por infracción a las disposiciones de esta Ley, se hubieren ocasionado daños o perjuicios, él o los interesados, podrán solicitar a la Secretaria o al Ayuntamiento la formulación de un dictamen técnico al respecto, él cual tendrá el valor de prueba, en caso de ser presentado a juicio.
+Cuando por infracción a las disposiciones de esta Ley, se hubieren ocasionado daños o perjuicios, él o los interesados, podrán solicitar a la CEDES o al Ayuntamiento la formulación de un dictamen técnico al respecto, el cual tendrá el valor de prueba, en caso de ser presentado a juicio.
 
 T R A N S I T O R I O S
 
@@ -1812,3 +1932,13 @@ TRANSITORIO:
 ###### ARTÍCULO ÚNICO.
 
 El presente ACUERDO entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias cuyas atribuciones resulten modificadas por virtud del presente Decreto y que por lo tanto incidan en su estructura orgánica, contará con un plazo de noventa días naturales contados a partir de la entrada en vigor de este ordenamiento, para llevar a cabo las modificaciones correspondientes a su reglamento interior.
