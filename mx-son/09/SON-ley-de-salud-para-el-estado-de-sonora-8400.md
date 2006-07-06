@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2005-06-20"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -297,9 +297,17 @@ IV. Formular y desarrollar programas locales de salud, en el marco del Sistema E
 
 V. Celebrar con la Federación los acuerdos de coordinación en materia de salubridad concurrente y los convenios en los que, en los términos de la fracción VI del artículo 116 de la Constitución General de la República y XVI del artículo 79 de la Constitución Política Local, asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo hagan necesario;
 
-VI. Vigilar y hacer cumplir en la esfera de su competencia, la Ley General de Salud, la presente ley y demás disposiciones legales aplicables; y
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
-VII. Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de la ley.
+VI.- Vigilar y hacer cumplir en la esfera de su competencia la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 6 DE JULIO DE 2006)</small>
+
+VII.- Ejercer las funciones de regulación y control sanitario en materia de salubridad general que corresponde al Estado, conforme a lo que establecen la Ley General de Salud, la presente Ley y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 6 DE JULIO DE 2006)</small>
+
+VIII.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de la Ley.
 
 ###### ARTICULO 16.
 
@@ -1253,7 +1261,7 @@ I. Cumplir y hacer que se cumpla la voluntad del fundador o fundadores de la ins
 
 II. Administrar los bienes de las instituciones procurando su conservación y mejoramiento;
 
-III. Abstenerse de nombrar como empleados de las instituciones a las personas mencionadas en la fracción I del artículo anterior;
+III. Abstenerse de nombrar como empleados de las instituciones a las personas mencionadas en la fracción I del articulo anterior;
 
 IV. Ejercitar las acciones y defensas que correspondan a las instituciones, y hacer que se cumpla el objeto para el cual fueron constituidas, acatando estrictamente sus estatutos;
 
@@ -2365,7 +2373,7 @@ La Secretaría y los Municipios, con base en los resultados de la visita o del i
 
 Las autoridades sanitarias, para hacer cumplir sus determinaciones podrán emplear cualesquiera de los siguientes medios de apremio:
 
-I. Multa, desde diez hasta quinientas veces el salarios (sic) mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia.
+I. Multa, desde diez hasta quinientas veces el salarios mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia.
 
 La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante la autoridad sanitaria su cumplimiento, mediante la presentación del recibo correspondiente. El importe de la multa quedará a beneficio del Fondo Estatal de Solidaridad. Cuando se trate de pequeños comerciantes o vendedores ambulantes la multa será fijada de diez a veinte veces el salario mínimo;
 
@@ -2612,3 +2620,33 @@ El Ejecutivo del Estado realizará las reasignaciones de recursos necesarias par
 ###### ARTICULO QUINTO.
 
 El reglamento interno del Centro deberá ser aprobado a más tardar a los treinta días naturales contados a partir de la fecha de la sesión de instalación del mismo.
+
+B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias cuyas atribuciones resulten modificadas por virtud del presente Decreto y que por lo tanto incidan en su estructura orgánica, contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor de este ordenamiento, para llevar a cabo las modalidades correspondientes a su reglamento interior.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, materiales y financieros asignados a la Secretaría de infraestructura Urbana y Ecología para el ejercicios (sic) de las funciones de equilibrio ecológico y protección al ambiente se transferirán al organismo público descentralizado denominado Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, respetándose los derechos laborales de conformidad con las disposiciones legales aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que en materia de equilibrio ecológico y protección al ambiente estén en conocimiento de la Secretaría de Infraestructura Urbana y Ecológica, permanecerán en el último trámite alcanzado hasta que las unidades administrativas de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, estén en condiciones de continuar su tramitación.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otros ordenamientos jurídicos respecto a la Secretaría de Infraestructura Urbana y Ecológica, en relación con la materia de equilibrio ecológico y protección al ambiente, se entenderán referidas a la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Los ingresos que obtenga el Estado derivados del cobro de las contribuciones por concepto de otorgamiento de licencias y permisos y por el cobro de las multas que se impongan en materia de ecología y medio ambiente, se destinarán a los programas de ecología y medio ambiente a cargo de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
