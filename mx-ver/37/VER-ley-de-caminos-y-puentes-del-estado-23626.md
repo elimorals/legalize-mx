@@ -4,7 +4,7 @@ identifier: "VER-ley-de-caminos-y-puentes-del-estado-23626"
 country: "mx"
 rank: "ley"
 publication_date: "1930-09-09"
-last_updated: "1930-09-09"
+last_updated: "2006-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE CAMINOS Y PUENTES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JULIO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 9 de septiembre de 1930.
 
@@ -58,6 +58,10 @@ Son caminos privados aquellos que sirven para darle salida a un predio o heredad
 ###### Artículo 3º.
 
 Los puentes y demás obras de arte de los caminos, son parte integrante de éstos, así como los terrenos y construcciones que se requiera para su mejor servicio.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2006)</small>
+
+No se podrán colocar anuncios o realizar obras con fines de publicidad, de tal forma que puedan confundirse con cualquier clase de señal colocada a lo largo de los puentes de jurisdicción estatal o que distraigan la atención de conductor.
 
 ###### Artículo 4º.
 
@@ -280,3 +284,9 @@ Jalapa-Enríquez, a veintidós de julio de mil novecientos treinta.- Tomás Pér
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Jalapa-Enríquez, a los 26 días del mes de julio de 1930.- A. TEJEDA.- El Subsecretario de Gobierno, Encargado de la Secretaría, Lic. LUIS VEGA Y PAVON.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE JULIO DE 2006.
+
+Artículo único.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
