@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-contratacion-15526
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-07"
-last_updated: "1999-06-07"
+last_updated: "2006-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2006.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 7 de junio de 1999.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el 7 de junio de 1999.
 
 MARÍA TERESA GARCÍA SEGOVIA DE MADERO, PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, EN USO DE MIS FACULTADES A QUE SE REFIERE EL ARTÍCULO 27 FRACCIÓN IV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE NUEVO LEÓN, A LOS HABITANTES DE ESTE MUNICIPIO HAGO SABER:
 
@@ -43,27 +43,43 @@ EL OBJETO DE ESTE REGLAMENTO ES REGULAR LAS DIVERSAS OPERACIONES RELATIVAS A LAS
 
 El presente Reglamento es de orden público e interés social, su objeto es regular las operaciones relativas a las adquisiciones y arrendamientos de bienes muebles o inmuebles, así como la contratación de servicios que realice el Gobierno Municipal de San Pedro Garza García, N.L.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2006)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entiende por:
 
-I. Adquisiciones: La compra de materiales, materia prima, bienes muebles e inmuebles, así como arrendamiento de bienes muebles e inmuebles y contratación de servicios;
+I. Acuerdo de radicación: Acto administrativo mediante el cual se da inicio al recurso de reconsideración;
 
-II. Secretaría: La Secretaría de Servicios Administrativos;
+II. Adquisiciones: La compra de materiales. Materia prima e bienes muebles e inmuebles, así como arrendamiento de bienes muebles e inmuebles y contratación de servicios;
 
-III. Contraloría: La Contraloría Municipal;
+III. Comité: Comité de Adquisiciones;
 
-IV. Dependencias: Las Secretarías indicadas en el Reglamento Orgánico del Gobierno Municipal de San Pedro Garza García, Nuevo León;
+IV. Contraloría: La Contraloría Municipal;
 
-V. Comité: Comité de Adquisiciones;
+V. Contraseña: Clave de acceso del usuario a la cuenta del sistema de subastas electrónicas;
 
-VI. Proveedor: Toda persona física o moral que esté en disposición de suministrar todo lo referente a las adquisiciones del Gobierno Municipal de San Pedro Garza García, N.L.;
+VI. Cuenta: Identificación electrónica única en el Registro de Proveedores de la Dirección de Adquisiciones;
 
 VII. Cuota: Salario mínimo diario ordinario general para la zona económica correspondiente a este Municipio;
 
-VIII. Municipio: Gobierno Municipal de San Pedro Garza García, N.L.;
+VIII. Dependencias: Las Secretarías indicadas en el Reglamento Orgánico del Gobierno Municipal de San Pedro Garza García, Nuevo León;
 
-IX. Subasta: sistema opcional de adjudicación de Reglamento.
+IX. Municipio: Gobierno Municipal de San Pedro Garza García, N, L.;
+
+X. Portal: La dirección electrónica identificada como http://esubastas.sanpedro.gobmx;
+
+XI. Producto: Bien o servicio solicitado, materia de la subasta electrónica;
+
+XII. Proveedor: Toda persona física o moral que esté en disposición de suministrar todo lo referente a las adquisiciones del Gobierno Municipal de San Pedro Garza García, N. L.;
+
+XIII. Secretaria: La Secretaría de Servicios Administrativos;
+
+XIV, Subasta: sistema opcional de adjudicación de adquisiciones, en términos de este Reglamento;
+
+XV. Subasta Electrónica: El procedimiento de adquisición de un bien o servicio mediante subasta a través la red mundial de información conocida como Internet: y,
+
+XVI. Usuario: Persona Física o Moral proveedora de bienes o servicios requeridos
 
 ###### Artículo 3.
 
@@ -143,7 +159,9 @@ La Secretaría será responsable de integrar y mantener actualizado el Registro 
 
 La Secretaría registrará a todos aquellos proveedores que se encuentren bajo los siguientes supuestos:
 
-I. Cuando el procedimiento utilizado para la adquisición sea por concurso o subasta, ya sea por invitación o por convocatoria pública;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2006)</small>
+
+I. Cuando el procedimiento utilizado para la adquisición sea por concurso o subasta, ya sea por invitación o por convocatoria pública o por subasta electrónica;
 
 II. Cuando se formalice la adquisición con el proveedor a través de un contrato;
 
@@ -173,17 +191,21 @@ El Registro de Proveedores del Municipio tendrá validez continua y permanente. 
 
 La Secretaría incluirá en su Registro de Proveedores la información relativa de aquellos casos de proveedores que incumplan con alguna de las obligaciones contraídas relativas a las adquisiciones.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2006)</small>
+
 ###### Artículo 14.
 
-El Registro podrá suspenderse hasta por un término de doce meses, cuando el proveedor incurra en alguna de las siguientes faltas:
+El Registro podrá suspenderse hasta por un término de 12 doce meses, cuando el proveedor incurra en alguna de las siguientes faltas:
 
-I. No cumpla con las condiciones pactadas en el contrato y/o orden de compra; o,
+I. No cumpla con lo ofrecido en su cotización o propuesta tratándose de Compras por adjudicación directa, concursos o subastas electrónicas;
 
-II. Se niegue a dar las facilidades necesarias para que la Secretaría ejerza sus funciones de verificación, inspección y vigilancia; o,
+II. No cumpla con las condiciones pactadas en la orden de compra o contrato;
 
-III. Se niegue a sustituir las adquisiciones que no reúnan las especificaciones de calidad estipuladas en la orden de compra y/o contrato, así como a responder de los defectos o vicios ocultos del suministro de dichas adquisiciones.
+III. Se niegue a dar las facilidades necesarias para que la Secretaria ejerza sus funciones de verificación, inspección y vigilancia; o,
 
-En los casos en que el proveedor rectifique alguno de los supuestos mencionados en este Artículo, se dará fin a juicio de la Secretaria, a la suspensión referida.
+IV. Se niegue a sustituir las adquisiciones que no reúnan las especificaciones de calidad estipuladas en la orden de Compra o contrato, así como a responder de los defectos y vicios del suministro de dichas adquisiciones.
+
+En los casos en que el proveedor rectifique alguno de los supuestos mencionados en este articulo, se dará fin a juicio de la Secretaria, a la suspensión referida.
 
 ###### Artículo 15.
 
@@ -243,15 +265,29 @@ II. Cotización por escrito. Se comprará mediante este procedimiento, solicitan
 
 III. Concurso o Subasta por Invitación, Se comprará mediante este procedimiento y se invitará a cuando menos tres proveedores, cuando su monto exceda de 14,000 cuotas y no sobrepase de 23,500 cuotas;
 
-IV. Concurso O Subasta por Licitación Pública. Se comprará mediante este procedimiento, que sedará a conocer por lo menos en uno de los diarios de mayor circulación, cuando su monto exceda de 23,500 cuotas y será opcional para la Secretaría, recurrir a su publicación en medios electrónicos.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-La Secretaría podrá optar por realizar subastas en lugar de concursos por invitación O licitación pública, cuando así lo considere necesario.
+IV. Concurso o Subasta por Licitación Pública. Se comprará mediante este procedimiento, que se dará a conocer por lo Menos en uno de los diarios de mayor circulación, cuando su monto exceda de 23,500-veinti tres mil quinientas cuotas y será opcional para la Secretaría recurrir a su publicación en por lo menos un medio electrónico;
 
-Los montos establecidos deberán considerarse sin incluir el importe del Impuesto al Valor Agregado.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2009)</small>
 
-Para llevar a cabo el procedimiento señalado en este artículo, cada adquisición deberá considerarse individualmente en base a su importe total, el cual no podrá ser fraccionado en su cuantía.
+V. Subasta Electrónica. Se comprará mediante este procedimiento en los términos y condiciones establecidos en el Capítulo correspondiente en el presente Reglamento.
 
-La Secretaría someterá a la opinión del Comité todas aquellas adquisiciones mayores a las 2,500 cuotas.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+La Secretaría podrá optar por realizar subastas electrónicas en lugar de los procedimientos señalados en las fracciones I y lI.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+Para llevar a cabo el procedimiento señalado en este articulo, cada adquisición deberá considerarse individualmente en base a su importe total el cual no podrá ser fraccionado en su cuantía. La Secretaria someterá a la opinión del Comité todas aquellas adquisiciones mayores a 14, 000 catorce mil cuotas.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+Los cálculos de las cuotas establecidas y sus límites para efectos de las adquisiciones se harán sin incluir el Impuesto al Valor Agregado.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
+En todos los casos, deberán procurarse para el Municipio las mejores condiciones disponibles en cuanto a calidad, Precio, servicio, garantía, oportunidad, financiamiento y demás circunstancias pertinentes.
 
 ###### Artículo 20.
 
@@ -271,7 +307,9 @@ VI. Cuando la licitación pública se declare desierta dos veces, ésta podrá s
 
 La Secretaría, en la realización de alguno de los supuestos señalados anteriormente, deberá someterlo previamente a la opinión del Comité exceptuando la fracción II.
 
-### CAPÍTULO QUINTO. DE LOS LINEAMIENTOS DE ADJUDICACIÓN DIRECTA Y DE COTIZACIÓN POR ESCRITO
+> <small>(REFORMADA SU NUMERACION, P.O. 7 DE JULIO DE 2009)</small>
+
+### CAPÍTULO CUARTO (SIC). DE LOS LINEAMIENTOS DE ADJUDICACIÓN DIRECTA Y DE COTIZACIÓN POR ESCRITO
 
 ###### Artículo 21.
 
@@ -291,7 +329,7 @@ IV. Los demás aspectos que se establezcan en las solicitudes de cotización.
 
 ###### Artículo 23.
 
-Las operaciones de adquisiciones que se realicen mediante el procedimiento de cotización por escrito, se adjudicarán al proveedor que presente las mejores condiciones de calidad, precio, servicio, garantías, oportunidad y financiamiento.
+(DEROGADO, P.O. 7 DE JULIO DE 2006)
 
 ### CAPÍTULO SEXTO. DE LOS LINEAMIENTOS DE CONCURSOS O SUBASTAS POR INVITACIÓN Y POR LICITACIÓN PÚBLICA
 
@@ -521,39 +559,115 @@ El Proveedor podrá presenciar el procedimiento de verificación. El resultado s
 
 En el ejercicio de sus atribuciones, la Contraloría, podrá intervenir en todos los procesos establecidos en este Reglamento.
 
-### CAPÍTULO DÉCIMO SEGUNDO. SANCIONES Y RECURSOS
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS SUBASTAS ELECTRÓNICAS
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 53.
 
-Los proveedores que infrinjan las disposiciones contenidas en este Reglamento o las normas que con base en ellas se dicten, podrán ser sancionadas con multas de hasta el doble del monto del daño ocasionado al Municipio. Las sanciones administrativas se impondrán sin perjuicio de las penas que correspondan en caso de delito y de los daños y perjuicios que pudieran resultar.
+El procedimiento de subasta electrónica es público por vía de Internet e iniciará con la publicación en el Portal, de la requisición de compra del producto requerido.
+
+Se invitará a participar en la subasta electrónica por vía correo electrónico a todos los proveedores registrados en la Categoría que corresponda. Esta invitación se hará en el momento mismo que la requisición sea dada de alta en el portal.
+
+Los proveedores interesados, ingresarán al módulo correspondiente con su cuenta y contraseña, aceptarán los términos y condiciones del procedimiento de subasta electrónica elaborados por la Secretaria, lo cual les permitirá realizar las cotizaciones en línea sobre los productos relacionados con el giro de su negocio y comparar las ofertas de sus competidores para ofrecer su mejor cotización.
+
+Una vez que termina el plazo establecido para la subasta electrónica, en automático el sistema indicará cual es la opción más económica.
+
+Cuando se genere la orden de compra, el proveedor seleccionado recibirá automáticamente un correo electrónico con la información correspondiente y se continuara con lo dispuesto en el artículo 40 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 54.
 
-A los servidores públicos que no acaten las disposiciones de este Reglamento, se les aplicarán las sanciones administrativas que la autoridad determine sin perjuicio de la responsabilidad civil, penal u oficial al que le resulte, conforme a las Leyes de la materia.
+En el procedimiento de subasta electrónica podrá participar cualquier persona física o moral que se encuentre debidamente inscrita en el Registro de Proveedores.
+
+En el supuesto de que el interesado no se encuentre registrado como proveedor del Municipio, podrá hacerla cumpliendo con los requisitos establecidos en el artículo 11 del presente Reglamento, con lo cual se le asignará automáticamente su cuenta y contraseña.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 55.
 
-Los servidores públicos que se encuentren en los supuestos del Artículo 18 fracciones II y III de este Reglamento, deberán excusarse por escrito ante su jefe inmediato de intervenir en cualquier forma en la atención, tramitación o resolución de los asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún interés para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles hasta el segundo grado, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+Los proveedores que no cumplan con la oferta subastada en los términos de calidad, precio servicio, oportunidad, garantía y financiamiento, se harán acreedores a la suspensión en el padrón de proveedores en los términos del artículo 14 del presente Reglamento y en caso de reincidencia a la cancelación definitiva de su registro.
 
-El superior o el jefe inmediato proveerá lo conducente a fin de establecer quien deba presidir el acto correspondiente
+En este supuesto se tomara la siguiente oferta más económica y así sucesivamente en caso de ser necesario, siempre y cuando la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora no sea, mayor al 10-diez por ciento y no rebase el presupuesto autorizado.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 56.
 
-Los proveedores quedarán obligados ante la Secretaría a responder de los defectos o vicios ocultos de los bienes y de la calidad de los servicios y de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo, conforme a lo dispuesto por el Código Civil para el Estado de Nuevo León, o en su caso la legislación aplicable.
+Los tiempos de duración de cada subasta electrónica serán fijados por la Secretaria y dependerán de las necesidades de la dependencia solicitante respecto del producto requerido.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 57.
 
-Contra resoluciones que la Secretaría dicte con fundamento en este Reglamento y las disposiciones que de ella se deriven, procede el recurso de reconsideración.
+Durante el desarrollo de la subasta electrónica se podrán formular preguntas a fin de realizar las aclaraciones que se consideren necesarias, las cuales serán publicadas junto con las respuestas respectivas en el portal.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 58.
 
-El recurso se interpondrá por escrito ante la Secretaría, dentro del término de cinco días hábiles a partir de la fecha de notificación del acto que la genera o de la fecha en que se tuvo conocimiento del mismo.
+Si el producto no reúne las características ofrecidas por el proveedor, se cancelará la adjudicación respectiva y se tendrá a lo dispuesto por el artículo 55 del presente Reglamento. Independientemente a las sanciones a que se haga acreedor el proveedor en términos del Capitulo Décimo Tercero de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
 
 ###### Artículo 59.
 
-Si el recurso se interpone en tiempo y forma por quien se considere con derecho a hacerlo, acreditando su personalidad, se dictará Acuerdo de Radicación, comunicándolo al recurrente.
+La Secretaria documentará e integrará un expediente por cada una de las adquisiciones que se realicen bajo el procedimiento de subasta electrónica.
 
-Se fijará un término no menor de cinco ni mayor de quince días hábiles, para que el recurrente ofrezca y se desahoguen las pruebas conducentes y para que formule alegatos. Transcurrido el término señalado, se dictará la resolución que corresponda.
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 60.
+
+La Secretaria tendrá la facultad de suspender o cancelar en cualquier momento antes de que concluya el plazo fijado para la adquisición que se realice. El procedimiento de subasta electrónica, fundando. Motivando y comunicando su decisión a los participantes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO SEGUNDO], P.O. 7 DE JULIO DE 2006)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. SANCIONES Y RECURSOS
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 53], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 61.
+
+Los proveedores que infrinjan las disposiciones contenidas en este Reglamento o las normas que con base en ellas se dicten, podrán ser sancionados con multas de hasta el doble del monto del daño ocasionado al Municipio. Las sanciones administrativas se Impondrán sin perjuicios de las penas que correspondan en caso de delito y de los daños y perjuicios que pudieran resultar.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 54], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 62.
+
+A los servidores públicos que no acaten las disposiciones de este Reglamento. Se les aplicarán las sanciones administrativas que la autoridad determine sin perjuicio de la responsabilidad civil, penal ti oficial al que le resulte, conforme a las Leyes de la materia.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 55], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 63.
+
+los servidores públicos que se encuentren en los supuestos del artículo 18 fracciones II y III de este Reglamento. Deberán excusarse por escrito ante su jefe inmediato de intervenir en cualquier forma en la atención, tramitación o resolución de los asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún interés para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles hasta el segundo grado o para terceros con los que tenga relaciones profesionales, laborales o de negocios o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte. El superior o el jefe inmediato proveerán lo conducente a fin de establecer quien deba presidir el acto correspondiente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 56], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 64.
+
+Los proveedores quedarán obligados ante la Secretaria a responder de los defectos o vicios ocultos de los bienes y de la calidad de los servicios y de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo, conforme a lo dispuesto por el Código Civil para el Estado de Nuevo León, o en su caso la legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 57], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 65.
+
+Contra resoluciones que la Secretaria dicte con fundamento en este Reglamento y las disposiciones que de ella se deriven, procede el recurso de reconsideración.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 66.
+
+El recurso se interpondrá por escrito ante la Secretaría, dentro del término de 5-cinco días hábiles a partir de la fecha de notificación del acto que la genera o de la fecha en que se tuvo conocimiento del mismo.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 59], P.O. 7 DE JULIO DE 2006)</small>
+
+###### Artículo 67.
+
+Si el recurso se interpone en tiempo y forma por quien se considere con derecho a hacerla acreditando su personalidad, se dictará Acuerdo de Radicación, comunicándolo al recurrente. Se fijará un término no menor de 5-cinco ni mayor de 15-quince días hábiles, para que el recurrente ofrezca y se desahoguen las pruebas conducentes y para que formule alegatos. Transcurrido el término señalado, se dictará la resolución que corresponda.
 
 T R A N S I T O R I O S
 
@@ -576,3 +690,9 @@ SECRETARIO DEL R. AYUNTAMIENTO
 C.P. ROBERTO TREVIÑO DE LA GARZA
 
 SECRETARIO DE SERVICIOS ADMINISTRATIVOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE JULIO DE 2006.
+
+Artículo Único.- Las reformas por adición, derogación y modificación al Reglamento de Reglamento de Adquisiciones Arrendamientos y Contratación de Servicios para el Gobierno Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
