@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2006-05-16"
+last_updated: "2006-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2006.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -501,37 +501,43 @@ e) Plano de construcción si el terreno estuviere edificado.
 
 f) Constancia de no adeudo por los servicio de Agua Potable y Alcantarillado o en su caso de la no existencia de contrato con el organismo operador correspondiente.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE JULIO DE 2006)</small>
+
 Los documentos de referencia incluirán hasta el mes en que los notarios o funcionarios que hagan sus veces, autoricen la escritura, o al mes que se produzca el contrato privado.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE JULIO DE 2006)</small>
+
 Cuando se trate de predios ubicados en poblaciones donde no existen oficinas de catastro, el contribuyente deberá presentar ante la oficina municipal correspondiente, un croquis donde se establezca superficie, medidas y colindancias actualizadas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JULIO DE 2006)</small>
 
 En el caso de contrato de venta a plazos, con reserva de dominio o bajo el régimen de propiedad en condominio, se deberá manifestar.
 
 I.- Para el caso de fraccionadores, mensualmente:
 
-a) Nombre del comprador.
+a) Nombre del comprador;
 
-b) Domicilo. (sic)
+b) Domicilio;
 
-c) Número de contrato.
+c) Número de contrato;
 
-d) Manzana y lote.
+d) Manzana y lote;
 
-e) Monto de la operación.
+e) Monto de la operación;
 
-f) Fecha y número de recibo de abono.
+f) Fecha y número de recibo de abono, y
 
 g) Saldo por amortizar.
 
-II.- Para el caso de venta bajo el régimen de propiedad en condominio, en la primera operación.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE JULIO DE 2006)</small>
 
-a) Copia certificada de la escritura constitutiva.
+II.- Para el caso de venta bajo el régimen de propiedad en condominio, en la primera operación:
 
-b) Tabla de valores de cada unidad o departamento.
+a) Copia certificada de la escritura constitutiva;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+b) Tabla de valores de cada unidad o departamento;
 
-c) Avalúo con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y Administración, porcentaje de indivisos que correspondan a cada departamento o unidad de las áreas comunes.
+c) Avalúo con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y Administración, porcentaje de indivisos que correspondan a cada departamento o unidad de las áreas comunes, y
 
 d) Descripción del inmueble.
 
@@ -1640,3 +1646,11 @@ P.O. 16 DE MAYO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JULIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- En su oportunidad remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
