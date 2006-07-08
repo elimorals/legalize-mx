@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "1995-03-17"
+last_updated: "2006-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -43,25 +43,49 @@ LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de interés público y observancia general, y tiene por objeto establecer los medios que protejan a los animales, aprovechados a través de cualquier uso que se les dé por el hombre en el Estado de San Luis Potosí.
+La presente ley es de interés público y observancia general, y tiene por objeto:
+
+I. Proteger la vida y el crecimiento de los animales;
+
+II. Favorecer el respeto y buen trato a los animales;
+
+III. Erradicar y sancionar los actos de crueldad con los animales, y
+
+IV. Promover actitudes responsables y humanitarias hacia los animales.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 2o.
 
-El propósito fundamental de este ordenamiento es establecer un marco jurídico que proporcione trato compasivo a los animales que se encuentren en posesión del hombre.
+Las autoridades competentes, los particulares en lo personal, las sociedades protectoras de animales y demás asociaciones legalmente constituidas, cooperarán para alcanzar los fines que persigue esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 3o.
 
-Para efectos de esta ley, se entenderá como trato compasivo, toda medida para evitar dolor innecesario a los animales durante su captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, confinamiento y sacrificio.
+Para efectos de la presente Ley se entenderá por:
+
+I. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para cualquier uso y aprovechamiento por el hombre;
+
+II. Trato compasivo: toda medida para evitar dolor innecesario a los animales desde su gestación, nacimiento, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, confinamiento y sacrificio, y
+
+III. Protección a los animales: no solamente su buen trato, sino todas aquellas acciones encaminadas a brindarles un aceptable estado de salud físico y psicológico.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 4o.
 
-Al mencionarse en esta ley el concepto animal, se debe entender a todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para cualquier uso y aprovechamiento por el hombre.
+Los ayuntamientos facilitarán y fomentarán la creación de albergues, que sirvan de refugio y lugar para la adopción de animales que se encuentren en desamparo.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-Se entenderá por protección a los animales no solamente su buen trato, sino todas aquellas acciones encaminadas a brindarles un aceptable estado de salud.
+Las asociaciones legalmente constituidas que establezcan albergues para refugio y adopción, podrán solicitar el apoyo de los ayuntamientos para la realización de actividades lícitas necesarias, para obtener recursos que sean utilizados en el sostenimiento de estas instituciones.
 
 ###### ARTICULO 6o.
 
@@ -78,6 +102,10 @@ Las personas autorizadas para cazar animales, deberán conocer los calendarios d
 ###### ARTICULO 9o.
 
 Los animales que se vuelvan nocivos en las zonas rurales o urbanas, podrán ser controlados por las autoridades señaladas en esta Ley, respetando la normatividad federal para la fauna silvestre.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
+
+Toda persona que transite con su mascota por la vía pública, está obligada a llevarla sujeta con pechera, correa, bozal o cadena que no sea de picos, para la protección del mismo animal. Tratándose de perros considerados como agresivos o entrenados para el ataque, deberán ser acompañados por sus dueños, custodios o entrenadores.
 
 ###### ARTICULO 10.
 
@@ -99,9 +127,11 @@ Animales de Trabajo.
 
 Se consideran animales en cautiverio, todas aquellas especies, ya sean domésticas o silvestres confinadas en un espacio delimitado.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 12.
 
-El cautiverio deberá ser en áreas adecuadas en donde vivan cómodamente protegidas de las inclemencias de la naturaleza y de estar en zoológicos deberán los responsables solicitar autorización y cumplir los requisitos que la ley sanitaria y ambiental determine.
+El cautiverio deberá ser en áreas adecuadas en donde vivan cómodamente en un ambiente con temperaturas parecidas al hábitat natural de cada especie; y de estar en zoológicos, deberán los responsables solicitar autorización y cumplir los requisitos que la ley sanitaria y ambiental determine.
 
 ###### ARTICULO 13.
 
@@ -155,9 +185,17 @@ III.- Después de una jornada de trabajo, no deberán prestarse o alquilarse par
 
 IV.- Cuando cargados caigan al suelo, deberán ser descargados de inmediato para evitar que se lastimen y de ninguna manera golpearlos para que se levanten;
 
-V.- El espoleado y fustigamiento excesivo durante el trabajo de los animales, será sancionado; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
-VI.- El arreo de animales deberá hacerse, evitando siempre el exceso de latigazos y otros medios de crueldad.
+V.- El espoleado y fustigamiento excesivo durante el trabajo de los animales, será sancionado;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
+
+VI.- El arreo de animales deberá hacerse evitando siempre el exceso de latigazos y otros medios de crueldad, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+VII.- Tratándose de animales de carga y de espectáculo que transiten en el área urbana, deberán estar provistos de contenedores y así evitar la dispersión de sus evacuaciones.
 
 ###### ARTICULO 23.
 
@@ -175,9 +213,13 @@ I.- Los animales de circos nacionales o extranjeros, que se establezcan en el Es
 
 II.- Antes o después del desempeño de un acto, en que participen animales, no deberán ser hostigados.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 25.
 
-Las autoridades previstas en el artículo 67 de esta Ley no deberán autorizar espectáculos como peleas de animales o aquellos en que se maltrate a los mismos, a excepción de los eventos autorizados por disposición de la Secretaría de Gobernación de la Administración Pública Federal.
+Las autoridades previstas en el artículo 67 de esta Ley vigilaran que los circos que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos; y durante su traslado no sean inmovilizados en un aposición que les ocasione lesiones o sufrimiento. Además, vigilarán que los animales tengan condiciones adecuadas de higiene y medidas de seguridad, tanto para la protección de ellos, como del público espectador.
+
+Asimismo, no se deberán autorizar espectáculos como peleas de animales o aquellos en que se maltrate a los mismos; a excepción de los eventos autorizados por disposición de la Secretaría de Gobernación de la administración pública federal.
 
 ###### ARTICULO 26.
 
@@ -247,6 +289,10 @@ La comercialización de animales silvestres no está permitida, a no ser con la 
 
 Los lugares para la comercialización de animales domésticos o silvestres, quedarán restringidos a los permitidos por las autoridades correspondientes.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
+
+Al comercializarse se evitará que los animales queden expuestos a la luz solar directa por mucho tiempo, sin la posibilidad de buscar sombra o no protegerlos de las condiciones climatológicas.
+
 ## Título Cuarto.
 
 Del Transporte y Sacrificio de Animales.
@@ -259,9 +305,19 @@ Investigación Científica con Animales.
 
 El transporte de animales en vehículos destinados para espectáculo, deberá ser de la siguiente manera:
 
-I.- De ser en jaulas, éstas serán adecuadas para la especie, seguras e higiénicas; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
-II.- Los animales no deberán ser inmovilizados, en posturas que les puedan ocasionar lesiones o sufrimientos.
+I.- De ser en huacales, cajas o jaulas, deberán ser adecuadas para la especie, seguras, amplias e higiénicas; y su construcción será lo suficientemente sólida para resistir, sin deformarse, el peso de otras cajas que se le coloquen encima;
+
+II.- Los animales no deberán ser inmovilizados, en posturas que les puedan ocasionar lesiones o sufrimientos;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+III.- Por ningún motivo los receptáculos conteniendo animales serán arrojados de cualquier altura; y las operaciones de carga, descarga o traslado deberán hacerse evitando todo movimiento brusco, conforme a las normas oficiales mexicanas, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+IV.- Quedan estrictamente prohibidas las prácticas dolorosas o mutilantes, con el objeto de hacinarlos en un espacio reducido para su traslado.
 
 ###### ARTICULO 40.
 
@@ -277,9 +333,11 @@ Para movilizar a los animales, no debe hacerse por medio de golpes o utilizando 
 
 El embarque de animales, deberá hacerse por medio de rampas antiderrapantes y andenes apropiados.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 43.
 
-El transporte de aves, deberá hacerse en costales, jaulas, cajas o huacales proporcionales al tamaño de la especie, debiendo estar ventilados, procurando la comodidad de los mismos.
+El transporte de aves deberá hacerse en jaulas, cajas o huacales proporcionales al tamaño de la especie, debiendo estar ventilados, procurando la comodidad de los mismos; y deberán estar protegidas del sol y la lluvia durante su traslado.
 
 ###### ARTICULO 44.
 
@@ -292,6 +350,10 @@ Inventario de Especies Silvestres.
 ###### ARTICULO 45.
 
 El sacrificio de los animales silvestres en cautiverio, que por alguna razón se requiera, como en el caso de animales enfermos o imposibilitados físicamente y que se ponga en juego su supervivencia, deberán ser sacrificados con el uso de substancias químicas, indoloras o medios mecánicos que produzcan el mínimo de dolor a estos animales.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
+
+Asimismo, se evitará que los animales presencien el sacrificio de animales de su misma especie o similares.
 
 ###### ARTICULO 46.
 
@@ -342,6 +404,20 @@ I.- Electroanestesia;
 II.- El uso de rifles o pistolas de émbolo oculto o cautivo; o
 
 III.- Cualquier otro procedimiento debidamente probado y autorizado que insensibilice al animal.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
+
+ARTICULO 56 BIS.- El ayuntamiento podrá disponer de un predio debidamente adaptado para los siguientes casos:
+
+I. Para cavar fosas comunes destinadas a los animales que se encuentren en la vía pública;
+
+II. Para enterrar a los animales que tengan que ser sacrificados en los casos establecidos por la presente Ley, y
+
+III. Para el establecimiento de un horno crematorio en donde los particulares puedan incinerar sus animales, previo el pago de derechos establecidos en la ley de ingresos municipal vigente.
+
+Los particulares podrán solicitar que sean enterrados sus animales en fosas privadas, o mediante el sistema de gavetas adquiridas a perpetuidad, previo el pago de derechos respectivos.
+
+La prestación de los servicios a que se refiere este artículo, podrá ser concesionado a particulares que cumplan con los requisitos que el ayuntamiento establezca a través del reglamento respectivo.
 
 ###### ARTICULO 57.
 
@@ -427,6 +503,10 @@ II.- Las Uniones Ganaderas Regionales de la Entidad; y
 
 III.- Las asociaciones ganaderas locales.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
+
+Los centros antirrábicos y demás dependencias relacionadas, podrán solicitar el asesoramiento y colaboración de uno o más representantes de las sociedades protectoras de animales.
+
 ###### ARTICULO 69.
 
 La Secretaría de Fomento Agropecuario y Recursos Hidráulicos, además de las facultades previstas en el artículo 29 de la Ley Orgánica de la Administración Pública del Estado, por lo que corresponde a la fauna, tendrá las siguientes atribuciones:
@@ -467,9 +547,21 @@ VIII.- Tomar las medidas necesarias para evitar la proliferación de los animale
 
 IX.- Difundir los acuerdos que tome el Cabildo respecto a las medidas que se adopten para la correcta aplicación de esta Ley;
 
-X.- Resolver por medio del síndico municipal los recursos de reconsideración que presenten los infractores, con motivo de las sanciones impuestas por los secretarios de los ayuntamientos; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
-XI.- Cooperar con la Secretaría de Fomento Agropecuario y Recursos Hidráulicos del Estado en el establecimiento de reservas de la fauna propia del municipio.
+X.- Resolver por medio del síndico municipal los recursos de reconsideración que presenten los infractores, con motivo de las sanciones impuestas por los secretarios de los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
+
+XI.- Cooperar con la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos del Estado en el establecimiento de reservas de la fauna propia del municipio;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+XII.- Difundir por todos los medios posibles, en coordinación con otras dependencias, las disposiciones tendientes a la protección de los animales, así como, fomentar la cultura de la adopción, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+XIII.- Llevar el registro de los médicos responsables de las farmacias y clínicas u hospitales veterinarios; de los lugares destinados a la crianza y venta de animales; de los lugares en que únicamente se comercialicen; de los albergues; de las estéticas; de los que se dediquen a entrenarlos; y de las sociedades protectoras de animales.
 
 ###### ARTICULO 71.
 
@@ -477,9 +569,19 @@ Los organismos a que se refiere el artículo 68 tendrán las atribuciones siguie
 
 I.- Vigilar el cumplimiento de las disposiciones de esta Ley en todo el Estado;
 
-II.- Denunciar por escrito ante la autoridad competente las infracciones que se cometan con motivo del incumplimiento de esta Ley; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
-III.- Participar en la divulgación de los programas preventivos de protección a los animales.
+II.- Denunciar por escrito ante la autoridad competente las infracciones que se cometan con motivo del incumplimiento de esta Ley;
+
+III.- Participar en la divulgación de los programas preventivos de protección a los animales;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+IV.- Recoger a los animales que se encuentren en desamparo en la vía pública, y darlos en adopción o bien entregarlos en los albergues o al centro antirrábico, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+V.- Rescatar con el apoyo de las autoridades competentes, a los animales que están sufriendo por el maltrato de sus dueños.
 
 ## Título Octavo.
 
@@ -505,9 +607,11 @@ No se permitirá la mutilación injustificada de animales.
 
 Se deberá evitar la inmovilización y el maltrato a los animales.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 76.
 
-No se podrán vender animales para mascota a menores de edad que no estén acompañados por un adulto que se comprometa por la adecuada subsistencia y buen trato del animal.
+No se podrán vender animales para mascota a menores de doce años de edad que no estén acompañados por un adulto, y que éste último, se comprometa por la adecuada subsistencia y buen trato del animal.
 
 ###### ARTICULO 77.
 
@@ -622,3 +726,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JAIME SUAREZ ALTAMIRANO.
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JULIO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan a este Decreto.
