@@ -4,7 +4,7 @@ identifier: "PUE-lineamientos-generales-para-la-administracion-documental-y-4968
 country: "mx"
 rank: "lineamientos"
 publication_date: "2006-02-17"
-last_updated: "2006-02-17"
+last_updated: "2006-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LINEAMIENTOS GENERALES PARA LA ADMINISTRACION DOCUMENTAL Y TRANSFERENCIA DE ARCHIVOS ADMINISTRATIVOS AL ARCHIVO GENERAL MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2006.
 
 Lineamientos publicados en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de febrero de 2006.
 
@@ -83,7 +83,9 @@ SEGUNDO.- Los sujetos obligados al Interior del Municipio serán:
 
 a) Presidente Municipal. Síndico Municipal y Regidores.
 
-b) Secretarios, Directores y puestos análogos del Gobierno Municipal.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+b) Secretarios, Directores, Jefes de Departamento y puestos análogos del Gobierno Municipal.
 
 c) Presidentes de las Juntas Auxiliares.
 
@@ -93,23 +95,137 @@ I.- Administración Documental: A los actos que intervengan en el manejo adminis
 
 II.- Administración Pública: Al conjunto de operaciones encaminadas a cumplir o hacer cumplir la política, la voluntad de un gobierno, como es expresada por las autoridades competentes. Es pública porque comprende las actividades de una sociedad sujeta a la dirección política, las cuales son ejecutadas por las instituciones gubernamentales. Es administración porque implica la coordinación de esfuerzos y recursos, mediante los procesos administrativos básicos, de planeación, organización dirección y control.
 
-III.- Archivo de Concentración: A la unidad que se integra con documentos transferidos por los archivos administrativos, es decir documentos que ya no están activos en las diversas unidades orgánicas, pero que por el contenido de su información se consultan ocasionalmente y es necesario conservarlos un tiempo definido hasta que se decida si son eliminados o tienen importancia suficiente para ser documentos históricos.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-IV.- Catálogo de Disposición Documental: Al instrumento metodológico que establece el destino final de los documentos, así como los plazos y modalidades para su conservación.
+III.- Acervo.- A la totalidad de documentos que custodia un archivo. Conjunto de documentos de un archivo.
 
-V.- Documento de Archivo: A la información contenida en cualquier soporte y tipo documental, producida, recibida y conservada por cualquier organización (pública o privada) o persona en el ejercicio de sus competencias o en el desarrollo de su actividad.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-VI.- Documentos de Interés Público: A toda representación material o constancia que genere un servidor público o empleado de las unidades orgánicas, con motivo del ejercicio de sus funciones cargos o empleos, sin importar el soporte en el que se encuentren y que sirva de testimonio e información para el Gobierno Municipal, la ciudadanía o como fuente histórica.
+IV.- Archivo.- Al conjunto de documentos, sea cual sea su fecha, su forma y soporte material, acumulados en un proceso natural por una persona o institución pública o privada en el transcurso de su gestión, conservados respetando aquel orden, para servir como testimonio e información para la persona o institución que los produce, para los ciudadanos o para servir de fuentes de historia.
 
-VII.- Funciones Comunes: A las actividades rutinarias que se desarrollan en todas y cada una de las unidades orgánicas generadoras que conforman el Honorable Ayuntamiento y reflejan las actividades de la Dependencia u Organismo Descentralizado.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-VIII.- Funciones Sustantivas: Actividades que hacen la diferencia de una dependencia o unidad orgánica con otra.
+V.- Archivo Administrativo o de Trámite.- A la unidad encargada de la recepción, clasificación, distribución y control de todos los documentos que entran y salgan de dicha Dependencia Administrativa.
 
-IX.- Unidad documental: Los archivos de trámite, de concentración e históricos del Honorable Ayuntamiento.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-XI.- Unidad Orgánica: Jefatura, Dirección, Secretaría y Organismo Descentralizado que conforman la Administración Municipal del Honorable Ayuntamiento de Puebla y Junta Auxiliar que generen documentación oficial.
+VI.- Archivo de Concentración.- A la unidad encargada de la recepción y conservación de los documentos cuyo trámite administrativo ya concluyó y fueron transferidos por las unidades administrativas u Organismos Descentralizados al Archivo General Municipal, la consulta de dichos documentos es esporádica en tanto se determine su destino final.
 
-CUARTO.- Los Sujetos Obligados, empleados del Honorable Ayuntamiento y Organismos Descentralizados que tengan en posesión un documento de interés público, serán responsables de su adecuada, eficiente y oportuna administración, así como de su cuidado y conservación conforme a lo previsto por los presentes Lineamientos y Reglamentos correspondientes.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+VII.- Archivo Histórico.- A la unidad encargada de la conservación permanente y tratamiento especializado de los documentos que han perdido sus valores primarios (administrativo, contable y fiscal) para la unidad generadora, pero conservan sus valores secundarios (evidencial, testimonial e informativo). Su uso ya no es institucional, sino social.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+VIII.- Catalogo de Disposición Documental.- Al instrumento metodológico o registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+IX.- Ciclo Vital del Documento.- A las etapas o fases por las que atraviesa el documento a lo largo de su existencia las cuales se determinan por sus valores y usos que tienen durante la misma. A cada etapa le corresponde un tratamiento especializado y se conserva en un archivo específico.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+X.- CIasificación.- A la acción de agrupar jerárquicamente los documentos de un fondo mediante agregados o clases, desde los más amplios o los más específicos, de acuerdo con los principio (sic) de procedencia y orden original.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+XI.- Comité Técnico de Archivos Administrativos y Semiactivos.- A la instancia encargada de vigilar el cumplimiento de los Lineamientos para la Administración de Documentos y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XII.- Cuadro General de Clasificación Archivística.- Al Instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada dependencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XIII.- Custodia.- A la responsabilidad sobre el cuidado de los documentos que se base en su posesión física y que no sIempre Implica la propiedad jurídica ni el derecho a controlar el acceso de los documentos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XIV.- Descripción Archivística.- A la elaboración de una representación exacta de la unidad de descripción y, en su caso, de las partes que la componen mediante la recopilación, análisis, organización y registro de la información que sirve para identificar, gestionar, localizar y explicar los documentos de archivo, así como su contexto y el sistema que los ha producido.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XV.- Documento de Archivo.- A la Información que ha quedado registrada de alguna forma con independencia de su soporte y tipo documental, producida, recibida y conservada por cualquier organización o persona en ejercicio de sus competencias o en el desarrollo de su actividad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XVI.- Documentos de Interés Público.- A toda representación material o constancia que genere un servidor público o empleado de las unidades orgánicas, con motivo del ejercicio de sus funciones cargos o empleos, sin importar el soporte en el que se encuentren y que sirva de testimonio e información para el Gobierno Municipal, la ciudadanía o como fuente histórica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XVII.- Documentación Activa.- Aquélla necesaria para el ejercicio de las funciones y atribuciones de las unidades orgánicas y de uso frecuente, que se conserva en el archivo administrativo o de trámite.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XVIII.- Documentación semiactiva.- Aquélla de uso esporádico que debe conservase por razones administrativas, legales, fiscales, o contables en el archivo de concentración.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XIX.- Documentación histórica.- Aquélla que contiene evidencia y testimonio de las acciones de la dependencia, por lo que debe conservarse permanentemente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XX.- Expediente.- A la unidad organizada de documentos reunidos por el productor para su uso corriente, durante el proceso de organización archivística, porque se refiere al mismo terna, actividad o asunto. El expediente es generalmente la unidad básica de la serie.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXI.- Ficha de Control.- Al registro de información para el seguimiento del trámite administrativo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXII.- Funciones Comunes.- A las actividades rutinarias que se desarrollan en todas y cada una de las unidades orgánicas que conforman el Honorable Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXIII.- Funciones Sustantivas.- Actividades que hacen la diferencia de una dependencia o unidad orgánica con otra.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXIV.- Inventarios documentales.- A los instrumentos de consulta que describen las series y expedientes de un archivo y que permiten su localización (inventario general), de transferencia (inventario de transferencia) o bajo documental (inventario de baja documental).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXV.- Ordenación.- A la acción de unir en secuencia los documentos, expedientes y las series mediante la aplicación de criterios alfabéticos o cronológicos. En esta operación se distinguen dos tipos de actividades: una intelectual y la otra física.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXVI.- Organización.- Al proceso que evidencia y reconstruye en lo posible la estructura orgánica de un archivo, mediante la asignación del lugar definitivo del conjunto a cada uno de los grupos y/o piezas que lo componen, de manera que representa la naturaleza de los organismos que generaron el acervo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXVII.- Serie o Serie Documental.- A los documentos organizados de acuerdo con un sistema de archivo o conservados formando una unidad como resultado de una misma acumulación, del mismo proceso archivístico o de la misma actividad que tienen una forma particular, o como consecuencia de cualquier relación derivada de su producción, recepción o utilización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXVIII.- Plazo de Conservación.- Al período de guarda de la documentación en los archivos de trámite de concentración e histórico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXIX.- Servidor Público.- A las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Municipal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXX.- Tipo documental.- A la clase de documentos que se distinguen por la semejanza de sus características físicas y/o intelectuales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXXI.- Transferencia.- Al traslado controlado y sistemático de expedientes de consulta esporádica de un archivo de trámite al archivo de concentración (transferencia primaria) y de expedientes que deben conservarse de manera permanente, del archivo de concentración al archivo histórico (transferencia secundaria).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXXII.- Unidad documental.- A la unidad administrativa responsable de los archivos de trámite, de concentración e históricos de las Dependencias y Organismos Descentralizados del Honorable Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXXIII.- Unidad de descripción.- Documento o conjunto de documentos, cualquiera que sea su forma física, tratado como un todo y que como tal constituye la base de una única descripción.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2006)</small>
+
+XXXIV.- Unidad Orgánica.- Las Áreas o Unidades que constituyen las diversas Dependencias que integran la Estructura Orgánica del Honorable Ayuntamiento y que generan documentación oficial.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+CUARTO. Los Sujetos Obligados, empleados del Honorable Ayuntamiento, de los Organismos Descentralizados y de las Juntas Auxiliares que tengan en posesión un documento de interés público, serán responsables de su adecuada, eficiente y oportuna administración, así como de su cuidado y conservación conforme a lo previsto por los presentes Lineamientos y Reglamentos correspondientes.
 
 QUINTO.- El servidor público encargado de recibir documentos, los registrará en el acto de su recepción, indicando el destino correspondiente para su seguimiento y trámite administrativo que deba darse a cada uno.
 
@@ -123,17 +239,25 @@ OCTAVO.- La documentación que sea transferida al Archivo General Municipal, deb
 
 NOVENO.- Todo documento que los Sujetos Obligados, empleados del Honorable Ayuntamiento, Organismos Descentralizados y Juntas Auxiliares, generen o reciban en el desempeño de su empleo, cargo o comisión, deberá registrarse en el archivo de trámite con que cuenten, para inventariarse e integrarse en las unidades documentales correspondientes, a efecto de garantizar el control, la propiedad y la utilidad pública del documento.
 
-DÉCIMO.- Los documentos de interés público generados por los Sujetos Obligados, del Honorable Ayuntamiento y Organismos Descentralizados, en el desempeño de su empleo, cargo o comisión, formarán parte del patrimonio documental del Honorable Ayuntamiento de Puebla, y bajo ningún concepto ni circunstancia se considerarán propiedad de quien los produjo o recibió.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
-DÉCIMO PRIMERO.- Será responsabilidad de las distintas unidades documentales, mantener debidamente organizados los documentos para su fácil localización y consulta haciendo uso de sistemas, métodos y técnicas estandarizadas para la sistematización de la información, así como el uso factible de las nuevas tecnologías aplicables.
+DÉCIMO.- Los documentos de interés público generados por los Sujetos Obligados, del Honorable Ayuntamiento, Organismos Descentralizados y Juntas Auxiliares en el desempeño de su empleo, cargo o comisión, formarán parte del patrimonio documental del Honorable Ayuntamiento de Puebla, y bajo ningún concepto ni circunstancia se considerarán propiedad de quien los produjo o recibió.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+DÉCIMO PRIMERO.- Será responsabilidad de las distintas unidades orgánicas, mantener debidamente organizados los documentos para su fácil localización y consulta haciendo uso de sistemas, métodos y técnicas estandarizadas para la sistematización de la información, así como el uso factible de las nuevas tecnologías aplicables.
 
 DÉCIMO SEGUNDO.- Las Dependencias y Organismos descentralizados tomarán las medidas necesarias para administrar y conservar los documentos electrónicos, generados o recibidos, cuyo contenido y estructura permitan identificarlos como documentos de archivo que aseguren la identidad e integridad de su información.
 
 DÉCIMO TERCERO.- Las unidades orgánicas realizarán programas de respaldo y migración de los documentos electrónicos, de acuerdo con sus recursos.
 
-DÉCIMO CUARTO.- Los documentos de interés público podrán ser consultados en su caso, por quien lo solicite, en las unidades documentales, en los términos que establezca la ley aplicable en la materia y su reglamento.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
-DÉCIMO QUINTO.- Los titulares de las unidades documentales y el personal adscrito a las mismas, serán responsables de la conservación, buen estado y custodia de los documentos que se encuentran bajo su resguardo, evitando aquellos actos que propicien su daño y/o destrucción.
+DÉCIMO CUARTO.- Los documentos de interés público podrán ser solicitados a través de las unidades de acceso a la información en los términos que establezca la Ley aplicable en la materia.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+DÉCIMO QUINTO.- Los Titulares de las unidades orgánicas y el personal adscrito a las mismas, serán responsables de la conservación, buen estado y custodia de los documentos que se encuentran bajo su resguardo, evitando aquellos actos que propicien su daño y/o destrucción.
 
 ### CAPÍTULO TERCERO. DEL CONTROL DE LA GESTIÓN DOCUMENTAL
 
@@ -157,15 +281,21 @@ IV.- Generador y receptor del documento (nombre y cargo); y
 
 V.- Estado que guarda el trámite administrativo.
 
-DÉCIMO OCTAVO.- Las unidades orgánicas deberán dar seguimiento al documento que reciban o generen por tanto se deberán cubrir los siguientes aspectos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
+
+DÉCIMO OCTAVO.- El Titular de las unidades orgánicas deberán dar seguimiento al documento que reciban o generen, por tanto se deberán cubrir los siguientes aspectos:
 
 I.- Recepción y despacho de correspondencia: La recepción de documentos constituye un acto administrativo que compromete a la dependencia como tal para la realización expedita de un trámite institucional;
 
 II.- Seguimiento y control de documentos en trámite: Constituye un aspecto medular para el correcto y oportuno desarrollo de la gestión administrativa, como para la adecuada integración y preservación de los recursos informativos de cada unidad orgánica;
 
-III.- Organización y control de expedientes: Organizar el archivo administrativo asegura la disponibilidad, la localización expedita, integridad y conservación de los documentos de archivo que posee cada dependencia.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-DÉCIMO NOVENO.- Cada unidad orgánica generadora, debe integrar expedientes de acuerdo a las siguientes características generales:
+III.- Organización y control de expedientes: Organizar el archivo administrativo o de trámite, asegura la disponibilidad, la localización expedita, integridad y conservación de los documentos de archivo que posee cada Dependencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
+
+DÉCIMO NOVENO.- Cada unidad orgánica, debe integrar expedientes de acuerdo a las siguientes características generales:
 
 I.- Con solicitud, seguimiento y respuesta;
 
@@ -203,13 +333,19 @@ El responsable del archivo de trámite será nombrado por el titular de cada uni
 
 I.- Integrar los expedientes de archivo;
 
-II.- Conservar la documentación que se encuentra activa y aquélla que ha sido clasificada como reservada o confidencial de acuerdo a la ley aplicable o su reglamento;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-III.- Coadyuvar con el Comité Técnico de Archivos Administrativos y Semiactivos o en su caso con el archivo de concentración, en la elaboración del "Cuadro de Clasificación Archivística" y "Catálogo de Disposición Documental";
+II.- Conservar la documentación que se encuentra activa y aquélla que ha sido clasificada como reservada o confidencial conforme al Catálogo de Disposición Documental; (Anexo 1)
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+III.- Coadyuvar con el Comité Técnico de Archivos Administrativos y Semiactivos o en su caso con el archivo de concentración, en la elaboración del "Cuadro General de Clasificación Archivística" y "Catálogo de Disposición Documental";
 
 IV.- Valorar y seleccionar los documentos y expedientes de las series documentales, cuyo trámite administrativo haya concluido, con el objeto de realizar la transferencia al Archivo General Municipal;
 
-V.- Clasificar y organizar los documentos para su transferencia primaria, de acuerdo como lo establezca el "Cuadro de Clasificación Archivística y Disposición Documental".
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+V.- Clasificar y organizar los documentos para su transferencia primaria, de acuerdo como lo establezca el "Cuadro General de Clasificación Archivística";
 
 VI.- Elaborar los inventarios de transferencia al Archivo General Municipal; y
 
@@ -217,17 +353,23 @@ VII.- Realizar la transferencia primaria de acuerdo como lo establecen los prese
 
 VIGÉSIMO SEGUNDO.- En el archivo de trámite se deberá mantener el seguimiento y control de los documentos sujetos a trámite hasta su integración al Archivo General Municipal, garantizando que todas las piezas tramitadas sean conservadas de manera institucional.
 
-VIGÉSIMO TERCERO.- En el archivo de trámite se deberán conservar sistemáticamente organizados los documentos gestionados por la dependencia, organismo descentralizado y junta auxiliar, integrando lógicamente los antecedentes institucionales y garantizando su fácil localización y consulta.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+VIGÉSIMO TERCERO.- En el archivo de trámite se deberán conservar sistemáticamente organizados los documentos gestionados por la unidad orgánica integrando secuencial y lógicamente los antecedentes institucionales y garantizando su fácil localización y consulta.
 
 ### CAPÍTULO QUINTO. DEL ARCHIVO DE CONCENTRACIÓN
 
 VIGÉSIMO CUARTO.- El Archivo de Concentración adscrito al Archivo General Municipal, será el área coordinadora de los archivos de trámite a través del Comité Técnico de Archivos Administrativos y Semiactivos, de acuerdo a lo establecido en los artículos 1703 y 1703 bis del Capítulo 25 del Código Reglamentario para el Municipio de Puebla.
 
-VIGÉSIMO QUINTO.- El Archivo de Concentración estará conformado con los documentos que hayan concluido su trámite administrativo en las Dependencias y Organismo (sic) Descentralizados y sean transferidos para su custodia precautoria.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
-VIGÉSIMO SEXTO.- El Archivo de Concentración se encargará de:
+VIGÉSIMO QUINTO. El Archivo de Concentración estará conformado con los documentos cuyo trámite administrativo ya concluyó y fueron transferidos por las unidades orgánicas al Archivo General Municipal, la consulta de dichos documentos es esporádica en tanto se determine su destino final.
 
-a) Recibir la documentación semiactiva que envíen las Dependencias y Organismos Descentralizados del Honorable Ayuntamiento, asignando a cada una de ellas el área específica en el archivo de concentración, para el resguardo precautorio de su documentación, de acuerdo como lo señalan los presentes Lineamientos;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
+
+VIGÉSIMO SEXTO. El archivo de concentración se encargará de:
+
+a) Recibir la documentación semiactiva que envíen las Dependencias y Organismos Descentralizados del Honorable Ayuntamiento, asignando a cada una de ellas el área u espacio físico específico en el archivo de concentración, para el resguardo precautorio de su documentación, de acuerdo como lo señalan los presentes Lineamientos.
 
 b) Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental conforme al catálogo de disposición documental;
 
@@ -247,7 +389,9 @@ i) Realizar en su caso, la transferencia secundaria al Archivo Histórico.
 
 ### CAPÍTULO SEXTO. DEL ARCHIVO HISTÓRICO
 
-VIGÉSIMO SÉPTIMO.- El Archivo Histórico estará adscrito al Archivo General Municipal y lo conforman los documentos que han perdido sus valores primarios (administrativo, fiscal o contable y legal), pero conservan sus valores secundarios (evidencial, testimonial e informativo). Su uso ya no es institucional, sino social, por lo tanto su conservación es permanente para recibir tratamiento especializado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
+
+VIGÉSIMO SÉPTIMO. El archivo histórico estará adscrito al Archivo General Municipal cuya función es la conservación permanente y tratamiento especializado de los documentos que han perdido sus valores primarios (administrativo, contable y fiscal), pero conservan sus valores secundarios (evidencial, testimonial e informativo). Su uso ya no es institucional, sino social.
 
 El Archivo Histórico se encargará de:
 
@@ -257,35 +401,51 @@ b) Validar la documentación que deba conservarse permanentemente por tener valo
 
 c) Recibir los documentos con valor histórico enviados por el Archivo de Concentración;
 
-d) Organizar, conservar, describir y difundir los documentos con valor histórico; y
+d) Organizar, conservar, describir y difundir los documentos con valor histórico; y (sic)
 
-e) Estimular el uso y aprovechamiento social de la documentación, difundiendo el acervo y sus instrumentos de consulta.
+e) Estimular el uso y aprovechamiento social de la documentación, difundiendo el acervo y sus instrumentos de consulta;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2006)</small>
+
+f).- Establecer un programa que permita respaldar los documentos históricos a través de sistemas ópticos y electrónicos.
 
 ### CAPÍTULO SÉPTIMO. DE LOS INSTRUMENTOS TÉCNICOS DE CONSULTA Y CONTROL ARCHIVÍSTICO
 
-VIGÉSIMO OCTAVO.- Los titulares de las Dependencias y Organismos Descentralizados deberán asegurarse que cada unidad documental elabore sus instrumentos de consulta y control que propicie la organización, conservación y localización expedita de sus archivos, por lo que deberán contar con los siguientes instrumentos de consulta:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
+
+VIGÉSIMO OCTAVO. Los Titulares de cada unidad orgánica deberán garantizar la elaboración de los instrumentos de consulta y control que propicie la organización, conservación y localización expedita de sus archivos, por lo que deberán contar con los siguientes instrumentos de consulta:
 
 I.- Cuadro General de Clasificación Archivística;
 
 II.- Catálogo de disposición documental;
 
-III.- Inventarios documentales:
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-a) General;
+III.- Inventarios de Transferencia;
 
-b) De transferencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-c) De baja;
+IV.- Inventario de Identificación de Series Documentales y Plazos de Conservación.
 
-IV.- La guía simple.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
-VIGÉSIMO NOVENO.- Una vez que cada Dependencia y Organismo Descentralizado haya identificado sus funciones comunes y sustantivas, deberá elaborar su Cuadro de Clasificación Archivística y Disposición Documental. La estructura del cuadro general de clasificación será jerárquica, atendiendo a los siguientes niveles:
+VIGÉSIMO NOVENO. Cada Dependencia, Organismo Descentralizado y Junta Auxiliar deberá elaborar su Cuadro General de Clasificación Archivística de la siguiente forma:
 
-I.- Primero: (Fondo) conjunto de documentos producidos orgánicamente por una institución o entidad;
+a) Orgánico: Éste se conformará de acuerdo a la estructura orgánica, bajo los siguientes conceptos:
 
-II.- Segundo: (Sección) corresponde a cada una de las divisiones del fondo, basada en las atribuciones de cada dependencia o entidad de conformidad con las disposiciones legales aplicables; y
+I.- Fondo: Identificación de la Dependencia en su conjunto, entiéndase Honorable Ayuntamiento o independiente, entiéndase Dependencia, Organismo Descentralizado o Junta Auxiliar.
 
-III.- Tercero: (serie) división de una sección, que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general y que versan sobre una materia o asunto específico. (ver anexo 1)
+II.- Sección: Corresponde a cada una de las divisiones del fondo; basada en las atribuciones de cada dependencia o entidad de conformidad con las disposiciones legales aplicables.
+
+III.- Serie: Que corresponde al conjunto de documentos producidos por la división de una sección de acuerdo con un sistema de archivo o conservados formando una unidad como resultado de una misma acumulación del mismo proceso archivístico o de la misma actividad que tiene una forma particular, o como consecuencia de cualquier relación derivada de su producción, recepción o utilización.
+
+b) Funcional.- Éste se conformará de acuerdo a las actividades específicas de cada Unidad Orgánica bajo los siguientes conceptos:
+
+I.- Fondo: Conjunto de documentos con independencia de su tipo documental o soporte producidos orgánicamente o acumulados, producto de las actividades o funciones de una institución.
+
+II.- Sección: Corresponde a las subdivisiones del fondo y es un conjunto de documentos relacionados entre sí que corresponden con la subdivisiones orgánicas de la Dependencia, Organismo Descentralizado o Junta Auxiliar.
+
+III.- Serie: División de una sección, que corresponde al conjunto de documentos de acuerdo con un sistema de archivo o conservados formando una unidad como resultado de una misma acumulación del mismos proceso archivístico o de la misma actividad que tiene una forma particular, o como consecuencia de cualquier relación derivada de su producción, recepción o utilización.
 
 ### CAPÍTULO OCTAVO. DE LA CLASIFICACIÓN DE LA INFORMACIÓN
 
@@ -303,9 +463,13 @@ TRIGÉSIMO TERCERO.- Tratándose de expedientes y documentos clasificados como r
 
 ### CAPÍTULO NOVENO. DE LA TRANSFERENCIA DE ARCHIVOS ADMINISTRATIVOS
 
-TRIGÉSIMO CUARTO.- Archivos Administrativos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
 
-a) Archivos de Administraciones Municipales anteriores: Los funcionarios de las Dependencias y Organismos descentralizados son responsables del cuidado y conservación de los archivos que recibieron y custodian, así como de su transferencia al Archivo General Municipal, de acuerdo como se establece en los presentes Lineamientos.
+TRIGÉSIMO CUARTO. Archivos Administrativos.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+a).- Archivos de Administraciones Municipales anteriores: Los Titulares de la unidades orgánicas son responsables del cuidado y conservación de los archivos que recibieron y custodian, así como de su transferencia al Archivo General Municipal, de acuerdo como se establece en los presentes Lineamientos.
 
 De la misma forma si existe documentación que no ha concluido su trámite administrativo, ésta deberá permanecer en la oficina correspondiente hasta que su trámite concluya, su consulta ya no sea frecuente y entonces se proceda a su transferencia al Archivo General Municipal, de acuerdo como lo establecen los presentes Lineamientos.
 
@@ -321,9 +485,13 @@ TRIGÉSIMO SÉPTIMO.- La transferencia de archivos electrónicos deberá realiza
 
 TRIGÉSIMO OCTAVO.- La transferencia de archivos administrativos e inactivos que realicen las dependencias y organismos descentralizados al Archivo General Municipal deberá ser en dos etapas, la primera a mitad del trienio y la otra al finalizar el mismo, de acuerdo al calendario establecido para tal efecto y que el Archivo General Municipal emita (transferencia ordinaria).
 
-TRIGÉSIMO NOVENO.- La transferencia de archivos administrativos e inactivos fuera del calendario establecido (transferencia extraordinaria) únicamente podrá realizarse por dos razones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
 
-Supresión administrativa, esto es por desaparición de una Dependencia u Organismo Descentralizado generador de documentos.
+TRIGÉSIMO NOVENO. La transferencia de archivos administrativos e inactivos fuera del calendario establecido (transferencia extraordinaria) únicamente podrá realizarse por dos razones:
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+Supresión administrativa, esto es por extinción de una Dependencia u Organismo Descentralizado generador de documentos.
 
 Desastres naturales, sismos, inundaciones, derrumbes, etc., que tomen urgente el traslado de documentación a otro espacio físico para su conservación.
 
@@ -331,17 +499,23 @@ Al igual que la transferencia ordinaria, la extraordinaria debe realizarse a tra
 
 ### CAPÍTULO DÉCIMO. DEL PROCEDIMIENTO PARA LA ORDENACIÓN DE ARCHIVOS ADMINISTRATIVOS
 
-CUADRAGÉSIMO.- Las instancias responsables de archivar los documentos activos en las Dependencias y Organismos Descentralizados serán exclusivamente, los encargados de las unidades orgánicas.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+CUADRAGÉSIMO. Las instancias responsables de archivar los documentos activos en las Dependencias, Organismos Descentralizados y Juntas Auxiliares serán exclusivamente, los Titulares de las unidades orgánicas.
 
 CUADRAGÉSIMO PRIMERO.- La documentación a transferir deberá ser valorada en el archivo de trámite, además se tomará en cuenta el estado de conservación de los documentos que deberán estar libres de humedad y microorganismos patógenos, tales como: hongos, pescadillo, polilla, etc.
 
-CUADRAGÉSIMO SEGUNDO.- Para la ordenación de la documentación a transferir deberán cuidarse los siguientes aspectos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
+
+CUADRAGÉSIMO SEGUNDO. Para la ordenación de la documentación a transferir deberá respetarse los siguientes criterios:
 
 Comprobar que los expedientes están debidamente organizados, organización que debe reflejar la estructura orgánica y funcional de la unidad orgánica y el orden que le corresponda a cada tipo de expediente.
 
 Ser expedientes conformados y concluidos.
 
-Comprobar que cada expediente esté completo y que no falte ningún documento.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+Garantizar que cada expediente esté completo y que no falte ningún documento.
 
 No dar de baja documentos oficiales que formen parte de un expediente.
 
@@ -383,11 +557,15 @@ CUADRAGÉSIMO SEXTO.- Los encargados de los archivos de trámite conjuntamente c
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL PROCEDIMIENTO PARA LA ELABORACIÓN DE LOS INVENTARIOS DE ARCHIVOS ADMINISTRATIVOS
 
-CUADRAGÉSIMO SÉPTIMO.- Una vez que la unidad orgánica generadora tiene conformados sus expedientes a transferir, se procede a la ordenación y tipificación de los mismos, requisito necesario para proceder a levantar el inventario, de acuerdo al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2006)</small>
 
-I. Describir el contenido de cada expediente bajo un concepto que permita identificar con claridad su contenido, se deberá anotar en la pestaña, de forma manuscrita, con tinta de color negro, como se muestra en el ejemplo.
+CUADRAGÉSIMO SÉPTIMO.- Una vez que la unidad orgánica tiene conformados sus expedientes a transferir, se procede a la ordenación y tipificación de los mismos, requisito necesario para proceder a levantar el inventario, de acuerdo al siguiente procedimiento:
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 12.</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+I.- Describir el contenido de cada expediente bajo un concepto que permita identificar con claridad su contenido, se deberá anotar en la en la (sic) pestaña del fólder, de forma manuscrita, con tinta de color negro, como se muestra en el ejemplo.
+
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE10 DE JULIO DE 2006, PAG. 10.</small>
 
 II. Foliar cada uno de los documentos que integran el expediente. La foliatura debe abarcar las fechas extremas (inicial y final), y debe iniciar con el folio 001 (fecha inicial), en caso de aplicar una sola fecha, se pondrá ésta o la que sirva de referencia, pueden anotarse manualmente con lápiz de color rojo o con foliadora, colocándolo en el ángulo superior derecho.
 
@@ -413,51 +591,75 @@ VII. Sólo si se conforman expedientes, se podrá identificar categorías de agr
 
 > <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 14.</small>
 
-VIII. La documentación será colocada en unidades de instalación (cajas) AM-70, en buen estado, el número de expedientes que se introduzcan en ella dependerá de su grosor, procurando que no quede ni excesivamente llena ni vacía, ya que en ambos casos se afectará negativamente a la conservación de los documentos. Nota: la tapa de la unidad de instalación debe abrir hacia la izquierda.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 14.</small>
+VIII.- La documentación será colocada en unidades de instalación (cajas) AM-70 tamaño oficio, en buen estado, el número de expedientes que se introduzca en ella dependerá de su grosor, procurando que no quede ni excesivamente llena ni vacía, ya que en ambos casos se afectará negativamente a la conservación de los documentos. Nota: la tapa de la unidad de instalación debe abrir hacia la izquierda.
 
-IX. En la pared exterior izquierda de las unidades de instalación (cajas) que contienen la documentación a transferir, se anotará el nombre de la unidad orgánica generadora, la Dependencia u Organismo Descentralizado al que pertenece, así como el número total de expedientes.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 15.</small>
+IX.- En la pared exterior izquierda de las unidades de instalación (cajas) que contienen la documentación a transferir, se anotará el nombre de la unidad orgánica, la Dependencia u Organismos (sic) Descentralizado al que pertenece, así como el número total de expedientes.
 
-X. Se asignará un número consecutivo a cada unidad de instalación por transferir, el cual se asentará en la misma, con marcador negro y letras legibles de tamaño visible, ejemplo (l/20, 2/20... 20/20,)
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 10.</small>
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 15.</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+X.- Se asignará un número consecutivo a cada unidad de instalación por transferir, el cual se asentará en la misma, con marcador negro y letras legibles de tamaño visible, ejemplo (1/20, 2/20... 20/20,)
+
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 10.</small>
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
 XI.- Cuando únicamente se transfiera una caja se anotará 1/1 o ÚNICA.
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 15.</small>
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 10.</small>
 
-XII.- Una vez realizado lo anterior la unidad orgánica generadora que transfiera procederá a llenar el formato de "Inventario para Transferencia de Archivo Administrativo o Histórico", que emite el Archivo General Municipal (anexo 2)
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-XIII.- Cada unidad Orgánica generadora deberá llenar el formato "Formato de identificación de Series Documentales y Plazos de Conservación" emitido por el Archivo General Municipal, el cual formará parte integral del Acta. (anexo 3)
+XII.- Una vez realizado lo anterior la unidad orgánica generadora que transfiera procederá a llenar el formato de "Inventario para Transferencia de Archivo Administrativo o Histórico", que emite el Archivo General Municipal, el cual formará parte integral del Acta. (Anexo 2)
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+XIII.- Cada unidad orgánica deberá llenar el formato de "Identificación de Serie o Series Documentales y Plazos de Conservación" emitido por el Archivo General Municipal, el cual formará parte integral del Acta. (Anexo 3)
 
 ### CAPÍTULO DÉCIMO TERCERO. DEL PROCEDIMIENTO PARA REALIZAR LA TRANSFERENCIA DE ARCHIVOS ADMINISTRATIVOS AL ARCHIVO GENERAL MUNICIPAL
 
 CUADRAGÉSIMO OCTAVO.- El procedimiento de transferencia de Archivos Administrativos al Archivo General Municipal, será el siguiente:
 
-I.- El Coordinador Administrativo de las Dependencias u Organismos Descentralizados solicitará a la Dirección del Archivo General Municipal realizar la transferencia de los archivos administrativos de Dependencias u Organismos Descentralizados.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+I.- El Titular de cada Dependencia u Organismo Descentralizado, solicitará a través del Coordinador Administrativo o quien desempeñe dicha función la transferencia de sus archivos administrativos a la Dirección de Archivo General Municipal.
 
 II.- La Dirección del Archivo General Municipal recibe la solicitud y gira instrucciones a su personal para atender la solicitud de Transferencia, previo al calendario establecido.
 
-III.- El personal del Archivo General Municipal conjuntamente con el responsable de cada unidad orgánica o unidad administrativa cotejarán el contenido de las unidades de instalación (cajas) a transferir con los inventarios impresos y en soporte magnético (disco compacto), de acuerdo como lo establecen los presentes Lineamientos.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-IV.- El personal del Archivo General Municipal hará las observaciones correspondientes, mismas que serán solventadas por los responsables de las unidades orgánicas generadoras o unidades administrativas.
+III.- El personal del Archivo General Municipal conjuntamente con el responsable de cada unidad orgánica cotejarán el contenido de las unidades de instalación (cajas) a transferir con los inventarios impresos y en soporte magnético (disco compacto), de acuerdo como lo establecen los presentes Lineamientos.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+IV.- El personal del Archivo General Municipal hará las observaciones correspondientes, mismas que serán solventadas por los responsables de las unidades orgánicas.
 
 V.- En caso de no existir observaciones o en su defecto hayan sido solventadas, se procederá a cerrar, sellar y encintar las unidades de instalación que contienen los archivos administrativos a transferir.
 
-VI.- Los responsables de las unidades orgánicas generadoras o unidades administrativas entregarán al coordinador administrativo de la Dependencia u Organismo Descentralizado, los inventarios impresos y en soporte magnético, para que éste a su vez los concentre y se proceda a levantar el Acta administrativa correspondiente.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
 
-VII.- El coordinador administrativo de la Dependencia u Organismo Descentralizado conjuntamente con el Director del Archivo General Municipal, procederán a levantar el "Acta Administrativa de Transferencia de Archivos Administrativos al Archivo General Municipal" en presencia de un testigo de asistencia de la Contraloría Municipal, procediendo a firmarla todos los que en ella intervengan. (anexo 4)
+VI.- Los responsables de las unidades orgánicas entregarán al Coordinador Administrativo de la Dependencia u Organismo Descentralizado, los inventarios impresos y en soporte magnético, para que éste a su vez concentre en un solo disco compacto la información correspondiente a los archivos administrativos de toda la Dependencia u Organismo Descentralizado y se proceda a levantar el Acta administrativa correspondiente.
 
-VIII.- Cada Dependencia u Organismo Descentralizado debe entregar al Archivo General Municipal dos impresiones del Acta Administrativa y anexos que la integran, firmada por todos los que en ella intervienen; así mismo, se entregará un respaldo magnético de los inventarios en disco compacto, mismo que será cotejado con los inventarios impresos.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+VII.- El Titular de la Dependencia u Organismo Descentralizado conjuntamente con el Director del Archivo General Municipal, procederán a levantar el "Acta Administrativa de Transferencia de Archivos Administrativos al Archivo General Municipal" en presencia de un representante de la Contraloría Municipal nombrado para tal efecto y dos testigos de asistencia, uno por parte de la Dependencia u Organismo Descentralizado que será el Coordinador Administrativo o quien desempeñe dichas funciones y el otro por parte del Archivo General Municipal, procediendo a firmarla todos los que en ella intervengan. (Anexo 4)
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2006)</small>
+
+VIII.- Cada Dependencia u Organismo Descentralizado debe entregar al Archivo General Municipal dos impresiones del Acta Administrativa y anexos que la integran, firmada por todos los que en ella intervienen; así mismo, se entregará en disco compacto, el contenido de los formatos (Inventario de Transferencia de Archivos Administrativos e Histórico y el de Identificación de Serie o Series Documentales y Plazos de Conservación) mismos que serán cotejados con los inventarios Impresos.
 
 ## TRANSITORIOS
 
 PRIMERO.- Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación.
 
-SEGUNDO.- Las Dependencias y Organismos Descentralizados deberán elaborar su Cuadro de Clasificación y Disposición Documental ambos conforman el Catálogo de Disposición Documental. (anexo 5)
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
+
+SEGUNDO.- Las Dependencias y Organismos Descentralizados deberán elaborar su Cuadro General de Clasificación Archivística. (Anexo 5)
 
 TERCERO.- Las Dependencias y Organismos Descentralizados deberán elaborar la guía simple de su archivo, así como su inventario documental.
 
@@ -519,340 +721,350 @@ Transferencia secundaria.- Conjunto de procedimientos con los cuales la document
 
 Unidades Orgánicas.- Las áreas o unidades que constituyen a las distintas dependencias que integran la estructura orgánica del Honorable Ayuntamiento.
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 19.</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
 Anexo 1
 
-SECRETARÍA GENERAL
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 12.</small>
 
-ARCHIVO GENERAL MUNICIPAL
+SECRETARÍA GENERAL DEL HONORABLE AYUNTAMIENTO
 
-Instructivo de llenado del Cuadro General de Clasificación Archivística
+DIRECCIÓN DE ARCHIVO MUNICIPAL.
 
-1. Fecha de Elaboración.- Se anotará la fecha de elaboración
+Instructivo para llenado de formato de Catálogo de Disposición Documental.
 
-2. Subfondo.- Se anotará el nombre de la Dependencia u Organismos Descentralizado (sic) conforme a la estructura orgánica del Ayuntamiento.
+1) Fecha de Elaboración. Se anotará la fecha de elaboración.
 
-3. Código.- Se anotará el símbolo (numérico simple) después de haber identificado y jerarquizado las categorías de agrupamiento documental.
+2) Subfondo. Se anotará el nombre de la Dependencia u Organismos (sic) Descentralizado conforme a la subdivisión de la estructura orgánica del Ayuntamiento.
 
-4. Sección.- Se anotará el nombre correspondiente a la unidad orgánica generadora conforme a la subdivisión, de acuerdo a su estructura orgánica.
+3) Código. Se anotará el símbolo (numérico simple) después de haber identificado y jerarquizado las categorías de agrupamiento documental.
 
-5. Código.- Se anotará el número en decimal, después de haber identificado y jerarquizado las categorías de agrupamiento documental.
+4) Sección. Se anotará el nombre correspondiente a la unidad generadora conforme a la subdivisión del subfondo de acuerdo a su estructura orgánica.
 
-6. Serie.- Se anotará el nombre de los grupos documentales organizados de acuerdo a la unidad orgánica generadora como resultado de la acumulación de la misma actividad y asunto, identificando las atribuciones y funciones específicas y que hagan la diferencia de una unidad orgánica con otra.
+5) Código. Se anotará el número en decimal, después de haber identificado y jerarquizado las categorías de agrupamiento documental.
 
-7. Titular de la Secretaría, Dirección y/o Jefatura que transfiere.- Se anotará el nombre, cargo y firma del titular de la Unida Orgánica generadora que transfiere.
+6) Serie. Se anotarán el nombre de los grupos documentales organizados de acuerdo a la unidad orgánica generadora como resultado de la acumulación de la misma actividad y asunto, identificando las atribuciones y funciones específicas que haga la diferencia de una unidad con otra.
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 20.</small>
+7) Marcar con una x el valor administrativo (A) que tiene la serie correspondiente.
+
+8) Marcar con una x si la serie documental tiene valor legal o jurídico (L).
+
+9) Marcar con una x si la serie documental tiene valor fiscal o contable (F).
+
+10) Se anotará en años según sea el caso el tiempo de permanencia de la serie documental en el archivo de trámite, de acuerdo como lo determine la unidad orgánica generadora en base a sus leyes aplicables (AT).
+
+11) Se anotará en años según sea el caso el tiempo de permanencia de la serie documental en el archivo de concentración, de acuerdo como lo determine la unidad orgánica generadora en base a sus leyes aplicables (AC).
+
+12) Se anotará el número total (T) de años de permanencia de la serie documental en AT y AC.
+
+13) y 14) Marcar con una x si la documentación se encuentra clasificada, según corresponda, de acuerdo como la establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás normas aplicables.
+
+15) Se anotarán aspectos relevantes que no se contemplan en el formato y que sean necesarios para la administración de los documentos del Ayuntamiento. Por ejemplo aquellos que tienen valor histórico para la ciudad.
+
+16) Se anotará el nombre, cargo y firma del titular de la unidad orgánica que transfiere.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
 Anexo 2
 
-SECRETARÍA GENERAL
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 10.</small>
 
-ARCHIVO GENERAL MUNICIPAL
+SECRETARÍA GENERAL DEL HONORABLE AYUNTAMIENTO
+
+DIRECCIÓN DE ARCHIVO MUNICIPAL
 
 Instructivo para el llenado del Formato de Inventario para Transferencia de Archivo Administrativo o Histórico
 
-Es conveniente tener en consideración los siguientes criterios para el llenado del formato, la letra a utilizar debe ser Tahoma 10 puntos sin negrita para todo el documento, en mayúsculas y minúsculas.
+Es conveniente tener en consideración los siguientes criterios para el llenado del formato, la letra utilizar debe ser Tahoma 10 puntos sin negrita para todo el documento, en mayúsculas y minúsculas.
 
-El nombre de este formato, se modificará de acuerdo al tipo de archivo a transferir, en el ejemplo se muestra Administrativo o Histórico, una vez llenado el formato se selecciona el tipo de archivo, eliminando la palabra que no corresponda.
+1.- Fecha de Elaboración: Se anotará la fecha de elaboración del inventario.
 
-1. Fecha de Elaboración: Se anotará la fecha de elaboración del inventario.
+2.- Fecha de Recepción: Se anotará la fecha de recepción de documentación e inventarios trasferidos al Archivo General Municipal.
 
-2. Fecha de Recepción: Se anotará la fecha de recepción de documentación e inventarios trasferidos al Archivo General Municipal.
+3.- No. de Folio: Se anotará el número consecutivo de cada uno de los formatos, en el momento que se levante el Acta Administrativa de Transferencia de Archivos Administrativos al Archivo General Municipal.
 
-3. No. de Folio: Se anotará el número consecutivo de cada uno de los formatos.
+4.- Dependencia: Se anotará el nombre de la Dependencia u Organismo Descentralizado, a la cual está adscrita la Dirección o Jefatura, que hace la transferencia documental.
 
-4. Dependencia: Se anotará el nombre de la Dependencia u Organismo Descentralizado, a la cual está adscrita la Dirección o Jefatura, que hace la transferencia documental.
+5.- Dirección: Se anotará el nombre de la Dirección que transfiere, o a la que pertenece la Jefatura que va a transferir (en caso de que aplique).
 
-5. Dirección: Se anotará el nombre de la Dirección que transfiere, o a la que pertenece la Jefatura que va a transferir (en caso de que aplique).
+6.- Jefatura: Se anotará el nombre de la Jefatura que transfiera (en caso de que aplique).
 
-6. Jefatura: Se anotará el nombre de la Jefatura que transfiera (en caso de que aplique).
+7.- No. de Caja: Se anotará el número consecutivo de las cajas a transferir, especificando el total como sigue: 1/6, 2/6, 3/6, 4/6 …… 6/6 En caso que sólo se transfiera una sola caja se hará la anotación en el formato 1/1 o caja única.
 
-7. No. de Caja: Se anotará el número consecutivo de las cajas a transferir, especificando el total como sigue: 1/6, 2/6, 3/6, 4/6……..6/6. En caso que sólo se transfiera una sola caja se hará la anotación en el formato 1/1 o caja única.
+8.- No. de Expediente: Se anotará el número consecutivo que le corresponda a cada expediente que contenga cada unidad (sic) instalación. Es importante mencionar que éste debe ser único e irrepetible por cada unidad de instalación.
 
-8. No. de Expediente: Se anotará el número consecutivo que le corresponda a cada expediente que contenga cada unidad (sic) instalación. Es importante mencionar que éste debe ser único e irrepetible por cada unidad de instalación.
+9.- Fecha Inicial, Fecha Final: Se anotará las fechas extremas de inicio y conclusión de cada expediente, para documentación archivada consecutivamente por fechas y en los casos de documentación diferente a ésta se tomará sólo una fecha como referencia, ya sea la elaboración o aprobación.
 
-9. Fecha Inicial, Fecha Final: Se anotará las fechas extremas de inicio y conclusión de cada expediente, para documentación archivada consecutivamente por fechas y en los casos de documentación diferente a ésta se tomará sólo una fecha como referencia, ya sea la elaboración o aprobación.
+10.- Folio Inicial, Folio Final: Se anotará el total de folios que contiene cada una de los expedientes, iniciando con el 001, ejemplo 001-500.
 
-10. Folio Inicial, Folio Final: Se anotará el total de folios que contiene cada una (sic) de los expedientes, iniciando con el 001, ejemplo 001-500.
+11.- Asunto: Se anotará claramente el concepto que describa el contenido de cada uno de los expedientes.
 
-11. Asunto: Se anotará claramente el concepto que describa el contenido de cada uno de los expedientes.
+12.- Observaciones: Se anotarán las correcciones pertinentes, por ejemplo si faltaran algunos folios o en su defecto si estuvieran repetidos o bien la existencia de algún anexo, fotografía, planos, etc.
 
-12. Observaciones: Se anotarán las correcciones pertinentes, por ejemplo si faltaran algunos folios o en su defecto si estuvieran repetidos o bien la existencia de algún anexo, fotografía, planos, etc.
+13.- Titular de la Secretaría, Dirección y/o Jefatura que Transfiere: Se anotará el nombre, cargo y firma del titular de la unidad orgánica generadora que transfiere.
 
-13. Titular de la Secretaría, Dirección y/o Jefatura que Transfiere: Se anotará el nombre, cargo y firma del titular de la unidad orgánica generadora que transfiere.
+14.- Cargo del Responsable que levanta el Inventario de la Dependencia u Organismo: Se anotará el nombre completo y firma del responsable de levantar el inventario de la documentación a transferir al Archivo General Municipal.
 
-14. Cargo del Responsable que levanta el Inventario de la Dependencia u Organismo: Se anotará el nombre completo y firma del responsable de levantar el inventario de la documentación a transferir al Archivo General Municipal.
+15.- Director del Archivo General Municipal: Se presentará la firma del Director una vez que sea recibida la documentación, acta e inventarios trasferidos al Archivo General Municipal.
 
-15. Director del Archivo General Municipal: Se presentará la firma del Director una vez que sea recibida la documentación, acta e inventarios trasferidos al Archivo General Municipal.
+16.- Jefe del Departamento de Supervisión y Concentración: Se presentará la firma del Supervisor de Archivo de Concentración una vez que sea recibida la documentación, acta e inventarios transferidos al Archivo General Municipal.
 
-16. Jefe del Departamento de Supervisión y Concentración: Se presentará la firma del Supervisor de Archivo de Concentración una vez que sea recibida la documentación, acta e inventarios transferidos al Archivo General Municipal.
+FORM/INSLLEFORINVTRAARCADMHIS/218
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 22.</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
 Anexo 3
 
-SECRETARÍA GENERAL
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 17.</small>
 
-ARCHIVO GENERAL MUNICIPAL
+SECRETARÍA GENERAL DEL HONORABLE AYUNTAMIENTO
 
-Instructivo para el llenado del Formato de Identificación de Series Documentales y Plazos de Conservación en el Archivo de Concentración
+DIRECCIÓN DE ARCHIVO MUNICIPAL
+
+Instructivo para el llenado del Formato de Identificación de Serie o Series Documentales y Plazos de Conservación en el Archivo de Concentración
 
 Es conveniente considerar los siguientes criterios para el llenado del formato, la letra a utilizar debe ser Tahoma 10 puntos sin negritas para todo el documento, en mayúsculas y minúsculas.
 
-1. Fecha de elaboración: Se anotará la fecha de elaboración del formato.
+1.- Fecha de elaboración: Se anotará la fecha de elaboración del formato.
 
-2. Dependencia u Organismo Descentralizado: Se anotará el nombre de la Dependencia u Organismo a la cual está adscrita la Dirección y/o Jefatura que hace la transferencia.
+2.- Dependencia u Organismo Descentralizado: Se anotará el nombre de la Dependencia u Organismo a la cual está adscrita la Dirección y/o Jefatura que hace la transferencia.
 
-3. Dirección: Se anotará el nombre de la Dirección que transfiere, o a la que pertenece la Jefatura que va a transferir (en caso de que aplique).
+3.- Dirección: Se anotará el nombre de la Dirección que transfiere, o a la que pertenece la Jefatura que va a transferir (en caso de que aplique).
 
-4. Jefatura: Se anotará el nombre de la Jefatura que transfiere (en caso de que aplique).
+4.- Jefatura: Se anotará el nombre de la Jefatura que transfiere (en caso de que aplique).
 
-5. Serie Documental: Se anotará el nombre de la serie, entendida como el conjunto de tipos documentales de estructura y contenido homogéneo, emanadas de un mismo órgano o sujeto productor como consecuencia del ejercicio de sus funciones especificas sustantivas. Ejemplo: Títulos de Vecindad o Licencias de Uso de Suelo para construir, etc.
+5.- Folio.- Se anotará el número consecutivo de cada uno de los formatos en el momento en que se levante el Acta Administrativa.
 
-6. Total de expedientes transferidos: Se anotará el número de expedientes que conforman la serie documental y que son transferidos al Archivo General Municipal.
+6.- Serie o serie documental: Se anotará el nombre de la serie, entendida como el conjunto de tipos documentales de estructura y contenido homogéneo, emanadas de un mismo órgano o sujeto productor como consecuencia del ejercicio de sus funciones específicas sustantivas. Ejemplo: Títulos de Vecindad o Licencias de Uso de Suelo para construir, etc.
 
-7. Fechas (años): Se anotará la fecha en lapso de años correspondiente a los expedientes que conforman la serie documental.
+7.- Total de expedientes transferidos: Se anotará el número de expedientes que conforman la serie documental y que son transferidos al Archivo General Municipal.
 
-8. Plazo de Conservación en el Archivo de Concentración del Archivo Municipal: Se anotará en lapso de años, el tiempo que la serie documental debe permanecer en guarda en el archivo de concentración del Archivo General Municipal, para ser sometida con posterioridad a una valoración secundaria, que determine su transferencia al Archivo histórico o su baja definitiva, de acuerdo como lo marque su Catálogo de Disposición Documental.
+8.- Fechas (años): Se anotará la fecha en lapso de años correspondiente a los expedientes que conforman la serie documental.
 
-9. Observaciones: Se anotará alguna indicación especial.
+9.- Plazo de Conservación en el Archivo de Concentración: Se anotará en lapso de años, es decir, el tiempo que la serie documental debe permanecer en guarda en el archivo de concentración del Archivo General Municipal.
 
-10. Funciones sustantivas de la unidad orgánica remitente: Se anotarán de manera breve las funciones sustantivas que desarrolla la unidad orgánica, mismas que se verán reflejadas en la documentación que transfiere.
+10.- Observaciones: Se anotará alguna indicación especial.
 
-II. Titular de la Secretaría, Dirección y/o Jefatura que Transfiere: Se anotará el nombre, cargo y firma del titular de la unidad orgánica generadora que transfiere.
+11.- Funciones sustantivas de la unidad orgánica remitente: Se anotarán de manera breve las funciones sustantivas que desarrolla la unidad orgánica, mismas que se verán reflejadas en la documentación que transfiere.
+
+12.- Titular de la Secretaría, Dirección y/o Jefatura que Transfiere: Se anotará el nombre, cargo y firma del titular de la unidad orgánica que transfiere.
+
+FORM/INSLLEFORIDESERDOCPLACONARCON/0220
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
 Anexo 4
 
-JUNTOS ES POSIBLE
+ACTA ADMINISTRATIVA DE TRANSFERENCIA DE ARCHIVOS ADMINISTRATIVOS AL ARCHIVO GENERAL MUNICPAL
 
-A CT A No. (1 )--------------
+En la Heroica Puebla de Zaragoza, siendo las ----(2)---- horas con ----(3)--- minutos del día ---(4)--- del mes de ----(5)----del año --- (6)--- Habiéndose reunido en las oficinas que ocupa la----(7)------del H. Ayuntamiento de Puebla, ubicada en ----(8)--- de esta Ciudad, el C ----(9)----en su carácter de ----(10)----el C.----(11)----en carácter de Director del Archivo General Municipal dependiente de la Secretaría General y el (a) C.---(12)---, en carácter de representante de la Contraloría Municipal a efecto de hacer constar la transferencia de los archivos administrativos que se encuentran en ----(13)---- al Archivo de Concentración del Archivo General Municipal, ubicado en ----(14)---, de esta Ciudad.------------------------------------------------------------------Antecedentes -------------------------------------------------------------------------- Este acto se realiza en atención al oficio número----(15) ----de fecha ---(16)---de---(17)--- del año ---(18)----, suscrito por el C.---(19)---y dirigido al C.----(20)----, Director del Archivo General Municipal, dependiente de la Secretaría General, recibido el día ----(21)-----de---(22)---del año-----(23)------por la Dirección de Archivo Municipal, mediante el cual le solicita la transferencia de los archivos administrativos.-----Comparece y esta presente el (a) C --- (24)-----quien funge (sic) representante de la Contrataría Municipal designado mediante oficio número -----(25)---de fecha -----(26)---de-----(27)-----del año------( 28)----, suscrito por el C. (29)---(30)-------,Se anexan copias fotostáticas de dichos documentos, los cuales forman parte integrante de la presente acta como anexo I.------------------------------Personalidad del Servidor Público que transfiere los archivos administrativos----------Por sus generales el C (31) -----, manifiesta llamarse como ha quedado escrito, prestar sus servicios en--------(32)-------como ------(33)------en el H. Ayuntamiento de Puebla, ser de nacionalidad mexicana, mayor de edad, de estado civil-----(34), con domicilio particular en -----(35)-----de esta Ciudad, identificándose con credencial oficial expedida por el Instituto Federal Electoral con número de folio al reverso----(36) la cual concuerda fiel legalmente con sus rasgos fisonómicos y en la misma se aprecia una firma que reconoce como suya la cual utiliza para validar todos sus actos jurídicos, se anexa copia fotostática de dicho documento, formando parte integrante de la presente acta como anexo II-------------
 
-ACTA ADMINISTRATIVA DE TRANSFERENCIA DE ARCHIVOS ADMINISTRATIVOS AL ARCHIVO GENERAL MUNICIPAL
+PASA A LA FOJA NÚMERO DOS
 
-En la Heroica Puebla de Zaragoza, siendo las----(2)----horas con----(3)----minutos del día----(4)---------de-----(5)-----del------(6)-----. Habiéndose reunido en las oficinas que ocupa-----(7)-----ubicada en-----(8)-----, Colonia-----(9)-----de esta Ciudad, el C. ---------------(10)------y el C.-------(11)------Director del Archivo General Municipal dependiente de la Secretaría General, a efecto de hacer constar la transferencia de los archivos administrativos que se encuentran en el------(12)------ al Archivo General Municipal, ubicado ------(13)-------, de esta Ciudad--------------.
+---------------------------------- VIENE DE LA FOJA NUMERO UNO ----------------------------------
 
-Antecedentes:----------------------------------------------------------.
+Personalidad del Servidor Público que recibe los archivos administrativos-----Por sus generales el C. ------(37)--------, manifiesta llamarse como ha quedado escrito, prestar sus servicios en ---(38)--- como ------(39)------ en el H. Ayuntamiento de Puebla, ser de nacionalidad mexicana, mayor de edad, de estado civil ---( 40) -----, con domicilio particular en ----( 41 )----- en esta Ciudad, identificándose con credencial oficial expedida por el Instituto Federal Electoral con número de folio al reverso ----( 42)---- la cual concuerda fiel legalmente con sus rasgos fisonómicos y en la misma se aprecia la firma que reconoce como suya la cual utiliza para validar todos sus actos jurídicos se anexa copia fotostática de dicho documento, formando parte integrante de la presente acta como anexo III ---- Personalidad de los testigos de asistencia --------El C. --------(43)--------, por sus generales manifiesta llamarse como ha quedado escrito, prestar sus servicios como ----------(44)-------ser de nacionalidad mexicana, mayor de edad, de estado civil -------(45)-----, con domicilio particular en -----(46 ) -------de esta Ciudad, identificándose con credencial oficial expedida por el Instituto Federal Electoral, con número de folio al reverso ---------(47)-------, la cual concuerda fiel y legalmente con sus rasgos fisonómicos y en la misma se aprecia la firma que reconoce como suya, la cual utiliza para validar todos sus actos jurídicos y el C. ---- 48)------quien manifiesta llamarse como ha quedado escrito prestar sus servicios como ------(49)------ de la Dirección del Archivo General Municipal del H. Ayuntamiento de Puebla, dependiente de la Secretaría General, ser de nacionalidad mexicana, mayor de edad, de estado civil -----(50)---con domicilio particular en------(51) --------de esta Ciudad, identificándose con credencial oficial expedida por el Instituto Federal Electoral, con número de folio al reverso ------(52)----, la cual concuerda fiel y legalmente con sus rasgos fisonómicos y en la misma se aprecia la firma que reconoce como suya, la cual utiliza para validar todos sus actos jurídicos. Se anexa copia fotostática de dicho documento, formando parte integrante de la presente acta como anexo IV----------------------Dichos testigos aceptan el nombramiento y protestan cumplir fiel y legalmente con el cargo conferido, acto seguido y una vez acreditadas las personalidades con que comparecen los participantes de esta diligencia, se procede a los siguientes---------Hechos: ----------- Se hace constar en la presente acta que el C--------(53)---------- en su carácter --------(54)---------, procede a realizar la entrega en este momento, de --------(55)-------- unidades de instalación (cajas) las cuales contienen la documentación generada en--------(56)-------- a su cargo, relacionados en formatos de inventarios de transferencia de archivos administrativos con número de folios útiles del --------(57)-------al-------(58)---------y los formatos de identificación de series documentales y plazos de conservación con número de folios del----------(59)---------al (60)--------,así como------(61)------- disco (s) compacto (s) que contienen el respaldo de la documentación que se transfiere y que recibe el C.-------- (62)-------Director del Archivo General Municipal, dependiente de la Secretaría General, los cuales se adjuntan a la presente acta como anexo V---------Por lo anterior y para los efectos administrativos y legales que haya lugar se procede a la entrega de las unidades de instalación(cajas) de la siguiente forma: -------PASA A LA FOJA NÚMERO TRES---------------
 
-Este acto se realiza en atención al oficio número-----(14)------dirigido al C.-----(15)--Director del Archivo General Municipal, dependiente de la Secretaría General por el (la) C.------(16)------titular de ------(17)-----con fecha ------(18)------,del año en curso (se anexa copia fotostática de dicho documento, el cual forma parte integrante de la presente acta).----------------.
+---------------------VIENE DE LA FOJA NÚMERO D0S-------------------------
 
-Personalidad del C.------(19)------, Titular de------(20)------Por sus generales el C.----(21)----, Titular de------(22)------quién manifiesta llamarse como ha quedado escrito,
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 21.</small>
 
-ser de nacionalidad-----(23)-----, mayor de edad, de estado civil-----(24)-----, con domicilio particular-----(25)----- de la colonia---(26)------de esta Ciudad, identificándose con credencial expedida por el H. Ayuntamiento con número de control------(27)------Personalidad del C.------(28)------, Director del Archivo General Municipal-----------------------------.
-
-Por sus generales el C.------(29)------, Director del Archivo General Municipal, dependiente de la Secretaría General, quien manifiesta llamarse como ha quedado escrito ser de nacionalidad ------(30)------, mayor de edad, de estado civil------(31)------, con domicilio particular en------(32)------Colonia------(33)------, de esta Ciudad,
-
-- - - - - - - - - - - - - - - - - - - - PASA A LA FOJA NUMERO DOS - - - - - - -
-
-- - - - - - - - - - - - - - - - - - -VIENE DE LA FOJA NÚMERO UNO - - - - - - - - - - - - - -
-
-identificándose con credencial expedida por el H. Ayuntamiento con número de control------(34)------Personalidad de los testigos de asistencia:-------------------------.
-
-El C.------(35)------, quien manifiesta llamarse como ha quedado escrito, ser de nacionalidad------(36)------, mayor de edad, de estado civil------(37)------prestar sus servicios como------( 38)-------del ------(39)------con domicilio particular en-----(40)----Colonia -----(41)------de esta Ciudad, identificándose con credencial expedida por el H. Ayuntamiento con número de control-----(42)-----y el C. ------(43)-----quien manifiesta llamarse como ha quedado escrito ser de nacionalidad------(44)------mayor de edad, de estado civil ------(45)----- prestar sus servicios como------(46)---de la Dirección de Archivo General Municipal, dependiente de la Secretaría General, con domicilio particular en------( 47)------, Colonia------(48)------de esta Ciudad, identificándose con credencial expedida por el H. Ayuntamiento con número de control------(49)------. Dichos testigos aceptan el nombramiento y protestan cumplir fiel y legalmente con el cargo conferido, acto seguido y una vez acreditadas las personalidades con que comparecen los participantes de esta diligencia, se procede a los siguientes: ------------------------.
-
-Hechos---------------------Se hace constar en la presente que el C.------(50)------, titular de ------(51)------, entrega en este acto-----(52)------unidades de instalación (cajas) conteniendo archivos documentales generados en la citada Área a su cargo, relacionadas en formatos de inventarios con número de folios útiles del-------(53)------, los cuales se adjuntan a la presente acta, así como también ------(54)---disquete o disco compacto que contienen el respaldo de dichos Archivos que recibe el C.------(55)------Director del Archivo General Municipal, dependiente de la Secretaria General.------.
-
-Por lo anterior y para los efectos administrativos y legales que haya lugar se procedió a la entrega de Archivos de la siguiente forma:------------------------------.
-
-Nombre de Nombre del No. de No. de folios No. de folios
-
-la Responsable Cajas Correspon- Correspon-
-
-Secretaría diente diente
-
-Dirección y/o a los Formatos a los Formatos
-
-Jefatura de Inventario de Identificación
-
-de series
-
-Total
-
-Acto seguido el C.------(56)------Director del Archivo General Municipal, recibe los archivos mencionados y procede a trasladarlos a la Dirección del Archivo General Municipal, ubicado en ------(57)------, Colonia------(58)------, para su guarda, custodia y organización, conforme a lo establecido por los artículos 138 fracción XI, de la Ley Orgánica Municipal, capitulo 25 art. 1690 del Código Reglamentario para el Municipio de Puebla----------------------------.
-
-La presente acta es elaborada en original y una copia perfectamente legibles (sic), entregando la copia al ------(59)------, Titular de------(60)------y el original queda bajo la guarda y custodia del C. ------(61)------Director del Archivo General Municipal, dependiente de la Secretaría General para los efectos a que haya lugar.---------.
-
-Cierre del acta. --------------------------------------------------.
-
-Leída que fue la presente acta administrativa y explicado su alcance y contenido se da por concluida la misma siendo las------(62)------horas con------(63)------minutos del día de su inicio, firmando para constancia, todos y cada uno de los que en ella intervinieron al margen y al calce en todas sus fojas--CONSTE------.
+Acto seguido el C.--------------(63)--------Director del Archivo General Municipal, recibe los archivos mencionados y procede a trasladarlos al Archivo de Concentración dependiente del Archivo General Municipal, ubicado en --------(64)-------, de esta Ciudad para su guarda, custodia y organización, conforme a lo establecido por los artículos 138 Fracción XI, de la Ley Orgánica Municipal, y 1690 del Código Reglamentario para el Municipio de Puebla ---------- La presente acta es elaborada en original y dos copias perfectamente legibles, entregando la primera al C.-----------(65)--------, Titular de-------(66)----------y la segunda al representante de la Contraloría Municipal y el original queda bajo la guarda y custodia de la Dirección del Archivo General Municipal, dependiente de la Secretaría General para los efectos legales a que haya lugar --------------------------------Cierre del acta------------------------------------------------------------------------------Previa lectura del acta y no habiendo nada más que hacer constar y agregar, se da por concluida la misma siendo las -----(67)-----horas con -----(68)-----minutos del día de su inicio, firmando al margen y al calce en todas sus fojas para constancia, todos y cada uno de los que en ella intervinieron-------------CONSTE-------
 
 Por el que entrega
 
--------(64)------
+C. ----------------(69)--------------
 
 Por la Dirección de Archivo General Municipal
 
-------(65)------
+_____________________________________
+
+C. ----------------(70---------------------
+
+----------------PASA A LA FOJA NÚMERO CUATRO-------------------------
+
+----------------VIENE DE LA FOJA NÚMERO TRES---------------------------
+
+Por la Contraloría Municipal
+
+_______________________
+
+C. -------------------------(71)-------------------------
 
 Testigos de asistencia
 
-C. ------(66)------
+_________________ ___________________
 
-C. ------(67)------
+C. -------------(72)---------------- C.-------------(73)-----------------
 
-Anexo 4
+FORM/ACTADMTRAARCADMARCGENMUN/0221
 
-SECRETARÍA GENERAL
+ANEXO 4
 
-ARCHIVO GENERAL MUNICIPAL
+SECRETARIA GENERAL DEL HONORABLE AYUNTAMIENTO
+
+DIRECCIÓN DE ARCHIVO MUNICIPAL
 
 Instructivo de llenado del Acta Administrativa de Transferencia de Archivos Administrativos al Archivo General Municipal
 
-Este formato servirá tanto para las transferencias ordinarias y extraordinarias, modificando únicamente el nombre del Acta.
+Este formato servirá para las transferencias ordinarias y extraordinarias modificando únicamente el nombre del Acta.
 
-1. Se anotará el número de acta asignado por la Dirección de Archivo General Municipal.
+1.- Se anotará el número de acta asignado por la Dirección del Archivo General Municipal.
 
-2 y 3. Se anotará la hora y los minutos en que se levanta el acta.
+2 y 3.- Se anotará la hora y los minutos en que se levanta el acta.
 
-4, 5 y 6. Se anotará la fecha, mencionando el día, mes y año del levantamiento del acta.
+4, 5 Y 6.- Se anotará la fecha, mencionando el día, mes y año respectivamente, del levantamiento del acta.
 
-7. Se anotará el nombre de la Dependencia u Organismo Descentralizado que hace la entrega a través de su Coordinador Administrativo.
+7.- Se anotará el nombre de la Dependencia u Organismo Descentralizado que realiza la transferencia.
 
-8 y 9. Se anotará la dirección y colonia donde se encuentra ubicada la Dependencia u Organismo Descentralizado que entrega.
+8.- Se anotará el domicilio con calle y colonia donde se encuentra ubicada la Dependencia u Organismo Descentralizado que transfiere.
 
-10. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
+9.- Se anotará el nombre del Titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-11. Se anotará el nombre del Director del Archivo General Municipal.
+10.- Se anotará el cargo del Titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-12. Se anotará el nombre de la Dependencia u Organismo Descentralizado que hace la entrega a través de su Coordinador Administrativo.
+11.- Se anotará el nombre del Director del Archivo General Municipal.
 
-13. Se anotará el domicilio donde se encuentran ubicadas las instalaciones de la Dirección de Archivo General Municipal.
+12.- Se anotará el nombre de la persona designada por la Contraloría Municipal para fungir como representante de la misma.
 
-14 Se escribirá el número del oficio con el cual la Dependencia u Organismo Descentralizado solicita la transferencia de los archivos administrativos.
+13.- Se anotará el nombre de la Dependencia u Organismo Descentralizado que transfiere.
 
-15. Se anotará el nombre del Director del Archivo General Municipal.
+14.- Se anotará el domicilio del Archivo de Concentración del Archivo General Municipal.
 
-16. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
+15.- Se anotará el número de oficio con cual se solicita la transferencia de los archivos administrativos al Archivo General Municipal.
 
-17. Se anotará el nombre de la Dependencia u Organismo Descentralizado que transfiere
+16, 17 Y 18.- Se anotará la fecha de elaboración, día, mes y año respectivamente del oficio que envía la Dependencia u Organismo Descentralizado mediante el cual solicita la transferencia de sus archivos administrativos.
 
-18. Se anotará la fecha del oficio que envía la Dependencia u Organismo Descentralizado mediante el cual solicita la transferencia de sus archivos administrativos.
+19.- Se anotará el nombre y cargo del Titular de la Dependencia u Organismo Descentralizado que solicita la transferencia.
 
-19. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
+20.- Se anotará el nombre del Director del Archivo General Municipal.
 
-20. Se anotará el nombre de la Dependencia u Organismo Descentralizado que hace la transferencia documental.
+21, 22 y 23.- Se anotará la fecha de recepción del oficio de solicitud de transferencia día, mes y año respectivamente.
 
-21. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
+24.- Se anotará el nombre de la persona designada por la Contraloría Municipal.
 
-22. Se anotará el nombre de la Dependencia u Organismo Descentralizado que hace la transferencia documental.
+25.- Se anotará el número de oficio de comisión emitido por la Contraloría Municipal designando a la persona que fungirá como representante de la misma.
 
-23. Se anotará la nacionalidad del titular de la Dependencia u Organismo Descentralizado que transfiere.
+26, 27 y 28.- Se anotará el día mes y año respectivamente del oficio emitido por la Contraloría Municipal.
 
-24. Se anotará el estado civil del titular de la Dependencia u Organismo Descentralizado que transfiere.
+29 y 30.- Se anotará el nombre y cargo de quien suscribe el oficio de comisión por parte de la Contra lo ría Municipal.
 
-25 Y 26. Se anotará el domicilio particular y colonia del titular de la Dependencia u Organismo Descentralizado que transfiere.
+31.- Se anotará el nombre del Titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-27. Se anotará el número de control que marca la credencial expedida por el H. Ayuntamiento del titular de la Dependencia u Organismo Descentralizado que transfiere.
+32.- Se anotará el nombre de la Dependencia u Organismo Descentralizado que transfiere.
 
-28 y 29. Se anotará el nombre del Director del Archivo General Municipal.
+33.- Se anotará el cargo que desempeña en la Dependencia u Organismo Descentralizado que transfiere.
 
-30. Se anotará la nacionalidad del Director del Archivo General Municipal.
+34.- Se anotará el estado civil del Titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-31. Se anotará el estado civil del Director de Archivo General Municipal.
+35.- Se anotará el domicilio particular con calle y colonia del Titular Dependencia u Organismo Descentralizado que transfiere.
 
-32 y 33. Se anotará el domicilio particular y colonia del Director del Archivo General Municipal.
+36.- Se anotará el número de folio de la credencial oficial expedida por el Instituto Federal Electoral del titular (sic) Dependencia u Organismo Descentralizado que transfiere.
 
-34. Se anotará el número de control que marca la credencial expedida por el H. Ayuntamiento del Director del Archivo General Municipal.
+37.- Se anotará el nombre del Director del Archivo General Municipal.
 
-35. Se anotará el nombre del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+38.- Se anotará el nombre de la Dependencia a la cual está adscrito el Director del Archivo General Municipal.
 
-36. Se anotará la nacionalidad del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+39.- Se anotará el cargo del servidor público que recibe los archivos administrativos.
 
-37. Se anotará el estado civil del testigo designado por la Dependencia u Organismo Descentralizado que transfieren.
+40.- Se anotará el estado civil del Director del Archivo General Municipal.
 
-38. Se anotará el nombre del puesto que ocupa el testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+41.- Se anotará el domicilio particular con calle y colonia del Director del Archivo General Municipal.
 
-39. Se anotará el nombre de la Dirección o Jefatura a la cual está adscrito el testigo designado.
+42.- Se anotará el número de folio de la credencial oficial expedida por el Instituto Federal Electoral del Director del Archivo General Municipal.
 
-40 y 41. Se anotará el domicilio particular y colonia del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+43.- Se anotará el nombre del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
 
-42. Se anotará el número de control que marca la credencial expedida por el H. Ayuntamiento del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+44.- Se anotará el cargo que desempeña el testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
 
-43. Se anotará el nombre del testigo designado por la Dirección de Archivo General Municipal.
+45.- Se anotará el estado civil del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
 
-44. Se anotará la nacionalidad del testigo designado por la Dirección de Archivo General Municipal.
+46.- Se anotará el domicilio particular con calle y colonia del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
 
-45. Se anotará el estado civil del testigo designado por la Dirección. (sic) de Archivo General Municipal.
+47.- Se anotará el número de folio de la credencial oficial expedida por el Instituto Federal Electoral del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
 
-46. Se anotará el nombre del puesto que ocupa el testigo designado por la Dirección de Archivo General Municipal.
+48.- Se anotará el nombre del testigo designado por la Dirección del Archivo General Municipal.
 
-47 y 48. Se anotará el domicilio particular y la colonia del testigo designado por la Dirección de Archivo General Municipal.
+49.- Se notará (sic) el cargo que desempeña el testigo designado por la Dirección del Archivo General Municipal.
 
-49. Se anotará el número de control que marca la credencial expedida por el H. Ayuntamiento del testigo designado por la Dirección de Archivo General Municipal.
+50.- Se anotará el estado civil del testigo designado por la Dirección del Archivo General Municipal.
 
-50. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
+51.- Se anotará el domicilio particular con calle y colonia del testigo designado por la Dirección del Archivo General Municipal.
 
-51. Se anotará el nombre de la Dependencia u Organismo Descentralizado que transfiere.
+52.- Se anotará el número de folio de la credencial oficial expedida por el Instituto Federal Electoral del testigo designado por la Dirección del Archivo General Municipal.
 
-52. Se anotará el total de cajas a transferir las cuales se relacionarán en el recuadro incluido en el Acta.
+53.- Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-53. Se anotará el total de folios que contienen los formatos de inventarios Para Archivo Administrativo por Dependencia u Organismo Descentralizado, iniciando con el 001 mismos que se mencionan en el recuadro incluido en el Acta.
+54.- Se anotará el cargo que desempeña en la Dependencia u Organismo Descentralizado que transfiere.
 
-54. Se anotará el número de discos compactos, que contenga la información de los inventarios.
+55.- Se anotará el total de unidades de instalación (cajas) a transferir las cuales se relacionarán en el recuadro incluido en el Acta.
 
-55. Se anotará el nombre del Director del Archivo General Municipal.
+56.- Se anotará el nombre de la Dependencia u Organismo Descentralizado que transfiere.
 
-56. Se anotará el nombre del Director del Archivo General Municipal.
+57 y 58.- Se anotará el total de folios que contienen los formatos de inventarios para transferencia de archivos administrativos por Dependencia u Organismo Descentralizado, iniciando con el 001, mismos que se mencionan en el recuadro incluido en el Acta.
 
-57 Y 58. Se anotará el domicilio y colonia donde están ubicadas las instalaciones de la Dirección del Archivo General Municipal.
+59 y 60.- Se anotará el total de folios que contienen los formatos de Identificación de Series Documentales y Plazos de Conservación por Dependencia u Organismo Descentralizado, iniciando con el 001, mismos que se mencionan en el recuadro incluido en el Acta.
 
-59. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que transfiere.
+61.- Se anotará el número de discos compactos, que contenga la información de la documentación a transferir.
 
-60. Se anotará el nombre de la Dependencia u Organismo Descentralizado que hace la transferencia documental.
+62.- Se anotará el nombre del Director del Archivo General Municipal.
 
-61. Se anotará el nombre del Director del Archivo General Municipal.
+63.- Se anotará el nombre del Director del Archivo General Municipal.
 
-62 y 63. Se anotará la hora y los minutos en que se hace el cierre del acta.
+64.- Se anotará el domicilio donde están ubicadas las instalaciones del Archivo de Concentración del Archivo General Municipal.
 
-64. Se anotará el nombre del titular de la Dependencia u Organismo Descentralizado que realiza la entrega.
+65.- Se anotará el nombre del Titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-65. Se anotará el nombre del Director del Archivo General Municipal.
+66.- Se anotará el nombre de la Dependencia u Organismo Descentralizado que realiza la transferencia.
 
-66. Se anotará el nombre del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+67 y 68.- Se anotará la hora y minutos respectivamente en que se realiza el cierre del acta.
 
-67. Se anotará el nombre del testigo designado por la Dirección del Archivo General Municipal.
+69.- Se anotará el nombre del Titular de la Dependencia u Organismo Descentralizado que transfiere.
 
-> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 17 DE FEBRERO DE 2006, PAG. 27.</small>
+70.- Se anotará el nombre del Director del Archivo General Municipal.
+
+71.- Se anotará el nombre del representante de la Contraloría Municipal.
+
+72.- Se anotará el nombre del testigo designado por la Dependencia u Organismo Descentralizado que transfiere.
+
+73.- Se anotará el nombre del testigo designado por la Dirección del Archivo General Municipal.
+
+FORM/INSLLEACTADMTRAARCADMARCGENMUN/0222
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2006)</small>
 
 Anexo 5
 
-SECRETARÍA GENERAL
+> <small>N. DE E. VEASE IMAGEN EN LA CUARTA SECCION DEL P.O. DE 10 DE JULIO DE 2006, PAG. 27.</small>
 
-ARCHIVO GENERAL MUNICIPAL
+SECRETARÍA GENERAL DEL HONORABLE AYUNTAMIENTO
 
-INSTRUCTIVO PARA LLENADO DE FORMATO DE CATÁLOGO DE DISPOSICIÓN DOCUMENTAL
+DIRECCIÓN DE ARCHIVO MUNICIPAL
 
-1). Fecha de Elaboración. Se anotará la fecha de elaboración.
+Instructivo para llenado de formato del Cuadro General de Clasificación Archivística
 
-2). Subfondo. Se anotará el nombre de la Dependencia u Organismos Descentralizados conforme a la subdivisión de la estructura orgánica del Ayuntamiento.
+Es conveniente tener en consideración los siguientes criterios para el llenado del formato, la letra utilizar debe ser Tahoma 10 puntos sin negrita para todo el documento, en mayúsculas y minúsculas
 
-3). Código. Se anotará el símbolo (numérico simple) después de haber identificado y jerarquizado las categorías de agrupamiento documental.
+1.- Fecha de Elaboración. Se anotará la fecha de elaboración.
 
-.4). Sección. Se anotará el nombre correspondiente a la unidad generadora conforme a la subdivisión del subfondo de acuerdo a su estructura orgánica.
+2.- Fondo: Se anotará el nombre correspondiente conforme lo establece el capítulo vigésimo noveno.
 
-5). Código. Se anotará el número en decimal, después de haber identificado y jerarquizado las categorías de agrupamiento documental.
+3.- Código. Se anotará el símbolo (numérico simple) después de haber identificado y jerarquizado las categorías de agrupamiento documental.
 
-6). Serie. Se anotarán el nombre de los grupos documentales organizados de acuerdo a la unidad orgánica generadora como resultado de la acumulación de la misma actividad y asunto, identificando las atribuciones y funciones especificas que haga la diferencia de una unidad con otra.
+4.- Sección. Se anotará el nombre correspondiente conforme lo establece el capítulo vigésimo noveno.
 
-7). Marcar con una x el valor administrativo (A) que tiene la serie correspondiente.
+5.- Código. Se anotará el número en decimal, después de haber identificado y jerarquizado las categorías de agrupamiento documental.
 
-8). Marcar con una x si la serie documental tiene valor legal o jurídico (L).
+6.- Serie. Se anotará el nombre correspondiente conforme lo establece el capítulo vigésimo noveno.
 
-9). Marcar con una x si la serie documental tiene valor fiscal o contable (F).
+7.- Se anotará el nombre, cargo y firma del titular de la unidad orgánica que transfiere.
 
-10). Se anotará en años según sea el caso el tiempo de permanencia de la serie documental en el archivo de trámite, de acuerdo como lo determine la unidad orgánica generadora en base a sus leyes aplicables (A T).
-
-11). Se anotará en años según sea el caso el tiempo de permanencia de la serie documental en el archivo de concentración, de acuerdo como lo determine la unidad orgánica generadora en base a sus leyes aplicables (AC).
-
-12). Se anotará el número total (T) de años de permanencia de la serie documental en AT y AC.
-
-13) y 14). Marcar con una x si la documentación se encuentra clasificada, según corresponda, de acuerdo como la establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás normas aplicables.
-
-15). Se anotarán aspectos relevantes que no se contemplan en el formato y que sean necesarios para la administración de los documentos del Ayuntamiento. Por ejemplo aquéllos que tienen valor histórico para la ciudad.
-
-16). Se anotará el nombre, cargo y firma del titular de la unidad orgánica que transfiere.
-
-Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Ayuntamiento del Municipio de Puebla.- Periodo 2005-2008.- Secretaría General.
+FORM/INSLLEFORCUAGENCLAARC/0224
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en uso de sus facultades que le confiere el articulo 138 fracción VII de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias, compuestas de cuarenta fojas útiles por su frente, son copia fiel de sus originales, a las que me remito tengo a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, mediante el cual se aprueba (sic) los Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos, al Archivo General Municipal de Puebla, aprobado por mayoría de votos en Sesión Ordinaria de Cabildo de fecha catorce de diciembre de dos mil cinco, mismas que obran en el archivo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de enero del año dos mil seis, para los efectos legales a que haya lugar, quedando registrada con el número 148.- El Secretario del H. Ayuntamiento del Municipio de Puebla.- MOISÉS IGNACIO MIER VELASCO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
