@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-415
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-11-23"
-last_updated: "2005-07-19"
+last_updated: "2006-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-10-07"
 
 ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR, PUBLICADO EN EL D.O.F. DE 10 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de noviembre de 2004.
 
@@ -720,3 +722,15 @@ México, D.F., a 7 de octubre de 2004.- El Procurador Federal del Consumidor, Ca
 D.O.F. 19 DE JULIO DE 2005.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JULIO DE 2006.
+
+PRIMERO.- Este Estatuto Orgánico entrará en vigor a los cinco días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Procuraduría Federal del Consumidor publicado en el Diario Oficial de la Federación en fecha 23 de noviembre de 2004.
+
+TERCERO.- Para el establecimiento e inicio de operaciones de las Subdelegaciones, la Procuraduría se sujetará a la disposición y asignación presupuestal correspondiente.
+
+CUARTO.- Los procedimientos iniciados conforme al Estatuto que se abroga, se sustanciarán y resolverán por las unidades administrativas que resulten competentes en términos de las disposiciones del Reglamento de la Procuraduría Federal del Consumidor, de este Estatuto Orgánico y de las demás que sean aplicables.
+
+El presente Estatuto Orgánico, se expide con la aprobación del C. Secretario de Economía, en términos de lo dispuesto por el artículo 27 fracción X de la Ley Federal de Protección al Consumidor. Dicha aprobación se anexa a este documento.
