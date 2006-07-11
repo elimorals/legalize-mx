@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-40113
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2004-07-19"
+last_updated: "2006-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -62,6 +62,10 @@ Unidades:
 - De Programas de Atención de la Pobreza Urbana.
 
 - De Microrregiones.
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+- De Desarrollo Regional.
 
 - De Planeación y Relaciones Internacionales.
 
@@ -233,7 +237,9 @@ IV. Determinar en el ámbito de su competencia los criterios para definir las zo
 
 Corresponde a la Subsecretaría de Desarrollo Urbano y Ordenación del Territorio:
 
-I. Diseñar, planear, promover, proyectar, normar, coordinar y articular, en lo que compete a la Secretaría, las políticas de ordenación del territorio, de desarrollo urbano y regional, de suelo y reservas territoriales y de atención a la pobreza urbana, así como de prevención y atención de daños en materia de infraestructura urbana, y vivienda causados por fenómenos naturales;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+I. Diseñar, planear, promover, proyectar, normar, coordinar y articular, en lo que compete a la Secretaría, las políticas de ordenación del territorio, de desarrollo urbano, de suelo y reservas territoriales, de desarrollo regional y de atención a la pobreza urbana, así como de prevención y atención de daños en materia de infraestructura urbana y vivienda causados por fenómenos naturales;
 
 II. Elaborar el proyecto de Programa Nacional que corresponde al ámbito de competencia de la Subsecretaría y vigilar su adecuada ejecución y seguimiento;
 
@@ -243,11 +249,15 @@ IV. Determinar en el ámbito de su competencia los criterios para definir las zo
 
 V. Elaborar y difundir las disposiciones normativas de los programas encomendados a la Subsecretaría;
 
-VI. Ejercer las atribuciones que confiere a la Secretaría la Ley General de Asentamientos Humanos y demás disposiciones jurídicas en materia de desarrollo urbano y ordenación del territorio;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+VI. Ejercer las atribuciones que confieren a la Secretaría la Ley General de Asentamientos Humanos y demás disposiciones jurídicas en materia de desarrollo urbano, desarrollo regional y ordenación del territorio;
 
 VII. Promover, apoyar, elaborar y difundir estudios e investigaciones en las materias que constituyen el ámbito de competencia de la Subsecretaría, y
 
-VIII. Participar con la Oficialía Mayor, en la suscripción de los convenios, contratos y demás documentos que impliquen actos de administración y dominio, en el ámbito de desarrollo urbano y ordenación del territorio.
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+VIII. Participar con la Oficialía Mayor, en la suscripción de los convenios, contratos y demás documentos que impliquen actos de administración y dominio, en el ámbito del desarrollo regional y urbano, así como de ordenación del territorio.
 
 ###### Artículo 9.
 
@@ -531,6 +541,38 @@ X. Realizar los diagnósticos, estudios y proyectos que se requieran para apoyar
 
 XI. Informar periódicamente sobre el avance en la ejecución de los programas y acciones de atención a la pobreza urbana.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2006)</small>
+
+Artículo 16 bis. La Unidad de Desarrollo Regional, tendrá las siguientes atribuciones:
+
+I. Proponer las orientaciones generales y estrategias de la política nacional de desarrollo regional, con la participación que corresponda a los gobiernos de las entidades federativas y municipales, así como a los sectores social y privado;
+
+II. Proponer a su superior jerárquico las estrategias, acciones y mecanismos en materia de desarrollo regional para promover la conjunción de esfuerzos, recursos y actividades, de acuerdo con la vocación territorial y las necesidades de diversificación del territorio;
+
+III. Promover el desarrollo integral competitivo, equitativo y sustentable de las regiones;
+
+IV. Promover y articular acciones de coordinación intersecretarial e interinstitucional que fortalezcan el desarrollo y la estructura regional en el país;
+
+V. Colaborar en la consolidación de espacios de coordinación entre los tres órdenes de gobierno para el desarrollo regional, así como facilitar procesos de planeación participativa;
+
+VI. Apoyar la elaboración y actualización de los programas de desarrollo regional y de las entidades federativas cuando los gobiernos de éstas y las autoridades municipales así lo soliciten, así como la instrumentación de acciones identificadas en dichos programas;
+
+VII. Proponer el diseño y difusión de normas, programas, sistemas, procedimientos y disposiciones técnicas que contribuyan a fortalecer la planeación, administración y las capacidades para el desarrollo regional;
+
+VIII. Participar en el diseño, integración y operación de sistemas de información para el desarrollo regional;
+
+IX. Promover obras de infraestructura y equipamiento, así como mecanismos de financiamiento y criterios de priorización de las inversiones para el desarrollo regional, y asesorar a los gobiernos locales interesados en el establecimiento de mejores sistemas de planificación de las inversiones;
+
+X. Facilitar la construcción de consensos para la definición y priorización de propuestas de proyectos regionales, a fin de que sean incorporados en los procesos de programación y presupuestación de los tres órdenes de gobierno, así como proponer esquemas financieros que promuevan la interlocución, planeación y la puesta en marcha de los proyectos;
+
+XI. Propiciar la coordinación con las dependencias y entidades de los tres órdenes de gobierno en la instrumentación de los respectivos programas de desarrollo regional sustentable, en el espacio territorial regional;
+
+XII. Apoyar la realización y difusión de proyectos, investigaciones, diagnósticos, informes y estudios necesarios para formular, perfeccionar o modificar las políticas públicas, programas y acciones de impacto regional;
+
+XIII. Impulsar y promover la participación de la sociedad civil, de sus organizaciones y de las instituciones académicas, así como la cooperación técnica internacional en el ámbito del desarrollo regional, y
+
+XIV. Solicitar a la Dirección General de Programación y Presupuesto las transferencias de fondos que se realicen a favor de los gobiernos de las entidades federativas y municipales, fideicomisos y organizaciones de la sociedad civil, derivados de los convenios firmados por la Subsecretaría, de conformidad con las disposiciones jurídicas y presupuestales aplicables y los programas de desarrollo regional.
+
 ###### Artículo 17.
 
 La Unidad de Microrregiones tendrá las siguientes atribuciones:
@@ -757,13 +799,17 @@ V. Proponer a las áreas responsables, con base en los resultados del seguimient
 
 La Dirección General de Desarrollo Territorial tendrá las siguientes atribuciones:
 
-I. Proponer las orientaciones generales y estrategias de la política nacional de ordenamiento territorial y desarrollo regional, así como de prevención y atención de daños en materia de infraestructura urbana y vivienda causados por fenómenos naturales, con la participación que corresponda a los gobiernos estatales y municipales;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+I. Proponer las orientaciones generales y estrategias de la política nacional de ordenamiento territorial, prevención y atención de daños en materia de infraestructura urbana y vivienda causados por fenómenos naturales, así como colaborar en la materia de desarrollo regional, con la participación que corresponda a los gobiernos de las entidades federativas y de los municipios;
 
 II. Promover y apoyar la elaboración de los programas nacionales, estatales y regionales de ordenamiento territorial y la instrumentación de las acciones señaladas en dichos instrumentos;
 
 III. Participar en la formulación, ejecución, seguimiento y evaluación del Programa Nacional que corresponde al ámbito de competencia de esta Dirección General;
 
-IV. Elaborar y difundir proyectos, investigaciones, diagnósticos y estudios de prospectiva sobre la estructura territorial y el desarrollo sustentable de las regiones, así como las mutaciones y dinámicas territoriales, con el propósito de apoyar los programas y acciones en materia de ordenamiento territorial;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+IV. Elaborar y difundir proyectos, investigaciones, diagnósticos y estudios de prospectiva sobre la estructura territorial y, en coordinación con la Unidad de Desarrollo Regional, del desarrollo sustentable de las regiones, así como respecto de las mutaciones y dinámicas territoriales, con el propósito de apoyar los programas y acciones en materia de ordenamiento territorial;
 
 V. Promover, conjuntamente con las instancias competentes de otras dependencias, la elaboración de los estudios de riesgo requeridos;
 
@@ -771,7 +817,9 @@ VI. Participar con otras dependencias y entidades de la Administración Pública
 
 VII. Promover que los estudios especializados, los mapas de riesgo y los diagnósticos preventivos sean incorporados al marco regulatorio y prospectivo de las ciudades;
 
-VIII. Promover, articular y coordinar acciones intersecretariales tendientes a fortalecer el desarrollo territorial y la estructura regional del país y la gestión integral de riesgos, así como diseñar e instrumentar mecanismos que propicien la congruencia de las acciones del Gobierno Federal en la materia;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+VIII. Promover, articular y coordinar acciones intersecretariales tendientes a fortalecer el desarrollo territorial y la gestión integral de riesgos, así como diseñar e instrumentar mecanismos que propicien la congruencia de las acciones del Gobierno Federal en la materia;
 
 IX. Elaborar y actualizar, con la participación que corresponda a los gobiernos estatales y municipales, los programas de ordenamiento territorial de las franjas fronterizas y de las mesorregiones del país, así como promover la ejecución de acciones identificadas en dichos instrumentos;
 
@@ -805,19 +853,27 @@ XXII. Fomentar la participación de los tres órdenes de gobierno y de los secto
 
 La Dirección General de Desarrollo Urbano y Suelo tendrá las siguientes atribuciones:
 
-I. Proponer las orientaciones generales y estrategias de las políticas de desarrollo urbano y regional y de suelo y reservas territoriales, con la participación que corresponda a las entidades federativas y municipios;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
 
-II. Diseñar, proponer y difundir normas, sistemas, procedimientos y disposiciones técnicas que contribuyan a fortalecer la planeación y administración urbana y regional, así como a satisfacer las necesidades de suelo para el desarrollo urbano y la vivienda;
+I. Proponer las orientaciones generales y estrategias de las políticas de desarrollo urbano, de suelo y reservas territoriales, con la participación que corresponda a las entidades federativas y municipios;
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+II. Diseñar, proponer y difundir normas, sistemas, procedimientos y disposiciones técnicas que contribuyan a fortalecer la planeación y administración urbana y de suelo, así como a satisfacer las necesidades de suelo para el desarrollo urbano y la vivienda;
 
 III. Participar en la formulación, ejecución, seguimiento y evaluación del Programa Nacional que corresponde al ámbito de competencia de esta Dirección General;
 
-IV. Apoyar y asesorar a los gobiernos de las entidades federativas y municipios, cuando lo soliciten, en el diseño de mecanismos de planeación urbana y regional y la elaboración de planes o programas de desarrollo urbano, de centros de población y de zonas conurbadas; la modernización de los catastros y registros públicos de la propiedad; y en la planeación e instrumentación de acciones en materia de suelo y reservas territoriales, incluido el diseño de instrumentos para ampliar la oferta de suelo con vocación para el desarrollo urbano y la vivienda;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+IV. Apoyar y asesorar a los gobiernos de las entidades federativas y municipios, cuando lo soliciten, en el diseño de mecanismos de planeación urbana y en la elaboración de planes o programas de desarrollo urbano, de centros de población y de zonas conurbadas; en la modernización de los catastros y registros públicos de la propiedad, y en la planeación e instrumentación de acciones en materia de suelo y reservas territoriales, incluido el diseño de instrumentos para ampliar la oferta de suelo con vocación para el desarrollo urbano y la vivienda;
 
 V. Llevar a cabo el inventario de suelo urbano apto para el desarrollo urbano y la vivienda;
 
 VI. Investigar, actualizar y documentar el estado que guarda el desarrollo de las ciudades y zonas metropolitanas del país en materia demográfica, de planeación urbana y regional, de suelo, vivienda, servicios y administración urbanos, de competitividad económica, de gobernabilidad urbana y de cohesión social y cultural, así como formular las sugerencias y recomendaciones que se derivan del desempeño de estas tareas a las instancias competentes de otras dependencias de la Administración Pública Federal y de los gobiernos de las entidades federativas y de los municipios;
 
-VII. Promover proyectos de infraestructura, equipamiento y servicios y la coordinación de acciones e inversiones para propiciar el desarrollo urbano y regional de zonas conurbadas y metropolitanas y de los sistemas de centros de población, con la participación de las entidades federativas y municipios y de los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+VII. Promover conjuntamente con la Unidad de Desarrollo Regional proyectos de infraestructura, equipamiento y servicios, así como la coordinación de acciones e inversiones para propiciar el desarrollo urbano y regional de zonas conurbadas y metropolitanas y de los sistemas de centros de población, con la participación de las entidades federativas y municipios y de los sectores social y privado;
 
 VIII. Inducir el desarrollo urbano ordenado a través de la incorporación de suelo y la constitución de reservas territoriales;
 
@@ -833,7 +889,9 @@ XIII. Emitir dictámenes de uso de suelo a inmuebles de propiedad federal;
 
 XIV. Coordinar con estados y municipios la promoción y el cumplimiento de las políticas de desarrollo urbano y de suelo y reservas territoriales, formulando y suscribiendo para tal efecto convenios de coordinación con los gobiernos de las entidades federativas y los municipios;
 
-XV. Promover la coordinación con las dependencias y entidades de la Administración Pública Federal para que, en la instrumentación de los respectivos programas a su cargo en ciudades y regiones, se promueva el desarrollo urbano sustentable; se cumplan las disposiciones en la materia; y se fomenten e induzcan las mejores prácticas de planeación y administración urbanas;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2006)</small>
+
+XV. Promover la coordinación con las dependencias y entidades de la Administración Pública Federal para que, en la instrumentación de los respectivos programas a su cargo en las ciudades, se promueva el desarrollo urbano sustentable, se cumplan las disposiciones en la materia, y se fomenten e induzcan las mejores prácticas de planeación y administración urbanas;
 
 XVI. Fortalecer la coordinación con las dependencias y entidades federal y local que administran suelo y reservas territoriales para promover el cumplimiento de los planes de desarrollo urbano, así como de las políticas, normas, acuerdos, convenios y disposiciones aplicables, y
 
@@ -1324,3 +1382,17 @@ QUINTO.- Las menciones que en otras disposiciones jurídicas se hagan al Institu
 SEXTO.- Se abrogan los Acuerdos por los que se delegan en los titulares de las delegaciones de la Secretaría de Desarrollo Social en las entidades federativas, las atribuciones y facultades que se indican, así como por el que se Adscriben Orgánicamente las Unidades Administrativas de la Secretaría de Desarrollo Social, publicados en el Diario Oficial de la Federación el 31 de octubre de 2001, el 22 de agosto de 2002 y el 25 de septiembre de 2001, respectivamente.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- La Secretaria de Desarrollo Social, Josefina Eugenia Vázquez Mota.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE JULIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite en las unidades administrativas cuyas atribuciones se reforman, serán atendidos y resueltos por las unidades administrativas competentes conforme al presente ordenamiento.
+
+TERCERO.- El personal y los recursos materiales y financieros que fueren necesarios para el ejercicio de las atribuciones de la Unidad de Desarrollo Regional, pasarán a ésta, de acuerdo con la asignación que haga el Oficial Mayor.
+
+CUARTO.- Las modificaciones que se lleven a cabo por este Decreto a la estructura orgánica de la Secretaría de Desarrollo Social deberán realizarse mediante movimientos compensados, sin que representen incremento alguno en el presupuesto regularizable de servicios personales aprobado para dicha dependencia en el ejercicio fiscal del año en curso y subsecuentes.
+
+QUINTO.- Se derogan todas aquellas disposiciones administrativas que contravengan lo establecido en el presente Decreto.
