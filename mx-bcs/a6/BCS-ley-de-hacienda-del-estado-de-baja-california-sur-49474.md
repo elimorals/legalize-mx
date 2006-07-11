@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2006-06-20"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2006.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -385,9 +385,15 @@ II. Instituciones de asistencia y beneficencia privadas.
 
 Para los efectos de la Fracción II de este artículo, se consideran instituciones de asistencia y beneficencia privadas, aquéllas que cuenten con constancia que las acredite como tales, expedida por la autoridad estatal competente y siempre que no se trate de organismos descentralizados de la administración pública federal, estatal o municipal, ni reciban subsidios, donativos o recursos de alguna otra forma provenientes de la administración pública del Estado o de sus municipios.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+
 ###### Artículo 40.
 
-El 78% del ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a obras de infraestructura social, el que será administrado por un Fideicomiso Público. El 22% restante será distribuido entre los municipios del Estado conforme a los porcentajes previstos en la Ley de Coordinación Fiscal del Estado de Baja California Sur. Los municipios deberán destinar estos recursos a obras de infraestructura social.
+Los ingresos recaudados por el impuesto sobre nóminas se destinarán íntegramente a la realización de obras de infraestructura social y su distribución se realizará de la manera siguiente:
+
+I. El 62.4% de estos recursos serán aportados mensualmente por el Gobierno del Estado al Fideicomiso de Administración, Inversión y Fuente de Pago que se tiene constituido para administrar el impuesto sobre nóminas;
+
+II. El 37.6% restante se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. Los Municipios deberán aportar mensualmente estos recursos al patrimonio de los fideicomisos públicos municipales que se constituyan para la realización de obras de infraestructura social.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
@@ -1603,7 +1609,7 @@ III. Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicana
 
 IV. Otras Instituciones de Seguridad Social que presten servicios en las diversas entidades federativas del país.
 
-###### Artículo 137
+###### Artículo 137.
 
 Se establece a favor de los pensionados, jubilados y adultos mayores de 60 años, una reducción del 50% en el pago de las contribuciones que a continuación se indican:
 
@@ -1666,3 +1672,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El impuesto sobre nómina causado durante el mes de febrero de 2006, se causará a una tasa del 2% y será a partir del 1 de marzo de 2006, que se causará a la tasa de 2.5%.
 
 TERCERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 11 DE JULIO DE 2006.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
