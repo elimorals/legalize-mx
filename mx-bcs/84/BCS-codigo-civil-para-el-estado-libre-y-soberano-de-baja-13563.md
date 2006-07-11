@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2005-12-15"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -7333,6 +7333,12 @@ El notario público que hubiere autorizado el testamento, debe dar aviso a los i
 
 Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
 
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2006)</small>
+
+###### Artículo 1414 Bis.
+
+En todos los casos en que se otorgue un testamento conforme al presente Código, el Notario Público que de fe o la autoridad competente que lo reciba, deberá formular un Aviso de testamento por vía electrónica con los datos conducentes señalados en la legislación aplicable, al Archivo General de Notarias y por conducto de este, al Registro Nacional de Testamentos.
+
 ###### Artículo 1415.
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez.
@@ -13239,7 +13245,7 @@ La renuncia se considera maliciosa cuando el socio que la hace se propone aprove
 
 ###### Artículo 2638.
 
-Se dice extemporánea la renuncia, si al hacerla, las cosas no se hayan en su estado íntegro o, si la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
+Se dice extemporánea la renuncia, si al hacerla, las cosas no se hayan en su estado íntegro ó, si la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
 
 ###### Artículo 2639.
 
@@ -15258,3 +15264,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 15 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
