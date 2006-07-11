@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "2003-05-10"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -53,7 +53,11 @@ El Notario tiene a su cargo, en los casos en que no estén encomendadas expresa 
 
 I. Dar formalidad a los actos jurídicos que lo requieran o soliciten las partes interesadas;
 
-II. Dar fe de los hechos o actos que le consten, a requerimiento de la parte interesada.
+II. Dar fe de los hechos o actos que le consten, a requerimiento de la parte interesada;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2006)</small>
+
+III. Dar aviso al Archivo General de Notarías y por conducto de éste, al Registro Nacional de Testamentos, de los testamentos que se otorguen ante ellos.
 
 ###### ARTICULO 3o.
 
@@ -125,6 +129,12 @@ VI. Solicitar ante el Ejecutivo del Estado, por conducto de la Secretaría Gener
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
+ARTICULO 11 C. A quien realice la solicitud de inscripción de aspirante al ejercicio del notariado y le faltare cumplir con alguno de los requisitos señalados en el artículo 12 de esta Ley, la autoridad le otorgará un término fatal de diez días para que cumpla la prevención respectiva y de no hacerlo en él término señalado se tendrá por no interpuesta la solicitud.
+
+En este caso, no podrá presentarse nueva solicitud hasta que transcurra un año a partir de la fecha de la solicitud considerada no interpuesta.
+
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+
 ARTICULO 11 B. El que pretenda ingresar al ejercicio del Notariado en calidad de aspirante, deberá presentar solicitud al Gobernador del Estado acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Gobernador del Estado el estudio de la documentación del solicitante y aprobada que fuere, se inscribirá al solicitante en el Registro único de Aspirantes al Notariado. Para tal efecto el Gobernador del Estado llevará un Libro Oficial de Registros de Aspirantes del ejercicio del Notariado, en donde hará los registros correspondiente (sic) en orden de aparición y expedirá la constancia de registro correspondiente en un término no mayor de diez días después de presentada la solicitud.
 
 Dicha constancia acreditará a su poseedor como aspirante al Ejercicio del Notariado, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
@@ -142,12 +152,6 @@ III. El requisito señalado en la Fracción Tercera con certificado médico de a
 IV. La residencia que se refiere la fracción IV, se acreditará con copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o cualquier otro documento idóneo.
 
 V. El requisito señalado en la fracción V, con certificado de no antecedentes penales.
-
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
-
-ARTICULO 11 C. A quien realice la solicitud de inscripción de aspirante al ejercicio del notariado y le faltare cumplir con alguno de los requisitos señalados en el artículo 12 de esta Ley, la autoridad le otorgará un término fatal de diez días para que cumpla la prevención respectiva y de no hacerlo en él término señalado se tendrá por no interpuesta la solicitud.
-
-En este caso, no podrá presentarse nueva solicitud hasta que transcurra un año a partir de la fecha de la solicitud considerada no interpuesta.
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -1081,23 +1085,63 @@ El titular del archivo general de Notarías usará un sello igual al de los nota
 
 El titular del archivo general de Notarías será personalmente responsable de la custodia y conservación de los protocolos, sellos y demás libros, papeles y documentos a su cargo.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 11 DE JULIO DE 2006)</small>
 
-### CAPITULO SEGUNDO
+### CAPÍTULO SEGUNDO. Del aviso de Testamento
 
-De la Asociación de Notarios.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 121.
 
-(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
+Cuando ante un Notario Público se otorgue un testamento, éste dará aviso al Archivo General de Notarías y por conducto de éste, al Registro Nacional de Testamentos, proporcionando los siguientes datos:
+
+a) Nombre completo del testador (apellido paterno, materno y nombre);
+
+b) Nacionalidad;
+
+c) Fecha de Nacimiento;
+
+d) Lugar de Nacimiento;
+
+e) CURP;
+
+f) Estado Civil;
+
+g) Nombre completo del Padre (apellido paterno, materno y nombre);
+
+h) Nombre completo de la Madre (apellido paterno, materno y nombre);
+
+i) Tipo de testamento;
+
+j) Número de escritura;
+
+k) Tipo de Notario (titular o adscrito);
+
+l) Volumen o tomo;
+
+m) Fecha de la escritura;
+
+n) Si se establecieron disposiciones de contenido irrevocable;
+
+o) Lugar de otorgamiento;
+
+p) Nombre completo del Notario (apellido paterno, materno y nombre);
+
+q) Número de notaría; y
+
+r) Municipio de adscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 122.
 
-(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
+El aviso al que se refiere el artículo anterior deberá efectuarse dentro de los diez días hábiles siguientes a aquel en que se otorgó la voluntad testamentaria, debiendo el Archivo General de Notarias dar acuse de recibo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 123.
 
-(DEROGADO, B.O. 6 DE FEBRERO DE 2002)
+Cuando se tramita una sucesión ante Notario Publico, se deberá recabar la información de existencia o inexistencia de alguna disposición testamentaria mediante la búsqueda local y nacional.
 
 ###### ARTICULO 124.
 
@@ -1302,3 +1346,7 @@ B.O. 10 DE MAYO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
