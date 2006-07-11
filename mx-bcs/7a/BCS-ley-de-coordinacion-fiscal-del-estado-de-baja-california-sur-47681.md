@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2005-12-20"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -167,17 +167,19 @@ No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones q
 
 #### SECCIÓN II. DE LAS PARTICIPACIONES ESTATALES
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+
 ###### Artículo 13.
 
 Las fórmulas, metodologías y montos que se utilicen y determinen para los fondos señalados en el artículo 11 de esta Ley, se publicarán en el Boletín Oficial a más tardar el 31 de enero del ejercicio fiscal que corresponda.
 
 ###### Artículo 14.
 
-De las cantidades que el Estado perciba por concepto del impuesto sobre nómina, conforme al artículo 39 de la Ley de Hacienda del Estado, corresponderá a los Municipios el 22%, mismo que a su vez se distribuirá en los porcentajes establecidos para la distribución del Fondo de Fomento Municipal, de conformidad a lo previsto en el Artículo 6 de esta Ley.
+De las cantidades que el Estado perciba por concepto del Impuesto sobre nómina, conforme al artículo 40 de la ley de Hacienda del Estado, corresponderá a los Municipios el 37.6%, mismo que a su vez se distribuirá en los porcentajes establecidos para la distribución del Fondo de Fomento Municipal, de conformidad a lo previsto en el Artículo 6 de esta Ley.
 
 Los municipios deberán destinar estos recursos exclusivamente a obras de infraestructura social.
 
-En la aplicación de estos recursos, los Municipios realizarán los registros específicos y los mantendrán actualizados respecto de los montos aplicados por obra. La documentación comprobatoria deberá ser conservada por los municipios por 10 años como mínimo a partir de que haya concluido la obra, debiendo ser presentada, cuando sea requerida por la Secretaría, la Contraloría General del Estado o la Contaduría Mayor de Hacienda del Congreso del Estado, conforme a las atribuciones que les confieren las disposiciones legales aplicables.
+En la aplicación de estos recursos, los Municipios realizarán los registros específicos y los mantendrán actualizados respecto de los montos aplicados por obra. La documentación comprobatoria deberá ser conservada por los municipios por 10 años como mínimo a partir de que haya concluido la obra, debiendo ser presentada, cuando sea requerida por la Secretaría, la Contraloría General del Estado, o la Contaduría Mayor de Hacienda del Congreso del Estado, conforme a las atribuciones que le confieren las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -185,7 +187,7 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenac
 
 ###### Artículo 16.
 
-De las cantidades que el Estado perciba por concepto del Impuesto Cedular a los Ingresos derivados de la Enajenación de Bienes Inmuebles, corresponderá a los Municipios el 100% de lo que en cada uno de ellos efectivamente se recaude.
+(DEROGADO, B.O. 11 DE JULIO DE 2006)
 
 ### CAPÍTULO TERCERO. DEL CÁLCULO Y LIQUIDACIÓN DE LAS PARTICIPACIONES
 
@@ -195,9 +197,11 @@ El Estado, por conducto de la Secretaría, deberá publicar en el Boletín Ofici
 
 Asimismo, deberá publicar trimestralmente en el Boletín Oficial, el importe de las Participaciones entregadas a los Municipios, de conformidad con lo establecido en el último párrafo del Artículo 6 de la Ley de Coordinación.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+
 ###### Artículo 18.
 
-El Estado, por conducto de la Secretaría, deberá publicar anualmente, mediante Decreto en el Boletín Oficial, los factores de participaciones que resulten a partir de la aplicación de las variables establecidas en los artículos 5, 6, 8, 9, 10, 14, 15 y 16 de la presente Ley, para cada uno de los Municipios. En tanto dichos factores no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
+El Estado, por conducto de la Secretaría, deberá publicar anualmente, mediante Decreto en el Boletín Oficial, los factores de participaciones que resulten a partir de la aplicación de las variables establecidas en los artículos 5, 6, 8, 9, 10, 14 y 15 de la presente Ley, para cada uno de los Municipios. En tanto dichos factores no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
 
 ###### Artículo 19.
 
@@ -292,3 +296,9 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 11 DE JULIO DE 2006.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
