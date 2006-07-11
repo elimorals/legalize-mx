@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2005-12-15"
+last_updated: "2006-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1073,7 +1073,9 @@ XV.- Incesto, cometido por ascendiente consanguíneo conociendo el parentesco, d
 
 XVI.- Ultraje a la moral pública, de conformidad a lo establecido en el artículo 213 del código penal;
 
-XVII.- Corrupción y explotación de menores e incapaces, de conformidad a lo establecido en el segundo y tercer párrafo del artículo 214 del código penal;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2006)</small>
+
+XVII.- Corrupción y explotación de menores e incapaces, de conformidad a lo establecido en el segundo, tercero y cuarto párrafo del artículo 214 del código penal;
 
 XVIII.- Lenocinio de menores, de conformidad a lo establecido en el segundo párrafo del artículo 217 del código penal;
 
@@ -1125,9 +1127,11 @@ El monto y la forma de caución que se fije para garantizar la buena conducta pr
 
 El monto de la reparación de daños y perjuicios no está sometido al principio de asequibilidad, por tratarse de una garantía constitucional del ofendido, y deberá garantizarse íntegramente para gozar del beneficio.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+
 ###### ARTÍCULO 154.
 
-La caución para gozar de la libertad provisional puede otorgarse mediante depósito en efectivo, hipoteca, fideicomiso y fianza personal o institucional, quedando a elección del inculpado el tipo de caución, debiendo mencionarlo cuando solicite el beneficio. En caso de que el inculpado no manifieste la naturaleza de la caución, el juez fijará las cantidades que correspondan a cada una de sus formas, atendiendo a su diverso grado de seguridad y a la facilidad de su ejecución.
+La caución para gozar de la libertad provisional puede otorgarse mediante depósito en efectivo, hipoteca y fianza personal o institucional, quedando a elección del inculpado el tipo de caución, debiendo mencionarlo cuando solicite el beneficio. En cado de que el inculpado no manifieste la naturaleza de la caución, el juez fijará las cantidades que correspondan a cada una de sus formas, atendiendo a su diverso grado de seguridad y a la facilidad de su ejecución.
 
 ###### ARTÍCULO 155.
 
@@ -1897,6 +1901,10 @@ Cuando el ofendido sea menor de edad o mayor con discapacidad mental, la querell
 
 Si surgen discrepancias en quienes ejerzan la patria potestad, respecto de la presentación de la querella o el otorgamiento del perdón, el ministerio público, resolverá lo conducente.
 
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2006)</small>
+
+Tratándose de personas lesionadas en forma culposa que se encuentren imposibilitadas física o mentalmente para querellarse, podrán hacerlo en su representación el cónyuge, concubino o concubina, ascendientes, descendientes o parientes colaterales hasta el cuarto grado, sin que requieran de poder o mandato concreto.
+
 ###### ARTÍCULO 286.
 
 No se admitirá la intervención de apoderado jurídico para la presentación de denuncias. Las querellas formuladas en representación de personas morales, se admitirán cuando se trate del presidente del consejo de administración o de cualquier otro de sus miembros con facultades para representar a la empresa. Cuando se trate de apoderados, es necesario que tengan poder general para pleitos y cobranzas, con cláusula especial para formular querellas, o mandato específico para este efecto.
@@ -2447,11 +2455,15 @@ Transcurrido o renunciado el plazo señalado para el desahogo de los medios de p
 
 En el mismo auto de formal prisión o de sujeción a proceso, el juez ordenará de oficio la apertura del procedimiento sumario, en los siguientes casos:
 
-I. Cuando se trate de delitos que tengan prevista pena privativa o no privativa de libertad; y
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2006)</small>
+
+I. Cuando se trate de delitos que tengan prevista pena no privativa de libertad; y
 
 II. Cuando se trate de delito flagrante o exista confesión del acusado, rendida ante las autoridades y con las condiciones previstas en la ley, cualquiera que sea la pena prevista para el delito.
 
-Cuando se decrete el procedimiento sumario, cualquiera de las partes podrá oponerse dentro de los tres días de notificado el auto respectivo, solicitando que se siga el procedimiento ordinario.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+
+Cuando se decrete el procedimiento sumario, cualquiera de las partes podrá oponerse dentro de los tres días de notificado el auto respectivo, solicitando que se siga el procedimiento ordinario; tratándose del Ministerio Público, dicha oposición deberá ser debidamente razonada.
 
 ###### ARTÍCULO 382.
 
@@ -3476,6 +3488,12 @@ B.O. 19 DE SEPTIEMBRE DE 2005.
 ÚNICO.- El presente decreto entrará en vigor previa publicación en el Boletín Oficial del Gobierno del Estado, el día en que entren en vigor los decretos 1525 y 1526, que contienen los Códigos Penal y de Procedimientos Penales para el Estado de Baja California Sur, publicados en el Boletín Oficial del Gobierno del Estado en fecha 20 de marzo del año en curso.
 
 B.O. 15 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
 
 ###### ARTÍCULO ÚNICO.
 
