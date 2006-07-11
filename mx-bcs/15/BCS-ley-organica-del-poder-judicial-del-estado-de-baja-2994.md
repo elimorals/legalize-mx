@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2004-11-30"
+last_updated: "2006-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -105,23 +105,19 @@ V. El de Los Cabos, con la extensión territorial del Municipio del mismo nombre
 
 El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y solo podrá cambiarla cuando así lo decrete el H. Congreso del Estado; estará constituido por siete Magistrados que durarán en su encargo seis años.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 6o.
 
-Para ser Magistrado se requiere:
+Para los efectos de la fracción VI del artículo 91 de la Constitución Política del Estado de Baja California Sur, las personas que sean propuestas por el Gobernador del Estado para ocupar el cargo de Magistrado, deberán acreditar examen de evaluación profesional, de conformidad con las siguientes prevenciones:
 
-I. Ser Ciudadano Sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles;
+I. El examen se dividirá en tres partes o secciones y por lo tanto considerará tres vertientes. La primera será relativa al conocimiento técnico jurídico, la segunda se referirá a la función jurisdiccional y responsabilidad de los funcionarios judiciales y como servidores públicos, y la tercera abordará lo relativo a la evaluación psicométrica. El número de reactivos o preguntas será determinado por los encargados de realizar dicho examen;
 
-II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+II. La elaboración, aplicación y calificación del examen relativo a la primera y segunda vertiente, con el apoyo del Instituto de Estudios Judiciales del Tribunal Superior de Justicia del Estado, será responsabilidad de la Comisión de Evaluación que al efecto se conforme, misma que estará integrada por tres Magistrados del Tribunal Superior de Justicia del Estado, un representante del Poder Ejecutivo designado por el Gobernador del Estado y por un Diputado representante del Poder Legislativo;
 
-III. Poseer el día de la designación, Título Profesional de Licenciado en Derecho, con antigüedad mínima de diez años, expedido por la autoridad o corporación legalmente facultada para ello;
+III. La parte correspondiente a la tercera vertiente relativa al examen psicométrico, esta será aplicada por un perito en la materia, designado por a propia Comisión de Evaluación; y
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, se inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
-
-VI. No haber sido Secretario de Despacho, Procurador General de Justicia ni Diputado Local, durante el año previo al día de su nombramiento; y
-
-VII. Los Magistrados del Tribunal Superior de Justicia serán nombrados preferentemente de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la Profesión Jurídica.
+IV. Una vez concluida la evaluación, los integrantes de la Comisión de Evaluación, emitirán su opinión debidamente justificada con la documentación correspondiente y presentarán las propuestas al Gobernador del Estado para que proceda conforme a sus atribuciones.
 
 ###### ARTICULO 7o.
 
@@ -2239,7 +2235,7 @@ Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por t
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE SU INTEGRACION
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -2277,7 +2273,7 @@ X. Las demás que le señale esta Ley, la Ley Electoral del Estado de Baja Calif
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
-### CAPITULO SEGUNDO. DE SU INTEGRACION
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -2604,3 +2600,7 @@ La Ley de Procedimiento Administrativo, deberá emitirse por el H. Congreso del 
 B.O. 30 DE NOVIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
