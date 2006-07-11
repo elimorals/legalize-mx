@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2005-11-09"
+last_updated: "2006-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1763,6 +1763,10 @@ Al que propicie para si o para otro, obligue, procure o facilite la corrupción 
 
 Si se produce la corrupción del menor o del discapacitado o se le explota por medio del delito, la penalidad aplicable será de cinco a once años de prisión y hasta cien días multa.
 
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2006)</small>
+
+Cuando la corrupción de un menor de dieciocho años o de una persona que no tenga la capacidad para comprender el significado de su conducta, se de como resultado de la venta, regalo, suministro, préstamo o se proporcione bajo cualquier aspecto de manera reiterada, cualquier tipo de drogas o sustancias psicotrópicas que tiendan a la farmacodependencia, se sancionará con una penalidad de seis a doce años de prisión y hasta trescientos días de multa.
+
 Cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o por adopción, se aumentará un tercio del mínimo y del máximo previsto en el artículo anterior y perderá, además, el derecho a la patria potestad.
 
 ### CAPÍTULO III. LENOCINIO
@@ -2880,3 +2884,9 @@ UNICO.- El presente decreto entrará en vigor previa publicación en el Boletín
 B.O. 9 DE NOVIEMBRE DE 2005.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el boletín oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
