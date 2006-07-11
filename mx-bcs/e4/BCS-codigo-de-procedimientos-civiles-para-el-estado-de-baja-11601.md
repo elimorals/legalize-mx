@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2002-01-07"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -4615,6 +4615,54 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 Luego que el tribunal tenga conocimiento de la muerte de una persona, dictará a petición del representante del Ministerio Público y con audiencia de éste, mientras no se presenten los interesados y sin perjuicio de lo dispuesto en el artículo 208 del Código Civil, las providencias necesarias para asegurar los bienes, y si el difunto no era conocido o estaba de transeúnte en el lugar o si hay menores interesados o peligro de que se oculten o dilapiden los bienes.
 
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2006)</small>
+
+El Juez o el Notario que inicien un Juicio Sucesorio, de oficio recabarán del Archivo General de Notarias y del Registro Público del lugar, la información relativa al registrado o algún testamento de la persona cuya sucesión se trata. De igual forma, por conducto del Archivo General de Notarias en el Estado, recabará información del Registro Nacional de Testamentos sobre algún testamento de la persona cuya sucesión se trata. La omisión de éste requisito le hará responsable por los daños y perjuicios que se ocasionen.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2006)</small>
+
+El responsable del Archivo General de Notarias en el Estado, para recabar la información que le sea solicitada, podrá hacer uso de los medios físicos o electrónicos con que disponga y una vez que la tenga la hará saber al Juez o Notario que la solicitó.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2006)</small>
+
+En caso de que exista registrado algún testamento de la persona cuya sucesión se trata, el responsable del Archivo General de Notarias en el Estado, deberá recabar y a su ves (sic) informar los siguientes datos:
+
+a) Nombre completo del testador (apellido paterno, materno y nombre);
+
+b) Nacionalidad;
+
+c) Fecha de Nacimiento;
+
+d) Lugar de Nacimiento;
+
+e) CURP;
+
+f) Estado Civil;
+
+g) Nombre completo del Padre (apellido paterno, materno y nombre);
+
+h) Nombre completo de la Madre (apellido paterno, materno y nombre);
+
+i) Tipo de testamento;
+
+j) Número de escritura;
+
+k) Tipo de Notario (titular o adscrito);
+
+l) Volumen o tomo;
+
+m) Fecha de la escritura;
+
+n) Si se establecieron disposiciones de contenido irrevocable;
+
+o) Lugar de otorgamiento;
+
+p) Nombre completo del Notario (apellido paterno, materno y nombre);
+
+q) Número de notaría; y
+
+r) Municipio de adscripción.
+
 ###### Artículo 751.
 
 Las medidas urgentes para la conservación de los bienes, que el juez debe decretar en el caso del artículo anterior, son las siguientes:
@@ -6188,3 +6236,7 @@ B.O. 7 DE ENERO DE 2002.
 ###### ARTICULO UNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
