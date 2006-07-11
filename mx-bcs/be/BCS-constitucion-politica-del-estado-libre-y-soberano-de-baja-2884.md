@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2006-06-20"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1094,6 +1094,10 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 > <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local durante el año previo el día de la designación;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2006)</small>
+
+VI.- Acreditar examen de evaluación profesional en los términos que establezca la ley de la materia.
 
 > <small>[N. DE E. ANTES FRACCIÓN V, B.O. 6 DE FEBRERO DE 2002]</small>
 
@@ -2462,3 +2466,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE JUNIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
