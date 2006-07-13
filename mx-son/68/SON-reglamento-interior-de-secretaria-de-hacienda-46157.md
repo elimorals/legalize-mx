@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-secretaria-de-hacienda-46157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-18"
-last_updated: "2005-08-18"
+last_updated: "2006-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 18 de agosto de 2005.
 
@@ -44,6 +44,8 @@ Cuando en este Reglamento se haga referencia a la Secretaría y al Secretario, s
 ###### ARTÍCULO 3°.
 
 Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
 
 I.- Unidades Administrativas:
 
@@ -97,7 +99,9 @@ Dirección General de Visitas Domiciliarias.
 
 Dirección de Procedimientos Legales.
 
-Dirección General de Coordinación Hacendaria.
+Dirección General de Coordinación Hacendaría.
+
+Dirección General de Asuntos legales y Especiales.
 
 Dirección de Consultas y Estudios Jurídicos.
 
@@ -1709,6 +1713,40 @@ XV. Identificar y proponer, para aprobación superior, alternativas de política
 
 XVI. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2006)</small>
+
+ARTÍCULO 37 BIS.- La Dirección General de Asuntos Legales y Especiales estará adscrita a la Procuraduría Fiscal y le corresponden las siguientes atribuciones:
+
+I.- Acordar con el Procurador Fiscal, en materia de ingresos estatales, los términos de los informes previos y con justificación en relación con los juicios de amparo interpuestos contra leyes, reglamentos y otras disposiciones de carácter general, de los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad, así como contra actos de las autoridades de la Secretaría;
+
+II.- Actuar en los juicios de amparo de su competencia, con las facultades de delegados en las audiencias y proponer la designación de abogados hacendarios con el carácter de delegados en las audiencias y dirigirlos en su actuación en los juicios respectivos;
+
+III.- Requerir y vigilar, en ámbito de su competencia, el debido cumplimiento por parte de las autoridades hacendarias a los amparos y, en su caso, proponer los términos en que se deberá intervenir en los incidentes de inejecución de sentencia y de repetición de actos reclamados que promuevan los particulares;
+
+IV.- Formular las contestaciones de los escritos de los particulares en que ejerzan el derecho de petición, en asuntos materia de su competencia;
+
+V.- Proponer, en los asuntos materia de su competencia, por instrucciones del Procurador Fiscal, a las autoridades dependientes de la Secretaría, la conveniencia de revocar las resoluciones emitidas, cuando así convenga a los intereses de la Secretaría; proponer los términos de los alegatos que deban formularse en audiencias constitucionales e incidentales, los que deban rendirse en los juicios de amparo directo, en las controversias constitucionales y acciones de inconstitucionalidad, así como los demás juicios cuyo conocimiento sea de su competencia;
+
+VI.- Someter a consideración del Procurador Fiscal la no formulación de alegatos en los asuntos de su competencia;
+
+VII.- Formular las denuncias o querellas ante el Ministerio Público por la presunta comisión de delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, así como elaborar los informes dirigidos a la Secretaría de la Contrataría General sobre los hechos que pudieran constituir responsabilidades administrativas, allegándose los elementos probatorios del caso, excepto del Secretario y Subsecretarios o equivalentes jerárquicos de la Secretaría en los términos del primer párrafo del artículo 146 de la Constitución Política del Estado, así como formular las denuncias o querellas ante el Ministerio Público competente sobre los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés;
+
+VIII.- Tramitar el recurso administrativo de revocación establecido en el Código Fiscal del Estado, que interpongan los contribuyentes en contra de los actos o resoluciones emitidos por la Secretaría o sus unidades administrativas;
+
+IX.- Participar con la Coordinación Ejecutiva de Verificación al Comercio Exterior en los grupos de trabajos que se creen para lograr la adecuada interpretación y aplicación de la legislación aduanera y proponer medidas para el mejoramiento de la colaboración administrativa en materia de comercio exterior;
+
+X.- Intervenir, por instrucciones del Procurador Fiscal, en las investigaciones o procedimientos ante la Comisión Estatal de Derechos Humanos, y ante otras autoridades competentes, en que sea parte la Secretaría o sus unidades administrativas, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tiene interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento de la Unidad de Seguimiento y Supervisión Operativa de la Secretaría, los hechos respectivos;
+
+XI.- Realizar el seguimiento de todas y cada una de las controversias en materia de derechos humanos promovidos en contra de la Secretaría o sus unidades administrativas, así como colaborar con la Secretaría de la Contraloría General en los asuntos que así se considere;
+
+XII.- Tramitar las declaratorias de prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales estatales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter estatal;
+
+XIII.- Vigilar la debida constitución de la garantía del interés fiscal en los procedimientos y juicios de la materia de su competencia;
+
+XIV.- Certificar hechos y expedir certificaciones de las constancias de los expedientes relativos a asuntos de su competencia; y
+
+XV.- Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+
 ###### ARTÍCULO 38.
 
 La Dirección de Consultas y Estudios Jurídicos, estará adscrita a la Procuraduría Fiscal y le corresponden las siguientes atribuciones:
@@ -1717,7 +1755,7 @@ I. Realizar estudios y formular los anteproyectos de iniciativas de leyes o decr
 
 II. Elaborar las solicitudes que se dirijan a las unidades administrativas de la Secretaría respecto a las proposiciones de reforma a las disposiciones legales en las materias de sus respectivas competencias;
 
-III. Elaborar las declaratorias de prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales federales y estatales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y accesorios;
+III.- (DEROGADA, B.O. 13 DE JULIO DE 2006)
 
 IV. Formular las resoluciones sobre las consultas que los contribuyentes, unidades administrativas de la Secretaría u otras autoridades, planteen en situaciones reales o concretas en materia de ingresos federales coordinados y estatales;
 
@@ -1749,23 +1787,37 @@ XVI. Las demás que le señale el superior jerárquico o le confieran otras disp
 
 La Dirección de lo Contencioso y Recursos de Revocación estará adscrita a la Procuraduría Fiscal y le corresponden las siguientes atribuciones:
 
-I. Representar a la Secretaría y a sus unidades administrativas ante los tribunales judiciales y administrativos federales y estatales, como delegado en las audiencias con facultades para rendir pruebas y producir alegatos en los juicios contenciosos;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
 
-II. Elaborar los documentos mediante los cuales el Procurador Fiscal ejercite las acciones, excepciones y defensas de que sean titulares la Secretaría y sus unidades administrativas;
+I.- Representar a la Secretaría y a sus unidades administrativas ante los tribunales judiciales y administrativos federales y estatales, como delegado en las audiencias con facultades para rendir pruebas y producir alegatos en los juicios contenciosos, a excepción de aquellos que deriven de ingresos estatales;
 
-III. Formular los informes previos y justificados en los juicios de amparo y contestaciones de demandas en los juicios de amparo, nulidad, civiles, penales y mercantiles cuando la Secretaría o sus unidades administrativas sean requeridas o llamadas a juicio;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
 
-IV. Realizar el seguimiento de todas y cada una de las controversias en materia de derechos humanos promovidos en contra de la Secretaría o sus unidades administrativas, así como colaborar con la Secretaría de la Contraloría General en los asuntos que así se considere;
+II.- Elaborar los documentos mediante los cuales el Procurador Fiscal ejercite las acciones, excepciones y defensas de que sean titulares la Secretaría y sus unidades administrativas, en los asuntos materia de su competencia;
 
-V. Formular las denuncias o querellas ante el Ministerio Público por la presunta comisión de delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, así como elaborar los informes dirigidos a la Secretaría de la Contraloría General sobre los hechos que pudieran constituir responsabilidades administrativas, allegándose los elementos probatorios del caso, excepto del Secretario y Subsecretarios o equivalentes jerárquicos de la Secretaría en los términos del primer párrafo del artículo 146 de la Constitución Política del Estado, así como formular las denuncias o querellas ante el Ministerio Público competente sobre los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
 
-VI. Realizar los trámites para el debido cumplimiento de las ejecutorias de amparo;
+III.- Formular los informes previos y justificados en los juicios de amparo y contestaciones de demandas en los juicios de amparo, nulidad, civiles y mercantiles cuando la Secretaría o sus unidades administrativas sean requeridas o llamadas a juicio, a excepción de aquéllos que deriven de ingresos estatales;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+
+IV.- Someter a consideración del Procurador Fiscal la no formulación de alegatos en los asuntos de su competencia;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+
+V.- Participar con la Dirección General de Coordinación Hacendaria en los grupos de trabajos que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y proponer medidas para el mejoramiento de la colaboración administrativa en materia de ingresos coordinados;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+
+VI.- Realizar los trámites para el debido cumplimiento de las ejecutorias de amparo en las materias de su competencia;
 
 VII. Elaborar las resoluciones de los recursos administrativos establecidos en el Código Fiscal de la Federación, en relación con actos o resoluciones de la Secretaría o de sus unidades administrativas, emitidos en el ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal y demás ordenamientos aplicables;
 
 VIII. Formular los requerimientos para hacer efectivas las fianzas a favor de la Secretaría otorgadas en los términos de las disposiciones fiscales estatales o conforme a leyes distintas de las fiscales, así como llevar el seguimiento de los procedimientos contenciosos correspondientes;
 
-IX. Tramitar el recurso administrativo de revocación establecido en el Código Fiscal del Estado, que se interponga en contra de los actos o resoluciones emitidos por la Secretaría o sus unidades administrativas; y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+
+IX.- Tramitar las declaratorias de prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales federales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter federales; y
 
 X. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
@@ -1867,7 +1919,9 @@ V. Agencia Fiscal de Guaymas, con sede en Guaymas, cuya circunscripción territo
 
 VI. Agencia Fiscal de Hermosillo, con sede en Hermosillo, cuya circunscripción territorial comprenderá el Municipio de Hermosillo, Sonora;
 
-Depende de esta Agencia Fiscal la Subagencia Fiscal del Centro de Usos Múltiples y la Subagencia Fiscal Veracruz, ubicadas en Hermosillo, cuya circunscripción territorial comprenderá el citado Municipio, en concurrencia con dicha Agencia Fiscal;
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2006)</small>
+
+Depende de esta Agencia Fiscal la Subagencia Fiscal del Centro de Usos Múltiples, la Subagencia Fiscal Veracruz y la Subagencia Fiscal Parque Industrial, ubicadas en Hermosillo, cuya circunscripción territorial comprenderá el citado Municipio, en concurrencia con dicha Agencia Fiscal.
 
 VII. Agencia Fiscal de Huatabampo, con sede en Huatabampo, cuya circunscripción territorial comprenderá el Municipio de Huatabampo, Sonora;
 
@@ -1907,7 +1961,9 @@ V. Exigir y recibir, en el ámbito de su competencia, las garantías que deban o
 
 VI. Imponer sanciones por infracción a las disposiciones fiscales o administrativas, en las materias de su competencia;
 
-VII. Tramitar y resolver las solicitudes de pago diferido o en parcialidades de créditos fiscales estatales y del Impuesto Sobre Tenencia o Uso de Vehículos, previa garantía de su importe y accesorios legales;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+
+VII.- Tramitar y resolver las solicitudes de pago diferido o en parcialidades de créditos fiscales estatales o federales coordinados, previa garantía de su importe y accesorios legales;
 
 VIII. Administrar y controlar los fondos revolventes que están a su cargo y turnar los comprobantes de egresos a la Dirección General de Recaudación oportunamente, para su trámite y reposición;
 
@@ -2015,4 +2071,16 @@ Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Hermosillo,
 
 EL C. GOBERNADOR DEL ESTADO DE SONORA, EDUARDO BOURS CASTELO. RUBRICA. El SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARÁN. RUBRICA.
 
-> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 18 DE AGOSTO DE 2005, PAGINA 68.</small>
+> <small>(REFORMADO, B. O. 13 DE JULIO DE 2006)</small>
+
+ORGANIGRAMA ESTRUCTURAL DE LA SECRETARÍA DE HACIENDA
+
+> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 13 DE JULIO DE 2006, PAGINA 8.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B. O. 13 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
