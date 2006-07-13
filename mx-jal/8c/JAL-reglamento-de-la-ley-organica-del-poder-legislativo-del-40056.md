@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2006-02-18"
+last_updated: "2006-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -707,7 +707,11 @@ II. A juicio del Presidente de la Comisión y con acuse expreso de aceptación d
 
 1. A solicitud de un integrante de la comisión, con causa justificada que será resuelta con la aprobación de la mayoría de los miembros, se podrán suspender los trabajos de una reunión, aun sin estar agotado (sic) la orden del día; decretando un receso, y se deberá aprobar por mayoría fecha y hora para su reanudación la cual no podrá exceder de cinco días hábiles. En caso de que la causa de la suspensión amerite un plazo mayor al señalado en este párrafo para su reanudación, este podrá ser aprobado por mayoría calificada de los miembros de la comisión.
 
-2. En el caso de que estuviera por iniciar una sesión de Asamblea, el presidente de la comisión deberá suspender los trabajos, y fijar fecha y hora para reanudar la reunión, siempre que no interfiera con otra sesión plenaria.
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2006)</small>
+
+2. A solicitud de un integrante de la comisión, con causa justificada que se resuelve con la aprobación de la mayoría de sus miembros, la comisión puede constituirse en sesión permanente, de la que se levanta un acta en la que conste lo actuado durante la misma.
+
+3. En el caso de que estuviera por iniciar una sesión de Asamblea, el presidente de la comisión deberá suspender los trabajos, y fijar fecha y hora para reanudar la reunión, siempre que no interfiera con otra sesión plenaria.
 
 ###### Artículo 83.
 
@@ -1051,7 +1055,9 @@ XVI. Firmar los nombramientos de los servidores públicos que apruebe el Congres
 
 XVII. Elaborar, revisar y publicar el “Diario de Debates”;
 
-XVIII. Realizar, por instrucciones del Congreso o de las comisiones, las notificaciones que deban llevarse a cabo, pudiendo delegar dicha facultad en personal de su adscripción mediante oficio;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2006)</small>
+
+XVIII. Realizar, por instrucciones del Congreso, de las comisiones o comités, las notificaciones, comunicaciones, citaciones y requerimientos que deban llevarse a cabo, pudiendo delegar dicha facultad en personal de su adscripción mediante oficio; atendiendo para su realización a las disposiciones legales y reglamentarias aplicables;
 
 XIX. Mantener actualizada la información del trabajo legislativo;
 
@@ -2280,5 +2286,17 @@ DECRETO NUMERO 21216-LVII/06, POR EL QUE SE MODIFICA EL ARTICULO 21 DEL REGLAMEN
 P.O. 18 DE FEBRERO DE 2006.
 
 DECRETO NUMERO 21217-LVII/06, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 73, 106, 110, 111, 131, 132 Y 133 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE JULIO DE 2006.
+
+DECRETO NUMERO 21375-LVII/06, POR EL QUE SE REFORMA EL ARTICULO 106 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE JULIO DE 2006.
+
+DECRETO NUMERO 21377-LVII/06, POR EL QUE SE ADICIONA EL ARTICULO 82 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
