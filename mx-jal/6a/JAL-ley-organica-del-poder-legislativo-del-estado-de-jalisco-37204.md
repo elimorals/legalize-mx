@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2006-02-18"
+last_updated: "2006-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1713,7 +1713,9 @@ I. Asista el ciudadano Presidente Constitucional de los Estados Unidos Mexicanos
 
 II. Rinda la protesta de ley el Titular del Poder Ejecutivo del Estado, al asumir su cargo;
 
-III. Se conmemoren las siguientes fechas: 31 de enero de 1824, 16 de junio de 1823 y 8 de julio de 1917;
+(REFORMADA, P.O. 13 DE JULIO DE 2006) (F. DE E., P.O. 14 DE SEPTIEMBRE DE 2006)
+
+III. Se conmemoren las siguientes fechas: 31 de enero de 1824, 16 de junio de 1823, 8 de julio de 1917 y 14 de septiembre de 1823;
 
 IV. Se presente el informe anual de actividades del Congreso del Estado por parte del Presidente de la Mesa Directiva; y
 
@@ -1723,7 +1725,7 @@ a) Nombramiento por la presidencia de comisiones que introduzcan al Recinto Ofic
 
 b) Las Fracciones o Grupos parlamentarios representados en el Congreso del Estado establecen su posición política, respecto del inicio del año legislativo, del estado que guarda la administración pública estatal o de la instalación de la legislatura, si es el caso, habiendo un orador por cada Fracción parlamentaria. El orden en que las diferentes Fracciones o Grupos parlamentarios expresen su posición será en orden ascendente conforme a su representación. Queda a elección del Gobernador del Estado asistir a esta parte de la sesión, la que en todo caso se llevará a cabo;
 
-c)Ya en el Recinto Oficial el ciudadano Gobernador del Estado, el Presidente del Congreso del Estado le concede la palabra para que rinda el informe a que se refiere la Constitución Política del Estado;
+c) Ya en el Recinto Oficial el ciudadano Gobernador del Estado, el Presidente del Congreso del Estado le concede la palabra para que rinda el informe a que se refiere la Constitución Política del Estado;
 
 d) El Presidente del Congreso del Estado da lectura al documento en que se contenga, en lo general, la contestación al informe rendido por el ciudadano Gobernador del Estado. El informe mencionado debe ser analizado y comentado por la Asamblea en las sesiones subsecuentes, de conformidad con la ley y las disposiciones reglamentarias;
 
@@ -2650,5 +2652,9 @@ P.O. 27 DE DICIEMBRE DE 2005.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 18 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
