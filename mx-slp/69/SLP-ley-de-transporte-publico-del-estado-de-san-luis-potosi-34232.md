@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-34232"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-18"
-last_updated: "2004-09-02"
+last_updated: "2006-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de septiembre de 2003.
 
@@ -323,11 +323,31 @@ Los propietarios y conductores de vehículos particulares, no podrán prestar se
 
 ### CAPITULO I. DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 26.
 
-Para efectos de la presente Ley se entenderá por concesión, el acto administrativo del titular del Poder Ejecutivo para otorgar a personas físicas o morales, el derecho para explotar el servicio público de transporte, en los términos que en la misma se señala.
+Para efectos de la presente Ley, se entenderá por concesión, el acto administrativo del titular del Poder Ejecutivo para otorgar a personas físicas o morales, el derecho para explotar el servicio público de transporte, en los términos que en la misma se señala.
 
-Las concesiones para los servicios especiales de transporte y servicio de carga a que se refieren las fracciones IV y V del artículo 17 de esta Ley, podrán ser otorgadas directamente por el titular del Ejecutivo del Estado sin someterse a concurso, siempre y cuando se cumplan los requisitos que marca este Ordenamiento.
+Las concesiones para los servicios de trasporte (sic) urbano, interurbano y foráneo a que se refieren las fracciones I, II y III del artículo 17 de esta Ley, se otorgarán mediante concurso; las de transporte rural y de servicios especiales a que se refieren las fracciones IV y V de ese mismo precepto, así como las de transporte de carga que se consigna en el artículo 18 de esta Ley, podrán ser otorgadas sin necesidad de someterse al procedimiento de concurso que establece este Ordenamiento, siempre y cuando se cumplan los siguientes requisitos:
+
+I La Secretaría deberá emitir el dictamen técnico, previa opinión del Consejo de Transporte Público Municipal correspondiente, la cual será ratificada por el ayuntamiento; en caso de no existir Consejo, el ayuntamiento emitirá la opinión, en la que se justifique lo siguiente:
+
+a) la modalidad y el número de concesiones a expedir.
+
+b) El tipo y características de los vehículos que se requieran.
+
+c) El itinerario y paradas; en caso de rutas, su origen y destino.
+
+d) Las condiciones generales para la prestación del servicio.
+
+e) Las demás que señalen las disposiciones jurídicas y administrativas aplicables;
+
+II. Contar con la factibilidad o licencia de uso de suelo, en su caso, expedido por el ayuntamiento, para el funcionamiento de los sitios o las bases de origen y destino que se deban de emplear;
+
+III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico, o bien, acreditar tener la capacidad económica para su adquisición; y
+
+IV. En todos los casos, las concesiones se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la comunidad o en el municipio de origen, en todas las modalidades, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
 
 ###### ARTICULO 27.
 
@@ -337,11 +357,17 @@ Para efectos de esta Ley y sus ordenamientos reglamentarios, constituye servicio
 
 Para el otorgamiento de concesiones, el titular del Ejecutivo con la asistencia de la Secretaría, deberá elaborar y publicar en el Periódico Oficial del Estado, conjuntamente con la convocatoria, la declaratoria de necesidades respectiva, que justifique el incremento de las concesiones existentes de acuerdo con la modalidad de que se trate.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2006)</small>
+
+Tratándose de los artículos 17 fracciones IV y V, Y 18, cumpliendo lo que establece el artículo 26 de esta Ley, se deberá publicar la convocatoria en el Periódico Oficial del Estado.
+
 En la elaboración de la declaratoria de necesidades, el titular del Ejecutivo por conducto de la Secretaría, deberá tomar en cuenta la propuesta de los ayuntamientos involucrados, en lo que corresponda al ámbito de la jurisdicción territorial de los municipios respectivos.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 29.
 
-El titular del Ejecutivo otorgará las concesiones mediante concurso, siguiendo el procedimiento establecido en la presente Ley.
+El titular del Ejecutivo otorgará las concesiones de las modalidades a que se refiere el artículo anterior, mediante el procedimiento establecido en la presente Ley y su reglamento.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
@@ -401,9 +427,13 @@ Para obtener una concesión del servicio público del transporte se requiere hab
 
 I. Ser de nacionalidad mexicana;
 
-II. Participar en el concurso que para tal efecto se convoque, conforme a las bases que se señalen en la convocatoria respectiva;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2006)</small>
 
-III. Presentar al Titular del Ejecutivo Estatal, por conducto de la Secretaría, la solicitud con todos los requisitos que en la misma se consignen, dentro del plazo que se señale en la convocatoria;
+II. En los casos a que se refiere esta Ley, participar en el concurso que para tal efecto se convoque, conforme a las bases que se señalen en la propia convocatoria;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2006)</small>
+
+III Presentar al titular del Ejecutivo, por conducto de la Secretaría, todos los documentos que se requieran, junto con la solicitud, cumpliendo con los requisitos que para cada modalidad se establezcan en las bases de la convocatoria que corresponda, de acuerdo con esta Ley;
 
 IV. No haber cedido los derechos de otra concesión en los términos de lo señalado en la fracción III del artículo 30 de este Ordenamiento;
 
@@ -799,29 +829,35 @@ b) Aplicar en estricto apego las tarifas que el titular del Ejecutivo autorice e
 
 Queda a cargo de la Secretaría desarrollar e implantar un sistema de calidad para las modalidades de servicio urbano colectivo de primera y segunda clase, así como automóvil de alquiler en sitio y ruleteo, mediante el cual se certificará el cumplimiento a los estándares de calidad señalados en el artículo precedente, quedando facultada la propia Secretaría para emitir la certificación correspondiente, en caso de resultar procedente.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 13 DE JULIO DE 2006)</small>
+
 ## TITULO SEXTO. DE LAS LICENCIAS PARA CONDUCIR VEHICULOS DE SERVICIO PUBLICO
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 13 DE JULIO DE 2006)</small>
 
 ### CAPITULO UNICO
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 61.
 
-Las licencias para conducir vehículos de servicio público de transporte serán expedidas por la Secretaría, previo cumplimiento de los siguientes requisitos:
+Las licencias para conducir vehículos de servicio público de transporte, serán expedidas por la Secretaría, previo cumplimiento de los siguientes requisitos:
 
 I. Ser mexicano o acreditar legal estancia en el país, y domicilio en el Estado;
 
-II. Haber cumplido dieciocho o veinte años de edad, según sea el caso;
+II. Haber cumplido dieciocho años de edad cuando se trate de transporte de carga; o veinte años de edad si se trata de transporte de pasajeros.
 
-III. Aprobar el examen de salud, psicométrico y toxicológico que lo declare apto para conducir, obteniendo la certificación respectiva;
+III Aprobar el examen de salud, psicométrico y toxicológico que lo declare apto para conducir, obteniendo la certificación respectiva;
 
 IV. No contar con antecedentes penales;
 
-V. Aprobar el examen de manejo;
+V. Aprobar el examen de manejo:
 
-VI. Recibir y aprobar la capacitación que para el efecto proporcione la Secretaría por sí, o a través de los organismos que ésta determine;
+VI. Recibir y aprobar la capacitación que para el efecto proporcione la Secretaría, por sí, o a través de los organismos que ésta determine.
 
 VII. No estar imposibilitado para conducir vehículos por resolución administrativa o judicial;
 
-VIII. Acreditar la educación secundaria terminada;
+VIII. Saber leer y escribir cuando se trate de transporte de carga; y acreditar la educación secundaria terminada si se refiere a transporte de pasajeros.
 
 IX. Cumplir con los requisitos establecidos en los artículos 58 fracción III y 59 fracción II de este Ordenamiento, señalados para los operadores del servicio urbano colectivo en cualquiera de sus modalidades, y operadores del servicio de automóviles de alquiler, respectivamente, y
 
@@ -829,17 +865,21 @@ X. Pagar los derechos correspondientes.
 
 En los casos de las fracciones III y V del presente artículo, los exámenes médicos, psicométricos y de manejo serán aplicados por el Centro de Capacitación del Transporte, mismo que expedirá la certificación respectiva.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 62.
 
-Las licencias para conducir vehículos de servicio público de transporte se extinguen por las siguientes causas:
+Las licencias para conducir vehículos de servicio público de transporte, se extinguen por las siguientes causas:
 
-I. Cancelación;
+l. Cancelación;
 
 II. Expiración del plazo por el que fue otorgada;
 
 III. Las demás disposiciones establecidas por la presente Ley, y
 
 IV. Las previstas en otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 63.
 
@@ -849,19 +889,21 @@ I. Cuando el titular sea sancionado por segunda vez en un año, conforme a lo ex
 
 II. Cuando el titular sea sancionado por cometer alguna infracción a esta Ley o sus reglamentos, conduciendo vehículos de servicio de transporte público en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
 
-III. Cuando el titular de la concesión se le sancione en dos ocasiones con la suspensión de la licencia de conducir;
+III. Cuando al titular de la concesión se le sancione en dos ocasiones con la suspensión de la licencia de conducir;
 
-IV. Cuando se compruebe que la información proporcionada para su expedición sea falsa o alterada, o bien que alguno de los documentos presentados para cumplir los requisitos para su expedición sea (sic) falsos, alterados o apócrifos; en este caso se dará vista a la autoridad competente, y
+IV. Cuando se compruebe que la información proporcionada para su expedición sea falsa o alterada, o bien que alguno de los documentos presentados para cumplir los requisitos para su expedición sean falsos, alterados o apócrifos; en este caso se dará vista a la autoridad competente, y
 
 V. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular de la licencia ponga en peligro la seguridad o la vida de los usuarios, peatones o terceros.
 
 En el supuesto de haber sido cancelada o durante el término de suspensiones de una licencia, no procederá nuevamente su expedición. En el primer caso, el titular deberá reintegrarla a la autoridad que la expidió, en un término de cinco días a partir de la respectiva notificación, misma que realizará las anotaciones correspondientes en el Registro de Transporte Público.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 64.
 
-La Secretaría está facultada para suspender en forma temporal a los conductores de servicio de transporte público el uso de licencia, por término de tres a seis meses, en cualquiera de los siguientes casos:
+La Secretaría está facultada para suspender en forma temporal, a los conductores de servicio de transporte público el uso de licencia, por término de tres a seis meses, en cualquiera de los siguientes casos:
 
-I. Cuando el titular de la misma sea sancionado por incurrir en alguna infracción a la presente Ley o sus reglamentos bajo los efectos de bebidas alcohólicas;
+I. Cuando el titular de la misma sea sancionado por incurrir en alguna infracción a la presente Ley o sus reglamentos, bajo los efectos de bebidas alcohólicas;
 
 II. Si acumula tres infracciones a la presente Ley o sus reglamentos, en el transcurso de un año;
 
@@ -869,13 +911,15 @@ III. Cuando el titular de la misma reincida en el exceso de los límites de velo
 
 IV. Cuando dolosamente el titular de la misma haya causado algún daño, o durante la prestación del servicio cometa algún delito.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 65.
 
 A ninguna persona se le reexpedirá una licencia cuando se encuentre en cualquiera de los siguientes casos:
 
-I. Cuando la licencia esté suspendida o cancelada;
+I Cuando la licencia esté suspendida o cancelada;
 
-II. Cuando la autoridad compruebe que el solicitante ha sido calificado con incapacidad mental o física que le impida conducir vehículos, y no compruebe mediante certificado médico haberse rehabilitado, o bien por no obtener la certificación a que se refiere la fracción II del artículo 54 de la presente Ley;
+II. Cuando la autoridad compruebe que el solicitante ha sido calificado con incapacidad mental o física, que le impida conducir vehículos, y no compruebe mediante certificado médico, haberse rehabilitado; o bien por no obtener la certificación a que se refiere la fracción II del artículo 54 de la presente Ley;
 
 III. Cuando la documentación exhibida sea apócrifa, alterada o proporcione informes falsos en la solicitud correspondiente, y
 
@@ -1348,3 +1392,13 @@ CUARTO. Transcurridos los plazos establecidos en el artículo Tercero Transitori
 QUINTO. El titular del Ejecutivo del Estado, previo dictamen que presente la Secretaría de Comunicaciones y Transportes, en cada caso, validará la cesión de derechos de concesiones de servicio público de transporte hechas constar mediante contrato celebrado ante fedatario público, con anterioridad a la vigencia de este Decreto, de acuerdo al procedimiento que establezca la propia Secretaría.
 
 El plazo para llevar a cabo la validación a que se refiere este artículo, será de mil noventa y cinco días naturales, contados a partir de la entrada en vigor del presente Decreto. En todos los casos, deberá efectuarse el pago de los derechos correspondientes derivados de la sesión, respecto de los cuales no podrá otorgarse descuento alguno.
+
+P.O. 13 DE JULIO DE 2006.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las personas físicas que hayan realizado el pago por derechos de concesión de servicio público de transporte, antes del 26 de septiembre del año 2003, contarán con un plazo de trescientos sesenta y cinco días naturales a partir de la entrada en vigor de este Decreto, con el fin de presentarse ante la Secretaría con la documentación original correspondiente. Una vez que se acredite el pago, el Ejecutivo del Estado, previo dictamen de la Secretaría de Comunicaciones y Transporte, expedirá el título de concesión correspondiente.
+
+CUARTO. El requisito establecido en la fracción VIII del artículo 61 de la Ley de Transporte Público del Estado de San Luis Potosí, consistente en acreditar la educación secundaria terminada, no será exigible a quienes con anterioridad a la entrada en vigor del presente Decreto, les haya sido expedida una licencia de servicio público de transporte de personas.
