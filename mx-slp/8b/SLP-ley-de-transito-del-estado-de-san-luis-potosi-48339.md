@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-48339"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-24"
-last_updated: "2005-12-24"
+last_updated: "2006-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2005.
 
@@ -417,7 +417,7 @@ I. De automovilista;
 
 II. De chofer de servicio particular;
 
-III. De chofer de servicio público; y
+III. (DEROGADA, P.O. 13 DE JULIO DE 2006)
 
 IV. De motociclista.
 
@@ -431,7 +431,7 @@ La licencia de chofer de servicio particular, autoriza al titular a conducir veh
 
 ###### ARTICULO 34.
 
-La licencia de chofer de servicio público, autoriza al titular a conducir vehículos de transporte de pasajeros, de carga, y en general, todo vehículo que preste un servicio similar.
+(DEROGADO, P.O. 13 DE JULIO DE 2006)
 
 ###### ARTICULO 35.
 
@@ -1108,3 +1108,15 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2006.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las personas físicas que hayan realizado el pago por derechos de concesión de servicio público de transporte, antes del 26 de septiembre del año 2003, contarán con un plazo de trescientos sesenta y cinco días naturales a partir de la entrada en vigor de este Decreto, con el fin de presentarse ante la Secretaría con la documentación original correspondiente. Una vez que se acredite el pago, el Ejecutivo del Estado, previo dictamen de la Secretaría de Comunicaciones y Transportes, expedirá el título de concesión correspondiente.
+
+CUARTO. El requisito establecido en la fracción VIII del artículo 61 de la Ley de Transporte Público del Estado de San Luis Potosí, consistente en acreditar la educación secundaria terminada, no será exigible a quienes con anterioridad a la entrada en vigor del presente Decreto, les haya sido expedida una licencia de servicio público de transporte de personas.
