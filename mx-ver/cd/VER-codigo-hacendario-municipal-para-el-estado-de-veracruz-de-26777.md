@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2006-01-11"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO NUMERO 554 HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 14 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO QUEDARA SIN APLICACION EN DICHO MUNICIPIO A LA ENTRADA EN VIGOR DEL CITADO CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -5968,3 +5970,27 @@ G.O. 11 DE ENERO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, del órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE JULIO DE 2006.
+
+CODIGO NUMERO 553 HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+PRIMERO. El presente Código entrará en vigor el día primero de enero del año 2007, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. En términos de lo dispuesto en el artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del 22 de noviembre de 2002, dicho ordenamiento quedará sin aplicación en este municipio, a partir de la vigencia del presente Código.
+
+TERCERO. El Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como las referencias que se hacen en los reglamentos y demás disposiciones legales vigentes en el municipio de Alvarado, Estado de Veracruz de Ignacio de la Llave, se entenderán referidos al presente Código.
+
+CUARTO. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, se cobrarán, tramitarán y resolverán, conforme a dicho ordenamiento legal hasta su conclusión.
+
+G.O. 14 DE JULIO DE 2006.
+
+CODIGO NUMERO 554 HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+PRIMERO. El presente Código entrará en vigor el día primero de enero del año 2007, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. En términos de lo dispuesto en el artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz- Llave, publicado en la Gaceta Oficial del 22 de noviembre de 2002, dicho ordenamiento quedará sin aplicación en este municipio, a partir de la vigencia del presente Código.
+
+TERCERO. El Código número 302 hacendario Municipal para el Estado de Veracruz-Llave así como las referencias que se hacen en los reglamentos y demás disposiciones legales vigentes en el municipio de Xalapa, Estado de Veracruz de Ignacio de la Llave, se entenderá referidos al presente Código.
+
+CUARTO. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código Hacendario municipal para el Estado de Veracruz de Ignacio de la Llave, se cobrarán, tramitarán y resolverán, conforme a dicho ordenamiento legal hasta su conclusión.
