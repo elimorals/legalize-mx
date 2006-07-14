@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-las-mujeres-nuevo-leon-35808"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-17"
-last_updated: "2003-12-17"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2003.
 
@@ -277,9 +277,17 @@ XII. Conocer y aprobar los convenios de colaboración que hayan de celebrarse co
 
 XIII. Conocer y aprobar los informes trimestrales de avances del Programa Estatal para la Equidad, presentados por las o los titulares de las dependencias u organismos de la Administración Pública Estatal;
 
-XIV. Designar y remover a la o el titular de la Secretaría Técnica, a propuesta de la Presidencia Ejecutiva; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
 
-XV. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+XIV. Designar y remover a la o el titular de la Secretaría Técnica, a propuesta de la Presidencia Ejecutiva;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+
+XV. Proponer, revisar y aprobar cuotas de recuperación, incluyendo las bases para establecer los descuentos y exenciones que en su caso se otorguen; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2006)</small>
+
+XVI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 ###### Artículo 16.
 
@@ -381,9 +389,17 @@ XV. Recabar información y elementos estadísticos sobre la cobertura e impacto 
 
 XVI. Coordinarse con los responsables del área de equidad de género en cada dependencia o entidad de la estructura orgánica del Gobierno Estatal;
 
-XVII. Impulsar la creación de institutos municipales de las mujeres y la apertura de oficinas regionales y municipales del Instituto Estatal de las Mujeres; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
 
-XVIII. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como las derivadas de los acuerdos de la Junta de Gobierno.
+XVII. Impulsar la creación de institutos municipales de las mujeres y la apertura de oficinas regionales y municipales del Instituto Estatal de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2006)</small>
+
+XVIII. Brindar la información pública que le sea solicitada al Organismo de conformidad con la Ley de Acceso a la Información Pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2006)</small>
+
+XIX. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como de las derivadas de los acuerdos de la Junta (sic) Gobierno.
 
 #### Sección Cuarta. De la Secretaría Ejecutiva del Instituto Estatal de las Mujeres
 
@@ -399,9 +415,21 @@ I. Proponer a la Presidencia Ejecutiva del Instituto, las políticas generales q
 
 II. Someter a la consideración de la Presidencia del Instituto, proyectos de informes trimestrales y anuales, así como los especiales que serán presentados a la Junta de Gobierno;
 
-III. Auxiliar a la Presidencia en la planeación, administración, organización y operación del Instituto, en los términos que establezca el Reglamento Interior; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
 
-IV. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+III. Auxiliar a la Presidencia en la planeación, administración, organización y operación del Instituto, en los términos que establezca el Reglamento Interior;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+
+IV. Realizar las notificaciones que se tengan que llevar a cabo en los términos señalados por el Código de Procedimientos Civiles del Estado de Nuevo León para las notificaciones de carácter personal;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2006)</small>
+
+V. En los casos que proceda expedir copias simples o certificadas de los documentos que obren en el Instituto, cumpliendo en lo aplicable con lo ordenado en el Artículo 39 del Vigente Código de Procedimientos Civiles del Estado; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2006)</small>
+
+VI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 #### Sección Quinta. Del Órgano de Vigilancia y Control Interno del Instituto
 
@@ -415,11 +443,17 @@ El Comisario o Comisaria tendrá las siguientes facultades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto Estatal de las Mujeres se encaminen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-II. Practicar auditorías de los estados financieros y las de carácter administrativo que se requieran;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna del Ejecutivo;
 
 III. Recomendar a la Junta de Gobierno y a la Presidencia Ejecutiva las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Instituto;
 
-IV. Asistir a las sesiones de la Junta de Gobierno, con derecho a voz; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+
+IV. Rendir un informe anual a la Junta de Gobierno remitiéndole copia del mismo a la Contraloría Interna del Ejecutivo; y
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
 
 V. Las demás necesarias para el ejercicio de las anteriores, así como las que se determinen por otras disposiciones legales.
 
@@ -445,9 +479,17 @@ I. Con los derechos y bienes muebles e inmuebles que le sean asignados por el se
 
 II. Con los fondos estatales, nacionales o internacionales, públicos o privados, obtenidos para el financiamiento de programas específicos;
 
-III. Con los recursos que obtenga de las actividades a que se refiere esta Ley; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
 
-IV. Con las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales.
+III. Con los recursos que obtenga de las actividades a que se refiere esta Ley, a través del cobro de cuotas de recuperación aprobadas por la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+
+IV. Con las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2006)</small>
+
+V. Con los rendimientos, frutos, productos y, en general los aprovechamientos que obtengan por las operaciones que realice o que le correspondan por cualquier título legal.
 
 ###### Artículo 29.
 
@@ -502,3 +544,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JULIO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
