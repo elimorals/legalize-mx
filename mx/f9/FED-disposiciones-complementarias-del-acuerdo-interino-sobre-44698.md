@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2006-05-17"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,27 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-AVISO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DE LOS ARTICULOS 3, 4 Y 5 DEL DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASÍ COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007, HUEVO SIN CASCARON (SECAS, LIQUIDAS O CONGELADAS) Y YEMAS DE HUEVO (SECAS, LIQUIDAS O CONGELADAS) APTAS PARA CONSUMO HUMANO Y OVOALBUMINA (APTA PARA CONSUMO HUMANO), ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
-Aviso publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 17 de mayo de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de julio de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal, 5o. fracción X y 14 de la Ley de Comercio Exterior, 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en el artículo 8 categoría 7 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (el Tratado), firmado el 29 de junio de 2000 y aprobado por el Senado de la República el 14 de diciembre del mismo año, entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de Guatemala y El Salvador;
+Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que aprobó el Senado de la República el 23 de abril de 1998 y el decreto de promulgación fue publicado el 31 de agosto de 1998 en el Diario Oficial de la Federación;
 
-Que el 12 de agosto de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 15 mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero y eliminar el arancel aplicable a la importación de ciertos néctares originarios de la República de El Salvador; y que de conformidad con lo establecido en el numeral 3 de la referida Decisión ésta entrará en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas;
+Que el 23 y 24 de febrero de 2000, se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea que aprobó el Senado de la República el 20 de marzo de 2000 y el decreto de promulgación fue publicado con fecha de 26 de junio de 2000 en el Diario Oficial de la Federación;
 
-Que el 3 de marzo del presente año se publicó en el Diario Oficial de la Federación el Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón (el Decreto);
+Que el artículo 8 categoría 7 de la citada Decisión establece que la Comunidad Europea otorgará cupos arancelarios con aranceles aduaneros reducidos sobre importaciones a la Comunidad de ciertos productos agrícolas originarios de los Estados Unidos Mexicanos y que dichos cupos serán administrados por nuestro país;
 
-Que el artículo tercero transitorio del Decreto establece que la aceleración de la desgravación de ciertos néctares y el cupo de acero previstos en los artículos 3, 4 y 5 del mismo entrarán en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen entre sí la conclusión de sus respectivas formalidades jurídicas necesarias. A tal efecto la Secretaría de Economía publicará un aviso notificando su entrada en vigor, y
+Que el procedimiento de asignación de los cupos que se tratan en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
 
-Que los gobiernos de los Estados Unidos Mexicanos y de la República de El Salvador, se han notificado la conclusión de sus respectivas formalidades jurídicas para la entrada en vigor de la Decisión No. 15, he tenido a bien expedir el siguiente:
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-AVISO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DE LOS ARTICULOS 3, 4 Y 5 DEL DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007, HUEVO SIN CASCARON (SECAS, LIQUIDAS O CONGELADAS) Y YEMAS DE HUEVO (SECAS, LIQUIDAS O CONGELADAS) APTAS PARA CONSUMO HUMANO Y OVOALBUMINA (APTA PARA CONSUMO HUMANO), ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -201,56 +201,90 @@ Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establ
 
 ###### ARTICULO PRIMERO.
 
-El cupo para internar a los Estados miembros de la Comunidad Europea en el periodo comprendido del 1 enero al 31 de diciembre de 2006, con el arancel preferencial establecido en la Decisión 2/2004 del Consejo Conjunto CE-México por la que se introduce un cupo arancelario para determinados productos originarios de México y enumerados en el Anexo 1 de la Decisión 2/2000 del Consejo Conjunto CE-México, materias pécticas, pectinatos y pectatos en polvo originarios de los Estados Unidos Mexicanos, es el que se determina a continuación:
+Los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007: huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos, con el arancel-cupo preferencial establecido en el Anexo I (Calendario de Desgravación de la Comunidad), Sección A, Cupos arancelarios para los productos listados en la categoría “6” de acuerdo con el artículo 8 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, son los que se determinan a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de exportación a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
+De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas exportadoras de productos originarios e incrementar la utilización de los aranceles-cupo establecidos al amparo de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, durante el periodo julio de 2006 al 30 de junio de 2007, o en el que se señale para un cupo en particular, se aplicará a los cupos de exportación a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de este cupo las personas físicas o morales establecidas en los Estados Unidos Mexicanos.
+Podrán solicitar asignación de estos cupos, las personas que se mencionan a continuación conforme a los siguientes criterios:
+
+I. Del cupo para los productos descritos en el numeral 1, las personas físicas o morales, industriales y comercializadoras de alguno de los productos objeto del cupo, establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía, conforme los siguientes criterios:
+
+1. 97% del cupo, para personas físicas o morales, industriales y comercializadores tradicionales que cuenten con antecedentes de venta de alguno de los productos objeto del cupo, y
+
+2. 3% del cupo, para personas físicas o morales, industriales y comercializadores que no tengan antecedentes de venta de estos productos en el mercado.
+
+La asignación será otorgada por la Dirección General de Comercio Exterior conforme a cifras calculadas por la Unión Nacional de Avicultores, y avaladas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+Si a partir del 28 de febrero de 2007 existe saldo del cupo, destinado a cualquiera de los dos tipos de beneficiarios, éste se asignará a quien lo solicite en una cantidad igual a lo que resulte menor entre la cifra avalada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el saldo del cupo;
+
+II. Del cupo para los productos descritos en el numeral 2, las empresas industriales y comercializadoras de este producto establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía bajo los siguientes criterios:
+
+1. 97% del cupo, a personas físicas o morales, que cuenten con antecedentes de venta de este producto, y
+
+2. 3% del cupo, para personas físicas o morales, que no cuenten con antecedentes de venta de este producto.
+
+La asignación se otorgará por la Secretaría de Economía, conforme cifras avaladas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+Si a partir del 28 de febrero de 2007 existe saldo del cupo, destinado a cualquiera de los dos tipos de beneficiarios, éste se asignará a quien lo solicite en una cantidad igual a lo que resulte menor entre la cifra avalada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el saldo del cupo.
 
 ###### ARTICULO CUARTO.
 
-Para la obtención del cupo el solicitante deberá presentar en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda lo siguiente:
+Las solicitudes de asignación del cupo a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de esta Secretaría que le corresponda. Las hojas de requisitos específicos se establecen como anexos al presente Acuerdo.
 
-a) Formato SE-03-026, “Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 ó el carácter de exportador autorizado”. La Secretaría autorizará el Cuestionario dentro de los 2 días hábiles siguientes a la presentación del mismo o notificará si requiere realizar una verificación física de las instalaciones productivas de la empresa, en cuyo caso, emitirá su respuesta dentro de los 10 días hábiles siguientes.
-
-Una vez autorizado dicho cuestionario, esta Secretaría proporcionará el formato de “certificado de circulación EUR.1” para ser llenado por el exportador;
-
-b) La primera ocasión que se tramite la obtención del cupo a que se refiere el presente Acuerdo, se presentará la solicitud de asignación del cupo en el formato SE-03-011-1 “Solicitud de asignación de cupo” adjuntando copia de la carátula del cuestionario a que se refiere el inciso anterior, debidamente autorizado. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de Diciembre de 2006, y
-
-c) Una vez obtenida la constancia de asignación, se solicitará la expedición del certificado de cupo mediante la presentación del formato SE-03-013-5 "Solicitud de Certificados de cupo (obtenido por asignación directa)", adjuntando el formato de certificado de circulación EUR.1 debidamente requisitado, la copia de la factura comercial y del conocimiento de embarque, ó carta de porte ó guía aérea, según sea el caso. La Representación Federal de la Secretaría de Economía, emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
-
-Siempre que exista saldo en el cupo, el monto a expedir por solicitante será el monto menor entre la cantidad señalada en la factura comercial y, el conocimiento de embarque o la carta de porte o la guía aérea, según sea el caso.
+Previo a la presentación de dicha solicitud se deberá realizar el trámite SE-03-038, utilizando el formato SE-03-026, presentando el cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado. Una vez autorizado dicho cuestionario la Secretaría proporcionará el formato de certificado de circulación EUR.1.
 
 ###### ARTICULO QUINTO.
 
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio total de por lo menos una de las expediciones otorgadas adjuntando copia del pedimento de exportación, de forma tal que durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
-
-La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo será al 31 de diciembre de 2006.
-
-El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país del Estado miembro de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión a que se refiere el artículo primero de este Acuerdo. El certificado de cupo es el documento que avalará que la empresa es beneficiaria del cupo.
+Una vez asignado el monto de la mercancía que podrá ser internada a los países de la Comunidad Europea, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando el certificado de circulación EUR.1 a que hace referencia el artículo anterior, debidamente requisitado, para su validación, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
 ###### ARTICULO SEXTO.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+Para los productos de los numerales 1 y 2 la vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será hasta el 30 de junio de 2007.
 
-a) Para el caso del formato SE-03-026 “Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado”: <http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-038-A>
+El beneficiario de cupo deberá informar el uso del certificado de cupo a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
 
-b) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-c) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
+El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea. El certificado de cupo es el documento que avalará que la empresa es beneficiaria del cupo.
 
 ###### ARTICULO SEPTIMO.
 
-Una vez asignado el monto para importar dentro del arancel preferencial, la Secretaría, a través de la representación federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5. La expedición de los certificados de cupo se realizará dentro de los siete días hábiles siguientes a la fecha de recepción de las solicitudes.
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las Representaciones Federales de esta Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica www.cofemer.gob.mx, o en las siguientes direcciones electrónicas:
+
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ## TRANSITORIO
 
-UNICO.- El presente Aviso entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 10 de mayo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 7 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+ANEXO
+
+SECRETARIA DE ECONOMIA
+
+DIRECCION GENERAL DE COMERCIO EXTERIOR
+
+HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DE CUPO DE EXPORTACION A LA COMUNIDAD EUROPEA DE JULIO DE 2006 AL 30 DE JUNIO DE 2007
+
+DE LOS SIGUIENTES PRODUCTOS:
+
+HUEVO SIN CASCARON Y YEMAS DE HUEVO (SECAS, LIQUIDAS O CONGELADAS) APTAS PARA CONSUMO HUMANO
+
+Fracciones arancelarias europeas: 0408.11.80; 0408.19.81; 0408.19.89; 0408.91.80; 0408.99.80
+
+OVOALBUMINA (APTA PARA CONSUMO HUMANO)
+
+Fracciones arancelarias europeas: 3502.11.90; 3502.19.90
+
+“Asignación Directa”
+
+(VEASE ARCHIVO ANEXO)
+
+Nota: En caso de no utilizar algún certificado de cupo, deberá regresarlo a la oficina que lo expidió, mediante escrito.
