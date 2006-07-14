@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-2-2006-de-la-comision-de-creacion-de-nuevos-50249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-05-02"
-last_updated: "2006-05-02"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-04-20"
 
 ACUERDO CCNO/2/2006, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON RESIDENCIA EN SALTILLO, COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de mayo de 2006.
 
@@ -47,6 +47,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/3/2006 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. 14 DE JULIO DE 2006, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON SEDE EN SALTILLO, COAHUILASE, DEL 6 DE AGOSTO AL 3 DE NOVIEMBRE DE 2006.</small>
+
 PRIMERO.- Se prorroga el plazo de exclusión del turno de nuevos asuntos al Cuarto Tribunal Colegiado del Octavo Circuito, con sede en Saltillo, Coahuila, establecido en el punto Tercero del Acuerdo General 55/2005 del Pleno del Consejo de la Judicatura Federal.
 
 El periodo de exclusión para el tribunal colegiado antes citado, comprenderá del veinticuatro de abril al cinco de agosto de dos mil seis; por ende, todos los asuntos nuevos relacionados o no presentados en la Oficina de Correspondencia Común de los Tribunales Colegiados del Octavo Circuito, con residencia en Saltillo, Coahuila, durante ese lapso, continuarán remitiéndose al Quinto Tribunal Colegiado del Circuito y sede mencionados.
@@ -62,3 +64,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/2/2006, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la prórroga del plazo de exclusión del turno de nuevos asuntos al Cuarto Tribunal Colegiado del Octavo Circuito, con residencia en Saltillo, Coahuila, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veinte de abril de dos mil seis, por los señores Consejeros: Presidente Adolfo O. Aragón Mendía, Elvia Díaz de León D'Hers y María Teresa Herrera Tello.- México, Distrito Federal, a veinte de abril de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE JULIO DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
