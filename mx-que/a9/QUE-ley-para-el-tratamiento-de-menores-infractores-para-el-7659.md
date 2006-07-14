@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-tratamiento-de-menores-infractores-para-el-7659"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "2004-12-17"
+last_updated: "2006-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL TRATAMIENTO PARA MENORES INFRACTORES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 16 de diciembre de 1993.
 
@@ -721,9 +721,11 @@ Contra las resoluciones inicial, definitiva, la que conceda o niegue la libertad
 
 Las resoluciones que se dicten al evaluar el desarrollo del tratamiento nos seran recurribles.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 70.
 
-El recurso previsto en esta Ley tiene por objeto obtener la conformación, modificación o la revocación de las resoluciones dictadas por los Consejeros, conforme a lo previsto en este Capítulo.
+Es objeto del recurso es (sic) obtener la confirmación, modificación o revocación de las resoluciones dictadas por los Consejeros, previstas en el artículo que antecede.
 
 ###### ARTICULO 71.
 
@@ -751,13 +753,13 @@ El recurso de apelación deberá interponerse por escrito o verbalmente, dentro 
 
 Siendo apelable el proveído, e interpuesto el recurso dentro del plazo legal por quien tenga derecho a hacerlo, se admitirá siempre en efecto ejecutivo y el Consejero remitirá el original o testimonio del expediente a la Sala Superior.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 75.
 
-Recibido el original o testimonio del expediente en la Sala Superior, el Consejero ponente dentro del plazo de tres días dictará auto de radicación y ordenará notificar al menor y a su defensor, así como al Comisionado para que el apelante, dentro de los tres días siguientes a la notificación del auto de radicación, exprese por escrito sus motivos de inconformidad.
+Dentro de los tres días siguientes a la recepción del original o testimonio del expediente, el Consejero ponente dictará auto de radicación, ordenando notificar al menor, a su defensor y al Comisionado, para que el apelante exprese, por escrito, sus motivos de inconformidad en un plazo de tres días, contados a partir del siguiente al de la notificación del auto de radicación. Si al momento de interponerse la apelación se expresaron los motivos de inconformidad del recurrente, se omitirá el plazo señalado para tal efecto.
 
-Si quien apeló fue el menor, su defensor, sus legítimos representantes o sus encargados, deberán acompañar a los motivos de inconformidad copia simple, para correr traslado al Comisionado a efecto de que de contestación en un plazo de tres días.
-
-Si el recurso fue interpuesto por el Comisionado, igualmente a sus motivos de inconformidad acompañará copia simple para correr traslado al menor y a su defensor para que les den contestación en un plazo de tres días.
+El apelante deberá acompañar a sus motivos de inconformidad copia simple de los mismos para correr traslado al menor, a su defensor, a sus legítimos representantes o encargados o al Comisionado, según sea el caso, para que produzcan su contestación dentro del plazo de tres días.
 
 ###### ARTICULO 76.
 
@@ -1216,3 +1218,7 @@ SECRETARIO DE GOBIERNO
 P.O. 17 DE DICIEMBRE DE 2004.
 
 ÚNICO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 14 DE JULIO DE 2006.
+
+ÚNICO. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
