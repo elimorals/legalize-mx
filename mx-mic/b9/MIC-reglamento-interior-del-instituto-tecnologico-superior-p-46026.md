@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-p-46026"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-24"
-last_updated: "2005-08-24"
+last_updated: "2006-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR P'URHEPECHA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2006.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 24 de agosto de 2005.
 
@@ -83,7 +83,9 @@ a) División Académica;
 
 III. Departamento de Recursos Financieros; y,
 
-IV. Departamento de Recursos Humanos.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+
+IV. Departamento de Recursos Humanos, Materiales y Servicios.
 
 Al frente de cada unidad administrativa habrá un titular, que se auxiliará del personal que sea necesario, de acuerdo al presupuesto aprobado y funcionarán conforme al Manual Administrativo de Organización del Instituto.
 
@@ -337,11 +339,15 @@ X. Elaborar con la periodicidad requerida, el informe de avance físico y financ
 
 XI. Las demás que le señale el Director General y otras disposiciones normativas aplicables.
 
-### CAPÍTULO VII. DEL DEPARTAMENTO DE RECURSOS HUMANOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JULIO DE 2006)</small>
+
+### CAPÍTULO VII. DEL DEPARTAMENTO DE RECURSOS HUMANOS, MATERIALES Y SERVICIOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2006)</small>
 
 ###### ARTÍCULO 13.
 
-Al Jefe del Departamento de Recursos Humanos le corresponde el ejercicio de las facultades siguientes:
+Al Jefe del Departamento de Recursos Humanos, Materiales y Servicios le corresponde el ejercicio de las siguientes facultades:
 
 I. Implantar las medidas necesarias para la correcta utilización de los recursos humanos y materiales de que dispone el Instituto, de acuerdo a las disposiciones normativas aplicables;
 
@@ -420,3 +426,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones administrativas en lo que se opongan al presente Decreto.
