@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2005-12-10"
+last_updated: "2006-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -203,6 +203,14 @@ Cada dependencia del Poder Ejecutivo formulará, respecto de los asuntos de su c
 
 Al frente de cada dependencia habrá un titular nombrado y removido libremente por el Gobernador del Estado, quien para el despacho de los asuntos de su competencia se auxiliará de las unidades administrativas y los servidores públicos que establezca el reglamento interior respectivo y demás disposiciones legales vigentes.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2006)</small>
+
+En los juicios de amparo, laborales, civiles, mercantiles o de cualquier otra índole, el Gobernador del Estado será representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2006)</small>
+
+Los recursos administrativos promovidos contra actos de los tribunales de las dependencias y entidades de la administración pública estatal, serán resueltos dentro del ámbito de sus respectivas atribuciones en los términos de los ordenamientos legales aplicables.
+
 ###### Artículo 16.
 
 Corresponde a los titulares de las dependencias y entidades de la administración pública estatal, el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo, podrán delegar en las unidades administrativas y servidores públicos a que se refiere el artículo anterior, cualesquiera de sus facultades, excepto aquellas que por disposición de la ley o del reglamento interior respectivo, deban ser ejercidas directamente por dichos titulares.
@@ -261,57 +269,61 @@ I. Conducir la política interior y promover la reforma democrática del Estado,
 
 II. Refrendar para su validez y observancia, las leyes, decretos, reglamentos, acuerdos y demás disposiciones de carácter general que el Gobernador promulgue, expida o autorice;
 
-III. Conducir las relaciones del Poder Ejecutivo con los otros poderes del Estado, con los ayuntamientos, partidos políticos, sindicatos y las organizaciones de los sectores social y privado de la Entidad, así como con la Federación y las otras entidades federativas en los asuntos que específicamente le sean encomendados por el Gobernador del Estado;
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
 
-IV. Coordinar las relaciones y la colaboración entre las dependencias y entidades de la administración pública y hacer cumplir los acuerdos, ordenes, circulares y demás disposiciones que emita el Gobernador del Estado;
+III. Firmas en ausencia del Gobernador del Estado los informes y escritos que deban presentarse ante los tribunales federales o locales;
 
-V. Prestar a los tribunales y a las autoridades judiciales, el auxilio que se requiera para la pronta y expedita administración de justicia;
+IV. Conducir las relaciones del Poder Ejecutivo con los otros poderes del Estado, con los ayuntamientos, partidos políticos, sindicatos y las organizaciones de los sectores social y privado de la Entidad, así como con la Federación y las otras entidades federativas en los asuntos que específicamente le sean encomendados por el Gobernador del Estado;
 
-VI. Auxiliar a los ayuntamientos en sus gestiones ante las dependencias y entidades de la administración pública y proporcionarles la asistencia técnica indispensable para que asuman su función de órganos promotores del desarrollo político, económico y social;
+V. Coordinar las relaciones y la colaboración entre las dependencias y entidades de la administración pública y hacer cumplir los acuerdos, ordenes, circulares y demás disposiciones que emita el Gobernador del Estado;
 
-VII. Garantizar que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y la moral pública; y vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades estatales, dictando al efecto las medidas administrativas que se requieran;
+VI. Prestar a los tribunales y a las autoridades judiciales, el auxilio que se requiera para la pronta y expedita administración de justicia;
 
-VIII. Vigilar y controlar la demarcación y conservación de los límites del Estado y sus Municipios;
+VII. Auxiliar a los ayuntamientos en sus gestiones ante las dependencias y entidades de la administración pública y proporcionarles la asistencia técnica indispensable para que asuman su función de órganos promotores del desarrollo político, económico y social;
 
-IX. Intervenir en las funciones electorales conforme a las leyes y los convenios que para el efecto se celebren, ejercer la vigilancia que en esta materia le corresponde al Gobierno del Estado y proporcionar el apoyo administrativo que para su funcionamiento requieran las instancias o autoridades electorales;
+VIII. Garantizar que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y la moral pública; y vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades estatales, dictando al efecto las medidas administrativas que se requieran;
 
-X. Intervenir, en auxilio o coordinación con las autoridades federales y en los términos de las leyes relativas, en materia de cultos religiosos, ferias, juegos y sorteos permitidos, portación de armas de fuego, pirotecnia, política poblacional y migración;
+IX. Vigilar y controlar la demarcación y conservación de los límites del Estado y sus Municipios;
 
-XI. Vigilar que las publicaciones impresas, las transmisiones de radio y televisión locales, así como la exhibición de las películas cinematográficas y demás espectáculos públicos, se mantengan dentro de los límites de respeto a la vida privada, a la dignidad de las personas, a la paz y moral pública y no atenten contra derechos de terceros, inciten a cometer algún delito o perturben el orden público;
+X. Intervenir en las funciones electorales conforme a las leyes y los convenios que para el efecto se celebren, ejercer la vigilancia que en esta materia le corresponde al Gobierno del Estado y proporcionar el apoyo administrativo que para su funcionamiento requieran las instancias o autoridades electorales;
 
-XII. Fijar y divulgar el Calendario Oficial del Estado, organizar los actos cívicos del Gobierno del Estado y vigilar la observancia de la Ley Sobre el Escudo, la Bandera y el Himno Nacional;
+XI. Intervenir, en auxilio o coordinación con las autoridades federales y en los términos de las leyes relativas, en materia de cultos religiosos, ferias, juegos y sorteos permitidos, portación de armas de fuego, pirotecnia, política poblacional y migración;
 
-XIII. Ejecutar los acuerdos, decretos o declaratorias que conforme a la ley expida el Gobernador del Estado respecto a expropiaciones, ocupaciones temporales y limitaciones de dominio por causa de utilidad pública;
+XII. Vigilar que las publicaciones impresas, las transmisiones de radio y televisión locales, así como la exhibición de las películas cinematográficas y demás espectáculos públicos, se mantengan dentro de los límites de respeto a la vida privada, a la dignidad de las personas, a la paz y moral pública y no atenten contra derechos de terceros, inciten a cometer algún delito o perturben el orden público;
 
-XIV. Coordinar las actividades del Consejo Estatal de Seguridad Pública, así como organizar y ejercer el mando de la Policía Estatal Preventiva;
+XIII. Fijar y divulgar el Calendario Oficial del Estado, organizar los actos cívicos del Gobierno del Estado y vigilar la observancia de la Ley Sobre el Escudo, la Bandera y el Himno Nacional;
 
-XV. Normar, autorizar y vigilar el funcionamiento de los organismos auxiliares de seguridad;
+XIV. Ejecutar los acuerdos, decretos o declaratorias que conforme a la ley expida el Gobernador del Estado respecto a expropiaciones, ocupaciones temporales y limitaciones de dominio por causa de utilidad pública;
 
-XVI. Coordinar el Sistema Estatal de Protección Civil y, en auxilio o coordinación con las autoridades federales, diseñar y ejecutar programas para la protección y seguridad de los habitantes del Estado, así como para la prevención, combate y atención de catástrofes naturales, alentando la participación ciudadana corresponsable;
+XV. Coordinar las actividades del Consejo Estatal de Seguridad Pública, así como organizar y ejercer el mando de la Policía Estatal Preventiva;
 
-XVII. Establecer, dirigir y vigilar los sistemas de vialidad y tránsito en la capital del Estado y en las carreteras y caminos de jurisdicción estatal;
+XVI. Normar, autorizar y vigilar el funcionamiento de los organismos auxiliares de seguridad;
 
-XVIII. Regular y vigilar la prestación de los servicios de autotransporte público, así como sus servicios auxiliares y conexos; y acordar con el Gobernador del Estado, el otorgamiento, modificación, transferencia o cancelación de concesiones y permisos para la prestación de servicios públicos estatales por vías terrestres y en terminales;
+XVII. Coordinar el Sistema Estatal de Protección Civil y, en auxilio o coordinación con las autoridades federales, diseñar y ejecutar programas para la protección y seguridad de los habitantes del Estado, así como para la prevención, combate y atención de catástrofes naturales, alentando la participación ciudadana corresponsable;
 
-XIX. Dar trámite a las solicitudes que presenten los particulares y que no estén reservadas a otras dependencias, sobre otorgamiento de autorizaciones, concesiones, permisos y licencias gubernamentales, así como a la terminación, suspensión o revocación de las ya otorgadas;
+XVIII. Establecer, dirigir y vigilar los sistemas de vialidad y tránsito en la capital del Estado y en las carreteras y caminos de jurisdicción estatal;
 
-XX. Elaborar y ejecutar los programas de prevención de delitos y los de readaptación social de infractores de la ley, así como administrar los Centros de Readaptación Social para adultos en el Estado;
+XIX. Regular y vigilar la prestación de los servicios de autotransporte público, así como sus servicios auxiliares y conexos; y acordar con el Gobernador del Estado, el otorgamiento, modificación, transferencia o cancelación de concesiones y permisos para la prestación de servicios públicos estatales por vías terrestres y en terminales;
 
-XXI. Dar el trámite que corresponda, en la aplicación de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado;
+XX. Dar trámite a las solicitudes que presenten los particulares y que no estén reservadas a otras dependencias, sobre otorgamiento de autorizaciones, concesiones, permisos y licencias gubernamentales, así como a la terminación, suspensión o revocación de las ya otorgadas;
 
-XXII. Coordinar y vigilar el funcionamiento del Consejo Tutelar para Menores Infractores y ejecutar los programas de readaptación social de los mismos;
+XXI. Elaborar y ejecutar los programas de prevención de delitos y los de readaptación social de infractores de la ley, así como administrar los Centros de Readaptación Social para adultos en el Estado;
 
-XXIII. Ejercer las funciones que en materia laboral correspondan al Ejecutivo del Estado y llevar la estadística general del ramo;
+XXII. Dar el trámite que corresponda, en la aplicación de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado;
 
-XXIV. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo, proporcionándoles la información que soliciten para el cumplimiento de sus funciones;
+XXIII. Coordinar y vigilar el funcionamiento del Consejo Tutelar para Menores Infractores y ejecutar los programas de readaptación social de los mismos;
 
-XXV. Proporcionar el apoyo administrativo que para su funcionamiento requiera la Junta Local de Conciliación y Arbitraje y el Tribunal Local de Conciliación y Arbitraje del Estado;
+XXIV. Ejercer las funciones que en materia laboral correspondan al Ejecutivo del Estado y llevar la estadística general del ramo;
 
-XXVI. Participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento y de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+XXV. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo, proporcionándoles la información que soliciten para el cumplimiento de sus funciones;
 
-XXVII. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos; y
+XXVI. Proporcionar el apoyo administrativo que para su funcionamiento requiera la Junta Local de Conciliación y Arbitraje y el Tribunal Local de Conciliación y Arbitraje del Estado;
 
-XXVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXVII. Participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento y de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+
+XXVIII. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos; y
+
+XXIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 25.
 
@@ -1084,3 +1096,7 @@ CUARTO.- La Secretaría de Finanzas deberá incluir e4n Presupuesto de Egresos d
 P.O. 10 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 15 DE JULIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
