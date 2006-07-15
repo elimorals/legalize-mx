@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "2006-01-14"
+last_updated: "2006-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIOS DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -1636,3 +1638,23 @@ P.O. 14 DE ENERO DE 2006.
 PRIMERO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 15 DE JULIO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor en un término de setenta días naturales después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Poder Legislativo, publicada en el Suplemento al número 96 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 2 de diciembre de 1998.
+
+TERCERO.- En un término que no excederá de setenta días naturales contados a partir de la publicación de esta Ley, deberá emitirse el Reglamento General del Poder Legislativo y demás disposiciones reglamentarias.
+
+CUARTO.- En un término que no excederá de noventa días a partir de la entrada en vigor de esta Ley deberá aprobarse el Estatuto del Servicio Profesional de Carrera Parlamentaria del Poder Legislativo, iniciando su vigencia a partir del primer día del mes de enero del año 2007, considerándose las medidas presupuestales necesarias.
+
+DISPOSICIONES ADICIONALES
+
+PRIMERA.- Los asuntos que antes del inicio de la vigencia de la presente Ley se encuentren radicados en Comisiones, deberán ser dictaminados por éstas, no obstante que esta Ley asigne tales asuntos a diversa Comisión legislativa.
+
+SEGUNDA.- Los titulares de la Secretaria General, de la Dirección de Apoyo Parlamentario, de la Dirección de Procesos Legislativos y Asuntos Jurídicos y de la Dirección de Administración y Finanzas, así como de las unidades de cada una de ellas, deberán ser nombrados dentro de los treinta días naturales siguientes a la entrada en vigor de esta Ley.
+
+Los titulares de las unidades administrativas existentes antes de la entrada en vigor de esta Ley, que hayan demostrado eficiencia y responsabilidad en el desempeño de su cargo, podrán ser ratificados por el Pleno.
+
+TERCERA.- Una vez designados los titulares de las unidades administrativas, deberán someter a la consideración y aprobación de la Comisión de Régimen Interno y Concertación Política o de la Comisión de Planeación, Patrimonio y Finanzas, los reglamentos y los manuales de organización y procedimiento de cada unidad.
