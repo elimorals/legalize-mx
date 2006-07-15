@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-patrimonio-del-estado-y-municipios-22279"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-18"
-last_updated: "2001-08-18"
+last_updated: "2006-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 18 de agosto de 2001.
 
@@ -593,9 +593,11 @@ La misma pena se impondrá a quien, a sabiendas de que un bien pertenece a algun
 
 Al que destruya o realice acciones de modificación o transformación de edificios, de su fachada, de alguno de sus componentes o estructura original que deban ser preservados por su valor artístico o histórico, así como al que explore, excave, remueva o adhiera cualesquier tipo de obra que altere total o parcialmente el patrimonio catalogado por la ley como cultural, independientemente de la obligación de cubrir su valor o en su caso el costo de su restauración, se le aplicará una pena de seis meses a tres años y una multa de cincuenta a quinientas cuotas de salario mínimo general vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2006)</small>
+
 ###### Artículo 71.
 
-Al que tenga en posesión un bien inmueble, posea o se apodere de bienes muebles sin derecho o sin consentimiento de quien pueda disponer de él y que con arreglo a la ley sean considerados como bienes de dominio público, se le aplicará una pena de uno a cinco años y una multa de cincuenta a quinientas cuotas de salario mínimo general vigente en el Estado, sin perjuicio del ejercicio de las acciones reivindicatorias que procedan.
+Al que tenga en posesión un bien inmueble, posea o se apodere de bienes muebles sin derecho o sin consentimiento de quien pueda disponer de él y que con arreglo a la ley sean considerados como bienes de dominio público, se le aplicará una pena de tres a nueve años de prisión y una multa de cincuenta a quinientas cuotas de salario mínimo general vigente en el Estado, sin perjuicio del ejercicio de las acciones reivindicatorias que procedan.
 
 ### CAPITULO SEGUNDO. De las Infracciones
 
@@ -642,3 +644,9 @@ LIC. RICARDO MONREAL AVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JULIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
