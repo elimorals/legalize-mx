@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-desarrollo-rural-26212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-31"
-last_updated: "2002-08-31"
+last_updated: "2006-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de agosto de 2002, y republicado el miércoles 11 de septiembre de 2002.
 
@@ -533,15 +533,23 @@ III. Encargarse de la operación, mantenimiento y programación de la producció
 
 IV. Coordinarse con los sectores público, social y privado para el control de plagas, enfermedades y todo aquello que afecte tanto a la agricultura como fruticultura en el Estado.
 
-V. Elaboración de expedientes técnicos para la autorización de obras.
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
 
-VI. Coordinación con la Comisión Federal de Electricidad para la Ejecución de Obras de Electrificación.
+V. Emisión y control de constancias de Origen para la movilización de productos y subproductos del campo.
 
-VII. En coordinación con la Comisión Nacional del Agua, dictaminar sobre el aprovechamiento, uso y distribución de las aguas de Jurisdicción Estatal, en apego a las normas, leyes y reglamentos vigentes tanto federales como estatales.
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
 
-VIII. Dar asesoría y atender a las solicitudes de los productores agrícolas del estado, así como a los usuarios de los distritos de riego y de temporal.
+VI. Realizar acciones para combatir el robo de productos y subproductos agropecuarios, en coordinación con las dependencias de la materia.
 
-IX. Las demás que le fije expresamente el Director de Fomento Agropecuario.
+VII. Elaboración de expedientes técnicos para la autorización de obras.
+
+VIII. Coordinación con la Comisión Federal de Electricidad para la Ejecución de Obras de Electrificación.
+
+IX. En coordinación con la Comisión Nacional del Agua, dictaminar sobre el aprovechamiento, uso y distribución de las aguas de Jurisdicción Estatal, en apego a las normas, leyes y reglamentos vigentes tanto federales como estatales.
+
+X. Dar asesoría y atender a las solicitudes de los productores agrícolas del estado, así como a los usuarios de los distritos de riego y de temporal.
+
+XI. Las demás que le fije expresamente el Director de Fomento Agropecuario.
 
 ###### ARTÍCULO 23.
 
@@ -770,3 +778,15 @@ SECRETARIO GENERAL DE GOBIERNO
 C.P. JOSÉ LUIS GARCÍA MAYAGOITIA
 
 SECRETARIO DE DESARROLLO RURAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado y cúmplase.
