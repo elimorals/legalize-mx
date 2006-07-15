@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-desarrollo-rural-26212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-31"
-last_updated: "2002-08-31"
+last_updated: "2006-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1997 +21,775 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
+Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de agosto de 2002, y republicado el miércoles 11 de septiembre de 2002.
 
-E R N E S T O R U F F O A P P E L .
+C.P. PATRICIO MARTÍNEZ GARCÍA, Gobernador del Estado Libre y Soberano de Chihuahua, en ejercicio de la facultad que me concede el Artículo 93, Fracción IV, de la Constitución Política del Estado, y con fundamento en lo dispuesto por los Artículos 1 Fracción VII, 16 y 25 Fracción VII de la Ley Orgánica del Poder Ejecutivo del Estado, he tenido a bien emitir el siguiente:
 
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
-
-QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
-
-LA H. XIV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I Y XXX DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
-
-LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
-
-###### ARTÍCULO PRIMERO.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
-
-###### ARTÍCULO SEGUNDO.
-
-Dentro de los ciento veinte días siguientes a la fecha de entrada en vigor de la presente reforma, la Secretaría de Educación y Bienestar Social emitirá las disposiciones legales y administrativas necesarias para la implementación y operación del Certificado internacional de Preparación Curricular.
-
-P.O. 24 DE SEPTIEMBRE DE 2010.
-
-PRIMERO.- Las presentes reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Para el cabal cumplimiento a la reforma al Artículo 35 de esta Ley, la misma estará sujeta a la planeación y disponibilidad presupuestaria.
-
-P.O. 25 DE ABRIL DE 2011.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado en su presupuesto.
-
-P.O. 7 DE OCTUBRE DE 2011.
-
-Único.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE ENERO DE 2012.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado en su presupuesto.
-
-TERCERO.- Una vez que entre en vigor la presente Reforma, el Ejecutivo Estatal tendrá un plazo de 60 días naturales para modificar o expedir las medidas reglamentarias correspondientes.
-
-CUARTO.- El Ejecutivo Estatal destinará de forma gradual y de acuerdo a la disponibilidad presupuestaria los recursos financieros suficientes para dotar de uniformes escolares a los alumnos de educación básica impartida por el Estado a través del Programa que para tal efecto se establezca.
-
-QUINTO.- En ejercicio de las facultades conferidas al Poder Ejecutivo estatal en el artículo 15 fracción III de la Ley de Educación para el Estado, propondrá a la Secretaría de Educación Pública dentro del primer ciclo escolar para el año 2012, dentro de los contenidos regionales, el tema relativo a la formación y educación en el nivel básico, sobre la importancia en la implementación de la cultura de la donación y el trasplante de órganos y tejidos, para fortalecer la actitud solidaria de todos los educandos, en la preservación de la salud como una alternativa de vida.
-
-SEXTO.- El Ejecutivo del Estado hará las previsiones presupuestales para el Ejercicio Fiscal 2012 a efecto de dotar de presupuesto a los Programas Estatales de Becas y Uniformes Escolares.
-
-P.O. 16 DE MARZO DE 2012.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado, en el respectivo presupuesto de egresos.
-
-TERCERO.- La constitución de los sistemas y registros a que hace referencia la fracción XXV del artículo 15 se llevarán a cabo con base en la disponibilidad presupuestal y de manera gradual con la participación coordinada de las autoridades educativas de los órdenes de gobierno correspondiente
-
-P.O. 13 DE JULIO DE 2012.
-
-DECRETO NÚMERO 232, POR EL QUE SE APRUEBA LA REFORMA DEL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
-
-ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 13 DE JULIO DE 2012.
-
-DECRETO NÚMERO 234, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE JULIO DE 2012.
-
-ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 10 DE AGOSTO DE 2012.
-
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Una vez que entre en vigor la presente reforma, el Ejecutivo Estatal tendrá un plazo de 180 días naturales para modificar o expedir las medidas reglamentarias correspondientes.
-
-TERCERO.- El Ejecutivo Estatal destinará de forma gradual y de acuerdo a la disponibilidad presupuestaria los recursos financieros suficientes para que los inmuebles destinados a la educación básica impartida por el Estado, sean pintados de color blanco, en su carácter de color oficial.
-
-P.O. 31 DE AGOSTO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Para dar cumplimiento a lo establecido en los artículos 24, 25 y 26 del presente Decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, de tal manera que para el ciclo escolar 2013-2014 se iniciara al 100 por ciento con los alumnos de 3° de preescolar y 100 por ciento para los alumnos de 1°, 2° y 3° grado de primaria. A partir del ciclo escolar 2014-2015, se cubrirá al 100 por ciento a los alumnos de 4°, 5° y 6° grado de primaria. Para el ciclo escolar 2016-2017 se aplicará en su totalidad en el nivel básico del Sistema Educativo Estatal.
-
-P.O. 19 DE OCTUBRE DE 2012.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 26 DE OCTUBRE DE 2012.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- La integración de la educación vial a los planes y programas de estudio, será analizada por el sistema educativo estatal para su valoración e inclusión al nivel y grado académico que se determine por el personal educativo especializado.
-
-TERCERO.- El Poder Ejecutivo del Estado, enviará en tiempo y forma a la Secretaría de Educación Pública, la inclusión de los contenidos educativos en materia de "educación vial" para su adición a los planes y programas de estudio del año 2013.
-
-P.O. 23 DE NOVIEMBRE DE 2012.
-
-PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- El Congreso del Estado realizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo a las presentes Reformas de Ley.
-
-P.O. 28 DE DICIEMBRE DE 2012.
-
-PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
-
-SEGUNDO: Se derogan las disposiciones que se opongan al presente Decreto.
-
-TERCERO: Con relación a las reformas a los artículos 14, fracciones I, II y VIII, 22 fracción II, 28, 29, y adición del artículo 30 bis, todos de la Ley de Educación para el Estado de Baja California, el Sistema Educativo Estatal, deberá formular la estructura administrativa para la creación de las áreas necesarias para el cumplimiento de este Decreto o en su caso, la modificación del reglamento respectivo para asignar las funciones correspondientes de la educación artística al área que corresponda.
-
-P.O. 26 DE ABRIL DE 2013.
-
-DECRETO No. 439, POR EL QUE SE REFORMAN LAS FRACCIONES II, III Y IX, ASÍ COMO SE ADICIONA LA FRACCIÓN XXIII Y SE RECORRE LA FRACCIÓN XXII PARA QUEDAR COMO FRACCIÓN XXIII, TODAS DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 1.
-
-Las normas de esta Ley son de orden público e interés social, sus disposiciones regirán en el Estado de Baja California y tienen por objeto regular la educación que impartan el Estado y sus Municipios, los organismos descentralizados de ambos y las personas físicas o morales particulares con autorización o reconocimiento de validez oficial de estudios en los términos establecidos por la Constitución Política de lo (sic) los Estados Unidos Mexicanos, la propia del Estado, la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Servicio Profesional Docente del Estado, los principios contenidos en la presente Ley, los reglamentos y demás disposiciones que emanen de estas, así como los convenios que sobre la materia concerte el Estado.
-
-###### ARTICULO 2.
-
-La aplicación de las disposiciones de esta Ley corresponde a las autoridades educativas estatales y municipales, en los términos que la misma establece y en los que prevean sus reglamentos y por lo tanto obligan a:
-
-I.- El Estado y Municipios, dentro de sus respectivas competencias y sus organismos descentralizados.
-
-II.- Las personas físicas o morales particulares con autorización o reconocimiento de validez oficial, y
-
-III.- Las instituciones a quienes esta Ley imponga deberes esenciales vinculados con la Educación.
-
-Las instituciones de Educación Superior autónomas por Ley se regularán por sus propios ordenamientos jurídicos y normas administrativas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 3.
-
-La educación es un medio fundamental para que en la libertad y en la solidaridad se formen y desarrollen integralmente los seres humanos en sus responsabilidades y derechos sociales, cívicos, económicos, culturales y de respeto al medio ambiente, para que se les instruya y capacite para el futuro, para que tengan una vida digna y conozcan el sentido de la misma; por ello, la educación que impartan el Estado, los municipios y demás organismos públicos y los particulares con autorización o reconocimiento de validez oficial de estudios, será de calidad y promoverá el conocimiento de la cultura regional, de sus valores arqueológicos, históricos y artísticos, de las tradiciones, lenguas y creencias de sus culturas indígenas, de su geografía y del papel que Baja California ha representado en la configuración y desarrollo de la historia e identidad de la nación mexicana.
-
-Por ello, el estado pugnará que la búsqueda por la excelencia del quehacer educativo se aplique con respeto de los derechos humanos.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 4.
-
-La educación constituye una prioridad en la planeación y programación del desarrollo integral del Estado y es un derecho fundamental de todos los habitantes del mismo.
-
-El Gobierno del Estado, los gobiernos municipales, sus organismos descentralizados y las personas físicas o morales particulares con autorización o reconocimiento de validez oficial de estudios, establecerán los medios para que todos los individuos ejerzan plenamente su derecho a la educación y tengan las mismas oportunidades de acceso al sistema educativo estatal, sin más limitaciones que los requisitos previstos por las normas aplicables.
-
-El Gobierno del Estado y los gobiernos municipales destinarán presupuestos suficientes y complementarios de la concurrencia señalada en el artículo 25 de la Ley General de Educación, para el cumplimiento cabal del derecho de sus habitantes a la educación. Asimismo, podrán convenir con la Federación formas de financiamiento conjunto para la ampliación y mejoramiento de los servicios educativos que se prestan en el Estado.
-
-El Ejecutivo del Estado, de conformidad con las disposiciones aplicables proveerá lo conducente para que cada Ayuntamiento reciba recursos para el cumplimiento de las atribuciones consignadas en el Artículo 16.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-El Ejecutivo del Estado vigilará que el presupuesto destinado al sector educativo para la construcción, mantenimiento, mejoramiento, rehabilitación o remodelación, interior o exterior de inmuebles educativos, no sea utilizado de forma tal que promueva partidos, ideologías, servidores públicos, que pudieran influir u orientar las preferencias electorales o simpatías políticas de los niños, niñas, adolescentes y jóvenes.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
-
-De igual manera debe de otorgar los elementos necesarios para realizar los ajustes razonables en las instalaciones y espacios de los inmuebles educativos, de acuerdo al diseño universal de accesibilidad, en los términos de las Leyes en materia de inclusión de Personas con Discapacidad.
-
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2015)</small>
-
-El Ejecutivo Estatal y los Municipios están obligados a incluir en el proyecto de presupuesto que sometan a la aprobación de la legislatura local, los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el artículo 28 bis de la Ley General de Educación.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 4 BIS.- El Ejecutivo Estatal y los Municipios, en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas. Tratándose de escuelas de educación básica, el Ejecutivo Estatal y los Municipios deben seguir los lineamientos que emitirá la Secretaría de Educación Pública para formular los programas de gestión escolar, mismos que tendrán como objetivos:
-
-I.- Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar;
-
-II.- Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la autoridad y la comunidad escolar, y
-
-III.- Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
-
-###### ARTICULO 5.
-
-El Ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes a todos los habitantes del Estado para cursar la educación preescolar, primaria y secundaria bajo el criterio de la mayor calidad y equidad.
-
-I.- Atenderá de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones.
-
-II.- Desarrollará programas de apoyo a los docentes que realicen sus servicios en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades.
-
-III.- Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos.
-
-IV.- Establecerá sistemas de educación a distancia.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
-
-V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar mejor atención a sus hijos.
-
-VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, incluyendo los desayunos escolares para las zonas urbanas y rurales que lo requieran.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con discapacidad, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE ENERO DE 2012)</small>
-
-VIII.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
-
-IX.- Establecerá los criterios para recomendar y autorizar a través de la Secretaría de Educación y Bienestar Social, el color y las características de los uniformes escolares en escuelas públicas y particulares de los niveles de educación básica y media superior, tomando en consideración:
-
-a).- Las autoridades escolares no condicionarán el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes con distintivos especiales y demás objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos comerciales específicos.
-
-b).- Los padres de familia o tutores adquirirán los materiales educativos y uniformes en donde más les convenga, sin que se les pueda obligar a comprarlos en establecimientos o marcas determinados.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-El Estado también promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Así mismo fomentará la coordinación entre las autoridades estatales de educación y salud pública a efecto de que se establezcan acciones conjuntas para la vigilancia y detección oportuna de enfermedades transmisibles y no transmisibles en los planteles educativos con el objeto de su prevención y control oportuna por medio de los Consejos de Participación Social.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2013)</small>
-
-Las previsiones descritas en este artículo se harán en los presupuestos respectivos.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
-
-###### ARTICULO 6.
-
-Todos los habitantes del Estado tienen derecho a recibir educación de calidad que garantice el máximo logro de aprendizaje de los educandos. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria y secundaria.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-### CAPITULO III. DEL SISTEMA EDUCATIVO ESTATAL
-
-###### ARTICULO 7.
-
-Toda la educación que el Estado imparta será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contraprestación.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Para garantizar la gratuidad en la educación preescolar, primaria, secundaria y media superior, el Ejecutivo del Estado destinará en el presupuesto de egresos para el ejercicio fiscal correspondiente, los recursos suficientes para el mantenimiento y cuidado de las escuelas de nivel básico y medio superior del sistema educativo del Estado de Baja California.
-
-### CAPITULO IV. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
-
-###### ARTICULO 50.
-
-El Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, administrará, planeará, organizará y vigilará el desarrollo educativo del Estado, en los términos de las normas federales y estatales sin menoscabo de la competencia que las leyes otorgan a otras autoridades.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
-
-###### ARTICULO 51.
-
-Corresponde a la Secretaría de Educación y Bienestar Social formular un Proyecto Educativo del Estado que deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y someterlo a la aprobación del Titular del Ejecutivo, considerando la opinión de los Ayuntamientos, así como los demás sectores involucrados en los aspectos educativos.
-
-###### ARTICULO 52.
-
-El Proyecto Educativo del Estado que se formule, deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y será el instrumento que permitirá integrar los esfuerzos de autoridades, organismos e instituciones educativas públicas y privadas, orientados al desarrollo educativo, debiendo contener, por lo menos los siguientes elementos:
-
-I.- Diagnóstico de la educación en el Estado.
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-II.- Instrumentos de planeación y control y seguimiento.
-
-III.- Instrumentos de evaluación permanente.
-
-IV.- Proyectos estratégicos.
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-V.- Líneas de acción.
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-VI.- Participación directa de los diversos sectores sociales involucrados en la educación, y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-VII.- Mecanismos de reorientación y/o reconducción, como resultado de la evaluación.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 53.
-
-El Proyecto Educativo del Estado deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura y el bienestar personal, familiar y social en la comunidad, para lo cual tomará como base la Ley General de Educación, la presente Ley, y contener los elementos necesarios para el diseño del programa sectorial de educación.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 54.
-
-El Titular del Poder Ejecutivo expedirá el Programa Sectorial de Educación del periodo correspondiente con base en la propuesta que le presente la Secretaría de Educación y Bienestar Social y habiendo escuchado esta a los sectores involucrados a que hace referencia el artículo 59 de la presente Ley.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 55.
-
-El Programa Sectorial de Educación se formulará en congruencia con el Plan Estatal de Desarrollo, contendrá los elementos a que se refiere la Ley de Planeación del Estado de Baja California, se publicará dentro del año siguiente a partir de la publicación del Plan Estatal de Desarrollo, atento a lo dispuesto por la Ley antes mencionada y se sujetará a los principios establecidos en el Artículo Tercero Constitucional.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 56.
-
-Las autoridades educativas estatales y municipales evaluarán en forma sistemática y permanente el sistema educativo estatal de manera coordinada y concurrente con las autoridades educativas federales, conforme a lo dispuesto por la fracción XI del artículo 12 de la Ley General de Educación, para la adopción de las medidas pertinentes.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 57.
-
-La Secretaría de Educación y Bienestar Social dará a conocer al término de cada ciclo escolar, mediante una publicación en medios masivos de comunicación y electrónicos, a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, sobre los resultados de la evaluación de conformidad a lo regulado por la Ley de Planeación del Estado, concluyendo la misma acerca de las acciones decididas para el mejoramiento de los servicios educativos.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 58.
-
-Se declara de interés público la evaluación del Sistema Educativo Estatal; los organismos e instituciones educativas pertenecientes al Sistema, tienen la obligación de contribuir a la evaluación y el derecho de conocer los resultados de la misma, debiendo aportar estos en el ejercicio de análisis a la evaluación correspondiente dentro del sistema de consulta, las observaciones pertinentes para la integración de la propuesta institucional que se remitirá a la Secretaría de Educación Pública, de conformidad con las disposiciones mencionadas en esta Ley y la Ley General de Educación y los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación.
-
-Las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación en la entidad federativa.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 59.
-
-En la planeación y evaluación del desarrollo educativo del Estado, las autoridades educativas estatales y municipales organizarán un sistema de consulta y concertación con los sectores sociales, destacando a los involucrados en los aspectos educativos y sus organismos sindicales, reuniendo y analizando las aportaciones y sugerencias para la integración de la propuesta estatal.
-
-###### ARTICULO 8.
-
-La educación que impartan los Gobiernos Estatal, Municipal, sus organismos descentralizados y las personas físicas o morales particulares con autorización o reconocimiento de validez oficial de estudios, constituyen un servicio público.
-
-###### ARTICULO 9.
-
-El gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativos, incluidas la educación superior, la investigación científica y tecnológica y alentará el fortalecimiento de la cultura universal, nacional y regional.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2015)</small>
-
-###### ARTICULO 10.
-
-La educación que se imparta en el Sistema Educativo Estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa o partidista, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra mujeres, niños y adultos mayores. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios o discriminaciones de razas, de religión, de grupos, de sexos o de individuos o de ideología política.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-Para tal efecto, la imagen institucional de los inmuebles destinados a la educación impartida por el Estado, no se podrán identificar con los colores, lemas, imágenes o logotipos de los partidos políticos o signos religiosos, con el fin de salvaguardar a los centros escolares de cualquier acción con estos fines.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
-
-Para dar cumplimiento a los objetivos del presente artículo, en los inmuebles destinados a la educación básica impartida por el Estado, se utilizará algún color neutro como color oficial.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-Asimismo, la educación que se imparta en el Sistema Educativo Estatal será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, pertinencia y equidad.
-
-###### ARTICULO 11.
-
-Los gobiernos Estatal y municipales deben, en forma permanente, evaluar, adecuar, ampliar, mejorar y actualizar los servicios educativos que por disposición de esta Ley, queden bajo su responsabilidad y competencia.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 11 BIS.- Las instituciones educativas establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, así como las autoridades escolares, otorgarán a las autoridades educativas y al Instituto Nacional para la Evaluación de la Educación todas las facilidades y colaboración para las evaluaciones.
-
-Para ello, proporcionarán oportunamente toda la información que se les requiera; tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos; facilitarán que el Instituto Nacional para la Evaluación de la Educación, las autoridades educativas, los evaluadores certificados y los aplicadores autorizados para tal efecto, realicen las actividades que les corresponden conforme a la normativa aplicable.
-
-Las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación.
-
-Para los efectos de esta Ley, se entiende por autoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares.
-
-###### ARTICULO 12.
-
-Son de interés social las actividades e inversiones de cualquier tipo que en materia educativa realicen los gobiernos Estatal, municipales, sus correspondientes organismos descentralizados y los particulares.
-
-### CAPITULO V. DE LA PARTICIPACION SOCIAL
-
-###### ARTICULO 60.
-
-Son derechos de quienes ejercen la patria potestad o tutela:
-
-I.- Como agente natural o primario de la educación, elegir para sus hijos o pupilos la institución educativa pública o particular que les convenga.
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-II.- Obtener la inscripción en escuelas públicas o particulares para que sus hijos o pupilos menores de dieciocho años de edad, que satisfagan los requisitos aplicables, reciban la educación en los niveles, tipos y modalidades que se impartan en el Estado.
-
-III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se avoquen a su solución.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo.
-
-V.- Colaborar con las autoridades escolares para la superación de los educandos, en los términos del Proyecto Educativo del Estado, así como coadyuvar en el mejoramiento de los planteles escolares.
-
-VI.- Notificar verbalmente o por escrito a las autoridades escolares y educativas, de los aciertos o irregularidades que observen en la prestación del servicio educativo, y
-
-VII.- Opinar ante las autoridades educativas en relación a las tarifas y demás contraprestaciones que las escuelas particulares fijen.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-VIII.- Conocer las calificaciones, resultados de las evaluaciones parciales y finales de sus hijos o pupilos, así como las observaciones sobre el desempeño académico de los propios educandos que permitan lograr mejores aprovechamientos.
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-IX.- Obtener la información de los resultados de la evaluación al Sistema Educativo Estatal realizada por las autoridades educativas y por el Instituto Nacional para la Evaluación de la Educación;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
-
-X.- Una vez reconocido su carácter de asociados conforme a esta Ley y su Reglamento, actuar en forma conjunta con las Asociaciones de Padres de Familia en la toma de decisiones, incluyendo la determinación de las participaciones voluntarias, en su caso.
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
-
-XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-XII.- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar;
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-XIII.- Ser observadores en las evaluaciones de docentes y directivos, para lo cual deberán cumplir con los lineamientos que al efecto emita el Instituto Nacional para la Evaluación de la Educación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XIV.- Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijos o pupilos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XV.- Opinar a través de los Consejos de Participación respecto a las actualizaciones y revisiones de los planes y programas de estudio;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XVI.- Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XVII.- Presentar quejas ante las autoridades educativas correspondientes, en el artículo 16 bis fracción VII, sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijos o pupilos menores de edad y sobre las condiciones de la escuela a la que asisten, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XVIII.- Las demás establecidas en las leyes y reglamentos respectivos.
-
-###### ARTICULO 61.
-
-Son obligaciones de quienes ejercen la patria potestad o tutela:
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-I.- Hacer que sus hijos o pupilos, menores de dieciocho años de edad, reciban la educación preescolar, la primaria y la secundaria.
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-II.- Apoyar el proceso educativo de sus hijos o pupilos de conformidad con lo señalado por el Proyecto Educativo del Estado.
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas, culturales y sociales que las mismas realicen.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
-
-IV.- Participar en los programas de escuela de padres.
-
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-V.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios.
-
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-VI.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
-
-###### ARTICULO 62.
-
-En cada establecimiento educativo habrá una asociación integrada por padres de familia, tutores o por quienes ejerzan la patria potestad.
-
-###### ARTICULO 63.
-
-Las asociaciones de padres de familia tendrán por objeto:
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
-
-I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados.
-
-II.- Colaborar en el mejoramiento de la comunidad escolar y proponer a las autoridades las medidas que estimen conducentes.
-
-III.- Propiciar el mejoramiento social y cultural de sus miembros, y
-
-IV.- Todo aquello que prevengan los reglamentos respectivos.
-
-###### ARTICULO 64.
-
-Las asociaciones de padres de familia podrán:
-
-I.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares y de su funcionamiento.
-
-II.- Reunir fondos con participaciones voluntarias o actividades de sus miembros para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante bienes o servicios, que no serán considerados como contraprestaciones del servicio, por lo que en ningún caso se podrá condicionar alguno de los derechos del educando.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2007)</small>
-
-Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota o cooperación que se solicite, son totalmente libres y voluntarias, por lo tanto, las mismas no podrán requerirse en periodo que comprenda los trámites de solicitudes recepción y devolución de documentos, así como inscripción, preinscripción, reinscripción, entrega de constancias y certificados que acrediten los niveles o grados de estudios cursados o algún derecho de los educandos. La ausencia en dicha aportación no podrá condicionar ninguno de los derechos de los educandos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2007)</small>
-
-Se prohíbe estrictamente a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualquiera otra aportación que con sentido de obligatoriedad sea requerida por estas asociaciones. El Secretario de Educación del Estado de Baja California, tendrá la obligación de vigilar, respetar y hacer valer lo establecido en la presente fracción. La violación a la misma será causa de responsabilidad para los servidores públicos que la cometan.
-
-III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos.
-
-IV.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros y su situación en la producción.
-
-V.- Colaborar con las autoridades escolares y educativas, en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades.
-
-VI.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores. Por ello los padres de familia no están obligados a resolver los problemas de mantenimiento y equipamiento de los edificios escolares, o hacer otros gastos que lesionen la economía familiar.
-
-VII.- Informar por escrito a las autoridades educativas y escolares sobre cualquier acierto o irregularidad de que sean objeto los educandos, y
-
-VIII.- Realizar todas aquellas acciones que contemple el Reglamento respectivo emitido por el Ejecutivo Estatal.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2007)</small>
-
-ARTICULO 64 BIS.- Las Asociaciones de padres de familia deberán:
-
-I.- Acordar, de manera conjunta con los padres de familia asociados, el monto de las aportaciones y el destino de las mismas;
-
-II.- Informar a los padres de familia o tutores, de todas sus actividades, y de la administración de los fondos y la situación financiera en que se encuentra la Asociación, y
-
-III.- Sujetarse a lo que prevengan los reglamentos aplicables.
-
-###### ARTICULO 65.
-
-Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
-
-###### ARTICULO 66.
-
-Las autoridades educativas promoverán, de conformidad con los lineamientos que se establezcan para tal fin, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos en los términos de la presente ley.
-
-###### ARTICULO 67.
-
-Será responsabilidad de las autoridades de cada escuela de educación pública, vincular a ésta, activa y constantemente, con la comunidad. Las autoridades educativas del Estado y de los ayuntamientos darán toda su colaboración para tales efectos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 68.
-
-Las autoridades educativas harán lo conducente para que en cada escuela pública de educación básica, opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, trabajadores de la educación y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, directivos de la escuela, ex alumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
-
-Las autoridades educativas podrán estructurar el sistema de consejos de participación social de acuerdo a las necesidades propias de cada región.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
-
-###### ARTICULO 69.
-
-Los Consejos Escolares, además de los lineamientos que para tal efecto expida la Secretaría de Educación Pública:
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-I.- Conocerán el calendario escolar, las metas educativas, el Proyecto Educativo del Estado y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-II.- Conocerán y darán seguimiento de las acciones que realicen los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 35 de la presente ley;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-III.- Conocerán de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-IV.- Sensibilizarán a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos; así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-V.- Tomarán nota de los resultados de las evaluaciones que realicen las autoridades educativas;
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-VI.- PROPICIARÁN LA COLABORACIÓN DE MAESTROS Y PADRES DE FAMILIA PARA SALVAGUARDAR LA INTEGRIDAD Y EDUCACIÓN PLENA DE LOS EDUCANDOS, PODRÁN PROPONER ESTÍMULOS Y RECONOCIMIENTOS DE CARÁCTER SOCIAL A ALUMNOS, MAESTROS, DIRECTIVOS Y EMPLEADOS DE LA ESCUELA, PARA SER CONSIDERADOS POR LOS PROGRAMAS DE RECONOCIMIENTO QUE ESTABLECE LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO Y DEMÁS PROGRAMAS QUE AL EFECTO DETERMINE LA SECRETARÍA DE EDUCACIÓN PÚBLICA Y LAS AUTORIDADES EDUCATIVAS ESTATALES;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-VII.- Estimularán, promoverán y apoyarán actividades extraescolares que complementen y respalden la formación de los educandos;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE OCTUBRE DE 2012)</small>
-
-VIII.- Llevarán a cabo las acciones de participación, coordinación y difusión necesarias para la prevención de riesgos y accidentes, educación vial, protección civil y la emergencia escolar;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-IX.- Alentarán el interés familiar y comunitario por el desempeño del educando;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-X.- Opinarán en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de los educandos;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XI.- Contribuirán a reducir las condiciones sociales adversas que influyan en la educación;
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-XII.- Estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, y en general, las que tiendan apoyar las necesidades especiales de los educandos;
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-XIII.- Promoverán y organizarán acciones de prevención para la salud en coordinación con la Secretaría de Salud Pública del Estado a efecto de detectar oportunamente dentro de los planteles escolares la aparición y proliferación de enfermedades trasmisibles y no trasmisibles con el objeto de dar aviso a la autoridad sanitaria para su control y tratamiento. Así mismo promoverán campañas de vacunación y promoverán acciones de salubridad pública en el entorno social de los planteles educativos, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2013)</small>
-
-XIV.- Respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Los Consejos Análogos deberán operar en las escuelas particulares de educación básica.
-
-###### ARTICULO 70.
-
-Los consejos sectoriales o de delegación municipal estarán integrados por el Delegado Municipal o por quien designe el Presidente Municipal, representantes de los consejos escolares, padres de familia, representantes de sus asociaciones, exalumnos, docentes distinguidos y directivos escolares de la zona o delegación, representantes de la organización sindical de los trabajadores de la educación, organizaciones sociales del sector y demás interesados en la educación.
-
-Estos consejos tendrán las facultades establecidas para los consejos escolares y coadyuvarán con los consejos municipales en las actividades que les sean encomendadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 71.
-
-En cada Municipio operará un Consejo Municipal de Participación Social en la Educación integrado por las Autoridades Municipales, Padres de Familia y Representantes de sus Asociaciones, Docentes Distinguidos y Directivos de Escuelas, Representantes de la Organización Sindical de los Trabajadores de la Educación, quienes acudirán como representantes de los intereses laborales de los trabajadores, Representantes de Organizaciones Sociales cuyo objeto social sea la educación y todas aquellas personas interesadas en el mejoramiento de la educación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Este consejo gestionará ante los Ayuntamientos y las Autoridades Educativas:
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-II. Conocerán de los resultados de las evaluaciones que realicen las autoridades educativas;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-III. Llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-IV.- Estimularán, promoverán y apoyarán actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos, sociales así como de prevención de la salud pública dentro de los planteles educativos y de su entorno social;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-V. Establecerán la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-VI. Harán aportaciones relativas a las particularidades del municipio, que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-VII. Podrán opinar en asuntos pedagógicos;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-VIII. Coadyuvarán a nivel municipal en actividades de protección civil y emergencia escolar;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-IX. Promoverán la superación educativa en el ámbito municipal mediante certámenes interescolares;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-X. Promoverán actividades de orientación, capacitación, y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XI. Podrán proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XII. Procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública, y
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XIII. En general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
-
-Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación; así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo, para lo cual deberá apoyar el funcionamiento del Consejo Municipal con los recursos humanos y materiales que requieran el despacho oportuno de sus asuntos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 72.
-
-En el Estado funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, trabajadores de la educación y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de docentes, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto sea la educación, así como de sectores sociales y productivos del Estado especialmente interesados en la educación.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
-
-Para tal efecto, el Consejo Estatal se integrará de la siguiente manera:
-
-I. Como representantes de la sociedad civil por:
-
-a) El Presidente de la Asociación Estatal de Padres de Familia;
-
-b) El Presidente del Consejo Coordinador Empresarial de cada municipio o a quien éste designe;
-
-c) Los Consejeros Presidentes de los consejos Municipales;
-
-d) Dos representantes de los medios masivos de comunicación de cobertura estatal, invitados por el Consejero Presidente;
-
-e) Un representante de una institución privada de Educación Superior, propuesto por la Comisión Estatal para la Planeación de la Educación Superior, y
-
-f) Dos representantes de organizaciones civiles en materia educativa, previa invitación del Consejero Presidente.
-
-II. Como representantes del sector gubernamental por:
-
-a) El Secretario de Educación y Bienestar Social;
-
-b) El Subsecretario de Educación Básica;
-
-c) Un representante de una institución pública de Educación Superior propuesta por la Comisión Estatal para la Planeación de la Educación superior;
-
-d) Un representante de una institución formadora de docentes en el Estado;
-
-e) Un representante de la Comisión de Educación del Congreso del Estado;
-
-f) El Director de la Unidad de Evaluación Educativa;
-
-g) El Director del Instituto de Cultura de Baja California, o quien este designe, y
-
-h) Un representante del Instituto del Deporte y la Cultura Física de Baja California.
-
-III. Como representantes sindicales por:
-
-a) Un representante de la Sección 2 del Sindicato Nacional de Trabajadores de la Educación, designado por su sección, y
-
-b) Un representante de la sección 37 del Sindicato Nacional de Trabajadores de la Educación, designado por su sección.
-
-(REFORMADO, P.O. 16 DE MARZO DE 2012
-
-La elección del Consejero Presidente de este órgano recaerá en un representante de la sociedad civil de entre los que compongan dicho Consejo.
-
-(REFORMADO, P.O. 16 DE MARZO DE 2012
-
-Este Consejo promoverá y apoyará actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social, coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar, sistematizará los elementos y aportaciones relativos a las particularidades del Estado que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio, podrá opinar en asuntos pedagógicos, conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares, sectoriales o delegacionales y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo, conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
-
-###### ARTICULO 73.
-
-Los consejos de participación social se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones de carácter político o religioso.
-
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2011)</small>
-
-En caso de que el consejo aprecie la probable comisión de un delito en agravio de los educandos, solicitará como medida preventiva a las autoridades educativas del plantel, la suspensión temporal de las actividades del personal docente o administrativo que se encuentre presuntamente involucrado, hasta en tanto se aclare por la autoridad correspondiente dicha participación, previa audiencia a las partes involucradas. Dicha suspensión no afectará las prestaciones laborales que le correspondan.
-
-###### ARTICULO 74.
-
-Los medios de comunicación masiva en el Estado, en el desarrollo de sus actividades, contribuirán al logro de las finalidades de la educación previstas en la presente Ley, conforme los criterios establecidos en el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos y acorde al Programa Estatal de Educación.
-
-###### ARTICULO 13.
-
-El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplicación de esta Ley, respetando los derechos adquiridos por los trabajadores de la educación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 14.
-
-La Educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial en cualquiera de sus tipos, niveles y modalidades, deberá sujetarse a los principios establecidos por el artículo 3ro. de la Constitución Política de los Estados Unidos Mexicanos y tendrá los siguientes fines:
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-I.- Contribuir al desarrollo integral del individuo, resaltando los valores personales, sociales, éticos, físicos y artísticos, para que ejerza plena y responsablemente sus capacidades humanas.
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-II.- Promover y difundir la lectura, así como favorecer la adquisición tanto de conocimientos científicos y culturales como de actitudes éticas; fomentando igualmente el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y el sentido crítico, así como el sentido de la disciplina, del orden y de la justa libertad.
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-III.- Difundir al educando el conocimiento de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Baja California; Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, el conocimiento del Escudo y el Canto del Estado de Baja California, así como la valoración de las tradiciones y particularidades culturales del Estado y de las diversas regiones del País.
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
-
-IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo del rescate y la enseñanza de las lenguas de los grupos indígenas que existan en el Estado, así como garantizar la impartición permanente en la educación básica del idioma inglés.
-
-V.- Infundir el conocimiento y práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones al mejoramiento de la sociedad.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, el conocimiento de los valores éticos, los derechos humanos y el respeto a los mismos.
-
-VII.- Impulsar actitudes que estimulen la investigación e innovación científica y tecnológica, procurando la vinculación con el sector productivo.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-VIII.- Impulsar y aplicar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación.
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-IX.- Crear conciencia en la preservación de la salud fomentando la educación en materia de nutrición, desarrollando programas que estimulen la cultura física y la práctica del deporte dentro de las instituciones educativas por lo menos 3 horas por semana; impulsando programas que estimulen el seguimiento a deportistas de alto rendimiento; sin distinción alguna de condición social o discriminatoria por motivos de discapacidad.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la donación y el trasplante de órganos y tejidos, la preservación de la vida, la salud, la planeación e institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias.
-
-XI.- Informar y orientar a los educandos sobre los perjuicios que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, así como sus consecuencias nocivas, propiciando el rechazo a los vicios.
-
-XII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo con las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
-
-XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro.
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
-
-XIV.- Fomentar la cultura de la transparencia y rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
-
-XV.- Inculcar en el educando, una cultura de cumplimiento a la obligación constitucional de contribuir al gasto público, como medio para satisfacer las necesidades de la comunidad y alcanzar el bienestar general; asimismo a ejercer el derecho para exigir de la autoridad, su adecuada aplicación.
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
-
-XVI.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad.
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos. Asimismo, se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
-
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
-
-XX.- Inculcar los conceptos y principios fundamentales de la prevención de riesgos y accidentes, la educación vial, así como la protección civil y su importancia para la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-XXI.- Promover el uso responsable y seguro de Internet y las redes sociales digitales.
-
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
-
-XXII.- Informar a los padres de familia o tutores de los educandos que presenten problemas de conducta, para que, en su caso, sean canalizados a través de la estructura educativa a las instancias de apoyo psicológico, para que se determinen alternativas de solución con el fin de que reciban el tratamiento necesario.
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
-
-XXIII.- Fomentar una cultura de respeto, solidaridad y reconocimiento de los derechos de las personas adultas mayores; y
-
-XXIV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
-
-###### ARTICULO 15.
-
-El Ejecutivo del Estado, tiene las siguientes facultades y obligaciones en materia educativa:
-
-(REFORMADA, P.O. 13 DE MARZO DE 2014) (F. DE E., P.O. 28 DE MARZO DE 2014)
-
-I.- Impartir en toda la entidad los servicios de educación de calidad en todos los niveles que atiende el Estado, así como la normal y demás para la formación de docentes.
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2012)</small>
-
-II.- Estructurar el Sistema Educativo Estatal, de tal manera que permita al educando integrarse a la vida económica y social de la entidad, sin que suspenda su escolaridad, para tal efecto, por conducto de la Secretaría de Educación y Bienestar Social, establecerá acciones y mecanismos pedagógicos tendientes a evitar el abandono anticipado del educando, en educación básica y media superior.
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-III.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la primaria y secundaria, la normal y demás para la formación de docentes de educación básica. El Ejecutivo deberá consultar a los diversos sectores sociales para tal efecto.
-
-IV.- Mantener un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo Estatal.
-
-V.- Modificar, en caso necesario, el calendario para cada ciclo lectivo, de los distintos niveles y modalidades que atiende el Estado, con respecto al que emita la Secretaría de Educación Pública, sin contravenir la Ley General de Educación. Debiendo publicar el calendario en el periódico oficial del Estado.
-
-VI.- Vigilar que en los planteles educativos de la entidad, se dé estricto cumplimiento a la Ley Sobre el Escudo, la Bandera y el Himno Nacionales.
-
-(REFORMADA, P.O. 13 DE MARZO DE 2014) (F. DE E., P.O. 28 DE MARZO DE 2014)
-
-VII.- Prestar los servicios de formación, actualización, capacitación, y superación profesional para los docentes de educación básica y personal de apoyo, de conformidad con las necesidades del Estado y las disposiciones generales que la Secretaría de Educación Pública determine, conforme a lo dispuesto por la Ley General del Servicio Profesional Docente.
-
-VIII.- Promover por conducto de la Autoridad Federal correspondiente los convenios de cooperación internacional o acuerdos interinstitucionales en materia educativa, científica, tecnológica, artística, humanística, cultural y de educación física y deporte, en términos de lo que establecen las disposiciones legales aplicables.
-
-IX.- Expedir los lineamientos normativos para la organización y funcionamiento de las escuelas oficiales estatales, conforme a esta Ley.
-
-X.- Revalidar y otorgar equivalencias de estudios en todos los niveles educativos que atiende el Estado, de acuerdo con los lineamientos generales que expida la Secretaría de Educación Pública.
-
-XI.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones que ofrezcan nuevas opciones para el educando.
-
-XII.- Expedir certificados y otorgar diplomas, títulos o grados académicos a favor de las personas que hayan concluido el tipo básico, medio superior o cursado estudios de tipo superior, de conformidad con los requisitos establecidos en los planes de estudios correspondientes, pudiendo delegar esta función en sus organismos descentralizados conforme su normatividad, en los municipios o a los particulares con autorización o reconocimiento de validez oficial de estudios.
-
-XIII.- Otorgar, negar o revocar autorización a los particulares que impartan enseñanza primaria, secundaria, normal y las demás para la formación de docentes de educación básica, así como otorgar, negar o retirar el reconocimiento de validez oficial de estudios distintos a los anteriores, de acuerdo a la opinión técnica que se emita para tal efecto.
-
-XIV.- Vigilar que la educación que impartan los particulares en planteles incorporados al Sistema Educativo Estatal, se sujeten a las disposiciones de la presente Ley, así como a la normatividad que para tal efecto se expida.
-
-XV.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica de los miembros de la comunidad.
-
-Promover que los contenidos de los medios de comunicación, sean coadyuvantes del proceso enseñanza-aprendizaje.
-
-XVI.- Disponer el uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos.
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
-
-XVII.- Promover servicios educativos, distintos de los previstos en la fracción I, de acuerdo con las necesidades nacionales, estatales y municipales.
-
-XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, la categoría de institución de excelencia, de conformidad con la reglamentación que para tal efecto expidan las autoridades educativas de la entidad, y
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
-
-XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la prevención de delito y de concientizar de las influencias negativas que el delito provoca en la sociedad;
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-XX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de protección al medio ambiente.
-
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-XXI.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la protección civil.
-
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-XXII.- Proponer en los contenidos regionales a los que se refiere la fracción III de este artículo la incorporación de asignaturas relativas a la protección al medio ambiente y a la protección civil.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-XXIII.- Elaborar un programa estatal de becas en el sistema educativo estatal que contemple apoyos y estímulos en forma económica, en especie o en exención, para estudiantes de excelencia académica, de escasos recursos, con alguna discapacidad y estudiantes destacados en la cultura y el deporte; mecanismos de coordinación con la federación, municipios e instituciones públicas y privadas, así como expedir el reglamento de becas respectivo.
-
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
-
-XXIV.- Distribuir y entregar uniformes escolares gratuitos a los alumnos de escasos recursos inscritos en las escuelas públicas de los niveles de preescolar, primaria y secundaria, ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación y a través de un Programa Estatal, que funcionará de acuerdo a las normas y lineamientos de operación que la Secretaría emita.
-
-(REFORMADA, P.O. 13 DE MARZO DE 2014) (F. DE E., P.O. 28 DE MARZO DE 2014)
-
-XXV.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un Sistema Estatal de Información Educativa coordinado con el Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la Secretaría de Educación Pública y demás disposiciones aplicables.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 2014)</small>
-
-Asimismo, participar en la actualización e integración permanente del Sistema de Información y Gestión Educativa, el cual debe proporcionar información para satisfacer las necesidades de operación de los sistemas educativos locales, de conformidad con la Ley General de Educación;
-
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
-
-XXVI.- Participar con la Autoridad Educativa Federal en la operación de los mecanismos de ingreso y promoción en el servicio docente y de administración escolar.
-
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
-
-XXVII.- Elaborar e implementar por conducto de la Secretaría de Educación y Bienestar Social y la Secretaría de Desarrollo Social del Estado, programas contra la deserción escolar, principalmente contra la que se da en la educación de carácter obligatoria, y
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
-
-XXVIII.- Establecer medidas para que directivos y el personal docente de los centros educativos tomen en consideración alternativas excepcionales de estudio y evaluaciones para aquellos estudiantes de educación básica, media superior y superior destacados en la práctica del deporte, mismas que sean compatibles con la exigencia de atender su preparación física y mental, sus entrenamientos o competencias deportivas oficiales, sin descuidar su desempeño académico.
-
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
-
-XXIX. Garantizar y fomentar en las escuelas públicas de educación básica, el derecho al acceso gratuito al agua potable para beber.
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
-
-XXX.- Las demás atribuciones que emanen del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
-
-### CAPITULO VI. DE LA EDUCACION QUE IMPARTAN LAS PERSONAS FISICAS O MORALES PARTICULARES
-
-###### ARTICULO 75.
-
-Las personas físicas o morales particulares con autorización o reconocimiento de validez oficial de estudios, podrán impartir educación en todos sus tipos y modalidades.
-
-Para que los estudios de educación primaria, secundaria, normal y demás para la formación de docentes tengan validez oficial, deberán obtener previamente la autorización del Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social.
-
-Tratándose de estudios distintos de los anteriores, podrán obtener el reconocimiento de validez oficial de estudios, éstos serán específicos para cada plan de estudios. Para impartir nuevos estudios se requerirá, según el caso, la autorización o el reconocimiento respectivos.
-
-La autorización o el reconocimiento de validez oficial de estudios incorporan a las instituciones que los obtengan, respecto de los estudios a que dicha autorización o reconocimiento se refieren, al Sistema Educativo Estatal.
-
-El Gobierno del Estado de Baja California, considerará como reconocidos todos los planes y programas de estudio que establezcan las instituciones de excelencia, toda vez que cumpla con la reglamentación señalada para tal fin.
-
-###### ARTICULO 76.
-
-Para obtener o conservar la autorización o el reconocimiento de validez oficial de estudios las personas físicas o morales particulares deberán cumplir con:
-
-I.- Desarrollar sus actividades conforme lo establecido por la presente Ley y demás disposiciones reglamentarias que deriven de ella.
-
-II.- Contar con personal que acredite la preparación establecida en esta Ley para impartir la educación que pretenda prestar.
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
-
-III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas adecuadas al servicio que prestan. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o reconocimiento.
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
-
-IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la educación básica, la normal y demás para la formación de docentes; y
-
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
-
-V.- Garantizar que las instalaciones cuenten y satisfagan las condiciones al acceso gratuito al agua potable para beber a sus alumnos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2010)</small>
-
-###### ARTICULO 77.
-
-Las autoridades educativas publicarán en el periódico oficial del Estado, en la página electrónica que corresponda, y cuando lo consideren conveniente, por lo menos en uno de los periódicos de mayor circulación en la entidad, una relación de las instituciones a las que se les hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán oportunamente y en cada caso, la inclusión o supresión en dicha lista de instituciones a las que se le otorguen, revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-De igual manera indicarán en dicha publicación, los nombres de los educadores que obtengan resultados suficientes, una vez que apliquen las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por la Ley General de Educación y demás disposiciones aplicables, les correspondan.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-Las autoridades educativas deberán entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-Las personas físicas o morales particulares que impartan estudios con autorización o con reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique; su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
-
-###### ARTICULO 78.
-
-Las personas físicas o morales particulares que impartan educación con autorización o reconocimiento de validez oficial de estudios deberán:
-
-I.- Cumplir con lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y en la presente Ley, así como las disposiciones que de ella emanen.
-
-II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes.
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
-
-III.- Proporcionar un mínimo de 5% de becas a la población inscrita en los establecimientos educativos particulares de conformidad con el reglamento respectivo. Las becas que las escuelas particulares concedan a los hijos o familiares de sus trabajadores no deberán de considerarse dentro del porcentaje a otorgar. El porcentaje a otorgar se podrá distribuir en becas completas o parciales, no menores del 25% del costo de la colegiatura. Las becas serán otorgadas en los términos que fijen las autoridades administrativas del plantel, procurando aplicar criterios de equidad entre hombres y mujeres, en coordinación con la asociación de padres de familia y debidamente sancionadas por la autoridad competente.
-
-IV.- Rendir semestralmente las estadísticas correspondientes a la Secretaría de Educación y Bienestar Social respecto a la organización, administración, escolaridad y aspectos técnicos de las instituciones, y
-
-V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
-
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
-
-VI.- No realizar prácticas nocivas de carácter económicas administrativas que perjudiquen al desarrollo educativo de los educandos o padres de familia como lo son: aumento de colegiaturas en más de un 10% por ciento por ciclo escolar, retención de documentos oficiales por falta de pago de colegiaturas, imposición de compra de útiles escolares, uniformes, libros de texto, materiales de aseo en comercios exclusivos; así como la obligación de realizar pagos extraordinarios para la realización de festejos ajenos a los fines de la educación; así como la compra y venta de objetos promocionales.
-
-###### ARTICULO 79.
-
-Las personas físicas o morales particulares que presten servicios por los que impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 79 BIS.- En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 21 de esta Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes, y tomar las medidas a que se refiere el artículo 35 de esta Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
-
-###### ARTICULO 80.
-
-Las autoridades que otorguen autorizaciones o reconocimientos de validez oficial, deberán inspeccionar y vigilar los servicios educativos respecto de los cuales expidieron dichas autorizaciones o reconocimientos, en los términos de la normatividad que para tal efecto expida la Secretaría de Educación y Bienestar Social.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-Las autoridades procurarán llevar a cabo una visita de inspección por lo menos una vez al año.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-De la información contenida en el acta correspondiente así como la documentación relacionada que, en su caso, presenten los particulares, las autoridades educativas podrán formular medidas correctivas, de conformidad con las disposiciones reglamentarias aplicables, que harán del conocimiento de los particulares.
-
-###### ARTICULO 16.
-
-En materia de educación pública, el Estado y los Municipios, podrán celebrar convenios de colaboración, para lo cual los Ayuntamientos tendrán las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-I.- Prestar servicios educativos de calidad de cualquier tipo y modalidad sin perjuicio de la concurrencia de las autoridades educativas federal y estatal y crear planteles educativos de acuerdo a los tipos y modalidades establecidos en esta Ley, y sostenerlos económicamente, considerando que dichos planteles funcionarán en congruencia técnica y administrativa con la Secretaría de Educación y Bienestar Social, y sujetos a esta Ley y demás disposiciones, los que en ningún caso podrán concesionar la prestación del servicio educativo a ninguna persona física o moral;
-
-II.- Proporcionar en la medida de sus recursos, terrenos para la construcción de edificios escolares.
-
-III.- Coadyuvar en la reparación de mobiliario, conservación y vigilancia de las casas de cultura y de los edificios escolares, sin perjuicio de la colaboración que aporte el Estado, cualquier otro organismo o los particulares.
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
-
-IV.- Promover y cuidar que en su jurisdicción se establezcan y funcionen escuelas en todos los niveles, que cumplan con los requisitos de esta Ley, dando cuenta en su caso a la Secretaría de Educación y Bienestar Social.
-
-V.- Promover permanentemente la investigación que sirva como base a la innovación educativa, así como impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica.
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
-
-VI.- Apoyar el funcionamiento del Consejo Municipal de Participación Social previendo lo necesario a su integración oportuna y proveyéndolo de los recursos necesarios para el despacho de sus asuntos; así como la existencia de los patronatos para la construcción, conservación y funcionamiento de las escuelas, de acuerdo con las disposiciones respectivas.
-
-VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y
-
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
-
-VIII.- Promover programas de fomento a la cultura de la prevención de riesgos y accidentes, la educación vial, así como del delito y a la no violencia;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
-
-IX.- Auxiliar al Titular del Poder Ejecutivo del Estado en el cumplimiento de esta Ley y los reglamentos que de ella emanen, vigilando que los servicios educativos que otorga el Estado guarden equilibrio y concuerden con las demandas que plantean las comunidades municipales.
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-X.- Fomentar y difundir las actividades artísticas, culturales y deportivas en todas sus manifestaciones;
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-XI.- Editar libros y materiales didácticos distintos a los textos gratuitos otorgados por la Secretaría de Educación Pública y
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XII.- PARA EL INGRESO, PROMOCIÓN, RECONOCIMIENTO Y PERMANENCIA DEL PERSONAL DOCENTE O CON FUNCIONES DE DIRECCIÓN O SUPERVISIÓN EN LA EDUCACIÓN BÁSICA Y MEDIA SUPERIOR QUE IMPARTAN, DEBERÁN OBSERVAR LO DISPUESTO POR LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 16 BIS.- Adicionalmente a las atribuciones exclusivas a las que se refieren los artículos 15 y 16 de esta Ley y las previstas en la Ley General de Educación, corresponde a las autoridades educativas de manera concurrente, las atribuciones siguientes:
-
-I.- Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y VII del artículo 15 de esta Ley, de acuerdo con las necesidades estatales;
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-II.- PARTICIPAR EN LAS ACTIVIDADES TENDIENTES A REALIZAR EVALUACIONES PARA EL INGRESO, LA PROMOCIÓN, EL RECONOCIMIENTO Y LA PERMANENCIA EN EL SERVICIO PROFESIONAL DOCENTE, DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO;
-
-III.- Determinar y formular planes y programas de estudio, distintos de los previstos en la fracción I del artículo 12 de la Ley General de Educación;
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-IV.- EJECUTAR PROGRAMAS PARA LA INDUCCIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN DE MAESTROS DE EDUCACIÓN MEDIA SUPERIOR, LOS QUE DEBERÁN SUJETARSE, EN LO CONDUCENTE, A LO DISPUESTO POR LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO;
-
-V.- Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción X del artículo 15 de esta Ley, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
-
-VI.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares;
-
-VII.- Editar libros y producir otros materiales didácticos, distintos de los señalados en la fracción III del artículo 12 de la Ley General de Educación;
-
-VIII.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
-
-IX.- Promover permanentemente la investigación que sirva como base a la innovación Educativa;
-
-X.- Promover la investigación y el desarrollo de la ciencia y la tecnología, y fomentar su enseñanza y divulgación;
-
-XI.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
-
-XII.- Promover e impulsar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el libro, de acuerdo a lo establecido en la ley de la materia;
-
-XIII.- Vigilar el cumplimiento de la Ley General de Educación y de sus disposiciones reglamentarias;
-
-XIV.- Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a los niños y jóvenes;
-
-XV.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares;
-
-XVI.- Diseñar y aplicar los instrumentos de evaluación que consideren necesarios para garantizar la calidad educativa en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación;
-
-XVII.- Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
-
-XVIII.- Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
-
-XIX.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo, y
-
-XX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 16 TER.- Las autoridades educativas deben impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos, para lo cual se aprovechará la capacidad escolar instalada en horarios y días en que no se presten los servicios educativos ordinarios.
-
-Asimismo, apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros.
-
-Las autoridades educativas establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
-
-Igualmente, impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
-
-Para tales efectos, el expendio y distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela deberá sujetarse a los lineamientos que a través de disposiciones de carácter general emita la Secretaría de Educación Pública.
-
-Los resultados de calidad educativa derivados de estas acciones serán evaluados por las autoridades educativas de conformidad con los lineamientos que para tal efecto expida el Instituto Nacional para la Evaluación de la Educación.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 17.
-
-El Ejecutivo del Estado sin menoscabo de su propia obligación promoverá la participación directa de cada ayuntamiento para dar a las escuelas públicas, mantenimiento y proveer de equipo básico y materiales adecuados de acuerdo a los avances de la ciencia y la tecnología.
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 18.
-
-Las autoridades educativas establecerán mecanismos, de conformidad con lo que establezca la Ley General del Servicio Profesional Docente y la Ley del Servicio Profesional Docente del Estado, que proporcionen la permanencia de los docentes frente al grupo, con la posibilidad para éstos de ir obteniendo mejores remuneraciones y prestaciones económicas, sociales y profesionales.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
-
-El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso para ellos y su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna, así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-Las autoridades educativas realizarán actividades que proporcionen mayor aprecio social por la labor desarrollada por los maestros y otorgarán, distinciones, estímulos e incentivos a los Trabajadores de la Educación que se destaquen en el ejercicio de su profesión y en la optimización de los recursos destinados a la Educación, todo ello conforme a la Ley General del Servicio Profesional Docente.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-Además, establecerán mecanismos para estimular el reconocimiento de la labor docente mediante opciones de desarrollo profesional.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
-
-ARTICULO 18 BIS.- Las autoridades educativas del Estado podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 18 TER.- La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio de educación inicial, básica incluyendo la de aquéllos para la atención de la educación indígena, especial y de educación física, se sujetará en lo conducente a los lineamientos, medidas y demás acciones que resulten de la aplicación de la Ley del Servicio Profesional Docente del Estado.
-
-###### ARTICULO 19.
-
-La educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquier tipo y modalidad, conforman el Sistema Educativo Estatal. Los siguientes constituyen los elementos fundamentales del sistema:
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-1.- Los educandos, los educadores, el personal de apoyo y los padres de familia;
-
-2.- Las autoridades educativas.
-
-3.- Los padres de familia o tutores, así como las asociaciones que los representan.
-
-4.- Los planes, programas, métodos y materiales educativos.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-5.- El Servicio Profesional Docente.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-6.- Los consejos de participación social.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-7.- Las instituciones educativas del Estado, de los municipios y sus organismos descentralizados.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-8.- Las instituciones de los particulares con permiso o reconocimiento de validez oficial de estudios.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-9.- Las instituciones de educación superior a las que la Ley otorga autonomía.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-10.- Los presupuestos, recursos humanos, materiales y financieros destinados a la educación.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-11.- Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-12.- El Sistema de Información y Gestión Educativa y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-13.- La infraestructura educativa.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-Para los efectos de esta Ley y las demás disposiciones que regulan al Sistema Educativo Estatal, se entenderán como sinónimos los conceptos de educador, docente, profesor y maestro.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-###### ARTICULO 20.
-
-En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes.
-
-La educación que se imparta por el Sistema Educativo Estatal será de calidad, basada en normas de competencia internacional, de manera que permita al educando incorporarse a la sociedad como un elemento positivo y competitivo para desarrollar una actividad productiva que le facilite superarse académicamente y culturalmente.
-
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
-
-###### ARTICULO 21.
-
-El educador es promotor, coordinador, facilitador y agente directo del proceso educativo, por lo tanto el Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquier tipo y modalidad, deberán proporcionar los medios necesarios y adecuados que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
-
-Para ejercer la docencia en instituciones establecidas por el Estado, los municipios, sus organismos descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, los docentes deberán satisfacer los requisitos establecidos en esta Ley o aquellos que le señalen las autoridades competentes y, para la educación básica y media superior, deberán observar lo dispuesto por la Ley del Servicio Profesional Docente del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
-
-En el caso de maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, se estará a lo previsto por la Ley General de Educación.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
-
-ARTICULO 21 BIS.- Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de los maestros que prestan sus servicios en estas instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño para los docentes en educación básica y media superior en instituciones públicas. Las autoridades educativas otorgarán la certificación correspondiente a los maestros que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgaran las facilidades necesarias a su personal.
-
-### CAPITULO VII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
-
-###### ARTICULO 81.
-
-Los estudios realizados dentro del Sistema Educativo Estatal, por formar éste parte del Sistema Educativo Nacional, tendrán validez en toda la República. Las instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, títulos ó grados académicos de conformidad con los requisitos establecidos en los planes y programas de estudio, así como en las disposiciones que al efecto emitan las autoridades educativas correspondientes.
-
-###### ARTICULO 82.
-
-Los estudios realizados fuera del Sistema Educativo Estatal podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con los estudios correspondientes a dicho sistema.
-
-La revalidación podrá otorgarse por niveles educativos, por grados escolares o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
-
-###### ARTICULO 83.
-
-Los estudios realizados dentro del Sistema Educativo Estatal podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje según lo establezca la normatividad aplicable.
-
-###### ARTICULO 84.
-
-La Secretaría de Educación y Bienestar Social aplicará las normas y criterios generales que determine la Secretaría de Educación Pública, a los que se ajustarán la revalidación, así como la declaración de estudios equivalentes.
-
-La Secretaría de Educación y Bienestar Social otorgará revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en el Sistema Educativo Estatal.
-
-###### ARTICULO 85.
-
-Las revalidaciones y equivalencias otorgadas en términos del artículo anterior tendrán validez en toda la República.
-
-###### ARTICULO 86.
-
-La Secretaría de Educación y Bienestar Social aplicará los procedimientos establecidos por la Secretaría de Educación Pública para expedir certificados, constancias o diplomas a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
-
-###### ARTICULO 22.
-
-El Sistema Educativo Estatal comprende los tipos y niveles, inicial, básico, medio superior y superior con sus respectivas modalidades. Estos podrán adoptar las modalidades escolarizada, no escolarizada y mixta, en los términos siguientes:
-
-I.- La educación inicial comprende la modalidad escolarizada que se imparta en los centros de desarrollo infantil y la modalidad no escolarizada que se imparte en comunidades rurales y urbano marginadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-II.- El tipo básico comprende la educación preescolar, la primaria y la secundaria, incluyendo la educación física, artística, indígena y la educación especial.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
-
-a) La educación preescolar será obligatoria en los términos establecidos en la Constitución Federal;
-
-b) La educación primaria incluye la educación formal, la de niños con necesidades de educación especial y la de adultos en su caso;
-
-c) La educación primaria es antecedente obligatorio de la secundaria;
-
-d) La educación secundaria incluye las escuelas generales, técnicas y telesecundarias;
-
-e) La educación primaria y secundaria son antecedente obligatorio del nivel medio superior.
-
-III.- El tipo medio superior, comprende el nivel del bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalencias.
-
-a) La educación preparatoria o el bachillerato tecnológico son antecedente obligatorio de la educación superior;
-
-b) La educación comercial, técnica y de capacitación para el trabajo serán terminales, y
-
-IV.- El tipo superior comprende la educación normal, la tecnológica y la universitaria; incluye estudios encaminados a obtener los grados de licenciatura, maestría y doctorado, así como cursos de actualización y especialización posteriores a la licenciatura.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 23.
-
-La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar, así como favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del educando. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 24.
-
-La educación preescolar tendrá como propósito fundamental la sociabilización del menor a partir de los tres años de edad, atendiendo, mediante personal especializado con título académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad, además de la orientación a los padres de familia o tutores.
-
-La educación preescolar se orientará a la promoción del conocimiento del idioma inglés.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 25.
-
-La educación primaria persigue esencialmente el desarrollo y adaptación de los educandos al medio que les es propio, capacitándolos para un desarrollo afectivo, cognoscitivo, psicomotriz; para una vida social y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente a la investigación y al trabajo.
-
-La Educación primaria se sujetará a los planes y programas que determine la Secretaría de Educación Pública y será atendida con personal que cuente con título académico del nivel o de licenciado en educación primaria.
-
-La educación primaria se enfocará además al conocimiento y desarrollo del idioma inglés.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 26.
-
-La educación secundaria tiene como propósito alentar el proceso de madurez de la personalidad del adolescente, orientar sus opciones vocacionales y favorecer su integración comunitaria mediante un impulso pedagógico que le permita su propia superación académica.
-
-La educación secundaria se sujetará a los planes y programas que determine la Secretaría de Educación Pública y será atendida por personal que acredite previamente el título académico del nivel o la licenciatura en Normal Superior para las asignaturas de tipo académico; para las materias técnicas, deberán satisfacer los requisitos que en su caso, señalen las autoridades competentes.
-
-La educación secundaria se enfocará además al dominio del idioma inglés
-
-###### ARTICULO 27.
-
-Las escuelas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, de una terna de hombres ilustres o conceptos e instituciones coincidentes con los fines educativos, propuesta por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
-
-###### ARTICULO 28.
-
-La educación física, artística e idioma inglés como materias permanentes y obligatorias al desarrollo armónico e integral del individuo en el proceso escolar, se aplicarán en los niveles de educación inicial y básica, sin distinción alguna por motivos de discapacidad.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
-
-###### ARTICULO 29.
-
-Las autoridades educativas a través de la Dirección y Departamentos Estatales de Educación Física, Artística e idioma inglés, serán las responsables de la aplicación de los programas y guías metodológicas oficiales en cada una de sus áreas, en los diferentes niveles educativos.
-
-###### ARTICULO 30.
-
-La educación física que impartan el Estado y los Municipios tendrá, además de los propósitos establecidos, los siguientes propósitos generales de la Educación Física:
-
-I.- Mejorar la capacidad coordinativa, basada en la posibilidad, dominio y manifestaciones eficientes del movimiento que repercuta en la resolución de problemas en los ámbitos cognoscitivos, motriz, afectivo y social.
-
-II.- Estimular, desarrollar y conservar la condición física del educando a través de la ejercitación sistemática de las capacidades físicas, atendiendo a las características individuales del mismo.
-
-III.- Propiciar la manifestación de habilidades motrices a partir de la práctica de actividades físico-deportivas y recreativas que le permitan integrarse a interactuar con los demás.
-
-IV.- Propiciar en el educando la confianza y seguridad en sí mismo, mediante la realización de actividades físicas que permitan la posibilidad de control y manejo del cuerpo en diferentes situaciones.
-
-V.- Promover la formación y estimular la adquisición de hábitos, de ejercer diaria higiene, alimentación, descanso y conservación del medio ambiente con la práctica de actividades complementarias que condicionan su efectiva repercusión en la salud individual y colectiva.
-
-VI.- Fomentar la manifestación de actividades positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión, y
-
-VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-VIII.- Promover la práctica de estilos de vida saludables en los educandos, con la finalidad de que las instituciones educativas públicas y privadas promuevan la práctica del deporte y actividades físicas en sus planteles.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
-
-Para ser docente de Educación Física, se requiere haber obtenido el título de Maestro Normalista de Educación Física, de Licenciado en Educación Física, de Licenciado en Actividad Física y Deporte; o profesión afín que cuente con reconocimiento oficial.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 30 BIS.- La educación artística que impartan el Estado y los Municipios tendrá, además de los propósitos establecidos, los siguientes propósitos generales de la Educación Artística:
-
-En nivel preescolar:
-
-I.- Se orientará a potenciar en los niños la sensibilidad, la iniciativa, la curiosidad, la espontaneidad, la imaginación, el gusto estético y la creatividad, para que expresen sus sentimientos mediante el arte y la experimentación de sensaciones de logro;
-
-II.- Tenderá a que los alumnos progresen en sus habilidades motoras y las fortalezcan al utilizar materiales, herramientas y recursos diversos, desarrollando las habilidades perceptivas como resultado de lo que observan, escuchan, palpan, bailan y expresan a partir del arte;
-
-III.- Los alumnos deben reconocer que otros, tienen diferentes puntos de vista y formas de expresarse, aprendiendo a valorar la diversidad.
-
-En los niveles de primaria, y secundaria:
-
-La asignatura en los dos niveles educativos citados se debe organizar en distintas manifestaciones artísticas por lo cual se deberá:
-
-I.- Favorecer el desarrollo de la competencia Artística y Cultural abriendo espacios específicos para las actividades de expresión y apreciación artística, tomando en cuenta las características de niñas y niños, quienes necesitan de momentos para jugar, cantar, escuchar música de distintos géneros, imaginar escenarios y bailar.
-
-II.- El enriquecimiento de su lenguaje y desarrollo de la memoria, que permitan mejorar la atención, la escucha, la corporeidad favoreciendo mayores oportunidades de interacción con los demás.
-
-III.- Se buscará que los alumnos amplíen sus conocimientos en una disciplina artística y la practiquen habitualmente mediante la apropiación de técnicas y procesos que les permitan expresarse artísticamente.
-
-IV.- Facilitar la interacción con distintos códigos, que les permita reconocer la diversidad de relaciones entre los elementos estéticos y simbólicos, pudiendo interpretar los significados de esos elementos para otorgarles un sentido social, que les permita disfrutar la experiencia de formar parte del quehacer artístico.
-
-V.- Desarrollo de la competencia artística y cultural a partir de la apropiación de lenguajes, procesos y recursos de las artes, con base en el trabajo pedagógico diseñado para potenciar sus capacidades, atender sus intereses y satisfacer sus necesidades socioculturales.
-
-VI.- Que se adquieran por los alumnos los conocimientos y las habilidades propios de los lenguajes artísticos: artes visuales, expresión corporal y danza, música y teatro, que permitan desarrollar su pensamiento artístico, paralelamente a sus actitudes y valores, mediante experiencias estéticas que favorezcan su creatividad.
-
-VII.- Instruya y oriente como valorar la importancia de la diversidad y la riqueza del patrimonio artístico y cultural, por medio del descubrimiento y la experimentación de los diferentes aspectos del arte, al vivenciar actividades cognitivas, afectivas y estéticas.
-
-VIII.- Aprecien las cualidades estéticas de diversas manifestaciones y representaciones del cuerpo humano por medio de lenguajes artísticos para comprender su significado cultural y valorar su importancia dentro de las artes.
-
-IX.- Exploren la dimensión estética de las imágenes, las cualidades del sonido y el uso de cuerpo y voz, estructura dramática y creación teatral, para enriquecer las concepciones personales y sociales que se tienen del arte.
-
-X.- Conozcan los procesos de creación artística de diseñadores, artesanos y en general de los miembros creativos de la comunidad; y
-
-XI.- Distingan diferentes profesiones e instituciones que se desarrollan en diferentes entornos culturales relacionadas con la creación, investigación, conservación y difusión de las artes.
-
-Para ser docente de Educación Artística, se requiere haber obtenido el título de Maestro Normalista de Educación Artística, de Licenciado en Educación Artística, de Licenciado en Actividad Artística; o profesión afín que cuente con reconocimiento oficial.
-
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2013)</small>
-
-ARTICULO 30 TER.- Para el ejercicio y desarrollo de lo dispuesto por esta Ley en materia de educación ambiental, las instituciones y personas previstas por el Artículo 2, deberán además fomentar la educación ambiental como una práctica educativa integrada, continua y permanente en todos los niveles y modalidades de enseñanza, incorporando contenidos sobre ética ambiental vinculados a aspectos prácticos.
-
-Asimismo deberán:
-
-I.- Propiciar la participación de alumnos, educadores y organizaciones no gubernamentales en la formación y ejecución de programas y actividades vinculadas a la educación ambiental;
-
-II.- Promover programas de vinculación escuela - empresa y comunidad, con empresas privadas para el desarrollo de prácticas vinculadas al respeto y cuidado del medio ambiente; y
-
-III.- Impulsar programas y prácticas en materia de respeto y cuidado del medio ambiente en vinculación con empresas prestadoras de servicios turísticos.
-
-### CAPITULO VIII. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
-
-###### ARTICULO 87.
-
-Son infracciones de quienes presten servicios educativos:
-
-I.- Incumplir cualesquiera de las obligaciones previstas en los artículos 77 y 79 de esta Ley.
-
-II.- Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor.
-
-III.- Suspender clases en días y horas no autorizados por el calendario oficial aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor.
-
-IV.- No utilizar los libros de texto que la Secretaría de Educación Pública autorice y determine para la educación primaria y secundaria.
-
-V.- Incumplir los lineamientos generales para el uso de material educativo para la primaria y la secundaria.
-
-VI.- Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos.
-
-VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables.
-
-VIII.- Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de los alimentos.
-
-IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos.
-
-X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento.
-
-XI.- Oponerse sin fundamento a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna.
-
-XII.- Ostentarse como plantel incorporado sin estarlo.
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
-
-XIII.- Impartir la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente.
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-XIV.- Contravenir las disposiciones contempladas en el artículo 14, así como en el segundo párrafo del artículo 35 por lo que corresponde a las autoridades educativas;
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
-
-XV.- Incumplir con las medidas correctivas derivadas de las visitas de inspección a que se refiere el artículo 80 de esta Ley, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XVI.- Incumplir cualesquiera de los demás preceptos de la Ley General de Educación, de esta Ley, así como de las disposiciones expedidas con fundamento en ellas.
-
-###### ARTICULO 88.
-
-Las infracciones enumeradas en el artículo anterior se sancionarán, de conformidad con sus correspondientes atribuciones, por las autoridades educativas del Estado o de los ayuntamientos en su caso con:
-
-I.- Amonestaciones por escrito.
-
-II.- Multa económica conforme a lo dispuesto en la Ley General de Educación, y
-
-III.- Revocación de la autorización ó retiro del reconocimiento de validez oficial de estudios correspondiente, sin menoscabo de imponer alguna multa de las previstas en la fracción anterior.
-
-Para los efectos de la aplicación de la fracción II se estará a lo dispuesto en la reglamentación correspondiente.
-
-Las disposiciones del artículo anterior no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas que existen para ellos.
-
-###### ARTICULO 89.
-
-Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
-
-La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente que se abra para tal efecto.
-
-Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
-
-###### ARTICULO 90.
-
-La negativa o revocación de la autorización otorgada a las personas físicas o morales particulares, produce efectos de clausura del servicio educativo de que se trate.
-
-El retiro de reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial.
-
-La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
-
-En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad, hasta que aquél concluya.
-
-###### ARTICULO 91.
-
-En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y las que de ella emanen, podrá interponerse recurso de revisión dentro de los quince días hábiles siguientes a la fecha de su notificación.
-
-Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
-
-Asimismo, podrá interponerse dicho recurso cuando la autoridad no dé respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
-
-###### ARTICULO 92.
-
-El recurso se interpondrá por escrito, ante la autoridad inmediata superior a la que emitió el acto recurrido u omitió responder la solicitud correspondiente.
-
-La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente y el número de anexos que se acompañe, devolviendo en el mismo acto copia debidamente sellada o firmada.
-
-###### ARTICULO 93.
-
-En el recurso deberán expresarse el nombre y el domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
-
-En caso de incumplimiento de los requisitos antes señalados, la autoridad educativa podrá declarar improcedente el recurso.
-
-###### ARTICULO 94.
-
-Al interponerse el recurso podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo de diez días hábiles para tal efecto. La autoridad educativa que esté conociendo del recurso podrá allegarse los elementos de convicción que considere necesarios.
-
-###### ARTICULO 95.
-
-La autoridad educativa dictará resolución dentro de los treinta días hábiles siguientes, a partir de la fecha:
-
-I.- Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo, y
-
-II.- De la conclusión del desahogo de las pruebas o, en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado.
-
-Las resoluciones del recurso se notificarán a los interesados, o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
-
-###### ARTICULO 96.
-
-La interposición del recurso suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
-
-Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
-
-I.- Que lo solicite el recurrente.
-
-II.- Que el recurso haya sido admitido.
-
-III.- Que de otorgarse, no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley, y
-
-IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley o de las disposiciones que de ella emanen.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 31.
-
-La educación en las comunidades indígenas estará inspirada en los intereses y características biológicas, afectivas, psicológicas del niño y en las necesidades del grupo social; impartiéndose con respeto a los valores culturales de las etnias que pueblan el Estado, incorporándolos a los valores culturales de la identidad nacional.
-
-###### ARTICULO 32.
-
-Las finalidades de la educación indígena son:
-
-I.- Contribuir a la consolidación de su identidad étnica y nacional.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
-
-II.- Ofrecer al indígena la oportunidad de educarse, respetando su personalidad y su cultura, capacitándose para que pueda ser factor decisivo en la construcción de su conocimiento.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
-
-III.- Formar un individuo conocedor de su realidad sociocultural que le facilite al educando su integración y participación en el desarrollo de la entidad.
-
-IV.- Fomentar el interés en el educando para que continúe estudiando en otros niveles educativos.
-
-V.- Promover la enseñanza del español como lengua nacional común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas.
-
-VI.- Estimular el interés por preservar el equilibrio ecológico.
-
-VII.- Promover en el educando actitudes encaminadas a la prevención y conservación de la salud, sin abandonar los conocimientos de la medicina tradicional.
-
-VIII.- Fomentar las actividades y deportes tradicionales, y
-
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
-
-IX.- Estimular en el educando la expresión artística, y
-
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
-
-X.- Promover en el educando la cultura de la prevención de riesgos y accidentes, y educación vial, contribuyendo a concientizar a la población de sus comunidades.
-
-Para ser docente de educación indígena, se requiere tener como mínimo la educación media superior terminada, acreditar que tomó el curso de inducción y ser bilingüe: en español y lengua autóctona.
-
-### CAPITULO IX. DE LA DEFENSA DE LOS DERECHOS EN MATERIA EDUCATIVA
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 97.
-
-Todos los miembros del Sistema Educativo Estatal a que se refiere el Capítulo III de esta ley están obligados a cumplir los deberes que ésta les impone, y podrán exigir el cumplimiento de los derechos que a la misma les otorga.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 98.
-
-Para los efectos del artículo anterior todo interesado podrá pedir por escrito, de manera respetuosa y pacífica a las autoridades educativas o a los particulares a que esta ley se refiere, que cumplan los deberes a su cargo, o en su caso, pedir que aquéllas obliguen a éstos a cumplir sus deberes en que estén siendo omisos.
-
-Cuando la solicitud fuere dirigida a una autoridad educativa, la falta de respuesta dentro de los treinta días hábiles siguientes, o la respuesta negativa, dejará al peticionario en aptitud jurídica de acudir al Tribunal de lo Contencioso Administrativo del Estado para exigir el cumplimiento de sus derechos; si la solicitud hubiere sido dirigida a un particular, el solicitante podrá acudir ante el juez de lo civil que corresponda.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 99.
-
-Previas las formalidades esenciales del procedimiento previstas para cada caso, los tribunales impondrán a los demandados, autoridades o particulares, el cumplimiento de los deberes que a su cargo impone esta ley, y las consecuencias que su incumplimiento hubiere generado.
-
-T R A N S I T O R I O S
-
-PRIMERO.- Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
-
-SEGUNDO.- Se abroga la Ley de Educación del Estado de Baja California de fecha 27 de mayo de 1975, publicada en el Periódico Oficial No. 16 de fecha 10 de junio del mismo año.
-
-TERCERO.- Se derogan los decretos No. 60, del 19 de octubre de 1984 publicado en el Periódico Oficial del Estado el 10 de noviembre del mismo año y el No. 147 del 31 de agosto de 1992 publicado en el Periódico Oficial del Estado el 20 de septiembre del mismo año.
-
-CUARTO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-
-QUINTO.- En tanto se expide la normatividad que se derive de esta Ley, quedan vigentes en lo que no se opongan, las expedidas hasta ahora y serán también aplicables las disposiciones federales de carácter reglamentario en forma supletoria, en los casos en que la normatividad vigente en el Estado, no los prevean específicamente.
-
-SEXTO.- Las Autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales, colectivas de su organización sindical en los términos de su registro vigente y de acuerdo a las disposiciones legales correspondientes al expedirse esta Ley.
-
-D A D A en el Salón de Sesiones Lic. Benito Juárez García de este Honorable Poder Legislativo, en la ciudad de Mexicali, Baja California a los diecinueve días del mes de Septiembre de mil novecientos noventa y cinco.
-
-FCO. JAVIER REYNOSO NUÑO
-
-DIPUTADO PRESIDENTE
-
-FCO. JAVIER ZEPEDA VILLASEÑOR
-
-DIPUTADO SECRETARIO
-
-DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA, PUBLIQUE, OBSERVE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
-
-MEXICALI, BAJA CALIFORNIA, A LOS VEINTISIETE DIAS DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CINCO.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. ERNESTO RUFFO APPEL
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-LIC. RODOLFO VALDEZ GUTIERREZ
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 6 DE NOVIEMBRE DE 1998.
-
-###### ARTICULO 33.
-
-El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 34.
-
-La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con inclusión y equidad social.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-La educación especial tendrá como objetivo proporcionar la integración de niños, niñas y jóvenes a los planteles de educación inicial, preescolar, primaria, secundaria en sus distintas modalidades y a las instituciones de educación media-superior, aplicando métodos, técnicas y materiales específicos, así como dando orientación a padres de familia y a personal docente de las escuelas regulares, que atiendan a alumnos con necesidades educativas especiales.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-Esta educación incluye capacitación a los padres y madres así como también a maestros y personal de educación básica regular que integren alumnas y alumnos con necesidades especiales de educación.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-Con el objeto de detectar, estimular y proporcionar educación oportuna y de calidad a los alumnos con capacidades sobresalientes, la Secretaría de Educación y Bienestar Social, atenderá y dará cumplimiento a los lineamientos y criterios establecidos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación en los niveles de educación básica, educación normal, así como media superior y superior en el ámbito de su competencia.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-La autoridad educativa responsable, proporcionará a los alumnos los apoyos educativos indispensables dentro de un marco de equidad, pertenencia y calidad, que les permita desarrollar sus capacidades al máximo e integrarse educativa, social y laboralmente.
-
-La educación especial tendrá las siguientes finalidades:
-
-I.- Favorecer el acceso y permanencia en el sistema educativo a niños, niñas y jóvenes que presenten necesidades educativas especiales;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
-
-II.- Preservar el derecho a la educación de las personas con necesidades de educación especial en el Estado;
-
-III.- Brindar mayores oportunidades de desarrollo educativo y laboral a niños, niñas y jóvenes con necesidades educativas especiales; y
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
-
-IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumnos con necesidades educativas especiales, desarrollar al máximo sus capacidades.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 35.
-
-En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, sexual, afectiva, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar será compatible con su edad.
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
-
-En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
-
-Por cada tres zonas que comprenden las escuelas pertenecientes a la educación básica y educación media superior en el Sistema Educativo Estatal, deberá existir un área especializada en psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencié problemas de aprendizaje, maltrato físico, psicoemocional, o presentan conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o stress postraumático. De igual manera en el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los educandos dentro de los planteles regulares de una manera colegiada o integral.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
-
-El cabal cumplimiento de esta disposición estará sujeta a la planeación o disposición presupuestaria.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2014)</small>
-
-Los psicólogos y demás personal que se contrate para desempeñarse en las áreas especializadas en psicología tendrán la categoría de trabajadores de confianza adscritos a la Secretaría de Educación y Bienestar Social y al Instituto de Servicios Educativos y Pedagógicos de Baja California. En media superior estarán adscritos a los organismos descentralizados de que se trate.
-
-###### ARTICULO 36.
-
-El tipo medio superior, tiene carácter formativo y terminal en su caso y comprende el nivel del bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalencias.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
-
-###### ARTICULO 37.
-
-Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y el desarrollo de la entidad, con el fin de preparar personal calificado en las diferentes actividades de la industria, del comercio y del trabajo en general, basados en normas de competencia internacional.
-
-###### ARTICULO 38.
-
-El Ejecutivo del Estado podrá, sin perjuicio de las disposiciones de las autoridades educativas federales y conforme a la Ley General de Educación, emitir lineamientos referidos a la formación para el trabajo en la Entidad, en atención a sus requerimientos particulares, con el objeto de definir aquellos conocimientos o destrezas susceptibles de certificación, así como los procedimientos de evaluación correspondientes.
-
-###### ARTICULO 39.
-
-La educación media comercial difundirá los elementos básicos que eleven el nivel cultural de sus educandos, capacitándolos específicamente con una preparación adecuada para la realización de las actividades propias de esta especialidad.
-
-###### ARTICULO 40.
-
-El bachillerato tiene por objeto proporcionar al educando la formación necesaria para ingresar a una institución de educación superior y en su caso, también prepararlo con conocimientos técnicos especializados de acuerdo a las ramas productivas del Estado.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
-
-ARTICULO 40 BIS.- En la medida de las posibilidades presupuéstales, la Secretaría promoverá la implementación de un modelo de Certificado Internacional de Preparación Curricular y su sistema, por medios electrónicos o por escrito, siendo éste de carácter complementario a los planes y programas de estudio de las instituciones de educación media superior, públicas y particulares, del Estado de Baja California, como una herramienta de acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas, en las cuales se privilegiarán: los exámenes diagnóstico, el plan de estudio individualizado y el examen certificador, para la continuación de estudios superiores y el acceso al mercado laboral. La Secretaría emitirá las disposiciones legales y administrativas necesarias para la implementación y operación del Certificado Internacional de Preparación Curricular y vigilará constantemente que dicho modelo se ajuste a las demandas académicas y laborales nacionales e internacionales, proporcionadas por instituciones u organismos con reconocimiento y experiencia en la materia, en México y otros países, con los cuales podrá establecer convenios de colaboración.
-
-###### ARTICULO 41.
-
-El tipo superior es el que se imparte después del bachillerato o de sus equivalentes, está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura, comprendiendo además la educación normal en todos sus niveles y especialidades.
-
-La educación superior tiene como propósito formar profesionistas e investigadores, al servicio de la sociedad; organizar y realizar investigaciones científicas de las condiciones y problemas regionales, estatales y nacionales; difundir la cultura e impartir educación para formar conciencia y responsabilidad social.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
-
-###### ARTICULO 42.
-
-La educación normal cualesquiera que sean sus modalidades, adoptará los planes y programas de estudios determinados por la Secretaría de Educación Pública y tendrá por objeto la formación de docentes y profesionales de la educación básica y media superior para satisfacer las necesidades educativas del Estado que garanticen el carácter nacional de la educación, en los términos de la Ley General del Servicio Profesional Docente.
-
-###### ARTICULO 43.
-
-La educación que se imparta en las escuelas normales tendrá las siguientes características:
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
-
-I.- Desarrollará y formará en los estudiantes la vocación para el servicio educativo.
-
-II.- Dedicará especial atención a la educación que imparta el Estado, de acuerdo con las bases establecidas por la presente Ley.
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
-
-III.- Dotará a los estudiantes normalistas y profesionales de la educación de una cultura general, científica y pedagógica, con las bases teóricas y prácticas que los capacite para realizar eficazmente el servicio educativo en los distintos contextos socio-educativos de nuestra entidad.
-
-IV.- Infundirá en los estudiantes, un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad y el bienestar social.
-
-V.- Formará en los estudiantes una sólida conciencia social para la interpretación y aplicación de la Constitución Política de los Estados Unidos Mexicanos, la del Estado, y las leyes que de ellas emanen.
-
-VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenidos básicos de la ecología para que puedan orientar a las comunidades en el mejoramiento del medio ambiente.
-
-VII.- Pugnará para que se comprendan e interpreten los principios de nuestras relaciones internacionales, fundamentadas en la independencia, soberanía y la solidaridad entre las naciones, incluida la idea de que las relaciones entre los pueblos son indispensables, por razones esencialmente humanísticas, independientemente de su régimen económico, político y social.
-
-VIII.- Promoverá la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
-
-IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de las diferentes discapacidades y de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe, y
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
-
-X.- Difundirá y formará en los estudiantes, una conciencia plena sobre la cultura de la prevención de riesgos y accidentes, la mediación y conciliación de problemas, la educación financiera, la educación vial, educación ambiental y artístico- cultural, de tal manera que los individuos construyan su proyecto de vida y carrera para que sean factor de cambio e impulso social de los programas educativos y sociales que el Estado promueva en estas materias.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
-
-ARTICULO 43 BIS.- Las autoridades educativas a través de la Dirección de Formación de Profesionales de la Educación realizarán las acciones que garanticen la articulación de la formación inicial y continua del personal sujeto al Servicio Profesional Docente, en los términos establecidos en los Artículos 18 TER, 42 y 43 de la presente Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
-
-###### ARTICULO 44.
-
-La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación básica y comprende entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con las particularidades correspondientes a cada población, debiendo basarse en la participación y la solidaridad social.
-
-El Estado y los municipios podrán organizar servicios permanentes de promoción y asesoría de educación para adultos y darán las facilidades necesarias a sus trabajadores y familiares para estudiar la educación primaria y la secundaria.
-
-Es obligación de los patrones dar facilidades a sus trabajadores y familiares para que asistan a cursos de alfabetización, así como para que estudien la primaria y la secundaria.
-
-Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
-
-###### ARTICULO 45.
-
-La educación informal no es curricular, se adquiere en los diferentes espacios sociales e influye en el desarrollo personal y social de los individuos.
-
-###### ARTICULO 46.
-
-Para propiciar el desarrollo de sus comunidades el Estado impulsará la educación informal a través de las siguientes acciones:
-
-I.- Misiones culturales.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE OCTUBRE DE 2012)</small>
-
-II.- Programas de educación, integración familiar, prevención de riesgos y accidentes, educación vial, protección, salud, deporte, defensa legal y fortalecimiento de la Cultura de la Prevención del Delito y la legalidad.
-
-III.- Programas de mejoramiento del medio ambiente y preservación ecológica.
-
-IV.- Fomento al desarrollo artístico y artesanal.
-
-V.- Procurar el conocimiento de la historia y geografía del Estado.
-
-VI.- Rescate y conservación del patrimonio cultural comunitario.
-
-VII.- Fomento del servicio a la comunidad en una participación social comprometida, y
-
-VIII.- Las demás que tiendan al bienestar individual y social.
-
-###### ARTICULO 47.
-
-Para impulsar la educación informal el Estado hará uso de los avances de la tecnología a su alcance.
-
-###### ARTICULO 48.
-
-El Estado utilizará los medios masivos de comunicación para impulsar el desarrollo social, cultural y educativo en la Entidad.
-
-###### ARTICULO 49.
-
-Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la investigación científica y tecnológica, el Estado, los municipios y sus organismos descentralizados, fomentarán la producción y difusión de libros, revistas, folletos y demás formas de comunicación.
+A C U E R D O 298
 
 ###### ARTÍCULO PRIMERO
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Publíquese en el Periódico Oficial del Estado el REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL.
 
 ###### ARTÍCULO SEGUNDO
 
-El Ejecutivo del Estado, en el ciclo escolar inmediato a partir de la entrada en vigor del presente Decreto, deberá incluir a los programas de estudio del Sistema de Educativo Estatal, los fines educativos que contempla esta reforma del artículo 14 de la Ley de Educación de Baja California.
+Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 26 DE ABRIL DE 2013.
+D A D O en la Ciudad de Chihuahua, Chih.; residencia del Poder Ejecutivo del Estado, a los seis días del mes de Agosto del año Dos Mil Dos.
 
-DECRETO No. 443, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 69 Y 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
+Sufragio Efectivo. No Reelección.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-P.O. 25 DE OCTUBRE DE 2013.
+C.P. PATRICIO MARTÍNEZ GARCÍA
 
-ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-P.O. 13 DE MARZO DE 2014.
+LIC. SERGIO ANTONIO MARTÍNEZ GARZA
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo las excepciones previstas en los artículos siguientes.
+GOBIERNO DEL ESTADO
 
-SEGUNDO.- Para los efectos de lo previsto en los artículos 4 Bis y 16 Ter, las autoridades educativas y escolares en el Estado estarán sujetas a los lineamientos emitidos por la Secretaría de Educación Pública, de conformidad con el artículo sexto transitorio de la reforma a la Ley General de Educación, publicada en el Diario Oficial de la Federación de fecha 11 de septiembre de 2013.
+SECRETARIA DE DESARROLLO RURAL
 
-TERCERO.- Dentro del plazo previsto en el artículo décimo de la reforma publicada en el Diario Oficial de la Federación de fecha 11 de septiembre de 2013 deberá estar en operación en todo el país el Sistema de Información y Gestión Educativa, el cual incluirá, por lo menos, la información correspondiente a las estructuras ocupacionales autorizadas, las plantillas de personal de las escuelas y los datos sobre la formación y trayectoria del personal adscrito a las mismas.
+REGLAMENTO INTERIOR
 
-CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas del presente Decreto.
+CHIHUAHUA, CHIHUAHUA, AL MES DE AGOSTO DE 2002.
 
-QUINTO.- A efecto de dar cumplimiento a la obligación de garantizar la calidad en la educación, las autoridades educativas deberán proveer lo necesario para revisar el modelo educativo en su conjunto, los planes y programas, los materiales y métodos educativos.
+CONSIDERANDO:.
 
-SEXTO.- Las autoridades educativas, en el ámbito de sus respectivas competencias, establecerán de forma paulatina y progresiva, conforme a la disponibilidad presupuestaria, un programa de subsidios escolares compensatorios para reducir condiciones de inequidad social en el sistema educativo.
+En virtud de lo anterior y en ejercicio de la facultad que me confiere el artículo 93 fracción IV de la Constitución Política del Estado Libre y Soberano de Chihuahua, y con fundamento en el artículo 1° fracción VII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, el suscrito, Gobernador Constitucional del Estado de Chihuahua, ha tenido a bien expedir el siguiente:
 
-SÉPTIMO.- El Consejo Estatal de Participación Social deberá instalarse dentro de los 180 días naturales siguientes a la entrada en vigor de este Decreto.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL
 
-P.O. 4 DE JULIO DE 2014.
+## TÍTULO PRIMERO
 
-PRIMERO.- Las reformas a los artículos 14 fracción IV y 28 de esta ley, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
-SEGUNDO.- Para dar cumplimiento a lo establecido en los artículos 24, 25 y 26 de la presente Ley, reformados a través del Decreto 253 publicado en el Periódico Oficial No. 38, tomo CXIX, Sección I, de fecha 31 de agosto de 2012 y la reforma a los artículos 14 y 28 de este Decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, de tal manera que para el ciclo escolar 2015-2016 deberá estar cubierto el 100 por ciento de los alumnos de 3 grado de preescolar y el 100 por ciento de los alumnos de 1, 2 y 3 grado de primaria. A partir del ciclo escolar 2016-2017, se cubrirá al 100 por ciento a los alumnos de 4, 5 y 6 grado de primaria. Para el ciclo escolar 2017-2018 deberá estar cubierto el idioma inglés en materia permanente y obligatoria en la totalidad del nivel básico del Sistema Educativo Estatal.
+###### ARTÍCULO 1.
 
-TERCERO.- La reforma al artículo 29 de esta ley, relativa a la creación de la unidad administrativa especializada en idioma inglés, y personal humano adscrito a la misma, entrará en vigor a partir del calendario escolar correspondiente al ciclo 2017-2018.
+El presente Reglamento tiene por objeto establecer las disposiciones correspondientes sobre las bases de organización, funcionamiento y operación de las unidades que forman la estructura orgánica de la Secretaría de Desarrollo Rural para su debido desempeño, de conformidad con lo previsto en el Artículo 32 de la Ley Orgánica del Poder Ejecutivo.
 
-CUARTO.- El Ejecutivo del Estado deberá establecer dentro de sus Proyectos de Presupuestos de Egresos para los próximos ejercicios fiscales, las partidas presupuestales que permitan garantizar la impartición permanente en esta entidad de la educación básica del idioma inglés, acorde a lo previsto en el artículo Segundo transitorio.
+###### ARTÍCULO 2.
 
-P.O. 1 DE AGOSTO DE 2014.
+Para los efectos del presente Reglamento, se entenderá por:
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+I.- Ejecutivo: El Poder Ejecutivo del Estado.
 
-P.O. 5 DE SEPTIEMBRE DE 2014.
+II.- Gobernador: El Gobernador Constitucional del Estado.
 
-ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+III.- Secretaría: La Secretaría de Desarrollo Rural.
 
-P.O. 20 DE FEBRERO DE 2015.
+IV.- Secretario: El Secretario de Desarrollo Rural.
 
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+V.- Ley: La Ley Orgánica del Poder Ejecutivo.
 
-P.O. 10 DE ABRIL DE 2015.
+###### ARTÍCULO 3.
 
-ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El Titular de la Secretaría, será el Secretario, nombrado por el Gobernador en los términos del artículo 93, fracción XXII de la Constitución Política del Estado.
 
-P.O. 12 DE JUNIO DE 2015.
+###### ARTÍCULO 4.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El domicilio de la Secretaría, tendrá su asiento principal en la Capital del Estado.
 
-SEGUNDO.- El Ejecutivo del Estado, deberá fusionar la estructura administrativa con las áreas correspondientes para el cumplimiento de este Decreto y, en su caso, la modificación del reglamento respectivo para asignar las funciones correspondientes que se deriven de la presente reforma, en un plazo máximo de 90 días.
+###### ARTÍCULO 5.
 
-P.O. 26 DE JUNIO DE 2015.
+La Secretaría a través de su estructura orgánica conducirá sus actividades en forma coordinada en base a la política que establezca el Gobierno del Estado para el logro de sus objetivos.
 
-ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+## TÍTULO SEGUNDO
 
-P.O. 31 DE JULIO DE 2015.
+### CAPÍTULO ÚNICO. DE LA COMPETENCIA DE LA SECRETARÍA
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+###### ARTÍCULO 6.
 
-SEGUNDO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos correspondientes en los ciento veinte días posteriores a la entrada en vigor del presente Decreto.
+Son obligaciones de la Secretaría:
 
-P.O. 11 DE MARZO DE 2016.
+I. Fomentar las actividades agrícolas, pecuarias, frutícolas, forestales, promoviendo el crédito, la organización, los seguros y la tecnificación, así como su industrialización y comercialización en coordinación con las dependencias federales, municipales y los sectores social y privado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 448 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5, POR LA QUE SE ADICIONA UNA FRACCIÓN IX, Y LOS INCISOS A) Y B), A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+II. Impulsar un proceso de transformación social y económica a través del fomento de las actividades productivas y de desarrollo social que se realicen en al (sic) ámbito de las diversas regiones del medio rural, procurando el uso óptimo, la conservación y el mejoramiento de los recursos naturales y orientándose a la diversificación de la actividad productiva en el campo, a elevar la productividad, la rentabilidad, la competitividad, el ingreso y el empleo de la población rural.
 
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+III. Promover la capitalización del sector mediante obras de infraestructura básica y productiva, y de servicios a la producción así como a través de apoyos directos a los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su capacidad.
 
-P.O. 18 DE MARZO DE 2016.
+IV. Normar el aprovechamiento y distribución de las aguas de jurisdicción estatal y planear obras de riego, de conformidad con la legislación aplicable.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 446 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO TERCERO DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+V. Apoyar y promover la comercialización agropecuaria y forestal de productos chihuahuenses, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria y de calidad, elevando su producción.
 
-PRIMERO.- EI presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+VI. Promover y apoyar la organización formal de ejidatarios, comuneros y grupos sociales, para motivar la participación ciudadana en la formulación, ejecución y evaluación de programas que beneficien y mejoren las condiciones de vida de los habitantes del sector rural.
 
-SEGUNDO.- EI Ejecutivo del Estado contará con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones a los Reglamentos y Reglas de Operación correspondientes.
+VII. Controlar y vigilar el funcionamiento de las colonias agrícolas y ganaderas organizadas al amparo de la legislación local.
 
-P.O. 18 DE MARZO DE 2016.
+VIII. Apoyar la organización, funcionamiento y desarrollo de cuencas lecheras en el Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 442 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS POR LAS QUE SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 15, LOS ARTÍCULOS 42 Y 43, LAS FRACCIONES III Y IV Y LA ADICIÓN DE LA FRACCIÓN V DEL ARTÍCULO 76 Y LA ADICIÓN DE UNA FRACCIÓN VI AL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.
+IX. Asesorar y vigilar el funcionamiento administrativo de los mancomunes y ejercer las facultades que le confiere la Ley para la Regulación de Colonias Agrícolas y Mancomunes Agropecuarios de Régimen Estatal.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+X. Dirigir y vigilar el cumplimiento de las Leyes y sus reglamentos con relación a las funciones del desarrollo agropecuario y forestal, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores.
 
-SEGUNDO.- Ejecutivo del Estado, deberá formular la estructura administrativa para la creación de las áreas necesarias para el cumplimiento de este Decreto y la modificación de los reglamentos respectivos para el cabal cumplimiento de la presente reforma, en un plazo máximo de 180 días.
+XI. Las demás que fijen expresamente las Leyes y sus Reglamentos.
 
-P.O. 29 DE JULIO DE 2016.
+## TÍTULO TERCERO
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 516 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL TERCER PÁRRAFO DEL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+### CAPÍTULO ÚNICO. ESTRUCTURA ORGÁNICA
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+###### ARTÍCULO 7.
+
+Para el estudio, planeación y despacho de los asuntos que son competencia de la Secretaría, tendrá la siguiente estructura orgánica.
+
+I. La Secretaría comprende a su Titular, del cual dependen las siguientes Direcciones, Departamentos y Asesoría Técnica de manera directa:
+
+a) Dirección de Fomento Agropecuario.
+
+b) Dirección de Planeación Rural.
+
+c) Dirección de Desarrollo Forestal.
+
+d) Departamento Jurídico.
+
+e) Departamento de Servicios Administrativos.
+
+f) Departamento de Infraestructura Rural.
+
+g) El Asesor Técnico.
+
+II. Departamentos subordinados a la Dirección de Fomento Agropecuario:
+
+a) Departamento de Agricultura.
+
+b) Departamento de Ganadería.
+
+c) Departamento de Apoyo a Cuencas Lecheras.
+
+d) Departamento de Coordinación de Residentes.
+
+e) Departamento de Comercialización.
+
+III. Departamentos subordinados a la Dirección de Planeación Rural:
+
+a) Departamento de Planeación y Estadística.
+
+b) Departamento de Programación y Evaluación.
+
+IV. Departamentos subordinados a la Dirección de Desarrollo Forestal:
+
+a) Departamento de Estudios y Proyectos Forestales.
+
+b) Departamento de Promoción de Productos Forestales.
+
+## TÍTULO CUARTO
+
+### CAPÍTULO PRIMERO. DE LAS ATRIBUCIONES
+
+###### ARTÍCULO 8.
+
+La Secretaría de Desarrollo Rural ejercitará las funciones que las leyes le atribuyan, las cuales serán realizadas por:
+
+I. El Secretario.
+
+II. El Director de Fomento Agropecuario.
+
+III. El Director de Planeación Rural.
+
+IV. El Director de Desarrollo Forestal.
+
+V. El Jefe del Departamento Jurídico.
+
+VI. El Jefe del Departamento de Servicios Administrativos.
+
+VII. El Jefe del Departamento de Infraestructura Rural.
+
+VIII. Los Asesores Técnicos.
+
+IX. Los Jefes de Departamentos dependientes de las anteriores Direcciones.
+
+###### ARTÍCULO 9.
+
+Son atribuciones del Secretario:
+
+I. Ejercer las facultades establecidas en la Ley, así como en las demás leyes, reglamentos, decretos, acuerdos y órdenes del Ejecutivo Estatal.
+
+II. Establecer y dirigir las políticas de desarrollo rural integral, enmarcadas en los planes del Gobierno Estatal, de acuerdo con la Ley, así como lo que expresamente determine el Ejecutivo Local.
+
+III. Desempeñar las comisiones y atender los asuntos que específicamente le confiera el Gobernador, así como someter a su aprobación, aquellos que por razón de su importancia lo requieran.
+
+IV. Proponer al Ejecutivo del Estado los proyectos de leyes, reglamentos, decretos y acuerdos sobre los asuntos que son competencia de la Secretaría.
+
+V. Comparecer ante el Congreso del Estado a petición del mismo o ante la Diputación permanente a fin de informar sobre la situación que guarde el sector de su competencia.
+
+VI. Velar por la correcta observancia y validez de los reglamentos, decretos y acuerdos expedidos por el Gobierno del Estado en asuntos de su competencia.
+
+VII. Participar en la formulación y aplicación de programas a corto y mediano plazo correspondientes a los sectores de su ramo, en congruencia con los objetivos de los planes del Gobierno del Estado.
+
+VIII. Someter para su aprobación, a la Secretaría de Finanzas el anteproyecto de presupuesto de egresos.
+
+IX. Formar parte de los organismos descentralizados del Estado relacionados con los ramos de su actividad, de conformidad con las leyes respectivas.
+
+X. Suscribir los convenios en que tenga participación el Gobierno del Estado, relacionados con el desarrollo integral de la entidad dentro del ramo de su competencia.
+
+XI. Establecer políticas, lineamientos y directrices de representación de la Secretaría, ante los diversos organismos que conforman el sector agropecuario y forestal.
+
+XII. Someter a la aprobación del Ejecutivo, los nombramientos de los servidores públicos adscritos a las diferentes Direcciones de la Secretaría a su cargo.
+
+XIII. Autorizar para su trámite ante la Dirección de Servicios Administrativos de la Secretaría de Finanzas y Administración, los movimientos de personal de la Secretaría.
+
+XIV. Representar al Gobierno en los Comités o Subcomités que sean de competencia del sector que este representa, con la posibilidad de designar un suplente dentro del grupo de sus colaboradores del nivel jerárquico inmediato inferior, según la naturaleza de su encomienda y por las funciones y responsabilidades contempladas en este reglamento.
+
+XV. Vigilar la correcta aplicación e interpretación de este reglamento.
+
+XVI. Las demás que fijen expresamente las leyes y sus reglamentos.
+
+###### ARTÍCULO 10.
+
+Los Directores, tendrán las siguientes atribuciones:
+
+I. Acordar con el Secretario la resolución de los asuntos de su competencia.
+
+II. Desempeñar las funciones y comisiones que el Secretario les delegue o encomiende, así como mantenerlo informado sobre el desarrollo de las actividades realizadas por la Dirección a su cargo.
+
+III. Vigilar que se de cumplimiento a los diversos ordenamientos de carácter legal que tengan relación directa con los asuntos de su competencia.
+
+IV. Planear, organizar, dirigir y mantener en control el desempeño de las funciones y actividades encomendadas a la Dirección a su cargo.
+
+V. Someter a conocimiento, consideración y aprobación del titular de la Secretaría los estudios, proyectos y programas concernientes a sus atribuciones así como los proyectos de manuales de organización, de procedimientos y de servicio público.
+
+VI. Colaborar con las demás unidades orgánicas de la Secretaría, con otras Dependencias y Unidades del Gobierno del Estado, así como con los sectores social y privado, dentro de la esfera de sus atribuciones y competencia de acuerdo con las políticas establecidas por el Secretario.
+
+VII. Vigilar que el personal a su cargo realice de manera eficaz las funciones establecidas tanto en este reglamento como en los manuales de organización creados por la misma Secretaría.
+
+VIII. Elaborar, los proyectos del presupuesto de la Dirección a su cargo y presentarlo al Secretario para su aprobación.
+
+IX. Proponer al Secretario los movimientos de altas, cambios y bajas del personal a su cargo.
+
+X. Delegar funciones de su competencia a sus subalternos con autorización del Secretario.
+
+XI. Las demás que le fije expresamente el Secretario.
+
+###### ARTÍCULO 11.
+
+Cada Dirección tendrá a su cargo los Departamentos y el personal necesario con el objeto de desempeñar eficazmente sus funciones, de acuerdo con la organización interna que apruebe el Secretario en base al presupuesto que se le asigne.
+
+###### ARTÍCULO 12.
+
+Compete a los Jefes de Departamento:
+
+I. Planear, organizar, dirigir y controlar todo lo referente al buen desempeño y desarrollo de las funciones del Departamento a su cargo.
+
+II. Establecer las normas, sistemas y procedimientos que fijan la organización y funcionamiento del Departamento a su cargo.
+
+III. Desempeñar las funciones que les encomiende el Secretario o el Director de su adscripción e informar del resultado de la gestión a quien lo haya solicitado.
+
+IV. Acordar con su superior inmediato de conformidad con las políticas establecidas, la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de competencia de su Departamento.
+
+V. Formular el anteproyecto del presupuesto anual de egresos e ingresos del Departamento a su cargo y presentarlo a la aprobación de su superior inmediato.
+
+VI. Proponer contrataciones, promociones y licencias del personal a su cargo.
+
+VII. Elaborar los proyectos de manuales de organizaciones y procedimientos en su caso de servicios al público que proporcione su Departamento y someterlos a la consideración de su superior inmediato y del Departamento de Servicios Administrativos.
+
+### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES
+
+###### ARTÍCULO 13.
+
+Compete a la Dirección de Fomento Agropecuario:
+
+I. Dar atención directa, asesorar, informar y coordinar los proyectos productivos, obras y acciones que ejecuta esta Secretaría con los productores, asociaciones u organizaciones no gubernamentales, autoridades municipales, así como representantes de Dependencias gubernamentales que tengan relación con el sector rural.
+
+II. Promover acciones tendientes a fomentar las actividades productivas agropecuarias en las áreas agrícola, frutícola, ganadera, piscícola y de infraestructura hidráulica, estableciendo los mecanismos de control, seguimiento y operación de proyectos.
+
+III. Impulsar y coordinar actividades para la habilitación y rehabilitación de tierras, mediante prácticas de conservación de suelo y agua.
+
+IV. Promover, coordinar y dirigir las actividades encaminadas a eficientar los recursos económicos, materiales y humanos disponibles en la zona rural.
+
+V. En materia de sanidad tanto animal como vegetal, aplicar las normas que el Estado requiera para obtener y mantener un estatus de zona libre en enfermedades y plagas, difundiendo y promoviendo las correctas practicas sanitarias, coordinando la aplicación de campañas y programas sanitarios implementados por la Federación y/o el Estado.
+
+VI. Controlar, coordinar y dirigir las áreas a su cargo definiendo la mecánica de operación de los programas, tanto propios de la Secretaría como los convenidos con otras Dependencias, así como del ejercicio de los recursos a fin de cumplir con tiempos y formas establecidos por la norma aplicable.
+
+VII. Fomentar programas de repoblación de los hatos ganaderos de bovinos, ovinos, caprinos y porcinos e integrarlos hasta su comercialización, así como coordinar acciones para su mejoramiento genético y de sanidad.
+
+VIII. Promover la comercialización nacional e internacional de los productos agropecuarios del Estado de Chihuahua y fomentar alianzas comerciales entre los diferentes países con los que ya tiene relación comercial.
+
+IX. Apoyar programas de electrificación rural dirigidos a un uso eficiente del agua y la energía eléctrica, así como promover y fomentar el aprovechamiento de la energía solar.
+
+X. Promover la agroindustria mediante foros y exposiciones.
+
+XI. Diversificar la producción de otros cultivos y árboles frutales en los viveros del Gobierno del Estado como parte de las acciones encaminadas a promover y fomentar la reconversión productiva, así como la cultura del traspatio familiar.
+
+XII. Las demás que le asigne directamente el Secretario.
+
+###### ARTÍCULO 14.
+
+Compete a la Dirección de Planeación Rural las siguientes funciones:
+
+I. Participar en la definición de la política y planeación del desarrollo agropecuario y forestal en el Estado de Chihuahua a través de la formulación de métodos de desarrollo sectorial y programas anuales que logren satisfacer las necesidades de los sectores, para así cumplir con los objetivos contemplados en el Plan Estatal de Desarrollo.
+
+II. Conducir y coordinar las acciones, programas y/o planes estatales de los sectores agrícola, pecuario, forestal y agroindustrial, con las Dependencias Gubernamentales y organizaciones del sector social, público, privado y educativo involucradas e interesadas en la problemática del campo.
+
+III. Determinar la metodología de planeación, programación y presupuestación de las actividades agrícolas, pecuarias y forestales de la Secretaría con recursos del sector público y privado.
+
+IV. Coordinar la elaboración, presentación, ejecución y cierre del programa operativo anual de inversión de la Secretaría.
+
+V. Establecer los mecanismos de control y seguimiento de los programas que esta Secretaría desempeña y coordina.
+
+VI. Establecer los procesos de captación o recopilación, clasificación, análisis de la información estadística agropecuaria y forestal, apoyándose y coordinándose con organizaciones públicas y privadas para su difusión.
+
+VII. Promover una mayor vinculación y participación entre los tres niveles de gobierno, contando con las organizaciones campesinas, asociaciones de productores e instituciones educativas involucradas en el sector, fortaleciendo así el proceso de planeación y programación para el desarrollo rural sustentable e integral agropecuario y forestal en el Estado.
+
+VIII. Celebrar acuerdos y convenios de colaboración con autoridades gubernamentales y de educación e investigación, con los objetivos propios de la Secretaría que lleven al cumplimiento de los programas establecidos por la misma.
+
+IX. Apoyar a la planeación de los Municipios y Distritos de Desarrollo Rural, con el fin de definir prioridades y determinar las acciones más adecuadas para el logro de un desarrollo óptimo.
+
+X. Las demás que le fije expresamente el Secretario.
+
+###### ARTÍCULO 15.
+
+Compete a la Dirección de Desarrollo Forestal las siguientes funciones:
+
+I. Definir una estrategia forestal estatal de largo plazo en congruencia con la política forestal nacional.
+
+II. Iniciar un desarrollo forestal sustentable en coordinación con el gobierno federal, los ayuntamientos y la participación de los sectores social y privado.
+
+III. Asumir el ejercicio de las funciones operativas de la federación, derivada de los acuerdos y convenios que en materia forestal se celebren.
+
+IV. Instrumentar en el Estado, acciones de educación, organización, capacitación, investigación y cultura forestal, con el objeto de satisfacer las necesidades de recursos humanos y de tecnología que se requiera para el desarrollo del sector.
+
+V. Integrar un sistema estatal de información forestal con datos estadísticos y geográficos para ponerlo a disposición del público.
+
+VI. Promover la aplicación de estímulos y apoyos para la protección, fomento, conservación, inspección, vigilancia y aprovechamiento sustentable de los recursos forestales.
+
+VII. Conformar un cuerpo de control y vigilancia de los recursos forestales con personal operativo capaz, en el cual se tenga la participación interinstitucional y de todos los sectores, para el cumplimiento de las normas.
+
+VIII. Fomentar la instrumentación de programas de forestación y reforestación y el uso y manejo de los recursos forestales.
+
+IX. Celebrar acuerdos y convenios de coordinación con los municipios y organismos sociales y privados para fortalecer su participación en la actividad forestal.
+
+X. Impulsar la producción forestal, propiciando el abastecimiento de la industria local para la generación de empleos del sector.
+
+XI. Propiciar el mayor valor agregado posible de las materias primas forestales a través de la industrialización integral.
+
+XII. Promover y coordinar las actividades para construcción, rehabilitación y mantenimiento de la infraestructura vial forestal.
+
+XIII. Participar en la campaña permanente de prevención y combate de incendios forestales, involucrando diversos sectores social y dependencias de los tres niveles de Gobierno.
+
+XIV. Establecer la zonificación estatal de los terrenos forestales, así como mantener actualizado periódicamente el inventario forestal del Estado estableciendo mecanismos para vigilar de manera constante y eficaz las áreas forestales.
+
+XV. Vincular la participación de los diferentes sectores de la actividad forestal a los órganos de consulta ciudadana.
+
+XVI. Prestación de toda clase de Servicios Técnicos Forestales.
+
+XVII. Las demás que le fije expresamente el Secretario.
+
+### CAPÍTULO TERCERO. DE LOS DEPARTAMENTOS ADSCRITOS DIRECTAMENTE AL SECRETARIO
+
+###### ARTÍCULO 16.
+
+Compete a los Jefes de Departamento dependientes directamente del Secretario las siguientes atribuciones comunes:
+
+I. Constituir una coordinación y apoyo técnico para el Secretario.
+
+II. Elaborar sus programas y presupuestos, para el desempeño de sus funciones.
+
+III. Proponer el ingreso, promociones y licencias del personal a su cargo.
+
+IV. Proporcionar la asesoría técnica dentro del ámbito de su competencia.
+
+V. Las demás que les fije expresamente el Secretario.
+
+###### ARTÍCULO 17.
+
+Compete al Departamento Jurídico:
+
+I. Atender, dirigir y supervisar los asuntos jurídicos de la Secretaría.
+
+II. Asesorar jurídicamente al Secretario, Directores y Jefes de Departamentos.
+
+III. Formular y revisar proyectos de leyes, decretos, reglamentos, acuerdos, convenios, contratos, circulares y demás disposiciones de carácter general que sean competencia de la Secretaría.
+
+IV. Levantar las actas administrativas que correspondan con respecto al desempeño de las funciones del personal a su cargo y remitirlas al Departamento de Servicios Administrativos, conforme a la normatividad aplicable a cada caso concreto.
+
+V. Compilar leyes, decretos, reglamentos, contratos, acuerdos, convenios, circulares y demás disposiciones relacionadas con asuntos que se encuentren dentro de la esfera de competencia de la Secretaría.
+
+VI. Llevar un registro de acuerdos, contratos y decretos promovidos por la Secretaría.
+
+VII. Realizar las bases y requisitos legales a los que deben ajustarse los actos jurídicos que pretendan celebrar las distintas áreas que integran la Secretaría.
+
+VIII. Efectuar todos los trámites jurídicos con relación a las áreas que le corresponden a la Secretaría y formular los proyectos de resoluciones para firma de los funcionarios competentes.
+
+IX. Auxiliar a los diferentes Departamentos de la Secretaría, en la elaboración de sus proyectos de manuales de organización y procedimientos.
+
+X. Dictaminar sobre la organización y funcionamiento de las colonias agrícolas y ganaderas, reguladas por la Ley.
+
+XI. Controlar y vigilar el mejoramiento de las colonias agrícolas y ganaderas organizadas conforme a la legislación local, así como de los mancomunes, ejecutando planes, programas, estudios, proyectos y actividades para regularizar la tenencia de la tierra y estimular su desarrollo integral.
+
+XII. Estar presente en los nombramientos de mesas directivas de Colonias y Mancomunes de régimen estatal.
+
+XIII. Participar en la elaboración de los reglamentos internos para los Ejidos, Colonias y Mancomunes de régimen estatal.
+
+XIV. Apoyar en la constitución de Organizaciones de Productores.
+
+XV. Expedición de constancias de tenencia de la tierra para fines que al interesado convengan.
+
+XVI. Mediciones topográficas en problemas específicos como apoyo a las áreas operativas de esta Secretaría.
+
+XVII. Realizar acciones con motivo de la Regularización de la Tenencia de la Tierra de Colonias y Mancomunes del régimen estatal.
+
+XVIII. Dirigir las diligencias para solucionar conflictos de líderes en Ejidos y Comunidades Agrarias (fuera de Tribunales).
+
+XIX. Realizar peritajes topográficos a solicitud de la Dependencia Gubernamental que así lo solicite.
+
+XX. Intervenir en asambleas conciliatorias, apoyos topográficos y dictámenes agrarios con fines de la Certificación y Titulación de Derechos Ejidales y Solares (PROCEDE).
+
+XXI. Coadyuvar en los asuntos del sector agrario, así como atención a las problemáticas de la comunidad Menonita.
+
+XXII. Atención y seguimiento a volantes de turno y asuntos en materia de aguas estatales.
+
+XXIII. Asesoramiento en diferentes temas agropecuarios y de organización.
+
+XXIV. Las demás que le asigne el Secretario.
+
+###### ARTÍCULO 18.
+
+Compete al Departamento de Servicios Administrativos:
+
+I. Aplicar las normas, políticas y criterios, en materia de administración de recursos humanos, financieros y materiales de la Secretaría, establecidos por la Secretaría de Finanzas.
+
+II. Formular en coordinación con los titulares de las Direcciones y Departamentos de la Secretaría, los Programas Operativos Anuales de la Secretaría de Finanzas y Administración.
+
+III. Recibir y tramitar la correspondencia de las diversas áreas de la Secretaría.
+
+IV. Efectuar los trámites relativos a las altas, bajas y cambios de adscripción del personal al servicio de la Secretaría y en general gestionar ante el Departamento de Personal de la Secretaría de Finanzas y Administración, los nombramientos, contrataciones, licencias, incrementos, promociones y demás trámites relativos al personal de la Secretaría.
+
+V. Organizar coordinadamente con las demás áreas de la Secretaría, cursos de capacitación técnica para el personal.
+
+VI. Llevar el control de inventario de los bienes propiedad del Gobierno del Estado, asignados a la Secretaría.
+
+VII. Efectuar las cotizaciones y compras de equipo, artículos de oficina, papelería y todo el material necesario para el desarrollo de las funciones de la Secretaría y en general administrar las cuentas desconcentradas por la Secretaría de Finanzas y Administración para la adquisición de bienes, servicios y suministros.
+
+VIII. Mantener la coordinación necesaria en materia de mantenimiento de instalaciones, mobiliarios y equipo, con la Secretaría de Finanzas y Administración.
+
+IX. Llevar los registros administrativos de las operaciones de la Secretaría.
+
+X. Ejecutar las acciones de tipo administrativo contenidas en los convenios y contratos, en las que se obligue la Secretaría.
+
+XI. Efectuar las acciones de tipo administrativo que le corresponden en cuanto al manejo de recursos convenidos con la Federación que tenga participación la Secretaría.
+
+XII. En coordinación con la Secretaría de Finanzas y Administración, aplicar las sanciones administrativas y económicas a que se haga acreedor el personal, de conformidad con las disposiciones legales y reglamentarias que regulan las relaciones entre el Ejecutivo y sus trabajadores, sin perjuicio de las atribuciones reservadas a otras autoridades.
+
+XIII. Las demás que le fije expresamente el Secretario.
+
+###### ARTÍCULO 19.
+
+Al Departamento de Infraestructura Rural le compete:
+
+I. Realizar las actividades relacionadas con el agro Chihuahuense tales como nivelación de tierras susceptibles al cultivo, caminos de saca, presones, desmontes y demás que requiera la utilización de maquinaria pesada.
+
+II. Efectuar perforaciones y aforos de pozos para uso agrícola, pecuario, agua potable e industriales.
+
+III. Intervención en la preparación de la tierra de cultivo, comprendiendo barbecho, subsuelo y demás labores que se requieran para el cultivo de alimentos básicos.
+
+IV. Proporcionar asistencia técnica a quien lo requiera tanto en obras de maquinaria pesada, como en el diseño y construcción de pozos para obtener los mejores resultados de estas obras.
+
+V. Conservar en las mejores condiciones mecánicas todo el equipo que se tiene asignado.
+
+VI. Coordinarse con las Dependencias Estatales, Municipales o Federales cuando se requiera para la realización de los fines propuestos.
+
+VII. Las demás que le fije expresamente el Secretario.
+
+###### ARTÍCULO 20.
+
+Los Asesores Técnicos tendrán las siguientes atribuciones:
+
+I. Asesorar al Secretario sobre los programas y proyectos que el mismo asigne.
+
+II. Mantener informado al Secretario de los programas que realicen las Direcciones y Departamentos que conforman la Dependencia.
+
+III. Coordinar los proyectos y programas de las Direcciones y Departamentos de la Secretaría, de acuerdo a las instrucciones del Secretario.
+
+IV. Agendar las actividades del Secretario.
+
+V. Coordinar, asignar y dar seguimiento a las solicitudes presentadas a la Secretaría, las cuales remitirá a la Dirección o Departamento de acuerdo a las atribuciones indicadas en este Reglamento.
+
+VI. Atender al público que solicite reunirse con el Secretario, conforme a las instrucciones de este.
+
+VII. Coordinar las reuniones de evaluación e información que ordene el Secretario.
+
+VIII. Las demás que expresamente les asigne el Secretario.
+
+###### ARTÍCULO 21.
+
+La Asesoría Técnica se integrará por un titular y demás personal requerido de conformidad al presupuesto autorizado.
+
+### CAPÍTULO CUARTO. FUNCIONES DE LOS DEPARTAMENTOS
+
+###### ARTÍCULO 22.
+
+Compete al Departamento de Agricultura las siguientes funciones:
+
+I. Promover y fomentar la formulación de proyectos agrícolas y frutículas en coordinación con las Dependencias Federales y Municipales y los Sectores Social y Privado.
+
+II. Planear las estrategias para el desarrollo de los diversos cultivos que se realizan en el Estado.
+
+III. Encargarse de la operación, mantenimiento y programación de la producción de los viveros e invernaderos del Gobierno, que son administrados por esta Secretaría.
+
+IV. Coordinarse con los sectores público, social y privado para el control de plagas, enfermedades y todo aquello que afecte tanto a la agricultura como fruticultura en el Estado.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
+
+V. Emisión y control de constancias de Origen para la movilización de productos y subproductos del campo.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
+
+VI. Realizar acciones para combatir el robo de productos y subproductos agropecuarios, en coordinación con las dependencias de la materia.
+
+VII. Elaboración de expedientes técnicos para la autorización de obras.
+
+VIII. Coordinación con la Comisión Federal de Electricidad para la Ejecución de Obras de Electrificación.
+
+IX. En coordinación con la Comisión Nacional del Agua, dictaminar sobre el aprovechamiento, uso y distribución de las aguas de Jurisdicción Estatal, en apego a las normas, leyes y reglamentos vigentes tanto federales como estatales.
+
+X. Dar asesoría y atender a las solicitudes de los productores agrícolas del estado, así como a los usuarios de los distritos de riego y de temporal.
+
+XI. Las demás que le fije expresamente el Director de Fomento Agropecuario.
+
+###### ARTÍCULO 23.
+
+Compete al Departamento de Ganadería las siguientes funciones:
+
+I. Asesorar al Secretario, al Director de Fomento Agropecuario, a las áreas operativas de la Secretaría, así como a los órganos oficiales y particulares que lo requiera en materia de sanidad animal.
+
+II. Apoyar la coordinación de las Campañas Sanitarias en el Estado de Chihuahua.
+
+III. Atender los programas de sanidad animal del Estado.
+
+IV. Emisión y control de permisos de ingreso de ganado en todas sus especies y sus productos y subproductos al Estado, además de permisos de movilización sanitaria.
+
+V. Realizar acciones para combatir el robo de ganado, en coordinación con las Dependencias en la materia.
+
+VI. Recopilar la estadística ganadera del Estado, tales como sacrificio de ganado, subasta, ingresos y egresos de ganado, exportación, importación, entre otros.
+
+VII. Registro de fierros de herrar en los 67 Municipios del Estado.
+
+VIII. Apoyo de información para los diferentes órganos oficiales y particulares que requieren datos sobre la propiedad del ganado.
+
+IX. Elaboración y validación de proyectos productivos pecuarios, así como del presupuesto para la ejecución de los mismos.
+
+X. Ejecución de proyectos de fomento ganadero.
+
+XI. Vigilar la movilización de ganado proveniente de otros Estados, emitir el pase de ganado respectivo, así como sancionar según corresponda en los casos que se incurra en alguna irregularidad, conforme lo establece la Ley de Ganadería para el Estado de Chihuahua.
+
+XII. Brindar asesoría y atender las solicitudes de los productores pecuarios en el Estado.
+
+XIII. Las demás que le señale el Director de Fomento Agropecuario.
+
+###### ARTÍCULO 24.
+
+Compete al Departamento de Apoyo a Cuencas Lecheras las siguientes funciones:
+
+I. Asesorar, elaborar y ejecutar proyectos lucrativos, en coordinación con las Dependencias federales, estatales y municipales, así como con el sector social y privado que vayan inmersos con el producto lechero.
+
+II. Otorgar apoyo para la rehabilitación y construcción de infraestructura básica, adquisición e instalación de equipos especializados necesarios para el mejoramiento y modernización de las explotaciones lecheras, y así como para su industrialización.
+
+III. Entablar la relación entre la Federación, Estado, Municipio y Productores para la Campaña contra la Brucelosis Caprina en el Estado.
+
+IV. Coordinarse con el Departamento de Ganadería para llevar a cabo el Programa de Inspección de Quesos que ingresan al Estado, con la finalidad de verificar el cumplimiento de las Normas Oficiales Mexicanas.
+
+V. Dar Seguimiento al Programa de Financiamiento para la Adquisición de Forrajes a Productores Lecheros de la Cuenca Menonita de Cuauhtémoc.
+
+VI. Las demás que le fije el Director de Fomento Agropecuario.
+
+###### ARTÍCULO 25.
+
+Compete al Departamento de Coordinación de Residentes las siguientes funciones:
+
+I. Representar a la Secretaría en todos los municipios del Estado, asistiendo a los eventos en los que tenga ingerencia la Secretaría, atendiendo las situaciones que se puedan presentar y promoviendo los programas propios de esta Dependencia.
+
+II. La recepción, análisis, validación y trámite de solicitudes de apoyo presentadas por productores, representantes de estos u organizaciones campesinas, para la realización de obras o proyectos productivos.
+
+III. Otorgar asesoría y canalizar la necesaria gestión a los productores para la obtención de fuentes de financiamiento o acceso a otros programas.
+
+IV. La ejecución de las obras propuestas por la misma Residencia en coordinación y comunicación permanente con los Departamentos de la Dirección de Fomento Agropecuario, para la ejecución conjunta de obras, acciones y/o proyectos.
+
+V. La detección, análisis e informe a la Secretaría sobre la problemática materia del presente Reglamento que pueda presentarse en los Municipios o localidades.
+
+VI. Establecer comunicación y coordinación permanente con los distintos órdenes gubernamentales para el seguimiento y operación de los distintos programas del sector rural.
+
+VII. El seguimiento, registro e información de avales de las obras, elaboración de las actas de entrega-recepción, de los convenios con las localidades y comprobación de los registros ejercidos de acuerdo a los programas.
+
+VIII. La inspección, asesoría técnica y vigilancia de la aplicación de los lineamientos establecidos por los programas federales y/o estatales.
+
+IX. Promocionar y difundir los programas que realice o lleve a cabo la Secretaría.
+
+X. Las demás que le asigne el Director de Fomento Agropecuario.
+
+###### ARTÍCULO 26.
+
+Compete al Departamento de Comercialización las siguientes funciones:
+
+I. Promocionar los productos agropecuarios a través de ferias, exposiciones nacionales e internacionales, boletines agropecuarios, revistas y cualquier otro medio de difusión.
+
+II. Otorgar en base a los Programas de Inversión que existan en la Secretaría el valor agregado a los productos agropecuarios y forestales.
+
+III. Lograr la consecución de nuevos mercados para los productos agropecuarios del Estado.
+
+IV. Investigar sobre los diversos cultivos en otros Estados y Países a fin de determinar su adaptabilidad y factibilidad de explotación económica de los mismos, en el Estado de Chihuahua, así como también sobre las nuevas utilidades de los productos y subproductos.
+
+V. Analizar y difundir información de los mercados agropecuarios y forestales, esquemas y flujos de comercialización, precios de los productos, entre otros, que proporcionen un panorama general y conociendo las alternativas existentes, conlleven a una toma de decisiones mas acertada tanto para productores del sector como a servidores públicos, instituciones educativas y público en general.
+
+VI. La comercialización de fríjol, maíz, búsqueda de apoyos financieros a los comerciantes para la adquisición de productos del Estado, así como el enlace de clientes y productores.
+
+VII. Llevar el reporte diario de almacenamiento de presas, y la implementación del Sistema Meteorológico del Estado.
+
+VIII. Promocionar de la creación de estándares de calidad y normas de diferentes productos del Estado.
+
+IX. La elaboración y apoyo a diferentes proyectos del Secretario.
+
+X. Coordinar y ejecutar programas de crédito agropecuario.
+
+XI. Las demás que le asigne el Director de Fomento Agropecuario.
+
+###### ARTÍCULO 27.
+
+Funciones del Departamento de Planeación y Estadística.
+
+I. Coordinar la preparación de informes, reportes, periódicos y especiales sobre información estadística-geográfica; así como el desarrollo y los resultados de los programas y proyectos de la Secretaría.
+
+II. Apoyar y participar en la formulación, seguimiento y evaluación del Plan Estatal de Desarrollo en lo correspondiente al sector agrícola, pecuario, forestal y agroindustrial.
+
+III. Apoyar a la Dirección a la cual se encuentra adscrita en fortalecer, organizar, convocar y coordinar las reuniones y trabajos del Subcomité de Desarrollo Rural del Comité de Planeación del Estado de Chihuahua, Consejo Estatal Agropecuario, así como de grupos y mesas de trabajo.
+
+IV. Proveer oportunamente de la información relevante, pertinente y confiable para aportar elementos que faciliten la toma de decisiones a los funcionarios de la Secretaría.
+
+V. Planear y promover la integración y desarrollo de un sistema de información estadística integral, agrícola, pecuaria, forestal y agroindustrial.
+
+VI. Definir los lineamientos para el diseño y desarrollo de sistemas automatizados para el uso, manejo, explotación e intercambio de información estadística para el sector agrícola, pecuario, forestal y agroindustrial.
+
+VII. Participar en la planeación de levantamiento, tabulación y publicación de encuestas sobre las principales variables económicas y sociodemográficas del sector agrícola, pecuario, forestal y agroindustrial.
+
+VIII. Identificar, evaluar y proponer acciones de oportunidad, mediante la elaboración de estudios y diagnósticos con el fin de coordinar programas y acciones futuras con dependencias federales, estatales, municipales y los sectores sociales.
+
+IX. Proponer y diseñar las vías de divulgación a través de las cuales se ofrezca información estadística estatal del sector agropecuario y forestal, así como información de los programas, proyectos y acciones de la Secretaría.
+
+X. Definir los lineamientos para el desempeño y desarrollo de sistemas que permitan el manejo, explotación e intercambio de información estadística y geográfica producida a nivel estatal, las políticas y los mecanismos técnicos para la instrumentación de un banco de datos, a través de técnicas y tecnología de vanguardia.
+
+XI. Promover la planeación ante la detección de las diferentes necesidades del sector agropecuario y forestal.
+
+XII. Las demás que le fije expresamente el Director de Planeación Rural.
+
+###### ARTÍCULO 28.
+
+Funciones del Departamento de Programación y Evaluación:
+
+I. Coordinar la formulación del anteproyecto de los programas de inversión de la Secretaría.
+
+II. Coordinación del proceso de programación, presupuestación de la asignación de recursos de inversión tanto para proyectos de beneficio social y productivos de acuerdo al Plan Estatal de Desarrollo.
+
+III. Establecer prioridades de calendarización de los programas de inversión y acciones de la Secretaría determinadas mediante la constante evaluación del Sector Agropecuario y Forestal del Estado.
+
+IV. Planear y programar los mecanismos para el seguimiento de la operación de los programas ejecutados y concertados por la Secretaría.
+
+V. Vigilar, evaluar, y efectuar el seguimiento de los programas, conforme a las normas, políticas y procedimientos establecidos por la Secretaría de Planeación y Evaluación de Gobierno del Estado o las instancias federales correspondientes.
+
+VI. Controlar, vigilar y evaluar el uso y destino de los recursos complementados en los programas de inversión, mediante lo cual se de el seguimiento y cumplimiento a los objetivos planteados, principalmente en el plan estatal de desarrollo y el programa sectorial, destinados a los programas de inversión de la Secretaría.
+
+VII. Realizar la evaluación de los programas y proyectos de la Secretaría, en sus fases de propuesta, ejecución y resultados.
+
+VIII. Las demás que le fije el Director de Planeación Rural.
+
+###### ARTÍCULO 29.
+
+Compete al Departamento de Estudios y Proyectos Forestales las siguiente (sic) funciones:
+
+I. Promover y fomentar la formulación y realización de proyectos forestales en coordinación con las dependencias federales, estatales y municipales y los sectores social y privado.
+
+II. Ejecutar acciones para el mejor aprovechamiento, conservación y reforestación del bosque.
+
+III. Dar seguimiento a los programas relacionados a la normatividad, autoridad, población y cultura forestal.
+
+IV. Participar en coordinación con las Dependencias Federales y Municipales y los sectores social y privado en el fomento y otorgamiento de estímulos a la producción forestal.
+
+V. Las demás que le fije el Director de Desarrollo Forestal.
+
+###### ARTÍCULO 30.
+
+Compete al Departamento de Promoción de Productos Forestales las siguientes funciones:
+
+I. Fomentar la organización de productores e industriales forestales a efecto de incrementar la producción e industrialización de los productos forestales.
+
+II. Llevar a cabo acciones de inspección y vigilancia forestal.
+
+III. Dar seguimiento a los programas y acciones relacionadas al ecosistema, a la infraestructura e industria forestal.
+
+IV. Integrar el censo de predios e industrias forestales.
+
+V. Las demás que le fije el Director de Desarrollo Forestal.
+
+## TÍTULO QUINTO
+
+### CAPÍTULO ÚNICO. DE LA SUPLENCIA TEMPORAL Y LICENCIAS DEL SECRETARIO Y DE LOS TITULARES DE LAS UNIDADES ORGÁNICAS SUBALTERNAS
+
+###### ARTÍCULO 31.
+
+Las ausencias temporales del Secretario serán suplidas por el Director de Fomento Agropecuario o por el funcionario que aquel designe.
+
+###### ARTÍCULO 32.
+
+Las ausencias temporales de los titulares de las unidades orgánicas subalternas de la Secretaría, serán suplidas por quien determine el Secretario o en su caso se atenderá lo siguiente:
+
+I. La ausencia temporal del Director de Planeación Rural será suplida por el titular del Departamento de Planeación y Estadística o por el funcionario que aquel designe.
+
+II. La ausencia temporal del Director de Fomento Agropecuario será suplida por el Jefe del Departamento de Agricultura o por el funcionario que aquel designe.
+
+III. La ausencia temporal del Director de Desarrollo Forestal será suplida por quien designe el mismo.
+
+IV. La ausencia temporal del Jefe del Departamento Jurídico será suplida por el Supervisor Administrativo del propio Departamento.
+
+V. La ausencia temporal del Jefe del Departamento de Servicios Administrativos lo suplirá el Supervisor Administrativo de Recursos Financieros ó en su defecto quien designe aquel.
+
+VI. La ausencia temporal del Jefe del Departamento de Infraestructura Rural lo suplirá el Supervisor Administrativo de Administración.
+
+VII. Las licencias podrán ser otorgadas y revocadas en los términos y condiciones generales de trabajo del Gobierno del Estado de Chihuahua y sus trabajadores.
+
+VIII. Todo lo no previsto en el presente Reglamento será resuelto por el Secretario.
+
+## TÍTULO SEXTO
+
+### CAPÍTULO ÚNICO. DE LAS RELACIONES DE TRABAJO ENTRE LA SECRETARÍA Y SUS TRABAJADORES
+
+###### ARTÍCULO 33.
+
+Las relaciones de trabajo entre la Secretaría y sus trabajadores se regirán por lo dispuesto en el Código Administrativo del Estado en el Capítulo respectivo, así como por lo dispuesto en las Condiciones Generales de Trabajo del Gobierno del Estado y sus Trabajadores.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos que se están tramitando por el Secretario, las Direcciones o Departamentos, hasta antes de la entrada en vigor de este Reglamento, continuarán hasta su resolución a cargo del instrumento que esté en vigor.
+
+Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Chihuahua, Chih., a los cinco días del mes de agosto del año dos mil dos.
+
+C.P. PATRICIO MARTÍNEZ GARCÍA
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. SERGIO MARTÍNEZ GARZA
+
+SECRETARIO GENERAL DE GOBIERNO
+
+C.P. JOSÉ LUIS GARCÍA MAYAGOITIA
+
+SECRETARIO DE DESARROLLO RURAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado y cúmplase.
 
 ###### ARTÍCULO UNICO.
 
