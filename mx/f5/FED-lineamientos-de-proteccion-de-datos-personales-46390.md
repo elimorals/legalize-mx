@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-de-proteccion-de-datos-personales-46390"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2005-09-30"
-last_updated: "2005-09-30"
+last_updated: "2006-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46390&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-27"
 
 LINEAMIENTOS DE PROTECCION DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2006.
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2005.
 
@@ -421,7 +421,9 @@ Del Sistema “Persona”
 
 Trigésimo noveno. Para dar cumplimiento a lo dispuesto por el artículo 23 de la Ley, el Instituto pondrá a disposición de las dependencias y entidades el Sistema “Persona”.
 
-Cuadragésimo. Los Responsables deberán registrar e informar al Instituto, dentro de los primeros diez días hábiles de enero y julio de cada año, lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 2006)</small>
+
+Cuadragésimo. Los Responsables deberán registrar e informar al Instituto, dentro de los primeros diez días hábiles de marzo y septiembre de cada año, lo siguiente:
 
 a) Los sistemas de datos personales;
 
@@ -480,3 +482,9 @@ Quinto. Las primeras recomendaciones sobre las medidas de seguridad que se menci
 Sexto. Se dejan sin efecto las disposiciones contenidas en los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal para notificar al Instituto el listado de sus sistemas de datos personales, publicados el 20 de agosto de 2003 en el Diario Oficial de la Federación.
 
 Así lo acordó por unanimidad el Pleno del Instituto Federal de Acceso a la Información Pública, en sesión celebrada el día veintisiete de julio de dos mil cinco, ante el Secretario de Acuerdos.- La Comisionada Presidenta, María Marván Laborde.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, Alonso Gómez-Robledo Verduzco, Juan Pablo Guerrero Amparán, Alonso Lujambio Irazábal.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+D.O.F. 17 DE JULIO DE 2006.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
