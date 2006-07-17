@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2006-05-08"
+last_updated: "2006-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -531,9 +531,9 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-III. Los Secretarios de Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, el Procurador General de Justicia del Estado, el Subprocurador General de Justicia y los servidores públicos de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días naturales antes del día de la elección;
+III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Subprocurador General de Justicia y los Servidores Públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días antes del día de la elección;
 
 Los Magistrados del Tribunal Electoral del Estado, el Subprocurador de Asuntos Electorales y los Consejeros Ciudadanos del Instituto Estatal Electoral, tampoco podrán serlo, a menos que se separen de su cargo un año antes del día de la elección;
 
@@ -765,9 +765,9 @@ El Organo de Fiscalización Superior del Congreso del Estado, es el órgano téc
 
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados, Procurador General de Justicia y Subprocurador de Asuntos Electorales;
+VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia y Subprocurador de Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
@@ -779,9 +779,9 @@ IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de falta temporal o definitiva de éste;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-XI. Conceder a los Diputados, Gobernador, Magistrados, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos en los términos establecidos por esta Constitución;
+XI. Conceder a los Diputados, Gobernador, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -829,9 +829,9 @@ XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
 
 XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y (sic)
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-XXV. Nombrar a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Instituto Estatal Electoral, en los términos establecidos en la ley de la materia. Asimismo conocerá de su renuncia;
+XXV. Nombrar a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Instituto Estatal Electoral, así como al Consejero de la Judicatura, en los términos establecidos en las Leyes de la materia. Asimismo conocerá de su renuncia;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 1998)</small>
 
@@ -915,13 +915,13 @@ Son facultades de la Diputación Permanente:
 
 I. Convocar a sesiones extraordinarias por sí o a solicitud formulada por el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales, cuando sea por un período mayor de tres meses;
+II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como a los Consejeros del Consejo de la Judicatura, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales, cuando sea por un período mayor de tres meses;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
+III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, Consejeros del Consejo de la Judicatura , así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -999,9 +999,9 @@ IV. No pertenecer al Estado eclesiástico, ni ser ministro de culto religioso;
 
 V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seguridad Pública; en ambos casos, dentro de los noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-VI. No ser servidor público federal o local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, Diputado Local o Presidente Municipal en funciones a menos de que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
+VI. No ser Servidor Público Federal o Local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, Consejero del Consejo de la Judicatura, Diputado Local o Presidente Municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
 
 No ser Magistrado del Tribunal Electoral del Estado, Subprocurador de Asuntos Electorales o Consejero Ciudadano del Consejo General del Instituto Estatal Electoral, a menos que se separen de su cargo un año antes de la fecha de la elección.
 
@@ -1223,9 +1223,15 @@ L. Tomar las medidas necesarias en los casos de desastre y situaciones económic
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
-LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a la Ley; y
+LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a la Ley; y (sic)
 
-LII. Las demás que le confiera esta Constitución y la General de la República.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2006)</small>
+
+LII. Designar al Consejero del Consejo de la Judicatura; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JULIO DE 2006)</small>
+
+LIII. Las demás que le confiera esta Constitución y la General de la República.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1359,7 +1365,7 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2006)</small>
 
 ###### Artículo 89.
 
@@ -1409,9 +1415,13 @@ Solo podrán ser removidos en los términos previstos por esta Constitución; po
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de ésta Constitución y su ley orgánica.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Consejo de la Judicatura, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de ésta Constitución y su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 Será representante del Poder Judicial del Estado de Hidalgo, quien desempeñe el cargo de Presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 El desempeño de la función jurisdiccional, en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente traten las leyes, corresponde a:
 
@@ -1423,7 +1433,15 @@ III. El Tribunal Electoral y
 
 IV. Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las Leyes.
 
-Los magistrados y los jueces en el Estado, tendrán independencia en el ejercicio de su función jurisdiccional.
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral, estará a cargo del Consejo de la Judicatura, en los términos que, conforme a las bases que señala esta Constitución, establezcan las Leyes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
+
+Los magistrados y los jueces en el Estado, tendrán independencia en el ejercicio de su función jurisdiccional. Los Consejeros del Consejo de la Judicatura ejercerán su función con independencia e imparcialidad.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma y establecerán las condiciones para su ingreso, formación y permanencia.
 
@@ -1537,15 +1555,15 @@ Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administ
 
 Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2006)</small>
 
 ###### Artículo 98.
 
-Los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, otorgarán la protesta de Ley ante el Congreso del Estado y en los recesos de éste, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y el Tribunal Electoral, así como los Consejeros del Consejo de la Judicatura, otorgarán la protesta de Ley ante el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
 
-Los jueces protestarán ante el Tribunal Superior de Justicia y los demás funcionarios y empleados de la administración de justicia, rendirán protesta ante autoridad de la cual dependan.
+Los Jueces protestarán ante el Consejo de la Judicatura y los demás funcionarios y empleados de la Administración de Justicia, rendirán protesta ante la autoridad de la cual dependan.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1567,17 +1585,19 @@ IV. Conocer de los recursos de apelación, queja y cualesquiera otros señalados
 
 V. Conocer de los conflictos de competencia que se susciten entre los jueces;
 
-VI. Nombrar y remover a los jueces de primera instancia, a los que con cualquier otra denominación se creen en el Estado y a sus demás servidores públicos, con excepción de los magistrados;
+VI. (DEROGADA, P.O. 17 DE JULIO DE 2006)
 
-VII. Discutir, aprobar y modificar en su caso, el Presupuesto de Egresos que para el ejercicio anual proponga el Presidente del Tribunal, el que será sometido a la aprobación del Congreso;
+VII. (DEROGADA, P.O. 17 DE JULIO DE 2006)
 
-VIII. Acordar el aumento de juzgados y la plantilla de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran;
+VIII. (DEROGADA, P.O. 17 DE JULIO DE 2006)
 
 IX. Erigirse en órgano de sentencia en los juicios políticos;
 
 X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellas establezcan;
 
-XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás magistrados, así como de los funcionarios y empleados del Tribunal, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las leyes respectivas;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+
+XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás Magistrados, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1611,9 +1631,59 @@ La Ley Orgánica del Poder Judicial regulará la forma de su organización, func
 
 Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
-El Gobernador solicitará ante el Congreso del Estado, la destitución de cualesquiera de los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo y ante el primero, la de los jueces del orden común, por delitos, faltas y omisiones en lo que incurran previstas en esta Constitución y las leyes de la materia.
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
 
-Si el Congreso del Estado o el Tribunal Superior de Justicia, respectivamente, declara justificada la petición, el funcionario acusado quedará privado, desde luego, de su puesto, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a hacer nueva designación para cubrir la vacante.
+El Consejo de la Judicatura será un Órgano del Poder Judicial con independencia técnica, de gestión y para emitir sus resoluciones.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+
+El Consejo se integrará por cinco Consejeros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado y un Juez del Orden Común, designados por el Pleno del mismo Tribunal; un Consejero designado por el Congreso del Estado y un Consejero designado por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+
+Los Consejeros del Consejo de la Judicatura, durarán en el ejercicio de su cargo cinco años a partir de su nombramiento y sólo podrán ser privados de su puesto, en los términos que determine esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
+
+El Gobernador solicitará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, así como de Consejeros del Consejo de la Judicatura, y ante el último, la de los Jueces del Orden Común, por delitos, faltas y omisiones en las que incurran, previstas en esta Constitución y las Leyes de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
+
+Si el Congreso del Estado o el Consejo de la Judicatura, respectivamente, de conformidad con los procedimientos que marca la Ley, declara que ha lugar a proceder, el funcionario acusado quedará privado, desde luego, de su puesto, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a hacer una nueva designación para cubrir la vacante.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+
+###### Artículo 100 Bis.
+
+Los Consejeros deberán reunir como requisitos:
+
+I.- Ser Hidalguense en pleno goce de sus derechos.
+
+II.- Ser Licenciado en Derecho, con título legalmente expedido.
+
+III.- Tener modo honesto de vivir.
+
+IV.- No haber sido condenado por delitos dolosos o faltas graves administrativas.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+
+###### Artículo 100 Ter.
+
+El Consejo de la Judicatura funcionará en pleno y en comisiones y tendrá las siguientes facultades:
+
+I.- Discutir, aprobar y modificar en su caso, el Proyecto de Presupuesto de Egresos que para el Ejercicio anual proponga el Presidente del Consejo, el que será sometido a la aprobación del Congreso;
+
+II.- Nombrar, adscribir, ratificar y remover Jueces de Primera Instancia, de acuerdo a lo establecido en la Ley;
+
+III.- Nombrar y remover, de conformidad con lo establecido en la Ley, a los funcionarios y empleados del Poder Judicial, con excepción de los del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral;
+
+IV.- Determinar la creación de nuevos Juzgados;
+
+V.- Implementar las medidas adecuadas para la formación de funcionarios y el desarrollo de la carrera judicial, con base en los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+
+VI.- Expedir los acuerdos generales para su adecuado funcionamiento. El Tribunal Superior de Justicia podrá solicitar al Consejo, que expida los acuerdos generales que considere necesarios, para el adecuado ejercicio de la función jurisdiccional, así como revisar y revocar los acuerdos del Consejo;
+
+VII.- Conocer de las acusaciones o quejas que se presenten en contra de los funcionarios y empleados del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2233,11 +2303,11 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2006)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: los diputados al Congreso Local, los presidentes municipales, los síndicos procuradores, los regidores, los magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los coordinadores que nombre el Ejecutivo, el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los directores generales o sus equivalentes de los organismos públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa y jueces de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del orden común que se cometan durante su gestión.
+Serán sujetos de juicio político: Los Diputados al Congreso Local, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los Consejeros del Consejo de la Judicatura, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los coordinadores que nombre el Ejecutivo, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes, de los Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a Éstas, Fideicomisos Públicos de esta Entidad Federativa y Jueces de Primera Instancia, por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del Orden Común que se cometan durante su gestión.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -2836,5 +2906,9 @@ DECRETO NUM. 168 QUE ADICIONA EL ARTICULO 5 DE LA CONSTITUCION.
 P.O. 8 DE MAYO DE 2006.
 
 DECRETO NUM. 169 QUE REFORMA LOS ARTICULOS 56 Y 154 DE LA CONSTITUCION.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE JULIO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
