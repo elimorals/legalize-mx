@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2005-08-08"
+last_updated: "2006-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -283,9 +283,17 @@ XI.- Por un representante del Colegio de Optometría;
 
 XII.- Por un representante del Colegio de Enfermería;
 
-XIII.- Por un representante del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-XIV.- Por un representante de los municipios del Estado.
+XIII.- Por un representante del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+
+XIV.- Por un representante de los Municipios del Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2006)</small>
+
+XV.- Por un representante de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes.
 
 El Presidente del Consejo Interno podrá invitar a las sesiones de dicho órgano al Director del Organismo, a los representantes de instituciones públicas federales, estatales o municipales, representantes sindicales que guarden relación con el objeto del Organismo, y representantes de los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, cuando se traten asuntos que correspondan a la materia de éstos, los cuales tendrán voz pero no voto en la sesión.
 
@@ -2840,3 +2848,9 @@ El presente Decreto entrara en vigencia al día siguiente de su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 17 DE JULIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
