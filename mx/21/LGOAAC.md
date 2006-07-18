@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2004-01-28"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGOAAC"
 ---
 # LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
+LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -62,41 +62,57 @@ Se consideran organizaciones auxiliares del crédito las siguientes:
 
 I. Almacenes generales de depósito;
 
-II. Arrendadoras financieras;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
 III. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
 
 IV. Uniones de crédito;
 
-V. Empresas de factoraje financiero, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+V. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
 VI. Las demás que otras leyes consideren como tales.
 
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley se considera actividad auxiliar del crédito, la compra-venta habitual y profesional de divisas.
+Se consideran actividades auxiliares del crédito:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+I. La compra-venta habitual y profesional de divisas, y
+
+II. La realización habitual y profesional de operaciones de crédito, arrendamiento financiero o factoraje financiero.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, o de la Comisión Nacional Bancaria y de Valores cuando se trate de uniones de crédito.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito o de la Comisión Nacional Bancaria y de Valores cuando se trate de uniones de crédito.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Estas autorizaciones podrán ser otorgadas o denegadas discrecionalmente por dicha Secretaría, o la Comisión en su caso, según la apreciación sobre la conveniencia de su establecimiento y serán por su propia naturaleza, intransmisibles.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Tratándose de almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, la Secretaría de Hacienda y Crédito Público escuchará la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Para el otorgamiento de las autorizaciones que le corresponde otorgar a la Secretaría de Hacienda y Crédito Público conforme al presente artículo, ésta escuchará la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Dichas autorizaciones deberán publicarse en el Diario Oficial de la Federación, así como las modificaciones a las mismas.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Sólo las sociedades que gocen de autorización en los términos de esta Ley, podrán operar como almacenes generales de depósito, arrendadoras financieras, uniones de crédito y empresas de factoraje financiero.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Solo las sociedades que gocen de autorización en los términos de esta Ley podrán operar como almacenes generales de depósito o uniones de crédito.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -144,11 +160,11 @@ La solicitud de autorización para constituir y operar una organización auxilia
 
 En los casos de revocación a que se refiere la fracción I del artículo 78 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el primer párrafo. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 7o.
 
-Las palabras organización auxiliar del crédito, almacén general de depósito, arrendadora financiera, unión de crédito, empresa de factoraje financiero, casa de cambio u otras que expresen ideas semejantes en cualquier idioma, sólo podrán ser usadas en la denominación de organizaciones auxiliares del crédito o de las sociedades que se dediquen a actividades auxiliares del crédito, a las que haya sido otorgada la autorización, de conformidad con lo dispuesto en la presente ley.
+Las palabras organización auxiliar del crédito, almacén general de depósito, unión de crédito, casa de cambio u otras que expresen ideas semejantes en cualquier idioma, solo podrán ser usadas en la denominación de las sociedades a las que haya sido otorgada la autorización a que se refieren los artículos 5 y 81 de la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -162,9 +178,11 @@ Las organizaciones auxiliares del crédito que no tengan el carácter de naciona
 
 Las sociedades que se autoricen para operar como organizaciones auxiliares del crédito y casas de cambio, deberán constituirse en forma de sociedad anónima, organizadas con arreglo a la Ley General de Sociedades Mercantiles y a las siguientes disposiciones que son de aplicación especial:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. La Secretaría de Hacienda y Crédito Público oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, determinará durante el primer trimestre de cada año, los capitales mínimos necesarios para constituir nuevos almacenes generales de depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de cambio así como para mantener en operación a los que ya estén autorizados para lo cual tomará en cuenta el tipo y, en su caso, clase de las organizaciones auxiliares del crédito y casas de cambio así como las circunstancias económicas de cada una de ellas y del país en general, considerando necesariamente el incremento en el nivel del Indice Nacional de Precios al Consumidor que, en su caso, se dé durante el año inmediato anterior.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+I. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México, determinará durante el primer trimestre de cada año, los capitales mínimos necesarios para constituir nuevos almacenes generales de depósito, uniones de crédito y casas de cambio, así como para mantener en operación a los que ya estén autorizados, para lo cual tomará en cuenta el tipo y, en su caso, clase de las organizaciones auxiliares del crédito y casas de cambio así como las circunstancias económicas de cada una de ellas y del país en general, considerando necesariamente el incremento en el nivel del Índice Nacional de Precios al Consumidor que, en su caso, se dé durante el año inmediato anterior.
 
 Los capitales mínimos a que se refiere esta fracción, deberán estar totalmente suscritos y pagados. Cuando el capital social exceda del mínimo, deberá estar pagado cuando menos en un 50%, siempre que este porcentaje no sea inferior al mínimo establecido. Tratándose de sociedades de capital variable, el capital mínimo obligatorio estará integrado por acciones sin derecho a retiro. El monto del capital con derecho a retiro, en ningún caso podrá ser superior al capital pagado sin derecho a retiro.
 
@@ -204,7 +222,11 @@ III. En ningún momento podrán participar en el capital social de las organizac
 
 1.- Personas morales extranjeras que ejerzan funciones de autoridad.
 
-Las entidades financieras del exterior, así como las personas físicas y morales extranjeras, podrán participar en el capital pagado de los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las entidades financieras del exterior, así como las personas físicas y morales extranjeras, podrán participar en el capital pagado de los almacenes generales de depósito y casas de cambio.
 
 La inversión mexicana en todo caso deberá mantener la facultad de determinar el manejo y control efectivo de la empresa. La inversión extranjera deberá hacerse constar en una serie especial de acciones y en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital pagado de la sociedad.
 
@@ -568,209 +590,117 @@ VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deu
 
 VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
 
-### CAPITULO II. De las Arrendadoras Financieras
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE JULIO DE 2006)</small>
+
+### CAPITULO II
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 24.
 
-Las sociedades que disfruten de autorización para operar como arrendadoras financieras, sólo podrán realizar las siguientes operaciones:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-I. Celebrar contratos de arrendamiento financiero a que se refiere el artículo 25 de esta Ley;
-
-II. Adquirir bienes, para darlos en arrendamiento financiero;
-
-III. Adquirir bienes del futuro arrendatario, con el compromiso de darlos a éste en arrendamiento financiero;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-IV. Obtener préstamos y créditos de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior, destinados a la realización de las operaciones que se autorizan en este capítulo así como de proveedores, fabricantes o constructores de los bienes que serán objeto de arrendamiento financiero;
-
-> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-IV-Bis. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
-
-V. Obtener préstamos y créditos de instituciones de crédito del país o de entidades financieras del exterior, para cubrir necesidades de liquidez, relacionadas con su objeto social;
-
-VI. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
-
-VII. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de arrendamiento financiero o de las operaciones autorizadas a las arrendadoras, con las personas de las que reciban financiamiento, en términos de la fracción IV anterior así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de arrendamiento financiero a efecto de garantizar el pago de las emisiones a que se refiere la fracción IV-Bis de este artículo;
-
-IX. Constituir depósitos, a la vista y a plazo, en instituciones de crédito y bancos del extranjero, así como adquirir valores aprobados para el efecto por la Comisión Nacional de Valores;
-
-X. Adquirir muebles e inmuebles destinados a sus oficinas;
-
-XI. Las demás que en ésta u otras leyes se les autorice; y
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XII. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 25.
 
-Por virtud del contrato de arrendamiento financiero, la arrendadora financiera se obliga a adquirir determinados bienes y a conceder su uso o goce temporal, a plazo forzoso, a una persona física o moral, obligándose ésta a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad en dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios, y adoptar al vencimiento del contrato alguna de las opciones terminales a que se refiera el artculo (sic) 27 de esta Ley.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-Al establecer el plazo forzoso a que hace mención el párrafo anterior, deberán tenerse en cuenta las condiciones de liquidez de la arrendadora financiera, en función de los plazos de los financiamientos que, en su caso, haya contratado para adquirir los bienes.
-
-Los contratos de arrendamiento financiero deberán otorgarse por escrito y ratificarse ante la fe de notario público, corredor público titulado, o cualquier otro fedatario público y podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, sin perjuicios (sic) de hacerlo en otros Registros que las leyes determinen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 26.
 
-La arrendataria podrá otorgar a la orden de la arrendadora financiera, uno a varios pagarés, según se convenga, cuyo importe total corresponda al precio pactado, por concepto de renta global, siempre que los vencimientos no sean posteriores al plazo del arrendamiento financiero y que se haga constar en tales documentos su procedencia de manera que queden suficientemente identificados. La transmisión de esos títulos implica en todo caso el traspaso de la parte correspondiente de los derechos derivados del contrato de arrendamiento financiero y demás derechos accesorios en la proporción que correspondan.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-La suscripción y entrega de esto (sic) títulos de crédito, no se considerarán como pago de la contraprestación ni de sus parcialidades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 27.
 
-Al concluir el plazo del vencimiento del contrato una vez que se hayan cumplido todas las obligaciones, la arrendataria deberá adoptar alguna de las siguientes opciones terminales:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-I. La compra de los bienes a un precio inferior a su valor de adquisición, que quedará fijado en el contrato. En caso de que no se haya fijado, el precio debe ser inferior al valor de mercado a la fecha de compra, conforme a las bases que se establezcan en el contrato;
-
-II. A prorrogar el plazo para continuar con el uso o goce temporal, pagando una renta inferior a los pagos periódicos que venía haciendo, conforme a las bases que se establezcan en el contrato; y
-
-III. A participar con la arrendadora financiera en el precio de la venta de los bienes a un tercero, en las proporciones y términos que se convengan en el contrato.
-
-La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, está facultada para autorizar otras opciones terminales siempre que se cumplan los requisitos señalados en el primer párrafo del artículo 25 de esta Ley.
-
-En el contrato podrá convenirse la obligación de la arrendataria de adoptar, de antemano, alguna de las opciones antes señaladas, siendo responsable de los daños y perjuicios en caso de incumplimiento. La arrendadora financiera no podrá oponerse al ejercicio de dicha opción.
-
-Si en los términos del contrato, queda la arrendataria facultada para adoptar la opción terminal al finalizar el plazo obligatorio, ésta deberá notificar por escrito a la arrendadora financiera, por lo menos con un mes de anticipación al vencimiento del contrato, cuál de ellas va a adoptar, respondiendo de los daños y perjuicios en caso de omisión, con independencia de lo que se convenga en el contrato.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 28.
 
-En los contratos de arrendamiento financiero, podrá establecerse que la entrega material de los bienes sea realizada directamente a la arrendataria por el proveedor, fabricante o constructor, en las fechas previamente convenidas, debiendo aquélla entregar constancia del recibo de los bienes a la arrendadora financiera. Salvo pacto en contrario, la obligación de pago del precio del arrendamiento financiero se inicia a partir de la firma del contrato, aunque no se haya hecho la entrega material de los bienes objeto del arrendamiento.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-En los casos a que se refiere el párrafo anterior, la arrendadora financiera estará obligada a entregar a la arrendataria los documentos necesarios para que la misma quede legitimada a fin de recibirlos directamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 29.
 
-Salvo pacto en contrario, la arrendataria queda obligada a conservar los bienes en el estado que permita el uso normal que les corresponda, a dar el mantenimiento necesario para este propósito y, consecuentemente, a hacer por su cuenta las reparaciones que se requieran, así como a adquirir las refacciones e implementos necesarios, según se convenga en el contrato. Dichas refacciones, implementos y bienes que se adicionen a los que sean objeto del arrendamiento financiero, se considerarán incoporados (sic) a éstos y, consecuentemente, sujetos a los términos del contrato.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-La arrendataria debe servirse de los bienes solamente para el uso convenido, o conforme a la naturaleza y destino de éstos, siendo responsable de los daños que los bienes sufran por darles otro uso, o por su culpa o negligencia, o la de su (sic) empleados o terceros.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 30.
 
-La arrendataria deberá seleccionar al proveedor, fabricante o constructor y autorizar los términos, condiciones y especificaciones que se contengan en el pedido u orden de compra, identificando y describiendo los bienes que se adquirirán.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-Las arrendadoras financieras no serán responsables de error u omisión en la descripción de los bienes objeto del arrendamiento contenida en el pedido u orden de compra. La firma de la arrendataria en cualquiera de estos últimos documentos implica, entre otros efectos, su conformidad con los términos, condiciones, descripciones y especificaciones ahí consignados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 31.
 
-Salvo pacto en contrario, son a riesgo de la arrendataria:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-I. Los vicios o defectos ocultos de los bienes que impidan su uso parcial o total. En este caso, la arrendadora financiera transmitirá a la arrendataria los derechos que como compradora tenga, para que ésta los ejercite en contra del vendedor, o la legitimará para que la arrendataria en su representación ejercite dichos derechos;
-
-II. La pérdida parcial o total de los bienes, aunque ésta se realice por causa de fuerza mayor o caso fortuito; y
-
-III. En general, todos los riesgos, pérdidas, robos, destrucción o daños que sufrieren los bienes dados en arrendamiento financiero.
-
-Frente a las eventualidades señaladas, la arrendataria no queda liberada del pago de la contraprestación, debiendo cubrirla en la forma que se haya convenido en el contrato.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 32.
 
-En casos de despojo, perturbación o cualquier acto de tercero, que afecten el uso o goce de los bienes, la posesión de los mismos o bien la propiedad, la arrendataria tiene la obligación de realizar las acciones que correspondan para recuperar los bienes o defender el uso o goce de los mismos. Igualmente, estará obligada a ejercer las defensas que procedan, cuando medie cualquier acto o resolución de autoridad que afecten la posesión o la propiedad de los bienes.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-Cuando ocurra alguna de estas eventualidades, la arrendataria debe notificarlo a la arrendadora financiera, a más tardar el tercero (sic) día hábil siguiente al que tenga conocimiento de esas eventualidades, siendo responsable de los daños y perjuicios, si hubiese omisión. La arrendadora financiera, en caso de que no se efectúen o no se ejerciten adecuadamente las acciones o defensas, o por convenir así a sus intereses, podrá ejercitar directamente dichas acciones o defensas, sin perjuicio de las que realice la arrendataria.
-
-La arrendadora financiera estará obligada a legitimar a la arrendataria para que, en su representación, ejercite dicha (sic) acciones o defensas, cuando ello sea necesario.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 33.
 
-En los contratos de arrendamiento financiero, al ser exigible la obligación y, ante el incumplimiento del arrendatario de las obligaciones consignadas en el mismo, la arrendadora financiera podrá pedir judicialmente la posesión de los bienes objeto del arrendamiento. El juez decretará de plano la posesión solicitada, quedando facultada la arrendadora a dar cumplimiento a lo establecido en el segundo párrafo de la fracción VI del artículo 38 de esta Ley. La posesión podrá ser solicitada en la demanda o durante el juicio, siempre que se acompañe el contrato correspondiente debidamente ratificado ante fedatario público y el estado de cuenta certificado por el contador de la organización auxiliar del crédito de que se trate, en los términos del artículo 47.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 34.
 
-En los contratos de arrendamiento financiero deberá establecerse la obligación de que se cuente con seguro o garantía que cubra, en los términos que se convengan, por lo menos, los riesgos de construcción, transportación, recepción e instalación, según la naturaleza de los bienes, los daños o pérdidas de los propios bienes, con motivo de su posesión y uso, así como las responsabilidades civiles y profesionales de cualquier naturaleza, susceptibles de causarse en virtud de la explotación o goce de los propios bienes, cuando se trate de bienes que pueda causar daños a terceros, en sus personas o en sus propiedades.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-En los contratos o documentos en que conste la garantía deberá señalarse como primer beneficiario a la arrendadora financiera, a fin de que, en primer lugar, con el importe de las indemnizaciones se cubran a ésta los saldos pendientes de la obligación concertada, o las responsabilidades a que queda obligada como propietaria de los bienes. Si el importe de las indemnizaciones pagadas, no cubre dichos saldos o responsabilidades, la arrendataria queda obligada al pago de los faltantes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 35.
 
-Las arrendadoras financieras podrán proceder a contratar los seguros a que se refiere el artículo anterior, en caso de que habiéndose pactado en el contrato que el seguro deba ser contratado por la arrendataria, ésta no realizara la contratación respectiva dentro de los tres días siguientes a la celebración del contrato, sin perjuicio de que contractualmente esta omisión se considere como causa de rescisión.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-Las primas y los gastos del seguro serán por cuenta de la arrendataria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 36.
 
-Las operaciones a que se refieren las fracciones IV y V del artículo 24 de esta Ley que celebren las arrendadoras financieras, se someterán en cuanto a sus límites y condiciones, a las reglas de carácter general que en su caso expida el Banco de México.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-La Secretaría de Hacienda y Crédito Público establecerá, oyendo a la Comisión Nacional Bancaria, mediante disposiciones de carácter general, las obligaciones contingentes que puedan asumir las arrendadoras financieras en los contratos de arrendamiento financiero, cuando dichas obligaciones contingentes sean distintas a las señaladas en la fracción VIII del artículo 24, señalando además, el monto máximo de estos pasivos que se les autorice contraer.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 37.
 
-El importe del capital pagado y reservas de capital de las arrendadoras financieras, deberá estar invertido en operaciones propias del objeto de estas sociedades, así como en los bienes muebles e inmuebles que están autorizadas a adquirir.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-No excederá del sesenta por ciento del capital pagado y reservas de capital, el importe de las inversiones en mobiliario, equipo e inmuebles destinados a sus oficinas, más el importe de la inversión en acciones de sociedades a que se refieren los artículos 68 y 69 de esta Ley y de aquéllas que se organicen exclusivamente para adquirir el dominio y administrar inmuebles, siempre que en alguno de éstos, propiedad de la sociedad, la arrendadora financiera tenga establecida o establezca su oficina principal o alguna sucursal u oficina de representación. La inversión en dichas acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-El importe de los gastos de instalación no podrá exceder del diez por ciento del capital pagado y reservas de capital.
-
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general las reservas de capital computables para efectos de este artículo.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 ###### ARTICULO 37-A.
 
 (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 37-B.
 
-Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener un capital contable por un monto no menor de la cantidad que resulte de aplicar un porcentaje que no será inferior al seis por ciento, a la suma de sus activos y en su caso de sus operaciones causantes de pasivo contingente, expuestos a riesgo significativo. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, y tomando en cuenta los usos internacionales en la materia determinará cuáles activos y pasivos contingentes deberán considerarse dentro de la mencionada suma así como el porcentaje aplicable en los términos del presente artículo.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
-
-> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 37-C.
 
-El importe máximo de las responsabilidades a favor de una arrendadora financiera y a cargo de una sola persona o grupo de personas que, por nexos patrimoniales o de responsabilidad, constituyan riesgos comunes, no excederá de los límites que determine la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Valores.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 38.
 
-A las arrendadoras financieras les está prohibido:
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
-
-II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-III. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la arrendadora, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la arrendadora; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
-
-IV. Recibir depósitos bancarios de dinero;
-
-V. Otorgar fianzas o cauciones;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VI. Adquirir bienes, títulos o valores, mobiliario o equipo no destinados a sus oficinas o a celebrar operaciones propias de su objeto social, que no deban conservar en su activo. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles.
-
-Cuando se trate de bienes que las arrendadoras financieras hayan recuperado, por incumplimiento de las arrendatarias, podrán ser dados en arrendamiento financiero a terceros, si las circunstancias lo permiten. En caso contrario, se procederá en los términos del párrafo anterior;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones con divisas relacionadas con financiamientos o con contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México; y
-
-VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -890,7 +820,11 @@ XIV. Encargarse, por cuenta propia, de la transformación industrial o del benef
 
 XV. La transformación que se señala en la fracción anterior podrá realizarse en las plantas industriales que adquieran al efecto, con cargo a su capital pagado y reservas de capital o con recursos provenientes de financiamientos de instituciones de crédito;
 
-XVI. Realizar por cuenta de sus socios operaciones con empresas de factoraje financiero así como recibir bienes en arrendamiento financiero destinados al cumplimiento de su objeto social; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+XVI. Realizar por cuenta de sus socios como factorados operaciones de factoraje financiero, así como recibir bienes en arrendamiento financiero destinados al cumplimiento de su objeto social, y
 
 XVII. Las demás actividades análogas y conexas que, mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
 
@@ -1042,237 +976,127 @@ XII. Celebrar operaciones en virtud de las cuales puedan resultar deudores direc
 
 Cuando las inversiones hechas en los términos de la fracción VI del artículo 43 de esta Ley, los derechos reales adquiridos y los excedentes de inversión de conformidad con la fracción III del referido artículo 43, excedan en total del importe del capital pagado y reservas de capital, la unión procederá, dentro del plazo de noventa días, a partir del requerimiento que al efecto le haga la Comisión Nacional Bancaria, a la liquidación de dicho activo en la parte excedente, o al aumento del capital social necesario para observar la citada parte.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPITULO III Bis. De las empresas de factoraje financiero
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE JULIO DE 2006)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+### CAPITULO III Bis
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-A.
 
-Las sociedades que disfruten de autorización para operar como empresas de factoraje financiero, sólo podrán realizar las operaciones siguientes:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-I. Celebrar contratos de factoraje financiero, entendiéndose como tal, para efectos de esta Ley, aquella actividad en la que mediante contrato que celebre la empresa de factoraje financiero con sus clientes, personas morales o personas físicas que realicen actividades empresariales, la primera adquiera de los segundos derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos, con recursos provenientes de las operaciones pasivas a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-II. Obtener préstamos y créditos de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior, destinados a la realización de las operaciones autorizadas en este capítulo o para cubrir necesidades de liquidez relacionadas con su objeto social;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-III. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-IV. Descontar, dar en garantía o negociar en cualquier forma los títulos de crédito o derechos de crédito provenientes de los contratos de factoraje, con las personas de las que reciban los financiamientos a que se refiere la fracción II anterior, así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de factoraje financiero a efecto de garantizar el pago de las emisiones a que se refiere la fracción III de este artículo;
-
-V. Constituir depósitos, a la vista y a plazo, en instituciones de crédito del país o en entidades financieras del exterior, así como adquirir valores aprobados para el efecto por la Comisión Nacional de Valores;
-
-VI. Adquirir bienes muebles o inmuebles destinados a sus oficinas o necesarios para su operación;
-
-VII. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
-
-VIII. Prestar servicios de administración y cobranza de derechos de crédito;
-
-IX. Las demás que ésta u otras leyes les autoricen; y
-
-X. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-B.
 
-Por virtud del contrato de factoraje, la empresa de factoraje financiero conviene con el cliente en adquirir derechos de crédito que éste tenga a su favor por un precio determinado o determinable, en moneda nacional o extranjera, independientemente de la fecha y la forma en que se pague, siendo posible pactar cualquiera de las modalidades siguientes:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-I. Que el cliente no quede obligado a responder por el pago de los derechos de crédito transmitidos a la empresa de factoraje financiero; o
-
-II. Que el cliente quede obligado solidariamente con el deudor, a responder del pago puntual y oportuno de los derechos de crédito transmitidos a la empresa de factoraje financiero.
-
-Los contratos de factoraje en moneda extranjera se sujetarán a las disposiciones y limitaciones previstas en esta Ley y a las que emita el Banco de México.
-
-La administración y cobranza de los derechos de crédito, objeto de los contratos de factoraje, deberá ser realizada por la propia empresa da factoraje financiero. La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, determinará los requisitos, condiciones y límites que las empresas de factoraje deberán cumplir para que la citada administración y cobranza se realice por terceros.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-C.
 
-Previamente a la celebración de los contratos de factoraje, las empresas de factoraje financiero podrán:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-I. Celebrar contratos de promesa de factoraje;
-
-II. Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-D.
 
-Sólo podrán ser objeto del contrato de factoraje, aquellos derechos de crédito no vencidos que se encuentren documentados en facturas, contrarrecibos, títulos de crédito o cualquier otro documento, denominado en moneda nacional o extranjera, que acredite la existencia de dichos derechos de crédito y que los mismos sean el resultado de la proveeduría de bienes, de servicios o de ambos, proporcionados por personas nacionales o extranjeras.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-E.
 
-Los clientes estarán obligados a garantizar la existencia y legitimidad de los derechos de crédito al tiempo de celebrarse el contrato de factoraje financiero, independientemente de la obligación que, en su caso, contraigan conforme a la fracción II del artículo 45-B de esta Ley .
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-F.
 
-Los clientes responderán del detrimento en el valor de los derechos de crédito objeto de los contratos, que sean consecuencia del acto jurídico que les dió origen, salvo los que estén documentados en títulos de crédito aún cuando el contrato de factoraje se haya celebrado en términos de la fracción I del artículo 45-B.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-Si del acto jurídico que dió origen a los derechos de crédito se derivan devoluciones, los bienes correspondientes se entregarán al cliente, salvo pacto en contrario.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-G.
 
-Los clientes que celebren contratos de factoraje a los que se refiere la fracción II del artículo 45-B, podrán suscribir a la orden de la empresa de factoraje, pagarés por el importe total de las obligaciones asumidas por ellos, haciéndose constar en dichos títulos de crédito su procedencia, de manera que queden suficientemente identificados. Estos pagarés deberán ser no negociables, en los términos del artículo 25 de la Ley General de Títulos y Operaciones de Crédito.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-La suscripción y entrega de dichos pagarés, no se considerará como pago o dación en pago de las obligaciones que documenten.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-H.
 
-La transmisión de los derechos de crédito a la empresa de factoraje financiero, comprende la de todos los derechos accesorios a ellos, salvo pacto en contrario.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-I.
 
-La transmisión de derechos de crédito a la empresa de factoraje surtirá efectos frente a terceros, desde la fecha en que haya sido notificada al deudor, en los términos del artículo 45-K, sin necesidad de que sea inscrita en registro alguno u otorgada ante fedatario público.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-J.
 
-El deudor de los derechos de crédito transmitidos a una empresa de factoraje financiero, libera su obligación pagando al acreedor original o al último titular, según corresponda, mientras no se le haya notificado la transmisión. Dicha notificación se hará por la empresa de factoraje financiero en los términos previstos en el siguiente artículo.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-K.
 
-La transmisión de los derechos de crédito deberá ser notificada al deudor por la empresa de factoraje financiero, en términos de las disposiciones fiscales, a través de cualquiera de las formas siguientes:
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-I. Entrega del documento o documentos comprobatorios del derecho de crédito en los que conste el sello o leyenda relativa a la transmisión y acuse de recibo por el deudor mediante contraseña, contra recibo o cualquier otro signo inequívoco de recepción;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-II. Comunicación por correo certificado con acuse de recibo, telegrama, télex o telefacsímil, contraseñados o cualquier otro medio donde se tenga evidencia de su recepción por parte del deudor; y
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-III. Notificación realizada por fedatario público.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-En los casos señalados, la notificación deberá ser realizada en el domicilio de los deudores, pudiendo efectuarse con su representante legal o cualquiera de sus dependientes o empleados.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-Para los efectos de la notificación a que alude el párrafo anterior, se tendrá por domicilio de los deudores el que se señale en los documentos en que consten los derechos de crédito objeto de los contratos de factoraje.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-El pago que realicen los deudores al acreedor original o al último titular después de recibir la notificación a que este precepto se refiere, no los libera ante la empresa de factoraje financiero.
-
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-La notificación se tendrá por realizada al expedir los deudores contraseña, sello o cualquier signo inequívoco de haberla recibido por alguno de los medios señalados en el presente artículo.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-L.
 
-Cuando las empresas de factoraje financiero den en prenda los derechos de crédito que hayan adquirido, dicha garantía se constituirá y formalizará mediante contrato que deberá constar por escrito, pudiendo quedar como depositario de los documentos correspondientes, el director general o gerente general de la empresa de factoraje.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-M.
 
-Las operaciones a que se refiere la fracción II del artículo 45-A de esta Ley que celebren las empresas de factoraje financiero, se someterán en cuanto a sus límites y condiciones a las reglas de carácter general que expida, en su caso, el Banco de México.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 ###### ARTICULO 45-N.
 
 (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-O.
 
-Las empresas de factoraje financiero, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener un capital contable por monto no menor a la cantidad que resulte de aplicar un porcentaje que no será inferior al seis por ciento, a la suma de sus activos y en su caso, de sus operaciones causantes de pasivo contingente, expuestos a riesgo significativo. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, determinará cuáles activos y pasivos contingentes deberán considerarse dentro de la mencionada suma así como el porcentaje aplicable en los términos del presente artículo.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-Para efectos de este artículo la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán para determinar el capital contable de las empresas de factoraje financiero.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-P.
 
-El importe del capital pagado y reservas de capital de las empresas de factoraje financiero, deberá estar invertido en operaciones propias del objeto de estas sociedades.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-No excederá del sesenta por ciento del capital pagado y reservas de capital, el importe de las inversiones en mobiliario, equipo e inmuebles destinados a sus oficinas, más el importe de la inversión en acciones de sociedades a que se refieren los artículos 68 y 69 de esta Ley y de aquéllas que se organicen exclusivamente para adquirir el dominio y administrar inmuebles, siempre que en alguno de éstos, propiedad de la sociedad, la empresa de factoraje financiero tenga establecida o establezca su oficina principal o alguna sucursal u oficina de representación. La inversión en dichas acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público.
-
-El importe de los gastos de instalación no podrá exceder del diez por ciento del capital pagado y reservas de capital.
-
-La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general, las reservas de capital computables para efectos de este artículo.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-Q.
 
-El importe máximo de las responsabilidades a favor de una empresa de factoraje financiero y a cargo de una sola persona o grupo de personas que, por nexos patrimoniales o de responsabilidad, constituyen riesgos comunes, no excederá de los límites que determine la Secretaría de Hacienda y Crédito Público oyendo a la Comisión Nacional Bancaria.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-R.
 
-Las empresas de factoraje financiero deberán obtener información sobre la solvencia moral y económica de los deudores en los contratos de factoraje. En sus decisiones, deberán tener en cuenta preferentemente la seguridad, liquidez y rentabilidad de las operaciones que realicen y deberán hacer el análisis de los derechos de crédito que vayan a adquirir. Las operaciones a que se refiere la fracción II del artículo 45-B, deberán ser congruentes con la capacidad económica real de los clientes y con la naturaleza y clase de los derechos de crédito que se hayan transmitido.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 ###### ARTICULO 45-S.
 
 (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 45-T.
 
-A las empresas de factoraje financiero les está prohibido:
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
-
-II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-III. Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
-
-IV. Recibir depósitos bancarios de dinero;
-
-V. Otorgar fianzas o cauciones;
-
-VI. Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VII. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VIII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
-
-IX. Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
-
-X. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-XI. Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
-
-XII. Realizar las demás operaciones que no les están expresamente autorizadas.
+(DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1298,11 +1122,13 @@ Las Filiales se regirán por lo previsto en los tratados o acuerdos internaciona
 
 La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### ARTICULO 45 Bis
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-3.- Para constituirse y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México tratándose de almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio, o autorización de la Comisión Nacional Bancaria cuando se trate de Uniones de Crédito. Por su naturaleza estas autorizaciones serán intransmisibles.
+###### ARTICULO 45
+
+Bis 3.- Para constituirse y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México tratándose de almacenes generales de depósito y casas de cambio, o autorización de la Comisión Nacional Bancaria y de Valores cuando se trate de Uniones de Crédito. Por su naturaleza estas autorizaciones serán intransmisibles.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1424,61 +1250,111 @@ La prenda sobre bienes y valores se constituirá en la forma prevista en la Ley 
 
 En todo caso de anticipo sobre títulos o valores, de prenda sobre ellos, sobre sus frutos y mercancías, las organizaciones auxiliares del crédito podrán efectuar la venta de los títulos, bienes o mercancías, en los casos que proceda de conformidad con la Ley General de Títulos y Operaciones de Crédito, por medio de corredor público titulado o de dos comerciantes de la localidad, conservando en su poder la parte del precio que cubra las responsabilidades del deudor, que podrán aplicar en compensación de su crédito y guardando a disposición de aquél el sobrante que pueda existir.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 47.
 
-En los contratos de arrendamiento financiero, factoraje financiero y en las demás operaciones que celebren las organizaciones auxiliares del crédito en que se pacte que el acreditado o el mutuatario puedan disponer de la suma acreditada o del importe del préstamo en cantidades parciales o estén autorizados para efectuar reembolsos previos al vencimiento del término señalado en el contrato, el estado de cuenta certificado por el contador de la organización auxiliar del crédito acreedora hará fe, salvo prueba en contrario, en el juicio respectivo para la fijación del saldo resultante a cargo del deudor.
+En los contratos que celebren las organizaciones auxiliares del crédito en que se pacte que el acreditado o el mutuatario puedan disponer de la suma acreditada o del importe del préstamo en cantidades parciales o estén autorizados para efectuar reembolsos previos al vencimiento del término señalado en el contrato, el estado de cuenta certificado por el contador de la organización auxiliar del crédito acreedora hará fe, salvo prueba en contrario, en el juicio respectivo para la fijación del saldo resultante a cargo del deudor.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 48.
 
-El contrato o documento en que se hagan constar los créditos, arrendamientos financieros o factoraje financiero que otorguen las organizaciones auxiliares del crédito correspondientes, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, serán título ejecutivo mercantil sin necesidad de reconocimiento de firma ni de otro requisito alguno.
+El contrato o documento en que se hagan constar los créditos que otorguen las organizaciones auxiliares del crédito, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, serán título ejecutivo mercantil sin necesidad de reconocimiento de firma ni de otro requisito alguno.
 
-Tratándose de factoraje financiero, además del contrato se deberá contar con los documentos que demuestren los derechos de crédito transmitidos a empresas de factoraje financiero, notificados debidamente al deudor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El estado de cuenta certificado antes citado, deberá contener los datos sobre la identificación del contrato o convenio en donde conste el crédito o arrendamiento otorgado; el capital inicial dispuesto o importe de las rentas determinadas; el capital o rentas vencidas no pagadas; el capital o rentas pendientes por vencer; las tasas de interés del crédito o variabilidad de la renta aplicable a las rentas determinables a cada periodo de pago; los intereses moratorios generados; la tasa de interés aplicable a intereses moratorios, y el importe de accesorios generados.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+El estado de cuenta certificado antes citado, deberá contener los datos sobre la identificación del contrato o convenio en donde conste el crédito otorgado; el capital inicial dispuesto; el capital vencido no pagado; el capital pendiente por vencer; las tasas de interés del crédito aplicables a cada período de pago; los intereses moratorios generados; la tasa de interés aplicable a intereses moratorios, y el importe de accesorios generados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 48-A.
 
-Las obligaciones subordinadas que emitan las arrendadoras financieras, los almacenes generales de depósito y las empresas de factoraje financiero serán títulos de crédito a cargo de estas emisoras, obligatoriamente convertibles a capital y producirán acción ejecutiva respecto a las mismas, previo requerimiento de pago ante fedatario público. Se emitirán en serie mediante declaración unilateral de voluntad de la entidad correspondiente, la cual deberá contener:
+Las obligaciones subordinadas que emitan los almacenes generales de depósito serán títulos de crédito a cargo de estos emisores, obligatoriamente convertibles a capital y producirán acción ejecutiva respecto a las mismas, previo requerimiento de pago ante fedatario público. Se emitirán en serie mediante declaración unilateral de voluntad de la entidad correspondiente, la cual deberá contener:
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
 I. La mención de ser obligaciones subordinadas obligatoriamente convertibles a capital;
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
 II. La expresión de lugar y fecha en que se suscriban;
 
-III. El nombre y la firma de la emisora;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+III. El nombre y firma del emisor;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
 IV. El importe de la emisión, con especificación del número y el valor nominal de cada obligación;
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
 V. El tipo de interés que en su caso devengarán;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
 VI. Los plazos para el pago de intereses y de conversión;
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
 VII. El lugar de conversión;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
 VIII. Las demás condiciones y formas de conversión; y
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
+
 IX. Los plazos, términos y condiciones del acta de emisión.
 
-Podrán tener anexos cupones para el pago de intereses y, en su caso, para las conversiones parciales. Los títulos podrán amparar una o más obligaciones. Estas organizaciones se reservarán la facultad de la conversión anticipada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La emisora mantendrá las obligaciones en algunas de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, entregando a los titulares de las mismas, constancia de sus tenencias.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-En caso de liquidación de la emisora, el pago de las obligaciones subordinadas se hará a prorrata después de cubrir todas las demás deudas de la organización, pero antes de repartir a los titulares de las acciones el haber social. En el acta de emisión relativa y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en este párrafo.
+Podrán tener anexos cupones para el pago de intereses y, en su caso, para las conversiones parciales. Los títulos podrán amparar una o más obligaciones. Los almacenes generales de depósito se reservarán la facultad de la conversión anticipada.
 
-Estos títulos podrán emitirse en moneda nacional o extranjera.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En el acta de emisión podrá designarse un representante común de los tenedores de las obligaciones, en cuyo caso, se deberán indicar sus derechos y obligaciones así como los términos y condiciones en que podrá procederse a su remoción y a la designación del nuevo representante. No será aplicable a estos representantes, lo previsto en la Ley General de Títulos y Operaciones de Crédito, para los representantes comunes de obligacionistas.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+El emisor mantendrá las obligaciones en algunas de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, entregando a los titulares de las mismas, constancia de sus tenencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+En caso de liquidación del emisor, el pago de las obligaciones subordinadas se hará a prorrata después de cubrir todas las demás deudas de la organización, pero antes de repartir a los titulares de las acciones el haber social. En el acta de emisión relativa y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en este párrafo.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
+Estos títulos podrán emitirse en moneda nacional o extranjera.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+
+En el acta de emisión podrá designarse un representante común de los tenedores de las obligaciones, en cuyo caso, se deberán indicar sus derechos y obligaciones así como los términos y condiciones en que podrá procederse a su remoción y a la designación del nuevo representante. No será aplicable a estos representantes, lo previsto en la Ley General de Títulos y Operaciones de Crédito, para los representantes comunes de obligacionistas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 48-B.
 
-La emisión de las obligaciones subordinadas convertibles obligatoriamente a capital y demás títulos de crédito, en serie o en masa, a que se refieren los artículos 11 fracción VII, 24 fracción IV-Bis, 40 fracción III y 45-A fracción III, de esta Ley, requerirán del correspondiente dictamen emitido por una institución calificadora de valores.
+La emisión de las obligaciones subordinadas convertibles obligatoriamente a capital y demás títulos de crédito, en serie o en masa, a que se refieren los artículos 11 fracción VII, y 40 fracción III, de esta Ley, requerirán del correspondiente dictamen emitido por una institución calificadora de valores.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1838,11 +1714,13 @@ Bis.- (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
 ### CAPITULO II. De la Revocación y Liquidación
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993))
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 78.
 
-La Secretaría de Hacienda y Crédito Público, después de haber escuchado la opinión de la Comisión Nacional Bancaria y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización otorgada a los almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, en los siguientes casos:
+La Secretaría de Hacienda y Crédito Público, después de haber escuchado la opinión de la Comisión Nacional Bancaria y de Valores y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización otorgada a los almacenes generales de depósito, en los siguientes casos:
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1914,7 +1792,9 @@ III. La Comisión Nacional Bancaria podrá solicitar la suspensión de pagos en 
 
 ## TITULO QUINTO. De las Actividades Auxiliares del Crédito
 
-### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 18 DE JULIO DE 2006)</small>
+
+### CAPITULO I. De la Compra Venta Habitual y Profesional de Divisas
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -2124,19 +2004,181 @@ VI. Realizar operaciones que no les estén expresamente autorizadas, y
 
 VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la casa de cambio, sus funcionarios y empleados, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios y suplentes, estén o no en funciones; los auditores externos de la casa de cambio; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
 
-### CAPITULO I. De las Infracciones Administrativas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE JULIO DE 2006)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+###### ARTICULO 87
+
+Ñ.- Las sociedades financieras de objeto múltiple quedarán sujetas, en lo que respecta a las operaciones de fideicomiso de garantía que administren de acuerdo con la Sección II del Capítulo V del Título II de la Ley General de Títulos y Operaciones de Crédito, a lo dispuesto por los artículos 79 y 80 de la Ley de Instituciones de Crédito para dichas instituciones. En los contratos de fideicomiso de garantía a que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito y en la ejecución de los mismos, a las sociedades financieras de objeto múltiple les estará prohibido:
+
+I. Actuar como fiduciarias en cualesquier otros fideicomisos distintos a los de garantía;
+
+II. Utilizar el efectivo, bienes, derechos o valores de los fideicomisos para la realización de operaciones en virtud de las cuales resulten o puedan resultar deudores o beneficiarios sus delegados fiduciarios; administradores, los miembros de su consejo de administración propietarios o suplentes, estén o no en funciones; sus directivos o empleados; sus comisarios propietarios o suplentes, estén o no en funciones; sus auditores externos; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas; las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas sociedades financieras de objeto múltiple;
+
+III. Celebrar operaciones por cuenta propia;
+
+IV. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en esta u otras leyes;
+
+V. Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores del fideicomiso, salvo que sea por su culpa según lo dispuesto en la parte final del Artículo 391 de la Ley General de Títulos y Operaciones de Crédito.
+
+Si al término del fideicomiso, los bienes, derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con el efectivo, bienes, y demás derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
+
+En los contratos de fideicomiso se insertará en forma notoria lo previsto en este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido el efectivo, bienes, derechos o valores para su afectación fiduciaria;
+
+VI. Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente;
+
+VII. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en esta u otras leyes;
+
+VIII. Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del Artículo 88 de la Ley de Sociedades de Inversión, y
+
+IX. Administrar fincas rústicas, a menos que hayan recibido la administración para garantizar al fideicomisario el cumplimiento de una obligación y su preferencia en el pago con el valor de la misma finca o de sus productos.
+
+Cualquier pacto en contrario a lo dispuesto por las fracciones anteriores será nulo.
+
+### CAPITULO II. De la realización habitual y profesional de operaciones de crédito, arrendamiento financiero y factoraje financiero
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 87-B.
 
-(DEROGADO, D.O.F. 15 DE JULIO DE 1993)
+El otorgamiento de crédito, así como la celebración de arrendamiento financiero o factoraje financiero podrán realizarse en forma habitual y profesional por cualquier persona sin necesidad de requerir autorización del Gobierno Federal para ello.
+
+Aquellas sociedades anónimas que, en sus estatutos sociales, contemplen expresamente como objeto social principal la realización habitual y profesional de una o más de las actividades que se indican en el párrafo anterior, se considerarán como sociedades financieras de objeto múltiple. Dichas sociedades se reputarán entidades financieras, que podrán ser:
+
+I. Sociedades financieras de objeto múltiple reguladas, o
+
+II. Sociedades financieras de objeto múltiple no reguladas.
+
+Las sociedades señaladas en la fracción I anterior serán aquellas en las que, en los términos de esta ley, mantengan vínculos patrimoniales instituciones de crédito o sociedades controladoras de grupos financieros de los que formen parte instituciones de crédito. Estas sociedades deberán agregar a su denominación social la expresión "sociedad financiera de objeto múltiple" o su acrónimo "SOFOM", seguido de las palabras "entidad regulada" o su abreviatura "E.R.". Las sociedades financieras de objeto múltiple reguladas estarán sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores.
+
+Las sociedades previstas en la fracción II de este artículo serán aquellas en cuyo capital no participen, en los términos y condiciones antes señalados, cualesquiera de las entidades a que se refiere el párrafo anterior. Estas sociedades deberán agregar a su denominación social la expresión "sociedad financiera de objeto múltiple" o su acrónimo "SOFOM", seguido de las palabras "entidad no regulada" o su abreviatura "E.N.R.". Las sociedades financieras de objeto múltiple no reguladas no estarán sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-C.
+
+Para efectos de lo dispuesto por el artículo 87-B de esta Ley, se entenderá por vínculo patrimonial a la participación en el capital social de una sociedad financiera de objeto múltiple que tenga una sociedad controladora de un grupo financiero del que forme parte una institución de crédito, o bien, cuando:
+
+I. Una institución de crédito ejerza el control de la sociedad financiera de objeto múltiple en los términos de este artículo, o
+
+II. La sociedad tenga accionistas en común con una institución de crédito.
+
+Respecto de lo señalado en la fracción I anterior, se entenderá que se ejerce control de una sociedad cuando se tenga el veinte por ciento o más de las acciones representativas del capital social de la misma, o se tenga el control de la asamblea general de accionistas, o se esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o se controle a la sociedad de que se trate por cualquier otro medio.
+
+Por accionistas en común se entenderá a la persona o grupo de personas que tengan acuerdos de cualquier naturaleza para tomar decisiones en un mismo sentido y mantengan, directa o indirectamente, una participación mayoritaria en el capital social de la sociedad y de la institución o puedan ejercer el control de la sociedad y de la institución, en términos del párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-D.
+
+Las sociedades financieras de objeto múltiple reguladas se sujetarán a lo que, para las instituciones de crédito y entidades financieras, según corresponda, disponen los artículos 49, 50, 51, 73, 73 Bis y 73 Bis 1, 93, 99, 101, 102 y 115 de la Ley de Instituciones de Crédito, así como 4, fracciones I a VI, y 6 de la Ley de la Comisión Nacional Bancaria y de Valores. Al efecto, las sociedades financieras de objeto múltiple reguladas se sujetarán a las disposiciones que, para dichas sociedades, emitan las correspondientes autoridades indicadas en los artículos antes señalados y en las mismas materias a que aquellos se refieren.
+
+Lo dispuesto por este artículo deberá preverse expresamente en los estatutos de las sociedades financieras de objeto múltiple reguladas.
+
+Lo previsto en artículo 65-A de esta Ley será igualmente aplicable a las sociedades financieras de objeto múltiple reguladas, tratándose de los actos administrativos señalados en dicho precepto que la citada Comisión dicte en relación con dichas entidades financieras.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-E.
+
+En los contratos de arrendamiento financiero, factoraje financiero y crédito que celebren las sociedades financieras de objeto múltiple y en los que se pacte que el arrendatario, el factorado o el acreditado pueda disponer de la suma acreditada o del importe del préstamo en cantidades parciales o esté autorizado para efectuar reembolsos previos al vencimiento del término señalado en el contrato, el estado de cuenta certificado por el contador de la sociedad correspondiente hará fe, salvo prueba en contrario, en el juicio respectivo para la fijación del saldo resultante a cargo del deudor.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-F.
+
+El contrato en que se haga constar el crédito, arrendamiento financiero o factoraje financiero que otorguen las sociedades financieras de objeto múltiple, siempre que dicho instrumento vaya acompañado de la certificación del estado de cuenta respectivo a que se refiere el artículo anterior, será título ejecutivo mercantil, sin necesidad de reconocimiento de firma ni de otro requisito alguno.
+
+Tratándose del factoraje financiero, además del contrato respectivo, las sociedades financieras de objeto múltiple deberán contar con los documentos que demuestren los derechos de crédito transmitidos por virtud de dicha operación, así como la notificación al deudor de dicha transmisión cuando ésta deba realizarse de acuerdo con las disposiciones aplicables.
+
+El estado de cuenta citado en el primer párrafo de este artículo deberá contener los datos sobre la identificación del contrato o convenio en donde conste el crédito, el factoraje financiero o el arrendamiento financiero que se haya otorgado; el capital inicial dispuesto o, en su caso, el importe de las rentas determinadas; el capital o, en su caso, las rentas vencidas no pagadas; el capital o, en su caso, las rentas pendientes por vencer; las tasas de interés del crédito o, en su caso, la variabilidad de la renta aplicable a las rentas determinables a cada período de pago; los intereses moratorios generados; la tasa de interés aplicable a intereses moratorios, y el importe de accesorios generados.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-G.
+
+Las hipotecas constituidas en favor de sociedades financieras de objeto múltiple sobre la unidad completa de una empresa industrial, agrícola, ganadera o dedicada a actividades primarias, industriales, comerciales o de servicios, deberán comprender la concesión o concesiones respectivas, en su caso; todos los elementos materiales, muebles o inmuebles afectos a la exploración, considerados en su unidad; y además, podrán comprender el dinero en caja de la explotación corriente y los créditos a favor de la empresa, nacidos directamente de sus operaciones, sin perjuicio de la posibilidad de disponer de ellos y de sustituirlos en el movimiento normal de las operaciones, sin necesidad de consentimiento del acreedor salvo pacto en contrario.
+
+Las sociedades financieras de objeto múltiple acreedoras de las hipotecas a que se refiere este artículo, deberán permitir el desarrollo normal de la explotación de los bienes afectos a las mismas, conforme al destino que les corresponda, y no podrán, tratándose de bienes afectos a una concesión de servicio público, oponerse a las alteraciones o modificaciones que a los mismos se haga durante el plazo de la hipoteca, siempre que resulten necesarios para la mejor prestación del servicio público correspondiente.
+
+No obstante lo dispuesto por el párrafo anterior, las sociedades financieras de objeto múltiple, como acreedoras, podrán oponerse a la venta o enajenación de parte de los bienes y a la fusión con otras empresas, en caso de que se origine con ello un peligro para la seguridad de las operaciones de arrendamiento financiero, factoraje financiero y créditos hipotecarios.
+
+La referida hipoteca podrá constituirse en segundo lugar, siempre que el importe de los rendimientos netos de la explotación libre de toda otra carga alcance para cubrir los intereses y amortizaciones del crédito respectivo.
+
+Las hipotecas a que se refiere este artículo deberán ser inscritas en el Registro Público del lugar o lugares en que estén ubicados los bienes.
+
+Será aplicable en lo pertinente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo 214 de la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-H.
+
+El juez decretará de plano la posesión del bien objeto del contrato de arrendamiento financiero, solicitada conforme al artículo 416 de la Ley General de Títulos y Operaciones de Crédito por las sociedades financieras de objeto múltiple que hayan celebrado dicho contrato como arrendador, siempre que, además del contrato de arrendamiento financiero debidamente certificado ante fedatario público, aquéllas acompañen a su solicitud el estado de cuenta certificado en los términos del artículo 87-E de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-I.
+
+En las operaciones de crédito, arrendamiento financiero y factoraje financiero que las sociedades financieras de objeto múltiple celebren con sus clientes:
+
+I. Sólo se podrán capitalizar intereses cuando, antes o después de la generación de los mismos, las partes lo hayan convenido. En este caso la sociedad respectiva deberá proporcionar a su cliente estado de cuenta mensual. Es improcedente el cobro que contravenga lo dispuesto por esta fracción, y
+
+II. Los intereses se causarán exclusivamente sobre los saldos insolutos del crédito concedido y su pago no podrá ser exigido por adelantado, sino únicamente por períodos vencidos. En las operaciones de factoraje financiero el factorado y la sociedad financiera de objeto múltiple podrán pactar en contrario.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-J.
+
+En los contratos de arrendamiento financiero, factoraje financiero y crédito que celebren las sociedades financieras de objeto múltiple, éstas deberán señalar expresamente que, para su constitución y operación con tal carácter, no requieren de autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, para fines de promoción de sus operaciones y servicios, utilicen las sociedades financieras de objeto múltiple.
+
+En adición a lo anterior, las sociedades financieras de objeto múltiple no reguladas, en la documentación e información a que se refiere el párrafo anterior, deberán expresar que, para la realización de las operaciones señaladas en ese mismo párrafo, no están sujetas a la supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-K.
+
+La protección y defensa de los derechos e intereses del público usuario de los servicios que, en la realización de las operaciones señaladas en el artículo 87-B de esta Ley, presten las sociedades financieras de objeto múltiple estará a cargo de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros. Respecto de los servicios antes indicados, las sociedades financieras de objeto múltiple estarán sujetas a la Ley citada, en los términos que aquélla contempla para las instituciones financieras definidas en ella. En tal virtud, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá ejercer, respecto de las sociedades financieras de objeto múltiple por la prestación de los servicios señalados, las mismas facultades que dicha ley le confiere y serán aplicables a dichas sociedades las correspondientes sanciones previstas en el propio ordenamiento.
+
+Las sociedades financieras de objeto múltiple, al constituirse con tal carácter, deberán comunicar por escrito dicha circunstancia a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, a más tardar, a los diez días hábiles posteriores a la inscripción del acta constitutiva correspondiente en el Registro Público de Comercio.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-L.
+
+Sin perjuicio de lo dispuesto por este Capítulo, las facultades que la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado otorga a la Comisión Nacional Bancaria y de Valores, respecto de entidades financieras que otorguen crédito garantizado en los términos de dicho ordenamiento, se entenderán conferidas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, respecto de las sociedades financieras de objeto múltiple no reguladas.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros dará a conocer, en los términos del artículo 10 de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los componentes, la metodología de cálculo y la periodicidad del costo anual total a que dicho precepto se refiere, respecto de las sociedades financieras de objeto múltiple no reguladas. Al efecto, tales sociedades colaborarán con dicha Comisión proporcionando la información que ésta les solicite para efectos de lo dispuesto por dicho precepto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-M.
+
+En las operaciones de crédito, arrendamiento financiero y factoraje financiero, las sociedades financieras de objeto múltiple deberán:
+
+I. Informar a sus clientes previamente sobre la contraprestación; monto de los pagos parciales, la forma y periodicidad para liquidarlos; cargas financieras; accesorios; monto y detalle de cualquier cargo, si lo hubiera; número de pagos a realizar, su periodicidad; en su caso, el derecho que tiene a liquidar anticipadamente la operación y las condiciones para ello y, los intereses, incluidos los moratorios, forma de calcularlos y el tipo de tasa y, en su caso, tasa de descuento.
+
+II. De utilizarse una tasa fija, también se informará al cliente el monto de los intereses a pagar en cada período. De utilizarse una tasa variable, se informará al cliente sobre la regla de ajuste de la tasa, la cual no podrá depender de decisiones unilaterales de la sociedad financiera de objeto múltiple respectiva, sino de las variaciones que registre una tasa de interés representativa del costo de la operación al cliente, la cual deberá ser fácilmente verificable por el cliente;
+
+III. Informar al cliente el monto total a pagar por la operación de que se trate, en su caso, número y monto de pagos individuales, los intereses, comisiones y cargos correspondientes, incluidos los fijados por pagos anticipados o por cancelación; proporcionándole debidamente desglosados los conceptos correspondientes;
+
+IV. En caso de haberse efectuado la operación, la sociedad respectiva deberá enviar al cliente al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros. Lo dispuesto en esta fracción no será aplicable en operaciones de factoraje financiero en donde se haya establecido una tasa fija por el plazo de la operación ni en operaciones cuyo vencimientos sucesivos convenidos por las parte (sic) sea trimestral, semestral o anual. En estos últimos casos, el envío de estados de cuenta podrá ajustarse a dichos plazos.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá emitir recomendaciones a las sociedades financieras de objeto múltiple para alcanzar el cumplimiento de lo dispuesto por este artículo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 87-N.
+
+En adición a lo dispuesto por los artículos 87-K, 87-L y 87-M de esta Ley, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrá a su cargo la vigilancia y supervisión del cumplimiento, por parte de las sociedades financieras de objeto múltiple, a lo dispuesto por los artículos 87-I, 87-M y 87-Ñ de esta Ley, bajo los criterios que dicha Comisión determine para ejercer dichas facultades.
+
+La citada Comisión podrá ejercer dichas facultades en los lugares en los que operen las sociedades financieras de objeto múltiple de que se trate, en los términos del procedimiento previsto por la Ley Federal de Procedimiento Administrativo. Asimismo, la propia Comisión podrá ejercer tales facultades a través de visitas, requerimientos de información o documentación. Para efectos de lo dispuesto en este artículo, las sociedades financieras de objeto múltiple, así como sus representantes o sus empleados, están obligados a permitir al personal acreditado de la Comisión el acceso al lugar o lugares objeto de la verificación.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ## TITULO SEXTO. De las Infracciones y Delitos
 
-### CAPITULO II. De los Delitos
+### CAPITULO I. De las Infracciones Administrativas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 88.
 
@@ -2192,6 +2234,18 @@ XII. Hasta 50,000 días de salario, a las organizaciones auxiliares del crédito
 
 XIII. Hasta 50,000 días de salario, a las personas que impidan o dificulten a los inspectores de la Comisión Nacional Bancaria, realizar las visitas correspondientes, verificar los activos, pasivos o la existencia de mercancías depositadas, o se nieguen a proporcionar la documentación e información que les requieran; y
 
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+XIII bis.- De 2,000 a 20,000 días de salario a las sociedades financieras de objeto múltiple reguladas, que incumplan con lo dispuesto por el artículo 87-D de esta Ley, en relación con los artículos 24 Bis, 49, 50, 52, 93, 101, 102 y 115 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+XIII bis 1.- De 5,000 a 50,000 días de salario, a las sociedades financieras de objeto múltiple reguladas que incumplan con lo dispuesto por el artículo 87-D de esta Ley, en relación con los artículos 73, 73 Bis y 73 Bis 1 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+XIII bis 2.- De 15,000 a 60,000 días de salario, a las sociedades financieras de objeto múltiple reguladas, que incumplan con lo dispuesto por el artículo 87-D de esta Ley, en relación con los artículos 65 y 76 de la Ley de Instituciones de Crédito, así como con las disposiciones prudenciales, en materia de contabilidad y de requerimientos de información, que haya emitido la Comisión Nacional Bancaria y de Valores para dichas sociedades; y
+
 XIV. Las infracciones a cualquiera de las normas de esta Ley así como a las disposiciones que emanen de ella que no tengan sanción especialmente señalada en este ordenamiento, se castigarán con multa de hasta 50,000 días de salario o hasta el uno por ciento del capital pagado y reservas de capital de la sociedad de que se trate.
 
 ###### ARTICULO 90.
@@ -2223,6 +2277,10 @@ Se sancionará con multa cuyo importe será de 500 a 6,000 días de salario, a l
 ###### ARTICULO 94.
 
 Si las multas a que se refiere esta Ley, son impuestas a una organización auxiliar del crédito o casa de cambio, la Comisión Nacional Bancaria también podrá imponer una multa de hasta 5,000 días de salario a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad o resulten responsables de la misma. La reincidencia se podrá castigar con multa hasta por el doble de la máxima prevista para la infracción de que se trate.
+
+### CAPITULO II. De los Delitos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 95.
 
@@ -2296,11 +2354,17 @@ Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de 
 
 Las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley y los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, así como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas a las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-ARTICULO 95 BIS.- Las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión del Servicio de Administración Tributaria, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
+###### ARTICULO 95 Bis.
+
+Las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión del Servicio de Administración Tributaria, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
 
 I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
 
 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto del Servicio de Administración Tributaria, reportes sobre:
 
@@ -2308,41 +2372,73 @@ a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, 
 
 b. Todo acto, operación o servicio, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleados, factor y apoderado.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
 Para efectos de lo previsto por este artículo, se entenderá por transmisor de dinero, a la persona que, de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o divisas, directamente en sus oficinas, o por cable, facsímil, servicios de mensajería, medios electrónicos o transferencia electrónica de fondos, para que de acuerdo a las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos en el lugar en el que los recibe, al beneficiario designado.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
 
-Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán observar respecto de:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán observar respecto de:
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
 
-b. La información y documentación que dichas personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-c. La forma en que las mismas personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+b. La información y documentación que dichas sociedades financieras de objeto múltiple, personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acrediten plenamente la identidad de sus clientes;
 
-d. Los términos para proporcionar capacitación al interior de las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-Las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+c. La forma en que las mismas sociedades financieras de objeto múltiple, personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
 
-La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto del Servicio de Administración Tributaria, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, quienes estarán obligadas a proporcionar dicha información y documentación.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+d. Los términos para proporcionar capacitación al interior de sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto del Servicio de Administración Tributaria, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, quienes estarán obligadas a proporcionar dicha información y documentación.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual.
 
-Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 La violación a las disposiciones a que se refiere este artículo será sancionada por el Servicio de Administración Tributaria, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal, en términos de su Ley.
 
-Las mencionadas multas podrán ser impuestas, a las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las mencionadas multas podrán ser impuestas, a las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 El Servicio de Administración Tributaria tendrá la facultad de supervisar, vigilar e inspeccionar el cumplimiento y observancia de lo dispuesto por este artículo, así como por las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público en términos del mismo.
 
-Los servidores públicos de la Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria, las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 96.
 
-Se impondrá pena de prisión de tres meses a dos años y multa de treinta a trescientos días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito o de las casas de cambio que en el ejercicio de sus funciones, incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23, fracción VII, 38, fracción III, 45, fracción XII, 45-T, fracción III y 87-A, fracción VII de esta Ley.
+Se impondrá pena de prisión de tres meses a dos años y multa de treinta a trescientos días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito o de las casas de cambio que en el ejercicio de sus funciones, incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23, fracción VII, 45, fracción XII y 87-A, fracción VII de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2352,11 +2448,23 @@ Serán sancionados con prisión de dos a diez años y multa de quinientos a cinc
 
 I. Que dolosamente omitan u ordenen omitir registrar en los términos del artículo 52 de esta ley, las operaciones efectuadas por la organización o casa de cambio de que se trate, o que mediante maniobras alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
 
-II. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo, crédito, o celebren contratos de arrendamiento financiero o de factoraje financiero;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Que a sabiendas, presenten a la Comisión Nacional Bancaria y de Valores datos falsos sobre la solvencia del deudor, arrendatario o de los clientes que transmitan los derechos de crédito, o de los deudores de éstos, sobre el valor de las garantías de los créditos, préstamos, arrendamientos financieros o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva, y
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
-IV. Que, conociendo los vicios que señala la fracción III del artículo 98 de esta ley, concedan el préstamo, crédito o celebren el contrato de arrendamiento financiero o de factoraje financiero.
+II. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo o crédito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+III. Que a sabiendas, presenten a la Comisión Nacional Bancaria y de Valores datos falsos sobre la solvencia del deudor, sobre el valor de las garantías de los créditos, préstamos o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+IV. Que, conociendo los vicios que señala la fracción III del artículo 98 de esta ley, concedan el préstamo o crédito.
 
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2372,33 +2480,59 @@ Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corr
 
 Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
 
-I. Las personas que con el propósito de obtener un préstamo, crédito, o de celebrar un contrato de arrendamiento financiero o de factoraje financiero, proporcionen a una organización auxiliar del crédito, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la organización;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+I. Las personas que con el propósito de obtener un préstamo o crédito proporcionen a una organización auxiliar del crédito, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la organización;
 
 II. Los consejeros, funcionarios, empleados o quienes intervengan directamente en la operación que, falsifiquen, alteren, simulen o a sabiendas realicen operaciones que resulten en quebranto o perjuicio al patrimonio de la organización o casa de cambio.
 
 Se considerarán comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los consejeros, funcionarios o empleados de las organizaciones auxiliares del crédito o casas de cambio o quienes intervengan directamente en las operaciones que:
 
-a) Otorguen préstamos, créditos, bienes en arrendamiento financiero o adquieran derechos de crédito por contratos de factoraje financiero, a sociedades constituidas a sabiendas de que éstas no han integrado el capital que registren las actas de asamblea respectivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+a) Otorguen préstamos o créditos, a sociedades constituidas a sabiendas de que éstas no han integrado el capital que registren las actas de asamblea respectivas;
 
 b) Realicen operaciones propias del objeto social de las organizaciones auxiliares del crédito y casas de cambio con personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las operaciones realizadas que resulten en quebranto o perjuicio al patrimonio de las organizaciones o casas de cambio de que se trate;
 
-c) Renueven préstamos, créditos o contratos de arrendamiento financiero, vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso anterior;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+c) Renueven préstamos o créditos, vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso anterior;
 
 d) Con objeto de liberar a un deudor otorguen créditos a una o varias personas físicas o morales que se encuentren en estado de insolvencia, sustituyendo en los registros de la organización respectiva unos activos por otros, y
 
-e) A sabiendas, permitan a un deudor desviar el importe del crédito, préstamo o bien arrendado en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe de su obligación y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la organización.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Las personas que para obtener préstamos o créditos de una organización auxiliar del crédito, o con el fin de celebrar contratos de arrendamiento financiero o de factoraje financiero, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, bienes en arrendamiento o derechos del crédito, resultando quebranto o perjuicio patrimonial para la organización;
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-IV. Los acreditados o arrendatarios financieros que desvíen un crédito concedido o un bien dado en arrendamiento financiero por alguna organización auxiliar del crédito, a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito o en el arrendamiento financiero, y
+e) A sabiendas, permitan a un deudor desviar el importe del crédito o préstamo, reduciendo notoriamente su capacidad para pagar o responder por el importe de su obligación y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la organización.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+III. Las personas que para obtener préstamos o créditos de una organización auxiliar del crédito, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, resultando quebranto o perjuicio patrimonial para la organización;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+IV. Los acreditados que desvíen un crédito concedido por alguna organización auxiliar del crédito a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito, y
 
 V. Las personas físicas o morales, así como los consejeros, funcionarios y empleados de éstas, que presenten estados financieros falsos o alterados con el propósito de obtener de un almacén general de depósito la habilitación de locales.
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 99.
 
-Los consejeros, funcionarios, empleados de las organizaciones auxiliares del crédito y casas de cambio, o quienes intervengan directamente en la operación, que con independencia de los cargos o intereses fijados por la sociedad respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, arrendatarios financieros, clientes de empresas de factoraje o de casas de cambio, beneficios por su participación en el trámite u otorgamiento del crédito, de los bienes objeto del arrendamiento, del contrato de factoraje o de operaciones de casas de cambio, serán sancionados con pena de prisión de tres meses a tres años cuando el beneficio no sea valuable, o no exceda de quinientos días de salario, en el momento de cometerse el delito y de dos a catorce años de prisión cuando el beneficio exceda de quinientos días del salario referido.
+Los consejeros, funcionarios, empleados de las organizaciones auxiliares del crédito y casas de cambio, o quienes intervengan directamente en la operación, que con independencia de los cargos o intereses fijados por la sociedad respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito o clientes de casas de cambio, beneficios por su participación en el trámite u otorgamiento del crédito o de operaciones de casas de cambio, serán sancionados con pena de prisión de tres meses a tres años cuando el beneficio no sea valuable, o no exceda de quinientos días de salario, en el momento de cometerse el delito y de dos a catorce años de prisión cuando el beneficio exceda de quinientos días del salario referido.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2488,7 +2622,7 @@ México, D. F., a 20 de diciembre de 1984.- Enrique Soto Izquierdo, D. P.- Celso
 
 En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 26 DE DICIEMBRE DE 1986.
 
@@ -2705,6 +2839,106 @@ Las disposiciones de este Decreto no serán aplicables a los créditos contratad
 D.O.F. 28 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
+I. El artículo Primero del presente Decreto;
+
+II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;
+
+III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
+
+SEGUNDO.- Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
+
+En los contratos de arrendamiento financiero y factoraje financiero que celebren las personas a que se refiere este artículo, ellas deberán señalar expresamente que no cuentan con la autorización de la Secretaría de Hacienda y Crédito Público prevista en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las personas señaladas.
+
+TERCERO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
+
+A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que haya otorgado la Secretaría de Hacienda y Crédito Público para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser organizaciones auxiliares del crédito.
+
+Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para que puedan continuar operando, deberán:
+
+I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para constituirse y funcionar con tal carácter.
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señalada (sic) en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
+
+La entrada en vigor de las reformas y derogación (sic) a que este artículo transitorio se refiere no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito aquellas sociedades que tenían el carácter de arrendadoras financieras y empresas de factoraje financiero, ni será causa de ratificación o convalidación de esos contratos. Sin perjuicio de lo anterior, a partir de la entrada en vigor señalada en este artículo, los contratos de arrendamiento y factoraje financiero a que se refiere este párrafo se regirán por las disposiciones correlativas de la Ley General de Títulos y Operaciones de Crédito.
+
+En los contratos de arrendamiento financiero y factoraje financiero que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
+
+CUARTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+
+QUINTO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
+
+A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que hayan sido otorgadas por la Secretaría de Hacienda y Crédito Público, en términos del artículo 103, fracción IV, de la Ley de Instituciones de Crédito, a las sociedades financieras de objeto limitado, quedarán sin efecto por ministerio de ley, sin que por ello estén obligadas a disolverse y liquidarse, aunque, para que puedan continuar operando, deberán:
+
+I. Reformar sus estatutos sociales, a afecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son sociedades financieras de objeto limitado y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para ello.
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señaladas en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
+
+La entrada en vigor de las reformas, adiciones y derogaciones a los artículos de la Ley de Instituciones de Crédito señalados en este artículo transitorio no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito las sociedades que tenían el carácter de sociedades financieras de objeto limitado, ni será causa de ratificación o convalidación de esos contratos.
+
+En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
+
+SEXTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+
+SÉPTIMO.- Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
+
+I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
+
+II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y
+
+III. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento público en el que conste la celebración de la asamblea de accionistas señalada en la fracción I y la reforma estatutaria referida en la fracción II anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+La autorización que haya otorgado la Secretaría de Hacienda y Crédito Público, según corresponda, para la constitución, operación, organización y funcionamiento de la arrendadora financiera, empresa de factoraje financiero o sociedad financiera de objeto limitado de que se trate, quedará sin efecto a partir del día siguiente a la fecha en que se inscriba en el Registro Público de Comercio la reforma estatutaria señalada en la fracción II de este artículo, sin que, por ello, la sociedad deba entrar en estado de disolución y liquidación. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación que la autorización ha quedado sin efecto.
+
+Los contratos que hayan suscrito las arrendadoras financieras, empresas de factoraje financiero o sociedades financieras de objeto limitado con anterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efectos las autorizaciones referidas, no quedarán afectados en su existencia o validez ni deberán ser ratificados o convalidados por esa causa.
+
+En los contratos de arrendamiento financiero, factoraje financiero y crédito que las sociedades a que se refiere este artículo celebren con posterioridad a la fecha en que la autorización de la Secretaría de Hacienda y Crédito Público haya quedado sin efecto, aquellas deberán señalar expresamente que no cuentan autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas en el primer párrafo de este artículo.
+
+OCTAVO.- En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas.
+
+NOVENO.- Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+DÉCIMO.- El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado cuyas acciones con derecho a voto que representen, cuando menos, el cincuenta y uno por ciento de su capital social sean propiedad de sociedades controladoras de grupos financieros con anterioridad a la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, serán consideradas como integrantes de dichos grupos financieros en tanto continúe vigente la autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado a dichas entidades para constituirse, operar, organizarse y funcionar, según sea el caso, con tal carácter. En este supuesto, seguirá siendo aplicable en lo conducente la Ley para Regular las Agrupaciones Financieras.
+
+En caso que, conforme a lo dispuesto por el presente Decreto, las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado referidas en el párrafo anterior adopten la modalidad de sociedades financieras de objeto múltiple y las acciones con derecho a voto representativas de, cuando menos, el cincuenta y uno por ciento de su capital social permanezca bajo la propiedad de la sociedad controladora de que se trate, dichas sociedades serán consideradas como integrantes del grupo financiero respectivo en términos del artículo 7 de la Ley para Regular las Agrupaciones Financieras, reformado por este Decreto, siempre y cuando se inscriban en el Registro Público de Comercio las reformas correspondientes a los estatutos sociales de la sociedad controladora, se modifique el convenio de responsabilidades a que se refiere el artículo 28 de la misma Ley y la Secretaría de Hacienda y Crédito Público apruebe la modificación a la autorización otorgada al grupo financiero de que se trate para constituirse y funcionar con tal carácter. Las responsabilidades de la controladora subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por las sociedades que dejan de tener el carácter de arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado, antes de la inscripción señalada.
+
+DÉCIMO PRIMERO.- Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+DÉCIMO SEGUNDO.- Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
+
+Las instituciones de crédito que sean propietarias de acciones representativas del capital social de sociedades financieras de objeto limitado, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
+
+DÉCIMO TERCERO.- Los procesos de conciliación y arbitraje seguidos conforme (sic) Ley de Protección y Defensa al Usuario de Servicios Financieros, que a la fecha de publicación del Presente Decreto se encuentren pendientes de resolver, seguirán rigiéndose por dicha Ley, hasta su conclusión.
+
+DÉCIMO CUARTO.- Por lo que se refiere a las sociedades de ahorro y préstamo, se estará al régimen transitorio que para las mismas se prevé en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005.
+
+DÉCIMO QUINTO.- Las sociedades financieras de objeto múltiple se reputan intermediarios financieros rurales para los efectos de la Ley Orgánica de la Financiera Rural.
+
+DECIMO SEXTO.- Posterior a la fecha en que entre en vigor el presente Decreto, la Secretaría de Hacienda y Crédito Público podrá autorizar objetos sociales amplios que incluyan todas la operaciones de crédito del artículo 46 de la Ley de Instituciones de Crédito, de arrendamiento y de factoraje financiero a las Sociedades Financieras de Objeto Limitado que así lo soliciten y mantener la regulación de la propia Secretaría y de la Comisión Nacional Bancaria y de Valores, así como la denominación correspondiente.
+
+Para estos efectos, la Secretaría de Hacienda y Crédito Público podrá otorgar la autorización para la transformación a Sociedad Financiera de Objeto Limitado a las empresas de arrendamiento y factoraje financiero que los soliciten, las cuales continuarán reguladas.
+
+La regulación y la autorización otorgada de acuerdo a los párrafos anteriores quedará sin efecto por ministerio de Ley a los tres años siguientes a la fecha de entrada en vigor del presente Decreto y las sociedades que hayan obtenido dicha autorización a partir de esta fecha, quedarán sujetas a lo dispuesto a los artículos tercero y quinto transitorio de este Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
