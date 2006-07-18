@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2006-04-24"
+last_updated: "2006-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -453,7 +453,9 @@ II Bis.- No podrán participar en el capital social pagado de dichas institucion
 
 a).- Instituciones de crédito, y
 
-b).- Sociedades mutualistas de seguros, casas de bolsa, casas de cambio, organizaciones auxiliares del crédito, sociedades financieras de objeto limitado, entidades de ahorro y crédito popular, administradoras de fondos para el retiro y sociedades operadoras de sociedades de inversión;
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+b).- Sociedades mutualistas de seguros, casas de bolsa, casas de cambio, organizaciones auxiliares del crédito, entidades de ahorro y crédito popular, administradoras de fondos para el retiro y sociedades operadoras de sociedades de inversión;
 
 Lo dispuesto en el párrafo anterior no será aplicable cuando la participación provenga de la tenencia accionaria de las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras.
 
@@ -979,7 +981,9 @@ XII.- Adquirir bienes muebles e inmuebles necesarios para la realización de su 
 
 XIII.- Otorgar préstamos o créditos;
 
-XIV.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones de crédito;
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+XIV.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito, sociedades financieras de objeto múltiple, así como a fondos permanentes de fomento económico destinados en fideicomiso por el gobierno federal en instituciones de crédito;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -4312,5 +4316,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- En tanto no se deroguen o modifiquen las reglas y disposiciones de carácter general vigentes, se continuarán aplicando en lo que no se opongan al presente Decreto.
 
 CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas.
+
+...
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+...
+
+NOVENO.- Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ...
