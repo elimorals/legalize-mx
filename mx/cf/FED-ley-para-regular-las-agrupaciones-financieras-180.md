@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2006-07-06"
+last_updated: "2006-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -120,15 +120,15 @@ Se requerirá autorización de la Secretaría de Hacienda y Crédito Público pa
 
 Por su naturaleza, dichas autorizaciones serán intransmisibles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 7o.
 
-Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, instituciones de fianzas, instituciones de seguros, sociedades financieras de objeto limitado, casas de bolsa, instituciones de banca múltiple, así como sociedades operadoras de sociedades de inversión y administradoras de fondos para el retiro.
+Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, casas de cambio, instituciones de fianzas, instituciones de seguros, casas de bolsa, instituciones de banca múltiple, sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión, administradoras de fondos para el retiro y sociedades financieras de objeto múltiple.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-El grupo financiero podrá formarse con cuando menos dos tipos diferentes de las entidades financieras siguientes: instituciones de banca múltiple, casas de bolsa e instituciones de seguros. En los casos en que el grupo no incluya a dos de las mencionadas entidades, deberá contar por lo menos con tres tipos diferentes de entidades financieras de las citadas en el párrafo anterior que no sean administradoras de fondos para el retiro.
+El grupo financiero podrá formarse con cuando menos dos de las entidades financieras señaladas en el párrafo anterior, que podrán ser del mismo tipo. Como excepción a lo anterior, un grupo financiero no podrá formarse sólo con dos sociedades financieras de objeto múltiple.
 
 La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá autorizar que otras sociedades puedan formar parte de estos grupos.
 
@@ -140,7 +140,9 @@ I. Actuar de manera conjunta frente al público, ofrecer servicios complementari
 
 II. Usar denominaciones iguales o semejantes que los identifiquen frente al público como integrantes de un mismo grupo, o bien, conservar la denominación que tenían antes de formar parte de dicho grupo, en todo caso deberán añadirle las palabras "Grupo Financieras" y la denominación del mismo, y
 
-III. Llevar a cabo operaciones de las que le son propias a través de oficinas y sucursales de atención al público de otras entidades financieras integrantes del grupo, de conformidad con las reglas generales que dicte la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+III.- De conformidad con las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, llevar a cabo operaciones de las que le son propias a través de oficinas y sucursales de atención al público de otras entidades financieras integrantes del grupo, excepto la captación de recursos del público a través de depósitos de dinero.
 
 En ningún caso podrán realizarse operaciones propias de las entidades financieras integrantes del grupo a través de las oficinas de la controladora.
 
@@ -1193,3 +1195,13 @@ El incumplimiento a lo previsto en el presente artículo será sancionado por la
 ###### ARTÍCULO TERCERO.
 
 Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente decreto se encuentren en procedimiento de liquidación o concurso mercantil, se regirán de conformidad con las disposiciones vigentes al momento en que hayan iniciado los procedimientos respectivos.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+DÉCIMO.- El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado cuyas acciones con derecho a voto que representen, cuando menos, el cincuenta y uno por ciento de su capital social sean propiedad de sociedades controladoras de grupos financieros con anterioridad a la fecha en que se cumplan siente años de la publicación del presente Decreto en el Diario Oficial de la Federación, serán consideradas como integrantes de dichos grupos financieros en tanto continúe vigente la autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado a dichas entidades para constituirse, operar, organizarse y funcionar, según sea el caso, con tal carácter. En este supuesto, seguirá siendo aplicable en lo conducente la Ley para Regular las Agrupaciones Financieras.
+
+En caso que, conforme a lo dispuesto por el presente Decreto, las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado referidas en el párrafo anterior adopten la modalidad de sociedades financieras de objeto múltiple y las acciones con derecho a voto representativas de, cuando menos, el cincuenta y uno por ciento de su capital social permanezca bajo la propiedad de la sociedad controladora de que se trate, dichas sociedades serán consideradas como integrantes del grupo financiero respectivo en términos del artículo 7 de la Ley para Regular las Agrupaciones Financieras, reformado por este Decreto, siempre y cuando se inscriban en el Registro Público de Comercio las reformas correspondientes a los estatutos sociales de la sociedad controladora, se modifique el convenio de responsabilidades a que se refiere el artículo 28 de la misma Ley y la Secretaría de Hacienda y Crédito Público apruebe la modificación a la autorización otorgada al grupo financiero de que se trate para constituirse y funcionar con tal carácter. Las responsabilidades de la controladora subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por las sociedades que dejan de tener el carácter de arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado, antes de la inscripción señalada.
