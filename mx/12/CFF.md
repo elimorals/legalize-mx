@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2006-06-28"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2006.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 12 DE MAYO DE 2006.
 
@@ -1806,15 +1806,15 @@ Las autoridades fiscales proveerán las medidas necesarias para garantizar la co
 
 El Servicio de Administración Tributaria, a través de reglas de carácter general, podrá disminuir la información que deben presentar los sujetos obligados en los términos de esta fracción, así como liberar de su presentación a determinados tipos de fideicomisos.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### Artículo 32-C.
 
-Las empresas de factoraje financiero estarán obligadas, en todos los casos, a notificar al deudor la cesión de derechos de crédito operado en virtud de un contrato de factoraje financiero, excepto en el caso de factoraje con mandato de cobranza o factoraje con cobranza delegada.
+Las empresas de factoraje, y las sociedades financieras de objeto múltiple, estarán obligadas, en todos los casos, a notificar al deudor la transmisión de derechos de crédito operado en virtud de un contrato de factoraje financiero, excepto en el caso de factoraje con mandato de cobranza o factoraje con cobranza delegada.
 
-Estarán obligados a recibir la notificación a que se refiere el párrafo anterior, los deudores de los derechos cedidos a empresas de factoraje financiero.
+Estarán obligados a recibir la notificación a que se refiere el párrafo anterior, los deudores de los derechos transmitidos a empresas de factoraje financiero, y a sociedades financieras de objeto múltiple.
 
-La notificación a que se refiere este artículo se realizará por cualquiera de los medios previstos por el artículo 45-K de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, dentro de un plazo que no excederá de diez días a partir de la fecha en que operó la cesión correspondiente.
+La notificación deberá realizarse dentro de un plazo que no excederá de diez días a partir de la fecha en que operó la transmisión correspondiente. La notificación se realizará por cualquiera de los medios previstos en el caso de empresas de factoraje financiero, por el artículo 45-K de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y en el caso de sociedades financieras de objeto múltiple, por el artículo 427 de la Ley General de Títulos y Operaciones de Crédito.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -3864,11 +3864,11 @@ Son infracciones de los usuarios de los servicios, así como de los cuentahabien
 
 A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $260.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $790.00 por cada una de las mismas.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### Artículo 84-E.
 
-Se considera infracción en la que pueden incurrir las empresas en relación a las obligaciones a que se refieren el primero y segundo párrafos del artículo 32-C de este Código, el no efectuar la notificación de la cesión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
+Se considera infracción en la que pueden incurrir las empresas de factoraje financiero y las sociedades financieras de objeto múltiple en relación a las obligaciones a que se refieren el primero y segundo párrafos del Artículo 32-C de este Código, el no efectuar la notificación de la transmisión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
 
@@ -4898,7 +4898,7 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 117, se estará a las reglas siguientes:
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
@@ -5120,7 +5120,7 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el reglamento de este Código.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 138.
 
@@ -7615,3 +7615,21 @@ XIII. Lo dispuesto en el artículo 10, fracción I, inciso c), entrará en vigor
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
+I. El artículo Primero del presente Decreto;
+
+II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;
+
+III. Las reformas a los artículo 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
