@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2006-07-06"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2006.
+> <small>N. DE E. CONFORME AL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JULIO DE 2006, SE MODIFICA EL PRESENTE ORDENAMIENTO; DETERMINANDO SU ARTICULO QUINTO TRANSITORIO QUE LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE SU PUBLICACION; PUDIENDO CONSULTAR LOS ARTICULOS SEÑALADOS, CON LA REFORMA APLICADA, AL FINAL DEL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1732,6 +1734,8 @@ El órgano de vigilancia de las instituciones de banca de desarrollo, estará in
 
 De las Filiales de Instituciones Financieras del Exterior.
 
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
+
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 45-A.
@@ -1743,6 +1747,8 @@ I. Filial: La sociedad mexicana autorizada para organizarse y operar, conforme a
 II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
 
 III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1759,6 +1765,8 @@ La Secretaría de Hacienda y Crédito Público estará facultada para interpreta
 Para organizarse y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria. Por su naturaleza estas autorizaciones serán intransmisibles.
 
 Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación del domicilio social de la Filial de que se trate.
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1820,6 +1828,8 @@ Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad 
 
 No se requerirá autorización de la Secretaría de Hacienda y Crédito Público ni modificación de estatutos cuando la transmisión de acciones sea, en garantía o propiedad, al Fondo Bancario de Protección al Ahorro.
 
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 45-I.
@@ -1847,6 +1857,8 @@ V. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
 ###### ARTICULO 45-J.
 
 (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -1919,6 +1931,8 @@ Se exceptúa a los directores generales de las instituciones de banca múltiple 
 ###### ARTICULO 45-M.
 
 El órgano de vigilancia de las Filiales, estará integrado por lo menos por un comisario designado por los accionistas de la serie “F” y, en su caso, un comisario nombrado por los accionistas de la serie “B”, así como sus respectivos suplentes.
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -2020,9 +2034,9 @@ XXVI. Efectuar operaciones de factoraje financiero, y
 
 XXVII. Las análogas o conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-La realización de las operaciones señaladas en las fracciones XXIV y XXVI de este artículo, así como el cumplimiento de las obligaciones de las partes, se sujetarán a lo previsto por esta Ley y, en lo que no se oponga a ella, por la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+La realización de las operaciones señaladas en las fracciones XXIV y XXVI de este artículo, así como el cumplimiento de las obligaciones de las partes, se sujetarán a lo previsto por esta Ley y, en lo que no se oponga a ella, por la Ley General de Títulos y Operaciones de Crédito.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -2057,6 +2071,8 @@ Las instituciones de crédito estarán obligadas a canjear los billetes y moneda
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 > <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
 
@@ -2514,9 +2530,13 @@ Las instituciones deberán solicitar la información correspondiente, a las pers
 
 No se considerarán operaciones con personas relacionadas, las celebradas con:
 
-a) El Gobierno Federal y el Instituto para la Protección al Ahorro Bancario, y
+a) El Gobierno Federal y el Instituto para la Protección al Ahorro Bancario, y (sic)
 
 b) Las empresas de servicios complementarios o auxiliares de la banca, a que se refiere el artículo 88 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+c) Las entidades financieras que formen parte del grupo financiero al que, en su caso, pertenezca la institución de banca múltiple, o aquéllas entidades financieras en las que la institución de banca múltiple tengan una participación accionaria, a menos que dichas entidades a su vez otorguen cualquier tipo de financiamiento a las personas señaladas en las fracciones I a VII del artículo 73 y por el monto de dicho financiamiento.
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -2622,19 +2642,17 @@ En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final d
 
 Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo, declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 85 Bis.
 
-Para poder actuar como fiduciarias de los fideicomisos de garantía las instituciones a que se refieren las fracciones II a V del artículo 399 de la Ley General de Títulos y Operaciones de Crédito, deberán contar con el capital mínimo adicional que, para este efecto, determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, previa opinión de las Comisiones Nacionales Bancaria y de Valores y de Seguros y Fianzas, según corresponda en virtud de la institución de que se trate, así como con la autorización que otorgará discrecionalmente el Gobierno Federal, a través de dicha Secretaría.
+Para poder actuar como fiduciarias de los fideicomisos de garantía, las instituciones a que se refieren las fracciones II, III, IV y VI del artículo 395 de la Ley General de Títulos y Operaciones de Crédito deberán contar con el capital mínimo adicional que, para este efecto, determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, previa opinión de las Comisiones Nacionales Bancaria y de Valores y de Seguros y Fianzas, según corresponda en virtud de la institución de que se trate, así como con la autorización que otorgará discrecionalmente el Gobierno Federal, a través de dicha Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 18 DE JULIO DE 2008)</small>
 
-Las sociedades financieras de objeto limitado que cumplan con los requisitos señalados en el párrafo anterior, sólo podrán aceptar el desempeño de fideicomisos cuyos bienes afectos, deriven de las operaciones inherentes a su objeto social.
-
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
-
-Las sociedades a que se refieren las fracciones II a V del artículo 399 de la Ley General de Títulos y Operaciones de Crédito, deberán administrar las operaciones de fideicomiso en los términos que para las instituciones de crédito señalan los artículos 79 y 80 de esta Ley.
+Las sociedades a que se refieren las fracciones II, III, IV y VI del artículo 395 de la Ley General de Títulos y Operaciones de Crédito deberán administrar las operaciones de fideicomiso objeto de dicho artículo en los términos que, para las instituciones de crédito, señalan los artículos 79 y 80 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2682,9 +2700,9 @@ Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, p
 
 Cuando alguna institución de crédito sea propietaria, directa o indirectamente, de acciones con derecho a voto de entidades financieras del exterior que representen por lo menos el cincuenta y uno por ciento del capital pagado, tenga el control de las asambleas generales de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración o sus equivalentes, o por cualquier otro medio controle a las mencionadas entidades, la institución de crédito correspondiente deberá proveer lo necesario para que la entidad financiera de que se trate, realice sus actividades sujetándose a la legislación extranjera que le sea aplicable y, en su caso, a las disposiciones que al efecto determinen las autoridades financieras mexicanas.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-Las instituciones de banca múltiple podrán invertir en el capital social de sociedades de inversión, sociedades operadoras de éstas, administradoras de fondos para el retiro, así como en el de sociedades de inversión especializadas de fondos para el retiro en los términos de la legislación aplicable y, cuando no formen parte de grupos financieros, en el de organizaciones auxiliares del crédito e intermediarios financieros no bancarios, que no sean casas de bolsa, instituciones y sociedades mutualistas de seguros e instituciones de fianzas, previa autorización de la Secretaría de Hacienda y Crédito Público.
+Las instituciones de banca múltiple podrán invertir en el capital social de sociedades de inversión, sociedades operadoras de éstas, administradoras de fondos para el retiro, sociedades financieras de objeto múltiple, así como en el de sociedades de inversión especializadas de fondos para el retiro, en los términos de la legislación aplicable y, cuando no formen parte de grupos financieros, en el de organizaciones auxiliares del crédito e intermediarios financieros no bancarios, que no sean casas de bolsa, instituciones y sociedades mutualistas de seguros e instituciones de fianzas, previa autorización de la Secretaría de Hacienda y Crédito Público.
 
 Las solicitudes de autorización de las inversiones a que se refiere el párrafo anterior, deberán acompañarse del documento que precise las políticas para resolver el probable conflicto de interés que en la realización de sus operaciones con el público pudieren presentarse.
 
@@ -2787,6 +2805,8 @@ Las operaciones de banca y crédito que realicen las instituciones de crédito y
 Las instituciones de crédito estarán obligadas a recabar los datos de su clientela, relativos a su identificación y domicilio, de conformidad con las disposiciones que al efecto dicte la Comisión Nacional Bancaria.
 
 ### CAPITULO I. De las Prohibiciones
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
@@ -3024,6 +3044,8 @@ La Comisión Nacional Bancaria y de Valores podrá autorizar excepciones a lo di
 
 El uso de las palabras a que se refiere el artículo 105 de esta Ley, en el nombre de personas morales y establecimientos distintos a los autorizados para ello conforme al mismo precepto, se castigará por la Comisión Nacional Bancaria con multa por cantidad que no será menor de cien veces ni mayor de cinco mil veces el salario mínimo general diario vigente en el Distrito Federal, y la negociación respectiva será clausurada administrativamente por esa Comisión hasta que su nombre sea cambiado.
 
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 108.
@@ -3240,6 +3262,8 @@ Se sancionará con prisión de tres años a nueve años y con multa de treinta m
 
 Los consejeros, funcionarios o empleados de las instituciones de crédito que, con independencia de los cargos e intereses fijados por la institución, por sí o por interpósita persona, reciban indebidamente de los clientes algún beneficio para celebrar cualquier operación, serán sancionados con prisión de tres meses a tres años y con multa de treinta a quinientos días de salario cuando no sea valuable o el monto del beneficio no exceda de quinientos días de salario, en el momento de cometerse el delito; cuando exceda de dicho monto serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario.
 
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 115.
@@ -3305,6 +3329,8 @@ Las mencionadas multas podrán ser impuestas, tanto a las instituciones de créd
 > <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, las instituciones de crédito y sociedades financieras de objeto limitado, sus miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+
+> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
 
 ###### ARTICULO 116.
 
@@ -4379,3 +4405,423 @@ El incumplimiento a lo previsto en el presente artículo será sancionado por la
 ###### ARTÍCULO TERCERO.
 
 Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente decreto se encuentren en procedimiento de liquidación o concurso mercantil, se regirán de conformidad con las disposiciones vigentes al momento en que hayan iniciado los procedimientos respectivos.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
+I. El artículo Primero del presente Decreto;
+
+II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;
+
+III. Las reformas a los artículo 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
+
+...
+
+QUINTO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 Bis, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
+
+A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que hayan sido otorgadas por la Secretaría de Hacienda y Crédito Público, en términos del artículo 103, fracción IV, de la Ley de Instituciones de Crédito, a las sociedades financieras de objeto limitado, quedarán sin efecto por ministerio de ley, sin que por ello estén obligadas a disolverse y liquidarse, aunque, para que puedan continuar operando, deberán:
+
+I. Reformar sus estatutos sociales, a afecto (sic) de eliminar cualquier referencia expresa o de la cual se pueda inferir que son sociedades financieras de objeto limitado y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para ello.
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señaladas en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
+
+La entrada en vigor de las reformas, adiciones y derogaciones a los artículos de la Ley de Instituciones de Crédito señalados en este artículo transitorio no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito las sociedades que tenían el carácter de sociedades financieras de objeto limitado, ni será causa de ratificación o convalidación de esos contratos.
+
+En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
+
+SEXTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito (sic) y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+
+SÉPTIMO.- Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
+
+I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General (sic) de Organizaciones y Actividades Auxiliares del Crédito;
+
+II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y
+
+III. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento público en el que conste la celebración de la asamblea de accionistas señalada en la fracción I y la reforma estatutaria referida en la fracción II anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+La autorización que haya otorgado la Secretaría de Hacienda y Crédito Público, según corresponda, para la constitución, operación, organización y funcionamiento de la arrendadora financiera, empresa de factoraje financiero o sociedad financiera de objeto limitado de que se trate, quedará sin efecto a partir del día siguiente a la fecha en que se inscriba en el Registro Público de Comercio la reforma estatutaria señalada en la fracción II de este artículo, sin que, por ello, la sociedad deba entrar en estado de disolución y liquidación. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación que la autorización ha quedado sin efecto.
+
+Los contratos que hayan suscrito las arrendadoras financieras, empresas de factoraje financiero o sociedades financieras de objeto limitado con anterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efectos las autorizaciones referidas, no quedarán afectados en su existencia o validez ni deberán ser ratificados o convalidados por esa causa.
+
+En los contratos de arrendamiento financiero, factoraje financiero y crédito que las sociedades a que se refiere este artículo celebren con posterioridad a la fecha en que la autorización de la Secretaría de Hacienda y Crédito Público haya quedado sin efecto, aquellas deberán señalar expresamente que no cuentan autorización (sic) de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas en el primer párrafo de este artículo.
+
+OCTAVO.- En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas.
+
+...
+
+DÉCIMO SEGUNDO.- Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
+
+Las instituciones de crédito que sean propietarias de acciones representativas del capital social de sociedades financieras de objeto limitado, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
+
+...
+
+DECIMO SEXTO.- Posterior a la fecha en que entre en vigor el presente Decreto, la Secretaría de Hacienda y Crédito Público podrá autorizar objetos sociales amplios que incluyan todas la operaciones de crédito del artículo 46 de la Ley de Instituciones de Crédito, de arrendamiento y de factoraje financiero a las Sociedades Financieras de Objeto Limitado que así lo soliciten y mantener la regulación de la propia Secretaría y de la Comisión Nacional Bancaria y de Valores, así como la denominación correspondiente.
+
+Para estos efectos, la Secretaría de Hacienda y Crédito Público podrá otorgar la autorización para la transformación a Sociedad Financiera de Objeto Limitado a las empresas de arrendamiento y factoraje financiero que los soliciten, las cuales continuarán reguladas.
+
+La regulación y la autorización otorgada de acuerdo a los párrafos anteriores quedará sin efecto por ministerio de Ley a los tres años siguientes a la fecha de entrada en vigor del presente Decreto y las sociedades que hayan obtenido dicha autorización a partir de esta fecha, quedarán sujetas a lo dispuesto a los artículos tercero y quinto transitorio de este Decreto.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 18 DE JULIO DE 2006, LA ENTRADA EN VIGOR SERA A PARTIR DE LOS SIETE AÑOS POSTERIORES A SU PUBLICACION; MOTIVO POR EL CUAL SE TRANSCRIBEN LOS ARTICULOS CON LA MODIFICACION APLICADA, QUE SE ENCUENTRAN SEÑALADOS EN EL CITADO TRANSITORIO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-A.
+
+Para efectos de esta Ley se entenderá por:
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+I. Filial: La sociedad mexicana autorizada para organizarse y operar, conforme a esta Ley, como institución de banca múltiple, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial en los términos del presente capítulo;
+
+II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 45-B.
+
+Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las instituciones de banca múltiple, y las reglas para el establecimiento de filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-D.
+
+Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las Filiales podrán realizar las mismas operaciones que las instituciones de banca múltiple, a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 45-I.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una o más instituciones de banca múltiple, siempre y cuando se cumplan los siguientes requisitos:
+
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social;
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+II. Deberán modificarse los estatutos sociales de la institución de banca múltiple, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+
+III. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+IV. Cuando, el adquirente sea una Filial deberá fusionarse con la institución de banca múltiple que haya sido adquirida; y
+
+V. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 45-K.
+
+El consejo de administración de las instituciones de banca múltiple filiales estará integrado por un mínimo de cinco y un máximo de quince consejeros propietarios, de los cuales cuando menos el veinticinco por ciento deberán ser independientes. Por cada consejero propietario se designará a su respectivo suplente, en el entendido de que los consejeros suplentes de los consejeros independientes, deberán tener este mismo carácter.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquellas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El accionista de la serie "F" que represente cuando menos el cincuenta y uno por ciento del capital social pagado designará a la mitad más uno de los consejeros y por cada diez por ciento de acciones de esta serie que exceda de ese porcentaje, tendrá derecho a designar un consejero más. Los accionistas de la serie "O", designarán a los consejeros restantes. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El consejo de administración deberá estar integrado por al menos el veinticinco por ciento de consejeros independientes, que serán designados en forma proporcional conforme a lo señalado en los párrafos que anteceden. Por consejero independiente, deberá entenderse a la persona que sea ajena a la administración de la institución de banca múltiple filial respectiva, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores en las disposiciones de carácter general a que se refiere el artículo 22 de esta Ley, en las que igualmente se establecerán los supuestos bajo los cuales, se considerará que un consejero deja de ser independiente para los efectos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+En ningún caso podrán ser consejeros independientes:
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+I. Empleados o directivos de la institución;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+II. Accionistas que sin ser empleados o directivos de la institución, tengan poder de mando sobre los directivos de la misma;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la institución o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+IV. Clientes, proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la institución.
+
+Se considera que un cliente o proveedor es importante cuando los servicios que le preste la institución o las ventas que le haga a ésta, representan más del diez por ciento de los servicios o ventas totales del cliente o del proveedor, respectivamente. Asimismo, se considera que un deudor o acreedor es importante cuando el importe del crédito es mayor al quince por ciento de los activos de la institución o de su contraparte;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la institución.
+
+Se consideran donativos importantes a aquellos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la institución;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VII. Cónyuges o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado respecto de alguna de las personas mencionadas en las fracciones III a VI anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones I, II y VIII de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VIII. Quienes hayan ocupado un cargo de dirección o administrativo en la institución o en el grupo financiero al que, en su caso, pertenezca la propia institución, durante el año anterior al momento en que se pretenda hacer su designación.
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El consejo deberá reunirse por lo menos trimestralmente y de manera adicional, cuando sea convocado por el Presidente del consejo, al menos una cuarta parte de los consejeros, o cualquiera de los comisarios de la institución. Para la celebración de las sesiones ordinarias y extraordinarias del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos uno deberá ser consejero independiente.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+En el caso de las instituciones de banca múltiple Filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad, directa o indirectamente, de una Institución Financiera del Exterior o una Sociedad Controladora Filial, podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco, debiendo observarse lo señalado por los párrafos primero, tercero y cuarto del presente artículo.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+En el caso de las instituciones de banca múltiple Filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad, directa o indirectamente, de una Institución Financiera del Exterior o una Sociedad Controladora Filial, podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco.
+
+La mayoría de los consejeros de una Filial deberá residir en territorio nacional.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 45-N.
+
+Respecto de las Filiales, la Comisión Nacional Bancaria y de Valores tendrá todas las facultades que le atribuye la presente Ley en relación con las instituciones de banca múltiple. Cuando las autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Filial o de una Sociedad Controladora Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a la propia Comisión. A discreción de la misma, las visitas podrán hacerse por su conducto o sin que medie su participación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
+I. Descripción del acto de inspección a ser realizado; y
+
+II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+A solicitud de la Comisión Nacional Bancaria y de Valores, las autoridades que realicen la inspección deberán presentarle un informe de los resultados obtenidos.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 49.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o las instituciones de crédito, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia en materia de comisiones o tarifas, respecto de operaciones activas, pasivas y de servicios de las citadas instituciones de crédito.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
+
+Al efecto, el Banco de México podrá también actuar de oficio, y deberá solicitar en un plazo no mayor a 60 días naturales la opinión de la Comisión Federal de Competencia para que ésta, en términos de la Ley que la rige, determine entre otros aspectos, si existe o no competencia efectiva y los mercados relevantes respectivos.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
+
+Con base en la opinión de la citada comisión, el Banco de México, en su caso, tomará las medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas comisiones y tarifas, así como mecanismos de ajuste y periodos de vigencia.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
+
+El Banco de México o las entidades sujetas a dicha regulación, podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la subsistencia de las condiciones que motivaron la regulación.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
+
+Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
+
+Lo dispuesto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de esta Ley, así como las previstas en la Ley de Banco de México respecto a comisiones y tarifas.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 85 Bis.
+
+Para poder actuar como fiduciarias de los fideicomisos de garantía, las instituciones a que se refieren las fracciones II, III, IV y VI del artículo 395 de la Ley General de Títulos y Operaciones de Crédito deberán contar con el capital mínimo adicional que, para este efecto, determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, previa opinión de las Comisiones Nacionales Bancaria y de Valores y de Seguros y Fianzas, según corresponda en virtud de la institución de que se trate, así como con la autorización que otorgará discrecionalmente el Gobierno Federal, a través de dicha Secretaría.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(DEROGADO SEGUNDO PARRADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las sociedades a que se refieren las fracciones II, III, IV y VI del artículo 395 de la Ley General de Títulos y Operaciones de Crédito deberán administrar las operaciones de fideicomiso objeto de dicho artículo en los términos que, para las instituciones de crédito, señalan los artículos 79 y 80 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 103.
+
+Ninguna persona física o moral, podrá captar directa o indirectamente recursos del público en territorio nacional, mediante la celebración de operaciones de depósito, préstamo, crédito, mutuo o cualquier otro acto causante de pasivo directo o contingente, quedando obligado a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
+
+Se exceptúa de lo dispuesto en el párrafo anterior a:
+
+I. Las instituciones de crédito reguladas en la presente Ley, así como a los demás intermediarios financieros debidamente autorizados conforme a los ordenamientos legales aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores colocados mediante oferta pública, respecto de los recursos provenientes de dicha colocación, y
+
+III. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+IV. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+Los emisores a que se refiere la fracción II, que utilicen los recursos provenientes de la colocación para otorgar crédito, deberán ajustarse a las disposiciones de carácter general que, en su caso, expida la Comisión Nacional Bancaria y de Valores en materia de información financiera, administrativa, económica, contable y legal, que deberán dar a conocer al público en los términos de la Ley del Mercado de Valores.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 115.
+
+En los casos previstos en los artículos 111 al 114 de esta ley, se procederá a petición de la Secretaría de Hacienda y Crédito Público, quien escuchará la opinión de la Comisión Nacional Bancaria y de Valores; también se procederá a petición de la institución de crédito de que se trate, o de quien tenga interés jurídico.
+
+Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las instituciones de crédito, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre:
+
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
+
+b. Todo acto, operación o servicio, que realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bancarias que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las instituciones de crédito deberán observar respecto de:
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+b. La información y documentación que dichas instituciones deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+c. La forma en que las mismas instituciones deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+d. Los términos para proporcionar capacitación al interior de las instituciones sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las instituciones de crédito deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional Bancaria y de Valores, a las instituciones de crédito, quienes estarán obligadas a entregar información y documentación relacionada con los actos, operaciones y servicios a que se refiere este artículo. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en los artículos 117 y 118 de esta Ley.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las instituciones de crédito, así como por los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan..
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional Bancaria y de Valores conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las mencionadas multas podrán ser impuestas, tanto a las instituciones de crédito, así como a los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados respectivos, y a las personas físicas y morales que, en razón de sus actos, ocasionen o intervengan para que dichas instituciones de crédito incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión Nacional Bancaria y de Valores, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 25 de esta Ley.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, las instituciones de crédito, sus miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+
+###### ARTICULO 116.
+
+Para la imposición de las sanciones y multas previstas en el presente Capítulo y en el II de este Título, respectivamente, se considerará el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción o delito de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial, previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
