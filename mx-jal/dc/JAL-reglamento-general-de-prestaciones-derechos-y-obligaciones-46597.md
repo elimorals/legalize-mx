@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-prestaciones-derechos-y-obligaciones-4659
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-06"
-last_updated: "2005-10-06"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO GENERAL DE PRESTACIONES, DERECHOS Y OBLIGACIONES DE AFILIADOS Y PENSIONADOS DE LA DIRECCION DE PENSIONES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 6 de octubre de 2005.
 
@@ -3289,6 +3289,376 @@ Sólo podrán cotejarse copias de documentos cuando puedan compulsarse directame
 
 La información pública que obre en documentos históricos será de libre acceso; sin embargo, los solicitantes deberán acatar las disposiciones que establezca la Institución con relación al manejo y cuidado de estos, de acuerdo a las disposiciones de la Ley que Regula la Administración de Documentos Públicos e Históricos del Estado de Jalisco.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+## TÍTULO X. DEL USO DE INSTALACIONES DEPORTIVAS
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 340.
+
+El presente Título tiene como finalidades:
+
+I. Establecer los derechos y obligaciones de los usuarios de instalaciones deportivas de la Institución;
+
+II. Promover la práctica del deporte entre los afiliados y pensionados de la Institución, y
+
+III. Regular el adecuado uso y conservación de la infraestructura deportiva institucional; (sic)
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 341.
+
+Para los efectos del presente Título se entenderá por:
+
+I. Institución, el Organismo Público Descentralizado Dirección de Pensiones del Estado;
+
+II. Consejo Directivo, el Consejo Directivo de la Dirección de Pensiones del Estado;
+
+III. Título, el presente Título;
+
+IV. Instalaciones Deportivas, los espacios y edificios destinados a la práctica de actividades físico-deportivas propiedad de la Institución, así como los bienes muebles incorporados a cualquiera de ellos;
+
+V. Actividades Deportivas, las diversas formas de deporte reconocidas y practicadas socialmente, con reconocimiento o sin el por parte de las federaciones y organizaciones locales, nacionales o internacionales;
+
+VI. Usuario, la persona que se inscriba al servicio de uso de instalaciones Deportivas de la Institución;
+
+VII. Usuario Interno, la persona que siendo afiliado o pensionado de la Institución se inscriba al servicio de uso de Instalaciones Deportivas;
+
+VIII. Usuario Externo, la persona que sin ser afiliado o pensionado de la Institución se inscriba al servicio de uso de Instalaciones Deportivas, y
+
+IX. Familiar Dependiente, la persona que por su parentesco con un usuario y pago de las cuotas correspondientes, es admitida para su ingreso y uso de las Instalaciones Deportivas.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 342.
+
+El presente Título será aplicable en todas las instalaciones deportivas actuales o futuras con que cuente la Institución.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 343.
+
+La vigilancia del cumplimiento de las disposiciones del presente Título quedará a cargo de la Dirección de Administración y Servicios, por conducto del funcionario que ésta designe.
+
+El inventario y mantenimiento de instalaciones deportivas corresponde a la Dirección de Administración y Servicios.
+
+La Dirección General será competente para el establecimiento y aprobación de las políticas y procedimientos necesarios para dar cumplimiento a las disposiciones del presente Título, con facultades para firmar los contratos, y otros instrumentos de inscripción para el uso de instalaciones deportivas.
+
+La Coordinación o Jefatura que tenga a su cargo la Administración de Instalaciones Deportivas podrá suscribir los contratos de inscripción a las mismas, sujetándose a las políticas dictadas por la Dirección General, y utilizando en todo caso los formatos formulados y aprobados por la Dirección Jurídica.
+
+Si con motivo de reformas organizacionales, cambiara alguna o algunas de las direcciones a las que se refiere el presente artículo, las funciones se entenderán conferidas a la unidad administrativa que la sustituya.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 344.
+
+En caso de duda, debidamente planteada ante la Dirección Jurídica, sobre la interpretación de las disposiciones contenidas en el presente ordenamiento, se estará a lo que determine el Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+### CAPÍTULO II. De los usuarios
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 345.
+
+Podrán ser usuarios de las Instalaciones Deportivas:
+
+I. Los afiliados de la Institución, bajo el régimen obligatorio o voluntario, siempre que se encuentren al corriente en el pago de sus aportaciones y cumplan los requisitos que establece este Título.
+
+II. Los pensionados de la Institución, que cumplan los requisitos establecidos en el presente Título.
+
+III. Las personas distintas a las señaladas anteriormente que individual o colectivamente se inscriban, cumplan los requisitos establecidos en este Título y paguen oportunamente las cuotas de inscripción y mantenimiento según el tabulador autorizado.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 346.
+
+La inscripción para el uso de Instalaciones Deportivas se efectuará una vez que el solicitante cumpla los siguientes requisitos:
+
+I. Tener una antigüedad mínima de cotización de seis meses;
+
+II. Presentar solicitud por escrito, debidamente firmada, en la cual manifieste su voluntad de ser usuario de las Instalaciones Deportivas y sujetarse al presente Título, y
+
+III. Realizar el pago de cuota de recuperación para mantenimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 347.
+
+La inscripción de pensionados de la Institución para el uso de Instalaciones Deportivas se realizará cuando el solicitante cumpla los siguientes requisitos:
+
+I. Presentar solicitud por escrito, debidamente firmada, en la cual manifieste su voluntad de ser usuario de las Instalaciones Deportivas y sujetarse al presente Título, y
+
+II. Realizar el pago de cuota de recuperación para mantenimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 348.
+
+Los afiliados y pensionados podrán solicitar así mismo la inscripción como usuarios a los familiares dependientes.
+
+Por cada familiar inscrito se pagará una sobrecuota de mantenimiento, por evento u ocasión de uso de instalaciones, conforme a la tarifa que se autorice para tal fin el Consejo Directivo.
+
+Para los efectos de inscripción de los familiares a que se refiere el párrafo anterior se requerirán al afiliado o pensionado los documentos en que conste el parentesco y los que resulten procedentes para corroborar la identidad de la persona.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 349.
+
+Las tarifas que fijen las cuotas y sobrecuotas de mantenimiento para afiliados y pensionados deberán ser por montos inferiores a las de mercado; considerando el equilibrio entre los ingresos del usuario y los gastos de conservación y mantenimiento de las instalaciones deportivas.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 350.
+
+También podrán ser usuarios externos de las instalaciones deportivas quienes de forma individual o colectiva se inscriban al servicio regulado por este Título.
+
+Para su inscripción los usuarios externos tendrán que celebrar contrato por escrito en el que se especifiquen las condiciones de la membresía, que deberán ser apegadas a lo establecido en este Título.
+
+Los usuarios externos pagarán dos tipos de cuotas:
+
+I. Por inscripción, al celebrar el contrato, y
+
+II. De mantenimiento.
+
+Las cuotas para usuarios externos deberán ser análogas a las de mercado, procurando con ello que el uso de Instalaciones Deportivas sea autofinanciable y que la calidad de su servicio se mantenga.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 351.
+
+Las cuotas se pagarán con toda oportunidad, pudiendo establecerse los siguientes esquemas de pago:
+
+I. Por evento, y
+
+II. Por período.
+
+El esquema de pago correspondiente se hará constar en el documento de inscripción del usuario.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 352.
+
+Los usuarios deberán de gozar de un estado adecuado de salud con respecto a las actividades deportivas que practiquen. Para tal fin, previamente a su incorporación todo usuario interno o externo deberá presentar declaración firmada bajo protesta de decir verdad que se encuentra libre de enfermedades contagiosas y de padecimientos que hagan riesgosa la práctica del deporte, para él usuario, sus oponentes y terceros.
+
+Cuando la Institución lo valore pertinente, por la peligrosidad implícita en alguna actividad deportiva, podrá exigir al usuario que presente el certificado médico correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 353.
+
+Causarán baja los usuarios:
+
+I. Por petición expresa y por escrito de los mismos;
+
+II. Por retraso, mora o incumplimiento en el pago de más de tres cuotas;
+
+III. Por violación comprobada de las disposiciones establecidas en el presente Título, por parte del usuario o de sus familiares dependientes que asistan a las Instalaciones Deportivas;
+
+IV. Por determinación de la Institución, cuando el Consejo Directivo considere necesario reducir el número de usuarios o suprimir el funcionamiento de una o varias de las Instalaciones Deportivas destinadas a la prestación del servicio a que se refiere este Título.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 354.
+
+La baja de los usuarios por cualquiera de las causas a que hace alusión el artículo anterior dará lugar a que se niegue el acceso a las Instalaciones Deportivas de la Institución.
+
+La baja de los usuarios que tuvieren cuotas adelantadas no producirá la devolución de las mismas, salvo cuando hubiere sido por determinación de la Institución en los términos del artículo 353, fracción IV, de este Título.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 355.
+
+Cuando un usuario hubiere sido dado de baja por causa imputable a éste o a sus familiares dependientes que acudan a las Instalaciones Deportivas, no podrá ser inscrito de nueva cuenta durante el lapso que disciplinariamente se fije por la Dirección General según la gravedad de la infracción. Para tal fin se establecerá el registro y control correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 356.
+
+Independientemente de la baja, la Institución podrá expulsar coercitivamente de las instalaciones de forma inmediata a los usuarios y sus familiares dependientes, cuando éstos incurran en:
+
+I. Actos contra la convivencia pacífica, lo que incluye entre otros supuestos, el apoderamiento de objetos sin consentimiento de su propietario, las riñas y demás conductas análogas;
+
+II. Atentado contra los bienes de la Institución o la vida o integridad física de las personas;
+
+III. Exhibicionismo obsceno o prácticas erótico sexuales de carácter explícito;
+
+IV. Introducir bebidas embriagantes y sustancias psicotrópicas;
+
+V. En general cualquier acto que presumiblemente pueda ser constitutivo de delito.
+
+La expulsión será acompañada de la denuncia ante las autoridades competentes en los casos en que se presuma la posible comisión o tentativa de delito.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+### CAPÍTULO III. Del uso de las Instalaciones Deportivas
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 357.
+
+Se consideran Instalaciones Deportivas:
+
+I. Los inmuebles de la Institución destinados a la práctica del deporte, del ejercicio físico y de disciplinas análogas, que tengan como finalidades la competición, el esparcimiento o el desarrollo físico;
+
+II. Los bienes muebles adheridos a los inmuebles, y que formen parte del equipamiento de los mismos, y
+
+III. Los bienes muebles que sirvan para la práctica del deporte, del ejercicio físico y de disciplinas análogas, que tengan como finalidades la competición, el esparcimiento o el desarrollo físico, siempre que sean propiedad de la Institución.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 358.
+
+La Institución en caso de contar con dos o más unidades deportivas, podrá establecer sistemas de membresía específicos para el uso de una sola de ellos; o para el beneficio de inscripción a dos o más en combinación. La Dirección General fijará las políticas en esta materia.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 359.
+
+Para su ingreso a las Instalaciones Deportivas los usuarios y sus familiares dependientes deberán identificarse debidamente, por los medios que la Institución determine por conducto de la Dirección de (sic) Administrativa y de Servicios determine (sic); pudiendo implementarse credenciales, gafetes, medios electrónicos o antropométricos.
+
+Se podrá establecer una cuota de recuperación por la expedición de credencial o reposición, que sirva exclusivamente para cubrir los gastos que el trámite origina.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 360.
+
+El ingreso a las Instalaciones Deportivas y a sus diferentes servicios y componentes se deberá realizar en el horario autorizado para tal fin, conforme lo establezca la Dirección Administrativa y de Servicios.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 361.
+
+Queda estrictamente prohibido a los usuarios y sus familiares dependientes ingresar en las Instalaciones Deportivas los siguientes objetos y sustancias:
+
+I. Sustancias, materiales o residuos inflamables, reactivos, explosivos, tóxicos o infecciosos;
+
+II. Armas blancas o de fuego, salvo que tratándose de competiciones de tiro o esgrima, así lo autorice la Institución, siempre que se cuente con los permisos respectivos;
+
+III. Objetos de cristal, bastones metálicos, herramientas y otros objetos contundentes o cortantes que presumiblemente puedan utilizarse como armas, y
+
+IV. Drogas, solventes, alcohol o bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 362.
+
+Será restringido a los usuarios y sus familiares dependientes el ingreso, en las Instalaciones Deportivas, de los siguientes bienes muebles o semovientes:
+
+I. Bicicletas, patines, patinetas, motocicletas y otros objetos análogos;
+
+II. Perros, gatos y mascotas en general;
+
+III. Caballos y otros animales de monta o tiro;
+
+Los anteriores objetos por regla general no podrán ser ingresados a las Instalaciones Deportivas, y en ningún caso podrán ser introducidos en las canchas o pistas para la práctica de actividades deportivas.
+
+Los perros, gatos y mascotas en general solo podrán ser introducidos en el caso de eventos de concurso de la especie animal a la que pertenezcan. Los caballos solo podrán ingresar en el supuesto de concursos hípicos.
+
+Las bicicletas, patines y patinetas, podrán ser ingresados cuando en las Instalaciones Deportivas existan pistas de ciclismo o patinaje que permitan el adecuado uso de dichos implementos.
+
+Queda prohibida toda actividad comercial entre usuarios.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 363.
+
+Los usuarios y sus familiares dependientes que asistan a las Instalaciones Deportivas deberán hacer uso de las mismas, y de sus accesorios, tales como baños y otros servicios, conforme a las condiciones normativas establecidas para el deporte de que se trate.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 364.
+
+Las canchas o pistas de las Instalaciones Deportivas deberán ser usadas conforme a las reglas del deporte al que corresponda, evitando el mal uso o maltrato de las Instalaciones Deportivas y equipo de la Institución.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 365.
+
+La ropa deportiva que en su caso se utilice, deberá cumplir con las normas de decoro y utilidad generalmente aceptadas en el ámbito de tiempo y espacio de que se trate.
+
+Los usuarios y sus familiares dependientes serán directamente responsables de la calidad, seguridad y buen estado de su ropa y equipo deportivo.
+
+La Institución no se responsabiliza por ningún tipo de accidente derivado de la práctica de deportes en sus instalaciones, ni por eventos que sobrevengan motivados por la falta de adecuado estado de salud de los participantes en un juego o actividad.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 366.
+
+Los usuarios y sus familiares dependientes deberán guardar entre sí y con respecto a los empleados de la Institución, las reglas de buen trato y cortesía usuales para la debida convivencia social.
+
+La Institución no se responsabiliza por lesiones o daños causados con motivo de riñas derivadas de la práctica de algún deporte o actividad.
+
+La iniciación o participación en riñas dará lugar a la baja de los usuarios, con prohibición de reingreso en el lapso al que alude este Título.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 367.
+
+El uso de albercas se sujetará a los lineamientos concretos para el tipo de instalación de que se trate, que defina la Dirección General por conducto de la Dirección Administrativa y de Servicios; y en particular a las siguientes reglas:
+
+I. Todo usuario de albercas deberá someterse a baño previo a la inmersión en albercas; y preferentemente deberá realizar el mismo proceso al salir del área de que se trata;
+
+II. Las personas que lleven calzado, salvo el caso de sandalias de baño, deberán permanecer a una distancia de por lo menos tres metros del borde de las albercas;
+
+III. Se prohíbe la ingestión de alimentos y bebidas en las albercas;
+
+IV. No podrán arrojarse objetos al agua, salvo los utilizados como implementos o auxiliares de la natación, y
+
+V. El acceso a las albercas y la subida a trampolines y plataformas se podrán restringir a los menores de edad.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 368.
+
+La utilización del sauna o vapor quedará sujeta a los lineamientos específicos para el tipo de instalación que defina la Dirección Administrativa y de Servicios, quedando prohibido, el ingreso a más de una persona por metro cuadrado del tipo de baño del que se trate.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 369.
+
+Las Instalaciones Deportivas podrán contar con servicio de cafetería o fuente de sodas, el cual se deberá administrar:
+
+I. Directamente por la Institución, ó
+
+II. De manera subrogada por particulares, siempre que así se autorice con sujeción a la normativa de la materia.
+
+El horario de funcionamiento de este servicio será el que determine la Dirección de (sic) Administrativa y de Servicios, y en su caso, se deberá incluir en el contrato de subrogación que se celebre.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 370.
+
+El servicio de cafetería o fuente de sodas deberá sujetarse a las buenas prácticas de preparación y manejo de alimentos establecidas por la autoridad sanitaria.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+###### Artículo 371.
+
+Las Instalaciones de Club Social o Salón de Eventos que se encuentren integradas, incorporadas o conexas a Instalaciones Deportivas podrán ser objeto de uso temporal, por parte de los usuarios, usuarios internos o usuarios externos y sus familiares dependientes, con sujeción a las siguientes disposiciones:
+
+I. El uso del Club Social o Salón de Eventos será preferentemente para reuniones familiares o sociales, tales como fiestas infantiles y otros eventos análogos, sin que se permita el ingreso de bebidas alcohólicas, drogas o armas;
+
+II. La autorización para su uso deberá ser solicitada con cuando menos quince días de anticipación, ante el funcionario responsable de la Dirección de Administración y Servicios;
+
+III. Por el uso de Club Social o Salón de Eventos se pagará anticipadamente la cuota de recuperación establecida;
+
+IV. En caso de cancelación, se perderá por costo de oportunidad el 50% del pago anticipado de cuota de recuperación;
+
+V. Cuando se hubiere otorgado autorización para el uso de Instalaciones de Club Social o Salón de Eventos, sólo podrán ingresar a éste las personas que cuenten con boleto o invitación debidamente autenticadas, mediante firma o sello;
+
+VI. El uso de muebles e inmuebles será conforme a su naturaleza, y en los horarios y condiciones que se establezcan para cada caso, acorde al tipo de evento, evitando toda molestia por ruido excesivo, humo u otra clase de emisiones, al resto de los usuarios de las Instalaciones Deportivas;
+
+VII. El afiliado a quien se concediere el uso es responsable de la conservación y buen uso de los muebles que formen parte del equipamiento del Club Social o Salón de Eventos, hasta su entrega al responsable del local;
+
+VIII. En caso de daños causados por los usuarios, usuarios internos o usuarios externos, sus familiares dependientes o invitados en general, se procederá a requerirlo, judicial o extrajudicialmente, por el pago de los mismos.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Reglamento General entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
@@ -3312,3 +3682,13 @@ SE EXTIENDE LA PRESENTE CONSTANCIA EN LA CIUDAD DE GUADALAJARA, JALISCO, A LOS 5
 LIC. GUSTAVO ROMERO MORA
 
 SECRETARIO DEL CONSEJO DIRECTIVO DE LA DIRECCIÓN DE PENSIONES DEL ESTADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2006.
+
+PRIMERO.- El presente Título deroga todas las disposiciones reglamentarias o acuerdos administrativos expedidos con anterioridad por el Consejo Directivo en lo que se opongan a las disposiciones de este ordenamiento.
+
+SEGUNDO.- El presente Título entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco". Los contratos celebrados con anterioridad a su vigencia, se regirán por las disposiciones bajo las cuales fueron suscritos.
+
+TERCERO.- Comuníquese el presente acuerdo a todas las áreas de la Institución que deban conocerlo, para su debida aplicación y cumplimiento.
