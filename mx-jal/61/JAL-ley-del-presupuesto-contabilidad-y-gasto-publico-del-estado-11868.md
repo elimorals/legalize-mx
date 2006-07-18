@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2005-02-24"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2006.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -349,9 +349,9 @@ II. Materiales y Suministros;
 
 III. Servicios Generales;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2006)</small>
 
-IV. Transferencias y subsidios;
+IV. Transferencias, Subsidios y Subvenciones;
 
 V. Bienes Muebles e Inmuebles;
 
@@ -361,7 +361,9 @@ VI. Inversión Pública del Estado;
 
 VII. Inversiones Financieras;
 
-VIII. Erogaciones Extraordinarias; y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2006)</small>
+
+VIII. Participaciones y aportaciones a municipios; y
 
 IX. Deuda Pública.
 
@@ -1000,5 +1002,9 @@ P.O. 18 DE SEPTIEMBRE DE 2004.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 24 DE FEBRERO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
