@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2001-06-04"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -174,11 +174,11 @@ g) Casas de cambio;
 
 h) Almacenes generales de depósito;
 
-i) Arrendadoras financieras;
+i) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-j) Empresas de factoraje financiero;
+j) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-k) Sociedades financieras de objeto limitado;
+k) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 l) Sociedades a las que se refiere el artículo 12-Bis de la Ley del Mercado de Valores;
 
@@ -711,3 +711,9 @@ PRIMERO. El presente Decreto por el que se expide la Ley de Sociedades de Invers
 ....
 
 SEGUNDO. A la entrada en vigor de este Decreto ..., y se derogan los incisos m) y n) del artículo 7 de la Ley de Inversión Extranjera.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+DÉCIMO PRIMERO.- Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
