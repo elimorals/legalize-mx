@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "2003-06-13"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -3222,11 +3222,15 @@ III.- Instituciones de fianzas;
 
 IV.- Casas de bolsa;
 
-V.- Sociedades financieras de objeto limitado, y
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+
+V.- Sociedades financieras de objeto múltiple a que se refiere el artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y
 
 VI.- Almacenes generales de depósito.
 
-En estos fideicomisos, las instituciones fiduciarias se sujetarán a lo que dispone el artículo 85 Bis de la Ley de Instituciones de Crédito.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Las instituciones fiduciarias a que se refieren las fracciones II a IV y VI de este artículo, se sujetarán a lo que dispone el artículo 85 Bis de la Ley de Instituciones de Crédito.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -3352,33 +3356,235 @@ Si dicho monto excede de esta cantidad, pero no de diez mil, la prisión será d
 
 El fideicomiso de garantía se regirá por lo dispuesto en esta sección y, sólo en lo que no se oponga a ésta, en la sección primera anterior.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 18 DE JULIO DE 2006)</small>
+
+### CAPITULO VI. Del arrendamiento financiero
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 408.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+Por virtud del contrato de arrendamiento financiero, el arrendador se obliga a adquirir determinados bienes y a conceder su uso o goce temporal, a plazo forzoso, al arrendatario, quien podrá ser persona física o moral, obligándose este último a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad en dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios que se estipulen, y adoptar al vencimiento del contrato alguna de las opciones terminales a que se refiere el artículo 410 de esta Ley.
+
+Los contratos de arrendamiento financiero deberán otorgarse por escrito y podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, sin perjuicio de hacerlo en otros Registros que las leyes determinen.
+
+En los contratos de arrendamiento financiero en los que se convenga la entrega de anticipos, por parte del arrendador, a los proveedores, fabricantes o constructores de los bienes objeto de dichos contratos que, por su naturaleza, ubicación o proceso de producción, no sean entregados en el momento en que se pague su precio o parte del mismo, el arrendatario quedará obligado a pagar al arrendador una cantidad de dinero, determinada o determinable, que cubrirá únicamente el valor de las cargas financieras y demás accesorios de los anticipos hasta en tanto se entregue el bien de que se trate, condición que deberá estar contenida en el contrato de arrendamiento financiero.
+
+En el supuesto señalado en el párrafo anterior, las partes deberán convenir el plazo durante el cual se entregarán los anticipos, después del cual el arrendatario deberá cubrirlos en el arrendamiento financiero con las características y condiciones pactadas en el contrato correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 409.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+El o los pagarés que el arrendatario otorgue a la orden del arrendador, por el importe total del precio pactado, por concepto de renta global, no podrán tener un vencimiento posterior al plazo del arrendamiento financiero y deberá hacerse constar en tales documentos su procedencia de manera que queden suficientemente identificados. La transmisión de esos títulos, implica en todo caso el traspaso de la parte correspondiente de los derechos derivados del contrato de arrendamiento financiero y demás derechos accesorios en la proporción que correspondan.
+
+La suscripción y entrega de estos títulos de crédito, no se considerarán como pago de la contraprestación ni de sus parcialidades.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 410.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+Al concluir el plazo del vencimiento del contrato o cuando las partes acuerden su vencimiento anticipado y una vez que se hayan cumplido todas las obligaciones, el arrendatario deberá adoptar alguna de las siguientes opciones terminales:
+
+I. La compra de los bienes a un precio inferior a su valor de adquisición, que quedará fijado en el contrato. En caso de que no se haya fijado, el precio debe ser inferior al valor de mercado a la fecha de compra, conforme a las bases que se establezcan en el contrato;
+
+II. A prorrogar el plazo para continuar con el uso o goce temporal, pagando una renta inferior a los pagos periódicos que venía haciendo, conforme a las bases que se establezcan en el contrato; y
+
+III. A participar con el arrendador en el precio de la venta de los bienes a un tercero, en las proporciones y términos que se convengan en el contrato.
+
+Cuando en el contrato se convenga la obligación del arrendatario de adoptar, de antemano, alguna de las opciones antes señaladas, éste será responsable de los daños y perjuicios en caso de incumplimiento. El arrendador no podrá oponerse al ejercicio de dicha opción.
+
+Si en los términos del contrato, queda el arrendatario facultado para adoptar la opción terminal al finalizar el plazo obligatorio, éste deberá notificar por escrito al arrendador, por lo menos con un mes de anticipación al vencimiento del contrato, cuál de ellas va a adoptar, respondiendo de los daños y perjuicios en caso de omisión, con independencia de lo que se convenga en el contrato.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 411.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+En los contratos de arrendamiento financiero en los que se estipule que la entrega material de los bienes sea realizada directamente al arrendatario por el proveedor, fabricante o constructor, en las fechas previamente convenidas, el arrendatario quedará obligado a entregar constancia del recibo de los bienes al arrendador. Salvo pacto en contrario, la obligación de pago del precio del arrendamiento financiero se inicia a partir de la firma del contrato, aunque no se haya hecho la entrega material de los bienes objeto del arrendamiento.
+
+En los casos a que se refiere el párrafo anterior, el arrendador estará obligado a entregar al arrendatario los documentos necesarios para que el mismo quede legitimado a fin de recibirlos directamente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 412.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+Salvo pacto en contrario, el arrendatario queda obligado a conservar los bienes en el estado que permita el uso normal que les corresponda, a dar el mantenimiento necesario para este propósito y, consecuentemente, a hacer por su cuenta las reparaciones que se requieran, así como a adquirir las refacciones e implementos necesarios, según se convenga en el contrato. Dichas refacciones, implementos y bienes que se adicionen a los que sean objeto del arrendamiento financiero, se considerarán incorporados a éstos y, consecuentemente, sujetos a los términos del contrato.
+
+El arrendatario debe servirse de los bienes solamente para el uso convenido, o conforme a la naturaleza y destino de éstos, siendo responsable de los daños que los bienes sufran por darles otro uso, o por su culpa o negligencia, o la de sus empleados o terceros.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 413.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+El arrendatario deberá seleccionar al proveedor, fabricante o constructor y autorizar los términos, condiciones y especificaciones que se contengan en el pedido u orden de compra, identificando y describiendo los bienes que se adquirirán.
+
+El arrendador no será responsable de error u omisión en la descripción de los bienes objeto del arrendamiento contenida en el pedido u orden de compra. La firma del arrendatario en cualquiera de estos últimos documentos implica, entre otros efectos, su conformidad con los términos, condiciones, descripciones y especificaciones, ahí consignados.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 414.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
+Salvo pacto en contrario, son a riesgo del arrendatario:
+
+I. Los vicios o defectos ocultos de los bienes que impidan su uso parcial o total. En este caso, el arrendador transmitirá al arrendatario los derechos que como comprador tenga, para que éste los ejercite en contra del vendedor, o lo legitimará para que el arrendatario en su representación ejercite dichos derechos;
+
+II. La pérdida parcial o total de los bienes, aunque ésta se realice por causa de fuerza mayor o caso fortuito; y
+
+III. En general, todos los riesgos, pérdidas, robos, destrucción o daños que sufrieren los bienes dados en arrendamiento financiero.
+
+Frente a las eventualidades señaladas, el arrendatario no queda liberado del pago de la contraprestación, debiendo cubrirla en la forma que se haya convenido en el contrato.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 415.
+
+En casos de despojo, perturbación o cualquier acto de terceros, que afecten el uso o goce de los bienes, la posesión de los mismos o bien la propiedad, el arrendatario tiene la obligación de realizar las acciones que correspondan para recuperar los bienes o defender el uso o goce de los mismos. Igualmente, estará obligado a ejercer las defensas que procedan, cuando medie cualquier acto o resolución de autoridad que afecten la posesión o la propiedad de los bienes.
+
+Cuando ocurra alguna de estas eventualidades, el arrendatario debe notificarlo al arrendador, a más tardar el tercer día hábil siguiente al que tenga conocimiento de esas eventualidades, siendo responsable de los daños y perjuicios, si hubiese omisión. El arrendador, en caso de que no se efectúen o no se ejerciten adecuadamente las acciones o defensas, o por convenir así a sus intereses, podrá ejercitar directamente dichas acciones o defensas, sin perjuicio de las que realice el arrendatario.
+
+El arrendador estará obligado a legitimar al arrendatario para que, en su representación, ejercite dichas acciones o defensas, cuando ello sea necesario.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 416.
+
+El arrendador, para solicitar en la demanda o durante el juicio la posesión de los bienes objeto del arrendamiento financiero, al ser exigible la obligación y ante el incumplimiento del arrendatario de las obligaciones consignadas en el contrato, deberá acompañar el contrato correspondiente debidamente ratificado ante fedatario público. Una vez decretada la posesión, el arrendador quedará facultado a dar los bienes en arrendamiento financiero a terceros o a disponer de ellos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 417.
+
+El seguro o garantía que llegue a convenirse en los contratos de arrendamiento financiero deberá cubrir, en los términos que se pacte, por lo menos, los riesgos de construcción, transportación, recepción e instalación, según la naturaleza de los bienes, los daños o pérdidas de los propios bienes, con motivo de su posesión y uso, así como las responsabilidades civiles y profesionales de cualquier naturaleza, susceptibles de causarse en virtud de la explotación o goce de los propios bienes, cuando se trate de bienes que puedan causar daños a terceros, en sus personas o en sus propiedades.
+
+En los contratos o documentos en que conste la garantía deberá señalarse como primer beneficiario al arrendador, a fin de que, en primer lugar, con el importe de las indemnizaciones se cubran a éste los saldos pendientes de la obligación concertada, o las responsabilidades a que queda obligado como propietario de los bienes. Si el importe de las indemnizaciones pagadas no cubre dichos saldos o responsabilidades, el arrendatario queda obligado al pago de los faltantes.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 418.
+
+Las primas y los gastos del seguro serán por cuenta del arrendatario, incluso cuando el arrendador proceda a contratar los seguros a que se refiere el artículo anterior si es el caso de que habiéndose pactado que el seguro deba ser contratado por el arrendatario y éste no realizara la contratación respectiva dentro de los tres días siguientes a la celebración del contrato. Lo anterior, sin perjuicio de que contractualmente esta omisión se considere como causa de rescisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 18 DE JULIO DE 2006)</small>
+
+### CAPITULO VII. Del Factoraje Financiero
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 419.
+
+Por virtud del contrato de factoraje, el factorante conviene con el factorado, quien podrá ser persona física o moral, en adquirir derechos de crédito que este último tenga a su favor por un precio determinado o determinable, en moneda nacional o extranjera, independientemente de la fecha y la forma en que se pague, siendo posible pactar cualquiera de las modalidades siguientes:
+
+I. Que el factorado no quede obligado a responder por el pago de los derechos de crédito transmitidos al factorante; o
+
+II. Que el factorado quede obligado solidariamente con el deudor, a responder del pago puntual y oportuno de los derechos de crédito transmitidos al factorante.
+
+La administración y cobranza de los derechos de crédito, objeto de los contratos de factoraje, deberá ser realizada por el factorante o por un tercero a quien éste le haya delegado la misma, en términos del artículo 430.
+
+Todos los derechos de crédito pueden transmitirse a través de un contrato de factoraje financiero, sin el consentimiento del deudor, a menos que la transmisión esté prohibida por la ley, no lo permita la naturaleza del derecho o en los documentos en los que consten los derechos que se van a adquirir se haya convenido expresamente que no pueden ser objeto de una operación de factoraje.
+
+El deudor no puede alegar contra el tercero que el derecho no podía transmitirse mediante contrato de factoraje financiero porque así se había convenido, cuando ese convenio no conste en el título constitutivo del derecho.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 420.
+
+El factorante, al celebrar contratos con los deudores de derechos de crédito constituidos a favor de proveedores de bienes o servicios, deberá estipular expresamente si se comprometerá a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
+
+Tratándose de contratos de promesa de factoraje en los que se convenga la entrega de anticipos al factorado, éste quedará obligado a pagar una cantidad de dinero determinada o determinable que cubrirá conforme a lo estipulado el valor de las cargas financieras y demás accesorios de los anticipos hasta en tanto se transmitan los derechos de crédito mediante la celebración del contrato de factoraje correspondiente, condición que deberá estar contenida en el contrato de promesa de factoraje financiero. En este supuesto deberá convenirse el plazo de los anticipos, después del cual deberá otorgarse el contrato de factoraje financiero.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 421.
+
+Podrán ser objeto del contrato de factoraje, cualquier derecho de crédito denominado en moneda nacional o extranjera que se encuentren documentados en facturas, contrarrecibos, títulos de crédito, mensajes de datos, en los términos del Título Segundo del Libro Segundo del Código de Comercio, o cualesquier otros documentos, que acrediten la existencia de dichos derechos de crédito.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 422.
+
+Los factorados estarán obligados a garantizar la existencia y legitimidad de los derechos de crédito objeto del contrato de factoraje, al tiempo de celebrarse el contrato, independientemente de la obligación que, en su caso, contraigan conforme a la fracción II del artículo 419 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 423.
+
+Los factorados responderán del detrimento en el valor de los derechos de crédito objeto de los contratos de factoraje financiero, que sean consecuencia del acto jurídico que les dio origen, salvo los que estén documentados en títulos de crédito y aún cuando el contrato de factoraje se haya celebrado en términos de la fracción I del artículo 419.
+
+Si del acto jurídico que dio origen a los derechos de crédito se derivan devoluciones, los bienes correspondientes se entregarán al factorado, salvo pacto en contrario.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 424.
+
+Solo en las operaciones de factoraje financiero a que se refiere la fracción II del artículo 419, los factorados podrán suscribir a la orden del factorante pagarés por el importe total de las obligaciones asumidas por ellos, en cuyo caso deberá hacerse constar en dichos títulos de crédito su procedencia, de manera que queden suficientemente identificados. Estos pagarés serán no negociables, en los términos del artículo 25 de esta Ley.
+
+La suscripción y entrega de dichos pagarés no se considerará como pago o dación en pago de las obligaciones que documenten.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 425.
+
+En las operaciones de factoraje financiero la transmisión de los derechos de crédito comprende la de todos los derechos accesorios a ellos, salvo pacto en contrario.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 426.
+
+La transmisión de derechos de crédito efectuada con motivo de una operación de factoraje financiero surtirá efectos frente a terceros, desde la fecha en que haya sido notificada al deudor, en los términos del artículo 427 de esta Ley, sin necesidad de que sea inscrita en registro alguno u otorgada ante fedatario público.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 427.
+
+El factorante deberá notificar al deudor respectivo la transmisión de los derechos de crédito objeto de un contrato de factoraje financiero, excepto en el caso de factoraje en el que se otorgue al factorado mandato de cobranza o se conceda a este último la facultad de llevar a cabo la cobranza del crédito correspondiente. La notificación deberá hacerse a través de cualquiera de las formas siguientes:
+
+I. Entrega del documento o documentos comprobatorios del derecho de crédito en los que conste el sello o leyenda relativa a la transmisión y acuse de recibo por el deudor mediante contraseña, contrarrecibo o cualquier otro signo inequívoco de recepción;
+
+II. Comunicación por correo certificado con acuse de recibo, telegrama, télex o telefacsímil, contraseñados que deje evidencia de su recepción por parte del deudor;
+
+III. Notificación realizada por fedatario público; y
+
+IV. Mensajes de datos, en los términos del Título Segundo del Libro Segundo del Código de Comercio.
+
+Cuando se trate de notificaciones que deban surtir efectos en el extranjero, el factorante las podrá efectuar a través de los medios señalados en las fracciones anteriores de este artículo o por mensajería con acuse de recibo o por los medios establecidos de conformidad con lo dispuesto por los tratados o acuerdos internacionales suscritos por los Estados Unidos Mexicanos.
+
+Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y, al practicarlas, deberá proporcionarse al interesado copia del acto que se notifique.
+
+En los casos señalados, la notificación deberá ser realizada en el domicilio del deudor, y podrá efectuarse con su representante legal o cualquiera de sus dependientes o empleados. Toda notificación personal, realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio respectivo.
+
+Para los efectos de la notificación a que alude el párrafo anterior, se tendrá por domicilio del deudor el que se señale en los documentos en que consten los derechos de crédito objeto de los contratos de factoraje. En cuanto al lugar de notificación, se estará a lo dispuesto en el Código de Comercio cuando la notificación se realice por medio de mensaje de datos en términos de dicho ordenamiento.
+
+En el caso de sociedades en liquidación en las que se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con aquellas podrán practicarse válidamente con cualquiera de éstos.
+
+La notificación se tendrá por realizada al expedir los deudores contraseña, sello o cualquier signo inequívoco de haberla recibido por alguno de los medios señalados en el presente artículo. Asimismo, el pago que haga el deudor o su representante legal al factorante surtirá efectos de notificación en forma desde la fecha en que se realice dicho pago.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 428.
+
+El deudor de los derechos de crédito transmitidos por virtud de una operación de factoraje financiero, mientras no se le haya notificado la transmisión en términos del artículo anterior, libera su obligación con el pago que haga al acreedor original o a quien haya sido el último titular de esos derechos previo al factorante, según corresponda. Por el contrario, el pago que, después de recibir la notificación a que se refiere el artículo precedente, realice el deudor al acreedor original o a quien haya sido el último titular de esos derechos previo al factorante, según corresponda, no lo libera ante el propio factorante.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 429.
+
+Cuando el factorante dé en prenda los derechos adquiridos, dicha garantía se constituirá y formalizará mediante contrato que deberá constar por escrito, pudiendo designarse un depositario de los documentos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 430.
+
+La persona a la que se le haya otorgado mandato de administración y cobranza de los derechos de crédito objeto de una operación de factoraje financiero o que, por cualquier otra forma, se le haya concedido la facultad de llevar a cabo dichos actos deberá entregar al factorante las cantidades que le sean pagadas en virtud de la cobranza que realice, dentro de un plazo que no podrá exceder de diez días hábiles contados a partir de aquel en que se efectúe dicha cobranza.
+
+En el contrato de factoraje financiero deberá incluirse la relación de los derechos de crédito que se transmiten. La relación deberá consignar, por lo menos, los nombres, denominaciones, o razones sociales del factorado y de los deudores, así como los datos necesarios para identificar los documentos que amparen los derechos de crédito, sus correspondientes importes y sus fechas de vencimiento.
+
+En caso de que el factorante convenga con el factorado que podrá realizar visitas de inspección en los locales de las personas a quienes se les haya conferido la facultad de realizar la administración y cobranza de los derechos de crédito objeto del factoraje financiero, se deberá establecer expresamente en el contrato los aspectos que, respecto de los derechos de crédito, serán objeto de las visitas y la obligación de levantar actas en las que se asiente el procedimiento utilizado y los resultados de las mismas. Será nula cualquier visita hecha en violación a lo pactado conforme a lo anteriormente dispuesto por este párrafo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+###### ARTICULO 431.
+
+El factorante podrá transmitir a un tercero los derechos de crédito objeto del correspondiente contrato de factoraje financiero que haya celebrado, para lo cual deberá sujetarse a las disposiciones aplicables a dicha transmisión.
 
 ## TRANSITORIOS
 
@@ -3561,6 +3767,48 @@ D.O.F. 31 DE DICIEMBRE DE 1951.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
+I. El artículo Primero del presente Decreto;
+
+II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;
+
+III. Las reformas a los artículo 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
+
+SEGUNDO.- Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
+
+En los contratos de arrendamiento financiero y factoraje financiero que celebren las personas a que se refiere este artículo, ellas deberán señalar expresamente que no cuentan con la autorización de la Secretaría de Hacienda y Crédito Público prevista en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las personas señaladas.
+
+TERCERO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
+
+A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que haya otorgado la Secretaría de Hacienda y Crédito Público para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser organizaciones auxiliares del crédito.
+
+Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para que puedan continuar operando, deberán:
+
+I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para constituirse y funcionar con tal carácter.
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señalada en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
+
+La entrada en vigor de las reformas y derogación a que este artículo transitorio se refiere no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito aquellas sociedades que tenían el carácter de arrendadoras financieras y empresas de factoraje financiero, ni será causa de ratificación o convalidación de esos contratos. Sin perjuicio de lo anterior, a partir de la entrada en vigor señalada en este artículo, los contratos de arrendamiento y factoraje financiero a que se refiere este párrafo se regirán por las disposiciones correlativas de la Ley General de Títulos y Operaciones de Crédito.
+
+En los contratos de arrendamiento financiero y factoraje financiero que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
+
+...
 
 ## TRANSITORIOS
 
