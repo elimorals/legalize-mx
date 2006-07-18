@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2005-11-26"
+last_updated: "2006-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -105,11 +105,13 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+(REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., P.O. 26 DE AGOSTO DE 2006)
 
 ###### ARTICULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES, en su modalidad de EXPLOTACIÓN PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; HOMICIDIO y LESIONES CULPOSAS previstas en el artículo 184 BIS; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 y 210; así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delito graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELION tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES en su modalidad de procurar o facilitar de cualquier forma el consumo de algún tipo de estupefaciente, psicotrópico o vegetales que determine la Ley General de Salud, como ilegales, a un menor o de quien no tenga capacidad para comprender el significado del hecho, tipificado por el segundo párrafo del artículo 155; así como en su modalidad de EXPLOTACION PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCIDIO del numeral 161; HOMICIDIO tipificado por los artículo 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; PRIVACION DE LA LIBERTAD previsto por el artículo 179; SECUESTRO previsto por el artículo 199; VIOLACION en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 Y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; los FRAUDES ESPECIFICOS previstos en las fracciones III, IV, V Y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 Y 210; así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2006)</small>
 
 En tratándose (sic) del delito de Lesiones, se exceptúa de lo dispuesto por el párrafo anterior los casos previstos en los artículos 175, 176, 177 y 178, cuando las lesiones sean de las señaladas en las fracciones I y II del artículo 174.
 
@@ -1557,7 +1559,7 @@ Al que en ejecución de estos hechos se valga de incendio, explosión o inundaci
 
 CORRUPCION DE MENORES.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 146.
 
@@ -1659,19 +1661,21 @@ Cuando el pasivo sea menor de dieciocho años de edad, o no tenga capacidad para
 
 ###### ARTICULO 155.
 
-Al que procure o facilite la corrupción de cualquier naturaleza, mediante la acción o la omisión, de un menor, o de quien no tenga capacidad para comprender el significado del hecho, se le impondrán de uno a seis años de prisión y multa hasta de 150 unidades.
+Al que procure o facilite la corrupción de cualquier naturaleza, mediante la acción o la omisión, de un menor, o de quien no tenga capacidad para comprender el significado del hecho, se le impondrán de tres a ocho años de prisión y multa hasta de 150 unidades.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+Cuando la corrupción consista en procurar o facilitar de cualquier forma el consumo de algún tipo de estupefaciente, psicotrópico o vegetales que determine la Ley General de Salud como ilegales, a un menor o de quien no tenga capacidad para comprender el significado del hecho, se le impondrá de cinco a diez años de prisión y multa de hasta 250 unidades.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 156.
 
-Cuando la conducta del activo tenga por resultado la corrupción del menor, la penalidad aplicable será de cinco a ocho años de prisión y multa hasta por 250 unidades.
+Cuando la conducta del activo tenga por resultado la corrupción del menor, la penalidad aplicable será de seis a doce años de prisión y multa hasta por 350 unidades.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 157.
 
-Cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o civil, o tenga por cualquier razón ascendencia moral sobre el menor, o sobre quien no tenga capacidad para comprender el significado del hecho, la sanción será de siete a nueve años de prisión y multa hasta de 450 unidades si procuró o facilitó la corrupción; y de diez a quince años y multa hasta de 900 unidades, si el resultado fue la corrupción del menor.
+Cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o civil, o tenga por cualquier razón ascendencia moral sobre el menor, o sobre quien no tenga capacidad para comprender el significado del hecho, la sanción será de ocho a diez años de prisión y multa hasta de 500 unidades si procuró o facilitó la corrupción; y de diez a quince años y multa hasta de 900 unidades, si el resultado fue la corrupción del menor.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -2331,33 +2335,39 @@ Comete el delito de violación el que por medio de la violencia física o moral 
 
 Para los efectos de este artículo se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo o género.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
-Al responsable del delito de violación se le impondrán de dos a diez años de prisión y multa hasta por 100 unidades, si el sujeto pasivo es mayor de dieciocho años de edad, o de seis a catorce años de prisión, y multa de 200 unidades cuando el pasivo tenga entre catorce y dieciocho años de edad.
+Al responsable del delito de violación se le impondrán de cinco a quince años y multa hasta por 100 unidades, si el sujeto pasivo es mayor de dieciocho años de edad, o de ocho a dieciséis años de prisión, y multa hasta de 200 unidades cuando el pasivo tenga entre catorce y dieciocho años de edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 207.
 
-Cuando entre el activo y pasivo de la violación exista parentesco por consanguinidad en línea recta o colateral hasta el cuarto grado, por afinidad en primer grado o civil, la pena aplicable será de ocho a dieciséis años de prisión y multa de 100 unidades.
+Cuando entre el activo y pasivo de la violación exista parentesco por consaguineidad en línea recta o colateral hasta el cuarto grado, por afinidad en primer grado o civil, la pena aplicable será de diez a veinte años de prisión y multa de hasta 200 unidades, si el pasivo es mayor de dieciocho años de edad; se le impondrá de quince a veinticinco años de prisión y multa de hasta 300 unidades, cuando el pasivo tenga entre catorce y menos de dieciocho años de edad; y de veinticinco a treinta y cinco años de prisión y multa hasta 400 unidades en caso que el pasivo tenga menos de 14 años de edad.
 
 Igual pena se impondrá cuando el delito se cometa por el tutor contra su pupilo o por éste contra aquél; por el padrastro contra el hijastro o viceversa.
 
 La misma pena se impondrá cuando la violación se cometa utilizando los medios o circunstancias que al responsable le proporcionen su empleo, cargo o profesión.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2006)</small>
+
+También la misma pena se impondrá cuando la violación se cometa aprovechándose de la amistad o cualquiera otra circunstancia que inspire confianza para la guarda o custodia de un menor de 14 años de edad.
+
 ###### ARTICULO 208.
 
 Cuando en la violación intervengan dos o más personas se les aplicará la pena prevista en el Artículo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 209.
 
-Al que tenga cópula con persona menor de catorce años de edad, o con quien que (sic) no tenga capacidad para comprender el significado del hecho, o con quien por cualquier causa no pueda resistir, se le impondrán de ocho a dieciséis años de prisión y multa de 200 unidades.
+Al que tenga cópula con persona menor de catorce años de edad, o con quien no tenga capacidad para comprender el significado del hecho, o con quien por cualquier causa no pueda resistir, se le impondrán de veinticinco a treinta y cinco años de prisión y multa de hasta 300 unidades.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 210.
 
-Según el caso, se impondrán las penas señaladas en los Artículos anteriores, cuando se produzca un resultado análogo al de la violación, utilizando un instrumento no idóneo, si el activo tuvo el propósito de copular.
+Según el caso, se impondrán las penas señaladas en los Artículos anteriores, cuando se produzca un resultado análogo al de la violación, utilizando un instrumento no idóneo, si el activo tuvo o no el propósito de copular.
 
 ### CAPITULO I. Conducta o Hecho....................................... 324
 
@@ -3100,5 +3110,9 @@ P.O. 31 DE AGOSTO DE 2005.
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 26 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
