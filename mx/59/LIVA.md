@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2006-06-28"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -670,9 +670,9 @@ X.- Por los que deriven intereses que:
 
 a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
-b).- Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado, las sociedades de ahorro y préstamo y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro; los que reciban los almacenes generales de depósito por créditos otorgados que hayan sido garantizados con bonos de prenda; así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+b) Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado, las sociedades de ahorro y préstamo y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro; los que reciban y paguen las sociedades financieras de objeto múltiple que para los efectos del impuesto sobre la renta formen parte del sistema financiero, por el otorgamiento de crédito, de factoraje financiero o descuento en documentos pendientes de cobro; los que reciban los almacenes generales de depósito por créditos otorgados que hayan sido garantizados con bonos de prenda; así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1212,7 +1212,7 @@ Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en
 
 Cuando la contraprestación que cobre el contribuyente por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes, no sea en efectivo ni en cheques, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta tratándose de actividades por las que se deba pagar el impuesto establecido en esta Ley, cuando no exista contraprestación.
 
-En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
+En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se transmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
 
 ###### ARTICULO 35.
 
@@ -2077,6 +2077,24 @@ Los contribuyentes proporcionarán la información mensual a que se refiere el a
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
+I. El artículo Primero del presente Decreto;
+
+II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;
+
+III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
