@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2006-07-05"
+last_updated: "2006-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -178,7 +178,13 @@ Cuando en esta Ley se haga mención a persona moral, se entienden comprendidas, 
 
 En los casos en los que se haga referencia a acciones, se entenderán incluidos los certificados de aportación patrimonial emitidos por las sociedades nacionales de crédito, las partes sociales, las participaciones en asociaciones civiles y los certificados de participación ordinarios emitidos con base en fideicomisos sobre acciones que sean autorizados conforme a la legislación aplicable en materia de inversión extranjera; asimismo, cuando se haga referencia a accionistas, quedarán comprendidos los titulares de los certificados a que se refiere este párrafo, de las partes sociales y de las participaciones señaladas. Tratándose de sociedades cuyo capital esté representado por partes sociales, cuando en esta Ley se haga referencia al costo comprobado de adquisición de acciones, se deberá considerar la parte alícuota que representen las partes sociales en el capital social de la sociedad de que se trate.
 
-El sistema financiero, para los efectos de esta Ley, se compone por las instituciones de crédito, de seguros y de fianzas, sociedades controladoras de grupos financieros, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, uniones de crédito, sociedades financieras populares, sociedades de inversión de renta variable, sociedades de inversión en instrumentos de deuda, empresas de factoraje financiero, casas de bolsa, casas de cambio y sociedades financieras de objeto limitado, que sean residentes en México o en el extranjero.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+El sistema financiero, para los efectos de esta Ley, se compone por las instituciones de crédito, de seguros y de fianzas, sociedades controladoras de grupos financieros, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, uniones de crédito, sociedades financieras populares, sociedades de inversión de renta variable, sociedades de inversión en instrumentos de deuda, empresas de factoraje financiero, casas de bolsa, casas de cambio y sociedades financieras de objeto limitado, que sean residentes en México o en el extranjero. Asimismo, se considerarán integrantes del sistema financiero a las sociedades financieras de objeto múltiple a las que se refiere la Ley General de Organizaciones y Actividades Auxiliares del Crédito que tengan cuentas y documentos por cobrar derivados de las actividades que deben constituir su objeto social principal, conforme a lo dispuesto en dicha ley, que representen al menos el setenta por ciento de sus activos totales, o bien, que tengan ingresos derivados de dichas actividades y de la enajenación o administración de los créditos otorgados por ellas, que representen al menos el setenta por ciento de sus ingresos totales. Para los efectos de la determinación del porcentaje del setenta por ciento, no se considerarán los activos o ingresos que deriven de la enajenación a crédito de bienes o servicios de las propias sociedades, de las enajenaciones que se efectúen con cargo a tarjetas de crédito o financiamientos otorgados por terceros.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Tratándose de sociedades de objeto múltiple de nueva creación, el Servicio de Administración Tributaria mediante resolución particular en la que se considere el programa de cumplimiento que al efecto presente el contribuyente podrá establecer para los tres primeros ejercicios de dichas sociedades, un porcentaje menor al señalado en el párrafo anterior, para ser consideradas como integrantes del sistema financiero para los efectos de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -188,7 +194,9 @@ Para los efectos de esta Ley, se considera previsión social, las erogaciones ef
 
 Para los efectos de esta Ley, se consideran intereses, cualquiera que sea el nombre con que se les designe, a los rendimientos de créditos de cualquier clase. Se entiende que, entre otros, son intereses: los rendimientos de la deuda pública, de los bonos u obligaciones, incluyendo descuentos, primas y premios; los premios de reportos o de préstamos de valores; el monto de las comisiones que correspondan con motivo de apertura o garantía de créditos; el monto de las contraprestaciones correspondientes a la aceptación de un aval, del otorgamiento de una garantía o de la responsabilidad de cualquier clase, excepto cuando dichas contraprestaciones deban hacerse a instituciones de seguros o fianzas; la ganancia en la enajenación de bonos, valores y otros títulos de crédito, siempre que sean de los que se colocan entre el gran público inversionista, conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.
 
-En las operaciones de factoraje financiero, se considerará interés la ganancia derivada de los derechos de crédito adquiridos por empresas de factoraje financiero.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+En las operaciones de factoraje financiero, se considerará interés la ganancia derivada de los derechos de crédito adquiridos por empresas de factoraje financiero y sociedades financieras de objeto múltiple.
 
 En los contratos de arrendamiento financiero, se considera interés la diferencia entre el total de pagos y el monto original de la inversión.
 
@@ -800,17 +808,29 @@ XVI. En el caso de pérdidas por créditos incobrables, éstas se consideren rea
 
 Para los efectos de este artículo, se considera que existe notoria imposibilidad práctica de cobro, entre otros, en los siguientes casos:
 
-a) Tratándose de créditos cuya suerte principal al día de su vencimiento no exceda de $5,000.00, cuando en el plazo de un año contado a partir de que incurra en mora, no se hubiera logrado su cobro. En este caso, se considerarán incobrables en el mes en que se cumpla un año de haber incurrido en mora.
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+a) Tratándose de créditos cuya suerte principal al día de su vencimiento no exceda de $20,000.00, cuando en el plazo de un año contado a partir de que incurra en mora, no se hubiera logrado su cobro. En este caso, se considerarán incobrables en el mes en que se cumpla un año de haber incurrido en mora.
 
 Cuando se tengan dos o más créditos con una misma persona física o moral de los señalados en el párrafo anterior, se deberá sumar la totalidad de los créditos otorgados para determinar si éstos no exceden del monto a que se refiere dicho párrafo.
 
-b) Cuando el deudor no tenga bienes embargables, haya fallecido o desaparecido sin dejar bienes a su nombre.
+Lo dispuesto en el inciso a) de esta fracción será aplicable tratándose de créditos contratados con el publico en general, cuya suerte principal al día de su vencimiento se encuentre entre $5000.00 a $20,000.00, siempre que el contribuyente de acuerdo con las reglas de carácter general que al respecto emita el Servicio de Administración Tributaria informe de dichos crédito (sic) a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley de Sociedades de Información Crediticia.
+
+Así mismo, será aplicable lo dispuesto en el inciso a) de esta fracción, cuando el deudor del crédito de que se trate sea contribuyente que realiza actividades empresariales y el acreedor informe por escrito al deudor de que se trate, que efectuará la deducción del crédito incobrable, a fin de que el deudor acumule el ingreso derivado de la deuda no cubierta en los términos de esta Ley. Los contribuyentes que apliquen lo dispuesto en este párrafo, deberán informar a más tardar el 15 de febrero de cada año de los créditos incobrables que dedujeron en los términos de este párrafo en el año calendario inmediato anterior.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+b) Tratandose de crédito cuya suerte principal al día de su vencimiento sea mayor a $20,000.00 cuando el acreedor haya demandado ante la autoridad judicial el pago del crédito o se haya iniciado el procedimiento arbitral convenido para su cobro y además se cumpla con lo previsto en el párrafo final del inciso anterior.
 
 c) Se compruebe que el deudor ha sido declarado en quiebra o concurso. En el primer supuesto, debe existir sentencia que declare concluida la quiebra por pago concursal o por falta de activos.
 
 Tratándose de las instituciones de crédito, éstas sólo podrán hacer las deducciones a que se refiere el primer párrafo de esta fracción cuando así lo ordene o autorice la Comisión Nacional Bancaria y de Valores y siempre que no hayan optado por efectuar las deducciones a que se refiere el artículo 53 de esta Ley.
 
 Para los efectos del artículo 46 de esta Ley, los contribuyentes que deduzcan créditos por incobrables, los deberán considerar cancelados en el último mes de la primera mitad del ejercicio en que se deduzcan.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+Tratándose de cuentas por cobrar que tengan una garantía hipotecaria, solamente será deducible el cincuenta por ciento del monto cuando se den los supuestos a que se refiere el inciso b) anterior. Cuando el deudor efectúe el pago del adeudo o se haga la aplicación del importe del remate a cubrir el adeudo, se hará la deducción del saldo de la cuenta por cobrar o en su caso la acumulación del importe recuperado.
 
 XVII. Tratándose de remuneraciones a empleados o a terceros, que estén condicionadas al cobro de los abonos en las enajenaciones a plazos o en los contratos de arrendamiento financiero en los que hayan intervenido, éstos se deduzcan en el ejercicio en el que dichos abonos o ingresos se cobren, siempre que se satisfagan los demás requisitos de esta Ley.
 
@@ -4596,14 +4616,6 @@ El impuesto sobre la utilidad a que se refiere este artículo se enterará por e
 
 Cuando la persona que efectúe los pagos a que se refiere este artículo sea residente en el extranjero, el contribuyente enterará el impuesto mediante declaración que presentará, en las oficinas autorizadas, dentro de los 15 días siguientes a la obtención del ingreso.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-###### Artículo 188
-
-Bis. En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional.
-
-El impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
-
 ###### Artículo 188.
 
 En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
@@ -4611,6 +4623,14 @@ En los ingresos por otorgar el uso o goce temporal de bienes muebles, se conside
 El impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
 
 Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refieren los artículos 198 y 200 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 188
+
+Bis. En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional.
+
+El impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
 
 ###### Artículo 189.
 
@@ -7297,3 +7317,23 @@ Las reformas del artículo 107, entrarán en vigor a partir del 1o de octubre de
 D.O.F. 5 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
+I. El artículo Primero del presente Decreto;
+
+II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;
+
+III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
+
+...
