@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2006-04-24"
+last_updated: "2006-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -711,7 +711,9 @@ No podrán participar en forma alguna en el capital de las instituciones de segu
 
 II.- Tratándose de las instituciones a que se refiere el inciso a) de la fracción I Bis, de este artículo:
 
-1.- No podrán participar en su capital social pagado, directamente o a través de interpósita persona, instituciones de crédito, sociedades mutualistas de seguros, casas de bolsa, organizaciones auxiliares del crédito, sociedades operadoras de sociedades de inversión, sociedades financieras de objeto limitado, entidades de ahorro y crédito popular, administradoras de fondos para el retiro, ni casas de cambio.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+1.- No podrán participar en su capital social pagado, directamente o a través de interpósita persona, instituciones de crédito, sociedades mutualistas de seguros, casas de bolsa, organizaciones auxiliares del crédito, sociedades operadoras de sociedades de inversión, entidades de ahorro y crédito popular, administradoras de fondos para el retiro, ni casas de cambio.
 
 Lo dispuesto en el párrafo anterior no será aplicable cuando la participación provenga de la tenencia accionaria de las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras.
 
@@ -1261,8 +1263,6 @@ Asimismo, podrán actuar como institución fiduciaria en los fideicomisos de gar
 
 Tratándose de instituciones de seguros autorizadas para practicar operaciones de vida también se considerarán vinculados con las actividades que les son propias, los fideicomisos en que se afecten recursos relacionados con primas de antigüedad, fondos individuales de pensiones, rentas vitalicias, dividendos y sumas aseguradas, o con la administración de reservas para fondos de pensiones o jubilaciones del personal, complementarias a las que establecen las leyes sobre seguridad social y de primas de antigüedad.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 En lo no previsto por lo anterior, a las instituciones de seguros fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito.
@@ -1283,9 +1283,9 @@ VII.- Efectuar inversiones en el extranjero por las reservas técnicas o en cump
 
 VIII.- Constituir depósitos en instituciones de crédito y en bancos del extranjero en los términos de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
-IX.- Recibir títulos en descuento y redescuento a instituciones y organizaciones auxiliares del crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones de crédito;
+IX.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito y sociedades financieras de objeto múltiple, así como a fondos permanentes de fomento económico destinados en fideicomiso por el gobierno federal en instituciones de crédito;
 
 X.- Otorgar préstamos o créditos;
 
@@ -2797,9 +2797,9 @@ IV.- Administrar las reservas retenidas a instituciones del país y del extranje
 
 V.- Constituir depósitos en instituciones de crédito;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
-VI.- Recibir títulos en descuento y redescuento a instituciones y organizaciones auxiliares del crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones de crédito;
+VI.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito y sociedades financieras de objeto múltiple, así como a fondos permanentes de fomento económico destinados en fideicomiso por el gobierno federal en instituciones de crédito;
 
 VII.- Otorgar préstamos o créditos;
 
@@ -3054,8 +3054,6 @@ II.- Si no mantiene las reservas que exige esta Ley, sin perjuicio de los plazos
 III.- Si se infringe lo establecido en la fracción XI del artículo 78 de esta Ley, o si la sociedad establece con las entidades o grupos mencionados en dicha fracción, relaciones evidentes de dependencia;
 
 IV.- (DEROGADA, D.O.F. 16 DE ENERO DE 2002)
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
 V.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional de Seguros y Fianzas, la sociedad excede los límites de las obligaciones que pueda contraer, ejecuta operaciones distintas de las permitidas por la autorización y por la ley o no mantiene las proporciones del activo establecidas en esta Ley;
 
@@ -5050,3 +5048,13 @@ TERCERO.- En tanto no se deroguen o modifiquen las reglas y disposiciones de car
 CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas.
 
 QUINTO.- Las instituciones de seguros deberán adecuar sus productos de seguro, así como los contratos de prestación de servicios, según corresponda, a lo previsto en la fracción I del artículo 41 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2006.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+...
+
+NOVENO.- Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+...
