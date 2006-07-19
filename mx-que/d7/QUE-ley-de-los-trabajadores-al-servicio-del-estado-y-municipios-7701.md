@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "2005-02-11"
+last_updated: "2006-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
+Ley Publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga a los habitantes del mismo, sabed que:
 
@@ -1021,13 +1021,33 @@ POR VEJEZ Y MUERTE
 
 ### CAPITULO I. GENERALIDADES
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 128.
 
 El derecho a la jubilación y a la pensión por vejez o muerte, nace cuando el trabajador, el cónyuge, sus hijos, o a falta de éstos, concubina o concubino, se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señala.
 
-Los trabajadores que teniendo derecho a una jubilación o a una pensión por vejez, la estuvieran tramitando y llegasen a fallecer, sus beneficiarios tendrán derecho a recibir la pensión por muerte, mediante los requisitos y procedimientos que señala esta Ley.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
+
+Los trabajadores que teniendo derecho a una jubilación o a una pensión por vejez, llegasen a fallecer, sus beneficiarios tendrán derecho a recibir la pensión por muerte, mediante los requisitos y procedimientos que señale esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 128-A.
+
+Todo Trabajador que cumpla con los requisitos para obtener su jubilación o pensión por vejez, podrá solicitar la prejubilación o prepensión al titular de recursos humanos u órgano administrativo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipio.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 128-B.
+
+La Prejubilación o Prepensión se entenderá como la separación de las labores del trabajador que cumpla con los requisitos para jubilarse o pensionarse, en el que se pagará el ciento por ciento del sueldo y quinquenios mensuales en el caso de jubilación o en su caso el porcentaje que corresponda tratándose de pensión.
+
+El pago al que se refiere el párrafo anterior se realizará a partir del momento en que sea otorgada la prejubilación y hasta el momento en que surta efectos la publicación del decreto de jubilación o pensión por vejez en el Periódico Oficial de (sic) Gobierno del Estado “La Sombra de Arteaga”.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+ARTICULO 128 C. El tiempo que dure la prejubilación o prepensión por vejez no se computará para efectos de antigüedad del trabajador. Cuando ocurra el supuesto establecido en el artículo 142-H, se computará excepcionalmente, sólo que la no aprobación se dé por causas imputables a la entidad donde prestó los servicios.
 
 ###### ARTICULO 129.
 
@@ -1046,6 +1066,10 @@ Cuando un trabajador a quien se haya otorgado una jubilación o pensión siga en
 ###### ARTICULO 132.
 
 Si algún trabajador hubiere acumulado los años requeridos para obtener su jubilación o pensión sirviendo al Gobierno del Estado o Municipios tendrá derecho a que se le otorgue, correspondiendo la obligación de pago a la última entidad en la que prestó sus servicios.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+Los trabajadores no están obligados a tramitar su pensión o jubilación, aún habiendo cumplido con los requisitos establecidos en la presente Ley, por lo que podrán seguir presentando sus servicios hasta en tanto decidan realizar el trámite en forma voluntaria.
 
 ###### ARTICULO 133.
 
@@ -1119,17 +1143,35 @@ El derecho al pago de la pensión por vejez comenzará a partir del día siguien
 
 ### CAPÍTULO CUARTO. DE LA PENSION POR MUERTE
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
-###### ARTÍCULO 142-A.
+###### ARTICULO 142-A.
 
-Tienen derecho a la Pensión por Muerte, la esposa o esposo del trabajador jubilado o pensionado, a falta de éstos los descendientes menores de 18 años de edad, a falta de estos la concubina o concubino, del trabajador jubilado o pensionado, que a la fecha del fallecimiento dependieran económicamente de él.
+Se otorgará pensión por muerte cuando fallezca el trabajador jubilado o pensionado, o que no teniendo esta calidad, haya cumplido con los requisitos que esta Ley establece para obtener el derecho a su jubilación o pensión por vejez, en el siguiente orden de beneficiaros.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1998)</small>
+I. A la esposa o esposo del trabajador fallecido;
 
-###### ARTÍCULO 142
+II. A falta de los anteriores, los descendientes menores de 18 años de edad, o en estado de invalidez que les impida valerse por si mismos o de hasta 25 años solteros, en etapa de estudios de nivel medio superior o superior de cualquier rama del conocimiento en planteles oficiales o con reconocimiento oficial; y
 
-B Los beneficiarios que se encuentren en el supuesto del artículo anterior tendrán derecho al 100% de la percepción que disfrutaba el trabajador o pensionado al momento de su fallecimiento.
+III. A falta de éstos a la concubina o concubinario del trabajador fallecido.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 142-B.
+
+Los beneficiarios de trabajadores jubilados o pensionados que se encuentren en el supuesto del artículo anterior tendrán derecho a una pensión equivalente a la percepción que éstos venían percibiendo hasta antes de su fallecimiento.
+
+En el caso de los beneficiarios de trabajadores que al momento de su fallecimiento hubieran generado el derecho a una jubilación o pensión por vejez, tendrán derecho a percibir una pensión equivalente al porcentaje del sueldo que corresponda a los años de servicio prestados por el trabajador en términos de esta ley.
+
+Dicha Percepción, dejará de otorgarse:
+
+I. Hasta que la viuda o viudo, concubina o concubinario, contraigan matrimonio, se unan en concubinato o fallezcan;
+
+II. Cuando los descendientes menores cumplan 18 años;
+
+III. Cuando Los (sic) descendientes en estado de invalidez fallezcan o desaparezcan la causa de invalidez; y
+
+IV. Cuando los descendientes mayores de 18 años solteros en etapa de estudios de nivel medio superior o superior, cumplan 25 años, contraigan matrimonio o dejen de estudiar.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1151,15 +1193,119 @@ V. Si el trabajador tenía de 20 años 1 día a 25 años laborados, 90% del sala
 
 VI. Si el trabajador tenía de 25 años 1 día y hasta antes de cumplir 30 años laborados, 95% del salario.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2006)</small>
+
+### CAPITULO IV BIS. DEL TRÁMITE DE LA JUBILACION Y PENSIONES
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 142-D.
+
+Cuando se reúnen los requisitos para obtener los derechos de la jubilación, pensión por vejez o pensión por muerte, para iniciar los trámites correspondientes el Titular del área de Recursos Humanos u Órgano Administrativo equivalente del Gobierno del Estado, considerando a los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipios, deberá integrar el expediente con los siguientes documentos:
+
+A. JUBILACIÓN Y PENSIÓN POR VEJEZ
+
+I. Constancia de antigüedad y de ingresos, expedida por el Titular del área encargada de Recursos Humanos u órganos administrativos equivalente del Gobierno del Estado, considerando a los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipios, de que se trate, señalando lo siguiente:
+
+a) Nombre del trabajador;
+
+b) Fecha de inicio y terminación del servicio;
+
+c) Empleo, cargo o comisión;
+
+d) Sueldo mensual;
+
+e) Quinquenio mensual; y
+
+f) Cantidad y porcentaje que corresponda de acuerdo a la pensión o jubilación del trabajador.
+
+II. Solicitud por escrito de jubilación o pensión por vejez del trabajador, dirigida al Titular de la entidad correspondiente, considerando a los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y organismos Descentralizados del Estado o Municipio de que se trate, para su posterior remisión a la Legislatura;
+
+III. Dos últimos recibos de pago del trabajador;
+
+IV. Acta de nacimiento, la cual deberá coincidir con todos los documentos que se anexan dentro del expediente, sin que el hecho de no coincidir sea motivo para negar el derecho de la obtención de la jubilación o pensión;
+
+V. Dos fotografías tamaño credencial;
+
+VI. Copia certificada de la Identificación oficial;
+
+VII. Oficio que autoriza la prejubilación o prepensión por vejez; y
+
+VIII. En el caso de los trabajadores al servicio de los municipios del Estado de Querétaro, acuerdo de cabildo que autorice realizar el trámite de la jubilación o pensión por vejez ante la Legislatura del Estado.
+
+B. PENSIÓN POR MUERTE
+
+I. Copia simple de la publicación del decreto por el cual se concedió al trabajador la jubilación o pensión por vejez, en el supuesto de que se haya otorgado;
+
+II. Copia certificada del acta de defunción del trabajador;
+
+III. Solicitud por escrito de pensión por muerte de beneficiario o su representante legal dirigida al Titular de la entidad correspondiente, considerando a los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipios de que se trate;
+
+IV. Dos últimos recibos de pago del trabajador fallecido;
+
+V. Constancia de ingresos, expedida por el Titular de recursos humanos u órgano administrativo equivalente del Gobierno del Estado, considerando a los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipios que contenga los siguientes datos:
+
+a) Nombre del trabajador fallecido;
+
+b) Fecha de inicio y terminación del servicio;
+
+c) Empleo cargo o comisión;
+
+d) Calidad de trabajador, jubilado o pensionado;
+
+e) Sueldo mensual y quinquenio mensual, o cantidad mensual que percibía por concepto de pensión por vejez o jubilación según el caso; y
+
+f) Fecha de publicación del decreto en el que se le concedió la jubilación o pensión por vejez, en su caso.
+
+VI. Copia certificada del acta de matrimonio;
+
+VII. Para el caso en que los beneficiaros del trabajador sean los hijos menores de 18 años de edad o en estado de invalidez que les impida valerse por sí mismos o menores de 25 años solteros en etapa de estudios de nivel medio o medio superior además de los documentos antes mencionados, con excepción de la fracción VI, deberán presentar según corresponda, lo siguiente:
+
+a) Copia certificada del acta de nacimiento;
+
+b) Copia certificada de la declaración que emita el juez de lo Familiar relativa a la tutela de menores de 18 años o mayores incapaces.
+
+c) Original de la Constancia de invalidez expedida por institución pública de seguridad social o asistencia médica, tratándose de los descendientes en estado de invalidez que les impida valerse por sí mismos; y
+
+d) Original de constancia de estudios, tratándose de los descendientes mayores solteros en etapa de estudios de nivel medio o superior de cualquier rama de conocimiento en planteles oficiales o con reconocimiento oficial.
+
+VIII. Para el caso de que el beneficiario del trabajador sea el concubino o concubina además de los documentos señalados en las fracciones I, II, III, IV y V de este artículo, deberá presentar copia certificada de la declaración de herederos que emita el Juez Familiar en el que se reconozca el carácter de concubina o concubino; y
+
+IX. Para el caso de los beneficiarios de trabajadores de los Municipios, copia certificada del acuerdo de cabildo mediante el cual se le reconoce como beneficiario y se aprueba iniciar el trámite de la pensión por muerte.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 142-E.
+
+El Titular de recursos humanos u órgano administrativo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipios, deberá verificar que el trabajador o beneficiarios reúnan los requisitos para solicitar el otorgamiento de la jubilación, pensión por vejez o pensión por muerte.
+
+En el caso de la jubilación y pensión por vejez, emitirá en un plazo no mayor a 15 días hábiles siguientes a la solicitud del trabajador, el oficio mediante el cual se informa al jefe inmediato y al trabajador, el resultado de la solicitud de prejubilación o prepensión por vejez, lo anterior previa revisión de los documentos que integran el expediente referidos en el artículo 142-D.
+
+Una vez otorgada la prejubilación o prepensión por vejez e integrado debidamente el expediente, el Titular de recursos humanos u órgano administrativo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos descentralizados del Estado o Municipios, lo remitirá dentro de los 10 días hábiles siguientes a la Legislatura del Estado para que resuelva de conformidad con lo señalado en el artículo 129 de esta Ley.
+
+En el supuesto de la negativa del otorgamiento de la prejubilación, los funcionarios referidos en el párrafo anterior, según el caso, emitirán acuerdo en el que funden y motiven la causa de la misma, el cual deberá ser notificado en un plazo no mayor de 10 (diez) días hábiles al trabajador.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 142-F.
+
+El Titular de recursos humanos u órgano administrativo equivalente del Gobierno del Estado, considerando a los Poderes Ejecutivo, Legislativo y Judicial, municipios, Empresas y organismos Descentralizados del Estado o Municipios, podrán citar al trabajador o beneficiarios para aclaraciones o bien solicitar toda la información que se requiera.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 142-G.
+
+Una vez que la Legislatura del Estado haya resuelto de manera favorable el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, se publicará el decreto correspondiente en el Periódico Oficial de Gobierno del Estado “La Sombra de Arteaga” para que surta sus efectos de notificación al trabajador, beneficiaros y del área encargada de realizar el pago de la jubilación, pensión por vejez o pensión por muerte, según el caso, así como de todas y cada una de las prestaciones que con motivo de la terminación de la relación laboral se deriven.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 142-H.
+
+Cuando la Legislatura no apruebe la jubilación o pensión por vejez, emitirá acuerdo correspondiente, notificándolo en un plazo no mayor de 10(diez) días hábiles al Titular de Recursos Humanos u órgano administrativo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, Empresas y Organismos Descentralizados del Estado o Municipios, para que el trabajador se reintegre a sus labores hasta solucionar el impedimento, quedando sin efectos la licencia prejubilatoria, restableciéndose íntegramente la relación jurídico laboral para los fines de esta Ley, debiendo notificar además a los interesados.
 
 ## TITULO DECIMO PRIMERO. DE LAS PRESCRIPCIONES
 
-### CAPITULO I. DE LA INTEGRACION DEL TRIBUNAL DE CONCILIACION
-
-Y ARBITRAJE
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 143.
 
@@ -1221,7 +1367,11 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ## TITULO DECIMO SEGUNDO. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
-### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
+### CAPITULO I. DE LA INTEGRACION DEL TRIBUNAL DE CONCILIACION
+
+Y ARBITRAJE
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 150.
 
@@ -1269,9 +1419,7 @@ Los emolumentos que perciba el Presidente serán igual a los que perciba el Pres
 
 Los demás salarios que originen el funcionamiento del Tribunal así como los gastos en general serán cubiertos por el Estado consignándose en el Presupuesto de Egresos correspondiente.
 
-### CAPITULO III. DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE
-
-CONCILIACION Y ARBITRAJE
+### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
 
 ###### ARTICULO 158.
 
@@ -1287,7 +1435,9 @@ IV.- Para conceder el registro a los Sindicatos y Federación de Sindicatos, y e
 
 V.- Para efectuar el registro y sanción de los Convenios Laborales, Reglamentos, Acuerdos y Disposiciones análogas y actos que señala esta Ley.
 
-### CAPITULO UNICO
+### CAPITULO III. DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE
+
+CONCILIACION Y ARBITRAJE
 
 ###### ARTICULO 159.
 
@@ -1447,6 +1597,8 @@ En materia procesal, para la resolución de los conflictos que se planteen, se a
 
 DE LOS LAUDOS
 
+### CAPITULO UNICO
+
 ###### ARTICULO 182.
 
 El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de ocho días de salario mínimo general vigente en la zona y fecha en donde ocurran los hechos; en caso de resistencia o reincidencia, se duplicarán las sanciones impuestas y si ni aún así son acatadas sus disposiciones, utilizará la fuerza pública.
@@ -1525,7 +1677,7 @@ LIC. JOSE MARIA HERNANDEZ SOLIS
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 7 DE JUNIO DE 1992.
+P.O. 7 DE JUNIO DE 1992
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado " La Sombra de Arteaga".
 
@@ -1533,7 +1685,7 @@ SEGUNDO. El Magistrado y su suplente, que actuarán en la Sala que corresponda a
 
 TERCERO. Se derogan todas las demás disposiciones que se opongan a la presente Ley.
 
-P.O. 27 DE FEBRERO DE 1998.
+P.O. 27 DE FEBRERO DE 1998
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1543,7 +1695,7 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
-P.O. 15 DE SEPTIEMBRE DE 2000.
+P.O. 15 DE SEPTIEMBRE DE 2000
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1553,7 +1705,7 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 
 Se derogan aquellas disposiciones que se opongan a la presente Ley.
 
-P.O. 20 DE DICIEMBRE DE 2002.
+P.O. 20 DE DICIEMBRE DE 2002
 
 ###### ARTICULO PRIMERO.
 
@@ -1568,3 +1720,13 @@ P.O. 11 DE FEBRERO DE 2005.
 PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 19 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
