@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2004-10-27"
+last_updated: "2006-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -195,19 +195,35 @@ El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
 ###### Art. 14.
 
-Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de octubre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+Esta Constitución reconoce a los partidos políticos como entidades de interés público. De igual manera, les reconoce su carácter de asociaciones políticas de ciudadanos afiliados libre e individualmente en torno a los programas, principios e ideas que cada uno de ellos postula, y que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación política y, permitir el acceso de los ciudadanos a los distintos niveles del poder público del Estado de Sinaloa. La ley promoverá la democracia en la vida interna de los partidos políticos en la entidad y fijará los requisitos para la obtención del registro como partido político local. Invariablemente la selección de sus dirigentes y sus candidatos se hará conforme a los principios que rigen el estado democrático de derecho.
 
-Los partidos políticos son entidades de interés público. La Ley garantizará que los partidos políticos, en forma equitativa, reciban financiamiento público para su sostenimiento y desarrollo de actividades tendientes a la obtención del sufragio universal, de acuerdo a las disponibilidades presupuestales, y tengan acceso a los medios de comunicación social; señalará las reglas a que se sujetará su financiamiento, privilegiando los recursos públicos sobre los de origen privado; fijará los criterios para determinar los límites a las erogaciones de los partidos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos sus recursos, y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones. La ley determinará las formas específicas y condiciones de la intervención de los partidos nacionales y estatales en el proceso electoral, en las elecciones estatales y municipales.
+Los partidos políticos nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales. La ley determinará las formas específicas y condiciones de la intervención de los partidos políticos nacionales y estatales en dichos procesos electorales.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+Los partidos políticos estatales que no obtengan al menos el dos por ciento de los votos válidos en la elección de Diputados perderán, por ese hecho, su registro y no podrán volver a solicitarlo sino hasta pasado un proceso electoral. La ley fijará los procedimientos que rijan el destino de los bienes de los partidos políticos estatales que pierdan su registro.
 
-Los Partidos Políticos Nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales.
+Aquél partido político nacional que no obtenga al menos el dos por ciento de los votos válidos en la elección de Diputados, dejará de recibir las ministraciones de financiamiento público ordinario que le correspondan durante los dos años siguientes al proceso de que se trate.
+
+Para que un partido político nacional tenga derecho a recibir ministraciones de financiamiento público ordinario, se requiere que haya participado en el proceso electoral inmediato anterior y que además haya obtenido al menos el dos por ciento de los votos válidos de la elección de Diputados en dicho proceso.
+
+La ley fijará los tiempos y las modalidades que tendrán las precampañas y las campañas electorales, las cuales deberán ser respetuosas y propositivas; de igual manera determinará las reglas que deberán observar los partidos, sus militantes y sus simpatizantes durante las mismas y las sanciones a las que se harán acreedores en caso de su inobservancia.
+
+La ley establecerá las modalidades para que los partidos políticos cuenten de manera equitativa con financiamiento público, para actividades ordinarias permanentes y para campañas electorales, que, en todo caso, prevalecerá sobre el financiamiento privado.
+
+El financiamiento privado tendrá las restricciones y modalidades que establezca la ley, las cuales no podrán ser menores que las fijadas por la legislación federal para los partidos políticos nacionales. Los montos máximos que tendrán las aportaciones pecuniarias de sus miembros y simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y las sanciones que deban imponerse por el incumplimiento de estas disposiciones, serán regulados por la ley; la cual también fijará los criterios para determinar para cada elección los límites máximos a las erogaciones que los partidos políticos pueden realizar para cada una de las precampañas y campañas electorales.
+
+El acceso equitativo, de los partidos políticos y candidatos, a los medios masivos de comunicación social tendrá las modalidades que al efecto fije la ley. El mismo se realizará sólo a través del Organismo Electoral.
+
+Los partidos políticos deberán presentar, en los tiempos y con las modalidades que disponga la legislación aplicable, informes anuales en los que se reflejarán el total de ingresos recabados por cualquier modalidad de financiamiento, así como la totalidad de los gastos realizados a lo largo del año fiscal que corresponda; informes de precampaña e informes de campaña, así como los informes especiales y detallados que les sean solicitados por el Organismo Electoral.
+
+El Organismo Electoral concentrará y ejercerá, en la manera en que disponga la ley, las funciones fiscalizadoras suficientes para tener un conocimiento pleno y cierto del origen y destino de la totalidad de los recursos de los partidos políticos, tanto de aquellos que provengan del financiamiento público como de los que se alleguen mediante financiamiento privado, e impondrá las sanciones que correspondan por el uso indebido de estos recursos, de conformidad con lo que establezca la legislación aplicable.
+
+En el cumplimiento de sus atribuciones de fiscalización, el Organismo Electoral contará con el apoyo de todas las autoridades del Estado de Sinaloa. Además tendrá las facultades para poder requerir la información y la documentación que le sea necesaria para la adecuada revisión de las finanzas partidistas con que cuenten los particulares, personas físicas y morales, que hayan tenido algún tipo de vínculo financiero o comercial con los partidos políticos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
 
@@ -325,11 +341,17 @@ Para la elección de los 16 Diputados según el principio de representación pro
 
 Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
 
-Todo partido político que alcance entre el 2 y el 5 por ciento del total de la votación emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
+
+Todo partido político que alcance entre el dos y medio y el cinco por ciento de la votación estatal emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
 
 El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en la lista o listas correspondientes.
 
 En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en diez puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más los diez puntos porcentuales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1995)</small>
 
@@ -633,7 +655,7 @@ XXIX. Conceder amnistía por delitos políticos, cuyo conocimiento pertenezca a 
 
 XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
-XXXI. Habilitar de edad a los menores que reúnan los requisitos exigidos por la ley.
+XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la ley.
 
 XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en los casos que no haya una ley especial que las determine.
 
@@ -3066,6 +3088,12 @@ Una vez creada la Auditoría Superior del Estado, todos los recursos humanos, ma
 ###### ARTÍCULO QUINTO.
 
 La Auditoría Superior del Estado, expedirá su Reglamento Interior en un período no mayor de noventa días a partir de su constitución.
+
+P.O. 19 DE JULIO DE 2006.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
