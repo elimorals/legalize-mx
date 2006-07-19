@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2005-12-08"
+last_updated: "2006-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1043,6 +1043,12 @@ El aislamiento de las personas que padezcan enfermedades transmisibles se llevar
 
 Las autoridades sanitarias podrán ordenar, por causa de epidemia, la clausura temporal de establecimientos. Asimismo, determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 85 Bis.
+
+Las autoridades sanitarias podrán declarar áreas o zonas de emergencia en los Municipios, ante la presencia de un alto número de casos de enfermedades transmitidas por vector o de riesgos inminentes, para su atención integral.
+
 ###### ARTICULO 86.
 
 El transporte de enfermos de afecciones transmisibles deberá efectuarse en vehículos acondicionados; a falta de éstos, podrán utilizarse los que autorice la autoridad sanitaria.
@@ -1561,6 +1567,12 @@ La autoridad sanitaria competente podrá ordenar o proceder a la vacunación de 
 
 La autoridad sanitaria competente ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud. De lo anterior, se dará la intervención que corresponda a las dependencias encargadas de la sanidad animal.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+
+###### ARTICULO 145 Bis.
+
+Para disminuir los riesgos a la salud de la población, las autoridades sanitarias podrán solicitar a los Ayuntamientos la limpieza, desmonte y demás medidas necesarias en la zonas o áreas de emergencia establecidas, ante el aumento de casos de enfermedades transmitidas por vector, en los lotes baldíos o no edificados que representen un riesgo adicional para su propagación.
+
 ###### ARTICULO 146.
 
 La autoridad sanitaria competente ordenará la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud.
@@ -1826,3 +1838,7 @@ P.O. 8 DE DICIEMBRE DE 2005.
 DECRETO No. LIX-92
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2006.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
