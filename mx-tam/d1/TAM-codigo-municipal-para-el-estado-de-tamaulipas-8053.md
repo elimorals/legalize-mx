@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2006-03-15"
+last_updated: "2006-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1721,19 +1721,19 @@ En lo no previsto para este impuesto, serán de aplicación supletoria la Ley de
 
 Los derechos que cobren las Tesorerías Municipales, serán estrictamente los que señala la Ley de Ingresos Municipales en los montos, tasas y tarifas que la misma determina.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 140.
 
-Los propietarios o poseedores de predios baldíos o no edificados que se ubiquen en las zonas urbanas o suburbanas de los municipios están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio. En caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor del predio.
+Los propietarios o poseedores de predios baldíos o no edificados que se ubiquen en las zonas urbanas o suburbanas de los municipios están obligados a realizar la limpieza y desmonte de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas, así como contribuir a la buena imagen del Municipio. En caso de no hacerlo el servicio será prestado por el Ayuntamiento, con cargo al propietario o poseedor del predio.
 
-Son objeto del derecho por limpieza de predios no edificados, los servicios de limpieza de los predios a que se refiere el párrafo anterior, a los que el Ayuntamiento preste el servicio en atención a sus programas de saneamiento ambiental e higiene de las comunidades. Estos programas referirán periodos para la realización de estos servicios de limpieza, de tal suerte que se contemple su aplicación escalonada en todo el Municipio.
+Los propietarios o poseedores de predios baldíos o no edificados a que se refiere el párrafo anterior, que hagan caso omiso a los exhortos o notificaciones para que cumplan con su obligación y respecto de los cuales el Ayuntamiento o la autoridad administrativa competente, ante esta falta administrativa, hubiesen realizado el servicio de limpieza o desmonte de conformidad con los programas permanentes de saneamiento ambiental e higiene a las comunidades, serán sujetos de cobro por derechos de los servicios de limpieza o desmonte realizados. Estos programas especificarán periodos para la realización de los servicios de limpieza y desmonte de tal suerte que se contemple su aplicación permanente en todo el Municipio.
 
-Los derechos por limpieza de predios no edificados o baldíos se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada y, en general, el costo y demás elementos que requiere el Ayuntamiento para la prestación del servicio.
+Los Ayuntamientos deberán realizar las acciones de limpieza y desmonte necesarias para prevenir o limitar los daños a la salud de la población. Cuando las autoridades sanitarias determinen zonas o áreas de emergencia por la presencia de riesgos para la salud de la población o por un elevado número de casos de enfermedades transmitidas por vector.
 
-Para la prestación del servicio de limpieza de predios baldíos o no edificados, el Ayuntamiento alentará la celebración de convenios con sus propietarios o poseedores, sin demérito de que el incumplimiento de la obligación de limpieza establecida en el primer párrafo de este precepto genere la imposición de las sanciones económicas a que se refiere el capítulo de sanciones administrativas de este Código.
+Los derechos por limpieza y desmonte de predios no edificados o baldíos se causarán y pagarán de acuerdo a lo establecido en la Ley de Ingresos Municipal respectiva y en aquellos Municipios que no exista (sic) contemplado el rubro, pagarán el costo del arrendamiento de la maquinaria y la mano de obra utilizada y en general el costo y demás elementos que requiere el Ayuntamiento para la prestación del servicio.
 
-Los Ayuntamientos podrán establecer estímulos fiscales a los propietarios o poseedores de los predios señalados en este artículo, cuando acrediten haber realizado actividades específicas de limpieza durante el año inmediato anterior, conforme a las previsiones que se contengan en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente.
+El incumplimiento de la obligación de limpieza y desmonte de predios establecido en el primer párrafo de este precepto, generará la imposición de las sanciones económicas a que se refiere el capítulo de sanciones administrativas de este Código.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
 
@@ -2581,7 +2581,7 @@ En cada Ayuntamiento sólo podrá haber un sindicato de trabajadores. En el caso
 
 ###### ARTICULO 234.
 
-El trabajador de confianza no podrá formar parte de la organización sindical; si perteneciera a ésta por haber sido trabajador de base; quedarán en suspenso sus obligaciones y derechos para con el sindicato, mientras desempeña puesto de confianza, al concluir estas funciones podrá reintegrarse a su plaza de base.
+El trabajador de confianza no podrá formar parte de la organización sindical; si perteneciera a ésta por haber sido trabajador de base, quedarán en suspenso sus obligaciones y derechos para con el sindicato, mientras desempeña puesto de confianza, al concluir estas funciones podrá reintegrarse a su plaza de base.
 
 ###### ARTICULO 235.
 
@@ -2667,7 +2667,7 @@ En los casos de violación a lo dispuesto en el Artículo 242, el Tribunal de Co
 
 ###### ARTICULO 247.
 
-Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
+Las renumeraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3542,3 +3542,7 @@ A partir de la entrada en vigor de la presente ley, los prestadores de los servi
 P.O. 15 DE MARZO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
