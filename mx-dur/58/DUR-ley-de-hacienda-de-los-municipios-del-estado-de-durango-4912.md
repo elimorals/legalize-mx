@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "2005-12-15"
+last_updated: "2006-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 20 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DEL 1 DE ENERO DE 2007, CON EXCEPCION DE LO CONTENIDO EN EL CAPITULO XVIII DEL TITULO III DENOMINADO POR SERVICIO PUBLICO DE ILUMINACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -3866,3 +3868,21 @@ Los ayuntamientos adecuarán sus respectivas Leyes de Ingresos para el ejercicio
 Los ayuntamientos tomarán las medidas pertinentes para registrar contablemente como aprovechamientos los ingresos por concepto de estacionamientos de vehículos en la vía pública en aquellos lugares donde existen aparatos marcadores de tiempo.
 
 Corresponde a la Entidad de Auditoria Superior del Estado, verificar que en los informes preliminares correspondiente se cumpla con la presente disposición.
+
+P.O. 20 DE JULIO DE 2006.
+
+Artículo Primero.- La presente Ley entrará en vigor el 1 de enero de 2007, posterior a su publicación en el Periódico Oficial del Estado (sic) del Gobierno del Estado.
+
+La elaboración de iniciativas de leyes de ingresos que presenten los ayuntamientos para el ejercicio fiscal de 2007, estarán de conformidad a lo dispuesto en la presente Ley.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda de los Municipios para el Estado de Durango expedida mediante decreto No. 128, y publicada en el Periódico Oficial 19 bis, de fecha 6 de marzo de 1988, así como sus subsecuentes reformas; exceptuando lo contenido en el capítulo XVIII del Título III denominado por Servicio Público de Iluminación.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto.- Los ayuntamientos deberán actualizar de forma constante, su registro catastral, para considerar dentro de él, y al ejercicio fiscal del año siguiente las construcciones que se vayan adhiriendo a los predios, independientemente de que éstos sean urbanos o rurales, en relación con la expedición de permisos por construcción, reconstrucción, reparación y demoliciones, contenida en la Sección Cuarta del Capítulo II, de esta Ley.
+
+Artículo Quinto.- Los Ayuntamientos dentro del plazo de un año a la entrada en vigor del presente ordenamiento deberán contar un registro de las personas que realicen actividades Comerciales y oficios ambulantes, en la vía pública, afín de que se cuente con un padrón que haga efectivo el cobro del Impuesto sobre actividades comerciales y oficios ambulantes.
+
+Artículo Sexto.- Los Ayuntamientos deberán actualizar las tarifas y conceptos de agua potable y alcantarillado en sus Leyes de Ingresos respectivas de conformidad con las disposiciones de la Ley de Agua para el Estado de Durango.
+
+Artículo Séptimo.- En caso de que alguno de los servicios públicos a que se refiere esta Ley sea prestado por un organismo público o concesionario particular al municipio, el prestador del servicio se sujetará a las tarifas que por la prestación del mismo establezca el municipio en su Ley de Ingresos.
