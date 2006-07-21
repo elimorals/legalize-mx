@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2005-02-11"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -183,7 +183,19 @@ XXVIII. Suscribir acuerdos y convenios de coordinación y de cooperación técni
 
 XXIX. Implementar un sistema digitalizado de información que permita conocer la eficacia de las medidas preventivas y correctivas sugeridas, su seguimiento, así como los indicadores relativos al avance en la gestión administrativa y financiera de las entidades fiscalizables;
 
-XXX. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables.
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XXX. Vigilar que las Remuneraciones de los servidores públicos del Estado y Municipios, se ajusten a lo establecido en los catálogos generales de puestos y tabuladores de remuneraciones aprobados por la Legislatura del Estado o por los ayuntamientos respectivos;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XXXI. Proporcionar a solicitud de los Ayuntamientos, asesoría técnica, información y orientación en materia de catálogos generales de puestos y de tabuladores de remuneraciones;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XXXII. Proporcionar la información que el Consejo Consultivo de Valoración Salarial en el cumplimiento de sus obligaciones le solicite; y
+
+XXXIII. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -934,3 +946,21 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+G.G. 21 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Para la integración del Primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el 15 de septiembre del año 2006.
