@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2006-06-30"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -73,9 +73,13 @@ IV. Ayuntamiento. A los Ayuntamientos del Estado de México.
 
 V. Cancelación Presupuestaria. Al acto de suprimir todos los elementos de una clave presupuestaria y su correspondiente asignación de gasto.
 
-VI. Código. Al Código Financiero del Estado de México y Municipios.
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-VII. Conjuntos Urbanos:
+VI. Catálogo General de Puestos. Instrumento administrativo en el que se reúne, clasifica y sistematiza la información de los empleos públicos y que define la naturaleza, objetivos, tipos, especificaciones, categorías y requisitos para ocuparlos. Así mismo, incluirá por puesto, las políticas genéricas para la asignación de prestaciones y estímulos o beneficios adicionales al salario;
+
+VII. Código. Al Código Financiero del Estado de México y Municipios.
+
+VIII. Conjuntos Urbanos:
 
 A). Habitacional.
 
@@ -87,79 +91,83 @@ D). Abasto, comercio y servicios.
 
 E). Mixto.
 
-VIII. Contraloría. A la Secretaría de la Contraloría.
+IX. Contraloría. A la Secretaría de la Contraloría.
 
-IX. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
+X. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
 
-X. Eje Rector. Al agrupamiento de políticas públicas contenido en el Plan de Desarrollo del Estado de México.
+XI. Eje Rector. Al agrupamiento de políticas públicas contenido en el Plan de Desarrollo del Estado de México.
 
-XI. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de diciembre.
+XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de diciembre.
 
-XII. Entes Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
+XIII. Entes Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
 
-XIII. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos.
+XIV. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos.
 
-XIV. Estado. Al Estado Libre y Soberano de México.
+XV. Estado. Al Estado Libre y Soberano de México.
 
-XV. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, con la misión de las dependencias y entidades públicas.
+XVI. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, con la misión de las dependencias y entidades públicas.
 
-XVI. (DEROGADA, G.G. 4 DE JUNIO DE 2004)
+XVII. (DEROGADA, G.G. 4 DE JUNIO DE 2004)
 
-XVII. Gasto corriente. A las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
+XVIII. Gasto corriente. A las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
 
-XVIII. Gasto de inversión en obras y acciones. A las asignaciones destinadas a cubrir el pago de las obras públicas, la adquisición de bienes muebles e inmuebles y la ejecución de proyectos productivos de carácter social.
+XIX. Gasto de inversión en obras y acciones. A las asignaciones destinadas a cubrir el pago de las obras públicas, la adquisición de bienes muebles e inmuebles y la ejecución de proyectos productivos de carácter social.
 
-XIX. Gasto irreductible. Son las erogaciones mínimas indispensables para que pueda ejercer sus funciones una dependencia o entidad, principalmente asociados a las remuneraciones salariales, retenciones de seguridad social y fiscales, así como los bienes y servicios básicos.
+XX. Gasto irreductible. Son las erogaciones mínimas indispensables para que pueda ejercer sus funciones una dependencia o entidad, principalmente asociados a las remuneraciones salariales, retenciones de seguridad social y fiscales, así como los bienes y servicios básicos.
 
-XX. Gobernador. Al Gobernador del Estado de México.
+XXI. Gobernador. Al Gobernador del Estado de México.
 
-XXI. Hacienda Pública. A la obtención, administración y aplicación de los ingresos públicos del gobierno, en el ámbito de su competencia, que se conforma por las contribuciones, productos, aprovechamientos, bienes, propiedades y derechos que al gobierno, estatal o municipal le pertenecen y forman parte de su patrimonio.
+XXII. Hacienda Pública. A la obtención, administración y aplicación de los ingresos públicos del gobierno, en el ámbito de su competencia, que se conforma por las contribuciones, productos, aprovechamientos, bienes, propiedades y derechos que al gobierno, estatal o municipal le pertenecen y forman parte de su patrimonio.
 
-XXII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
-XXIII. Inversión financiera. Al importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito. Incluye el otorgamiento de créditos para el fomento de actividades productivas y las que tienen por objeto las prestaciones y apoyos distintos a las laborales de los servidores públicos y de los subsidios para la población.
+XXIV. Inversión financiera. Al importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito. Incluye el otorgamiento de créditos para el fomento de actividades productivas y las que tienen por objeto las prestaciones y apoyos distintos a las laborales de los servidores públicos y de los subsidios para la población.
 
-XXIV. Legislatura. A la Legislatura del Estado Libre y Soberano de México.
+XXV. Legislatura. A la Legislatura del Estado Libre y Soberano de México.
 
 > <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-XXV. LIGECEM. Al Libro Décimo Cuarto del Código Administrativo del Estado de México, denominado "De la Información e Investigación Geográfica, Estadística y Catastral del Estado de México".
+XXVI. LIGECEM. Al Libro Décimo Cuarto del Código Administrativo del Estado de México, denominado "De la Información e Investigación Geográfica, Estadística y Catastral del Estado de México".
 
-XXVI. Ley de Ingresos. A la Ley de Ingresos del Estado de México y a la Ley de Ingresos de los Municipios del Estado de México.
+XXVII. Ley de Ingresos. A la Ley de Ingresos del Estado de México y a la Ley de Ingresos de los Municipios del Estado de México.
 
 > <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-XXVII. Manual Catastral. Al Manual Catastral del Estado de México.
+XXVIII. Manual Catastral. Al Manual Catastral del Estado de México.
 
-XXVIII. Municipios. A los municipios que señala la Ley Orgánica Municipal del Estado de México.
+XXIX. Municipios. A los municipios que señala la Ley Orgánica Municipal del Estado de México.
 
-XXIX. Periódico Oficial. A la "Gaceta del Gobierno" del Estado de México y a la Gaceta Municipal, en el caso de los municipios.
+XXX. Periódico Oficial. A la "Gaceta del Gobierno" del Estado de México y a la Gaceta Municipal, en el caso de los municipios.
 
-XXX. Procuraduría. A la Procuraduría General de Justicia.
+XXXI. Procuraduría. A la Procuraduría General de Justicia.
 
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XXXI. Secretaría. A la Secretaría de Finanzas.
-
-XXXII. Sector. A la agrupación de objetivos, proyectos y acciones que responden a un segmento de los fenómenos económicos y sociales que atienden de manera agregada a las previsiones del Plan de Desarrollo del Estado de México.
-
-XXXIII. Servicio de deuda pública. Al importe de las erogaciones destinadas a cubrir los intereses, generados por los créditos concertados y las amortizaciones de capital.
-
-XXXIV. Tesorería. A la tesorería municipal.
+XXXII. Remuneración: A los pagos hechos por concepto de sueldo, compensaciones, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra percepción o prestación que se entregue al servidor público por su trabajo. Esta definición no será aplicable para los efectos del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal;
 
 > <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-XXXV. Transferencia. Asignaciones previstas en el presupuesto de egresos, a través de ayudas y apoyos económicos, destinadas a las entidades públicas coordinadas por las dependencias para sufragar su operación, inversión patrimonial y actividades inherentes.
+XXXIII. Secretaría. A la Secretaría de Finanzas.
+
+XXXIV. Sector. A la agrupación de objetivos, proyectos y acciones que responden a un segmento de los fenómenos económicos y sociales que atienden de manera agregada a las previsiones del Plan de Desarrollo del Estado de México.
+
+XXXV. Servicio de deuda pública. Al importe de las erogaciones destinadas a cubrir los intereses, generados por los créditos concertados y las amortizaciones de capital.
+
+XXXVI. Tesorería. A la tesorería municipal.
 
 > <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-XXXVI. Traspaso Presupuestario Externo. Serán aquellos que se realicen entre programas o capítulos de gasto.
+XXXVII. Transferencia. Asignaciones previstas en el presupuesto de egresos, a través de ayudas y apoyos económicos, destinadas a las entidades públicas coordinadas por las dependencias para sufragar su operación, inversión patrimonial y actividades inherentes.
 
 > <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-XXXVII. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro de un mismo programa y capítulo de gasto.
+XXXVIII. Traspaso Presupuestario Externo. Serán aquellos que se realicen entre programas o capítulos de gasto.
 
-XXXVIII. Vivienda. Es la prevista en la fracción I del artículo 5.41 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro de un mismo programa y capítulo de gasto.
+
+XL. Vivienda. Es la prevista en la fracción I del artículo 5.41 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
 
 A). Social Progresiva. Aquélla cuyo valor al término de la construcción o adquisición no exceda de 55,000 unidades de inversión.
 
@@ -6383,7 +6391,7 @@ El usuario sujeto al pago de este derecho deberá presentar la declaración o re
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-Los derechos previstos en este artículo se pagarán en el momento en se que paguen los derechos por el suministro de agua potable dentro de los plazos que prevé este Código.
+Los derechos previstos en este artículo se pagarán en el momento en que se paguen los derechos por el suministro de agua potable dentro de los plazos que prevé este Código.
 
 > <small>(DEROGADO CUARTO PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -10341,6 +10349,18 @@ El gasto total aprobado en el Presupuesto de Egresos, no podrá exceder al total
 
 En el caso de los municipios, el Presupuesto de Egresos, será el que se apruebe por el Ayuntamiento.
 
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+En la aprobación del presupuesto de egresos de los municipios, los ayuntamientos determinarán la remuneración que corresponda a cada empleo, cargo o comisión.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+Cuando se trate de la creación de un nuevo empleo cuya remuneración no hubiere sido fijada, deberá determinarse tomando como base la prevista para algún empleo similar.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+Las remuneraciones estarán sujetas a las modificaciones que, en su caso, sean convenidas conforme a la legislación laboral.
+
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 286.
@@ -10369,17 +10389,17 @@ Las dependencias, entidades públicas y unidades administrativas formularán su 
 
 Las dependencias, entidades públicas, entes autónomos y municipios que reciban recursos por programas de apoyos federales establecidos en un acuerdo o convenio, para la ejecución de dichos programas, deberán prever en el capítulo de gasto correspondiente el ejercicio de los mismos, informando de ello para la integración de la cuenta pública.
 
-> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
-Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión de cualquier naturaleza, que será determinada anualmente en los presupuestos que correspondan y ningún servidor público podrá percibir cantidad mayor a la del superior jerárquico.
+Los servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión de cualquier naturaleza, que será determinada anualmente en los presupuestos que correspondan. Ningún servidor público podrá percibir cantidad mayor a la del superior jerárquico, ni remuneración que no haya sido aprobada por la Legislatura o por el Ayuntamiento correspondiente.
 
-> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
-Para determinar las remuneraciones de todo tipo de los servidores públicos municipales, los Ayuntamientos tomarán en cuenta elementos tales como: población, monto presupuestal disponible, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos y eficiencia en la recaudación de ingresos.
+Para determinar las remuneraciones de los servidores públicos municipales, los ayuntamientos considerarán entre otros, los factores siguientes: población, recursos económicos disponibles, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos.
 
-> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
-La asignación de remuneraciones de todo tipo, se fijará en base a los criterios señalados en este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional.
+La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -12272,3 +12292,21 @@ G.G. 30 DE JUNIO DE 2006.
 Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
+G.G. 21 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente a más tardar el 15 de septiembre del año 2006.
