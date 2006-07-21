@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-12-31"
+last_updated: "2006-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -63,9 +63,13 @@ Las normas legales hacendarias que establezcan las obligaciones a cargo de los p
 
 Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas de conformidad con el Código Fiscal.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 7.
 
-Para efectos de la presente Ley las siglas VSMGZ se entenderán como Veces Salario Mínimo General Vigente de la Zona.
+Para efectos de la presente Ley las siglas VSMGVZ se encontrarán como Veces Salario Mínimo General Vigente de la Zona.
+
+Para la determinación y pago de las contribuciones y sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de cincuenta centavos más próximo, inferior o superior, según corresponda.
 
 ###### Artículo 8.
 
@@ -125,9 +129,9 @@ La Hacienda Pública de los Municipios del Estado de Querétaro, para erogar los
 
 Igualmente tendrán derecho los Municipios a percibir las participaciones y aportaciones que a los Municipios otorguen el Gobierno del Estado y el Gobierno Federal.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-Artículo 16 bis. Es obligación de todos los contribuyentes pagar en tiempo y forma sus contribuciones. La Dependencia encargada de las Finanzas Públicas Municipales tendrá la obligación de recaudar las contribuciones causadas en Ejercicios Fiscales anteriores al vigente, lo cual se preverá en una sección específica en la correspondiente Ley de Ingresos.
+Artículo 16 bis. Es obligación de todos los contribuyentes pagar en tiempo y forma sus contribuciones. La dependencia encargada de las finanzas públicas municipales tendrá la obligación de recaudar las contribuciones que se causen, así como las que se causaron en Ejercicios Fiscales anteriores, previendo estas últimas en una sección específica en la correspondiente Ley de Ingresos.
 
 ###### Artículo 17.
 
@@ -223,21 +227,31 @@ VII.- En la transmisión de propiedad que se realice al constituir o disolver el
 
 VIII.- En las adquisiciones de inmuebles que hagan las Instituciones de Asistencia Privada con domicilio en el Estado, siempre y cuando se encuentren constituidas conforme a la Ley que las regula.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 25.
 
-Será base gravable de este impuesto el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial a la fecha de operación, determinado por el avalúo bancario practicado por la institución autorizada o valuador facultado conforme a la Ley, mismo que deberá anexarse como parte integrante del aviso traslativo de dominio de la operación de que se trate.
+Serán bases gravables de este impuesto el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial del inmueble a la fecha de operación, éste último determinado por el avalúo fiscal practicado por perito valuador autorizado por el Ejecutivo del Estado o en tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el dominio pleno, por el avalúo practicado en los términos de la Ley Agraria.
 
-Cuando no se pacte precio, el impuesto se calculará tomando en cuenta lo anterior. En la constitución, adquisición o extinción del usufructo o la nuda propiedad se estará también a lo dispuesto en el primer párrafo de este Artículo, debiendo en todo caso realizarse el avalúo bancario o fiscal ahí mencionado.
+Cuando no se pacte precio o monto de la operación, el impuesto se calculará tomando en cuenta el valor catastral y el valor comercial conforme al párrafo anterior.
 
-En la adquisición de bienes por remate, el avalúo deberá referirse a la fecha en que quede firme la operación del mismo.
+En la adquisición de bienes por remate, el avalúo fiscal deberá referirse a la fecha en que quede firme la aprobación del mismo.
+
+Para la adquisición de vivienda cuyo valor no exceda de trescientas setenta y cinco veces el salario mínimo mensual en el Estado, realizada con financiamiento otorgado o relacionado con algún programa de fomento de vivienda auspiciado por organismos descentralizados de la Federación o del Estado, el valor comercial podrá ser determinado por el avalúo practicado en los términos de la legislación que regula las actividades y servicios financieros para el otorgamiento de crédito garantizado, y como base del impuesto, el formulado por perito valuador autorizado por el Ejecutivo del Estado, quien será responsable del contenido del mismo, conforme a lo señalado en este capítulo.
 
 ###### Artículo 26.
 
 Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias de impuestos que resulten.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 27.
 
-Cuando el impuesto no se hubiere pagado dentro de su plazo ordinario legal, éste se actualizará multiplicándolo por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se realice el pago, entre el mencionado índice correspondiente al mes anterior a aquél en que se efectúe la adquisición.
+Cuando no se cubra el impuesto sobre traslado de dominio en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+La actualización se calculará con base en el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes anterior al más reciente del periodo, entre el citado índice correspondiente, al mes anterior al más antiguo de dicho periodo. El índice nacional de precios al consumidor referido se determinará conforme a lo dispuesto por el artículo 20 Bis del Código Fiscal de la Federación, resultando aplicable lo dispuesto por el artículo 17 A del citado Código, en lo previsto por el Código Fiscal del Estado.
+
+Las contribuciones no se actualizarán por fracción de mes, además deberán pagarse recargos por concepto de indemnización al fisco estatal por la falta de pago oportuno. Los recargos se aplicarán cada mes sobre el monto de las contribuciones actualizadas y se calcularán según las tasas que para el pago a plazo y por moras publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
 
 ###### Artículo 28.
 
@@ -253,9 +267,11 @@ b) La cantidad obtenida conforme a la fracción anterior, se dividirá entre el 
 
 c).- El resultado que se obtenga conforme al inciso anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El valuador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 30.
 
-Para lo señalado en este capítulo, los peritos valuadores deberán estar autorizados conforme a la Ley y serán responsables del contenido de sus avalúos.
+Para lo señalado en este capítulo, los peritos valuadores deberán estar autorizados por el Ejecutivo del Estado en los términos de la Ley de Catastro para el Estado de Querétaro y serán responsables de la forma y del contenido de los avalúos y sus consecuencias.
 
 ###### Artículo 31.
 
@@ -295,9 +311,11 @@ El enajenante y el adquirente responden solidariamente del impuesto que se deba 
 
 Cuando por el avalúo practicado, ordenado o tomado en consideración por la Dependencia Encargada de las Finanzas Públicas Municipales, resulte liquidación, por diferencias de impuestos, los fedatarios no serán responsables solidarios por las mismas y las partes deberán cubrir dichas diferencias dentro de un plazo de quince días naturales a partir de la fecha en que se les notifique a ellos o a quien los represente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 35.
 
-Los causantes de este impuesto presentarán en la Dependencia Encargada de las Finanzas Públicas de la demarcación correspondiente, o donde en su caso lo prevenga la Ley de Ingresos, una declaración o aviso que contendrá:
+Los causantes de este impuesto presentarán en la dependencia encargada de las finanzas públicas municipales de la demarcación correspondiente o donde, en su caso, lo prevenga la Ley de Ingresos, por escrito o a través de medios electrónicos, una declaración o aviso que contendrá:
 
 I.- Los nombres y domicilios de los contratantes o del adquirente en su caso;
 
@@ -321,9 +339,11 @@ Las personas físicas o morales que se dediquen, sea por su objeto social o por 
 
 Las personas morales que tengan como objeto social principal la compraventa de inmuebles y dichos inmuebles los adquieran solamente para formar parte de su activo fijo, podrán solicitar de la Dependencia Encargada de las Finanzas Públicas Municipales que se les exima de la obligación consignada en el párrafo anterior respecto de dichos inmuebles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 36.
 
-Las declaraciones deberán ser firmadas y acompañadas de los documentos, en su caso como se establece en las siguientes fracciones:
+Las declaraciones deberán ser firmadas y acompañadas de los documentos, electrónicamente o por escrito, en su caso, como se establece en las siguientes fracciones:
 
 I.- Si el acto o contrato traslativo de dominio se hace constar en escritura pública, la declaración será firmada por el notario que la hubiera autorizado;
 
@@ -331,29 +351,49 @@ II.- Cuando se trate de actos o contratos que se hagan constar en documentos pri
 
 III.- En los casos de la adquisición de la propiedad como consecuencia de una resolución administrativa, judicial o de cualquier otra autoridad competente, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia en su caso, de la fecha en que fue declarada firme;
 
-IV.- Deberá acompañarse a la declaración, además de los documentos señalados en las fracciones I y II anteriores, la constancia de estar al corriente en el pago del impuesto predial o cualesquiera otro gravamen fiscal derivados de los bienes inmuebles, en los términos de esta Ley y otros ordenamientos fiscales del Estado;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
 
-V.- El avalúo a que se refiere el primer párrafo del Artículo 25, salvo el caso de que se trate de ventas realizadas por las personas a que se refieren los dos últimos párrafos del Artículo 35 y cumplan con las obligaciones ahí establecidas;
+IV.- Acompañar recibo o constancia de estar al corriente en el pago de impuestos predial o cualesquier otro gravamen fiscal derivados de los bienes inmuebles, espedida (sic) dentro de los treinta días anteriores a la fecha de presentación del aviso de traslado de dominio en las oficinas municipales correspondientes;
 
-VI.- Cuando la Dependencia Encargada de las Finanzas Públicas estime necesario, podrá solicitar de los Notarios o de los declarantes, que le proporcionen una copia autorizada del documento en que se hubiere hecho constar el acto o contrato de que se trate, y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
 
-VII.- Las oficinas de la Dependencia Encargada de las Finanzas Públicas recibirán las declaraciones y demás documentos tal y como se presenten sin hacer observaciones ni objeciones, y entregarán como constancia de pago el recibo oficial por el monto de la liquidación determinada.
+V.- El avalúo a que se refiere el artículo 25 de esta Ley;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
+
+VI.- Cuando la dependencia encargada de las finanzas públicas estime necesario, podrá solicitar de los Notarios o de los declarantes que le proporcionen una copia autorizada de la escritura o de cualquier otro documento que haya servido de base para la determinación del Impuesto Sobre Traslado de Dominio;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
+
+VII.- Las oficinas de la dependencia encargada de las finanzas públicas recibirán las declaraciones y demás documentos tal y como se presenten, siempre que cumplan con los requisitos señalados en el presente artículo y lo establecido en el artículo 35 de este mismo ordenamiento, en caso de que falte algún documento se tendrá por no ingresado el trámite;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2006)</small>
+
+VIII.- El encargado de las finanzas públicas municipales podrá autorizar el pago provisional del Impuesto Sobre Traslado de Dominio, siempre y cuando se encuentren al corriente en el pago del Impuesto predial y que la presentación del Aviso de traslado de Dominio contenga firma y sello original cuando sea por escrito.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 37.
 
-Las declaraciones a que se refieren los Artículos anteriores se harán en los formatos que para tal efecto se aprueben oficialmente. La Dependencia Encargada de las Finanzas Públicas esta facultada para comprobar la veracidad de los datos de las declaraciones, los causantes están obligados a cubrir las diferencias que resulten, sin perjuicio de las sanciones que deban aplicarse por la falsedad de sus declaraciones, salvo el caso establecido en el último párrafo del Artículo 34 de esta Ley.
+Cuando las declaraciones sean formuladas por un notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la dependencia encargada de las finanzas públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que sirvieron de base para la determinación del Impuesto, con la consecuencia de que una vez exhibidos, la dependencia encargada de las finanzas públicas no podrán negar el empadronamiento y liberación del aviso respectivo, salvo por discrepancia con la declaración.
 
-Cuando las declaraciones sean formuladas por un Notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la Dependencia Encargada de las Finanzas Públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que por lo mismo obren en el protocolo del Notario, con la consecuencia de que una vez exhibidos la Dependencia Encargada de las Finanzas Públicas no podrá negar el empadronamiento respectivo, salvo por discrepancia con la declaración.
+En todo caso, los avisos a que se refieran las declaraciones de Traslado de Dominio, cuando se hayan presentado en forma completa serán verificados por la Dependencia Encargada de las Finanzas Públicas, con la finalidad de determinar posibles diferencias en un plazo de quince días hábiles contados a partir de la fecha en que se hubiesen presentado. En caso de no resolver dentro del plazo señalado, se tendrán por registrados los avisos y por autorizados, en definitiva, los pagos realizados con motivo de dicho acto o contrato traslativo de dominio, y si con posterioridad al mencionado plazo surgieren diferencias en los pagos realizados o discrepancias en la declaración, éstos no causarán responsabilidad alguna para el contribuyente ni para el fedatario.
 
-En todo caso, los inmuebles a que se refieran las declaraciones a que se refieren los Artículos 36 y 37 deberán ser empadronados por la Dependencia Encargada de las Finanzas Públicas para su entrega a los interesados junto con los recibos de pago generados, en un plazo de quince días hábiles contados a partir de la fecha en que se hubiesen presentado. En caso de no resolver dentro del plazo señalado, se tendrán por empadronados las (sic) inmuebles y por autorizados en definitiva los pagos realizados con motivo de dicho acto o contrato traslativo de dominio, y si con posterioridad al mencionado plazo surgieran diferencias en los pagos realizados o discrepancias en la declaración, estos no causarán responsabilidad alguna para el contribuyente ni para el fedatario.
+La liquidación que determine diferencias se entregará a los notarios a través del personal indicado por los mismos o, en su caso, a los contribuyentes correspondientes, debiendo firmar de recibido y registrando la fecha en que le fue entregada la liquidación por dependencia encargada de las finanzas municipales correspondiente.
+
+En caso de que el notario o el contribuyente se niegue a recibir la liquidación, se hará constar en la liquidación de diferencias, sin que esto interrumpa el plazo establecido en el párrafo antepenúltimo del presente artículo.
 
 ###### Artículo 38.
 
 La consulta escrita en relación a la base gravable del impuesto que se formule a la Dependencia Encargada de las Finanzas Públicas por los Notarios o por los interesados, cuando se trate de contratos privados, deberá resolverse dentro de los diez días hábiles siguientes a la fecha de su presentación, sin que con esto interrumpa el plazo para su pago.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 39.
 
-Los encargados del Registro Público de la Propiedad no inscribirán los actos jurídicos a que se refieren los Artículos anteriores sin que se les compruebe haber realizado el pago del impuesto de traslación de dominio.
+Los encargados del Registro Público de la propiedad no inscribirán los actos jurídicos a que se refieren los artículos anteriores, sin que se les compruebe haber realizado el pago del impuesto de traslación de dominio.
+
+Con la finalidad de comprobar dicho pago, podrán presentar constancia de no adeudo del Impuesto Sobre Traslado de Dominio, emitido por la dependencia encargada de las finanzas públicas municipales, el recibo de pago del mismo impuesto, o bien, el aviso de traslado de dominio debidamente registrado y liberado.
 
 ### CAPÍTULO TERCERO. IMPUESTO SOBRE FRACCIONAMIENTOS, CONDOMINIOS Y SUBDIVISIÓN DE PREDIOS
 
@@ -607,15 +647,19 @@ Para ser otorgada una licencia inicial o la revalidación anual, los interesados
 
 Una vez que haya sido empadronado el causante, deberá cubrir en la Dependencia Encargada de las Finanzas Públicas Municipales, los derechos que le fije la correspondiente Ley de Ingresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 70.
 
-Hecho el pago a que se refiere el artículo anterior, se le entregará al causante constancia de la licencia, que podrá consistir en una placa metálica, o un tarjetón que contendrá los datos siguientes:
+Hecho el pago a que se refiere el artículo anterior, se le entregará al causante constancia de la licencia, que podrá consistir en una placa metálica, o un tarjetón que contenga los datos siguientes:
 
 a. Nombre del Municipio.
 
 b. Domicilio del establecimiento.
 
-c. Clave Única el Registro Poblacional CURP o Registro Federal de Contribuyentes para personas morales.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
+c) Clave Única de Registro Poblacional CURP o Registro Federal de Contribuyentes.
 
 d. Año en el cual se expide
 
@@ -799,7 +843,7 @@ En estos casos los Oficiales actuarán con el Secretario respectivo, quedando ba
 
 ###### Artículo 87.
 
-Por los servicios extraordinarios de que habla el artículo anterior, los Oficiales y Secretarios percibirán la cuarta parte de lo que se recaude por concepto de derechos, excepto el Impuesto para Educación y Obras Públicas Municipales de los que señale la Ley de Ingresos del Municipio, participación que le será pagada mensualmente por la Dependencia Encargada de las Finanzas Públicas, distribuyéndose el 66% para el Oficial y el 34% para el Secretario.
+(DEROGADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 88.
 
@@ -921,13 +965,17 @@ Por el permiso para la cremación de cadáveres se causará y pagará lo estable
 
 ### CAPÍTULO NOVENO. POR LOS SERVICIOS PRESTADOS POR EL RASTRO MUNICIPAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 101.
 
-Por los siguientes servicios prestados por el rastro municipal se causarán y pagarán los derechos que al efecto se establezcan en la Ley de Ingresos de cada Municipio.
+Por los siguientes servicios prestados por el rastro municipal se causarán y pagarán los derechos que al efecto se establezcan en la Ley de Ingresos de cada municipio.
 
 I.- Por sacrificio y procesamiento, por cabeza: vacuno, porcino, ovicaprino, terneras, caballar, mular y asnal, degüello y procesamiento por Kg. en pie.
 
-II.- Por sacrificio y procesamiento de aves, que incluye escalado y pelado: pollos y gallinas mercado, pollos y gallinas supermercado, pavos Mercado, Pavos supermercado, otras aves.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
+
+II.- Por sacrificio y procesamiento de aves, que incluye escaldado y pelado: pollos y gallinas mercado, pollos y gallinas supermercado, pavos Mercado, Pavos supermercado, otras aves.
 
 III.- El sacrificio de ganado en horas extraordinarias, independientemente de los honorarios del veterinario, autorizado por la secretaría de salud, por cabeza: vacunos y terneras, porcinos, ovicaprinos, caballar, mular y asnal, aves, otros.
 
@@ -935,7 +983,7 @@ IV.- La introducción de ganado al rastro, en horas extraordinarias por cabeza: 
 
 V.- Por el uso de: agua para lavado de vísceras y cabeza, por pieza, y cazo.
 
-VI.- Por el sacrificio de ganado vacuno, porcino, lanar, cabrío, fuera del rastro municipal, exclusivamente para consumo familiar, por cabeza.
+VI.- (DEROGADA, P.O. 21 DE JULIO DE 2006)
 
 ### CAPÍTULO DÉCIMO. POR LOS SERVICIOS PRESTADOS EN MERCADOS MUNICIPALES
 
@@ -1047,131 +1095,169 @@ c. Por verificación para el otorgamiento de autorizaciones de concesiones y lic
 
 d. Por los servicios que presta la autoridad municipal en materia de Catastro dentro de su circunscripción territorial.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2006)</small>
+
+DEL (SIC) CAPITULO DECIMO CUARTO
+
+DEL USO DE LA VÍA PÚBLICA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 117.
-
-El arrendamiento de fincas y terrenos, así como la explotación de capitales de los Municipios del Estado, se hará previa autorización del Ayuntamiento, en cuyo acuerdo debe constar la opinión del Presidente Municipal, de los Regidores de Hacienda y el encargado de las finanzas del Municipio, extendiéndose contratos por escrito.
-
-Se exceptúan del requisito anterior, los contratos a corto tiempo que se celebren con empresas de circo, carpas, ferias, para ocupar terrenos en las vías públicas; contratos que autorizará el encargado de las finanzas públicas municipales.
-
-###### Artículo 118.
-
-Cuando se trate de un contrato cuyo plazo exceda del período para el cual hubiere sido electo el Ayuntamiento que intervenga, se estará a lo dispuesto en la Ley Orgánica Municipal del Estado.
-
-###### Artículo 119.
-
-En todos los contratos que se celebren respecto de bienes inmuebles o inversiones de los Ayuntamientos, se buscará que los Municipios obtengan las mayores percepciones posibles, como productos de sus bienes.
-
-###### Artículo 120.
-
-Los arrendamientos de inmuebles deben de recaudarse por mensualidades adelantadas, haciéndose constar esta circunstancia en los contratos respectivos.
-
-###### Artículo 121.
-
-De todo contrato autorizado deberá conservarse una copia en la dependencia encargada de las finanzas públicas que corresponda, para los efectos del control de la recaudación de los diferentes productos.
-
-###### Artículo 122.
-
-Por la explotación de bienes municipales por los siguientes conceptos: Arrendamiento de fincas municipales; explotación de tierras municipales para fabricación de ladrillo, teja y adobe, y extracción de cantera, piedra común, piedra fabricación de cal, por la explotación de yacimientos de arena, tierra, cal, barro, balastras, grava, cantera, piedra y similares, la explotación de yacimientos de minerales naturales y por la explotación de yacimientos naturales se pagarán las cuotas conforme lo establezca la correspondiente Ley de Ingresos de cada Municipio.
-
-###### Artículo 123.
-
-Por el arrendamiento de locales en mercados municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios.
-
-###### Artículo 124.
 
 El derecho de establecer mercados de cualquier clase que sean, es facultad exclusiva de los Ayuntamientos, los que también deberán de determinar, cuando fuere necesario e indispensable, las vías públicas que pueden ser utilizadas como zonas de mercados, para establecer puestos semifijos.
 
-###### Artículo 125.
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
 
-Todos los causantes de rentas de pisos en los mercados y zonas de mercados, quedan sujetos a la fiel observancia de los reglamentos vigentes.
+###### Artículo 118.
 
-## TÍTULO QUINTO. DE LOS PRODUCTOS
+Todos los causantes de rentas de piso en los mercados y zonas de mercados, quedan sujetos a la fiel observancia de los reglamentos vigentes.
 
-### CAPÍTULO PRIMERO. BIENES MUEBLES E INMUEBLES
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
 
-###### Artículo 126.
+###### Artículo 119.
 
-Para el pago de rentas de pisos en los mercados y vías públicas habilitadas como zonas de mercados, servirá de base la calificación que haga el encargado de las finanzas públicas municipales, de acuerdo con la tarifa de la correspondiente Ley de Ingresos de cada Municipio.
+Para el pago de rentas de pisos en los mercados y vías públicas habilitadas como zonas de mercados, servirá de base la calificación que haga el encargado de las finanzas públicas municipales, de acuerdo con la tarifa de la correspondiente Ley de Ingresos de cada municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
 
-###### Artículo 127.
+###### Artículo 120.
 
-El pago de la renta por el uso de piso de mercados y zonas de comercio en la vía pública la realizarán los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales; expedirán el recibo o boleto numerado correspondiente, mismo que deberá estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
-
-Para facilitar la recaudación, en todo caso los boletos deberán estar impresos, siendo de diferentes denominaciones, según se estime conveniente.
-
-También podrá hacerse la recaudación, mediante tarjetones impresos que obrarán en poder de los locatarios y en los que diariamente se hará la anotación por los recaudadores de haberse efectuado el pago. Al finalizar el mes los indicados tarjetones se concentrarán a la dependencia encargada de las finanzas públicas para comprobar la corrección de los ingresos diarios que, mediante el recibo oficial correspondiente, hayan amparado la entrega de los recaudadores.
-
-###### Artículo 128.
-
-La dependencia encargada de las finanzas públicas municipales llevará una relación de los locatarios de los mercados y zonas de mercados que ocupen puestos fijos, y durante el mes de enero de cada año el encargado de dicha dependencia procederá a clasificarlos como primera o segunda categoría, según la importancia y la situación del puesto que ocupen, asignándoles las cuotas diarias que deben pagar en el año, de acuerdo con las prevenciones de la tarifa correspondiente establecida en cada Municipio.
-
-###### Artículo 129.
-
-Cuando algún locatario deje de cubrir por tres días consecutivos las rentas correspondientes según la cuota diaria señalada, el Presiente Municipal o el Encargado de las Finanzas Públicas Municipales podrán ordenar indistintamente y sin más trámite, la desocupación del local arrendado, sin perjuicio de exigir por los medios legales, el pago de los adeudos y los gastos originados.
-
-###### Artículo 130.
-
-Por el uso de la vía pública se pagarán las cuotas conforme a lo establecido en la Ley de Ingresos de cada Municipio.
+Por el uso de la vía pública se pagarán las cuotas conforme a lo establecido en la Ley de Ingresos de cada municipio.
 
 I. Cuotas por piso en la vía pública, permisos para la venta de artículos en la vía pública, a excepción de expendios con venta y/o alquiler de libros, periódicos y revistas.
 
-a) Con venta de cualquier clase de artículos, por día
+a. Con venta de cualquier clase de artículos, por día.
 
-b) Con uso de vehículos de motor, por mes.
+b. Con uso de vehículos de motor, por mes.
 
-c) Con uso de casetas metálicas, por mes.
+c. Con uso de casetas metálicas, por mes.
 
-d) Vendedores con puesto fijo, de cualquier clase de artículo, mensual.
+d. Vendedores con puesto fijo, de cualquier clase de artículo, mensual.
 
-II.- La guarda de animales que transiten en vía pública sin vigilancia de sus dueños, más fletes y forrajes correspondientes y en su caso los daños que causaren.
+II. La guarda de animales que transiten en vía pública sin vigilancia de sus dueños, más fletes y forrajes correspondientes y en su caso los daños que causaren.
 
 III. Todos aquellos bienes entregados a la autoridad o recogidos de la vía pública por extravío, falta de permiso o por estar ubicados inadecuadamente, después de 15 días serán adjudicados al patrimonio del municipio.
 
-IV. Por estacionamiento según el reglamento.
+IV. Por estacionamiento, según el reglamento correspondiente de cada Municipio.
 
 V. Los vehículos de transporte público y de carga pagarán por uso de la vía pública por los siguientes conceptos:
 
-a) Sitios autorizados para taxi.
+a. Sitios autorizados para taxi.
 
-b) Sitios autorizados para servicio público de carga
+b. Sitios autorizados para servicio público de carga.
 
 VI. Los vehículos de transporte público pagarán en zonas autorizadas para ello por los siguientes conceptos:
 
-a) Autobuses urbanos.
+a. Autobuses urbanos.
 
-b) Microbuses y taxi buses urbanos.
+b. Microbuses y taxi buses urbanos.
 
-c) Autobuses, microbuses y taxi buses suburbanos.
+c. Autobuses, microbuses y taxi buses sub-urbanos.
+
+El Municipio tendrá la obligación de publicar en estrados los bienes que tengan en custodia por extravío, por estar ubicados inadecuadamente o falta de permiso, antes de ser adjudicados al mismo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 121.
+
+La dependencia encargada de las finanzas publicas municipales llevará una relación de los locatarios de los mercados y zonas de mercados que ocupen puestos fijos, y durante el mes de enero de cada año el encargado de dicha dependencia procederá a clasificarlos como primera o segunda categoría, según la importancia y la situación del puesto que ocupen, asignándoles las cuotas diarias que deben pagar en el año, de acuerdo con las prevenciones de la tarifa correspondiente establecida en cada municipio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 122.
+
+Cuando algún locatario deje de cubrir por treinta días consecutivos las rentas correspondientes según la cuota diaria señalada, el presidente municipal o el Encargado de las Finanzas Públicas Municipales podrán ordenar indistintamente y sin más trámite, la desocupación del local arrendado, sin perjuicio de exigir por los medios legales, el pago de los adeudos y los gastos originados.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 123.
+
+El pago de la renta por el uso de piso de mercados y zonas de comercio en la vía pública la realizarán los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales; expedirán el recibo o boleto numerado correspondiente, mismos que deberá estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
+
+Para facilitar la recaudación, en todo caso, los boletos deberán estar impresos, siendo de diferentes denominaciones, según se estime conveniente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 124.
+
+También podrá hacerse la recaudación mediante tarjetones impresos que obrarán en poder de los locatarios y en los que diariamente se hará la anotación por los recaudadores de haberse efectuado el pago. Al finalizar el mes, los indicados tarjetones se concentrarán a la dependencia encargada de las finanzas públicas municipales para comprobar la corrección de los ingresos diarios que, mediante el recibo oficial correspondiente, hayan amparado la entrega de los recaudadores.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 125.
+
+Por poner andamios, tapiales, materiales para la construcción y similares, que de alguna manera sean obstáculo para el libre tránsito en la vía pública, por día y por metro cuadrado se pagará lo establecido en la correspondiente Ley de Ingresos de cada municipio.
+
+> <small>N. DE E. LAS REFORMAS APROBADAS POR LA QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO, MODIFICAN DE MANERA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TITULO; DEBIDO A LO CUAL SE PRESENTA EL TEXTO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2006.</small>
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
+## TÍTULO QUINTO. DE LOS PRODUCTOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
+### CAPÍTULO PRIMERO. BIENES MUEBLES E INMUEBLES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 126.
+
+El arrendamiento de fincas y terrenos, así como la explotación de capitales de los Municipios del Estado, se hará previa autorización del ayuntamiento, en cuyo acuerdo debe constar la opinión del presidente municipal, de los regidores que integren la Comisión Permanente de Hacienda, Patrimonio y Cuenta Pública y del encargado de las finanzas del Municipio, extendiéndose contratos por escrito.
+
+Se exceptúan del requisito anterior, los contratos a corto tiempo que se celebren con empresas de circo, carpas, ferias, para ocupar terrenos en las vías públicas; contratos que autorizará el encargado de las finanzas públicas municipales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 127.
+
+Cuando se trate de un contrato cuyo plazo exceda del periodo para el cual hubiere sido electo el Ayuntamiento que intervenga, se estará a lo dispuesto en la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 128.
+
+En todos los contratos que se celebren respecto de bienes inmuebles o inversiones de los Ayuntamientos, se buscará que los Municipios obtengan las mayores percepciones posibles, como productos de sus bienes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 129.
+
+Los arrendamientos de inmuebles deben de recaudarse por mensualidades adelantadas, haciéndose constar esta circunstancia en los contratos respectivos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 130.
+
+De todo contrato autorizado deberá conservarse una copia en la dependencia encargada de las finanzas públicas municipales que corresponda, para los efectos de control de recaudación de los diferentes productos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 131.
 
-Por la instalación, tendido y permanencia de cables subterráneos o aéreos en la vía pública se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
+Por la explotación de bienes municipales por los siguientes conceptos: Arrendamiento de fincas municipales; explotación de tierras municipales para fabricación de ladrillo, teja y adobe, y extracción de cantera, piedra común, piedra fabricación de cal, por la explotación de yacimientos de arena, tierra, cal, barro, balastras, grava, cantera, piedra y similares, la explotación de yacimientos de minerales naturales y por la explotación de yacimientos naturales se pagarán las cuotas conforme lo establezca la correspondiente Ley de Ingresos de cada Municipio.
 
-I. Instalación.
-
-II. Tendido por cada 100 metros.
-
-III. Por permanencia en vía pública, calles, guarniciones y/o postes.
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 132.
 
-Por poner andamios, tapiales, materiales para la construcción y similares, que de alguna manera sean obstáculo para el libre tránsito en la vía pública, por día y por metro cuadrado se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+Por el arrendamiento de locales en mercados municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-### CAPÍTULO SEGUNDO. USO DE LA VÍA PÚBLICA
+### CAPITULO SEGUNDO. PRODUCTOS FINANCIEROS
+
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 133.
 
 Los productos financieros se percibirán de acuerdo a las tasas de interés contratadas y autorizadas por las instituciones financieras competentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-### CAPITULO TERCERO. PRODUCTOS FINANCIEROS
+### CAPÍTULO TERCERO. RASTRO MUNICIPAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 134.
 
@@ -1213,37 +1299,37 @@ e. Otros sin incluir aves.
 
 f. Aves.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-### CAPÍTULO CUARTO. RASTRO MUNICIPAL
+### CAPÍTULO CUARTO. FUNERARIAS Y CEMENTERIOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 135.
 
 Por utilizar los cementerios municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-### CAPÍTULO QUINTO. FUNERARIAS Y CEMENTERIOS MUNICIPALES
+### CAPÍTULO QUINTO. PRODUCTOS DIVERSOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 136.
 
 Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 137.
 
 Por el cobro de la venta de hologramas de verificación vehicular se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 Artículo 137 bis. Por el cobro de la venta de bases de licitación por cada uno de los concursos para obra pública y adquisiciones municipales, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+(REUBICADO, P.O. 21 DE JULIO DE 2006)
 
 ###### Artículo 138.
 
@@ -1253,7 +1339,7 @@ Por el cobro de otros productos se deberán especificar y se causará y pagará 
 
 ## TITULO SEXTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO SEXTO. PRODUCTOS DIVERSOS
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -1277,9 +1363,7 @@ Los Encargados de las Finanzas Públicas Municipales, empleando el procedimiento
 
 La recaudación de las contribuciones no recaudadas en ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron las contribuciones que corresponden a los municipios.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+### CAPÍTULO SEGUNDO. MULTAS
 
 ###### Artículo 143.
 
@@ -1293,13 +1377,13 @@ A falta de otro funcionario que expresamente determinen las disposiciones legale
 
 Por toda multa que se hiciere efectiva, se expedirá el correspondiente recibo oficial, para que el importe de la misma ingrese a la dependencia encargada de las finanzas públicas, quedando estrictamente prohibido el cobro de multas por cualquier otra dependencia del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 146.
 
-Los Presidentes Municipales podrán reducir hasta un cien por ciento, el importe de las multas correspondientes a contribuciones no recaudadas en ejercicios fiscales anteriores, si el pago lo hicieren espontáneamente los interesados.
+Los presidentes municipales o los encargados de las finanzas públicas municipales podrán reducir, hasta un cien por ciento, el importe de las multas impuestas por autoridades municipales.
 
-### CAPÍTULO SEGUNDO. MULTAS
+### CAPÍTULO TERCERO. GASTOS DE EJECUCIÓN
 
 ###### Artículo 147.
 
@@ -1325,25 +1409,25 @@ Los gastos de ejecución fiscal municipal a que se refiere este Capítulo, se ha
 
 Lo recaudado por gastos de ejecución deberá ser ingresado para ser considerado en el presupuesto que será autorizado por el Ayuntamiento.
 
-### CAPÍTULO TERCERO. GASTOS DE EJECUCIÓN
+### CAPÍTULO CUARTO. RECARGOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 150.
 
-Los Presidentes Municipales quedan facultados para reducir hasta un cincuenta por ciento, el importe de los recargos correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
+Los presidentes municipales o los encargados de las finanzas públicas municipales podrán reducir hasta un cien por ciento el importe de los recargos correspondientes a contribuciones no pagadas en tiempo conforme a los plazos establecidos en las disposiciones legales aplicables.
 
 ###### Artículo 151.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
-### CAPÍTULO CUARTO. RECARGOS
+### CAPÍTULO QUINTO. OTROS APROVECHAMIENTOS
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Artículo 150 Los Presidentes Municipales quedan facultados para reducir hasta un cien por ciento, el importe de los recargos correspondientes a contribuciones no recaudadas en ejercicios fiscales anteriores, si el pago lo hicieren espontáneamente los interesados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 152.
 
-Los demás aprovechamientos en favor de los Municipios, que se enumeran a continuación, se recaudarán por la dependencia encargada de las finanzas públicas correspondiente.
+Los demás aprovechamientos a favor de los municipios, que se enumeren a continuación, se recaudarán por la dependencia encargada de las finanzas públicas correspondientes:
 
 I. Herencias, legados, donaciones y donativos.
 
@@ -1365,6 +1449,10 @@ VIII. Subvenciones y subsidios expidiéndose en todo caso, recibo oficial donde 
 
 IX. Contribuciones de Mejoras.
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2006)</small>
+
+X. Multas federales no fiscales.
+
 En todo caso deberán estar previstas en la Ley de ingresos del Municipio de que se trate.
 
 ###### Artículo 153.
@@ -1375,7 +1463,7 @@ El importe de todos los ingresos que se obtengan por concepto de aprovechamiento
 
 ## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES FEDERALES
 
-### CAPÍTULO QUINTO. OTROS APROVECHAMIENTOS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 154.
 
@@ -1419,13 +1507,11 @@ IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 157.
 
-Las operaciones traslativas de dominio a que se refiere el Capítulo Segundo del Título Tercero de la Ley de Hacienda de los Municipio del Estado de Querétaro Arteaga, en que intervengan empresas de nueva creación, que inicien la construcción o adquieran instalaciones en operación para generar o mantener empleos, o que celebren empresas que se encuentren establecidas en el Estado de Querétaro, en las que adquieran inmuebles o derechos de dominio sobre los mismos como parte de su patrimonio y propicien con ello la generación de empleos, los Ayuntamientos podrán conceder durante el ejercicio fiscal del año 2005, reducciones de hasta el 80 por ciento que resulten de aplicar los criterios generales que al efecto determine cada Ayuntamiento, para el pago del impuesto sobre el traslado de dominio que corresponda.
+Las operaciones traslativas de dominio a que se refiere el Capítulo Segundo del Título Tercero de esta Ley, en que intervengan empresas de nueva creación, que inicien la construcción o adquieran instalaciones en operación para generar o mantener empleos, o que celebren empresas que se encuentren establecidas en el Estado de Querétaro, en las que adquieran inmuebles o derechos de dominio sobre los mismos como parte de su patrimonio y propicien con ello la generación de empleos, los Ayuntamientos podrán conceder durante el ejercicio fiscal del año 2006, reducciones de hasta el 80 por ciento que resulten de aplicar los criterios generales que al efecto determine cada Ayuntamiento, para el pago del impuesto sobre el traslado de dominio que corresponda.
 
 En los criterios de aplicación general que establezca cada Ayuntamiento deberá, considerarse los siguientes aspectos:
 
@@ -1433,21 +1519,21 @@ a) Importe de la inversión.
 
 b) Número de empleos temporales y permanentes que se originen con la inversión.
 
-c) Que las actividades a desarrollar no generen contaminación .
+c) Que las actividades a desarrollar no generen contaminación.
 
 d) Que se evite el consumo de grandes volúmenes de agua.
 
 e) Que se cuente con planta de tratamiento de agua.
 
-Dichos criterios generales serán aplicables a todos los interesados que reúnan los requisitos, a quienes no podrá requerirse aportaciones adicionales en efectivo o especie para obtener dicha autorización.
+Dichos criterios generales serán aplicables a todos los interesados que reúnen los requisitos, a quienes no podrá requerirse aportaciones adicionales en efectivo o especie para obtener dicha autorización.
 
 Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, y quedará sin efecto el descuento por falta de uno de ellos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 158.
 
-Sólo para el ejercicio fiscal del 2005, los Presidentes Municipales o el encargado de las fianzas Públicas de los Municipios, podrán reducir hasta un 100 por ciento, el importe de las multas o recargos correspondientes a contribuciones no recaudadas.
+Solo para el Ejercicio Fiscal de 2006, las propiedades de las personas físicas que hayan sido regularizados mediante los Programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), pagaran el importe de una vez el salario mínimo vigente en el Estado por concepto de impuesto sobre Traslado de Dominio.
 
 ## TRANSITORIOS
 
@@ -1554,3 +1640,17 @@ PRIMERO.- La presente Ley, entrará en vigor a partir del primero de enero de 20
 SEGUNDO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 21 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales de igual o menor jerarquía a la presente.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios, en la recaudación fiscal, cumplirán con la presente reforma y lo informarán a la Legislatura, en la primera cuenta pública inmediata siguiente a la entrada en vigor de la presente Ley.
