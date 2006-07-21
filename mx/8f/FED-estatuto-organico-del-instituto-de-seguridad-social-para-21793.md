@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-21793"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-02-29"
-last_updated: "2000-02-29"
+last_updated: "2006-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21793&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-01-27"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZA ARMADAS MEXICANAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS, PUBLICADO EN EL D.O.F. DE 21 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de febrero de 2000.
 
@@ -520,3 +522,19 @@ El Subdirector General y Secretario de la H. Junta Directiva del ISSFAM
 Vicealmirante C.G.D.E.M. Carlos Servando Ponce de León Coluby
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 21 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Queda abrogado el Estatuto Orgánico del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, expedido el 29 de febrero de 2000, y cualquier otra disposición del propio Instituto que se oponga al presente Estatuto.
+
+###### ARTICULO TERCERO.
+
+El presente Estatuto deberá inscribirse en el Registro Público de Organismos Descentralizados.
