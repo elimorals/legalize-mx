@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2006-01-05"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -69,9 +69,11 @@ La protesta que deba rendir algún diputado, magistrado del Tribunal Superior de
 
 La Diputación Permanente, en funciones de Comisión Instaladora, recibirá de los organismos electorales y del tribunal electoral, la documentación que conforme a la ley de la materia deban remitir a la Legislatura entrante, así como las constancias de su elección que entregarán los diputados electos.
 
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 8.
 
-La Comisión Instaladora, por conducto de la Oficialía Mayor recibirá de los diputados electos la constancia de su elección y los citará a una junta.
+La Comisión Instaladora, por conducto de la Secretaría de Asuntos Parlamentarios recibirá de los diputados electos la constancia de su elección y los citará a una junta preparatoria.
 
 ###### Artículo 9.
 
@@ -151,15 +153,19 @@ Asimismo, podrán solicitar a la Junta de Coordinación Política que se invite 
 
 Las reuniones de trabajo de las comisiones, a las que concurran servidores públicos o expertos, se desarrollarán en lo conducente conforme a las reglas señaladas en este ordenamiento para la comparecencia de los servidores públicos ante la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 19.
 
-Las comisiones de dictamen, cuando lo estimen necesario para la mejor comprensión y estudio de las iniciativas de que conozcan podrán:
+Las comisiones, cuando lo estimen necesario para la mejor comprensión y estudio de las iniciativas de que conozcan, podrán:
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
 I.- Por conducto de sus presidentes, pedir al Presidente de la Junta de Coordinación Política que solicite la información, datos o copias de documentos que estimen necesarios para el estudio de los asuntos a su cargo;
 
-II.- Proponer que la Legislatura acuerde solicitar al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia o a los presidentes municipales, la comparecencia ante la Asamblea, de servidores públicos en cuanto sea necesaria para el estudio de iniciativas de ley o decreto relacionados con el despacho de sus respectivas competencias;
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+II.- Pedir al Presidente de la Junta de Coordinación Política, solicite al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia, a los titulares de los Organismos Autónomos o a los presidentes municipales, la comparecencia ante la Asamblea, de servidores públicos cuando sea necesaria, para el estudio de iniciativas de ley o decreto relacionados con el despacho de sus respectivas competencias;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -295,17 +301,11 @@ El presidente podrá declarar que la Legislatura se constituya en sesión perman
 
 En esa sesión solo podrán ser tratados aquellos asuntos que la motivaron y se dará por terminada cuando éstos se resuelvan o lo determine el Presidente de la Legislatura.
 
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 40.
 
-Las sesiones de la Legislatura podrán ser de régimen:
-
-I.- Deliberante;
-
-II.- Solemne;
-
-III.- Especial;
-
-IV.- Jurisdiccional.
+Las sesiones de la Legislatura serán públicas y podrán ser de régimen: deliberante; solemne; especial o jurisdiccional.
 
 ###### Artículo 41.
 
@@ -957,9 +957,11 @@ Al entrar y salir del salón de sesiones el Gobernador y el Presidente del Tribu
 
 Las demás sesiones solemnes y las especiales que acuerde la Asamblea, se sujetarán al protocolo que previamente se determine en el respectivo orden del día.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 139.
 
-La comparecencia de los servidores públicos del Poder Ejecutivo, de los magistrados del Tribunal Superior de Justicia y de los integrantes de los ayuntamientos de los municipios de la entidad, se llevará a cabo conforme a las siguientes reglas:
+La comparecencia de los servidores públicos del Poder Ejecutivo, de los magistrados del Tribunal Superior de Justicia, de los titulares de los Organismos Autónomos y de los integrantes de los ayuntamientos de los municipios de la entidad, se llevará a cabo conforme a las siguientes reglas:
 
 I.- Para su recepción se designarán comisiones protocolarias;
 
@@ -1043,11 +1045,13 @@ e) Comunicaciones de los Poderes de la Unión, de los Poderes Ejecutivo y Judici
 
 f) Las iniciativas de ley o decreto que se presenten a la Legislatura;
 
-g) Los dictámenes emitidos por las comisiones y los votos particulares que sobre los mismos se presenten;
+g) Los dictámenes emitidos por las comisiones y los votos particulares que sobre los mismos se presenten:
 
 h) Las proposiciones y los acuerdos de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, cuando lo estimen necesario;
 
-i) Las convocatorias y el orden del día de las reuniones de las Comisiones Legislativas y los Comités de la Legislatura;
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
+i) Las convocatorias y el orden del día de las reuniones de las Comisiones y los Comités de la Legislatura;
 
 j) Los informes que comunique por escrito a la Legislatura el Gobernador del Estado de su salida al extranjero o su ausencia de la entidad hasta por quince días, en donde informe de las acciones realizadas;
 
@@ -1143,11 +1147,13 @@ XVII.- Coordinar y supervisar las actividades realizadas por la Coordinación Ju
 
 XVIII.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente, la Junta de Coordinación Política y la Conferencia para la Dirección y Programación de los Trabajos Legislativos.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 153.
 
-La Contraloría es la dependencia de control de la Legislatura y estará a cargo de un titular denominado Contralor, quien será nombrado por la Asamblea a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del presidente de la misma.
+La Contraloría es la dependencia del Poder Legislativo, que ejerce funciones de auditoría, vigilancia, control, evaluación e inspección y las demás que le señalen otras disposiciones legales.
+
+La Contraloría estará a cargo de un titular denominado Contralor, quien será nombrado por la Asamblea a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del presidente de la misma.
 
 ###### Artículo 154.
 
@@ -1161,47 +1167,53 @@ La Contraloría tendrá las siguientes atribuciones:
 
 I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, tratándose de los diputados, los demás servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, poniéndolos en estado de resolución para someterlos a la Junta de Coordinación Política;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
-II.- Fincar las responsabilidades administrativas e imponer las sanciones que correspondan haciéndolas efectivas cuando así lo acuerde la Junta de Coordinación Política;
+II.- Conocer de las responsabilidades administrativas y hacer efectivas las sanciones que correspondan, cuando así lo acuerde la Junta de Coordinación Política;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
 III.- Ejecutar, por acuerdo de la Junta de Coordinación Política, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
 
-IV.- Vigilar que los servidores públicos cumplan con la obligación de presentar su Manifestación de Bienes, de conformidad con la ley de la materia, debiendo recibirlas, registrarlas y custodiarlas, dando seguimiento a su evolución patrimonial;
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
 
-V.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación de los servidores públicos;
+IV.- Substanciar los medios de impugnación que se presenten en materia de responsabilidad administrativa, turnándolos a la Junta de Coordinación Política para que emita la resolución correspondiente;
 
-VI.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+V.- Vigilar que se cumplan las disposiciones legales en materia de Manifestación de Bienes, debiendo recibirlas, registrarlas y custodiarlas, dando seguimiento a su evolución patrimonial;
 
-VII.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
+VI.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación de los servidores públicos;
 
-VIII.- Asesorar en el ámbito de su competencia a los órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
-
-IX.- Evaluar los criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración del Poder Legislativo, con el fin de asegurar su eficiencia;
-
-X.- Participar en los procesos de licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, verificando el cumplimiento de las disposiciones contenidas en la ley de la materia;
-
-XI.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
+VII.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XII.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Junta de Coordinación Política, así como de las dependencias del Poder Legislativo;
+VIII.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
 
-XIII.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como de recursos materiales y financieros del Poder Legislativo;
+IX.- Asesorar en el ámbito de su competencia a los órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
 
-XIV.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
+X.- Evaluar los criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración del Poder Legislativo, con el fin de asegurar su eficiencia;
+
+XI.- Participar en los procesos de licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, verificando el cumplimiento de las disposiciones contenidas en la ley de la materia;
+
+XII.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XV.- Informar anualmente a la Asamblea, por conducto del Presidente de la Junta de Coordinación Política, de las labores desarrolladas;
+XIII.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Junta de Coordinación Política, así como de las dependencias del Poder Legislativo;
+
+XIV.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como de recursos materiales y financieros del Poder Legislativo;
+
+XV.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XVI.- Las demás que le señalen los ordenamientos legales o que determine la Junta de Coordinación Política o su presidente.
+XVI.- Informar anualmente a la Asamblea, por conducto del Presidente de la Junta de Coordinación Política, de las labores desarrolladas;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XVII.- Las demás que le señalen los ordenamientos legales o que determine la Junta de Coordinación Política o su presidente.
 
 ###### Artículo 156.
 
@@ -1283,7 +1295,9 @@ XVIII.- Administrar el archivo general del Poder Legislativo;
 
 XIX.- Desarrollar permanentemente programas de modernización y simplificación administrativa que contribuyan a eficientar la operación de las áreas técnico administrativas de la Legislatura;
 
-XX.- Elaborar los instrumentos técnico administrativos que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XX.- Elaborar y publicar en el Periódico Oficial "Gaceta del Gobierno", los manuales de organización que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1305,11 +1319,11 @@ La Secretaría de Administración y Finanzas, contará con las unidades administ
 
 La Dirección General de Comunicación Social, es la Dependencia del Poder Legislativo encargada de la Comunicación Social de la Legislatura y de la coordinación de las respectivas áreas de Comunicación Social de los grupos parlamentarios.
 
-> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 163.
 
-La Dirección General de Comunicación Social, tendrá como titular un Director General, nombrado por la Legislatura a propuesta de las diferentes Fracciones que integran la Legislatura.
+La Dirección General de Comunicación Social, tendrá como titular un Director General, nombrado por la Legislatura a propuesta de los diferentes grupos parlamentarios que integran la Legislatura.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
 
@@ -1357,9 +1371,9 @@ VI. Apoyar a la Junta de Coordinación Política en el acopio y difusión de inf
 
 VII. Elaborar el proyecto de presupuesto anual de egresos de la Dirección General de Comunicación Social;
 
-> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
 
-VIII. Elaborar el proyecto de presupuesto anual para cada Fracción, que no excederá del cincuenta por ciento del presupuesto total de la Dirección General de Comunicación Social.
+VIII. Elaborar el proyecto de presupuesto anual para cada grupo parlamentario, que no excederá del cincuenta por ciento del presupuesto total de la Dirección General de Comunicación Social.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1393,53 +1407,13 @@ VIII. Las demás que le señalen los ordenamientos legales aplicables y las que 
 
 Los secretarios técnicos de las comisiones legislativas y de los comités dependerán del presidente de cada comisión o comité y corresponde su coordinación al Secretario de Asuntos Parlamentarios. Estos secretarios estarán encargados de verificar y sugerir las alternativas y mecanismos apropiados para el buen desarrollo de las tareas legislativas de los diputados integrados en comisiones y comités dentro de la legislatura.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
-
 ###### Artículo 168.
 
-Para ser secretario técnico de una comisión legislativa o de un comité se requiere:
-
-l. Ser mexiquense o contar con una residencia efectiva en el Estado no menor a 6 meses;
-
-II. No haber sido condenado por sentencia ejecutoriada por delito intencional que merezca pena corporal;
-
-IlI. Contar con más de 22 años cumplidos a la fecha del registro;
-
-IV. No ser ministro de algún culto religioso;
-
-V. No ser Juez, Magistrado ni integrante del Consejo de la Judicatura del Poder Judicial, servidor público federal, estatal o municipal;
-
-VI. Acreditar experiencia académica o laboral en el Área que el aspirante esté interesado;
-
-VII. Estar inscrito en el padrón electoral correspondiente y contar con la credencial para votar respectiva;
-
-VIII. No formar parte del personal profesional electoral del Instituto;
-
-IX. No ser consejero electoral en los Consejos General, Distritales o Municipales del Instituto, ni Director General, Secretario General o director del mismo;
-
-X. Ser de reconocida honorabilidad;
-
-XI. Tener licenciatura en cualquiera de las siguientes profesiones, técnicas o acreditar la equiparación en: derecho (administración pública, laboral, constitucional, legislación municipal, legislación electoral, penal, civil, etc.); salud; protección civil; artesanías; asistencia social; ecología; previsión y seguridad social; en el ámbito industrial, comercial o minero; administración; contaduría; ciencias políticas; ingeniería; arquitectura; planeación; agronomía; mercadotecnia o turismo.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 169.
 
-Los secretarios técnicos serán elegidos mediante el proceso de selección siguiente:
-
-l. La documentación para ocupar el puesto de secretario técnico, se recibirá durante un periodo de 10 días hábiles contados a partir de la fecha de publicación de la convocatoria;
-
-II. El Secretarlo de Asuntos Parlamentarios recibirá las solicitudes y documentación correspondiente y, en un plazo no mayor de 15 días hábiles, aplicará los exámenes de selección;
-
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
-
-III. Analizados los perfiles de cada aspirante, el Secretario de Asuntos Parlamentarios, propondrá al Presidente de la Junta de Coordinación Política, una terna para que los Presidentes de las Comisiones respectivas los entrevisten y designen a la persona que ocupará el cargo de secretario técnico;
-
-IV. En un plazo que no deberá exceder de 3 días hábiles, el Presidente de la Comisión formulará su designación y, una vez electos, se procederá a darlos de alta y a tomarles protesta;
-
-> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
-
-V. La designación realizada por el Presidente de la Comisión, será publicada en medios de comunicación y en la Gaceta del Gobierno.
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1463,47 +1437,25 @@ V. Llevar un control de los asuntos que les sean encomendados con sus respectivo
 
 VI. Las demás que le señale la Ley Orgánica del Poder Legislativo, el reglamento, el presidente de la comisión o comité respectivo y el Secretario de Asuntos Parlamentarios.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
-
 ###### Artículo 171.
 
-Los secretarios técnicos seleccionados, podrán ser removidos a propuesta del presidente de la comisión o por lo menos a sugerencia de dos diputados de distinto partido político y diferente al del presidente de la comisión.
-
-La propuesta de remoción deberá ser suscrita por todos los integrantes de la comisión o comité respectivo, y dirigida al Secretario de Asuntos Parlamentarios.
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 172.
 
-El Secretario de Asuntos Parlamentarios turnará la promoción a la Junta de Coordinación Política para su sustanciación, dentro de los tres días hábiles siguientes a su recepción.
-
-La Junta de Coordinación Política, a través de su secretario, notificará al presidente de la comisión o comité respectivo y al secretario técnico que se pretenda remover, que tienen un plazo de cinco días hábiles para que aleguen por escrito, lo que a su derecho convenga, a efecto de que la Junta de Coordinación Política emita la resolución definitiva al término del plazo señalado.
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 173.
 
-En caso de que el fallo de la Junta de Coordinación Política determine la remoción del secretario técnico, el Secretario de Asuntos Parlamentarios cumplimentará la resolución de la Junta de Coordinación Política para buscar de entre el directorio de candidatos al puesto de secretario técnico, una terna que contenga el nombre de los aspirantes que hubieren obtenido las mejores puntuaciones para suplir a aquel que fue removido. El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 174.
 
-En caso de no existir candidatos para constituir la terna a la que se refiere el artículo anterior el Secretario de Asuntos Parlamentarios preparará el proyecto de convocatoria extraordinario para que el presidente de la Junta de Coordinación Política la revise y en su caso la publique en la gaceta del gobierno.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
-
-El procedimiento de selección para nuevos candidatos se ajustará a un plazo de ocho días hábiles, contados a partir de la publicación de la convocatoria.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
-
-El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 175.
 
-Los secretarios técnicos de las comisiones o de los comités, tendrán derecho de preferencia para continuar en su cargo, cuando el presidente de la comisión legislativa o comité respectivo aproveche su experiencia y los propongan ante la Junta de Coordinación Política, y ésta los ratifique.
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1532,6 +1484,104 @@ IV. Ser mexiquense, en los términos de lo establecido por el artículo 23 de la
 ###### Artículo 178.
 
 El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su reglamento.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 179.
+
+El Consejo Consultivo de Valoración Salarial es un órgano auxiliar del Poder Legislativo del Estado de México, ciudadano y multidisciplinario, encargado de realizar estudios y emitir opiniones, en materia de remuneraciones de los servidores públicos.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 180.
+
+El Consejo Consultivo de Valoración Salarial se integrará por siete consejeros propietarios y tres suplentes, que serán designados por la Legislatura, por mayoría calificada de los diputados presentes, a propuesta de la Junta de Coordinación Política, de entre representantes de los sectores académico, empresarial y social del Estado de México; mismos que no podrán ser ni haber sido dirigentes de sindicatos o de partidos políticos, o candidatos de partido político alguno.
+
+Los consejeros durarán en su desempeño tres años y su cargo será honorífico.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 181.
+
+Los integrantes del Consejo Consultivo de Valoración Salarial serán elegidos mediante el proceso de selección siguiente:
+
+I. La Junta de Coordinación Política expedirá la convocatoria correspondiente;
+
+II. Durante los diez días hábiles siguientes a la fecha de expedición de la convocatoria, la Secretaría Técnica de la Junta de Coordinación Política recibirá la documentación de los aspirantes;
+
+III. La Junta de Coordinación Política analizará los perfiles de cada aspirante y propondrá a la Asamblea la integración del Consejo Consultivo de Valoración Salarial, una vez electos, se procederá a tomarles protesta; y
+
+IV. La designación realizada por la Legislatura, será publicada en la Gaceta del Gobierno.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 182.
+
+Para la integración de Consejo Consultivo de Valoración Salarial, la Legislatura expedirá la convocatoria respectiva, a más tardar el 15 de septiembre del año de su renovación.
+
+El Consejo Consultivo de Valoración Salarial deberá quedar instalado y entrar en funciones, a partir de la segunda quincena del mes de octubre del año que corresponda.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 183.
+
+Los integrantes del Consejo Consultivo de Valoración Salarial podrán ser removidos por la Junta de Coordinación Política, en los siguientes casos:
+
+I. Incumplir con las atribuciones propias de su cargo;
+
+II. Sustraer, destruir, ocultar o utilizar indebidamente la documentación o información que por razón de su cargo, tenga a su cuidado o custodia o que exista en el Consejo, con motivo del ejercicio de sus atribuciones; y
+
+III. Por incapacidad física o mental definitiva que impida el cabal cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 184.
+
+El Consejo Consultivo contará con un consejero presidente electo por sus integrantes, durará en su cargo un año y podrá ser reelecto por un periodo igual.
+
+Los consejeros deberán conducirse con la mayor probidad, honradez y profesionalismo.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 185.
+
+El Consejo Consultivo de Valoración Salarial sesionará de manera ordinaria, previa convocatoria por parte de su Presidente, en caso de que éste no convoque o se encuentre imposibilitado para hacerlo, por mayoría simple de sus integrantes.
+
+Se integrará quórum con la mitad más uno de sus integrantes, incluido su presidente. Los consejeros tendrán voz y voto y sus determinaciones se tomarán por mayoría simple de votos; en caso de empate, el presidente tendrá voto de calidad.
+
+La Junta de Coordinación Política proveerá lo necesario para que el Consejo Consultivo de Valoración Salarial cumpla con sus obligaciones.
+
+El Consejo Consultivo de Valoración Salarial designará de entre sus miembros a un Secretario Técnico, que integrará el orden del día, elaborará las minutas de las reuniones y hará el seguimiento de los acuerdos emitidos por el Consejo.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 186.
+
+El Consejo Consultivo de Valoración Salarial emitirá sus recomendaciones verificando que:
+
+I. Los niveles mínimos y máximos de las remuneraciones estén apegados a los lineamientos establecidos por la Ley;
+
+II. Los niveles mínimos y máximos de las remuneraciones para los empleos, cargos o comisiones públicas sean conforme a la actividad y responsabilidad que desempeñen;
+
+III. Se privilegie el cumplimiento de las atribuciones de los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios;
+
+IV. Se respeten las medidas de protección al salario estipuladas por la Ley;
+
+V. Se determinen los niveles mínimos y máximos de las remuneraciones concordantes con el catálogo general de puestos y el tabulador anual, identificando en su caso, aquellas que no lo sean o que resulten descomunales o desproporcionadas;
+
+VI. El catálogo general y el tabulador anual, contengan todos los conceptos de remuneraciones por cargo, empleo o comisión públicas, sin omisión alguna; y
+
+VII. La estructura de las remuneraciones promueva y estimule el mejor desempeño y el desarrollo profesional de los servidores públicos.
+
+Para el cumplimiento de sus atribuciones, podrá solicitar información sobre remuneraciones a los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios, a través del Organo Superior de Fiscalización.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 187.
+
+El Consejo Consultivo de Valoración Salarial revisará las remuneraciones mínimas y máximas propuestas en el proyecto de Presupuesto de Egresos del Estado, emitiendo en su caso observaciones, a más tardar el cinco de diciembre. Tratándose de los municipios, las remuneraciones serán revisadas antes del 25 de febrero de cada año.
+
+El Consejo Consultivo de Valoración Salarial turnará sus recomendaciones a la Legislatura, para su publicación inmediata en la Gaceta del Gobierno, para que determine lo conducente al dictaminar el Presupuesto de Egresos y en su caso, formule las recomendaciones correspondientes a los municipios.
 
 ## TRANSITORIOS
 
@@ -1640,3 +1690,39 @@ G.G. 5 DE ENERO DE 2006.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
+
+G.G. 21 DE JULIO DE 2006.
+
+DECRETO NUMERO 239, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 8, 19, 40, 139, 147 BIS, 153, 155, 160, 163 Y 165, 168, 169, 171, 172, 173, 174 Y 175 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+La "LVI" Legislatura elegirá a los nuevos titulares de las dependencias o ratificará a los actuales durante el mes de septiembre del segundo año de su ejercicio constitucional.
+
+G.G. 21 DE JULIO DE 2006.
+
+DECRETO NUMERO 240, POR EL QUE SE ADICIONAN LOS ARTICULOS 179, 180, 181, 182, 183, 184, 185, 186 Y 187 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igualo menor jerarquía que sean contrarias al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Para la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el 15 de septiembre del año 2006.
