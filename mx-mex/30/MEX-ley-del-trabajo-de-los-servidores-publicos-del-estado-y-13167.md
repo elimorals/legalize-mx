@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "1998-10-23"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -857,9 +857,17 @@ XII. Conceder licencias a los servidores públicos generales para el desempeño 
 
 XIII. Publicar debidamente las vacantes ocurridas en la dependencia correspondiente;
 
-XIV. Hacer las deducciones que soliciten los sindicatos para cuotas u otros conceptos siempre que se ajusten a lo establecido en esta ley. Asimismo, comunicar al sindicato las altas y bajas y demás información relativa a los servidores públicos sindicalizados para el ejercicio de los derechos que les correspondan; e
+XIV. Hacer las deducciones que soliciten los sindicatos para cuotas u otros conceptos siempre que se ajusten a lo establecido en esta ley. Asimismo, comunicar al sindicato las altas y bajas y demás información relativa a los servidores públicos sindicalizados para el ejercicio de los derechos que les correspondan; e (sic)
 
-XV. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos.
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XV. Elaborar un catálogo general de puestos y un tabulador anual de remuneraciones, tomando en consideración los objetivos de las instituciones públicas, las funciones, actividades y tareas de los servidores públicos, así como la cantidad, calidad y responsabilidad del trabajo; el tabulador deberá respetar las medidas de protección al salario establecidas en la presente ley;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e
+
+XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos.
 
 ### CAPITULO II. Del Sistema de Profesionalización de
 
@@ -2088,3 +2096,23 @@ LIC. CESAR CAMACHO QUIROZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME VAZQUEZ CASTILLO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 21 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Para la integración del Primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el 15 de septiembre del año 2006.
