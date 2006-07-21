@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2005-12-30"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -69,9 +69,11 @@ Durante su ejercicio constitucional, la Legislatura tendrá dos períodos de ses
 
 Se consideran días hábiles para el trabajo legislativo todos los comprendidos dentro de cada período.
 
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 7.
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asistirán a la apertura de sesiones ordinarias del primer período. Asimismo podrán ser invitados a sesiones solemnes que celebre la Legislatura.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asistirán a la apertura de sesiones ordinarias del primer período. Asimismo podrán ser invitados a sesiones solemnes o especiales que celebre la Legislatura.
 
 ###### Artículo 8.
 
@@ -115,9 +117,11 @@ En el año de renovación de la Legislatura, la Diputación Permanente en funcio
 
 La Comisión Instaladora recibirá de los organismos electorales correspondientes y del Tribunal Electoral, la documentación relacionada con la elección de diputados.
 
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 16.
 
-La Comisión Instaladora citará a los diputados electos a una junta dentro de los diez días anteriores al inicio del primer período ordinario de la Legislatura entrante.
+La Comisión Instaladora citará a los diputados electos a una junta preparatoria dentro de los diez días anteriores al inicio del primer período ordinario de la Legislatura entrante.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -165,9 +169,9 @@ Los diputados no podrán invocar o hacer uso de su condición de legisladores pa
 
 Compete a la Legislatura o a la Diputación Permanente, conocer de las excusas, incapacidades, licencias temporales o absolutas que presenten los diputados electos o en funciones, para desempeñar el cargo.
 
-(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
-El Presidente de la Legislatura turnará el escrito respectivo a la Comisión de Gobernación y Puntos Constitucionales para su estudio y dictamen; en los recesos el Presidente de la Diputación Permanente procederá de manera similar o a una comisión creada para tal efecto.
+El Presidente de la Legislatura turnará el escrito respectivo a la Comisión Legislativa de Gobernación y Puntos Constitucionales para su estudio y dictamen; en los recesos el Presidente de la Diputación Permanente procederá de manera similar o a una comisión creada para tal efecto.
 
 ###### Artículo 25.
 
@@ -249,9 +253,13 @@ XV. Las demás que les señale la Constitución, la ley y el reglamento.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES DE LA LEGISLATURA
 
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 30.
 
-(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2000)
+La Legislatura del Estado tiene las atribuciones que le señala la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, las leyes federales y la legislación local.
+
+La Legislatura al expedir el Presupuesto de Egresos del Estado, aprobará las remuneraciones mínimas y máximas correspondientes a los niveles de empleo, cargo o comisión.
 
 ###### Artículo 31.
 
@@ -361,11 +369,13 @@ El Presidente será electo para todo el periodo ordinario de sesiones, los demá
 
 El Presidente de la Directiva, lo será también de la Legislatura.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 43.
 
-Los integrantes de la Directiva que presidirán la Legislatura al inicio de los periodos ordinarios o extraordinarios, serán electos en junta dentro de los siete días anteriores al inicio del periodo; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del periodo respectivo, antes de la primera sesión.
+Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión los Vicepresidentes y los Secretarios, para lo cual deberán ser elegidos dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir.
 
@@ -557,11 +567,11 @@ b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido 
 
 8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
 
-(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 67 Bis
 
-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y a la Contaduría General de Glosa.
+9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -611,7 +621,9 @@ III. Recibir, analizar y resolver la solicitud que formulen cuando menos la mita
 
 IV. Expedir la convocatoria a período extraordinario, proveyendo que entre la publicación y la sesión de apertura, medien al menos cuarenta y ocho horas;
 
-V. Convocar a los presidentes de las comisiones correspondientes para la integración de la Comisión de Examen Previo, en los casos de juicio político y declaración de procedencia;
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+V. Convocar a los presidentes de las comisiones legislativas correspondientes para la integración de la Comisión de Examen Previo, en los casos de juicio político y declaración de procedencia;
 
 VI. Despachar la correspondencia oficial de la Legislatura;
 
@@ -671,33 +683,53 @@ I.- Proponer a la Asamblea los integrantes de las comisiones y de los comités, 
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-II. Proponer a la Asamblea la integración de nuevas comisiones legislativas, especiales, o de comités, así como a los diputados que deban integrarlas;
+II.- Proponer a la Asamblea la integración de nuevas comisiones legislativas, especiales, o de comités, así como a los diputados que deban integrarlas;
 
 III.- Apoyar en el desarrollo de sus trabajos a las comisiones y comités;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-IV. Supervisar la edición del "Diario de Debates" y de la "Gaceta Parlamentaria";
+IV.- Supervisar la edición del "Diario de Debates" y de la "Gaceta Parlamentaria";
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-V. Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto (sic) Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos.
+V.- Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto (sic) Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos.
 
 VI.- Establecer las bases para la elaboración y aplicación del presupuesto anual del Poder Legislativo;
 
 VII.- Autorizar la creación de las unidades administrativas que requiera la Legislatura, a propuesta de su presidente;
 
-VIII.- Conocer y resolver sobre las responsabilidades administrativas en que incurran los miembros de la Legislatura;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE JULIO DE 2006)</small>
 
-IX.- Conocer y resolver sobre las responsabilidades administrativas en que incurran los servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, pudiendo delegar tales funciones a la Contraloría, tratándose de los servidores públicos del Poder Legislativo que no sean de elección popular;
+VIII.- Supervisar la elaboración y publicación de los manuales de organización de las áreas que integran el Poder Legislativo;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
 
-X. Presentar a la Directiva y al Pleno puntos de acuerdo, pronunciamientos y declaraciones de la Legislatura que entrañen una posición política del órgano colegiado;
+IX.- Conocer y resolver sobre las responsabilidades administrativas en que incurran los miembros de la Legislatura;
 
-> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XI. Las demás que le confieran la ley, el reglamento o la Asamblea.
+X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se hagan valer contra tales resoluciones;
+
+> <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XI.- Presentar a la Directiva y al Pleno puntos de acuerdo, pronunciamientos y declaraciones de la Legislatura;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XII.- Recibir la solicitud y en su caso autorizar al Ejecutivo del Estado, a salir del territorio nacional en misión oficial en aquellos casos de urgencia, previa justificación;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XIII.- Solicitar por conducto de su Presidente, la información necesaria o la presencia de funcionarios públicos, para el estudio de iniciativas de ley o decreto, en sus respectivas competencias;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XIV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador de Remuneraciones de los servidores públicos del Poder Legislativo que deberá regir durante el siguiente ejercicio fiscal, de conformidad con el Catálogo General de Puestos y apegado a los criterios establecidos por la Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
+
+XV. Las demás que le confieran la ley, el reglamento o la Asamblea.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -733,7 +765,7 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos t
 
 ###### Artículo 63.
 
-La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -793,9 +825,9 @@ VI. Dirigir, coordinar, supervisar y evaluar la organización administrativa de 
 
 VII. Proponer a la Junta de Coordinación Política la creación de las unidades administrativas que sean necesarias;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
 
-VIII. Formular a la Junta de Coordinación Política las propuestas que deban ser sometidas a la Asamblea para nombrar a los servidores públicos del Poder Legislativo cuya designación esté reservada a ésta;
+VIII. Formular a la Junta de Coordinación Política las propuestas que deban ser sometidas a la Asamblea para nombrar a los servidores públicos del Poder Legislativo cuya designación esté reservada a ésta, o aquellas que la Ley establezca;
 
 IX. Expedir los nombramientos de los servidores públicos del Poder Legislativo, designados por la Asamblea;
 
@@ -815,13 +847,7 @@ XIII. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta
 
 XIV. Informar anualmente a la Asamblea de las actividades de la Junta de Coordinación Política;
 
-> <small>(ADICIONADA, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-XV. Emitir la convocatoria para la selección de secretarios técnicos, misma que se publicará con 30 días hábiles de anticipación al inicio de la Legislatura que corresponda.
-
-> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
-
-El proceso de selección de candidatos a secretarios técnicos se realizará conforme al procedimiento señalado en el reglamento.
+XV. (DEROGADA, G.G. 21 DE JULIO DE 2006)
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -983,13 +1009,15 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 70.
 
-Las comisiones legislativas se integrarán cuando menos por nueve diputados. Para su organización interna, cada comisión cantará con un presidente, un secretario y un prosecretario. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, quien presida tendrá voto de calidad.
+Las comisiones legislativas se integrarán cuando menos por nueve diputados. Para su organización interna, cada comisión contará con un presidente, un secretario y un prosecretario. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, quien presida tendrá voto de calidad.
 
-Asimismo, contarán con un secretario técnico, quien será designado conforme al procedimiento señalado en el reglamento.
+Por conducto de la Secretaría de Asuntos Parlamentarios, las comisiones y comités permanentes contarán con el apoyo técnico de carácter jurídico que sea pertinente para la formulación de proyectos de dictamen o de informes, así como para el levantamiento y registro de las actas de sus reuniones, las Comisiones Legislativas y los Comités Permanentes contarán con un Secretario Técnico, que será designado por su Presidente.
+
+Los Secretarios Técnicos, podrán ser removidos por el presidente de la Comisión Legislativa o Comité Permanente correspondiente.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1183,25 +1211,29 @@ VI. Instituto de Estudios Legislativos.
 
 Asimismo, podrá disponer la creación de otras que sean necesarias.
 
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+###### Artículo 94 Bis.
+
+El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
+
 > <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 95.
 
 Para el control, fiscalización, revisión y calificación del ingreso y del gasto público de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, la Legislatura dispondrá del Organo Superior de Fiscalización, cuya organización y funcionamiento se regirá por lo dispuesto en la Ley de Fiscalización Superior del Estado de México y el reglamento interior.
 
-(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 96.
 
 Las atribuciones y funcionamiento de la Secretaría de Asuntos Parlamentarios, la Contraloría, la Secretaría de Administración y Finanzas, la Dirección General de Comunicación Social y el Instituto de Estudios Legislativos, serán regulados por el Reglamento correspondiente.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+Los titulares de estas dependencias serán electos por la Asamblea y durarán en su encargo cuatro años, pudiendo ser removidos de acuerdo con la ley.
 
-Los titulares de estas dependencias podrán durar en su encargo el ejercicio constitucional de la Legislatura, concluido éste, tendrán que ser electos los nuevos titulares o ratificados los anteriores durante los dos primeros meses del primer periodo ordinario de sesiones de la nueva Legislatura.
+Concluido el periodo de su encargo podrán ser ratificados por un periodo más o electos nuevos titulares.
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-La organización administrativa de las dependencias será acordada por la Junta de Coordinación Política a propuesta de su Presidente.
+La organización administrativa de las dependencias será acordada por la Junta de Coordinación Política a propuesta de su presidente.
 
 ### CAPITULO UNICO. DE LA COMISION DE INSTRUCCIÓN Y DICTAMEN
 
@@ -1211,11 +1243,11 @@ La organización administrativa de las dependencias será acordada por la Junta 
 
 La Legislatura del Estado, actuará como Gran Jurado de Sentencia respecto de los sujetos a juicio político, en los términos de la Constitución, de la ley y demás disposiciones relativas.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 98.
 
-Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por tres diputados que serán los presidentes de las comisiones de Gobernación y Puntos Constitucionales, Derechos Humanos, y Procuración y Administración de Justicia.
+Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por tres diputados que serán los presidentes de las comisiones legislativas de Gobernación y Puntos Constitucionales, Derechos Humanos, y Procuración y Administración de Justicia.
 
 > <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
@@ -1454,3 +1486,39 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno"
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE JULIO DE 2006.
+
+DECRETO NUMERO 239.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+La "LVI" Legislatura elegirá a los nuevos titulares de las dependencias o ratificará a los actuales durante el mes de septiembre del segundo año de su ejercicio constitucional.
+
+G.G. 21 DE JULIO DE 2006.
+
+DECRETO NUMERO 240.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Par la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el 15 de septiembre del año 2006.
