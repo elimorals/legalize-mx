@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-05-26"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3557,8 +3557,32 @@ SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales d
 
 TERCERO.- Dentro del término de noventa días naturales contados a partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura instalará en cada Distrito Judicial del Estado de México un Juzgado donde se ventilen juicios orales.
 
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+CUARTO.- La aplicación del artículo 275-A del Código de Procedimientos Penales para el Estado de México, respecto de los juzgados a que se refiere el transitorio que antecede, conocerán en principio de los asuntos que les sean turnados por las oficialías de partes común, en los casos del conocimiento de delitos de la actual competencia de los juzgados de cuantía menor; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre del dos mil ocho; con posterioridad se instalarán los demás juzgados para juicios predominantemente orales de esta competencia, que permitan que la totalidad de los asuntos se tramiten bajo este procedimiento, teniendo como fecha límite para tal efecto, el treinta y uno de octubre de dos mil nueve. Entre tanto, los asuntos que se turnen a juzgados de cuantía menor, se tramitarán conforme al procedimiento penal ordinario.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+QUINTO .- Para dar continuidad a esta reforma, a partir del mes de octubre de dos mil siete y hasta antes del treinta y uno de octubre de dos mil ocho, entrarán en operación de manera gradual, conforme a la disponibilidad de recursos económicos y necesidad del servicio, un
+
+juzgado en cada distrito judicial para el trámite de juicios predominantemente orales, que les sean turnados por las oficialías de partes común, para el conocimiento de delitos no graves cuya competencia corresponde a los Juzgados Penales de Primera Instancia; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre del dos mil nueve, en la inteligencia de que hasta antes del mes de noviembre del dos mil diez, deberán quedar instalados los juzgados que sean necesarios para la atención de los juicios predominantemente orales relacionadas (sic) con delitos no graves de la competencia de los Juzgados Penales de Primera Instancia. Entre tanto, los asuntos que se turnen a los diversos juzgados penales de primera instancia, se tramitarán conforme al procedimiento penal ordinario.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+
+SEXTO.- La Legislatura Local a solicitud del Poder Judicial del Estado proveerá lo conducente para que se asignen los recursos presupuestales, con la finalidad de que éste cuente con los recursos humanos, materiales y financieros necesarios, para dar cumplimiento a este Decreto.
+
 G.G. 26 DE MAYO DE 2006.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
