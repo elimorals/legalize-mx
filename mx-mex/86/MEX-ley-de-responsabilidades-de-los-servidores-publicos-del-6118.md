@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2002-06-28"
+last_updated: "2006-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -445,9 +445,15 @@ XXIX. Abstenerse de contratar como servidor público a quien se encuentre inhabi
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
-XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeño como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión y;
+XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeño como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión y (sic);
 
-XXXI. Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XXXI. Otorgar o percibir únicamente la remuneración que haya sido aprobada en términos de ley, incluyendo bonos, gratificaciones y cualquier otra remuneración que se agregue al salario;
+
+(REUBICADA Y REFORMADA, G.G. 21 DE JULIO DE 2006)
+
+XXXII. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -1148,3 +1154,21 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 21 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Para la integración del Primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el 15 de septiembre del año 2006.
