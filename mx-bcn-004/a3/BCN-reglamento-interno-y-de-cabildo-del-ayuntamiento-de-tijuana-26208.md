@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2005-06-03"
+last_updated: "2006-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2006.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -213,13 +213,11 @@ Los acuerdos económicos que versen sobre el funcionamiento interno del Ayuntami
 
 Las resoluciones y acuerdos que deban ser publicadas deberán contener al final, la certificación que extienda el Secretario de Gobierno Municipal respecto de la difusión a que se refiere el artículo siguiente.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL ACTA NÚMERO 08, PUBLICADA EN EL P.O. DE 11 DE FEBRERO DE 2005, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 20.
 
-Difusión de los acuerdos y resoluciones de Cabildo.- Para efectos de que los vecinos del municipio conozcan los acuerdos y resoluciones que dicté el Cabildo, éstas serán publicadas en un diario de mayor circulación en el Municipio, en la tabla de avisos del ayuntamiento, sin perjuicio de que la autoridad responsable de su aplicación implemente programas especiales de difusión para conseguir este propósito.
+Difusión de los acuerdos y resoluciones de Cabildo.- Para efectos de que los vecinos del municipio conozcan los acuerdos y resoluciones que dicte el Cabildo, éstas serán publicadas en un diario de los de mayor circulación en el Municipio, en la tabla de avisos del ayuntamiento y/o Gaceta Municipal Órgano Oficial de Difusión del Ayuntamiento de Tijuana, sin perjuicio de que la autoridad responsable de su aplicación implemente programas especiales de difusión para conseguir este propósito.
 
 La Secretaría de Gobierno Municipal notificará directamente los (sic) interesados en tratándose d (sic) disposiciones normativas de alcance particular, resoluciones éstas (sic) que salvo disposición transitoria e (sic) otro sentido, no quedarán sujetas a la publicidad a que se refiere el párrafo anterior.
 
@@ -1438,3 +1436,9 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
 
 ARTICULOTERCERO.- Publíquense las presentes en la Gaceta Municipal y/o un diario de mayor circulación municipal, para conocimiento de los ciudadanos.
+
+P.O. 21 DE JULIO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al momento de su aprobación y se Publicara en el periódico oficial, órgano de difusión del gobierno del Estado de Baja California, y en un diario local de mayor circulación, y/o la Gaceta Municipal, para conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo.
