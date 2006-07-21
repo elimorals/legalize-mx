@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-publica-preventiva-del-estado-de-mexico-24647"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-09"
-last_updated: "1999-03-09"
+last_updated: "2006-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD PUBLICA PREVENTIVA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -391,7 +391,7 @@ Son actividades de supervisión la verificación y control del cumplimiento de l
 
 Para la mejor conducción de operaciones policiales, delimitación de responsabilidades y una eficaz administración y apoyo logístico, el territorio estatal se dividirá en regiones y agrupamientos.
 
-### CAPITULO I. Del Mando de los Cuerpos de Seguridad Pública Preventiva
+### CAPITULO IV. Del Mando de los Cuerpos de Seguridad Pública Preventiva
 
 ###### Artículo 26.
 
@@ -433,13 +433,19 @@ El cuerpo preventivo de seguridad pública estatal, a fin de hacer mas eficiente
 
 El cuerpo preventivo de seguridad pública estatal tendrá una unidad de supervisión interna de la actuación policial, dependiente del Secretario General de Gobierno e integrado en la forma y con los requisitos que se determinen en el Reglamento respectivo.
 
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 34.
 
-Los miembros de los cuerpos preventivos de seguridad pública estatal y municipales serán dotados de uniformes con características y especificaciones distintas entre ellos, conforme a la reglamentación correspondiente. Durante el servicio deberán llevar en lugar visible, una identificación personal que contendrá código de barras, nombre completo, fotografía, grado, vigencia, corporación a la que pertenece, huella dactilar, firma y autorización para portar, en su caso, armas de fuego.
+Los miembros de los cuerpos preventivos de seguridad pública estatal y municipales serán dotados de uniformes con características y especificaciones distintas entre ellos, conforme a la reglamentación correspondiente, para tal efecto todos los municipios que integran el Estado de México homologarán las características de su uniforme, especificando el nombre del municipio al que pertenecen, y si se trata de policías de seguridad o de agentes de tránsito, sólo se diferenciará el color de los uniformes de los elementos responsables de seguridad pública del que utilizarán los encargados del control del tránsito vehicular, conforme a la reglamentación correspondiente. Durante el servicio deberán llevar en lugar visible, una identificación personal que contendrá código de barras, nombre completo, fotografía, grado, vigencia, corporación a la que pertenece, huella dactilar, firma y autorización para portar, en su caso, armas de fuego.
+
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 35.
 
-Los vehículos de los cuerpos preventivos de seguridad pública y de los servicios de seguridad privada deberán ostentar en forma notoriamente visible, la insignia, el nombre del cuerpo policial o la empresa a la que pertenezcan, el número o clave que lo identifique y demás elementos que se señalen en la reglamentación respectiva.
+Los vehículos de los cuerpos preventivos de seguridad pública de los municipios del Estado deberán homologar su cromática y ostentar en forma notoriamente visible la insignia, el nombre del cuerpo policial, el nombre y el tipónimo del municipio al que pertenece, el número o la clave de la matrícula, número de placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo para que lo identifique y demás elementos que se señalen en la reglamentación respectiva.
+
+Los vehículos de las corporaciones que prestan los servicios de seguridad privada deberán ostentar en forma notoriamente visible, el nombre de la empresa a la que pertenecen, su insignia, el número o clave que lo identifique, con características distintas que los distinga de los vehículos de los cuerpos de seguridad pública del Estado y de los municipios.
 
 ###### Artículo 36.
 
@@ -1944,3 +1950,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ARTURO UGALDE MENESES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 21 DE JULIO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado, realizará las modificaciones al reglamento correspondiente en un plazo de sesenta días a partir de la publicación del presente Decreto, en el Periódico Oficial "Gaceta del Gobierno".
+
+CUARTO.- Las características y especificaciones de los uniformes y de los vehículos a que se refiere el presente decreto, se establecerán en el manual que para tal efecto se expide, adjuntándose para su publicación en la "Gaceta del Gobierno".
+
+QUINTO.- Los Ayuntamientos dispondrán hasta el día uno de enero del año 2007, para adecuar las características y especificaciones de uniformes y vehículos que se establecen en el manual de imagen de la cromática del parque vehicular de la policía y tránsito municipal y uniformes.
