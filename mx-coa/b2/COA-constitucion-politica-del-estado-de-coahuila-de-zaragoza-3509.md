@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2006-04-07"
+last_updated: "2006-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -96,9 +96,13 @@ El territorio del Estado tiene la extensión y límites que legalmente le corres
 
 Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cualquiera que sea su denominación; Zonas de Desarrollo Económico y demás circunscripciones que se consideren necesarias, con base en la agrupación de sus Municipios. La determinación, aprobación y publicación oficial de los Distritos, Zonas de Desarrollo Económico y demás circunscripciones, se hará por los órganos de los poderes públicos competentes; pero en todos los casos los Municipios involucrados deberán ser consultados y su hacienda municipal no podrá ser afectada, a menos que cada Ayuntamiento preste su consentimiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2006)</small>
+
 ### CAPITULO II.
 
-Garantías Individuales.
+Derechos Humanos y Garantías Individuales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 #### SECCION I.
 
@@ -114,11 +118,11 @@ El Ayuntamiento y el Concejo Municipal.
 
 ###### Artículo 7º.
 
-Todos los que habiten o residan, así sea accidentalmente en el territorio de Coahuila, gozan de las garantías que otorga la Constitución General de la República y que confirma la presente.
+Dentro del territorio del Estado, esta Constitución reconoce a todas las personas el disfrute de sus derechos fundamentales. Por tanto, las autoridades deberán establecer los mecanismos que garanticen su pleno ejercicio. En consecuencia, todos los que habiten o residan, así sea accidentalmente en el territorio Coahuilense, gozarán de las prerrogativas que reconoce la Constitución General de la República y que confirma la presente.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de estas personas. La ley establecerá mecanismos a favor de dichas personas, para que el goce de sus garantías de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivas y equitativas dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos y libertades de estas personas. La ley establecerá mecanismos a favor de dichas personas, para que el goce de sus derechos de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivos y equitativos dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
@@ -164,17 +168,23 @@ f) Las demás atribuciones que establezca la ley.
 
 5. Sus integrantes serán designados por el voto de cuando menos las dos terceras partes del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2006)</small>
+
+Las Cartas de los Derechos Fundamentales y esta Constitución, determinan los principios mínimos en los que se sustenta el ejercicio de los Derechos Humanos. Serán ley suprema en el régimen interior del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 8º.
 
-En el Estado de Coahuila de Zaragoza, la libertad no tiene más límites que las disposiciones prohibitivas de la ley. De ésta emanan la autoridad de los que gobiernan y las obligaciones de los gobernados. En consecuencia, el ejercicio de la autoridad debe concretarse a las atribuciones determinadas en las leyes.
+En el Estado de Coahuila de Zaragoza, el ejercicio de los derechos fundamentales no tiene más límites que las disposiciones prohibitivas de la ley. De ésta emanan la autoridad de los que gobiernen y las obligaciones de los gobernados. En consecuencia, el ejercicio de la autoridad debe concretarse a las atribuciones determinadas en las leyes.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica y la justicia social de todas las personas y de los grupos en que se integran; facilitar la participación de todas las personas y de los grupos en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos.
+Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica, la justicia social y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-La dignidad, la igualdad y el libre desarrollo del ser humano, los derechos fundamentales que le son inherentes, los derechos colectivos, el garantismo y la promoción, fomento y ejercicio de una cultura política basada en la pluralidad, diversidad, tolerancia y racionalidad, son fundamento de la legitimidad del orden constitucional, del ejercicio del poder público, de las políticas públicas y de la paz social.
+Los derechos fundamentales que son inherentes a las personas, así como la premisa esencial para el respeto a la dignidad y al libre desarrollo del ser humano por lo que, el garantismo y la promoción, fomento y ejercicio de una cultura política basada en la pluralidad, diversidad, tolerancia y racionalidad, son fundamento de la legitimidad del orden constitucional, del ejercicio del poder público, de las políticas públicas y de la paz social.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -726,19 +736,19 @@ III. Al Tribunal Superior, en materia de Administración de Justicia y Codificac
 
 IV. A los Ayuntamientos del Estado, en todo lo concerniente a su competencia municipal. En este caso, la iniciativa se presentará por conducto del presidente municipal, previo acuerdo de la mayoría de los miembros presentes de los Ayuntamientos.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
 
-V. Al Instituto Electoral y de Participación Ciudadana de Coahuila, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del consejero presidente, previo acuerdo del Consejo General.
+V. A los organismos públicos autónomos, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del Presidente del organismo previo acuerdo del Consejo General.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 VI. A los ciudadanos electores coahuilenses, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 60.
 
-Las iniciativas presentadas por el Ejecutivo, Tribunal Superior o Ayuntamientos, pasarán, desde luego, a Comisión. Las de los Diputados se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
+Las iniciativas presentadas por el Ejecutivo, Tribunal Superior, Organismos Públicos Autónomos o Ayuntamientos pasarán desde luego, a Comisión. Las de los diputados, se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -2824,7 +2834,7 @@ IV. En todo caso, la resolución se basará en el interés público de garantiza
 
 ### CAPITULO UNICO.
 
-Garantías Sociales y otras Prevenciones.
+Derechos Sociales y Prevenciones Generales.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -2954,7 +2964,7 @@ De la Inviolavilidad (sic) y reforma de la Constitución.
 
 ## TITULO OCTAVO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 169.
 
@@ -2972,19 +2982,27 @@ La comunidad participará de la plusvalía que generen las acciones urbanística
 
 Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y dentro del ámbito de sus atribuciones vigilará por la estricta aplicación y observancia de las normas de trabajo.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 171.
 
-Los recursos económicos de que dispongan el Estado, los Municipios y las entidades paraestatales y paramunicipales, se administrarán con eficiencia y honradez, para satisfacer los objetivos a que estén destinados.
+Los recursos económicos de que dispongan el Estado, los Municipios, los organismos públicos autónomos y las entidades paraestatales y paramunicipales, se administrarán con eficiencia y honradez, para satisfacer los objetivos a que estén destinados.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes; la prestación de servicios de cualquier naturaleza y la contratación de obras, que realicen el Estado, los Municipios y las entidades paraestatales y paramunicipales, se adjudicarán o llevarán a cabo mediante convocatorias y licitaciones públicas, para que libremente se presenten proposiciones solventes en sobre cerrado, el cual será abierto públicamente, a fin de asegurar las mejores condiciones disponibles, en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 Cuando las licitaciones a que se refiere el párrafo anterior, no sean idóneas para asegurar dichas condiciones, se observarán las bases, procedimientos, reglas, requisitos y demás elementos que establezcan los ordenamientos legales aplicables, para acreditar la economía, eficacia, imparcialidad y honradez requeridas.
 
-Asimismo, el Estado, los Municipios y las entidades paraestatales y paramunicipales, no podrán realizar pago alguno que no esté comprendido en sus respectivos presupuestos o en las adiciones que se hagan a los mismos, con autorización del Congreso del Estado, los Ayuntamientos o los órganos de gobierno de las entidades antes citadas, según corresponda.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
-El manejo de los recursos económicos del Estado, los Municipios y las entidades paraestatales y paramunicipales, se sujetará a las bases que impone este artículo, y los servidores públicos estatales y municipales, en sus correspondientes ámbitos de competencia, serán responsables del cumplimiento de las mismas, en los términos del Título Sexto de esta Constitución.
+Asimismo, el Estado, los Municipios, los organismos públicos autónomos y las entidades paraestatales y paramunicipales, no podrán realizar pago alguno que no esté comprendido en sus respectivos presupuestos o en las adiciones que se hagan a los mismos, con autorización del Congreso del Estado, los Ayuntamientos o los órganos de gobierno de las entidades antes citadas, según corresponda.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
+El manejo de los recursos económicos del Estado, los Municipios, los organismos públicos autónomos y las entidades paraestatales y paramunicipales, se sujetará a las bases que impone este artículo, y los servidores públicos estatales y municipales, en sus correspondientes ámbitos de competencia, serán responsables del cumplimiento de las mismas, en los términos del Título Séptimo de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
 
@@ -3188,21 +3206,39 @@ Los magistrados y jueces están sometidos a esta Constitución y a la ley confor
 
 El sistema de justicia constitucional local previsto en esta Constitución, es la garantía de defensa judicial del bloque de la constitucionalidad local dentro del régimen interno del estado.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 ###### Artículo 195.
 
-Todos los ciudadanos tienen derecho de reclamar ante el Congreso sobre la inobservancia o infracción de la Constitución, a fin de que se haga efectiva la responsabilidad de los infractores.
+Todos los ciudadanos tienen derecho de reclamar, conforme lo previsto en esta Constitución y las leyes, al Congreso y ante las autoridades que las mismas determinen, sobre la inobservancia o infracción de la Constitución, a fin de que se haga efectiva la responsabilidad de los infractores.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1992)</small>
+Esta Constitución garantiza el ejercicio libre, democrático y equitativo de los Derechos Humanos. Su estudio, protección, difusión y promoción se realizará a través de un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Coahuila, dotado de personalidad jurídica y patrimonio propio.
 
-El Congreso del Estado establecerá un organismo encargado de promover, divulgar y proteger los derechos humanos.
+La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1992)</small>
+1. Será independiente en sus funciones y decisiones y profesional en su desempeño.
 
-Este organismo será autónomo y conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público; sin embargo, no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+2. Gozará de autonomía presupuestal y financiera en los términos que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1992)</small>
+3. Sesionará en forma pública a través de un Consejo, que estará integrado por seis consejeros que durarán en su encargo cuatro años.
 
-Sus procedimientos serán gratuitos, breves y sencillos, y en ocasión de su investigación, podrá formular recomendaciones públicas, no obligatorias, a las autoridades respectivas.
+4. El Presidente de la Comisión, así como los consejeros, propietarios y suplentes, serán designados por el voto de la mayoría de los miembros del Congreso del Estado, en los términos y conforme a los procedimientos que disponga la ley.
+
+5. Contará en su estructura con órganos consultivos, directivos, ejecutivos, técnicos, operativos y administrativos, en los términos que la ley establezca.
+
+6. La base de su funcionamiento será el servicio profesional de carrera.
+
+7. Su actuación se regirá por los principios de constitucionalidad, legalidad, independencia, imparcialidad y objetividad.
+
+8. Conocerá de quejas en contra de actos u omisiones provenientes de cualquier autoridad o servidor público estatal o municipal; sin embargo, no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+9. Sus procedimientos serán gratuitos, breves y sencillos, y en ocasión de su investigación, podrá formular recomendaciones públicas a las autoridades correspondientes.
+
+10. La ley determinará los requisitos para ser Presidente, así como consejero de la Comisión de Derechos Humanos del Estado de Coahuila.
+
+11. Todo órgano, dependencia o entidad de los gobiernos estatal y municipal deberá colaborar con la Comisión de Derechos Humanos del Estado de Coahuila en los términos de las disposiciones aplicables, para el mejor ejercicio de sus funciones, bajo los principios de fidelidad estatal y municipal.
+
+12. La Comisión de Derechos Humanos del Estado podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de derechos fundamentales en los términos de los artículos 59 y 60 de esta Constitución. En este caso la iniciativa se presentará por conducto del presidente, previo acuerdo del Consejo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -3781,3 +3817,15 @@ P.O. 7 DE ABRIL DE 2006.
 PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2007; misma fecha en que a más tardar deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, las reformas a las disposiciones legales estatales y municipales de Coahuila, que regulen sobre la materia de responsabilidad del Estado.
 
 SEGUNDO. Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE JULIO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. El Poder Legislativo del Estado deberá emitir una nueva Ley Orgánica de la Comisión de Derechos Humanos del Estado de Coahuila, de conformidad con las disposiciones previstas en el presente decreto.
+
+Hasta en tanto entre en vigor la ley a que se refiere el párrafo que antecede, la Comisión de Derechos Humanos del Estado de Coahuila, para su organización y funcionamiento continuará aplicando las disposiciones de la Ley Orgánica que en este momento la rige, en cuanto no contravenga lo dispuesto en el presente decreto, así como las determinaciones que sobre el particular emita la presidencia de este organismos.
+
+CUARTO. Se derogan las disposiciones que se opongan a este decreto.
