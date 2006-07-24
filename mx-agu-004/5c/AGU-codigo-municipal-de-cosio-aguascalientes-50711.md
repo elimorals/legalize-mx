@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-50711"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-06-05"
-last_updated: "2006-06-05"
+last_updated: "2006-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE COSIO. AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 5 de junio de 2006.
 
@@ -649,9 +649,13 @@ Tanto el inventario como los informes serán verificados posteriormente para tod
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 57.
 
-Se denominará Cabildo al Ayuntamiento en Sesión, así como a sus integrantes de manera indistinta. Las sesiones serán presididas por el Presidente Municipal o por quien los sustituya legalmente, siendo en este caso el Primer Regidor. Las sesiones constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el periodo de enero a diciembre de cada año.
+Se denominará Cabildo al Ayuntamiento en Sesión, así como a sus integrantes de manera indistinta. Las sesiones serán presididas por el Presidente Municipal o por quien los sustituya legalmente, siendo en este caso el Primer Regidor o en su caso el Regidor que le siga en orden. Las sesiones constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el período de enero a diciembre de cada año.
+
+Lo acontecido en las sesiones se consigna en el libro de actas en el que se debe publicar la fecha y el lugar en que se verificó la sesión, el sumario, síntesis de las discusiones en el orden que se desarrollen y resoluciones adoptadas. El acta se debe acompañar de los documentos a los que se les dé lectura.
 
 ###### ARTICULO 58.
 
@@ -675,9 +679,11 @@ Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo en el cas
 
 Si fuere el caso, el Secretario certificará, pasados 15 minutos de la hora señalada para la sesión, que no existe quórum legal para los efectos de suspensión de la misma.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 62.
 
-Las Sesiones del Cabildo serán: Ordinarias, Extraordinarias, Solemnes y Secretas; por regla general las sesiones tendrán el carácter de públicas excepto las que señale el presente Código como secretas.
+Las Sesiones del Cabildo serán: Ordinarias, Extraordinarias y Solemnes, por regla general las sesiones tendrán el carácter de públicas.
 
 ###### ARTICULO 63.
 
@@ -697,9 +703,11 @@ Será el Director de Asuntos Jurídicos quien auxiliará al Presidente, y fungir
 
 Es obligación de los integrantes del H. Ayuntamiento, concurrir a las Sesiones de Cabildo a que sean convocados. El Regidor o Sindico que falte sin causa justificada a cinco o más sesiones será sancionado de acuerdo a lo que señala la Ley Municipal para el Estado de Aguascalientes y el presente Código.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 66.
 
-Las sesiones de Cabildo son preferentemente públicas, salvo que por alguna circunstancia el Ayuntamiento acuerde que los asuntos a tratar exigen reserva, en cuyo caso serán secretas. Las sesiones públicas, son aquellas que se celebren permitiendo el acceso al público en general.
+Las sesiones de Cabildo serán públicas y se podrá permitir el ingreso al recinto oficial al público en general, el cual deberá observar buena conducta y respeto hacia los integrantes del Cabildo.
 
 ### CAPITULO SEGUNDO. De las Sesiones Ordinarias
 
@@ -783,17 +791,11 @@ En las Sesiones Solemnes deberán de realizarse honores al Lábaro Patrio y se d
 
 ###### ARTICULO 78.
 
-Dada su naturaleza, en las Sesiones Secretas estará prohibido el acceso al público al recinto donde se sesione durante el desarrollo de la misma.
+(DEROGADO, P.O. 24 DE JULIO DE 2006)
 
 ###### ARTICULO 79.
 
-Serán consideradas por este Código como Sesiones Secretas las siguientes:
-
-I.- Donde se traten asuntos que exijan reserva de acuerdo a lo establecido en la Ley Municipal para el Estado de Aguascalientes;
-
-II.- Donde se traten asuntos de carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivo, legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III.- Las que así acuerde previamente el Cabildo.
+(DEROGADO, P.O. 24 DE JULIO DE 2006)
 
 ### CAPITULO SEXTO. De la Intervención del Público en las Sesiones
 
@@ -2249,13 +2251,17 @@ XX.- Autorizar en su caso las corridas de ganado que se le soliciten, previo est
 
 XXI.- Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JULIO DE 2006)</small>
+
 APARTADO QUINTO
 
-De la Dirección de Reglamentos y Licencias
+Del Departamento de Reglamentos y Licencias
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 210.
 
-Corresponde a la Dirección de Reglamentos y Licencias:
+Corresponde al Departamento de Reglamentos y Licencias:
 
 I.- Inspeccionar y vigilar que se cumplan con las disposiciones del presente Código y de las demás leyes en los giros municipales reglamentados;
 
@@ -2445,6 +2451,34 @@ XXX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: A
 
 Las atribuciones señaladas en el artículo anterior, serán desempeñadas de manera indistinta, según proceda, por el Director, los departamentos de Contabilidad, Contable de Ingresos, Contable de Egresos y Catastro.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2006)</small>
+
+ARTICULO 215 BIS: Corresponde al titular de la Oficialía Mayor Administrativa:
+
+I.- Administrar y desarrollar los recursos humanos del municipio;
+
+II.- Preparar de los tabuladores de sueldos y de más percepciones que correspondan a los servidores públicos del municipio;
+
+III. Manejar de Promociones al personal ligadas a incrementos de productividad;
+
+IV. Prestar los servicios médicos de consulta externa a los empleados municipales;
+
+V. Coordinar el servicio civil de carrera;
+
+VI.- Instruir los procedimientos disciplinarios en que se vean involucrados los servidores públicos municipales;
+
+VII.- Generar los análisis y programas tendientes a lograr el desarrollo organizacional de la administración municipal;
+
+VIII.- Administrar todas las compras y suministros municipales, ligadas al presupuesto de egresos elaborado por programas;
+
+IX. Controlar los almacenes municipales;
+
+X. Administrar todos los vehículos y equipos del municipio buscando siempre su máxima utilización en beneficio de la comunidad;
+
+XI. Manejar los sistemas y procesos informáticos que habrán de emplearse en el municipio;
+
+XII.- Las demás que se señalen en los ordenamientos jurídicos aplicables.
+
 ###### ARTICULO 216.
 
 Corresponde al Departamento de Recursos Humanos:
@@ -2481,11 +2515,19 @@ IV.- Elaborar y actualizar la pagina de Internet del Ayuntamiento de Cosío, Ags
 
 V.- Las demás que le confiera el presente Código y las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2006)</small>
+
+###### ARTICULO 218.
+
+El titular del Departamento de informática deberá de realizar en conjunto con el titular de la Oficialía Mayor las compras de equipos necesarios para el buen funcionamiento de los sistemas de cómputo municipales, de conformidad con las reglas dictadas en el presente Código.
+
 APARTADO DECIMO
 
 De la Dirección de Servicios Públicos Municipales
 
-ARTICULO 219 (SIC).- Corresponde a la Dirección de Servicios Públicos Municipales lo siguiente:
+###### ARTICULO 219.
+
+Corresponde a la Dirección de Servicios Públicos Municipales lo siguiente:
 
 I.- la prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, limpia y aseo público, panteones, parques y jardines y demás servicios públicos contenidos en el artículo 115 Constitucional, en el artículo 69 de la Constitución local y artículos 74 y 75 de la Ley Municipal para el Estado de Aguascalientes;
 
@@ -4041,9 +4083,11 @@ IX.- Bajo ninguna circunstancia el ayuntamiento renunciará a sus obligaciones o
 
 ### CAPITULO SEGUNDO. De la Concesión de los Servicios Públicos Municipales
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 411.
 
-Serán servicios públicos municipales sujetos a concesión a particulares los enumerados en el articulo 414 en sus fracciones I a VII.
+Serán servicios públicos municipales sujetos a concesión a particulares los enumerados en el Artículo 406 en sus fracciones I a VII.
 
 ###### ARTICULO 412.
 
@@ -7165,6 +7209,10 @@ III.- Dos ciudadanos reconocidos con destacada solvencia moral;
 
 Todos los integrantes tendrán derecho a voz y voto, siendo el Presidente de la Comisión de Honor y Justicia quien tendrá el voto de calidad en caso de empate.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2006)</small>
+
+El Presidente de la Comisión podrá auxiliarse de una persona quien fungirá como Secretario de Actas, quien no tendrá derecho ni a voz ni a voto.
+
 ###### ARTICULO 818.
 
 Los ciudadanos a que se refiere la fracción III del artículo anterior deberán radicar en el Municipio de Cosío, ser de reconocida solvencia moral y serán designados por el Presidente Municipal.
@@ -7671,7 +7719,9 @@ Agregarán en su reporte un parte informativo con el nombre de cualquier servido
 
 ### CAPITULO SEXTO. De la Detención de los Vehículos
 
-ARTICULO 870 (SIC).- Los elementos operativos deberán impedir la circulación de un vehículo y remitirlo al depósito en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2006)</small>
+
+ARTICULO 870 BIS.- Los elementos operativos deberán impedir la circulación de un vehículo y remitirlo al depósito en los siguientes casos:
 
 I.- Cuando el conductor estando estacionado o al circular, sea sorprendido consumiendo bebidas alcohólicas; o bien, cometa alguna infracción a la Ley de Vialidad o el presente Código, mostrando síntomas claros y ostensibles de encontrarse con aliento alcohólico o bajo el influjo de estupefacientes, psicotrópicos u otras drogas;
 
@@ -7709,9 +7759,17 @@ XIV.- Por mandato expedido por autoridad competente; y
 
 XV.- En los demás casos que dispongan las leyes.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2006)</small>
+
+###### ARTICULO 871.
+
+Para efectos de llevar a cabo de (sic) la detención de un vehículo se seguirán los lineamientos señalados en el presente Código y en la Ley de Vialidad del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 872.
 
-En caso de que el infractor de la fracción VIII del artículo anterior se presente cuando se está realizando la maniobra de enganche de la grúa, se suspenderá su arrastre al depósito, siempre y cuando lo retire de inmediato del lugar prohibido y pague en el acto el servicio de la presencia de la grúa (banderazo), levantándosele el acta de infracción, únicamente
+En caso de que el infractor de la fracción VIII del artículo 870 Bis se presente cuado se está realizando la maniobra de enganche de la grúa, se suspenderá su arrastre al depósito, siempre y cuando lo retire de inmediato del lugar prohibido y pague en el acto el servicio de la presencia de la grúa (banderazo), levantándosele el acta de infracción, únicamente.
 
 ###### ARTICULO 873.
 
@@ -7797,15 +7855,19 @@ II.- Causas de fuerza mayor; y
 
 III.- Deterioro normal por efectos climatológicos o hechos de la naturaleza.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 885.
 
-Todo vehículo que sea remitido a la pensión municipal, sin importar la causa de su ingreso, deberá contar con un inventario debidamente llenado en el momento de ser levantado por los elementos operativos en los casos de las tres primeras fracciones del artículo 870 o bien, cuando se trate de otra autoridad remitente en el caso de la fracción IV, en el momento de ser remitido a la pensión municipal.
+Todo vehículo que sea remitido a la pensión municipal, sin importar la causa de su ingreso, deberá contar con un inventario debidamente llenado en el momento de ser levantado por los elementos operativos en los casos de las tres primeras fracciones del Artículo 870 Bis o bien, cuando se trate de otra autoridad remitente en el caso de la fracción IV, en el momento de ser remitido a la pensión municipal.
 
-Para ello, los elementos operativos deberán llevar en todo momento, formatos de acta o parte, además de los formatos de inventarios y sellos de cancelado.
+Para ello, los elementos operativos deberán llevar en todo momento, formatos de actas o parte, además de los formatos de inventarios y sellos de cancelado.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 886.
 
-Cuando el ingreso a la pensión municipal, sea por las causas señaladas en las fracciones de la I a la III, del articulo 870, el elemento operativo al levantar el parte, deberá hacerlo en presencia del propietario, excepto en el caso de abandono en vía publica o estacionamiento en lugar prohibido; en ese momento deberá hacer el inventario de las pertenencias y del estado general del vehículo. El inventario será firmado de conformidad por el propietario y por el oficial encargado.
+Cuando el ingreso a la pensión municipal, sea por las causas señaladas en las fracciones de la I a la III, del Artículo 870 Bis, el elemento operativo al levantar el parte, deberá hacerlo en presencia del propietario, excepto en el caso de abandono en vía pública o estacionamiento en lugar prohibido; en ese momento deberá hacer el inventario de las pertenencias y del estado general del vehículo. El inventario será firmado de conformidad por el propietario y por el oficial encargado.
 
 ###### ARTICULO 887.
 
@@ -7867,9 +7929,11 @@ Todo vehículo que ingrese a la pensión municipal, contará con un registro a t
 
 Todo vehículo que ingrese en la pensión municipal, será acomodado y colocado de acuerdo a la causa de su ingreso, y dentro de ésta de acuerdo al estado físico del vehículo, cada uno contará con una ficha de localización por letra, pasillo y número progresivo de acuerdo a la orden de llegada.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 902.
 
-Los vehículos que ingresan a la pensión municipal, por la causa IV del artículo 880, se harán a través de oficio, el cuál será firmado por las autoridades facultadas para ello. Dichos vehículos podrán ser remitidos a la pensión a través de los medios que dichas autoridades juzguen pertinentes.
+Los vehículos que ingresan a la pensión municipal, por la causa IV del Artículo 870 Bis, se harán a través de oficio, el cual será firmado por las autoridades facultadas para ello. Dichos vehículos podrán ser remitidos a la pensión a través de los medios que dichas autoridades juzguen pertinentes.
 
 ###### ARTICULO 903.
 
@@ -7905,9 +7969,11 @@ En los formatos de inventario y de salida que utiliza la pensión municipal apar
 
 La Dirección será la autoridad facultada para autorizar la salida o liberación de vehículos, misma que deberá ser siempre por escrito y con el sello y firma del Director o Subdirector, salvo en el caso de los vehículos remitidos por autoridad diferente, las cuales serán las facultadas para girar instrucción para la salida de vehículos, que como requisito indispensable deberá ser mediante escrito firmado por las personas autorizadas, dirigido a tránsito municipal para que éste a su vez otorgue la liberación al interesado.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 911.
 
-En caso de vehículos ingresados por las causas I a III, del artículo 870, a los tres meses de antigüedad con respecto a la fecha en que entró el vehículo sin que haya reclamo de persona física o moral o autoridad que compruebe la propiedad, la Presidencia Municipal de Cosío, dispondrá del bien en cuestión por medio de la realización de subasta pública de los mismos, bajo las normas y lineamientos que establece la ley al respecto. Quedan excluidos de esta cláusula los vehículos remitidos por la causa IV del artículo 870, no existiendo límite de tiempo de estadía en la pensión municipal para estos casos.
+En caso de vehículos ingresados por las causas I a III, del Artículo 870 Bis, a los tres meses de antigüedad con respecto a la fecha en que entró el vehículo sin que haya reclamo de persona física o moral o autoridad que compruebe la propiedad, la Presidencia Municipal de Cosío, dispondrá del bien en cuestión por medio de la realización de subasta pública de los mismos, bajo las normas y lineamientos que establece la ley al respecto. Quedan excluidos de esta cláusula los vehículos remitidos por la causa IV del Artículo 870 Bis, no existiendo límite de tiempo de estadía en la pensión municipal para estos casos.
 
 ###### ARTICULO 912.
 
@@ -11983,9 +12049,11 @@ Si como resultado del dictamen técnico fuera necesario ejecutar alguno de los t
 
 En caso de peligro inminente conforme al dictamen, la desocupación deberá ejecutarse en forma inmediata, y si es necesario, la Presidencia Municipal utilizará la fuerza pública para hacer cumplir la orden. En estos casos no procederá el recurso previsto en el presente Código.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 1425.
 
-Para la imposición de las sanciones enumeradas en el articulo 686, se deberá de enviar una notificación al presunto infractor a efectos de que dentro de los siguientes quince días hábiles, aporte las pruebas en que se funde y exponga lo que a su derecho convenga.
+Para la imposición de las sanciones enumeradas en el Artículo 676, se deberá de enviar una notificación al presunto infractor a efectos de que dentro de los siguientes quince días hábiles, aporte las pruebas en que se funde y exponga lo que a su derecho convenga.
 
 ###### ARTICULO 1426.
 
@@ -12706,3 +12774,9 @@ SINDICO MUNICIPAL.
 Lic. Manuel Alonso Pérez Martínez,
 
 SRIO. DEL H. AYUNTAMIENTO INTERINO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2006.
+
+Las presentes reformas y adiciones adquirirán vigencia, obligatoriedad y pasarán a ser parte del Código Municipal de Cosío, Ags., a partir del día siguiente de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
