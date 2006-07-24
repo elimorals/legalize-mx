@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-obras-publicas-del-distrito-federal-153
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-30"
-last_updated: "2006-05-17"
+last_updated: "2006-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15370&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-09"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JULIO DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 30 de diciembre de 1999.
 
@@ -220,7 +220,9 @@ c) Vocales, que son los titulares de cada una de las dependencias de la Administ
 
 d) Dos ciudadanos, que serán designados por el Jefe de Gobierno del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos; y
 
-e) Asesores, que serán un representante de la Contraloría General y uno de la Consejería Jurídica y de Servicios Legales, y los demás que determine el Comité.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+e) Asesores, que serán un representante de la Consejería Jurídica y de Servicios Legales, uno de la Contraloría General, y uno de la Contraloría Interna en la Secretaría de Obras y Servicios, y los demás que determine el Comité.
 
 El Presidente del Comité decidirá cuando se requiera contar con la presencia de otros servidores públicos, los cuales tendrán el carácter de invitados.
 
@@ -332,7 +334,9 @@ e) Cumplir y difundir la Ley, el Reglamento y demás disposiciones aplicables,
 
 f) Asesorar a los Comités, Delegacional y de las Entidades cuando así lo soliciten, por escrito;
 
-g) Dictaminar sobre la procedencia de celebrar licitaciones públicas; en los casos en que lo solicite el subcomité de obras de alguna dependencia, Órgano Desconcentrado o entidad, así como en los casos de excepción previstos en el artículo 63 de la ley;
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+g) Dictaminar sobre la procedencia de los casos de excepción previstos en el artículo 63 de la ley, cuando lo considere conveniente;
 
 h) Conocer y resolver sobre la realización de obras públicas a realizarse en dos o más delegaciones.
 
@@ -350,7 +354,9 @@ a) Elaborar su Manual Específico de Integración y Funcionamiento y someterlo a
 
 b) Aprobar la creación de los Subcomités Técnicos que las delegaciones requieran para la atención de asuntos específicos;
 
-c) Dictaminar sobre la procedencia de celebrar licitaciones públicas; en los casos en que lo solicite el subcomité de obras de alguna de las Delegaciones, así como en los casos de excepción previstos en el artículo 63 de la ley;
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+c) Dictaminar sobre la procedencia de los casos de excepción previstos en el artículo 63 de la ley, cuando lo considere conveniente;
 
 d) Determinar la limitación a personas físicas y morales para presentar propuestas y celebrar contratos de obra pública, conforme a lo establecido en el artículo 37, fracciones III y IV de la Ley y remitir a la Contraloría General para su publicación;
 
@@ -378,17 +384,29 @@ e) Determinar la limitación a personas físicas y morales para presentar propue
 
 f) Revisar los programas y presupuestos de obra pública autorizados a la entidad, así como formular las observaciones y recomendaciones pertinentes;
 
-g) Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como sobre los casos de excepción previstos en el artículo 63 de la ley;
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
 
-i) (sic) Difundir al interior de la entidad, las directrices y políticas internas que emita el Comité Central, en el ámbito de su competencia;
+g) Dictaminar sobre la procedencia de los casos de excepción previstos en el artículo 63 de la ley;
 
-j) Analizar trimestralmente el informe de avances de la entidad, de acuerdo con su programa anual de obra pública y en su caso, proponer las medidas necesarias para su cumplimiento;
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
 
-k) Remitir al Comité Central para su conocimiento reporte respecto de lo establecido en el artículo 37 fracciones III y IV de la Ley;
+h) Difundir al interior de la entidad, las directrices y políticas internas que emita el Comité Central, en el ámbito de su competencia;
 
-l) Cumplir y difundir la Ley, el Reglamento y demás disposiciones aplicables, y
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
 
-m) Las demás que le confieran la Ley, este Reglamento y otras disposiciones aplicables en la materia.
+i) Analizar trimestralmente el informe de avances de la entidad, de acuerdo con su programa anual de obra pública y en su caso, proponer las medidas necesarias para su cumplimiento;
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+j) Remitir al Comité Central para su conocimiento reporte respecto de lo establecido en el artículo 37 fracciones III y IV de la Ley;
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+k) Cumplir y difundir la Ley, el Reglamento y demás disposiciones aplicables, y
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+l) Las demás que le confieran la Ley, este Reglamento y otras disposiciones aplicables en la materia.
 
 > <small>(ADICIONADO, G.O. 17 DE MAYO DE 2006)</small>
 
@@ -508,7 +526,9 @@ IV.- Aplicar los lineamientos generales y las políticas que emita en el ámbito
 
 V.- Promover la estricta observancia de la normativa en materia de obra pública, aplicar y difundir la Ley, el Reglamento y demás disposiciones aplicables y coadyuvar a su debido cumplimiento;
 
-VI.- Solicitar al comité correspondiente sobre la procedencia de celebrar licitaciones públicas, así como en los casos de excepción previstos en el artículo 63 de la ley;
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
+
+VI.- Dictaminar sobre la procedencia de los casos de excepción previstos en el artículo 63 de la ley;
 
 VII.- Supervisar que las dependencias, órganos desconcentrados y delegaciones, integren y remitan al Comité de obras correspondiente, el expediente de las personas físicas o morales para efectos de la limitación establecida en el artículo 37, fracciones III y IV de la Ley, y
 
@@ -1667,5 +1687,9 @@ G.O. 28 DE FEBRERO DE 2002.
 ÚNICO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en la Gaceta Oficial del Distrito
 
 G.O. 17 DE MAYO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
