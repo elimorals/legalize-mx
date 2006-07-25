@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interno-de-la-comision-estatal-de-arbitraje-18627"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-21"
-last_updated: "2000-11-21"
+last_updated: "2006-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 21 de noviembre de 2000.
 
@@ -95,7 +95,9 @@ I. Un Consejo.
 
 II. Un Comisionado.
 
-III. Un equipo formado por un Subcomisionado “A” Médico y un Subcomisionado “B”, Licenciado en Derecho.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2006)</small>
+
+III. Un equipo formado por un Subcomisionado Médico y un Subcomisionado Jurídico, que deberá ser Licenciado en Derecho, y
 
 IV. Las unidades administrativas y áreas que se precisan en el presente ordenamiento.
 
@@ -132,6 +134,16 @@ El Consejo estará integrado, en los términos que establece el Artículo 6o. de
 ###### ARTICULO 8.
 
 Para que se lleven a efecto las sesiones del Consejo será necesario un quórum mínimo de 6 miembros del Consejo.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2006)</small>
+
+ARTICULO 8 A. El Consejero podrá en caso extraordinario nombrar a un suplente para que asista a la sesión ordinaria del Consejo, dicho suplente tendrá calidad de voz más no de voto. Pudiendo hacer uso de éste derecho en dos sesiones en el periodo de un año.
+
+Por ningún motivo, y en caso de inasistencia de algún Consejero, no podrá nombrarse un suplente en la sesión extraordinaria. Los suplentes no integran quórum.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2006)</small>
+
+ARTICULO 8 B. Una vez que se ha declarado que no existe quórum para celebrar sesión ordinaria, se convocará treinta minutos después a sesión extraordinaria, la cual se llevará a cabo, con los Consejeros presentes y los acuerdos que se tomen serán legalmente válidos.
 
 ###### ARTICULO 9.
 
@@ -171,13 +183,19 @@ VIII. Analizar y en su caso, aprobar el informe que el Comisionado presentará a
 
 IX. Evaluar periódicamente el funcionamiento de la Comisión Estatal y formular las recomendaciones correspondientes al desempeño y resultados que obtenga;
 
-X. Aprobar las propuestas de modificación a la estructura orgánica de la Comisión; y
+X. Aprobar las propuestas de modificación a la estructura orgánica de la Comisión; y (sic)
 
-XI. Las demás que le confieran otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2006)</small>
+
+XI. Analizar y en su caso aprobar, la solicitud al Ejecutivo del Estado la remoción de los Consejeros que no asistan a las sesiones de Consejo convocadas, por tres sesiones ordinarias consecutivas sin justificar su falta, mismos que podrá (sic) ser removidos de su cargo, a consideración y propuesta de la mayoría de votos de los Consejeros presentes;
+
+XII. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Para el adecuado desarrollo de las sesiones del Consejo, habrá una Secretaría Técnica que estará a cargo del Subcomisionado B, quien podrá auxiliarse de un Prosecretario en las funciones propias de este encargo. El Prosecretario será designado por el Consejo, a propuesta del Subcomisionado B de entre los servidores públicos de la Comisión.
+Para el adecuado desarrollo de las sesiones del Consejo, habrá una Secretaría Técnica a cargo del Subcomisionado Jurídico, quien podrá auxiliarse de un Prosecretario en las funciones propias de este encargo. El Prosecretario será designado por el Consejo, a propuesta del Subcomisionado Jurídico de entre los servidores públicos de la Comisión.
 
 ###### ARTICULO 15.
 
@@ -273,9 +291,11 @@ XIII. Someter al seno del Consejo el programa presupuesto anual de la Comisión 
 
 XIV. Las demás que con tal carácter le correspondan como Titular de la Comisión en los términos de las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Durante las ausencias temporales del Comisionado, sus funciones serán cubiertas por el Subcomisionado "A", y de encontrarse también ausente, lo serán por el Subcomisionado "B".
+Durante las ausencias temporales del Comisionado, sus funciones serán cubiertas por el Subcomisionado Médico, y de encontrarse también ausente, lo serán por el Subcomisionado Jurídico.
 
 ### Capítulo Quinto:
 
@@ -485,9 +505,11 @@ VII. Las demás que las disposiciones legales y administrativas les confieran y 
 
 De las facultades de los Subcomisionados.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 27.
 
-Para auxiliar al Comisionado en el ejercicio de las responsabilidades que en términos del Decreto le han sido encomendadas, contará, conforme a lo señalado en el artículo 5o. del Decreto, con el apoyo de los Subcomisionados. “A” y “B” médico y licenciado en derecho respectivamente, quienes ejercerán las funciones que el presente ordenamiento les señale.
+Para auxiliar al Comisionado en el ejercicio de las responsabilidades que en términos del Decreto le han sido encomendadas, contará, conforme a lo señalado en el artículo 5 de dicho Decreto, con el apoyo de los Subcomisionados Médico y Jurídico respectivamente, quienes ejercerán las funciones que el presente ordenamiento les señale.
 
 ###### ARTICULO 28.
 
@@ -523,9 +545,11 @@ XIV. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su
 
 XV. Las demás que las disposiciones legales confieran a la Comisión y que les encomiende el Comisionado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 29.
 
-Corresponde al Subcomisionado "A" el ejercicio de las siguientes facultades y obligaciones:
+Corresponde al Subcomisionado Médico, el ejercicio de las siguientes facultades y obligaciones:
 
 I. Asesorar e informar a los usuarios y prestadores de servicios médicos sobre sus derechos y obligaciones;
 
@@ -551,9 +575,11 @@ XI. Establecer las relaciones institucionales del caso, con las autoridades enca
 
 XII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 30.
 
-Corresponde al Subcomisionado "B" el ejercicio de las siguientes facultades y obligaciones:
+Corresponde al Subcomisionado Jurídico, el ejercicio de las siguientes facultades y obligaciones:
 
 I. Dar seguimiento a los acuerdos, laudos y opiniones que emita la Comisión;
 
@@ -575,7 +601,9 @@ IX. Establecer, coordinar y supervisar, las políticas, normas, sistemas y proce
 
 X. Coordinar la ejecución de las audiencias informativas y conciliatorias;
 
-XI. Coadyuvar con el Subcomisionado "A" en las funciones de orientación e investigación de las quejas y lo relativo para la emisión de los dictámenes institucionales solicitados; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2006)</small>
+
+XI. Coadyuvar con el Subcomisionado Médico en las funciones de orientación e investigación de las quejas y lo relativo para la emisión de los dictámenes institucionales solicitados; y
 
 XII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
@@ -640,3 +668,9 @@ Rúbrica.
 C. LIC. LEON PEREZ CORTEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
