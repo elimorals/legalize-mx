@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-para-la-atencion-de-quejas-27200"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-21"
-last_updated: "2003-01-21"
+last_updated: "2006-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27200&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-07"
 
 REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS MEDICAS Y GESTION PERICIAL DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JULIO DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2003.
 
@@ -35,43 +35,45 @@ REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS MEDICAS Y GESTION PERICI
 
 El presente Reglamento tiene por objeto normar los procedimientos de la Comisión Nacional de Arbitraje Médico, sus disposiciones son obligatorias para los servidores públicos de este órgano desconcentrado; las partes estarán obligadas al cumplimiento de este instrumento en los términos que el mismo establece.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 2o.
 
 Para efectos de este Reglamento, se entenderá por:
 
-I. ARBITRAJE EN AMIGABLE COMPOSICION.- Procedimiento para el arreglo de una controversia, entre un usuario y un prestador de servicio médico, oyendo las propuestas de la CONAMED;
+I. ARBITRAJE EN ESTRICTO DERECHO.- Procedimiento para el arreglo de una controversia, entre un usuario y un prestador de servicio médico, en el cual la CONAMED resuelve la controversia según las reglas del derecho, atendiendo a los puntos debidamente probados por las partes;
 
-II. ARBITRAJE EN ESTRICTO DERECHO.- Procedimiento para el arreglo de una controversia, entre un usuario y un prestador de servicio médico, en el cual la CONAMED resuelve la controversia según las reglas del derecho, atendiendo a los puntos debidamente probados por las partes;
+II. ARBITRAJE EN CONCIENCIA.- Procedimiento para el arreglo de una controversia entre un usuario y un prestador de servicio médico, en el cual la CONAMED resuelve la controversia en equidad, bastando ponderar el cumplimiento de los principios científicos y éticos de la práctica médica;
 
-III. ARBITRAJE EN CONCIENCIA.- Procedimiento para el arreglo de una controversia entre un usuario y un prestador de servicio médico, en el cual la CONAMED resuelve la controversia en equidad, bastando ponderar el cumplimiento de los principios científicos y éticos de la práctica médica;
+III. CLAUSULA COMPROMISORIA.- La establecida en cualquier contrato de prestación de servicios profesionales o de hospitalización, o de manera especial en cualquier otro instrumento a través de la cual las partes designen a la CONAMED para resolver las diferencias que puedan surgir con motivo de la atención médica, mediante el proceso arbitral;
 
-IV. CLAUSULA COMPROMISORIA.- La establecida en cualquier contrato de prestación de servicios profesionales o de hospitalización, o de manera especial en cualquier otro instrumento a través de la cual las partes designen a la CONAMED para resolver las diferencias que puedan surgir con motivo de la atención médica, mediante el proceso arbitral;
+IV. COMPROMISO ARBITRAL.- Acuerdo otorgado por partes capaces y en pleno ejercicio de sus derechos civiles por el cual designen a la CONAMED para la resolución arbitral; determinen el negocio sometido a su conocimiento; acepten las reglas de procedimiento fijadas en el presente Reglamento o, en su caso, señalen reglas especiales para su tramitación;
 
-V. COMPROMISO ARBITRAL.- Acuerdo otorgado por partes capaces y en pleno ejercicio de sus derechos civiles por el cual designen a la CONAMED para la resolución arbitral; determinen el negocio sometido a su conocimiento; acepten las reglas de procedimiento fijadas en el presente Reglamento o, en su caso, señalen reglas especiales para su tramitación;
+V. CONAMED.- La Comisión Nacional de Arbitraje Médico;
 
-VI. CONAMED.- La Comisión Nacional de Arbitraje Médico;
+VI. DECRETO.- El Decreto por el que se crea la CONAMED, publicado en el Diario Oficial de la Federación el tres de junio de mil novecientos noventa y seis;
 
-VII. DECRETO.- El Decreto por el que se crea la CONAMED, publicado en el Diario Oficial de la Federación el tres de junio de mil novecientos noventa y seis;
+VII. DICTAMEN MEDICO INSTITUCIONAL.- Informe pericial de la CONAMED, precisando sus conclusiones respecto de alguna cuestión médica sometida a su análisis, dentro del ámbito de sus atribuciones. Tiene carácter institucional, no emitido por simple perito persona física y no entraña la resolución de controversia alguna; se trata de mera apreciación técnica del acto médico, al leal saber y entender de la CONAMED, atendiendo a las evidencias presentadas por la autoridad peticionaria;
 
-VIII. DICTAMEN MEDICO INSTITUCIONAL.- Informe pericial de la CONAMED, precisando sus conclusiones respecto de alguna cuestión médica sometida a su análisis, dentro del ámbito de sus atribuciones. Tiene carácter institucional, no emitido por simple perito persona física y no entraña la resolución de controversia alguna; se trata de mera apreciación técnica del acto médico, al leal saber y entender de la CONAMED, atendiendo a las evidencias presentadas por la autoridad peticionaria;
+VIII. IRREGULARIDAD EN LA PRESTACION DE SERVICIOS MEDICOS.- Todo acto u omisión en la atención médica que contravenga las disposiciones que la regulan, por negligencia, impericia o dolo, incluidos los principios científicos y éticos que orientan la práctica médica;
 
-IX. IRREGULARIDAD EN LA PRESTACION DE SERVICIOS MEDICOS.- Todo acto u omisión en la atención médica que contravenga las disposiciones que la regulan, por negligencia, impericia o dolo, incluidos los principios científicos y éticos que orientan la práctica médica;
+IX. LAUDO.- Es el pronunciamiento por medio del cual la CONAMED resuelve, en estricto derecho o en conciencia, las cuestiones sometidas a su conocimiento por las partes;
 
-X. LAUDO.- Es el pronunciamiento por medio del cual la CONAMED resuelve, en estricto derecho o en conciencia, las cuestiones sometidas a su conocimiento por las partes;
+X. NEGATIVA EN LA PRESTACION DE SERVICIOS MEDICOS.- Todo acto u omisión por el cual se rehúsa injustificadamente la prestación de servicios médicos obligatorios;
 
-XI. NEGATIVA EN LA PRESTACION DE SERVICIOS MEDICOS.- Todo acto u omisión por el cual se rehusa injustificadamente la prestación de servicios médicos obligatorios;
+XI. OPINION TECNICA.- Análisis emitido por la CONAMED, a través del cual establecerá apreciaciones y recomendaciones necesarias para el mejoramiento de la calidad en la atención médica, especialmente en asuntos de interés general. Las opiniones técnicas podrán estar dirigidas a las autoridades, corporaciones médicas, o prestadores del servicio médico y no serán emitidas a petición de parte, ni para resolver cuestiones litigiosas;
 
-XII. OPINION TECNICA.- Análisis emitido por la CONAMED, a través del cual establecerá apreciaciones y recomendaciones necesarias para el mejoramiento de la calidad en la atención médica, especialmente en asuntos de interés general. Las opiniones técnicas podrán estar dirigidas a las autoridades, corporaciones médicas, o prestadores del servicio médico y no serán emitidas a petición de parte, ni para resolver cuestiones litigiosas;
+XII. PARTES.- Quienes hayan decidido someter su controversia, mediante la suscripción de una cláusula compromisoria o compromiso arbitral, al conocimiento de la CONAMED;
 
-XIII. PARTES.- Quienes hayan decidido someter su controversia, mediante la suscripción de una cláusula compromisoria o compromiso arbitral, al conocimiento de la CONAMED;
+XIII. PRESTADOR DEL SERVICIO MEDICO.- Las instituciones de salud de carácter público, social o privado, así como los profesionales, técnicos y auxiliares de las disciplinas para la salud, sea que ejerzan su actividad en dichas instituciones, o de manera independiente;
 
-XIV. PRESTADOR DEL SERVICIO MEDICO.- Las instituciones de salud de carácter público, social o privado, así como los profesionales, técnicos y auxiliares de las disciplinas para la salud, sea que ejerzan su actividad en dichas instituciones, o de manera independiente;
+XIV. PRINCIPIOS CIENTIFICOS DE LA PRACTICA MEDICA (LEX ARTIS MEDICA).- El conjunto de reglas para el ejercicio médico contenidas en la literatura universalmente aceptada, en las cuales se establecen los medios ordinarios para la atención médica y los criterios para su empleo;
 
-XV. PRINCIPIOS CIENTIFICOS DE LA PRACTICA MEDICA (LEX ARTIS MEDICA).- El conjunto de reglas para el ejercicio médico contenidas en la literatura universalmente aceptada, en las cuales se establecen los medios ordinarios para la atención médica y los criterios para su empleo;
+XV. PRINCIPIOS ETICOS DE LA PRACTICA MEDICA.- El conjunto de reglas bioéticas y deontológicas universalmente aceptadas para la atención médica;
 
-XVI. PRINCIPIOS ETICOS DE LA PRACTICA MEDICA.- El conjunto de reglas bioéticas y deontológicas universalmente aceptadas para la atención médica;
+XVI. PROCESO ARBITRAL.- Conjunto de actos procesales y procedimientos que se inicia con la presentación y admisión de una queja y termina por alguna de las causas establecidas en el presente Reglamento, comprende las etapas conciliatoria y decisoria y se tramitará con arreglo a la voluntad de las partes, en estricto derecho o en conciencia;
 
-XVII. PROCESO ARBITRAL.- Conjunto de actos procesales y procedimientos que se inicia con la presentación y admisión de una queja y termina por alguna de las causas establecidas en el presente Reglamento, comprende las etapas conciliatoria y decisoria y se tramitará con arreglo a la voluntad de las partes, en amigable composición, estricto derecho o en conciencia;
+XVII. PRONUNCIAMIENTO INSTITUCIONAL.- Manifestaciones hechas por la CONAMED a las partes, con el fin de promover el arreglo de una controversia sin pronunciarse sobre el fondo del asunto;
 
 XVIII. QUEJA.- Petición a través de la cual una persona física por su propio interés o en defensa del derecho de un tercero, solicita la intervención de la CONAMED en razón de impugnar la negativa de servicios médicos, o la irregularidad en su prestación;
 
@@ -95,9 +97,15 @@ II. Brindará la orientación y la asesoría especializada que el usuario necesi
 
 III. Gestionará la atención inmediata de los usuarios, cuando la queja se refiera a demora, negativa de servicios médicos, o cualquier otra que pueda ser resuelta por esta vía;
 
-IV. Actuará en calidad de amigable componedor y árbitro, atendiendo a las cláusulas compromisorias y compromisos arbitrales, y
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
 
-V. Podrá intervenir discrecionalmente y no a petición de parte en asuntos de interés general, propugnando por la mejoría de los servicios médicos, para cuyo efecto emitirá las opiniones técnicas y recomendaciones que estime necesarias.
+IV. Actuará en calidad de árbitro, atendiendo a las cláusulas compromisorias y compromisos arbitrales;
+
+V. Podrá intervenir discrecionalmente y no a petición de parte en asuntos de interés general, propugnando por la mejoría de los servicios médicos, para cuyo efecto emitirá las opiniones técnicas y recomendaciones que estime necesarias;
+
+> <small>(ADICIONADA, D.O.F. 25 DE JULIO DE 2006)</small>
+
+VI. Elaborará los dictámenes médicos que le sean solicitados por las autoridades encargadas de la procuración e impartición de justicia, así como por las instituciones con las cuales establezca convenio de colaboración.
 
 ###### Artículo 5o.
 
@@ -139,7 +147,9 @@ IV. En las actuaciones ante la CONAMED, las fechas y cantidades se escribirán c
 
 V. Las actuaciones de la CONAMED deberán ser autorizadas por el personal jurídico actuante en las diferentes etapas del proceso arbitral, y
 
-VI. Cuando se trate de documentos esenciales para la queja, especialmente del expediente clínico y otros que por su naturaleza sean insustituibles, a juicio de la CONAMED, se presentarán, además, copias simples, las que una vez confrontadas y autorizadas por el personal jurídico que actúe, se agregarán al expediente. La CONAMED determinará discrecionalmente y atendiendo a la naturaleza del asunto motivo de arbitraje, si una vez confrontadas y autorizadas las copias sea pertinente devolver los originales a los interesados o sea menester esperar a la conclusión del proceso. Los documentos originales que deban depositarse en las instalaciones de la CONAMED serán resguardados, al efecto la CONAMED determinará discrecionalmente lo conducente.
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
+
+VI. Cuando se trate de documentos esenciales para la queja, especialmente del expediente clínico y otros que por su naturaleza sean insustituibles, a criterio de la CONAMED, se solicitarán en original o en copia simple, los que en su caso podrán ser confrontados y autorizados por el personal jurídico que actúe, agregándose al expediente las copias simples debidamente cotejadas. La CONAMED determinará discrecionalmente y atendiendo a la naturaleza del asunto motivo de arbitraje si una vez confrontadas y autorizadas las copias sea pertinente devolver los originales a los interesados o sea menester esperar a la conclusión del proceso. Los documentos originales y los valores que deban depositarse en las instalaciones de la CONAMED serán resguardados, al efecto la CONAMED determinará discrecionalmente lo conducente.
 
 ###### Artículo 11.
 
@@ -195,9 +205,15 @@ El personal que funja como apoyo jurídico cuidará que las promociones original
 
 En ningún caso se entregarán los expedientes a las partes para que los lleven fuera de la CONAMED. Las frases "dar vista" o "correr traslado" sólo significan que los documentos estarán en la CONAMED para su consulta por los interesados, para la entrega de copias, para tomar apuntes, alegar o hacer cuentas. Las disposiciones de este artículo comprenden a las autoridades que pudieran solicitar los expedientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 20.
 
-La CONAMED sólo estará obligada a expedir, copia simple o fotostática de los documentos o resoluciones que obren en el expediente, cuando las partes hubieren suscrito la cláusula compromisoria o el compromiso arbitral. Cuando se trate de copia simple bastará que las partes lo soliciten verbalmente, sin que se requiera acuerdo especial, dejando constancia en el propio expediente de su recepción.
+El proceso arbitral no tiene por objeto constituir medios preparatorios a juicio ni preconstituir prueba alguna, por lo cual, la CONAMED sólo estará obligada a expedir copia fotostática, confrontada o certificada de los documentos que obren en el expediente, siempre y cuando las partes hubieren suscrito el compromiso arbitral.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
+Cuando se trate de copia simple bastará que las partes lo soliciten verbalmente, sin que se requiera acuerdo especial, dejando constancia en el propio expediente de su recepción.
 
 Para obtener copia certificada de cualquier documento que obre en el expediente, las partes deberán solicitarlo en comparecencia o por escrito, requiriéndose el acuerdo del área en el que esté radicado el asunto y sólo se expedirá, cuando se pidiere copia o testimonio de parte de un documento, si se adiciona con lo que a su costa estime conducente la contraria.
 
@@ -216,6 +232,14 @@ En igual sentido cuando sea necesario, podrá solicitar la colaboración de las 
 Para lo no previsto en el presente ordenamiento, en cuanto al procedimiento, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Distrito Federal.
 
 Las partes podrán pactar la sujeción, en su caso, a la legislación local, atendiendo a las reglas de jurisdicción prorrogada.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
+Artículo 22 bis. Operará la caducidad del proceso arbitral si transcurren ciento veinte días sin que exista promoción de alguna de las partes para continuar con el procedimiento.
+
+La caducidad podrá ser decretada de oficio o a petición de parte.
+
+La caducidad extingue la queja pero no la acción. En consecuencia, el quejoso podrá iniciar una nueva inconformidad ante la CONAMED, siempre que la acción no haya prescrito.
 
 ###### Artículo 23.
 
@@ -245,7 +269,9 @@ I. La admisión de la queja, al prestador del servicio médico;
 
 II. Los autos definitivos;
 
-III. Las propuestas de la CONAMED en amigable composición;
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
+
+III. Los pronunciamientos institucionales que emita la CONAMED, en términos del artículo 2o; fracción XVII;
 
 IV. Los laudos, y
 
@@ -371,9 +397,11 @@ El representante común o el mandatario designado por quienes actúen unidos, so
 
 Mientras continúe el mandatario o el representante común en su encargo, los emplazamientos, notificaciones y citaciones de toda clase que se le hagan, tendrán la misma fuerza que si se hicieran a los representados, sin que le sea permitido pedir que se entiendan con éstos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 46.
 
-El negocio u objeto del arbitraje será el determinado por las partes en la cláusula compromisoria o el compromiso arbitral y, sólo por el acuerdo de ambas partes, podrá modificarse; no obstante, en cualquier etapa del proceso, las partes podrán determinar resueltos uno o varios puntos, quedando el resto pendiente para el laudo.
+El negocio u objeto del arbitraje será el determinado por las partes en el compromiso arbitral y, sólo por el acuerdo de ambas partes, podrá modificarse; no obstante, en cualquier etapa del proceso, las partes podrán determinar resueltos uno o varios puntos, quedando el resto pendiente para el laudo.
 
 El desistimiento de la instancia realizado con posterioridad a la suscripción del compromiso, requerirá del consentimiento de la parte contraria. El desistimiento de la acción extingue ésta aun sin consentimiento de la contraparte.
 
@@ -387,13 +415,19 @@ En la tramitación del proceso arbitral, la CONAMED estará obligada, invariable
 
 Son reglas generales para el proceso arbitral médico, las siguientes:
 
-1a. Cuando las partes no lleguen a un acuerdo en el sentido de someter su controversia a la resolución de la CONAMED, en estricto derecho o en conciencia, se entenderá su aceptación en el sentido de obtener propuesta de la CONAMED en amigable composición, siempre que hubieren aceptado esta vía;
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
 
-2a. En la vía de amigable composición, una vez emitida la propuesta de la CONAMED, si las partes no llegaren a resolver su controversia mediante la transacción, desistimiento de la acción o finiquito correspondientes y no optaren por la vía de estricto derecho o conciencia, se tendrá a ambas por desistidas de la instancia, de oficio, dando por concluido el expediente;
+1a. Cuando las partes no lleguen a un acuerdo en el sentido de someter su controversia a la resolución de la CONAMED, en estricto derecho o en conciencia, la CONAMED podrá pronunciarse por escrito con el fin de promover su avenencia;
 
-3a. Las propuestas de la CONAMED en amigable composición señalarán alternativas de solución, sin entrar al fondo de la controversia, ni prejuzgar sobre los derechos de las partes, atendiendo a los elementos que hubieren aportado hasta ese momento. Las propuestas serán notificadas personalmente a las partes;
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
 
-4a. Las propuestas de la CONAMED en amigable composición no constituyen medios preparatorios a juicio, ni preconstituyen prueba alguna;
+2a. Una vez emitida la propuesta de arreglo en términos del artículo 2o., fracción XVII, si las partes no llegaren a resolver su controversia mediante la transacción, desistimiento de la acción o finiquito correspondientes y no optaren por la vía de estricto derecho o conciencia, se tendrá a ambas por desistidas de la instancia, de oficio, dando por concluido el expediente;
+
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
+
+3a. Este pronunciamiento institucional señalará alternativas de solución, sin entrar al fondo de la controversia, ni prejuzgará sobre los derechos de las partes, atendiendo a los elementos que hubieren aportado hasta ese momento. Dicho pronunciamiento será notificado personalmente a las partes;
+
+4a. (DEROGADA, D.O.F. 25 DE JULIO DE 2006)
 
 5a. Todas las cuestiones litigiosas, salvo el caso de las excepciones previstas en este Reglamento, deben ser resueltas en el laudo definitivo;
 
@@ -407,9 +441,13 @@ Son reglas generales para el proceso arbitral médico, las siguientes:
 
 10a. Tanto la audiencia en la etapa conciliatoria como la de pruebas y alegatos, deberán concluir el mismo día en que se inicien; eventualmente, por causas extraordinarias o acuerdo de las partes, podrán dejarse continuadas para fecha posterior, debiendo concluir la diligencia dentro de los quince días hábiles siguientes, y
 
-11a. La CONAMED no emitirá dictámenes periciales respecto de asuntos que se hubieren conocido en proceso arbitral por amigable composición, estricto derecho o en conciencia, salvo que hubiere emitido opinión técnica. En ningún caso se entenderá el laudo como mero dictamen pericial.
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
 
-La CONAMED estará facultada para intentar la avenencia de las partes en todo tiempo, antes de dictar el laudo definitivo, cualesquiera que fueren los términos de la cláusula compromisoria o del compromiso arbitral, se entenderá invariablemente que la CONAMED podrá actuar a título de amigable componedor.
+11a. La CONAMED no emitirá dictámenes periciales respecto de asuntos que se hubieren conocido en proceso arbitral en estricto derecho o en conciencia, como tampoco en los casos en que haya pronunciamiento institucional según las reglas precedentes, salvo que hubiere emitido opinión técnica. En ningún caso se entenderá el laudo, el pronunciamiento institucional a que se refiere el artículo 2o., fracción XVII o las opiniones técnicas como meros dictámenes periciales.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
+La CONAMED estará facultada para intentar la avenencia de las partes en todo tiempo, antes de dictar el laudo definitivo.
 
 La CONAMED estará igualmente facultada para llamar al juicio a terceros, a fin de buscar solucionar la controversia. Los terceros llamados a juicio podrán someterse al arbitraje y buscar la solución a la controversia en las formas previstas en el presente Reglamento.
 
@@ -447,11 +485,13 @@ III. Cuando se trate de controversias laborales o competencia de las autoridades
 
 IV. Cuando la queja tenga por objeto la tramitación de medios preparatorios a juicio civil o mercantil o el mero perfeccionamiento u obtención de pruebas preconstituidas para el inicio de un procedimiento judicial o administrativo;
 
-V. Cuando por los mismos hechos se hubiere iniciado averiguación previa, independientemente de que se trate de la investigación de delitos que se persigan de oficio o a petición de parte;
+V. (DEROGADA, D.O.F. 25 DE JULIO DE 2006)
 
 VI. Cuando la única pretensión se refiera a sancionar al prestador del servicio médico, pues la materia arbitral médica se refiere exclusivamente a cuestiones civiles;
 
-VII. Cuando la controversia verse exclusivamente sobre el cobro de servicios derivados de la atención médica, y
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
+
+VII. Cuando la controversia verse exclusivamente sobre el monto de servicios derivados de la atención médica, y
 
 VIII. En general cuando la materia de la queja no se refiera a negativa o irregularidad en la prestación de servicios médicos.
 
@@ -491,9 +531,13 @@ En el escrito de invitación se fijará día y hora para que de manera personal 
 
 El día fijado para la diligencia explicativa, el personal designado informará al prestador del servicio médico de la naturaleza y alcances del proceso arbitral, así como de las vías existentes para la solución de la controversia; en su caso, recabará la aceptación del trámite arbitral que se entenderá como formalización de la cláusula compromisoria.
 
-Se levantará acta de esta diligencia.
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
 
-Si el prestador del servicio médico no aceptare someterse al proceso arbitral, la CONAMED le solicitará un informe médico, y en caso de atención institucional pública, social o privada, copia del expediente clínico, para su entrega dentro de los diez días hábiles siguientes. En el caso previsto en este párrafo, la CONAMED dejará a salvo los derechos del usuario para que los ejercite en la vía y forma que estime pertinente y concluirá la instancia arbitral.
+No obstante que el prestador del servicio médico no aceptare someterse al proceso arbitral, la CONAMED le solicitará un informe médico, y en caso de atención institucional pública, social o privada, copia del expediente clínico, para su entrega dentro de los diez días hábiles siguientes. La falta de entrega de esta documentación facultará a la CONAMED para emitir opinión técnica cuando lo estime necesario.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
+En el caso señalado de que el prestador del servicio no aceptare someterse al proceso arbitral, la CONAMED dejará a salvo los derechos del usuario para que los ejercite en la vía y forma que considere pertinente y concluirá la instancia arbitral. Bajo este supuesto, el informe médico y el expediente clínico en ningún caso formarán parte del expediente de queja. Su uso tendrá como finalidad evaluar la calidad de los servicios de atención médica, por lo cual cumplido su objeto, discrecionalmente, la CONAMED podrá acordar su destrucción, o devolución, en su caso. Igualmente podrá hacerlo cuando la queja concluya en la etapa conciliatoria.
 
 ###### Artículo 57.
 
@@ -505,33 +549,47 @@ Al contestar el escrito el prestador del servicio médico señalará los hechos 
 
 Cuando se trate de un establecimiento se requerirá, además, copia simple del registro diario de pacientes si se tratare exclusivamente de consulta externa y el expediente clínico en el evento de atención hospitalaria.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 59.
 
-Si el prestador del servicio no presentare su escrito contestatorio, habiendo aceptado someterse al proceso arbitral en cualquiera de sus vías, se tendrán por presuntivamente ciertos los hechos de la queja, salvo prueba en contrario.
+Si el prestador del servicio no presentare su escrito contestatorio, habiendo aceptado someterse al proceso arbitral en cualquiera de sus vías, deberá continuarse con la etapa decisoria, donde se tendrán por presuntivamente ciertos los hechos de la queja, salvo prueba en contrario.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
 
 ###### Artículo 60.
 
-Concluido el plazo fijado en el artículo 57, con escrito contestatorio o sin él se llevará a efecto la audiencia conciliatoria.
+Concluido el plazo fijado en el artículo 57, con escrito contestatorio o sin él se llevará a cabo la audiencia conciliatoria. Esta audiencia podrá diferirse hasta en dos ocasiones y, en su caso, deberá continuarse con la etapa decisoria.
 
 ###### Artículo 61.
 
 A efecto de promover la avenencia de las partes, la CONAMED procederá a realizar las diligencias que estime necesarias incluidas medidas para mejor proveer. La notificación a las partes para la audiencia conciliatoria se llevará a efecto con antelación mínima de cinco días.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 62.
 
-Abierta la audiencia, el personal arbitrador en amigable composición hará del conocimiento de las partes las formalidades de la etapa del proceso arbitral en el que se encuentran y la finalidad del mismo dando lectura al motivo de queja, a las pretensiones y al informe médico presentado; señalando los elementos comunes y los puntos de controversia, y las invitará para que se conduzcan con verdad y lleguen a un arreglo.
+Abierta la audiencia, el personal arbitrador hará del conocimiento de las partes las formalidades de la etapa del proceso arbitral en el que se encuentran y la finalidad del mismo dando lectura al motivo de queja, a las pretensiones y al informe médico presentado; señalando los elementos comunes y los puntos de controversia, y las invitará para que se conduzcan con verdad y lleguen a un arreglo.
 
-Cuando se trate de asuntos relacionados con la atención médica de menores e incapaces, la audiencia conciliatoria tendrá por objeto determinar, exclusivamente, las medidas de atención médica que, en su caso, hayan de proporcionarse a los usuarios; hecho lo anterior, se continuará el procedimiento arbitral, remitiendo el expediente a la Dirección General de Arbitraje.
+Cuando se trate de asuntos relacionados con la atención médica de menores e incapaces, la audiencia conciliatoria tendrá por objeto determinar, exclusivamente, las medidas de atención médica que, en su caso, hayan de proporcionarse a los usuarios; hecho lo anterior, se continuará el procedimiento arbitral.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
 
 ###### Artículo 63.
 
-El personal arbitrador en amigable composición podrá, en todo momento, requerir a las partes los elementos de convicción que estime necesarios para la búsqueda de la conciliación, así como para el ejercicio de las atribuciones de la CONAMED.
+El personal conciliador podrá, en todo momento, requerir a las partes los elementos de convicción que estime necesarios para la búsqueda de la conciliación, así como para el ejercicio de las atribuciones de la CONAMED.
 
-Las partes podrán aportar las pruebas que estimen pertinentes y necesarias para acreditar sus afirmaciones. Asimismo, el personal arbitrador en amigable composición, podrá diferir la audiencia de conciliación hasta por dos ocasiones cuando lo estime pertinente, o a instancia de ambas partes, debiendo en todo caso señalar día y hora para su reanudación, dentro de los quince días hábiles siguientes, salvo acuerdo en contrario de las partes.
+Las partes podrán aportar las pruebas que estimen pertinentes y necesarias para acreditar sus afirmaciones. Asimismo, el personal conciliador, podrá diferir la audiencia de conciliación hasta por dos ocasiones cuando lo estime pertinente, o a instancia de ambas partes, debiendo en todo caso señalar día y hora para su reanudación, dentro de los quince días hábiles siguientes, salvo acuerdo en contrario de las partes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JULIO DE 2006)</small>
 
 ###### Artículo 64.
 
-En caso de inasistencia injustificada de cualquiera de las partes a la audiencia conciliatoria, o cuando en esta última no llegaren a un arreglo, la Dirección General de Conciliación remitirá el expediente a la Dirección General de Arbitraje para que se emita propuesta de arreglo en amigable composición por la CONAMED, sin perjuicio de que las partes pactaren la vía en estricto derecho o en conciencia. El expediente será remitido a más tardar, dentro de los dos días hábiles siguientes de la audiencia conciliatoria o de su prórroga, si hubiere.
+En caso de inasistencia injustificada de cualquiera de las partes a la audiencia conciliatoria, correrá un plazo de cinco días hábiles para que la parte que no se hubiere presentado justifique su inasistencia. De no hacerlo, se acordará como asunto concluido remitiéndose el expediente al archivo.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
+Si la inasistencia fuera por parte del promovente, el acordarse como asunto concluido tendrá, por consecuencia, que no podrá presentar otra queja en la CONAMED por los mismos hechos.
 
 En el supuesto de quejas contra instituciones públicas de seguridad social, cuando el usuario no acuda a la audiencia de conciliación y no se presentare dentro de los cinco días siguientes a justificar fehacientemente su inasistencia, se le tendrá por desistido de la queja, acordándose como asunto concluido, remitiéndose al archivo el expediente, teniendo por consecuencia que no podrá presentar otra queja ante la CONAMED por los mismos hechos.
 
@@ -723,17 +781,23 @@ VI. Hecho lo anterior, la CONAMED determinará cerrada la instrucción citando a
 
 Las resoluciones de la CONAMED son:
 
-I.- Simples determinaciones de trámite y entonces se llamarán acuerdos;
+I. (DEROGADA, D.O.F. 25 DE JULIO DE 2006)
 
-II.- Determinaciones provisionales o definitivas que no resuelvan el fondo de la controversia y se llamarán autos, y
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2006)</small>
 
-III.- Laudos, que siempre tendrán el carácter de definitivos.
+II. Determinaciones provisionales o definitivas que no resuelvan el fondo de la controversia y se llamarán acuerdos, y
 
-Las propuestas en amigable composición nunca podrán ser tenidas por resoluciones.
+III. Laudos, que siempre tendrán el carácter de definitivos.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
+El pronunciamiento institucional en términos del artículo 2o. fracción XVII, nunca podrá ser tenido por resolución.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
 
 ###### Artículo 88.
 
-Todas las resoluciones serán autorizadas con firma entera de quienes las emitan. Los laudos serán emitidos por el Comisionado Nacional, el Subcomisionado Nacional “A”, el Director General de Arbitraje, o por el Presidente de la Sala de Arbitraje en que se desahogue el juicio arbitral.
+Todas las resoluciones serán autorizadas con firma entera de quienes las emitan. Los laudos serán emitidos por el Comisionado Nacional, el Subcomisionado Médico, el Director General de Arbitraje, o por el Presidente de la Sala de Arbitraje en que se desahogue el juicio arbitral.
 
 ###### Artículo 89.
 
@@ -815,19 +879,21 @@ Los dictámenes emitidos por la CONAMED, deberán considerarse ratificados desde
 
 La participación de la CONAMED en diligencias ministeriales o judiciales se limitará, dada la naturaleza institucional del dictamen, a rendir una ampliación por escrito al peticionario.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 100.
 
-En ningún caso la CONAMED recibirá, aunque lo soliciten a los involucrados, ni dará a ellos información alguna sobre sus dictámenes. Tampoco estará autorizada para recibir documentación de las partes, aunque éstas lo soliciten.
+En ningún caso la CONAMED recibirá a los involucrados, aunque lo soliciten, ni dará a ellos información alguna sobre sus dictámenes. Tampoco estará autorizada para recibir documentación de las partes, aunque éstas lo soliciten.
 
 ###### Artículo 101.
 
 Los signatarios de documentos relacionados con la gestión pericial de la CONAMED, se entenderán, exclusivamente como meros delegados de la CONAMED, de ninguna suerte como peritos persona física, dada la naturaleza institucional de los dictámenes.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2006)</small>
+
 ###### Artículo 102.
 
-Los dictámenes se emitirán al leal saber y entender de la Comisión Nacional de Arbitraje Médico, en ejercicio de su autonomía técnica; tendrán el único propósito de ilustrar a la autoridad peticionaria y a las partes, en cuanto a su interpretación médica interdisciplinaria de los hechos y evidencias sometidos a estudios por la autoridad peticionaria.
-
-Los dictámenes de la CONAMED no tendrán por objeto resolver la responsabilidad de ninguno de los involucrados, ni entrañan acto de autoridad o pronunciamiento que resuelva una instancia o ponga fin a un juicio, como tampoco entrañan imputación alguna; en tanto informe pericial e institucional, elaborado con la documentación que el peticionario hubiere puesto a disposición de la CONAMED, contendrá el criterio institucional, pues no se trata de la mera apreciación de perito persona física.
+Los dictámenes se emitirán al leal saber y entender de la CONAMED, en ejercicio de su autonomía técnica; tendrán el único propósito de ilustrar a la autoridad peticionaria y a las partes, en cuanto a su interpretación médica interdisciplinaria de los hechos y evidencias sometidos a estudios por la autoridad peticionaria.
 
 ## TRANSITORIOS
 
@@ -838,3 +904,11 @@ SEGUNDO.- Los asuntos en trámite arbitral se resolverán con arreglo a las clá
 TERCERO.- Se abroga el Reglamento de Procedimientos para la Atención de Quejas de la Comisión Nacional de Arbitraje Médico, expedido por su Consejo en la décima segunda sesión ordinaria, celebrada el diecisiete de marzo de mil novecientos noventa y nueve, y publicado en el Diario Oficial de la Federación el veintinueve de abril de ese mismo año.
 
 De conformidad con lo dispuesto por el artículo 8o. fracción III del Decreto por el que se crea la Comisión Nacional de Arbitraje Médico, el Consejo de la Comisión, en su vigésima cuarta sesión ordinaria, celebrada en la Ciudad de México, Distrito Federal, el siete de febrero de dos mil dos, expidió el presente Reglamento de Procedimientos para la Atención de Quejas Médicas y Gestión Pericial, instruyendo al Secretario Técnico para que se publique en el Diario Oficial de la Federación.- El Presidente del Consejo de la Comisión Nacional de Arbitraje Médico, Carlos Tena Tamayo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 25 DE JULIO DE 2006.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos en trámite arbitral se resolverán con arreglo a las cláusulas compromisorias y los compromisos arbitrales otorgados previamente por las partes. En el evento que la naturaleza del procedimiento arbitral lo permita, dado el avance de su tramitación, las partes podrán acordar que las diligencias pendientes se sujeten a lo previsto en el presente Reglamento.
