@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2004-06-16"
+last_updated: "2006-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -39,7 +39,7 @@ D E C R E T A
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-## TÍTULO SEGUNDO
+## TÍTULO PRIMERO
 
 ### CAPÍTULO ÚNICO. Disposiciones generales al régimen municipal
 
@@ -97,7 +97,7 @@ f) Que las controversias entre la administración y los particulares, se diriman
 
 g) Coadyuvar con las autoridades y organismos competentes en materia de defensa y respeto a los derechos humanos y sujetarse a las disposiciones que sobre esa materia señale esta ley.
 
-## TÍTULO PRIMERO
+## TÍTULO SEGUNDO
 
 ### CAPÍTULO I. Organización territorial y administrativa de los municipios
 
@@ -573,7 +573,7 @@ g) Promover la gestión de las actividades productivas del municipio, estimuland
 
 h) Celebrar convenios con la federación para la administración y custodia de zonas federales; e
 
-i)I ntervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
+i) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
 
 III.- En materia administrativa, económica y social:
 
@@ -643,11 +643,11 @@ x) Determinar las sanciones por infracciones o faltas a los bandos, reglamentos,
 
 y) Convocar a elecciones de las autoridades y organismos auxiliares del Ayuntamiento, estableciendo bases y requisitos que permitan la participación libre, democrática y sujeta a la ley, expidiendo los nombramientos que acrediten a las autoridades y organismos auxiliares que fueren electos;
 
-z)Sujetar a los trabajadores al régimen de seguridad social establecido en el estado y celebrar el contrato colectivo de trabajo en el orden municipal;
+z) Sujetar a los trabajadores al régimen de seguridad social establecido en el estado y celebrar el contrato colectivo de trabajo en el orden municipal;
 
 aa) Dictar las medidas administrativas procedentes para vigilar y preservar el patrimonio cultural y financiero del municipio;
 
-bb) Promover, de conformidad a la capacidad presupuestal del municipio, la adquisición de los inmuebles circundantes a sus centros de población , a efecto de integrar un área de reserva urbana destinada a la expansión y desarrollo de éstos. Lo anterior sin perjuicio de solicitar la expropiación de estos inmuebles, para cuyo efecto las circunstancias anteriores serán consideradas de utilidad pública, estándose a lo dispuesto a las leyes de la materia; y
+bb) Promover, de conformidad a la capacidad presupuestal del municipio, la adquisición de los inmuebles circundantes a sus centros de población, a efecto de integrar un área de reserva urbana destinada a la expansión y desarrollo de éstos. Lo anterior sin perjuicio de solicitar la expropiación de estos inmuebles, para cuyo efecto las circunstancias anteriores serán consideradas de utilidad pública, estándose a lo dispuesto a las leyes de la materia; y
 
 cc) En general, promover en la esfera administrativa, lo necesario para el mejor desempeño de las funciones colegiadas del Ayuntamiento que le señalan ésta u otras leyes y reglamentos; y las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, la legislación federal, la Constitución Política del Estado, las leyes que de ésta emanen y sus reglamentos, para el cumplimiento de sus funciones.
 
@@ -745,7 +745,11 @@ VII.- Promulgar las normas de carácter general y reglamentos aprobados por el A
 
 VIII.- Rendir mensualmente un informe al Ayuntamiento sobre el estado que guarda la administración municipal en sus aspectos más relevantes;
 
-IX.- Informar en los primeros diez días del mes de septiembre de cada año, en sesión solemne, al Ayuntamiento, del estado que guarda la administración municipal en todos sus aspectos y de las labores realizadas durante el año;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2006)</small>
+
+IX.- Informar por escrito dentro de los primeros diez días del mes de diciembre de cada año en sesión solemne, al Ayuntamiento, del estado que guarda la administración pública municipal en todos sus aspectos y de las labores realizadas durante el año, con la salvedad que para el último año de ejercicio constitucional, el informe se presentará en los primeros diez días del mes de septiembre.
+
+Dicho informe se publicará en la Gaceta Municipal;
 
 X.- Ejercer el presupuesto de egresos por conducto de la dependencia correspondiente y, en tal virtud, autorizar y enviar las ordenes de pago a la Tesorería Municipal que sean conforme a dicho presupuesto; asimismo ejercer el gasto de recursos provenientes de convenios de coordinación que celebre con el estado y la federación;
 
@@ -1331,17 +1335,17 @@ La sustitución de los funcionarios, en las faltas que no excedan de 30 días, s
 
 Para ser titular de las dependencias administrativas del gobierno municipal, así como de sus departamentos, oficinas y unidades, deberán cumplir además de los requisitos previstos en la Constitución Política del Estado, los siguientes:
 
-a)Ser mexicano por nacimiento y vecino del estado en pleno ejercicio de sus derechos políticos y civiles;
+a) Ser mexicano por nacimiento y vecino del estado en pleno ejercicio de sus derechos políticos y civiles;
 
-b)Acreditar experiencia y conocimiento de los asuntos municipales y su manejo;
+b) Acreditar experiencia y conocimiento de los asuntos municipales y su manejo;
 
-c)Contar con el perfil profesional o técnico adecuado para el encargo;
+c) Contar con el perfil profesional o técnico adecuado para el encargo;
 
-d)No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión;
+d) No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión;
 
-e)Tener un modo de vida honesto; y
+e) Tener un modo de vida honesto; y
 
-f)Caucionar el manejo de fondos, cuando corresponda al tipo de función a desempeñar.
+f) Caucionar el manejo de fondos, cuando corresponda al tipo de función a desempeñar.
 
 ### CAPÍTULO II. De la Secretaría del Ayuntamiento
 
@@ -2503,7 +2507,7 @@ Los municipios pueden coordinarse entre sí para solucionar y atender necesidade
 
 TÍTULO DECIMOQUINTO
 
-### CAPÍTULO ÚNICO. De la asociación y coordinación de los municipios con fines de derecho público
+### CAPÍTULO ÚNICO. De la asociación y coordinac ión de los municipios con fines de derecho público
 
 ### CAPÍTULO I
 
@@ -3112,3 +3116,9 @@ El reglamento al que hace referencia la presente ley, deberá expedirse a más t
 P.O. 16 DE JUNIO DE 2004.
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 26 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
