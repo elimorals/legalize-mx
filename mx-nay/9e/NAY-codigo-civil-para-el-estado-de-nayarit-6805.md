@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2005-04-16"
+last_updated: "2006-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -2247,7 +2247,7 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 De la adopción.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 347.
 
@@ -2441,143 +2441,301 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 De los efectos de la patria potestad respecto de los bienes del hijo.
 
+#### SECCIÓN PRIMERA. Disposiciones Generales
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+
 ###### Artículo 382.
 
-El mayor de veinticinco años, libre de matrimonio en pleno ejercicio de sus derechos, pueden (sic) adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+La adopción es el acto jurídico mediante el cual una persona denominada adoptante crea un vínculo de filiación con otra persona llamada adoptado.
 
-I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+Requiere que el adoptante sea mayor de veinticinco años. En la adopción por ambos cónyuges basta que uno de ellos haya alcanzado dicha edad. En todo caso, el adoptante habrá de tener, por lo menos, diecisiete años más que el adoptado. Acreditando debidamente además:
 
-II.- Que la adopción es benéfica para la persona que trata de adoptarse; y
+I. Estar en pleno goce de su (sic) derechos;
 
-III.- Que el adoptante es persona de buenas costumbres.
+II. Presentar certificado de idoneidad expedido por el Consejo Estatal de Adopciones;
 
-Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitado simultáneamente.
+III. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio;
 
-Con los mismos presupuestos anteriores, se instituye la adopción plena con efectos irrevocables, en los términos establecidos por este Código, a favor de menores de ocho años de edad abandonados, expósitos o los que sean entregados al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a instituciones de asistencia privada autorizadas para promover su adopción.
+IV. Que la adopción es benéfica para la persona que trata de adoptarse;
 
-El adoptado bajo la forma de adopción plena, se equipara al hijo consanguíneo para todos los efectos legales.
+V. No haber sido condenado a la pérdida de la patria potestad;
+
+VI. No tener antecedentes penales; y
+
+VII. Las que señale la legislación aplicable.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 383.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque solo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
+Únicamente podrán ser adoptados los menores no emancipados o los incapaces. Por excepción, será posible la adopción de un mayor de edad o de un menor emancipado, previo consentimiento de estos, cuando:
+
+I.- Se trate de hijo del cónyuge del adoptante; y
+
+II.- Hubiere existido una situación no interrumpida de convivencia, iniciada antes de que el adoptado hubiere cumplido catorce años.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 384.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+No puede adoptarse:
+
+I. A un descendiente;
+
+II. A un pariente en segundo grado de la línea colateral por consanguinidad o afinidad; y
+
+III. A un pupilo por su tutor hasta que haya sido aprobada definitivamente la cuenta general justificada de la tutela.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 385.
 
-El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+Nadie puede ser adoptado por más de una persona simultáneamente, salvo que los adoptantes sean cónyuges. Sin embargo, en caso de muerte del adoptante o de ambos cónyuges adoptantes, se podrá otorgar una nueva, adopción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 386.
 
-El menor o el incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+Las personas casadas sólo podrán adoptar si lo hacen conjuntamente, excepto en los siguientes casos:
+
+I. Cuando el cónyuge haya sido declarado en estado de interdicción, en cuyo caso deberá oírse al curador y al Ministerio Público; y
+
+II. Cuando se declare judicialmente la ausencia o declaración de presunción de muerte.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 387.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+Se podrá adoptar a varios menores de uno y otro sexo simultánea o sucesivamente.
 
-El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
+Si se adoptase a varios menores todas las adopciones serán del mismo tipo. La adopción del hijo del cónyuge siempre será de carácter simple.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 388.
 
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+La existencia de descendientes del adoptante no impide la adopción, pero en tal caso aquellos deberán ser oídos por el juez, además el Procurador del Menor y la Familia, el Agente del Ministerio Público del Fuero Común, así como el tutor dativo que represente al menor o mayor incapacitado susceptible de ser adoptado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 389.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+La adopción se constituye por resolución judicial, que tendrá en cuenta siempre el interés del adoptado y la idoneidad del adoptante o adoptantes para el ejercicio de la patria potestad.
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+Para iniciar el juicio de adopción es necesaria la propuesta previa del Consejo Estatal de Adopciones a favor del adoptante o adoptantes, que dicha entidad pública haya declarado idóneos para el ejercicio de la patria potestad. La declaración de idoneidad será previa a la propuesta. No obstante, no se requiere propuesta cuando en el adoptando concurra alguna de las circunstancias siguientes:
 
-II.- El tutor del que se va adoptar;
+I. Ser huérfano y pariente del adoptante en tercer grado por consanguinidad o afinidad;
 
-III.- La persona que haya acogido durante seis meses al que se pretende adoptar y lo trate como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
+II. Ser hijo del consorte del adoptante; y
 
-IV.- El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+III. Ser mayor de edad o menor emancipado.
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 390.
 
-Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta los intereses del menor o incapacitado.
+Habrán de consentir la adopción, en presencia del Juez, el adoptante o adoptantes y el adoptando mayor de doce años. Es necesario el consentimiento para adoptar en los siguientes casos:
+
+I. El cónyuge del adoptante, salvo que medie separación legal por sentencia firme o separación de hecho por mutuo acuerdo que conste fehacientemente;
+
+II. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+
+III. El tutor del que se va a adoptar;
+
+IV. La persona que haya acogido durante mas de seis meses al que se pretende adoptar y lo trate como hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
+
+V. El Ministerio Público del lugar del domicilio del adoptado cuando este no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+
+No será necesario el asentimiento cuando los que deban prestarlo se encuentren con alguna imposibilidad definitiva que se apreciará motivadamente en la resolución judicial que constituya la adopción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 391.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles.
+Si el tutor, el que ejerce la patria potestad, la persona que haya acogido por más de seis meses al que se pretenda adoptar o el ministerio público no consienten la adopción, deberán expresar la causa en que se funden, la que el juez calificara tomado en cuenta los intereses del menor o incapacitado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 392.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada
+El Juez, a petición del Ministerio Público, del adoptado o de su representante legal, acordará que el adoptante que hubiere incurrido en causa de pérdida de la patria potestad, quede excluido de las funciones de guarda, amparo y defensa de los derechos que por Ley le correspondan respecto del adoptado o sus descendientes, o en sus herencias.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+Una vez alcanzada la plena capacidad, la exclusión sólo podrá ser pedida por el adoptado, dentro de los dos años siguientes.
+
+Dejarán de producir efecto estas restricciones por determinación del propio hijo una vez alcanzada la plena capacidad.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 393.
 
-El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que se levante el acta correspondiente.
+Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
-En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que cancele los efectos del acta de nacimiento del adoptado, así como para que levante acta de nacimiento en la que figuren como padres, el o los adoptantes y como hijo el adoptado, y demás datos que se requieran conforme a este Código. Sin hacer mención sobre la adopción.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 394.
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 153.
+El juez que apruebe la adopción remitirá copias de la sentencia al Oficial del Registro Civil del lugar, para que se levante el acta correspondiente.
 
-En la adopción plena, el parentesco se extenderá a todos los ascendientes, descendientes y colaterales del o de los adoptantes; así como a los descendientes del adoptado.
+En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que cancele los efectos del acta de nacimiento del adoptado, así como para que levante el acta en la que figuren como padres, el o los adoptantes y como hijo el adoptado, y demás datos que se requieran conforme a este Código. Sin hacer mención sobre la adopción.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2006)</small>
+
+#### SECCIÓN SEGUNDA. De la adopción plena
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 395.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso, esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+La adopción plena es irrevocable y confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones del hijo biológico.
 
-En la adopción plena, los parientes naturales, ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos, pero conservando sus derechos sucesorios por naturaleza.
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 396.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+Sólo podrá otorgarse la adopción plena con respecto a los menores:
+
+I. Huérfano de padre y madre;
+
+II. Que no tengan filiación acreditada; y (sic)
+
+III. Cuando se encuentren en un establecimiento asistencial y los padres se hubieran desentendido totalmente del mismo durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo, y esta situación hubiese sido comprobada por la autoridad judicial.
+
+IV. Cuando los padres hubiesen sido privados de la patria potestad; y
+
+V. Cuando los padres del menor hubiesen manifestado judicialmente su expresa voluntad de entregarlo en adopción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 397.
 
-La adopción puede revocarse:
+El adoptado tendrá derecho a conocer su realidad biológica y podrá acceder al expediente de adopción a partir de los dieciocho años de edad.
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 389, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público;
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2006)</small>
 
-II.- Por ingratitud del adoptado.
+#### SECCIÓN TERCERA. Adopción simple
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 398.
 
-Para los efectos de la fracción II del Artículo anterior, se considera ingrato al adoptado:
+La adopción simple confiere al adoptado la posición del hijo biológico, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
 
-I.- Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
+Los hijos adoptivos de un mismo adoptante serán considerados hermanos entre sí.
 
-II.- Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 399.
 
-En el primer caso del artículo 397, el juez decretará que la adopción queda revocada si, convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+El juez, cuando sea más conveniente para el menor o a petición de parte por motivos fundados, podrá otorgar la adopción simple.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 400.
 
-El decreto del Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+Los derechos y deberes que resulten del vínculo biológico del adoptado no quedan extinguidos por la adopción simple con excepción de la patria potestad, inclusive la administración y usufructo de los bienes del menor se transfieren al adoptante, salvo cuando se adopta al hijo del cónyuge.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 401.
 
-En el segundo caso del artículo 397, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+Es revocable la adopción simple.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+I. Cuando las partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere se oirá a las personas que prestaron su consentimiento conforme al artículo 390, cuando fueren de domicilio conocido, y a falta de ellas al ministerio público.
+
+II. Por haber incurrido el adoptado o el adoptante en ingratitud;
+
+III. Por petición justificada del adoptado mayor de edad.
+
+La revocación extingue desde su declaración judicial y para lo futuro todos los efectos de la adopción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### Artículo 402.
 
-Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado o el adoptante:
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptado o el adoptante, de su cónyuge, de sus ascendientes o descendientes;
+
+II. Si formula denuncia o querella en contra del adoptado o el adoptante, por algún delito aunque se pruebe, ha no ser que se hubiere cometido contra quien denuncia, su cónyuge, sus ascendientes o descendientes;
+
+III. Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
 
 ###### Artículo 402 Bis.
 
-Las disposiciones de este Capítulo, serán aplicables a la adopción plena, en cuanto no se opongan a su naturaleza jurídica.
+(DEROGADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 A.- Después de la adopción simple es admisible la revocación solicitada por sus padres biológicos si la adopción no se hubiere dado por una causa imputable a los mismos, y siempre que se ejercite dentro de (sic) año siguiente al otorgamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 B.- La resolución del juez que deja sin efecto la adopción, restituye las cosas al estado que guardaban antes de efectuarse ésta. Tales resoluciones deberán ser comunicadas al Oficial del Registro Civil del lugar en que se hizo para que cancele el acta de adopción.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE JULIO DE 2006)</small>
+
+#### SECCIÓN CUARTA. Adopción Internacional
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 C.- Se entiende por adopción internacional los casos en los cuales los solicitantes son de nacionalidad extranjera y residen en el exterior, o siendo de nacionalidad mexicana, tienen domicilio o residencia habitual fuera del país y el sujeto de la adopción es de nacionalidad mexicana, radicado en el país.
+
+De igual forma se considerará, para la acreditación de la idoneidad preadoptiva, respecto de nacionales que pretendan adoptar en otro país.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 D.- La adopción internacional es una medida excepcional que procede en atención al interés superior del menor, siempre y cuando se hayan agotado todos los medios para proporcionarle un hogar sustituto en territorio nacional.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 E.- Los extranjeros que deseen adoptar un menor, se sujetarán a esta Sección, y a lo establecido en Declaraciones, Convenios, Convenciones y otros instrumentos internacionales que rigen la materia y hayan sido ratificados por el Estado Mexicano.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 F.- Los extranjeros y mexicanos radicados en el exterior que deseen adoptar, presentarán su solicitud de adopción a través de representantes de los organismos públicos responsables del cuidado de los menores, quienes elevarán la solicitud al Juez.
+
+Bajo ningún concepto el Juez podrá aceptar solicitudes presentadas por extranjeros o mexicanos radicados en el exterior en forma directa, al margen de lo establecido por la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 G.- En los procesos de adopción que sigan ciudadanos extranjeros o mexicanos residentes en el exterior, es obligatorio que estén presentes, desde la primera audiencia señalada por el Juez, hasta la fecha de la sentencia.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 H.- Se establecen los siguientes requisitos:
+
+I. Acta de matrimonio que acredite su celebración antes del nacimiento del adoptado;
+
+II. Acta de nacimiento de los cónyuges que acrediten tener más de veinticinco años de edad y diecisiete años mayores que el adoptado;
+
+III. Tener un máximo de cincuenta años de edad;
+
+IV. Certificados médicos que acrediten que los adoptantes gozan de buena salud física y mental. En caso de duda, el Juez podrá disponer su homologación por profesionales nacionales;
+
+V. Certificado otorgado por autoridad competente del país de origen que acredite solvencia económica;
+
+VI. Informe psicosocial elaborado en el país de residencia;
+
+VII. Certificado de haber recibido preparación para padres adoptivos;
+
+VIII. Acrediten su legal estancia en el país;
+
+IX. No tener antecedentes penales, lo que se acreditará mediante certificados del país del solicitante;
+
+X. Certificado de idoneidad otorgado por las autoridades competentes del país de residencia de los solicitantes; y,
+
+XI. Autorización para el trámite de ingreso del adoptado al país de residencia de los solicitantes.
+
+Todos los documentos otorgados en el exterior serán autenticados y traducidos al español y estarán debidamente legalizados.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 I.- Los menores adoptados por extranjeros mantienen su nacionalidad, sin perjuicio de que adquieran la de los adoptantes.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+Artículo 402 J.- Los extranjeros residentes en México, con una permanencia menor de dos años, se regirán por las disposiciones de la adopción de la adopción internacional y los extranjeros residentes en el país con una permanencia mayor, se sujetarán a las disposiciones que rigen la adopción nacional.
 
 ## TITULO OCTAVO
 
@@ -15666,3 +15824,13 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 16 DE ABRIL DE 2005.
 
 Único.- El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 26 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento del Consejo Estatal de Adopciones deberá ser emitido por el titular del Poder Ejecutivo, dentro de los 30 días siguientes a la fecha de la publicación del presente Decreto.
