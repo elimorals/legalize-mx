@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2001-12-22"
+last_updated: "2006-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -413,7 +413,9 @@ De encontrarse infundada la excusa, aplicará las sanciones que correspondan
 
 ## TITULO TERCERO. ACTOS PROCESALES
 
-### CAPITULO I. PRESENTACION DE DOCUMENTOS
+### CAPITULO I
+
+PRESENTACION DE DOCUMENTOS.
 
 ###### ARTICULO 46.
 
@@ -3499,31 +3501,49 @@ La suspensión y la calificación de las excusas para ejercer la patria potestad
 
 ### CAPITULO XII. ADOPCION
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 509.
 
-El que pretenda adoptar, deberá acreditar haber tenido a su cuidado al menor o incapacitado, bajo la vigilancia de la Procuraduría de la Defensa del Menor y la Familia, quien deberá manifestar la conveniencia de la adopción; además de los requisitos señalados por el artículo 382 del Código Civil.
+La adopción se ajustará a lo establecido por los Códigos Sustantivo y Adjetivo Civil, así como las leyes que se dicten en la materia.
+
+Corresponde al Sistema para el Desarrollo Integral de la Familia por conducto del Consejo Estatal de Adopciones, el procedimiento previo a la adopción.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 510.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 389 y 390 del Código Civil, se resolverá dentro del tercer día lo que proceda sobre la adopción.
+El que pretenda adoptar deberá acreditar los requisitos señalados por el Código Civil, y además observar lo siguiente:
+
+I. En la promoción inicial se deberá manifestar si se trata de adopción nacional o internacional;
+
+II. Mencionar el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretenda adoptar, el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya recibido;
+
+III. Acompañar el certificado de idoneidad si lo requiriere conforme a la ley; (sic)
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 511.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 399 del Código Civil.
+En el auto admisorio que le recaiga a la solicitud inicial de adopción, el Juez señalará fecha para la audiencia de desahogo de pruebas, dándose la intervención que corresponda al Agente del Ministerio Público adscrito y a la Procuraduría de la Defensa del Menor y la Familia, debiéndose designar Tutor Dativo al menor, o mayor sujeto a interdicción susceptible de la adopción.
 
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 389 del Código Civil, cuando fuere conocido su domicilio o en su caso, se oirá al Ministerio Público y al Consejo de Tutelas.
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior pueden rendirse toda clase de pruebas permitidas por la Ley.
+ARTICULO 511 A.- Rendidas las constancias, desahogadas las pruebas y obtenido el consentimiento de las personas que deban darlo, conforme al Código Civil, el Juez resolverá, lo que proceda sobre la adopción.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+
+ARTICULO 511 B.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena (sic), o la revocación, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente.
+
+Si el adoptado es menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento si se conoce su domicilio, al Consejo Estatal de Adopciones y al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 511 Bis.
 
-En caso de que quien ejerza la patria potestad sobre un menor, pretenda entregarlo al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o una institución de asistencia privada autorizada, para que sea dado en adopción, deberá comparecer ante el Juez de lo Familiar acreditando su parentesco.
+En caso de que quien ejerza la patria potestad sobre un menor, pretenda entregarlo al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a una institución de asistencia privada autorizada, para que sea dado en adopción, deberá comparecer ante el Juez para acreditar su parentesco.
 
-Recibida la solicitud, el Juez acordará la celebración de una audiencia, en donde se recibirá el consentimiento de la persona interesada, se escuchará al Ministerio Público y al Procurador de la Defensa del Menor y la Familia y si el representante legal de la Institución lo acepta, se decretará la pérdida de la patria potestad y se nombrará tutor al propio representante legal, quien deberá promover la adopción plena del menor.
+Recibida la solicitud, el Juez acordará la celebración de una audiencia, en donde se recibirá el consentimiento de la persona interesada, se escuchará al Ministerio Público, al Procurador de la Defensa del Menor y la Familia y si el representante legal de la Institución lo acepta, se decretará la pérdida de la patria potestad y se nombrará tutor al propio representante legal. El Consejo Estatal de Adopciones deberá promover la adopción plena del menor.
 
 ### CAPITULO XIII. NULIDAD DEL MATRIMONIO
 
@@ -4764,3 +4784,13 @@ P.O. 22 DE DICIEMBRE DE 2001
 PRIMERO.- Se derogan todas aquellas disposiciones legales que contravengan el contenido de este Decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno de Nayarit.
+
+P.O. 26 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Reglamento del Consejo Estatal de Adopciones deberá ser emitido por el titular del Poder Ejecutivo dentro de los 30 días siguientes a la fecha de la publicación del presente Decreto.
