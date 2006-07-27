@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2006-07-14"
+last_updated: "2006-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007, HUEVO SIN CASCARON (SECAS, LIQUIDAS O CONGELADAS) Y YEMAS DE HUEVO (SECAS, LIQUIDAS O CONGELADAS) APTAS PARA CONSUMO HUMANO Y OVOALBUMINA (APTA PARA CONSUMO HUMANO), ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007, JUGO DE NARANJA CONCENTRADO CONGELADO CON GRADO DE CONCENTRACION MAYOR A 20° BRIX, ORIGINARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de julio de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de julio de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
@@ -31,15 +31,15 @@ CONSIDERANDO
 
 Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que aprobó el Senado de la República el 23 de abril de 1998 y el decreto de promulgación fue publicado el 31 de agosto de 1998 en el Diario Oficial de la Federación;
 
-Que el 23 y 24 de febrero de 2000, se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea que aprobó el Senado de la República el 20 de marzo de 2000 y el decreto de promulgación fue publicado con fecha de 26 de junio de 2000 en el Diario Oficial de la Federación;
+Que el 23 y 24 de febrero de 2000 se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea que aprobó el Senado de la República el 20 de marzo de 2000 y el decreto de promulgación fue publicado con fecha de 26 de junio de 2000 en el Diario Oficial de la Federación;
 
 Que el artículo 8 categoría 7 de la citada Decisión establece que la Comunidad Europea otorgará cupos arancelarios con aranceles aduaneros reducidos sobre importaciones a la Comunidad de ciertos productos agrícolas originarios de los Estados Unidos Mexicanos y que dichos cupos serán administrados por nuestro país;
 
 Que el procedimiento de asignación de los cupos que se tratan en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007, HUEVO SIN CASCARON (SECAS, LIQUIDAS O CONGELADAS) Y YEMAS DE HUEVO (SECAS, LIQUIDAS O CONGELADAS) APTAS PARA CONSUMO HUMANO Y OVOALBUMINA (APTA PARA CONSUMO HUMANO), ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007, JUGO DE NARANJA CONCENTRADO CONGELADO CON GRADO DE CONCENTRACION MAYOR A 20° BRIX, ORIGINARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -201,53 +201,101 @@ Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establ
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007: huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos, con el arancel-cupo preferencial establecido en el Anexo I (Calendario de Desgravación de la Comunidad), Sección A, Cupos arancelarios para los productos listados en la categoría “6” de acuerdo con el artículo 8 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, son los que se determinan a continuación:
+El cupo para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007: jugo de naranja concentrado congelado con grado de concentración mayor a 20° Brix, originario de los Estados Unidos Mexicanos, con el arancel-cupo preferencial establecido en el Anexo I (Calendario de Desgravación de la Comunidad), Sección A, Cupos arancelarios para los productos listados en la categoría “6” de acuerdo con el artículo 8 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas exportadoras de productos originarios e incrementar la utilización de los aranceles-cupo establecidos al amparo de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, durante el periodo julio de 2006 al 30 de junio de 2007, o en el que se señale para un cupo en particular, se aplicará a los cupos de exportación a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
+De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas exportadoras de productos originarios e incrementar la utilización de los aranceles-cupo establecidos al amparo de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, durante el periodo comprendido entre julio de 2006 al 30 de junio de 2007, se aplicará al cupo de exportación a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de estos cupos, las personas que se mencionan a continuación conforme a los siguientes criterios:
+Podrán solicitar asignación de este cupo, las personas que se mencionan a continuación conforme a los siguientes criterios:
 
-I. Del cupo para los productos descritos en el numeral 1, las personas físicas o morales, industriales y comercializadoras de alguno de los productos objeto del cupo, establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía, conforme los siguientes criterios:
+I. Del cupo para el producto descrito en el numeral 1, las personas físicas o morales productoras de jugo de naranja o sus representantes, establecidas en los Estados Unidos Mexicanos. La asignación la otorgará la Secretaría de Economía hasta agotar el cupo, conforme a los siguientes criterios:
 
-1. 97% del cupo, para personas físicas o morales, industriales y comercializadores tradicionales que cuenten con antecedentes de venta de alguno de los productos objeto del cupo, y
+a) Exportadores tradicionales:
 
-2. 3% del cupo, para personas físicas o morales, industriales y comercializadores que no tengan antecedentes de venta de estos productos en el mercado.
+28,500 toneladas métricas del cupo se asignarán entre las personas con antecedentes de exportación de este producto a la Comunidad Europea. La asignación será igual al monto menor entre la cantidad solicitada y la cantidad que resulte de aplicar la siguiente fórmula:
 
-La asignación será otorgada por la Dirección General de Comercio Exterior conforme a cifras calculadas por la Unión Nacional de Avicultores, y avaladas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+(VEASE ARCHIVO ANEXO)
 
-Si a partir del 28 de febrero de 2007 existe saldo del cupo, destinado a cualquiera de los dos tipos de beneficiarios, éste se asignará a quien lo solicite en una cantidad igual a lo que resulte menor entre la cifra avalada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el saldo del cupo;
+QUE = Cuota Unión Europea para una empresa determinada
 
-II. Del cupo para los productos descritos en el numeral 2, las empresas industriales y comercializadoras de este producto establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía bajo los siguientes criterios:
+XUE Empresa = Exportaciones promedio a la Unión Europea de una empresa determinada durante los cuatro periodos anteriores al año de la asignación.
 
-1. 97% del cupo, a personas físicas o morales, que cuenten con antecedentes de venta de este producto, y
+XUE Total Industria = Exportaciones promedio a la Unión Europea de la industria juguera nacional mexicana durante los cuatro periodos anteriores al año de la asignación.
 
-2. 3% del cupo, para personas físicas o morales, que no cuenten con antecedentes de venta de este producto.
+C = 28,500 toneladas métricas
 
-La asignación se otorgará por la Secretaría de Economía, conforme cifras avaladas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+Para la aplicación de esta fórmula se considerarán las exportaciones definitivas realizadas a la Comunidad Europea, durante el periodo comprendido entre el 1 de julio de 2002 al 30 de junio de 2006, con base en las cifras de la Administración General de Aduanas de la Secretaría de Hacienda y Crédito Público.
 
-Si a partir del 28 de febrero de 2007 existe saldo del cupo, destinado a cualquiera de los dos tipos de beneficiarios, éste se asignará a quien lo solicite en una cantidad igual a lo que resulte menor entre la cifra avalada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el saldo del cupo.
+b) Exportadores nuevos:
+
+1,500 toneladas métricas del cupo se asignarán entre las personas sin antecedentes de exportación con cupo y la asignación será igual al monto menor entre el 10% del monto destinado para nuevos exportadores y la cantidad solicitada.
+
+Las solicitudes para realizar esta primera asignación deberán presentarse durante el periodo comprendido entre el 1 de julio al 15 de septiembre de 2006.
+
+II. Reasignaciones
+
+a) Si al primer día hábil de octubre de 2006 existe saldo del cupo.
+
+Exportadores tradicionales:
+
+Al saldo del cupo que exista, se asignará entre las personas con antecedentes de exportación de este producto a la Comunidad Europea. La asignación se realizará conforme a lo que soliciten cuando el saldo alcance para satisfacer las necesidades de todas las empresas o lo que resulte menor entre la cantidad solicitada y lo que le corresponda de prorratear el saldo entre los solicitantes cuando éste no alcance para satisfacer las necesidades de todas.
+
+Exportadores nuevos:
+
+Al saldo que exista del cupo se asignará entre las personas sin antecedentes de exportación con cupo de este producto a la Comunidad Europea. La asignación se realizará conforme a lo que resulte menor entre la cantidad solicitada y el saldo del cupo.
+
+Las solicitudes para realizar esta segunda asignación deberán presentarse durante la última semana de septiembre de 2006.
+
+b) Si al primer día hábil de diciembre de 2006 existe saldo del cupo.
+
+Exportadores tradicionales:
+
+Al saldo de cupo que exista, se asignará entre las personas con antecedentes de exportación de este producto a la Comunidad Europea.
+
+La asignación se realizará conforme a lo que soliciten cuando el saldo alcance para satisfacer las necesidades de todas las empresas o lo que resulte menor entre la cantidad solicitada y lo que le corresponda de prorratear el saldo entre los solicitantes cuando éste no alcance para satisfacer las necesidades de todas.
+
+Exportadores nuevos:
+
+Al saldo que exista del cupo se asignará entre las personas sin antecedentes de exportación con cupo de este producto a la Comunidad Europea. La asignación se realizará conforme a lo que resulte menor entre la cantidad solicitada y el saldo del cupo.
+
+Las solicitudes para realizar esta tercera asignación deberán presentarse durante la última semana de noviembre de 2006.
+
+c) Si al primer día hábil de marzo de 2007 existe saldo del cupo.
+
+Exportadores tradicionales y Exportadores nuevos:
+
+Al saldo que exista del cupo se asignará entre las personas con y sin antecedentes de exportación con cupo de este producto a la Comunidad Europea.
+
+La asignación se realizará conforme a lo que soliciten cuando el saldo alcance para satisfacer las necesidades de todas las empresas o lo que resulte menor entre la cantidad solicitada y lo que le corresponda de prorratear el saldo entre los solicitantes cuando éste no alcance para satisfacer las necesidades de todas.
+
+Las solicitudes para realizar esta cuarta asignación deberán presentarse durante la última semana de febrero de 2007.
+
+d) Si al primer día hábil de mayo de 2007 existe saldo del cupo.
+
+Exportadores tradicionales y Exportadores nuevos:
+
+Al saldo que exista del cupo se asignará entre las personas con y sin antecedentes de exportación con cupo de este producto a la Comunidad Europea. La asignación se realizará a quien lo solicite, considerando el mecanismo de asignación “primero en tiempo, primero en derecho”.
+
+Las solicitudes para realizar esta quinta asignación deberán presentarse durante la última semana de abril de 2007.
 
 ###### ARTICULO CUARTO.
 
-Las solicitudes de asignación del cupo a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de esta Secretaría que le corresponda. Las hojas de requisitos específicos se establecen como anexos al presente Acuerdo.
+Las solicitudes de asignación del cupo a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de esta Secretaría que le corresponda. La hoja de requisitos específicos se establece como anexo al presente Acuerdo.
 
 Previo a la presentación de dicha solicitud se deberá realizar el trámite SE-03-038, utilizando el formato SE-03-026, presentando el cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado. Una vez autorizado dicho cuestionario la Secretaría proporcionará el formato de certificado de circulación EUR.1.
 
 ###### ARTICULO QUINTO.
 
-Una vez asignado el monto de la mercancía que podrá ser internada a los países de la Comunidad Europea, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando el certificado de circulación EUR.1 a que hace referencia el artículo anterior, debidamente requisitado, para su validación, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
+Una vez asignado el monto de la mercancía que podrá ser internada a los países de la Comunidad Europea, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando el certificado de circulación EUR.1 a que hace referencia el artículo anterior, para su validación, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
 ###### ARTICULO SEXTO.
 
-Para los productos de los numerales 1 y 2 la vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será hasta el 30 de junio de 2007.
-
-El beneficiario de cupo deberá informar el uso del certificado de cupo a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, que se expidan será hasta el 30 de junio de 2007. El beneficiario de cupo deberá informar el uso del certificado de cupo a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
 
 El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea. El certificado de cupo es el documento que avalará que la empresa es beneficiaria del cupo.
 
@@ -263,7 +311,7 @@ b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (ob
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 7 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 19 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
 ANEXO
 
@@ -271,20 +319,16 @@ SECRETARIA DE ECONOMIA
 
 DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DE CUPO DE EXPORTACION A LA COMUNIDAD EUROPEA DE JULIO DE 2006 AL 30 DE JUNIO DE 2007
+HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DEL CUPO DE EXPORTACION A LA COMUNIDAD EUROPEA DE JULIO DE 2006 AL 30 DE JUNIO DE 2007 DEL PRODUCTO:
 
-DE LOS SIGUIENTES PRODUCTOS:
+JUGO DE NARANJA CONCENTRADO CONGELADO CON GRADO DE CONCENTRACION MAYOR A 20° BRIX (CON UNA DENSIDAD QUE EXCEDA 1.083 GR/CM3 A 20°C)
 
-HUEVO SIN CASCARON Y YEMAS DE HUEVO (SECAS, LIQUIDAS O CONGELADAS) APTAS PARA CONSUMO HUMANO
+Fracción arancelaria europea: 2009.11.99
 
-Fracciones arancelarias europeas: 0408.11.80; 0408.19.81; 0408.19.89; 0408.91.80; 0408.99.80
+ASIGNACION DIRECTA
 
-OVOALBUMINA (APTA PARA CONSUMO HUMANO)
-
-Fracciones arancelarias europeas: 3502.11.90; 3502.19.90
-
-“Asignación Directa”
+1/1
 
 (VEASE ARCHIVO ANEXO)
 
-Nota: En caso de no utilizar algún certificado de cupo, deberá regresarlo a la oficina que lo expidió, mediante escrito.
+Nota: En caso de no utilizar algún certificado de cupo, deberá regresarlo a la oficina que lo expidió mediante escrito.
