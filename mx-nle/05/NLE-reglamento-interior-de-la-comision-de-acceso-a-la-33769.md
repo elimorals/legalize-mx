@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-comision-de-acceso-a-la-33769"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-22"
-last_updated: "2003-08-22"
+last_updated: "2006-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA DE NUEVO LEON, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de agosto de 2003.
 
@@ -414,3 +416,15 @@ El Pleno, en la primera sesión del mes de septiembre del año en curso, designa
 Publíquese por una sola vez en el Periódico Oficial del Estado.
 
 Así lo acordaron los integrantes de la Comisión de Acceso a la Información Pública, C. Comisionado Presidente Lic. Luis Manuel Garza Villarreal; C. Comisionado Vocal Lic. José Daniel Ruiz Sepúlveda y C. Comisionado Vocal Ing. Alberto Sada Martínez.- rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JULIO DE 2006.
+
+Artículo Primero: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: La entrada en vigor del presente Reglamento abroga el Reglamento de fecha 20 de agosto del 2003, publicado en el Periódico Oficial del Estado del día 22 de Agosto del 2003.
+
+Artículo Tercero: La Secretaría Ejecutiva y todas las Direcciones deberán presentar a consideración del Pleno para su aprobación, su manual para el funcionamiento de su área dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Reglamento.
+
+Artículo Cuarto: Publíquese por una sola vez en el Periódico Oficial del Estado.
