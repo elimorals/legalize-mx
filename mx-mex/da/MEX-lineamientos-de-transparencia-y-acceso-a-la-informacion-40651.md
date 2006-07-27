@@ -4,7 +4,7 @@ identifier: "MEX-lineamientos-de-transparencia-y-acceso-a-la-informacion-40651"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2004-07-30"
-last_updated: "2004-07-30"
+last_updated: "2006-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LINEAMIENTOS DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA Y POLITICO ELECTORAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2006.
 
 Lineamientos publicados en la Gaceta del Gobierno del Estado de México, el viernes 30 de julio de 2004.
 
@@ -137,6 +137,8 @@ LINEAMIENTOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y POLÍTICO EL
 
 Los presentes Lineamientos tienen por objeto regular los procedimientos y criterios institucionales para la organización, catalogación y conservación de la documentación e información en posesión del Instituto Electoral del Estado de México, con la finalidad de que toda persona tenga acceso a la misma, en cumplimiento a lo establecido en el Artículo 5 de la Constitución Política del Estado Libre y Soberano de México y la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 2.
 
 Para efectos de los presentes Lineamientos se entenderá por:
@@ -159,59 +161,73 @@ VIII. Dirección General: a la Dirección General del Instituto Electoral del Es
 
 IX. Secretaría General: a la Secretaría General del Instituto Electoral del Estado de México;
 
-X. Comisiones: a las Comisiones Permanentes, Temporales y Especiales del Consejo General;
+X. Coordinación de Transparencia: a la Coordinación de Transparencia y Acceso a la Información constituida en el Instituto atendiendo al artículo 80 de la ley de Transparencia y Acceso a la Información Pública del Estado de México;
 
-XI. Unidades Administrativas: al Consejo General, la Junta General, la Dirección General, la Secretaría General, la Dirección de Organización, la Dirección de Capacitación, la Dirección de Partidos Políticos, la Dirección de Administración, la Dirección del Servicio Electoral Profesional, la Unidad de Asesoría Jurídica y Consultiva, la Unidad de Información y Estadística, la Contraloría Interna, y el Centro de Información Electoral;
+XI. Comisiones: a las Comisiones Permanentes, Temporales y Especiales del Consejo General;
 
-XII. Órganos Centrales: al Consejo General, la Junta General y la Dirección General;
+XII. Unidades Administrativas: al Consejo General, la Junta General, la Dirección General, la Secretaria General, la Dirección de Organización, la Dirección de Capacitación, la Dirección de Partidos Políticos, la Dirección de Administración, la Dirección del Servicio Electoral Profesional, la Unidad de Asesoría Jurídica y Consultiva, la Unidad de Información y Estadística, la Contraloría Interna, y el Centro de Información Electoral;
 
-XIII. Órganos Desconcentrados: a las Juntas y Consejos Distritales y Municipales Electorales;
+XIII. Órganos Centrales: al Consejo General, la Junta General y la Dirección General;
 
-XIV. Comité: al Comité de Información del Instituto Electoral del Estado de México;
+XIV. Órganos Desconcentrados: a las Juntas y Consejos Distritales y Municipales Electorales;
 
-XV. Unidad: a la Unidad de Información del Instituto Electoral del Estado de México;
+XV. Comité: al Comité de Información del Instituto Electoral del Estado de México;
 
-XVI. Partidos Políticos: a los institutos políticos que en términos de los artículos 12 de la Constitución Política del Estado Libre y Soberano de México y 33 del Código Electoral del Estado de México, se encuentran legal mente acreditados ante el Consejo General.
+XVI. Unidad: a la Unidad de Información del Instituto Electoral del Estado de México;
 
-XVII. Servidor Electoral: La persona física que desempeñe un empleo, cargo o comisión en los órganos centrales y desconcentrados del Instituto;
+XVII Partidos Políticos: a los institutos políticos que en términos de los artículos 12 de la Constitución Política del Estado Libre y Soberano de México y 33 del Código Electoral del Estado de México, se encuentran legalmente acreditados ante el Consejo General;
 
-XVIII. Datos personales: la información concerniente a una persona física, identificada o identificable que no sea susceptible de ser publicada, proporcionada o comercializada por autoridad alguna sin consentimiento expreso de la persona a quien se refiera, salvo que medie mandamiento de autoridad judicial;
+XVIII. Servidor Electoral: a la persona física que desempeñe un empleo, cargo o comisión en los órganos centrales y desconcentrados del Instituto;
 
-XIX. Información pública: a la información que debe ser difundida y puede ser de acceso público, conforme lo previsto en el artículo 5 de la Constitución Política del Estado Libre y Soberano de México y la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
+XIX. Servidor electoral habilitado: a la persona física que presta sus servicios en el Instituto, designado por el Presidente del Comité, a propuesta formulada por la Unidad de Información y encargado de apoyarla en el ejercicio de sus atribuciones desde su propia unidad administrativa.
 
-XX. Información clasificada: a la que sea considerada como reservada o confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
+XX. Datos personales: la información concerniente a una persona física, identificada o identificable que no sea susceptible de ser publicada, proporcionada o comercializada por autoridad alguna sin consentimiento expreso de la persona a quien se refiera, salvo que medie mandamiento de autoridad judicial;
 
-XXI. Información reservada: a la información clasificada con ese carácter de conformidad con lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México; y
+XXI. Información pública: a la información que debe ser difundida y puede ser de acceso público, conforme lo previsto en el artículo 5 de la Constitución Política del Estado Libre y Soberano de México y la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
 
-XXII. Información confidencial: a la información clasificada con ese carácter de conformidad con lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+XXII. Información clasificada: a la que sea considerada como reservada o confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
+
+XXIII. Información reservada: a la información clasificada con ese carácter de conformidad con lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México; y
+
+XXIV. Información confidencial: a la información clasificada con ese carácter de conformidad con lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 3.
 
-Los presentes Lineamientos serán de observancia general de todos los servidores electorales y de los órganos centrales y desconcentrados que conforman el Instituto.
+Los presentes lineamientos serán de observancia general y de aplicación y cumplimiento estricto para todos los servidores electorales de los órganos centrales y desconcentrados que conforman el Instituto.
 
 ###### Artículo 4.
 
 El Instituto en las actividades, políticas y programa de acceso de la información, velará porque se apliquen los criterios de publicidad, veracidad, oportunidad, precisión y suficiencia.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 5.
 
-El acceso a la información pública y político-electoral que obre en poder del Instituto será permanente y gratuito.
+El acceso a la información pública y político-electoral que obre en poder del Instituto será permanente y gratuito, salvo aquellos casos en que el solicitante requiera la reproducción de la misma en medios impresos o electrónicos, en cuyo caso, la Unidad determinará el costo de los materiales empleados para ello, mismos que deberán ser cubiertos por el solicitante previamente a la entrega de los mismos.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 6.
 
-El derecho a la información pública y político electoral propiedad del Instituto Electoral del Estado de México sólo podrán ejercerlo los mexicanos.
+El derecho a la información pública propiedad del Instituto Electoral del Estado de México sólo podrán ejercerlo los mexicanos, atento a lo que al efecto dispone el artículo 4 de la Ley.
 
 ###### Artículo 7.
 
 Para efectos de los presentes lineamientos, el cómputo de los plazos que en ellos se prevén, se harán tomando en cuenta los días hábiles, entendiéndose por tales de lunes a viernes, los no laborables en términos de ley y aquellos en los que el Instituto determine suspensión de labores de manera oficial. Los plazos se computarán de momento a momento y si están señalados por días, estos se contabilizarán de veinticuatro horas.
 
-Durante los procesos electorales todos los días y horas son hábiles.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
+Los plazos se computarán en términos de días calendario y dentro de la jornada laboral del Instituto.
 
 ### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 8.
 
-Se entenderá por información la contenida en los instrumentos, documentos, y demás elementos, incluso los de carácter técnico, con que cuente el Instituto, ya sea que se generen dentro del mismo, los reciba, adquiera, transforme o conserve por cualquier concepto.
+Se entenderá por información pública toda aquélla que se encuentre contenida en los instrumentos, documentos, y demás elementos de almacenamiento y expresión de información, incluso los de carácter informático, con que cuente el Instituto, ya sea que se generen dentro del mismo, los reciba, adquiera, transforme o conserve por cualquier concepto, en ejercicio de sus atribuciones.
 
 ###### Artículo 9.
 
@@ -277,31 +293,91 @@ Toda la información que obre en poder del Instituto será pública y sólo podr
 
 I. Los procedimientos de revisión que realice la Comisión de Fiscalización anualmente y en período de campaña, sobre el origen y aplicación de los recursos derivados del financiamiento que reciban los partidos políticos, obtenidos por cualquier modalidad, en los que no haya concluido el procedimiento de fiscalización respectivo, así como las solicitudes de investigación que se presenten por posibles irregularidades;
 
-II. Los procedimientos de carácter administrativo sancionador electoral, que se deriven de la sustanciación e informe en términos del artículo 356 del Código, hasta en tanto no se apruebe el Dictamen por el Consejo General del Instituto;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
+
+II. Los procedimientos relacionados con las quejas en materia de propaganda que realice la Comisión de Radiodifusión y Propaganda en periodo de precampaña y campaña, en los que no haya concluido el procedimiento respectivo, así como las solicitudes de investigación que se presenten por posibles irregularidades en la materia de su competencia;
 
 III. Los informes de los partidos políticos, así como cualquier documentación que sirva como elemento para la elaboración de dictámenes que presenten a cualquiera de las Comisiones del Instituto, en los cuales no haya concluido el procedimiento administrativo correspondiente;
 
-IV. Las investigaciones y procedimientos de responsabilidad de los servidores electorales, hasta en tanto no se haya dictado la resolución administrativa correspondiente; y,
+IV. Las investigaciones y procedimientos de responsabilidad de los servidores electorales, hasta en tanto no se haya dictado la resolución administrativa correspondiente; y (sic),
 
-V. Los datos o puntos de las actas de las sesiones o reuniones de trabajo que contemplen los supuestos de las fracciones anteriores.
+V. Los datos o puntos de las actas de las sesiones o reuniones de trabajo que contemplen los supuestos de las fracciones anteriores;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+VI. Los recursos de inconformidad presentados ante la Contraloría Interna, para resolver las inconformidades que presenten los proveedores y/o prestadores de servicios por actos relacionados con licitaciones públicas, invitaciones restringidas y adjudicaciones directas, en términos de lo establecido en la normatividad del Instituto; en los que no haya concluido el procedimiento respectivo;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+VII. En general todo procedimiento o medio de impugnación que se encuentre en proceso de sustanciación por cualquier órgano del Instituto, en tanto no se emita la resolución administrativa correspondiente; y
+
+VIII. (sic)
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+IX. Los datos y actuaciones relacionados con los procesos de entrega-recepción de unidades administrativas u órganos desconcentrados del Instituto; procesos de inventarios y resguardos de bienes muebles, que estén asignados a servidores electorales para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+X. Los informes anuales por actividades de precampaña, campaña e informes de auditoría de los partidos políticos, cuando no se encuentre concluido el procedimiento respectivo;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+XI. Las demás que determine el Comité de Información, mediante acuerdo debidamente fundado y motivado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 11.
 
-Será información confidencial aquella que:
+Será información confidencial por mandato derivado del artículo 25 de la Ley, aquélla que:
 
 I. Contenga datos personales y que al ser divulgada afecte la privacidad de las personas;
 
-II. Por disposición legal sea considerada como confidencial; y,
+II. Por disposición legal sea considerada como confidencial; y (sic),
 
-III. La que se entregue a los sujetos obligados bajo promesa de secresía.
+III. La que se entregue a los sujetos obligados bajo promesa de secresía;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+IV. Esté relacionada con el catálogo de artículos y precios que elabore el Instituto;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+V. Se refiera a planos arquitectónicos y de instalaciones correspondientes a las sedes de unidades administrativas y órganos desconcentrados del Instituto;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+VI. Sea inherente a la cartografía electoral;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+VII. Se relacione con medidas de seguridad de la documentación electoral;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+VIII. Se relacione con cuestionarios, exámenes, respuestas y evaluaciones aplicadas a aspirantes para el ingreso al Servicio Electoral Profesional, así como la base de datos de calificaciones, exámenes psicométricos, conocimiento y habilidades evidenciadas y resultados de entrevistas a dichos aspirantes;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+IX. La correspondiente a la declaración de la situación patrimonial de servidores electorales;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+X. La relacionada con expedientes y documentación de registro de candidatos durante el periodo de registro y de proceso electoral, solicitada por persona distinta del dirigente del partido político o coalición, que solicitó el registro; y
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2006)</small>
+
+XI. Aquellos casos particulares que determine el Comité de Información, mediante acuerdo debidamente fundado y motivado.
 
 ###### Artículo 12.
 
 La información que contenga datos personales debe sistematizarse en archivos elaborados con fines lícitos. No deberá registrarse, ni se obligará a las personas a proporcionar datos que puedan originar discriminación, en particular información sobre el origen racial o étnico, preferencia sexual, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 13.
 
-Los archivos con datos personales deberán ser actualizados de manera permanente y ser utilizados exclusivamente para los fines para los que fueron creados. La finalidad de un archivo y su utilización en función de ésta, deberá especificarse y justificarse. Su creación deberá ser objeto de una medida de publicidad que permita el conocimiento de la persona interesada, a fin de que ésta ulteriormente pueda asegurarse de que:
+Los archivos con datos personales deberán ser actualizados de manera permanente y ser utilizados exclusivamente para los fines para los que fueron creados. La finalidad de un archivo y su utilización en función de ésta, deberá especificarse, motivarse y fundarse en acuerdo expreso del Comité. Su creación deberá ser objeto de una medida de publicidad que permita el conocimiento de la persona interesada, a fin de que ésta ulteriormente pueda asegurarse de que:
 
 I. Los datos personales reunidos y registrados son pertinentes a la finalidad;
 
@@ -359,41 +435,69 @@ Los titulares de las Unidades Administrativas deberán conservar en buen estado 
 
 El Instituto, para efecto de garantizar y tutelar a los mexicanos el ejercicio del derecho de acceso a la información pública y político electoral que esta bajo su responsabilidad y proteger los documentos personales que tenga en posesión contarán con los siguientes órganos de gobierno:
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 a) El Consejo General;
 
-b) La Junta General;
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
-c) El Comité de Información;
+b) La Coordinación de Transparencia;
 
-d) La Unidad de Información; y
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
-e) Los sujetos habilitados.
+c) El Comité;
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
+d) La Unidad; y
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
+e) Los servidores electorales habilitados.
 
 ###### Artículo 20.
 
 El Consejo como órgano Superior de Dirección del Instituto, vigilará permanentemente el cumplimiento de la Ley y de los presentes lineamientos y tendrá entre otras atribuciones las siguientes:
 
-a) Designar a los integrantes del Comité de Información, expidiendo los nombramientos correspondientes.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
-b) Recibir y resolver los diferentes recursos de revisión que le remita la Junta General.
+a) Ratificar a los integrantes del Comité de Información, en términos del artículo 29 de la Ley, expidiendo los nombramientos correspondientes;
 
-c) Solicitar al Comité de Información los informes correspondientes.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
-d) Conocer y aprobar el informe anual que rinda el Comité de Información por su representado al Instituto de Transparencia y Acceso a la Información Pública del Estado de México.
+b) Solicitar al Comité de Información los informes correspondientes;
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
+c) Conocer y aprobar el informe anual que rinda el Presidente del Comité de Información al Instituto de Transparencia y Acceso a la Información Pública del Estado de México.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 21.
 
-La Junta será considerada como el Organo de Gobierno y tendrá la función de sustanciar el procedimiento administrativo de revisión previsto en los presentes Lineamientos, hasta emitir el proyecto de resolución correspondiente, mismo que deberá turnar al Consejo General para en su caso, su aprobación definitiva.
+La Coordinación de Transparencia, es el órgano superior de vigilancia y resolución en la materia.
+
+Se integrará por tres miembros del Consejo General, designados por éste para ejercer la función por dos años y será presidida por quien ellos designen, teniendo como funciones esenciales, además de las que le indiquen la Ley y los presentes Lineamientos, la vigilancia en cuanto a la aplicación estricta de la Ley en la materia, así como la resolución de los recursos de revisión que se interpongan.
+
+La Coordinación de Transparencia será el órgano de gobierno en la materia y el órgano de ejecución el Comité de Información.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 22.
 
-El Comité de Información será considerado como un órgano de gobierno integrado para resolver respecto de la información que deberá clasificar y sistematizar, así como atender y resolver los requerimientos de la unidad de información y del Instituto de Transparencia. Será integrado por:
+El Comité de Información será considerado como un órgano de gobierno integrado para resolver respecto de la información, que deberá clasificar y sistematizar y actualizar, así como atender y resolver los requerimientos de la Unidad de Información y las relaciones con el Instituto de Transparencia. Será integrado por:
 
-I. El Director General, quien lo presidirá;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
 
-II. El Contralor Interno;
+I. El Consejero Presidente del Instituto, quien lo presidirá; en caso de ausencia de éste, el Presidente de la Coordinación de Transparencia;
 
-III. El Secretario General.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
+
+II. El titular de la Unidad de Información; y
+
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
+
+III. El titular de la Contraloría Interna.
 
 Todos los integrantes del Comité poseerán derecho a voz y voto y adoptarán sus decisiones por mayoría de votos. El Presidente del Comité tendrá voto de calidad en caso de empate.
 
@@ -415,7 +519,9 @@ V. Aprobar la propuesta del programa de sistematización y actualización de la 
 
 VI. Enviar los datos necesarios para la elaboración del informe anual del Instituto de Transparencia y Acceso a la Información Pública del Estado de México, en los términos en que éste los solicite, previa aprobación del Consejo General;
 
-VII. Rendir dentro de los primeros 20 días del mes de enero, por conducto de la Secretaría General, un informe anual al Consejo, de las acciones realizadas con relación al cumplimiento de la Ley y los presentes Lineamientos; el cual deberá contener al menos:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
+
+VII. Rendir en el mes de enero, por conducto de la Unidad, un informe anual al Consejo, de las acciones realizadas con relación al cumplimiento de la Ley y los presentes Lineamientos, el cual deberá contener al menos:
 
 a) El número de solicitudes de acceso a la información presentadas, así como su resultado;
 
@@ -429,13 +535,15 @@ e) Las actividades desarrolladas por el Comité, en relación con los Acuerdos q
 
 f) La relación de aquellos expedientes que se tengan clasificados como temporalmente reservados;
 
-VIII. Resolver las solicitudes de información presentadas por extranjeros; y
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
 
-IX. Las demás que establezcan la Ley, los acuerdos del Consejo General y los presentes Lineamientos.
+VIII. Las más que establezcan la Ley, los acuerdos del Consejo General y los presentes Lineamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 24.
 
-La Unidad de Información será el órgano competente del Instituto de publicar la información y tramitar las solicitudes de información que se presenten y tendrá la responsabilidad de verificar en cada caso que la misma no sea confidencial o reservada.
+La Unidad de Información será el órgano competente del Instituto, responsable de publicar la información y tramitar las solicitudes de información que se presenten, con la responsabilidad, entre otras, de verificar en cada caso que la misma no sea confidencial o reservada.
 
 La Unidad de Información no podrá proporcionar a particulares los nombres de los solicitantes y el contenido de la información que se genera como resultado del procedimiento para el acceso a la información pública y corrección de datos personales.
 
@@ -447,7 +555,9 @@ La Unidad de Información tendrá las siguientes atribuciones:
 
 I. Recabar, difundir y actualizar la información pública de oficio a la que se refieren la Ley y estos Lineamientos;
 
-II. Entregar, en el caso que proceda, la información solicitada por los particulares;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
+
+II. Elaborar un catálogo de información o de expedientes clasificados, que será del conocimiento público;
 
 III. Auxiliar a los particulares en la elaboración de las solicitudes, y en su caso, orientarlos sobre el lugar donde les pueden proporcionar la información que solicitan;
 
@@ -471,15 +581,17 @@ XII. Las demás que disponga la ley, los presentes Lineamientos y los acuerdos d
 
 ###### Artículo 26.
 
-La Unidad deberá elaborar un catálogo de información o de expedientes clasificados, que será del conocimiento público.
+(DEROGADO, G.G. 27 DE JULIO DE 2006)
 
 ###### Artículo 27.
 
-Se considera como servidor electoral habilitado a la persona física que presta sus servicios en el Instituto, encargada de apoyar a la Unidad de Información en el ejercicio de sus atribuciones.
+(DEROGADO, G.G. 27 DE JULIO DE 2006)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 28.
 
-Los servidores electorales habilitados serán designados por el Consejo General, a propuesta del Secretario General y tendrán las siguientes atribuciones:
+Los servidores electorales habilitados tendrán las siguientes atribuciones:
 
 I. Localizar la información que le solicite la Unidad;
 
@@ -507,13 +619,17 @@ La información del Instituto que no se encuentre clasificada como reservada o c
 
 El Instituto sólo proporcionará la información pública o político-electoral que se le requiera y que obre en sus archivos. No estará obligado a procesarla, resumirla, efectuar cálculos o practicar investigaciones.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 31.
 
-Sólo los mexicanos, podrán ejercer el derecho de acceso a la información pública y político-electoral que posea el Instituto. Para el caso de que la solicitud la presentara un extranjero, la solicitud deberá ser analizada previamente por el Comité, el cual resolverá lo conducente.
+Para el caso de que una solicitud de información sea presentada por un extranjero, la solicitud deberá ser analizada previamente por el Comité al tenor de lo que disponen el artículo 6 de los presentes Lineamientos y el artículo 4 de la Ley, el cual resolverá lo conducente.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 32.
 
-El Comité tendrá acceso en cualquier momento a la información clasificada como reservada o confidencial y sólo tendrán acceso los miembros del Comité y los servidores electorales que el mismo determine.
+El Comité tendrá acceso en cualquier momento a la información clasificada como reservada o confidencial, así como los servidores electorales que el mismo determine.
 
 ###### Artículo 33.
 
@@ -549,17 +665,23 @@ V. Opcionalmente, el modo en que el solicitante prefiera que le sea entregada la
 
 No se dará curso a las solicitudes que carezcan de los requisitos establecidos en la fracción I de este artículo.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 37.
 
-Toda persona por sí misma, o por su representante legal, podrá presentar por escrito una solicitud de acceso a la información ante la Unidad, o en su caso, la Oficialía de Partes del Instituto, la cual deberá registrarla y remitirla de forma inmediata a la Unidad. La Unidad y la Oficialía de Partes deberán auxiliar a los particulares en la elaboración de las solicitudes de acceso a la información, especialmente en los casos en que el solicitante no hable español, no sepa leer o escribir, o no tenga conocimiento claro de la información que requiere.
+Toda persona por si misma, o por su representante legal, podrá presentar por escrito una solicitud de acceso a la información ante el titular de la Unidad. El titular de la Unidad deberá auxiliar a los particulares en la elaboración de las solicitudes de acceso a la información, especialmente en los casos en que el solicitante no hable español, no sepa leer o escribir, o no tenga conocimiento claro de la información que requiere.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 38.
 
-Si los detalles proporcionados por el solicitante no bastan para localizar la información, o son erróneos, la Unidad podrá requerir por una vez, y dentro de los tres días hábiles posteriores a la recepción de la solicitud de que se trate, que se indiquen otros elementos o que se corrijan los datos. Este requerimiento interrumpirá el plazo para dar respuesta a la solicitud de acceso a la información, en caso de que el solicitante no atienda el requerimiento, se tendrá por no presentada su petición.
+Si los detalles proporcionados por el solicitante no bastan para localizar la información, o son erróneos, el titular de la Unidad podrá requerir por una vez, y dentro de los cinco días hábiles posteriores a la recepción de la solicitud de que se trate, que se indiquen otros elementos o que se corrijan los datos.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 39.
 
-Si la solicitud es presentada ante una unidad administrativa diferente a la Oficialía de Partes o la Unidad, aquella tendrá la obligación de remitirla a la Unidad dentro del día hábil siguiente, informándole al solicitante la ubicación de la Unidad y el plazo para dar respuesta a su petición de acceso a la información, mismo que se computará desde el momento en que la Unidad reciba la petición.
+Si la solicitud es presentada ante una unidad administrativa diferente a la Unidad, aquélla tendrá la obligación de remitirla a esta dentro del día hábil siguiente, informándole al solicitante la ubicación de la Unidad y el plazo para dar respuesta a su petición de acceso a la información, mismo que se computará desde el momento en que la Unidad reciba la petición.
 
 ###### Artículo 40.
 
@@ -585,9 +707,11 @@ Cuando la información se encuentre públicamente disponible en medios impresos,
 
 Cuando la información solicitada no sea competencia del Instituto, lo hará del conocimiento del particular por escrito.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 43.
 
-La respuesta a la solicitud de acceso a la información deberá ser notificada al interesado en el menor tiempo posible, que no podrá ser mayor a diez días hábiles, contados desde su presentación. Excepcionalmente, el plazo de respuesta podrá ampliarse hasta por un período igual cuando existan razones debidamente justificadas que lo motiven, siempre y cuando éstas se le notifiquen al solicitante. Además, se precisará en su caso, la modalidad en que será entregada la información, atendiendo en la mayor medida posible, al requerimiento del interesado y el plazo en que la documentación se recopile y pueda estar disponible.
+La respuesta a la solicitud de acceso a la información deberá ser notificada al interesado en el menor tiempo posible, que no podrá ser mayor a diez días hábiles, contados desde su presentación. Excepcionalmente, el plazo de respuesta podrá ampliarse hasta por siete días cuando existan razones debidamente justificadas que lo motiven, siempre y cuando éstas se le notifiquen al solicitante. Además, se precisará en su caso, la modalidad en que será entregada la información, atendiendo en la mayor medida posible, al requerimiento del interesado y el plazo en que la documentación se recopile y pueda estar disponible.
 
 ###### Artículo 44.
 
@@ -597,17 +721,15 @@ Las solicitudes de acceso a la información y las respuestas correspondientes, i
 
 ###### Artículo 45.
 
-La obligación de acceso a la información pública se tendrá por cumplida cuando el solicitante tenga a su disposición copias simples, certificadas o en cualquier otro medio en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se localice.
-
-Cuando la información solicitada ya esté disponible para consulta, se le hará saber por escrito al solicitante el lugar donde puede consultarla y las formas para reproducirla o adquirirla.
-
-Una vez entregada la información, el solicitante acusará recibo por escrito, dándose por terminado el trámite de acceso a la información.
+(DEROGADO, G.G. 27 DE JULIO DE 2006)
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA EL ACCESO Y CORRECCIÓN DE DATOS PERSONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 46.
 
-La Unidad de Información o la Oficialía de Partes deberá recibir y dar curso a las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación o supresión total o parcial de sus datos personales.
+La Unidad deberá recibir y dar curso a las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación o supresión total o parcial de sus datos personales.
 
 Se exceptúan de esta disposición las modificaciones que estén reguladas por otros ordenamientos.
 
@@ -641,27 +763,33 @@ Los trámites que se realicen para el procedimiento previsto en este capítulo, 
 
 La Unidad de Información deberá hacer del conocimiento del Comité, las bases de datos personales que posean e informarle sobre su actualización.
 
-### CAPÍTULO SÉPTIMO. DE LA FALTA DE RESPUESTA Y EL PROCEDIMIENTO DE IMPUGNACIÓN CORRESPONDIENTE
+> <small>(REFORMADA SU DENOMINACION, G.G. 27 DE JULIO DE 2006)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA FALTA DE RESPUESTA O RESPUESTA NEGATIVA Y EL PROCEDIMIENTO DE IMPUGNACIÓN CORRESPONDIENTE
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 52.
 
-La falta de respuesta a una solicitud de acceso a la información, en el plazo señalado en el artículo 43 de los presentes Lineamientos, se entenderá resuelta en sentido positivo, por lo que el Instituto quedará obligado a dar el acceso a la información en un período no mayor a diez días hábiles, salvo que el Instituto tenga clasificada la información como reservada o confidencial.
+La falta de respuesta a una solicitud de información en los plazos indicados en los presentes Lineamientos otorga el derecho al solicitante para interponer el correspondiente recurso de revisión en los términos del artículo 54 y siguientes de los presentes Lineamientos.
 
-Para efectos del supuesto anterior, los particulares presentarán copia de la solicitud en la que conste la fecha de su petición, o en su defecto, podrán solicitar a la Unidad la constancia de que no se les dio respuesta.
-
-Una vez agotado este trámite, la Unidad contará con tres días hábiles para remitir al Comité la copia de la solicitud y un informe en que se señale si respondió en tiempo y forma al particular, para que resuelva lo conducente.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 53.
 
-En las respuestas desfavorables a las solicitudes de acceso a la información pública, la Unidad deberá informar a los interesados el derecho y plazo que tienen para promover el procedimiento administrativo de revisión.
+En las respuestas desfavorables a las solicitudes de acceso a la información pública, la Unidad deberá informar a los interesados el derecho y plazo que tienen para promover el recurso de revisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 54.
 
-Procederá la interposición del procedimiento administrativo de revisión, cuando:
+Procederá la interposición del recurso de revisión, cuando:
 
 I. Se niegue la información solicitada;
 
-II. Se entregue la información incompleta o no corresponda a la solicitada;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
+
+II. No se entregue la información solicitada en los plazos que señalan los presentes Lineamientos;
 
 III. Se declare la inexistencia del documento donde conste la información solicitada;
 
@@ -669,17 +797,21 @@ IV. Se estime que el Instituto no cumplió adecuadamente con la obligación de o
 
 V. Se niegue modificar, corregir o resguardar la confidencialidad de los datos personales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 55.
 
-Toda persona podrá interponer, por sí misma o a través de su representante legal, el procedimiento administrativo de revisión ante la Unidad, dentro de los quince días hábiles siguientes contados a partir de:
+Toda persona podrá interponer, por sí misma o a través de su representante legal, el recurso de revisión ante la Unidad, dentro de los quince días hábiles siguientes contados a partir de:
 
 I. La fecha en que tuvo conocimiento del acto o resolución impugnado; o
 
 II. La notificación de la respuesta a su solicitud de acceso a la información pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 56.
 
-El escrito del procedimiento administrativo de revisión, deberá contener:
+El escrito del recurso de revisión, deberá contener:
 
 I. Nombre y firma autógrafa del recurrente o huella digital, y en su caso, el nombre de la persona o personas que autorice para recibir notificaciones;
 
@@ -695,19 +827,27 @@ VI. Razones o motivos de la inconformidad y los puntos petitorios;
 
 VII. Copia de la resolución que se impugna y en su caso, de la notificación correspondiente.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 57.
 
-Recibido el escrito correspondiente, la unidad deberá remitirlo en un plazo de tres días hábiles a la Secretaría General, la cual podrá subsanar las deficiencias del recurso interpuesto. La información reservada o confidencial que en su caso, deba ser utilizada para la resolución del recurso, deberá mantenerse con ese carácter y no podrá, de ninguna manera, obrar en el expediente correspondiente.
+Recibido el escrito correspondiente, la Unidad deberá remitirlo en un plazo de un día hábil a la Coordinación de Transparencia, la cual podrá subsanar las deficiencias del recurso interpuesto. La información reservada o confidencial que en su caso, deba ser utilizada para la resolución del recurso, deberá mantenerse con ese carácter y no podrá, de ninguna manera, obrar en el expediente correspondiente.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 58.
 
-La Secretaría General elaborará el proyecto de resolución al recurso y lo remitirá a la Junta General, la cual resolverá el procedimiento administrativo de revisión en un plazo de treinta días hábil es siguientes a la f echa de interposición del mismo; una vez resuelto, deberá enviarse la resolución que corresponda a la Unidad, quien deberá cumplimentarla en un plazo de diez días hábiles.
+La Coordinación de Transparencia, a través de su presidente, en un término no mayor de tres días hábiles turnará el recurso de revisión al Consejero que deba elaborar la ponencia de resolución del recurso.
 
-Las resoluciones dictadas por la Junta General a los recursos de revisión, no admitirán medio de defensa ordinario alguno.
+La Coordinación de Transparencia, resolverá el recurso de revisión en un plazo de treinta días hábiles siguientes a la fecha de interposición del mismo; una vez resuelto, deberá enviarse la resolución que corresponda a la Unidad, quien deberá cumplimentarla en un plazo de diez días hábiles.
+
+Las resoluciones dictadas por la Coordinación de Transparencia a los recursos de revisión, no admitirán medio de defensa ordinario alguno.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 59.
 
-Los efectos de las resoluciones recaídas al procedimiento administrativo de revisión previsto en el presente capítulo tendrá como efectos:
+Los efectos de las resoluciones recaídas al recurso de revisión previsto en el presente capítulo tendrá como efectos:
 
 I. Desechar el recurso por improcedente, o bien, sobreseerlo;
 
@@ -715,17 +855,21 @@ II. Confirmar el acto o resolución impugnado; o
 
 III. Revocar o modificar el acto o resolución impugnado y ordenar lo procedente.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2006)</small>
+
 ###### Artículo 60.
 
-Las resoluciones a los procedimientos administrativos de revisión deberán ser públicas; establecerán los plazos para su cumplimiento y los procedimientos para asegurar su ejecución.
+Las resoluciones que se emitan en los recursos de revisión deberán ser públicas; establecerán los plazos para su cumplimiento y los procedimientos para asegurar su ejecución.
 
-Si la Junta General no resuelve en el plazo establecido en el artículo 52 de los presentes Lineamientos, el acto o resolución que se recurrió se modificará teniendo por revocado sólo lo que cause agravio al actor, y en su caso, por confirmado aquello que le beneficie.
+Si la Coordinación de Transparencia no resuelve en el plazo establecido en el artículo 52 de los presentes Lineamientos, el acto o resolución que se recurrió se modificará teniendo por revocado sólo lo que cause agravio al actor, y en su caso, por confirmado aquello que le beneficie.
 
-Cuando la Junta General determine durante la sustanciación del procedimiento administrativo de revisión, que algún servidor electoral pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento de la Contraloría Interna para que inicie, el procedimiento de responsabilidad que corresponda.
+Cuando la Coordinación de Transparencia determine durante la sustanciación del recurso de revisión, que algún servidor electoral pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento de la Contraloría Interna para que inicie, el procedimiento de responsabilidad que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
 ###### Artículo 61.
 
-Serán causas de improcedencia y por tanto, de desechamiento del procedimiento administrativo de revisión, las siguientes:
+Serán causas de improcedencia y por tanto, de desechamiento del recurso de revisión, las siguientes:
 
 I. Cuando sea presentado fuera del plazo establecido para ello;
 
@@ -735,15 +879,19 @@ III. Se recurra una resolución que no haya sido emitida por la Unidad;
 
 IV. Se esté tramitando algún recurso o medio de defensa interpuesto por el recurrente ante algún órgano jurisdiccional, relacionado con el acto que se impugna.
 
-###### Articulo 62.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE JULIO DE 2006)</small>
 
-El procedimiento administrativo de revisión deberá ser sobreseído cuando:
+###### Artículo 62.
+
+El recurso de revisión deberá ser sobreseído cuando:
 
 I. El recurrente se desista por escrito del recurso;
 
 II. El recurrente fallezca o, tratándose de personas morales, éstas se disuelvan;
 
-III. Admitido el procedimiento administrativo de revisión, aparezca alguna causal de improcedencia, de las previstas en el artículo anterior; y
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2006)</small>
+
+III. Admitido el recurso de revisión, aparezca alguna causal de improcedencia, de las previstas en el artículo anterior; y
 
 IV. El medio de impugnación quede sin efecto o materia.
 
@@ -776,3 +924,11 @@ EL SECRETARIO DEL CONSEJO GENERAL
 LIC. EMMANUEL VILLICAÑA ESTRADA
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 27 DE JULIO DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial Gaceta del Gobierno del Estado de México.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
