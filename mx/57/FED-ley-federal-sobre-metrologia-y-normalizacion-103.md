@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "1999-05-19"
+last_updated: "2006-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-30"
 
 LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JULIO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -45,7 +45,9 @@ LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
 La presente Ley regirá en toda la República y sus disposiciones son de orden público e interés social. Su aplicación y vigilancia corresponde al Ejecutivo Federal, por conducto de las dependencias de la administración pública federal que tengan competencia en las materias reguladas en este ordenamiento.
 
-Siempre que en esta Ley se haga mención a la "Secretaría", se entenderá hecha a la Secretaría de Comercio y Fomento Industrial.
+> <small>(REFORMADO, D.O.F. 28 DE JULIO DE 2006)</small>
+
+Siempre que en esta Ley se haga mención a la Secretaría, se entenderá hecha a la Secretaría de Economía.
 
 ###### ARTICULO 2o.
 
@@ -371,9 +373,11 @@ El Centro Nacional de Metrología estará integrado por un Consejo Directivo, un
 
 Además se constituirán los órganos de vigilancia que correspondan conforme a la Ley Federal de las Entidades Paraestatales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JULIO DE 2006)</small>
+
 ###### ARTICULO 32.
 
-El Consejo Directivo del Centro Nacional de Metrología se integrará con el Secretario de Comercio y Fomento Industrial, quien lo presidirá; los subsecretarios cuyas atribuciones se relacionen con la materia, de las Secretarías de Hacienda y Crédito Público; Energía, Minas e Industria Paraestatal; Educación Pública; Comunicaciones y Transportes; un representante de la Universidad Nacional Autónoma de México; un representante del Instituto Politécnico Nacional; el Director General del Consejo Nacional de Ciencia y Tecnología; sendos representantes de la Confederación Nacional de Cámaras Industriales; de la Cámara Nacional de la Industria de Transformación y de la Confederación Nacional de Cámaras de Comercio y el Director General de Normas de la Secretaría. Por cada miembro propietario se designará un suplente.
+El Consejo Directivo del Centro Nacional de Metrología se integrará con el Secretario de Economía, quien lo presidirá; los subsecretarios cuyas atribuciones se relacionen con la materia, de las Secretaría de Hacienda y Crédito Público; Energía; Educación Pública; Comunicaciones y Transportes; un representante de la Universidad Nacional Autónoma de México; un representante del Instituto Politécnico Nacional; el Director General del Consejo Nacional de Ciencia y Tecnología; sendos representantes de la Confederación Nacional de Cámaras Industriales; de la Cámara Nacional de la Industria de Transformación y de la Confederación Nacional de Cámaras de Comercio y el Director General de Normas de la Secretaría. Por cada miembro propietario se designará un suplente.
 
 A propuesta de cualquiera de los miembros del Consejo Directivo podrá invitarse a participar en las sesiones a representantes de las instituciones de docencia e investigación de alto nivel y de otras organizaciones de industriales.
 
@@ -437,7 +441,9 @@ El patrimonio del Centro Nacional de Metrología se integrará con:
 
 I. Los bienes que le aporte el Gobierno Federal;
 
-II. Los recursos que anualmente le asigne el Gobierno Federal dentro del presupuesto aprobado a la Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, D.O.F. 28 DE JULIO DE 2006)</small>
+
+II. Los recursos que anualmente le asigne el Gobierno Federal dentro del presupuesto aprobado a la Secretaría de Economía;
 
 III. Los ingresos que perciba por los servicios que proporcione y los que resulten del aprovechamiento de sus bienes; y
 
@@ -809,9 +815,9 @@ Se instituye la Comisión Nacional de Normalización con el fin de coadyuvar en 
 
 Integrarán la Comisión Nacional de Normalización:
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 28 DE JULIO DE 2006)</small>
 
-I. Los subsecretarios correspondientes de las Secretarías de Desarrollo Social; Medio Ambiente, Recursos Naturales y Pesca; Energía; Comercio y Fomento Industrial; Agricultura, Ganadería y Desarrollo Rural; Comunicaciones y Transportes; Salud; Trabajo y Previsión Social, y Turismo;
+I. Los subsecretarios correspondientes de las Secretarías de Desarrollo Social; Medio Ambiente y Recursos Naturales; Energía; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Comunicaciones y Transportes; Salud; Trabajo y Previsión Social, y Turismo;
 
 II. Sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior; de las cámaras y asociaciones de industriales y comerciales del país que determinen las dependencias; organismos nacionales de normalización y organismos del sector social productivo; y
 
@@ -1698,3 +1704,7 @@ DÉCIMO. Las infracciones cometidas con anterioridad a la entrada en vigor del p
 D.O.F. 19 DE MAYO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE JULIO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
