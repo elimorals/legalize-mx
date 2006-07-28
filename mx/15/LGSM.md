@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1996-12-24"
+last_updated: "2006-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JULIO DE 2006.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -616,11 +616,9 @@ Para proceder a la constitución de una sociedad anónima, se requiere:
 
 I.- Que haya dos socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADA, D.O.F. 28 DE JULIO DE 2006)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1992)</small>
-
-II.- Que el capital social no sea menor de cincuenta millones de pesos y que esté íntegramente suscrito;
+II. Que el capital social no sea menor de cincuenta mil pesos y que esté íntegramente suscrito;
 
 III.- Que se exhiba en dinero efectivo, cuando menos, el veinte por ciento del valor de cada acción pagadera en numerario, y
 
@@ -1760,9 +1758,9 @@ Las sociedades extranjeras legalmente constituídas tienen personalidad jurídic
 
 Las sociedades extranjeras sólo podrán ejercer el comercio desde su inscripción en el Registro.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JULIO DE 2006)</small>
 
-La inscripción sólo se efectuará previa autorización de la Secretaría de Comercio y Fomento Industrial, en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera.
+La inscripción sólo se efectuará previa autorización de la Secretaría de Economía, en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera.
 
 Las sociedades extranjeras estarán obligadas a publicar anualmente un balance general de la negociación visado por un Contador Público titulado.
 
@@ -1945,3 +1943,7 @@ D.O.F. 24 DE DICIEMBRE DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación...
+
+D.O.F. 28 DE JULIO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
