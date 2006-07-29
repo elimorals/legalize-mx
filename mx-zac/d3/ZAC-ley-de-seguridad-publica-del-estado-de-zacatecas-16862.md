@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-publica-del-estado-de-zacatecas-16862"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-28"
-last_updated: "2000-06-28"
+last_updated: "2006-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 28 de junio del 2000.
 
@@ -369,7 +369,9 @@ II. El Procurador;
 
 III. Los Presidentes Municipales de los cinco municipios más poblados del Estado;
 
-IV. El Secretario de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2006)</small>
+
+IV. El Secretario de Finanzas;
 
 V. Los Representantes en el Estado de las siguientes dependencias federales:
 
@@ -381,7 +383,11 @@ c) Procuraduría General de la República; y
 
 d) Policía Federal Preventiva.
 
-VI. El Secretario Ejecutivo del Consejo de Seguridad Pública del Estado que será designado por el Gobernador.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2006)</small>
+
+VI. El Presidente de la Comisión de Seguridad Pública o su equivalente, de la Legislatura del Estado;
+
+VII. El Secretario Ejecutivo del Consejo de Seguridad Pública del Estado que será designado por el Gobernador.
 
 Lo anterior conforme a la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
@@ -798,3 +804,11 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JULIO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Estatal de Seguridad Pública deberá llevar a cabo las modificaciones necesarias en sus normas internas, a efecto de armonizarlas con el contenido de este Decreto.
