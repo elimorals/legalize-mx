@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interno-de-la-comision-estatal-para-la-atencion-4730
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-11"
-last_updated: "2005-11-11"
+last_updated: "2006-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1927 +21,525 @@ state: "PUE"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA ATENCION DEL MIGRANTE POBLANO
 
-LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
+REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA ATENCION DEL MIGRANTE POBLANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
+Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de noviembre de 2005.
 
-EL CIUDADANO INGENIERO RENATO VEGA ALVARADO, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+DECRETO del Ejecutivo del Estado, por el que expide el REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN DEL MIGRANTE POBLANO.
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Gobierno del Estado de Puebla.
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Cuarta Legislatura, ha tenido a bien expedir el siguiente,
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado; y
 
-DECRETO NUMERO 66
+CONSIDERANDO.
 
-LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
+Que en mérito de lo expuesto y en uso de las facultades conferidas por los artículos 79 fracciones IV, XV y XXIII y 81 de la Constitución Política del Estado Libre y Soberano de Puebla; y 1o., 6o., 18 y 22 de la Ley Orgánica de la Administración Pública del Estado, he tenido a bien expedir el siguiente:
 
-## TITULO PRIMERO
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN DEL MIGRANTE POBLANO
 
-### CAPITULO I. DISPOSICIONES PRELIMINARES
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1o.
+### CAPÍTULO ÚNICO
 
-La presente Ley tiene por objeto establecer las bases para la ordenación y regulación del tránsito de vehículos, conductores, pasajeros y peatones que hagan uso de las vías públicas del Estado de Sinaloa; así como estatuir las bases para la regulación del servicio público de transporte en la Entidad.
+###### ARTÍCULO 1.
 
-###### ARTICULO 2o.
+El presente Reglamento Interno tiene por objeto establecer los lineamientos conforme a los cuales se regulará el funcionamiento y operación de la Comisión Estatal para la Atención del Migrante Poblano, de sus unidades administrativas y de los servidores públicos que la integran.
 
-Las disposiciones de esta Ley son de orden público, interés social y observancia general en todo el Estado.
+###### ARTÍCULO 2.
 
-###### ARTICULO 3o.
+Para los efectos de este Reglamento Interno se entenderá por:
 
-La aplicación de la presente Ley y su Reglamento corresponde al Ejecutivo del Estado a través de la Dependencia competente que señale el Reglamento Orgánico de la Administración Pública, así como a las demás áreas administrativas que ésta determine en su respectivo ámbito de competencia.
+I.- Reglamento.- Reglamento Interno de la Comisión Estatal para la Atención del Migrante Poblano;
 
-###### ARTICULO 4o.
+II.- Programa.- Programa Estatal para la Atención del Migrante Poblano;
 
-La entidad competente dependiente del Poder Ejecutivo del Estado de Sinaloa que señala el Artículo anterior, es el órgano administrativo encargado de planear, coordinar, autorizar, ejecutar y evaluar en los términos de la legislación respectiva, las acciones necesarias en materia de infraestructura carretera, tránsito, transportes y vialidad del Estado.
+III.- Comisión.- Comisión Estatal para la Atención del Migrante Poblano;
 
-La dependencia contará con un órgano técnico auxiliar, con carácter de participación ciudadana, cuyo objeto sea orientar las políticas y programas para la protección y preservación del medio ambiente, vialidad y transporte.
+IV.- Comisión Intersecretarial.- Comisión Intersecretarial del Programa Estatal para la Atención del Migrante Poblano;
 
-## TITULO SEGUNDO. DE LA REGULACION DE LOS CONDUCTORES, DEL TRANSITO DE VEHICULOS AUTOMOTORES, PASAJEROS Y PEATONES
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES
+V.- Alto Comisionado.- Alto Comisionado del Programa Estatal para la Atención del Migrante Poblano y de la Comisión Estatal para la Atención del Migrante Poblano;
 
-###### ARTICULO 5o.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-El órgano administrativo competente, previsto en los artículos 3 y 4 de la presente Ley, estará integrado por las dependencias y las unidades administrativas que determine su Reglamento Interior y sus atribuciones son las siguientes:
+VI.- Consejo Consultivo.- Consejo Consultivo de la Comisión Estatal para la Atención del Migrante Poblano; y
 
-I. Formular los planes y programas en materia de protección, seguridad, fluidez y comodidad del transporte, así como el tránsito de usuarios y vehículos en las vías públicas;
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-II. Formular, definir y ejecutar políticas, planes y programas para el desarrollo del transporte terrestre en el Estado;
+VII.- Representaciones en el Extranjero.- Oficinas de Representación de la Comisión Estatal para la Atención del Migrante Poblano en el Extranjero, comúnmente llamadas "Casas Puebla".
 
-III. Administrar y vigilar el tránsito en las vías públicas, ordenando, regulando y ejerciendo el control sobre vehículos, peatones, pasajeros y conductores, aplicando las sanciones que correspondan;
+###### ARTÍCULO 3.
 
-IV. Establecer convenios de coordinación a que hubiera lugar con las autoridades federales, de otras entidades y con los ayuntamientos de los municipios del Estado, para elaborar los planes y programas para el desarrollo y mejoramiento de la infraestructura carretera, de transporte y de la vialidad;
+La Comisión tendrá por objeto, ejecutar las políticas públicas del Gobierno del Estado para atender el fenómeno migratorio, revalorizarlo, fomentar un trato digno a los poblanos que viven en el exterior y en general, contribuir al mejoramiento de sus condiciones de vida, rigiendo su actuación con estricto apego a la competencia de las distintas dependencias y entidades de la administración pública estatal y en un marco de colaboración institucional, se coordinará con la Administración Pública, Federal y Municipal, de conformidad con la normatividad aplicable.
 
-V. Promover e impulsar los programas tendientes a la profesionalización de los agentes de tránsito y, en su caso, coadyuvar con las instituciones autorizadas para ello;
+## TÍTULO SEGUNDO
 
-VI. Elaborar y mantener actualizado el régimen jurídico que regule el ejercicio de las facultades autorizadas a la policía de tránsito;
+### CAPÍTULO I. DE LA INTEGRACIÓN
 
-VII. Otorgar concesiones para la construcción, administración, operación y conservación de caminos y vialidades de cuota e instalaciones auxiliares y sistemas de transportación masiva de competencia local, así como declarar administrativamente su caducidad, cancelación, rescisión, o revocación y ejercer el derecho de revisión;
+###### ARTÍCULO 4.
 
-VIII. Representar al Ejecutivo del Estado y a la propia dependencia en toda clase de juicios en materia de tránsito y transportes; y
+Para el ejercicio de sus funciones, estudio, planeación, cumplimiento de su objeto y despacho de los asuntos de su competencia, la Comisión estará integrada de la siguiente forma:
 
-IX. Las demás que le confieran otros ordenamientos.
+I.- Comisión Intersecretarial;
 
-###### ARTICULO 6o.
+I.- Alto Comisionado;
 
-Para efectos de referencia, en lo sucesivo del articulado de esta Ley, al órgano administrativo competente, dependiente del Ejecutivo Estatal que establecen los artículos precedentes, se le denominará genéricamente Autoridades de Tránsito y Transportes indistintamente.
+III.- Subdirección de Protección al Migrante;
 
-### CAPITULO I. DISPOSICIONES GENERALES
+IV.- Subdirección de Asuntos Jurídicos;
 
-###### ARTICULO 7o.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Las autoridades de tránsito cuidarán que las aceras, calles, caminos y demás vías públicas destinadas para vehículos o peatones estén siempre expeditos para la circulación, debiendo intervenir en todos los casos en que se obstruya o altere el libre y seguro uso de las mismas.
+V.- Subdirección de Vinculación Institucional;
 
-###### ARTICULO 8o.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Las instituciones públicas correspondientes deberán atender las indicaciones de las autoridades de tránsito sobre si procede o no, o bajo qué condiciones, la autorización para la construcción de edificios, obras o establecimiento de instalaciones que por su naturaleza, ubicación o destino puedan alterar o afectar ostensiblemente, en forma temporal o permanente, las condiciones de vialidad existentes.
+VI.- Subdirección Administrativa; y
 
-Las autoridades, en los permisos para la construcción de obras y edificios, vigilará que éstos cuenten con un número de cajones para el estacionamiento, suficientes para garantizar la demanda que resulte de los mismos.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 9o.
+VII.- Representaciones en el Extranjero.
 
-Las autoridades de tránsito podrán limitar el tránsito de vehículos en las vías públicas con el objeto de mejorar la vialidad, preservar el ambiente, salvaguardar la seguridad de las personas y el orden público.
+Las unidades administrativas de la Comisión estarán integradas por el personal administrativo que el servicio requiera, de acuerdo con el manual de organización vigente y que se autoricen conforme al presupuesto de egresos correspondiente.
 
-### CAPITULO II. DEL REGISTRO Y CONTROL DE CONDUCTORES DE VEHICULOS AUTOMOTORES
+### CAPÍTULO II. DE LA COMISIÓN INTERSECRETARIAL
 
-### CAPITULO III. DEL REGISTRO Y CONTROL DE VEHICULOS
+###### ARTÍCULO 5.
 
-###### ARTICULO 33.
+La Comisión Intersecretarial será el Órgano Superior de Dirección de la Comisión, estará integrada en la forma en que dispone su Decreto de Creación y ejercerá las atribuciones que éste le confiere, procurando una respuesta expedita y eficiente a los migrantes y sus familias.
 
-Las autoridades de tránsito y transportes, para efectos de control, integrarán y operarán un Registro Estatal de Vehículos Automotores.
+###### ARTÍCULO 6.
 
-Todo vehículo que circule en el Estado y no se haya registrado en otra entidad federativa deberá hacerlo ante las autoridades correspondientes. Dicho registro se comprobará mediante las placas, tarjeta de circulación y calcomanía, en su caso; mismas que deberán llevarse siempre en el vehículo y en los lugares previamente determinados por el Reglamento para tal efecto.
+La Comisión Intersecretarial evaluará anualmente los resultados del Programa y la participación de cada una de las dependencias y entidades que la integran; así mismo difundirá y promoverá los resultados alcanzados.
 
-###### ARTICULO 34.
+### CAPÍTULO III. DEL ALTO COMISIONADO
 
-Los vehículos automotores o remolcados por vehículo automotor, deberán registrarse ante las autoridades estatales, previa satisfacción de los siguientes requisitos:
+###### ARTÍCULO 7.
 
-I. Formular la solicitud correspondiente proporcionando los datos y comprobantes que le sean señalados por la autoridad de tránsito;
+El Alto Comisionado es el representante administrativo y legal de la Comisión, encargado de coordinar y, en su caso, instrumentar la política del Estado en materia de atención a migrantes, sin perjuicio de la competencia que corresponda a otras autoridades; teniendo además de las atribuciones que prevé el Decreto de Creación, las siguientes:
 
-II. Presentar los documentos que acrediten la legal tenencia del vehículo con ánimo de propietario, así como la satisfacción de los requisitos exigidos por las autoridades hacendarias para su estancia legal y definitiva en el país;
+I.- Celebrar y signar los documentos inherentes al objeto de la Comisión, de conformidad con la normatividad aplicable;
 
-III. Aprobar la revisión del sistema electromecánico del vehículo, con el objeto de hacer constar por las autoridades de tránsito que se encuentran satisfechos los requisitos de circulación;
+II.- Ejercer el presupuesto de la Comisión administrando con responsabilidad, eficiencia y transparencia los recursos asignados a los programas operativos, pudiendo realizar ante terceros, los actos necesarios para el manejo, control y supervisión de su patrimonio, de conformidad con la normatividad aplicable;
 
-IV. Comprobar que se ha hecho el pago de los impuestos y derechos federales y estatales que sean procedentes; y
+III.- Presentar a la Comisión Intersecretarial los informes de actividades sustantivas y administrativas de la Comisión que le sean requeridos o deba rendir a otras instancias;
 
-V. Comprobar que cuenta con seguro automotriz vigente expedido por compañía autorizada para ello que garantice al menos daños a terceros.
+IV.- Promover el constante mejoramiento de los servicios de la Comisión y su utilidad social;
 
-Los vehículos asignados al servicio público de autotransporte deben satisfacer además el pago de los derechos relativos al otorgamiento o revalidación de la concesión o permiso, así como acreditar que se cumple con todas las obligaciones derivadas de dicha concesión o permiso.
+V.- Mantener permanente comunicación con los miembros de la Comisión Intersecretarial;
 
-###### ARTICULO 35.
+VI.- Cumplir y hacer cumplir el presente Reglamento, los acuerdos de la Comisión Intersecretarial y las demás disposiciones vigentes, en el ámbito de su competencia;
 
-Cualquier modificación posterior en los datos y características del vehículo proporcionadas para el registro del mismo en la oficina respectiva, deberá comunicarse a la autoridad dentro de un término de quince días. En caso de no darse aviso se aplicarán las sanciones relativas al responsable.
+VII.- Vigilar que la Comisión conduzca sus actividades de manera articulada y eficaz, con sujeción a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y los programas de su competencia;
 
-###### ARTICULO 36.
+VIII.- Vigilar el cumplimiento de las obligaciones administrativas, fiscales, laborales y de seguridad social a cargo de la Comisión;
 
-Cualquier extravío o destrucción de las placas, tarjetas de circulación o calcomanías deberá notificarse a las autoridades de tránsito en un término de cinco días. Tratándose de placas y tarjetas de circulación deberá tramitarse la reposición de las mismas.
+IX.- Determinar las medidas administrativas y económicas necesarias para el correcto funcionamiento de la Comisión, de conformidad con la normatividad aplicable;
 
-###### ARTICULO 37.
+X.- Solicitar ante las instancias competentes la autorización de la estructura orgánica de la Comisión, registro y actualización de la plantilla de personal, así como elaborar los inventarios y resguardos que correspondan;
 
-Las placas y tarjetas de circulación deberán ser siempre legibles y en su defecto deberá tramitarse su reposición.
+XI.- Nombrar y remover al personal de la Comisión, de conformidad con la normatividad aplicable;
 
-###### ARTICULO 38.
+XII.- Elaborar las propuestas de presupuestos de ingresos y de egresos de la Comisión y someterlos a la consideración de las autoridades competentes;
 
-Las autoridades de tránsito expedirán las siguientes placas:
+XIII.- Presentar a la Comisión Intersecretarial los Manuales de Organización, Procedimientos y de Servicios, para el mejor funcionamiento de la Comisión, procurando su constante actualización;
 
-I. Para servicio particular;
+XIV.- Presentar a las autoridades competentes de conformidad con la normatividad aplicable los programas que requieran recursos extraordinarios;
 
-II. Para servicio público;
+XV.- Promover la constante capacitación del personal de la Comisión;
 
-III. Para servicios de seguridad pública; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-IV. Para demostración.
+XVI.- Tomar las decisiones en aquellos asuntos que por su naturaleza requieran inmediata resolución y que no estén previstas en el presente Reglamento, los Manuales de Organización, Procedimientos y Servicios al Público, informando oportunamente de su trámite y desahogo a la Comisión Intersecretarial;
 
-###### ARTICULO 39.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Las placas de demostración se proporcionarán exclusivamente a las personas que se dediquen a la fabricación o compra y venta de vehículos automotores sujetos a registro. Se expedirán a los interesados según las necesidades que comprueben ante las autoridades de tránsito, sin que en ningún caso excedan de quince juegos para una sola negociación.
+XVII.- Dirigir y supervisar las actividades que, en ejercicio de sus atribuciones, realicen los titulares de las Representaciones en el Exterior, los subdirectores y demás personal administrativo a su cargo;
 
-###### ARTICULO 40.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Las personas a quienes se expidan placas de demostración son responsables del uso que se les dé y sólo pueden utilizarlas para demostrar a la clientela el funcionamiento de los vehículos en las vías públicas.
+XVIII.- Coordinar y vigilar que los servicios de asistencia, asesoría y apoyo a las Representaciones en el Extranjero se presten de manera oportuna y eficiente;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 41.
+XlX.- Verificar que los informes que sean requeridos a las Representaciones en el Extranjero, se hagan con las formalidades debidas y en su caso, analizar las opiniones que sobre el funcionamiento y operatividad de las Representaciones en el Extranjero sean puestas a su consideración por los subdirectores, instrumentando las medidas correctivas necesarias a fin de mejorar el servicio otorgado a los migrantes;
 
-Las placas y tarjetas de circulación servirán como identificación del vehículo. Las placas tendrán una vigencia de tres años y las tarjetas de circulación se revalidarán anualmente. En caso de traslación de la propiedad por cualquier medio previsto en la legislación, el interesado deberá tramitar el cambio de propietario en un plazo no mayor de quince días posteriores a la fecha de traslación.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 42.
+XX.- Servir de enlace entre las diferentes instancias gubernamentales y las Representaciones en el Extranjero, a fin de hacer efectivo el acercamiento de los servicios gubernamentales a las comunidades poblanas radicadas en el exterior;
 
-La baja definitiva del registro del vehículo sólo operará:
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-I. Por destrucción o inutilización del vehículo que impida su circulación;
+XXI.- Vigilar a través de las instancias que correspondan de la Comisión, la debida instrumentación por parte de las Representaciones en el Extranjero de los programas que en materia de salud, educación, cultura y deporte instituya la propia Comisión;
 
-II. Por cambio del servicio a que estaba destinado;
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-III. Por cambio en la clase de vehículo que requiera de placas diferentes; y
+XXlI.- Interactuar con las dependencias y entidades de la Administración Pública, con el objeto de que las funciones de gestoría de las Representaciones en el Extranjero para la obtención de documentos oficiales, se realicen de manera oportuna, eficiente y de conformidad con la normatividad aplicable;
 
-IV. Por requerirse para el registro en otra entidad federativa donde vaya a radicar el propietario del vehículo.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Tratándose de vehículos destinados al servicio público de transporte, la baja sólo se operará como consecuencia de la substitución del vehículo por otro que se destine al mismo servicio o por cancelación o revocación del permiso correspondiente.
+XXlII.- Supervisar y en su caso, coordinar la participación de las Representaciones en el Extranjero, en la organización y asistencia de éstas a ferias, exposiciones y eventos internacionales, orientadas a promover los valores culturales y la identidad de los poblanos que radican en el exterior; y
 
-###### ARTICULO 43.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Los vehículos registrados en otro país pueden circular en el Estado, siempre que cuenten con el permiso de introducción legal otorgado por las autoridades competentes y porte placas y tarjeta de circulación vigentes.
+XXIV.- Las que le señale la Comisión Intersecretarial y las demás disposiciones legales aplicables.
 
-###### ARTICULO 44.
+### CAPÍTULO IV. DE LAS SUBDIRECCIONES
 
-Cuando por alguna causa justificada no se pudiere obtener el registro correspondiente en tiempo y forma, las autoridades de tránsito estatales podrán otorgar permisos provisionales para circular.
+###### ARTÍCULO 8.
 
-###### ARTICULO 10.
+Los Titulares de las Subdirecciones de la Comisión se auxiliarán del personal que se determine conforme al presupuesto asignado y tendrán las siguientes atribuciones generales:
 
-El establecimiento y funcionamiento de locales destinados a operar como estacionamiento de vehículos de servicio al público, deberán contar con los permisos de las autoridades de tránsito correspondientes; a las cuales compete aprobar las tarifas que se cobren por dicho servicio y las modalidades de operación.
+I.- Acordar con el Alto Comisionado el despacho de los asuntos de la Subdirección a su cargo e informarle sobre los resultados de las acciones desarrolladas;
 
-###### ARTICULO 11.
+II.- Coordinar sus actividades con las demás áreas administrativas de la Comisión;
 
-El establecimiento y funcionamiento de escuelas para la enseñanza de manejo de vehículos requiere de la aprobación de las autoridades de tránsito y a ellas compete establecer las modalidades de operación.
+III.- Previo acuerdo con el Alto Comisionado, desarrollar los objetivos, políticas, planes y programas de trabajo de las áreas administrativas a su cargo y vigilar su cumplimiento;
 
-###### ARTICULO 12.
+IV.- Proponer mecanismos de evaluación sobre los planes, programas, proyectos y responsabilidades a su cargo y reportar periódicamente al Alto Comisionado respecto de los resultados obtenidos y el cumplimiento de metas;
 
-Las autoridades de tránsito y transportes, para efectos de control integrarán y operarán un Registro Estatal de Conductores de Vehículos Automotores.
+V.- Vigilar el cumplimiento de la normatividad que regule las funciones del personal a su cargo;
 
-### CAPITULO IV. DE LAS DIVERSAS CLASES DE VEHICULOS SUJETOS A REGISTRO
+VI.- Proponer al Alto Comisionado el perfil idóneo que deba tener el personal para ocupar las plazas del área a su cargo, de acuerdo a las necesidades y funciones que se requieran para el cumplimiento de las metas y programas;
 
-###### ARTICULO 45.
+VII.- Orientar y supervisar a las personas a su cargo para que, en las relaciones de trabajo, y de atención al público, el trato sea eficiente, cortés y respetuoso; y
 
-Para los efectos de su registro, los vehículos se clasifican de la siguiente forma:
+VIII.- Las demás que les señale el presente Reglamento, otras disposiciones legales o las que les delegue o encomiende el Alto Comisionado.
 
-I. Por su clase en:
+###### ARTÍCULO 9.
 
-A). Automóviles;
+El Subdirector de Protección al Migrante dependerá directamente del Alto Comisionado, y tendrá además de las atribuciones previstas en el artículo 8 del presente Reglamento, las siguientes:
 
-B). Camiones;
+I.- Colaborar con las representaciones de nuestro país en el exterior, y demás autoridades competentes, en la atención de los migrantes poblanos y sus familias;
 
-C). Omnibús;
+II.- Brindar orientación gratuita en aspectos relacionados con la privación de la libertad por delitos o faltas administrativas cometidas en el exterior; indemnizaciones civiles, laborales y penales; pensiones alimenticias; restitución de menores y, en general, problemas legales de los migrantes;
 
-D). Microbús;
+III.- Brindar orientación y apoyo a las familias de migrantes que pierden la vida en el exterior, en el traslado de los restos de sus seres queridos a sus comunidades de origen;
 
-E). Remolques; y
+IV.- En coordinación con las autoridades competentes, orientar a los migrantes en la tramitación de pasaportes y visas;
 
-F). Motocicletas.
+V.- Realizar labores de localización de poblanos que radican en el exterior y que han perdido contacto con sus familiares;
 
-Las características de esta clase de vehículos se definirán en el reglamento correspondiente.
+VI.- Instrumentar acciones para la prevención de los riesgos de la migración;
 
-II. Por el servicio que prestan en:
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-A). De servicio público;
+VII.- Difundir los derechos humanos y laborales de los migrantes;
 
-B). De servicio particular;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-C). De servicio de seguridad pública.
+VIII.- Brindar asistencia a las Representaciones en el Extranjero en materia de protección de los derechos de los migrantes poblanos; y
 
-###### ARTICULO 46.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Son vehículos de servicio público, de pasajeros o carga aquellos que operan mediante el cobro de tarifas autorizadas y son operados en virtud de una concesión, permiso o autorización.
+IX.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
-###### ARTICULO 47.
+###### ARTÍCULO 10.
 
-Son vehículos de servicio particular los que son utilizados por su propietario para el transporte de personas o cosas y no sujeto a concesión de servicio público de transporte.
+El Subdirector de Asuntos Jurídicos dependerá directamente del Alto Comisionado, y tendrá además de las atribuciones previstas en el artículo 8 del presente Reglamento, las siguientes:
 
-###### ARTICULO 48.
+I.- Elaborar los anteproyectos de reglamentos, manuales, decretos, acuerdos, circulares y demás disposiciones normativas que regulen el funcionamiento de la Comisión y someterlas a la consideración del Alto Comisionado;
 
-Son vehículos de servicio de seguridad pública los que siendo propiedad del Gobierno del Estado, y de los municipios dentro de éste, estén dedicados a los servicios de vigilancia, seguridad pública y protección ciudadana en los términos establecidos en los reglamentos de esta Ley.
+II.- Elaborar estudios y anteproyectos de reformas y adiciones a la legislación que regula el fenómeno migratorio y someterlas a la consideración del Alto Comisionado;
 
-###### ARTICULO 49.
+III.- Diseñar y proponer al Alto Comisionado, mecanismos legales de coordinación con las dependencias federales y los gobiernos de otros Estados para la atención de los migrantes y sus familias;
 
-Los vehículos deben registrarse ante las autoridades de tránsito y, en su caso, portar las placas y calcomanías, en lugares accesibles y visibles a simple vista, así como la tarjeta de circulación correspondiente, con las características aprobadas para el efecto, salvo los señalados a continuación:
+IV.- Emitir opiniones jurídicas sobre las consultas que realicen a la Comisión, las dependencias y entidades de la Administración Pública Estatal sobre el fenómeno migratorio;
 
-I. Vehículos pertenecientes a las fuerzas armadas nacionales; y
+V.- Proporcionar el apoyo técnico-jurídico que requieran las áreas administrativas de la Comisión;
 
-II. Equipo móvil que transite ocasionalmente en vías públicas.
+VI.- Realizar consultas del marco legal de las dependencias gubernamentales de los países donde radican los migrantes;
 
-Los vehículos a que se hace referencia en este artículo, deberán en todo caso satisfacer los requisitos de circulación relacionados a la seguridad de peatones, pasajeros y vehículos, así como lo relativo a la preparación y capacidad del conductor de los mismos.
+VII.- Representar a la Comisión en toda clase de juicios, procedimientos, arbitrajes y reclamaciones de carácter jurídico que puedan afectar sus intereses;
 
-###### ARTICULO 13.
+VIII.- Representar en asuntos judiciales a la Comisión, así como en todas las controversias y trámites que sean de su competencia, iniciar o continuar acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir juicios y procedimientos hasta ejecutar las resoluciones y, en general, ejercer las atribuciones de un mandatario con todas las facultades generales y particulares que requieran cláusula especial conforme a las leyes;
 
-Para conducir un vehículo automotor se requiere obtener y portar la licencia o permiso para conducir vigente, suficiente para el tipo de unidad que se maneje.
+IX.- Formular y presentar denuncias o querellas ante el Ministerio Público por hechos presuntamente ilícitos que afecten a la Comisión;
 
-###### ARTICULO 14.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Para los efectos señalados en el artículo anterior, las autoridades de tránsito y transportes expedirán los siguientes tipos de licencias:
+X.- Recabar, registrar y archivar los instrumentos jurídicos en los que intervenga la Comisión;
 
-I. De chofer;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-II. De automovilista;
+XI.- Certificar los documentos que obren en el archivo de la Comisión y, en su caso, expedir copias certificadas de los mismos, en términos de la normatividad aplicable;
 
-III. De motociclista; y
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-IV. De aprendiz.
+XlI.- Proporcionar asesoría y apoyo a las Representaciones en el Extranjero a través de estudios, consultas y análisis jurídicos; y
 
-###### ARTICULO 15.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-Las licencias de chofer, automovilista y motociclista, tendrán una vigencia máxima de seis años; la de aprendiz de dos años como máximo.
+XlII.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
-###### ARTICULO 16.
+###### ARTÍCULO 11.
 
-La licencia de chofer autoriza a su titular a manejar todos los vehículos automotores regulados por esta Ley, excepto las motocicletas y los que requieren autorización especial.
+El Subdirector de Vinculación Institucional dependerá directamente del Alto Comisionado, y tendrá además de las atribuciones previstas en el artículo 8 del presente Reglamento, las siguientes:
 
-###### ARTICULO 17.
+I.- Promover el análisis, estudio y actualización de las políticas públicas de atención a migrantes y de los aspectos demográficos de la migración;
 
-La licencia de automovilista autoriza a su titular para conducir vehículos automotores con una capacidad máxima de once pasajeros, o con capacidad de carga no mayor de tres mil quinientos kilogramos.
+II.- Mantener vínculos con organismos gubernamentales e instituciones locales, nacionales e internacionales con el objeto de intercambiar experiencias en la atención del fenómeno migratorio;
 
-###### ARTICULO 18.
+III.- Mantener comunicación constante con las Oficinas de Atención a Migrantes de otros Estados de la República, con el objeto de generar acciones conjuntas a favor de los migrantes y sus familias;
 
-La licencia de motociclista autoriza a su titular a conducir vehículos automotores de dos o más ruedas de los clasificados como motocicletas.
+IV.- Dar seguimiento a los programas institucionales que las dependencias de la Administración Pública Federal, Estatal y Municipal instrumenten a favor de los migrantes y sus familias;
 
-###### ARTICULO 19.
+V.- Mantener comunicación con las Comisiones de Asuntos Migratorios de los Congresos Locales y del Congreso de la Unión;
 
-La licencia de aprendiz se expide a todas aquellas personas que no tengan la edad mínima requerida para obtener cualquiera de las licencias para manejar señaladas en los artículos anteriores o teniendo la edad carezcan de la pericia necesaria para conducir vehículos automotores. En ningún caso se expedirán a menores de dieciséis años.
+VI.- Promover y coordinar la realización de foros, seminarios, simposios, conferencias y coloquios públicos y privados en materia de migración internacional y atención a los mexicanos en el exterior;
 
-Cuando el solicitante sea menor de dieciocho años, deberá obtener carta de autorización y responsiva de quien ejerza la patria potestad, garantizando los daños y perjuicios que se puedan ocasionar durante la vigencia de la licencia.
+VII.- Vincular los esfuerzos, programas e investigaciones de instituciones nacionales e internacionales, con el propósito de generar mecanismos de apoyo para los migrantes y sus familias;
 
-### CAPITULO V. DEL EQUIPO DE LOS VEHICULOS
+VIII.- Coordinar los enlaces institucionales de las giras internacionales que realice el personal de la Comisión;
 
-###### ARTICULO 50.
+IX.- Diseñar y proponer planes y programas operativos para las comunidades poblanas radicadas en el exterior;
 
-Los vehículos para su segura circulación sobre calles, caminos y carreteras en el Estado, deben contar con los dispositivos y accesorios señalados en esta Ley y sus Reglamentos y aquellos que a juicio de las autoridades de tránsito sean necesarios de conformidad con las características y uso de dichos vehículos.
+X.- Promover la organización comunitaria en los Estados Unidos de América, mediante la conformación de asociaciones u organizaciones de poblanos;
 
-SECCION LUCES Y FRENOS
+XI.- Promover el intercambio cultural y comercial entre el Estado de Puebla y las ciudades norteamericanas de mayor concentración de poblanos;
 
-###### ARTICULO 51.
+XII.- Estudiar la organización comunitaria de los poblanos en el exterior e identificar los clubes, asociaciones y organizaciones existentes;
 
-Las luces que porten los vehículos en circulación deberán estar de acuerdo con las disposiciones de este capítulo y del Reglamento de esta Ley. Las luces adicionales no deben afectar la precisión de la visión de los peatones y conductores de otros vehículos al apreciar el volumen y dimensiones del portador de las mismas.
+XIII.- Acercar a las comunidades poblanas que radican en el exterior, los servicios institucionales que brinda el Estado;
 
-###### ARTICULO 52.
+XIV.- Diseñar e instrumentar, en coordinación con las dependencias y entidades competentes, los programas de salud, educación, cultura, deporte y proyectos productivos y sociales, para las comunidades de poblanos radicadas en el exterior;
 
-Los vehículos automotores de cuatro o más ruedas deberán de estar provistos por lo menos de:
+XV.- Vincular a las comunidades de poblanos radicadas en el exterior y las dependencias y entidades competentes, con el objeto de promover la realización de obras de carácter social y productivo en las comunidades de origen de los migrantes;
 
-I. Dos faros delanteros provistos de dos intensidades de luz;
+XVI.- Promover donaciones del exterior a favor de las comunidades de origen de los migrantes y de instituciones públicas y privadas;
 
-II. Dos lámparas posteriores;
+XVII.- Promover mecanismos para disminuir el costo del envío de remesas y procurar su utilidad social;
 
-III. Dos lámparas direccionales en el frente y dos en la parte posterior; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-IV. Reflejantes en la parte posterior.
+XVIII.- Coadyuvar con las autoridades competentes, a fin de promover la constitución de empresas en el Estado con inversión de los migrantes;
 
-Tratándose de remolques o semi-remolques de circulación permanente, deberán satisfacer los requisitos señalados en las fracciones II, III, y IV.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 53.
+XIX.- Recabar los informes de las Representaciones en el Extranjero y presentar al Alto Comisionado un reporte sobre sus actividades;
 
-Las motocicletas con cilindrada menor de cincuenta centímetros, con capacidad para desarrollar una velocidad máxima de cuarenta kilómetros por hora, deben portar un faro delantero de una sola intensidad y una luz posterior.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 54.
+XX.- Emitir opiniones sobre el funcionamiento y operatividad de las Representaciones en el Extranjero y someterlas a consideración del Alto Comisionado, con el objeto de generar recomendaciones que permitan mejorar el servicio otorgado a los migrantes; y
 
-Las bicicletas deben portar un faro delantero de una sola intensidad en la parte anterior y una luz roja en la parte posterior.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 55.
+XXI.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
-Los vehículos de tracción diferente a la mecánica deben ir provistos de franjas reflejantes colocadas en la parte posterior a lo ancho del vehículo.
+###### ARTÍCULO 12.
 
-###### ARTICULO 56.
+El Subdirector Administrativo dependerá directamente del Alto Comisionado, y tendrá además de las atribuciones previstas en el artículo 8 del presente Reglamento, las siguientes:
 
-Las grúas, vehículos de servicio mecánico, vehículos motorizados de aseo y limpia, vehículos de servicio y ayuda, vehículos que transporten maquinaria o carga con dimensiones o características especiales, deben de estar provistos de una torreta con luz ámbar en la parte superior de la cabina.
+I.- Auxiliar al Alto Comisionado en la instrumentación de políticas, directrices y demás lineamientos administrativos aplicables a la Comisión;
 
-###### ARTICULO 57.
+II.- Elaborar, en coordinación con las áreas operativas, los planes, programas y estrategias que deban regir las acciones de la Comisión y una vez autorizados, vigilar su aplicación,
 
-Los vehículos de transporte escolar deberán portar dos lámparas adicionales en la parte posterior y dos en la parte anterior, colocadas de tal forma que indiquen las dimensiones de la unidad.
+III.- Promover el desarrollo administrativo e informático de la Comisión y difundir la metodología adecuada en materia de planeación, supervisando su aplicación;
 
-###### ARTICULO 58.
+IV.- Elaborar, con el auxilio de cada una de las áreas competentes, el proyecto del presupuesto anual de la Comisión, así como aplicar los criterios y lineamientos para el ejercicio del gasto conforme a las disposiciones aplicables;
 
-Los vehículos de transporte de pasajeros deberán señalar con aparatos electromecánicos intermitentes el ascenso y descenso de pasajeros.
+V.- Coordinarse con las áreas operativas de la Secretaría de Finanzas y Administración, para que el presupuesto de la Comisión sea incluido dentro de la apertura programática anual de la Ley de Egresos del Estado;
 
-###### ARTICULO 59.
+VI.- Realizar los trámites necesarios para el registro y actualización de la estructura administrativa de la Comisión ante las dependencias y autoridades correspondientes;
 
-Se considera vehículos de emergencia las ambulancias, los de bomberos y los vehículos policiales y son de uso exclusivo de ellos los dispositivos ópticos y acústicos tales como sirenas, campanas, torretas, luces giratorias de color rojo, así como lámparas azules.
+VII.- Promover el eficiente ejercicio de los recursos de la Comisión y preparar la información que soporte su aplicación;
 
-###### ARTICULO 60.
+VIII.- Supervisar el oportuno cumplimiento de las obligaciones administrativas, fiscales, laborales, de seguridad social e higiene a cargo de la Comisión;
 
-Salvo el caso de vehículos policiales, se prohíbe usar faros buscadores de que esté provisto el vehículo, afocándolo sobre cualquier parte de otro vehículo o persona.
+IX.- Coordinar la administración de los recursos humanos de la Comisión, encargándose de tramitar su contratación, capacitación, remuneración, licencias, remoción o cese, ejecutando los movimientos que le ordene el Alto Comisionado;
 
-###### ARTICULO 61.
+X.- Fomentar, proponer y, en su caso, tramitar las prestaciones, estímulos, recompensas y servicios de carácter médico, económico, social, educativo, cultural, deportivo y recreativo, a las que tienen derecho los servidores públicos de la Comisión y sus familiares, de acuerdo con la normatividad aplicable y a la suficiencia presupuestal respectiva;
 
-Las luces direccionales se emplearán para indicar cambios de dirección, pudiéndose utilizar, cuando funcionen simultáneamente las de ambos lados, como protección, durante paradas o estacionamiento.
+XI.- Establecer los mecanismos de evaluación de la eficiencia y eficacia con que se desempeñen las unidades administrativas de la Comisión;
 
-###### ARTICULO 62.
+XII.- Llevar el control contable y presupuestal de la Comisión, vigilando que se ejerzan los recursos de conformidad con los programas sustantivos y administrativos aprobados, de acuerdo a la normatividad aplicable;
 
-Los vehículos de tres ruedas deben satisfacer los requisitos señalados para vehículos de cuatro ruedas, en lo que se refiere a luces posteriores y frenos.
+XIII.- Instrumentar y mantener actualizados los inventarios de bienes muebles e inmuebles y de los recursos materiales a cargo de la Comisión;
 
-###### ARTICULO 63.
+XIV.- Coordinar la prestación de los servicios de instalación, adaptación, mantenimiento, reparación y conservación de los bienes muebles e inmuebles a cargo de la Comisión, de conformidad con la normatividad aplicable y la suficiencia presupuestal correspondiente;
 
-Todo vehículo automotor, remolque, semiremolque, remolque para postes o combinación de estos vehículos, deberá estar provisto de frenos que puedan ser fácilmente accionados por el conductor del vehículo desde su asiento, los cuales deben conservarse en buen estado de funcionamiento y estar ajustados de modo que actúen uniformemente en todas las ruedas.
+XV.- Elaborar en coordinación con las distintas áreas de la Comisión los planes, programas, informes y demás documentos administrativos del Organismo; y
 
-Todos los vehículos automotores deberán estar equipados de un sistema de luces colocadas en la parte posterior que al momento de practicar la operación de frenado se enciendan simultáneamente para indicar la maniobra.
+XVI.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
-Tratándose del tránsito y transporte de maquinaria y equipo agrícola, con sistemas de remolque o semiremolque, bastará con que cumplan con señalización preventiva, notoria y perceptible que adviertan el posible peligro.
+### CAPÍTULO V. DEL CONSEJO CONSULTIVO
 
-###### ARTICULO 64.
+###### ARTÍCULO 13.
 
-Los dispositivos y sistemas de frenado que porte cualquier combinación de vehículos deben ser compatibles entre sí y además la acción de los mismos se deberá distribuir en forma adecuada entre los vehículos que formen la combinación.
+El Consejo Consultivo se constituye como un órgano colegiado de opinión y consulta para la Comisión, que tiene por objeto aportar opiniones sobre la situación de la comunidad migrante poblana y sobre las políticas públicas instrumentadas para atender las consecuencias del fenómeno migratorio.
 
-Tratándose del tránsito y transporte de maquinaria y equipo agrícola, con sistemas de remolque o semiremolque, bastará con que cumplan con señalización preventiva, notoria y perceptible que adviertan el posible peligro.
+###### ARTÍCULO 14.
 
-SECCION LLANTAS
+El Consejo Consultivo estará integrado en la forma en que dispone el Decreto que crea la Comisión y sus miembros desarrollarán sus actividades en forma honoraria.
 
-###### ARTICULO 65.
+###### ARTÍCULO 15.
 
-Todo vehículo que circule sobre calles y caminos en el Estado debe estar provisto de llantas de tipo neumático o hidroneumático, que garantice la seguridad del vehículo en lo relativo a las bandas de rodamiento, que deben tener suficiente adherencia sobre el pavimento, aún cuando éste se encuentre mojado.
+El Consejo Consultivo deberá mantener una estrecha comunicación con el Alto Comisionado, quien participará en las sesiones del mismo, con derecho a voz y voto y podrá convocarlo, en caso necesario.
 
-###### ARTICULO 66.
+###### ARTÍCULO 16.
 
-Los vehículos automotores, remolques y semiremolques, excepto motocicletas, deben de estar provistos de una llanta extra tipo neumático, en su caso, que reúna las características señaladas en el artículo anterior.
+El Consejo Consultivo sesionará ordinariamente cada seis meses y en forma extraordinaria las veces que sea necesario, de conformidad con la convocatoria que para tal efecto se emita.
 
-###### ARTICULO 67.
+###### ARTÍCULO 17.
 
-Queda prohibida la conducción de vehículos que tengan llantas metálicas o de hule macizo, sobre las calles y caminos en el Estado.
+El Presidente del Consejo Consultivo tendrá las siguientes funciones:
 
-En caso de estricta necesidad, a juicio de la dependencia de Tránsito y Transportes, que deban circular unidades no equipadas con llantas de las especificadas en el artículo 65 de la presente Ley, deberán de recabar previamente el permiso correspondiente, el cual obtendrán siempre que no se ponga en peligro la banda de rodamiento o la seguridad de las personas.
+I.- Ejercer su cargo por un año con posibilidad de reelección por un periodo más;
 
-###### ARTICULO 68.
+II.- Solicitar la opinión de instituciones públicas o privadas cuando así lo considere necesario;
 
-Los vehículos de servicio público de transporte y escolar no podrán circular con llantas recubiertas en el eje delantero.
+III.- Convocar a elección de un nuevo Presidente al término de su gestión;
 
-SECCION OTROS DISPOSITIVOS
+IV.- Convocar a sesiones ordinarias y extraordinarias;
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2012)</small>
+V.- Declarar quórum legal en las sesiones del Consejo Consultivo;
 
-###### ARTICULO 69.
+VI.- Presidir las sesiones del Consejo Consultivo;
 
-Los vehículos deberán estar provistos de cinturones de seguridad en todos sus asientos y de los aditamentos especiales para los infantes que esta Ley determina.
+VII.- Acudir puntualmente a las sesiones ordinarias y extraordinarias con derecho a voz y voto y ejercer voto de calidad en caso necesario;
 
-Para los efectos de éste apartado, infante es aquella persona cuya edad no rebasa los 12 años.
+VIII.- Moderar las discusiones que tengan verificativo en el seno de las sesiones;
 
-Según su fisionomía, los infantes deberán viajar asegurados con sistemas de protección adicionales a los del vehículo automotriz.
+IX.- Analizar y en su caso atender las consultas que realice la Comisión a través del Alto Comisionado; y
 
-###### ARTICULO 70.
+X.- Redactar las actas correspondientes a cada sesión y recabar las firmas de sus miembros.
 
-Los vehículos deberán estar provistos al menos de una bocina en buen estado cuyos sonidos sean audibles.
+###### ARTÍCULO 18.
 
-###### ARTICULO 71.
+Los miembros del Consejo Consultivo, tendrán las siguientes atribuciones y responsabilidades:
 
-Todo vehículo automotor deberá estar provisto de espejos retrovisores. El número, dimensiones y colocación de estos espejos deberá permitir al conductor apreciar la circulación detrás de su vehículo.
+I.- Acudir puntualmente a las sesiones ordinarias y extraordinarias y ejercer derecho a voz y voto;
 
-###### ARTICULO 72.
+II.- Nombrar de entre los miembros del Consejo Consultivo a su Presidente;
 
-Los vehículos deben portar equipo indicador para casos de emergencia.
+III.- Designar por escrito un suplente quien tendrá las mismas facultades en su ausencia;
 
-###### ARTICULO 73.
+IV.- Emitir su opinión sobre el fenómeno migratorio y las políticas públicas relacionadas con éste; y
 
-Todo vehículo automotor que circule en calles y caminos en el Estado, debe estar provisto de un dispositivo silenciador de escape en buen estado de funcionamiento y conectado para evitar ruidos excesivos. Queda prohibido utilizar válvulas de escape, derivaciones u otros dispositivos que produzcan ruidos molestos.
+V.- Apoyar la realización de los planes y programas de la Comisión de acuerdo a sus capacidades y especialidades.
 
-###### ARTICULO 74.
+###### ARTÍCULO 19.
 
-Todo vehículo automotor, excepto motocicletas debe estar provisto de parabrisas libre de obstrucciones y equipado con limpiadores.
+Las convocatorias del Consejo Consultivo deberán ser notificadas a todos los integrantes, por los medios más eficaces, con una anticipación de por lo menos 5 días hábiles para sesiones ordinarias y para sesiones extraordinarias con 48 horas de anticipación. Para que las sesiones del Consejo Consultivo se consideren válidas se requerirá la asistencia de la mitad más uno de sus miembros.
 
-###### ARTICULO 75.
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-El parabrisas, ventana posterior, ventanillas y aletas laterales que porten los vehículos automotores deberán estar fabricados con una substancia cuya transparencia a juicio de las autoridades de tránsito sea suficiente para la visión del conductor y que no deforme los objetos vistos a través de ellos; por lo tanto, queda prohibida toda coloración o polarizado de cristales que impidan la visibilidad desde y hacia el interior del vehículo.
+### CAPÍTULO VI. DE LAS REPRESENTACIONES EN EL EXTRANJERO
 
-###### ARTICULO 76.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-Todo parabrisas o pared interior de separación debe ser tal que disminuya en la medida posible el peligro de lesiones corporales en caso de accidentes.
+ARTÍCULO 19 BIS.- Las Representaciones en el Extranjero tendrán por objeto acercar los servicios gubernamentales del Estado a las comunidades poblanas radicadas en el exterior y coadyuvar con las autoridades competentes en la promoción del Estado de Puebla en el ámbito internacional.
 
-###### ARTICULO 77.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-Todo vehículo automotor debe conservar completas y en buen estado todas las partes de su carrocería.
+ARTÍCULO 19 TER.- Para la instalación de las Representaciones en el Extranjero, deberán tomarse en consideración a las ciudades que en el ámbito internacional concentren mayor cantidad de residentes poblanos o en las que existan razones estratégicas de inversión, promoción comercial, cultural, turística o de cualquier otra índole que resulte de relevancia para el Estado.
 
-### CAPITULO VI. DE LA PRESERVACION DEL MEDIO AMBIENTE Y PROTECCION ECOLOGICA
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-###### ARTICULO 78.
+ARTÍCULO 19 QUÁTER.- Para el cumplimiento de sus objetivos y óptimo desarrollo de sus funciones, las Representaciones en el Extranjero contarán con los recursos humanos, materiales y financieros que requieran, de conformidad con la disponibilidad presupuestal y en términos de la normatividad aplicable.
 
-Las autoridades de Tránsito y Transportes, en lo que le compete dictará las medidas preventivas o punitivas necesarias para regular, controlar y disminuir la emisión de humos, gases y ruidos que afectan el medio ambiente, producidos por el uso de vehículos.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-A los usuarios de las vías públicas en el Estado se les concientizará sobre las diversas disposiciones que existen en materia de preservación del medio ambiente y protección ecológica para que cumplan con dichas medidas de protección y control.
+ARTÍCULO 19 QUINQUIES.- Las Representaciones en el Extranjero tendrán las siguientes funciones y atribuciones:
 
-###### ARTICULO 79.
+I.- Brindar información a los migrantes poblanos sobre sus derechos en el exterior y, sin perjuicio de la competencia de las dependencias federales, coadyuvar con las autoridades consulares, ofreciéndoles asesoría en materia de protección jurídica;
 
-Todo vehículo automotor debe estar en tales condiciones de funcionamiento que impida la emisión de humos o gases tóxicos en cantidades notoriamente excesivas de acuerdo a los criterios técnicos establecidos en la Ley de la materia.
+II.- Acercar los servicios gubernamentales que se brindan en el Estado a las comunidades poblanas radicadas en el exterior, mediante la participación interinstitucional de las dependencias y entidades de la Administración Pública; desarrollar en su área de influencia los programas de la Comisión en materia de salud, educación, cultura, deporte y, en general, instrumentar acciones a favor de los migrantes poblanos;
 
-Para el cumplimiento de la disposición anterior se establecerán, en los lugares que se requieran, un sistema de verificación vehicular obligatoria, con personal autorizado para ello.
+III.- Servir ante la comunidad migrante como gestor de documentos oficiales expedidos por las dependencias y entidades de la Administración Pública de conformidad con la normatividad aplicable;
 
-###### ARTICULO 80.
+IV.- Promover la interlocución entre las comunidades de destino y de origen de los migrantes poblanos, fomentando los lazos de hermandad y preservando la identidad y cultura poblana;
 
-Es obligación de los conductores evitar producir con sus vehículos ruidos excesivos y molestos.
+V.- Coadyuvar con las autoridades competentes, en la promoción de los productos poblanos en el área de influencia de las Representaciones en el Extranjero;
 
-###### ARTICULO 81.
+VI.- Colaborar con las autoridades competentes, en la promoción de la inversión productiva de la comunidad migrante en el Estado;
 
-Queda prohibido a los conductores usar innecesariamente las bocinas de su (sic) vehículos, debiendo utilizarlas sólo para evitar accidentes.
+VII.- Coadyuvar con las autoridades competentes, en la promoción del potencial turístico del Estado de Puebla, difundiendo los atractivos de nuestra Entidad;
 
-###### ARTICULO 82.
+VIII.- Coadyuvar con las autoridades competentes, a fin de organizar y, en su caso, participar en ferias, exposiciones y eventos internacionales, con el objeto de promover los valores culturales y la identidad de los poblanos que radican en el exterior procurando la intervención de artesanos, artistas plásticos, grupos musicales, grupos de danza y de otras expresiones culturales;
 
-Las autoridades de tránsito podrán retirar de la circulación a todo vehículo que notoriamente emita contaminantes, ruidos, humos o gases tóxicos en cantidades excesivas atendiendo a las normas aplicables en la materia.
+IX.- Promover la organización comunitaria en el exterior, brindando asesoría para la constitución de clubes, asociaciones y organizaciones de migrantes poblanos;
 
-###### ARTICULO 83.
+X.- Promover, conjuntamente con las autoridades federales, estatales y municipales, la iniciativa de los migrantes para impulsar el desarrollo de sus comunidades de origen, mediante la integración de proyectos productivos y sociales; y
 
-Queda prohibido tirar o arrojar objetos o basura desde el interior del vehículo, siendo el conductor responsable por la inobservancia de esta prohibición.
+XI.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le delegue el Alto Comisionado.
 
-###### ARTICULO 20.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-Para obtener licencia para manejar vehículos automotores se requieren:
+ARTÍCULO 19 SEXIES.- Al frente de cada Representación en el Extranjero habrá un titular, que dependerá jerárquicamente del Alto Comisionado y fungirá como representante de la Comisión ante la comunidad migrante, con las siguientes atribuciones:
 
-I. Formular la solicitud correspondiente, proporcionando los datos y documentos que le sean señalados por la autoridad de tránsito;
+I.- Representar a la Comisión ante la Comunidad Migrante radicada en el exterior;
 
-II. Acreditar pericia y los exámenes médico y teórico-práctico que sobre conducción de vehículos realicen las autoridades de tránsito;
+II.- Ejecutar los acuerdos e indicaciones del Alto Comisionado y de la Comisión Intersecretarial;
 
-III. Acreditar estar capacitado física y mentalmente para conducir vehículos automotores;
+III.-Representar al Alto Comisionado en asuntos o reuniones de trabajo, cuando así lo determine e informarle sobre el resultado del ejercicio de esa representación;
 
-IV. Tener un conocimiento general de la presente Ley y sus Reglamentos, significado de las señales de tránsito y de las diversas precauciones que se deben adoptar al circular sobre las calles y caminos en el Estado con vehículos automotores; y
+IV.- Brindar atención y orientación a la comunidad migrante radicada en el exterior, difundiendo las actividades de la Comisión y, en general, facilitar el acceso de los servicios del Gobierno del Estado;
 
-V. Cubrir el importe de derecho por la expedición de la licencia.
+V.- Gestionar la obtención de documentos oficiales expedidos por las dependencias y entidades de la Administración Pública Estatal, de conformidad con los programas desarrollados para tal fin y la normatividad aplicable y, de ser procedente, entregarlos a los solicitantes a través de las Representaciones en el Exterior;
 
-## TITULO TERCERO. DEL SERVICIO PUBLICO DE TRANSPORTE EN EL ESTADO DE SINALOA
+VI.- Mantener en estrecha comunicación con la Comisión y realizar consultas sobre casos específicos que no sea posible resolver desde la Oficina de Representación a su cargo;
 
-### CAPITULO I. DISPOSICIONES GENERALES
+VII.- Informar mensualmente a la Comisión o cuando lo solicite el Alto Comisionado, sobre el número de casos atendidos, especificando su clasificación, el tipo de apoyo otorgado, el impacto generado, el lugar donde radica el solicitante, su comunidad de origen y demás datos que se le requieran, o considere importantes;
 
-###### ARTICULO 179.
+VIII.- Proporcionar al Alto Comisionado o a los subdirectores de la Comisión cuando así lo soliciten, los informes y requerimientos que les requieran en ejercicio de sus funciones; y
 
-El transporte, como servicio público, es atributo del Estado, siendo suya la facultad de legislar sobre esta materia. Corresponde al Poder Ejecutivo del Estado originalmente la prestación de este servicio, quien se reserva el derecho de hacerlo directamente, a través de los órganos que al efecto se creen, otorgarlo a instituciones oficiales, autorizarlo o concesionarlo a particulares.
+IX.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
-###### ARTICULO 180.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO V], P.O. 31 DE JULIO DE 2006)</small>
 
-Se considerará servicio público de transporte de personas o cosas el que se realice por calles y caminos de jurisdicción estatal para la satisfacción de necesidades colectivas en forma general, permanente, regular y continua, sujeto a una tarifa, mediante la utilización de vehículos idóneos para tal efecto.
+### CAPÍTULO VI. DE LAS RELACIONES LABORALES
 
-###### ARTICULO 181.
+###### ARTÍCULO 20.
 
-Para una mejor prestación del servicio público de transporte se podrán celebrar convenios de coordinación entre el Estado, la Federación y los Municipios.
+Las relaciones laborales entre la Comisión y sus trabajadores se regirán conforme a la legislación correspondiente, el presente Reglamento y los manuales que se expidan.
 
-El Ejecutivo del Estado podrá autorizar a los permisionarios o concesionarios del servicio público de transporte federal, mediante permisos de paso, para que en la ejecución de ese servicio usen caminos de jurisdicción estatal cuando ello fuese necesario para la prestación del mismo.
+## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
-###### ARTICULO 182.
+### CAPÍTULO ÚNICO
 
-Cuando se autorice o concesione la prestación del servicio público de transporte, quedará a juicio del Ejecutivo establecer para su explotación las modalidades que dicten el orden público y el interés social pudiendo decretar las medidas tendientes a lograr la más eficaz coordinación, funcionamiento y regulación en la prestación del mismo, de acuerdo con las necesidades del público y congruentes con el desarrollo social y económico de la entidad.
+###### ARTÍCULO 21.
 
-###### ARTICULO 183.
+El Alto Comisionado será suplido, en sus faltas temporales, por el Subdirector o el servidor público de la Comisión que designe para tal fin.
 
-El Gobierno del Estado, en todo tiempo, cuando así lo exija el interés social podrá prestar o hacerse cargo, en forma provisional o definitiva, del servicio público de transporte en una zona o ruta, estén o no concesionadas, en los siguientes términos:
+###### ARTÍCULO 22.
 
-I. Provisionalmente, en los siguientes casos:
-
-A). Cuando los concesionarios o permisionarios se nieguen a o suspendan el servicio sin causa justificada;
-
-B). Cuando por necesidad de la población se requiera; y
-
-C). Cuando exista una grave alteración al orden y la paz social que impida u obstaculice la normal prestación del servicio público de transporte. La intervención del Estado en este caso, cesará cuando se restablezca el orden y la paz social alterados.
-
-Cuando se haga cargo provisionalmente del servicio público de transporte en una ruta o zona, utilizando el equipo de los concesionarios o permisionarios en los términos de esta fracción, deberá destinar los ingresos obtenidos por la prestación del servicio a los gastos de administración y el remanente se entregará al concesionario o permisionario.
-
-II. Para hacerse cargo definitivamente de la prestación del servicio público de transporte en una ruta o zona, el Ejecutivo instrumentará a través de la Autoridad de Tránsito y Transportes el procedimiento de revocación de la concesión o permiso y en forma provisional podrá utilizar el equipo de los concesionarios o permisionarios, en tanto concluye dicho procedimiento o mientras la autoridad adquiera el uso o la propiedad de dichos bienes mediante cualesquiera de los medios jurídicos previstos en la Ley. Durante este lapso se estará a lo previsto en el último párrafo de la fracción anterior.
-
-El precio de indemnización correspondiente se fijará tomando en cuenta el costo de inversión en equipo, el lapso de la vigencia de la concesión y el tiempo que fue explotado el permiso o concesión, realizando a este efecto el estudio socioeconómico y técnico que sirva de base para determinar su monto.
-
-###### ARTICULO 184.
-
-El Gobierno del Estado implementará políticas y programas tendientes al impulso del servicio de transporte dando prioridad al transporte colectivo.
-
-### CAPITULO II. DE LAS CONCESIONES Y PERMISOS DE RUTA O ZONA
-
-###### ARTICULO 185.
-
-Concesión de servicio público de transporte es la autorización que otorga el Ejecutivo del Estado, en los términos de la presente Ley, para prestar al público el servicio de transporte de personas o cosas en los centros poblados y caminos del Estado de Sinaloa.
-
-###### ARTICULO 186.
-
-Para los efectos de esta Ley, es permiso el que se otorga a una persona, en virtud de una concesión de servicio público de transporte para autorizar la unidad con la que prestará el servicio. Los permisos podrán ser de ruta o zona.
-
-###### ARTICULO 187.
-
-Es permiso de ruta la autorización que se otorgue para la explotación de un itinerario determinado, con vehículos y conductores especialmente capacitados y autorizados para ello.
-
-###### ARTICULO 188.
-
-Es permiso de zona la autorización que se otorgue para la explotación de un área determinada del territorio del Estado, con vehículos y conductores especialmente destinados y capacitados para ello.
-
-###### ARTICULO 189.
-
-Las concesiones para explotar el servicio público de transporte en el Estado, se otorgarán a las personas físicas y morales, y se expedirán en forma individual o colectiva.
-
-###### ARTICULO 190.
-
-Cuando dos o más personas pretendan obtener una concesión colectiva, deberán estar constituidas en persona moral, de acuerdo con las leyes respectivas, cuyo objeto y naturaleza jurídica le permita ser concesionaria para la explotación del servicio de transporte.
-
-###### ARTICULO 191.
-
-Los permisos de ruta o zona que se expidan para las concesiones a personas morales atenderán a la naturaleza jurídica de las mismas, y en su caso se autorizarán individualmente.
-
-Los permisos de ruta o zona que se expidan para las concesiones a personas físicas siempre serán individuales.
-
-###### ARTICULO 192.
-
-Las personas físicas o morales sólo podrán ser titulares de una concesión de servicio público de transporte, con el número de permisos que las necesidades del servicio lo requiera a juicio de las Autoridades de Tránsito y Transportes.
-
-###### ARTICULO 193.
-
-Las personas físicas sólo podrán ser titulares de tres permisos como máximo conforme a lo establecido en esta Ley.
-
-###### ARTICULO 194.
-
-Las concesiones para explotar el servicio público de transporte se concederán preferentemente a quien garantice la prestación del servicio en las condiciones de calidad requeridas por esta Ley y sus Reglamentos.
-
-Entre las personas morales que garanticen la calidad del servicio a que se refiere el párrafo anterior, se encuentran las uniones, alianzas, sindicatos, sociedades cooperativas y mercantiles de trabajadores del volante legalmente constituidas, ya concesionadas o por concesionar.
-
-###### ARTICULO 195.
-
-La preferencia a que se refiere el artículo anterior tendrá validez siempre y cuando, a juicio del Ejecutivo del Estado, no se propicie el establecimiento de monopolios.
-
-###### ARTICULO 196.
-
-Tratándose de concesiones otorgadas a Sindicatos, Sociedades Cooperativas, Alianzas y otras agrupaciones semejantes, en la autorización de los permisos gozarán de preferencia los trabajadores del volante que tengan mayor antigüedad laborando ininterrumpidamente en el transporte público estatal.
-
-###### ARTICULO 197.
-
-Para los efectos de esta Ley y su Reglamento, se entienden por trabajadores del volante a todas aquellas personas que tienen como principal fuente de ingresos el producto de su trabajo personal desarrollado en alguna rama del transporte.
-
-###### ARTICULO 198.
-
-El número de concesiones o permisos en determinada ruta o zona, estará limitado por las características de vialidad y transporte de las mismas y por las necesidades socio-económicas de la población a beneficiar en relación al servicio ya concesionado.
-
-###### ARTICULO 199.
-
-Para fijar el número de permisos que deban explotarse en cada una de las rutas o zonas concesionadas, se estudiará el número de vehículos que sean necesarios para prestar en forma eficiente el servicio público de transporte y procurando que los autorizados para explotar la ruta o zona obtengan ingresos justos, así como las cantidades necesarias para reponer y mantener en condiciones apropiadas los vehículos destinados al servicio.
-
-###### ARTICULO 200.
-
-Las concesiones tendrán una vigencia máxima de 25 años. Los permisos sujetarán su vigencia a la de la concesión de la que emanen.
-
-###### ARTICULO 201.
-
-En caso de terminación de la vigencia de una concesión, tendrán preferencia para obtenerla de nuevo, concesionarios que la estén explotando, en igualdad de circunstancias.
-
-###### ARTICULO 202.
-
-Cuando un concesionario o permisionario no pueda hacerse cargo de la prestación del servicio, la autoridad estatal para garantizar su prestación podrá autorizarle a otra persona.
-
-### CAPITULO III. DE LOS TIPOS DE SERVICIO PUBLICO
-
-###### ARTICULO 203.
-
-Las concesiones para utilización de las calles, caminos y vías de jurisdicción estatal en la explotación de los servicios públicos de transporte, podrán otorgarse para cualquiera de los servicios siguientes:
-
-I. Transporte de personas:
-
-A). Servicio de primera de lujo;
-
-B). Servicio de primera;
-
-C). Servicio de segunda;
-
-II. Transporte de carga:
-
-A). Servicio de carga en general;
-
-B). Servicio de carga express;
-
-C). Servicio de carga especial;
-
-###### ARTICULO 204.
-
-El servicio de primera de lujo del transporte de personas, deberá prestarse en vehículos cerrados, dotados de equipo especial que garantice condiciones de atención, comodidad, rapidez, seguridad y servicios adicionales.
-
-###### ARTICULO 205.
-
-El servicio de primera del transporte público de personas, será aquel que se preste en vehículos cerrados y en buenas condiciones de comodidad, higiene, rapidez y seguridad a juicio de las Autoridades de Tránsito y Transportes.
-
-###### ARTICULO 206.
-
-El servicio de segunda del transporte público de pasajeros, será aquél que se preste en vehículos abiertos o cerrados en condiciones aceptables de comodidad, higiene, rapidez y seguridad, a juicio de las Autoridades de Tránsito y Transportes.
-
-###### ARTICULO 207.
-
-El servicio de transporte público de personas, podrá prestarse en la modalidad de turismo cuando tenga como finalidad la traslación de personas a lugares de interés turístico, arqueológico, arquitectónico, panorámico, ecológico, artístico o de placer.
-
-Este servicio deberá prestarse en vehículos cerrados, en buenas condiciones de comodidad, rapidez, seguridad e higiene y acondicionado específicamente para la actividad turística.
-
-###### ARTICULO 208.
-
-Se entiende por servicio público de transporte de carga en general, el destinado al traslado de mercancías, materiales de construcción, animales y objetos en los términos y condiciones que señala esta Ley y sus Reglamentos.
-
-###### ARTICULO 209.
-
-El servicio público de transporte express será el que se realice en vehículos cerrados, para el traslado de bultos y paquetes pequeños, dentro de los centros poblados.
-
-###### ARTICULO 210.
-
-Es servicio especial de transporte público de carga, aquel que a juicio de la Autoridad de Tránsito y Transportes requiera equipo especial del vehículo y especialización del conductor para su traslado, en virtud de las precauciones que se deben tomar atendiendo a la naturaleza misma de la carga.
-
-###### ARTICULO 211.
-
-Para la prestación del servicio público de transporte de personas en automóvil de alquiler o taxi, serán aplicables en lo conducente, las disposiciones que rigen a otros tipos de servicio público de autotransporte de personas, regulados por esta Ley y su Reglamento, debiendo determinarse al momento del otorgamiento de la concesión, el lugar de la ubicación del sitio de automóviles de alquiler.
-
-###### ARTICULO 212.
-
-El servicio a que se refiere el artículo anterior se prestará en una zona determinada y mediante el cobro de las tarifas autorizadas.
-
-###### ARTICULO 213.
-
-El transporte público de personal a los campos agrícolas y empresas, es aquél de segunda que se presta en vehículos abiertos o cerrados, con las garantías de seguridad necesarias que se den por zona o regiones del Estado de Sinaloa. Su operación estará prevista en el Reglamento de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
-
-ARTICULO 213 BIS. El Estado vigilará que los concesionarios de transporte público de personal a los campos agrícolas, así como sus conductores y los patrones que contraten a estos, se apeguen en lo conducente a la presente Ley y su Reglamento, y a la legislación laboral según sea el caso.
-
-Queda prohibido el transporte al trabajo a los campos agrícolas a menores de dieciocho años.
-
-Es obligación del concesionario para prestar este servicio público, así como de los conductores y los patrones en su caso, asegurarse del cumplimiento de lo dispuesto en el párrafo anterior.
-
-Las autoridades de tránsito deberán dar aviso de inmediato a la Dirección de Trabajo y Previsión Social cuando de la aplicación de esta Ley y su Reglamento detecten que se está incumpliendo con lo dispuesto en este artículo a efecto de que se inicien las acciones y procedimientos correspondientes.
-
-###### ARTICULO 214.
-
-Los automóviles de alquiler deberán llevar en lugar visible las tarifas autorizadas o un aparato aprobado por Tránsito y Transportes que registre el precio por el servicio.
-
-### CAPITULO IV. DEL TRANSPORTE URBANO DE PASAJEROS
-
-###### ARTICULO 215.
-
-El servicio de transporte urbano de pasajeros será de ruta dentro de la que se establecerán las modalidades que sean acordes a las necesidades y desarrollo urbano.
-
-El Ejecutivo del Estado promoverá y reglamentará la organización de los prestadores de dicho servicio, con la finalidad de que estén en posibilidad de administrarla y adquirir en común los equipos e insumos necesarios.
-
-###### ARTICULO 216.
-
-Para la prestación de este tipo de servicio, se dará prioridad a la autorización de unidades de mayor capacidad.
-
-### CAPITULO V. DEL TRANSPORTE DE BEBIDAS ALCOHOLICAS
-
-###### ARTICULO 217.
-
-Para la transportación de bebidas alcohólicas se requerirán las autorizaciones de Tránsito y Transportes y de la Dependencia Estatal responsable, observándose lo dispuesto por la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Sinaloa.
-
-###### ARTICULO 218.
-
-Los permisos expedidos para el transporte de Bebidas Alcohólicas se revocarán por la violación a las disposiciones de la presente Ley y su Reglamento.
-
-###### ARTICULO 219.
-
-En la revalidación de los permisos para el transporte de bebidas alcohólicas, se estará a lo dispuesto, en cuanto a obligaciones fiscales, por la Ley de Hacienda del Estado de Sinaloa.
-
-### CAPITULO VI. DEL TRANSPORTE EXCLUSIVO DE TURISMO
-
-###### ARTICULO 220.
-
-Para la prestación del servicio de transporte para el turismo, se requerirá autorización del Ejecutivo del Estado.
-
-###### ARTICULO 221.
-
-El servicio de transporte de turismo, sólo se prestará hacia puntos catalogados como de interés turístico.
-
-###### ARTICULO 222.
-
-La Dependencia competente, cuando exista demanda extraordinaria del servicio exclusivo de turismo podrá autorizar provisionalmente a los concesionarios o permisionarios de otros servicios, que dispongan del equipo adecuado, para que efectúen ese servicio de acuerdo con las condiciones que en cada caso se establezcan.
-
-###### ARTICULO 223.
-
-El personal, operadores y ayudantes en la prestación del servicio exclusivo de turismo, deberá satisfacer los requisitos que al efecto señale la Autoridad de Tránsito y Transportes, conforme a los ordenamientos sobre la materia.
-
-### CAPITULO VII. DE LAS AUTORIZACIONES PARA EL TRANSPORTE PARTICULAR DE CARGA O PERSONAS
-
-###### ARTICULO 224.
-
-Se considera como transporte particular aquel que traslade, sin retribución, carga que pertenezca al propietario del vehículo, o transporte personas que tengan con aquél una relación de dependencia directa o inmediata de naturaleza económica, educativa o cultural, o bien relacionada con la prestación directa de un servicio en el que el transporte sea un mero accesorio, considerándose entre otros el traslado de:
-
-I. Educandos por la propia institución educativa;
-
-II. Trabajadores por su patrón;
-
-III. Lo relacionado con los servicios que presten las empresas fúnebres;
-
-IV. Vehículos por unidades dotadas con grúa;
-
-V. Productos o artículos propios y conexos a las actividades comercial, industrial, agropecuaria, forestal, pesquera, minera y de la construcción;
-
-VI. Líquidos o gaseosos, en vehículos especiales denominados pipas o tanques; y
-
-VII. Personas o cosas, en casos similares a los anteriores, a juicio de la Dependencia competente.
-
-###### ARTICULO 225.
-
-A las empresas constructoras y a las de compra y venta de materiales para la construcción, se les podrá autorizar el transporte de sus elementos, maquinaria, personal, o demás equipo que sea de su propiedad y lo requieran para el desarrollo de su actividad, en tanto dichos elementos formen parte del activo fijo de la empresa.
-
-### CAPITULO VIII. DE LOS PERMISOS EVENTUALES DE RUTA O ZONA
-
-###### ARTICULO 226.
-
-La Autoridad de Tránsito y Transportes podrá expedir permisos eventuales de ruta o zona para la prestación del servicio público del transporte.
-
-###### ARTICULO 227.
-
-La autorización de los permisos de ruta o zona eventuales a que se refiere el artículo anterior se otorgarán en igualdad de condiciones de calidad, en los términos establecidos en el Reglamento.
-
-### CAPITULO IX. DE LAS UNIDADES PARA EL TRANSPORTE
-
-###### ARTICULO 228.
-
-Las unidades destinadas a la prestación del servicio público de transporte, deberán satisfacer para su autorización los requisitos que establezcan la presente Ley y su Reglamento; en tanto no se cumpla con los mismos, no podrá prestarse el servicio.
-
-###### ARTÍCULO 229.
-
-Las unidades destinadas a la prestación del servicio público de transporte portarán para su fácil identificación, el color o combinación de colores, número de permiso y razón social, placas y número económico, si procediere en su caso, establecidos por la Autoridad de Tránsito y Transportes.
-
-En los tipos de servicio que así lo requieran, deberán contar con el equipo adicional y especializado necesario para el servicio autorizado.
-
-### CAPITULO X. DE LAS SOLICITUDES DE CONCESIONES Y PERMISOS DE RUTA O ZONA Y SU TRAMITACIÓN
-
-###### ARTICULO 230.
-
-Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte, permisos de ruta o zona, deberán satisfacer los requisitos que señala la presente Ley y su Reglamento.
-
-###### ARTICULO 231.
-
-Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte o permisos de ruta o zona, se deberán presentar ante la Autoridad de Tránsito y Transportes, dándoseles la debida publicidad a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso solicitado.
-
-El costo de los trámites, publicaciones y estudios realizados, en virtud de una solicitud, serán cubiertos por los interesados conforme a lo previsto por la Ley de Hacienda del Estado.
-
-###### ARTICULO 232.
-
-No podrá otorgarse concesión, permiso de ruta o zona, sin la previa realización de los estudios socioeconómicos y técnicos que fundamenten la resolución correspondiente.
-
-En el otorgamiento de concesiones nuevas se contará con la opinión favorable del órgano técnico a que se refiere el Artículo 4 de la presente Ley.
-
-###### ARTICULO 233.
-
-El Ejecutivo del Estado podrá otorgar mediante convocatoria, concesiones de servicio público de transporte, cuando se requiera establecer un servicio que tenga características especiales, para satisfacer las necesidades de la ruta o zona de que se trate, o así lo exija el interés social.
-
-###### ARTICULO 234.
-
-El Ejecutivo del Estado podrá decretar el cierre de una ruta o zona, respecto de algún tipo de transporte, cuando ésta se encuentre debidamente atendida. Aún cuando dicho cierre no se hubiere decretado, podrá negar las solicitudes que se presenten cuando el servicio que se pretende prestar se encuentre satisfecho.
-
-###### ARTICULO 235.
-
-Cuando en una ruta o zona cerrada se decrete la apertura de la ruta o zona, se aumentará el número de vehículos, correspondiendo al Ejecutivo del Estado, previo estudio, resolver lo conducente.
-
-###### ARTICULO 236.
-
-En igualdad de condiciones, se otorgarán las concesiones o permisos de ruta o zona, según el orden cronológico de la prestación y publicación de la solicitud.
-
-### CAPITULO XI. DE LOS HORARIOS, ITINERARIOS, ZONAS Y TARIFAS
-
-###### ARTICULO 237.
-
-La autorización por el Ejecutivo del Estado para la implantación de horarios, itinerarios, zonas y tarifas, deberá regirse por las disposiciones de este capítulo.
-
-Los permisos de horarios e itinerarios se darán por conducto de la Autoridad de Tránsito y Transportes.
-
-###### ARTICULO 238.
-
-Todo concesionario o permisionario, deberá recabar la aprobación de la Autoridad de Tránsito y Transportes para los horarios de su ruta, señalando horas de llegada y salida de cada uno de los puntos de la misma. Esta disposición será obligatoria para el servicio urbano, suburbano y foráneo de pasajeros.
-
-###### ARTICULO 239.
-
-Las tarifas que se cobren a los usuarios de las diferentes clases de servicios, deberán autorizarse por el Ejecutivo del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 1997)</small>
-
-Las tarifas se revisarán durante el segundo bimestre de cada año.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
-
-Los proyectos de modificación o autorización que vayan a ser sometidos a la decisión del Ejecutivo, deberán contar con la opinión fundamentada del órgano técnico a que se refiere el artículo 4 de la presente Ley.
-
-###### ARTICULO 240.
-
-Las zonas aprobadas por el Ejecutivo del Estado sólo podrán ser modificadas por él mismo, acorde a las necesidades del servicio.
-
-###### ARTICULO 241.
-
-En la formulación y aplicación de las tarifas, horarios e itinerarios, se observará siempre igualdad de tratamiento para todos los que se encuentren en las mismas condiciones, procurando satisfacer especialmente las necesidades del usuario.
-
-###### ARTICULO 242.
-
-La vigencia de las tarifas, horarios, itinerarios y zona será indefinida, de acuerdo con la concesión o permiso, pero el Ejecutivo podrá en cualquier momento modificarlas, por causa de interés social, oyendo previamente a los interesados y realizando los estudios que procedan.
-
-###### ARTICULO 243.
-
-Cuando exista un conflicto entre dos o más concesionarios o permisionarios por motivo de zonas, horarios o itinerarios, compete a Tránsito y Transportes conocerlo y oyendo a las partes, resolverá en definitiva.
-
-Al resolver la autoridad los supuestos anteriores, valorará la calidad, eficacia y eficiencia del servicio, así como el trato personal que brinden a los usuarios los concesionarios o permisionarios.
-
-###### ARTICULO 244.
-
-No habiendo transporte específico de turismo, los concesionarios o permisionarios podrán convencionalmente establecer tarifas cuando se trate de viajes de recreo.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
-
-###### ARTICULO 245.
-
-Los estudiantes de escuelas públicas de los tipos básico, medio superior y superior, recibirán en el transporte urbano, suburbano y foráneo, descuentos del cincuenta por ciento de descuento de la tarifa autorizada los días hábiles de lunes a viernes, durante el ciclo escolar. Este descuento se aplicará también los días sábados en que los estudiantes deban asistir a los planteles educativos.
-
-La aplicación de los descuentos se hará previa identificación, mediante Tarjeta Inteligente de Identidad Estudiantil, que será expedida en los Centros de Credencialización autorizados mediante Decreto emitido por el Titular del Poder Ejecutivo del Estado.
-
-###### ARTICULO 246.
-
-En caso de movimiento de servidores públicos o agentes de policía de cualquiera corporación, debidamente identificados y en número no mayor de tres por unidad de transporte de servicio público, deberán ser transportados gratuitamente.
-
-###### ARTICULO 247.
-
-Las maniobras de carga, descarga y estiba que se ejecuten en las zonas de jurisdicción estatal, se consideran como actividades conexas al transporte. Las tarifas que rijan estos servicios deberán ser autorizadas por la Dependencia del Ejecutivo del Estado facultada para ello.
-
-### CAPITULO XII. DE LAS OBLIGACIONES DE CONCESIONARIOS Y PERMISIONARIOS
-
-###### ARTICULO 248.
-
-Todo concesionario o permisionario estará obligado a prestar el servicio público de transporte, con la correspondiente retribución de acuerdo con las tarifas aprobadas, con excepción de los casos establecidos por esta Ley.
-
-###### ARTICULO 249.
-
-Todo concesionario o permisionario tendrá la obligación de responder ante cualquier autoridad de las faltas en que incurran por sí mismos o por conducto de las personas de quienes se sirvan como conductores de los vehículos destinados a la prestación del servicio público.
-
-###### ARTICULO 250.
-
-Los concesionarios o permisionarios de cualquiera de los servicios públicos que autoriza la presente Ley, estarán obligados a:
-
-I. Cumplir con las estipulaciones que para la prestación de los servicios le fije la concesión respectiva, de acuerdo con esta Ley y disposiciones que por causa de interés social dicte el Ejecutivo del Estado;
-
-II. Cobrar por el transporte de personas o cosas el precio establecido en las tarifas aprobadas previamente por el Ejecutivo;
-
-III. Respetar los horarios e itinerarios fijados para la ruta, cuya explotación les haya sido autorizada, debiendo implantar medidas de supervisión y control, a efecto de cumplir con esta obligación;
-
-IV. Mantener los vehículos destinados al servicio en las condiciones de higiene, capacidad y seguridad que fije para cada caso la Autoridad de Tránsito y Transportes;
-
-V. Prestar servicios de emergencia gratuitamente cuando así lo requiera el Ejecutivo del Estado, en los casos de catástrofes o calamidades de que sean víctimas poblaciones o regiones;
-
-VI. En el caso de servicio exclusivo de turismo, señalar en el texto del boleto los servicios y prestaciones a los que el usuario tiene derecho y que tengan relación directa con el servicio turístico;
-
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
-
-VII. En el caso de servicio exclusivo de transporte público de personal y de empresas a los campos agrícolas, asegurarse que se respeten las obligaciones a las que se hacen referencia en el artículo 213 Bis de esta Ley.
-
-VIII. Vigilar que los conductores de los vehículos obtengan la licencia respectiva y cumplan con las disposiciones legales de la materia, siendo solidariamente responsables por la violación a este precepto con quienes tengan a su cargo la responsabilidad directa de la conducción de vehículos; y
-
-IX. Cumplir las demás obligaciones contenidas en esta Ley y sus Reglamentos.
-
-###### ARTICULO 251.
-
-Las personas morales, que por concesión del Ejecutivo del Estado exploten el servicio público de transporte, estarán obligadas a llevar un libro de registro de sus miembros, asignándoles a cada uno de ellos el número de orden que le corresponda. Asimismo deberán llevar un libro de actas debidamente foliado y autorizado por las autoridades de tránsito y transportes.
-
-###### ARTICULO 252.
-
-Las personas morales concesionarias, tienen la obligación de incluir en sus estatutos la forma en que los trabajadores se incorporarán como socios de la misma y la manera en que éstos últimos adquirirán un permiso.
-
-###### ARTICULO 253.
-
-Las personas que por concesión o permiso del Ejecutivo del Estado exploten el servicio público de transporte estarán obligados a asegurar a los pasajeros y carga, contra los riesgos que por accidente pudieran ocurrir con motivo del servicio.
-
-###### ARTICULO 254.
-
-En caso de emergencia, todos los propietarios de vehículos de servicio particular y público estarán obligados a brindar transporte gratuitamente a servidores públicos y agentes de cualquier corporación policiaca, previa identificación, ya sea que estén en servicio o cumplimiento de alguna comisión.
-
-###### ARTICULO 255.
-
-Los concesionarios o permisionarios estarán obligados a remitir semestralmente a la Autoridad de Tránsito y Transportes, informes estadísticos por mes sobre el transporte, número de pasajeros, volumen de carga que movilicen, señalando origen y destino.
-
-###### ARTICULO 256.
-
-Los concesionarios de transporte en el Estado, deberán contar con las estaciones intermedias y terminales que se requieran a juicio del Ejecutivo del Estado y que reúnan los requisitos señalados en esta Ley y su Reglamento.
-
-###### ARTICULO 257.
-
-El Ejecutivo del Estado oyendo a los interesados designará los lugares o estaciones para los vehículos en que se preste el servicio público de transporte foráneo. En los centros de importancia, si así lo requieren las necesidades del servicio, se establecerán estaciones centrales, terminales y de parada, las que deberán reunir las condiciones de seguridad e higiene necesarias y contar con servicios sanitarios para ambos sexos.
-
-###### ARTICULO 258.
-
-En los vehículos de servicio público de transporte de pasajeros no serán admitidos personas que ostensiblemente padezcan enfermedades infecto-contagiosas o se encuentran bajo la influencia de sustancias que alteren la normalidad de su conducta, o los que por falta de compostura en sus palabras o acciones lastimen el decoro de los pasajeros, alteren el orden o provoquen riñas y discusiones, así como aquellas que se presenten en notorio estado de suciedad, asimismo los que se encuentren en estado de ebriedad o ingieran bebidas embriagantes en su interior.
-
-###### ARTICULO 259.
-
-En vehículos de servicio público de pasajeros queda prohibido llevar animales, bultos, paquetes u otros análogos que por su condición, su volumen, aspecto, ruido o mal olor puedan causar molestias a los pasajeros, quienes podrán exigirle al conductor del vehículo y a los inspectores de transporte que se cumpla con lo establecido en este Artículo.
-
-### CAPITULO XIII. DERECHOS DE LOS USUARIOS
-
-###### ARTICULO 260.
-
-Todo usuario, a cambio del importe del pasaje, tendrá derecho a que se le preste el servicio de transporte y recibirá en las rutas foráneas un boleto en el que conste la clase de servicio, el precio y los puntos terminales. En las rutas urbanas el boleto contendrá el nombre de la ruta y el precio del pasaje.
-
-En el texto del boleto se asentará el nombre de la compañía con la que hubiere contratado el seguro de viajero y los derechos de los pasajeros en caso de accidente.
-
-###### ARTICULO 261.
-
-Los pasajeros tienen derecho a:
-
-I. Ocupar hasta el término de su viaje los asientos que le sean otorgados, aún cuando los abandonen momentáneamente en las terminales, tratándose de servicio foráneo;
-
-II. Exigir a los prestadores del servicio que se cumpla con las disposiciones de esta Ley y su Reglamento;
-
-III. Conservar en su poder los bultos que por su volumen o su naturaleza no ocasionen molestias o daños a los demás pasajeros;
-
-IV. Que se les admitan en vehículos de servicio foráneo; por concepto de equipaje y libre de porte por cada boleto, un máximo de veinte kilogramos;
-
-V. Exigir que se les dé un recibo amparando el equipaje, en servicio foráneo y urbano y que se les otorgue el boleto que ampare el viaje, documento que deberá conservar durante el trayecto; y
-
-VI. Exigir en caso de pérdida comprobada, tratándose de servicio foráneo, el pago del valor de su equipaje, conforme a las disposiciones contempladas en el Reglamento de la presente Ley.
-
-###### ARTICULO 262.
-
-El pasajero que no pueda presentar el recibo que le hubiere sido expedido al entregar su equipaje, sólo podrá retirarlo si identifica satisfactoriamente su contenido.
-
-### CAPITULO XIV. DE LA CESION, TRANSIMISION (SIC), ANULACION Y REVOCACION DE LAS CONCESIONES Y PERMISOS
-
-###### ARTICULO 263.
-
-Las concesiones y permisos de ruta o zona son inembargables. Podrán ser cedidos o transmitidos en los casos y con los requisitos que establece el Reglamento de esta Ley siempre y cuando se acredite haberlos explotado por un lapso no menor a los dos años en su uso.
-
-###### ARTICULO 264.
-
-Cuando haya falsedad en los informes o documentos que se anexen a la solicitud, la concesión o permiso de ruta o zona se anulará sin perjuicio de aplicar al responsable las penas establecidas en las leyes respectivas.
-
-###### ARTICULO 265.
-
-Las concesiones y permisos de ruta o zona se revocarán, a juicio del Ejecutivo del Estado y por las siguientes causas:
-
-I. Porque se preste un servicio distinto al expresado en la concesión o permiso;
-
-II. Porque el servicio sea notoriamente deficiente o carezcan los vehículos de los requisitos de seguridad previstos en la presente Ley y sus Reglamentos;
-
-III. Por prestar el servicio fuera de la ruta o zona que exprese la concesión o permiso;
-
-IV. Por venta del vehículo o cambio de éste sin la autorización correspondiente;
-
-V. Por suspensión de servicio sin autorización previa, siempre y cuando dicha suspensión sea imputable al concesionario;
-
-VI. Por reincidencia en tercera ocasión del incumplimiento de su horario o tarifa u otras faltas análogas, a juicio de Tránsito y Transportes;
-
-VII. Por la comisión intencional de algún hecho delictuoso que merezca pena privativa de libertad, de parte del concesionario o permisionario, cuando el ilícito lo cometa con motivo o durante la prestación del servicio;
-
-VIII. Por haberse expulsado al permisionario de la agrupación concesionaria, según el procedimiento establecido en los estatutos respectivos y por causas previstas en éstos o por separarse voluntariamente de la organización.
-
-En caso de que el Ejecutivo del Estado no acuerde la revocación solicitada por la organización ésta perderá en favor del miembro expulsado el permiso individual de ruta o zona, debiéndose otorgar en ese caso la concesión correspondiente;
-
-IX. Porque la concesión o permiso hayan sido autorizados sin cumplir los requisitos que establece esta Ley y sus Reglamentos;
-
-X. Porque el concesionario o permisionario cambie su nacionalidad mexicana;
-
-XI. Por falta de liquidación dentro de los cuarenta y cinco días naturales siguientes a aquél en que sean exigibles los derechos fiscales correspondientes a la revalidación anual de los permisos o concesiones;
-
-XII. Por hacerse cargo el Gobierno del Estado de la prestación del servicio público de transporte en una ruta o zona directamente o a través de empresas descentralizadas, cuando lo exija así el interés social;
-
-XIII. Por transportar bebidas alcohólicas sin la autorización respectiva;
-
-XIV. Por no cumplir con las sanciones que le sean impuestas, dentro del término al efecto señalado;
-
-XV. Por transportar estupefacientes, substancias psicotrópicas o substancias peligrosas sin autorización de autoridad competente, con conocimiento de ello por parte del concesionario o permisionario;
-
-XVI. Por realizar el concesionario o permisionario actos de compraventa o arrendamiento de los derechos emanados de la concesión o permiso;
-
-XVII. Por no registrar la unidad con la cual se prestará el servicio dentro del término señalado por el reglamento, y
-
-XVIII. En los demás casos que establezca esta Ley o su Reglamento o que lo exija el interés social y el orden público.
-
-###### ARTICULO 266.
-
-Toda persona física o moral que haya sido titular de una concesión o permiso de ruta o zona del servicio público de transporte y que haya dejado de serlo por cesión, anulación o revocación, no podrá obtener la titularidad de otro en un término de cinco años.
-
-### CAPITULO XV. DE LA VIGILANCIA DEL SERVICIO PUBLICO DE TRANSPORTE
-
-###### ARTICULO 267.
-
-Para la vigilancia del servicio público de transporte, la Autoridad competente contará con el número de inspectores que el Ejecutivo del Estado considere necesario, los cuales tendrán las siguientes facultades:
-
-I. Vigilar el cumplimiento y aplicación de horarios, itinerarios, zonas y tarifas y demás disposiciones que señale la Dependencia competente;
-
-II. Vigilar las condiciones de seguridad, comodidad e higiene de las terminales y vehículos destinados a la prestación del servicio público de transporte;
-
-III. Informar sobre los traspasos y ventas clandestinas de concesiones o permisos de ruta o zona;
-
-IV. Realizar las actividades necesarias para el control, cumplimiento y mejoramiento de la prestación del servicio;
-
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
-
-V. Levantar las actas necesarias para hacer constar las transgresiones, a la legislación que en materia de transporte de servicio público se cometan; así como las violaciones a los ordenamientos jurídicos en materia laboral, en términos de lo dispuesto por el artículo 213 Bis, procediendo de conformidad con lo previsto en el artículo 170, segundo párrafo de la presente Ley; y
-
-VI. Impedir la conducción y circulación de los vehículos de transportes, en los casos que esta Ley y su Reglamento señalan.
-
-###### ARTICULO 268.
-
-En la vigilancia del servicio público de transporte, participarán también los agentes de tránsito del Estado, en los términos de la presente Ley y su Reglamento.
-
-### CAPITULO XVI. DE LAS SANCIONES EN LA MATERIA DE TRANSPORTE
-
-###### ARTICULO 269.
-
-Las violaciones a lo dispuesto en esta Ley y su Reglamento que se refieran a la explotación del servicio público de transporte, se sancionarán en los términos del presente Capítulo.
-
-###### ARTICULO 270.
-
-Atendiendo a su gravedad, la autoridad de Tránsito y Transportes podrá aplicar por las transgresiones a la presente Ley y su Reglamento, sanciones consistentes en la detención de la unidad, detención y retiro de los documentos, placas y tarjeta de circulación, o sanciones económicas de conformidad con el tabulador de infracciones correspondiente.
-
-###### ARTICULO 271.
-
-La aplicación de horarios, itinerarios, tarifas y demás circunstancias relacionadas con el servicio público de transporte, que no tengan la aprobación del Ejecutivo del Estado, se sancionarán con multas que variarán del importe de uno a treinta días de salario mínimo general vigente en la zona económica en que se cometa la infracción a juicio de la Autoridad de Tránsito y Transportes.
-
-###### ARTICULO 272.
-
-A los propietarios de vehículos particulares, que eventualmente hagan en ellos servicio público de transporte de pasaje o carga, sin contar con la autorización respectiva en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de uno a sesenta días de salario mínimo general a juicio de tránsito y transportes.
-
-###### ARTICULO 273.
-
-La violación a las disposiciones de los artículos 264, 265 y 266 de esta Ley, se sancionarán con anulación o revocación de la concesión o permiso de ruta o zona, según corresponda.
-
-###### ARTICULO 274.
-
-Las infracciones a la presente Ley que no tengan señalada sanción especial estarán sujetas a multa y su monto será fijado dentro de los límites comprendidos de uno a treinta días de salario mínimo general vigente, acorde a la gravedad de la falta a juicio de la Autoridad de Tránsito y Transportes.
-
-###### ARTICULO 275.
-
-El que sin concesión o permiso del Ejecutivo del Estado explote regularmente vías estatales de comunicación, perderá en beneficio del Gobierno del Estado las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación, pagando además multa que variará de uno a sesenta días del salario mínimo general a juicio de tránsito y transportes.
-
-###### ARTICULO 276.
-
-Cuando el conductor de las unidades destinadas a la prestación del servicio público de transporte de pasajeros, adopte una conducta que implique faltas a la moral y al buen trato que se debe dar a los usuarios, previa comprobación de la falta, se le multará y cancelará la licencia o certificado de aptitud, según proceda.
-
-###### ARTICULO 277.
-
-Los concesionarios y permisionarios del servicio público de transporte que no proporcionen los datos a que se hace referencia en el Artículo 255, se harán acreedores a una sanción de cinco a treinta días de salario mínimo general vigente, la que podrá incrementarse hasta un 50% en caso de reincidencia.
-
-###### ARTICULO 278.
-
-El Ejecutivo del Estado expedirá, revocará, modificará o adicionará el tabulador de infracciones y sanciones económicas correspondientes, cuando a su juicio sea necesario.
-
-###### ARTICULO 279.
-
-Con la finalidad de hacer efectivo el pago de las sanciones económicas impuestas al concesionario o permisionario, las autoridades de Tránsito y Transportes podrán solicitar a la Secretaría de Hacienda Pública y Tesorería del Estado, utilizar el Procedimiento Administrativo de Ejecución previsto por la Ley de Hacienda del Estado de Sinaloa.
-
-###### ARTICULO 280.
-
-Cuando el infractor cometa varias transgresiones a la Ley en un mismo acto, se le acumularán las sanciones correspondientes a cada una de ellas, no debiendo exceder de treinta días de salario.
-
-###### ARTICULO 281.
-
-Cuando conste que el infractor ha incurrido en la misma falta en el lapso de un año, será considerado como reincidente y la multa se aumentará hasta en un 50%.
-
-###### ARTICULO 282.
-
-La acción para imponer sanciones por infracciones a las disposiciones del presente ordenamiento, prescribirá en un año contado a partir del día en que se cometan. Impuestas las sanciones por infracciones a este ordenamiento, prescribirán en el mismo tiempo.
-
-###### ARTICULO 283.
-
-El pago de las sanciones económicas deberá hacerse en las recaudaciones de rentas o en las oficinas que dependan de esta o sean autorizadas por las mismas.
-
-###### ARTICULO 284.
-
-El incumplimiento injustificado e inoportuno de las resoluciones que se dicten en aplicación de la presente Ley y su Reglamento, será sancionado con multa de uno a sesenta días de salario mínimo general regional, pudiendo cancelarse además la concesión o permiso a juicio del Ejecutivo del Estado.
-
-### CAPITULO XVII. DE LOS RECURSOS
-
-###### ARTICULO 285.
-
-En contra de las actas de infracción levantadas por los inspectores de la Dependencia competente, se podrá interponer el recurso de inconformidad, dentro de un término de tres días hábiles contados a partir de la fecha en que se notifique la resolución recurrida, o a partir del día en que se tenga conocimiento del acto que se impugna, ante las Delegaciones Regionales o ante la propia Autoridad de Tránsito y Transportes.
-
-###### ARTICULO 286.
-
-En contra de las resoluciones en que se establezcan modificaciones o modalidades a las concesiones o permisos de ruta o zona, él o los afectados podrán promover dentro de los quince días siguientes al de su notificación o al de la fecha en que se tenga conocimiento de la resolución, el recurso de revisión ante la Autoridad de Tránsito y Transportes.
-
-###### ARTICULO 287.
-
-El trámite de los recursos previstos en este capítulo se sustanciará de conformidad con los procedimientos que se establezca (sic) en el Reglamento de la presente Ley.
-
-###### ARTICULO 288.
-
-Fuera de lo establecido en los artículos precedentes no procederá recurso alguno en contra de las actuaciones y resoluciones que se practiquen o dicten en aplicación de esta Ley y su Reglamento.
-
-### CAPITULO VII. DE LA CONDUCCION Y CIRCULACION DE LOS VEHICULOS
-
-###### ARTICULO 84.
-
-Todo usuario de las vías públicas está obligado a observar las disposiciones contenidas en la presente ley y su Reglamento. Las indicaciones de los dispositivos para el control del tránsito complementan las reglas de circulación.
-
-###### ARTICULO 85.
-
-Todo vehículo para circular sobre calles y caminos del Estado, debe cumplir con los requerimientos de peso y dimensiones que se señalan en la presente Ley y su Reglamento.
-
-###### ARTICULO 86.
-
-Todo vehículo que transite por la vía pública en el Estado, deberá encontrarse en condiciones satisfactorias de funcionamiento, provisto de los dispositivos que exigen esta Ley y su Reglamento y contar con seguro automotriz vigente, expedido por compañía autorizada legalmente para ello, que garantice al menos daños a terceros que se pudieran ocasionar con el vehículo. En caso contrario, las autoridades de tránsito aplicarán las sanciones correspondientes.
-
-###### ARTICULO 87.
-
-Para conducir un vehículo automotor es necesario estar en pleno uso de sus facultades físicas y mentales y portar la licencia de manejar que ampare la operación del vehículo y servicio de que se trate.
-
-###### ARTICULO 88.
-
-Queda prohibido a toda persona conducir un vehículo en estado de ebriedad o bajo la influencia de cualquier droga o substancia tóxica que disminuya en forma notable su aptitud para conducir, aún cuando por prescripción médica esté autorizado para su uso.
-
-###### ARTICULO 89.
-
-Los conductores deben tener cuidado para evitar atropellamientos o accidentes de tránsito, guardando la distancia prudente de vehículo a vehículo; y cuando observen sobre el arroyo de la vía pública a cualquier persona deberán disminuir su velocidad hasta el mínimo.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
-
-###### ARTICULO 90.
-
-Al manejar, todo conductor y sus acompañantes deberán tener el cinturón de seguridad ajustado. Si el acompañante es un infante, deberá hacerlo de la manera siguiente:
-
-I. Los infantes con un peso hasta de 10 kilos, deberán ir en silla de seguridad, colocada en la parte posterior mirando hacia atrás;
-
-II. Los infantes con un peso de 10 hasta 16 kilos, deberán ir en el asiento trasero con silla de seguridad mirando hacia adelante;
-
-III. Los infantes con un peso de más de 16 kilos, con estatura menor a ciento cuarenta y cinco centímetros, deberán viajar en el asiento trasero, colocados en asientos elevados y sujetados con el cinturón de seguridad.
-
-Queda prohibido circular con menores de 12 años de edad situados en los asientos delanteros del vehículo, salvo que se utilicen dispositivos homologados al efecto. Excepcionalmente, cuando la estatura del infante sea igual o superior a los ciento cuarenta y cinco centímetros, los menores de doce años podrán utilizar como tal dispositivo el propio cinturón de seguridad para adultos de que estén dotados los asientos delanteros.
-
-Los conductores cuando presten el servicio público de transporte a terceros, no se considerarán responsables del incumplimiento de esta disposición por parte de los ocupantes del vehículo.
-
-Los motociclistas y sus acompañantes deberán portar el casco protector.
-
-###### ARTICULO 91.
-
-De los hechos de tránsito deberán tomar conocimiento las autoridades de tránsito elaborando el parte respectivo. En todo caso la intervención y conocimiento se hará sin crear peligro para la circulación, tomando las providencias necesarias a fin de señalar y proteger el lugar del accidente para preservar los indicios que se encuentren en el lugar de los hechos.
-
-###### ARTICULO 92.
-
-Al presentarse un hecho de tránsito, los interesados podrán convenir ante las autoridades de tránsito sobre la reparación del daño y pago de curaciones cuando se presenten las siguientes circunstancias:
-
-I. Hayan resultado sólo daños o lesiones que tarden en sanar menos de quince días y no ponen en peligro la vida o ambos; previo dictamen médico que se adjuntará al parte oficial del hecho;
-
-II. Ninguno de los conductores se haya dado a la fuga; y
-
-III. Ninguno de los conductores se encuentre en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas.
-
-###### ARTICULO 93.
-
-Cuando en un hecho de tránsito no proceda convenio o no se hayan logrado éste entre las partes, con el parte respectivo la autoridad de tránsito pondrá al presunto o presuntos responsables y los vehículos a disposición del ministerio público.
-
-###### ARTICULO 94.
-
-Las indicaciones de la policía de tránsito prevalecen sobre los dispositivos para el control de vehículos o sobre la normatividad que rige la circulación, pudiendo por necesidades del servicio actuar en forma diversa a lo estipulado por esta Ley y su Reglamento.
-
-###### ARTICULO 95.
-
-Para la realización de eventos deportivos sobre la vía pública, tránsito de caravanas de vehículos que afecten la libre circulación en calles y caminos, deberá obtenerse autorización oficial de las autoridades de tránsito, solicitada con la debida anticipación.
-
-###### ARTICULO 96.
-
-Queda prohibido a los conductores de vehículos y peatones entorpecer la marcha de columnas militares, escolares, desfiles cívicos o manifestaciones públicas o cruzar las filas de éstas.
-
-###### ARTICULO 97.
-
-Los conductores abastecerán sus vehículos de combustible con el motor apagado. Los de servicio público lo harán sin pasajeros a bordo.
-
-###### ARTICULO 98.
-
-Ningún vehículo debe llevar personas a bordo cuando sea transportado por otro, tampoco debe llevarlas cuando sea remolcado por otro vehículo excepto el conductor cuando la maniobra lo haga necesario.
-
-###### ARTICULO 99.
-
-Queda prohibido a los conductores de vehículos transitar sobre las rayas longitudinales marcadas en la superficie de rodamiento que delimitan los carriles de circulación.
-
-###### ARTICULO 100.
-
-Ningún vehículo debe ser conducido a través o dentro de una isleta, sus marcas de aproximación o zonas de seguridad para peatones.
-
-###### ARTICULO 101.
-
-Para circular en torno a una plataforma circular, los vehículos deberán ser conducidos dejando a la izquierda el centro de la misma.
-
-###### ARTICULO 102.
-
-Cuando un vehículo circule en una vía de dos carriles con circulación en ambos sentidos, el conductor deberá tomar su extrema derecha al encontrar un vehículo que transite en sentido opuesto.
-
-###### ARTICULO 103.
-
-Cuando la vía esté dividida en tres carriles para el tránsito de vehículos en ambos sentidos, éstos deberán ser conducidos por el carril derecho, sólo podrán ocupar transitoriamente el carril central para rebasar.
-
-###### ARTICULO 104.
-
-Cuando la superficie de rodamiento de una vía esté dividida longitudinalmente por un espacio o una barrera de seguridad o un camellón, ningún vehículo transitará o cruzará por el espacio divisorio ni se estacionará en o junto a éste.
-
-###### ARTICULO 105.
-
-En intersecciones o zonas marcadas para el paso de peatones donde no haya semáforos ni agentes que regulen la circulación, los conductores cederán el paso a los peatones que se encuentren sobre la parte de la superficie de rodamiento correspondiente al sentido de circulación del vehículo; en vías de doble sentido donde no haya refugio central para peatones, también deberán ceder el paso a los que se aproximen provenientes de la parte de la superficie de rodamiento correspondiente al sentido opuesto.
-
-###### ARTICULO 106.
-
-El conductor de un vehículo que se acerque a una intersección donde no existan señalamientos, deberá hacer alto y cederá el paso a todo vehículo que ya se encuentre ostensiblemente dentro de dicha intersección.
-
-###### ARTICULO 107.
-
-En los cruceros donde no haya policía de tránsito que regule la circulación; semáforo o habiéndolo no funcione, se observarán las siguientes disposiciones:
-
-I. Todo conductor que se aproxime al crucero deberá hacer alto y ceder el paso a aquellos vehículos que se aproximen por su lado derecho;
-
-II. En intersecciones en las cuales se crucen una vía de doble sentido con una de un sólo sentido, el conductor que se aproxime por ésta última cederá el paso al vehículo que circule por la vía de doble sentido;
-
-III. Cuando una de las vías que convergen en un crucero sea de mayor amplitud que la otra o tenga notoriamente mayor volumen de tránsito, el conductor que circule por la vía de menor amplitud o tránsito deberá ceder el paso; y
-
-IV. En intersecciones con superficie de rodamiento diferentes el conductor que circule por la vía no pavimentada cederá el paso al que lo haga por la vía que sí lo está.
-
-###### ARTICULO 108.
-
-Cuando en calles o caminos de doble circulación el conductor de un vehículo pretenda dar vuelta a su izquierda, está obligado a ceder el paso a los vehículos que circulen de frente.
-
-###### ARTICULO 109.
-
-Todo conductor deberá ceder el paso a los vehículos que se desplazan sobre rieles.
-
-###### ARTICULO 110.
-
-Todo conductor al aproximarse a un cruce de ferrocarril, deberá hacerlo a velocidad moderada y no cruzará la vía férrea hasta cerciorarse de que no se aproxima ningún vehículo que circule sobre los rieles.
-
-###### ARTICULO 111.
-
-Al circular los vehículos de seguridad pública y de emergencia en uso de sus señales luminosas y audibles, los conductores les cederán el paso invariablemente y deberán ocupar dentro del carril derecho una posición paralela a la acera deteniendo la marcha.
-
-Tienen preferencia de paso los vehículos que prestan los servicios siguientes siempre y cuando circulen en uso de sus luces y sonido de urgencia:
-
-I. Bomberos;
-
-II. Ambulancias; y
-
-III. Vehículos de policía.
-
-###### ARTICULO 112.
-
-Cuando los conductores de los vehículos se encuentren en el caso señalado en el artículo anterior, en los lugares donde la circulación se efectúe por medio de zonas de alta velocidad deberán pasarse a la de baja haciendo alto.
-
-###### ARTICULO 113.
-
-Ningún conductor deberá seguir a un vehículo policial en servicio o de emergencia, ni detenerse o estacionarse a una distancia que afecte el equipo que se encuentre operando.
-
-###### ARTICULO 114.
-
-Ningún vehículo debe pasar sobre una manguera contra incendio sin protección, sin el consentimiento del personal de bomberos.
-
-###### ARTICULO 115.
-
-Los conductores de vehículos que al llegar a un crucero protegido por agentes o semáforos deseen dar vuelta a cualquier lado, tendrán la obligación de ceder el paso a los peatones que amparados en la misma señal crucen de una acera a otra.
-
-###### ARTICULO 116.
-
-El conductor que tenga que cruzar la acera para entrar o salir de una cochera, estacionamiento o calle privada o encontrándose iniciando la marcha al estar estacionado al margen de la acera o del acotamiento del camino, debe ceder el paso a peatones y vehículos.
-
-###### ARTICULO 117.
-
-Aunque los dispositivos para el control de tránsito lo permita, queda prohibido avanzar sobre una intersección cuando no haya espacio suficiente para que el vehículo deje libre dicha intersección para la circulación.
-
-###### ARTICULO 118.
-
-Ningún conductor deberá colocar su vehículo en o cerca de una curva o cima, donde no pueda ser visto por otro conductor, desde una distancia de seguridad de acuerdo a la velocidad máxima permitida en la vía.
-
-###### ARTICULO 119.
-
-Ninguna persona conducirá un vehículo por una vía pública a una velocidad mayor que la autorizada y prudente, tomando en consideración las condiciones del vehículo, del tránsito, del camino, de la visibilidad y del propio conductor, ni superior a los límites que esta Ley establece en su caso, excepción hecha de aquellos vehículos de emergencia cuando estén prestando un servicio de esta naturaleza al público.
-
-###### ARTICULO 120.
-
-Los vehículos policiales y de emergencia al estar prestando al público un servicio de esta naturaleza deberán accionar los dispositivos acústicos y de luces especiales de que estén provistos para indicar a los demás usuarios de la vía pública que requieren les sea cedido el paso.
-
-###### ARTICULO 121.
-
-Las autoridades de tránsito fijarán los límites máximos y mínimos de velocidad para la circulación de vehículos en calles, caminos y carreteras del Estado mediante los señalamientos correspondientes.
-
-###### ARTICULO 122.
-
-Los límites de velocidad máxima, cuando no haya señales que indiquen otros, serán de cuarenta kilómetros por hora en zonas urbanas y de noventa kilómetros por hora en zonas rurales despobladas. En áreas escolares y hospitalarias la velocidad máxima será de veinte kilómetros por hora.
-
-###### ARTICULO 123.
-
-Cuando un vehículo sea conducido a velocidad más lenta que la normal del tránsito, deberá circular por su extrema derecha.
-
-###### ARTICULO 124.
-
-En las vías públicas donde existan señaladas zonas de alta o baja velocidad para circular, los conductores de vehículos no podrán pasar de una a otra fuera de los lugares destinados para ello.
-
-###### ARTICULO 125.
-
-Los vehículos de tracción animal tienen prohibido circular por las calles o caminos de intenso tráfico y en el primer cuadro de las ciudades.
-
-###### ARTICULO 126.
-
-Queda prohibida la maniobra de retorno sobre la misma vía:
-
-I. En toda vía urbana y en las carreteras, a menos que exista una señal de tránsito que lo autorice o un dispositivo que permita la maniobra;
-
-II. En las curvas, pendientes, intersecciones y, en general, en todos los sitios de poca visibilidad;
-
-III. Cuando un vehículo se acerque y la distancia que lo separe de él no permita ejecutar la maniobra con tiempo suficiente para despejar la vía; y
-
-IV. En los puentes y túneles.
-
-###### ARTICULO 127.
-
-La maniobra de reversa sólo se permite para estacionar un vehículo o, excepcionalmente, en casos de evidente necesidad.
-
-###### ARTICULO 128.
-
-Cuando un conductor desee realizar la maniobra de reversa con un vehículo, deberá:
-
-I. Comprobar previamente si está libre la parte de la vía hacia la cual intenta retroceder; y
-
-II. Realizar la maniobra en forma tal que no interrumpa la circulación ni ponga en peligro la seguridad del tránsito de vehículos y peatones.
-
-Cuando se trate de vehículos colectivos o de carga, se deberá contar con el auxilio de otra persona para que dirija las maniobras fuera del vehículo.
-
-###### ARTICULO 129.
-
-En las calles donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos invariablemente donde las condiciones de circulación lo permitan y en la forma y horarios que establezcan las autoridades de tránsito.
-
-###### ARTICULO 130.
-
-En la vía pública sólo podrán efectuarse reparaciones cuando se consideren motivadas por casos de emergencia o de fuerza mayor. Los talleres o casas que se dediquen a la reparación de vehículos, bajo ningún concepto podrán repararlos o estacionarlos en la vía pública con esta finalidad.
-
-###### ARTICULO 131.
-
-Las maniobras de carga y descarga deberán realizarse en los lugares, forma y horarios que determinen las autoridades de tránsito atendiendo las condiciones de vialidad. Queda prohibido depositar mercancías en la vía pública, sólo se permitirá por causas de fuerza mayor y donde no se interrumpa la libre circulación.
-
-###### ARTICULO 132.
-
-El transporte nocturno de carga sobresaliente requiere permiso específico de las autoridades de tránsito para cada viaje, señalando en el mismo itinerario, carga, dimensiones y peso de ésta y señales que debe portar.
-
-###### ARTICULO 133.
-
-La maquinaria agrícola cuando circule de noche, además de los requisitos de luces, deberá ser escoltada por un vehículo provisto de torreta con luz ámbar.
-
-###### ARTICULO 134.
-
-La maquinaria agrícola que circule por calles y caminos del Estado en lo conducente deberán sujetarse a los requisitos de circulación de los demás vehículos automotores.
-
-### CAPITULO VIII. DE LAS REGLAS QUE DEBEN OBSERVAR LOS PEATONES Y PASAJEROS DE VEHICULOS
-
-###### ARTICULO 135.
-
-Los peatones deberán cumplir lo dispuesto en esta Ley y su Reglamento, los señalamientos de los agentes de policía de tránsito y los dispositivos para el control de tráfico. Gozarán del derecho a que les sea cedido el paso en las intersecciones y en zonas señaladas con este objeto.
-
-###### ARTICULO 136.
-
-Todo peatón transitará por las aceras de las vías públicas y sobre las zonas destinadas para este objeto, evitando invadir intempestivamente la superficie de rodamiento o interrumpir u obstruir en cualquier forma la fluidez del tránsito.
-
-###### ARTICULO 137.
-
-Todo peatón está obligado a cruzar las calles precisamente en las esquinas y en zonas o puentes peatonales destinados para ello, previa autorización de paso del agente o indicación del semáforo cuando éstos existan. Queda prohibido cruzar las calles en forma diagonal.
-
-###### ARTICULO 138.
-
-Se prohíbe la utilización de la vía pública para la práctica de juegos o para transitar sobre ella con vehículos que por especificaciones no sean aptos para circular en calles y caminos.
-
-###### ARTICULO 139.
-
-Los pasajeros deberán abstenerse de subir o bajar en vehículos en movimiento, debiendo hacerlo cuando éstos estén completamente parados.
-
-###### ARTICULO 140.
-
-Los pasajeros deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas o en cualquier parte externa de los mismos; tampoco lo harán de manera que alguna parte del cuerpo del pasajero sobresalga del vehículo y pueda ser lesionado.
-
-### CAPITULO IX. DE LOS DERECHOS Y PREFERENCIAS DE LOS MINUSVALIDOS
-
-###### ARTICULO 141.
-
-Además de los derechos de paso establecidos para los peatones, los minusválidos gozarán de los siguientes derechos y preferencias:
-
-I. Gozar de derecho de paso sobre los vehículos, en las intersecciones a nivel no semaforizadas;
-
-II. Gozar del derecho de paso en intersecciones semaforizadas, cuando el semáforo o el agente así lo indique; al corresponderles el paso y no alcanzar a cruzar la vialidad, es obligación de los conductores mantener sus vehículos sin movimiento hasta que el minusválido termine de cruzar;
-
-III. Ser auxiliados por los agentes de tránsito y peatones para lograr cruzar una intersección; y
-
-IV. Obtener las facilidades necesarias para la segura utilización de las unidades de transporte público de personas.
-
-###### ARTICULO 142.
-
-Los inválidos, minusválidos con dificultad de desplazamiento que utilicen vehículos de motor, ya sea por sí mismos o por medio de conductor autorizado, tendrán derecho a placas y tarjeta de circulación que las distinga de las demás, las que deberán ser portadas en todo tiempo en lugar visible.
-
-###### ARTICULO 143.
-
-Los inválidos, minusválidos o enfermos que circulen en carros de manos, sillas con ruedas o aparatos similares, ya sea en forma independiente o auxiliados por otra persona lo harán por la banqueta, acera o andador.
-
-###### ARTICULO 144.
-
-Los inválidos, minusválidos o enfermos que empleen carros de mano, sillas con ruedas o aparatos similares, dispondrán del tiempo necesario para abordar y colocarse con seguridad en el interior del vehículo del transporte público de personas.
-
-###### ARTICULO 145.
-
-Las unidades destinadas a la prestación de servicio público de transporte de personas contarán con dos asientos individuales para el uso exclusivo de inválidos, minusválidos o enfermos que para su traslación se ayuden con dispositivos o aparatos de cualquier tipo. En todo caso dichos asientos serán ubicados en la parte del vehículo más próxima a la puerta de acceso.
-
-###### ARTICULO 146.
-
-Las autoridades de tránsito pondrán especial interés y cuidado en la vigilancia de todas aquellas medidas que las autoridades implementen en la vía pública tendientes a facilitar el acceso y circulación de vehículos y aparatos que se utilicen para la transportación de minusválidos.
-
-###### ARTICULO 147.
-
-Las autoridades de tránsito determinarán e instalarán todas aquellas señales que sean necesarias para la protección, acceso y desplazamiento de los minusválidos. Asimismo, vigilará que en la construcción de banquetas, sean construidas rampas de acceso para el mismo fin.
-
-### CAPITULO X. DERECHO DE PASO Y PROTECCION A LOS ESCOLARES
-
-###### ARTICULO 148.
-
-Los escolares gozarán de derecho de paso en todas las intersecciones y zonas señaladas para el efecto, donde no haya semáforo o agente regulando la circulación.
-
-###### ARTICULO 149.
-
-Los escolares gozarán de preferencia para el ascenso y descenso de vehículos y acceso o salida de sus lugares de estudio.
-
-###### ARTICULO 150.
-
-El ascenso y descenso de escolares de los vehículos que utilicen para trasladarse se realizará en las inmediaciones del plantel educativo en lugares previamente autorizados.
-
-###### ARTICULO 151.
-
-Los agentes deberán proteger, mediante los dispositivos e indicaciones convenientes, el tránsito de los escolares en los horarios y lugares establecidos.
-
-###### ARTICULO 152.
-
-Los maestros o personal voluntario de los planteles educativos, con capacitación vial y accesorios e indumentaria adecuada, previa autorización de las autoridades de tránsito, podrán auxiliar en la protección de los escolares en la entrada y salida de los establecimientos educativos.
-
-###### ARTICULO 153.
-
-Los promotores voluntarios de que habla el artículo anterior, harán los señalamientos de acuerdo a lo establecido en esta Ley y sus Reglamentos, siendo obligación de los conductores atender dichos señalamientos.
-
-### CAPITULO XI. DE LAS SEÑALES QUE RIGEN LA CIRCULACION
-
-###### ARTICULO 154.
-
-Las autoridades de tránsito tienen a su cargo regular tanto las señales que deben hacer los conductores de vehículos al realizar cualquier maniobra durante la circulación, como las que deba hacer el personal operativo de la propia autoridad para dirigir la circulación.
-
-###### ARTICULO 155.
-
-Corresponde a las autoridades de tránsito determinar y supervisar la instalación de señales mecánicas, luminosas, reflejantes, eléctricas, electrónicas o electromecánicas que indiquen las prevenciones y restricciones que deben observar los peatones y conductores de vehículos para su correcta circulación.
-
-###### ARTICULO 156.
-
-Las marcas en el pavimento se utilizarán como señales para indicar la separación de carriles, el cruce de peatones, cruces de ferrocarril, de estacionamientos y rayas centrales, así como en las guarniciones para prohibir el estacionamiento; se utilizarán también para indicar obstáculos dentro de las superficies de rodamiento o adyacentes a ésta y para indicar peligro o forma (sic) alineamiento.
-
-### CAPITULO XII. DE OTRAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES DE TRANSITO
-
-###### ARTICULO 157.
-
-Además de las señaladas en esta Ley, su Reglamento y otras disposiciones legales, las autoridades de tránsito tendrán las facultades y obligaciones que se estatuyen en este capítulo.
-
-###### ARTICULO 158.
-
-Las autoridades de tránsito llevarán actualizado un registro y control de los vehículos que hayan sido registrados en el Estado.
-
-###### ARTICULO 159.
-
-Las autoridades de tránsito deberán llevar actualizado un registro y control de cada conductor.
-
-###### ARTICULO 160.
-
-En el Registro y Control de Conductores se deberá anotar los hechos de tránsito en que hayan participado, las infracciones cometidas, sentencias judiciales que afecten su calidad como tal, suspensiones, revocaciones o anulaciones a que se haya hecho acreedor y las restricciones a que queda sujeto el propio conductor.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
-
-###### ARTICULO 161.
-
-Las autoridades de tránsito instalarán de manera aleatoria en la vía pública operativos de alcoholimetría, para detectar la presencia de alcohol en los conductores, o si se encuentran bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas para lo cual un médico realizará el examen clínico correspondiente.
-
-Los operativos de alcoholimetría deberán cumplir, como mínimo, con los siguientes requisitos:
-
-I. Establecerse en lugares de máxima visibilidad, con iluminación necesaria y seguridad adecuada para los conductores y el personal de los operativos;
-
-II. Área de acercamiento inicial o primer contacto;
-
-III. Área de prueba de alcoholimetría;
-
-IV. La presencia por lo menos de un médico, así como un representante del Órgano Interno de Control Municipal, asimismo se podrá contar con un representante de la Comisión Estatal de los Derechos Humanos, el cual podrá hacer manifestaciones y consideraciones en favor del sujeto a revisión ante cualquier situación o consideración que se presuma atentatoria a sus derechos humanos durante el proceso, mismas que deberán constar en el acta respectiva para los efectos legales correspondientes; asimismo se procurará la presencia de un representante de las Organizaciones de la Sociedad Civil;
-
-V. Imprimir el resultado de la prueba de alcoholimetría; y
-
-VI. Contar con todos los recursos materiales establecidos en el Programa Nacional de Alcoholimetría y el Protocolo para la Implementación de Puntos de Control de Alcoholimetría.
-
-Las autoridades municipales celebrarán convenios de colaboración con las autoridades estatales para la realización de dichos operativos, cuando así se requiera.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
-
-###### ARTICULO 161 Bis.
-
-Las autoridades de tránsito podrán detener la marcha de un vehículo cuando se cometa alguna infracción o se lleven a cabo los operativos señalados en el artículo anterior.
-
-Si al detener la marcha de un vehículo, los agentes de tránsito perciben que el conductor del vehículo muestra síntomas de que conduce en estado de ebriedad o bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas deberá someterse a las pruebas para la detección del grado de intoxicación, que practiquen las autoridades legalmente facultadas para ello, y se les sancionará de la siguiente forma:
-
-I. Con arresto administrativo inconmutable de seis a nueve horas a la persona que conduzca un vehículo y se le detecte una cantidad de 0.40 a 0.65 miligramos de alcohol por litro de aire espirado;
-
-II. Con arresto administrativo inconmutable de nueve a doce horas a la persona que conduzca un vehículo y se le detecte una cantidad mayor a 0.65 miligramos de alcohol por litro de aire espirado o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas; y
-
-III. Con suspensión de la licencia de manejar en caso de reincidencia, o revocación de la misma por segunda reincidencia, de conformidad con los artículos 27 y 28, fracción IV de esta Ley, además de las sanciones señaladas en las fracciones anteriores, según corresponda.
-
-Las personas sancionadas en términos de las fracciones anteriores, deberán asistir a un curso en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, ante la instancia que indique la autoridad competente.
-
-La calificación de las sanciones previstas en el presente artículo estarán sujetas a las reglas establecidas en el Reglamento de la presente Ley y demás disposiciones aplicables. Los jueces de barandilla serán los competentes de su aplicación.
-
-En caso de que el conductor se niegue a someterse a las pruebas anteriormente señaladas y habiéndolo apercibido de las consecuencias de su negativa mantenga la misma postura, tal circunstancia se asentará en acta administrativa de hechos debidamente fundada y motivada, y se le aplicará la sanción prevista en la fracción II de este artículo.
-
-Las autoridades de tránsito como medida de seguridad podrán retirar el vehículo de la vía pública, salvo que se cuente con alguna persona que lo conduzca en términos del presente ordenamiento y el conductor otorgue su consentimiento.
-
-El retiro del vehículo previsto en el párrafo anterior se realizará de conformidad con el artículo 176 de esta Ley.
-
-Si al conductor de vehículos destinados al servicio de transporte escolar, pasajeros, carga o de sustancias tóxicas o peligrosas, se le detecta alcohol en su organismo o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, le será aplicable la sanción prevista en la fracción II y se hará del conocimiento de la autoridad de la materia para efecto del proceso de responsabilidad que corresponda, dada su condición de prestador de un servicio público.
-
-En todo supuesto, deberán respetarse los derechos humanos de los conductores y de las personas que los acompañen, en su caso.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
-
-ARTÍCULO 161 Bis A. Tratándose de menores de edad que hayan cometido alguna infracción o que se les detecte alcohol en su organismo o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, los agentes de tránsito deberán impedir la circulación del vehículo, para llevar a cabo las siguientes acciones:
-
-I. Notificar de inmediato a los padres del menor de edad, o a quienes ejerzan la patria potestad, tutela, guarda o custodia;
-
-II. Revocar la licencia de aprendiz haciendo la notificación respectiva; y
-
-III. Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil que resulte.
-
-###### ARTICULO 162.
-
-La señalización vial deberá ceñirse a las especificaciones contenidas en el Manual de Dispositivos para el Control de Tránsito en Calles y Carreteras, aprobado por la Secretaría de Comunicaciones y Transportes, así como en aquellas disposiciones específicas dictadas por las Autoridades de Tránsito.
-
-###### ARTICULO 163.
-
-Las autoridades de tránsito que tomen conocimiento de hechos de tránsito deberán formular un reporte en las formas previamente aprobadas; debiendo analizar y tabular todos los reportes de accidentes recibidos y publicar periódicamente la información estadística correspondiente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 164.
-
-Las infracciones a las disposiciones de esta Ley y su Reglamento se harán constar por los agentes de tránsito en las actas de hechos, previamente aprobadas por las autoridades correspondientes.
-
-###### ARTICULO 165.
-
-Todo vehículo que se encuentre estacionado en la vía pública, previa investigación de abandono o denuncia fundada, podrá ser retirado por las autoridades de tránsito.
-
-###### ARTICULO 166.
-
-Las autoridades de tránsito estatales están facultadas para celebrar convenios entre sí y con el gobierno federal y de los municipios para mejorar el servicio en materia de tránsito.
-
-### CAPITULO XIII. DE LA EDUCACION Y SEGURIDAD VIAL
-
-###### ARTICULO 167.
-
-Para el fomento y difusión de la educación y seguridad vial, las autoridades de tránsito impulsarán la integración de Comisiones Mixtas de Seguridad y Educación Vial en las poblaciones del Estado.
-
-###### ARTICULO 168.
-
-Para el cumplimiento de su objeto, las Comisiones tendrán las siguientes atribuciones:
-
-I. Allegar elementos a las autoridades de tránsito para que estén en condiciones de prestar un mejor servicio a la comunidad;
-
-II. Formular los programas para procedimientos y mecanismos de coordinación y consulta entre los sectores oficial, social y privado, para su incorporación a la solución de la problemática de la educación y seguridad vial;
-
-III. Elaborar y difundir, conjuntamente con las autoridades de tránsito, programas de educación y seguridad vial;
-
-IV. Coadyuvar con las autoridades de tránsito en la realización de sus programas;
-
-V. Impulsar la construcción de parques infantiles de educación vial;
-
-VI. Promover la formación de grupos voluntarios auxiliares de vialidad en establecimientos educativos;
-
-VII. Realizar campañas de educación vial dirigidas a todos los sectores de la sociedad;
-
-VIII. Establecer o fomentar el establecimiento de escuelas de manejo;
-
-IX. Realizar promociones con objeto de recaudar fondos para la realización de sus actividades;
-
-X. Proponer las medidas que permitan la consecución oportuna de los objetivos, metas, planes y programas en materia de educación y seguridad vial;
-
-XI. Establecer las subcomisiones y grupos de trabajo que estime convenientes; y
-
-XII. Las demás que le otorgan este ordenamiento y otras disposiciones aplicables sobre la materia.
-
-###### ARTICULO 169.
-
-Las Comisiones Mixtas de Seguridad y Educación Vial dependerán de las autoridades de tránsito correspondientes y se integrarán por representantes de instituciones oficiales, educativas, clubes de servicio, organismos sociales y agrupaciones profesionales y de los sectores productivos de la localidad.
-
-Las comisiones se compondrán de la siguiente forma:
-
-I. Un Presidente, que será el representante de la autoridad de tránsito;
-
-II. Un Vicepresidente;
-
-III. Un Secretario;
-
-IV. Un Tesorero; y
-
-V. Cinco Vocales.
-
-Excepción del Presidente, los demás cargos podrán ser ocupados por los representantes que sean convocados y electos.
-
-Las Comisiones Mixtas se reunirán en sesiones ordinarias y extraordinarias para tratar los asuntos que contenga el orden del día respectivo y previa convocatoria de su Presidente.
-
-Las Comisiones Mixtas podrán expedir su propio reglamento interior conforme a las bases que determine el Ejecutivo del Estado.
-
-### CAPITULO XIV. DE LAS SANCIONES EN MATERIA DE TRANSITO
-
-###### ARTICULO 170.
-
-Por la transgresión de los ordenamientos de la presente Ley y su Reglamento, atendiendo a la gravedad del caso, las autoridades de tránsito podrán aplicar, conjunta o separadamente, las siguientes sanciones:
-
-I. Detención del vehículo o impedir la circulación del mismo;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
-
-II. Detención y retiro de los documentos que autoricen al conductor, placas y tarjeta de circulación;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
-
-III. Sanciones económicas, de conformidad al tabulador de infracciones vigente; y
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
-
-IV. Las demás previstas en el presente ordenamiento y otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
-
-Sin perjuicio de la imposición de las sanciones anteriores; cuando de una infracción se determine que el conductor del vehículo encuadra en el supuesto contemplado por el artículo 213 Bis, la autoridad de tránsito responsable, deberá dar aviso a la Dirección de Trabajo y Previsión Social para que ésta en el área de su competencia, inicie el procedimiento correspondiente a fin de determinar si el conductor del vehículo, el responsable o titular de la concesión de transporte público, así como el patrón son acreedores a las sanciones contenidas en la Ley Federal del Trabajo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 171.
-
-El tabulador de infracciones se elaborará, revocará, modificará o adicionará por el Ejecutivo del Estado determinando el monto de las sanciones económicas, debiendo publicarse en el Periódico Oficial “El Estado de Sinaloa”.
-
-Las sanciones económicas que en el tabulador se establezcan no deberán ser menores al equivalente a una vez el salario mínimo general vigente en la zona geográfica que corresponde al Estado de Sinaloa, ni mayores que el equivalente a treinta veces dicho salario mínimo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 172.
-
-Con la finalidad de hacer efectivo el pago de las sanciones económicas impuestas a un infractor, las autoridades de tránsito podrán solicitar a la autoridad fiscal correspondiente, utilizar el procedimiento administrativo de ejecución previsto por la Ley respectiva.
-
-###### ARTICULO 173.
-
-Cuando el infractor cometa varias infracciones en un mismo acto, se le acumularán las sanciones correspondientes a cada una de ellas.
-
-###### ARTICULO 174.
-
-Cuando conste que el infractor ha incurrido en la misma falta dentro del año anterior a la última, será considerado como reincidente, en cuyo caso, la multa se aumentará hasta en un 50% del monto de la misma.
-
-###### ARTICULO 175.
-
-La acción de imponer sanciones por infracciones a las disposiciones de tránsito, prescribirán en un año contado a partir del día en que se cometan.
-
-###### ARTICULO 176.
-
-Los vehículos que con motivo de la aplicación de esta Ley y su Reglamento deban ser retirados de la vía pública se depositarán y custodiarán en los locales habilitados para ese objeto, con cargo para el propietario de dichos vehículos.
-
-Después de transcurridos seis meses de depósito y custodia, si el propietario del vehículo no acude a recuperarlo, con audiencia en los términos de ley, de los interesados, se procederá a su remate por considerarse sus adeudos como crédito fiscal, teniendo preferencia dicho crédito del importe del remate.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 177.
-
-El pago de las sanciones económicas deberá hacerse en las oficinas recaudadoras correspondientes o en los lugares que las autoridades de finanzas señalen; aplicándose un descuento del veinte por ciento a quien cubra su importe dentro de los cinco días hábiles posteriores a la fecha en que el infractor tenga conocimiento de su imposición.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-###### ARTICULO 178.
-
-El conductor a quien se le imponga una sanción con base en una acta de hechos podrá inconformarse contra la misma dentro de los cinco días hábiles contados a partir del día siguiente a la fecha en que el infractor tenga conocimiento de su imposición, misma que deberá presentarse ante la autoridad que la hubiere emitido y resolverse por su superior jerárquico.
-
-###### ARTICULO 21.
-
-Además de lo señalado en el artículo anterior, para obtener licencia de manejar se requiere:
-
-I. De chofer:
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
-
-A).Tener edad mínima de veintiún años;
-
-B). Acreditar pericia en el manejo de los vehículos automotores regulados por esta Ley, excepto los conocidos como motocicletas.
-
-II. De automovilista:
-
-A). Tener edad mínima de dieciocho años; y
-
-B). Acreditar pericia en el manejo de los vehículos señalados en el artículo 17 de esta Ley.
-
-III. De motociclista:
-
-A). Tener una edad mínima de dieciséis años;
-
-B). En caso de que el solicitante sea menor de dieciocho años, deberá obtener carta de autorización y responsiva de quien ejerza la patria potestad garantizando los daños y perjuicios que se puedan ocasionar durante la vigencia de la licencia;
-
-C). Acreditar pericia en el manejo de los vehículos clasificados como motocicletas.
-
-###### ARTICULO 22.
-
-Para conducir vehículos de servicio público de transporte de pasajeros, se requiere la licencia de conducir correspondiente y el certificado de aptitud establecido en esta Ley.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 23.
-
-El certificado de aptitud se expedirá a todas aquellas personas que tengan licencia de manejar, así como que hayan presentado y aprobado ante la autoridad correspondiente, los exámenes médicos y teórico-prácticos que acrediten que están específicamente capacitadas para la prestación del servicio público de transporte de pasajeros.
-
-La expedición del certificado de aptitud; y desde luego la licencia de chofer para conductores de vehículos del servicio público de transporte colectivo urbano, en unidades con capacidad mayor de once pasajeros, requerirá además de lo establecido en el párrafo anterior, que acrediten haber cursado el nivel medio básico o secundario y cumplido veintitres años de edad.
-
-###### ARTICULO 24.
-
-Cualquier conductor que haya cambiado su nombre o domicilio señalados en la solicitud o licencia correspondiente, deberá expresamente informarlo a las autoridades de tránsito en un término que no exceda de diez días, y en caso de incumplimiento, se hará acreedor a lo establecido en el Artículo 28 de esta Ley.
-
-###### ARTICULO 25.
-
-Los concesionarios y permisionarios del servicio público de autotransporte, están obligados a contratar sólo conductores que posean la licencia respectiva y que cuenten con la experiencia, capacidad, pericia y condiciones físico-mentales adecuadas, así como vigilar escrupulosamente que el manejo y control de sus vehículos quede encomendado únicamente a conductores que reúnan las características antes señaladas.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
-
-Los concesionarios y permisionarios del servicio público de transporte de pasajeros, además de lo establecido en el párrafo anterior tienen la obligación de vigilar que los conductores de este servicio cuenten con el certificado de aptitud vigente.
-
-###### ARTICULO 26.
-
-Las autoridades de tránsito están facultadas para suspender, revocar o anular licencias de manejar mediante el procedimiento y por las causas que se señalan en esta Ley y sus Reglamentos.
-
-###### ARTICULO 27.
-
-La licencia para manejar se suspenderá por un lapso de seis meses, cuando su titular incurra en infracciones de tránsito relativas a la circulación en más de tres ocasiones durante un año natural inmediato anterior a la fecha en que se tramite la suspensión o cuando se le haya sorprendido por segunda vez conduciendo en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas que alteren en forma notable su aptitud para conducir.
-
-###### ARTICULO 28.
-
-Las licencias para manejar se revocarán en los siguientes casos:
-
-I. Cuando se compruebe que su titular ha dejado de tener la aptitud física o mental necesaria para la conducción de los vehículos de la categoría correspondiente;
-
-II. Cuando por sentencia ejecutoria lo determine una autoridad judicial;
-
-III. Cuando el titular de la misma haya incurrido por tercera vez durante un año natural inmediato anterior, en la infracción de conducir en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas que disminuyan en forma notable su aptitud para conducir, o causen daños graves al patrimonio e integridad física de las personas; y
-
-IV. Cuando al titular se le haya suspendido la licencia dos veces en un período de dos años o cinco veces en cualquier tiempo.
-
-###### ARTICULO 29.
-
-Las licencias de manejar se anularán cuando se compruebe que la información proporcionada por el interesado para su obtención es falsa o que alguno de los documentos o constancias exhibidas sean falsificadas; en caso de ser procedente, se consignará al presunto responsable ante las autoridades competentes.
-
-En este caso el particular no podrá obtener licencia para manejar en cualquiera de sus tipos por un término de dos años, ni podrá conducir vehículos en el Estado amparado con licencia obtenida en otra Entidad.
-
-###### ARTICULO 30.
-
-Las licencias para manejar revocadas no se expedirán nuevamente al interesado por un término de cinco años, en el entendido de que éste no podrá conducir vehículo automotor dentro del Estado, aún cuando porte licencia expedida en otra Entidad.
-
-###### ARTICULO 31.
-
-Las causas, procedimientos y consecuencias de la suspensión, revocación o anulación de licencias para manejar serán aplicables también por lo que concierne al certificado de aptitud; con las siguientes salvedades:
-
-I. La suspensión del certificado de aptitud procederá la primera vez que el conductor sea sorprendido manejando en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas; y
-
-II. La revocación del certificado de aptitud procederá al ser sorprendido el conductor manejando por segunda vez en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas.
-
-###### ARTICULO 32.
-
-Cuando por alguna causa justificada no se pudiere obtener la licencia de manejar correspondiente en tiempo y forma, las autoridades estatales de tránsito podrán otorgar permisos provisionales para conducir.
+Los Subdirectores y demás servidores públicos de la Comisión, serán suplidos por los servidores públicos de la jerarquía inmediata inferior o el que designe el Alto Comisionado.
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley abroga la "Ley de Tránsito y Transportes del Estado de Sinaloa" publicada como Suplemento del Periódico Oficial "El Estado de Sinaloa" No. 126, correspondiente al día 20 de octubre de 1970, y se derogan todas las disposiciones que se opongan a la misma.
-
-SEGUNDO. Las atribuciones encomendadas a la Secretaría General de Gobierno, en materia de tránsito y transportes, conforme a las presentes disposiciones pasan a ser competencia del órgano administrativo a que se refieren los numerales 3, 4 y 5 de esta Ley y su Reglamento.
-
-TERCERO. Sin contravención a sus atribuciones, en el ámbito de sus respectivas competencias, el órgano administrativo previsto por esta Ley junto con la Dirección de Trabajo y Previsión social, de manera coordinada, elaborarán y aplicarán un programa laboral preventivo con el propósito de garantizar, en favor de los trabajadores del transporte, el respeto y vigencia a las disposiciones contenidas en el apartado "A" del artículo 123 de la Constitución General de la República, así como las contenidas en el Capítulo VI, Título VI de los "Trabajos Especiales" de la Ley Federal del Trabajo y de la presente Ley.
-
-CUARTO. El Reglamento de la Ley que se abroga y el tabulador de infracciones vigentes, continuarán aplicándose en tanto no se aprueben los nuevos ordenamientos.
-
-QUINTO. La presente Ley entrará en vigor a los ocho días posteriores a su publicación en el Periódico Oficial "El Estado de Sinaloa", a excepción del artículo 86, cuya vigencia, por la naturaleza de su contenido, empezará a contar a partir de los noventa días posteriores a la entrada en vigor de la misma.
-
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los treinta días del mes de marzo de mil novecientos noventa y tres.
-
-Profr. Jesús Manuel Carrillo Arredondo
-
-DIPUTADO PRESIDENTE
-
-C. Saúl Alfredo González Contreras
-
-DIPUTADO SECRETARIO
-
-Lic. Heriberto Arias Suárez
-
-DIPUTADO SECRETARIO
-
-Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento.
-
-Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los dos días del mes de abril de mil novecientos noventa y tres.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-Ing. Renato Vega Alvarado
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-Dr. Francisco C. Frías Castro
-
-EL SECRETARIO DE HACIENDA PÚBLICA Y TESORERÍA
-
-C.P. Marco Antonio Fox Cruz
-
-EL DIRECTOR GENERAL DE TRÁNSITO Y TRANSPORTES
-
-Lic. Fernando Díaz de la Vega
-
-N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
-
-P.O. 13 DE AGOSTO DE 1997.
-
-DECRETO No. 339, QUE REFORMA EL ARTICULO 245.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"; salvo lo dispuesto en el artículo transitorio siguiente.
-
-###### ARTICULO SEGUNDO.
-
-Se mantendrá vigente la tarifa de $ 1.00 (Un Peso M.N.) para estudiantes de escuelas públicas, en el transporte urbano y suburbano, autorizado por el Ejecutivo Estatal en el Decreto Administrativo de fecha 13 de febrero de 1997, publicado en el Periódico Oficial "El Estado de Sinaloa" número 21, segunda sección, el día 17 de ese mes y año, así como las tarifas con descuento que se vienen aplicando en el transporte foráneo, hasta en tanto se realice una nueva revisión tarifaria.
-
-DECRETO No. 340
-
-###### ARTICULO PRIMERO.
-
-Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-###### ARTICULO SEGUNDO.
-
-Se abroga el Reglamento General de la Ley de Tránsito y Transportes aprobada mediante Decreto número 176, del 20 de agosto de 1970, publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha 20 de octubre de 1970.
-
-###### ARTICULO PRIMERO.
-
-Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-###### ARTICULO SEGUNDO.
-
-Se abroga el Reglamento General de la Ley de Tránsito y Transportes aprobada mediante Decreto número 176, del 20 de agosto de 1970, publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha 20 de octubre de 1970.
-
-###### ARTICULO TERCERO.
-
-El Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa será expedido por el Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, mientras tanto se continuarán aplicando las disposiciones del anterior en lo que no se opongan a la ley.
-
-P.O. 14 DE DICIEMBRE DE 2001.
-
-Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-Artículo Segundo.- Los requisitos establecidos para los conductores de vehículos del servicio público de transporte colectivo urbano, en unidades con capacidad mayor de once pasajeros, no serán aplicables con efectos retroactivo para aquellos conductores de este servicio que, a la fecha de entrar en vigor el presente Decreto, cuenten con su licencia de chofer y certificado de aptitud.
-
-P.O. 25 DE DICIEMBRE DE 2002.
-
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 30 DE NOVIEMBRE DE 2007.
-
-###### ARTÍCULO ÚNICO.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 6 DE FEBRERO DE 2012.
-
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-El Ejecutivo del Estado contará con un plazo de 180 días para realizar las modificaciones correspondientes al Reglamento General de la Ley de Tránsito y Transportes del Estado de Sinaloa; a su vez las autoridades competentes implementaran una adecuada campaña pública de información a los conductores de vehículos automotores, exhortándolos a incorporar los equipos y aditamentos necesarios a sus vehículos a fin de cumplir con lo establecido en el presente decreto.
+Las aprobaciones de la Comisión Intersecretarial que prevé el artículo Décimo Segundo de su Decreto de Creación podrán ser posteriores a la instrumentación de las acciones que requieran ejecución inmediata. Lo anterior, sin menoscabo de las más amplias facultades de gestión de la Comisión Intersecretarial para realizar a nombre de la Comisión todos los actos que fueren necesarios para el cumplimiento del objeto.
 
-###### ARTÍCULO TERCERO.
+Dado en la Heroica Puebla de Zaragoza, a los 14 días del mes de octubre de 2005.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
 
-En tanto no transcurra el plazo establecido en el artículo anterior las autoridades competentes no podrán infraccionar a las personas que no cumplan con lo establecido en el presente decreto.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-P.O. 30 DE ENERO DE 2015.
+P.O. 31 DE JULIO DE 2006.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 10 DE AGOSTO DE 2016.
+###### ARTÍCULO SEGUNDO.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 585 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA”.]
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+###### ARTICULO PRIMERO.
 
-SEGUNDO. El Ejecutivo del Estado contará con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones correspondientes al Reglamento General de la Ley de Tránsito y Transportes del Estado de Sinaloa y demás disposiciones administrativas, con el fin de dar cumplimiento a lo dispuesto en el presente Decreto.
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. Los Ayuntamientos contarán con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para expedir o realizar las adecuaciones necesarias a sus Reglamentos y Bandos de Policía y Gobierno. Asimismo, deberán capacitar al personal que intervenga en los operativos de alcoholimetría a efecto de dar cumplimiento con el presente Decreto.
+###### ARTICULO SEGUNDO.
 
-CUARTO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado Decreto.
-
-QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
-
-P.O. 15 DE AGOSTO DE 2016.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 636 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA".]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Se abroga el Reglamento General de la Ley de Tránsito y Transportes aprobada mediante Decreto número 176, del 20 de agosto de 1970, publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha 20 de octubre de 1970.
 
 ###### ARTICULO TERCERO.
 
