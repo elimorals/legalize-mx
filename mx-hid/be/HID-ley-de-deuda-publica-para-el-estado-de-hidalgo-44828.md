@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-para-el-estado-de-hidalgo-44828"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-30"
-last_updated: "2005-05-30"
+last_updated: "2006-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 2005.
 
@@ -51,13 +51,29 @@ La deuda pública se constituye por las obligaciones de pasivo, directas, indire
 
 I.- El Estado, por conducto del Poder Ejecutivo del Estado;
 
-II.- Los Municipios, por conducto de los ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-III.- Los organismos descentralizados estatales o municipales;
+II.- El Instituto para el Financiamiento del Estado de Hidalgo
 
-IV.- Las empresas de participación estatal o municipal mayoritaria; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-V.- Los fideicomisos públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que la fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
+III.- Los Municipios, por conducto de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+IV.- Los Organismos Descentralizados Estatales o Municipales;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+V.- Las empresas de Participación Estatal o Municipal mayoritaria; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
+
+VI.- Los fideicomisos públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que la fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
+
+VII.- Los Proyectos Públicos Privados, en los que intervengan alguna de las entidades señaladas en las fracciones anteriores.
 
 ###### Artículo 3.
 
@@ -65,43 +81,77 @@ Para los efectos de la presente ley se entiende por:
 
 I.- Entidades: las señaladas en el Artículo 2 de esta Ley;
 
-II.- Entidades de la Administración Pública Paraestatal: Los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales que formen parte de la misma;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-III.- Entidades de la Administración Pública Paramunicipal: Los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales que formen parte de la misma;
+II.- Instituto para el Financiamiento del Estado de Hidalgo: es un organismo descentralizado de la administración pública estatal, que tiene atribuciones para contratar deuda destinada para proyectos de inversión pública productiva, para asistir a las entidades en el acceso a financiamiento, y para diseñar e instrumentar mecanismos financieros para Proyectos Público (sic) Privados;
 
-IV.- Crédito Público: La aptitud jurídica, política, económica y moral de las entidades para endeudarse con el objeto de obtener ingresos destinados a realizar inversiones públicas productivas, basadas en la confianza de que gozan por su administración, patrimonio e historial crediticio;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-V.- Deuda Pública: Las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento sobre el crédito público de las entidades;
+III.- Entidades de la Administración Pública Paraestatal: los Organismos Descentralizados Estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales que formen parte de la misma;
 
-VI.- Deuda Pública Directa del Estado: La que contraiga el Estado como responsable directo;
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 31 DE JULIO DE 2006)</small>
 
-VII.- Deuda Pública Indirecta del Estado: La que contraigan las entidades de la administración pública paraestatal;
+IV.- Entidades de la Administración Pública Paramunicipal: los Organismos Descentralizados Municipales, las empresas de participación Municipal mayoritaria y los fideicomisos públicos municipales que formen parte de la misma;
 
-VIII.- Deuda Contingente del Estado: La que derive de operaciones de endeudamiento en las cuales el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto de los municipios, de las entidades de la administración pública paraestatal o paramunicipal;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-IX.- Deuda Pública Estatal o Deuda Pública del Estado: La que contraiga el Estado, por conducto del Poder Ejecutivo, como responsable directo o como garante, avalista, deudor solidario, subsidiario o sustituto de los municipios, de las entidades de la administración pública paraestatal o paramunicipal;
+V.- Proyectos Públicos Privados por sus siglas PPP: son todos aquellos programas que se desarrollen con financiamiento público y capital privado cuyo objeto es generar proyectos de inversión pública productiva;
 
-X.- Deuda Pública Directa de los Municipios: La que contraigan los municipios como responsables directos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XI.- Deuda Pública Indirecta de los Municipios: La que contraigan las entidades de la administración pública paramunicipal;
+VI.- Deuda Pública: las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento sobre el crédito público de las entidades;
 
-XII.- Deuda Contingente de los Municipios: La que derive de operaciones de endeudamiento en las cuales los municipios funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XIII.- Deuda Pública Municipal: La que contraigan los municipios, por conducto de sus ayuntamientos, como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
+VII.- Deuda Pública Directa del Estado: la que contraigan el Estado como responsable directo;
 
-XIV.- Deuda Pública de las Entidades de la Administración Pública Paraestatal: La que contraigan las entidades de la administración pública paraestatal como responsables directas;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XV.- Deuda Pública de las Entidades de la Administración Pública Paramunicipal: La que contraigan las entidades de la administración pública paramunicipal como responsables directas;
+VIII.- Deuda Pública Indirecta del Estado: la que contraigan las entidades de la administración pública paraestatal;
 
-XVI. Empréstitos: Las operaciones de endeudamiento que resulten del crédito público que celebren el Estado o los municipios;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XVII.- Créditos: Las operaciones de endeudamiento que resulten del crédito público que celebren las entidades señaladas en las fracciones III, IV y V del Artículo 2 de esta Ley;
+IX.- Deuda Contingente del Estado: la que derive de operaciones de endeudamiento en las cuales el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de las entidades de la administración pública paraestatal o paramunicipal;
 
-XVIII. Financiamientos: Las operaciones de endeudamiento referidas en las fracciones XVI y XVII anteriores, consideradas desde el punto de vista del ingreso que generan a las entidades, mismas que pueden derivar de:
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+X.- Deuda Pública Estatal o Deuda Pública del Estado: la que contraiga el Estado, por conducto del Poder Ejecutivo, como responsable directo o como garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de las entidades de la administración pública paraestatal o paramunicipal;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XI.- Deuda del Instituto para el Financiamiento del Estado de Hidalgo: es la deuda que se contrae por éste ante instituciones financieras o el mercado de capital mexicano, cuya fuente de pago la constituyen los flujos de efectivo que dichas entidades ceden a favor del propio Instituto de manera irrevocable para la contratación de financiamientos, sin que previamente hayan ingresado a sus cuentas bancarias o tesorerías;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XII.- Deuda Pública Directa de los Municipios: la que contraigan los municipios como responsables directos;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XIII.- Deuda Pública Indirecta de los Municipios: la que contraigan las Entidades de la administración pública paramunicipal;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XIV.- Deuda Contingente de los Municipios: la que derive de operaciones de endeudamiento en las cuales los municipios funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las Entidades de la Administración Pública Paramunicipal a su cargo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XV.- Deuda Pública Municipal: la que contraigan los Municipios, por conducto de sus ayuntamientos, como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
+
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 31 DE JULIO DE 2006)</small>
+
+XVI.- Deuda Pública de las Entidades de la Administración Pública Paraestatal: la que contraigan las Entidades de la Administración Pública Paraestatal como responsables directas;
+
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 31 DE JULIO DE 2006)</small>
+
+XVII.- Deuda Pública de las Entidades de la Administración Pública Paramunicipal: la que contraigan las entidades de la administración pública paramunicipal como responsables directas;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XVIII.- Financiamientos: las operaciones de endeudamiento referidas en las fracciones XVI y XVII antereriores (sic), consideradas desde el punto de vista del ingreso que generan las entidades, mismas que pueden derivar de:
 
 a).- La suscripción o emisión de valores, títulos de crédito o de cualquier otro documento pagadero a plazos;
 
-b).- La contratación de préstamos con instituciones financieras;
+b).- La contratación de préstamos con instituciones financieras ó con el Instituto para el Financiamiento del Estado de Hidalgo;
 
 c).- La adquisición de bienes o contratación de obras, adquisiciones o servicios cuyo pago se pacte a plazos;
 
@@ -109,27 +159,55 @@ d).- Operaciones de refinanciamiento y reestructuración de empréstitos o créd
 
 e).- Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y
 
-f).- En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
+f).- En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las Entidades;
 
-XIX.- Valores: Son los títulos valor emitidos por cualquiera de las entidades, representativos de un empréstito o crédito colectivo, tales como las obligaciones, bonos, certificados y demás títulos de crédito, nominados o innominados, que emitan las entidades señaladas en el Artículo 2 de esta Ley, en serie o en masa, en los términos de las leyes que los rijan, susceptibles de circular en el mercado de valores, incluyendo los que se emitan de manera indirecta, mediante fideicomisos a través de instituciones fiduciarias y al amparo, en su caso, de un acta de emisión, cuando por disposición de la ley o de la naturaleza de los títulos correspondientes así se requiera;
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 31 DE JULIO DE 2006)</small>
 
-XX.- Servicio de la Deuda Pública: Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico-financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
+XIX.- Mercados Financieros: conjunto de instituciones financieras, bancos, empresas, personas físicas y morales registradas o constituidas con arreglo a las disposiciones legales mexicanas y dispuestas a invertir sus recursos financieros para financiar deuda de las Entidades;
 
-XXI.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos, al mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer o a cualquier otra finalidad de interés público o social, siempre que en forma directa o indirecta, inmediata o mediata, generen un incremento en los ingresos de las entidades;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XXII.- Montos y Conceptos de Endeudamiento Autorizado: Son los derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las leyes de ingresos de los municipios, según corresponda;
+XX.- Servicio de la Deuda Pública: son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico-financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
 
-XXIII.- Operaciones de Refinanciamiento: Son los empréstitos o créditos que se celebren por las entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XXIV.- Operaciones de Reestructuración: Son los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
+XXI.- Inversiones Públicas Productivas: las destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos; a las operaciones de refinanciamiento y reestructuración de la deuda pública que tengan como objeto el mejoramiento de las condiciones, estructura o perfil de la misma o cualquier otra finalidad de interés público o social, siempre que en forma directa o indirecta, inmediata o mediata, generen un incremento en los ingresos de las entidades;
 
-XXV.- Congreso: El Congreso del Estado Libre y Soberano de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XXVI.- Secretaría: La Secretaría de Finanzas del Poder Ejecutivo del Estado de Hidalgo;
+XXII.- Montos y Conceptos de Endeudamiento Autorizado: son los derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las leyes de ingresos de los municipios, según corresponda;
 
-XXVII.- Órganos de Gobierno: Los consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XXVIII.- Registro: El Registro de Obligaciones y Empréstitos del Estado de Hidalgo.
+XXIII.- Operaciones de Refinanciamiento: son los empréstitos o créditos que se celebren por las Entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXIV.- Operaciones de Reestructuración: son los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXV.- Congreso: el Congreso del Estado Libre y Soberano de Hidalgo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXVI.- Secretaría: la Secretaría de Finanzas del Poder Ejecutivo del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXVII.- Órganos de Gobierno: los consejos, juntas directivas, comités técnicos o equivalentes, de las Entidades de la Administración Pública Paraestatal y paramunicipal; y (sic)
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXVIII.-Registro: el Registro de Obligaciones y Empréstitos del Estado de Hidalgo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
+
+XXIX.- Superávit primario. El excedente entre los ingresos totales y las sumas de las erogaciones, excluyendo el servicio de la deuda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
+
+XXX.- Operaciones financieras de cobertura: las operaciones financieras que tienden a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos por las Entidades con base en esta Ley.
 
 ###### Artículo 4.
 
@@ -185,9 +263,17 @@ II.- El Poder Ejecutivo del Estado;
 
 III.- La Secretaría;
 
-IV.- Los ayuntamientos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
 
-V.- Los órganos de gobierno de las entidades a que aluden las fracciones III, IV y V del Artículo 2 de esta Ley.
+IV. El Instituto para el Financiamiento del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+V. Los ayuntamientos; y
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+VI. Los órganos de Gobierno de las Entidades a que aluden las fracciones III, IV y V del Artículo 2 de esta Ley.
 
 ###### Artículo 12.
 
@@ -298,6 +384,60 @@ XXXI.- Las demás que, en materia de deuda pública, le confieran la Constituci�
 ###### Artículo 14.
 
 Los derechos y obligaciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX y XXX del Artículo 13 de esta Ley, podrán ser ejercidos y cumplidas respectivamente, por conducto de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+###### Artículo 14 Bis.
+
+El Instituto para el Financiamiento del Estado de Hidalgo, es la primera instancia para que las Entidades contraten deuda y estas podrán optar por contratarla de manera independiente: cuando los municipios así lo decidan o las entidades encuentren una opción menos onerosa de financiamiento o el Instituto exprese su incapacidad de poder contratarla. Esta misma disposición se observará para aquellos casos en que se contraigan por las Entidades, obligaciones directas que no constituyen deuda pública en términos del Artículo 9 de esta Ley. El Instituto para el Financiamiento del Estado de Hidalgo en todo momento estará sujeto a las normas, lineamientos, directrices y mecanismos de coordinación, control y evaluación que determine la Secretaría en materia de política hacendaria.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+###### Artículo 14 Ter.
+
+Al Instituto para el Financiamiento del Estado de Hidalgo le compete:
+
+I.- Presentar y gestionar, en coordinación con la Secretaría, ante el Congreso las solicitudes de autorización de endeudamiento en términos de lo previsto por la Ley de Deuda Pública del Estado de Hidalgo y de esta Ley;
+
+II. Contratar los empréstitos que le hayan sido autorizados por el Congreso;
+
+III. Negociar, aprobar, celebrar, emitir y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito, valores y demás instrumentos legales necesarios, directa o indirectamente, para la obtención en los mercados financieros de los financiamientos y el otorgamiento de crédito a las entidades a que se refiere el artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, así como el manejo, operación y gestión de los mismos, que hayan sido autorizados conforme a lo previsto en la ley antes señalada en esta fracción y de conformidad con la legislación aplicable;
+
+IV. Dar cumplimiento a todas las obligaciones derivadas de las contrataciones u operaciones en las que intervenga;
+
+V. Emitir o suscribir, previa autorización del Congreso, valores y colocarlos a través de intermediarios financieros para que los coloquen entre el público inversionista, en los términos de la Ley de Deuda Pública para el Estado de Hidalgo y de la legislación aplicable en la materia;
+
+VI. Celebrar, según corresponda de acuerdo a lo previsto en la Ley de Deuda Pública para el Estado de Hidalgo, los actos jurídicos necesarios para el refinanciamiento y reestructuración de la deuda pública a cargo de las entidades a las que se refiere el Artículo 2 de la citada Ley en esta fracción;
+
+VII.- Constituirse, previa autorización del Congreso y sujeto a lo establecido en la Ley de Deuda Pública para el Estado de Hidalgo, en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en el Artículo 2 de la citada Ley en esta fracción;
+
+VIII.- Previa autorización del Congreso y de conformidad con los instrumentos jurídicos igualmente autorizados y aprobados, recibir los flujos de efectivo derivados de las afectaciones que las entidades públicas realicen a sus ingresos para establecer como fuente o garantía de pago, o ambas, los derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de las entidades señaladas en el Artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, que hayan celebrado contrato con el instituto para acceder a financiamiento y en cumplimiento de las disposiciones legales aplicables a la materia;
+
+IX.- Previa autorización del Congreso y de conformidad con los instrumentos jurídicos igualmente autorizados y aprobados, constituir como fuente o garantía de pago, o ambas, los flujos de efectivo que reciba de las entidades incluyendo los derechos al cobro e ingresos derivados de contribuciones cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de las entidades señaladas en el Artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, destinados al cumplimiento de las obligaciones financieras que haya contratado el Instituto en los mercados financieros;
+
+X.- Negociar, previa autorización del Congreso, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebren las entidades con el Instituto y a su vez los celebrados por el Instituto en los mercados financieros;
+
+XI.- Recibir, previa instrucción irrevocable o no, de las entidades que señala el Artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, pagos por cuenta de los mismos, con cargo a las participaciones federales, en su caso, que les correspondan, así como a sus ingresos propios;
+
+XII.- Solicitar a las entidades la documentación e información complementaria que requiera, para el análisis de las solicitudes de autorización de endeudamiento y para el cumplimiento de las obligaciones que contraiga;
+
+XIII.- Celebrar, de acuerdo a lo previsto en la Ley de Deuda Pública para el Estado de Hidalgo, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos por el Instituto en su carácter de emisor o deudor con base en la Ley antes referida;
+
+XIV.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere la Ley de Deuda Pública para el Estado de Hidalgo, a proyectos de inversión pública productiva de acuerdo con lo autorizado por el Congreso;
+
+XV.- Realizar oportunamente los pagos de capital, intereses y accesorios de la deuda del Instituto;
+
+XVI.- Proporcionar al Congreso la información que éste le requiera de acuerdo con la Ley de Deuda Pública para el Estado de Hidalgo, en relación con las operaciones de deuda pública que el Instituto celebre;
+
+XVII.- Inscribir los financiamientos que celebre en el Registro de Obligaciones y Empréstitos del Estado de Hidalgo, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
+
+XVIIl.-Promover la inscripción de los financiamientos que contraten las entidades con el propio instituto, cuando los mismos se contraigan con afectación de las participaciones federales que correspondan en su caso a las entidades, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar sobre la situación que guarden dichas obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+
+XIX.- Asesorar a las entidades señaladas en el Artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública;
+
+XX.- Diseñar e instrumentar Proyectos Público-Privados; y
+
+XXI.- Las demás que le confiera la Ley de Deuda Pública para el Estado de Hidalgo y otras disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -443,7 +583,13 @@ Las facultades y obligaciones establecidas en el Artículo 18, en favor o a carg
 
 Los montos y conceptos de endeudamiento, directo y contingente que en su caso, sean necesarios para el financiamiento del Estado, los municipios y las entidades de la administración pública paraestatal y paramunicipal, deberán ser incluidos anualmente por el Poder Ejecutivo del Estado y por los ayuntamientos, en la iniciativa de Ley de Ingresos del Estado y en las iniciativas de leyes de ingresos de los municipios, según corresponda, preservando siempre la viabilidad económica del Estado y el bienestar de los hidalguenses.
 
-Los montos y conceptos de endeudamiento necesarios para el financiamiento de las entidades de la administración pública paraestatal y paramunicipal, deberán ser autorizados anualmente en sus proyectos de presupuestos de ingresos para efectos de su propuesta e inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de leyes de ingresos de los municipios, según corresponda.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
+
+Los montos y conceptos de endeudamiento necesarios para el financiamiento de las entidades de la administración pública paraestatal y paramunicipal, deberán ser autorizados anualmente en sus proyectos de presupuestos de ingresos para efectos de su propuesta e inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de leyes de ingresos de los municipios, según corresponda y de conformidad con el Artículo 28 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2006)</small>
+
+Las Entidades deberán programar un superávit primario en sus finanzas y dar suficiencia a sus obligaciones de deuda en el presupuesto de egresos de cada año durante la vigencia del financiamiento.
 
 Dentro del plazo comprendido del primero al treinta de octubre de cada año, las entidades de la administración pública paraestatal y paramunicipal deberán solicitar a la Secretaría o al ayuntamiento respectivo, según corresponda, la autorización de los montos y conceptos de endeudamiento considerados en sus respectivos proyectos de presupuestos de ingresos y su inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de leyes de ingresos municipales, según sea pertinente.
 
@@ -507,9 +653,11 @@ Las entidades de la administración pública paraestatal, sólo podrán contrata
 
 Las entidades de la administración pública paramunicipal, únicamente podrán contratar créditos si cuentan con la autorización previa de sus Organos de Gobierno y del ayuntamiento correspondiente, otorgadas de acuerdo con lo previsto por los Artículos 15 fracción XX, 18 fracción V y 20 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 2006)</small>
+
 ###### Artículo 35.
 
-En todos los casos en que las entidades se propongan celebrar créditos o empréstitos, incluida la emisión de valores, deberán formular una solicitud de autorización de endeudamiento, en términos del Artículo 36 de esta Ley, a sus Organos de Gobierno, a los ayuntamientos, a la Secretaría y al Congreso, según corresponda.
+En todos los casos en que las entidades se propongan celebrar créditos o empréstitos, incluida la emisión de valores, deberán formular una solicitud de autorización de endeudamiento, en términos de los Artículos 36 y 36 Bis de esta Ley, a sus Órganos de Gobierno, a los ayuntamientos, a la Secretaría y al Congreso, según corresponda.
 
 En el caso de las solicitudes de autorización de endeudamiento que presenten ante el Congreso, el Poder Ejecutivo del Estado y los ayuntamientos, las mismas deberán presentarse bajo la forma de iniciativas de Ley o Decreto, según corresponda.
 
@@ -527,13 +675,133 @@ La Secretaría o el ayuntamiento respectivo, comunicarán oficialmente su resolu
 
 En los actos jurídicos, valores o títulos de crédito con que se documenten las operaciones de endeudamiento se deberán incluir los datos de la o las autorizaciones respectivas.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+Artículo 36 BIS.- El procedimiento para que las entidades a que se refiere el Artículo 2 de esta Ley accedan a financiamiento con la participación del Instituto para el Financiamiento del Estado de Hidalgo será conforme a los siguientes pasos:
+
+I.- Elaboración y publicación de convocatorias para acceder a financiamiento. El Instituto publicará una convocatoria indicando las fechas en las que éste accederá a financiamiento de los mercados financieros, con la intención de que las entidades interesadas en acceder a financiamiento, puedan inscribirse y participar en las operaciones de financiamiento en las fechas convocadas.
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Inscripción de las Entidades Públicas para participar en las operaciones de financiamiento. Las Entidades interesadas se inscribirán ante el instituto conforme a las instrucciones publicadas en la convocatoria, con al menos tres semanas de antelación previo a la fecha de cada financiamiento, y entregando la documentación indicada, que al menos incluirá lo siguiente:
+
+a).- La fecha de la operación de financiamiento en la que la Entidad desea participar;
+
+b).- El monto del financiamiento requerido;
+
+c).- El plazo estimado;
+
+d).- Los flujos de efectivo que dedicará al pago de las obligaciones;
+
+e).- Las preferencias en la forma de pago incluyendo periodo de gracia en el pago de capital;
+
+f).- El destino de los recursos; y
+
+g).- Cualquier otra indicación o preferencia de la entidad en cuanto al financiamiento requerido.
+
+El Instituto deberá acogerse a las instrucciones y requerimientos que formalicen las entidades en los términos de los incisos de ésta fracción; sin embargo estas especificaciones podrán variar una vez que el Instituto haya estructurado la operación de financiamiento, unitario o colectivo, conforme a las condiciones vigentes en los mercados financieros, procurando obtener los mejores términos y condiciones posibles.
+
+III. Gestión para la obtención de las autorizaciones de órganos competentes de Gobierno. El Instituto asistirá en gestión a cada entidad para obtener las autorizaciones de sus órganos competentes y de gobierno para que puedan acceder a financiamiento. Para ese efecto, el instituto asistirá a la entidad a elaborar la documentación jurídica y financiera que sea necesaria. Las autorizaciones que se deberán obtener son, en al menos, las siguientes vertientes:
+
+a).- Autorización para acceder a financiamiento en los montos, plazos, términos y condiciones previstos.
+
+b).- Autorización para comprometer de manera irrevocable, durante la vigencia del financiamiento, los flujos de efectivo necesarios, incluyendo la afectación de las participaciones que le correspondan e ingresos propios, así como otros flujos cuya normatividad lo permita, para el pago y/o garantía de las obligaciones crediticias y la conformación de fondos de reserva.
+
+Las autorizaciones se obtendrán de tal manera que el Instituto pueda fungir como acreedor ante las entidades.
+
+En caso de que alguna entidad no pueda obtener las autorizaciones necesarias, el Instituto no podrá continuar con el trámite de integración de la misma en la operación de financiamiento programada.
+
+IV.- Gestión para la obtención de aprobaciones del Congreso. El Instituto, una vez que las entidades participantes cuenten con las autorizaciones de sus órganos competentes y de gobierno conforme a la fracción anterior de esta Ley, elaborará la documentación jurídica, financiera y de cualquier otra índole en conformidad con esta Ley, que sea necesaria para gestionar, del Congreso, las siguientes aprobaciones:
+
+a).- Para que las Entidades puedan acceder al financiamiento en los montos, plazos y términos autorizados por sus respectivos órganos competentes y de gobierno conforme a la Fracción III de este Artículo.
+
+b).- En el caso del propio Instituto, gestionará la aprobación de endeudamiento para sí, por el monto total autorizado a que se refiere el inciso "a" de esta Fracción, así como por el monto que el propio Instituto pueda requerir para realizar sus propias funciones.
+
+c).- Para comprometer de manera irrevocable, durante la vigencia del financiamiento, los flujos de efectivo necesarios, incluyendo la afectación de las participaciones que le correspondan e ingresos propios, así como otros flujos cuya normatividad lo permita, para el pago y/o garantía de las obligaciones crediticias y la conformación de fondos de reserva.
+
+Las aprobaciones se obtendrán de tal manera que el Instituto pueda fungir como: acreedor de las propias entidades y como deudor o emisor ante los participantes en los mercados financieros conforme a esta Ley.
+
+En caso de que el Congreso no apruebe a alguna entidad para acceder al financiamiento en los montos, plazos y condiciones solicitadas, el Instituto asistirá a la entidad a revisar y adecuar su solicitud a los requerimientos formulados por el Congreso, observando siempre los plazos de la convocatoria a la que se refiere la Fracción I de este Artículo. De continuar la imposibilidad, el Instituto no podrá continuar con el trámite de integrar a esa entidad en la operación de financiamiento programada.
+
+V.- Elaboración, gestión e integración de documentos jurídicos, financieros y de cualquier otra índole. El instituto deberá solicitar e integrar, así como elaborar y gestionar la obtención de la información y documentación necesarias para las operaciones de financiamiento, la cual podrá consistir en:
+
+a).- Solicitudes, autorizaciones y aprobaciones de deuda;
+
+b).- Constitución, autorización y aprobación de avales cuando se requieran en los términos de esta Ley;
+
+c).- Escenarios de deuda y tablas de amortización;
+
+d).- Estados Financieros;
+
+e).- Otros dictámenes y certificaciones;
+
+f).- Mandatos e Instrucciones;
+
+g).- Cálculos de superávit primario;
+
+h).- Prospectos de colocación;
+
+i).- Reportes e informes;
+
+j).- Calificaciones de Crédito; y
+
+k).- Cualquier otra que sea necesaria.
+
+VI. Suscripción de documentos para la intercepción de flujos de efectivo de las entidades y constitución de fondos de reserva. El Instituto suscribirá con las entidades, los instrumentos jurídicos y financieros que le faculten, de manera irrevocable durante la vigencia del financiamiento, para recibir pagos calendarizados en su carácter de acreedor, a través de la intercepción de flujos de efectivo previo a que ingresen a las cuentas bancarias y/o tesorerías de las entidades, con lo cual, dichos flujos de efectivo, pasarán a formar parte del patrimonio del Instituto y perderán su condición o naturaleza de origen. El Instituto, por su parte, acordará el compromiso de la entrega del financiamiento a las entidades, una vez que este haya sido obtenido y se encuentre disponible en sus cuentas bancarias, lo cuál podrá efectuarse en cualquiera de las siguientes modalidades:
+
+a).- Transferencia de los fondos a los municipios que así lo deseen y lo manifiesten expresamente por escrito al suscribir el contrato correspondiente;
+
+b).- Transferencia de los recursos obtenidos por financiamiento, a un fondo creado para este efecto, con excepción de los montos correspondientes a los municipios que hayan optado por el inciso "a" de esta fracción, para ministrarlo a las entidades, conforme al avance de los proyectos de inversión pública productiva;
+
+Los documentos a que se refiere esta fracción, podrán consistir entre otros que se consideren necesarios, en:
+
+1.- Registros ante autoridades e instituciones competentes;
+
+2.- Contratos, acuerdos, convenios, mandatos e instrucciones con carácter irrevocable o no;
+
+3.- Títulos de crédito y/o bonos;
+
+4.- Certificados de participación inmobiliaria,
+
+5.- Contratos bancarios o con instituciones financieras;
+
+6.- Convocatorias y contratos con proveedores de servicio;
+
+7.- Contratos de fideicomisos; y
+
+8.- Cualquier otra que sea necesaria.
+
+VII.- Suscripción de documentos para acceder a financiamiento de los mercados financieros y comprometer el pago de obligaciones correspondiente. El Instituto deberá suscribir los instrumentos jurídicos y financieros necesarios para obtener financiamiento de los mercados financieros conforme a lo estipulado en esta Ley, y comprometer los flujos de efectivo que forman parte de su patrimonio, para el pago de obligaciones correspondientes. De igual forma, establecerá los fondos de reserva necesarios para garantizar posibles contingencias y obtener mejores calificaciones crediticias.
+
+Los documentos a que se refiere esta fracción, podrán consistir entre otros que se consideren necesarios, en:
+
+a).- Registros ante autoridades e instituciones competentes;
+
+b).- Contratos, acuerdos, convenios, mandatos e instrucciones con carácter de irrevocables o no;
+
+c).- Títulos de crédito y/ó bonos;
+
+d).- Certificados de participación inmobiliaria,
+
+e).- Contratos bancarios o con instituciones financieras;
+
+f).- Contratos de fideicomisos;
+
+g).- Convocatorias y contratos con proveedores de servicio; y
+
+h).- Cualquier otra que sea necesaria.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
+
 ###### Artículo 37.
 
-Una vez que las entidades cuenten con las aprobaciones de los Organos de Gobierno, de los ayuntamientos y de la Secretaría, según corresponda, podrán gestionar en forma directa ante el Congreso, la autorización para la obtención de los créditos o empréstitos que se propongan celebrar.
+Una vez que las entidades cuenten con las aprobaciones de los órganos de gobierno, de los Ayuntamientos y de la Secretaría, según corresponda, podrán gestionar en forma directa o por conducto del Instituto para el Financiamiento del Estado de Hidalgo, ante el Congreso, la autorización para la obtención de los créditos o empréstitos que se propongan celebrar.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
 
 ###### Artículo 38.
 
-El Congreso solicitará a las entidades la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento que se le presenten.
+El Congreso solicitará a las entidades o al Instituto para el Financiamiento del Estado de Hidalgo la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento que se le presenten.
 
 ###### Artículo 39.
 
@@ -543,9 +811,11 @@ Las entidades negociarán, aprobarán y suscribirán, en el ámbito de su compet
 
 Las entidades estarán obligadas a remitir al Congreso, dentro de un plazo de sesenta días naturales, contados a partir de la celebración de cualquier crédito o empréstito, un informe escrito que refleje el monto, forma y términos de los mismos, incluyendo plazo, gracia, tasas de interés ordinaria y moratoria, así como información sobre la aplicación de los recursos correspondientes, acompañando copia de los documentos en los que consten los actos jurídicos, valores o títulos de crédito que las documenten.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
+
 ###### Artículo 41.
 
-Las entidades que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado para los conceptos a que se destinarán los empréstitos o créditos y optar por la que ofrezca las condiciones más favorables al interés público. Este análisis deberá quedar debidamente documentado y a disposición del Congreso.
+Las Entidades que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado para los conceptos a que se destinarán los empréstitos o créditos y optar por la que ofrezca las condiciones más favorables al interés público, considerando lo dispuesto en el Artículo 14 Bis de esta Ley. Este análisis deberá quedar debidamente documentado y a disposición del Congreso.
 
 ###### Artículo 42.
 
@@ -587,9 +857,11 @@ El Estado, por conducto de la Secretaría, podrá otorgar a los municipios y a l
 
 Asimismo, los municipios podrán otorgar créditos de los anteriormente señalados, a las entidades de la administración pública paramunicipal.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
+
 ###### Artículo 51.
 
-El Poder Ejecutivo del Estado asesorará por conducto de la Secretaría, en los casos en que así se lo requieran, a los municipios, a las entidades de la administración pública paraestatal y paramunicipal, en la formulación de sus proyectos financieros y en lo relativo a las operaciones que pretendan realizar en materia de deuda pública.
+El Poder Ejecutivo del Estado asesorará por conducto de la Secretaría o del Instituto para el Financiamiento del Estado de Hidalgo, en los casos en que así se lo requieran, a los municipios, a las entidades de la Administración Pública Paraestatal y paramunicipal, en la formulación de sus proyectos financieros y en lo relativo a las operaciones que pretendan realizar en materia de deuda pública.
 
 ### Capítulo Quinto. De la Emisión y Colocación de Valores
 
@@ -697,7 +969,9 @@ El Estado, los municipios y las entidades de la administración pública paraest
 
 Las participaciones federales únicamente podrán ser afectadas, en los términos del Artículo 71 de esta Ley, para el pago de obligaciones, directas o contingentes, que contraigan el Estado o los municipios con autorización del Congreso e inscritas a petición de dichas entidades en el Registro de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Hidalgo, en favor de la Federación, de instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
 
-Los municipios podrán afectar en favor del Estado las participaciones que en ingresos federales les correspondan, en los casos en que así lo acuerden.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
+
+Los Municipios podrán afectar en favor del Estado ó del Instituo (sic) para el Financiamiento del Estado de Hidalgo las participaciones que en ingresos federales les correspondan, en los casos en que así lo acuerden.
 
 ###### Artículo 75.
 
@@ -878,3 +1152,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 2006.
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
