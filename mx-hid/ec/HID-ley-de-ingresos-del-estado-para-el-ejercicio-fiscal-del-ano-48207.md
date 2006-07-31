@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-del-ano-482
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2006-07-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 30 de diciembre de 2005.
 
@@ -147,6 +147,8 @@ g).- Bienes y herencias vacantes, tesoros ocultos, legados, donaciones y otros a
 
 V.- El Estado, sus Organismos Públicos y las Empresas de Participación Estatal percibirán ingresos por concepto de los siguientes ingresos extraordinarios:
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 31 DE JULIO DE 2006)</small>
+
 a).- Empréstitos;
 
 b).- Expropiaciones;
@@ -157,7 +159,9 @@ d).- Aportaciones para obras de beneficencia social;
 
 e).- Apoyos financieros Federales;
 
-f).- Gastos de operación por la realización de pagos en Instituciones Bancarias o por algunos de los medios electrónicos aprobados por la Secretaría de Finanzas; y
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2006)</small>
+
+f).- Gastos de operación por la realización de pagos en instituciones bancarias o por algunos de los medios electrónicos aprobados por la Secretaría de Finanzas; y
 
 g).- Otros ingresos Extraordinarios.
 
@@ -165,59 +169,53 @@ VI.- El Estado percibirá ingresos por concepto de Participaciones y Fondos de A
 
 Las Participaciones y Fondos de Aportaciones Federales se percibirán de acuerdo con las bases, cuotas y conductos que establezca la Ley de Coordinación Fiscal Federal, así como los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, el de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, así como los demás que se suscriban para el efecto con la Federación.
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
 VII.- Todo lo anterior significa un total estimado por conceptos por las siguientes cantidades:
 
 Concepto de Ingreso Monto
 
 (Miles de pesos)
 
-INGRESOS PROPIOS 1,083,462.1
+INGRESOS PROPIOS 3,497,462.10
 
 IMPUESTOS ESTATALES 270,949.7
 
 Impuesto Sobre Nóminas 141,635.9
 
-Impuesto por la prestación
+Impuesto por la prestación de
 
-de servicios de hospedaje 3,093.5
+servicios de hospedaje 3,093.5
 
-Impuesto por la adquisición
+Impuesto por la adquisición de
 
-de automóviles usados 8,091.8
+Automóviles usados 8,091.8
 
-Impuesto sobre Tenencia 19,493.3
+Impuesto Sobre Tenencia 19,493.3
 
-Impuesto sobre rifas,
+Impuesto sobre rifas, loterías, sorteos
 
-loterías, sorteos y concursos 670.6
+y concursos 670.6
 
 Impuesto del 30% adicional 86,964.6
 
-Impuesto sobre Honorarios
+Impuesto sobre Honorarios Profesionales
 
-Profesionales y Otras 11,000.0
-
-Actividades Lucrativas Similares
+y Otras Actividades Lucrativas Similares 11,000.0
 
 DERECHOS 679,920.2
 
 Secretaría de Gobierno 33,524.5
 
-Secretaria de Finanzas 53,025.7
+Secretaría de Finanzas 53,025.7
 
-Secretaría de Seguridad
+Secretaría de Seguridad Pública 28,741.3
 
-Pública 28,741.3
+Secretaría de Obras Públicas 86.0
 
-Secretaria de Obras
+Secretaría de Contraloría 320.9
 
-Públicas 86.0
-
-Secretaria de Contraloría 320.9
-
-Procuraduría General
-
-de Justicia 1,047.4
+Procuraduría General de Justicia 1,047.4
 
 Organismos Públicos 563,174.4
 
@@ -237,45 +235,35 @@ Multas 2,442.7
 
 Recargos 7,616.2
 
-Honorarios y gastos
+Honorarios y gastos de ejecución 108.3
 
-de ejecución 108.3
-
-Cauciones resueltas a
-
-favor del Estado 35.5
+Cauciones resueltas a favor del estado. 35.5
 
 Organismos Públicos 43,694.2
 
-EXTRAORDINARIOS 4,087.4
+EXTRAORDINARIOS 2,454,087.40
 
-PARTICIPACIONES
+Empréstitos 2,450,000.0
 
-FEDERALES 5,162,517.5
+Instituciones Bancarias 4,087.4
 
-Fondo General de
+PARTICIPACIONES FEDERALES 5,162,517.5
 
-Participaciones 4,263,877.8
+Fondo General de Participaciones 4,263,877.8
 
 Impuestos Especiales 48,289.1
 
 Impuesto Sobre Tenencia 169,503.7
 
-Impuesto Sobre Automóviles
-
-Nuevos 31,023.6
+Impuesto Sobre Automóviles Nuevos 31,023.6
 
 Incentivos Económicos 56,265.7
 
 Fondo de Fomento Municipal 593,557.6
 
-PROGRAMA DE
+PROGRAMA DE FORTALECIMIENTO
 
-FORTALECIMIENTO
-
-ENTIDADES
-
-FEDERATIVAS 459 569.3
+ENTIDADES FEDERATIVAS. 459,569.3
 
 RAMO 33 9,014,024.9
 
@@ -285,15 +273,13 @@ Servicios de Salud 1,228,268.3
 
 Infraestructura Social 892,957.8
 
-Municipal 7,84,731.3
+Municipal 784,731.3
 
 Estatal 108,226.5
 
 Fortalecimientos a Municipios 635,395.3
 
-Fondo de Aportaciones
-
-Múltiples 268,794.8
+Fondo de Aportaciones Múltiples 268,794.8
 
 Asistencia Social 128,623.3
 
@@ -301,9 +287,7 @@ Infraestructura Básica 71,673.6
 
 Infraestructura Superior 68,497.9
 
-Educación Tecnológica
-
-y de Adultos 75,585.6
+Educación Tecnológica y de Adultos 75,585.6
 
 Educación Tecnológica 31,549.9
 
@@ -311,7 +295,7 @@ Educación de Adultos 44,035.7
 
 Seguridad Pública 99,067.5
 
-TOTAL 15,683,573.8
+TOTAL 18,133,573.80
 
 ###### ARTICULO 2.
 
@@ -381,6 +365,12 @@ Lo establecido en los Artículos anteriores, se aplicará a los ingresos que por
 
 Las Entidades y Organismos a que se refiere el Artículo anterior y las Empresas de Participación Estatal, deberán estar inscritas en el Registro Estatal correspondiente y llevar contabilidad, de conformidad con las disposiciones fiscales, así como presentar las declaraciones e informes que correspondan, en los términos de dichos ordenamientos.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+###### ARTICULO 11.
+
+El monto de endeudamiento anual autorizado, bajo la partida de Crédito a que se refiere el Artículo 1° de esta Ley, mismo que asciende a la cantidad de $2,450'000,000.00 (Dos mil cuatrocientos cincuenta millones de pesos 00/100 m.n.), será aplicado en los términos que señale el Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo para el año 2006.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -420,3 +410,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
