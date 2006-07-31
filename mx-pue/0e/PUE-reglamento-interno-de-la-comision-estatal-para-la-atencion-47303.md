@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interno-de-la-comision-estatal-para-la-atencion-4730
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-11"
-last_updated: "2005-11-11"
+last_updated: "2006-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA ATENCION DEL MIGRANTE POBLANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2006.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de noviembre de 2005.
 
@@ -59,9 +59,17 @@ III.- Comisión.- Comisión Estatal para la Atención del Migrante Poblano;
 
 IV.- Comisión Intersecretarial.- Comisión Intersecretarial del Programa Estatal para la Atención del Migrante Poblano;
 
-V.- Alto Comisionado.- Alto Comisionado del Programa Estatal para la Atención del Migrante Poblano y de la Comisión Estatal para la Atención del Migrante Poblano; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-VI.- Consejo Consultivo.- Consejo Consultivo de la Comisión Estatal para la Atención del Migrante Poblano.
+V.- Alto Comisionado.- Alto Comisionado del Programa Estatal para la Atención del Migrante Poblano y de la Comisión Estatal para la Atención del Migrante Poblano;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+VI.- Consejo Consultivo.- Consejo Consultivo de la Comisión Estatal para la Atención del Migrante Poblano; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+VII.- Representaciones en el Extranjero.- Oficinas de Representación de la Comisión Estatal para la Atención del Migrante Poblano en el Extranjero, comúnmente llamadas "Casas Puebla".
 
 ###### ARTÍCULO 3.
 
@@ -83,9 +91,17 @@ III.- Subdirección de Protección al Migrante;
 
 IV.- Subdirección de Asuntos Jurídicos;
 
-V.- Subdirección de Vinculación Institucional; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-VI.- Subdirección Administrativa.
+V.- Subdirección de Vinculación Institucional;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+VI.- Subdirección Administrativa; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+VII.- Representaciones en el Extranjero.
 
 Las unidades administrativas de la Comisión estarán integradas por el personal administrativo que el servicio requiera, de acuerdo con el manual de organización vigente y que se autoricen conforme al presupuesto de egresos correspondiente.
 
@@ -135,9 +151,41 @@ XIV.- Presentar a las autoridades competentes de conformidad con la normatividad
 
 XV.- Promover la constante capacitación del personal de la Comisión;
 
-XVI.- Tomar las decisiones que considere adecuadas para atender las situaciones no previstas en el presente Reglamento, los Manuales de Organización, Procedimientos y de Servicios al Público, informando oportunamente a la Comisión Intersecretarial; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XVII.- Las que le señale la Comisión Intersecretarial y las demás disposiciones legales aplicables.
+XVI.- Tomar las decisiones en aquellos asuntos que por su naturaleza requieran inmediata resolución y que no estén previstas en el presente Reglamento, los Manuales de Organización, Procedimientos y Servicios al Público, informando oportunamente de su trámite y desahogo a la Comisión Intersecretarial;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XVII.- Dirigir y supervisar las actividades que, en ejercicio de sus atribuciones, realicen los titulares de las Representaciones en el Exterior, los subdirectores y demás personal administrativo a su cargo;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XVIII.- Coordinar y vigilar que los servicios de asistencia, asesoría y apoyo a las Representaciones en el Extranjero se presten de manera oportuna y eficiente;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XlX.- Verificar que los informes que sean requeridos a las Representaciones en el Extranjero, se hagan con las formalidades debidas y en su caso, analizar las opiniones que sobre el funcionamiento y operatividad de las Representaciones en el Extranjero sean puestas a su consideración por los subdirectores, instrumentando las medidas correctivas necesarias a fin de mejorar el servicio otorgado a los migrantes;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XX.- Servir de enlace entre las diferentes instancias gubernamentales y las Representaciones en el Extranjero, a fin de hacer efectivo el acercamiento de los servicios gubernamentales a las comunidades poblanas radicadas en el exterior;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXI.- Vigilar a través de las instancias que correspondan de la Comisión, la debida instrumentación por parte de las Representaciones en el Extranjero de los programas que en materia de salud, educación, cultura y deporte instituya la propia Comisión;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXlI.- Interactuar con las dependencias y entidades de la Administración Pública, con el objeto de que las funciones de gestoría de las Representaciones en el Extranjero para la obtención de documentos oficiales, se realicen de manera oportuna, eficiente y de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXlII.- Supervisar y en su caso, coordinar la participación de las Representaciones en el Extranjero, en la organización y asistencia de éstas a ferias, exposiciones y eventos internacionales, orientadas a promover los valores culturales y la identidad de los poblanos que radican en el exterior; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXIV.- Las que le señale la Comisión Intersecretarial y las demás disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LAS SUBDIRECCIONES
 
@@ -177,9 +225,17 @@ V.- Realizar labores de localización de poblanos que radican en el exterior y q
 
 VI.- Instrumentar acciones para la prevención de los riesgos de la migración;
 
-VII.- Difundir los derechos humanos y laborales de los migrantes; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-VIII.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
+VII.- Difundir los derechos humanos y laborales de los migrantes;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+VIII.- Brindar asistencia a las Representaciones en el Extranjero en materia de protección de los derechos de los migrantes poblanos; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+IX.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
 ###### ARTÍCULO 10.
 
@@ -203,9 +259,21 @@ VIII.- Representar en asuntos judiciales a la Comisión, así como en todas las 
 
 IX.- Formular y presentar denuncias o querellas ante el Ministerio Público por hechos presuntamente ilícitos que afecten a la Comisión;
 
-X.- Recabar, registrar y archivar los instrumentos jurídicos en los que intervenga la Comisión; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XI.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
+X.- Recabar, registrar y archivar los instrumentos jurídicos en los que intervenga la Comisión;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XI.- Certificar los documentos que obren en el archivo de la Comisión y, en su caso, expedir copias certificadas de los mismos, en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XlI.- Proporcionar asesoría y apoyo a las Representaciones en el Extranjero a través de estudios, consultas y análisis jurídicos; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XlII.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
 ###### ARTÍCULO 11.
 
@@ -245,9 +313,21 @@ XVI.- Promover donaciones del exterior a favor de las comunidades de origen de l
 
 XVII.- Promover mecanismos para disminuir el costo del envío de remesas y procurar su utilidad social;
 
-XVIII.- En coordinación con las autoridades competentes, promover la constitución de empresas en el Estado con inversión de los migrantes; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XIX.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
+XVIII.- Coadyuvar con las autoridades competentes, a fin de promover la constitución de empresas en el Estado con inversión de los migrantes;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XIX.- Recabar los informes de las Representaciones en el Extranjero y presentar al Alto Comisionado un reporte sobre sus actividades;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XX.- Emitir opiniones sobre el funcionamiento y operatividad de las Representaciones en el Extranjero y someterlas a consideración del Alto Comisionado, con el objeto de generar recomendaciones que permitan mejorar el servicio otorgado a los migrantes; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2006)</small>
+
+XXI.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
 
 ###### ARTÍCULO 12.
 
@@ -345,15 +425,81 @@ V.- Apoyar la realización de los planes y programas de la Comisión de acuerdo 
 
 Las convocatorias del Consejo Consultivo deberán ser notificadas a todos los integrantes, por los medios más eficaces, con una anticipación de por lo menos 5 días hábiles para sesiones ordinarias y para sesiones extraordinarias con 48 horas de anticipación. Para que las sesiones del Consejo Consultivo se consideren válidas se requerirá la asistencia de la mitad más uno de sus miembros.
 
-### CAPÍTULO VI. DE LAS RELACIONES LABORALES
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE LAS REPRESENTACIONES EN EL EXTRANJERO
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+ARTÍCULO 19 BIS.- Las Representaciones en el Extranjero tendrán por objeto acercar los servicios gubernamentales del Estado a las comunidades poblanas radicadas en el exterior y coadyuvar con las autoridades competentes en la promoción del Estado de Puebla en el ámbito internacional.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+ARTÍCULO 19 TER.- Para la instalación de las Representaciones en el Extranjero, deberán tomarse en consideración a las ciudades que en el ámbito internacional concentren mayor cantidad de residentes poblanos o en las que existan razones estratégicas de inversión, promoción comercial, cultural, turística o de cualquier otra índole que resulte de relevancia para el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+ARTÍCULO 19 QUÁTER.- Para el cumplimiento de sus objetivos y óptimo desarrollo de sus funciones, las Representaciones en el Extranjero contarán con los recursos humanos, materiales y financieros que requieran, de conformidad con la disponibilidad presupuestal y en términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+ARTÍCULO 19 QUINQUIES.- Las Representaciones en el Extranjero tendrán las siguientes funciones y atribuciones:
+
+I.- Brindar información a los migrantes poblanos sobre sus derechos en el exterior y, sin perjuicio de la competencia de las dependencias federales, coadyuvar con las autoridades consulares, ofreciéndoles asesoría en materia de protección jurídica;
+
+II.- Acercar los servicios gubernamentales que se brindan en el Estado a las comunidades poblanas radicadas en el exterior, mediante la participación interinstitucional de las dependencias y entidades de la Administración Pública; desarrollar en su área de influencia los programas de la Comisión en materia de salud, educación, cultura, deporte y, en general, instrumentar acciones a favor de los migrantes poblanos;
+
+III.- Servir ante la comunidad migrante como gestor de documentos oficiales expedidos por las dependencias y entidades de la Administración Pública de conformidad con la normatividad aplicable;
+
+IV.- Promover la interlocución entre las comunidades de destino y de origen de los migrantes poblanos, fomentando los lazos de hermandad y preservando la identidad y cultura poblana;
+
+V.- Coadyuvar con las autoridades competentes, en la promoción de los productos poblanos en el área de influencia de las Representaciones en el Extranjero;
+
+VI.- Colaborar con las autoridades competentes, en la promoción de la inversión productiva de la comunidad migrante en el Estado;
+
+VII.- Coadyuvar con las autoridades competentes, en la promoción del potencial turístico del Estado de Puebla, difundiendo los atractivos de nuestra Entidad;
+
+VIII.- Coadyuvar con las autoridades competentes, a fin de organizar y, en su caso, participar en ferias, exposiciones y eventos internacionales, con el objeto de promover los valores culturales y la identidad de los poblanos que radican en el exterior procurando la intervención de artesanos, artistas plásticos, grupos musicales, grupos de danza y de otras expresiones culturales;
+
+IX.- Promover la organización comunitaria en el exterior, brindando asesoría para la constitución de clubes, asociaciones y organizaciones de migrantes poblanos;
+
+X.- Promover, conjuntamente con las autoridades federales, estatales y municipales, la iniciativa de los migrantes para impulsar el desarrollo de sus comunidades de origen, mediante la integración de proyectos productivos y sociales; y
+
+XI.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le delegue el Alto Comisionado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2006)</small>
+
+ARTÍCULO 19 SEXIES.- Al frente de cada Representación en el Extranjero habrá un titular, que dependerá jerárquicamente del Alto Comisionado y fungirá como representante de la Comisión ante la comunidad migrante, con las siguientes atribuciones:
+
+I.- Representar a la Comisión ante la Comunidad Migrante radicada en el exterior;
+
+II.- Ejecutar los acuerdos e indicaciones del Alto Comisionado y de la Comisión Intersecretarial;
+
+III.-Representar al Alto Comisionado en asuntos o reuniones de trabajo, cuando así lo determine e informarle sobre el resultado del ejercicio de esa representación;
+
+IV.- Brindar atención y orientación a la comunidad migrante radicada en el exterior, difundiendo las actividades de la Comisión y, en general, facilitar el acceso de los servicios del Gobierno del Estado;
+
+V.- Gestionar la obtención de documentos oficiales expedidos por las dependencias y entidades de la Administración Pública Estatal, de conformidad con los programas desarrollados para tal fin y la normatividad aplicable y, de ser procedente, entregarlos a los solicitantes a través de las Representaciones en el Exterior;
+
+VI.- Mantener en estrecha comunicación con la Comisión y realizar consultas sobre casos específicos que no sea posible resolver desde la Oficina de Representación a su cargo;
+
+VII.- Informar mensualmente a la Comisión o cuando lo solicite el Alto Comisionado, sobre el número de casos atendidos, especificando su clasificación, el tipo de apoyo otorgado, el impacto generado, el lugar donde radica el solicitante, su comunidad de origen y demás datos que se le requieran, o considere importantes;
+
+VIII.- Proporcionar al Alto Comisionado o a los subdirectores de la Comisión cuando así lo soliciten, los informes y requerimientos que les requieran en ejercicio de sus funciones; y
+
+IX.- Las demás que le señalen el presente Reglamento, otras disposiciones legales o las que le encomiende o delegue el Alto Comisionado.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO V], P.O. 31 DE JULIO DE 2006)</small>
+
+### CAPÍTULO VI. DE LAS RELACIONES LABORALES
 
 ###### ARTÍCULO 20.
 
 Las relaciones laborales entre la Comisión y sus trabajadores se regirán conforme a la legislación correspondiente, el presente Reglamento y los manuales que se expidan.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 21.
 
@@ -374,3 +520,15 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Las aprobaciones de la Comisión Intersecretarial que prevé el artículo Décimo Segundo de su Decreto de Creación podrán ser posteriores a la instrumentación de las acciones que requieran ejecución inmediata. Lo anterior, sin menoscabo de las más amplias facultades de gestión de la Comisión Intersecretarial para realizar a nombre de la Comisión todos los actos que fueren necesarios para el cumplimiento del objeto.
 
 Dado en la Heroica Puebla de Zaragoza, a los 14 días del mes de octubre de 2005.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE JULIO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
