@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2002-06-22"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -222,6 +222,10 @@ En casos excepcionales, con autorización de la Secretaría de Finanzas y previo
 ###### Artículo 17.
 
 En las adquisiciones de bienes muebles, arrendamientos y contratación de servicios, se preferirá como proveedor en igualdad de circunstancias y en el orden que se indica a: las secretarías, dependencias y organismos auxiliares y paraestatales de las tres instancias de gobierno; a las empresas del sector social y privado del Estado, atendiendo también los términos de la Ley de Fomento Económico del Estado de Jalisco. Asimismo, se dará preferencia a la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Las secretarías, dependencias, organismos auxiliares y entidades paraestatales de las tres instancias de gobierno, se considerarán de acreditada solvencia y no estarán obligadas, por tanto, a constituir depósitos, garantías, fianzas en los casos en que ellas actúen como proveedores o prestadores de servicios, siempre y cuando tengan capacidad para prestar el servicio o proveer el bien por si mismas, en su totalidad.
 
 ###### Artículo 18.
 
@@ -684,3 +688,7 @@ P.O. 22 DE JUNIO DE 2002.
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, deberán expedir sus reglamentos de adquisiciones y enajenaciones en un plazo de 90 días naturales contados a partir de la vigencia del presente decreto.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
