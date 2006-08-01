@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2000-09-26"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -105,7 +105,9 @@ X.- Proponer a las diversas autoridades del Estado y de los municipios que en el
 
 XI.- Denunciar cuando tenga conocimiento, ante la Comisión Nacional de Derechos Humanos, las violaciones de derechos humanos, cometidas por autoridades federales en el territorio del Estado;
 
-XII.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en cualquier centro de detención, reclusión o internamiento en el Estado, estén apegadas a Derecho y se garantice la plena vigencia de sus derechos humanos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XII.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en cualquier centro de detención, reclusión o internamiento en el Estado, estén apegadas a Derecho y se garantice la plena vigencia de sus derechos humanos, especialmente de los adolescentes sujetos a una medida de internamiento provisional o definitivo consecuencia de alguna conducta tipificada como delito en las leyes del Estado;
 
 XIII.- Solicitar el reconocimiento médico de cualquier detenido cuando se presuman malos tratos o torturas, comunicando oportunamente a las autoridades competentes los resultados de las revisiones practicadas, y en caso de comprobarse violaciones a los derechos humanos, emitir la recomendación correspondiente;
 
@@ -281,7 +283,9 @@ III.- Efectuar todas las actividades necesarias para lograr, la reparación inme
 
 IV.- Realizar todas las investigaciones con la discreción que el caso amerite, respetando plenamente el derecho de audiencia;
 
-V.- Supervisar el respeto a los derechos humanos en el sistema penitenciario y de readaptación social del Estado, así como en separos y cárceles municipales;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+V.- Supervisar el respeto a los derechos humanos en el sistema penitenciario y de readaptación social del Estado, en los centros de internación del Sistema Integral de Justicia para Adolescentes, así como en los separos y cárceles municipales;
 
 VI.- Acordar el sobreseimiento y archivo de los casos que no correspondan a la competencia de la Procuraduría;
 
@@ -648,3 +652,15 @@ LIC. JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Único.- Las presentes modificaciones a la Ley para la Protección de los Derechos Humanos en el Estado de Guanajuato, entrarán en vigencia el 12 de septiembre del año 2006 dos mil seis.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
