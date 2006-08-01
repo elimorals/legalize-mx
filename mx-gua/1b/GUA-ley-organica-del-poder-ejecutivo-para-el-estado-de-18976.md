@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2005-05-20"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -279,11 +279,21 @@ j) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 k) Participar con las demás dependencias del Poder Ejecutivo competentes en la simplificación del ordenamiento jurídico y administrativo;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
 III.- En materia de defensoría pública:
 
 a) Ejercer las atribuciones de la representación gratuita en materia civil;
 
 b) Organizar y supervisar la defensoría de oficio para hacer efectiva la garantía de una adecuada defensa a los inculpados;
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+c) Organizar y supervisar la Unidad de Defensoría Administrativa del Servidor Público;
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+d) Organizar y supervisar la defensoría de oficio especializada para hacer efectiva la garantía de una adecuada defensa legal a los adolescentes que al tener entre doce años cumplidos y menos de dieciocho años de edad, realicen una conducta tipificada como delito en las leyes del Estado;
 
 IV.- En materia administrativa:
 
@@ -769,21 +779,31 @@ b) Administrar los centros de readaptación social estatales y coordinar la obse
 
 c) Conocer y resolver sobre el otorgamiento y revocación del beneficio de la preliberación y someter a la consideración del Gobernador del Estado lo relativo a la libertad anticipada y la remisión parcial de la sanción, de conformidad con las leyes respectivas;
 
-d) Administrar las instituciones de internamiento para menores infractores;
+d) (DEROGADO, P.O. 1 DE AGOSTO DE 2006)
 
-III.- En materia de protección civil:
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- En materia de reintegración social y familiar:
+
+a) Ejecutar y vigilar la ejecución de las medidas que se impongan a los adolescentes sentenciados por autoridad competente, encaminadas a su reintegración social y familiar, así como al pleno desarrollo de su persona y capacidades; y
+
+b) Administrar los Centros de Internación para adolescentes sentenciados por autoridad competente;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IV.- En materia de protección civil:
 
 a) Realizar, coordinar e inducir las actividades de los sectores público, social y privado en materia de protección civil, de acuerdo con los programas que para tal efecto se instauren por la Federación, el Estado y los municipios;
 
-b) Coordinar las actividades del Sistema Estatal de Protección Civil;
+b) Coordinar las actividades del sistema estatal de protección civil;
 
-c) Organizar y operar mecanismos de capacitación para los organismos de protección civil; y
+c) Organizar y operar mecanismos de capacitación para los organismos de protección civil;
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2005)</small>
+d). Realizar los trámites que le corresponden al ejecutivo del Estado derivados de la Ley Federal de Armas de Fuego y Explosivos; y
 
-d) Realizar los trámites que le corresponden al Ejecutivo del Estado derivados de la Ley Federal de Armas de Fuego y Explosivos; y
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-IV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+V.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
@@ -1420,3 +1440,19 @@ Artículo Tercero.- Los trámites derivados de la Ley Federal de Armas de Fuego 
 Artículo Cuarto.- Toda referencia que la Ley de Tránsito y Transporte del Estado de Guanajuato, la Ley de Seguridad Pública del Estado de Guanajuato y la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato hagan respecto a las facultades de vigilancia y regulación del tránsito en las carreteras y caminos de jurisdicción estatal, se entenderá que corresponden a la Dirección General de Tránsito y Transporte, unidad administrativa adscrita a la Secretaría de Gobierno.
 
 Artículo Quinto.- El Ejecutivo del Estado deberá adecuar los reglamentos correspondientes y las demás disposiciones aplicables en las materias de vigilancia y regulación del tránsito en carreteras y caminos de jurisdicción estatal, y las demás previstas en el presente Decreto, dentro de los 90 noventa días siguientes a la entrada en vigor del mismo.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- Las presentes modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Gobierno deberá contar con la Defensoría de Oficio Especializada a que se refiere la Ley de Justicia para Adolescentes, la cual estará estructurada, con los elementos y organización necesarios, para iniciar funciones a la entrada en vigor de la Ley de Justicia para Adolescentes.
+
+Artículo Tercero.- La Secretaría de Seguridad Pública deberá contar con la Dirección General de Reintegración social para adolescentes a que se refiere la Ley de Justicia para Adolescentes y cuyas atribuciones se consignan en la fracción III del artículo 31 de esta Ley, la cual estará estructurada, con los elementos y organización necesarios, así como con las instalaciones adecuadas, para iniciar funciones a la entrada en vigor de la Ley de Justicia para Adolescentes.
+
+Artículo Cuarto.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento de la presente Ley.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
