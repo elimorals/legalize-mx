@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2005-01-07"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -77,11 +77,11 @@ De las controversias que surjan entre los municipios y entre éstos y el Poder E
 
 Las relaciones laborales entre los municipios y sus trabajadores, se regirán por las disposiciones de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 7o.
 
-Los servidores públicos municipales, serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y demás leyes aplicables.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 7 DE ENERO DE 2005)</small>
+Los servidores públicos municipales, serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y demás leyes aplicables.
 
 ## TITULO SEGUNDO
 
@@ -183,99 +183,103 @@ IV.- Proponer que determinada necesidad colectiva, se declare servicio público,
 
 Los municipios en que se divide el Estado, con sus respectivas cabeceras municipales son:
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 Municipio Cabecera
 
-Abasolo. Abasolo.
+Abasolo Abasolo
 
-Acámbaro Acámbaro.
+Acámbaro Acámbaro
 
-Allende. San Miguel de Allende.
+Apaseo el Alto Apaseo el Alto
 
-Apaseo el Alto. Apaseo el Alto.
+Apaseo el Grande Apaseo el Grande
 
-Apaseo el Grande. Apaseo el Grande.
+Atarjea Atarjea
 
-Atarjea. Atarjea.
+Celaya Celaya
 
-Celaya. Celaya.
+Comonfort Comonfort
 
-Comonfort. Comonfort.
+Coroneo Coroneo
 
-Coroneo. Coroneo.
+Cortazar Cortazar
 
-Cortazar. Cortazar.
+Cuerámaro Cuerámaro
 
-Cuerámaro. Cuerámaro.
+Dolores Hidalgo Cuna de la Dolores Hidalgo Cuna de
 
-Dolores Hidalgo. Dolores Hidalgo, Cuna de la Independencia Nacional.
+Independencia Nacional la Independencia Nacional
 
-Doctor Mora. Doctor Mora.
+Doctor Mora Doctor Mora
 
-Guanajuato. Guanajuato.
+Guanajuato Guanajuato
 
-Huanímaro. Huanímaro.
+Huanímaro Huanímaro
 
-Irapuato. Irapuato.
+Irapuato Irapuato
 
-Jaral del Progreso. Jaral del Progreso.
+Jaral del Progreso Jaral del Progreso
 
-Jerécuaro. Jerécuaro.
+Jerécuaro Jerécuaro
 
-León. León de los Aldama.
+León León de los Aldama
 
-Manuel Doblado. Ciudad Manuel Doblado.
+Manuel Doblado Ciudad Manuel Doblado
 
-Moroleón. Moroleón.
+Moroleón Moroleón
 
-Ocampo. Ocampo.
+Ocampo Ocampo
 
-Pénjamo. Pénjamo.
+Pénjamo Pénjamo
 
-Pueblo Nuevo. Pueblo Nuevo.
+Pueblo Nuevo Pueblo Nuevo
 
-Purísima del Rincón Purísima de Bustos.
+Purísima del Rincón Purísima de Bustos
 
-Romita. Romita.
+Romita Romita
 
-Salamanca. Salamanca.
+Salamanca Salamanca
 
-Salvatierra. Salvatierra.
+Salvatierra Salvatierra
 
-San Diego de la Unión. San Diego de la Unión.
+San Diego de la Unión San Diego de la Unión
 
-San Felipe. San Felipe.
+San Felipe San Felipe
 
-San Francisco del Rincón. San Francisco del Rincón.
+San Francisco del Rincón San Francisco del Rincón
 
-San José Iturbide. San José Iturbide.
+San José Iturbide San José Iturbide
 
-San Luis de la Paz. San Luis de la Paz.
+San Luis de la Paz San Luis de la Paz
 
-Santa Catarina. Santa Catarina.
+San Miguel de Allende San Miguel de Allende
 
-Santa Cruz de Juventino Rosas. Juventino Rosas.
+Santa Catarina Santa Catarina
 
-Santiago Maravatío. Santiago Maravatío.
+Santa Cruz de Juventino Rosas Juventino Rosas
 
-Silao. Silao.
+Santiago Maravatío, Santiago Maravatío
 
-Tarandacuao. Tarandacuao.
+Silao Silao
 
-Tarimoro. Tarimoro.
+Tarandacuao Tarandacuao
 
-Tierra Blanca. Tierra Blanca.
+Tarimoro Tarimoro
 
-Uriangato. Uriangato.
+Tierra Blanca Tierra Blanca
 
-Valle de Santiago. Valle de Santiago.
+Uriangato Uriangato
 
-Victoria. Victoria.
+Valle de Santiago Valle de Santiago
 
-Villagrán. Villagrán.
+Victoria Victoria
 
-Xichú. Xichú.
+Villagrán Villagrán
 
-Yuriria. Yuriria.
+Xichú Xichú
+
+Yuriria Yuriria
 
 ###### Artículo 20.
 
@@ -335,7 +339,9 @@ Los ayuntamientos estarán integrados por un presidente municipal, un síndico c
 
 Los municipios de Acámbaro, Celaya, Guanajuato, Irapuato, León y Salamanca, contarán con doce regidores.
 
-Los municipios de Allende, Cortazar, Dolores Hidalgo, Moroleón, Pénjamo, Salvatierra, San Felipe, San Francisco del Rincón, San Luis de la Paz, Silao, Uriangato, Valle de Santiago y Yuriria, se integrarán con diez regidores.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Los municipios de Cortazar, Dolores Hidalgo Cuna de la Independencia Nacional, Moroleón, Pénjamo, Salvatierra, San Felipe, San Francisco del Rincón, San Luis de la Paz, San Miguel de Allende, Silao, Uriangato, Valle de Santiago y Yuriria, se integrarán con diez regidores.
 
 Los municipios de Abasolo, Apaseo el Alto, Apaseo el Grande, Atarjea, Comonfort, Coroneo, Cuerámaro, Doctor Mora, Huanímaro, Jaral del Progreso, Jerécuaro, Manuel Doblado, Ocampo, Pueblo Nuevo, Purísima del Rincón, Romita, San Diego de la Unión, San José Iturbide, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Villagrán, Tarimoro, Tierra Blanca, Victoria y Xichú, se integrarán con ocho regidores.
 
@@ -397,9 +403,11 @@ El Ayuntamiento electo, en la sesión solemne de instalación, por conducto del 
 
 La instalación del Ayuntamiento será válida, con la presencia de la mitad más uno de sus integrantes electos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 35.
 
-Si al acto de instalación no asistiere el presidente municipal electo, el Ayuntamiento se instalará con el síndico, quien rendirá la protesta, y a continuación la tomará a los demás miembros que estén presentes.
+Si al acto de instalación no asistiere el presidente municipal electo, el Ayuntamiento se instalará con el síndico o el primer síndico en los ayuntamientos en que existan dos, quien rendirá la protesta, ya continuación la tomará a los demás miembros que estén presentes.
 
 Sólo en caso de no estar presentes la mayoría de los integrantes electos propietarios, la comisión instaladora referida en el artículo 30 de esta Ley, inmediatamente procederá a llamar a los suplentes de aquéllos que no hubiesen justificado su ausencia, quienes entrarán en ejercicio definitivo.
 
@@ -429,15 +437,23 @@ II.- Aprobar las comisiones a que se refiere esta Ley; y
 
 III.- Proceder a la entrega-recepción de la situación que guarda la administración pública municipal.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 39 A.- Los integrantes de los ayuntamientos electos tienen el derecho a recibir capacitación en el manejo de la cuenta pública municipal, la cual será impartida por el Órgano de Fiscalización Superior del Congreso del Estado. Éste establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y suficiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 39 B.- En los términos del convenio de coordinación que al efecto celebren los ayuntamientos y el Órgano de Fiscalización del Congreso del Estado, éste otorgará capacitación en el manejo de la cuenta pública municipal al tesorero, al contralor y al director de obras públicas municipales, dentro de un plazo no mayor a sesenta días posteriores a la celebración del convenio.
+
 ### CAPITULO TERCERO. DE LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
 ###### Artículo 40.
 
 El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento que contenga la situación que guarda la administración pública municipal.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-En la entrega-recepción, la Contaduría Mayor de Hacienda del Congreso del Estado, designará un representante para que participe como observador, el cual brindará asesoría, a petición de cualquier integrante del Ayuntamiento.
+En la entrega-recepción, el Órgano de Fiscalización Superior del Congreso del Estado, designará un representante para que participe como observador, el cual brindará asesoría, a petición de cualquier integrante del Ayuntamiento.
 
 La entrega-recepción no podrá dejar de realizarse, bajo ninguna circunstancia.
 
@@ -449,7 +465,9 @@ I.- Los libros de actas de las reuniones del Ayuntamiento saliente y la informac
 
 II.- La documentación relativa a la situación financiera y estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
 
-III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por la Contaduría Mayor de Hacienda, por la Comisión de Hacienda y Revisora de la Contaduría Mayor de Hacienda o por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- La documentación relativa al estado que guarda la cuenta pública del Municipio, incluyendo las observaciones pendientes de atender, los requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo del Congreso del Estado o del Órgano de Fiscalización Superior;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -457,7 +475,9 @@ IV.- La situación de la deuda pública municipal, la documentación relativa a 
 
 V.- El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma;
 
-VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Secretaría de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Secretaría de la Gestión Pública del Estado;
 
 VII.- La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
 
@@ -467,7 +487,7 @@ IX.- La documentación relativa a los programas municipales y proyectos aprobado
 
 X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
 
-XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
+XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y (sic)
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -475,9 +495,11 @@ XII.- Los expedientes formados con motivo de juicios de cualquier naturaleza en 
 
 XIII.- La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 42.
 
-El secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante de la Contaduría Mayor de Hacienda.
+El secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante del Órgano de Fiscalización Superior del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -495,27 +517,37 @@ El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia
 
 ### CAPITULO CUARTO. DEL MODO DE SUPLIR LAS FALTAS DE LOS INTEGRANTES DEL AYUNTAMIENTO Y DEMAS SERVIDORES PUBLICOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 45.
 
-En las faltas por licencia de más de dos meses, de los regidores y síndicos propietarios, se llamará a los suplentes. Las faltas en forma continua por más de dos meses, sin causa justificada, tendrán el carácter de abandono definitivo del cargo, debiéndose llamar al suplente en la sesión siguiente al término del plazo referido y acordar el fincamiento de responsabilidad, en su caso.
+En las faltas por licencia de más de dos meses de los regidores y síndicos propietarios, se llamará a los suplentes. Al término del plazo de la licencia concedida, el propietario deberá integrarse de inmediato a su cargo; cuando se trate de licencias por tiempo indeterminado, el ausente se reintegrará a la sesión siguiente a su aviso de terminación de la licencia.
 
-Al término del plazo de la licencia concedida, el propietario deberá integrarse de inmediato a su cargo; cuando se trate de licencias por tiempo indeterminado, el ausente se reintegrará a la sesión siguiente a su aviso de terminación de la licencia.
+Tres faltas consecutivas y sin causa justificada a las sesiones de Ayuntamiento, serán consideradas como abandono definitivo del cargo.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+Para que se pueda considerar abandono definitivo del cargo, el Ayuntamiento lo notificará al regidor o síndico que haya incurrido en la causal referida en el párrafo anterior, para que manifieste lo que a su derecho convenga y en su caso, ofrezca las pruebas pertinentes por un término de quince días. Transcurrido dicho plazo el Ayuntamiento acordará si se actualiza el abandono definitivo del cargo, si se finca la responsabilidad correspondiente y si procede llamar al suplente, quien en su caso rendirá la protesta en la sesión siguiente. El acuerdo del Ayuntamiento que declare el abandono definitivo del cargo deberá notificarse al interesado dentro de los cinco días siguientes.
 
 Cuando por cualquier causa alguno de los síndicos o regidores propietarios dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de los regidores, a falta tanto del propietario como del suplente, se estará a lo establecido por el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 46.
 
-En el caso de ausencia del presidente municipal por licencia, permiso o causa justificada hasta de quince días naturales, serán suplidas por el secretario del Ayuntamiento, como encargado de despacho.
+En el caso de ausencia del presidente municipal por licencia, permiso o causa justificada hasta de quince días naturales, serán suplidas por el secretario del Ayuntamiento como encargado de despacho, pero bajo ninguna circunstancia tendrá derecho a voto en las sesiones del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 47.
 
-Las faltas temporales por licencia, permiso o causa justificada del presidente municipal, por más de quince días y hasta por dos meses, serán cubiertas por un presidente municipal provisional, que se elegirá dentro de los miembros del Ayuntamiento y por mayoría absoluta de votos.
+En el caso de falta del Presidente Municipal por licencia, permiso o causa justificada por más de quince días y hasta por dos meses, el síndico o el primer síndico en los ayuntamientos en que existan dos, asumirá el cargo de presidente municipal provisional. Para ocupar el lugar del síndico o primer síndico se convocará al suplente.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 48.
 
-La falta del presidente municipal por más de dos meses, por licencia, permiso o causa justificada, será cubierta por un presidente municipal interino, designado por el Ayuntamiento por mayoría absoluta de votos.
+La falta del presidente municipal por más de dos meses, por licencia, permiso o causa justificada, será cubierta por un presidente municipal interino, propuesto por los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones, el cual será designado por mayoría simple de votos.
+
+El presidente municipal interino entrará en funciones a partir del momento en que la licencia, permiso o causa justificada surta sus efectos legales.
 
 ###### Artículo 49.
 
@@ -528,6 +560,10 @@ II.- Por estado de interdicción declarado en sentencia judicial;
 III.- Por revocación de mandato; y
 
 IV.- Por declaración de procedencia, en cuyo caso el presidente municipal sustituto, desempeñará la función durante el transcurso del juicio, hasta que se dicte sentencia firme. Si esta fuere condenatoria, el presidente municipal sustituto, concluirá el período correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Cuando se actualice cualquiera de los supuestos anteriores, el secretario del Ayuntamiento convocará, dentro de las cuarenta y ocho horas siguientes, a sesión extraordinaria del Ayuntamiento, la que se ocupará única y exclusivamente del nombramiento del presidente municipal sustituto a propuesta de los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones.
 
 ###### Artículo 50.
 
@@ -899,7 +935,7 @@ III.- Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y
 
 IV.- Asistir a los remates públicos en los que tenga interés el Municipio;
 
-V.- Asumir las funciones de ministerio público, en los términos de la Ley Orgánica de dicha institución;
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2006)
 
 VI.- Vigilar que la cuenta pública municipal, se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado;
 
@@ -1007,7 +1043,9 @@ II.- La ausencia de la mayoría de los integrantes, tanto propietarios como supl
 
 III.- La renuncia calificada por el Congreso del Estado o la Diputación Permanente, en los términos previstos por el artículo 115 de la Constitución Política Local, de la mayoría de sus integrantes y no pueda integrarse aún con los suplentes;
 
-IV.- La declaratoria de procedencia por el Congreso del Estado, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y de la Ley Orgánica del Poder Legislativo, respecto de la mayoría de los integrantes y no pueda integrarse éste, aún con los suplentes; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IV.- La declaratoria de procedencia emitida por el Congreso del Estado, en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato, respecto de la mayoría de los integrantes y no pueda integrarse éste, aún con los suplentes; y
 
 V.- Por actos u omisiones de los integrantes del Ayuntamiento o Concejo municipal, que provoquen una situación grave y permanente, que impida el ejercicio de las funciones del Ayuntamiento o Concejo municipal, conforme al orden constitucional federal o local.
 
@@ -1045,9 +1083,11 @@ Los integrantes del Concejo municipal designado, rendirán su protesta, en el lu
 
 El Congreso del Estado, podrá declarar la suspensión o revocación del mandato de alguno o algunos de los integrantes del Ayuntamiento o Concejo municipal, por las causas establecidas en el presente capítulo, debidamente sustentadas por pruebas idóneas.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 85.
 
-Es causa de suspensión del mandato, la declaración de procedencia dictada por el Congreso del Estado, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+Es causa de suspensión del mandato, la declaración de procedencia dictada por el Congreso del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política Local y de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
 
 ###### Artículo 86.
 
@@ -1059,13 +1099,17 @@ I.- Las violaciones graves y reiteradas a la Constitución Política de los Esta
 
 II.- Dejar de asistir sin causa justificada a tres sesiones ordinarias del Ayuntamiento o Consejo Municipal en forma continua y hasta cinco durante un periodo de seis meses;
 
-III.- Violar en forma grave y reiterada, los presupuestos de ingresos y egresos aprobados y la normatividad aplicable, que afecte los caudales públicos; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- Violar en forma grave y reiterada la Ley de Ingresos Municipal y el presupuesto de egresos aprobado y la normatividad aplicable, que afecte los caudales públicos; y
 
 IV.- Vulnerar gravemente las instituciones democráticas y la forma de gobierno republicano, representativo y federal.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 87.
 
-El procedimiento para decretar la suspensión o revocación del mandato de alguno o de algunos de los miembros del Ayuntamiento o Concejo municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo de Guanajuato.
+El procedimiento para decretar la suspensión o revocación del mandato de alguno o de algunos de los miembros del Ayuntamiento o Concejo Municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
 
 ###### Artículo 88.
 
@@ -1357,9 +1401,11 @@ Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribu
 
 Artículo 110 A.- Los titulares de las dependencias señaladas en el artículo anterior, deberán proporcionar a los integrantes del Ayuntamiento, la información que les soliciten y sea necesaria para el ejercicio de su función.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-Artículo 110 B.- Los titulares de las dependencias señaladas en el artículo 110 de esta Ley, sólo podrán ser removidos de su cargo, cuando en el desempeño del mismo incurran en falta de probidad, notoria ineficiencia, por la comisión de faltas administrativas o delitos o por incumplimiento grave de sus atribuciones, conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+Artículo 110 B.- Los titulares de las dependencias señaladas en el artículo 110 de esta Ley, sólo podrán ser removidos de su cargo, cuando en el desempeño del mismo incurran en alguna de las causales que establece la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 Para que sea procedente la remoción, deberá observarse lo siguiente:
 
@@ -1379,7 +1425,7 @@ I.- Citar a las sesiones del Ayuntamiento, en los términos de esta Ley;
 
 II.- Asistir a las sesiones del Ayuntamiento con voz pero sin voto;
 
-III.- Presidir los debates del Ayuntamiento en ausencia del presidente municipal;
+III.- (DEROGADA, P.O. 1 DE AGOSTO DE 2006)
 
 IV.- Fungir como secretario de actas en las sesiones de Ayuntamiento, llevando los libros o folios que autorice el mismo, los cuales deberán rubricarse en todas y cada una de sus hojas y autorizarse al final de cada acta;
 
@@ -1435,7 +1481,9 @@ X.- Elaborar y someter a la aprobación del Ayuntamiento, el programa financiero
 
 XI.- Glosar oportunamente las cuentas de la administración pública municipal;
 
-XII.- Remitir a la Contaduría Mayor de Hacienda, la cuenta pública municipal, así como rendir los informes contables y financieros mensuales, dentro del mes siguiente, y atender las observaciones que se formulen sobre los mismos. Los informes contables y financieros, deberán ser firmados, además, por el presidente municipal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XII.- Remitir al Congreso del Estado, la cuenta pública municipal, así como rendir los informes contables y financieros mensuales, dentro del mes siguiente, y atender las observaciones que se formulen sobre los mismos. Los informes contables y financieros, deberán ser firmados, además, por el presidente municipal;
 
 XIII.- Formar y actualizar el catastro municipal;
 
@@ -1443,11 +1491,11 @@ XIV.- Diseñar y mantener actualizado un sistema de información y orientación 
 
 XV.- Revisar los anteproyectos de presupuestos de egresos de las entidades que integren el sector paramunicipal, para su incorporación al presupuesto de egresos del Ayuntamiento;
 
-XVI.- Integrar los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega-recepción de la misma, en el rubro relativo a la Tesorería; y
+XVI.- Integrar los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega-recepción de la misma, en el rubro relativo a la Tesorería; y (sic)
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XVII.- Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, así como las tablas de valores unitarios del suelo y de construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; y
+XVII.- Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, así como las tablas de valores unitarios del suelo y de construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato: y
 
 XVIII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
@@ -1487,7 +1535,11 @@ Para asumir el cargo de contralor municipal, se deben reunir los siguientes requ
 
 I.- Ser ciudadano guanajuatense, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriamente por delito grave del orden común;
 
-II.- Ser profesional en las áreas económicas, contables, jurídicas o administrativas y contar de preferencia con una experiencia de cuando menos tres años; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+II.- Contar con título profesional legalmente expedido en las áreas contables, jurídicas o administrativas y un mínimo de tres años de ejercicio profesional.
+
+Si entre los integrantes de la terna propuesta por la primera minoría concurre igualdad de circunstancias en relación a la experiencia profesional, se preferirá a quien posea experiencia en actividades administrativas relativas a la función de control;
 
 III.- Ser de reconocida honradez; y
 
@@ -1499,7 +1551,9 @@ IV.- No haber sido dirigente de partido político ni candidato durante la elecci
 
 Son atribuciones del contralor municipal:
 
-I.- Presentar al Ayuntamiento un plan de trabajo anual, durante el mes de enero;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+I.- Presentar al Ayuntamiento durante el mes de enero el plan de trabajo y el programa de auditorias y revisiones anuales;
 
 II.- Proponer y aplicar normas y criterios en materia de control y evaluación, que deban observar las dependencias y entidades de la administración pública municipal;
 
@@ -1519,7 +1573,9 @@ VII.- Verificar que la administración pública municipal, cuente con el registr
 
 VIII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de servicios públicos municipales, se supediten a lo establecido por esta Ley;
 
-IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
 
 X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
@@ -1527,7 +1583,9 @@ XI.- Participar en la entrega-recepción de las dependencias y entidades de la a
 
 XII.- Verificar los estados financieros de la tesorería municipal, así como revisar la integración, la remisión en tiempo y la solventación de observaciones de la cuenta pública municipal;
 
-XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
 
 XIV.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
 
@@ -1537,19 +1595,23 @@ XVI.- Proponer al personal que haya de ser contratado para auxiliarlo en el dese
 
 XVII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-Artículo 117 A.- Es obligación de los titulares de las dependencias y entidades de la administración pública municipal, participar con el tesorero y el presidente en la solventación de las observaciones que formule la Contaduría Mayor de Hacienda.
+Artículo 117 A.- Es obligación de los titulares de las dependencias y entidades de la administración pública municipal, participar con el tesorero y el presidente municipales en la solventación de las observaciones que formule el Órgano de Fiscalización Superior del Congreso del Estado.
 
 ### CAPITULO TERCERO. DE LOS DELEGADOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 118.
 
-Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del presidente municipal, en la demarcación territorial asignada a la delegación. Serán nombrados por el Ayuntamiento a propuesta del presidente municipal, previa consulta a los habitantes de la delegación.
+Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del presidente municipal, en la demarcación territorial asignada a la delegación. Serán nombrados por el Ayuntamiento a propuesta del presidente municipal dentro de los seis meses siguientes a la instalación del Ayuntamiento. Para efecto de formular dicha propuesta, el presidente municipal podrá optar por realizar una consulta pública previa a los habitantes de la delegación.
 
-El Ayuntamiento emitirá la convocatoria en la que se establecerán las bases para la realización de la consulta pública, para el nombramiento de delegados y subdelegados, dentro de los seis meses siguientes a la instalación del Ayuntamiento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+En el supuesto de que el presidente municipal opte por realizar la consulta pública a los habitantes de la delegación, someterá a aprobación del Ayuntamiento la convocatoria en la que se establecerán las bases para la realización de dicha consulta.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 Los delegados y subdelegados municipales durarán en su cargo tres años, salvo renuncia o remoción por cualquiera de las causas establecidas en el artículo 110 B de esta Ley, conforme a lo siguiente:
 
@@ -1663,9 +1725,11 @@ El consejo directivo o su equivalente, elegirá de entre sus miembros a su presi
 
 Los organismos descentralizados deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 130.
 
-Cuando el organismo público descentralizado tenga por objeto la prestación de un servicio público, el Ayuntamiento, a propuesta del propio organismo y del estudio técnico que presente, fijará las tarifas que en su caso correspondan, debiendo publicarlas en el Periódico Oficial del Gobierno del Estado. Asimismo, podrá ejercer la facultad económico-coactiva, cuando así lo acuerde el Ayuntamiento.
+Cuando el organismo público descentralizado tenga por objeto la prestación de un servicio público, las tarifas correspondientes a dicho servicio, se pagarán de conformidad con lo que establezca la Ley de Ingresos para el Municipio. Asimismo, podrá ejercer la facultad económico-coactiva, cuando así lo acuerde el Ayuntamiento.
 
 ###### Artículo 131.
 
@@ -1883,7 +1947,7 @@ a) Las entidades paramunicipales creadas para ese fin;
 
 b) Régimen de concesión; y
 
-c)Convenios de coordinación o asociación que lleve a cabo con otros ayuntamientos o con el Ejecutivo del Estado.
+c) Convenios de coordinación o asociación que lleve a cabo con otros ayuntamientos o con el Ejecutivo del Estado.
 
 ###### Artículo 143.
 
@@ -1929,11 +1993,15 @@ Artículo 149 A.- Los servicios públicos de tránsito y vialidad, policía prev
 
 En los servicios de seguridad pública y policía preventiva municipal, podrán autorizarse cuando así se solicite, elementos auxiliares que se encarguen de manera específica y concreta de prestar el servicio en zonas, instalaciones o ramas de actividades, bajo la jurisdicción y vigilancia del Ayuntamiento.
 
-Los salarios y costos de estos elementos, serán cubiertos por quienes soliciten dicho servicio, en los términos y montos que acuerde el Ayuntamiento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Las tarifas correspondientes a dichos servicios, se pagarán de conformidad con lo que establezca la Ley de Ingresos para el Municipio.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 151.
 
-El servicio de estacionamiento público es aquél que se presta en bienes inmuebles de propiedad municipal o en la vía pública; se pagará de conformidad con las tarifas que apruebe el Ayuntamiento, según la utilización de sistemas de control de tiempo y espacio.
+El servicio de estacionamiento público es aquél que se presta en bienes inmuebles de propiedad municipal o en la vía pública; se pagará de conformidad con las tarifas establecidas en la Ley de Ingresos para el Municipio.
 
 ###### Artículo 152.
 
@@ -2193,7 +2261,9 @@ III.- Monumentos históricos y artísticos, muebles o inmuebles, de propiedad mu
 
 IV.- Pinturas, murales, esculturas y cualquier obra artística incorporada permanentemente a los inmuebles del Municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico;
 
-V.- Los que ingresen por disposición de la Ley de Fraccionamientos para los Municipios del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+V.- Los que ingresen por disposición de la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
 
 VI.- Servidumbres, cuando el predio dominante sea alguno de los señalados en este artículo; y
 
@@ -2421,9 +2491,11 @@ V.- Realizar las licitaciones públicas conducentes; y
 
 VI.- Las demás que apruebe el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 195.
 
-En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato.
+En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
 
 ### CAPITULO SEXTO. DEL PRESUPUESTO MUNICIPAL
 
@@ -2800,3 +2872,9 @@ Se deroga el artículo 1418 del Código Civil para el Estado de Guanajuato.
 ###### ARTÍCULO QUINTO.
 
 Se deroga el segundo párrafo del artículo 7 de la Ley Orgánica Municipal para el Estado de Guanajuato.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos contarán con un plazo de 120 ciento veinte días contados a partir de la entrada en vigor del presente decreto, para adecuar los reglamentos, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general al contenido del mismo.
