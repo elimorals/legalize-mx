@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "1994-06-17"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -41,27 +41,47 @@ LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley regirá en el Estado de Guanajuato, sus disposiciones son de orden público e interés social y tiene por objeto crear y establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social que promueva la prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Guanajuato y coordine el acceso a los mismos, garantizando la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipal, así como la participación de los sectores social y privado, según la distribución de competencias que establecen la Ley General de Salud y la Ley sobre el Sistema Nacional de Asistencia Social.
+La presente Ley regirá en el Estado de Guanajuato, sus disposiciones son de orden público e interés social y tiene por objeto:
+
+I.- Crear y establecer las bases y procedimientos del Sistema Estatal de Asistencia Social;
+
+II.- La promoción y prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Guanajuato; y
+
+III.- Coordinar el acceso a los servicios de asistencia social, garantizando a través de los convenios respectivos, la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipal, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado.
 
 ###### ARTICULO 2o.
 
 El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales no superables en forma autónoma.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+Para los efectos de esta Ley se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
+La asistencia social comprende acciones de previsión, prevención, promoción, atención, protección y rehabilitación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 4o.
 
-En los términos del artículo anterior de esta Ley, son sujetos de la recepción de los servicios de asistencia social, los siguientes:
+Tienen derecho a la asistencia social, los individuos y familias que por sus condiciones físicas, mentales, jurídicas, o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar, entre los que se comprenden:
 
-I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-II.- Menores infractores; en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+I.- Menores expósitos, en estado de abandono, desamparo, desnutrición o sujetos al maltrato;
 
-III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+II.- Menores de doce años que hayan realizado una conducta prevista como delito en las leyes del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- Adolescentes que estén sujetos a proceso y a quienes se les haya impuesto una medida de las previstas en la Ley de Justicia para Adolescentes que no sea la de internamiento;
 
 IV.- Mujeres en períodos de gestación o lactancia;
 
@@ -77,9 +97,17 @@ IX.- Víctimas de la comisión de delitos en estado de abandono;
 
 X.- Familiares que dependen económicamente de quienes se encuentran detenidos por causas penales y que queden en estado de abandono;
 
-XI.- Habitantes del medio rural, suburbano y urbano, marginados que carezcan de lo indispensable para su subsistencia; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XII.- Personas afectadas por desastres.
+XI.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XII.- Habitantes del medio rural, suburbano y urbano, marginados que carezcan de lo indispensable para su subsistencia; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIII.- Personas afectadas por desastres.
 
 ###### ARTICULO 5o.
 
@@ -141,9 +169,11 @@ X.- Realizar investigaciones sobre las causas y efectos de los problemas priorit
 
 XI.- Las demás que le otorguen las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 13.
 
-Para los efectos de esta Ley; se entienden como servicios en materia de asistencia social, los siguientes:
+Para los efectos de esta ley; se entienden como servicios en materia de asistencia social, los siguientes:
 
 I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, minusvalía o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
@@ -175,9 +205,19 @@ XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en
 
 XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
 
-XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
+XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y (sic)
 
-XVII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVII.- Los servicios de previsión, prevención, atención, promoción, protección y rehabilitación a los menores de doce años que hayan realizado una conducta prevista como delito en las leyes del Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVIII.- Intervenir en la aplicación de las medidas, con excepción de la de internamiento, que se impongan a los adolescentes por las autoridades competentes, previstas en la Ley de Justicia para Adolescentes; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIX.- Los demás que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
 ###### ARTICULO 14.
 
@@ -209,9 +249,11 @@ El Gobierno del Estado contará con un organismo público descentralizado, con p
 
 Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 18.
 
-El Organismo para el logro de sus objetivos, realizará las siguientes funciones:
+El Organismo realizará las siguientes funciones:
 
 I.- Promover y prestar servicios de Asistencia Social;
 
@@ -247,9 +289,15 @@ XVI.- Realizar estudios e investigaciones en materia de invalidez, minusvalía e
 
 XVII.- Participar en programas de rehabilitación y educación especial;
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces; y
+XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces; y (sic)
 
-XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIX.- Intervenir en la aplicación de las medidas, con excepción de la de internamiento, que se impongan a los adolescentes por las autoridades competentes previstas en la Ley de Justicia para Adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XX.- Las demás que establezcan las disposiciones legales aplicables.
 
 ###### ARTICULO 19.
 
@@ -439,11 +487,11 @@ Los trabajadores del Organismo estarán incorporados al régimen de Seguridad So
 
 ### CAPITULO TERCERO. De la Procuraduría en Materia de Asistencia Social
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 39.
 
-Para los efectos de la fracción V del Artículo 13 de esta Ley, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, contará con una Procuraduría que tendrá por objeto la prestación de servicios jurídicos en favor de las personas a que se refiere el Artículo 4 de este ordenamiento.
+Para los efectos de la fracción V del artículo 13 de esta Ley, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, contará con una Procuraduría que tendrá por objeto la prestación de servicios jurídicos en favor de las personas a que se refiere el artículo 4º., de este ordenamiento, con excepción de las señaladas en la Ley de Justicia para Adolescentes.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -688,3 +736,15 @@ P.O. 17 DE JUNIO DE 1994.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- Las presentes modificaciones a la Ley Sobre el Sistema Estatal de Asistencia Social, entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento a la presente Ley.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
