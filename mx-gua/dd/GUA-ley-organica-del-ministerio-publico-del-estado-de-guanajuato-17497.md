@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-17
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2000-09-29"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de septiembre de 2000.
 
@@ -59,6 +59,10 @@ La función ministerial se regirá por los principios de buena fe, unidad, indiv
 
 La función ministerial recaerá en el Procurador, los Subprocuradores, los Directores de Averiguaciones Previas, de Control de Procesos, de Impugnaciones, Jefes de Zona y los Agentes y Delegados del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+En el sistema a que se refieren los artículos 18 de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Particular del Estado, se ejercerá por el Ministerio Público Especializado en Justicia para Adolescentes.
+
 ###### Artículo 5º.
 
 Para los efectos de esta Ley, se entenderá por "Procuraduría" a la Procuraduría General de Justicia del Estado; por "Procurador" al Procurador o Procuradora General de Justicia del Estado; por "Subprocuradores" al Subprocurador o Subprocuradora; por "Agentes" a las y a los Agentes; y por "Delegados" a las y a los delegados de la misma Institución.
@@ -91,25 +95,61 @@ VII.- Las Direcciones de Control de Procesos;
 
 VIII.- Las Direcciones de Impugnaciones;
 
-IX.- La Dirección de Atención a Víctimas y de Prevención del Delito;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-X.- Las Jefaturas de Zona del Ministerio Público;
+IX.- La Coordinación General Ejecutiva;
 
-XI.- Los Agentes y Delegados del Ministerio Público;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XII.- La Dirección General de Administración;
+X.- La Coordinación de Agencias Especializadas en Justicia para Adolescentes;
 
-XIII.- La Coordinación General de Servicios Periciales;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XIV.- La Coordinación General de la Policía Ministerial;
+XI.- La Coordinación de Atención a Víctimas del Delito;
 
-XV.- La Dirección de Informática, Sistemas y Telecomunicaciones;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XVI.- El Consejo de Profesionalización del Ministerio Público;
+XII.- La Coordinación de Prevención del Delito;
 
-XVII.- El Instituto de Formación Profesional; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XVIII.- Las demás áreas y personal que prevea el reglamento interno.
+XIII.- Las Jefaturas de Zona del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIV.- Los Agentes y Delegados del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XV.- Los Agentes del Ministerio Público Especializados en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVI.- La Dirección General de Administración;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVII.- La Coordinación General de Servicios Periciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVIII.- La Coordinación General de la Policía Ministerial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIX.- La Dirección de Informática, Sistemas y Telecomunicaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XX.- El Consejo de Profesionalización del Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XXI.- El Instituto de Formación Profesional; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XXII.- Las demás áreas y personal que prevea el reglamento interno.
 
 ###### Artículo 8º.
 
@@ -145,7 +185,9 @@ V.- Proponer al Ejecutivo del Estado las medidas necesarias para mejorar la proc
 
 VI.- Establecer los lineamientos de participación de la Procuraduría en las instancias de coordinación del Sistema Nacional de Seguridad Pública, de acuerdo con la Ley de la materia y demás normas que regulen la integración, organización y funcionamiento de dicho Sistema;
 
-VII.- Auxiliar a las autoridades federales y estatales en la investigación y persecución de los delitos, en los términos previstos en las leyes o en los convenios que al respecto se celebren;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+VII.- Auxiliar a las autoridades federales y estatales en la investigación, persecución de los delitos y de las conductas tipificadas como delitos atribuidas a adolescentes, en los términos previstos en las leyes o en los convenios que al respecto se celebren;
 
 VIII.- Celebrar convenios de colaboración y de coordinación con la Procuraduría General de la República, con la del Distrito Federal y con las de otras entidades federativas, así como con la policía federal preventiva y con entidades gubernamentales y no gubernamentales de orden social o privado, para el debido cumplimiento de la procuración de justicia;
 
@@ -203,9 +245,11 @@ XXXII.- Las demás que le confieran las disposiciones legales aplicables o el ti
 
 El Ministerio Público es la Institución que por disposición de la Constitución Política de los Estados Unidos Mexicanos y de la del Estado, tiene a su cargo la investigación y persecución de los delitos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 14.
 
-En la investigación y persecución de los delitos, el Ministerio Público tendrá las siguientes atribuciones:
+En la investigación y persecución de los delitos y de las conductas tipificadas como delitos atribuidas a adolescentes, el Ministerio Público tendrá las siguientes atribuciones:
 
 I.- Recibir las denuncias o querellas que le sean presentadas en forma oral o por escrito sobre acciones u omisiones que puedan constituir delitos;
 
@@ -223,7 +267,9 @@ VII.- Poner a disposición de la autoridad judicial, a las personas detenidas, d
 
 VIII.- Restituir a la persona ofendida en el goce de sus derechos, cuando sea procedente de conformidad con las disposiciones legales aplicables;
 
-IX.- Procurar la conciliación en los delitos que se persiguen por querella;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IX.- Procurar la conciliación en los delitos y en las conductas tipificadas como delitos atribuidas a adolescentes, que se persiguen por querella o que admitan conciliación de acuerdo a la Ley;
 
 X.- Ejercer acción penal ante los tribunales competentes por los delitos del orden común, solicitando las órdenes de aprehensión o comparecencia, así como el despacho de exhortos y requisitorias;
 
@@ -241,7 +287,9 @@ XVI.- Vigilar que se cumplan las resoluciones judiciales en los asuntos en que d
 
 XVII.- Rendir ante el tribunal federal correspondiente los informes solicitados, en los juicios de amparo en que sea señalado como autoridad responsable, y en general los informes que le soliciten las autoridades competentes;
 
-XVIII.- Auxiliar a las autoridades federales y estatales en la investigación y persecución de los delitos, en los términos previstos en las leyes o en los convenios que al respecto se celebren;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVIII.- Auxiliar a las autoridades federales y estatales en la investigación, persecución de los delitos y de las conductas tipificadas como delitos atribuidas a adolescentes, en los términos previstos en las leyes o en los convenios que al respecto se celebren;
 
 XIX.- Dar cumplimiento a las recomendaciones emitidas por los organismos públicos defensores de derechos humanos, en los casos procedentes;
 
@@ -259,15 +307,27 @@ XXV.- Solicitar las medidas y providencias que prevea la Ley para la seguridad y
 
 XXVI.- Las demás que le señalen las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+###### Artículo 14 Bis.
+
+El Ministerio Público Especializado en justicia para adolescentes tendrá las atribuciones señaladas en el artículo anterior y las que le confiera la Ley de Justicia para Adolescentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 15.
 
-Son auxiliares del Ministerio Público, en la investigación y persecución de los delitos:
+Son auxiliares del Ministerio Público en la investigación y persecución de los delitos y de las conductas tipificadas como delitos atribuidas a adolescentes:
 
 I.- La policía ministerial del Estado, la cual estará bajo su autoridad y mando inmediato;
 
 II.- Los servicios periciales; y
 
 III.- Las fuerzas de seguridad pública del Estado, las policías preventivas y de tránsito estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+El Ministerio Público Especializado en justicia para adolescentes contará con policías especializados en adolescentes, quienes estarán bajo su autoridad y mando inmediato.
 
 ###### Artículo 16.
 
@@ -288,6 +348,12 @@ IV.- Contar con título de Licenciado en Derecho o Abogado expedido por instituc
 V.- Presentar y aprobar los exámenes que se apliquen de acuerdo a los programas de selección, formación y actualización profesional; y
 
 VI.- No ser adicto a sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+###### Artículo 17 Bis.
+
+Para ser Agente del Ministerio Público Especializado en justicia para adolescentes se cumplirán los mismos requisitos que para ser Agente o Delegado del Ministerio Público y además contar con la capacitación y el adiestramiento necesario para el cumplimiento de sus atribuciones.
 
 ### CAPÍTULO CUARTO. DE LA ATENCIÓN A VÍCTIMAS DEL DELITO
 
@@ -698,3 +764,19 @@ LIC. JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- Las presentes modificaciones a la Ley Orgánica del Ministerio Público del Estado de Guanajuato, entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Coordinación de Agencias Especializadas en Justicia para Adolescentes deberá estar estructurada, con los elementos y organización necesarios, para iniciar funciones a la entrada en vigor de la Ley de Justicia para Adolescentes del Estado de Guanajuato.
+
+Artículo Tercero.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento de la presente Ley.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
