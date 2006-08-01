@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-asistencia-la-prevencion-y-la-atencion-de-la-45173"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA ASISTENCIA, LA PREVENCION Y LA ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 10 de junio de 2005.
 
@@ -627,7 +627,9 @@ No serán materia del convenio previsto en el presente Título, los derechos rel
 
 Tampoco serán materia de convenio los casos de violencia intrafamiliar que constituyan delitos que se persigan de oficio.
 
-Sin perjuicio de las responsabilidades de carácter penal en que pudieren incurrir, las personas generadoras de violencia intrafamiliar serán canalizadas a los Centros, para su atención.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Sin perjuicio de las responsabilidades de carácter penal o de las que deriven de la conducta tipificada como delito en las leyes del Estado realizada por un adolescente, las personas generadoras de violencia intrafamiliar podrán recibir atención en los Centros.
 
 ###### Artículo 50.
 
@@ -668,3 +670,9 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Único.- La presente modificación a la Ley para la Asistencia, la Prevención y la Atención de la Violencia Intrafamiliar del Estado de Guanajuato, entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis.
