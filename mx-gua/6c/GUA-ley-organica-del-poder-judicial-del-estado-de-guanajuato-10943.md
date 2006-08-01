@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "2006-06-16"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -61,6 +61,14 @@ La función jurisdiccional se regirá por los principios de imparcialidad, legal
 
 El Supremo Tribunal de Justicia ejerce la función jurisdiccional en todo el Estado. Los juzgados de partido la ejercerán en la circunscripción de su partido judicial y los juzgados menores en el Municipio en que tengan su sede. En cada partido judicial deberá haber por lo menos un juez de partido y en cada Municipio por lo menos un juez menor.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Los jueces para adolescentes ejercerán en la circunscripción territorial, denominada distrito, que determine el Consejo del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Los jueces de ejecución tendrán la competencia que la Ley de Justicia para Adolescentes del Estado de Guanajuato les confiera.
+
 ###### Artículo 5o.
 
 El Consejo del Poder Judicial tendrá a su cargo la carrera judicial y será el encargado de la administración, capacitación y disciplina del Poder Judicial conforme a lo dispuesto por la Constitución Política Local y por esta Ley.
@@ -68,6 +76,10 @@ El Consejo del Poder Judicial tendrá a su cargo la carrera judicial y será el 
 ###### Artículo 6o.
 
 El Pleno del Supremo Tribunal de Justicia, las salas y los juzgados tendrán la competencia por materia, territorio, cuantía y grado que les determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 6o A.- Cualquier juez del Estado que conozca de un asunto que no sea de su competencia por razón del territorio, materia o ámbito personal de aplicación de la ley correspondiente, sólo podrá declinar la competencia o aceptar la inhibitoria una vez que se hayan practicado las diligencias que no admitan demora o emitido las resoluciones que resulten urgentes, las que habrán de realizarse conforme a la ley que regule el caso.
 
 ###### Artículo 7o.
 
@@ -173,9 +185,15 @@ XIII.- Conocer sobre la interpretación y resolución de los conflictos que se d
 
 XIV.- Resolver los conflictos laborales suscitados entre el Poder Judicial y sus servidores públicos;
 
-XV.- Conocer y resolver cualquier otro asunto de la competencia del Supremo Tribunal de Justicia, cuyo conocimiento no corresponda a las salas o al Presidente, por disposición expresa de la Ley; y
+XV.- Conocer y resolver cualquier otro asunto de la competencia del Supremo Tribunal de Justicia, cuyo conocimiento no corresponda a las salas o al Presidente, por disposición expresa de la Ley; y (sic)
 
-XVI.- Las demás que ésta y otras leyes le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVI.- Conocer y resolver los conflictos de competencia que se susciten entre un juez especializado en materia de adolescentes y otro del Estado que no lo sea; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVII.- Las demás que ésta y otras leyes le confieran.
 
 ###### Artículo 18.
 
@@ -265,11 +283,17 @@ Son atribuciones del Consejo del Poder Judicial, además de las señaladas en el
 
 I.- Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
-II.- Suspender en sus cargos a los jueces, de oficio o a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-III.- Acordar, en los casos legalmente previstos, la destitución de los jueces;
+II.- Suspender de sus cargos a los jueces y a los titulares de los tribunales especializados en la impartición de justicia para adolescentes, de oficio o a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
 
-IV.- Ordenar o realizar visitas a las salas y juzgados y, en su caso, integrar comisiones de investigación cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- Acordar, en los casos legalmente previstos, la destitución de los jueces y de los titulares de los tribunales especializados en la impartición de justicia para adolescentes;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IV.- Ordenar o realizar visitas a las salas, juzgados y tribunales especializados en la impartición de justicia para adolescentes y, en su caso, integrar comisiones de investigación cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia;
 
 V.- Recibir las renuncias que presenten los magistrados que hayan sido propuestos por el propio Consejo, remitiéndolas para su aprobación al Congreso del Estado;
 
@@ -281,7 +305,9 @@ VIII.- Designar al jurado que en cooperación con instituciones públicas o priv
 
 IX.- Designar, de entre sus miembros, un representante para que integre el jurado en los concursos de oposición;
 
-X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores; así como el número de orden y circunscripción territorial de los juzgados para adolescentes y la distribución de los asuntos de que conocerán los jueces de ejecución;
 
 XI.- Ordenar la práctica de auditorías administrativas y financieras a los órganos jurisdiccionales, sujetándose a las bases que al efecto se establezcan en el reglamento correspondiente;
 
@@ -317,9 +343,19 @@ XXVI.- Autorizar anualmente el calendario y el horario oficial de labores del Po
 
 XXVII.- Establecer sistemas de guardias para los periodos de vacaciones de los juzgados civiles, a efecto de que conozcan los asuntos urgentes;
 
-XXVIII.- Ordenar la publicación de los reglamentos y acuerdos, que se estimen de interés general, en el periódico oficial del Gobierno del Estado; y
+XXVIII.- Ordenar la publicación de los reglamentos y acuerdos, que se estimen de interés general, en el periódico oficial del Gobierno del Estado; y (sic)
 
-XXIX.- Las demás que le señale esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XXIX.- Designar a los titulares de los tribunales especializados en la impartición de justicia para adolescentes, de acuerdo con las reglas que para la carrera judicial establece esta ley, con las particularidades que para el caso se precisen;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XXX.- Designar a los miembros del Comité Auxiliar Técnico a que se refiere la Ley de Justicia para Adolescentes del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
+
+XXXI.- Las demás que le señale esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 29.
 
@@ -533,13 +569,43 @@ Ante la no ratificación de un Magistrado deberá formularse la propuesta de des
 
 La ratificación o, en su caso, la determinación de no proponerla, deberá quedar concluida antes de que se cumpla el término del nombramiento del Magistrado de que se trate. Si el proceso relativo no ha concluido, en tanto se llamará a un Supernumerario.
 
-### CAPITULO OCTAVO. DE LOS JUZGADOS DE PARTIDO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2006)</small>
 
-### CAPITULO NOVENO. DE LOS JUECES DE PARTIDO
+###### Artículo 55-E.
 
-### CAPITULO DECIMO. DE LOS JUZGADOS MENORES
+Si un juez de impugnación dejare de conocer de algún asunto por excusa o recusación, lo conocerá el de la misma especialidad que por turno corresponda.
 
-### CAPITULO DECIMO PRIMERO. DE LOS JUECES MENORES
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 55 F.- Para ser juez de impugnación deberán cumplirse los mismos requisitos exigidos al juez de partido, además de contar con experiencia profesional de cuando menos siete años y tener especialización en la materia de adolescentes.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 1 DE AGOSTO DE 2006)</small>
+
+### CAPITULO OCTAVO. DE LOS JUECES DE IMPUGNACION EN MATERIA DE ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 55 D.- Los jueces de impugnación en materia de adolescentes conocerán:
+
+l.- De los recursos de apelación y de denegada apelación en los términos de la Ley de Justicia para Adolescentes del Estado, procedentes de los tribunales especializaos que la misma prevé;
+
+II.- De las recusaciones y de las excusas de los jueces para adolescentes y de los jueces de ejecución;
+
+III.- De las excitativas de justicia;
+
+IV.- Del juicio de amparo en los términos que establece el artículo 37 de la Ley de Amparo;
+
+V.- De los conflictos de competencia que se susciten entre jueces para adolescentes, o entre jueces de ejecución, o entre unos y otros; y
+
+VI.- De los demás asuntos que les confieran esta Ley y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+### CAPÍTULO NOVENO. DE LOS JUZGADOS DE PARTIDO Y DE LOS TRIBUNALES ESPECIALIZADOS PARA ADOLESCENTES
+
+### CAPITULO DECIMO. DE LOS JUECES DE PARTIDO
+
+### CAPITULO DECIMO PRIMERO. DE LOS JUZGADOS MENORES
 
 ###### Artículo 56.
 
@@ -548,6 +614,10 @@ Para los efectos de esta Ley, el territorio del Estado de Guanajuato se dividir�
 En cada uno de los partidos judiciales, el Consejo del Poder Judicial establecerá el número de juzgados de partido.
 
 Cuando en un partido judicial exista más de un juzgado del mismo ramo, se designarán por orden numérico.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+El Consejo del Poder Judicial determinará la circunscripción territorial, denominada distrito, que corresponda a los juzgados para adolescentes y la distribución de los asuntos entre los jueces de ejecución y de impugnación; en caso de ser varios, se designarán por orden numérico.
 
 ###### Artículo 57.
 
@@ -573,7 +643,9 @@ III.- Secretarios proyectistas; y
 
 IV.- Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
-### CAPITULO DECIMO SEGUNDO. DE LOS SECRETARIOS
+(REUBICADO [N. DE E. ANTES CAPITULO NOVENO], P.O. 1 DE AGOSTO DE 2006)
+
+### CAPITULO DECIMO SEGUNDO. DE LOS JUECES MENORES
 
 ###### Artículo 59.
 
@@ -639,7 +711,19 @@ En los partidos judiciales donde sólo exista un juzgado de partido el expedient
 
 Los jueces de partido actuarán con el secretario de acuerdos del juzgado o, en su defecto, con el secretario que habiliten para tal efecto, o a falta de ambos, con dos testigos de asistencia que el propio juez nombrará.
 
-### CAPITULO DECIMO TERCERO. DE LOS ACTUARIOS
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 64 A.- Son tribunales especializados en la impartición de justicia para los adolescentes, el juez de impugnación el juez para adolescentes y el juez de ejecución. Tendrán, para efectos de su ubicación escalafonaria en la carrera judicial, la categoría de jueces de partido y les serán aplicables las disposiciones de esta ley a ellos referidas.
+
+El juez de impugnación en materia de adolescentes por la índole de sus funciones, gozará de mejores emolumentos que el juez de partido, según lo determine el Consejo del Poder Judicial.
+
+Para ser titular de un juzgado para adolescentes o para ser juez de ejecución se requerirá, además de lo exigido a los demás jueces de partido, que tengan especialización en la materia.
+
+En los casos de recusación o excusa del titular de un juzgado para adolescentes o de un juez de ejecución será sustituido por el juzgador de la misma materia más cercano; si éste no puede conocer del asunto, por el juez de partido en materia penal con residencia en el lugar de ubicación del juez originalmente competente.
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO], P.O. 1 DE AGOSTO DE 2006)
+
+### CAPITULO DECIMO TERCERO. DE LOS SECRETARIOS
 
 ###### Artículo 65.
 
@@ -669,7 +753,9 @@ III.- Secretarios proyectistas; y
 
 IV.- Los Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
-### CAPITULO DECIMO CUARTO. DEL PERSONAL DE APOYO
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO PRIMERO], P.O. 1 DE AGOSTO DE 2006)
+
+### CAPITULO DECIMO CUARTO. DE LOS ACTUARIOS
 
 ###### Artículo 68.
 
@@ -701,7 +787,9 @@ En los municipios donde sólo exista un juez menor, el expediente se enviará al
 
 Será aplicable a los jueces menores, en lo conducente, lo dispuesto en esta Ley para los jueces de partido.
 
-### CAPITULO PRIMERO. DE LA CARRERA JUDICIAL
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO SEGUNDO], P.O. 1 DE AGOSTO DE 2006)
+
+### CAPITULO DÉCIMO QUINTO. DEL PERSONAL DE APOYO
 
 ###### Artículo 72.
 
@@ -747,9 +835,11 @@ V.- Guardar bajo su responsabilidad los expedientes y documentos de los asuntos 
 
 VI.- Las demás que le señale esta Ley y el reglamento interior del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 77.
 
-Los secretarios de acuerdos de sala o de juzgado tendrán además de las atribuciones que les señalan los códigos de procedimientos, las siguientes:
+Los secretarios de acuerdos de salas, de juzgados o de tribunales especializados en impartición de justicia para adolescentes tendrán además de las atribuciones que les señalan los códigos de procedimientos o la Ley de Justicia para Adolescentes del Estado, las siguientes:
 
 I.- Ejercer la fe pública judicial y asistir a los magistrados y jueces en el ejercicio de sus funciones, de conformidad con lo establecido en esta Ley y en las leyes procesales;
 
@@ -791,11 +881,15 @@ Los secretarios de acuerdos y los secretarios proyectistas de las salas o de los
 
 Los secretarios proyectistas tienen la obligación de elaborar los proyectos de resolución de los asuntos que les sean encomendados por el magistrado o por el juez, con estricto apego a las constancias procesales, guardando el secreto inherente a su cargo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 80.
 
-Los secretarios de acuerdos adscritos a los juzgados penales tienen las obligaciones y atribuciones que establece esta Ley. Asimismo, deberán practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del juez en cuanto a la entrega de los bienes, objetos o instrumentos del delito que no competa hacerlo a autoridad diversa
+Los secretarios de acuerdos adscritos a los juzgados penales y a los tribunales especializados en la impartición de justicia para los adolescentes tienen las obligaciones y atribuciones que establece esta Ley. Asimismo deberán practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del juez en cuanto a la entrega de los bienes, objetos o instrumentos del delito que no competa hacerlo a autoridad diversa.
 
-### CAPITULO SEGUNDO. DEL INGRESO Y ASCENSO A LA CARRERA JUDICIAL
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO TERCERO, P.O. 1 DE AGOSTO DE 2006)
+
+### CAPITULO PRIMERO. DE LA CARRERA JUDICIAL
 
 ###### Artículo 81.
 
@@ -839,7 +933,9 @@ V.- La fecha de devolución del expediente.
 
 Los actuarios tendrán fe pública en el desempeño de sus funciones.
 
-### CAPITULO TERCERO. DEL INSTITUTO DE FORMACION DE LOS SERVIDORES
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 1 DE AGOSTO DE 2006)
+
+### CAPITULO SEGUNDO. DEL INGRESO Y ASCENSO A LA CARRERA JUDICIAL
 
 ###### Artículo 85.
 
@@ -869,9 +965,15 @@ Sólo en el caso de que no existiera lista de peritos en el arte o ciencia de qu
 
 Los honorarios de los peritos designados por el magistrado o juez, serán cubiertos de acuerdo con el arancel que al efecto fije el Consejo del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 91 A.- El Comité Auxiliar Técnico a que se refiere la Ley de Justicia para Adolescentes estará integrado por profesionales en las materias de psicología, medicina, trabajo social y pedagogía y tendrá las atribuciones que la Ley le confiere.
+
+La ubicación escalafonaria de sus integrantes será determinada por el Consejo del Poder Judicial, conforme a acuerdos generales y a las condiciones generales de trabajo que rigen al Poder Judicial.
+
 ## TITULO TERCERO
 
-### CAPITULO PRIMERO. DE LAS LICENCIAS Y RENUNCIAS
+### CAPITULO TERCERO. DEL INSTITUTO DE FORMACION DE LOS SERVIDORES
 
 ###### Artículo 92.
 
@@ -895,7 +997,9 @@ IV.- Secretario de sala;
 
 V.- Juez menor;
 
-VI.- Juez de partido; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+VI.- Juez de partido, o titular de tribunal especializado en la impartición de justicia para adolescentes; y
 
 VII.- Magistrado.
 
@@ -913,7 +1017,7 @@ IV.- Un sistema de estímulos y recompensas; y
 
 V.- Un sistema de capacitación y desarrollo de los servidores públicos judiciales, en los términos de esta Ley.
 
-### CAPITULO SEGUNDO. DEL MODO DE SUPLIR LAS FALTAS
+### CAPITULO PRIMERO. DE LAS LICENCIAS Y RENUNCIAS
 
 ###### Artículo 96.
 
@@ -927,9 +1031,11 @@ En los concursos de oposición interna, podrán participar quienes se encuentren
 
 El ingreso a la carrera judicial será en la categoría de actuario y se producirá mediante el concurso de oposición libre.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 98.
 
-En los concursos de oposición para la plaza de magistrado, únicamente podrán participar los jueces de partido que reúnan los requisitos exigidos por el artículo 86 de la Constitución Política Local.
+En los concursos de oposición para la plaza de magistrado, únicamente podrán participar los jueces de partido o los titulares de los tribunales especializados en la impartición de justicia para adolescentes que reúnan los requisitos exigidos por el artículo 86 de la Constitución Política Local.
 
 ###### Artículo 99.
 
@@ -1025,7 +1131,7 @@ III.- Un representante de la institución académica que imparta el curso de for
 
 Los jueces, secretarios y actuarios al entrar a ejercer su cargo, protestarán guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local y las leyes que de ellas emanen; ante el Presidente del Supremo Tribunal de Justicia.
 
-### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
+### CAPITULO SEGUNDO. DEL MODO DE SUPLIR LAS FALTAS
 
 ###### Artículo 107.
 
@@ -1055,7 +1161,7 @@ El instituto llevará a cabo o promoverá cursos continuos de preparación para 
 
 ## TITULO CUARTO
 
-### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
+### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
 
 ###### Artículo 111.
 
@@ -1077,7 +1183,7 @@ Concluido el plazo de una licencia que se hubiere concedido, si el interesado no
 
 Las renuncias de los magistrados serán sometidas a la aprobación del Congreso del Estado, por el Titular del Poder Ejecutivo o por el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
 
-### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
+### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
 
 ###### Artículo 116.
 
@@ -1117,9 +1223,9 @@ IV.- Las de los demás servidores públicos, por quienes designe el Consejo del 
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. DE LA CONTRALORIA
+### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
 
-### CAPITULO UNICO. DE LA JURISPRUDENCIA
+### CAPITULO UNICO. DE LA CONTRALORIA
 
 ###### Artículo 119.
 
@@ -1141,7 +1247,7 @@ El oficial tendrá fe pública en todo lo relativo al ejercicio de su cargo.
 
 Los turnos de los diversos asuntos deberán ser hechos conforme al sistema que establezca el Consejo del Poder Judicial.
 
-### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
+### CAPITULO UNICO. DE LA JURISPRUDENCIA
 
 ###### Artículo 124.
 
@@ -1151,7 +1257,7 @@ El Consejo del Poder Judicial designará al titular responsable de la oficina ce
 
 Los actuarios dependerán administrativamente del titular de la oficina central de actuarios, pero estarán sometidos a la autoridad del juez que dicte la resolución que se cumplimente, por lo que a esta se refiere.
 
-### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
+### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
 
 ###### Artículo 125.
 
@@ -1161,7 +1267,9 @@ El Consejo del Poder Judicial organizará y vigilará el correcto funcionamiento
 
 Se depositarán en el archivo del Poder Judicial:
 
-I.- Todos los expedientes concluidos del orden civil y penal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+I.- Todos los expedientes concluidos del orden civil, penal y en materia de adolescentes;
 
 II.- Cualesquiera otros expedientes que conforme a la Ley se integren por los órganos judiciales del Estado de Guanajuato;
 
@@ -1169,9 +1277,11 @@ III.- Los expedientes y documentos que remita el Consejo del Poder Judicial; y
 
 IV.- Los demás documentos que las leyes determinen.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 127.
 
-Habrá en el archivo cuatro secciones: civil, penal, del Pleno del Supremo Tribunal de Justicia y del Consejo del Poder Judicial, mismas que se dividirán de acuerdo con el reglamento respectivo.
+Habrá en el archivo cinco secciones: civil, penal, en materia de adolescentes, del Pleno del Supremo Tribunal de Justicia y del Consejo del Poder Judicial, mismas que se dividirán de acuerdo con el reglamento respectivo.
 
 ###### Artículo 128.
 
@@ -1207,7 +1317,7 @@ El Consejo del Poder Judicial podrá acordar en todo caso las disposiciones que 
 
 ## TITULO SEXTO
 
-### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
+### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
 
 ###### Artículo 135.
 
@@ -1229,7 +1339,7 @@ V.- Las demás que determinen las leyes, los reglamentos y acuerdos generales co
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD
+### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
 
 ###### Artículo 137.
 
@@ -1259,7 +1369,7 @@ La contradicción de tesis deberá denunciarse por escrito al Pleno del Supremo 
 
 ## TITULO OCTAVO
 
-### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
+### CAPITULO UNICO. DE LA RESPONSABILIDAD
 
 ###### Artículo 141.
 
@@ -1269,9 +1379,7 @@ El Poder Judicial tiene facultad para manejar en forma autónoma e independiente
 
 El presupuesto del Poder Judicial se ejercerá por el Consejo, el que deberá sujetarse a las disposiciones previstas en la Ley del Presupuesto, Contabilidad y Gasto Público y demás ordenamientos aplicables.
 
-### CAPITULO UNICO
-
-DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
+### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
 
 ###### Artículo 143.
 
@@ -1281,13 +1389,19 @@ El fondo auxiliar para la impartición de justicia estará bajo la administraci�
 
 El fondo auxiliar para impartición de justicia se integra con:
 
-I.- El monto de las cauciones otorgadas para garantizar la libertad provisional, que se hagan efectivas en los términos de los artículos 402 y 404 del Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-II.- Las multas impuestas por las salas y por los jueces de partido o menores, en los términos del artículo 51 del Código Penal, 56 y 60 del Código de Procedimientos Civiles y 40 y 42 del Código de Procedimientos Penales y con las que imponga el Pleno del Supremo Tribunal de Justicia o el Consejo del Poder Judicial;
+I.- El monto de las cauciones otorgadas para garantizar la libertad provisional, que se hagan efectivas en los términos de los artículos 402 y 404 del Código de Procedimientos Penales, así como en los términos de la Ley de Justicia para Adolescentes del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+II.- Las multas impuestas por las salas y por los jueces, en los términos del artículo 51 del Código Penal, 56 y 60 del Código de Procedimientos Civiles, 42 de la Ley de Justicia para Adolescentes y 40 y 42 del Código de Procedimientos Penales y con las que imponga el Pleno del Supremo Tribunal de Justicia o el Consejo del Poder Judicial;
 
 III.- Los rendimientos que se generen por las inversiones de los depósitos en dinero o valores del propio fondo;
 
-IV.- El monto de la reparación del daño, cuando la parte ofendida renuncie a él o no lo reclama dentro del plazo de seis meses contados a partir de la notificación de que queda a su disposición, en los términos del artículo 69 del Código Penal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IV.- El monto de la reparación del daño, cuando la parte ofendida renuncie a él o no lo reclame dentro del plazo de seis meses contados a partir de la notificación de que queda a su disposición, en los términos del artículo 72 del Código Penal, así como el pago del daño exhibido ante los tribunales especializados en materia de adolescentes que no haya sido reclamado o haya renunciado a él la víctima u ofendido, dentro de ese mismo plazo;
 
 V.- Los rendimientos provenientes de cantidades depositadas por los particulares por cualquier causa ante los tribunales; y
 
@@ -1303,7 +1417,9 @@ Las sumas o valores depositadas por los particulares, serán reintegradas a los 
 
 El Pleno del Supremo Tribunal de Justicia informará al Congreso del Estado en la cuenta pública semestral que se presente, sobre el manejo y aplicación del fondo.
 
-### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
+### CAPITULO UNICO
+
+DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
 
 ###### Artículo 147.
 
@@ -1332,6 +1448,8 @@ V.- Otorgamiento de estímulos y recompensas a la calidad y productividad; y
 VI.- Los demás que a juicio del Consejo del Poder Judicial se requieran para la mejor impartición de justicia
 
 ## TITULO NOVENO
+
+### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
 
 ###### Artículo 149.
 
@@ -1636,3 +1754,15 @@ Artículo Primero. El presente decreto entrará en vigor al cuarto día siguient
 Artículo Segundo. Las presentes reformas y adiciones serán aplicables a los procedimientos disciplinarios que se inicien a partir de su entrada en vigor.
 
 Los procedimientos disciplinarios pendientes de resolución a la entrada en vigor del presente decreto, deberá reponerse para que se sujeten a los términos dispuestos por el artículo 154 contenido en el presente decreto.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- Las presentes modificaciones a la Ley Orgánica del Poder Judicial del Estado de Guanajuato, entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo.- Tan luego cobren vigencia las presentes adecuaciones, el Consejo del Poder Judicial, por esta única vez, proveerá a la designación directa de los titulares de los tribunales especializados en la impartición de justicia para adolescentes, haciendo selección entre los jueces de partido en materia penal, a los que expedirá nombramiento por el plazo que considere pertinente.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
