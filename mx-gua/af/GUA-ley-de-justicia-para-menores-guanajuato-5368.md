@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-menores-guanajuato-5368"
 country: "mx"
 rank: "ley"
 publication_date: "1994-09-16"
-last_updated: "1995-08-01"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE JUSTICIA PARA MENORES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1995.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL DE 1 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de septiembre de 1994.
 
@@ -760,3 +762,57 @@ P.O. 1 DE AGOSTO DE 1995.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día 12 doce de septiembre del año 2006 dos mil seis, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Justicia para Menores, contenida en el Decreto número 308, expedido por la Quincuagésimo Quinta Legislatura, publicada en el Periódico Oficial del Gobierno del Estado, número 74 segunda parte, de fecha 16 de septiembre de 1994.
+
+Artículo Tercero. Las autoridades del Sistema Estatal para el Tratamiento de Menores Infractores a que se refiere la Ley que se abroga, podrán seguir actuando válidamente a la entrada en vigencia de la presente Ley, para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo con las siguientes reglas:
+
+a) Los asuntos que esté conociendo la Comisión Investigadora, los remitirá de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al adolescente que tuviere detenido;
+
+b) Los procedimientos que esté instruyendo la Comisión Dictaminadora los remitirá de inmediato al Juez para Adolescentes, poniendo a su disposición, en su caso, al adolescente que tuviere detenido;
+
+c) Los recursos de revisión que se hubiesen interpuesto conforme a la Ley abrogada y que a la entrada en vigor de la presente Ley se encuentren en trámite, serán remitidos por el Magistrado de la Sala Revisora al Juez de Impugnación para que los resuelva conforme a las reglas de la apelación, poniendo a su disposición, en su caso, al adolescente que tuviere detenido;
+
+d) El Director del Centro de Tratamiento para el Menor entregará a la Dirección General de Reintegración Social para Adolescentes, a los que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos.
+
+Las medidas impuestas, tanto las de internamiento como las en (sic) externación, continuarán aplicándose por las nuevas autoridades; y
+
+e) Si cualquiera de las autoridades del Sistema Estatal para el Tratamiento de Menores Infractores tuviere detenidos a adolescentes menores de catorce años, ordenará su inmediata libertad.
+
+Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento de acuerdo con las reglas de esta Ley, salvo en los aspectos en que resulte más benéfica para el adolescente la aplicación de la ley que se abroga.
+
+Artículo Cuarto. Las autoridades ministeriales y jurisdiccionales que a la entrada en vigencia de la presente Ley, tengan instaurados procedimientos a personas que tenían entre dieciséis años cumplidos y menos de dieciocho años, al momento de la realización de la conducta tipificada como delito, procederán de la siguiente forma:
+
+a) Las averiguaciones previas serán remitidas al Ministerio Público Especializado a que se refiere esta Ley, para que éste, en su caso, haga suyas esas actuaciones, las continúe y determine lo (sic) que haya lugar;
+
+b) El Tribunal que esté instruyendo el proceso se declarará incompetente y remitirá el asunto al Juez para Adolescentes competente, poniendo a su disposición al detenido, si lo hubiere. Si está pendiente de cumplimentarse la orden de comparecencia, aprehensión o reaprehensión, procederá a cancelarla. El Juez para Adolescentes procederá en estos casos conforme a los artículos 29 de esta ley y 11 del Código de Procedimientos Penales; y
+
+c) Los recursos de apelación que se encuentren en trámite, serán remitidos al Juez para Adolescentes, ordenándole la reposición del procedimiento, para que se ajuste a las disposiciones de esta Ley, conforme a los artículos 29 de esta Ley y 11 del Código de Procedimientos Penales.
+
+Artículo Quinto. El Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública, acordará la libertad de sentenciados por delitos calificados como no graves en las leyes del Estado vigentes al momento del delito, que al cometerlos tenían menos de dieciocho años.
+
+En caso de delitos calificados como graves en las leyes del Estado vigentes al momento del delito, emitirá acuerdo en el que reducirá la duración de la pena impuesta, fijando el internamiento en la misma proporción en que estén (sic) el término medio aritmético de la punibilidad señalada para el tipo penal por el que se hubiera condenado y el fijado en esta Ley para la medida de internamiento, la que en su caso se cumplirá en el Centro a que se refiere la presente Ley.
+
+Si se hubiere librado una orden de reaprehensión para el cumplimiento de la sanción impuesta en sentencia ejecutoria y se tratare de conductas tipificadas como graves, se cancelará la orden y el asunto se remitirá al Juez para Adolescentes competente, el que la sustituirá, en su caso, por la de detención. Una vez ejecutada ésta, se procederá en los términos del párrafo anterior.
+
+Si se tratare de conductas típicas no graves, solamente se cancelará la orden y se decretará la conclusión del proceso.
+
+Artículo Sexto. El Titular del Poder Ejecutivo deberá emitir el Reglamento del Centro de Internación, dentro del plazo de quince días, contados a partir de la entrada en vigencia de la presente Ley.
+
+Artículo Séptimo. Las autoridades del Sistema Estatal para el Tratamiento de Menores Infractores realizarán la entrega de los recursos materiales y financieros a la Secretaria de Seguridad Pública, dentro de los quince días siguientes al inicio de la vigencia de esta Ley.
+
+Artículo Octavo. La Gestoría Oficiosa dependiente del Sistema Estatal para el Desarrollo Integral de la Familia remitirá a la Defensoría de Oficio Especializada los asuntos de menores infractores de que esté conociendo, siempre que tengan más de doce años.
+
+Artículo Noveno. El personal de base del Sistema Estatal para el Tratamiento del Menor Infractor se reasignará al que crea esta Ley, de acuerdo a sus funciones y capacidad, tomando en cuenta las disposiciones de las leyes orgánicas que rigen a éste.
+
+Artículo Décimo.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento a la presente Ley.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
