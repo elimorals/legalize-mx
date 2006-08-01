@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agentes-de-pronosticos-deportivos-para-la-46359"
 country: "mx"
 rank: "reglamento"
 publication_date: "1978-05-25"
-last_updated: "1978-05-25"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46359&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1978-05-12"
 
 REGLAMENTO DE AGENTES DE PRONOSTICOS DEPORTIVOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE AGENTES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, PUBLICADO EN EL D.O.F. DE 1 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 25 de mayo de 1978
 
@@ -108,3 +110,15 @@ SEGUNDO.- Pronósticos Deportivos para la Asistencia Pública, expedirá las cir
 El presente Reglamento fue aprobado por el H. Consejo Directivo de Pronósticos Deportivos para la Asistencia Pública en la sesión que celebró el 12 de mayo de 1978 y expedido con fundamento en el inciso a) del artículo Sexto del Decreto Presidencial de 14 de febrero de 1978 publicado en el "Diario Oficial" de 24 del mismo mes.
 
 El Presidente del Consejo, Luis Barrera González.- Rúbrica.- El Secretario del Consejo, Gonzalo Maldonado C.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE AGOSTO DE 2006.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Agentes de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 25 de mayo de 1978.
+
+Tercero.- Cuando en algún ordenamiento se haga referencia al Reglamento de Agentes de fecha 25 de mayo de 1978, se estará a lo dispuesto por el presente Reglamento.
+
+Cuarto.- En tanto no se publiquen en el Diario Oficial de la Federación; el acuerdo que contenga los formatos, datos y documentos de trámites que se deriven de este ordenamiento, se utilizarán los vigentes.
