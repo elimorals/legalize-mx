@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-alternativa-del-estado-de-guanajuato-31422"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2003-05-27"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de mayo de 2003.
 
@@ -68,6 +68,12 @@ En materia penal, la mediación y conciliación entre ofendido e inculpado sólo
 Antes o durante la averiguación previa, la mediación y conciliación podrá ser realizada por el Ministerio Público, quien en lo conducente se ajustará al procedimiento regulado en esta Ley.
 
 Durante el trámite del proceso jurisdiccional penal, la mediación y conciliación estará a cargo del Centro Estatal de Justicia Alternativa o, en su caso, de la sede regional. Cuando las partes lleguen a un convenio, éste deberá remitirse al juez ante quien esté planteado el asunto para los efectos legales correspondientes. El convenio sólo se tomará en cuenta si se produce antes de emitirse sentencia ejecutoria.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+###### Artículo 5 Bis.
+
+En el sistema integral de justicia para adolescentes, la mediación y conciliación se realizara con base en las disposiciones previstas en la Ley que lo regula, aplicando, en lo conducente, el presente ordenamiento, en lo que no se le oponga.
 
 ###### Artículo 6.
 
@@ -300,3 +306,15 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Único.-La presente adición a la Ley de Justicia Alternativa del Estado de Guanajuato, entrará en vigencia el 12 doce del mes de septiembre del año 2006 dos mil seis.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
