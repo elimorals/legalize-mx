@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2005-06-10"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -74,6 +74,14 @@ Cuando una nueva ley deje de considerar un determinado hecho como delictuoso, se
 ###### Artículo 6o.
 
 La ley penal será aplicable a nacionales y extranjeros, con las excepciones que sobre inmunidades establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Las personas que al cometer una conducta tipificada como delito por las leyes penales tengan entre doce años cumplidos y menos de dieciocho años, serán sujetos a las medidas que la Ley de Justicia para Adolescentes del Estado determine.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Quienes al realizar una conducta prevista como delito en las leyes penales sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las leyes que regulan su protección.
 
 ### CAPÍTULO IV. OTRAS LEYES
 
@@ -347,9 +355,7 @@ Cuando el agente se hubiese provocado la grave perturbación de la conciencia a 
 
 ###### Artículo 37.
 
-Las personas menores de dieciséis años no serán responsables penalmente con arreglo a lo dispuesto en este Código; en ningún caso se les podrá imponer pena alguna.
-
-Cuando un menor de dicha edad cometa un hecho delictivo, será responsable con arreglo a lo dispuesto en la ley que regule la responsabilidad del menor.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2006)
 
 ## TÍTULO TERCERO. DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
 
@@ -501,7 +507,7 @@ IV.- La indemnización de los perjuicios ocasionados.
 
 Son terceros obligados a la reparación del daño:
 
-I.- Los que ejerzan la patria potestad.
+I.- (DEROGADA, P.O. 1 DE AGOSTO DE 2006)
 
 II.- Los tutores y los custodios por los delitos de quienes se hallaren bajo su autoridad y guarda.
 
@@ -2412,3 +2418,15 @@ Artículo Único.- el presente decreto entrará en vigor a los sesenta días sig
 P.O. 10 DE JUNIO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- Las presentes modificaciones al Código Penal para el Estado de Guanajuato, entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis.
+
+Artículo Segundo.- Los derechos nacidos al amparo de la disposición a que se refería el artículo 57, fracción I, del Código Penal, quedarán a salvo para hacerse valer ante la autoridad que resulte competente.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
