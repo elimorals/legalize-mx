@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2006-06-22"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -105,7 +105,7 @@ V.- Infundir el conocimiento y la práctica de la democracia como forma de gobie
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
 
-VI. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
+VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
 
 VII.- Impulsar el estudio, conservación y protección del medio físico y el aprovechamiento racional de los recursos naturales, para la solución de los problemas económicos, sociales y culturales del Estado;
 
@@ -121,7 +121,7 @@ XI.- Impulsar la educación física y la práctica del deporte escolar;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XII. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud. Educar para la paternidad responsable y el conocimiento integral de la sexualidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana;
+XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud. Educar para la paternidad responsable y el conocimiento integral de la sexualidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana;
 
 XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza;
 
@@ -141,11 +141,11 @@ XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergen
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XIX. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
+XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
 
 (ADICIONADA, P.O. 22 DE ABRIL DE 2006) (F. DE E., P.O. 30 DE DICIEMBRE DE 2006)
 
-XX. Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el Estado de Jalisco.
+XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el Estado de Jalisco.
 
 ###### ARTICULO 8o.
 
@@ -511,13 +511,15 @@ El personal que atienda a los niños en este nivel de educación deberá ser egr
 
 DE LA EDUCACION BASICA.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 29.
 
-La educación preescolar es obligatoria para todos los habitantes del estado. Es la destinada a los menores de entre tres y cinco años once meses, y tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
+La educación preescolar es obligatoria para todos los habitantes del Estado. Tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
 
-Se impartirá en estancias infantiles, casas hogar, jardines de niños e instituciones análogas. Es antecedente obligatorio de la primaria.
+Las edades de ingreso de las niñas y los niños para este nivel, serán: tres años para el primero, cuatro años para el segundo y cinco años para el tercero; cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
+
+Se impartirá en instancias infantiles, casas hogar, jardines de niños, e institucionales análogas. Es antecedente obligatorio de la primaria.
 
 ###### ARTICULO 30.
 
@@ -529,13 +531,17 @@ La educación primaria es obligatoria para todos los habitantes del Estado. Tien
 
 En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctue entre los 6 y 14 años.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 32.
 
 En el Estado funcionarán centros de educación primaria para:
 
-I.- Niños de los seis hasta los catorce años cumplidos al día de su inscripción, incluyendo a los niños indígenas y a los que tengan necesidades especiales;
+I. Niños de los seis hasta los catorce años cumplidos al día de su inscripción, incluyendo a los niños indígenas y a los que tengan necesidades especiales; y
 
-II.- Adultos.
+La edad mínima para ingresar a este nivel educativo es de 6 años cumplidos hasta el 31 de diciembre del año de inicio del ciclo escolar.
+
+II. Adultos.
 
 ###### ARTICULO 33.
 
@@ -1796,5 +1802,9 @@ P.O. 22 DE ABRIL DE 2006.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 22 DE JUNIO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE AGOSTO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
