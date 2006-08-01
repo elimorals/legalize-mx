@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2004-11-26"
+last_updated: "2006-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DEL 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -52,6 +52,10 @@ II.- Declarar la responsabilidad o la irresponsabilidad de las personas acusadas
 III.- Aplicar las sanciones que señalan las leyes.
 
 Sólo estas declaraciones se tendrán como verdad legal.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Art. 1o bis.- A las instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes corresponde tramitar y resolver los procesos relativos a quienes realicen una conducta tipificada penalmente como delito, teniendo, entre doce años cumplidos y menos de dieciocho años de edad, así como, en su caso, aplicarles las medidas que resulten pertinentes.
 
 ###### Art. 2o.
 
@@ -169,7 +173,13 @@ Ningún tribunal puede promover competencia a su superior jerárquico.
 
 Los Jueces menores conocerán de los delitos que sólo sean perseguibles previa querella de parte, a excepción de los señalados en el siguiente párrafo. Conocerán también de los de bigamia, incumplimiento de las obligaciones de asistencia familiar y violación de correspondencia, aún cuando sean de persecución oficiosa.
 
-Los delitos patrimoniales, los de violencia intrafamiliar, los cometidos contra la hacienda pública, las lesiones culposas que dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular, el homicidio y lesiones culposos cuando el pasivo sea pariente colateral hasta el cuarto grado o esté unido con estrecha amistad con el activo y el de violación entre cónyuges o concubinos, serán de la competencia de los Jueces de Partido.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Los delitos patrimoniales, los de violencia intrafamiliar, los cometidos contra la hacienda pública, las lesiones culposas que dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular, el homicidio y lesiones culposas cuando el pasivo sea pariente colateral hasta el cuarto grado o esté unido con estrecha amistad con el activo, el de violación entre cónyuges o concubinos, así como todos los de persecución oficiosa, será de la competencia de los Jueces de Partido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2006)</small>
+
+Si en el transcurso del proceso se advierte que quien es sometido a él tenía doce años cumplidos y menos de dieciocho años al realizar la conducta tipificada como delito por las leyes del Estado, el Juez que conozca del asunto así lo señalará en acuerdo que notificará a las partes, concediéndoles el término de tres días para que expresen lo que a sus intereses convenga. La institución ministerial, en su caso, incoará la acción que corresponda. Transcurrido ese lapso el juez, si procediere, declinará la competencia y remitirá lo actuado al juez que sea el competente, poniendo a su disposición al detenido, si lo hubiere. El juez que reciba, iniciará el proceso para adolescentes sujetándose a las normas que lo rigen. Si no se hubiere incoado acción, suspenderá el procedimiento y ordenará la inmediata libertad del detenido.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
@@ -3119,6 +3129,10 @@ El tribunal de competencia, en los casos de los artículos 421 y 425, dará vist
 
 Lo actuado por un tribunal incompetente será válido si se tratare de tribunal del Estado o federal. Si se tratare de distinto, el tribunal competente dictará auto declarando que queda abierta la instrucción para que las partes promuevan las diligencias de prueba que estimen convenientes, procediéndose en seguida conforme a las demás disposiciones de este Código.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Si el asunto proviniere de un órgano jurisdiccional especializado en materia de adolescentes, el juez que lo reciba iniciará el proceso ordinario, sujetándose a las normas que lo rigen. Si no se hubiere ejercitado acción penal, suspenderá el procedimiento y ordenará la inmediata libertad del detenido, si lo hubiere.
+
 ###### Art. 429.
 
 En la substanciación de las competencias, una vez transcurridos los términos, se proveerá de oficio el trámite que corresponda.
@@ -4054,3 +4068,7 @@ Artículo Único.- El presente decreto entrará en vigor al cuarto día siguient
 P.O. 26 DE NOVIEMBRE DEL 2004.
 
 Artículo Único.- El presente decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Único.- Las presentes modificaciones al Código de Procedimientos Penales para el Estado de Guanajuato, entrará en vigencia el 12 doce del mes de septiembre del año 2006 dos mil seis.
