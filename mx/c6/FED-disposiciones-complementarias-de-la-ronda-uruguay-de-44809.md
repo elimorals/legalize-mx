@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-ronda-uruguay-de-44809"
 country: "mx"
 rank: "otro"
 publication_date: "2005-01-24"
-last_updated: "2006-04-07"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,31 +19,41 @@ issue_date: "2005-01-21"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA RONDA URUGUAY DE NEGOCIACIONES COMERCIALES MULTILATERALES Y, EL ACUERDO POR EL QUE SE ESTABLECE LA ORGANIZACION MUNDIAL DEL COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO QUE REFORMA EL DIVERSO POR EL QUE SE ESTABLECEN LAS DISPOSICIONES DE CARACTER ADMINISTRATIVO PARA INSTRUMENTAR EL MECANISMO DE SALVAGUARDIA DE TRANSICION PREVISTO EN EL PROTOCOLO DE ADHESION DE LA REPUBLICA POPULAR CHINA A LA ORGANIZACION MUNDIAL DEL COMERCIO
+ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de abril de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-ACUERDO QUE REFORMA EL DIVERSO POR EL QUE SE ESTABLECEN LAS DISPOSICIONES DE CARACTER ADMINISTRATIVO PARA INSTRUMENTAR EL MECANISMO DE SALVAGUARDIA DE TRANSICION PREVISTO EN EL PROTOCOLO DE ADHESION DE LA REPUBLICA POPULAR CHINA A LA ORGANIZACION MUNDIAL DEL COMERCIO.
-
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 5o. fracciones II y X de la Ley de Comercio Exterior; 1, 5 fracción XVI y 16 fracción I del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech; Parte III, artículo 4 del Acuerdo sobre la Agricultura; 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 de su Reglamento; y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 23 de agosto de 2005, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se establecen las disposiciones de carácter administrativo para instrumentar el mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio;
+Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (Acuerdo OMC) fue aprobado por el Senado de la República el 13 de julio de 1994, publicado en el Diario Oficial de la Federación el 30 de diciembre del mismo año y entró en vigor el 1 de enero de 1995;
 
-Que el 24 de enero de 2006, se publicó en el Diario Oficial de la Federación el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Comercio Exterior, y
+Que el 11 de noviembre de 2005, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos;
 
-Que con objeto de hacer consistente el Acuerdo mencionado con las reformas a la Ley de Comercio Exterior señaladas en el párrafo anterior, he tenido a bien expedir el siguiente:
+Que el 2 de febrero de 2006, Estados Unidos de América anunció incrementar el cupo de importación de la Organización Mundial del Comercio en 250 mil toneladas cortas de azúcar refinada para 2006;
 
-ACUERDO
+Que el 21 de febrero de 2006, los Estados Unidos de América otorgaron a los Estados Unidos Mexicanos una cuota adicional de 59,349 toneladas de azúcar refinada (valor crudo), para el ciclo comercial octubre de 2005 a septiembre de 2006;
+
+Que existe una disputa pendiente de resolución entre los Estados Unidos Mexicanos y los Estados Unidos de América concerniente al comercio bilateral de edulcorantes y la asignación de los cupos de exportación a que se refiere este Acuerdo se llevará a cabo sin perjuicio de cualesquier derechos (sic) que le asistan (sic) a México en el marco del Tratado de Libre Comercio de América del Norte incluido en el capítulo XX, y las normas del derecho internacional;
+
+Que es necesario contar con un procedimiento de asignación expedito para efectuar las exportaciones, mejorar la productividad y la competitividad del sector para asegurar el abasto nacional, así como procurar la equidad en la asignación del cupo de exportación de azúcar libre de arancel a los Estados Unidos de América;
+
+Que el procedimiento de asignación de los cupos de azúcares, jarabes y productos con alto contenido de azúcar, es el resultado de un proceso de labores coordinado, entre las secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Cámara Nacional de las Industrias Azucarera y Alcoholera, y
+
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+
+> <small>(F. DE E., D.O.F. 24 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO UNICO.
 
-Se reforman los artículos 1, 3, 10, 16, 17, 20 y 25 del Acuerdo por el que se establecen las disposiciones de carácter administrativo para instrumentar el mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio, para quedar como sigue:
+Se adiciona a los tres cupos contenidos en el cuadro del artículo Primero del Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 11 de noviembre de 2005, uno cuarto para quedar como sigue:
 
-“Artículo 1.- El presente Acuerdo tiene por objeto establecer las disposiciones de carácter administrativo conforme a las cuales la Secretaría de Economía, por conducto de la Unidad de Prácticas Comerciales Internacionales, tramitará y resolverá las investigaciones derivadas del mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio y, en su caso, impondrá las medidas de salvaguardia de transición que correspondan.
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 1.
 
@@ -163,14 +173,6 @@ La Secretaría notificará la imposición de dichas medidas al Comité y a las p
 
 En caso de que la Secretaría concluya que no es procedente la imposición de una medida de salvaguardia de transición, emitirá una resolución final que deberá publicarse en el Diario Oficial de la Federación y notificarse a las partes interesadas de que se tenga conocimiento.
 
-###### Artículo 20.
-
-En circunstancias críticas en las que cualquier demora entrañaría un perjuicio difícilmente reparable para la rama de producción nacional, la Secretaría podrá imponer una medida de salvaguardia de transición provisional en virtud de una determinación preliminar de que las importaciones han causado o amenazan causar una desorganización del mercado.
-
-###### Artículo 25.
-
-Las medidas de salvaguardia de transición que imponga la Secretaría de conformidad con el presente Acuerdo podrán consistir, entre otras, en aranceles específicos o ad-valorem, permisos previos, cupos o alguna combinación de las anteriores.”
-
 ###### Artículo 18.
 
 Las medidas de salvaguardia de transición que se impongan por desorganización del mercado sólo estarán vigentes durante el tiempo necesario para prevenir o reparar la desorganización del mercado. Para este efecto, se tendrá en cuenta lo establecido en el párrafo 6 del artículo 16 del Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio, publicado en el Diario Oficial de la Federación el 21 de abril de 2005.
@@ -197,7 +199,7 @@ la Ronda Uruguay.
 
 Azúcar refinada. 2,954
 
-México, D.F., a 2 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 28 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
 ###### ARTICULO SEGUNDO.
 
@@ -265,9 +267,11 @@ c) Personas físicas y morales, con antecedentes de asignación en el año previ
 
 Para llevar a cabo el canje de los certificados de cupo los beneficiarios deberán solicitarlo a través de la Representación Federal correspondiente, para lo cual contarán con un plazo de quince días hábiles a partir de la entrada en vigor del presente Acuerdo. La solicitud del interesado se hará a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.”
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 30 de septiembre de 2006.
+
+SEGUNDO.- Para efectos del presente Acuerdo, los plazos a que se refiere el artículo tercero del Acuerdo que se adiciona, empezarán a contar a partir de la fecha de publicación del presente ordenamiento.
 
 ###### ARTICULO PRIMERO.
 
