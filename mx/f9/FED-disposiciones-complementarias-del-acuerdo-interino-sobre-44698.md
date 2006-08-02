@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2006-07-28"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,27 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007: MIEL NATURAL; ESPARRAGOS FRESCOS O REFRIGERADOS; AGUACATE; LOS DEMAS MELONES; ATUN PROCESADO, EXCEPTO LOMOS; CHICLE; JUGO DE NARANJA, EXCEPTO CONCENTRADO CONGELADO Y JUGO DE PIÑA, SIN FERMENTAR Y SIN ADICION DE ALCOHOL CON GRADO DE CONCENTRACION MAYOR A 20° BRIX, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR ATUN PROCESADO, EXCEPTO LOMOS, ORIGINARIO DE LOS PAISES DE LA COMUNIDAD EUROPEA, EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 28 de julio de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 8 categorías 7 y 8 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en el artículo 9 categoría 7 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 34 de la Ley Orgánica de la Administración Pública Federal; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados Miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que aprobó el Senado de la República el 23 de abril de 1998 y el decreto de promulgación fue publicado el 31 de agosto de 1998 en el Diario Oficial de la Federación;
+Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados Miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que aprobó el Senado de la República el 23 de abril de 1998 y se publicó en el Diario Oficial de la Federación el 31 de agosto de 1998 el Decreto de Promulgación;
 
-Que el 23 y 24 de febrero de 2000 se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea que aprobó el Senado de la República el 20 de marzo de 2000 y el decreto de promulgación fue publicado el 26 de junio de 2000 en el Diario Oficial de la Federación;
+Que el 23 y 24 de febrero de 2000, se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea que aprobó el Senado de la República el 20 de marzo de 2000 y con fecha de 26 de junio de 2000 se publicó en el Diario Oficial de la Federación el Decreto de Promulgación;
 
-Que las categorías 7 y 8 del artículo 8 de la citada Decisión establecen que la Comunidad Europea otorgará cupos arancelarios con aranceles aduaneros reducidos sobre importaciones a la Comunidad de ciertos productos agrícolas y pesqueros originarios de los Estados Unidos Mexicanos y que dichos cupos serán administrados por nuestro país;
+Que el artículo 9 categoría 7 de la citada Decisión establece que los Estados Unidos Mexicanos otorgará cupos arancelarios con aranceles aduaneros reducidos sobre importaciones a nuestro país, para ciertos productos pesqueros originarios de la Comunidad Europea;
 
-Que el procedimiento de asignación de los cupos que se tratan en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
+Que el procedimiento de asignación de los cupos de importación otorgados por los Estados Unidos Mexicanos a ciertos productos pesqueros originarios de la Comunidad Europea, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007: MIEL NATURAL; ESPARRAGOS FRESCOS O REFRIGERADOS; AGUACATE; LOS DEMAS MELONES; ATUN PROCESADO, EXCEPTO LOMOS; CHICLE; JUGO DE NARANJA, EXCEPTO CONCENTRADO CONGELADO Y JUGO DE PIÑA, SIN FERMENTAR Y SIN ADICION DE ALCOHOL CON GRADO DE CONCENTRACION MAYOR A 20° BRIX, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR ATUN PROCESADO, EXCEPTO LOMOS, ORIGINARIO DE LOS PAISES DE LA COMUNIDAD EUROPEA, EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -201,43 +201,39 @@ Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establ
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para internar a la Comunidad Europea: miel natural; espárragos frescos o refrigerados; aguacate; los demás melones; atún procesado, excepto lomos; chicle; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20° brix, originarios de los Estados Unidos Mexicanos a los países de la Comunidad Europea, en el periodo comprendido de julio de 2006 al 30 de junio de 2007, con el arancel preferencial establecido en el Anexo I (Calendario de Desgravación de la Comunidad); Sección A, cupos arancelarios para los productos listados en la categoría “6”; Sección B, Concesiones arancelarias para productos listados en la categoría “7” y en la Sección C, Notas, de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, son los que se determinan a continuación:
+El cupo para importar atún procesado, excepto lomos, originario de los países de la Comunidad Europea, en el periodo de julio de 2006 al 30 de junio de 2007, con el arancel-cupo preferencial establecido en el Anexo II (Calendario de Desgravación de México); Sección A, Cupos arancelarios para los productos listados en la categoría “6” de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas exportadoras de productos originarios e incrementar la utilización de los aranceles-cupo establecidos al amparo de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, durante el periodo comprendido de julio de un año al 30 de junio del año siguiente, o en el que se señale para un cupo en particular, se aplicará el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”, a los cupos descritos en el cuadro del artículo primero del presente instrumento.
+De conformidad con el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas que utilizan estos productos e incrementar la utilización de los aranceles-cupo establecidos al amparo de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, durante julio de 2006 al 30 de junio de 2007, se aplicará al cupo de importación a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de estos cupos, las personas físicas o morales que se mencionan a continuación conforme a los siguientes criterios:
-
-I. De los cupos para los productos descritos en los numerales 1, 3, 4, 5, 7 y 8 del artículo primero, las personas físicas o morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía hasta agotar el cupo;
-
-II. Del cupo para los productos descritos en el numeral 2 del artículo primero, las personas físicas o morales, productores de espárragos establecidos en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía hasta agotar el cupo. El beneficiario podrá realizar la exportación a través de una empresa comercializadora;
-
-III. Del cupo para los productos descritos en el numeral 6 del artículo primero, las personas físicas o morales fabricantes y comercializadores de chicle establecidos en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía hasta agotar el cupo;
+Podrán solicitar asignación de este cupo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía, hasta agotar el cupo.
 
 ###### ARTICULO CUARTO.
 
-Para cada año, la primera solicitud de asignación de cada uno de los cupos a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
-
-Previo a la presentación de dicha solicitud se deberá realizar el trámite SE-03-038, utilizando el formato SE-03-026, presentando el cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado. Una vez autorizado dicho cuestionario esta Secretaría proporcionará el formato de certificado de circulación EUR.1.
+Para cada año, la primera solicitud de asignación de cupo a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
 
 ###### ARTICULO QUINTO.
 
-Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo de exportación mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando el certificado de circulación EUR.1 a que hace referencia el artículo anterior, debidamente requisitado, y la copia de la factura comercial y del conocimiento de embarque, carta de porte o guía aérea, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud. Las hojas de requisitos específicos se establecen como anexos en el presente instrumento.
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando copia de la factura comercial y del conocimiento de embarque, carta de porte o guía aérea, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-El monto a asignar será el que resulte menor entre la cantidad solicitada, el monto indicado en la factura comercial, el conocimiento de embarque; carta de porte o guía aérea, según sea el caso; en caso de que exista saldo del cupo, el monto de la asignación será el menor entre la cantidad solicitada y el saldo.
+Cuando el solicitante haya sido beneficiario de cuatro expediciones, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio de por lo menos una de las expediciones otorgadas adjuntando copia del pedimento de importación, de forma tal que durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
 
-Cuando el solicitante haya sido beneficiario de cuatro expediciones, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio de por lo menos una de las expediciones otorgadas adjuntando copia del pedimento de exportación, de forma tal que durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 30 de junio de 2007.
+
+El certificado de cupo es nominativo e intransferible, y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
 
 ###### ARTICULO SEXTO.
 
-Para los productos de los numerales 1, 2, 3, 4, 5, 6, 7 y 8 del artículo primero, la vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 30 de junio de 2007.
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las Representaciones Federales de esta Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: www.cofemer.gob.mx, o en las siguientes direcciones electrónicas:
 
-El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea. El certificado de cupo de exportación es el documento que avalará que la empresa es beneficiaria del cupo.
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### ARTICULO SEPTIMO.
 
@@ -249,9 +245,9 @@ b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (ob
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá en su vigencia el 30 de junio de 2007.
 
-México, D.F., a 20 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 28 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
 ANEXO
 
@@ -259,26 +255,12 @@ SECRETARIA DE ECONOMIA
 
 DIRECCION GENERAL DE COMERCIO EXTERIOR
 
-DIRECCION DE OPERACION DE CUPOS DE IMPORTACION Y EXPORTACION
+HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DEL CUPO DE IMPORTACIÓN ORIGINARIO DE LA COMUNIDAD EUROPEA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA
 
-PERIODO JULIO/2006-JUNIO/2007
+ATUN PROCESADO, EXCEPTO LOMOS
 
-HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DEL CUPO DE EXPORTACION A LA COMUNIDAD EUROPEA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA DE LOS SIGUIENTES PRODUCTOS:
+Fracciones arancelarias europeas: 1604.14.01; 1604.14.99; 1604.19.01 y 1604.20.02
 
-MIEL NATURAL.- Fracción Arancelaria Europea: 0409.00.00 (de julio de 2006 al 30 de junio de 2007).
+Asignación Directa bajo la modalidad de “Primero en tiempo, primero en derecho”
 
-ESPARRAGOS FRESCOS O REFRIGERADOS.- Fracción Arancelaria Europea 0709.20.00 (de julio al 30 de noviembre de 2006 y de marzo al 30 de junio de 2007).
-
-AGUACATE.- Fracción Arancelaria Europea: Ex. 0804.40.90 (de julio al 30 de septiembre de 2006 y del 1 al 30 de junio de 2007).
-
-LOS DEMAS MELONES.- Fracción Arancelaria Europea: 0807.19.00 (del 1 de octubre de 2006 al 31 de enero de 2007 y 1 de abril al 31 de mayo de 2007).
-
-ATUN PROCESADO, EXCEPTO LOMOS.- Fracciones Arancelarias Europeas: 1604.14.11; 1604.14.18; 1604.14.90; 1604.19.39 y 1604.20.70 (de julio de 2006 al 30 de junio de 2007).
-
-CHICLE.- Fracciones Arancelarias Europeas: 1704.10.11; 1704.10.19; 1704.10.91 y 1704.10.99 (de julio de 2006 al 30 de junio de 2007).
-
-JUGO DE NARANJA EXCEPTO CONCENTRADO CONGELADO.- Fracciones Arancelarias Europeas: 2009.11.11; 2009.11.19; 2009.11.91; 2009.19.11; 2009.19.19; 2009.19.91 y 2009.19.99 (de julio de 2006 al 30 de junio de 2007).
-
-JUGO DE PIÑA, SIN FERMENTAR Y SIN ADICION DEL ALCOHOL CON GRADO DE CONCENTRACION MAYOR A 20° BRIX.- Fracciones Arancelarias Europeas: 2009.40.11; 2009.40.19; 2009.40.30; 2009.40.91 y 2009.40.99 (de julio de 2006 al 30 de junio de 2007).
-
-ASIGNACION DIRECTA BAJO LA MODALIDAD DE “PRIMERO EN TIEMPO, PRIMERO EN DERECHO” 1/1
+(VEASE ARCHIVO ANEXO)
