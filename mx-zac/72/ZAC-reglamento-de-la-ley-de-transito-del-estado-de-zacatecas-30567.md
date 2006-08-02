@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-transito-del-estado-de-zacatecas-30567"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-12-15"
-last_updated: "2005-06-15"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2006.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de diciembre de 1990.
 
@@ -456,6 +456,18 @@ V.- En el caso de autobuses, contar con lugares exclusivos para las personas de 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2005)</small>
 
 VI.- Permitir el acceso de perros guías de personas ciegas y débiles visuales.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 15-A.
+
+Los vehículos destinados al servicio público de transporte en la modalidad de taxi, deberán contar, además, con un sistema de medición y cobro de los denominados taxímetro, que cumpla las especificaciones de la norma oficial mexicana NOM-007-SCFI-2003, instrumento que estará ubicado en lugar que sea visible para el usuario del servicio y será alimentado con los datos de tarifa que determine la Dirección General de Seguridad Pública y Tránsito.
+
+La medida prevista en el presente artículo será exigible y obligatoria en los municipios de Zacatecas, Fresnillo y Guadalupe, sin perjuicio de que pueda hacerse extensiva al resto de los municipios del Estado, una vez que se practiquen los estudios que demuestren su viabilidad.
+
+La autoridad encargada de aplicar este reglamento, proveerá lo necesario y vigilará que en cada vehículo destinado al servicio de taxi, se coloque un tarjetón o engomado en que se especifique la tarifa con taxímetro
+
+El incumplimiento de la obligación a que se refieren los párrafos antecedentes será sancionado con multa equivalente a cinco días de salario mínimo.
 
 ###### ARTICULO 16.
 
@@ -1766,3 +1778,11 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días naturales si
 SEGUNDO.- Se derogan todas las disposiciones administrativas que contravengan el presente instrumento.
 
 TERCERO.- La Secretaría General de Gobierno, a través de la Dirección de Transporte Público y Vialidad y con apoyo de la Comisión Estatal para la Integración Social de las Personas con Discapacidad, realizará la difusión de este Decreto en los medios masivos de comunicación de la Entidad.
+
+P.O. 2 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se concede un plazo de 60 días a los concesionarios de los municipios de Zacatecas, Fresnillo y Guadalupe, para que instalen en las unidades destinadas a la prestación del servicio público de transporte en la modalidad de taxi, los sistemas de medición a que este decreto se refiere. Transcurrido dicho plazo sin que se cumpla la disposición a que se refiere este decreto, se aplicará la multa correspondiente.
+
+TERCERO.- En el mismo plazo a que se refiere el artículo anterior, la autoridad encargada de aplicar la Ley de Tránsito del Estado y este reglamento, implementará tarjetón o engomado en que se especifique la tarifa con taxímetro, además, realizará una campaña de información al usuario, relacionada con el contenido de este decreto.
