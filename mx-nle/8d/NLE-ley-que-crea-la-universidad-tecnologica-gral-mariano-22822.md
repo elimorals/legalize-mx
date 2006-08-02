@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-tecnologica-gral-mariano-22822"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-30"
-last_updated: "1998-09-30"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD GRAL. MARIANO ESCOBEDO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el miércoles 30 de septiembre 1998.
 
-EL C. LIC. FERNANDO DE JESUS CANALES CLARIOND, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+EL C. LIC. FERNANDO DE JESUS CANALES CLARIOND, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
 
 Que el H. Congreso del Estado ha tenido ha bien decretar lo que sigue:
 
@@ -185,9 +185,11 @@ III. Tener experiencia académica, profesional o empresarial mínima de cinco a�
 
 IV. Gozar de buena reputación y de prestigio académico, profesional o empresarial.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
-El Consejo sesionará de manera ordinaria bimestralmente, y en forma extraordinaria cuando así se requiera, previa convocatoria de su Presidente, o cuando le sea solicitado por las dos terceras partes de los miembros del Consejo. En la convocatoria se incluirá el orden del día y a la que se anexarán los documentos necesarios para el desahogo de la sesión. Las formalidades de las sesiones y el funcionamiento del Consejo deberán quedar establecidos en el Reglamento de esta Ley.
+El Consejo sesionará de manera ordinaria por cuatrimestre y en forma extraordinaria cuando así se requiera, previa la convocatoria de su Presidente o cuando le sea solicitado por las dos terceras partes de los miembros del Consejo. En la convocatoria se incluirá el orden del día y a la que se anexarán los documentos necesarios para el desahogo de la sesión. Las formalidades de las sesiones y el funcionamiento del Consejo deberán quedar establecidos en el Reglamento de esta Ley.
 
 ###### Artículo 14.
 
@@ -400,3 +402,9 @@ LIC. JOSE MARTINEZ GONZALEZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 LIC. FERNANDO ELIZONDO BARRAGAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE AGOSTO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
