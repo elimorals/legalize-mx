@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-notariado-del-estado-de-zacatecas-8251"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-14"
-last_updated: "1989-12-30"
+last_updated: "2006-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DEL NOTARIADO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 2 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 14 de enero de 1987.
 
@@ -1090,3 +1092,13 @@ El presente Decreto entrará en vigor a los quince días siguientes de su public
 ###### ARTICULO SEGUNDO.
 
 A la vigencia del presente Decreto, los Notarios Públicos deberán presentar ante la Secretaría General de Gobierno, para su autorización, el o los libros de su protocolo que hayan de destinarse al registro de las certificaciones, entendiéndose que los mismos tendrán numeración especial y progresiva, tanto en los volúmenes como en los asientos de los registros.
+
+P.O. 2 DE AGOSTO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley del Notariado del Estado de Zacatecas, expedida el 26 de diciembre de 1986 y publicada en el suplemento al número 4 del Periódico Oficial del Gobierno del Estado en fecha 14 de enero de 1987.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+CUARTO. En un plazo de noventa días siguientes a partir de la publicación de la presente Ley, el Colegio de Notarios del Estado de Zacatecas hará las adecuaciones necesarias a su Estatuto Orgánico.
