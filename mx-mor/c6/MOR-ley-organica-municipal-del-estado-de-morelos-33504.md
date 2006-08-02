@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2005-12-21"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -439,11 +439,9 @@ Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como que
 
 Al día siguiente de la toma de posesión, el Ayuntamiento celebrará su primera sesión ordinaria de Cabildo, en la que se plantearán y resolverán los siguientes asuntos:
 
-I. Designar a los titulares de las dependencias de la administración pública municipal, con excepción del Secretario del Ayuntamiento, el Tesorero y el Titular de la Seguridad Pública municipal, que serán nombrados por el Presidente; el Contralor Municipal será propuesto por los Regidores de la primera minoría.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-Cuando después de dos votaciones no se logrará el voto de la mayoría para la designación de los funcionarios municipales, el nombramiento podrá ser hecho por el propio Presidente Municipal bajo su más estricta responsabilidad.
-
-Para la designación de los servidores públicos municipales a que se refiere esta fracción, deberá tomarse en cuenta su competencia, honorabilidad, profesionalismo y responsabilidad;
+I. Designar a los titulares de las dependencias de la administración pública municipal, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal y el Titular de la Seguridad Pública municipal, que serán nombrados por el Presidente;
 
 II. Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
 
@@ -623,15 +621,15 @@ II. Promover ante la Suprema Corte de Justicia de la Nación en los términos qu
 
 III. Expedir o reformar los Bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, en el ámbito de sus respectivas jurisdicciones, sujetándose a lo dispuesto en la presente Ley;
 
-IV.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, para el cumplimiento de los fines de desarrollo integral de la comunidad, en los términos que previene el artículo 116 de la Constitución Política del Estado;
+IV. Expedir los reglamentos y disposiciones administrativas que fueren necesarios, para el cumplimiento de los fines de desarrollo integral de la comunidad, en los términos que previene el artículo 116 de la Constitución Política del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-V.- Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se remitirá al Congreso a más tardar el primero de octubre de cada año, a su discusión y aprobación en su caso; en la distribución de los recursos que le asigne el Congreso, deberán considerar de manera prioritaria a sus comunidades y pueblos indígenas;
+V. Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se remitirá al Congreso a más tardar el primero de octubre de cada año, a su discusión y aprobación en su caso; en la distribución de los recursos que le asigne el Congreso, deberán considerar de manera prioritaria a sus comunidades y pueblos indígenas;
 
-VI.- Revisar y aprobar, en su caso, la cuenta pública anual correspondiente al ejercicio anterior, que presente el Tesorero, remitiéndola a la Legislatura local, dentro del término que establezca la Constitución Política del Estado, con copia del acta de la sesión de Cabildo en donde haya sido aprobada;
+VI. Revisar y aprobar, en su caso, la cuenta pública anual correspondiente al ejercicio anterior, que presente el Tesorero, remitiéndola a la Legislatura local, dentro del término que establezca la Constitución Política del Estado, con copia del acta de la sesión de Cabildo en donde haya sido aprobada;
 
-VII.- Aprobar los Presupuestos de Egresos de su Municipio, con base en los ingresos disponibles, los que contendrán la siguiente información;
+VII. Aprobar los Presupuestos de Egresos de su Municipio, con base en los ingresos disponibles, los que contendrán la siguiente información;
 
 a) Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos, en donde se señalen objetivos, metas y prioridades de desarrollo municipal; así como las unidades responsables de su ejecución y la valuación estimada por programa y subprograma;
 
@@ -645,117 +643,121 @@ e) Las precisiones del gasto público que habrán de realizar las entidades de l
 
 f) En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
 
-VIII.- Aprobar previamente la celebración de todo tipo de convenios con el Poder Ejecutivo del Gobierno del Estado de Morelos, con sus organismos auxiliares, o con el Poder Ejecutivo Federal y sus entidades, a que aluden los Artículos 115 Fracción III y 116 Fracción VII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. Aprobar previamente la celebración de todo tipo de convenios con el Poder Ejecutivo del Gobierno del Estado de Morelos, con sus organismos auxiliares, o con el Poder Ejecutivo Federal y sus entidades, a que aluden los Artículos 115 Fracción III y 116 Fracción VII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX.- Dentro del ámbito de su competencia y sujetándose a los requisitos que las leyes impongan, autorizar la celebración de contratos, convenios y demás actos jurídicos, con todo tipo de autoridades, instituciones o particulares, para el expedito ejercicio de sus funciones;
+IX. Dentro del ámbito de su competencia y sujetándose a los requisitos que las leyes impongan, autorizar la celebración de contratos, convenios y demás actos jurídicos, con todo tipo de autoridades, instituciones o particulares, para el expedito ejercicio de sus funciones;
 
-X.- Proponer, en su caso, a la Legislatura local, por conducto del Presidente Municipal, la creación de organismos municipales descentralizados, fideicomisos o empresas de participación municipal mayoritaria; para la prestación y operación de los servicios públicos; y en general para cualquier otro propósito de beneficio colectivo;
+X. Proponer, en su caso, a la Legislatura local, por conducto del Presidente Municipal, la creación de organismos municipales descentralizados, fideicomisos o empresas de participación municipal mayoritaria; para la prestación y operación de los servicios públicos; y en general para cualquier otro propósito de beneficio colectivo;
 
-XI.- Someter a la autorización del Congreso del Estado la celebración de empréstitos y la aprobación de los contratos respectivos, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
+XI. Someter a la autorización del Congreso del Estado la celebración de empréstitos y la aprobación de los contratos respectivos, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
 
-XII.- Solicitar la aprobación de la Secretaría de Hacienda, cuando el Municipio, sus organismos descentralizados o fideicomisos, requieran la garantía del Estado para la contratación de empréstitos o créditos, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-XIII.- Previa la autorización del Congreso del Estado, emitir títulos de deuda pública pagaderos en moneda nacional y dentro del territorio nacional, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
+XII. Solicitar la aprobación de la dependencia de la Administración Pública del Estado, encargada del ramo de Hacienda, cuando el Municipio, sus organismos descentralizados o fideicomisos, requieran la garantía del Estado para la contratación de empréstitos o créditos, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
 
-XIV.- Supervisar el corte de caja de la Tesorería Municipal que mensualmente presente el Tesorero al Ayuntamiento en Cabildo y aprobarlo en su caso, remitiéndolo al Congreso del Estado dentro de los veinte primeros días del mes siguiente; en el último mes del ejercicio constitucional se remitirá el corte de caja al Congreso quince días antes de la conclusión del ejercicio constitucional del Ayuntamiento;
+XIII. Previa la autorización del Congreso del Estado, emitir títulos de deuda pública pagaderos en moneda nacional y dentro del territorio nacional, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
 
-XV.- Dividir el territorio municipal en delegaciones y ayudantías, para la mejor administración del mismo;
+XIV. Supervisar el corte de caja de la Tesorería Municipal que mensualmente presente el Tesorero al Ayuntamiento en Cabildo y aprobarlo en su caso, remitiéndolo al Congreso del Estado dentro de los veinte primeros días del mes siguiente; en el último mes del ejercicio constitucional se remitirá el corte de caja al Congreso quince días antes de la conclusión del ejercicio constitucional del Ayuntamiento;
 
-XVI.- Reglamentar el funcionamiento de las delegaciones y ayudantías dentro del Municipio;
+XV. Dividir el territorio municipal en delegaciones y ayudantías, para la mejor administración del mismo;
 
-XVII.- Aprobar en su caso la categoría y denominación política que les corresponda a los centros de población de su Municipio, conforme a esta Ley;
+XVI. Reglamentar el funcionamiento de las delegaciones y ayudantías dentro del Municipio;
 
-XVIII.- Promover el respeto a los símbolos patrios;
+XVII. Aprobar en su caso la categoría y denominación política que les corresponda a los centros de población de su Municipio, conforme a esta Ley;
 
-XIX.- A propuesta del Presidente Municipal, nombrar a los servidores públicos municipales a que se refiere el artículo 24 fracción I de esta Ley;
+XVIII. Promover el respeto a los símbolos patrios;
 
-XX.- Nombrar al Contralor Municipal por mayoría calificada de los integrantes del Cabildo, de entre una terna que para tal efecto presenten los regidores de primera minoría;
+XIX. A propuesta del Presidente Municipal, nombrar a los servidores públicos municipales a que se refiere el artículo 24 fracción I de esta Ley;
 
-XXI.- Nombrar, conceder licencias, permisos y en su caso suspender, a propuesta del Presidente Municipal, a los delegados, al cronista municipal y a los demás servidores públicos municipales, con las excepciones previstas en esta Ley;
+XX. (DEROGADA, P.O. 2 DE AGOSTO DE 2006)
 
-XXI.- Convocar a elecciones de ayudantes municipales en los términos que establezcan las leyes;
+XXI. Nombrar, conceder licencias, permisos y en su caso suspender, a propuesta del Presidente Municipal, a los delegados, al cronista municipal y a los demás servidores públicos municipales, con las excepciones previstas en esta Ley;
 
-XXIII.- Administrar libremente la hacienda municipal en términos de la Ley respectiva y controlar el ejercicio del Presupuesto de Egresos del Municipio por conducto de la comisión del ramo que corresponda;
+XXII. Convocar a elecciones de ayudantes municipales en los términos que establezcan las leyes;
 
-XXIV.- Solicitar al Ejecutivo del Estado la expropiación de bienes por causas de utilidad pública;
+XXIII. Administrar libremente la hacienda municipal en términos de la Ley respectiva y controlar el ejercicio del Presupuesto de Egresos del Municipio por conducto de la comisión del ramo que corresponda;
 
-XXV.- Municipalizar los servicios públicos en términos de esta Ley;
+XXIV. Solicitar al Ejecutivo del Estado la expropiación de bienes por causas de utilidad pública;
 
-XXVI.- Revisar y en su caso aprobar, en sesión de Cabildo, los movimientos registrados en el libro especial de bienes muebles e inmuebles del municipio;
+XXV. Municipalizar los servicios públicos en términos de esta Ley;
 
-XXVII.- Acordar el destino o uso de los bienes inmuebles municipales;
+XXVI. Revisar y en su caso aprobar, en sesión de Cabildo, los movimientos registrados en el libro especial de bienes muebles e inmuebles del municipio;
 
-XXVIII.- Autorizar la ejecución de las obras públicas municipales en coordinación con la Federación, el Estado u otros Municipios de la Entidad, de acuerdo con las leyes respectivas;
+XXVII. Acordar el destino o uso de los bienes inmuebles municipales;
 
-XXIX.- Vigilar que el Tesorero Municipal y los servidores públicos que manejen fondos o valores municipales, otorguen las fianzas inherentes a sus cargos;
+XXVIII. Autorizar la ejecución de las obras públicas municipales en coordinación con la Federación, el Estado u otros Municipios de la Entidad, de acuerdo con las leyes respectivas;
 
-XXX.- Revisar y en su caso aprobar el Plan Municipal de Desarrollo, los programas del mismo emanen y las modificaciones que a uno u otros se hagan, de conformidad con los planes de desarrollo nacional y estatal y de los programas y subprogramas que de ellos deriven;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-XXXI.- Participar en la creación o consolidación del COPLADEMUN, ajustándose a las Leyes de Planeación Estatal y Federal;
+XXIX. Exigir la exhibición de la garantía, hipotecaria o pecuniaria o cualquier otra modalidad que establezca la ley, al Tesorero municipal y a todos los servidores públicos que manejen fondos o valores municipales;
 
-XXXII.- Proponer en la iniciativa de Ley de Ingresos, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras;
+XXX. Revisar y en su caso aprobar el Plan Municipal de Desarrollo, los programas del mismo emanen y las modificaciones que a uno u otros se hagan, de conformidad con los planes de desarrollo nacional y estatal y de los programas y subprogramas que de ellos deriven;
 
-XXXIII.- Asignar las ramas de la administración municipal a las comisiones integradas conforme a esta Ley;
+XXXI. Participar en la creación o consolidación del COPLADEMUN, ajustándose a las Leyes de Planeación Estatal y Federal;
 
-XXXIV.- Participar en la creación y administración de sus reservas territoriales y ecológicas;
+XXXII. Proponer en la iniciativa de Ley de Ingresos, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras;
 
-XXXV.- Llevar a cabo el ordenamiento territorial del Municipio y su registro;
+XXXIII. Asignar las ramas de la administración municipal a las comisiones integradas conforme a esta Ley;
 
-XXXVI.- Otorgar licencias, permisos o autorizaciones para el uso de suelo a la propiedad inmobiliaria, la construcción, demolición o remodelación de obras;
+XXXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas;
 
-XXXVII.- Intervenir en la regularización de la tenencia de la tierra urbana, y otorgar licencias y permisos para construcciones privadas;
+XXXV. Llevar a cabo el ordenamiento territorial del Municipio y su registro;
 
-XXXVIII.- Participar, en el ámbito de su competencia, en los términos de las leyes de la materia y en coordinación con la Federación, el Estado y los Municipios involucrados, en la planeación y regularización del desarrollo de los centros urbanos en proceso de conurbación;
+XXXVI. Otorgar licencias, permisos o autorizaciones para el uso de suelo a la propiedad inmobiliaria, la construcción, demolición o remodelación de obras;
 
-XXXIX.- Establecer y aprobar las bases para el establecimiento del sistema municipal de protección civil en coordinación con el sistema estatal;
+XXXVII. Intervenir en la regularización de la tenencia de la tierra urbana, y otorgar licencias y permisos para construcciones privadas;
 
-XL.- Conocer y en su caso aprobar por mayoría calificada las reformas o adiciones a la Constitución Política del Estado, en términos del Artículo 147 de la misma;
+XXXVIII. Participar, en el ámbito de su competencia, en los términos de las leyes de la materia y en coordinación con la Federación, el Estado y los Municipios involucrados, en la planeación y regularización del desarrollo de los centros urbanos en proceso de conurbación;
 
-XLI.- Participar en el ámbito de su competencia de acuerdo a las facultades que en materia de salud, educación, seguridad, medio ambiente, asentamientos humanos, desarrollo urbano y asociaciones religiosas y culto público que les concedan las Leyes Federales y Locales;
+XXXIX. Establecer y aprobar las bases para el establecimiento del sistema municipal de protección civil en coordinación con el sistema estatal;
 
-XLII.- Enajenar y dar en arrendamiento, usufructo o comodatos los bienes del Municipio, previa autorización de las dos terceras partes de sus integrantes;
+XL. Conocer y en su caso aprobar por mayoría calificada las reformas o adiciones a la Constitución Política del Estado, en términos del Artículo 147 de la misma;
 
-XLIII.- Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo; y en general, coadyuvar con las autoridades federales y estatales en la ejecución de los mismos;
+XLI. Participar en el ámbito de su competencia de acuerdo a las facultades que en materia de salud, educación, seguridad, medio ambiente, asentamientos humanos, desarrollo urbano y asociaciones religiosas y culto público que les concedan las Leyes Federales y Locales;
 
-XLIV.- Desafectar del servicio público los bienes municipales o cambiar el destino de los bienes inmuebles dedicados a un servicio público o de uso común;
+XLII. Enajenar y dar en arrendamiento, usufructo o comodatos los bienes del Municipio, previa autorización de las dos terceras partes de sus integrantes;
 
-XLV.- Crear y suprimir las direcciones, departamentos u oficinas que se requieran para la mejor administración municipal, tomando en cuenta las posibilidades del erario;
+XLIII. Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo; y en general, coadyuvar con las autoridades federales y estatales en la ejecución de los mismos;
 
-XLVI.- Celebrar acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales;
+XLIV. Desafectar del servicio público los bienes municipales o cambiar el destino de los bienes inmuebles dedicados a un servicio público o de uso común;
 
-XLVII.- Instrumentar, con el apoyo del organismo público constitucional para el fortalecimiento y desarrollo municipal, métodos y procedimientos para la selección y capacitación del personal de las áreas encargadas de los principales servicios públicos, que propicien la institucionalización del servicio civil de carrera municipal;
+XLV. Crear y suprimir las direcciones, departamentos u oficinas que se requieran para la mejor administración municipal, tomando en cuenta las posibilidades del erario;
 
-XLVIII.- Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
+XLVI. Celebrar acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales;
 
-XLIX.- Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación:
+XLVII. Instrumentar, con el apoyo del organismo público constitucional para el fortalecimiento y desarrollo municipal, métodos y procedimientos para la selección y capacitación del personal de las áreas encargadas de los principales servicios públicos, que propicien la institucionalización del servicio civil de carrera municipal;
 
-L.- Publicar, cuando menos cada tres meses, una gaceta municipal, como órgano oficial para la publicación de los acuerdos de carácter general tomados por el Ayuntamiento y de otros asuntos de interés público;
+XLVIII. Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
 
-LI.- Autorizar al Presidente Municipal, Síndico y Regidores para ausentarse del Municipio o para separarse del cargo, por un término mayor de quince días. En su caso, resolver sobre las solicitudes de licencia que formule cualquiera de los mencionados;
+XLIX. Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación:
 
-LII.- Analizar y en su caso aprobar la nomenclatura de las calles;
+L. Publicar, cuando menos cada tres meses, una gaceta municipal, como órgano oficial para la publicación de los acuerdos de carácter general tomados por el Ayuntamiento y de otros asuntos de interés público;
 
-LIII.- Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
+LI. Autorizar al Presidente Municipal, Síndico y Regidores para ausentarse del Municipio o para separarse del cargo, por un término mayor de quince días. En su caso, resolver sobre las solicitudes de licencia que formule cualquiera de los mencionados;
+
+LII. Analizar y en su caso aprobar la nomenclatura de las calles;
+
+LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
-LIV.- Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase (sic) prioritaria para las familias de los emigrantes;
+LIV. Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase (sic) prioritaria para las familias de los emigrantes;
 
-LV.- Prestar a las autoridades judiciales, al Ministerio Público, a las ayudantías y delegaciones y a los Poderes del Estado, el auxilio necesario para el ejercicio de sus funciones, cuando así lo soliciten;
+LV. Prestar a las autoridades judiciales, al Ministerio Público, a las ayudantías y delegaciones y a los Poderes del Estado, el auxilio necesario para el ejercicio de sus funciones, cuando así lo soliciten;
 
-LVI.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito municipal;
+LVI. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito municipal;
 
-LVII.- Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos indígenas, su protección legal y tomar en cuenta su opinión para la formulación de los Planes Municipales de Desarrollo y en los asuntos y acuerdos municipales que les afecten;
+LVII. Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos indígenas, su protección legal y tomar en cuenta su opinión para la formulación de los Planes Municipales de Desarrollo y en los asuntos y acuerdos municipales que les afecten;
 
-LVIII.- Proporcionar instrucción cívica a los ciudadanos del Municipio, con el fin de que se mantengan aptos en el ejercicio de sus derechos cívico políticos;
+LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el fin de que se mantengan aptos en el ejercicio de sus derechos cívico políticos;
 
-LIX.- Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
+LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
 
-LX.- En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos;
+LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos;
 
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-LXI.- Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
+LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
 
 ###### Artículo 39.
 
@@ -797,7 +799,9 @@ I. Presentar a consideración del Ayuntamiento y aprobados que fueren, promulgar
 
 II. Presidir las sesiones del Ayuntamiento, con voz y voto en las discusiones y voto de calidad en caso de empate, así como convocar a los miembros del Ayuntamiento para la celebración de las sesiones ordinarias, extraordinarias y solemnes;
 
-III. Nombrar al Secretario Municipal, al Tesorero Municipal y al Titular de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+III. Nombrar al Secretario Municipal, al Tesorero Municipal, al Contralor Municipal y al Titular de Seguridad Pública;
 
 IV. Proponer ante el Cabildo para su aprobación, los nombramientos de los servidores públicos a que se refiere el artículo 24 fracción I, de la presente Ley;
 
@@ -1211,7 +1215,17 @@ XIV. Las demás que le señale la presente Ley, las disposiciones reglamentarias
 
 La Tesorería Municipal estará a cargo de una persona distinta de los integrantes del Ayuntamiento llamada Tesorero, quien será propuesto y removido libremente por el Presidente Municipal.
 
-El Tesorero y los servidores públicos que manejen fondos o valores estarán obligados a caucionar su manejo en la forma y términos que dispongan la legislación aplicable y el Ayuntamiento.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
+El Tesorero y los servidores públicos que manejen fondos o valores estarán obligados a afianzar el manejo que realicen de los fondos del erario, en la forma y términos que dispongan la legislación aplicable y el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
+El Ayuntamiento deberá exigir la exhibición de la fianza, antes de iniciar el ejercicio de sus funciones. Dicha garantía será renovada en términos del contrato respectivo en tanto la persona ocupe el cargo.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
+El monto de la fianza será determinado, por cada Ayuntamiento proporcionalmente al monto del presupuesto ejercido. En ningún caso el Tesorero Municipal podrá tomar posesión de su cargo si omite cumplir con este requisito.
 
 ###### Artículo 80.
 
@@ -1229,9 +1243,17 @@ II.- Ser ciudadano morelense en ejercicio de sus derechos civiles y políticos;
 
 III.- Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por delitos intencionales;
 
-IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo.
+IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+VI.- Exhibir la póliza de fianza a que se refiere el artículo 79 de este ordenamiento.
 
 ###### Artículo 82.
 
@@ -1285,11 +1307,15 @@ XXII.- Integrar la Cuenta Pública Anual del Municipio dentro de los primeros di
 
 XXIII.- Cuidar que los asuntos de la Tesorería se despachen y solventen con la oportunidad y eficacia requerida para el debido funcionamiento de la dependencia;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-XXIV.- Presentar al Ayuntamiento la Cuenta Pública anual correspondiente al ejercicio fiscal anterior, durante los primeros quince días del mes de enero para su revisión, aprobación y entrega al Congreso del Estado, a más tardar el último día hábil del mismo mes; y
+XXIV.- Presentar al Ayuntamiento la Cuenta Pública anual correspondiente al ejercicio fiscal anterior, durante los primeros quince días del mes de enero para su revisión, aprobación y entrega al Congreso del Estado, a más tardar el último día hábil del mismo mes;
 
-XXV.- Las demás que le asignen esta Ley, la de Hacienda Municipal, el Código Fiscal del Estado de Morelos y reglamentos en vigor.
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+XXV.- Conducir y vigilar el funcionamiento de un sistema de información y orientación fiscal para los causantes municipales; y
+
+XXVI.- Las demás que le asignen esta Ley, la de Hacienda Municipal, el Código Fiscal del Estado de Morelos y reglamentos en vigor.
 
 ###### Artículo 83.
 
@@ -1297,11 +1323,13 @@ Los Tesoreros serán responsables de las erogaciones que efectúen y que no est�
 
 ### CAPÍTULO III. DEL CONTRALOR
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
 ### CAPÍTULO IV. DE LA OFICIALÍA DEL REGISTRO CIVIL
 
 ###### Artículo 84.
 
-La Contraloría Municipal es el órgano de control, inspección y supervisión en la administración pública municipal.
+La Contraloría Municipal es el órgano encargado del control, inspección, supervisión y evaluación del desempeño de las distintas áreas de la Administración Pública Municipal, con el objeto de promover la productividad, eficiencia, a través de la implantación de sistemas de control interno, siendo el órgano encargado de aplicar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
 ###### Artículo 85.
 
@@ -1345,9 +1373,19 @@ VII. Coadyuvar con las labores de seguimiento, control y evaluación de la Secre
 
 VIII. Elaborar y autorizar sus sistemas, métodos y procedimientos para las labores de inspección, vigilancia, supervisión y fiscalización que realice;
 
-IX. Requerir información, documentación, apoyo y colaboración de los órganos de control interno de los organismos descentralizados y demás entidades del sector paramunicipal; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-X. Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
+IX.- Requerir información, documentación, apoyo y colaboración de los órganos de control interno de los organismos descentralizados y demás entidades del sector paramunicipal;
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+X.- Vigilar el exacto cumplimiento de las disposiciones legales y reglamentarias que regulen las funciones del Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+XI.- Desarrollar los sistemas de control interno del Ayuntamiento y vigilar su exacto cumplimiento; y
+
+XII.- Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
 
 ###### Artículo 87.
 
@@ -1361,9 +1399,17 @@ II. Omitir determinar todas las observaciones que adviertan en los actos de fisc
 
 III. Omitir considerar a los servidores públicos titulares de las áreas que deben solventar observaciones resultantes de los actos de fiscalización o inspección que realice, o aquellos de los que se advierta alguna presunta responsabilidad jurídica, si ha dispuesto de todos los elementos normativos y documentales que en cada caso se requieran;
 
-IV. Recibir cualquier tipo de favor o beneficio personal, dádivas o retribuciones en numerario o en especie de los servidores públicos denunciados o auditados, ajenos a su ingreso salarial o a los recursos de que deben disponer para el ejercicio de su función; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-V. Alterar constancias o cualquier otro tipo de documentos e información o destruirlas; entre otras análogas.
+IV. Recibir cualquier tipo de favor o beneficio personal, dádivas o retribuciones en numerario o en especie de los servidores públicos denunciados o auditados, ajenos a su ingreso salarial o a los recursos de que deben disponer para el ejercicio de su función;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+V. Alterar constancias o cualquier otro tipo de documentos e información o destruirlas; entre otras análogas; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
+
+VI. Hacer del conocimiento público o privado el resultado de las auditorias internas que pongan en peligro la estabilidad del municipio.
 
 La destitución también procederá cuando se advierta la comisión de irregularidades en el desempeño de este servidor público, que aún no siendo graves, sean continuas y quebranten los mismos principios señalados en el primer párrafo de este artículo.
 
@@ -1743,6 +1789,20 @@ Las obras públicas municipales serán ejecutadas por los Ayuntamientos en coord
 
 La elaboración, dirección y ejecución de los programas relativos a la construcción de obras públicas municipales corresponde al Presidente Municipal, quien los realizará por conducto de la dependencia municipal que corresponda.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
+
+###### Artículo 127 Bis.
+
+Para ser titular de la dependencia a que se refiere el artículo anterior, se deben reunir los siguientes requisitos:
+
+I.- Ser mayor de 30 años de edad al día de su designación;
+
+II.- Contar con título profesional legalmente expedido, en ingeniería civil, arquitectura o cualquiera otra afín;
+
+III.- Contar con una experiencia profesional de cinco años como mínimo; y
+
+IV.- Tener un modo honesto de vivir.
+
 ###### Artículo 128.
 
 Las obras públicas que realice el Ayuntamiento podrán ser:
@@ -2103,7 +2163,7 @@ II.- La realización conjunta de programas de desarrollo común;
 
 III.- La organización de empresas para la prestación de servicios públicos de alcance intermunicipal;
 
-IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población, y
+IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población y
 
 V.- Las demás acciones que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
 
@@ -2323,7 +2383,7 @@ III. Ratificada que sea la solicitud, se turnará al Pleno del la Legislatura Lo
 
 IV. La Comisión Legislativa correrá traslado con la solicitud y documentos anexos a las partes en la controversia, las que contaran con un término de diez días hábiles para contestar lo que a su derecho convenga, acompañar las pruebas documentales que consideren procedentes y ofrecer las que deban desahogarse. En caso de no dar contestación dentro del término señalado, se asentará tal razón en el expediente y se continuará el procedimiento sin su intervención, en materia de límites territoriales no se admitirán más que pruebas documentales;
 
-V. La Comisión una vez que reciba la contestación, citará a las partes involucradas en la controversia, quienes podrán optar por concurrir personalmente o a través del funcionario con facultades resolutivas que designen para ello, para que se presenten a la Legislatura Local en la fecha y hora que la Comisión determine. Las partes citadas podrán en esta audiencia llegar a un acuerdo legal que será calificado por la Comisión; en caso de calificarse de procedente, el acuerdo se asentará en el dictamen respectivo concluyendo con ello e procedimiento;
+V. La Comisión una vez que reciba la contestación, citará a las partes involucradas en la controversia, quienes podrán optar por concurrir personalmente o a través del funcionario con facultades resolutivas que designen para ello, para que se presenten a la Legislatura Local en la fecha y hora que la Comisión determine. Las partes citadas podrán en esta audiencia llegar a un acuerdo legal que será calificado por la Comisión; en caso de calificarse de procedente, el acuerdo se asentará en el dictamen respectivo concluyendo con ello el procedimiento;
 
 VI. La Comisión, en caso de que no se llegue al acuerdo que se señala en la fracción anterior, notificará por escrito a las partes sobre la fecha, hora y lugar para el desahogo de las pruebas ofrecida por las partes que haya lugar a desahogar, no pudiendo exceder esta etapa de los quince días hábiles siguientes a la fecha de la audiencia antes citada;
 
@@ -2414,3 +2474,11 @@ P.O. 21 DE DICIEMBRE DE 2005.
 PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 2 DE AGOSTO DE 2006.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
