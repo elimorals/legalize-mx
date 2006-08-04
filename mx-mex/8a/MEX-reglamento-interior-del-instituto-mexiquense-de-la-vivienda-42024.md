@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-mexiquense-de-la-vivienda-420
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-13"
-last_updated: "2004-12-13"
+last_updated: "2006-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2006.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de diciembre de 2004.
 
@@ -115,11 +115,11 @@ II. Dirección de Administración del Suelo.
 
 III. Coordinación de Delegaciones Regionales.
 
-IV. Coordinación del Programa de Incorporación de Suelo al Desarrollo.
+IV. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
 V. Dirección de Promoción y Fomento a la Vivienda.
 
-VI. Dirección de Proyectos Estratégicos y Enlace Institucional.
+VI. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
 VII. Dirección de Administración y Finanzas.
 
@@ -129,15 +129,19 @@ IX. Contraloría Interna.
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
-### CAPITULO IV. DE LOS DIRECTORES Y COORDINADORES
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE AGOSTO DE 2004)</small>
+
+### CAPITULO IV. DE LOS DIRECTORES Y DEL COORDINADOR
 
 ###### Artículo 11.
 
 Al frente de cada Dirección y Coordinación habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y con el presupuesto autorizado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 12.
 
-Corresponde a los directores y Coordinadores:
+Corresponde a los directores y al Coordinador:
 
 I. Planear, programar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -167,7 +171,9 @@ XIII. Proponer al Director General la suscripción de acuerdos, convenios y cont
 
 XIV. Las demás que les confieren otras disposiciones legales y aquellas que les encomienden el Consejo Directivo o el Director General.
 
-### CAPITULO V. DE LAS DIRECCIONES, COORDINACIONES, Y DE LA CONTRALORIA INTERNA
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE AGOSTO DE 2006)</small>
+
+### CAPITULO V. DE LAS DIRECCIONES, COORDINACION Y CONTRALORIA INTERNA
 
 ###### Artículo 13.
 
@@ -195,7 +201,9 @@ X. Validar los proyectos de convenios, contratos o permisos que celebre u otorgu
 
 XI. Verificar la procedencia legal de sanciones propuestas por las unidades administrativas del Instituto.
 
-XII. Verificar, en coordinación con la Dirección de Finanzas y Administración, que el patrimonio inmobiliario del Instituto cuente con la documentación que acredite su propiedad y con los pagos correspondientes y, en su caso, implementar las acciones para su cumplimiento.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XII. Verificar que el patrimonio inmobiliario del Instituto cuente con la documentación que acredite su propiedad y con los pagos correspondientes y, en su caso, implementar las acciones para su cumplimiento.
 
 XIII. Proponer reformas a los ordenamientos legales relacionados con la actividad del Instituto.
 
@@ -235,7 +243,7 @@ XIII. Coadyuvar en la atención de asuntos jurídico-administrativos de su compe
 
 XIV. Promover la protocolización de las autorizaciones de subdivisión, fusión, relotificación, conjuntos urbanos y certificaciones de existencia y apertura de vías públicas, sobre inmuebles bajo el dominio del Instituto; así como la escrituración individual a favor de los beneficiarios de los programas de suelo del Instituto.
 
-XV. Denunciar ante las autoridades competentes los actos de los que tenga conocimiento en ejercicio de sus funciones y que puedan constituir delito en materia de asentamientos humanos e informar a la Dirección Jurídica del Instituto.
+XV. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
 XVI. Participar en la formulación de los proyectos de expropiación de terrenos de propiedad privada, ejidal o comunal conforme a las disposiciones legales aplicables.
 
@@ -269,25 +277,21 @@ V. Asesorar y apoyar a las delegaciones regionales en el cumplimiento de sus fun
 
 VI. Contribuir al mejoramiento de los servicios que proporcionan las delegaciones regionales.
 
-VII. Atender a los grupos sociales demandantes de suelo, vivienda y regularización de la tenencia de la tierra, informando a las áreas respectivas de sus peticiones.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
-VIII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
+VII. Atender, en el ámbito de su competencia, a los grupos sociales demandantes de suelo, vivienda y regularización de la tenencia de la tierra, informando a las áreas respectivas de sus peticiones.
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+VIII. Denunciar ante las autoridades competentes los actos de los que tenga conocimiento en ejercicio de sus funciones y que puedan constituir delito en materia de asentamientos humanos e informar a la Dirección Jurídica y a la Dirección de Administración del Suelo del Instituto.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 16.
 
-Corresponde a la Coordinación del Programa de Incorporación de Suelo al Desarrollo:
-
-I. Promover la creación de reservas territoriales aptas para el desarrollo de los programas de incorporación de suelo.
-
-II. Identificar la propiedad susceptible de incluirse al Programa de Incorporación del Suelo al Desarrollo e integrar los expedientes con la Información correspondiente.
-
-III. Gestionar los dictámenes federales, estatales y municipales que procedan y, en su caso, coadyuvar en el trámite de incorporación de suelo.
-
-IV. Coordinar la instrumentación de programas de lotes con servicios y pie de casa.
-
-V. Proponer la suscripción de convenios de colaboración entre el Instituto y los promotores de vivienda y, en su caso, con los titulares de los derechos agrarios o propietarios del suelo, respectivamente.
-
-VI. Las demás que le confieren otras disposiciones legales, y las que le encomiende el Consejo Directivo o el Director General.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2006)
 
 ###### Artículo 17.
 
@@ -337,45 +341,83 @@ XXI. Integrar y evaluar social y técnicamente los expedientes de proyectos de v
 
 XXII. Definir los lineamientos para la dictaminación social y técnica de los estudios socioeconómicos de solicitudes individuales que vayan a ser atendidas por las delegaciones regionales.
 
-XXIII. Verificar por muestreo que los dictámenes sociales y técnicos se sujete (sic) a las reglas de operación y a los lineamientos correspondientes de los programas de vivienda.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXIII. Verificar por muestreo que los dictámenes sociales y técnicos se sujeten a las reglas de operación y a los lineamientos correspondientes de los programas de vivienda.
 
 XXIV. Coordinar y efectuar la supervisión técnica de las obras que se realicen con recursos del Instituto.
 
 XXV. Promover la constitución de reservas territoriales y la adquisición de terrenos para programas de vivienda, así como la evaluación de los terrenos alternativos para este fin.
 
-XXVI. Realizar la promoción y gestiones necesarias para la adquisición, donación, cesión, comodato, enajenación y permuta de inmuebles a excepción de aquellos trámites relacionados con el cumplimiento de la normatividad en materia de adquisiciones y enajenaciones de bienes, previa autorización de la Dirección de Finanzas y Administración.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
-XXVII. Identificar los bienes del patrimonio inmobiliario del Instituto, que sean susceptibles de aprovechamiento, proponiendo esquemas de utilización en programas de vivienda.
+XXVI. Realizar la promoción y gestiones necesarias para la adquisición, donación, cesión, comodato, enajenación y permuta de inmuebles, previo análisis y aprobación del Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Instituto.
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXVII. Identificar los bienes del patrimonio inmobiliario del Instituto que sean susceptibles de aprovechamiento y proponer su utilización en programas de vivienda que cumplan con los fines sociales del Instituto.
 
 XXVIII. Plantear las necesidades de suelo para los programas de vivienda a considerarse en la elaboración del programa anual de adquisiciones, aprovechamiento y enajenación del patrimonio inmobiliario del Instituto.
 
-XXIX. Captar las demandas de suelo y vivienda por parte de la población e identificar las posibles de atención con base en el inventario del patrimonio inmobiliario del Instituto y la oferta de los desarrolladores de vivienda.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
-XXX. Las demás que le confieren otras disposiciones legales, y las que le encomiende el Consejo Directivo o el Director General.
+XXIX. Analizar la demanda de vivienda solicitada por la población e identificar las posibilidades de atención, con base en el inventario del patrimonio inmobiliario del Instituto, la oferta de los desarrolladores de vivienda y los organismos nacionales de vivienda.
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXX. Promover la creación de reservas territoriales aptas para el desarrollo de los programas de incorporación de suelo.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXI. Identificar la propiedad susceptible de incluirse al Programa de Suelo al Desarrollo e integrar los expedientes con la información correspondiente.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXII. Gestionar los dictámenes federales, estatales y municipales que procedan y, en su caso, coadyuvar en el trámite de incorporación de suelo.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXIII. Coordinar la instrumentación de programas de lotes con servicios y pie de casa.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXIV. Proponer la suscripción de convenios de colaboración entre el Instituto y los promotores de vivienda y, en su caso, con los titulares de los derechos agrarios o propietarios del suelo, respectivamente.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXV. Administrar, custodiar y controlar los bienes que conforman el patrimonio inmobiliario del Instituto, así como de la documentación original que avale la propiedad y posesión del mismo, conforme a las disposiciones establecidas en la ley y en la normatividad aplicable en la materia.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXVI. Controlar y evaluar los movimientos de alta o baja, así como el estado que guarda el inventario de los inmuebles que forman el patrimonio del Instituto.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXVII. Proponer al Director General el programa anual de control y seguimiento de la reserva territorial.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXVIII. Presidir el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Instituto.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXXIX. Establecer las políticas de venta del patrimonio inmobiliario y solicitar la elaboración y actualización de avalúos de los bienes para la autorización del Consejo Directivo.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XL. Coordinar, promover y programar los proyectos y acciones destinadas al aprovechamiento y adquisición de reserva territorial.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XLI. Integrar la documentación requerida para formalizar las adquisiciones y enajenaciones de inmuebles autorizadas por el Consejo Directivo.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XLII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 18.
 
-Corresponde a la Dirección de Proyectos Estratégicos y Enlace Institucional:
-
-I. Planear, organizar, coordinar y ejecutar los programas estratégicos que sean asignados al Instituto, en el ámbito de la planeación para el desarrollo regional.
-
-II. Representar al Instituto previa autorización del Director General, ante los diferentes medios de comunicación.
-
-III. Proponer al Director General, el programa editorial anual y los proyectos que contribuyan a la difusión y promoción de los servicios y acciones que realiza el Instituto.
-
-IV. Formular los reportes, informes, boletines periodísticos, documentales audiovisuales, a través de cualquier medio magnético que le sean solicitados por las unidades administrativas.
-
-V. Llevar a cabo la elaboración, diseño e información que será difundida y publicada en el boletín oficial, carteles, audiovisuales que sean emitidos por el Instituto.
-
-VI. Revisar y aprobar las publicaciones que realice el Instituto, verificando que su contenido sea objetivo, conciso, concreto y se apegue a la normatividad y directrices que establezcan el titular Ejecutivo del Estado, la Secretaría del Ramo y el Director General.
-
-VII. Coordinar la operación, control y registro de los acervos documentales, que son parte del patrimonio del Instituto y establecerlos (sic) criterios para su resguardo y archivo por parte de las unidades administrativas del Instituto, en términos de la en la (sic) normatividad aplicable.
-
-VIII. Realizar la investigación y estudios concernientes para integrar la memoria histórica del Instituto en la demostración pública estatal.
-
-IX. Proponer al Director General, los procedimientos e instrumentos que permitan integrar el sistema de vinculación con la ciudadanía, para la atención de demandas, peticiones, quejas y sugerencias sobre los servicios y acciones que lleva a cabo el Instituto.
-
-X. Las cernas que le confieran otras disposiciones legales, y las que le encomiende el Consejo Directivo o el Director General.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2006)
 
 ###### Artículo 19.
 
@@ -411,17 +453,17 @@ XIV. Presidir y constituir el Comité de Adquisiciones y Servicios del Instituto
 
 XV. Suscribir los contratos y convenios derivados de los procesos adquisitivos de bienes, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo con el Director General.
 
-XVI. Administrar, custodiar y controlar los bienes que conforman el patrimonio inmobiliario del Instituto, así como de la documentación original que avale la propiedad y posesión del mismo, conforme a las disposiciones establecidas por el Consejo Directivo y el Director General.
+XVI. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
 XVII. Realizar y actualizar los inventarios de bienes muebles e inmuebles del Instituto.
 
-XVIII. Controlar y evaluar los movimientos de alta o baja de los inventarios de la reserva territorial, así como el estado que guardan los predios que forman parte del patrimonio del Instituto.
+XVIII. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
-XIX. Proponer al Director General, el programa anual de control y seguimiento de la reserva territorial, así como la asignación del fondo revolvente que será ejercido en el año para la adquisición de predios a través del banco de suelo.
+XIX. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
-XX. Establecer y autorizar las políticas de venta y solicitar la elaboración y actualización de avalúos a los predios que comprenden la reserva territorial.
+XX. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
-XXI. Coordinar, promover y programar los proyectos y acciones destinadas al aprovechamiento y adquisición de reserva territorial, mediante la administración de un fondo revolvente destinado para su enajenación.
+XXI. (DEROGADA, G.G. 4 DE AGOSTO DE 2006)
 
 XXII. Integrar y mantener actualizados los manuales administrativos del Instituto, en coordinación con la Secretaría de Finanzas, Planeación y Administración.
 
@@ -429,15 +471,29 @@ XXIII. Formular conjuntamente con las demás unidades administrativas del Organi
 
 XXIV. Aplicar las políticas y normas relativas al reclutamiento, selección, nombramiento, contratación, inducción, capacitación, desarrollo, promoción y bajas de personal del Instituto.
 
-XXV. Las demás que le confieran otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXV. Coordinar la operación, control y registro de los acervos documentales, que son parte del patrimonio del Instituto y establecer los criterios para su resguardo y archivo por parte de las unidades administrativas del Instituto, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXVI. Realizar la investigación y estudios concernientes para integrar la memoria histórica del Instituto en la administración pública estatal.
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XXVII. Las demás que le confieran otras disposiciones legales y las que le encomiende el Consejo Directivo o el Director General.
 
 ###### Artículo 20.
 
 Corresponde a las Delegaciones Regionales en el ámbito de su respectiva circunscripción territorial:
 
-I. Operar los programas del Instituto en materia de suelo y vivienda.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
-II. Atender, en el ámbito de su competencia, las peticiones ciudadanas en materia de suelo y vivienda.
+I. Operar los programas de regulación del suelo y regularización de la tenencia de la tierra, así como de promoción y fomento a la vivienda en el Estado.
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+II. Atender, en el ámbito de su competencia, las peticiones ciudadanas relacionadas con los programas del Instituto.
 
 III. Someter por conducto de la Coordinación de Delegaciones Regionales a las unidades administrativas competentes del Instituto, las peticiones o documentación recibida.
 
@@ -445,9 +501,13 @@ IV. Dar respuesta a las peticiones ciudadanas, de acuerdo con los plazos y térm
 
 V. Promover la organización y participación social en los programas y acciones orientados a la regularización de asentamientos humanos irregulares y al desarrollo de la vivienda.
 
-VI. Realizar campañas de promoción y difusión de los servicios que presta el Instituto, conforme a los lineamientos que establezcan las unidades administrativas del Organismo.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
-VII. Colaborar con la Dirección de Administración y Finanzas en la actualización de los inventarios de reserva territorial, proporcionando la información que para el efecto sea requerida.
+VI. Realizar campañas de promoción y difusión de los servicios que presta el Instituto, conformen a los lineamientos que establezca el Director General.
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+VII. Colaborar con le Dirección de Administración y Finanzas y la Dirección de Promoción y Fomento a la Vivienda, en la actualización de los inventarios de reserva territorial, proporcionando la información que para el efecto sea requerida.
 
 VIII. Incorporar a los sistemas de información del Instituto, la información que solicite la Dirección General y las unidades administrativas del Instituto.
 
@@ -493,7 +553,9 @@ Corresponde a la Contraloría Interna:
 
 I. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto.
 
-II. Iniciar, tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que corresponden en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+II. Iniciar, substanciar y resolver los procedimientos administrativos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios e iniciar etapas de información previa.
 
 III. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno, y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial, para su instrucción y resolución.
 
@@ -501,7 +563,9 @@ IV. Realizar acciones de control y evaluación, operativos, supervisiones, revis
 
 V. Vigilar el correcto ejercicio de los presupuestos autorizados al Instituto, en congruencia con el avance programático.
 
-VI. Vigilar el cumplimiento de la legislación en materia de planeación con relación a la operación de la Unidad de Información, Planeación, Programación y Evaluación del Instituto.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+VI. Vigilar el cumplimiento de la legislación en materia de información, planeación, programación y evaluación.
 
 VII. Certificar copias de documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
 
@@ -511,11 +575,15 @@ IX. Vigilar el cumplimiento de las disposiciones en materia de racionalidad, aus
 
 X. Ordenar que se presenten las denuncias correspondientes y/o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Instituto.
 
-XI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Instituto sujetos a esta obligación.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XI. Verificar el cumplimiento oportuno de las declaraciones de situación patrimonial de los servidores públicos del Instituto sujetos a esta obligación.
 
 XII. Proponer al Director General la aplicación de normas complementarias en materia de control.
 
-XIII. Difundir entre los servidores públicos del Instituto, toda disposición en materia de control que incida en el desarrollo de sus labores.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+XIII Verificar que se difundan entre los servidores públicos del Instituto, toda disposición en materia de control que incida en el desarrollo de sus labores.
 
 XIV. Las demás que le señalan otras disposiciones legales y las que le encomiende la Secretaría de la Contraloría o el Director General.
 
@@ -548,3 +616,17 @@ LIC. JOAQUIN CONTRERAS CANTU
 DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL.
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos y procedimientos que se encuentren en trámite en la Coordinación del Programa de Incorporación de Suelo al Desarrollo y en la Dirección de Proyectos Estratégicos y Enlace Institucional, a la entrada en vigor del presente Acuerdo, serán atendidos por las unidades administrativas del Instituto, de conformidad con las atribuciones que les establece este ordenamiento jurídico.
+
+CUARTO.- La Dirección General del Instituto Mexiquense de la Vivienda Social determinará el uso y destino de los recursos humanos, materiales y financieros con los que venían operando la Dirección de Proyectos Estratégicos y Enlace Institucional y la Coordinación del Programa de Incorporación de Suelo al Desarrollo.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
