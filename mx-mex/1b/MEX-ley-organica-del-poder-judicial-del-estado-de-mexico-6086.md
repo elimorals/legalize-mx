@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2005-12-21"
+last_updated: "2006-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -721,7 +721,11 @@ II. Tramitar los asuntos de la competencia del Consejo y ejecutar sus acuerdos;
 
 III. Autorizar con el secretario general de acuerdos, las actas y resoluciones que se dicten en los asuntos de la competencia del Consejo de la Judicatura;
 
-IV. Representar al Consejo;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+IV. Representar al Consejo en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto.
+
+Además, otorgar y revocar poderes generales o especiales a favor de terceros, para la debida representación legal y jurídica del propio Consejo;
 
 V. Vigilar el funcionamiento de las salas y de los juzgados; visitar los centros preventivos y de readaptación social y constatar el estado que guardan los procesos, pudiendo comisionar para esos efectos a los demás integrantes del Consejo;
 
@@ -2366,3 +2370,13 @@ G.G. 21 DE DICIEMBRE DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre (sic) en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
+
+G.G. 4 DE AGOSTO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
