@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-07-21"
+last_updated: "2006-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -409,9 +409,11 @@ Los términos son improrrogables y empezarán a correr al día siguiente de la f
 
 No se incluirán en los términos los sábados, domingos y los días inhábiles, a no ser que se trate de los señalados para poner al indiciado a disposición del órgano jurisdiccional, tomarle su declaración preparatoria o de resolver sobre la procedencia de su formal prisión, sujeción a proceso o libertad.
 
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 59.
 
-Los términos se contarán por días naturales, excepto los que se refieren a los casos mencionados en el párrafo segundo del artículo anterior, y los que deban computarse por horas, los que se contarán de momento a momento a partir de la hora que corresponda conforme a la ley.
+Los términos se contarán por días hábiles, excepto los que se refieren a los casos mencionados en el párrafo segundo del artículo anterior, y los que deban computarse por horas, los que se contarán de momento a momento a partir de la hora que corresponda conforme a la ley.
 
 ### CAPITULO VIII. CITACIONES
 
@@ -987,9 +989,11 @@ En la resolución respectiva se deberá indicar además el lugar en el que queda
 
 La resolución respectiva será cumplida por la policía judicial, la que estará obligada a poner sin demora al aprehendido a disposición del órgano jurisdiccional que libró la orden, informándole el día y hora en que ésta se ejecutó.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 148.
 
-En el caso de que la orden de aprehensión o de comparecencia sea negada, ésta podrá librarse con nuevos datos que se aporten ante el juez de la causa dentro de los siguientes noventa días naturales, por el Ministerio Publico Adscrito.
+En el caso de que la orden de aprehensión o de comparecencia sea negada, ésta podrá librarse, previo perfeccionamiento de la acción penal, inclusive con otros medios de prueba que se aporten ante el juez de la causa dentro de los siguientes noventa días, por el Ministerio Público Adscrito.
 
 Para dictarse orden de aprehensión o de comparecencia con nuevos datos, no será obstáculo la circunstancia de que esté pendiente un recurso de apelación, quedando sin materia al librarse aquélla.
 
@@ -1277,7 +1281,9 @@ En este caso el Ministerio Público Adscrito se sujetará al plazo establecido e
 
 Dictado el auto de formal prisión o el de sujeción a proceso, el procedimiento se desarrollará en audiencias de pruebas, que serán públicas.
 
-En dichos autos el juez citará a una primera audiencia de ofrecimiento de pruebas para después de cinco y antes de diez días naturales.
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2006)</small>
+
+En dichos autos el juez citará a una primera audiencia de ofrecimiento de pruebas para después de cinco y antes de diez días hábiles.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1295,9 +1301,11 @@ Respecto de delitos perseguibles de oficio, sólo el pago de la reparación del 
 
 El juez, para facilitar el desahogo de las pruebas, decidirá si la audiencia se llevará a cabo en su privado, en la sala de audiencias, en el lugar de los hechos o en cualquier otro relacionado con la diligencia que vaya a practicarse, debiendo notificar esta decisión en el auto en que se cite a las partes, excepto que la diligencia vaya a practicarse en la oficina del juez, en cuyo caso no será preciso hacer mención alguna.
 
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 187.
 
-Hasta antes de cinco días naturales anteriores a la celebración de la audiencia, las partes podrán presentar los documentos que estimen convenientes o solicitar del juez las compulsas o testimonios de aquéllos que no puedan presentar. Deberán solicitar las citaciones de testigos y peritos, expresando los nombres y domicilios de los mismos.
+Hasta antes de cinco días anteriores a la celebración de la audiencia, las partes podrán presentar los documentos que estimen convenientes o solicitar del juez las compulsas o testimonios de aquellos que no puedan presentar. Deberán solicitar las citaciones de testigos y peritos, expresando los nombres y domicilios de los mismos.
 
 ###### Artículo 188.
 
@@ -1321,19 +1329,25 @@ VI. Adoptar todas aquellas providencias que estime necesarias para el desahogo d
 
 La audiencia se celebrará forzosamente con asistencia de las partes. Si faltare el procesado, se le revocará la libertad provisional, siempre que no justifique que su inasistencia se debió a causas ajenas a su voluntad, durante el termino de diez días, ordenándose de inmediato su reaprehensión y la entrega de la cantidad que garantice la reparación del daño a la víctima u ofendido. Si los faltistas fueren el defensor particular, el de oficio, el Ministerio Público, o el juez, se procederá, respectivamente, como ordenan los artículos 72 y 73 de este código.
 
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 190.
 
-En la primera audiencia se ofrecerán las pruebas por el Ministerio Público y el procesado o su defensor, inmediatamente se procederá al desahogo de las ofrecidas y admitidas. En el desahogo de las pruebas se observarán las reglas del capítulo V de este título. Si no fuere posible legalmente desahogar algunas de las pruebas admitidas, se citará a una nueva audiencia para dentro de los diez días naturales siguientes, celebrándose en esta forma todas las que fueren necesarias para el desahogo de aquéllas.
+En la primera audiencia se ofrecerán las pruebas por el Ministerio Público y el procesado o su defensor, inmediatamente se procederá al desahogo de las ofrecidas y admitidas. En el desahogo de las pruebas se observarán las reglas del capítulo V de este título. Si no fuere posible legalmente desahogar alguna de las pruebas admitidas, se citará a una nueva audiencia para dentro de los diez días siguientes, celebrándose en esta forma todas las que fueren necesarias para el desahogo de aquéllas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 191.
 
-Concluido el desahogo de las pruebas, el juez preguntará a las partes si tienen alguna nueva que ofrecer. Si las partes ofrecen alguna nueva prueba, o el juez estima necesario la práctica de alguna otra diligencia, citará a una nueva audiencia para dentro de los diez días naturales siguientes.
+Concluido el desahogo de las pruebas, el juez preguntará a las partes si tiene alguna nueva que ofrecer. Si las partes ofrecen alguna nueva prueba, o el juez estima necesario la práctica de alguna otra diligencia, citará a una nueva audiencia para dentro de los diez días siguientes.
 
 Si el Ministerio Publico ofrece una prueba frívola o insidiosa que tenga por objeto solo retardar el procedimiento, se le impondrá una medida de apremio, avisando a su superior jerárquico, cerrándose la instrucción.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 192.
 
-Si concluida la audiencia en que se hayan desahogado las pruebas ofrecidas por las partes o decretadas por el juez, éste estime que está agotada la averiguación, prevendrá a aquéllas a que ofrezcan en la misma audiencia pruebas que puedan desahogarse en una última, que se celebrará dentro de los diez días naturales siguientes. Si las partes no ofrecen ninguna prueba, el juez declarará cerrada la instrucción.
+Si concluida la audiencia en que se hayan desahogado las pruebas ofrecidas por las partes o decretadas por el juez, éste estime que está agotada la averiguación, prevendrá a aquéllas a que ofrezcan en la misma audiencia pruebas que puedan desahogarse en una última, que se celebrará dentro de los diez días siguientes. Si las partes no ofrecen ninguna prueba, el juez declarará cerrada la instrucción.
 
 Cuando fueren varios los procesados y alguno de ellos solicitare el cierre de instrucción, el juez podrá acordarlo, por lo que respecta a éste, siempre que lo estime procedente.
 
@@ -1815,9 +1829,13 @@ II. El Ministerio Público se desista de la acción penal;
 
 III. Aparezca que la pretensión punitiva está extinguida;
 
-IV. No se ratifique la detención, se niegue la aprehensión o la comparecencia, por no encontrarse reunidos los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Ministerio Público no promoviere eficientemente o no aportare pruebas al respecto, según sea el caso, en un término de noventa días naturales;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
 
-V. Se dicte auto de libertad por falta de elementos para procesar o de no sujeción a proceso por no satisfacerse los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, sin que el Ministerio Público promueva eficientemente o no aportare pruebas al efecto, según sea el caso, en un término de noventa días naturales;
+IV. No se ratifique la detención, se niegue la aprehensión o la comparecencia, por no encontrarse reunidos los requisitos establecidos en la Constitución Política de los Estado (sic) Unidos Mexicanos y el Ministerio Público no promoviere eficientemente o no aportare pruebas al respecto, según sea el caso, en un término de noventa días;
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2006)</small>
+
+V. Se dicte auto de libertad por falta de elementos para procesar o de no sujeción a proceso por no satisfacerse los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, sin que el Ministerio Público promueva eficientemente o no aporte pruebas al efecto, según sea el caso, en un término de noventa días;
 
 VI. Esté plenamente comprobado que a favor del inculpado exista alguna causa de inexistencia del delito;
 
@@ -2471,9 +2489,11 @@ III. Cuando quede firme el auto de libertad o de sobreseimiento pronunciado a fa
 
 Cuando resulte condenado el inculpado que se encuentre en libertad bajo caución y se presente a cumplir su condena, las cauciones para garantizar la reparación del daño y las sanciones pecuniarias se harán efectivas, la primera, a favor de la víctima o afectado por el delito y, la segunda, a favor de la procuración y administración de justicia. La otorgada para garantizar la libertad provisional se devolverá al sentenciado o a quien indique éste, o en su caso, se cancelará.
 
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 339.
 
-Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentarlo, el órgano jurisdiccional podrá otorgarle un plazo hasta de treinta días naturales, sin perjuicio de librar la orden de aprehensión si lo estima pertinente. Si concluido el plazo concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía en los términos del artículo 337 de este código.
+Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentarlo, el órgano jurisdiccional podrá otorgarle un plazo hasta de treinta días, sin perjuicio de librar la orden de aprehensión si lo estima pertinente. Si concluido el plazo concedido no se obtiene la comparecencia del inculpado, se ordenará su reprehensión y se hará efectiva la garantía en los términos del artículo 337 de este código.
 
 ###### Artículo 340.
 
@@ -3166,3 +3186,13 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE AGOSTO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
