@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-designa-a-la-unidad-de-enlace-y-se-51127"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-12-12"
-last_updated: "2002-12-12"
+last_updated: "2006-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51127&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-10"
 
 ACUERDO POR EL QUE SE DESIGNA A LA UNIDAD DE ENLACE Y SE CREA EL COMITE DE INFORMACION DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de diciembre de 2002.
 
@@ -101,7 +101,9 @@ II. Determinar sobre la clasificación de la información que los titulares de l
 
 III. Fijar las políticas y lineamientos generales para que las acciones en materia de acceso a la información y transparencia, se lleven a cabo de manera uniforme por los comités conformados en el sector coordinado de la dependencia;
 
-IV. Emitir lineamientos de carácter general para la recopilación, análisis, diagnóstico y sistematización de la información existente en los archivos de la dependencia;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2006)</small>
+
+IV. Emitir y supervisar los programas y criterios específicos para la organización y mejora de la información contenida en los archivos de la dependencia;
 
 V. Formular observaciones y recomendaciones a las unidades administrativas de la dependencia para la realización de las acciones que en el ámbito de su competencia sean necesarias, a efecto de cumplir con los objetivos que se señalan en el punto anterior;
 
@@ -164,3 +166,11 @@ SEGUNDO. El Comité de Información deberá celebrar su sesión de instalación 
 CUARTO. Notifíquese a la Secretaría de Contraloría y Desarrollo Administrativo, la designación del titular de la Unidad de Enlace y de los miembros integrantes del Comité de Información de la Secretaría de Medio Ambiente y Recursos Naturales, conforme a lo dispuesto en el artículo tercero transitorio de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 Dado en la Ciudad de México, Distrito Federal, a los diez días del mes de diciembre de dos mil dos.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE AGOSTO DE 2006.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Acuerdo que establece la integración, instalación y funcionamiento del Comité Técnico Interno de Administración de Documentos en la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002.
