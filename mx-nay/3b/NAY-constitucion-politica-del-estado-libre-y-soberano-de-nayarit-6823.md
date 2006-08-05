@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2006-02-15"
+last_updated: "2006-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -435,7 +435,7 @@ El Congreso resolverá sobre las observaciones del Ejecutivo, dentro de los cinc
 
 C. Si al inicio del año no se encontraren aprobados la Ley de Ingresos y el Presupuesto de Egresos, o únicamente este último, deberá observarse lo siguiente:
 
-I.- En el caso de la Ley de Ingresos, continuará vigente aquella aprobada para el año anterior, en tanto se apruebe la ley para el año correspondiente, y los ingresos que excedan los montos autorizados en esta ley sólo podrán destinarse a la creación de reservas para el estado;
+I. En el caso de la Ley de Ingresos, continuará vigente aquella aprobada para el año anterior, en tanto se apruebe la ley para el año correspondiente, y los ingresos que excedan los montos autorizados en esta ley sólo podrán destinarse a la creación de reservas para el estado;
 
 II. En el caso del Presupuesto de Egresos, continuará vigente aquel aprobado para el ejercicio fiscal anterior, únicamente respecto de los gastos obligatorios, en tanto se apruebe el Presupuesto para el año correspondiente. En todo caso, la ley determinará los criterios que permitan definir los gastos de carácter obligatorio los cuales deberán comprender al menos el gasto corriente aprobado para el año anterior, hasta por el porcentaje que determine la ley así como las remuneraciones de los servidores públicos.
 
@@ -471,15 +471,19 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2006)</small>
 
 ###### Art. 42.
 
-El Congreso celebrará sesión solemne el dieciocho de Agosto de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual en el que expondrá suscintamente el estado que guardan todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
+El Congreso celebrará Sesión Solemne el 17 de diciembre de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual en el que expondrá sucintamente el estado que guardan todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
+En el último año de ejercicio constitucional del gobernador, el informe deberá ser presentado a la apertura del primer periodo ordinario de sesiones.
 
-Cuando en proximidad a esa fecha se celebren elecciones federales o se renueven los poderes de la unión, la sesión de apertura del primer período ordinario y el informe que rinda el gobernador, tendrán excepcionalmente lugar el primer domingo del mes de agosto del año respectivo. La Legislatura reiniciará sus actividades ocho días después del término a que alude el Artículo 36 de esta Constitución.
+El día anterior a la rendición del informe, el Gobernador comparecerá ante las comisiones legislativas, con las que entablará un diálogo fundado en el respeto a la pluralidad y libertad de expresión, en los términos que disponga la ley.
+
+El día anterior a la rendición del informe, el Gobernador comparecerá ante las comisiones legislativas, con las que entablará un diálogo fundado en el respeto a la pluralidad y libertad de expresión, en los términos que disponga la ley.
+
+En los días previos al informe, los titulares de la administración pública centralizada y descentralizada, comparecerán ante las comisiones legislativas, con el objeto de informar sobre sus respectivos ramos. Estas deberán remitir al titular del Poder Ejecutivo los posicionamientos y recomendaciones del caso, en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -1993,7 +1997,7 @@ P.O. 14 DE MARZO DE 1934.
 
 Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación..
+SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
 
 P.O. 11 DE SEPTIEMBRE DE 1935.
 
@@ -2594,3 +2598,13 @@ P.O. 15 DE FEBRERO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Remítase la presente Minuta de Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales del Estado de Nayarit, para los efectos establecidos en el artículo 131 de la Constitución Política del Estado de Nayarit.
+
+P.O. 5 DE AGOSTO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a los Ayuntamientos de la entidad, para los efectos previsto por el artículo 131 de la Constitución Política del Estado de Nayarit.
