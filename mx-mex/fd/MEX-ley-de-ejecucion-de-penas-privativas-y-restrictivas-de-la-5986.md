@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2005-12-21"
+last_updated: "2006-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -649,7 +649,17 @@ A los internos, desde su ingreso, se les facilitará la forma para entablar comu
 
 Los coloquios se desarrollarán en los locales adecuados denominados interlocutorios, bajo el control visivo y no auditivo del personal de custodia.
 
-Podrá ser autorizada en las relaciones con sus familiares y en casos particulares con terceros, comunicación telefónica, con las modalidades y cautela previstas por el reglamento.
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2006)</small>
+
+Quedan prohibidas las comunicaciones de los internos hacia el exterior por vía del uso de los sistemas de telecomunicación, por los que se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos.
+
+> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2006)</small>
+
+La Dirección General de Readaptación Social proveerá lo necesario para instalar los equipos técnicos adecuados para interceptar y bloquear las señales de telecomunicaciones a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2006)</small>
+
+Podrá ser autorizada en las relaciones con sus familiares y en casos particulares con terceros, comunicación telefónica alámbrica, con las modalidades y cautela prevista por el reglamento, pero siempre bajo la estricta responsabilidad del Director del Centro, quien sin excepción deberá grabarlas.
 
 ###### Artículo 84.
 
@@ -940,3 +950,11 @@ G.G. 21 DE DICIEMBRE DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
+
+G.G. 7 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
