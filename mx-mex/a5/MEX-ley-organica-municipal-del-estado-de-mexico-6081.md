@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2006-01-05"
+last_updated: "2006-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1661,9 +1661,15 @@ Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo 
 
 Los ayuntamientos están facultados para constituir con cargo a la hacienda pública municipal, organismos públicos descentralizados, con la aprobación de la Legislatura del Estado, así como aportar recursos de su propiedad en la integración del capital social de empresas paramunicipales y fideicomisos.
 
-> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2006)</small>
 
-Los ayuntamientos podrán crear organismos descentralizados para la atención del desarrollo de la mujer.
+Los ayuntamientos podrán crear organismos públicos descentralizados para:
+
+a) La atención del desarrollo de la mujer;
+
+b) De (sic) la cultura física y deporte;
+
+c) Otros que consideren convenientes.
 
 ###### Artículo 124.
 
@@ -2388,3 +2394,9 @@ G.G. 5 DE ENERO DE 2006.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
+
+G.G. 7 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
