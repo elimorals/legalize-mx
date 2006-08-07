@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2006-06-26"
+last_updated: "2006-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2006.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -161,7 +161,7 @@ VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, s
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-IX.- Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
+IX. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -371,13 +371,25 @@ El Adulterio consiste en tener relaciones sexuales el hombre y la mujer con pers
 
 Al responsable de Adulterio se le aplicarán de 1 a 2 años de prisión y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 Artículo 36 A.- La violencia familiar consiste en usar la fuerza física o moral en contra de un miembro de la familia por otro integrante de la misma y que ello le cause afectación en su integridad física o psíquica.
 
-Solo se consideran autores de violencia familiar el cónyuge, la concubina o el concubinario, el pariente consanguíneo en línea recta ascendiente o descendiente (sic) sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado, cuando la acción básica se realice al interior de la casa donde radique la víctima.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
-Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión, de 10 a 100 días de multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como a la privación de los derechos de la familia que pudiera tener con la familia.
+Se consideran autores de violencia familiar a los cónyuges, la concubina o el concubino, el pariente consanguíneo en línea recta ascendiente o descendiente sin limitación sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado, cuando la acción básica se realice en el domicilio de la víctima.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+
+Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión de 10 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
+
+Artículo 36 B.- Se equiparan a la violencia familiar, cuando la violencia se ejerza en lugar distinto del domicilio de la víctima, siempre que obre constancia previa de actos de violencia perpetrados en el domicilio de la víctima.
+
+Al responsable de violencia familiar equiparada se le aplicarán de 1 a 4 años de prisión, de 10 a 100 días multa; así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta.
+
+Cuando la violencia se ejerza sobre personas que por razón de su edad, discapacidad, embarazo, o cualquier otra circunstancia no esté en condiciones de resistir la conducta violenta, la pena se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
 
 ### CAPITULO CUARTO. Tipos Penales Protectores de la Libertad y Seguridad de las Personas
 
@@ -5050,3 +5062,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los Artículos 24 y 26 de la Legislación Penal para el Estado de Aguascalientes vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia; asimismo, seguirán aplicándose a las personas indiciadas, procesadas o sentenciadas por los delitos previstos y sancionados por dichos Artículos.
+
+P.O. 7 DE AGOSTO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
