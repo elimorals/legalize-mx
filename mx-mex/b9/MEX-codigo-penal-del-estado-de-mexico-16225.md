@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-07-21"
+last_updated: "2006-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2705,6 +2705,10 @@ Este delito se perseguirá por querella.
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteniendo un lucro o beneficio para sí o para otro, se le impondrán de uno a siete años de prisión y de cuarenta a doscientos días multa.
 
+> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2006)</small>
+
+Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otros sistemas electromagnéticos se le impondrán de tres a ocho años de prisión y de cuarenta a doscientos días multa.
+
 Si en la comisión de este delito participa algún miembro de una corporación policíaca o servidor público será considerado como delito grave.
 
 ###### Artículo 267.
@@ -3563,9 +3567,7 @@ CUARTO.- La aplicación del artículo 275-A del Código de Procedimientos Penale
 
 > <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
-QUINTO .- Para dar continuidad a esta reforma, a partir del mes de octubre de dos mil siete y hasta antes del treinta y uno de octubre de dos mil ocho, entrarán en operación de manera gradual, conforme a la disponibilidad de recursos económicos y necesidad del servicio, un
-
-juzgado en cada distrito judicial para el trámite de juicios predominantemente orales, que les sean turnados por las oficialías de partes común, para el conocimiento de delitos no graves cuya competencia corresponde a los Juzgados Penales de Primera Instancia; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre del dos mil nueve, en la inteligencia de que hasta antes del mes de noviembre del dos mil diez, deberán quedar instalados los juzgados que sean necesarios para la atención de los juicios predominantemente orales relacionadas (sic) con delitos no graves de la competencia de los Juzgados Penales de Primera Instancia. Entre tanto, los asuntos que se turnen a los diversos juzgados penales de primera instancia, se tramitarán conforme al procedimiento penal ordinario.
+QUINTO.- Para dar continuidad a esta reforma, a partir del mes de octubre de dos mil siete y hasta antes del treinta y uno de octubre de dos mil ocho, entrarán en operación de manera gradual, conforme a la disponibilidad de recursos económicos y necesidad del servicio, un juzgado en cada distrito judicial para el trámite de juicios predominantemente orales, que les sean turnados por las oficialías de partes común, para el conocimiento de delitos no graves cuya competencia corresponde a los Juzgados Penales de Primera Instancia; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre del dos mil nueve, en la inteligencia de que hasta antes del mes de noviembre del dos mil diez, deberán quedar instalados los juzgados que sean necesarios para la atención de los juicios predominantemente orales relacionadas (sic) con delitos no graves de la competencia de los Juzgados Penales de Primera Instancia. Entre tanto, los asuntos que se turnen a los diversos juzgados penales de primera instancia, se tramitarán conforme al procedimiento penal ordinario.
 
 > <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -3586,3 +3588,9 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 7 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
