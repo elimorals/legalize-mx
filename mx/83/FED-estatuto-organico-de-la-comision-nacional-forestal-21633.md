@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-21633"
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-07-11"
-last_updated: "2001-07-11"
+last_updated: "2006-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,806 +19,908 @@ issue_date: "2001-06-07"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
+LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
-Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de julio de 2001.
+Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 29 de noviembre de 2002.
 
-Al margen el Símbolo de la Identidad Gráfica de la Secretaría de Medio Ambiente y Recursos Naturales.- Comisión Nacional Forestal.
+LIC. MANUEL ANDRADE DÍAZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED.
 
-La Junta de Gobierno de la Comisión Nacional Forestal, en su segunda sesión del 7 de junio de 2001, con fundamento en los artículos 15, 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, 9o., 16 y séptimo transitorio del Decreto por el que se crea la Comisión Nacional Forestal publicado en el Diario Oficial de la Federación, y
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
-CONSIDERANDO
+LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 36 FRACCIONES I Y V DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y
 
-Que con fecha cuatro de abril del presente año, se publicó en el Diario Oficial de la Federación el Decreto expedido por ciudadano Presidente de los Estados Unidos Mexicanos, Vicente Fox Quesada, por el que se crea la Comisión Nacional Forestal.
+.
 
-Que la Comisión Nacional Forestal se crea como un organismo público descentralizado con personalidad jurídica y patrimonio propios, cuya coordinación sectorial corresponderá a la Secretaría de Medio Ambiente y Recursos Naturales, quien dictará las políticas normativas, coordinará la programación y presupuestación, conocerá la operación y evaluará los resultados, conservando la Comisión la autonomía de gestión para el cabal cumplimento de su objeto y de los objetivos y metas señalados en sus programas.
+DECRETO 195
 
-Que tiene como objeto desarrollar, favorecer e impulsar las actividades productivas, de conservación y de restauración en materia forestal, así como participar en la formulación de los planes y programas y en la aplicación de la política de desarrollo forestal sustentable.
+###### ARTÍCULO ÚNICO.
 
-Que para cumplir con su objeto la Comisión tiene como misión impulsar, con la participación de la sociedad, los cambios necesarios para la creación de una nueva política de desarrollo forestal sustentable del país, con el propósito de contener el deterioro forestal y entrar a un proceso de mejora continua, de productividad y de competitividad de la cadena forestal, impulsando así un crecimiento con calidad en las zonas urbanas y rurales.
+Se aprueba y se expide la Ley Orgánica del Tribunal Electoral de Tabasco, para quedar como sigue:
 
-Que a la Comisión Nacional Forestal se le otorgaron las funciones siguientes:
+LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE TABASCO
 
-a) Participar en la planeación del desarrollo forestal sustentable;
+## TÍTULO PRIMERO. DE LA INTEGRACIÓN DEL TRIBUNAL
 
-b) Fomentar y favorecer la cadena productiva forestal y de sus recursos asociados;
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-c) Impulsar actividades forestales productivas;
+###### Artículo 1.
 
-d) Promover el desarrollo forestal sustentable y de los recursos asociados para que incidan en el mejoramiento de la calidad de vida de los propietarios o poseedores de terrenos forestales o de aptitud preferentemente forestal y de sus comunidades;
+La presente Ley regula la organización, competencia, atribuciones y funcionamiento del Tribunal Electoral de Tabasco.
 
-e) Apoyar la ejecución de programas de bienes y servicios ambientales que generen los recursos forestales;
+Sus disposiciones son de orden público y de observancia general.
 
-f) Proponer y participar con las autoridades competentes, en la definición de estímulos e incentivos económicos destinados al fomento de la producción forestal;
+###### Artículo 2.
 
-g) Promover la formulación de normas oficiales mexicanas y la aplicación de tecnologías para la producción, productividad, competitividad y calidad en la cadena productiva forestal y en la comercialización de los productos forestales;
+La aplicación de las normas de esta Ley, corresponden al Tribunal Electoral de Tabasco, mismo que tendrá la obligación de velar por su estricta observancia.
 
-h) Fomentar la exportación de productos forestales procesados y semiprocesados;
+###### Artículo 3.
 
-i) Recabar, sistematizar y proporcionar los informes y datos que se requieran para el Sistema Nacional de Información y de Recursos Naturales, en materia de producción y desarrollo forestal sustentable;
+Para los efectos de esta Ley se entenderá por:
 
-j) Participar con las autoridades competentes en la promoción y definición de acciones y programas de investigación, educación y cultura forestales;
+Agrupaciones: Las agrupaciones políticas constituidas y registradas conforme a las disposiciones legales aplicables.
 
-k) Promover y participar en acciones de capacitación y asistencia técnica que fortalezcan el crecimiento y desarrollo del sector forestal;
+Código: El Código Electoral para el Estado de Tabasco.
 
-l) Promover donativos, aportaciones, asignaciones y demás recursos, en numerario o en especie que sean necesarios para el cumplimiento de su objeto, sujeto a los límites y condiciones establecidos en la legislación aplicable;
+Consejo Estatal: El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-m) Ejecutar y promover programas productivos, de restauración, de conservación y de aprovechamiento sustentable de los suelos forestales y de sus ecosistemas;
+Consejo Distrital: El Consejo Electoral Distrital del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-n) Proponer la transferencia de funciones y recursos hacia los gobiernos de los estados y municipios en materia forestal;
+Consejo Municipal: El Consejo Electoral Municipal del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-o) Fomentar la organización de los productores forestales y asesorarlos cuando lo soliciten, para que se constituyan bajo las formas de asociación previstas en la legislación aplicable;
+Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos.
 
-p) Promover sistemas de producción forestal de subsistencia, mediante el apoyo de proyectos productivos viables que contribuyan a la generación de empleo e ingresos para las comunidades que habitan las regiones forestales o de aptitud preferentemente forestal;
+Constitución Local: La Constitución Política del Estado Libre y Soberano de Tabasco.
 
-q) Efectuar campañas de difusión sobre el desarrollo forestal sustentable, y
+Instituto: El Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-r) Las demás que le otorguen otras disposiciones jurídicas.
+Juicio: El juicio para la protección de los derechos político-electorales de los ciudadanos.
 
-Que los recursos forestales y su interrelación con el agua se consideran asuntos de primera importancia en la seguridad nacional.
+Ley de Medios de Impugnación: Ley General del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Tabasco.
 
-Que para cumplir con lo anteriormente mencionado, el trabajo de la Comisión debe ser incluyente, con una clara vocación federalista y que tenga como uno de sus propósitos, el lograr que la sociedad en general y las distintas organizaciones en lo particular, interesadas en la materia forestal, participen en los procesos de evaluación de metas y resultados de la Comisión.
+Ley Orgánica: Ley Orgánica del Tribunal Electoral de Tabasco.
 
-Que como eje de su trabajo en el aspecto social, la Comisión dentro del sector forestal, coadyuve en la generación de empleos permanentes y bien remunerados y con ello en el mejoramiento de la calidad de vida de la población que viven en zonas forestales, a través de la capacitación y de generar proyectos productivos a corto, mediano y largo plazos.
+Partidos Políticos: Los nacionales y locales, constituidos y registrados conforme a las disposiciones legales aplicables.
 
-Que en el aspecto ambiental, la Comisión tiene como metas: crear e incrementar activos ambientales para el siglo XXI; hacer compatible el desarrollo y conservación de los recursos forestales con sus recursos asociados; coordinar las estrategias de agua-bosque-suelo; elevar la cultura y educación forestal del país para consolidar el desarrollo sustentable; impulsar la investigación forestal básica y de acompañamiento; y promover la creación del mercado de servicios ambientales.
+Tribunal: El Tribunal Electoral de Tabasco.
 
-Que en el aspecto económico, la Comisión tiene como ejes rectores: incrementar la aportación del sector al producto interno bruto; aprovechar la posición estratégica del país; incrementar la productividad y competitividad de las cadenas productivas y una mejor integración de productos maderables con los no maderables; asimilar y transferir las nuevas tecnologías para mejorar la calidad y eficiencia de los procesos productivos; y promover la generación de proyectos productivos forestales orientados al combate a la pobreza.
+###### Artículo 4.
 
-Que el presente Estatuto Orgánico tiene por objeto establecer las bases de organización, así como las facultades y atribuciones que correspondan a las distintas unidades administrativas que integran la Comisión y la manera de suplir, en su caso, las ausencias del Director General.
+El Tribunal, es la máxima autoridad jurisdiccional en materia electoral en la entidad; es un órgano permanente, autónomo, dotado de personalidad jurídica y patrimonio propio, sujetará sus actos y resoluciones a lo establecido en la Constitución Federal, la Constitución local, la Ley de Medios de Impugnación, el Código, las particulares de esta Ley, y demás leyes aplicables.
 
-Que se requiere un área responsable de coordinar los asuntos jurídicos que tenga como propósito dar seguridad jurídica a todas las actividades de la Comisión y promover un nuevo marco normativo y procedimental en materia forestal.
+###### Artículo 5.
 
-Que se ha considerado importante contar con una Unidad de Cooperación y Financiamiento que tenga como misión el promover, gestionar y asegurar la captación de recursos de instituciones públicas, privadas, sociales, personas físicas y organismos nacionales e internacionales, así como establecer y dar seguimiento a los convenios de cooperación nacional e internacional necesarios para desarrollar e impulsar las actividades productivas, de conservación y restauración forestal.
+El Tribunal, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales se sujeten al principio de legalidad.
 
-Que uno de los beneficiarios más importantes de la gestión de la Comisión es la sociedad en general, de ahí que resulte trascendental contar con una Unidad de Comunicación Social que dirija, diseñe, desarrolle y evalúe las estrategias de comunicación interna y externa, para dar a conocer los proyectos, programas y acciones a la sociedad y a los sectores involucrados en la materia forestal para contribuir a la formación de una cultura de respeto ambiental.
+###### Artículo 6.
 
-Que uno de los objetivos fundamentales de la Comisión es el de desarrollar, favorecer e impulsar las actividades productivas, por lo que resulta de vital importancia contar con una Coordinación General de Producción y Productividad, encaminada precisamente al desarrollo forestal y a promover las plantaciones forestales comerciales.
+Para el desempeño de sus funciones, el Tribunal contará con el apoyo y colaboración de las autoridades estatales y municipales.
 
-Que la protección, conservación y restauración de los recursos forestales y sus ecosistemas es tarea prioritaria de la Comisión, por ello es necesario contar con una Coordinación General de Conservación y Restauración para: prevenir y combatir los incendios; diagnosticar, prevenir, combatir y controlar plagas y enfermedades forestales; fomentar y promover la producción de plantas de calidad para la reforestación; e instrumentar y ejecutar programas productivos para la restauración, conservación, protección y aprovechamiento sustentable de los suelos y la restauración de sus ecosistemas.
+###### Artículo 7.
 
-Que las funciones sustantivas de la Comisión no podrían darse sin una Unidad responsable que administre los recursos humanos, materiales y financieros, y proporcione los servicios generales que requiera la Comisión.
+El Tribunal funcionará siempre en Pleno; sus sesiones de resolución jurisdiccional serán públicas, salvo lo previsto en la fracción II del artículo 18, de esta Ley.
 
-Que se necesita un área especializada en planeación e información que promueva en las cadenas productivas del sector forestal una cultura de planeación integral y sustentable, apoyada en el uso de la estadística y de los sistemas de información.
+### CAPÍTULO SEGUNDO. DE SU INTEGRACIÓN
 
-Que una de las funciones encomendadas a la Comisión es la de promover proyectos, programas y acciones de educación, capacitación y cultura forestales y la investigación aplicada. Para ello el Director General se auxiliará de una Coordinación General de Educación, Capacitación e Investigación.
+###### Artículo 8.
 
-Que el decreto de creación faculta a la Comisión a contar con coordinaciones regionales que sean los brazos ejecutores a todo lo largo y ancho del territorio nacional por lo que en el presente Estatuto Orgánico se incluyen a las Gerencias Regionales que se establecerán en el número, lugar y con la circunscripción que determine el Titular de la Comisión. Para ello se considera necesario integrar la Coordinación General de Gerencias Regionales
+El Tribunal, se integrará con tres magistrados numerarios, designados de acuerdo al procedimiento establecido por el artículo 63 bis de la Constitución local. Durarán en su cargo 7 años, mismo que puede ser prorrogado por el Congreso del Estado, hasta por un período similar.
 
-Que en este contexto la Comisión participa en la formulación de los planes y programas y en la aplicación de la política de desarrollo forestal sustentable, por lo que ha tenido a bien expedir el siguiente:
+De la misma forma, se designarán dos magistrados suplentes, quienes suplirán las ausencias temporales o definitivas de los propietarios.
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
+Los Magistrados Electorales designados rendirán protesta ante el Congreso del Estado, en los términos que establece el artículo 58 de la Constitución local. El Secretario General de Acuerdos, los Jueces Instructores, los Actuarios y demás personal otorgarán la protesta ante el Pleno del Tribunal.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+Los Magistrados Electorales, una vez concluido el período de su nombramiento, deberán reintegrarse a las funciones que venían realizando en el Poder Judicial del Estado, salvo que el Congreso del Estado prorrogue su nombramiento en cuyo caso la reintegración se hará al concluir el período respectivo.
 
-###### ARTICULO 1.
+###### Artículo 9.
 
-La Comisión Nacional Forestal, que para los efectos del presente Estatuto se le denominará como la Comisión, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, coordinado sectorialmente por la Secretaría de Medio Ambiente y Recursos Naturales, que tiene a su cargo el ejercicio de las funciones que le otorga su decreto de creación, publicado en el Diario Oficial de la Federación de fecha 4 de abril de 2001, este Estatuto Orgánico y demás disposiciones aplicables.
+Para ser Magistrados Electorales se deberán satisfacer los requisitos siguientes:
 
-###### ARTICULO 2.
+I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, las facultades y funciones que correspondan a las distintas unidades administrativas que integran la Comisión, así como las suplencias de los servidores públicos.
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
 
-###### ARTICULO 3.
+III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello, y haber ejercido la profesión cuando menos cinco años;
 
-La administración de la Comisión estará a cargo de una Junta de Gobierno y un Director General.
+IV. No ser ministro de algún culto religioso;
 
-###### ARTICULO 4.
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite sanción corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-Para el estudio, planeación y ejercicio de sus atribuciones, la Comisión contará con los servidores públicos y unidades administrativas siguientes:
+VI. Haber residido en la entidad durante los últimos dos años anteriores al día de la designación;
 
-I. Director General;
+VII. No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Procurador General de Justicia, Magistrado del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje, durante el año previo al día de su nombramiento;
 
-II. Unidad de Asuntos Jurídicos;
+VIII. No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional, Estatal, Municipal o equivalente de un partido político o de una asociación política, en los últimos tres años anteriores a la designación;
 
-III. Unidad de Cooperación y Financiamiento;
+IX. No tener ni haber tenido cargo alguno de elección, ni haber sido postulado como candidato en los últimos tres años anteriores a la designación; y
 
-IV. Unidad de Comunicación Social;
+X. Contar con credencial para votar con fotografía.
 
-V. Coordinación General de Producción y Productividad;
+La retribución que reciban los Magistrados, será la prevista en el Presupuesto General de Egresos del Estado y en ningún caso podrá ser superior a la que perciban los del Tribunal Superior de Justicia del Estado.
 
-VI. Coordinación General de Conservación y Restauración;
+###### Artículo 10.
 
-VII. Coordinación General de Administración;
+El Tribunal residirá en la Ciudad de Villahermosa, Tabasco, y tendrá jurisdicción en todo el territorio del Estado.
 
-VIII. Coordinación General de Planeación e Información;
+###### Artículo 11.
 
-IX. Coordinación General de Educación, Capacitación e Investigación;
+El patrimonio del Tribunal se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto General de Egresos del Estado.
 
-X. Coordinación General de Gerencias Regionales;
+El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de la Constitución del Estado, remitiendo su cuenta pública al Órgano Superior de Fiscalización del Congreso del Estado, para el examen y calificación correspondiente.
 
-XI. Gerencias Regionales.
+### CAPÍTULO TERCERO. DEL PLENO DEL TRIBUNAL
 
-El Director General podrá contar con una Dirección General Adjunta y una oficina de representación en la Ciudad de México.
+###### Artículo 12.
 
-Los responsables de las unidades administrativas señaladas acordarán con el Director General los asuntos de su competencia. La Comisión contará además con una Contraloría Interna, órgano de control interno, que se regirá conforme a lo señalado en el artículo 15 del decreto de creación de la Comisión, así como lo estipulado en los artículos 28 y 29 de este Estatuto Orgánico.
+Para que el Pleno pueda sesionar se requiere la presencia de todos sus integrantes, sus resoluciones serán por mayoría de votos.
 
-###### ARTICULO 5.
+###### Artículo 13.
 
-Para el ejercicio de sus atribuciones, las Coordinaciones Generales contarán con las siguientes Gerencias, quienes ejercerán las atribuciones a las que se encuentren adscritas así como las que les sean delegadas en función del decreto de creación de la Comisión y demás disposiciones legales aplicables:
+Son atribuciones administrativas del Pleno del Tribunal las siguientes:
 
-I. Coordinación General de Producción y Productividad:
+I. Elegir, de entre los Magistrados Electorales que integran al Pleno, en la primera sesión de cada año, al Presidente del Tribunal;
 
-a) Gerencia de Desarrollo Forestal;
+II. Conocer y aceptar, en su caso, la renuncia al cargo de Presidente del Tribunal;
 
-b) Gerencia de Desarrollo de Plantaciones Forestales Comerciales;
+III. Designar, a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos;
 
-c) Gerencia de Silvicultura y Manejo, y
+IV. Aprobar y, en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente el Presidente del Tribunal ordenando su publicación en el Periódico Oficial del Estado;
 
-d) Gerencia de Investigación de las Cadenas Productivas.
+V. Nombrar, a propuesta del Presidente del Pleno, a los Jueces Instructores, Secretarios, Actuarios y al titular del Órgano de Control y Evaluación del Tribunal;
 
-II. Coordinación General de Conservación y Restauración:
+VI. Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese de los servidores públicos a que hace mención la fracción inmediata anterior, del Secretario General de Acuerdos, así como del personal adscrito o que dependa directamente de la Presidencia del Tribunal;
 
-a) Gerencia de Suelos;
+VII. Determinar las fechas y los exámenes de selección que deberán aprobar los que aspiren a los cargos de Secretario General de Acuerdos, Jueces Instructores, Secretarios y Actuarios del Tribunal;
 
-b) Gerencia del Programa Nacional de Reforestación;
+VIII. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral;
 
-c) Gerencia de Sanidad Forestal, y
+IX. Celebrar convenios de colaboración con otros Tribunales Electorales, instituciones y autoridades para su mejor desempeño; y
 
-d) Gerencia de Incendios.
+X. Las demás que le confieran las leyes.
 
-III. Coordinación General de Administración:
+###### Artículo 14.
 
-a) Gerencia de Recursos Financieros y Materiales, y
+El Pleno, en materia jurisdiccional, es competente para:
 
-b) Gerencia de Recursos Humanos.
+I. Sustanciar y resolver en forma definitiva, los recursos a que se refiere la Ley de Medios de Impugnación, sometidos a su jurisdicción y competencia, así como proveer lo necesario para la ejecución de las resoluciones que pronuncie;
 
-IV. Coordinación General de Planeación e Información:
+II. El juicio para la protección de los derechos político-electorales de los ciudadanos;
 
-a) Gerencia de Planeación y Evaluación;
+III. Resolver las impugnaciones que se presenten respecto de la celebración y resultados de los procesos de plebiscito, referéndum y de iniciativa popular, en términos de la ley de la materia;
 
-b) Gerencia de Informática, y
+IV. Desechar, sobreseer, tener por no interpuestos, o por no presentados, cuando proceda, los recursos o los escritos de terceros interesados o de coadyuvantes;
 
-c) Gerencia de Geomática.
+V. Calificar y resolver sobre las excusas que presenten los Magistrados;
 
-V. Coordinación General de Educación, Capacitación e Investigación:
+VI. Encomendar a los Jueces Instructores, Secretarios y Actuarios, la realización de diligencias que deban practicarse fuera del Tribunal;
 
-a) Gerencia de Investigación y Desarrollo Tecnológico, y
+VII. Determinar la fecha y hora de sus sesiones;
 
-b) Gerencia de Educación y Capacitación.
+VIII. Establecer los criterios definidos conforme a lo establecido en la Ley de Medios (sic) Impugnación;
 
-VI. Coordinación General de Gerencias Regionales:
+IX. Determinar y, en su caso, aplicar las sanciones previstas en el Código y demás disposiciones aplicables;
 
-a) Gerencia de Control Operativo;
+X. Aplicar las medidas de apremio y correcciones disciplinarias para hacer cumplir sus determinaciones, en términos de esta Ley y demás disposiciones aplicables;
 
-b) Gerencia de Coordinación y Concertación, y
+XI. Acordar, a propuesta del Presidente, la continuación de la sesión en privado en los casos a que se refiere el artículo 18, fracción II, de esta Ley;
 
-c) Gerencia Técnica.
+XII. Resolver los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y sus servidores públicos; así como los que surjan entre el Tribunal Electoral y sus servidores públicos, en términos de las disposiciones aplicables;
 
-Las Unidades de Asuntos Jurídicos, de Cooperación y Financiamiento y de Comunicación Social, podrán contar con las direcciones y jefaturas de departamento que les sean autorizadas y se señalen en el manual de organización y funcionamiento de la Comisión.
+XIII. Imponer sanciones derivadas de la comisión de infracciones a las leyes electorales, en términos de esta Ley y el Código; y
 
-Además, la Comisión contará con las unidades subalternas que se requieran y le sean autorizadas y se señalen en el manual de organización y funcionamiento de la Comisión conforme al dictamen correspondiente y su presupuesto aprobado.
+XIV. Las demás que le señale la Constitución Federal, la particular del Estado, esta Ley y las demás disposiciones aplicables.
 
-###### ARTICULO 6.
+### CAPÍTULO CUARTO. DE LOS MAGISTRADOS
 
-Las relaciones de trabajo entre la Comisión y sus trabajadores se regirán por el apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.
+###### Artículo 15.
 
-Los trabajadores de la Comisión estarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Son atribuciones de los Magistrados las siguientes:
 
-###### ARTICULO 7.
+I. Concurrir, participar y votar, cuando corresponda, en las sesiones y reuniones internas a las que sean convocados por el Presidente del Tribunal;
 
-La Comisión tendrá como órgano de gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los titulares de las secretarías de la Defensa Nacional; de Hacienda y Crédito Público; de Desarrollo Social; de Medio Ambiente y Recursos Naturales; de Economía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de la Reforma Agraria, y de Turismo, así como de la Comisión Nacional del Agua.
+II. Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
 
-Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma.
+III. Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto;
 
-La Junta de Gobierno de la Comisión será presidida por el Secretario de Medio Ambiente y Recursos Naturales.
+IV. Exponer en sesión, personalmente o por conducto de un Secretario, sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
 
-### CAPITULO SEGUNDO. DE LA ESTRUCTURA ORGANICA
+V. Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
 
-###### ARTICULO 8.
+VI. Formular voto particular razonado en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue al expediente;
 
-La Junta de Gobierno de la Comisión, tendrá las atribuciones indelegables que le otorga la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas aplicables.
+VII. Solicitar al Pleno que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
 
-###### ARTICULO 9.
+VIII. Realizar los engroses de los fallos aprobados por el Pleno, cuando sean designados para tales efectos;
 
-La Junta de Gobierno de la Comisión se reunirá una vez cada tres meses, cuando menos, de acuerdo con un calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiendo además celebrar las sesiones extraordinarias que se requieran. Para su legal integración se requerirá de la asistencia de la mitad más uno de sus integrantes.
+IX. Proponer el texto y el rubro de los criterios definidos, cuando se den los supuestos para ello;
 
-###### ARTICULO 10.
+X. Realizar tareas de docencia e investigación en el Tribunal; y
 
-El funcionamiento de la Junta de Gobierno se sujetará a lo dispuesto en los artículos 18 y 19 del Reglamento de la Ley Federal de las Entidades Paraestatales.
+XI. Las demás que señale esta Ley o el Reglamento Interior del Tribunal.
 
-###### ARTICULO 11.
+###### Artículo 16.
 
-Al frente de la Comisión habrá un titular, a quien corresponde la representación, trámite y resolución de los asuntos competencia de la misma, quien además de las facultades y obligaciones que se señalan en el decreto de creación de la Comisión, en la Ley Federal de las Entidades Paraestatales, en el Reglamento de la Ley Federal de las Entidades Paraestatales y demás disposiciones aplicables, contará con las siguientes:
+Durante el tiempo que ejerzan las funciones de su cargo, los Magistrados no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados, Municipios o de los particulares, salvo los cargos docentes, literarios, de beneficencia y honoríficos en asociaciones científicas, cuando sean compatibles con el ejercicio de la magistratura. La infracción a esta disposición, será castigada con la pérdida del cargo.
 
-I. Expedir y mantener actualizado el manual de organización de la Comisión e informar de ello a la Junta de Gobierno;
+## TÍTULO SEGUNDO. DE SU FUNCIONAMIENTO
 
-II. Expedir los acuerdos, lineamientos, circulares y demás disposiciones de carácter administrativo;
+### CAPÍTULO PRIMERO. DEL PRESIDENTE DEL TRIBUNAL
 
-III. Suscribir las Condiciones Generales de Trabajo de la Comisión, de conformidad con las disposiciones jurídicas aplicables, y
+###### Artículo 17.
 
-IV. Nombrar y remover a los servidores públicos de la Comisión, en los casos que no corresponda a la Junta de Gobierno.
+El Presidente del Tribunal será electo por el Pleno en los términos del artículo 14 fracción I, de esta Ley y durará en el cargo un año, pudiendo ser reelecto.
 
-### CAPITULO TERCERO. DE LA JUNTA DE GOBIERNO
+###### Artículo 18.
 
-###### ARTICULO 12.
+El Presidente del Tribunal tendrá las siguientes atribuciones:
 
-El Director General Adjunto deberá realizar todas aquellas actividades de apoyo y coordinación que se requieran en ausencia del Director General, aquellas que se señalan en el artículo 14 del presente Estatuto Orgánico y en el manual de organización.
+I. Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo;
 
-El titular de la oficina de representación en la Ciudad de México, contará con las facultades y atribuciones a que se refiere el artículo 14 del presente Estatuto Orgánico y que le encomiende el Director General y el manual de organización de la Comisión.
+II. Presidir y conducir las sesiones del Pleno, así como conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y proponer al Pleno la continuación de la sesión en privado;
 
-El Director General podrá designar a un representante que asistirá a las reuniones a las que sea convocado para tratar asuntos de interés institucional, así como a aquellas en las que exista competencia concurrente con otras dependencias o entidades de la Administración Pública Federal.
+III. Proponer al Pleno el nombramiento del Secretario General de Acuerdos, de los Jueces, Instructores, Secretarios y Actuarios, que hayan aprobado los exámenes y satisfechos los demás requisitos exigidos, suscribiendo sus nombramientos, una vez aprobados;
 
-###### ARTICULO 13.
+IV. Designar al Secretario Administrativo, a los coordinadores y al demás personal del Tribunal;
 
-El Director General podrá delegar cualquiera de sus facultades en otros servidores públicos de la Comisión, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente.
+V. Cubrir, a través de los suplentes, las ausencias temporales de los Magistrados por acuerdo del Pleno;
 
-Para los efectos anteriores, el Director General podrá otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos.
+VI. Vigilar que se cumplan, según corresponda, las determinaciones del Pleno y de los Jueces Instructores;
 
-###### ARTICULO 14.
+VII. Despachar la correspondencia del Tribunal;
 
-Los titulares de las unidades administrativas mencionadas en el artículo 4 del presente Estatuto Orgánico, tendrán las facultades genéricas siguientes:
+VIII. Elaborar y enviar el proyecto de presupuesto de egresos del Tribunal, directamente al titular del Poder Ejecutivo, o por conducto del funcionario que éste designe, a más tardar en el mes de octubre de cada año;
 
-I. Acordar con el Director General, el despacho de los asuntos que les competen;
+IX. Remitir al Congreso del Estado, en la forma y términos establecidos en la Ley, la información financiera, materia de cuenta pública, para su examen, fiscalización y calificación anual;
 
-II. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las unidades subalternas que tengan adscritas, informando al Director General de las actividades que éstas realicen;
+X. Vigilar que el Tribunal cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
 
-III. Coordinar la elaboración del anteproyecto de presupuesto de la unidad administrativa y de las unidades subalternas de su adscripción, remitirlo a la Coordinación General de Administración para su análisis y, una vez aprobado, supervisar su correcta aplicación;
+XI. Convocar a sesiones públicas o a reuniones internas, a los Magistrados del Tribunal, a los Jueces Instructores y a los demás miembros del personal jurídico o administrativo;
 
-IV. Coordinarse con las unidades administrativas, para el mejor desempeño de sus facultades;
+XII. Tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas;
 
-V. Someter a la aprobación del Director General, los proyectos y estudios que se elaboren en su ámbito de competencia, así como las propuestas de modernización, desconcentración y simplificación administrativa de la unidad administrativa y de las unidades subalternas de su adscripción;
+XIII. Turnar a un Juez Instructor el expediente relativo a cualquiera de los medios de impugnación, de su competencia, para su trámite y sustanciación;
 
-VI. Vigilar que se cumpla con las disposiciones legales concernientes a los asuntos de su competencia;
+XIV. Requerir o solicitar, cualquier informe o documento que, obrando en poder de los órganos del Instituto o de las autoridades federales, estatales, distritales o municipales, de los partidos políticos, agrupaciones u organizaciones políticas, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos por la Ley de Medios de Impugnación;
 
-VII. Someter a la consideración del Director General los convenios, contratos, acuerdos, bases de colaboración y anexos de ejecución a celebrarse con dependencias, organismos desconcentrados y entidades federales, con organismos internacionales, nacionales, públicos o privados, de coordinación con gobiernos estatales y municipales, así como de concertación con los sectores social y privado, en las materias de su competencia;
+XV. Emitir los acuerdos necesarios y proveer las promociones que presenten las partes, una vez que el expediente ha sido tramitado y sustanciado por el Juez Instructor y después de emitida la sentencia definitiva en el expediente de que se trate;
 
-VIII. Proponer el nombramiento y remoción de su personal de apoyo, así como de los servidores públicos de las unidades subalternas de su adscripción;
+XVI. Ordenar, en casos extraordinarios, que se realice alguna diligencia o se desahogue o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos por la Ley de Medios de Impugnación y demás disposiciones aplicables;
 
-IX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o les correspondan por suplencia, y
+XVII. Rendir ante el Pleno un informe al término de cada proceso electoral, dando cuenta de la marcha del Tribunal, de los principales criterios adoptados en sus resoluciones y ordenar su publicación;
 
-X. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+XVIII. Decretar, cuando proceda, a petición del Pleno o de cualquier otra parte legitimada, previo el procedimiento de ley, la suspensión, remoción, cese o cualquier otra sanción administrativa, al Secretario General de Acuerdos, Secretario Administrativo, Jueces Instructores, los Coordinadores y demás personal jurídico o administrativo del Tribunal;
 
-### CAPITULO CUARTO. DEL DIRECTOR GENERAL
+XIX. Acordar con el Secretario Administrativo, o con los titulares de las coordinaciones adscritas a la Presidencia del Tribunal, los asuntos de su competencia;
 
-###### ARTICULO 15.
+XX. Fijar los lineamientos para la selección, capacitación, designación y promoción del personal del Tribunal, tomando en cuenta los principios de certeza, legalidad, independencia, imparcialidad y objetividad;
 
-La Unidad de Asuntos Jurídicos estará a cargo de un jefe que tendrá las atribuciones siguientes:
+XXI. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal;
 
-I. Dirigir y coordinar los asuntos jurídicos de la Comisión;
+XXII. Apercibir, amonestar, e imponer multas de diez a cien días, el importe del salario mínimo vigente en la entidad, al momento de cometerse la falta, a aquellas personas que falten al respeto a algún miembro del Tribunal, en las sesiones;
 
-II. Proponer las normas y establecer, desarrollar y evaluar las políticas y lineamientos de orden jurídico para una adecuada conducción de las operaciones y del personal de la Comisión;
+XXIII. Conocer de las responsabilidades de los servidores públicos del Tribunal, con excepción de los Magistrados, y aplicar las sanciones a que se refiere la presente Ley;
 
-III. Asesorar, coordinar y establecer los mecanismos de asistencia y apoyo que se otorguen en materia jurídica al Director General, unidades administrativas y servidores públicos de la Comisión, actuando como órgano de consulta;
+XXIV. Las demás que señale esta Ley, el Código y demás disposiciones aplicables.
 
-IV. Representar a la Comisión ante las áreas jurídicas de las dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipal;
+### CAPÍTULO SEGUNDO. DEL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL ELECTORAL
 
-V. Representar a la Comisión ante los consejos, comisiones, comités y demás grupos de trabajo en donde la Comisión sea parte, en los términos que establezca el Director General;
+###### Artículo 19.
 
-VI. Conciliar, mediar y fungir, a petición de parte, como árbitro en la solución de conflictos relacionados con las cadenas productivas forestales, en los términos de las disposiciones jurídicas aplicables;
+El Secretario General de Acuerdos del Tribunal, tendrá las siguientes atribuciones:
 
-VII. Fijar los lineamientos y criterios de interpretación y aplicación de las disposiciones jurídicas que normen el funcionamiento y operación de la Comisión;
+I. Apoyar al Presidente del Tribunal en las tareas que le encomiende;
 
-VIII. Autorizar el contenido jurídico de la información que generen las unidades administrativas de la Comisión;
+II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno;
 
-IX. Tramitar las solicitudes de acreditamiento de personalidad o personería ante la Comisión, dictaminar y resolver sobre las mismas, así como llevar el registro único de las personas acreditadas y expedir las constancias correspondientes;
+III. Llevar el control del turno de los Magistrados;
 
-X. Llevar un seguimiento sistemático de los acuerdos tomados en las sesiones de la Junta de Gobierno e informar al Director General de su ejecución;
+IV. Llevar el registro de las sustituciones de los Magistrados;
 
-XI. Coordinar y evaluar la formulación de los estudios e investigaciones jurídicas que se requieran para el adecuado desarrollo de las atribuciones de la Comisión;
+V. Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal;
 
-XII. Emitir opiniones, asesorar, formular y proponer las iniciativas sobre la actualización del marco jurídico en materia forestal y de desarrollo forestal sustentable;
+VI. Supervisar que se hagan en tiempo y forma las notificaciones del Pleno;
 
-XIII. Instrumentar y dictaminar jurídicamente la transferencia de funciones y recursos de la Comisión hacia los gobiernos de los estados y municipios;
+VII. Supervisar el debido funcionamiento de los archivos jurisdiccionales y en su momento, su concentración y preservación;
 
-XIV. Formular opiniones y recomendaciones a los proyectos de normas oficiales mexicanas en el ámbito de competencia de la Comisión;
+VIII. Dictar previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes, vigilando su cumplimiento;
 
-XV. Compilar y promover la difusión de las disposiciones jurídicas contenidas en leyes, tratados, reglamentos, decretos, acuerdos y demás ordenamientos, relacionados con las actividades de la Comisión;
+IX. Autorizar con su firma las actuaciones del Pleno;
 
-XVI. Elaborar, revisar y determinar la procedencia jurídica de los convenios, contratos y demás actos jurídicos que vaya a suscribir el titular de la Comisión, así como llevar el control y registro de los mismos;
+X. Llevar el registro de las tesis de jurisprudencia que se adopten;
 
-XVII. Tramitar la publicación de acuerdos, circulares, normas, convenios, contratos, acuerdos y demás disposiciones jurídicas y administrativas, competencia de la Comisión, en el Diario Oficial de la Federación y en los demás órganos de difusión oficial y, en su caso, gestionar su inscripción en los registros públicos correspondientes;
+XI. Dar cuenta en las sesiones públicas con los expedientes que no sean de ponencia de los Magistrados;
 
-XVIII. Establecer y ejecutar a petición de las unidades administrativas de la Comisión, el procedimiento de rescisión de los contratos y convenios, tramitarlo y proponer la resolución correspondiente;
+XII. Auxiliar en la revisión del engrose de las resoluciones aprobadas por el Pleno;
 
-XIX. Participar en los procedimientos de licitación pública, invitación y adjudicación directa en la adquisición de bienes muebles, arrendamientos y contratación de servicios que realice la Comisión;
+XIII. Remitir a los Jueces Instructores los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular y el juicio, de acuerdo con el turno que les corresponda, llevando el control respectivo; autorizando con su firma las actuaciones de los mismos;
 
-XX. Designar a los notarios autorizados previamente por la Secretaría de Contraloría y Desarrollo Administrativo, que deban intervenir en las operaciones inmobiliarias de la competencia de la Comisión;
+XIV. Coordinar, de conformidad con los lineamientos que dicte el Pleno a los Jueces Instructores;
 
-XXI. Solicitar de la Secretaría de Contraloría y Desarrollo Administrativo, en lo que corresponda a su competencia, la reivindicación de la propiedad federal administrada por la Comisión, así como la destinada a ésta;
+XV. Expedir las certificaciones y constancias que se requieran; y
 
-XXII. Llevar el control del patrimonio inmobiliario y de derechos adquiridos, así como realizar los trámites legales para la adquisición, regularización, desincorporación y protección jurídica de los bienes inmuebles administrados por la Comisión o destinados a ésta;
+XVI. Las demás que le señalen esta Ley y el Reglamento Interior del Tribunal.
 
-XXIII. Elaborar informes previos y con justificación que en materia de amparo deba rendir el Director General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables e intervenir como tercero perjudicado cuando se requiera, además de formular y presentar todas las promociones que a dichos juicios se refieran;
+###### Artículo 20.
 
-XXIV. Suscribir, en ausencia del Titular y demás servidores públicos de la Comisión, los informes previos y con justificación que requieran las autoridades judiciales correspondientes;
+El Secretario General de Acuerdos deberá satisfacer los requisitos:
 
-XXV. Presentar denuncia o querella respecto de hechos que lo ameriten y en los que la Comisión haya resultado ofendida o tenga interés ante el ministerio público competente, y coadyuvar en la integración de averiguaciones previas y en el trámite de los procesos penales correspondientes; asimismo, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la Comisión;
+I. Ser ciudadano tabasqueño o residente en el Estado con antigüedad de tres años, y en pleno ejercicio de sus derechos políticos y civiles;
 
-XXVI. Asesorar a los servidores públicos de la Comisión y unidades administrativas que lo soliciten, a efecto de que rindan los informes que requiera la Comisión Nacional de los Derechos Humanos, así como auxiliarlos en el procedimiento y, en su caso, cumplimiento de las recomendaciones que ésta emita en uso de sus facultades;
+II. Tener 30 años de edad, por lo menos, al momento de la designación;
 
-XXVII. Conocer, sustanciar, evaluar y dictaminar las actas administrativas, procedimientos y recursos administrativos que procedan respecto a las bajas o sanciones al personal de base o de confianza de la Comisión, por las causas establecidas en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de los Trabajadores al Servicio del Estado y en las demás disposiciones aplicables en materia laboral;
+III. Tener título de Licenciado en Derecho con antigüedad mínima de cinco años y Cédula Profesional, expedida ésta última con antigüedad mínima de tres años y haber ejercido, por lo menos en igual término, su profesión;
 
-XXVIII. Representar legalmente a la Comisión y a su titular en los juicios de orden laboral, respecto de trabajadores de la Comisión, formular dictámenes, demandas de cese y contestaciones de demanda, formular y absolver posiciones, desistirse o allanarse y, en general, realizar todas aquellas promociones que se requieran en el curso del procedimiento;
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-XXIX. Designar, autorizar y delegar en los servidores públicos adscritos a la Unidad Jurídica, facultades para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses de la Comisión, y
+V. No desempeñar o haber desempeñado cargo de elección popular en los últimos tres años;
 
-XXX. Examinar y resolver los recursos administrativos que se interpongan en contra de los actos de la Comisión, en los términos que dispone la Ley Federal de Procedimiento Administrativo.
+VI. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos tres años; y
 
-###### ARTICULO 16.
+VII. Las demás que el Pleno determine.
 
-La Unidad de Cooperación y Financiamiento estará a cargo de un jefe que tendrá las atribuciones siguientes:
+El Secretario General de Acuerdos, percibirá la remuneración prevista en el Presupuesto General de Egresos del Estado.
 
-I. Diseñar, proponer, desarrollar, evaluar y dar seguimiento a las políticas y estrategias de cooperación y financiamiento de la Comisión;
+### CAPÍTULO TERCERO. DE LOS JUECES INSTRUCTORES
 
-II. Coordinar, promover, gestionar, supervisar, asegurar, implementar, evaluar y dar seguimiento a la obtención de recursos en dinero o en especie, para impulsar un desarrollo forestal sustentable del país;
+###### Artículo 21.
 
-III. Representar a la Comisión ante organismos, consejos, comisiones, comités, eventos y demás grupos de trabajo tanto en el ámbito nacional como internacional en donde la Comisión tenga representatividad en los términos que se establezcan en los compromisos, acuerdos y convenios, así como por los del Director General;
+El Pleno del Tribunal Electoral contará, en años no electorales hasta con tres Jueces Instructores, mismos que en los años electorales podrán aumentarse a juicio del Pleno, sin que puedan exceder de quince.
 
-IV. Establecer, conforme a las instrucciones del Director General y en términos de los compromisos nacionales e internacionales de nuestro país, la coordinación necesaria entre la Comisión y las autoridades de competencia nacional e internacional, respecto al tema de financiamiento y cooperación;
+###### Artículo 22.
 
-V. Planear, coordinar y apoyar en el plano internacional, la participación del Director General y de las demás unidades administrativas en los asuntos mencionados en la fracción anterior y efectuar el seguimiento de los mismos;
+Son atribuciones y obligaciones de los Jueces Instructores:
 
-VI. Proponer, coordinar, negociar y evaluar el cumplimiento de la participación de la Comisión en convenios y demás actos o acuerdos nacionales e internacionales que incluyan compromisos o proyectos sobre cooperación y financiamiento;
+I. Admitir los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular, y el juicio, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en la Ley de Medios de Impugnación y demás disposiciones aplicables;
 
-VII. Coordinar la atención a consultas sobre aspectos de cooperación y financiamiento que presenten agentes económicos nacionales y extranjeros;
+II. Someter al Pleno los acuerdos de desechamiento de los recursos y el juicio a que se refiere la fracción anterior, cuando, en los términos de esta Ley y demás disposiciones aplicables, sean notoriamente improcedentes o evidentemente insustanciales;
 
-VIII. Organizar, participar y representar a la Comisión en simposiums, reuniones, convenciones, foros y en proyectos nacionales e internacionales, que tengan como objeto los temas de cooperación y financiamiento, en los términos que se establezcan en los compromisos, acuerdos y convenios;
+III. Someter a la consideración del Pleno el acuerdo de tener por no interpuestos los recursos de apelación, el de inconformidad, los que deriven de los procesos de plebiscito, referéndum o de iniciativa popular, y el juicio; así como por no presentados los escritos de los coadyuvantes y de los terceros interesados, cuando no reúnan los requisitos establecidos en la Ley de Medios de Impugnación y demás disposiciones aplicables;
 
-IX. Proponer, coordinar, desarrollar, establecer y supervisar a las representaciones de la Comisión en el extranjero;
+IV. Someter al Pleno el acuerdo que ordene archivar como asunto total y definitivamente concluido, el recurso de inconformidad;
 
-X. Promover la participación directa en proyectos forestales a todas las instituciones públicas, privadas, mixtas, individuales y organismos a escala nacional e internacional, relacionados con los temas de cooperación y financiamiento;
+V. Determinar y acordar, cuando proceda, la acumulación de los recursos y del juicio a que se refiere la fracción I de este artículo, así como determinar la procedencia de la conexidad de la causa de acuerdo con lo dispuesto por la Ley de Medios de Impugnación y demás disposiciones aplicables;
 
-XI. Participar y coordinar acciones y programas con las diversas dependencias y entidades de la administración pública federal, así como con los gobiernos estatales y municipales y unidades administrativas de la Comisión, en la elaboración e implementación de estrategias destinadas a obtener financiamiento y cooperación;
+VI. Formular los requerimientos necesarios para la sustanciación de los expedientes y solicitar al Presidente del Pleno que requiera, si lo juzga conveniente, cualquier informe o documento que obrando en poder de los órganos del Instituto o de las autoridades estatales y municipales, de los partidos políticos o de particulares, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la Ley de Medios de Impugnación;
 
-XII. Apoyar al Director General en la difusión nacional e internacional en relación con los temas de cooperación y financiamiento, y
+VII. Girar exhortos a los juzgados estatales encomendándoles la realización de alguna diligencia o en el ámbito de su competencia, efectuar por sí mismos las que deban practicarse fuera de las oficinas del Juzgado;
 
-XIII. Formar, mantener, custodiar y acrecentar el acervo biblio-hemerográfico de la Comisión en materia de cooperación y financiamiento forestal.
+VIII. Desempeñar las demás tareas que le encomienden el Presidente y los Magistrados del Tribunal, en el ámbito de su competencia, para la buena marcha y funcionamiento del mismo; y
 
-### CAPITULO QUINTO. DE LAS UNIDADES ADMINISTRATIVAS
+IX. Las que le confieren las demás leyes aplicables.
 
-###### ARTICULO 17.
+###### Artículo 23.
 
-La Unidad de Comunicación Social estará a cargo de un jefe que tendrá las atribuciones siguientes:
+Los Jueces Instructores deberán satisfacer los mismos requisitos que se requieren para ser Secretario General de Acuerdos, con excepción de la antigüedad de su título que será de tres años y la cédula de dos años.
 
-I. Diseñar, proponer, desarrollar y evaluar las estrategias y políticas de comunicación de la Comisión;
+La retribución que reciban los Jueces Instructores, será la prevista en el Presupuesto General de Egresos del Estado.
 
-II. Difundir periódicamente los programas y actividades en general que realice la Comisión a los medios de comunicación, a las instituciones involucradas con el Sector Forestal y a la sociedad en general;
+### CAPÍTULO CUARTO. DEL SECRETARIO ADMINISTRATIVO Y DE LAS COORDINACIONES DEL TRIBUNAL ELECTORAL
 
-III. Elaborar y difundir boletines, comunicados de prensa y discursos que permitan dar a conocer a la opinión pública, los programas y las actividades de la Comisión;
+###### Artículo 24.
 
-IV. Apoyar al personal de la Comisión para difundir información que consideren importante, así como en su relación con periodistas y medios de comunicación;
+El Secretario Administrativo dependerá directamente del Presidente del Tribunal y tendrá a su cargo la atención de todo lo relativo a los recursos humanos, financieros y materiales del Tribunal y percibirá la remuneración fijada en el Presupuesto General de Egresos del Estado. Las atribuciones del Secretario Administrativo, se establecerán en el Reglamento Interior del Tribunal.
 
-V. Ejercer la coordinación y cooperación con las instituciones, empresas y organismos del Sector Forestal, a través de la generación y difusión de información de la Comisión;
+###### Artículo 25.
 
-VI. Dar seguimiento a la información que publican los medios de comunicación respecto del Sector Forestal y mantener informados a los miembros de la Comisión;
+El Tribunal contará con dos Coordinaciones que serán las de Capacitación, Investigación, Documentación y Difusión y la de Comunicación Social, cuyas atribuciones se establecerán en el Reglamento Interior del Tribunal. Sus titulares dependerán directamente del Presidente, y percibirán la remuneración prevista en el Presupuesto General de Egresos del Estado.
 
-VII. Dar seguimiento a las publicaciones nacionales e internacionales especializadas en el tema forestal y mantener contacto con ellas;
+### CAPÍTULO QUINTO. DE LOS SECRETARIOS PROYECTISTAS, ACTUARIOS Y DEMÁS PERSONAL AUXILIAR Y ADMINISTRATIVO
 
-VIII. Seleccionar la información más relevante que se publique en medios de comunicación nacionales sobre el tema forestal y de medio ambiente con el fin de mantener informado al Director General y en general al personal de la Comisión;
+###### Artículo 26.
 
-IX. Analizar la información que difunden los medios de comunicación y otras publicaciones con el fin de conocer los sucesos y hechos relevantes, así como proporcionar información necesaria para la toma de decisiones de los titulares de las unidades administrativas de la Comisión;
+Los Secretarios Proyectistas del Tribunal Electoral deben reunir los requisitos siguientes:
 
-X. Establecer y coordinar la relación de la Comisión con los medios de comunicación del país para atender sus demandas de información;
+I. Ser ciudadano tabasqueño o residente en el Estado con antigüedad de tres años, y en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar;
 
-XI. Colaborar en la elaboración de la agenda de trabajo del Director General;
+II. Tener 25 años de edad, por lo menos, al momento de la designación;
 
-XII. Elaborar y desarrollar una agenda de comunicación de los titulares de las diversas unidades administrativas;
+III. Tener título y cédula profesional de Licenciado en Derecho, esta última con antigüedad mínima de dos años y haber ejercido, por lo menos en igual término, su profesión;
 
-XIII. Coordinar el diseño y la aplicación de la imagen institucional de la Comisión;
+IV. No desempeñar o haber desempeñado cargo de elección popular en los últimos tres años;
 
-XIV. Colaborar con la Coordinación General de Planeación e Información en el diseño, y supervisar los contenidos de las páginas del sitio en Internet;
+V. No haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos tres años;
 
-XV. Llevar a cabo campañas publicitarias que permitan difundir los objetivos de la Comisión, así como contribuir a la creación de una nueva cultura ecológica y ambiental en nuestro país;
+VI. No haber sido condenado por delito con sanción privativa de libertad mayor de un año; y
 
-XVI. Elaborar material gráfico de difusión de la Comisión, tales como revistas, folletos, trípticos o cualquier otro de naturaleza análoga o similar, con el fin de informar y generar conciencia y cultura de respeto ambiental en toda la población;
+VII. Las demás que el Pleno determine.
 
-XVII. Apoyar con información y difusión, las giras de trabajo del Director General en el ámbito nacional e internacional;
+###### Artículo 27.
 
-XVIII. Elaborar discursos y tarjetas informativas a la Dirección General;
+Los actuarios deberán satisfacer los requisitos señalados en el artículo anterior, con excepción de la fracción III, que puede ser sustituida por carta de pasante.
 
-XIX. Establecer y mantener relación con las áreas responsables de Comunicación y Difusión del Gobierno Federal y de los gobiernos estatales del país con el fin de difundir y obtener información relevante para la Comisión;
+Los demás servidores públicos del Tribunal deberán reunir los requisitos que se indiquen en el Reglamento Interior del Tribunal y los que el Pleno determine.
 
-XX. Organizar ruedas de prensa para los medios de comunicación con el fin de mantenerlos informados del trabajo de la Comisión;
+###### Artículo 28.
 
-XXI. Elaborar las inserciones en prensa necesarias para difundir la posición de la Comisión ante asuntos de relevancia y la contratación de espacios en medios masivos de comunicación;
+Los Secretarios Proyectistas tendrán las atribuciones que les señala el Reglamento Interior del Tribunal.
 
-XXII. Conformar un archivo de Comunicación Social con los boletines, declaraciones, comunicados y tarjetas informativas y monitoreo que la propia Unidad genere, y
+Los Actuarios tendrán como atribución, notificar, citar o emplazar según el caso y llevar a efecto todas las diligencias, que el Pleno, el Presidente, los Jueces Instructores y la Comisión Sustanciadora determine, así como las que le impongan las leyes aplicables.
 
-XXIII. Coordinar la aplicación de encuestas de opinión pública cuando sea necesario.
+## TÍTULO TERCERO. RÉGIMEN DE LOS SERVIDORES PÚBLICOS
 
-###### ARTICULO 18.
+### CAPÍTULO PRIMERO. DE LOS SERVIDORES PÚBLICOS
 
-La Coordinación General de Producción y Productividad estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+###### Artículo 29.
 
-I. Promover, impulsar y facilitar la integración de las cadenas productivas en la actividad forestal;
+Todos los servidores públicos y empleados del Tribunal se conducirán con imparcialidad, velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en el desempeño de sus funciones, y tendrán la obligación de guardar absoluta reserva sobre los asuntos que sean competencia del Tribunal.
 
-II. Operar los programas sectoriales, y dirigir, promover y coordinar los programas institucionales de plantaciones forestales comerciales y de desarrollo forestal, así como los demás programas sectoriales e institucionales en materia de producción forestal;
+###### Artículo 30.
 
-III. Ejecutar, en el ámbito de su competencia, la política de manejo y aprovechamiento sustentable de la fauna silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como del aprovechamiento sustentable de los recursos forestales y sus recursos asociados, así como participar en la formulación de la misma con las dependencias de la Administración Pública Federal;
+Las relaciones de trabajo del Tribunal y su personal, así como los derechos y obligaciones que les corresponden, se regulan por lo establecido en esta ley y en el Reglamento Interior del Tribunal de acuerdo a las siguientes bases:
 
-IV. Proponer la celebración de acuerdos con los gobiernos de las entidades federativas y municipios que soliciten la descentralización de la administración y promoción de acciones y funciones de la Comisión en materia de manejo y aprovechamiento sustentable de la fauna silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como del aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
+I. Obligaciones del personal:
 
-V. Promover y participar en organismos interinstitucionales, comités o consejos nacionales e internacionales en la definición y asignación de estímulos, apoyos directos e incentivos económicos destinados al establecimiento y mantenimiento de plantaciones forestales comerciales y del desarrollo forestal sustentable;
+a) Coadyuvar al cumplimiento de los fines del Tribunal;
 
-VI. Promover y fomentar los programas de asistencia técnica, dirigidos a los productores y organizaciones, con el propósito de dar mayor valor agregado a sus productos, así como en materia de contratación de servicios, comercialización, aspectos gerenciales y de gestión;
+b) Conducirse en todo tiempo con imparcialidad y objetividad respecto de las posiciones de los partidos políticos, sus militantes y sus dirigentes, procurando que las relaciones de comunicación con ellos se lleven a cabo con cordialidad y respeto;
 
-VII. Asesorar técnicamente a los gobiernos de las entidades federativas y municipios que lo soliciten, sobre la adopción de políticas y acciones para el manejo, aprovechamiento, control y conservación en materia de vida silvestre;
+c) Participar en los programas de formación de desarrollo profesional, así como acreditar las evaluaciones sobre dicha participación en los términos que establezca el Pleno; y
 
-VIII. Promover y operar los Programas de Conservación y Manejo Sustentable de los Recursos Forestales;
+d) Someterse a las evaluaciones relativas al desempeño y a las valoraciones médicas conforme a los programas establecidos al efecto.
 
-IX. Impulsar las acciones de certificación, contraloría social y de los criterios e indicadores del Manejo Forestal Sustentable;
+II. Prohibiciones del personal:
 
-X. Diseñar, promover y ejecutar el Programa Nacional de Mejoramiento Silvícola para incrementar significativamente la producción maderable, no maderable y de servicios ambientales;
+a) Intervenir en asuntos electorales que no sean competencia del Tribunal, salvo en los casos que se tenga autorización expresa para ello;
 
-XI. Proponer y evaluar los sistemas y procedimientos relativos a la prestación de los servicios técnicos forestales, así como instrumentar, operar y llevar el seguimiento de los mismos;
+b) Emitir opinión pública o efectuar manifestaciones de cualquier naturaleza, a favor o en contra de partidos u organizaciones políticas, así como de sus dirigentes, candidatos o militantes;
 
-XII. Participar en la formulación y establecimiento, así como operar el Programa Nacional de Dendroenergía y promover la asistencia técnica para el mejor uso y optimización energética en el consumo de madera;
+c) Sustraer indebidamente información, documentos, bienes y recursos de cualquier naturaleza al cuidado o propiedad del Tribunal;
 
-XIII. Formular e instrumentar, conjuntamente con la Coordinación General de Educación, Capacitación e Investigación, la asistencia técnica y capacitación forestal para fortalecer la capacidad y calidad de los servicios técnicos forestales, así como la capacidad técnica de los ejidos y comunidades para mejorar los conocimientos, la cultura forestal, el manejo y conservación de los recursos forestales y de sus recursos asociados;
+d) Alterar o falsificar documentación o información del Tribunal de cualquier naturaleza, así como efectuar o autorizar su destrucción sin los requisitos legales; y
 
-XIV. Promover y fomentar proyectos en materia de servicios ambientales, que generan los ecosistemas forestales, para alcanzar en el corto plazo el mercado de estos servicios;
+e) Incurrir en faltas de probidad u otras conductas que atenten contra la moral y las buenas costumbres.
 
-XV. Promover y participar en el proyecto de regionalización y organización de los servicios técnicos forestales para alcanzar el manejo forestal sostenible;
+III. Derechos del personal:
 
-XVI. Promover la integración de los Programas de Manejo de las Areas Naturales Protegidas de competencia federal en terrenos forestales o de aptitud preferentemente forestal;
+a) Ser promovido en la estructura de categoría del Tribunal cuando se cumplan los requisitos establecidos para el nuevo cargo;
 
-XVII. Participar con otras unidades administrativas y dependencias de la Administración Pública Federal en la Federalización y Municipalización en materia forestal;
+b) Participar en los concursos de selección para la ocupación de vacantes que convoque el Pleno del Tribunal;
 
-XVIII. Participar en el diseño y ejecución del inventario y monitoreo de los ecosistemas forestales;
+c) Recibir conforme a las disposiciones aplicables, el pago de pasajes, viáticos y demás gastos complementarios o adicionales cuando, por las necesidades del servicio se requiera su traslado a un lugar distinto al de la Ciudad de Villahermosa, Tabasco; y
 
-XIX. Participar conforme a su objeto en la promoción, diseño y ejecución de Programas de Conservación, Manejo y Aprovechamiento Sustentable de la Vida Silvestre;
+d) A que en caso de fallecimiento sus familiares, o quienes se hagan cargo de los gastos de inhumación reciban el importe de hasta dos meses de la remuneración total que le haya correspondido a la fecha del deceso, según la comprobación de las erogaciones que haya realizado.
 
-XX. Fomentar y elaborar los planes de manejo sustentable, para el aprovechamiento de productos no maderables;
+IV. Separación del personal:
 
-XXI. Participar en la implementación y ejecución del Plan Estratégico Forestal 2025, en materia de manejo forestal sostenible;
+Atendiendo su naturaleza jurídica y sin perjuicio de lo señalado por otras leyes, el personal causará baja del Tribunal sin responsabilidad para éste, por las siguientes causas:
 
-XXII. Formular e instrumentar conjuntamente con la Coordinación General de Conservación y Restauración y la Coordinación General de Gerencias Regionales, el seguimiento, control y evaluación externa de cada uno de los programas operativos;
+a) A consecuencia de las deficiencias detectadas en la evaluación del desempeño de sus funciones;
 
-XXIII. Fomentar la exportación de productos forestales procesados y semiprocesados;
+b) Por el incumplimiento de sus obligaciones;
 
-XXIV. Proporcionar información en materia de producción y desarrollo forestal, al Registro Forestal Nacional;
+c) Por violación de los principios éticos y de neutralidad e imparcialidad;
 
-XXV. Servir de contraparte operativa cuando exista un componente de manejo forestal sustentable en los acuerdos internacionales;
+d) Por no observar buena conducta durante el servicio;
 
-XXVI. Formular propuestas de normas oficiales mexicanas en materia de: Planes de Manejo, Servicios Técnicos Forestales, Productos no Maderables y cualquier otro que corresponda conforme a las funciones de la Comisión, así como participar en los Comités Consultivos Nacionales de Normalización correspondientes, y
+e) Por renuncia o abandono del empleo;
 
-XXVII. Coadyuvar con la Dirección General para la organización del Consejo Nacional Forestal y los Consejos Regionales y Estatales Forestales.
+f) Por conclusión de la obra o vencimiento del término para el que fue contratado;
 
-### CAPITULO SEXTO. DE LAS GERENCIAS REGIONALES
+g) Por alterar el orden y la disciplina del lugar donde desempeñe el trabajo;
 
-###### ARTICULO 19.
+h) Por faltar más de tres días a sus labores sin permiso o sin causa justificada en un lapso de treinta días;
 
-La Coordinación General de Conservación y Restauración estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+i) Por desobedecer sin justificación las órdenes que reciba de sus superiores, siempre que se trate del trabajo contratado; y
 
-I. Fomentar y favorecer el desarrollo forestal sustentable y de los recursos asociados para que incidan en la calidad de vida de las comunidades rurales;
+j) Concurrir a sus labores en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que en este último caso exista prescripción médica. Antes de iniciar sus labores, el trabajador deberá poner el hecho en conocimiento de su jefe inmediato y presentar la prescripción suscrita por el médico, oficial o particular.
 
-II. Ejecutar, en el ámbito de su competencia, la política de protección, conservación y restauración de la fauna silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como de los recursos forestales y sus recursos asociados, y participar en la formulación de la misma con las dependencias de la Administración Pública Federal;
+En lo conducente y que no se opongan a la presente Ley, y al Reglamento Interior, se aplicarán supletoriamente y en el orden siguiente:
 
-III. Proponer la celebración de acuerdos con los gobiernos de las entidades federativas y municipios que soliciten la descentralización de la administración y promoción de acciones y funciones de la Comisión en materia de protección, conservación y restauración de la fauna silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como de los recursos forestales y sus recursos asociados;
+a) La Ley de los Trabajadores al Servicio del Estado;
 
-IV. Fomentar en el sector primario de la economía, la conservación, protección y restauración de los recursos forestales y de la fauna silvestre;
+b) La Ley Federal de los Trabajadores al Servicio del Estado;
 
-V. Elaborar y difundir modelos operativos, documentos técnicos y materiales de apoyo, así como capacitar al personal responsable a nivel estatal de la gestión forestal y de suelos en las entidades federativas;
+c) La Ley Federal del Trabajo;
 
-VI. Proporcionar asesoría técnica a ejidatarios, comuneros, propietarios y poseedores de terrenos forestales o de aptitud preferentemente forestal, conforme a lo previsto en la Ley Forestal;
+d) El Código Federal de Procedimientos Civiles;
 
-VII. Dirigir, coordinar y evaluar los programas de forestación y reforestación, así como fomentar y promover la producción de planta de calidad para la forestación, reforestación y plantaciones en los ecosistemas forestales;
+e) Los Principios Generales de Derecho; y
 
-VIII. Formular, organizar, ejecutar y evaluar los programas de rescate de zonas degradadas y el establecimiento, operación y desarrollo de los programas de reforestación que ejecuten las dependencias y entidades de la administración pública federal;
+f) La Equidad.
 
-IX. Promover la canalización de recursos y apoyos destinados a la conservación, protección y restauración de los suelos y a la realización de obras de restauración de suelos y recursos forestales;
+###### Artículo 31.
 
-X. Apoyar la ejecución de los programas de medio ambiente en el ámbito de sus funciones y servicios ambientales;
+Serán considerados de confianza, los Magistrados, el Secretario General de Acuerdos, los Jueces Instructores, los Secretarios Proyectistas, los Actuarios, el Secretario Administrativo, el titular de la Contraloría Interna, los Coordinadores y el Secretario Particular del Presidente y aquellos que realicen funciones de dirección, inspección, fiscalización y vigilancia. Los demás, serán considerados de base.
 
-XI. Participar en la integración y actualización del inventario nacional forestal y en materia de suelos, así como del sistema de monitoreo de tierras, en coordinación con las autoridades competentes;
+Los nombramientos que expida el Tribunal serán eventuales o definitivos.
 
-XII. Promover, conjuntamente con la Unidad de Cooperación y Financiamiento, la canalización de recursos y apoyos destinados a la conservación, protección y restauración de los suelos y a la realización de obras de restauración de suelos y recursos forestales en cuencas y micro cuencas;
+En los procesos electorales el Tribunal Electoral podrá contratar el personal necesario para su correcto funcionamiento, ya sea por tiempo determinado o por obra determinada, en cuyo caso su nombramiento será eventual y tendrá también ese carácter cuando se otorgue para cubrir vacantes temporales.
 
-XIII. Establecer lineamientos técnicos, sistemas y procedimientos para el mejoramiento de suelos, así como para regular y ordenar su uso en actividades productivas;
+El personal del Tribunal estará sujeto al régimen establecido en la Ley del Instituto de Seguridad Social del Estado de Tabasco.
 
-XIV. Proponer a las autoridades competentes la expedición de declaratorias y programas para regular el uso sustentable de suelos por parte del sector productivo;
+El Presidente establecerá los lineamientos para que previamente a la suspensión, remoción o cese de alguno de los trabajadores o servidores públicos del Tribunal, por incumplimiento de sus obligaciones laborales, se les conceda el derecho de audiencia. Una vez decretada la sanción que se le aplique al servidor responsable, éste podrá inconformarse ante el Pleno del Tribunal conforme a las prevenciones establecidas en esta Ley.
 
-XV. Dirigir, coordinar y establecer programas de conservación y restauración de suelos, así como promover y dirigir proyectos de inversión y operación para el aprovechamiento sustentable de los suelos y los ecosistemas forestales;
+### CAPÍTULO SEGUNDO. DE LAS VACACIONES, DÍAS INHÁBILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
-XVI. Implementar técnicas para la reconversión productiva de suelos y para la reforestación y restauración de suelos en el trópico húmedo, subhúmedo, árido y semiárido;
+###### Artículo 32.
 
-XVII. Operar, por sí o por conducto de las gerencias regionales, los viveros forestales y los bancos de germoplasma a cargo de la Comisión;
+Los servidores públicos del Tribunal disfrutarán de dos períodos de vacaciones al año, cada uno de quince días naturales, programados de acuerdo con las necesidades del servicio.
 
-XVIII. Proteger y conservar los recursos genéticos forestales;
+Durante los años de proceso electoral, o durante los períodos de procesos electorales extraordinarios, tomando en cuenta que todos los días y horas son hábiles, las vacaciones se diferirán hasta que se concluya la resolución de los recursos de que se trate.
 
-XIX. Formular, coordinar, evaluar y operar los programas de prevención y combate de incendios forestales o emergencias forestales;
+###### Artículo 33.
 
-XX. Formular, coordinar y evaluar los programas de sanidad forestal, así como diagnosticar, prevenir, combatir y controlar las plagas y enfermedades forestales, y
+Los servidores públicos del Tribunal, gozarán de descanso durante los días domingo, y los inhábiles considerándose como tales el 1 de enero, 5 y 27 de febrero, 21 de marzo, 1 y 5 de mayo, 16 de septiembre, 1 y 20 de noviembre, 1 de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal, y 25 de diciembre, siempre y cuando no se esté en el caso al que se refiere el párrafo segundo del artículo anterior o se tengan asuntos pendientes de resolver.
 
-XXI. Coadyuvar al cumplimiento de las acciones de conservación, protección y restauración, emanadas de los programas de manejo en Areas Naturales Protegidas.
+###### Artículo 34.
 
-###### ARTICULO 20.
+Los servidores públicos del Tribunal, acorde a las necesidades del servicio, estarán obligados a prestar sus servicios durante los horarios, que señale el Reglamento Interior.
 
-La Coordinación General de Administración estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+###### Artículo 35.
 
-I. Proponer, difundir y vigilar la aplicación de la normatividad sobre la administración de recursos humanos, financieros y materiales, prestación de los servicios generales, actividades culturales y recreativas y demás servicios de carácter administrativo necesarios para el desarrollo de las actividades de la Comisión;
+De conformidad con lo previsto en el artículo 63 bis, penúltimo párrafo, de la Constitución local, las renuncias, ausencias y licencias de los magistrados electorales del Tribunal, serán tramitadas, cubiertas y otorgadas, de conformidad con las reglas siguientes:
 
-II. Definir los mecanismos y lineamientos para instrumentar el proceso interno de programación, presupuestación, evaluación, control presupuestario y contabilidad de la Comisión;
+a) Las renuncias solamente procederán por causas graves y serán comunicadas por el Presidente del Tribunal, al Congreso del Estado, para que éste las someta a la aprobación del Pleno o, en su caso, de la Comisión Permanente;
 
-III. Someter a la aprobación del Director General el proyecto de presupuesto anual de la Comisión, así como autorizar las erogaciones, vigilar el ejercicio del presupuesto asignado a la misma y vigilar la formulación del anteproyecto de presupuesto y de los programas de las unidades administrativas a su cargo;
+b) Las ausencias temporales que no excedan de un mes serán cubiertas por acuerdo del Pleno, por el magistrado suplente de que se trate;
 
-IV. Determinar los sistemas de contabilidad de los ingresos federales, de los movimientos de fondos y de la deuda pública federal; así como autorizar los estados financieros y los informes del ejercicio presupuestal de la Comisión;
+c) Las ausencias por defunción o por cualquier otra causa de separación definitiva serán cubiertas por el Congreso del Estado o la Comisión Permanente, con la elección en términos legales, de un nuevo magistrado electoral; y
 
-V. Coordinar a las unidades administrativas de la Comisión en la programación, presupuestación, organización, control y evaluación de sus acciones relativas al gasto público;
+d) Ninguna licencia podrá exceder del término de un año durante la vigencia del nombramiento.
 
-VI. Fijar las directrices para implantar, operar, controlar y evaluar el sistema de administración, capacitación y desarrollo de personal de la Comisión y vigilar su permanente actualización, así como validar la situación contractual entre la Comisión y los servidores públicos que laboran en ella, emitiendo los nombramientos correspondientes;
+###### Artículo 36.
 
-VII. Implementar, coordinar y dirigir el servicio civil de carrera en la Comisión;
+Las licencias de los demás servidores públicos del Tribunal serán otorgadas, aplicándose, en lo conducente, lo establecido en esta Ley y lo señalado en el Reglamento Interior del Tribunal; debiéndose tomar en cuenta que durante los procesos electorales todos los días y horas son hábiles, por lo que durante ese período no podrá concederse licencia alguna.
 
-VIII. Coordinar las relaciones con el sindicato, participar en la definición de las Condiciones Generales de Trabajo, así como vigilar su difusión;
+Las licencias a que se refiere este artículo, no podrán exceder de seis meses y no serán prorrogables.
 
-IX. Proponer para aprobación del Director General la designación de representantes de la Comisión ante la Comisión Mixta de Escalafón, así como actualizar el escalafón y difundirlo permanentemente entre los trabajadores;
+### CAPÍTULO TERCERO. DE LAS ACTUACIONES JUDICIALES Y DEL ARCHIVO DEL TRIBUNAL
 
-X. Fomentar y dirigir la difusión de los sistemas de motivación al personal de la Comisión, coordinar el otorgamiento de estímulos y recompensas establecidos por la ley en la materia y las Condiciones Generales de Trabajo, así como aplicar, en coordinación con la Unidad de Asuntos Jurídicos, las sanciones por incumplimiento a las obligaciones laborales;
+###### Artículo 37.
 
-XI. Proporcionar asesoría a las unidades administrativas de la Comisión en lo relativo a asuntos laborales de su personal;
+Para la realización de diligencias o actuaciones que deban practicarse fuera de las oficinas del Tribunal, el Presidente designará o autorizará al Magistrado o al Juez Instructor que conozca del asunto de que se trate, su traslado, al lugar que sea necesario, así como del personal necesario para llevar a cabo la diligencia correspondiente.
 
-XII. Llevar a cabo la adquisición, arrendamiento, contratación de bienes y servicios, e intervenir en la adjudicación de contratos de obra pública y suscribir los convenios y contratos que se deriven de esas acciones, en representación de la Comisión, de acuerdo con la normatividad aplicable;
+###### Artículo 38.
 
-XIII. Proponer, fomentar y difundir programas de seguridad e higiene en el ámbito de la Comisión, así como evaluar sus resultados;
+Los Magistrados o Jueces Instructores que conozcan de un asunto competencia del Tribunal, previa autorización del Pleno, acordarán en sus resoluciones, en asuntos urgentes o cuando el caso lo amerite, la práctica de notificaciones, citaciones o requerimientos, fuera de la residencia del Tribunal, mismas que serán llevadas a cabo por el actuario de que se trate.
 
-XIV. Proponer la realización de estudios sobre la organización de las unidades administrativas a su cargo, así como vigilar la instrumentación de los resultados que procedan;
+###### Artículo 39.
 
-XV. Determinar la metodología para la elaboración del manual de organización general de la Comisión y para los manuales de organización específicos, de procedimientos y demás documentos administrativos y someterlos a la aprobación del Director General;
+El Tribunal, deberá conservar en su archivo jurisdiccional los expedientes de los asuntos definitivamente concluidos durante dos años contados a partir de que se ordene el archivo.
 
-XVI. Fomentar los servicios de carácter social que se proporcionen a los trabajadores de la Comisión y a sus familiares derechohabientes;
+###### Artículo 40.
 
-XVII. Fomentar el establecimiento y la vigilancia del funcionamiento de comités mixtos de productividad con las unidades administrativas de la Comisión, con el propósito de elevar su eficiencia, y
+Una vez concluido el plazo a que se refiere el artículo anterior, el Tribunal podrá determinar mediante acuerdo del Pleno, la destrucción o remisión de los expedientes al Archivo General del Estado, para su resguardo, conservando copia de los mismos, utilizando para ello cualquier método de digitalización, reproducción o reducción.
 
-XVIII. Mantener y conservar los bienes inmuebles que tenga en propiedad o posesión la Comisión.
+## TÍTULO CUARTO. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
-### CAPITULO SEPTIMO. DE LOS ORGANOS DE VIGILANCIA Y DE CONTROL INTERNO
+### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
-###### ARTICULO 21.
+###### Artículo 41.
 
-La Coordinación General de Planeación e Información estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+Las responsabilidades de todos los miembros del Tribunal, se regirán por lo establecido en esta Ley, y en lo conducente por la Constitución local y la Ley de Responsabilidades de los Servidores Públicos.
 
-I. Establecer, formular y proponer un modelo de planeación para el desarrollo sustentable del sector forestal nacional, que promueva de manera integral las trece regiones del país, y genere estrategias de corto, mediano y largo plazos;
+Los Magistrados del Tribunal sólo podrán ser removidos de sus cargos en los términos de los artículos 68 y 69 de la Constitución local.
 
-II. Proponer y coordinar la aplicación de políticas, lineamientos y procedimientos para la operación del plan institucional, integrando a otras instancias federales, estatales, municipales y de la sociedad civil, que desarrollan y operan programas encaminados a la protección, fomento, producción, aprovechamiento y transformación de los recursos forestales, que coadyuvan al desarrollo integral del sector;
+###### Artículo 42.
 
-III. Coadyuvar con las áreas de planeación de las dependencias federales, estatales y municipales, de conformidad con lo establecido por la legislación en la materia, la instrumentación de los planes y programas para el desarrollo sustentable de los recursos forestales y sus recursos asociados en cada una de las trece regiones del país;
+Los Magistrados Electorales, el Secretario General de Acuerdos, los Jueces Instructores, Secretarios proyectistas, Actuarios, Coordinadores, secretarios particulares y los demás servidores públicos que el Pleno determine, en los términos de la Ley de Responsabilidades de los Servidores Públicos, cumplirán sus obligaciones respecto a la declaración de situación patrimonial, presentándola ante la Contraloría Interna del Tribunal, quien a su vez lo hará del conocimiento del Órgano Superior de Fiscalización del Congreso, en términos de lo señalado en la ley mencionada.
 
-IV. Coadyuvar al seguimiento y evaluación del programa sectorial forestal del país, de conformidad con los objetivos, políticas y estrategias del Plan Nacional de Desarrollo para su instrumentación y operación;
+###### Artículo 43.
 
-V. Coadyuvar al seguimiento y evaluación de los programas regionales para el desarrollo de los recursos forestales de cada una de las trece regiones del país, de conformidad con los objetivos, políticas y estrategias del programa sectorial, para su instrumentación y operación;
+Serán causas de responsabilidad para los servidores públicos del Tribunal:
 
-VI. Diseñar, proponer y asesorar sobre mecanismos de concertación y participación entre sociedad y gobierno, para elaborar y operar los instrumentos de planeación para el desarrollo sustentable del sector forestal y sus recursos asociados, en los tres órdenes de gobierno, garantizando la participación democrática de la sociedad;
+I. Realizar conductas que atenten contra la independencia de la función jurisdiccional en la materia, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, de algún Poder, partido o asociación política;
 
-VII. Diseñar, en coordinación con las áreas competentes de las dependencias federales que tienen injerencia en el desarrollo del sector forestal, un sistema de evaluación único, que cuantifiquen y cualifiquen la ejecución de los programas del sector forestal y sus recursos asociados;
+II. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos;
 
-VIII. Promover la observancia del Plan Nacional de Desarrollo, en lo relativo a lo forestal, a través de la concertación con las entidades federativas en la aplicación de los programas sectorial, regionales e institucionales para el desarrollo sustentable del sector forestal y sus recursos asociados, estableciendo compromisos de seguimiento y evaluación;
+III. Tener una notoria ineptitud o negligencia en el desempeño de las funciones o labores que deban realizar;
 
-IX. Coordinar el diseño y ejecución de evaluaciones con organismos e instituciones no gubernamentales, aplicables a programas ejecutados en el sector forestal, para analizar su impacto y desarrollar alternativas que se orienten a la reconversión de la operatividad y la descentralización de los mismos, promoviendo el logro de los objetivos de desarrollo forestal propuestos por la Comisión;
+IV. Impedir, en los procedimientos competencia del Tribunal, que las partes ejerzan los derechos que legalmente les correspondan;
 
-X. Formular y proponer en coordinación con el sector productivo del país, programas que promuevan una cultura de productividad sustentable con base en el desarrollo de proyectos que impulsen el desarrollo de los recursos forestales y la fauna silvestre en las diversas regiones del país;
+V. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
 
-XI. Promover en coordinación con otras instancias, acciones que despierten el interés por desarrollar nuevas actividades productivas de los grupos sociales de menores ingresos que viven en regiones y microrregiones forestales, para generar mejores ingresos familiares;
+VI. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
 
-XII. Proponer la celebración de convenios con las dependencias, organismos e instituciones necesarias para obtener la información que generan sobre el sector forestal, para crear y mantener actualizados los bancos de información indispensables para el trabajo de la Comisión;
+VII. No preservar la dignidad, imparcialidad y profesionalismo propios de la función jurisdiccional en el desempeño de sus labores;
 
-XIII. Coadyuvar a la integración del inventario del sector forestal y de sus recursos asociados, con información confiable y actualizada sobre existencias, protección, aprovechamientos, producción, comercialización y en general la información requerida para el desarrollo sustentable del sector;
+VIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento o infringir la reserva a que están obligados por esta Ley;
 
-XIV. Establecer en colaboración con otras unidades administrativas de la Comisión, indicadores de gestión que permitan evaluar la competitividad del sector forestal y medir su desempeño a escala regional e internacional;
+IX. Abandonar o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-XV. Participar en la elaboración de la normatividad para intercambio de datos en materia forestal;
+X. Las previstas en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
 
-XVI. Diseñar aplicaciones de cómputo que den servicio a la Comisión, así como aquellas que permitan distribuir bases de datos y cartografía a todos los actores involucrados en el sector forestal, proporcionando los métodos para que esa distribución sea interactiva y cada uno pueda mantener la información actualizada;
+XI. Exceder del tiempo señalado en la Ley, para la resolución de los asuntos de su competencia; y
 
-XVII. Construir, diseñar y operar el sitio de la Comisión en Internet;
+XII. Las demás que determine esta Ley y las demás disposiciones aplicables.
 
-XVIII. Establecer el uso de la geomática como una herramienta para apoyar y sustentar la toma de decisiones, a través de diseño y desarrollo de bases de datos confiables que permitan tener un inventario cartográfico de las diferentes regiones forestales del país;
+###### Artículo 44.
 
-XIX. Proponer a la Unidad de Asuntos Jurídicos, las modificaciones al marco jurídico del sector forestal que sean requeridos para el intercambio de datos electrónicos en esta materia;
+El procedimiento para determinar las responsabilidades de los servidores públicos del Tribunal, se iniciará de oficio, por queja o denuncia presentada ante el Presidente del Tribunal, por cualquier persona, o por el servidor público que tenga conocimiento de los hechos. Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
 
-XX. Proponer convenios de colaboración para la generación, intercambio e integración de información y tecnología, con instituciones de educación superior, entidades públicas y de los sectores privado y social;
+Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
 
-XXI. Participar en grupos especializados, asociaciones, consejos y comités en materia de planeación y evaluación de informática y geomática, y
+El Presidente del Tribunal una vez recibida la denuncia o queja de que se trate, la turnará mediante oficio al titular de la Contraloría Interna, para la sustanciación y trámite del procedimiento respectivo, quien lo tramitará ante dos testigos de asistencia, y una vez concluido el trámite correspondiente, será remitido al Presidente del Tribunal para la aplicación de la sanción que corresponda.
 
-XXII. Participar en la determinación y promoción de normas y estándares en materia de geomática.
+###### Artículo 45.
 
-###### ARTICULO 22.
+Para la determinación de las responsabilidades a que se refiere este Título deberá seguirse el siguiente procedimiento:
 
-La Coordinación General de Educación, Capacitación e Investigación estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+I. Se le harán saber los hechos que se le imputan, entregándosele copia del escrito de denuncia y sus anexos o de las actuaciones practicadas según el caso, al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante;
 
-I. Fomentar una cultura de conservación y aprovechamiento sustentable de los recursos forestales;
+II. Recibido el informe y desahogadas las pruebas, si las hubiere, se resolverá dentro de los quince días hábiles siguientes sobre la existencia o inexistencia de responsabilidad, o imponiendo, en su caso al infractor, las sanciones administrativas correspondientes, y se notificará la resolución dentro de las setenta y dos horas siguientes.
 
-II. Diseñar, dirigir y proponer programas educativos, de capacitación, investigación y desarrollo tecnológico en materia forestal, así como coadyuvar en su implementación;
+Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-III. Promover cursos de adiestramiento técnico, enseñanza profesional y desarrollo tecnológico, que el sector forestal requiera para su cadena productiva, en coordinación con el sistema educativo nacional y con las instituciones públicas y privadas de educación superior e investigación científica y tecnológica;
+III. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del probable responsable o de otras personas, se podrá disponer la práctica de diligencias para mejor proveer y acordar la celebración de otra u otras audiencias en su caso; y
 
-IV. Promover, organizar y coordinar la integración de un sistema que reúna, analice, clasifique, aplique y divulgue por los medios más idóneos, los frutos de las investigaciones forestales exitosas que se han dado en el ámbito regional, nacional e internacional;
+IV. En cualquier momento, previo o posteriormente a la recepción del informe, el Presidente del Tribunal podrá determinar la suspensión temporal de los probables responsables de sus cargos, empleos o comisiones, siempre que a su juicio así convenga para la conducción o continuación del procedimiento de que se trate, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo, la suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
 
-V. Contribuir con la Coordinación General de Administración en el Servicio Civil de Carrera y en el desarrollo del personal de la Comisión, a través de eventos, investigación aplicada, actualización y mejoramiento del conocimiento forestal, con enfoque multidisciplinario, de conformidad con los objetivos, estrategias y prioridades del programa sectorial forestal e institucional;
+Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
 
-VI. Promover y participar con el Sistema Educativo Nacional, el Consejo Nacional de Ciencia y Tecnología, asociaciones académicas, profesionales e industriales para canalizar adecuadamente experiencias, investigaciones, actividades conjuntas; alentar la educación técnica, los planes y programas de estudio en especialidades y postgrados en materia forestal para la formación continua de cuadros profesionales que el sector requiere;
+En lo no previsto en el presente capítulo, se aplicará supletoriamente, en lo conducente, la Ley de Responsabilidades de los Servidores Públicos.
 
-VII. Coadyuvar con la Unidad de Comunicación Social en la formulación de estrategias operativas de comunicación educativa, para el fortalecimiento de la cultura forestal, la divulgación de información forestal especializada, la difusión y promoción de programas de material educativo y de cultura forestal;
+###### Artículo 46.
 
-VIII. Propiciar la participación comprometida de los líderes de opinión que orientan la opinión pública, en el conocimiento y respeto al desarrollo forestal sustentable, medidas de prevención de incendios, difusión de eventos, entrega de premios o reconocimientos a los esfuerzos forestales más destacados de la sociedad;
+Las sanciones aplicables a las faltas contempladas en el presente Capítulo y en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos, consistirán en:
 
-IX. Contribuir al diseño, formulación, elaboración y publicación de guías técnicas actualizadas por materias de conocimiento, participantes y niveles de aplicación, que reorienten la relación entre la sociedad y lo forestal, principalmente con habitantes, propietarios o poseedores, ejidatarios, pueblos indígenas, comunidades agrarias, campesinos de montaña, comuneros y organizaciones representativas de una zona o región forestal;
+I. Apercibimiento privado o público;
 
-X. Fortalecer, orientar y encauzar la participación organizada de la sociedad civil, en programas de educación, capacitación, investigación y cultura forestal;
+II. Amonestación privada o pública;
 
-XI. Proponer estrategias y acciones relativas al aprovechamiento sustentable de los recursos forestales y sus recursos asociados que tiendan a elevar la calidad de vida y el bienestar de la población que habita en las regiones forestales;
+III. Sanción económica;
 
-XII. Fomentar, establecer e impulsar, comités y grupos de trabajo voluntario que integren una red ciudadana de interrelación, formación de promotores forestales que ayuden a prevenir la destrucción de los recursos forestales, así como dar a conocer el valor científico, ambiental, económico y estratégico de éstos como factor de desarrollo comunitario integral y sustentable;
+IV. Suspensión;
 
-XIII. Coadyuvar con la Unidad de Cooperación y Financiamiento a la obtención de recursos financieros y materiales, patrocinios, donaciones y mecanismos adecuados de financiamiento para convocar, apoyar y organizar proyectos conjuntos de investigación, modernización, intercambio o transferencia de tecnología, cursos, simposios, conferencias, diplomados y en general impulsar todo tipo de actividades culturales, certámenes, convenciones, congresos, foros, concursos de cartel o exposiciones que tengan conexión con la causa del bosque y su desarrollo sustentable;
+V. Destitución del puesto; y
 
-XIV. Representar a la Comisión y a su titular ante el Comité de Normalización de Competencia Laboral del Sector Forestal y demás comités, comisiones u organismos públicos, privados o sociales, nacionales o internacionales relativos a educación, capacitación, investigación y cultura forestales;
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-XV. Promover la creación de espacios recreativo-culturales que faciliten el acercamiento directo, especialmente de niños, jóvenes, familias y grupos escolares, a colecciones vivas de especies arbóreas nativas y su correspondiente información;
+###### Artículo 47.
 
-XVI. Difundir la oferta relativa a becas, cursos y seminarios provenientes de gobiernos e instituciones nacionales y extranjeras y de organismos nacionales, regionales e internacionales, y
+Las faltas serán valoradas y, en su caso, aplicadas las sanciones correspondientes por el Presidente del Tribunal, de conformidad con los criterios establecidos en la Ley de Responsabilidades de los Servidores Públicos. El contralor interno será el encargado de vigilar el estricto cumplimiento de las mismas.
 
-XVII. Promover, convocar y organizar ante las autoridades competentes, la realización de homenajes a los miembros del servicio forestal, guardas forestales, guardabosques, monteros, bomberos y voluntarios que han ofrendado su vida por la protección del patrimonio forestal nacional y a todos los pioneros o fundadores de instituciones ejemplares en el sector.
+En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones XI a XIII, y XV a XVII del artículo 47 de la Ley de Responsabilidades de los Servidores Públicos.
 
-###### ARTICULO 23.
+###### Artículo 48.
 
-La Coordinación General de Gerencias Regionales estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal, dictará las providencias oportunas para su corrección o remedio inmediato.
 
-I. Coordinar, en los términos que instruya el Director General y con las facultades previstas en el presente ordenamiento legal, las acciones operativas de la Comisión en el ámbito de sus gerencias regionales;
+###### Artículo 49.
 
-II. Apoyar a los responsables de estos niveles con normas, metodología y procedimientos;
+Si se estimare que la queja fue interpuesta sin motivo, se impondrá al quejoso, a su representante o abogado, o a ambos, una multa de diez a cien días de salario mínimo vigente en el estado al momento de interponerse la queja.
 
-III. Generar una estrategia administrativa y operativa oficial que garantice la ejecución de los programas forestales;
+###### Artículo 50.
 
-IV. Diseñar y operar esquemas de planeación y seguimiento en el ámbito regional para garantizar una eficiente operación de los programas y su consecuente evaluación;
+Las resoluciones por las que se impongan sanciones administrativas consistentes en la destitución del cargo, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal, mediante el recurso de revocación que se sujetará a lo establecido en los artículos 71, 72 y 73 de la Ley de Responsabilidades de los Servidores Públicos. Las demás sanciones serán recurribles mediante el mismo recurso que se tramitará y resolverá ante el propio Presidente del Tribunal, aplicándose en lo conducente el procedimiento establecido para dicho recurso.
 
-V. Promover la desconcentración y descentralización de funciones forestales a estados y municipios;
+Las resoluciones por las que se resuelva el recurso de revocación serán definitivas e inatacables.
 
-VI. Facilitar las relaciones con el entorno político administrativo de las áreas operativas;
+Cuando con motivo de la tramitación de un procedimiento de naturaleza administrativa se desprenda la probable existencia de un delito, el Presidente, hará la denuncia correspondiente.
 
-VII. Promover los mecanismos de coordinación y concertación con los estados, municipios, organismos no gubernamentales y profesionales;
+### CAPÍTULO SEGUNDO. DE LOS IMPEDIMENTOS Y EXCUSAS
 
-VIII. Concertar la celebración de convenios de coparticipación y cofinanciamiento entre la Comisión y las entidades federativas, para la ejecución de los programas;
+###### Artículo 51.
 
-IX. Establecer los mecanismos de concertación con organizaciones de productores, industriales, instituciones y organizaciones civiles, entre otras, para garantizar la adecuada operación de los programas a los distintos niveles, dentro de un esquema participativo;
+Los Magistrados y Jueces del Tribunal, deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Pleno del Tribunal calificará y resolverá de inmediato la excusa y en su caso llamará al suplente tratándose de un magistrado. En el caso de los jueces instructores se designará a otro.
 
-X. Diseñar los instrumentos de concertación social que formalicen los compromisos y favorezcan el seguimiento y operación de los programas;
+## TÍTULO QUINTO
 
-XI. Promover y participar en foros de consulta, seguimiento y evaluación con la participación activa de los integrantes del sector; tales como, los Consejos Consultivos Forestales y de Suelos, los Consejos de Cuencas, los Consejos Estatales Agropecuarios y Forestales, los Comités Directivos de Distrito, los Consejos Forestales Municipales e Integradoras de Despachos de Servicios Técnicos Forestales;
+### CAPÍTULO ÚNICO. DEL CONTROL Y EVALUACIÓN
 
-XII. Diseñar los mecanismos y las gestiones de apoyo requeridos para que opere un sistema nacional de servicios técnicos privados y autogestivo en todas las regiones forestales del país;
+###### Artículo 52.
 
-XIII. Generar la información en el ámbito municipal de potencialidades en término de especies forestales para garantizar reforestaciones con alto índice de prendimiento;
+El Tribunal contará con un órgano de control interno, denominado Contraloría Interna, que tendrá a su cargo las facultades de control, evaluación, y coadyuvancia en la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del mismo. El titular de ese órgano será designado por el Pleno del Tribunal.
 
-XIV. Generar la información microrregional de crecimientos físicos del arbolado para orientar los programas de plantaciones y reforestación;
+###### Artículo 53.
 
-XV. Coadyuvar en la organización y realización de giras del Director General, y
+Para ser titular de la Contraloría Interna del Tribunal, se requiere:
 
-XVI. Coadyuvar con las unidades administrativas responsables, en el diseño y aplicación de instrumentos y mecanismos de apoyos económicos, que incentiven la inversión en actividades productivas, de restauración y de conservación en materia forestal.
+I. Ser ciudadano mexicano por nacimiento y preferentemente tabasqueño;
 
-### CAPITULO OCTAVO. DE LOS COMITES O SUBCOMITES
+II. Tener Título Profesional de Licenciado en Contaduría Pública, en Administración, o en Derecho u otro equivalente a juicio del Pleno;
 
-###### ARTICULO 24.
+III. Tener práctica profesional en el ejercicio de las tareas propias o afines del control interno, no menor de dos años;
 
-La Comisión para el ejercicio de las atribuciones que le han sido asignadas, contará con gerencias regionales que se establecerán en el número, lugar y con la circunscripción que determine el titular de la Comisión. Las gerencias regionales para la realización de sus actividades, tendrán la estructura administrativa que determine el Director General.
+IV. Ser de reconocida solvencia moral; y
 
-###### ARTICULO 25.
+V. No haber sido sentenciado por delito que amerite sanción privativa de libertad.
 
-Al frente de cada gerencia regional habrá un gerente regional y será auxiliado por el personal que las necesidades del servicio requieran y estén previstas en el presupuesto.
+###### Artículo 54.
 
-### CAPITULO NOVENO. DE LAS SUPLENCIAS
+El Titular de la Contraloría Interna del Tribunal tendrá las facultades y obligaciones siguientes:
 
-###### ARTICULO 26.
+I. Proponer al Pleno el programa anual de actividades de la Contraloría Interna y una vez aprobado, ejecutar el mismo, supervisando su debido cumplimiento;
 
-Las gerencias regionales tendrán las atribuciones siguientes:
+II. Inspeccionar el ejercicio del gasto y administración del patrimonio del Tribunal;
 
-I. Coordinar dentro de su ámbito territorial, la ejecución de los programas y acciones relativas a las facultades que en este Estatuto Orgánico se le otorgan, con apego a las normas que determine el Director General y a las políticas y lineamientos que establezca el Coordinador General de gerencias regionales y las unidades administrativas centrales competentes, así como informar de los avances y resultados de su ejercicio;
+III. Revisar que el ejercicio del gasto se haya realizado conforme a las disposiciones legales, normas y lineamientos que regulen su ejercicio; que las operaciones financieras se registren contable y presupuestalmente, en forma oportuna y en su caso, determinar las desviaciones y las causas que les dieron origen, comunicándoselo al Pleno, para los efectos legales correspondientes;
 
-II. Elaborar diagnósticos relativos a la problemática regional en materia forestal, y planes que den perspectiva al desarrollo del sector en sus respectivas regiones;
+IV. Proponer al Pleno la emisión de normas, políticas y lineamientos que deben observarse en las adquisiciones, enajenaciones y baja de bienes muebles; arrendamientos, contratación de servicios y, en su caso, obras públicas del Tribunal;
 
-III. Contribuir en las acciones que la Comisión convenga con los gobiernos estatales y municipales para el desarrollo forestal integral de la región;
+V. Vigilar que las adquisiciones de bienes muebles, arrendamientos, contratación de bienes y servicios o de obra pública, se lleven a cabo de conformidad con lo establecido en la Constitución local y demás leyes secundarias y normas reglamentarias en la materia;
 
-IV. Proponer y gestionar ante los Comités de Planeación para el Desarrollo Estatal, la coordinación y concertación de los programas y proyectos de la Comisión;
+VI. Vigilar el cumplimiento de las normas de control interno establecidas por el Pleno;
 
-V. Proponer, opinar y, en su caso, suscribir, previa autorización de la Unidad de Asuntos Jurídicos, los acuerdos y convenios de coordinación que se lleven a cabo con los gobiernos de las entidades federativas, así como con los sectores privado y social. Igualmente, participar en los mecanismos de coordinación y concertación que se establezcan;
+VII. Diseñar las políticas, planes de trabajo, sistemas y acciones, para el logro de su objetivo institucional de fiscalización y evaluación;
 
-VI. Informar y dar seguimiento a las acciones de desconcentración y descentralización del sector forestal en el ámbito regional y local;
+VIII. Practicar auditorías financieras a la dependencia o unidades administrativas del Tribunal, informando al Pleno el resultado de las mismas;
 
-VII. Proporcionar la información y datos técnicos que les sean solicitados por las autoridades superiores, dependencias y entidades de la Administración Pública Federal;
+IX. Formar un expediente de la diligencia o auditoría que se practique, el cual deberá incluir los papeles de trabajo y documentación correspondiente;
 
-VIII. Contratar las obras, estudios y servicios relacionados con éstas, que figuren en el presupuesto de la gerencia regional, de conformidad con las disposiciones legales aplicables, así como supervisar su ejecución;
+X. Dar seguimiento a las observaciones y recomendaciones que deriven de las auditorías y visitas practicadas;
 
-IX. Integrar y establecer, conforme los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la gerencia regional;
+XI. Establecer con base en la ley de la materia, para su aprobación por el Pleno, las normas en materia de registro contable, control presupuestal; vigilar y supervisar su cumplimiento;
 
-X. Celebrar, previo cumplimiento de la normatividad en la materia, los contratos de arrendamiento de inmuebles necesarios para la gerencia regional y notificar de su formalización a la Unidad de Asuntos Jurídicos y a la Coordinación General de Administración;
+XII. Evaluar las funciones de las dependencias o unidades administrativas del Tribunal, formulando las recomendaciones que estime conducentes al logro de las metas institucionales y de una mayor eficiencia administrativa;
 
-XI. Recibir las solicitudes e integrar los expedientes relativos a los aprovechamientos o servicios competencia de la Comisión, así como entregar las resoluciones emanadas de las unidades administrativas centrales competentes, de conformidad con los lineamientos de carácter técnico y administrativo que señalen las mismas;
+XIII. Proponer al Pleno los formatos para la presentación de las declaraciones patrimoniales y sus modificaciones que deben presentar los servidores públicos del Tribunal;
 
-XII. Opinar cuando se pretendan otorgar autorizaciones de cambio de utilización de terrenos forestales;
+XIV. Recibir, registrar y requerir las declaraciones patrimoniales y sus modificaciones que presenten los servidores públicos del Tribunal; comprobando la exactitud y veracidad de ellas y comunicar al Pleno las irregularidades que en su caso se detecten;
 
-XIII. Participar en la operación y actualización del Inventario Nacional Forestal en la región que corresponda, en la revisión y validación de la cartografía forestal y de zonificación, así como efectuar la supervisión del muestreo de campo y monitoreo de ecosistemas forestales, y
+XV. Organizar y realizar los actos de entrega-recepción que se lleven a efecto con motivo de la rotación, baja o cese de los servidores públicos del Tribunal, desde Magistrados hasta Actuarios; así como de los Secretarios y los Coordinadores;
 
-XIV. Auxiliar a todas las unidades administrativas, siguiendo los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que señale el titular de la Comisión.
+XVI. Homologar sus sistemas de verificación contable presupuestal con los existentes en el Órgano Superior de Fiscalización del Congreso del Estado;
 
-###### ARTICULO 27.
+XVII. Auxiliar al Presidente del Tribunal, para vigilar que la administración del presupuesto, sea eficaz, honesta y ajustada a la normatividad aplicable, ejecutando las acciones operativas que se instruyan y las procedentes para tal efecto, informando de su resultado a aquéllos para los efectos legales a que hubiere lugar;
 
-El órgano de vigilancia de la Comisión, estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
+XVIII. Coadyuvar con el Presidente del Tribunal y con la Secretaría Administrativa, en la elaboración de los informes de autoevaluación y de la remisión de las cuentas públicas, al Órgano Superior de Fiscalización del Congreso del Estado;
 
-El comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno de la Comisión.
+XIX. Desahogar las recomendaciones u observaciones que formule el titular del Órgano Superior de Fiscalización del Estado;
 
-###### ARTICULO 28.
+XX. Tramitar, investigar y sustanciar los procedimientos de responsabilidades administrativas de los servidores públicos del Tribunal, y una vez concluidos, remitirlos al Presidente del Tribunal para la aplicación de las sanciones administrativas;
 
-La Comisión contará con un órgano interno de control denominado Contraloría Interna que será parte integrante de su estructura.
+XXI. Vigilar el cumplimiento de las sanciones impuestas por el Pleno o el Presidente del Tribunal;
 
-### CAPITULO DECIMO. DE LAS MODIFICACIONES AL ESTATUTO
+XXII. Integrar y mantener actualizado un registro de los servidores públicos del Tribunal que hayan sido sancionados;
 
-###### ARTICULO 29.
+XXIII. Mantener en sus diligencias y procedimientos la más absoluta reserva y abstenerse de comunicar fuera de los casos permitidos por la ley, a los interesados o a terceros, el resultado de sus indagaciones; y
 
-Al frente del órgano interno de control habrá un Contralor designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
+XXIV. Las demás que determinen las Leyes, los Reglamentos y acuerdos generales correspondientes.
 
-###### ARTICULO 30.
+###### Artículo 55.
 
-Los servidores públicos a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+El titular del órgano de control interno del Tribunal, dependerá directamente del Pleno y gozará de autonomía funcional en el ejercicio de sus atribuciones.
 
-###### ARTICULO 31.
+###### Artículo 56.
 
-La Comisión contará para el desempeño de sus funciones con los comités o subcomités técnicos especializados que determine la Junta de Gobierno, los cuales tendrán la estructura y funciones que determine la misma.
+Cuando se presenten quejas o denuncias en contra del titular de la Contraloría Interna, el procedimiento de responsabilidad administrativa, será tramitado por el Presidente del Tribunal en los términos señalados en esta Ley y supletoriamente por la Ley de Responsabilidades de los Servidores Públicos.
 
-###### ARTICULO 32.
+De igual manera, en caso de impedimento legal o ausencia del titular de la Contraloría Interna, el Presidente del Tribunal, será competente en lo que corresponda para investigar, tramitar, sustanciar y resolver los procedimientos y recursos correspondientes.
 
-Por cada miembro propietario de la Junta de Gobierno se nombrará un suplente, el cual lo substituirá en sus faltas temporales. El suplente deberá tener nivel jerárquico de subsecretario; en el caso de la Comisión Nacional del Agua, deberá tener nivel de Subdirector General.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-Las ausencias del Presidente del la Junta de Gobierno serán suplidas por el Subsecretario que el mismo designe.
+## TÍTULO SEXTO. DE LAS CONTROVERSIAS LABORALES
 
-El Secretario de la Junta de Gobierno será suplido en sus ausencias temporales, por el prosecretario de dicho órgano.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 33.
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la Comisión estarán a cargo del Director General Adjunto y Jefe de la Unidad de Asuntos Jurídicos en el orden mencionado.
+###### Artículo 57.
 
-###### ARTICULO 34.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-Por cada miembro de los Comités o de los Subcomités se nombrará un suplente que actuará en caso de faltas temporales del titular.
+###### Artículo 58.
 
-###### ARTICULO 35.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-Los jefes de unidad y coordinadores generales serán suplidos en sus faltas temporales por el servidor público de la Comisión que designe el Director General.
+###### Artículo 59.
 
-###### ARTICULO 36.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-Las ausencias del Contralor Interno, así como de los titulares de las áreas de auditoria, quejas y responsabilidades, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+###### Artículo 60.
 
-###### ARTICULO 37.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-Las modificaciones al presente Estatuto Orgánico, serán facultad exclusiva de la Junta de Gobierno.
+###### Artículo 61.
 
-###### ARTICULO 38.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-El Director General tendrá la facultad de presentar a la Junta de Gobierno, las iniciativas para la modificación del presente Estatuto.
+###### Artículo 62.
 
-###### ARTICULO 39.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-En caso de duda sobre la interpretación del presente Estatuto Orgánico, el Director General resolverá lo conducente.
+###### Artículo 63.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. DE LA SUSTANCIACIÓN
+
+###### Artículo 64.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 65.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 66.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 67.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 68.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 69.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 70.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 71.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 72.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
+
+###### Artículo 73.
+
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor a partir de la fecha de su aprobación.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+###### ARTÍCULO SEGUNDO.
 
-El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno de la Comisión Nacional Forestal, en su sesión celebrada en la Ciudad de México, Distrito Federal, el siete de junio de dos mil uno.- El Secretario de Medio Ambiente y Recursos Naturales y Presidente de la Junta de Gobierno de la Comisión Nacional Forestal, Víctor Lichtinger Waisman.- Rúbrica.- El Director General de la Comisión Nacional Forestal, Alberto Cárdenas Jiménez.- Rúbrica.- El Secretario Técnico de la Junta de Gobierno de la Comisión Nacional Forestal, Sergio Ampudia Mello.- Rúbrica.
+Se deroga el Libro Sexto del Código de Instituciones y Procedimientos Electorales del Estado de Tabasco publicado en el Suplemento al Periódico Oficial Número 5667, de fecha 28 de diciembre de 1996, con sus respectivos Títulos y Capítulos; así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, procederá a la designación de los tres Magistrados que integrarán el nuevo Tribunal Electoral de Tabasco, a más tardar a los diez días de haber entrado en vigor la presente Ley, o en su defecto, aprovechando la experiencia de los magistrados actuales y la vigencia de su nombramiento, podrá determinar, sin necesidad de un nuevo acto legislativo, la permanencia de tres de ellos, en el orden en que fueron designados en el decreto 04 de fecha 29 de marzo del año próximo pasado.
+
+###### ARTÍCULO CUARTO.
+
+El Tribunal Electoral de Tabasco, deberá iniciar sus funciones con su nueva integración a más tardar el día seis de enero del año 2003.
+
+###### ARTÍCULO QUINTO.
+
+El Pleno del Tribunal Electoral procederá a designar al Titular del Órgano de Control y Evaluación, a más tardar a los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Pleno del Tribunal Electoral de Tabasco, deberá aprobar su nuevo Reglamento Interior a más tardar a los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los archivos, bienes y recursos del actual Tribunal Electoral de Tabasco, serán transferidos a los Magistrados que integran la nueva conformación que se prevé en la Constitución de la Entidad. Para tal efecto el Presidente del nuevo órgano jurisdiccional, deberá recibir los mencionados archivos, bienes y recursos debidamente inventariados.
+
+###### ARTÍCULO OCTAVO.
+
+Por esta única ocasión el Ejecutivo Estatal efectuará las previsiones presupuestales necesarias que le serán asignadas para el ejercicio de sus funciones correspondientes al año 2003, al Tribunal Electoral de Tabasco, tomando en cuenta que se trata de años electorales y las disposiciones conferidas en el presente decreto.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTISEIS DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOS. DIP. JUAN MOLINA BECERRA, PRESIDENTE.- DIP. DAVID GOMEZ CERINO SECRETARIO.- RUBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTIOCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOS.
+
+SUFRAGIO EFECTIVO. NO REELECCION
+
+LIC. MANUEL ANDRADE DÍAZ
+
+GOBERNADOR DEL ESTADO DE TABASCO
+
+LIC. JAIME HUMBERTO LASTRA BASTAR
+
+SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones relativas a la controversia laboral prevista en la Ley Orgánica del Tribunal Electoral del Estado de Tabasco y todas las que se opongan al Presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los casos radicados en el Tribunal Electoral antes de la entrada en vigor de este Decreto serán sustanciados y resueltos por la misma conforme a las normas vigentes al momento de su interposición.
