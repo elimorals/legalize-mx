@@ -4,7 +4,7 @@ identifier: "VER-ley-de-instituciones-de-beneficencia-privada-12191"
 country: "mx"
 rank: "ley"
 publication_date: "1937-02-27"
-last_updated: "1937-02-27"
+last_updated: "2006-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 576 DE INSTITUCIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 7 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 27 de febrero y martes 2 de marzo de 1937.
 
@@ -1210,3 +1212,13 @@ Los Cónsules que en funciones de notarios no cumplan con las obligaciones que l
 5°.- Las responsabilidades en que hayan incurrido las personas que administren las instituciones de beneficencia privada, antes de la promulgación de esta Ley y que se descubran después de que ella entre en vigor, serán exigidas y sancionadas, de acuerdo con las disposiciones de la citada Ley de 27 de agosto de 1900; pero el procedimiento judicial, en lo que se refiere a la suspensión de patronatos, cuando se trate de la remoción de éstos, se regirá por las disposiciones de esta Ley, y para el fin de reprimir y sancionar, así como para exigir esas responsabilidades, la Dirección General de Beneficencia Pública, tendrá la competencia y atribuciones que le confiere esta Ley.
 
 Y en cumplimiento a lo dispuesto por la fracción I del artículo 87, de la Constitución Política del Estado de Veracruz-Llave, promulgo la presente Ley y mando que se imprima, publique, circule y se le dé el debido cumplimiento, en la residencia del Poder Ejecutivo, en la Ciudad de Jalapa-Enríquez, a los doce días del mes de febrero del año de mil novecientos treinta y siete.- El Gobernador Constitucional del Estado, Lic. MIGUEL ALEMAN.- El Srio. Gral. del Gobierno, Lic. FERNANDO CASAS ALEMAN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 7 DE AGOSTO DE 2006.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se abroga la Ley de Instituciones de Beneficencia Privada publicada en el Gaceta oficial del estado el 27 de febrero de 1937 y se derogan todas aquellas disposiciones relativas y aplicables que se opongan a lo previsto por esta ley.
+
+TERCERO. El reglamento de la presente ley deberá expedirse dentro del plazo de ciento ochenta días contados a partir de la vigencia de esta ley.
