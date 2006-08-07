@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-21633"
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-07-11"
-last_updated: "2001-07-11"
+last_updated: "2006-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-06-07"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DE LA COMISION FORESTAL, PUBLICADO EN EL D.O.F. DE 7 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de julio de 2001.
 
@@ -822,3 +824,15 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
 TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno de la Comisión Nacional Forestal, en su sesión celebrada en la Ciudad de México, Distrito Federal, el siete de junio de dos mil uno.- El Secretario de Medio Ambiente y Recursos Naturales y Presidente de la Junta de Gobierno de la Comisión Nacional Forestal, Víctor Lichtinger Waisman.- Rúbrica.- El Director General de la Comisión Nacional Forestal, Alberto Cárdenas Jiménez.- Rúbrica.- El Secretario Técnico de la Junta de Gobierno de la Comisión Nacional Forestal, Sergio Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 7 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Nacional Forestal publicado en el Diario Oficial de la Federación el 11 de julio de 2001 y sus modificaciones autorizadas por la Junta de Gobierno.
+
+TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- La CONAFOR, dentro de un plazo de cuatro meses contados a partir de la entrada en vigor del presente Estatuto deberá expedir el Manual de Organización y Funcionamiento de las Unidades Administrativas.
