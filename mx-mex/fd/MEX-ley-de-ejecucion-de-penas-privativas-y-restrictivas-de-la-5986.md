@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2006-08-07"
+last_updated: "2006-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -453,9 +453,11 @@ Durante el período de tratamiento, se sujetará a los internos a las medidas qu
 
 El tratamiento de los internos tendrá como base el trabajo, la capacitación para el mismo y la educación.
 
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 45.
 
-La finalidad inmediata del trabajo, la capacitación para el mismo y la educación, será la de modificar las tendencias e inclinaciones antisociales de los internos, así como facilitar la adquisición de conocimientos que puedan serles útiles en su vida libre.
+La finalidad inmediata del trabajo, la capacitación para el mismo y la educación, será la de modificar las tendencias e inclinaciones antisociales de los internos, así como facilitar la adquisición de conocimientos que puedan serles útiles en su vida libre, por lo que el interno deberá participar de las actividades deportivas, culturales y educativas que se le asignen.
 
 ###### Artículo 46.
 
@@ -525,9 +527,11 @@ e) 10% para la formación del fondo de ahorro del interno.
 
 En el caso de que el interno no tenga dependientes económicos o haya sido absuelto de la reparación del daño, esos porcentajes se aplicarán al fondo de ahorro del interno.
 
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 58.
 
-Los internos que realicen actividades artísticas, profesionales o intelectuales productivas, podrán hacer de éstas si lo desean, su única ocupación, si fueren compatibles con su tratamiento.
+Los internos que realicen actividades artísticas, profesionales o intelectuales productivas, podrán hacer de éstas si lo desean, su única ocupación, si fueran compatibles con su tratamiento, por lo que el Consejo Interno Interdisciplinario deberá aprobar dichas actividades.
 
 ###### Artículo 59.
 
@@ -567,9 +571,11 @@ La documentación de cualquier tipo, que expidan las Autoridades Educativas en l
 
 Cada Centro tendrá un coordinador de área educativa quien será auxiliado del personal docente, tendrá a su cargo la Dirección y Organización de la enseñanza, representará a dicha área en el Consejo Interno Interdisciplinario, sin perjuicio de que existan otros Directores en los demás niveles de enseñanza. A juicio del Area Educativa, algunos internos podrán auxiliar en la tarea docente a los profesores, sin que esto implique posibilidad de mando o superioridad frente a sus compañeros de la comunidad interna.
 
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 66.
 
-En las Centros, los profesores con la participación de los Directores de los mismos, organizarán conferencias, veladas literarias, presentaciones teatrales, funciones de cine, conciertos y eventos deportivos y cívicos. Estas actividades, tienen por objeto reforzar el Sistema de Tratamiento Institucional.
+En los Centros, los profesores con la participación de los Directores de los mismos, organizarán conferencias, veladas literarias, presentaciones teatrales, funciones de cine, conciertos y eventos deportivos y cívicos. Estas actividades, tienen por objeto reforzar el Sistema de Tratamiento Institucional, por lo que la participación de los internos será obligatoria en dichas actividades.
 
 ###### Artículo 67.
 
@@ -952,6 +958,14 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
 
 G.G. 7 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 8 DE AGOSTO DE 2006.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
