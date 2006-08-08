@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-la-vivienda-popular-4818"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2004-06-15"
+last_updated: "2006-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2006.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el miércoles 31 de diciembre de 1975.
 
@@ -43,13 +43,11 @@ LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR.
 
 DEL OBJETO Y DENOMINACION DEL INSTITUTO.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO PRIMERO.
 
-Se crea el Instituto Estatal de la Vivienda Popular como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, que estará sectorizado a la Secretaría de Planeación y Desarrollo.
-
-El organismo que se crea tendrá su domicilio en la ciudad de Saltillo, sin perjuicio de que pueda contar con oficinas en otras ciudades de la entidad.
+Se crea el Instituto Estatal de la Vivienda Popular como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, que estará sectorizado a la Secretaría de Desarrollo Social.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1990)</small>
 
@@ -193,9 +191,9 @@ El Director y los Subdirectores de Area del Instituto serán designados y removi
 
 El Consejo de Administración del Instituto se integrará de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2006)</small>
 
-I. Por un Presidente, que será el Secretario de Planeación y Desarrollo del Gobierno del Estado.
+I.- Por un Presidente que será el Secretario de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
 
@@ -209,15 +207,17 @@ a).- El Secretario de Gobierno;
 
 b).- El Secretario de Finanzas;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2006)</small>
 
-c).- El Secretario de Urbanismo y Obras Públicas;
+c).- El Secretario de Obras Públicas y Transporte;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2006)</small>
 
-d).- El Secretario de Desarrollo Social;
+d).- El Secretario de Fomento Económico;
 
-e).- El Secretario de la Contraloría y Modernización Administrativa;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2006)</small>
+
+e).- El Secretario de la Función Pública;
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
 
@@ -524,3 +524,9 @@ P.O. 15 DE JUNIO DE 2004.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en este decreto.
+
+P.O. 8 DE AGOSTO DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
