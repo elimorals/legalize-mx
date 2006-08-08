@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-07-03"
+last_updated: "2006-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,37 +18,39 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER LA CUOTA ADICIONAL PARA IMPORTAR MAIZ AMARILLO, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA EN EL AÑO 2006
+AVISO MEDIANTE EL CUAL SE SOLICITAN COMENTARIOS RESPECTO A UNA POSIBLE ADECUACION DE CIERTAS REGLAS DE ORIGEN ESTABLECIDAS EN EL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 3 de julio de 2006.
+Aviso publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de agosto de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía y FRANCISCO JAVIER MAYORGA CASTAÑEDA, Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 y 35 de la Ley Orgánica de la Administración Pública Federal; artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2006; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía; 1o. y 6o. del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en el capítulo IV y artículo 102 del Tratado de Libre Comercio de América del Norte; y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 5o. fracciones IV y X de la Ley de Comercio Exterior; y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte establece un monto, determinado como mínimo, a importar dentro de un arancel-cuota para las importaciones de maíz de los Estados Unidos de América o Canadá, que puede ser incrementado de acuerdo a necesidades de abasto nacional;
+Que el Tratado de Libre Comercio de América del Norte (el "TLCAN") fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, y sus reformas del 5 de agosto y 1o. de diciembre de 2004;
+Que el artículo 102 del TLCAN establece como objetivos, entre otros, la eliminación de obstáculos al comercio, la facilitación de la circulación transfronteriza de los bienes y servicios entre los territorios de las Partes, el aumento sustancial de las oportunidades de inversión en las Partes y el establecimiento de lineamientos para la ulterior cooperación trilateral encaminada a ampliar y mejorar los beneficios del TLCAN;
 
-Que la producción nacional de maíz y el cupo mínimo para importar en el año 2006 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, no son suficientes para abastecer la demanda nacional;
+Que es posible alcanzar los objetivos antes mencionados al proporcionar a las empresas flexibilidad para que sus procesos de manufactura se puedan ajustar con el objetivo de fomentar su capacidad competitiva y eficiencia de la producción con relación a insumos cuya producción ya no existe o está disminuyendo en América del Norte, procesos de transformación usuales a nivel internacional en respuesta a las tecnologías desarrolladas en los últimos años y atender la imposibilidad de las Partes para llevar a cabo la producción de ciertos insumos para los cuales no es posible generar condiciones de operación económicamente rentables y competitivas;
 
-Que la disponibilidad de maíz y granos forrajeros indica que se requiere importar maíz amarillo en un monto superior a la cuota mínima disponible, a fin de cubrir los requerimientos de los sectores que utilizan este grano en sus procesos productivos, por lo que es necesario aplicar el presente incremento a la cuota mínima negociada en el marco del Tratado de Libre Comercio con América del Norte;
+Que el 23 de marzo de 2005 los Presidentes de México, Canadá y los Estados Unidos de América establecieron la Alianza para la Seguridad y Prosperidad de América del Norte (la "ASPAN") a fin de desarrollar nuevos medios de cooperación para expandir las oportunidades de negocios y mejorar la competitividad de las empresas en la región;
 
-Que en el artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que el Ejecutivo Federal creará una reserva de cuota mínima, para cubrir los requerimientos de maíz blanco para el 2o. semestre de 2006; la cual, por estar etiquetada para los consumidores de esta variedad específica de grano, no interferirá con la asignación de cuotas adicionales para los solicitantes de cupo de maíz amarillo;
+Que la agenda para la prosperidad de la ASPAN determina que las mejoras en la competitividad y en la calidad de vida se lograrán, entre otros, mediante una reducción de los costos del comercio y cuya disminución tendrá como base la circulación eficiente de bienes, particularmente a través de una disminución de los costos de cumplimiento de las reglas específicas de origen establecidas en el TLCAN;
 
-Que en el artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las partes en los tratados de libre comercio, la Secretaría de Economía y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
+Que el capítulo IV del TLCAN establece las disciplinas en materia de reglas de origen que los bienes de las Partes deberán cumplir para ser considerados bienes originarios de la región del TLCAN y, por lo tanto, beneficiarse de las preferencias arancelarias previstas en las listas de desgravación de cada una de las Partes;
 
-Que en el artículo sexto transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que en lo referente a la importación de maíz amarillo se asegurará no poner en riesgo el suministro de materia prima a los consumidores industriales, pecuarios y formuladores de alimentos balanceados, a la vez que se atiendan los legítimos intereses de los productores primarios. En el marco de estas consideraciones, las cuotas mínimas y adicionales se asignarán preferentemente a los consumidores de la industria, sector pecuario y de alimentos balanceados que utilizan maíz amarillo.
+Que como resultado del mandato de la ASPAN en el Reporte a los Mandatarios de junio de 2005 se establece una serie detallada de acciones y recomendaciones diseñadas para mejorar la competitividad y como parte de los temas de mayor impacto que contribuirán a la fortaleza económica de la región se identifica el plan de trabajo para facilitar el libre comercio mediante la adecuación de las reglas específicas de origen;
 
-Que el 16 de junio de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece un arancel-cupo a las importaciones adicionales de maíz amarillo durante 2006, para las mercancías originarias del Tratado de Libre Comercio de América del Norte;
+Que con base en dicho plan las autoridades competentes de México, Canadá y los Estados Unidos de América en el marco del Grupo de Trabajo sobre Reglas de Origen (el "Grupo"), realizaron un proceso de análisis con su respectiva industria, la cual identificó los bienes cuya producción se puede incentivar mediante la adecuación de la regla específica de origen y como resultado de dicho análisis se elaboró conjuntamente con la industria nacional una propuesta mexicana de adecuación de reglas de origen, y
 
-Que el procedimiento de asignación de la cuota adicional de importación de maíz amarillo, excepto para siembra, es un instrumento de la política sectorial para el abasto nacional, y
+Que la citada propuesta fue consultada, a su vez, con las industrias de las otras Partes mediante el Grupo, el cual con base en los casos donde se presentaron coincidencias a nivel trilateral para adecuar la regla específica de origen acordó, en principio, la adecuación de ciertas reglas de origen que pueden permitir alcanzar mayores niveles de producción, inversión y empleo al crear nuevas oportunidades de negocios y fortalecimiento de las exportaciones, y que las Partes procederán con base al consenso de los sectores interesados en los tres países, he tenido a bien expedir el siguiente:
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, hemos tenido a bien expedir el siguiente:
+AVISO MEDIANTE EL CUAL SE SOLICITAN COMENTARIOS RESPECTO A UNA POSIBLE ADECUACION DE CIERTAS REGLAS DE ORIGEN ESTABLECIDAS EN EL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-ACUERDO POR EL QUE SE DA A CONOCER LA CUOTA ADICIONAL PARA IMPORTAR MAIZ AMARILLO, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA EN EL AÑO 2006
+Se invita a las personas físicas o morales cuya actividad económica corresponda a la producción de bienes a presentar comentarios, por conducto de las cámaras y/o asociaciones industriales específicas, con circunscripción nacional o regional, representativas del sector productivo al que pertenezcan, sobre la adecuación de ciertas reglas específicas de origen establecidas en el Anexo 401 del TLCAN que se indican a continuación:
+
+Pescados y crustáceos
 
 ###### ARTICULO PRIMERO.
 
@@ -72,75 +74,581 @@ Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuent
 
 El cumplimiento de lo dispuesto en el presente Acuerdo no exime del cumplimiento de cualquier otro requisito o regulación a los que esté sujeta la importación o exportación de mercancías, según corresponda, conforme a las disposiciones legales aplicables.
 
-### CAPITULO I - DISPOSICIONES GENERALES
+### Capítulo 3: Eliminar la regla de origen aplicable a la partida 03.01-03.07 y reemplazarla con las siguientes reglas:
 
-### CAPITULO II - COOPERACION Y COORDINACION
+03.01- 03.04 Un cambio a la partida 03.01 a 03.04 de cualquier otro Capítulo.
 
-### Capítulo VIII Políticas en Materia de Competencia, Monopolios y Empresas del Estado
+0305.10-0305.30 Un cambio a bienes salados o secos de la subpartida 0305.10 a 0305.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, siempre que un bien de la subpartida 0305.20 a 0305.30 que haya sufrido un proceso de salado tenga un contenido mínimo de sal de 18 por ciento; o
 
-### CAPITULO IV. DE LA DETERMINACION Y APLICACION DEL CONTENIDO NACIONAL EN LOS PROCEDIMIENTOS DE CONTRATACION DE OBRAS PUBLICAS
+Un cambio a cualquier otro bien de la subpartida 0305.10 a 0305.30 de cualquier otro Capítulo.
 
-TRIGESIMA.- Es posible reservar de la aplicación del Tratado un proyecto llave en mano, un proyecto integral o un proyecto de infraestructura productiva de impacto diferido en el registro del gasto público y realizar el procedimiento de contratación, con carácter nacional o internacional, exento de la cobertura del Tratado, a cuenta de la reserva transitoria, requiriendo la incorporación de materiales (diferentes a los de la construcción), maquinaria y equipo de instalación permanente de fabricación nacional, por un porcentaje del valor total del proyecto, que puede variar según las consideraciones de la dependencia o entidad contratante atendiendo al análisis técnico de cada proyecto y a las circunstancias en que se encuentre la oferta nacional de dichos bienes.
+0305.41-0305.49 Un cambio a la subpartida 0305.41 a 0305.49 de cualquier otro Capítulo.
 
-La Dirección podrá apoyar a la dependencia o entidad contratante, previa consulta por escrito, en la determinación de los bienes que conformarán el contenido nacional del proyecto.
+0305.51 Un cambio a la subpartida 0305.51 de cualquier otra subpartida.
 
-TRIGESIMAPRIMERA.- El contenido nacional por proyecto a que se refiere la Regla Trigésima se determinará con base en alguna de las siguientes expresiones:
+0305.59 Un cambio a Melanogrammus aeglefinus de la subpartida 0305.59 de cualquier otra subpartida; o
 
-CNP1 = VSN VP *100
+Un cambio a cualquier otro bien de la subpartida 0305.59 de cualquier otro Capítulo.
 
-CNP2 = VSN VTP *100
+0305.61 Un cambio a la subpartida 0305.61 de cualquier otro Capítulo.
 
-En donde:
+0305.62 Un cambio a la subpartida 0305.62 de cualquier otra subpartida, siempre que el bien tenga un contenido mínimo de sal de 18 por ciento.
 
-CNPn = Contenido nacional mínimo del proyecto correspondiente, expresado en porcentaje.
+0305.63 Un cambio a la subpartida 0305.63 de cualquier otro Capítulo.
 
-VSN = Valor de los materiales (diferentes a los de la construcción), maquinaria y equipo de instalación permanente, de fabricación nacional, en el proyecto correspondiente.
+0305.69 Un cambio a Pollachius virens o Melanogrammus aeglefinus de la subpartida 0305.69 de cualquier otra subpartida, siempre que el bien tenga un contenido mínimo de sal de 18 por ciento; o
 
-VP = Valor de la procura del proyecto.
+Un cambio a cualquier otro bien de la subpartida 0305.69 de cualquier otro Capítulo.
 
-VTP = Valor total del proyecto que incluye el valor de la ingeniería, de la obra civil y de los suministros.
+0306.11-0306.14 Un cambio a la subpartida 0306.11 a 0306.14 de cualquier otro Capítulo.
 
-TRIGESIMASEGUNDA.- Es factible también establecer requisitos de contenido local para licitaciones internacionales de estos proyectos bajo la cobertura del Tratado acordes a las disposiciones contenidas en el numeral 6 de la Lista de México contenida en el Anexo 1001.2b del Capítulo X del propio Tratado.
+0306.19 Un cambio a la subpartida 0306.19 de cualquier otra subpartida, excepto de la subpartida 0306.29.
 
-TRIGESIMATERCERA.- Para reservar contratos de estos proyectos o para imponer requisitos de contenido local en los mismos, la dependencia o entidad contratante consultará a la Dirección por escrito, especificando las características del proyecto y su propuesta de contenido nacional, en la cual deberá considerar preferentemente los bienes descritos en el Anexo B del presente Acuerdo, para que se determine la reserva del contrato con la inclusión de un porcentaje de contenido nacional o bien las opciones para exigir los requisitos de contenido local en los términos de los párrafos previos.
+0306.21-0306.22 Un cambio a crustáceos secos de la subpartida 0306.21 a 0306.22, pelados o sin pelar, de crustáceos de la misma subpartida o cualquier otro Capítulo; o
 
-TRIGESIMACUARTA.- Los materiales (diferentes a los de la construcción), maquinaria y equipo de instalación permanente, que conformen el contenido nacional de los proyectos, deberán cumplir con las disposiciones contenidas en el Acuerdo por el que se establecen las reglas para la determinación y acreditación del grado de contenido nacional, tratándose de procedimientos de contratación de carácter nacional, publicado en el Diario Oficial de la Federación el 3 de marzo de 2000.
+Un cambio a cualquier otro bien de la subpartida 0306.21 a 0306.22 de cualquier otro Capítulo.
 
-El licitante deberá manifestar por escrito, bajo protesta de decir verdad, que los materiales (diferentes a los de la construcción), maquinaria y equipo, que constituyan el contenido nacional del proyecto, cumplen con las reglas contenidas en el Acuerdo citado en el párrafo previo.
+0306.23 Un cambio a la subpartida 0306.23 de cualquier otro Capítulo.
 
-La Dirección, conjuntamente con la dependencia o entidad contratante, podrá llevar a cabo la verificación del cumplimiento del contenido nacional del proyecto.
+0306.24 Un cambio a cangrejos secos de la subpartida 0306.24, pelados o sin pelar, de cangrejos de la misma subpartida o cualquier otro Capítulo; o
 
-TRIGESIMAQUINTA.- La dependencia o entidad contratante podrá establecer condiciones adicionales en las bases de los procedimientos de contratación de los proyectos que permitan garantizar el cumplimiento del contenido nacional establecido, en el marco de la normatividad vigente de la materia.
+Un cambio a cualquier otro bien de la subpartida 0306.24 de cualquier otro Capítulo.
 
-TRIGESIMASEXTA.- Para la determinación del contenido nacional de las obras públicas, las dependencias, empresas de participación estatal mayoritaria, órganos desconcentrados, organismos descentralizados y entidades de la Administración Pública Federal, que no se encuentren contenidos en las Listas de México, ubicadas en los anexos 1001.1a-1 y 1001.1a-2 del Capítulo de Compras del Sector Público del Tratado de Libre Comercio de América del Norte, podrán aplicar, en lo conducente, lo dispuesto en las reglas del presente Capítulo, sin que tengan la obligación de consultar a la Dirección.
+0306.29 Un cambio a la subpartida 0306.29 de cualquier otra subpartida, excepto de la subpartida 0306.19.
 
-#### SECCION I: ELIMINACION ARANCELARIA
+0307.10-0307.99 Un cambio a bienes secos de la subpartida 0307.10 a 0307.99 de cualquier otro bien de la subpartida 0307.10 a 0307.99 o cualquier otro Capítulo;
 
-2.- De conformidad con lo dispuesto en la presente Resolución, se otorgará trato arancelario preferencial a los bienes importados a territorio nacional que cumplan con las reglas de origen y demás disposiciones aplicables del Tratado.
+Un cambio a harina, polvo y “pellets” de la subpartida 0307.99 de cualquier otra subpartida; o
 
-3.- Para efectos de lo dispuesto en el Anexo 302.2 del Tratado, no procederá la aplicación de la tasa arancelaria preferencial que corresponda conforme a dicho Anexo a un bien originario que se importe a territorio nacional, no obstante que se cumpla con los requisitos y obligaciones establecidos en el artículo 502 del Tratado y en la regla 25 de la presente Resolución, en los siguientes casos:
+Un cambio a cualquier otro bien de la subpartida 0307.10 a 0307.99 de cualquier otro Capítulo.
 
-I.- Cuando la aplicación del arancel preferencial a la importación de un bien no estuviera respaldada con los documentos necesarios que comprueben la ruta de envío y todos los lugares de embarque y transbordo del bien anteriores a su importación a territorio nacional, tales como facturas, guías o conocimientos de embarque o guías aéreas.
+Hierbas y Condimentos:
 
-II.- Tratándose de algún bien que hubiera sido enviado a través de, o que hubiera sido objeto de transbordo en el territorio de algún país que no sea Parte del Tratado, cuando el importador del bien no proporcione, a solicitud de la autoridad aduanera, una copia de los documentos de control aduanero que comprueben que el bien permaneció bajo control aduanero en el territorio de dicho país.
+Mejorana, Col Rizada y Cilantro
 
-4.- Salvo disposición en contrario, para los efectos de lo dispuesto en los Anexos 302.2 y 300-B del Tratado, la tasa arancelaria preferencial aplicable a un bien originario que se importe a territorio nacional, se determinará conforme a lo dispuesto en los párrafos (10) y (11) del Anexo 302.2 y en el párrafo 2(b), de la Sección 2, del Anexo 300-B del Tratado, con base en las reglas de marcado establecidas de conformidad con el Anexo 311 del Tratado, cuando los materiales utilizados en la producción del bien se hubieran obtenido de, o el procesamiento del bien se hubiera efectuado en el territorio de una de las Partes, excepto en territorio nacional o en la Parte de cuyo territorio se hubiera exportado el bien.
+### Capítulo 7, 0712.90: Eliminar la regla de origen aplicable a la partida 07.01-07.14 y reemplazarla con las siguientes reglas:
 
-En cualquier otro caso, la tasa arancelaria preferencial aplicable a un bien originario importado a territorio nacional, será la que corresponda a la Parte de cuyo territorio se hubiera exportado el bien, siempre que el bien hubiera sido mejorado en su condición o incrementado en su valor en el territorio de dicha Parte.
+07.01-07.11 Un cambio a la partida 07.01 a 07.113 de cualquier otro Capítulo.
 
-5.- Para los efectos de los Anexos 302.2 y 300-B del Tratado, no será aplicable lo dispuesto en los párrafos (10) y (11) del Anexo 302.2 y en el párrafo 2(b), de la Sección 2, del Anexo 300-B del Tratado, cuando se otorgue trato libre de arancel a las otras Partes, respecto de un bien originario que se importe a territorio nacional.
+0712.10-0712.20 Un cambio a la subpartida 0712.10 a 0712.20 de cualquier otro Capítulo.
 
-6.- Para efectos de lo dispuesto en la Lista de Desgravación de México, contenida en la Sección B del Anexo 302.2 y demás disposiciones del Tratado, en la presente Resolución y en otros ordenamientos aplicables, cuando se haga referencia a "productos calificados" se estará a lo dispuesto en el artículo 703 y en el Anexo 703.2 del Tratado. Para tales efectos, se estará a lo siguiente:
+0712.90 Un cambio a mejorana, col rizada o cilantro, triturado o pulverizado, de la subpartida 0712.90 de mejorana, col rizada o cilantro, sin triturar o pulverizar, de la subpartida 0712.90 o cualquier otro Capítulo; o
 
-I.- Se aplicará la Sección A (México y Estados Unidos) cuando se trate de productos calificados de los Estados Unidos de América, esto es, de un producto agropecuario que sea originario, excepto que, para determinar si tal producto es originario, las operaciones efectuadas en, o los materiales obtenidos de Canadá, se considerarán como si fueran efectuadas en, u obtenidos de un país no Parte del Tratado.
+Un cambio a cualquier otro bien de la subpartida 0712.90 de cualquier otro Capítulo.
 
-II.- Se aplicará la Sección B (México y Canadá) cuando se trate de productos calificados de Canadá, esto es, de un producto agropecuario que sea originario, excepto que, para determinar si tal producto es originario, las operaciones efectuadas en, o los materiales obtenidos de los Estados Unidos de América, se considerarán como si fueran efectuadas en, u obtenidos de un país no Parte del Tratado.
+07.13-07.14 Un cambio a la partida 07.13 a 07.14 de cualquier otro Capítulo.
 
-7.- Para los efectos de lo dispuesto en la regla 6 de la presente Resolución, así como en materia de regulaciones y restricciones no arancelarias, conforme a lo establecido en el propio Tratado, para efectos del llenado del certificado de origen se estará a lo siguiente:
+Pimienta de Jamaica
 
-I.- Tratándose de productos calificados de los Estados Unidos de América, el criterio para trato preferencial deberá ser F(A).
+### Capítulo 9, 0904.20: Eliminar la regla de origen aplicable a la subpartida 0904.20 y reemplazarla con las siguientes reglas:
 
-II.- Tratándose de productos calificados de Canadá, el criterio para trato preferencial deberá ser F(B).
+0904.20 Un cambio a pimienta de jamaica, triturada o pulverizada, de la subpartida 0904.20 de pimienta de jamaica, sin triturar o pulverizar, de la subpartida 0904.20 o cualquier otro Capítulo; o
+
+Un cambio a cualquier otro bien de la subpartida 0904.20 de cualquier otro Capítulo.
+
+Tomillo; Hojas de Laurel
+
+### Capítulo 9, 0910.40: Eliminar la regla de origen aplicable a la subpartida 0910.40 y reemplazarla con las siguientes reglas:
+
+0910.40 Un cambio a un bien, triturado o pulverizado, de la subpartida 0910.40 de un bien, sin triturar o pulverizar, de la subpartida 0910.40 o cualquier otro Capítulo; o
+
+Un cambio a cualquier otro bien de la subpartida 0910.40 de cualquier otro Capítulo.
+
+Semilla de apio; Albahaca, Romero y Salvia
+
+### Capítulo 12, 1209.91: Eliminar la regla de origen aplicable a la partida 12.08-12.14 y reemplazarla con las siguientes reglas:
+
+12.08 Un cambio a la partida 12.08 de cualquier otro Capítulo.
+
+1209.10-1209.30 Un cambio a la subpartida 1209.10 a 1209.30 de cualquier otro Capítulo.
+
+1209.91 Un cambio a semillas de apio, trituradas o pulverizadas, de la subpartida 1209.91 de semilla de apio, sin triturar o pulverizar, de la subpartida 1209.91 o cualquier otro Capítulo; o
+
+Un cambio a cualquier otro bien de la subpartida 1209.91 de cualquier otro Capítulo.
+
+1209.99 Un cambio a la subpartida 1209.99 de cualquier otro Capítulo.
+
+12.10 Un cambio a la partida 12.10 de cualquier otro Capítulo.
+
+1211.10-1211.40 Un cambio a la subpartida 1211.10 a 1211.40 de cualquier otro Capítulo.
+
+1211.90 Un cambio a albahaca, romero o salvia, triturada o pulverizada, de la subpartida 1211.90 de albahaca, romero o salvia, sin triturar o pulverizar, de la subpartida 1211.90 o cualquier otro Capítulo; o
+
+Un cambio a cualquier otro bien de la subpartida 1211.90 de cualquier otro Capítulo.
+
+12.12-12.14 Un cambio a la partida 12.12 a 12.14 de cualquier otro Capítulo.
+
+Aceites de Pescado
+
+### Capítulo 15, 1517.90: Eliminar la regla de origen aplicable a la partida 15.01-15.18 y reemplazarla con las siguientes reglas:
+
+15.01-15.16 Un cambio a la partida 15.01 a 15.16 de cualquier otro Capítulo, excepto de la partida 38.23.
+
+1517.10 Un cambio a la subpartida 1517.10 de cualquier otro Capítulo, excepto de la partida 38.23.
+
+1517.90 Un cambio a cápsulas de aceite de pescado de la subpartida 1517.90 de aceite de pescado sin encapsular de la subpartida 1517.90 o cualquier otro Capítulo; o
+
+Un cambio a cualquier otro bien de la subpartida 1517.90 de cualquier otro Capítulo, excepto de la partida 38.23.
+
+15.18 Un cambio a la partida 15.18 de cualquier otro Capítulo, excepto de la partida 38.23.
+
+Preparaciones alimenticias, e.g., Mezclas Aromatizadas, Sopas, Salsas y Preparaciones
+
+### Capítulo 21, 2103.90, 21.04, 2106.90: Eliminar la segunda regla de origen aplicable a la subpartida 2103.90 y la regla de origen aplicable a partida 21.04, fracción arancelaria 2106.90.dd y partida 21.06 y reemplazarla con las siguientes reglas:
+
+2103.90 Un cambio a cualquier otro bien de la subpartida 2103.90 de levaduras de la subpartida 2106.90 o cualquier otra partida, excepto de cualquier otro bien de la partida 21.06.
+
+21.04 Un cambio a la partida 21.04 de levaduras de la subpartida 2106.90 o cualquier otra partida, excepto de cualquier otro bien de la partida 21.06.
+
+21.06
+
+2106.90.dd Un cambio a fracción arancelaria 2106.90.dd de levaduras de la subpartida 2102.10, 2102.20 o 2106.90 o cualquier otro Capítulo, excepto del Capítulo 4 o fracción arancelaria 1901.90.aa.
+
+21.06 Un cambio a cualquier otro bien de la partida 21.06 de levaduras de la subpartida 2102.10, 2102.20 o 2106.90 o cualquier otro Capítulo.
+
+Aceites, Aceites de Petróleo y Betunes
+
+### Capítulo 27:
+
+1. Agregar la siguiente nota:
+
+Nota 1: En la partida 27.07, se entiende por “reacción química” al proceso (incluidos los procesos bioquímicos) que produce una molécula con una nueva estructura mediante la ruptura de enlaces intramoleculares y la formación de nuevos enlaces intramoleculares, o mediante el cambio de la disposición espacial de los átomos de una molécula.
+
+Para propósito de esta definición no se considera reacción química:
+
+(a) la disolución en agua u otros solventes;
+
+(b) la eliminación de disolventes, incluso el agua de disolución; o
+
+(c) la adición o eliminación del agua de cristalización.
+
+2. Renumerar la nota actual de Capítulo como Nota 2.
+
+3. Agregar la siguiente nota:
+
+Nota 3: En la partida 27.10, “mezcla directa” es un proceso de refinación en el cual mezclas de petróleo de diferentes unidades de procesamiento y componentes almacenados en tanques se combinan para crear un producto terminado, con parámetros pre-determinados, clasificados en la partida 27.10, siempre que el material no originario no constituya más del 25 por ciento del volumen del bien.
+
+4. Adecuar las siguientes reglas de origen:
+
+27.05-27.09: Eliminar la regla de origen aplicable a la partida 27.05-27.09 y reemplazarla con las siguientes reglas:
+
+27.05-27.06 Un cambio a la partida 27.05 a 27.06 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+
+2707.10-2707.99 Un cambio a la subpartida 2707.10 a 2707.99 de cualquier otra partida; o
+
+Un cambio a la subpartida 2707.10 a 2707.99 de cualquier otra subpartida dentro de la partida 27.07, habiendo o no cambios de cualquier otra partida, siempre que el bien que resulte de dicho cambio sea el producto de una reacción química.
+
+27.08-27.09 Un cambio a la partida 27.08 a 27.09 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+
+27.10: Eliminar la regla de origen aplicable a partida 27.10 y reemplazarla con las siguientes reglas:
+
+27.10 Un cambio a la partida 27.10 de cualquier otra partida, excepto de la partida 27.11 a 27.15;
+
+Producción de cualquier bien de la partida 27.10 como resultado de la destilación atmosférica, destilación al vacío, hidroprocesamiento catalítico, reformado catalítico, alquilación, craqueo catalítico, craqueo térmico, coqueo o isomerización; o
+
+Producción de cualquier bien de la partida 27.10 como resultado de la mezcla directa, siempre que (1) el material no originario se clasifique en el Capítulo 27, (2) ningún componente de ese material no originario se clasifique en la partida 22.07, y (3) el material no originario no constituya más del 25 por ciento del volumen del bien.
+
+27.11-27.15: Eliminar la regla de origen aplicable a la partida 27.11-27.15 y reemplazarla con las siguientes reglas:
+
+2711.11 Un cambio a un bien de la subpartida 2711.11 de cualquier otro bien de dicha subpartida o cualquier otra subpartida, siempre que la carga de alimentación no originaria no constituya más del 49 por ciento del volumen del bien.
+
+2711.12-2711.14 Un cambio a un bien de la subpartida 2711.12 a 2711.14 de cualquier otro bien de dicha subpartida o cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, siempre que la carga de alimentación no originaria no constituya más del 49 por ciento del volumen del bien.
+
+2711.19 Un cambio a la subpartida 2711.19 de cualquier otra subpartida, excepto de la subpartida 2711.29.
+
+2711.21 Un cambio a la subpartida 2711.21 de cualquier otra subpartida, excepto de la subpartida 2711.11.
+
+2711.29 Un cambio a la subpartida 2711.29 de cualquier otra subpartida, excepto de la subpartida 2711.12 a 2711.21.
+
+27.12 Un cambio a la partida 27.12 de cualquier otra partida.
+
+2713.11-2713.12 Un cambio a la subpartida 2713.11 a 2713.12 de cualquier otra partida.
+
+2713.20 Un cambio a un bien de la subpartida 2713.20 de cualquier otro bien de dicha subpartida o cualquier otra subpartida, siempre que la carga de alimentación no originaria no constituya más del 49 por ciento del volumen del bien.
+
+2713.90 Un cambio a la subpartida 2713.90 de cualquier otra partida, excepto de la partida 27.10 a 27.12, subpartida 2713.11 a 2713.20 o partida 27.14 a 27.15.
+
+27.14 Un cambio a la partida 27.14 de cualquier otra partida.
+
+27.15 Un cambio a la partida 27.15 de cualquier otra partida, excepto de la subpartida 2713.20 o partida 27.14.
+
+Cuero
+
+### Capítulo 41, 41.14: Eliminar la regla de origen aplicable a la partida 41.14 y reemplazarla con la siguiente regla:
+
+41.14 Un cambio a la partida 41.14 de la partida 41.01 a 41.03, subpartida 4105.10, 4106.21, 4106.31 o 4106.91 o cualquier otro Capítulo.
+
+Boxers de algodón
+
+6207.11: Eliminar la regla de origen aplicable a la partida 62.06-62.10 y reemplazarla con las siguientes reglas:
+
+62.06 Un cambio a la partida 62.06 de cualquier otro Capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11, Capítulo 54 o partida 55.08 a 55.16, 58.01 a 58.02 o 60.01 a 60.06, siempre que el bien esté cortado y cosido o de otra manera ensamblado en territorio de una o más de las Partes.
+
+6207.11 Nota: Los boxers de algodón, para hombres o niños, se considerarán como originarios siempre y cuando sean cortados y cosidos o de otra manera ensamblados en territorio de una o más de las Partes y si la tela de ligamento tafetán de la parte exterior de la prenda, salvo la pretina, es totalmente hecha de una o más de las siguientes:
+
+(a) Tela de la subpartida 5208.41, de hilo teñido, con un contenido de fibra 100 por ciento algodón, de 95 a 100 gramos por metro cuadrado, con número promedio de hilo (1) de 37 a 42 en la cuenta métrica;
+
+(b) Tela de la subpartida 5208.42, de hilo teñido, con un contenido de fibra 100 por ciento algodón, de 100 a 105 gramos por metro cuadrado, con número promedio de hilo de 47 a 53 en la cuenta métrica;
+
+(c) Tela de la subpartida 5208.51, estampada, con un contenido de fibra 100 por ciento algodón, de 93 a 97 gramos por metro cuadrado, con número promedio de hilo de 38 a 42 en la cuenta métrica;
+
+(d) Tela de la subpartida 5208.52, estampada, con un contenido de fibra 100 por ciento algodón, de 112 a 118 gramos por metro cuadrado, con número promedio de hilo de 38 a 42 en la cuenta métrica;
+
+(e) Tela de la subpartida 5210.11, cruda, con un contenido de fibra de 51 a 60 por ciento algodón, de 49 a 40 por ciento poliéster, de 100 a 112 gramos por metro cuadrado, con número promedio de hilo de 55 a 65 en la cuenta métrica;
+
+(f) Tela de la subpartida 5210.41, de hilo teñido, con un contenido de fibra de 51 a 60 por ciento algodón, 49 a 40 por ciento poliéster, de 77 a 82 gramos por metro cuadrado, con número promedio de hilo de 43 a 48 en la cuenta métrica;
+
+(g) Tela de la subpartida 5210.41, de hilo teñido, con un contenido de fibra de 51 a 60 por ciento algodón, 49 a 40 por ciento poliéster, de 85 a 90 gramos por metro cuadrado, con número promedio de hilo de 69 a 75 en la cuenta métrica;
+
+(h) Tela de la subpartida 5210.51, estampada, con un contenido de fibra de 51 a 60 por ciento algodón, 49 a 40 por ciento poliéster, de 107 a 113 gramos por metro cuadrado, con número promedio de hilo de 33 a 37 en la cuenta métrica;
+
+(i) Tela de la subpartida 5210.51, estampada, con un contenido de fibra de 51 a 60 por ciento algodón, 49 a 40 por ciento poliéster, de 92 a 98 gramos por metro cuadrado, con número promedio de hilo de 43 a 48 métrica; o
+
+(j) Tela de la subpartida 5210.51, estampada, con un contenido de fibra de 51 a 60 por ciento algodón, 49 a 40 por ciento poliéster, de 105 a 112 gramos por metro cuadrado, con número promedio de hilo de 50 a 60 en la cuenta métrica.
+
+Un cambio a la subpartida 6207.11 de cualquier otro Capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11, Capítulo 54 o partida 55.08 a 55.16, 58.01 a 58.02 o 60.01 a 60.06, siempre que el bien esté cortado y cosido o de otra manera ensamblado en territorio de una o más de las Partes.
+
+(1) La definición de número promedio de hilo está contenida en la Sección 10 del Anexo 300-B.
+
+6207.19-6207.99 Un cambio a la subpartida 6207.19 a 6207.99 de cualquier otro Capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11, Capítulo 54 o partida 55.08 a 55.16, 58.01 a 58.02 o 60.01 a 60.06, siempre que el bien esté cortado y cosido o de otra manera ensamblado en territorio de una o más de las Partes.
+
+62.08-62.10 Un cambio a la partida 62.08 a 62.10 de cualquier otro Capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11, Capítulo 54 o partida 55.08 a 55.16, 58.01 a 58.02 o 60.01 a 60.06, siempre que el bien esté cortado y cosido o de otra manera ensamblado en territorio de una o más de las Partes.
+
+Aluminio
+
+### Capítulo 76, 76.01-76.03, 76.04-76.06: Eliminar la regla de origen aplicable a la partida 76.01-76.03 y 76.04-76.06 y reemplazarla con las siguientes reglas:
+
+76.01 Un cambio a la partida 76.01 de cualquier otro Capítulo.
+
+76.02 Un cambio a la partida 76.02 de cualquier otra partida.
+
+76.03 Un cambio a la partida 76.03 de cualquier otro Capítulo.
+
+76.04 Un cambio a la partida 76.04 de cualquier otra partida.
+
+76.05 Un cambio a la partida 76.05 de cualquier otra partida, excepto de la partida 76.04; o
+
+Un cambio a la partida 76.05 de la partida 76.04, habiendo o no cambios de cualquier otra partida, siempre que, si se utiliza una barra, el área de la sección transversal de la barra se reduzca por lo menos 50 por ciento.
+
+76.06 Un cambio a la partida 76.06 de cualquier otra partida.
+
+### Capítulo 76, 76.14: Eliminar la regla de origen aplicable a la partida 76.14 y reemplazarla con las siguientes reglas:. 76.14 Un cambio a la partida 76.14 de cualquier otra partida, excepto de la partida 76.05; o
+
+Un cambio a la partida 76.14 de la partida 76.05, habiendo o no cambios de cualquier otra partida, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Motores Diesel
+
+### Capítulo 84, 84.07-84.08: Eliminar la regla de origen aplicable a la partida 84.07-84.08 y reemplazarla con las siguientes reglas:
+
+84.07 Un cambio a la partida 84.07 de cualquier otra partida cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8408.10-8408.20 Un cambio a la subpartida 8408.10 a 8408.20 de cualquier otra partida, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8408.90 Un cambio a la subpartida 8408.90 de cualquier otra partida.
+
+Las Demás Turbinas de Gas y Partes
+
+### Capítulo 84, 8411.11-8411.82, 8411.99: Eliminar la regla de origen aplicable a la subpartida 8411.11-8411.82 y 8411.99 y reemplazarla con las siguientes reglas:
+
+8411.11-8411.82 Un cambio a la subpartida 8411.11 a 8411.82 de cualquier subpartida fuera del grupo.
+
+8411.91 Un cambio a la subpartida 8411.91 de cualquier otra partida.
+
+8411.99 Un cambio a la subpartida 8411.99 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8411.99, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Válvulas
+
+### Capítulo 84, 8481.40-8481.80: Eliminar la regla de origen aplicable a la subpartida 8481.10-8481.80 y reemplazarla con las siguientes reglas:. 8481.10-8481.30 Un cambio a la subpartida 8481.10 a 8481.30 de cualquier otra partida; o
+
+Un cambio a la subpartida 8481.10 a 8481.30 de la subpartida 8481.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8481.40-8481.80 Un cambio a la subpartida 8481.40 a 8481.80 de cualquier otra partida; o
+
+Un cambio a la subpartida 8481.40 a 8481.80 de la subpartida 8481.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 35 por ciento, cuando se utilice el método de costo neto.
+
+Partes de Motores Eléctricos y Generadores
+
+### Capítulo 85, 85.03: Eliminar la regla de origen aplicable a la partida 85.03 y reemplazarla con las siguientes reglas:. 85.03 Un cambio a la partida 85.03 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la partida 85.03, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Transformadores Eléctricos
+
+### Capítulo 85, 8504.10-8504.23, 8504.32-8504.34: Eliminar la regla de origen aplicable a la subpartida 8504.10-8504.34 y reemplazarla con las siguientes reglas:
+
+8504.10 Un cambio a la subpartida 8504.10 de cualquier otra subpartida.
+
+8504.21-8504.23 Un cambio a la subpartida 8504.21 a 8504.23 de la subpartida 8504.90 o cualquier otra partida.
+
+8504.31 Un cambio a la subpartida 8504.31 de cualquier otra partida; o
+
+Un cambio a la subpartida 8504.31 de la subpartida 8504.90, habiendo o no cambios de cualquier otra partida cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+8504.32-8504.34 Un cambio a la subpartida 8504.32 a 8504.34 de la subpartida 8504.90 o cualquier otra partida.
+
+Pilas y Baterías de Pilas
+
+### Capítulo 85, 8506.10-8506.40, 8506.50-8506.80, 8506.90: Eliminar la regla de origen aplicable a la subpartida 8506.10-8506.80, 8506.90 y reemplazarla con las siguientes reglas:
+
+8506.10-8506.40 Un cambio a la subpartida 8506.10 a 8506.40 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+8506.50-8506.80 Un cambio a la subpartida 8506.50 a 8506.80 de cualquier subpartida fuera del grupo.
+
+8506.90 Un cambio a un bien de la subpartida 8506.90 de cualquier otro bien de dicha subpartida o cualquier otra subpartida.
+
+Aparatos Eléctricos de Telefonía
+
+Capítulo 85, 8517.11-8517.90: Eliminar la regla de origen aplicable a la subpartida 8517.11, fracción arancelaria 8517.19.aa, subpartida 8517.19, 8517.21, 8517.22-8517.30, fracción arancelaria 8517.50.aa, 8517.50.bb, subpartida 8517.50, fracción arancelaria 8517.80.aa, subpartida 8517.80, fracción arancelaria 8517.90.aa a 8517.90.gg, subpartida 8517.90 y reemplazarla con las siguientes reglas:
+
+8517.11-8517.80 Un cambio a la subpartida 8517.11 a 8517.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+8517.90 Un cambio a la subpartida 8517.90 de cualquier otra subpartida, o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8517.90, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Giradiscos, Tocadiscos y Reproductores de casetes
+
+### Capítulo 85, 8519.10-8519.99: Eliminar la regla de origen aplicable a la subpartida 8519.10-8519.99 y reemplazarla con la siguiente regla:
+
+8519.10-8519.99 Un cambio a la subpartida 8519.10 a 8519.99 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+Aparatos Emisores de Radiotelefonía
+
+### Capítulo 85, 8525.30, 8525.40: Eliminar la regla de origen aplicable a la subpartida 8525.30 y 8525.40 y reemplazarla con las siguientes reglas:. 8525.30
+
+8525.30.aa Un cambio a fracción arancelaria 8525.30.aa de cualquier otra fracción arancelaria, excepto de la fracción arancelaria 8525.30.bb.
+
+8525.30 Un cambio a la subpartida 8525.30 de cualquier otra subpartida.
+
+8525.40 Un cambio a la subpartida 8525.40 de cualquier otra subpartida.
+
+Aparatos de Radar
+
+### Capítulo 85, 8526.10, 8526.91-8526.92: Eliminar la regla de origen aplicable a la subpartida 8526.10, 8526.91-8526.92 y reemplazarla con la siguiente regla:
+
+8526.10-8526.92 Un cambio a la subpartida 8526.10 a 8526.92 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+Aparatos Receptores de Radiotelefonía
+
+### Capítulo 85, 8527.90: Eliminar la regla de origen aplicable a la subpartida 8527.90 y reemplazarla con la siguiente regla:
+
+8527.90 Un cambio a la subpartida 8527.90 de cualquier otra subpartida.
+
+Televisiones
+
+### Capítulo 85, 8528.12.dd, 8528.12.ee: Eliminar la regla de origen aplicable a la fracción arancelaria 8528.12.dd y 8528.12.ee y reemplazarla con las siguientes reglas:
+
+8528.12.dd Un cambio a la fracción arancelaria 8528.12.dd de la fracción arancelaria 8528.12.gg o cualquier otra partida, excepto de la fracción arancelaria 8540.11.cc, 8540.11.dd o 8540.91.aa.
+
+8528.12.ee Un cambio a la fracción arancelaria 8528.12.ee de la fracción arancelaria 8528.12.gg o cualquier otra partida, excepto de la fracción arancelaria 8540.12.bb o 8540.91.aa.
+
+### Capítulo 85, 8528.21.dd, 8528.21.ee: Eliminar la regla de origen aplicable a la fracción arancelaria 8528.21.dd y 8528.21.ee y reemplazarla con las siguientes reglas:
+
+8528.21.dd Un cambio a fracción arancelaria 8528.21.dd de fracción arancelaria 8528.21.gg o cualquier otra partida, excepto de la fracción arancelaria 8540.11.cc, 8540.11.dd o 8540.91.aa.
+
+8528.21.ee Un cambio a fracción arancelaria 8528.21.ee de fracción arancelaria 8528.21.gg o cualquier otra partida, excepto de la fracción arancelaria 8540.12.bb o 8540.91.aa.
+
+### Capítulo 85, 8528.30.ee: Eliminar la regla de origen aplicable a la fracción arancelaria 8528.30.ee y reemplazarla con la siguiente regla:
+
+8528.30.ee Un cambio a fracción arancelaria 8528.30.ee de la fracción arancelaria 8528.30.gg o cualquier otra partida, excepto de la fracción arancelaria 8540.12.bb o 8540.91.aa.
+
+Aparatos Eléctricos de Señalización Acústica o Visual
+
+### Capítulo 85, 8531.10, 8531.20: Eliminar la regla de origen aplicable a la subpartida 8531.10 y 8531.20 y reemplazarla con la siguiente regla:
+
+8531.10 - 8531.20 Un cambio a la subpartida 8531.10 a 8531.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+Alarmas
+
+### Capítulo 85, Capítulo 85, 8531.80: Eliminar la regla de origen aplicable a la subpartida 8531.80 y reemplazarla con la siguiente regla:
+
+8531.80 Un cambio a la subpartida 8531.80 de cualquier otra subpartida.
+
+Lámparas, Tubos y Válvulas Electrónicos, de cátodo caliente, cátodo frío o fotocátodo
+
+### Capítulo 85, 8540.40-8540.60, 8540.71-8540.79, 8540.81-8540.89: Eliminar la regla de origen aplicable a la subpartida 8540.40-8540.60, 8540.71-8540.79 y 8540.81-8540.89 y reemplazarla con las siguientes reglas:
+
+8540.40-8540.60 Un cambio a la subpartida 8540.40 a 8540.60 de cualquier subpartida fuera del grupo.
+
+8540.71-8540.89 Un cambio a la subpartida 8540.71 a 8540.89 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+Máquinas Eléctricas y Aparatos
+
+### Capítulo 85, 8543.11-8543.19, 8543.20-8543.30 y 8543.40-8543.89: Eliminar la regla de origen aplicable a la subpartida 8543.11-8543.81, fracción arancelaria 8543.89.aa y subpartida 8543.89 y reemplazarla con las siguientes reglas:
+
+8543.11-8543.19 Un cambio a la subpartida 8543.11 a 8543.19 de cualquier subpartida fuera del grupo.
+
+8543.20-8543.30 Un cambio a la subpartida 8543.20 a 8543.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+8543.40-8543.89 Un cambio a la subpartida 8543.40 a 8543.89 de cualquier subpartida fuera del grupo.
+
+Conductores Aislados
+
+### Capítulo 85, 8544.51: Eliminar la regla de origen aplicable a la subpartida 8544.11-8544.60 y reemplazarla con las siguientes reglas:. 8544.11-8544.60 Un cambio a la subpartida 8544.11 a 8544.60 de cualquier subpartida fuera del grupo; o
+
+Un cambio a la subpartida 8544.11 a 8544.60 de cualquier otra subpartida dentro del grupo, habiendo o no cambios de cualquier subpartida fuera del grupo, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 35 por ciento, cuando se utilice el método de costo neto.
+
+Locomotoras y locotractores
+
+### Capítulo 86, 86.01, 86.02: Eliminar la regla de origen aplicable a la partida 86.01-86.06 y reemplazarla con las siguientes reglas:
+
+86.01-86.02 Un cambio a la partida 86.01 a 86.02 de cualquier otra partida.
+
+86.03-86.06 Un cambio a la partida 86.03 a 86.06 de cualquier otra partida, incluyendo otra partida dentro del grupo, excepto de la partida 86.07; o
+
+Un cambio a la partida 86.03 a 86.06 de la partida 86.07, habiendo o no cambios de cualquier otra partida, incluyendo otra partida dentro del grupo, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Bojes y “bissels”
+
+### Capítulo 86, 8607.11-8607.12: Eliminar la regla de origen aplicable a la subpartida 8607.11-8607.12 y reemplazarla con la siguiente regla:
+
+8607.11-8607.12 Un cambio a la subpartida 8607.11 a 8607.12 de cualquier subpartida fuera del grupo.
+
+Partes de Locomotoras y Locotractores
+
+### Capítulo 86, 8607.21-8607.99: Eliminar la regla de origen aplicable a la subpartida 8607.21-8607.99 y reemplazarla con las siguientes reglas:. 8607.21-8607.99 Un cambio a la subpartida 8607.21 a 8607.99 de cualquier otra partida; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 8607.21 a 8607.99, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Electrocardiógrafos; sus partes y accesorios
+
+Capítulo 90, 9018.11-9018.90: Eliminar la regla de origen aplicable a la fracción arancelaria 9018.11.aa, subpartida 9018.11, 9018.12-9018.14, fracción arancelaria 9018.19.aa, subpartida 9018.19, 9018.20-9018.50, fracción arancelaria 9018.90.aa y subpartida 9018.90 y reemplazarla con la siguiente regla:
+
+9018.11-9018.90 Un cambio a un bien de la subpartida 9018.11 a 9018.90 de cualquier otro bien dentro de dicha subpartida o de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+Aparatos para Uso Médico
+
+### Capítulo 90, 9022.12-9022.30: Eliminar la regla de origen aplicable a la subpartida 9022.12-9022.14, 9022.19, 9022.21, 9022.29-9022.30 y reemplazarla con las siguientes reglas:. 9022.12-9022.30 Un cambio a la subpartida 9022.12 a 9022.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo; o
+
+No se requiere cambio de clasificación arancelaria a la subpartida 9022.12 a 9022.30, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+Hidrómetros e Instrumentos Similares de Flotación
+
+### Capítulo 90, 9025.11-9025.80: Eliminar la regla de origen aplicable a la subpartida 9025.11-9025.80 y reemplazarla con las siguientes reglas:. 9025.11-9025.80 Un cambio a la subpartida 9025.11 a 9025.80 de cualquier otra partida; o
+
+Un cambio a la subpartida 9025.11 a 9025.80 de la subpartida 9025.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 35 por ciento, cuando se utilice el método de costo neto.
+
+Otros Instrumentos y Aparatos para Análisis Químico o Físico
+
+### Capítulo 90, 9027.80: Eliminar la regla de origen aplicable a la fracción arancelaria 9027.80.aa y subpartida 9027.80 y reemplazarla con la siguiente regla:
+
+9027.80 Un cambio a la subpartida 9027.80 de cualquier otra subpartida.
+
+Instrumentos para Regulación o Control Automáticos
+
+### Capítulo 90, 9032.10: Eliminar la regla de origen aplicable a la subpartida 9032.10 y reemplazarla con las siguientes reglas:. 9032.10 Un cambio a la subpartida 9032.10 de cualquier otra partida; o
+
+Un cambio a un bien de la subpartida 9032.10 de cualquier otro bien de dicha subpartida o subpartida 9032.89 a 9032.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 35 por ciento, cuando se utilice el método de costo neto.
+
+Interruptores Horarios y Demás Aparatos que Permitan Accionar un Dispositivo en un Momento dado, con Mecanismo de Relojería o Motor Sincrónico
+
+### Capítulo 91, 91.01-91.06, 91.07: Eliminar la regla de origen aplicable a la partida 91.01-91.07 y reemplazarla con las siguientes reglas:. 91.01-91.06 Un cambio a la partida 91.01 a 91.06 de cualquier otro Capítulo; o
+
+Un cambio a la partida 91.01 a 91.06 de la partida 91.14, habiendo o no cambios de cualquier otro Capítulo, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+91.07 Un cambio a la partida 91.07 de cualquier otro Capítulo; o
+
+Un cambio a la partida 91.07 de la partida 91.14, habiendo o no cambios de cualquier otro Capítulo, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 35 por ciento, cuando se utilice el método de costo neto.
+
+Encendedores y Mecheros
+
+### Capítulo 96, 9613.80: Eliminar la regla de origen aplicable a la subpartida 9613.10-9613.80 y reemplazarla con las siguientes reglas:. 9613.10-9613.80 Un cambio a la subpartida 9613.10 a 9613.80 de cualquier otro Capítulo; o
+
+Un cambio a la subpartida 9613.10 a 9613.80 de la subpartida 9613.90, habiendo o no cambios de cualquier otro Capítulo, cumpliendo con un valor de contenido regional no menor a:
+
+(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 35 por ciento, cuando se utilice el método de costo neto.
+
+De Minimis para bienes de la Sección VI, Productos de las Industrias Químicas o Conexas (Capítulo 28-38)
+
+#### Sección VI: Agregar la siguiente nota de pie:
+
+Para la aplicación de las disposiciones que establece el artículo 405 a un bien de la Sección VI, la referencia al “7 por ciento” debe eliminarse y ser reemplazada con “10 por ciento”.
+
+La fecha para presentar comentarios vencerá 20 días naturales después de la publicación del presente Aviso en el Diario Oficial de la Federación. Las solicitudes, comentarios y propuestas se deberán hacer llegar, en copia dura o por medio electrónico a:
+
+Lic. Martha Aurora Berzosa Olivares.
+
+Directora de Negociaciones de Reglas de Origen y Procedimientos Aduaneros.
+
+Dirección General de Política Comercial.
+
+Secretaría de Economía.
+
+Alfonso Reyes número 30, piso 16, colonia Hipódromo Condesa, código postal 06140, México, D.F.
+
+Correo electrónico: mbersoza@economia.gob.mx, jelopez@economia.gob.mx, mperezl@economia.gob.mx.
 
 ###### ARTICULO TERCERO.
 
@@ -211,50 +719,6 @@ La asignación de la cuota adicional será equivalente a una vez el consumo mens
 De conformidad con el artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, en caso de que existan incumplimientos en agricultura por contrato por parte del vendedor o siniestros que sean dictaminados por SAGARPA, previa consulta en el Comité Nacional Sistema Producto Maíz, la Secretaría de Economía por medio de la Dirección General de Comercio Exterior, otorgará cupos adicionales equivalentes al monto del incumplimiento, previa presentación de la solicitud de asignación de cupo, en la cual el solicitante deberá señalar que presenta esta solicitud a causa de incumplimiento y cumplir con la hoja de requisitos correspondiente anexa a este instrumento.
 
 Para efecto de lo señalado en el párrafo anterior, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados dictamine el incumplimiento o no, presentado por el solicitante del cupo de importación. ASERCA/SAGARPA atenderá dicha solicitud, previa consulta al Comité Nacional Sistema Producto Maíz. Una vez realizado lo anterior, la Dirección General de Desarrollo de Mercados notificará a la Dirección General de Comercio Exterior el resultado de dicha consulta y, en su caso, el monto del incumplimiento.
-
-###### ARTICULO DECIMO PRIMERO.
-
-La asignación de la cuota adicional de importación de maíz amarillo a que se refiere el presente instrumento, considerará lo establecido en el ANEXO I y lo siguiente:
-
-La Dirección General de Comercio Exterior, enviará a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA los consumos totales anuales auditados, desglosados por tipo de grano, origen del grano y en el caso de maíz amarillo la modalidad de importación bajo cupo, de las empresas que presentaron reportes de auditor externo para la asignación del cupo mínimo de 2006, y en el caso de que el solicitante no haya sido beneficiario del cupo mínimo en 2006, enviará la solicitud anexando el reporte de auditor externo que presente.
-
-Para efecto de lo señalado en los artículos sexto, séptimo y noveno de este instrumento, la Dirección General de Comercio Exterior otorgará la cuota adicional aplicando el criterio de asignación establecido en dicho artículo, sin realizar consulta a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
-
-Para efecto de la aplicación de los criterios de asignación señalados en los artículos cuarto, quinto y octavo de este instrumento, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, informe el acreditamiento o no, de lo establecido en el Anexo I del presente instrumento, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA contará con un plazo de tres días hábiles contados a partir de que haya recibido dicha solicitud, para notificar a la Dirección General de Comercio Exterior.
-
-Para efecto de la aplicación del criterio de asignación establecido en el artículo décimo de este instrumento, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, informará a la Dirección General de Comercio Exterior el resultado y en su caso, el monto de incumplimiento o siniestro, de la consulta al Comité Nacional Sistema Producto Maíz, en un plazo de cinco días hábiles contados a partir de que tenga dicho resultado.
-
-Una vez recibida la notificación de acreditación de compromisos de adquisición de granos nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta (ambos casos conforme al Anexo I de este instrumento) por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, la Dirección General de Comercio Exterior aplicará el criterio correspondiente a la solicitudes subsecuentes.
-
-Para la aplicación de los criterios que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas.
-
-###### ARTICULO DECIMO SEGUNDO.
-
-La asignación de la cuota adicional a que se refiere el presente instrumento se hará a través de la Dirección General de Comercio Exterior, quien determinará el monto a asignar conforme al criterio aplicable a cada caso. El trámite de asignación de la cuota adicional de importación de maíz amarillo no será mayor a diez días hábiles, excepto para lo considerado en el artículo décimo de este instrumento.
-
-En las asignaciones se señalará el monto de la cuota adicional y el plazo para ejercer dicha asignación, así como las condiciones a que deberán someterse los beneficiarios.
-
-El periodo de recepción de solicitudes para los supuestos establecidos en los artículos cuarto, quinto, sexto, séptimo, octavo y noveno será a partir del siguiente día hábil de la entrada en vigor del presente instrumento, y finalizará el 15 de noviembre de 2006.
-
-El periodo de recepción de solicitudes para los supuestos establecidos en el artículo décimo del presente instrumento será del 15 de agosto al 15 de septiembre de 2006.
-
-La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2006. La mercancía no podrá ser comercializada en el mismo estado físico en que se importa.
-
-###### ARTICULO DECIMO TERCERO.
-
-Las solicitudes de asignación de la cuota a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría. Las hojas de requisitos específicos se anexan al presente instrumento.
-
-###### ARTICULO DECIMO CUARTO.
-
-Una vez asignado el monto para importar dentro de la cuota adicional, esta Secretaría, a través de la Representación Federal correspondiente, expedirá los certificados de cupo, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible.
-
-###### ARTICULO DECIMO QUINTO.
-
-Los formatos citados en el presente instrumento, estarán a disposición en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
-
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### Artículo 1.
 
@@ -336,6 +800,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
+UNICO.- El presente Aviso entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 26 de junio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.
+México, D.F., a 5 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
