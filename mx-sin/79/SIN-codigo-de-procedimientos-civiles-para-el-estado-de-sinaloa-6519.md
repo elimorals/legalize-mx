@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2004-08-20"
+last_updated: "2006-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -943,7 +943,7 @@ Los términos judiciales empezarán a correr desde el día siguiente a aquél en
 
 Cuando fueren varias las partes y el término común, se contará desde el día siguiente a aquél en que todas hayan quedado notificadas.
 
-> <small>(ADICIONADO[N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1983)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1983)</small>
 
 ###### Artículo 131.
 
@@ -4499,7 +4499,9 @@ Es Juez competente para conocer de los juicios sobre convalidación, reposición
 
 En el escrito de demanda de modificación de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil por el término de cinco días para que produzca su contestación.
 
-Se publicará un extracto de la demanda por tres veces, de tres en tres días, en el Periódico Oficial del Estado y en el Diario de mayor circulación, a juicio del juez, llamando a los interesados a oponerse, quienes tendrán derecho a intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Se publicará un extracto de la demanda por dos veces, en un lapso de tres días, en el Periódico Oficial del Estado y en el Diario de mayor circulación, a juicio del juez, llamando a los interesados a oponerse, quienes tendrán derecho a intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -5835,7 +5837,7 @@ I. Con la certificación de la defunción del autor de la herencia, se acompaña
 
 II. El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
 
-> <small>(ADICIONADA, [N.DE E.REFORMADA] P.O. 24 DE OCTUBRE DE 1975)</small>
+> <small>(ADICIONADA, [N. DE E., REFORMADA] P.O. 24 DE OCTUBRE DE 1975)</small>
 
 III. El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquéllos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrarán un partidor entre los contadores oficiales que presten servicios al Erario, para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación; excepción hecha de lo previsto por el artículo 740 Bis, en cuyo caso se estará a lo dispuesto por este último precepto;
 
@@ -7172,6 +7174,12 @@ P.O. 13 DE AGOSTO DE 2003.
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 20 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE AGOSTO DE 2006.
 
 ###### ARTÍCULO ÚNICO.
 
