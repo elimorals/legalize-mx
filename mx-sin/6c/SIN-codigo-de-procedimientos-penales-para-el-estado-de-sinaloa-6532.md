@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2005-08-03"
+last_updated: "2006-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -1719,9 +1719,11 @@ La autopsia de los cadáveres de personas que hayan fallecido en un hospital pú
 
 A excepción de los casos previstos en los dos artículos anteriores, el reconocimiento o la autopsia se practicarán por los médicos legistas oficiales o por los peritos que designe el Juez o el Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 230.
 
-Los peritos que acepten el cargo, con excepción de los oficiales, tienen obligación de presentarse al Juez o al Ministerio Público, para que les tome la protesta legal.
+Los peritos que acepten el cargo, con excepción de los oficiales y peritos institucionales, tienen la obligación de presentarse al Juez o Ministerio Público, para que les tome la protesta legal.
 
 En casos urgentes, la protesta la harán al producir y ratificar el dictamen.
 
@@ -1731,17 +1733,25 @@ El Juez fijará a los peritos el tiempo razonable en que deban desempeñar su co
 
 Si agotados los medios de apremio, el perito no presentare su dictamen, se procederá en su contra por los delitos previstos por el Código Penal para estos casos.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Tratándose de los peritos institucionales, en caso de no rendir el dictamen, se procederá conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, lo que no liberará de la obligación de rendir el dictamen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 232.
 
-Siempre que los peritos nombrados discordaren entre sí, el Juez los citará a una junta en la que se discutirán los puntos de diferencia. En el acta de la diligencia se asentará el resultado de la discusión.
+Siempre que los peritos nombrados discordaren entre sí, el juez los citará a una junta en la que discutirán los puntos de diferencia. En el acta de la diligencia se asentará el resultado de la discusión. En esta discusión no participarán los peritos institucionales, y las diferencias que hubiere las desahogarán por oficio.
 
 Si los peritos no se pusieren de acuerdo, el juez nombrará un tercero en discordia.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 233.
 
 Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deba dictaminarse, si la profesión o arte están legalmente reglamentadas; en caso contrario se nombrarán peritos prácticos.
+
+También podrán ser nombrados peritos institucionales, entendiéndose como éstos, las dependencias o entidades de la administración pública estatal, que de acuerdo con la normatividad que las rige estén facultadas para emitir dictámenes periciales.
 
 Cuando el inculpado pertenezca a un grupo indígena, podrán ser peritos prácticos, personas que pertenezcan a dicho grupo indígena.
 
@@ -1750,6 +1760,10 @@ Para el caso anterior, la persona elegida como perito práctico deberá de ser r
 ###### ARTICULO 234.
 
 También podrán ser nombrados peritos prácticos, cuando no hubiere titulados en el lugar en que se siga la instrucción, quedando a criterio del Juez del conocimiento el que se libre exhorto al Juez del lugar en que los haya, para que, en vista de la opinión de los prácticos, emitan la suya.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Lo anterior, sin perjuicio de que puedan nombrar peritos institucionales.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
 
@@ -1760,6 +1774,10 @@ Los peritos deberán ser citados en la misma forma que los testigos; reunirán, 
 ###### ARTICULO 236.
 
 Los peritos dictaminarán en relación a los puntos propuestos por las partes y aprobados por el Juez, sin perjuicio de que éste les haga las preguntas adicionales que estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Tratándose de los peritos institucionales éstos contestarán las preguntas que sean formuladas por las partes mediante oficio.
 
 ###### ARTICULO 237.
 
@@ -1775,6 +1793,10 @@ Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia es
 
 Los peritos oficiales no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Los peritos institucionales ratificarán el dictamen y responderán a las preguntas que se formulen a través del oficio, previo requerimiento del juez de la misma forma.
+
 ###### ARTICULO 240.
 
 Cuando el juicio pericial recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis sino sobre la mitad de las substancias a lo sumo, a no ser que su cantidad sea tan escasa que los peritos no puedan emitir su opinión sin consumirlas todas. Esto se hará constar en el acta.
@@ -1789,6 +1811,10 @@ Si no hubiere peritos de los que menciona el párrafo anterior y el Juez o el Mi
 
 En estos casos, los honorarios se cubrirán según lo que se paguen por costumbre en los establecimientos particulares de que se trate, a los servidores públicos permanentes de los mismos, teniendo en cuenta el tiempo que los peritos debieron ocupar en el desempeño de su comisión.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+También podrá recaer dicho nombramiento en los peritos institucionales a que se refiere el último párrafo del artículo 233 de éste Código.
+
 ###### ARTICULO 242.
 
 Cuando los peritos que perciban sueldo del Estado, sean nombrados por el Juez o a petición del Ministerio Público, no podrán cobrar honorarios, según lo previsto en el Artículo 34 de este Código.
@@ -1796,6 +1822,10 @@ Cuando los peritos que perciban sueldo del Estado, sean nombrados por el Juez o 
 ###### ARTICULO 243.
 
 El Juez, cuando lo crea conveniente podrá ordenar que asistan los peritos a alguna diligencia y que se impongan de todo el proceso o de parte de él.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Los peritos institucionales aclararán las dudas mediante oficio.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
 
@@ -3908,3 +3938,9 @@ Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, c
 Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
 
 Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
+
+P.O. 9 DE AGOSTO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
