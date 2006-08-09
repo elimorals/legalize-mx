@@ -1,0 +1,398 @@
+---
+title: "LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA"
+identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-51497"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2006-08-09"
+last_updated: "2006-08-09"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51497&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chh"
+scjn_id: "51497"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "63"
+reform_count: "5"
+scjn_last_update: "2010-10-02"
+issue_date: "2006-07-12"
+state: "CHH"
+---
+# LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
+
+LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 9 de agosto de 2006.
+
+EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+
+DECRETO:
+
+DECRETO No.
+
+611 TER/06 II P.O.
+
+LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU SEGUNDO PERÍODO ORDINARIO DE SESIONES, DENTRO DE SU SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
+
+DECRETA
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la nueva Ley Orgánica del Ministerio Público del Estado de Chihuahua, para quedar redactada de la siguiente manera:
+
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE CHIHUAHUA
+
+### CAPÍTULO I. Disposiciones generales
+
+###### Artículo 1°.
+
+El Ministerio Público es un órgano del Estado, ubicado en el Poder Ejecutivo, con autonomía técnica, que tiene a su cargo:
+
+I. La investigación, persecución de los hechos que pudieran ser constitutivos de delito y el ejercicio de la acción penal.
+
+II. La atención a víctimas y ofendidos de delitos.
+
+III. La defensa ante los tribunales de los intereses estatales y sociales, en especial los de la familia, adultos mayores, indígenas, incapaces, ausente y de cualquier otra persona que forme parte de grupos vulnerables.
+
+IV. La vigilancia de que el ejercicio de sus funciones fundamentales se realice con respeto a los derechos humanos.
+
+V. La participación, en los términos en que dispongan las leyes, en la prevención de delitos y en el control del cumplimiento de las resoluciones de los órganos jurisdiccionales.
+
+###### Artículo 2°.
+
+La Institución del Ministerio Público constituye una entidad indivisible que ejercerá sus atribuciones con respeto a la dependencia jerárquica, y las actuaciones válidas de sus funcionarios deberán ser acatadas por los demás.
+
+###### Artículo 3°.
+
+Las actividades del Ministerio Público se someterán a los principios de legalidad, honradez, lealtad, eficiencia y objetividad.
+
+### CAPÍTULO II. De la organización
+
+###### Artículo 4°.
+
+La Institución del Ministerio Público estará a cargo de un Procurador General de Justicia, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los siguientes órganos:
+
+I. La Subprocuraduría General.
+
+II. La Subprocuraduría de Control Interno, Análisis y Evaluación.
+
+III. La Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito.
+
+IV. Las Subprocuradurías de zona.
+
+V. La Subprocuraduría de Procedimientos Penales.
+
+VI. El Centro de Justicia Alternativa, y
+
+VII. Los agentes del Ministerio Público.
+
+Los titulares de los órganos mencionados intervendrán como representantes del Ministerio Público en los casos que se considere conveniente para la mejor procuración de justicia, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Procurador General de Justicia.
+
+###### Artículo 5°.
+
+Para el ejercicio de las funciones sustantivas, forman parte de la Procuraduría: La Agencia Estatal de Investigación, el Centro de Estudios Penales y Forenses, la Dirección de Servicios Periciales y Ciencias Forenses, la Dirección de Atención a Víctimas de Violencia de Género y Violencia Familiar, la Dirección Administrativa, la Dirección de Informática y las demás dependencias necesarias para el buen funcionamiento de la Institución.
+
+###### Artículo 6°.
+
+En la investigación de delitos o en el ejercicio de la acción penal, serán auxiliares del Ministerio Público las corporaciones de seguridad pública del Estado, distintas de la Agencia Estatal de Investigación, las de los municipios, así como las corporaciones de seguridad privada.
+
+Todas las autoridades del Estado están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones. Si no se trata de información confidencial, en los términos de la Ley de la materia, les facilitarán acceso a libros, documentos y registros, y si les solicitan informes por escrito, deberán atender la petición en un término no mayor de setenta y dos horas.
+
+### CAPÍTULO III. De la Procuraduría General de Justicia
+
+###### Artículo 7°.
+
+El Procurador General de Justicia, a quien corresponde la titularidad del Ministerio Público en el Estado, tiene las siguientes atribuciones:
+
+I. Determinar la política general del Ministerio Público y, en especial, las prioridades que deben orientar la investigación de hechos delictivos y los criterios para el ejercicio de la acción penal.
+
+II. Proponer al Ejecutivo del Estado los proyectos de reglamentos, decretos, acuerdos, convenios, acciones y mecanismos relativos a los asuntos de la competencia de la Procuraduría General.
+
+IV. Ejercer la disciplina y la administración del Ministerio Público.
+
+V. Resolver sobre el ingreso, la adscripción, la sustitución, la promoción, la renuncia, el permiso, la licencia, el estímulo y la sanción de sus subalternos.
+
+VI. Establecer coordinaciones regionales, agencias del Ministerio Público, oficinas y departamentos, de acuerdo con las necesidades del servicio.
+
+VII. Emitir instrucciones de carácter particular, o general, al personal a su cargo, sobre el ejercicio de sus funciones y, salvo excepción legal, delegar las atribuciones propias de su cargo a sus subordinados.
+
+VIII. Pronunciarse sobre las inconformidades que se hicieran valer contra las actuaciones de los agentes del Ministerio Público que no fueran revisables por los jueces de garantía. Tales impugnaciones deberán hacerse vales dentro de los tres días hábiles siguientes a la fecha de su notificación.
+
+IX. Contratar profesionales, técnicos o expertos, para el mejor ejercicio de las funciones del Ministerio Público, los que se regirán por las estipulaciones del contrato correspondiente y no por los términos de esta ley.
+
+X. Proponer el anteproyecto de presupuesto anual de egresos de la Institución y someterlo a la consideración de la Secretaría correspondiente.
+
+XI. Comparecer ante el Congreso del Estado para informar de los asuntos a su cargo.
+
+XII. Asistir a las sesiones del Pleno del Supremo Tribunal de Justicia.
+
+XIII. Las demás que le confieran las leyes y reglamentos.
+
+###### Artículo 8°.
+
+El Subprocurador General de Justicia tiene las siguientes atribuciones:
+
+I. Encargarse del despacho de los asuntos de la Procuraduría General de Justicia en ausencia de su titular.
+
+II. Coordinar a las Subprocuradurías, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador General de Justicia.
+
+III. Las demás que le asigne el Procurador General de Justicia.
+
+###### Artículo 9°.
+
+El Subprocurador de Control Interno, Análisis y Evaluación tiene las siguientes atribuciones:
+
+I. Ejercer un sistema de control para el manejo eficiente y eficaz de los recursos humanos y materiales del Ministerio Público.
+
+II. Investigar los hechos ilícitos y las faltas administrativas que se hagan de su conocimiento.
+
+III. Formular los pliegos de responsabilidades, actas, recomendaciones e instrucciones que procedan y turnarlas a la autoridad correspondiente.
+
+IV. Imponer al personal del Ministerio Público las sanciones correspondientes.
+
+El Subprocurador de Control Interno, Análisis y Evaluación dependerá directamente del Procurador General de Justicia o de quien los sustituya legalmente y se auxiliará, para el ejercicio de sus funciones, de personal técnico t administrativo, conforme a las necesidades del servicio, y ejercerá las atribuciones que el Reglamento y demás leyes le confieran.
+
+###### Artículo 10.
+
+El Subprocurador de Derechos Humanos y Atención a Víctimas del Delito tiene las siguientes atribuciones:
+
+I. Proponer e instrumentar las políticas institucionales para la observancia, capacitación y promoción en materia de derechos humanos.
+
+II. Atender las quejas y denuncias en contra de los servidores y empleados públicos de la Procuraduría, por presuntos actos de violación a los derechos humanos y, en su caso, promover las medidas conducentes para la aplicación de las sanciones correspondientes.
+
+III. Instrumentar las relaciones de la Procuraduría General de Justicia con los organismos públicos de Derechos Humanos y las organizaciones no gubernamentales.
+
+IV. Atender o, en su caso, rechazar las recomendaciones de las Comisiones de Derechos Humanos. En caso de su aceptación, dar seguimiento a las mismas hasta que sean cumplidas cabalmente.
+
+V. Preparar los informes, pedimentos y escritos de interposición de recursos de la Procuraduría ante las Comisiones de Derechos Humanos.
+
+VI. Proporcionar orientación y asesoría jurídica a las víctimas u ofendidos por delitos y vigilar que se garantice o se cubra la reparación del daño, de conformidad con las disposiciones legales aplicables.
+
+VII. Canalizar a las víctimas u ofendidos por delitos a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, sicológico y educacional, vigilando su debida atención.
+
+VIII. Las demás que le confieran el titular de la Procuraduría General de Justicia y los ordenamientos legales.
+
+###### Artículo 11.
+
+La Dirección de Atención a Víctimas de Violencia de Género y Violencia Familiar depende de la Subprocuraduría de Derechos Humanos y Atención a las Víctimas del Delito, y contará con las atribuciones que le señale el Reglamento respectivo.
+
+###### Artículo 12.
+
+Los Subprocuradores de zona tienen las siguientes atribuciones:
+
+I. Coordinar las acciones de los agentes del Ministerio Público, con motivo de la investigación de los delitos, ejercicio de la acción penal, comparecencia ante los jueces y tribunales competentes y vigilar que las actuaciones de los mismos se apeguen a los ordenamientos legales vigentes.
+
+II. Ejercer las funciones que les sean encomendadas por el Procurador General de Justicia o, en su caso, por el Subprocurador General, y las establecidas en los reglamentos.
+
+###### Artículo 13.
+
+El Subprocurador de Procedimientos Penales tiene las siguientes atribuciones:
+
+I. Realizar funciones de control, vigilancia y supervisión del procedimiento penal, en lo que atañe a la función del Ministerio Público;
+
+II. Dictaminar los asuntos que sean sometidos a su consideración;
+
+III. Preparar los informes, pedimentos y recursos de la Procuraduría General de Justicia ante los tribunales federales;
+
+IV. Coordinar y dirigir el desempeño de las funciones de las Agentes del Ministerio Público adscritos a la Procuraduría; y
+
+V. Las que le confiera el Procurador General y las disposiciones legales y reglamentarias.
+
+###### Artículo 14.
+
+Son atribuciones de los agentes del Ministerio Público:
+
+I. Dirigir las investigaciones penales que les fueren asignadas.
+
+II. Promover las acciones penales, civiles y administrativas e interponer los recursos correspondientes, conforme a lo establecido en las leyes de la materia.
+
+III. Velar para que el imputado sea instruido en sus derechos constitucionales.
+
+IV. Citar u ordenar la presentación de cualquier persona, siempre que ello sea procedente para el ejercicio de sus funciones. Tratándose del imputado, no podrá ordenar su presentación.
+
+V. Vigilar que los derechos de la víctima y ofendido sean adecuadamente tutelados.
+
+VI. Promover la conciliación y los acuerdos reparatorios entre la víctima u ofendido y el imputado, en los casos autorizados por la ley.
+
+VII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimiento del proceso, la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por la Ley.
+
+VIII. Vigilar la correcta aplicación de la ley, en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas.
+
+IX. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan.
+
+X. Las demás que les otorguen las leyes correspondientes.
+
+###### Artículo 15.
+
+Los agentes del Ministerio Público podrán actuar válidamente, en ejercicio de sus funciones, en cualquier lugar del territorio estatal, y bastará que muestren su identificación para que puedan intervenir en los asuntos a su cargo.
+
+###### Artículo 16.
+
+La Agencia Estatal de Investigación estará integrada por la policía que se encuentra bajo la autoridad y mando del Ministerio Público, denominada Policía Ministerial, y demás personal que se le asigne, teniendo la organización y atribuciones establecidas en el Reglamento respectivo.
+
+###### Artículo 17.
+
+El Centro de Estudios Penales y Forenses, la Dirección de Servicios Periciales y Ciencias Forenses y la Dirección de Informática, estarán a cargo de sus respectivos directores, y tendrán la estructura y atribuciones establecidas en el Reglamento respectivo.
+
+### CAPÍTULO IV. Del servicio civil y profesional de carrera
+
+###### Artículo 18.
+
+El Servicio Civil y Profesional de Carrera en la Procuración de Justicia en el Estado, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el servidor público integrante de la Procuraduría General de Justicia, en los términos que el Reglamento establezca.
+
+###### Artículo 19.
+
+Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, adscripción, rotación, reingreso, estímulos, reconocimientos y retiro del personal operativo de la Procuraduría, serán regulados por el Reglamento que establezca las Bases para la Organización, Funcionamiento y Desarrollo del Servicio Civil y Profesional de Carrera en la Procuración de Justicia del Estado.
+
+### CAPÍTULO V. De los nombramientos, remociones y ausencias
+
+###### Artículo 20.
+
+El Procurador General de Justicia será nombrado en los términos de la Constitución Local y de la Ley Orgánica del Poder Ejecutivo del Estado y podrá ser removido libremente por el Gobernador Constitucional.
+
+Para ser Procurador General de Justicia del Estado se requiere cumplir los requisitos que establece el artículo 95 de la Constitución Política del Estado.
+
+###### Artículo 21.
+
+Los Subprocuradores serán nombrados por el Procurador General de Justicia, siempre y cuando reúnan los mismos requisitos que se exigen para este último. El Gobernador Constitucional del Estado les extenderá su nombramiento y les tomará su protesta de ley, pudiendo removerlos libremente.
+
+Para el nombramiento de los Subprocuradores de zona, se realizará un ejercicio de oposición, mediante convocatoria pública abierta, de donde se seleccionarán a los tres aspirantes que obtengan mejores resultados, mismos que se pondrán a consideración del Procurador General de Justicia en una terna, para la designación correspondiente.
+
+###### Artículo 22.
+
+Los demás funcionarios y servidores públicos de la Procuraduría serán nombrados y removidos libremente por el Procurador General de Justicia del Estado, salvo los agentes del Ministerio Público y de la Policía Ministerial, que estarán sujetos al reglamento de organización y funcionamiento del servicio civil.
+
+###### Artículo 23.
+
+En la designación del personal del Ministerio Público, de la Agencia Estatal de Investigación y de los Servicios Periciales de la Procuraduría, se atenderá a las siguientes disposiciones:
+
+Para ser Agente del Ministerio Público se requiere:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+II. Acreditar que ha observado buena conducta y no ha sido sentenciado ejecutoriadamente como responsable por delito doloso;
+
+III. Ser mayor de 23 años;
+
+IV. Ser Licenciado en Derecho, con autorización para el ejercicio de su profesión; y
+
+V. Aprobar el examen de selección correspondiente.
+
+Además de los requisitos anteriores, los Agentes del Ministerio Público, adscritos a la Procuraduría y a las Subprocuradurías, deben tener, cuando menos, tres años de ejercicio profesional.
+
+Para ser Agente Investigador de la Policía bajo la autoridad y mando del Ministerio Público, se deben reunir los requisitos previstos en las fracciones I, II y V; además, contar con título de Licenciado en Derecho o disciplinas afines a la función investigadora y, preferentemente, haber egresado del Instituto del Centro de Estudios Penales y Forenses.
+
+Para ser perito en la Procuraduría, es preciso reunir los requisitos de las fracciones I, II y V; además, contar con título legalmente expedido por la institución o autoridad facultada para ello, o acreditar ante la comisión que nombre el Procurador que posee conocimientos necesarios en la disciplina sobre la que debe dictaminar.
+
+###### Artículo 24.
+
+El Procurador podrá libremente designar, remover y cambiar de adscripción, al personal operativo, de mandos medios y directivos de la Institución.
+
+###### Artículo 25.
+
+El personal que integra el Ministerio Público se suplirá en sus ausencias de la manera siguiente:
+
+I. Las del Procurador, por el Subprocurador General y, en ausencia de ambos, por el Subprocurador de Procedimientos Penales;
+
+II. Las del Subprocurador de Derechos Humanos y Atención a Víctimas del Delito, y del Subprocurador de Control Interno, Análisis y Evaluación, por quien designe el Procurador General de Justicia;
+
+III. Las de los Subprocuradores de zona, por quien designe el Procurador General de Justicia;
+
+IV. Las de los Agentes del Ministerio Público, por el personal que designe el Procurador General de Justicia, o bien, los Subprocuradores, dentro de su competencia; y
+
+V. En los lugares donde sólo haya un Agente del Ministerio Público, su ausencia será suplida por quien designe su superior.
+
+### CAPÍTULO VI. De los reconocimientos, faltas y sanciones del personal
+
+###### Artículo 26.
+
+Los funcionarios y empleados de la Procuraduría General de Justicia serán estimulados por el eficiente desempeño de su trabajo, en los términos del Reglamento que establezca las Bases para la Organización, Funcionamiento y Desarrollo del Servicio Civil y Profesional de Carrera en la Procuración de Justicia del Estado.
+
+###### Artículo 27.
+
+El personal del Ministerio Público podrá ser sancionado por el Procurador, por conducto del Subprocurador de Control Interno, Análisis y Evaluación, sin perjuicio de que pueda exigírseles responsabilidad por haber incurrido en hechos delictivos. Las sanciones se podrán imponer en los siguientes casos:
+
+I. Por ofender a sus superiores jerárquicos, a sus iguales o a sus subalternos.
+
+II. Por incurrir en abuso sobre bienes del Estado o en faltas graves a la disciplina.
+
+III. Por incumplimiento de sus deberes y por abusar del ejercicio de sus derechos.
+
+###### Artículo 28.
+
+Las sanciones, de las que se agregará copia autorizada al expediente del infractor, serán:
+
+I. Amonestación escrita.
+
+II. Suspensión en el ejercicio del cargo y del goce de la remuneración correspondiente hasta por diez días.
+
+III. El cese o la destitución del cargo.
+
+IV. Arresto hasta por treinta y seis horas, cuando se trate de agentes de la Policía Ministerial.
+
+###### Artículo 29.
+
+Las sanciones serán impuestas previa audiencia del afectado, y serán revisadas mediante inconformidad que, dentro de los siguientes tres días hábiles, contados a partir de la fecha de la notificación de la imposición de la sanción, hiciere valer el sancionado ente el Procurador General de Justicia.
+
+El arresto deberá ser infligido por el superior jerárquico del infractor y será irrecurrible, sin perjuicio de la responsabilidad en que pudiera incurrir quien lo impuso.
+
+###### Artículo 30.
+
+Todo servidor público de la Procuraduría debe excusarse en los negocios en que intervenga, cuando incurran en el una o más de las causas que motivan la excusa de los funcionarios del Poder Judicial. La excusa deberá ser calificada en definitiva por el Procurador.
+
+Cuando el servidor público de quien se trate no se excuse, a pesar de tener algún impedimento, la víctima u ofendido, el imputado o su defensor, podrán recusarlo con expresión de causa ante el Procurador General de Justicia del Estado quien, oyendo previamente al recusado, determinará si éste debe o no continuar interviniendo en el asunto de que se trate.
+
+###### Artículo 31.
+
+El Procurador General de Justicia deberá excusarse de conocer los asuntos en los casos señalados en el artículo anterior, pero no podrá ser recusado. El Gobernador del Estado calificará las excusas del Procurador.
+
+###### Artículo 32.
+
+Los agentes del Ministerio Público no podrán desempeñar otro puesto oficial ni ejercer la abogacía, sino en causa propia, de su cónyuge, concubinario o concubina, ascendientes o descendientes; tampoco ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas judiciales, a no ser que tenga interés en la herencia, interventores en una quiebra o concurso, ni árbitros o arbitradores. No quedan comprendidos en esta prohibición los puestos de carácter docente.
+
+### CAPÍTULO VII. De las incompatibilidades y excusas
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la anterior Ley Orgánica del Ministerio Público del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado adoptará las medidas conducentes para la elaboración y publicación del Reglamento, el que deberá estar expedido en un plazo no mayor a los noventa días posteriores a la publicación de la presente Ley.
+
+DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los quince días del mes de junio del año dos mil seis.
+
+PRESIDENTE
+
+DIP. JOSÉ LUIS CANALES DE LA VEGA
+
+SECRETARIA DIPUTADA
+
+ROCÍO ESMERALDA REZA GALLEGOS
+
+SECRETARIA DIPUTADA
+
+LETICIA LEDEZMA ARROYO
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los doce días del mes de julio del año del mil seis.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. JOSE REYES BAEZA TERRAZAS.
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. FERNANDO RODRIGUEZ MORENO.
