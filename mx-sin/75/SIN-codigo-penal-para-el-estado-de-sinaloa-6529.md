@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2005-08-03"
+last_updated: "2006-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -1567,7 +1567,7 @@ Al que mediante comunicación dolosa, impute a una persona física o moral un he
 
 ### CAPITULO X. USURA
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 190.
 
@@ -1949,9 +1949,9 @@ Si la extorsión es realizada por una asociación delictuosa, o por servidor pú
 
 Comete el delito de usura, el que abusando de la necesidad o ignorancia de una persona obtenga un lucro excesivo mediante préstamo con un interés superior al bancario u otras ventajas económicas desproporcionadas, de acuerdo con la naturaleza de la operación o con los usos comerciales.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+Al responsable del delito de usura se le impondrá prisión de seis meses a ocho años y de diez a cuatrocientos días multa.
 
-Al responsable del delito de usura se le impondrá prisión de seis meses a seis años y de cuarenta a trescientos días multa.
+El monto de la reparación del daño, será al menos igual a la desproporción del beneficio económico obtenido o de los intereses devengados en exceso, o de ambos, según sea el caso.
 
 ### CAPITULO IV. ASOCIACION DELICTUOSA
 
@@ -3246,3 +3246,9 @@ Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, c
 Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
 
 Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
+
+P.O. 9 DE AGOSTO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial "El Estado de Sinaloa".
