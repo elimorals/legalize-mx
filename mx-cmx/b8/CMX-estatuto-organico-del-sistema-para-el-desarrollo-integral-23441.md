@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-23441
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-02-21"
-last_updated: "2005-09-02"
+last_updated: "2006-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23441&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2001-03-09"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE SEPTIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G..O. DE 9 DE AGOSTO DE 2006, EL PRESENTE ESTATUTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 21 de febrero de 2002.
 
@@ -667,3 +669,11 @@ ACUERDO QUE REFORMA LOS ARTICULOS 12 Y 21 DEL ESTATUTO.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE AGOSTO DE 2006.
+
+PRIMERO. Se deroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 21 de Febrero de 2002.
+
+SEGUNDO. La reforma del presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Elabórese las Políticas y Lineamientos de la Procuraduría de la Defensa de la Niñez y las Familias.
