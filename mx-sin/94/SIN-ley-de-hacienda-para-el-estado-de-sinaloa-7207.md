@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2003-08-18"
+last_updated: "2006-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -249,9 +249,9 @@ ART. 27.- La base gravable de este impuesto será el monto total de la contrapre
 
 En la hipótesis señalada en el artículo 25 fracción I, la base gravable, serán los días que se preste el servicio de hospedaje, debiendo cubrirse una tasa igual al importe de un salario mínimo general vigente en el Estado por cada día que se preste el servicio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
-ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
+ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 3%.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
 
@@ -283,21 +283,35 @@ II.- No proporcione la información que la autoridad fiscal le solicite, su cont
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ART. 33.- El importe de lo recaudado por concepto de esta contribución, se destinará en los municipios donde se recaude, en un 96.5% a la promoción, difusión y publicidad turística del Municipio y sus atractivos turísticos, mejoras materiales de los atractivos turísticos y en general, a realizar acciones tendientes a promover el turismo en cada municipio. El restante 3.5% de lo recaudado, será a favor del Estado para cubrir sus gastos públicos y de administración del impuesto.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+Con los importes que correspondan al 96.5% ya señalado, se constituirán los Fideicomisos que sean necesarios para estos fines, mismos que podrán estar integrados por uno o más municipios. El Comité Técnico de cada Fideicomiso, estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento de cada Municipio y un representante del Sector Hotelero de cada Municipio.
+
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-ART. 33.- El importe de lo recaudado por concepto de esta contribución, se destinará en los municipios donde se recaude, en un 95% a la promoción, difusión y publicidad turística del Municipio y sus atractivos turísticos, mejoras materiales de los atractivos turísticos y en general, a realizar acciones tendientes a promover el turismo en cada municipio. El restante 5% de lo recaudado, será a favor del Estado para cubrir sus gastos públicos y de administración del impuesto.
-
-Con los importes que correspondan al 95% ya señalado, se constituirán los Fideicomisos que sean necesarios para estos fines, mismos que podrán estar integrados por uno o más municipios. El Comité Técnico de cada Fideicomiso, estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento de cada Municipio y un representante del Sector Hotelero de cada Municipio.
 
 El Comité Técnico de cada Fideicomiso, determinará los importes y programas en que deberá invertirse el patrimonio fideicomitido. Para que puedan aplicarse recursos del Fideicomiso en cada Municipio, será necesario que los importes y programas a realizar, sean aprobados en forma unánime por los representantes del Ayuntamiento y del Sector Hotelero del Municipio de que se trate, así como el Representante del Gobierno del Estado, integrantes del Comité Técnico de cada Fideicomiso.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 Los Municipios en los que no se hayan constituido el Fideicomiso, se podrán adherir a otro Municipio que ya cuente con el Fideicomiso respectivo, pasando a formar parte integrante del Comité Técnico del mismo el representante del Municipio adherente, así como el del Sector Hotelero de ese Municipio. La constitución de un Fideicomiso para los fines de este Impuesto, o la adhesión a uno ya existente, deberán publicarse en el Periódico Oficial "El Estado de Sinaloa", para que al día siguiente de su publicación, surja la obligación de cubrir y recaudar este impuesto.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 En la constitución de los Fideicomisos deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro de este impuesto en los municipios donde no se constituya el Fideicomiso respectivo o el Municipio no se adhiera a uno ya existente; en caso de que éste se extinga, se suspenderá el cobro del impuesto hasta que se constituya un nuevo Fideicomiso.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 La cuenta pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, tomando como base los fines de este impuesto, respecto de cada Municipio.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 El Estado entregará al Fideicomiso que corresponda a cada Municipio los ingresos captados en cada uno de ellos, en un término de treinta días hábiles al mes en que deba enterar este impuesto a la Oficina Recaudadora.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 El Fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del Congreso del Estado, a mas tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
 
@@ -3390,6 +3404,10 @@ P.O. 18 DE AGOSTO DE 2003.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo. Las demás entidades públicas a que se refiere el artículo 5, fracción IV de la Ley de Acceso a la Información Pública del Estado de Sinaloa, realizarán los cobros relativos, en los términos previstos en el Capítulo XIII, Título Segundo de la Ley de Hacienda del Estado de Sinaloa, con excepción de los Ayuntamientos de los Municipios, todas las dependencias y entidades de la administración pública municipal y paramunicipal, y las personas de derecho público y privado, cuando en el ejercicio de sus actividades actúen en auxilio de los órganos municipales antes citados y cuando ejerzan gastos públicos, reciban subsidios o subvención de los mismos.
+
+P.O. 9 DE AGOSTO DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
