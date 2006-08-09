@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "2005-05-25"
+last_updated: "2006-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 9 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -698,3 +700,17 @@ Los agentes de la policía al Mando del Ministerio Público que se encuentren en
 ###### ARTÍCULO CUARTO.
 
 Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de la Academia Estatal de Policía, deberán cumplir con los programas de profesionalización que precise el Centro de Estudios Penales y Forenses.
+
+P.O. 9 DE AGOSTO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la anterior Ley Orgánica del Ministerio Público del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado adoptará las medidas conducentes para la elaboración y publicación del Reglamento, el que deberá estar expedido en un plazo no mayor a los noventa días posteriores a la publicación de la presente Ley.
