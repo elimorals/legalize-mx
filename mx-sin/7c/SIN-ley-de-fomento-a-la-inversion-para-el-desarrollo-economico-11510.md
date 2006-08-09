@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-a-la-inversion-para-el-desarrollo-economico-1151
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-27"
-last_updated: "2004-02-25"
+last_updated: "2006-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO A LA INVERSION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 1996.
 
@@ -209,21 +209,23 @@ h).- UDI´S: Unidades de Inversión: Unidad de cuenta cuyo valor en pesos para c
 
 ### CAPITULO I. DE LAS ACTIVIDADES SUJETAS A FOMENTO
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 25.
 
 Podrán ser sujetas de incentivos previstos por esta Ley, las actividades de las personas físicas o morales establecidas o por establecerse en la Entidad, que cumplan con los siguientes requisitos:
 
-I.- Realizar una inversión cuyo monto deberá ser igual o superior al equivalente a 300,000 UDI´S y/o;
+I. Realizar una inversión cuyo monto deberá ser igual o superior al equivalente a 300,000 UDI'S y/o;
 
-II.- Generar por lo menos 16 nuevos empleos.
+II. Generar por lo menos 16 nuevos empleos permanentes.
 
-Dicha inversión deberá realizarse en un término máximo de 12 meses a partir de la fecha en que la Comisión emita el dictamen de aprobación de solicitud de incentivos al inversionista. En caso de que la empresa requiera un mayor plazo, ésta deberá solicitarlo por escrito a la Secretaría, detallando una exposición de motivos.
+Para el caso de empresas ya establecidas, los incentivos se aplicarán proporcionalmente sobre los nuevos empleos generados y/o sobre la nueva inversión generada, siempre y cuando no sean reposición de anteriores.
 
-Para el caso de empresas ya establecidas, los incentivos se aplicarán proporcionalmente sobre los nuevos empleos generados y/o sobre la nueva inversión generada.
+Por inversión productiva no especulativa, será aquélla que se determine conforme a las leyes de inversión.
 
-Para efectos de la presente Ley, la reinversión de utilidades será considerada como una nueva inversión, la cual podrá gozar proporcionalmente de los estímulos e incentivos que en este Título se detallan. Dicha reinversión deberá cumplir con los parámetros de inversión y/o empleo contemplados en este artículo. Asimismo, para efectos de la presente ley, algunas actividades económicas que involucren procesos de valor agregado, podrán considerarse actividades que someten su producción a un proceso de transformación. La Comisión dictaminará cada caso.
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
-El derecho para obtener los Ceprofies, se computará a partir de la fecha en que la empresa registre el inicio de actividades ante la Secretaría de Hacienda y Crédito Público.
+ARTICULO 25 BIS.- Para ser sujetas de incentivos fiscales previstos por esta Ley, las actividades de las personas físicas o morales de nivel microindustrial, proyectos de turismo alternativo y de aquéllas con proyectos en apoyo al desarrollo de Centros Históricos, deberán de generar por lo menos 5 empleos permanentes y/o realizar una inversión cuyo monto deberá ser igual o mayor al equivalente a 50,000 UDI'S. La tabla de incentivos que se tomará como base será la No. III.
 
 ###### ARTICULO 26.
 
@@ -257,7 +259,9 @@ Asimismo, se estimulará la actividad económica a través de una política indu
 
 Aún cuando los incentivos contemplados en la presente Ley se aplicarán indistintamente a cualquier tipo de actividad económica, la Secretaría y el Codesin considerarán los siguientes criterios generales;
 
-I.- Rentabilidad Social: Un proyecto se considerará socialmente rentable cuando la inversión pública que realice el Estado se traduzca en una derrama económica cuyo efecto multiplicador en la economía sea mayor al que pudiera realizarse si los recursos fueran invertidos por el Estado, en otro tipo de obras. La rentabilidad social de un proyecto debe basarse en el concepto de desarrollo sustentable;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
+
+I.- Rentabilidad Social: la rentabilidad social de un proyecto debe basarse en el concepto de desarrollo sustentable;
 
 II.- Desarrollo Sustentable: Se entiende por desarrollo sustentable aquel que permite la elevación del nivel de bienestar de los diferentes sectores de la sociedad, sin atentar, disminuir o poner en riesgo el futuro de los recursos naturales, el medio ambiente o la organización social que dan sustento al desarrollo o bienestar de la sociedad;
 
@@ -285,189 +289,263 @@ VII.- Posición tecnológica del proyecto: Dentro de esta consideración, se com
 
 ### CAPITULO III. DEL TIPO DE INCENTIVOS FISCALES
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 29.
 
-Las personas físicas o morales que cumplan con las condiciones de inversión y empleo señaladas en el artículo 25, deberán presentar su solicitud de incentivos ante la Secretaría, quien la turnará a la Comisión para su aprobación o rechazo. Las empresas que resulten aprobadas se harán acreedoras a los siguientes estímulos, según sea el caso:
+las personas físicas o morales que cumplan con las condiciones de inversión y empleo señaladas en el artículo 25, deberán presentar su solicitud de incentivos ante la Secretaría de Desarrollo Económico, quien la turnará a la Comisión para su aprobación o rechazo. Las empresas que resulten aprobadas se harán acreedoras, según sea el caso a los siguientes estímulos:
 
-I.- Reducción o Condenación Temporal de Contribuciones.
+I.- Reducción o condonación temporal de las siguientes contribuciones:
 
-1. Condonación del Impuesto sobre Nóminas;
+1.- Impuesto Sobre Nómina;
 
-2. Reducción de la base del Impuesto Predial;
+2.- Impuesto Predial;
 
-3. Reducción de la base del Impuesto sobre Adquisición de Inmuebles;
+3.- Impuesto Sobre Adquisición de Inmuebles;
 
-4. Condonación de derechos del Registro Público de la Propiedad y del Comercio;
+4.- Derechos de Registro Público de la Propiedad y del Comercio;
 
-5. Condonación del pago de licencias de uso de suelo;
+5.- Licencia de Construcción; y
 
-6. Condonación de licencias de construcción;
+6.- Tarifa por la Conexión de Agua Potable y Alcantarillado.
 
-7. Condonación de Impuesto sobre Vehículos de Motor Usados; y
+TABLA I: PROYECTOS COMERCIALES Y DE SERVICIOS
 
-8. Condonación de derechos de agua potable y drenaje.
+CONCEPTOS 1er. Año 2do. Año 3er. Año
 
-En función del tipo de actividad económica a realizar, las empresas recibirán incentivos de acuerdo a las siguientes tablas:
+Reducción de las Siguientes % % %
 
-EMPRESAS EN LAS QUE NO SE
+Contribuciones
 
-SOMETE SU PRODUCCION A UN
+Impuesto Sobre Nómina 80 60 50
 
-PROCESO DE TRANSFORMACION
+Impuesto Predial Urbano 80 60 50
 
-Reducción 1er. 2do. 3er.
+Impuesto Sobre Adquisición 90
+
+de Inmuebles
+
+Derechos de Registro Público 100
+
+de la Propiedad y el
+
+Comercio
+
+Licencia de Construcción 80
+
+Tarifas de Conexión de Agua 0
+
+Potable y Alcantarillado
+
+TABLA II: PROYECTOS CONSTRUCCIÓN DE VIVIENDA Y
+
+EDIFICIOS DE CONDOMINIOS
+
+CONCEPTOS 1er. Año 2do. Año 3er. Año
+
+Reducción de las Siguientes % % %
+
+Contribuciones
+
+Impuesto Sobre Nómina 50 0 0
+
+Impuesto Predial Urbano 50 0 0
+
+Impuesto Sobre Adquisición 50
+
+de Inmuebles
+
+Derechos de Registro Público
+
+de la Propiedad y el 100
+
+Comercio
+
+Licencia de Construcción 50
+
+Tarifas de Conexión de Agua 0
+
+Potable y Alcantarillado
+
+TABLA III: PROYECTOS INDUSTRIALES Y TURISTICOS QUE GENEREN HASTA 99 EMPLEOS PERMANENTES
+
+CONCEPTOS 1er.- 3er. 4. Año 5to. Año
+
+Reducción de las Siguientes % % %
+
+Contribuciones
+
+Impuesto Sobre Nómina 100 90 70
+
+Impuesto Predial Urbano 90 80 80
+
+Impuesto Sobre Adquisición 90
+
+de Inmuebles
+
+Derechos de Registro Público 100
+
+de la Propiedad y el
+
+Comercio
+
+Licencia de Construcción 100
+
+Tarifas de Conexión de Agua 50
+
+Potable y Alcantarillado
+
+TABLA IV: INDUSTRIAS QUE SE INSTALEN EN PARQUE INDUSTRIAL Y EMPRESAS TURÍSTICAS E INDUSTRIALES QUE GENEREN DE 100 A 249 EMPLEOS PERMANENTES
+
+CONCEPTOS 1er.- 3er. 4to.-5to 6to.-7mo
 
 Año Año Año
 
-Impuesto Sobre
+Reducción de las Siguientes % % %
 
-Nómina 100% 100% 50%
+Contribuciones
 
-Base del
+Impuesto Sobre Nómina 100 90 80
 
-Impuesto
+Impuesto Predial Urbano 90 90 80
 
-Predial 100% 100% 50%
+Impuesto Sobre Adquisición 100
 
-Base del
+de Inmuebles
 
-Impuesto
+Derechos de Registro Público 100
 
-S/Adquisición de
+De la Propiedad y el
 
-Inmuebles. 100% 100% 50%
+Comercio
 
-Derechos del
+Licencia de Construcción 100
 
-Registro Público
+Tarifas de Conexión de Agua 50
 
-de la Propiedad
+Potable y Alcantarillado
 
-y del Comercio.100% 100% 50%
+TABLA V: INDUSTRIAS Y EMPRESAS TURISTICAS QUE GENEREN DE 250 O MÁS EMPLEOS PERMANENTES E INVIERTAN MÁS DE 4 MILLONES DE UDI'S
 
-Impuesto S/Adquisición
+CONCEPTOS 1er.-3er. 4to.-5to. 6to.-7mo.
 
-de Vehículos de
+Año Año Año
 
-Motor Usados. 100% 100% 50%
+Reducción de las
 
-Licencias de
+Siguientes Contribuciones % % %
 
-Construcción y
+Impuesto Sobre Nómina 100 100 80
 
-Derechos de
+Impuesto Predial Urbano 90 90 80
 
-Conexión de
+Impuesto Sobre 100
 
-Agua Potable. 100% 100% 50%
+Adquisición de Inmuebles
 
-PRODUCCION A UN PROCESO
+Derechos de Registro
 
-DE TRANSFORMACION Y/O QUE
+Público de la Propiedad y 100
 
-INVIERTAN ENINFRAESTRUCTURA TURISTICA
+el Comercio
 
-Reducción 1er. 2do 3er 4º 5o
+Licencia de Construcción 100
 
-año año año año año
+Tarifas de Conexión de 50
 
-Impuesto Sobre
+Agua Potable y
 
-Nómina 100% 100% 100% 80% 70%
+Alcantarillado
 
-Base del
+TABLA VI: PROYECTOS DE CONSTRUCCIÓN DE PARQUES
 
-Impuesto
+INDUSTRIALES
 
-Predial 100% 100% 100% 80% 70%
+CONCEPTOS 1er. Año 2do. Año 3er. Año
 
-Base del
+Reducción de las Siguientes % % %
 
-impuesto S/Adquisición de
+Contribuciones
 
-Inmuebles 100% 100% 100% 80% 70%
+Impuesto Sobre Nómina 100 100 50
 
-Derechos del
+Impuesto Predial Urbano 90 90 50
 
-Registro Público de la
+Impuesto Sobre Adquisición 100
 
-Propiedad y Del
+de Inmuebles
 
-Comercio 100% 100% 100% 80% 70%
+Derechos de Registro Público 100
 
-Impuesto S/Adquisición de
+de la Propiedad y el
 
-Vehículos de
+Comercio
 
-Motor
+Licencia de Construcción 100
 
-Usados 100% 100% 100% 80% 70%
+Tarifas de Conexión de Agua 0
 
-Licencias de
+Potable y Alcantarillado
 
-Const. y Derechos
+TABLA VII: PROYECTOS DE INVERNADEROS AGRÍCOLAS Y GRANJAS ACUÍCOLAS
 
-de Conexión de
+CONCEPTOS 1er.Año 2Año. 3er Año
 
-Agua
+Reducción de las Siguientes % % %
 
-Potable 100% 100% 100% 80% 70%
+Contribuciones
 
-INDUSTRIAS QUE SE INSTALEN EN
+Impuesto Sobre Nómina 100 50 50
 
-PARQUES INDUSTRIALES Y/O CUMPLAN
+Impuesto Predial Urbano 0 0 0
 
-CON LOS CRITERIOS GENERALES DESCRITOS
+Impuesto Sobre Adquisición 80
 
-EN EL ARTICULO 28 Y CON LOS PARAMETROS
+de Inmuebles
 
-DE INVERSION Y/O EMPLEO DESCRITOS
+Derechos de Registro Público 100
 
-EN EL ARTICULO 31
+de la Propiedad y el
 
-Reducción 1er. 2º 3er 4º 5º 6º 7º
+Comercio
 
-año año año año año año año
+Licencia de Construcción 100 0 0
 
-Impuesto Sobre
+Tarifas de Conexión de Agua 0
 
-Nómina 100% 100% 100% 100% 100% 80% 80%
+Potable y Alcantarillado
 
-Base del
+TABLA VIII: PROYECTOS DE CONSTRUCCIÓN DE VIVIENDA EN MUNICIPIO QUE TRADICIONALMENTE NO CUENTAN CON ESTE TIPO DE INVERSIONES (el Fuerte, Choix, Sinaloa, Mocorito, Badiraguato, Angostura, Cosalá, Elota, San Ignacio, Concordia, el Rosario y Escuinapa)
 
-Impuesto
+CONCEPTOS 1er.Año 2Año. 3er Año
 
-Predial 100% 100% 100% 80% 80% 80% 80%
+Reducción de las Siguientes % % %
 
-Base del
+Contribuciones
 
-Impuesto S/Adquisición de
+Impuesto Sobre Nómina 100 100 0
 
-Inmuebles 100% 100% 100% 80% 80% 80% 80%
+Impuesto Predial Urbano 90 90 0
 
-Derechos del Registro
+Impuesto Sobre Adquisición 100
 
-Público de la Propiedad y del
+de Inmuebles
 
-Comercio 100% 100% 100% 80% 80% 80% 80%
+Derechos de Registro Público 100
 
-Impuesto S/Adquisición
+de la Propiedad y el
 
-de Vehículos de Motor
+Comercio
 
-Usados 100% 100% 100% 80% 80% 80% 80%
+Licencia de Construcción 100
 
-Licencias de Const. y
+Tarifas de Conexión de Agua 50
 
-Derechos de Conexión
+Potable y Alcantarillado
 
-de Agua
+###### ARTÍCULO 30.
 
-Potable 100% 100% 100% 80% 80% 80% 80%
-
-###### ARTICULO 30.
-
-Cuando esta Ley establezca como incentivo la deducibilidad en el Impuesto sobre Nóminas, se deberá autorizar cada deducción por la Secretaría y el Codesin y se otorgará mediante Ceprofies, los cuales se harán efectivos en el ejercicio inmediato siguiente. Dichas deducciones no podrán exceder del 25% de dicho impuesto. La Secretaría y el Codesin, definirán criterios cada año para establecer los montos deducibles para cada caso.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2006)
 
 ###### ARTICULO 31.
 
@@ -517,9 +595,13 @@ Las empresas, sectores o personas que deseen acogerse a los beneficios y estímu
 
 Se dará trámite a la solicitud de incentivos fiscales siempre y cuando el peticionario acredite, estar al corriente en el pago de las contribuciones y en el cumplimiento de sus obligaciones fiscales tanto Estatales como Federales y Municipales convenidas. Tratándose de personas morales, también los socios que la integran, deberán cumplir con lo señalado anteriormente.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 36.
 
-Una vez aprobada la solicitud de incentivos fiscales del inversionista, se procederá a emitir una resolución. Los estímulos fiscales y derechos se otorgarán a través de Ceprofies, en los cuales se indicarán los incentivos que se conceden, así como los compromisos establecidos en la resolución.
+Una vez aprobada la solicitud de incentivos fiscales del inversionista se procederá a emitir una resolución. Los estímulos fiscales y derechos se otorgarán a través de CEPROFIES en los cuales se indicarán los incentivos que se conceden y servirán como instrumento de pago de las contribuciones y otros incentivos no fiscales.
+
+La resolución por parte de la Comisión Dictaminadora será representada por un Dictamen, que deberán signar los representantes de las Secretarías de Desarrollo Económico, Administración y Finanzas y Planeación y Desarrollo, así como también del Comité Regional de Promoción Económica y el H. Ayuntamiento donde se desarrollará el proyecto que se dictaminó, dicho Dictamen podrá ser utilizado para realizar los trámites ante las áreas recaudadoras municipales y estatales. Para su respectiva reducción de estímulos otorgados y período de vigencia establecido en tanto se otorga el Certificado de Promoción Fiscal en definitiva.
 
 La Secretaría deberá notificar lo conducente a las autoridades involucradas en el otorgamiento de los incentivos establecidos en cada resolución.
 
@@ -839,7 +921,9 @@ Las empresas interesadas en recibir estos apoyos, deberán presentar su solicitu
 
 Gozarán de estímulos las empresas que brinden cursos de capacitación y productividad, tecnología, programas de calidad total, modernización de esquemas administrativos, seminarios de seguridad e higiene laboral a sus trabajadores de todos los niveles, siempre que dichos cursos, programas y seminarios sean enfocados al cumplimiento cabal de sus actividades y cumplan con los fines y objetivos de esta Ley.
 
-I.- Las empresas podrán hacer deducible contra el pago del Impuesto sobre Nómina, los gastos relacionados por los siguientes conceptos, considerando lo establecido en el Artículo 30 de esta Ley:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+I.- Las empresas podrán hacer deducibles contra el pago del Impuesto Sobre Nómina, considerando lo establecido en el artículo 79 BIS de esta Ley, los gastos relacionados con los conceptos siguientes:
 
 1). Material didáctico utilizando en el programa;
 
@@ -864,6 +948,10 @@ III.- En función de necesidades específicas de las empresas, se podrán tramit
 2). Otorgamiento de becas para capacitación y adiestramiento; y
 
 3). Pago parcial de costos de adiestramiento y capacitación.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 79 BIS.- Cuando esta Ley establezca como incentivo la deducibilidad en el Impuesto Sobre Nómina, se deberá autorizar cada deducción por la Secretaría y el CODESIN y se otorgará mediante CEPROFIES, los cuales se harán efectivos en el ejercicio inmediato siguiente. Dichas deducciones no podrán exceder del 25% de dicho impuesto. La Secretaría de Desarrollo Económico y el CODESIN definirán criterios cada año para establecer los montos deducibles para cada caso.
 
 ## TITULO V. DE LA COMISION DICTAMINADORA
 
@@ -1220,3 +1308,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA
 Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial El Estado de Sinaloa.
 
 Artículo Segundo. Se deroga el Título II de la Ley de Fomento a la Inversión para el Desarrollo Económico del Estado de Sinaloa, publicada en el Periódico Oficial El Estado de Sinaloa número 143, segunda sección, de fecha 27 de noviembre de 1996, en lo correspondiente a la desregulación económica y simplificación administrativa, así como las demás disposiciones legales y administrativas que se opongan a la presente Ley.
+
+P.O. 9 DE AGOSTO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas de Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
