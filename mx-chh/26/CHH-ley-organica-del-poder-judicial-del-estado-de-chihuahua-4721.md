@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2005-03-09"
+last_updated: "2006-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2005. REPUBLICADO 16 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -131,41 +131,33 @@ II.- Empleados de Confianza; o
 
 III.- Empleados de Base.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 16.
 
 Son funcionarios:
 
-I.- Los magistrados;
+I. Los magistrados;
 
-II.- Los jueces;
+II. Los jueces;
 
-III.- El Secretario General;
+III. El Secretario General;
 
-IV.- El Oficial Mayor del Supremo Tribunal;
+IV. El Oficial Mayor del Supremo Tribunal;
 
-V.- Los Secretarios del Supremo Tribunal y de los Juzgados;
+V. Los Secretarios del Supremo Tribunal y de los Juzgados;
 
-> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+VI. El Contralor General;
 
-VI.- El Contralor General;
+VII. El Director del Centro Estatal de Mediación;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2003)</small>
+VIII. Los Subdirectores Regionales del Centro Estatal de Mediación;
 
-VII.- El Director del Centro Estatal de Mediación;
+IX. Los Notificadores;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2003)</small>
+X. Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el artículo 42 de esta Ley; y
 
-VIII.- Los Subdirectores Regionales del Centro Estatal de Mediación;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
-
-IX.- Los notificadores; y
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
-
-X.- Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el Artículo 42 de esta Ley.
+XI. Los administradores de los Tribunales del Estado.
 
 ###### ARTICULO 17.
 
@@ -287,67 +279,65 @@ La declaración deberá presentarse ante el Secretario General del Supremo Tribu
 
 La falsedad del contenido de la declaración o la omisión de presentarla en los plazos señalados, será motivo de cese definitivo del infractor en sus funciones. Lo anterior sin perjuicio de que si el Pleno lo estima pertinente, se dé conocimiento de los hechos a las autoridades respectivas. En el caso de la fracción III, su incumplimiento inhabilitará al infractor hasta por diez años, para ser designado en un nuevo cargo en el Poder Judicial.
 
-### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL Y DE LA CARRERA JUDICIAL
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 32 BIS.- La carrera judicial tiene por objeto, con base en el sistema de méritos y de oposición, garantizar la eficiencia en la administración de justicia y asegurar en igualdad de oportunidades el ingreso, el ascenso, el traslado y la permanencia de los jueces del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Para la designación de funcionarios y empleados del Poder Judicial se tomarán en cuenta: la eficiencia, honradez, responsabilidad, disciplina y antigüedad en el desempeño de cargos afines. Tendrán preferencia, en igualdad de condiciones, quienes hayan servido en él y quienes hayan aprobado los cursos correspondientes del Centro de Formación y Actualización Judicial.
+En los procedimientos para la selección y nombramiento de funcionarios y empleados del Poder Judicial se evitará cualquier tipo de discriminación y se privilegiará la equidad de género.
 
-> <small>(REFORMADO, 24 DE ABRIL DE 2004)</small>
+En tales procedimientos se tomará en cuenta la eficiencia, honradez, responsabilidad, disciplina y antigüedad en el desempeño de cargos afines. Tendrán preferencia, en igualdad de condiciones, quienes hayan servido en él y quienes hayan aprobado los cursos correspondientes del Centro de Formación y Actualización Judicial.
 
-Los Magistrados no podrán proponer y los Jueces nombrar, como funcionarios o empleados de las oficinas de su adscripción, a sus cónyuges, ni a personas con las que tengan parentesco por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo.
+Podrá disponerse también la práctica de exámenes sicométricos cuando se consideren indispensables para un mejor servicio público.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 34.
 
-Las vacantes de Jueces de Primera Instancia, así como la del Director General del Centro Estatal de Mediación, se cubrirán mediante concurso de méritos.
+Las vacantes de jueces de primera instancia, la del Director General del Centro Estatal de Mediación, así como las de los Administradores de los Tribunales, se cubrirán mediante concurso de méritos y de oposición.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 35.
 
-El concurso de méritos se sujetará a las siguientes reglas:
+El concurso de méritos y oposición se sujetará a las siguientes reglas:
 
-I.- Será convocado, previo acuerdo del Pleno, por el Secretario General y lo llevará a cabo una comisión designada por aquél;
+I. Será convocado, previo acuerdo del Pleno, por el Secretario General y lo llevará a cabo una comisión designada por aquél.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
+II. Se escuchará la opinión de las asociaciones de abogados del Distrito Judicial donde se genere la vacante, para lo cual oportunamente se les comunicará la lista de aspirantes y la fecha del examen.
 
-II.- Se escuchará la opinión de las asociaciones de abogados del Distrito Judicial donde se genere la vacante, para lo cual oportunamente se les comunicará la lista de aspirantes y la fecha del examen.
+III. Al examen que deba realizarse para elegir magistrados, jueces, al Director General del Centro Estatal de Mediación o a los Administradores de los Tribunales, se aplicarán las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2003)</small>
+a) La Comisión formulará y entregará a los sustentantes una guía respecto de las materias o aspectos sobre los que versará el examen que deban presentar, cuyo contenido deberán definir siguiendo las recomendaciones del Centro de Formación y Actualización Judicial. En el examen correspondiente se incluirán aspectos dirigidos a evaluar la perspectiva de género.
 
-III.- Al examen que deba realizarse para elegir Magistrados, Jueces o al Director General del Centro Estatal de Mediación, se aplicarán las siguientes bases:
+b) En el caso de la elección de magistrados, los miembros del Jurado Calificador que designe el Poder Judicial, serán magistrados de la materia afín a la que deba conocer la Sala que se concursa, mediante la correspondiente insaculación. Tratándose de la designación de jueces, la Comisión se integrará por tres magistrados de la materia que deba conocer el Juzgado que se concursa, de igual forma mediante la correspondiente insaculación; tratándose de la designación del Director General del Centro Estatal de Mediación y de los Administradores de Tribunales, la Comisión se integrará por magistrados tanto civiles como penales, así como por especialistas en las materias de mediación o administración, según corresponda, avalados por una institución educativa legalmente reconocida.
 
-> <small>(REFORMADO P.O. 5 DE ENERO DE 2000)</small>
+c) La Comisión también deberá calificar a los aspirantes tomando en cuenta su experiencia profesional y académica, desempeño en la docencia, obras publicadas, aspectos disciplinarios y, en su caso, la antigüedad, calidad y capacidad demostrada en el desempeño de cargos anteriores en el Poder Judicial o en la administración pública, conforme se determine en el reglamento.
 
-a).- El Jurado formulará y entregará a los sustentantes una guía respecto de las materias o aspectos sobre los que versará el examen que deban presentar;
+d) Si alguno de los miembros de la Comisión tiene relación laboral o de parentesco con cualquiera de los sustentantes se excusará de formar parte de ella, nombrándose en su lugar al sustituto.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+e) La Comisión presentará el dictamen correspondiente y lo someterá al Pleno en el primer Acuerdo siguiente, señalando a las tres personas que conforme a los criterios dispuestos anteriormente son las más idóneas para ocupar el puesto vacante y dando a conocer el resultado del examen en relación con los demás sustentantes.
 
-b).- En al caso de la elección de magistrados, los miembros del Jurado Calificador que designe el Poder Judicial, serán magistrados de la materia afín a la que deba conocer la Sala que se concursa; tratándose de la designación de Jueces, el Jurado se integrará por Magistrados de la materia que deba conocer el Juzgado que se concursa; tratándose de la designación del Director General del Centro Estatal de Mediación, el Jurado se integrará por magistrados tanto civiles como penales, así como por especialistas en la materia de mediación, avalados por una institución educativa legalmente reconocida; y,
+IV. El nombramiento sólo podrá recaer en alguno de los aspirantes que conforman la terna. Cuando no haya aspirantes al cargo o la Comisión no recomiende a ninguno, o haciéndola no la apruebe el Pleno, se lanzarán sucesivas convocatorias hasta alcanzar la designación respectiva.
 
-> <small>(REFORMADO P.O. 5 DE ENERO DE 2000)</small>
+De conformidad con los Acuerdos que al efecto expida el Pleno, las etapas del concurso de méritos y oposición a que se refiere el presente artículo, se efectuarán en forma pública y transparente, y de la misma forma se dará a conocer su resultado.
 
-c).- Si alguno de los miembros del Jurado tiene relación laboral o de parentesco con cualquiera de los sustentantes se excusará de formar parte del Jurado que lo examine, nombrándose en su lugar al magistrado sustituto que para tal efecto se designará en su oportunidad;
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2003)</small>
+ARTICULO 35 BIS.- En forma periódica el Centro de Formación y Actualización Judicial realizará cursos especializados para capacitar en las destrezas y los conocimientos necesarios para ocupar un cargo judicial, dirigidos a aquellas personas interesadas en participar en un concurso de méritos y oposición.
 
-IV.- El Pleno, previo dictamen de la Comisión, decidirá quién deberá ser designado como Titular del Juzgado o Director General del Centro Estatal de Mediación, para lo que deberá tomar en cuenta:
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+ARTICULO 35 TER. La Secretaria General formará un archivo con los nombres de todas aquellas personas que, luego de participar en un concurso de méritos y oposición, hayan sido consideradas idóneas por la Comisión para ocupar el cargo, pero no fueron escogidas.
 
-a).- La honradez, la responsabilidad y la experiencia profesional de los concursantes, especialmente la que hubieran obtenido en cargos judiciales y en administración pública;
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
-
-b).- Los cursos aprobados en el Centro de Información y Capacitación Judicial, así como sus demás antecedentes académicos, y
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
-
-c).- La capacidad y aptitud demostrada en los exámenes que se les hubieran aplicado.
+Estos resultados se tomarán en cuenta cuando el sustentante presente nueva gestión para optar por otro puesto similar.
 
 ###### ARTICULO 36.
 
@@ -403,11 +393,11 @@ En cuanto a la extensión y límites de los Municipios y las Secciones Municipal
 
 ### CAPITULO I. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
-(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 38.
 
-El Supremo Tribunal de Justicia estará integrado, cuando menos, por nueve magistrados. Funcionará en pleno o mediante salas unitarias que podrán ser centrales o regionales. El asiento del primero estará en la ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado. Las salas centrales residirán en la ciudad de Chihuahua; y las regionales en la población que determine el Pleno, tendiendo la competencia territorial y jurisdiccional que éste les asigne.
+El Supremo Tribunal de Justicia estará integrado, cuando menos, por quince magistrados. Funcionará en pleno o mediante salas unitarias o colegiadas, las cuales podrán ser centrales o regionales. El asiento del primero estará en la ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado. Las Salas centrales residirán en la ciudad de Chihuahua y las Regionales en la población que determine el Pleno, con la competencia territorial y jurisdiccional que éste les asigne.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -437,41 +427,41 @@ En caso de que la ley otorgue alguna facultad al Supremo Tribunal de Justicia y 
 
 No podrán fungir como magistrados quienes sean entre sí cónyuges, parientes consanguíneos dentro del cuarto grado y por afinidad en el segundo.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 42.
 
-Funcionarán bajo la dependencia del Presidente del Supremo Tribunal de acuerdo a esta ley y sus reglamentos:
+Funcionarán bajo la dependencia del Presidente del Supremo Tribunal de acuerdo a esta Ley y a sus reglamentos:
 
-I.- Archivo general;
+l. El Archivo General.
 
-II.- Archivo histórico;
+II. Archivo Histórico.
 
-III.- Centro de formación y actualización judicial;
+III. Bibliotecas Judiciales.
 
-IV.- Bibliotecas judiciales;
+IV. Defensoría de Oficio.
 
-V.- Defensoría de oficio;
+V. Oficialías de Turnos.
 
-VI.- Oficialías de turnos;
+VI. Centrales de notificadores y ministros ejecutores.
 
-VII.- Centrales de notificadores y ministros ejecutores;
+VII. Departamento de estudios sicológicos y socioeconómicos.
 
-VIII.- Departamento de estudios psicológicos y socioeconómicos;
+VIII. Departamento de evaluación y control presupuesta.
 
-IX.- Departamento de evaluación y control presupuestal;
+IX. Fondo auxiliar para la administración de justicia.
 
-X.- Fondo auxiliar para la administración de justicia;
+X. Departamento de Informática.
 
-XI.- Departamento de informática;
+XI. Departamento de fotocopiado.
 
-XII.- Departamento de fotocopiado;
+XII. Departamento de almacén.
 
-XIII.- Departamento de almacén;
+XIII. Departamento de mantenimiento.
 
-XIV.- Departamento de mantenimiento;
+XIV. La unidad de información.
 
-XV.- Las demás dependencias necesarias para la buena marcha de la administración de justicia.
+XV. Las demás dependencias necesarias para la buena marcha de la Administración de Justicia.
 
 ### CAPITULO II. DEL TRIBUNAL PLENO
 
@@ -511,123 +501,97 @@ Una vez aprobadas por el Pleno las actas de sus sesiones, serán autorizadas por
 
 Ningún Magistrado de los presentes en la sesión podrá abstenerse de votar ni retirarse de ella sin la autorización del Pleno. Si con el retiro autorizado de uno o varios Magistrados se afecta el quórum legal, se suspenderá la sesión para reiniciarla el día que el Presidente señale.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 50.
 
 Son facultades del Pleno:
 
-(REFORMADA, P.O. 9 DE MARZO DE 2005) (REPUBLICADA, P.O. 16 DE MARZO DE 2005)
+l. Elegir, entre los magistrados inamovibles, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes.
 
-I.- Elegir, entre los magistrados inamovibles, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes;
+II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia.
 
-(REFORMADA, P.O. 9 DE MARZO DE 2005) (REPUBLICADA, P.O. 16 DE MARZO DE 2005)
+III. Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado.
 
-II.- Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia.
+IV. Elegir la terna para los efectos del artículo 68 de esta Ley.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+V. Convocar a concurso de oposición para designación de jueces de primera instancia, Director General del Centro Estatal de Mediación y, en su caso, de los Administradores de los Tribunales. Hacer el nombramiento correspondiente de los mismos. Declarar, a solicitud del interesado, cuando algunos (sic) de los jueces ha devenido inamovible, con excepción del Director General del Centro Estatal de Mediación y los Administradores de los Tribunales, quienes no gozarán de tal derecho.
 
-III.- Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado;
+VI. Encomendar el trámite y dictamen de algún asunto, cuya resolución corresponda al Pleno, a alguna de las salas o juzgados.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+VII. De oficio o a petición del magistrado, atraer cualquier asunto que por su trascendencia considera conveniente resolver.
 
-IV.- Elegir la terna para los efectos del artículo 68 de esta ley;
+VIII. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+IX. Crear y suprimir juzgados, establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia. Lo mismo procederá en los casos de las Subdirecciones Regionales de Mediación, en los términos de su ley.
 
-V.- Convocar a conducto de oposición para la designación de Jueces de Primera Instancia y del Director General del Centro Estatal de Mediación y hacer el nombramiento correspondiente de los mismos. Declarar, a solicitud del interesado, cuando alguno de los Jueces ha devenido inamovible, con excepción del Director General del Centro Estatal de Mediación, quien no gozará de tal derecho;
+Cuando así lo justifique una mejor y más adecuada prestación del servicio judicial, el Pleno podrá acordar la conformación de juzgados integrados cada uno de ellos por los jueces que sean necesarios y que autorice el presupuesto, quienes actuarán en forma unitaria o colegiada de conformidad con lo dispuesto en la Ley.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+En estos casos, el Pleno designará a uno de los jueces en calidad de Presidente, a quien corresponderá ejercer las funciones a que se refieren los artículos 170 a 173 de esta Ley.
 
-VI.- Encomendar el trámite y dictamen de algún asunto cuya resolución corresponda al Pleno, a alguna de las salas o juzgados;
+X. Nombrar, cesar o cambiar de adscripción a jueces, secretarios y notificadores, así como a funcionarios y empleados del tribunal.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+XI. Ordenar visitas de inspección a salas, juzgados y demás dependencias del Supremo Tribunal así como a los locales de internación de procesados.
 
-VII.- De oficio o a petición del magistrado, atraer cualquier asunto que pro (sic) su trascendencia considera conveniente resolver;
+XII. Crear y suprimir secretarías auxiliares del Supremo Tribunal y las demás dependencias necesarias para su eficaz administración.
 
-VIII.- Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aún cuando no fueren del mismo ramo;
+XIII. Aumentar temporalmente el número de funcionarios o empleados del Poder Judicial, cuando así lo requieran las necesidades de trabajo.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+XIV. Aprobar los nombramientos que hicieren los Jueces y Administradores de los Juzgados, de los funcionarios y del personal de apoyo o auxiliar, así como los nombramientos de los Subdirectores Regionales y los mediadores adscritos al mismo, que hiciere el Director General del Centro Estatal de Mediación.
 
-IX.- Crear y suprimir Juzgados y establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia. Lo mismo procederá en los casos de las Subdirecciones Regionales de Mediación, en los términos de su Ley;
+XV. Conceder licencias a funcionarios y empleados para separarse de sus cargos, salvo que esta atribución corresponda a otras instancias del Poder Judicial o de la administración pública.
 
-X.- Nombrar, cesar o cambiar de adscripción a jueces, secretarios y notificadores, así como a funcionarios y empleados del tribunal;
+XVI. Resolver, siempre que no sea competencia de otro órgano de autoridad, las controversias que se suscitaren entre los Poderes Legislativo y el Ejecutivo del Estado.
 
-XI.- Ordenar visitas de inspección a salas, juzgados y demás dependencias del Supremo Tribunal así como a los locales de internación de procesados;
+XVII. Resolver las controversias entre los ayuntamientos y entre éstos con el Legislativo o con el Ejecutivo del Estado.
 
-XII.- Crear y suprimir secretarías auxiliares del Supremo Tribunal y las demás dependencias necesarias para su eficaz administración;
+XVIII. Conocer de las quejas planteadas contra los órganos de autoridad por violación de alguno de los derechos de los gobernados establecidos en los artículos 6, 7 y 8 de la Constitución del Estado.
 
-XIII.- Aumentar temporalmente el número de funcionarios o empleados del Poder Judicial, cuando así lo requiera las necesidades de trabajo;
+XIX. Dirimir las cuestiones de competencias entre las salas y entre éstas y los juzgados.
 
-> <small>(REFORMADA P.O. 7 DE JUNIO DE 2003)</small>
+XX. Conocer y resolver las recusaciones hechas valer respecto a los magistrados.
 
-XIV.- Aprobar los nombramientos que hicieran los Jueces de los Secretarios del Juzgado, así como los nombramientos de los Subdirectores Regionales y de los mediadores adscritos al mismo, que hiciera el Director General del Centro Estatal de Mediación.
+XXI. Conocer de las quejas contra el Presidente del Tribunal, magistrados y jueces. En su caso, imponer las correcciones disciplinarias que correspondan.
 
-XV.- Conceder licencias a funcionarios y empleados para separarse de sus cargos, salvo que esta atribución corresponda a otras instancias del Poder Judicial o de la administración pública;
+XXII. Revocar, modificar o confirmar las providencias provisionales que hubiere tomado el Presidente del Tribunal.
 
-XVI.- Resolver, siempre que no sea competencia de otro órgano de autoridad, las controversias que se suscitaren entre los Poderes Legislativo y el Ejecutivo del Estado;
+XXIII. Revocar o modificar a petición de alguno de los magistrados, los acuerdos adoptados en sesiones anteriores.
 
-XVII.- Resolver las controversias entre los ayuntamientos y entre éstos con el Legislativo o con el Ejecutivo del Estado;
+XXIV. Autorizar el cambio de radicación de los procesos penales, cuando lo solicite el imputado o el Procurador General de Justicia del Estado, si mediare alguna razón concreta y grave que lo justifique.
 
-XVIII.- Conocer de las quejas planteadas contra los órganos de autoridad por violación de alguno de los derechos de los gobernados establecidos en los artículos 6, 7 y 8 de la Constitución del Estado;
+XXV. Resolver las contradicciones de criterios jurisdiccionales que se manifestaren entre las salas del Tribunal.
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+XXVI. Iniciar ante el Congreso leyes y decretos en materia civil, incluida la familiar, penal, procesal y de organización de tribunales.
 
-XIX.- Dirimir las cuestiones de competencia entre las salas y entre éstas y los juzgados;
+XXVII. Interpretar, con efectos vinculatorios para los tribunales del Estado, las disposiciones de esta Ley, de sus reglamentos y de las leyes a que se refiere la fracción anterior.
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+XXVIII. Aprobar los reglamentos interiores, incluidos todos los que fueren necesarios para proveer a la observancia de esta Ley.
 
-XX.- Conocer y resolver las recusaciones hechas valer respecto a los magistrados;
+XXIX. Formular el Proyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
 
-XXI.- Conocer de las quejas contra el Presidente del Tribunal, magistrados y jueces. En su caso, imponer las correcciones disciplinarias que correspondan;
+XXX. Autorizar las erogaciones extraordinarias que deban realizarse para una mejor impartición de justicia y mayor eficacia de la administración del Supremo Tribunal.
 
-XXII.- Revocar, modificar o confirmar las providencias provisionales que hubiere tomado el Presidente del Tribunal;
+XXXI. Revisar y, en su caso, aprobar la cuenta de gastos del Poder Judicial.
 
-XXIII.- Revocar o modificar a petición de alguno de los magistrados, los acuerdos adoptados en sesiones anteriores;
+XXXII. Fijar las vacaciones del personal del Poder judicial y los días en que no habrán actuaciones judiciales.
 
-> <small>(REFORMADA, 24 DE ABRIL DE 2004)</small>
+XXXIII. Conceder estímulos y recompensas a los servidores del Poder Judicial.
 
-XXIV.- Autorizar el cambio de radicación de los procesos penales, de la siguiente manera:
+XXXIV. Organizar instituciones para mejorar el nivel profesional de los funcionarios y empleados del Poder Judicial y editar publicaciones para difundir las actividades forenses y la cultura jurídica.
 
-a).- Cuando lo solicite el inculpado, si mediare alguna razón concreta y grave que lo justifique;
+XXXV. Crear bibliotecas jurídicas en las cabeceras de los distritos judiciales.
 
-b).- Cuando lo solicite el Procurador General de Justicia del Estado, siempre que el delito imputado al procesado sea grave o el reclusorio en donde éste se encuentre no preste la seguridad debida.
+XXXVI. Realizar actividades de conmemoración y de reconocimiento de personas y hechos relacionados con el Poder Judicial.
 
-XXV.- Resolver las contradicciones de criterios jurisdiccionales que se manifestaren entre las salas del Tribunal;
+XXXVII. Dictar las medidas pertinentes para que la administración de justicia sea expedita, pronta y cumplida así como para que se observen puntualidad y disciplina en el ejercicio de la misma.
 
-XXVI.- Iniciar ante el Congreso leyes y decretos en materia civil, incluida la familiar, penal, procesal y de organización de tribunales;
+XXXVIII. Resolver todo lo relativo a las faltas o ausencias de jueces.
 
-XXVII.- Interpretar, con efectos vinculatorios para los tribunales del Estado, las disposiciones de esta Ley, de sus reglamentos y de las leyes a que se refiere la fracción anterior;
+XXXIX. Designar suplentes con el propósito de sustituir jueces titulares, en caso de ausencia accidental.
 
-XXVIII.- Aprobar los reglamentos interiores, incluídos todos los que fueren necesarios para proveer a la observancia de esta Ley;
+XL. Crear sistemas de becas de posgrado para los funcionarios del Poder Judicial, con el fin de que éstos se especialicen en instituciones de enseñanza superior, tanto en el país como en el extranjero, quienes se separan de sus cargos en comisión, conforme se determine en el reglamento.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
-
-XXIX.- Formular el proyecto de Presupuesto anual de Egresos del Poder Judicial del Estado, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado;
-
-XXX.- Autorizar las erogaciones extraordinarias que deban realizarse para una mejor impartición de justicia y mayor eficacia de la administración del Supremo Tribunal;
-
-XXXI.- Revisar y, en su caso, aprobar la cuenta de gastos del Poder Judicial;
-
-XXXII.- Fijar las vacaciones del personal del Poder judicial y los días en que no habrá actuaciones judiciales;
-
-XXXIII.- Conceder estímulos y recompensas a los servidores del Poder Judicial;
-
-XXXIV.- Organizar instituciones para mejorar el nivel profesional de los funcionarios y empleados del Poder Judicial y editar publicaciones para difundir las actividades forenses y la cultura jurídica;
-
-XXXV.- Crear bibliotecas jurídicas en las cabeceras de los distritos judiciales;
-
-XXXVI.- Realizar actividades de conmemoración y de reconocimiento de personas y hechos relacionados con el Poder Judicial;
-
-XXXVII.- Dictar las medidas pertinentes para que la administración de justicia sea expedita, pronta y cumplida así como para que se observen puntualidad y disciplina en el ejercicio de la misma. Y
-
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
-
-XXXVIII.- Las demás atribuciones que estuvieren expresamente establecidas en la Constitución Política del Estado o derivaren de ésta, así como las conferidas por las leyes. Sin perjuicio de darles mayor difusión, se publicarán en el Periódico Oficial del Estado las decisiones relacionadas con las facultades señaladas en las fracciones I, II, III, V, IX, XXV, XXVI, XXVII, XXVIII, XXXI y XXXII de este artículo.
-
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
-
-Sin perjuicio de darles mayor difusión, se publicarán en el Periódico Oficial del Estado las decisiones relacionadas con las facultades señaladas en las fracciones I, II, III, IV, V, VI, IX, XXV, XXVII, XXVIII, XXXI y XXXII de este Artículo.
+XLI. Las demás atribuciones que estuvieren expresamente establecidas en la Constitución Política del Estado o derivaren de ésta, así como las conferidas por las leyes. Sin perjuicio de darles mayor difusión, se publicarán en el Periódico Oficial del Estado las decisiones relacionadas con las facultades señaladas en las fracciones I, II, primer párrafo, III, V, IX, XXV, XXVI, XXVI, XXVIII, XXXI y XXXII de este artículo.
 
 ### CAPITULO III. DEL PRESIDENTE
 
@@ -757,71 +721,79 @@ El Presidente del Supremo Tribunal rendirá en el mes de enero, ante el Pleno en
 
 Las providencias y acuerdos del Presidente podrán reclamarse ante el Pleno, siempre que dicha reclamación se presente por escrito, por parte legítima, con motivo fundado y dentro del término de tres días. El Pleno con vista a las constancias respectivas, resolverá lo conducente.
 
-### CAPITULO IV. DE LAS SALAS DE APELACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE AGOSTO DE 2006)</small>
+
+### CAPITULO IV. DE LAS SALAS
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 59.
 
-Las Salas serán unitarias y el Pleno determinará la materia sobre la que conocerá cada una. Habiendo varias de un mismo ramo se les designará por orden numérico.
+Las Salas serán unitarias o colegiadas y el Pleno determinará la materia sobre la que conocerá cada una. Existiendo varias de un mismo ramo se les designará por orden numérico. En materia penal las Salas serán colegiadas para conocer de los recursos de casación y revisión, pero serán unitarias para conocer del recurso de apelación en todos los casos.
+
+El recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y el recurso de revisión deberán conocerlo Magistrados que no hubieren intervenido en el mismo asunto en casación.
 
 ###### ARTICULO 60.
 
 La distribución de las Salas se hará mediante arreglo de los Magistrados y no llegándose a un acuerdo, por designación del Presidente.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 61.
 
-Cada Sala se integrará por un Magistrado, un Secretario de Acuerdos y los Secretarios Proyectistas y personal subalterno que exija el servicio y autorice el Presupuesto.
+Cada Sala se integrará por un Magistrado, un Secretario de Acuerdos y los Secretarios Proyectistas y personal subalterno que exige el servicio y autorice el presupuesto.
+
+Las Salas colegiadas en materia penal estarán conformadas por tres Magistrados que integren salas unitarias del mismo ramo, uno de los cuales tendrá el carácter de Presidente de la misma. El Pleno del Supremo Tribunal dictará, en su caso, las disposiciones generales para su conformación y funcionamiento.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 62.
 
-Las resoluciones de las Salas deberán ser firmadas por Magistrados y autorizadas por el Secretario de Acuerdos, quien tendrá fe pública en todo lo relativo al ejercicio de su cargo.
+La resoluciones de las Salas deberán ser firmadas por sus titulares y en su caso autorizadas por el Secretario de Acuerdos, quien tendrá fe pública en todo lo relativo al ejercicio de su cargo.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 63.
 
 Corresponde a los Magistrados de las Salas de Apelación:
 
-(REFORMADA, P.O. 9 DE MARZO DE 2005) (REPUBLICADA, P.O. 16 DE MARZO DE 2005)
+l. Conocer, cada uno en su ramo, de los recursos contra resoluciones dictadas por los Jueces y que les sean turnados por el Presidente del Supremo Tribunal, conociendo preferentemente del asunto la Sala que haya prevenido en él, salvo lo dispuesto para la materia penal. Si por omisión se turnare el asunto a una Sala y se observara que otro previno, aquélla lo enviará a la que corresponda sin más trámite que notificar a las partes su remisión. Lo actuado por la Sala que no previno tendrá pleno valor. En caso de que ésta resuelva en definitiva, el conocimiento del asunto continuará correspondiendo a la Sala que conoció originalmente. Tratándose de Salas Regionales, si son varias del mismo ramo, el Pleno señalará la forma del turno de los asuntos;
 
-I.- Conocer cada uno en su ramo, de los recursos de apelación y denegada apelación interpuestos contra resoluciones dictadas por los Jueces y que les sean turnados por el Presidente del Supremo Tribunal, conociendo preferentemente del asunto la Sala que haya prevenido en él. Si por omisión se turnare el asunto a una Sala observara que otra previno, aquélla lo enviará a la que corresponda sin más trámite que notificar a las partes su remisión. Lo actuado por la Sala que no previno tendrá pleno valor. En caso de que ésta resuelva en definitiva, el conocimiento del asunto continuará correspondiendo a la Sala que conoció originalmente. Tratándose de salas regionales, si son varias del mismo ramo, el Pleno señalará la forma del turno de los asuntos.
+II. Conocer de los asuntos en los que la ley establezca la revisión de oficio;
 
-II.- Conocer de los asuntos en los que la ley establezca la revisión de oficio;
+III. Dirimir en su ramo las cuestiones de competencia que se susciten entre los Jueces, salvo los supuestos expresamente señalados en la ley. En el caso de que haya varios jueces de primera instancia en un mismo distrito que puedan ser declarados competentes, el Magistrado remitirá el asunto a que corresponda, según el turno que lleve la Presidencia del Supremo Tribunal para los juzgados;
 
-III.- Dirimir en su ramo las cuestiones de competencia que se susciten entre los Jueces de Primera Instancia, entre éstos y los Menores; así como en los casos en que existan conflictos de competencia entre Jueces Menores entre sí o con Jueces de Paz, o entre éstos últimos cuando pertenezcan a diversos Distrito Judiciales. En el caso de que haya varios Jueces de Primera Instancia en un mismo Distrito que puedan ser declarados competentes, el Magistrado remitirá el asunto al que corresponda, según el turno que lleve la Presidencia del Supremo Tribunal para los Juzgados;
+IV. Calificar cada uno en su ramo, las recusaciones de los Jueces de Primera Instancia y las recusaciones y excusas de los Secretarios de la Sala de su adscripción;
 
-IV.- Calificar cada uno en su ramo, las recusaciones de los Jueces de Primera Instancia y las recusaciones y excusas de los Secretarios de la Sala de su adscripción;
+V. Remitir al Tribunal Pleno, dentro de los cinco primeros días de cada mes, una noticia sobre el movimiento de negocios habidos en la Sala durante el mes anterior, especificando el estado que guarden los negocios existentes en ellas y la naturaleza de las resoluciones pronunciadas y una anual dentro de los primeros cinco días del mes de enero de cada año;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+VI. Constituirse, en Salas Penales unitarias, como únicos superiores jerárquicos de los jueces del Estado, para conocer, por riguroso turno, de los amparos a que se refiere el artículo 107 de la Constitución Federal. La tramitación de dichos asuntos se sujetará a los procedimientos fijados en la ley Federal respectiva;
 
-V.- Remitir al Tribunal Pleno, dentro de los cinco primeros días de cada mes, una noticia sobre el movimiento de negocios habidos en la Sala durante el mes anterior, especificando el estado que guarden los negocios existentes en ellas y la naturaleza de las resoluciones pronunciadas y una anual dentro de los primeros cinco días del mes de enero de cada año;
+VII. Imponer correcciones disciplinarias en la forma que lo autoricen las leyes;
 
-VI.- Constituirse, los, de las Salas Penales, como únicos superiores jerárquicos de los Jueces del Estado, para conocer, por riguroso turno, de los amparos a que alude el artículo 107 de la Constitución Federal. La tramitación de dichos asuntos se sujetará a los procedimientos fijados en la Ley Federal relativa;
+VIII. Conocer de las quejas que se presenten en contra de los Secretarios y empleados de la Sala;
 
-VII.- Imponer correcciones disciplinarias en la forma que lo autoricen las leyes;
+IX. Vigilar que los Secretarios y demás empleados de la Sala cumplan con sus deberes respectivos, aplicando las correcciones que sean necesarias y, en su caso, dar cuenta al Pleno para los efectos pertinentes;
 
-VIII.- Conocer de las quejas que se presenten en contra de los Secretarios y empleados de la Sala;
+X. Encomendar a los Jueces del Estado conforme a su ramo, la práctica de diligencias en asuntos de su competencia que así lo requieran;
 
-IX.- Vigilar que los Secretarios y demás empleados de la Sala cumplan con sus deberes respectivos, aplicando las correcciones que sean necesarias y en su caso, dar cuenta al Pleno para los efectos pertinentes;
+XI. Proveer en la esfera administrativa todo lo necesario para el buen despacho de la oficina;
 
-X.- Encomendar a los Jueces del Estado conforme a su ramo, la práctica de diligencias en asuntos de su competencia que así lo requieran;
+XII. Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal; y
 
-XI.- Proveer en la esfera administrativa todo lo necesario para el buen despacho de la oficina;
+XIII. Ejercer las demás atribuciones que les señalen las leyes.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-XII.- Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal;
-
-XIII.- Ejercer las demás atribuciones que les señalen las leyes.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 64.
 
-Inhibido del conocimiento de un negocio, el Magistrado a quien fué turnado para su resolución, el asunto pasará a otra Sala por su orden de asignación y hasta agotar a todas aquéllas que pertenezcan al mismo ramo, sin más trámite que el de hacer saber la remisión de los autos a los interesados.
+Inhibido del conocimiento de un negocio, el Magistrado, a quien le fue turnado para su resolución será sustituido por otro Magistrado, por su orden de asignación, hasta agotar a todos aquellos que pertenezcan al mismo ramo, sin más trámite que el de hacer saber la remisión de los autos a los interesados.
 
-Si todos los Magistrados del mismo ramo se inhibieren del conocimiento de un asunto, pasará sucesivamente y por su orden, a las Salas del otro, iniciando con aquélla de asignación más baja. En todo caso y en las hipótesis que plantea éste y el párrafo anterior, se comunicará al Presidente del Tribunal el envío del expediente para los efectos del turno que se lleve.
+Si todos los Magistrados del mismo ramo se inhibieren del conocimiento de un asunto, pasará la competencia sucesivamente por orden, a Magistrados de otra materia, iniciando con aquél de asignación más baja, y concluyendo con el Presidente del Tribunal si fuere necesario. En todo caso y en las hipótesis que plantea éste y el párrafo anterior, se comunicará a la Presidencia del Tribunal la sustitución para los efectos del turno que se lleve.
 
-Inhibidos del conocimiento de un negocio los Magistrados de todas las Salas, conocerá del mismo el Presidente del Tribunal, quien se constituirá en Tribunal de Apelación únicamente para dichos efectos.
+Inhibidos del conocimiento de un negocio todos los Magistrados, éstos serán sustituidos por los Jueces de Primera Instancia del Distrito Morelos que correspondan al ramo al que pertenezca el asunto, empezando por el de asignación más baja y agotados éstos, pasará a un Juez de otro ramo en el mismo orden que se ha venido señalando. Para los efectos de este artículo, los Juzgados Familiares se considerarán como del ramo civil con una asignación más alta que la de los correspondientes a esa materia. El Juez o los Jueces que conozcan del asunto actuarán como integrantes del tribunal de alzada únicamente para dichos efectos.
 
-Inhibido el Presidente, pasará el conocimiento a los Jueces de Primera Instancia de la ciudad de Chihuahua que correspondan al ramo al que pertenezca el asunto, empezando por el de asignación más baja y agotados éstos, pasará a los del otro ramo en el mismo orden que se ha venido señalando. Para los efectos de este artículo, los Juzgados Familiares se consideran como del ramo civil con una asignación más alta que la de los correspondientes a esa materia. El Juzgado que conozca del asunto actuará como Tribunal de Alzada únicamente para dichos efectos.
-
-Si el Magistrado originalmente inhibido se separare de sus funciones definitivamente o por más de sesenta días, volverá el negocio a la Sala de su origen para que lo continúe el funcionario que lo ha de sustituir.
+Si el Magistrado originalmente inhibido se separare de sus funciones definitivamente o por más de sesenta días, volverá el negocio al despacho de origen para que lo continúe el funcionario que lo ha de sustituir.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -963,45 +935,45 @@ II.- Tener título de Abogado, Contador Público o Licenciado en Administración
 
 III.- No haber sido condenado por delito que amerite pena corporal por más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la fama en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 78.
 
 Al Oficial Mayor corresponderá la atención y despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+I. Vigilar las funciones administrativas y servicios generales del Poder Judicial;
 
-I.- Vigilar las funciones administrativas y servicios generales del Poder Judicial;
+II. Cuidar que se provea a las Salas, Juzgados y demás oficinas del Poder Judicial, de los elementos materiales necesarios para el mejor desempeño de sus funciones;
 
-II.- Cuidar que se provea a las Salas, Juzgados y demás oficinas del Poder Judicial de los elementos materiales necesarios para el mejor desempeño de sus funciones;
+III. Sugerir la adquisición de bienes y procurar los servicios que requieran las oficinas del Poder Judicial;
 
-III.- Sugerir la adquisición de bienes y procurar los servicios que requieran oficinas del Poder Judicial.
+IV. Levantar y mantener actualizado el inventario de recursos materiales del Poder Judicial;
 
-IV.- Levantar y mantener actualizado el inventario de recursos materiales del Poder Judicial;
+V. Procurar el correcto ejercicio del presupuesto de egresos del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+VI. Tener a su cargo el despacho de las cuestiones administrativas bajo la dirección del Presidente y del Secretario General;
 
-V.- Procurar el correcto ejercicio del presupuesto de egresos del Poder Judicial;
+VII. Conservar bajo su custodia los muebles y enseres que existan en las Dependencias del Poder Judicial, ejerciendo vigilancia sobre ellos;
 
-VI.- Tener a su cargo el despacho de las cuestiones administrativas bajo la dirección del Presidente y del Secretario General;
+VIII. Realizar las visitas que se le encomienden;
 
-VII.- Conservar bajo su custodia los muebles y enseres que existan en las Dependencias del Poder Judicial, ejerciendo vigilancia sobre ellos;
+IX. Controlar el servicio de conserjería del Tribunal;
 
-VIII.- Realizar las visitas que se le encomienden;
+X. Vigilar el cumplimiento del Reglamento en sus aspectos administrativos;
 
-IX.- Controlar el servicio de conserjería del Tribunal;
+XI. Formular el inventario físico del Poder Judicial;
 
-X.- Vigilar el cumplimiento del Reglamento en sus aspectos administrativos;
+XII. Auxiliar al Presidente en la elaboración del proyecto de Presupuesto de Egresos del Poder Judicial;
 
-XI.- Formular el inventario físico del Poder Judicial;
+XIII. Coordinar y vigilar los servicios de proveeduría;
 
-XII.- Auxiliar al Presidente en la elaboración del proyecto de Presupuesto de Egresos del Poder Judicial;
+XIV. Bajo la dirección del Presidente, tendrá a su cargo la vigilancia de los edificios que ocupen el Tribunal, los Juzgados y demás Dependencias del Poder Judicial, dictando las medidas adecuadas para su conservación e higiene y para este efecto, los locales, su conserjería y mobiliario estarán bajo sus órdenes;
 
-XIII.- Coordinar y vigilar los servicios de proveeduría;
+XV. Realizar todo aquello que le encomiende el Presidente o el Secretario General;
 
-XIV.- Bajo la dirección del Presidente, tendrá a su cargo la vigilancia de los edificios que ocupen el Tribunal, los Juzgados y demás Dependencias del Poder Judicial, dictando las medidas adecuadas para su conservación e higiene y para este efecto, los locales, sus conserjerías y mobiliario estarán bajo sus órdenes.
+XVI. Supervisar el desempeño, en su caso, de los administradores de los tribunales; y
 
-XV.- Realizar todo aquello que le encomiende el Presidente o el Secretario General; y
-
-XVI.- Los demás que le confieran las leyes.
+XVII. Los demás que le confieran las leyes.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
@@ -1103,25 +1075,67 @@ II.- Formular y actualizar los manuales de organización en el ámbito de su com
 
 Los funcionarios y empleados del Supremo Tribunal serán nombrados por el Pleno y rendirán la protesta de ley ante el Presidente del mismo cuando la ley no disponga que se haga ante otra autoridad.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 80.
 
-Habrá en el Supremo Tribunal de Justicia los Secretarios que autorice el Presupuesto. De ellos, cuando menos cuatro estarán adscritos a la Presidencia y el resto a las Salas de Apelación.
+Habrá en el Supremo Tribunal de Justicia los Secretarios que autorice el presupuesto. De ellos, cuando menos cuatro estarán adscritos a la Presidencia y el resto a las Salas.
 
 Tanto los Secretarios adscritos a la Presidencia como los adscritos a las Salas, serán designados por el Pleno a proposición respectivamente del Presidente y del Magistrado de la adscripción.
 
 El Pleno determinará al hacer la designación, si los Secretarios del Supremo Tribunal de Justicia tienen la condición de Secretarios de Acuerdos o Proyectistas adscritos a las Salas o si estarán adscritos a la Presidencia.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 80 BIS.- En los juzgados y en los tribunales de juicio oral podrá nombrarse un administrador de oficina, con las siguientes atribuciones:
+
+I. Realizar labores de jefatura de la oficina donde estuviere asignado.
+
+II. Vigilar y controlar la conducta de los funcionarios y empleados a su cargo, a fin de que ajusten su actuación a lo dispuesto por las leyes.
+
+III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
+
+IV. Remitir a la Presidencia del Supremo Tribunal, una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en los juzgados o tribunales en donde ejerce funciones administrativas, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes, siendo sujetos de responsabilidad administrativa por omisión;
+
+V. Tener bajo su custodia los locales de los juzgados o tribunales de su adscripción, los de las salas de audiencias que les correspondan así como la conservación de los bienes asignados a los mismos, debiendo poner en inmediato conocimiento del oficial mayor, cualquier deterioro que sufran;
+
+VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos sometidos a su conocimiento;
+
+VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos últimas fracciones;
+
+VIII. Distribuir los asuntos entre los jueces por turno riguroso; y
+
+IX. Las demás que determine la ley o el Pleno del Supremo Tribunal.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 80 TER.- Para ser administrador de oficina se requiere:
+
+I. Ser mayor de veinticinco años;
+
+II. Ser licenciado en administración o en derecho con especialidad en administración u otra materia análoga;
+
+III. No haber sido condenado por delito doloso en los últimos seis años.
+
 ###### ARTICULO 81.
 
 Habrá en el Supremo Tribunal de Justicia los Notificadores, escribientes y empleados que sean necesarios para el mejor despacho de los asuntos y admita el Presupuesto. Los anteriormente enunciados tendrán las atribuciones u obligaciones que la ley les señale y las que reciban de sus superiores con arreglo a sus facultades.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 82.
 
-En cada Sala de Apelación habrá cuando menos dos Secretarios. Uno de ellos tendrá el carácter de Secretario de Acuerdos, quien tendrá fe pública y el resto serán Secretarios Proyectistas, correspondiendo al de Acuerdos además la calidad de Primer Secretario de la Sala y a los Proyectistas, según su número, la de Segundo y subsiguientes de conformidad con la designación que económicamente determine el Magistrado en funciones.
+En cada Sala Unitaria habrá cuando menos dos Secretarios. Unos (sic) de ellos tendrá el carácter de Secretario de Acuerdos, quien tendrá fe pública y el resto serán secretarios Proyectistas, correspondiendo al de acuerdos además la calidad de primer secretario de la Sala y a los proyectistas, según su número, la de segundo y subsiguientes de conformidad con la designación que económicamente determine el Magistrado en funciones.
 
-Las ausencias temporales del Secretario de Acuerdos se cubrirán en la forma que esta Ley determina para las accidentales o por un nombramiento interino tomando en cuenta su duración. Las accidentales se cubrirán por los Secretarios Proyectistas de la Sala, por su orden, iniciando por el de más baja asignación, bastando para tal efecto que en el expediente donde se actúe se asiente dicha circunstancia en las actuaciones que se practiquen. Para el caso de que no haya Secretarios Proyectistas, las ausencias serán cubiertas por los Secretarios de Acuerdos de las otras Salas siguiendo el mismo orden que esta Ley señala para el caso en que los Magistrados se inhiban del conocimiento de los asuntos.
+Los funcionarios de las Salas Unitarias del ramo penal coadyuvarán, dentro del ámbito de sus atribuciones, en el desempeño de las Salas Colegiadas o de casación, cuando el titular de aquéllas integre estas últimas, de conformidad con las disposiciones generales que para tal efecto dicte el Pleno del Supremo Tribunal.
 
-En los casos de excusa o recusación del Secretario de Acuerdos, se aplicarán en lo conducente las reglas que este artículo previene.
+Las ausencias temporales del Secretario de Acuerdos se cubrirán en la forma que esta ley determina para las accidentales o por un nombramiento interino tomando en cuenta su duración.
+
+Las accidentales se cubrirán por los Secretarios Proyectistas de la Sala, por su orden, indicando (sic) por el de más baja asignación, bastando para tal efecto que en el expediente donde se actúe se asiente dicha circunstancia en las actuaciones que se practiquen.
+
+Para el caso de que no haya Secretarios Proyectistas, las ausencias serán cubiertas por los Secretarios de Acuerdos de las otras Salas siguiendo el mismo orden que esta ley señala para el caso en que los Magistrados se inhiban del conocimiento de los asuntos.
+
+En los casos de excusa o recusación del Secretario de Acuerdos, se aplicarán en lo conducente las reglas que este artículo previenen.
 
 ###### ARTICULO 83.
 
@@ -1825,25 +1839,215 @@ III.- Contar con experiencia profesional en el ramo de por lo menos tres años; 
 
 IV.- No haber sido condenado por delito intencional que amerite pena privativa de libertad.
 
-### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+### CAPITULO XVI. DEL CENTRO DE FORMACION Y ACTUALIZACION JUDICIAL
 
-### CAPITULO II. DE LOS JUZGADOS MENORES
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+ARTICULO 145 j.- El Centro de Formación y Actualización Judicial tiene por objeto la capacitación, formación, actualización y profesionalización de los funcionarios y empleados del Poder Judicial de la Entidad, que dependerá del pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 k.- El Centro tendrá las siguientes funciones:
+
+I. Diseñar los planes y programas interdisciplinarios de profesionalización, capacitación, especialización y actualización del personal judicial;
+
+II. Organizar maestrías, especialidades, diplomados, cursos, seminarios, ciclos de conferencias, coloquios, mesas redondas y cualquier otra actividad académica que sean necesarios para la formación y debida capacitación, especialización y actualización del personal judicial;
+
+III. Dictaminar sobre la evaluación del aprovechamiento académico de los participantes en los cursos y demás eventos académicos;
+
+IV. Instrumentar cursos y evaluaciones, que entre otros aspectos incluyan perspectiva de género, que sirvan de parámetro para el ingreso, permanencia y ascenso en el Poder Judicial;
+
+V. Impulsar el desarrollo y difusión de la investigación Jurídica, así como la elaboración de libros, antologías, ensayos, folletos, memorias y en general de todos los documentos necesarios para el fortalecimiento de la Cultura Jurídica;
+
+VI. Promover la celebración de convenios de coordinación e intercambio documental, científico y tecnológico con instituciones que realizan actividades afines, con el objeto de complementar y fortalecer las propias;
+
+VII. Establecer bases de cooperación con instituciones similares del país y del extranjero, así como con organismos públicos o privados e instituciones de educación superior, para el mejor logro de sus objetivos; y
+
+VIII. Todas las demás que se determinen en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 I.- Para el eficaz desempeño de sus actividades el Centro se integrará con un Director, un Jefe del Departamento de capacitación y especialización, un Jefe del Departamento de Investigación y demás personal docente y administrativo que determine el Pleno del Supremo Tribunal de Justicia, con las funciones que se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 m.- Corresponde al Director del Centro:
+
+I. Someter a consideración del Pleno del Supremo Tribunal, los planes y programas elaborados anualmente para la capacitación, especialización y actualización del personal judicial;
+
+II. Planear, organizar, dirigir y evaluar las actividades relacionadas con la capacitación, especialización y actualización del personal del Poder Judicial del Estado;
+
+III. Supervisar que los contenidos académicos de los cursos y eventos que se realicen, sean congruentes con los planes y programas autorizados;
+
+IV. Definir los criterios, lineamientos y políticas sobre la forma y contenido que deberán observarse en la edición de libros, folletos, antologías y, en general, de todos los documentos que el Centro genere, incluyendo los relacionados con la información judicial;
+
+V. Promover la celebración de convenios de coordinación e intercambio documental, científico y tecnológico, con instituciones y centros que realizan actividades afines, con el objeto de complementar y fortalecer las propias;
+
+VI. Seleccionar al personal docente y a los participantes en los cursos de capacitación, especialización y actualización que se organicen;
+
+VII. Presentar al Pleno del Tribunal, los informes anuales de las actividades realizadas;
+
+VIII. las demás que el Pleno del Supremo Tribunal de Justicia le encomiende;
+
+IX. En coordinación con los jefes de departamento según su área, formular los planes de estudio de maestría y especialidad de conformidad a las leyes en materia de educación, así como realizar los trámites necesarios para el reconocimiento de validez oficial que en cada caso se requiera ante las autoridades competentes;
+
+X. Programar ciclos de conferencias, mesas redondas, seminarios y cualquiera otra actividad académica, que sean necesarios para la debida capacitación, especialización y actualización del personal judicial;
+
+XI. Implementar un sistema de investigación constante sobre los avances doctrinales, legislativos y jurisprudenciales en materia jurídica; y
+
+XII. Todas las demás funciones que determine el Reglamento o le encargue el Pleno del Supremo Tribunal.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 n.- Para ser designado Director del Centro se requiere:
+
+I. Ser Licenciado en Derecho con antigüedad mínima de diez años
+
+II. Poseer grado académico de maestría o acreditar al menos diez años de experiencia docente a nivel superior;
+
+III. Ser de reconocida honorabilidad y buena conducta; y
+
+IV. No haber sido condenado por delito doloso en los últimos seis años.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 ñ.- Para ser Jefe de Departamento se requiere:
+
+l. Ser licenciado en Derecho con antigüedad mínima de tres años;
+
+II. Tener al menos tres años de experiencia en investigación o en docencia a nivel superior;
+
+III. No haber sido condenado por delito doloso en los últimos seis años; y
+
+IV. Ser de reconocida honorabilidad y buena conducta.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 145 o.
+
+El cuerpo docente se integrará de preferencia con personal del propio Poder Judicial, sin perjuicio de que pueda emplearse personal externo de reconocida capacidad en la práctica y enseñanza del derecho.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 p.- El Pleno del Supremo Tribunal de Justicia, podrá acordar que determinados funcionarios y empleados del Poder Judicial del Estado tomen de manera obligatoria cursos de capacitación, especialización o actualización que imparta el Centro u otras instituciones dentro o fuera de la Entidad, cuando ello sea conveniente para el mejoramiento del servicio judicial.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2006)</small>
+
+### CAPITULO XVII. DEL COMITE Y LA UNIDAD DE INFORMACION DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 q.- El Comité de Información del Supremo Tribunal de Justicia, es el cuerpo colegiado encargado de vigilar que se cumpla en la esfera de su competencia con lo establecido en la Ley de Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 r.- El Comité de información se integrará por el Presidente del Supremo Tribunal de Justicia y por los funcionarios que designe, aprobado por el Pleno del Supremo Tribunal de Justicia. El Comité de información deberá registrarse ante el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 s.- Compete al Comité de Información:
+
+I. Diseñar e implementar el Sistema de Información del Supremo Tribunal de Justicia;
+
+II. Vigilar que el Sistema de Información se ajuste a la normatividad aplicable y, en su caso, efectuar los correctivos que procedan;
+
+III. Realizar acciones para garantizar la protección de datos personales;
+
+IV. Clasificar y resguardar la información conforme a los criterios y lineamientos que al efecto expida el Instituto Chihuahuense para la Transparencia y Acceso a la Información Publica, elaborando, en los casos procedentes, la versión pública de dicha información;
+
+V. Turnar al referido Instituto, para su aprobación o modificación, en su caso, los resultados de la clasificación de la información;
+
+VI. Supervisar el registro y actualización de las solicitudes de acceso a la información, así como sus trámites, costos y resultados;
+
+VII. Supervisar la aplicación de los lineamientos, criterios y recomendaciones expedidos por el Instituto;
+
+VIII. Enviar los datos necesarios para la elaboración del informe anual del Instituto;
+
+IX. Establecer la Unidad y los Módulos de Información que sean necesarios y cuidar el efectivo cumplimiento de las funciones de éstos; y
+
+X. Promover la capacitación y actualización del personal adscrito a la Unidad y los Módulos.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 t.- La Unidad de Información del Poder Judicial del Estado es el órgano operativo encargado de registrar, procesar y difundir la información pública que se genere en la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 u.- La Unidad de Información estará a cargo de un titular, quien se auxiliará del personal técnico administrativo que permita el presupuesto.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 v.- El Personal adscrito a la Unidad será designado por el Comité de Información del Supremo Tribunal de Justicia con aprobación del Pleno.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 w.- El titular de la Unidad de Información deberá de reunir los siguientes requisitos:
+
+l. Tener título profesional de Licenciatura en derecho o en otra área de las ciencias sociales, con un mínimo de cinco años de experiencia;
+
+II. Ser ciudadano mexicano;
+
+III. Contar con conocimientos en materia del derecho de Acceso a la Información;
+
+IV. No haber sido condenado por delito doloso;
+
+V. Tener cuando menos 25 años cumplidos al momento de su designación; y
+
+VI. Gozar de reconocido prestigio personal y profesional.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 x.- La Unidad de Información tendrá como funciones las siguientes:
+
+l. Capturar, ordenar, desagregar por género, analizar y procesar la información judicial;
+
+II. Recabar, transparentar y actualizar la información pública de oficio a que se refiere esta Ley;
+
+III. Recibir y tramitar las solicitudes de información y darles seguimiento hasta la entrega de la misma;
+
+IV. Llevar el registro y actualizar mensualmente las solicitudes de acceso a la información, así como sus trámites, costos y resultados, haciéndolo del conocimiento del Comité;
+
+V. Asesorar y orientar a quienes lo requieran, en la elaboración de las solicitudes de información, así como en los trámites para el efectivo ejercicio de su derecho de acceso a la misma;
+
+VI. Efectuar las notificaciones correspondientes en los términos del reglamento;
+
+VII. Proponer al Comité los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información,
+
+VIII. Presentar al Comité el proyecto de clasificación de la información;
+
+IX. Elaborar un catálogo de información o de expedientes clasificados, actualizándolos, por lo menos, cada mes;
+
+X. Verificar, en cada caso, que la información solicitada no esté clasificada como reservada o confidencial;
+
+XI. Recibir las solicitudes: de aclaración, de la acción de Hábeas Data y de los recursos de revisión; dándoles el seguimiento que corresponda;
+
+XII. Conocer y resolver, en su caso, las solicitudes de aclaración que se presenten; y
+
+XIII. Las que otros ordenamientos establezcan.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 145 y.- El Personal que integre la Unidad de Información tendrá la obligación de guardar el secreto respecto a toda clase de información confidencial o reservada a que tenga acceso con motivo de su función. Su incumplimiento será motivo de sanción administrativa.
 
 ## TITULO QUINTO. DE LOS JUZGADOS DEL ESTADO
 
-### CAPITULO III. DE LOS JUZGADOS DE PAZ
+### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 146.
 
-Los juzgados de primera instancia podrán ser de los ramos civil, familiar, penal o mixtos. Tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
+Los Juzgados de Primera Instancia podrán ser de los ramos civil, familiar o penal o mixtos. Tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
+
+La Jurisdicción de primera instancia en materia penal estará a cargo de los jueces de garantía y de los tribunales de juicio oral, en los términos de la legislación procesal.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 147.
 
-El Pleno determinará, conforme a las necesidades de trabajo, el número de Juzgados de Primera Instancia, su ubicación, así como la materia o materias de las que deban conocer.
+El pleno determinará, conforme a las necesidades de trabajo, el número de juzgados de primera instancia, su ubicación, así como la materia o materias de las que deban conocer y, en su caso, la creación de juzgados itinerantes.
 
 ###### ARTICULO 148.
 
@@ -1853,17 +2057,21 @@ Los Jueces de Primera Instancia serán nombrados por el Pleno en la forma y tér
 
 En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia trasladarse del lugar de su residencia a otro punto de su Distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo penal o del familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del Juzgado del lugar de su ubicación a otro punto de su Distrito, previo aviso al Presidente del Tribunal.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 149 BIS.- Los tribunales de juicio en materia penal se integrarán siempre colegiadamente con tres jueces.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 150.
 
 Corresponde a los jueces de primera instancia de acuerdo a su ramo:
 
-I.- Conocer de los asuntos civiles, familiares o, penales que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+I.- Conocer de los asuntos civiles, familiares o penales que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
 
-II.- Revisar de oficio el auto de definición de la situación jurídica de los inculpados, en las causas que hubieren iniciado en su auxilio jueces de menor jerarquía, con el fin de corregir las deficiencias formales de que pudiera adolecer y con el de reponer el procedimiento, si mediare algún vicio procesal que así lo ameritara;
+II.- (DEROGADA, P.O. 9 DE AGOSTO DE 2006)
 
 III.- Calificar las excusas y recusaciones de sus Secretarios, las excusas de sus Notificadores, así como las recusaciones de los Jueces Menores de sus Distritos en los asuntos de su ramo, siguiendo en su caso el turno respectivo;
 
@@ -1895,6 +2103,38 @@ XIII.- Autorizar a sus Secretarios para que realicen las diligencias que a ellos
 
 XIV.- Ejercitar todas las demás facultades que les señalen las leyes.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 150 BIS.- Los jueces de garantía tienen las siguientes atribuciones:
+
+I. Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los convenios y tratados internacionales vigentes en el país;
+
+II. Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promueven en ellas;
+
+III. Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+
+IV. Resolver sobre la vinculación a proceso de los imputados;
+
+V. Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la ley;
+
+VI. Dirigir la audiencia intermedia;
+
+VII. Dictar sentencia en el procedimiento abreviado; y
+
+VIII. Las demás que le otorgue la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 150 TER.- Los Tribunales de juicio oral en materia penal tienen las siguientes atribuciones:
+
+l. Conocer y juzgar las causas penales;
+
+II. Resolver todas las cuestiones que se presentan durante el juicio;
+
+III. Dictar sentencia con base en las pruebas presentadas durante la audiencia de juicio; y
+
+IV. Las demás que les otorgue la ley.
+
 ###### ARTICULO 151.
 
 A los Jueces de lo Familiar corresponde además:
@@ -1915,9 +2155,15 @@ Sólo los Jueces de Primera Instancia tendrán facultad para conocer de los asun
 
 En los lugares en que hubiere más de un Juez, el Encargado del Registro y la Notaría será el del ramo civil y si hubiere varios de este ramo, el primero en número.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 154.
 
-Las ausencias absolutas de los Jueces de Primera Instancia serán cubiertas en la forma que lo determina la Constitución Política del Estado. Las temporales serán cubiertas por el Secretario de Acuerdos del Juzgado o por un interino cuando el Pleno así lo designe y las accidentales por el Secretario de Acuerdos del Juzgado. En todos estos casos y durante la ausencia de su titular, el Secretario quedará encargado del despacho hasta que su titular, propietario o interino, asuma sus funciones y tendrá todas las facultades del Juez, incluída la de dictar sentencia definitiva.
+Las ausencias absolutas de los jueces de primera instancia Civiles o Familiares serán cubiertas en la forma que lo determina la Constitución Política del Estado y esta Ley. Las temporales serán cubiertas por el Secretario de Acuerdos del Juzgado o por un interino cuando el Pleno así lo designe y las accidentales por el Secretario de Acuerdos del juzgado. En todos estos casos y durante la ausencia del titular, el Secretario quedará encargado del despacho hasta que su titular propietario o interino, asuma sus funciones y tendrá todas las facultades del Juez, incluida la de dictar sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 154 BIS.- Las ausencias absolutas de los jueces de primera instancia del ramo penal serán cubiertas en la forma que determina la Constitución Política del Estado y esta ley. Las temporales y accidentales serán cubiertas por un juez de la misma jerarquía de acuerdo al orden y distribución de trabajo que el Pleno determine.
 
 ###### ARTICULO 155.
 
@@ -1941,7 +2187,7 @@ III.- Si hubiere varios Jueces de Primera Instancia del mismo ramo, asesorarán 
 
 IV.- Si el Juez asesor es lego, podrá excusarse de asesorar pasando el negocio al Juez Letrado que corresponda de acuerdo con las disposiciones anteriores.
 
-### CAPITULO IV. DISPOSICIONES COMUNES A LOS JUZGADOS DEL ESTADO
+### CAPITULO II. DE LOS JUZGADOS MENORES
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1973,153 +2219,97 @@ En caso de ausencia absoluta de los Jueces Menores, el Pleno del Tribunal hará 
 
 En caso de excusa o recusación de un Juez Menor, conocerá del negocio el Menor del Municipio más cercano, aplicándose para esto último las reglas fijadas para los Jueces de Primera Instancia. Al separarse el Juez inhibido de sus funciones por más de noventa días o definitivamente, volverá el asunto al Juzgado de su origen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 163.
 
-Corresponde a los jueces menores:
+Corresponde a los Jueces Menores:
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+I. Conocer de juicios civiles cuya cuantía supere cien pero no mil quinientas veces el salario mínimo, al momento de iniciar el procedimiento. En lugares donde no hubiere jueces de paz no valdrá el límite inferior;
 
-I.- Conocer de juicios civiles cuya cuantía supere cien pero no mil quinientas veces el salario mínimo, al momento de iniciar el procedimiento. En lugares donde no hubiere jueces de paz no valdrá el límite inferior;
+II. Conocer de los negocios civiles que versen sobre el arrendamiento o cualquier otra prestación periódica, cuyo importe anual se encuentre dentro del límite establecido en la fracción anterior;
 
-II.- Conocer de los negocios civiles que versen sobre arrendamiento o cualquier otra prestación periódica, cuyo importe anual se encuentre dentro del límite establecido en la fracción anterior;
+III. Conocer de las providencias que sean competencia de los Jueces de Primera Instancia en los lugares donde no existan éstos y la ley así lo autorice;
 
-III.- Conocer de las providencias que sean competencia de los Jueces de Primera Instancia en los lugares donde no existan éstos y la ley así lo autorice;
+IV. En materia familiar conocerán de todos aquellos asuntos en los que las prestaciones reclamadas puedan determinarse económicamente, aplicando la regla establecida por la fracción I de este precepto;
 
-> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+V. Conocer, en su caso de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
 
-IV.- En materia familiar conocerán de todos aquellos asuntos en los que las prestaciones reclamadas puedan determinarse económicamente, aplicando la regla establecida por la fracción I de este precepto;
+a) Variación u ocultación del nombre o domicilio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2004)</small>
+b) Desobediencia y resistencia de particulares.
 
-V.- Conocer de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+c) Oposición a que se ejecute una obra o trabajo público.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+d) Quebrantamiento de sellos.
 
-a).- Variación u ocultación del nombre o domicilio;
+e) Falsedad ante la autoridad.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+f) Imputaciones falsas.
 
-b).- Desobediencia y resistencia de particulares;
+g) Quebrantamiento de sanciones.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+h) Violación de correspondencia.
 
-c).- Oposición a que se ejecute alguna obra o trabajo público;
+i) Ultrajes a la moral pública.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+j) Delitos contra la filiación y el estado civil.
 
-d).- Quebrantamiento de sellos;
+k) Lesiones, excepto las previstas en los artículos 200 y 201 del Código Penal.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+l) Delitos de peligro para la vida y la salud personal, en los términos en que lo establece el Título XI del Código Penal.
 
-e).- Falsedad ante la autoridad;
+m) Allanamiento de morada.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+n) Coacción y amenazas.
 
-f).- Imputaciones falsas;
+o) Adulterio.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+p) Estupro.
 
-g).- Quebrantamiento de sanciones;
+q) Abusos sexuales, salvo que merecieren penalidad agravada.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+r) Robo, fraude y abuso de confianza si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito.
 
-h).- Violación de correspondencia;
+s) Daños dolosos, cuyo monto no exceda de mil veces el salario mínimo y daños culposos, cualquiera que fuere su cuantía.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+t) Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción.
 
-i).- Ultrajes a la moral pública;
+u) Delitos que tengan pena alternativa o sólo pecuniaria.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+v) Incumplimiento de Obligaciones de Asistencia Familiar.
 
-j).- Delitos contra la filiación y el estado civil;
+w) Difamación.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+x) Calumnia, y
 
-k).- Lesiones, excepto las previstas en los artículos 200 y 201 del Código Penal;
+y) Aquellos que determine el Pleno.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2004)</small>
+VI. Practicar, en su caso, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver sobre la vinculación a proceso.
 
-l).- Delitos de peligro para la vida y la salud personal, en los términos en que lo establece el Título XI del Código Penal;
+VII. Nombrar con la aprobación del Pleno del Supremo Tribunal, al Secretario de Acuerdos, y con la aprobación del Presidente, a los demás empleados, escribientes y conserjes, tomándoles la protesta de ley en ambos casos;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+VIII. Imponer correcciones disciplinarias con arreglo a las facultades que la ley concede;
 
-m).- Allanamiento de morada;
+IX. Resolver las quejas interpuestas en contra de sus subalternos en los casos en que la ley les otorgue tal facultad;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+X. Vigilar y controlar al personal subalterno de su Juzgado;
 
-n).- Coacción y amenazas;
+XI. Conceder licencias al personal del juzgado hasta por diez días, y comunicar su otorgamiento a la Secretaría General del Tribunal;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+XII. Practicar las diligencias que les encomienden sus superiores;
 
-o).- Adulterio;
+XIII. Decidir las cuestiones de competencia que se entablen entre los Jueces del (sic) Paz de sus respectivas municipalidades;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+XIV. Conocer de las excusas y recusaciones de sus Secretarios;
 
-p).- Estupro;
+XV. Asesorar a los Jueces de Paz en los términos que esta ley establece para la asesoría que presten los de Primera Instancia;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+XVI. Tomar la protesta de ley a los Jueces de Paz de su adscripción; y
 
-q).- Abusos sexuales, salvo que merecieren penalidad agravada;
+XVII. Conocer de los demás asuntos que les faculten las leyes.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-r).- Robo, fraude y abuso de confianza si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2004)</small>
-
-s).- Daños dolosos, cuyo monto no exceda de mil veces el salario mínimo y daños culposos, cualquiera que fuere su cuantía;
-
-(REFORMADO, P.O. 11 DE OCTUBRE DE 2000) (F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)
-
-t).- Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción;
-
-(REFORMADO, P.O. 11 DE OCTUBRE DE 2000) (F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)
-
-u).- Delitos que tengan pena alternativa o solo pecuniaria;
-
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2003)</small>
-
-v).- Incumplimiento de Obligaciones de Asistencia Familiar.
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
-
-w).- Difamación;
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
-
-x).- Calumnia.
-
-VI.- Practicar, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver la situación jurídica;
-
-VII.- Nombrar con la aprobación del Pleno del Supremo Tribunal, al Secretario de Acuerdos y, con la aprobación del Presidente, a los demás empleados, escribientes y conserje, tomándoles la protesta de ley en ambos casos;
-
-VIII.- Imponer correcciones disciplinarias con arreglo a las facultades que la ley les concede;
-
-IX.- Resolver las quejas interpuestas en contra de sus subalternos en los casos en que la ley les otorgue tal facultad;
-
-X.- Vigilar y controlar al personal subalterno de su Juzgado;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-XI.- Conceder licencias al personal del juzgado hasta por diez días, y comunicar su otorgamiento a la Secretaría General del Tribunal;
-
-XII.- Practicar las diligencias que les encomienden sus superiores;
-
-XIII.- Decidir las cuestiones de competencia que se entablen entre los Jueces del Paz de sus respectivas municipalidades;
-
-XIV.- Conocer de las excusas y recusaciones de sus Secretarios;
-
-XV.- Asesorar a los Jueces de Paz en los términos que esta Ley establece para la asesoría que presten los de Primera Instancia;
-
-XVI.- Tomar la protesta de ley a los Jueces de Paz de su adscripción; y
-
-XVII.- Conocer de los demás asuntos que les faculten las leyes.
-
-### CAPITULO I. DE LAS FALTAS
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+### CAPITULO III. DE LOS JUZGADOS DE PAZ
 
 ###### ARTICULO 164.
 
@@ -2159,27 +2349,29 @@ VI.- De la concesión de licencias al personal del juzgado hasta por diez días,
 
 Cuando un Juez de Paz se inhiba del conocimiento de un asunto, pasará al Juez de Paz más cercano de acuerdo con las reglas fijadas para los Jueces de Primera Instancia para el efecto.
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
+### CAPITULO IV. DISPOSICIONES COMUNES A LOS JUZGADOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 169.
 
-Cada juzgado se integrará por un juez, los secretarios de acuerdos y auxiliares, funcionarios y personal de confianza y de base que autorice el presupuesto.
+Los Juzgados se integraran con los jueces, secretarios, auxiliares, funcionarios y empleados que sean indispensables para el servicio, conforme se autorice en el presupuesto.
 
-Los notificadores y ministros ejecutores se considerarán parte del personal del juzgado si no dependieren de alguna de las oficinas centrales.
+El Pleno podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de turno y otras áreas para varios juzgados de un mismo Distrito.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 170.
 
-En los Juzgados del Estado, el Juez será el jefe de oficina en el orden administrativo y ejercerá dicha función directamente o por conducto de quien funja como Secretario de Acuerdos, teniendo bajo su responsabilidad vigilar y controlar la conducta de los funcionarios y empleados del Juzgado de su adscripción, a fin de que ajusten su actuación a lo dispuesto por las leyes.
+En los Juzgados del Estado, el Juez o el Presidente, en su caso, será el jefe de oficina en el orden administrativo y ejercerá dicha función directamente o por conducto de quien funja como Secretario de Acuerdos, teniendo bajo su responsabilidad vigilar y controlar la conducta de los funcionarios y empleados del Juzgado de su adscripción, a fin de que ajusten su actuación a lo dispuesto por las leyes.
 
-Los Jueces proveerán en la esfera administrativa, todas las medidas necesarias para la buena marcha de la oficina a su cargo.
+Los Jueces proveerán en la esfera administrativa, cuando así corresponda, todas las medidas necesarias para la buena marcha de la oficina a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 171.
 
-Los jueces deberán remitir a la Presidencia del Supremo Tribunal una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en el Juzgado, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes.
+Los jueces deberán, en su caso, remitir a la Presidencia del Supremo Tribunal una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en el juzgado, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes.
 
 La omisión de esos deberes será sancionada con multa hasta de veinte veces el salario mínimo por el Presidente del Tribunal.
 
@@ -2187,19 +2379,39 @@ La omisión de esos deberes será sancionada con multa hasta de veinte veces el 
 
 Cuando un Juez conozca tanto de asuntos civiles como penales, dará preferencia a la tramitación de estos últimos, cuidando bajo su responsabilidad el cumplimiento de los términos constitucionales establecidos para esa materia.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 173.
 
-Los Jueces del Estado tendrán a su cargo el local donde se halle instalado el Juzgado de su adscripción, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento del Oficial Mayor, cualquier deterioro que sufran. Para tales efectos, deberán entregar y recibir dichos bienes bajo riguroso inventario, así como los valores que por cualquier causa se encuentren depositados en la oficina.
+Los Jueces del Estado tendrán a su cargo, en su caso, el local donde se halle instalado el Juzgado de su adscripción, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento del Oficial Mayor, cualquier deterioro que sufran. Para tales efectos, deberán entregar y recibir dichos bienes bajo riguroso inventario, así como los valores que por cualquier causa se encuentren depositados en la oficina.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 174.
 
 Los Jueces del Estado actuarán con Secretario o con quien legalmente debe sustituirlo; en su caso, lo harán con Testigos de Asistencia, quienes deberán:
 
-I.- Ser ciudadanos mexicanos, mayores de dieciocho años;
+l. Ser ciudadanos mexicanos, mayores de dieciocho años;
 
-II.- Estar en pleno ejercicio de sus derechos; y
+II. Estar en pleno ejercicio de sus derechos; y
 
-III.- Ser de notoria probidad y buena conducta.
+III. Ser de notoria probidad y buena conducta.
+
+No obstante, en materia penal los jueces y magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+
+En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un Juez de la materia penal utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
+
+Las autoridades judiciales de la materia penal podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
+
+El Pleno dictará los reglamentos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+
+ARTICULO 174 BIS.- Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
@@ -2361,9 +2573,9 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DE LAS FALTAS
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 195.
 
@@ -2649,7 +2861,7 @@ Cuando una queja se interponga sin fundamento y así se declare por la autoridad
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO III. DE LAS INCONFORMIDADES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2693,6 +2905,10 @@ El Reglamento establecerá las bases para las adquisiciones, arrendamientos, con
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 ###### ARTICULO 216.
 
 La celebración de actos o contratos para la adquisición de bienes, arrendamientos de servicios y construcción de obra pública a que se refiere este Título, podrá efectuarse por:
@@ -2732,6 +2948,10 @@ V.- Con las personas a las que se declare en estado de quiebra o suspensión de 
 VI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+
+### CAPITULO III. DE LAS INCONFORMIDADES
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 219.
 
@@ -2937,10 +3157,20 @@ P.O. 6 DE OCTUBRE DE 2004.
 
 DECRETO No. 1189/04 XVI P.E.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETCION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 9 DE MARZO DE 2005. REPUBLICADO P.O. 16 DE MARZO DE 2005.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de la reforma al artículo 102 de la Ley Orgánica del Poder Judicial del Estado, el cual surtirá vigencia ciento veinte días después de su publicación.
+
+P.O. 9 DE AGOSTO DE 2006.
+
+Artículo Primero. Inicio de Vigencia. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación.
+
+Artículo Segundo. Derogación Tácita de Preceptos Incompatibles. Quedan derogados los preceptos de la legislación estatal que se opongan a las disposiciones de este Ordenamiento.
+
+Artículo Tercero. Facultades extraordinarias del Supremo Tribunal. A partir de la vigencia de esta ley y hasta los dos año siguientes de la entrada en vigor en todo el Estado del nuevo Código de Procedimientos Penales, el Pleno del Supremo Tribunal de Justicia podrá establecer las disposiciones generales para el traslado y designación de funcionarios, nombramiento provisional de jueces de garantía, integración de tribunales de juicio oral y salas de casación, redistribución de competencias territoriales, asignación del juzgado de rezagas y creación de órganos que resulten pertinentes. Las decisiones que adopte el Pleno en virtud de esta norma deberán sustentarse siempre en un mejor servicio público y en la necesidad de instrumentar la aplicación del nuevo Código Procesal Penal.
+
+Artículo Cuarto. En aquellos lugares en donde todavía esté vigente el Código de Procedimientos Penales de 1987, corresponde a los Jueces de Primera Instancia que conozcan de la materia Penal revisar de oficio el auto de definición de la situación jurídica de los inculpados, en las causas que hubieren iniciado en su auxilio jueces de menor jerarquía, con el fin de corregir las deficiencias formales de que pudiera adolecer y con el de reponer el procedimiento, si mediare algún vicio procesal que así lo ameritara.
