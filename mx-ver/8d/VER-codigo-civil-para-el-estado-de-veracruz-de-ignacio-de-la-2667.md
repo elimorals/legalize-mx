@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2005-08-15"
+last_updated: "2006-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2006.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -4165,11 +4165,9 @@ II.- La constancia de que prestan su consentimiento para que el matrimonio se ce
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 1934)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2006)</small>
 
-IV.- Un certificado expedido por la Dirección de Salubridad del Estado o por los Directores de las Unidades Sanitarias Cooperativas del mismo, y en donde no existan estos servicios, por médicos titulados que desempeñen cargos oficiales del Estado o municipales, y en cuyo certificado se haga constar haberse comprobado por los exámenes médicos y de laboratorio necesarios, que los pretendientes no padecen enfermedad alguna de las que sean de carácter hereditario. Estos exámenes y los certificados respectivos, serán gratuitos.
-
-En los lugares donde no existieren servicios sanitarios o médicos que desempeñen cargos oficiales del Estado o de los Municipios, estos certificados deberán ser expedidos preferentemente, por médicos particulares, o en su defecto, por las personas autorizadas por la Dirección de Salubridad, para ejercer prácticamente la medicina, siendo tanto los exámenes como la expedición de dichos certificados, igualmente gratuitos, por ser éste un servicio que en los términos del artículo 339 reformado del Código Sanitario vigente, se considera de interés social;
+IV.- Un certificado expedido por cualquier institución del Sector Salud del Estado y en donde no existan estos servicios, por médicos titulados que desempeñen cargos oficiales del Estado o municipales, en el que se haga constar el tipo de sangre y haberse comprobado por los exámenes médicos y de laboratorio necesarios, que los pretendientes no padecen enfermedad alguna de las que sean de carácter hereditarios y transmisión sexual, incluyendo el VIH;
 
 V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 177 y 199, y el Encargado del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber, a efecto de que el convenio quede debidamente formulado.
 
@@ -15930,3 +15928,7 @@ G.O. 15 DE AGOSTO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2006.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
