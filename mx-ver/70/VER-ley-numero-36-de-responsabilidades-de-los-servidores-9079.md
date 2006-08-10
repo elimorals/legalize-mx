@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "2004-08-30"
+last_updated: "2006-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBER
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, EN TODAS LAS LEYES, DECRETOS,. SE AÑADIRA LA EXPRESION ".ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2006.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
@@ -133,15 +133,17 @@ IX.- Los demás órganos jurisdiccionales que determinen las leyes.
 
 Los procedimientos para la aplicación de las sanciones a que se refiere el artículo 122 constitucional se desarrollarán autónomamente, según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
+
 ## TITULO SEGUNDO
 
 PROCEDIMIENTOS ANTE LA LEGISLATURA Y EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
+
 ### CAPITULO I
 
 SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES.
-
-> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 6º.
 
@@ -183,33 +185,21 @@ Los tribunales del Estado estarán expeditos para administrar justicia, que impa
 
 ###### ARTICULO 5.
 
-En los términos del primer párrafo del artículo 77 de la Constitución Política del Estado, podrán ser sujetos de juicio político los servidores públicos que en él se mencionan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 6.
 
-Es procedente el juicio político, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho, como son:
-
-I.- El ataque a las instituciones democráticas;
-
-II.- El ataque a la forma de gobierno republicano, representativo, federal;
-
-III.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
-
-IV.- El ataque a la libertad de sufragio;
-
-V.- La usurpación de atribuciones;
-
-VI.- Cualquier acción u omisión que infrinja la Constitución General de la República, la Constitución Política del Estado o las leyes que de ellas emanen, cuando causen perjuicios graves al Estado, a uno o varios municipios del mismo o a la sociedad, o motive algún trastorno en el funcionamiento normal de las instituciones;
-
-VII.- Las violaciones sistemáticas o graves a los planes, programas y presupuesto de la Administración Pública Estatal o Municipal y a las leyes que determinen el manejo de los recursos económicos estatales y de los municipios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 7.
 
-La Legislatura y el Tribunal Superior de Justicia del Estado, valorarán la existencia y gravedad de los actos u omisiones a que se refiere el artículo anterior. Cuando aquéllos tengan carácter delictuoso, se formulará la declaración de procedencia a la que se alude en la presente ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 8.
 
-Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta diez años.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO II
 
@@ -217,133 +207,95 @@ PROCEDIMIENTO EN EL JUICIO POLITICO.
 
 ###### ARTICULO 9.
 
-El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones.
-
-Las sanciones respectivas, se aplicarán en un plazo no mayor de seis meses, a partir de iniciado el procedimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 10.
 
-Corresponde a la Legislatura, instruir el procedimiento relativo al juicio político, actuando como órgano de acusación, y al Tribunal Superior de Justicia, fungir como Jurado de Sentencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 11.
 
-La Comisión Instructora de la Legislatura, será la encargada de sustanciar los procedimientos consignados en la presente Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 12.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Legislatura, por aquellas conductas que hacen presumible el juicio político. Presentada la denuncia y ratificada dentro de tres días naturales siguientes a su presentación, se turnará de inmediato con la documentación que la acompañe a las Comisiones de Gobernación y de Justicia y Puntos Constitucionales, para que dictaminen, si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2o., y si la conducta atribuida corresponde a alguna de las enumeradas en el artículo 6o., así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
-
-Una vez acreditados estos elementos, la denuncia se turnará a la Comisión Instructora.
-
-Las denuncias anónimas no producirán ningún efecto.
-
-Recibida en la Legislatura, la Resolución Declaratoria a que hace referencia el segundo párrafo del artículo 110 de la Constitución General de la República, ésta se turnará de inmediato con la documentación que la acompañe a la Comisión Instructora, para que proceda según corresponda.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 13.
 
-La Comisión Instructora practicará todas las diligencias necesarias para la comprobación de la conducta y el hecho material de aquélla; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
-
-Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Comisión Instructora informará al denunciado sobre la materia de aquélla, haciéndole saber su derecho de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 14.
 
-La Comisión Instructora abrirá un período de prueba de 30 días naturales dentro del cual recibirá las pruebas que ofrezca el servidor público.
-
-Si al concluir el plazo señalado no se hubiesen recibido las pruebas ofrecidas oportunamente, o la Comisión Instructora considera necesario allegarse otras, dicho plazo podrá ampliarse hasta por 30 días.
-
-La Comisión Instructora calificará la pertinencia de las pruebas, desechando las que a su juicio sean improcedentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 15.
 
-Terminada la calificación, se pondrá el expediente a la vista del servidor público y su defensor, por un plazo de tres días naturales, a fin de que se tomen los datos que requieran para formular alegatos, que deberán presentar por escrito dentro de los seis días naturales siguientes a la conclusión del segundo plazo mencionado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 16.
 
-Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado éstos, la Comisión Instructora formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 17.
 
-La Comisión Instructora formulará sus conclusiones y hará entrega de éstas al Secretario, dentro del plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Legislatura que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 18.
 
-Si de las constancias del procedimiento se desprende la inocencia del encausado, la Comisión Instructora propondrá en sus conclusiones que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
-
-Si de las constancias aparece la probable responsabilidad del servidor público, la Comisión Instructora determinará lo siguiente:
-
-I.- Que está debidamente comprobado el hecho materia de la denuncia; y
-
-II.- Que existe probable responsabilidad del encausado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 19.
 
-Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Comisión Instructora las entregará al Secretario de la Legislatura para que dé cuenta al Presidente de la misma, quien anunciará que dicha Legislatura debe reunirse y resolver sobre la imputación, dentro de los ocho días naturales siguientes, lo que hará saber al Secretario, y al servidor público denunciado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 20.
 
-El día señalado, conforme al artículo anterior, la Legislatura se erigirá en órgano de acusación, previa declaración de su Presidente. En seguida, la Secretaría dará lectura a las constancias procedimentales o a una síntesis que contenga los puntos sustanciales de éstas, así como a las conclusiones de la Comisión Instructora. Acto seguido se procederá a discutir y a votar las conclusiones propuestas por la Comisión Instructora.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 21.
 
-Si la Legislatura resolviese que no procede acusar al servidor público, así lo determinará. Si con voto aprobatorio de las dos terceras partes de sus integrantes, decide que procede acusar, se le pondrá a disposición del Tribunal Superior de Justicia del Estado, al que se remitirá la acusación, designándose una Comisión de tres Diputados para que sostengan aquélla ante el Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 22.
 
-Recibida la acusación en el Tribunal Superior de Justicia, ésta se turnará al pleno, el que designará a tres Magistrados para que integren la Comisión de Enjuiciamiento, la que emplazará al acusado y su defensor, para que presenten por escrito sus alegatos dentro de los cinco días naturales siguientes al emplazamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 23.
 
-La Comisión de enjuiciamiento, escuchará directamente a la Comisión de Diputados que sostienen la acusación, al acusado y su defensor. Asimismo, podrá disponer la práctica de todas las diligencias que considere necesarias para integrar su proyecto de resolución.
-
-Transcurrido el plazo que se señala en el artículo anterior, con alegatos o sin ellos, la Comisión de Enjuiciamiento del Tribunal Superior de Justicia formulará su proyecto de resolución, en vista de las consideraciones hechas en la acusación y en los alegatos formulados, en su caso, proponiendo la sanción que en su concepto deba imponerse al servidor público y expresando los preceptos legales en que se funde.
-
-Emitido el Proyecto de resolución, la Comisión lo entregará a la Secretaría del Tribunal Superior de Justicia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 24.
 
-Recibido el Proyecto de Resolución por la Secretaría del Tribunal, su Presidente convocará al Pleno, para erigirse éste en Jurado de Sentencia, dentro de las setenta y dos horas siguientes a su entrega, procediendo la Secretaría a citar a la Comisión a que se refiere el artículo 21 de esta Ley, al acusado y a su defensor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
-A la hora señalada para la audiencia, el Presidente del Tribunal Superior de Justicia, declarará al Pleno, erigido en Jurado de Sentencia y procederá de conformidad con las siguientes normas:
-
-I.- La Secretaría dará lectura al Proyecto de Resolución formulado por la Comisión de Enjuiciamiento.
-
-II.- Acto continuo, se concederá la palabra a la Comisión de Diputados, al Servidor Público o a su defensor; y
-
-III.- El Pleno, en privado, tomará la decisión y dictará sentencia, la que se notificará personalmente a las partes y se comunicará al poder que corresponda.
-
-Para que una sentencia condenatoria tenga validez se requerirá el voto aprobatorio de las dos terceras partes de los miembros del Pleno.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO III
 
 PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE AGOSTO DE 2004)</small>
-
 ###### ARTICULO 25.
 
-Para proceder penalmente en contra de alguno de los servidores a que se refiere el artículo 78 párrafo primero de la Constitución Política del Estado y el artículo 111 párrafo quinto de la Constitución General de la República, salvo disposición legal específica, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Legislatura del Estado. En este caso, la Comisión Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, dictaminará si ha lugar a proceder penalmente en contra del inculpado.
-
-Si a juicio de la Comisión, la imputación fuese notoriamente improcedente, lo hará saber de inmediato a la Legislatura, para que ésta resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
-
-Para los efectos del párrafo primero de este artículo, la Comisión deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 26.
 
-Dada cuenta del dictamen correspondiente, el Presidente de la Legislatura anunciará a ésta, que debe erigirse en Jurado de Procedencia, al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndolo saber al inculpado y a su defensor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 27.
 
-El día designado, previa declaración del Presidente de la Legislatura, ésta conocerá en Asamblea del dictamen que la Comisión le presente y actuará en los mismos términos previstos por el artículo 20 en materia de juicio político.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 28.
 
-Si la Legislatura declara, por el voto aprobatorio de las dos terceras partes de sus integrantes, que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
-
-> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2004)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 29.
 
-Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 78 de la Constitución Política del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, el Secretario de la Mesa Directiva del Congreso o de la Diputación Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO IV
 
@@ -351,91 +303,69 @@ DISPOSICIONES COMUNES PARA LOS CAPITULOS II Y III DEL TITULO SEGUNDO.
 
 ###### ARTICULO 30.
 
-Las declaraciones y resoluciones definitivas de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 31.
 
-La Legislatura enviará a la Comisión Instructora los requerimientos del Ministerio Público que se le presenten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 32.
 
-En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos Segundo y Tercero de este Título.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 33.
 
-Cuando alguna de las Comisiones, la Legislatura o el Tribunal, deban realizar una diligencia, citará al inculpado, en forma indubitable y con veinticuatro horas de anticipación, para que comparezca o conteste por escrito a los requerimientos que se le hagan; si el inculpado se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido negativo.
-
-Las Comisiones realizarán todas las diligencias necesarias para la integración del expediente respectivo, que permita ilustrar con claridad al órgano de decisión.
-
-Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo.
-
-Cuando esta Ley no señale término se tendrá como tal el de tres días naturales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 34.
 
-Los miembros de las Comisiones y, en general, los Diputados y Magistrados que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados, por alguna de las causas de impedimento que señala la Ley Orgánica del Poder Judicial del Estado.
-
-Únicamente con expresión de causa, podrá el inculpado recusar a miembros de las Comisiones que conozcan de la imputación presentada en su contra, o a Diputados y Magistrados que deban participar en actos del procedimiento.
-
-El servidor público podrá hacer valer la recusación, hasta antes de que se formule por la Comisión de Enjuiciamiento, el proyecto de resolución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 35.
 
-Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes, en un incidente que se sustanciará ante la Comisión, a cuyos miembros no se hubiese señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas Comisiones, se designará a quien haga la sustitución.
-
-En el incidente se escucharán al promovente y al recusado, y se recibirán las pruebas correspondientes. La Legislatura y el Tribunal Superior de Justicia, calificarán en los demás casos de excusa o recusación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### ARTICULO 36.
 
-Tanto el inculpado como el Ministerio Público, podrán solicitar de las oficinas o establecimientos públicos que corresponda, las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión respectiva, ante la Legislatura o el Tribunal Superior de Justicia.
-
-Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren, la Comisión respectiva, la Legislatura o el Tribunal Superior de Justicia a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la zona económica donde radique dicha autoridad, sanción que se hará efectiva si la autoridad no la expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
-
-Por su parte, las Comisiones, la Legislatura o el Tribunal, solicitarán las copias certificadas de las constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicitase no las remite dentro del plazo discrecional que se le señale, se impondrá la multa a que se refiere el párrafo anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 37.
 
-Las Comisiones, la Legislatura o el Tribunal Superior podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
-
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las Comisiones, Legislatura o el Tribunal Superior estimen pertinentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 38.
 
-La Legislatura y el Tribunal Superior de Justicia no podrán erigirse en órgano de acusación o Jurado de Sentencia, sin que antes se haya comprobado fehacientemente que el servidor público, su defensor y el Ministerio Público, en su caso, han sido notificados personalmente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 39.
 
-No podrán votar en ningún caso, los Diputados o Magistrados que hubiesen presentado la denuncia contra el servidor público. Tampoco podrán hacerlo los Diputados o Magistrados que hayan aceptado el cargo de defensor, aun cuando renuncien al mismo, después de haber comenzado a ejercer el cargo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 40.
 
-En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución, la Ley Orgánica del Poder Judicial y las bases normativas de la Legislatura para discusión y votación de las leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 41.
 
-En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura y del Tribunal Superior se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés en general exijan que la audiencia sea secreta.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE AGOSTO DE 2004)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 42.
 
-Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 77 y 78 de la Constitución, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procedimental.
-
-Si la acumulación fuese procedente la Comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 43.
 
-Las Comisiones, la Legislatura y el Tribunal Superior podrán disponer las medidas de apercibimiento que fueren procedentes para hacer valer sus determinaciones, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 44.
 
-Las declaraciones o resoluciones aprobadas por la Legislatura y por el Tribunal Superior con arreglo a esta Ley, se comunicarán al Titular del Poder o Institución a que pertenezca el acusado; y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en la 'Gaceta Oficial' del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 45.
 
-En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código de Procedimientos Penales. Asimismo, se atenderán en lo conducente, las del Código Penal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ## TITULO TERCERO
 
@@ -1916,3 +1846,13 @@ OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 G.O. 30 DE AGOSTO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 10 DE AGOSTO DE 2006.
+
+Primero. Esta ley entrará en vigor a los diez días de su publicación en la Gaceta Oficial del gobierno del estado.
+
+> <small>(F. DE E., G.O. 30 DE AGOSTO DE 2006)</small>
+
+Segundo. Se deroga el Título Segundo Procedimientos ante la Legislatura y el Tribunal Superior de Justicia del Estado en Materia de Juicio Político y Declaración de Procedencia, así como sus artículos del 5 al 45, inclusive, de la Ley de Responsabilidades de los Servidores Públicos del estado de Veracruz de Ignacio de la Llave, publicada el nueve de febrero de mil novecientos ochenta y cuatro.
+
+Tercero. Los procedimientos de Juicio Político o Declaración de Procedencia, que se encuentren substanciándose al iniciar la vigencia de esta ley, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público inculpado.
