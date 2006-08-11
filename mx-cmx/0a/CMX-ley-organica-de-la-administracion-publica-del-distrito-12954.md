@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2006-05-19"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -404,13 +404,19 @@ A la Secretaría de Desarrollo Urbano y Vivienda corresponde el despacho de las 
 
 Específicamente cuenta con las siguientes atribuciones:
 
-I. Proponer, coordinar y ejecutar las políticas en materia de planeación urbana, así como formular, coordinar y evaluar los programas en esta materia y realizar los estudios necesarios para la aplicación de las leyes de Asentamientos Humanos y del Desarrollo Urbano del Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2006)</small>
+
+I. Proponer, coordinar y ejecutar las políticas en materia de planeación urbana, así como formular, coordinar, elaborar y evaluar los programas en esta materia y realizar los estudios necesarios para la aplicación de las Leyes de Asentamientos Humanos y del Desarrollo Urbano del Distrito Federal;
 
 II. Formular, coordinar y evaluar el Programa General de Desarrollo Urbano del Distrito Federal;
 
-III. Elaborar y someter a la consideración del Jefe de Gobierno, los programas delegacionales y parciales de desarrollo urbano;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2006)</small>
 
-IV. lntervenir en los términos de la Ley de Desarrollo Urbano del Distrito Federal en la modificación del Programa General y de los Programas Delegacionales y Parciales;
+III. Elaborar los programas delegacionales y parciales de desarrollo urbano, así como sus modificaciones y, en coordinación con las Delegaciones, someterlos a consideración del Jefe de Gobierno;
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2006)</small>
+
+IV. Intervenir en los términos de esta Ley y la Ley de Desarrollo Urbano del Distrito Federal en la modificación del Programa General y de los Programas Delegacionales y Parciales;
 
 V. Prestar a las Delegaciones del Distrito Federal, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la ejecución de los programas delegacionales y parciales de desarrollo urbano;
 
@@ -1615,3 +1621,15 @@ G.O. 19 DE MAYO DE 2006.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 11 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Solicítesele al Jefe de Gobierno del Distrito Federal, se lleven a cabo las modificaciones necesarias al Reglamento Interior de la Administración Pública del Distrito Federal y al Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, en función de las presentes modificaciones a las Leyes indicadas.
+
+CUARTO.- De conformidad con los términos establecidos en la Ley de Desarrollo Urbano del Distrito Federal, relativos a la temporalidad para la revisión o modificación de los Programas Delegacionales de Desarrollo Urbano, se deberá considerar la asignación de recursos financieros necesarios a la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, para la elaboración de dichos programas en cada una de las 16 Delegaciones.
+
+QUINTO.- Para el caso de las Delegaciones cuyo proceso de revisión a sus programas de desarrollo urbano versión 1997, que aún tengan pendiente la elaboración del proyecto respectivo, la Secretaría de Desarrollo Urbano y Vivienda podrá solicitar los recursos necesarios para tal fin.
