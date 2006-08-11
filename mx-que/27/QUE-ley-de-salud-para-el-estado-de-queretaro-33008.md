@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-para-el-estado-de-queretaro-33008"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-11"
-last_updated: "2006-06-09"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 11 de julio de 2003.
 
@@ -919,6 +919,14 @@ Para tutelar la protección de la salud mental de los menores, las instituciones
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2006)</small>
+
+Las Autoridades Sanitarias Estatales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I.- Acciones de orientación y vigilancia institucional en el fomento a la lactancia materna; en su caso, ayuda alimentaria directa, tendiente a mejorar el estado nutricional en la atención materno-infantil;
+
+II.- Acciones de prevención y control de las enfermedades ocasionadas por procesos diarreicos y/o infecciones respiratorias agudas en menores de cinco años.
+
 ###### ARTÍCULO 74.
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
@@ -979,9 +987,15 @@ I.- El desarrollo de actividades educativas, socioculturales y recreativas, que 
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que pueden causar alteraciones mentales o dependencias y;
+III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que pueden causar alteraciones mentales o dependencias y (sic);
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población, a través de la creación de instituciones especializadas.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
+IV.- La atención y apoyo psicológico para personas que padezcan VIH/SIDA, cáncer y otras enfermedades crónico-degenerativas o para quienes hayan sufrido algún evento traumático, físico o emocional requieran ayuda profesional para la preservación de la salud mental y emocional;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población, a través de la creación de instituciones especializadas.
 
 ###### ARTÍCULO 82.
 
@@ -2646,3 +2660,13 @@ P.O. 9 DE JUNIO DE 2006.
 PRIMERO. La presente Ley entrará en vigor treinta días hábiles posteriores a la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO. Las autoridades locales en materia de salud, en el periodo comprendido entre la publicación de la presente Ley y el inicio de su vigencia, darán a conocer el contenido de la misma a todas las instituciones y personas físicas morales.
+
+P.O. 11 DE AGOSTO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente.
