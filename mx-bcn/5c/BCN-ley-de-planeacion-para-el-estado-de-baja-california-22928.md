@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-22928"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2002-06-07"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -83,7 +83,9 @@ IX.- El respeto irrestricto de las garantías individuales y de las libertades y
 
 X.- El fortalecimiento del municipio libre, dentro del Pacto Federal, promoviendo la descentralización de funciones, buscando el desarrollo equilibrado del Estado;
 
-XI.- El establecimiento y vinculación de programas educativos acordes con el Plan Estatal, especialmente dirigidos al desarrollo industrial, agropecuario, pesquero y de servicios del Estado;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
+XI.- La consolidación de la educación, como medio fundamental para el desarrollo integral de los seres humanos y del Estado, además del establecimiento y vinculación de programas educativos acordes con el Plan Estatal, especialmente dirigidos al desarrollo industrial, agropecuario, pesquero y de servicios del Estado;
 
 XII.- La protección y promoción del empleo en el Estado dentro de un marco de estabilidad económica y social, con base en el equilibrio de los factores de la producción;
 
@@ -686,3 +688,7 @@ BERNARDO BORBON VILCHES
 P.O. 7 DE JUNIO DE 2002.
 
 UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE AGOSTO DE 2006.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
