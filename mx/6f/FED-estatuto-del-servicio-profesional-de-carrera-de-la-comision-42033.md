@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-de-la-comision-420
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-01-07"
-last_updated: "2005-01-07"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42033&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-12-17"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS, PUBLICADO EN EL D.O.F. DE 11 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 7 de enero de 2005.
 
@@ -772,3 +774,15 @@ Cuarto. La implementación de los sistemas de evaluación del desempeño integra
 Quinto.- Los lineamientos a que hace referencia el artículo 24 del presente Estatuto se expedirán dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento.
 
 Dado en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de diciembre de dos mil cuatro.- La Directora General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, Xóchitl Gálvez Ruiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 11 DE AGOSTO DE 2006.
+
+Primero. Se abroga el Estatuto Orgánico del Servicio Profesional de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicado en el Diario Oficial de la Federación el 7 de enero de 2005.
+
+Segundo. Las disposiciones contenidas en el presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Permanecen vigentes los Lineamientos específicos que regulan la figura de la Disponibilidad del Servicio Profesional de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicados en el Diario Oficial de la Federación el 15 de diciembre de 2005.
+
+Cuarto. El Catálogo de Puestos del Servicio Profesional a que se refiere el artículo 5o. del presente estatuto y las disposiciones reglamentarias que regirán los procesos de ingreso, plan de carrera, formación, certificación, evaluación del desempeño, esquema de puntaje, retribuciones y separación se expedirán por el Titular de la Dirección General de la CDI dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento.
