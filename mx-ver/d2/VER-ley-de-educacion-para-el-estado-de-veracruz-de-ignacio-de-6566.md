@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2005-08-15"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -107,7 +107,11 @@ IX. Crear conciencia de la necesidad de mejorar el ambiente, de preservar el equ
 
 X. Fortalecer el aprecio por la historia de la entidad y de la región;
 
-XI. Valorar la esencia de las tradiciones y de las manifestaciones culturales de las diversas regiones de la entidad.
+XI. Valorar la esencia de las tradiciones y de las manifestaciones culturales de las diversas regiones de la entidad;
+
+> <small>(ADICIONADA, G.O. 11 DE AGOSTO DE 2006)</small>
+
+XII. Fomentar el conocimiento y la cultura de la prevención del delito, de la protección civil y de vialidad preventiva.
 
 > <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2002)</small>
 
@@ -960,3 +964,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Dentro de los dos meses siguientes al inicio de la vigencia de estas reformas la Secretaría de Educación y Cultura deberá elaborar el programa a que se refiere el artículo 82 de la Ley de Educación para el Estado de Veracruz de Ignacio de la Llave, y remitir la copia al Congreso del Estado.
+
+G.O. 11 DE AGOSTO DE 2006.
+
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del gobierno del estado.
