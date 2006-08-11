@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-21802"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-25"
-last_updated: "2005-08-03"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 25 de julio de 2001.
 
@@ -1345,7 +1345,9 @@ Los servicios privados de seguridad solamente podrán prestarse en las siguiente
 
 I. Vigilancia de lugares o establecimientos comerciales, campos agrícolas, granjas acuícolas y en general de toda clase de inmuebles;
 
-II. Protección de personas e investigaciones privadas; y,
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
+II. Protección de personas; y,
 
 III. Traslado y custodia de bienes muebles, fondos y valores.
 
@@ -1371,15 +1373,43 @@ La prestación de los Servicios Privados de Seguridad está reservada de manera 
 
 Los Servicios Privados de Seguridad, como auxiliares de la Seguridad Pública en el Estado, deberán alcanzar sus objetivos, con estricto apego a los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 123.
 
-La Secretaría de Seguridad Pública podrá prestar servicios de seguridad en las modalidades previstas en el artículo 119 de esta Ley con excepción del servicio de investigación privada.
+La Secretaría de Seguridad Pública podrá prestar servicios de seguridad privada, en todas sus modalidades previstas en el artículo 119 de esta Ley, en los siguientes casos:
 
-La prestación de los servicios autorizados siempre será a petición de la organización legalmente constituida a la que pertenezca la persona o el propietario de lugares, establecimientos, bienes muebles, fondos y valores.
+I. Cuando sea solicitada por escrito por persona física o moral, dirigido a la Secretaría de Seguridad Pública, donde manifieste bajo protesta de decir verdad, los motivos y circunstancias especiales por las cuales solicita la protección de la autoridad a través de sus servicios privados de seguridad;
 
-La Secretaría de Seguridad Pública bajo su más estricta responsabilidad valorará y autorizará la procedencia de la prestación del servicio correspondiente.
+II. La solicitud deberá ser suscrita por el representante legal de la empresa o institución legalmente constituida, que no exista duda de que su actividad sea lícita; y
+
+III.- Por ciudadano que por su actividad profesional, empresarial, comercial, dirigencia política o servidor público, necesite la protección en su persona, patrimonio o familia.
+
+Para los efectos anteriores, la solicitud deberá ir acompañada de los documentos que acrediten los requisitos siguientes:
+
+A. En el caso de personas físicas:
+
+a) Documento en que consten los siguientes datos; 1. Nombre y apellido paterno y materno; 2. Sexo; 3. Edad; 4. Nacionalidad; 5. Domicilio y tiempo de residencia; 6. Estado Civil; 7. Profesión, oficio, empleo u ocupación; 8. Zona donde desempeña sus labores el interesado; y, 9. Grado de estudios.
+
+b) Carta de no antecedentes penales y de no existencia de averiguación previa penal en contra del solicitante;
+
+c) Acta de nacimiento;
+
+d) Copia de su credencial de elector con fotografía o pasaporte del solicitante;
+
+e) Constancia de domicilio; y
+
+f) Demostrar no consumir drogas enervantes o psicotrópicos.
+
+B. En el caso de personas morales:
+
+a) Escritura pública en la que se otorga poder al solicitante, así como copia de su credencial para votar con su fotografía;
+
+b) Acta constitutiva de la empresa o negocio que representa;
+
+c) Documentos en los que constan el registro ante la Secretaría de Hacienda y, en su caso, organismo a la que pertenece:
+
+d) Giro al que se dedica la empresa y empleo o profesión del solicitante.
 
 ### Capítulo II. De las Autorizaciones
 
@@ -1772,3 +1802,9 @@ Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, c
 Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
 
 Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
+
+P.O. 11 DE AGOSTO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
