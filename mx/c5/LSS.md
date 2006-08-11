@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2005-12-14"
+last_updated: "2006-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1748,9 +1748,13 @@ El asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio y pro
 
 I. Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el seguro de retiro, cesantía en edad avanzada y vejez, en la fecha de celebración del matrimonio;
 
-II. Que compruebe con documentos fehacientes la muerte de la persona que registró como esposa en el Instituto o que, en su caso, exhiba el acta de divorcio, y
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2006)</small>
 
-III. Que la cónyuge no haya sido registrada con anterioridad en el Instituto como esposa.
+II. Que compruebe con documentos fehacientes la muerte de la persona que registró como cónyuge en el Instituto, o que, en su caso, exhiba el acta de divorcio, y
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2006)</small>
+
+III. Que cualquiera de los cónyuges no haya sido registrado con anterioridad en el Instituto con esa calidad.
 
 Este derecho se ejercerá por una sola vez y el asegurado no tendrá derecho por posteriores matrimonios.
 
@@ -3915,3 +3919,7 @@ Tercero. Dentro de los 30 días naturales siguientes a la entrada en vigor del p
 D.O.F. 14 DE DICIEMBRE DE 2005.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE AGOSTO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
