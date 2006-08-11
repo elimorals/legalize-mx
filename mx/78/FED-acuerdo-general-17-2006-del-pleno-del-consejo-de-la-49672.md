@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2006-del-pleno-del-consejo-de-la-49672"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-17"
-last_updated: "2006-03-17"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-03-09"
 
 ACUERDO GENERAL 17/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL COMITE DE INVERSION DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE AGOSTO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de marzo de 2006.
 
@@ -63,9 +63,13 @@ V. Comité.- El Comité de Inversión de Recursos Financieros del Consejo de la 
 
 VI. Secretario Ejecutivo de Finanzas.- El Titular de la Secretaría Ejecutiva de Finanzas del Consejo de la Judicatura Federal;
 
-VII. Secretario Ejecutivo de Administración.- El Titular de la Secretaría Ejecutiva de Administración del Consejo de la Judicatura Federal; y
+VII. Secretario Ejecutivo de Administración.- El Titular de la Secretaría Ejecutiva de Administración del Consejo de la Judicatura Federal; y (sic)
 
-VIII. Director General de Tesorería.- El Titular de la Dirección General de Tesorería de la Secretaría Ejecutiva de Finanzas.
+VIII. Director General de Tesorería.- El Titular de la Dirección General de Tesorería de la Secretaría Ejecutiva de Finanzas;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)</small>
+
+IX. Contralor.- El Contralor del Poder Judicial de la Federación.
 
 ###### Artículo 3.
 
@@ -197,15 +201,33 @@ III. Opinar y proporcionar la asesoría que le sea requerida en los asuntos de s
 
 IV. Proponer alternativas de solución cuando le sean solicitadas.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 11.
 
-El Secretario Técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité, con voz pero sin voto.
+El Contralor tendrá el carácter de supervisor permanente en las sesiones del Comité, con las facultades siguientes:
+
+I. Asistir obligatoriamente a las sesiones del Comité;
+
+II. Vigilar que el desarrollo de las sesiones del Comité, se lleve a cabo en estricto apego a las normas aplicables; y
+
+III. Informar a la Comisión de Administración, con la periodicidad que ésta indique, sobre el funcionamiento del Comité.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 11] POR EL ARTICULO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)
 
 ###### Artículo 12.
 
-El Comité podrá invitar a las sesiones a los representantes de los grupos financieros, entendidos éstos como las instituciones bancarias y financieras debidamente autorizadas, con quienes se tengan celebrados los contratos o demás instrumentos jurídicos que se requieran para la inversión de recursos, en los términos y condiciones que se determinen, teniendo derecho a voz, pero no a voto.
+El Secretario Técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité, con voz pero sin voto.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 12] POR EL ARTICULO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)
 
 ###### Artículo 13.
+
+El Comité podrá invitar a las sesiones a los representantes de los grupos financieros, entendidos éstos como las instituciones bancarias y financieras debidamente autorizadas, con quienes se tengan celebrados los contratos o demás instrumentos jurídicos que se requieran para la inversión de recursos, en los términos y condiciones que se determinen, teniendo derecho a voz, pero no a voto.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 13] POR EL ARTICULO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)
+
+###### Artículo 14.
 
 La participación de los grupos financieros, se sujetará a lo siguiente:
 
@@ -213,15 +235,21 @@ I. Los representantes acreditados de los grupos financieros podrán participar e
 
 II. Los representantes de los grupos financieros, cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité, sus propuestas de inversión y los rendimientos ofrecidos;
 
-III. Cuando así se requiera, podrá invitarse a los representantes de los grupos financieros a las reuniones de trabajo a las que convoque el Director General de Tesorería, quien revisará las propuestas de inversión y, en su caso, presentará ante el Comité las opciones más adecuadas para la obtención de los mejores rendimientos; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)</small>
+
+III. El Comité, cuando así lo estime conveniente, podrá invitar a los grupos financieros a las reuniones a las que convoque para analizar las propuestas de inversión que aquéllos le hagan y contar con toda la información necesaria para escoger a la o las opciones que ofrezcan mayores rendimientos; y
 
 IV. En ningún momento los grupos financieros podrán tener conocimiento de las estrategias de inversión e información financiera del Consejo de la Judicatura Federal, o de cualquier otro acervo que pudiera estar contemplado como información reservada de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-###### Artículo 14.
+(REUBICADO [N. DE E. ANTES ARTICULO 14] POR EL ARTICULO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)
+
+###### Artículo 15.
 
 Los contratos y demás instrumentos jurídicos que se requieran para la inversión de recursos que el Consejo autorice celebrar, tomarán en cuenta los rendimientos que la institución financiera otorgue en cada periodo de inversión y será potestad del Comité incrementar o disminuir el monto de dicha inversión, de acuerdo con los resultados que se observen.
 
-###### Artículo 15.
+(REUBICADO [N. DE E. ANTES ARTICULO 15] POR EL ARTICULO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE AGOSTO DE 2006)
+
+###### Artículo 16.
 
 La Comisión por sí, o a través del Comité, podrá contratar una asesoría financiera externa para la instrumentación de políticas que faciliten y permitan el aprovechamiento de diferentes oportunidades de los mercados financieros, buscando la mejor rentabilidad y la optimización de dichos recursos.
 
@@ -234,3 +262,15 @@ SEGUNDO.- El Comité de Inversión de Recursos Financieros del Consejo de la Jud
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 17/2006, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de nueve de marzo de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a nueve de marzo de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 11 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+CUARTO.- El texto de esta reforma deberá integrarse, de inmediato, al Acuerdo General 17/2006 del Pleno del Consejo de la Judicatura Federal.
