@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2006-08-09"
+last_updated: "2006-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -1305,6 +1305,14 @@ III.- Obligar al sujeto pasivo o a persona distinta relacionada con él, a reali
 
 IV.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
 
+(ADICIONADO, P.O. 11 DE AGOSTO DE 2006).
+
+###### ARTICULO 167 Bis.
+
+Comete el delito de privación de la libertad en su modalidad de secuestro instantáneo, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 201 y 231 de este Código o para obtener algún beneficio económico.
+
+Se le impondrá de siete a veinte años de prisión y de cien a mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001|)</small>
 
 ###### ARTICULO 168.
@@ -1757,13 +1765,13 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento de la persona que
 
 ### CAPITULO I BIS. VIOLENCIA INTRAFAMILIAR
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2003)</small>
+(REFORMADO, P.O. 11 DE AGOSTO DE 2006).
 
-ARTICULO 241 BIS.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y el agredido habiten en el mismo domicilio.
+ARTICULO 241 BIS.- Por violencia intrafamiliar debe entenderse cualquier acción u omisión que de manera directa e indirecta causare daño o sufrimiento físico, sexual, psicológico o patrimonial, a persona integrante del grupo familiar, por parte de pariente consanguíneo, en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, concubina o concubinario, cónyuge o excónyuge o con quien se haya procreado hijos.
 
-Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, que haga uso de la fuerza física o moral, o que incurra en la omisión grave.
+A quien cometa el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión o de cuarenta a ciento veinte días de trabajo a favor de la comunidad, prohibición de ir a lugar determinado, en su caso, y perderá el derecho de pensión alimenticia. Asimismo se le impondrá medida de seguridad consistente en tratamiento psicológico especializado, independientemente de las sanciones que correspondan por las lesiones inferidas o por cualquier otro delito que resulte.
 
-A quien cometa el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión o de cuarenta a ciento veinte días de trabajo a favor de la comunidad, prohibición de ir a lugar determinado en su caso, y perderá el derecho de pensión alimenticia. Asimismo se le impondrá medida de seguridad consistente en tratamiento psicológico especializado, independientemente de las sanciones que correspondan por las lesiones inferidas o por cualquier otro delito que resulte. En caso de reincidencia, las penas se aumentarán hasta en una mitad más.
+En caso de reincidencia, las penas se aumentarán hasta en una mitad más.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2003)</small>
 
@@ -3252,3 +3260,17 @@ P.O. 9 DE AGOSTO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE AGOSTO DE 2006.
+
+DECRETO NÚMERO 366, POR EL QUE SE ADICIONA EL ARTÍCULO 167 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE AGOSTO DE 2006.
+
+DECRETO NÚMERO 368, POR EL QUE SE REFORMA EL ARTÍCULO 241 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
