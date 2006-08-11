@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-39-2000-del-pleno-del-consejo-de-la-6633
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-07-03"
-last_updated: "2000-07-03"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66336&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ issue_date: "2000-07-03"
 
 ACUERDO GENERAL NUMERO 39/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LlNEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICION DE BIENES INMUEBLES PARA EL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 11 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en versión estenográfica, el lunes 3 de julio de 2000.
 
@@ -451,3 +453,15 @@ SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, C E R T I F
 Que este Acuerdo General 39/2000, del Pleno del Consejo de la Judicatura Federal, que Establece Lineamientos para el Arrendamiento y Adquisición de Bienes Inmuebles para el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el propio Pleno, en sesión extraordinaria de tres de julio de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a cuatro de julio de dos mil.
 
 Esta hoja corresponde al Acuerdo General 39/2000, del Pleno del Consejo de la Judicatura Federal, que Establece Lineamientos para el Arrendamiento y Adquisición de Bienes Inmuebles para el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el propio Pleno, aprobado en sesión extraordinaria de tres de julio de dos mil.- Conste.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se abroga el "Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Establece Lineamientos para el Arrendamiento y Adquisición de Bienes Inmuebles para el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y Abroga el Diverso 39/2000, del Propio Cuerpo Colegiado", de fecha seis de agosto de dos mil tres, y se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+CUARTO.- El Catastro de Inmuebles del Consejo de la Judicatura Federal, así como el Sistema de Administración de Inmuebles, deberán establecerse, de conformidad con las disposiciones de este ordenamiento, dentro del término de seis meses, contados a partir del inicio de la vigencia el presente acuerdo.
