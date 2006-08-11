@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2006-06-30"
+last_updated: "2006-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -245,7 +245,9 @@ Son días de descanso obligatorios con goce de salario íntegro los siguientes:
 
 8.- El tercer lunes de Noviembre en conmemoración del 20 de Noviembre.
 
-9- 1 de diciembre de cada seis años cuando corresponda a la trasmisión del Poder Ejecutivo Federal.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
+
+9.- 1 de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal.
 
 10.- 5 y el 25 de Diciembre.
 
@@ -1311,7 +1313,9 @@ Asimismo, los trabajadores al Servicio de la Educación, que tengan una antigüe
 
 26 a 30 años, 126.5% sobre 20 días hábiles.
 
-31 años en adelante, 137.5% sobre 20 días hábiles.
+31 años en
+
+adelante, 137.5% sobre 20 días hábiles.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
 
@@ -1406,5 +1410,9 @@ P.O. 31 DE AGOSTO DE 2001.
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE JUNIO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE AGOSTO DE 2006.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
