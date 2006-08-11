@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "2006-06-07"
+last_updated: "2006-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996.
 
@@ -416,7 +416,9 @@ Son atribuciones de la Secretaría, además de las que le confiere la Ley Orgán
 
 I. Vigilar la congruencia de los proyectos de los programas con el Plan Nacional de Desarrollo, con el Programa Nacional de Desarrollo Urbano, con el Programa de Ordenación de la Zona Conurbada y con el Programa General de Desarrollo del Distrito Federal;
 
-II. Realizar los estudios previos y los proyectos de los programas, así como sus proyectos de modificación;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2006)</small>
+
+II.- Realizar los estudios previos y elaborar los proyectos de los programas, así como sus proyectos de modificación;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -914,13 +916,11 @@ II. El órgano de representación vecinal establecido en la Ley de la materia, p
 
 ### Capítulo VI. De la revisión, modificación o cancelación de los programas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 25.
 
-La revisión de los programas se hará en función de las determinaciones del sistema de información y de evaluación a que se refiere esta Ley. Dicha revisión se realizará por lo menos cada tres años. En aquellos programas parciales en suelo urbano y/o de conservación, cuya vigencia sea mayor, se podrá revisar su contenido a los tres años, para verificar la congruencia con otros instrumentos y las variaciones económicas, ambientales y sociales que se hubieran producido en el territorio.
-
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
+La revisión de los programas se hará en función de las determinaciones del sistema de información y de evaluación a que se refiere esta Ley. Dicha revisión se realizará por lo menos cada seis años, a partir de su entrada en vigor. En aquellos programas parciales en suelo urbano y/o de conservación, cuya vigencia sea mayor, se podrá revisar su contenido una vez que haya transcurrido el plazo señalado en este artículo, para verificar la congruencia con otros instrumentos y las variaciones económicas, ambientales y sociales que se hubieran producido en el territorio.
 
 Con los resultados de dicha revisión, podrá determinarse si los elementos que dieron base a la formulación y aprobación del programa respectivo, persisten o si se debe iniciar el proceso de modificación al mismo, en los términos de esta Ley.
 
@@ -3139,3 +3139,27 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los trámites que se encuentren en proceso de afirmativa ficta ante las autoridades correspondientes, deberán de ser resueltos conforme a la normatividad en que se iniciaron.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 11 DE AGOSTO DE 2006.
+
+DECRETO QUE REFORMA EL ARTICULO 11 FRACCION II DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Solicítesele al Jefe de Gobierno del Distrito Federal, se lleven a cabo las modificaciones necesarias al Reglamento Interior de la Administración Pública del Distrito Federal y al Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, en función de las presentes modificaciones a las Leyes indicadas.
+
+CUARTO.- De conformidad con los términos establecidos en la Ley de Desarrollo Urbano del Distrito Federal, relativos a la temporalidad para la revisión o modificación de los Programas Delegacionales de Desarrollo Urbano, se deberá considerar la asignación de recursos financieros necesarios a la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, para la elaboración de dichos programas en cada una de las 16 Delegaciones.
+
+QUINTO.- Para el caso de las Delegaciones cuyo proceso de revisión a sus programas de desarrollo urbano versión 1997, que aún tengan pendiente la elaboración del proyecto respectivo, la Secretaría de Desarrollo Urbano y Vivienda podrá solicitar los recursos necesarios para tal fin.
+
+G.O. 11 DE AGOSTO DE 2006.
+
+DECRETO QUE REFORMA EL ARTICULO 25 DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto surtirá sus efectos al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se solicita al Jefe de Gobierno del Distrito Federal, se lleven a cabo las modificaciones necesarias al Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, en función de la presente modificación a la Ley indicada.
