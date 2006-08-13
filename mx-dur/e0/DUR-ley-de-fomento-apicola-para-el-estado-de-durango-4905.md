@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-apicola-para-el-estado-de-durango-4905"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-26"
-last_updated: "1991-12-26"
+last_updated: "2006-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE FOMENTO APICOLA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY GANADERA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de diciembre de 1991.
 
@@ -354,3 +356,17 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los veinticuatro días del mes de Septiembre de Mil Novecientos noventa y uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JOSE RAMIREZ GAMERO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. SALVADOR MENDIVIL HERNANDEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE AGOSTO DE 2006.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Ganadera para el estado de Durango, aprobada mediante Decreto No. 66, expedido por la LXII Legislatura, publicado en el Periódico Oficial del Gobierno del Estado No. 44 de fecha 2 de Junio de 2002.
+
+TERCERO. Se abroga la Ley de Fomento Apícola para el Estado de Durango, aprobada mediante Decreto No. 273, expedido por la LVIII Legislatura, publicado en el Periódico Oficial del Gobierno del Estado No. 51, de fecha 26 de diciembre de 1991.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+QUINTO. En un plazo de ciento veinte días después de su publicación, deberá expedirse el Reglamento de la presente ley.
