@@ -4,7 +4,7 @@ identifier: "DUR-ley-ganadera-para-el-estado-de-durango-25625"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-02"
-last_updated: "2002-06-02"
+last_updated: "2006-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY GANADERA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GANADERA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 2 de junio de 2002.
 
@@ -1160,3 +1162,17 @@ LIC. ANGEL SERGIO GUERRERO MIER. Rúbrica.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE AGOSTO DE 2006.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Ganadera para el estado de Durango, aprobada mediante Decreto No. 66, expedido por la LXII Legislatura, publicado en el Periódico Oficial del Gobierno del Estado No. 44 de fecha 2 de Junio de 2002.
+
+TERCERO. Se abroga la Ley de Fomento Apícola para el Estado de Durango, aprobada mediante Decreto No. 273, expedido por la LVIII Legislatura, publicado en el Periódico Oficial del Gobierno del Estado No. 51, de fecha 26 de diciembre de 1991.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+QUINTO. En un plazo de ciento veinte días después de su publicación, deberá expedirse el Reglamento de la presente ley.
