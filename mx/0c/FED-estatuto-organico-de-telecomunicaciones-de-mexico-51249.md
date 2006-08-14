@@ -1,0 +1,914 @@
+---
+title: "ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO"
+identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-51249"
+country: "mx"
+rank: "estatuto"
+publication_date: "2006-08-14"
+last_updated: "2006-08-14"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51249&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "51249"
+scjn_status: "ABROGADO (A)"
+gazette: "Diario Oficial de la Federación"
+original_category: "ESTATUTO"
+original_gazette_section: "10 PRIMERA SECCION"
+reform_count: "6"
+scjn_last_update: "2024-04-17"
+issue_date: "2006-07-06"
+---
+# ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO
+
+ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO
+
+TEXTO ORIGINAL.
+
+Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
+
+Al margen un logotipo que dice: Telecomunicaciones de México.
+
+ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO
+
+LA JUNTA DIRECTIVA DE TELECOMUNICACIONES DE MEXICO, ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO FEDERAL, CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTICULOS 15 PARRAFO SEGUNDO Y 58 FRACCION VIII DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES, ASI COMO 8o. FRACCION V DE SU DECRETO DE CREACION, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+ESTATUTO ORGANICO
+
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+Telecomunicaciones de México es un Organismo Público Descentralizado del Gobierno Federal integrante del Sector Comunicaciones y Transportes, con personalidad jurídica y patrimonio propios, creado por Decreto Presidencial publicado en el Diario Oficial de la Federación el 20 de agosto de 1986, reformado por diversos publicados en el mismo medio informativo el 17 de noviembre de 1989, 29 de octubre de 1990 y 6 de enero de 1997; encargado de ejercer las funciones del estado en las áreas estratégicas y prioritarias que tiene a su cargo, de conformidad con lo dispuesto por los artículos 25 y 28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### Artículo 2.
+
+El objeto principal del Organismo es la prestación de los servicios públicos de telégrafos, giro telegráfico nacional e internacional, radiotelegrafía, comunicación vía satélite, la remisión de dinero, la interconexión de los sistemas de telecomunicaciones a su cargo con otros de entidades o empresas nacionales o extranjeras, así como combinar sus servicios y los de telecomunicaciones que expresamente se señalan en el artículo 3o. de su decreto de creación y cuarto transitorio de la Ley Federal de Telecomunicaciones, así como los de carácter prioritario que en su caso le encomiende el Ejecutivo Federal.
+
+###### Artículo 3.
+
+Son funciones de Telecomunicaciones de México, las siguientes:
+
+I. Proporcionar los servicios públicos de telégrafos, giros telegráficos, télex, telefax, correo electrónico, Internet, entre otros, así como establecer y conservar sus instalaciones;
+
+II. Instalar, conservar, operar y explotar una red de estaciones terrenas y un sistema de radiocomunicación satelital para prestar servicios públicos de conducción de señales por satélite y arrendar circuitos dedicados para redes privadas por satélite lo que no comprende el servicio público de telefonía básica de larga distancia;
+
+III. Asesorar a los Gobiernos Estatales y a las dependencias y entidades del Gobierno Federal en materia de sistemas de telecomunicaciones;
+
+IV. Programar ajustándose a los programas sectoriales respectivos, organizar, operar y controlar la prestación del servicio público de telégrafos y diversos a su cargo, que se encuentren establecidos en las leyes y convenios internacionales vigentes; así como en su Decreto de Creación;
+
+V. Establecer la interconexión de sistemas de telecomunicaciones a su cargo con otros de entidades o empresas nacionales o extranjeras, así como combinar sus servicios, atendiendo a las bases que fije la Secretaría de Comunicaciones y Transportes;
+
+VI. Proponer a la Secretaría de Hacienda y Crédito Público, por conducto de la Secretaría de Comunicaciones y Transportes, las tarifas aplicables a los servicios que proporciona, con base en los estudios técnicos y económicos que lo justifiquen;
+
+VII. Percibir y administrar, en los términos de la legislación aplicable, los ingresos generados por los servicios que preste, así como ejercerlos conforme a su presupuesto autorizado;
+
+VIII. Participar en los organismos y foros internacionales sobre telecomunicaciones, en coordinación con la Secretaría de Comunicaciones y Transportes;
+
+IX. Administrar la Escuela Nacional de Telecomunicaciones y Telegrafía y promover cursos de capacitación para su personal en México y en el extranjero, así como propiciar la vinculación académica con instituciones tecnológicas del sector educativo en materia de telecomunicaciones;
+
+X. Incorporar los avances tecnológicos en la prestación de sus servicios y participar en la investigación tecnológica e industrial en materia de telecomunicaciones, a través de programas concertados con instituciones de investigación y desarrollo, y
+
+XI. En general, realizar y celebrar los actos jurídicos necesarios para el desarrollo de sus funciones de acuerdo con las disposiciones legales aplicables.
+
+### CAPITULO II. DE LA JUNTA DIRECTIVA
+
+###### Artículo 4.
+
+La Junta Directiva es la autoridad suprema del Organismo y estará integrada por los Secretarios de Comunicaciones y Transportes, Gobernación, Relaciones Exteriores, Hacienda y Crédito Público, Economía y por el Subsecretario de Comunicaciones.
+
+###### Artículo 5.
+
+Corresponde a la Junta Directiva ejercer las siguientes facultades indelegables:
+
+I. Establecer, en congruencia con el Programa Sectorial de Comunicaciones y Transportes, las políticas generales del Organismo, así como definir las prioridades relativas a capacitación, producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
+
+II. Aprobar los programas y presupuestos del Organismo, así como sus modificaciones, en los términos de la legislación aplicable, sujetándose a la coordinación sectorial de la Secretaría de Comunicaciones y Transportes, así como a las asignaciones de gasto y financiamiento que en su caso se autoricen. Para tal aprobación, deberán observarse los lineamientos generales que en materia de gasto y programas financieros establezca la Secretaría de Hacienda y Crédito Público;
+
+III. Fijar y ajustar los precios de los servicios que presta el Organismo;
+
+IV. Aprobar la concertación de los préstamos para el financiamiento del Organismo a través de créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. En los casos de créditos externos, los efectos de la aprobación quedarán condicionados a la autorización y registro de los mismos por parte de la Secretaría de Hacienda y Crédito Público;
+
+V. Expedir, de conformidad con las disposiciones aplicables, las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Organismo que no correspondan a las operaciones propias de su objeto;
+
+VI. Aprobar anualmente, previo informe del Comisario Público y dictamen del Auditor Externo, los estados financieros del Organismo y autorizar su publicación;
+
+VII. Aprobar de acuerdo con las leyes y reglamentos aplicables las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Organismo con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El Director General de la entidad y en su caso los servidores públicos que deban intervenir de conformidad a las normas organizacionales de la misma, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Organo de Gobierno;
+
+VIII. Aprobar la estructura básica del Organismo y las modificaciones que procedan a la misma, así como el Estatuto Orgánico de la entidad;
+
+IX. Proponer al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, los convenios de fusión con otras entidades;
+
+X. Autorizar la creación de Comités Técnicos de Apoyo;
+
+XI. Nombrar y remover a propuesta del Director General, a los servidores públicos del Organismo que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y aprobar la fijación de sus sueldos y prestaciones y concederles licencias;
+
+XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario de la Junta Directiva quien podrá ser miembro o no de la misma, así como designar o remover a propuesta del Director General al Prosecretario del citado Organo de Gobierno, quien podrá ser o no miembro de dicho Organo o de la entidad;
+
+XIII. Proponer, conforme a las disposiciones aplicables, la constitución de reservas y aplicación de excedentes económicos;
+
+XIV. Establecer las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Organismo requiera para la prestación de los servicios a su cargo, en los términos de la legislación aplicable;
+
+XV. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario Público;
+
+XVI. Acordar, con sujeción a las disposiciones legales respectivas, lo referente a los donativos y pagos extraordinarios, verificando su adecuada aplicación;
+
+XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Organismo cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Secretaría de Comunicaciones y Transportes;
+
+XVIII. Fijar las remuneraciones, estímulos y recompensas a que podrán ser sujetos sus miembros en el ejercicio de sus funciones;
+
+XIX. Vigilar el cumplimiento de los criterios de racionalidad, austeridad y disciplina de gasto, conforme a los cuales el Organismo ejercerá su presupuesto;
+
+XX. Nombrar temporalmente al Encargado de la Dirección General por renuncia de éste, previo al acuerdo que tenga el Secretario de Comunicaciones y Transportes con el Titular del Ejecutivo Federal y en tanto este último realiza la designación correspondiente; siendo facultad de la Junta Directiva, el acordar las atribuciones que se le darán al Encargado de la Dirección General, con el objeto de dar continuidad a los asuntos del Organismo, y
+
+XXI. Las demás que con ese carácter le confieran la Ley Federal de las Entidades Paraestatales y su Reglamento.
+
+###### Artículo 6.
+
+La Junta Directiva será presidida por el Secretario de Comunicaciones y Transportes.
+
+En caso de ausencia del Presidente de la Junta Directiva, la sesión será presidida por el Secretario de Estado que corresponda, según el orden de precedencia, y a falta de éstos por el Subsecretario de Comunicaciones.
+
+###### Artículo 7.
+
+Por cada miembro propietario habrá un suplente que será designado por el Titular y contará con las mismas facultades que los propietarios en caso de ausencia de éstos. El suplente del Subsecretario de Comunicaciones será designado por el Secretario de Comunicaciones y Transportes.
+
+###### Artículo 8.
+
+La Junta Directiva contará con un Secretario y un Prosecretario, quienes serán nombrados y podrán ser removidos, el primero a propuesta del Presidente de la Junta Directiva, y el segundo a propuesta del Director General del Organismo.
+
+###### Artículo 9.
+
+El Secretario tendrá a su cargo las siguientes funciones:
+
+I. Formular con debida anticipación, el orden del día de las sesiones de la Junta Directiva, tomando en cuenta los asuntos que a propuesta de sus miembros, del Director General del Organismo y del Comisario Público se deban incluir en el mismo y someterlo a la aprobación del Presidente de la Junta;
+
+II. Enviar para su estudio a los integrantes de la Junta Directiva, la documentación de los asuntos a tratar, asegurándose de que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la sesión;
+
+III. Pasar lista de asistencia y verificar que el número de asistentes sea por lo menos de la mitad más uno de sus miembros;
+
+IV. Elaborar el calendario de sesiones de la Junta Directiva y ponerlo a consideración de ésta;
+
+V. Recabar información sobre el cumplimiento de los acuerdos de la Junta Directiva y hacerla del conocimiento de los integrantes de la misma;
+
+VI. Dar lectura al acta de sesión anterior y tomar nota de las observaciones de sus miembros a fin de hacer las modificaciones pertinentes, y
+
+VII. Levantar actas de las sesiones que celebre la Junta Directiva y asentarlas una vez aprobadas en el libro respectivo, obteniendo las firmas del Presidente y de los miembros participantes. Asimismo, llevar el registro de los acuerdos tomados en las sesiones de la misma.
+
+###### Artículo 10.
+
+El Prosecretario suplirá en sus ausencias al Secretario y realizará las funciones que a éste competen.
+
+### CAPITULO III. DEL FUNCIONAMIENTO DE LA JUNTA DIRECTIVA
+
+###### Artículo 11.
+
+El Secretario de Comunicaciones y Transportes en su carácter de Presidente, podrá convocar a la Junta Directiva a las sesiones ordinarias, o bien extraordinarias cuando lo estime necesario. Las resoluciones que se adopten serán validas cuando sean aprobadas por la mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+###### Artículo 12.
+
+La Junta Directiva sesionará válidamente cuando se encuentren presentes la mitad más uno de sus miembros, siempre y cuando entre ellos se encuentre un representante de la Secretaría de Comunicaciones y Transportes.
+
+###### Artículo 13.
+
+Las resoluciones se tomarán por mayoría de los miembros presentes. Las que se tomen sin el quórum requerido serán nulas de pleno derecho.
+
+###### Artículo 14.
+
+El Organo de Gobierno se reunirá cuatro veces al año cuando menos, de acuerdo con el calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiendo además celebrar las sesiones extraordinarias que se requieran.
+
+###### Artículo 15.
+
+De cada sesión se levantará acta, la cual una vez aprobada por la Junta Directiva, se asentará en el libro respectivo.
+
+###### Artículo 16.
+
+Para la celebración de la sesión, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Titular de la entidad o por el Secretario, en su caso, y recibidos por los miembros del Organo de Gobierno y Comisarios Públicos, con una anticipación no menor a cinco días hábiles.
+
+###### Artículo 17.
+
+La falta de asistencia injustificada de los integrantes de la Junta Directiva a las sesiones a que sean convocados, dará lugar a las sanciones previstas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+### CAPITULO IV. DE LAS UNIDADES ADMINISTRATIVAS
+
+###### Artículo 18.
+
+La dirección y administración del Organismo corresponde a la Junta Directiva y a un Director General, quien para el estudio, planeación, ejecución de los asuntos y ejercicio de las facultades que le competen, contará con las siguientes unidades administrativas:
+
+DIRECCION DE ASUNTOS JURIDICOS
+
+DIRECCION DE PLANEACION
+
+DIRECCION TECNICA
+
+DIRECCION COMERCIAL
+
+DIRECCION DE OPERACION DE LA RED DE OFICINAS
+
+DIRECCION DE FINANZAS Y ADMINISTRACION
+
+DIRECCION DE ADMINISTRACION DE RECURSOS HUMANOS
+
+### CAPITULO V. DEL DIRECTOR GENERAL
+
+###### Artículo 19.
+
+El Director General del Organismo será designado en términos de lo dispuesto por el artículo 21 de la Ley Federal de las Entidades Paraestatales.
+
+En lo tocante a su representación legal, sin perjuicio de las facultades que se le otorguen en otras leyes, ordenamientos o estatutos y tendrá las siguientes facultades y obligaciones:
+
+I. Administrar y representar legalmente al Organismo y llevar a cabo todos los actos jurídicos de dominio necesarios para su funcionamiento con las limitaciones que establezca la Junta Directiva;
+
+II. Ejercer las facultades que tiene atribuidas por el decreto de creación y la legislación federal aplicable en materia administrativa;
+
+III. Otorgar, actualizar y revocar poderes generales o especiales a funcionarios subalternos, sin perder por ello la posibilidad de su ejercicio directo, en términos de lo dispuesto en el artículo 22 fracción VII de la Ley Federal de las Entidades Paraestatales y demás disposiciones aplicables;
+
+IV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Organismo, de conformidad con las disposiciones aplicables y los lineamientos que emita la Junta Directiva;
+
+V. Realizar los actos jurídicos de administración y de dominio necesarios para el adecuado funcionamiento del Organismo;
+
+VI. Representar al Organismo en pleitos y cobranzas con todas las facultades generales, ejerciendo aún las que requieran cláusula especial, formulando y contestando demandas, denuncias, querellas, interponiendo recursos y ejerciendo todo tipo de acciones judiciales, extrajudiciales o administrativas y desistirse de ellas, incluyendo juicios de amparo, así como otorgar perdón ante las autoridades administrativas o judiciales competentes en las querellas que el Organismo presente;
+
+VII. Emitir, avalar y negociar títulos de crédito a cargo del Organismo, de conformidad con lo dispuesto en la Ley de Deuda Pública y demás disposiciones aplicables en la materia;
+
+VIII. Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos así como formular los programas de organización;
+
+IX. Proponer a la Junta Directiva el nombramiento o remoción, de los dos primeros niveles de servidores públicos del Organismo, la fijación de sueldos y demás prestaciones, así como designar al resto del personal, de conformidad con los requerimientos existentes y con las asignaciones globales del presupuesto de gasto corriente aprobado por la propia Junta Directiva;
+
+X. Proponer a la Junta Directiva el nombramiento o remoción del Prosecretario de la misma;
+
+XI. Poner a consideración de la Junta Directiva los programas de corto, mediano y largo plazo, así como los presupuestos del Organismo;
+
+XII. Concurrir e intervenir con voz pero sin voto en las sesiones que celebre la Junta Directiva, y cumplir las disposiciones que acuerde la misma;
+
+XIII. Acordar y fijar de conformidad con la Ley Federal de los Trabajadores al Servicio del Estado, las Condiciones Generales de Trabajo para regular las relaciones entre el Titular del Organismo y sus trabajadores;
+
+XIV. Establecer los procedimientos por los que el Organismo deba celebrar los concursos, contrataciones y adjudicaciones directas, previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas y demás disposiciones aplicables;
+
+XV. Rendir ante la Junta Directiva informes de actividades en las sesiones ordinarias del periodo de que se trate, así como los que le sean requeridos cuando el presidente de la Junta Directiva convoque a sesiones extraordinarias;
+
+XVI. Proporcionar a solicitud de la Coordinadora del Sector, la información que sea requerida para su inclusión en el informe presidencial respectivo, y
+
+XVII. Expedir las certificaciones de los documentos que obren en los archivos de la Dirección General.
+
+### CAPITULO VI. DE LAS FACULTADES DE LAS UNIDADES ADMINISTRATIVAS
+
+###### Artículo 20.
+
+A cargo de cada unidad administrativa habrá un Director, quien será auxiliado, por los Subdirectores, Gerentes y Jefes de Departamento, debiendo precisarse la existencia de sus puestos en el Manual de Organización y figurar en el presupuesto autorizado para el Organismo.
+
+###### Artículo 21.
+
+Corresponde a los Directores:
+
+I. Auxiliar al Director General dentro de la esfera de su competencia;
+
+II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento y labores encomendadas a las unidades a su cargo y coordinar las que se realicen con las diversas direcciones del Organismo;
+
+III. Acordar con el Director General el despacho de los asuntos encomendados a las unidades administrativas adscritas a su dirección e informarle oportunamente sobre los mismos;
+
+IV. Someter a la aprobación del Director General los estudios y proyectos que elaboren las unidades a su cargo;
+
+V. Vigilar que se cumplan las disposiciones legales aplicables en todos los asuntos de su competencia;
+
+VI. Proponer al Director General el ingreso, la remoción, las promociones y demás movimientos relativos al personal adscrito a las unidades que estén a su cargo en los niveles de mandos medios, así como decidir sobre los movimientos de dicho personal conforme a los lineamientos que se establezcan y suscribir los documentos correspondientes;
+
+VII. Atender, conforme a los lineamientos que se establezcan, los asuntos relacionados con el trámite, registro y control de la admisión, baja y demás movimientos del personal a que se refiere la fracción anterior y suscribir los documentos correspondientes;
+
+VIII. Formular los proyectos de programas y de presupuesto que les correspondan;
+
+IX. Ejercer el presupuesto autorizado para el área administrativa a su cargo;
+
+X. Proponer las medidas que mejoren la administración y desempeño de las unidades a su cargo;
+
+XI. Elaborar y actualizar los Manuales de Organización, de Procedimientos y de Servicios de su unidad administrativa;
+
+XII. Implantar procedimientos de calidad en su unidad administrativa;
+
+XIII. Informar periódicamente al Director General del cumplimiento de los programas y proyectos a su cargo, así como del ejercicio del presupuesto asignado;
+
+XIV. Proporcionar la información y asistencia o cooperación técnica que les sea requerida por otras dependencias o entidades de la Administración Pública Federal, o por las unidades administrativas del propio Organismo, de acuerdo con las disposiciones aplicables, previa autorización del Director General, en su caso;
+
+XV. Desempeñar las comisiones que les encomiende el Director General y realizar las actividades necesarias para el cumplimiento de las funciones a su cargo;
+
+XVI. Coordinarse con la Dirección de Administración de Recursos Humanos en el diseño y elaboración del programa de capacitación;
+
+XVII. Expedir las certificaciones de los documentos que obren en los archivos de sus respectivas unidades administrativas, para lo cual podrían delegar dicha atribución por escrito en sus Subdirectores y Gerentes;
+
+XVIII. Las demás que les confieran las disposiciones aplicables y el Director General, así como las que les correspondan a las unidades administrativas adscritas a su cargo.
+
+### CAPITULO VII. DE LAS ATRIBUCIONES Y FUNCIONES DE LAS UNIDADES ADMINISTRATIVAS DE LA DIRECCION GENERAL
+
+###### Artículo 22.
+
+Corresponde a la Dirección de Asuntos Jurídicos:
+
+I. Las funciones de representación legal del Organismo ante autoridades administrativas o judiciales, federales o estatales en procedimientos legales, emitir dictámenes sobre actos jurídicos que afecten directa o indirectamente al patrimonio de la entidad, así como realizar todo tipo de promociones legales y asesorar a las áreas del Organismo en materia jurídica;
+
+II. Asesorar jurídicamente al Organismo, actuar como órgano de consulta, fijar, sistematizar, compilar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas de la competencia del Organismo y vigilar su observancia;
+
+III. Revisar las bases de los convenios, contratos y demás actos jurídicos que celebre el Organismo, interpretar y dictaminar sobre la posibilidad jurídica de su nulidad, rescisión, inexistencia o cumplimiento forzoso y demás aspectos jurídicos, así como elaborar los formatos de estos instrumentos requeridos por las demás unidades administrativas, apegándose a las disposiciones aplicables;
+
+IV. Representar al Organismo en los asuntos administrativos o judiciales en que sea parte e intervenir en las reclamaciones de carácter jurídico que puedan afectar sus intereses, así como formular demandas, denuncias o querellas y desistirse de éstas, u otorgar el perdón según proceda;
+
+V. Formular e instrumentar informes, interponer recursos y promover amparos y demás trámites procedimentales conducentes en los juicios en que el Organismo sea parte, así como llevar su registro;
+
+VI. Resolver las consultas jurídicas que formulen las áreas del Organismo, otras dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, así como las que efectúen los particulares;
+
+VII. Dictaminar cuando lo solicite la Dirección de Administración de Recursos Humanos, la procedencia de las sanciones laborales, cuando exista plena responsabilidad de los trabajadores;
+
+VIII. Imponer, reducir y revocar las sanciones a que se hagan acreedores los trabajadores del Organismo, con base en la normatividad vigente, previo dictamen de la documentación generada por el acto sancionable y a solicitud de la Dirección de Administración de Recursos Humanos;
+
+IX. Dictaminar cuando le solicite la Dirección de Finanzas y Administración, respecto de adeudos a favor del Organismo, de conformidad con la normatividad aplicable;
+
+X. Aprobar el contenido de las garantías que constituyan los usuarios de los servicios a favor del Organismo, así como los proveedores y contratistas en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles y obras públicas, respectivamente;
+
+XI. Formular los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones en materia de telecomunicaciones, así como sus reformas necesarias, proponiéndolas al Director General para su aprobación por la Secretaría de Comunicaciones y Transportes, en su carácter de Coordinadora del Sector, así como formular las disposiciones jurídico administrativas necesarias para el mejor funcionamiento del Organismo;
+
+XII. Realizar los trámites necesarios para la regularización de los inmuebles que ocupa el Organismo, e intervenir dentro de su ámbito de competencia en la adquisición, arrendamiento y enajenación de los mismos;
+
+XIII. Asesorar a las unidades administrativas del Organismo en los procedimientos de contratación que se realicen de conformidad con lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas vigilando la estricta observancia de las disposiciones en la materia y demás aplicables;
+
+XIV. Elaborar a solicitud del Director General, los poderes especiales o generales con las facultades que les competan a los distintos servidores públicos del Organismo, y
+
+XV. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden, cumpliendo en todo momento con la normatividad vigente y las que le encomiende expresamente el Director General.
+
+###### Artículo 23.
+
+Corresponde a la Dirección de Planeación:
+
+I. Coordinar el establecimiento del sistema de planeación estratégica del Organismo, integrar el programa general de trabajo y evaluar sus resultados, dar seguimiento al programa de modernización administrativa, presentar los indicadores estadísticos y de gestión, así como promover el desarrollo organizacional;
+
+II. Participar con la Secretaría de Comunicaciones y Transportes en la elaboración e integración de planes, programas y proyectos del Sector, proponiendo los correspondientes al Organismo;
+
+III. Proponer y en su caso elaborar estudios para la planeación del Organismo y del impacto de la economía en los servicios de telecomunicaciones;
+
+IV. Proponer al Director General el sistema y la documentación para la evaluación de la calidad en los procesos del Organismo;
+
+V. Coadyuvar en la integración del sistema de costos y en el estudio de proyectos de inversión;
+
+VI. Evaluar el desempeño de los programas y proyectos, así como los proyectos de inversión;
+
+VII. Presentar la evaluación periódica del sistema de planeación estratégica y de los resultados de los programas y proyectos;
+
+VIII. Coordinar la integración de la estadística y de los indicadores de la gestión y de desempeño del Organismo;
+
+IX. Coordinar con las unidades administrativas la implantación de métodos y procedimientos que modernicen la gestión;
+
+X. Integrar y dar seguimiento al programa de modernización administrativa;
+
+XI. Participar en el análisis de los acuerdos internacionales en los que deba participar el Organismo en materia satelital y en la coordinación internacional de frecuencias y posiciones orbitales para su uso satelital;
+
+XII. Apoyar a la Dirección General, en la elaboración del informe a la Junta Directiva, los de autoevaluación y los que requiera el Organo de Gobierno;
+
+XIII. Integrar la estadística e indicadores macroeconómicos;
+
+XIV. Instrumentar la planeación y ejecución de estrategias que garanticen la definición de estructuras organizacionales ágiles y eficientes y coordinar con las áreas respectivas, la elaboración y actualización de los manuales de organización, de procedimientos y de servicios;
+
+XV. Presentar a consideración del Director General, el programa de eventos internacionales y difundir sus resultados;
+
+XVI. En coordinación con las unidades administrativas, participar en la evaluación del impacto de la aplicación de normas, proyectos y asuntos internacionales que afecten al Organismo;
+
+XVII. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+###### Artículo 24.
+
+Corresponde a la Dirección Técnica:
+
+I. Conducir y coordinar la modernización y operación de la infraestructura de comunicación e informática del Organismo como soporte a los servicios telegráficos, comunicación móvil satelital, telefonía rural satelital y telepuertos, así como desarrollar y asesorar la implantación de los sistemas de informática y para la administración; dirigir y planear la modernización permanente de la Red Telegráfica Integrada (RTI) y diseñar los programas de actualización de la tecnología de esta red;
+
+II. Coordinar los programas de instalación, operación y mantenimiento de la Red Telegráfica Integrada (RTI), así como racionalizar el uso de los servicios de la red pública telegráfica;
+
+III. Coordinar la operación y dar mantenimiento a las redes telegráficas analógicas;
+
+IV. Administrar el centro de control de la red télex y corrientes portadoras;
+
+V. Proporcionar mantenimiento a los conmutadores de telefonía privada del Organismo y las líneas telefónicas contratadas;
+
+VI. Asegurar la continuidad y uso eficiente de los servicios telefónicos y de comunicación arrendada a otras redes de telecomunicaciones;
+
+VII. Elaborar los procedimientos técnicos para la operación de las redes analógicas y planear su sustitución;
+
+VIII. Proporcionar mantenimiento a la red telegráfica de datos TELDAT formada por los nodos de datos multiprotocolo en las principales ciudades del país;
+
+IX. Elaborar los procedimientos técnicos para la operación y modernización de las redes de comunicación;
+
+X. Proporcionar mantenimiento a las redes de comunicación digitales de transmisión de datos frame relay, correo electrónico e Internet;
+
+XI. Generar y proporcionar los reportes de los servicios prestados por el Organismo a las áreas que lo requieran;
+
+XII. Emitir opiniones de los aspectos técnicos que le soliciten las áreas del Organismo;
+
+XIII. Desarrollar sistemas internos de comunicación, mediante la utilización de las redes de comunicación;
+
+XIV. Administrar los centros de control de las redes de comunicación que estén bajo responsabilidad del Organismo;
+
+XV. Coordinar la instalación de la infraestructura para los puntos de acceso público a Internet y uso de los medios de informática;
+
+XVI. Apoyar en coordinación con la Dirección Comercial a las dependencias y entidades de la Administración Pública Federal en proyectos de redes de comunicación e informática;
+
+XVII. Diseñar y supervisar la instalación y operación de la red telegráfica satelital TELSAT para transmisión de voz, datos y multimedia;
+
+XVIII. Programar y coordinar el mantenimiento de las estaciones terrenas satelitales bajo responsabilidad del Organismo;
+
+XIX. Desarrollar aplicaciones de servicios de voz, datos y multimedia para usuarios internos y externos, aprovechando las redes de comunicación;
+
+XX. Elaborar los procedimientos técnicos para la operación y mantenimiento de la infraestructura de la red satelital;
+
+XXI. Coordinar los servicios de ingeniería para red informática, administrar el centro de cómputo, garantizar el registro electrónico de las operaciones telegráficas, dar mantenimiento a los programas de cómputo a nivel central, y a nivel estatal, en coordinación con la Dirección de Operación de la Red de Oficinas, gerencias regionales y estatales, así como controlar el funcionamiento continuo de las estaciones terrenas satelitales y los equipos de cómputo y accesorios de las redes;
+
+XXII. Garantizar la operación de la Red Telegráfica Integrada para la prestación de servicios telegráficos de remisión de dinero, de transmisión de mensajes escritos y servicios asociados;
+
+XXIII. Controlar el acceso de la red telegráfica integrada y la operación de los servicios instalados en las oficinas y agencias telegráficas en coordinación con la Dirección de Operación de la Red de Oficinas, así como su modernización;
+
+XXIV. Desarrollar los procedimientos técnicos para la operación de los servicios telegráficos de remisión de dinero, de transmisión de mensajes escritos y de servicios asociados;
+
+XXV. Planear la instalación y dar mantenimiento a los programas de cómputo en las oficinas y agencias telegráficas en coordinación con la Dirección de Operación de la Red de Oficinas;
+
+XXVI. Definir y establecer los estándares internos para la operación, desarrollo, control y mantenimiento de los sistemas de informática y equipos de cómputo;
+
+XXVII. Desarrollar los sistemas informáticos y de comunicaciones para la operación de los servicios del Organismo, así como la generación, administración y custodia de respaldos de programas de cómputo y de información centralizada;
+
+XXVIII. Elaborar los procedimientos técnicos para el desarrollo de sistemas de informática;
+
+XXIX. Coordinar la implantación de los sistemas de cómputo para la prestación de los servicios del Organismo para la remisión de dinero y transmisión de mensajes, comunicaciones y servicios de valor agregado;
+
+XXX. Desarrollar la reingeniería a los procesos técnicos actuales para mejorar la calidad de los servicios del Organismo;
+
+XXXI. Planear y promover el desarrollo tecnológico en el Organismo;
+
+XXXII. Definir los estándares institucionales en materia de informática y comunicaciones;
+
+XXXIII. Proporcionar mantenimiento a los centros de cómputo para el control y registro de los servicios del Organismo;
+
+XXXIV. Elaborar los procedimientos técnicos para la operación y control de los centros de cómputo y equipos informáticos;
+
+XXXV. Supervisar la instalación y mantenimiento de equipos de cómputo e informática en las oficinas telegráficas, en coordinación con la Dirección de Operación de la Red de Oficinas;
+
+XXXVI. Planear y coordinar con la Dirección de Operación de la Red de Oficinas el equipamiento informático y de comunicación en las oficinas telegráficas, así como con las demás unidades administrativas;
+
+XXXVII. Definir los estándares institucionales para la adquisición y mantenimiento de equipos informáticos, paquetes de cómputo, accesorios y de comunicación;
+
+XXXVIII. Desarrollar sistemas informáticos para llevar el registro electrónico de los servicios de la remisión de dinero y de transmisión de mensajes;
+
+XXXIX. Conducir los programas de instalación y operación de telepuertos, y de las redes de comunicación y su infraestructura, así como los servicios de ingeniería satelital;
+
+XL. Desarrollar los sistemas móviles de comunicación por satélites nacionales e internacionales, con atención prioritaria a la telefonía rural y a las instituciones de seguridad nacional;
+
+XLI. Observar los aspectos regulatorios que afecten al área satelital;
+
+XLII. Evaluar y difundir los acuerdos y recomendaciones derivados de las reuniones internacionales de comunicaciones vía satélite en las que participe, así como su relación con organismos vinculados a la entidad en lo que a aspectos técnicos, tecnológicos y de su coordinación;
+
+XLIII. Coordinar el desarrollo de proyectos tecnológicos;
+
+XLIV. Establecer los parámetros y procedimientos técnicos para la conducción de señales satelitales de las estaciones terrenas y telepuertos, así como coordinar los programas de mantenimiento y expansión de las redes de comunicación y otras redes satelitales de uso compartido;
+
+XLV. Actualizar, y proporcionar mantenimiento a las estaciones terrenas fijas de los telepuertos para servicios satelitales de conducción de señales de datos, voz, audio y televisión;
+
+XLVI. Actualizar y proporcionar mantenimiento a las estaciones terrenas transportables de servicios ocasionales;
+
+XLVII. Actualizar y modernizar las redes satelitales de voz y datos de uso compartido;
+
+XLVIII. Establecer los parámetros técnicos para la operación y mantenimiento de los telepuertos;
+
+XLIX. Administrar el centro nacional operativo para establecer los enlaces entre los telepuertos y las redes terrestres de telecomunicaciones;
+
+L. Actualizar, y proporcionar mantenimiento a los telepuertos para enlaces vía satélites nacionales e internacionales;
+
+LI. Realizar la interconexión de los telepuertos con las redes terrestres de telecomunicaciones;
+
+LII. Establecer y coordinar los parámetros técnicos para la operación de los telepuertos con los satélites nacionales e internacionales, así como con los de las estaciones terrenas de enlace;
+
+LIII. Coordinar y proporcionar mantenimiento a los enlaces de microondas;
+
+LIV. Coordinar con la Dirección de Operación de la Red de Oficinas, la instalación y mantenimiento de las estaciones remotas y otras redes y servicios;
+
+LV. Asesorar a entidades del sector público y privado que lo requieran, en el desarrollo de redes de comunicación;
+
+LVI. Apoyar a la Dirección Comercial en la estrategia tarifaria de los servicios satelitales y telegráficos;
+
+LVII. Actualizar y proporcionar mantenimiento a la infraestructura del sistema móvil satelital nacional;
+
+LVIII. Coordinar los programas de instalación y mantenimiento de terminales para servicios móviles;
+
+LIX. Asesorar al Gobierno Federal o estatales que lo requieran, en materia de telecomunicaciones para seguridad nacional;
+
+LX. Coordinar los planes de tráfico y los parámetros para la transmisión de las señales móviles de la banda “L” y otras que autorice la Secretaría de Comunicaciones y Transportes;
+
+LXI. Realizar aquellas funciones que sean afines a las señales en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+###### Artículo 25.
+
+Corresponde a la Dirección Comercial:
+
+I. Conducir los programas de comercialización de los servicios telegráficos, remisión de dinero, de interconexión de sistemas de telecomunicaciones a cargo del Organismo con otros de entidades o empresas nacionales o extranjeras, combinar sus servicios de comunicación, mensajería y reparto, así como los servicios satelitales;
+
+II. Diseñar y desarrollar los programas de comercialización, mercadotecnia y publicidad de los servicios de giros telegráficos nacionales e internacionales, así como remisión de dinero y los servicios integrales de comunicación y mensajería del sistema telegráfico; participar en la elaboración de los análisis de costos de los servicios que presta el Organismo;
+
+III. Coordinar acciones estratégicas con agentes en el extranjero y, en su caso, con las autoridades consulares para impulsar y mejorar los servicios de remisión de dinero del extranjero a México, así como con grandes usuarios de giros telegráficos nacionales y remisión de dinero;
+
+IV. Coordinarse con las áreas del Organismo que tengan intervención, los programas de comercialización de los telepuertos, y de servicios de ingeniería satelital;
+
+V. Establecer los programas y coordinar las estrategias para comercializar los servicios de remisión de dinero y de comunicación en oficinas y agencias telegráficas;
+
+VI. Recomendar estrategias para optimizar los servicios de mensajería, reparto y para desarrollar el servicio de mensajería acelerada;
+
+VII. Promover convenios y alianzas estratégicas para diversificar servicios en las oficinas y coadyuvar en la implantación de los programas de calidad total;
+
+VIII. Promover la comercialización de los servicios terrestres de comunicación, transmisión de datos y los de valor agregado;
+
+IX. Proponer las metas de venta de los servicios telegráficos en coordinación con la Dirección de Operación de la Red de Oficinas; desarrollar programas de atención a usuarios y llevar el control, registro y estadísticas de la comercialización de los servicios de comunicación;
+
+X. Supervisar la aplicación de los lineamientos de comercialización de los servicios en oficinas telegráficas;
+
+XI. Diseñar y promover los lineamientos de imagen institucional;
+
+XII. Mantener vigentes los registros sobre los derechos de marcas y nombres comerciales;
+
+XIII. Definir la estrategia comercial de expansión de la red de oficinas, agencias y sucursales telegráficas, en coordinación con la Dirección de Operación de la Red de Oficinas;
+
+XIV. Comercializar los sistemas móviles de comunicación por satélites nacionales e internacionales, así como administrar el Centro Operativo Movisat;
+
+XV. Comercializar los servicios de los telepuertos por satélites nacionales e internacionales;
+
+XVI. Coordinar y promover la comercialización de servicios móviles satelitales en coordinación con la Dirección de Operación de la Red de Oficinas;
+
+XVII. Controlar la facturación de los servicios proporcionados por el Organismo;
+
+XVIII. Proponer a la Dirección General las estrategias tarifarias para impulsar los programas de comercialización;
+
+XIX. Dirigir y evaluar la investigación de mercados, identificando sus necesidades para desarrollar nuevos productos y servicios telegráficos, satelitales y de valor agregado;
+
+XX. Realizar aquellas funciones afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+###### Artículo 26.
+
+Corresponde a la Dirección de Operación de la Red de Oficinas:
+
+I. Coordinar a nivel nacional la ejecución de los procesos operativos y comerciales de los servicios telegráficos, satelitales y de valor agregado;
+
+II. Desarrollar el programa de supervisión de las oficinas telegráficas con el apoyo de las gerencias regionales y estatales;
+
+III. Establecer un sistema de información con las gerencias regionales y estatales;
+
+IV. Servir de enlace entre las gerencias regionales y estatales con la Dirección General y las demás unidades administrativas del Organismo;
+
+V. Hacer cumplir oportuna y eficazmente los planes y programas de trabajo del Organismo en las gerencias regionales y estatales;
+
+VI. Promover el desarrollo de los servicios del Organismo en las gerencias regionales y estatales, en coordinación con la Dirección Comercial;
+
+VII. Coordinar a las gerencias regionales y estatales en la ejecución de los programas del Organismo;
+
+VIII. Supervisar a las gerencias regionales y estatales en la administración que realicen de los recursos humanos, materiales y financieros del Organismo, en estricto apego a la normatividad aplicable;
+
+IX. Formular y tramitar a través de los Gerentes Regionales y Estatales los pliegos preventivos de responsabilidades de las irregularidades detectadas en la glosa de la operación que realizan dichas gerencias y en oficinas telegráficas de acuerdo a la normatividad aplicable;
+
+X. Integrar la información de estadística de las gerencias regionales y estatales para la elaboración de los indicadores de gestión y de desempeño, en coordinación con la Dirección de Planeación;
+
+XI. Dar seguimiento en el cumplimiento de los convenios que celebre el Organismo relacionados con servicios prestados en las gerencias regionales y estatales;
+
+XII. Coordinar el desarrollo y operación de las gerencias regionales y estatales, red de oficinas y agencias telegráficas;
+
+XIII. Establecer los procedimientos de operación y de supervisión de las oficinas y agencias telegráficas;
+
+XIV. Desarrollar los sistemas de medición de la calidad de los servicios;
+
+XV. Establecer mecanismos de supervisión de la calidad de los servicios;
+
+XVI. Coordinar el desarrollo de los estudios e investigaciones para el mejoramiento de la operación de los servicios;
+
+XVII. Emitir en coordinación con las unidades administrativas relacionadas los manuales de procedimientos, instructivos, catálogos, circulares y demás disposiciones relacionadas con los servicios del Organismo, así como su integración y registro;
+
+XVIII. Analizar y determinar los requerimientos de equipamiento, mobiliario y servicios generales e insumos para la operación. En coordinación con las unidades administrativas relacionadas;
+
+XIX. Coadyuvar con la Dirección de Asuntos Jurídicos en la atención de asuntos de naturaleza jurídica que serán encomendadas a las gerencias regionales y estatales; entre las que se encuentran: formular denuncias o querellas por hechos constitutivos de algún tipo penal cometidos contra el patrimonio del Organismo, entre otras;
+
+XX. Coadyuvar con la Dirección de Administración de Recursos Humanos en la aplicación de los programas de protección civil y de seguridad de las oficinas telegráficas;
+
+XXI. Para la realización de sus funciones el Director de Operación de la Red de Oficinas, se auxiliará de Gerentes Regionales y Estatales que harán cumplir oportuna y eficazmente los planes y programas del Organismo y representarán a éste en su Entidad Federativa de conformidad con los poderes que le sean otorgados;
+
+XXII. Realizar aquellas funciones afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+###### Artículo 27.
+
+Corresponde a la Dirección de Finanzas y Administración:
+
+I. Conducir el proceso de programación y presupuestación del Organismo, la estrategia financiera de ingreso y gasto, el control del ejercicio presupuestal, la contabilidad y los procedimientos de cobranza, así como las funciones de administración de recursos materiales, servicios generales y obras;
+
+II. Coordinar la elaboración, registro y control de los programas, proyectos y modificaciones al presupuesto y su gestión ante las autoridades correspondientes, así como integrar la contabilidad del Organismo;
+
+III. Coordinar con las unidades administrativas del Organismo y de acuerdo con las disposiciones aplicables la integración de los anteproyectos de los presupuestos de ingresos y egresos y presentarlos para su autorización al Director General;
+
+IV. Elaborar los análisis y registros de los costos de las unidades de negocio y los servicios que presta el Organismo;
+
+V. Mantener actualizado el sistema integral de información;
+
+VI. Presentar la información presupuestaria del Organismo, para su gestión ante las autoridades competentes;
+
+VII. Registrar y controlar el presupuesto autorizado y sus modificaciones;
+
+VIII. Supervisar la aplicación de procedimientos para el control presupuestal;
+
+IX. Controlar el presupuesto de las partidas de racionalidad, disciplina y austeridad;
+
+X. Registrar el avance del ejercicio de los ingresos y del gasto corriente y de inversión;
+
+XI. Proporcionar la información de seguimiento presupuestal a las áreas de control y vigilancia;
+
+XII. Registrar contablemente las operaciones económicas y financieras del Organismo, para informar veraz, oportuna y eficientemente;
+
+XIII. Formular y tramitar los pliegos preventivos de responsabilidades de las irregularidades detectadas en la glosa presupuestal y contable de las operaciones que realiza el Organismo de acuerdo con la normatividad aplicable;
+
+XIV. Mantener actualizado el catálogo de cuentas para el registro y control de las operaciones contables;
+
+XV. Integrar y resguardar el archivo contable del Organismo;
+
+XVI. Administrar la captación de ingresos y realizar los pagos a cargo del Organismo;
+
+XVII. Controlar la recaudación y dispersión de fondos para los servicios de giro telegráfico y remisión de dinero;
+
+XVIII. Administrar las disponibilidades en caja, bancos e inversiones financieras;
+
+XIX. Llevar el registro de las liquidaciones de los compromisos del Organismo con terceros;
+
+XX. Supervisar que los saldos de las cuentas contables estén debidamente soportados;
+
+XXI. Establecer cartas de crédito internacionales;
+
+XXII. Controlar pólizas, cheques, facsímiles y documentos cobrables;
+
+XXIII. Establecer la conciliación de cuentas de cheques y de inversión;
+
+XXIV. Tramitar los contratos para el establecimiento de cuentas y traspasos con instituciones bancarias y financieras;
+
+XXV. Autorizar la apertura y cancelación de las cuentas bancarias del Organismo;
+
+XXVI. Operar la dispersión de fondos a las oficinas y agencias telegráficas en coordinación con la Dirección de Operación de la Red de Oficinas, las gerencias regionales y estatales;
+
+XXVII. Llevar el registro y control de los productos financieros;
+
+XXVIII. Registrar y dar seguimiento a los programas de captación de ingresos propios, y transferencias;
+
+XXIX. Realizar la cobranza de los servicios que factura el Organismo;
+
+XXX. Aplicar los procedimientos establecidos en materia de la cartera vencida;
+
+XXXI. Establecer los sistemas de captación de ingresos;
+
+XXXII. Integrar los programas de adquisiciones de bienes, servicios y obra pública, en coordinación con las unidades administrativas del Organismo;
+
+XXXIII. Realizar las adquisiciones, arrendamientos y contratación de bienes, servicios y obra pública que se requieran para el cumplimiento de los programas, de conformidad con la normatividad aplicable;
+
+XXXIV. Llevar un registro de proveedores, así como de licitaciones, fallos, adjudicaciones y exenciones;
+
+XXXV. Aplicar la normatividad relativa a la ocupación, registro y control de inmuebles, así como garantizar la prestación de los servicios generales a su cargo y definir los de las demás unidades administrativas;
+
+XXXVI. Contratar los seguros para los bienes muebles e inmuebles del Organismo;
+
+XXXVII. Administrar los servicios de mantenimiento y limpieza de los inmuebles de oficinas centrales y definir los de las demás unidades administrativas;
+
+XXXVIII. Operar los talleres de servicios;
+
+XXXIX. Registrar los contratos de arrendamiento, e integrar la documentación para el registro y control de los inmuebles en propiedad y posesión del Organismo;
+
+XL. Apoyar en el diseño arquitectónico y de ingeniería para la ejecución de obra de construcción básica y remodelación de inmuebles;
+
+XLI. Instalar los sistemas y equipos de seguridad del Organismo;
+
+XLII. Difundir y vigilar la correcta aplicación de los procedimientos para el manejo de correspondencia, expedientes de archivo y su concentración, así como conservar los documentos de la misma y tramitar su baja de acuerdo a la normatividad vigente;
+
+XLIII. Fomentar el ahorro en el consumo de energía eléctrica por parte de los trabajadores en las instalaciones del Organismo;
+
+XLIV. Realizar los trámites necesarios para la regularización de los inmuebles que ocupa el Organismo, e intervenir dentro de su ámbito de competencia en la adquisición, arrendamiento y enajenación de los mismos;
+
+XLV. Llevar el control y registro de las entradas y salidas de los bienes de consumo en los almacenes;
+
+XLVI. Administrar los talleres de impresión de formas y folletería;
+
+XLVII. Integrar y administrar el sistema de altas, bajas, enajenación, recepción, control y distribución de los bienes muebles, en coordinación con las unidades administrativas;
+
+XLVIII. Integrar el inventario de los bienes muebles y su asignación; administrar los talleres de recuperación y reparación de mobiliario;
+
+XLIX. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+###### Artículo 28.
+
+Corresponde a la Dirección de Administración de Recursos Humanos:
+
+I. Conducir de conformidad con la normatividad aplicable las funciones de administración de personal y prestar apoyo y asesoría en la materia a las demás unidades administrativas del Organismo;
+
+II. Coordinar los programas de desarrollo de personal y capacitación, así como las actividades de reclutamiento, selección, contratación, control, promoción y mejoramiento de sus condiciones de trabajo;
+
+III. Gestionar ante las autoridades correspondientes las incorporaciones, modificaciones y bajas del personal a los sistemas de seguridad y servicios para los trabajadores del Estado, incluyendo seguros, indemnizaciones y prestaciones;
+
+IV. Coordinar las relaciones laborales con el Sindicato de trabajadores del Organismo y formar parte de la Comisión Nacional Mixta de Escalafón;
+
+V. Participar en la elaboración y revisión periódica de las Condiciones Generales de Trabajo y difundirlas entre el personal del Organismo y vigilar su cumplimiento;
+
+VI. Supervisar la aplicación del escalafón y de los estímulos laborales a los trabajadores del Organismo;
+
+VII. Establecer y supervisar los medios de control de asistencia y puntualidad del personal;
+
+VIII. Fijar los horarios de trabajo de los trabajadores, en función de las necesidades de servicio del Organismo;
+
+IX. Gestionar los registros de altas, bajas y cambios del personal ante las instituciones correspondientes;
+
+X. Actualizar el catálogo de puestos, plantilla de personal y tabuladores de sueldo, así como gestionar su registro;
+
+XI. Proponer al Director General la designación o remoción, en su caso, de quienes deban representar al Organismo ante los Comités Mixtos de Capacitación y Adiestramiento, de Productividad y Escalafón, así como ante la Comisión Mixta de Seguridad e Higiene;
+
+XII. Promover actividades deportivas, culturales y de recreación para los trabajadores;
+
+XIII. Elaborar el programa y procedimientos de seguridad y de protección civil del Organismo;
+
+XIV. Supervisar la operación de los comedores para los trabajadores;
+
+XV. Elaborar las nóminas de sueldos y salarios, registrar y controlar las percepciones y deducciones del personal del Organismo conforme a la normatividad y niveles autorizados;
+
+XVI. Supervisar la operación del sistema de nóminas conforme al calendario de pagos;
+
+XVII. Llevar el registro de las nóminas elaboradas y firmadas, así como de los recibos emitidos y entregados;
+
+XVIII. Integrar y coordinar los programas de capacitación, adiestramiento e inducción del personal, en coordinación con las unidades administrativas del Organismo;
+
+XIX. Proponer y promover convenios de colaboración para la capacitación y adiestramiento del personal;
+
+XX. Evaluar los resultados de los programas de capacitación, en coordinación con las unidades administrativas del Organismo;
+
+XXI. Administrar el acervo museográfico, bibliográfico y hemerográfico del Organismo, así como la Escuela Nacional de Telecomunicaciones y Telegrafía;
+
+XXII. Dictaminar e imponer las sanciones a que se hagan acreedores los trabajadores, con base a la normatividad vigente. Cuando el acto sancionable implique el cese o la rescisión de la relación laboral, solicitar el dictamen de la Dirección de Asuntos Jurídicos;
+
+XXIII. Promover la implantación de estrategias que mejoren la productividad y calidad de servicio del personal;
+
+XXIV. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+### CAPITULO VIII. ORGANOS DE VIGILANCIA
+
+###### Artículo 29.
+
+La vigilancia del Organismo estará a cargo del Gobierno Federal a través de diversas instancias de fiscalización, en particular de la Secretaría de la Función Pública por conducto de un Comisario Propietario y de un Comisario Suplente designados por la Secretaría de referencia; dichos Comisarios representarán a la citada Secretaría ante la Junta Directiva, de acuerdo con lo estipulado en el artículo 62 del Reglamento Interior de la Secretaría de la Función Pública y en el Capítulo VI de la Ley Federal de las Entidades Paraestatales.
+
+Asimismo, la vigilancia del Organismo se realizará por conducto del Organo Interno de Control, el cual desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública y de acuerdo con lo establecido en el artículo 63 del Reglamento Interior de la Secretaría citada, así como a lo previsto en el Capítulo VI de la Ley Federal de las Entidades Paraestatales y en el artículo 30 de este Estatuto.
+
+El Titular del Organo Interno de Control será designado por el Secretario de la Función Pública y dependerá de éste jerárquicamente, de conformidad con lo establecido en el artículo 62 de la Ley Federal de las Entidades Paraestatales”.
+
+###### Artículo 30.
+
+Corresponden al Organo Interno de Control, las siguientes facultades:
+
+I. Programar, ordenar y realizar auditorías, investigaciones, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de la Función Pública sobre el resultado de las acciones de control que se hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones, así como apoyar, verificar y evaluar las acciones en materia de desarrollo administrativo integral, con base en las políticas y prioridades que dicte el Titular de dicha Secretaría, que coadyuve a promover la mejora administrativa de la entidad y el logro de un buen gobierno;
+
+II. Implementar el Sistema Integral de Control Gubernamental y coadyuvar a su debido funcionamiento; proponer las normas y lineamientos con un enfoque preventivo y analizar y mejorar los controles que al efecto se requieran y vigilar el cumplimiento de las normas de control que expida la Secretaría de la Función Pública, así como aquellas que regulan el funcionamiento de la entidad;
+
+III. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos del ordenamiento legal que en materia de responsabilidades resulte aplicable, y en apego al Reglamento Interior de la Secretaría de la Función Pública, con excepción de las que conozca la Dirección General de Responsabilidades y Situación Patrimonial; determinar la suspensión temporal del presunto responsable de su empleo, cargo o comisión y, en su caso, llevar a cabo las acciones conducentes con el fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos causadas por la infracción cometida;
+
+IV. Recibir y resolver las inconformidades interpuestas por los actos que contravengan lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y por la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y realizar, cuando se considere conveniente, investigaciones de oficio a partir de las inconformidades que hubiere conocido, en los términos de los artículos 68 y 86 de dichos ordenamientos, respectivamente, con excepción de aquellas que por Acuerdo del Secretario de la Función Pública deba conocer la Dirección General de Inconformidades;
+
+V. Tramitar y resolver los procedimientos administrativos correspondientes e imponer las sanciones a los licitantes, proveedores y contratistas en los términos de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas; con excepción de aquellos asuntos que conozca la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal en el ámbito de sus atribuciones;
+
+VI. Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos, y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como en contra de aquellas resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de dichos ordenamientos;
+
+VII. Realizar la defensa jurídica de las resoluciones que emita el Organo Interno de Control ante las diversas instancias jurisdiccionales, representando al Titular de la Secretaría de la Función Pública;
+
+VIII. Calificar los pliegos preventivos de responsabilidades que se formulen por parte de las instancias competentes del Organismo, en los términos de la normatividad aplicable, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como la Tesorería de la Federación, conforme a lo dispuesto por la Ley del Servicio de Tesorería de la Federación, fincando cuando proceda los pliegos de responsabilidades a que hubiere lugar;
+
+IX. Recibir, tramitar y dictaminar, en su caso, con sujeción a lo dispuesto por el ordenamiento legal que en materia de responsabilidades resulte aplicable, las solicitudes de indemnización de los particulares relacionadas con servidores públicos de Telecomunicaciones de México, a quien se comunicará el dictamen para que reconozca, si así lo determina, la responsabilidad de indemnizar la reparación del daño en cantidad líquida y ordenar el pago correspondiente. Lo anterior, sin perjuicio de que la entidad conozca directamente la solicitud del particular y resuelva lo que en derecho proceda;
+
+X. Expedir las certificaciones de los documentos que obren en los archivos del Organo Interno de Control;
+
+XI. Requerir a las unidades administrativas de la entidad la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias;
+
+XII. Coordinar la formulación de los proyectos de programas y presupuesto del Organo Interno de Control proponiendo las adecuaciones que requiera el correcto ejercicio del presupuesto, y
+
+XIII. Las demás facultades que le atribuya expresamente el Titular de la Secretaría de la Función Pública o el Coordinador General de Organos de Vigilancia y Control de la Secretaría citada, así como aquellas que les confieran las leyes, reglamentos a los Organos Internos de Control y este Estatuto.
+
+### CAPITULO IX. DE LA SUPLENCIA TEMPORAL DE LOS FUNCIONARIOS DEL ORGANISMO
+
+###### Artículo 31.
+
+El Director General podrá ser suplido temporalmente en su ausencia por alguno de los directores de las unidades administrativas mencionadas en el Capítulo IV de este Estatuto.
+
+En asuntos ante autoridades administrativas o judiciales y para absolver posiciones ante los Tribunales, el Director General será representado por el Director de Asuntos Jurídicos.
+
+###### Artículo 32.
+
+Los directores podrán ser suplidos temporalmente en sus ausencias, por el subdirector que designen. Las ausencias de los subdirectores y gerentes serán cubiertas, las del primero por el gerente, y las de éste por quien designe el director de la unidad administrativa correspondiente.
+
+###### Artículo 33.
+
+Las ausencias del Titular del Organo Interno de Control serán suplidas por los servidores públicos mencionados en el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
+
+### CAPITULO X. DE LA EXTINCION DEL ORGANISMO
+
+###### Artículo 34.
+
+En su caso, la Secretaría de Hacienda y Crédito Público, a propuesta o previa opinión de la dependencia coordinadora de sector y con el dictamen favorable de la Comisión Intersecretarial de Desincorporación, someterá a consideración del Ejecutivo Federal la desincorporación de la entidad paraestatal. Para la desincorporación del Organismo se deberán observar las mismas formalidades seguidas para su creación. La extinción de Telecomunicaciones de México se efectuará cumpliendo las bases y condiciones señaladas en el Decreto que para ese objeto expida el Ejecutivo Federal y que sea publicado en el Diario Oficial de la Federación.
+
+###### Artículo 35.
+
+Serán causas de extinción del Organismo, las siguientes:
+
+I. La imposibilidad de seguir realizando su objeto principal;
+
+II. La fusión con otro Organismo, y
+
+III. Por causas de interés o de utilidad pública.
+
+### CAPITULO XI. DE LOS COMITES
+
+###### Artículo 36.
+
+El Organo de Gobierno a propuesta de su Presidente o cuando menos de la tercera parte de sus miembros, podrá constituir Comités o Subcomités Técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de la entidad, para atender problemas de administración y organización, así como para la aplicación de los adelantos tecnológicos y los demás que permitan elevar su eficiencia.
+
+###### Artículo 37.
+
+El Comité de Control y Auditoría es un Organo Colegiado que coadyuva con la Junta Directiva, como instancia estratégica en el fortalecimiento continuo del control interno, para mejorar la organización, operación, cumplimiento de metas de la entidad y resultados financieros y presupuestales de la entidad, con especial énfasis en prevenir y corregir los desvíos de recursos públicos.
+
+El Comité estará integrado por:
+
+El Director General del Organismo quien lo presidirá, el Titular del Organo Interno de Control como Secretario Ejecutivo y como vocales el representante del Area de Política y Control Presupuestal de la Secretaría de Comunicaciones y Transportes y el Representante de la Unidad de Control y Evaluación de la Gestión Pública de la Secretaría de la Función Pública.
+
+Podrá participar como asesor de este Comité, el servidor público que por la importancia de sus funciones y por la relación que tenga con los asuntos objeto del mismo, se justifique en opinión del Presidente del Comité y con aprobación de sus integrantes.
+
+Podrán participar como invitados el representante del auditor externo, el Titular del Organo Interno de Control de la Secretaría de Comunicaciones y Transportes y el de otras dependencias o servidores públicos de la entidad que tengan relación con los asuntos que vayan a ser tratados.
+
+Son funciones del Comité:
+
+I. Dar seguimiento de atención de los acuerdos que tome la Junta Directiva;
+
+II. Promover la adaptación de medidas orientadas a fortalecer el control interno de la entidad y requerir la intervención del Organo Interno de Control en las áreas que revisten una problemática significativa;
+
+III. Promover sistemas, mecanismos y procedimientos que le permitan a la entidad generar ahorros e ingresos adicionales;
+
+IV. Diseñar e implantar en la entidad un programa estratégico de control, para avanzar en el propósito de hacer más transparente la gestión pública;
+
+V. Propiciar que instancias de fiscalización, obtengan información oportuna que les facilite el desarrollo de las tareas que tienen encomendadas;
+
+VI. Contar con un diagnóstico permanentemente actualizado en materia de control interno, áreas críticas de corrupción, indicadores de gestión, método de evaluación y mecanismo para el seguimiento y corrección;
+
+VII. Promover la aplicación oportuna de medidas preventivas y correctivas, para evitar la recurrencia de las desviaciones observadas por las instancias de fiscalización, en particular en aquellas que se relacionan con irregularidades que impliquen desvío de recursos y daño patrimonial, y
+
+VIII. Analizar aquellos asuntos que por sus características requieran, a juicio del Titular de la entidad, someterse a su consideración.
+
+El Comité de Control y Auditoría deberá sesionar en forma ordinaria por lo menos cuatro veces al año y podrá convocar a sesiones extraordinarias cuando así se requiera.
+
+###### Artículo 38.
+
+El Comité de Adquisiciones, Arrendamientos y Servicios tiene por objeto determinar las acciones para la optimización de los recursos destinados a las adquisiciones, arrendamientos y servicios, incluyendo los profesionales.
+
+Son funciones del Comité:
+
+I. Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
+
+II. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en algunos de los supuestos de excepción previstos en el artículo 41 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, salvo en los casos de las fracciones II, V, y XII del propio precepto, en cuyo caso se deberá informar al propio Comité una vez concluida la contratación respectiva;
+
+III. Proponer las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios, así como autorizar los supuestos no previstos en éstos, sometiéndolos a consideración de la Junta Directiva;
+
+IV. Analizar trimestralmente el informe de la conclusión de los casos dictaminados conforme a la fracción II de este artículo, así como las licitaciones públicas que se realicen y, los resultados generales de las adquisiciones, arrendamientos y servicios y, en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa;
+
+V. Analizar exclusivamente para su opinión, cuando se le solicite, los dictámenes y fallos emitidos por los servidores públicos responsables de ello;
+
+VI. Autorizar, cuando se justifique, la creación de Subcomités de Adquisiciones, Arrendamientos y Servicios, así como aprobar la integración y funcionamiento de los mismos;
+
+VII. Elaborar y aprobar el manual de integración y funcionamiento del Comité, conforme a las bases que expida la Secretaría de la Función Pública;
+
+VIII. Autorizar los casos de reducción del plazo para la presentación y apertura de proposiciones en licitaciones públicas, y
+
+IX. Coadyuvar al cumplimiento de esta ley y demás disposiciones aplicables.
+
+El Comité estará integrado por el Director de Finanzas y Administración, quien lo presidirá, por el Subdirector de Recursos Materiales y Servicios Generales, quien fungirá como Secretario Ejecutivo, y por el Director Técnico, Director Comercial, Director de Operación de la Red de Oficinas, Director de Planeación, Director de Administración de Recursos Humanos y Gerente de Adquisiciones, quienes fungirán como vocales.
+
+En las reuniones del Comité intervendrán con voz pero sin voto, el Titular del Organo Interno de Control y el Director de Asuntos Jurídicos como asesores, y un representante de la Secretaría de la Función Pública, como asesor externo (cuando dicha dependencia así lo decida); con la finalidad de que los procedimientos se realicen con apego a la normatividad aplicable en la materia.
+
+Asistirán como invitados los responsables de otras áreas de Telecomm que se considerarán necesarios para aclarar aspectos técnicos-administrativos.
+
+Atendiendo la naturaleza de los asuntos que sean sometidos a su consideración, el Comité podrá convocar al asesor externo de seguros, considerándolo también como invitado.
+
+El Comité se reunirá ordinariamente cuando menos una vez al mes, salvo que no existan asuntos a tratar, en cuyo caso se debe dar aviso oportunamente a los integrantes del Comité, cuando menos con 24 horas de anticipación a la fecha programada y sesionará válidamente cuando existan la mitad más uno de sus miembros con derecho a voto.
+
+Las decisiones del Comité se tomarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
+
+Para lo no previsto en el funcionamiento de este Comité, será aplicable lo dispuesto en el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+
+###### Artículo 39.
+
+El Comité de Aplicación y Vigilancia de los Lineamientos para el Arrendamiento de Inmuebles de Telecomunicaciones de México está integrado por el Director de Finanzas y Administración, en calidad de Presidente; el Subdirector de Recursos Materiales y Servicios Generales como Secretario Ejecutivo; el Titular del Organo Interno de Control, el Director de Asuntos Jurídicos y el Gerente de Bienes Inmuebles y Servicios Generales, fungirán como vocales.
+
+En las sesiones del Comité podrá participar un representante de las gerencias estatales en los casos en que en el orden del día se incluyan asuntos de su competencia.
+
+En el caso de que alguno de los miembros del Comité no pueda asistir a alguna de las sesiones, deberá designar, por única ocasión, a un suplente quien deberá acreditar su carácter al inicio de cada sesión.
+
+El Comité se reunirá con la frecuencia que las necesidades del Organismo lo requieran, previa convocatoria expedida por su Presidente, cuando menos con quince días de anticipación a la fecha de su celebración.
+
+Son funciones del Comité:
+
+I. Determinar los procedimientos que permitan controlar y vigilar la observancia de las normas y criterios aplicables al arrendamiento de inmuebles;
+
+II. Aplicar los lineamientos que en la materia expida la Junta Directiva del Organismo, y
+
+III. Analizar y dictaminar respecto de las solicitudes de reconsideración del importe de las rentas justipreciadas por el Instituto de Administración y Avalúos de Bienes Nacionales, que presenten los arrendadores de inmuebles a través de la Subdirección de Recursos Materiales y Servicios Generales.
+
+### CAPITULO XII. TRANSITORIOS (SIC)
+
+Unico. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+El Secretario de la Junta Directiva de Telecomunicaciones de México, certifica que en la sexagésima novena sesión de dicho Cuerpo Colegiado, celebrada el seis de julio de dos mil seis, se aprobó el Estatuto Orgánico de Telecomunicaciones de México para su debida formalización y publicación en el Diario Oficial de la Federación.- Doy fe.- México, D.F., a los seis días del mes de julio de dos mil seis.- El Secretario de la Junta Directiva de Telecomunicaciones de México, José Manuel Corona Gallaga.- Rúbrica.- El Prosecretario de la Junta Directiva de Telecomunicaciones de México, Jaime Bravo García.- Rúbrica.
