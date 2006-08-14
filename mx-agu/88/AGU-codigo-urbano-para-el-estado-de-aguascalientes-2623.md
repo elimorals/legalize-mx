@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2006-05-15"
+last_updated: "2006-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -251,9 +251,29 @@ XXIII.- SERVICIOS URBANOS: las actividades operativas públicas prestadas direct
 
 XXIV.- SOP ESTATAL: la Secretaría de Obras Públicas del Estado;
 
-XXV.- USOS: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XXVI.- ZONIFICACION: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
+XXV.- USOS: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXVI.- ZONIFICACION: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXVII.- MANIFESTACION DE IMPACTO URBANO Y/O RURAL: El estudio técnico de factibilidad para los usos de suelo urbano o rural, público, privado o ejidal, donde se manifiesta el efecto y posibles repercusiones que se pudieran generar por su funcionamiento, forma o magnitud, por que se rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretende ubicar; por que se afecte el espacio urbano o el medio ambiente, la imagen o el paisaje urbano, o la estructura socioeconómica, o signifique un riesgo para la salud, el ambiente, la vida o los bienes de la comunidad, en el entorno que circunda al establecimiento de un lugar fijo, desarrollo o zona, para el desempeño de una actividad y las estrategias para mitigar o resolver tal impacto.
+
+El estudio técnico deberá contener como mínimo lo siguiente:
+
+1).- Aspectos Generales: Antecedentes, Localización y Bases Jurídicas;
+
+2).- Resumen de Diagnóstico: Medio Físico Natural, Medio Físico Construido, Aspectos Demográficos y Movilidad Urbana;
+
+3).- Objetivos;
+
+4).- Estrategias: Ordenamiento Territorial; Uso, Destinos y Reservas del Suelo; Estructura Vial; Equipamiento; Desarrollo Económico y Medio Ambiente y Ecología; y
+
+5).- Metas.
 
 ###### ARTICULO 6o.
 
@@ -409,9 +429,21 @@ III.- El Comité de Planeación para el Desarrollo del Estado;
 
 IV.- Los Comités Municipales para la Planeación del Desarrollo de los Municipios;
 
-V.- Las Comisiones de Conurbación que se establezcan en el Estado; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-VI.- El Consejo Estatal de Protección Civil.
+V.- Las Comisiones de Conurbación que se establezcan en el Estado;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+VI.- El Consejo Estatal de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+VII.- El Instituto del Agua del Estado; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+VIII.- El Instituto del Medio Ambiente del Estado.
 
 ###### ARTICULO 16.
 
@@ -483,7 +515,9 @@ III.- Coordinar con los Ayuntamientos la elaboración, ejecución, control y eva
 
 IV.- Fungir como Secretariado Técnico de la Comisión Estatal;
 
-V.- Promover la adquisición de las reservas territoriales por parte del Gobierno del Estado en coordinación con el Instituto y, en su caso, conjuntamente con los Ayuntamientos. Igualmente, realizar los trámites necesarios cuando se trate de inmuebles afectables para la ejecución de obras públicas, determinando con el Ayuntamiento respectivo las afectaciones necesarias para uso de vialidades;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+V- Promover la adquisición de reservas territoriales por parte de (sic) Gobierno del Estado en coordinación con el Instituto y, en su caso, conjuntamente con los Ayuntamientos. Igualmente, brindar asesoría a la SOP estatal y a la Secretaría General de Gobierno cuando éstas lo soliciten, en lo inherente a las afectaciones de inmuebles para la ejecución de obras públicas;
 
 VI.- Recomendar al Ejecutivo del Estado la propuesta para la fundación de centros de población y el dictamen para la determinación de provisiones, reservas, usos y destinos de áreas y predios que le sometan para su opinión los Ayuntamientos, a efecto de que sean congruentes con la legislación y el Programa Estatal de Desarrollo Urbano;
 
@@ -503,17 +537,29 @@ XII.- Vigilar, en coordinación con los Ayuntamientos, el equilibrado desarrollo
 
 XIII.- Autorizar la constitución del régimen de propiedad en condominio en el caso de su competencia y dictaminar la solicitud cuando competa a la Comisión Estatal su autorización;
 
-XIV.- Supervisar, en coordinación con el Ayuntamiento, la ejecución de las obras de urbanización de los fraccionamientos y condominios autorizados, conforme a la legislación y los programas de desarrollo urbano;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XV.- Supervisar las obras que se realicen en los fraccionamientos y condominios;
+XIV.- Supervisar, con la participación de la SOP Estatal y el Instituto del Agua del Estado, que la ejecución de las obras de urbanización de los fraccionamientos, condominios y desarrollos especiales, sean compatibles al proyecto autorizado por la Comisión Estatal y conforme a la legislación y los programas de desarrollo urbano;
 
-XVI.- Autorizar la propaganda y publicidad que los fraccionadores promoventes de condominio utilicen;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XVII.- Autorizar a los fraccionadores o promoventes de condominio la venta de lotes o predios, previo cumplimiento de los requisitos legales;
+XV- Autorizar el inicio de las obras de urbanización de los fraccionamientos, desarrollos especiales y condominios;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVI.- A petición de los Ayuntamientos y previo convenio con éstos, supervisar la calidad de los materiales, obras y servicios que se realicen en los fraccionamientos, desarrollos especiales y condominios;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVII.- Autorizar a los fraccionadores o promoventes de condominio la venta de lotes o predios, previo cumplimiento de los requisitos legales, así como la propaganda y publicidad que utilicen;
 
 XVIII.- Llevar el registro de asociaciones de colonos y condóminos;
 
-XIX.- Dictaminar sobre las obras de urbanización de los fraccionamientos previamente a su municipalización;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XIX.- Previamente a la municipalización de los fraccionamientos o entrega de las obras de urbanización a la Asamblea de Condóminos, dictaminar si dichas obras son compatibles al proyecto autorizado por la Comisión Estatal o por ella misma y conformes a la legislación aplicable y a los programas de desarrollo urbano.
+
+En caso de que hubiera realizado la supervisión de la calidad de los materiales, obras y servicios realizados en los fraccionamientos y condominios, previamente a la municipalización o entrega de las obras a la Asamblea de Condóminos, deberá expedir el dictamen correspondiente;
 
 XX.- Controlar y evaluar, en coordinación con la Secretaría de Finanzas, los programas de inversión pública, en materia de desarrollo urbano, vivienda y transporte que el Gobierno del Estado ejecute en la Entidad por sí o en coordinación con los Ayuntamientos, el Instituto y la Federación, para que sean compatibles con la legislación, el Plan Estatal de Desarrollo, y los programas de desarrollo urbano aplicables;
 
@@ -529,7 +575,9 @@ XXV.- Fomentar, en coordinación con el Gobierno Federal, la Secretaría de Obra
 
 XXVI.- Ejercer las atribuciones que este Código le señale, en los casos de ocupación irregular de predios destinados o susceptibles de destinarse a la vivienda, o que sean para desarrollo urbano; promoviendo y gestionando lo conducente, ante las autoridades competentes, en el caso de que la ocupación sea inducida por terceros y/o se obstaculice la solución legal de los conflictos por ellos generados;
 
-XXVII.- Fomentar la ejecución de fraccionamientos populares o de interés social y de condominios de orden público;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXVII.- Fomentar, en coordinación con el Instituto, la ejecución de fraccionamientos populares o de interés social y de condominios de orden público; así como la construcción de viviendas para personas con discapacidad;
 
 XXVIII.- Asesorar, en coordinación con los Ayuntamientos, a los habitantes de las colonias, fraccionamientos y condominios en sus problemas relativos a la prestación de servicios, derivados del incumplimiento del presente Código;
 
@@ -549,7 +597,9 @@ XXXIV.- Aplicar las limitaciones a la propiedad que imponga este Código y demá
 
 XXXV.- Diseñar y coordinar la ejecución del Sistema Estatal de Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda;
 
-XXXVI.- Verificar la aplicación de las normas técnicas en materia de impacto ambiental, a que deberán sujetarse los proyectos de obras públicas o de particulares, de conformidad con la legislación aplicable; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXXVI.- Expedir las autorizaciones para los Desarrollos Especiales; y
 
 XXXVII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
@@ -591,17 +641,29 @@ XII.- Intervenir con las dependencias y entidades de la Administración Pública
 
 XIII.- Participar en la gestión y promoción de financiamientos para la realización de las obras y servicios públicos;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XIV.- Participar con el Instituto del Medio Ambiente y los Ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas y la prestación de los servicios públicos;
+XIV- Colaborar con la SEPLADE, con el Instituto del Medio Ambiente, así como con los Ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas y la prestación de los servicios públicos;
 
-XV.- Apoyar y asesorar a los Ayuntamientos que lo soliciten, en la construcción, conservación, operación y administración de los sistemas de agua potable y alcantarillado;
+XV- (DEROGADA, P.O. 14 DE AGOSTO DE 2006)
 
-XVI.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVI.- Realizar en coordinación con la Secreta ría General de Gobierno, los trámites necesarios cuando se trate de inmuebles afectables para la ejecución de obras públicas, determinando con el Ayuntamiento respectivo las afectaciones necesarias para uso de vialidades;
 
 XVII.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados y que deriven de la aplicación de este Código; y
 
 XVIII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 22 BIS.- El Instituto del Agua del Estado tendrá las siguientes obligaciones:
+
+I.- Efectuar los estudios sobre el comportamiento dinámico de las discontinuidades geológicas y sus posibles ramificaciones, así como formular un sistema de información que contenga el registro de la ubicación de las discontinuidades manifestadas en el territorio del Estado, tanto en cabeceras municipales como en comunidades rurales, incluyendo su actualización periódica y su difusión accesible a la ciudadanía.
+
+Dicha información deberá enviarse semestralmente a los Ayuntamientos, y en caso de presentarse comportamientos dinámicos extraordinarios, deberá informar de manera inmediata a éstos, así como a las dependencias y entidades competentes; y
+
+II.- Apoyar y asesorar a los Ayuntamientos que lo soliciten en la construcción, conservación, operación y administración de los sistemas de agua potable y alcantarillado.
 
 ###### ARTICULO 23.
 
@@ -667,13 +729,15 @@ XXVII.- Controlar que el desarrollo urbano municipal sea equilibrado, para que b
 
 XXVIII.- Autorizar las solicitudes de relotificación, fusión y subdivisión de predios en los casos de su competencia y conforme a lo dispuesto en este Código;
 
-XXIX.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles, así como para la colocación y retiro de anuncios;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXIX.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles, para realizar obras y utilizar la vía pública, así como para la colocación y retiro de anuncios;
 
 XXX.- Expedir las constancias de compatibilidad urbanística;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XXXI.- Elaborar las cartas urbanas que contengan las fallas geológicas detectadas y sus posibles ramificaciones, mismas que deberán actualizarse periódicamente;
+XXXI.- Enviar al Instituto del Agua del Estado la información de la que tengan conocimiento sobre las discontinuidades geológicas manifestadas en la cabecera municipal y comunidades rurales, para que sea integrada al sistema de información;
 
 XXXII.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación y programas aplicables;
 
@@ -681,9 +745,29 @@ XXXIII.- Vigilar el cumplimiento y aplicación de las disposiciones legales en m
 
 XXXIV.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
 
-XXXV.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XXXVI.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+XXXV.- Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXXVI.- Autorizar la nomenclatura para la denominación de las vías públicas, parques, jardines, plazas, fraccionamientos, condominios, desarrollos especiales y todo lugar público susceptible de asignarle una denominación, así como los números oficiales que le corresponden a los inmuebles ubicados dentro de su territorio;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXXVII.- Supervisar la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, condominios y desarrollos especiales;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXXVIII.- Supervisar los trabajos de edificación que se realicen en los fraccionamientos, condominios y desarrollos especiales;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXXIX.- Dictaminar sobre las obras de urbanización de los fraccionamientos previamente a su municipalización, desarrollos especiales, así como de los condominios, antes de entregarse a los usuarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XL.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 24.
 
@@ -723,7 +807,9 @@ b) Secretaría de Obras Públicas.
 
 c) (DEROGADO, P.O. 8 DE AGOSTO DE 2005)
 
-d) Comisión Estatal de Desarrollo Económico y Comercio Exterior.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+d).- Secretaría de Desarrollo Económico.
 
 e) Instituto de Vivienda del Estado de Aguascalientes.
 
@@ -817,15 +903,23 @@ XIV.- Instruir lo necesario para inventariar y clasificar las áreas o predios a
 
 XV.- Racionalizar las inversiones destinadas al suministro de infraestructura, equipamiento y servicios, por la ocupación programada de las reservas territoriales declaradas;
 
-XVI.- Supervisar las actividades de los Ayuntamientos en materia de planeación urbana, a efecto de verificar que sus programas y acciones sean congruentes con el programa estatal; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XVII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+XVI.- Supervisar las actividades de los Ayuntamientos en materia de planeación urbana a efecto de verificar que sus programas y acciones sean congruentes con el Programa Estatal;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVII.-Instrumentar las acciones necesarias para evitar la proliferación de los asentamientos humanos irregulares en el Estado como medida preventiva y regularizar los existentes como medida correctiva de dicho fenómeno, difundiendo entre los interesados la normatividad correspondiente, con la finalidad de encauzar la inversión y las acciones en materia de desarrollo urbano y vivienda que se hagan en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVIII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 34.
 
-La Comisión Estatal deberá de sesionar bimestralmente con la asistencia mínima del 50% más uno de sus miembros, y para tal efecto será la SEPLADE, a través de la Secretaría Técnica de la Comisión, quien citará a sus miembros, informándoles con un mínimo de dos días hábiles de anticipación y sobre el Orden del Día.
+La Comisión Estatal deberá de sesionar bimestralmente con la asistencia mínima del 50% más uno de sus miembros, y para tal efecto será la SEPLADE, a través de la Secretaría Técnica de la Comisión, quien citará a sus miembros, informándoles con un mínimo de tres días hábiles de anticipación y sobre el Orden del Día.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -1279,11 +1373,11 @@ IV.- La determinación de espacios dedicados a la fundación, conservación, mej
 
 V.- La zonificación primaria del territorio comprendido en la zona conurbada.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 64.
 
-Los programas de ordenación de zonas conurbadas, interestatales, serán elaborados por las comisiones de conurbación respectivas y aprobados, ejecutados, controlados y evaluados, por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la SEPLADE, con la Comisión de Desarrollo Urbano del Estado, la Comisión de Conurbación correspondiente y los Ayuntamientos involucrados.
+Los programas de ordenación de zonas conurbadas interestatales, serán elaborados y aprobados por las comisiones de conurbación respectivas y ejecutados, controlados y evaluados por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la SEPLADE, con la Comisión Estatal, la Comisión de Conurbación correspondiente y los Ayuntamientos involucrados.
 
 ###### ARTICULO 65.
 
@@ -1379,9 +1473,17 @@ X.- Las características y condiciones del espacio urbano y de la zona circundan
 
 XI.- Los usos y destinos de los predios comprendidos en el proyecto;
 
-XII.- La normatividad para programas parciales que únicamente requieran de este rubro; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XIII.- Los demás datos y requisitos que señale el presente Código y demás disposiciones aplicables.
+XII.- La normatividad para programas parciales que únicamente requieran de este rubro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XIII.- La traza definitiva y georeferenciada de las arterias de gran volumen mismas que no podrán tener una distancia mayor de 1.2 kilómetros entre una y otra, en ambas direcciones, tanto en la predominantemente este-oeste como en la norte-sur, ni una anchura menor a 40 metros; en caso que las condiciones topográficas y físicas representen un obstáculo considerable la distancia máxima será de 1,5 kilómetros; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XIV- Los demás datos y requisitos que señale el presente Código y demás disposiciones aplicables.
 
 ###### ARTICULO 71.
 
@@ -1665,7 +1767,9 @@ Las comisiones de conurbación intraestatales expedirán su reglamento interior 
 
 La Comisión de Conurbación Intraestatal tendrá las siguientes atribuciones:
 
-I.- Elaborar el Programa de Ordenación de la Zona Conurbada Intraestatal y someterlo a la aprobación del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+I.- Elaborar y aprobar el Programa de Ordenación de la Zona Conurbada Intraestatal correspondiente, gestionando su ratificación ante el Gobernador del Estado;
 
 II.- Gestionar ante las autoridades municipales, estatales y en su caso federales, el cumplimiento, en el ámbito de su competencia, de las decisiones que se hayan tomado;
 
@@ -1779,9 +1883,11 @@ II.- Los H. Ayuntamientos.
 
 La Legislatura del Estado solicitará en todos los casos, la opinión del Gobierno del Estado, por conducto de la SEPLADE y de la Comisión Estatal, así como del Ayuntamiento y de la Comisión Municipal correspondiente, respecto de las iniciativas de fundación de centros de población.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 119.
 
-La Legislatura del Estado otorgará la categoría político-administrativa que le corresponda a cada centro de población, de conformidad con lo dispuesto en este Código, la Ley Orgánica Municipal y demás disposiciones jurídicas aplicables.
+La Legislatura del Estado otorgará la categoría político administrativa que le corresponda a cada centro de población, de conformidad con lo dispuesto en este Código, la Ley Municipal del Estado y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 120.
 
@@ -2049,9 +2155,13 @@ Igualmente, deberá mantenerse inalterable el área de preservación ecológica,
 
 Los propietarios y poseedores de inmuebles comprendidos en las zonas determinadas como reservas y destinos en los planes o programas de desarrollo urbano aplicables, sólo utilizarán los predios en forma que no presenten obstáculo al aprovechamiento previsto.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 145.
 
-Los Gobiernos de los Municipios y del Estado, tendrán derecho de preferencia para adquirir predios comprendidos como reserva, cuando dichos predios sean puestos a la venta, o a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad; igual derecho de preferencia tendrán, en caso de remate judicial o administrativo, al precio en que se finque el remate al mejor postor. Para tal efecto, los propietarios de los mismos que deseen enajenarlos, los notarios públicos, los jueces y las autoridades administrativas deberán notificar al Gobierno del Estado y al Municipio correspondiente, dando a conocer el monto de la operación a fin de que aque-llos (sic), en un plazo no mayor de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente.
+Los Gobiernos de los Municipios y del Estado, tendrán derecho de preferencia para adquirir predios comprendidos como reserva, cuando dichos predios sean puestos a la venta o, a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad; igual derecho de preferencia tendrán, en caso de remate judicial o administrativo, al precio en que se finque el remate al mejor postor. Para tal efecto, los propietarios de los mismos que deseen enajenarlos, los notarios públicos, los jueces y las autoridades administrativas deberán notificar al Gobierno del Estado por conducto de la SEPLADE y al Municipio correspondiente, dando a conocer el monto de la operación a fin de que aquellos, en un plazo no mayor de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente.
+
+El incumplimiento a lo anterior, podrá originar la nulidad de los actos jurídicos generadores de la transmisión de la propiedad del predio respectivo.
 
 ###### ARTICULO 146.
 
@@ -2089,9 +2199,11 @@ Las áreas de desarrollo urbano y de preservación ecológica, los usos, reserva
 
 Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 153.
 
-La constancia de compatibilidad urbanística, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios permitidos, condicionados o prohibidos.
+la constancia de compatibilidad urbanística, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios; permitidos, condicionados o prohibidos, así como las discontinuidades geológicas y restricciones para el desarrollo urbano, en caso de que las hubiera.
 
 ###### ARTICULO 154.
 
@@ -2107,9 +2219,17 @@ IV.- Controlar que toda acción, obra, servicio o inversión en materia de desar
 
 V.- Señalar el aprovechamiento y aptitud del suelo de acuerdo con la legislación y programas aplicables;
 
-VI.- Impedir el establecimiento de asentamientos humanos irregulares; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-VII.- Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la legislación o programas de desarrollo urbano aplicables.
+VI.- Impedir el establecimiento de asentamientos humanos irregulares;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+VII.- Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la Legislación o programas de desarrollo urbano aplicables; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+VIII.- Señalar en su caso las discontinuidades geológicas que se encuentren en el predio o en el área, que puedan limitar el uso de suelo.
 
 ###### ARTICULO 155.
 
@@ -2145,9 +2265,17 @@ VIII.- Las restricciones de urbanización y construcción que correspondan de co
 
 IX.- La valoración de inmuebles del patrimonio natural y cultural;
 
-X.- Las afectaciones por proyectos de obras en materia de infraestructura, equipamiento y servicios urbanos; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-XI.- Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
+X.- Las afectaciones por proyectos de obras en materia de infraestructura, equipamiento y servicios urbanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XI.- Las discontinuidades geológicas que se encuentren en el predio o en el área, que puedan limitar el uso de suelo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XII.- Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
 
 ###### ARTICULO 159.
 
@@ -2221,7 +2349,9 @@ La solicitud a que se refiere el artículo anterior, deberá ser acompañada de 
 
 I.- Un plano de conjunto de la zona de influencia, señalándose la extensión y ubicación de la obra;
 
-II.- La memoria descriptiva del proyecto;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+II.- La memoria descriptiva del proyecto, que incluya la infraestructura urbana y el equipamiento necesario para el desplazamiento de las personas, comprendiendo las facilidades para personas con discapacidad;
 
 III.- El régimen financiero para la ejecución de la obra;
 
@@ -2233,7 +2363,9 @@ VI.- Los plazos de iniciación, revisión y terminación de las obras;
 
 VII.- Las constancias de compatibilidad urbanística; y
 
-VIII.- Las autorizaciones de fraccionamientos o condominios, en su caso.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+VIII.- Las autorizaciones de fraccionamiento, condominios, desarrollos especiales, fusiones o subdivisiones, en su caso.
 
 ###### ARTICULO 173.
 
@@ -2371,6 +2503,10 @@ Toda obra de construcción, instalación, reparación, ampliación, remodelació
 
 Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Los Ayuntamientos, una vez concluida una edificación, ampliación, reconstrucción o remodelación y cerciorados que se ejecutó conforme a lo autorizado, se encuentran obligados a expedir la correspondiente constancia de habitabilidad o uso de la misma Sin esta constancia no se podrá habitar o utilizar una edificación.
+
 ###### ARTICULO 192.
 
 La expedición de licencias para construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición se apegará a los lineamientos establecidos en este Código, los programas de desarrollo urbano, el Reglamento de Construcciones del Municipio, las ordenanzas y especificaciones técnicas de construcción aprobadas por el Ayuntamiento.
@@ -2383,13 +2519,37 @@ El solicitante deberá exhibir los siguientes documentos:
 
 I.- Solicitud;
 
-II.- Planos y memorias de cálculo suscritos por el perito responsable; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-III.- Recibo de pago de derechos.
+II.- Planos y Memorias de cálculo suscritos por el Perito Responsable;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+III.- Recibo de Pago de Derechos; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV- Estudio geológico y/o geofísico para la detección de posibles discontinuidades geológicas activas o potencialmente activas, con antigüedad no mayor a seis meses, en los siguientes casos:
+
+a).- Construcciones mayores a 800 metros cuadrados o que contengan más de tres niveles;
+
+b).- Obras de nueva creación en terrenos ubicados sobre discontinuidades geológicas en el suelo cuya trayectoria probable las afecta; y
+
+c).- Para la autorización de fraccionamientos, desarrollos especiales y condominios.
 
 La solicitud deberá ser suscrita por el propietario o poseedor, y el perito responsable en su caso, en las formas que expida el Ayuntamiento.
 
 El Ayuntamiento deberá resolver el mismo día sobre la solicitud entregando la licencia autorizada. En caso de que se trate de obras que requieran un análisis más detallado, la licencia se entregará dentro de un plazo máximo de 10 días hábiles; de no hacerse así el solicitante considerará que ha sido autorizada la solicitud y podrá iniciar la obra.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+La licencia de construcción que expida el Ayuntamiento deberá contener mínimo los siguientes requisitos:
+
+1).- El tipo de autorización y alcance de la ejecución de la obra;
+
+2).- La vigencia de la licencia; y
+
+3).- La información referente a las discontinuidades geológicas que tenga el predio, de las que el Ayuntamiento tenga conocimiento.
 
 ###### ARTICULO 194.
 
@@ -2435,19 +2595,17 @@ XII.- Construcciones provisionales para uso de oficinas, bodegas o vigilancia de
 
 XIII.- Obras similares a las anteriores cuando no afecten elementos estructurales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 196.
 
-En los fraccionamientos y condominios, el Ayuntamiento no expedirá licencias sin antes comprobar que el fraccionamiento o condominio ha sido autorizado por la Comisión Estatal o la SEPLADE, según corresponda.
+En los fraccionamientos, condominios y desarrollos especiales el Ayuntamiento no expedirá licencias para la edificación, sin antes comprobar que el fraccionamiento, condominio o desarrollo especial fue autorizado por la Comisión Estatal o la SEPLADE según corresponda.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+El Ayuntamiento correspondiente no expedirá la autorización de habitabilidad o uso de las viviendas, locales, departamentos o de cualquier edificación, hasta en tanto el fraccionamiento, condominio o desarrollo especial no presente un avance en las obras de urbanización de un 50%, salvo que se trate de fraccionamientos de interés social. Los fraccionadores y promoventes de condominio serán corresponsables para que se cumpla esta disposición.
 
-Igualmente no se expedirá licencia de construcción para desarrollos habitacionales o comerciales, cuando para la funcionalidad de los mismos se requiera realizar obras de urbanización o apertura de vialidades internas. En este caso, se requerirá la aprobación previa del conjunto por parte de la SEPLADE.
+También se requerirá la aprobación de la SEPLADE cuando se trate de desarrollos comerciales y de servicios que ocupen una superficie superior a los 5,000 metros cuadrados, en los demás casos corresponderá al Ayuntamiento dictaminar lo conducente, para lo cual contará con un plazo máximo de 10 días hábiles.
 
-Esta aprobación será obligatoria además cuando se trate de desarrollos comerciales y de servicios que ocupen una superficie superior a 5000 m2. En los demás casos corresponderá al Ayuntamiento dictaminar lo conducente, para lo cual contará con un plazo máximo de 10 días hábiles.
-
-Para el dictamen de los mismos se aplicarán las normas técnicas relativas a fraccionamientos y condominios.
+Para el dictamen de los mismos se aplicarán las normas técnicas relativas a los fraccionamientos y condominios.
 
 ###### ARTICULO 197.
 
@@ -2467,6 +2625,10 @@ Autorización es el documento por el que el Ayuntamiento concede el uso o factib
 
 Se denominan peritos responsables a aquellos ingenieros o arquitectos registrados en el Ayuntamiento con ese carácter y a quienes él les concede la facultad de signar, como requisito indispensable para su otorgamiento, las solicitudes de licencias para construcciones o demoliciones, imponiéndoles por otra parte, la obligación de aplicar este Código y el Reglamento de Construcción en la ejecución de los trabajos para los que se haya otorgado la licencia con su intervención.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 200 BIS.- La SEPLADE deberá integrar un registro de Peritos responsables y de laboratorios de calidad para las obras de urbanización de los fraccionamientos, condominios y desarrollos especiales, con .el fin de que se aplique en aquellos Municipios que no cuenten con un registro propio.
+
 ###### ARTICULO 201.
 
 Para los efectos de este Código, se entiende que un perito responsable otorgará responsiva profesional cuando:
@@ -2483,13 +2645,15 @@ IV.- Suscriba un dictamen de carácter arquitectónico o estructural.
 
 Los peritos reglamentados por este Código se clasifican en dos grandes grupos: peritos responsables y peritos especializados. Los primeros son los que pueden signar solicitudes de licencias de toda clase de obras, debiendo auxiliarse cuando el caso lo requiera de un perito especializado. Los segundos son aquellos que sólo pueden signar solicitudes de licencias para obras o parte de ellas, que perteneciendo a una especialidad de la ingeniería, de la arquitectura o del urbanismo, presente problemas particulares. Para el debido reconocimiento de cada uno de los grupos, deberá anteceder al número de registro la razón: Perito responsable o perito especializado, según sea el caso.
 
-Se consideran especialidades para los efectos de este Código las siguientes: cálculo de estructuras de acero; cálculo de estructuras de concreto; mecánica de suelos; ingeniería sanitaria; urbanismo; pavimentos; instalaciones eléctricas; instalaciones de gas; clima artificial; acústica; restauración de monumentos y cualquiera otra actividad técnica que el Ayuntamiento estime merecedora de tal calidad previo dictamen de la comisión de admisión.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Se consideran especialidades para los efectos de este Código las siguientes: cálculo de estructuras de acero; cálculo de estructuras de concreto; mecánica de suelos; ingeniería sanitaria; urbanismo; ingeniería geológica o geofísica; pavimentos; instalaciones eléctricas; instalaciones de gas; clima artificial; acústica; restauración de monumentos y cualquiera otra actividad técnica que el Ayuntamiento estime merecedora de tal calidad previo dictamen de la Comisión de Admisión de Peritos respectiva.
 
 El campo que para los efectos de autorización de solicitudes abarque una especialidad, será determinada por la comisión de admisión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-En caso de daños en las construcciones por la aparición de fallas geológicas, estos no serán imputables al perito responsable o a las autoridades si dichas fallas no se encontraban asentadas en las cartas urbanas o en los programas de desarrollo urbano.
+En caso de daños en las construcciones por la aparición de discontinuidades geológicas, éstos no serán imputables al perito responsable o a las autoridades si dichas discontinuidades no se encontraban asentadas en el sistema de información que contiene el registro de las mismas o en los programas de desarrollo urbano.
 
 ###### ARTICULO 203.
 
@@ -2681,47 +2845,81 @@ La ejecución de las obras deberá llevarse a cabo en la forma y términos consi
 
 Los peritos responsables de obra, o los propietarios en su caso, están obligados a vigilar que la ejecución de la misma se realice con las técnicas constructivas más adecuadas, se empleen los materiales con la resistencia y calidad especificadas en el reglamento de construcciones respectivo y en sus especificaciones técnicas complementarias, se tomen las medidas de seguridad necesarias, y se evite causar molestias o perjuicios a terceros.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 221 BIS.- Las aguas pluviales no deben ser descargadas directamente a la red sanitaria, ni mezclarse con aguas negras. Las aguas pluviales deberán canalizarse hacia áreas jardinadas, pozos de absorción, aljibes o cisternas con la finalidad de ser reutilizadas, este tipo de infraestructura deberá estar provista de obras de excedencia a fin de evitar inundaciones en caso de lluvias extraordinarias, las cuales si podrán conectarse a la red de drenaje pluvial y de no existir este último, podrán descargarse a la red sanitaria o verterse superficialmente a la vialidad, sin que esto afecte a los predios o construcciones vecinas.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 222.
 
-Los proyectos de edificaciones nuevas incluirán los espacios suficientes para estacionamiento. Igualmente, cuando se cambie el uso del suelo de un predio, podrá condicionarse la autorización de dicho cambio a que se ajuste el predio a los requerimientos mínimos en materia de estacionamientos.
+Los proyectos de edificaciones nuevas incluirán los espacios suficientes para estacionamiento. Igualmente cuando se cambie el uso del suelo de un predio, deberá condicionarse la autorización de dicho cambio a que se ajuste el predio a los requerimientos mínimos en materia de estacionamientos.
 
-Los requerimientos mínimos en materia de cajones de estacionamiento, son los siguientes:
+Los requerimientos mínimos en materia de cajones de estacionamiento son los siguientes:
 
-I.- Vivienda Multifamiliar:
+A).- HABITACION
 
-a) Menor de 80 m2, un cajón por cada 3 departamentos.
+I.- Habitación Unifamiliar:
 
-b) Mayor de 80 m2, un cajón por cada departamento.
+a).- Menor de 200 M2, 1 cajón por vivienda.
 
-II.- Oficinas y comercios: un cajón por cada 50 m2.
+b).- Mayor de 200 M2, 2 cajones por vivienda.
 
-III.- Educación:
+II.- Habitación Multifamiliar:
 
-a) Básica y media, un cajón por aula.
+a).- Menor de 120 M2, 1 cajón por vivienda.
 
-b) Superior, un cajón por cada 20 m2.
+b).- Mayor de 120 M2 y menor de 250 M2, dos cajones por vivienda.
 
-IV.- Hospitales:
+c).- Mayor de 250 M2, 3 cajones por vivienda.
 
-a) De cuartos privados, un cajón por cada 2 cuartos.
+B).- SERVICIOS
 
-b) De cuartos múltiples, un cajón por cada 7 cuartos.
+I.- Oficinas y Comercios, 1 cajón por cada 50
 
-V.- Centros de reunión y salas de espectáculos: un cajón por cada 10 concurrentes.
+M2;
 
-VI.- Centros de reunión deportivos: un cajón por cada 20 concurrentes.
+II.-Salud, 1 cajón por cada 50 M2;
 
-VII.- Industrias y bodegas: un cajón por cada 50 m2.
+III.- Educación y Cultura:
 
-VIII.- Hoteles:
+a).- Básica y Media, 1 Cajón por aula.
 
-a) Para los primeros 20 cuartos, un cajón por cada cuarto.
+b).- Superior, 1 Cajón por cada 20 M2.
 
-b) Excedentes, un cajón por cada 8 cuartos.
+IV.- Instalaciones Religiosas, 1 cajón por cada 100 M2 construidos;
 
-IX.- Baños y clubes deportivos: un cajón por cada 75 m2; y
+V.- Sitios Históricos, 1 cajón por cada 100 M2 de terreno;
 
-X.- Templos: un cajón por cada 150 m2.
+VI.- Centros de Reunión y salas de espectáculos, 1 cajón por cada 10 concurrentes;
+
+VII.- Centros de Reunión Deportivos, 1 cajón por cada 20 concurrentes;
+
+VIII.- Baños y clubes deportivos, 1 cajón por cada 75 M2;
+
+IX.- Alojamiento:
+
+a).- Hoteles, Moteles, Casas de Huéspedes y Albergues, un cajón por cada 50 M2 construidos.
+
+X.- Instalaciones de Seguridad, un cajón por cada 50 M2 construidos;
+
+XI.- Servicios Funerarios:
+
+a).- Cementerios, 1 cajón por cada 500 M2 de terreno.
+
+b).- .Agencias Funerarias y Crematorios, un cajón por cada 20 M2 construidos.
+
+XII.- Servicios de Comunicaciones y Transportes, 1 cajón por cada 50 M2 construidos
+
+C).- INDUSTRIA
+
+I.- Industrias:
+
+a).- Área de oficinas, 1 cajón por cada 50 M2 construidos.
+
+b).- Área de nave industrial, 1 cajón por cada 200 M2 construidos.
+
+Para efectos del párrafo anterior, los reglamentos municipales establecerán las características que se deberán cumplir para los cajones de estacionamiento, apegándose a las características mínimas que se establecen en el presente Artículo.
 
 Los proyectos correspondientes deberán considerar las dimensiones de los cajones, los radios de giro, las alturas reglamentarias y el ancho y las pendientes de las rampas de acceso, elementos que deben tener los materiales adecuados y los espacios suficientes para que la circulación de los vehículos sea segura, fluida y cómoda.
 
@@ -2785,25 +2983,33 @@ IX.- Las rampas deberán tener bordillos laterales con anchura mínima de 30 cen
 
 La realización de excavaciones, demoliciones, terraplanes o rellenos, requerirá firma responsiva de perito, el que vigilará que se tomen las medidas de seguridad y que se realicen siguiendo estrictamente las especificaciones de construcción.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 225.
 
-Cuando se trate de construcción de viviendas de interés social, o de vivienda financiada por cualquier organismo público federal o estatal, el constructor y el perito responsable deberán garantizar la calidad de la vivienda de acuerdo a las especificaciones técnicas y serán solidariamente responsables por las fallas o vicios ocultos que surjan.
+En toda obra a ejecutar de construcción, ampliación, remodelación o mejoramiento, estructura, demolición, urbanización, pavimentación, instalación, canalización o similar, el constructor y el perito responsable deberán garantizar la calidad de la obra de acuerdo a las especificaciones técnicas y serán solidariamente responsables por las fallas o vicios ocultos que surjan.
 
 ###### ARTICULO 226.
 
 En caso de que existan deficiencias en las viviendas a que se refiere el artículo anterior debidas a la mala calidad de los materiales o de las construcciones, el propietario deberá corregir por su cuenta las anomalías a satisfacción del Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 227.
 
-El Ayuntamiento o la Comisión podrán negar la autorización del desarrollo habitacional o la licencia de construcción, a los constructores que cuenten con antecedentes de mala calidad en viviendas consignadas en el Artículo 225.
+El Ayuntamiento o la Comisión podrán negar la autorización del desarrollo habitacional o la licencia de construcción, a los constructores que cuenten con antecedentes de mala calidad en obras de construcción consignadas en el Artículo 225.
 
 Igualmente, podrán suspender el otorgamiento de licencias de construcción mientras estén pendientes de corregir las anomalías señaladas en el Artículo 226.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 228.
 
-Los peritos responsables de las obras a que se refieren los Artículos 225 y 226 serán suspendidos por 3 años en el ejercicio de su función. Dicha suspensión se impondrá de conformidad con los procedimientos que se señalen en el reglamento de construcciones respectivo.
+Los peritos responsables de las obras a que se refiere el Artículo 225 y 226 serán suspendidos por 3 años en el ejercicio de su función. Dicha suspensión se impondrá de conformidad con los procedimientos que se señalen en la legislación municipal correspondiente.
 
-En caso de que en el Municipio en que se den los hechos consignados en el Artículo 226 no se cuente con reglamento de construcciones, se aplicará supletoriamente el reglamento del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+En caso de que en el municipio en que se den los hechos consignados en el Artículo 226 no se cuente con reglamento de construcciones, se aplicará supletoriamente la legislación de la materia del Municipio de Aguascalientes.
 
 Tratándose de casos graves, el profesionista que incurra en violaciones a este Código, el reglamento y especificaciones técnicas de construcción, podrá ser inhabilitado para fungir como perito, cuando se demuestre que se obró con mala fe o notoria negligencia.
 
@@ -2827,11 +3033,11 @@ El reglamento de construcciones que cada Ayuntamiento expida dispondrá que en u
 
 Cuando en la constancia de compatibilidad urbanística se marque una afectación o restricción al predio, esto no implica que el propietario o poseedor sea limitado en el dominio de la superficie señalada, únicamente se le informa sobre los elementos o características que debe respetar al realizar alguna construcción, fraccionamiento y condominio, o destinar un predio a uso determinado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 232.
 
-El Ayuntamiento y la SEPLADE establecerán las medidas de protección que, además de lo dispuesto en la Ley de Protección Ambiental del Estado, deberán cubrir las edificaciones cuando:
+El Ayuntamiento de conformidad con su normatividad municipal, así como con lo dispuesto en las Leyes de Protección Ambiental y Protección Civil del Estado, establecerá las medidas de protección que deberán cubrir las edificaciones cuando:
 
 I.- Produzcan, almacenen, vendan o manejen objetos o sustancias tóxicas, explosivas, inflamables o de fácil combustión;
 
@@ -2857,17 +3063,27 @@ I.- La restitución de inmediato al uso aprobado, si esto puede hacerse sin la n
 
 II.- La ejecución de obras, adaptaciones e instalaciones y otros trabajos que sean necesarios para el correcto funcionamiento del inmueble y restitución al uso aprobado dentro del plazo que para ello se señale.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 234.
 
-Los propietarios de las edificaciones y predios tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, evitar que se conviertan en molestia o peligro para las personas o los bienes, reparar y corregir los desperfectos, fugas y consumos excesivos de las instalaciones y observar además, las siguientes disposiciones:
+Los propietarios o poseedores de las edificaciones y predios tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, evitar que se conviertan en molestia o peligro para las personas o los bienes, reparar y corregir los desperfectos, fugas y consumos excesivos de las instalaciones, y observar además, las siguientes disposiciones:
 
 I.- Los acabados de las fachadas deberán mantenerse en buen estado de conservación, aspecto y limpieza;
 
 II.- Los predios no edificados excepto los que se ubiquen en zonas que carezcan de servicios públicos de urbanización, deberán contar con cercas en sus límites que no colinden con construcciones permanentes, de una altura mínima de 2.50 metros, construidas con cualquier material, excepto madera, cartón, alambrado de púas y otros similares que pongan en peligro la seguridad de personas y bienes;
 
-III.- Los predios no edificados deberán estar libres de escombros y basura, drenados adecuadamente; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-IV.- Quedan prohibidas las instalaciones y construcciones precarias en las azoteas de las edificaciones, cualesquiera que sea el uso que pretenda dárseles.
+III.- Los predios deberán estar libres de escombros, basura y drenados adecuadamente;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV.- Quedan prohibidas las instalaciones y construcciones precarias en las azoteas de las edificaciones, cualesquiera que sea el uso que pretenda dárseles; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+V.- Los predios no deberán ser utilizados, ni con carácter provisional, en forma diferente al uso del suelo autorizado.
 
 ### CAPITULO VII. De los Permisos y Licencias en Materia de Anuncios
 
@@ -3269,6 +3485,12 @@ VI.- La imagen urbana; y
 
 VII.- La zonificación primaria y secundaria que marquen los Programas de Desarrollo Urbano.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 278 BIS.- La autorización para subdividir, fraccionar y construir desarrollos especiales o condominios sólo podrá otorgarse si el propietario cubre el costo al Ayuntamiento y al Gobierno del Estado de lo que erogó por la apertura, ampliación o prolongación de calles o vías públicas y generación de infraestructura que se hubiera realizado en dichos terrenos en términos del presente Código. Dicho valor será actualizado por el Colegio de Valuadores y, en su caso, podrá enterarse a la autoridad respectiva hasta que se urbanice o se transfiera la propiedad, siempre y cuando se otorgue garantía, en términos del Artículo 452 del presente Código, al momento en que se expida dicha autorización.
+
+El propietario quedará exento de dicha obligación si el terreno es propiedad del Gobierno del Estado, de los Municipios o de las instituciones gubernamentales, si el predio es menor a 3000 metros cuadrados o si al momento de generarse la infraestructura a que se refiere el párrafo anterior enteró los gastos correspondientes al Ayuntamiento y al Gobierno del Estado en términos de la legislación aplicable.
+
 ###### ARTICULO 279.
 
 Los estudios, dictámenes o acuerdos para autorizar los correspondientes fraccionamientos, relotificaciones, fusiones y subdivisiones de áreas y predios deberán ser compatibles con lo dispuesto en los diversos programas de desarrollo urbano.
@@ -3323,9 +3545,17 @@ d) Cementerios;
 
 e) Industriales;
 
-f) Industriales selectivos; y
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-g) Mixtos.
+f) Industriales selectivos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2006)</small>
+
+g) Micro productivos; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 14 DE AGOSTO DE 2006)</small>
+
+h) Mixtos.
 
 #### SECCION SEGUNDA. Normas Técnicas del Proyecto
 
@@ -3335,7 +3565,9 @@ Los proyectos de urbanización y construcción en los fraccionamientos, deberán
 
 I.- De diseño;
 
-II.- De sistemas de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+II.- De sistemas de agua potable, pluvial y alcantarillado;
 
 III.- De vialidad; y
 
@@ -3365,23 +3597,45 @@ Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para 
 
 La construcción de vivienda multifamiliar o edificios habitacionales dentro de algún fraccionamiento sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido autorizados por la Comisión Estatal.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 290 BIS.- Cuando en un fraccionamiento, condominio o desarrollo especial se realicen obras de saneamiento, protección o modificación de infraestructura para reducir o suprimir las restricciones existentes en un predio, el mismo deberá destinarse exclusivamente para mejorar la infraestructura, equipamiento y áreas verdes de la zona.
+
 ###### ARTICULO 291.
 
 Las construcciones en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 292.
 
-Los Ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos el 40% de las áreas de donación que reciban conforme a lo dispuesto en este Código por parte de los fraccionadores en cada fraccionamiento.
+Los Ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos el 50% de las áreas de donación que reciban por parte de los fraccionadores, conforme a lo dispuesto en este Código y el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 293.
 
-Del área total de donación de cada fraccionamiento, cuando menos un 30% deberá destinarse a áreas verdes, parques y jardines; el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos, en los términos que se le señale por parte del Ayuntamiento. Dicha obligación formará parte del dictamen de autorización.
+Del área total de donación de cada fraccionamiento, cuando menos el 30% deberá destinarse a áreas verdes, parques y jardines, cuya superficie será considerada como un bien del dominio público del Municipio. El fraccionador tendrá la obligación de equipar dicha superficie para tales efectos, en los términos que se le señale por parte del Ayuntamiento. Dicha obligación formará parte del dictamen de autorización. El resto de la superficie se entregará limpia y sin escombro.
+
+El Ayuntamiento podrá ejercer actos de dominio a título oneroso o gratuito en términos de lo dispuesto por la Ley Municipal del Estado, respecto de la superficie que exceda de lo contemplado en el Artículo 292 y el párrafo anterior, siempre y cuando tenga como finalidad cualquiera de las siguientes:
+
+I.- La enajenación a título oneroso o permuta para la adquisición de otros inmuebles que se requieran para la atención de los servicios públicos a cargo del Ayuntamiento;
+
+II.- El arrendamiento, donación o comodato, a favor de asociaciones o instituciones privadas que realicen actividades de interés social con un claro beneficio para la población y que no persigan fines de lucro;
+
+III.- La enajenación a título oneroso a favor de personas de derecho privado, que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad;
+
+IV- La permuta con la Federación o el Estado de inmuebles que por su ubicación, características y aptitudes satisfagan las necesidades de las partes; o
+
+V.- La compra o permuta de bienes inmuebles que sean necesarios para la ampliación o alineamiento de calles o avenidas, así como para la realización de cualquier tipo de obra pública.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 294.
 
-En los fraccionamientos que se requiera caseta de vigilancia, el Ayuntamiento fijará sus especificaciones, dimensiones y ubicación. Es obligación del fraccionador construir la caseta y donarla al Ayuntamiento correspondiente.
+Es obligación del fraccionador donar al Ayuntamiento correspondiente, el equipamiento de limpia y seguridad pública que le sea determinado por el Ayuntamiento.
 
-El área ocupada por la caseta de vigilancia, será considerada como parte de la superficie que el fraccionador está obligado a donar al Ayuntamiento.
+El área ocupada para equipamiento de seguridad pública será considerada como parte de la superficie que el fraccionador está obligado a donar al Ayuntamiento.
 
 ###### ARTICULO 295.
 
@@ -3391,37 +3645,57 @@ Se declara de utilidad pública la expropiación de la superficie necesaria para
 
 Las normas de sistemas de agua potable y alcantarillado son las que regulan el proyecto, cálculo y construcción de las redes, así como la perforación de pozos para agua potable y las descargas de aguas residuales.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 297.
 
-Cuando en los fraccionamientos especiales no sea posible realizar un sistema de alcantarillado por razones técnicas, en virtud de no contarse con un lugar adecuado para la descarga, u otro motivo similar, la Comisión Estatal podrá autorizar al fraccionador la construcción de una fosa séptica por lote, respetando los lineamientos que éste le señale.
+Cuando en los fraccionamientos especiales no sea posible realizar un sistema de alcantarillado por razones técnicas, en virtud de no contarse con un lugar adecuado para la descarga, u otro motivo similar, la Comisión Estatal podrá autorizar al fraccionador la construcción de una fosa séptica por lote o planta de tratamiento de agua residual, respetando los lineamientos que éste le señale.
 
 ###### ARTICULO 298.
 
 La perforación de pozos para el abastecimiento de agua potable en los fraccionamientos, sólo podrá realizarse mediante la autorización por escrito de la Comisión Nacional del Agua y respetando las especificaciones que ésta determine.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 299.
 
-Cuando en el predio por fraccionar exista autorizada una fuente de abastecimiento para usos diferentes al que se pretende dar según el proyecto de fraccionamiento, deberá recabarse de la Secretaría de Agricultura y Recursos Hidráulicos la autorización para el cambio de uso del aprovechamiento hidráulico correspondiente.
+Cuando en el predio por fraccionar exista autorizada una fuente de abastecimiento para usos diferentes al que se pretende dar según el proyecto de fraccionamiento, deberá recabarse de la Comisión Nacional del Agua la autorización para el cambio de uso del aprovechamiento hidráulico correspondiente.
 
 ###### ARTICULO 300.
 
 El Ayuntamiento podrá conectar un fraccionamiento a la red municipal de agua potable cuando se garantice, previo dictamen técnico, la suficiencia de este servicio. El fraccionador deberá pagar al Ayuntamiento los derechos de conexión correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 301.
 
-Las normas de vialidad son las que regulan el proyecto de fraccionamiento, en cuanto a las características, especificaciones y dimensiones de las calles y andadores, pavimentos, banquetas y guarniciones, así como a la nomenclatura y circulación en las mismas.
+El presente Código y las normas técnicas expedidas por el Ayuntamiento regularán el proyecto de (sic) fraccionamiento, en cuanto a las características, especificaciones y dimensiones de las calles y andadores, pavimentos, banquetas y guarniciones, así como a la. nomenclatura y circulación en las mismas.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 302.
 
 Las calles y andadores de los fraccionamientos, se construirán de acuerdo con lo previsto en este Código y sus características estarán determinadas por la función principal de cada una de ellas, conforme con la siguiente clasificación:
 
-I.- Arterias de gran volumen: son aquellas destinadas para conducir el tránsito en la forma más fluida posible y con el menor número de obstrucciones;
+I.- VIALlDADES REGIONALES O DE ACCESO CONTROLADO: Son aquellas que vinculan a la ciudad de Aguascalientes, con el sistema carretero regional;
 
-II.- Calles colectoras: son aquellas destinadas a conducir el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes;
+II.- ARTERIAS DE GRAN VOLUMEN: Son las que estructuran el sistema vial de las Ciudades, por lo que son las de mayor importancia por sección y flujo vehicular. Su dimensión aproximada es de 42 metros de sección o ancho;
 
-III.- Calles locales: son aquellas destinadas principalmente a dar acceso a los lotes del fraccionamiento; y
+III.- VIALlDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
 
-IV.- Andadores: son aquellos que servirán exclusivamente para el tránsito de peatones; debiendo quedar cerrados al acceso de vehículos por medio de obstrucciones materiales.
+IV- VIALlDADES O CALLES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes;
+
+V- VIALlDADES O CALLES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección;
+
+VI.- VIALlDAD CERRADA: Son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse cerradas o delimitadas en uno de sus extremos. Sin embargo las mismas se consideran como un bien del dominio público de los Municipios, por reunir las características y condiciones a que hace referencia este Código; y
+
+VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de peatones.
+
+Todas las vías públicas que se construyan deberán contar con el diseño apropiado para facilitar la circulación de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 302 BIS.- En las banquetas de las arterias de gran volumen y de las calles colectoras deberán contemplarse cajetes o arriates para la plantación de árboles.
 
 ###### ARTICULO 303.
 
@@ -3429,9 +3703,17 @@ Las calles colectoras de los fraccionamientos habitacionales urbanos, deberán t
 
 I.- Residencial, el 15%;
 
-II.- De tipo medio, el 10%, y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-III.- De tipo popular, el 7%.
+II.- De tipo medio, el 10%;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+III.- De tipo popular, el 7%; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV- De interés social, el 7%.
 
 La Comisión Estatal determinará cuando por la dimensión del fraccionamiento, no se justifique la construcción de calles colectoras.
 
@@ -3441,21 +3723,31 @@ Cuando las autoridades competentes proyecten una arteria de alta velocidad o és
 
 Podrán existir lotes con acceso directo a dicho carril de baja velocidad, pero se destinarán exclusivamente para uso comercial o de servicios.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 305.
 
-Ninguna de las calles de un fraccionamiento en proyecto, que sea prolongación de otra de un fraccionamiento contiguo o de cualquier calle del centro de población, podrá tener una anchura menor que aquélla, y si la calle que se continúa fuera menor de los mínimos señalados por este Código, la prolongación que constituya la nueva obra deberá tener siempre la anchura señalada por el mismo.
+Ninguna de las calles de un fraccionamiento en proyecto, que sea prolongación de otra de un fraccionamiento contiguo o de cualquier calle del centro de población, podrá tener una anchura menor que aquélla, y si la calle que se continúa fuera menor de los mínimos señalados por este Código, la prolongación que constituya la nueva obra deberá tener siempre la anchura señalada por el mismo y continuidad sin cambios de dirección mayores o significativos.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 306.
 
-Cuando cualquiera de los tipos de calles a que se refiere este Código tenga cruzamiento o entronque con una arteria de alta velocidad, carretera, o con una vía de ferrocarril, requerirán un proyecto especial que deberá contemplarse en el proyecto de urbanización del fraccionamiento.
+Cuando cualquiera de los tipos de calles a que se refiere este Código tenga cruzamiento o entronque con una arteria de alta velocidad, carretera, o con una vía de ferrocarril, requerirán un proyecto especial que deberá contemplarse como parte del proyecto de urbanización del fraccionamiento, debiéndose en su caso observar las disposiciones de la autoridad federal correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 307.
 
-Cuando por lo dispuesto en los programas de desarrollo urbano, se requieran calles con anchura superior a 30 metros, las superficies que excedan a esa extensión, serán descontadas de aquellas que el fraccionador deba donar al Municipio.
+Cuando por lo dispuesto en los programas de desarrollo urbano, se requieran calles con anchura superior a 30 metros, las superficies que excedan a esa extensión deberán ser descontadas del 20% de aquellas que el fraccionador deba donar al Municipio.
+
+Para la operatividad del párrafo anterior, deberá entenderse que los porcentajes para equipamiento, servicios y áreas verdes, a que hacen referencia los Artículos 292 y 293 se deberán respetar, independientemente de los excedentes por anchura de calles.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 308.
 
-La postería de la red de electrificación, alumbrado público, teléfonos, señalamiento, indicadores, letreros o cualquier otro tipo similar, deberán ubicarse en el área jardinada de las banquetas, sin interferir el área de circulación de peatones.
+La postería de la red de electrificación, alumbrado público, teléfonos, señalamiento, indicadores, letreros o cualquier otro tipo similar, deberán ubicarse sobre las banquetas en el área próxima a la guarnición y en la colindancia de los predios, sin interferir el área de circulación de peatones.
 
 ###### ARTICULO 309.
 
@@ -3463,29 +3755,39 @@ Las normas de electrificación y alumbrado público son las que regulan el proye
 
 #### SECCION TERCERA. Fraccionamientos Habitacionales Urbanos
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 310.
 
-Los fraccionamientos habitacionales urbanos son aquellos ubicados dentro de los límites de un centro de población cuyos lotes se aprovecharán predominantemente para vivienda.
+Los fraccionamientos habitacionales urbanos son aquellos ubicados dentro de los límites de un centro de población establecidos en los programas de desarrollo urbano, cuyos lotes se aprovecharán predominantemente para vivienda.
 
 ###### ARTICULO 311.
 
 Los fraccionamientos habitacionales urbanos residenciales, deberán tener como mínimo, las siguientes características:
 
-I.- Lotificación: sus lotes no podrán tener un frente menor de 15 metros, ni una superficie menor de 450 metros cuadrados.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-Las construcciones deberán remeterse 3 metros o el 12% de la dimensión perpendicular al frente, a partir del alineamiento; superficie que se dejará como área libre. Se per-mitirá (sic) la construcción, como máximo, en el 70% de la superficie del lote, y el resto se aprovechará en espacios abiertos;
+I.- Lotificación: sus lotes no podrán tener un frente menor de 12 metros, ni una superficie menor de 360 metros cuadrados.
 
-II.- Usos y destinos del suelo: el aprovechamiento predominante será de vivienda unifamiliar y se permitirá solamente el 5% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas y definidas en el proyecto.
+Las construcciones deberán remeterse 3 metros o el 10% de la dimensión perpendicular al frente, a partir del alineamiento; superficie que se dejará como área libre. Se permitirá la construcción, como máximo, en el 80% de la superficie del lote, y el resto se aprovechará en espacios abiertos;
 
-En este tipo de fraccionamientos no se permitirá la construcción de viviendas multifamiliares o edificios habitacionales;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-III.- Donaciones: el fraccionador deberá donar al Municipio el 10% de la superficie neta del fraccionamiento, debidamente urbanizada;
+II.- Usos y destinos del suelo: el aprovechamiento predominante será de vivienda unifamiliar y se permitirá solamente el 5% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas y definidas en el proyecto. En este tipo de fraccionamientos se permitirá por manzana un máximo del 10% de la superficie vendible para la construcción de viviendas multifamiliares o edificios habitacionales de tipo residencial, con una altura máxima de tres niveles, en las zonas previamente determinadas para ello en el proyecto autorizado por la Comisión Estatal;
 
-IV.- Vialidad: las calles colectoras deberán tener una anchura de 20 metros, medida de alineamiento a alineamiento; las banquetas serán de 3 metros de ancho, de los cuales el 25% se empleará como zona jardinada.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-Las calles locales deberán tener una anchura de 15 metros, medida de alineamiento a alineamiento; las banquetas serán de 2 metros de ancho de los cuales del 20 al 40% se empleará como zona jardinada. Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine la Comisión Estatal.
+III.- Donaciones: el fraccionador deberá donar al Municipio el 12% de la superficie neta del fraccionamiento, debidamente urbanizada.
 
-En el caso de que existan andadores, éstos deberán contar con un área jardinada de cuando menos el 40% de su anchura. Cualquier lote que tenga acceso a través de un andador, deberá estar situado a una distancia menor de 50 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente;
+Cuando la totalidad de los lotes tengan cada uno una superficie mínima de 450 metros cuadrados, el fraccionador estará obligado a donar al Municipio el 10% de la superficie neta del fraccionamiento en las mismas condiciones indicadas;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV.- Vialidad: las calles colectoras deberán tener una anchura de 20 metros, medida de alineamiento a alineamiento; las banquetas serán de 3 metros de ancho.
+
+Las calles locales deberán tener una anchura de 15 metros, medida de alineamiento a alineamiento; las banquetas serán de 2 metros de ancho. Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine la Comisión Estatal.
+
+Cualquier lote que tenga acceso a través de un andador, deberá estar situado a una distancia menor de 50 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; éstos deberán contar con un ancho mínimo de cuatro metros y estar libres de obstáculos, de forma que permitan el acceso de vehículos de emergencia; y
 
 V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las siguientes obras de urbanización:
 
@@ -3501,41 +3803,55 @@ e) Ductos para redes telefónicas.
 
 f) Guarniciones y banquetas de concreto u otro material de calidad similar.
 
-g) Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para minusválidos;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+g) Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento;
 
-h) Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+h) Arbolado y jardinería en las áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado;
 
 i) Placas de nomenclatura y señalamientos viales en las calles; y
 
-j) Caseta de vigilancia, en caso de que se requiera, previo dictamen del Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+j) Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
 
 ###### ARTICULO 312.
 
 Los fraccionamientos habitacionales urbanos de tipo medio, deberán tener como mínimo, las siguientes características:
 
-I.- Lotificación: sus lotes no podrán tener un frente menor de 10 metros, ni una superficie menor de 200 metros cuadrados.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-No podrá haber un porcentaje mayor del 10% del número total de lotes, que tengan un frente de 15 metros cuadrados o mayor a éste, o una superficie de 450 M2 o mayor a ésta, para uso habitacional.
+I.- Lotifícación: sus lotes no podrán tener un frente menor de 8 metros, ni una superficie menor de 176 metros cuadrados.
 
-Se permitirá la construcción como máximo, en el 80% de la superficie del lote y el resto se aprovechará en espacios abiertos;
+No podrá haber un porcentaje mayor del 30% del número total de lotes, que tengan un frente mayor de 12 metros, o una superficie mayor de 360 metros cuadrados, para uso habitacional.
+
+Se permitirá la construcción como máximo en el 85% de la superficie del lote y el resto se aprovechará en espacios abiertos;
 
 II.- Usos y destinos del suelo: el aprovechamiento predominante será de vivienda unifamiliar y se permitirá solamente el 10% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas y definidas en el proyecto.
 
-En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo del 10% de la superficie vendible en las zonas previamente determinadas para ello en el proyecto autorizado por la Comisión Estatal. En estos casos el porcentaje de ocupación por lote se definirá conforme a los índices de densidad autorizados en la zona.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-III.- Donaciones: el fraccionador deberá donar al Municipio el 12.5% de la superficie neta del fraccionamiento, debidamente urbanizada;
+En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares o edificios habitacionales de tipo medio, con una altura de hasta tres niveles, en un máximo del 15% de la superficie vendible por manzana, en las zonas previamente determinadas para ello en el proyecto autorizado por la Comisión Estatal;
 
-IV.- Vialidad: las calles colectoras deberán tener una anchura de 16 metros, medida de alineamiento a alineamiento; las banquetas serán de 2.00 metros de ancho, de los cuales del 20 al 40% se empleará como zona jardinada.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-Las calles locales deberán tener una anchura de 12 metros, medida de alineamiento a alineamiento; las banquetas serán de 1.50 metros de ancho, de los cuales el 25% se empleará como zona jardinada.
+III.- Donaciones: el fraccionador deberá donar al Municipio el 13% de la superficie neta del fraccionamiento, debidamente urbanizada.
 
-Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine la Comisión Estatal.
+Cuando la totalidad de los lotes tengan cada uno una superficie mínima de 200 metros cuadrados, el fraccionador estará obligado a donar al Municipio el 12.5% de la superficie neta del fraccionamiento en las mismas condiciones indicadas;
 
-En el caso de que existan andadores, éstos deberán contar con ancho mínimo de cuatro metros y con un área jardinada de cuando menos el 40% de su anchura.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-Cualquier lote que tenga acceso a través de un andador, deberá estar situado a una distancia menor de 70 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
+IV.- Vialidad: las calles colectaras deberán tener una anchura de 16 metros, medida de alineamiento a alineamiento; las banquetas serán de 2.00 metros de ancho.
+
+Las calles locales deberán tener una anchura de 12 metros, medida de alineamiento a alineamiento; las banquetas serán de 1.50 metros de ancho.
+
+Cuando necesariamente una calle local tenga que ser cerrada deberá tener una anchura mínima de 15 metros y se hará un retorno con las dimensiones que dictamine la Comisión Estatal.
+
+En el caso de que existan andadores, éstos deberán contar con ancho mínimo de cuatro metros y estar libres de obstáculos, de forma que permitan el acceso de vehículos de emergencia.
+
+Cualquier lote que tenga acceso a través de un andador, deberá estar situado a una distancia menor de 60 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
 
 V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las siguientes obras de urbanización:
 
@@ -3551,15 +3867,19 @@ e) Ductos subterráneos para redes telefónicas.
 
 f) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos para minusválidos.
 
-g) Pavimento de calles de concreto hidráulico u otro material de calidad similar.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
-h) Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+h).- Arbolado y jardinería en las áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 i) Placas de nomenclatura en los cruces de las calles; y
 
-j) Caseta de vigilancia, en caso de que se requiera previo dictamen del Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+j).- Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
 
 ###### ARTICULO 313.
 
@@ -3567,23 +3887,29 @@ Los fraccionamientos habitacionales urbanos de tipo popular, deberán tener como
 
 I.- Lotificación: sus lotes no podrán tener un frente menor de 6 metros, ni una superficie menor de 90 metros cuadrados.
 
-No podrá haber un porcentaje mayor de 10% del número total de lotes, que tengan un frente de 10 metros o mayor a éste, o una superficie de 200 metros cuadrados o mayor a ésta, para uso habitacional;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+No podrá haber un porcentaje mayor de 30% del número total de lotes que tengan un frente mayor a ocho metros, o una superficie mayor de 192 metros cuadrados, para uso habitacional;
 
 II.- Usos y destinos del suelo: el aprovechamiento predominante será de vivienda y se permitirá solamente el 20% de la superficie vendible para áreas comerciales o de servicios, en las zonas autorizadas.
 
-En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo del 60% de la superficie vendible, en las zonas determinadas para ello en el proyecto autorizado por la Comisión Estatal.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares en un 60%, de las cuales la vivienda multifamiliar vertical superior a dos niveles no podrá rebasar de un 20%, de la superficie vendible, en las zonas determinadas para ello en el proyecto autorizado por la Código misión Estatal;
 
 III.- Donaciones: El fraccionador deberá donar al Municipio el 15% de la superficie neta del fraccionamiento, debidamente urbanizada;
 
-IV.- Vialidad: Las calles colectoras deberán tener una anchura de 15 metros, medida de alineamiento a alineamiento; las banquetas serán de 1.50 metros de ancho.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV- Vialidad: las calles colectoras deberán tener una anchura de 16 metros, medida de alineamiento a alineamiento; las banquetas serán de 2.00 metros de ancho.
 
 Las calles locales deberán tener una anchura de 12 metros, medida de alineamiento a alineamiento; las banquetas serán de 1.50 metros de ancho.
 
-Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine la Comisión Estatal.
+Cuando necesariamente una calle local tenga que ser cerrada deberá tener una anchura mínima de 15 metros y se hará un retorno con las dimensiones que dictamine la Comisión Estatal.
 
-En el caso de que existan andadores, éstos deberán tener como mínimo un ancho de cuatro metros y contar con un área jardinada de cuando menos el 40% de su ancho.
+En el caso de que existan andadores, éstos deberán tener como mínimo un ancho de cuatro metros y estar libres de obstáculos, de forma que permitan el acceso de vehículos de emergencia.
 
-Cualquier lote que tenga acceso a través de un andador, deberá tener como mínimo un ancho de cuatro metros y estar situado a una distancia menor de 70 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
+Cualquier lote que tenga acceso a través de un andador, deberá tener como mínimo un ancho de cuatro metros y estar situado a una distancia menor de 60 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; y
 
 V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo con las siguientes obras de urbanización:
 
@@ -3597,19 +3923,27 @@ d) Alumbrado público de acuerdo a la normatividad vigente.
 
 e) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos a minusválidos.
 
-f) Pavimento de calles de concreto u otro material de calidad simila (sic)
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+f) Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
-g) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+g) Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 h) Placas de nomenclatura en los cruces de calles y señalamientos viales en las calles; e
 
-i) Caseta de vigilancia, en caso de que se requiera, previo dictamen del Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+i) Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 314.
 
-Los fraccionamientos habitacionales urbanos de interés social, son aquellos que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, pueden ser autorizados por la Comisión Estatal, con los requisitos mínimos de urbanización que ésta determine, ajustándose a los lineamientos marcados en los programas de desarrollo urbano aplicables y previo estudio socioeconómico del caso.
+Los fraccionamientos habitacionales urbanos de interés social, son aquellos que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, pueden ser autorizados por la Comisión Estatal, con el Programa de Urbanización que ésta determine.
+
+Estos fraccionamientos deberán tener las mismas características que se establecen para los de tipo popular, con excepción del pavimento de las calles locales, las que se permitirán de asfalto, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
 ###### ARTICULO 315.
 
@@ -3621,7 +3955,9 @@ Se podrán autorizar fraccionamientos de carácter mixto. Estos fraccionamientos
 
 Dicha autorización se otorgará siempre y cuando sean compatibles los tipos de fraccionamientos que se pretendan realizar, de acuerdo con los usos y destinos permitidos para el suelo, y se cumplan con las disposiciones contenidas en este Código.
 
-Igualmente, podrán autorizarse en los centros de población rural fraccionamientos habitacionales populares con las características de urbanización que prevalezcan en el área. En estos casos el fraccionamiento no podrá contar con más de 50 lotes.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Igualmente podrán autorizarse en los centros de población rural fraccionamientos habitacionales con las características de urbanización, requisitos y lineamientos que se establecen en el presente Código.
 
 ###### ARTICULO 317.
 
@@ -3655,11 +3991,13 @@ II.- Usos y destinos del suelo: el aprovechamiento predominante será de viviend
 
 III.- Donaciones: el fraccionador deberá donar al Municipio el 10% de la superficie neta del fraccionamiento, debidamente urbanizada;
 
-IV.- Vialidad: las calles colectoras deberán tener una anchura de 15 metros, medida de alineamiento a alineamiento; las banquetas serán de 3 metros de ancho, de los cuales el 50% se empleará como zona jardinada.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-Las calles locales deberán tener una anchura de 12 metros, medida de alineamiento a alineamiento; las banquetas serán de 2.50 metros de ancho, de los cuales el 40% se empleará como zona jardinada.
+IV.- Vialidad: las calles colectaras deberán tener una anchura de 15 metros, medida de alineamiento a alineamiento; las banquetas serán de 3 metros de ancho.
 
-Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine la Comisión Estatal; y
+Las calles locales deberán tener una anchura de 12 metros, medida de alineamiento a alineamiento; las banquetas serán de 2.50 metros de ancho.
+
+Cuando necesariamente una calle local tenga que ser cerrada deberá tener una anchura mínima de 15 metros y se hará un retorno con las dimensiones que dictamine la Comisión Estatal;
 
 V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar como mínimo, con las siguientes obras de urbanización:
 
@@ -3673,15 +4011,19 @@ d) Alumbrado público.
 
 e) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con acceso para minusválidos.
 
-f) Calles con empedrado u otro material de calidad similar.
+(REFORMADO, P.O. 14 DE AGOSTO DE 2006) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+f).- Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
-g) Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+g).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 h) Placas de nomenclatura en los cruces de las calles; e
 
-i) Caseta de vigilancia.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+i).- Equipamiento de limpia y seguridad pública.
 
 ###### ARTICULO 321.
 
@@ -3709,15 +4051,19 @@ d) Alumbrado público;
 
 e) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con accesos para minusválidos;
 
-f) Calles con empedrado u otro material de calidad similar;
+(REFORMADO, P.O. 14 DE AGOSTO DE 2006) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+f).- Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Ayuntamiento;
 
-g) Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+g).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado;
 
 h) Placas de nomenclatura en los cruces de las calles; e
 
-i) Caseta de vigilancia.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+i).- Equipamiento de limpia y seguridad pública.
 
 ###### ARTICULO 322.
 
@@ -3773,11 +4119,13 @@ VI.- Espacios libres y su aprovechamiento;
 
 VII.- Areas para estacionamiento de vehículos correspondientes a conjuntos de lotes o fosas;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-VIII.- Arbolado y jardinería, y el tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado;
+VIII.- Arbolado y jardinería, y el tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado; y
 
-IX.- Caseta de vigilancia.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IX.- Equipamiento de limpia y seguridad pública.
 
 En este tipo de fraccionamientos únicamente se permitirá la construcción de criptas, oficinas, caseta de vigilancia, iglesias, velatorios, crematorios y servicios conexos a las actividades funerarias.
 
@@ -3793,7 +4141,9 @@ II.- Usos y destinos del suelo: el aprovechamiento predominante será el industr
 
 III.- Donaciones: El fraccionador deberá donar al Municipio el 10% de la superficie neta, debidamente urbanizada;
 
-IV.- Vialidad: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por la Comisión Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones y banquetas y las calles deberán tener una anchura mínima de 18 metros; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV- Vialidad: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por la Comisión Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones y las calles deberán tener una anchura mínima de 18 metros;
 
 V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar como mínimo, con las siguientes obras de urbanización:
 
@@ -3809,19 +4159,21 @@ e) Ductos para redes telefónicas.
 
 f) Guarniciones y banquetas de concreto.
 
-g) Pavimento de calles de concreto u otro material de calidad similar que soporte tráfico pesado.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
 h) Hidrantes contra incendios.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-i) Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin.
-
-El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado.
+i).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 j) Placas de nomenclatura y señalamientos viales en las calles; y
 
-k) Caseta de vigilancia.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+k).- Equipamiento de limpia y seguridad pública; y.
 
 VI.- Ubicación: Deberán constituirse a una distancia del límite urbano determinada por el Ayuntamiento.
 
@@ -3837,7 +4189,9 @@ II.- Usos y destinos del suelo: el aprovechamiento predominante será el industr
 
 III.- Donaciones: el fraccionador deberá donar al Municipio el 10% de la superficie neta, debidamente urbanizada;
 
-IV.- Vialidad: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por la Comisión Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones y banquetas y las calles deberán tener una anchura mínima de 15 metros; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+IV- Vialidad: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por la Comisión Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones, y las calles deberán tener una anchura mínima de 15 metros; y
 
 V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las siguientes obras de urbanización:
 
@@ -3853,21 +4207,67 @@ e) Ductos para redes telefónicas.
 
 f) Guarniciones y banquetas de concreto.
 
-g) Pavimento de calles de concreto u otro material de calidad similar que soporte tráfico pesado.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
 h) Hidrantes contra incendios.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-i) Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Instituto del Medio Ambiente del Estado.
+i).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 j) Placas de nomenclatura y señalamientos viales en las calles; y
 
-k) Caseta de vigilancia.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+k).- Equipamiento de limpia y seguridad pública.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 327 BIS.- Los fraccionamientos micro productivos, deberán tener como mínimo, las siguientes características:
+
+I.- Lotificación: sus lotes no podrán tener un frente menor de 10 metros, ni una superficie mayor a 600 metros ni menor de 200 metros cuadrados.
+
+Las construcciones deberán remeterse 3 metros a partir del alineamiento, superficie que se dejará como área libre;
+
+II.- Usos y destinos del suelo: el aprovechamiento predominante será el micro industrial o de actividades productivas y en estos fraccionamientos no se autorizará la construcción de viviendas. Se permitirá solamente el 10% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas;
+
+III.- Donaciones: el fraccionador deberá donar al municipio el 10% de la superficie neta, debidamente urbanizada;
+
+IV.- Vialidad: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por la Comisión Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones, y las calles deberán tener una anchura mínima de 15 metros; y
+
+V.- Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las siguientes obras de urbanización:
+
+a).- Fuente de abastecimiento de agua potable, red de distribución y tomas domiciliarias;
+
+b).- Sistema de alcantarillado separado, pluvial y de aguas residuales, con salidas domiciliarias de albañal y sistemas de protección ecológica en las descargas;
+
+c).- Red de distribución de energía eléctrica, para uso industrial;
+
+d).- Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste metálico de acuerdo a las normas de la Comisión Federal de Electricidad;
+
+e).- Ductos para redes telefónicas;
+
+f).- Guarniciones y banquetas de concreto;
+
+g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento;
+
+h).- Hidrantes contra incendios;
+
+i).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado;
+
+j).- Placas de nomenclatura, señalamientos viales en las calles; y
+
+k).- Equipamiento de limpia y seguridad pública.
+
+Si este tipo de fraccionamientos se constituye con fines pecuarios no será obligatorio cumplir con los requisitos que se establecen en los incisos e), g) y h) de la Fracción V de este Artículo, y sus lotes podrán ser de hasta 1000 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 328.
 
-En los fraccionamientos industriales de tipo selectivo, únicamente se podrán construir instalaciones fabriles que no sean contaminantes, de conformidad a la legislación aplicable, a fin de que en ellos no se generen humos, ruidos, olores o desperdicios nocivos.
+En los fraccionamientos industriales de tipo selectivo y micro productivos, únicamente se podrán construir instalaciones fabriles que no rebasen los niveles máximos de contaminación autorizados para el tipo de fraccionamiento respectivo, de conformidad a la legislación aplicable, a fin de que en ellos no se generen humo, ruidos, olores o desperdicios nocivos.
 
 ### CAPITULO III. De la Municipalización de los Fraccionamientos
 
@@ -3903,11 +4303,17 @@ En el caso de los fraccionamientos ubicados en la ciudad capital del Estado, as�
 
 Será obligación de los adquirentes de lotes, respetar las características del fraccionamiento, en lo que respecta a las dimensiones de los lotes y no podrán subdividir los mismos en tamaños menores a los señalados por este Código; igualmente están obligados a respetar la zona libre al frente en caso de que se halle establecida, las características arquitectónicas y la densidad de construcción.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Los propietarios o poseedores de los predios y edificaciones tendrán la obligación de mantenerlos libres de escombro, basura, hierba y drenados adecuadamente.
+
 Asimismo, no podrá destinar el predio a un uso distinto del autorizado en la resolución respectiva de la Comisión Estatal.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 336.
 
-En los fraccionamientos habitacionales de interés social, nadie podrá adquirir por sí o por interpósita persona, más de un lote o vivienda en los mismos.
+En los fraccionamientos habitacionales de interés social, nadie podrá adquirir por si o por interpósita persona, más de un lote o vivienda en los mismos, con excepción de los desarrolladores de vivienda quienes podrán adquirir más de un lote siempre y cuando la venta al usuario final sea realizada en forma directa por dicho desarrollador, no sea en obras de urbanización progresiva y el fin sea para construir casas de interés social en un plazo que no exceda de tres años a partir de la firma del contrato, el que se celebrará con reserva de dominio hasta en tanto se cumpla la condición, en caso de incumplimiento se le devolverá al comprador la cantidad originalmente convenida.
 
 ###### ARTICULO 337.
 
@@ -3923,6 +4329,8 @@ El acta constitutiva y el reglamento de referencia, deberán inscribirse en la S
 
 ### CAPITULO IV. De las Relotificaciones, Fusiones y Subdivisiones de Areas y Predios
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 339.
 
 Para los efectos de este Código, se entiende por municipalización del fraccionamiento, el acto formal mediante el cual se realiza la entrega-recepción por parte del fraccionador al Ayuntamiento respectivo, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en este Código y demás disposiciones jurídicas aplicables, se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
@@ -3931,9 +4339,11 @@ Para los efectos de este Código, se entiende por municipalización del fraccion
 
 De acuerdo con lo dispuesto en el artículo anterior, sólo el Ayuntamiento será la autoridad competente para recibir los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización de un fraccionamiento, por lo que cualquier acto, contrato o convenio que se celebre por parte del fraccionador, con la asociación de colonos u otra persona física o moral que contravenga esta disposición, será nulo de pleno derecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 341.
 
-El fraccionador, habiendo ejecutado la urbanización total del fraccionamiento, de conformidad al proyecto definitivo autorizado y al dictamen técnico a que se refieren los Artículos 424 al 427 de este Código, solicitará al Ayuntamiento correspondiente, la municipalización del mismo.
+El fraccionador, habiendo ejecutado la urbanización total del fraccionamiento, de conformidad al proyecto definitivo autorizado y al dictamen a que se refieren los Artículos 425 al 427 de este Código, solicitará al Ayuntamiento correspondiente, la municipalización del mismo.
 
 Los fraccionamientos que se urbanicen por etapas, podrán municipalizarse parcialmente previo acuerdo del Ayuntamiento.
 
@@ -3969,29 +4379,49 @@ Mientras no se realicen las obras a que se refiere el artículo anterior, el Ayu
 
 ###### ARTICULO 347.
 
-Se entiende por relotificación, la modificación total o parcial de la lotificación originalmente autorizada para un fraccionamiento.
+Se entiende por relotificación, la modificación total o parcial de la lotificación al interior de las manzanas originalmente autorizada para un fraccionamiento, que no implique la modificación, creación o cancelación de vías públicas y vialidades, ni el cambio del tipo de fraccionamiento.
+
+(REFORMADO, P.O. 14 DE AGOSTO DE 2006) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 348.
 
-Las relotificaciones serán autorizadas por el Ayuntamiento.
+las relotificaciones serán autorizadas por el Ayuntamiento y únicamente en los casos en que se respete el lote mínimo del tipo de fraccionamiento previamente autorizado, así como los usos del suelo y el tipo de fraccionamiento que la legislación urbana vigente aplique, presentando para ello una manifestación de impacto urbano y/o rural, que demuestre la suficiente cobertura de los servicios debidamente avalados por el organismo operador correspondiente.
+
+Cualquier solicitud de relotificación que implique la modificación, creación o cancelación de vías públicas y vialidades o el cambio del tipo de fraccionamiento tendrá que solicitarse ante la Comisión Estatal como si se tratara de un nuevo fraccionamiento en términos del presente Código.
 
 ###### ARTICULO 349.
 
 El fraccionador deberá presentar ante el Ayuntamiento la solicitud de relotificación de un fraccionamiento.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 350.
 
-Las relotificaciones sólo podrán ser autorizadas antes de la municipalización del fraccionamiento, y se requerirá que las áreas, lotes o predios sean propiedad del fraccionador.
+Las relotificaciones podrán ser autorizadas hasta antes de que se hubiera realizado la venta de uno o más lotes. Tratándose de fraccionamientos de interés social, podrá autorizarse la relotificación en cualquier tiempo, incluso en forma posterior a su municipalización.
 
-> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+Las autorizaciones de relotificaciones, quedan sujetas al cumplimiento de los siguientes requisitos:
+
+a).- Que las áreas, lotes o predios sean propiedad del fraccionador;
+
+b).- Que se cuente con la factibilidad de servicios de agua potable, alcantarillado y electrificación;
+
+c).- Que se esté al corriente con las obligaciones fiscales municipales y estatales;
+
+d).- Que se cuente con una manifestación de impacto urbano o rural, en términos de lo establecido por el Artículo 348 del presente Código;
+
+e).- Que no se modifique el trazo y dimensiones de las vías públicas previamente autorizadas; y
+
+f).- Que no disminuya el área de donación determinada por el Ayuntamiento.
+
+Sólo se autorizará el 10% de relotificaciones de predios con respecto al total de lotes aprobados originalmente en los fraccionamientos, siempre y cuando no se sature o afecten las instalaciones señaladas en el inciso b) de este Artículo y que dicha relotificación no rebase el 12% de lotes previamente autorizados en una manzana.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 351.
 
-Las solicitudes de relotificación deberán ser presentadas por escrito, acompañadas de los planos y estudios correspondientes. Asimismo, deberá anexarse a la solicitud, la propuesta del plano general de lotificación del fraccionamiento, que contenga las modificaciones derivadas de la relotificación.
+Las solicitudes de relotificación se presentarán por escrito, acompañadas de los planos y estudios correspondientes. Además se anexará a la solicitud, la propuesta del plano general de lotificación y memorias descriptivas de los lotes del fraccionamiento, que contenga las modificaciones derivadas de la relotificación.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-Se deberá remitir a la SEPLADE, al Registro Público de la Propiedad y al Catastro copia del plano autorizado que contenga la relotificación.
+Se deberá remitir a la SEPLADE, al Registro Público de la Propiedad y a la autoridad catastral competente, copia del plano general de lotificación y memorias descriptivas de los lotes del fraccionamiento autorizadas que contenga la relotificación.
 
 ###### ARTICULO 352.
 
@@ -4005,51 +4435,107 @@ III.- Las que se ubiquen dentro de terrenos rurales que no sean de origen comuna
 
 IV.- Las que estén relacionadas con un presente o futuro asentamiento humano.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 353.
 
 Se entiende por fusión de áreas o predios, la unión de dos o más terrenos colindantes para formar uno solo.
 
-Para realizar una fusión de terrenos urbanos o rústicos se requerirá la autorización del Ayuntamiento respectivo, conforme a lo dispuesto por este Código.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 354.
 
-Se entiende por subdivisión de áreas o predios urbanos, la partición de un terreno ubicado dentro de los límites de un centro de población, en dos o más fracciones que no requiera el trazo de una o más vías públicas.
+Se entiende por subdivisión de áreas o predios urbanos, la partición de un terreno ubicado dentro de los límites de un centro de población, en dos o mas fracciones, que no requiera de una o más vías públicas, ni la presentación de una manifestación de impacto urbano y/o rural, independientemente de la calidad de la posesión o tenencia de la tierra.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 355.
 
-Se entiende por subdivisión de áreas o predios rústicos, la partición de un terreno en dos o más fracciones, ubicado fuera de los límites de un centro de población.
+Se entiende por subdivisión de áreas o predios rústicos, la partición de dos o más fracciones, de un terreno ubicado fuera de los límites de un centro de población o de las zonas de crecimiento de los Programas de Desarrollo Urbano.
 
 Las subdivisiones de terrenos rústicos se regirán por este Código y por la Ley Agraria.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 356.
 
 La autorización de subdivisiones deberá apegarse a los siguientes criterios:
 
-I.- Las solicitudes que se refieran a predios urbanos mayores de 5,000 m2 o de aquellos que requieran la apertura de una o más vías públicas o introducción de servicios urbanos básicos, se les dará el tratamiento correspondiente a los fraccionamientos y por ende serán autorizadas por la Comisión Estatal;
+I.- Solicitudes de Subdivisión de Predios Urbanos:
 
-II.- No se autorizará la subdivisión cuando ésta dé como resultado una fracción menor al lote tipo del fraccionamiento al cual corresponda, o a la zona establecida en los programas de desarrollo urbano;
+a).- Las solicitudes que se refieran a predios urbanos mayores de 5,000 metros cuadrados o de aquellos que requieran la apertura de una o más vías públicas o introducción de servicios urbanos básicos, se les dará el tratamiento correspondiente a los fraccionamientos y por ende serán autorizadas por la Comisión, salvo lo dispuesto en Artículo 356 BIS del presente Código;
 
-III.- En ningún caso el frente será menor de 6 metros y la superficie menor de 90 m2;
+b).- No se autorizará la subdivisión cuando ésta dé como resultado una o más fracciones menores al lote tipo del fraccionamiento al cual corresponda, o a la zona establecida en los programas o esquemas de desarrollo urbano;
 
-IV.- En el centro de las ciudades o localidades del Estado, el Ayuntamiento respectivo establecerá los requisitos mínimos, procurando guardar la armonía y la imagen urbana de los centros de población;
+c).- En ningún caso, para uso habitacional, el frente será menor de 6 metros y la superficie menor de 90 metros cuadrados;
 
-V.- Cuando alguno de los lotes no tenga acceso directo a una vía pública autorizada y se proponga la apertura de un paso de servicios, éste no será inferior a 8.00 metros de ancho ni superior a 150 metros de largo. Se permitirán pasos de servicios hasta de 6.00 metros de ancho cuando su longitud sea menor de 70 metros;
+d).- En el centro de las ciudades o localidades del Estado, el Ayuntamiento respectivo establecerá los requisitos mínimos para mantener la armonía y la imagen urbana de los centros de población;
 
-VI.- Los predios suburbanos para uso agropecuario, podrán subdividirse siempre y cuando las fracciones resultantes sean de mínimo 10,000 M2; y
+e).- Cuando alguno de los lotes no tenga acceso directo a una vía pública autorizada, deberá tener mínimo un paso de servicios, mismo que no será inferior a 8.00 metros de ancho, más 2 metros a cada lado, como restricción para construcción, ni podrá ser superior a 100 metros de largo. Se permitirán pasos de servicios hasta de 6.00 metros de ancho, más 2 metros a cada lado como restricción para construcción, cuando su longitud sea menor de 50 metros; y
 
-VII.- Tratándose de lotes comerciales o de servicios, sus dimensiones podrán ser menores atendiendo a las características de la zona y al giro que pretenda dedicarse el predio. En cualquier caso deberá contar con el espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural.
+f).- Sólo se autorizará el 10% de subdivisiones de predios con respecto al total de lotes autorizados originalmente, en los fraccionamientos, colonias o barrios habitacionales urbanos, siempre y cuando no se sature o afecte la capacidad instalada, en cuanto al equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y electricidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+II.-Solicitudes de Subdivisión de Predios Rústicos y Suburbanos:
+
+a).- En predios rústicos y suburbanos, las fracciones resultantes serán como mínimo de 10,000 metros cuadrados siempre y cuando exista una servidumbre o camino parcelario de por medio registrado ante la autoridad competente, debiendo incluir un levantamiento topográfico que indique las características del camino y su ubicación;
+
+b).- Sólo se permitirá la construcción relacionada con el uso de suelo autorizado, con los coeficientes de ocupación y de utilización aprobados en el programa de desarrollo urbano correspondiente; y
+
+c).- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública o camino legalmente constituido que en ningún caso se aceptará en una sección o anchura menor a 12 metros.
+
+III.- Tratándose de subdivisiones de predios para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 50 metros cuadrados y su frente deberá tener como mínimo 5 metros, para estos casos se deberá dotar de cajones de estacionamiento para giros diferentes al comercio inmediato. En cualquier caso deberá contar con el espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural y la disposición de cajones de estacionamiento dentro del predio conforme al reglamento de construcción municipal correspondiente; y
+
+IV.- En predios dentro de zonas de preservación ecológica o zonas protegidas las fracciones resultantes serán como mínimo de 50,000 metros cuadrados.
+
+En estos predios se permitirá la construcción habitacional o comercial de acuerdo a lo siguiente:
+
+a).- Que el porcentaje de construcción máxima para fines habitacionales o comerciales no deberá ser mayor del 2% de la superficie de cada fracción. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública o camino legalmente constituido que en ningún caso se aceptará en una sección o anchura menor a 12 metros;
+
+b).- Que exista una servidumbre o camino parcelario de por medio, registrado ante la autoridad competente, debiendo incluir un levantamiento topográfico georeferenciado que indique las características del camino y su ubicación;
+
+c).- Que las autoridades competentes en materia ambiental determinen que es viable la construcción; y
+
+d).- Que una vez reunidos los requisitos a que se refiere esta Fracción, el Ayuntamiento, tomando en cuenta las opiniones de las autoridades involucradas, emita la autorización respectiva.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 356 BIS.- Tratándose de zonas urbanas consolidadas, mismas que serán definidas y delimitadas por los Ayuntamientos respectivos dentro de sus programas de desarrollo urbano de centros de población, se podrá autorizar la subdivisión de predios urbanos hasta los 10,000 metros cuadrados, aunque éstos requieran la introducción de servicios urbanos básicos o el trazo de una o más vías públicas.
+
+En el caso previsto en el párrafo que antecede, el propietario del predio que se vaya a subdividir estará obligado a lo siguiente:
+
+I.- Otorgar donación al Ayuntamiento respectivo en el porcentaje que corresponda a la clasificación de la zona en que se sitúe el predio;
+
+II.- Cumplir con lo establecido en el Artículo 278 BIS, en caso de situarse en el supuesto;
+
+III.- Otorgar garantía ante la Secretaría de Finanzas o Tesorería Municipal respectiva, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y cumplirá con todas las obligaciones derivadas y señaladas en la autorización de subdivisión.
+
+La forma y condiciones en que deberá otorgarse la garantía, serán las mismas a las (sic) que establece el Artículo 452 de este Código;
+
+IV- Obtener licencia de construcción para el fin de ejecutar las obras de urbanización necesarias.
+
+Será requisito para que se le expida la licencia de construcción por parte del Ayuntamiento, el haber cumplido con la obligación indicada en la Fracción anterior; y
+
+V- Para el efecto de que se municipalicen las subdivisiones, su propietario deberá cumplir la normatividad señalada para los fraccionadores, dentro del presente Código.
+
+A toda situación no prevista en el presente Artículo, le será aplicable la normatividad señalada para los fraccionamientos.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 357.
 
-El Ayuntamiento, de conformidad con los criterios que fije la Comisión Estatal, podrá autorizar subdivisiones de terrenos urbanos mayores de 5,000 m2, cuando éstas se deriven de afectaciones para la realización de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda. En este caso se requerirá el visto bueno de la SEPLADE.
+El Ayuntamiento, de conformidad con los criterios que fije la Comisión Estatal, podrá autorizar subdivisiones de terrenos urbanos mayores de 5,000 metros cuadrados, cuando éstas se deriven de afectaciones para la realización de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda y que estén apegados a lo establecido en los programas o esquemas de desarrollo. En este caso se requerirá la aprobación de la SEPLADE, misma que se requerirá para la apertura de cuentas catastrales y la inscripción de los actos jurídicos correspondientes ante el Registro Público de la Propiedad y del Comercio del Estado.
 
-Asimismo, en las rancherías o poblaciones rurales podrán autorizarse subdivisiones de predios rústicos mayores de 5,000 m2, con el objeto de obtener solares para casa-habitación, previos los estudios técnicos que para tal efecto realice el Ayuntamiento.
+En las rancherías o poblaciones rurales podrán autorizarse subdivisiones de predios rústicos, con el objeto de obtener solares para casa - habitación, cuyos lotes no podrán ser inferiores a 200 metros cuadrados, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+a).- Se deberán realizar estudios técnicos que para tal efecto solicite el Ayuntamiento, o bien realice con cargo al particular; mismos que deberán incluir las factibilidades de energía eléctrica, alumbrado público, agua y drenaje y el dictamen del equipamiento existente, con la finalidad de detectar si se requiere área de donación. La introducción de servicios será por cuenta del solicitante, dentro del plazo que le determine el Ayuntamiento correspondiente;
 
-En el caso a que se refieren los párrafos anteriores, el Ayuntamiento remitirá una copia de la autorización de subdivisión a la SEPLADE.
+b).- No podrá autorizarse la subdivisión en caso que el predio que se pretende subdividir afecte el trazo de vialidades proyectadas, a menos que el área afectada sea donada al Municipio; y
+
+c).- En caso que la subdivisión implique más de cuatro porciones, el solicitante deberá presentar una exposición en la que manifieste los motivos por los que se pretende subdividir el predio; el Ayuntamiento verificará los antecedentes históricos de la subdivisión del predio, asimismo para el caso de que se detecte que los predios a subdividirse pretendan comercializar públicamente se le dará el tratamiento de fraccionamiento.
+
+En el caso a que se refieren los párrafos anteriores, el Ayuntamiento remitirá una copia de la autorización de subdivisión a la SEPLADE y a la autoridad catastral y agraria correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 358.
 
@@ -4061,37 +4547,59 @@ II.- Datos de las áreas o predios;
 
 III.- Constancia de propiedad;
 
-IV.- Constancia de no adeudo del impuesto a la propiedad raíz y clave catastral de los predios;
+IV.- Copia de la última Manifestación de Predio;
 
-V.- Croquis del terreno o de los terrenos con acotaciones en centímetros y señalando la orientación de los mismos y sus colindancias;
+V- Constancia de no adeudo del impuesto a la propiedad raíz y clave catastral de los predios;
 
-VI.- Croquis de la fusión o subdivisión que se pretenda realizar;
+VI.- Plano del terreno o de los terrenos con acotaciones en centímetros y señalando la orientación de los mismos y sus colindancias, georeferenciado con coordenadas UTM.
 
-VII.- Constancia de compatibilidad urbanística;
+El Ayuntamiento podrá aceptar dicho plano sin coordenadas UTM, cuando las colindancias estén Claramente definidas;
 
-VIII.- Uso o destino actual y el propuesto del inmueble o inmuebles; y
+VII.- Plano de la fusión o subdivisión que se pretenda realizar georeferenciado con coordenadas UTM.
 
-IX.- Características de la urbanización del terreno o terrenos.
+El Ayuntamiento podrá aceptar dicho plano sin coordenadas UTM, cuando las colindancias estén claramente definidas;
+
+VIII.- Constancia de compatibilidad urbanística;
+
+IX.- (DEROGADA, P.O. 14 DE AGOSTO DE 2006)
+
+X.- Características de la urbanización del terreno o terrenos;
+
+XI.- En el caso de un predio rústico, también deberá ir acompañada de un Levantamiento Topográfico Catastral; y
+
+XII.- Factibilidad de servicios.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 359.
 
-Podrán solicitar fusiones o subdivisiones de terrenos, las personas físicas o morales, públicas o privadas, que acrediten ser las legítimas propietarias de los inmuebles objeto de la solicitud.
+Podrán solicitar fusiones o subdivisiones de terrenos, las personas físicas o morales, públicas o privadas, que acrediten ser las legitimas propietarias de los inmuebles objeto de la solicitud.
+
+Tratándose de la solicitud de subdivisión de terrenos, deberá presentarse certificado de libertad de gravamen de los mismos, con una antigüedad no mayor a 30 días anteriores a la fecha de la solicitud, en caso de que el inmueble tenga algún gravamen deberá asentarse en la autorización respectiva.
+
+En los casos de solicitudes para la fusión de dos o más predios, sólo procederán cuando sean propiedad de una sola persona o un grupo de copropietarios y que el uso de suelo sea el mismo para todos los predios que se pretendan fusionar, de conformidad con el programa de desarrollo urbano correspondiente y la vocación de uso determinada en la autorización del desarrollo en cuestión.
+
+En los condominios no se permitirá subdividir ni fusionar los predios.
 
 ###### ARTICULO 360.
 
 Cuando el Ayuntamiento lo considere necesario, requerirá del interesado que acompañe a las solicitudes de relotificación, fusión y subdivisión, las correspondientes diligencias judiciales o administrativas de apeo y deslinde y de posesión del predio correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 361.
 
-El Ayuntamiento podrá negar la autorización de relotificaciones, fusiones y subdivisiones de áreas y predios, cuando en el fraccionamiento o zonas en que se pretendan realizar, no se cuente con la suficiente y adecuada cobertura de equipamiento, infraestructura y servicios urbanos.
+El Ayuntamiento podrá negar la autorización de relotificaciones, fusiones y subdivisiones de áreas y predios, cuando en el fraccionamiento o zonas en que se pretendan realizar, no se cuente con los Dictámenes de Factibilidad de Agua, Alcantarillado y Electricidad otorgados por los organismos rectores.
 
 ###### ARTICULO 362.
 
 Los derechos y demás gravámenes fiscales que deban cubrirse por las solicitudes de relotificación, fusión, subdivisión, alineamiento y compatibilidad urbanística, serán fijados de acuerdo a lo previsto en las leyes fiscales correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 363.
 
-La fusión o la subdivisión de áreas y predios no podrán realizarse cuando obstruyan o impidan una servidumbre o un servicio público. Será nulo de pleno derecho cualquier acto, contrato o convenio contrario a esta disposición.
+La fusión o la subdivisión de áreas y predios no se autorizarán cuando obstruyan o impidan una servidumbre o un servicio público. Será nulo de pleno derecho cualquier acto, contrato o convenio contrario a esta disposición.
 
 ###### ARTICULO 364.
 
@@ -4100,6 +4608,14 @@ El Ayuntamiento o la autoridad competente, sólo autorizará la construcción en
 ###### ARTICULO 365.
 
 A efecto de determinar los lineamientos y criterios que se aplicarán para la autorización de las fusiones y subdivisiones, en los fraccionamientos, barrios y colonias existentes en el territorio del Estado, los Ayuntamientos respectivos se coordinarán con la Secretaría de Finanzas del Estado o de los Municipios, con el fin de establecer una clasificación de los mismos.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 365 BIS.- Toda fusión o subdivisión de predios deberá protocolizarse mediante escritura pública, en un plazo no mayor a tres años contados a partir de su autorización, debiéndose notificar dicha protocolización al Ayuntamiento, en caso contrario quedará sin efectos dicha autorización.
+
+Asimismo el Ayuntamiento deberá presentar ante la Dirección General de Catastro del Estado, las manifestaciones de predio correspondientes a cada una de las fracciones resultantes de una subdivisión o la manifestación de predio del terreno resultante de una fusión.
+
+En caso que el Ayuntamiento tenga conocimiento de que existe una discontinuidad geológica en los predios que se pretendan fusionar o subdividir, deberá referirlo en la autorización respectiva.
 
 ## TITULO SEPTIMO. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -4441,151 +4957,157 @@ Si al término de tres meses contados a partir de la fecha del acuerdo respectiv
 
 En caso de ruina del bien de que se trate, una mayoría de los condóminos que representen el 51% de los derechos de propiedad podrá resolver, previo dictamen de las autoridades competentes, la reconstrucción o la demolición de los bienes comunes, o en su caso, la venta, según las prevenciones del artículo anterior.
 
-## TITULO OCTAVO. DE LAS DISPOSICIONES COMUNES A FRACCIONAMIENTOS Y CONDOMINIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2006)</small>
+
+## TITULO OCTAVO. DE LAS DISPOSICIONES COMUNES A FRACCIONAMIENTOS, DESARROLLOS ESPECIALES Y CONDOMINIOS
 
 ### CAPITULO II. De la Urbanización y Prestación de Servicios
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 411.
 
 La autorización de las solicitudes de fraccionamientos y para la constitución o extinción del régimen de propiedad en condominio cuando éste cuente con 50 o más viviendas, departamentos, locales, o una superficie mayor a 10,000 m2, será facultad exclusiva de la Comisión Estatal.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 412.
 
-La autorización para modificar el régimen de propiedad en condominio o constituirlo en terrenos menores de 10,000 M2, o con menos de 50 departamentos, locales o viviendas compete a la SEPLADE.
+La autorización para modificar el régimen de propiedad en condominio o constituirlo en terrenos menores de 10,000 metros cuadrados, o con menos de 50 departamentos, locales o viviendas, así como de los desarrollos especiales compete a la SEPLADE.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+ARTICULO 412 BIS.- Para los efectos del presente Código se entiende por desarrollo especial el aprovechamiento de un inmueble mediante la edificación de locales o determinadas construcciones con la posibilidad de trazar vialidades internas, sin que existan propiedades públicas, así como espacios comunes sujetos a la copropiedad.
+
+Quien promueva este tipo de desarrollos deberá cumplir los requisitos que señala este Código para los fraccionamientos, asimismo deberá ser validado, en cuanto a su competencia, por los Ayuntamientos involucrados donde se llevará a cabo el desarrollo especial.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 413.
 
-La Comisión Estatal o la SEPLADE autorizarán un fraccionamiento o condominio siguiendo las formalidades establecidas por el presente Código, una vez satisfechos todos los requisitos legales por parte del promovente y cubiertas las obligaciones fiscales que correspondan.
+La Comisión Estatal o la SEPLADE autorizarán un fraccionamiento, desarrollo especial o condominio siguiendo las formalidades establecidas por el presente Código, una vez satisfechos todos los requisitos legales por parte del promovente y cubiertas las obligaciones fiscales que correspondan.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 414.
 
-Será requisito para la autorización de un fraccionamiento o condominio que el promovente o propietario haya cumplido estrictamente con todas las especificaciones técnicas, jurídicas y fiscales en los fraccionamientos, condominios o desarrollos que se le hubieren autorizado con anterioridad. Asimismo, que posea solvencia moral y económica de tal manera que garantice la ejecución correcta del proyecto.
+Será requisito para la autorización de un fraccionamiento, desarrollo especial o condominio que el promovente o propietario haya cumplido estrictamente con todas las especificaciones técnicas, jurídicas y fiscales en los fraccionamientos, condominios o desarrollos especiales que se le hubieren autorizado con anterioridad.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 415.
 
-La solicitud para la autorización de fraccionamiento, así como para la constitución, extinción o modificación del régimen de propiedad en condominio, deberá presentarse por escrito ante la SEPLADE.
+La solicitud para la autorización de un fraccionamiento, así como para la constitución, extinción o modificación del régimen de propiedad en condominio, y desarrollo especial deberá presentarse por escrito ante la SEPLADE.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 416.
 
-La solicitud a que se refiere el artículo anterior, deberá ser acompañada de los siguientes documentos:
+La solicitud a que se refiere el Artículo anterior, deberá ser acompañada de los siguientes documentos:
 
 I.- Copia certificada de las escrituras de propiedad debidamente inscritas en el Registro Público de la Propiedad y del Comercio;
 
-II.- Constancia de apeo y deslinde;
+II.- Copia certificada del acta constitutiva de la empresa fraccionadora o inmobiliaria, inscrita en el Registro Público de la Propiedad y del Comercio, cuando se trate de persona moral;
 
-III.- Constancia que acredite al perito como responsable de la obra;
+III.- Constancia de compatibilidad urbanística;
 
-IV.- Copia certificada del acta constitutiva de la empresa fraccionadora o inmobiliaria, inscrita en el Registro Público de la Propiedad y del Comercio, cuando se trate de persona moral;
+IV.- Dictamen en materia de impacto ambiental;
 
-V.- Constancias de compatibilidad urbanística y de impacto ambiental;
+V.- Manifestación de impacto urbano y/o rural;
 
-VI.- Los siguientes documentos técnicos:
+VI.- Levantamiento topográfico catastral, en coordenadas UTM;
 
-1) Plano de conjunto a escala 1:5,000 que contenga las ligas del fraccionamiento o predio, con otras zonas urbanizadas;
+VII.- Los siguientes documentos técnicos:
 
-2) Plano topográfico del terreno destinado al fraccionamiento o condominio, a escala 1:1,000 que contenga:
+1).- Plano de conjunto a escala 1:5,000 que con tenga las ligas del fraccionamiento o predio, con otras zonas urbanizadas;
 
-a) El polígono o polígonos: indicando sus medidas y colindancias, así como las longitudes de los lados, sus rumbos y los ángulos inferiores en los vértices;
+2).- Plano topográfico del terreno destinado al fraccionamiento, desarrollo habitacional o condominio, a escala 1:1,000, que contenga:
 
-b) La configuración del terreno con curvas de nivel a cada metro; y
+a).- El polígono o polígonos: indicando sus medidas y colindancias, así como, las longitudes de los lados, sus rumbos y los ángulos inferiores en los vértices;
 
-c) La superficie total del terreno o terrenos.
+b).- La configuración del terreno con curvas de nivel a cada metro; y
 
-3) Plano de vialidad a escala 1:1,000, marcando:
+c).- La superficie total del terreno o terrenos.
 
-a) El trazo de los ejes de las vías públicas referido geométricamente a los linderos del terreno;
+3).- Plano de vialidad a escala 1:1,000, marcando el trazo de los ejes de las vías públicas referido geométricamente a los linderos del terreno;
 
-b) Los ángulos de intersección de los ejes;
+4).- Plano de la red de agua potable, en el que se indique:
 
-c) Distancia entre los ejes; y
+a).- Localización de la fuente de abastecimiento o punto de conexión a la red municipal; y
 
-d) Las secciones transversales a escala 1:200 de las calles o vialidades;
+b).- Localización, altura y capacidad del tanque de regulación.
 
-4) Memoria de cálculo y plano de la red de agua potable, en el que se indique:
+5).- Plano de escurrimientos de aguas pluviales, que demuestre que dichas aguas podrán ser desalojadas sin ocasionar problemas a terrenos, edificaciones y fraccionamientos aguas abajo, y que no obstruyan escurrimientos de terrenos, edificaciones y fraccionamientos ubicados aguas arriba;
 
-a) Localización de la fuente de abastecimiento;
+6).- Plano de la red de alcantarillado, que indique localización de la descarga o descargas;
 
-b) Localización, altura y capacidad del tanque de regularización;
+7).- Plano de electrificación y alumbrado público;
 
-c) Tipo de material, diámetro y longitud de tuberías; y
+8).- Estudio geológico y/o geofísico para la detección de posibles discontinuidades geológicas activas o potencialmente activas, el cual definirá la necesidad o no de monitoreo, avalado por el perito especializado;
 
-d) Cota de plantilla, cota piezométrica y carga disponible en los cruceros;
+9).- Plano de reutilización de las aguas grises y de lluvia para el caso de condominios horizontales mayores a 5000 metros cuadrados y fraccionamientos tipo medio, residenciales e industriales, cuando así lo determine el Ayuntamiento; y
 
-5) Autorización de la Secretaría de Agricultura y Recursos Hidráulicos y del Ayuntamiento, respecto al aprovechamiento de la fuente de abastecimiento de agua potable;
+10).- Dictamen emitido por la Comisión Nacional del Agua de que no se invaden zonas inundables.
 
-6) Memoria de cálculo y plano de la red de alcantarillado, en el que se indique:
+VIII.- Factibilidades Técnicas de Agua Potable y Alcantarillado, así como de Suministro de Energía Eléctrica;
 
-a) Tipo de material, diámetros, longitudes y pendientes de tuberías;
+IX.- Factibilidad con el Sistema Estatal de Planeación, expedida por SEPLADE;
 
-b) Pozos de visita, con detalle de dimensiones;
+X.- Carta de liberación de cumplimiento de obligaciones anteriores y adecuada ejecución de las obras concluidas o en proceso, imputables a éste, expedida por la SEPLADE; en caso de ser persona moral deberá exhibirse la carta de liberación de cada uno de los socios;
 
-c) Cota de plantilla y cota de terreno en los cruceros y cambios de dirección; y
+XI.- Además la solicitud deberá incluir los siguientes requisitos:
 
-d) Localización de la descarga o descargas;
+1).- Para el caso de condominios, documento que acredite la personalidad de quien constituye el régimen de propiedad en condominio;
 
-7) Memoria de cálculo y plano de electrificación y alumbrado público del fraccionamiento o condominio, en el que se indique:
+2).- Generales del compareciente: nombre, estado civil, nacionalidad, lugar de origen, profesión u oficio, domicilio, teléfono, Registro Federal de Contribuyentes, así como identificación oficial;
 
-a) Estructuras que componen la red;
+3).- Relación de todos los fraccionamientos y condominios realizados por el fraccionador o promovente;
 
-b) Tipo de cableado y especificaciones; y
+4).- Plano del departamento, casa o local tipo, en caso que el fraccionador o promovente decidan comercializarlos ya construidos;
 
-c) Especificaciones del alumbrado público.
+5).- Constancias de no adeudo del Impuesto a la Propiedad Raíz; y
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 1995)</small>
+6).- Certificado de libertad de gravamen.
 
-8).- Estudio de mecánica de suelos, en el cual se deben incluir monitoreos para la detección de posibles fallas geológicas; y
+XII.- En el caso específico de fraccionamientos, además de los anexos citados con anterioridad, el solicitante deberá incluir los siguientes documentos:
 
-9) Especificaciones para las diversas obras de urbanización, conforme a las normas correspondientes.
+1).- Plano de lotificación a escala 1:1 000 que marque lo siguiente:
 
-VII.- En el caso específico de fraccionamientos, además de los anexos citados con anterioridad, el solicitante deberá incluir los siguientes documentos:
+a).- Propuesta del nombre del fraccionamiento;
 
-1) Plano de lotificación a escala 1:1000 que marque lo siguiente:
+b).- División de manzanas y lotificación;
 
-a) División de manzanas y lotificación;
+c).- Zonificación interna, que especifique los usos de suelo, así como las restricciones federales, estatales y municipales; y
 
-b) Zonificación interna;
+d).- Áreas de donación propuestas, con pendiente natural del terreno máxima del 7%.
 
-c) Areas de donación propuesta;
+2).- Plano en el que se indique el número total de lotes del fraccionamiento, señalando además, el número de éstos en cada una de las manzanas, el lote tipo y el uso de cada uno de ellos, así como los lotes propuestos para viviendas multifamiliares; y
 
-d) Proposición de nomenclatura;
+XIII.- En el caso específico de condominios, además de los anexos correspondientes, el solicitante deberá incluir el plano de zonificación, que señale, en su caso, las áreas de donación propuestas con pendiente natural del terreno máxima del 7%, y el nombre del condominio. Asimismo tratándose de las características y especificaciones para las obras de urbanización y los anchos de vías públicas para dar acceso a las áreas de propiedad exclusiva, se deberán respetar las normas de construcción de obra pública y la sección mínima de vialidades conforme al tipo de densidad de la zona en que se ubique el condominio.
 
-e) Medidas de los linderos de los lotes y superficies de cada uno de ellos, incluyendo los de donación; y
-
-f) La localización del arbolado y las áreas verdes.
-
-2) Memoria descriptiva de lotes, indicando:
-
-a) El número total de lotes del fraccionamiento, señalando además, el número de éstos en cada una de las manzanas; y
-
-b) Medidas y colindancias de todos y cada uno de los lotes del fraccionamiento, señalando a que manzana pertenecen.
-
-En el caso específico de condominios, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale, en su caso, las áreas de donación propuestas; así como la memoria descriptiva de predios, indivisos, medidas y colindancias.
-
-Queda a juicio de la Comisión Estatal determinar cuáles documentos de los señalados en el presente Artículo, se omiten de presentación por parte de los solicitantes por no ser necesarios en el caso concreto.
+Cuando el fraccionador o promovente considere que no procede la presentación de alguno de los requisitos que se establecen en el presente Artículo, lo indicará en la solicitud, quedando a juicio de la SEPLADE la autorización para no presentarlos por no ser necesarios en el caso concreto.
 
 ###### ARTICULO 417.
 
 Recibida la solicitud será revisada para verificar que esté correctamente integrada, conforme a lo dispuesto en este Código; en caso de que falte alguno de los datos o anexos que se mencionan en el artículo anterior, la documentación será devuelta al interesado para que subsane la omisión.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 418.
 
-Una vez que se hayan cubierto los requisitos que establece el Artículo 416 de este Código, se procederá a analizar la solicitud, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
+Una vez que se hayan cubierto los requisitos que establece el Artículo 416 de este Código, la SEPLADE procederá a analizar la solicitud, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 419.
 
-El expediente del fraccionamiento o condominio, se enviará al Ayuntamiento respectivo, con objeto de que éste emita su dictamen.
+El expediente del fraccionamiento o condominio, se enviará a los Ayuntamientos involucrados, con objeto de que emitan su dictamen.
 
 Dicho dictamen deberá contener los siguientes elementos:
 
-I.- Determinación precisa de que el fraccionamiento o condominio es procedente y por ende puede someterse a la consideración de la Comisión Estatal para su análisis y aprobación en su caso;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+I.- Autorización, en cuanto a su competencia, de que el fraccionamiento o condominio es procedente y por ende pueda continuarse con el trámite;
 
 II.- Definición sobre la ubicación y superficies de los terrenos que deberán ser donados al Municipio en los porcentajes que establece el presente Código;
 
@@ -4595,9 +5117,15 @@ IV.- Requerimientos mínimos de equipamiento y servicios en las áreas de donaci
 
 V.- Establecimiento de especificaciones o características que a su juicio deban cumplirse como condicionantes para su autorización.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 420.
 
-El dictamen a que se refiere el artículo anterior, deberá ser emitido en un plazo máximo de 10 días hábiles, contados a partir de la fecha de recepción del expediente respectivo; de no obtenerse la opinión en el plazo señalado, se entenderá que el Ayuntamiento respectivo no tiene objeción a que la solicitud sea presentada a la consideración de la Comisión Estatal.
+El dictamen a que se refiere el Artículo anterior, deberá ser emitido en un plazo máximo de 15 días hábiles, contados a partir de la fecha de recepción del expediente respectivo; de no obtenerse el dictamen en el plazo señalado, se entenderá que el Ayuntamiento respectivo no tiene objeción en que se continúe con el trámite.
+
+En caso de que no se otorgue la autorización a que se refiere el párrafo anterior, el Ayuntamiento deberá justificar las razones de su negativa; en este caso el Ayuntamiento deberá notificarle a la SEPLADE y al fraccionador o promovente la resolución señalándole a éste que cuenta con 15 días hábiles para subsanar las observaciones, de no hacerlo se le informará a la SEPLADE que fue rechazada la autorización y se tendrá por no presentada la solicitud.
+
+Una vez recibida la solventación de las observaciones el Ayuntamiento informará a la SEPLADE la resolución definitiva, misma que de ser positiva se continuará con el trámite de autorización que se establece en los Artículos subsecuentes.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -4605,37 +5133,133 @@ El dictamen a que se refiere el artículo anterior, deberá ser emitido en un pl
 
 A fin de contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento o condominio, la SEPLADE solicitará, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos que se requieran incluir en el proyecto de dictamen mencionado.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+En caso que de los documentos recibidos se señale que existen discontinuidades geológicas, la SEPLADE tendrá la obligación de enviar una copia del estudio al Instituto del Agua, para que sea integrado al sistema de información de las discontinuidades geológicas detectadas.
+
 ###### ARTICULO 422.
 
 Las opiniones técnicas a que se refiere el artículo anterior, deberán ser proporcionadas en un plazo máximo de 10 días hábiles, a partir de la fecha de recepción del requerimiento respectivo.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 423.
 
-Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones técnicas mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción a que la solicitud sea presentada a la consideración de la Comisión Estatal.
+Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones técnicas mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción respecto a la solicitud. En caso de que la hubiera, la SEPLADE valorará si se suspende el trámite hasta en tanto el solicitante las subsane o se incluyen como observación dentro del proyecto de dictamen.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 424.
 
-El Ayuntamiento respectivo, habiendo emitido su dictamen, deberá remitirlo a la SEPLADE, a efecto de que ésta la incorpore al proyecto de dictamen que someterá para su consideración a la Comisión Estatal.
+Una vez que la SEPLADE determine la viabilidad de la solicitud, le informará al fraccionador o promovente para que le presente, los siguientes documentos:
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+I.- Constancia que acredite al perito como responsable de la obra;
+
+II.- Cuenta catastral única;
+
+III.- Los siguientes documentos técnicos:
+
+1).- Plano de vialidad a escala 1:1,000, marcando:
+
+a).- Los ángulos de intersección de los ejes;
+
+b).- Distancia entre los ejes; y
+
+c).- Las secciones transversales a escala 1:200 de las calles o vialidades.
+
+2).- Memoria de cálculo de la red de agua potable avalado por el organismo operador, en el que se indique:
+
+a). Tipo de material, diámetro y longitud de tuberías; y
+
+b).- Cota de plantilla, cota piezométrica y carga disponible en los cruceros.
+
+3).- Las siguientes factibilidades:
+
+a).- De suministro de energía eléctrica, por la Comisión Federal de Electricidad; y
+
+b).- De suministro de agua, de drenaje y de sistemas de reutilización del agua, por el organismo operador municipal y/o de la Comisión Nacional del Agua, cuando proceda.
+
+4).- Memoria de cálculo de la red de alcantarillado avalado por el organismo operador, en el que se indique:
+
+a).- Tipo de material, diámetros, longitudes y pendientes de tuberías;
+
+b).- Pozos de visita, con detalle de dimensiones;
+
+c).- Cota de plantilla y cota de terreno en los cruceros y cambios de dirección; y
+
+d).- Localización de la descarga o descargas.
+
+5).- Memoria de cálculo de electrificación y alumbrado público del fraccionamiento o condominio, en el que se indique:
+
+a).- Estructuras que componen la red;
+
+b).- Tipo de cableado y especificaciones; y
+
+c).- Especificaciones del alumbrado público.
+
+6).- Estudio de mecánica de suelos y diseño de pavimentos;
+
+7).- Memoria de cálculo de reutilización de las aguas grises y de lluvia, para el caso de condominios horizontales mayores de 5000 m2 y, fraccionamientos de tipo medio, residenciales o industriales, cuando así lo determine el Ayuntamiento;
+
+8).- Memoria de cálculo del proyecto de escurrimientos de aguas pluviales o aprovechamiento de las mismas;
+
+9).- Planos con especificaciones y memorias de cálculo de planta de tratamiento cuando el Ayuntamiento determine que no es factible conectarse al drenaje municipal; y
+
+10).- Especificaciones para las diversas obras de urbanización conforme a las normas correspondientes.
+
+IV.- En el caso especifico de fraccionamientos, además de los anexos citados, el solicitante deberá incluir los siguientes documentos:
+
+1).- Plano de lotificación a escala 1:1000 que señale:
+
+a).- Proposición de nomenclatura de las vialidades;
+
+b).- Medidas de los linderos de los lotes y superficies de cada uno de ellos, incluyendo los de donación;
+
+c).- La localización de las áreas verdes; y
+
+d).- Usos del suelo con cuadros de superficies y restricciones en su caso.
+
+2).- Memoria descriptiva que indique medidas y colindancias de todos los lotes del fraccionamiento, señalando a qué manzana pertenecen;
+
+V.- En el caso específico de condominios, además de los anexos correspondientes, el solicitante deberá incluir:
+
+1).- La memoria descriptiva de predios, indivisos, medidas y colindancias, que contenga los siguientes proyectos:
+
+a).- De casetas de vigilancia;
+
+b).- De bardas;
+
+c).- De construcción de áreas comunes; y
+
+d).- De fachada y de accesos.
+
+2).- Memoria descriptiva general de las especificaciones de construcción; y
+
+3).- Memoria descriptiva de la infraestructura hidráulica, debiendo cada condómino tener su toma de agua y medidor individual.
+
+Los planos y memorias de cálculo señaladas en este Artículo deberán ser avalados por el perito responsable o especializado, según corresponda.
+
+Cuando el fraccionador o promovente considere que no procede la presentación de alguno de los requisitos que se establecen en el presente Artículo, lo indicará en la solicitud, quedando a juicio de la Comisión Estatal la autorización para no presentarlos por no ser necesarios en el caso concreto.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 425.
 
-Contando con el dictamen del Ayuntamiento respectivo y de los demás organismos competentes, la SEPLADE integrará el proyecto de dictamen de la solicitud de fraccionamiento o condominio, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 10 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo.
+Contando con los requisitos que establece el Artículo anterior, así como con el dictamen del Ayuntamiento respectivo, que establezca la autorización en cuanto a su competencia, y las opiniones de los demás organismos competentes, la SEPLADE integrará el proyecto de dictamen de la solicitud de fraccionamiento o condominio, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo, si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 426.
 
-Contando en su caso con los estudios o planos corregidos conforme al proyecto de dictamen, la SEPLADE gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión de la Comisión Estatal.
+Contando en su caso, con los estudios o planos corregidos conforme al proyecto de dictamen, la SEPLADE gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión de la Comisión Estatal, debiendo enviar el proyecto de dictamen a los integrantes de la Comisión Estatal tres días previos a la sesión, para su conocimiento y análisis.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 427.
 
-La Comisión Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLADE.
+La Comisión Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLADE, una vez que hubiera sido analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
+
+En caso de ser rechazado, y de proceder las correcciones se le informará al fraccionador o promovente que cuenta con un término de treinta días hábiles para llevarlas a cabo, una vez subsanadas la SEPLADE realizará un nuevo proyecto de dictamen para que sea sometido a consideración de la Comisión Estatal en la siguiente sesión.
 
 ###### ARTICULO 428.
 
@@ -4645,11 +5269,11 @@ Toda resolución de la Comisión Estatal en materia de fraccionamientos y condom
 
 El acta de la sesión de la Comisión Estatal en la cual se autoricen fraccionamientos o condominios, será publicada por una sola vez en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 430.
 
-La SEPLADE notificará al interesado la resolución de la Comisión Estatal, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales, estatales o municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
+La SEPLADE notificará al interesado la resolución de la Comisión Estatal, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales estatales o municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización, a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización, así como a la entrega del proyecto definitivo de la Comisión Federal de Electricidad y del plano de la lotificación con las medidas físicamente reales y georeferenciada.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -4657,15 +5281,21 @@ La SEPLADE notificará al interesado la resolución de la Comisión Estatal, ind
 
 El fraccionador o promovente del condominio entregará a la SEPLADE, dentro de los 60 días naturales siguientes en que se le notificó la resolución favorable, el original y tres tantos del proyecto definitivo del fraccionamiento o condominio, conforme a los lineamientos, características y especificaciones que se deriven de este Código y de la autorización respectiva, a efecto de que le sea firmado y sellado por las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 432.
 
-Una vez autorizados el fraccionamiento o condominio, se remitirá copia de los planos definitivos de lotificación o zonificación y de la memoria descriptiva de lotes o predios al Registro Público de la Propiedad y del Comercio y al Catastro correspondiente.
+Una vez autorizados el fraccionamiento, desarrollo especial o condominio, se remitirá copia simple y digitalizada de los planos definitivos de lotificación o zonificación y de la memoria descriptiva de lotes o predios al Registro Público de la Propiedad y del Comercio y al Catastro correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+Los planos que se envíen al Catastro respectivo, deberán especificar la ubicación oficial del fraccionamiento, desarrollo especial o condominio, así como los nombres oficiales de todas las calles.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 433.
 
-Los fraccionadores o promoventes podrán ceder sus derechos y obligaciones respecto a su fraccionamiento o condominio, mediante autorización de la SEPLADE, cumpliendo con los requisitos legales conducentes.
+Los fraccionadores o promoventes podrán ceder sus derechos y obligaciones respecto a su fraccionamiento, desarrollo especial o condominio, mediante autorización de la SEPLADE, previo cumplimiento del cesionario de los requisitos legales procedentes que establece el Artículo 416 del presente Código.
+
+La SEPLADE no otorgará dicha autorización si el cesionario cuenta con antecedentes de incumplimiento, imputables a él, respecto a otros fraccionamientos, desarrollos especiales o condominios.
 
 La persona física o moral cesionaria, se subrogará en todos los derechos y obligaciones que le establecen este Código y la autorización respectiva al promovente original.
 
@@ -4673,21 +5303,23 @@ La persona física o moral cesionaria, se subrogará en todos los derechos y obl
 
 La Comisión Estatal podrá autorizar la ampliación de la superficie de un fraccionamiento o condominio, previo el cumplimiento de los requisitos legales y contando con la opinión del Ayuntamiento respectivo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 435.
 
-Cuando la solicitud de fraccionamiento o condominio haya sido rechazada se notificará al interesado los fundamentos y motivos del rechazo señalándole, al mismo tiempo, que podrá interponer el recurso de revisión contemplado en la Ley del Procedimiento Administrativo del Estado o intentar la vía judicial respectiva, en un plazo máximo de 15 días hábiles, contados a partir del día siguiente a la fecha en que le haya sido notificada la resolución correspondiente.
+Cuando la solicitud de fraccionamiento o condominio, haya sido rechazada se notificará al interesado los fundamentos y motivos del rechazo, señalándole, al mismo tiempo, que podrá interponer el recurso de revisión previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 436.
 
-Los propietarios de fraccionamientos o condominios, de cualesquiera de los tipos señalados en este Código, que hayan sido ejecutados sin la previa autorización deberán solicitar la regularización de los mismos, acompañando a la solicitud la documentación que éste Código señala.
+Los propietarios de fraccionamientos, desarrollos especiales o condominios, de cualquiera de los tipos señalados en este Código, que hayan sido ejecutados sin la previa autorización deberán solicitar la regularización de los mismos, acompañando a la solicitud la documentación que este Código señala, independientemente de las sanciones a que se hagan acreedores en términos de las leyes aplicables.
 
 ### CAPITULO III. De los Derechos y Obligaciones de los Fraccionadores y Promoventes de Condominios
 
 ###### ARTICULO 437.
 
-La autorización de un fraccionamiento o condominio, según sea el caso, incluirá autorización para urbanizar los predios correspondientes. Si se trata de proyectos de desarrollos comerciales, industriales, habitacionales o de servicios, que no constituyan un fraccionamiento o un condominio, los proyectos serán aprobados por la SEPLADE o el Ayuntamiento según corresponda.
+La autorización de fraccionamientos, condominios o desarrollos especiales, incluirá la autorización para urbanizar los predios correspondientes.
 
 ###### ARTICULO 438.
 
@@ -4697,17 +5329,27 @@ I.- Urbanización inmediata: es aquella en la que el fraccionador o promovente d
 
 II.- Urbanización por etapas: es aquella que debido a la extensión, características y costo del fraccionamiento o condominio, la Comisión Estatal podrá autorizar, al fraccionador o promovente la ejecución de las obras de urbanización por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la resolución respectiva. En ningún caso, la urbanización total del fraccionamiento o condominio, podrá quedar concluida en un plazo mayor de cinco años, y las últimas etapas pueden estar ligadas a la realización diferida de ciertas infraestructuras urbanas que permitan su conexión.
 
-III.- Urbanización progresiva: es aquella en la que el fraccionador o promovente ejecutará las obras mínimas de urbanización, en el plazo y con las especificaciones que haya determinado la Comisión Estatal. Dichas obras podrán ejecutarse con la cooperación de los adquirentes de los lotes, predios, departamentos, viviendas, casas o locales.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-La urbanización progresiva se autorizará únicamente en los fraccionamientos de interés social.
+III.- Urbanización progresiva: es aquella en la que debe existir una infraestructura mínima de agua potable y drenaje en operación, así como guarniciones y banquetas.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+La infraestructura faltante que haya determinado la Comisión Estatal, deberá ser ejecutada por el fraccionador o con la cooperación de los adquirentes de los lotes de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado por la Comisión Estatal.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Este tipo de urbanización sólo se autorizará a instituciones gubernamentales o a asociaciones civiles sin fines de lucro bajo la rectoría de una institución gubernamental y únicamente en los fraccionamientos de interés social.
 
 ###### ARTICULO 439.
 
 El fraccionador o promovente ejecutará las obras de urbanización del fraccionamiento o condominio, conforme a las características, especificaciones, temporalidad y calidad que le establecen este Código y el proyecto definitivo aprobado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 440.
 
-Obtenida la autorización del fraccionamiento o condominio, el propietario del mismo contará con un plazo de 2 años para iniciar las obras de urbanización, contados a partir del día siguiente a la fecha en que se notifique dicha autorización; si vencido el plazo no se han iniciado dichas obras, se podrá conceder una prórroga por una única vez.
+Obtenida la autorización del fraccionamiento, condominio o desarrollo especial, el propietario del mismo contará con un plazo de 2 años para iniciar las obras de urbanización, contado a partir del día siguiente a la fecha en que se notifique dicha autorización, si vencido el plazo no se han iniciado dichas obras; se podrá conceder una prórroga por única vez, en términos del Artículo 459 del presente Código.
 
 La autorización concedida se revocará al vencimiento del plazo definitivo.
 
@@ -4735,15 +5377,23 @@ El fraccionador o promovente solicitará por escrito a la SEPLADE la autorizaci�
 
 La SEPLADE autorizará el inicio total o parcial de las obras de urbanización, cuando el fraccionador o promovente haya cumplido con las obligaciones que le señala el Artículo 474 de este Código, y las demás que le hubiere establecido la resolución de fraccionamiento o condominio correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 446.
 
-La SEPLADE deberá realizar la supervisión de la ejecución de las obras de urbanización que realicen los fraccionadores o promoventes, a efecto de verificar que se cumpla con las especificaciones y características autorizadas en el proyecto definitivo del fraccionamiento o condominio.
+La supervisión que se realice en la construcción de fraccionamientos, condominios y desarrollos especiales constará de las siguientes partes:
+
+a).- SUPERVISION DE COMPATIBILIDAD DE PROYECTO: La que realizará la SEPLADE y que consistirá en que las obras sean compatibles al proyecto autorizado; y
+
+b).- SUPERVISION DE OBRA: La que lleven a cabo los Ayuntamientos respecto a la calidad de los materiales, obras y servicios realizados.
+
+Si a petición de los Ayuntamientos y previo convenio con éstos, la SEPLADE realiza la supervisión de obra, ésta asumirá las funciones que señala el presente Código con respecto a dicha función y que le corresponden originalmente al Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 447.
 
-El fraccionador o promovente contará con un plazo de 60 días naturales siguientes a la fecha en que se le notifique la autorización de fraccionamiento o condominio, para enterar las obligaciones fiscales que correspondan.
+El fraccionador o promovente contará con el plazo que le indiquen las leyes de ingresos estatal o municipales, según sea el caso, para enterar las obligaciones fiscales que correspondan, en su defecto deberán enterarlas antes de que inicien los trabajos de urbanización autorizados para el fraccionamiento, desarrollo especial o condominio.
 
 En el caso de haberse autorizado la urbanización por etapas, las obligaciones fiscales se fijarán y cubrirán por cada una de éstas, tomando como base el presupuesto actualizado de las obras de urbanización de la etapa correspondiente.
 
@@ -4755,37 +5405,39 @@ El fraccionador o promovente atenderá las indicaciones que se deriven de la cor
 
 Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, deberá el fraccionador o promovente, proponerlas por escrito ante la SEPLADE, quien con el dictamen del Ayuntamiento resolverá según proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 449.
 
-El fraccionador o promovente realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas por la SEPLADE o el Ayuntamiento, a efecto de garantizar la buena calidad de las obras.
+El fraccionador o promovente realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas por el Ayuntamiento, a efecto de garantizar la buena calidad de las obras.
 
 Los originales de los reportes de laboratorio, correspondientes a las pruebas mencionadas en el párrafo anterior, deberán anexarse a la bitácora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 450.
 
-El fraccionador o promovente entregará a la SEPLADE y al Ayuntamiento informes mensuales del avance físico de las obras de urbanización, con base en el proyecto definitivo y al calendario de obra autorizado.
+El fraccionador o promovente entregará al Ayuntamiento informes mensuales del avance físico de las obras de urbanización y reportes de laboratorio de control de calidad, con base en el proyecto definitivo y al calendario de obra autorizado.
 
 Asimismo, en los informes que señala el párrafo anterior, deberá hacerse mención a las correcciones que en su caso, se hayan derivado de las observaciones comunicadas al fraccionador o promovente por los supervisores autorizados; así como deberá adjuntar copia de los reportes de laboratorio que garanticen la calidad de los materiales empleados, durante el período correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 451.
 
-El fraccionador o promovente mantendrá en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por la SEPLADE hasta la conclusión total de las obras de urbanización.
+El fraccionador o promovente mantendrá en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por el Ayuntamiento hasta la conclusión total de las obras de urbanización.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 452.
 
-Dentro de los 60 días siguientes a la autorización del fraccionamiento o del condominio, el fraccionador o promovente deberá constituir garantía ante la Tesorería Municipal respectiva, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y cumplirá con todas y cada una de las obligaciones que asumió conforme a este Código y la resolución correspondiente de la Comisión Estatal. Dicha garantía podrá consistir a juicio del Ayuntamiento, en:
+Dentro de los 60 días siguientes a la autorización del fraccionamiento o del condominio, el fraccionador o promovente, deberá constituir garantía ante la Secretaría de Finanzas o Tesorería Municipal respectiva, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y cumplirá con todas y cada una de las obligaciones que asumió conforme a este Código y la resolución correspondiente de la Comisión Estatal. Dicha garantía podrá consistir a juicio del Ayuntamiento, en:
 
-I.- Fianza expedida por compañía autorizada, con valor del 25% del presupuesto total de las obras de urbanización;
+I.- Fianza expedida por compañía autorizada, con valor del 40% del presupuesto total de las obras de urbanización;
 
-II.- Hipoteca de inmueble distinto a los predios por fraccionar, o a los que queden sujetos al régimen de propiedad en condominio, que cubran el valor amparado por la fianza señalada en el inciso anterior; o
+II.- Hipoteca de inmuebles que cubran el valor amparado por la fianza señalada en el inciso anterior, sin que exista la posibilidad de que se ejerzan actos de dominio respecto de dichos bienes, hasta en tanto no se cancele la garantía correspondiente; o
 
-III.- Depósito en efectivo por el 10% del presupuesto total de las obras de urbanización.
+III.- Depósito en efectivo por el 15% del presupuesto total de las obras de urbanízación.
 
 ###### ARTICULO 453.
 
@@ -4803,15 +5455,19 @@ Tratándose de condominio en que se haya cancelado dicha garantía, la administr
 
 La asamblea de condóminos acordará las medidas y lineamientos conducentes, a efecto de que la administración del condominio cumpla con lo dispuesto en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 456.
 
-El Ayuntamiento respectivo deberá hacer efectivas las garantías a que se refiere este Código, cuando el fraccionador o promovente:
+El Ayuntamiento respectivo deberá hacer efectivas las garantías a que se refiere este Código, cuando el fraccionador o promovente hubiera incurrido en cualquiera de los siguientes supuestos:
 
 I.- No cumpla con el calendario de obra autorizado;
 
 II.- No se apegue a las especificaciones y características de las obras señaladas en este Código y en la autorización respectiva;
 
-III.- No acate las observaciones que las autoridades competentes le hagan, con motivo de la supervisión realizada durante la ejecución de las obras; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+III.- No acate las observaciones que las autoridades competentes le hagan, con motivo de la supervisión realizada durante la ejecución de las obras; o
 
 IV.- Deje de prestar suficiente y adecuadamente los servicios a que está obligado por este Código.
 
@@ -4821,25 +5477,33 @@ El Ayuntamiento, con los recursos derivados de las garantías, ejecutará direct
 
 En el caso de que dichos recursos sean insuficientes para ejecutar las obras de urbanización, el fraccionador o promovente estará obligado a sufragar los recursos que sean necesarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Si el Ayuntamiento ejecuta las obras de urbanización que se refieren en el primer párrafo con recursos propios, por ser insuficientes las garantías, los gastos que se deriven se harán efectivos como si se trataran de créditos fiscales, en términos de la legislación fiscal aplicable.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+Lo anterior, independientemente de la imposición de las sanciones administrativas correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 458.
 
-La SEPLADE deberá formular un dictamen técnico, previo a que se hagan efectivas las garantías de las obras de urbanización, a fin de fundamentar que el fraccionador o promovente incurrió en lo señalado en el Artículo 456 de este Código.
+La autoridad que supervise la calidad de las obras y la SEPLADE en lo concerniente a la ejecución del proyecto deberán formular un dictamen técnico, previo a que se hagan efectivas las garantías de las obras de urbanización, a fin de fundamentar que el fraccionador o promovente incurrió en cualquiera de las situaciones señaladas en el Artículo 456 de este Código.
 
 Para tales efectos, deberá conceder audiencia al fraccionador o promovente, para que alegue lo que a su derecho convenga.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 459.
 
-En caso de que el fraccionador o promovente no realice las obras de urbanización en el plazo autorizado, podrá solicitar a la SEPLADE oportunamente y por escrito, la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso; la cual dictaminará sobre la procedencia de dicha petición.
+En caso de que el fraccionador o promovente no realice las obras de urbanización en el plazo autorizado, podrá solicitar a la SEPLADE con un mes de anticipación y por escrito la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso; el cual dictaminará sobre la procedencia de dicha petición, misma que se podrá otorgar siempre que la prórroga no exceda del 50% del plazo originalmente autorizado y que el fraccionador o promovente actualice los documentos que la SEPLADE considere convenientes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 460.
 
-Cuando el fraccionador o promovente de condominio haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto a este Código, en la legislación urbana, en los programas de desarrollo urbano o en la autorización respectiva; la SEPLADE o el Ayuntamiento podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promovente, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente.
+Cuando el fraccionador, promovente de condominio, de un predio subdividido o de un desarrollo especial, haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo establecido en este Código, en la legislación urbana, en los programas de desarrollo urbano o en la autorización respectiva; la SEPLADE o el Ayuntamiento podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar índemnización al fraccionador, promovente o desarrollador, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente, generándose a su cargo un crédito fiscal.
 
 ###### ARTICULO 461.
 
@@ -4847,25 +5511,29 @@ Cuando las obras de urbanización hayan de ejecutarse por etapas, los trabajos s
 
 Cuando en el fraccionamiento o condominio la primera etapa por urbanizar no colinde con zona urbanizada, los trabajos se iniciarán por la construcción de la calle de liga y por la conexión de los servicios públicos necesarios.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 462.
 
-Una vez concluida la totalidad de las obras de urbanización, el fraccionador o promovente solicitará por escrito a la SEPLADE, el dictamen técnico de la ejecución de dichas obras.
+Una vez concluida la totalidad de las obras de urbanización, el fraccionador o promovente solicitará por escrito al Ayuntamiento y a la SEPLADE, los dictámenes técnicos de la ejecución de dichas obras, en cuanto a la calidad de los materiales, obras y servicios realizados, así como en lo correspondiente a la compatibilidad de las obras con el proyecto autorizado, respectivamente.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 463.
 
-El dictamen técnico a que se refiere el artículo anterior, tendrá por objeto verificar que el fraccionador o promovente haya cumplido con todas las obligaciones que le señala este Código y ejecutado las obras de urbanización, conforme el proyecto definitivo del fraccionamiento o condominio autorizado.
+Los dictámenes técnicos a que se refiere el Artículo anterior, tendrán por objeto verificar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala este Código y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento, desarrollo especial o condominio autorizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 464.
 
-El dictamen técnico correspondiente será expedido conjuntamente por la SEPLADE y el Ayuntamiento, debiéndose hacer del conocimiento del fraccionador o del promovente; además, en su caso, de la asociación de colonos o de la asamblea de condóminos.
+Los dictámenes técnicos correspondientes serán expedidos por el Ayuntamiento y la SEPLADE, respectivamente, debiéndose hacer del conocimiento del fraccionador o promovente; además en su caso, de la asociación de colonos o de la asamblea de condóminos.
 
-En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el fraccionador o promovente deberá corregir a su costa, las anomalías que se desprendan de dicho dictamen, para que posteriormente solicite el dictamen definitivo.
+En el caso de que los dictámenes técnicos no apruebe (sic) la totalidad de las obras de urbanización, el fraccionador o promovente deberá corregir a su costa, las anomalías que se desprendan de dichos dictámenes, para que posteriormente solicite los dictámenes definitivos.
 
-Tratándose de condominios, el dictamen técnico a que se refiere el párrafo anterior, en ningún caso implica la municipalización del mismo, toda vez que la prestación de los servicios urbanos básicos, siempre será responsabilidad de la administración del condominio, bajo la supervisión de las autoridades competentes.
+Tratándose de condominios, los dictámenes técnicos a que se refiere el párrafo anterior, en ningún caso implica la municipalización del mismo, toda vez que la prestación de los servicios urbanos básicos, siempre será responsabilidad de la administración del condominio, bajo la supervisión de las autoridades competentes.
+
+En caso de condominios horizontales, se establece como excepción al párrafo anterior que el Sistema de Agua Potable pueda ser entregado al Ayuntamiento, previo convenio y aceptación de éste y del 80% de los condóminos.
 
 ###### ARTICULO 465.
 
@@ -4943,23 +5611,33 @@ V.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerd
 
 VI.- Iniciar en las obras de urbanización, previa autorización de la SEPLADE;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-VII.- Informar mensualmente a la SEPLADE y al Ayuntamiento del avance en la ejecución de las obras de urbanización;
+VII.- Informar mensualmente al Ayuntamiento del avance en la ejecución de las obras de urbanización;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
 VIII.- Atender las observaciones y correcciones que los supervisores autorizados por la SEPLADE o el Ayuntamiento les hagan, respecto de la ejecución de las obras de urbanización o de la prestación de los servicios que les correspondan;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-IX.- Informar por escrito a la SEPLADE respecto de cualquier irregularidad o anomalía que se suscite en el fraccionamiento o condominio;
+IX.- Informar por escrito al Ayuntamiento o a la SEPLADE, según corresponda, respecto de cualquier irregularidad o anomalía que se suscite en el fraccionamiento o condominio;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-X.- Solicitar a la SEPLADE la autorización para iniciar la promoción de venta de lotes, en el caso de fraccionamientos, así como de los departamentos, viviendas, casas, locales o áreas cuando se trate de condominios, y enajenarlos de acuerdo a las características que le establecen este Código y la autorización respectiva; y
+X.- Solicitar a la SEPLADE la autorización para iniciar la promoción de venta de lotes, en el caso de fraccionamientos, así como de los departamentos, viviendas, casas, locales o áreas cuando se trate de condominios, y enajenarlos de acuerdo a las características que le establece este Código y la autorización respectiva;
 
-XI.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XI.- Garantizar que todo adquirente de un inmueble tenga información suficiente con relación a las discontinuidades geológicas que hubiera en el predio o cercanas a éste, así como a las obligaciones y derechos que adquieran como condóminos;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XII.- Informar al adquirente de un inmueble el total de las características que tendrá el fraccionamiento o condominio aprobado por la Comisión Estatal o en su caso por la SEPLADE, así como los lotes o predios con diferentes usos del suelo que se permitirán en el mismo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XIII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 475.
 
@@ -4981,23 +5659,53 @@ IV.- Tratándose de condominios mixtos habitacionales, comerciales, industriales
 
 El fraccionador o promovente estará obligado a formalizar las donaciones a favor del Ayuntamiento correspondiente, en los lugares y superficies que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, así como a escriturar las áreas destinadas a vías públicas, áreas verdes y equipamiento urbano.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 478.
 
-El fraccionador o promovente deberá obtener previamente, por parte de la SEPLADE, la autorización respecto a la publicidad para promover la venta de lotes, o en su caso, de los predios, departamentos, viviendas, casas o locales; en caso de no hacerlo, se hará acreedor a las sanciones que establece este Código.
+El fraccionador o promovente deberá obtener previamente, por parte de la SEPLADE la autorización respecto a la publicidad y la venta de lotes, o en su caso, de los predios, departamentos, viviendas, casas o locales; en caso de no hacerlo, se hará acreedor a las sanciones que establece este Código.
+
+La SEPLADE para efecto de expedir la autorización de venta de lotes, predios, departamentos, viviendas, casas, locales o áreas según corresponda, deberá contar con reporte de la autoridad que hubiera realizado la supervisión de las obras, del que se desprenda que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente, debiendo además existir convenio con el Ayuntamiento mediante el cual el fraccionador o promovente garantice la prestación de los servicios públicos. Esta autorización podrá otorgarse por etapas.
+
+Tratándose de fraccionamientos de interés social podrá autorizarse la venta de lotes siempre que exista la infraestructura mínima de agua potable, alcantarillado, guarniciones y banquetas para delimitar los niveles de las viviendas y futuros pavimentos.
+
+En este caso, deberá existir convenio con el Ayuntamiento, en el que se especificará si éste o el fraccionador otorgarán los servicios públicos en caso de que estuviere habitado y no se hubiera municipalizado en los términos establecidos en el presente Código.
+
+Para efectos del presente Artículo y tratándose de fraccionamientos, el Ayuntamiento garantizará la prestación de los servicios, reservándose la facultad de ejercer las acciones legales convenidas en caso de incumplimiento por parte del fraccionador.
+
+Las Direcciones Generales de Catastro y Registro Público de la Propiedad y del Comercio del Estado, no procederán a realizar ningún movimiento de apertura de cuentas catastrales o traslativo de dominio, hasta en tanto no se hubiera expedido la autorización mencionada.
+
+La autorización que expida la SEPLADE para la publicidad de los mencionados bienes, no incluye las licencias o permisos que expiden los Ayuntamientos conforme a las facultades que les otorga el presente Código y su reglamentación municipal y por tanto los fraccionadores y promoventes de condominios se encuentran obligados a obtener dichas autorizaciones.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 479.
 
-Será facultad del Ayuntamiento, señalar los terrenos que le deban ser donados, de acuerdo a lo dispuesto en este Código, debiendo tomar en cuenta al realizar la selección, aquellas áreas que satisfagan de mejor forma los servicios que requieran los colonos del propio fraccionamiento o en su caso, los condóminos y la comunidad en general, y se ajusten a la zonificación respectiva.
+Será facultad del ayuntamiento, señalar los terrenos que le deban ser donados, de acuerdo a lo dispuesto en este Código, debiendo tomar en cuenta al realizar la selección, aquellas áreas que satisfagan de mejor forma los servicios que requieran los colonos del propio fraccionamiento o en su caso, los condóminos y la comunidad en general, y se ajusten a la zonificación respectiva, debiendo tener las siguientes características:
+
+I.- Pendiente máxima del terreno natural de los predios del 7%;
+
+II.- Polígonos regulares con proporción no mayor de 1:3;
+
+III.- No se permitirán predios con características irregulares;
+
+IV.- No se permitirán predios afectados por fallas geológicas, derechos federales como líneas de la Comisión Federal de Electricidad, Cuerpos de Agua, Carreteras, Poliductos, entre otros; y
+
+V.- En predios con configuración de polígonos de cuatro o más lados sólo se permitirá la colindancia con lotes en máximo dos lados y para predios de configuración triangular en un solo lado.
+
+Cuando la superficie a donar sea menor a 3000 metros cuadrados no podrá en ningún momento establecerse en forma disgregada; tratándose de superficies mayores a 3000 metros cuadrados se donarán conforme lo disponga el Ayuntamiento, debiendo uno de sus lados estar ubicado hacia una calle colectora, siempre que existan éstas en el fraccionamiento o condominio.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 480.
 
-En caso de que el fraccionamiento o condominio se ubique en la jurisdicción de dos o más municipios, las obligaciones del fraccionador o promovente, se distribuirán proporcionalmente a favor de cada uno de los Ayuntamientos.
+En caso de que el fraccionamiento, desarrollo especial o condominio, se ubique en la jurisdicción de dos o más municipios se proyectará, preferentemente una vialidad entre el límite de éstos, las obligaciones del fraccionador o promovente se distribuirán proporcionalmente a favor de cada uno de los Ayuntamientos y las áreas de donación se deberán realizar en la proporción que les corresponda a cada uno de los Municipios.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 481.
 
-El fraccionador o promovente, durante el período de ejecución de las obras de urbanización del fraccionamiento y condominio, mantendrá un residente en el lugar de las mismas, con carácter de representante debidamente autorizado, que atienda a los supervisores e inspectores en sus labores correspondientes, debiendo, el fraccionador o promovente en todos los casos, informar por escrito a la Secretaría el nombre del o los residentes que señale para tal efecto.
+El fraccionador o promovente, durante el periodo de ejecución de las obras de urbanización del fraccionamiento y condominio, mantendrá un residente en el lugar de las mismas, con carácter de representante debidamente autorizado, que atienda a los supervisores e inspectores en sus labores correspondientes, debiendo el fraccionador o promovente en todos los casos, informar por escrito al Ayuntamiento y a la SEPLADE el nombre del o los residentes que señale para tal efecto.
 
 ###### ARTICULO 482.
 
@@ -5017,11 +5725,13 @@ IV.- Prestar con eficiencia el servicio de limpia; y
 
 V.- Cuidar y conservar las áreas verdes del fraccionamiento.
 
-El fraccionador podrá repercutir equitativa y proporcionalmente entre los colonos, el costo de prestación de los servicios a que se encuentra obligado mientras no municipalice el fraccionamiento. El Ayuntamiento respectivo controlará al fraccionador en la repercusión del costo de los servicios.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 484.
 
-El Ayuntamiento corres-pondiente (sic), podrá convenir con el fraccionador, la prestación total o parcial de los servicios a que se refiere el artículo anterior, previo pago que realice el fraccionador, quien podrá repercutir éste a los adquirentes de los lotes, mientras no sea municipalizado el fraccionamiento.
+El Ayuntamiento correspondiente, podrá convenir con el fraccionador, la prestación total o parcial de los servicios a que se refiere el Artículo anterior, previo pago que realice el fraccionador.
 
 ## TITULO NOVENO. DEL FINANCIAMIENTO DEL DESARROLLO URBANO
 
@@ -6717,9 +7427,9 @@ Cuando se estén llevando a cabo construcciones en fraccionamientos, que contrav
 
 Dicho derecho se ejercerá ante las autoridades competentes, quienes oirán previamente a los interesados y en su caso a los afectados, y deberán resolver lo conducente en un término no mayor de treinta días naturales, contados a partir de la fecha de recepción del escrito correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-La SEPLADE y el Ayuntamiento respectivo, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano que contravengan lo dispuesto por este Código, así como la construcción de fraccionamientos o condominios no autorizados, ordenarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
+La SEPLADE y el Ayuntamiento respectivo, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano que contravengan lo dispuesto por este Código, así como la construcción de fraccionamientos, desarrollos especiales o condominios no autorizados, ordeñarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
 
 ###### ARTICULO 679.
 
@@ -6731,13 +7441,15 @@ II.- Que dichas obras hubieren sido aprobadas en los términos de este Código.
 
 La nulidad que establece este Artículo, será independiente de las sanciones civiles, administrativas o penales a que se hiciere acreedor el infractor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 680.
 
-La persona que ejecute alguna construcción en un inmueble, sin que previamente hayan sido aprobadas las obras de urbanización y los servicios urbanos correspondientes por la SEPLADE, se hará acreedora a las medidas de seguridad y sanciones que prevé este Código.
+La persona que ejecute alguna construcción en un inmueble, sin que previamente hayan sido aprobadas las obras de urbanización y los servicios urbanos correspondientes por la autoridad correspondiente, se hará acreedora a las medidas de seguridad y sanciones que prevé este Código.
 
-A las personas que realicen alguna obra de reparación o modificación en bienes que formen parte del patrimonio cultural del Estado, contraviniendo las disposiciones de este Código, se les ordenará la suspensión o demolición, según proceda.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+
+A las personas que realicen alguna obra de reparación o modificación en bienes que formen parte del Patrimonio Cultural del Estado, contraviniendo las disposiciones de la ley de la materia, se estará a lo dispuesto por la misma, ordenando la suspensión o demolición, según proceda, en caso de no dar cumplimiento en el término concedido para tales efectos, la autoridad competente llevará a cabo la obra de restauración con cargo al particular.
 
 Los fraccionadores o promotores de vivienda que sean sancionados por incumplimiento en las especificaciones de construcción, o en la entrega de locales, lotes o viviendas, serán boletinados a sus contrapartes en toda la República sobre las faltas cometidas y las sanciones impuestas.
 
@@ -7130,3 +7842,25 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 TERCERO.- Los reglamentos y demás disposiciones complementarias que se refieran a posiciones complementarias que se refieran a las disposiciones de la presente Ley, deberán ser modificados en un plazo no mayor de sesenta días posteriores a la entrada en vigencia de la misma.
 
 CUARTO.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, deberá ser nombrado en un plazo no mayor a sesenta días contados a partir de la publicación del presente decreto. En tanto se nombra, continuará el Secretario de Seguridad Pública, ejerciendo las funciones del Secretario Ejecutivo.
+
+P.O. 14 DE AGOSTO DE 2006.
+
+###### ARTICULO PRIMERO
+
+El presente Decreto entrará en vigencia a los treinta días hábiles contados a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Los fraccionamientos, desarrollos especiales y condominios que a la fecha de entrar en vigor este decreto se encuentren en cualquier fase de autorización o ejecución, seguirán desarrollándose observando las normas jurídicas que les dieron origen.
+
+###### ARTICULO CUARTO.
+
+Los urbanizadores que estén tramitando la autorización para fraccionamientos, desarrollos especiales o condominios, podrán optar por continuar su procedimiento o bien, presentar una nueva solicitud conforme a las disposiciones de las presentes modificaciones.
+
+###### ARTICULO QUINTO.
+
+Los Ayuntamientos del Estado en sesión de Cabildo, están obligados a definir y delimitar sus zonas urbanas consolidadas, dentro de sus respectivos programas de desarrollo urbano. Hasta en tanto no lo hagan, no se podrán expedir las autorizaciones de subdivisiones contempladas en el Artículo 356 BIS de este Código.
