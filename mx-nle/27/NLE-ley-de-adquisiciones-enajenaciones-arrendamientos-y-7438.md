@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-7438"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-19"
-last_updated: "1997-07-09"
+last_updated: "2006-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 14 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 19 de enero de 1987.
 
@@ -476,3 +478,25 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 P.O. 9 DE JULIO DE 1997.
 
 UNICO:- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2006.
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante a lo anterior, las publicaciones en Internet señaladas en los artículos 11, 27, 66, 68, 71, 80, 85, 89, 94 y 147 de esta Ley comenzarán a ser obligatorias a partir de los noventa días naturales siguientes al inicio de vigencia de este ordenamiento legal.
+
+Artículo Segundo.- Se abroga la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado de Nuevo León publicada en el Periódico Oficial del Estado de fecha 19 de Enero de 1987.
+
+Los actos y procedimientos relacionados con la enajenación, arrendamiento y gravamen de bienes del Estado, se regirán por la Ley de Administración Financiera para el Estado de Nuevo León, y las autoridades competentes aplicarán, de acuerdo a las atribuciones que les confiere la Ley Orgánica de la Administración Pública para el Estado de Nuevo León y demás disposiciones legales aplicables.
+
+Artículo Tercero.- El registro de los Proveedores que se encuentren inscritos en el Padrón que actualmente administra la Oficialía Mayor, continuará en vigor hasta el 31 de Diciembre de 2006, salvo que los Proveedores obtengan su registro en el Padrón en los términos de esta Ley antes de la fecha mencionada, en cuyo caso tendrá la vigencia de este ordenamiento.
+
+Para la renovación del registro de los Proveedores actuales, se atenderá lo dispuesto por esta Ley.
+
+Artículo Cuarto.- Los procedimientos iniciados bajo la vigencia de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado de Nuevo León que se abroga, seguirán aplicándose con la misma Ley hasta la formalización de los contratos respectivos.
+
+Artículo Quinto.- En un plazo no mayor de noventa días naturales contados a partir de la entrada en vigor de esta Ley, la Oficialía Mayor propondrá al Titular del Ejecutivo del Estado las bases internas del Comité de Adquisiciones y Servicios.
+
+En tanto se expiden las bases señaladas en el párrafo anterior, la organización y funcionamiento de este Comité, se llevará a cabo aplicando en el marco de la presente Ley, las Bases Internas del Comité para el Control de Operaciones Patrimoniales, publicada en el Periódico Oficial del Estado del 2 de Marzo de 1987.
+
+Artículo Sexto.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones legales, en cuanto no se opongan a la presente Ley.
