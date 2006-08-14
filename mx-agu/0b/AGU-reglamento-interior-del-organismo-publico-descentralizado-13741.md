@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-organismo-publico-descentralizado-13741
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-06"
-last_updated: "1998-12-06"
+last_updated: "2006-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2006.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de diciembre de 1998.
 
@@ -397,9 +397,35 @@ VIII.- Participar en el ámbito de su competencia en el desarrollo del Programa 
 
 IX.- Proporcionar la información, los datos o la cooperación técnica que le sea requerida por las unidades administrativas del Instituto de Salud y por otras dependencias y entidades de la Administración Publica Federal y Estatal, de conformidad con las políticas establecidas a este respecto;
 
-X.- Proponer a su superior jerárquico, en el ámbito de su competencia, los servicios a descentralizar, las funciones a desconcentrar y las acciones para la modernización administrativa; y
+X.- Proponer a su superior jerárquico, en el ámbito de su competencia, los servicios a descentralizar, las funciones a desconcentrar y las acciones para la modernización administrativa; y (sic)
 
-XI.- Las demás que le señales otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriben.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XI.- Ejercer la Regulación, control, vigilancia y fomento sanitarios que en términos de las disposiciones aplicables corresponden a la Secretaría en materia de Salubridad General especificadas en el ACUERDO Específico de Coordinación para el ejercicio de facultades en materia de control y fomento sanitarios, celebrado por la Secretaría de Salud, con la participación de la Comisión Federal para la Protección contra Riesgos Sanitarios, y el Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XII.- Ejercer la Regulación, control, vigilancia y fomento sanitarios que en términos de las disposiciones aplicables corresponden al Gobierno del Estado en materia de Salubridad Local y en las materias o giros establecidos en la Ley de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XIII.- Supervisar el Control Sanitario que ejerzan los Municipios, en los términos de los convenios de colaboración que se celebren y en los que en general se establezcan respecto de las materias de Salubridad General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XIV.- Realizar visitas de evaluación, verificación y supervisión para llevar a cabo la vigilancia sanitaria a los establecimientos tanto de Salubridad General como de Salubridad Local;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XV.- Realizar según corresponda, las evaluaciones, verificaciones y supervisiones sanitarias, emitir el dictamen correspondiente y sustanciar en su caso, el procedimiento respectivo por el incumplimiento de las disposiciones de la Ley, sus reglamentos y demás disposiciones administrativas de carácter general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVI.- Aplicar las medidas de seguridad y las sanciones que procedan, así como vigilar su cumplimiento, de conformidad con lo previsto por la Ley, sus Reglamentos, así como el Reglamento de la COFEPRIS, y demás disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XVII.- Las demás que le señalen otras disposiciones legales o le confiera el Director General, así como las que le competen a las Unidades Administrativas que se le adscriben.
 
 ###### ARTICULO 25.
 
@@ -455,9 +481,11 @@ VIII.- Las demás que señalen otras disposiciones legales o le confiera el Dire
 
 ### CAPITULO VII. De los Organismos Administrativos Desconcentrados
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 27.
 
-Corresponde a los Órganos Administrativos Desconcentrados:
+Corresponde a los Organismos Administrativos Desconcentrados Jurisdicciones Sanitarias:
 
 I.- Coordinar la elaboración del manual de organización y funcionamiento interno;
 
@@ -499,9 +527,35 @@ XIX.- Vigilar el cumplimiento de las políticas que en materia de comunicación 
 
 XX.- Acordar con el Director General de los asuntos a su cargo y los de las unidades administrativas adscritas a su responsabilidad;
 
-XXI.- Firmar la documentación requerida para el cumplimiento de sus funciones; y
+XXI.- Firmar la documentación requerida para el cumplimiento de sus funciones; y (sic)
 
-XXII.- Las demás que señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriban.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXII.- Ejercer las facultades establecidas en el Acuerdo específico de Coordinación para el ejercicio de facultades en materia de control y fomento sanitarios, celebrado por la Secretaría de Salud, con la participación de la Comisión Federal para la Protección contra Riesgos Sanitarios, y el Estado de Aguascalientes, publicado en el Diario Oficial el día 6 de agosto del 2004;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXIII.- Ejercer la Regulación, control, vigilancia y fomento sanitarios que en términos de las disposiciones aplicables corresponden a la Secretaría en materia de Salubridad General especificadas en el ACUERDO específico de Coordinación para el ejercicio de facultades en materia de control y fomento sanitarios, celebrado por la Secretaría de Salud, con la participación de la Comisión Federal para la Protección contra Riesgos Sanitarios, y el Estado de Aguascalientes, publicado en el Diario Oficial el día 6 de agosto del 2004;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXIV.- Ejercer la Regulación, control, vigilancia y fomento sanitarios que en términos de las disposiciones aplicables corresponden al Gobierno del Estado en materia de Salubridad Local y en las materias o giros establecidos en la Ley de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXV.- Realizar visitas de evaluación, verificación y supervisión para llevar acabo la vigilancia sanitaria a los establecimientos tanto de Salubridad General como de Salubridad Local;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXVI.- Realizar según corresponda, las evaluaciones, verificaciones y supervisiones sanitarias, emitir el dictamen correspondiente y sustanciar en su caso, el procedimiento respectivo por el incumplimiento de las disposiciones de la Ley, sus reglamentos y demás disposiciones administrativas de carácter general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXVII.- Aplicar las medidas de seguridad y las sanciones que procedan, así como vigilar su cumplimiento, de conformidad con lo previsto por la Ley, sus Reglamentos, así como el Reglamento de la COFEPRIS, y demás disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
+
+XXVIII.- Las demás que señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las Unidades Administrativas que se le adscriben.
 
 ### CAPITULO VIII. De las Unidades Sectorizadas al Organismo
 
@@ -646,3 +700,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprob
 SEGUNDO.- Mándese publicar en el Periódico Oficial del Estado.
 
 Aprobado en la ciudad de Aguascalientes, Ags., a los 22 días del mes de octubre de 1998.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
