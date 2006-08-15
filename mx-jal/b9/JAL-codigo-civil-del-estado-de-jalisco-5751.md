@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2005-05-26"
+last_updated: "2006-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -649,13 +649,17 @@ Firma es la expresión gráfica que estampa una persona para dejar constancia de
 
 Esta expresión gráfica es libre y solamente se tendrá como auténtica, para efectos de cotejo y comprobación, aquélla que se estampe en presencia de servidores públicos o con motivo de funciones oficiales.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
+
 ###### Art. 69.
 
-La manuscripción y el estampar las huellas digitales constituyen conjunta o separadamente otras formas de identificar a sus autores por medio de los métodos científicos.
+La manuscripción y el estampar dos huellas digitales constituye conjunta o separadamente otras formas de identificar a sus autores por medio de los métodos científicos.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
 ###### Art. 70.
 
-En todos los actos jurídicos en que intervenga una persona y que tenga el carácter de solemne y en los que la ley así lo exija, deberán ser firmados, manuscrito el nombre y estampar las huellas digitales de sus suscriptores y otorgantes.
+En todos los actos jurídicos en que intervenga una persona y que tenga el carácter de solemne y en los que la ley así lo exija, deberán ser firmados, manuscrito el nombre y estampar dos huellas digitales de sus suscriptores y otorgantes.
 
 ###### Art. 71.
 
@@ -15887,9 +15891,11 @@ El que fuere enteramente sordo pero que sepa leer, deberá dar lectura a su test
 
 Cuando sea ciego el testador, se dará lectura en voz alta al testamento dos veces: una por el notario y otra por uno de los testigos u otra persona que el testador designe.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
+
 ###### Art. 2846.
 
-Concluido el acto lo deberán firmar el testador y los testigos en los casos a que se refiere este código y el notario, además el testador y los testigos si es el caso escribirán de su puño y letra su nombre debajo de su firma, y finalmente el testador estampará sus huellas digitales pulgares; en caso de no contar con ambos dedos se hará con el que tenga, debiéndose razonar ésta circunstancia.
+Concluido el acto lo deberán firmar el testador y los testigos en los casos a que se refiere este código y el notario, además el testador y los testigos si es el caso escribirán de su puño y letra su nombre debajo de su firma, y finalmente el testador estampará las dos huellas digitales de sus pulgares; en caso de que el interesado no cuente con alguno o ambos pulgares, se estampará cualquier otra de sus huellas digitales, debiéndose razonar esta circunstancia.
 
 ###### Art. 2847.
 
@@ -17572,3 +17578,7 @@ SEGUNDO. Se emite la siguiente declaración Estatal de los Derechos de la Famili
 P.O. 26 DE MAYO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor treinta días después de su publicación.
+
+P.O. 15 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
