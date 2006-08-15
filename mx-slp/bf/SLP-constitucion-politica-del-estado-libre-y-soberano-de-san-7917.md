@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2006-05-18"
+last_updated: "2006-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -563,7 +563,7 @@ El Presidente del Congreso o de la Diputación Permanente, en su caso, velará p
 
 ### CAPÍTULO III. De las Sesiones y Recesos del Congreso
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 42.
 
@@ -657,15 +657,19 @@ Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley
 
 ###### ARTÍCULO 51.
 
-El Diputado que no concurra a diez sesiones consecutivas sin causa justificada o sin previa licencia del Presidente del Congreso, cesará en el desempeño de su cargo. En este caso será llamado, desde luego, su suplente, quien tendrá derecho a percibir las dietas correspondientes.
+El diputado que no concurra a tres sesiones consecutivas sin previa licencia del Congreso, o sin causa justificada calificada por la Directiva del mismo, cesará en el desempeño de su cargo. En este caso será llamado, desde luego, su suplente, quien tendrá derecho a percibir las dietas correspondientes.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 52.
 
-El Congreso tendrá anualmente dos períodos ordinarios de sesiones. El primero comenzará el quince de septiembre y concluirá el quince de diciembre y el segundo, que será improrrogable, comenzará el primero de abril y concluirá el día último de junio. El primer período se podrá ampliar hasta por un mes más, si se considera indispensable, según las necesidades públicas o a petición del Titular del Ejecutivo.
+El Congreso del Estado tendrá anualmente dos períodos ordinarios de sesiones. El primero comenzará el quince de septiembre y concluirá el quince de diciembre; y el segundo, que será improrrogable, comenzará el uno de marzo y concluirá el treinta de junio. El primer período se podrá ampliar hasta por un mes más si se considera indispensable, según las necesidades públicas o a petición del Titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Cuando concluido un período ordinario de sesiones el Congreso esté conociendo de un juicio político o una declaración de procedencia, lo prorrogará hasta pronunciar su resolución, sin ocuparse de ningún otro asunto.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 La Ley Orgánica del Congreso señalará las formalidades con que deban celebrarse la apertura y clausura de las sesiones.
 
@@ -681,7 +685,7 @@ En el segundo se ocupará, con la misma preferencia, de revisar y aprobar, en su
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
 
-###### ARTICULO 54.
+###### ARTÍCULO 54.
 
 Corresponde al Congreso del Estado, a través de la Auditoría Superior del Estado, el examen y la revisión de las cuentas públicas de los poderes del Estado, los municipios y sus entidades, así como de los organismos constitucionales autónomos y demás entes auditables; que tendrá por objeto conocer los resultados de la gestión financiera, y comprobar si están ajustadas a las normas y criterios señalados por las leyes y los presupuestos respectivos, así como el cumplimiento de los objetivos contenidos en los programas de gobierno, estatales y municipales.
 
@@ -719,7 +723,7 @@ Si el Congreso estuviere en período extraordinario de sesiones cuando deba come
 
 ### CAPÍTULO V. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 57.
 
@@ -859,7 +863,7 @@ El Congreso del Estado, a través de su Presidente, rendirá a la ciudadanía un
 
 ###### ARTÍCULO 59.
 
-Durante los recesos del Congreso habrá una Diputación Permanente compuesta de cinco diputados propietarios y dos suplentes, que aquél nombrará antes de la clausura de sus sesiones ordinarias. Los diputados propietarios, conforme al orden de su elección, ocuparán los cargos de Presidente, Vicepresidente, Secretario y primer y segundo vocales.
+Durante los recesos del Congreso habrá una Diputación Permanente, que aquél nombrará antes de la clausura de sus sesiones ordinarias. La misma será presidida por el Presidente de la Directiva del Congreso, y se compondrá además con cuatro diputados propietarios que conforme al orden de su elección, ocuparán los cargos de Vicepresidente, Secretario, primer y segundo vocales; y dos suplentes, quienes actuarán, en ausencia de los propietarios en el orden de (sic) que fueran electos.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2434,3 +2438,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 TERCERO. En tanto se reforman las leyes secundarias, las referencias a la Contaduría Mayor de Hacienda se entenderán hechas a la Auditoría Superior del Estado; y las del Contador Mayor de Hacienda al Auditor Superior del Estado.
 
 CUARTO. El Congreso del Estado expedirá la Ley de la Auditoría Superior del Estado, para que entre en vigor el día uno de enero del año dos mil siete.
+
+P.O. 15 DE AGOSTO DE 2006.
+
+UNICO. Una vez ratificado por los ayuntamientos del Estado el presente Decreto, éste entrará en vigor al dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
