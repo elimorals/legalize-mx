@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2005-11-22"
+last_updated: "2006-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -199,7 +199,11 @@ b) Los orfanatos, asilos, hospicios, instituciones y organismos que trabajen con
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad estatal o municipal, para cerciorarse del absoluto respecto (sic) a los derechos humanos de las personas que son atendidas en esas instituciones.
+c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad estatal o municipal, para cerciorarse del absoluto respecto (sic) a los derechos humanos de las personas que son atendidas en esas instituciones;
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2006)</small>
+
+d) Los recintos de detención, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades exhiban, los derechos que se establecen en la Constitución Política de los Estados Unidos Mexicanos y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte, para los detenidos y procesados.
 
 XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y (sic)
 
@@ -753,7 +757,7 @@ I. Recibir y registrar las quejas por presuntas violaciones a los derechos human
 
 II. Cuando se trate de asuntos urgentes o graves, inmediatamente lo hará del conocimiento del Visitador General o, en su caso, del Presidente de la Comisión;
 
-III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les hayan formulado recomendaciones;
+III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les haya formulado recomendaciones;
 
 IV. Informar a los quejosos los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones, realizando tal función en coordinación con los visitadores;
 
@@ -1394,3 +1398,9 @@ SEGUNDO. Una vez publicado el presente decreto, notifíquese a los integrantes d
 P.O. 22 DE NOVIEMBRE DE 2005.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las autoridades del Ministerio Público, Reclusorios y Sedes Judiciales, deberán exhibir en los recintos de detención los derechos que establece la Constitución Política de los Estados Unidos Mexicanos y en los tratados, acuerdos y convenciones internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte para los detenidos o procesados, dentro del plazo de la publicación del presente decreto y su entrada en vigor.
