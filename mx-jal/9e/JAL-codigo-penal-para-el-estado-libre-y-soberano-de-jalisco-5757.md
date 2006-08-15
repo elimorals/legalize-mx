@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2006-01-12"
+last_updated: "2006-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -115,6 +115,8 @@ La responsabilidad penal no pasa de la persona y bienes de los delincuentes.
 
 ### CAPITULO III. Personas responsables de los delitos
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
+
 ###### Art. 10º.
 
 La tentativa es punible cuando, usando medios eficaces e idóneos, se ejecutan hechos encaminados directa e inmediatamente a la realización de un delito, si éste no se consuma por causas ajenas a la voluntad del agente.
@@ -127,7 +129,25 @@ Si el sujeto desiste espontáneamente de la ejecución o impide la consumación 
 
 ###### Art. 11.
 
-Son responsables de los delitos todos los que tomen parte en su concepción, preparación o ejecución, así como los que inducen o compelen directa o indirectamente a otro a cometerlo. También los que presten auxilio o cooperación de cualquier especie al autor del ilícito, por intervención posterior a su ejecución, siempre que ello sea consecuencia de un concierto previo que le haya dado impulso a la infracción penal.
+Son autores o partícipes del delito:
+
+I.- Los que acuerden o preparen su realización;
+
+II.- Los que lo realicen por sí;
+
+III.- Los que lo realicen conjuntamente;
+
+IV.- Los que lo lleven a cabo sirviéndose de otro;
+
+V.- Los que induzcan dolosamente a otro a cometerlo;
+
+VI.- Los que dolosamente con conocimiento del delito, presten auxilio a otro para su comisión;
+
+VII.- Los que con posteridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito; y
+
+VIII.- Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
+
+Los autores o partícipes a que se refiere el presente artículo responderán cada uno en la medida de su propia culpabilidad.
 
 ## TITULO PRIMERO. DE LOS DELITOS Y LA RESPONSABILIDAD PENAL
 
@@ -1961,7 +1981,7 @@ Si se produjere daño en la salud por falta de intervención, se les impondrán 
 
 ###### Art. 159.
 
-Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no dé aviso inmediato al Ministerio Público.
+Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no de aviso inmediato al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -2165,7 +2185,7 @@ Se impondrán de un mes a tres años de prisión y multa de cien a trescientos d
 
 I. Al que, sin ser servidor público, se atribuya ese carácter e intente ejercer alguna de las funciones correspondientes;
 
-II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
+II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -4380,3 +4400,7 @@ Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementar�
 > <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
 
 Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
+
+P.O. 15 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
