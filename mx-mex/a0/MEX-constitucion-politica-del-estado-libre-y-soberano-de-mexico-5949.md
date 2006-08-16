@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2006-06-22"
+last_updated: "2006-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2006.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -791,6 +791,10 @@ Cuando se trate de la creación de un nuevo empleo, cuya remuneración no se hub
 
 La retribución estará sujeta a las modificaciones que, en su caso, sean convenidas conforme a la legislación de la materia.
 
+> <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2006)</small>
+
+La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable.
+
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
 XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
@@ -853,9 +857,13 @@ XLVI. Expedir las disposiciones aplicables en aquellos municipios que no cuenten
 
 Así como, emitir las normas que establezcan los procedimientos mediante los cuales se resuelvan los conflictos que se presenten entre los ayuntamientos y el Gobierno del Estado, o entre aquellos, con motivo de los actos a que se refieren las fracciones XLIV y XLV de este artículo;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE AGOSTO DE 2006)</small>
 
-XLVII. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+XLVII. Aprobar la afectación de los ingresos del Estado y, en su caso, el derecho a percibirlos, derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o proyectos para prestación de servicios que contraten el Estado y los municipios. Igualmente corresponderá a la Legislatura, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos en términos de la legislación aplicable;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 16 DE AGOSTO DE 2006)</small>
+
+XLVIII. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2706,3 +2714,9 @@ El presente decreto entrará en vigor el día de su publicación en el Periódic
 G.G. 22 DE JUNIO DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+
+G.G. 16 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
