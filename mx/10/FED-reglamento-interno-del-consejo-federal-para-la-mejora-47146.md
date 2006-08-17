@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-consejo-federal-para-la-mejora-47146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-23"
-last_updated: "2005-12-23"
+last_updated: "2006-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-15"
 
 REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2006.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -68,6 +68,50 @@ El Consejo estará integrado por los titulares de las secretarías de Economía;
 ###### Artículo 4.
 
 Serán invitados permanentes del Consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor; así como el Presidente del Consejo Coordinador Empresarial, el Presidente de la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, el Presidente de la Confederación Patronal de la República Mexicana, el Presidente de la Cámara Nacional de la Industria de la Transformación, el Presidente del Consejo Nacional Agropecuario, el Presidente de la Asociación de Bancos de México, A.C., el Presidente de la Asociación Mexicana de Secretarios de Desarrollo Económico, A.C., el Presidente de la Asociación Nacional de Universidades e Institutos de Educación Superior, A.C., el Presidente de la Federación de Instituciones Mexicanas Particulares de Educación Superior, A.C., el Presidente de la Barra Mexicana, Colegio de Abogados, A.C., el Presidente de la Asociación Mexicana de Instituciones de Seguros, A.C., el Presidente de la Cámara de Comercio del Distrito Federal, así como cualquier otro invitado que determine el presidente del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2006)</small>
+
+Artículo 4 bis.- El Consejo contará con un Comité Ejecutivo, el cual se auxiliará de los grupos técnicos de trabajo que al efecto se conformen, según lo previsto en este artículo. El Comité Ejecutivo estará integrado por representantes de los sectores público, social y privado designados por el Consejo, los cuales deberán ser, para el caso del sector público, subsecretarios o su equivalente, adscritos a las secretarías que integren el Consejo o cuya materia de competencia esté relacionada con los asuntos a tratar; para el caso de los sectores social y privado, el nivel jerárquico requerido será el de presidente o equivalente.
+
+Los miembros del Comité Ejecutivo podrán designar a un Director General o equivalente como suplente, para que asista a las sesiones del mismo.
+
+El Comité Ejecutivo tendrá las siguientes atribuciones:
+
+a) Proponer acciones en materia de mejora regulatoria a nivel técnico;
+
+b) Decidir sobre las cuestiones técnicas en materia de mejora regulatoria;
+
+c) Presentar al Consejo Federal un informe anual de sus actividades y de las de sus grupos técnicos de trabajo;
+
+d) Analizar, elaborar y proponer soluciones a los asuntos que le sean encomendados por el Consejo;
+
+e) Integrar los grupos técnicos de trabajo que se requieran, precisando las líneas generales de su actuación; y,
+
+f) Revisar los resultados de los estudios y análisis que se hayan solicitado a los grupos técnicos de trabajo y definir las acciones correspondientes, informando de ello al Consejo.
+
+El Comité Ejecutivo será presidido por el Titular de la Comisión, quien para el ejercicio de sus funciones contará con el auxilio de un Secretario Técnico, nombrado por aquél.
+
+Corresponde al Presidente del Comité Ejecutivo:
+
+a) Preparar el informe anual de las actividades realizadas por el Comité Ejecutivo y sus grupos técnicos de trabajo;
+
+b) Presidir las sesiones del Comité Ejecutivo. En caso de ausencia, sus funciones serán realizadas por el Secretario Técnico; y,
+
+c) Proponer al Comité Ejecutivo la integración de grupos técnicos de trabajo.
+
+Los asuntos a cargo del Comité Ejecutivo se resolverán en sesiones convocadas por el Presidente del mismo o, en su caso, por el Secretario Técnico. La convocatoria se realizará por escrito, deberá contener el orden del día y dirigirse a cada miembro del Comité Ejecutivo por lo menos con cinco días hábiles de anticipación a la celebración de la sesión.
+
+Para que el Comité Ejecutivo se considere reunido deberá estar presente, cuando menos, la mitad de sus miembros y resolverá por mayoría de votos de los presentes. Si la sesión no pudiese celebrarse el día fijado, se realizará una segunda convocatoria señalando en ella tal circunstancia. En la sesión celebrada en segunda convocatoria se desahogará el orden del día cualquiera que sea el número de miembros presentes y resolverá por mayoría de votos.
+
+Una vez celebrada la sesión del Comité Ejecutivo, deberá remitirse el acta correspondiente a cada uno de los miembros del propio Comité, dentro de los siete días hábiles siguientes a la fecha de celebración de la misma.
+
+Los grupos técnicos de trabajo estarán conformados por representantes de los sectores público, social y privado, y tendrán las siguientes atribuciones:
+
+a) Analizar, elaborar y proponer soluciones a los asuntos que les sean encomendados por el Comité Ejecutivo;
+
+b) Ejecutar las acciones concretas de mejora regulatoria de carácter técnico que sean requeridas en cumplimiento de una solicitud del Comité Ejecutivo; y,
+
+c) Proporcionar al Presidente del Comité Ejecutivo los elementos de información necesarios para que este último pueda preparar el informe anual de las actividades realizadas por el Comité Ejecutivo, así como por los grupos técnicos de trabajo.
 
 ###### Artículo 5.
 
@@ -176,3 +220,9 @@ Si se convoca a sesión del Consejo y en ésta no pudiere reunirse el quórum se
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a los quince días del mes de diciembre de dos mil cinco.- El Secretario Técnico, Carlos García Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE AGOSTO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
