@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-poblacion-del-estado-de-baja-california-3088"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-17"
-last_updated: "2001-05-11"
+last_updated: "2006-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 17 de febrero de 1995.
 
@@ -53,9 +53,11 @@ Por lo mismo, establece las atribuciones que en la materia corresponden a cada d
 
 Corresponde al Ejecutivo del Estado establecer, promover, coordinar, ejecutar, supervisar y evaluar la política poblacional, dentro de un proceso de desarrollo integral del individuo y la sociedad.
 
-###### ARTICULO 3°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-Se crea el Consejo Estatal de Población de Baja California como organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, teniendo a su cargo normar la planeación demográfica; cuidar que el interés de la población prevalezca en los programas de desarrollo formulados por dependencias, entidades y municipios, procurando que los objetivos de dichos programas respondan a las necesidades que los fenómenos demográficos provoquen en la localidad.
+###### ARTICULO 3º.
+
+Se crea el Consejo Estatal de Población de Baja California como un organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Mexicali, Baja California, pudiendo establecer oficinas representativas en otras localidades del Estado cuando la necesidad del servicio lo justifique y la disponibilidad presupuestal lo permita.
 
 ###### ARTICULO 4°.
 
@@ -89,13 +91,19 @@ Los principios en los que se sustenten las políticas y los programas que se apl
 
 I.- El respeto a los derechos humanos y a las garantías individuales;
 
-II.- La promoción de las condiciones socio-económicas que permitan el desarrollo a través de su incidencia en los ámbitos de educación, salud, empleo, seguridad, vivienda, desarrollo urbano y rural entre otros;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+II.- La contribución a los niveles de bienestar social que permitan el desarrollo a través de su incidencia en los ámbitos de educación, salud, empleo, seguridad, vivienda, desarrollo urbano y rural entre otros;
 
 III.- El impulso hacia un desarrollo, sostenido y sustentable, entendido éste como el proceso que implica llevar a cabo acciones que tiendan a satisfacer necesidades básicas del ser humano en el presente, sin comprometer a las futuras generaciones;
 
 IV.- La preservación del equilibrio ecológico y el respeto al medio ambiente;
 
-V.- La promoción de los valores culturales de los habitantes del Estado.
+V.- La promoción de los valores culturales de los habitantes del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+VI.- La promoción de la conciencia de responsabilidad y la voluntad de participación de la sociedad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -129,9 +137,11 @@ El Ejecutivo del Estado puede suscribir convenios de coordinación y colaboraci�
 
 ## TITULO TERCERO. PLANEACION DEMOGRAFICA
 
-###### ARTICULO 12°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-Con el propósito de planear adecuadamente las políticas y acciones en materia de población, el ejecutivo del estado dispondrá la publicación del programa, formulado por el consejo, el cual deberá enmarcarse dentro de los lineamientos de la planeación nacional y estatal del desarrollo.
+###### ARTICULO 12º.
+
+Con el propósito de planear adecuadamente las políticas y acciones en materia de población, el Ejecutivo del Estado dispondrá la publicación en el Periódico Oficial del Estado, del Programa aprobado por la Junta Directiva, el cual deberá enmarcar dentro de los lineamientos de la planeación nacional y estatal del desarrollo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -151,9 +161,9 @@ V.- Reafirmar la igualdad de los varones y de las mujeres en el seno familiar; a
 
 VI.- Fomentar el fortalecimiento de los lazos de solidaridad entre los integrantes de la familia, ya que esta constituye pilar esencial para enriquecer las políticas de población que se instrumenten;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
-VII.- Realizar estudios, análisis e investigaciones diversas para ampliar el conocimiento demográfico, factor base de desarrollo, con el objeto de integrar el sistema estatal de información sociodemográfico sobre población de la entidad y sus municipios, para que la información obtenida sirva de base a las actividades del sector público, social y privado del Estado;
+VII.- Realizar estudios, análisis e investigaciones diversas para ampliar el conocimiento demográfico, factor base de desarrollo, con objeto de integrar el sistema estatal de información sociodemográfica sobre población de la entidad y sus municipios, para que la información obtenida sirva de base a las actividades de (sic) sector público, social y privado del Estado;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -197,9 +207,11 @@ VIII.- Los demás que sean necesarios para conseguir que la población del estad
 
 El programa tendrá como objetivo general fortalecer la política de población en todas las instancias, reforzando las acciones de las dependencias y organismos de los sectores público, social y privado para influir en las tendencias y comportamientos del crecimiento y distribución de la población, para que a través de procesos de información y educación los habitantes se concienticen y modifiquen sus conductas y actitudes para una actuación mas responsable.
 
-###### ARTICULO 16°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-El programa tendrá una duración igual al período constitucional del encargo del Gobernador correspondiente, será publicado en el Periódico Oficial y preverá los mecanismos necesarios para que se instrumente un programa operativo anual.
+###### ARTICULO 16º.
+
+El programa tendrá una duración igual al periodo constitucional del encargo del Gobierno correspondiente, y preverá los mecanismos necesarios para que se instrumente un Programa Operativo Anual.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -207,9 +219,11 @@ El programa tendrá una duración igual al período constitucional del encargo d
 
 En la formulación de sus respectivos programas, las dependencias y entidades públicas estatales y municipales, tomarán en cuenta las políticas y programas demográficos, que tiendan hacia el desarrollo a fin de que los beneficios sociales y económicos que se pretendan alcanzar contribuyan a elevar las condiciones de vida de la población.
 
-###### ARTICULO 18°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-El Ejecutivo del Estado informará anualmente sobre los resultados que se hayan obtenido de la aplicación del programa durante el lapso correspondiente.
+###### ARTICULO 18º.
+
+El Presidente de la Junta Directiva informará anualmente, de manera personal o por conducto del Director General, sobre los resultados que se hayan obtenido de la aplicación del Programa durante el lapso correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -219,51 +233,47 @@ El programa será obligatorio para las dependencias y entidades de la Administra
 
 ## TITULO QUINTO. DEL CONSEJO
 
-### CAPITULO PRIMERO. OBJETIVO, ATRIBUCIONES Y PATRIMONIO DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+### CAPITULO PRIMERO. OBJETO, ATRIBUCIONES Y PATRIMONIO DEL CONSEJO
 
-###### ARTICULO 20°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-El Consejo tendrá como objetivo general promover entre la población, la formación de una cultura demográfica, acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar y a los valores fundamentales del ser humano.
+###### ARTICULO 20º.
+
+El Consejo tendrá por objeto promover entre la población, la formación de una cultura demográfica, acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar, así como de los valores fundamentales del ser humano.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 21°.
 
 El Consejo tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+I.- Normar la planeación demográfica, vigilando que el interés de la población prevalezca en los programas de desarrollo formulados por dependencias y entidades, procurando que los objetivos de dichos programas respondan a las necesidades que los fenómenos demográficos provoquen en la localidad;
 
-I.- Mantener la coordinación permanente con el Consejo Nacional de Población, en términos de los acuerdos de coordinación celebrados al efecto por el Ejecutivo Estatal;
+II.- Mantener la coordinación permanente con el Consejo Nacional de Población, en términos de los acuerdos de coordinación celebrados al efecto por el Ejecutivo del Estado;
 
-II.- Vincular las acciones de población con los Planes de Desarrollo Nacional, Estatal, y Municipal;
+III.- Vincular las acciones de población con los planes de desarrollo nacional estatal y municipal;
 
-III.- Normar y promover la Ejecución de las Acciones en Materia de Población;
+IV.- Regular y promover la ejecución de las acciones en materia de población;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+V.- Establecer con las instancias nacionales en materia de población, las acciones necesarias para coordinar y evaluar la aplicación de las políticas en materia de población en torno al desarrollo;
 
-IV.- Establecer con las instancias nacionales en materia de población, las acciones necesarias para coordinar y evaluar la aplicación de las políticas en materia de población en torno al desarrollo;
+VI.- Promover la participación de las distintas instancias de la Administración Pública estatal, municipal y de los sectores privado y social;
 
-V.- Promover la participación de las distintas instancias de la Administración Pública Estatal, Municipal y de los sectores privado y social;
+VII.- Apoyar en materia de población a las dependencias y entidades públicas, privadas y sociales y celebrar con ellas los acuerdos o convenios pertinentes para concertar acciones conjuntas;
 
-VI.- Apoyar en materia de población, a las dependencias y entidades públicas, privadas y sociales y celebrar con ellas los acuerdos o convenios pertinentes para concertar acciones conjuntas;
+VIII.- Apoyar acciones con el objeto de lograr fomentar la paternidad responsable, la creación de una cultura demográfica, la participación de la mujer en igualdad con el varón, el impulso de un proyecto de vida para los jóvenes basado en la responsabilidad y la integración y fortalecimiento del núcleo familiar para propiciar una mejor calidad de vida; así como de aquellos grupos prioritarios que por su importancia demográfica requieran una atención específica;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+IX.- Realizar estudios que se requieran con el objeto de mejorar permanentemente la información estatal sobre población, como elemento básico de las acciones del Programa y como insumo para la planeación del desarrollo estatal;
 
-VII.- Apoyar acciones con el objeto de lograr fomentar la paternidad responsable, la creación de una cultura demográfica, la participación de la mujer en igualdad con el varón, el impulso de un proyecto de vida para los jóvenes basado en la responsabilidad y la integración y fortalecimiento del núcleo familiar para propiciar una mejor calidad de vida; así como de aquellos grupos prioritarios que por su importancia demográfica requieran una atención específica.
+X.- Evaluar los programas que lleven a cabo las diferentes dependencias y entidades del sector público de acuerdo al programa que se apruebe, y promover las medidas pertinentes para su cumplimiento;
 
-VIII.- Apoyar la realización de estudios que se requieran con el objeto de mejorar permanentemente la información estatal sobre población, como elemento básico de las acciones del programa y como insumo para la planeación del desarrollo estatal;
+XI.- Emitir opinión acerca de acciones o proyectos de población que operen o pretendan operar en el Estado, a efecto de que se ajusten a los lineamientos de esta Ley;
 
-IX.- Evaluar los programas que lleven acabo las diferentes dependencias y entidades del sector público de acuerdo al programa que se apruebe, y promover las medidas pertinentes para su cumplimiento;
+XII.- Coordinar sus acciones con el Comité de Planeación para el Desarrollo del Estado, a través de los Subcomités de Población y el Técnico Regional de Estadística e Información Geográfica, así como los Comités Municipales de Población; y,
 
-X.- Emitir opinión acerca de acciones o proyectos de población que se originen en el extranjero y que operen o pretendan operar en el Estado, a efecto de que se ajusten a los lineamientos de esta ley;
-
-XI.- Coordinar sus acciones con el Comité Estatal de Planeación para el Desarrollo del Estado, a través de los subcomités de población y el técnico regional de estadística e información geográfica; así como con los comités municipales de población;
-
-XII.- Formular y aprobar su reglamento interior;
-
-XIII.- Reunirse a convocatoria del secretario técnico cuando para el cumplimiento de sus objetivos así se requiera;
-
-XIV.- Las demás relacionadas con sus objetivos y las que le encomiende el Ejecutivo del Estado.
+XIII.- Las demás relacionadas con su objeto y las que le encomiende el Ejecutivo del Estado.
 
 ###### ARTICULO 22°.
 
@@ -273,9 +283,19 @@ El Consejo, en base a sus evaluaciones, propondrá las prioridades y objetivos d
 
 El Consejo mantendrá un proceso permanente y constante de evaluación interna a sus prioridades y estrategias y a los resultados de sus programas, para adecuarlos a los cambios y situaciones específicas en materia de programación presupuestal.
 
-###### ARTICULO 24°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-El Consejo funcionará con los recursos económicos, bienes muebles e inmuebles que le asigne el Gobierno del Estado, sin menoscabo de recibir por conducto de dependencias y Organismos Públicos y Privados: aportaciones, donaciones, bienes, legados y demás activos y en general todos los derechos y obligaciones del Consejo que entrañen utilidad económica.
+###### ARTICULO 24º.
+
+El patrimonio del Consejo se conformará de la siguiente manera:
+
+I.- Los recursos económicos, bienes muebles e inmuebles que le asigne el Poder Ejecutivo del Estado;
+
+II.- Las aportaciones, donaciones, bienes, legados y demás activos que reciba de las dependencias y entidades de los tres niveles de gobierno o de organismos públicos o privados;
+
+III.- Los ingresos obtenidos en la prestación de servicios por concepto de investigaciones y estudios sociodemográficos, cursos, talleres, así como por la venta de documentos ofrecidos a los sectores público y privado; y,
+
+IV.- En general, por todos los derechos y obligaciones del Consejo que entrañen utilidad económica.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -293,31 +313,69 @@ Los Órganos integrantes del Consejo son:
 
 I.- La Junta Directiva; y
 
-II.- La Secretaría Técnica;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+II.- El Director General.
 
 III.- (DEROGADA, P.O. 11 DE MAYO DE 2001)
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
 
-(REFORMADO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 27o.
+###### ARTICULO 27º.
 
-La Junta Directiva será la máxima Autoridad del Consejo y se integrará con un Presidente, que será el Gobernador Constitucional del Estado y con los vocales, que serán los titulares de: la Secretaría General de Gobierno; el Coordinador del Sistema Educativo Estatal; la Secretaría de Asentamientos Humanos y Obras Públicas; la Secretaría de Planeación y Finanzas; la Secretaría de Desarrollo Económico; la Dirección de Trabajo y Previsión Social; el Sistema Estatal para el Desarrollo Integral de la Familia; el Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y Municipios de Baja California, el Instituto de Servicios de Salud Pública del Estado y, los Presidentes de los Comités Municipales de Población; cada vocal podrá designar un suplente, a quién delegará sus funciones y atribuciones en materia de población.
+La Junta Directiva será la máxima autoridad del Consejo y se integrará por:
 
-###### ARTICULO 28°.
+I.- Un Presidente, que será el Titular de la Secretaría General de Gobierno; y,
 
-Los representantes miembros de la Junta Directiva del Consejo, ejercerán sus funciones en forma honorífica.
+II.- Los siguientes Vocales:
 
-###### ARTICULO 29°.
+a) El Secretario de Educación y Bienestar Social;
 
-La Junta Directiva sesionará a convocatoria del Secretario Técnico.
+b) El Secretario de Infraestructura y Desarrollo Urbano;
 
-###### ARTICULO 30°.
+c) El Secretario de Planeación y Finanzas;
 
-Corresponde a la Junta Directiva del Consejo:
+d) El Secretario de Desarrollo Económico;
 
-I.- Aprobar el programa, a fin de promover la incorporación de la población en los planes de desarrollo socioeconómico del Estado a través de sus áreas específicas;
+e) El Secretario de Desarrollo Social;
+
+f) El Secretario de Salud;
+
+g) El Secretario del Trabajo y Previsión Social; y,
+
+h) Los Presidentes de los Comités Municipales de Población.
+
+Cada integrante de la Junta Directiva, nombrará por escrito un suplente con funciones de propietario para que cubra sus ausencias temporales, procurando que dicho nombramiento recaiga siempre en la misma persona.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 28º.
+
+Los integrantes de la Junta Directiva ejercerán sus funciones en forma honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 29º.
+
+La Junta Directiva sesionará de manera ordinaria por lo menos cada tres meses, y en forma extraordinaria cuando así se requiera a juicio de su Presidente, o lo solicite la mayoría de sus integrantes.
+
+El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes. Las resoluciones se tomarán por votación mayoritaria de los integrantes presentes, teniendo el Presidente voto de calidad, en caso de empate.
+
+Los integrantes de la Junta Directiva tendrán derecho a voz y voto y en sus ausencias este derecho corresponderá a sus suplentes.
+
+Para el mejor desempeño de sus funciones la Junta Directiva contará con un Secretario Técnico, él cual podrá participar en las sesiones con voz, pero sin voto, mismo que no se considerará para efectos del quórum requerido para sesionar. Dicho cargo tendrá el carácter de honorífico, por lo que no se percibirá retribución, emolumento o compensación alguna por su desempeño.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 30º.
+
+Corresponde a la Junta Directiva:
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+I.- Analizar, discutir y en su caso, aprobar el Programa, el Programa Institucional y el Programa Operativo Anual, así como las modificaciones que procedan a los mismos, a fin de promover la incorporación de la población en los planes de desarrollo socioeconómico del Estado a través de sus áreas específicas;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -325,31 +383,63 @@ II.- Aprobar el Presupuesto del Consejo y vigilar su ejercicio;
 
 III.- Vigilar la Ejecución y cumplimiento de las acciones previstas en el programa y cuidar su congruencia y complementariedad con el Programa Nacional de Población;
 
-IV.- Fungir como mecanismo de Coordinación de las Dependencias de los tres niveles de Gobierno cuya naturaleza se vincule a la materia demográfica para el cumplimiento de las Políticas de población;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+IV.- Aprobar la celebración de convenios de coordinación con la Federación, Estados, Municipios y de concertación con el sector social y privado a efecto de realizar el cumplimento de las políticas de población;
 
-V.- Conocer los informes de avances del programa; así como promover que la información sociodemográfica de estudios y análisis generada por el Consejo, sirva de base para la planeación y programación de las acciones de Gobierno dentro de las Dependencias del Sector Público;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+V.- Conocer los informes de avances del Programa; así como promover que la información sociodemográfica de estudios y análisis generada por el Consejo, sirva de base para la planeación y programación de las acciones de gobierno dentro de las dependencias y entidades;
 
 VI.- Promover y apoyar las investigaciones sobre la dinámica poblacional y sus componentes, que realice el Consejo por sí o en colaboración con Instituciones de Educación Superior así como con las de carácter científico y de investigación;
 
-VII.- Instrumentar acciones específicas para la integración de las políticas de población en la Planeación del Desarrollo Socioeconómico y Cultural de la Entidad;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
-VIII.- Solicitar a la fecha que lo considere pertinente, informes parciales sobre las acciones del Consejo y su Administración.
+VII.- Aprobar' acciones específicas para la integración de las políticas de población en la planeación del desarrollo socioeconómico y cultural de la Entidad;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+VIII.- Analizar, y en su caso, aprobar los informes trimestrales que rinda el Director General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+IX.- Aprobar y presentar ante el Titular del Poder Ejecutivo del Estado, para su expedición, el Proyecto de Reglamento Interno del Consejo y sus reformas, así como autorizar, los manuales administrativos necesarios para su operación, y las modificaciones que procedan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+X.- Aprobar la estructura orgánica del Consejo, así como las modificaciones que procedan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+XI.- Aprobar anualmente, previo informe del Comisario, los estados financieros del organismo y el cierre del ejercicio presupuestal, autorizando en su caso la publicación de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+XII.- Analizar, y en su caso, aprobar la creación y supresión de plazas; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+XIII.- Las demás que resulten necesarias para el adecuado cumplimiento de su objeto y las que le señalen otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 31°.
 
-El Presidente del Consejo tendrá las siguientes facultades:
+El Presidente de la Junta Directiva tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones ordinarias o extraordinarias de la Junta Directiva y asumir la representación de la misma;
 
-II.- Promover la participación de las Dependencias y organismos del Sector Público que correspondan dentro del programa;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+II.- Promover la participación de las dependencias y entidades públicas del Estado que correspondan dentro del Programa;
 
 III.- Constatar los avances y resultados del programa;
 
-IV.- Designar y remover libremente al Secretario Técnico del Consejo;
+IV.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
 
-V.- Ejecutar las Demás que correspondan a su cargo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+V.- Las demás que le encomiende la Junta Directiva.
 
 (REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
 
@@ -357,27 +447,31 @@ V.- Ejecutar las Demás que correspondan a su cargo.
 
 Son atribuciones de la Secretaría General de Gobierno en materia de población, las siguientes:
 
-I.- En las ausencias del Presidente del Consejo, el Titular presidirá las sesiones de la Junta Directiva;
+I.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
 
 II.- Participar y coordinar las actividades relacionadas con la política poblacional;
 
-III.- Coordinar y dirigir el Sub-comité Especial de Población en el Seno del Coplade, pudiendo designar como su representante al Secretario Técnico del Consejo;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+III.- Coordinar y dirigir el Subcomité Especial de Población en el seno del COPLADE, pudiendo designar como su representante al Director General;
 
 IV.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
 V.- Proponer y turnar al Gobernador los anteproyectos de Leyes, Reglamentos, Decretos, Convenios y Acuerdos sobre los asuntos de población;
 
-VI.- Instruir al Titular del Archivo del Registro Civil del Estado para que se proporcione periódicamente al Consejo, información sobre los Registros de Actas del Estado Civil de las personas y demás información que se requiera;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
-VII.- Cumplir con las comisiones que le encomiende el Presidente del Consejo en Materia de Población;
+VI.- Instruir al Titular del Registro Civil del Estado para que proporcione periódicamente al Consejo, información sobre los Registros de Actas del Estado Civil de las personas y demás información que se requiera;
+
+VII.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
 
 VIII.- Participar y apoyar las Campañas de Difusión del Consejo, utilizando oportunamente sus canales de comunicación y distribución de que dispone.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 33o.
+###### ARTICULO 33º.
 
-Son atribuciones del Organo Coordinador del Sistema Educativo Estatal en materia de población las siguientes:
+Son atribuciones de la Secretaría de Educación y Bienestar Social en materia de población, las siguientes:
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -395,11 +489,11 @@ IV.- Actualizar y capacitar al personal a su cargo, así como orientar a los pad
 
 V.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 34°.
+###### ARTICULO 34º.
 
-Son atribuciones de la Secretaría de Asentamientos Humanos y Obras Públicas en materia de población, las siguientes:
+Son atribuciones de la Secretaría de Infraestructura y Desarrollo Urbano en materia de población, las siguientes:
 
 I.- Apoyar los programas sobre distribución de la población que concuerden con un mejor aprovechamiento de la territorialidad disponible;
 
@@ -439,21 +533,21 @@ III.- Participar y apoyar las campañas de difusión del Consejo, utilizando opo
 
 (DEROGADO P.O. 11 DE MAYO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 38°.
+###### ARTICULO 38º.
 
-Son atribuciones de la Dirección de Trabajo y Previsión Social en materia de población las siguientes:
+Son atribuciones de la Secretaría del Trabajo y Previsión Social en materia de población, las siguientes:
 
 I.- Concientizar al Sector Laboral del Estado, sobre la problemática demográfica Estatal y Nacional;
 
 II.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 39°.
+###### ARTICULO 39º.
 
-Son atribuciones del Sistema Estatal para el Desarrollo Integral de la Familia en materia de población las siguientes:
+Son atribuciones de la Secretaría de Desarrollo Social en materia de población, las siguientes:
 
 I.- Fortalecer los objetivos institucionales del Organismo en lo referente a planificación familiar, Desarrollo de la Mujer y Fortalecimiento del Núcleo Familiar; con el propósito de fomentar la maternidad y paternidad responsable, contribuyendo al cambio de actitudes y conductas, para elevar el bienestar de la población;
 
@@ -467,11 +561,11 @@ IV.- Participar y apoyar las campañas de Difusión del Consejo, utilizando opor
 
 V.- Reforzar sus objetivos institucionales en lo referente a su población y metas para impulsar una cultura de participación social, vinculando los mecanismos que permitan fortalecer el tejido social e impulsar el desarrollo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 40°.
+###### ARTICULO 40º.
 
-Son atribuciones del Organo Coordinador del Sistema Estatal de Salud en materia de población las siguientes:
+Son atribuciones de la Secretaría de Salud en materia de población, las siguientes:
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -487,11 +581,11 @@ III.- Participar y apoyar las campañas de difusión del Consejo, utilizando opo
 
 IV.- Fortalecer los objetivos institucionales del organismo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 41°.
+###### ARTICULO 41º.
 
-Con el propósito de que en la Planeación Demográfica Estatal para el logro de un desarrollo participen los diferentes sectores e instituciones del Estado, el Consejo podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
+Con el propósito de que en la planeación demográfica estatal para el desarrollo participen los diferentes sectores e instituciones del Estado, el Presidente de la Junta Directiva podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -505,63 +599,67 @@ III.- Apoyar las campañas de difusión del Consejo, utilizando oportunamente lo
 
 IV.- Integrar de acuerdo a la naturaleza de las acciones programáticas, grupos interinstitucionales con el fin de aglutinar, coordinar e impulsar acciones de población hacia el desarrollo.
 
-### CAPITULO TERCER (SIC). DE LA SECRETARIA TECNICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 42°.
+### CAPITULO TERCERO. DEL DIRECTOR GENERAL
 
-Para el desarrollo y buena marcha del Consejo, habrá un Secretario Técnico, que será el Representante Legal de la Institución; a él corresponde coordinar el Desarrollo de las Actividades Administrativas y Técnicas, dictar los acuerdos tendientes a dicho fin, celebrar con la suma de facultades de un Mandatario General todos los actos jurídicos de administración y de dominio necesarios para el funcionamiento del Consejo; le corresponde igualmente al Secretario Técnico, la representación del Consejo como Mandatario General para pleitos y cobranzas con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley; podrá obligar al Consejo cambiariamente, previa autorización del mismo, substituir y delegar en uno o mas apoderados, para que lo ejerza individual o conjuntamente, los Mandatos Generales para Pleitos y Cobranzas y para actos de Administración y revocar los Poderes que otorgue; desistirse de acciones y demandas, y en general ejercer todos los actos de representación y mandato que para la eficacia del cargo sean necesarios, además tendrá las facultades siguientes:
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-I.- Cumplir y hacer cumplir, las disposiciones y acuerdos de la Junta Directiva del Consejo;
+###### ARTICULO 42º.
 
-II.- Presentar ante la Junta Directiva el Programa;
+El Consejo para la adecuada operación y desarrollo de sus actividades contará con el Titular que se denominará Director General, mismo que será nombrado y removido libremente por el Gobernador del Estado, o a indicación de éste por el Secretario General de Gobierno, y tendrá las siguientes facultades y obligaciones:
 
-III.- Resolver bajo su inmediata y directa responsabilidad, los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta de la misma en la sesión inmediata siguiente;
+l.- Dirigir y administrar al Consejo, dando cumplimiento a su objeto, conforme a los acuerdos que emita la Junta Directiva;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+II.- Ejecutar las disposiciones y acuerdos que la Junta Directiva le encomiende;
 
-IV.- Formular el Calendario Oficial del Consejo y autorizar en casos extraordinarios, la suspensión de labores, previo acuerdo con el Secretario General de Gobierno;
+III.- Elaborar y someter a consideración de la Junta Directiva, el programa, los proyectos de Programa Institucional y de Programa Operativo Anual, así como las modificaciones que estime necesarias;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+IV.- Presentar ante la Junta Directiva, un informe trimestral que refleje la situación programática, presupuestal y financiera del Consejo, rindiendo los informes que le sean requeridos por la misma;
 
-V.- Conceder licencias y permisos al personal en los términos de las leyes correspondientes;
+V.- Formular el calendario oficial del Consejo y autorizar en casos extraordinarios, la suspensión de labores, previo acuerdo con el Secretario General de Gobierno;
 
-VI.- Vigilar las labores del personal del Consejo, exigiendo su debido cumplimiento e imponer las correcciones disciplinarias correspondientes;
+VI.- Conceder licencias y permisos al personal en los términos de las leyes correspondientes;
 
-VII.- Coordinar las acciones que en Materia de Población realicen las dependencias y entidades de la Administración Pública Estatal y Municipal, así como los Sectores Social y Privado;
+VII.- Vigilar las labores del personal del Consejo, exigiendo su debido cumplimiento e imponer las correcciones disciplinarias correspondientes;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+VIII.- Coordinar las acciones que en materia de población realicen las dependencias y entidades de la Administración Pública Estatal, así como los sectores social y privado;
 
-VIII.- Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
+IX.- Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
 
-IX.- Convocar a los Miembros del Consejo a Sesiones Ordinarias y Extraordinarias y, a los representantes de los Sectores Social y Privado cuando así se considere conveniente;
+X.- Convocar a los integrantes de la Junta Directiva a sesiones, así como a los representantes de los sectores social y privado cuando así se considere pertinente, previo acuerdo del Presidente;
 
-X.- Participar en las reuniones ordinarias y extraordinarias de la Junta Directiva don (sic) voz, pero sin voto;
+XI.- Fungir como Secretario Técnico de las sesiones de la Junta Directiva;
 
-XI.- Proponer a la Junta Directiva las medidas que considere mas adecuadas para el logro de los objetivos del Consejo;
+XII.- Proponer a la Junta Directiva las medidas que considere más adecuadas para el logro de los objetos del Consejo;
 
-XII.- Someter a la consideración de la Junta Directiva el presupuesto correspondiente a cada ejercicio anual;
+XIII.- Elaborar y someter a consideración de la Junta Directiva, el anteproyecto de presupuesto anual de ingresos y egresos del Consejo, así como las modificaciones que estime necesarias;
 
-XIII.- Formular, ejecutar y controlar el presupuesto del Consejo, en los términos de esta Ley y demás disposiciones legales aplicables;
+XIV.- Formular, ejecutar y controlar el presupuesto del Consejo, en los términos de esta Ley y demás disposiciones legales aplicables;
 
-XIV.- Rendir anualmente, en la fecha y con las formalidades que la Junta Directiva le señale, el Informe General de las actividades, así como las cuentas de su administración;
+XV.- Rendir anualmente, en la fecha y con las formalidades que la Junta Directiva le señale, el Informe General de las actividades, así como las cuentas de su administración;
 
-XV.- Rendir los informes y cuentas parciales que el Presidente del Consejo y la Junta Directiva lo soliciten;
+XVI.- Rendir los informes y cuentas parciales que el Presidente de la Junta Directiva le solicite;
 
-XVI.- Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento de los objetivos del Consejo;
+XVII.- Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento del objeto del Consejo;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+XVIII. - Proponer y promover la concertación de acciones conjuntas entre los sectores públicos (sic), social y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos, que en el campo o la ciudad, se encuentren marginados de los beneficios del desarrollo,
 
-XVII.- Proponer y promover la concertación de acciones conjuntas entre los sectores público, social y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos, que en el campo o la ciudad, se encuentren marginados de los beneficios del desarrollo;
+XIX.- Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
 
-XVIII.- Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
+XX.- Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+XXI.- Elaborar y someter a consideración de la Junta Directiva, para su análisis y aprobación, el Proyecto de Reglamento Interno del Consejo y sus reformas, así como los manuales administrativos necesarios para la operación del mismo y las modificaciones que se requieran.
 
-XIX.- Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de Gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área; y
+XXII.- Otorgar poderes generales o especiales con las facultades que le competan, inclusive los que requieran autorización o cláusula especial, en los términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+XXIII.- Sustituir y revocar los poderes generales o especiales que haya otorgado;
 
-XX.- En general, desempeñar las demás funciones que éste ordenamiento señala, las que el reglamento de ésta Ley indique, las del reglamento interior del consejo o aquellas que por disposiciones o acuerdos de la Junta Directiva o del Presidente del Consejo, le determinen. Para apoyar su función se integrará con las unidades administrativas y técnicas que la estructura requiera.
+XXIV.- Proponer a la Junta Directiva la estructura orgánica del Consejo, y en su caso, las modificaciones que sean procedentes, incluyendo la creación y supresión de plazas;
+
+XXV.- Presentar ante a (sic) Junta Directiva, los estados financieros y el cierre del ejercicio presupuestal del Consejo; y,
+
+XXVI.- las demás que le otorguen la Junta Directiva, y otras disposiciones aplicables.
 
 ### CAPITULO CUARTO. DE LOS COMITES MUNICIPALES DE POBLACION
 
@@ -601,25 +699,43 @@ IV.- Buscar los mecanismos para lograr de los organismos oficiales o privados lo
 
 V.- Proponer al consejo acciones, lineamientos y políticas de población que respondan a las características, tradiciones culturales y valores propios de los habitantes Del Municipio.
 
-###### ARTICULO 48°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-Los Presidentes Municipales, en su carácter de Presidentes de los Comités de Población informarán anualmente por escrito, a los habitantes se (sic) su municipio y al consejo sobre el avance y los resultados de la ejecución del programa y sub-programas De Población.
+###### ARTICULO 48º.
 
-## TITULO SEXTO. DE LAS RELACIONES LABORALES
+los presidentes municipales en su carácter .de presidente de los Comités de Población informarán anualmente por escrito, a los habitantes de sus municipios y a la Junta Directiva sobre el avance y los resultados de la ejecución del Programa Municipal de Población.
 
-###### ARTICULO 49°.
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2006)</small>
 
-Las relaciones laborales de los empleados del consejo, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas del Estado de Baja California, por esta Ley, y los Reglamentos que de ella emanen.
+## TITULO SEXTO. DEL ORGANO DE VIGILANCIA
 
-###### ARTICULO 50°.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
-El personal del consejo, queda incorporado para efectos del disfrute de prestaciones y de seguridad social, al Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y Municipios de Baja California.
+###### ARTICULO 49º.
+
+El Consejo, contará con un órgano de vigilancia que se denominará Comisaría, el cual estará integrado por un Comisario Propietario y un Comisario Suplente, que serán designados y removidos libremente por el Contralor General del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 50º.
+
+La Comisaría del Consejo, ejercerá las funciones que expresamente le confieran la Ley de la (sic) Entidades Paraestatales del Estado de Baja California y el propio Reglamento Interno de la Contraloría General del Estado.
 
 ## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 ###### ARTICULO 51°.
 
 Los Servidores de la Administración Pública Estatal, Paraestatal, Municipal y Paramunicipal, que en ejercicio de las funciones inherentes a su empleo, cargo a comisión, contravengan las disposiciones de ésta Ley y de la que de ella se deriven, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+## TITULO OCTAVO. DE LA EXTINCION O FUSION
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 52º.
+
+Cuando el Consejo deje de cumplir con el objeto para lo que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo a la opinión de la Secretaría general (sic) de Gobierno, propondrá al Ejecutivo del Estado, la disolución, liquidación o extinción de este organismo. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ## TRANSITORIOS
 
@@ -660,3 +776,9 @@ LIC. RODOLFO VALDEZ GUTIERREZ.
 P.O. 11 DE MAYO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 18 DE AGOSTO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
