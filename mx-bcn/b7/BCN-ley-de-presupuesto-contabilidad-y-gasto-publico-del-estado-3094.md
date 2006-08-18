@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2002-11-08"
+last_updated: "2006-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -53,7 +53,9 @@ II. De los Municipios del Estado, misma que será aplicada por los Ayuntamientos
 
 El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera, pagos de pasivos o deuda pública, realizan:
 
-En el Gobierno del Estado:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+I. En el Gobierno del Estado:
 
 a) El Poder Legislativo.
 
@@ -67,11 +69,17 @@ c) El Poder Ejecutivo a través de:
 
 3. Las Empresas de Participación Estatal Mayoritaria;
 
-4. Los Fideicomisos en los que el fideicomitente mayoritario sea el Gobierno del Estado, y
+4. Los Fideicomisos en los que el fideicomitente mayoritario sea el Gobierno del Estado, y (sic)
 
 5. La Comisión Agraria Mixta, los Tribunales Administrativos y Procuradurías con autonomía jurisdiccional que funcionen en el Estado;
 
-En los Municipios del Estado:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+6.- Los Organismos Públicos Autónomos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+II. En los Municipios del Estado:
 
 a) Los Ayuntamientos, la Secretaría, la Tesorería, la Sindicatura Municipal y demás Dependencias señaladas en su Reglamento Interior de conformidad con la fracción XIV del Artículo 43 de la Ley Orgánica de la Administración Publica Municipal del Estado de Baja California.
 
@@ -227,7 +235,9 @@ La Secretaría de Planeación y Finanzas, y las Tesorerías Municipales, al exam
 
 Para la formulación del proyecto del presupuesto de egresos del Gobierno del Estado y de los Municipios, las Dependencias y Entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las Dependencias, directamente a la Secretaría de Planeación y Finanzas y a las Tesorerías Municipales; las Entidades lo harán, en su caso, por conducto de la Dependencia coordinadora del sector correspondiente.
 
-Los Poderes Legislativo y Judicial formularán sus propios proyectos de presupuesto y los remitirán al Ejecutivo del Estado a más tardar el 20 de noviembre del año inmediato anterior al que corresponda para que ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+Los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos, formularán sus propios proyectos de presupuesto y los remitirán al Ejecutivo del Estado a más tardar el 20 de noviembre del año inmediato anterior al que corresponda para que ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -375,15 +385,13 @@ La deuda pública a amortizar, deberá cumplir previamente con lo establecido en
 
 Toda erogación o gasto público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo y se sujetará a los requisitos que se establezcan en el Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 42.
 
-Las asignaciones consignadas en el Presupuesto de Egresos del Poder Ejecutivo, de los Ayuntamientos y de las Entidades de la Administración Pública Descentralizada, señalan el límite máximo de las erogaciones del que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se reprogramarán por conducto de la Secretaría de Planeación y Finanzas, las Tesorerías Municipales, o de las instancias equivalentes en las Entidades, respectivamente, a los programas previstos en el Plan Estatal o Municipal de Desarrollo que consideren convenientes, a la amortización de deuda pública o a los fines de asistencia social que determinen el Ejecutivo o los Presidentes Municipales, previa autorización del Congreso del Estado o del Ayuntamiento, respectivamente. Igual tratamiento deberá darse al ingreso que se obtenga de manera adicional al pronosticado base para la preparación del presupuesto de egresos.
+Las asignaciones consignadas en el Presupuesto de Egresos de los tres poderes del Estado, de los Ayuntamientos, de las Entidades de la Administración Pública Descentralizada, y de los Organismos Públicos Autónomos, señalan el límite máximo de las erogaciones del que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, en las cuales una vez efectuada la ampliación, no podrá reducirse ni transferirse a otras partidas, excepto cuando se trate de ampliaciones derivadas de recursos federales, pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se reprogramarán por conducto de la Secretaría de Planeación y Finanzas, las Tesorerías Municipales, o de las instancias equivalentes en las Entidades u organismos públicos autónomos, respectivamente, a los programas previstos en el Plan Estatal o Municipal de Desarrollo que consideren convenientes; a la amortización de deuda pública o a los fines de asistencia social que determinen el Ejecutivo o los Presidentes Municipales, o aquellos que determinen las Entidades, previa autorización del Congreso del Estado o del Ayuntamiento, respectivamente. Igual tratamiento deberá darse al ingreso que se obtenga de manera adicional al pronosticado base para la preparación del presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-En el ejercicio fiscal que resulte excedente de ingresos sobre egresos, cualquiera que sea la causa de éste, de las Entidades que reciben subsidio o aportación, estatal o municipal, se aplicará a cuenta del subsidio o aportación que les corresponda en el siguiente ejercicio fiscal, cuando no sean reprogramados y ejercidos en el mismo ejercicio conforme a lo señalado en el párrafo anterior.
+En el ejercicio fiscal que resulte excedente de ingresos sobre egresos, cualquiera que sea la causa de éste, de las Entidades u organismos públicos autónomos que reciben subsidio o aportación, estatal o municipal, se aplicará a cuenta del subsidio o aportación que les corresponda en el siguiente ejercicio fiscal, cuando no sean reprogramados y ejercidos en el mismo ejercicio conforme a lo señalado en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -399,6 +407,10 @@ a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo 
 
 b) Cuando se efectúen transferencias de distintos grupos de gasto para incrementar el presupuesto de los programas de Inversión en Obra Pública; siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado, sin que en ningún caso se afecten las partidas de asistencia social.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+c) Cuando se efectúe ampliación de partidas de las consideradas de ampliación automática.
+
 El Congreso del Estado, resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Congreso del Estado dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste o de su Organo de Fiscalización, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, por una sola ocasión. En tanto que para efecto de las excepciones señaladas en los incisos a) y b) anteriores, el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
@@ -411,7 +423,13 @@ II.- El Poder Judicial por conducto del Presidente del Consejo de la Judicatura,
 
 En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera de la propuesta.
 
-Sobre la respuesta del Congreso del Estado se aplicará lo dispuesto en el último párrafo de la fracción I del presente artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+Cuando se efectúe ampliación de partidas de las consideradas de ampliación automática, deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+Sobre la respuesta del Congreso del Estado se aplicará lo dispuesto en el penúltimo párrafo de la fracción I del presente artículo.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -423,7 +441,29 @@ a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo 
 
 b) Cuando se efectúen transferencias de distintos grupos de gasto para incrementar el presupuesto de los programas de Inversión en Obra Pública; siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado, sin que en ningún caso se afecten las partidas de asistencia social.
 
-El Ayuntamiento resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Ayuntamiento dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida. En tanto que para efecto de las excepciones señaladas en los incisos a) y b) anteriores, el Ayuntamiento resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio. Las modificaciones, y en su caso, la certificación del Acuerdo del Ayuntamiento en que se autoricen, deberán ser remitidas dentro de los quince días siguientes al Congreso del Estado para su conocimiento y efectos de revisión de la Cuenta Pública.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+e) Cuando se efectúe ampliación de partidas de las consideradas de ampliación automática.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+El Ayuntamiento resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Ayuntamiento dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Ayuntamiento resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio. Las modificaciones, y en su caso, la certificación del Acuerdo del Ayuntamiento en que se autoricen, deberán ser remitidas dentro de los quince días siguientes al Congreso del Estado para su conocimiento y efectos de revisión de la Cuenta Pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
+
+V.- Los Organismos Públicos Autónomos, por conducto de su Titular o quien por disposición de Ley se encuentre facultado para ello, solicitará al Congreso del Estado la autorización correspondiente para efectuar transferencias, ampliación, creación o supresión de partidas en su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada. Excepto en tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá de dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio de los Organismos Públicos Autónomos, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera de la propuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+Cuando se efectúe ampliación de partidas de las consideradas de ampliación automática, deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2006)</small>
+
+Sobre la respuesta del Congreso del Estado se aplicará lo dispuesto en el penúltimo párrafo de la fracción I del presente artículo.
 
 En todos los casos de solicitud de autorización como de avisos de modificación presupuestal, se deberá acompañar la información sobre los programas y subprogramas que se pretendan crear y de los que hayan sido o pretendan ser afectados.
 
@@ -465,7 +505,9 @@ La contabilidad se llevará con base acumulativa para facilitar la formulación,
 
 Los catálogos de cuentas que utilizarán las Dependencias a que se refieren el inciso c) subinciso 1 y 5 de la fracción I y el inciso a) de la fracción II del artículo 2o. de esta Ley serán emitidos por la Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales respectivamente y los de las Entidades mencionadas en los subincisos 2 a 4 del inciso c) de la fracción I y los incisos b), c) y d) de la fracción II del mismo artículo, serán autorizados expresamente por dicha Secretaría y Tesorerías Municipales.
 
-El Poder Legislativo y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las Dependencias del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+El Poder Legislativo y el Poder Judicial, así como los organismos públicos autónomos, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las Dependencias del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -818,3 +860,7 @@ Las presentes reformas entrarán en vigor el día primero del mes de diciembre d
 P.O. 8 DE NOVIEMBRE DE 2002.
 
 UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE AGOSTO DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
