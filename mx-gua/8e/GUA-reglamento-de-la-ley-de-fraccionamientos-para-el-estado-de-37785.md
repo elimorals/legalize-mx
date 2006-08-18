@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-fraccionamientos-para-el-estado-de-3778
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-13"
-last_updated: "2004-02-13"
+last_updated: "2006-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2006.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de febrero de 2004.
 
@@ -111,7 +111,9 @@ II.- Copia de la escritura constitutiva inscrita en el Registro Público de la P
 
 III.- Documento que acredite la personalidad jurídica del desarrollador;
 
-IV.- Certificado de libertad de gravámenes por un periodo de 20 años actualizado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+IV.- Certificado de libertad de gravámenes actualizado;
 
 V.- Constancia de no adeudo del impuesto predial que señale la clave catastral del predio;
 
@@ -157,7 +159,9 @@ l.- Copia de las escrituras públicas de propiedad debidamente inscritas en el R
 
 II.- Copia de la escritura constitutiva inscrita en el Registro Público de la Propiedad y del Comercio, cuando se trate de persona moral;
 
-III.- Certificado de libertad de gravámenes por un periodo de 20 años actualizado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+III.- Certificado de libertad de gravámenes actualizado;
 
 IV.- Constancia de no adeudo del impuesto predial que señale la clave catastral del predio;
 
@@ -175,7 +179,9 @@ X.- Plano de lotificación totalmente acotado;
 
 XI.- Memoria descriptiva del proyecto, señalando el tipo de desarrollo y los datos técnicos necesarios para la dotación de los servicios; y
 
-XII.- En el caso de desarrollos en condominio, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale las áreas de uso común y las privativas, proyecto arquitectónico tipo de las viviendas, locales o áreas, así como copia del proyecto de constitución del régimen de propiedad en condominio.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+XII.- En el caso de desarrollos en condominio, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale las áreas de uso común, áreas de uso público y áreas privativas. En el caso de llevar a cabo la construcción simultánea de vivienda, locales o edificios, el desarrollador presentará los proyectos arquitectónicos correspondientes.
 
 ###### Artículo 14.
 
@@ -185,7 +191,7 @@ l.- Respetar las condicionantes señaladas en la licencia de factibilidad de uso
 
 II.- Determinar, con apego a las normas técnicas fijadas en el reglamento municipal y demás disposiciones legales, las características del proyecto; y
 
-III.- Tratándose de desarrollos en condominio adjuntar el proyecto arquitectónico de las viviendas o locales tipo, que incluya las áreas de uso comun, público y privado.
+III.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
 
 ###### Artículo 15.
 
@@ -265,7 +271,9 @@ II.- Urbanización por secciones: es aquella en que debido a la extensión, cara
 
 Dicha autorización es independiente de los trámites, que en su caso, se requieran para obtener la licencia de construcción de las obras de edificación.
 
-Las normas y disposiciones que establezcan los organismos operadores y otras dependencias que autoricen los proyectos de infraestructura, formarán parte integral de la Licencia de Urbanización.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
+En el caso de los Desarrollos en condominio, la autorización de la licencia de urbanización podrá obtenerse de forma independiente de los trámites que se requieran para obtener la licencia de edificación de las viviendas, locales o edificios; la que podrá obtenerse por el desarrollador o por el condominio de acuerdo a las disposiciones que para ellos se señalen en los reglamentos municipales correspondientes.
 
 ###### Artículo 23.
 
@@ -323,15 +331,15 @@ La Dirección, en los términos del artículo 48 de la Ley, podrá otorgar la am
 
 Sí vencido el plazo adicional no se han iniciado las obras, la Dirección comunicará al Ayuntamiento dicha circunstancia, para los efectos conducentes.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
 ###### Articulo 33.
 
 Cuando en un predio por fraccionar existan obras o instalaciones de servicio público, el desarrollador evitará la interferencia de sus propias obras o instalaciones con las existentes.
 
-En caso de que se cause daño o deterioro a las obras o instalaciones existentes, el desarrollador será responsable de su reparación: para ello, la Dirección fijará un plazo perentorio, según la naturaleza del daño causado y la urgencia de repararlo, a fin de que la obra conducente quede debidamente ejecutada a tiempo.
+En caso de que se cause daño o deterioro a las obras o instalaciones existentes, el desarrollador será responsable de su reparación; para ello la Dirección fijará un plazo perentorio, según la naturaleza del daño causado y la urgencia de repararlo, a fin de que la obra conducente quede debidamente ejecutada a tiempo.
 
-Si vencido el plazo no se hubiere concluido la reparación, ésta se ejecutará por la Dirección a cuenta del desarrollador.
-
-Lo dispuesto en este artículo, no exime al desarrollador de las responsabilidades e infracciones en que hubiere incurrido por la falta de prestación del o los servicios públicos afectados.
+Cuando el desarrollador incumpla con lo señalado en este artículo, se hará acreedor a las sanciones previstas en las disposiciones aplicables
 
 ###### Artículo 34.
 
@@ -347,21 +355,27 @@ La Dirección a petición del interesado, podrá otorgar la suspensión temporal
 
 ### Capítulo Sexto. Del Permiso de Venta de Fraccionamientos y Desarrollos en Condominio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 37.
 
-Iniciadas las obras de urbanización de un fraccionamiento, y de urbanización y edificación tratándose de desarrollos en condominio, el desarrollador tramitará la solicitud de permiso de venta de una sección o totalidad del desarrollo ante la Dirección, para poder promover y enajenar los lotes, debiendo cumplir con lo dispuesto por el artículo 49 de la Ley, y además deberá presentar la siguiente documentación:
+Iniciadas las obras de urbanización de un fraccionamiento o desarrollo en condominio, el desarrollador podrá tramitar el permiso para la venta de una sección o totalidad del mismo ante la Dirección, debiendo cumplir con lo dispuesto por el artículo 49 de la Ley y, además, deberá presentar la siguiente documentación:
 
 I.- Plano de lotificación, con las medidas físicas de cada uno de los lotes que integran el desarrollo delimitando claramente la sección solicitada en su caso;
 
 II.- Escritura de constitución del régimen de propiedad en condominio, tratándose de desarrollos en condominio;
 
-III.- En caso de existir algún gravámen procedente de un financiamiento para construcción de vivienda, acreditar el mismo con la presentación del documento referido para continuar con el trámite; y
+III.- En caso de existir algún gravamen procedente de un financiamiento para construcción de vivienda, acreditar el mismo con la presentación del documento referido para continuar con el trámite; y
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 IV.- Copia certificada de la escritura pública en la que conste la transmisión de propiedad a favor del Municipio, de las áreas de donación y de las vialidades, según se trate de fraccionamientos o desarrollo en condominio.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 38.
 
-Una vez recibida la solicitud la Dirección en base al avance registrado en las bitácoras de obra y presupuesto de las mismas determinará el monto de la garantía de las obras de urbanización faltantes y el tiempo de ejecución, considerando un incremento del 30% del valor de las obras faltantes; a excepción de los fraccionamientos considerados bajo el procedimiento de urbanización progresiva.
+Una vez recibida la solicitud, la Dirección en base al avance registrado en las bitácoras de obra, presupuesto y programa de ejecución de las mismas, determinará el monto de la garantía de las obras de urbanización faltantes y el tiempo de ejecución, considerando el importe a valor futuro que señale la Dirección, a excepción de los considerados bajo el procedimiento de urbanización progresiva.
 
 ###### Artículo 39.
 
@@ -419,15 +433,19 @@ II.- Haber concluido la totalidad de las obras de urbanización, de acuerdo a la
 
 III.- Que los servicios y obras se encuentren funcionando en óptimas condiciones;
 
-IV.- Haber entregado a satisfacción de la Comisión Federal de Electricidad, las redes de alta y baja tensión de energía del fraccionamiento o desarrollo en condominio; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
+IV.- Haber entregado a satisfacción del organismo operador correspondiente las líneas de energía eléctrica de alta y baja tensión y alumbrado público;
 
 V.- Haber entregado a satisfacción del organismo operador, correspondiente, las redes de agua potable, drenaje y alcantarillado.
 
 Las obras de urbanización y de servicios podrán entregarse por secciones, siempre y cuando las mismas se encuentren concluidas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 48.
 
-Posterior a la recepción de la solicitud de entrega-recepción, se convocará por parte de la Dirección al desarrollador y a los organismos competentes para realizar una visita de la inspección de las obras de urbanización, de equipamiento urbano y vialidades de acuerdo al proyecto autorizado, levantado el acta correspondiente en donde se señalarán de existir, las observaciones necesarias para que éstas sean subsanadas o en caso de no existir observaciones, la recepción definitiva, disponiendo de 5 días hábiles para emitir el dictamen correspondiente.
+En la inspección final que se realice al fraccionamiento y. en su caso, de las obras de urbanización y equipamiento del desarrollo en condominio se levantará un acta en donde se señale lo previsto en el artículo 54 de la Ley, y en el supuesto de existir desperfectos, una vez reparados se procederá a la recepción definitiva, disponiendo de 5 días hábiles para emitir el dictamen correspondiente.
 
 ###### Artículo 49.
 
@@ -447,15 +465,21 @@ Previo al vencimiento de la fianza, la Dirección llevará cabo la inspección f
 
 En todos los fraccionamientos, los adquirientes de lotes tendrán la obligación de conservar los jardines y árboles plantados en las vías públicas y áreas verdes en los tramos que le correspondan al frente de sus lotes.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 53.
 
-Los adquirientes de lotes deberán tramitar a su costa y ante las autoridades competentes, la conexión o contratación de los servicios públicos que deban prestarse en los lotes que hayan adquirido en el fraccionamiento.
+Los adquirentes de lotes deberán tramitar a su costa y ante los organismos operadores correspondientes, la conexión, contratación y pago de los servicios públicos que deban prestarse en los lotes que hayan adquirido en el fraccionamiento.
 
-Cuando los servicios de agua potable alcantarillado y energía eléctrica sea conectada a los lotes del fraccionamiento, el adquiriente de los mismos, deberán pagar los derechos correspondientes a las autoridades u organismos que correspondan.
+Para la conexión, contratación y el pago de servicios en los desarrollos en condominio, relacionados con las áreas o bienes comunes y áreas privativas, se procederá conforme a lo señalado en el segundo y tercer párrafo del artículo 57 de la Ley.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 54.
 
 Los adquirientes de lotes deberán respetar las características del fraccionamiento en lo que respecta a las dimensiones de los lotes no podrán subdividir los mismos, en dimensiones menores a las señalados por la Ley y el Reglamento respectivo; igualmente están obligados a respetar la zonificación del uso del suelo autorizada al fraccionamiento.
+
+Los adquirentes de lotes en fraccionamientos y desarrollos en condominio de tipo horizontal deberán respetar las características y dimensiones de éstos, no podrán subdividir los mismos en dimensiones menores a las señaladas por la Ley y el Reglamento respectivo; igualmente están obligados a respetar la zonificación del uso de suelo autorizado en el desarrollo.
 
 ###### Artículo 55.
 
@@ -557,7 +581,7 @@ Recibida el acta de inspección por la autoridad ordenadora, en caso de encontra
 
 ###### Artículo 72.
 
-Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, a en caso de que el interesada no haya hecho uso del derecho que le concede el articulo anterior dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, emitida par la autoridad correspondiente, dentro de los 30 días hábiles siguientes, misma que se notificará al interesado, personalmente a par correo certificada con acuse de recibo.
+Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, a en caso de que el interesada no haya hecho uso del derecho que le concede el artículo anterior dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, emitida par la autoridad correspondiente, dentro de los 30 días hábiles siguientes, misma que se notificará al interesado, personalmente a par correo certificada con acuse de recibo.
 
 ###### Artículo 73.
 
@@ -580,3 +604,9 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 GERARDO RODRIGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2006.
+
+Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
