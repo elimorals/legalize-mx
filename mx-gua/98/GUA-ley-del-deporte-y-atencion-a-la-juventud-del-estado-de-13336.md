@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-deporte-y-atencion-a-la-juventud-del-estado-de-13336"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-04"
-last_updated: "2001-12-04"
+last_updated: "2006-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DEL DEPORTE Y ATENCION A LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEPORTE Y CULTURA FISICA PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1998.
 
@@ -878,3 +880,15 @@ Artículo Segundo.- La Comisión Estatal del Deporte y Atención a la Juventud d
 Artículo Tercero.- El Centro de Capacitación y formación para el Deporte entrará en funciones a partir del 1o. de enero del año 2002.
 
 Artículo Cuarto.- El Ejecutivo del Estado revisará y adecuará los reglamentos respectivos en un plazo no mayor de seis meses contado a partir de la fecha en que entre en vigor el presente decreto.
+
+P.O. 18 DE AGOSTO DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2006 previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley del Deporte y Atención a la Juventud del Estado de Guanajuato, contenida en el decreto número 102, expedida por la Quincuagésimo Séptima Legislatura, publicado en el Periódico Oficial del Gobierno del Estado número 97, segunda parte, de 4 de diciembre de 1998.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado, y los ayuntamientos, en el ámbito de sus respectivas competencias, emitirán y en su caso, adecuarán los reglamentos a que se refiere esta ley, en un plazo no mayor de seis meses a la entrada en vigor de la misma.
+
+Artículo Quinto. Los ayuntamientos en el ámbito de sus respectivas competencias, tendrán un plazo de seis meses, para contar con el organismo municipal, en los términos de la presente ley.
