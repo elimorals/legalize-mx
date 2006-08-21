@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2006-04-24"
+last_updated: "2006-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -655,15 +655,19 @@ El Gobierno Federal promoverá el diseño y aplicación de métodos y programas 
 
 ### CAPÍTULO IX. Centros Públicos de Investigación
 
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 47.
 
-Para efectos de esta Ley serán considerados como centros públicos de investigación las entidades paraestatales de la Administración Pública Federal que de acuerdo con su instrumento de creación tengan como objeto predominante realizar actividades de investigación científica y tecnológica; que efectivamente se dediquen a dichas actividades, y que sean reconocidas como tales por resolución conjunta de los titulares del CONACyT y de la dependencia coordinadora de sector al que corresponda el centro público de investigación, con la opinión de la Secretaría de Hacienda y Crédito Público para efectos presupuestales. Dicha resolución deberá publicarse en el Diario Oficial de la Federación. El CONACyT tomará en cuenta la opinión del Foro Consultivo Científico y Tecnológico.
+Para efectos de esta Ley serán considerados como centros públicos de investigación las entidades paraestatales de la Administración Pública Federal que de acuerdo con su instrumento de creación tengan como objeto predominante realizar actividades de investigación científica y tecnológica; que efectivamente se dediquen a dichas actividades; que sean reconocidas como tales por resolución conjunta de los titulares del CONACyT y de la dependencia coordinadora de sector al que corresponda el centro público de investigación, con la opinión de la Secretaría de Hacienda y Crédito Público para efectos presupuestales, y que celebren el convenio de administración por resultados que establece el presente Capítulo, para evaluar su desempeño y el impacto de sus acciones. Dicha resolución deberá publicarse en el Diario Oficial de la Federación. El CONACyT tomará en cuenta la opinión del Foro Consultivo Científico y Tecnológico.
+
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 48.
 
-Los centros públicos de investigación gozarán de autonomía de decisión técnica, operativa y administrativa en los términos de esta Ley, sin perjuicio de las relaciones de coordinación sectorial que a cada centro le corresponda. Asimismo, dichos centros regirán sus relaciones con las dependencias de la Administración Pública Federal y con el CONACyT conforme a los convenios de desempeño que en los términos de esta Ley se celebren. Los organismos creados con el objeto de apoyar o realizar actividades de investigación científica y desarrollo tecnológico, que se hayan constituido a través de convenios o tratados internacionales, cuya sede sea México, se regirán conforme a sus respectivos instrumentos de creación.
+Los centros públicos de investigación gozarán de autonomía de decisión técnica, operativa y administrativa en los términos de esta Ley, y de gestión presupuestaria de conformidad con lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones legales aplicables; sin perjuicio de las relaciones de coordinación sectorial que a cada centro le corresponda. Asimismo, dichos centros regirán sus relaciones con las dependencias de la Administración Pública Federal y con el CONACyT conforme a los convenios de administración por resultados que en los términos de esta Ley se celebren. Los organismos creados con el objeto de apoyar o realizar actividades de investigación científica y desarrollo tecnológico, que se hayan constituido a través de convenios o tratados internacionales, cuya sede sea México, se regirán conforme a sus respectivos instrumentos de creación.
 
-El CONACyT será la entidad autorizada para dictaminar y resolver sobre aspectos científicos y tecnológicos de los convenios de desempeño y sobre la periodicidad de la evaluación de los proyectos.
+El CONACyT será la entidad autorizada para dictaminar y resolver sobre aspectos científicos y tecnológicos de los convenios de administración por resultados y sobre la periodicidad de la evaluación de los proyectos.
 
 ###### Artículo 49.
 
@@ -679,15 +683,33 @@ II. Se constituirán con los recursos autogenerados del propio centro público d
 
 III. El beneficiario del fondo será el centro público de investigación que lo hubiere constituido;
 
-IV. El objeto del fondo será financiar o complementar financiamiento de proyectos específicos de investigación, la creación y mantenimiento de instalaciones de investigación, su equipamiento, el suministro de materiales, el otorgamiento de becas y formación de recursos humanos especializados, el otorgamiento de incentivos extraordinarios a los investigadores que participen en los proyectos, y otros propósitos directamente vinculados para proyectos científicos o tecnológicos aprobados. En ningún caso los recursos podrán afectarse para gastos fijos de la administración de la entidad. Los bienes adquiridos y obras realizadas con recursos de los fondos formarán parte del patrimonio del propio centro;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+IV. El objeto del fondo será financiar o complementar financiamiento de proyectos específicos de investigación, la creación y mantenimiento de instalaciones de investigación, su equipamiento, el suministro de materiales, el otorgamiento de becas y formación de recursos humanos especializados, el otorgamiento de incentivos extraordinarios a los investigadores que participen en los proyectos, y otros propósitos directamente vinculados para proyectos científicos o tecnológicos aprobados. Así mismo, podrá financiarse la contratación de personal por tiempo determinado para proyectos científicos o tecnológicos, siempre que no se regularice dicha contratación posteriormente. En ningún caso los recursos podrán afectarse para gastos fijos de la administración de la entidad. Los bienes adquiridos y obras realizadas con recursos de los fondos formarán parte del patrimonio del propio centro. La contratación de las adquisiciones, arrendamientos y servicios con cargo a los recursos autogenerados de los fondos, será conforme a las reglas de operación de dichos fondos; a los criterios, procedimientos y mecanismos que en estas materias expidan los órganos de gobierno de los centros, así como a las disposiciones administrativas que, en su caso, estime necesario expedir la Secretaría de la Función Pública o la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez, para satisfacer los objetivos a los que estén destinados y asegurar al centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+El ejercicio de los recursos a que se refiere el párrafo anterior, será objeto de fiscalización por parte de la Secretaría de la Función Pública y por la Auditoría Superior de la Federación, en el ámbito de sus respectivas competencias;
 
 V. El centro público de investigación, por conducto de su órgano de gobierno, establecerá las reglas de operación del fondo, en las cuales se precisarán los tipos de proyectos que recibirán los apoyos, los procesos e instancias de decisión para su otorgamiento, seguimiento y evaluación, y
 
 VI. La cuantía o la disponibilidad de recursos en los Fondos, incluyendo capital e intereses y los recursos autogenerados a que se refiere la presente Sección, no darán lugar a la disminución, limitación o compensación de las asignaciones presupuestales normales, autorizadas conforme al Presupuesto de Egresos de la Federación para los centros públicos de investigación, que, de conformidad con esta Ley, cuenten con dichos Fondos.
 
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 51.
 
-Los centros públicos de investigación, particularmente los orientados a la modernización, innovación y desarrollo tecnológico, promoverán la conformación de asociaciones, alianzas, consorcios o nuevas empresas privadas de base tecnológica, en las cuales se procurará la incorporación de investigadores formados en los propios centros.
+Los centros públicos de investigación, particularmente los orientados a la modernización, innovación y desarrollo tecnológico, promoverán la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios o nuevas empresas privadas de base tecnológica, en las cuales se procurará la incorporación de investigadores formados en los propios centros.
+
+En relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de los centros públicos de investigación aprobarán y establecerán lo siguiente:
+
+I. Los lineamientos y condiciones básicas de las asociaciones, proyectos, convenios o contratos que conlleven la participación del centro, con o sin aportación en el capital social en las empresas de que se trate, y
+
+II. Los términos y requisitos para la incorporación y participación del personal del centro en las asociaciones, alianzas, consorcios o nuevas empresas de que se trate.
+
+Asimismo, los órganos de gobierno de los centros públicos de investigación podrán establecer apoyos y criterios conforme a los cuales el personal del centro de que se trate pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con el centro y, en su caso, con terceros.
+
+Los términos, requisitos y criterios a que se refiere la fracción II y el párrafo anterior serán establecidos por los órganos de gobierno de los Centros mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que el personal de los Centros incurra en el conflicto de intereses al que hacen referencia los artículos 8, fracción XII, y 9 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control.
+
+Los órganos de gobierno también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan al centro público de investigación en relación a lo dispuesto en este artículo.
 
 ###### Artículo 52.
 
@@ -717,7 +739,9 @@ II. Aprobar la distribución del presupuesto anual definitivo de la entidad y el
 
 III. Aprobar, sin que se requiera autorización de la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias a sus programas que no impliquen la afectación de su monto total autorizado, recursos de inversión, proyectos financiados con crédito externo, ni el cumplimiento de los objetivos y metas comprometidas;
 
-IV. Decidir el uso y destino de recursos autogenerados obtenidos a través de la enajenación de bienes o la prestación de servicios, ya sea dentro del presupuesto de la entidad o canalizando éstos al fondo de investigación;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+IV. Decidir el uso y destino de recursos autogenerados obtenidos a través de la enajenación de bienes o la prestación de servicios, por la participación en asociaciones, alianzas o nuevas empresas de base tecnológica, donativos o por cualquier otro concepto que pudiera generar beneficios al centro conforme a esta Ley, ya sea dentro del presupuesto de la entidad o canalizando éstos al fondo de investigación; así como establecer los criterios para el uso y destino de los recursos autogenerados que se obtengan en exceso a lo programado, informando a la Secretaría de Hacienda y Crédito Público sobre el origen, monto, destino y criterios de aplicación de sus recursos autogenerador (sic), de conformidad con las disposiciones aplicables, y para efectos de los informes trimestrales y Cuenta Pública;
 
 V. Autorizar la apertura de cuentas de inversión financiera, las que siempre serán de renta fija o de rendimiento garantizado;
 
@@ -725,21 +749,45 @@ VI. Autorizar en lo general el programa y los criterios para la celebración de 
 
 VII. Expedir las reglas de operación de los fondos de investigación y aprobar el contenido de los contratos de fideicomiso y cualesquiera modificaciones a los mismos, así como la reglamentación interna, o sus modificaciones, que le proponga el titular del centro para la instrumentación de los programas sustantivos;
 
-VIII. Aprobar los términos de los convenios de desempeño cuya celebración se proponga en los términos de esta Ley;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
-IX. Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías, conforme a las normas generales que expida la Secretaría de Hacienda y Crédito Público;
+VIII. Aprobar los términos de los convenios de administración por resultados cuya celebración se proponga en los términos de esta Ley, así como decidir su terminación anticipada;
+
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+IX. Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías conforme a las disposiciones legales aplicables, así como a las especificas que se establezcan en el Sistema Integral de Profesionalización de cada centro;
 
 X. Establecer el sistema de profesionalización de los investigadores con criterios de estabilidad y carrera en la investigación, dentro de los recursos previstos en el presupuesto;
 
-XI. Determinar las reglas y los porcentajes conforme a los cuales los investigadores podrán participar en los ingresos a que se refiere la fracción IV de este artículo, así como, por un periodo determinado, en las regalías que resulten de aplicar o explotar derechos de propiedad intelectual, que surjan de proyectos realizados en el centro de investigación;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+XI. Determinar las reglas y los porcentajes conforme a los cuales el personal del centro podrá participar en los ingresos a que se refiere la fracción IV de este artículo, así como, por un periodo determinado, en las regalías que resulten de aplicar o explotar derechos de propiedad intelectual, que surjan de proyectos realizados en el centro de investigación;
 
 XII. Fijar los términos de ingreso, promoción y permanencia de su personal académico, así como regular los aspectos académicos de la investigación y la educación superior que impartan;
 
 XIII. Aprobar anualmente el informe del desempeño de las actividades de la entidad, el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, así como la evaluación de su gestión;
 
-XIV. Autorizar las erogaciones necesarias para el cumplimiento de su objeto, sin sujetarse a los criterios de racionalidad, establecidos en el Presupuesto de Egresos de la Federación, y
+XIV. Autorizar las erogaciones necesarias para el cumplimiento de su objeto, sin sujetarse a los criterios de racionalidad, establecidos en el Presupuesto de Egresos de la Federación, y (sic)
 
-XV. Aprobar y expedir las reglas de operación de sus programas sustantivos.
+XV. Aprobar y expedir las reglas de operación de sus programas sustantivos;
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+XVI. Aprobar el destino de los recursos por los ahorros que se generen que provengan de las medidas de eficiencia o de racionalización administrativa;
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+XVII. Establecer las bases y criterios generales que deberán observar los investigadores que concluyan su empleo, cargo o comisión en los Centros, para el eventual uso y aprovechamiento de la información que éstos hubiesen conocido o generado durante o con motivo de su desempeño como personal de los Centros, en los casos en que una vez separados de los Centros, decidan colaborar en forma inmediata con otra dependencia o entidad, pública o privada.
+
+Los órganos de gobierno de los Centros establecerán estas bases y criterios mediante la expedición de normas generales que consistirán en medidas de carácter preventivo orientadas a evitar que el personal de los Centros incumpla lo dispuesto en el artículo 8, fracción V de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos e incurra en el conflicto de intereses al que hacen referencia los artículos 8, fracción XII, y 9 del mismo ordenamiento. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control;
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+XVIII. Definir la información que corresponda al centro público de investigación y que debe considerarse de carácter confidencial para efectos de apropiación, así como las bases y mecanismos para su uso, disposición, protección y resguardo por parte de los investigadores, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+XIX. Las demás que establece esta Ley.
 
 ###### Artículo 57.
 
@@ -749,13 +797,15 @@ Los ordenamientos que en cada caso determinen la conformación del órgano de go
 
 Adicionalmente a los requisitos que para ser titular de un centro público de investigación establecen la Ley Federal de las Entidades Paraestatales y sus disposiciones reglamentarias, los ordenamientos que rijan la organización de cada centro establecerán los requisitos específicos de experiencia, especialización y méritos para poder ocupar el cargo, el procedimiento para su nombramiento, de su suplencia, así como la duración máxima de su desempeño.
 
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 59.
 
-En el ejercicio de su autonomía los centros públicos de investigación regirán sus relaciones con la Administración Pública Federal y el CONACyT a través de convenios donde se establezcan las bases de desempeño, cuyo propósito fundamental será mejorar las actividades de dichos centros, alcanzar mayores metas y lograr resultados. Dichos convenios serán de naturaleza jurídica distinta a los que establezca el Decreto aprobatorio del Presupuesto de Egresos de la Federación, no obstante lo cual los centros públicos que celebren sus respectivos convenios contarán con las facilidades administrativas que establezcan los Decretos anuales referidos.
+Los centros públicos de investigación celebrarán con la dependencia coordinadora de sector, con el CONACyT y con las Secretarías de Hacienda y Crédito Público y de la Función Pública, convenios de administración por resultados cuyos propósitos fundamentales serán mejorar las actividades de cada centro, alcanzar las metas y lograr los resultados programados y convenidos, tener una actuación y un ejercicio de gasto y rendición de cuentas más eficiente y transparente, y vincular la administración por resultados e impactos con el monto del presupuesto que se le asigne. Dichos convenios serán de naturaleza jurídica distinta a los que establezca la ley de la materia y el Decreto aprobatorio del Presupuesto de Egresos de la Federación, no obstante lo cual los centros públicos que celebren sus respectivos convenios contarán con las facilidades administrativas que establezcan los Decretos anuales referidos.
 
-La vigencia de los convenios será de tres años en la medida en que los resultados de la evaluación anual determinen que los centros han dado cumplimiento a los compromisos pactados en estos instrumentos. Concluido dicho plazo continuarán con vigencia indefinida hasta en tanto no se den por terminados expresamente por la voluntad de las partes. Los convenios de desempeño se revisarán anualmente en las cuestiones que propongan el CONACyT o el centro y en aspectos de metas y de montos de recursos presupuestales.
+La vigencia de los convenios será de cinco años en la medida en que los resultados de la evaluación anual determinen que los Centros han dado cumplimiento a los compromisos pactados en estos instrumentos. Concluido dicho plazo continuarán con vigencia indefinida hasta en tanto no se den por terminados expresamente por la voluntad de las partes. Los convenios de administración por resultados se revisarán anualmente en las cuestiones que propongan el CONACyT o el Centro y en aspectos de metas y de montos de recursos presupuestales, tomando en cuenta el resultado de las evaluaciones que de acuerdo a este Capítulo se realicen.
 
-El modelo de convenio será aprobado por las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo y el CONACyT, correspondiendo a este último y al coordinador de sector correspondiente suscribirlos con cada centro.
+Para la determinación y, en su caso, ampliación del presupuesto de los centros públicos de investigación, se tomará en consideración el Programa de Mediano Plazo y la evaluación de sus resultados académicos, docentes, de investigación y de desarrollo tecnológico que realicen y su gestión académica, administrativa y financiera conforme se establece en el artículo 60 de esta Ley.
 
 Dichos convenios contendrán, entre otras bases, las siguientes:
 
@@ -763,29 +813,43 @@ I. El programa de mediano plazo, que incluya proyecciones multianuales financier
 
 II. El programa anual de trabajo que señale objetivos, estrategias, líneas de acción y metas comprometidas con base en indicadores de desempeño;
 
-III. Los criterios e indicadores de desempeño y evaluación de resultados de actividades y proyectos que apruebe su órgano de gobierno. Tratándose de aspectos de carácter técnico o científico, éstos serán dictaminados por el CONACyT, el cual deberá convocar para tal efecto a expertos en la especialidad que corresponda;
+III. Los criterios e indicadores de desempeño y evaluación de resultados de actividades y proyectos que apruebe su órgano de gobierno, y
 
-IV. El programa de prestación de servicios y asociaciones estratégicas;
+IV. Las demás que se establezcan conforme a las disposiciones legales y reglamentarias aplicables.
 
-V. Los flujos de efectivo y estados estimados de resultados;
+La Secretaría de Hacienda y Crédito Público garantizará el flujo oportuno de recursos fiscales y por conducto de la Coordinadora de Sector evaluará la gestión financiera. La Secretaría de la Función Pública intervendrá para apoyar las acciones preventivas, la gestión administrativa y asegurar la rendición de cuentas en la utilización de los recursos financieros. La dependencia Coordinadora de Sector o el CONACyT en el ejercicio de sus facultades de coordinadora de sector asegurará la congruencia de los programas sectoriales con los institucionales y apoyará la gestión de los centros.
 
-VI. El sistema de evaluación externa que acuerden las partes, el que incluirá la participación de miembros de reconocido prestigio en el ámbito de actividades del centro de que se trate, mediante el cual se revisarán las actividades sustantivas de cada centro;
+Los resultados de las evaluaciones y auditorías que se realicen respecto al cumplimiento de metas, utilización de recursos y medidas correctivas adoptadas que se efectúen conforme al presente Capítulo, deberán informarse al órgano de gobierno de cada centro e incorporarse al sistema integrado de información a que se refieren los artículos 15 y 16 de esta Ley, de tal manera que sean accesibles al público.
 
-VII. Las medidas correctivas para mejorar el desempeño de la gestión, con mecanismos que promuevan una gestión eficiente y eficaz con base en resultados;
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
-VIII. El contenido mínimo de los reportes de seguimiento y cumplimiento y la fecha en que deberá presentarse el informe anual para que, una vez revisado por el órgano de gobierno, permita tomar decisiones respecto del presupuesto para el ejercicio anual siguiente;
+###### Artículo 60.
 
-IX. Los trámites y gestiones que a los centros públicos de investigación les serán aplicables y por consiguiente aquellas decisiones que requieran de autorización previa que no sea competencia de los órganos de gobierno, en los términos de esta Ley, y
+Para la evaluación de los convenios de administración por resultados, la dependencia coordinadora de sector y el CONACyT propondrán al órgano de gobierno del centro los mecanismos de evaluación externa de carácter sustantivo en los términos de esta Ley. Al efecto se realizarán las siguientes evaluaciones:
 
-X. Los alcances, contenido y periodicidad de la información y documentación que deban presentar los centros en materia de ingresos, resultados financieros y gasto público, procurando la simplificación del mecanismo de contraloría y fiscalización, para evitar duplicidades.
+I. La evaluación de resultados y de impactos de las actividades y resultados científicos, de investigación y docentes a cargo de un grupo de expertos o por una empresa especializada de reconocida experiencia y prestigio, y
 
-Los centros deberán rendir anualmente, al finalizar el ejercicio fiscal correspondiente, la información que corresponda a los convenios de desempeño suscritos.
+II. La evaluación de sus actividades y resultados administrativos y financieros de acuerdo con los esquemas de auditoria gubernamental.
 
-La Secretaría de Hacienda y Crédito Público garantizará el flujo oportuno de recursos fiscales y por conducto de la Coordinadora de Sector evaluará la gestión financiera. La Secretaría de Contraloría y Desarrollo Administrativo intervendrá para apoyar las acciones preventivas, la gestión administrativa y asegurar la rendición de cuentas en la utilización de los recursos financieros.
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
-La dependencia Coordinadora de Sector o el CONACyT en el ejercicio de sus facultades de coordinadora de sector asegurará la congruencia de los programas sectoriales con los institucionales y apoyará la gestión de los centros.
+###### Artículo 61.
 
-Los convenios de desempeño, los dictámenes de comités técnicos y los estados financieros de los centros públicos de investigación deberán incorporarse al sistema integrado de información a que se refieren los artículos 15 y 16 de esta Ley, de tal manera que sean accesibles al público.
+Los centros públicos de investigación dejarán de ser considerados como tales en los siguientes supuestos:
+
+I. Por mutuo acuerdo de las partes que hayan suscrito el convenio de administración por resultados en el sentido de no renovar su vigencia;
+
+II. Por la determinación de la dependencia coordinadora de sector y del CONACyT de dar por terminado anticipadamente el plazo de vigencia del convenio como consecuencia de las evaluaciones que se realicen conforme al artículo anterior, lo cual notificarán al centro público de investigación de que se trate;
+
+III. Por la solicitud que realicen a la dependencia coordinadora de sector y al CONACyT, las Secretarías de Hacienda y Crédito Público y de la Función Pública, conforme a los resultados de las revisiones y auditorías que se practiquen conforme a las disposiciones legales aplicables, o en las evaluaciones que se les entreguen conforme al artículo anterior, y
+
+IV. Por decisión del órgano de gobierno del centro de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+###### Artículo 62.
+
+La autonomía de gestión presupuestaria de los centros públicos de investigación queda establecida de conformidad con lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -850,3 +914,9 @@ SEGUNDO. Para dar cabal cumplimiento a esta disposición, y en atención al prin
 D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE AGOSTO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
