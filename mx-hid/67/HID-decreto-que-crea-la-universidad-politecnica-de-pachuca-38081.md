@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-politecnica-de-pachuca-38081"
 country: "mx"
 rank: "decreto"
 publication_date: "2004-03-15"
-last_updated: "2005-06-20"
+last_updated: "2006-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 DECRETO QUE CREA LA UNIVERSIDAD POLITECNICA DE PACHUCA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD POLlTECNICA DE TULANCINGO, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de marzo de 2004.
 
@@ -360,3 +362,15 @@ P.O. 20 DE JUNIO DE 2005.
 PRIMERO.- Las reformas al Decreto que creó la Universidad Politécnica de Pachuca, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
+
+P.O. 21 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se abroga el Decreto Publicado en el Periódico Oficial del Gobierno del Estado de fecha 15 de marzo de 2004, reformado el 20 de junio de 2005.
+
+CUARTO.- El Estatuto Orgánico de la Universidad Politécnica de Pachuca seguirá vigente en tanto se expida la modificación correspondiente, el cual deberá expedirse dentro de los sesenta días hábiles a partir de la publicación del presente Decreto.
+
+QUINTO.- El Organismo Público al que se refiere este Decreto, subsiste con la personalidad jurídica y patrimonio propios que actualmente tiene reconociéndose todos los compromisos que haya adquirido desde su creación.
