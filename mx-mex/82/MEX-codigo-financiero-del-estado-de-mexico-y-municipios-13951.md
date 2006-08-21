@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2006-07-21"
+last_updated: "2006-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -109,7 +109,9 @@ XVI. Estructura Programática. Al conjunto de categorías y elementos programát
 
 XVII. (DEROGADA, G.G. 4 DE JUNIO DE 2004)
 
-XVIII. Gasto corriente. A las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
+> <small>(REFORMADA, G.G. 21 DE AGOSTO DE 2006)</small>
+
+XVII (sic). Gasto corriente. A las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios incluidos aquellos cuya prestación sea en términos del Libro Décimo Sexto del Código Administrativo del Estado de México.
 
 XIX. Gasto de inversión en obras y acciones. A las asignaciones destinadas a cubrir el pago de las obras públicas, la adquisición de bienes muebles e inmuebles y la ejecución de proyectos productivos de carácter social.
 
@@ -10069,7 +10071,9 @@ Para la afectación de los ingresos y/o derechos referidos en las fracciones ant
 
 Los fideicomisos a que se refiere el párrafo anterior deberán ser inscritos en el Registro de Deuda Pública, y serán considerados como acreedores para los efectos de prelación y preferencia en el pago en relación con otros acreditantes que no sean fideicomisarios en dichos fideicomisos, en los términos previstos en los artículos aplicables.
 
-Cuando el derecho a percibir las participaciones en ingresos federales y los demás ingresos o derechos a que se refieren las fracciones anteriores, se hayan afectado a ese tipo de fideicomisos y éstos no tengan el carácter de fideicomisos públicos de acuerdo con la legislación aplicable y tenga por propósito primordial o exclusivo el servir como medio de pago o garantía de deuda pública contratada por el Estado, las erogaciones que se realicen con cargo a su patrimonio sólo estarán sujetas a las disposiciones establecidas en el decreto por el que la Legislatura autorice al Ejecutivo la creación del fideicomiso respectivo y a las reglas, controles y previsiones aplicables al fideicomiso de que se trate de acuerdo con las normas contractuales respectivas. Estos fideicomisos no estarán comprendidos en los previstos en el artículo 256, fracción V de este Código. La Secretaría llevará un registro de estos fideicomisos.
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
+Cuando el derecho a percibir las participaciones en ingresos federales y los demás ingresos o derechos a que se refieren las fracciones anteriores, se hayan afectado a ese tipo de fideicomisos, y éstos no tengan el carácter de fideicomisos públicos de acuerdo con la legislación aplicable y tengan por propósito primordial o exclusivo el servir como medio de pago o garantía de deuda pública contratada por el Estado o de obligaciones que deriven de contratos celebrados conforme al Libro Décimo Sexto del Código Administrativo del Estado de México, las erogaciones que se realicen con cargo al patrimonio de dichos fideicomisos sólo estarán sujetas a las disposiciones establecidas en el decreto por el que la Legislatura autorice al Ejecutivo la creación del fideicomiso respectivo y a las reglas, controles y previsiones aplicables al fideicomiso de que se trate de acuerdo con las normas contractuales respectivas. Estos fideicomisos no estarán comprendidos en los previstos en el artículo 256, fracción V de este Código y aquéllos que garanticen obligaciones que deriven de contratos celebrados conforme al Libro Décimo Sexto del Código Administrativo del Estado de México podrán no constituir deuda pública. La Secretaría llevará un registro de estos fideicomisos.
 
 La designación y remoción del fiduciario de los fideicomisos a que se refiere este artículo le corresponderá únicamente a las partes del mismo, conforme a los términos del respectivo fideicomiso.
 
@@ -10495,15 +10499,15 @@ En el caso de los municipios, la comunicación de techos presupuestarios y del M
 
 Las dependencias y entidades públicas formularán su anteproyecto de Presupuesto de Egresos de acuerdo con el manual para la formulación del anteproyecto de presupuesto, con base en los techos presupuestarios comunicados y sus programas anuales.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 297.
 
-En casos especiales y previa justificación la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, podrán autorizar que se celebren contratos de obra pública o de adquisiciones de bienes o contratación de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes.
+En casos especiales y previa justificación la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, podrán autorizar que se celebren contratos de obra pública o de adquisiciones de bienes o contratación de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes. Para los años presupuestales subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, por las dependencias y entidades gozarán de preferencia respecto de nuevos compromisos que las mismas adquieran. Las dependencias y entidades deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
 
-Cuando se determine que para el cumplimiento de algún programa se deben llevar a cabo acciones que rebasen el ejercicio presupuestal y no se pueda interrumpir su operación, se deberá presentar a la Secretaría o a la Tesorería en el ámbito de sus respectivas competencias, los juicios necesarios para que estén en posibilidad de dictaminar la procedencia de compromisos que rebasen el ejercicio presupuestal o bien que tengan vigencia por varios ejercicios presupuestales.
+Cuando la Legislatura del Estado apruebe una asignación presupuestal para el cumplimiento de obligaciones contraídas, en los términos del Libro Décimo Sexto del Código Administrativo del Estado de México, las asignaciones presupuestales para ejercicios posteriores deberán ser aprobadas y no podrán ser disminuidas de tal forma que afecte el cumplimiento de los compromisos adquiridos por el Estado bajo dicho esquema.
 
-Tratándose de obra pública cuando existan obras o acciones cuya ejecución abarque varios ejercicios presupuestales, las dependencias, entidades públicas y unidades administrativas ejecutoras deberán presentar a la Secretaría o a la Tesorería en el ámbito de sus respectivas competencias, el programa de ejecución de la obra en el que se establezca claramente el plazo para su ejecución, dicho documento deberá forma (sic) parte del expediente técnico.
+Tratándose de obra pública cuando existan obras o acciones cuya ejecución abarque varios ejercicios presupuestales, las dependencias, entidades públicas y unidades administrativas ejecutoras deberán presentar a la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, el programa de ejecución de la obra en el que se establezca claramente el plazo para su ejecución, dicho documento deberá formar parte del expediente técnico.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -12310,3 +12314,11 @@ Se derogan las normas legales y reglamentarias de igual o menor jerarquía que s
 ###### ARTÍCULO CUARTO.
 
 Para la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente a más tardar el 15 de septiembre del año 2006.
+
+G.G. 21 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente a aquél en que inicie la vigencia el Decreto que adiciona un quinto párrafo a la fracción XXX, reforma la fracción XLVII y adiciona la fracción XLVIII al artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El Titular del Ejecutivo Estatal expedirá el Reglamento y los Lineamientos para la aplicación del Libro Décimo Sexto del Código Administrativo del Estado de México, en un término de ciento veinte días posteriores a la entrada en vigor del mismo.
