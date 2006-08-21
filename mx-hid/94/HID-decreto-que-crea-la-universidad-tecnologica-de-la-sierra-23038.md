@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-tecnologica-de-la-sierra-23038"
 country: "mx"
 rank: "decreto"
 publication_date: "2001-10-15"
-last_updated: "2004-03-15"
+last_updated: "2006-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "HID"
 
 DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE LA SIERRA HIDALGUENSE
 
-> <small>N. DE E. DE CONFORMIDAD EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA AL DIVERSO RELATIVO A LA UNIVERSIDAD TECNOLOGICA DE LA SIERRA HIDALGUENSE, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE LA SIERRA HIDALGUENSE DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
-Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de octubre de 2001.
+Decreto Gubernamental publicado en el Periódico Oficial, el lunes 15 de octubre de 2001.
 
 GOBIERNO DEL ESTADO DE HIDALGO
 
@@ -338,3 +338,15 @@ P.O. 15 DE MARZO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se abroga el Decreto de fecha 21 de Abril de 1997, publicado en el Periódico Oficial del Estado, el día 24 de Abril de 1997, que crea la Universidad Tecnológica de la Huasteca Hidalguense.
+
+P.O. 21 DE AGOSTO DE 2006.
+
+Artículo Primero.- El presente Decreto, entrará en vigencia el cuarto día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Se abroga el Decreto Publicado en el Periódico Oficial del Gobierno del Estado de fecha 15 de octubre de 2001 y reformado con fecha 20 de junio de 2005.
+
+Artículo Cuarto.- El Estatuto Orgánico de la Universidad Tecnológica de la Sierra Hidalguense seguirá vigente en tanto se expida la modificación correspondiente, el cual deberá expedirse dentro de los sesenta días hábiles a partir de la Publicación del presente Decreto.
+
+Artículo Quinto.- El organismo público a que se refiere este Decreto, subsiste con la personalidad jurídica y patrimonio propios que actualmente tiene, reconociéndose los compromisos que haya adquirido desde su creación.
