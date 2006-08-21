@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2005-07-07"
+last_updated: "2006-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -59,6 +59,10 @@ V. Las empresas de participación estatal mayoritaria y los fideicomisos en los 
 VI. Las entidades federativas, con cargo total o parcial a fondos federales, conforme a los convenios que celebren con el Ejecutivo Federal, con la participación que, en su caso, corresponda a los municipios interesados. No quedan comprendidos los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal.
 
 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución, aplicarán los criterios y procedimientos previstos en esta Ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+Las adquisiciones, arrendamientos y servicios que se realicen por los Centros Públicos de Investigación con los recursos autogenerados de sus Fondos de Investigación Científica y Desarrollo Tecnológico previstos en la Ley de Ciencia y Tecnología, se regirán conforme a las reglas de operación de dichos fondos, a los criterios y procedimientos que en estas materias expidan los órganos de gobierno de estos Centros, así como a las disposiciones administrativas que, en su caso estime necesario expedir la Secretaría de la Función Pública o la Secretaría, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados y asegurar al centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 Los contratos que celebren las dependencias con las entidades, o entre entidades, y los actos jurídicos que se celebren entre dependencias, o bien los que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública Federal con alguna perteneciente a la administración pública de una entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate un tercero para su realización.
 
@@ -1321,3 +1325,9 @@ D.O.F. 7 DE JULIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE AGOSTO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
