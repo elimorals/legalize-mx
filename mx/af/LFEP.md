@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2006-06-02"
+last_updated: "2006-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -54,9 +54,9 @@ Son entidades paraestatales las que con tal carácter determina la Ley Orgánica
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
-Las dependencias de la Administración Pública Federal que tengan como objeto predominante realizar actividades de investigación científica y tecnológica y que sean reconocidas como tales, serán consideradas como Centros Públicos de Investigación, los cuales se regirán por las leyes específicas en materia de ciencia y tecnología y por sus respectivos instrumentos de creación. En lo relativo al control y evaluación del ejercicio de los recursos se aplicará en lo conducente, la presente Ley.
+Las entidades de la Administración Pública Federal que sean reconocidas como Centros Públicos de Investigación en los términos de la Ley de Ciencia y Tecnología, se regirán por esa Ley y por sus respectivos instrumentos de creación. Sólo en lo no previsto se aplicará la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2006)</small>
 
@@ -671,3 +671,9 @@ Unico.- Los artículos segundo y tercero de este Decreto entrarán en vigor el d
 D.O.F. 2 DE JUNIO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE AGOSTO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
