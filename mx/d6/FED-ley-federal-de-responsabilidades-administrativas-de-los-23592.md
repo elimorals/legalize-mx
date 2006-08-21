@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2006-06-30"
+last_updated: "2006-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -156,6 +156,10 @@ XII.- Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o
 Habrá intereses en conflicto cuando los intereses personales, familiares o de negocios del servidor público puedan afectar el desempeño imparcial de su empleo, cargo o comisión.
 
 Una vez concluido el empleo, cargo o comisión, el servidor público deberá observar, para evitar incurrir en intereses en conflicto, lo dispuesto en el artículo 9 de la Ley;
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+
+En el caso del personal de los centros públicos de investigación, los órganos de gobierno de dichos centros, con la previa autorización de su órgano de control interno, podrán determinar los términos y condiciones específicas de aplicación y excepción a lo dispuesto en esta fracción, tratándose de los conflictos de intereses que puede implicar las actividades en que este personal participe o se vincule con proyectos de investigación científica y desarrollo tecnológico en relación con terceros de conformidad con lo que establezca la Ley de Ciencia y Tecnología;
 
 XIII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XI;
 
@@ -654,3 +658,9 @@ D.O.F. 26 DE DICIEMBRE DE 2005.
 D.O.F. 30 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE AGOSTO DE 2006
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
