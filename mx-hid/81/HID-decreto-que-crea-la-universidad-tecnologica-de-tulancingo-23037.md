@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-tecnologica-de-tulancingo-23037
 country: "mx"
 rank: "decreto"
 publication_date: "2001-10-15"
-last_updated: "2005-06-20"
+last_updated: "2006-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE TULANCINGO
 
-ULTIMA REFORMA PUBLICADA EL EN PERIODICO OFICIAL: 20 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE TULANCINGO DEL ESTADO DE HIDALGO , PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de octubre de 2001.
 
@@ -348,3 +350,15 @@ P.O. 20 DE JUNIO DE 2005.
 PRIMERO.- Las reformas al Decreto que creó la Universidad Tecnológica de Tulancingo, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En un plazo de 60 días a partir de la entrada en vigor de las presentes reformas, deberá adecuarse el Estatuto Orgánico del Organismo.
+
+P.O. 21 DE AGOSTO DE 2006.
+
+Artículo Primero.- El presente Decreto, entrará en vigencia el cuarto día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Se abroga el Decreto Publicado en el Periódico Oficial del Gobierno del Estado de fecha 15 de octubre de 2001 y reformado con fecha 20 de junio de 2005.
+
+Artículo Cuarto.- El Estatuto Orgánico de la Universidad Tecnológica de Tulancingo seguirá vigente en tanto se expida la modificación correspondiente, el cual deberá expedirse dentro de los sesenta días hábiles a partir de la Publicación del presente Decreto.
+
+Artículo Quinto.- El Organismo Público a que se refiere este Decreto, subsiste con la personalidad jurídica y patrimonio propios que actualmente tiene, reconociéndose los compromisos que haya adquirido desde su creación.
