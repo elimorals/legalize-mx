@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-notariado-para-el-estado-de-guanajuato-10505"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-01"
-last_updated: "1997-12-26"
+last_updated: "2006-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 22 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de octubre de 1996.
 
@@ -1224,3 +1226,41 @@ P.O. 26 DE DICIEMBRE DE 1997.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE AGOSTO DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigencia el 1° primero de enero del año 2007 dos mil siete, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley del Notariado para el Estado de Guanajuato, contenida en el Decreto Número 226, emitido por la Quincuagésima Sexta Legislatura Constitucional del Estado Libre y Soberano de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado Número 79, Tercera Parte, de fecha 1º primero de octubre de 1996 mil novecientos noventa y seis.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Cuarto. Los fiats otorgados con anterioridad a la entrada en vigencia de la presente Ley conservarán la adscripción que en ellos se consigna.
+
+Artículo Quinto. Los notarios deberán celebrar el convenio de suplencia a que se refiere el artículo 32 de esta Ley, dentro de los seis meses siguientes a la fecha de entrada en vigor de la misma.
+
+Artículo Sexto. La unidad administrativa que corresponda de la Secretaría de Gobierno, a partir de la entrada en vigencia de esta Ley, deberá iniciar un programa para sustituir el sello que actualmente utilizan los notarios en el Estado; en tanto se concluya éste, el ejercicio de la función notarial será válido utilizando el sello actualmente autorizado. El programa deberá estar concluido dentro del término de un año contado a partir de la entrada en vigencia de la presente Ley.
+
+Artículo Séptimo. El Titular del Ejecutivo del Estado deberá emitir el Decreto a que se refiere el artículo 67, una vez que entre en vigor la presente Ley. El uso del libro de ratificaciones será obligatorio a partir del día 1º primero de abril de 2007 dos mil siete.
+
+Artículo Octavo. El Ejecutivo del Estado, en un plazo que no exceda de tres meses a partir de la entrada en vigencia de la presente Ley, emitirá un Decreto para establecer las medidas de seguridad y demás requisitos que deberán contener las hojas a que se refiere el artículo 74 de esta Ley.
+
+Artículo Noveno. La unidad administrativa que corresponda de la Secretaría de Gobierno, publicará el primer calendario para las visitas generales de inspección dentro del mes de septiembre de 2007 dos mil siete, dichas visitas comprenderán los años de 2005 dos mil cinco y 2006 dos mil seis, y comenzarán a practicarse en enero de 2008 dos mil ocho.
+
+Las visitas iniciadas con anterioridad a la entrada en vigencia de la presente Ley, deberán continuarse de conformidad con las disposiciones de la Ley que se abroga.
+
+Artículo Décimo. Los procedimientos administrativos iniciados antes de la entrada en vigor de esta Ley, se tramitarán y resolverán de conformidad con la Ley que se abroga.
+
+Artículo Undécimo. Los actuales Colegio de Notarios y Consejo de Notarios del Estado, concluirán sus funciones el día 28 veintiocho de febrero del año 2007 dos mil siete; antes de lo cual, la actual mesa directiva del Colegio de Notarios del Estado deberá convocar a la celebración de elecciones en los términos de esta Ley, para la integración de la mesa directiva del Colegio Estatal de Notarios.
+
+El Consejo de Notarios del Estado de Guanajuato y el Colegio de Notarios del Estado, a su extinción deberán hacer entrega de sus bienes y archivos al Colegio Estatal de Notarios.
+
+Las delegaciones del Colegio de Notarios del Estado tendrán como plazo para que realicen las adecuaciones correspondientes para constituirse como delegaciones del Colegio Estatal de Notarios, hasta treinta días hábiles después de que entre en funciones el órgano de representación del Colegio Estatal de Notarios.
+
+Artículo Duodécimo. El Consejo Consultivo a que alude el artículo 145 de la presente Ley, se integrará por primera ocasión en la segunda quincena del mes de marzo del año 2007 dos mil siete y formarán parte de él, todos los ex-presidentes del Consejo de Notarios del Estado que se extingue con esta Ley y del Colegio de Notarios del Estado, que se encuentren en ejercicio notarial, salvo que presenten causa justificada a juicio de la mesa directiva del Colegio Estatal de Notarios que se elija en el año de 2007 dos mil siete.
+
+Artículo Decimotercero. El primer proceso de certificación notarial iniciará a partir de la entrada en vigencia del reglamento de esta Ley. Los programas de capacitación autorizados por la unidad administrativa que corresponda de la Secretaría de Gobierno, en términos de esta Ley, celebrados con anterioridad, podrán ser considerados como parte del proceso de certificación.
+
+Artículo Decimocuarto. Los notarios deberán remitir al Archivo General de Notarías, durante el año de 2007 dos mil siete, los libros del protocolo y demás documentos relacionados correspondientes a los años anteriores a 1982 mil novecientos ochenta y dos, de conformidad con el programa que implemente la Dirección General de Registros Públicos y Notarías.
+
+Artículo Decimoquinto. El Titular del Poder Ejecutivo del Estado deberá emitir el reglamento de la presente Ley dentro del plazo de seis meses, computado a partir de la entrada en vigencia de la presente Ley.
