@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-10489"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-13"
-last_updated: "2005-06-10"
+last_updated: "2006-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 1996.
 
@@ -701,11 +701,47 @@ IX.- Educación cooperativista y para el desarrollo de la comunidad; y
 
 X.- Los demás que se establezcan para atender las necesidades de la población de la entidad de conformidad con la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 67.
 
-La prestación del servicio social educativo en los términos de las disposiciones legales que lo rijan, será obligatorio para todos los educandos que estén cursando el nivel medio superior y superior en las instituciones del Sistema Educativo Estatal.
+En el estado de Guanajuato la prestación del servicio social educativo será obligatoria e inconmutable para quienes cursen la educación media superior y superior de los niveles de técnico superior universitario y de licenciatura.
 
-En la educación básica, en el nivel secundaria, podrá funcionar el servicio social educativo en los términos que establezca el reglamento correspondiente.
+Los educandos prestarán su servicio social educativo en programas y actividades que sean acordes a sus posibilidades, capacidades y nivel del tipo educativo que cursen, de conformidad con la reglamentación respectiva.
+
+La prestación del servicio social educativo será requisito indispensable para la obtención del título o grado académico.
+
+Para el caso de especialidades, maestrías o doctorados, la implementación y duración del servicio social educativo será potestativa para las instituciones educativas que impartan estos niveles.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
+###### Artículo 67-A.
+
+Se entiende por servicio social educativo la actividad temporal y obligatoria que ejecuten y presten los educandos en beneficio de la sociedad y del estado.
+
+Es objeto del servicio social educativo, el permitir a los educandos consolidar su formación académica, llevando a la práctica sus conocimientos adquiridos sobre ciencia, técnica y cultura, tomando conciencia de la problemática nacional y del estado, en un ámbito de solidaridad, reciprocidad y trabajo comunitario.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
+###### Artículo 67-B.
+
+El servicio social educativo se realizará por el educando a partir de que haya cubierto el cincuenta por ciento del plan o programa de estudio correspondiente.
+
+Salvo lo dispuesto por la normatividad aplicable, los educandos deberán cumplir por lo menos noventa y seis horas anuales de servicio social educativo.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
+###### Artículo 67-C.
+
+Las instituciones de educación de nivel medio superior y superior tienen la facultad para establecer los programas y las actividades en que se prestará el servicio social educativo por sus educandos. En los casos en que no se contravengan los planes y programas de estudio que imparten, y de conformidad con las normas legales que las rigen, deberán incluir programas de alfabetización preferentemente a cualquier otro de trabajo comunitario.
+
+Los programas o convenios relativos a tareas de alfabetización se podrán realizar por las instituciones educativas, en coordinación con instituciones o dependencias del sector público o privado, ya sean nacionales o extranjeras, otorgando la participación que corresponda a las autoridades competentes o bien, adherirse a los programas que realice la Secretaría de conformidad con la fracción XVI del artículo 51 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
+###### Artículo 67-D.
+
+Las autoridades, instituciones educativas, dependencias del sector público y privado, y demás involucrados en la prestación del servicio social educativo, son responsables en el ámbito de su competencia de la supervisión y control de los programas y actividades que se desarrollen para su cumplimiento.
 
 ### CAPITULO SEGUNDO. DE LA EDUCACION INICIAL
 
@@ -1124,3 +1160,9 @@ P.O. 10 DE JUNIO DE 2005.
 Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación ene. Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE AGOSTO DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
