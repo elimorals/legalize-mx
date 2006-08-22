@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2006-06-22"
+last_updated: "2006-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -545,7 +545,9 @@ VII. Las demás que sean necesarias para el ejercicio de sus funciones.
 
 El Consejo Estatal de Familia es un órgano de participación ciudadana y desconcentrado del Organismo Estatal, para dar atención y seguimiento a los asuntos que le devienen de las disposiciones contenidas en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco.
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
+Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia tutela y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
 
 ###### Artículo 34.
 
@@ -1911,7 +1913,7 @@ XI. Las demás que señalen este libro y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO III. Del Consejo de Valoración de las Personas con Discapacidad
+### CAPITULO II. Del Organismo Estatal
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1935,9 +1937,9 @@ VII. Cooperar con el Sistema Estatal de Información en materia de asistencia so
 
 VIII. Las demás que señalen este libro y otras disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. Del Organismo Estatal
+### CAPITULO III. Del Consejo de Valoración de las Personas con Discapacidad
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1971,7 +1973,7 @@ VI. Las demás que señalen otras disposiciones legales aplicables.
 
 La evaluación de las personas con discapacidad se basará en criterios unificados y sus resultados tendrán validez ante cualquier organismo público o privado con excepción de los que se utilicen como dictámenes o peritajes médicos en controversias planteadas ante tribunales judiciales o laborales del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
 
 ## TITULO TERCERO. DE LA PRESTACION DE SERVICIOS A PERSONAS CON DISCAPACIDAD
 
@@ -2439,7 +2441,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Conceptos
 
@@ -2455,7 +2457,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -2511,9 +2513,9 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-## TITULO CUARTO. DEL PROGRAMA PERMANENTE
+## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -2525,9 +2527,9 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
+## TITULO CUARTO. DEL PROGRAMA PERMANENTE
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De las Líneas de Acción
 
@@ -2535,7 +2537,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO QUINTO. DE LAS UNIDADES DE ATENCION
 
@@ -2659,13 +2661,13 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2709,7 +2711,7 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2787,7 +2789,7 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2825,7 +2827,7 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2863,11 +2865,11 @@ Corresponde a los grupos de la sociedad civil organizada de adultos mayores, par
 
 Los establecimientos que presten servicio a los adultos mayores deberán habilitar personal capacitado y espacios adecuados para proporcionar al senescente un trato digno y estancia cómoda, dándole preferencia en su atención.
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 242.
 
@@ -2927,11 +2929,11 @@ Para la salvaguarda de los intereses patrimoniales de los adultos mayores, son i
 
 Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán heredar de los adultos mayores que atendieron, aunque su disposición testamentaria (sic) hubiere hecho durante su estancia en el lugar a su cargo, siempre y cuando dos representantes del Organismos (sic) Estatal den testimonio del acto.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 247.
 
@@ -3029,7 +3031,7 @@ Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3071,15 +3073,13 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO UNICO
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Objeto y de las Disposiciones Generales
 
@@ -3238,6 +3238,8 @@ III. Los que teniendo conocimiento de que los alimentos no se encuentran aptos p
 ###### Artículo 272.
 
 Para lo no previsto en el presente Libro se estará a lo señalado en el Libro Tercero de este Código.
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TRANSITORIOS
 
@@ -3412,3 +3414,7 @@ SEGUNDO. Se emite la siguiente declaración Estatal de los Derechos de la Famili
 P.O. 22 DE JUNIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE AGOSTO DE 2006.
+
+ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicacion en el Periódico Oficial "El Estado de Jalisco".
