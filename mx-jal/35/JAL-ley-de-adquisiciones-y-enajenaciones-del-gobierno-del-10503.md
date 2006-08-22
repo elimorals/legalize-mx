@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2006-08-01"
+last_updated: "2006-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -107,7 +107,9 @@ II. Formular las bases para contratar el arrendamiento de bienes muebles e inmue
 
 III. Elaborar las bases y normas para la celebración de licitaciones y concursos para la adquisición de mercancías, materias primas y bienes muebles;
 
-IV. Intervenir en todas las adquisiciones de bienes muebles, arrendamientos en general o contratación para la recepción de servicios con cargo al presupuesto de egresos del Gobierno del Estado, excepto en aquellas que el propio presupuesto faculte celebrar en forma directa a las dependencias y entidades del Ejecutivo a que se refiere esta ley;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2006)</small>
+
+IV. Intervenir en todas las adquisiciones y enajenaciones de bienes muebles, arrendamientos en general o contratación para la recepción de servicios con cargo al presupuesto de egresos del Gobierno del Estado, excepto en aquéllas que el propio presupuesto faculte celebrar en forma directa a las dependencias y entidades del Ejecutivo a que se refiere esta ley;
 
 V. Controlar y operar el padrón de proveedores del Gobierno del Estado;
 
@@ -115,7 +117,9 @@ VI. Intervenir en las licitaciones y concursos que se celebren en relación con 
 
 VII. Aprobar los formatos conforme a los cuales se documentarán los pedidos o contratos de adquisición;
 
-VIII. Revisar los pedidos o contratos de adquisición de bienes y los de enajenación de bienes muebles, con el objeto de verificar el cumplimiento de esta ley, las disposiciones que de ella emanen y las bases, reglas o normas que dicte la propia Secretaría;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2006)</small>
+
+VIII. Proveer la mejora regulatoria, reducción, agilización y transparencia de los procedimientos y trámites.
 
 IX. Intervenir en la recepción de los bienes, así como en la verificación de sus especificaciones, calidad y cantidad; y en su caso oponerse a su recepción, para los efectos legales correspondientes;
 
@@ -183,6 +187,10 @@ II. Nacionales, cuando puedan participar proveedores de cualquier parte de la Re
 
 III. Internacionales, cuando puedan participar tanto proveedores del país como del extranjero.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
+Se realizarán licitaciones públicas e invitaciones internacionales cuando previa investigación de mercado que realiza la comisión de adquisiciones no exista oferta de proveedores nacionales respecto a bienes o servicios en cantidad o calidad requeridas, o sea conveniente en términos de precios.
+
 Las convocatorias para participar en las licitaciones se deberán publicar cuando menos en dos diarios de amplia circulación en la entidad. En los casos a que se refieren las fracciones II y III de este artículo, dichas publicaciones se harán también como mínimo, en dos diarios de amplia circulación nacional.
 
 ###### Artículo 11.
@@ -235,7 +243,9 @@ I. Los servidores públicos y miembros de la Comisión de Adquisiciones que pued
 
 II. Aquellas en cuyas empresas participe algún servidor público o miembro de la Comisión que pueda decidir sobre la adjudicación de pedidos o contratos, su cónyuge, concubina o concubinario, parientes consanguíneos o por afinidad hasta el cuarto grado, ya sea como accionista, administrador, gerente, apoderado o comisario;
 
-III. Las personas físicas o jurídicas que por causas imputables a ellas, se encuentren en situaciones de mora, respecto al cumplimiento de otro contrato o pedido celebrado con el Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2006)</small>
+
+III. Las personas físicas o jurídicas que por causas imputables a ellas, se encuentran en situaciones de mora, respecto al cumplimiento de otro contrato o pedido celebrado con el Gobierno del Estado, dependencias u organismos auxiliares o fideicomisos públicos y que hayan afectado con ello los intereses del Gobierno; y
 
 IV. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ésta y otras leyes.
 
@@ -435,7 +445,9 @@ II. Allegar al Titular del Poder Ejecutivo o al Secretario, la información de l
 
 III. Sugerir al Secretario, la adjudicación de las órdenes de compra en favor de proveedores de la entidad, cuando la calidad, servicio y precio de sus productos o servicios se encuentren en igualdad o mejores condiciones de las ofertadas por otros que no lo sean;
 
-IV. Proponer al Secretario la sustitución de bienes de procedencia extranjera por similares producidos en el país, así como de los provenientes de otras entidades federativas, por los del Estado;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2006)</small>
+
+IV. Proponer al Secretario la sustitución de bienes de procedencia extranjera por similares producidos en el país, así como de los provenientes de otras entidades federativas, por los del Estado, las enajenaciones se realizarán en igualdad de circunstancias, preferentemente, con los municipios;
 
 V. Fomentar la homologación y compatibilidad de los bienes y servicios a adquirirse por el Poder Ejecutivo, a fin de simplificar las tareas de mantenimiento y servicio;
 
@@ -457,9 +469,15 @@ XIII. Opinar sobre las dudas y controversias que surjan en la aplicación de est
 
 XIV. Informar anualmente al Titular del Poder Ejecutivo respecto de las actividades desarrolladas en dicho período;
 
-XV. Discutir y en su caso aprobar su reglamento interior que le será propuesto por su Presidente; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2006)</small>
 
-XVI. Las demás que sean conferidas por las disposiciones reglamentarias o acuerdo del Titular del Poder Ejecutivo del Estado.
+XV. Discutir y en su caso aprobar su reglamento interior que le será propuesto por su Presidente;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2006)</small>
+
+XVI. Emitir opinión respecto de los precios de los inmuebles que se pretenden adquirir; y
+
+XVII. Las demás que sean conferidas por las disposiciones reglamentarias o acuerdo del Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 45.
 
@@ -497,7 +515,9 @@ VI. Consejo Nacional de Comercio Exterior; y
 
 VII. Centro Empresarial de Jalisco, S. P.
 
-Por cada vocal propietario se nombrará un suplente.
+(REFORMADO, P.O. 22 DE AGOSTO DE 2006) (F. DE E., P.O. 15 DE DICIEMBRE DE 2007)
+
+Por cada vocal propietario se nombrará un suplente. El Representante de la Contraloría del Estado a que se refiere la fracción III anterior participará con voz, pero sin voto.
 
 ###### Artículo 48.
 
@@ -690,5 +710,9 @@ PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, deberán expedir sus reglamentos de adquisiciones y enajenaciones en un plazo de 90 días naturales contados a partir de la vigencia del presente decreto.
 
 P.O. 1 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE AGOSTO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
