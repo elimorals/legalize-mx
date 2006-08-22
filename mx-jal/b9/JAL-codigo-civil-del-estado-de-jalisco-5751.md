@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2006-08-15"
+last_updated: "2006-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2573,7 +2573,13 @@ b) A falta de convenio, la custodia corresponderá al cónyuge no culpable; si a
 
 c) A la muerte del excónyuge inocente, tendrá la custodia el que sobreviva, salvo que exista inconveniente grave para ello.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2006)</small>
+
+III. Respecto de los alimentos:
+
+Determinarlos, y establecer la forma de asegurar su pago y los incrementos respectivos; y señalar el o los deudores alimentarios.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE AGOSTO DE 2006)</small>
 
 En todo caso, el juez atenderá el interés superior de los menores y si fuera necesario escuchará su opinión.
 
@@ -2731,9 +2737,11 @@ VI. El Consejo de Familia.
 
 Si las personas a las que se refieren las fracciones II, III y IV del artículo anterior, no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de los alimentos, se nombrará por el juez, un tutor interino.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
 ###### Art. 448.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante para cubrir los alimentos.
+En los juicios sobre alimentos la sentencia condenará al pago de los alimentos presentes y aseguramiento de los futuros, dicho aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito o cualquier otro medio legal de cantidad bastante para cubrir los mismos.
 
 ###### Art. 449.
 
@@ -2765,13 +2773,15 @@ El derecho de recibir alimentos es de orden público y no puede ser objeto de tr
 
 Cuando el deudor alimentista no estuviere presente o estándolo, rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, será responsable de las deudas que estos contraigan para cubrir esa exigencia, pero solo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
 ###### Art. 454.
 
-La esposa, que sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y que le ministre todos lo que haya dejado de darle desde que la abandonó. El juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+Cuando un cónyuge se vea obligado sin culpa suya, a vivir separado del otro; podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su cónyuge a darle alimentos durante la separación y que le ministre todos (sic) lo que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que deberá ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el cónyuge obligado pague los gastos que el cónyuge abandonado haya tenido que erogar con tal motivo.
 
 ###### Art. 455.
 
-Lo dispuesto en los dos artículos anteriores es aplicable a la mujer cuando tenga obligación de dar alimentos y el marido se halle en las condiciones apuntadas.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO I. De los hijos de matrimonio
 
@@ -3455,9 +3465,11 @@ La custodia siempre es en beneficio directo de su destinatario, con reconocimien
 
 La custodia confiere a quien la ejerce la facultad de aplicar correcciones disciplinarias y proporcionar en su caso auxilio para el mantenimiento y recuperación de la salud física y psíquica.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Art. 558.
 
-El Consejo de Familia podrá autorizar, intervenir y consentir en todo tiempo y circunstancia en los casos de custodia.
+El Consejo de Familia podrá autorizar, intervenir y consentir en todo tiempo y circunstancia en los casos de custodia de conformidad con las normas legales aplicables. De igual forma deberá dar seguimiento para verificar las condiciones de convivencia de la persona entregada en custodia.
 
 ###### Art. 559.
 
@@ -4649,11 +4661,13 @@ En los casos en que conforme a este código tenga que intervenir el curador, cob
 
 El Consejo de Familia es un órgano de participación ciudadana, desconcentrado del Sistema Estatal del Desarrollo Integral de la Familia, que tiene por objeto dar la atención y seguimiento a los asuntos que le devienen por este código.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+
 ###### Art. 775.
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
+Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia, tutela y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
 
-Se integra como órgano de participación ciudadana y del sistema de desarrollo integral de la familia.
+El consejo tendrá obligación de realizar visitas domiciliarias periódicas para verificar el estado de las personas que se encuentren bajo custodia o tutela; para lo cal (sic) podrá auxiliarse del personal del Sistema Estatal del Desarrollo Integral de la Familia.
 
 ###### Art. 776.
 
@@ -17582,3 +17596,7 @@ P.O. 26 DE MAYO DE 2005.
 P.O. 15 DE AGOSTO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE AGOSTO DE 2006.
+
+ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
