@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2006-07-21"
+last_updated: "2006-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2006.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -783,7 +783,7 @@ IV. Dar seguimiento a los acuerdos emitidos por la Junta de Coordinación Polít
 
 V. Las demás que determine el Presidente y la Junta de Coordinación Política.
 
-En cualquier momento el Presidente de la Junta de Coordinación Política podrá remover al Secretario Técnico, cuando así proceda.
+En cualquier momento el Presidente de la Junta de Coordinación Política podrá remover al Secretario Técnico cuando así proceda.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1004,6 +1004,10 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 > <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2003)</small>
 
 - Equidad y Género
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2006)</small>
+
+- Seguimiento de la operación de proyectos para prestación de servicios
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1522,3 +1526,9 @@ Se derogan las normas legales y reglamentarias de igual o menor jerarquía que s
 ###### ARTICULO CUARTO.
 
 Par la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el 15 de septiembre del año 2006.
+
+G.G. 22 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente a aquel en que inicie la vigencia del Decreto que adiciona un quinto párrafo a la fracción XXX, reforma la fracción XLVII y adiciona la fracción XLVIII al artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
