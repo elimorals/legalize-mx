@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-de-los-servidores-publicos-del-6355"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-27"
-last_updated: "1996-11-11"
+last_updated: "2006-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de septiembre de 1984.
 
@@ -563,13 +563,13 @@ III. Concluido el período probatorio, la Contraloría General o el Oficial Mayo
 
 La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, siempre que la suspensión no traiga como consecuencia la continuación o consumación de actos u omisiones que impliquen perjuicios irreparables al interés social o al servidor público.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 56.
 
-El servidor público afectado por las resoluciones administrativas, podrá optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal de Conciliación y Arbitraje del Estado.
+El servidor público afectado por las resoluciones administrativas podrá interponer el recurso de revocación.
 
-###### ARTICULO 57.
-
-Las resoluciones administrativas que dicte el Tribunal de Conciliación y Arbitraje serán comunicadas a la autoridad correspondiente y al servidor público.
+ARTICULO 57 (DEROGADO, P.O. 24 DE AGOSTO DE 2006)
 
 ###### ARTICULO 58.
 
@@ -724,3 +724,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
 P.O. 11 DE NOVIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE AGOSTO DE 2006.
+
+ÚNICO.- el presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
