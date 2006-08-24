@@ -4,7 +4,7 @@ identifier: "DUR-acuerdo-general-numero-08-2006-que-reglamenta-la-51170"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-22"
-last_updated: "2006-06-22"
+last_updated: "2006-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 ACUERDO GENERAL NÚMERO 08/2006 QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2006.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Durango, el jueves 22 de junio del 2006.
 
@@ -1247,7 +1247,9 @@ La Secretaría Ejecutiva de Disciplina auxiliará a la Comisión de Disciplina c
 
 Son atribuciones de la Secretaría Ejecutiva de Disciplina:
 
-I. Tramitar los procedimientos administrativos disciplinarios, en términos del Título Octavo de la Ley y de lo dispuesto en este Acuerdo;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+I. Tramitar los procedimientos administrativos disciplinarios, en términos del Título Sexto de la Ley y de lo dispuesto en este Acuerdo;
 
 II. Ordenar que se practiquen las investigaciones que le encomiende el Pleno, el Presidente o la Comisión de Disciplina, para determinar la responsabilidad de los servidores públicos y empleados de los juzgados y de los Órganos Administrativos, mediante los procedimientos establecidos en la Ley, este Acuerdo reglamentos y y (sic) demás disposiciones que emita el Pleno en materia disciplinaria;
 
@@ -1279,9 +1281,17 @@ XV. Participar,. (sic) cuando sea requerido por el Consejero Operativo, en la el
 
 XVI. Integrar y tramitar el expediente de denuncia respectivo, en caso de que, del análisis de un acta de visita, el Pleno estime que pueda existir causa de responsabilidad;
 
-XVII. Coordinará las actividades de los orientadores ciudadanos, quienes estarán bajo su mando, en representación del Presidente, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
-XVIII. Las demás que determine la Ley, el Pleno, este Acuerdo, el Presidente y la Comisión de Disciplina.
+XVII. Coordinar las actividades de los orientadores ciudadanos, quienes estarán bajo su mando, en representación del Presidente;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+XVIII. Llevar el registro de turnos de los procedimientos administrativos disciplinarios, y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+XIX. Las demás que determine la Ley, el Pleno, este Acuerdo, el Presidente y la Comisión de Disciplina.
 
 ###### Artículo 81.
 
@@ -2067,9 +2077,11 @@ III. Documentos que acrediten encontrarse inscrito o bien, que se encuentra en t
 
 IV. Razones por las cuales se pretende tomar el curso.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 144.
 
-De acuerdo a la disponibilidad presupuestal, el Consejo podrá determinar el otorgamiento de apoyos económicos para estudios de posgrado o asistencia a eventos académicos o reuniones interinstitucionales, por única ocasión en cada ejercicio presupuestal, a los servidores públicos comprendidos en la carrera judicial, así como a los Consejeros y a los Secretarios Técnicos del Consejo. Lo propio podrá hacer el Presidente respecto del demás personal directivo y de apoyo profesional a la Presidencia, a los Órganos Administrativos y Jurisdiccionales del Poder Judicial.
+De acuerdo a la disponibilidad presupuestal, el Consejo podrá determinar el otorgamiento de apoyos económicos para estudios de posgrado o asistencia a eventos académicos o reuniones interinstitucionales, por única ocasión en cada ejercicio presupuestal, a los servidores públicos comprendidos en la carrera judicial, así como a los Consejeros, Secretarios Ejecutivos y Secretarios Técnicos del Consejo. Lo propio podrá hacer el Presidente respecto del demás personal directivo y de apoyo profesional a la Presidencia, a los Órganos Administrativos y Jurisdiccionales del Poder Judicial.
 
 ###### Artículo 145.
 
@@ -2348,6 +2360,10 @@ La suspensión temporal de los probables responsables de sus cargos, empleos o c
 Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el Pleno podrá dictar las medidas que considere convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que aquél decida imponer al servidor público en contra de quien se integró la inconformidad.
 
 Cuando el Consejo lo considere pertinente, la declaración de responsabilidad por faltas producirá el efecto de inhibir al servidor público de que se trate en el conocimiento o actuación del juicio en el que se hubiere cometido.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
+Asimismo, cuando el Pleno lo estime conveniente podrá abstenerse de sancionar al servidor público por una sola vez, justificando la causa de la abstención, tomando en cuenta los antecedentes y circunstancias del infractor, siempre que los hechos por los que se le pudiera sancionar no sean considerados como falta grave ni sean constitutivos de delito, y que el daño causado, en caso de que lo hubiere, no exceda de doscientas veces el salario mínimo diario vigente en la zona económica respectiva.
 
 ###### Artículo 204.
 
@@ -2651,9 +2667,13 @@ Se considerarán días inhábiles, además de los previstos en el artículo 192 
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 251.
 
-Toda licencia deberá solicitarse por escrito ante el órgano correspondiente conforme a los términos del presente acuerdo, con copia dirigida a la Secretaría Ejecutiva de Administración, expresando las razones que la motivan. Asimismo, toda licencia deberá extenderse por escrito en el que se hará constar la calificación de las razones aducidas en la solicitud de la licencia respectiva.
+Toda licencia deberá solicitarse por escrito ante el órgano correspondiente conforme a los términos del presente Acuerdo, expresando las razones que la motivan, con copia dirigida a la Secretaría Ejecutiva de Administración y al titular del Órgano Jurisdiccional o Administrativo a que esté adscrito el servidor público que la solicita. Asimismo, toda licencia deberá concederse o negarse por escrito en el que se hará constar la calificación de las razones aducidas en la solicitud de la licencia respectiva.
+
+En caso de los permisos a que alude el artículo 163 de la Ley, deberá tener el visto bueno del Presidente, quien tomará en cuenta que las condiciones presupuestales del año fiscal correspondiente lo permitan.
 
 ###### Artículo 252.
 
@@ -2772,3 +2792,11 @@ DÉCIMO QUINTO. Hasta que el Presupuesto de Egresos lo permita se creará la fig
 DÉCIMO SEXTO. Se ordena su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. Además, para efectos de cumplir con el principio de publicidad de los actos a que hace referencia el artículo 7 de la Ley de Acceso a la Información Pública del Estado, se ordena su publicación en la página Web del Poder Judicial.
 
 Así lo acuerdan y firman los Consejeros integrantes del Pleno del Consejo de la Judicatura del Poder Judicial del Estado, DR. MIGUEL ÁNGEL RODRÍGUEZ VÁZQUEZ (Magistrado Presidente), Lic. JOSÉ ISMAEL RIVERA ALVARADO, LIC. MOISÉS MORENO ARMENDÁRIZ, LIC. SUSANA PACHECO RODRÍGUEZ y LIC. FRANCISCO LUIS QUIÑONES RUIZ, en la sesión ordinaria celebrada el cinco de junio de dos mil seis, ante el LIC. JESÚS JULIÁN RODRÍGUEZ CABRAL, Secretario Ejecutivo del Pleno, Carrera Judicial y Disciplina del Consejo de la Judicatura, que da fe.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE AGOSTO DE 2006.
+
+Primero. Este Acuerdo entrará en vigor el día de su aprobación de conformidad con la fracción III del artículo 264 del Acuerdo General 08/2006, que contiene el Reglamento del Consejo de la Judicatura del Poder Judicial del Estado de Durango.
+
+Segundo. Se ordena su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, así como en la página Web del Poder Judicial del Estado de Durango, de conformidad con el artículo 73 de la Ley Orgánica del Poder Judicial del Estado de Durango, por ser de interés general, y en términos del artículo señalado en el transitorio anterior.
