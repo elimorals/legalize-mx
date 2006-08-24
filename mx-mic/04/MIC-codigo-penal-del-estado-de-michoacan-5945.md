@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2006-05-26"
+last_updated: "2006-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -421,7 +421,9 @@ En orden de preferencia, tienen derecho a la reparación del daño:
 
 I. El ofendido;
 
-II. El cónyuge, los hijos menores de edad y mayores incapacitados;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+II. El cónyuge, los hijos menores de edad y aquellos que no tienen capacidad de comprender el significado del hecho;
 
 III. Los que dependían económicamente del ofendido; y,
 
@@ -435,7 +437,9 @@ I. El delincuente;
 
 II. Los ascendientes, por los delitos cometidos por sus descendientes que estén bajo su patria potestad;
 
-III. Los tutores y los custodios, por los delitos de los incapacitados que se hallen bajo su autoridad;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+III. Los tutores y los custodios, por los delitos de las personas que no tienen capacidad para comprender el significado del hecho que se hallen bajo su autoridad;
 
 IV. Los directores o propietarios de internados, colegios o talleres que reciban en su establecimiento discípulos o aprendices menores de 16 años, por los delitos que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquéllos;
 
@@ -807,9 +811,11 @@ Siempre que el beneficiado con la libertad condicional revele nuevamente peligro
 
 Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el cuidado y vigilancia de la Dirección de Prevención y Readaptación Social del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
 
-Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; asociación delictuosa, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; corrupción de menores, artículo 164; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículo 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII y X; abigeato, previsto en los artículos 312 fracción III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, artículo 162; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, artículo 164 y 165; lenocinio y trata de personas, artículos 167, 168 y 168 Bis; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículo 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII y X; abigeato, previsto en los artículos 312 fracción III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
 Asimismo, no se concederá libertad condicional en caso de tentativa de los delitos señalados en el presente artículo.
 
@@ -1219,9 +1225,9 @@ II. Aquél a quien se hubiere prohibido ir a determinado lugar o a residir en é
 
 III. Al reo que habiendo sido suspendido en su profesión u oficio o inhabilitado para ejercerlo, quebrante su condena. En caso de reincidencia, se aplicará prisión de seis meses a tres años.
 
-### CAPITULO IV. Asociaciones Delictuosas
+### CAPITULO IV. Delincuencia Organizada
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 128.
 
@@ -1261,11 +1267,13 @@ Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias pa
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ### CAPITULO I. Ataques a las Vías de Comunicación
 
 ###### Artículo 132.
 
-Se impondrán prisión de seis meses a seis años y multa de diez a cien días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir por el sólo hecho de ser miembros de la asociación e independientemente de la sanción que le corresponda por el delito que pudiere cometer o haya cometido.
+Se impondrán prisión de cuatro a ocho años y multa de cincuenta a quinientos días de salario mínimo general vigente, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir por el sólo hecho de ser miembros de la asociación e independientemente de la sanción que le corresponda por el delito que pudiere cometer o haya cometido.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 1994)</small>
 
@@ -1401,7 +1409,9 @@ Al empleado de una oficina telegráfica, telefónica o inalámbrica, o de radioc
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
-## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA
+## TITULO QUINTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO IV. Delitos Cometidos Contra Funcionarios Públicos
 
@@ -1465,9 +1475,9 @@ Al que quebrante dolosamente los sellos puestos por orden de la autoridad compet
 
 Se equipara al delito de quebrantamiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan íntegros.
 
-### CAPITULO I. Ultrajes a la Moral Pública
+### CAPITULO I. Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 156.
 
@@ -1481,9 +1491,9 @@ La hipótesis legal a que hace mérito este numeral, es una modalidad agravante 
 
 Los ultrajes hechos a la Legislatura, a un tribunal o a cualquiera institución pública, sin referirse a sus componentes, se castigarán con prisión de seis meses a un año y multa de cincuenta a cien días de salario.
 
-### CAPITULO II. Corrupción de Menores
+### CAPITULO II. Pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 158.
 
@@ -1495,7 +1505,9 @@ Si de los actos a que se refiere el artículo anterior resultare la muerte de un
 
 Si resultaren lesiones, además de la pena correspondiente a ellas y al delito de terrorismo, los responsables serán sancionados con pena de prisión de dos a seis años.
 
-### CAPITULO III. Lenocinio
+### CAPITULO III. Lenocinio y trata de personas
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 160.
 
@@ -1507,29 +1519,37 @@ Al que ultraje las insignias del Estado o del municipio, o de cualquiera de sus 
 
 Al que ultraje insignias de las instituciones que tengan actuación pública, debidamente reconocida, se le aplicará prisión de tres días a un año y multa de cincuenta a cien días de salario.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ## TITULO SEXTO. REVELACION DE SECRETOS
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1994)</small>
 
-### CAPITULO IV. Instigación o Provocación a Cometer un Delito, apología de éste o de algún vicio
+### CAPITULO IV
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1994)</small>
+Provocación de un delito y apología de éste o de algún vicio y de la omisión de impedir un delito que atente contra el libre desarrollo de la personalidad, la dignidad humana o la integridad física o moral
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 162.
 
-Se aplicarán de tres meses a dos años de prisión y multa de cien a mil días de salario:
+A quien induzca, procure o facilite a persona menor de edad o a persona que no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporales o sexuales, prostitución o consumo de algún narcótico, prácticas sexuales o a cometer hechos delictivos, se le aplicarán de cinco a nueve años de prisión y multa de quinientos a mil doscientos días de salario mínimo general vigente.
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
+A quien induzca a la práctica de la mendicidad, se le impondrá de tres a seis años de prisión y multa de quinientos a mil días de salario mínimo general vigente.
 
-I. Al que fabrique, reproduzca o publique libros, escritos, imágenes, u objetos obscenos y al que los exponga, venda, distribuya o haga circular;
+No se entenderá por corrupción de personas menores de edad, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto educación sexual, educación sobre la función reproductiva, prevención de enfermedades de transmisión sexual y embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
-II. Al que publique por cualquier medio, ejecute o haga ejecutar a otro exhibiciones obscenas; y,
+Cuando de la práctica reiterada de los actos de corrupción, la persona menor de edad o la persona que no tenga la capacidad para comprender el significado del hecho, adquiera el hábito de la fármaco dependencia (sic), se dedique a la prostitución o forme parte de la delincuencia organizada, la pena será de seis a diez años de prisión y multa de quinientos a mil quinientos días de salario mínimo general vigente.
 
-III. (DEROGADA, P.O. 6 DE JULIO DE 2004)
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 163.
 
-Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una persona jurídica colectiva o con medios que ésta proporcione para tal fin a los delincuentes, se disolverá o se suspenderá en sus actividades hasta por un año a juicio del juez.
+Queda prohibido emplear a personas menores de dieciséis años de edad o a personas que no tienen capacidad para comprender el significado del hecho, en cantinas, tabernas, bares, antros, centros de vicio o cualquier otro lugar donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. La contravención a esta disposición se castigará con prisión de uno a tres años y multa de trescientos a setecientos días de salario mínimo general vigente.
+
+Incurrirán en la misma pena los que ejerzan la patria potestad, la tutela o custodia y guarda de personas menores de edad o de personas que no tengan capacidad para comprender el significado del hecho y promuevan o acepten que se empleen en los referidos establecimientos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO I. Cohecho
 
@@ -1537,31 +1557,35 @@ Si los delitos de que habla el artículo anterior fueren cometidos al amparo de 
 
 ###### Artículo 164.
 
-Se impondrá de seis a diez años de prisión y multa de trescientos a mil días de salario mínimo general vigente, al que por cualquier medio, procure o induzca a que una persona menor de edad o que no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, prostitución, ebriedad, mendicidad, consumo de drogas o enervantes o a cometer hechos delictuosos.
+Comete el delito de pornografía de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho:
 
-Si el autor es pariente consanguíneo o afín del menor sin importar el grado, las sanciones aumentarán hasta la mitad de las previstas en el párrafo anterior.
+I. Quien induzca, procure, facilite o permita por cualquier medio a persona menor de edad o a persona que no tiene capacidad para comprender el significado del hecho, a realizar actos sexuales o de exhibicionismo corporal, reales o simulados, de índole sexual, con el fin de grabarlos, videograbarlos, fotografiarlos, filmarlos, exhibirlos o describirlos a través de anuncios impresos, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, independientemente de que se logre la finalidad;
 
-No se entenderá por corrupción de menores los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+II. Quien fije, grabe, videograbe, fotografíe, filme o describa actos de exhibicionismo corporal, reales o simulados, de carácter sexual, en los que participe persona menor de edad o persona que no tiene capacidad para comprender el significado del hecho;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+III. Quien reproduzca, ofrezca, almacene, distribuya, venda, compre, rente, exponga, publique, publicite, transmita, importe o exporte por cualquier medio las grabaciones, videograbaciones, fotografías o filmes a que se refieren las conductas descritas en la fracción II de este artículo; y
+
+IV. Quien financie cualquiera de las actividades descritas en las fracciones anteriores.
+
+Se impondrá pena de seis a diez años de prisión y multa de mil a cuatro mil días de salario mínimo general vigente, al autor de los delitos previstos en las fracciones I y II. Se impondrá pena de siete a once años de prisión y multa de mil a cuatro mil días de salario mínimo general vigente, al autor de los delitos previstos en las fracciones III y IV. En todos los casos se decomisarán los instrumentos del delito.
+
+En los casos de delincuencia organizada, se agravará la pena en los términos del Título Segundo, Capítulo IV del Libro Segundo de este Código.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 165.
 
-Se impondrá de seis meses a dos años de prisión y multa de cincuenta a doscientos días de salario mínimo general vigente a quien:
+Comete el delito de turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, quien gestione, promueva, publicite, invite o facilite a cualquier persona viajar al interior o exterior del territorio del Estado con la finalidad de que tenga relaciones sexuales con persona menor de edad o persona no tenga capacidad para comprender el significado del hecho o a éstos se les haga viajar con esa finalidad; o quien financie cualquiera de las actividades antes descritas, se le impondrá una pena de seis a diez años de prisión y multa de mil a tres mil días de salario mínimo general vigente.
 
-I. Emplee directa o indirectamente los servicios de una persona menor de dieciséis años, en bares, cantinas o donde se exhiban espectáculos, obras gráficas o audiovisuales de carácter pornográfico;
+A quien en virtud de las conductas antes descritas tenga relaciones sexuales con persona menor de edad o con persona no tenga capacidad para comprender el significado del hecho, se le impondrá una pena de diez a veinte años de prisión y multa de dos a cuatro mil días de salario mínimo general vigente.
 
-II. Promueva que su descendiente menor de dieciséis años, preste sus servicios en los lugares a que se refiere la fracción anterior. Además, serán suspendidos, en su caso, del derecho a los bienes del ofendido o de la patria potestad o tutela que ejerzan y quedarán inhabilitados para ser tutores o curadores, hasta por cinco años; y,
-
-III. Al que ejecute o haga ejecutar a otro actos de exhibición pornográfica frente a los menores de dieciséis años o incapaces, les venda, rente o suministre materiales pornográficos.
-
-Para efectos de este artículo, se considera como empleado al menor de dieciséis años que por un salario, por la comida, por comisión de cualquier índole, estipendio, gaje, emolumento o gratuitamente, preste sus servicios en esos lugares.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 166.
 
-A los propietarios o encargados de cantinas, billares, cabarets u otros análogos, que permitan la entrada de menores, se les impondrá prisión de tres meses a un año y cierre de su establecimiento.
+Los sujetos activos de los delitos previstos en los Capítulos I, II y III, del Título Quinto, Libro Segundo de este Código, serán privados del derecho a ejercer la patria potestad, la tutela o curatela, según el caso.
 
-Se concede acción pública para denunciar los hechos delictuosos a que se contrae este artículo y el anterior.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO II. Peculado
 
@@ -1569,35 +1593,53 @@ Se concede acción pública para denunciar los hechos delictuosos a que se contr
 
 ###### Artículo 167.
 
-Las mismas sanciones que señala el artículo 165 se impondrán cuando el delincuente sea ascendiente, de segundo grado en adelante, padrastro o madrastra del menor.
+Comete el delito de lenocinio:
+
+I. Quien explote el cuerpo de otra persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+
+II. Quien induzca a una persona o la solicite para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que ejerza la prostitución;
+
+III. Quien regentee, dirija, patrocine, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y,
+
+IV. Quien oculte, concierte o permita el comercio carnal de una persona menor de edad.
+
+El delito de lenocinio se sancionará con prisión de cinco a diez años y multa de quinientos a dos mil días de salario mínimo general vigente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 168.
 
-El delito de corrupción de menores sólo se sancionará cuando se ejecuten los hechos materiales que lo constituyan.
+Comete el delito de trata de personas, quien promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona para someterla a cualquier forma de explotación, incluida entre otras, la explotación sexual, laboral o prácticas análogas a la esclavitud o para ser extirpada de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado, se le impondrá una pena de seis a doce años de prisión y multa de quinientos a mil días de salario mínimo general vigente.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
+Si se emplease violencia física o moral o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta la mitad del máximo de la sanción.
 
-Artículo 168 bis.- Se impondrá de cinco a siete años de prisión y multa de cien a mil días de salario mínimo general vigente, a quien utilice a un menor de dieciséis años o que no tenga la capacidad para comprender el significado del hecho o no pueda resistirse para realizar actos de exhibicionismo sexual, con el fin de grabarlo, filmarlo o fotografiarlo, por cualquier medio.
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
-Se impondrá de siete a diez años y multa de ciento cincuenta a mil quinientos días de salario mínimo general vigente, a quien financie, elabore, reproduzca, comercialice, distribuya, arriende, exponga, suministre o difunda el material a que se refiere el párrafo anterior.
+Artículo 168 bis.- Al que promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a persona menor de edad o a persona que no tenga capacidad para comprender el significado del hecho, para someterla a cualquier forma de explotación, incluida entre otras, la explotación sexual, laboral o prácticas análogas a la esclavitud o para ser extirpada de sus órganos, tejidos o sus componentes, se le impondrá la pena de ocho a catorce años de prisión y multa de mil a dos mil días de salario mínimo general vigente.
 
-El material destinado a programas educativos sobre función sexual, reproductiva, preventiva de enfermedades de transmisión sexual, de planificación reproductiva o para tratamiento psicológico dirigidas a los menores no constituye objeto de sanción penal.
+Las penas que resulten aplicables por los delitos previstos en este artículo se incrementarán:
+
+I. Hasta una tercera parte del máximo de la sanción, si el delito es cometido en contra de una persona menor de catorce años de edad o es cometido por un servidor público. En este último caso, se impondrá, además de la destitución del empleo, cargo o comisión públicos, la inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Hasta una mitad del máximo de la sanción, si el delito es cometido en contra de una persona menor de doce años de edad o se emplee violencia física o moral; y,
+
+III. Hasta una mitad del máximo de la sanción, cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno o sea tutor o curador de la víctima; además, según las circunstancias del hecho, podrá perder la patria potestad, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto a los bienes de ésta.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 169.
 
-Comete el delito de lenocinio:
+Las sanciones señaladas en los artículos 162, 163 y 164 se aumentarán de conformidad con lo siguiente:
 
-I. Toda persona que explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+I. Hasta una tercera parte del máximo de la sanción, si el delito es cometido por servidor público en contra de una persona menor de edad. Además, se impondrá la destitución del empleo, cargo o comisión e inhabilitación para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta;
 
-II. Al que induzca a una persona o la solicite para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución;
+II. Hasta una mitad del máximo de la sanción, si el delito es cometido en contra de una persona menor de doce años de edad;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1980)</small>
+III. Hasta una mitad del máximo de la sanción, cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima; además, según las circunstancias del hecho, podrá perder la patria potestad, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto a los bienes de ésta; y,
 
-III. Al que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y,
+IV. Hasta una mitad del máximo de la sanción, cuando se hiciere uso de violencia física o moral.
 
-IV. Al que oculte, concierte o permita el comercio carnal de un menor de edad.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO III. Concusión
 
@@ -1605,11 +1647,15 @@ IV. Al que oculte, concierte o permita el comercio carnal de un menor de edad.
 
 ###### Artículo 170.
 
-El delito de lenocinio se sancionará con prisión de dos a ocho años y multa de cien a dos mil días de salario.
+Quien provoque públicamente a cometer un delito o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo a favor de la comunidad si el delito no se ejecutare; en caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 171.
 
-Al que públicamente instigare o provocare a cometer un delito determinado o haga apología de éste o de un vicio se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad si el delito no se ejecutare; en caso contrario se le aplicarán prisión de seis meses a cinco años y multa de cincuenta a trescientos días de salario.
+Quien pudiendo hacerlo, con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de uno de los delitos contemplados en el Título V, Libro Segundo, de este Código, se le impondrá la pena de uno a dos años de prisión y multa de cincuenta a doscientos días de salario mínimo general vigente.
+
+La misma pena se impondrá a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para que impidan un delito de los contemplados en el párrafo anterior y de cuya próxima comisión tenga noticia.
 
 ## TITULO SEPTIMO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
@@ -3764,3 +3810,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE MAYO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 65
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 66
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
