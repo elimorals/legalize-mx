@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-de-desarrollo-urbano-20361"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-13"
-last_updated: "2001-03-13"
+last_updated: "2006-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA DE DESARROLLO URBANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Octava del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -145,15 +145,25 @@ II. Ser mayor de treinta años al día de su nombramiento;
 
 III. Residir en el Estado, cuando menos cinco años inmediatamente anteriores al día de su designación;
 
-IV. Tener título en alguna licenciatura; y
+IV. Tener título en alguna licenciatura; y (sic)
 
-V. Tener conocimientos y experiencia mínima de cinco años en materia de ordenamiento y regulación del asentamiento humano.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
+V. Tener conocimientos y experiencia mínima de cinco años en materia de ordenamiento y regulación del asentamiento humano; y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+VI. No haber desempeñado, durante los últimos cuatro años anteriores, el cargo de Secretario de Desarrollo Urbano del Estado, ni haber sido titular, responsable o encargado de dependencia estatal o municipal responsable de emitir dictámenes, licencias, permisos y autorizaciones en materia de urbanizaciones, edificaciones, subdivisiones, renotificaciones e intervención en inmuebles afectos al patrimonio cultural edificado, ni haberse desempeñado como perito, apoderado general o representante en el ámbito privado en la misma materia.
 
 El Consejo Estatal de Desarrollo Urbano emitirá la convocatoria correspondiente para que sus miembros propongan candidatos para integrar la terna y esta sea propuesta al Congreso del Estado, quien en base a ella designará al titular de la Procuraduría de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 9.
 
-El período del cargo de Procurador de Desarrollo Urbano será de seis años y su titular sólo será removido por causa grave, conforme a las responsabilidades previstas en el artículo 91 de la Constitución Política del Estado de Jalisco.
+El período del cargo de Procurador de Desarrollo Urbano será de cuatro años, y podrá ser reelecto concursando en igualdad de circunstancias que el resto de los candidatos.
+
+Su titular sólo será removido por causa grave, conforme a las responsabilidades previstas en el artículo 91 de la Constitución Política del Estado de Jalisco.
 
 ### CAPITULO III. DE LAS FACULTADES DEL PROCURADOR
 
@@ -263,13 +273,17 @@ Son ausencias temporales aquellas que no excedan de treinta días naturales. Las
 
 Son ausencias definitivas aquellas que son producto de la renuncia o separación voluntaria, y de la remoción o destitución del cargo en ejercicio, muerte y las que excedan de treinta días naturales.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 19.
 
-El Procurador, durante sus ausencias temporales, será suplido por el Director de área que el designe.
+El Procurador, durante su ausencia temporal o definitiva, será suplido por el Director de área jurídica.
+
+En caso de la ausencia definitiva, el Consejo Estatal de Desarrollo Urbano deberá proponer una terna al Congreso del Estado, en los términos de esta Ley, para la elección de un nuevo Procurador quien durará en el cargo el tiempo que reste al que sustituye.
 
 ###### Artículo 20.
 
-En caso de ausencia definitiva del Procurador, y hasta en tanto el Congreso del Estado designe al nuevo, se encargará del Despacho la Comisión Colegiada constituida por los directores de área en funciones, debiendo presidirla el que resulte electo internamente en voto directo y secreto, quien tendrá la representación jurídica de la Procuraduría. La elección interna del Presidente de la Comisión Colegiada, deberá ser electo en un plazo no mayor de 10 días siguientes a la ausencia definitiva del Procurador.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2006)
 
 ###### Artículo 21.
 
@@ -372,3 +386,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
