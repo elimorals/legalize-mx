@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2006-05-23"
+last_updated: "2006-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DEL 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DEL 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -405,9 +405,9 @@ Los diputados propietarios, durante el período de su encargo, no podrán desemp
 
 La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCION II. De la reunión y renovación del Congreso
+#### SECCIÓN II. De la Reunión y Renovación del Congreso
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -441,23 +441,17 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 
 En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DEL 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 31.
 
-El Congreso sesionará por años legislativos, comprendidos del 15 de enero al 14 de enero del año próximo, y se ocupará de los asuntos siguientes:
+El Congreso sesionará por años legislativos, comprendidos del quince de enero al catorce de enero del año próximo.
 
-I. En los meses de enero a agosto el Congreso se ocupará de estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y de resolver los demás asuntos que le corresponda, conforme a esta Constitución; y
+En los meses de septiembre a diciembre, se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
 
-II. En los meses de septiembre a diciembre el Congreso se ocupará de:
+En los meses de enero a marzo, se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al penúltimo año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
 
-a) Estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y resolver los demás asuntos que le corresponda, conforme a esta Constitución;
-
-b) Revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
-
-La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos realizados; sus procedimientos de aplicación; las responsabilidades a que hubiere lugar, y evaluar el cumplimiento de la gestión administrativa, en los términos de ley; y
-
-c) Examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
+La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.
 
 ###### Artículo 32.
 
@@ -943,13 +937,9 @@ VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
 VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
-VIII.- Presentar cada año al Congreso, a más tardar el treinta y uno de marzo, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, y a más tardar el veinte de noviembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente.
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
-
-El plazo para la presentación de la Cuenta Pública podrá ampliar hasta treinta días más;
+VIII.- Presentar cada año al Congreso, a más tardar el treinta y uno de marzo, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, y a más tardar el veinte de septiembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1239,7 +1229,7 @@ El Magistrado cuyo retiro forzoso haya sido aprobado, tendrá derecho a un haber
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-###### Artículo 79
+###### Artículo 79.
 
 La elección, reelección o privación del encargo de Magistrado del Supremo Tribunal de Justicia, se hará por el Congreso del Estado mediante el voto de las dos terceras partes de los diputados presentes, a propuesta del Consejo del Poder Judicial.
 
@@ -1791,9 +1781,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables e impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
-III.- Aprobar sus presupuestos de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley así como enviar al Congreso del Estado dentro de los sesenta días posteriores al cierre del ejercicio anual correspondiente, la Cuenta Pública de las haciendas municipales, sin perjuicio del envío de las cuentas del mes que permita avanzar en su revisión;
+III. Aprobar sus presupuestos de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio y a más tardar el treinta y uno de marzo del año siguiente al que concluya éste, la cuenta pública del ejercicio de la Hacienda Municipal;
 
 > <small>(REFORMADA, P.O., 3 DE JULIO DE 2001)</small>
 
@@ -1987,7 +1977,7 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 ###### Artículo 130.
 
-El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal.
+El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos ya adoptará las medidas necesarias para planear el desarrollo estatal y municipal.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
@@ -2025,7 +2015,9 @@ Habrá en el Estado una Tesorería General a la que ingresarán todos los caudal
 
 La Auditoría Superior de Michoacán, como Órgano Técnico del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y decidirá sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión financiera de las entidades, bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad de servicio y vigilancia y fiscalización.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
+La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejen fondos públicos, aún de aquellos organismos que por disposición de la ley se consideren autónomos, bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad de servicio, vigilancia y fiscalización.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -2033,37 +2025,59 @@ La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gest
 
 La Auditoría Superior de Michoacán tendrá a su cargo:
 
-I. Fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales que manejen fondos públicos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
-II. Realizar auditorias y revisiones de ingresos y gastos de las entidades señaladas en la fracción I de este articulo a partir de la revisión de los informes que se rindan y, en el curso de un ejercicio;
+I. Fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de las entidades a que se refiere el artículo anterior;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+II. Realizar auditorías, visitas, inspecciones, y revisiones de ingresos y gastos de las entidades señaladas en el artículo 133, a partir de la revisión de los informes que se rindan y, en el curso de un ejercicio;
 
 III. Fiscalizar los fondos y valores públicos que ejerzan los particulares;
 
 IV. De conformidad con lo que disponga el Congreso, suscribir convenios con la entidad de fiscalización superior de la Federación para la fiscalización de recursos federales, de conformidad con las leyes de la materia;
 
-V. Entregar a los diputados, los informes de resultados de la revisión de la Cuenta Pública del Estado y de los ayuntamientos, así como de las auditorías y revisiones practicadas, en los plazos y con las modalidades que la ley señale;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública del Estado y de los ayuntamientos, de las auditorías y revisiones practicadas, en que deberá indicar las observaciones realizadas, los desvanecimientos, los procedimientos administrativos de responsabilidad instaurados y las responsabilidades fincadas, en los plazos y con las modalidades que la ley señale;
 
 VI. Investigar los actos u omisiones que pudieran implicar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones;
 
-VII. Determinar los daños y perjuicios que afecten la Hacienda Pública del Estado y de los municipios o al patrimonio de las entidades públicas estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan según la ley, así como promover ante otras autoridades competentes el fincamiento de otras responsabilidades; presentar las denuncias y querellas penales y actuar en estos casos como coadyuvante del Ministerio Público; y,
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+VII. Imponer los medios de apremio que establezca la ley, determinar los daños y perjuicios que afecten la Hacienda Pública del Estado y de los municipios o al patrimonio de las entidades públicas estatales y municipales, fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan según la ley, promover ante otras autoridades competentes el fincamiento de otras responsabilidades, presentar las denuncias y querellas penales y actuar en estos casos como coadyuvante del Ministerio Público;
 
 VIII. Presentar al Congreso del Estado el proyecto de plan anual de fiscalización;
 
-La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación de los informes, dictámenes o denuncias correspondientes a que se refiere este artículo o hasta la aplicación de las sanciones aplicables a quienes infrinjan esta disposición.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+IX. Emitir los lineamientos y procedimientos técnicos, que deberán observar las entidades fiscalizables, conforme a las leyes y normas que expida el Congreso; y,
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
+
+X. Determinar los montos, recibir, registrar y custodiar las fianzas que deban presentar los empleados que manejen fondos públicos.
+
+La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación de los informes, dictámenes o denuncias correspondientes a que se refiere este artículo o hasta la aplicación de las sanciones administrativas; la ley fijará las sanciones aplicables a quienes infrinjan esta disposición.
 
 El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
 
 El Congreso del Estado designará al titular de la Auditoría Superior de Michoacán con el voto de las dos terceras partes de los diputados presentes. La ley determinará el procedimiento para esta designación. El auditor general durará en su encargo cuatro años y podrá ser nombrado nuevamente hasta en dos ocasiones; podrá ser removido por el Congreso por causas que señale la ley, siempre con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 135.
 
-Toda cuenta de fondos públicos quedará glosada y dictaminada a más tardar un año después de su presentación. La Auditoría expedirá en la forma que la Ley prevenga el finiquito de las cuentas que fiscalice, y rendirá cada tres meses al Congreso, por conducto de la Comisión de Vigilancia un informe de las operaciones que haya practicado.
+Toda cuenta de fondos públicos quedará fiscalizada y dictaminada a más tardar un año después de su presentación. La Auditoría expedirá en la forma que la ley prevenga el finiquito de las cuentas que fiscalice, y rendirá cada tres meses al Congreso, por conducto de la Comisión de Vigilancia, un informe de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 La falta de cumplimiento de este precepto, será causal de responsabilidad del Auditor Superior y de la Comisión de Vigilancia de la Auditoría Superior de Michoacán.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+
 La intromisión de cualquier persona en relación a las funciones de la Auditoría, para entorpecer o influir en el desempeño de la misma, será sancionada conforme a la Ley Reglamentaria.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 Los poderes del Estado y demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior para el ejercicio de sus funciones.
 
@@ -2830,6 +2844,12 @@ Artículo Cuarto.- El individuo que haya sido electo magistrado antes de la entr
 Artículo Quinto.- Con el fin de escalonar su permanencia y por esta sola ocasión, los Magistrados del Tribunal de Justicia Administrativa tendrán una duración, por su orden de elección, el primero, de cinco años; el segundo, de cuatro años; el tercero, de tres años.
 
 Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO OCTAVO.
 
