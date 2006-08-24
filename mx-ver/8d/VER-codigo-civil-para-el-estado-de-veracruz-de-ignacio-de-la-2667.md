@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2006-08-10"
+last_updated: "2006-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2006.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -6593,7 +6593,17 @@ II.- La acción de los dueños de hoteles y casas de huéspedes para cobrar el i
 
 III.- La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que la injuria se recibió o fue conocida o desde aquél en que se causó el daño;
 
-IV.- La responsabilidad civil proveniente de actos ilícitos que no constituyan delitos. La prescripción corre desde el día en que verificaron los actos.
+IV.- La responsabilidad civil proveniente de actos ilícitos que no constituyan delitos. La prescripción corre desde el día en que verificaron los actos;
+
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2006)</small>
+
+V.- El derecho de las personas físicas o morales para reclamar la propiedad, posesión y devolución de un bien mueble respecto del cual la autoridad del estado haya ordenado el resguardo, depósito, aseguramiento, embargo o custodia, o sea objeto del secuestro judicial siempre que el proceso haya concluido o caducado la instancia respecto de bienes que se encuentren en los corralones de la entidad autorizados por la autoridad competente y que no se encuentren embargados administrativamente.
+
+Para los efectos del párrafo anterior, los bienes muebles causarán abandono y pasarán al fisco del Estado con deducción, en su caso, de un cincuenta por ciento del valor en que fueran enajenados para el dueño del corralón o depósito.
+
+Se entiende que hay abandono, con la consecuente pérdida de propiedad o posesión, cuando transcurrido un lapso de dos años contados a partir de que el bien se secuestró, resguardó, depositó, aseguró, embargó o custodió, el propietario o legítimo poseedor no reclame de la autoridad correspondiente la devolución del bien y que además no haya efectuado el pago que de cualquier naturaleza esté obligado a hacer, o que habiéndolo hecho no recoja el bien en un plazo de quinde días naturales del corralón o depósito respectivo.
+
+Los titulares de los poderes Ejecutivo o Judicial del Estado, o quien ellos autoricen y en su caso el juez que ordenó el acto jurídico, expedirán el aviso correspondiente que será publicado en la Gaceta Oficial del estado y de considerarlo necesario en los periódicos de la región en donde se encuentre el bien, concediendo un plazo de quince días naturales para que quien tenga derecho reclame la devolución del bien, efectúe el pago y su retiro del corralón o depósito respectivo; actualizada la condición de abandono, la autoridad fiscal procederá a su venta, donación, remate o destrucción sin sustanciar artículo. Estas disposiciones regirán también respecto de los bienes muebles en abandono por más de dos años.
 
 ARTICULO 1195
 
@@ -15932,3 +15942,9 @@ Segundo. Se derogan todas las disposiciones legales que se opongan al presente D
 G.O. 10 DE AGOSTO DE 2006.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 24 DE AGOSTO DE 2006.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las autoridades administrativas y judiciales pondrán a disposición de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave, en una relación de acuerdo con sus características, los bienes susceptibles de venta, donación, remate o destrucción, a fin de que dicha dependencia dictamine y proceda a la venta, remate o destrucción de esos bienes.
