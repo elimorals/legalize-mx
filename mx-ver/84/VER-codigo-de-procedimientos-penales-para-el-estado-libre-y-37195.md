@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2004-08-03"
+last_updated: "2006-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2006.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1292,6 +1292,18 @@ Los instrumentos del delito y las cosas objeto o efecto de él, así como aquell
 De todas las cosas aseguradas se hará un inventario y en él se las describirá minuciosamente para poder identificar y examinar en cualquier tiempo.
 
 Si con un vehículo de motor se causó la muerte de una persona o ésta sufrió lesiones, se decretará el secuestro del mismo para procurar, en su caso, el pago de la reparación del daño y no se levantará el embargo hasta que aquélla sea satisfecha o se otorgue garantía bastante, a criterio del juez, y bajo su responsabilidad.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2006)</small>
+
+El juez tendrá la obligación de estar pendiente de que la garantía para reparar el daño a la víctima u ofendido del delito no sufra deterioro o menoscabo, por lo que requerirá al inculpado cuyo procedimiento tenga más de dos años de iniciado, que sustituya en el término de tres días hábiles el vehículo automotor embargado o secuestrado y en su lugar otorgue garantía en efectivo o por cualquier otro medio permitido por la ley, apercibiéndolo que para el caso de negativa procederá a su venta judicial.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2006)</small>
+
+Una vez otorgada la garantía a satisfacción del juez, éste ordenará levantar el secuestro o embargo y el automotor deberá ser retirado del corralón o depósito en el plazo de quince días naturales, previa comprobación del pago de los gastos de almacenaje, guarda o custodia, los que no podrán exceder del veinte por ciento del valor de venta del vehículo
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2006)</small>
+
+Cuando el inculpado no sustituya la garantía o retire el vehículo del corralón o depósito en que se encuentre, el juez decretará su venta; con el producto que se obtenga por dicho bien se garantizará en los montos ya señalados la reparación del daño y los gastos de almacenaje, guarda o custodia.
 
 ###### Artículo 190.
 
@@ -3072,3 +3084,9 @@ G.O. 3 DE AGOSTO DE 2004.
 Primero. El presente Decreto entrará en vigora los quince días de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE AGOSTO DE 2006.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las autoridades administrativas y judiciales pondrán a disposición de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave, en una relación de acuerdo con sus características, los bienes susceptibles de venta, donación, remate o destrucción, a fin de que dicha dependencia dictamine y proceda a la venta, remate o destrucción de esos bienes.
