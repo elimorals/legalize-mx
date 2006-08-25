@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-el-desarrollo-integral-de-personas-con-capacidades-340
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-26"
-last_updated: "2003-09-26"
+last_updated: "2006-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA EL DESARROLLO INTEGRAL DE PERSONAS CON CAPACIDADES DIFERENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 26 de septiembre de 2003.
 
@@ -162,6 +162,10 @@ Para la administración pública estatal y municipal será fundamental el impuls
 ###### ARTÍCULO 9.
 
 La Administración Pública Estatal y Municipal, a través del Subcomité Especial determinarán las estrategias, las acciones y los objetivos a que deberán sujetarse las dependencias y entidades de éstas, con la participación que de conformidad con el Sistema Estatal de Planeación corresponda a los sectores privado y social; para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con capacidades diferentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2006)</small>
+
+Las estrategias y acciones relacionadas con la participación de los sectores privado y social referidas en el artículo anterior, garantizarán la concertación con los organismos sociales y privados relacionados con el comercio y servicios, de acuerdos y convenios que tengan por objeto poner a disposición de los consumidores que tengan discapacidades visuales, motoras, auditivas y de lenguaje, aditamentos de servicio adaptados al sistema braille y al lenguaje para sordos, así como personal debidamente capacitado para su atención conforme a las necesidades propias de su condición de discapacidad.
 
 ###### ARTÍCULO 10.
 
@@ -454,3 +458,9 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE AGOSTO DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
