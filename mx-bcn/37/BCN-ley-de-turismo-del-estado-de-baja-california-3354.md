@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-3354"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-07"
-last_updated: "2002-02-08"
+last_updated: "2006-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes7 de julio de 1995.
 
@@ -115,6 +115,8 @@ La Secretaría promoverá ante los sectores público, social y privado la creaci
 
 La Secretaría, escuchando a los organismos del sector participará en la planeación, fomento y desarrollo de la actividad turística estatal, estableciendo los criterios generales para la elaboración de los estudios pertinentes sobre los nuevos proyectos de inversión turística en el Estado; procediendo a su evaluación, y formulando las opiniones y recomendaciones oficiales respecto de los mismos.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+
 ### CAPITULO II. PLANEACION DE LA ACTIVIDAD TURISTICA
 
 ###### ARTICULO 7.
@@ -131,7 +133,7 @@ La Secretaría promoverá ante el Ejecutivo, acuerdos y bases de colaboración c
 
 ###### ARTICULO 23.
 
-La Secretaría, escuchando a los organismos del sector conjuntamente con las dependencias involucradas de los tres niveles de gobierno, propondrá al Ejecutivo del Estado, las zonas de desarrollo turístico prioritario, a efecto de que se expidan las declaratorias del uso del suelo turístico en los términos de la leyes respectivas, con el fin de crear, conservar o ampliar centros de desarrollo turístico prioritario, así como la creación de centros dedicados al turismo social en los términos de las leyes respectivas.
+La Secretaría, escuchando a los organismos del sector conjuntamente con las dependencias involucradas de los tres niveles de gobierno, propondrá al Ejecutivo del Estado, las zonas de desarrollo turístico prioritario, a efecto de que se expidan las declaratorias del uso del suelo turístico en los términos de la leyes respectivas, con el fin de crear, conservar o ampliar centros de desarrollo turístico prioritario, así como la creación de centros dedicados al turismo social, sustentable y alternativo en los términos de las leyes respectivas.
 
 ###### ARTICULO 24.
 
@@ -159,25 +161,87 @@ La Secretaría efectuará acuerdos con prestadores de servicios turísticos, por
 
 La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social, que tengan por objeto la prestación de servicios turísticos accesibles a la población. Así mismo promoverá la conjugación de esfuerzos para mejorar la atención y el desarrollo de aquellos lugares en que pueda ser susceptible elevar su nivel de vida, mediante la industria turística.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 30.
 
-La Secretaría promoverá acciones de coordinación con la Secretaría de educación y bienestar social del estado, la escuela de turismo de la Universidad Autónoma de Baja California, el Colegio Nacional de Educación Profesional Técnica, otras Instituciones de Educación Media y Superior, con centros de educación y capacitación para la formación de profesionales, y asesores en la industria dedicada al turismo.
+Son modalidades específicas del turismo alternativo:
+
+I.- El Ecoturismo.- Modalidad específica del turismo alternativo que tiene como valor específico educar, concienciar y valorar, los elementos naturales, respetando las capacidades de carga de los ecosistemas y minimizando los impactos ambientales que la actividad turística genera.
+
+II.- El Turismo de Aventura.- Modalidad específica del turismo alternativo que tiene como finalidad ofrecer al turismo una gama diversificada de eventos que implican cierto nivel de riesgo físico y que en su mayoría se desarrollan dentro de espacios naturales.
+
+III.- El Turismo Rural.- Modalidad específica del turismo alternativo, en los cuales (sic) el turista participa en actividades de la vida cotidiana de las comunidades agrarias, ejidales y pueblos indígenas, que le permiten conocer y participar en las tradiciones de las comunidades autóctonas. Siempre con respeto a sus usos y costumbres, sus manifestaciones artísticas, sus fiestas y en general a su forma de vida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO III. PROMOCION Y FOMENTO TURISTICO
 
 ###### ARTICULO 31.
 
-La Secretaría llevará un registro de centros de enseñanza, dedicados a la especialidad del turismo, reconocidos oficialmente por la Secretaría de Educación Pública y la Secretaría de Educación y Bienestar Social del Estado, con el objeto de dar a conocer a los servidores turísticos que así lo soliciten sobre la validez oficial y el nivel académico de dichos planteles educativos.
+La Secretaría se deberá coordinar con la Secretaría de Protección al Ambiente del Estado de Baja California, con la participación que corresponda a otras Secretarías y dependencias de la Administración Pública del Estado, Gobierno Federal y municipios, para fomentar el desarrollo y promoción del turismo alternativo, a través de programas, acciones y convenios que sobre la materia formulen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 32.
 
-La Secretaría propondrá al Ejecutivo del Estado la celebración de acuerdos, con la Secretaría de Trabajo y Previsión Social para el desarrollo de programas relacionados a la capacitación, y adiestramiento, que tengan como finalidad instruir a aquellos trabajadores y empleados de negocios turísticos, con el conocimiento necesario, para el desarrollo de sus actividades, de acuerdo a los términos que marque nuestra legislación federal en materia de trabajo.
+La Secretaría coordinará el desarrollo y promoción del turismo alternativo, con base a los siguientes principios y atribuciones:
+
+I.- Formular, aplicar y evaluar el Programa Estatal de Fomento al Turismo Alternativo;
+
+II.- Difundir métodos y técnicas de planificación, gestión, reglamentación y seguimiento del turismo alternativo que garanticen la sustentabilidad a largo plazo;
+
+III.- Incorporar y reconocer la cultura de las comunidades agrarias, ejidos y poblaciones indígenas en el desarrollo de productos de turismo alternativo, en su forma de organización y manejo, en la formulación de políticas, en la planificación y en la promoción;
+
+IV.- Promover la capacidad del turismo alternativo para contribuir al desarrollo sustentable y a la conservación del patrimonio natural, cultural e histórico del Estado;
+
+V.- Promover la participación de la sociedad en materia de turismo;
+
+VI.- Elaborar y difundir estudios sobre turismo alternativo;
+
+VII.- Los demás que establezcan la ley, su Reglamento y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría propondrá a consideración del Ejecutivo del Estado mecanismos de coordinación con la Secretaría de Turismo Federal, y fijará las bases de coordinación con otras dependencias estatales y entidades municipales, y de igual forma con organismos de los sectores social y privado a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos como a servidores públicos.
+La Secretaría promoverá la constitución y operación de empresas con miembros de las comunidades agrarias, ejidos y pueblos indígenas, que tengan por objeto la prestación de servicios de turismo alternativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 34.
+
+La vigilancia y control que realice la Secretaría sobre las actividades de turismo alternativo, se sujetarán exclusivamente a la operación y calidad de la prestación del servicio, a la protección del turista y a los demás factores (sic) que se refiere la presente Ley.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 25 DE AGOSTO DE 2006)
+
+###### ARTICULO 35.
+
+La Secretaría promoverá acciones de coordinación con la Secretaría de Educación y Bienestar Social del Estado, la Facultad de Turismo de la Universidad Autónoma de Baja California, el Colegio Nacional de Educación Profesional Técnica, otras Instituciones de Educación Media y Superior, con centros de educación y capacitación para la formación de profesionales, y asesores en la industria dedicada al turismo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 31], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 36.
+
+La Secretaría llevará un registro de centros de enseñanza, dedicados a la especialidad del turismo, reconocidos oficialmente por la Secretaría de Educación Pública y la Secretaría de Educación y Bienestar Social del Estado, con el objeto de dar a conocer a los servidores turísticos que así lo soliciten sobre la validez oficial y el nivel académico de dichos planteles educativos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 32], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 37.
+
+La Secretaría propondrá al Ejecutivo del Estado la celebración de acuerdos, con la Secretaría de Trabajo y Previsión Social para el desarrollo de programas relacionados a la capacitación, y adiestramiento, que tengan como finalidad instruir a aquellos trabajadores y empleados de negocios turísticos, con el conocimiento necesario, para el desarrollo de sus actividades, de acuerdo a los términos que marque nuestra legislación federal en materia de trabajo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 33], P.O. 25 DE AGOSTO DE 2006)</small>
+
+### CAPITULO IV. INVERSION TURISTICA
+
+###### ARTICULO 38.
+
+La Secretaría propondrá a consideración del Ejecutivo del Estado mecanismos de coordinación con la Secretaría de Turismo Federal, y fijará las bases de coordinación con otras dependencias estatales y entidades municipales, y de igual forma con organismos de los sectores social y privado a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos como a servidores públicos.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VIII], P.O. 25 DE AGOSTO DE 2006)
+
+###### ARTICULO 39.
 
 La Secretaría en su carácter de dependencia responsable de asistir, auxiliar y proteger a los turistas, tendrá a su cargo lo siguiente:
 
@@ -187,49 +251,67 @@ II.- Representar al turista, con el carácter de mandatario cuando aquel no este
 
 III.- Proporcionar a los turistas, a Título gratuito, la información general y orientación legal que requiera.
 
-###### ARTICULO 35.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 35], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 40.
 
 Para dar cumplimiento a lo establecido en el artículo anterior, la Secretaría recibirá las denuncias presentadas por los turistas la que de ser posible se acompañará de los elementos probatorios.
 
 La Secretaría procederá a formular acta pormenorizada de los hechos y procurará la conciliación de los involucrados.
 
-###### ARTICULO 36.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 36], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 41.
 
 En el supuesto de que subsista la inconformidad por parte del turista, la Secretaría canalizará la inconformidad a petición del turista a la Procuraduría Federal del Consumidor en los términos del Título V, Capítulo V de la Ley Federal de Turismo.
 
-###### ARTICULO 37.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 37], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 42.
 
 La Secretaría realizará visitas de verificación a los prestadores de servicios turísticos con el objeto de constatar el debido cumplimiento de sus obligaciones, establecidas en esta Ley y su Reglamento así mismo a las normas oficiales mexicanas expedidas por la Secretaría Federal de Turismo para prestadores de servicios turísticos.
 
-### CAPITULO IV. INVERSION TURISTICA
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 38], P.O. 25 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 38.
+###### ARTICULO 43.
 
 A fin de evitar duplicidad de funciones la Secretaría coordinara con la Procuraduría Federal del Consumidor y la Secretaría de turismo federal las visitas de verificación, correspondiente a los prestadores de servicios turísticos y las visitas que se requieran en atención a las denuncias y/o quejas presentadas por los turistas inconformes o afectados.
 
-###### ARTICULO 39.
+(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 25 DE AGOSTO DE 2006)
+
+###### ARTICULO 44.
 
 Integrarán el Registro Estatal de Turismo en Baja California los prestadores de servicios turísticos mencionados en el Artículo 5to. de esta ley. Para ser considerados como tales, deberán cumplir con el reglamento respectivo, mismo que:
 
 I.- No deberá establecer barreras a la entrada de nuevos prestadores de servicios en razón de profesión, nacionalidad o capital; y
 
-II.- Solo establecerá garantías a nombre de los prestadores de servicios cuando sea necesario asegurar su debida operación con objeto de proteger al turista.
+II.- Solo establecerá garantías a nombre de los prestadores de servicios cuando sea necesario asegurar su debida, operación con objeto de proteger al turista.
 
-###### ARTICULO 40.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 40], P.O. 25 DE AGOSTO DE 2006)</small>
 
-La Secretaría, para los efectos del Artículo anterior, llevará un registro estatal voluntario, al cual se les invitará a todos los prestadores de servicios turísticos a inscribirse y renovar su inscripción en el mes de enero de cada año. La dependencia citada estará en comunicación con los servidores turísticos a fin de que su acción sea mas eficaz en el desarrollo, protección y fomento del turismo.
+###### ARTICULO 45.
 
-###### ARTICULO 41.
+La Secretaría, para los efectos del Artículo anterior, llevará un registro estatal voluntario, al cual se les invitará a todos los prestadores de servicios turísticos a inscribirse y renovar su inscripción en el mes de enero de cada año. La dependencia citada estará en comunicación con los servidores turísticos a fin de que su acción sea más eficaz en el desarrollo, protección y fomento del turismo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 41], P.O. 25 DE AGOSTO DE 2006)</small>
+
+### CAPITULO V. DE LAS ZONAS DE DESARROLLO TURISTICO PRIORITARIO
+
+###### ARTICULO 46.
 
 Los Servidores Turísticos que, por reincidencia en la violación de disposiciones de la presente ley y su reglamento, así como de la Ley Federal de Turismo y su Reglamento, de las normas oficiales mexicanas y las normas mexicanas, no podrán ser inscritos en el Registro Estatal de Turismo.
 
-###### ARTICULO 42.
+(REUBICADO [N. DE E. ANTES CAPITULO X], P.O. 25 DE AGOSTO DE 2006)
 
-Los prestadores de servicios turísticos a los que se refiere el Artículo 5to. de la presente ley, se regirán por lo que las partes convengan, observándose las disposiciones legales de la presente ley, la Ley Federal de Turismo, sus reglamentos y la norma oficial mexicana.
+###### ARTICULO 47.
 
-###### ARTICULO 43.
+Los prestadores de servicios turísticos a los que se refiere el Artículo Quinto de la presente ley, se regirán por lo que las partes convengan, observándose las disposiciones legales de la presente ley, la Ley Federal de Turismo, sus reglamentos y la norma oficial mexicana.
 
-Los servidores turísticos del estado, que cumplan con el Artículo 40, tendrán los siguientes derechos:
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 48.
+
+Los servidores turísticos del estado, que cumplan con el Artículo 45, tendrán los siguientes derechos:
 
 I.- Recibir asesoramiento técnico así como las informaciones y auxilio de la Secretaría de turismo, ante las diversas oficinas gubernamentales, cuando el interés turístico lo amerite;
 
@@ -247,7 +329,9 @@ VII.- Participar en los programas de capacitación turística que promueva o lle
 
 VIII.- Recibir el apoyo institucional de la Secretaría, siempre que sea solicitado para el beneficio del sector.
 
-###### ARTICULO 44.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 44], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 49.
 
 Los servidores turísticos del estado, a los que se refiere el Artículo 5to. de la presente ley, tendrán las siguientes obligaciones:
 
@@ -261,7 +345,9 @@ IV.- Observar estrictamente las disposiciones de esta ley y del reglamento que d
 
 Para determinar si el servicio prestado cumple con la calidad ofrecida, se tomará referencia (sic) las normas mexicanas y a falta de éstas las establecidas por los organismos internacionales, de acuerdo a la categoría del prestador de servicio de que se trate.
 
-###### ARTICULO 45.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 50.
 
 Los prestadores de servicios turísticos deberán:
 
@@ -271,25 +357,37 @@ II.- Cuando se traten de la prestación de servicios de guía de turistas, infor
 
 III.- Cumplir con los servicios, precios y tarifas y promociones en los términos anunciados, ofrecidos o pactados;
 
-IV.- Contar con los formatos foliados y deporte pagado en el sistema de quejas de turistas en los términos de la norma oficial mexicana respectiva; y (sic)
+IV.- Contar con los fomentos (sic) foliados y deporte pagado en el sistema de quejas de turistas en los términos de la norma oficial mexicana respectiva; y (sic)
 
-### CAPITULO V. DE LAS ZONAS DE DESARROLLO TURISTICO PRIORITARIO
+(REUBICADO [N. DE E. ANTES CAPITULO XI], P.O. 25 DE AGOSTO DE 2006)
 
-###### ARTICULO 46.
+### CAPITULO XII. VERIFICACION
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 51.
 
 La Secretaría tiene la facultad de practicar visitas de verificación a los prestadores de servicios turísticos para constatar el debido cumplimiento de las obligaciones a su cargo señaladas en la Ley Federal de Turismo, en la presente ley así como en los reglamentos respectivos.
 
-Las visitas de verificación, que realice la Secretaría, se ajustarán a lo establecido por lo dispuesto en los Artículos 49, 50 y 51 de la presente Ley y su Reglamento.
+Las visitas de verificación, que realice la Secretaría, se ajustarán a lo establecido por lo dispuesto en los Artículos 54, 55 y 56 de la presente Ley y su Reglamento.
 
-###### ARTICULO 47.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 47], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 52.
 
 La Secretaría al recibir quejas de los turistas en contra de los prestadores de servicios turísticos, canalizará el acta de queja correspondiente ante la Procuraduría Federal del Consumidor, como lo disponen los Artículos 40 y 47 de la Ley Federal de Turismo, para su recepción desahogo y resolución, evitando así la duplicidad de funciones.
 
-###### ARTICULO 48.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 48], P.O. 25 DE AGOSTO DE 2006)</small>
 
-Durante las visitas de verificación que lleve a cabo la Secretaría se procederá a levantar el acta correspondiente por parte del verificador, comisionado para tal efecto.
+###### ARTICULO 53.
 
-###### ARTICULO 49.
+Durante las visitas de verificación que lleve a cabo la Secretaría se procederá a levantar el acta correspondiente por parte del verificador, comisionada (sic) para tal efecto.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 49], P.O. 25 DE AGOSTO DE 2006)</small>
+
+### CAPITULO VI. TURISMO SOCIAL
+
+###### ARTICULO 54.
 
 Las actas de verificación, deberán de contener lo siguiente:
 
@@ -307,17 +405,33 @@ VI.- La declaración de la persona o personas que intervinieron en la diligencia
 
 VII.- Nombre y firma del verificador y de dos personas que intervinieron en la visita como testigos.
 
-###### ARTICULO 50.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 50], P.O. 25 DE AGOSTO DE 2006)</small>
+
+### CAPITULO VII. TURISMO ALTERNATIVO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 55.
 
 Después de elaborar el acta correspondiente se entregará una copia de la misma, a la persona con quien se entendió la visita. Aun cuando se haya negado a firmarla, esta tendrá validez jurídica.
 
-### CAPITULO XII. SANCIONES Y DEL RECURSO DE REVISION
+(REUBICADO [N. DE E. ANTES CAPITULO XII], P.O. 25 DE AGOSTO DE 2006)
 
-###### ARTICULO 51.
+### CAPITULO XIII. SANCIONES Y DEL RECURSO DE REVISION
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 51], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 56.
 
 Las infracciones a lo dispuesto en esta Ley y su Reglamento se regirán por lo establecido en el Título Quinto, Capítulo Quinto de la Ley Federal de Turismo y al Capítulo XI de la presente ley.
 
-###### ARTICULO 52.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 52], P.O. 25 DE AGOSTO DE 2006)</small>
+
+### CAPITULO VIII. CAPACITACION TURISTICA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 57.
 
 Las sanciones por infracciones a esta ley y las disposiciones derivadas de ella, serán fijadas con base en:
 
@@ -331,19 +445,21 @@ IV.- Cualquier otro elemento o circunstancia que aporte elementos de convicción
 
 Las resoluciones que emita la Secretaría deberán estar debidamente fundadas y motivadas.
 
-###### ARTICULO 53.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 53], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 58.
 
 Para determinar el monto de las sanciones, la Secretaría deberá considerar la gravedad de la infracción.
 
-### CAPITULO VI. TURISMO SOCIAL
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 54], P.O. 25 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 54.
+###### ARTICULO 59.
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o mas ocasiones.
 
-### CAPITULO VII. CAPACITACION TURISTICA
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 55], P.O. 25 DE AGOSTO DE 2006)</small>
 
-###### ARTICULO 55.
+###### ARTICULO 60.
 
 Contra las resoluciones dictadas por la Secretaría con fundamento en esta ley se podrá interponer el Recurso de Revisión dentro del plazo de quince días hábiles siguientes a la fecha de su notificación.
 
@@ -353,17 +469,23 @@ La interposición del recurso se hará por escrito dirigido al Titular de la Sec
 
 La interposición del recurso suspenderá la resolución impugnada por cuanto hace al pago de multas, siempre y cuando el infractor garantice por escrito y dentro de un término de cinco días hábiles siguientes a la admisión del recurso el interés fiscal, que nunca deberá ser menor al monto de la multa impuesta, mediante pago en efectivo bajo protesta, o bien por cualquiera de los medios de caución previstos por la ley a favor de la Secretaría de Turismo del Estado de Baja California.
 
-###### ARTICULO 56.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 56], P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### ARTICULO 61.
 
 Las sanciones de carácter económico impuestas en los términos de la presente ley, se harán efectivas y ejecutadas por medio de la Secretaría de Finanzas del Gobierno del Estado de Baja California, a través del correspondiente procedimiento administrativo.
 
-### CAPITULO VIII. PROTECCION Y ORIENTACION AL TURISTA
+### CAPITULO IX. PROTECCION Y ORIENTACION AL TURISTA
 
-### CAPITULO IX. REGISTRO ESTATAL DE TURISMO
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 34], P.O. 25 DE AGOSTO DE 2006)</small>
 
-### CAPITULO X. PRESTADORES DE SERVICIOS TURISTICOS
+### CAPITULO X. REGISTRO ESTATAL DE TURISMO
 
-### CAPITULO XI. VERIFICACION
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 25 DE AGOSTO DE 2006)</small>
+
+### CAPITULO XI. PRESTADORES DE SERVICIOS TURISTICOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 25 DE AGOSTO DE 2006)</small>
 
 ## TRANSITORIOS
 
@@ -379,7 +501,9 @@ I.- La planeación de actividades turísticas;
 
 II.- La promoción, fomento, inversión y desarrollo del turismo;
 
-III.- La promoción del turismo social;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2006)</small>
+
+III.- La promoción del turismo social; y el turismo alternativo meditante el conocimiento, la protección y el fortalecimiento del patrimonio natural, histórico y cultural de cada región de nuestro Estado;
 
 IV.- La capacitación de personas dedicadas a la prestación de servicios turísticos;
 
@@ -389,17 +513,23 @@ VI.- La creación, conservación, mejoramiento, protección y aprovechamiento de
 
 VII.- La coordinación y participación de las Autoridades Federales, Municipales y Organismos del Sector para el Desarrollo Turístico de la Entidad.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta ley se considera prestador de servicios turísticos:
+Para los efectos de esta ley se entenderá por:
 
-A la persona física o moral que habitualmente proporcione, intermedie, o contrate con el turista la prestación de los servicios que se mencionan en el Artículo Quinto.
+I.- TURISTA: La persona que viaja, trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice uno o más de los servicios a que se refiere el Artículo Quinto, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios.
+
+II.- PRESTADOR DE SERVICIOS TURISTICOS: A la persona física o moral que habitualmente proporcione, intermedie, o contrate con el turista la prestación de servicios que se mencionan en el Artículo 5to. de la presente ley.
+
+III.- TURISMO SUSTENTABLE: El desarrollo de la actividad turística que se funda en la planeación y manejo de las prácticas turísticas que propicien la preservación, protección, conservación y restauración del patrimonio natural, cultural e histórico del Estado, con el fin de salvaguardar la satisfacción de las necesidades de las generaciones presentes y futuras.
+
+IV.- TURISMO ALTERNATIVO: Modalidad del turismo que tiene como fin la realización de viajes que permitan al turista participar en actividades recreativas en contacto con la naturaleza y las expresiones culturales de comunidades rurales, indígenas y urbanas respetando el patrimonio, cultural e histórico de nuestro Estado.
 
 ###### ARTICULO 4.
 
-Para efectos de esta ley se considera turista:
-
-A la persona que viaja, trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice uno o mas de los servicios a que se refiere el artículo siguiente, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios.
+(DEROGADO, P.O. 25 DE AGOSTO DE 2006)
 
 ###### ARTICULO 5.
 
@@ -476,3 +606,7 @@ LIC. RODOLFO VALDEZ GUTIERREZ.
 P.O. 8 DE FEBRERO DE 2002.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 25 DE AGOSTO DE 2006.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
