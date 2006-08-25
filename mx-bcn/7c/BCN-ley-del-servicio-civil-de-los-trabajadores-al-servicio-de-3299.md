@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2006-08-11"
+last_updated: "2006-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -45,13 +45,29 @@ La presente Ley es de observancia general para las autoridades, funcionarios y t
 
 Para los efectos de esta Ley se denominarán a los tres poderes, Municipios e Instituciones descentralizadas Autoridades Públicas.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 2.
 
-Trabajador es la persona física que presta a las autoridades públicas un servicio material, intelectual, o de ambos géneros, independientemente del grado de preparación técnica requerida, para cada profesión u oficio, en virtud del nombramiento que le fuera expedido o por el hecho de figurar en las listas de raya de los trabajadores permanentes o temporales.
+Trabajador es la persona física que presta a las autoridades públicas un trabajo personal subordinado consistente en un servicio material, intelectual, o de ambos géneros, independientemente del grado de preparación técnica requerida, para cada profesión u oficio, en virtud del nombramiento que le fuera expedido o por el hecho de figurar en las listas de raya de los trabajadores permanentes o temporales.
+
+Para los efectos de esta Ley, no se considerarán trabajadores:
+
+I.- El Gobernador;
+
+II.- Los Diputados;
+
+III.- Los Magistrados, Jueces y Consejeros de la Judicatura del Poder Judicial del Estado, y
+
+IV.- Los Presidentes Municipales, Síndicos Procuradores, Regidores y Consejeros Municipales.
+
+Los servidores públicos mencionados en las fracciones anteriores, no tendrán derecho a las prestaciones que se contienen en esta Ley.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 3.
 
-La relación jurídica o laboral reconocida por esta Ley, se tiene establecida y perfeccionada para todos los efectos legales, entre las autoridades públicas sus titulares y funcionarios y los trabajadores que laboren en las mismas bajo su dirección y el pago de un salario.
+La relación jurídica o laboral reconocida por esta Ley, se tiene establecida y perfeccionada para todos los efectos legales, entre autoridades públicas, sus titulares y los trabajadores que laboren en las mismas bajo su dirección y el pago de un salario.
 
 ###### ARTICULO 4.
 
@@ -1123,7 +1139,7 @@ II.- El señalamiento de los hechos controvertidos y de los aceptados por las pa
 
 III.- Una enumeración de las pruebas rendidas y su apreciación en conciencia, señalando los hechos que deban considerarse probados; y
 
-IV.- Las concluciones (sic) que se deduzcan de lo alegado y probado.
+IV.- Las concluciones que se deduzcan de lo alegado y probado.
 
 ###### ARTICULO 131.
 
@@ -1416,3 +1432,7 @@ P.O. 30 DE JUNIO DE 2006.
 P.O. 11 DE AGOSTO DE 2006.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 1 de enero del año 2007.
