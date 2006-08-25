@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2006-05-26"
+last_updated: "2006-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -403,9 +403,11 @@ XVII. Informar por escrito al titular de la dependencia o entidad de adscripció
 
 XVIII. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
+
 ###### ARTÍCULO 47.
 
-Los servidores públicos, en el desempeño de sus funciones, empleos, cargos o comisiones, estarán sujetos a las prohibiciones siguientes:
+Los servidores públicos, en el desempeño de sus funciones, empleos o comisiones, estarán sujetos a las prohibiciones siguientes:
 
 I. Hacer uso de sus atribuciones para efecto de lucrar;
 
@@ -441,9 +443,15 @@ Las autoridades señaladas en el artículo 5 de esta ley, en sus respectivos ám
 
 XV. Aumentar su patrimonio ilícitamente, como consecuencia del ejercicio de su empleo, cargo o comisión;
 
-XVI. Intervenir en el ejercicio de sus funciones o con motivo de ellas en la atención, tramitación o resolución de asuntos, celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza, la contratación de obra pública y servicios relacionados con la misma, en los que se tenga interés personal, familiar o de negocios, incluyendo aquellos de los que puede resultar algún beneficio para el servidor público, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público a las personas antes referidas formen o hayan formado parte, sin la autorización previa y específica, según sea el caso, de los Síndicos Procuradores, del Órgano de Control o de la Dirección cuando sea procedente a propuesta razonada, del Titular de las dependencias y entidades de la Administración Pública Estatal o Municipal conforme a las disposiciones legales aplicables; y,
+XVI. Intervenir en el ejercicio de sus funciones o con motivo de ellas en la atención, tramitación o resolución de asuntos, celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza, la contratación de obra pública y servicios relacionados con la misma, en los que se tenga interés personal, familiar o de negocios, incluyendo aquellos de los que puede resultar algún beneficio para el servidor público, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público a las personas antes referidas formen o hayan formado parte, sin la autorización previa y específica, según sea el caso, de los Síndicos Procuradores, del Órgano de Control o de la Dirección cuando sea procedente a propuesta razonada, del Titular de las dependencias y entidades de la Administración Pública Estatal o Municipal conforme a las disposiciones legales aplicables; y (sic),
 
-XVII. Las demás que establezcan las Leyes, reglamentos y disposiciones administrativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2006)</small>
+
+XVII. Los servidores públicos que se hayan desempeñado en cargos de Dirección en el Instituto Estatal Electoral, sus Consejeros y los Magistrados del Tribunal de Justicia Electoral, del Poder Judicial del Estado de Baja California, se abstendrán de participar, hasta un año después, que dejen de desempeñar su empleo, cargo o comisión, en cualquier encargo público de la administración encabezada por quien haya ganado la elección que ellos organizaron o calificaron;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE AGOSTO DE 2006)</small>
+
+XVIII. Las demás que establezcan las Leyes, reglamentos y disposiciones administrativas.
 
 ###### ARTÍCULO 48.
 
@@ -926,3 +934,7 @@ RUBRICA
 P.O. 26 DE MAYO DE 2006.
 
 ÚNICO.- Las presentes reformad entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE AGOSTO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
