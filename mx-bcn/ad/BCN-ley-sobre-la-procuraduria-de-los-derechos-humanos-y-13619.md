@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-la-procuraduria-de-los-derechos-humanos-y-13619"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-10"
-last_updated: "2002-12-06"
+last_updated: "2006-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
 
 Ley publicada en el Periódico Oficial de Estado de Baja California, el domingo 10 de marzo de 1991.
 
@@ -135,7 +135,9 @@ La convocatoria deberá contener:
 
 B).- Calificará y determinará a las personas idóneas para ocupar el cargo de Procurador. El día fijado en la convocatoria en el cual deberá efectuase el concurso por oposición, se dará el uso de la voz hasta por treinta minutos a cada aspirante que expondrá invariablemente los motivos de su interés y un programa mínimo de trabajo.
 
-C).- Resolverá por mayoría absoluta sobre la elección inmediatamente después de que hayan expuesto los aspirantes o dentro de las veinticuatro horas siguientes, en todo caso se deberá fundar y motivar públicamente los criterios que determinaron la elección.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+
+C).- Resolverá por mayoría calificada sobre la elección inmediatamente después de que hayan expuesto los aspirantes o dentro de las veinticuatro horas siguientes, en todo caso se deberá (sic) fundar y motivar públicamente los criterios que determinaron la elección.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -484,3 +486,7 @@ Las disposiciones de esta reforma, no afectará la situación jurídica de los s
 ###### ARTICULO TERCERO.
 
 Las disposiciones legales y reglamentarias que se opongan al presente Decreto, deberán reformarse en un plazo de 30 días a partir de la entrada en vigor de las presentes reformas.
+
+P.O. 25 DE AGOSTO DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
