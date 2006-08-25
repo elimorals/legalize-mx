@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-06-16"
+last_updated: "2006-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1231,7 +1231,7 @@ Suspensión por participación,- Si en el infanticidio tomare participación un 
 
 ###### Artículo 131.
 
-Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión, Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
+Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión. Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
 
 Si la persona a quien se instiga o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, la pena aplicable será la correspondiente al homicidio calificado.
 
@@ -1807,7 +1807,7 @@ Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 ### CAPITULO IX. ADQUISICION RECEPCION U OCULTACION DE BIENES PRODUCTO DE UN DELITO
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 185.
 
@@ -1936,6 +1936,12 @@ III.- De seis a catorce años de prisión y de doscientos hasta quinientos días
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2006)</small>
+
+###### Artículo 201
+
+BIS.- Tipo y punibilidad.- A quien cometa el delito de robo en terrenos rústicos, respecto de postes o alambres de las cercas, motores eléctricos o partes de éstos, tuberías para riego, cableado o fluido eléctrico que reutilicen para la actividad agropecuaria se le impondrá de tres a seis años de prisión y de cien hasta doscientos días multa.
 
 ###### Artículo 202.
 
@@ -2127,7 +2133,7 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 ###### Artículo 216.
 
-Abuso por retención.- Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entrega a la autoridad para que ésta disponga de la misma conforme a la Ley.
+Abuso por retención.- Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no lo entrega a la autoridad para que ésta disponga de la misma conforme a la Ley.
 
 ###### Artículo 217.
 
@@ -2347,15 +2353,25 @@ Daño culposo.- También es punible el daño culposo, pero solo se perseguirá a
 
 ###### Artículo 232.
 
-Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a cinco años y hasta cien días multas si el valor de los bienes adquiridos, receptados u ocultados no excede de doscientos días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de tres a ocho años de prisión y de cien hasta trescientos días multa.
+Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a seis años y hasta cien días multas si el valor de los bienes adquiridos, receptados u ocultados no excede de ciento cincuenta días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de cuatro a nueve años de prisión y de doscientos hasta quinientos días multa.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+Para los efectos de lo anterior, se presume que existe conocimiento de que los objetos provienen de un delito cuando el sujeto activo se dedique a una actividad comercial o sea dependiente de un establecimiento cuyo giro se relacione con la naturaleza de los bienes objeto de la adquisición, recepción de prenda o guarda, excepto que dichas conductas se respalden en términos de la fracción I del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 233.
 
-Atenuación de la punibilidad en virtud de la recepción o adquisición culposa.- Al que sin conocimiento de la Comisión de un delito, y de acuerdo a las circunstancias en que adquirió, recibió en prenda o guardó objetos producto de éste, sin cerciorarse de la procedencia legítima de la cosa, se le aplicará, disminuyéndose hasta la mitad, la pena fijada en el Artículo anterior.
+Tipo y punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
 
-Para los efectos del párrafo anterior, se presume que no se cercioró de la procedencia legítima del objeto, cuando por la edad o condición económica del que ofrece la cosa o por no exigir un documento que contenga los datos de identificación personal del que le ofrece la cosa ni constate la veracidad de los mismos, o por el precio en que se ofrece, se infiera que no es propiedad del mismo o cuando por la naturaleza de la cosa contenga datos propios de identificación y requiera de documento idóneo para constatar la legítima propiedad o su valor.
+Para los efectos del párrafo anterior, se presume que el sujeto activo no se cercioró de la procedencia legítima del objeto, cuando:
+
+I.- No respalde la adquisición, recepción o guarda de los bienes con documentales que acrediten los datos de identificación personal del que le ofreció la cosa y el dicho de dos personas debidamente identificadas que atestigüen que el oferente podía disponer legítimamente de la cosa.
+
+II.- No exija un documento idóneo para constatar la legítima propiedad, tratándose de bienes que contengan datos propios de identificación.
+
+III.- Se encuentre en posesión de dos o más bienes de procedencia ilícita.
+
+IV.- Por el precio que pagó por el bien, la edad o condición económica del oferente, se infiera que éste no tenía derecho para disponer de ella.
 
 ### CAPITULO III. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
@@ -3968,5 +3984,17 @@ P.O. 19 DE MAYO DE 2006.
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 16 DE JUNIO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE AGOSTO DE 2006.
+
+DECRETO No. 228
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE AGOSTO DE 2006.
+
+DECRETO No. 233
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
