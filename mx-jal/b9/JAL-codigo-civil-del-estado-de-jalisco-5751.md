@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2006-08-22"
+last_updated: "2006-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -311,7 +311,7 @@ IV. Los demás colaterales dentro del cuarto grado;
 
 V. En caso de concurrencia entre dos o más sujetos de los considerados en las fracciones anteriores y de existir conflicto para otorgar el consentimiento decidirá quien tenga prelación en su derecho, conforme al libro sexto del Código Civil. Si se trata de sujetos con el mismo derecho, se suspenderá el trámite de la donación de órganos, levantándose constancia para todos los fines legales correspondientes;
 
-VI. En caso de no existir ninguno de los familiares señalados, la solicitud de autorización para la disposición de órganos, deberá efectuarse al Consejo Estatal de Trasplante de Organos y Tejidos, quien podrá delegar por escrito esta función al Secretario Técnico del Consejo.
+VI. (DEROGADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
@@ -16063,9 +16063,11 @@ Hecho el depósito, el encargado del Registro tomará razón de él en el libro 
 
 En cualquier tiempo el testador tendrá derecho de retirar del Registro Público de la Propiedad, personalmente o por medio de mandatario con poder especial otorgado ante Notario Público, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
+
 ###### Art. 2882.
 
-El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar y a la Dirección del Registro Nacional de Testamentos, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento o se informe de su existencia.
 
 ###### Art. 2883.
 
@@ -17600,3 +17602,17 @@ P.O. 15 DE AGOSTO DE 2006.
 P.O. 22 DE AGOSTO DE 2006.
 
 ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 21397-LVII/06
+
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 21420-LVII/06
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
