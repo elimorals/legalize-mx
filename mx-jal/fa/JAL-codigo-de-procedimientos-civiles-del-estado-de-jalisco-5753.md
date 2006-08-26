@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2004-09-30"
+last_updated: "2006-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5562,6 +5562,14 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5569,14 +5577,6 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6421,6 +6421,10 @@ I.- Si el difunto no era conocido o estaba de transeúnte en el lugar;
 II.- Cuando haya menores interesados;
 
 III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2006)</small>
+
+ARTICULO 817 bis.- En los juicios sucesorios el Juez pedirá informe al Procurador de Justicia del Estado, al Director de Archivo de Instrumentos Públicos y al Director del Registro Nacional de Testamentos, acerca de si en su oficina se ha depositado algún testamento del autor de la sucesión, para que en caso de que así sea, se le remita copia autorizada del mismo.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
 
@@ -7402,21 +7406,21 @@ V.- Por el Ministerio Público y los Consejos de Familia.
 
 Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Ministerio Público; en ella, con o sin la asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquellas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 967.
 
-La declaración de incapacidad por causa de demencia, idiotismo, imbecilidad, embriaguez habitual o toxicomanía, podrá pedirse:
+La declaración de incapacidad por causa de enajenación psíquica, embriaguez habitual o toxicomanía, podrá pedirse:
 
-I.- Por el cónyuge;
+I. Por el Cónyuge;
 
-II.- Por los presuntos herederos legítimos;
+II. Por los presuntos herederos legítimos;
 
-III.- Por el ejecutor testamentario;
+III. Por el ejecutor testamentario;
 
-IV.- Por el Ministerio Público, que en todo caso será oído;
+IV. Por el Ministerio Público;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-V.- Por el Consejo de Familias.
+V. Por el Consejo de Familia.
 
 ###### ARTICULO 968.
 
@@ -8493,3 +8497,15 @@ DECRETO NUMERO 20421, QUE ADICIONA LOS ARTICULOS 686 BIS, 686 TER Y 692 BIS, Y S
 P.O. 30 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 21402-LVII/06
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 21420-LVII/06
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
