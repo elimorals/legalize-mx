@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2004-07-12"
+last_updated: "2006-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -249,7 +249,9 @@ I. Proporcionar asesoría jurídica, información de sus derechos y del desarrol
 
 II. Promover lo necesario para que se garantice y se haga efectiva la reparación de los daños y perjuicios;
 
-III. Concertar acciones con instituciones de asistencia médica y social, públicas o privadas, para los efectos precisados en el último párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2006)</small>
+
+III. Concertar acciones con instituciones de asistencia médica y social, públicas o privadas, para los efectos precisados en la fracción VI del apartado B del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y, en casos de urgencia, se proporcionará inmediatamente a las víctimas del delito, tratándose de personas en estado de vulnerabilidad, atención y alojamiento de algún establecimiento social, pública o privada, o a un familiar que garanticen su seguridad, y
 
 IV. Otorgar, en coordinación con otras instituciones competentes, la atención que requieran.
 
@@ -692,3 +694,9 @@ Atentamente
 Sufragio efectivo. No reelección
 
 LICENCIADO MIGUEL ALEMÁN VELAZCO, GOBERNADOR DEL ESTADO.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE AGOSTO DE 2006.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
