@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-288-del-juicio-de-proteccion-de-derechos-humanos-252
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-05"
-last_updated: "2003-03-18"
+last_updated: "2006-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL JUICIO DE PROTECCION DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 5 de julio de 2002.
 
@@ -129,9 +129,11 @@ La o las autoridades no pueden ser representadas en el juicio, pero sí acredita
 
 ### Capítulo III. De los Términos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 10.
 
-El término para interponer la demanda del juicio de protección de derechos humanos, será de quince días hábiles, contados a partir:
+El término para interponer la demanda del juicio de protección de derechos humanos, será de treinta días hábiles, contados a partir:
 
 I. Del siguiente al que haya surtido efectos la notificación al agraviado del acto o actos, que a su juicio sean conculcatorios de sus derechos humanos;
 
@@ -139,7 +141,9 @@ II. Del siguiente al en que haya tenido conocimiento de ellos o de su ejecución
 
 III. Del siguiente al que se hubiere ostentado sabedor de los mismos.
 
-Tratándose de violaciones graves o de lesa humanidad, el término para interponer la demanda será de 30 días hábiles contados a partir de que el agraviado o la Comisión Estatal de Derechos Humanos hayan tenido conocimiento de ellas o de su ejecución.
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2006)</small>
+
+Tratándose de violaciones graves o de lesa humanidad, el término para interponer la demanda será de 60 días hábiles contados a partir de que el agraviado o la Comisión Estatal de Derechos Humanos hayan tenido conocimiento de ellas o de su ejecución.
 
 ###### Artículo 11.
 
@@ -612,3 +616,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 28 DE AGOSTO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
