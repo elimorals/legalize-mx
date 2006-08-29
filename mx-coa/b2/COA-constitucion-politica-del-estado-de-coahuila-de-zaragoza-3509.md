@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2006-07-21"
+last_updated: "2006-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -926,17 +926,17 @@ XV. Recibir para su conocimiento las declaratorias de validez de las elecciones 
 
 XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo del Poder Judicial, que les someta el Gobernador del Estado, en los términos de la Constitución y las leyes.
+XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo del Poder Judicial, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1999)</small>
 
 Igualmente, ratificar el nombramiento que el titular del Ejecutivo del Estado haga del Procurador General de Justicia en el Estado.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XVIII. Conocer de las renuncias y de las licencias de los diputados, del gobernador, de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo, así como de los miembros de los Ayuntamientos y Concejos Municipales.
+XVIII. Conocer de las renuncias y de las licencias de los diputados, del gobernador, de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, así como de los miembros de los Ayuntamientos y Concejos Municipales.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -978,9 +978,9 @@ XXIX. Erigirse en Jurado de Sentencia para conocer en juicio político de aquell
 
 Asimismo, declarar si ha o no lugar a proceder penalmente contra los servidores públicos a que se refiere el artículo 165 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XXX. Establecer las normas para la organización y funcionamiento del Tribunal Administrativo del Poder Judicial, a fin de dirimir las controversias de naturaleza administrativa, en los términos que establece esta Constitución y las leyes.
+XXX. Establecer las normas para la organización y funcionamiento del Tribunal de lo Contencioso-Administrativo del Poder Judicial, en los términos que establece esta Constitución y las leyes.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1116,9 +1116,9 @@ III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatu
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-V.- Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal Administrativo, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes. Igualmente, en su caso, recibir la protesta de Ley al Gobernador y a los magistrados.
+V. Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes. Igualmente, en su caso, recibir la protesta de Ley al Gobernador y a los magistrados.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1336,9 +1336,9 @@ XXI. Sancionar con conocimiento de causa a los que infrinjan los reglamentos gub
 
 XXII. Nombrar apoderados para asuntos administrativos y judiciales que se tramiten dentro o fuera del Estado.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XXIII. Someter al Congreso del Estado en los términos de esta Constitución, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia.
+XXIII. Someter al Congreso del Estado, en los términos de esta Constitución, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo.
 
 XXIV. Otorgar indultos y conmutaciones de las penas impuestas por sentencia ejecutoria, previa las formalidades que la ley establezca y en los casos en que la misma determine.
 
@@ -1806,7 +1806,7 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 122.
 
@@ -1872,11 +1872,11 @@ El Poder Judicial.
 
 De las Garantías de la Función Jurisdiccional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 135.
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal Electoral, en el Tribunal Administrativo, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos jurisdiccionales que con cualquier otro nombre determinen las leyes.
+El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal Electoral, en el Tribunal de lo Contencioso-Administrativo, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos jurisdiccionales que con cualquier otro nombre determinen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -1886,9 +1886,9 @@ El período constitucional de los integrantes del Poder Judicial será:
 
 I. De seis años para los Magistrados del Tribunal Superior de Justicia, a partir del día 30 de diciembre del año en el que corresponda tomar posesión del cargo de Gobernador del Estado en los términos de lo dispuesto por el artículo 77 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-Los magistrados del Tribunal Electoral y del Tribunal Administrativo del Poder Judicial durarán en su encargo seis años a partir de la fecha en que surta efectos su designación.
+Los magistrados del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo del Poder Judicial durarán en su encargo seis años a partir de la fecha en que surta efectos su designación.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1902,9 +1902,9 @@ III. (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
 La competencia, organización y atribuciones del Pleno y de las Salas del Tribunal Superior de Justicia, así como las facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo tres años y podrá ser reelecto por igual término. Mientras ejerza su función no integrará Sala.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-La competencia, procedimientos, organización y atribuciones del Tribunal Electoral, del Tribunal Administrativo, los Tribunales Distritales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
+La competencia, procedimientos, organización y atribuciones del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, los Tribunales Distritales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -1918,7 +1918,9 @@ En todo caso, se designarán tres magistrados numerarios y tres magistrados supe
 
 III. Los magistrados del Tribunal Electoral no podrán ser postulados para cargos de elección popular, estatales o municipales, durante el tiempo de su encargo o para el período de elección inmediato a la separación del mismo.
 
-IV. La ley determinará los requisitos para ser magistrado del Tribunal Electoral.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+IV. Para ser Magistrado del Tribunal Electoral deberán cumplirse los requisitos establecidos en el Artículo 138 de esta Constitución.
 
 V. El presidente del Tribunal Electoral será elegido, de entre sus miembros, para ejercer el cargo por tres años y podrá ser reelecto por igual período.
 
@@ -1956,63 +1958,57 @@ XI. El Pleno del Tribunal Electoral emitirá su opinión sobre la acción de inc
 
 XII. La administración, vigilancia y disciplina del Tribunal Electoral corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado. El presidente del Tribunal Electoral formará parte del Consejo de la Judicatura con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-B. El Tribunal Administrativo es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
+B. El Tribunal de lo Contencioso-Administrativo es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2005)</small>
 
 I. Funcionará con una Sala Superior y Salas Distritales, en los términos que establezca la ley.
 
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2005)</small>
+
 II. La Sala Superior se integrará por tres magistrados numerarios y tres magistrados supernumerarios.
 
-III. Para ser magistrado del Tribunal Administrativo se requiere:
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-1. Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles.
+III. Para ser Magistrado del Tribunal de lo Contencioso-Administrativo deberán cumplirse los requisitos establecidos en el Artículo 138 de esta Constitución.
 
-2. Tener título oficial de licenciado en derecho y haber ejercido la profesión cinco años por lo menos.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-3. No haber desempeñado un cargo de elección popular federal, estatal o municipal, durante los últimos cinco años inmediatos a la fecha de su designación.
+IV. El Tribunal de lo Contencioso-Administrativo conocerá y resolverá las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal, que emitan, ordenen, ejecuten o traten de ejecutar las autoridades de la Administración Pública del Estado y de los Municipios, cuya actuación afecte la esfera jurídica de los particulares, en los términos que determine la ley de la materia y los demás ordenamientos aplicables.
 
-4. No haber desempeñado un cargo de Secretario de la Administración Pública Estatal o Director General de una entidad paraestatal, durante los últimos cinco años inmediatos a la fecha de su designación.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-5. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+V.- La administración, vigilancia y disciplina del Tribunal de lo Contencioso-Administrativo corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado.
 
-6. No tener más de sesenta y cinco años de edad, ni menos de treinta, el día en que tome posesión del cargo.
+El Presidente del Tribunal de lo Contencioso-Administrativo formará parte del Consejo de la Judicatura siempre con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-7. Tener residencia en el estado durante los últimos cinco años, salvo el caso de ausencia por desempeño de cargo público al servicio de la federación, del estado o del municipio.
-
-IV. El Tribunal Administrativo será competente para resolver en los términos de esta Constitución y la ley, sobre:
-
-1. El juicio administrativo y demás impugnaciones de naturaleza administrativa en contra de actos u omisiones de los poderes del estado, de los municipios, de los órganos públicos autónomos o cualquier de otra entidad pública, que violen normas constitucionales o legales.
-
-2. Las quejas, juicios y las impugnaciones en materia de responsabilidad administrativa, gubernamental o patrimonial, presentadas en contra de los servidores públicos de los poderes Ejecutivo y Legislativo, de los Municipios, órganos públicos autónomos u de otras entidades públicas.
-
-3. El juicio de nulidad y demás recursos en materia fiscal.
-
-4. Las demás controversias de naturaleza administrativa que determinen las leyes.
-
-V. La administración, vigilancia y disciplina del Tribunal Administrativo corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado. El Presidente del Tribunal Administrativo formará parte del Consejo de la Judicatura siempre con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 137.
 
-El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral, el Tribunal Administrativo y los Tribunales Distritales, están facultados para formar jurisprudencia local en los términos que establezca la ley.
+El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo y los Tribunales Distritales, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 138.
 
-Para ser nombrado Magistrado, se requiere:
+Para ser nombrado Magistrado del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos políticos y civiles.
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
+II. Tener, cuando menos, treinta y cinco años cumplidos el día de su designación;
 
-III. Tener título oficial de abogado y haber ejercido la profesión cinco años por lo menos.
+III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que. (sic) lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-V. Tener residencia en el Estado durante los últimos cinco años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación o del Estado.
+V. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+
+VI. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, de Procurador General de Justicia en el Estado, de Diputado local, de Presidente Municipal o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
+
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -2044,9 +2040,9 @@ Es obligatorio para toda autoridad, cumplir las sentencias y demás resoluciones
 
 El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
 
-(REFORMADO, P.O. 21 DE JUNIO DE 2005) (F. DE E., P.O. 19 DE AGOSTO DE 2005)
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. Los Presidentes del Tribunal Electoral y del Tribunal Administrativo formarán parte siempre del Consejo con voz, pero sólo tendrán voto cuando se traten de asuntos relativos a los Tribunales que presiden.
+El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. Los Presidentes del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, formarán parte siempre del Consejo con voz, pero sólo tendrán voto cuando se trate de asuntos relativos a los Tribunales que presiden.
 
 Los consejeros deberán reunir los requisitos para ser magistrados y durarán tres años en su cargo, salvo su Presidente. Por cada uno de los consejeros, habrá un suplente.
 
@@ -2076,11 +2072,11 @@ La formación y actualización de los servidores públicos judiciales, estará a
 
 Los nombramientos de los Magistrados y Jueces, integrantes del Poder Judicial, serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 146.
 
-Los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo, serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
+Los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2110,7 +2106,7 @@ De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
 ###### Artículo 148.
 
-Los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal Administrativo, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2622,7 +2618,7 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)
 
 APARTADO TERCERO.
 
@@ -2872,11 +2868,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el gobernador del Estado; los secretarios del ramo; el procurador general de justicia; los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados del Tribunal Administrativo; los magistrados de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores, síndicos de los Ayuntamientos del estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el gobernador del Estado; los secretarios del ramo; el procurador general de justicia; los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados del Tribunal de lo Contencioso-Administrativo; los magistrados de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2892,19 +2888,19 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 165.
 
-Para proceder penalmente contra el gobernador del Estado; los diputados del Congreso del Estado; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados del Tribunal Administrativo; los magistrados de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el procurador general de justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los concejos municipales; y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el gobernador del Estado; los diputados del Congreso del Estado; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados del Tribunal de lo Contencioso-Administrativo; los magistrados de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el procurador general de justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los concejos municipales; y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Si la resolución del Congreso del Estado fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluído el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del gobernador del Estado, de los diputados al Congreso del Estado, de los magistrados del Tribunal Superior de Justicia, de los magistrados del Tribunal Electoral, de los magistrados del Tribunal Administrativo y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cuál fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del gobernador del Estado, de los diputados al Congreso del Estado, de los magistrados del Tribunal Superior de Justicia ,. (sic) de los magistrados del Tribunal Electoral, de los magistrados del Tribunal de lo Contencioso-Administrativo y los titulares de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cuál fallará en definitiva. (sic) previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3829,3 +3825,11 @@ TERCERO. El Poder Legislativo del Estado deberá emitir una nueva Ley Orgánica 
 Hasta en tanto entre en vigor la ley a que se refiere el párrafo que antecede, la Comisión de Derechos Humanos del Estado de Coahuila, para su organización y funcionamiento continuará aplicando las disposiciones de la Ley Orgánica que en este momento la rige, en cuanto no contravenga lo dispuesto en el presente decreto, así como las determinaciones que sobre el particular emita la presidencia de este organismos.
 
 CUARTO. Se derogan las disposiciones que se opongan a este decreto.
+
+P.O. 29 DE AGOSTO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Poder Legislativo del Estado expedirá la Ley de Justicia Administrativa que regulará la competencia, procedimientos, organización y atribuciones del Tribunal de lo Contencioso-Administrativo, que iniciará sus actuaciones una vez aprobada la partida presupuestal para su operación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
