@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-el-estado-de-guanajuato-y-sus-3345
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-15"
-last_updated: "2006-06-16"
+last_updated: "2006-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2006.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de agosto del 2003.
 
@@ -91,13 +91,21 @@ XVIII.- Obra de Urbanización: Las obras e instalaciones necesarias para dotar a
 
 XIX.- Organismos Operadores: Las dependencias o entidades públicas que tengan a su cargo la regulación, administración y control de los servicios públicos;
 
-XX.- Permiso de División: La autorización que se otorga para la partición de un inmueble en cualquier número de fracciones, siempre que para dar acceso a las partes resultantes, no se generen vías públicas o servidumbres de paso; no se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y de servicios públicos instalados;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+XX.- Permiso de división: La autorización que se otorga para la partición de un inmueble en cualquier número de fracciones, siempre que para dar acceso a las partes resultantes no se generen vías públicas, ni se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y de servicios públicos instalados;
 
 XXI.- Permiso de Relotificación: La autorización otorgada para variar en un fraccionamiento o desarrollo en condominio al que se le haya otorgado el permiso de venta, las condiciones de frente, fondo o superficie para obtener una cantidad de lotes diferentes a la autorización original;
 
-XXII.- Permiso de Venta: La autorización otorgada para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XXIII.- Secretaría: La Secretaría de Desarrollo Social y Humano.
+XXII.- Permiso de Venta: La autorización otorgada para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+XXIII.- Propietario: La persona física o moral titular del derecho de propiedad sobre un inmueble, que promueva un trámite de división; y
+
+XXIV.- Secretaría: La Secretaría de Desarrollo Social y Humano.
 
 ###### Artículo 3.
 
@@ -241,6 +249,10 @@ I.- Las superficies resultantes no sean menores al lote tipo del desarrollo fact
 
 II.- El destino de las fracciones no presente impedimentos para su utilización posterior y no generen incompatibilidad futura de acuerdo a los usos señalados por la certificación de usos y destinos, así como por el Plan de Ordenamiento Territorial correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2006)</small>
+
+Quedan excluidas del régimen de la presente Ley las resoluciones que se emitan con motivo de la partición de una herencia, así como la división forzosa derivada del cumplimiento de obligaciones civiles, determinada por la autoridad judicial en sentencia ejecutoriada.
+
 ###### Artículo 14.
 
 Los reglamentos municipales correspondientes, deberán señalar la extensión mínima de los lotes atendiendo a las características y requerimientos de la zona en que los mismos se ubiquen, en los términos del artículo 25 de esta Ley.
@@ -249,11 +261,27 @@ Los reglamentos municipales correspondientes, deberán señalar la extensión m�
 
 El trámite para otorgar un permiso de división se sujetará a lo siguiente:
 
-I.- El solicitante deberá presentar su solicitud por escrito ante la Dirección;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+I.- El propietario deberá presentar su solicitud por escrito ante la Dirección;
 
 II.- La Dirección realizará la revisión técnica y legal de la solicitud; y
 
-III.- La Dirección autorizará la división cuando se cumpla con los requisitos señalados en esta Ley.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+III.- La Dirección autorizará la división cuando se cumpla con los siguientes requisitos:
+
+a) Copia de escritura pública de propiedad debidamente inscrita en el Registro Público de la Propiedad y del Comercio;
+
+b) Cuando se trate de persona moral, copia de la escritura constitutiva inscrita en el Registro Público de la Propiedad y del Comercio, así como documento que acredite la personalidad jurídica del representante legal;
+
+c) Certificado de libertad de gravámenes actualizado;
+
+d) Constancia de apeo y deslinde en caso de que se requiera;
+
+e) Constancia de suficiencia de servicios de agua potable y alcantarillado, y de energía eléctrica, expedida por los organismos operadores correspondientes tratándose de predios urbanos; y
+
+f) Plano de levantamiento topográfico que incluya las calles colindantes, la infraestructura existente y la propuesta de división, garantizando la servidumbre de paso a los predios resultantes de una división de predios urbanos.
 
 ###### Artículo 16.
 
@@ -425,19 +453,27 @@ El reglamento municipal establecerá los lineamientos para fijar el porcentaje a
 
 ### CAPÍTULO PRIMERO. DE LOS REQUISITOS PREVIOS
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 32.
 
-La autorización de divisiones, relotificaciones y obras de urbanización de fraccionamientos y desarrollos en condominio, deberá solicitarse por el desarrollador a la autoridad municipal competente.
+La autorización de divisiones, relotificaciones y obras de urbanización de fraccionamientos y desarrollos en condominio, deberá solicitarse por el propietario o el desarrollador a la autoridad municipal competente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 33.
 
-Previa a la autorización de las autoridades competentes, el desarrollador deberá haber satisfecho los siguientes requisitos:
+Previa a la autorización de las autoridades competentes, el desarrollador o el propietario deberá haber satisfecho los siguientes requisitos:
 
-I.- Anexar la documentación prevista en el Reglamento que expida el Ejecutivo del Estado, así como actualizar la documentación que haya perdido su vigencia; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+I.- Anexar la documentación prevista en el artículo 15 de esta Ley, para el caso de divisiones y par los demás casos señalada en el reglamento que expida el Ejecutivo del Estado, así como actualizar la documentación que haya perdido su vigencia; y
 
 II.- Pagar los derechos fiscales correspondientes, a fin de que la Dirección proceda a la revisión del expediente técnico anexo a la solicitud.
 
-En caso de que el desarrollador no satisfaga los requisitos, se archivará la solicitud.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
+
+En caso de que el desarrollador o el propietario no satisfaga los requisitos, se archivará la solicitud.
 
 ###### Artículo 34.
 
@@ -479,11 +515,15 @@ Para que la Dirección otorgue el permiso de división de inmuebles, deberá con
 
 El Registro Público de la Propiedad negará cualquier inscripción de la escritura pública que no cuente con el permiso de división de un inmueble.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 41.
 
-Los interesados en el trámite de división de inmuebles, tendrán las siguientes obligaciones:
+El propietario tendrá las siguientes obligaciones:
 
-I.- Anexar a la solicitud la documentación que se establezca en el Reglamento que emita el Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+
+I.- Anexar a la solicitud la documentación que se establezca en el artículo 15 de esta Ley; y
 
 II.- Pagar en tiempo y forma, los impuestos y derechos que correspondan.
 
@@ -934,3 +974,15 @@ Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguien
 Artículo Segundo.- Los desarrolladores que hayan iniciado un procedimiento para la autorización de un fraccionamiento previo a la entrada en vigor del presente decreto podrán solicitar, hasta antes de haber recibido el permiso de venta, la autorización para desarrollar en su lugar un condominio efectuando las adecuaciones y modificaciones a que haya lugar; lo anterior sin afectar la donación escriturada a favor del Municipio.
 
 Artículo Tercero.- El Ejecutivo del Estado y los Ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 29 DE AGOSTO DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos procederán a la regularización, previo el pago del impuesto correspondiente, de los inmuebles construidos y divididos de hecho, así como de las divisiones de la copropiedad existente, siempre y cuando se hayan realizado con anterioridad a la entrada en vigor del presente decreto y se encuentren destinados al uso habitacional.
+
+Tratándose de inmuebles de uso distinto al habitacional, los ayuntamientos establecerán los programas de regularización en los términos y condiciones que éstos fijen.
+
+Artículo Tercero.- El Ejecutivo del Estado y los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+Artículo Cuarto.- Se derogan las disposiciones que se opongan al presente decreto.
