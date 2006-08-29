@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2006-03-17"
+last_updated: "2006-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2006.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
@@ -111,9 +111,9 @@ AL CREARSE CATEGORIAS O CARGOS NO COMPRENDIDOS EN EL ARTICULO ANTERIOR, LA CLASI
 
 QUEDAN EXCLUIDOS DEL REGIMEN DE ESTA LEY LOS MIEMBROS DE LAS POLICIAS ESTATALES O MUNICIPALES, DE LAS FUERZAS DE SEGURIDAD, DE LAS FUERZAS DE TRANSITO Y LOS TRABAJADORES DE CONFIANZA, PERO TENDRAN DERECHO A DISFRUTAR DE LAS MEDIDAS DE PROTECCION AL SALARIO Y GOZARAN DE LOS BENEFICIOS DE LA SEGURIDAD SOCIAL.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
 
-LOS TRABAJADORES DE CONFIANZA QUE SEAN DESPEDIDOS INJUSTIFICADAMENTE, TENDRAN DERECHO A UNA INDEMNIZACION CONSISTENTE EN TRES MESES DE SALARIO Y VEINTE DIAS DE SALARIO POR CADA UNO DE LOS AÑOS DE SERVICIO PRESTADOS, ASI COMO EL PAGO DE LOS SALARIOS CAIDOS DESDE LA FECHA DE DESPIDO HASTA EL PAGO DE LA PROPIA INDEMNIZACION.
+LOS PODERES EJECUTIVO, LEGISLATIVO Y JUDICIAL, ORGANISMOS AUTONOMOS Y MUNICIPIOS, MEDIANTE DISPOSICIONES DE CARACTER GENERAL, PODRAN ESTABLECER UNA PRESENTACION A FAVOR DE LOS TRABAJADORES DE CONFIANZA AL TERMINO DE LA RELACION LABORAL, CUYO IMPORTE EN NINGUN CASO PODRA SER SUPERIOR AL EQUIVALENTE A TRES MESES DE SALARIO MAS DOCE DIAS DE SALARIO POR CADA UNO DE LOS AÑOS DE SERVICIO PRESTADOS.
 
 ###### ARTICULO 9.
 
@@ -1362,3 +1362,9 @@ P.O. 17 DE MARZO DE 2006.
 Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Por la conmemoración del Bicentenario en el año 2006 del Natalicio de Don Benito Juárez García, Benemérito de las Américas, la fracción III, tendrá vigencia a partir del año 2007 dos mil siete.
+
+P.O. 29 DE AGOSTO DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
