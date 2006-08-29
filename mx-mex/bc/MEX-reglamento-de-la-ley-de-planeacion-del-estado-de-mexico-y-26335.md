@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-planeacion-del-estado-de-mexico-y-26335
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-16"
-last_updated: "2005-09-16"
+last_updated: "2006-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2006.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 16 de octubre de 2002.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
 El presente Reglamento tiene por objeto definir y detallar lo establecido en la Ley de Planeación del Estado de México y Municipios; precisar la organización y funcionamiento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, así como regular la participación de los grupos sociales en dicho sistema.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 2.
 
-Para efectos de este Reglamento, se entenderá por:
+Para efectos de este Reglamento, adicionalmente a las definiciones contenidas en el artículo 10 de la Ley de Planeación del Estado de México y Municipios, se entenderá por:
 
 I. Análisis. Al examen destinado a separar y distinguir las partes que integran un todo, con el fin de conocer y clasificar sus principios, características o elementos, y poder tomar decisiones;
 
@@ -55,9 +57,13 @@ IV. Concertación. A la acción conjunta entre varias personas o niveles de gobi
 
 V. Convenio. Al acuerdo de dos o más personas o instituciones destinado a crear, transferir, modificar o extinguir una obligación;
 
-VI. Coordinador de Planeación. Al Subsecretario de Planeación y Presupuesto de la Secretaría de Finanzas y Planeación del Estado de México;
+> <small>(REFORMADA G.G. 29 DE AGOSTO DE 2006)</small>
 
-VII. Coordinador General del COPLADEM. Al Secretario de Finanzas y Planeación del Estado de México;
+VI. Coordinador de Planeación. Al Subsecretario de Planeación y Presupuesto de la Secretaría de Finanzas del Estado de México;
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+VII. Coordinador General del COPLADEM. Al Secretario de Finanzas del Estado de México;
 
 VIII. COPLADEM. Al Comité de Planeación para el Desarrollo del Estado de México;
 
@@ -111,7 +117,9 @@ XXVII. Programa microregional. Al instrumento de planeación que de acuerdo a su
 
 XXVIII. Proyecto. Al conjunto de actividades afines y complementarias que se derivan de un programa y que tiene como características, un responsable, un período de ejecución, costos estimados y resultados esperados. Resuelve un problema o aprovecha una oportunidad;
 
-XXIX. Secretaría. A la Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+XXIX. Secretaría. A la Secretaría de Finanzas;
 
 XXX. Secretario Técnico. Al Director General del COPLADEM;
 
@@ -135,7 +143,9 @@ I. En el ámbito estatal:
 
 a) El Titular del Poder Ejecutivo;
 
-b) El Secretario de Finanzas y Planeación;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+b) El Secretario de Finanzas;
 
 c) El Comité de Planeación para el Desarrollo del Estado de México.
 
@@ -275,7 +285,13 @@ III. Definir las líneas sectoriales de acción de cada unidad participante en l
 
 IV. Proporcionar asesoría técnica a las dependencias y organismos auxiliares de la Administración Pública Estatal para apoyar la formulación y evaluación de sus programas, proyectos y presupuestos;
 
-V. Integrar y actualizar a través de la Dirección General de Planeación, Programación y Presupuesto, el Registro Estatal de Consultores y Asesores Externos, con capacidad reconocida en materia de información, planeación, programación, presupuestación y evaluación.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+V. Integrar y actualizar a través de la Dirección General de Planeación y Gasto Público, el Registro Estatal de Consultores y Asesores Externos, con capacidad reconocida en materia de información, planeación, programación, presupuestación y evaluación.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+VI. Aprobar las propuestas de inversión derivadas de los programas sectoriales, regionales o especiales.
 
 ###### Artículo 17.
 
@@ -285,7 +301,9 @@ La Secretaría de la Contraloría y las contralorías municipales, para dar cump
 
 Para efectos de lo dispuesto en el artículo 19 de la Ley, los Ayuntamientos de los municipios del Estado realizarán las siguientes acciones:
 
-I. Elaborar conforme a los criterios y metodología que el Ejecutivo del Estado proponga a través de la Secretaría, los planes de desarrollo y sus programas al inicio de cada periodo constitucional de Gobierno, los cuales, una vez aprobados por el Cabildo, deberán ser documentados en el Registro Estatal de Planes y Programas, y presentados a la H. Legislatura Local a través de la Contaduría General de Glosa;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+I. Elaborar conforme a los criterios y metodología que el Ejecutivo del Estado proponga a través de la Secretaría, los planes de desarrollo y sus programas al inicio de cada periodo constitucional de Gobierno, los cuales, una vez aprobados por el Cabildo, deberán ser documentados en el Registro Estatal de Planes y Programas, y presentados a la H. Legislatura Local a través del Órgano Superior de Fiscalización.
 
 II. Crear, determinar o ratificar en su caso, al inicio de cada período de gestión, la unidad o servidores públicos, independientes de la tesorería, que deberán llevar a cabo las funciones de integración de la información, planeación, programación, presupuestación y evaluación;
 
@@ -331,7 +349,9 @@ b) Determinar e instrumentar las estrategias para llevar a cabo las acciones nec
 
 V. En materia de presupuestación:
 
-a) Integrar con el área administrativa correspondiente y enviar a la Secretaría por conducto de la Dirección General de Planeación, Programación y Presupuesto el proyecto de presupuesto por programas que le corresponda;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+a) Integrar con el área administrativa correspondiente y enviar a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público el proyecto de presupuesto por programas que le corresponda;
 
 b) Verificar y validar la calendarización anual del gasto elaborada por el área administrativa correspondiente, para el ejercicio de los recursos autorizados, destinados a la ejecución de los programas y proyectos que competen a la dependencia, y enviarlos a la Secretaría en la fecha que determine la normatividad respectiva;
 
@@ -345,7 +365,9 @@ a) Revisar y validar que el área administrativa correspondiente registre el ava
 
 b) Convalidar conjuntamente con el área administrativa o su equivalente el informe mensual del ejercicio de los recursos financieros que debe ser enviado a la Secretaría;
 
-c) Reportar a la Secretaría por conducto de la Dirección General de Planeación, Programación y Presupuesto, el avance programático y presupuestal de las metas contenidas en el programa anual, en forma trimestral y mensual, respectivamente;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+c) Reportar a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público, el avance programático y presupuestal de las metas contenidas en el programa anual, en forma trimestral y mensual, respectivamente;
 
 d) Vigilar que las actividades en materia de planeación de las diferentes áreas de la dependencia a las que están adscritas, se conduzcan conforme lo dispone la Ley, este Reglamento, otros ordenamientos y la normatividad administrativa vigente para alcanzar los objetivos del Plan de Desarrollo del Estado de México y sus programas; y
 
@@ -353,7 +375,9 @@ e) Notificar a la Secretaría y a la Contraloría las posibles desviaciones dete
 
 VII. En materia de evaluación:
 
-a) Reportar a la Secretaría, por conducto de la Dirección General de Planeación, Programación y Presupuesto, los avances, alcances y logros de las metas programadas y comprometidas en el programa anual;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+a) Reportar a la Secretaría, por conducto de la Dirección General de Planeación y Gasto Público, los avances, alcances y logros de las metas programadas y comprometidas en el programa anual;
 
 b) Reportar a la Secretaría los avances de los indicadores contenidos en el Sistema Integral de Evaluación del Desempeño, SIED;
 
@@ -361,9 +385,13 @@ c) Actualizar y modificar en línea, en los períodos previamente establecidos, 
 
 d) Analizar, valorar, validar y reportar a la Secretaría los avances que reporte en los informes mensual y trimestral programático-presupuestal;
 
-e) Integrar y enviar a la Secretaría por conducto de la Dirección General de Planeación, Programación y Presupuesto, la evaluación para el informe trimestral y anual de avance en la ejecución del Plan de Desarrollo del Estado de México;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-f) Elaborar y remitir a la Secretaría por conducto de la Dirección General de Planeación, Programación y Presupuesto, el dictamen de reconducción y actualización de la estrategia de desarrollo, cuando se actualicen los programas y generen elementos para fundamentar la cancelación, modificación o adecuación de subprogramas y proyectos de acuerdo a lo establecido en los artículos 24 y 38 de la Ley;
+e) Integrar y enviar a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público la evaluación para el informe trimestral y anual de avance en la ejecución del Plan de Desarrollo del Estado de México;
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+f) Elaborar y remitir a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público, el dictamen de reconducción y actualización de la estrategia de desarrollo, cuando se actualicen los programas y generen elementos para fundamentar la cancelación, modificación o adecuación de subprogramas y proyectos de acuerdo a lo establecido en los artículos 24 y 38 de la Ley;
 
 g) Participar en la integración de la información requerida por el IGECEM, para la elaboración de los informes y la memoria de gobierno; y
 
@@ -419,7 +447,9 @@ V. En materia de seguimiento y control:
 
 a) Dar seguimiento en coordinación con la Tesorería al avance del ejercicio presupuestal y al cumplimiento de las metas establecidas en el programa anual autorizado;
 
-b) Consolidar conjuntamente con la Tesorería el informe mensual de avance del ejercicio de los recursos financieros que debe ser enviado a la Contaduría General de Glosa;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+b) Consolidar conjuntamente con la Tesorería el informe mensual de avance del Ejercicio de los recursos financieros que debe ser enviado al Órgano Superior de Fiscalización;
 
 c) Vigilar y promover que las actividades de planeación que realizan las dependencias y organismos de la Administración Pública del Municipio, se conduzcan conforme lo dispone la Ley, este Reglamento, otros ordenamientos, y la normatividad administrativa vigente para alcanzar los objetivos del Plan de Desarrollo Municipal y los programas autorizados; y
 
@@ -431,7 +461,9 @@ a) Diseñar, instrumentar e implantar un sistema de evaluación y seguimiento qu
 
 b) Integrar y reportar al Presidente Municipal y al Cabildo, con la periodicidad que este determine, el informe del comportamiento de los principales indicadores definidos en el Plan de Desarrollo Municipal, así como el avance programático y presupuestal de las metas contenidas en el programa anual;
 
-c) Integrar en coordinación con las dependencias y organismos que integran la Administración Pública del Municipio, el informe anual de ejecución del Plan de Desarrollo Municipal, el cual deberá ser enviado a la Contaduría General de Glosa de la Legislatura Local, en forma anexa a la cuenta de la Hacienda Pública del Municipio;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+c) Integrar en coordinación con las dependencias y organismos que integran la Administración Pública del Municipio, el informe anual de ejecución del Plan de Desarrollo Municipal, el cual deberá ser enviado al Órgano Superior de Fiscalización de la Legislatura Local, en forma anexa a la cuenta de la Hacienda Pública del Municipio;
 
 d) Elaborar el dictamen de reconducción de la estrategia de desarrollo del Municipio cuando se actualicen los programas y generen elementos para fundamentar la cancelación, modificación o adecuación de programas y proyectos de acuerdo a lo establecido en los artículos 24 y 38 de la Ley; y
 
@@ -451,9 +483,13 @@ I. Diagnóstico.- El cual corresponderá a un análisis e interpretación genera
 
 II. Fijación de Objetivos, Estrategias y Líneas de Acción.- Deberán ser establecidos en función de las prioridades que se hayan determinado de acuerdo a las necesidades debidamente jerarquizadas, estimando el comportamiento futuro de las tendencias detectadas en el diagnóstico. Los objetivos, estrategias y líneas de acción deberán ser fijados en forma clara y concreta. Los objetivos serán los fines hacia los cuales se dirige la acción planificada;
 
-III. Establecimiento de Metas.- Los planes plasmarán metas de carácter terminal por los periodos que cubran los programas incluirán metas intermedias, señaladas de manera anual en la programación a través de unidades de medida perfectamente cuantificables;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-IV. Determinación de recursos técnicos, humanos, materiales y financieros necesarios para la ejecución de las acciones: correspondiendo éstos, a las necesidades expresadas en el diagnóstico y a la capacidad financiera de que se disponga, además del señalamiento de responsables y tiempo de ejecución;
+III. Establecimiento de Metas.- Los planes de desarrollo municipal, así como los programas especiales, sectoriales y regionales plasmarán metas de carácter terminal por los periodos que cubran e incluirán metas intermedias, señaladas de manera anual en la programación a través de unidades de medida perfectamente cuantificables;
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+IV. Determinación de recursos técnicos, humanos, materiales y financieros necesarios para la ejecución de las acciones.- Los planes de desarrollo municipal, los programas especiales, sectoriales y regionales determinarán estos recursos, de acuerdo con las necesidades expresadas en el diagnóstico y con la capacidad financiera de que se disponga, además del señalamiento de responsables y tiempo de ejecución;
 
 V. Ejecución de Planes y Programas.- Corresponderá a toda la administración pública en su conjunto, atendiendo a las siguientes reglas fundamentales: organización adecuada; buena dirección y coordinación; comunicación y flujo de información en todos sentidos; buena administración de personal y división racional del trabajo; eficacia, eficiencia y congruencia en la toma de decisiones; control efectivo; delimitación de los niveles de autoridad y responsabilidad y unidad de criterio en la acción, dirección y mando; y
 
@@ -485,9 +521,11 @@ Con los resultados, se integrará un expediente o memoria que contendrá su corr
 
 Los planes de desarrollo y sus programas derivados, deberán incluir un apartado específico en donde se incluyan prioridades, objetivos, estrategias y líneas generales de acción, que rebasen el período constitucional de la gestión gubernamental, según sea el caso, los cuales, invariablemente, al inicio de cada nueva administración, serán revisados, analizados y reformulados de ser procedente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 26.
 
-Una vez aprobado y publicado el Plan de Desarrollo del Estado de México, deberá ser divulgado entre la población mediante:
+Una vez aprobado y publicado el Plan de Desarrollo del Estado de México, el Presidente de la Asamblea fijará las políticas y medios para su divulgación.
 
 I. Impresión masiva y en medios magnéticos, incluida la página Web del Gobierno, de la versión completa y abreviada para su amplia difusión entre la población;
 
@@ -497,21 +535,31 @@ III. Difusión de estrategias, políticas, objetivos y metas más relevantes, en
 
 IV. Reuniones informativas con la población.
 
-De estas acciones se llevará un registro y se elaborará un reporte que deberá ser incluido en el primer informe de gobierno que se presente.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+De estas acciones se llevará un registro y se elaborará un reporte que será remitido al COPLADEM, para su presentación ante la Asamblea General.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 27.
 
-El Plan de Desarrollo del Estado de México, es el instrumento rector de la planeación estatal y en él, deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin. En su elaboración e integración quedarán incluidas las propuestas planteadas por los distintos grupos sociales a través de los foros de consulta popular y los órganos auxiliares del COPLADEM.
+El Plan de Desarrollo del Estado de México, es el instrumento rector de la Planeación Estatal y en él, deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin.
+
+En su elaboración e integración quedarán incluidas, previa valoración, las propuestas planteadas por los distintos grupos sociales a través de los foros de consulta popular y los órganos auxiliares del COPLADEM.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 28.
 
-A partir de la elaboración e integración del Plan de Desarrollo del Estado de México, al inicio del periodo constitucional de Gobierno, deberá formularse y ser parte integrante de aquél, un Programa de Financiamiento para el Desarrollo, el cual cuando menos deberá contener la política tributaria y de precios y tarifas; la política de gasto público; las estrategias de canalización de recursos a la inversión; la política para la operación de fideicomisos de fomento y la política fiscal promotora del ahorro y la inversión del sector privado que asegure la viabilidad en la ejecución de los programas contenidos en él.
+A partir de la elaboración e integración del Plan de Desarrollo del Estado de México, deberá formularse un Programa de Financiamiento para el Desarrollo, el cual cuando menos deberá contener la política tributaria y de precios y tarifas; la política de gasto público; las estrategias de canalización de recursos a la inversión; la política para la operación de fideicomisos de fomento y la política fiscal promotora del ahorro y la inversión del sector privado que asegure la viabilidad en la ejecución de los programas contenidos en él. Este programa deberá quedar integrado y aprobado, a más tardar en los siguientes seis meses posteriores a la publicación del Plan de Desarrollo del Estado de México.
 
 ###### Artículo 29.
 
 En la elaboración e integración del Plan de Desarrollo del Estado de México, se deberá conjuntar una visión de largo plazo con otra de mediano, para propiciar la continuidad de esfuerzos en la acción gubernamental.
 
-El Plan deberá contener propuestas estratégicas que consideren la atención a los problemas y necesidades de la sociedad e indicar los objetivos que pretendan lograrse hacia el final de los seis años del período del gobierno respectivo, así como, la definición de aquellos objetivos y metas intermedias que se espera lograr hacia la mitad de dicho período.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+El Plan deberá contener propuestas estratégicas que consideren la atención a los problemas y necesidades de la sociedad e indicar los objetivos que pretendan lograrse hacia el final de los seis años del período del gobierno respectivo así como la definición de aquellos objetivos intermedios que se espera lograr hacia a la mitad de dicho periodo.
 
 ###### Artículo 30.
 
@@ -521,7 +569,9 @@ I. Tesis y proyecto político administrativo a desarrollar durante el período d
 
 II. Diagnóstico del contexto económico, político y social del Estado por región y sector;
 
-III. Visión del desarrollo estatal a 20 años;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+III. Prospectiva con la visión del desarrollo estatal a veinte años;
 
 IV. Prioridades y estrategia general del desarrollo;
 
@@ -529,7 +579,7 @@ V. Objetivos, estrategias y líneas de acción por región, sector y programas i
 
 VI. Descripción general de los mecanismos de seguimiento y evaluación a utilizar; y
 
-VII. Propuesta de estructura orgánico administrativa necesaria para cumplir con los objetivos del Plan.
+VII. (DEROGADA, G.G. 29 DE AGOSTO DE 2006)
 
 ###### Artículo 31.
 
@@ -569,15 +619,19 @@ Para el caso de los municipios podrán derivar de sus planes de desarrollo, prog
 
 Los programas sectoriales, serán los instrumentos de planeación que señalen los objetivos, estrategias y líneas de acción de un determinado sector del desarrollo económico-social de la entidad y detallarán con mayor precisión las políticas públicas consideradas en el Plan de Desarrollo del Estado de México, su vigencia no podrá rebasar el periodo constitucional de gobierno, aún cuando sus previsiones deberán ser de largo plazo.
 
-En su elaboración e integración, quedarán incluidas las propuestas que haga la sociedad a través de los mecanismos de participación que señala la Ley y el presente Reglamento.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
+En su elaboración e integración, quedarán incluidas, previa valoración, las propuestas que haga la sociedad a través de los mecanismos de participación que señala la Ley y el presente Reglamento.
 
 ###### Artículo 39.
 
 Los programas sectoriales deberán formularse asegurando su debida congruencia con las prioridades, objetivos, estrategias y líneas de acción que establezca el Plan de Desarrollo del Estado de México, cuidando que su desagregación a detalle sea la adecuada para constituirse en un instrumento eficaz de orientación del quehacer gubernamental y que identifique claramente las responsabilidades que correspondan a las partes involucradas y a los tiempos de ejecución de los programas y proyectos incluidos.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 40.
 
-En la formulación e integración de los programas sectoriales participarán las dependencias y entidades de acuerdo con los Programas agrupados al sector que corresponda; su elaboración e integración será coordinada por el COPLADEM, el cual valorará la propuesta y emitirá un dictamen de autorización.
+En la formulación e integración de los programas sectoriales participarán las dependencias y entidades de acuerdo con los programas agrupados al sector que corresponda; su elaboración e integración será coordinada por el COPLADEM, el cual valorará la propuesta y emitirá un dictamen de concordancia con el Plan de Desarrollo del Estado de México y con el Sistema Nacional de Planeación.
 
 ###### Artículo 41.
 
@@ -593,9 +647,15 @@ IV. Dependencias y entidades responsables de su ejecución y etapas de realizaci
 
 V. Lineamientos para la instrumentación, seguimiento y evaluación del programa.
 
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+VI. Propuesta de estructura orgánico-administrativa necesaria para cumplir con los objetivos del Programa Sectorial.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 42.
 
-El COPLADEM coordinará la impresión y distribución de los ejemplares suficientes de los programas sectoriales y regionales autorizados, dando seguimiento a estas acciones para asegurar su debido cumplimiento y será el responsable de publicar un resumen de dichos programas en la Gaceta Oficial del Gobierno, así como en los diarios locales de mayor circulación en el Estado.
+El COPLADEM, con las dependencias responsables, coordinará la impresión y distribución de los ejemplares suficientes de los programas sectoriales y regionales autorizados, dando seguimiento a estas acciones para asegurar su debido cumplimiento y será el responsable de publicar un resumen de dichos programas en el periódico oficial "Gaceta del Gobierno".
 
 ###### Artículo 43.
 
@@ -623,9 +683,15 @@ IV. Dependencias y órdenes de gobierno responsables y etapas de realización;
 
 V. Lineamientos para la instrumentación, seguimiento y evaluación del programa.
 
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+VI.- Propuesta de estructura orgánico-administrativa necesaria para cumplir con los objetivos del Programa Regional.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 47.
 
-En la formulación e integración de los programas regionales participarán las dependencias y entidades de los tres órdenes de gobierno que tengan incidencia en los programas de desarrollo de la región que corresponda; su elaboración e integración será coordinada por el COPLADEM, el cual valorará la propuesta y emitirá un dictamen de autorización.
+En la formulación e integración de los programas regionales participarán las dependencias y entidades de los tres órdenes de gobierno que tengan incidencia en los programas de desarrollo de la región que corresponda; su elaboración e integración será coordinada por el COPLADEM, el cual valorará la propuesta y emitirá un dictamen de concordancia con el Plan de Desarrollo del Estado de México.
 
 ###### Artículo 48.
 
@@ -635,9 +701,11 @@ El COPLADEM a través de los subcomités regionales respectivos que al efecto es
 
 Los programas regionales tendrán la vigencia que su naturaleza y objetivos requieran, en ningún caso, rebasarán el periodo constitucional de gobierno, y sus plazos de ejecución no serán menores a dos años.
 
-###### Artículo 50.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-El Plan de Desarrollo Municipal, es el instrumento rector de la Planeación Municipal, en el que deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral y el mejoramiento en la calidad de vida de la población y orientar la acción de este orden de gobierno y los grupos sociales del municipio hacia ese fin. En su elaboración e integración quedarán incluidas las propuestas planteadas por los distintos sectores de la sociedad, a través de los mecanismos de participación y consulta popular instituidos por el COPLADEMUN.
+###### Articulo 50.
+
+El Plan de Desarrollo Municipal, es el instrumento rector de la Planeación Municipal, en el que deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral y el mejoramiento en la calidad de vida de la población y orientar la acción de este orden de gobierno y los grupos sociales del municipio hacia ese fin. En su elaboración e integración quedarán incluidas, previa valoración, las propuestas planteadas por los distintos sectores de la sociedad, a través de los mecanismos de participación y consulta popular instituidos por el COPLADEMUN.
 
 ###### Artículo 51.
 
@@ -911,11 +979,11 @@ VII. Constituirse en el vínculo de coordinación entre el Estado, los ayuntamie
 
 VIII. Promover la creación y propiciar el fortalecimiento de los COPLADEMUN.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 83.
 
-El logotipo de identificación del COPLADEM, es el elemento visual que hasta la fecha ha utilizado, representado por una figura prehispánica del Estado de México, que expresa la articulación de diversos elementos en torno a un punto central, lo que constituye una manifestación de unidad y dinamismo; su simetría enmarcada produce la sensación de estabilidad y equilibrio.
-
-El logotipo será invariablemente utilizado en la papelería y vehículos, así como en las asambleas, reuniones y demás eventos que por su naturaleza tengan relación con las funciones de los órganos del COPLADEM.
+El logotipo de identificación del COPLADEM, es el elemento visual que lo individualiza. Este será diseñado por la dependencia del Gobierno Estatal que tenga a su cargo la identidad gráfica institucional y será utilizado invariablemente en la papelería y vehículos, así como en las asambleas, reuniones y demás eventos que por su naturaleza tengan relación con las funciones de los órganos del COPLADEM.
 
 ###### Artículo 84.
 
@@ -963,7 +1031,9 @@ La Asamblea General en cumplimiento de las atribuciones previstas en la Ley, deb
 
 I. Promover y fomentar la participación de los diversos grupos y organizaciones sociales y privados, en la elaboración y actualización del Plan de Desarrollo del Estado de México, buscando su congruencia con los programas que en el ámbito estatal, sectorial y regional formulen los gobiernos federal y estatal;
 
-II. Formular y proponer a los ejecutivos federal y estatal programas de inversión, proyectos y acciones de gasto y financiamiento para incorporar la estrategia de desarrollo a las aspiraciones y demandas de los habitantes, grupos y organizaciones sociales y privados;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+II. Integrar y proponer a los ejecutivos Federal y Estatal programas de inversión, proyectos y acciones de gasto y financiamiento acordadas en el seno del COPLADEM.
 
 III. Coadyuvar con el Ejecutivo al seguimiento y evaluación de los programas y acciones concertados entre la Federación y el Estado, en el marco del Convenio de Desarrollo Social;
 
@@ -1073,73 +1143,69 @@ La Asamblea General establecerá un Subcomité Regional por cada una de las 16 r
 
 Para efectos de la planeación del desarrollo regional, el Estado se divide en las regiones siguientes:
 
-I. Región I Amecameca:
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-Comprende los municipios de Amecameca, Atlautla, Ayapanqo, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
+Región I Amecameca: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
-II. Región II Atlacomulco:
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-Comprende los municipios de Acambay, Aculco, Atlacomulco, Chapa de Mota, Ixtlahuaca, Jilotepec, Jocotitlán, Morelos, El Oro, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
+Región II Atlacomulco: Acambay, Aculco, Atlacomulco, Chapa de Mota, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Morelos, El Oro, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
 
-III. Región III Chimalhuacán:
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-Comprende los municipios de Chicoloapan, Chimalhuacán, Ixtapaluca y La Paz.
+Región III Chimalhuacán: Chicoloapan, Chimalhuacán, Ixtapaluca y La Paz.
 
-> <small>(F. DE E., G.G. 3 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-IV. Región IV Cuautitlán Izcalli:
+Región IV Cuautitlán Izcalli: Coyotepec, Cuautitlán Izcalli, Huehuetoca, Tepotzotlán y Villa del Carbón.
 
-Comprende los municipios de Coyotepec, Cuautitlán Izcalli, Huehuetoca, Tepotzotlán, Villa del Carbón.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-V. Región V Ecatepec:
+Región V Ecatepec: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecamac, Temascalapa y Teotihuacan.
 
-Comprende los municipios de Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-VI. Región VI Ixtapan de la Sal:
+Región VI Ixtapan de la Sal: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicinqo, Malinalco, Ocuilan, San Simón de Guerrero, Sultepec, Temascaltepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
 
-Comprende los municipios de Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, San Simón de Guerrero, Sultepec, Temascaltepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-VII. Región VII Lerma:
+Región VII Lerma: Atizapán, Capulhuac, Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco, Temoaya, Tianguistenco, Xalatlaco y Xonacatlán.
 
-Comprende los municipios de Atizapán, Capulhuac, Jiquipilco, Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco, Temoaya, Tianguistenco, Xalatlaco y Xonacatlán.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-VIII. Región VIII Naucalpan:
+Región VIII Naucalpan: Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez y Nicolás Romero.
 
-Comprende los municipios de Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez y Nicolás Romero.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-IX. Región IX Nezahualcóyotl:
+Región IX Nezahualcóyotl: Nezahualcóyotl.
 
-Comprende el municipio de Nezahualcóyotl.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-X. Región X Tejupilco:
+Región X Tejupilco: Amatepec, Luvianos, Tejupilco y Tlatlaya.
 
-Comprende los municipios de Amatepec, Luvianos, Tejupilco y Tlatlaya.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-XI. Región XI Texcoco:
+Región XI Texcoco: Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
 
-Comprende los Municipios de Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-XII. Región XII Tlalnepantla:
+Región XII Tlalnepantla: Atizapán de Zaragoza y Tlalnepantla de Baz.
 
-Comprende los municipios de Atizapán de Zaragoza y Tlalnepantla de Baz.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-XIII. Región XIII Toluca:
+Región XIII Toluca: Almoloya de Juárez, Almoloya del Río, Calimaya, Chapultepec, Metepec, Mexicaltzingo, Rayón, San Antonio la Isla, Tenango del Valle, Toluca, Texcalyacac y Zinacantepec.
 
-Comprende los municipios de Almoloya de Juárez, Almoloya del Río, Calimaya, Chapultepec, Metepec, Mexicaltzingo, Rayón, San Antonio la Isla, Tenango del Valle, Toluca, Texcalyacac y Zinacantepec.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-> <small>(F. DE E., G.G. 3 DE NOVIEMBRE DE 2005)</small>
+Región XIV Tultitlán: Coacalco de Berriozábal, Cuautitlán, Melchor Ocampo. Teoloyucan, Tultepec y Tultitlán.
 
-XIV. Región XIV Tultitlán:
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-Comprende los municipios de Coacalco de Berriozábal, Cuautitlán, Melchor Ocampo, Teoloyucan y Tultitlán.
+Región XV Valle de Bravo: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
 
-XV. Región XV Valle de Bravo:
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
-Comprende los municipios de Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
-
-XVI. Región XVI Zumpango:
-
-Comprende los municipios de Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
+Región XVI Zumpango: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
 
 ###### Artículo 98.
 
@@ -1161,7 +1227,9 @@ III. El Director General del COPLADEM o el representante que éste designe, quie
 
 IV. Los titulares de las dependencias y organismos auxiliares estatales, y de las representaciones federales en el Estado, cuando su actividad se relacione con el objeto de atención del subcomité o grupo de trabajo respectivo;
 
-V. Un representante de la Secretaría de Desarrollo Social del Gobierno del Estado de México;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+V. Un representante de la Secretaría de Desarrollo Social del Gobierno del Estado de México; el cual fungirá como Secretario Técnico en los subcomités regionales.
 
 VI. Representantes de grupos y organizaciones sociales y privados cuyo objeto de creación tenga ingerencia (sic) en el respectivo subcomité o grupo de trabajo.
 
@@ -1175,7 +1243,9 @@ I. Participar en la elaboración y actualización del Plan de Desarrollo del Est
 
 II. Emitir los dictámenes para la autorización de los programas sectoriales, regionales o especiales;
 
-III. Priorizar las propuestas de inversión, turnarlas a la Asamblea General, asegurando su congruencia con los programas derivados del Plan de Desarrollo del Estado de México;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+
+III. Integrar las propuestas de inversión, turnarlas para su aprobación a la Secretaría; asegurando su congruencia con los programas derivados del Plan de Desarrollo del Estado de México; e informar de ello a la Asamblea General.
 
 IV. Aprobar el programa anual de actividades del subcomité o grupo de trabajo según se trate;
 
@@ -1185,9 +1255,11 @@ VI. Realizar reuniones de autoevaluación y participar en las de evaluación que
 
 VII. Aprobar el informe anual de actividades que someta a su consideración el coordinador del subcomité o grupo de trabajo.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 102.
 
-Los subcomités y grupos de trabajo celebrarán sesiones ordinarias por lo menos cada dos meses en el lugar y fecha que se indique en la convocatoria correspondiente, la cual será expedida por el coordinador del subcomité o grupo de trabajo, anexando el orden del día. Podrán realizarse sesiones extraordinarias cuando los asuntos a tratar así lo ameriten a juicio del coordinador o de la mayoría de los integrantes.
+Los subcomités y grupos de trabajo celebrarán, al menos, dos sesiones ordinarias al año, en el lugar y fecha que se indique en la convocatoria correspondiente, la cual será expedida por el coordinador del subcomité o grupo de trabajo, anexando el orden del día. Podrán realizarse sesiones extraordinarias cuando los asuntos a tratar así lo ameriten a juicio del coordinador o de la mayoría de los integrantes.
 
 ###### Artículo 103.
 
@@ -1338,3 +1410,11 @@ G.G. 16 DE SEPTIEMBRE DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
