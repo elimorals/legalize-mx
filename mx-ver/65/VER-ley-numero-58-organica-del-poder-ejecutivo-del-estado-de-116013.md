@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2006-02-24"
+last_updated: "2006-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE FEBRERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -443,15 +443,31 @@ XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
 
 XXXVIII. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y transporte.
 
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XXXIX. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo estatal. Así como elaborar y ejecutar los programas relacionados con el Sistema de Prevención y Readaptación Social del Estado;
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XL. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XLI. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social, de conformidad con las leyes de la materia, y
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XLII. Custodiar, en coordinación con la Secretaría de Seguridad Pública, a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
 De la Secretaría de Seguridad Pública
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada; protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -463,7 +479,9 @@ I. Establecer, dirigir y controlar, en el ámbito de su competencia, la polític
 
 II. Desarrollar, instrumentar y ejecutar la política de seguridad pública estatal;
 
-III. Proponer al Ejecutivo Estatal las medidas para organizar las actividades de las dependencias y entidades que atiendan el fenómeno delictivo;
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+III. Participar y colaborar en las medidas que adopte la Secretaría de Gobierno para organizar las actividades que atiendan el fenómeno delictivo;
 
 IV. Presidir el Consejo Estatal de Seguridad Pública;
 
@@ -487,29 +505,15 @@ XII. Autorizar, en el ámbito de su competencia y en términos de la licencia co
 
 XIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades judiciales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+XIV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
-> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+XV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
-XIV. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo Estatal, y elaborar los programas de readaptación social de sentenciados;
+XVI. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
-
-XV. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
-
-XVI. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social, de conformidad con las leyes de la materia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
-
-XVII. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+XVII. Custodiar, en coordinación con la Secretaría de Gobierno a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -2056,3 +2060,13 @@ G.O. 24 DE FEBRERO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Las Unidades Administrativas de las Secretarías establecidas en el texto anterior a esta Ley, que se trasladen o transfieran a otra Secretaría u oficina dependiente directamente del Ejecutivo Estatal, pasarán a su nueva adscripción con los recursos materiales, humanos y financieros que estén a su cargo.
+
+G.O. 30 DE AGOSTO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 570 QUE REFORMA LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los recursos materiales, humanos y financieros, que correspondían a la Secretaría de Seguridad Pública en materia de prevención y readaptación social pasan a la Secretaría de Gobierno.
+
+Tercero. El Gobernador del Estado en un término de noventa días a partir de la vigencia del presente Decreto, realizará las adecuaciones a los reglamentos internos de las dependencias que modifican sus atribuciones.
