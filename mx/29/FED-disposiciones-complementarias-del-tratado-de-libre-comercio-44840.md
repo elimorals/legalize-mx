@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2006-08-02"
+last_updated: "2006-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,61 +19,67 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCAR EN 2006
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de agosto de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los capítulos VII del Tratado de Libre Comercio de América del Norte, IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica y IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, y
 
 CONSIDERANDO
 
-Que el 30 de abril de 1998 fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
+Que en los últimos meses se ha generado un incremento inusitado en los precios del azúcar en el mercado nacional, por lo que resulta necesario complementar la oferta nacional con importaciones, a efecto de que las industrias que la utilizan como materia prima en sus procesos productivos no resulten afectadas;
 
-Que el artículo 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cupo;
+Que el artículo único del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, da a conocer el arancel-cupo, aplicable a las siguientes fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, establece en el artículo sexto transitorio inciso IV, disposiciones en materia de importación y producción de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada Ley;
+Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para la producción nacional, y
 
-Que el procedimiento a través del cual se asigna el cupo de importación de leche establecido en el Tratado, es un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
+Que la medida a que se refiere el presente ordenamiento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCAR EN 2006
 
 ###### ARTICULO PRIMERO.
 
-El cupo para importar en el periodo que correrá a partir de la entrada en vigor del presente Acuerdo y hasta el 30 de junio de 2007, leche en polvo originaria de la República de Nicaragua, con el arancel-cupo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, es el que se determina a continuación:
+El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido en el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-Con el objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de licitación pública, al contingente arancelario de importación a que se refiere el presente Acuerdo, conforme lo dispuesto en el artículo 24 de la Ley de Comercio Exterior
+El procedimiento de asignación del cupo mínimo de importación referido en el presente instrumento será de asignación directa. Podrán solicitar asignación de dicho cupo las personas físicas y morales establecidas en los Estados Unidos Mexicanos que hayan efectuado importaciones de azúcar a través de una o varias de las fracciones arancelarias indicadas en el artículo anterior durante el año 2005. La cantidad de cupo a asignar a cada solicitante será la menor entre la cantidad solicitada y la que resulte de la aplicación de la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Para la aplicación de la fórmula anterior se utilizarán las cifras que emite la Administración General de Aduanas del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación del contingente arancelario de importación a que se refiere el presente Acuerdo las empresas industriales, que utilizan leche en polvo en sus procesos productivos, que realicen una transformación sustancial de este insumo.
+Las solicitudes de asignación del cupo a que se refiere el presente Acuerdo, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda.
 
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquella en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único, además de que no puede comercializarse en el mismo estado físico en que se importa.
-
-La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
-
-La vigencia máxima de los certificados de cupo será al 30 de junio de 2007.
+La asignación del cupo al que se refiere el presente instrumento se realizará a través de la Dirección General de Comercio Exterior de la Secretaría de Economía.
 
 ###### ARTICULO CUARTO.
 
-Las licitaciones públicas previstas en este Acuerdo, se sujetarán a las bases que establezca la convocatoria correspondiente, la cual deberá ser publicada en el Diario Oficial de la Federación, por la Dirección General de Comercio Exterior, por lo menos 20 días hábiles antes de que inicie el registro de solicitudes, en la que se establecerá la fecha en que se pondrán a disposición de los interesados las bases correspondientes.
-
-Los interesados en participar en las licitaciones públicas, deberán presentar su oferta en la forma SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, adjuntando la documentación que corresponda conforme se señale en las bases de la licitación.
+Una vez asignado el monto para importar dentro del cupo, la Secretaría de Economía expedirá los respectivos certificados de cupo a través de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”.
 
 ###### ARTICULO QUINTO.
 
-La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán reuniones con los representantes de las principales organizaciones de productores e industriales que integran la cadena productiva de leche y derivados lácteos, con el fin de evaluar y dar seguimiento a la administración de este cupo.
+En caso de requerirse un cupo adicional que rebase el monto mínimo señalado en el cuadro del artículo primero del presente Acuerdo, éste se otorgará con el arancel-cupo establecido en el artículo único del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, y su asignación se realizará de conformidad con los procedimientos que al respecto se establezcan mediante Acuerdo publicado en el Diario Oficial de la Federación, considerando las necesidades de abasto de las industrias consumidoras de edulcorantes.
+
+El monto del cupo adicional se determinará considerando las estimaciones de disponibilidad de inventarios de azúcar para satisfacer el consumo de azúcar del país y el comportamiento de precios de dicho edulcorante en las principales centrales de abasto.
 
 ###### ARTICULO SEXTO.
 
-Una vez demostrado el pago de adjudicación del monto para importar dentro del contingente arancelario, obtenido a través del mecanismo de licitación pública, conforme lo establezcan las bases de la propia licitación, la Secretaría de Economía expedirá los respectivos certificados de cupo a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por licitación pública)” SE-03-013-6. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+Los formatos citados en el presente instrumento estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
+
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
 
 ###### ARTICULO SEPTIMO.
 
@@ -313,6 +319,6 @@ En aquellos casos de este artículo o en los de la columna “Noruega” del Ap�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2007.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2006.
 
-México, D.F., a 28 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 4 de agosto de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
