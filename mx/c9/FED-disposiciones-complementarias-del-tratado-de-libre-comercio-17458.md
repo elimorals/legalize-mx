@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-174
 country: "mx"
 rank: "otro"
 publication_date: "2003-12-31"
-last_updated: "2004-12-29"
+last_updated: "2006-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,94 +19,72 @@ issue_date: "2003-12-30"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE COSTA RICA, 1994)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR LECHE ULTRAPASTEURIZADA EN ENVASES HERMETICOS Y POLVO PARA PREPARACION DE BEBIDAS, ORIGINARIOS DE LA REPUBLICA DE COSTA RICA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCAR EN 2006
 
-Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el miércoles 29 de diciembre de 2004.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de agosto de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 3-04 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 23 y 24 de la Ley de Comercio Exterior; 9 fracción III, 26, 31, 32, 33, y 35 de su Reglamento, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los capítulos VII del Tratado de Libre Comercio de América del Norte, IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica y IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, aprobado por el Senado de la República el 8 de junio de 1994, publicado en el Diario Oficial de la Federación el 10 de enero de 1995, prevé entre sus objetivos, establecer reglas claras y de beneficio mutuo para el intercambio comercial entre las Partes;
+Que en los últimos meses se ha generado un incremento inusitado en los precios del azúcar en el mercado nacional, por lo que resulta necesario complementar la oferta nacional con importaciones, a efecto de que las industrias que la utilizan como materia prima en sus procesos productivos no resulten afectadas;
 
-Que dicho Tratado establece en su artículo 3-04 que cada una de las Partes podrá acelerar la eliminación de aranceles aduaneros establecidos en el anexo al artículo de referencia, para bienes originarios;
+Que el artículo único del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, da a conocer el arancel-cupo, aplicable a las siguientes fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
 
-Que el Acuerdo entre la República de Costa Rica y los Estados Unidos Mexicanos relativo a la aceleración en la desgravación de aranceles aplicables a ciertos bienes originarios de ambas partes, establece se aplique la desgravación a ciertos productos a partir de julio de 1999;
+Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para la producción nacional, y
 
-Que el procedimiento a través del cual se asignan los cupos de importación establecidos en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, es un instrumento para favorecer las relaciones comerciales con los países con los que México ha suscrito negociaciones, y
+Que la medida a que se refiere el presente ordenamiento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR, LECHE ULTRAPASTEURIZADA EN ENVASES HERMETICOS Y POLVO PARA PREPARACION DE BEBIDAS, ORIGINARIOS DE LA REPUBLICA DE COSTA RICA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCAR EN 2006
 
 ###### ARTICULO PRIMERO.
 
-Los cupos para importar en el periodo 1 de enero al 31 de diciembre de cada año, de la República de Costa Rica dentro del arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, leche ultrapasteurizada en envases herméticos y polvo para preparación de bebidas, originarios de la República de Costa Rica, para efecto de lo dispuesto en el Acuerdo entre la República de Costa Rica y los Estados Unidos Mexicanos relativo a la aceleración en la desgravación de aranceles aplicables a ciertos bienes originarios de ambas Partes, y el artículo 3-04 del Tratado de Libre Comercio entre la República de Costa Rica y los Estados Unidos Mexicanos, es el que se determina en el cuadro siguiente:
+El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido en el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-Se aplica a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa, bajo la modalidad de “primero en tiempo, primero en derecho”.
+El procedimiento de asignación del cupo mínimo de importación referido en el presente instrumento será de asignación directa. Podrán solicitar asignación de dicho cupo las personas físicas y morales establecidas en los Estados Unidos Mexicanos que hayan efectuado importaciones de azúcar a través de una o varias de las fracciones arancelarias indicadas en el artículo anterior durante el año 2005. La cantidad de cupo a asignar a cada solicitante será la menor entre la cantidad solicitada y la que resulte de la aplicación de la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+(Las cantidades arriba descritas, deberán ser expresadas en toneladas métricas)
+
+Para la aplicación de la fórmula anterior se utilizarán las cifras que emite la Administración General de Aduanas del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de los cupos a que se refiere el presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cuenten con el documento expedido por el gobierno de la República de Costa Rica a nombre del proveedor costarricense. La asignación se hará a través de la Dirección General de Comercio Exterior, dentro de los siete días siguientes a que cuente con todos los elementos para el dictamen, conforme al monto señalado en el documento de referencia, siempre que haya saldo en el cupo.
+Las solicitudes de asignación del cupo a que se refiere el presente Acuerdo, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda.
+
+La asignación del cupo al que se refiere el presente instrumento se realizará a través de la Dirección General de Comercio Exterior de la Secretaría de Economía.
 
 ###### ARTICULO CUARTO.
 
-Las solicitudes deben presentarse en el formato “Solicitud de asignación de cupo” SE-03-011-1, en la ventanilla de atención al público de la Representación Federal correspondiente. Las hojas de requisitos específicos se establecen como anexo al presente Acuerdo.
+Una vez asignado el monto para importar dentro del cupo, la Secretaría de Economía expedirá los respectivos certificados de cupo a través de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”.
 
 ###### ARTICULO QUINTO.
 
-Una vez asignado el monto para importar dentro del arancel-cuota, la Secretaría expedirá, a través de la Representación Federal correspondiente, los certificados de cupo que correspondan, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, dentro de los siete días siguientes a la presentación de la solicitud de expedición.
+En caso de requerirse un cupo adicional que rebase el monto mínimo señalado en el cuadro del artículo primero del presente Acuerdo, éste se otorgará con el arancel-cupo establecido en el artículo único del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, y su asignación se realizará de conformidad con los procedimientos que al respecto se establezcan mediante Acuerdo publicado en el Diario Oficial de la Federación, considerando las necesidades de abasto de las industrias consumidoras de edulcorantes.
 
-El certificado de cupo es nominativo e intransferible, y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
-
-La vigencia de los certificados será al 30 de abril de cada año, para las asignaciones del primer cuatrimestre; al 31 de agosto de cada año, para las asignaciones del segundo cuatrimestre, y al 31 de diciembre para el tercer cuatrimestre de cada año.
+El monto del cupo adicional se determinará considerando las estimaciones de disponibilidad de inventarios de azúcar para satisfacer el consumo de azúcar del país y el comportamiento de precios de dicho edulcorante en las principales centrales de abasto.
 
 ###### ARTICULO SEXTO.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica www.cofemer.gob.mx
+Los formatos citados en el presente instrumento estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
+
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2005.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2006.
 
-México, D.F., a 20 de diciembre de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CUPO
-
-DE IMPORTACION DE
-
-LECHE ULTRAPASTEURIZADA EN ENVASES HERMETICOS Y BEBIDAS QUE CONTENGAN LECHE
-
-0401.10.01, 0401.20.01, 0401.30.01, 0404.90.99, Y 2202.90.04
-
-PROVENIENTE DE COSTA RICA
-
-“Primero en Tiempo, Primero en Derecho”
-
-(VEASE ARCHIVO ANEXO)
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
-
-POLVO PARA PREPARACION DE BEBIDAS
-
-2106.90.99
-
-PROVENIENTE DE COSTA RICA
-
-“Primero en tiempo, primero en derecho”
-
-(VEASE ARCHIVO ANEXO)
+México, D.F., a 4 de agosto de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
