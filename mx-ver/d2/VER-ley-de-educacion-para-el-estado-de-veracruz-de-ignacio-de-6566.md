@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2006-08-11"
+last_updated: "2006-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -39,7 +39,7 @@ AL MARGEN UN SELLO CON EL ESCUDO NACIONAL QUE DICE: "ESTADOS UNIDOS MEXICANOS.- 
 
 LEY NUMERO 58.
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
+(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003) (REFORMADA [N. D E. REPUBLICADA] SU DENOMINACION, G.O. 30 DE AGOSTO DE 2006)
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE:
 
@@ -59,9 +59,11 @@ La presente ley regula la educación que imparten el Estado, sus municipios, sus
 
 La aplicación de esta ley corresponde a las autoridades educativas del Estado y de los municipios, en los términos que establecen las leyes respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 4°.
 
-La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es un proceso permanente y dinámico que contribuye al desarrollo armónico e integral del individuo, a la transformación de la sociedad, y es factor determinante para acceder al conocimiento y formar al hombre de manera que adquiera un profundo sentido de solidaridad social.
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es un proceso permanente y dinámico que contribuye al desarrollo armónico e integral del individuo, a la transformación de la sociedad, y es factor determinante para acceder al conocimiento y formar al hombre de manera que adquiera un profundo sentido de solidaridad social y respeto para las personas sin distinción de género.
 
 El fin primordial del proceso educativo es la formación integral del educando; y para lograr su desarrollo armónico debe asegurarse que éste participe de manera activa, estimulando su iniciativa, su sentido de responsabilidad individual y social, y su espíritu creativo.
 
@@ -76,6 +78,10 @@ Todos los habitantes del Estado deben cursar la educación primaria y la secunda
 ###### ARTICULO 7°.
 
 Todos los habitantes de la entidad tienen derecho a las mismas oportunidades de ingreso al sistema educativo estatal, sin más limitaciones que satisfacer los requisitos que establezca la reglamentación respectiva.
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2006)</small>
+
+La educación es a la vez un derecho humano que asiste a todas las personas como un servicio público prioritario. El Estado tiene la responsabilidad de garantizar que todas las personas, sin discriminación alguna, tengan acceso a los sistemas de educación y puedan permanecer en ellos hasta haber completado la escolaridad mínima obligatoria en los términos del artículo 5 de esta Ley.
 
 ###### ARTICULO 8°.
 
@@ -118,6 +124,10 @@ XII. Fomentar el conocimiento y la cultura de la prevención del delito, de la p
 ###### ARTICULO 9°.
 
 El criterio que orientará a la educación que se imparta en el Sistema Educativo Estatal, responderá a un proyecto democrático, nacionalista y sustentable; contribuirá a la mejor convivencia humana y al aprovechamiento adecuado de los recursos naturales y, basados en los avances de la ciencia, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios; y promoverá y fortalecerá los principios de fraternidad e igualdad de derechos de todos los hombres.
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2006)</small>
+
+En el sistema educativo del Estado quedan prohibidos los castigos corporales como medida disciplinaria y todos aquellos que atenten de cualquier forma contra la dignidad del alumnado.
 
 ###### ARTICULO 10.
 
@@ -387,9 +397,13 @@ La educación preescolar constituye el primer nivel de la educación básica y a
 
 La educación primaria contribuirá al desarrollo integral y armónico del niño, promoviendo en él una actitud de aprendizaje permanente, y es requisito para acceder al siguiente nivel de estudio.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2006)</small>
+
 ###### ARTICULO 41.
 
-La educación primaria se impartirá por el Estado, municipios, y particulares con autorización expresa, a niños cuya edad se encuentre entre seis y catorce años.
+La educación primaria se impartirá por el Estado, municipios y particulares con autorización expresa, a niñas y niños cuya edad se encuentre entre seis y catorce años.
+
+Se considerará como niña o niño de seis años a todos aquellos que cumplan esa edad en el periodo comprendido entre el primero de enero y el treinta y uno de diciembre del año en que se inscriben.
 
 ###### ARTICULO 42.
 
@@ -970,3 +984,21 @@ G.O. 11 DE AGOSTO DE 2006.
 PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del gobierno del estado.
+
+G.O. 30 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 573.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 30 DE AGOSTO DE 2006.
+
+DECRETO NUMERO 574.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. Para los efectos legales los procedimientos y normas reglamentarias de observancia general vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan Ley de Educación para el Estado de Veracruz-Llave, se entenderán referidas a la Ley de Educación para el Estado de Veracruz de Ignacio de la Llave.
+
+Tercero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
