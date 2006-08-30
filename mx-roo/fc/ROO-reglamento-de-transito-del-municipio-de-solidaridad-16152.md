@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2004-04-26"
+last_updated: "2006-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -1605,6 +1605,10 @@ XI.- Usar el cinturón de seguridad y verificar que todos las personas que se en
 
 XII.- Respetar las señales restrictivas de tránsito.
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2006)</small>
+
+XIII.- Ceder el paso a los peatones en los lugares señalados o construidos sobre las vías de rodamiento para el cruce de los mismos.
+
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
 
 Al acercarse un vehículo de emergencia que lleve señales luminosas y audibles especiales o un vehículo de la policía los conductores de otros vehículos cederán el paso al de emergencia, pasando a ocupar una posición paralela y lo más cercana posible al extremo del carril derecho o a la acera, fuera de la intersección y si fuere necesario se detendrán manteniéndose inmóviles hasta que haya pasado el vehículo de emergencia. Tienen preferencia de paso por el orden en que se mencionan los vehículos destinados a los siguientes servicios: bomberos, policías y ambulancias.
@@ -1891,9 +1895,11 @@ De la boleta de infracción que se levante se entregará el original al conducto
 
 ### CAPÍTULO XVII. SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 185.
 
-Las infracciones contenidas en este Reglamento serán sancionadas sin perjuicio de las que correspondan por la comisión de delitos u otras responsabilidades en que incurran los infractores, de conformidad con lo siguiente:
+Las infracciones contenidas en este reglamento serán sancionadas sin perjuicio de las que correspondan por la comisión de delitos u otras responsabilidades en que incurran los infractores, de conformidad con lo siguiente:
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
 
@@ -1919,9 +1925,9 @@ V.- Causarán multa por la cantidad de dieciséis días de salario mínimo gener
 
 VI.- Causarán multa por la cantidad de veinte días de salario mínimo general vigente en la zona, las infracciones a los artículos: 14, 24, 89, 93, 129, 135, 168, 169, 171 fracciones II, IV, VI, IX y X;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2006)</small>
 
-VII.- Causarán multa por la cantidad de veinticinco días de salario mínimo general vigente en la zona las infracciones a los artículos: 65 fracciones I a VIII, 104, 125, 136, 139, 167 y 176, y
+VII.- Causarán multa por la cantidad VEINTICINCO DÍAS de salario mínimo general vigente en la zona las infracciones a los artículos 65, fracciones I a VIII, 104, 125, 136, 139, 150 fracción XIII, 167 y 176, y
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
 
@@ -2102,3 +2108,9 @@ Así lo mandan dictan y firman los Ciudadanos PRESIDENTE MUNICIPAL, LICENCIADO M
 P.O. 26 DE ABRIL DE 2004.
 
 UNICO.- ESTAS ADICIONES Y MODIFICACIONES AL REGLAMENTO ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 30 DE AGOSTO DE 2006.
+
+PRIMERO.- LAS PRESENTES ADICIONES Y REFORMAS ENTRARAN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+SEGUNDO.- PUBLÍQUESE EL PRESENTE ACUERDO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO PARA LOS EFECTOS LEGALES CORRESPONDIENTES.
