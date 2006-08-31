@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2005-12-28"
+last_updated: "2006-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -959,7 +959,7 @@ La Secretaría de Salud y Asistencia del Estado tendrá a su cargo el control sa
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS Y DEFUNCION
 
 ### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
@@ -1131,6 +1131,8 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para una mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE AGOSTO DE 2006)</small>
+
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
 ### CAPITULO III. DE LAS BEBIDAS ALCOHOLICAS
@@ -1270,6 +1272,10 @@ El organismo del Gobierno Estatal previsto en el artículo 135 de esta Ley, tend
 ###### ARTICULO 154.
 
 Los servicios de rehabilitación que proporcionen los establecimientos que dependan del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el artículo 135 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2006)</small>
+
+ARTICULO 154 BIS.- En caso de fallecimiento de personas en hospitales públicos o centros de asistencia social de la Secretaría de Salud del Estado, que sus familiares no tengan capacidad o posibilidades económicas para solventar los gastos que haya originado la estancia del fallecido, la Secretaría condonará los gastos correspondientes.
 
 ### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
 
@@ -2740,3 +2746,9 @@ DÉCIMOTERCERO. El Programa de Desarrollo Humano Oportunidades continuará opera
 DÉCIMOCUARTO. El Ejecutivo Estatal deberá emitir el Reglamento del Consejo Estatal de Protección Social en Salud a que se refiere el artículo 356, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMOQUINTO. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 31 DE AGOSTO DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este Decreto.
