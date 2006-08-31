@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2006-05-24"
+last_updated: "2006-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MAYO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2006.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -549,7 +549,7 @@ VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobie
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+VII Bis.- instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1587,7 +1587,7 @@ VII.- Calles, parques y jardines y su equipamiento;
 
 VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos del Reglamento correspondiente;
 
-IX.- El servicio público y privado de transporte de personas y de carga;
+IX.- (DEROGADA, D.O. 31 DE AGOSTO DE 2006)
 
 X.- El Catastro, y
 
@@ -2654,3 +2654,9 @@ Así mismo, las medallas y los diplomas respectivos, serán impuestos y otorgado
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 Tratándose de las disposiciones relativas al sufragio de los yucatecos residentes en el extranjero, se aplicarán hasta en tanto las condiciones logísticas y presupuestales lo permitan, en función de lo que acuerde y convenga el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán con el Instituto Federal Electoral; lo cual no podrá materializarse, antes de las elecciones a celebrarse en el año de 2012.
+
+D.O. 31 DE AGOSTO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
