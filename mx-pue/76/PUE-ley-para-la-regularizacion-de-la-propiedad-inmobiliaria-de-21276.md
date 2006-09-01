@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-regularizacion-de-la-propiedad-inmobiliaria-de-2127
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-12"
-last_updated: "2001-03-12"
+last_updated: "2006-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA REGULARIZACION DE LA PROPIEDAD INMOBILIARIA DE PREDIOS RUSTICOS EN EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de marzo de 2001.
 
@@ -65,9 +65,11 @@ Para los efectos de esta Ley se consideran predios rústicos aquéllos que se en
 
 Queda facultado el Instituto de Catastro del Estado, para efectos de interpretar la disposición contenida en este artículo y determinar en qué casos puede considerarse a un predio como rústico.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 3.
 
-Son objeto de la presente Ley los predios rústicos cuyo valor catastral actualizado no exceda de sesenta mil pesos y cuya superficie no sea superior a seis hectáreas.
+Son objeto de la presente Ley los predios rústicos cuyo valor catastral actualizado no exceda de seis mil setecientos días de salario mínimo general vigente en el Estado y que su superficie no sea superior a seis hectáreas.
 
 ###### ARTÍCULO 4.
 
@@ -126,3 +128,13 @@ Se suspenden todas aquellas disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los ocho días del mes de marzo de dos mil uno.- Diputado Presidente.- MOISÉS CARRASCO MALPICA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ FELIPE VELÁZQUEZ GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- IGNACIO SERGIO TÉLLEZ OROZCO.- Rúbrica.- Diputado Secretario.- JOSÉ ALEJANDRO NOCHEBUENA BELLO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de marzo del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- La Subsecretaria Jurídica y Encargada del Despacho de la Secretaría de Gobernación.- LICENCIADA BENITA VILLA HUERTA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los juicios y demás actos jurídicos pendientes que se hayan iniciado, se encuentren en trámite o substanciación a la fecha de entrada en vigor del presente Decreto serán concluidos y se sujetan a las formas y procedimientos de los ordenamientos que les dieron origen.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
