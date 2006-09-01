@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2006-03-11"
+last_updated: "2006-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -909,9 +909,11 @@ Violar un deber será causal cuando el resultado se podría evitar con la acció
 
 Las circunstancias que el sujeto conozca para prever o poder evitar el resultado, serán materia de la culpabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 27.
 
-PRINCIPIO DE NÚMERO CERRADO CON RELACIÓN A LAS FIGURAS TÍPICAS CULPOSAS. Sólo serán punibles como figuras típicas que admiten la culpa las de los artículos 244; 245; 291; 292; 329 con relación al artículo 334; 337 con relación a los artículos 338, 339, 340, 341 y 342; 357; 359; 366 sólo si el resultado se produce; 367; 434; 435 y 436. Además de las que éste código u otras leyes así lo determinen.
+PRINCIPIO DE NÚMERO CERRADO CON RELACIÓN A LAS FIGURAS TIPICAS CULPOSAS. Sólo serán punibles como figuras típicas que admiten la culpa las de los artículos 244; 245; 291; 292; 316 BIS; 329 con relación al artículo 334; 337 con relación a los artículos 338, 339, 340, 341 y 342; 357; 359; 366 sólo si el resultado se produce; 367; 434; 435 y 436. Además de las que este código u otras leyes así lo determinen.
 
 También se considerarán culposos los hechos típicos que se realicen bajo error vencible de tipo penal que admita la culpa. Igualmente, el del artículo 442.
 
@@ -1121,51 +1123,89 @@ Al servidor público, sea cual fuese su categoría, que otorgue cualquier identi
 
 #### SECCIÓN SEGUNDA. APLICACIÓN DE SANCIONES EN CONCURSO DE DELITOS
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 59.
 
-CONCURSO REAL DE DELITOS. Hay concurso real de delitos, siempre que al sujeto activo se le siga un proceso o más que sean acumulables, por delitos que se cometieron en acciones u omisiones distintas, sin estar prescrita la acción penal para perseguirlos.
+CONCURSO IDEAL DE DELITOS. Existe concurso ideal de delitos siempre que el sujeto activo, a través de la misma acción u omisión, infringe varias normas penales o una misma repetidas veces.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 60.
 
-CONCURSO POR DELITO CONTINUADO. Hay concurso por delito continuado, cuando con igual fin, pluralidad de conductas e identidad de ofendido, se viola el mismo precepto legal y se lesiona el mismo bien jurídico que no sea personalísimo.
+CONCURSO POR DELITO CONTINUADO CON AFECTACIÓN INDIVIDUAL. Se entiende que hay delito continuado cuando varias acciones u omisiones se cometen en las circunstancias siguientes:
 
-Se considera también como concurso por delito continuado, si con relación a fraude, abuso de confianza o administración fraudulenta: se realizan diferentes acciones homogéneas violatorias de la misma disposición legal, que sean lesivas de bienes jurídicos iguales y de distintas personas, que el activo unifica de hecho o de derecho.
+I. Con un mismo propósito o resolución criminal.
 
-Asimismo, en dichos delitos, cuando los bienes que pertenecen a varias personas se encuentran en conjunto y se lesionan de manera gradual con violación del mismo precepto legal.
+II. Con violación del mismo precepto legal, sea de la misma o distinta gravedad, lesivas de un bien jurídico de la misma especie.
+
+III. En el mismo lugar y fecha, o en diferente lugar y fechas distintas.
+
+IV. En perjuicio del mismo afectado.
+
+No hay relación de continuidad en caso de lesión de bienes jurídicos personalísimos, o que no toleren distintas intensidades de afectación del bien jurídico tutelado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 60 BIS. CONCURSO POR DELITO CONTINUADO CON AFECTACIÓN COLECTIVA. Se considerará también como concurso por delito continuado, si con relación a los delitos de fraude, fraude agravado por estafa, fraude equiparado o administración fraudulenta, concurren las circunstancias siguientes:
+
+I. Un mismo propósito o resolución criminal.
+
+II. La realización de varias acciones defraudatorias o de una sola, desarrolladas en varios actos vinculados por una misma conducta delictiva.
+
+III. Con homogeneidad de tipo legal y bien jurídico afectado.
+
+IV. En perjuicio de una pluralidad de personas o sujetos indeterminados.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 61.
 
-CONCURSO IDEAL DE DELITOS. Hay concurso ideal de delitos, cuando a través de una acción u omisión se integren diversos tipos penales delictivos.
+CONCURSO REAL DE DELITOS. Hay concurso real de delitos siempre que el sujeto activo, con dos o más acciones u omisiones independientes entre sí, comete una pluralidad de delitos autónomos, iguales o distintos, enjuiciables conjuntamente en un solo proceso penal, siempre y cuando la acción para perseguirlos no esté prescrita.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 62.
 
 REGLAS PARA APLICAR SANCIONES POR CONCURSO DE DELITOS. Para aplicar las sanciones por concurso de delitos, el juzgador atenderá a las reglas siguientes:
 
-I. DELITOS DE DIFERENTE TIPO PENAL SUBJETIVO. Es admisible el concurso entre delitos dolosos y culposos; salvo el concurso por delito continuado.
+l. CONCURSO IDEAL. En caso de concurso ideal, se aplicará la pena prevista para el delito cometido que merezca la mayor, cuyo máximo se aumentará en una mitad más.
 
-II. PENAS DE DIFERENTE CALIDAD. En cualquier clase de concurso de delitos, se aplicarán todas las penas de los delitos que se cometieron; si ellas son de diferente calidad.
+Si la acción u omisión fue dolosamente ejecutada para violar varias disposiciones penales o varias veces la misma disposición que tutelen la vida o integridad corporal de las personas, o si se realizó a sabiendas de que tal posibilidad ocurriera, se sancionará conforme a las reglas del concurso real.
 
-III. PENAS DE LA MISMA CALIDAD. Si las penas son de la misma calidad, se aplicará la mayor. La que después de imponerse, se podrá aumentar:
+II. CONCURSO CONTINUADO INDIVIDUAL. En caso de concurso por delito continuado con afectación individual, se aplicará la pena prevista para el delito cometido que merezca la mayor, cuyo máximo se aumentará en dos terceras partes más.
 
-1) CONCURSO REAL. Hasta dos tantos más, tratándose de concurso real de delitos.
+En caso de violación o su equiparable que se cometan en forma continuada, se aumentará la pena en un tanto más de la establecida como máximo para el delito cometido.
 
-2) CONCURSO CONTINUADO. Hasta un tanto más, tratándose de concurso por delito continuado.
+III. CONCURSO CONTINUADO COLECTIVO. En caso de concurso por delito continuado con afectación colectiva, se aplicará la pena prevista para el delito cometido que merezca la mayor, o la que corresponda por el importe total de lo defraudado si éste pudo ser determinado, cuyos máximos se aumentarán en un tanto más.
 
-3) CONCURSO IDEAL. Hasta una mitad más, tratándose de concurso ideal de delitos.
+IV. CONCURSO REAL. Cuando el sujeto activo haya realizado varias acciones u omisiones punibles, sancionadas con una pena de la misma especie, se le aplicará una única pena, que tendrá como mínimo, el mínimo mayor, y como máximo, la suma que resulte de la acumulación de los máximos de las penas correspondientes a los hechos realizados.
 
-IV. CONCURSO COMPLEJO DE DELITOS. Si sólo algunos de los delitos por los que se condena integran el continuado o se cometieron en concurso ideal, se observarán las reglas de los incisos 1) o 2) de la fracción anterior, según corresponda.
+V. CRITERIOS PARA DETERMINAR CUAL ES LA PENA MAYOR O MÁS GRAVE. En los casos de concurso de delitos en los que sea necesario determinar cual es la pena mayor o más grave, se atenderá a los siguientes criterios:
 
-V. LÍMITES AL AUMENTO PENAL. En ningún caso, el aumento podrá exceder de la o las penas que corresponderían por el o los restantes delitos en concurso. Ni la de prisión de cincuenta años. Salvo las excepciones del artículo 67, en las que el límite máximo será de sesenta años.
+1) Si las penas son de la misma naturaleza, pena mayor será la de máximo superior; si los máximos son iguales, la que presente el mínimo mayor; si tanto las máximas como las mínimas son iguales, pena mayor será la de aquella disposición que prevea una pena accesoria.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
+2) Si las penas son de distinta naturaleza, pena mayor será la más grave según el orden establecido por el artículo 56.
 
-VI. CONCURSO IDEAL DE DELITOS CULPOSOS Y LIMITE PUNIBLE DE LA PENA DE PRISIÓN POR CONDUCTA CULPOSA CON VARIOS RESULTADOS. No es admisible el concurso ideal de delitos culposos; pero cuando la misma conducta culposa origine varios resultados, se aplicará la regla del concurso ideal; además, se atenderá a la fracción anterior y el límite máximo de la pena de prisión será hasta ocho años. Con excepción de los casos del artículo 30, en los que el límite será de hasta diez años de prisión.
+VI. PENAS DE CALIDAD DISTINTA A LA DE PRISIÓN. En cualquier clase de concurso, si con la pena de prisión concurren otras de diferente calidad, también se aplicarán estas, observándose, en su caso, para efectos de su individualización, las mismas reglas de cálculo previstas para aquella.
 
-VII. PREVISIONES PARA CUANDO SE OMITA ACUMULAR PROCESOS. En el caso de que se instruyan dos o más procesos por delitos distintos sin que se acumulen, en cualquier tiempo el sentenciado podrá promover incidente de aclaración especial de sentencia ante el último juzgador que resolvió. Para que, en aclaración de la última sentencia que se dictó y con vista en los procesos, se readecúen las sanciones que se le impusieron. Las que se deberán aplicar conforme a lo que dispone esta sección.
+Las penas accesorias y medidas de seguridad, deberán ser aplicadas aunque solo estén previstas para alguno de los delitos.
 
-Si alguno de los procesos se encuentra sin concluir, en la sentencia se tomarán en cuenta las penas que se impusieron en el proceso o procesos anteriores; de acuerdo con lo que prevé el párrafo que antecede.
+VII. DELITOS DE DIFERENTE TIPO PENAL SUBJETIVO. Tratándose de los concursos ideal y real, es admisible la concurrencia de delitos dolosos y culposos.
 
-Lo que se dispone en esta fracción también se observará, tratándose de conductas típicas que debieron integrar concurso por delito continuado; cuando sean o fueron motivo de procesos sin acumular.
+VIII. CONCURSO IDEAL DE DELITOS CULPOSOS Y LIMITE PUNIBLE DE LA PENA DE PRISIÓN POR CONDUCTA CULPOSA CON VARIOS RESULTADOS. En el caso de delitos culposos, cuando la misma conducta origine varios resultados, se aplicará la regla del concurso ideal, sin que la pena pueda exceder de ocho años, excepción hecha de los casos del artículo 30 en los que el límite será de doce años de prisión.
+
+IX. CONCURSO COMPLEJO DE DELITOS. Si sólo algunos de los delitos por los que se condena integran el concurso ideal o delitos continuados con afectación individual o colectiva, se observarán las reglas de las fracciones I, II y III, según corresponda.
+
+X. CASO EN EL QUE LAS REGLAS DE CONCURSO NO TIENEN APLICACIÓN. Las reglas de concurso no tendrán aplicación, si al sentenciado le resulta más favorable la imposición de todas las penas correspondientes a los delitos concurrentes, conforme a la determinación que el juez haga de las mismas.
+
+XI. DEBERES DEL JUEZ AL DICTAR SENTENCIA EN LOS CASOS DE CONCURSO. En los casos de concurso, el juez precisará, según sea el caso, la pena total que corresponda conforme a la ley, señalando el mínimo y máximo de acuerdo con las reglas previstas.
+
+XII. LIMITES AL AUMENTO DE LA PENA DE PRISIÓN. La pena de prisión en los casos de concurso, no excederá de sesenta años, salvo los casos de excepción previstos en la fracción I del artículo 67.
+
+XIII. PREVISIONES PARA CUANDO SE OMITE ACUMULAR PROCESOS. Las reglas precedentes se aplicarán también en el caso en que después de una condena pronunciada por sentencia firme, se deba juzgar por hecho distinto a la misma persona que está compurgando la pena; o cuando se hubieren dictado dos o más sentencias firmes con violación de dichas reglas. En estos casos, corresponderá al juez que haya aplicado la pena mayor, dictar, a pedido de parte, la sentencia que unifique las diversas condenas sin alterar las declaraciones de hechos contenidas en las diversas sentencias que originaron la unificación.
+
+Si alguno de los procesos se encuentra sin concluir, en la sentencia que el juez deba pronunciar, tomará en cuenta las penas que se impusieron en el proceso o procesos anteriores para el solo efecto de unificarlas de acuerdo con las reglas precedentes.
 
 ###### ARTÍCULO 211.
 
@@ -1231,15 +1271,17 @@ VI. ABUSO CONTRA LA SEGURIDAD PERSONAL. Estando encargado de la custodia o condu
 
 #### SECCIÓN PRIMERA. BASES GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 67.
 
-CONCEPTO, DURACIÓN Y MOBILIDADES. La pena de prisión consiste en la privación de la libertad personal y se cumplirá en los Centros destinados para el efecto por el Ejecutivo del Estado, ajustándose a lo dispuesto en la resolución judicial que la decrete y de manera que se procure la readaptación del sentenciado.
+CONCEPTO, LÍMITES Y MODALIDADES DE LA PENA DE PRISIÓN. La pena de prisión consiste en la privación de la libertad corporal del sentenciado y se sujetará a las reglas siguientes:
 
-El mínimo de la pena privativa de libertad nunca será menor de tres días. El máximo no será mayor de sesenta años, excepto que se trate de los delitos de rebelión, terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, secuestro, secuestro equiparado, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, independientemente de que la pena de prisión que resulte exceda de la máxima señalada.
+I. Nunca será menor de tres días ni mayor de sesenta años, excepto cuando se trate de los delitos de terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, secuestro, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo especialmente agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, aún y cuando con ello se exceda el máximo señalado.
 
-En toda sentencia que imponga una pena de prisión, se computará el tiempo de la detención y de la previsión preventiva.
+II. Su cumplimiento, así como los beneficios que supongan la reducción de la condena, se ajustarán a lo dispuesto en el presente Código y en las leyes.
+
+III. La detención, retención y prisión preventiva no se reputarán como penas. Sin embargo, en caso de condena, el tiempo cumplido bajo tales circunstancias se computará como parte de la pena impuesta.
 
 ###### ARTÍCULO 213.
 
@@ -1905,7 +1947,57 @@ REDUCCIÓN DE SANCIONES POR LA REAPREHENSIÓN DE PRÓFUGO DEBIDO A GESTIONES DEL
 
 EXCUSA ABSOLUTORIA Y SANCIONES CONDICIONADA AL EVADIDO. Al evadido no se le aplicará sanción alguna, a menos que ejerza violencia en las personas o dañe cosas; o soborne a servidor público; en cuyo caso la pena aplicable será de seis meses a tres años de prisión y multa; y sin perjuicio de la que corresponda por la violencia, daño o soborno.
 
-### CAPÍTULO PRIMERO. ATAQUES EN VÍAS DE COMUNICACIÓN
+### CAPÍTULO TERCERO. DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 281 BIS. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS COMETIDOS EN PERJUICIO DE PARTICULARES. Se aplicará prisión de tres meses a tres años y multa a quien:
+
+l. Sin autorización para acceder a un sistema informático y con perjuicio de otro, conozca, copie, imprima, use, revele, transmita, o se apodere de datos o información reservados, contenidos en el mismo.
+
+II. Con autorización para acceder a un sistema informático y con perjuicio de otro, obtenga, sustraiga, divulgue o se apropie de datos o información reservados en él contenidos.
+
+Si la conducta que en uno u otro caso se realiza es con el ánimo de alterar, dañar, borrar, destruir o de cualquier otra manera provocar la pérdida de datos o información contenidos en el sistema, la sanción será de cuatro meses a cuatro años de prisión y multa.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 281 BIS 1. CIRCUNSTANCIAS AGRAVANTES DE LOS DELITOS ANTERIORES.
+
+Las penas previstas en el artículo anterior, se incrementarán en una mitad más:
+
+I. Si el agente actuó con fines de lucro.
+
+II. Si el agente accedió al sistema informático valiéndose de información privilegiada que le fue confiada en razón de su empleo o cargo, o como responsable de su custodia, seguridad o mantenimiento.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 281 BIS 2. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS COMETIDOS EN PERJUICIO DE UNA ENTIDAD PÚBLICA. Se aplicará prisión de seis meses a seis años y multa a quien:
+
+I. Sin autorización, acceda, por cualquier medio a un sistema informático, de una entidad pública de las mencionadas en el párrafo segundo del artículo 194, para conocer, copiar, imprimir, usar, revelar, transmitir o apropiarse de sus datos o información propios o relacionados con la institución.
+
+II. Con autorización para acceder al sistema informático de una entidad pública de las mencionadas en el párrafo segundo del artículo 194, indebidamente copie, transmita, imprima, obtenga, sustraiga, utilice divulgue o se apropie de datos o información propios o relacionados con la institución.
+
+Si la conducta que en uno u otro caso se realiza, tiene la intención dolosa de alterar, dañar, borrar, destruir, o de cualquier otra forma provocar la pérdida de los datos o información contenidos en el sistema informático de la entidad pública, la sanción será de uno a ocho años de prisión y multa.
+
+Si el sujeto activo del delito es servidor público, se le sancionará, además, con la destitución del empleo, cargo o comisión e inhabilitación para ejercer otro hasta por seis años.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 281 BIS 3. CIRCUNSTANCIAS AGRAVANTES EN LOS DELITOS ANTERIORES. Las penas previstas en el artículo anterior se incrementarán en una mitad más:
+
+I. Si el agente obró valiéndose de alguna de las circunstancias agravantes previstas en el artículo 290 BIS 1.
+
+II. Si el hecho constitutivo de delito fue cometido contra un dato o sistemas informáticos concernientes al régimen financiero de las entidades públicas que se mencionan en el artículo 194, o por funcionarios o empleados que estén a su servicio.
+
+III. Si la conducta afectó un sistema o dato referente a la salud o seguridad pública o a la prestación de cualquier otro servicio público.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 281 BIS 4. NORMA COMPLEMENTARIA EN ORDEN A LA TERMINOLOGIA PROPIA DE LOS DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS INFORMATICOS. A los fines del presente capítulo, se entiende por:
+
+I. Sistema informático: todo dispositivo o grupo de elementos relacionados que, conforme o no a un programa, realiza el tratamiento automatizado de datos para generar, enviar, recibir, recuperar, procesar o almacenar información de cualquier forma o por cualquier medio.
+
+II. Dato informático o información: toda representación de hechos, manifestaciones o conceptos, contenidos en un formato que puede ser tratado por un sistema informático.
 
 ###### ARTÍCULO 249.
 
@@ -1931,7 +2023,7 @@ III. QUEBRANTAMIENTO DE LA SUSPENSIÓN, PRIVACIÓN O INHABILITACIÓN. A quien qu
 
 REGLA PARA LA REITERACIÓN EN EL QUEBRANTAMIENTO. En caso de reiteración en el quebrantamiento de sanciones, se aplicará prisión de seis meses a tres años y multa.
 
-### CAPÍTULO SEGUNDO. CONDUCCIÓN PUNIBLE DE VEHÍCULOS
+### CAPÍTULO PRIMERO. ATAQUES EN VÍAS DE COMUNICACIÓN
 
 ###### ARTÍCULO 253.
 
@@ -1977,7 +2069,7 @@ LÍMITES A LA EXCUSA ABSOLUTORIA PARA EL ENCUBRIMIENTO U OBSTRUCCIÓN A LA JUSTI
 
 Tampoco favorecerá la excusa cuando el sujeto activo sea servidor público; y en cualquier caso, cuando la obstrucción a la justicia consista en la destrucción o alteración de evidencia para obstruir la averiguación o la justicia; o se presente formalmente una que sea falsa; o se conduzca con falsedad, previa protesta de conducirse con verdad.
 
-### CAPÍTULO TERCERO. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO SEGUNDO. CONDUCCIÓN PUNIBLE DE VEHÍCULOS
 
 ###### ARTÍCULO 259.
 
@@ -1991,7 +2083,7 @@ DELITOS CONTRA LA SOCIEDAD
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO PRIMERO. CONTRA LA ECOLOGÍA
+### CAPÍTULO TERCERO. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### ARTÍCULO 260.
 
@@ -2017,7 +2109,9 @@ OBLIGACIONES DE LAS AUTORIDADES CON RELACIÓN A LOS DELITOS ELECTORALES. Las aut
 
 Todos los ilícitos que prevé este título se perseguirán de oficio.
 
-### CAPÍTULO SEGUNDO. INCENDIO Y OTROS ESTRAGOS
+### CAPÍTULO PRIMERO. DELITOS CONTRA EL MEDIO AMBIENTE
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCIÓN PRIMERA. NATURALEZA JURÍDICA DE LA REPARACIÓN DEL DAÑO
 
@@ -2263,7 +2357,37 @@ El partido político que lo hubiere postulado, se le sancionará con la afectaci
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA SEGURIDAD EN MEDIOS DE TRANSPORTE, VÍAS DE COMUNICACIÓN Y CORRESPONDENCIA
 
-### CAPÍTULO PRIMERO. FALSIFICACIÓN DE SELLOS, LLAVES Y MARCAS
+### CAPÍTULO SEGUNDO. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 1. SANCIONES DE LOS DELITOS CONTRA LA GESTIÓN AMBIENTAL COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de tres meses a cinco años y multa a quien:
+
+I. Atente contra las políticas y medidas ambientales orientadas a mantener la diversidad genética y la calidad de vida.
+
+II. No obstante el deber de obtener previamente la constancia o autorización de impacto ambiental, realice obras o actividades sin contar con ella, o no cumpla con las medidas preventivas, condicionantes o correctivas y las demás acciones que le sean requeridas por las autoridades ambientales del Estado o del municipio para llevar a cabo alguna actividad que pudiera afectar el medio ambiente o los recursos naturales de la entidad.
+
+III. Con el propósito de obtener un permiso, licencia o autorización de cualquier autoridad ambiental del Estado o del municipio, presente información falsa, o uno o más documentos falsificados o adulterados.
+
+IV. Con el carácter de perito, laboratorista o prestador de servicios ambientales, proporcione documentos o información falsa u omita datos con el objeto de que las autoridades ambientales del Estado o Municipio, otorguen o avalen cualquier tipo de permiso, autorización o licencia, o valoren el cumplimiento de un deber ambiental.
+
+V. En calidad de propietario, responsable o técnico de centros de verificación de vehículos automotores, manipule o altere los equipos con el fin de aprobar la verificación vehicular; o al usuario de esos servicios que ilícitamente ofrezca, prometa o entregue dinero o cualquier otra dádiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 2. DELITOS CONTRA LA GESTIÓN AMBIENTAL COMETIDOS POR AUTORIDADES. Se aplicará prisión de seis meses a seis años y multa, además de la destitución del cargo e inhabilitación para desempeñar cualquier otro hasta por diez años, al servidor público que:
+
+I. Indebidamente conceda licencias, permisos o autorizaciones para el funcionamiento de industrias o cualquier otra actividad reglamentada, en condiciones que generen contaminación y afecten al medio ambiente, a los recursos naturales o a la salud humana.
+
+II. Con motivo de auditorias o inspecciones oficiales, hubiere silenciado irregularidades o transgresiones a los ordenamientos legales en materia de medio ambiente vigentes en el Estado.
+
+III. Asiente datos falsos en los registros, bitácoras o cualquier otro documento oficial, con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental del Estado o de los municipios, o destruya, altere u oculte información, registros, reportes o cualquier otro documento que sea indispensable mantener o archivar de conformidad con la propia normatividad ambiental.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TÍPICAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCIÓN CUARTA. CRITERIOS PARA FIJAR LA REPARACIÓN DEL DAÑO
 
@@ -2383,11 +2507,11 @@ INICIATIVA PARA DECLARAR LA PRESCRIPCIÓN Y AUTORIDAD COMPETENTE PARA DECIDIR. L
 
 La prescripción de la sanción penal se declarará por el juzgador. Si la autoridad ejecutora, una vez que tenga a su disposición al sentenciado, advierte que la sanción prescribió, hará saber esta circunstancia al juzgador, quien decidirá de plano.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 164.
 
-DELITOS EN LOS QUE LA ACCIÓN Y LAS SANCIONES PENALES SON IMPRECRIPTIBLES (SIC). La acción penal que surja o las sanciones penales que se impongan con motivo de los delitos de homicidio simple doloso o que se cometa con cualquier modalidad agravante o calificativa; así como el secuestro y la violación de menores de doce años e incapaces, será imprescriptible.
+DELITOS EN LOS QUE EL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN Y LAS SANCIONES PENALES SE DUPLICA. Los plazos para la prescripción de la acción y las sanciones penales se duplicarán respecto a los delitos de terrorismo, homicidio calificado, secuestro en todas sus modalidades y violación equiparada.
 
 ###### ARTÍCULO 274.
 
@@ -2487,7 +2611,49 @@ Será inoperante esta causa de prescripción en delitos contra la vida, la salud
 
 Las reglas de prescripción de este artículo se aplicarán con independencia de las reglas prescriptivas de la acción penal, según la sanción atribuible.
 
-### CAPÍTULO SEGUNDO. FALSIFICACIÓN DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+### CAPÍTULO TERCERO. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN ESTE TÍTULO
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 4. DEBERES PARTICULARES DE LAS AUTORIDADES AMBIENTALES. En los casos en que como resultado del ejercicio de sus atribuciones, las dependencias del Estado o de un Municipio encargadas de la atención del medio ambiente y de los recursos naturales, tengan conocimiento de actos u omisiones que puedan constituir delitos ambientales conforme a lo establecido en este Título, deberán formular ante el Ministerio Público las denuncias correspondientes, sin perjuicio de las que puedan presentarse por cualquier persona interesada.
+
+Las dependencias de la administración pública estatal o municipal competentes, deberán proporcionar los dictámenes técnicos o periciales, así como cualquier otra información, que les sean solicitados por el Ministerio Público o por la autoridad judicial, con motivo de las denuncias presentadas por la comisión de estos delitos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 5. MEDIDA CAUTELAR. El Juez Penal ordenará, como medida cautelar, a petición del Ministerio Público, con carácter temporal en tanto se dicta sentencia firme, la suspensión inmediata de la actividad o fuente contaminante; así como el aseguramiento de los materiales, aparatos, maquinaria u objetos que estén causando daño o puedan poner en peligro al medio ambiente, sin perjuicio de lo que puedan disponer las autoridades administrativas competentes.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 6. REDUCCIÓN DE LAS PENAS CORRESPONDIENTES POR LOS DELITOS PREVISTOS EN ESTE TITULO. El Juez, de oficio o a petición de parte, podrá reducir las penas correspondientes para los delitos previstos en este Título, hasta en tres cuartas partes, cuando el agente, en forma voluntaria y sin que medie resolución administrativa que le imponga la obligación, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta, y cuando ello no sea posible, mediante la ejecución de acciones u obras que compensen los daños ambientales que se hubieren generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 7. CARACTERÍSTICAS PARTICULARES DE LA PENA DE REPARACIÓN DEL DAÑO. Para los efectos de este Título, la reparación del daño incluirá, además:
+
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales de los ecosistemas afectados al estado en que se encontraban antes de realizarse el delito, o cuando ello no sea posible, la ejecución de las acciones u obras que permitan compensar los daños ambientales que se hubiesen generado, y si ninguna de estas alternativas fuera viable, el pago de una indemnización en concepto de daños y perjuicios, que se integrará a los recursos del fondo a que se refiere el artículo 186 de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado.
+
+A fin de determinar el monto de la indemnización a que se refiere esta fracción, el Juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente, la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta delictiva.
+
+II. La suspensión definitiva, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito respectivo.
+
+III. El retorno de los materiales o residuos a su lugar de origen, o al lugar en que se les dé el debido tratamiento para hacerlos inocuos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 8. PRELACIÓN DE LA REPARACIÓN DEL DAÑO EN EL CASO DE CONCURSO DE DELITOS. En el caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental, con excepción de la reparación de los daños a la salud e integridad de las personas.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 9. CONSECUENCIAS ESPECIALES EN LOS CASOS DE PARTICIPACIÓN DE PERSONAS MORALES EN LA COMISIÓN DE ESTOS DELITOS. Cuando uno o más delitos previstos en este Título sean cometidos a nombre, bajo el amparo o beneficio de una persona moral, además de las penas que le resulten en los términos del artículo 55, el Juez podrá inhabilitarla hasta. por el lapso de diez años para la obtención de contratos, convenios, concesiones, permisos, licencias y en general cualquier clase de autorización por parte de la administración pública estatal o municipal, que tengan por objeto actividades industriales, comerciales o de servicio relacionadas con el aprovechamiento de recursos naturales no reservados a la federación; o ecosistemas, zonas o bienes de competencia local, ello sólo si se condena a la persona física que hubiere actuado en su nombre o por su cuenta.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS 10. NORMA COMPLEMENTARIA EN ORDEN A LA TERMINOLOGÍA PROPIA DE LOS DELITOS CONTRA EL MEDIO AMBIENTE. Para los efectos del presente Título, se estará a la terminología establecida en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado, así como a la prevista en los demás ordenamientos legales aplicables.
+
+(REFUBICADO [N. DE E. ANTES CAPITULO SEGUNDO], P.O. 1 DE SEPTIEMBRE DE 2006)
 
 #### SECCIÓN TERCERA. PRESCRIPCIÓN DE LAS SANCIONES PENALES
 
@@ -2514,6 +2680,10 @@ SUPUESTOS QUE INTERRUMPEN LA PRESCRIPCIÓN DE LAS SANCIONES PECUNIARIAS Y DEMÁS
 ###### ARTÍCULO 275.
 
 SANCIONES Y FIGURA TÍPICA DE PANDILLERISMO. Se aplicará prisión de dos a seis años y multa: A quienes, sin estar organizados con fines delictuosos, se reúnan en número de tres o más personas y a propósito irrumpan en fiestas o celebraciones privadas, familiares o públicas y en ellas causen desorden; o por acuerdo previo causen en forma violenta disturbio en espectáculos u otros eventos de la comunidad.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Las mismas penas se aplicarán a los integrantes de una pandilla que por medio de la violencia física o moral atemoricen, intimiden, hostiguen o amedrenten a alguna persona o personas, que transiten en vías públicas, o habiten en barrios o colonias.
 
 Si aparece que se comete algún otro delito, se estará a las reglas del concurso que sean aplicables.
 
@@ -2591,13 +2761,15 @@ IV. PERMISIÓN DE CONSUMIR BEBIDAS ALCOHÓLICAS SIN AUTORIZACIÓN EN BAILE O FES
 
 La clausura del establecimiento o la cancelación del permiso, licencia o patente, sólo procederá si la autoridad competente no lo hizo antes o revocó la clausura o la cancelación.
 
-### CAPÍTULO PRIMERO. ULTRAJES A LA MORAL PÚBLICA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-## TÍTULO CUARTO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
+### CAPÍTULO CUARTO. INCENDIO Y OTROS ESTRAGOS
 
-### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
+## TÍTULO CUARTO. DELITOS AMBIENTALES Y DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO PRIMERO. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y PLACAS
 
 ###### ARTÍCULO 282.
 
@@ -2615,7 +2787,7 @@ Si el propietario resulta ser persona moral, incurrirá en este delito quienes t
 
 Este delito sólo se perseguirá por querella de los ocupantes y terceros que resulten con cualquiera de los daños a que se refiere el primer párrafo de esta fracción. Si el ofendido fallece o se encuentra imposibilitado para formular querella, la podrán formular las personas a que se refiere el segundo párrafo del artículo 31.
 
-### CAPÍTULO TERCERO. LENOCINIO Y TRATA DE PERSONAS
+### CAPÍTULO SEGUNDO. FALSIFICACIÓN DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
 
 ###### ARTÍCULO 283.
 
@@ -2653,7 +2825,7 @@ SANCIÓN AGRAVADA TRATÁNDOSE DE CONDUCTORES DE VEHÍCULOS DE SERVICIO PÚBLICO.
 
 SANCIÓN GENERICA RESPECTO A LOS DELITOS ANTERIORES. En los delitos que prevé este capítulo, se impondrá, además, suspensión de derechos para conducir vehículos hasta por tres años.
 
-### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
+### CAPÍTULO PRIMERO. ULTRAJES A LA MORAL PÚBLICA
 
 ###### ARTÍCULO 289.
 
@@ -2667,21 +2839,67 @@ II. INTERCEPTACIÓN. A quien indebidamente intercepte y guarde una comunicación
 
 EXCLUSIÓN DE SANCIONES. No se considera que obran delictuosamente los padres, tutores, cónyuges, concubina, o concubinario: Que abran o intercepten las comunicaciones escritas dirigidas a sus hijos bajo su patria potestad, o a las personas que se hallan bajo su guarda, o al otro cónyuge, concubina o concubinario.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ## TÍTULO QUINTO. DELITOS CONTRA LA FE PÚBLICA
 
-### CAPÍTULO PRIMERO. VIOLENCIA INTRAFAMILIAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 291.
 
-SANCIONES Y FIGURA TÍPICA DEL DELITO CONTRA LA ECOLOGÍA. Se aplicará prisión de uno a cuatro años y multa: A quien con peligro de la salud pública, por cualquier medio contamine en forma grave, degrade, esterilice o envenene tierras y aguas de jurisdicción local; produzca daño grave al medio ambiente; o difunda una enfermedad en las plantas o en los animales.
+SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA EL MEDIO AMBIENTE. Se impondrá pena de seis meses a siete años de prisión y multa, al que realice cualquiera de las conductas siguientes:
 
-### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
+Sin autorización de la autoridad correspondiente o en contravención a los términos en que haya sido concedida, realice en áreas de jurisdicción estatal o municipal, cualquier actividad con materiales o residuos no reservados a la Federación, que por su clase, calidad o cantidad, ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas.
 
-### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
+I. Con violación a lo establecido en las disposiciones legales aplicables, emita, despida o descargue en la atmósfera, lo autorice u ordene, gases, humos, polvos o contaminantes que ocasionen daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas o móviles de jurisdicción estatal o municipal.
 
-### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
+II. Al que no obstante haber sido sancionado administrativamente por la autoridad competente en dos o más ocasiones, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+III. En contravención a las disposiciones legales aplicables, genere emisiones de olores, ruidos, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción estatal o municipal, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
+
+IV. Sin la autorización que, en su caso, se requiera o en contravención a las disposiciones legales aplicables descargue, deposite o infiltre, lo autorice u ordene, aguas residual es sin su previo tratamiento, líquidos químicos o bioquímicos, desechos o contaminantes, en los suelos, depósitos o corrientes de agua de jurisdicción estatal o federal concesionadas al Estado o a los municipios, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, a los cauces y vasos, a la calidad del agua o a los ecosistemas.
+
+Cuando se trate de aguas aprovechables por el Estado, que deban ser entregadas en bloque a centros de población, la pena se elevará hasta en una mitad de la señalada para este delito.
+
+V. Sin observar los ordenamientos legales aplicables, realice actividades de separación, utilización, acopio, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de manejo especial, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos que resulten sobrantes de actividades domésticas, industriales, agrícolas o comerciales, que causen o puedan causar daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
+
+VI. Sin justificación legal alguna, provoque la contaminación, degradación, esterilización o envenenamiento de las tierras yaguas de jurisdicción estatal o municipal, en sus respectivas competencias.
+
+VII. Sin contar con el permiso de la autoridad competente, dolosamente derribe, tale u ocasione la muerte de uno o más árboles que se encuentren en banquetas, parques, jardines, plazas o áreas verdes de uso común, propiedad del Estado o de los Municipios.
+
+VIII. Realice actividades cinegéticas, de explotación o aprovechamiento de especies de flora y fauna silvestre, terrestres o acuáticas, en veda, consideradas endémicas, amenazadas o en peligro de extinción, sujetas a protección especial, dentro de un área natural protegida o no, sea cual fuere la denominación que se le otorgue, siempre que no sea de jurisdicción federal.
+
+IX. Provoque incendios en bosques, parques o áreas verdes ubicados en las zonas urbanas, o en la vegetación silvestre o agrícola ocasionando daños a los recursos naturales, a la flora, a la fauna o a los ecosistemas que no sean de jurisdicción federal.
+
+X. Sin la autorización de la autoridad competente o en contravención de las disposiciones legales aplicables, realice quemas para utilizar terrenos con fines agropecuarios, o contando con ella no tome las medidas necesarias para evitar su propagación a terrenos aledaños ocasionándoles daños.
+
+XI. Realice actividades de exploración, extracción y procesamiento de material pétreo, o de minerales y sustancias geológicas que constituyan depósitos naturales cuyo control no esté reservado a la Federación, en áreas de jurisdicción estatal o municipal, sin contar con la autorización de las autoridades correspondientes, siempre y cuando se afecten o modifiquen las condiciones naturales del entorno o se ponga en riesgo la salud de la población, o cuando contando con dicha autorización, se exceda o contraríe sus términos.
+
+XII. Abandone el sitio en el que realizó las actividades a que se refiere la fracción anterior, sin llevar a cabo las medidas de remediación y de mitigación impuestas por la dependencia estatal encargada de la atención del medio ambiente y los recursos naturales, para recuperar el ambiente y volverlo, en la medida de lo posible, al estado en que antes se encontraba.
+
+XIII. Deposite escombros o residuos provenientes de la industria de la construcción en un área natural protegida o de valor ambiental de la competencia del Estado o de un Municipio, en una barranca, en una zona de recarga de mantos acuíferos o en una área verde en suelo urbano.
+
+XIV. Que sea sancionado administrativamente en dos o más ocasiones por la autoridad ecológica competente y no obstante ello, persista en la misma conducta dañosa al ambiente.
+
+En el caso de que las conductas a que se refieren las fracciones anteriores, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, las penas previstas en este artículo se incrementarán en una mitad más.
+
+Para proceder penalmente por cualquiera de las conductas previstas en este artículo, las autoridades ambientales del Estado o de los Municipios o a quienes éstas designen, deberán formular pedimento y justificar su actualización, en atención al daño grave o puesta en peligro de la salud pública, recursos naturales, fauna, flora o ecosistemas, que tales conductas generen u ocasionen.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA ORDENACIÓN DEL ECOSISTEMA TERRESTRE COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de dos a ocho años y multa, al que ocupe, invada o realice actividades no autorizadas por las disposiciones legales aplicables, en un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barranca o área verde en suelo urbano, que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, en su caso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO TERCERO. LENOCINIO Y TRATA DE PERSONAS
+
+### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
+
+### CAPÍTULO PRIMERO. VIOLENCIA INTRAFAMILIAR
 
 ###### ARTÍCULO 292.
 
@@ -2691,13 +2909,15 @@ SANCIONES Y FIGURA TÍPICA DE INCENDIO Y OTROS ESTRAGOS. Se aplicará prisión d
 
 SANCIONES Y FIGURA TÍPICA AGRAVADA DE INCENDIO Y OTROS ESTRAGOS. Se aplicará de tres a quince años de prisión y multa, sin perjuicio de las penas que les corresponda por los delitos que resulten: A quien por medio de explosivos de cualquier clase, sustancias tóxicas o armas de fuego; o por medio de incendio, inundación, o cualquier otro de extrema violencia; ejecute actos que produzcan alarma, temor o terror en la población; o en un sector de ella.
 
-### CAPÍTULO QUINTO. BIGAMIA Y MATRIMONIOS ILEGALES
+### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-### CAPÍTULO SEXTO. INCESTO
+### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ## TÍTULO SEXTO. DELITOS CONTRA LA MORAL PÚBLICA
 
-### CAPÍTULO SÉPTIMO. ADULTERIO
+### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 294.
 
@@ -2711,7 +2931,13 @@ III. ENAJENACIÓN O USO DE LLAVES FALSAS. Enajene sellos, contraseñas, llaves, 
 
 IV. PROCURACIÓN U OBTENCIÓN INDEBIDA DE SELLOS O LLAVES VERDADEROS. Se procure u obtenga, indebidamente, los verdaderos sellos, contraseñas, marcas o llaves; o haga uso indebido de ellos.
 
-### CAPÍTULO PRIMERO. HOMICIDIO
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 294 BIS. SANCIONES Y TIPOS DE ELABORACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES. Se aplicará prisión de seis meses a siete años y multa, al que fabrique, elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expidan para identificar vehículos automotores o remolques.
+
+Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
+
+### CAPÍTULO QUINTO. BIGAMIA Y MATRIMONIOS ILEGALES
 
 ###### ARTÍCULO 295.
 
@@ -2759,7 +2985,7 @@ SANCIONES Y FIGURA TÍPICA DE USO DE DOCUMENTOS FALSOS. Se aplicará prisión de
 
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LAS LEYES DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO SEGUNDO. LESIONES
+### CAPÍTULO SEXTO. INCESTO
 
 ###### ARTÍCULO 298.
 
@@ -2779,27 +3005,33 @@ Si a quien se le hace ejecutar los actos es un menor de dieciocho años de edad:
 
 ###### ARTÍCULO 300.
 
-SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años y multa, a quien lleve a cabo respecto de un menor de hasta dieciséis años de edad alguna de las siguientes conductas: 1) Facilite o procure la depravación sexual. 2) Lo induzca a la práctica de la mendicidad, con el ánimo de explotarlo. 3) Facilite en forma reiterada a la ingesta de bebidas alcohólicas hasta que alcance estado de ebriedad. 4) Facilite el uso de estupefacientes o la prostitución. 5) Lo incite, instigue o induzca a formar parte de una asociación delictuosa o a cometer cualquier delito.
+SANCIÓN Y FIGURAS TÍPICAS DE CORRUPCION DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años de prisión y multa al que obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de una persona que no tuviere capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión, o de poder resistirlo por cualquier otra circunstancia personal; valiéndose de acciones u omisiones tendientes a que concluyan en la realización de actos de degradación sexual, conductas depravadas, prácticas de prostitución, mendicidad, consumo irracional y reiterado de bebidas embriagantes, o la práctica de algún otro vicio; o lo incite, instigue o persuada a formar parte de una asociación delictuosa, conspiración criminal, banda o pandilla.
 
-Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
+A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de un menor de edad o de quien no tuviere la capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión o de poder resistirlo por cualquier otra circunstancia personal, se le aplicará de seis a doce años de prisión y multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+Si el corruptor es ascendiente del menor o del incapaz, o al ejecutar los actos ejercía cualquier forma de autoridad sobre ellos; la sanción que señala este artículo se incrementará en un tercio más del mínimo y máximo; además, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza, así como de todos los derechos que le correspondan sobre los bienes del ofendido.
+
+No se entenderá por corrupción de menores o incapaces los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual o embarazo de adolescentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 301.
 
-SANCIONES Y FIGURA TÍPICA DE PORNOGRAFÍA INFANTIL, DE ADOLESCENTES Y DE INCAPACES. Se aplicará prisión de siete a once años y multa: A quien procure, obligue, facilite, induzca por cualquier medio o utilice a un menor de dieciséis años de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo, para realizar actos de exhibicionismo corporal o sexuales, con el propósito de videograbarlo, audio grabarlo, fotografiarlo, filmarlo por cualquier medio. La prisión máxima se aumentará a quince años, si se difunde o publica cualquiera de los actos.
+SANCIONES Y FIGURA TÍPICA DE PORNOGRAFIA INFANTIL DE MENORES E INCAPACES. Se aplicará prisión de siete a once años y multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos o grabados, a quien procure, obligue, facilite o induzca por cualquier medio o utilice a un menor de dieciocho años de edad, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o que por cualquier circunstancia personal no pueda resistirlo; para realizar actos de exhibicionismo corporal, o sexuales, lascivos o pornográficos, con el propósito de video grabarlo, filmarlo, fotografiarlo o exhibirlo, por cualquier medio, con o sin fin de obtener un lucro. La misma sanción se impondrá a quien financie, elabore, reproduzca, comercialice, distribuya, arriende, exponga o publicite el material a que se refieren las conductas descritas.
 
-Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo, si el corruptor es ascendiente del menor o incapaz o si al ejercitar los actos, ejercía de cualquier forma autoridad sobre el menor o incapaz. Además y, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo, si el corruptor es ascendiente del menor o incapaz, o si al ejecutar los actos ejercía cualquier forma de autoridad sobre aquéllos, lo mismo que si el delito se comete en perjuicio de un menor de doce años. En ambos supuestos; además, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza y de todos los derechos sobre los bienes del ofendido.
 
 Para los efectos de este Código se considera acto de pornografía a toda representación realizada por cualquier medio, de actividades obscenas sexuales, explícitas, reales o simuladas.
 
 No constituyen pornografía infantil: las fotografías, videograbaciones, audiograbaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual o el embarazo de adolescentes.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 302.
 
-SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPCES (SIC) CON RESULTADO. Se aplicará prisión de seis a catorce años y multa, cuando los actos de corrupción a que se refiere el artículo 300; se realicen reiteradamente sobre el mismo menor de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal, no pueda resistirlo y por ello se vuelva alcohólico o adicto a estupefacientes o sustancias tóxicas; se dedique a la prostitución.
+SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES CON RESULTADO. Se aplicará prisión de seis a catorce años y multa, cuando los actos de corrupción a que se refiere el artículo 300, se realicen reiteradamente sobre el mismo menor, o la misma persona que no tuviere capacidad para comprender el significado del hecho o decidir conforme a esa comprensión, o por cualquier otra circunstancia personal no pueda resistirlo y, debido a ello, éstos adquieran los hábitos del alcoholismo, de la adicción a narcóticos o sustancias toxicas u otros que produzcan efectos similares; se dediquen a la prostitución, o a formar parte de una asociación delictuosa, conspiración criminal, banda o pandilla.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
@@ -2808,6 +3040,12 @@ SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPCES (SIC) CON RESU
 SANCIONES Y FIGURA TÍPICA DE MANTENER EN CORRUPCIÓN A UN MENOR O INCAPAZ. Se aplicará de seis a catorce años de prisión y multa: A quien mantenga a un menor de dieciocho años, a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o a quien por cualquier circunstancia personal no pueda resistirlo; en cualquiera de los estados de corrupción que señala el artículo anterior.
 
 Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones que señala este artículo, se le privará de la patria potestad, tutela o guarda que ejerza.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 303 BIS. TRATAMIENTOS MÉDICOS, PSICOLÓGICOS Y TERAPEÚTICOS A LA PARTE OFENDIDA Y DEBER DE DENUNCIA DE LAS AUTORIDADES EDUCATIVAS Y DE SEGURIDAD PÚBLICA. Los sujetos pasivos de los delitos tipificados en los cuatro artículos anteriores, quedarán sujetos a los tratamientos médicos, psicológicos y terapéuticos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán ser ratificadas o modificadas por el Juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
+
+En los términos del artículo 191 del Código de Procedimientos Penales, las Autoridades Educativas y de Seguridad Pública del Estado y de los Municipios pondrán especial cuidado en formular la denuncia que corresponda a la comisión de los delitos tipificados por este artículo, con los mejores elementos de convicción que tengan a su alcance y, en su caso, procederán a la aprehensión de la persona que se sorprenda realizando alguna o algunas de las conductas delictivas señaladas en los párrafos anteriores, poniéndola de inmediato a disposición del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -2857,7 +3095,7 @@ PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará pr
 
 ## TÍTULO ÚNICO. DELITOS CONTRA EL ORDEN FAMILIAR
 
-### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+### CAPÍTULO SÉPTIMO. ADULTERIO
 
 ###### ARTÍCULO 309.
 
@@ -2871,7 +3109,7 @@ DELITOS CONTRA LA FAMILIA
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
 
-### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
+### CAPÍTULO PRIMERO. HOMICIDIO
 
 ###### ARTÍCULO 310.
 
@@ -2897,7 +3135,7 @@ SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA INTRAFAMILIAR, PROPIO
 
 SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA INTRAFAMILIAR, PROPIO O EQUIPARADO, CON RELACIÓN A OTRO QUE SE COMETA. Si además de los delitos que prevé este capítulo, resulta cometido otro con motivo de la violencia intrafamiliar, se aplicarán las reglas del concurso.
 
-### CAPÍTULO QUINTO. PARRICIDIO, MATRICIDIO, FILICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN
+### CAPÍTULO SEGUNDO. LESIONES
 
 ###### ARTÍCULO 314.
 
@@ -2911,11 +3149,17 @@ SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASI
 
 SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR POR SIMULAR INSOLVENCIA. Cuando se trate de menores de dieciocho años edad, incapacitados o personas desvalidas a cuyo favor se dictó sentencia de condena por alimentos: Si el deudor condenado, dolosamente se coloca en estado de insolvencia con el objeto de eludir el cumplimiento de la obligación alimenticia, se le aplicará prisión de dos a nueve años, multa y pérdida de los derechos familiares.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TÍPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
+
+Este delito se perseguirá siempre a petición de parte ofendida.
+
 ###### ARTÍCULO 317.
 
 QUERELLA PARA PERSEGUIR LOS DELITOS DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR. Los delitos que prevé este capítulo se perseguirán por querella. La que podrá formular la dependencia que se encargue de la defensa del menor o de la familia cuando falten los representantes legítimos; o éstos no lo hagan sin causa justificada y se estime conveniente a los intereses del menor; en cuyo caso sólo aquélla podrá otorgar el perdón.
 
-### CAPÍTULO SEXTO. INFANTICIDIO
+### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
 ###### ARTÍCULO 318.
 
@@ -2933,7 +3177,11 @@ V. INSCRIPCIÓN DE SENTENCIA O PROVEÍDO JUDICIAL FALSO, QUE SE REFIERA A CUALQU
 
 VI. USURPACIÓN DEL ESTADO CIVIL O LA FILIACIÓN DE OTRO. Usurpe el estado civil o la filiación de otro, con el fin de adquirir derechos de familia que no le corresponden.
 
-### CAPÍTULO SÉPTIMO. ABORTO
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+VII. NEGATIVA DEL DERECHO DE CONVIVENCIA ENTRE PADRES E HIJOS. A quien teniendo la custodia provisional o definitiva de un menor por decreto de autoridad competente y habiendo sido requerido por ésta para tal efecto, niegue o impida la convivencia de aquél con la persona que tiene reconocido ese derecho; o a ésta, si después de que lo ha ejercido, no reincorpora al menor al domicilio que habita con su custodio.
+
+### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
 
 ###### ARTÍCULO 319.
 
@@ -2955,7 +3203,7 @@ Cuando en la comisión falte el consentimiento a que se refiere el primer párra
 
 Si se acredita que quien dio el consentimiento o quien recibió al menor lo hizo para incorporarlo al núcleo familiar de éste último y darle los beneficios propios de tal incorporación: La pena aplicable será de tres meses a un año de prisión y multa.
 
-### CAPÍTULO OCTAVO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
+### CAPÍTULO QUINTO. PARRICIDIO, MATRICIDIO, FILICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN
 
 ###### ARTÍCULO 322.
 
@@ -2975,7 +3223,7 @@ CUESTIÓN PREJUDICIAL ESPECÍFICA QUE SUSPENDE LA PRESCRIPCIÓN DE LA ACCIÓN PE
 
 SANCIÓN ESPECÍFICA PARA LOS ENCARGADOS DE LAS OFICINAS DEL REGISTRO CIVIL. Se aplicará de uno a cinco años de prisión, multa e inhabilitación definitiva: A los funcionarios del registro civil que conociendo los impedimentos, autoricen el matrimonio en los términos de este capítulo.
 
-### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
+### CAPÍTULO SEXTO. INFANTICIDIO
 
 ###### ARTÍCULO 326.
 
@@ -2985,9 +3233,7 @@ Las sanciones aplicables a éstas últimas personas, serán de un mes a dos año
 
 Se aplicarán las últimas sanciones del párrafo anterior en caso de que la cópula sea entre hermanos.
 
-### CAPÍTULO SEGUNDO. SECUESTRO
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+### CAPÍTULO SÉPTIMO. ABORTO
 
 ###### ARTÍCULO 327.
 
@@ -3007,7 +3253,7 @@ DELITOS CONTRA LAS PERSONAS
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
-### CAPÍTULO TERCERO. AMENAZAS
+### CAPÍTULO OCTAVO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
 ###### ARTÍCULO 329.
 
@@ -3041,11 +3287,13 @@ SANCIONES PARA EL HOMICIDIO SIMPLE DOLOSO. Se aplicará prisión de siete a diec
 
 SANCIONES PARA EL HOMICIDIO EN RIÑA. Si el homicidio se comete en riña, se sancionará con la mitad o con cinco sextos de las penas mínimas y máximas que señala el artículo anterior, según sea el provocado o el provocador.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 336.
 
-SANCIONES PARA EL HOMICIDIO CALIFICADO. Se aplicará prisión de dieciocho a cuarenta años y multa: A quien cometa homicidio calificado, si sólo se le condena hasta por tres circunstancias calificativas. Pero si se le condenan por más circunstancias calificativas, la pena máxima de prisión será de cincuenta años.
+SANCIONES PARA EL HOMICIDIO CALIFICADO. Se aplicará prisión de dieciocho a cincuenta años y multa, a quien cometa homicidio calificado, si sólo se le condena hasta por tres circunstancias calificativas; pero si se le condena por más circunstancias calificativas, la pena máxima de prisión será de sesenta años y multa.
 
-### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
+### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
 
 ###### ARTÍCULO 337.
 
@@ -3101,7 +3349,17 @@ PENALIDAD CALIFICADA POR LESIONES DOLOSAS INFERIDAS A ASCENDIENTES O DESCENDIENT
 
 Las modalidades agravantes anteriores serán comunicables y admitirán las demás modalidades agravantes o atenuantes de las lesiones dolosas y sus reglas de penalidad.
 
-### CAPÍTULO QUINTO. ASALTO
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 346 BIS. SANCIÓN Y FIGURA TÍPICA DE LESIONES AL CONCEBIDO. Se aplicará prisión de dos a siete años y multa, al que por cualquier medio dolosamente cause en el concebido una lesión o enfermedad que perjudique gravemente su normal desarrollo, o provoque en el mismo una deficiencia física o psíquica de por vida.
+
+Si la acción fuere realizada en su desempeño por un profesional de la salud, se le impondrá también la inhabilitación para el ejercicio de la profesión por el mismo término.
+
+Si la conducta descrita se realizara culposamente, las sanciones se reducirán a una tercera parte, salvo si se trata de la mujer embarazada, que no será penada por su imprudencia.
+
+### CAPÍTULO SEGUNDO. SECUESTRO
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 347.
 
@@ -3161,17 +3419,17 @@ IX. PREPARACIÓN, FACILITACIÓN, CONSUMACIÓN U OCULTAMIENTO DE OTRO DELITO. Se 
 
 X. FRUSTRACIÓN DEL FIN PROPUESTO AL INTENTAR OTRO DELITO. Por el mero motivo de no haber logrado el fin propuesto al intentar otro delito.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 351.
 
-OTRAS CIRCUNSTANCIAS DE AGRAVACIÓN EN LESIONES Y HOMICIDIO DOLOSO. El homicidio doloso que se cometa con motivo de un secuestro, violación o robo, se sancionará conforme a lo dispuesto en el párrafo segundo del artículo 67. Las lesiones dolosas que se cometan con motivo de esos delitos, se sancionarán con la penalidad de las lesiones calificadas, con independencia de las penas que correspondan por los demás delitos.
+OTRAS CIRCUNSTANCIAS DE AGRAVACIÓN EN LESIONES Y HOMICIDIO DOLOSO. El homicidio doloso que se cometa con motivo de la ejecución de los delitos de terrorismo, secuestro, violación o robo agravado, se sancionará como homicidio calificado de penalidad más alta. Las lesiones dolosas que se cometan con motivo de esos delitos, se sancionarán con la penalidad de las lesiones calificadas. En ambos casos, con independencia de las penas que correspondan por los demás delitos y sin perjuicio de las reglas del concurso.
 
 ###### ARTÍCULO 352.
 
 OTRAS SANCIONES PARA LOS DELITOS DE HOMICIDIO Y DE LESIONES SEGÚN LAS CIRCUNSTANCIAS. Además de las sanciones que señalan los dos capítulos anteriores se podrá prohibir al responsable, hasta por cinco años, ir a determinada demarcación geográfica o residir en ella.
 
-### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR Y A DERECHOS DE LA PERSONALIDAD
+### CAPÍTULO TERCERO. AMENAZAS
 
 ###### ARTÍCULO 353.
 
@@ -3185,7 +3443,7 @@ Cuando se inicien actos para ejecutar el suicidio y éste no se consume por caus
 
 SANCIONES Y FIGURA TÍPICA DE EUTANASIA. Se aplicará de tres meses a tres años de prisión: A quien con la voluntad del pasivo le cause la muerte sólo por motivos de piedad; que consistan en evitar que tenga una agonía dolorosa en extremo o porque se trate de un enfermo en fase terminal, sin posibilidad de sanar.
 
-### CAPÍTULO PRIMERO. VIOLACIÓN
+### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 355.
 
@@ -3195,7 +3453,7 @@ SANCIONES Y FIGURAS TÍPICAS DE PARRICIDIO, MATRICIDIO, FILICIDIO, UXORICIDIO, F
 
 El tipo penal de la figura anterior admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus penalidades, así como las del concurso conforme a lo dispuesto en el artículo 67.
 
-### CAPÍTULO SEGUNDO. RAPTO
+### CAPÍTULO QUINTO. ASALTO
 
 ###### ARTÍCULO 356.
 
@@ -3209,9 +3467,7 @@ III. CIRCUNSTANCIAS ESPECIALES. Cuando obre una o más circunstancias que racion
 
 Lo que se prevé en la fracción anterior se podrá apreciar desde que se ejercite la acción penal, sin perjuicio del grado de punibilidad que se determine en la sentencia de condena.
 
-### CAPÍTULO TERCERO. ESTUPRO
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR, A LOS DERECHOS DE PERSONALIDAD Y A LA DIGNIDAD E IGUALDAD DE LAS PERSONAS
 
 ###### ARTÍCULO 357.
 
@@ -3251,9 +3507,7 @@ III. PELIGRO DE MUERTE DE LA MUJER EMBARAZADA. Cuando de no provocarse el aborto
 
 IV. ALTERACIONES GENÉTICAS O CONGÉNITAS GRAVES. Cuando se practique con el consentimiento de la madre y a juicio de un médico exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado que nazca un ser con deficiencias físicas o mentales graves.
 
-### CAPÍTULO CUARTO. ATENTADOS AL PUDOR
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+### CAPÍTULO PRIMERO. VIOLACIÓN
 
 ###### ARTÍCULO 362.
 
@@ -3295,9 +3549,7 @@ SANCIONES Y FIGURA TÍPICA DE DISPARO DE ARMA DE FUEGO. Se aplicará prisión de
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
-### CAPITULO QUINTO. ACOSO SEXUAL
-
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+### CAPÍTULO SEGUNDO. RAPTO
 
 ###### ARTÍCULO 368.
 
@@ -3321,149 +3573,139 @@ La pena máxima se reducirá a un tercio, cuando el autor o partícipe pongan es
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará prisión de seis meses a nueve años y multa, al particular que por cualquier medio constriña a una persona a prestarle trabajos o servicios personales sin la debida retribución; o celebre un contrato que ponga en condiciones de servidumbre a otro.
 
-### CAPÍTULO PRIMERO. INJURIAS
+### CAPÍTULO TERCERO. ESTUPRO
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 371.
 
-SANCIÓN, CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA Y FIGURA TÍPICA DE SECUESTRO. Al que por cualquier medio prive de la libertad a otro se le aplicará:
+SANCIONES Y FIGURAS TIPICAS DE SECUESTRO. Se aplicará prisión de dieciséis a cuarenta años y multa, al que por cualquier medio prive de la libertad a otro, con alguno de los propósitos siguientes:
 
-I. FIGURA BÁSICA. De dieciséis a cuarenta años de prisión y multa, si la privación de la libertad se realiza con cualquiera de los siguientes propósitos:
+I. Obtener rescate para sí o para un tercero, o cualquier otra ventaja indebida.
 
-1) Obtener rescate para sí o para un tercero, o cualquier otra ventaja indebida.
+II. Causar daño o perjuicio al secuestrado o a otra persona relacionada con éste.
 
-2) Causar daño o perjuicio al secuestrado o a otra persona.
+III. Detener en calidad de rehén a una persona y amenazarla con privarla de la vida o con causarle daño, para que la autoridad o un particular realice o deje de realizar un acto cualquiera.
 
-3) Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para que la autoridad o un particular realice o deje de realizar un acto cualquiera.
+IV. Obligarle a ejecutar, directa o indirectamente, operaciones o transacciones bancarias, mercantiles, civiles o cualquier otra que produzca retiro o liberación de sumas en efectivo, transmisión de derechos o extinción de obligaciones, o a que proporcione al agente los documentos, tarjetas bancarias, claves, números de identificación personal y demás datos indispensables para que éste las lleve a cabo.
 
-II. CIRCUNSTANCIAS AGRAVANTES. De veinte a cincuenta años de prisión y multa, si en la privación de la libertad a que se hace referencia en la fracción anterior concurre alguna o algunas de las circunstancias siguientes:
+En todos los casos se impondrá como sanción el decomiso de los instrumentos, objetos y productos del delito, considerándose, entre éstos, los vehículos, armas, muebles y demás bienes de que se sirvan los responsables para la perpetración del delito de secuestro.
 
-1) Que la víctima sea menor de dieciocho años o mayor de sesenta, mujer embarazadas (sic); o se trate de una persona incapaz o enferma que requiere el suministro de medicamentos o tratamientos especiales, o que por su condición de salud física o estado mental se encuentre en desventaja frente al secuestrador.
+Asimismo, se impondrá como sanción la prohibición de residir o de acudir a determinado lugar; particularmente el que habite, labore o frecuente el ofendido por el delito.
 
-2) Si se ejecuta la conducta en un pariente hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil, sobre la cónyuge o el cónyuge, la concubina o el concubinario, o aprovechando la confianza depositada por la víctima en el autor o en alguno o algunos de los copartícipes por razones de amistad, gratitud, trabajo u otro motivo similar.
+ARTÍCULO 371 BIS. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2006)
 
-3) Cuando el delito se cometa en persona que sea funcionario o servidor público, o dirigente sindical, empresarial o religión, o candidato a un cargo de elección popular, o periodista o comunicador y por razón de sus funciones.
-
-4) Cuando el secuestro se cometa en casa habitación, sitio de trabajo, cualquiera de las rutas o lugares comúnmente frecuentados por el pasivo, inmediaciones de los mismos, en vías o caminos públicos, en despoblado o sitios solitarios o en áreas desprotegidas.
-
-5) Si el hecho se comete utilizando orden de aprehensión o detención falsificada o simulando tenerla.
-
-6) Si el autor es o ha sido integrante de alguna institución de seguridad pública, o se ostenta como tal sin serlo.
-
-7) Que el activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales, o se valga de redes o sistemas informáticos internacionales o de otros medios de alta tecnología, que impliquen marcada ventaja en el logro de su fin.
-
-8) Que quienes lo lleven a cabo obren en grupo de dos o más personas.
-
-9) Si el secuestro se comete contra más de una persona, sin perjuicio de las reglas aplicables en materia de concurso.
-
-10) Que se realice con violencia física o moral ejercida en contra de la víctima o algún tercero.
-
-11) Cuando se haga uso de armas en el momento de la comisión o en acto o en actos inmediatos posteriores.
-
-12) Que si se somete a la víctima a tortura física o moral, maltrato o vejaciones, o a violencia sexual durante el tiempo que permanezca secuestrada, con independencia de las penas que correspondan, por los delitos que resulten, según las reglas del concurso de delitos.
-
-13) Cuando se comete con la finalidad de extraer al pasivo cualquier parte de su cuerpo para transplante.
-
-14) Si la privación de la libertad del secuestro se prolonga por más de cinco días.
-
-15) Cuando se presione la entrega o verificación de lo exigido, con amenaza de muerte o lesión o con ejecutar actos que impliquen grave peligro común o grave perjuicio a la comunidad o a la salud pública.
-
-16) Cuando se cometa con fines terroristas.
-
-17) Si el activo persuade u obliga a l (sic) víctima a que realice directa o indirectamente, operaciones o transacciones bancarias, mercantiles, civiles, o cualquier otra que produzca liberación de efectivo o transmisión de obligaciones, se obtenga o no el beneficio.
-
-18) Si se obtiene la utilidad, provecho o finalidad perseguidos por los autores o copartícipes.
-
-19) Cuando se afecten gravemente los bienes o la actividad profesional o económica de la víctima.
-
-20) Si el secuestrador obliga bajo amenazas, engaños o violencia a un tercero a participar en cualquier etapa del delito.
-
-III. AGRAVACIÓN ESPECIAL. De treinta a sesenta años de prisión y multa, si con motivo de la privación de la libertad a que se hace referencia en la fracción I, concurre alguna de las circunstancias siguientes:
-
-1) Si el secuestrado fallece, por cualquier motivo, durante el tiempo en que se encuentre privado de su libertad.
-
-2) Si después de puesto en libertad, el secuestrado muere por causas directamente relacionadas con el secuestro, dentro de los trescientos días siguientes a aquél en que cesó la privación de su libertad.
-
-3) Si el cónyuge o la cónyuge, la concubina o el concubinario, la madre o el padre, la hija o el hijo sin haber sido víctimas directas del ilícito, mueren por alteraciones de salud que sean consecuencias inmediata y directa del delito, si el deceso se produce durante el secuestro o dentro de los sesenta días siguientes.
-
-Si el secuestrado es privado de la vida en forma intencional por su o sus secuestradores; el secuestro se castigará en base a las penas mínimas y máximas previstas en las fracciones I y II de este artículo, según sea el caso, y conforme a las reglas del concurso, tal y como lo prevé artículo 67.
-
-Si espontáneamente se libera al secuestrado dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere la fracción I de este artículo y sin que se haya presentado alguna de las circunstancias previstas en la fracción II, la pena será de tres a nueve años de prisión y multa.
-
-Si se dan una o más circunstancias de las previstas en la fracción II y espontáneamente se libera al secuestrado, sin lograr alguno de los propósitos a que se refiere la fracción I de este artículo, la pena de prisión aplicable será de cinco a quince años y multa.
-
-No habrá lugar a la atenuación a que se refiere el párrafo anterior, si concurriere una de las causas señaladas en los numerales 12, 13 y 16 de la fracción II de este artículo.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
-
-ARTÍCULO 371 BIS.- SANCIONES Y MODALIDADES AGRAVANTRES DEL SECUESTRO. Se aplicará prisión de treinta a cincuenta años de prisión y multa, cuando el secuestro concurra en cualquiera de las formas siguientes:
-
-I. SECUESTRO DE SUJETO CALIFICADO. Cuando el sujeto pasivo sea menor de edad o mayor de sesenta años, se trate de una mujer embarazada o que por cualquier otra circunstancia esté en situación de inferioridad respecto del secuestrador.
-
-II. SECUESTRO POR SUJETO CUALIFICADO. Cuando intervenga persona que tenga con el sujeto pasivo vínculo de parentesco, amistad, gratitud, relación laboral o cualquier otro que produzca confianza.
-
-III. SECUESTRO CON LA FINALIDAD DE EXTRAER ÓRGANOS. Que se cometa con la finalidad de extraer a la víctima algún órgano de su cuerpo para trasplante o comercialización, independientemente de los delitos que resultaran.
-
-IV. SECUESTRO POR MEDIO DE LA UTILIZACIÓN DE NARCÓTICOS. Que durante la privación de la libertad se haga uso de narcóticos o cualquier sustancia o elementos susceptibles de anular o disminuir la resistencia de la víctima.
-
-V. SECUESTRO POR SERVIDOR PÚBLICO O MIEMBRO DE SEGURIDAD PRIVADA. Cuando intervenga un servidor público o exservidor público; o miembro o exmiembro de alguna corporación policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado.
-
-Así como la utilización de insignias, uniformes, placas, claves o códigos oficiales, en cuyo caso además de la pena señalada se impondrá según proceda la destitución del empleo, cargo o comisión y la inhabilitación definitiva para desempeñar cualquiera como servidor público, con aquel u otro carácter.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 372.
 
-BENEFICIOS POR COLABORACIÓN. El activo que comunique a la autoridad antes de su copartícipes la información veraz con pormenores que haga posible evitar o impedir el secuestro, o producido éste, identifique a todos o algunos de los coautores o partícipes de la comisión del delito o se logre localizar a la víctima sin mayor menoscabo de salud, será sujeto a los beneficios siguientes, según el caso:
+SANCIONES Y CIRCUNSTANCIAS CALIFICATIVAS DE SECUESTRO. El delito de secuestro a que se refiere el artículo anterior será calificado y se sancionará:
 
-I. Si la información se produce antes de la comisión del ilícito, y la conducta conformare tentativa, la pena será de tres meses a tres años de prisión y multa.
+I. De veinte a cuarenta y cinco años de prisión y multa, cuando concurra alguna o algunas de las circunstancias siguientes:
 
-II. Si la información se proporciona una vez consumado el delito, ante el Ministerio Público en la averiguación previa, la pena será de uno a cinco años de prisión y multa.
+1) El ofendido sea servidor público, dirigente sindical, empresarial o religioso, candidato a un cargo de elección popular, periodista o comunicador.
 
-III. Si la información aconteciere durante el proceso, la pena será de tres a nueve años de prisión y multa.
+2) El secuestro se realice en casa habitación, sitio de trabajo, centro educativo, ruta o lugar comúnmente frecuentados por el pasivo o en las inmediaciones de los mismos, en vías o caminos públicos, en despoblado o sitios solitarios o en áreas desprotegidas.
 
-Cuando la información provenga de persona vinculada a uno de los secuestradores por lazos de parentesco o amistad, el activo ligado con el informe se le impondrá una pena de cuatro a doce años de prisión y multa.
+3) Los autores y partícipes obren en grupo de dos o más personas.
 
-El Ministerio Público o el Juez, según corresponda, proporcionarán protección y vigilancia al activo o al informante a que se refiere este artículo.
+4) Se realice con engaño, violencia física o moral ejercida en contra del ofendido o algún tercero.
 
-Las atenuantes aquí señaladas, serán de aplicación única y exclusivamente para el delito por el cual se colabora con la autoridad, sin que se apliquen a conductas anteriores atribuibles a quien se acoja o reciba estos beneficios y en ningún caso aprovecharán a los demás coautores.
+5) Se haga uso de armas en el inicio de la comisión del delito o en el transcurso de su ejecución.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+6) El hecho se cometa utilizando orden de aprehensión o detención falsas, o simulando tenerlas.
+
+7) El secuestrador obligue bajo amenazas, engaños o violencia a un tercero a participar en cualquier etapa del delito.
+
+8) Afecte gravemente los bienes o la actividad profesional o económica del ofendido.
+
+II. De veinticinco a cincuenta años de prisión y multa cuando se dé alguna o algunas de las situaciones siguientes:
+
+1) El ofendido sea menor de dieciocho años o mayor de sesenta, se trate de un incapaz, de una mujer embarazada o de una persona enferma que requiera el suministro de medicamentos o tratamientos especiales, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del secuestrador.
+
+2) Se ejecute la conducta en un pariente hasta el cuarto grado de consaguinidad (sic), segundo de afinidad o primero civil, sobre la cónyuge o el cónyuge, la concubina o el concubinario, o aprovechando la confianza depositada por el ofendido en el autor o en alguno o algunos de los partícipes por razones de amistad, gratitud, relación laboral u otro motivo similar que produzca confianza.
+
+3) Intervenga un servidor público o ex servidor público, un miembro o ex miembro de cualquier institución de seguridad pública, o se ostente como tal sin serlo.
+
+4) Se utilicen insignias, uniformes, placas, instalaciones, frecuencias, claves o códigos oficiales, se empleen redes, sistemas informáticos o cualquier otro medio de alta tecnología, que facilite la consecución de los propósitos del secuestrador.
+
+5) Se haga uso de narcóticos, o cualquier sustancia depresora que anule, disminuya o tienda a anular la resistencia del ofendido.
+
+6) Se cometa simultánea o sucesivamente contra más de una persona, sin perjuicio de las reglas aplicables en materia de concurso.
+
+7) Se presione la entrega o verificación de lo exigido con amenaza de lesión o muerte al secuestrado.
+
+8) La privación de la libertad del secuestrado se prolongue por más de cinco días.
+
+Cuando se trate de los incisos 3 y 4, además de la pena señalada, se impondrá, en su caso, la destitución del empleo, cargo o comisión y la inhabilitación definitiva para obtener y desempeñar otro.
+
+III. De treinta a cincuenta y cinco años de prisión y multa, cuando se surta alguno o algunos de los supuestos siguientes:
+
+1) Se someta al secuestrado a tortura física o moral, maltrato o vejaciones, o a violencia sexual durante el tiempo en que se mantenga el secuestro.
+
+2) Se le infiera al ofendido alguna o algunas de las lesiones enunciadas en los artículos del 339 al 342 de este Código, sin perjuicio de las penas que a éstas correspondan.
+
+3) Se cometa con la finalidad de extraer al pasivo algún órgano de su cuerpo para trasplante o comercialización, independientemente de los delitos que resulten.
+
+4) Se cometa con fines terroristas.
+
+5) Si el secuestrado fallece durante el tiempo en que se encuentre privado de su libertad o si después de ser liberado, muere dentro de los ciento ochenta días siguientes por causas relacionadas directamente con el secuestro.
+
+IV. De treinta y cinco a sesenta años de prisión y multa, si el secuestrado es privado de la vida por su secuestrador.
+
+En todos estos supuestos, además de las sanciones previstas para cada una de las circunstancias calificativas de secuestro; se aplicarán las que correspondan por los delitos que resulten, conforme a las reglas de concurso.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 373.
 
-SANCIÓN Y FIGURAS TÍPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
+SANCIONES Y CIRCUNSTANCIAS ATENUANTES DE SECUESTRO. Se aplicará prisión de seis a quince años y multa, en los casos siguientes:
 
-I. Conozcan los planes o actividades encaminados a la ejecución de un secuestro y no dé aviso oportuno a la autoridad u omita su denuncia. Si tiene conocimiento de sus autores o copartícipes.
+I. Al autor o partícipe que espontáneamente libere al secuestrado dentro de las setenta y dos horas siguientes a la privación de su libertad, sin lograr alguno de los propósitos del delito y sin que se haya actualizado alguna de las circunstancias calificativas previstas en el artículo 372, siempre que no lo haga por causas ajenas a su voluntad.
 
-II. Sin concierto previo, ayude a eludir la acción de la autoridad, o entorpezca la investigación correspondiente.
+En los casos en que concurra alguna o algunas de las calificativas a que se refieren las fracciones I y II del precepto citado, se aumentará en un tercio el mínimo y máximo de las sanciones previstas en este artículo. El incremento será de dos tercios, si tiene lugar alguno o algunos de los supuestos previstos en la fracción III incisos 1) a 4) del artículo anterior.
 
-III. Actúe como internamiento en las negociaciones de rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima.
+II. Si después de producido el secuestro uno de los partícipes, antes que los demás, proporciona al Ministerio Público en el período de averiguación, información veraz que haga posible su identificación, y se logre localizar al ofendido sin grave menoscabo de su salud.
 
-IV. Colaboren en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera de estricto derecho de información.
+Cuando la información provenga de persona vinculada a uno de los secuestradores, por lazos de parentesco o amistad, se aumentará en una mitad el mínimo y máximo de las sanciones de que se trata.
 
-V. Con fines lucrativos, actúe como asesor de quien represente o gestione a favor de la víctima o en el mismo ánimo, efectúe el cambio de moneda nacional por divisas, o el de éstas por moneda nacional, sabiendo que dicho cambio se hace con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo 371.
+El Ministerio Público proporcionará protección y vigilancia al activo o al informante a que se refiere esta fracción.
 
-VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante el secuestro para después de éste, para que no colaboren con las autoridades competentes.
+Las atenuantes aquí señaladas, serán de aplicación única y exclusivamente para el delito por el cual se colabora con la autoridad, sin que se apliquen a conductas anteriores atribuibles a quien se acoja o reciba estos beneficios y en ningún caso aprovecharan a los demás coautores o copartícipes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 374.
 
-INTERVENCIÓN OFICIOSA DE LAS AUTORIDADES. El delito de secuestro se perseguirá de oficio y las (sic) autoridad intervendrá tan pronto tenga conocimiento del ilícito, aún cuando el ofendido o sus familiares se opongan a ello, pero procurando siempre la salvaguarda del secuestrado.
+SANCIÓN Y FIGURAS TÍPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
 
-La Procuraduría General de Justicia del Estado dispondrá de sistemas especiales de vigilancia y seguimiento en los casos de investigación y juzgamiento de los delitos de secuestro y de la desaparición de personas.
+I. Conozca los planes o actividades encaminados a la ejecución de un secuestro y no dé aviso oportuno a la autoridad u omita su denuncia, si tiene conocimiento de sus autores o partícipes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+II. Sin concierto previo, ayude a eludir la acción de la autoridad, o entorpezca la investigación correspondiente.
 
-ARTÍCULO 375 SANCIONES Y FIGURAS TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez años de prisión y multa, a quien simule o argumente falsamente el secuestro de una persona y pida obtener cualquier beneficio, o que se realice o se deje de realizar algún acto.
+III. Actúe como intermediario, en las negociaciones de rescate, sin el acuerdo de quienes representen o gestionen a favor del ofendido.
+
+IV. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho de información.
+
+V. Con fines lucrativos, actué como asesor de quienes representen o gestionen a favor de la víctima, o con el mismo ánimo, efectúe el cambio de moneda nacional por divisas, o el de éstas por moneda nacional, sabiendo que dicho cambio se hace con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo 371.
+
+VI. Intimide a los familiares del ofendido, a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 375.
 
-SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez años de prisión y multa, a quien simule el secuestro de una persona o el propio y pida obtener cualquier beneficio o que realice o deje de realizar algún acto.
+INTERVENCIÓN OFICIOSA DE LAS AUTORIDADES. El delito de secuestro se perseguirá de oficio y las autoridades intervendrán tan pronto tengan conocimiento del ilícito, aun cuando el ofendido o sus familiares se opongan a ello, pero procurando siempre la salvaguarda del secuestrado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 375 BIS. SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez años de prisión y multa, a quien simule o argumente falsamente el secuestro de una persona y pida obtener cualquier beneficio, o que se realice o se deje de realizar algún acto.
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
-### CAPÍTULO SEGUNDO. DIFAMACIÓN
+### CAPÍTULO CUARTO. ATENTADOS AL PUDOR
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 376.
 
@@ -3471,9 +3713,9 @@ SANCIONES Y FIGURA TÍPICA DE AMENAZAS. Se aplicará prisión de un mes a un añ
 
 Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumentará en un tercio el mínimo y el máximo de las sanciones del párrafo anterior. Y se aplicará también hasta por tres años, la prohibición de ir al lugar donde reside el ofendido.
 
-### CAPÍTULO TERCERO. CALUMNIA
+### CAPITULO QUINTO. ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 377.
 
@@ -3481,7 +3723,7 @@ SANCIONES Y FIGURA TÍPICA DE ALLANAMIENTO DE MORADA. Se aplicará prisión de u
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS DELITOS DE INJURIAS, DIFAMACIÓN Y CALUMNIA
+### CAPÍTULO PRIMERO. INJURIAS
 
 ###### ARTÍCULO 378.
 
@@ -3495,7 +3737,9 @@ SANCIONES Y FIGURA TÍPICA DE ASALTO TUMULTUARIO A UNA POBLACIÓN. Se aplicará 
 
 PENALIDAD AGRAVADA A LOS CABECILLAS O JEFES. Se aplicará prisión de diez a veinte años y multa: A los cabecillas o jefes de los salteadores.
 
-### CAPÍTULO PRIMERO. ROBO
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO SEGUNDO. DIFAMACIÓN
 
 ###### ARTÍCULO 381.
 
@@ -3537,9 +3781,31 @@ Las sanciones mínimas y máximas del primer párrafo de este artículo, se aume
 
 Se aumentarán en una mitad más los mínimos y máximos de las sanciones: Si en el implante o la inseminación que prevén estas fracciones se utiliza violencia contra la mujer.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 383 BIS. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA DIGNIDAD E IGUALDAD DE LAS PERSONAS. Se impondrá pena de seis meses a tres años de prisión y multa, al que injustificadamente por razones de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, posición social o económica, discapacidad, condición física o estado de salud:
+
+I. PROVOCACIONES INNOBLES. Provoque o incite a la discriminación, al odio o a la violencia en perjuicio de una persona o un grupo de personas.
+
+II. DISCRIMINACIÓN EN LA PRESTACIÓN DE SERVICIOS. En ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a alguna de esas personas, un servicio o una prestación a la que tengan derecho.
+
+Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
+
+III. VEJACIONES CON EFECTOS MORALES O MATERIALES. Veje o excluya a alguna de dichas personas o a un grupo de ellas, cuando esa conducta tenga por resultado un daño material o moral.
+
+IV. LIMITACIONES LABORALES. Les niegue o restrinja sus derechos laborales adquiridos.
+
+Al que siendo servidor público, incurra en alguna de las conductas previstas en este artículo, niegue o retarde a una de las personas en él mencionadas un trámite o servicio al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+
+No serán considerados como delitos contra la dignidad de las personas, todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+Este delito, sólo se perseguirá por querella de parte ofendida.
+
 ## TÍTULO CUARTO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO TERCERO. CALUMNIA
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 384.
 
@@ -3561,7 +3827,7 @@ II. PERSONA MENOR DE DOCE AÑOS. Con persona de hasta doce años de edad.
 
 ###### ARTÍCULO 387.
 
-CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACIÓN O DE LA EQUIPARADA A LA VIOLACIÓN. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
+CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACION O DE LA EQUIPARADA A LA VIOLACION. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
 
 I. VIOLACIÓN POR DOS O MÁS PERSONAS. Se realice por dos o más personas.
 
@@ -3587,7 +3853,7 @@ Se incrementará en un tercio el mínimo y el máximo de las sanciones de los p�
 
 ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O LESIONES. Si el autor matare a la víctima o a través de la violencia sexual o de la violación le causare la muerte; además de las sanciones que le correspondan por el delito de violación, se le aplicarán las propias del homicidio doloso o culposo, según sea el caso, atendiendo a las reglas del concurso, en los términos del segundo párrafo del artículo 67. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
 
-### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
+### CAPÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS DELITOS DE INJURIAS, DIFAMACIÓN Y CALUMNIA
 
 ###### ARTÍCULO 389.
 
@@ -3617,9 +3883,7 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá co
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de dos a ocho años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona de hasta doce años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
 
-### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 394.
 
@@ -3635,7 +3899,7 @@ CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR EL DELITO DE ESTUPRO. Sólo se proce
 
 AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLACIÓN O ESTUPRO. Si como consecuencia de la violación o del estupro hay descendencia, la reparación del daño comprenderá, además de lo que señala este código, la ministración de alimentos al hijo en los términos de la ley civil.
 
-### CAPÍTULO QUINTO. FRAUDE
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 397.
 
@@ -3659,15 +3923,15 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
 
-### CAPÍTULO SÉPTIMO. USURA
+### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO OCTAVO. DESPOJO
+### CAPÍTULO QUINTO. FRAUDE
 
 ###### ARTÍCULO 399
 
@@ -3707,9 +3971,7 @@ SANCIONES Y FIGURA TÍPICA DE CALUMNIA. Se aplicará prisión de uno a cuatro a�
 
 SUSPENSIÓN DE LA ACCIÓN POR CALUMNIAS POR RESOLUCIÓN PENDIENTE EN EL DELITO IMPUTADO. Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción por calumnia, hasta que se dicte resolución irrevocable que ponga fin al mismo.
 
-### CAPÍTULO NOVENO. DAÑOS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 406.
 
@@ -3735,7 +3997,9 @@ La reparación del daño moral en los delitos de injurias, difamación o calumni
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
-### CAPÍTULO DÉCIMO. EXTORSIÓN
+### CAPÍTULO SÉPTIMO. USURA
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 410.
 
@@ -3833,7 +4097,7 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras pa
 
 SANCIONES Y FIGURA TÍPICA DE ROBO DE USO. Se aplicará una tercera parte de las sanciones mínima y máxima del robo simple: A quien se apodere de una cosa mueble ajena; sin consentimiento de la persona que legalmente pueda otorgarlo o del legítimo poseedor, con el sólo fin de usarla transitoriamente y no para disponer de ella como dueño.
 
-### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO OCTAVO. DESPOJO
 
 ###### ARTÍCULO 418.
 
@@ -3843,7 +4107,9 @@ Si las conductas se ejecutan sobre tres o más cabezas de ganado menor, la sanci
 
 Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marcas de identificación del ganado, con ánimo de apropiárselo en forma indebida.
 
-### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO NOVENO. DAÑOS
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 419.
 
@@ -3868,6 +4134,8 @@ QUERELLA EN ALGUNOS DELITOS DE ROBO Y ABIGEATO. Sólo se perseguirá por querell
 Se procederá de igual forma, cuando el robo o abigeato se cometa por el suegro contra su yerno o nuera; por éstos contra aquél; por un padrastro contra su hijastro o viceversa; entre hermanos; o entre adoptante y adoptado.
 
 Se procederá de oficio contra los demás autores o partícipes que intervengan.
+
+### CAPÍTULO DÉCIMO. EXTORSIÓN
 
 ###### ARTÍCULO 421.
 
@@ -3896,6 +4164,8 @@ IV. ILEGÍTIMA POSESIÓN DE LA COSA RETENIDA. La ilegítima posesión de la cosa
 ###### ARTÍCULO 423.
 
 QUERELLA NECESARIA PARA LA PERSECUCIÓN DE ABUSO DE CONFIANZA. Los delitos que prevé este capítulo sólo se perseguirán por querella del ofendido.
+
+### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 424.
 
@@ -3944,6 +4214,8 @@ XII. ENGAÑO DE GARANTÍA. A quien para liberar a otro o a sí mismo del cumplim
 ###### ARTÍCULO 427.
 
 QUERELLA NECESARIA. Los delitos de este capítulo, con excepción del de fraccionamientos no autorizados, sólo se perseguirán por querella del ofendido.
+
+### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### ARTÍCULO 428.
 
@@ -4214,3 +4486,11 @@ A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieci
 QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Para facilitar la interpretación y aplicación del presente Decreto de reforma, el Ejecutivo publicará la Exposición de Motivos que con el se acompaña, en el Periódico Oficial del Gobierno del Estado.
