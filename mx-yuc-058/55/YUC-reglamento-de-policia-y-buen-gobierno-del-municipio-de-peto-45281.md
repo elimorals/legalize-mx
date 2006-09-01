@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-policia-y-buen-gobierno-del-municipio-de-peto-452
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-23"
-last_updated: "2005-06-23"
+last_updated: "2006-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,13 @@ state: "YUC"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE PETO, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 23 de junio de 2005.
 
-C. LAE. GILBERTO ALONSO NAVARRETE VÁZQUEZ PRESIDENTE DEL AYUNTAMIENTO DE PETO, A LOS HABITANTES DEL MUNICIPIO DEL MISMO NOMBRE HAGO SABER: Que el H. Ayuntamiento que presido, en sesión ordinaria de Cabildo de fecha nueve de mayo del dos mil cinco, con fundamento en el Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 85 fracción V de la Constitución del Estado de Yucatán y los artículos 84 fracción V, 85, 86 y 120 de la Ley Orgánica de los Municipios del Estado de Yucatán, aprobó el siguiente:
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+C. LAE. GILBERTO ALONSO NAVARRETE VÁZQUEZ PRESIDENTE DEL AYUNTAMIENTO DE PETO, A LOS HABITANTES DEL MUNICIPIO DEL MISMO NOMBRE HAGO SABER: Que el H. Ayuntamiento que presido, con fundamento en el Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 85 fracción V de la Constitución del Estado de Yucatán y los Artículo (sic) 40, 41 inciso A) fracción III, 77, y 78 párrafo primero de la Ley de Gobierno de los Municipios del Estado de Yucatán; aprobó el siguiente:
 
 "REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE PETO".
 
@@ -73,7 +75,9 @@ V.- A los Integrantes de la Dirección de Policía Municipal de Peto; y
 
 VI.- A los demás servidores públicos que se indiquen en el presente Reglamento y demás ordenamientos legales aplicables.
 
-El o los regidores comisionados en las materias de Seguridad Pública y Tránsito, ejercerán sus funciones de conformidad con lo que establece la Ley de Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El o los regidores comisionados en las materias de Seguridad Pública y Tránsito, ejercerán sus funciones de conformidad con lo que establece la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### Artículo 5.
 
@@ -83,7 +87,7 @@ El Ayuntamiento de Peto ejercerá las funciones ejecutivas señaladas en este Re
 
 a) Determinar el número de Jueces Calificadores en el Municipio de acuerdo al número de habitantes en el Municipio;
 
-b) Conocer del Recurso de Revisión respecto de los actos y resoluciones que emitan los Jueces Calificadores, en términos de la Ley Orgánica de los Municipios del Estado de Yucatán;
+b) (DEROGADO, D.O. 1 DE SEPTIEMBRE DE 2006)
 
 c) Nombrar a los Jueces Calificadores a propuesta del Presidente Municipal, así como removerlos por causa justificada; y
 
@@ -305,7 +309,9 @@ VII.- Producir o causar ruidos por cualquier medio que notoriamente atenten cont
 
 VIII.- Orinar o defecar en la vía pública, lugares públicos, inmuebles ruinosos, en desuso o baldíos y demás lugares señalados en el artículo 7 del presente reglamento;
 
-IX.- Arrojar, tirar, quemar o abandonar en la vía pública basura, animales vivos o muertos, desechos u objetos peligrosos para la salud de las personas;
+> <small>(REFORMADA, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Arrojar, tirar, quemar o abandonar en la vía pública o en predio ajeno, basura, animales vivos o muertos, desechos u objetos peligrosos para la salud de las personas, o hacerlo en el propio causando perjuicio a los vecinos;
 
 X.- Detonar o encender cohetes, juegos pirotécnicos, fogatas o elevar aeróstatos, sin permiso de la autoridad competente;
 
@@ -317,7 +323,9 @@ XIII.- Impedir o estorbar de cualquier forma siempre que no exista permiso ni ca
 
 XIV. Dañar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o privados, estatuas, monumentos, postes, arbotantes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, plazas, parques, jardines u otros bienes semejantes o cualquier clase de señalamiento que indique vialidad o nomenclatura;
 
-XV.- Cortar, destruir, mutilar o dañar el ornato de cualquier lugar público;
+> <small>(REFORMADA, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+XV.- Cortar, destruir, mutilar o dañar el ornato de cualquier lugar público o un predio ajeno sin consentimiento del que deba darlo;
 
 XVI.- Realizar en las plazas, jardines, calles y demás lugares públicos, cualquier clase de actividades que constituyan un riesgo para la comunidad;
 
@@ -407,7 +415,9 @@ II.- La organización de la participación vecinal para la prevención de las in
 
 III.- La promoción de una cultura ciudadana integral que busque la convivencia armónica y pacífica de los habitantes del Municipio.
 
-Así mismo el Ayuntamiento aprobará la creación de un consejo Consultivo de Seguridad Pública en el Municipio de Peto que será un organismo auxiliar de las autoridades encargadas de la aplicación y observancia del presente Reglamento en los términos de la Ley de Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Así mismo el Ayuntamiento aprobará la creación de un consejo Consultivo de Seguridad Pública y Tránsito en el Municipio de Peto que será un organismo de consulta de las Autoridades encargadas de la aplicación y observancia del presente Reglamento en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Su funcionamiento interno, facultades y obligaciones se regirán conforme al Acuerdo de su creación que emita el Ayuntamiento de Peto.
 
@@ -429,9 +439,13 @@ Las Autoridades Municipales, para hacer cumplir sus determinaciones contarán co
 
 I.- Apercibimiento;
 
-II.- Multas; y
+II.- Multas; y (sic)
 
-III.- Auxilio de la fuerza pública.
+III.- Auxilio de la fuerza pública;
+
+> <small>(ADICIONADA, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Arresto hasta por 24 horas.
 
 ###### Artículo 26.
 
@@ -473,9 +487,17 @@ IV.- De la fracción XXVI a la XXXVI, del artículo 16 con arresto inconmutable 
 
 Para estos efectos se considerará que existe reincidencia, cuando el infractor considerado como tal por resolución definitiva, cometa nuevamente una infracción de la misma naturaleza dentro del plazo de noventa días contados a partir de que la resolución anterior quede firme.
 
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 33.
 
-Las personas a quienes se haya impuesto una sanción, podrán optar en hacer valer el recurso de inconformidad, ante el propio juzgador, dentro de los diez días naturales siguientes a la notificación personal. Desde que se admite el recurso de inconformidad se suspenderá la ejecución del acuerdo recurrido si la solicita el recurrente y otorga, para garantizar el interés fiscal, en su caso, fianza o depósito en la Tesorería Municipal o en alguna institución legalmente autorizada. El juzgador tramitará y resolverá este recurso conforme a la Ley Orgánica de los Municipios del Estado de Yucatán.
+Las personas a quienes se haya impuesto una sanción, podrán optar en hacer valer el recurso de inconformidad, ante el propio juzgador, dentro de los diez días naturales siguientes a la notificación personal o recurrir directamente al recurso de revisión ante el Tribunal de lo Contencioso Administrativo Municipal, o en su defecto, ante el Tribunal de lo Contencioso Administrativo del Estado de Yucatán, en igual término, cubriendo los requisitos legales que señala la Ley de Gobierno de los municipios del Estado de Yucatán. Desde que se admite el recurso de inconformidad se suspenderá la ejecución del acuerdo recurrido si la solicita el recurrente y otorga, para garantizar el interés fiscal, en su caso, fianza o depósito en la Tesorería Municipal o en alguna institución legalmente autorizada.
+
+> <small>(ADICIONADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 33 Bis.
+
+Interpuesto el recurso de inconformidad, el Juez Calificador en una audiencia oral, lo tramitará y resolverá de plano.
 
 ###### Artículo 34.
 
@@ -613,9 +635,11 @@ Una vez levantada el acta correspondiente, será firmada por los comparecientes 
 
 ###### Artículo 56.
 
-Cometida alguna infracción a lo previsto en este Reglamento o a otros ordenamientos municipales, los integrantes de la Policía Municipal procederán:
+Cometida alguna Infracción a lo previsto en este Reglamento o a otros ordenamientos municipales, los integrantes de la Policía Municipal procederán:
 
-I.- A entregar una boleta de infracción a la persona que cometió violaciones a alguna de las fracciones I, II, III, IV, V, VI, VII, XVIII, XIX, XXI y XXIV del artículo 16; siendo necesario, que la persona a quien se le entregue la boleta, presente identificación ante el elemento de la policía. Quedando obligado a comparecer ante el Juez Calificador en un plazo de tres días naturales para la calificación de la infracción en términos de este Reglamento, en caso de inasistencia injustificada el Juez Calificador utilizará las medidas de apremio para presentar al infractor. Si la persona persiste en la conducta motivo de la infracción, será puesto a disposición del Juez Calificador; y
+> <small>(REFORMADA, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+I.- A entregar una boleta de infracción a la persona que cometió violaciones a alguna de las fracciones I, II, III, IV, V, VI, VII, IX, XIX, XXI y XXIV del artículo 16; siendo necesario, que la persona a quien se le entregue la boleta, presente identificación ante el elemento de la policía. Quedando obligado a comparecer ante el Juez Calificador en un plazo de tres días naturales para la calificación de la infracción en términos de este Reglamento, en caso de inasistencia injustificada el Juez Calificador utilizará las medidas de apremio para presentar al infractor. Si la persona persiste en la conducta motivo de la infracción, será puesto a disposición del Juez Calificador; y
 
 II.- En los demás casos, cuando exista reincidencia, la persona se niegue a identificarse en los términos de la fracción anterior o destruya la boleta en presencia de los integrantes de la Policía Municipal, será puesto inmediatamente a disposición del Juez Calificador por la Policía Municipal mediante un acta en que se establezcan los motivos de su detención. Toda persona que sea puesta a disposición del Juez Calificador será sujeta a examen médico para certificar su estado físico y mental.
 
@@ -661,9 +685,11 @@ En todo caso, las sanciones serán impuestas previa audiencia de los interesados
 
 Cuando exista una queja ciudadana se citará al presunto infractor dentro de las setenta y dos horas al conocimiento de la falta, en la que se le informarán los motivos de su comparecencia, el derecho de estar asistido de asesor jurídico y los medios de apremio en caso de inasistencia; siguiéndose el procedimiento establecido en la fracción IV y V del artículo 57 de este Reglamento.
 
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 60.
 
-Si a juicio del juez Calificador no fuera procedente la queja ciudadana, deberá comunicarlo por escrito al querellante. Ante la resolución que determine la improcedencia de la queja, procederá el recurso de inconformidad. Contra las resoluciones dictadas en los recursos de inconformidad, procede el recurso de revisión que se interpondrá por escrito ante el Ayuntamiento.
+Si a juicio del juez Calificador no fuera procedente la queja ciudadana, deberá comunicarlo por escrito al querellante. Ante la resolución que determine la improcedencia de la queja, procederá el recurso de inconformidad, ante el propio juzgador; salvo de que el interesado opte por recurrir directamente al Tribunal de lo Contencioso Administrativo Municipal, o en su defecto, ante el Tribunal de lo Contencioso Administrativo del Estado de Yucatán, a través del recurso de revisión que se interpondrá por escrito ante el Tribunal de lo Contencioso Administrativo del Estado de Yucatán.
 
 ###### Artículo 61.
 
@@ -721,13 +747,17 @@ La prescripción será hecha valer de oficio o a instancia de parte por el juez.
 
 ### CAPITULO IV (SIC). DE LOS RECURSOS
 
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 73.
 
-Contra los actos y resoluciones de la autoridad que imponga las sanciones a que este Reglamento se refiere, el interesado podrá interponer los recursos que señala la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra los actos y resoluciones de la autoridad que imponga las sanciones a que este Reglamento se refiere, el interesado podrá interponer los recursos que señala la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 74.
 
-Los infractores sancionados al interponer los recursos previstos en la Ley Orgánica de los Municipios del Estado de Yucatán, que encontrándose detenidos depositen previamente el importe de la sanción económica, obtendrán de inmediato su libertad.
+Los infractores sancionados al interponer los recursos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, que encontrándose detenidos depositen previamente el importe de la sanción económica, obtendrán de inmediato su libertad.
 
 ## TRANSITORIOS
 
@@ -752,3 +782,9 @@ PRESIDENTE DEL H. AYUNTAMIENTO
 C. VICENTE BAUTISTA Y LÓPEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 1 DE SEPTIEMBRE DE 2006.
+
+PRIMERO: Las presentes Reformas y Adiciones al Reglamento de Policía y Buen Gobierno del Municipio de Peto, Yucatán; entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
