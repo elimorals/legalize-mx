@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2005-05-24"
+last_updated: "2006-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -43,9 +43,9 @@ La justicia se imparte en nombre del pueblo y se administra por el Estado a trav
 
 El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde exclusivamente a los órganos del Poder Judicial en los negocios que les encomienden las leyes, según los procedimientos que las mismas establezcan.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-El Tribunal Electoral será, con excepción de lo dispuesto en el artículo 158 de la Constitución Política del Estado, la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial, en los términos que establece el artículo 136 de esa Constitución y demás disposiciones aplicables.
+El Tribunal Electoral, con excepción de lo dispuesto en el artículo 158 de la Constitución Política del Estado, el Tribunal de lo Contencioso-Administrativo y el Tribunal de Apelación Especializado en materia de Adolescentes, serán máximas autoridades jurisdiccionales en la materia y órganos especializados del Poder Judicial; los dos primeros en los términos que establece el artículo 136 de dicha Constitución y el último por imperativo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en las demás leyes aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -61,23 +61,39 @@ I.- El Tribunal Superior de Justicia;
 
 II.- El Tribunal Electoral;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+III.- El Tribunal de lo Contencioso-Administrativo;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- El Tribunal de Apelación Especializado en materia de Adolescentes;
+
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-III.- Los Tribunales Unitarios de Distrito;
+V.- Los Tribunales Unitarios de Distrito;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Los Juzgados de Primera Instancia, que en razón de la materia serán:
+VI.- Los Juzgados de Primera Instancia, que en razón de la materia serán:
 
 a).- Civiles;
 
 b).- Familiares;
 
-c).- Penales; y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-d).- Mixtos, cuando deban conocer de dos o más materias;
+c).- Penales;
 
-V.- Los Juzgados Letrados, que en razón de la materia serán:
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+d).- Mixtos, cuando deban conocer de dos o más materias; y
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+e).- De Adolescentes.
+
+VII.- Los Juzgados Letrados, que en razón de la materia serán:
 
 a).- Civiles;
 
@@ -85,15 +101,13 @@ b).- Penales; y
 
 c).- Mixtos, cuando deban conocer de ambas materias;
 
-V.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- El Consejo de la Judicatura; y,
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-VI.- El Consejo de la Judicatura; y,
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-VII.- Por los demás órganos que con cualquier otra denominación determinen las leyes o sean creados por las autoridades competentes.
+IX.- Por los demás órganos que con cualquier otra denominación determinen las leyes o sean creados por las autoridades competentes.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -193,9 +207,9 @@ El Tribunal Superior de Justicia del Estado, estará integrado por siete Magistr
 
 Será presidente, uno de los magistrados numerarios, designado por el Pleno, quien no integrará Sala durante el tiempo que dure su encargo.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-El Tribunal Electoral resolverá, en única instancia, de manera definitiva e inatacable, los asuntos de su competencia, en los términos previstos por el artículo 136 de la Constitución Política del Estado y demás disposiciones aplicables.
+El Tribunal Electoral y el Tribunal de lo Contencioso-Administrativo, se integrarán en los términos previstos por el artículo 136 de la Constitución Política del Estado y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -397,9 +411,9 @@ XI.- Recibir las quejas motivadas por demoras o faltas en el despacho de los neg
 
 XII.- Dar cuenta al Pleno del Tribunal de las demandas de responsabilidad civil que se presenten en contra de los Magistrados del Tribunal Superior, así como al Consejo de la Judicatura respecto de aquéllas, así como de las que se presenten en contra de los demás servidores públicos del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada hasta por quince días, a los Magistrados Unitarios de Distrito, a los jueces y a los demás empleados del Tribunal que no dependan de las Salas o del Tribunal Electoral. Esta facultad podrá delegarse al Oficial Mayor del Poder Judicial, con excepción de las relativas a las licencias que correspondan a los Magistrados y Jueces;
+XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada hasta por quince días, a los Magistrados Unitarios de Distrito, a los Jueces y a los demás empleados del Poder Judicial que no dependan de las Salas, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo o del Tribunal de Apelación Especializado en materia de Adolescentes. Esta facultad podrá delegarse al Oficial Mayor del Poder Judicial, con excepción de las relativas a las licencias que correspondan a los Magistrados y Jueces;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -785,15 +799,271 @@ Para tal efecto anterior, serán aplicables las disposiciones que esta ley estab
 
 Además de lo dispuesto en este capítulo, son aplicables al Tribunal Electoral, a sus magistrados y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO IV TER. DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-H.
+
+El Tribunal de lo Contencioso-Administrativo es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y plena jurisdicción, en los términos que establece el artículo 136 de la Constitución Política del Estado y demás disposiciones aplicables.
+
+El Tribunal de lo Contencioso-Administrativo funcionará con una Sala Superior y con las Salas Distritales que se requieran conforme a las necesidades del servicio y al presupuesto anual de egresos respectivo.
+
+La Sala Superior es el órgano supremo del Tribunal que estará integrada por tres Magistrados numerarios y tres Magistrados supernumerarios y tendrá su residencia en la capital del Estado. Contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal que se requiera para el servicio, de acuerdo con el presupuesto de egresos correspondiente.
+
+Las Salas Distritales tendrán la residencia y jurisdicción que determine el Consejo de la Judicatura y estarán integradas por un Magistrado numerario y un Magistrado supernumerario. Contarán con un Secretario de Acuerdos, los Secretarios de Estudio y Cuenta, Actuarios y personal administrativo que requieran para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-I.
+
+Corresponde a la Sala Superior del Tribunal de lo Contencioso-Administrativo, en lo general:
+
+I. Conocer y resolver de los asuntos de su competencia en los términos previstos por el artículo 136 de la Constitución Política del Estado y demás leyes aplicables.
+
+II. Dictar, en la esfera de su competencia, las providencias necesarias para que la administración de la justicia contenciosa administrativa sea eficaz, pronta y expedita.
+
+III. Elegir, en escrutinio secreto, al Presidente del Tribunal de lo Contencioso Administrativo, quien será también Presidente de la Sala Superior.
+
+IV. Calificar los impedimentos, las recusaciones y las excusas de los Magistrados propietarios del Tribunal de lo Contencioso-Administrativo, en los asuntos de su respectiva competencia y, en su caso, designar a los Magistrados supernumerarios que deban sustituirlos.
+
+V. Resolver los recursos que se presenten en contra de las resoluciones que dicten las Salas Distritales, en los términos que para el efecto determine la ley de la materia.
+
+VI. Nombrar y remover al personal de la Sala Superior, en los términos que señala esta ley.
+
+La propuesta para ocupar los cargos de Secretario General de Acuerdos y de los Actuarios de la Sala Superior la hará su Presidente. La propuesta de los Secretarios de Estudio y Cuenta la harán los Magistrados a los que hayan de estar adscritos. El personal auxiliar de base y/o de confianza será designado por el Presidente de la Sala Superior.
+
+VII. Proponer al Consejo de la Judicatura, por conducto de su Presidente, la adscripción de los Magistrados de las Salas Distritales.
+
+VIII. Resolver los conflictos de competencia que se susciten entre las Salas.
+
+IX. Proponer al Consejo de la Judicatura el personal judicial que se haga acreedor a recibir estímulos y recompensas.
+
+X. Conceder licencias económicas al personal de su adscripción, con goce de sueldo o sin él, de más de cinco y hasta por quince días. Toda solicitud de licencia requiere causa justificada y las de los Secretarios de Estudio y Cuenta además, autorización del Magistrado al cual estén adscritos.
+
+XI. Proponer al Consejo de la Judicatura, el proyecto del Reglamento Interior del Tribunal de lo Contencioso-Administrativo y demás acuerdos generales para regular su organización y funcionamiento interno.
+
+XII. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-J.
+
+Corresponde al Presidente del Tribunal de lo Contencioso-Administrativo:
+
+l. Representar legalmente al Tribunal y a la Sala Superior ante toda clase de autoridades federales, estatales y municipales, para el cumplimiento de sus funciones, con todas las facultades, aún las que requieran cláusula especial.
+
+II. Distribuir por turnos, los asuntos de la competencia de la Sala Superior entre los Magistrados que la integran, para que los instruyan hasta ponerlos en estado de resolución con el proyecto respectivo.
+
+Los proveídos y acuerdos de los Magistrados instructores, podrán ser reclamados ante la Sala Superior, dentro del término de veinticuatro horas siguientes contadas a partir de que surta efectos la notificación de la resolución de que se trate, siempre que la reclamación se presente por alguna de las partes con motivo fundado. Dicha reclamación se resolverá de plano.
+
+III. Presidir las sesiones, dirigir la discusión de los negocios sometidos al conocimiento de la Sala Superior, ponerlos a votación cuando declare cerrado el debate y conservar el orden durante las audiencias.
+
+IV. Dar a la Secretaría General de Acuerdos, los puntos que comprendan a las disposiciones resolutivas votadas y aprobadas.
+
+V. Llevar la correspondencia del Tribunal y de la Sala Superior autorizándola con su firma.
+
+VI. Aprobar las cuentas de los gastos de oficina, dando razón pormenorizada de ello cada mes al Consejo de la Judicatura del Estado.
+
+VII. Vigilar que los Secretarios, Actuarios y demás personal adscrito al Tribunal de lo Contencioso-Administrativo, cumplan con sus deberes y dar cuenta a la Sala Superior de los casos de inobservancia.
+
+VIII. Conceder permisos económicos, con goce de sueldo o sin él, al personal de la Sala Superior hasta por cinco días. Los permisos a los Secretarios de Estudio y Cuenta, requerirán autorización del Magistrado al cual se encuentren adscritos.
+
+IX. Rendir por escrito al Consejo de la Judicatura del Estado, un informe anual de las labores desarrolladas por el Tribunal de lo Contencioso-Administrativo.
+
+X. Llevar el turno de los Magistrados supernumerarios del Tribunal de lo Contencioso Administrativo, haciendo las designaciones correspondientes para suplir las faltas temporales o definitivas de los Magistrados numerarios, según lo acuerde la Sala Superior.
+
+XI. Autorizar con su firma, en unión a la del Secretario General de Acuerdos, los proveídos que emita y las actas de las sesiones de la Sala Superior.
+
+XII. Expedir oportunamente los nombramientos que acuerde la Sala Superior.
+
+XIII. Seleccionar y enviar mensualmente al Presidente del Tribunal Superior de Justicia, los criterios jurisprudenciales o aislados que apruebe el Tribunal de lo Contencioso Administrativo, en los términos que establece esta ley, para su publicación en el Boletín de Información Judicial.
+
+XIV. Formar parte del Consejo de la Judicatura del Estado con voz y voto, únicamente para los asuntos relacionados con el Tribunal de lo Contencioso-Administrativo.
+
+XV. Las demás que le encomienden esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-K.
+
+La Sala Superior del Tribunal de lo Contencioso-Administrativo funcionará conforme a las bases siguientes:
+
+I. De entre los tres Magistrados numerarios que lo integran, elegirán por voto secreto al Presidente del Tribunal de lo Contencioso-Administrativo, quien también lo será de la Sala Superior y durará en el cargo tres años, pudiendo ser reelecto por igual período.
+
+II. Las sesiones en donde tenga verificativo la resolución de un asunto de su competencia, se sujetarán a las bases siguientes:
+
+1. Serán públicas, excepto cuando sus integrantes determinen que deban ser secretas por que estimen que se afecta la moral o el orden público.
+
+2. Abierta la sesión pública por el Presidente, el Secretario General de Acuerdos verificará el quórum legal.
+
+3. Enseguida, el Magistrado ponente hará una síntesis del asunto a tratar y explicará las consideraciones que fundamentan el proyecto de resolución.
+
+4. A continuación, los Magistrados procederán analizar y, en su caso, discutir el proyecto presentado por el Magistrado ponente. En su caso, se dará lectura a determinadas constancias cuando así lo requiera alguno de los Magistrados.
+
+5. Cuando el Presidente de la Sala Superior estime suficientemente discutido el proyecto, lo someterá a votación. El Secretario General de Acuerdos certificará la votación.
+
+6. El Magistrado que disienta de la mayoría podrá formular observaciones o un voto particular, que se agregará a la resolución si así lo solicita y lo presenta por escrito dentro de las cuarenta y ocho horas siguientes.
+
+7. Si el proyecto del Magistrado ponente no fuere aprobado, se designará uno de los de la mayoría para que redacte la sentencia de acuerdo con los hechos probados y los fundamentos legales que se hayan tomado en consideración en la discusión, debiendo quedar firmado el engrose dentro de los cinco días siguientes.
+
+8. Los asuntos se fallarán en el orden en que se enlisten. Si no pudieren ser despachados en la audiencia todos los asuntos listados los restantes, figurarán en la lista siguiente en primer término, sin perjuicio de que la Sala Superior, en su caso, acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la vista del mismo, cuando exista causa justificada. El aplazamiento no podrá exceder de diez días.
+
+9. El Secretario General de Acuerdos levantará el acta de cada sesión que contendrá una síntesis de los asuntos aprobados.
+
+10. Al día siguiente de la sesión, el Secretario General de Acuerdos publicará en los estrados la lista de los asuntos resueltos.
+
+III. Las sesiones ordinarias tendrán verificativo por lo menos un día hábil de cada semana, sin perjuicio de las sesiones extraordinarias que al efecto convoque el Presidente. Para la celebración de las sesiones se requerirá la presencia de los tres Magistrados; en consecuencia, si algún Magistrado numerario se encuentra ausente, deberá llamarse de inmediato al supernumerario que corresponda para que lo supla en la sesión.
+
+IV. Las resoluciones serán tomadas por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación conforme a la ley de la materia, que previamente calificará la propia Sala Superior. En este caso, el Presidente llamará al Magistrado supernumerario que corresponda, para que supla la ausencia temporal del Magistrado numerario de que se trate.
+
+Cada Magistrado será ponente de los asuntos que le sean turnados.
+
+V. Las resoluciones definitivas llevarán la firma de los Magistrados presentes en la sesión y del Secretario General de Acuerdos de la Sala Superior. Los acuerdos de trámite y sustanciación llevarán sólo la firma del Magistrado instructor y la del Secretario General de Acuerdos.
+
+VI. Los votos particulares y las observaciones por escrito deberán ser firmadas por el Magistrado que los formule y, en su caso, formarán parte de la resolución que corresponda.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-L.
+
+El Tribunal de lo Contencioso-Administrativo funcionará con las Salas Distritales de Saltillo y de Torreón, así como las que considere necesarias el Consejo de la Judicatura, de acuerdo con los requerimientos del servicio y la disponibilidad del presupuesto de egresos correspondiente. El acuerdo que determine el establecimiento de las Salas Distritales fijará su competencia territorial y deberá publicarse en el Boletín Judicial, así como en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-M.
+
+Son atribuciones de los Magistrados de las Salas Distritales:
+
+l. Dictar las resoluciones de los asuntos de su competencia.
+
+II. Despachar la correspondencia de la Sala de su adscripción.
+
+III. Hacer uso de los medios de apremio y aplicar las medidas disciplinarias que se establezcan en la ley de la materia, para que se cumplan sus determinaciones y para mantener el buen orden en el desarrollo de las audiencias o diligencias, exigiendo el respeto y consideración debidos.
+
+IV. Rendir anualmente un informe al Presidente del Tribunal de lo Contencioso Administrativo respecto de las labores de las Salas y de las principales resoluciones dictadas por ellas.
+
+V. Imponer las correcciones disciplinarias al personal adscrito a la misma, en los términos de las disposiciones aplicables.
+
+VI. Conceder licencias económicas por causa justificada, con goce de sueldo o sin él, hasta por quince días al personal que dependa de la Sala.
+
+VII. Las demás que le señale la Sala Superior y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-N.
+
+Todas las disposiciones previstas en esta ley en materia de jurisdicción disciplinaria, responsabilidades administrativas y carrera judicial, serán aplicables al personal del Tribunal de lo Contencioso-Administrativo, bajo las modalidades siguientes:
+
+I. La carrera judicial contencioso administrativa se desarrollará en los términos que establezca el Consejo de la Judicatura, conforme a las disposiciones aplicables.
+
+II. Las quejas administrativas en contra de los Magistrados de la Sala Superior y de las Salas Distritales del Tribunal de lo Contencioso-Administrativo, las conocerá y resolverá el Consejo de la Judicatura en los términos que establece esta ley.
+
+III. Las quejas administrativas en contra del Secretario General de Acuerdos, de los Secretarios de Estudio y Cuenta y de los Actuarios de la Sala Superior, las conocerá y resolverá la propia Sala Superior, en los términos que establece esta ley.
+
+IV. Las quejas administrativas en contra del demás personal del Tribunal de lo Contencioso-Administrativo, las conocerá y resolverá su Presidente, en los términos que establece esta ley.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25
+
+0.- Además de lo dispuesto en este capítulo, son aplicables al Tribunal de lo Contencioso-Administrativo, a sus Magistrados y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO IV QUARTER. DEL TRIBUNAL DE APELACION ESPECIALIZADO EN MATERIA DE ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPITULO V. DE LOS TRIBUNALES UNITARIOS DE DISTRITO
 
+###### ARTICULO 25-P.
+
+El Tribunal de Apelación Especializado en materia de Adolescentes es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y plena jurisdicción, en los términos que establece esta ley y demás disposiciones aplicables.
+
+El Tribunal de Apelación Especializado en materia de Adolescentes estará integrado por un Magistrado numerario y un Magistrado supernumerario y tendrá su residencia en la capital del Estado. Contará con un Secretario General de Acuerdos y los Secretarios, Actuarios y demás personal necesario para el cumplimiento de sus funciones, de acuerdo con el presupuesto de egresos correspondiente.
+
+El Magistrado numerario y el Magistrado supernumerario serán designados por el Consejo de la Judicatura del Estado, los que deberán reunir los requisitos que para ser Magistrados Unitarios de Distrito establece esta ley, además de contar con conocimientos en la materia penal y en la prevención y tratamiento de la conducta de los adolescentes.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-Q.
+
+Corresponde al Tribunal de Apelación Especializado en materia de Adolescentes, en lo general:
+
+I. Conocer y resolver de los asuntos de su competencia en los términos previstos por la Ley de Justicia para Adolescentes del Estado y demás leyes aplicables.
+
+II. Dictar, en la esfera de su competencia, las providencias necesarias para que la administración de la justicia en materia de adolescentes sea eficaz, pronta y expedita.
+
+III. Calificar los impedimentos, las recusaciones y las excusas de los Jueces de Primera Instancia en materia de Adolescentes, en los asuntos de su respectiva competencia y, en su caso, designar a los Jueces que deban sustituirlos.
+
+IV. De los conflictos de competencia que se susciten entre los Jueces de Instancia en materia de Adolescentes.
+
+V. Resolver de manera definitiva e inatacable los recursos que se presenten en contra de las resoluciones que dicten los Jueces de Primera Instancia en materia de Adolescentes, en los términos que para el efecto determine la ley de la materia.
+
+VI. Compilar los criterios que emanen de las resoluciones que dicte en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas por otra en contrario se sostenga el mismo criterio constituirán jurisprudencia obligatoria para los Jueces de Primera Instancia en materia de Adolescentes.
+
+VII. Nombrar y remover al personal del Tribunal de Apelación Especializado en materia de Adolescentes, en los términos que señala esta ley.
+
+VIII. Proponer al Consejo de la Judicatura el personal judicial que se haga acreedor a recibir estímulos y recompensas.
+
+IX. Conceder licencias económicas al personal de su adscripción, con goce de sueldo o sin él, de más de cinco y hasta por quince días. Toda solicitud de licencia requiere causa justificada.
+
+X. Proponer al Consejo de la Judicatura el proyecto del Reglamento Interior del Tribunal de Apelación Especializado en materia de Adolescentes y demás acuerdos generales para regular su organización y funcionamiento interno.
+
+XI. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-R.
+
+Corresponde al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes:
+
+l. Representar legalmente al Tribunal ante toda clase de autoridades federales, estatales y municipales, para el cumplimiento de sus funciones, con todas las facultades, aún las que requieran cláusula especial.
+
+II. Instruir los asuntos de su competencia hasta ponerlos en estado de resolución.
+
+III. Dar a la Secretaría General de Acuerdos, los puntos que comprendan a las resoluciones definitivas dictadas, para los efectos correspondientes.
+
+IV. Llevar la correspondencia del Tribunal autorizándola con su firma.
+
+V. Aprobar las cuentas de los gastos de oficina, dando razón pormenorizada de ello cada mes al Consejo de la Judicatura del Estado.
+
+VI. Vigilar que los Secretarios, Actuarios y demás personal adscrito al Tribunal, cumplan con sus deberes.
+
+VII. Conceder permisos económicos, con goce de sueldo o sin él, al personal del Tribunal.
+
+VIII. Rendir por escrito al Consejo de la Judicatura del Estado, un informe anual de las labores desarrolladas por el Tribunal de Apelación Especializado en materia de Adolescentes.
+
+IX. Autorizar con su firma, en unión a la del Secretario General de Acuerdos, los proveídos que emita.
+
+X. Enviar mensualmente al Presidente del Tribunal Superior de Justicia, las tesis en materia de adolescentes que serán aplicables en el Estado, para su publicación en el Boletín de Información Judicial.
+
+XI. Formar parte del Consejo de la Judicatura del Estado con voz y voto, únicamente para los asuntos relacionados con el Tribunal de Apelación Especializado en materia de Adolescentes.
+
+XII. Las demás que le encomienden esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-S.
+
+Todas las disposiciones previstas en esta ley en materia de jurisdicción disciplinaria, responsabilidades administrativas y carrera judicial, serán aplicables al personal del Tribunal de Apelación Especializado en materia de Adolescentes, bajo las modalidades siguientes:
+
+I. La carrera judicial en materia de adolescentes se desarrollará en los términos que establezca el Consejo de la Judicatura, conforme a las disposiciones aplicables.
+
+II. Las quejas administrativas en contra del Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, las conocerá y resolverá el Consejo de la Judicatura en los términos que establece esta ley.
+
+III. Las quejas administrativas en contra del Secretario General de Acuerdos, de los Secretario (sic), de los Actuarios y demás personal del Tribunal de Apelación Especializado en materia de Adolescentes, las conocerá y resolverá el Magistrado del propio Tribunal, en los términos que establece esta ley.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 25-T.
+
+Además de lo dispuesto en este capítulo, son aplicables al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
+
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA CIVILES, DE LO FAMILIAR, PENALES Y MIXTOS
-
-### CAPITULO VII. LOS JUECES LETRADOS CIVILES, PENALES Y MIXTOS
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-### CAPITULO VIII
 
 ###### ARTICULO 26.
 
@@ -871,7 +1141,9 @@ VI.- Las demás que le confiera la Ley y el Pleno del Tribunal.
 
 Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los secretarios de acuerdos, de estudio y cuenta, actuarios y demás personal que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
 
-### CAPITULO IX. DE LOS SECRETARIOS, OFICIAL MAYOR, ACTUARIOS Y DEMAS EMPLEADOS DE LA ADMINISTRACION DE JUSTICIA
+### CAPITULO VII. LOS JUECES LETRADOS CIVILES, PENALES Y MIXTOS
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 30.
 
@@ -951,47 +1223,49 @@ IV.- De las diligencias de consignación en todo lo relativo al derecho familiar
 
 V.- De la diligenciación de los exhortos, requisitorias y despachos, relacionados con el derecho familiar; y
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 VI.- De las cuestiones que afecten en sus derechos de personas a los menores e incapacitados y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
 ###### ARTICULO 36.
 
 Los Jueces Mixtos de Primera Instancia conocerán de las causas civiles, penales y de lo familiar, con las facultades y atribuciones que establecen los artículos 33, 34 y 35 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 37.
 
-Son facultades y obligaciones de los Jueces de Primera Instancia, en la esfera de su competencia:
+Los Jueces de Primera Instancia en materia de Adolescentes conocerán:
 
-I.- Practicar visitas a los Centros de Readaptación Social, cuando menos cada mes, para los efectos de la parte final del artículo 19 de la Constitución General de la República e informar a los reos sobre el estado de su proceso;
+l. De las conductas tipificadas como delitos por las leyes penales que se atribuya a personas mayores de doce y menores de dieciocho años de edad, conforme a la ley que regule la materia de justicia para adolescentes.
 
-II.- Remitir cada mes al Tribunal Superior de Justicia una relación de los procesos y procesados, expresando en ella los nombres de éstos, delito o delitos, número de la causa, así como el estado que guardan;
+II. De los demás asuntos que le competan de acuerdo con las leyes.
 
-III.- Dar aviso al Tribunal, por duplicado, a más tardar dentro del tercer día, de la iniciación de los procesos de su competencia; de lo que en término de setenta y dos horas se resuelva; de los beneficios concedidos en su caso, al inculpado; de la suspensión del procedimiento o del auto de sobreseimiento; así como de las sentencias con las que concluyan;
+Cada Juzgado de Primera Instancia en materia de Adolescentes, contará con un Juez Supernumerario designado por el Consejo de la Judicatura, que conocerá de los asuntos de esta materia en caso de procedencia de los recursos de inconformidad previstos en la Ley de Justicia para Adolescentes del Estado de Coahuila; además de los casos de excusas y recusaciones de los jueces de la materia una vez calificadas por la autoridad competente.
 
-IV.- Dar aviso al Tribunal, por duplicado, a más tardar dentro del tercer día, de la iniciación de los juicios civiles de su competencia; de los autos definitivos que les pongan término; de los que ordenan su archivo provisional en espera de su promoción y de los que citen para sentencia; así como de la sentencia con la que concluyan;
-
-V.- Practicar las diligencias que el Pleno o la Sala del Tribunal, los Tribunales Unitarios o los jueces del Estado, les soliciten en auxilio judicial, así como las que con el mismo carácter les sean solicitadas por los Tribunales de la Federación y de otras entidades de la República;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-VI.- Administrar los recursos económicos que se asignen para el funcionamiento del juzgado, conforme a los lineamientos que acuerde el Consejo de la Judicatura;
-
-VII.- (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2001)
-
-VIII.- Ejercer en términos de ley, la jurisdicción disciplinaria que le corresponde respecto de su personal; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1999)</small>
-
-IX.- Compilar sus criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento.
-
-X.- Las demás que les confieran las leyes.
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 38.
 
-Los Jueces de Primera Instancia deberán rendir al Consejo de la Judicatura, un informe estadístico mensual de asuntos iniciados, en trámite y concluidos, en los primeros cinco días de cada mes, uno anual en la fecha que les señale el Consejo, y los demás que le sean solicitados.
+Son facultades y obligaciones de los Jueces de Primera Instancia, en la esfera de su competencia:
+
+I. Practicar visitas a los Centros de Readaptación Social y de Internación, cuando menos cada mes, para los efectos de la parte final del artículo 19 de la Constitución General de la República e informar a los procesados sobre el estado de su causa;
+
+II. Remitir cada mes al Tribunal Superior de Justicia, por conducto de la Dirección de Informática, una relación de los procesos señalando su número, el nombre de las personas contra quienes se instruye, el delito o la conducta tipificada como tal, así como el estado que guarden.
+
+Los Jueces de Primera Instancia deberán rendir al Consejo de la Judicatura, un informe estadístico mensual de asuntos iniciados, en trámite y concluidos, en los primeros cinco días de cada mes, uno anual en la fecha que les señale el Consejo, y los demás que le sean solicitados;
+
+III. Practicar las diligencias que el Pleno o las Salas del Tribunal, los Tribunales Unitarios, el Tribunal de Apelación Especializado en materia de Adolescentes o los Jueces del Estado, les soliciten en auxilio judicial, así como las que con el mismo carácter les sean solicitadas por los Tribunales de la Federación y de otras entidades de la República;
+
+IV. Administrar los recursos económicos que se asignen para el funcionamiento del juzgado, conforme a los lineamientos que acuerde el Consejo de la Judicatura;
+
+V. Supervisar y, en su caso, adoptar las medidas administrativas conducentes a fin de que los servidores públicos adscritos al juzgado a su cargo, cumplan con sus facultades y obligaciones;
+
+VI. Ejercer en términos de Ley, la jurisdicción disciplinaria que le corresponde respecto de su personal;
+
+VII. Compilar sus criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento; y
+
+VIII. Las demás que les confieran las leyes.
 
 ###### ARTICULO 39.
 
@@ -999,9 +1273,7 @@ En los Juzgados de Primera Instancia habrá los Secretarios de estudio y cuenta 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-### CAPITULO I. DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO VIII
 
 ###### ARTICULO 40.
 
@@ -1037,15 +1309,15 @@ Los Jueces Letrados en Materia Penal o Mixtos, serán competentes para conocer d
 
 Los Jueces Letrados Mixtos conocerán de los asuntos a que se refieren los artículos 43 y 44 de esta ley.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 46.
 
-Son facultades y obligaciones de los Jueces Letrados, en la esfera de su competencia, las establecidas en los artículos 37, fracciones V, VIII, IX y X y 38 de esta Ley.
+Son facultades y obligaciones de los Jueces Letrados, en la esfera de su competencia, las establecidas en el artículo 38 fracciones III, V, VI, VII y VIII de esta ley.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II. DE LA CARRERA JUDICIAL
+### CAPITULO IX. DE LOS SECRETARIOS, OFICIAL MAYOR, ACTUARIOS Y DEMAS EMPLEADOS DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 47.
 
@@ -1055,7 +1327,9 @@ Son facultades y obligaciones de los Jueces Letrados, en la esfera de su compete
 
 (DEROGADO, P.O. 20 DE MARZO DE 2001)
 
-### CAPITULO III. DE LAS DESIGNACIONES
+### CAPITULO I. DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 49.
 
@@ -1165,15 +1439,15 @@ Los pasantes de cada dependencia deberán llevar un libro y cumplir con las obli
 
 ## TITULO CUARTO. DE LAS CONDICIONES PARA EJERCER LA FUNCION JUDICIAL
 
-### CAPITULO IV. DE LA PERMANENCIA EN EL CARGO
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+### CAPITULO II. DE LA CARRERA JUDICIAL
 
 ###### ARTICULO 56.
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales en los términos de esta ley. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Unitario y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. El Presidente del Tribunal Electoral formará parte del Consejo cuando se traten asuntos relativos al Tribunal que preside.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Unitario y un Juez de Primera Instancia, que serán seleccionados en cada periodo, entre los de mayor antigüedad en el ejercicio de los respectivos cargos, en la última sesión que se celebre con los consejeros que concluyan en sus funciones. El Presidente del Tribunal Electoral, el Presidente del Tribunal de lo Contencioso-Administrativo y el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes formarán parte del Consejo, cuando se traten asuntos relativos al Tribunal que presiden.
 
 Los consejeros deberán reunir los requisitos exigidos para ser magistrado y, salvo el Presidente, durarán tres años en su cargo. Por cada uno de los consejeros, habrá un suplente.
 
@@ -1207,25 +1481,27 @@ V.- Su funcionamiento interno se regirá por los reglamentos o acuerdos generale
 
 Son atribuciones del Consejo de la Judicatura las siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-I.- Nombrar y remover en los términos que señale la ley, a los Magistrados Unitarios de Distrito, Jueces de Primera Instancia, Jueces Letrados y demás personal del Poder Judicial que no dependa del Pleno, de las Salas, de la Presidencia del Tribunal Superior de Justicia o del Tribunal Electoral;
+I.- Nombrar y remover en los términos que señale la ley, a los Magistrados Unitarios de Distrito, al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, Jueces de Primera Instancia, Jueces Letrados y demás personal del Poder Judicial que no dependa del Pleno, de las Salas, de la Presidencia del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso Administrativo;
 
 II.- Crear, a propuesta del Presidente del Tribunal, según lo exijan las necesidades del servicio y lo permita el presupuesto de egresos, más órganos jurisdiccionales subalternos, cuyos titulares están facultado (sic) a nombrar según la fracción anterior;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-III.- A propuesta del Presidente del Tribunal, señalar o cambiar la adscripción de los titulares y demás servidores públicos de los órganos jurisdiccionales, con excepción de los de las Salas y del Tribunal Electoral; variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios Juzgados de Primera Instancia o Juzgados Letrados;
+III.- A propuesta del Presidente del Tribunal, señalar o cambiar la adscripción de los titulares y demás servidores públicos de los órganos jurisdiccionales, con excepción de los de las Salas, los del Tribunal Electoral, los del Tribunal de lo Contencioso-Administrativo y del Tribunal de Apelación Especializado en materia de Adolescentes; variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios Juzgados de Primera Instancia o Juzgados Letrados;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 IV.- Discutir, aprobar y/o modificar, según proceda, el proyecto del Presupuesto de Egresos que proponga el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, con excepción del que corresponde al Tribunal Superior de Justicia y sus Salas.
 
-En todo caso el proyecto de presupuesto de egresos, deberá contener las partidas suficientes para el funcionamiento del Tribunal Electoral como órgano jurisdiccional especializado, así como para cuando éste funcione como órgano jurisdiccional auxiliar de las Salas del Tribunal Superior de Justicia, en los términos que lo acuerde el Pleno del Tribunal Superior de Justicia conforme a las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+En todo caso el proyecto de presupuesto de egresos, deberá contener las partidas suficientes para el funcionamiento del Tribunal Electoral, del Tribunal de lo Contencioso Administrativo y del Tribunal de Apelación Especializado en materia de Adolescentes como órganos jurisdiccionales especializados; así como para cuando el primero de ellos funcione como órgano jurisdiccional auxiliar de las Salas del Tribunal Superior de Justicia, en los términos que lo acuerde el Pleno del Tribunal Superior de Justicia conforme a las disposiciones aplicables;
 
-V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorias especiales, o las visitas de inspección ordinarias o extraordinarias al Tribunal Electoral, a los Tribunales Unitarios de Distrito, a los Juzgados de Primera Instancia y a los Jueces Letrados, con objeto de proveer una mejor administración de justicia. En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima. En el caso de los Juzgados Letrados, la práctica de visitas también podrá encomendarse a los Magistrados Unitarios de Distrito o a los Jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorías especiales, o las visitas de inspección ordinarias o extraordinarias al Tribunal Electoral, al Tribunal de lo Contencioso-Administrativo, al Tribunal de Apelación Especializado en materia de Adolescentes, a los Tribunales Unitarios de Distrito, a los Juzgados de Primera Instancia y a los Jueces Letrados, con objeto de proveer una mejor administración de justicia. En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima. En el caso de los Juzgados Letrados, la práctica de visitas también podrá encomendarse a los Magistrados Unitarios de Distrito o a los Jueces de Primera Instancia;
 
 VI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia, con excepción de aquellas que sean competencia del Pleno del Tribunal Superior de Justicia;
 
@@ -1269,11 +1545,13 @@ El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior d
 
 El Consejo de la Judicatura contará con un Secretario de Acuerdo y Trámite, con los Secretarios de Estudio y Cuenta y demás personal que sea necesario y autorice el presupuesto. Los secretarios deberán satisfacer los mismos requisitos que esta ley señala para los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta, respectivamente, quienes tendrán el escalafón que corresponde a los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta de las Salas.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 58.
 
-Cuando deban designarse magistrados del Tribunal Superior de Justicia o del Tribunal Electoral, el Consejo propondrá al Gobernador del Estado, las respectivas listas de candidatos, en los términos de lo dispuesto por el artículo 146 de la Constitución Política del Estado.
+Cuando deban designarse Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, el Consejo propondrá al Gobernador del Estado, las respectivas listas de candidatos, en los términos de lo dispuesto por el artículo 146 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 Para la formulación de las listas a que se refiere el párrafo anterior, el Consejo de la Judicatura cuidará que los propuestos satisfagan los requisitos correspondientes, prefiriendo en todo caso a aquellas personas que estén prestando o hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad y competencia, ampliamente acreditada en el ejercicio de la profesión de abogado.
 
@@ -1285,7 +1563,7 @@ Para la formulación de las listas a que se refiere el párrafo anterior, el Con
 
 El Consejo de la Judicatura vigilará el estricto cumplimiento de las garantías constitucionales de la jurisdicción comprendidas en el ámbito de aplicación de esta Ley. En consecuencia, podrá solicitar ante la autoridad competente el cumplimiento estricto de las bases que regulan la carrera judicial; denunciar ante la propia autoridad todo acto arbitrario que afecte la permanencia de su cargo a cualquier miembro del Poder Judicial que en su concepto mantenga las cualidades o atributos que dieron lugar a su nombramiento y solicitar el ejercicio de la jurisdicción disciplinaria por la conducta de aquellos que así lo ameriten.
 
-### CAPITULO V. DE LAS INCOMPATIBILIDADES
+### CAPITULO III. DE LAS DESIGNACIONES
 
 ###### ARTICULO 61.
 
@@ -1319,9 +1597,9 @@ V.- Los ascensos del escalafón sólo podrán hacerse con la voluntad del intere
 
 VI.- El Consejo de la Judicatura será la única autoridad facultada para formalizar el examen de conocimientos y acordar nombramientos y ascensos en los términos que establece esta ley;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-VII.- Todos los Magistrados de los Tribunales Unitarios de Distrito, Jueces, Secretarios y Actuarios serán numerados en los escalafones correspondientes a sus especialidades civil, familiar y penal;
+VII.- Todos los Magistrados de los Tribunales Unitarios de Distrito, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, los Jueces, los Secretarios y Actuarios serán numerados en los escalafones correspondientes a sus especialidades, civil, familiar, penal y de adolescentes;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1343,37 +1621,49 @@ XI.- Las promociones escalafonarias serán públicas, para que soliciten su asce
 
 XII.- Los servidores de la administración de justicia de carrera, disfrutarán de sueldos iguales cuando estén comprendidos en la misma categoría;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-XIII.- Para los efectos de la carrera judicial electoral, se tomarán en cuenta las bases establecidas en este artículo y lo que disponga en lo particular el Consejo de la Judicatura;
+XIII.- Para los efectos de la carrera judicial electoral, contenciosa-administrativa y de adolescentes se tomarán las bases establecidas en este artículo y lo que disponga en particular el Consejo de la Judicatura;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-XIV.- Los servidores públicos del Tribunal Electoral, podrán participar en las promociones escalafonarias de los demás órganos jurisdiccionales, pero deberán demostrar conocimientos en la materia para la que deseen concursar;
+XIV.- Los servidores públicos del Tribunal Electoral, del Tribunal de lo Contencioso Administrativo y del Tribunal de Apelación Especializado en materia de Adolescentes, podrán participar en las promociones escalafonarias de los demás órganos jurisdiccionales, pero deberán demostrar conocimientos en la materia para la que deseen concursar;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-XV.- Los servidores públicos del Poder Judicial que deseen integrarse a la carrera judicial electoral, podrán hacerlo en la categoría equivalente o en una superior, siempre que demuestren conocimientos suficientes en la materia electoral, en los respectivos concursos y en los términos que acuerde el Consejo de la Judicatura;
+XV.- Los servidores públicos del Poder Judicial que deseen integrarse a la carrera judicial electoral, contenciosa-administrativa y/o de adolescentes, podrán hacerlo en la categoría equivalente o en una superior, siempre que demuestren conocimientos suficientes en las materias electoral, contenciosa administrativa y/o de adolescentes, en los respectivos concursos y en los términos que acuerde el Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 XVI.- Salvo el caso de renuncia voluntaria, cese o jubilación por causa justificada, la carrera judicial termina a los 70 años, en cuya edad, la jubilación será forzosa.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 63.
 
-Las vacantes o nuevas plazas que se registren en los cargos de Magistrados de Tribunales Unitarios, Jueces de Primera Instancia, Jueces Letrados, así como Secretarios, cualquiera que sea su categoría, y demás servidores públicos de la administración de justicia, serán cubiertas de acuerdo al turno correspondiente y, en su caso, por escalafón, teniendo en cuenta los siguientes aspectos:
+Las vacantes o nuevas plazas que se registren en los cargos de Magistrados de Tribunales Unitarios, Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, Jueces de Primera Instancia, Jueces Letrados, así como Secretarios, cualquiera que sea su categoría, y demás servidores públicos de la Administración de Justicia, serán cubiertas de acuerdo con el turno correspondiente y, en su caso, por escalafón, teniendo en cuenta los siguientes aspectos:
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 I.- La capacidad, aptitud y actitud del aspirante, sus antecedentes profesionales, conducta laboral, fama pública y la honestidad en los mismos;
 
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 II.- Las calificaciones periódicas que haya obtenido por su conducta, organización, rendimiento, eficiencia y eficacia de su trabajo, en el ejercicio de los cargos que haya desempeñado;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 III.- Las calificaciones que haya obtenido en el Instituto de Especialización Judicial;
 
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 IV.- En igualdad de circunstancias, su antigüedad en el servicio.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 Lo anterior sin perjuicio de que, según el turno, también puedan cubrirse las vacantes con personas que sean merecedoras por su honradez, competencia y antecedentes. Respecto de los que también se valorará, si fuere el caso, los cursos que hubieren tomado.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 En todo caso, los unos y otros deberán sustentar y aprobar el examen de conocimientos correspondiente.
 
@@ -1389,11 +1679,13 @@ a).- Actuario de Juzgado Letrado;
 
 b).- Actuario de Juzgado de Primera Instancia;
 
-c).- Actuario del Tribunal Unitario de Distrito;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+c).- Actuario del Tribunal Unitario de Distrito o del Tribunal de Apelación Especializado en materia de Adolescentes;
 
-d).- Actuario de las Salas del Tribunal Superior de Justicia o del Tribunal Electoral;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+d).- Actuario de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo;
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1401,23 +1693,25 @@ e).- Secretario de Acuerdo y Trámite, y Secretario de Estudio y Cuenta de Juzga
 
 f).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta de Juzgado de Primera Instancia;
 
-g).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta del Tribunal Unitario de Distrito;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+g).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta del Tribunal Unitario de Distrito o Secretario General de Acuerdos del Tribunal de Apelación Especializado en materia de Adolescentes;
 
-h).- Secretario de Estudio y Cuenta de las Salas del Tribunal y del Tribunal Electoral;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+h).- Secretario de Estudio y Cuenta de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo;
 
-i).- Secretario de Acuerdo y Trámite de las Salas;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+i).- Secretario de Acuerdo y Trámite de las Salas del Tribunal de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo;
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 j).- Juez Letrado;
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-k).- Secretario General de Acuerdos del Tribunal Electoral;
+k).- Secretario General de Acuerdos del Tribunal Electoral o del Tribunal de lo Contencioso Administrativo;
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1427,9 +1721,9 @@ l).- Secretario General del Pleno del Tribunal Superior de Justicia;
 
 m).- Juez de Primera Instancia;
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-n).- Magistrado de Tribunal Unitario.
+n).- Magistrado de Tribunal Unitario de Distrito y Magistrado de Tribunal de Apelación Especializado en materia de Adolescentes.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1499,23 +1793,23 @@ Cumplida la provisión de vacantes, los nombres de los aspirantes aprobados y no
 
 El Pleno del Consejo y el del Tribunal Superior de Justicia, deberán ser informados oportunamente de los resultados generales de los exámenes de conocimientos, de los aspirantes aprobados y designados, así como de los aprobados que hayan de quedar en la reserva.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 73.
 
-Inmediatamente que ocurra una vacante, el titular del órgano jurisdiccional, con excepción del Presidente del Tribunal Superior de Justicia, los de las Salas y los del Tribunal Electoral, dará aviso a la Presidencia del Consejo de la Judicatura para que se haga la designación correspondiente de entre los aspirantes que figuren en la lista de reserva.
+Inmediatamente que ocurra una vacante, el titular del órgano jurisdiccional, con excepción del Presidente del Tribunal Superior de Justicia, los de las Salas, los del Tribunal Electoral y los del Tribunal de lo Contencioso-Administrativo dará aviso a la Presidencia del Consejo de la Judicatura, para que se haga la designación correspondiente de entre los aspirantes que figuren en la lista de reserva.
 
-Los titulares de las Salas y del Tribunal Electoral, harán las designaciones correspondientes respetando en todo caso el orden que corresponda en las listas de reserva, en los términos que establece esta ley.
+Los titulares de las Salas, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo harán las designaciones correspondientes respetando en todo caso el orden que corresponda en las listas de reserva, en los términos que establece esta ley.
 
 ###### ARTICULO 74.
 
 Cuando no haya aspirantes aprobados para cubrir una vacante porque no se registren solicitudes, o se hubiere declarado desierto el examen de méritos, podrá prescindirse provisionalmente de este requisito y hacerse designación discrecional, con carácter interino, mientras se satisface. En tal caso no se producirá ascenso en el escalafón, ni permanencia en el cargo, más allá del tiempo necesario para que se cubra dicha formalidad.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 75.
 
-Los titulares de las Salas y el Tribunal Electoral, comunicarán a la Presidencia del Tribunal Superior de Justicia la designación que hagan, a más tardar dentro del tercer día.
+Los titulares de las Salas, los del Tribunal Electoral y los del Tribunal de lo Contencioso-Administrativo comunicarán a la Presidencia del Tribunal Superior de Justicia la designación que hagan, a más tardar dentro del tercer día.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1531,51 +1825,41 @@ Todos los servidores públicos del Poder Judicial, deberán enviar su hoja de se
 
 Los servidores públicos de base del Poder Judicial, tendrán derecho a ascensos por escalafón, en los términos que establezca la Ley del Servicio Civil.
 
-### CAPITULO VI. DE LA TERMINACION DEL CARGO
+### CAPITULO IV. DE LA PERMANENCIA EN EL CARGO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 79.
 
 Los nombramientos de los magistrados y jueces integrantes del Poder Judicial serán hechos, preferentemente, entre aquellas personas que hayan prestado su servicio con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 80.
 
-Para ser nombrado Magistrado, se requiere:
+Para ser nombrado Magistrado del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos políticos y civiles;
+I. Ser ciudadano mexicano por nacimiento, en el pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener más de 65 años de edad, ni menos de 35, el día de la designación;
+II. Tener cuando menos 35 años cumplidos el día de la designación;
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-III.- Tener título oficial de abogado y haber ejercido la profesión cinco años por lo menos;
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
+V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
 
-V.- Tener residencia en el Estado durante los últimos cinco años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación o del Estado.
+VI. No haber ocupado el cargo de Secretario del Ramo, o su equivalente, en la Administración Pública Estatal, Procurador General de Justicia en el Estado, Diputado Local, o alguno de los cargos mencionados en la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-ARTICULO 80 BIS.- Para ser nombrado magistrado del Tribunal Electoral, se requiere:
+ARTICULO 80 BIS.- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2006)
 
-I.- Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles;
-
-II.- Tener título oficial de licenciado en derecho y haber ejercido la profesión cinco años por lo menos;
-
-III.- No haber desempeñado un cargo de elección popular federal, estatal o municipal, durante los últimos cinco años inmediatos a la fecha de su designación;
-
-IV.- No haber sido dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal o representante propietario de un partido político ante un órgano electoral federal, estatal, municipal o distrital, durante los últimos cinco años inmediatos a la fecha de su designación;
-
-V.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
-
-VI.- No tener más de sesenta y cinco años de edad, ni menos de treinta, el día en que tome posesión del cargo;
-
-VII.- Tener residencia en el estado durante los últimos tres años, salvo el caso de ausencia por desempeño de cargo público al servicio de la federación, del estado o del municipio.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 81.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia y del Tribunal Electoral serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, el que la otorgará o negará, dentro del improrrogable término de cinco días.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, el que la otorgará o negará, dentro del improrrogable término de cinco días.
 
 La lista de candidatos podrá ser rechazada por el Ejecutivo por una sola ocasión, en cuyo caso el Consejo de la Judicatura someterá a su consideración una nueva para que formule nombramiento.
 
@@ -1583,9 +1867,11 @@ Cuando el Congreso no resuelva dentro del término que se señala para el efecto
 
 En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso en el siguiente período ordinario de Sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego el magistrado provisional.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 82.
 
-Para ser designado magistrado de Tribunal Unitario de Distrito, se requieren los mismos requisitos que para ser nombrado magistrado del Tribunal Superior de Justicia del Estado, más el haber sustentado y aprobado el examen de mérito.
+Para ser designado Magistrado de Tribunal Unitario de Distrito o Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, se requieren los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, más el haber sustentado y aprobado el examen de mérito.
 
 ###### ARTICULO 83.
 
@@ -1600,6 +1886,10 @@ III.- Tener título oficial de abogado y haber ejercido la profesión tres años
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
 
 V.- Sustentar y aprobar el examen de méritos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Los Jueces de Primera Instancia en materia de Adolescentes deberán de contar, además, con conocimientos en la materia penal y en la prevención y tratamiento de la conducta de los adolescentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1689,9 +1979,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 V.- Sustentar y aprobar el examen de méritos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 90.
 
-Los actuarios del Tribunal Superior, de los Tribunales Unitarios y de los Juzgados de Primera Instancia necesitan:
+Los actuarios del Tribunal Superior, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Apelación Especializado en materia de Adolescentes, de los Tribunales Unitarios y de los Juzgados de Primera Instancia deberán satisfacer los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento, mayor de edad, en ejercicio de sus derechos civiles y políticos;
 
@@ -1705,13 +1997,17 @@ IV.- Sustentar y aprobar el examen de méritos.
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2001)
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 92.
 
-Los magistrados del Tribunal Superior de Justicia y los del Tribunal Electoral, al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 Los Magistrados de Distrito, los Jueces de Primera Instancia y Letrados, lo harán ante el Consejo de la Judicatura o su Presidente.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 Los demás servidores de la administración de justicia, rendirán la protesta de ley ante la autoridad de quien dependan.
 
@@ -1725,11 +2021,13 @@ La protesta de los servidores públicos del Poder Judicial, se otorgará ante qu
 
 De toda protesta de los servidores públicos del Poder Judicial, se levantará acta con el número de copias necesarias, una de las cuales se remitirá a la Oficialía Mayor del Poder Judicial, para ser agregada a la hoja de servicios correspondiente.
 
-### CAPITULO I. DE LA INSTALACION DE LOS PERIODOS DE SESIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO V. DE LAS INCOMPATIBILIDADES
 
 ###### ARTICULO 95.
 
-Los Magistrados de Distrito, los Jueces de Primera Instancia durarán seis años en el ejercicio de su encargo y durante este período no podrán ser removidos sin previo juicio político o disciplinario, en los términos previstos por la Constitución Política del Estado, la Ley de la materia y este ordenamiento.
+El Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, los Magistrados Unitarios de Distrito, Los Jueces de Primera Instancia y los Jueces Letrados, durarán seis años en el ejercicio de su encargo y durante este periodo no podrán ser removidos sin previo juicio político o disciplinario, en los términos previstos por la Constitución Política del Estado, la Ley de la Materia y este ordenamiento.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
 Los Magistrados, los Jueces que hayan sido reelectos, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política del Estado.
 
@@ -1737,7 +2035,7 @@ Los Magistrados, los Jueces que hayan sido reelectos, sólo podrán ser privados
 
 Los Secretarios y Actuarios una vez designados, no podrán ser suspendidos o cesados, salvo por falta o delitos y en la forma y términos previstos en esta Ley.
 
-### CAPITULO II. DEL TRIBUNAL PLENO
+### CAPITULO VI. DE LA TERMINACION DEL CARGO
 
 ###### ARTICULO 97.
 
@@ -1757,15 +2055,13 @@ Los magistrados numerarios, aún cuando gocen de licencia, no podrán ejercer su
 
 Para ningún cargo de la administración de justicia podrá designarse a personas que sean ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado, por consanguinidad, segundo por afinidad, o civil, del servidor público que intervenga en la designación.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 100.
 
-No podrán formar parte de la plantilla de personal de la Presidencia, de una misma Sala, del Tribunal Electoral, de un Tribunal Unitario o de un Juzgado, dos o más personas que sean cónyuges o parientes entre sí, en los mismos grados a que alude el artículo anterior.
+No podrán formar parte de la plantilla de personal de la Presidencia, de una misma Sala, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Apelación Especializado en materia de Adolescentes, de un Tribunal Unitario o de un Juzgado, dos o más personas que sean cónyuges o parientes entre sí, en los mismos grados a que alude el artículo anterior.
 
-### CAPITULO III. DE LAS SALAS DE LOS TRIBUNALES UNITARIOS DE DISTRITO Y DE LOS JUZGADOS
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO I. DE LA INSTALACION DE LOS PERIODOS DE SESIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ###### ARTICULO 101.
 
@@ -1781,7 +2077,7 @@ Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos 
 
 ## TITULO QUINTO. DEL FUNCIONAMIENTO DE LOS ORGANOS DEL PODER JUDICIAL
 
-### CAPITULO IV. DE LA VIGILANCIA JUDICIAL
+### CAPITULO II. DEL TRIBUNAL PLENO
 
 ###### ARTICULO 103.
 
@@ -1803,9 +2099,9 @@ Al iniciarse cada período de sesiones, el Tribunal lo comunicará a los Poderes
 
 Lo mismo se observará en el caso de nuevas designaciones de Magistrados del Tribunal Superior.
 
-### CAPITULO V. DE LA VALORACION DEL SERVICIO
+### CAPITULO III. DE LAS SALAS DE LOS TRIBUNALES UNITARIOS DE DISTRITO Y DE LOS JUZGADOS
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 106.
 
@@ -1841,9 +2137,7 @@ En los casos sujetos a decisión, el presidente propondrá el acuerdo y lo somet
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
-### CAPITULO I. DEL ARCHIVO JUDICIAL
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+### CAPITULO IV. DE LA VIGILANCIA JUDICIAL
 
 ###### ARTICULO 111.
 
@@ -1851,9 +2145,11 @@ El Poder Judicial laborará todos los días del año, excepción hecha de los s�
 
 El despacho diario del Poder Judicial se efectuará en los horarios que acuerde el Consejo de la Judicatura, previa opinión del Pleno del Tribunal y atendiendo a las necesidades del servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 112.
 
-Son deberes de magistrado y jueces:
+Son deberes de magistrados y jueces:
 
 I.- Dirigir el proceso; vigilar su correcto desarrollo; adoptar las medidas conducentes para evitar tácticas dilatorias ilegales y procurar la mayor economía procesal;
 
@@ -1861,17 +2157,27 @@ II.- Mantener la igualdad de las partes en el proceso;
 
 III.- Prevenir, remediar y sancionar, en su caso, los actos contrarios a la administración de justicia, así como la buena fé que debe presidir el desarrollo del proceso, denunciando al Ministerio Público todo hecho que pueda constituir un delito;
 
-IV.- Guardar reserva sobre las decisiones que se proponga dictar en el proceso; y
+IV.- Guardar reserva sobre las decisiones que se proponga dictar en el proceso; y (sic)
 
-V.- Dictar las resoluciones que procedan dentro de los términos legales.
+V.- Dictar las resoluciones que procedan dentro de los términos legales;
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Ejercer la supervisión y control sobre todos los servidores de su adscripción, e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 113.
 
 Las audiencias serán públicas, a menos que por la naturaleza del asunto, el titular del órgano considere que deben ser privadas.
 
-Serán presididas por el Presidente del Tribunal, el Magistrado instructor en los asuntos del Pleno, el Presidente de la Sala, el magistrado instructor del Tribunal Electoral, el Magistrado del Tribunal Unitario de Distrito o el Juez; pero éstos bajo su vigilancia, podrán delegar su dirección a un Secretario.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Serán presididas por el Presidente del Tribunal, el Magistrado instructor en los asuntos del Pleno, el Presidente de la Sala, el Magistrado instructor del Tribunal Electoral, el Magistrado instructor del Tribunal de lo Contencioso-Administrativo, el Magistrado del Tribunal Unitario de Distrito o el Juez; pero éstos bajo su vigilancia, podrán delegar su dirección a un Secretario.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Las audiencias del Tribunal de Apelación Especializado en materia de Adolescentes se llevarán a cabo conforme lo determina el ordenamiento que regula la justicia para adolescentes.
 
 ###### ARTICULO 114.
 
@@ -1945,6 +2251,10 @@ IV. De medidas cautelares, provisionales y de aseguramiento; y
 
 V.- De actas de visita a los centros de detención.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Estos mismos libros serán llevados, en su caso, por los Juzgados de Primera Instancia en materia de Adolescentes.
+
 ###### ARTICULO 117.
 
 Los actuarios, o quienes hagan sus veces, deberán llevar un libro en el que asienten diariamente las diligencias y notificaciones que practiquen fuera del local de la oficina en que presten sus servicios, con expresión:
@@ -1979,17 +2289,21 @@ V.- A los servidores públicos, que lo requieran en razón de sus funciones; y
 
 VI.- A las personas autorizadas por el Titular, para fines docentes o de investigación científica.
 
-### CAPITULO II. DEL INSTITUTO DE ESPECIALIZACION JUDICIAL
+### CAPITULO V. DE LA VALORACION DEL SERVICIO
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 119.
 
 La vigilancia judicial tiene por objeto velar por que la justicia se administre oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la Administración de Justicia y puntual desempeño de sus deberes.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 120.
 
-La Visitaduría Judicial General es el órgano auxiliar del Consejo de la Judicatura competente para inspeccionar el funcionamiento del Tribunal Electoral, los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia y Letrados, así como para supervisar las conductas de los integrantes de estos órganos.
+La Visitaduría Judicial General es el órgano auxiliar del Consejo de la Judicatura competente para inspeccionar el funcionamiento del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Apelación Especializado en materia de Adolescentes de los Tribunales Unitarios de Distrito, de los Juzgados de Primera Instancia y Letrados, así como para supervisar las conductas de los integrantes de estos órganos.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 El Pleno del Tribunal determinará los mecanismos de inspección para las Salas.
 
@@ -2037,13 +2351,17 @@ VII.- Revisar que se haya cumplido con la ley en los juicios de amparo en que el
 
 De toda visita de inspección deberá levantarse acta circunstanciada. En la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, y la firma del juez o magistrado que corresponda y la del visitador. En el ejercicio de sus funciones, el visitador general y los visitadores judiciales estarán investidos de fe pública, por lo que lo asentado en las actas de visita se tendrá por cierto salvo prueba en contrario.
 
-Una copia del acta levantada por el visitador se entregará al titular del órgano visitado y el original se remitirá a la Presidencia del Tribunal Superior de Justicia y al Consejo de la Judicatura, para los efectos legales procedentes.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El acta original levantada por el visitador se entregará al Presidente del Consejo de la Judicatura; una copia al Presidente del Tribunal Superior, otra al titular del órgano visitado, y una más que conservará en su poder el Visitador. Si del contenido del acta levantada se advierte una responsabilidad oficial, el Consejo de la Judicatura procederá conforme a los ordenamientos legales aplicables.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 122 B.- El Consejo de la Judicatura, por conducto del Presidente del Tribunal, podrá ordenar al titular de la Visitaduría Judicial General la celebración de auditorías especiales que comprendan determinado período de tiempo y/o expedientes, así como visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por algunos de los integrantes del Poder Judicial sujetos a su supervisión.
 
-### CAPITULO III. DE LA BIBLIOTECA
+### CAPITULO I. DEL ARCHIVO JUDICIAL
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 123.
 
@@ -2055,11 +2373,13 @@ El Pleno del Tribunal se encargará de ponderar periódicamente los méritos y l
 
 El Presidente del Tribunal Superior de Justicia, los Magistrados, y los Jueces, harán una evaluación periódica de la actuación de sus Secretarios, actuarios y demás servidores que laboren en sus respectivas dependencias.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 125.
 
-Las evaluaciones de los miembros del Poder Judicial serán concentradas en la Presidencia del Tribunal Superior de Justicia, y una vez analizadas por el órgano competente para los efectos a que tenga lugar, se anotarán en la hoya (sic) de servicios de cada servidor público de la Administración de Justicia.
+Las evaluaciones de los miembros del Poder Judicial serán concentradas en la Presidencia del Tribunal Superior de Justicia, y una vez analizadas por el órgano competente para los efectos a que tenga lugar, se anotarán en la hoja de servicios de cada servidor público de la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 El Presidente comunicará sus resultados al Consejo de la Judicatura.
 
@@ -2076,6 +2396,10 @@ Si la excusa del magistrado es para no conocer de un asunto de Sala, la suplenci
 Si todos los magistrados de una Sala estuvieren impedidos para conocer, pasará el asunto al conocimiento de la Sala que siga en número.
 
 Si un magistrado del Tribunal Unitario de Distrito dejare de conocer de un asunto por impedimento, recusación o excusa, pasará el negocio al Tribunal Unitario de Distrito más cercano.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Los impedimentos, excusas o recusaciones de los Magistrados del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo o del Tribunal de Apelación Especializado en materia de Adolescentes serán suplidos en los términos previstos en las leyes que regulan su funcionamiento.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -2097,7 +2421,7 @@ En casos de excusa, recusación o impedimento de los Secretarios, éstos serán 
 
 ## TITULO SEPTIMO. DE LAS DEPENDENCIAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-### CAPITULO IV. DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
+### CAPITULO II. DEL INSTITUTO DE ESPECIALIZACION JUDICIAL
 
 ###### ARTICULO 130.
 
@@ -2115,9 +2439,9 @@ El Archivo Judicial del Estado tendrá sus oficinas centrales en la Capital del 
 
 Se depositarán en el Archivo General y en los archivos distritales regionales:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-I.- Todos los expedientes del orden civil, de lo familiar y de lo penal totalmente concluidos, tanto por el Tribunal Superior de Justicia como por los Tribunal (sic) Unitarios de Distrito, Juzgados de Primera Instancia y demás órganos jurisdiccionales;
+I.- Todos los expedientes del orden civil, de lo familiar, penal y de adolescentes totalmente concluidos, tanto por el Tribunal Superior de Justicia como por los Tribunales Unitarios de Distrito, del Tribunal de Apelación Especializado en materia de Adolescentes, Juzgados de Primera Instancia y demás órganos jurisdiccionales;
 
 II.- Los expedientes aún no concluidos en los que haya habido inactividad procesal de las partes por más de un año;
 
@@ -2125,9 +2449,11 @@ III.- Cualesquiera otros expedientes concluidos que conforme a la ley deban inte
 
 IV.- Los demás documentos y objetos que las leyes y el Tribunal Superior determinen.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 133.
 
-Habrá en el Archivo cinco departamentos, uno de ellos corresponderá al ramo civil, otro al familiar, otro al tutelar para menores, otro al penal y otro al administrativo.
+Habrá en el Archivo cinco departamentos: uno de ellos corresponderá al ramo civil, otro al familiar, otro a adolescentes, otro al penal y otro al administrativo.
 
 ###### ARTICULO 134.
 
@@ -2161,7 +2487,7 @@ La omisión en que incurran los secretarios por no remitir los expedientes al Ar
 
 Cualquier defecto o irregularidad que advierta el jefe del archivo en los expedientes o documentos que se le remitan para su depósito, lo comunicará al Presidente del Tribunal.
 
-### CAPITULO V. DEL BOLETIN DE INFORMACION JUDICIAL
+### CAPITULO III. DE LA BIBLIOTECA
 
 ###### ARTICULO 141.
 
@@ -2177,7 +2503,9 @@ Cuando se valoren los méritos para acceder a un cargo dentro del Poder Judicial
 
 La Dirección del Instituto de Especialización Judicial, estará a cargo de la persona que designe Consejo de la Judicatura.
 
-El Instituto tendrá un Consejo Académico, integrado por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, un magistrado de cada Sala del Tribunal, un magistrado del Tribunal Electoral, el magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia de cada materia de la Capital del Estado y un Juez Letrado del Distrito Judicial de Saltillo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El Instituto tendrá un Consejo Académico, integrado por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, un Magistrado de cada Sala del Tribunal, un Magistrado del Tribunal Electoral, un Magistrado del Tribunal de lo Contencioso-Administrativo, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, el Magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia de cada materia de la Capital del Estado y un Juez Letrado del Distrito Judicial de Saltillo.
 
 El Consejo Académico será un órgano consultivo que tendrá como función principal la evaluación y autorización de los planes y programas de estudios que proponga el director del Instituto.
 
@@ -2187,7 +2515,7 @@ El Consejo Académico será un órgano consultivo que tendrá como función prin
 
 La organización interna y el funcionamiento, los programas y planes de estudios, los requisitos de ingresos y sistemas de evaluación, serán precisados en el estatuto que expida el Consejo de la Judicatura, oyendo la opinión del Consejo del Instituto de Especialización Judicial.
 
-### CAPITULO VI. DE LAS OFICINAS DEL PERSONAL E INTENDENCIA
+### CAPITULO IV. DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 144.
 
@@ -2215,9 +2543,7 @@ V.- Llevar una relación diaria de lectores para fines de estadística; y
 
 VI.- Las demás que señalen las leyes y los reglamentos respectivos.
 
-### CAPITULO I. DE LOS PERMISOS, LICENCIAS Y VACACIONES
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+### CAPITULO V. DEL BOLETIN DE INFORMACION JUDICIAL
 
 #### SECCION PRIMERA. DE LA ADMINISTRACION DEL FONDO
 
@@ -2287,7 +2613,7 @@ V.- Sufragar los gastos que por estímulos y recompensas se entreguen a los func
 
 VI.- Los demás objetivos que se acuerden por el Pleno.
 
-### CAPITULO II. DE LA INSUBSISTENCIA, SUSPENSION Y PERDIDA DEL ENCARGO
+### CAPITULO VI. DE LAS OFICINAS DEL PERSONAL E INTENDENCIA
 
 ###### ARTICULO 153.
 
@@ -2301,11 +2627,11 @@ III.- Informes de la Presidencia; y
 
 IV.- Efemérides del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 154.
 
-El Consejo Editorial del Boletín se integrará con el Presidente del Tribunal, quien fungirá como Director, los Magistrados de las Salas, un Magistrado del Tribunal Electoral, el Magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia en cada materia, un Secretario de Redacción y un administrador, que será el Oficial Mayor del Poder Judicial.
+El Consejo Editorial del Boletín se integrará con el Presidente del Tribunal, quien fungirá como Director, los Magistrados de las Salas, un Magistrado del Tribunal Electoral, un Magistrado del Tribunal de lo Contencioso-Administrativo, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, el Magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia en cada materia, un Secretario de Redacción y un administrador, que será el Oficial Mayor del Poder Judicial.
 
 La designación del Magistrado del Tribunal Unitario, de los Jueces y del Secretario de Redacción lo hará el Pleno del Tribunal, cada tres años.
 
@@ -2315,9 +2641,9 @@ La designación del Magistrado del Tribunal Unitario, de los Jueces y del Secret
 
 En todo lo relativo a la Administración del Boletín, el Consejo Editorial tendrá las más amplias facultades, tanto para el manejo y aplicación de los ingresos que se obtengan, así como para la designación y remoción del personal administrativo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DE LOS PERMISOS, LICENCIAS Y VACACIONES
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 156.
 
@@ -2331,9 +2657,7 @@ El cuidado, vigilancia, aseo y limpieza del edificio que ocupa el Tribunal, así
 
 ## TITULO OCTAVO. DE LAS AUSENCIAS TEMPORALES Y ABSOLUTAS EN EL DESEMPEÑO DE LOS CARGOS
 
-### CAPITULO II. DEL JUICIO POLITICO
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+### CAPITULO II. DE LA INSUBSISTENCIA, SUSPENSION Y PERDIDA DEL ENCARGO
 
 ###### ARTICULO 158.
 
@@ -2355,7 +2679,9 @@ En la época que determinen el Pleno del Tribunal Superior de Justicia y el Cons
 
 Los días de vacaciones suplementarios a que en lo individual tengan derecho los servidores públicos de base se les concederán por el titular de la dependencia de acuerdo con las necesidades del servicio y en los términos de la Ley de la materia.
 
-### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 162.
 
@@ -2393,19 +2719,25 @@ Las faltas temporales de los Presidentes del Tribunal y de las Salas, cuando no 
 
 Si la ausencia excede de treinta días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal respectivo.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 166.
 
-Las faltas absolutas de los magistrados del Tribunal Superior de Justicia y del Tribunal Electoral, serán suplidas por el magistrado supernumerario que corresponda, en cada caso, para concluir el período constitucional respectivo, en los términos que establece la Constitución Política del Estado y demás disposiciones aplicables.
+Las faltas absolutas de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, serán suplidas por el Magistrado supernumerario que corresponda, en cada caso, para concluir el período constitucional respectivo, en los términos que establece la Constitución Política del Estado y demás disposiciones aplicables.
 
-Las faltas temporales de los magistrados del Tribunal Superior y del Tribunal Electoral, serán suplidas por los magistrados supernumerarios en el orden respectivo y de acuerdo con el turno que lleve el Presidente del Pleno del Tribunal Superior de Justicia o del Tribunal Electoral, según corresponda.
+Las faltas temporales de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo, serán suplidas por los Magistrados supernumerarios en el orden respectivo y de acuerdo con el turno que lleve el Presidente del Pleno del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, según corresponda.
+
+Las faltas absolutas y temporales del Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes serán suplidas conforme al ordenamiento que regula la justicia para adolescentes.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 167.
 
 Las faltas temporales de los Magistrados de los Tribunales Unitarios de Distrito, de los Jueces de Primera Instancia y de los Jueces Letrados, serán suplidas por los respectivos Secretarios de Acuerdo y Trámite que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación interina o definitiva, según el caso.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Los Jueces de Primera Instancia en materia de Adolescentes serán suplidos en sus ausencias temporales, que no excedan de un mes, en la forma que para el efecto determine el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -2427,17 +2759,23 @@ Si la ausencia excede de quince días o es absoluta, se hará la designación de
 
 Las faltas temporales de los Secretarios de los Juzgados de Primera Instancia y Letrados serán suplidas por el Secretario de Estudio y Cuenta si lo hay, en caso contrario por el Actuario de mayor antigüedad.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Los Secretarios, Actuarios y demás personal del Juzgado de Primera Instancia en materia de Adolescentes serán suplidos en sus ausencias temporales, que no excedan de un mes, en la forma que determine el titular del propio juzgado.
+
 ###### ARTICULO 171.
 
 (DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ## TITULO DECIMO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO IV. DE LA RESPONSABILIDAD ADMINISTRATIVA
+### CAPITULO II. DEL JUICIO POLITICO
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 172.
 
-Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la administración de justicia: a los magistrados del Tribunal Superior de Justicia; a los magistrados de los tribunales unitarios de distrito; a los jueces de primera instancia; a los jueces locales letrados; y en general a toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
+Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la administración de justicia: a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Electoral; a los Magistrados del Tribunal de los (sic) Contencioso-Administrativo; al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, a los Magistrados de los Tribunales Unitarios de Distrito; a los Jueces de Primera Instancia; a los Jueces Locales Letrados; y en general a toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
 
 ###### ARTICULO 173.
 
@@ -2451,15 +2789,23 @@ III.- Se aplicarán sanciones administrativas por los actos u omisiones que afec
 
 Los procedimientos para la aplicación de las sanciones mencionadas serán autónomos en su desarrollo, sin que puedan imponer dos veces, por una sola conducta, sanciones de la misma naturaleza.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 174.
 
-Todo ciudadano o persona moral, por conducto de sus órganos de representación, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia por escrito ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior.
+Cuando los titulares de los órganos jurisdiccionales, con motivo de sus funciones, adviertan que algún servidor de la administración de justicia incurrió en alguna de las responsabilidades previstas en el artículo anterior, deberán hacerlo del conocimiento del Consejo de la Judicatura para que proceda conforme a los ordenamientos legales aplicables.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+Todo ciudadano o persona moral por conducto de sus órganos de representación, bajo su responsabilidad, podrá formular denuncia por escrito ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior, anunciando las pruebas en las que sustente dicha denuncia.
+
+### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 175.
 
-Son sujetos de juicio político: los magistrados del Tribunal Superior de Justicia; los magistrados de los tribunales unitarios de distrito; los jueces de primera instancia y los jueces locales letrados.
+Son sujetos de juicio político: los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados del Tribunal de lo Contencioso-Administrativo; el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, los Magistrados de los Tribunales Unitarios de Distrito; y los Jueces de Primera Instancia.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 176.
 
@@ -2469,11 +2815,11 @@ Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio
 
 El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro del año siguiente a él que se separe, por cualquier causa, del ejercicio de sus funciones. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-### CAPITULO II. DEL ORGANO Y PROCEDIMIENTO PARA EL OTORGAMIENTO
+### CAPITULO IV. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTICULO 178.
 
-Para proceder penalmente contra los magistrados del Tribunal Superior de Justicia, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no a proceder contra el inculpado.
 
 ###### ARTICULO 179.
 
@@ -2513,163 +2859,143 @@ IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unita
 
 V.- Violar las normas que regulan el procedimiento para llevar a cabo los nombramientos que le competan.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 184.
 
 Son faltas administrativas de los magistrados y jueces:
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+I. Hacer constar falsamente en una diligencia judicial hechos no acaecidos o dejar de mencionar los ocurridos, cuando en ambos casos se actúe de manera dolosa;
 
-I.- Dictar, sin causa justificada, las resoluciones que procedan en los negocios de su conocimiento, fuera de los términos señalados por la Ley, u omitir su pronunciamiento;
+II. Asesorar a las partes en asuntos de su conocimiento o del conocimiento de otras autoridades judiciales;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+III. No fundar ni motivar sus resoluciones habitualmente;
 
-II.- Pronunciar autos o resoluciones sin fundamentación y motivación notoria;
+IV. Dictar resoluciones o efectuar trámites notoriamente innecesarios que tengan como consecuencia la dilación del procedimiento;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+V. Actuar en negocios en que estuvieren impedidos, conociendo la causa del impedimento;
 
-III.- Dictar resoluciones o efectuar trámites notoriamente innecesarios que tengan como consecuencia la dilación del procedimiento;
+VI. Impedir, por cualquier medio ilegal, que las partes hagan uso de los recursos establecidos en la ley;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+VII. Hacer en sus resoluciones calificaciones ofensivas o calumniosas, en perjuicio de las personas que intervienen en el proceso;
 
-IV.- Actuar en negocios en que estuvieren impedidos, conociendo la causa del impedimento;
+VIII. Dictar, sin causa justificada, las resoluciones que procedan en los negocios de su conocimiento, fuera de los términos señalados por la Ley, u omitir su pronunciamiento;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+IX. No rechazar de plano incidentes, promociones o recursos manifiestamente improcedentes;
 
-V.- Hacer declaración de rebeldía en perjuicio de alguna de las partes, sin cerciorarse de su legal emplazamiento, o antes de que expire el término establecido por la ley;
+X. Hacer declaración de rebeldía en perjuicio de alguna de las partes, sin cerciorarse de su legal emplazamiento, o antes de que expire el término establecido por la ley;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XI. No admitir o recibir, injustificadamente, las pruebas a las partes, o admitir las notoriamente inconducentes o impertinentes;
 
-VI.- No recibir, injustificadamente, las pruebas admitidas a las partes;
+XII. Fijar fianzas y contrafianzas notoriamente excesivas o insuficientes, en los casos que prescriban las leyes, así como admitir las de personas que no acrediten su solvencia; y
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XIII. Dejar de asistir, sin justa causa, a los actos o diligencias que requieran su presencia.
 
-VII.- Impedir, por cualquier medio ilegal, que las partes hagan uso de los recursos establecidos en la ley;
+Las faltas a que se refiere este artículo serán sancionadas conforme a las disposiciones previstas en los artículos 196 y 198 de esta ley.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-VIII.- Fijar fianzas y contrafianzas notoriamente excesivas o insuficientes, en los casos que prescriban las leyes, así como admitir las de personas que no acrediten su solvencia;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-IX.- Hacer en sus resoluciones calificaciones ofensivas o calumniosas, en perjuicio de las personas que intervienen en el proceso;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-X.- Hacer constar falsamente en una diligencia judicial hechos no acaecidos o dejar de mencionar los ocurridos;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-XI.- Asesorar a las partes en asuntos de su conocimiento o del conocimiento de otras autoridades judiciales;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-XII.- Dejar de asistir, sin justa causa, a los actos o diligencias que requieran su presencia; y
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-XIII.- No observar en el trato con sus subalternos la debida consideración.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 185.
 
 Son faltas administrativas de los secretarios:
 
-I.- No dar cuenta, dentro de los términos legales, con los documentos oficiales, así como con las promociones de las partes;
+I. Actuar con negligencia en la custodia de los expedientes y documentos de su dependencia; propiciando su deterioro, destrucción, ocultamiento, sustracción o pérdida;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+II. Actuar en los negocios en que estuvieren impedidos, conociendo el impedimento;
 
-II.- No asentar al calce de los escritos a que se refiere la fracción anterior, la razón de recibo correspondiente u omitir estampar en ellos, el sello oficial del órgano jurisdiccional de que se trate;
+III. Omitir entregar oportunamente a los Actuarios los expedientes que requieran notificación personal, o estén pendientes de diligenciación, cuando deba actuarse fuera del Juzgado;
 
-III.- No asentar en autos dentro del término legal, las certificaciones y constancias que procedan por disposición de la Ley o por mandato judicial;
+IV. Omitir dar cuenta, dentro de los términos legales, con los documentos oficiales, así como con las promociones de las partes;
 
-IV.- Actuar en los negocios en que estuvieren impedidos, conociendo el impedimento;
+V. Dejar de asentar en autos dentro del término legal, las certificaciones y constancias que procedan por disposición de la Ley o por mandato judicial;
 
-V.- No formular el proyecto de resolución que se les hubiere encomendado, en el término fijado para ello;
+VI. Omitir formular el proyecto de resolución que se les hubiere encomendado, en el término fijado para ello;
 
-VI.- Obrar con negligencia en la custodia de los expedientes y documentos de su dependencia; propiciando su deterioro, destrucción, ocultamiento, sustracción o pérdida;
+VII. Facilitar expedientes a quienes no cuenten con la debida autorización u omitir mostrarlos a las partes, sin motivo justificado; y
 
-VII.- No practicar los actos necesarios para la celebración de las audiencias en las fechas señaladas;
+Las faltas a que se refiere este artículo serán sancionadas conforme a las disposiciones previstas en los artículos 196 y 198 de esta ley.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-VIII.- Omitir entregar oportunamente a los Actuarios los expedientes que requieran notificación personal, o estén pendientes de diligenciación, cuando deba actuarse fuera del Juzgado;
-
-IX.- No hacer a las partes las notificaciones personales que procedan, cuando ocurran al juzgado o tribunal;
-
-X.- No mostrar a las partes, sin motivo justificado, los expedientes que les soliciten, o facilitárselos a quienes no cuenten con la debida autorización; y
-
-XI.- Proporcionar información telefónica, por escrito, o por cualquier otro medio a los interesados sobre el estado de los autos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 186.
 
 Son faltas de los actuarios:
 
-I.- No hacer, con la debida oportunidad y sin causa justificada, las notificaciones personales que procedan, ni llevar a cabo las diligencias que se les encomienden, cuando deban efectuarse fuera del juzgado o tribunal;
+I. Redactar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier género que deban realizar;
 
-II.- Redactar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier género que deban realizar;
+II. Practicar embargos, aseguramientos, retención de bienes o lanzamientos, de personas o corporaciones, que no estén mencionadas concretamente en la resolución que se cumplimenta, o cuando en el acto de la diligencia, se le haga ver que esos bienes son ajenos, en cuyo caso deberá agregar a los autos la documentación que se le presente y dar cuenta al juez;
 
-III.- Dar referencia a algún litigante, con perjuicio de otros, por cualquier motivo;
+III. Omitir realizar, con la debida oportunidad y sin causa justificada, las notificaciones personales que procedan, o dejar de llevar a cabo las diligencias que se les encomienden, cuando deban efectuarse fuera del juzgado o tribunal;
 
-IV.- Practicar notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en el lugar donde se lleva a cabo la diligencia;
+IV. Practicar notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en el lugar donde se lleva a cabo la diligencia;
 
-V.- Practicar embargos, aseguramientos, retención de bienes o lanzamientos, de personas o corporaciones, que no estén mencionadas concretamente en la resolución que se cumplimenta, o cuando en el acto de la diligencia, se le haga ver que esos bienes son ajenos, en cuyo caso deberá agregar a los autos la documentación que se le presente y dar cuenta al juez;
+V. Recibir gratificaciones por el desempeño de su función, que no sea lo estrictamente necesario para su traslado al lugar en que deba efectuarse la diligencia; y
 
-VI.- No levantar el acta relativa a la diligencia que practique, en el lugar y momento en que ésta se efectúe; y
+VI. Omitir levantar el acta relativa a la diligencia que practique, en el lugar y momento en que ésta se efectúe.
 
-VII.- Recibir gratificaciones por el desempeño de su función, como no sea lo estrictamente necesario para su traslado al lugar en que deba efectuarse la diligencia.
+Las faltas a que se refiere este artículo serán sancionadas conforme a las disposiciones previstas en los artículos 196 y 198 de esta ley.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 187.
 
 Son faltas administrativas de los servidores públicos de base:
 
-I.- No observar el debido respeto y subordinación legítima hacia sus superiores jerárquicos inmediatos o mediatos;
+I. Dejar de observar el debido respeto y subordinación legítima hacia sus superiores jerárquicos inmediatos o mediatos;
 
-II.- No cumplir con las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+II. Incumplir con las disposiciones que sus superiores jerárquicos dicten en el ejercicio de sus atribuciones;
 
-III.- No cumplir con diligencia las instrucciones, requerimientos o trabajos que les sean encomendados;
+III. Actuar con negligencia en el cumplimiento de las instrucciones, requerimientos o trabajos que les sean encomendados;
 
-IV.- Recibir gratificaciones de los interesados por copias mecanográficas de actuaciones que excedan del valor que, por hoja, haya fijado la Oficialía Mayor del Tribunal; y
+IV. Recibir gratificaciones por copias de actuaciones que excedan del valor que, por hoja, haya fijado la Oficialía Mayor del Tribunal; y
 
-V.- Realizar trabajos ajenos a la oficina.
+V. Realizar trabajos ajenos a su función en el horario de labores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+Las faltas a que se refiere este artículo serán sancionadas conforme a las disposiciones previstas en los artículos 196 y 198 de esta ley.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 188.
 
-Sin perjuicio de lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, constituyen faltas administrativas comunes a todos los servidores públicos de la administración de Justicia:
+Constituyen faltas administrativas comunes a todos los servidores públicos de la administración de Justicia, además de las previstas en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, en lo relativo, las siguientes:
 
-I.- No cumplir, con la mayor diligencia el trabajo que le sea encomendado, o realizar actos u omisiones que hagan deficiente su labor;
+I. Realizar conductas contra la independencia e imparcialidad de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, del mismo u otro poder;
 
-II.- No asistir a las horas reglamentarias al desempeño de sus labores;
+II. Solicitar o recibir dádivas, préstamos, regalos y obtener toda clase de percepciones provenientes, directa o indirectamente, de alguna de las partes o de sus representantes o intermediarios, en negocios sometidos a su conocimiento, o en los que haya de intervenir;
 
-III.- Dejar de asistir sin motivo justificado al despacho de su oficina o cerrarla, limitando indebidamente las horas de trabajo;
+III. Obtener o tratar de obtener por el desempeño de su función, beneficios adicionales a las prestaciones que le sean cubiertas con cargo al erario público;
 
-IV.- Autorizar a un subordinado a no asistir a sus labores sin causa justificada, así como otorgarle indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo;
+IV. Ejercer funciones de un empleo, cargo o comisión cuando goce de licencia, haya sido suspendido o hubiere concluido el período para el cual se le designó, o se le haya separado por alguna otra causa del ejercicio de sus funciones;
 
-V.- No atender con la debida corrección a los litigantes y al público en general;
+V. Embriagarse habitualmente; hacer uso indebido de estupefacientes o psicotrópicos; practicar juegos prohibidos; incurrir en acoso sexual; o realizar cualquier otro comportamiento inmoral con motivo del ejercicio de sus funciones;
 
-VI.- Solicitar o recibir dádivas, agasajos, préstamos, regalos y obtener toda clase de percepciones provenientes, directa o indirectamente, de alguna de las partes o de sus representantes o intermediarios, en negocio sometido a su conocimiento, o en el que haya de intervenir;
+VI. Expedir nombramiento en favor de quien haya sido destituido o se encuentre inhabilitado por resolución firme de autoridad competente;
 
-VII.- Obtener o tratar de obtener por el desempeño de su función, beneficios adicionales a las prestaciones que le sean cubiertas con cargo al erario público;
+VII. Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la ley prohíba;
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+VIII. Desempeñar en forma negligente o deficiente los trabajos propios de sus funciones o los relacionados con éstas, que le sean encomendados;
 
-VIII.- Influir, directa o indirectamente, en el nombramiento, promociones, suspensión, remoción, cese o sanción de cualquier servidor público de la administración de justicia, ya sea interés personal, familiar o de negocios, o porque con ello pretenda derivar alguna ventaja o beneficio para sí o para un tercero;
+IX. Influir, directa o indirectamente, en el nombramiento, promociones, suspensión, remoción, cese o sanción de cualquier servidor público de la administración de justicia, ya sea por interés personal, familiar o de negocios, o porque con ello pretenda derivar alguna ventaja o beneficio para sí o para un tercero;
 
-IX.- Abstenerse de cumplir las comisiones que legalmente se les confieran o retardar injustificadamente su ejecución;
+X. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-X.- No presentar con oportunidad y veracidad la declaración sobre su situación patrimonial, ante la Dependencia del Ejecutivo que corresponda en los términos que señala la Ley de Responsabilidades;
+XI. Proporcionar información telefónica, por escrito, o por cualquier otro medio a los interesados sobre el estado de los autos;
 
-XI.- No informar a su superior jerárquico o al titular de su dependencia de todo acto u omisión de los servidores públicos sujetos a su dirección, que puedan implicar inobservancia de las obligaciones propias del cargo;
+XII. Abstenerse de cumplir las comisiones que legalmente se les confieran o retardar injustificadamente su ejecución;
 
-XII.- Expedir nombramiento en favor de quien se encuentre inhabilitado por resolución firme de autoridad competente;
+XIII. Dejar de asistir sin motivo justificado al despacho de su oficina o limitar indebidamente las horas de trabajo, así como dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-XIII.- Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la ley prohiba;
+XIV. Autorizar a un subordinado a no asistir a sus labores sin causa justificada, así como otorgarle indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo;
 
-XIV.- Ejercer funciones de un empleo, cargo o comisión cuando haya concluido el período para el cual se le designó, o haber cesado, por alguna otra causa, en el ejercicio de sus funciones;
+XV. Dejar de observar la debida consideración que se deben entre sí los servidores públicos de la administración de justicia, independientemente de su jerarquía;
 
-XV.- Embriagarse habitualmente; hacer uso indebido de estupefacientes; practicar juegos prohibidos, u observar, en general, un comportamiento inmoral; y
+XVI. Realizar actos ajenos a sus funciones u omitir los que le son propios con motivo de ellas, en el desempeño de su empleo, cargo o comisión;
 
-XVI.- Todo incumplimiento de los deberes propios del cargo.
+XVII. No atender con la debida corrección a los litigantes y al público en general; y
+
+XVIII. Todo incumplimiento de los deberes y funciones propios del cargo, previstos en éste y otros ordenamientos legales.
+
+Las faltas a que se refiere este artículo serán sancionadas conforme a las disposiciones previstas en los artículos 196 y 198 de esta ley.
 
 #### SECCION TERCERA. DE LAS SANCIONES
 
@@ -2713,23 +3039,27 @@ La destitución consiste en la pérdida definitiva del cargo, empleo o comisión
 
 La inhabilitación implica la incapacidad temporal, hasta por diez años para obtener y ejercer cargo, empleo o comisión.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 196.
 
-Las sanciones administrativas se impondrán, tomando en cuenta:
+Las faltas administrativas serán muy graves, graves y no graves.
 
-I.- La gravedad y modalidad de la falta en que se haya incurrido;
+Para calificar la falta e imponer la sanción correspondiente, la autoridad disciplinaria atenderá a lo previsto por el artículo 198 de esta ley, y analizará los siguientes indicadores:
 
-II.- El grado de participación;
+I. La modalidad de la falta en que se haya incurrido;
 
-III.- Las circunstancias socio-económicas del infractor;
+II. El grado de participación;
 
-IV.- Los motivos determinantes y los medios de ejecución;
+III. Los motivos determinantes y los medios de ejecución;
 
-V.- La antigüedad en el servicio;
+IV. La antigüedad en el servicio;
 
-VI.- La reincidencia; y
+V. La reincidencia;
 
-VII.- El monto del beneficio, daño o perjuicio económico derivados de la falta.
+VI. El monto del beneficio, daño o perjuicio económico derivados de la falta; y
+
+VII. El grado de afectación a la administración de justicia.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2737,27 +3067,25 @@ VII.- El monto del beneficio, daño o perjuicio económico derivados de la falta
 
 Las sanciones impuestas se anotarán en la hoja de servicios del servidor público, a cuyo efecto deberá enviarse copia autorizada de la resolución relativa a la Oficialía Mayor del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 198.
 
-Para la aplicación de las sanciones a que se hace referencia en los artículos anteriores, se observarán las reglas siguientes:
+Para la aplicación de las sanciones por faltas administrativas, además de lo previsto en los artículos precedentes, se observarán las reglas siguientes:
 
-I.- El apercibimiento se aplicará por la primera falta cometida, cuando ésta sea levísima;
+I. Las faltas muy graves darán lugar a la destitución, independientemente de las sanciones que correspondan conforme a otros ordenamientos aplicables. Serán faltas muy graves las previstas en las fracciones I y II del artículo 184; I del artículo 185; I y II del artículo 186; y I a V del artículo 188 de esta ley, además de las que en cada caso considere la autoridad disciplinaria, conforme a los indicadores a que se refiere el artículo 196 de esta ley;
 
-II.- La amonestación se aplicará sólo en tratándose de faltas leves;
+II. Las faltas graves darán lugar a la suspensión, independientemente de las sanciones que correspondan conforme a otros ordenamientos aplicables. Serán faltas graves las contenidas en las fracciones III a VII del artículo 184; II y III del artículo 185; III a V del artículo 186; I del artículo 187; y VI a VIII del artículo 188, además de las que en cada caso considere la autoridad disciplinaria, conforme a los indicadores a que se refiere el artículo 196 de esta ley;
 
-III.- Después de dos amonestaciones, la nueva sanción será de multa;
+III. Las faltas no graves ameritarán apercibimiento o amonestación a criterio de la autoridad disciplinaria, conforme a los indicadores a que se refiere el artículo 196 de esta ley;
 
-IV.- La triple sanción por faltas leves, o la comisión de una falta grave, motivará la suspensión del cargo, empleo o comisión;
+IV. La multa podrá aplicarse como sanción autónoma, con independencia de la calificación de la falta; y en forma conjunta con otras sanciones;
 
-V.- La destitución se aplicará, como primera sanción, en caso de faltas muy graves, o después de dos sanciones de suspensión; y
+V. La reincidencia en falta no grave, dará motivo a la suspensión. La reiteración por más de dos ocasiones en faltas no graves o la reincidencia por falta grave, dará lugar a la destitución; y
 
-VI.- La inhabilitación sólo será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda, con arreglo a las leyes aplicables.
+VI. La inhabilitación sólo será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda, con arreglo a las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-Cuando la destitución del cargo, empleo o comisión, afecte a un servidor público de base, se demandará la terminación de su contrato ante quien corresponda por la Oficialía Mayor del Poder Judicial del Estado, a solicitud de la autoridad que aplicó la sanción.
+Cuando la destitución del empleo, cargo o comisión, afecte a un servidor público de base, se demandará la terminación de su contrato ante quien corresponda por la Oficialía Mayor del Poder Judicial del Estado, a solicitud de la autoridad que aplicó la sanción.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2771,11 +3099,15 @@ La jurisdicción disciplinaria, se ejercerá en única instancia:
 
 I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente o de los magistrados de las Salas;
 
-II.- Por el Consejo de la judicatura, cuando se trate de quejas en contra de los magistrados unitarios o jueces;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Por el Consejo de la Judicatura, cuando se trate de quejas en contra de los Magistrados del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Apelación Especializado en materia de Adolescentes, de los Tribunales Unitarios o de los Jueces;
 
 III.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de personal de la Presidencia o de sus dependencias;
 
-IV.- Por los Presidentes de las Salas que corresponda, magistrados unitarios de distrito y jueces, cuando se trate de quejas en contra de los secretarios o actuarios;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Por los Presidentes de las Salas que corresponda, Magistrados del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Apelación Especializado en materia de Adolescentes, de los Unitarios de Distrito y Jueces, cuando se trate de quejas en contra de los secretarios o actuarios;
 
 V.- Por los secretarios de acuerdos, cuando se trate de quejas en contra de sus subalternos y la falta solo amerite apercibimiento o amonestación.
 
@@ -2823,7 +3155,9 @@ II.- Datos suficientes para la identificación del servidor público judicial co
 
 III.- Los hechos concretos y la conducta o conductas que se estimen constitutivos de la falta o faltas; y
 
-IV.- Las pruebas con las que se estima acreditar la falta o faltas atribuidas al servidor público de que se trate, relacionándolas con los hechos que se le imputan; y en su caso acompañando los documentos que se ofrezcan con tal carácter, o el escrito, con acuse de recibo, mediante el que se solicitaron a la autoridad correspondiente.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Las pruebas o elementos de convicción suficientes con los que se estima acreditar la falta o faltas atribuidas al servidor público de que se trate, relacionándolas con los hechos que se le imputan; y en su caso acompañando los documentos que se ofrezcan con tal carácter o el escrito, con acuse de recibo, mediante el que se solicitaron a la autoridad correspondiente.
 
 Si la queja no reúne los requisitos a que se refieren las fracciones I y II de este artículo, se prevendrá al quejoso para que la aclare dentro de los tres días siguientes; de no subsanarse la falta de domicilio, todas las notificaciones se le harán por estrados, y la falta de identificación del servidor público judicial contra quien se presenta la queja, tendrá como consecuencia su improcedencia.
 
@@ -2851,17 +3185,29 @@ I.- Recibido el escrito de queja, se ordenará la correspondiente ratificación 
 
 II.- La autoridad responsable de instruir el procedimiento disciplinario, si estima improcedente la queja, dictará o propondrá, según sea el caso, la resolución respectiva, la cual será notificada personalmente al quejoso. Para determinar la procedencia o improcedencia de la queja, la autoridad encargada de la instrucción del procedimiento disciplinario, podrá ordenar las diligencias que estime necesarias para mejor proveer;
 
-III.- Si no existe motivo de improcedencia, se dictará auto inicial del proceso disciplinario, en el que se ordenará correr traslado al infractor, con copia del escrito o del acta en la que conste la queja, para que rinda informe por escrito, dentro del término de cinco días, y se señalará lugar, día y hora para la celebración de una audiencia de pruebas y alegatos, a más tardar dentro del término de quince días;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Las pruebas deberán rendirse durante la audiencia, pero cuando se trate de la confesional, testimonial o pericial, éstas deberán anunciarse con cinco días de anticipación para la debida preparación de su desahogo, debiendo citarse con toda oportunidad al absolvente, a los testigos, o a los peritos que designen el juzgador y los interesados;
+III.- Si no existe motivo de improcedencia, se dictará auto inicial del proceso disciplinario, en el que se ordenará correr traslado al probable responsable, con copia del escrito o del acta en la que conste la queja, para que dentro del término de cinco días rinda informe por escrito, acompañando las pruebas que a su derecho convenga;
 
-V.- Abierta la audiencia se procederá a recibir, por su orden, las pruebas y los alegatos por escrito, esto último sin perjuicio de que los interesados puedan alegar verbalmente, sin que sus alegaciones se hagan constar en autos. En cualquier tiempo antes de fallar, podrá el juzgador decretar pruebas para mejor proveer;
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-VI.- Se levantará acta circunstanciada de las diligencias que se practiquen, mismas que suscribirán quienes en ellas intervengan. La inasistencia del quejoso, del servidor público o de ambos, no impedirá la celebración de la audiencia;
+IV.- En el procedimiento disciplinario es admisible toda clase de pruebas, excepto la confesional por posiciones y las que fueren contra la moral o el derecho;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Una vez recibido el informe o transcurrido el término a que se refiere la fracción III de este artículo, la autoridad disciplinaria admitirá las pruebas que procedan y ordenará su preparación, a efecto de que las mismas se reciban en la audiencia de pruebas y alegatos, que se fijará a más tardar dentro del término de quince días, debiendo citarse con toda oportunidad a los testigos y a los peritos que designen el juzgador y los interesados;
+
+VI.- Abierta la audiencia se procederá a recibir, por su orden, las pruebas y los alegatos por escrito, esto último sin perjuicio de que los interesados puedan alegar verbalmente, sin que sus alegaciones se hagan constar en autos. En cualquier tiempo antes de fallar, podrá el juzgador decretar pruebas para mejor proveer;
+
+VII.- Se levantará acta circunstanciada de las diligencias que se practiquen, mismas que suscribirán quienes en ellas intervengan. La inasistencia del quejoso, del servidor público o de ambos, no impedirá la celebración de la audiencia;
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2005)</small>
 
-VII.- Concluida la audiencia, se pronunciará la resolución definitiva que proceda, en sesión posterior, cuando la autoridad competente sea el Consejo de la Judicatura. En los demás casos, la resolución se pronunciará dentro de los treinta días hábiles siguientes; en la que se resolverá sobre la procedencia de la queja, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes, notificándosele personalmente a las partes la resolución, en breve término.
+VIII.- Concluida la audiencia, se pronunciará la resolución definitiva que proceda, en sesión posterior, cuando la autoridad competente sea el Consejo de la Judicatura. En los demás casos, la resolución se pronunciará dentro de los treinta días hábiles siguientes; en la que se resolverá sobre la procedencia de la queja, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes, notificándosele personalmente a las partes la resolución, en breve término.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+En lo no previsto en este artículo, se aplicará supletoriamente y en lo pertinente lo dispuesto en el Código de Procedimientos Penales del Estado.
 
 ###### ARTICULO 207.
 
@@ -2895,7 +3241,7 @@ Si existiere resistencia al mandamiento legítimo de autoridad se estará a lo d
 
 ## TITULO DECIMO PRIMERO. DE LOS ESTIMULOS Y RECOMPENSAS
 
-### CAPITULO II. DE LOS ABOGADOS
+### CAPITULO II. DEL ORGANO Y PROCEDIMIENTO PARA EL OTORGAMIENTO
 
 ###### ARTICULO 212.
 
@@ -2951,8 +3297,6 @@ El derecho al uso de la venera y la roseta, se pierde cuando el que las recibió
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
 ###### ARTICULO 221.
 
 El presidente y los magistrados del Tribunal Superior de Justicia, de consuno, resolverán los expedientes que se integren para el otorgamiento de los estímulos y recompensas.
@@ -3005,9 +3349,7 @@ Las erogaciones que motive el otorgamiento de estímulo y recompensas, serán co
 
 ## TITULO DECIMO SEGUNDO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DE LA JURISPRUDENCIA POR REITERACION, CONTRADICCION O DECLARACION
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO II. DE LOS ABOGADOS
 
 ###### ARTICULO 230.
 
@@ -3029,9 +3371,11 @@ El Pleno del Tribunal integrará el cuerpo de auxiliares y colaboradores de la J
 
 El Pleno del Tribunal dividirá la lista general por distritos judiciales, teniendo en cuenta el lugar de residencia del seleccionado. La lista de cada distrito judicial se ordenará, procurando incluir en ella por lo menos un auxiliar para cada cargo, y por lo que toca a los peritos, uno por cada especialidad. En las listas así formadas, las personas en ellas comprendidas avocadas a los distintos cargos y especialidades, se colocarán en orden alfabético por apellidos.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 234.
 
-Las listas se harán llegar oportunamente a las Salas y Juzgados, debiendo ser publicadas en los estrados, donde permanecerán a la vista del público, durante todo el año.
+Las listas se harán llegar oportunamente a las Salas, al Tribunal Electoral, al Tribunal de lo Contencioso-Administrativo, al Tribunal de Apelación Especializado en materia de Adolescentes, a los Tribunales Unitarios de Distrito y a los Juzgados, debiendo ser publicadas en los estrados, donde permanecerán a la vista del público, durante todo el año.
 
 ###### ARTICULO 235.
 
@@ -3127,9 +3471,9 @@ Los auxiliares tendrán derecho a que, además de sus honorarios, se les reembol
 
 Cuando prosperen las objeciones por dolo, negligencia, soborno o simulación contra la actuación del auxiliar, no habrá lugar al pago de honorarios.
 
-### CAPITULO III. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 249.
 
@@ -3215,13 +3559,13 @@ DE LA JURISPRUDENCIA LOCAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
-### CAPITULO IV. DE LA INTERRUPCION Y MODIFICABILIDAD DE LA JURISPRUDENCIA
+### CAPITULO II. DE LA JURISPRUDENCIA POR REITERACION, CONTRADICCION O DECLARACION
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 261.
 
-La jurisprudencia local que emane de los Tribunales del Poder Judicial del Estado es una garantía jurisdiccional. El Pleno, las Salas, el Tribunal Electoral y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia en los términos que dispone esta ley.
+La jurisprudencia local que emane de los Tribunales del Poder Judicial del Estado es una garantía jurisdiccional. El Pleno, las Salas, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia en los términos que dispone esta ley.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3249,9 +3593,9 @@ II.- Fijen en contradicción de criterios el que debe prevalecer;
 
 III.- Exista declaración de confirmación o modificación del criterio emanado de un tribunal unitario de distrito.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 263 BIS.- El Tribunal Electoral formará jurisprudencia cuando sustente el mismo criterio en tres resoluciones ininterrumpidas.
+ARTICULO 263 BIS.- El Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo y el Tribunal de Apelación Especializado en materia de Adolescentes formarán jurisprudencia cuando sustenten el mismo criterio en tres resoluciones ininterrumpidas.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3283,21 +3627,31 @@ Las tesis de jurisprudencia no afectarán las situaciones jurídicas concretas d
 
 Cuando las partes invoquen la existencia de una jurisprudencia local deberán expresarlo por escrito identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del Boletín o el Periódico Oficial del Gobierno del Estado.
 
-El Pleno, el Consejo o las Salas por sí o por conducto de sus presidencias, podrán enviar copia certificada de las tesis de jurisprudencias aprobadas a todos los tribunales y jueces del Poder Judicial.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+El Pleno, el Consejo o las Salas por sí o por conducto de sus presidencias, enviarán copia certificada de las tesis de jurisprudencias aprobadas a todos los tribunales y Jueces del Poder Judicial.
 
-El Tribunal Electoral, por conducto de su Presidencia, podrá enviar copia certificada de las tesis de jurisprudencia aprobadas, al Instituto Electoral y de Participación Ciudadana de Coahuila para su inmediata observancia obligatoria.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El Tribunal Electoral, por conducto de su Presidencia, enviará copia certificada de las tesis de jurisprudencia aprobadas, al Instituto Electoral y de Participación Ciudadana de Coahuila para su inmediata observancia obligatoria.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El Tribunal de lo Contencioso-Administrativo, por conducto de su Presidencia, enviará copia certificada de las tesis de jurisprudencia aprobadas a las Salas Distritales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El Tribunal de Apelación Especializado en materia de Adolescentes, por conducto de su Magistrado, enviará copia certificada de las tesis aprobadas a los Jueces de Primera Instancia en materia de adolescentes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
-### CAPITULO V. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA Y TESIS AISLADAS
+### CAPITULO III. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 268.
 
-La jurisprudencia por reiteración que emane del Pleno, las Salas, el Tribunal Electoral o el Consejo, deberá estar debidamente glosada en tesis y aprobadas para su debida publicación.
+La jurisprudencia por reiteración que emane del Pleno, las Salas, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes o el Consejo de la Judicatura, deberá estar debidamente glosada en tesis y aprobadas para su debida publicación.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3307,21 +3661,25 @@ La jurisprudencia del Pleno por contradicción se regirá de acuerdo al procedim
 
 I.- La denuncia de contradicción se podrá formular por cualquier persona o autoridad. En todo caso se deberá señalar el órgano u órganos que incurren en contradicción, en qué consiste ésta y, si está a su disposición, el denunciante deberá acompañar el original o copia autorizada de la o las resoluciones que sean materia de la contradicción. Sin perjuicio de lo anterior, la Presidencia podrá mandar traer los documentos necesarios para analizar la denuncia de que se trate;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-II.- La denuncia versará sobre criterios sustentados por las Salas o el Tribunal Electoral;
+II.- La denuncia versará sobre criterios sustentados por las Salas, el Tribunal Electoral o el Tribunal de lo Contencioso-Administrativo;
 
 III.- La denuncia de contradicción se presentará ante la Secretaría del Pleno. La Presidencia mediante oficio mandará dar vista al Procurador de Justicia de la denuncia, para que dentro de los quince días siguientes manifieste su opinión. Transcurrido dicho plazo, con o sin opinión, la Presidencia acordará la ponencia en estricto turno a uno de los magistrados adscritos a la Sala de la materia sobre la que verse prevalentemente la contradicción, poniendo a su disposición el expediente respectivo. La ponencia se deberá formular dentro de los sesenta días siguientes, con inclusión de los que sean inhábiles o festivos. De la misma se dará cuenta al Pleno por conducto de la Presidencia para su discusión y aprobación;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Cuando la denuncia de contradicción se refiera a criterios sustentados exclusivamente en materia civil, familiar, penal o electoral, y en la votación para resolver sobre ellas exista empate, tendrá calidad el sentido en que hayan votado la mayoría de los magistrados de la Sala o del Tribunal de la materia que corresponda.
+IV.- Cuando la denuncia de contradicción se refiera a criterios sustentados exclusivamente en materia civil, familiar, penal o electoral y en la votación para resolver sobre ellas exista empate, tendrá calidad el sentido en que hayan votado la mayoría de los Magistrados de la Sala o del Tribunal de la materia que corresponda.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 270.
 
 La jurisprudencia de las Salas por contradicción se regirá de acuerdo al procedimiento que en lo conducente señalan las fracciones I, II y III del artículo anterior. Mas la denuncia por contradicción se presentará ante el secretario de acuerdos de la Sala que corresponda; y versará sobre criterios sustentados por los tribunales unitarios de distrito o los jueces del Poder Judicial, o entre unos u otros, procurando su uniformidad.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 270 BIS.- La jurisprudencia del Tribunal de lo Contencioso-Administrativo por contradicción de tesis se regirá de acuerdo al procedimiento que señalan las fracciones I, II y III del artículo 269 de esta ley, pero la denuncia por contradicción se presentará ante el Secretario de Acuerdos del Tribunal y versará sobre criterios sustentados por las Salas Distritales, procurando su uniformidad.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3355,7 +3713,15 @@ III.- La Presidencia de la Sala o del Consejo, según el caso, deberán encargar
 
 IV.- La declaratoria de jurisprudencia podrá confirmar o sustentar un criterio distinto al señalado por el tribunal unitario. En todo caso, el criterio fijado por la Sala o el Consejo es el que formará jurisprudencia obligatoria.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+El Tribunal de Apelación Especializado en materia de Adolescentes solo deberá observar este procedimiento, cuando los tres criterios que sustente en el mismo sentido, en forma ininterrumpida, se ocupen de la interpretación de disposiciones de las leyes penales o de la aplicación de normas que establezcan medidas disciplinarias. Los criterios que establezca en la materia de su especialidad, distintos a los señalados, formarán jurisprudencia sin necesidad de la declaración a que se refiere este artículo.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+### CAPITULO IV. DE LA INTERRUPCION Y MODIFICABILIDAD DE LA JURISPRUDENCIA
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 274.
 
@@ -3367,15 +3733,23 @@ La jurisprudencia que pronuncien las Salas del Tribunal Superior de Justicia ten
 
 La jurisprudencia que pronuncie el Tribunal Electoral tendrá observancia obligatoria para el Instituto Electoral y de Participación Ciudadana, para los partidos políticos y para todas las autoridades del estado, con excepción del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+La jurisprudencia que pronuncie el Tribunal de lo Contencioso-Administrativo tendrá observancia obligatoria para las Salas Distritales y para todas las autoridades del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+La jurisprudencia que pronuncie el Tribunal de Apelación Especializado en materia de Adolescentes tendrá observancia obligatoria para los Juzgados de Primera Instancia en materia de Adolescentes.
+
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 La jurisprudencia que en materia disciplinaria pronuncien el Pleno o las Salas sólo tendrán efectos obligatorios para ellos.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 275.
 
-La jurisprudencia disciplinaria que pronuncie el Consejo de la Judicatura tendrá observancia obligatoria solamente para los tribunales unitarios de distrito y los juzgados del estado.
+La jurisprudencia disciplinaria que pronuncie el Consejo de la Judicatura, tendrá observancia obligatoria solamente para el Tribunal de Apelación Especializado en materia de Adolescentes, para los Tribunales Unitarios de Distrito y los Jueces del Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3385,23 +3759,35 @@ La obligatoriedad de la jurisprudencia local surtirá sus efectos al día siguie
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
+### CAPITULO V. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA Y TESIS AISLADAS
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 277.
 
-La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad. El Pleno, las Salas, el Tribunal Electoral y el Consejo, estarán facultados para interrumpir su jurisprudencia sólo en los casos y bajo las condiciones que establece este capítulo.
+La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad. El Pleno, las Salas, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura, estarán facultados para interrumpir su jurisprudencia sólo en los casos y bajo las condiciones que establece este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 278.
 
-La jurisprudencia por reiteración o por contradicción que emane del Pleno, de las Salas o del Tribunal Electoral, según el caso, se interrumpirá por otras en contrario de ellos, según corresponda, siempre y cuando:
+La jurisprudencia por reiteración o por contradicción que emane del Pleno, de las Salas, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo o del Tribunal de Apelación Especializado en materia de Adolescentes, según el caso, se interrumpirá por otras en contrario de ellos, según corresponda, siempre y cuando:
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
 
 I.- Tratándose del Pleno, la interrupción se apruebe por lo menos por las dos terceras partes de los magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-Si se trata del Tribunal Electoral, que la interrupción se apruebe por lo menos por dos magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno de ese Tribunal;
+Si se trata del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, que la interrupción se apruebe por lo menos por dos Magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno de esos Tribunales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+Si se trata de una jurisprudencia por reiteración del Tribunal de Apelación Especializado en materia de Adolescentes, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
+En todos los casos, en la primera ejecutoria que se pronuncie deberán expresarse las razones en que se apoye la interrupción, las cuales se referirán a las que se obtuvieron en consideración para establecer la jurisprudencia relativa.
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3417,23 +3803,17 @@ I.- Si se trata de una jurisprudencia por reiteración, es necesario que existan
 
 II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Consejo sólo podrá interrumpirla con base en las propuestas que hagan valer los tribunales unitarios de Distrito o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 280.
 
-El Pleno, las Salas, el Tribunal Electoral y el Consejo estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones para hacerlo. Es innecesario que exista pronunciación previa de una resolución en un caso concreto para modificar la jurisprudencia.
+El Pleno, las Salas, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones fundadas para hacerlo. Es necesario que exista pronunciamiento previo de una resolución en un caso concreto para modificar la jurisprudencia, observándose las mismas reglas establecidas en esta ley para su formación.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+El Pleno, las Salas, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura, por sí mismos, o bien por conducto de las propuestas que realicen las Salas Distritales, los Tribunales Unitarios o los Jueces, en su caso, podrán modificar la jurisprudencia en la forma prevista en el párrafo anterior.
 
-El Pleno, las Salas y el Consejo por sí mismos, o bien por conducto de las propuestas que realicen los tribunales unitarios o los jueces, podrán modificar la jurisprudencia vía oficio o previa resolución.
+En los casos de las propuestas de las Salas Distritales, de los Tribunales Unitarios o los Jueces se harán por vía de denuncia ante el Pleno, las Salas, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes o el Consejo de la Judicatura, según el caso, para que éstos determinen si ha lugar o no a modificar el criterio. La propuesta de modificación deberá identificar la tesis jurisprudencial en cuestión, las razones que motiven la denuncia y, en su caso, las constancias necesarias que sirvan de base para fundamentar que en los casos concretos es justificada la modificación propuesta.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
-
-En el caso de las propuestas de los tribunales unitarios o los jueces se harán por vía de denuncia ante el Pleno, las Salas o el Consejo, según el caso, para que éstos determinen si ha lugar o no ha lugar a modificar el criterio. La propuesta de modificación deberá identificar la tesis jurisprudencial en cuestión, las razones que motiven la denuncia y, en su caso, las constancias necesarias que sirvan de base para fundamentar que en los casos concretos es justificada la modificación propuesta.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
-
-El Pleno, las Salas o el Consejo podrán modificar sus tesis de jurisprudencia sin que estén vinculados a la denuncia de modificación.
+El Pleno, las Salas, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes o el Consejo de la Judicatura podrán modificar sus tesis de jurisprudencia sin que estén vinculados por la denuncia de modificación.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3457,17 +3837,17 @@ IV. Por nueva disposición constitucional o legal aplicables.
 
 El Presidente del Tribunal Superior de Justicia emitirá las circulares bajo las cuales se formularán, depurarán y glosarán las tesis aisladas o de jurisprudencia.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 283.
 
-El Pleno, las Salas, el Tribunal Electoral y el Consejo formularán sus tesis de jurisprudencia y ordenarán que se publiquen dentro de los sesenta días siguientes al que se aprueben. En cualquier caso, se deberá enviar para su publicación la tesis de jurisprudencia al Boletín de Información Judicial o al Periódico Oficial del Gobierno del Estado, quince días antes de que venza el plazo anterior.
+El Pleno, las Salas, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura formularán sus tesis de jurisprudencia y ordenarán que se publiquen dentro de los sesenta días siguientes al que se aprueben. En cualquier caso, se deberá enviar para su publicación la tesis de jurisprudencia al Boletín de Información Judicial o al Periódico Oficial del Gobierno del Estado, quince días antes de que venza el plazo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 284.
 
-En todo caso, el Pleno, las Salas, el Tribunal Electoral, el Consejo, los Tribunales Unitarios de Distrito y los Jueces del Poder Judicial, según corresponda, deberán remitir mensualmente a la Presidencia las tesis que contengan jurisprudencia, mencionando esta circunstancia; o los criterios debidamente formulados que estimen relevantes, sustentados en las resoluciones dictadas en los procesos en que hayan conocido.
+En todo caso, el Pleno, las Salas, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo, los Tribunales Unitarios de Distrito y los Jueces del Poder Judicial, según corresponda, deberán remitir mensualmente a la Presidencia las tesis que contengan jurisprudencia, mencionando esta circunstancia; o los criterios debidamente formulados que estimen relevantes, sustentados en las resoluciones dictadas en los procesos en que hayan conocido.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3716,3 +4096,17 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan al pr
 P.O. 24 DE MAYO DE 2005.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con excepción de las disposiciones en materia contenciosa-administrativo y de adolescentes infractores, las cuales iniciarán su vigencia conforme a los términos y circunstancias señalados en los artículos transitorios subsecuentes.
+
+SEGUNDO. Las reformas relativas a la materia contenciosa-administrativa a que refiere el presente decreto, entrarán en vigor de manera conjunta con la legislación que regule la justicia administrativa que, en su oportunidad, apruebe el Congreso del Estado.
+
+TERCERO. Las reformas relativas a la materia de adolescentes a que se refiere el presente decreto, entrarán en vigor de manera conjunta con la legislación que regule la justicia para adolescentes que, en su oportunidad, apruebe el Congreso del Estado.
+
+CUARTO. Los órganos que actualmente conforman el Consejo de Menores, como órgano desconcentrado de la Secretaría de Gobierno del Poder Ejecutivo, pasarán a formar parte de los órganos especializados del Poder Judicial que se establecen mediante el presente decreto, a cuyo efecto sus titulares deberán acreditar el cumplimiento de los requisitos previstos específicamente para el desempeño de cada cargo en la Constitución Política del Estado, en la Ley Orgánica del Poder Judicial del Estado, en este Decreto que la reforma y en la Ley de Justicia para Adolescentes. Con este propósito, el Consejo de la Judicatura implementará la preparación y capacitación necesaria del personal que conformará los mencionados órganos especializados judiciales y realizará las evaluaciones para determinar las asignaciones correspondientes para cada caso.
+
+QUINTO. Los procedimientos en trámite y las sanciones por aplicar al iniciarse la vigencia del presente Decreto, se regirán por las disposiciones de la Ley Orgánica del Poder Judicial anteriores a su reforma. Las faltas cometidas con anterioridad a su vigencia, pendientes de queja, se regirán conforme a las disposiciones de este Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
