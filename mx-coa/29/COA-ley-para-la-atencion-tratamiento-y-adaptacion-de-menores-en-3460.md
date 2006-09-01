@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-atencion-tratamiento-y-adaptacion-de-menores-en-346
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-14"
-last_updated: "2006-03-11"
+last_updated: "2006-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ORDENAMIENTO Y SUS REFORMAS, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2006.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de junio de 1994.
 
@@ -1480,3 +1480,25 @@ A quienes se les hubiere recaudado la pena de prisión, y sean mayores de diecio
 QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor el 12 de septiembre de 2006.
+
+SEGUNDO.- Se abroga la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial de fecha 14 de junio de 1994 y se derogan todas las disposiciones que se opongan a la presente ley.
+
+TERCERO.- La Ley que se aprueba mediante el presente Decreto, se aplicará desde luego una vez que entre en vigor; a cuyo efecto, se implementarán oportunamente los mecanismos y medidas para la operatividad del sistema de justicia para adolescentes en Coahuila.
+
+CUARTO.- Los Poderes Ejecutivo y Judicial del Estado establecerán los mecanismos de coordinación a efecto de llevar a cabo la transferencia de las instancias del Consejo de Menores previstas en la ley que se abroga mediante el artículo segundo transitorio de este Decreto. Dicha transferencia considerará los recursos materiales, económicos, personales y presupuestales correspondientes.
+
+QUINTO.- El Consejo de Menores continuará atendiendo los asuntos de su competencia conforme a lo previsto en la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, hasta en tanto entre en vigor la presente Ley de Justicia Para Adolescentes.
+
+A partir de la fecha de su vigencia, los Jueces de Primera Instancia Especializados en la Impartición de Justicia para Adolescentes sustituirán a los Consejeros Unitarios y los Agentes del Ministerio Público Especializado a los Comisionados de la Unidad de Prevención y Tratamiento de Menores; y los procedimientos que se encuentren en trámite deberán concluirlos mediante resolución definitiva conforme a la Ley anterior. Contra dicha resolución procederá, en su caso, el recurso de apelación previsto en esta Ley.
+
+En la misma fecha, el Tribunal de Apelación Especializado en Materia de Adolescentes sustituirá a la Sala Superior y resolverá en definitiva los asuntos que se encuentren en trámite en segunda instancia.
+
+Para el trámite del procedimiento, la interposición de un recurso, la aplicación de una medida o el ejercicio de algún derecho se estará a la Ley que resulte más favorable al adolescente.
+
+SEXTO.- Los adolescentes sujetos a proceso o que se encuentren cumpliendo una medida en atención a la ley que se abroga, quedarán sujetos al régimen previsto en la presente ley en todo aquello que les beneficie.
+
+SÉPTIMO.- Para facilitar la interpretación y aplicación del presente Decreto, el Ejecutivo publicará la Exposición de Motivos que con él se acompaña, en el Periódico Oficial del Gobierno del Estado.
