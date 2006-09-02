@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2006-06-10"
+last_updated: "2006-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -84,6 +84,10 @@ Los consejeros gozarán de las debidas garantías para ejercer su encargo con pl
 Los consejeros propietarios y suplentes durarán en su encargo siete años y no podrán ser reelectos, en los términos de la ley. Serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Parlamentaria. El ejercicio de esta facultad está sujeto a las restricciones fijadas por la ley.
 
 El Consejo General designará, a propuesta del consejero presidente, a los funcionarios directivos del instituto.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2006)</small>
+
+Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, a revelar sus fuentes de información, motivo de una publicación.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3240,3 +3244,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Para los efectos del artículo 202 de la Constitución Política del Estado, envíese oportunamente a los H. Ayuntamientos del Estado, copia de la iniciativa y de los debates del Congreso.
 
 Realizado en cómputo a que el mismo se refiere, hágase la declaración correspondiente a su aprobación y envíese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado, o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
