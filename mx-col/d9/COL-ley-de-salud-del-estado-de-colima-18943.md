@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2000-12-23"
+last_updated: "2006-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -75,9 +75,13 @@ III.- La protección y el acrecentamiento de los valores que coadyuven a la crea
 
 IV.- El desarrollo de actitudes responsables y solidarias de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población; y
+V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población; y (sic)
 
-VI.- El conocimiento de los servicios de salud para su adecuado aprovechamiento y utilización.
+VI.- El conocimiento de los servicios de salud para su adecuado aprovechamiento y utilización;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Garantizar el acceso a los servicios de salud a los menores de edad, las mujeres, las personas con discapacidad y los adultos mayores.
 
 ###### ARTICULO 3º.
 
@@ -269,7 +273,11 @@ II.- Atender los problemas sanitarios del Estado, así como los factores que con
 
 III.- Contribuir al crecimiento demográfico armónico del Estado;
 
-IV.- Colaborar al bienestar social de la población, apoyando a las instituciones encargadas de prestar servicios de asistencia social, principalmente de menores en estado de abandono, personas con discapacidad y adultos mayores desamparados, para fomentar y propiciar su incorporación a una vida equilibrada en lo social;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Colaborar al bienestar social de la población, apoyando a las instituciones encargadas de prestar servicio de asistencia social, principalmente de menores en estado de abandono, personas con discapacidad, adultos mayores desamparados y personas víctimas de violencia intrafamiliar, para fomentar y propiciar su incorporación a una vida equilibrada en lo social.
+
+Así mismo, procurar la atención y tratamiento para los sujetos generadores de violencia intrafamiliar, evitando la reproducción de patrones conductuales que coloquen en estado de vulnerabilidad a amplios sectores de la sociedad;
 
 V.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al adecuado crecimiento físico y mental de la niñez;
 
@@ -1344,3 +1352,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 18 días del mes de diciembre del año dos mil.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
