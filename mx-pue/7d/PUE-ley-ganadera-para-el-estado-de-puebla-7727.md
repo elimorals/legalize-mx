@@ -4,7 +4,7 @@ identifier: "PUE-ley-ganadera-para-el-estado-de-puebla-7727"
 country: "mx"
 rank: "ley"
 publication_date: "1970-08-11"
-last_updated: "1984-11-16"
+last_updated: "2006-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY GANADERA PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1984.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY GANADERA PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 4 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 11 de agosto de 1970.
 
@@ -1460,3 +1462,33 @@ Se concede a los ganaderos y explotadores de pequeñas especies, un término de 
 ###### ARTICULO 4o.
 
 El Ejecutivo del Estado, expedirá el Reglamento correspondiente.
+
+P.O. 4 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Ganadera para el Estado de Puebla, publica en el Periódico Oficial del Estado el once de agosto de mil novecientos setenta.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento a que se refiere la presente Ley, deberá aprobarse en un plazo no mayor de doce meses contados partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en la materia y la substanciación de los recursos que se encuentren en trámite al inicio de la vigencia de la presente Ley, se sujetarán a las formas y procedimientos de los ordenamientos que les dieron origen.
+
+###### ARTÍCULO SEXTO.
+
+Los permisos y autorizaciones concedidos hasta antes de la entrada en vigor de la presente Ley, continuarán vigentes en tanto no se opongan a las disposiciones de la misma, o a los convenios y acuerdos de coordinación institucional que celebre el Estado con la Federación.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado Libre y Soberano de Puebla.
