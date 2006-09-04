@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-publica-preventiva-del-estado-de-mexico-24647"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-09"
-last_updated: "2006-07-21"
+last_updated: "2006-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD PUBLICA PREVENTIVA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1563,269 +1563,141 @@ IV. Participar en las acciones de supervisión de los cuerpos preventivos de seg
 
 V. Informar las situaciones irregulares que detecten respecto de la actuación de los miembros de las instituciones policiales estatales o municipales.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO I NTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
+
 ## TITULO DECIMO TERCERO. De los Servicios de Seguridad Privada
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. De la Normatividad, Supervisión y Control de los Servicios de Seguridad Privada
 
 ###### Artículo 153.
 
-El Ejecutivo del Estado en términos de esta ley, podrá autorizar la prestación de servicios de seguridad privada a las personas físicas o morales que cumplan con los requisitos establecidos en la misma, en sus reglamentos y demás disposiciones legales aplicables, y dar por terminadas anticipadamente las autorizaciones otorgadas por motivos de interés público.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 154.
 
-La autorización para la prestación de servicios de seguridad privada, dentro del territorio del Estado se otorgará, cuando no se ponga en riesgo el interés público, a mexicanos o a sociedades mercantiles integradas por éstos, constituidas conforme a las leyes del país y que cuenten con domicilio legal, social y fiscal en la entidad.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 155.
 
-Los servicios de seguridad privada son auxiliares de la función de seguridad pública. Sus prestadores coadyuvarán con las autoridades de seguridad pública en los casos de urgencia, siniestro, desastre o cuando así lo soliciten las autoridades estatales o municipales.
-
-Los particulares que presten este servicio estarán impedidos para ejercer las funciones que correspondan a las autoridades de seguridad pública estatal o municipal.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 156.
 
-Las personas que presten servicios de seguridad privada, así como el personal que utilicen se regirán, en lo conducente por los principios de actuación y deberes previstos en esta ley para los integrantes de los cuerpos preventivos de seguridad pública y en lo dispuesto por las disposiciones federales respectivas.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 157.
 
-Ninguna autorización para la prestación de servicios de seguridad privada podrá comprender el uso de las palabras "Policía", "Agente", "Investigador" o cualquier otro vocablo, abreviatura, imagen o logotipo, que pueda provocar confusión o establecer relación con las Autoridades Federales, Estatales o Municipales o con los Cuerpos Preventivos de Seguridad Publica Estatal o Municipal.
-
-El término "seguridad" solamente podrán utilizarlo acompañado del adjetivo "privada"
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 158.
 
-Los servidores públicos de la Federación, Distrito Federal, Estados o Municipios, o los miembros de sus respectivos cuerpos de seguridad pública, no podrán ser, por sí o por interpósita persona, propietarios, accionistas, empleados, agentes, promotores, consultores, consejeros o asesores de las personas físicas o morales autorizadas para prestar servicios de seguridad privada dentro del territorio del Estado de México.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 159.
 
-Los integrantes de los cuerpos de seguridad pública estatal o municipales no podrán prestar sus servicios simultáneamente en éstos y en los servicios de seguridad privada, ni en éstos últimos dentro del año natural siguiente a la fecha en que se dejó de laborar en cualquiera de dichos cuerpos de seguridad. Los prestadores de servicios de seguridad privada deberán cumplir esta disposición. De no hacerlo, serán sancionados con la cancelación de la autorización o licencia respectiva.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 160.
 
-Corresponde a la Secretaría General de Gobierno por conducto de la Dirección General de Seguridad Pública y Tránsito controlar y supervisar la operación de los servicios de seguridad privada y cuidar que éstos se presten en el marco de esta ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 161.
 
-El Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública, dependiente de la Dirección General de Seguridad Pública y Tránsito, coadyuvará al control de las personas físicas o morales que presten servicios de seguridad privada, de su personal operativo y de sus recursos.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 162.
 
-Los servicios de seguridad privada podrán consistir en:
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
-I. Protección y vigilancia de personas o bienes muebles e inmuebles en áreas privadas; y
-
-II. Custodia y traslado de fondos y valores.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. Requisitos para la Prestación de los Servicios de Seguridad Privada
 
 ###### Artículo 163.
 
-Las personas físicas o morales que soliciten autorización para la prestación de servicios de seguridad privada dentro del territorio del Estado, deberán presentar solicitud en las formas oficiales que para el efecto se expidan, anexando los siguientes documentos:
-
-I. Solicitud por escrito para la prestación del servicio de seguridad privada, manifestando la naturaleza o clase de servicios que prestarán;
-
-II. Solicitud de su inscripción en el Registro Estatal de Personal, Armamento y Equipo de Seguridad Pública;
-
-III. Copia certificada del acta constitutiva de la sociedad, de sus estatutos y de las reformas a éstos, tratándose de personas morales y, en el caso, de personas físicas, copia certificada del acta de nacimiento, de la credencial para votar con fotografía y cartilla del Servicio Militar Nacional liberada, en el caso de los varones;
-
-IV. Copia de la cédula del Registro Federal de Contribuyentes;
-
-V. Constancia del domicilio legal, social y fiscal dentro del territorio del Estado;
-
-VI. Copia certificada de las licencias, permisos o autorizaciones otorgadas por las autoridades federales, estatales o municipales para el funcionamiento y prestación de servicios;
-
-VII. Copia certificada, en su caso, del registro y licencia actualizada para la portación y uso de armas de fuego otorgada por la Secretaría de la Defensa Nacional;
-
-VIII. Inventario de vehículos, armas, y municiones y forma de adquisición, incluyendo copia certificada de las facturas de cada uno de ellos y de los pedimentos de importación, en su caso;
-
-IX. Fotografías a colores de los vehículos, con los logotipos y aditamentos que se usen, con todos los accesorios, apreciados de manera frontal, lateral y posterior;
-
-X. Relación de campos o lugares autorizados para la práctica de tiro con arma de fuego;
-
-XI. Sistemas de reclutamiento y selección del personal;
-
-XII. Programas y manuales para la capacitación del personal;
-
-XIII. Ubicación del o los centros de capacitación;
-
-XIV. Relación de capacitadores; incluyendo copia certificada del acta de nacimiento, del Registro Federal de Contribuyentes, de la cartilla del Servicio Militar Nacional liberada en el caso de varones; de la credencial para votar con fotografía; así como de los certificados o títulos que acrediten su experiencia como capacitadores debidamente legalizados por la autoridad docente que los hubiere expedido;
-
-XV. Organigrama de la empresa;
-
-XVI. Manuales de operación y procedimientos de actividades;
-
-XVII. Relación de contratos y seguros de la sociedad, del personal o de los usuarios;
-
-XVIII. Fotografías a color y con dimensiones de hoja tamaño carta de los uniformes, logotipos, escudos, insignias y demás elementos que distingan al personal y al servicio;
-
-XIX. Listado y antecedentes del personal administrativo, directivo, capacitador y operativo; así como formatos de identificación llenados por cada uno de ellos con letra manuscrita;
-
-XX. Inventario y descripción de equipo mecánico, electrónico y computacional asignado a la prestación del servicio, así como copia certificada legible, de las facturas de cada uno de ellos; y, en su caso, de los pedimentos de importación tratándose de mercancía de origen extranjero; y
-
-XXI. Los demás que establezca el Reglamento de esta ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 164.
 
-La Secretaría General de Gobierno dentro de los treinta días hábiles siguientes contados a partir de la fecha en que se hayan recibido los documentos a que se refiere el artículo anterior, procederá a su revisión, verificación de autenticidad y legalidad, integrando el expediente respectivo del solicitante.
-
-Cuando de la revisión se desprenda omisión o irregularidad en la presentación de documentos, la Secretaría General de Gobierno lo comunicará al interesado, dándole un plazo de diez días hábiles improrrogables para subsanar las omisiones o irregularidades, apercibiéndolo que en caso de no hacerlo en ese tiempo, se tendrá por no presentada la solicitud.
-
-La presentación de la documentación no autorizará en ninguna forma a prestar servicios de seguridad privada ni hacer publicidad sobre los posibles servicios.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 165.
 
-Cuando sea procedente la autorización para la prestación de servicios de seguridad privada, la Secretaría General de Gobierno previo el pago de los derechos respectivos, expedirá, para cada caso, el documento en el que se contengan las condiciones a las que deberá sujetarse el servicio de que se trate.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 166.
 
-Las personas físicas o morales autorizadas para la prestación de servicios de seguridad privada, deberán:
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
-I. Cumplir con los términos en que se haya otorgado la autorización para los servicios de seguridad privada;
-
-II. Atender y cumplir oportunamente las solicitudes de auxilio hechas por las autoridades de seguridad pública;
-
-III. Tener y utilizar el equipo e instalaciones apropiadas para la eficiente prestación de servicios de seguridad privada;
-
-IV. Conservar y exhibir permanentemente en lugar visible de la negociación autorizada para prestar servicios de seguridad privada, la documentación que contenga la autorización para la prestación de dichos servicios; y abstenerse de permitir que esa autorización sea utilizada por terceras personas para operar en dicha actividad;
-
-V. Permitir y facilitar la supervisión que realicen a las personas autorizadas por la Secretaría General de Gobierno, con objeto de verificar el estricto cumplimiento de esta ley en relación a la prestación de servicios de seguridad privada;
-
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
-
-VI. Dar aviso por escrito en caso de realizar actividades adicionales a las declaradas al otorgamiento del registro;
-
-VII. Hacer del conocimiento de las autoridades competentes los hechos que puedan ser constitutivos de delito, así como asegurar y preservar lugares y cosas y entregar al Ministerio Público, en su caso, las pruebas que tengan o conozcan para todo efecto legal;
-
-VIII. Abstenerse de usar sirenas o torretas de cualquier tipo o color; así como de utilizar autos con defensas diferentes al modelo original; en particular se abstendrán de adaptar y utilizar "tumbaburros" en los vehículos respectivos. Tampoco deberán utilizar vehículos con vidrios obscuros o polarizados sin la autorización respectiva;
-
-IX. Utilizar en su razón social, papelería, documentos de identificación, uniformes, vehículos e instalaciones, solamente los datos de la autorización señalada en la fracción I de este artículo;
-
-X. Usar los uniformes, vehículos, insignias, colores y jerarquías de mando, autorizados por la Dirección General de Seguridad Pública y Tránsito;
-
-XI. No usar placas metálicas para la identificación de su personal; en todo caso, deberán expedir la credencial respectiva conforme al formato y diseño que autorice la autoridad superior en materia de seguridad pública;
-
-XII. Aplicar las disposiciones para la selección, reclutamiento, capacitación y adiestramiento que señala esta ley para los miembros de seguridad pública, así como para el manejo de equipo;
-
-XIII. Llevar un registro actualizado del personal en el libro que autorice la Secretaría General de Gobierno, y reportar a ésta, en un plazo no mayor a cinco días hábiles en que ocurran, las altas, bajas e incidencias de su personal, así como todos los datos referentes a su identificación y localización;
-
-XIV. Consultar al Registro Nacional Policial y al Registro Estatal de Personal de Seguridad Pública los antecedentes de quiénes soliciten incorporarse o reincorporarse a los servicios de seguridad privada, previo a su contratación;
-
-XV. Abstenerse de contratar a persona alguna que haya formado parte de una corporación policial que haya sido dado de baja por irregularidades en su conducta o por haber sido sentenciado por delitos dolosos o inhabilitado mediante resolución administrativa; sin que dicha persona demuestre que la sentencia o esta última resolución, hubieren sido revocada o dejadas sin efecto legal alguno por los tribunales competentes;
-
-XVI. Responder solidariamente por los daños o perjuicios que llegara a causar su personal en el servicio;
-
-XVII. Aplicar los manuales de organización y procedimiento autorizados;
-
-XVIII. Informar a la Secretaría General de Gobierno dentro de un plazo no mayor de cinco días hábiles, las modificaciones a los estatutos, tratándose de las personas morales que presten los servicios de seguridad privada;
-
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
-
-XIX. Comunicar a la Secretaría General de Gobierno dentro de un plazo no mayor de cinco días hábiles, los cambios de su domicilio legal, social y fiscal, así como de los lugares autorizados para la práctica de tiro con arma de fuego y de los centros de capacitación;
-
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
-
-XX. Informar a la Secretaría General de Gobierno dentro de un plazo no mayor de 15 días hábiles, la expedición, los cambios o modificaciones que haga la Secretaría de la Defensa Nacional de licencias de registro y portación de armas de fuego;
-
-XXI. Comunicar a la Secretaría General de Gobierno los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo y de igual forma respecto de las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación;
-
-XXII. Reportar a la Secretaría General de Gobierno dentro de un plazo no mayor de cinco días hábiles, los cambios al inventario de vehículos, armas y municiones y las formas de su adquisición;
-
-XXIII. Enterar a la Secretaría General de Gobierno dentro de un plazo no mayor de cinco días hábiles, los cambios en la relación de sus capacitadores, del organigrama del negocio o de la empresa, de los contratos y seguros de la sociedad, de su personal y de los usuarios del servicio de seguridad privada;
-
-XXIV. Informar a la Secretaría General de Gobierno dentro de un plazo no mayor de cinco días hábiles, de los cambios que se hagan en el inventario del equipo mecánico, electrónico o computacional asignado a la prestación del servicio;
-
-XXV. Mantener en estricta confidencialidad la información relacionada con el servicio prestado; y
-
-XXVI. Los demás que establezca el Reglamento de esta ley.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. De la Autorización y Revalidación
 
 ###### Artículo 167.
 
-La autorización para la prestación del servicio de seguridad privada es intransferible y su vigencia será de dos años revalidables.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 168.
 
-Los interesados en obtener la revalidación de la autorización de servicios de seguridad privada, por lo menos con treinta días hábiles previos al término del vencimiento, acreditaran los requisitos que para este efecto señale la autoridad competente, así como el comprobante del pago de los derechos respectivos.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. Facultades de la Secretaría General de Gobierno en Materia de Servicios de Seguridad Privada
 
 ###### Artículo 169.
 
-Corresponde a la Secretaría General de Gobierno:
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
-I. Recibir las solicitudes de los particulares para prestar a terceros servicios de seguridad privada;
-
-II. Supervisar el cumplimiento de las obligaciones a cargo de los prestadores de servicios de seguridad privada;
-
-III. Evaluar, por conducto del área o unidad administrativa correspondiente, el funcionamiento de los servicios de seguridad privada;
-
-IV. Revisar el equipo, la organización y sus programas operativos;
-
-V. Determinar los casos, condiciones y duración en que los prestadores de seguridad privada auxiliarán a la Dirección General de Seguridad Pública y Tránsito; y
-
-VI. Aplicar las sanciones a que se refiere el capítulo VI de este título a quienes presten los servicios de seguridad privada cuando incumplan con las disposiciones de éste y otros ordenamientos legales aplicables.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. De las Relaciones de Trabajo entre los Prestadores de Servicios de Seguridad Privada y quienes laboren para ellos
 
 ###### Artículo 170.
 
-Las relaciones de trabajo entre las personas físicas o morales que presten servicios de seguridad privada y quienes laboren para ellos serán reguladas conforme a las disposiciones contenidas en el Artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales aplicables. En ningún caso el Estado será parte de las relaciones laborales ni tendrá responsabilidad en las relaciones establecidas entre los prestadores de seguridad privada y sus elementos, así como tampoco con los usuarios.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 171.
 
-El régimen de seguridad social aplicable a los elementos de los servicios de seguridad privada y a las personas civiles que laboren en ellos se regulará conforme a las disposiciones legales aplicables.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. De las Sanciones Aplicables a los Prestadores de Servicios de Seguridad Privada
 
 ###### Artículo 172.
 
-El incumplimiento de las disposiciones contenidas en este Título será sancionado por el Secretario General de Gobierno, con:
-
-I. Amonestación pública con difusión de ésta y apercibimiento de sanción mayor;
-
-II. Multa hasta de cinco mil veces el salario mínimo diario vigente en la capital del Estado y hasta por el doble, en caso de reincidencia;
-
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
-
-III. Suspensión temporal hasta por 60 días de la autorización para la prestación de servicios de seguridad privada; y
-
-IV. Cancelación de la autorización para la prestación de servicios de seguridad privada, con difusión pública.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 173.
 
-Las sanciones anteriores serán impuestas con motivo de las quejas o denuncias presentadas y comprobadas o de las inspecciones realizadas en ejercicio de las facultades contenidas en esta ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 174.
 
-Para la determinación de las sanciones, se deberá considerar:
-
-I. La condición económica del infractor; y
-
-II. La gravedad de la infracción.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 175.
 
-Será sancionado con amonestación pública el incumplimiento a lo dispuesto en las fracciones X, XV, XX y XXI del artículo 166 de esta ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 176.
 
-Será sancionado con multa el incumplimiento de las obligaciones contenidas en las fracciones VI, VII, VIII, IX, XIII, XIV, XVI y XIX del artículo 166 de esta ley y la reincidencia en el incumplimiento de las obligaciones señaladas en el artículo anterior.
-
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 177.
 
-Será sancionado con suspensión temporal el incumplimiento de las obligaciones contenidas en las fracciones I, III, IV, V, XI, XII, XVII y XVIII del artículo 166 de esta ley y la reincidencia en el incumplimiento de las obligaciones contenidas en las fracciones VI, VII, VIII, IX, XIII, XIV, XVI Y XIX del mismo precepto.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 178.
 
-Será sancionado con cancelación de la autorización: el incumplimiento de las obligaciones contenidas en las fracciones II y XXII del artículo 166; la reincidencia en el incumplimiento de las obligaciones contenidas en las fracciones I, III, IV, V, XI, XII, XVII y XVIII del mismo precepto; y, lo dispuesto en los artículos 154, 157, 158 y 159 de esta ley.
-
-> <small>(F. DE E., G.G. 26 DE MARZO DE 1999)</small>
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 179.
 
-En la aplicación de las sanciones a que se refieren los artículos anteriores se cumplirá con la garantía de audiencia.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO, G.G. 4 DE SEPTIEMBRE DE 2006)
 
 ## TITULO DECIMO CUARTO. De las Medidas Preventivas para la Seguridad y Protección
 
@@ -1964,3 +1836,21 @@ TERCERO.- El Ejecutivo del Estado, realizará las modificaciones al reglamento c
 CUARTO.- Las características y especificaciones de los uniformes y de los vehículos a que se refiere el presente decreto, se establecerán en el manual que para tal efecto se expide, adjuntándose para su publicación en la "Gaceta del Gobierno".
 
 QUINTO.- Los Ayuntamientos dispondrán hasta el día uno de enero del año 2007, para adecuar las características y especificaciones de uniformes y vehículos que se establecen en el manual de imagen de la cromática del parque vehicular de la policía y tránsito municipal y uniformes.
+
+G.G. 4 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones contenidas en el Título Décimo Tercero de la Ley de Seguridad Pública Preventiva del Estado de México.
+
+CUARTO.- El prestador de servicios, que no cuente con la autorización o no haya presentado la solicitud correspondiente dispondrá de un término de sesenta días naturales, contados a partir de la entrada en vigor de esta Ley, para regularizar su situación.
+
+QUINTO.- Las solicitudes de revalidación que se presenten a partir de la vigencia de la presente Ley se sujetarán a dicho ordenamiento legal.
+
+SEXTO.- Los procedimientos administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+SEPTIMO.- El Titular del Ejecutivo expedirá el Reglamento de la presente Ley, dentro de un plazo no mayor de noventa días hábiles posteriores a la entrada en vigor de la misma.
+
+OCTAVO.- El Consejo Estatal de Seguridad Privada se instalará dentro de los sesenta días hábiles siguientes a la expedición del Reglamento de esta Ley.
