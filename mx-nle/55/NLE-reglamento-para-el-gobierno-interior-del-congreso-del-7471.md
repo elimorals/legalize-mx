@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2006-06-28"
+last_updated: "2006-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -2053,7 +2053,11 @@ P.O. 29 DE DICIEMBRE DE 2003.
 
 DECRETO NUM. 37.
 
-Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los Artículos 46 y 55 primer párrafo de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se está reformando las referidas disposiciones constitucionales.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los artículos 46 y 55 primer párrafo de la Constitución Política del Estado Libre y Soberano de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se están reformando las referidas disposiciones constitucionales.
+
+Realizado lo anterior, para efecto de la LXXI Legislatura, la Primera Junta Preparatoria a que se refieren la Ley Orgánica del Poder Legislativo del Estado de Nuevo León y el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León se efectuará el 5 de septiembre de 2006, la segunda Junta Preparatoria el 8 de septiembre de 2006 y la última Junta Preparatoria el 19 de septiembre de 2006; lo anterior, sin perjuicio de las demás Juntas Preparatorias que deban celebrarse para conocer, discutir y aprobar los dictámenes de las Comisiones Revisoras, en términos de Ley.
 
 P.O. 29 DE DICIEMBRE DE 2003.
 
@@ -2084,3 +2088,7 @@ Artículo Segundo.- Para efectos de lo dispuesto por el segundo párrafo del Art
 P.O. 28 DE JUNIO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- La presente reforma al Artículo Único Transitorio del Decreto No. 37 publicado en el Periódico Oficial del Estado No. 167 de fecha 29 de Diciembre de 2003, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
