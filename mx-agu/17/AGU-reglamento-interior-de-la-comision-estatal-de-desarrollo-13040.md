@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-estatal-de-desarrollo-13040"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-11"
-last_updated: "1998-10-11"
+last_updated: "2006-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DESARROLLO URBANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Suplemento al Núm. 41 del Periódico Oficial del Estado de Aguascalientes, el domingo 11 de octubre de 1998.
 
@@ -67,6 +67,82 @@ El presente reglamento tiene por objeto establecer las normas para el funcionami
 ###### ARTICULO 2º.
 
 La Comisión Estatal de Desarrollo Urbano es un órgano público de consulta y decisión en materia de planeación urbana, desarrollo urbano y vivienda y tiene las atribuciones que le asigna el Código Urbano para el Estado.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 3°.
+
+Para los efectos del presente Reglamento se entiende por Comisión, a la Comisión Estatal de Desarrollo Urbano; por Código Urbano, al Código Urbano para el Estado de Aguascalientes; y por SEPLADE, a la Secretaria de Planeación y Desarrollo Regional del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 4°.
+
+La sede de la Comisión será el Palacio de Gobierno del Poder Ejecutivo del Estado. Se podrá acordar por la Comisión o su Secretario Técnico la habilitación de algún otro lugar para realizar de manera temporal alguna sesión o sesiones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 5°.
+
+De conformidad con lo establecido por el Artículo 28 del Código Urbano, la Comisión se integra por un Presidente, que será el Gobernador del Estado; un Secretario Técnico, que será el Secretario de Planeación y Desarrollo Regional del Estado y por vocales, quienes serán representantes de los tres niveles de gobierno y de los sectores social y privado, a través de los siguientes:
+
+I.- Los Presidentes Municipales cuando se analicen asuntos de sus Municipios;
+
+II.- Un representante de las siguientes dependencias y entidades de la Administración Pública Estatal:
+
+a).- Secretaría de Finanzas;
+
+b).- Secretaría de Obras Públicas;
+
+c).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+d).- Secretaria de Desarrollo Económico;
+
+e).- Instituto de Vivienda del Estado de Aguascalientes;
+
+f).- Dirección General del Registro Público de la Propiedad;
+
+g).- Dirección General de Catastro;
+
+h).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+i).- Instituto del Agua del Estado;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+j).- Consejo Consultivo de Protección y Fomento del Patrimonio Cultural.
+
+III.- Un representante de las siguientes dependencias y entidades de la Administración Pública Federal:
+
+a).- Secretaría de Desarrollo Social;
+
+b).- Secretaría de Comunicaciones y Transportes;
+
+c).- Comisión Nacional del Agua;
+
+d).- Procuraduría Agraria;
+
+e).- Comisión Para la Regularización de la Tenencia de la Tierra;
+
+f).-Comisión Federal de Electricidad;
+
+g).- Instituto Nacional de Estadística, Geografía e informática; y (sic)
+
+h).- Banco Nacional de Obras y Servicios Públicos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+i).- Registro Agrario Nacional.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Un representante de las cámaras, colegios, asociaciones, comités ciudadanos y organizaciones de los sectores privado y social, que a juicio de la Comisión deban integrarse a la misma, en virtud de que sus actividades incidan en el desarrollo urbano y la vivienda del Estado; y
+
+V.- Un representante de cada uno de los Comités Municipales de Desarrollo Urbano y Rural cuando se traten asuntos de sus Municipios.
 
 ###### ARTICULO 3º.
 
@@ -144,7 +220,9 @@ VI.- Legalizar con sus firmas las actas de las sesiones y los dictámenes aproba
 
 VII.- Determinar los asuntos que deban ser presentados a la consideración de la Comisión para su dictamen y aprobación en su caso;
 
-VIII.- Ordenar la publicación en e1 Periódico Oficial del Estado las resoluciones de la Comisión que tengan carácter obligatorio para los particulares y/o autoridades, de conformidad con el Código urbano para el Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Ordenar directamente o a través del Secretario Técnico, la publicación en el Periódico Oficial del Estado las resoluciones de la Comisión que tengan carácter de obligatorias para los particulares y/o autoridades de conformidad con el Código Urbano;
 
 IX.- Difundir las actividades de la Comisión a través de los diversos medios de comunicación;
 
@@ -176,9 +254,13 @@ V.- Recoger y computar las votaciones y proclamar sus resultados;
 
 VI.- Formular las actas de las sesiones recabando las firmas de los participantes y proveyendo a su publicación cuando así lo determine el Código Urbano para el Estado;
 
-VII.- Suplir en sus ausencias al Presidente de la Comisión en cuyo caso el Subsecretario de Desarrollo Urbano fungirá como Secretario de Actas y Acuerdos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
 
-VIII.- Poner a la disposición de los miembros de la Comisión con un mínimo de tres días hábiles anteriores a la sesión, los expedientes de los asuntos que se han tratado en el seno de la misma. Asimismo deberá expedir y/o certificar copias de cualquier documento que obre en dichos expedientes, a solicitud y con cargo de cualquiera de los miembros de la Comisión;
+VII.- Suplir en sus ausencias al Presidente de la Comisión, en cuyo caso el Director General de Desarrollo Urbano de la Secretaria de Planeación y Desarrollo Regional del Estado fungirá como Secretario de Actas y Acuerdos;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Poner a la disposición de los miembros de la Comisión con un mínimo de dos días hábiles anteriores a la sesión, los expedientes o dictámenes de los asuntos que se tratarán en el seno de la misma. Asimismo deberá expedir y/o certificar copias de cualquier documento que obre en dichos expedientes, a solicitud y con cargo a cualquiera de los miembros de la Comisión;
 
 IX.- Coordinar los trabajos de las diversas Subcomisiones permanentes y especiales;
 
@@ -200,7 +282,9 @@ III.- Realizar propuestas sobre los dictámenes que se presenten a la considerac
 
 IV.- Proponer modificaciones al orden del día y asuntos que deban ser tratados en el rubro de asuntos generales;
 
-V.- Analizar la documentación existente en los expedientes técnicos de los fraccionamientos o condominios que serán sometidos a la consideración de la Comisión;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Analizar la documentación existente en los expedientes o dictámenes técnicos de los fraccionamientos o condominios que serán sometidos a la consideración de la Comisión;
 
 VI.- Ser informado de los antecedentes y fundamentos técnicos o jurídicos relativos a los dictámenes presentados por el Secretario Técnico;
 
@@ -211,6 +295,14 @@ VIII.- Promover en la Dependencia u Organización a la que pertenezcan, la difus
 IX.- Realizar propuestas de carácter general en nombre de la dependencia u organización que representa; y
 
 X.- Lo demás que con base en el Código Urbano y las Leyes y Reglamentos aplicables sea acordado por la Comisión.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 9°.
+
+La Comisión tendrá sesiones ordinarias y extraordinarias. Las sesiones se llevarán a cabo dentro de la primera quincena de los meses de enero, abril, julio y octubre y las extraordinarias podrán celebrarse en cualquier fecha, cuando existan asuntos que requieran su inmediata resolución, o expedientes debidamente integrados para resolver sobre solicitudes para que se autoricen fraccionamientos o condominios.
+
+Cuando no existan asuntos en cartera que requieran ser analizados por el pleno de la Comisión se cancelará la realización de la sesión correspondiente.
 
 ###### ARTICULO 9º.
 
@@ -230,15 +322,21 @@ III.- En caso de estar presentes más del 50% de los integrantes el Secretario i
 
 IV.- El Presidente declarará abiertos los trabajos de la sesión y someterá a la consideración de los presentes el orden del día y les solicitará su aprobación mediante votación económica;
 
-V.- Aprobado el orden del día solicitará el Secretario proceda a la lectura del acta de la sesión anterior. Esta lectura puede excusarse en caso de que se haya remitido con anterioridad copia de la misma a cada uno de los miembros, en cuyo caso únicamente se preguntará si existen observaciones a su contenido;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Aprobado el orden del día solicitará el Secretario proceda a la lectura del acta de la sesión anterior. Esta lectura puede excusarse en caso de que se haya remitido con anterioridad copia de la misma a cada uno de los miembros de la Comisión, o bien así lo apruebe la misma, en cuyo caso únicamente se preguntará si existen observaciones a su contenido;
 
 VI.- Una vez desahogadas las observaciones o en caso de no presentarse, se procederá a votar de manera económica la aprobación de dicha acta;
 
-VII.- El Presidente ordenará que se continúe con el desahogo de los asuntos incluidos en el orden del día, para lo cual el Secretario dará lectura a los dictámenes formulados por el Secretario Técnico, los cuales serán sometidos a debate y votación.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- El Presidente ordenará que se continúe con el desahogo de los asuntos incluidos en el orden del día, para lo cual el Secretario dará lectura a los dictámenes formulados por el Secretario Técnico, los cuales serán sometidos a debate y votación. La lectura de los dictámenes podrá sustituirse por la presentación de los mismos mediante un video;
 
 VIII.- En los debates se observarán las normas siguientes:
 
-a).- El Presidente instruirá al Secretario de Actas y Acuerdos para que dé lectura al dictamen que corresponda según el orden del día. El dictamen debe contener una exposición clara y precisa del asunto, las consideraciones y motivos que se han tomado en cuenta para proponer la resolución y por último se debe resolver aprobando o no la solicitud o propuesta;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+a).- El Presidente instruirá al Secretario de Actas y Acuerdos para que dé lectura al dictamen que corresponda según el orden del día. Esa lectura podrá sustituirse por la presentación del dictamen mediante un video. El dictamen debe contener una exposición clara y precisa del asunto, las consideraciones y motivos que se han tomado en cuenta para proponer la resolución y por último se debe resolver aprobando o no la solicitud o propuesta;
 
 b).- Una vez leído el dictamen el Presidente solicitará a los presentes que deseen intervenir se sirvan manifestarlo a efecto de que el Secretario los anote y dará el uso de la palabra a cada uno de ellos en el orden en rigor anotados;
 
@@ -252,9 +350,13 @@ f).- En caso de que una intervención implique una propuesta de modificación a 
 
 g).- Los participantes podrán hacer uso de la palabra hasta por dos ocasiones en el análisis de un mismo dictamen; no se tomará en cuenta para estos efectos sus intervenciones para realizar alguna aclaración o ilustrar sobre algún tema de su conocimiento o competencia; y
 
-h).- El Presidente podrá otorgar el uso de la palabra a funcionarios de la Secretaría de Desarrollo Social del Estado, de las Presidencias Municipales y de las dependencias participantes, aún cuando no forman parte de la Comisión, a efecto de que rindan información sobre algún aspecto Técnico o Jurídico relacionado con el dictamen que se encuentra sujeto a discusión.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
 
-IX.- Una vez agotado el análisis de un asunto se procederá a la votación del mismo, la cual se hará de manera económica, levantando la mano los que estén de acuerdo con la resolución asentada en el dictamen y sus modificaciones o adiciones previamente aprobadas. El Secretario computará los votos e informará al Presidente sobre el resultado:
+h).- El Presidente podrá otorgar el uso de la palabra a servidores públicos de la SEPLADE, de las Presidencias Municipales y de las Dependencias participantes, aún cuando no forman parte de la Comisión, a efecto de que rindan información sobre algún aspecto técnico o jurídico relacionado con el dictamen que se encuentra sujeto a discusión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Una vez agotado el análisis de un asunto se procederá a la votación del mismo, la cual generalmente se hará de manera económica, levantando inicialmente la mano los que estén de acuerdo con la resolución asentada en el dictamen y sus modificaciones o adiciones previamente aprobadas. Posteriormente levantarán la mano los que estén en contra del citado dictamen. De igual forma, de manera verbal alguna persona podrá abstenerse de votar. Debiéndolo hacer siempre que tenga algún interés en el asunto planteado.
 
 Se podrá proponer y aprobar por la Comisión que determinado asunto se vote mediante el empleo de cédula, cuando se requiera guardar reserva acerca del sentido en que vota cada uno de los integrantes; y
 
@@ -266,23 +368,33 @@ De cada sesión se levantará un acta en la cual se asentará la resolución aco
 
 En dicha acta no será necesario incluir la relatoría de los debates de la sesión, sin embargo cualquiera de sus integrantes podrá solicitar que se asiente en ella alguna moción presentada o el sentido de su voto sobre algún asunto analizado. En este caso se requerirá la aprobación de las (sic) mayoría de los asistentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 12.
 
-La Comisión Estatal de Desarrollo Urbano funcionará mediante sesiones plenarias o mediante el trabajo de Subcomisiones permanentes o especiales.
+La Comisión funcionará mediante sesiones plenarias o mediante el trabajo de Subcomisiones permanentes o especiales.
 
 Las Subcomisiones permanentes son aquellas que se constituyen con carácter definitivo como órganos auxiliares de la Comisión y, las especiales son las que se establecen para un asunto determinado, por lo cual se extinguen una vez cumplido su objetivo particular.
 
 Las Subcomisiones tanto permanentes como especiales son organismos auxiliares de la Comisión Estatal y tienen carácter técnico consultivo, por lo que sus resoluciones no son obligatorias para los particulares ni para las autoridades, salvo en el caso de que las mismas se encuentren incorporadas en una resolución expedida por la Comisión Estatal en el ejercicio de sus facultades legales, o que actúe a nombre de ésta.
 
-Las observaciones sobre proyectos en estudio para ser sometidos a la autorización de la Comisión Estatal, la SEDESO, los Ayuntamientos o cualquier otra Autoridad, que sean turnadas directamente por la Subcomisión a los promoventes de obras, fraccionamientos o condominios serán consideradas por éstos, aceptándolas en cuyo caso realizará las adecuaciones o modificaciones a sus proyectos, inconformándose para el efecto de que sean reconsideradas en el seno de la Subcomisión; o manifestando que no la toman en cuenta, solicitando que la autoridad competente decida en definitiva, con base en su solicitud original.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+Las observaciones sobre proyectos en estudio para ser sometidos a la autorización de la Comisión, la SEPLADE, los Ayuntamientos o cualquier otra autoridad, que sean turnadas directamente por cualquiera de las Subcomisiones a los promoventes de obras, fraccionamientos, condominios o desarrollos especiales serán consideradas por éstos aceptándolas en cuyo caso se realizará (sic) las adecuaciones o modificaciones a sus proyectos, inconformándose para el efecto de que sean reconsideradas en el seno de la Subcomisión; o manifestando que no la toman en cuenta, solicitando a la autoridad competente decida en definitiva, con base en su solicitud original.
 
 ###### ARTÍCULO 13.
 
 La integración de las Subcomisiones Especiales se definirá en el acuerdo de su creación, pero en todo caso serán presididas por un coordinador.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+Cada integrante propietario designará un suplente, que lo sustituirá en sus faltas temporales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 14.
 
-Las Subcomisiones permanentes sesionarán en las oficinas del Secretario Técnico o en el lugar que éste determine en las fechas que se establezcan atendiendo a los asuntos que deban ser analizados, debiendo llevarse a cabo por lo menos una sesión por semestre.
+Las subcomisiones permanentes sesionarán en las oficinas del Secretario Técnico en el lugar que éste determine, así como en las fechas que se establezcan atendiendo a los asuntos que deban ser analizados, debiendo llevarse a cabo por lo menos una sesión mensual.
 
 Los acuerdos de las Subcomisiones permanentes o especiales serán tomados por votación a favor de la mayoría de los miembros presentes, existiendo el quórum legal con la asistencia del 50% más uno de sus integrantes.
 
@@ -320,7 +432,9 @@ VI.- Las demás que le sean encomendadas por la Comisión Estatal o solicitadas 
 
 La Subcomisión de Planeación y Evaluación del Desarrollo Urbano se integrará por:
 
-I.- Un coordinador que será el Director de Planeación Urbana de la Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Un Coordinador que será el Director General de Planeación Estratégica Integral de la Secretaria de Planeación y Desarrollo Regional del Estado;
 
 II.- El titular del Area de Planeación Urbana de los Gobiernos Municipales, cuando se traten asuntos de sus respectivos Municipios; y
 
@@ -336,11 +450,15 @@ d).- La Universidad Autónoma de Aguascalientes;
 
 e).- La Delegación Estatal de SEDESOL;
 
-f).- La Comisión Estatal de Desarrollo Económico y Comercio Exterior;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+f).- Secretaría de Desarrollo Económico;
 
 g).- El instituto de Vivienda del Estado;
 
-h).- El Comité de Planeación para el Desarrollo del Estado;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+h).- El Colegio de Maestros en Diseño Urbano;
 
 i).- El Centro Empresarial de Aguascalientes; y
 
@@ -370,7 +488,9 @@ VIII.- Las demás que le sean encomendadas por la Comisión Estatal o solicitada
 
 La Subcomisión de Diseño y Equipamiento Urbano se integrará por:
 
-I.- Un Coordinador que será el Director de Planeación Urbana de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Un Coordinador que será el Director General de Planeación Estratégica Integral de la Secretaría de Planeación y Desarrollo Regional del Estado;
 
 II.- El titular del Area de Planeación Urbana de los Gobiernos Municipales, cuando se traten asuntos de sus respectivos Municipios; y
 
@@ -388,7 +508,9 @@ e).- El Instituto de Educación de Aguascalientes;
 
 f).- El lnstituto de Salud de Aguascalientes;
 
-g).- El Comité de Planeación para el Desarrollo del Estado;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+g).- El Colegio de Maestros en Diseño Urbano;
 
 h).- La Asociación Estatal de Padres de Familia; y
 
@@ -414,7 +536,9 @@ VI.- Las demás que les sean encomendadas por la Comisión Estatal o solicitadas
 
 La Subcomisión de Vialidad y Transporte se integrará por:
 
-I.- Un Coordinador que será el Jefe del Departamento de Vialidad de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Un Coordinador que será el Director General de Desarrollo Urbano de la Secretaría de Planeación y Desarrollo Regional;
 
 II.- El titular del Area de Planeación Urbana de los Gobiernos Municipales, cuando se traten asuntos de su respectivo Municipio;
 
@@ -426,17 +550,23 @@ b).- El Colegio de Arquitectos del Estado
 
 c).- El Colegio de Ingenieros Civiles del Estado
 
-d).- La Dirección Estatal de Seguridad Pública
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+d).- La Secretaría de Seguridad Pública del Estado
 
 e).- La Delegación Estatal de SEDESOL
 
 f).- La Delegación Estatal de la S.C.T.
 
-g).- La Comisión Estatal de Caminos
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
 
-h).- El Comité de Planeación para el Desarrollo del Estado
+g).- La Secretaría de Obras Públicas del Estado
 
-i).- La Dirección General de Transporte Público del Estado; y
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+h).- El Colegio de Maestros en Diseño Urbano
+
+i).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
 
 j).- La Cámara de Comercio de Aguascalientes.
 
@@ -444,7 +574,9 @@ j).- La Cámara de Comercio de Aguascalientes.
 
 La Subcomisión de Agua Potable y Alcantarillado tendrá a su cargo las siguientes actividades:
 
-I.- Revisar los proyectos de fraccionamientos, condominios y desarrollos comerciales, industriales y de servicios, a efecto de verificar que los mismos cumplan con los lineamientos establecidos por las normas de agua potable y alcantarillado, exigidas por el Código Urbano para el Estado y la Ley Estatal de los Sistemas de Agua Potable y Alcantarillado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Revisar los proyectos de fraccionamientos, condominios y desarrollos comerciales, industriales y de servicios, a efecto de verificar que los mismos cumplan con los lineamientos establecidos por las normas de agua potable y alcantarillado exigidas por el Código Urbano para el Estado y la Ley de Agua para el Estado;
 
 II.- Dictaminar sobre las solicitudes de fraccionamientos, condominios, desarrollos comerciales, industriales y de servicios, en materia de agua potable y alcantarillado;
 
@@ -462,17 +594,21 @@ VII.- Las demás que le sean encomendadas por la Comisión Estatal, o solicitada
 
 La Subcomisión de Agua Potable y Alcantarillado se integrará por:
 
-I.- Un Coordinador que será el director de fraccionamientos de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Un Coordinador que será el Director General del Instituto del Agua del Estado;
 
 II.- El titular del Area de Planeación Urbana de los Gobiernos Municipales, cuando se trate asuntos de sus respectivas competencias; y
 
 III.- Un representante de los siguientes organismos y dependencias:
 
-a).- Comisión de Agua Potable y Alcantarillado de los Municipios, cuando se trate de asuntos de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+a).- Organismos Operadores del Sistema de Agua Potable y Alcantarillado de los Municipios, cuando se trate de asuntos de sus respectivas competencias;
 
 b).- El Colegio de Ingenieros Civiles del Estado.
 
-c).- La Comisión Estatal de Agua Potable y Alcantarillado.
+c).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
 
 d).- La Delegación Estatal de SEDESOL.
 
@@ -480,11 +616,13 @@ e).- La Gerencia Estatal de la de la Comisión Nacional del Agua.
 
 f).- La Secretaría de Obras Públicas del Estado.
 
-g).- El Comité de Planeación para el Desarrollo del Estado.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+g).- La Secretaria de Planeación y Desarrollo Regional del Estado; y (sic)
 
 h).- La Cámara Nacional de la Industria de la Construcción; y
 
-i).- Un Representante de la Asociación de Colonos.
+i).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 24.
 
@@ -508,7 +646,9 @@ VII. Las de más (sic) que le sean encomendadas por la Comisión Estatal o solic
 
 La Subcomisión de Reservas Territoriales y Regularización de la Tenencia de la Tierra se integrará por:
 
-I.- Un Coordinador que será el Director de Control del Desarrollo Urbano de la Secretaría de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Un Coordinador que será el Director General de Planeación Estratégica Integral de la Secretaria de Planeación y Desarrollo Regional del Estado;
 
 II.- El titular del Area de Planeación Urbana de los Gobiernos Municipales cuando se traten asuntos de sus respectivos Municipios; y
 
@@ -518,7 +658,7 @@ a).- Delegación Estatal de la Comisión para la Regularización de la Tenencia 
 
 b).- El Colegio de Urbanistas del Estado;
 
-c).- Coordinación Agraria del Estado;
+c).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
 
 d).- La Delegación Estatal de SEDESOL;
 
@@ -528,13 +668,29 @@ f).- La Delegación Estatal del Registro Agrario Nacional;
 
 g).-El Instituto de Vivienda del Estado;
 
-h).- El Comité de Planeación para el Desarrollo del Estado;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
 
-i).- La Delegación Estatal de la Asociación de promotores de Vivienda; y;
+h).- Colegio de Arquitectos del Estado;
+
+i).- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2006)
 
 j).- El Colegio de Notarios del Estado.
 
 ## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos en revisión en algunas de las Subcomisiones ya existentes seguirán en trámite en las mismas a no ser que se instale la correspondiente, en cuyo caso se turnará a ésta.
+
+SEGUNDO: Remítase el presente Reglamento al titular del Poder Ejecutivo del Estado para su aprobación definitiva, y a efecto de que ordene su publicación en el Periódico Oficial del Estado para su plena validez y vigencia.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO PRIMERO.
 
