@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2006-06-23"
+last_updated: "2006-09-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 57/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -475,7 +477,7 @@ TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios 
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
-> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2006)</small>
 
 II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia civil, en materia de trabajo y en materia administrativa, es el Estado de México.
 
@@ -665,7 +667,7 @@ El juzgado de distrito en el Estado de Coahuila, con residencia en Monclova, eje
 
 Los juzgados de distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 21/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL 21/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JUNIO DE 2005)</small>
 
 IX.- Noveno Circuito:
 
@@ -1638,3 +1640,15 @@ ACUERDO 47/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL P
 PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Queda sin efecto el Acuerdo General 23/2001, publicado en el Diario Oficial de la Federación, el veinticinco de abril de dos mil uno. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+CUARTO.- Los acuerdos generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente acuerdo y que se refieran a la determinación del número, límites territoriales de los circuitos y distritos judiciales, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito, se integrarán a este acuerdo general para efectos de su actualización.
+
+QUINTO.- Las modificaciones en la conformación municipal que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente acuerdo general, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en acuerdos generales que se integren a este acuerdo.
