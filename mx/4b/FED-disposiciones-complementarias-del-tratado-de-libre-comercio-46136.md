@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2006-06-06"
+last_updated: "2006-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,35 +18,101 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-ACUERDO POR EL CUAL SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, AL AMPARO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, VARILLA DE HIERRO O ACERO CORRUGADA O BARRAS DE HIERRO O ACERO PARA ARMADURAS, PARA CEMENTO U HORMIGON, Y PERFILES DE HIERRO O ACERO SIN ALEAR EN "L" ORIGINARIOS DE LA REPUBLICA DE EL SALVADOR.
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 6 de junio de 2006.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de septiembre de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en el artículo 3-04 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9 fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con las Repúblicas de El Salvador, Guatemala y Honduras, con fecha 29 de junio de 2000 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (“el Tratado”), mismo que aprobó el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001, el cual entró en vigor el 15 de marzo del mismo año para el comercio entre los Estados Unidos Mexicanos y la República de El Salvador;
+Que para favorecer la competitividad de la industria nacional, mediante el abastecimiento oportuno de materias primas a precios internacionales, es conveniente reducir los aranceles a productos como los lingotes de aluminio, en el sector de manufacturas de aluminio, la lisina en la rama de alimentos para el sector avícola y de ganado porcino, el tricloro propil fosfato y la azodicarbonamida para el sector químico, la acacia para el sector de la curtiduría, cámaras para llanta de bicicleta, brocas, fresas y portaútiles del sector metalmecánica;
 
-Que los párrafos 6 y 7 del artículo 3-04 del Tratado establecen que a petición de cualquiera de las Partes se realizarán consultas para examinar la posibilidad de acelerar la eliminación de aranceles aduaneros prevista en el Programa de Desgravación Arancelaria y que, una vez aprobada por las Partes el acuerdo que se adopte respecto a la eliminación acelerada del arancel aduanero sobre un bien originario, ésta prevalecerá sobre cualquier arancel aduanero o categoría de desgravación aplicable de conformidad con el Programa de Desgravación Arancelaria para ese bien;
+Que es necesario identificar e individualizar determinados productos en fracciones arancelarias específicas para que la industria nacional conozca con claridad los nichos de mercado y responda con mayor efectividad y oportunidad a la demanda del mercado, como el caso de suelas y tacones para la industria del calzado y las mercancías para la reparación o mantenimiento de aeronaves;
 
-Que con fundamento en el artículo citado en el párrafo anterior, la Comisión Administradora del Tratado suscribió las Decisiones números 15 y 16 mediante las cuales los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero originarios de la República de El Salvador a través del establecimiento de aranceles cupo y que la vigencia de dichos aranceles cupo será anual. Estas decisiones entrarán en vigor una vez que las Partes se hayan notificado la conclusión de sus respectivas formalidades jurídicas;
+Que es importante establecer medidas arancelarias que favorezcan la importación de insumos, para la industria fabricante o ensambladora de aeronaves y de aeropartes tendientes a apoyar a una industria en constante crecimiento, que se puede convertir en un sector de gran generación de inversión y empleos en los estados de Baja California, Chihuahua, Coahuila y Sonora;
 
-Que el 3 de marzo del presente año se publicó en el Diario Oficial de la Federación el Decreto que modifica el diverso por el que se establece la tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, que en su artículo tercero transitorio establece que la referida aceleración entrará en vigor una vez que las Partes se hayan notificado la conclusión de sus formalidades jurídicas;
+Que para dar mayor certeza jurídica e información clara y transparente a todos los operadores del comercio exterior beneficiarios del esquema de fomento industrial de la Regla 8a de las Reglas Complementarias para la aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, conocido comúnmente como “Regla 8ª”, es imprescindible modificar la descripción de las fracciones arancelarias que amparan importaciones bajo la operación de la citada Regla, para confirmar que esta operación se realiza conforme a los lineamientos que establezca la Secretaría de Economía;
 
-Que las autoridades de los Estados Unidos Mexicanos y la República de El Salvador se han notificado la conclusión de sus respectivas formalidades jurídicas necesarias para la entrada en vigor de las Decisiones números 15 y 16;
+Que debido a las modificaciones arancelarias previstas en el presente instrumento se hace necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005;
 
-Que es necesario propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado, y
+Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, con ciertas fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
 
-Que los procedimientos de asignación de cupos al amparo de los aranceles-cuota establecidos en el Tratado cuentan con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que en virtud de que ciertos productos que se importan al amparo del diverso por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
 
-ACUERDO POR EL CUAL SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, AL AMPARO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, VARILLA DE HIERRO O ACERO CORRUGADA O BARRAS DE HIERRO O ACERO PARA ARMADURAS, PARA CEMENTO U HORMIGON, Y PERFILES DE HIERRO O ACERO SIN ALEAR EN “L” ORIGINARIOS DE LA REPUBLICA DE EL SALVADOR
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
+
+DECRETO
+
+...
+
+###### ARTÍCULO DÉCIMO.
+
+Se modifica el ARTÍCULO 6 del Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel
+
+1604.14.01 6.6% ad-valorem
+
+1604.14.99 6.6% ad-valorem
+
+1604.19.01 6.6% ad-valorem
+
+1604.20.02 6.6% ad-valorem
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
-Se suprimen y se adicionan al Apéndice del Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en el orden que les corresponda según su numeración:
+Se adicionan al ARTÍCULO 17 del Decreto que se señala en el ARTÍCULO DÉCIMO del presente ordenamiento, las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+6406.91.02 EXCL Únicamente: De madera, que contengan peletería.
+
+6406.91.03 EXCL Únicamente: De madera, que contengan peletería.
+
+6406.91.99 EXCL Únicamente: De madera, que contengan peletería.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se adicionan al ARTÍCULO 23 del Decreto que se señala en el ARTÍCULO DÉCIMO del presente ordenamiento, las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+6406.20.02 Ex. De caucho.
+
+6406.20.02 Ex. Suelas de hule natural tipo crepé.
+
+6406.20.03 Ex. De caucho.
+
+6406.20.03 Ex. Suelas de hule natural tipo crepé.
+
+6406.91.99 0.8 Suelas y tacones.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se adicionan al ARTÍCULO 24 del Decreto que se señala en el ARTÍCULO DÉCIMO del presente ordenamiento, las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+6406.20.02 Ex. De caucho, suelas de hule natural tipo crepé.
+
+6406.20.03 Ex. De caucho, suelas de hule natural tipo crepé.
+
+6406.91.99 0.8 Suelas y tacones.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se modifica el ARTÍCULO 26 del Decreto que se señala en el ARTÍCULO DÉCIMO del presente ordenamiento, únicamente para la siguiente fracción arancelaria de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
+
+Fracción Arancel Modalidad de la mercancía
+
+0304.20.99 4.0/2.0 Marlines, meros y sardinas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se adicionan y suprimen al Apéndice del Decreto que se señala en el ARTÍCULO DÉCIMO del presente ordenamiento, las fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -254,26 +320,12 @@ La importación de mercancías originarias del área conformada por los Estados 
 
 Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 3 de marzo del presente año, entrarán en vigor el próximo 1 de junio.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LAS DISPOSICIONES.</small>
 
-México, D.F., a 2 de junio de 2006.- El Secretario de Economía, Sergio Alejandro Garcia de Alba Zepeda.- Rúbrica.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-HOJA DE REQUISITOS PARA LA ASIGNACION DE LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS, AL AMPARO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, VARILLA DE HIERRO O ACERO CORRUGADA O BARRAS DE HIERRO O ACERO PARA ARMADURAS, PARA CEMENTO U HORMIGON, Y PERFILES DE HIERRO O ACERO SIN ALEAR EN "L" ORIGINARIOS DE LA REPUBLICA DE EL SALVADOR.
+...
 
-7214.20.01 y 7216.21.01
-
-Beneficiarios Personas físicas o morales establecidas
-
-en los Estados Unidos Mexicanos
-
-Solicitud: Formato de "SOLICITUD DE ASIGNACIÓN
-
-DE CUPO" SE-03-011-1
-
-Requisitos: Copia de factura comercial y conocimiento
-
-de embarque.
-
-Guía aérea o carta de porte, según sea el caso.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de agosto de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
