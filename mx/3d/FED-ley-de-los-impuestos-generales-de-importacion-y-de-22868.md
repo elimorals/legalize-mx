@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-12-29"
+last_updated: "2006-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2006.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -1050,11 +1050,7 @@ b) metales (incluso metal precioso) o pigmentos, depositados en una hoja de cual
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 33
-
-Aceites esenciales y resinoides;
-
-preparaciones de perfumería, de tocador o de cosmética
+### Capítulo 33. Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética
 
 Notas.
 
@@ -4763,3 +4759,9 @@ IV. Lo dispuesto en la regla 2.10.7. de la presente Resolución entró en vigor 
 V. Lo dispuesto en el artículo Décimo, fracción IV de la presente Resolución que entrará en vigor a los 15 días siguientes a su publicación.
 
 VI. Lo dispuesto en el artículo Décimo segundo de la presente Resolución que entrará en vigor a los 15 días siguientes a su publicación.
+
+D.O.F. 5 DE SEPTIEMBRE DE 2006.
+
+> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
