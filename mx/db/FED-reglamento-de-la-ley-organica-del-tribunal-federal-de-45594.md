@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-del-tribunal-federal-de-45594"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-09"
-last_updated: "2005-11-10"
+last_updated: "2006-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45594&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-08-08"
 
 REGLAMENTO DE LA LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA EN MATERIA DE NOMBRAMIENTOS Y RATIFICACIONES DE MAGISTRADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL D.O.F. DE 5 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de agosto de 2005.
 
@@ -180,3 +182,7 @@ D.O.F. 10 DE NOVIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los procesos de ratificación de Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que se hayan iniciado durante la vigencia de las disposiciones que se reforman o derogan por virtud de este Decreto, continuarán en su trámite hasta la conclusión de los mismos, en lo que no se oponga a los textos de los artículos que resultan modificados.
+
+D.O.F. 5 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
