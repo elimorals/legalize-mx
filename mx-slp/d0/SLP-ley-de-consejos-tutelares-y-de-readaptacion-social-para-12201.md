@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-consejos-tutelares-y-de-readaptacion-social-para-12201"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-28"
-last_updated: "1978-12-28"
+last_updated: "2006-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE CONSEJOS TUTELARES Y DE READAPTACION SOCIAL PARA MENORES DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 5 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 28 de diciembre de 1978.
 
@@ -526,3 +528,27 @@ LIC. GUILLERMO FONSECA ALVAREZ
 El Secretario General de Gobierno,
 
 LIC. ANGEL RUBIO HUERTA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el dí a (sic) doce de septiembre de dos mil seis, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Consejos Tutelares y de Readaptación Social Para (sic) Menores del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, de fecha veintiocho de septiembre de mil novecientos setenta y ocho, mediante Decreto número 32, publicado en suplemento al número 104; y demás disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+TERCERO. El Ejecutivo del Estado y las autoridades correspondientes deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes, dentro de los seis meses siguientes a la entrada en vigor de la misma.
+
+CUARTO. El Consejo de la Judicatura designará a los órganos judiciales que corresponda conforme a esta Ley, dentro de los cinco dí as (sic) siguientes a su entrada en vigor.
+
+QUINTO. La Procuraduría General de Justicia del Estado nombrará a los agentes del Ministerio Público para Menores, dentro de los cinco dí as (sic) siguientes a la entrada en vigor de esta Ley.
+
+SEXTO. El Ejecutivo del Estado y del Poder Judicial del Estado, iniciarán la capacitación del personal designado en términos de los artí culos (sic) anteriores, de manera inmediata a la entrada en vigor de la presente Ley.
+
+SEPTIMO. El Ejecutivo del Estado dentro de los siguientes seis meses a la entrada en vigor de este Ordenamiento, llevará a cabo todas las acciones administrativas, contratación y capacitación de recursos humanos, obras e infraestructura fí sica (sic) necesarios para el cabal cumplimiento de esta Ley. Para tal efecto, el Honorable Congreso del Estado, aprobará las partidas presupuestales que correspondan, en términos de los ordenamientos respectivos.
+
+Asimismo, se faculta al Ejecutivo del Estado, para disponer las ministraciones respectivas del Presupuesto de Egresos del Estado, a fin de dar suficiencia presupuestaria a las acciones que durante el año de dos mil seis se lleven a cabo para dar cumplimiento a la presente Ley.
+
+OCTAVO. La capacitación y especialización de las policí as (sic) municipales, así como la selección de quienes fungirán como formadores, deberá iniciarse dentro de los siguientes quince dí as (sic) a la entrada en vigor de esta Ley. Para estos efectos se recurrirá a los convenios que se celebren o tengan celebrados entre las diversas dependencias que forman parte del Sistema.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
