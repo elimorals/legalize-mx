@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44466"
 country: "mx"
 rank: "otro"
 publication_date: "1999-04-19"
-last_updated: "2006-01-16"
+last_updated: "2006-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44466&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,39 +19,45 @@ issue_date: "1999-03-23"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 6 (ARGENTINA, 2004)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA ARGENTINA, DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU, QUE SUSTITUYE AL SIMILAR PUBLICADO EL 29 DE DICIEMBRE DE 2005
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de septiembre de 2006.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de enero de 2006.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
-
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que nuestro país es parte del Tratado de Montevideo 1980, que instituye la Asociación Latinoamericana de Integración, dentro de la cual se ha negociado con los distintos Estados Miembros y con países de América Central y del Caribe, preferencias arancelarias sujetas a cupo;
+Que para favorecer la competitividad de la industria nacional, mediante el abastecimiento oportuno de materias primas a precios internacionales, es conveniente reducir los aranceles a productos como los lingotes de aluminio, en el sector de manufacturas de aluminio, la lisina en la rama de alimentos para el sector avícola y de ganado porcino, el tricloro propil fosfato y la azodicarbonamida para el sector químico, la acacia para el sector de la curtiduría, cámaras para llanta de bicicleta, brocas, fresas y portaútiles del sector metalmecánica;
 
-Que el 20 de agosto de 1985 se publicó el Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la Asociación Latinoamericana de Integración (ALADI), al amparo del Tratado de Montevideo 1980, para administrar los cupos establecidos para Argentina, Cuba, Chile, Brasil, Guatemala, Honduras, El Salvador, Nicaragua, Uruguay, Panamá y Perú;
+Que es necesario identificar e individualizar determinados productos en fracciones arancelarias específicas para que la industria nacional conozca con claridad los nichos de mercado y responda con mayor efectividad y oportunidad a la demanda del mercado, como el caso de suelas y tacones para la industria del calzado y las mercancías para la reparación o mantenimiento de aeronaves;
 
-Que el Acuerdo por el que se da a conocer el Séptimo Protocolo Adicional al Acuerdo de Complementación Económica No. 8, suscrito entre los Estados Unidos Mexicanos y la República del Perú fue publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005;
+Que es importante establecer medidas arancelarias que favorezcan la importación de insumos, para la industria fabricante o ensambladora de aeronaves y de aeropartes tendientes a apoyar a una industria en constante crecimiento, que se puede convertir en un sector de gran generación de inversión y empleos en los estados de Baja California, Chihuahua, Coahuila y Sonora;
 
-Que México ha firmado con Bolivia, Chile, Costa Rica, Nicaragua, El Salvador, Guatemala, Honduras, Colombia, Venezuela y Uruguay, Tratados de Libre Comercio, a través de los cuales se administran las preferencias arancelarias;
+Que para dar mayor certeza jurídica e información clara y transparente a todos los operadores del comercio exterior beneficiarios del esquema de fomento industrial de la Regla 8a de las Reglas Complementarias para la aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, conocido comúnmente como “Regla 8ª”, es imprescindible modificar la descripción de las fracciones arancelarias que amparan importaciones bajo la operación de la citada Regla, para confirmar que esta operación se realiza conforme a los lineamientos que establezca la Secretaría de Economía;
 
-Que el Acuerdo de Complementación Económica No. 55, fue publicado en el Diario Oficial de la Federación el 29 de noviembre de 2002;
+Que debido a las modificaciones arancelarias previstas en el presente instrumento se hace necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005;
 
-Que el Acuerdo de Complementación Económica No. 53, fue publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002;
+Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, con ciertas fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
 
-Que se han publicado los acuerdos que dan a conocer los cupos establecidos en esos tratados y acuerdos citados en los considerandos precedentes;
+Que en virtud de que ciertos productos que se importan al amparo del diverso por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
 
-Que al amparo del Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la ALADI, continúan administrándose los cupos de importación otorgados por México a la República de Argentina, la República de Cuba, la República de Panamá y la República del Perú;
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
-Que es necesario actualizar la administración de la distribución de los cupos de importación negociados en el seno de la ALADI, al amparo del Tratado de Montevideo 1980, y
+DECRETO
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+...
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA ARGENTINA, DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+###### ARTÍCULO OCTAVO.
+
+Se modifica la tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos, de conformidad con el Acuerdo de Complementación Económica No. 6, prevista en el ARTÍCULO PRIMERO del Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Complementación Económica número 6, suscrito entre el gobierno de los Estados Unidos Mexicanos y el gobierno de la República Argentina, publicado en el Diario Oficial de la Federación el 19 de abril de 1999 y sus modificaciones, únicamente en lo que a continuación se indica:
+
+“ARTÍCULO PRIMERO.- . . .
+
+(VEASE ARCHIVO ANEXO)
+
+...
 
 ###### ARTICULO 1.
 
@@ -100,30 +106,6 @@ Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las
 La solicitud de asignación de los cupos a que se refiere el punto 3 del artículo 7 del presente Acuerdo, deberá presentarse en el formato SE-03-014, “Solicitud de autorización para certificados de cupos de importación para la Franja Fronteriza Norte y Región Fronteriza” directamente en la Representación Federal que corresponda a cada una de éstas, quienes se encargarán de expedir el certificado de cupo respectivo, dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
 
 La hoja de requisitos específicos se establece como anexo II a este Acuerdo.
-
-###### ARTICULO 13.
-
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio total de por lo menos uno de los certificados otorgados, para lo cual deberá adjuntar a la solicitud de certificado de cupo, copia del pedimento de importación, de forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
-
-###### ARTICULO 14.
-
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
-
-1. Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A>
-
-2. Para el caso del formato SE-03-013-5, "Solicitud de certificados de cupo (obtenido por asignación directa)":
-
-<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042>
-
-3. Para el caso del formato SE-03-014, “Solicitud de autorización para certificados de cupos de importación para la Franja Fronteriza Norte y Región Fronteriza”:
-
-<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-06-016>
-
-###### ARTICULO 15.
-
-El resultar beneficiado del presente cupo no exime del cumplimiento de requisitos no arancelarios y normas a la importación definitiva.
 
 ###### ARTICULO 4.
 
@@ -201,48 +183,12 @@ Podrán solicitar asignación del cupo, las empresas ubicadas en la franja front
 
 La solicitud de asignación de los cupos a que se refiere el punto 1 del artículo 7 del presente Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que le corresponda. La Dirección General de Comercio Exterior emitirá la respuesta dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-###### ARTICULO 9.
-
-Una vez obtenida la asignación conforme el punto 1 del artículo 7, el beneficiario deberá solicitar la expedición de certificados de cupo mediante la presentación del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)" en la ventanilla de atención al público de la Representación Federal de esta Secretaría que le corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud de expedición.
-
-###### ARTICULO 10.
-
-Para cada año, la primera solicitud de asignación de los cupos a que se refiere el punto 2 del artículo 7 del presente Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Representación Federal emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
-
-###### ARTICULO 11.
-
-Una vez obtenida la constancia de asignación, a que se refiere el artículo anterior, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)", adjuntando copia de la factura comercial y copia del conocimiento de embarque, guía aérea o carta de porte, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
-
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y lo que respecta a los artículos 2, 3, 4 y 5 concluirán su vigencia en el momento que quede sin efecto el Acuerdo de Complementación Económica o de Alcance Parcial que establece las preferencias respectivas.
+> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LAS DISPOSICIONES.</small>
 
-SEGUNDO.- Las preferencias con cupos que, en su caso, se indican a través de fracciones arancelarias que no aparecen en los Diarios Oficiales de la Federación en los que se publicaron los Decretos por los que se establecen las bases conforme a las cuales se aplicarán los Acuerdos suscritos por México en el marco de la ALADI con Argentina, Cuba, Panamá y Perú obedece, únicamente, a la actualización de las fracciones arancelarias nacionales por las que se indican la aplicación de las preferencias pactadas en los referidos Acuerdos, de conformidad a las modificaciones de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-TERCERO.- Las proporciones de los cupos descritos en las fracciones I y II de los artículos 2, 3, 4 y 5 y en la fracción III del artículo 3 que hayan sido asignados conforme al Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la Asociación Latinoamericana de Integración (ALADI), al amparo del Tratado de Montevideo 1980 publicado en el Diario Oficial de la Federación el 20 de agosto de 1985, a la entrada en vigor del presente Acuerdo, serán descontados del monto anual que corresponde al periodo actual.
+...
 
-CUARTO.- Las asignaciones de cupo y los certificados de cupo otorgados antes de la publicación del presente Acuerdo, continuarán vigentes en los términos que fueron emitidas.
-
-QUINTO.- Se abroga el Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la Asociación Latinoamericana de Integración (ALADI), al amparo del Tratado de Montevideo 1980, publicado en el Diario Oficial de la Federación el 20 de agosto de 1985.
-
-México, D.F., a 22 de diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-(VEASE ARCHIVO ANEXO)
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
-
-D.O.F. 23 DE JULIO DE 2007.
-
-PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación y lo que respecta a los artículos 2, 3 y 4 concluirán su vigencia en el momento que quede sin efecto el Acuerdo de Complementación Económica o de Alcance Parcial que establece las preferencias respectivas.
-
-SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de la República de Cuba, de la República de Panamá y de la República del Perú, publicado en el Diario Oficial de la Federación el 16 de enero de 2006.
-
-TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
-
-CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
-
-QUINTO.- Las preferencias con cupos que, en su caso, se indican a través de fracciones arancelarias que no aparecen en los Diarios Oficiales de la Federación en los que se publicaron los Decretos por los que se establecen las bases conforme a las cuales se aplicarán los Acuerdos suscritos por México en el marco de la ALADI con Argentina, Cuba, Panamá y Perú obedece, únicamente, a la actualización de las fracciones arancelarias nacionales por las que se indican la aplicación de las preferencias pactadas en los referidos Acuerdos, de conformidad a las modificaciones de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de agosto de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
