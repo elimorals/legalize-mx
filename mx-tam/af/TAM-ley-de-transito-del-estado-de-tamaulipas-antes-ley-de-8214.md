@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2002-02-12"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -435,11 +435,11 @@ El Estado tendrá en todo tiempo la facultad de prestar el servicio público de 
 
 En aquellos Municipios en los que lo requiera el interés público, se creará una Comisión Consultiva de Tránsito y Transporte, como un organismo técnico y de consulta que promueva la participación social en la consecución de los fines que esta Ley establece.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 47.
 
-Cada comisión se integrará por un Coordinador General, que será el Presidente Municipal; un representante del Gobierno del Estado, designado por el Ejecutivo; un representante de la Secretaría; un representante de la Secretaría de Desarrollo Industrial, Comercial y Turístico; un representante de la Secretaría de Hacienda, y el número de representantes de los usuarios y de los concesionarios o permisionarios del servicio público de transporte, que determine la Secretaría.
+Cada comisión se integrará por un Coordinador General, que será el Presidente Municipal; un representante del Gobierno del Estado, designado por el Ejecutivo; un representante de la Secretaría; un representante de la Secretaría de Desarrollo Económico y del Empleo, un representante de la Secretaría de Turismo; un representante de la Secretaría de Finanzas, y el número de representantes de los usuarios y de los concesionarios o permisionarios del servicio público del transporte, que determine la Secretaría.
 
 ###### ARTICULO 48.
 
@@ -560,3 +560,9 @@ El reglamento de la presente ley deberá expedirse dentro de los ciento ochenta 
 ###### ARTICULO SEXTO.
 
 A efecto de dar cumplimiento a lo señalado en el Capítulo Único del Título Octavo, los prestadores actuales del servicio, en cualquiera de sus modalidades, contarán con un plazo de ciento ochenta días, a partir de que entre en vigor el Reglamento de la Ley.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
