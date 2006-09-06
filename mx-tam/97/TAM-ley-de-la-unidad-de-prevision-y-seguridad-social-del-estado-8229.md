@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-unidad-de-prevision-y-seguridad-social-del-estado-822
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "1994-06-25"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA UNIDAD DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 28 de enero de 1987.
 
@@ -271,15 +271,25 @@ III.- El Director General.
 
 El Consejo de Administración de la UPYSSET estará integrado por:
 
-I.- El Secretario de Servicios Administrativos quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-II.- El Tesorero General del Estado;
+I.- El Secretario de Administración quien fungirá como Presidente;
 
-III.- El Director General de Educación y Cultura;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- El Director General de Salud;
+II.- El Secretario de Finanzas;
 
-V.- El Director General de Asuntos Jurídicos del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III.- El Secretario de Educación;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- El Secretario de Salud;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+V.- El Director General de Asuntos Jurídicos de la Secretaría General de Gobierno;
 
 VI.- Dos representantes del Sindicato Unico de los Trabajadores al Servicio de los Poderes del Estado;
 
@@ -345,9 +355,9 @@ I.- El Poder Judicial;
 
 II.- El Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-III.- La Secretaría de la Contraloría Estatal.
+III.- La Contraloría Gubernamental;
 
 IV.- El Sindicato Unico de los Trabajadores al Servicio de los Poderes del Estado de Tamaulipas;
 
@@ -1156,3 +1166,9 @@ P.O. 25 DE JUNIO DE 1994
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
