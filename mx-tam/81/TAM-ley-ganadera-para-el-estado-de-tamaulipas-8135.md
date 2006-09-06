@@ -4,7 +4,7 @@ identifier: "TAM-ley-ganadera-para-el-estado-de-tamaulipas-8135"
 country: "mx"
 rank: "ley"
 publication_date: "1993-05-12"
-last_updated: "1993-05-12"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY GANADERA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de mayo de 1993.
 
@@ -81,7 +81,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I.- El Gobernador del Estado.
 
-II.- El Secretario de Desarrollo Agropecuario, Forestal y de Pesca.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- El Secretario de Desarrollo Rural.
 
 III.- El Subsecretario del ramo.
 
@@ -91,13 +93,17 @@ V.- Los Inspectores de Ganadería.
 
 VI.- Los Presidentes Municipales, en el ámbito de sus respectivas competencias.
 
-###### ARTICULO 6.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-El Gobernador del Estado es la autoridad facultada para dictar y aplicar las medidas necesarias para la consecución de los fines de esta Ley, las que ejercerá directamente o a través de la Secretaría de Desarrollo Agropecuario, Forestal y de Pesca.
+###### ARTICULO 6o.
 
-###### ARTICULO 7.
+El Gobernador del Estado es la autoridad facultada para dictar y aplicar las medidas necesarias para la consecución de los fines de esta Ley, las que ejercerá directamente o a través de la Secretaría de Desarrollo Rural.
 
-Para los efectos de la presente Ley se denominará La Secretaría a la de Desarrollo Agropecuario, Forestal y de Pesca, cuyas atribuciones en materia ganadera son:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 7o.
+
+Para los efectos de la presente Ley se denominará La Secretaría a la de Desarrollo Rural, cuyas atribuciones en materia ganadera son:
 
 I.- Formular y ejecutar el Programa Estatal Ganadero.
 
@@ -343,9 +349,11 @@ La clasificación y especificación de ganado y sus productos para la comerciali
 
 La Secretaría dictará, en el ámbito de su competencia, las medidas tendientes a la prevención, combate y erradicación de las plagas y enfermedades que afecten a las especies animales, observándose además lo dispuesto por los reglamentos en vigor, dichas medidas tendrán aplicación en el área y durante el tiempo para el cual se establezcan, siempre y cuando no contravengan disposiciones de orden Federal.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 39.
 
-La Secretaría se coordinará con la Secretaría de Agricultura y Recursos Hidráulicos, conforme a la Ley Federal de Sanidad Animal y sus reglamentación, con el objeto de cumplir y hacer cumplir las disposiciones administrativas y las acciones de inspección, verificación y control.
+La Secretaría se coordinará con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, conforme a la Ley Federal de Sanidad Animal y su reglamentación, con el objeto de cumplir y hacer cumplir las disposiciones administrativas y las acciones de inspección, verificación y control.
 
 ###### ARTICULO 40.
 
@@ -464,3 +472,11 @@ ATENTAMENTE
 SUFRAGIO EFECTIVO. NO REELECCION.
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
