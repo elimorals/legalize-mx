@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-regimen-de-propiedad-en-condominio-de-bienes-32168
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-11"
-last_updated: "2003-11-13"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el miércoles 11 de junio de 2003.
 
@@ -761,7 +761,9 @@ Se declara de orden público e interés social la constitución del régimen de 
 
 Estos condominios podrán por medio de su administrador y sin menoscabo de su propiedad:
 
-I.- Solicitar a la Secretaría de Desarrollo Urbano y Ecología del Estado o a la respectiva autoridad municipal competente, la emisión de la constancia oficial que lo acredite dentro de la clasificación de vivienda de interés social y/o popular para el pago de cualquier servicio o impuesto cuya cuota esté sujeta a una clasificación económica. La autoridad estará obligada a responder sobre la procedencia o no de la solicitud en un plazo máximo de 30 días; de no ser contestada en dicho plazo será considerada con resultado en sentido afirmativo.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Solicitar a la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología del Estado o a la respectiva autoridad municipal competente, la emisión de la constancia oficial que lo acredite dentro de la clasificación de vivienda de interés social y/o popular para el pago de cualquier servicio o impuesto cuya cuota esté sujeta a una clasificación económica. La autoridad estará obligada a responder sobre la procedencia o no de la solicitud en un plazo máximo de 30 días; de no ser contestada en dicho plazo será considerada con resultado en sentido afirmativo;
 
 II.- Solicitar su incorporación y aprovechamiento de los beneficios y subsidios que se destinen a los programas que la administración pública de los tres órdenes de gobierno tenga para apoyar la construcción de infraestructura urbana en las colonias, con el fin de obtener recursos para el mejoramiento y reparaciones mayores de las áreas comunes del condominio, exceptuando los de gasto corriente; y
 
@@ -920,3 +922,9 @@ ATENTAMENTE.-"SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 P.O. 13 DE NOVIEMBRE DE 2003.
 
 Artículo Unico - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
