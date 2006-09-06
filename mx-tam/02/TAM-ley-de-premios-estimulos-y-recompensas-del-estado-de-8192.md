@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "1994-06-25"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -297,11 +297,11 @@ a).- Por méritos cívicos distinguidos; y
 
 b).- Por conducta ejemplar.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Este premio se tramitará en la Secretaría General de Gobierno, cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por el Titular de la Secretaría de Educación, Cultura y Deporte, por un Representante del H. Congreso y del Supremo Tribunal de Justicia del Estado.
+Este premio se tramitará en la Secretaría General de Gobierno, cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por el Titular de la Secretaría de Educación, por un Representante del H. Congreso y del Supremo Tribunal de Justicia del Estado.
 
 ###### ARTICULO 34.
 
@@ -323,11 +323,11 @@ El Premio Estatal Profesor Lauro Aguirre, constituye el más alto reconocimiento
 
 Merecerán este premio, quienes por sus antecedentes se hayan distinguido en la investigación educativa, en el ejercicio sobresaliente de la docencia o por su trayectoria ejemplar en beneficio de la Educación.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTICULO 38
+###### ARTICULO 38.
 
-La tramitación de este premio se hará ante la Secretaría de Educación, Cultura y Deporte, cuyo titular presidirá el Consejo de Premiación. Este se integrará además con el Rector de la Universidad Autónoma de Tamaulipas, el Secretario Técnico del Consejo Estatal para la Cultura y las Artes de Tamaulipas y el Director del Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia.
+La tramitación de este premio se hará ante la Secretaría de Educación, cuyo titular presidirá el Consejo de Premiación. Este se integrará además con el Rector de la Universidad Autónoma de Tamaulipas, el Secretario Técnico del Consejo Estatal para la Cultura y las Artes de Tamaulipas y el Director del Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia.
 
 ###### ARTICULO 39.
 
@@ -343,11 +343,11 @@ Sólo personas físicas, individualmente consideradas, podrán ser beneficiarias
 
 El Premio Estatal de Cultura representa el más elevado reconocimiento que el Estado de Tamaulipas otorga a quienes se distingan en las áreas de la ciencia y el arte.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 42.
 
-El Premio Estatal de Cultura se tramitará ante la Secretaría de Educación, Cultura y Deporte, cuyo titular presidirá el Consejo de Premiación. Este se integrará además con el Secretario Técnico del Consejo Estatal para la Cultura y las Artes de Tamaulipas, el Rector de la Universidad Autónoma de Tamaulipas, y el Director del Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia.
+El Premio Estatal de Cultura se tramitará ante la Secretaría de Educación, cuyo titular presidirá el Consejo de Premiación. Este se integrará además con el Secretario Técnico del Consejo Estatal para la Cultura y las Artes de Tamaulipas, el Rector de la Universidad Autónoma de Tamaulipas, y el Director del Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia.
 
 ###### ARTICULO 43.
 
@@ -385,11 +385,11 @@ II.- El desarrollo y promoción de la práctica del deporte.
 
 El premio se otorgará a personas físicas, individualmente o en grupo, pero tratándose del reconocimiento a los promotores del depotre (sic) podrá otorgarse también a personas morales.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 50.
 
-La tramitación de este premio se hará ante el Consejo Estatal del Deporte de Tamaulipas y el Consejo de Premiación será presidido por el titular de la Secretaría de Educación Cultura y Deporte. Este se integrará además, con el Secretario Técnico del Consejo Estatal del Deporte de Tamaulipas.
+La tramitación de este premio se hará ante el Consejo Estatal del Deporte de Tamaulipas y el Consejo de Premiación será presidido por el titular de la Secretaría de Desarrollo Social, Cultura y Deporte. Este se integrará además, con el Secretario Técnico del Consejo Estatal del Deporte de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -437,11 +437,11 @@ Sólo serán beneficiarias de este premio las personas físicas, individualmente
 
 Merecerán este premio, quienes se distingan, según lo exige la naturaleza de cada área, en el uso correcto de los medios de comunicación y la estética de la expresión; por la veracidad y objetividad de las informaciones, de los artículos y de los programas culturales, así como el interés que susciten y el efecto socialmente benéfico que produzcan. Esta última cualidad será la consideración básica para premiar publicaciones o programas destinados a la niñez y a la juventud. El otorgamiento de estos premios no estará condicionado por la amplitud de la cobertura del órgano de difusión.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 57.
 
-El Premio Estatal de Periodismo y de Información se tramitará ante la Secretaría General de Gobierno, cuyo titular será quien presida el Consejo de Prmiación (sic). Este se integrará además, con el Titular de la Coordinación General de Comunicación Social y Relaciones Públicas y con el Titular de la Secretaría de Educación, Cultura y Deporte.
+El Premio Estatal de Periodismo y de Información se tramitará ante la Secretaría General de Gobierno, cuyo titular será quien presida el Consejo de Premiación. Este se integrará además, con el Titular de la Coordinación General de Comunicación Social y Relaciones Públicas y con el Titular de la Secretaría de Desarrollo Social, Cultura y Deporte.
 
 ###### ARTICULO 58.
 
@@ -471,11 +471,11 @@ El premio se declarará desierto en las áreas donde no se registren candidatos 
 
 El Premio Estatal a la Productividad y Calidad del Trabajo se conferirá a las personas físicas o morales que diseñen y/o instrumenten estrategias o proyectos, con la finalidad de promover una nueva cultura de eficiencia, calidad y exportación, cuyos resultados se traduzcan en elevar la competitividad en las empresas y lograr mejores niveles de vida para los trabajadores.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 63.
 
-El premio se tramitará ante la Secretaría General de Gobierno, cuyo titular presidirá el Consejo de Premiación. Este se integrará con los titulares de las Secretarías de Servicios Administrativos, Desarrollo Industrial, Comercial y Turístico, Desarrollo Agropecuario, Forestal y de Pesca, de Salud, de Desarrollo Social, de Educación, Cultura y Deporte y del Instituto Tamaulipeco para la Elevación de la Productividad y la Calidad, además con un representante del H. Congreso del Estado, del Supremo Tribunal de Justicia, y otro de la Junta Local de Conciliación y Arbitraje.
+El premio se tramitará ante la Secretaría General de Gobierno, cuyo titular presidirá el Consejo de Premiación. Este se integrará con los titulares de las Secretarías (sic) Administración, de Turismo, Desarrollo Rural, de Salud, de Desarrollo Social, Cultura y Deporte, de Educación, y del Instituto Tamaulipeco para la Elevación de la Productividad y la Calidad, además con un representante del H. Congreso del Estado, del Supremo Tribunal de Justicia, y otro de la Junta Local de Conciliación y Arbitraje.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -495,11 +495,11 @@ Corresponde al premio una placa. El Consejo de Premiación podrá proponer al Go
 
 Serán merecedores de este premio, los jóvenes menores de 25 años, cuya conducta o dedicación al estudio o al trabajo se considere ejemplo para la sociedad.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 67.
 
-Este premio se tramitará ante la Secretaría de Educación, Cultura y Deporte, cuyo titular presidirá el Consejo de Premiación y quedará integrado por los titulares de la Secretaría de Desarrollo Social, el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, Universidad Autónoma de Tamaulipas, Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia y del Instituto Tamaulipeco de Capacitación para el Empleo.
+Este premio se tramitará ante la Secretaría de Educación cuyo titular presidirá el Consejo de Premiación y quedará integrado por los titulares de la Secretaría de Desarrollo Social, Cultura y Deporte, el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, Universidad Autónoma de Tamaulipas, Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia y del Instituto Tamaulipeco de Capacitación para el Empleo.
 
 ###### ARTICULO 68.
 
@@ -515,11 +515,11 @@ El premio consistirá en una medalla y se acompañará con entrega en numerario 
 
 Son acreedores a este premio, quienes desinteresadamente y por propia voluntad, con sacrificio económico o de su tiempo, hayan realizado o estén realizando actos de manifiesta solidaridad humana, que contribuyan al bienestar social y propicien el desarrollo de la comunidad; ya sea cooperando al alivio de necesidades en casos de catástrofe o de siniestro; ya sea prestando ayuda o asistencia a sectores socialmente marginados.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 71.
 
-Este premio se tramitará ante la Secretaría de Desarrollo Social, cuyo titular presidirá el Consejo de Premiación, que se integrará además con los titulares de la Secretarías General de Gobierno y de Salud, así como con el del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
+Este premio se tramitará ante la Secretaría de Desarrollo Social, Cultura y Deporte, cuyo titular presidirá el Consejo de Premiación, que se integrará además con los titulares de la (sic) Secretarías General de Gobierno y de Salud, así como con el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
 ###### ARTICULO 72.
 
@@ -537,11 +537,11 @@ El premio consistirá en placa y podrá acompañarse de una entrega en numerario
 
 El Premio Estatal de Antigüedad en el Servicio Público, se otorgará a los servidores públicos de las Dependencias y Entidades sujetos al régimen de la Ley del Servicio Burocrático del Estado de Tamaulipas, en atención a sus años de servicio.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 75.
 
-Este premio se tramitará de oficio en cada una de las Dependencias y Entidades del Poder Público Estatal, por conducto de los Consejos de Premiación que en ellas se establezcan, los cuales se integrarán con el titular como Presidente, el representante de la Secretaría de Servicios Administrativos, quien actuará como Secretario, y con un representante del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas. Estos Consejos fungirán como Jurados.
+Este premio se tramitará de oficio en cada una de las Dependencias y Entidades del Poder Público Estatal, por conducto de los Consejos de Premiación que en ellas se establezcan, los cuales se integrarán con el titular como Presidente, el representante de la Secretaría de Administración, quien actuará como Secretario, y con un representante del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas. Estos Consejos fungirán como Jurados.
 
 ###### ARTICULO 76.
 
@@ -571,11 +571,11 @@ Los servidores públicos que se consideren con derecho a este premio, podrán ha
 
 El Premio Estatal Maestro Rafael Ramírez en el Estado de Tamaulipas, se otorgará a los maestros que cumplan 30 años de Servicio dentro del Sistema Federal o Estatal.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 79.
 
-La tramitación de este premio se hará ante la Secretaría de Educación, Cultura y Deporte, cupo (sic) titular presidirá el Consejo de Premiación. Este se integrará además con el Secretario de Servicios Administrativos, quién actuará como Secretario, y con un representante de la Sección 30 del Sindicato Nacional de Trabajadores de la Educación, quienes verificarán la documentación comprobatoria y dictaminarán lo procedente.
+La tramitación de este premio se hará ante la Secretaría de Educación, cuyo titular presidirá el Consejo de Premiación. Este se integrará además con el Secretario de Administración, quién actuará como Secretario, y con un representante de la Sección 30 del Sindicato Nacional de Trabajadores de la Educación, quienes verificarán la documentación comprobatoria y dictaminarán lo procedente.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -617,11 +617,11 @@ Los maestros beneficiados con este premio, quedarán impedidos para recibir el P
 
 El Premio Estatal de Ecología y Protección al Ambiente se conferirá a la o a las personas físicas o morales que conciban nuevos métodos y técnicas, implanten o promuevan estrategias o proyectos encaminados a corregir o salvaguardar el equilibrio ecológico y ambiental, cuyos efectos redundan en mejorar la calidad de vida de la población, así como en el establecimiento de una cultura ecológica.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 86.
 
-La tramitación de este premio se hará ante la Secretaría de Desarrollo Social, cuyo titular presidirá el Consejo de Premiación, que se integra además con los titulares de la Secretaria de Desarrollo Agropecuario Forestal y de Pesca, de Desarrollo Industrial, Comercial y Turístico, de Salud, de Obras y Servicios Públicos y de la de Servicios Administrativos.
+La tramitación de este premio se hará ante la Secretaría de Desarrollo Social, Cultura y Deporte, cuyo titular presidirá el Consejo de Premiación, que se integra además con los titulares de la Secretaría de Desarrollo Rural, de Turismo, de Salud, de Obras Públicas, Desarrollo Urbano y Ecología, y de Administración.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -675,11 +675,11 @@ Los Bonos de Productividad y Calidad, se entregarán a los servidores públicos 
 
 Para el otorgamiento de las recompensas los superiores jerárquicos analizaran si el mejoramiento, resultado de actos de algún servidor público lo hace acreedor a una recompensa y propondrán en su caso, al o los candidatos correspondientes ante el Jurado de Premiación.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 95.
 
-El Jurado de Premiación será presidido por el titular de la Secretaría de la Contraloría, y se integrará por los titulares de las Dependencias y Entidades de la Administración Pública Estatal y con un representante del H. Congreso y del Supremo Tribunal de Justicia del Estado, quien determinará las propuestas a recibir recompensa, que deberán semeterse (sic) al acuerdo del Gobernador del Estado.
+El Jurado de Premiación será presidido por el titular de la Contraloría Gubernamental, y se integrará por los titulares de las Dependencias y Entidades de la Administración Pública Estatal y con un representante del H. Congreso y del Supremo Tribunal de Justicia del Estado, quien determinará las propuestas a recibir recompensa, que deberán someterse al acuerdo del Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -734,3 +734,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
