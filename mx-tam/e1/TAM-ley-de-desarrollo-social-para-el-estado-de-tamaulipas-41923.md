@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2004-11-24"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -155,9 +155,11 @@ La elaboración del Programa Estatal y de los Programas Municipales de Desarroll
 
 Los programas que en esta materia se formulen son parte del Sistema Estatal de Planeación del Desarrollo Social y deben orientarse al cumplimiento del objeto de esta ley.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 12.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, Cultura y Deporte, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
 
 ### Capítulo V. De la Programación
 
@@ -301,9 +303,11 @@ III.- Cumplir con la normatividad de los programas.
 
 Con el propósito de asegurar la equidad y la eficacia de los programas sociales, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, en el ámbito de sus competencias, integrarán el Padrón Unico de Beneficiarios de los Programas Sociales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría de Desarrollo Social será responsable de la integración y actualización de los datos relativos al Padrón Unico de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
+La Secretaría de Desarrollo Social, Cultura y Deporte será responsable de la integración y actualización de los datos relativos al Padrón Unico de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
 
 ## Título VI. De la Participación Social
 
@@ -423,13 +427,17 @@ El Ejecutivo del Estado brindará financiamiento a personas en situación de des
 
 ### Capítulo I. Del Objeto e Integración
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 51.
 
-Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
+Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, Cultura y Deporte, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría de Desarrollo Social, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
+La Secretaría de Desarrollo Social, Cultura y Deporte, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
 
 ###### ARTICULO 53.
 
@@ -449,7 +457,9 @@ IV.- Fomentar la participación de la sociedad civil, y en general, de los secto
 
 Corresponden al Ejecutivo del Estado, en el ámbito de su competencia, las atribuciones siguientes:
 
-I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Desarrollo Social, Cultura y Deporte;
 
 II.- Convenir acciones y programas sociales con el Ejecutivo Federal;
 
@@ -487,9 +497,11 @@ IX.- Informar a la sociedad sobre las acciones en torno al desarrollo social; y
 
 X.- Las demás señaladas en la presente ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 56.
 
-Corresponden a la Secretaría de Desarrollo Social las siguientes atribuciones:
+Corresponden a la Secretaría de Desarrollo Social, Cultura y Deporte las siguientes atribuciones:
 
 I.- Proyectar y coordinar la Planeación Estatal del Desarrollo Social;
 
@@ -563,9 +575,11 @@ Las evaluaciones deberán ser objetivas, imparciales y oportunas.
 
 Se crea la Comisión Estatal de Evaluación de la Política de Desarrollo Social, como un instrumento de coordinación para la evaluación de las políticas y programas de desarrollo social que ejecuten las dependencias públicas.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 63.
 
-La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Desarrollo Social y estará integrada por los titulares de las Secretarías de Educación, Cultura y Deporte, de Salud, de Desarrollo Económico y del Empleo y de Desarrollo Urbano y Ecología, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
+La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Desarrollo Social, Cultura y Deporte y estará integrada por los titulares de las Secretarías de Educación, de Salud, de Desarrollo Económico y del Empleo y de Obras Públicas, Desarrollo Urbano y Ecología, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
 
 ### Capítulo III. De las Funciones de la Comisión Estatal de Evaluación de la Política de Desarrollo Social
 
@@ -593,9 +607,11 @@ VI.- Promover el establecimiento de convenios de colaboración con instituciones
 
 Conforme a la legislación correspondiente, aquellos servidores públicos que en ejercicio de sus funciones contravengan u ordenen contravenir los principios y preceptos establecidos en la presente ley, se harán acreedores a las medidas disciplinarias administrativas, civiles y penales aplicables por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 66.
 
-En los términos de la ley, la Secretaría de Desarrollo Social deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
+En los términos de la ley, la Secretaría de Desarrollo Social, Cultura y Deporte deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
 
 ## Título XII. De la Publicación y Publicidad de los Programas Sociales
 
@@ -626,3 +642,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los ocho días del mes de septiembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
