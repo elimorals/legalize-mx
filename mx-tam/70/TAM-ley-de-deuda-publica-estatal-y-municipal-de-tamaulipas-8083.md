@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2003-06-10"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -199,7 +199,9 @@ Se crea el Comité Técnico de Financiamiento constituido por los siguientes mie
 
 I.- Secretario de Finanzas.
 
-II.- Secretario de Desarrollo Social.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Secretario de Desarrollo Social, Cultura y Deporte.
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
 
@@ -364,3 +366,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE JUNIO DE 2003
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
