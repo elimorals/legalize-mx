@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-informacion-geografica-y-estadistica-del-estado-de-8142"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-13"
-last_updated: "1994-04-13"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INFORMACION GEOGRAFICA Y ESTADISTICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 13 de abril de 1994.
 
@@ -63,9 +63,11 @@ III.- Fijar las bases para coordinar la participación y colaboración que corre
 
 IV.- Promover la integración y el desarrollo del Sistema de Información Geoestadística del Estado de Tamaulipas para que se suministre a quienes lo requieran, el Servicio Público de Información Geográfica y Estadística.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 4.
 
-Las facultades que la presente Ley confieren al Ejecutivo Estatal se ejercerán por conducto de la Secretaría de Desarrollo Social, sin perjuicio de las que correspondan a las Dependencias de la Administración Pública conforme a otras disposiciones legales.
+Las facultades que la presente Ley confieren al Ejecutivo Estatal se ejercerán por conducto de la Secretaría de Desarrollo Social, Cultura y Deporte, sin perjuicio de las que correspondan a las Dependencias de la Administración Pública conforme a otras disposiciones legales.
 
 ###### ARTICULO 5.
 
@@ -81,7 +83,9 @@ IV.- Servicios Municipales de Información Geoestadística: El conjunto de activ
 
 V.- Sistema de Información Geográfica y Estadística del Estado de Tamaulipas: El conjunto de procesos iterativos (sic) realizados por las instituciones de la Administración Pública en general, provenientes de diversas variables de estudio y organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación e interdependencia de los fenómenos económicos, demográficos, sociales y culturales, así como su relación con el medio físico-geográfico y el espacio territorial del Estado y sus Municipios.
 
-En lo sucesivo, y salvo mención expresa, al hacer referencia a la Secretaría de Desarrollo Social, al Servicio Estatal de Información Geoestadística, a los Poderes Legislativo y Judicial del Estado, al Servicio Municipal de Información Geográfica y al Sistema de Información Geoestadística Estatal, se les denominará respectivamente, Secretaría, Servicio Estatal, Poderes, Servicio Municipal, Sistema Estatal y Dependencias y Entidades.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+En lo sucesivo, y salvo mención expresa, al hacer referencia a la Secretaría de Desarrollo Social, Cultura y Deporte, al Servicio Estatal de Información Geoestadística, a los Poderes Legislativo y Judicial del Estado, al Servicio Municipal de Información Geográfica y al Sistema de Información Geoestadística Estatal, se les denominará respectivamente, Secretaría, Servicio Estatal, Poderes, Servicio Municipal, Sistema Estatal y Dependencias y Entidades.
 
 ###### ARTICULO 6.
 
@@ -405,7 +409,7 @@ Los ejidatarios, propietarios, poseedores o usufructuarios de predios ubicados e
 
 ###### ARTICULO 42.
 
-Todo informante que además sea servidor público del Estado, de los Municipios, así como de las Dependencias y Entidades de la Administración Pública Estatal, tendrá la obligación de proporcionar la información geográfica y estadística que se le solicite por la Secretaría, en los términos de la presente Ley.
+Todo informante que además sea servidor público del Estado, de los Municipios, así como de Dependencias y Entidades de la Administración Pública Estatal, tendrá la obligación de proporcionar la información geográfica y estadística que se le solicite por la Secretaría, en los términos de la presente Ley.
 
 Igualmente, estarán obligados a captar o producir, en el ámbito de sus funciones datos para el sistema estatal, cuando la propia Secretaría así lo requiera.
 
@@ -544,3 +548,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los treinta días del mes de marzo de mil novecientos noventa y cuatro
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
