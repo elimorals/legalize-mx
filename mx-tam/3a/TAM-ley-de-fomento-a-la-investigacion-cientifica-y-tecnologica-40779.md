@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2005-04-06"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -519,11 +519,13 @@ Con el objeto de integrar la investigación y la educación, los centros de inve
 
 El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y procurará apoyar para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación, el desarrollo industrial y comercial del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
-
 ###### ARTICULO 44.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 1. El Gobierno del Estado, a través de la Secretaría de Educación, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles educativos, en particular para la educación básica.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
 2. Por medio de la Secretaría de Desarrollo Económico y del Empleo, el Gobierno del Estado aplicará las investigaciones científicas y tecnológicas en los procesos productivos, particularmente en los sectores industrial y comercial, a fin de impulsar el desarrollo económico del Estado.
 
@@ -570,3 +572,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
