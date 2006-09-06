@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2004-11-10"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
@@ -845,7 +845,9 @@ En el caso de la modalidad consistente en la suspensión parcial o total de dere
 
 1.- A las autoridades locales de policía y tránsito para que informen si detectan al sentenciado violando la prohibición para conducir vehículos de motor; si cambia del domicilio donde se le ordenó permanecer o residir; si posee o porta armas o consume bebidas alcohólicas en lugares públicos;
 
-2.- A las autoridades de la Secretaría de Hacienda y Crédito Público, así como a las de la Secretaría de Finanzas y Administración del Estado, para solicitarles su informe y colaboración si detectan al sentenciado prestando un servicio profesional o desarrolla la ocupación que le fue prohibida o restringida;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2.- A las autoridades de la Secretaría de Hacienda y Crédito Público, así como a la Secretaría de Finanzas del Estado, para solicitarles su informe y colaboración si detectan al sentenciado prestando un servicio profesional o desarrolla la ocupación que le fue prohibida o restringida;
 
 3.- A los Jueces civiles del domicilio del sentenciado informándoles de las prohibiciones relacionadas con el ejercicio de la patria potestad, la custodia, la tutela, la adopción, el albaceazgo, la administración de la sociedad conyugal e ingresos del sentenciado a favor de su cónyuge y de sus acreedores alimenticios, y de la cantidad que se le asignó para sus gastos personales.
 
@@ -1212,3 +1214,9 @@ Con base en las asignaciones presupuestales del caso se podrán crear nuevas Uni
 ###### ARTICULO QUINTO.
 
 De acuerdo con las disponibilidades presupuestales se podrán establecer Consejos Distritales de Justicia Juvenil adicionales a los referidos en el artículo 16 de esta ley, en los municipios del Estado donde así resulte pertinente conforme a la incidencia de conductas infractoras por parte de los menores de edad.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
