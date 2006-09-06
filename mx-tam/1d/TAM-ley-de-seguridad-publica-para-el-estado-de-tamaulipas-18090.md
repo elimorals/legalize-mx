@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-18090"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-06"
-last_updated: "2004-12-15"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de abril del 2000.
 
@@ -101,9 +101,13 @@ III.- El Procurador General de Justicia;
 
 IV.- El Presidente del Supremo Tribunal de Justicia;
 
-V.- El Director de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-VI.- El Director General de Seguridad Pública;
+V.- El Secretario de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- El Director de la Policía Ministerial;
 
 VII.- Los Directores de las corporaciones de seguridad pública;
 
@@ -173,9 +177,11 @@ X.- Promover una amplia participación de la comunidad en el análisis y soluci�
 
 XI.- Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 13.
 
-Son facultades y obligaciones del Secretario General de Gobierno:
+Son facultades y obligaciones del Secretario de Seguridad Pública:
 
 I.- Vigilar el estricto cumplimiento de esta ley y sus reglamentos;
 
@@ -239,7 +245,9 @@ V.- Ejecutar los acuerdos y convenios que se suscriban en materia de seguridad p
 
 VI.- Proponer al Ayuntamiento el nombramiento del Director de Seguridad Pública Municipal, previa consulta de los antecedentes del aspirante en el Registro de Personal de Seguridad Pública a que se refiere esta ley;
 
-VII.- Autorizar altas y bajas del personal de las corporaciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta ley y reglamentos respectivos, informando de cualquier movimiento a la Dirección General de Seguridad Pública y a la Unidad de Enlace Informático del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Autorizar altas y bajas del personal de las corporaciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta ley y reglamentos respectivos, informando de cualquier movimiento a la Secretaría de Seguridad Pública y a la Unidad de Enlace Informático del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -249,7 +257,9 @@ VIII.- Establecer, actualizar y fortalecer el registro municipal del personal de
 
 IX.- Vigilar que los titulares de las corporaciones municipales de seguridad pública invariablemente consulten los antecedentes de todo aspirante a ingresar a éstas, ante el Registro de Personal de Seguridad Pública, de cuya información dependerá su ingreso. Bajo ningún motivo o pretexto se autorizará el ingreso de quien se tuviera antecedentes negativos o inconvenientes;
 
-X.- Presentar mensualmente o con la periodicidad que se solicite, un informe a la Dirección General de Seguridad Pública, con los resultados de las investigaciones que contengan los elementos generales criminógenos, las zonas e incidencias en la comisión de delitos en su territorio, para conformar la estadística delictiva, y además, para adoptar las medidas preventivas necesarias; aprehender en flagrancia y evitar las faltas a los ordenamientos jurídicos;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+X.- Presentar mensualmente o con la periodicidad que se solicite, un informe a la Secretaría de Seguridad Pública, con los resultados de las investigaciones que contengan los elementos generales criminógenos, las zonas e incidencias en la comisión de delitos en su territorio, para conformar la estadística delictiva, y además, para adoptar las medidas preventivas necesarias; aprehender en flagrancia y evitar las faltas a los ordenamientos jurídicos;
 
 XI.- Determinar la realización de operativos especiales de vigilancia en zonas que por su incidencia delictiva lo requieran;
 
@@ -265,7 +275,9 @@ XVI.- Auxiliar a las autoridades federales y estatales de seguridad pública, cu
 
 XVII.- Opinar sobre las autorizaciones de servicios privados de protección y vigilancia en el ámbito de su competencia;
 
-XVIII.- Atender las recomendaciones que en materia de seguridad pública le formule el Secretario General de Gobierno o el Director General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVIII.- Atender las recomendaciones que en materia de seguridad pública le formule el Secretario General de Gobierno o el Secretario de Seguridad Pública;
 
 XIX.- Integrar el Comité de Consulta y Participación de la Comunidad y diseñar acciones que fomenten la organización comunitaria;
 
@@ -281,25 +293,37 @@ Los Presidentes Municipales tendrán la obligación de registrar y consultar per
 
 ### CAPITULO I
 
-#### SECCIÓN PRIMERA. DE LA DIRECCION GENERAL DE SEGURIDAD PUBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARIA DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 18.
 
-La Dirección General de Seguridad Pública es la dependencia operativa de la Secretaría General de Gobierno encargada de la función de seguridad pública preventiva.
+La Secretaría de Seguridad Pública es la dependencia encargada de la función de seguridad pública preventiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 19.
 
-Son atribuciones del Director General de Seguridad Pública:
+Son atribuciones del Secretario de Seguridad Pública:
 
 I.- Vigilar el estricto cumplimiento de esta ley y sus reglamentos;
 
 II.- Asistir a las reuniones del Consejo Estatal de Seguridad Pública y cumplir los lineamientos y acuerdos que éste emita;
 
-III.- Formular el proyecto del Programa Estatal de Seguridad Pública; elaborar y presentar los programas de trabajo de la dependencia y los anteproyectos de leyes, reglamentos y acuerdos en materia de seguridad pública al Secretario General de Gobierno, y vigilar, previa aprobación de los mismos, su estricto cumplimiento y evaluación;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Establecer, previo acuerdo con el Secretario General de Gobierno, las normas y lineamientos a que se sujetará la organización y funcionamiento de los servicios de seguridad pública de su competencia en el Estado, y normar las actividades de las policías preventivas municipales;
+III.- Formular el Proyecto del Programa de Seguridad Pública; elaborar y presentar los programas de trabajo de la Secretaría y los proyectos de leyes, reglamentos y acuerdos en materia de seguridad pública al Gobernador del Estado por conducto de la Secretaría General de Gobierno, y vigilar previa aprobación de los mismos, su estricto cumplimiento y evaluación;
 
-V.- Coordinarse en materia de seguridad pública, con autoridades y corporaciones federales, estatales y municipales, en acciones de seguridad pública, encomendadas por el Secretario General de Gobierno o por el Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Establecer las normas y lineamientos a que se sujetará la organización y funcionamiento de los servicios de seguridad pública de su competencia en el estado, y normar las actividades de las policías preventivas municipales;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Coordinarse en materia de seguridad pública, con autoridades y corporaciones federales, estatales y municipales, en acciones de seguridad pública, encomendadas por el Gobernador del Estado, o el Consejo Estatal de Seguridad Pública;
 
 VI.- Formular a los presidentes municipales y a los directores de las corporaciones de seguridad pública, las recomendaciones que estime pertinentes para el mejoramiento de la función de seguridad pública;
 
@@ -323,7 +347,9 @@ XV.- Establecer medidas para controlar, coordinar y supervisar el servicio priva
 
 XVI.- Administrar la Licencia Oficial Colectiva; controlar altas y bajas de armamento, municiones y personal autorizado para portarlo de las policías preventivas del Estado, custodios de los centros de readaptación social y policías preventivas municipales;
 
-XVII.- Integrar, coordinar y supervisar el banco de municiones y armamento de la Dirección General;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVII.- Integrar, coordinar y supervisar el banco de municiones y armamento de la Secretaría de Seguridad Pública;
 
 XVIII.- Vigilar que sean puestas a disposición de las autoridades competentes, las personas, armas y objetos asegurados por las corporaciones de seguridad pública estatales y municipales;
 
@@ -331,25 +357,33 @@ XIX.- Auxiliar al Ministerio Público y a las autoridades judiciales y administr
 
 XX.- Coordinarse con la Dirección de Protección Civil y las demás autoridades y corporaciones policiacas en los programas de auxilio a la población en casos de accidentes y desastres;
 
-XXI.- Las que le delegue o designe el Titular del Ejecutivo o el Secretario General de Gobierno; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XXI.- Las que le delegue o designe el Titular del Poder Ejecutivo; y
 
 XXII.- Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 20.
 
-El Director General de Seguridad Pública vigilará, se asegurará y será responsable que las corporaciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda, y se cerciorará que dicha información sea debidamente atendida.
+El Secretario de Seguridad Pública vigilará que las corporaciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Quinto de esta ley, según corresponda, y se cerciorará que dicha información sea debidamente atendida.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
 En caso de incumplimiento impondrá las sanciones establecidas en esta ley a los titulares de las corporaciones a su cargo, y, en tratándose de corporaciones municipales, propondrá a los Presidentes Municipales hacer lo propio con los titulares de sus cuerpos de seguridad.
 
 #### SECCIÓN SEGUNDA. DE LA UNIDAD INTERNA DE CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 21.
 
-La Dirección General de Seguridad Pública del Estado, a fin de lograr el pleno cumplimiento de los principios de legalidad, honradez, lealtad, profesionalismo y eficiencia de los integrantes de las corporaciones preventivas estatales y municipales, contará con una Unidad Interna de Control y Evaluación, la que aplicará un programa permanente de evaluación del desempeño y lealtad de los servidores a ellas adscritos. Este órgano realizará sus funciones, sin perjuicio de las que tiene asignadas la Unidad de Contraloría Gubernamental.
+La Secretaría de Seguridad Pública del Estado, a fin de lograr el pleno cumplimiento de los principios de legalidad, honradez, lealtad, profesionalismo y eficiencia de los integrantes de las corporaciones preventivas estatales y municipales, contará con una Unidad Interna de Control y Evaluación, la que aplicará un programa permanente de evaluación del desempeño y lealtad de los servidores a ellas adscritos. Este órgano realizará sus funciones, sin perjuicio de las que tiene asignadas la Unidad de Contraloría Gubernamental.
 
-La Unidad Interna de Control y Evaluación asimismo verificará el cumplimiento de las obligaciones de los integrantes de las corporaciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Director General de Seguridad Pública.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+La Unidad Interna de Control y Evaluación asimismo verificará el cumplimiento de las obligaciones de los integrantes de las corporaciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública.
 
 La estructura y demás funciones y atribuciones de la Unidad Interna de Control se establecerán en el reglamento de esta ley.
 
@@ -389,7 +423,9 @@ b) Parques y espacios urbanos considerados como zonas estatales, así como los i
 
 c) Todos aquellos espacios, zonas o lugares del territorio estatal sujetos a la jurisdicción local, conforme a lo establecido por las leyes respectivas;
 
-II.- Cumplir los programas y acciones que en materia de prevención de delitos establezca la Dirección General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Cumplir los programas y acciones que en materia de prevención de delitos establezca la Secretaría de Seguridad Pública;
 
 III.- Investigar y analizar elementos criminógenos y las zonas de incidencias delictivas, a fin de evitar las conductas antisociales o aprehender en flagrancia;
 
@@ -419,7 +455,9 @@ XII.- Las demás que le señalen las disposiciones jurídicas y reglamentarias a
 
 La Policía Rural del Estado tendrá las facultades y obligaciones siguientes:
 
-I.- Cumplir con los programas de trabajo y acciones que al respecto se establezcan por la Dirección General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Cumplir con los programas de trabajo y acciones que al respecto se establezcan por la Secretaría de Seguridad Pública;
 
 II.- Realizar patrullajes y labores de vigilancia preventiva en las áreas rurales del Estado y en las ciudades, cuando así se le requiera, a fin de que se dé cumplimiento a las leyes de observancia general y los reglamentos forestales y agropecuarios;
 
@@ -431,31 +469,21 @@ V.- Instrumentar en el área rural, campañas y operativos especiales para preve
 
 VI.- Practicar detenciones o aseguramientos en casos de flagrancia, poniendo a disposición de las autoridades competentes a las personas detenidas o los bienes que se hayan asegurado o que estén bajo custodia, en los términos legales establecidos;
 
-VII.- Participar en operativos conjuntos en coordinación con otras corporaciones, cuando así lo requiera el Director General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Participar en operativos conjuntos en coordinación con otras corporaciones, cuando así lo requiera el Secretario de Seguridad Pública;
 
 XVIII.- Colaborar, a solicitud de las autoridades competentes, en los servicios de protección civil; y
 
 IX.- Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPITULO V. DE LA POLICIA DE TRANSITO Y VIALIDAD
 
 ###### ARTICULO 26.
 
-La Policía de Tránsito y Vialidad del Estado, tendrá las facultades y obligaciones siguientes:
-
-I.- Cumplir y vigilar que se observen los ordenamientos de tránsito y vialidad;
-
-II.- Cumplir con los programas de trabajo y acciones que al respecto se establezcan por la Dirección General de Seguridad Pública;
-
-III.- Promover la realización de campañas para verificar que los conductores de vehículos cuenten con licencia de conducir, y que los vehículos cuenten con placas de circulación y engomados;
-
-IV.- Realizar programas de educación cívica y vial dirigidos a grupos de niños y jóvenes; y promover la creación de escuelas de manejo y de brigadas de educación y cultura vial;
-
-V.- Participar en operativos conjuntos en coordinación con otras corporaciones, cuando así lo requiera el Director General de Seguridad Pública;
-
-VI.- Practicar detenciones o aseguramientos en casos de flagrancia, poniendo a disposición de las autoridades competentes a las personas detenidas o los bienes que se hayan asegurado o que estén bajo custodia, en los términos legales establecidos; y
-
-VII.- Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VI. DE LA POLICIA DE SEGURIDAD INTEGRAL
 
@@ -481,7 +509,9 @@ VII.- Las que determinen otros ordenamientos legales.
 
 La prestación de los servicios señalados en el artículo anterior, se hará mediante contratación por escrito, en el que se establecerá el tipo, tiempo, costo y condiciones del mismo.
 
-El personal operativo de la Policía de Seguridad Integral auxiliará a las demás corporaciones policiales, estatales y municipales, cuando así se requiera, previa autorización del Director General de Seguridad Pública.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+El personal operativo de la Policía de Seguridad Integral auxiliará a las demás corporaciones policiales, estatales y municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública.
 
 ### CAPITULO VII. DISPOSICIONES COMUNES PARA LAS CORPORACIONES DE SEGURIDAD PUBLICA
 
@@ -489,7 +519,9 @@ El personal operativo de la Policía de Seguridad Integral auxiliará a las dem�
 
 Son atribuciones comunes de los Directores de las corporaciones preventivas estatales y municipales de seguridad pública:
 
-I.- Formular y ejecutar el programa de trabajo de la corporación a su cargo e informar al Director General de Seguridad Pública periódicamente sobre los resultados;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Formular y ejecutar el programa de trabajo de la corporación a su cargo e informar al Secretario de Seguridad Pública periódicamente sobre los resultados;
 
 II.- Ejecutar las acciones y operativos específicos que le instruya su inmediato superior jerárquico;
 
@@ -605,9 +637,11 @@ Las relaciones laborales entre el Estado o los Municipios, con los integrantes d
 
 ### CAPITULO VIII. DE LAS EMPRESAS DE SERVICIO PRIVADO DE PROTECCION Y VIGILANCIA COMO AUXILIARES DE LA SEGURIDAD PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 35.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, autorizar a particulares para que presten servicios privados de protección y vigilancia de personas, lugares o establecimientos, así como bienes o valores, incluido su traslado.
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública, autorizar a particulares para que presten servicios privados de protección y vigilancia de personas, lugares o establecimientos, así como bienes o valores, incluido su traslado.
 
 La autorización, operación, funcionamiento, supervisión, verificación, revalidación, regulación y control de los servicios privados de protección y vigilancia, se sujetará a las disposiciones contenidas en la ley de la materia.
 
@@ -631,7 +665,9 @@ Los servidores públicos adscritos a cualquier área de seguridad pública, del 
 
 Las personas físicas o morales que presten servicios privados de protección y vigilancia, son auxiliares de la función de seguridad pública y coadyuvarán con las autoridades y las instituciones en situaciones de urgencia, desastre o cuando así lo solicite la Federación, el Estado o los Municipios.
 
-Asimismo, estarán obligados a proporcionar los datos necesarios para el registro del personal y equipo, información estadística y sobre delincuencia que posean, y cualquiera otra que les sea solicitada por la Dirección General de Seguridad Pública y por la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, con el fin de integrar los registros a que se refiere el Capítulo Tercero, Titulo Quinto de esta ley, debiendo otorgar las facilidades necesarias para que las autoridades competentes puedan ejercer las funciones de supervisión y verificación de sus actividades.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+Asimismo, están obligados a proporcionar los datos necesarios para el registro del personal y equipo, información estadística y sobre delincuencia que posean, y cualquiera otra que le sea solicitada por la Secretaría de Seguridad Pública y por la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, con el fin de integrar los registros a que se refiere el Capítulo Tercero, Título Quinto de esta ley, debiendo otorgar las facilidades necesarias para que las autoridades competentes puedan ejercer las funciones de supervisión y verificación de sus actividades.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -657,9 +693,11 @@ El incumplimiento de las obligaciones establecidas por esta ley y demás disposi
 
 ### CAPITULO I. DE LA ACADEMIA DE POLICIA DEL ESTADO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 39.
 
-La Academia de Policía del Estado es la institución dependiente de la Dirección General de Seguridad Pública, encargada de diseñar y ejecutar los planes y programas para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, eficiencia, profesionalismo y honradez que rigen la presente ley.
+La Academia de Policía del Estado es la institución dependiente de la Secretaría de Seguridad Pública, encargada de diseñar y ejecutar los planes y programas para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, eficiencia, profesionalismo y honradez que rigen la presente ley.
 
 Su organización y funcionamiento se regirá por esta ley y su reglamento.
 
@@ -667,9 +705,11 @@ Su organización y funcionamiento se regirá por esta ley y su reglamento.
 
 A fin de lograr los objetivos de los programas de formación básica, actualización, especialización y profesionalización que imparta la Academia de Policía del Estado, ésta promoverá la suscripción de convenios con los Ayuntamientos de la Entidad, para establecer Academias Regionales, con el propósito de que el personal de las corporaciones de seguridad pública municipales se beneficien con dichos programas.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 41.
 
-El Consejo Técnico es el órgano rector de la Academia, el cual será presidido por el Director General de Seguridad Pública o la persona que éste designe; el Director de la Academia, fungirá como secretario; y además, lo integraran tres vocales representantes del personal docente y uno del personal administrativo. Los acuerdos que emita serán aprobados por mayoría, teniendo voto de calidad su presidente.
+El Consejo Técnico es el órgano rector de la Academia, el cual será presidido por el Secretario de Seguridad Pública o la persona que este designe; el Director de la Academia, fungirá como secretario; y además, lo integrarán tres vocales representantes del personal docente y uno del personal administrativo. Los acuerdos que emita serán aprobados por mayoría, teniendo voto de calidad su presidente.
 
 ###### ARTICULO 42.
 
@@ -693,7 +733,9 @@ El Director de la Academia de Policía del Estado tendrá las atribuciones sigui
 
 I.- Presentar al Consejo Técnico las propuestas de planes y programas para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios, así como del personal docente y administrativo a su cargo;
 
-II.- Fungir como Secretario del Consejo Técnico de la Academia y del Consejo de Honor y Justicia de la Dirección General de Seguridad Pública del Estado, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Fungir como Secretario del Consejo Técnico de la Academia y del Consejo de Honor y Justicia de la Secretaría de Seguridad Pública del Estado, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan;
 
 III.- Informar periódicamente a los órganos mencionados en la fracción anterior del cumplimiento de los acuerdos y resoluciones emitidos por éstos;
 
@@ -703,13 +745,19 @@ V.- Presentar al Consejo Técnico los proyectos y programas, estados financieros
 
 VI.- Celebrar convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
 
-VII.- Cumplir con los programas y lineamientos establecidos por la Secretaría de Gobernación y la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-VIII.- Ejercer el presupuesto de la Academia, bajo la supervisión y aprobación del Director General de Seguridad Pública;
+VII.- Cumplir con los programas y lineamientos establecidos por la Secretaría de Gobernación, y la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Ejercer el presupuesto de la academia, bajo la supervisión y aprobación del Secretario de Seguridad Pública;
 
 IX.- Aprobar y hacer cumplir el calendario de actividades de la Academia;
 
-X.- Seleccionar al personal docente de la Academia y al que integrará el Consejo Técnico Consultivo, con la aprobación del Director General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+X.- Seleccionar al personal docente de la Academia y al que integrará el Consejo Técnico Consultivo, con la aprobación del Secretario de Seguridad Pública;
 
 XI.- Aplicar sanciones y medidas disciplinarias al personal y alumnado que infrinja el reglamento interior de la Academia;
 
@@ -773,7 +821,9 @@ VII.- Las demás que se le asigne esta ley y demás disposiciones relativas.
 
 El Consejo de Honor y Justicia será integrado por:
 
-I.- Un Presidente, que será el Director General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Un Presidente, que será el Secretario de Seguridad Pública;
 
 II.- Un Secretario Técnico, que será el Director de la Academia Estatal de Policía;
 
@@ -841,7 +891,9 @@ IV.- El Secretario General de Gobierno;
 
 V.- El Procurador General de Justicia del Estado;
 
-VI.- El Director General de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- El Secretario de Seguridad Pública en el Estado;
 
 VII.- El Director General de Prevención y Auxilio, Medidas Tutelares y Readaptación Social;
 
@@ -913,9 +965,11 @@ Las resoluciones del Consejo Estatal se decidirán por mayoría de los miembros 
 
 El Secretario Ejecutivo sólo tendrá voz en las sesiones del Consejo Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 63.
 
-El Consejo Estatal de Seguridad Pública contará con un organismo administrativo que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos y dependerá directamente del Secretario General de Gobierno. Su estructura, organización y funciones se ajustarán a lo previsto en el reglamento respectivo.
+El Consejo Estatal de Seguridad Pública contará con un organismo administrativo que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos y dependerá directamente del Secretario de Seguridad Pública. Su estructura, organización y funciones se ajustarán a lo previsto en el reglamento respectivo.
 
 El titular de dicho organismo será el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública y será nombrado por su presidente.
 
@@ -1364,3 +1418,9 @@ P.O. 15 DE DICIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Lo dispuesto en la fracción VIII del artículo 16 de esta ley es de cumplimiento obligatorio impostergable para los Presidentes Municipales de Altamira, Ciudad Madero, El Mante, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Tampico, Valle Hermoso y Victoria. Los titulares de las presidencias municipales del Estado no referidas, deberán cumplir con la presente disposición tan pronto sea factible presupuestariamente, contando con un plazo de hasta dos años como máximo para dicho efecto.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
