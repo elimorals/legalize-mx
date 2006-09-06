@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2006-05-11"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -105,15 +105,19 @@ g).- Los demás que desempeñen función de:
 
 B).- EN EL PODER LEGISLATIVO:
 
-1.- Oficial Mayor;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-2.- El Contador Mayor de Hacienda;
+1.- Secretario General;
 
-3.- El Sub Contador Mayor de Hacienda;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2.- El Auditor Superior;
+
+3.- (DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 4.- Los Directores;
 
-5.- Los Sub Directores;
+5.- (DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 6.- Los Jefes de Departamento;
 
@@ -1052,3 +1056,9 @@ ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL D
 P.O. 11 DE MAYO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
