@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2001-06-05"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -189,9 +189,13 @@ III.- Un Secretario Técnico, que será el Director de Protección Civil del Est
 
 IV.- Un Diputado, representante del Congreso del Estado, quien asistirá con carácter de vocal;
 
-V.- El Secretario de Desarrollo Social del Estado, quien asistirá con carácter de vocal;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-VI.- El Secretario de Educación, Cultura y Deporte del Estado, quien asistirá con carácter de vocal;
+V.- El Secretario de Desarrollo Social, Cultura y Deporte del Estado, quien asistirá con carácter de vocal;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- El Secretario de Educación, del Estado, quien asistirá con carácter de vocal;
 
 VII.- Los Delegados en el Estado de las Dependencias o Entidades Federales relacionadas con el ramo, quienes tendrán el carácter de vocales;
 
@@ -1172,3 +1176,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de Mayo 
 Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas a los veintiocho días del mes de mayo del año de dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
