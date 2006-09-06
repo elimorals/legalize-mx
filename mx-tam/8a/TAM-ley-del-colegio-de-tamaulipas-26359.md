@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-colegio-de-tamaulipas-26359"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-16"
-last_updated: "2002-10-16"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EL COLEGIO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 16 octubre del 2002.
 
@@ -197,9 +197,11 @@ VIII. Convocar, al Consejo Técnico Consultivo conjuntamente con el representant
 
 IX. Las demás que le confiera este ordenamiento, los reglamentos, y las que delegue la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 15.
 
-El Consejo Técnico Consultivo se integrará con un representante de cada una de las siguientes instituciones, previa aceptación y acreditación de las mismas: El Colegio de San Luis, El Colegio de Sonora, El Colegio de la Frontera Norte, la Secretaría de Educación Pública, la Secretaría de Educación, Cultura y Deporte, la Universidad Autónoma de Tamaulipas, y las instituciones que sean aceptadas por acuerdo del Consejo Técnico Consultivo y cumplan con las obligaciones asumidas por las instituciones anteriormente mencionadas. La presidencia de este órgano será rotatoria entre las instituciones integrantes, y durará un año.
+El Consejo Técnico Consultivo se integrará con un representante de cada una de las siguientes instituciones, previa aceptación y acreditación de las mismas: El Colegio de San Luis, El Colegio de Sonora, El Colegio de la Frontera Norte, la Secretaría de Educación Pública, la Secretaría de Educación, la Universidad Autónoma de Tamaulipas, y las instituciones que sean aceptadas por acuerdo del Consejo Técnico Consultivo y cumplan con las obligaciones asumidas por las instituciones anteriormente mencionadas. La presidencia de este órgano será rotatoria entre las instituciones integrantes, y durará un año.
 
 La calidad de Consejero es intransferible y la institución que la posea deberá hacerse representar en las asambleas a las que sea citada.
 
@@ -404,3 +406,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de octubre del año dos mil dos.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMÁS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLÉN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
