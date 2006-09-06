@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2001-12-06"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -223,11 +223,15 @@ X.- Crear los mecanismos o instancias correspondientes para el cumplimiento de e
 
 XI.- Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL, CULTURA Y DEPORTE
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría de Desarrollo Social deberá coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta ley.
+La Secretaría de Desarrollo Social, Cultura y Deporte deberá coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta ley.
 
 Para lograr dichos objetivos deberá:
 
@@ -293,7 +297,9 @@ VII.- Denunciar ante las autoridades competentes, cuando sea procedente, cualqui
 
 VIII.- Procurar que las personas adultas mayores en situación de riesgo o desamparo, cuente con un lugar donde vivir, que cubra sus necesidades básicas;
 
-IX.- Vigilar que las instituciones presten el cuidado y atención adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Vigilar que las instituciones presten el cuidado y atención adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte; y
 
 X.- Las demás que le confieran otros ordenamientos jurídicos.
 
@@ -311,7 +317,9 @@ El Consejo estará integrado por el titular de:
 
 I.- El Ejecutivo del Estado, quien fungirá como Presidente del Consejo;
 
-II.- La Secretaría de Desarrollo Social, quien fungirá como Secretario;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- La Secretaría de Desarrollo Social, Cultura y Deporte, quien fungirá como Secretario;
 
 III.- La Secretaría de Salud;
 
@@ -347,7 +355,9 @@ VI.- Proponer mecanismos de concertación y de coordinación en materia de desar
 
 VII.- Organizar grupos de trabajo; y
 
-VIII.- Las demás que le encomiende el Ejecutivo del Estado y, en su caso, la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Las demás que le encomiende el Ejecutivo del Estado y, en su caso, la Secretaría de Desarrollo Social, Cultura y Deporte.
 
 ###### ARTICULO 17.
 
@@ -411,9 +421,11 @@ La Administración Pública del Estado, a través de la dependencia competente, 
 
 La Administración Pública del Estado, a través de la dependencia competente, promoverá la celebración de convenios con la iniciativa privada a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 24.
 
-La Administración Pública del Estado, a través de la dependencia o entidad competente, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona adulta mayor. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, dar a conocer, dentro del primer mes de cada año, el monto de los descuentos y los requisitos a cubrir.
+La Administración Pública del Estado, a través de la dependencia o entidad competente, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona adulta mayor. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, Cultura y Deporte, dar a conocer, dentro del primer mes de cada año, el monto de los descuentos y los requisitos a cubrir.
 
 ### CAPITULO III. DE LA ATENCION PREFERENCIAL
 
@@ -433,9 +445,11 @@ La Secretaría de Desarrollo Económico y del Empleo promoverá la celebración 
 
 Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 28.
 
-La Secretaría de Desarrollo Social, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social para las personas adultas mayores en situación de riesgo o desamparo.
+La Secretaría de Desarrollo Social, Cultura y Deporte en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social para las personas adultas mayores en situación de riesgo o desamparo.
 
 ###### ARTICULO 29.
 
@@ -490,3 +504,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de diciembre de año dos mil uno.-
 
 ATENTAMENTE.-"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
