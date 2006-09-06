@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-participacion-ciudadana-del-estado-21983"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-06"
-last_updated: "2001-06-06"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PARTICIPACION CIUDADANA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de junio de 2001.
 
@@ -283,7 +283,9 @@ I.- Tributaria, fiscal y egresos del Estado;
 
 II.- Régimen interno de la administración pública del Estado;
 
-III.- Regulación interna del Congreso del Estado y de su Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Regulación interna del Congreso del Estado y de su Auditoría Superior del Estado;
 
 IV.- Regulación interna de los órganos del Supremo Tribunal de Justicia del Estado; y
 
@@ -321,7 +323,9 @@ I.- Tributaria, fiscal y de egresos del Estado;
 
 II.- Régimen interno de la administración pública del Estado;
 
-III.- Regulación interna del Congreso del Estado y de su Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Regulación interna del Congreso del Estado y de su Auditoría Superior del Estado;
 
 IV.- Regulación interna de los órganos del Supremo Tribunal de Justicia del Estado; y
 
@@ -355,9 +359,11 @@ La comisión especial verificará el cumplimiento de los requisitos a que se ref
 
 Las controversias que se generen con motivo de la comprobación del número de ciudadanos que avalan la iniciativa popular serán resueltas de conformidad con lo dispuesto por la legislación electoral.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 38.
 
-Una vez declarada la admisión de la iniciativa popular se someterá al proceso legislativo que señala la Ley Orgánica del Poder Legislativo y el Reglamento para el Gobierno Interior del Congreso del Estado.
+Una vez declarada la admisión de la iniciativa popular se someterá al proceso legislativo que señala la Ley sobre la Orgánización y Funcionamiento Internos del Congreso del Estado.
 
 ###### ARTICULO 39.
 
@@ -558,3 +564,11 @@ Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimi
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintiocho días del mes de mayo de año dos mil uno.
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. TOMAS YARRINGTON RUVALCABA.-El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
