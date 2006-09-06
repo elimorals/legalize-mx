@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-45272"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2005-06-15"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO METROPOLITANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 15 de junio de 2005.
 
@@ -51,11 +51,17 @@ Cuando en este ordenamiento se haga referencia a la Secretaría, se entenderá a
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con las unidades administrativas básicas siguientes:
 
-I. Dirección General de Planeación Estratégica Metropolitana.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
 
-II. Dirección General de Coordinación Institucional.
+I. Dirección General de Coordinación y Seguimiento de Comisiones Metropolitanas.
 
-III. Dirección General de Promoción para el Financiamiento Metropolitano.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II. Dirección General de Vinculación Institucional.
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III. Dirección General de Promoción Metropolitana.
 
 IV. Unidad de Asuntos Jurídicos.
 
@@ -87,17 +93,25 @@ III. Proponer y, en su caso, establecer mecanismos de coordinación y enlace con
 
 IV. Promover entre los municipios correspondientes, la ejecución de proyectos de inversión metropolitana, así como obras y acciones estatales de beneficio intermunicipal.
 
-V. Proponer al Ejecutivo del Estado la integración de comisiones metropolitanas con dependencias y organismos auxiliares de la administración pública estatal.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Convocar a las dependencias y organismos auxiliares de la administración pública estatal a participar, en el ámbito de su competencia, en comisiones metropolitanas y demás órganos de coordinación.
+V. Proponer al Ejecutivo del Estado la integración de comisiones metropolitanas y órganos de coordinación metropolitana con dependencias y organismos auxiliares de la administración pública estatal.
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Convocar a las dependencias y organismos auxiliares de la administración pública federal y estatal, así como a los municipios cuando se requiera, a participar, en el ámbito de su competencia, en comisiones metropolitanas y demás órganos de coordinación metropolitana.
 
 VII. Promover la elaboración de estudios, investigaciones, estrategias y políticas orientadas a impulsar el desarrollo de las zonas metropolitanas.
 
-VIII. Coordinar las actividades que lleven a cabo las dependencias y organismos auxiliares del Poder Ejecutivo Estatal, en las comisiones metropolitanas y vigilar que en el ámbito de su competencia cumplan con los acuerdos establecidos.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VIII. Coordinar las actividades que lleven a cabo las dependencias y organismos auxiliares del Poder Ejecutivo Estatal en el seno de las comisiones metropolitanas y en otros órganos de coordinación metropolitana, así como vigilar que, en el ámbito de su competencia, cumplan con los acuerdos establecidos.
 
 IX. Establecer mecanismos de consulta y concertación con los sectores social y privado para la planeación y evaluación de acciones y programas de carácter metropolitano.
 
-X. Promover entre las dependencias y organismos auxiliares de la administración pública estatal, la ejecución conjunta de los planes y programas que se deriven de las comisiones metropolitanas.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+X. Promover entre las dependencias y organismos auxiliares de la administración pública federal y estatal, la ejecución conjunta de los planes y programas que se deriven de las comisiones metropolitanas.
 
 XI. Designar y remover a los representantes de la Secretaría, en las comisiones metropolitanas u órganos de coordinación en los que participe.
 
@@ -105,13 +119,19 @@ XII. Proponer al Gobernador del Estado, a través de la Secretaría General de G
 
 XIII. Celebrar convenios y acuerdos con los gobiernos federal, de otros estados, de los municipios limítrofes y del Distrito Federal, para la ejecución de obras, prestación de servicios públicos o la ejecución de las acciones determinadas en las comisiones metropolitanas.
 
-XIV. Aprobar el programa anual de trabajo y el anteproyecto de presupuesto de egresos de la Secretaría y remitirlo a la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
 
-XV. Aprobar la estructura de organización y los manuales administrativos de la Secretaría y someterlos a la autorización de la Secretaría de Finanzas, Planeación y Administración.
+XIV. Aprobar el programa anual de trabajo y el anteproyecto de presupuesto de egresos de la Secretaría y remitir este último a la Secretaría de Finanzas.
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XV. Aprobar la estructura de organización y los manuales administrativos de la Secretaría y someterlos a la autorización de la Secretaría de Finanzas.
 
 XVI. Establecer normas, políticas, criterios y procedimientos de carácter técnico que rijan el funcionamiento de las unidades administrativas bajo su adscripción.
 
-XVII. Comparecer ante la Legislatura del Estado para informar de la situación que guarda su ramo o sector o bien, cuando se discuta una iniciativa de ley o decreto, o se estudie un asunto relacionado con sus funciones.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Comparecer ante la Legislatura del Estado, cuando se le solicite, para informar de la situación que guarda su ramo o sector o bien, cuando se discuta una iniciativa de ley o decreto o se estudie un asunto relacionado con sus funciones.
 
 XVIII. Expedir constancias o certificaciones de documentos o expedientes existentes en la Secretaría.
 
@@ -161,13 +181,21 @@ XIV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servid
 
 XV. Expedir constancias o certificar los documentos existentes en los archivos de la Dirección General a su cargo, cuando se refieran a asuntos de su competencia.
 
-XVI. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Secretario.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Contribuir, en el ámbito de su competencia, al cumplimiento de las metas, objetivos y programas de la Secretaría.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Secretario.
 
 ### CAPÍTULO IV. DE LAS DIRECCIONES GENERALES, UNIDAD, COORDINACIÓN Y CONTRALORÍA INTERNA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Dirección General de Planeación Estratégica Metropolitana:
+Corresponde a la Dirección General de Coordinación y Seguimiento de Comisiones Metropolitanas:
 
 I. Coordinar, en el ámbito de su competencia, a las dependencias y organismos auxiliares estatales en la elaboración de planes, programas, estudios, proyectos y acciones para el desarrollo metropolitano del Estado y convocar a los ayuntamientos metropolitanos y a los sectores de la población a participar en estas tareas.
 
@@ -197,11 +225,23 @@ XIII. Participar en los trabajos de consulta y estudio orientados a promover ini
 
 XIV. Representar a la Secretaría en aquellos asuntos vinculados con la promoción del desarrollo metropolitano del Valle de Toluca.
 
-XV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XV. Analizar y difundir, en el ámbito de su competencia, información de carácter metropolitana.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Promover la vinculación del Gobierno del Estado con los Poderes Legislativo Federal y Local en materia metropolitana.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Dirección General de Coordinación Institucional:
+Corresponde a la Dirección General de Vinculación Institucional:
 
 I. Proponer y, en su caso, ejecutar políticas y estrategias que permitan fortalecer la coordinación institucional entre los municipios metropolitanos y el Estado.
 
@@ -211,33 +251,43 @@ III. Identificar aquellas demandas y necesidades que pudieran ser susceptibles d
 
 IV. Establecer mecanismos de comunicación permanente con organizaciones interesadas en la ejecución de acciones, proyectos y programas intermunicipales y regionales para las zonas metropolitanas del Estado.
 
-V. Participar en el seguimiento de los programas de inversión estatal orientados a financiar obras y acciones para el desarrollo de las zonas metropolitanas del Estado.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+V. Participar en el seguimiento de los programas de inversión federal y estatal orientados a ejecutar obras y acciones para el desarrollo de las zonas metropolitanas del Estado.
 
 VI. Asesorar a los municipios conurbados, cuando así lo soliciten, en asuntos de carácter metropolitano y de coordinación intermunicipal, para fortalecer la ejecución de sus programas de infraestructura y equipamiento urbano.
 
-VII. Fomentar la participación de instituciones académicas, asociaciones civiles y organizaciones no gubernamentales en los programas de desarrollo cultural metropolitano.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Organizar y celebrar reuniones temáticas con las Comisiones Municipales de Asuntos Metropolitanos, orientadas a la formulación de alternativas para atender asuntos de carácter metropolitano.
 
 VIII. Difundir las políticas y acciones que lleve a cabo el Gobierno del Estado, para impulsar el desarrollo de las zonas metropolitanas de la entidad.
 
-IX. Promover una cultura metropolitana, conservando la identidad de las regiones del Estado.
+IX. (DEROGADA, G.G. 6 DE SEPTIEMBRE DE 2006)
 
-X. Fomentar la participación de los sectores público, social y privado en actividades académicas, de investigación y extensión en materia de desarrollo metropolitano.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+X. Fomentar la participación de los sectores público, social y privado en actividades de investigación y extensión en materia de desarrollo metropolitano.
 
 XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 11.
 
-Corresponde a la Dirección General de Promoción para el Financiamiento Metropolitano:
+Corresponde a la Dirección General de Promoción Metropolitana:
 
-I. Identificar y promover la vinculación del Estado con organismos y esquemas de financiamiento internacional y nacional para la ejecución de proyectos metropolitanos.
+l. Representar a la Secretaría en la operación y seguimiento de los fondos metropolitanos de obras y servicios, y de aquellos que sean creados para impulsar el desarrollo de las zonas metropolitanas del Estado.
 
-II. Promover entre los ayuntamientos metropolitanos la constitución de un fondo financiero metropolitano con el Estado para la realización de obras o acciones conjuntas y proponer las reglas para su operación.
+II. Establecer lineamientos y mecanismos generales que propicien la promoción, concertación e implementación de proyectos orientados al desarrollo metropolitano.
 
-III. Determinar las características y metodología a través de las cuales se identifiquen los programas y acciones de carácter metropolitano, susceptibles de ser financiados.
+III. Promover la participación de la comunidad académica, sociedad civil y organizaciones no gubernamentales, en la realización conjunta de investigaciones, estudios, reuniones y foros sobre asuntos de carácter metropolitano.
 
-IV. Analizar los programas y actividades de las dependencias y organismos auxiliares de la administración pública estatal, a fin de identificar sus acciones y estrategias con incidencia en las zonas metropolitanas.
+IV. Recopilar, analizar, sistematizar y difundir la información generada sobre temas metropolitanos.
 
-V. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+V. Fomentar, incentivar y difundir la cultura metropolitana y sus valores, que permitan a la población adquirir conciencia sobre la realidad metropolitana, su visión y sus retos.
+
+VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 12.
 
@@ -263,15 +313,23 @@ Corresponde a la Coordinación Administrativa:
 
 I. Cumplir y hacer cumplir las normas y políticas en materia de administración de recursos humanos, financieros y materiales.
 
-II. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
 
-III. Integrar en coordinación con las demás unidades administrativas, los anteproyectos de presupuesto de ingresos y egresos de la Secretaría y someterlos a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado.
+II. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, financieros, técnicos y materiales, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría, de acuerdo con la normatividad aplicable.
 
-IV. Ejecutar, registrar y controlar el presupuesto autorizado a la Secretaría, así como certificar la suficiencia presupuestaria cuando las disposiciones legales lo exijan.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III. Formular en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, el anteproyecto de presupuesto de egresos de la Secretaría y someterlo a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado a la dependencia.
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Ejecutar los procedimientos y mecanismos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión y verificar su aplicación, así como certificar la suficiencia presupuestaria cuando las disposiciones legales lo exijan.
 
 V. Informar al Secretario y a la Secretaría de Finanzas, Planeación y Administración sobre los avances del ejercicio presupuestario y los estados financieros relativos al presupuesto autorizado a la Secretaría.
 
-VI. Elaborar conjuntamente con las unidades administrativas de la Secretaría, el programa anual de operaciones consolidadas.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Formular conjuntamente con las unidades administrativas de la Secretaría, los programas anuales de adquisiciones, arrendamientos y servicios, de acuerdo con las disposiciones legales, programas de trabajo y proyectos de presupuesto de egresos de la dependencia.
 
 VII. Presidir el Comité de Adquisiciones y Servicios de la Secretaría e impulsar el cumplimiento de sus funciones, de acuerdo con la normatividad aplicable.
 
@@ -287,11 +345,19 @@ XII. Cumplir y hacer cumplir las normas y políticas en materia de protección c
 
 XIII. Programar, organizar y coordinar la política y las acciones de actualización y capacitación general y técnica especializada del personal de la Secretaría, así como la evaluación de su desempeño, y proponer los perfiles profesionales conforme a las necesidades institucionales, en coordinación con las unidades administrativas de la Secretaría.
 
-XIV. Integrar y mantener actualizados, con la participación de las demás áreas, los manuales administrativos de la Secretaría, y someterlos a la aprobación de la Secretaria de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XIV. Integrar y mantener actualizados, con la participación de las demás áreas, los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
 
 XV. Promover, coordinar y evaluar los programas y acciones orientadas a la modernización administrativa de la Secretaría.
 
-XVI. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Coordinar y apoyar, en el ámbito de su competencia, a las unidades administrativas de la Secretaría en la realización de actos y eventos de carácter especial.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Las demás que le confieren otras disposiciones legales y las que le señale el Secretario.
 
 ###### Artículo 14.
 
@@ -350,3 +416,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 6 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales y administrativos, papelería y demás documentos se haga referencia a la Dirección General de Planeación Estratégica Metropolitana y a la Dirección General de Coordinación Institucional, se entenderá a la Dirección General de Coordinación y Seguimiento de Comisiones Metropolitanas y a la Dirección General de Vinculación Institucional, respectivamente.
