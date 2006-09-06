@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-fomentar-la-donacion-altruista-de-articulos-de-41922"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-27"
-last_updated: "2004-10-27"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA FOMENTAR LA DONACION ALTRUISTA DE ARTICULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de octubre de 2004.
 
@@ -195,6 +195,12 @@ f) La resolución de la queja tendrá por efecto confirmar, corregir o reponer l
 
 Al que desperdicie artículos de primera necesidad en cantidades similares o superiores a lo establecido en la presente ley, se le sancionará con multa equivalente hasta el cien por ciento del costo de dichos artículos.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 16.
+
+Son autoridades responsables de la aplicación de esta Ley, en los términos de sus respectivas competencias, las Secretarías de Desarrollo Social, Cultura y Deporte, de Finanzas, de Salud y las direcciones u oficinas municipales de las mismas.
+
 ###### ARTICULO 17.
 
 Son autoridades responsables de la aplicación de esta Ley, en los términos de sus respectivas competencias, las Secretarías de Desarrollo Social, de Finanzas, de Salud y las direcciones u oficinas municipales de las mismas.
@@ -224,3 +230,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de octubre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
