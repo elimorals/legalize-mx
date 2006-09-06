@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2005-01-11"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -53,17 +53,21 @@ La aplicación de esta ley corresponde:
 
 a) En los poderes Legislativo y Judicial, a los órganos que determinen sus respectivas leyes orgánicas y reglamentos;
 
-b) En el Poder Ejecutivo, a las secretarías de: Finanzas; Educación, Cultura y Deporte; Desarrollo Social; Administración y a la Contraloría Gubernamental;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+b) En el Poder Ejecutivo, a las Secretarías de: Finanzas; Educación; Desarrollo Social, Cultura y Deporte; Administración y a la Contraloría Gubernamental;
 
 c) En los municipios, a los órganos que determine el Código Municipal, las leyes del Estado en materia municipal y sus reglamentos.
 
 ###### Artículo 3.
 
-1. A falta de disposición expresa en esta ley, serán de aplicación supletoria los
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-ordenamientos siguientes:
+1. A falta de disposición expresa en esta ley, serán de aplicación supletoria los ordenamientos siguientes:
 
-a) Ley Orgánica del Poder Legislativo del Estado de Tamaulipas;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+a) Ley sobre Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas;
 
 b) Ley Orgánica de la Administración Pública del Estado de Tamaulipas;
 
@@ -71,7 +75,9 @@ c) Ley Orgánica del Poder Judicial del Estado de Tamaulipas;
 
 d) Código Municipal para el Estado de Tamaulipas;
 
-e) Ley de Obras Públicas para el Estado de Tamaulipas;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+e) Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas;
 
 f) Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas;
 
@@ -133,7 +139,9 @@ La Secretaría General de Gobierno informará a la Secretaría de Administració
 
 ###### Artículo 7.
 
-1. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Ecología, y a los Ayuntamientos en el ámbito municipal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+1. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, y a los Ayuntamientos en el ámbito municipal:
 
 a) Proponer políticas para el aprovechamiento de la reserva territorial que forma parte del patrimonio inmobiliario del Estado o de los Municipios, en congruencia con los planes de desarrollo urbano;
 
@@ -141,11 +149,15 @@ b) Dictaminar, en el ámbito de su competencia, las propuestas que les formulen 
 
 c) Tomar, en su caso, las medidas administrativas y ejercer las acciones judiciales encaminadas a mantener o recuperar la posesión de los inmuebles del Estado y de los Ayuntamientos, así como procurar la remoción de cualquier obstáculo creado natural o artificialmente que impidan su adecuado uso o destino.
 
-2. La Secretaría de Desarrollo Urbano y Ecología informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado, con motivo de la aplicación de la Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2. La Secretaría de Secretaría (sic) de Obras Públicas, Desarrollo Urbano y Ecología informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado, con motivo de la aplicación de la Ley para el Desarrollo Urbano del Estado de Tamaulipas.
 
 ###### Artículo 8.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Educación, Cultura y Deporte, y a los Ayuntamientos en el ámbito municipal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Educación, y a los Ayuntamientos en el ámbito municipal:
 
 I. Proteger, mantener y acrecentar el patrimonio cultural inmobiliario, artístico e histórico del Estado o de los municipios, así como llevar su registro; y
 
@@ -177,7 +189,9 @@ III. Formular las denuncias ante el Ministerio Público en los casos de ocupaci�
 
 IV. Ejecutar el programa de aprovechamiento de los bienes que tengan a su cargo.
 
-2. La Secretaría de Desarrollo Urbano y Ecología informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión del uso o del dominio de los bienes de propiedad privada a favor del Estado con motivo de la aplicación de la Ley de Protección Ambiental para el Desarrollo Sustentable.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2. La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión del uso o del dominio de los bienes de propiedad privada a favor del Estado con motivo de la aplicación de la Ley de Protección Ambiental para el Desarrollo Sustentable.
 
 ### CAPITULO TERCERO. DE LOS BIENES DEL ESTADO Y DE LOS MUNICIPIOS
 
@@ -682,3 +696,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cinco días del mes de enero del año dos mil cinco.
 
 ATENTAMENTE - SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO JAVIER HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
