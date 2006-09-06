@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2004-01-07"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -83,7 +83,7 @@ VI.- D.I.F. Municipal: El Sistema para el Desarrollo Integral de la Familia del 
 
 VII.- Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado que dificulten, entorpezcan o impidan el libre desplazamiento en espacios interiores y exteriores, a personas con discapacidad, o que dificulten, entorpezcan o impidan el uso de los servicios e instalaciones;
 
-VIII.- Rehabilitación: El conjunto de acciones médicas, psicológicas, sociales, educativas u ocupacionales que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación, a fin de realizar actividades que les permitan integrarse a la vida social;
+VIII.- Rehabilitación: El conjunto de acciones médicas, psicológicas, sociales, educativas u ocupacionales que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación, a fin de realizar actividades que les permitan integrarse a la vida social.
 
 > <small>(ADICIONADA, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -485,21 +485,23 @@ V.- Incorporar a la persona con discapacidad a la vida social y a un sistema de 
 
 La educación especial preveerá la formación profesional de la persona con discapacidad, de conformidad con lo previsto en los diferentes niveles de enseñanza general.
 
-> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-Al efecto, la Secretaría de Educación, Cultura y Deporte implementará políticas educativas basadas en el principio de igualdad de oportunidades de educación en los niveles preescolar, primaria, secundaria, medio superior y superior para los niños, los jóvenes y los adultos con discapacidad en entornos integrados y deberá velar porque la educación de las personas con discapacidad constituya una parte integrante del sistema de enseñanza.
+Al efecto, la Secretaría de Educación, implementará políticas educativas basadas en el principio de igualdad de oportunidades de educación en los niveles preescolar, primaria, secundaria, medio superior y superior para los niños, los jóvenes y los adultos con discapacidad en entornos integrados y deberá velar porque la educación de las personas con discapacidad constituya una parte integrante del sistema de enseñanza.
 
-> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-La Secretaría de Educación, Cultura y Deporte, de igual forma, establecerá acciones para la formación, actualización y capacitación constante del personal docente y de apoyo que atiende a personas con discapacidad en los diferentes niveles de enseñanza general.
+La Secretaría de Educación, de igual forma, establecerá acciones para la formación, actualización y capacitación constante del personal docente y de apoyo que atiende a personas con discapacidad en los diferentes niveles de enseñanza general.
 
 ###### ARTICULO 30.
 
 Las escuelas de educación general ordinaria que requieran los servicios de una persona con discapacidad, deberán solicitarlos al Sistema de Educación Especial del lugar que corresponda.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 31.
 
-La Comisión, en coordinación con la Secretaría de Educación, Cultura y Deporte, deberá apoyar el proceso educativo de las personas que se encuentren en proceso de rehabilitación en los hospitales públicos y privados.
+La Comisión, en coordinación con la Secretaría de Educación, deberá apoyar el proceso educativo de las personas que se encuentren en proceso de rehabilitación en los hospitales públicos y privados.
 
 ### CAPITULO XI
 
@@ -864,3 +866,9 @@ P.O. 7 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
