@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-11775"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-06-12"
-last_updated: "2003-12-17"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el lunes 12 de junio de 1995.
 
@@ -3541,7 +3541,9 @@ Dictadas las resoluciones por el Tribunal Estatal Electoral dentro de los recurs
 
 El Consejo Estatal Electoral hará las asignaciones a que se refieren los artículos anteriores, una vez resueltos por el Tribunal Estatal Electoral los recursos que se hayan interpuesto en los términos del Libro Octavo de este Código y a más tardar dentro de los primeros 10 días del mes de diciembre del año de la elección.
 
-El Presidente del Consejo Estatal Electoral expedirá a quien corresponda, según los resultados de las elecciones, las constancias de asignación de Diputados y de Regidurías según el principio representación proporcional, de lo que informará a la Oficialía Mayor del Congreso del Estado y a los Ayuntamientos.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+El Presidente del Consejo Estatal Electoral expedirá a quien corresponda, según los resultados de las elecciones, las constancias de asignación de Diputados y de Regidurías según el principio (sic) representación proporcional, de lo que informará a la Secretaría General del Congreso del Estado y a los Ayuntamientos.
 
 # LIBRO SEPTIMO. DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -3759,7 +3761,7 @@ X.- Las demás que les confieran las Leyes y el Reglamento Interior.
 
 ###### ARTICULO 226.
 
-El Presidente del Tribunal Estatal Electoral, tendrá las siguientes atribuciones :
+El Presidente del Tribunal Estatal Electoral, tendrá las siguientes atribuciones:
 
 I.- Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieren para el buen funcionamiento del Tribunal;
 
@@ -3933,7 +3935,7 @@ Todos los servidores del Tribunal serán considerados personal de confianza.
 
 El coordinador administrativo dependerá del Presidente, tendrá a su cargo la atención de todo lo relativo a la administración de los recursos humanos, financieros y materiales del Tribunal.
 
-El coordinador administrativo deberá reunir los siguientes requisitos :
+El coordinador administrativo deberá reunir los siguientes requisitos:
 
 I.- Ser ciudadano del Estado, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -3969,7 +3971,7 @@ La votación recibida en una casilla será nula cuando se acredite cualesquiera 
 
 I.- Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el Consejo Electoral correspondiente;
 
-II.- Recibir la votación en fecha distinta a la señalada para la celebración de la elección;.
+II.- Recibir la votación en fecha distinta a la señalada para la celebración de la elección;
 
 III.- Recibir la votación personas u órganos distintos a los facultados por éste Código;
 
@@ -4217,7 +4219,9 @@ I.- Al partido político que interpuso el recurso y a los terceros interesados, 
 
 II.- A los órganos electorales se hará por oficio o por correo certificado, acompañando copia autorizada del expediente y de la resolución, a más tardar dentro de las 24 horas siguientes a la en que se dictó la resolución; y
 
-III.- En su caso, a la Oficialía Mayor del Congreso del Estado por oficio, a más tardar dentro de las 48 horas siguientes a la en que se dictó la resolución.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III.- En su caso, a la Secretaría General del Congreso del Estado por oficio, a más tardar dentro de las 48 horas siguientes a la en que se dictó la resolución.
 
 ###### ARTICULO 254.
 
@@ -4973,7 +4977,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 JAIME RODRIGUEZ INURRIGARRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS ALA PRESENTE CODIGO.</small>
 
 P.O. 15 DE FEBRERO DE 1997.
 
@@ -5030,3 +5034,9 @@ P.O. 17 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
