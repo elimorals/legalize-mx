@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2002-02-12"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -69,11 +69,13 @@ I. Concesión.- Acto administrativo por el cual el Ejecutivo autoriza a una pers
 
 II. Consejo.- El Consejo Estatal del Transporte;
 
-III.- Dependencia Estatal.- La Dirección General de Seguridad Pública del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Dependencia Estatal.- La Dirección General de Transporte y Vialidad;
 
 IV.- Dependencia Municipal.- La autoridad municipal competente en materia de transporte;
 
-V.- Dirección.- La Dirección de Transporte y Operaciones del Gobierno del Estado;
+V.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 VI.- Ejecutivo.- El Gobernador Constitucional del Estado;
 
@@ -125,9 +127,11 @@ I.- El Gobernador Constitucional del Estado;
 
 II.- El Secretario General de Gobierno;
 
-III.- El Director General de Seguridad Pública del Estado;
+III.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-IV.- El Director de Transporte y Operaciones del Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- El Director General de Transporte y Vialidad;
 
 V.- El Director de Tránsito y Vialidad del Estado;
 
@@ -1450,3 +1454,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los once días del mes de febrero del dos mil dos.-
 
 ATENTAMENTE.-SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.-Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLÉN VICENTE.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
