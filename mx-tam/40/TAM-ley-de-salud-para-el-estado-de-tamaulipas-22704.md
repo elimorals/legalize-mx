@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2006-07-19"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -331,7 +331,9 @@ II.- Un secretario técnico; y
 
 III.- Diez vocales, que serán:
 
-A).- El Secretario de Educación, Cultura y Deporte;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+A).- El Secretario de Educación;
 
 B).- Un representante del Poder Legislativo;
 
@@ -961,7 +963,9 @@ III.- Tuberculosis;
 
 IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
 
-V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría coordinará sus actividades con la Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría coordinará sus actividades con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
 
@@ -1842,3 +1846,9 @@ Artículo Unico.- El presente Decreto entrará en vigor al día siguiente al de 
 P.O. 19 DE JULIO DE 2006.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
