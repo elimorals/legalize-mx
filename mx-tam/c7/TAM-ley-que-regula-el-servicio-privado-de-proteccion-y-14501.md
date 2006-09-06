@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-servicio-privado-de-proteccion-y-14501"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-05"
-last_updated: "1999-06-05"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA EL SERVICIO PRIVADO DE PROTECCION Y VIGILANCIA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, el sábado 5 de junio de 1999.
 
@@ -71,9 +71,11 @@ e).- Empresas.
 
 IV.- Eventos especiales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 4o.
 
-Para efectos de interpretación, cuando en este ordenamiento se utilicen los términos Secretaría, se referirá a la Secretaría General de Gobierno, y Dirección, a la Dirección de Seguridad Pública.
+Para efectos de interpretación, cuando en este ordenamiento se utilicen los términos Secretaría, se referirá a la Secretaría de Seguridad Pública.
 
 ### CAPITULO II. DE LAS AUTORIDADES
 
@@ -91,7 +93,9 @@ a).- El Gobernador del Estado;
 
 b).- El Secretario General de Gobierno;
 
-c).- El Director General de Seguridad Pública;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+c).- El Secretario de Seguridad Pública;
 
 d).- El Sub-Director Operativo; y
 
@@ -209,9 +213,11 @@ En el desempeño de sus funciones, los empleados de las empresas que presten Ser
 
 Los prestadores del Servicio Privado de Protección y Vigilancia están obligados a observar lo establecido en la Ley sobre el Escudo, la Bandera y el Himno Nacionales, y no deberán utilizar las insignias y logotipos oficiales o el nombre de servidores públicos de los gobiernos Federal, Estatal o Municipal. En su documentación, emblemas, publicidad o razón social deberán abstenerse de utilizar los siguientes vocablos: Agente, Policía, Investigador, Judicial, Preventivo, Seguridad Pública, Integral u otros de los cuerpos oficiales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 21.
 
-El uniforme asignado al personal encargado de la prestación del servicio, deberá ser aprobado por la Secretaría, a través de la Dirección y será totalmente diferente en color y modelo, a los utilizados por las fuerzas armadas y los cuerpos de Seguridad Pública en el Estado.
+El uniforme asignado al personal encargado de la prestación del servicio, deberá ser aprobado por la Secretaría de Seguridad Pública y será totalmente diferente en color y modelo, a los utilizados por las fuerzas armadas y los cuerpos de Seguridad Pública en el Estado.
 
 ###### ARTICULO 22.
 
@@ -274,3 +280,11 @@ ATENTAMENTE
 "SUFRAGIO EEECTIVO. NO REELECCION".
 
 El Gobernador Constitucional del Estado. TOMAS YARRINGTON RUVALCABA. Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO. LAURA ALICIA GARZA GALINDO. Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
