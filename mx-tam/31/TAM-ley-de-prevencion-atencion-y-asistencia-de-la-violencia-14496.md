@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-atencion-y-asistencia-de-la-violencia-14496"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-05"
-last_updated: "2006-06-01"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCION, ATENCION Y ASISTENCIA DE LA VIOLENCIA INTRAFAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de junio de 1999.
 
@@ -79,9 +79,11 @@ VII.- Secretarías.- Secretaría General de Gobierno, Secretaría de Desarrollo 
 
 VIII.- D.I.F..- Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 4o.
 
-Corresponde la aplicación de esta Ley, al Gobierno del Estado y a los Ayuntamientos, a través de los Sistemas para el Desarrollo Integral de la Familia en el Estado de Tamaulipas, por conducto de las Procuradurías de la Defensa del Menor y la Familia, a la Secretaría General de Gobierno, a la Secretaría de Desarrollo Social y a la Procuraduría General de Justicia del Estado, en el ámbito de sus respectivas competencias.
+Corresponde la aplicación de esta Ley, al Gobierno del Estado y a los Ayuntamientos, a través de los Sistemas para el Desarrollo Integral de la Familia en el Estado de Tamaulipas, por conducto de las Procuradurías de la Defensa del Menor y la Familia, a la Secretaría General de Gobierno, a la Secretaría de Desarrollo Social, Cultura y Deporte y a la Procuraduría General de Justicia del Estado, en el ámbito de sus respectivas competencias.
 
 ## TITULO SEGUNDO
 
@@ -350,3 +352,9 @@ P.O. 1 DE JUNIO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el Día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
