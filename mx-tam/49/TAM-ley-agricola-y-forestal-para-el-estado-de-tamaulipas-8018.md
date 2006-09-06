@@ -4,7 +4,7 @@ identifier: "TAM-ley-agricola-y-forestal-para-el-estado-de-tamaulipas-8018"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-13"
-last_updated: "1994-04-13"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY AGRICOLA Y FORESTAL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 13 de abril de 1994.
 
@@ -63,7 +63,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I.- El Gobernador del Estado.
 
-II.- El Secretario de Desarrollo Agropecuario, Forestal y de Pesca.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- El Secretario de Desarrollo Rural.
 
 III.- El Subsecretario del Ramo.
 
@@ -83,9 +85,11 @@ III.- Las instituciones de enseñanza superior y de investigación.
 
 IV.- Los que el Ejecutivo del Estado expresamente les delegue facultades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 5.
 
-En la presente Ley la Secretaría de Desarrollo Agropecuario, Forestal y de Pesca será denominada la Secretaría, y tendrá las siguientes facultades:
+En la presente Ley la Secretaría de Desarrollo Rural será denominada la Secretaría, y tendrá las siguientes facultades:
 
 I.- Coordinar la formulación y ejecución de los programas agrícola y forestal.
 
@@ -131,7 +135,9 @@ XX.- Las demás que le otorgue la presente Ley u otros ordenamientos legales.
 
 Para los efectos de esta Ley se entiende por:
 
-S.A.R.H.:- La Secretaría de Agricultura y Recursos Hidraúlicos.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+SAGARPA.- La Secretaría de Agricultura Ganadería, desarrollo Rural, Pesca y Alimentación.
 
 ESPECIE VEGETAL:- Toda planta integrada por sus órganos, las partes de ella, como raíces, tallos, ramas, hojas, flores, frutos y semillas, quedando incluidas las especies forestales y silvestres.
 
@@ -297,25 +303,35 @@ La Secretaría fomentará entre las organizaciones de productores agrícolas o f
 
 ### CAPITULO I. DE LA SANIDAD VEGETAL
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 42.
 
-El Consejo Consultivo Estatal Fitosanitario se constituye como órgano asesor de apoyo a la Secretaría y a la S.A.R.H. en materia de intensificación, planeación, programación, seguimiento y evaluación de los programas de Sanidad Vegetal.
+El Consejo Consultivo Estatal Fitosanitario se constituye como órgano asesor de apoyo a la Secretaría y a la SAGARPA en materia de intensificación, planeación, programación, seguimiento y evaluación de los programas de Sanidad Vegetal.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 43.
 
-La Secretaría, en coordinación con la S.A.R.H., verificará la operación de las estaciones cuarentenarias y casetas de control que se establezcan.
+La Secretaría, en coordinación con la SAGARPA, verificará la operación de las estaciones cuarentenarias y casetas de control que se establezcan.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría, en coordinación con la S.A.R.H., elaborará y aplicará en forma permanente programas de capacitación técnica y acreditación en materia de Sanidad Vegetal.
+La Secretaría, en coordinación con la SAGARPA, elaborará y aplicará en forma permanente programas de capacitación técnica y acreditación en materia de Sanidad Vegetal.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
-La Secretaría, en coordinación con la S.A.R.H. y otras instituciones, operará un banco de información sobre aspectos fitosanitarios.
+La Secretaría, en coordinación con la SAGARPA y otras instituciones, operará un banco de información sobre aspectos fitosanitarios.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría, en coordinación con la S.A.R.H., vigilará que los viveros, huertos, empacadoras, almacenes, aserraderos, industrias, patios de concentración y transportes, cumplan con los requisitos fitosanitarios establecidos, con el objeto de evitar la contaminación, diseminación o dispersión de plagas o enfermedades vegetales.
+La Secretaría, en coordinación con la SAGARPA, vigilará que los viveros, huertos, empacadoras, almacenes, aserraderos, industrias, patios de concentración y transportes, cumplan con los requisitos fitosanitarios establecidos, con el objeto de evitar la contaminación, diseminación o dispersión de plagas o enfermedades vegetales.
 
 ###### ARTICULO 47.
 
@@ -405,17 +421,23 @@ El incumplimiento de los convenios y contratos, de las normas y los hechos que c
 
 La Secretaría promoverá convenios con las instituciones del ramo, con el objeto de mantener el control y vigilancia de la comercialización de semillas para siembra tendientes a la protección de los productores, al incremento de la producción y la productividad.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 66.
 
-La Secretaría, en coordinación con la S.A.R.H., establecerá medidas de vigilancia tendientes a evitar la comercialización de semillas, que no se apeguen a lo dispuesto en el Articulo 9o de la Ley Sobre Producción, Certificación y Comercio de Semillas.
+La Secretaría, en coordinación con la SAGARPA, establecerá medidas de vigilancia tendientes a evitar la comercialización de semillas, que no se apeguen a lo dispuesto en el ARTICULO 9o de la Ley Sobre Producción, Certificación y Comercio de Semillas.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 67.
 
-La Secretaría, en coordinación con la S.A.R.H., vigilará la importación de semillas comerciales para siembra, con la finalidad de que se cumplan los requisitos que establece el Articulo 10 de la Ley Sobre Producción, Certificación y Comercio de Semillas.
+La Secretaría, en coordinación con la SAGARPA, vigilará la importación de semillas comerciales para siembra, con la finalidad de que se cumplan los requisitos que establece el ARTICULO 10 de la Ley Sobre Producción, Certificación y Comercio de Semillas.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-La Secretaría, en coordinación con la S.A.R.H. vigilará y exigirá que los expendedores de semillas para siembra cumplan con las normas de calidad que garantice la germinación, vigor y características vegetativas de la variedad de semilla, señalando o acompañando esta información en las etiquetas adheridas al envase del producto.
+La Secretaría, en coordinación con la SAGARPA vigilará y exigirá que los expendedores de semillas para siembra cumplan con las normas de calidad que garantice la germinación, vigor y características vegetativas de la variedad de semilla, señalando o acompañando esta información en las etiquetas adheridas al envase del producto.
 
 ### CAPITULO III. DE LA MOVILIZACION DE PRODUCTOS AGRICOLAS Y FORESTALES
 
@@ -574,3 +596,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 18 de Enero
 Por tanto mando, se imprima, publique y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del estado de Tamaulipas, a los once días del mes de Febrero de mil novecientos noventa y cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
