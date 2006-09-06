@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2006-07-19"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1347,9 +1347,13 @@ II.- Construcciones permanentes, las que tienen carácter definitivo y la posibi
 
 III.- Construcciones provisionales, las que revelan un uso transitorio; en los casos dudosos, la Tesorería General del Estado determinará si las construcciones son o no provisionales.
 
-IV.- Construcciones en ruinas, las que por su deterioro físico o por sus precarias condiciones de habitabilidad no permitan su uso en forma alguna, según determinación de la Secretaría de Salubridad y Asistencia o de la Secretaría de Asentamientos Humanos, Obras y Servicios Públicos del Estado o de un perito autorizado.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Valor catastral, el que fija de cada predio la Tesorería General del Estado, por medio de la Dirección de Catastro.
+IV.- Construcciones en ruinas, las que por su deterioro físico o por sus precarias condiciones de habitabilidad no permitan su uso en forma alguna, según determinación de la Secretaría de Salud o de la Secretaría de Obras Públicas Desarrollo Urbano y Ecología o de un perito autorizado.
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Valor catastral, el que fija de cada predio la Secretaría de Finanzas, por medio de la Dirección de Catastro.
 
 VI.- Son construcciones y mejoras que se destinan a la guarda del predio: bodegas para almacenaje de productos agrícolas e implementos, talleres, silos, presas, cercas y casas habitación para trabajadores que tiendan a incrementar y facilitar la productividad del mismo.
 
@@ -1473,9 +1477,11 @@ Las personas que adquieran bienes urbanos, suburbanos o rústicos que estén reg
 
 Los servidores fiscales del Municipio y del Estado, los de la Junta Central y Municipal de Catastro, los del Tribunal Fiscal y todas las Autoridades auxiliares, están obligados a guardar secreto sobre las situaciones de los expedientes del impuesto, en actos que conozcan dentro de sus facultades. Esta obligación y la responsabilidad proveniente de su incumplimiento, no se extinguen con la separación del cargo o empleo.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 121.
 
-La Secretaría de Asentamientos Humanos, Obras y Servicios Públicos del Estado y las Direcciones de Obras Públicas de los Municipios, tendrán obligación de comunicar a la Dirección de Catastro y a las oficinas autorizadas que corresponda, las fechas de terminación de construcciones o ampliaciones permanentes, así como las fechas que éstas se ocupan o aprovechen sin estar terminadas. En los Municipios donde no existan Direcciones de Obras Públicas serán los Presidentes Municipales quienes deban rendir ese informe.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología y las Direcciones de Obras Públicas de los Municipios, tendrán obligación de comunicar a la Dirección de Catastro y a las oficinas autorizadas que corresponda, las fechas de terminación de construcciones o ampliaciones permanentes, así como las fechas que éstas se ocupan o aprovechen sin estar terminadas. En los Municipios donde no existan Direcciones de Obras Públicas serán los Presidentes Municipales quienes deban rendir ese informe.
 
 ###### ARTICULO 122.
 
@@ -2667,7 +2673,7 @@ En los casos de violación a lo dispuesto en el Artículo 242, el Tribunal de Co
 
 ###### ARTICULO 247.
 
-Las renumeraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
+Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3546,3 +3552,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 P.O. 19 DE JULIO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
