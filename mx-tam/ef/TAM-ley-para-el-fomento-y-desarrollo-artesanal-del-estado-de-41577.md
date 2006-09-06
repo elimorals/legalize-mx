@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-y-desarrollo-artesanal-del-estado-de-41577"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-07"
-last_updated: "2004-10-07"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 7 de Octubre de 2004.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 7 de Octubre de 2004.
 
 TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
@@ -53,9 +53,11 @@ II. Proteger las artesanías como patrimonio cultural del Estado; y
 
 III. Reconocer formas de organización artesanal para incorporarlas al desarrollo económico y social del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 2.
 
-La aplicación de esta ley corresponderá, en el ámbito de sus respectivas competencias, a las secretarías de Desarrollo Económico y del Empleo, Desarrollo Social y de Educación, Cultura y Deporte del Estado, sin perjuicio de las atribuciones que otros ordenamientos otorguen a distintas autoridades federales, estatales y municipales.
+La aplicación de esta ley corresponderá, en el ámbito de sus respectivas competencias, a las secretarías de Desarrollo Económico y del Empleo, Desarrollo Social, Cultura y Deporte y de Educación del Estado, sin perjuicio de las atribuciones que otros ordenamientos otorguen a distintas autoridades federales, estatales y municipales.
 
 ###### ARTICULO 3.
 
@@ -73,9 +75,11 @@ V. Empresa Artesanal.- La unidad económica, ya sea persona física o jurídica 
 
 ### CAPITULO II. DE LAS ACCIONES DE FOMENTO A LAS ARTESANIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 4.
 
-Para el cumplimiento del objetivo de esta ley, las secretarías de Desarrollo Económico y del Empleo y de Desarrollo Social, en el ámbito de sus atribuciones, deberán establecer mecanismos eficaces de coordinación para implementar las siguientes acciones:
+Para el cumplimiento del objetivo de esta ley, las secretarías de Desarrollo Económico y del Empleo y de Desarrollo Social, Cultura y Deporte, en el ámbito de sus atribuciones, deberán establecer mecanismos eficaces de coordinación para implementar las siguientes acciones:
 
 I. Fomentar la producción de artesanías locales;
 
@@ -161,9 +165,13 @@ I. Por el sector público.
 
 a).- El Secretario de Desarrollo Económico y del Empleo;
 
-b).- El Secretario de Desarrollo Social;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-c).- El Secretario de Educación, Cultura y Deporte; y (sic)
+b).- El Secretario de Desarrollo Social, Cultura y Deporte;
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+c).- El Secretario de Educación; y (sic)
 
 d).- El representante del Sistema para el Desarrollo Integral de la Familia en el Estado;
 
@@ -215,9 +223,13 @@ Las artesanías originarias de las comunidades o regiones del Estado, en tanto q
 
 ###### ARTICULO 15.
 
-1. Para la preservación y rescate de las artesanías en el Estado, la Secretaría de Educación, Cultura y Deporte establecerá los programas de trabajo necesarios en los que participarán las entidades de la administración pública estatal del sector educativo. A su vez, la Secretaría de Educación, Cultura y Deporte alentará la suscripción de convenios de colaboración con instituciones y organismos del Gobierno Federal que tengan responsabilidades en los ámbitos de la cultura popular, las artesanías y conexos.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-2. Para la promoción y difusión de la cultura artesanal, la propia Secretaría de Educación Cultura y Deporte realizará las siguientes acciones:
+1. Para la preservación y rescate de las artesanías en el Estado, la Secretaría de Educación establecerá los programas de trabajo necesarios en los que participarán las entidades de la administración pública estatal del sector educativo. A su vez, la Secretaría de Desarrollo Social, Cultura y Deporte, alentará la suscripción de convenios de colaboración con instituciones y organismos del Gobierno Federal que tengan responsabilidades en los ámbitos de la cultura popular, las artesanías y conexos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2. Para la promoción y difusión de la cultura artesanal, la propia Secretaría de Desarrollo Social, Cultura y Deporte realizará las siguientes acciones:
 
 I.- Preservar y proteger el patrimonio artístico, simbólico, folklórico e histórico de Tamaulipas, representado por las artesanías que identifican a las diversas comunidades y regiones, cuya característica es su capacidad para transformar la naturaleza, creando nuevas expresiones artísticas populares;
 
@@ -291,7 +303,9 @@ La condición de artesano, taller o empresa artesanal se acreditará mediante el
 
 1. La cultura artesanal de Tamaulipas, se difundirá mediante la edición del atlas artesanal, así como de catálogos, muestrarios, impresos, y la elaboración y emisión de mensajes radiofónicos, televisivos, audios, videos.
 
-2. De conformidad con los programas de trabajo de la Secretaría de Educación, Cultura y Deporte, se impulsará el establecimiento de museos artesanales en las diferentes regiones del Estado.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2. De conformidad con los programas de trabajo de la Secretaría de Desarrollo Social, Cultura y Deporte se impulsará el establecimiento de museos artesanales en las diferentes regiones del Estado.
 
 ### CAPITULO IX. DE LA CAPACITACION Y LA INVESTIGACION
 
@@ -301,7 +315,9 @@ Las instituciones públicas, los organismos sociales y los particulares, previo 
 
 ###### ARTICULO 23.
 
-1. La Secretaría de Educación Cultura y Deporte vigilará que las instituciones educativas y los organismos o dependencias vinculadas a ese sector, implementen de manera permanente y continua, programas y planes de estudio en materia artesanal.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+1. La Secretaría de Educación, vigilará que las instituciones educativas y los organismos o dependencias vinculadas a ese sector, implementen de manera permanente y continua, programas y planes de estudio en materia artesanal.
 
 2. A su vez, dicha dependencia propiciará las acciones tendientes a la realización de estudios, investigaciones y eventos por región y por tipo de artesanías, para rescatar o preservar las artesanías tradicionales en riesgo de desaparición.
 
@@ -338,3 +354,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de octubre del año dos mil cuatro.-
 
 ATENTAMENTE - "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
