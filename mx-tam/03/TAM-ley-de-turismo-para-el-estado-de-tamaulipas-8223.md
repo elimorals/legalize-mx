@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-para-el-estado-de-tamaulipas-8223"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-30"
-last_updated: "2005-10-25"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de junio de 1993.
 
@@ -173,9 +173,11 @@ La Secretaría concertará con los sectores social y privado su participación e
 
 ### CAPITULO IV. ZONAS DE DESARROLLO TURISTICO PRIORITARIO
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 16.
 
-La Secretaría, conjuntamente con la Secretaría de Desarrollo Social y la Secretaría de Turismo, en coordinación con los Municipios, formulará las declaraciones de zonas de desarrollo turístico prioritario, a efecto de expedir, conforme a los planes de desarrollo urbano las declaratorias de uso del suelo turístico.
+La Secretaría, conjuntamente con la Secretaría de Desarrollo Social, Cultura y Deporte y la Secretaría de Turismo, en coordinación con los municipios, formulará las declaraciones de zonas de desarrollo turístico prioritario, a efecto de expedir, conforme a los planes de desarrollo urbano las declaratorias de uso del suelo turístico.
 
 ###### ARTICULO 17.
 
@@ -260,6 +262,8 @@ La Secretaría promoverá la formación de profesionales y técnicos en las rama
 ###### ARTICULO 33.
 
 Para el cumplimiento de lo señalado en el Artículo anterior, la Secretaría celebrará los acuerdos de coordinación y cooperación necesarios con las autoridades educativas y con otros organismos privados o sociales que impartan educación o capacitación en materia turística
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 34.
 
@@ -504,3 +508,9 @@ Las presentes reformas a los artículos 1°, 3° fracción I y 8° fracción II 
 ###### ARTICULO SEGUNDO.
 
 Por considerar que no afectan a la actividad turística del Estado sino sólo al nombramiento del titular, se seguirán efectuando todas las actividades ya planeadas.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
