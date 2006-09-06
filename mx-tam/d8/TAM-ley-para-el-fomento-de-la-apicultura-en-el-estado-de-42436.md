@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-de-la-apicultura-en-el-estado-de-42436"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO DE LA APICULTURA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -93,9 +93,13 @@ ENJAMBRE: El conjunto de abejas, zánganos y reina en vuelo o conglomerado, en t
 
 CRIADERO DE REINAS: Conjunto de colmenas tipo técnico divididas interiormente o de medidas especiales, destinadas principalmente a la obtención de abejas reinas.
 
-LA SECRETARIA: La Secretaría de Desarrollo Económico y del Empleo del Gobierno del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-DIRECCION GENERAL: La Dirección General de Desarrollo Agropecuario, Forestal y Pesquero de la Secretaria de Desarrollo Económico y del Empleo del Gobierno del Estado de Tamaulipas.
+LA SECRETARIA: La Secretaría de Desarrollo Rural del Gobierno del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+DIRECCION GENERAL: La Dirección General de Desarrollo Agropecuario, Forestal y Pesquero de la Secretaría de Desarrollo Rural del Gobierno del Estado de Tamaulipas.
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS SUJETAS A ESTA LEY
 
@@ -153,7 +157,9 @@ Son autoridades competentes para la aplicación de esta ley, en los términos qu
 
 a) El Gobernador del Estado;
 
-b) La Secretaría de Desarrollo Económico y del Empleo;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+b) La Secretaría de Desarrollo Rural;
 
 c) La Secretaría de Finanzas; y
 
@@ -199,9 +205,13 @@ Se crea un organismo bajo la denominación de ``Consejo Apícola del Estado'', c
 
 1. El Consejo Apícola del Estado estará integrado por un Presidente, un Secretario y ocho Vocales.
 
-2. El Presidente será el Secretario de Desarrollo Económico y del Empleo del
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-3. Los Vocales serán designados, uno por cada una de las siguientes Dependencias e Instituciones: Secretaría de Agricultura Ganadería, Pesca y Alimentación; financiera rural; Cámara Mexicana de la Industria de la Trasformación; Cámara nacional de Comercio; y la Unión Estatal de Apicultores.
+2. El Presidente será el Secretario de Desarrollo Rural del Estado, quien delegará funciones en el Director General de Desarrollo Agropecuario, Forestal y Pesquero que se denominará Secretario Técnico, quien a su vez designará a un Secretario de Actas y Acuerdos.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+3. Los Vocales serán designados, uno por cada una de las siguientes Dependencias e Instituciones: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; financiera rural; Cámara Mexicana de la Industria de la Transformación; Cámara Nacional de Comercio; y la Unión Estatal de Apicultores.
 
 ###### ARTICULO 13.
 
@@ -385,9 +395,11 @@ g) Dibujo de su marca o fierro.
 
 ### CAPITULO IX. DE LA MOVILIZACION DE LAS COLMENAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 32.
 
-1. La movilización de colmenas pobladas deberá protegerse con la correspondiente guía sanitaria y de tránsito previstas por la Legislación Federal la expedirá la guía de tránsito y la Secretaría de Agricultura, Ganadería y Pesca y Alimentación, las guías sanitarias.
+1. La movilización de colmenas pobladas deberá protegerse con la correspondiente guía sanitaria y de tránsito previstas por la Legislación Federal la expedirá la guía de tránsito y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, las guías sanitarias.
 
 2. Para el efecto anterior, deberán anexar la autorización de instalación del propietario del predio en el caso de establecerse en terrenos ajenos; planos o croquis de los sitios en los que pretendan instalar los colmenares solicitando información a la asociación apícola de la localidad, anotando las distancias aproximadas y comprometiéndose por escrito a respetar una separación mínima de tres kilómetros entre apiarios establecidos.
 
@@ -401,7 +413,9 @@ Se prohíbe la movilización de abejas vivas procedentes de otros Estados, afect
 
 1. La movilización de miel, polen, jalea real, y productos derivados de éstos dentro del Estado de Tamaulipas, deberá protegerse con las guías sanitaria y de tránsito.
 
-2. Cuando se pretenda importar núcleos de abejas y material genético se requerirá del permiso que para tal efecto expida la Secretaría de Agricultura, Ganadería, Pesca y Alimentación y se deberá notificar a la Secretaría y a las asociaciones apícolas.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+2. Cuando se pretenda importar núcleos de abejas y material genético se requerirá del permiso que para tal efecto expida la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y se deberá notificar a la Secretaría y a las asociaciones apícolas.
 
 ###### ARTICULO 35.
 
@@ -433,7 +447,9 @@ b) A la solicitud se anexarán los siguientes documentos:
 
 I. Anuencia por escrito de la organización local de apicultores para establecer el nuevo apiario en el lugar indicado; y
 
-II. Certificado zoosanitario expedido por la Delegación Estatal de la Secretaría de Agricultura Ganadería y Desarrollo Rural del Estado de procedencia.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II. Certificado zoosanitario expedido por la Delegación Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Estado de procedencia.
 
 c) La Secretaría, se reserva el derecho de otorgar o negar el permiso correspondiente según el caso.
 
@@ -523,9 +539,11 @@ Cualquier apicultor podrá dedicarse al giro zootécnico de cría de reinas cump
 
 Los apicultores que se dediquen al giro zootécnico de cría, movilización y comercialización de abejas reinas y zánganos en el Estado, están obligados a registrarse en la Secretaría.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 53.
 
-La producción de abejas reina deberá basarse en las normas que establezca la Secretaría de Agricultura, Ganadería, Pesca y Alimentación, para favorecer la producción de abejas en cuanto a prolificidad, docilidad, productividad y resistencia a enfermedades.
+La producción de abejas reina deberá basarse en las normas que establezca la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para favorecer la producción de abejas en cuanto a prolificidad, docilidad, productividad y resistencia a enfermedades.
 
 ###### ARTICULO 54.
 
@@ -575,9 +593,11 @@ Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efect
 
 2. La Secretaría deberá informar a la Delegación de las infracciones a la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos y sus Reglamentos que observe durante las visitas de inspección que realice, a efecto de que se proceda conforme a las mismas.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 61.
 
-Las medidas preventivas o de combate tendientes a evitar la propagación de plagas y enfermedades que afecten a las abejas que dicte la Secretaría de Agricultura, Ganadería, Pesca y Alimentación, serán de carácter obligatorio para los apicultores del Estado.
+Las medidas preventivas o de combate tendientes a evitar la propagación de plagas y enfermedades que afecten a las abejas que dicte la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, serán de carácter obligatorio para los apicultores del Estado.
 
 ###### ARTICULO 62.
 
@@ -698,3 +718,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
