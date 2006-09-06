@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2006-06-01"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -159,13 +159,17 @@ Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir
 
 Corresponde al Congreso local instruir el procedimiento relativo al juicio político, actuando como Organo de Acusación y al Supremo Tribunal de Justicia del Estado fungir como Jurado de Sentencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 11.
 
-Al integrarse en el Congreso local las comisiones para el despacho de los asuntos, se designará por la presidencia una comisión para sustanciar los procedimientos consignados en la presente Ley y en la Orgánica del propio Congreso.
+Al integrarse en el Congreso local las comisiones para el despacho de los asuntos, se designará por la presidencia una comisión para sustanciar los procedimientos consignados en la presente Ley y en la Ley de Organización y Funcionamiento Internos del Congreso del Estado.
 
 La Comisión a que hace referencia el párrafo anterior, se compondrá de siete diputados que formarán la sección instructora.
 
-Las vacantes que ocurran serán cubiertas por designación de la Gran Comisión.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+Las vacantes que ocurran serán cubiertas por designación de la Junta de Coordinación Política del Congreso del Estado.
 
 ###### ARTICULO 12.
 
@@ -801,9 +805,9 @@ Sin en el plazo de sesenta días a que se hace referencia no se hubiere presenta
 
 La Contraloría Gubernamental expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar las declaraciones de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-Estas atribuciones serán ejercidas por la Gran Comisión en tratándose de la materia de su competencia.
+Estas atribuciones serán ejercidas por la Junta de Coordinación Política del Congreso del Estado en tratándose de la materia de su competencia.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -813,7 +817,9 @@ En las declaraciones inicial y final de situación patrimonial se manifestarán 
 
 En las declaraciones anuales se manifestarán las modificaciones al patrimonio, con fecha y valor de las adquisiciones realizadas; en todo caso se indicará el medio por el cual el bien ingresó al patrimonio del servidor público.
 
-Tratándose de bienes inmuebles, la Contraloría Gubernamental o la Gran Comisión del Congreso, según corresponda, decidirán las características que deberá tener la declaración.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+Tratándose de bienes inmuebles, la Contraloría Gubernamental o la Junta de Coordinación Política del Congreso, según corresponda, decidirán las características que deberá tener la declaración.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -847,11 +853,11 @@ En ningún caso se podrán recibir de dichas personas títulos-valor, bienes inm
 
 Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en éste artículo, y serán sancionados en términos de la legislación penal.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 89.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a las autoridades que la Contraloría Gubernamental o, en su caso, la Gran Comisión del Congreso, determinen, a fin de ponerlos a disposición. La autoridad competente llevará un registro de dichos bienes.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a las autoridades que la Contraloría Gubernamental o, en su caso, la Junta de Coordinación Política del Congreso, determinen, a fin de ponerlos a disposición. La autoridad competente llevará un registro de dichos bienes.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -922,6 +928,12 @@ P.O. 22 DE MAYO DE 2003
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE JUNIO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
 
