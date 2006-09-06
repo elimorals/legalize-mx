@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2001-12-25"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -147,9 +147,13 @@ XLI.- Restaurant bar: Establecimiento donde se expenden alimentos para su consum
 
 XLII.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para la diversión de los asistentes y por enajenar bebidas alcohólicas en envase abierto y al copeo, para su consumo en el interior del mismo lugar, durante los eventos;
 
-XLIII.- Secretaría: La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-XLIV.- Secretario: El titular de la Secretaría de Finanzas y Administración;
+XLIII.- Secretaría: La Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XLIV.- Secretario: El titular de la Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1004,3 +1008,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de lo dispuesto en el Artículo 36 de esta ley, la declaratoria de cumplimiento para aquellos establecimientos que cuenten con licencia vigente para el ejercicio 2001, se referirá a que las condiciones de operación no ha sido objeto de modificación o cambio alguno con respecto a ese mismo año.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
