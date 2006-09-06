@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2004-12-30"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2145,7 +2145,7 @@ I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia est
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando la cuantía de las operaciones exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos;
+II.- Cuando la cuantía de las operaciones exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo cargo o comisión pública;
 
 III.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
@@ -2635,9 +2635,9 @@ Comete el delito de violación, el que por medio de la violencia física o moral
 
 Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere la esposa o concubina, sólo se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-Para los efectos de este capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal o bucal, independientemente de su sexo.
+Para los efectos de éste capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3383,7 +3383,7 @@ III.- El que, para hacer que un inocente aparezca como responsable de un delito,
 
 ###### ARTICULO 379.
 
-Al responsable del delito de calumnia se le impondrá una sanción de seis meses a dos años de prisión o multa de quince a cuarenta días salario. En los casos de las dos últimas fracciones del artículo anterior, si el calumniado es condenado por sentencia firme, previo el reconocimiento de su inocencia, se impondrá al calumniador la misma sanción que a aquél.
+Al responsable del delito de calumnia se le impondrá una sanción de seis meses a dos años de prisión o multa de quince a cuarenta días salario. En los casos de las dos últimas fracciones del artículo anterior. si el calumniado es condenado por sentencia firme, previo el reconocimiento de su inocencia, se impondrá al calumniador la misma sanción que a aquél.
 
 ###### ARTICULO 380.
 
@@ -3631,7 +3631,9 @@ II.- Cuando el agente la ejercita después de consumado el robo, para proporcion
 
 La sanción que corresponda al responsable de robo simple se aumentará con tres años a doce años de prisión:
 
-I.- Cuando el robo se cometa en un edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación, no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Cuando el robo se cometa en un edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación o alguna de sus dependencias, como son las cocheras, pasillos, patios, azoteas, escaleras, cuartos de servicio, de almacenaje, jardines y corrales, comprendiéndose en esta denominación, no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos;
 
 II.- Cuando se cometa en un parque u otro lugar cerrado, o en un edificio, o pieza que no estén habitados ni destinados para habitarse;
 
@@ -4273,7 +4275,7 @@ A las personas cuyo proceso judicial se encuentre en trámite a la fecha de inic
 
 Las personas que hubieren sido condenadas por sentencia ejecutoriada antes de la iniciación de vigencia de este Decreto y se encuentren en los supuestos de esta reforma legislativa, podrán promover la aplicación de penas sustitutivas mediante el incidente respectivo, en los términos del Código de Procedimientos Penales para el Estado.
 
-P.O. 5 DE JUNIO DE 1999.
+P.O. 5 DE JUNIO DE 1999
 
 DECRETO No. 28
 
@@ -4330,3 +4332,9 @@ DECRETO No. LVIII -1138, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS D
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
