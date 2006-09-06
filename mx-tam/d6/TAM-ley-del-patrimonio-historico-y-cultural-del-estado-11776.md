@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "2002-10-15"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DEL 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -85,7 +85,9 @@ El Ejecutivo Estatal promoverá con las instancias federales y municipales, la c
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Secretaría: La Secretaría de Desarrollo Social del Estado.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Secretaría: La Secretaría de Desarrollo Social, Cultura y Deporte del Estado;
 
 II.- Zonas protegidas: Las áreas territoriales que el Estado declare que tiene interés en proteger jurídicamente, por su significado histórico o cultural;
 
@@ -173,7 +175,7 @@ XIV.- Las demás que le confieran las disposiciones legales vigentes.
 
 Son facultades de los Ayuntamientos:
 
-I.- Otorgar o negar permiso para la colocación de anuncios, rótulos, postes, líneas de conducción eléctrica, telefónicas o de cualquier otra índole, en los términos de la presente Ley ;
+I.- Otorgar o negar permiso para la colocación de anuncios, rótulos, postes, líneas de conducción eléctrica, telefónicas o de cualquier otra índole, en los términos de la presente Ley;
 
 II.- Ordenar que se retiren anuncios, letreros, rótulos o elementos similares, colocados en contravención a las disposiciones contenidas en la presente Ley; y,
 
@@ -586,3 +588,9 @@ El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario Ge
 P.O. 15 DE OCTUBRE DEL 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
