@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2005-09-06"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -583,9 +583,11 @@ El canto, ejecución y difusión del Himno de Tamaulipas se apegarán a la letra
 
 Queda prohibido alterar la letra o música del Himno de Tamaulipas y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantarlo o ejecutarlo con fines de publicidad comercial o de índole semejante.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 21.
 
-Las ediciones o reproducciones que se hagan del Himno de Tamaulipas serán autorizadas por las Secretaría General de Gobierno y por la Secretaría de Educación, Cultura y Deporte.
+Las ediciones o reproducciones que se hagan del Himno de Tamaulipas serán autorizadas por las Secretaría General de Gobierno y por la Secretaría de Educación.
 
 Sin demérito de la naturaleza federal de las concesiones de radio y televisión, el Gobierno del Estado podrá convenir con sus titulares en la jurisdicción del Estado, que se difunda el Himno de Tamaulipas al inicio y al final de sus trasmisiones.
 
@@ -737,9 +739,11 @@ Al efecto se convocará regularmente a concursos estatales sobre dicho (sic) sí
 
 ### Capítulo Séptimo. De la aplicación de la Ley
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 31.
 
-La aplicación del presente ordenamiento corresponde a la Secretaría General de Gobierno y, en lo que hace a los plantes educativos del Estado a la Secretaría de Educación, Cultura y Deportes. Para efectos de la aplicación y cumplimiento de sus disposiciones, todas las autoridades del Estado serán auxiliares de la Secretaría General de Gobierno.
+La aplicación del presente ordenamiento corresponde a la Secretaría General de Gobierno y, en lo que hace a los planteles educativos del Estado a la Secretaría de Educación. Para efectos de la aplicación y cumplimiento de sus disposiciones, todas las autoridades del Estado serán auxiliares de la Secretaría General de Gobierno.
 
 ###### Artículo 32.
 
@@ -770,5 +774,11 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 P.O. 6 DE SEPTIEMBRE DE 2005.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
