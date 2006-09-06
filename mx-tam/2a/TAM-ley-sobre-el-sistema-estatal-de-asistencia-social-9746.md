@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2001-12-25"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -515,11 +515,11 @@ VI.- Las demás que sean necesarias para el ejercicio de las facultades anterior
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 27.
 
-La Junta de Gobierno estará integrada por el Secretario General de Gobierno, el Secretario de Finanzas, el Procurador General de Justicia, el Secretario de Administración, el Delegado del Instituto Mexicano del Seguro Social, el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, el Secretario de Salud, el Jefe de los Servicios Coordinados de Salud Pública en el Estado, el Secretario de Desarrollo Social, el titular de la Contraloría Gubernamental, el Secretario de Educación, Cultura y Deporte y el Director General del propio Organismo.
+La Junta de Gobierno estará integrada por el Secretario General de Gobierno, el Secretario de Finanzas, el Procurador General de Justicia, el Secretario de Administración, el Delegado del Instituto Mexicano del Seguro Social, el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, el Secretario de Salud, el Jefe de los Servicios Coordinados de Salud Pública en el Estado, el Secretario de Desarrollo Social Cultura y Deporte, el titular de la Contraloría Gubernamental, el Secretario de Educación y el Director General del propio Organismo.
 
 Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
@@ -750,3 +750,9 @@ P.O. 25 DE DICIEMBRE DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
