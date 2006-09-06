@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2006-01-11"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
-Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
+Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 
@@ -437,401 +437,327 @@ REGLAS COMPLEMENTARIAS DE INTERPRETACION DEL ACTO JURIDICO. Cuando fuere absolut
 
 Si las dudas de cuya solución trata este artículo recayesen sobre el objeto principal del acto jurídico, de suerte que no pueda venirse en conocimiento de cuál fue la intención o la voluntad del autor o autores del acto, éste será inexistente.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 # LIBRO SEGUNDO. DE LAS PERSONAS
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ## TITULO PRIMERO. DE LAS PERSONAS JURIDICAS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 59.
 
-SUJETO DE DERECHO. La persona jurídica es todo ser o ente titular de derechos y obligaciones.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 60.
 
-PERSONALIDAD Y CAPACIDAD. Para este Código, la personalidad es la atribución general de toda persona jurídica para ser titular de derechos y obligaciones; así como la capacidad es la idoneidad o aptitud referida a hechos específicos cuando así lo requiera la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LAS PERSONAS JURIDICAS INDIVIDUALES
 
 ###### ARTICULO 61.
 
-CAPACIDAD DE GOCE Y SU PROTECCION. La capacidad de goce de las personas jurídicas individuales se adquiere por el nacimiento y se pierde por la muerte, pero entran bajo la protección de la Ley desde el momento en que los individuos son concebidos; y si nacen viables, desde ese momento se les tiene por nacidos.
-
-Para los efectos legales, sólo se reputa nacido el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 61 Bis.
 
-"DE LA MINORIA DE EDAD". La minoría de edad comprende desde el nacimiento de la persona jurídica física, hasta que ésta cumpla dieciocho años de edad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 62.
 
-LIMITACIONES A LA PERSONALIDAD. La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la Ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 63.
 
-INCAPACIDAD NATURAL Y LEGAL. Tienen incapacidad natural y legal:
-
-I.- Los menores de edad;
-
-II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a substancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que esto les provoque, no puedan gobernarse por sí mismos, o manifestar su voluntad por algún medio; y
-
-III.- Las demás personas que señala la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 64.
 
-MAYORIA DE EDAD. La mayoría de edad comienza a los dieciocho años cumplidos. El mayor de edad puede disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO III. DE LAS PERSONAS JURIDICAS COLECTIVAS
 
 ###### ARTICULO 65.
 
-DERECHOS FUNDAMENTALES DEL SER HUMANO. Todo individuo gozará de los derechos públicos subjetivos consagrados en la Constitución Política de la República, así como del respeto de su vida, de su seguridad, de su privacía y dignidad personal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-Los menores de edad gozarán de los derechos fundamentales del ser humano, así como los que en el orden civil especifica este Código.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-Por lo que hace a los derechos, obligaciones y responsabilidades civiles de los menores de edad, se estará además a la reglamentación de este ordenamiento.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-Es derecho fundamental del ser humano disponer, en vida o para después de su muerte, de partes u órganos de su cuerpo, siempre que su voluntad conste fehacientemente y no se contravengan normas sanitarias o penales.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DEL DOMICILIO
 
 ###### ARTICULO 66.
 
-PERSONAS COLECTIVAS. Las personas jurídicas colectivas, también llamadas morales, son:
-
-I.- La Nación, los Estados y los Municipios;
-
-II.- Las demás corporaciones de carácter público reconocidas por la Ley;
-
-III.- Los sindicatos, las asociaciones profesionales y las demás a que se refieren las fracciones XVI, apartado A, y X, apartado B, del artículo 123 de la Constitución Federal;
-
-IV.- Las sociedades mercantiles y las demás no civiles reguladas por las leyes federales;
-
-V.- Las sociedades y asociaciones civiles;
-
-VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, mutualistas, artísticos, de recreo o cualquier otro fin lícito no económico, siempre que no fueren desconocidas por la Ley; y, (sic)
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO V. DEL NOMBRE
 
 ###### ARTICULO 67.
 
-EJERCICIO DE LOS DERECHOS DE LAS PERSONAS JURIDICAS MORALES. Las personas jurídicas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto social establecido en sus estatutos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 68.
 
-ORGANOS REPRESENTATIVOS DE LAS PERSONAS MORALES. Las personas jurídicas morales obran y se obligan por medio de órganos que las representan, sea por disposición de la Ley o conforme a lo dispuesto en sus escrituras constitutivas o estatutos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 69.
 
-RECONOCIMIENTO DE PERSONAS MORALES. Para los efectos de este Código, no se reconocen más personas jurídicas morales que las expresamente autorizadas por la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LA NACIONALIDAD
 
 ###### ARTICULO 70.
 
-DOMICILIO DE LA PERSONA INDIVIDUAL. El domicilio de una persona jurídica individual es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios, en ausencia de ambos, el lugar donde simplemente resida y, en su defecto el sitio donde se halle.
-
-Se presume el propósito de establecerse en un lugar, cuando se reside por más de seis meses en él.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 71.
 
-DOMICILIO LEGAL DE LA PERSONA INDIVIDUAL. El domicilio legal de una persona es el lugar donde la Ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 72.
 
-DIVERSAS CLASES DE DOMICILIO LEGAL. Se reputa domicilio legal:
-
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
-
-II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
-
-III.- De los militares en servicio activo, el lugar en que están destinados;
-
-IV.- De los servidores públicos, el lugar donde desempeñan sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior;
-
-V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido;
-
-VI.- En el caso de menores incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 70 de este Ordenamiento Legal; y
-
-VII.- De los cónyuges, aquél en el cual éstos vivan de común acuerdo, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 70 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 73.
 
-REGLAS CUANDO HAYA DOMICILIO MULTIPLE. Cuando una persona tenga dos o más domicilios se le considerará domiciliada en el lugar en que simplemente resida y si viviere en varios, aquél en que se encontrare.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 74.
 
-DOMICILIO DE LAS PERSONAS MORALES. Las personas morales tienen su domicilio en el lugar donde se halle establecida su administración.
-
-Las que tengan su administración fuera del Estado de Morelos, pero que ejecuten actos jurídicos dentro de él, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo lo que a estos actos se refiera.
-
-Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 75.
 
-DOMICILIO CONVENCIONAL. Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 76.
 
-FORMACION DEL NOMBRE DE LAS PERSONAS FISICAS. El nombre es el atributo legal que individualiza a una persona en sus relaciones jurídicas. Se integra por el nombre propio que le impone libremente quien la presenta para su registro, seguido de los apellidos que le correspondan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 77.
 
-PROHIBICION DE USAR SOBRENOMBRES EN ACTOS JURIDICOS CIVILES. No se permitirá el empleo de un sobrenombre en la celebración de los actos jurídicos civiles. Su contravención producirá la nulidad relativa del acto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 78.
 
-NOMBRE DE LAS ASOCIACIONES Y SOCIEDADES CIVILES. El nombre de las personas jurídicas morales civiles se formará por la razón o denominación social aprobada por sus miembros, seguido de las palabras asociación civil o sociedad civil, o bien de las siglas A. C. o S. C. según corresponda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-La razón ó denominación social no deberá ser contraria a las disposiciones sobre nomenclatura de entes reguladas en otras leyes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 79.
 
-DE LAS PERSONAS JURIDICAS NACIONALES. La nacionalidad es un vínculo jurídico político que une a las personas con el estado mexicano; en todo lo relativo a ella se estará a las leyes especiales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 80.
 
-DE LAS PERSONAS JURIDICAS MORALES EXTRANJERAS. Las asociaciones y sociedades civiles extranjeras se regirán atentas las disposiciones relativas de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DEL PATRIMONIO
 
 ###### ARTICULO 81.
 
-PATRIMONIO DEL SUJETO DE DERECHO. Por patrimonio se considera la universalidad jurídica constituida por el conjunto de bienes, derechos y obligaciones, actuales y futuros susceptibles de apreciación pecuniaria.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 82.
 
-PLURALIDAD DE PATRIMONIOS. Cuando se afecte un conjunto de bienes, derechos y obligaciones a un fin lícito determinado podrá existir pluralidad de patrimonios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DEL ESTADO CIVIL
 
 ###### ARTICULO 83.
 
-ESTADO CIVIL DE LA PERSONA JURIDICA FISICA. Sólo la persona jurídica natural tiene estado civil, entendido como la situación jurídica concreta, de un hombre o de una mujer en relación con la familia en su calidad de soltero, casado, o divorciado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO SEGUNDO. DEL DERECHO DE FAMILIA
 
-> <small>(REFORMADA, SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LA FAMILIA
 
 ###### ARTICULO 84.
 
-(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000) (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS [REPUBLICADO) , P.O. 6 DE SEPTIEMBRE DE 2006)
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-ARTICULO 84 BIS.- BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural que tiene su fundamento en una relación natural que tiene su fundamento en una relación, establece (sic) entre hombre y mujer y su plena realización en la filiación libre, consiente (sic), responsable e informada, aceptada y dirigida por la pareja.
-
-Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+ARTICULO 84 BIS.- (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 85.
 
-(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000) (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS [REPUBLICADO], P.O. 6 DE SEPTIEMBRE DE 2006)
 
-ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+ARTICULO 85 BIS.- (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-ARTICULO 85 BIS.- "DE LA VIOLENCIA EN LA FAMILIA". Por la Violencia Familiar se considera el uso de la fuerza física o moral así como las omisiones graves que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco, matrimonio y concubinato habiten en el mismo domicilio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DEL PARENTESCO
 
 ###### ARTICULO 86.
 
-CLASES DE PARENTESCO. Este Código reconoce únicamente los parentescos de consanguinidad, afinidad y el civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 87.
 
-PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 88.
 
-PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 89.
 
-PARENTESCO CIVIL. El parentesco civil es el que nace de la adopción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 90.
 
-GRADO Y LINEA DE PARENTESCO. Cada generación forma un grado, y la serie de grados constituye la línea de parentesco.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 91.
 
-LINEA DE PARENTESCO RECTA O TRANSVERSAL. La línea es recta o transversal; la recta se compone de la serie de grados entre personas que descienden unas de otras, la transversal se compone de la serie de grados entre personas que, sin descender unas de otras, proceden de un progenitor o tronco común.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 92.
 
-CLASES DE PARENTESCO EN LA LINEA RECTA. La línea recta es ascendente o descendente: ascendente es la línea que liga a una persona con su progenitor o tronco de que procede, descendente es la que liga al progenitor con los que de él proceden. La misma línea será ascendente o descendente, según el punto de partida y la relación a que se atienda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 93.
 
-COMPUTO DE GRADOS EN LINEA RECTA. En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo el progenitor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 94.
 
-COMPUTO DE GRADOS EN LA LINEA TRANSVERSAL. En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra, o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LOS ALIMENTOS
 
 ###### ARTICULO 95.
 
-RECIPROCIDAD ALIMENTARIA. La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 96.
 
-OBLIGACION ALIMENTARIA ENTRE CONYUGES. Los cónyuges deben darse alimentos. La Ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma Ley señale.
-
-Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por el Capítulo IV del Título Cuarto del Libro Tercero de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 97.
 
-OBLIGACION ALIMENTARIA DE LOS ASCENDIENTES. Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 98.
 
-OBLIGACION ALIMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 99.
 
-OBLIGACION ALIMENTARIA DE LOS PARIENTES COLATERALES. A falta o por imposibilidad de los ascendientes o descendientes, la obligación alimentaria recae en los hermanos de padre o de madre que estén en mejores condiciones de poder otorgarlos.
-
-Faltando los parientes a que se refiere el párrafo anterior tienen obligación de ministrar los alimentos los parientes colaterales dentro del cuarto grado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 100.
 
-OBLIGACION ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACION A INCAPACES. Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a sus parientes incapaces.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 101.
 
-OBLIGACION ALIMENTARIA EN ADOPCION. El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 102.
 
-ALIMENTOS. Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales.
-
-En los mismos términos se entienden los alimentos respecto a los acreedores alimentarios a que se refiere el artículo 100 de este Ordenamiento.
-
-La obligación de dar alimentos no comprende la de proveer capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 103.
 
-CUMPLIMIENTO DE LA OBLIGACION ALIMENTICIA. El obligado a dar alimentos cumple con la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 104.
 
-IMPEDIMENTO DEL DEUDOR ALIMENTISTA. El deudor alimentista no podrá pedir que se incorpore a su familia el que deba recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 105.
 
-PROPORCIONALIDAD ALIMENTARIA. Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a las necesidades del que deba recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario diario general vigente en el Estado, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción; en este caso, el incremento de los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 106.
 
-PLURALIDAD DE DEUDORES ALIMENTARIOS. Si fueren varios los que deban dar los alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos en proporción a sus haberes.
-
-Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 107.
 
-PERSONAS FACULTADAS PARA EJERCITAR LA PRETENSION DE ASEGURAMIENTO DE ALIMENTOS. Tienen pretensión para pedir el aseguramiento de alimentos:
-
-I.- El acreedor alimentario;
-
-II.- El ascendiente que le tenga bajo su patria potestad;
-
-III.- El tutor;
-
-IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado; y
-
-V.- El Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 108.
 
-NOMBRAMIENTO DE TUTOR INTERINO PARA EJERCITAR LA PRETENSION DE ASEGURAMIENTO ALIMENTARIO. Si las personas a que se refieren las fracciones I, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el Juez un tutor interino.
-
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrase algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 109.
 
-FORMAS DE ASEGURAMIENTO. El aseguramiento podrá consistir en hipoteca, prenda, fianza, fideicomiso, o depósito de cantidad bastante a cubrir los alimentos. Si el deudor no tuviese otros bienes que los provenientes de los ingresos de su trabajo, será suficiente el de dichos haberes en la medida que el tribunal ordene.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 110.
 
-DISTRIBUCION DE LA DEUDA ALIMENTARIA EN CASO DE USUFRUCTO. En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será por cuenta de los que ejerzan la patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 111.
 
-CESE DE LA OBLIGACION ALIMENTARIA. Cesa la obligación de dar alimentos:
-
-I.- Cuando el que la tiene carece de medios para cumplirla;
-
-II.- Cuando el alimentista deja de necesitar los alimentos. La obligación subsiste en caso de incapacidad o por continuación de los estudios del acreedor alimentario, en este caso hasta los veinticinco años;
-
-III.- En caso de delito, conducta antisocial, o daños graves inferidos intencionalmente por el alimentista contra el que deba prestarlos;
-
-IV.- Cuando la necesidad de los alimentos dependa de la conducta delictuosa, ilícita o viciosa del acreedor alimentario mientras subsistan esas causas; y
-
-V.- Si el alimentista, sin conocimiento del que deba dar los alimentos, abandona la casa de éste sin justificación;
-
-No obstante lo establecido en las fracciones III, IV y V la obligación alimentaria subsiste hasta los catorce años.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 112.
 
-CARACTERES DEL DERECHO DE RECIBIR ALIMENTOS. El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción, compensación o convenio que establezca modalidad o reducción alguna.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 113.
 
-NEGATIVA DEL DEUDOR ALIMENTARIO A ENTREGAR LOS ALIMENTOS. Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para cubrir los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo hasta la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos suntuarios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 114.
 
-CONTINUIDAD DE LA OBLIGACION DE DAR ALIMENTOS A CARGO DEL CONYUGE SEPARADO. El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 134 de este Código. En tal virtud el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo familiar de su residencia, que obligue al otro a que suministre los gastos por el tiempo que dure la separación, así como también que satisfaga los adeudos contraídos en los términos del artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Si dicha proporción no se pudiera determinar, el Juez según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de los que ha dejado de cubrir desde que se separó.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LA EMANCIPACION
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
-
 ###### ARTICULO 115.
 
-SUJETOS DE LA EMANCIPACION. Los varones y las mujeres mayores de dieciséis años, sujetos a patria potestad o a tutela, pueden emanciparse a través del matrimonio según lo prescribe este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 116.
 
-DEFINITIVIDAD DE LA EMANCIPACION. El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el emancipado no recaerá en la patria potestad o en la tutela.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 117.
 
-LIBRE ADMINISTRACION DE LOS BIENES DEL EMANCIPADO. El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y
-
-II.- De un tutor para los negocios judiciales, cuando así lo exija el Código Procesal Civil.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LA MAYORIA DE EDAD
 
 ###### ARTICULO 118.
 
-INICIO DE LA MAYORIA DE EDAD. La mayoría de edad comienza a los dieciocho años cumplidos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 119.
 
-LIBRE DISPOSICION DEL MAYOR DE EDAD. El mayor de edad dispone libremente de su persona y de sus bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO TERCERO. DEL MATRIMONIO Y DEL DIVORCIO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DEL MATRIMONIO
 
@@ -839,1009 +765,649 @@ GENERALIDADES
 
 ###### ARTICULO 120.
 
-(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000) (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS [REPUBLICADO], P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 121.
 
-ESPONSALES. Cualquier convenio celebrado por escrito que implique una promesa de matrimonio, no producirá la obligación de contraerlo.
-
-El incumplimiento sin causa grave sólo originará el pago de los gastos comprobados que la otra parte hubiere realizado con motivo del matrimonio proyectado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 122.
 
-NATURALEZA DEL MATRIMONIO. El matrimonio es la unión voluntaria de un hombre y una mujer, sancionada por el Estado, para perpetuar la especie y ayudarse mutuamente. Cualquier condición contraria a estas finalidades se tendrá por no puesta.
-
-El vínculo matrimonial se extingue por la muerte o presunción de ésta de uno de los cónyuges, por divorcio o por declaración de nulidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 123.
 
-SOLEMNIDAD DEL MATRIMONIO. El matrimonio debe celebrarse ante los funcionarios que establece la Ley y con las solemnidades que ella exige.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
-
 ###### ARTICULO 124.
 
-EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio el varón y la mujer necesitan haber cumplido dieciséis años. El Juez de lo Familiar puede únicamente conceder dispensas de edad por causas graves y justificadas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 125.
 
-CONSENTIMIENTO DE LOS ASCENDIENTES PARA EL MATRIMONIO DE MENORES. El hijo o la hija que no hayan cumplido dieciocho años no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tienen el padre o la madre, aunque hayan contraído ulteriores nupcias, si el hijo vive a su lado. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos que se encuentren en ejercicio de la patria potestad.
-
-Faltando padres y abuelos, se necesita el consentimiento de los tutores y en ausencia o negativa de dicho consentimiento, los interesados acudirán ante el Juez de lo Familiar, el que resolverá sobre el particular.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 126.
 
-IRREVOCABILIDAD DEL CONSENTIMIENTO. El ascendiente o tutor que haya prestado su consentimiento, firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlos después, a menos que haya justa causa para ello.
-
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del plazo fijado en el artículo 502, primer párrafo, de este Código.
-
-El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 127.
 
-IMPEDIMENTOS PARA CONTRAER MATRIMONIO. Son impedimentos para celebrar el matrimonio:
-
-I.- La falta de edad requerida por la Ley, cuando no haya sido dispensada;
-
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del Juez en sus respectivos casos;
-
-III.- El parentesco de consanguinidad sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y a los medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y a los sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
-
-IV.- El que hubiere existido parentesco de afinidad por línea recta, sin limitación alguna;
-
-V.- El adulterio habido entre las personas que pretenden contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
-
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio, con el que quede libre;
-
-VII.- La violencia o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
-
-VIII.- La embriaguez habitual, o el uso ilegal y persistente de drogas estupefacientes y psicotrópicas;
-
-IX.- La impotencia incurable para la cópula;
-
-X.- Padecer enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias;
-
-XI. Encontrarse afectado por enfermedades mentales incurables;
-
-XII.- El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer; y
-
-XIII.- Las demás que señale este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 128.
 
-PROHIBICION MATRIMONIAL DEL ADOPTANTE. El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 129.
 
-IMPEDIMENTO POR POSIBLE GRAVIDEZ DE LA MUJER. La mujer no puede contraer matrimonio sino hasta pasados trescientos días después de la disolución del anterior. En los casos de nulidad o de divorcio, debe contarse este tiempo desde que se interrumpió la cohabitación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 130.
 
-PROHIBICION MATRIMONIAL PARA EL TUTOR, CURADOR Y SUS DESCENDIENTES. El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo familiar respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
-
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
-
-Si el matrimonio se celebrase en contravención a lo dispuesto en los párrafos anteriores, el Juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 131.
 
-INSCRIPCION DEL MATRIMONIO CONTRAIDO EN EL EXTRANJERO POR MORELENSES. Tratándose de morelenses que se casen en el extranjero, dentro de los tres meses posteriores a su llegada al Estado, se transcribirá el acta de celebración del matrimonio en el Registro Civil del lugar en que se domicilien los consortes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efectos desde el día en que se hizo la transcripción.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL VINCULO MATRIMONIAL
 
 ###### ARTICULO 132.
 
-DERECHOS Y OBLIGACIONES COMUNES Y RECIPROCOS DE LOS CONYUGES. Los cónyuges tienen derecho a decidir de común acuerdo y de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
-
-Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por su parte a los fines del matrimonio y ayudarse mutuamente.
-
-Cualquier convenio contrario a esas finalidades se tendrá legalmente por no puesto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 133.
 
-DOMICILIO CONYUGAL. Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal el lugar establecido de común acuerdo por los consortes, en el cual ambos disfrutan de autoridad y consideración iguales.
-
-Los Tribunales con conocimiento de causa, podrán eximir de aquella obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público, social o profesional; o se establezca en lugar insalubre o indecoroso; o cuando uno de los cónyuges ejercite una pretensión civil en contra del otro; o haya denunciado la comisión de un delito atribuyendo éste al otro consorte.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 134.
 
-IGUALDAD DE CONDICION CONYUGAL. Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
-
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para el trabajo remunerado y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 135.
 
-PRIORIDAD ALIMENTARIA. Los bienes de los cónyuges y sus productos, así como sus sueldos, o emolumentos, quedan afectados preferentemente al pago de los alimentos, en la parte que a cada uno corresponda por Ley o por convenio. Para hacer efectivo este derecho podrán los cónyuges y los hijos o sus representantes pedir en cualquier momento el aseguramiento de aquellos bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 136.
 
-IGUALDAD DE AUTORIDAD Y CONSIDERACION DE LOS CONYUGES. Independientemente de lo previsto por el numeral 134 de este Código los esposos de común acuerdo arreglarán lo relativo a la dirección y cuidado del hogar, a la educación y formación de los hijos y a la administración de los bienes que sean comunes a los cónyuges o que pertenezcan a los hijos sujetos a su patria potestad.
-
-En caso de desacuerdo el Juez de lo Familiar resolverá lo conducente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 137.
 
-ACTIVIDADES LICITAS DE LOS CONYUGES. Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate. El Juez de lo Familiar resolverá sobre la oposición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 138.
 
-CAPACIDAD DE LOS MAYORES DE EDAD CASADOS. El marido y la mujer mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, ejercitar las pretensiones u oponer las defensas que a ellos corresponden sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
-
-Si se ejercen las pretensiones civiles que tenga uno, contra el otro, la prescripción entre los consortes no corre mientras dure el matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 139.
 
-LIMITACIONES A LOS CONSORTES MENORES DE EDAD. El marido y la mujer menores de edad tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 140.
 
-COMPRAVENTA ENTRE CONYUGES. El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DISPOSICIONES GENERALES DEL MATRIMONIO CON RELACION A LOS BIENES
 
 ###### ARTICULO 141.
 
-REGIMEN ECONOMICO MATRIMONIAL. El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o de separación de bienes, pudiendo pactarse un régimen mixto. El régimen escogido podrá cambiarse por acuerdo de los cónyuges durante el matrimonio.
-
-En caso de omisión sobre el régimen patrimonial del matrimonio se entenderá establecido el de sociedad conyugal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 142.
 
-CAPITULACIONES MATRIMONIALES. Determinado el régimen patrimonial del matrimonio podrán pactarse las capitulaciones matrimoniales para establecer la sociedad conyugal, o la separación de bienes y reglamentar lo relativo a su administración.
-
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 143.
 
-CAPITULACIONES MATRIMONIALES DEL MENOR. El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LA SOCIEDAD CONYUGAL
 
 ###### ARTICULO 144.
 
-REGIMEN DE LA SOCIEDAD CONYUGAL. El régimen de la sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de los consortes.
-
-En caso de no existir capitulaciones matrimoniales respecto de la sociedad conyugal, o existiendo éstas no establecieran la proporción de la misma, se entenderá que dicha proporción será por partes iguales.
-
-El dominio de los bienes comunes reside en ambos consortes conjuntamente.
-
-La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviera expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 145.
 
-CREACION DE LA SOCIEDAD CONYUGAL. La sociedad conyugal nace al celebrarse el matrimonio o durante él.
-
-Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 146.
 
-FORMALIDADES Y EFECTOS DE LAS CAPITULACIONES MATRIMONIALES. Las capitulaciones matrimoniales en que se constituya la sociedad conyugal constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
-
-En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaren las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 147.
 
-TERMINACION DE LA SOCIEDAD CONYUGAL. La sociedad conyugal puede terminar durante el matrimonio:
-
-I.- Por voluntad de los cónyuges;
-
-II.- A petición de uno de ellos si el cónyuge administrador, por su notoria negligencia o torpe administración, amenaza arruinar al otro o disminuir considerablemente los bienes comunes. A menos que el cónyuge que se considere perjudicado pruebe su aptitud para administrar y solicite judicialmente tomarla a su cargo;
-
-III.- A solicitud de alguno de los cónyuges, cuando el consorte administrador haga cesión de sus bienes pertenecientes a la sociedad a sus acreedores personales o sea declarado en concurso o quiebra;
-
-IV.- Por la disolución del matrimonio;
-
-V.- Por la sentencia que declare la ausencia del cónyuge a menos que se haya pactado lo contrario en las capitulaciones matrimoniales o regrese el cónyuge ausente; y
-
-VI.- Por muerte de uno de los cónyuges o por sentencia que declare la presunción de muerte.
-
-En el caso de que los cónyuges sean menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 143 de este Código. Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes;
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 148.
 
-CONTENIDO DE LAS CAPITULACIONES DE LA SOCIEDAD CONYUGAL. Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
-
-I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor, sus antecedentes registrales y de los gravámenes que reporten;
-
-II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad, con expresión de los documentos que acrediten la propiedad;
-
-III.- Nota pormenorizada de las deudas que tenga cada esposo al otorgarse las capitulaciones con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante la sociedad, ya sea por ambos consortes o por cualquiera de ellos;
-
-IV.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
-
-V.- La declaración explícita de si la sociedad conyugal ha de comprender todos los bienes de los consortes, o solamente sus productos. En ambos casos se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
-
-VI.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
-
-VII.- La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
-
-VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción; y
-
-IX.- Las bases para liquidar la sociedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 149.
 
-CAPITULACIONES SUJETAS A NULIDAD. Es nula la capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades, así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o utilidades.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 150.
 
-CANTIDAD FIJA A UN CONSORTE. Cuando se establezca que uno de los consortes solo deba recibir una cantidad fija, el otro consorte o sus herederos deberán pagar la suma convenida, haya o no utilidad en la sociedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 151.
 
-CESION PARCIAL DE BIENES ENTRE CONYUGES. Todo pacto que importe cesión de una parte de los bienes de cada cónyuge, será considerado como donación entre consortes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 152.
 
-PROHIBICION A LA RENUNCIA ANTICIPADA DE GANANCIAS. No puede renunciarse anticipadamente a las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 153.
 
-EFECTOS DE LA AUSENCIA EN LA SOCIEDAD CONYUGAL. La sentencia que declare la ausencia de alguno de los cónyuges, modifica o termina la sociedad conyugal en los casos señalados por este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 154.
 
-EFECTOS DEL ABANDONO DEL DOMICILIO CONYUGAL. El abandono injustificado por más de seis meses del domicilio conyugal por uno de los consortes, hace cesar para él, desde el día del abandono, los efectos que le favorezcan de la sociedad conyugal, los cuales no podrán reiniciarse sino por convenio expreso, pero esta situación no podrá ser invocada en perjuicio de tercero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 155.
 
-BUENA FE EN LA NULIDAD DE LA SOCIEDAD CONYUGAL. En los casos de nulidad, la sociedad se considera subsistente hasta que la sentencia cause ejecutoria, si los dos cónyuges procedieron de buena fe.
-
-Cuando uno solo de los consortes tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la resolución es favorable al cónyuge inocente, en caso contrario se considera nula desde un principio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 156.
 
-MALA FE EN LA NULIDAD DE LA COMUNIDAD CONYUGAL. Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
-
-Si la disolución de la sociedad procede de nulidad del matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
-
-Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere, se repartirán en proporción de lo que cada consorte llevó al matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 157.
 
-INVENTARIO Y LIQUIDACION DE LA SOCIEDAD CONYUGAL. Disuelta la sociedad se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos no suntuarios y los objetos de uso personal de los consortes, los que serán de éstos o de sus herederos.
-
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que aportó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas, el importe de éstas se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderles, y si uno solo llevó capital, de éste se deducirá la pérdida total.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 158.
 
-POSESION Y ADMINISTRACION POR EL CONYUGE SUPERSTITE. Muerto uno de los cónyuges, continuará el que sobreviva en la posesión provisional y administración temporal de los bienes en tanto se designa representante de la sucesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-El consorte supérstite tendrá derecho a una remuneración por la administración que desempeñe que será fijado por convenio entre él y los herederos o por el Juez si no se llega a un acuerdo entre ellos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LA SEPARACION DE BIENES
 
 ###### ARTICULO 159.
 
-REGIMEN DE LA SEPARACION DE BIENES. Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio, o durante éste por convenio de los consortes, o bien por sentencia judicial.
-
-La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrar el matrimonio, sino también los que adquieran después.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 160.
 
-MODALIDAD DE LA SEPARACION DE BIENES. La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 161.
 
-SUBSTITUCION DEL REGIMEN DE SEPARACION DE BIENES. Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal, pero si los consortes son menores de edad, se estará a lo dispuesto en el artículo 143 de este Código.
-
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 162.
 
-FORMALIDAD DE LAS CAPITULACIONES DE SEPARACION DE BIENES. Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada esposo al celebrarse el matrimonio, y lista especificada de las deudas que al casarse tenga cada consorte.
-
-No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 163.
 
-DOMINIO Y ADMINISTRACION EN LA SEPARACION DE BIENES. En el régimen de separación de bienes los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicio personal, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DE LAS REGLAS COMUNES A LOS REGIMENES ECONOMICOS CONYUGALES
 
 ###### ARTICULO 164.
 
-ADMINISTRACION DE ALGUNOS BIENES ADQUIRIDOS POR LOS CONSORTES. Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 165.
 
-SERVICIOS HONORIFICOS ENTRE CONYUGES. Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere, pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 166.
 
-PARTICIPACION DEL USUFRUCTO ENTRE CONYUGES. El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede, correspondiendo la otra mitad del usufructo a los sujetos a la patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 167.
 
-RECIPROCIDAD CONYUGAL DE PAGO POR DAÑOS Y PERJUICIOS. El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DE LAS DONACIONES ANTENUPCIALES
 
 ###### ARTICULO 168.
 
-DONACIONES PREVIAS AL MATRIMONIO. Se llaman antenupciales las donaciones que antes del matrimonio hace un pretendiente al otro, así como las que un extraño hace a alguno de los pretendientes, o a ambos en consideración al matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 169.
 
-LIMITE DE LAS DONACIONES ANTENUPCIALES ENTRE PRETENDIENTES. Las donaciones antenupciales entre pretendientes, aunque fueren varias, no podrán exceder reunidas la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 170.
 
-DONACIONES ANTENUPCIALES INOFICIOSAS. Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
-
-Para calcular si es inoficiosa una donación antenupcial, tienen el pretendiente donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 171.
 
-CONDICIONES DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
-
-Si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 172.
 
-REVOCACION E IRREVOCABILIDAD DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
-
-Las donaciones antenupciales no se revocarán por sobrevenir hijos al donante.
-
-Tampoco se revocarán por ingratitud a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 173.
 
-DONACIONES ANTENUPCIALES ENTRE MENORES. Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 174.
 
-CESACION DE EFECTOS DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupciales quedarán sin efectos si el matrimonio dejare de efectuarse.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 175.
 
-DONACIONES COMUNES Y ANTENUPCIALES. Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes en todo lo que no fueren contrarias a este capítulo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IX. DE LAS DONACIONES ENTRE CONSORTES
 
 ###### ARTICULO 176.
 
-CONFIRMACION DE LAS DONACIONES HECHAS ENTRE CONSORTES. Los consortes pueden hacerse donaciones si están casados bajo el régimen de separación de bienes, las que sólo se confirmarán con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, no sean mayores del cincuenta por ciento del patrimonio del donante al momento de hacer la donación, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 177.
 
-REVOCACION DE LAS DONACIONES ENTRE ESPOSOS. Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello que calificará el Juez, o por ingratitud del donatario, si el matrimonio hubiera sido disuelto por divorcio necesario y el donatario fuere declarado culpable en los casos de las fracciones I, II, III, IV, V, VIII, IX, X, XI, XII, XIII, XV y XVI, del artículo 199 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 178.
 
-HIPOTESIS DE NO REVOCACION Y REDUCCION DE LAS DONACIONES ENTRE CONYUGES. Las donaciones entre consortes no se revocarán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO X. DE LOS MATRIMONIOS NULOS, INEXISTENTES E ILICITOS
 
 ###### ARTICULO 179.
 
-CAUSAS GENERICAS DE NULIDAD DE MATRIMONIO. Serán causa de nulidad de matrimonio:
-
-I.- El error acerca de la persona con quien se contrae cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
-
-II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 127 de este Código; y
-
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 495, 496, 501, 502 y 504 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 180.
 
-PRETENSION DE NULIDAD POR ERROR EN LA PERSONA DEL CONYUGE. La pretensión de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error de inmediato al advertirlo, se tiene por ratificado el consentimiento y queda subsistente el matrimonio.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 181.
 
-FALTA DE NULIDAD POR MINORIA DE EDAD. La menor edad de dieciséis años en el hombre y en la mujer dejará de ser causa de nulidad cuando:
-
-I.- Haya hijos;
-
-II.- Aunque no los hubiere, el menor haya cumplido los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
-
-III.- Antes de declararse ejecutoriada la resolución de nulidad se obtuviese la dispensa de edad o la esposa se halle encinta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 182.
 
-PRETENSION DE NULIDAD DE LOS ASCENDIENTES. La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 183.
 
-CESACION DE LA NULIDAD DE LOS ASCENDIENTES. Cesa la causa de nulidad establecida en el artículo anterior, si dentro del plazo establecido el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a criterio del Juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 184.
 
-NULIDAD POR FALTA DE CONSENTIMIENTO DEL TUTOR O DEL JUEZ. La nulidad por ausencia de consentimiento del tutor o del Juez, podrá pedirse dentro del plazo de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 185.
 
-NULIDAD POR FALTA DE DISPENSA EN EL PARENTESCO. El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieran espontáneamente reiterar su consentimiento por medio de un acto ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos los efectos legales desde el día en que primeramente se contrajo.
-
-La pretensión que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes o por el Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 186.
 
-NULIDAD POR TENTATIVA DE HOMICIDIO CONTRA UNO DE LOS CONYUGES. La pretensión de nulidad que proviene del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por el consorte víctima del atentado, por sus hijos o por el Ministerio Público, dentro del plazo de seis meses, contados desde que se celebró el nuevo matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 187.
 
-NULIDAD POR MIEDO Y VIOLENCIA. El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
-
-I.- Las previstas en el artículo 28 de este Código;
-
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio; y
-
-III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
-
-La pretensión que nace de esas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días, a partir de la fecha en que cesó la violencia o intimidación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 188.
 
-NULIDAD POR VICIOS Y ENFERMEDADES DEL CONYUGE. La nulidad que se funde en alguna de las causas expresadas en las fracciones VIII, IX y X del artículo 127, sólo puede ser pedida por los cónyuges dentro del plazo de sesenta días contados desde que se celebró el matrimonio.
-
-Tienen derecho de pedir la nulidad a que se refiere la fracción XI del artículo 127, el otro cónyuge o el tutor del incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 189.
 
-NULIDAD POR BIGAMIA. El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La pretensión puede deducirse por el cónyuge del primer matrimonio, o por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 190.
 
-INEXISTENCIA POR FALTA DE SOLEMNIDAD. La inexistencia que se funde en la falta de solemnidad para la existencia del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse la inexistencia a instancia del Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 191.
 
-DERECHO PARA DEMANDAR LA NULIDAD DEL MATRIMONIO. El derecho para demandar la nulidad del matrimonio corresponde a quienes la Ley lo conceda expresamente, y no es transmisible por herencia ni de cualquier otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 192.
 
-INSCRIPCION DE VALIDEZ DE LA SENTENCIA DE NULIDAD. Ejecutoriada la sentencia que declare la nulidad, el Tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: La parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 193.
 
-PRESUNCION DE VALIDEZ DEL MATRIMONIO. El matrimonio tiene a su favor la presunción de ser válido. Sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 194.
 
-BUENA FE EN EL MATRIMONIO. La buena fe se presume. El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes o desde su separación en caso contrario.
-
-Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
-
-Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 195.
 
-EFECTOS DE LA NULIDAD DEL MATRIMONIO SOBRE LAS DONACIONES ANTENUPCIALES. Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
-
-I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
-
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
-
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes; y
-
-IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 196.
 
-GRAVIDEZ DE LA MUJER AL DECLARARSE LA NULIDAD DEL MATRIMONIO. Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo III, Título Primero, Libro Séptimo del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 197.
 
-ILICITUD Y NULIDAD DEL MATRIMONIO. Es ilícito y, podrá ser causa de nulidad del matrimonio:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
-
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 130 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 129 y 204 de este Código.
-
-En los casos anteriores, la nulidad sólo podrá ser exigida por el Ministerio Público y dentro del plazo de noventa días de celebrado el matrimonio.
-
-Los que infrinjan este artículo, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO XI. DEL DIVORCIO
 
 ###### ARTICULO 198.
 
-RUPTURA DE LA UNION MATRIMONIAL. El divorcio disuelve el vínculo matrimonial, a petición de uno o de ambos cónyuges, fundada en disposición legal, promovida ante autoridad judicial de acuerdo con lo que dispone el Código Procesal Civil.
-
-Los divorciados quedarán en aptitud para contraer nuevo matrimonio, con las restricciones que este Ordenamiento establece.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 199.
 
-CAUSALES DE DIVORCIO. Son causales de divorcio:
-
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse el mismo, con persona distinta al cónyuge y que judicialmente así sea declarado;
-
-III.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando lo haya hecho directamente sino cuando se pruebe que ha recibido dinero o cualquier remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su consorte;
-
-IV.- La incitación a la violencia o este mismo hecho por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el objeto de corromper a los hijos así como la tolerancia en su corrupción y el ejercicio reiterado de la violencia física o moral cometida contra los menores de edad por cualquiera de los cónyuges.
-
-VI.- Padecer cualquier enfermedad de tipo crónico e incurable que sea además o contagiosa o hereditaria o mortal; la impotencia incurable para la cópula; así como, las alteraciones conductuales en la práctica sexual que sobrevengan después de celebrado el matrimonio;
-
-VII.- Encontrarse afectado por enfermedad mental incurable;
-
-VIII.- La separación injustificada del domicilio conyugal por más de seis meses;
-
-IX.- El incumplimiento grave y continuado de las obligaciones derivadas del matrimonio;
-
-X.- La presunción de muerte, hecha conforme a la Ley;
-
-XI.- La violencia, las amenazas, la crueldad o las injurias de un cónyuge contra el otro;
-
-XII.- La negativa injustificada de los cónyuges a cumplir con la obligación señalada en el numeral 134 de este Ordenamiento.
-
-XIII.- La acusación formal hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido uno de los cónyuges un delito intencional que no sea político, por el cual tenga que sufrir una pena de prisión mayor de tres años;
-
-XV.- Los hábitos de juego o de embriaguez o el uso persistente e ilegal de drogas estupefacientes o psicotrópicas, que amenacen la estabilidad moral o económica de la familia, o constituyan un motivo continuo de desavenencia conyugal;
-
-XVI.- Haber cometido uno de los cónyuges contra la persona o bienes del otro, un delito por el cual tenga que sufrir una pena privativa de libertad mayor de un año;
-
-XVII.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante esos tres meses, los cónyuges no están obligados a vivir juntos;
-
-XVIII.- La inseminación artificial heterogénea en la mujer o la implantación en ella de un óvulo fecundado por personas ajenas al matrimonio, sin el consentimiento del marido;
-
-XIX.- La separación del hogar conyugal por una causa que sea bastante para solicitar el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó hubiese entablado la demanda de divorcio, aunque para hacerlo debe acreditar haber cumplido con sus obligaciones alimentarias;
-
-XX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-XXI.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente cambiar o cambie de sexo; y
-
-XXII.- El mutuo consentimiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 200.
 
-PERDON EN EL DIVORCIO. Ninguna de las causas enumeradas en el artículo 199 de este Código, puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 201.
 
-PERDIDA DE LA PATRIA POTESTAD. El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todos los deberes jurídicos que tienen para con sus hijos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 202.
 
-EFECTOS EN CONTRA DEL CONYUGE CAUSANTE DEL DIVORCIO. El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 203.
 
-PENSION ALIMENTICIA DERIVADA DEL DIVORCIO. En los casos de divorcio necesario, el Juez tomando en cuenta las circunstancias del caso, entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de los alimentos en favor del inocente.
-
-En los casos de divorcio por mutuo consentimiento se respetará la voluntad de las partes expresada en el convenio, salvo que el mismo sea lesivo a alguno de ellos, en cuyo caso se oirá la opinión del Ministerio Público.
-
-Cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 204.
 
-POSIBILIDAD DE LOS DIVORCIADOS PARA CONTRAER NUEVAS NUPCIAS. El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se declaró el divorcio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO CUARTO. DE LA RELACION DE LOS ASCENDIENTES CON LOS HIJOS
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LA PATERNIDAD Y LA MATERNIDAD
 
 ###### ARTICULO 205.
 
-DERECHOS Y DEBERES DE LOS PADRES PARA CON LOS HIJOS. Las facultades que la Ley atribuye a los padres respecto de la persona y bienes de los hijos se les confieren a través de su ejercicio para que cumplan plenamente con los deberes que les imponen la paternidad y la maternidad, entre los cuales se encuentran los de proporcionar a los hijos:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Un ambiente familiar y social propicio para lograr en condiciones normales el desarrollo espiritual y físico de éstos;
-
-II.- Una educación en los términos del artículo 102 de este ordenamiento.
-
-III.- Una conducta positiva y respetable que sirva de ejemplo a éstos y coadyuve a realizar las finalidades de la paternidad y de la maternidad;
-
-IV.- Los alimentos, conforme a lo dispuesto en el Capítulo III, Título segundo, Libro segundo de este Código; y
-
-V.- Una familia estable y solidaria de manera que constituya un medio adecuado para el desarrollo del amor y atenciones que requiere el desenvolvimiento de la personalidad de los hijos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LOS HIJOS DE MATRIMONIO
 
 ###### ARTICULO 206.
 
-PRESUNCION FILIAL EN EL MATRIMONIO. Se presumen hijos de los cónyuges:
-
-I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio; y
-
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de su nulidad, de muerte del marido o de divorcio.
-
-Este plazo se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 207.
 
-CONTRADICCION DE LA PRESUNCION FILIAL. Contra la presunción establecida en el artículo anterior sólo se admiten como pruebas: La de haber sido físicamente imposible al marido tener acceso carnal con su mujer, o engendrar hijos con ella en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 208.
 
-DESCONOCIMIENTO DE LOS HIJOS POR ADULTERIO DE LA MADRE. El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa o no podía engendrar hijos con ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 209.
 
-DESCONOCIMIENTO DE LOS HIJOS NACIDOS DESPUES DE LA SEPARACION PROVISIONAL. El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste tendrán pretensión para demostrar que el marido es el padre.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 210.
 
-IMPOSIBILIDAD DE DESCONOCER LA PATERNIDAD. El marido no podrá desconocer que es el padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
-
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; y
-
-II.- Cuando el marido concurrió al levantamiento del acta de nacimiento del presunto hijo, o lo reconoció expresamente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 211.
 
-FILIACION DEL HIJO NACIDO EN SEGUNDAS NUPCIAS. Si la viuda, la divorciada, o la mujer cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del periodo prohibido por el artículo 129, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
-
-I.- Se presume que el hijo es el del primer marido si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
-
-II.- Se presume que el hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, probará plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye; y
-
-III.- El hijo se presume nacido fuera del matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 212.
 
-CONTRADICCION DE LA PATERNIDAD POR EL MARIDO Y ARBITRAJE Y TRANSACCION EN MATERIA DE FILIACIÓN. En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su pretensión dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Si el marido está bajo tutela por disminución o perturbación en su inteligencia, u otro motivo que le impida gobernarse por sí mismo, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento. Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
-
-Los herederos del marido, excepto en el caso del párrafo segundo de este artículo, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
-
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
-
-Sobre la filiación no puede haber compromiso en árbitros, cláusula compromisoria ni transacción.
-
-Puede haber transacción o arbitramiento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LAS PRUEBAS DE LA FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO
 
 ###### ARTICULO 213.
 
-PRUEBA DE LA FILIACION POR ACTAS DEL REGISTRO CIVIL. La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 214.
 
-MEDIOS DE PRUEBA A FALTA O POR IRREGULARIDADES EN LAS ACTAS. A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que el Código Procesal Civil autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren graves para determinar su admisión.
-
-Si uno solo de los registros faltare o estuviera inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitir la de otra clase.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 215.
 
-PRUEBA DE LA FILIACION POR FALTA DE ACTA DE MATRIMONIO DE LOS PADRES. Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o por enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tiene la posesión de estado de hijos de ellos o que, por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 216.
 
-PRESUNCION DE ESTADO DE HIJO DE MATRIMONIO. Si un individuo ha sido reconocido constantemente como hijo de matrimonio, por las familias de los cónyuges y en la sociedad, quedará probada la posesión de estado de hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
-
-I.- Que el hijo haya usado constantemente los apellidos de los que pretende son sus padres, con anuencia de éstos;
-
-II.- Que los padres lo hayan tratado como a hijo nacido de matrimonio, proveyendo a su subsistencia, educación y establecimiento; y
-
-III.- Que los presuntos padres tengan la edad exigida por el artículo 224 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 217.
 
-LA NULIDAD DE MATRIMONIO NO MODIFICA LA CALIDAD DE LOS HIJOS. Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se considerarán como hijos de matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 218.
 
-RECLAMACION DE LA FILIACION DEL MARIDO. No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 219.
 
-PRETENSIONES CIVILES CONTRA LOS HIJOS DE MATRIMONIO. Las pretensiones civiles que se intenten contra el hijo por los bienes que ha adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetará a las reglas comunes para la prescripción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 220.
 
-PRETENSION DEL HIJO Y SUS HEREDEROS PARA RECLAMAR SU ESTADO. La pretensión que compete al hijo para reclamar su estado, es imprescriptible para él, sus descendientes y sus demás herederos.
-
-Dicha pretensión podrá intentarse tanto durante la vida de los padres, como después de su muerte.
-
-Los herederos que no sean los descendientes del hijo, podrán intentar la pretensión si el hijo ha muerto o si éste cayó en estado de incapacidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 221.
 
-OPORTUNIDAD Y CONTINUACION DE LA PRETENSION INTENTADA POR EL HIJO. Los herederos podrán continuar la pretensión intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella o nada hubiere promovido judicialmente durante ciento ochenta días contados desde la última diligencia.
-
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que los herederos, si el hijo no dejó bienes suficientes para pagarles.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 222.
 
-PERDIDA DE LA POSESION DE HIJO DE MATRIMONIO. La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que establezca el Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LA FILIACION DE LOS HIJOS NACIDOS FUERA DE MATRIMONIO
 
 ###### ARTICULO 223.
 
-RELACION FILIAL DE LOS NACIDOS FUERA DE MATRIMONIO. La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del solo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 224.
 
-QUIENES PUEDEN RECONOCER O ADMITIR A SUS HIJOS. Pueden el padre reconocer o la madre admitir a sus hijos, cuando tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido o admitido.
-
-El menor de edad no puede reconocer o admitir a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de ésta, sin la autorización judicial.
-
-No obstante, el reconocimiento o admisión hecho por un menor será nulo si prueba que sufrió error o engaño al hacerlo, pudiendo intentar la pretensión de nulidad hasta cuatro años después de la mayor edad.
-
-Los padres pueden reconocer o admitir a su hijo conjunta o separadamente.
-
-El reconocimiento o admisión hecho por uno de los padres produce efectos respecto de él y no respecto del otro progenitor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 225.
 
-RECONOCIMIENTO O ADMISION DEL HIJO NO NACIDO Y DEL FALLECIDO. Puede reconocerse o admitirse al hijo que no haya nacido y al que ha muerto si ha dejado descendencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 226.
 
-IRREVOCABILIDAD DEL RECONOCIMIENTO O DE LA ADMISION. El reconocimiento o admisión no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tendrán por revocados aquéllos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 227.
 
-CONTRADICCION DEL RECONOCIMIENTO O DE LA ADMISION. El Ministerio Público tendrá pretensión contradictoria del reconocimiento o admisión de un menor de edad, cuando se hubiere efectuado en perjuicio de éste.
-
-La misma pretensión tendrá el progenitor que reclame para sí tal carácter con exclusión de quien hubiere hecho el reconocimiento o admisión indebidamente o para el solo efecto de la exclusión de la paternidad.
-
-El tercero afectado por obligaciones derivadas del reconocimiento o admisión ilegalmente efectuado podrá contradecirlo en vía de defensa.
-
-En ningún caso procede impugnar el reconocimiento o admisión por causa de herencia para privar de ella al menor reconocido o admitido.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 228.
 
-FORMAS PARA HACER EL RECONOCIMIENTO O LA ADMISION. El reconocimiento o la admisión de un hijo nacido fuera del matrimonio deberá hacerse por alguno de los modos siguientes:
-
-I.- En la partida de nacimiento ante el Oficial del Registro Civil;
-
-II.- Por acta especial ante el mismo Oficial;
-
-III.- Por escritura pública;
-
-IV.- Por testamento; y
-
-V.- Por confesión judicial directa y expresa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 229.
 
-RECONOCIMIENTO O ADMISION POR UNO SOLO DE LOS PADRES Y PROHIBICION DE REVELAR LA IDENTIDAD DEL OTRO. Cuando el padre reconozca o la madre admita separadamente a un hijo, no podrán revelar en el acto del reconocimiento o admisión el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por la que aquélla pueda ser identificada. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 230.
 
-ADMISION DEL HIJO PREVIO AL MATRIMONIO. La mujer casada podrá admitir al hijo habido antes de su matrimonio sin el consentimiento del otro consorte; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con el consentimiento expreso del otro cónyuge.
-
-También el marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 231.
 
-HIJO DE MUJER CASADA DESCONOCIDO POR EL MARIDO. El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 232.
 
-CONSENTIMIENTO FILIAL PARA SU RECONOCIMIENTO. El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el Juez le nombrara especialmente para el caso.
-
-Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
-
-El plazo para deducir esta pretensión será de dos años, que comenzarán a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 233.
 
-COMPORTAMIENTO PERMANENTE EN LA MATERNIDAD PARA PEDIR LA CUSTODIA. La mujer que por comportamiento permanente cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 234.
 
-RECONOCIMIENTO CONTRADICHO POR LA MADRE. Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 235.
 
-RECONOCIMIENTO Y ADMISION EN EL MISMO ACTO CON RELACION A LA CUSTODIA. Cuando el padre y la madre que no vivan juntos reconozcan o admitan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia, y en caso de que no lo hicieren, el Juez de lo Familiar del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 236.
 
-RECONOCIMIENTO Y ADMISION SUCESIVOS POR LOS PADRES QUE NO VIVAN JUNTOS. En el caso de que el reconocimiento o admisión se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la custodia el que primero lo hubiere hecho, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de lo Familiar del lugar no estimare necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 237.
 
-INVESTIGACION PERMITIDA DE LA PATERNIDAD. La investigación de la paternidad de los hijos nacidos fuera del matrimonio está permitida:
-
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
-
-II.- Cuando el hijo esté o haya estado en posesión de estado de hijo respecto al presunto padre. La posesión de estado se justificará demostrando, por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por su familia como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento;
-
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre hacía vida marital con el presunto padre; y
-
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 238.
 
-PRESUNCION DE HIJOS EN EL CONCUBINATO. Se presumen hijos de los concubinos:
-
-I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato; y
-
-II.- Los nacidos dentro de los trescientos días contados a partir de que cesó la vida común entre los concubinos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 239.
 
-INVESTIGACION DE LA MATERNIDAD. Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios legales ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
-
-No obstante lo dispuesto en la parte final del párrafo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 240.
 
-LA MATERNIDAD O PATERNIDAD NO SE PRESUMEN POR DAR ALIMENTOS. El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 241.
 
-PLAZO PARA EJERCITAR LAS PRETENSIONES DE PATERNIDAD O MATERNIDAD. Las pretensiones de investigación de paternidad o maternidad sólo podrán intentarse en vida de los padres. Si éstos hubieren fallecido durante la menor edad de los hijos, éstos tendrán derecho de intentar la pretensión antes que se cumplan cuatro años de su mayor edad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 242.
 
-DERECHOS DE LOS HIJOS RECONOCIDOS O ADMITIDOS. El hijo reconocido por el padre, o admitido por la madre, o por ambos, así como el que haya acreditado su filiación en los términos de los artículos precedentes, tienen derecho a:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Llevar el apellido del que lo reconoce o admite, o respecto del cual haya acreditado su filiación;
-
-II.- Ser alimentado por quien lo reconoció o admitió y sus ascendientes; y
-
-III.- Percibir la porción hereditaria que fije la Ley, o en su caso los alimentos correspondientes, si no fuere instituido heredero en el caso de sucesión testamentaria.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LA ADOPCION
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
-
 ###### ARTICULO 243.
 
-DISPOSICIONES GENERALES. La adopción es la institución jurídica por medio de la cual a través de una resolución judicial, se integra a un menor o a un incapacitado, aún cuando éste sea mayor de edad, a una familia en calidad de hijo, con todos los derechos y obligaciones de un hijo consanguíneo.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 243-A.
 
-QUIENES PUEDEN ADOPTAR. Los mayores de veintiocho años y menores de cincuenta y ocho años en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga, como mínimo, diecisiete años más que el adoptado y que la adopción sea benéfica para éste, acreditando:
-
-I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, según las circunstancias de la persona que trata de adoptar;
-
-II.- Que el adoptante sea persona de buenas costumbres, y que su condición de salud le permita atender el desarrollo integral del adoptado; y
-
-III.- Su identidad, entorno social y motivos para adoptar.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 244.
 
-ADOPCION POR CONYUGES. Los consortes en pleno ejercicio de sus derechos, podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
-
-Nadie puede ser adoptado por más de una persona, salvo en el caso anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 245.
 
-ADOPCION POR EL TUTOR. El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 246.
 
-IMPUGNACION DE LA ADOPCION POR EL ADOPTADO. El menor o incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 247.
 
-RECIPROCIDAD DE DERECHOS Y OBLIGACIONES ENTRE ADOPTANTES Y ADOPTADOS. El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
-
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 248.
 
-PROCEDIMIENTO Y EFECTOS JUDICIALES DE LA ADOPCION. El procedimiento regulado en los artículos 838 al 848 del Código Procesal Civil terminará con resolución judicial que al causar ejecutoria autorizando la adopción, quedará ésta consumada.
-
-El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 249.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2005)
+(DEROGADO, P.O. 15 DE JUNIO DE 2005) (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS [N. DE E. REPUBLICADO], P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 250.
 
-EFECTOS DE LA ADOPCION RESPECTO DEL PARENTESCO NATURAL. Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
-
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 251.
 
-REGULACION PROCESAL DE LA REVOCACION DE LA ADOPCION. El procedimiento y los efectos de la revocación se reglamentan en los numerales 842 al 848 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2005)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LOS EFECTOS Y PROCEDIMIENTO DE LA ADOPCION
 
 ###### ARTICULO 252.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2005)
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO, P.O. 15 DE JUNIO DE 2005) (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS [N. DE E. REPUBLICADO], P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 253.
 
-EFECTOS DE LA ADOPCIÓN. La adopción tiene los siguientes efectos:
-
-I.- Podrán ser adoptados los menores de edad, incapaces, abandonados o expósitos, acogidos o entregados a una institución de asistencia autorizada para promover su adopción, e incapacitados aún cuando sean mayores de edad siempre que la adopción sea benéfica.
-
-Para efectos de este Código el menor expósito es aquél del se desconoce quienes son sus padres o familiares, y que posterior a tres meses de que fue acogido por una institución pública o privada, ha sido declarado ministerialmente en estado de exposición.
-
-Se entiende por menor abandonado el acogido por una institución pública o privada de protección a menores, cuyos padres se han desinteresado de él durante tres meses y que ha sido declarado ministerialmente en estado de abandono;
-
-II.- La patria potestad se ejercerá en los términos y por las personas señaladas en este Código para los hijos consanguíneos; y
-
-III. El adoptado se integrará a la familia de los adoptantes, adquiriendo lazos de parentesco con todos los parientes de éstos, como si hubiera filiación consanguínea; correlativamente se extinguirá toda relación de parentesco con sus parientes naturales.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 254.
 
-PROCEDIMIENTO. La adopción requerirá de aprobación judicial, cuyo trámite se hará conforme al procedimiento establecido en el Capítulo VII, del Título Primero, del Libro Séptimo del Código Procesal Civil en lo conducente y atentas las disposiciones del presente Capítulo.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 255.
 
-INTERVENCION DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo procedimiento relativo a la adopción, tendrá intervención como parte al Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Defensa del Menor y la Familia.
-
-El sistema para el Desarrollo Integral de la Familia en Morelos, a través de la Procuraduría de la Defensa del Menor y la Familia, deberá realizar el seguimiento del otorgamiento en adopción de acuerdo a lo establecido en el Reglamento para Adopción de Menores.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 256.
 
-EFECTOS EN EL REGISTRO CIVIL. La resolución que apruebe la adopción ordenará al Oficial del Registro Civil que levante acta de nacimiento, en la que figurarán como padres los adoptantes y como abuelos los padres de éstos, sin hacer mención de la adopción. También ordenará la cancelación, en su caso, del acta de nacimiento del adoptado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-La resolución judicial se guardará en el apéndice del acta, quedando absolutamente prohibido dar información sobre ella, excepto en los siguientes casos y siempre que sea por orden de Juez competente:
-
-I. Para efectos de impedimento para contraer matrimonio, y
-
-II. Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; si fuere menor de edad se requerirá el consentimiento del o los adoptantes.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DE LA ADOPCION INTERNACIONAL
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ###### ARTICULO 256-A.
 
-MARCO JURIDICO.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; se regirá por la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional y por los tratados internacionales que el Estado Mexicano suscriba y ratifique posteriormente.
-
-Las adopciones internacionales siempre serán plenas.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 256-B.
 
-NACIONALIDAD DE LOS ADOPTANTES.- En igualdad de circunstancias se preferirá a los adoptantes mexicanos, salvo que quien ejerza la patria potestad o la tutela sobre el menor consienta en la adopción internacional. En tal caso, deberá obtener la autorización del Sistema para el Desarrollo integral de la Familia del Estado de Morelos, el que tomará en cuenta el interés superior del niño.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 256-C.
 
-INTERVENCION DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en su carácter de autoridad central, verifique y determine:
-
-I. Que el menor es adoptable;
-
-II. Que después de haber examinado adecuadamente las posibilidades de colocación del menor, se vea que la adopción es una alternativa viable, segura para su formación integral y responde al interés superior del menor;
-
-III. Que las personas, instituciones y autoridades, cuyo consentimiento se requiera para la adopción, han sido técnicamente asesoradas por personal especializado y debidamente informadas de las consecuencias de su consentimiento, el cual debe otorgarse libremente, sin que medie pago o compensación de clase alguna y constar por escrito; y
-
-IV. Que las autoridades centrales del estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos reúnen el perfil y características idóneas, están aptos para adoptar, y que el menor ha sido o será autorizado para entrar y residir permanentemente en ese país.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 256-D.
 
-EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO QUINTO. DE LA PATRIA POTESTAD
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO UNICO. DE LA PATRIA POTESTAD
 
@@ -1849,2009 +1415,1439 @@ EFECTOS RELATIVOS A LA PERSONA DE LOS HIJOS
 
 ###### ARTICULO 257.
 
-CUIDADO Y RESPETO A LOS ASCENDIENTES. Los descendientes, cualquiera que sea su estado, edad y condición, deben proporcionar cuidado, honrar y respetar a sus ascendientes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 258.
 
-SUJECION DE LOS MENORES NO EMANCIPADOS A LA PATRIA POTESTAD. Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deba ejercerla conforme a la ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 259.
 
-SUJETOS ACTIVOS Y PASIVOS DE LA PATRIA POTESTAD. La patria potestad se ejerce sobre la persona y los bienes de los sujetos a ella.
-
-La patria potestad se ejerce por el padre y la madre del menor no emancipado o del mayor incapacitado, y a falta o por imposibilidad de ambos por los abuelos paternos o maternos.
-
-Su ejercicio tiene como contenido la protección integral del incapaz en sus aspectos físico, moral y social, e implica el deber de su guarda y educación.
-
-En el caso de controversia entre los obligados, el Juez de lo Familiar resolverá quién o quiénes de éstos la ejercerán definitivamente tomando en consideración las circunstancias del caso en forma fundada y razonada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 260.
 
-EJERCICIO CONJUNTO O SEPARADO DE LA PATRIA POTESTAD. Cuando los dos progenitores han reconocido y admitido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad.
-
-Si viven separados, se observará en su caso lo dispuesto en los artículos 235 y 236 de este Código.
-
-Cuando por cualquier circunstancia deje de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro y, en ausencia de ambos, los abuelos paternos o maternos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 261.
 
-PATRIA POTESTAD SOBRE EL HIJO NACIDO FUERA DE MATRIMONIO. Cuando los padres del hijo nacido fuera del matrimonio que vivían juntos se separen, continuarán ejerciendo la custodia. En caso de que no se pongan de acuerdo sobre ese punto, lo hará el progenitor que designe el Juez, teniendo siempre en cuenta los intereses del hijo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 262.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2005)
+(DEROGADO, P.O. 15 DE JUNIO DE 2005) (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS [N. DE E. REPUBLICADO], P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 263.
 
-PROHIBICION DEL SUJETO A PATRIA POTESTAD PARA ABANDONAR EL DOMICILIO FAMILIAR. Mientras se mantenga la patria potestad, el sujeto a ella no podrá dejar la casa de los que la ejercen, sin permiso de ellos o de la autoridad judicial competente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 264.
 
-INTERVENCION DEL MINISTERIO PUBLICO Y DE OTRAS AUTORIDADES PARA EXIGIR EL CUMPLIMIENTO DE LA PATRIA POTESTAD. Cuando llegue al conocimiento del Ministerio Público o de los Consejos Locales de Tutela, siempre con vista al primero, que las personas en ejercicio de la patria potestad no cumplen con las obligaciones consignadas en este Capítulo, lo informarán al Juzgado de lo Familiar para que se provea a la designación de un tutor especial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 265.
 
-FACULTAD DE CORRECCION MESURADA Y OBLIGACION DE BUENA CONDUCTA EJEMPLAR. Los que ejerzan la patria potestad o tengan hijos bajo su custodia tienen la facultad de corregirlos mesuradamente y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
-
-Las autoridades competentes, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-La facultad de corregir no implica inflijir (sic) al menor actos de fuerza que atente contra su integridad física o psíquica en los términos de lo dispuesto en el artículo 84 Bis de este Código, por lo tanto los llamados de atención y exhortos que hagan los padres o tutores para el buen comportamiento y adecuada convivencia de todos los integrantes del núcleo familiar, de ninguna manera justifican el ejercicio reiterado de la violencia física o moral contra los menores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 266.
 
-INCAPACIDAD DEL SUJETO A PATRIA POTESTAD PARA OBLIGARSE Y COMPARECER EN JUICIO. El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de disenso, resolverá el Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 267.
 
-REPRESENTACION Y ADMINISTRACION DE LOS QUE EJERCEN LA PATRIA POTESTAD. Los que ejercen la patria potestad son legítimos representantes de los que están bajo ella, y tienen la administración legal de los bienes que les pertenecen.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 268.
 
-ADMINISTRACION CONJUNTA. Cuando la patria potestad se ejerza a la vez por el padre y por la madre; o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 269.
 
-AUTORIZACION JUDICIAL DEL QUE EJERCE LA PATRIA POTESTAD. La persona que ejerza la patria potestad representará también a los sujetos a ella en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la Ley lo requiera expresamente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 270.
 
-CLASES DE BIENES DEL SUJETO A PATRIA POTESTAD. Los bienes del sujeto a patria potestad, mientras se encuentre bajo ésta, se clasifican en:
-
-I.- Bienes que adquiera por su trabajo; y
-
-II.- Bienes que adquiera por cualquier otro título.
-
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo a quien esté sujeto a la patria potestad.
-
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al sujeto a patria potestad; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los sujetos a patria potestad adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al sujeto a patria potestad o que se destine a un fin determinado, se estará a lo dispuesto en aquellos actos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 271.
 
-RENUNCIA A LOS DERECHOS OTORGADOS LEGALMENTE A LOS QUE EJERCEN LA PATRIA POTESTAD. Quienes ejercen la patria potestad pueden renunciar expresamente a los derechos que les concede el artículo anterior.
-
-La renuncia del usufructo hecha en favor del sujeto a patria potestad se considera como donación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 272.
 
-REDITOS Y RENTAS VENCIDAS A FAVOR DEL SUJETO A PATRIA POTESTAD. Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al sujeto a patria potestad, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 273.
 
-OBLIGACIONES ALIMENTARIAS Y DEL USUFRUCTUARIO A CARGO DE LOS QUE EJERCEN LA PATRIA POTESTAD. El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones alimentarias que expresa el Capítulo III del Título segundo del Libro segundo, y además, las impuestas a los usufructuarios, con excepción de la obligación de dar caución, fuera de los casos siguientes:
-
-I.- Cuando los que ejerzan la patria potestad han sido declarados en quiebra, o estén concursados;
-
-II.- Cuando contraigan ulteriores nupcias; y
-
-III.- Cuando su administración sea notoriamente ruinosa para los sujetos a patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 274.
 
-EXTINCION DEL USUFRUCTO DE LOS QUE EJERCEN LA PATRIA POTESTAD. El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
-
-I.- Por la emancipación o la mayor edad de los sujetos a patria potestad o por la terminación de la incapacidad cuando sean mayores;
-
-II.- Por la pérdida de la patria potestad; y
-
-III.- Por renuncia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 275.
 
-ADMINISTRACION POR EL SUJETO A PATRIA POTESTAD SOLTERO. Cuando el sujeto a patria potestad no esté casado y tenga la administración de los bienes, se le considerará respecto de dicha administración como emancipado con la restricción que establece la Ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 276.
 
-PROHIBICION DE DISPONIBILIDAD DE BIENES A LOS QUE EJERCEN LA PATRIA POTESTAD. Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al sujeto a patria potestad sino por causa de absoluta necesidad o de evidente beneficio y previa la autorización del Juez competente.
-
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de renta, acciones, frutos y ganados por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los sujetos a patria potestad o remisión voluntaria de los derechos de éstos, ni dar caución en representación de los sujetos a patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 277.
 
-AUTORIZACION JUDICIAL POR ENAJENAR BIENES A LOS QUE EJERCEN LA PATRIA POTESTAD. Siempre que el Juez conceda licencia a los que ejerzan la patria potestad, para enajenar un bien inmueble, mueble precioso o título valor perteneciente al incapaz mandará a valuar dichos bienes, determinará si dispensa la subasta pública conforme a las circunstancias del caso y hará que con el producto de la venta se realicen inmediatamente inversiones seguras para el incapaz, las que deberá comprobar satisfactoriamente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 278.
 
-RENDICION DE CUENTAS SOBRE LA ADMINISTRACION. Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los sujetos a patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 279.
 
-OPOSICION DE INTERESES ENTRE LOS SUJETOS DE LA PATRIA POTESTAD. En todos los casos en que las personas que ejerzan la patria potestad tengan un interés opuesto al de los sujetos a patria potestad, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el Juez para cada caso.
-
-Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejerzan la patria potestad, los bienes del sujeto a la patria potestad se derrochen o se disminuyan.
-
-Estas medidas se tomarán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, del tutor nombrado al mayor incapaz o del Ministerio Público en todo caso.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 280.
 
-DEVOLUCION DE BIENES Y FRUTOS AL TERMINAR LA PATRIA POTESTAD. Las personas que ejerzan la patria potestad deben entregar a los sujetos a ella, luego que éstos se emancipen o lleguen a la mayor edad, o cese la incapacidad, todos los bienes y frutos que les pertenecen.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 281.
 
-TERMINACION DE LA PATRIA POTESTAD. La patria potestad se acaba:
-
-I.- Con la muerte del que la ejerce si no hay otra persona en quien recaiga;
-
-II.- Con la emancipación;
-
-III.- Por la mayor edad del sujeto a patria potestad; y
-
-IV.- Por cese de la incapacidad del mayor sujeto a ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 282.
 
-PERDIDA DE LA PATRIA POTESTAD. La patria potestad se pierde por cualquiera de las siguientes causas:
-
-I.- Cuando el que la ejerza es condenado judicialmente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
-
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 822, fracción I del Código Procesal Civil;
-
-III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y
-
-> <small>(REFORMADA P.O. 15 DE JUNIO DE 2005)</small>
-
-IV.- Por la exposición o el abandono del sujeto a patria potestad que dure hasta tres meses, por quien ejerza ésta conforme a la Ley.
-
-En el caso de ulteriores nupcias de quien ejerza la patria potestad, no confiere al cónyuge nuevo el derecho de su ejercicio respecto de las personas que están sujetas a ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 283.
 
-CONTINUIDAD DE LA PATRIA POTESTAD. La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
-
-El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 284.
 
-SUSPENSIÓN DEL EJERCICIO DE LA PATRIA POTESTAD. El ejercicio de la patria potestad se suspende:
-
-I.- Por incapacidad declarada judicialmente;
-
-II.- Por la ausencia declarada en forma;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-III.- Por la sentencia condenatoria que imponga como pena esta suspensión;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-IV.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 822, fracción II del Código Procesal Civil; y
-
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-V.- Cuando el que la ejerce incurra en conductas de violencia familiar prevista en el artículo 85 Bis de este Código, en contra de las personas contra las cuales la ejerza.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 285.
 
-IRRENUNCIABILIDAD DE LA PATRIA POTESTAD. La patria potestad no es renunciable pero aquellas a quien corresponde ejercerla pueden excusarse, cuando por su avanzada edad o por su mal estado de salud no puedan cumplir con ella.
-
-Sin embargo, el Juez de lo Familiar podrá privar de ella a quienes la ejercen o modificarla cuando existan razones suficientes que determinen condiciones mejores para quienes estén sujetos a ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 286.
 
-PATRIA POTESTAD DEL HIJO MENOR DE UN INCAPACITADO. Los hijos menores de un incapacitado quedarán bajo la patria potestad de la persona capaz a quien le corresponda conforme a la Ley, y no habiéndola se le proveerá de tutor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO SEXTO. DE LA TUTELA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 287.
 
-PROPOSITO DE LA TUTELA. El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, conforme a lo dispuesto por el artículo 63 de este Código, o solamente la segunda, para gobernarse por sí mismo. La tutela puede también tener por objeto la representación interina del incapaz de los casos especiales que señale la Ley.
-
-En su ejercicio se procurará preferentemente la reintegración total del incapacitado dentro del medio social en que hubiere estado ubicado, en los términos del párrafo tercero del artículo 259 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 288.
 
-INTERES PUBLICO DE LA TUTELA. La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
-
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
-
-Mientras que se nombra tutor, el Juez de lo Familiar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 289.
 
-ORGANOS INTERVINIENTES EN LA TUTELA. La tutela se desempeñará por el tutor con intervención del curador, del Juez de lo Familiar y del Consejo Local de Tutelas, en los términos establecidos por este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 290.
 
-LIMITACIONES EN EL DESEMPEÑO DE LA TUTELA. Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
-
-El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de dos incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de dos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 291.
 
-OPOSICION DE INTERESES DE INCAPACES. Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que el mismo designe, mientras se decide el punto de oposición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 292.
 
-IMPEDIMENTOS PARA SER TUTOR Y CURADOR. Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
-
-No pueden ser nombrados tutores o curadores las personas que sean Jueces de lo Familiar y las que integren los Consejos Locales de Tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 293.
 
-OBLIGACION DE NOTIFICAR EL FALLECIMIENTO DEL QUE EJERCE LA PATRIA POTESTAD SOBRE UN INCAPAZ. Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado, los parientes y en general las personas con quien haya vivido están obligados a dar aviso del fallecimiento al Juez de lo Familiar, y de no hacerlo en el plazo de ocho días, se les impondrá por el referido Juez una multa no menor del importe de veinte días del salario mínimo general fijado para el lugar en que tenga su domicilio el incapacitado.
-
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales, tienen obligación de dar aviso a los jueces de lo familiar en los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 294.
 
-CLASES DE TUTELA. La tutela es testamentaria, legítima, dativa o preventiva.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 295.
 
-DECLARACION JUDICIAL DEL ESTADO DE INCAPACIDAD PREVIA AL EJERCICIO DE LA TUTELA. Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código Procesal Civil, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 296.
 
-DERECHO DE AUDIENCIA EN LA REMOCION DE TUTORES Y CURADORES. Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 297.
 
-LOS INCAPACITADOS Y ABANDONADOS DEBERAN ESTAR SUJETOS A TUTELA. Los menores abandonados, y quienes estén comprendidos en alguna de las hipótesis establecidas en las fracciones II y III del artículo 63 de este Ordenamiento, estarán sujetos a tutela mientras persista la incapacidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTÍCULO 298.
 
-DURACION DEL CARGO DE TUTOR. El cargo de tutor de los incapaces comprendidos en las fracciones II y III del artículo 63 durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserven ese carácter. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
-
-La interdicción regulada por el párrafo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 299.
 
-CUIDADO PROVISIONAL DE LA PERSONA Y BIENES DEL INCAPACITADO. El Juez de lo Familiar del domicilio del incapacitado y si no lo hubiere, el Juez de Primera Instancia así como el Juez Menor en su caso, cuidarán provisionalmente de la persona y bienes del incapacitado debiendo nombrar un tutor provisional en un plazo no mayor de diez días.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-El Juez que no cumpla con las prescripciones del párrafo anterior relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTICULO 300.
 
-DERECHO DEL ASCENDIENTE A NOMBRAR TUTOR TESTAMENTARIO. El ascendiente que en forma exclusiva ejerza la patria potestad puede nombrar tutor testamentario a aquellos sobre quienes la ejerce, incluyendo a los hijos póstumos.
-
-El nombramiento de tutor testamentario, hecho en los términos del párrafo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados, de conformidad con lo dispuesto por el artículo 259 de este Ordenamiento.
-
-Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes. A no ser que el testador haya dispuesto expresamente que continúe la tutela.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 301.
 
-TUTOR TESTAMENTARIO COMUN. Si fueren varios los menores podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 291 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 302.
 
-PLURALIDAD DE TUTORES. El testador puede establecer que los tutores deben sucederse en el desempeño de la tutela.
-
-Si el testador no hubiere señalado dicho orden y nombró varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 303.
 
-MODIFICACION O DISPENSA JUDICIAL A LA ADMINISTRACION DE LA TUTELA TESTAMENTARIA. Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el Juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 304.
 
-PROVISION JUDICIAL DE TUTOR INTERINO. Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 305.
 
-TUTOR TESTAMENTARIO DESIGNADO POR EL ADOPTANTE. El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 306.
 
-CAUCION DEL TUTOR TESTAMENTARIO. Cuando el testador no releve expresamente al tutor de la obligación de garantizar su manejo, éste se caucionará conforme a las siguientes reglas:
-
-I.- Por el importe de las rentas de los bienes raíces en los dos últimos años, y por los réditos de los capitales impuestos durante ese mismo tiempo;
-
-II.- Por el valor de los bienes muebles;
-
-III.- Por el de los productos de las fincas rústicas en dos años calculados por peritos, o por el término medio en un quinquenio, a elección del Juez; y
-
-IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros o a juicio de peritos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 307.
 
-PROPORCIONALIDAD EN LA CAUCION DEL TUTOR TESTAMENTARIO. Si los bienes del incapacitado aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la caución.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LA TUTELA LEGITIMA
 
 ###### ARTICULO 308.
 
-PROCEDENCIA DE LA TUTELA LEGITIMA. La tutela legítima tiene lugar:
-
-I.- Cuando no haya quien ejerza la patria potestad, ni tutor testamentario; y
-
-II.- Cuando deba nombrarse tutor por causa de divorcio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 309.
 
-SUJETOS PREFERENCIALES PARA EL DESEMPEÑO DE LA TUTELA LEGITIMA. La tutela legítima corresponde por su orden:
-
-I.- Al cónyuge si lo hubiere cualquiera que fuera su sexo;
-
-II.- A los ascendientes inmediatos en línea recta;
-
-III.- A los hijos mayores de edad cuando sus ascendientes estuvieren libres de matrimonio;
-
-IV.- A los hermanos sin distinción de sexo, prefiriéndose a los que sean por ambas líneas;
-
-V.- A los demás parientes colaterales inmediatos hasta el cuarto grado inclusive;
-
-VI.- A los hijos mayores de edad respecto de su padre o madre viudos incapaces;
-
-VII.- A las personas que hubieren acogido a los expósitos; y
-
-VIII.- A los directores de instituciones de beneficencia, asistencia o similares quienes no requerirán discernimiento del cargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 310.
 
-ELECCION DEL TUTOR EN CASO DE IGUALDAD DE PARENTESCO. Si hubiere varios parientes del mismo grado, y entre ellos se discutiere la preferencia en el desempeño de la tutela, el Juez elegirá al que de ellos le parezca más apto para el cargo a menos que el menor de edad, mayor de dieciséis años, lleve a cabo la elección.
-
-Cuando haya dos o más hijos, el Juez elegirá al que le parezca más apto y podrá ser preferido el que viva en compañía del padre o de la madre.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 311.
 
-SUPLENCIA DE LA FALTA TEMPORAL DEL TUTOR LEGITIMO. La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LA TUTELA DATIVA
 
 ###### ARTICULO 312.
 
-SUPUESTOS DE LA TUTELA DATIVA. La tutela dativa tiene lugar:
-
-I.- Cuando no hay tutor testamentario ni persona a quien conforme a la Ley corresponda la tutela legítima; y
-
-II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 309 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 313.
 
-DESIGNACION DEL TUTOR DATIVO POR EL MENOR. El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez de lo Familiar confirmará la designación oyendo el parecer del Consejo Local de Tutelas.
-
-Si no se aprueba el nombramiento hecho por el menor, el Juez designará tutor conforme a lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 314.
 
-NOMBRAMIENTO JUDICIAL DEL TUTOR DATIVO. Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de lo Familiar de entre las personas que figuren en la lista formada cada año de acuerdo al artículo 870 del Código Procesal Civil, oyendo al Consejo Local de Tutelas y al Ministerio Público, quienes deben cuidar que quede comprobada la honorabilidad de la persona elegida para tutor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 315.
 
-RESPONSABILIDAD CIVIL DEL JUEZ POR FALTA DE OPORTUNIDAD AL DESIGNAR TUTOR DATIVO. Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 316.
 
-TUTELA DATIVA PARA ASUNTOS JUDICIALES. Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado, salvo el caso previsto en la fracción II del artículo 308 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 317.
 
-PERSONAS QUE PUEDEN SOLICITAR O DESEMPEÑAR LA TUTELA DATIVA DE MENORES QUE NO TENGAN BIENES. A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, y aun de oficio por el Juez de lo Familiar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 318.
 
-NOMBRAMIENTO DE TUTOR DATIVO DE MENORES CON BIENES. Si el menor que se encuentre en el caso previsto por el artículo anterior tuviere o adquiriere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LA TUTELA PREVENTIVA
 
 ###### ARTICULO 319.
 
-POSIBILIDAD DE PERSONA CAPAZ PARA DESIGNAR SU PROPIO TUTOR. Toda persona en pleno ejercicio de sus derechos podrá designar a una persona capaz, para que si cayere en estado de interdicción o inhabilitación, desempeñe la tutela respecto de ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 320.
 
-DESIGNACION PLURAL DE PERSONAS COMO FUTUROS TUTORES. También, en la misma forma que señala el precepto anterior, podrá designar a otras personas para que por su orden substituyan al designado en el desempeño del cargo, en caso de no aceptación, impedimento, excusa o remoción.
-
-Estas designaciones sólo serán válidas si se hacen ante Notario o Juez de lo Familiar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 321.
 
-APLICACION DE LA NORMATIVIDAD DE LA TUTELA TESTAMENTARIA A LA PREVENTIVA. Serán aplicables a la tutela preventiva todas las disposiciones de la tutela testamentaria en cuanto no se opongan a lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LOS IMPEDIMENTOS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 322.
 
-PERSONAS CON IMPEDIMENTO PARA SER TUTORES. No pueden ser tutores, aunque estén anuentes en recibir el cargo:
-
-I.- Los que tengan incapacidad legal o natural;
-
-II.- Los mayores de edad que se encuentren bajo tutela;
-
-III.- Los que hayan sido removidos de otra tutela por haberse conducido indebidamente, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para desempeñarlo;
-
-V.- El que haya sido condenado por delitos contra la vida o la integridad corporal, delitos contra las personas en su patrimonio, delitos contra la moral pública o delitos sexuales con sentencia cuya penalidad sea mayor de un año;
-
-VI.- Los que no tengan oficio o modo honrado de vivir o sean notoriamente de mala conducta;
-
-VII.- Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
-
-VIII.- Los deudores del incapacitado;
-
-IX.- Los Magistrados y Jueces, y demás servidores públicos de la Administración de Justicia;
-
-X.- El Ministerio Público;
-
-XI.- El que no esté domiciliado en el lugar en que deba ejercer la tutela;
-
-XII.- Los servidores públicos que por razón de su cargo tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
-
-XIII.- El que padezca enfermedad crónica contagiosa grave; y
-
-XIV.- Los demás a quienes lo prohibe la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 323.
 
-PROHIBICION PARA SER TUTOR DEL SUJETO A INTERDICCION O INHABILITACION. No pueden ser tutores del interdicto o inhabilitado los que hayan sido causa de su interdicción o inhabilitación o hubieren fomentado directa o indirectamente dicha causa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 324.
 
-QUIENES PUEDEN EXCUSARSE DE SER TUTORES. Pueden excusarse de ser tutores:
-
-I.- Los servidores públicos;
-
-II.- Los integrantes de las Instituciones Armadas de la Unión en servicio activo;
-
-III.- Los que tengan bajo su patria potestad dos o más descendientes;
-
-IV.- Los que por el mal estado habitual de su salud, o por su rudeza, ignorancia o inexperiencia en los negocios no puedan atender debidamente a la tutela;
-
-V.- Los que por su precaria condición económica, no puedan atender a la tutela sin menoscabo de su subsistencia;
-
-VI.- Los que tengan sesenta años cumplidos; y
-
-VII.- Los que tengan a su cargo otra tutela o curaduría.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 325.
 
-PRESUNCION DE RENUNCIA A LA EXCUSA PARA SER TUTOR. Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
-
-También se entiende renunciado el impedimento o la excusa cuando el tutor no los proponga en el plazo fijado por el artículo 870 del Código Procesal Civil.
-
-Si el tutor tuviere dos o más excusas las propondrá simultáneamente, dentro del plazo respectivo; y si propone una sola, se entenderán renunciadas las demás.
-
-Mientras que se califica el impedimento o la excusa, el Juez de lo Familiar nombrará un tutor interino.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 326.
 
-SANCION AL TUTOR QUE NO DESEMPEÑE LA TUTELA. El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tuviere para heredar al incapacitado que muriere intestado, y será responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual sanción incurre la persona a quien corresponda la tutela legítima si habiendo sido legalmente citada, no se presenta al Juez de lo Familiar manifestando su parentesco con el incapaz.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 327.
 
-PERDIDA DE DERECHOS DEL TUTOR TESTAMENTARIO QUE SE EXCUSE. El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que hubiere dejado el testador por este concepto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 328.
 
-OBLIGACION DE DAR AVISO DEL FALLECIMIENTO DEL TUTOR. Muerto el tutor que hubiere desempeñado la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez de lo Familiar, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DE LA SEPARACION Y DE LA EXTINCION DE LA TUTELA
 
 ###### ARTICULO 329.
 
-SUJETOS A LA SEPARACION DE LA TUTELA. Serán separados de la tutela:
-
-I.- Los que sin haber caucionado su manejo conforme a la Ley, ejerzan la administración de la tutela;
-
-II.- Los que se conduzcan indebidamente en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-III.- Los tutores que no rindan sus cuentas dentro del plazo fijado por el artículo 876 del Código Procesal Civil;
-
-IV.- Los comprendidos en el artículo 322 de este Código, desde que sobrevenga o se averigüe su impedimento;
-
-V.- El tutor que se encuentre en los casos previstos en los artículos 130 y 337, párrafo segundo de este Código;
-
-VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela;
-
-VII.- El tutor que caiga en incapacidad;
-
-VIII.- El tutor que infrinja lo dispuesto por los artículos 861 y 874, fracción VII del Código Procesal Civil; y
-
-IX.- Los que contravengan el artículo 359 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 330.
 
-QUIENES PUEDEN PROMOVER LA SEPARACION DEL TUTOR. El Ministerio Público, el Consejo Local de Tutelas, los parientes del pupilo, y éste, si ha cumplido dieciséis años y actúa a través del tutor interino, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 331.
 
-SEPARACION DEL TUTOR SUJETO A PROCESO PENAL. El tutor que fuere procesado por cualquier delito quedará suspenso en el ejercicio de su encargo desde que se provea el auto de formal prisión hasta que se pronuncie sentencia firme.
-
-En el caso de que trata el párrafo anterior, se proveerá a la tutela interina conforme a la Ley. Absuelto el tutor, volverá al ejercicio de su encargo.
-
-Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 332.
 
-EXTINCION DE LA TUTELA. La tutela se extingue:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Por la muerte del tutor o pupilo o porque desaparezca la incapacidad de éste; y
-
-II.- Cuando el incapacitado sujeto a tutela entre a la patria potestad por admisión o reconocimiento, o por adopción.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 333.
 
-REGULACION DE LA GARANTIA QUE DEBEN PRESENTAR LOS TUTORES. La obligación de otorgar garantía por los tutores para asegurar el desempeño de su encargo, se encuentra regulada por el numeral 871 del Código Procesal Civil, en los artículos 306 y 307 de este Código, así como los de este Capítulo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 334.
 
-PROVIDENCIAS JUDICIALES PARA CONSERVAR LOS BIENES DEL PUPILO. La garantía que presten los tutores no impedirá que el Juez de lo Familiar, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, y actúa a través del tutor interino, dicte las providencias que se estimen convenientes para la conservación de los bienes del pupilo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 335.
 
-GARANTIA DEL TUTOR COHEREDERO DEL INCAPAZ. Siempre que el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que ésta no iguale a la mitad de la del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con caución que determine el Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 336.
 
-PROPORCIONALIDAD DE LA GARANTIA DE LOS TUTORES DE HERENCIA INDIVISA. Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 337.
 
-DESIGNACION DE CURADOR CUANDO EL TUTOR ADMINISTRE BIENES Y SU RESPONSABILIDAD. Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del Artículo 309, fracción VII de este Código.
-
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente, alegando la falta de curador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 338.
 
-OBLIGACIONES DEL TUTOR. El tutor está obligado:
-
-I.- A alimentar al incapacitado;
-
-II.- A destinar de preferencia los recursos del incapacitado a su reintegración física y social;
-
-III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del plazo que el Juez designe, con intervención del curador y del mismo incapacitado si ha cumplido dieciséis años de edad.
-
-El plazo para formar el inventario no podrá ser mayor de seis meses;
-
-IV.- A administrar el caudal de los incapacitados.
-
-La propiedad, administración y usufructo de los bienes que el pupilo ha adquirido con su trabajo le corresponden a éste;
-
-V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento o admisión de hijos, del testamento y de otros estrictamente personales; y
-
-VI.- A solicitar oportunamente la autorización judicial para todos los actos que legalmente no pueda realizar sin ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 339.
 
-FIJACION ALIMENTARIA AL PUPILO. Cuando el tutor entre en el ejercicio de su cargo, el Juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos del menor, a que se refiere el numeral 102 de este Código, y el número y sueldos de dependientes necesarios sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el Juez de lo Familiar, alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 340.
 
-OBLIGACION ALIMENTARIA RESPECTO DE PUPILOS INDIGENTES. Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demande su alimentación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que se originen serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la pretensión a que este artículo se refiere.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 341.
 
-RESGUARDO DE PUPILOS INDIGENTES SIN DEUDORES ALIMENTARIOS. Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez de lo Familiar, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de Beneficencia Pública o Privada en donde pueda ser asistido. No por esto el tutor queda eximido de su cargo y deberá continuar vigilando al menor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 342.
 
-PROTECCION ESTATAL A LOS INCAPACITADOS INDIGENTES. Los incapacitados indigentes que no puedan ser alimentados por los medios previstos en los artículos anteriores, lo serán a costa de los recursos públicos del Estado de Morelos; pero si se llegara a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la pretensión correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 343.
 
-OBLIGACION PERIODICA DEL TUTOR DE HACER CERTIFICAR LA CONDICION DEL SUJETO A INTERDICCION. El tutor de los incapacitados a que se refiere la fracción II del artículo 63 de este Ordenamiento, está obligado a presentar al Juez de lo Familiar, en el mes de enero de cada año, un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará toda (sic) las medidas que estime convenientes para mejorar su condición.
-
-Para la seguridad, alivio y mejoría de las personas a que se refiere el párrafo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al Juez para la debida aprobación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 344.
 
-INVENTARIO OBLIGATORIO DEL TUTOR. La obligación de hacer inventarios no puede ser dispensada ni aun por los que tienen derecho de nombrar tutor testamentario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 345.
 
-LIMITACION AL TUTOR PREVIA AL INVENTARIO. Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTÍCULO 346.
 
-OBLIGACION DEL TUTOR DE INSCRIBIR SU CREDITO EN EL INVENTARIO. El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
-
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 347.
 
-INSCRIPCION INMEDIATA POR EL TUTOR DE BIENES ADQUIRIDOS DESPUES DEL INVENTARIO. Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 338 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 348.
 
-NO ADMISION DE PRUEBA CONTRA EL INVENTARIO YA REALIZADO. No se admite al tutor ofrecer prueba contra el inventario ya hecho en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 349.
 
-PETICION PARA INCLUIR BIENES OMITIDOS EN EL INVENTARIO. Si se hubiere omitido listar algunos bienes en el inventario, el incapaz por conducto de un tutor especial, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al Juez pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará de acuerdo con la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 350.
 
-NECESIDAD DEL TUTOR DE JUSTIFICAR LOS GASTOS DE ALIMENTOS Y SUELDOS DE DEPENDIENTES. Lo dispuesto en el artículo 339 de este Código, no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 351.
 
-REGULACION DE LOS CAPITALES IMPUESTOS. El tutor que no haga las imposiciones dentro de los plazos señalados en el artículo 874 fracción II del Código Procesal Civil, pagará los réditos que fije el Juez mientras que los capitales no sean impuestos.
-
-En tanto que se hacen dichas imposiciones, el tutor depositará las cantidades que perciba en el establecimiento público designado por el juzgador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 352.
 
-PROHIBICION DE ENAJENAR O GRAVAR POR EL TUTOR BIENES DEL INCAPAZ. Los bienes inmuebles, los derechos derivados de ellos y los muebles preciosos, acciones o valores, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor. Los actos de dominio o gravámenes que llevare al cabo el tutor sin los requisitos del párrafo anterior serán nulos si no están debidamente justificados y previa la conformidad del curador y la autorización judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 353.
 
-PLAZO JUDICIAL PARA LA INVERSION PERMITIDA AL TUTOR. Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se invirtió en ese objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 277 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 354.
 
-CONDICIONES PARA LA VENTA DE BIENES DEL PUPILO. La venta de bienes raíces del incapaz es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla acreditada la utilidad que resulte al menor.
-
-Los tutores no podrán vender valores, acciones, frutos, productos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 355.
 
-ENAJENACION O GRAVAMEN CUANDO EL INCAPAZ FUERE COPROPIETARIO. Cuando se trate de enajenar o gravar, a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción: o si, por el contrario, es conveniente la enajenación o gravamen, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador, y que aquél no hubiere promovido la enajenación o gravamen.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 356.
 
-AUTORIZACION JUDICIAL PARA GASTOS EXTRAORDINARIOS HECHOS POR EL TUTOR. Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 357.
 
-LICENCIA JUDICIAL PARA TRANSIGIR NEGOCIOS DEL INCAPACITADO. Se requiere aprobación del Juez de lo Familiar para realizar transacciones sobre asuntos del incapaz.
-
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de cien días el salario mínimo general vigente en el Estado necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste. Las transacciones hechas en contravención al párrafo anterior serán nulas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 358.
 
-CLÁUSULA COMPROMISORIA O COMPROMISO EN ARBITROS CELEBRADOS POR EL TUTOR. Será necesaria licencia judicial para que el tutor pueda comprometer en árbitros los negocios del incapacitado.
-
-El compromiso en árbitros que celebre respecto de bienes inmuebles, sin dicha licencia, será inexistente.
-
-El nombramiento de árbitros hechos por el tutor deberá sujetarse a la aprobación del Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 359.
 
-PROHIBICION DE CELEBRAR CONTRATOS SOBRE BIENES DEL PUPILO PARA EL TUTOR, SUS FAMILIARES O CÓNYUGE. Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, ni aceptar, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapaz para sí, sus ascendientes, su cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato el acto será suficiente para que se le remueva.
-
-Cesa la prohibición del párrafo anterior, respecto de la venta de bienes, en el caso de que el tutor, sus parientes o cónyuge, sean coherederos, partícipes o socios del incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 360.
 
-PROHIBICION DE ARRENDAMIENTO HECHO POR EL TUTOR POR MÁS DE DOS AÑOS. El tutor no puede dar en arrendamiento los bienes del incapacitado por más de dos años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 352 de este Código.
-
-El arrendamiento hecho de conformidad con el párrafo anterior subsistirá por el tiempo convenido, aun cuando se acabe la tutela, pero será nula toda anticipación de renta o alquileres por más de dos años.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 361.
 
-PROHIBICION AL TUTOR PARA HACER DONACIONES, OTORGAR FIANZA O RECIBIR PRESTAMOS CON RELACION AL PUPILO. El tutor no podrá hacer donaciones a nombre del incapacitado y en ningún caso podrá dar fianza en nombre de su pupilo.
-
-Sin autorización judicial y previa conformidad del curador y del Consejo Local de Tutelas, no podrá el tutor recibir dinero prestado en nombre del incapacitado, constituya o no garantía en el contrato.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 362.
 
-FACULTAD DE CORRECCION Y OBLIGACION DE BUEN EJEMPLO DEL TUTOR. El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 265 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 363.
 
-OBLIGACION DEL TUTOR DE ACEPTAR DONACIONES Y ACTOS POR CAUSA DE MUERTE EN FAVOR DEL INCAPAZ. El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 364.
 
-CONYUGE TUTOR DEL OTRO INCAPAZ. Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales, con las siguientes modificaciones:
-
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento del consorte, se suplirá éste por el Juez, con audiencia del curador; y
-
-II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo, o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento, y si no la cumple será responsable de los perjuicios que se sigan al incapacitado. También podrá promover ese nombramiento el Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 365.
 
-RETRIBUCION DEL TUTOR. El tutor tendrá derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el testador, y en su defecto, al igual que para los tutores legítimos y dativos la fijará el Juez.
-
-Salvo el caso del siguiente artículo, la retribución no excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 366.
 
-AUMENTO EN LA RETRIBUCION DEL TUTOR. Si los bienes del incapacitado tuvieren un aumento en sus productos, debido principalmente a la habilidad y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el Juez, con audiencia del curador.
-
-Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el párrafo anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 367.
 
-PERDIDA DE DERECHO A RETRIBUCION DEL TUTOR. El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este concepto hubiese recibido, si contraviniese lo dispuesto en el artículo 130 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 368.
 
-RENDICION ANUAL DE CUENTAS POR EL TUTOR. La obligación anual de rendir cuentas de administración por el tutor, regulada por el artículo 876 del Código Procesal Civil, comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 369.
 
-INTERVENCION DEL CURADOR Y DEL CONSEJO LOCAL DE TUTELAS EN LA PRESENTACION DE LA CUENTA DEL TUTOR. Al presentar el tutor su cuenta anual, el curador o el Consejo Local de Tutelas deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Ministerio Público tiene igual facultad y, de oficio, el Juez puede exigir esa información.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 370.
 
-RESPONSABILIDAD DEL TUTOR SOBRE CREDITOS ACTIVOS. El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 371.
 
-RESPONSABILIDAD DEL TUTOR POR NO EJERCITAR PRETENSIONES POSESORIAS. Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses, contados desde que tuvo noticia del derecho del incapacitado, no entable a nombre de éste judicialmente las pretensiones conducentes para recuperar.
-
-Lo dispuesto en el párrafo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las pretensiones, puedan resultar al tutor por dolo o culpa en el desempeño de su tutela.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 372.
 
-LUGAR DE RENDICION DE CUENTAS DE LA TUTELA. Las cuentas se rendirán en el lugar de desempeño de la tutela.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 373.
 
-PAGO DE GASTOS Y DAÑOS AL TUTOR. Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
-
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador.
-
-El tutor será igualmente indemnizado, según el prudente arbitrio del Juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 374.
 
-PROHIBICION DE DISPENSA PARA LA RENDICION DE CUENTAS. La obligación de dar cuentas no puede ser dispensada en contrato o última voluntad, ni aun por el mismo incapaz, y si esa dispensa se pusiere como condición en cualquier acto, se tendrá por no puesta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 375.
 
-RENDICION DE CUENTAS POR REEMPLAZO DEL TUTOR. El tutor que sea reemplazado por otro, estará obligado a rendir cuenta general de la tutela a las personas mencionadas en la fracción IV del artículo 876 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 376.
 
-PLAZO PARA RENDIR CUENTAS GENERALES POR EL TUTOR. El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el plazo de tres meses, contados desde el día en que fenezca la tutela. El Juez podrá prorrogarlo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 377.
 
-CANCELACION DE LA GARANTIA DEL TUTOR HASTA LA APROBACION DE CUENTAS. La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 378.
 
-NULIDAD DE CONVENIO ENTRE TUTOR E INCAPACITADO SOBRE LA ADMINISTRACION O SU CUENTA. Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, o libre de la incapacidad que le afectaba relativo a la administración de la tutela o las cuentas mismas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO XII. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTICULO 379.
 
-CONDICIONES PARA LA ENTREGA DE LOS BIENES Y RESPONSABILIDAD DE LOS GASTOS. Concluida la tutela, el tutor deberá hacer la entrega de los bienes de conformidad con lo previsto por el artículo 878 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 380.
 
-PERIODO PARA LA ENTREGA DE LOS BIENES DEL INCAPACITADO. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez podrá fijar un plazo adicional prudente para su conclusión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 381.
 
-ENTREGA DE BIENES POR REEMPLAZO DEL TUTOR. El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 382.
 
-FIJACION DE INTERESES SOBRE EL SALDO DE LA RENDICION DE CUENTAS Y ENTREGA DE BIENES. El saldo que resulte a favor o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago, y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del plazo designado por la ley, y si no, desde que expire el mismo lapso.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 383.
 
-SUBSISTENCIA DE LAS GARANTIAS CELEBRADAS POR EL TUTOR A PESAR DE CONVENIO OTORGANDO PLAZO. Cuando en la cuenta resulte saldo en contra del tutor, aunque por un arreglo con el incapaz o sus representantes se otorgue plazo al responsable para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 384.
 
-INFORME AL FIADOR POR NUEVO PLAZO CONCEDIDO AL TUTOR. Si la caución fuere de fianza, el convenio que conceda nuevo plazo al tutor se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución, si no consiente, no habrá espera, y se podrá exigir el pago inmediato a la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
-
-Si no se hiciere saber el convenio al fiador, dicho pacto y la espera no surtirán efecto, y el crédito será exigible inmediatamente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 385.
 
-PRESCRIPCION DE LAS PRETENSIONES POR HECHOS RELATIVOS A LA TUTELA. Todas las pretensiones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedarán extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO XIII. DE LA CURATELA
 
 ###### ARTICULO 386.
 
-SIMULTANEIDAD DE TUTOR Y CURADOR. Todos los individuos sujetos a tutela, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 309, fracción VII y 317 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 387.
 
-CURADOR INTERINO. En todo caso en que se nombre al incapaz un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
-
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el numeral 291 de este Código.
-
-Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 388.
 
-PERSONAS QUE PUEDEN NOMBRAR AL CURADOR. Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
-
-Designarán por sí mismos al curador con aprobación judicial, los comprendidos en el artículo 313, y los menores de edad emancipados, en el caso previsto en la fracción II del artículo 117 de este Código.
-
-El curador de todos los demás individuos sujetos a tutela será nombrado por el Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 389.
 
-IMPEDIMENTO O EXCUSA DEL CURADOR. Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente respecto de los curadores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 390.
 
-OBLIGACIONES DEL CURADOR. El curador está obligado:
-
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor.
-
-II.- A vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que puede ser dañoso al incapacitado;
-
-III.- A dar aviso al Juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela; y
-
-IV.- A cumplir los demás deberes que la ley le señale.
-
-Es también obligación del curador y del Consejo Local de Tutelas, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al Juez de los deterioros y menoscabo que en ello hubiere, para que, si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
-
-El curador que no cumpla con estos deberes, será responsable de los daños y perjuicios que resultaren al incapacitado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 391.
 
-TERMINACION Y RELEVO DEL CARGO DE CURADOR. Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
-
-El curador tiene derecho a ser relevado de la curatela, pasados diez años desde que se encargó de ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 392.
 
-HONORARIOS DEL CURADOR. En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que determine el Juez. Si hiciere gastos en el desempeño de su cargo se le pagarán.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO XIV. DE LOS CONSEJOS LOCALES DE TUTELA
 
 ###### ARTICULO 393.
 
-INTEGRACION DEL CONSEJO LOCAL DE TUTELAS. En cada municipalidad habrá un Consejo Local de Tutelas compuesto por un presidente y dos vocales, que durarán un año en el ejercicio de su cargo y podrán ser reelectos. Serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebren en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a los incapaces desprotegidos.
-
-Los miembros del Consejo no cesarán en sus funciones aun cuando haya transcurrido el plazo para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente periodo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 394.
 
-OBLIGACIONES DEL CONSEJO LOCAL DE TUTELAS. El Consejo Local de Tutelas es un órgano de vigilancia y de información, que además de las funciones que expresamente le asigna la Ley tiene las obligaciones siguientes:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Formar y remitir al Tribunal Superior de Justicia una lista de las personas de la localidad que por su actitud legal y moral, pueden desempeñar la tutela, para que de entre ellos se nombren los tutores y curadores, en los casos que estos nombramientos corresponda hacerlos al Juez;
-
-II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores, dando aviso al Juez de lo Familiar de las faltas y omisiones que notare;
-
-III.- Avisar al Juez de lo Familiar cuando tenga conocimiento de que los bienes del incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
-
-IV.- Investigar y poner en conocimiento del Juez de lo Familiar qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
-
-V.- Cuidar particularmente que los tutores cumplan la obligación que les impone la fracción II del artículo 338 de este Código;
-
-VI.- Vigilar el registro de tutelas, a fin de que sea llevado en forma debida, de acuerdo con lo dispuesto por los artículos 873 y 874 del Código Procesal Civil; y
-
-VII.- En general, investigar, vigilar y fomentar cualquier medida protectora de las conductas del incapaz, no sólo ante los Juzgados de lo Familiar, sino ante cualquier otro organismo público o privado para procurar su protección integral coordinando también sus actividades para el propio efecto con las demás relacionadas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO XV. DEL ESTADO DE INTERDICCION
 
 ###### ARTICULO 395.
 
-NULIDAD DE LOS ACTOS ADMINISTRATIVOS EJECUTADOS Y LOS CONTRATOS CELEBRADOS POR INCAPACES Y MENORES EMANCIPADOS. Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor salvo lo dispuesto en la fracción IV del artículo 338; asimismo son nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 117 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 396.
 
-PERSONAS QUE PUEDEN ALEGAR LA NULIDAD POR ACTOS DEL INCAPAZ O DEL MENOR EMANCIPADO. La nulidad a que se refiere el artículo anterior sólo podrá ser alegada, sea como pretensión, sea como defensa, por el incapacitado a través de sus legítimos representantes, pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ellas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO SEPTIMO. DE LA AUSENCIA Y DE LA PRESUNCION DE MUERTE
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTICULO 397.
 
-AUSENTE CON REPRESENTANTE. El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituído antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el representante hasta donde alcance el poder.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 398.
 
-DESIGNACION DE DEPOSITARIO, Y PLAZO PARA COMPARECENCIA DEL DESAPARECIDO E IGNORADO. Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quién le represente, el Juez, a petición de parte o del Ministerio Público, nombrará un depositario de sus bienes, y la citará conforme lo dispuesto en el artículo 890 del Código Procesal Civil.
-
-Las obligaciones y facultades del depositario serán las que la Ley asigne a los depositarios judiciales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 399.
 
-NOMBRAMIENTO DE TUTOR A LOS HIJOS INCAPACES DEL DESAPARECIDO E IGNORADO. Si el desaparecido e ignorado tiene hijos incapaces, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la Ley, ni tutor testamentario ni legítimo, el Ministerio Público o el Consejo Local de Tutelas pedirá que se le nombre tutor, según lo previsto en los artículos 313 y 314 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 400.
 
-DESIGNACION DE REPRESENTANTE AL NO COMPARECER LA PERSONA CITADA VENCIDO EL PLAZO. Si cumplido el plazo del llamamiento el citado no compareciere por sí, ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarlo, se procederá al nombramiento de representante.
-
-Lo mismo se hará cuando en iguales circunstancias deje de tener vigencia o se haya agotado el objeto del poder conferido por el desaparecido e ignorado, o sea insuficiente para el caso.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 401.
 
-PERSONAS CON PRETENSION PROCESAL PARA SOLICITAR EL NOMBRAMIENTO DE DEPOSITARIO O DE REPRESENTANTE. Tienen pretensión para pedir el nombramiento de depositario o de representante, el Ministerio Público o cualquiera a quien interese tratar o litigar con el desaparecido e ignorado o defender los intereses de éste.
-
-En el nombramiento de depositario o de representante se seguirá el orden establecido en el artículo 890 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 402.
 
-NOMBRAMIENTO JUDICIAL DE DEPOSITARIO O DE REPRESENTANTE A FALTA DE ACUERDO ENTRE EL CONYUGE Y LOS HIJOS DEL DESAPARECIDO O DE HEREDEROS PRESUNTIVOS. Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores el Juez dispondrá que el cónyuge presente y los hijos del matrimonio o de matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo el depositario representante; mas si no estuvieren conformes, el Juez lo nombrará libremente, de entre las personas enumeradas en el artículo 890 del Código Procesal Civil.
-
-A falta de cónyuge, de descendientes y de ascendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que deba representarlo. Si no se ponen de acuerdo en la elección, la hará el Juez prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 403.
 
-ATRIBUCIONES DEL REPRESENTANTE DEL DESAPARECIDO. El representante del desaparecido es el legítimo administrador de los bienes de éste y tiene, respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
-
-No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del plazo de un mes no presta la caución correspondiente, se nombrará otro representante.
-
-El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 404.
 
-APLICACION DE LAS NORMAS CONDUCENTES DE LA TUTELA A LA CONDICION JURIDICA DEL REPRESENTANTE DEL DESAPARECIDO. Al representante del desaparecido e ignorado le serán aplicables las reglas sobre retribución, impedimentos, excusas y remoción de los tutores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 405.
 
-TERMINACION DEL CARGO DE REPRESENTANTE. El cargo de representante acaba:
-
-I.- Con el regreso del desaparecido e ignorado;
-
-II.- Con la presentación del representante legítimo;
-
-III.- Con la muerte del ausente; y
-
-IV.- Con la posesión provisional de los herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 406.
 
-OBLIGACION DEL REPRESENTANTE DE PROMOVER LA PUBLICACION DE EDICTOS. El representante está obligado a promover la publicación de los edictos de acuerdo con lo previsto por el artículo 890 del Código Procesal Civil, durante dos meses con intervalos de quince días. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al desaparecido e ignorado y es causa legítima de remoción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 407.
 
-PLAZO PARA PEDIR LA DECLARACION DE AUSENCIA. En caso de que el desaparecido haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia regulada por el artículo 891 del Código Procesal Civil sino pasados tres años, que se contarán desde la desaparición del ignorado, si en este periodo no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
-
-Lo dispuesto en el párrafo anterior se observará aun cuando el poder se haya conferido por más de tres años.
-
-Por causa de ausencia no se suspenden los términos que fija la Ley para la prescripción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 408.
 
-PERSONAS QUE PUEDEN SOLICITAR LA DECLARACION DE AUSENCIA. Pueden pedir la declaración de ausencia:
-
-I.- Los presuntos herederos del desaparecido;
-
-II.- Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del desaparecido; y
-
-III.- El Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 409.
 
-PETICION DE GARANTIA DEL REPRESENTANTE. Pasados dos años, que se contarán del modo establecido en el artículo 411 de este Código, el Ministerio Público y las personas que designa el artículo anterior pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 401 y 402 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 410.
 
-SUPUESTO DE LA NO DECLARACION DE AUSENCIA. Concluidos los términos a que se refiere el numeral 892 del Código Procesal Civil. Si hubiere algunas noticias y oposición, el Juez no declarará la ausencia sin repetir las publicaciones legales, y hacer la averiguación por los medios que el oponente proponga y por los que el mismo Juez crea oportunos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 411.
 
-PUBLICIDAD DE LA DECLARACION DE AUSENCIA. La declaración de ausencia se publicará como lo ordena el artículo 892 del Código Procesal Civil, remitiéndose a los Cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 412.
 
-DECLARACION DE AUSENCIA Y EFECTOS SEGUN HAYA O NO TESTAMENTO. Declarada la ausencia si hubiere testamento se procederá en acatamiento de los artículos 893, 894 y 895 del Código Procesal Civil.
-
-Si no hubiere testamento, la declaración de ausencia dará derecho a los herederos legítimos para proceder en los términos de esos artículos procesales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 413.
 
-PLURALIDAD DE HEREDEROS Y DIVISION DE BIENES. Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte respectiva; en este caso, cada heredero dará la garantía que corresponda a la parte de bienes que administre, salvo los casos previstos en la fracción I del artículo 419 de este Código.
-
-Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará el administrador general.
-
-Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el Juez lo nombrará, escogiéndole de entre los mismos herederos, en este caso el administrador general será quien dé la garantía legal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 414.
 
-NOMBRAMIENTO DE INTERVENTOR POR HEREDEROS NO ADMINISTRADORES. Los herederos que no administren nombrarán un interventor, que tendrá las facultades y obligaciones señaladas a los curadores. Sus honorarios serán lo que fijen quienes le nombren y se pagarán por éstos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 415.
 
-SITUACION LEGAL DE LOS POSEEDORES PROVISIONALES. El que entre en la posesión provisional tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 416.
 
-PERSONAS QUE PUEDEN EJERCER DERECHOS SOBRE BIENES DEL AUSENTE OTORGANDO GARANTIA. Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda legalmente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 417.
 
-SUSPENSION DE LAS OBLIGACIONES QUE DEPENDAN DE LA MUERTE DEL AUSENTE. Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán suspender su cumplimiento bajo la garantía prevista en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 418.
 
-DISMINUCION JUDICIAL DE LA GARANTIA Y EFECTOS EN TANTO NO SE OTORGUE. Si no pudiere darse la garantía prevista en los artículos anteriores, el Juez, según las circunstancias de las personas y de los bienes, concederá un plazo y podrá disminuir el importe de la caución prudencialmente.
-
-Mientras no se dé la expresada garantía, no cesará la administración del representante.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 419.
 
-QUIENES NO ESTAN OBLIGADOS A PRESTAR GARANTIA. No están obligados a dar garantías:
-
-I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda;
-
-El cónyuge, los descendientes y ascendientes si hubiere legatarios, no darán la garantía legal por la parte de bienes que corresponda a aquéllos, si hubiere división y administrador general; y
-
-II.- El ascendiente que en ejercicio de la patria potestad administre bienes que como herederos del ausente correspondan a sus descendientes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 420.
 
-PETICION DE CUENTAS AL REPRESENTANTE DEL AUSENTE POR LOS QUE SE ENCUENTREN EN POSESION PROVISIONAL. Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los Capítulos XI y XII del Título Sexto de este Libro. El plazo señalado en el artículo 376 se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 421.
 
-CONTINUACION O NOMBRAMIENTO DE NUEVO REPRESENTANTE POR FALTA DE COMPARECENCIA DE HEREDEROS. Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública entre en la posesión provisional, conforme a los artículos que anteceden.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 422.
 
-SUCESION EN CASO DE MUERTE DEL POSEEDOR PROVISIONAL. Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 423.
 
-RECUPERACION DE LA CONDICION CIVIL DEL AUSENTE QUE REGRESA. Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 424.
 
-INTERRUPCION DE LA SOCIEDAD CONYUGAL CON LA DECLARACION DE AUSENCIA. La declaración de ausencia no disuelve el matrimonio, pero sí interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 425.
 
-INVENTARIO Y SEPARACION DE BIENES DEL CONSORTE AUSENTE. Declarada la ausencia, se procederá con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deban corresponder al cónyuge ausente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 426.
 
-LIBRE DISPOSICION DE BIENES POR EL CONSORTE PRESENTE. El cónyuge presente recibirá desde luego los bienes que le correspondan, hecha la separación respecto de los bienes del ausente, hasta el día en que la declaración de ausencia haya causado ejecutoria de los cuales podrá disponer libremente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 427.
 
-ENTREGA DE BIENES A LOS HEREDEROS DEL AUSENTE. Los bienes del ausente se entregarán a sus herederos, pudiendo comprenderse entre ellos al cónyuge.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 428.
 
-DERECHO ALIMENTARIO DEL CONYUGE O PRESENTE. Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá derecho a alimentos, los cuales serán cubiertos con cargo al patrimonio del ausente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 429.
 
-RESTAURACION DE LA SOCIEDAD CONYUGAL. Cuando el cónyuge ausente regrese o se probare su existencia, antes de la presunción de muerte, quedará restaurada la sociedad conyugal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
 ###### ARTICULO 430.
 
-DECLARACION DE LA PRESUNCION DE MUERTE. Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
-
-Respecto de los individuos que hayan desaparecido por secuestro, o por tomar parte en una guerra, o movimiento armado, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante; o por un accidente encontrándose a bordo de un vehículo terrestre, aéreo o acuático bastará que haya transcurrido un año contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título. La sentencia que declare la presunción de muerte disuelve el vínculo matrimonial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 431.
 
-POSESION DEFINITIVA DE LOS BIENES HEREDADOS. Declarada la presunción de muerte, si no se hubiere procedido conforme a los artículos 893 y 895 del Código Procesal Civil, se abrirá el testamento del ausente; o bien, en su caso, se continuará el juicio sucesorio. Los poseedores provisionales darán cuenta de su administración en los términos previstos en el artículo 420 de este Código, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la Ley se hubiere dado quedará cancelada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 432.
 
-DEMOSTRACION DE LA MUERTE DEL AUSENTE. Cuando se llegare a probar la muerte del ausente, se estará a lo dispuesto por el numeral 897 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 433.
 
-RECUPERACION DE BIENES POR REGRESO DEL AUSENTE DESPUES DE DECLARADA LA POSESIÓN DEFINITIVA. Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, al precio de los enajenados, o los que se hubieren adquirido con el mismo precio, pero no podrá reclamar frutos ni rentas.
-
-Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 434.
 
-PRESENTACION DE PRETENDIENTES A HEREDEROS QUE DEBAN SER PREFERIDOS. Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendientes que deban ser preferidos en la herencia, y así se declare por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 423 y 433 de este Código debiera hacerse al ausente si se presentara.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 435.
 
-TERMINACION DE LA POSESION DEFINITIVA. La posesión definitiva termina:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Con el regreso del ausente;
-
-II.- Con la noticia cierta de su existencia, en este caso, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente;
-
-III.- Con la certidumbre de su muerte; y
-
-IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 434 de este Ordenamiento y de acuerdo con lo previsto por los artículos 897 y 898 del Código Procesal Civil.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LOS EFECTOS DE LA PRESUNCION DE MUERTE EN RELACION CON LOS DERECHOS EVENTUALES DE AQUEL SOBRE EL QUE RECAE LA DECLARACION
 
 ###### ARTICULO 436.
 
-CARGA DE LA PRUEBA SOBRE LA EXISTENCIA NO RECONOCIDA DE UNA PERSONA. Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, tendrá la carga de la prueba de que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 437.
 
-SUCESORES DEL HEREDERO DECLARADO PRESUNTO MUERTO. Cuando se abre una herencia a la que sea llamado un individuo respecto del cual se haya hecho la declaración de presunción de muerte, entrarán a suceder en su parte, sus herederos, quienes deberán hacer inventario de los bienes que reciban.
-
-En el caso del párrafo anterior, los herederos se considerarán como poseedores definitivos de los bienes que por la herencia debían corresponder al declarado presunto muerto, a partir de la época en que la herencia se hubiere abierto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 438.
 
-PRETENSIONES DEL DECLARADO BAJO PRESUNCION DE MUERTE. Lo dispuesto en el artículo anterior debe entenderse sin perjuicio de las pretensiones de petición de herencia y de otros derechos que podrán ejercitar el declarado presunto muerto, sus representantes, acreedores o legatarios, y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el declarado bajo presunción de muerte no comparezca, y sus pretensiones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO OCTAVO. DEL PATRIMONIO DE FAMILIA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO UNICO. DISPOSICIONES COMUNES AL PATRIMONIO FAMILIAR
 
 ###### ARTICULO 439.
 
-OBJETOS QUE INTEGRAN EL PATRIMONIO DE FAMILIA. Pueden ser objeto del patrimonio de la familia alguno o varios de los siguientes bienes:
-
-I.- La casa habitación de la familia así como los muebles de uso ordinario que no sean suntuarios;
-
-II.- Un lote de parcela cultivable;
-
-III.- Tratándose de familias campesinas, las semillas, la maquinaria, instrumentos y animales propios para el cultivo agrícola;
-
-IV.- En el caso de familias de artesanos, el equipo de trabajo, considerándose como tal, los instrumentos o aparatos útiles necesarios para el arte u oficio;
-
-V.- Tratándose de trabajadores del volante, el vehículo de su propiedad en que preste el servicio público de alquiler y el derecho a la concesión o permiso relativo cuando constituya la única fuente de sus ingresos;
-
-VI.- Los derechos patrimoniales de socio en las sociedades cooperativas y mutualistas; y
-
-VII.- En el caso de quienes presten servicios independientes, el equipo de trabajo, considerándose como tal los libros, aparatos, instrumentos y útiles propios para su ejercicio o estudio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 440.
 
-INTRANSMISIBILIDAD DEL PATRIMONIO DE FAMILIA. La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria, la que comprende el que lo constituye, su cónyuge y las personas a quienes tienen obligación de dar alimentos. En el caso de muerte del constituyente, si hubiere cónyuge supérstite, descendientes o ascendientes, continuará con éstos el citado patrimonio sin dividirse, pasando la propiedad y posesión de los bienes a los herederos que sean llamados por la Ley, aunque en el testamento del que lo constituyó se dispusiere lo contrario, o se instituyere a otros herederos, quienes no tendrán derecho alguno a los bienes que lo integren.
-
-Este derecho es intransmisible, pero debe tenerse en cuenta lo dispuesto en el artículo 456 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 441.
 
-INALIENABILIDAD E INEMBARGABILIDAD DEL PATRIMONIO DE FAMILIA. Los bienes afectos al patrimonio de la familia son inalienables y no están sujetos a embargo ni a gravamen alguno.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 442.
 
-UNICIDAD DEL PATRIMONIO FAMILIAR. Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, serán nulos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 443.
 
-UBICACION DEL PATRIMONIO DE LA FAMILIA. Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 444.
 
-REPRESENTACION DEL PATRIMONIO FAMILIAR. Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por el que lo constituyó, o por el que nombre la mayoría en caso de incapacidad o ausencia de aquél declarados judicialmente.
-
-El representante tendrá también la administración de dichos bienes.
-
-> <small>(REFORMADO P.O. 3 DE FEBRERO DE 1999)</small>
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 445.
 
-El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por 17,000 el importe de salario mínimo general diario vigente en el Estado, en la época en que se constituya el patrimonio. La revisión y actualización del patrimonio familiar deberá hacerse en un término de tres años.
-
-Los bienes que hayan quedado afectos al patrimonio de familia gozarán de los privilegios que establece este capítulo, aún cuando aumenten de valor por el solo transcurso del tiempo o por mejoras útiles o necesarias.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 446.
 
-INSCRIPCION DEL PATRIMONIO FAMILIAR EN EL REGISTRO PUBLICO. El miembro de la familia que sea propietario de los bienes destinados al patrimonio familiar, lo manifestará por escrito al Juzgado de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad los bienes que van a quedar afectados.
-
-Además, comprobará lo siguiente:
-
-I.- Que es mayor de edad o que está emancipado;
-
-II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
-
-III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
-
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres; y
-
-V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo anterior, según avalúo que al efecto se practique.
-
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1999)</small>
-
-Las anotaciones e inscripciones que hagan las oficinas del Registro Público de la Propiedad y del Comercio con motivo del patrimonio familiar serán hechas sin costo alguno para los interesados.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 447.
 
-APROBACION JUDICIAL DE LA CONSTITUCION DEL PATRIMONIO FAMILIAR. Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos los trámites legales, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público de la Propiedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 448.
 
-AMPLIACION, O DISMINUCION DEL PATRIMONIO FAMILIAR. Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 445 de este Código, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije la Ley.
-
-Puede disminuirse el patrimonio de familia cuando se demuestre que su reducción es de gran necesidad o de notoria utilidad para la familia.
-
-Podrá también disminuirse el patrimonio de familia, cuando el valor de los bienes que lo constituyen, por causas posteriores, aumenta en más de un cien por ciento el valor máximo que ordena el numeral 445 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 449.
 
-PETICION JUDICIAL PARA LA CONSTITUCION DEL PATRIMONIO FAMILIAR. Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración, los acreedores alimentistas y, si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de familia hasta por el valor fijado en el artículo 445. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 446 y 451 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 450.
 
-MEDIDAS PARA FAVORECER LA CONSTITUCION DEL PATRIMONIO DE FAMILIA. Con el objeto de favorecer la formación del patrimonio de familia, se venderán a las personas que tengan capacidad legal y patrimonial para constituirlo y que quieran hacerlo, las propiedades que a continuación se expresan:
-
-I.- Las pertenecientes al Estado de Morelos o a los Ayuntamientos, que no estén destinadas a un servicio público, ni sean de uso común; y
-
-II.- Las que mediante expropiación o por cualquiera otro título, adquiera el Gobierno del Estado o los Municipios para destinarlas a tal fin.
-
-La constitución del patrimonio de que trata este artículo, se sujetará a la tramitación administrativa que fijan los reglamentos respectivos. Aprobada la constitución del patrimonio el Juez ordenará que se inscriba en el Registro Público de la Propiedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 451.
 
-PROHIBICION DE CONSTITUIR EL PATRIMONIO FAMILIAR EN FRAUDE DE ACREEDORES. La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 452.
 
-OBLIGACION DE UTILIZAR EL PATRIMONIO FAMILIAR PARA CUMPLIR CON SU FINALIDAD. Constituido el patrimonio de la familia, ésta tiene obligación de utilizar por sí misma los bienes que lo integran. En caso contrario, la primera autoridad municipal del lugar en que esté constituido el patrimonio puede, por ésta o por otra justa causa, autorizar que se dé en arrendamiento o aparcería, hasta por un año.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 453.
 
-EXTINCION DEL PATRIMONIO FAMILIAR. El patrimonio de la familia se extingue cuando:
-
-I.- Todos los beneficiarios cesen de tener derecho de percibir alimentos;
-
-II.- Sin causa justificada la familia deje de habitar por un año la casa que deba servirle de morada, de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa con excepción de lo previsto en la parte final de (sic) artículo anterior;
-
-III.- Se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
-
-IV.- Por causa de utilidad pública se expropien los bienes que lo forman; y
-
-V.- Tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 450 de este Código, se declare judicialmente nula o rescindida la venta de esos bienes por dichas autoridades.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 454.
 
-DECLARACION JUDICIAL DE LA EXTINCION DEL PATRIMONIO FAMILIAR. La declaración de que queda extinguido el patrimonio la hará el Juez de lo Familiar, mediante el procedimiento fijado en las disposiciones respectivas, y la comunicará al Registro Público de la Propiedad para que se hagan las cancelaciones correspondientes.
-
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro Público de la Propiedad la cancelación que proceda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 455.
 
-CONSECUENCIAS DEL DEPOSITO DEL PRECIO DEL PATRIMONIO FAMILIAR EXPROPIADO. El precio del patrimonio expropiado y la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectados al patrimonio familiar, se depositarán en una institución de crédito, y no habiéndola en la localidad, en una casa de comercio de notoria solvencia, a fin de dedicarlos a la constitución de un nuevo patrimonio de la familia. Durante un año son inembargables el precio depositado y el importe del seguro.
-
-Si el dueño de los bienes vendidos no lo constituye dentro del plazo de seis meses, el cónyuge y los demás acreedores alimentarios tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
-
-Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada se entregará al dueño de los bienes.
-
-En los casos de suma necesidad o de evidente utilidad, puede el Juez autorizar al dueño del depósito para disponer de él antes de que transcurra el año.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 456.
 
-EFECTOS DE LA EXTINCION DEL PATRIMONIO FAMILIAR. Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasarán a sus herederos si aquél ha muerto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 457.
 
-INTERVENCION DEL MINISTERIO PUBLICO EN ASUNTOS RELATIVOS AL PATRIMONIO FAMILIAR. El Ministerio Público será oído en la constitución, aplicación, ampliación, extinción y reducción del patrimonio de la familia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO NOVENO. DEL REGISTRO CIVIL
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 458.
 
-NATURALEZA Y FUNCION. El Registro Civil es la institución de carácter público y de interés social, por medio de la cual el Estado inscribe y da publicidad a los actos constitutivos y modificativos del estado civil y condición jurídica de las personas, y hace que las inscripciones en él realizadas, surtan efectos contra terceros y hagan prueba plena.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 459.
 
-ESTRUCTURA DEL REGISTRO CIVIL. El Registro Civil estará constituido por la Dirección del Registro Civil, su Archivo Estatal y las Oficialías del Registro Civil que determine el Ejecutivo del Estado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 460.
 
-FE PUBLICA DEL DIRECTOR Y OFICIALES DEL REGISTRO CIVIL. El Director del Registro Civil y los Titulares denominados Oficiales del Registro Civil, tendrán fe pública en el desempeño de las labores propias de su encargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 461.
 
-PERSONAS QUE INTERVIENEN EN EL LEVANTAMIENTO DE ACTAS. En el asentamiento de las actas del Registro Civil intervendrán: el Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales en su caso y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlas en el espacio correspondiente, al igual que las demás personas que se indiquen en las mismas. Asimismo se imprimirá en ellas el sello de la Oficialía.
-
-Los testigos que intervengan en las actas del Registro Civil deberán ser mayores de edad y se preferirán a los parientes y a los designados por los interesados que residan en el lugar, asentándose en el acta sus datos generales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 462.
 
-ACTAS DEL REGISTRO CIVIL. Las actas del estado civil se asentarán en formatos especiales que se denominarán "Formas del Registro Civil"; las inscripciones se harán por triplicado, mecanográficamente o por medios electrónicos. Las formas serán autorizadas por el Director del Registro Civil y se referirán a:
-
-I. Actas de nacimiento;
-
-II. Actas de reconocimiento o de admisión;
-
-III. Actas de adopción;
-
-IV. Actas de matrimonio;
-
-V. Actas de divorcio;
-
-VI. Actas de defunción; y
-
-VII. Actas relativas a las ejecutorias que resuelvan sobre la tutela, la ausencia, la presunción de muerte, o que se haya perdido o limitado la capacidad para administrar bienes o la propia persona.
-
-En las actas del Registro Civil se anotarán exclusivamente los actos concernientes al estado civil y harán constar el principio, condición y extinción de la vida jurídica de las personas físicas.
-
-La infracción de este artículo producirá la nulidad del acto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 463.
 
-COPIAS DE LAS ACTAS DEL REGISTRO CIVIL. Las formas estarán debidamente foliadas y en grupos de trescientos se encuadernarán para formar libros que se clasificarán conforme al acto del estado civil de que se trate. En el caso de que al día treinta y uno de diciembre de cada año no se hubieren expedido trescientas actas, con las asentadas hasta esa fecha, se encuadernará el libro.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 464.
 
-PERDIDA, DESTRUCCION O DETERIORO DE ACTAS DEL REGISTRO CIVIL. Si se perdiere, destruyere o deteriorare alguna de las actas del Registro Civil, se levantará acta circunstanciada con intervención del Director y si ésta se extraviare una vez utilizada, se sacará inmediatamente copia del otro ejemplar bajo la responsabilidad del Oficial, del Director y del encargado del Archivo Estatal del Registro Civil, para cuyo efecto, el funcionario titular del lugar donde ocurra la pérdida dará aviso a los demás en los términos que establezca el Reglamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 465.
 
-DISTRIBUCION DE LAS COPIAS DE LAS ACTAS DEL REGISTRO CIVIL. Los Oficiales del Registro Civil, una vez levantada el acta remitirán un ejemplar de las formas del Registro Civil al Archivo Estatal del Registro Civil, harán entrega de un ejemplar al interesado y el otro se conservará en el archivo de la oficialía en que se haya actuado y, cuando se hubieren reunido trescientas formas de un solo acto, se enviarán a la dirección del Registro Civil, la cual previa su encuadernación en libros clasificados, las devolverá a la oficialía de origen.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 466.
 
-APENDICE DEL ACTA DE REGISTRO CIVIL. Por cada acta del Registro se formará un expediente que contenga la documentación correspondiente al acto civil que se trate de acreditar, y se llamará "Apéndice del Acta", que formará parte de la misma.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 467.
 
-SOLICITUD DE COPIAS DE LAS ACTAS DEL REGISTRO CIVIL. Toda persona puede solicitar copia certificada de las actas del Registro Civil así como de los documentos del Apéndice. Los Oficiales, el Director y el Jefe del Archivo están obligados a expedirlas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 468.
 
-VALOR PROBATORIO DE LAS ACTAS DEL REGISTRO CIVIL. El estado civil y condición jurídica de las personas sólo se prueba con las correspondientes copias certificadas de las actas del Registro Civil y los documentos del Apéndice. Ningún otro medio de prueba es admisible para demostrarlos, salvo los casos expresamente exceptuados por la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 469.
 
-PRUEBA SUCEDANEA EN CASO DE INEXISTENCIA, PERDIDA O DETERIORO DE ACTAS. Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos, pero si uno solo de los libros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 470.
 
-PETICION DE TRASLADO DEL OFICIAL DEL REGISTRO CIVIL O COMPARECENCIA POR MANDATARIO ESPECIAL. Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil por causa justificada, solicitarán que éste acuda al lugar donde se encuentren. Asimismo podrán hacerse representar por mandatario especial para el acto. En este último caso, el mandato se otorgará mediante escritura pública.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 471.
 
-ALEGACION DE NULIDAD O DE FALSEDAD DE ACTAS DEL REGISTRO CIVIL. La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 472.
 
-ESTADO CIVIL DE MEXICANOS ADQUIRIDO FUERA DE LA REPUBLICA. Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo establecido en el Código Federal de Procedimientos Civiles y siempre que se registren en la oficina respectiva del Estado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 473.
 
-ANOTACIONES RELACIONADAS A UNA PERSONA EN DIVERSAS ACTAS. En las actas del Registro Civil se efectuarán las anotaciones que relacionen el acto con los demás que estén inscritos en los Registros Civiles de la misma persona y las otras que establezca la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 474.
 
-PROHIBICION DE LEVANTAMIENTO DE CONSTANCIAS DEL ESTADO CIVIL DEL PROPIO OFICIAL Y SUS FAMILIARES. Los actos y actas del estado civil del Oficial del Registro Civil, de su cónyuge, y de sus ascendientes y descendientes, no podrán autorizarse por el propio Oficial, se asentarán en las formas correspondientes, y se autorizarán por el Oficial de la adscripción más próxima.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 475.
 
-ALTERACION DE ACTAS POR EL OFICIAL O FUNCIONARIO DEL REGISTRO CIVIL. La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones ilícitas, así como la superposición de hojas o de actas, y la destrucción de las mismas o su desaparición, será causa de destitución del Oficial o del funcionario del Registro Civil que las realice o permita, sin perjuicio de la pena que se señale para el delito correspondiente, y de la indemnización de daños y perjuicios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 476.
 
-CORRECCIONES NO SUBSTANCIALES DE LAS ACTAS DEL REGISTRO CIVIL. Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro Civil a las correcciones que señale el Reglamento respectivo, pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### ARTICULO 477.
 
-DECLARACIONES DE NACIMIENTO DE UN INFANTE. Las declaraciones de nacimiento se harán presentando al niño vivo ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél.
-
-Respecto de la primera hipótesis prevista por el segundo párrafo del numeral 61 de este Ordenamiento, el Oficial del Registro Civil sólo podrá dar crédito a la declaración de nacimiento ante la presentación de constancia médica de que el producto vivió por lo menos veinticuatro horas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 478.
 
-PERSONAS OBLIGADAS A DECLARAR EL NACIMIENTO. Tienen obligación de declarar el nacimiento el padre y la madre, o cualquiera de ellos dentro de los ciento ochenta días de ocurrido.
-
-Los médicos, cirujanos, parteras, o personas que hubieren asistido al parto tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro del plazo de quince días. La misma obligación tiene la institución de salud y el jefe de familia en cuya casa haya tenido lugar el alumbramiento.
-
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-Las personas que estando obligadas a declarar el nacimiento no lo hicieren dentro del plazo fijado, serán sancionadas con una multa de veinte veces el salario mínimo diario general vigente en la región, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 479.
 
-PROHIBICION A LOS OFICIALES DEL REGISTRO CIVIL DE INSCRIBIR EL NACIMIENTO DE MAYORES DE SIETE AÑOS. Queda prohibido a los Oficiales del Registro Civil asentar los nacimientos de las personas que tengan más de siete años de edad; en este caso, se requiere autorización expresa dictada por el Director del Registro Civil del Estado, quien previamente a su expedición y bajo su estricta responsabilidad se cerciorará de que los datos proporcionados por la persona que pretende registrarse sean ciertos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 480.
 
-CONTENIDO DEL ACTA DE NACIMIENTO. El acta de nacimiento contendrá: año, mes, día, hora y lugar del nacimiento; el sexo y la impresión digital del presentado; el nombre y apellidos que le correspondan, sin que por motivo alguno puedan omitirse, salvo en caso de que se trate del registro de un recién nacido de padre desconocido, en el que se le pondrán el primero y segundo apellidos de la madre, la expresión de si es presentado vivo o muerto; nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos; y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
-
-Si el niño se presentara como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellidos, haciéndose constar esta circunstancia en acta por separado que se anexará al Apéndice. Queda prohibido mostrar esta última acta, salvo que medie orden judicial. Bajo su estricta y personal responsabilidad, dará parte al Ministerio Público, si éste no tuviere conocimiento del hecho; el Oficial entregrará (sic) de inmediato para su custodia al infante presentado a una Institución de Asistencia Familiar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 481.
 
-PRESENTACION DEL INFANTE ANTE LA AUTORIDAD MUNICIPAL. En las poblaciones en que no haya Oficial del Registro Civil, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al Oficial del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 482.
 
-ACTA DE NACIMIENTO DE HIJO DE MATRIMONIO. Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres se asentarán a éstos como sus progenitores, salvo sentencia judicial en contrario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 483.
 
-ACTA DE NACIMIENTO DE HIJOS FUERA DE MATRIMONIO. Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo habido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma (sic) establecido en el artículo 470 de este Código, haciéndose constar la petición.
-
-La madre tiene obligación de admitir a su hijo, y derecho a que su nombre figure en el acta de nacimiento. Si al hacer la presentación un tercero no se da el nombre de la madre, se omitirá este dato en el acta, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 484.
 
-PROHIBICION DE ASENTAR CALIFICATIVOS A LAS PERSONAS REGISTRADAS. En las actas de nacimiento, por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta que contenga dicha nota se testarán de oficio dichas palabras por quien la tenga a su cargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 485.
 
-TRAMITE PARA LA INSCRIPCION DE EXPOSITOS. Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubieren hallado, así como las circunstancias que en el caso hayan concurrido, dándose intervención al Ministerio Público.
-
-La misma obligación tienen los jefes, directores o administradores de los establecimientos penitenciarios y de cualquier casa de comunidad, especialmente los de los hospitales, casa de maternidad y casas de cuna, respecto de los niños nacidos o expuestos en ellas.
-
-En las actas que se levanten en estos casos, por separado se expresarán las circunstancias que menciona este artículo, la edad aparente del niño, el nombre y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él, de acuerdo con lo ordenado por el artículo 480 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 486.
 
-PROHIBICION DE INQUIRIR ACERCA DE LA MATERNIDAD O PATERNIDAD. Se prohibe al Oficial del Registro Civil y a los testigos que conforme al artículo 461, párrafo segundo de este Código, deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se asentará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que éstas sean castigadas en caso de comprobarse conforme a las prescripciones del Código Penal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 487.
 
-NACIMIENTO OCURRIDO EN TRANSPORTE NACIONAL Y DENTRO DEL ESTADO DE MORELOS. Si el nacimiento ocurriere a bordo de un transporte nacional y en territorio Morelense, los interesados harán extender una constancia del acto, en que aparecerán las circunstancias a que se refieren los artículos del 480 al 484 de este Ordenamiento, en su caso, y solicitarán que las autorice el capitán o responsable del transporte y dos testigos que se encuentren a bordo, expresándose si no los hay.
-
-Los interesados entregarán el documento de que habla el párrafo anterior al Oficial del Registro Civil Morelense, para que a su tenor asiente el acta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 488.
 
-ACTAS DE NACIMIENTO EN CASO DE PARTO MULTIPLE. Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 480 de este Código, se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la partera o las personas que hayan asistido al parto y, además, se imprimirán las huellas digitales o plantares de los presentados. El Juez del Registro Civil relacionará las actas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 489.
 
-ACTAS DE NACIMIENTO Y DE DEFUNCION DEL RECIEN NACIDO. Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento atento lo dispuesto por el artículo 61 de este Código y otra de defunción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LAS ACTAS DE ADMISION Y RECONOCIMIENTO
 
 ###### ARTICULO 490.
 
-EFECTOS DE ADMISION O RECONOCIMIENTO DERIVADOS DEL ACTA DE NACIMIENTO. Si el padre o la madre de un hijo nacido fuera de matrimonio, o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal para el padre, y de la admisión para la madre, o respecto del progenitor compareciente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 491.
 
-ADMISION O RECONOCIMIENTO POSTERIOR AL REGISTRO DEL NACIMIENTO. En el reconocimiento o admisión de hijo hecho con posterioridad a su registro de nacimiento, es necesario obtener su consentimiento expreso si es mayor de edad; si es menor de edad pero mayor de catorce años, se requiere su consentimiento y el de la persona que lo tenga bajo su custodia; si es menor de catorce años, solamente se requiere el consentimiento del custodio.
-
-Lo dispuesto en el párrafo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento, o esa presentación se haya hecho después del plazo legal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 492.
 
-REQUISITOS DEL ACTA DE ADMISION O DE RECONOCIMIENTO. El acta de reconocimiento o admisión contendrá: el nombre, apellidos, fecha y lugar de nacimiento, domicilio y huella digital del reconocido o admitido; nombre, apellidos, edad, domicilio y nacionalidad del que admite o reconoce; nombres, apellidos, nacionalidad y domicilio de los abuelos; nombres, apellidos, nacionalidad domicilio y parentesco con el reconocido o admitido, de la persona o personas que otorguen su consentimiento, en su caso; y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
-
-En el acta de reconocimiento o admisión hecho con posterioridad al acta de nacimiento, se hará mención de ésta poniendo en ella la anotación marginal correspondiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 493.
 
-ADMISION O RECONOCIMIENTO EN OFICIALIA DISTINTA A LA DEL REGISTRO DE NACIMIENTO. Si el reconocimiento o admisión se hiciere en oficialía distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento o admisión remitirá a aquélla copia certificada para que haga la anotación en el acta respectiva.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 494.
 
-RECONOCIMIENTO DIVERSO AL DEL REGISTRO. Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro de los quince días siguientes copia certificada del documento que lo compruebe ante el Oficial del Registro Civil, para que se inserte la parte relativa del mismo en el acta, observándose las demás prescripciones contenidas en este Capítulo, y en el Capítulo IV del Título Cuarto de este Libro.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-La omisión del Registro en el caso del párrafo que precede no quita los efectos legales al reconocimiento o admisión hecho conforme a las disposiciones de este Código.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO
 
 ###### ARTICULO 495.
 
-CONTENIDO DE LA SOLICITUD PARA CONTRAER MATRIMONIO. Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
-
-I.- Los nombres, apellidos, edad, nacionalidad, ocupación y domicilio de los pretendientes, así como de sus padres si fueren conocidos; cuando alguno de los pretendientes o los dos hayan sido casados, se expresará el nombre de la persona con quien se haya celebrado el anterior matrimonio, la causa de su disolución y la fecha de ésta;
-
-II.- Que no tienen impedimento legal para casarse; y
-
-III.- Que es su libre voluntad unirse en matrimonio.
-
-Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir, imprimirá su huella digital.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 496.
 
-DOCUMENTOS QUE DEBEN ACOMPAÑARSE A LA SOLICITUD DE MATRIMONIO. Al escrito a que se refiere el artículo anterior se acompañará:
-
-I.- Copia certificada del acta de nacimiento y documento de identificación personal de cada uno de los solicitantes;
-
-II.- La constancia de que otorgan su consentimiento las personas a que se refiere el artículo 125 de este Código, para que el matrimonio se celebre;
-
-III.- La declaración de dos testigos capaces de que conocen a los pretendientes y que no tienen impedimento legal alguno para unirse legalmente. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
-
-IV.- Un certificado suscrito por médico titulado y registrado legalmente, bajo protesta de decir verdad, en que determine, que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento, establecido en el artículo 127, fracciones X y XI de este Código;
-
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. En el convenio se expresará a que régimen quedan sujetos los bienes adquiridos antes del matrimonio.
-
-Si de acuerdo con el artículo 146 de este Cuerpo de Leyes fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de dicha escritura.
-
-VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado; o copia certificada de la sentencia firme de nulidad de matrimonio en caso de que alguno de los pretendientes declarase haber estado casado anteriormente; y
-
-VII.- Copia de la dispensa de impedimento, si lo hubo.
-
-En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V, tendrá la obligación de redactarlo el Oficial de Registro Civil, con los datos que los mismos pretendientes le suministren.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 497.
 
-DENUNCIA DE UN POSIBLE IMPEDIMENTO MATRIMONIAL. El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe. Cuando haya denuncia se expresará en el acta el nombre, edad, ocupación, estado civil y domicilio del denunciante, insertándose íntegramente la denuncia. El acta será firmada por los que en ella intervinieron y remitida al Juzgado de lo Familiar que corresponda, para que se haga la calificación del impedimento.
-
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que fueren falsas sujetan al denunciante a las penas establecidas en la ley. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
-
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta al Juzgado de lo Familiar que corresponda y suspenderá todo procedimiento hasta que esté resuelta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 498.
 
-NOTIFICACION PREVIA A LOS PRETENDIENTES AL ENVIO DE LA DENUNCIA DEL POSIBLE IMPEDIMENTO MATRIMONIAL AL JUZGADO DE LO FAMILIAR. El Oficial del Registro Civil antes de remitir el acta al Juzgado de lo Familiar hará saber a los pretendientes el impedimento denunciado aunque sea relativo solamente a uno de ellos, absteniéndose de tramitar todo procedimiento ulterior hasta que la sentencia cause ejecutoria.
-
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare la inexistencia o se obtenga dispensa de él.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 499.
 
-SANCION AL OFICIAL DEL REGISTRO CIVIL QUE AUTORICE UN MATRIMONIO CONOCIENDO LA EXISTENCIA DE IMPEDIMENTO. El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que existe impedimento legal, o de que éste se ha denunciado, será sancionado como lo disponga el Código Penal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 500.
 
-MEDIDAS PRECAUTORIAS DEL OFICIAL DEL REGISTRO CIVIL PARA EVITAR LA COMISION DE PROBABLES ACTOS ILICITOS RESPECTO DEL ACTA MATRIMONIAL. Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 496 de este Código, serán consignados al Ministerio Público. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
-
-El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
-
-También podrá exigir declaración bajo protesta, a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes, y a las que suscriban el certificado exigido por la fracción IV del artículo 496 de este Ordenamiento. Asimismo podrá recibir cualquier otra prueba procedente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 501.
 
-RATIFICACION DE FIRMAS Y DECLARACIONES ANTE EL OFICIAL DEL REGISTRO CIVIL. El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben otorgar su consentimiento reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere el artículo 496 en su fracción III de este Código, serán ratificadas, bajo protesta de decir verdad ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando la ratificación de la misma ante su presencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 502.
 
-PLAZO Y CELEBRACION MATRIMONIAL. El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil, debiendo estar presentes ante él, los pretendientes o su apoderado especial constituido en la forma prevista por el artículo 470 de este Código y dos testigos por cada uno de ellos, que acrediten su identidad.
-
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que a ella se hayan acompañado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y, si están conformes, los declarará unidos en nombre de la ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio. En caso de negativa de alguno de los solicitantes, se desechará el escrito presentado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 503.
 
-LEVANTAMIENTO Y CONTENIDO DEL ACTA DE MATRIMONIO. Se levantará luego el acta de matrimonio en la cual se hará constar:
-
-I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
-
-II.- Si son mayores o menores de edad;
-
-III.- Los nombres, apellidos, domicilio y nacionalidad de sus padres;
-
-IV.- El consentimiento de éstos, de los abuelos o tutores o de las autoridades que deban suplirlos si los contrayentes son menores de edad;
-
-V.- Que no hubo impedimento legal para el matrimonio, o en su caso, que éste se dispensó;
-
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la Ley y de la sociedad;
-
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
-
-VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, declaración sobre si son o no parientes de los contrayentes; y
-
-IX.- Que se cumplieron las solemnidades exigidas por el artículo anterior.
-
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieran hacerlo, asentándose en su caso, la razón por la que alguna de ellas no firmó al margen del acta, e imprimirán sus huellas digitales los contrayentes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 504.
 
-SOLEMNIDAD EN EL MATRIMONIO COLECTIVO. La celebración colectiva de matrimonios no exime al Oficial del Registro Civil, del cumplimiento estricto de la solemnidad a que se refieren los artículos anteriores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 505.
 
-NEGATIVA DEL OFICIAL DEL REGISTRO CIVIL CUANDO LOS PRETENDIENTES CAREZCAN DE APTITUD LEGAL. Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud, y de los documentos que deben anexarse a ésta, por el conocimiento o apariencia de los interesados, o por denuncia en forma, tuviere noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 506.
 
-SANCION AL OFICIAL DEL REGISTRO CIVIL POR RETARDO INJUSTIFICADO DEL MATRIMONIO. El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado por la primera vez, con multa de cien días de salario mínimo general vigente en la región y en caso de reincidencia, con la destitución de su cargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LAS ACTAS DE DIVORCIO
 
 ###### ARTICULO 507.
 
-LEVANTAMIENTO Y ENVIO DEL ACTA DE DIVORCIO. Ejecutoriada la sentencia de divorcio, el Juez que la hubiere decretado remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, para que levante el acta respectiva, la que contendrá los requisitos especificados en el artículo 508 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 508.
 
-CONTENIDO DEL ACTA DE DIVORCIO. El acta de divorcio contendrá: los nombres, apellidos, edad, domicilio y nacionalidad de los divorciados; los datos de las actas de nacimiento y matrimonio de los mismos y la parte resolutiva de la sentencia judicial; fecha de la resolución, autoridad que la dictó y fecha en que causó ejecutoria.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 509.
 
-ANOTACION DEL ACTA DE DIVORCIO EN OTRAS ACTAS. Extendida el acta de divorcio, se anotará ésta en las de nacimiento y matrimonio de los divorciados; y se archivará con el mismo número del acta de divorcio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LAS ACTAS DE DEFUNCION
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
-
 ###### ARTICULO 510.
 
-INTERVENCION DEL OFICIAL DEL REGISTRO CIVIL PARA EFECTUAR INHUMACION O CREMACION. Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará del fallecimiento mediante certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran doce horas y antes de cuarenta y ocho horas del fallecimiento, excepto los casos en que se ordene lo contrario por autoridad competente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 511.
 
-CONTENIDO DEL ACTA DE DECESO. En el acta de defunción se asentarán los datos que el Oficial del Registro Civil recabe o la información del declarante, que será firmada por dos testigos prefiriéndose a los parientes si los hay, o a los vecinos. Uno de los testigos será aquél en cuya casa haya ocurrido el fallecimiento, o alguno de los vecinos inmediatos.
-
-Asimismo contendrá:
-
-I.- El nombre, apellidos, edad, ocupación, domicilio y nacionalidad del fallecido;
-
-II.- El estado civil de éste; y si era casado o viudo, el nombre y apellidos de su cónyuge;
-
-III.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos y si fueren parientes del fallecido, el grado en que lo sean;
-
-IV.- Los nombres y apellidos de los padres del fallecido si se supieren;
-
-V.- Las causas que determinaron la muerte, el destino, el nombre y ubicación del panteón o crematorio;
-
-VI.- La hora, día, mes, año y lugar de la muerte y todos los informes que se obtengan en caso de muerte violenta;
-
-VII.- El nombre, apellidos, edad, nacionalidad y domicilio del declarante y, en su caso, grado de parentesco con el fallecido; y
-
-VIII.- El nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 512.
 
-PLAZO PARA DAR AVISO DE LA DEFUNCION. Los habitantes de la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes y encargados de los establecimientos de hospedaje y casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil dentro de las veinticuatro horas siguientes a la muerte, y en caso de incumplimiento se sancionará con multa de cien veces el salario mínimo diario general vigente en la región.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 513.
 
-AUXILIO DE LA AUTORIDAD MUNICIPAL EN AUSENCIA DE OFICIALIA DEL REGISTRO CIVIL. Si el fallecimiento ocurriere en un lugar o población en que no haya Oficialía del Registro Civil, la autoridad Municipal extenderá la constancia respectiva, que remitirá al Oficial del Registro Civil que corresponda, para que asiente el Acta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 514.
 
-LEVANTAMIENTO DE ACTA DE DEFUNCION POR MUERTE VIOLENTA O PERSONA DESCONOCIDA. Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta dará parte al Ministerio Público, comunicándole todos los informes que tenga para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe la causa del fallecimiento dará parte al Oficial del Registro Civil para que éste asiente el acta respectiva. Si se ignora el nombre del fallecido, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote.
-
-En los casos de explosión, inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo encontraron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos y objetos que traía consigo.
-
-Si no apareciere el cadáver, pero hubiere certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que lo hayan conocido y los demás datos que sobre el suceso puedan recabarse.
-
-En el caso de muerte a bordo de un transporte, con el aviso que reciba y datos que le proporcione la autoridad competente, el Oficial del Registro Civil levantará el acta en los términos del artículo 511 de este Código en cuanto fuere posible.
-
-El jefe de cualquier puesto o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil de las defunciones que hayan sucedido en la campaña o en otro acto de servicio, especificándose la filiación de los fallecidos. El Oficial del Registro Civil observará en este caso lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 515.
 
-REMISION DEL ACTA DE DEFUNCION AL OFICIAL DEL DOMICILIO DEL FALLECIDO. Cuando alguna persona falleciere en lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil correspondiente, copia certificada del acta de defunción, para que haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 516.
 
-PROHIBICION DE INSCRIBIR CIRCUNSTANCIAS PERJUDICIALES EN EL ACTA DE DEFUNCION. En los casos de muerte en los establecimientos de reclusión, no se hará en los registros mención de esta circunstancia y las actas solamente contendrán los demás requisitos que prescribe el artículo 511, fracciones I y II de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. INSCRIPCION EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA ADOPCION
 
 ###### ARTICULO 517.
 
-PLAZO PARA PRESENTAR COPIA CERTIFICADA SOBRE SENTENCIA DE ADOPCION. Ejecutoriada la resolución judicial que autorice una adopción, el adoptante o los adoptantes dentro del plazo de quince días presentarán ante el Oficial del Registro Civil de su domicilio, copia certificada de la misma, a efecto de que se asiente el acta respectiva.
-
-La falta de registro de la adopción no impide que ésta produzca sus efectos legales, pero sujeta al responsable a una sanción equivalente a cincuenta veces el salario mímino (sic) diario general vigente en la región.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 518.
 
-CONTENIDO DEL ACTA DE ADOPCION. El acta de adopción contendrá: nombre, apellidos, edad, fecha, lugar de nacimiento y domicilio del adoptado; nombre, apellidos, estado civil, domicilio y nacionalidad, del adoptante o adoptantes; nombres, apellidos, domicilio y nacionalidad de los padres de estos últimos, y los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y tribunal que la haya dictado.
-
-Extendida el acta de adopción, se anotará en la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 519.
 
-DE LA INVALIDACION DE LA ADOPCION. El Juzgado o Tribunal al resolver que una adopción queda sin efectos, remitirá dentro del plazo de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y haga la anotación conducente en el acta de nacimiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. INSCRIPCION EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA TUTELA
 
 ###### ARTICULO 520.
 
-PLAZO PARA REMITIR COPIA CERTIFICADA DE LA RESOLUCION SOBRE DISCERNIMIENTO DE TUTELA. Pronunciada la resolución sobre discernimiento de tutela en los términos del Código Procesal Civil, el tutor en un plazo de quince días contados a partir de la fecha de la publicación, presentará copia certificada de la resolución mencionada al Oficial del Registro Civil para que levante el acta respectiva. El curador cuidará el cumplimiento de lo ordenado por este artículo.
-
-La omisión del registro de tutela no impide al tutor entrar en el ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él, pero hace responsable al tutor y curador en los términos que establece el segundo párrafo del artículo 517 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 521.
 
-ELEMENTOS QUE DEBEN INSERTARSE EN EL ACTA DE TUTELA. El acta de tutela contendrá: el nombre, apellidos y edad del incapacitado; la clase de incapacidad por la que se haya otorgado la tutela; el nombre y demás generales de las personas que hayan tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela; el nombre, apellidos, edad, ocupación y domicilio del tutor; la garantía dada por el tutor expresando el nombre, apellidos y demás generales del fiador, si la garantía consiste en fianza, o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca, prenda o fideicomiso; el nombre del Juez que pronunció la resolución de discernimiento y la fecha de ésta.
-
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado observándose lo previsto en el artículo 493 de este Ordenamiento para el caso de que ésta no exista en la misma Oficialía del Registro Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 522.
 
-NOTIFICACION DE LA RECUPERACION DE LA CAPACIDAD LEGAL DEL PUPILO AL OFICIAL DEL REGISTRO CIVIL. Cuando se recobre la capacidad legal, se dará aviso al Oficial del Registro Civil que corresponda por conducto del interesado, mediante la copia certificada de resolución judicial que así lo determine, para efectos de cancelar la inscripción o inscripciones a que se refieren los artículos 520 y 521 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IX. DE LA INSCRIPCION EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACION DE AUSENCIA Y DE LA PRESUNCION DE MUERTE
 
 ###### ARTICULO 523.
 
-PLAZO COMUN PARA REMITIR AL OFICIAL DEL REGISTRO CIVIL COPIA CERTIFICADA DE LA SENTENCIA EJECUTORIADA. Las autoridades judiciales que declaren la incapacidad legal de alguna persona para administrar bienes o su persona, la ausencia o la presunción de muerte, dentro del plazo de quince días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la resolución ejecutoriada respectiva.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 524.
 
-CONTENIDO DEL ACTA QUE SE LEVANTE CON MOTIVO DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES O SU PERSONA; LA AUSENCIA; O LA PRESUNCION DE MUERTE. El acta en que se asiente la ejecutoria que declare la incapacidad para administrar bienes o su persona, contendrá el nombre, apellidos, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, fecha de ésta y tribunal que la dictó.
-
-El acta en donde se asiente la ejecutoria en que se declare la ausencia o la presunción de muerte contendrá los mismos requisitos exigidos en el párrafo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 525.
 
-CANCELACION DEL ACTA CUANDO CESE LA INCAPACIDAD, O SE PRESENTE EL AUSENTE O EL PRESUNTO MUERTO. Cuando se recobre la capacidad legal para administrar bienes o su persona, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO X. DE LA RECTIFICACION Y ACLARACION DE LAS ACTAS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ###### ARTICULO 526.
 
-PROCEDIMIENTO DE ACLARACION DE ACTAS DEL REGISTRO CIVIL. La aclaración de las actas del Registro Civil procederá cuando en la inscripción existan errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecten los datos esenciales de aquéllas, deberá solicitarse la corrección ante las oficialías del registro civil correspondientes de cada municipio o ante el Director del Registro Civil del Estado de Morelos, quien resolverá de la solicitud y remitirá en su caso copia certificada de la resolución que recaiga a la Oficialía del Registro Civil correspondiente para su debida inscripción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del Registro Civil, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en los artículos 849 al 854 del Código Procesal Civil.
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 # LIBRO TERCERO. DE LAS SUCESIONES
 
 EFECTOS JURIDICOS CIVILES PARA DESPUES DE LA MUERTE
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO UNICO. REGLAS GENERALES
 
 ###### ARTICULO 527.
 
-CONCEPTO DE HERENCIA. La herencia es el conjunto de todos los bienes del difunto y de sus derechos y obligaciones que no se extinguen con la muerte. Constituye una universalidad que se transmite en favor de los herederos, a partir del día y hora de la muerte del autor de la sucesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 528.
 
-ORIGEN Y CLASES DE HERENCIA. La herencia deviene por la voluntad del testador o por disposición de la Ley. La primera se llama testamentaria, y la segunda legítima.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 529.
 
-DISPOSICION PATRIMONIAL POR EL TESTADOR. El testador puede disponer de todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 530.
 
-CONDICION DEL HEREDERO. El heredero adquiere a título universal y responde de las obligaciones de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 531.
 
-CONDICION DEL LEGATARIO. El legatario adquiere a título particular y no tiene más obligaciones que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
-
-Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 532.
 
-INCERTIDUMBRE CRONOLOGICA EN LA MUERTE DEL AUTOR DE LA HERENCIA O SUS LEGATARIOS. Si el autor de la herencia y sus herederos o legatarios perecieron sin que pudiera averiguarse con certeza quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 533.
 
-DERECHOS DE LOS HEREDEROS PREVIOS A LA DIVISION. A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria sobre un patrimonio común, mientras no se haga la división.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 534.
 
-DISPOSICION DE DERECHOS HEREDITARIOS. Cada heredero puede disponer del derecho que tiene en la masa hereditaria, pero no puede disponer de las cosas que forman la sucesión, sino conforme a las disposiciones de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 535.
 
-ADQUISICION DE DERECHOS DEL LEGATARIO. El legatario adquiere el derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 536.
 
-INEXISTENCIA DE LA ENAJENACION DE LOS DERECHOS HEREDITARIOS O DEL LEGATARIO. El heredero o legatario no pueden enajenar su parte de la herencia sino después de la muerte de aquel a quien heredan. La contravención a esta disposición producirá la inexistencia del acto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 537.
 
-NOTIFICACION A LOS COHEREDEROS CON DERECHO DEL TANTO. El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta a fin de que aquéllos, dentro del plazo de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de este derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo paso del lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiendo la notificación prescrita en este artículo, será válida pero el heredero vendedor responderá de los daños y perjuicios.
-
-El derecho concedido en el párrafo anterior cesa si la enajenación se hace a un coheredero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 538.
 
-PREFERENCIA EN EL USO DEL DERECHO DEL TANTO ENTRE COHEREDEROS. Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, si las porciones son iguales, los coherederos decidirán entre ellos quién hará uso del derecho y únicamente si surgiere controversia decidirá el juzgado competente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO SEGUNDO. DE LA SUCESION TESTAMENTARIA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ###### ARTICULO 539.
 
-NOCION DE TESTAMENTO. Testamento es un acto jurídico unilateral, personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos en favor de sus herederos o legatarios, o declara y cumple deberes con interés jurídico para después de su muerte.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 540.
 
-PROHIBICION DE TESTAR CONJUNTAMENTE. No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 541.
 
-IMPOSIBILIDAD DE UN TERCERO PARA UTILIZAR SU LIBRE ARBITRIO EN TESTAMENTO. Ni la subsistencia del nombramiento de los herederos o de los legatarios, ni la designación de las cantidades que a ellos corresponda, pueden dejarse al arbitrio de un tercero, aun cuando lo hubiere dispuesto el testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LA CAPACIDAD PARA HEREDAR POR TESTAMENTO
 
 ###### ARTICULO 542.
 
-CAPACIDAD GENERAL E INCAPACIDAD ESPECIFICA PARA HEREDAR. Todos los habitantes del Estado de Morelos, de cualquier edad o condición, tienen capacidad para heredar y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
-
-I.- Por falta de personalidad;
-
-II.- Por la comisión de un delito o de un acto ilícito;
-
-III.- Presunción de influencia contraria o presión a la libertad del testador, o a la verdad o integridad del testamento;
-
-IV.- Por razón de orden público;
-
-V.- Por falta de reciprocidad internacional;
-
-> <small>(REFORMADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-VI.- Por utilidad pública;
-
-> <small>(REFORMADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-VII.- Por renuncia injustificada o remoción del algún cargo conferido en el testamento; y
-
-> <small>(ADICIONADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-VIII.- Los parientes que teniendo obligación de cubrir alimentos abandonaren a los acreedores alimentarios y toda aquella persona que con parentesco o sin él protistuyere (sic) o corrompiere a menores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 543.
 
-INCAPACIDAD PARA HEREDAR POR FALTA DE PERSONALIDAD. Son incapaces de adquirir por testamento, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 61 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 544.
 
-VALIDEZ DE DISPOSICIONES TESTAMENTARIAS. Será válida la disposición hecha en favor de los hijos que nacieren de personas ciertas y determinadas, durante la vida del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 545.
 
-INCAPACIDAD PARA HEREDAR POR LA COMISION DE UN DELITO O ACTO ILICITO. Por razón de delito son incapaces de adquirir por testamento:
-
-I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge, o hermanos de ella;
-
-II.- El que haya presentado contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena de prisión aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano; a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o las de las personas antes señaladas; así como también cuando la acusación es declarada calumniosa, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge, o hermano del acusador;
-
-III.- El cónyuge que mediante juicio haya sido declarado adúltero, si se trata de suceder al cónyuge inocente;
-
-IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
-
-V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
-
-VI.- El padre o la madre respecto del hijo expuesto por ellos;
-
-VII.- Los padres que abandonaren o prostituyeren a sus hijos, o atentaren a su pudor respecto de los ofendidos;
-
-VIII.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
-
-IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos, no cuidaren de recogerlo, o de hacerlo acoger en establecimiento de beneficencia;
-
-X.- El que usare de violencia, dolo o fraude con una persona que haga, deje de hacer o revoque su testamento; y
-
-XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 546.
 
-RECUPERACION DE LA CAPACIDAD PARA HEREDAR POR PERDON DEL OFENDIDO. Cuando la parte agraviada de cualquiera de los modos que expresa el artículo anterior perdonare al ofensor, recobrará éste el derecho de suceder al ofendido, si el perdón consta por declaración auténtica o por hechos indubitables.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 547.
 
-RECUPERACION DE LA CAPACIDAD PARA HEREDAR POR TESTAMENTO. La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior, con las mismas formalidades que se exigen para testar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 548.
 
-CAPACIDAD PARA HEREDAR EN CASO DE INTESTADO. En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 542 heredarán al autor de la sucesión, no debiendo ser excluido por la falta de su ascendiente, pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo ni la administración que la Ley otorga a los padres sobre los bienes de sus hijos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 549.
 
-INCAPACIDAD POR PRESUNCION DE INFLUENCIA O PRESION CONTRARIA A LA LIBERTAD DEL TESTADOR O INTEGRIDAD DEL TESTAMENTO. Por presunción de influencia o presión contraria a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
-
-La incapacidad a que se refiere el párrafo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la fracción IX del artículo 545 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 550.
 
-INCAPACIDAD PARA HEREDAR POR TESTAMENTO DE LOS MEDICOS Y SUS FAMILIARES. Por presunción contraria a la libertad del testador, son incapaces de heredar por testamento, el médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria, así como el cónyuge, ascendientes, descendientes y hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 551.
 
-INCAPACIDAD PARA HEREDAR POR TESTAMENTO DE LOS NOTARIOS. Por presunción de influencia o presión contraria a la verdad e integridad del testamento, son incapaces de heredar el notario y los testigos que intervinieron en él, a menos que estos últimos sean familiares del testador así como sus cónyuges, descendientes, ascendientes o hermanos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 552.
 
-INCAPACIDAD PARA HEREDAR DE LOS MINISTROS DE CULTOS. Los ministros de culto, sus ascendientes, descendientes, hermanos, cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 553.
 
-SANCION AL NOTARIO POR AUTORIZACION INDEBIDA DE TESTAMENTO. El notario que a sabiendas autorice un testamento en que contravenga lo dispuesto en los tres artículos anteriores sufrirá la pena de privación de oficio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 554.
 
-INCAPACIDAD PARA HEREDAR POR RAZONES DE ORDEN PUBLICO. Los extranjeros y las personas morales son capaces de adquirir bienes por testamento o por intestado, pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 555.
 
-INCAPACIDAD PARA HEREDAR POR FALTA DE RECIPROCIDAD INTERNACIONAL. Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado de los habitantes del Estado de Morelos, los extranjeros que, según las leyes de su país, no pueden testar o dejar por intestado sus bienes a favor de los mexicanos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 556.
 
-INCAPACIDAD PARA HEREDAR POR RENUNCIA O RECHAZO INJUSTIFICADO O REMOCION DEL CARGO. Por renuncia o remoción de un cargo, son incapaces de heredar por testamento los que, nombrados en él tutores, curadores o albaceas, hayan rehusado, sin justa causa, el cargo, o por mala conducta hayan sido separados judicialmente de su ejercicio.
-
-Lo dispuesto en la primera parte del párrafo anterior no comprende a los que, desechada por el Juez la excusa, hayan desempeñado el cargo.
-
-Las personas llamadas por la Ley para desempeñar la tutela legítima y que rehusen sin causa legítima desempeñarla, no tienen derecho a heredar de los incapaces de quienes deben ser tutores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 557.
 
-TESTAMENTO EN FAVOR DE CLASES CON MIEMBROS INDETERMINADOS. Cuando el testador deje como herederos o legatarios a clases formadas por número indeterminado de individuos, tales como los pobres, los huérfanos, los ciegos, y otras personas de condiciones similares, se regirán por lo dispuesto en las Leyes de Asistencia Social. Los testamentos hechos en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en los artículos 27 y 130 de la Constitución Federal y sus leyes reglamentarias.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 558.
 
-IMPRECISION TESTAMENTARIA EN FAVOR DE LOS PARIENTES DEL TESTADOR. La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes más próximos, según el orden de la sucesión legítima.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 559.
 
-NULIDAD DE LAS DISPOSICIONES TESTAMENTARIAS EN LAS QUE MEDIE ERROR. Las disposiciones hechas a título universal o particular, no tienen ningún efecto cuando se funden en una causa expresa, que resulte errónea, si ha sido la única que determinó la voluntad del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 560.
 
-INTERPRETACION DE LAS DISPOSICIONES TESTAMENTARIAS. Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad del testador.
-
-En caso de duda sobre la comprensión o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 561.
 
-TIEMPO Y CONDICIONES DE LA CAPACIDAD PARA HEREDAR. Para que el heredero pueda suceder, basta que sea capaz al tiempo de la muerte del autor de la herencia.
-
-Si la institución fuere condicional, se necesitará, además, que el heredero sea capaz al tiempo en que se cumpla la condición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 562.
 
-EFECTOS DE LA MUERTE DEL HEREDERO. El heredero por testamento, que muera antes que el testador o antes de que se cumpla la condición, el incapaz de heredar y el que renuncia a la sucesión, no podrán transmitir ningún derecho a sus herederos.
-
-En los casos del párrafo anterior la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 563.
 
-CARGAS Y CONDICIONES DEL HEREDERO SUBSTITUTO. El que hereda en lugar del excluido, tendrá las mismas cargas y condiciones que legalmente se hubieren impuesto a aquél.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 564.
 
-IMPROCEDENCIA DE LA CONTRAPRETENSION DE INCAPACIDAD A LOS DEUDORES HEREDITARIOS. Los deudores hereditarios que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario, la defensa de incapacidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 565.
 
-CASOS EN QUE SE PRIVA TAMBIEN DE LOS ALIMENTOS AL HEREDERO. A excepción de los casos comprendidos en las fracciones X y XI del artículo 545 de este Código, la incapacidad para heredar a que se refiere ese numeral, priva también de los alimentos que correspondan por Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 566.
 
-EFECTOS DE LA DECLARACION JUDICIAL DE INCAPACIDAD DEL HEREDERO. La incapacidad no produce el efecto de privar al incapaz de lo que hubiere de percibir, sino después de declarada aquélla en juicio, a petición de algún interesado, no pudiendo promoverla el Juez de oficio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 567.
 
-OPORTUNIDAD PARA ENTABLAR LA DEMANDA POR INCAPACIDAD DEL HEREDERO. No puede deducirse pretensión para declarar la incapacidad, pasados tres años desde que el incapaz esté en posesión de la herencia o legado, salvo que se trate de incapacidades establecidas en vista del interés público, las cuales en todo tiempo pueden hacerse valer.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 568.
 
-DECLARACION JUDICIAL DE INCAPACIDAD DEL HEREDERO QUE HUBIERE ENTRADO EN POSESION DE LA HERENCIA. Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá; mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Lo dispuesto en este artículo también se aplicará al heredero aparente cuando fuere privado de la herencia, así como respecto a los actos y contratos que celebre.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LA CAPACIDAD PARA TESTAR
 
 ###### ARTICULO 569.
 
-POSIBILIDAD DE DISPONER POR TESTAMENTO. Pueden testar todos aquéllos a quienes la Ley no prohibe expresamente el ejercicio de ese derecho.
-
-Para juzgar de la capacidad del testador se atenderá especialmente al estado mental en que se halle al hacer el testamento.
-
-Es válido el testamento hecho por un demente en un intervalo de lucidez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 570.
 
-TESTAMENTO POR DEMENTES. Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
-
-Se hará constar en acta formal el resultado del reconocimiento.
-
-Si éste fuere favorable, se procederá desde luego a la formación de testamento ante notario público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
-
-Firmarán el acta, además del notario y de los testigos, el juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio y sin este requisito y su constancia, será nulo el testamento.
-
-Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 571.
 
-INCAPACIDAD PARA TESTAR. Están incapacitados para testar:
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-I.- Los menores que no han cumplido dieciséis años de edad; y
-
-II.- Los que constante o accidentalmente no disfruten de su cabal juicio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV
 
@@ -3859,71 +2855,53 @@ DE LAS CONDICIONES, TERMINOS O PLAZOS QUE PUEDEN ESTABLECERSE EN LOS TESTAMENTOS
 
 ###### ARTICULO 572.
 
-LIBERTAD DEL TESTADOR DE IMPONER CONDICIONES O TERMINOS. El testador es libre para establecer condiciones o términos al disponer de sus bienes, con las limitaciones establecidas en este capítulo.
-
-Las condiciones impuestas a los herederos y legatarios, en lo que no esté prevenido en este Capítulo, se regirán por las reglas establecidas para las obligaciones condicionales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 573.
 
-INCUMPLIMIENTO QUE NO PERJUDICA AL HEREDERO O LEGATARIO. La falta de cumplimiento de alguna condición impuesta al heredero o al legatario, no perjudicará a éstos siempre que hayan empleado los medios necesarios o posibles para cumplir aquélla.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 574.
 
-HERENCIA DEL PADRE AL HIJO CON LA CARGA DE TRANSFERIR BIENES EN FAVOR DE SUS HIJOS. Puede el padre dejar una parte o la totalidad de sus bienes a sus hijos, con la carga de transferirlos al hijo o hijos que éstos tuvieren, hasta la muerte del testador, teniéndose en cuenta lo dispuesto en el artículo 543, en cuyo caso el heredero se considerará como usufructuario.
-
-La disposición que autoriza el párrafo anterior, será nula cuando la transmisión de los bienes deba hacerse a descendientes de ulteriores grados.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 575.
 
-CONDICIONES TESTAMENTARIAS IMPOSIBLES E ILICITAS. La condición física o legalmente imposible de dar o de hacer, impuesta al heredero o legatario, se tiene por no puesta, pero si sólo en razón a la condición se hizo la institución de heredero o legatario, la institución misma será nula.
-
-Las condiciones ilícitas, las prohibidas por la Ley o contrarias a las buenas costumbres, se tienen por no puestas, o anulan la institución.
-
-Si la condición que era imposible al tiempo de otorgar el testamento, dejare de serlo a la muerte del testador, será válida.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 576.
 
-NULIDAD DE DISPOSICIONES TESTAMENTARIAS DEL HEREDERO O LEGATARIO EN FAVOR DEL TESTADOR. Es nula la institución hecha bajo la condición de que el heredero o el legatario hagan en su testamento alguna disposición en favor del testador o de otra persona.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 577.
 
-EFECTOS DE LA CONDICION SUSPENSIVA PARA LA EJECUCION DEL TESTAMENTO. La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o el legatario adquieran derecho a la herencia o legado o lo transmitan a sus herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 578.
 
-PLAZO TESTAMENTARIO PARA EL CUMPLIMIENTO DE LA CONDICION. Cuando el testador hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea y al hacerse la partición se asegurará cabalmente el derecho del legatario para el caso de cumplirse la condición, observándose, además, las disposiciones establecidas para hacer la partición cuando alguno de los herederos fuere condicional.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 579.
 
-EFECTOS DE LA CONDICION ALTERNATIVA. Si la condición es puramente alternativa de dar o hacer alguna cosa, y el que ha sido gravado con ella ofrece cumplirla; pero aquél a cuyo favor se estableció rehusa aceptar la cosa o el hecho, la condición se tiene por cumplida.
-
-La condición alternativa se tendrá por cumplida aun cuando el heredero o legatario haya prestado la cosa o el hecho antes de que se otorgara el testamento, a no ser que pueda reiterarse la prestación, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
-
-En el caso final del párrafo que precede, corresponde al que debe pagar el legado la carga de la prueba de que el testador tuvo conocimiento de la primera prestación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 580.
 
-CONDICIONES HEREDITARIAS QUE SE TENDRAN POR NO PUESTAS. Se tendrán por no puestas:
-
-I.- La condición de no dar o de no hacer;
-
-II.- La condición de no impugnar el testamento o alguna de las disposiciones que contenga, so pena de perder el carácter de heredero o legatario; y
-
-III.- La condición impuesta al heredero o legatario, de tomar o dejar de tomar estado.
-
-Podrán, sin embargo, dejarse a alguno el uso o habitación, una pensión alimenticia periódica o el usufructo que equivalga a ésta, por el tiempo que permanezca soltero o viudo. La pensión alimenticia se fijará de acuerdo con lo prevenido en el artículo 105 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 581.
 
-EFECTOS DE LA CONDICION MIXTA. Cuando la condición fuere mixta, bastará que se realice en cualquier tiempo, vivo o muerto el testador, si éste no hubiere dispuesto otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 582.
 
-CONOCIMIENTO O NO DEL TESTADOR DEL CUMPLIMIENTO DE LA CONDICION. Si la condición se hubiere cumplido al hacerse el testamento ignorándolo el testador, se tendrán (sic) por cumplida; mas si lo sabía, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 583.
 
-EFECTOS RETROACTIVOS CUANDO SE CUMPLE LA CONDICION. La condición que se ha cumplido, existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V
 
@@ -3931,1921 +2909,1505 @@ DE LA OBLIGACION TESTAMENTARIA DE PROPORCIONAR ALIMENTOS Y DEL TESTAMENTO INOFIC
 
 ###### ARTICULO 584.
 
-PERSONAS A LOS QUE EL TESTADOR DEBE PROPORCIONAR ALIMENTOS. El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
-
-I.- A los descendientes menores de edad respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
-
-II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad, cuando exista la obligación a que se refiere la fracción anterior;
-
-III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
-
-IV.- A los ascendientes;
-
-V.- A la persona con quien el testador vivió como si fuere su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nuevas nupcias y observe buena conducta. Si fueron varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos; y
-
-VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 585.
 
-CASOS EN QUE NO HAY OBLIGACION DE DEJAR PENSION ALIMENTICIA. El testador no está obligado a proporcionar alimentos, sino:
-
-I.- A falta o por imposibilidad de los parientes más próximos en grado; y
-
-II.- Tampoco habrá obligación de dar alimentos a las personas que tengan bienes, pero si teniéndolos su producto no iguala a la pensión que debería corresponderles, la obligación se reducirá a lo que falte para completarla.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 586.
 
-REQUISITOS PARA RECIBIR PENSION ALIMENTICIA DEL TESTADOR. Para tener derecho a ser acreedor alimenticio se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 584 de este Ordenamiento y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 587.
 
-PROHIBICION DE RENUNCIA O TRANSACCION A LA PENSION ALIMENTICIA. El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 102 y 103 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje de lo antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo III, Título Segundo, Libro Segundo de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 588.
 
-REGLAS CUANDO EL CAUDAL HEREDITARIO ES INSUFICIENTE. Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 584 de este Ordenamiento, se observarán las reglas siguientes:
-
-I.- Se ministrarán a los descendientes y al cónyuge supérstite a prorrata;
-
-II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
-
-III.- Después se ministrarán también a prorrata, a los hermanos y a la concubina o concubino; y
-
-IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 589.
 
-TESTAMENTO INOFICIOSO. Es inoficioso el testamento en que no se deja la pensión alimenticia, según lo establecido en este Capítulo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 590.
 
-DERECHO DEL PRETERIDO A LA PENSION ALIMENTARIA. El preterido tendrá solamente derecho a que se le dé la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
-
-No obstante, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiera testamento, a menos que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 591.
 
-PENSION ALIMENTICIA COMO CARGA DE LA MASA HEREDITARIA. La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
 ###### ARTICULO 592.
 
-VALIDEZ DEL TESTAMENTO AUN SIN LA INSTITUCION DE HEREDERO. El testamento otorgado legalmente será válido, aunque no contenga institución de heredero o legatario y aunque los nombrados no acepten la herencia o legado, o sean incapaces de heredar.
-
-En los tres casos señalados en el párrafo anterior, se cumplirán las demás disposiciones testamentarias que estuvieren hechas conforme a las leyes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 593.
 
-INSTITUCION DE HEREDERO SUJETO A TERMINO. La designación del día en que deba comenzar o cesar la institución de heredero, producirá el efecto de que entre tanto se cumpla el término suspensivo, los frutos y productos de los bienes objeto de la institución corresponderán a la masa hereditaria, o una vez realizado el término extintivo, pasarán a la misma masa hereditaria los bienes o derechos objeto de la institución de heredero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 594.
 
-HERENCIA A PRORRATA. Los herederos instituidos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 595.
 
-HEREDERO DE COSA CIERTA Y DETERMINADA. El heredero instituido de cosa cierta y determinada debe tenerse por legatario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 596.
 
-NOMBRAMIENTO INDIVIDUAL Y COLECTIVO DE HEREDEROS. Aunque el testador nombre algunos herederos de manera individual y a otros colectivamente nombrados, se considerarán como si fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 597.
 
-INSTITUCION DE HEREDEROS A LOS HERMANOS Y A OTROS COLATERALES. Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, o de padre y madre, se dividirán la herencia como en el caso de intestado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 598.
 
-INSTITUCION SIMULTANEA DE HEREDEROS. Si el testador llama a la sucesión a cierta persona y a sus hijos, se entenderán todos instituidos simultánea y no sucesivamente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 599.
 
-REQUISITOS PARA INSTITUIR HEREDEROS. El heredero debe ser instituido designándolo por su nombre y apellido, y si hubiere varios que tuvieren el mismo nombre y apellido, deben agregarse otros nombres y circunstancias que distingan al que se quiere nombrar.
-
-Aunque se haya omitido el nombre del heredero, si el testador le designare de otro modo que no pueda dudarse quién sea, valdrá la institución.
-
-Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quién quiso designar el testador, ninguno será heredero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 600.
 
-ERROR CIRCUNSTANCIAL EN LA INSTITUCION DE HEREDERO. El error en el nombre, apellido o cualidades del heredero, no vicia la institución, si de otro modo se supiere ciertamente cuál es la persona nombrada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 601.
 
-NULIDAD DEL TESTAMENTO POR INCERTIDUMBRE EN LA PERSONA O EN LA COSA. Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON EL APARTADO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DE LOS LEGADOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
 ###### ARTICULO 602.
 
-NOCION DE LEGADO. Se entiende por legado la transmisión gratuita y a título particular hecha por el testador, en favor del legatario, respecto de bienes o derechos determinados o susceptibles de determinarse.
-
-Cuando no haya disposiciones especiales, los legatarios se regirán por la (sic) mismas normas que los herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 603.
 
-OBJETO DEL LEGADO. El legado puede consistir en la prestación de cosas, en la transmisión de derechos, o en la ejecución de algún hecho o servicio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 604.
 
-FALTA DE EFECTOS DEL LEGADO. No produce efecto el legado si por acto del testador pierde la cosa legada la forma y denominación que la determinaban.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 605.
 
-IMPOSICION DE GRAVAMENES POR LEGADOS. Por virtud del legado, el testador puede imponer obligaciones a cargo de la herencia o de un heredero. También puede gravar con legados de dar o de hacer no sólo a los herederos sino a los mismos legatarios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 606.
 
-ENTREGA, GASTOS Y DEPOSITO DE LA COSA LEGADA. La cosa legada deberá ser entregada con todos sus accesorios y en el estado en que se halle al morir el testador.
-
-Los gastos necesarios para la entrega de la cosa legada serán a cargo del legatario, salvo disposición del testador en contrario.
-
-Entre tanto se entregue la cosa legada al legatario, el deudor de la misma, o el albacea en su caso, serán depositarios de ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 607.
 
-ACEPTACION Y REPUDIO DE UN LEGADO. Si el legatario muere antes de aceptar un legado y deja varios herederos, puede uno de éstos aceptar y otro repudiar la parte que le corresponda en el legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 608.
 
-ACEPTACION Y REPUDIO EN CASO DE EXISTIR DOS LEGADOS. Si se dejaren dos legados y uno fuere oneroso, el legatario no podrá renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 609.
 
-COEXISTENCIA DE HEREDERO Y LEGATARIO. El heredero que sea al mismo tiempo legatario, puede renunciar la herencia y aceptar el legado o renunciar éste y aceptar aquélla.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 610.
 
-LEGATARIO PREFERENTE. El acreedor cuyo crédito no conste más que por testamento, se tendrá para los efectos legales como legatario preferente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 611.
 
-CONTENIDO DEL LEGADO. Cuando se legue una cosa con todo lo que comprenda, no se entenderán legados los documentos justificantes de propiedad, ni los créditos activos, a no ser que se hayan mencionado específicamente.
-
-Si el que lega una propiedad le agrega después nuevas adquisiciones, no se comprenderán éstas en el legado, aunque sean contiguas, si no hay nueva declaración del testador.
-
-La declaración a que se refiere el párrafo precedente no se requiere respecto de las mejoras necesarias, útiles o voluntarias hechas en el mismo predio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 612.
 
-CONTENIDO DEL LEGADO DE MENAJE DE CASA. El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 949 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 613.
 
-CAUCION AL LEGATARIO. El legatario puede exigir que el heredero otorgue caución en todos los casos en que pueda exigirla el acreedor.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 614.
 
-CAUCION NECESARIA AL EXISTIR SOLO LEGATARIOS. Si sólo hubiere legatarios, podrán éstos exigirse entre sí la constitución de la caución necesaria.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 615.
 
-IMPOSIBILIDAD DEL LEGATARIO PARA OCUPAR LA COSA LEGADA. No puede el legatario ocupar por su propia voluntad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
-
-Los legatarios no podrán exigir el pago de sus legados, sino hasta que el inventario haya sido formado y aprobado dentro de los términos de la Ley.
-
-En caso de omisión atribuible al albacea, los legatarios podrán exigir la entrega de sus legados, una vez transcurrido el plazo legal para la formulación y aprobación del inventario, otorgando la caución que el Juez fije en cada caso.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 616.
 
-RETENCION DE LA COSA LEGADA. Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 617.
 
-DEDUCCION DE LAS CONTRIBUCIONES DEL LEGADO. El importe de las contribuciones correspondientes al legado, se deducirá del valor de éste, a no ser que el testador disponga otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 618.
 
-DISTRIBUCION TOTAL DE LA HERENCIA EN LEGADOS. Si toda la herencia se distribuye en legados, se prorratearán las deudas y gravámenes de ella entre todos los partícipes, en proporción de sus porcentajes, a no ser que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 619.
 
-INEFICACIA DE LOS LEGADOS. El legado queda sin efecto si la cosa legada perece viviendo el testador, si se pierde por evicción, fuera del caso previsto en el artículo 649 de este Código, o si perece después de la muerte del testador, sin culpa del heredero.
-
-Si el bien perece después de la muerte del testador, el legatario tiene derecho de recibir la indemnización cuando la cosa hubiere estado asegurada.
-
-Quedan también sin efecto el legado, si el testador enajena la cosa legada, pero vale si la recobra por un título legal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 620.
 
-PREFERENCIA EN EL PAGO DE LOS LEGADOS. Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el siguiente orden:
-
-I.- Legados remuneratorios;
-
-II.- Legados que el testador o la Ley haya declarado preferentes;
-
-III.- Legados de cosa cierta y determinada;
-
-IV.- Legados de alimentos o de educación; y
-
-V.- Los demás a prorrata.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 621.
 
-REIVINDICACION DE LOS LEGATARIOS RESPECTO DE TERCEROS. Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose lo dispuesto para los actos y contratos que celebren los que en el Registro Público de la Propiedad aparezcan con derecho para ello, con los terceros de buena fe que los inscriban.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 622.
 
-EFECTOS DEL LEGADO PAGADO CUANDO SE DECLARA NULO EL TESTAMENTO. Si se declara nulo el testamento después de pagado el legado, la pretensión del verdadero heredero para recobrar la cosa legada procede contra el legatario y no contra el otro heredero, a no ser que éste haya hecho con dolo la partición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 623.
 
-PROPORCIONALIDAD EN EL PAGO DE CARGAS HEREDITARIAS O DE LEGADOS. Si el heredero o legatario renunciaren a la sucesión, la carga que se les haya impuesto se pagará solamente con la cantidad a que tenga derecho el que renunció.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 624.
 
-CARGA DEL HEREDERO O LEGATARIO PARA REALIZAR UN HECHO. Si la carga consiste en la ejecución de un hecho, el heredero o legatario que acepte la sucesión queda obligado a prestarlo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 625.
 
-REDUCCION PROPORCIONAL DEL LEGADO POR GRAVAMEN. Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente, y si sufre evicción, podrá repetir lo que haya pagado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 626.
 
-ELECCION EN LOS LEGADOS ALTERNATIVOS. En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario. Si el heredero tiene la elección, puede entregar la cosa de menor valor; si la elección corresponde al legatario, puede exigir la cosa de mayor valor.
-
-En los casos en que el que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos. El Juez, a petición de parte legítima, hará la elección, si en el plazo que le señale no la hiciere la persona que tenga derecho de hacerla.
-
-La elección hecha legalmente es irrevocable.
-
-En los legados alternativos se observará además lo dispuesto para las obligaciones alternativas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 627.
 
-LEGADO DE COSA PROPIA. Cuando el legado es de cosa específica y determinada, propia del testador, el legatario adquiere su propiedad desde que aquél muere y hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto otra cosa.
-
-La cosa legada en el caso del párrafo anterior, correrá desde el mismo instante a riesgo del legatario; y en cuanto a su pérdida, aumento o deterioro posteriores, se observará lo dispuesto en las obligaciones de dar, para el caso de que se pierda, deteriore o aumente la cosa cierta que debe entregarse.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 628.
 
-LEGADO PARCIAL DE COSA PROPIA. Cuando el testador, el heredero o el legatario sólo tengan cierta parte o derecho en la cosa legada, y el primero no declarare de un modo expreso que sabía que la cosa pertenecía parcialmente a otro, y que no obstante, la legaba por entero, el legado sólo será válido en la parte que corresponda al testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 629.
 
-NULIDAD DEL LEGADO DE COSA PROPIA. Es nulo el legado que el testador hace de cosa propia individualmente determinada, que al tiempo de su muerte no se halle en su herencia.
-
-Si la cosa mencionada en el párrafo que precede existe en la herencia, pero no en la cantidad y número designados, tendrá el legatario lo que hubiere.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 630.
 
-VALIDEZ DE LEGADO DE COSA AJENA. El legado de cosa ajena, si el testador sabía que lo era, es válido y el heredero está obligado a adquirirla para entregarla al legatario o a dar a éste su precio.
-
-Es válido el legado si el testador, después de otorgado el testamento, adquiere la cosa que al otorgarlo no era suya.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 631.
 
-NULIDAD DEL LEGADO DE COSA AJENA. Si el testador ignoraba que la cosa legada era ajena, es nulo el legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 632.
 
-INCERTIDUMBRE O SUJECION JUDICIAL DE LA PROPIEDAD OBJETO DE LEGADO. Si la propiedad de la cosa legada era incierta o dudosa o estaba sujeta a juicio, el legado será válido y en su caso se procederá en los términos del artículo 630 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 633.
 
-VALIDEZ DEL LEGADO EN BIENES DEL TESTADOR. Si en la cosa legada tiene alguna parte el testador o un tercero sabiéndolo aquél, en lo que a ellos corresponda, vale el legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 634.
 
-EFECTOS DEL LEGADO DESPUES DE OTORGADO EL TESTAMENTO. Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 635.
 
-VALIDEZ DEL LEGADO EN FAVOR DE TERCERO SOBRE BIENES PROPIOS DEL HEREDERO O LEGATARIO. Es válido el legado hecho a un tercero de cosa propia del heredero o de un legatario, quienes, si aceptan la sucesión deberán entregar la cosa legada o su precio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 636.
 
-NULIDAD DEL LEGADO SOBRE COSA PROPIA DEL HEREDERO O LEGATARIO. Si el testador ignoraba que la cosa fuese propia del heredero o del legatario, será nulo el legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 637.
 
-EXTINCION POR LEGADO DE LA PRENDA, HIPOTECA O FIANZA. El legado que consiste en la devolución de la cosa recibida en prenda, o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
-
-Lo dispuesto en el párrafo que precede se observará también en el legado de una fianza, ya sea hecho al fiador, ya al deudor principal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 638.
 
-DESEMPEÑO O REDENCION DE LA PRENDA O HIPOTECA SOBRE LA COSA LEGADA. Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
-
-Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
-
-Cualquiera otra carga a que se halle afecta la cosa legada, pasa con ésta al legatario; pero en ambos casos las rentas y los réditos devengados hasta la muerte del testador son carga de la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 639.
 
-LEGADO DE DEUDA. El legado de una deuda hecho al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a desempeñar las prendas, a cancelar las hipotecas y las fianzas y a liberar al legatario de toda responsabilidad.
-
-Legado el título, sea público o privado, de una deuda, se entiende legada ésta, observándose lo dispuesto en el artículo 637 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 640.
 
-LEGADO NO COMPENSATORIO EN FAVOR DEL ACREEDOR. El legado hecho al acreedor no compensa el crédito, a no ser que el testador lo declare expresamente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 641.
 
-LEGADO COMPENSATORIO EN FAVOR DEL ACREEDOR. En caso de compensación, si los valores fueren diferentes, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 642.
 
-LEGADO PARA MEJORAMIENTO DE LA CONDICION DEL DEUDOR. Por medio de un legado, puede el deudor mejorar su condición respecto de su acreedor, haciendo puro el crédito condicional, hipotecario el simple, o exigible desde luego el que lo sea a plazo; pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 643.
 
-LEGADO DE CREDITO. El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efecto en la parte del crédito que esté insoluto al tiempo de abrirse la sucesión.
-
-En el caso del párrafo anterior, el que debe cumplir el legado entregará al legatario el título del crédito y le cederá todas las pretensiones que en virtud de él correspondan al testador, por lo que, el que debe pagar el legado queda enteramente libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 644.
 
-SUBSISTENCIA DE LOS INTERESES EN LOS LEGADOS DE DEUDA Y CREDITO. Los legados de que hablan los artículos 639 y 643 de este Ordenamiento, comprenden los intereses que por el crédito o deuda se deban a la muerte del testador.
-
-Dichos legados subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 645.
 
-LEGADO DE LIBERACION DE DEUDAS. El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgar el testamento y no las posteriores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 646.
 
-LEGADO DE BIENES MUEBLES INDETERMINADOS. El legado de bien mueble indeterminado, pero comprendido en género determinado, será válido, aunque en la herencia no haya bien alguno del género a que el bien legado pertenezca.
-
-En el caso del párrafo anterior, la elección es del que debe pagar el legado, quien, si los bienes existen, cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o a juicio de peritos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 647.
 
-ELECCION EXPRESA EN FAVOR DEL LEGATARIO SOBRE BIENES DE GENERO DETERMINADO. Si el testador concede expresamente la elección al legatario, éste podrá, si hubiese varios bienes del género determinado, escoger el mejor, pero si no los hay sólo podrá exigir uno de mediana calidad o el precio que le corresponda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 648.
 
-LEGADO SOBRE BIEN INMUEBLE INDETERMINADO. Si el bien indeterminado fuere inmueble, sólo valdrá el legado existiendo en la herencia varios del mismo género, para la elección se observarán las reglas establecidas en el artículo 646 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 649.
 
-EVICCION EN LEGADOS DE BIENES INDETERMINADOS. El obligado a la entrega del legado responderá en caso de evicción, si el bien fuere indeterminado y se señalase solamente por género o especie.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 650.
 
-LEGADO DE ESPECIE. En el legado de especie, el heredero debe entregar la misma cosa legada, en caso de pérdida se observará lo dispuesto para las obligaciones de dar cosa determinada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 651.
 
-LEGADO DE DINERO. Los legados en dinero deben pagarse en esa especie, y si no la hay en la herencia, con el producto de los bienes que al efecto se vendan.
-
-El legado de cosa o cantidad depositada en lugar designado, sólo subsistirá en la parte que en él se encuentre.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 652.
 
-TEMPORALIDAD DEL LEGADO DE ALIMENTOS. El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto que dure menos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 653.
 
-APLICACION DE LAS REGLAS SOBRE ALIMENTOS EN LEGADOS DE LA MISMA ESPECIE. Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el Capítulo III, Título Segundo del Libro Segundo de este Código.
-
-Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 654.
 
-DURACION Y TERMINACION DEL LEGADO DE EDUCACION. El legado de educación dura hasta que el legatario sale de la menor edad.
-
-Cesa también el legado de educación, si el legatario, durante la menor edad obtiene profesión u oficio con qué poder subsistir, o si contrae matrimonio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 655.
 
-LEGADO DE PENSION. El legado de pensión, sea cual fuere la cantidad, el objeto y los plazos, corre desde la muerte del testador, es exigible al principio de cada periodo, y el legatario hace suya la que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 656.
 
-DURACION Y TERMINACION DE LOS LEGADOS DE USO, USUFRUCTO, HABITACION Y DE SERVIDUMBRE. Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que duren menos.
-
-Duran veinte años los legados de que trata el párrafo anterior, si fueren dejados a alguna corporación que tuviere capacidad de adquirirlos.
-
-Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extinga, sin que el heredero tenga obligación de ninguna clase.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 657.
 
-LEGADO DE HACER EN FAVOR DE TERCERO. La carga de hacer alguna cosa se considerará como legado de hacer en favor de tercero.
-
-Si no se hubiere señalado tiempo para el cumplimiento de la carga, ni ésta por su naturaleza lo tuviere, se aplicarán las reglas de las obligaciones de hacer.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 658.
 
-LEGADO DE PRESTACION PERIODICA. Si el legado fuere de prestación periódica que deba concluir en un día que es inseguro si llegará o no, llegado el día, el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día; asimismo hará suyas todas las cantidades vencidas hasta el día señalado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 659.
 
-COMIENZO DEL TERMINO DEL LEGADO. Si el día en que debe comenzar el legado fuere seguro, sea que se sepa o no cuándo ha de llegar, el que ha de entregar la cosa legada tendrá respecto de ella, los derechos y las obligaciones del usufructuario.
-
-En el caso del párrafo anterior, si el legado consiste en prestación periódica, el que debe pagarlo hace suyo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 660.
 
-CONCLUSION DEL LEGADO. Cuando el legado debe concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DE LAS SUBSTITUCIONES
 
 ###### ARTICULO 661.
 
-POSIBILIDAD DEL TESTADOR PARA SUBSTITUIR HEREDEROS. Puede el testador substituir una o más personas al heredero o herederos instituidos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 662.
 
-PROHIBICION DE SUBSTITUCIONES FIDEICOMISARIAS. Quedan prohibidas las substituciones fideicomisarias y cualquiera otra diversa de las contenidas en el artículo anterior, sea cual fuere la forma con que se revistan.
-
-La nulidad de la substitución fideicomisaria no importa la de la institución de heredero, ni la del legado, teniéndose únicamente por no escrita la cláusula fideicomisaria.
-
-Se consideran fideicomisarias y, en consecuencia, prohibidas, las disposiciones que contengan prohibiciones de enajenar, o que llamen a un tercero a lo que quede de la herencia por la muerte del heredero, o el encargo de prestar a más de una persona sucesivamente cierta renta o pensión.
-
-No se reputa fideicomisaria la disposición en la que el testador deja la propiedad del todo o parte de sus bienes a una persona y el usufructo a otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 663.
 
-REGLAS SOBRE SUBSTITUCION DE HEREDEROS. Los substitutos pueden ser nombrados conjunta o sucesivamente.
-
-El substituto del substituto, faltando éste, lo es del heredero substituido.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 664.
 
-CONDICIONES DE RECEPCION DE HERENCIA DE LOS SUBSTITUTOS. Los substitutos recibirán la herencia con los mismos gravámenes y condiciones con que debían recibirla los herederos a no ser que el testador haya dispuesto otra cosa, o que los gravámenes o condiciones fueren meramente personales del heredero.
-
-Si los herederos instituidos en partes desiguales fueren substituidos recíprocamente, en la substitución, tendrán las mismas partes que en la institución; a no ser que claramente aparezca haber sido otra la voluntad del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 665.
 
-OBLIGACION HEREDITARIA DE INVERTIR EN OBRAS BENEFICAS. La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo 662 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen mientras que la inscripción de éste no se cancele.
-
-Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital a interés con primera y suficiente hipoteca.
-
-La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IX. INEXISTENCIA, NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
 
 ###### ARTICULO 666.
 
-INEXISTENCIA DEL TESTAMENTO. El testamento será inexistente cuando no se observen las solemnidades requeridas por la ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 667.
 
-NULIDAD DE TESTAMENTOS. La nulidad que afecta a los testamentos o a determinadas disposiciones en particular, puede ser absoluta o relativa.
-
-Será absoluta la nulidad del testamento, cuando éste, en su integridad o en una determinada disposición, sea contrario a las leyes de orden público, ya sean prohibitivas o imperativas; o a las buenas costumbres.
-
-La nulidad será relativa en los casos de incapacidad del testador o de vicios en su declaración de voluntad.
-
-Dicha pretensión podrá intentarse por los herederos legítimos y está sujeta a prescripción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 668.
 
-NULIDAD DEL TESTAMENTO LOGRADO POR VIOLENCIA. Es nulo el testamento obtenido por violencia física o moral, cuando se haya empleado contra el testador fuerza física o amenazas que importen peligro de su vida, o impliquen ataque a su libertad, honra, dignidad, salud o parte considerable de sus bienes o cuando tales ataques o amenazas se dirijan contra su cónyuge, ascendientes, descendientes o parientes colaterales dentro del cuarto grado.
-
-El Juez que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del testador para asegurar el ejercicio de su derecho, y levantará acta en que haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto haya empleado o intentado emplear, y si la persona cuya libertad ampara hace uso de su derecho.
-
-El testador que se encuentre en el caso anterior, luego que cese la violencia o disfrute de libertad completa, podrá revalidar su testamento, pero dentro de las condiciones, solemnidades o forma exigidas para el otorgamiento de un nuevo testamento. No llenándose esos requisitos subsistirá la nulidad, de la cual quedará afectada también la revalidación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 669.
 
-NULIDAD DEL TESTAMENTO POR DOLO O FRAUDE. Es nulo el testamento captado por dolo o fraude.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 670.
 
-NULIDAD DEL TESTAMENTO POR FALTA DE CLARIDAD VOLITIVA DEL TESTADOR. Es nulo el testamento en que el testador no exprese cumplida, precisa y claramente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hagan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 671.
 
-IMPOSIBILIDAD DE PROHIBICION POR EL TESTADOR. El testador no puede prohibir que se impugne el testamento en los casos en que éste deba ser nulo conforme a la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 672.
 
-NULIDAD DE RENUNCIAS TESTAMENTARIAS. Son nulas la renuncia del derecho de testar, la renuncia de la facultad de revocar el testamento y la cláusula en que alguno se obligue a no usar de ese derecho, sino bajo ciertas condiciones, sean éstas de la clase que fueren.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 673.
 
-TERMINO DE LA PRETENSION DE NULIDAD. La pretensión de nulidad establecida en los artículos anteriores, prescribe en el término de diez años.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 674.
 
-EFECTOS DE LA REVOCACION DE TESTAMENTO. El testamento anterior queda revocado de pleno derecho por el posterior perfecto, si el testador no expresa en éste su voluntad de que aquél subsista en todo o en parte.
-
-La revocación producirá su efecto, aunque el segundo testamento caduque por la incapacidad o renuncia del heredero o de los legatarios nuevamente nombrados.
-
-El testamento anterior recobrará, no obstante, su fuerza, si el testador revocando el posterior, declara ser su voluntad que el primero subsista.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 675.
 
-CADUCIDAD EN LOS TESTAMENTOS Y SUS EFECTOS. Las disposiciones testamentarias caducan y quedan sin efecto, en lo relativo a los herederos y legatarios:
-
-I.- Si el heredero o legatario muere antes que el testador o antes de que se cumpla la condición de que dependa la herencia o legado;
-
-II.- Si el heredero o legatario se hacen incapaces en los términos de los artículos 542 a 568 de este Código, para recibir la herencia o el legado;
-
-III.- Si renuncian a sus respectivos derechos; y
-
-IV.- Si no llega a cumplirse la condición suspensiva que afecte la herencia o el legado, o aun cuando se cumpla, si el heredero o el legatario mueren antes de su realización.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 676.
 
-FALTA DE CADUCIDAD DE LA DISPOSICION TESTAMENTARIA CON CONDICION DE SUCESO PASADO O PRESENTE DESCONOCIDO POR EL TESTADOR. La disposición testamentaria que contenga condición de suceso pasado o presente desconocido por el testador, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmitirán a sus respectivos herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 677.
 
-FORMA EN LOS TESTAMENTOS. El testamento, en cuanto a su forma, es ordinario y extraordinario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 678.
 
-TIPOS DE TESTAMENTO ORDINARIO. El testamento ordinario puede ser:
-
-I.- Público abierto;
-
-II.- Público cerrado; y
-
-III.- Ológrafo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 679.
 
-TIPOS DE TESTAMENTO EXTRAORDINARIO. El extraordinario puede ser:
-
-I.- Privado;
-
-II.- Militar;
-
-III.- Marítimo; y
-
-IV.- Hecho en país extranjero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 680.
 
-IMPOSIBILIDAD PARA SER TESTIGO EN LOS TESTAMENTOS. No pueden ser testigos del testamento:
-
-I.- Los amanuenses del Notario que lo autorice;
-
-II.- Los menores de dieciséis años;
-
-III.- Los que no estén en su sano juicio;
-
-IV.- Los ciegos, sordos o mudos;
-
-V.- Los que no entiendan el idioma que habla el testador;
-
-VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge, o hermanos. El concurso como testigos de una de las personas a que se refiere esta fracción sólo produce como efecto la nulidad de la disposición que beneficie a sus mencionados parientes; y
-
-VII.- Los que hayan sido condenados por el delito de falsedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 681.
 
-CONOCIMIENTO DEL TESTADOR POR EL NOTARIO Y TESTIGOS. Tanto el Notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquier coacción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 682.
 
-IMPOSIBILIDAD DE IDENTIDAD DEL TESTADOR. Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el Notario o por los testigos, en su caso, agregando uno y otros todas las señales que caractericen la persona de aquél.
-
-En el caso del párrafo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 683.
 
-PROHIBICION EN LA REDACCION DE TESTAMENTO. Se prohibe a los Notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos días de salario mínimo general vigente en la región en caso de su infracción a los notarios y de la mitad a los que no lo fueren.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 684.
 
-AVISO NOTARIAL DE AUTORIZACION DEL TESTAMENTO. El Notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa de la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Lo dispuesto en el párrafo que precede se observará también por cualquiera que tenga en su poder un testamento.
-
-Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
 ###### ARTICULO 685.
 
-CARACTERISTICAS DEL TESTAMENTO PUBLICO ABIERTO. Testamento público abierto es el que se otorga ante Notario y tres testigos idóneos.
-
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 686.
 
-SUPLENCIA EN LA FIRMA DEL TESTADOR Y TESTIGOS. Si el testador no pudiere o no supiere escribir intervendrá otro testigo más, que firme a su ruego.
-
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
-
-Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 687.
 
-NECESARIA COMPRENSION DE TESTAMENTO POR SORDOS Y CIEGOS. El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento, si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
-
-Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el notario, como está prescrito en el artículo 685 de este Código, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 688.
 
-TESTAMENTO REDACTADO EN IDIOMA DISTINTO AL ESPAÑOL. Cuando el testador ignore el idioma del país, escribirá de su puño y letra su testamento que será traducido al español por dos intérpretes nombrados por el testador, debiendo concurrir el Notario y los testigos. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
-
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
-
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 689.
 
-SOLEMNIDADES EN EL TESTAMENTO. Las solemnidades se practicarán de modo continuo y el Notario dará fe de haberse llenado todas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Faltando alguna de las referidas, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pérdida de oficio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DEL TESTAMENTO PUBLICO CERRADO
 
 ###### ARTICULO 690.
 
-CARACTERISTICAS DEL TESTAMENTO PUBLICO CERRADO. El testamento público cerrado puede ser escrito por el testador o por otra persona a su ruego, y en papel común.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 691.
 
-INCAPACIDAD EN EL TESTAMENTO CERRADO. Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 692.
 
-TESTAMENTO PUBLICO CERRADO DEL SORDOMUDO. El sordomudo podrá hacer testamento público cerrado con tal que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al Notario ante cinco testigos, escriba en presencia de todos sobre la cubierta que en aquél pliego se contiene su última voluntad, y va escrita y firmada por él. El Notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 695, 696 y 697 de este Código.
-
-En el caso del párrafo anterior, si el testador no puede firmar la cubierta se observará lo dispuesto en el artículo 697 de este Código, dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 693.
 
-TESTAMENTO PUBLICO CERRADO DEL SOLO SORDO O SOLO MUDO. El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades requeridas para esta clase de testamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 694.
 
-RUBRICAS DEL TESTADOR EN EL TESTAMENTO PUBLICO CERRADO. El testador debe rubricar todas las hojas y firmar al calce del testamento; pero si no supiere o no pudiere hacerlo, podrá rubricar y firmar por él otra persona a su ruego.
-
-En el caso del párrafo que precede, la persona que haya rubricado y firmado por el testador concurrirá con él a la presentación del pliego cerrado; y en ese acto, el testador declarará que aquella persona rubricó y firmó en su nombre y ésta firmará en la cubierta con los testigos y el Notario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 695.
 
-REQUISITOS DEL TESTAMENTO PUBLICO CERRADO. El papel en que esté escrito el testamento o el que le sirve de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador, en el acto del otorgamiento, y lo exhibirá al Notario en presencia de tres testigos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 696.
 
-PROCEDIMIENTO PARA EL OTORGAMIENTO DEL TESTAMENTO PUBLICO CERRADO. El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
-
-El Notario dará fe del otorgamiento, con expresión de las solemnidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y deberá ser firmada por el testador, los testigos y el Notario, quien además, pondrá su sello.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 697.
 
-REGLAS PARA LA RUBRICA DE LOS TESTIGOS. Si alguno de los testigos no supiere firmar se llamará a otra persona que lo haga en su nombre y en su presencia, de modo que siempre haya tres firmas.
-
-Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre, y en su presencia, no debiendo hacerlo ninguno de los testigos.
-
-Sólo en los casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El Notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 698.
 
-EFECTOS POR FALTA DE SOLEMNIDAD. El testamento cerrado que carezca de alguna de las solemnidades prescritas, quedarán sin efecto, y el Notario será responsable en los términos del artículo 689 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 699.
 
-ENTREGA DEL TESTAMENTO AL TESTADOR. Cerrado y autorizado el testamento se entregará al testador, y el Notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
-
-Por la infracción anterior no se anulará el testamento, pero el Notario incurrirá en la pena de suspensión por seis meses.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 700.
 
-CONSERVACION O DEPOSITO DEL TESTAMENTO. El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el Archivo Judicial.
-
-El testador que quiera depositar su testamento en el Archivo, se presentará con él ante el encargado de éste, quien asentará en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
-
-Pueden hacerse por mandatario la presentación y depósito, y en este caso el poder quedará unido al testamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 701.
 
-RETIRO DEL TESTAMENTO PUBLICO CERRADO. El testador puede retirar, cuando le parezca, su testamento, pero la devolución se hará con las mismas solemnidades que la entrega.
-
-El poder para la entrega y para la extracción del testamento, debe otorgarse en escritura pública, y esta circunstancia se hará constar en la nota respectiva.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 702.
 
-RECEPCION DEL TESTAMENTO POR EL JUEZ. Luego que el Juez reciba un testamento cerrado, hará comparecer al Notario y los testigos que ocurrieron a su otorgamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 703.
 
-REQUISITOS PARA LA APERTURA DEL TESTAMENTO. El testamento cerrado no podrá ser abierto sino después de que el Notario y los testigos instrumentales hayan reconocido ante el Juez sus firmas y las del testador o la de la persona que por éste hubiere firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 704.
 
-FALTA DE COMPARECENCIA DEL NOTARIO Y TESTIGOS INTERVINIENTES EN EL TESTAMENTO. Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y del Notario.
-
-Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información, como también la legitimidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar en que éste se otorgó.
-
-En todo caso, los que comparecieren reconocerán sus firmas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 705.
 
-PROTOCOLIZACION Y PUBLICACION DEL TESTAMENTO POR EL JUEZ. Cumplido lo prescrito en los artículos anteriores, el Juez decretará la publicación y protocolización del testamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 706.
 
-EFECTOS DE LA ALTERACION DEL TESTAMENTO PUBLICO CERRADO. El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas y enmendadas las firmas que lo autorizan, aunque el contenido no esté alterado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 707.
 
-SANCIONES POR FALTA DE PRESENTACION O POR SUSTRACCION DEL TESTAMENTO PUBLICO CERRADO. Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en el artículo 684 de este Código, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
 
 ###### ARTICULO 708.
 
-NOCION DE TESTAMENTO OLOGRAFO. Se llama testamento ológrafo al escrito de puño y letra del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 709.
 
-REQUISITOS ESPECIALES PARA LA VALIDEZ DEL TESTAMENTO OLOGRAFO. Este testamento sólo podrá ser otorgado por las personas mayores de edad, y para que sea válido, deberá estar totalmente escrito por el testador y firmado por él con expresión del día, mes y año en que se otorgue.
-
-Los extranjeros podrán otorgar testamento ológrafo en su propio idioma.
-
-Si tuviere palabras tachadas, enmendadas o entre renglonadas, las salvará el testador bajo su firma.
-
-La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglonadas, pero no al testamento mismo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 710.
 
-DUPLICADO DEL TESTAMENTO OLOGRAFO Y SU DEPOSITO EN EL REGISTRO PUBLICO DE LA PROPIEDAD. El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público de la Propiedad, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarias para evitar violaciones.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 711.
 
-REQUISITOS PARA EL DEPOSITO DEL TESTAMENTO OLOGRAFO EN EL REGISTRO PUBLICO DE LA PROPIEDAD. El depósito en el Registro Público de la Propiedad se hará personalmente por el testador, quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se haga el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
-
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público de la Propiedad, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las solemnidades del depósito.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 712.
 
-CONSTANCIA EN FAVOR DEL TESTADOR OLOGRAFO. En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor... afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extienda la constancia, que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 713.
 
-ASIENTO DEL TESTAMENTO OLOGRAFO. Hecho el depósito, el encargado del Registro Público de la Propiedad tomará razón de él en el libro respectivo a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al Juez competente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 714.
 
-RETIRO DEL TESTAMENTO OLOGRAFO. En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder bastante, el testamento depositado, haciendo constar la entrega en un acta que firmarán el interesado y el encargado de la oficina.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 715.
 
-SOLICITUD JUDICIAL SOBRE LA EXISTENCIA DE TESTAMENTO OLOGRAFO. El Juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público de la Propiedad del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión para que en caso de que así sea, se le remita el testamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 716.
 
-OBLIGACION DE DAR AVISO DE LA EXISTENCIA DE TESTAMENTO OLOGRAFO. El que guarde en su poder el duplicado de un testamento o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al Juez competente, quien pedirá al encargado de la oficina del Registro Público de la Propiedad en que se encuentre el testamento, que se lo remita.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 717.
 
-EXAMEN JUDICIAL DE TESTAMENTO OLOGRAFO. Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 709 de este Código, y queda comprobado que es el mismo que depositó el testador, se declarará formal el testamento de éste.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 718.
 
-SUPLENCIA DEL TESTAMENTO OLOGRAFO. Sólo cuando el original depositado haya sido destruido o robado, se tendrá como formal testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 719.
 
-FALTA DE EFECTOS DEL TESTAMENTO ORIGINAL O DUPLICADO. El testamento ológrafo quedará sin efecto cuando el original o el sobre que cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 720.
 
-PERSONAS A LAS QUE SE PUEDE INFORMAR DE LA EXISTENCIA DE TESTAMENTO OLOGRAFO. El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DEL TESTAMENTO PRIVADO
 
 ###### ARTICULO 721.
 
-HIPOTESIS EN LAS QUE PUEDE VERIFICARSE EL TESTAMENTO PRIVADO. El testamento privado está permitido en los casos siguientes:
-
-I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra ante Notario a hacer el testamento;
-
-II.- Cuando no haya Notario en la población, o Juez que actúe por receptoría; y
-
-III.- Cuando, aunque haya Notario o Juez en la población, sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento.
-
-Para que en los casos enumerados en el párrafo que precede pueda otorgarse testamento privado, es necesario que el testador no le sea posible hacer testamento ológrafo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 722.
 
-REQUISITOS PARA LA REALIZACION DEL TESTAMENTO PRIVADO. El testador que se encuentra en el caso de hacer testamento privado, declarará en presencia de cinco testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
-
-No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
-
-En los casos de suma urgencia bastarán tres testigos idóneos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 723.
 
-SUPLENCIA DE REGLAS DEL TESTAMENTO PUBLICO ABIERTO AL PRIVADO. Al otorgarse el testamento privado se observarán en su caso las disposiciones contenidas en los artículos del 685 segundo párrafo al 689 primer párrafo de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 724.
 
-SUPUESTOS PARA QUE SURTA EFECTOS EL TESTAMENTO PRIVADO. El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba o dentro de un mes de desaparecida la causa que lo motivó a realizarlo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 725.
 
-REQUISITOS ESPECIALES PARA LA VALIDEZ EL (SIC) TESTAMENTO. El testamento privado necesita, además, para su validez, que se haga la declaración a que se refiere el artículo 727 teniendo en cuenta las declaraciones de los testigos que formaron y oyeron, en su caso, la voluntad del testador.
-
-La declaración a que se refiere el párrafo anterior será pedida por los interesados, inmediatamente después de que supieren la muerte del testador y la forma de su disposición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 726.
 
-CIRCUNSTANCIAS QUE DEBEN DECLARAR LOS TESTIGOS EN EL TESTAMENTO PRIVADO. Los testigos que concurren a un testamento privado deberán declarar circunstanciadamente:
-
-I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento;
-
-II.- Si reconocieron, vieron y oyeron claramente al testador;
-
-III.- El tenor de la disposición;
-
-IV.- Si el testador estaba en su cabal juicio y libre de cualquier coacción;
-
-V.- El motivo por el que se otorgó el testamento privado; y
-
-VI.- Si saben que el testador falleció o no de la enfermedad o en el peligro en que se hallaba.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 727.
 
-EFECTOS JUDICIALES DE LAS DECLARACIONES TESTIMONIALES EN EL TESTAMENTO PRIVADO. Si los testigos fueren idóneos y estuvieren conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará que sus dichos son el formal testamento de la persona de quien se trate.
-
-Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 728.
 
-MUERTE O AUSENCIA DE ALGUN TESTIGO. Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente capaces y contestes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Lo dispuesto en el párrafo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DEL TESTAMENTO MILITAR
 
 ###### ARTICULO 729.
 
-REQUISITOS PARA EL OTORGAMIENTO DEL TESTAMENTO MILITAR. Si el militar o el asimilado del Ejército hace su disposición en el momento de entrar en acción de guerra, o estando herido sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su última disposición, firmada de su puño y letra.
-
-Lo dispuesto en el párrafo anterior se observará, en su caso, respecto de los prisioneros de guerra.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 730.
 
-ENTREGA DEL TESTAMENTO MILITAR. Los testamentos otorgados por escrito, conforme a este capítulo, deberán ser entregados luego que muere el testador, por aquel en cuyo poder hubieren quedado, al jefe de la corporación, quien lo remitirá al Secretario de la Defensa Nacional y éste a la autoridad judicial competente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 731.
 
-TESTAMENTO MILITAR ORAL. Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaria de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 724 al 728 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DEL TESTAMENTO MARITIMO
 
 ###### ARTICULO 732.
 
-CIRCUNSTANCIAS POR LAS QUE SE PUEDE REALIZAR TESTAMENTO MARITIMO. Los que se encuentren en alta mar, a bordo de navíos de la marina nacional, sean de guerra o mercantes, pueden hacer su testamento que surtirá efectos en el Estado, si se hace con sujeción a las prescripciones de este Capítulo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 733.
 
-REQUISITOS DEL TESTAMENTO MARITIMO. El testamento marítimo será escrito en presencia de dos testigos y del capitán del navío; y será leído, datado y firmado, como se ha dicho en los artículos 685 segundo párrafo al 689 primer párrafo de este Código, pero en todo caso deberán firmar el capitán y los dos testigos.
-
-El testamento marítimo se hará por duplicado, y se conservará entre los papeles más importantes de la embarcación y de él se hará mención en su diario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 734.
 
-TESTAMENTO MARITIMO DEL CAPITAN. Si el capitán hiciere su testamento, desempeñará sus veces el que deba sucederle en el mando.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 735.
 
-DEPOSITO POR EL CAPITAN DEL TESTAMENTO MARITIMO ANTE AGENTES DIPLOMATICOS O CONSULARES. Si el buque arribare a un puerto en que haya agente diplomático, cónsul o vicecónsul mexicano, el capitán depositará en su poder uno de los ejemplares del testamento, fechado y sellado, con una copia de la nota que debe constar en el diario de la embarcación.
-
-Si el testador desembarca en un lugar donde no haya agente diplomático o consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título Séptimo del Libro Segundo de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 736.
 
-ENTREGA DEL TESTAMENTO MARITIMO A LA AUTORIDAD MEXICANA. Arribando a territorio mexicano, se entregará el otro ejemplar, o ambos, si no se dejó alguno en otra parte, a la autoridad marítima del lugar, en la forma señalada en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 737.
 
-CONSTANCIA DE ENTREGA DEL TESTAMENTO MARITIMO. En cualquiera de los casos mencionados en los dos artículos precedentes, el capitán de la embarcación exigirá recibo de la entrega y lo citará por nota en el diario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 738.
 
-APLICACION SUPLETORIA DEL CODIGO CIVIL DEL DISTRITO FEDERAL EN EL PROCEDIMIENTO DEL TESTAMENTO MARITIMO. Los agentes diplomáticos, cónsules, o las autoridades marítimas procederán en los términos que para esta materia establece el Código Civil para el Distrito Federal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 739.
 
-SUPUESTOS PARA QUE PRODUZCA EFECTOS EL TESTAMENTO MARITIMO. El testamento marítimo solamente producirá efectos legales falleciendo el testador en el mar o dentro de un mes contado desde su desembarque en algún lugar, donde, conforme a la Ley mexicana o a la extranjera, haya podido ratificar u otorgar de nuevo su última disposición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO O FUERA DEL ESTADO
 
 ###### ARTICULO 740.
 
-REQUISITOS PARA QUE SURTAN EFECTOS LOS TESTAMENTOS REALIZADOS EN PAIS EXTRANJERO O FUERA DEL ESTADO DE MORELOS. Los testamentos hechos en país extranjero o fuera del Estado de Morelos, producirán efecto en éste cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 741.
 
-FUNCIONES NOTARIALES DE LOS AGENTES DIPLOMATICOS Y CONSULARES EN EL OTORGAMIENTO DE TESTAMENTOS DE MORELENSES EN EL EXTRANJERO. Los secretarios de legación, los cónsules y los vicecónsules mexicanos podrán hacer las veces de notarios o de encargados del Registro, en el otorgamiento de los testamentos de los morelenses en el extranjero, en los casos en que las disposiciones testamentarias deban tener su ejecución en el Estado de Morelos.
-
-Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, a la Secretaría de Relaciones Exteriores, para los efectos prevenidos en el Código Civil para el Distrito Federal.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 742.
 
-TESTAMENTO OLOGRAFO OTORGADO EN EL EXTRANJERO POR MORELENSES. Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores en el término de diez días, al encargado del Registro Público de la Propiedad del domicilio que, dentro del Estado de Morelos, señale el testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 743.
 
-REQUISITOS Y RECIBO DE ENTREGA DE TESTAMENTO REALIZADO EN EL EXTRANJERO. Si el testamento fuere confiado a la guarda del secretario de legación, cónsul o vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-El papel en que se extiendan los testamentos otorgados ante los agentes diplomáticos o consulares, llevará el sello de la legación o consulado respectivo.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 744.
 
-SUPUESTOS PARA LA APERTURA DE LA HERENCIA LEGITIMA. La herencia legítima se abre:
-
-I.- Cuando no existe testamento, o éste es inexistente;
-
-II.- Cuando el testamento es nulo. En los casos de nulidad tanto absoluta cuanto relativa, es necesario que así se declare por sentencia;
-
-III.- Cuando el testamento ha sido revocado, sin haber sido substituido por otro;
-
-IV.- Cuando determinada disposición testamentaria ha caducado en relación al heredero o legatario, o bien cuando sobreviene la caducidad de todas las disposiciones testamentarias. En el primer caso la sucesión legítima se abrirá en cuanto a los bienes correspondientes a una porción hereditaria o a un legado, en la medida que las disposiciones testamentarias a ello relativas hayan caducado con respecto al heredero o legatario, o en su caso estén afectadas de inexistencia, o hayan sido declaradas nulas.
-
-En el segundo caso, la sucesión legítima se abrirá respecto a todos los bienes de la herencia; y
-
-V.- Cuando el testador dispone sólo de parte de sus bienes, por lo que se refiere a la parte no dispuesta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 745.
 
-INSUBSISTENCIA DE LA INSTITUCION DE HEREDERO SIENDO VALIDO EL TESTAMENTO. Cuando siendo válido el testamento no deba subsistir la institución de heredero, subsistirán, sin embargo, las demás disposiciones hechas en él, y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero instituido.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 746.
 
-CORRESPONDENCIA DE BIENES EN LA SUCESION LEGITIMA. Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
-
-Si el intestado no fuera absoluto, se deducirá del total de la herencia la parte que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos siguientes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 747.
 
-PERSONAS CON DERECHO A HEREDAR. Tienen derecho a heredar por sucesión legítima:
-
-> <small>(REFORMADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-I.- Los descendientes cónyuges, ascendientes, parientes colaterales dentro del cuarto grado, salvo aquéllos cuya conducta quede comprendida conforme a la disposición de la fracción VIII del artículo 542 de este Código; y
-
-II.- A falta de los anteriores, el Estado de Morelos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 748.
 
-IMPOSIBILIDAD DE HEREDAR POR PARENTESCO DE AFINIDAD. El parentesco de afinidad no da derecho de heredar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 749.
 
-EXCLUSION DE PARIENTES REMOTOS POR LOS PROXIMOS. Los parientes más próximos excluyen a los más remotos en todos los casos de sucesión de descendientes, ascendientes, y colaterales, exceptuándose únicamente los casos de concurrencia expresamente señalados por la Ley y los comprendidos en los artículos 754 y 773 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 750.
 
-HERENCIA A PRORRATA DE PARIENTES DEL MISMO GRADO. Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 751.
 
-APLICACION DE LAS REGLAS DE PARENTESCO EN SUCESION LEGITIMA. Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo II, Título Segundo, Libro Segundo de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LA SUCESION DE LOS DESCENDIENTES
 
 ###### ARTICULO 752.
 
-IGUALDAD DE LOS HIJOS ANTE LA HERENCIA A LA MUERTE DE LOS PADRES. Si a la muerte de los padres quedaren sólo hijos habidos en matrimonio, la herencia se dividirá entre todos por partes iguales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 753.
 
-CONCURRENCIA DE HIJOS Y CONYUGE EN LA HERENCIA. Cuando concurran descendientes con el cónyuge supérstite, a éste le corresponderá la porción de un hijo, de acuerdo con lo dispuesto en el artículo 766 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 754.
 
-HERENCIA COEXISTIENDO HIJOS U DESCENDIENTES DE ULTERIOR GRADO. Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por cabeza y los segundos por estirpe. Lo mismo se observará tratándose de descendientes de hijos premuertos, incapaces de heredar o que hubieren renunciado la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 755.
 
-HERENCIA EXISTIENDO SOLAMENTE DESCENDIENTES DE ULTERIOR GRADO. Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes, y si en alguna de éstas hubiere varios herederos, la porción que a ella corresponda se dividirá por partes iguales.
-
-En el caso de que algún descendiente de ulterior grado hubiere fallecido dejando varios herederos, la porción que le corresponda se dividirá entre éstos por partes iguales.
-
-No tendrán derecho de heredar los descendientes de tercero o ulterior grado, cuando su ascendiente inmediato sobreviva al autor de la sucesión. En este caso corresponderá a dicho ascendiente heredar exclusivamente la parte que legalmente le sea atribuida.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 756.
 
-CONCURRENCIA DE HIJOS CON ASCENDIENTES. Concurriendo hijos con ascendientes, estos últimos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 757.
 
-HERENCIA DEL ADOPTADO. El adoptado hereda como un hijo, pero no hay derecho de suceder entre el adoptado y los parientes del adoptante.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
 
 ###### ARTICULO 758.
 
-SUCESION DE AMBOS ASCENDIENTES. A falta de descendientes y de cónyuge supérstite, sucederán el padre y la madre por partes iguales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 759.
 
-SUCESION DE UN ASCENDIENTE. Si sólo hubiere padre o madre, el que vive sucederá al hijo en toda la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 760.
 
-SUCESION DE ASCENDIENTES POR AUSENCIA DE PADRES. A falta de padre y madre sucederán los ascendientes más próximos en grado. Si sólo hubiere ascendientes del mismo grado en una línea, se dividirá la herencia por partes iguales; si hubiere de ambas líneas, pero de igual grado, la mitad corresponderá a los ascendientes paternos y la otra mitad a los maternos. En cada línea la división se hará por cabezas, aplicando partes iguales a los ascendientes que la formaren.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 761.
 
-CONCURRENCIA DE ASCENDIENTES POR UNA O AMBAS LINEAS. Si hubiere ascendientes por ambas líneas, la herencia se dividirá en dos partes iguales, y se aplicará una a los ascendientes de la línea paterna y otra a la de la materna.
-
-Los miembros de cada línea dividirán entre sí, por partes iguales, la porción que les corresponda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 762.
 
-CONCURRENCIA DE ADOPTANTES CON PADRES DEL ADOPTADO. Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes. La parte de los ascendientes se aplicará entre éstos, según las reglas anteriores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 763.
 
-CONCURRENCIA DEL CONYUGE DEL ADOPTADO CON LOS ADOPTANTES. Si concurre el cónyuge del adoptado exclusivamente con los adoptantes, las dos terceras partes de la herencia corresponderán al cónyuge, y la otra tercera parte a los que hicieron la adopción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 764.
 
-DERECHO DE LOS ASCENDIENTES A HEREDAR A SUS DESCENDIENTES. Los ascendientes, aun cuando no lo sean por matrimonio, tienen derecho a heredar a sus descendientes, siempre y cuando comprueben debidamente el reconocimiento o la admisión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 765.
 
-RECONOCIMIENTO DE CALIDAD DE PADRE O HIJO PARA EFECTOS DE HERENCIA. El simple reconocimiento del autor de la herencia, considerando a alguien como padre suyo, da derecho a los que tengan interés legítimo en la sucesión, para impugnar tal acto, quedando a su cargo la prueba en contrario de la paternidad. Entre tanto no se demuestre esto, el reconocido tendrá derecho a heredar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Cuando se reconozca o admita a algún hijo después de que éste haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce o admite, haga suponer fundadamente que fue tal hecho el que motivó el reconocimiento o admisión, será menester acreditar la paternidad o la maternidad por el que reconoció, o admitió, o en su defecto por sus herederos, para que exista el derecho a la herencia en los términos de la primera parte de este artículo.
-
-En todo caso de reconocimiento o admisión de un descendiente antes de su muerte, a pesar de la impugnación de parte legítima, el que reconoce o admite tendrá por lo menos derecho a alimentos, en el caso de que el reconocimiento o admisión se haya hecho cuando el reconocido o admitido tuvo también derecho a percibirlos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LA SUCESION DEL CONYUGE SUPERSTITE
 
 ###### ARTICULO 766.
 
-CONCURRENCIA HEREDITARIA DEL CONYUGE SUPERSTITE CON DESCENDIENTES. El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, aun cuando tenga bienes. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
-
-Sólo en el caso de que el cónyuge supérstite tenga bienes por igual o mayor cantidad de los que integran el haber líquido hereditario, no tendrá derecho a recibir la parte a que se refiere el párrafo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 767.
 
-CONCURRENCIA HEREDITARIA DEL CONYUGE SUPERSTITE CON ASCENDIENTES. Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 768.
 
-CONCURRENCIA HEREDITARIA DEL CONYUGE CON HERMANOS DEL AUTOR DE LA SUCESION. Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, tendrá dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 769.
 
-DERECHO DEL CONYUGE A HEREDAR AUN TENIENDO BIENES PROPIOS. El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 770.
 
-SUCESION TOTAL DEL CONYUGE. A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
 
 ###### ARTICULO 771.
 
-SUCESION A PRORRATA DE HERMANOS. A falta de descendientes y ascendientes, si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 772.
 
-CONCURRENCIA HEREDITARIA DE HERMANOS Y MEDIOS HERMANOS. Si concurren hermanos con medios hermanos, aquéllos heredarán doble porción que éstos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 773.
 
-CONCURRENCIA DE HERMANOS CON COLATERALES O PARIENTES DE MENOR GRADO. Si concurren hermanos con sobrinos, hijos de hermanos o de medios hermanos premuertos, que sean incapaces de heredar o que hayan renunciado la herencia, los primeros heredarán por cabeza y los segundos por estirpes, teniendo en cuenta lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 774.
 
-SUCESION DE LOS HIJOS DE LOS HERMANOS A FALTA DE ESTOS. A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpes, y la porción de cada estirpe por cabezas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 775.
 
-SUCESION DE LOS PARIENTES MAS PROXIMOS POR AUSENCIA DE TODOS LOS ANTERIORES. A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LA SUCESION DE LOS CONCUBINOS
 
 ###### ARTICULO 776.
 
-SUCESION DE LOS CONCUBINOS. La concubina y el concubino tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido como si fueren cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común y siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Si al morir el autor de la herencia le sobreviven varias concubinas o concubinos en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI (SIC). DE LA SUCESION DEL ESTADO
 
 ###### ARTICULO 777.
 
-CONDICIONES DE LA SUCESION DEL ESTADO. A falta de los herederos designados en los capítulos anteriores, heredará el Estado, el que asignará una tercera parte de la herencia a instituciones de beneficencia, instrucción, acción social o profesionales, sean de carácter público o privado, establecidas en el municipio del domicilio del difunto; otra tercera parte se aplicará a instituciones de igual naturaleza, pero de interés general para todo el Estado; y la tercera parte restante se aplicará a este último para sus gastos públicos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Sólo en el caso de que no existan las instituciones mencionadas, se aplicará una tercera parte al municipio que corresponda al domicilio del difunto, para sus gastos públicos y las dos terceras partes restantes al Estado, para igual finalidad.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDA ENCINTA
 
 ###### ARTICULO 778.
 
-CONOCIMIENTO JUDICIAL DE LA PREÑEZ DE LA VIUDA. Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del Juez que conozca de la sucesión, dentro del plazo de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 779.
 
-SOLICITUD AL JUEZ PARA EVITAR SUPOSICION DE PARTE, DE INFANTE O DE VIABILIDAD. Los interesados a que se refiere el precedente artículo pueden pedir al Juez que dicte las providencias convenientes para evitar la suposición del parto, la substitución del infante o que se haga pasar por viable la criatura que no lo es.
-
-Cuidará el Juez de que las medidas que dicte no ataquen al pudor ni a la libertad de la viuda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 780.
 
-AVISO AL JUEZ SOBRE LA REALIDAD DEL ALUMBRAMIENTO. Háyase o no dado el aviso de que habla el artículo 778, al aproximarse la época del parto, la viuda deberá ponerlo en conocimiento del Juez, para que lo haga saber a los interesados. Estos tienen derecho de pedir que el Juez nombre una persona que se cerciore de la realidad del alumbramiento; debiendo recaer el nombramiento precisamente en un médico o en una partera.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 781.
 
-RECONOCIMIENTO DE PREÑEZ POR EL MARIDO. Si el marido reconoció en instrumento público o privado la certeza de la preñez de su consorte estará dispensada ésta de dar el aviso a que se refiere el artículo 778 de este Código, pero quedará sujeta a cumplir lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 782.
 
-NO AFECTACION DE LA LEGITIMIDAD DEL HIJO. La omisión de la madre no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 783.
 
-ALIMENTOS DE LA VIUDA. A la viuda que quedare encinta, aun cuando tenga bienes, deberán proporcionársele alimentos con cargo a la masa hereditaria.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 784.
 
-NEGATIVA DE ALIMENTOS A LA VIUDA POR FALTA DEL AVISO JUDICIAL. Cuando la viuda no cumpla con lo dispuesto en los artículos 778 y 780 de este Código, podrán los interesados negarle los alimentos cuando tenga bienes; pero si por averiguaciones posteriores resultare cierta la preñez, se deberán abonar los alimentos que dejaron de pagarse.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 785.
 
-NO DEVOLUCION DE ALIMENTOS POR LA VIUDA. La viuda no está obligada a devolver los alimentos percibidos aun cuando haya existido aborto o no resulte cierta la preñez, salvo el caso de que ésta hubiere sido contradicha por dictamen pericial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 786.
 
-RESOLUCION JUDICIAL SOBRE ALIMENTOS. El Juez decidirá de plano todas las cuestiones relativas a alimentos conforme a los artículos anteriores, resolviendo en caso dudoso en favor de la viuda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 787.
 
-NOTIFICACION DE DILIGENCIAS JUDICIALES A LA VIUDA. Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este Capítulo, deberá ser oída la viuda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 788.
 
-SUSPENSION DE LA DIVISION DE LA HERENCIA. La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LA APERTURA DE LA HERENCIA
 
 ###### ARTICULO 789.
 
-APERTURA DE LA HERENCIA. La sucesión se abre en el día y hora de la muerte del autor de la herencia. En los casos de ausencia se estará a lo dispuesto por los artículos 890 a 895 del Código Procesal Civil. Si apareciere el ausente, quedará sin efecto la apertura de la herencia que se hubiere hecho y, si se comprobare plenamente el día y hora de su muerte, los efectos consiguientes a la apertura de la herencia que se hubiere hecho en tiempo anterior, quedarán referidos a partir del momento de la muerte.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 790.
 
-EFECTOS DE LA APERTURA DE LA HERENCIA. Al momento de la apertura de la herencia se retrotraerán todos los efectos jurídicos relativos a la radicación del juicio sucesorio, a la declaración de herederos y legatarios, y a la adquisición de la propiedad y posesión de los bienes y derechos hereditarios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 791.
 
-ADQUISICION DE PROPIEDAD Y POSESION DE LOS BIENES HEREDADOS O LEGADOS POR APERTURA DE LA HERENCIA. Desde la apertura de la herencia, los herederos y legatarios adquieren la propiedad y posesión de los bienes objeto de la herencia o legado, salvo lo que se dispone para los legados de cosa indeterminada, pero determinable, caso en el cual el legatario adquirirá la propiedad y posesión hasta que se determine la cosa, por la elección correspondiente. Los herederos adquirirán los bienes y derechos hereditarios, respondiendo siempre a beneficio de inventario, del pasivo de la herencia, para cuyo efecto los citados bienes y derechos reportarán una hipoteca necesaria en favor de los acreedores, según se determina en el Capítulo respectivo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 792.
 
-RECONOCIMIENTO DE HEREDEROS O LEGATARIOS. El Juez, al hacer el reconocimiento de herederos o legatarios, deberá determinar si éstos sobrevivieron al autor de la herencia. En caso contrario, declarará que han caducado sus derechos a la herencia o legado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 793.
 
-RECLAMACION DE HERENCIA. No habiendo albacea nombrado, cada uno de los herederos puede ejercitar, por la totalidad de ellos y en beneficio común, la pretensión de reclamación de herencia, sin que se pueda oponer la defensa de que la herencia no le pertenece por entero. Habiendo albacea nombrado, él deberá reclamar la herencia, y, siendo moroso en hacerlo, los herederos, después de haberlo requerido judicialmente o ante notario, para que la reclame, pueden directamente intentar la pretensión, en forma conjunta o separada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 794.
 
-CARACTERISTICAS DE LA RECLAMACION DE HERENCIA. El derecho de reclamar la herencia es transmisible, hereditariamente. Prescribe este derecho en el término de diez años, pero se considerará interrumpida la prescripción cuando el heredero esté en posesión de los bienes hereditarios, haya ejecutado actos ostentándose como tal o haya denunciado la sucesión. Lo mismo se aplicará a los legatarios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 795.
 
-ACEPTACION DE HERENCIA O LEGADO. La aceptación expresa o tácita de la herencia o de legado interrumpen el término de prescripción para reclamar la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE HERENCIA
 
 ###### ARTICULO 796.
 
-PERSONAS QUE PUEDEN ACEPTAR O REPUDIAR LA HERENCIA. Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
-
-La herencia dejada a los menores y demás incapacitados será aceptada por sus representantes legales, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 797.
 
-ACEPTACION O REPUDIACION DE LA HERENCIA POR MUJER CASADA. La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges y en caso de discrepancia, resolverá el Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 798.
 
-FORMAS DE ACEPTACION DE LA HERENCIA. La aceptación puede ser expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes, y tácita si ejecuta algunos hechos de los que se deduzca necesariamente la intención de aceptar, o aquellos que no podría ejecutar sino con su calidad de heredero.
-
-La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos. Toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 799.
 
-TIPOS DE REPUDIACION DE LA HERENCIA. La repudiación debe ser expresa y hacerse por escrito ante el Juez, o por medio de instrumento público otorgado ante notario, cuando el heredero no se encuentre en el lugar del juicio.
-
-La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 800.
 
-CONDICIONES DE LA ACEPTACION O REPUDIACION DE LA HERENCIA. Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquél de cuya herencia se trate.
-
-Ninguno puede aceptar o repudiar la herencia en parte, con plazo o condicionalmente.
-
-Si los herederos no se convienen sobre la aceptación o repudiación, podrán aceptar unos y repudiar otros.
-
-Si el heredero fallece sin aceptar o repudiar la herencia, el derecho de hacerlo se transmite a sus sucesores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 801.
 
-EFECTOS DE LA ACEPTACION O REPUDIACION DE HERENCIA. Los efectos de la aceptación o repudiación de la herencia se retrotraen siempre a la fecha de la muerte de la persona de quien se hereda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 802.
 
-PRESUNCION DE REPUDICACION(sic) DE HERENCIA. El que es llamado a una misma herencia por testamento y por sucesión legítima, y la repudia por el primer título, se entiende haberla repudiado por los dos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 803.
 
-ACEPTACION DE HERENCIA POR CONOCIMIENTO TESTAMENTARIO. El que repudia el derecho de suceder por intestado sin tener noticia de su título testamentario, puede, en virtud de éste, aceptar la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 804.
 
-IMPOSIBILIDAD DE RENUNCIA Y ENAJENACION SOBRE SUCESION DE PERSONA VIVA. Ninguno puede renunciar la sucesión de persona viva, ni enajenar los derechos que eventualmente pueda tener a su herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 805.
 
-RENUNCIA A HERENCIA CONDICIONADA. Conocida la muerte de aquél de quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 806.
 
-ACEPTACION O REPUDIACION DE HERENCIAS Y LEGADOS DE LAS PERSONAS MORALES. Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias, o legados, pero tratándose de corporaciones de carácter oficial o de instituciones de beneficencia privada, no pueden repudiar la herencia, las primeras sin aprobación judicial, previa audiencia del Ministerio Público, y las segundas sin sujetarse a las disposiciones relativas de las Leyes de Asistencia Social.
-
-Los establecimientos públicos no pueden aceptar ni repudiar herencias sin aprobación de la autoridad administrativa superior de quien dependan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 807.
 
-INTERES PARA QUE EL HEREDERO ACEPTE O REPUDIE LA HERENCIA. Cuando alguno tuviere interés en que el heredero declare si acepta o repudia la herencia, podrá pedir, pasados nueve días de la apertura de ésta, que el Juez fije al heredero un plazo que no excederá de un mes, para que dentro de él haga su declaración, apercibido de que, si no lo hace, se tendrá la herencia por aceptada.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 808.
 
-IRREVOCABILIDAD E INIMPUGNABILIDAD DE LA ACEPTACION O REPUDIACION. La aceptación y la repudiación, una vez hechas, son irrevocables, y no pueden ser impugnadas sino en los casos de dolo o violencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 809.
 
-REVOCACION DE LA ACEPTACION O REPUDIACION. El heredero puede revocar la aceptación o la repudiación, cuando por testamento desconocido, al tiempo de hacerla, se altera la cantidad o calidad de la herencia.
-
-En el caso del párrafo anterior, si el heredero revoca la aceptación, devolverá todo lo que hubiere percibido de la herencia, observándose respecto de los frutos, las reglas relativas a los poseedores.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 810.
 
-REPUDIO DE HERENCIA EN PERJUICIO DE ACREEDORES. Si el heredero repudia la herencia en perjuicio de sus acreedores, pueden éstos pedir al Juez que los autorice para aceptar en nombre de aquél.
-
-En el caso del párrafo anterior, la aceptación sólo aprovechará a los acreedores para el pago de sus créditos, pero si la herencia excediere del importe de éstos, el exceso pertenecerá a quien llame la Ley, y en ningún caso al que hizo la renuncia.
-
-Los acreedores cuyos créditos fueren posteriores a la repudiación, no pueden ejercer el derecho que les concede el párrafo primero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 811.
 
-POSIBILIDAD DE IMPEDIR LA ACEPTACION DE ACREEDORES DE LA HERENCIA REPUDIADA. El que por la repudiación de la herencia debe entrar en ella, podrá impedir que la acepten los acreedores, pagando a éstos los créditos que tienen contra el que la repudió.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 812.
 
-HEREDERO DECLARADO PROVENIENTE DE LEGATARIO O ACREEDOR HEREDITARIO. El que a instancias de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LOS ALBACEAS
 
 ###### ARTICULO 813.
 
-CARACTERISTICAS DEL ALBACEA. Los albaceas son los órganos representativos de la copropiedad hereditaria para actuar en nombre y por cuenta de los herederos o legatarios en todo lo relativo a la defensa y administración de los bienes hereditarios. Asimismo, tiene como función ejecutar las disposiciones testamentarias y representar a la sucesión en juicio y fuera de él.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 814.
 
-PERSONAS QUE NO PUEDEN DESEMPEÑAR EL CARGO DE ALBACEA. No pueden ser albaceas, excepto en el caso de ser herederos únicos:
-
-I.- Los Magistrados y Jueces que estén ejerciendo jurisdicción en el lugar en que se abre la sucesión;
-
-II.- Los que por sentencia hubieren sido removidos otra vez del cargo de albacea;
-
-III.- Los que hayan sido condenados por delitos contra la propiedad;
-
-IV.- Los que no tengan un modo honesto de vivir;
-
-V.- Los que no tengan la libre disposición de sus bienes; y
-
-VI.- Los que sufran cualquier restricción en su capacidad de goce o de ejercicio, que los inhabilite total o parcialmente para desempeñar el cargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 815.
 
-UNICIDAD O PLURALIDAD DE ALBACEAS. El testador puede nombrar uno o más albaceas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 816.
 
-CONCEPTO DE MAYORIA. La mayoría, en todos los casos de que habla este Capítulo, y los relativos a inventario y particiones, se calculará por el importe de las porciones y no por el número de las personas.
-
-Cuando la mayor porción esté representada por menos de la cuarta parte de los herederos para que haya mayoría, se necesita que con ello voten los herederos que sean necesarios para formar, por lo menos, la cuarta parte del número total.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 817.
 
-ELECCION DE ALBACEA. Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, por los herederos menores votarán sus legítimos representantes.
-
-Si no hubiere mayoría, el albacea será nombrado por el Juez, de entre los propuestos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 818.
 
-APLICACION DE HIPOTESIS DE MAYORIA A LA SUCESION INTESTAMENTARIA. Lo dispuesto en los dos artículos que preceden se observará también en los casos de intestado y cuando el albacea nombrado falte, sea por la causa que fuere.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 819.
 
-HEREDERO UNICO COMO ALBACEA. El heredero que fuere único, será albacea, si no hubiere sido nombrado otro en el testamento. Si es incapaz, desempeñará el cargo su tutor o la persona que ejerza la patria potestad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 820.
 
-NOMBRAMIENTO JUDICIAL DEL ALBACEA. Cuando no haya heredero o el nombrado no entre en la herencia, el Juez nombrará el albacea, si no hubiere legatario.
-
-En el caso del párrafo anterior, si hay legatarios, el albacea será nombrado por éstos.
-
-El albacea nombrado conforme a los dos párrafos que preceden durará en su encargo mientras que declarados los herederos legítimos, éstos hacen la elección de albacea.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 821.
 
-ALBACEA NOMBRADO POR LOS LEGATARIOS. Cuando toda la herencia se distribuya en legados, los legatarios nombrarán el albacea.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 822.
 
-CLASES DE ALBACEA. El albacea podrá ser universal o especial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 823.
 
-ORDEN EN EL EJERCICIO DEL ALBACEAZGO. Cuando fueren varios los albaceas nombrados, el albaceazgo será ejercido por cada uno de ellos, en el orden en que hubieren sido designados, a no ser que el testador haya dispuesto expresamente que se ejerza de común acuerdo por todos los nombrados, pues en este caso se considerarán mancomunados.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 824.
 
-ALBACEAZGO MANCOMUNADO. Cuando los albaceas fueren mancomunados sólo valdrá lo que todos hagan en consuno; lo que haga uno de ellos, legalmente autorizado por los demás, o lo que, en caso de disidencia, acuerde el mayor número. Si no hubiere mayoría decidirá el Juez.
-
-En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar, bajo su responsabilidad personal, los actos que fueren necesarios, dando cuenta inmediata a los demás.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 825.
 
-ACEPTACION DEL CARGO DE ALBACEA. El cargo de albacea es voluntario; pero el que lo acepte, se constituye en la obligación de desempeñarlo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 826.
 
-EFECTOS DE LA RENUNCIA DEL ALBACEA. El albacea que renuncie sin justa causa perderá lo que hubiere dejado el testador. Lo mismo sucederá cuando la renuncia sea por justa causa, si lo que se deja al albacea es con el exclusivo objeto de remunerarlo por el desempeño del cargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 827.
 
-EXCUSAS DEL ALBACEA. El albacea que presentare excusas, deberá hacerlo dentro de los seis días siguientes a aquel en que tuvo noticia de la muerte del testador. Si presenta sus excusas fuera del plazo señalado, responderá de los daños y perjucios (sic) que ocasione.
-
-El albacea que estuviere presente mientras se decide sobre su excusa, debe desempeñar el cargo bajo la pena establecida en el artículo anterior.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 828.
 
-PERSONAS QUE PUEDEN EXCUSARSE DEL CARGO DE ALBACEA. Pueden excusarse de ser albaceas:
-
-I.- Los servidores públicos;
-
-II.- Los militares en servicio activo;
-
-III.- Los que fueren tan pobres que no puedan atender el albaceazgo sin menoscabo de su subsistencia;
-
-IV.- Los que por el mal estado habitual de salud, o por no saber leer ni escribir, no puedan atender debidamente el albaceazgo;
-
-V.- Los que tengan sesenta años cumplidos; y
-
-VI.- Los que tengan a su cargo otro albaceazgo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 829.
 
-IMPOSIBILIDAD DE DELEGAR O DE TRANSMITIR EL CARGO DE ALBACEA. El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos, pero no está obligado a obrar personalmente; puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 830.
 
-OBLIGACION DEL ALBACEA GENERAL DE ENTREGAR MEDIOS NECESARIOS AL EJECUTOR ESPECIAL. El albacea general está obligado a entregar al ejecutor especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 831.
 
-NO ACEPTACION DEL BIEN O CANTIDAD POR EL EJECUTOR GENERAL. Si el cumplimiento del legado dependiere de plazo o de alguna condición suspensiva, podrá el ejecutor general resistir la entrega del bien o cantidad, dando fianza a satisfacción del legatario o del ejecutor especial, de que la entrega se hará en su debido tiempo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 832.
 
-CONSTITUCION DE HIPOTECA POR EL EJECUTOR ESPECIAL. El ejecutor especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 833.
 
-PERSONAS A QUIENES CORRESPONDE LA TRANSMISION DE LA POSESION DE BIENES HEREDITARIOS. El derecho a la posesión de los bienes hereditarios se transmite, por ministerio de la Ley, a los herederos y a los ejecutores universales, desde el momento de la muerte del autor de la herencia, salvo lo dispuesto en el artículo 158 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 834.
 
-OBLIGACIONES DEL ALBACEA GENERAL. Son obligaciones del albacea general:
-
-I.- La presentación del testamento;
-
-II.- El aseguramiento de los bienes de la herencia;
-
-III.- La formación de inventarios;
-
-IV.- La administración de los bienes y la rendición de cuentas del albaceazgo;
-
-V.- El pago de las deudas mortuorias, hereditarias y testamentarias;
-
-VI.- La partición y adjudicación de los bienes entre los herederos y legatarios;
-
-VII.- Deducir todas las pretensiones que pertenezcan a la herencia;
-
-VIII.- La defensa, en juicio y fuera de él, así de la herencia como de la validez del testamento;
-
-IX.- La de representar a la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren contra ella; y
-
-X.- Las demás que le imponga la Ley.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 835.
 
-DISTRIBUCION PROVISIONAL DE LOS PRODUCTOS DE BIENES HEREDITARIOS. Los albaceas, dentro de los treinta días siguientes a la aceptación del cargo, propondrán al Juez la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que mensualmente deberá entregarse a los herederos o legatarios. Para esta aplicación provisional, no es necesario que se formule o apruebe el inventario.
-
-El Juez, en una sola audiencia que deberá citar dentro del tercer día de presentada la proposición hecha por el albacea, la aprobará o modificará, según proceda, ordenando la inmediata entrega a los interesados de los productos que les correspondan, sin perjuicio del interés fiscal, según lo que determinen las Leyes relativas, o después de que éste quede asegurado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 836.
 
-OBLIGACION DEL ALBACEA A PRESENTACION MENSUAL DE LA DISTRIBUCION PROVISIONAL. El albacea que no presente cada mes la distribución provisional de los productos obtenidos en igual periodo, a partir de la aceptación de su encargo, o que no entregue a los herederos y legatarios los productos que les co-rresponden, (sic) dentro de los diez días siguientes, trátese de productos obtenidos cada mes o al término de otros lapsos anteriores, será inmediatamente destituido de su encargo, a petición de cualquier interesado o del Ministerio Público, debiendo el Juez resolver de plano su destitución, en una audiencia a la que citará dentro del tercer día.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 837.
 
-GARANTIA DEL CARGO DE ALBACEA. El albacea está obligado, dentro del mes siguiente a la aceptación de su encargo, a garantizar su manejo con fianza de una institución de fianzas legalmente autorizada para otorgarla, hipoteca o prenda, u otra garantía bastante, a criterio del Juez, conforme a las bases siguientes:
-
-I.- Por el importe de las rentas de los bienes raíces en el último año y por los réditos de los capitales impuestos durante ese mismo tiempo;
-
-II.- Por el valor de los bienes muebles;
-
-III.- Por el de los productos de las fincas rústicas en un año, calculados por peritos, o por el término medio de un quinquenio, a elección del Juez; y
-
-IV.- En las negociaciones mercantiles e industriales por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 838.
 
-GARANTIA DEL ALBACEA COHEREDERO. Cuando el albacea sea también coheredero y su porción baste para garantizar, conforme a lo dispuesto en el artículo que precede, no estará obligado a prestar garantía especial, mientras que conserve sus derechos hereditarios. Si su porción no fuere suficiente para prestar la garantía de que se trata, estará obligado a dar fianza, hipoteca o prenda por lo que falte para completar esa garantía.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 839.
 
-DISPENSA DE GARANTIA DEL ALBACEA. El testador no puede librar al albacea de la obligación de garantizar su manejo; pero los herederos, sean testamentarios o legítimos, tienen derecho de dispensar al albacea del cumplimiento de esa obligación.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 840.
 
-ALBACEA TESTAMENTARIO. Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presentarlo dentro de los ocho días siguientes a la muerte del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 841.
 
-TERMINO AL ALBACEA PARA FORMULAR INVENTARIO. El albacea debe formar un inventario dentro de los treinta días de aceptado el cargo, si no lo hace será removido.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 842.
 
-OBLIGACION DEL ALBACEA DE IMPEDIR EXTRACCION DE BIENES HEREDITARIOS. El albacea, antes de formar el inventario, no permitirá la extracción de bien alguno, si no es que conste la propiedad ajena por el mismo testamento, por instrumento público o por los libros llevados en debida forma, si el autor de la herencia hubiere sido comerciante.
-
-Cuando la propiedad del bien ajeno conste por medios diversos de los enumerados en el párrafo que precede, al albacea se limitará a poner al margen de las partidas respectivas una nota que indique la pertenencia del bien para que la propiedad se discuta en el juicio correspondiente.
-
-La infracción a los dos párrafos anteriores hará responsable al albacea de los daños y perjuicios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 843.
 
-FIJACION DE GASTOS DE ADMINISTRACION. El albacea, dentro de los treinta días de ejercer su cargo, fijará, de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de la administración y el número y sueldos de los dependientes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 844.
 
-VENTA DE BIENES POR EL ALBACEA DEBIDO A GASTOS URGENTES. Si para el pago de una deuda u otro gasto urgente fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos, y si esto no fuere posible, con aprobación judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 845.
 
-APLICACION DE PROHIBICIONES IMPUESTAS A TUTORES PARA LOS ALBACEAS. Lo dispuesto en el artículo 359 de este Código, respecto de los tutores, se observará también respecto de los albaceas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 846.
 
-PROHIBICIONES GENERALES AL ALBACEA SOBRE LOS BIENES HEREDITARIOS. El albacea no puede enajenar, gravar o hipotecar los bienes de la sucesión, transigir o comprometer en árbitros los negocios de la herencia, ni obligar a la sucesión mediante contratos, documentos o títulos de crédito, sin consentimiento de los herederos o legatarios en su caso, que representen mayoría de intereses, más aprobación judicial. La enajenación, gravamen, transacción o compromiso en árbitros serán inexistentes sin cumplimentarse estos requisitos. Asimismo lo serán las obligaciones, contratos, documentos o títulos de crédito que otorgue por la sucesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 847.
 
-DISPOSICION TESTAMENTARIA SOBRE POSESION Y LIQUIDACION DE BIENES HEREDITARIOS POR EL ALBACEA. El testador puede disponer que el albacea tome posesión de los bienes hereditarios y los liquide en la medida necesaria para la ejecución del testamento y el pago de las deudas y cargas hereditarias. La enajenación o gravamen que hiciere el albacea para tal efecto, en cumplimiento de la voluntad del testador, no requieren el consentimiento de los herederos o legatarios en su caso, ni tampoco la aprobación judicial.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 848.
 
-ARRENDAMIENTO DE BIENES DE LA SUCESION. El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendar por mayor tiempo necesita del consentimiento de la mayoría de los herederos o de los legatarios en su caso. La falta de consentimiento de la mayoría de herederos o legatarios, originará la nulidad del contrato.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 849.
 
-PERSONAS A QUIENES CORRESPONDE LA POSESION SOBRE BIENES HEREDITARIOS. La posesión de los bienes corresponde a los herederos o legatarios en su caso, salvo disposición en contrario del testador; pero quedará en poder del albacea la porción de bienes necesaria para cumplir el testamento y pagar las cargas y deudas hereditarias, más otras responsabilidades que hubieren sido a cargo del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 850.
 
-EJECUCION DE CARGAS HEREDITARIAS EN FAVOR DEL LEGATARIO. El albacea puede demandar a los herederos o legatarios por la ejecución de las cargas que el testador les hubiere impuesto a favor de un legatario. Este también puede intentar la pretensión correspondiente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 851.
 
-EJERCICIO DE PRETENSIONES O DERECHOS VINCULADOS CON LA HERENCIA POR LOS HEREDEROS O LEGATARIOS. Los herederos o legatarios pueden intentar todas las pretensiones o derechos relacionados con los bienes hereditarios o legados, que no hayan sido expresamente reservados al albacea por la Ley o por el testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 852.
 
-OBLIGACION DEL ALBACEA DE ENTREGAR BIENES A LOS HEREDEROS Y LEGATARIOS. Cualquiera que sea la disposición del testador sobre los poderes del albacea, o independientemente de las facultades que le correspondan por la Ley, debe entregar al heredero o legatario que tenga derecho y que así lo solicite, los bienes de la masa, que no sean evidentemente necesarios para el cumplimiento de sus funciones. La entrega pone fin a su derecho de administración respecto a esos bienes. En este caso los herederos o legatarios no podrán disponer de los bienes que reciban, antes de que sean cubiertos los créditos o legados. La enajenación que llevaren a cabo en contravención de este artículo estará afectada de nulidad absoluta.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 853.
 
-GESTION EXCLUSIVA DEL ALBACEA. La gestión de los derechos de la masa cuya administración tenga el albacea, corresponde exclusivamente a éste, sin perjuicio de los derechos de los herederos o legatarios para intervenir en caso de litigio.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 854.
 
-RENDICION BIMESTRAL DE CUENTAS POR EL ALBACEA. El albacea está obligado a rendir cada dos meses cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta bimestral. Además, rendirá la cuenta general de albaceazgo. También rendirá cuenta de su administración, cuando por cualquiera causa deje de ser albacea.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 855.
 
-TRANSMISION HEREDITARIA DE RENDIR CUENTAS. La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 856.
 
-NULIDAD DE LAS CLAUSULAS TESTAMENTARIAS QUE EXIMEN AL ALBACEA DE FORMULAR INVENTARIO O RENDIR CUENTAS. Son nulas de pleno derecho las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 857.
 
-APROBACION Y DISENTIMIENTO DE CUENTAS DEL ALBACEA. La cuenta de administración debe ser aprobada por todos los herederos; el que disienta puede seguir a su costa el incidente respectivo, en los términos que establece el artículo 990 fracción VIII de el Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 858.
 
-PARTICIPACION DEL MINISTERIO PUBLICO EN LA APROBACION DE CUENTAS. Cuando fuere heredera la Beneficencia Pública o los herederos fueren incapaces, intervendrá el Ministerio Público en la aprobación de las cuentas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 859.
 
-EFECTOS DE LA APROBACION DE CUENTAS. Aprobadas las cuentas, los interesados pueden celebrar sobre su resultado, los convenios que quieran.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 860.
 
-NOMBRAMIENTO Y FUNCIONES DEL INTERVENTOR. El heredero o herederos que no hubieren estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un interventor que vigile al albacea.
-
-Si la minoría inconforme la forman varios herederos, el nombramiento de interventor se hará por mayoría de votos; y si no se obtiene mayoría, el nombramiento lo hará el Juez, eligiendo el interventor de las personas propuestas por los herederos de la minoría.
-
-Las funciones de este interventor se regirán, en lo conducente, por lo dispuesto en el artículo 988 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 861.
 
-SUPUESTOS DE NOMBRAMIENTO DE INTERVENTOR. Debe nombrarse precisamente un interventor:
-
-I.- Siempre que el heredero esté ausente o no sea conocido;
-
-II.- Cuando la cuantía de los legados iguale o exceda a la porción del heredero albacea; y
-
-III.- Cuando se hagan los legados para objetos o establecimientos de Beneficencia Pública.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 862.
 
-REQUISITOS PARA SER INTERVENTOR. Los interventores deben ser mayores de edad y capaces de obligarse.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 863.
 
-DURACION DEL CARGO DE INTERVENTOR. Los interventores durarán mientras que no se revoque su nombramiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 864.
 
-RETRIBUCION DEL INTERVENTOR. Los interventores tendrán la retribución que acuerden con los herederos que los nombren o, en su defecto o en caso de que sean nombrados por el Juez, la que señala la fracción V del artículo 988 del Código Procesal Civil.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 865.
 
-TIEMPO PARA EXIGIR PAGO DE CREDITOS Y LEGADOS HEREDITARIOS. Los acreedores y legatarios no podrán exigir el pago de sus créditos y legados, sino hasta que el inventario haya sido formado y aprobado, siempre que se forme y apruebe dentro de los términos señalados por la Ley; salvo en los casos prescritos en los artículos 880 y 881 de este Código, y aquellas deudas sobre las cuales hubiere juicio pendiente al abrirse la sucesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 866.
 
-CARGO DE GASTOS EFECTUADOS POR EL ALBACEA. Los gastos hechos por el albacea en el cumplimiento de su cargo, incluso los honorarios de abogado que haya ocupado, se pagarán de la masa de la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 867.
 
-DURACION DEL CARGO DE ALBACEA. El albacea debe cumplir su encargo dentro de un año, contado desde su aceptación, o desde que terminen los litigios que se promovieren sobre la validez o nulidad del testamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 868.
 
-PRORROGA DEL CARGO DE ALBACEA. Sólo por causa justificada pueden los herederos prorrogar al albacea el término señalado en el artículo anterior, y la prórroga no excederá de un año.
-
-Para prorrogar el plazo del albaceazgo, es indispensable que haya sido aprobada la cuenta anual del albacea, y que la prórroga la acuerde una mayoría que represente las dos terceras partes de la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 869.
 
-RETRIBUCION TESTAMENTARIA DEL CARGO DE ALBACEA. El testador puede señalar al albacea la retribución que considere adecuada, sin perjuicio de los acreedores y de los que tengan derecho a alimentos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 870.
 
-RETRIBUCION LEGAL AL CARGO DE ALBACEA. Si el testador no designare la retribución, el albacea recibirá los honorarios establecidos por el artículo 988 fracción V del Código Procesal Civil, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 871.
 
-ELECCION DEL ALBACEA POR DESEMPEÑO DE SU ENCARGO. El albacea tiene derecho de elegir entre lo que le deja el testador por el desempeño del cargo y lo que la Ley le concede por el mismo motivo.
-
-Si fueren varios y mancomunados los albaceas, la retribución se repartirá entre todos ellos; si no fueren mancomunados, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
-
-Si el testador legó conjuntamente a los albaceas alguna cosa por el desempeño de su cargo, la parte de los que no admitan éste acrecerá a los que lo ejerzan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 872.
 
-CAUSAS DE TERMINACION DE LOS CARGOS DE ALBACEA E INTERVENTOR. Los cargos de albacea e interventor acaban:
-
-I.- Por el término natural del encargo;
-
-II.- Por muerte del albacea o del interventor;
-
-III.- Por incapacidad legal declarada en forma, comprendiéndose en la misma los casos de quiebra o concurso del albacea o interventor;
-
-IV.- Por enfermedad o imposibilidad física que el Juez califique como impedimento bastante, tomando en cuenta el perjuicio que pudieren sufrir los herederos o legatarios;
-
-V.- Por ausencia declarada en forma, o cuando se ignore el paradero del albacea o interventor, o se ausenten de la República por más de seis meses;
-
-VI.- Por excusa que el Juez califique de legítima, con audiencia de los interesados;
-
-VII.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
-
-VIII.- Por revocación de sus nombramientos, hecha por la mayoría de los herederos, o de los legatarios en el caso de que el valor de los bienes legados sea superior al de los bienes dejados en herencia. La mayoría se computará por personas e intereses a la vez; y
-
-IX.- Por remoción.
-
-En todos estos casos, mientras no se provea el nombramiento de albacea, la sucesión será representada por la unidad de herederos o legatarios, en cuanto a los actos jurídicos de dominio, o por la mayoría de personas y de intereses, para los actos de administración. En el caso de juicio dicha mayoría representará a la sucesión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 873.
 
-TIEMPO PARA LA REVOCACION DEL CARGO DE ALBACEA O INTERVENTOR. La revocación de los cargos de albacea o interventor puede hacerse en cualquier tiempo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 874.
 
-REVOCACION INJUSTIFICADA DEL ALBACEA. Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de percibir lo que el testador le haya dejado por el desempeño del cargo o el tanto por ciento que le corresponda conforme el artículo 870, teniéndose en cuenta lo dispuesto en el artículo 871, ambos de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 875.
 
-EJECUCION ESPECIAL DEL ALBACEA POR DISPOSICION TESTAMENTARIA. Cuando el albacea haya recibido del testador algún encargo especial, además del de seguir el juicio sucesorio para hacer entrega de los bienes a los herederos, no quedará privado de aquel encargo por la revocación del nombramiento de albacea que hagan los herederos. En tal caso se considerará como ejecutor especial y se aplicará lo dispuesto en el artículo 830 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 876.
 
-REQUISITOS PARA LA REMOCION DEL CARGO DEL ALBACEA O INTERVENTOR. La remoción de los cargos de albacea o interventor, deberá hacerse previa audiencia, debiendo designar el Juez al substituto que acuerde la mayoría de personas e intereses, en el mismo acto. De no ser posible, la sucesión quedará representada en los términos del párrafo final del artículo 872 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Las causas de remoción obligatoria del albacea se regirán por lo dispuesto en la fracción IV del artículo 987 del Código Procesal Civil.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DEL INVENTARIO, SU FORMACION Y DE LA LIQUIDACION DE LA HERENCIA
 
 ###### ARTICULO 877.
 
-PROMOCION Y FORMACION DEL INVENTARIO. El albacea definitivo, dentro del plazo y forma que fije el Código Procesal Civil, promoverá la formación del inventario.
-
-Si el albacea no cumpliere lo dispuesto en el párrafo anterior, será removido y podrá promover la formación del inventario cualquier heredero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 878.
 
-LIQUIDACION DE LA HERENCIA. Concluido y aprobado judicialmente el inventario, el albacea procederá a la liquidación de la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 879.
 
-NOCION DE DEUDAS HEREDITARIAS. Se llaman deudas hereditarias las contraídas por el autor de la herencia independientemente de su última disposición y de las que es responsable con sus bienes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 880.
 
-PREFERENCIA Y PAGO DE DEUDAS. En primer lugar, serán pagadas las deudas mortuorias, si no lo estuvieron ya, pues pueden pagarse antes de la formación del inventario.
-
-Se llaman deudas mortuorias, los gastos de funeral y las que se hayan causado en la última enfermedad del autor de la herencia.
-
-Las deudas mortuorias se pagarán del cuerpo de la herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 881.
 
-PREFERENCIA EN EL PAGO DE GASTOS DE CONSERVACION DE LA HERENCIA. Después, se pagarán los gastos de rigurosa conservación y administración de la herencia, así como los créditos alimenticios, que pueden también ser cubiertos antes de la formación del inventario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 882.
 
-VENTA DE BIENES PARA EL PAGO DE DEUDAS DE LA HERENCIA PREFERENCIALES. Si para hacer los pagos de que hablan los artículos anteriores no hubiere dinero en la herencia, el albacea promoverá la venta de los bienes muebles y aun de los inmuebles, con las formalidades que respectivamente se requieran.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 883.
 
-PAGO DE DEUDAS EXIGIBLES. En seguida se pagarán las deudas hereditarias que fueren exigibles.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 884.
 
-ORDEN EN EL PAGO DE DEUDAS HEREDITARIAS EXISTIENDO O NO CONCURSO PENDIENTE. Si hubiere pendiente algún concurso, el albacea no deberá pagar sino conforme a la sentencia de graduación de acreedores.
-
-Los acreedores, cuando no haya concurso, serán pagados en el orden que se presenten; pero si entre los no presentados hubiere algunos preferentes, se exigirá a los que fueren pagados, la caución de acreedor de mejor derecho.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 885.
 
-PAGO DE LEGADOS. El albacea, concluido el inventario, no podrá pagar los legados, sin haber cubierto o asignado bienes bastantes para pagar las deudas, conservando en los respectivos bienes los gravámenes especiales que tengan.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 886.
 
-ACREEDORES PREFERIDOS. Los acreedores que se presenten después de pagados los legatarios, solamente tendrán pretensión contra éstos cuando en la herencia no hubieren bienes bastantes para cubrir sus créditos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 887.
 
-REQUISITOS Y APLICACION PARA LA VENTA DE BIENES HEREDITARIOS. La venta de bienes hereditarios para el pago de deudas y legados, se hará en pública subasta; a no ser que la mayoría de los interesados acuerde otra cosa.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-La mayoría de los interesados, o la autoridad judicial en su caso, determinará la aplicación que haya de darse al precio de las cosas vendidas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. DE LOS DERECHOS Y OBLIGACIONES DEL HEREDERO
 
 ###### ARTICULO 888.
 
-POSESION ORIGINARIA DE HEREDEROS Y DERIVADA DEL ALBACEA. Corresponde a los herederos la posesión originaria de los bienes y derechos hereditarios. El albacea tendrá una posesión derivada en nombre de aquéllos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 889.
 
-MOMENTO EN QUE LOS HEREDEROS ENTRAN EN POSESION. Los herederos entran en la posesión de los bienes hereditarios, para todos los efectos legales, desde el día y hora de la muerte del autor de la herencia, aun cuando materialmente no detenten los bienes o derechos e ignoren la apertura de la sucesión, o su llamamiento o reconocimiento como herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 890.
 
-PRESUPUESTO PARA EL EJERCICIO DE LAS PRETENSIONES PROCESALES POR PARTE DE LOS HEREDEROS. Para que los herederos puedan ejercitar las pretensiones que correspondan en defensa de los bienes hereditarios o de la herencia en general, cuando no hubiere albacea, o éste se negare a hacerlo, es necesario que dichos herederos hayan sido reconocidos judicialmente.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 891.
 
-EQUIVALENCIA DE LA MASA HEREDITARIA AL REGIMEN DE COPROPIEDAD. Los herederos tendrán respecto a la masa hereditaria los mismos derechos y obligaciones que corresponden a los copropietarios y que establece este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 892.
 
-CAUSAHABIENCIA DE MASA HEREDITARIA AL REGIMEN DE COPROPIEDAD. El heredero, como causahabiente a título universal de toda la herencia, cuando es único, o de parte alícuota de la misma, si existieren varios, será propietario, poseedor, acreedor o deudor de todo lo que el autor de la sucesión fue propietario, poseedor, acreedor o deudor, con excepción de aquellos derechos y obligaciones que se extinguen con la muerte.
-
-Los frutos y productos de la herencia corresponden en plena propiedad a los herederos, y también se les transmiten los derechos eventuales que puedan corresponder al autor de la misma.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 893.
 
-PRESUPUESTO PARA QUE EL HEREDERO TRANSMITA SUS DERECHOS A SUS HEREDEROS. El heredero que sobrevive un solo instante al autor de la herencia, transmite sus derechos a sus propios herederos, que gozan como él de la facultad de aceptar o repudiar.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 894.
 
-PRETENSION DE PETICION DE HERENCIA. El heredero tiene pretensión para reclamar los bienes de la herencia que se encuentren en poder de quien los tenga a título de sucesor del causante, sin derecho suficiente, aunque no hubiere sido judicialmente declarado. Procede la pretensión, en el mismo caso, contra el heredero que rehusa reconocer al demandante como coheredero, o contra quien pretende serlo en concurrencia con él.
-
-Esta pretensión se denomina de petición de herencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 895.
 
-PERSONAS QUE PUEDEN DEDUCIR LA PRETENSION DE PETICION DE HERENCIA. La petición de herencia se deducirá por el heredero testamentario o por intestado, o por el que haga sus veces en la disposición testamentaria; y se da además contra el albacea o contra el poseedor de las cosas hereditarias con el carácter de heredero, o cesionario de éste y contra el que no alega título ninguno de posesión del bien hereditario, o dolosamente dejó de poseerlo.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 896.
 
-OBJETIVO DE LA PRETENSION DE PETICION DE HERENCIA. La petición de herencia se ejercitará para que sea declarado heredero el demandante, se le haga entrega de los bienes hereditarios con todo lo que de hecho y por derecho le corresponda, sea indemnizado y se le rindan cuentas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 897.
 
-PERSONAS CONTRA LAS QUE VA DIRIGIDA LA PRETENSION DE PETICION DE HERENCIA. Procede también la pretensión de petición de herencia contra el que ha sido declarado heredero, para excluirlo totalmente, o para ser reconocido como coheredero, así como contra el adquirente a título gratuito de bienes de la sucesión por actos celebrados con el heredero aparente, y contra todo adquirente que no pueda justificar debidamente su derecho.
-
-También procede la pretensión de petición de herencia contra el poseedor de bienes que estaban en poder del causante en el momento de su muerte, si no tuviere título de adquisición, y contra quien los sustrajo de la herencia o se apoderó de ellos sin derecho.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 898.
 
-APLICACION DE LAS REGLAS DE LA PRETENSION REIVINDICATORIA A LA DE PETICION DE HERENCIA. Se aplican a la petición de herencia las reglas de la pretensión reivindicatoria sobre obligaciones del poseedor de buena o mala fe, gastos, mejoras, restituciones de frutos, responsabilidad por las pérdidas, y en general, todas las que no estén modificadas por el presente Capítulo.
-
-Se considera para los efectos aquí declarados como poseedor de mala fe, al que sabe, o debe saber, que existen herederos preferentes, coherederos o legatarios a quienes no se ha hecho citar para que concurran a deducir sus derechos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 899.
 
-PRETENSION POSESORIA DEL HEREDERO. El heredero tiene además pretensión posesoria para ser mantenido o reintegrado en la posesión de la herencia o de los bienes que dependen de ella.
-
-Como adquirente con justo título y buena fe, le compete pretensión para que, aun cuando no haya prescrito, le restituya la cosa con sus frutos y accesiones el poseedor de mala fe; o el que teniendo título de igual calidad ha poseído por menos tiempo que el heredero. No procede esta pretensión en los casos en que ambas posesiones fueran dudosas, o el demandado tuviere su título registrado y el autor de la herencia no, así como contra el legítimo dueño.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 900.
 
-ACUERDOS DE LOS HEREDEROS SOBRE ADMINISTRACION DE LA HERENCIA. Aun cuando el albacea se encuentre en la posesión y administración de los bienes, en todo tiempo, los herederos que integran la mayoría de intereses y personas, o los legatarios en su caso, pueden acordar todas las medidas que estimen convenientes para dicha administración de la herencia, estando facultados para ejecutarlas directamente por conducto del heredero o legatario que al efecto designen.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 901.
 
-EFECTOS DE LA ACEPTACION DE LA HERENCIA. Por virtud de la aceptación de la herencia, se establece una separación entre el patrimonio personal del heredero y el patrimonio hereditario. Las relaciones jurídicas personales del heredero serán distintas de las relaciones jurídicas activas y pasivas de la herencia, en lo que se refiere a los créditos, obligaciones y cargas de la misma.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 902.
 
-CONCURRENCIA DE LOS HEREDEROS A LA AUDIENCIA SOBRE ADMINISTRACION Y CONSERVACION DE BIENES HEREDITARIOS. Los herederos están obligados a petición de cualquiera de ellos o del albacea, a concurrir a una audiencia que señale el Juez de la sucesión, a efecto de discutir en la misma las medidas que sean convenientes para la administración y conservación de los bienes hereditarios. En esta audiencia se pueden tomar todos los acuerdos necesarios para la conservación de los derechos sucesorios y de las pretensiones correspondientes, y el Juez autorizará al albacea o al representante que se designe por la mayoría de intereses y personas, para que ejecute las medidas acordadas.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 903.
 
-CONCURRENCIA DE HEREDEROS POR POSIBLE FRAUDE O PERJUICIO DE ACREEDORES POR PARTE DEL ALBACEA. A solicitud de cualquier acreedor cuyo derecho conste debidamente, podrá el Juez convocar a los herederos, cuando exista temor fundado de que los mismos o el albacea ejecuten algún acto en fraude o perjuicio de acreedores. En dicha audiencia, según el estado de solvencia o insolvencia de la sucesión y el peligro de fraude a los acreedores, el Juez podrá autorizar o negar la celebración del acto o actos a que se refiera la denuncia del acreedor. En todo caso, podrá la sucesión celebrar el acto o contrato, si garantiza con fianza, prenda o hipoteca los derechos del acreedor o acreedores que pudieren resultar perjudicados.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 904.
 
-OPOSICION DE ACREEDORES HEREDITARIOS AL PAGO DE UN HEREDERO CON BIENES DE LA HERENCIA PARA DEUDAS PERSONALES. Los acreedores de la herencia pueden oponerse válidamente al pago que pretendiere hacer o que hubiere hecho un heredero, con los bienes de la masa, para solventar sus deudas personales. Si al efecto pidiere que se citare a audiencia en los términos del artículo anterior y el pago no estuviere hecho, el Juez negará de plano la autorización para ejecutarlo. Si el pago se hubiere efectuado, a petición de cualquier acreedor o de un legatario que resulte perjudicado, se declarará, previo el incidente respectivo, la nulidad del mismo. El citado incidente se tramitará ante el Juez de la sucesión y en relación con el juicio hereditario.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 905.
 
-RESPETO A LOS ACTOS DE ADMINISTRACION DEL POSEEDOR DE LA HERENCIA EN FAVOR DE TERCERO. El heredero está obligado a respetar los actos de administración que haya celebrado el poseedor de la herencia a favor de tercero, siempre y cuando hubiere buena fe de parte de ambos. Se considera que el poseedor de la herencia es de buene (sic) fe, cuando por error de hecho o de derecho se cree legítimo causahabiente de los bienes de la sucesión de que se trate y cuya posesión tenga. El tercero se reputará de buena fe cuando ignore que el poseedor de la herencia carece de derechos en relación con la misma.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Los actos de enajenación de bienes a título oneroso que hubiese hecho el poseedor de la herencia, a favor de tercero, serán válidos respecto al heredero o herederos, a no ser que dicho tercero hubiere procedido de mala fe. Los actos de enajenación a título gratuito, serán nulos aun cuando hubiere habido buena fe en el tercero y en el enajenante.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DE LA PARTICION
 
 ###### ARTICULO 906.
 
-PROYECTO DE PARTICION DE HERENCIA. Aprobado el inventario, y una vez liquidado el pasivo hereditario, el albacea debe hacer en seguida la partición de la herencia. Cualquiera de los herederos puede exigir también que se proceda a la partición; a lo cual deberá acceder el Juez, fijándole término prudente para que la formule, y apercibiéndolo de que de no hacerlo, cualquiera de los herederos presentará el proyecto respectivo.
-
-Por acuerdo unánime de todos los herederos, legatarios y acreedores de la herencia, puede hacerse la partición de la misma antes de que esté formulado legalmente el inventario y liquidado el pasivo, pero en este caso el heredero o herederos deberán otorgar caución bastante a criterio del Juez, dado el valor de los bienes hereditarios, para responder en el supuesto de que hubiere acreedores preteridos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 907.
 
-IMPOSIBILIDAD DE OBLIGAR A LA INDIVISION A LOS HEREDEROS. A ningún heredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 908.
 
-SUSPENSION DE LA PARTICION. Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo incapaces entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el inventario, determinará el tiempo que debe durar la indivisión.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 909.
 
-ENTREGA DE BIENES POR DISPOSICION TESTAMENTARIA. Si el autor de la herencia dispone en su testamento que a algún heredero o legatario se le entreguen determinados bienes, el albacea, aprobado el inventario, les entregará esos bienes, siempre que garanticen suficientemente responder por los gastos y cargas generales de la herencia, en la proporción que les corresponda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 910.
 
-PARTICION DEL AUTOR DE LA HERENCIA. Si el autor de la herencia hiciere la partición de los bienes en su testamento a ella deberá estarse, salvo derecho de tercero.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 911.
 
-AUSENCIA DE PARTICION DEL AUTOR DE LA HERENCIA. Si el autor de la sucesión no dispuso cómo debieran repartirse sus bienes y se trata de una negociación que forme una unidad agrícola, industrial o comercial, habiendo entre los herederos agricultores, industriales o comerciantes, a ellos se aplicará la negociación, siempre que puedan entregar en dinero a los otros coherederos la parte que les corresponda. El precio de la negociación se fijará por peritos.
-
-Lo dispuesto en este artículo no impide que los coherederos celebren los convenios que estimen pertinentes.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 912.
 
-ABONOS RECIPROCOS DE RENTAS Y FRUTOS ENTRE COHEREDEROS. Los coherederos deben abonarse recíprocamente las rentas y frutos que cada uno haya recibido de los bienes hereditarios, los gastos útiles y necesarios y los daños ocasionados por malicia o negligencia.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 913.
 
-PAGO DE PENSIONES DERIVADAS DE LA HERENCIA. Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fondo de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario. Lo mismo se observará cuando se trate de las pensiones alimenticias a que se refiere el artículo 584 de este Código.
-
-En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponda a cada uno de los herederos luego que aquélla se extinga.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 914.
 
-TERMINACION DE LA HERENCIA POR CONVENIO. Cuando todos los herederos sean mayores, y el interés del Fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 915.
 
-PARTICION SOBRE USO O GOCE DE BIENES HEREDITARIOS. Los interesados pueden convenir la partición en cuanto al goce o uso de los bienes hereditarios, dejando subsistir la indivisión en cuanto a la propiedad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 916.
 
-NULIDAD DE LA PARTICION POR FALTA DE INTERVENCION JUDICIAL. La partición será judicial, bajo pena de nulidad:
-
-I.- Cuando haya incapaces, o menores emancipados interesados;
-
-II.- Cuando el causante fue declarado ausente y se dio posesión definitiva de sus bienes a los herederos;
-
-III.- Cuando hubiesen herederos o legatarios ausentes. Para los efectos de esta fracción se consideran ausentes los no presentes, aunque su existencia no sea dudosa;
-
-IV.- Cuando terceros, fundándose en un interés jurídico, se opongan judicialmente a que se haga partición privada; y
-
-V.- Cuando los herederos capaces no se pusieren de acuerdo en una partición privada.
-
-Los herederos capaces podrán en todo tiempo separarse de la partición judicial por resolución unánime.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 917.
 
-PARTICION CON EXISTENCIA DE INCAPACES. Cuando haya incapaces, el Juez aprobará o denegará el convenio de partición, oyendo al Ministerio Público. Si los incapaces están debidamente representados y el Ministerio Público da su conformidad, el Juez aprobará el convenio de partición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 918.
 
-FORMALIDADES Y GASTOS DE LA PARTICION. La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Los gastos de la partición se rebajarán del fondo común; los que se hagan por interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DE LOS EFECTOS DE LA PARTICION
 
 ###### ARTICULO 919.
 
-EFECTOS GENERALES DE LA PARTICION. La partición legalmente hecha fija la porción de bienes hereditarios que corresponde a cada uno de los herederos, terminando la copropiedad que origina la herencia.
-
-El efecto de la partición es declarativo en cuanto a la transmisión del dominio en favor de los herederos y respecto a los bienes en general como masa indivisa, y atributivo de propiedad en cuanto a los bienes determinados de la herencia que en cada caso se apliquen a los herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 920.
 
-INDEMNIZACIONES RECIPROCAS. Cuando por causas anteriores a la partición, alguno de los coherederos fuese privado del todo o de parte de su haber, los otros coherederos están obligados a indemnizarle de esa pérdida, en proporción a sus derechos hereditarios.
-
-La porción que deberá pagarse al que pierda su parte, no será la que represente su haber primitivo, sino la que le corresponda, deduciendo del total de la herencia la parte perdida.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 921.
 
-CESACION DE LAS INDEMNIZACIONES RECIPROCAS. La obligación a que se refiere el artículo 920, sólo cesará en los casos siguientes:
-
-I.- Cuando se hubieren dejado al heredero bienes individualmente determinados, de los cuales es privado;
-
-II.- Cuando al hacerse la partición, los coherederos renuncien expresamente al derecho de ser indemnizados; y
-
-III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 922.
 
-INSOLVENCIA DEL HEREDERO. Si alguno de los coherederos estuviere insolvente, la cuota con que debía contribuir se repartirá entre los demás, incluso el que perdió su parte.
-
-Los que pagaren por el insolvente, conservarán su pretensión contra él, para cuando mejore su fortuna.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 923.
 
-EFECTOS DE LA ADJUDICACION DE CREDITOS COBRABLES. Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su solvencia al tiempo de hacerse la partición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 924.
 
-FALTA DE RESPONSABILIDAD POR CREDITOS INCOBRABLES. Por los créditos incobrables no hay responsabilidad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 925.
 
-POSIBILIDAD DEL HEREDERO PARA SOLICITAR A LOS DEMAS LA PRESTACION DE CAUCION. El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que puede resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 926.
 
-REGISTRO DE LA PARTICION. La partición debe ser registrada en relación a cada inmueble comprendido en ella, y, entre tanto no se haga, no producirá efectos en perjuicio de tercero, pudiendo los acreedores y legatarios hacer efectivos sus derechos sobre los bienes hereditarios como si no hubiese existido la partición.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 927.
 
-PRETENSION DE ACREEDORES Y LEGATARIOS DESPUES DE REALIZADA LA PARTICION. Los acreedores y legatarios que se presentaren después de efectuada la partición, tendrán pretensión, por el todo, sobre los bienes de la herencia que se encontraren en poder de los herederos, como si no hubiere habido partición, salvo los derechos constituidos a favor de terceros después de la inscripción.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-Los acreedores tendrán, en el mismo caso, pretensión contra los legatarios, en la parte que no sean cubiertos sus créditos con los bienes de la herencia. En todos los supuestos anteriores, procede la pretensión de enriquecimiento indebido.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IX
 
@@ -5853,31 +4415,25 @@ DE LA RESCISION Y NULIDAD DE LAS PARTICIONES.
 
 ###### ARTICULO 928.
 
-CAUSAS DE RESCISION O DE NULIDAD DE LAS PARTICIONES. Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones y contratos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 929.
 
-NULIDAD DE LA PARTICION SOLICITADA POR EL HEREDERO PRETERIDO. El heredero preterido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que perciba la parte que le corresponda.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 930.
 
-NULIDAD DE LA PARTICION POR EXISTENCIA DE HEREDERO FALSO. La partición hecha con un heredero falso es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 931.
 
-EFECTOS DE LA OMISION DE BIENES UNA VEZ REALIZADA LA PARTICION. Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 932.
 
-NULIDAD DE LA PARTICION POR AUSENCIA DE INTERVENCION DE TODOS LOS HEREDEROS. Es nula la partición en la que no hubieren intervenido todos los herederos.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-La partición definitiva que no hubiere sido hecha ante el Juez en los casos anteriormente indicados, o con violación de las formas prescritas, será nula; pero podrá valer como partición provisional en cuanto al uso de los bienes.
-
-La nulidad por inobservancia de la forma puede ser convalidada por ratificación en la que se observen las formalidades omitidas.
-
-Esta última tendrá el carácter de relativa y serán aplicables a la misma las disposiciones generales contenidas en este Código para las nulidades de esta clase.
-
-Será absoluta la nulidad que afecte la partición que no hubiere sido hecha ante el Juez en los casos previstos en el artículo 916 de este Ordenamiento.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO X
 
@@ -5885,31 +4441,11 @@ DE LA TRANSMISION HEREDITARIA DE LOS DERECHOS NO PATRIMONIALES.
 
 ###### ARTICULO 933.
 
-DISPOSICION DEL AUTOR DE LA HERENCIA SOBRE SUS EXEQUIAS Y SEPULCRO. El autor de la herencia puede disponer por testamento, o mediante escrito firmado por él, la forma y circunstancias de sus exequias. Puede, también, ordenar la erección de su sepulcro para sí o para sepultura de familia.
-
-En defecto de disposiciones expresas del testador o autor de la herencia, se observarán las reglas siguientes:
-
-I.- Es carga de la masa hereditaria la sepultura del causante en la tumba de su familia, y en defecto de ésta, en el sepulcro que se construirá según las circunstancias y las capacidades de la herencia, determinando el Juez lo conducente en caso de desacuerdo entre los herederos o legatarios;
-
-II.- El sepulcro que se haga, o que ya exista a la muerte del causante, no podrá ser objeto de enajenación o cesión, por título oneroso o gratuito;
-
-III.- Los herederos no tienen derecho para autorizar a que se sepulte en él a persona alguna que no sea cónyuge, pariente consanguíneo o por adopción del causante de la herencia;
-
-IV.- Tampoco tendrán los herederos derecho para proceder a la exhumación de los cadáveres sepultados, a menos que lo hubiera sido con violación de la regla anterior;
-
-V.- Las concesiones de sepultura y la exhumación quedarán regidas por las disposiciones administrativas conducentes;
-
-VI.- Los sepulcros no pueden ser divididos entre herederos o legatarios, ni son embargables; y
-
-VII.- Los objetos que constituyeren recuerdos de familia, los trofeos y las condecoraciones personales, los papeles y correspondencia del causante, no serán materia de división hereditaria y deberán quedar en depósito del heredero que por acuerdo unánime se determine. En su defecto, lo designará el Juez.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 934.
 
-TRANSMISION HEREDITARIA DE DERECHOS NO PATRIMONIALES. Serán objeto de transmisión hereditaria los derechos personales de contenido no patrimonial que no supongan aptitudes o calidades exclusivas del autor de la herencia. En igual sentido serán objeto de transmisión hereditaria las obligaciones personales de contenido no patrimonial, que no impliquen calidades o aptitudes exclusivas del causante.
-
-Los derechos de potestad son transmisibles hereditariamente mediante la designación de un tutor testamentario. Los mismos derechos se transmiten, en el caso de que no se nombre tutor testamentario, en favor de los abuelos, en los términos prescritos por el artículo 259 de este Código.
-
-Los derechos de estado civil son transmisibles por herencia a los herederos legítimos, en los casos a que aluden los artículos 212 párrafos segundo y tercero, 220 y 221 de este Código.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 # LIBRO CUARTO. DE LOS BIENES Y DE LOS DERECHOS REALES
 
@@ -15480,3 +14016,23 @@ Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para los ef
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Remítase el presente ordenamiento al Titular del Poder Ejecutivo del
+
+Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Este Código iniciará su vigencia el día primero de octubre de dos mil seis, una vez que se publique en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre y cuando que con su aplicación no se violen derechos adquiridos.
+
+CUARTO.- Las disposiciones de este Código se aplicarán a los plazos que estén corriendo para prescribir o para cualquier otro acto jurídico, pero el tiempo transcurrido se computará aumentándolo o disminuyéndolo en la misma proporción en que se haya aumentado o disminuido el nuevo plazo fijado por el presente Código.
+
+QUINTO.- Se derogan del Código Civil vigente en el Estado de Morelos, del artículo 59 al 934 y todas las disposiciones del orden familiar contenidas en dicho ordenamiento que se opongan al presente Código.
+
+SEXTO.- Dentro de un plazo de ciento veinte días naturales contados a partir de la fecha en que inicie su vigencia este Código, deberá expedirse el Reglamento del Registro Civil, mientras tanto se seguirá aplicando la Legislación vigente en todo lo que no sea contraria a las prevenciones de este Código.
+
+SÉPTIMO.- El Tribunal Superior de Justicia del Estado de Morelos, en un plazo no mayor a ciento veinte días contados a partir de la vigencia del presente código, deberá crear el Departamento de Orientación Familiar a que se refiere el artículo 25 de este ordenamiento, previniendo una partida presupuestal para el ejercicio fiscal 2007 y subsecuentes, para que dicho órgano cumpla con su objeto.
+
+OCTAVO.- Los epígrafes que preceden a los artículos de este Código no tienen valor para su interpretación y no pueden ser citados con respecto al contenido y alcance de las normas civiles.
