@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-8022"
 country: "mx"
 rank: "ley"
 publication_date: "1990-08-15"
-last_updated: "2001-10-11"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de agosto de 1990.
 
@@ -449,17 +449,17 @@ Las adquisiciones que realice el Gobierno del Estado por la vía de la compraven
 
 I.- La Dirección de Patrimonio Estatal emitirá dictamen que determine la inexistencia de bienes inmuebles propiedad de la Hacienda Pública Estatal disponibles y de las características del requerido;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-II.- La Secretaría de Desarrollo Urbano y Ecología, emitirá un dictamen del inmueble solicitado que se pretende adquirir en el que determine si cumple las condiciones para las que es requerido;
+II.- La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, emitirá un dictamen del inmueble solicitado que se pretende adquirir en el que determine si cumple las condiciones para las que es requerido;
 
 III.- La Secretaría, en coordinación con peritos especializados, emitirá un avalúo del inmueble;
 
 IV.- La Contraloría verificará toda adquisición de bienes inmuebles que realice el Gobierno del Estado; y
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Las adquisiciones de bienes inmuebles se realizarán con la autorización del Comité de Compras y Operaciones Patrimoniales, que para los efectos de este artículo contará con la participación del titular de la Secretaría de Desarrollo Urbano y Ecología.
+V.- Las adquisiciones de bienes inmuebles se realizarán con la autorización del Comité de Compras y Operaciones Patrimoniales, que para los efectos de este artículo contará con la participación del titular de la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 42.
 
@@ -584,3 +584,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
