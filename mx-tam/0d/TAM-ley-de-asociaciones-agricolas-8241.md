@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-agricolas-8241"
 country: "mx"
 rank: "ley"
 publication_date: "1945-01-31"
-last_updated: "2004-05-27"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES AGRICOLAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 31 de enero de 1945.
 
@@ -383,7 +383,9 @@ Las Asambleas extraordinarias de la Federación en los casos no comprendidos en 
 
 La Asamblea General será la única capacitada para resolver sobre los siguientes puntos:
 
-I.- Fijar la superficie de cultivos y selección de semillas, sujetándose a las instrucciones respectivas de la Secretaria de Agricultura y Fomento.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Fijar la superficie de cultivos y selección de semillas, sujetándose a las instrucciones respectivas de la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 II.- Acordar el establecimiento de plantas de industrialización y demás a que se refiere el artículo 44 de esta Ley.
 
@@ -488,3 +490,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO 2º.
 
 Las Asociaciones que se encuentren constituidas conforme a las disposiciones que se reforman, podrán ajustar su funcionamiento a estas últimas, en todo cuanto les beneficie.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
