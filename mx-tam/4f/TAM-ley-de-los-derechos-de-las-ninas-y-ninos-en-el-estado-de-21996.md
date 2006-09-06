@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-estado-de-21996"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2001-06-05"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2001.
 
@@ -275,9 +275,11 @@ Es obligación de los padres, miembros de la familia y responsables del cuidado 
 
 Es obligación de los padres, miembros de la familia y responsables del cuidado de las niñas y niños, el que éstos reciban la aplicación de las vacunas que comprenden el esquema básico, acudiendo para ello a las clínicas, centros de salud, o centros temporales de vacunación.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría de Desarrollo Social, en coordinación con el Sistema DIF Tamaulipas, establecerá los mecanismos conforme a los cuales las autoridades y las instituciones apoyarán y asistirán, en el cumplimiento de sus responsabilidades, a los padres, miembros de la familia y las personas encargadas del cuidado de las niñas y niños.
+La Secretaría de Desarrollo Social, Cultura y Deporte en coordinación con el Sistema DIF Tamaulipas, establecerá los mecanismos conforme a los cuales las autoridades y las instituciones apoyarán y asistirán, en el cumplimiento de sus responsabilidades, a los padres, miembros de la familia y las personas encargadas del cuidado de las niñas y niños.
 
 ###### ARTICULO 13.
 
@@ -329,11 +331,15 @@ X.- Proveer lo necesario para el cumplimiento de la Ley; y
 
 XI.- Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL, CULTURA Y DEPORTE
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 18.
 
-Corresponde a la Secretaría de Desarrollo Social, en relación con las niñas y niños:
+Corresponde a la Secretaría de Desarrollo Social, Cultura y Deporte, en relación con las niñas y niños:
 
 I.- Formular, fomentar, coordinar, instrumentar y difundir, salvo que de forma expresa las leyes atribuyan a otras dependencias, las políticas públicas, programas y acciones de provisión, prevención, protección y participación para el mejoramiento general de sus condiciones de vida, promoviendo la equidad y la igualdad de oportunidades, tendientes a disminuir la exclusión social;
 
@@ -369,9 +375,11 @@ XVI.- Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales p
 
 XVII.- Las demás que le confieran otros ordenamientos jurídicos.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 19.
 
-La Secretaría de Desarrollo Social, la Secretaría de Salud y el Sistema DIF Tamaulipas se coordinarán a fin (sic) promover y vigilar el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que la que reciban sea de calidad para su desarrollo integral.
+La Secretaría de Desarrollo Social, Cultura y Deporte, la Secretaría de Salud y el Sistema DIF Tamaulipas se coordinarán a fin promover y vigilar el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que la que reciban sea de calidad para su desarrollo integral.
 
 ### CAPITULO III. DE LA SECRETARIA DE SALUD
 
@@ -499,11 +507,15 @@ II.- La titular del Sistema DIF Tamaulipas, quien fungirá como vicepresidente;
 
 III.- El titular de la Secretaría General de Gobierno, como presidente suplente;
 
-IV.- El titular de la Secretaría de Desarrollo Social, con el carácter de secretario técnico;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- El titular de la Secretaría de Desarrollo Social, Cultura y Deporte, con el carácter de secretario técnico;
 
 V.- El titular de la Secretaría de Salud, como vocal;
 
-VI.- El titular de la Secretaría de Educación, Cultura y Deporte, como vocal;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- El titular de la Secretaría de Educación;
 
 VII.- El Procurador General de Justicia, como vocal;
 
@@ -533,9 +545,11 @@ VI.- Analizar y proponer a las instancias competentes programas de atención par
 
 VII.- Contribuir a la difusión de los principios, derechos y deberes de las niñas y niños.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 28.
 
-La Secretaría Técnica del Consejo, a cargo del titular de la Secretaría de Desarrollo Social, tendrá las facultades siguientes:
+La Secretaría Técnica del Consejo, a cargo del titular de la Secretaría de Desarrollo Social, Cultura y Deporte, tendrá las facultades siguientes:
 
 I.- Convocar e invitar a las reuniones del Consejo;
 
@@ -549,7 +563,9 @@ IV.- Las demás inherentes a su cargo.
 
 En cada uno de los Municipios se establecerá un Consejo encabezado por el Presidente Municipal e integrado por la titular del Sistema DIF Municipal, con el carácter de vicepresidente, el titular del área de Desarrollo Social, con el carácter de secretario técnico, y como vocales, el titular del área Jurídica y de Gobierno, y dos regidores designados por el Cabildo.
 
-El Presidente del Consejo podrá invitar a participar en el Consejo Municipal a representantes de la Secretaría de Salud y de la Secretaría de Educación, Cultura y Deporte, así como a representantes de organizaciones sociales y privadas dedicadas a la atención de las niñas y niños, asociaciones de padres de familia y especialistas en el tema.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+El Presidente del Consejo podrá invitar a participar en el Consejo Municipal a representantes de la Secretaría de Salud y de la Secretaría de Educación, así como a representantes de organizaciones sociales y privadas dedicadas a la atención de las niñas y niños, asociaciones de padres de familia y especialistas en el tema.
 
 Los cargos del Consejo serán honoríficos, y sus titulares podrán nombrar un representante que los supla; sus determinaciones se tomarán por mayoría de votos y, en caso de empate, el presidente contará con voto de calidad.
 
@@ -581,9 +597,11 @@ VIII.- Promover la democracia, no sólo como régimen jurídico o como forma de 
 
 IX.- Fomentar la deontología de las niñas y niños, entendida ésta como la suma de los deberes que cada niña y niño tienen consigo mismos y con los demás.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 31.
 
-La Secretaría de Desarrollo Urbano y Ecología, como dependencia de la Administración Pública, promoverá, entre otras acciones, las siguientes:
+La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, como dependencia de la Administración Pública, promoverá, entre otras acciones, las siguientes:
 
 I.- El respeto y conocimiento de la naturaleza por parte de las niñas y niños, informándoles sobre la importancia de un medio ambiente saludable y capacitándoles para su aprovechamiento positivo; y
 
@@ -605,17 +623,23 @@ III.- Fomentar el otorgamiento de becas en las instituciones particulares a fin 
 
 IV.- Impulsar programas de fomento educativo con los padres, educandos y maestros.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 34.
 
-La Secretaría de Educación, Cultura y Deporte, como dependencia de la Administración Pública, propiciará, fomentará y promoverá propuestas y programas para incluir a las niñas y niños excluidos de la educación básica obligatoria.
+La Secretaría de Educación, como dependencia de la Administración Pública, propiciará, fomentará y promoverá propuestas y programas para incluir a las niñas y niños excluidos de la educación básica obligatoria.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría de Educación, Cultura y Deporte, en coordinación con dependencias, órganos desconcentrados y entidades competentes, establecerá programas alternativos de atención y educación extraescolar a través de actividades lúdicas, culturales y científicas.
+La Secretaría de Educación, en coordinación con dependencias, órganos desconcentrados y entidades competentes, establecerá programas alternativos de atención y educación extraescolar a través de actividades lúdicas, culturales y científicas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 36.
 
-La Secretaría de Desarrollo Social, en coordinación con las dependencias y entidades competentes, fomentará:
+La Secretaría de Desarrollo Social, Cultura y Deporte, en coordinación con las dependencias y entidades competentes, fomentará:
 
 I.- El acceso a los espacios culturales, favoreciendo la expresión y conocimiento de sus valores, historia y tradiciones;
 
@@ -637,9 +661,11 @@ El Instituto Tamaulipeco para la Cultura y las Artes fomentará la participació
 
 El Consejo promoverá que los medios de comunicación impresos y electrónicos protejan a las niñas y niños de toda información que resulte perjudicial para su formación integral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 40.
 
-En materia de deporte y recreación la Secretaría de Educación, Cultura y Deporte propiciará:
+En materia de deporte y recreación la Secretaría de Educación, propiciará:
 
 I.- La inclusión en los programas, actividades, convenios, bases de colaboración, intercambios, apoyos, permisos, estímulos y demás actos similares o equivalentes que suscriba su titular, en ejercicio de sus atribuciones, la participación y presencia de niñas y niños, cuidando que no se afecte o excluya el goce de sus derechos;
 
@@ -717,13 +743,17 @@ El Agente del Ministerio Público, el Sistema DIF Tamaulipas, o el Sistema DIF M
 
 El Sistema DIF Tamaulipas, en coordinación con las dependencias de la Administración Pública competentes, y los Ayuntamientos establecerán un programa específico y prioritario para brindar a las niñas y niños en situación de calle, las medidas de defensa jurídica, de provisión, prevención, protección y asistencia.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 51.
 
-La Secretaría de Desarrollo Social establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes, para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas en beneficio de las niñas y niños en situación de calle.
+La Secretaría de Desarrollo Social, Cultura y Deporte establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes, para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas en beneficio de las niñas y niños en situación de calle.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría de Desarrollo Social y el Sistema DIF Tamaulipas impulsarán e implementarán medidas tendientes a prevenir y evitar que las niñas y niños realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+La Secretaría de Desarrollo Social, Cultura y Deporte y el Sistema DIF Tamaulipas impulsarán e implementará medidas tendientes a prevenir y evitar que las niñas y niños realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
 
 #### SECCION CUARTA. DE LAS NIÑAS Y NIÑOS TRABAJADORES EN CIRCUNSTANCIA DE DESVENTAJA SOCIAL
 
@@ -737,13 +767,17 @@ La Administración Pública impulsará proyectos de empleo y capacitación, en c
 
 #### SECCION QUINTA. DE LAS NIÑAS Y NIÑOS CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 55.
 
-La Secretaría de Desarrollo Social, la Secretaría de Salud y el Sistema DIF Tamaulipas propiciarán, con la participación de los organismos públicos e instituciones privadas y sociales, los programas dirigidos a la rehabilitación integral de las niñas y niños con discapacidad. Entre ellos se comprenderán los siguientes: Integración familiar, educativa y social, creación de talleres de capacitación para el trabajo, y recreación y participación en el deporte.
+La Secretaría de Desarrollo Social, Cultura y Deporte, la Secretaría de Salud y el Sistema DIF Tamaulipas propiciarán, con la participación de los organismos públicos e instituciones privadas y sociales, los programas dirigidos a la rehabilitación integral de las niñas y niños con discapacidad. Entre ellos se comprenderán los siguientes: Integración familiar, educativa y social, creación de talleres de capacitación para el trabajo, y recreación y participación en el deporte.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 56.
 
-El Sistema DIF Tamaulipas, en coordinación con la Secretaría de Desarrollo Social y las dependencias e instituciones especializadas, implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños discapacitados. Los servicios inherentes a estas medidas se proporcionarán gratuitamente cuando las condiciones económicas de los afectados así lo requieran.
+El Sistema DIF Tamaulipas, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte y las dependencias e instituciones especializadas, implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños discapacitados. Los servicios inherentes a estas medidas se proporcionarán gratuitamente cuando las condiciones económicas de los afectados así lo requieran.
 
 ## TITULO SEPTIMO. DE LAS INSTITUCIONES DEDICADAS A LA ATENCION DE NIÑAS Y NIÑOS
 
@@ -834,3 +868,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiún días del mes de mayo del año dos mil uno.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
