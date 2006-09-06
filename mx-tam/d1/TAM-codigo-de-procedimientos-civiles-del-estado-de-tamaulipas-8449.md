@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2003-06-03"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -519,9 +519,11 @@ Todos los términos judiciales señalados en este Código son improrrogables sal
 
 ### CAPITULO V. NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 63.
 
-Las notificaciones por medio de lista se considerarán hechas al día siguiente del en que sea fijada aquella, conforme a lo dispuesto por el artículo 65. Las personales el mismo día de la diligencia respectiva.
+Las notificaciones por medio de lista y de cédula se considerarán hechas al día siguiente del que sean fijadas aquéllas. Las personales el mismo día de la diligencia respectiva.
 
 ###### ARTICULO 64.
 
@@ -1641,7 +1643,7 @@ Toda recusación se interpondrá ante el magistrado o juez que conozca del negoc
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
-El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que daba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
+El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
 
 ###### ARTICULO 220.
 
@@ -3311,7 +3313,7 @@ I.- Si fuere absuelto el reo, cuando se pida contra el demandado;
 
 II.- Si fuere condenado el demandado, si éste la pidió contra el actor;
 
-III.- Si el arraigado nombra apoderado suficientemente instruído y
+III.- Si el arraigado nombra apoderado suficientemente instruído y expensado;
 
 IV.- Cuando se cumpla o ejecute la sentencia; y,
 
@@ -3671,7 +3673,7 @@ La ejecución sólo se suspenderá cuando el demandado presente certificado lega
 
 ###### ARTICULO 509.
 
-El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará el orden establecido en el artículo 678.
+El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará al orden establecido en el artículo 678.
 
 ###### ARTICULO 510.
 
@@ -3905,7 +3907,7 @@ Si el inquilino opone excepciones o el actor desconoce u objeta de falsos los re
 
 No verificándose la desocupación en los términos señalados en el artículo 546, el juez, dentro de los siguientes cinco días dictará sentencia. Si las constancias de autos apareciere que dentro de aquellos el inquilino no demostró estar o haberse puesto al corriente, se le condenará a la desocupación y pago de lo debido; contra esta resolución procede el recurso de apelación en el efecto devolutivo. En su caso, el lanzamiento se llevará adelante y se entenderá con el ejecutado o en su defecto con cualquiera persona de la familia, doméstico, portero, agente de la policía o vecino, pudiéndose romper las cerraduras de las puertas de la casa si fuere necesario. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del demandado que los recoja u otra autorizada para ello, se entregarán por inventario al depositario que nombre el juez por cuenta del inquilino, dejándose constancia de esta diligencia en las actuaciones.
 
-El lanzamiento se ejecutará, no sólo contra el arrendatario o sus causahabientes, sino contra sus administradores, encargados, porteros o guardas, puestos en la finca, así como contra cualquier otra persona que la disfrute o tenga en uso precario por trasmisión que le haya hecho el arrendatario.
+El lanzamiento se ejecutará, no sólo contra el arrendatario o sus causahabientes, sino contra sus administradores, encargados, porteros o guardas, puestos en la finca, así como contra cualquier otra persona que la disfrute o tenga en uso precario por transmisión que le haya hecho el arrendatario.
 
 ###### ARTICULO 551.
 
@@ -4239,11 +4241,11 @@ Recibida la demanda, si el juez lo estima necesario puede requerir informaciones
 
 El juez podrá asistirse de peritos o encomendar a éstos o al secretario o actuario que lleven a cabo comprobaciones especiales, y deberá de inmediato recibir las pruebas que legalmente le ofrezcan las partes para demostrar su dicho.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 603.
 
-El derecho de audiencia del demandado en un interdicto consistirá en correrle traslado de la demanda y sus anexos para que le conteste en un término de tres días y otorgarle un plazo improrrogable de diez días para rendir las pruebas necesarias a su defensa y alegar lo que a su derecho convenga.
+El derecho de audiencia del demandado en un interdicto consistirá en correrle traslado de la demanda y sus anexos para que la conteste en un término de tres días, y hecho lo anterior se otorgará un plazo común improrrogable de diez días para que las partes rindan las pruebas necesarias y aleguen lo que a su derecho convenga.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -4843,7 +4845,7 @@ Si el embargo o ejecución afectare bienes de la sociedad legal, deberá reducir
 
 ###### ARTICULO 673.
 
-La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución se sustanciarán en la forma prevista para las tercerías.
+La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución, se substanciarán en la forma prevista para las tercerías.
 
 ###### ARTICULO 674.
 
@@ -6379,7 +6381,7 @@ Para que sean aplicables las disposiciones de este Capítulo en la transmisión 
 
 ###### ARTICULO 829.
 
-La trasmisión hereditaria del patrimonio familiar se hará conforme a las siguientes reglas:
+La transmisión hereditaria del patrimonio familiar se hará conforme a las siguientes reglas:
 
 I.- Con la denuncia se acompañará la partida de defunción del autor de la herencia, los comprobantes de la constitución del patrimonio familiar y su registro, así como el testamento, si lo hubiere;
 
@@ -6421,7 +6423,7 @@ La tramitación ante notario se hará del conocimiento del representante del fis
 
 ###### ARTICULO 833.
 
-Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conforme con él todos los herederos, lo presentará al notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en las leyes fiscales.
+Ya se trate de testamentarias o de intestados, practicado el inventario por el albacea y estando conforme con él todos los herederos, lo presentará al notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en las leyes fiscales.
 
 Los interesados, de común acuerdo, podrán practicar un avalúo distinto para los efectos de la partición.
 
@@ -7065,9 +7067,13 @@ No serán apelables las resoluciones que se dicten en juicios cuyo conocimiento 
 
 El término para interponer el recurso de apelación será de:
 
-I.- Cinco días si se trata de sentencia;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Tres días para autos.
+I.- Nueve días si se trata de sentencia.
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Seis días para autos.
 
 No tendrá aplicación lo dispuesto en la fracción I, y en consecuencia el recurso podrá interponerse dentro de los sesenta días siguientes a aquél en que legalmente, conforme a las prescripciones de este Código, quedó notificada la sentencia, cuando el emplazamiento se hubiere hecho por medio de edictos y el juicio se hubiere seguido en rebeldía.
 
@@ -7081,23 +7087,31 @@ I.- Por escrito, o
 
 II.- Verbalmente en el acto de notificarse la resolución.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 932.
 
-Cuando la apelación proceda y sea interpuesta en tiempo, el juez la admitirá sin sustanciación alguna. En caso contrario, la desechará de plano. Si la parte inconforme insiste en la admisión del recurso, se admitirá provisionalmente en el efecto en que proceda contra la sentencia que en el juicio deba dictarse o se haya pronunciado, y cumplirá con los demás trámites señalados en este Capítulo, hecho lo cual remitirá lo conducente al Supremo Tribunal.
+Cuando la apelación proceda, sea interpuesta en tiempo y expresados los agravios, el juez la admitirá, concluido el término para tal efecto. En caso contrario, la desechará de plano. Si la parte inconforme insiste en la admisión del recurso, deberá garantizar el importe de la multa para el caso del artículo 938, hecho lo cual se admitirá provisionalmente en el efecto en que proceda contra la sentencia que en el juicio deba dictarse o se haya pronunciado, y cumplirá con los demás trámites señalados en este capítulo, hecho lo cual remitirá lo conducente al Supremo Tribunal.
 
-Mediante el auto de admisión, el juez hará saber a las partes que dentro de los diez días siguientes deberán comparecer ante el Supremo Tribunal de Justicia, el recurrente expresando agravios, y la contraparte defendiendo sus derechos; lo anterior, si el Superior reside en el lugar del juicio, pues en caso contrario aquél agregará los días correspondientes según lo dispuesto en el artículo 60. Asimismo la obligación que tienen de designar abogado y domicilio de éste en el lugar del Supremo Tribunal para oír notificaciones, con el apercibimiento de que mientras no cumplan con dicho requisito, aun las personales se les harán por cédula, como la previene el artículo 66. El auto a que se refiere este artículo se notificará personalmente a ambas partes.
+Mediante el auto de admisión, el juez expresará si lo admite en ambos efectos o en uno solo, dando vista a la contraria para que, dentro del mismo término otorgado para la interposición de la apelación, conteste lo que a su derecho convenga, designe abogado para la segunda instancia y señale domicilio para recibir notificaciones en la capital del Estado, con el apercibimiento de que mientras no cumpla con este último requisito, aún las personales se les harán por cédula, como lo previene el artículo 66. El auto a que se refiere este artículo se notificará personalmente a ambas partes.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 933.
 
-Si la designación se hace dentro del término a que se refiere el artículo anterior, la promoción se presentará por conducto de la Presidencia del Supremo Tribunal quien la turnará a la sala correspondiente.
+Las partes podrán acudir directamente ante el tribunal que conozca de la alzada a señalar domicilio y autorizar abogados, por primera ocasión o variando el originalmente indicado.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 934.
 
-El emplazamiento que el juez de primer grado haga a las partes, se considerará como primera notificación de la segunda instancia y tendrá la misma validez que si hubiese sido hecha personalmente por la sala a que toque conocer de la apelación, por cuyo motivo la radicación de los autos surtirá efectos en la tabla de avisos de aquélla, a menos que para entonces ya hubiese sido designado abogado para oír notificaciones, en cuyo caso a él se le hará personalmente.
+La notificación a que se refiere el artículo 932 se considerará como primera notificación de la segunda instancia y tendrá la misma validez que si hubiese sido hecha personalmente por la sala a que toque conocer de la apelación, por cuyo motivo la radicación de los autos surtirá efectos en la tabla de avisos de aquélla.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 935.
 
-La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro del día siguiente. En este caso, la adhesión se considerará como una apelación independiente, y el que la hizo valer queda obligado en los términos previstos por el artículo 932.
+La parte que venció puede adherirse a la apelación interpuesta, dentro de un término igual al concedido para promover el recurso, que empezará a correr a partir de la notificación de su admisión. En este caso, la adhesión se considerará como una apelación independiente, y el que la hizo valer queda obligado en todos sus términos.
 
 ###### ARTICULO 936.
 
@@ -7107,15 +7121,17 @@ La apelación procede en el efecto devolutivo o en ambos efectos. El juez expres
 
 La apelación en el efecto devolutivo no suspende la ejecución de la resolución impugnada. La procedente en ambos efectos paraliza de plano la ejecución, mientras el recurso no se decida, o el auto o sentencia quede firme.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 938.
 
-Si el recurrente considera que la apelación fue mal admitida, ocurrirá ante el Superior reclamando la calificación respectiva, debiendo hacerlo dentro del término para la expresión de agravios, el cual no se suspende, ya sea en el escrito que los contiene o por separado. La parte contraria también puede formular reclamación por el mismo motivo y dentro de igual término. Independientemente, el Superior, antes de la radicación de los autos, examinará de oficio los antecedentes de la admisión del recurso por el inferior y lo desechará de plano si encontrare que aquella debió declararse improcedente; o, si se está en el caso del artículo 932 impondrá al inconforme una multa hasta por el importe de treinta días de salario mínimo, si estudiadas las constancias aparece que la interposición del recurso efectivamente era improcedente..
+Si el recurrente considera que la apelación fue mal admitida, lo hará saber al Superior, por conducto del juez, reclamando la calificación respectiva, debiendo hacerlo dentro del término para la expresión de agravios, el cual no se suspende, ya sea en el escrito que los contiene o por separado. La parte contraria también puede formular reclamación por el mismo motivo, dentro del término para defender sus derechos o adherirse a la apelación. Independientemente, el superior examinará de oficio los antecedentes de la admisión del recurso por el inferior y lo desechará de plano si encontrare que aquélla debió declararse improcedente; o, si se está en el caso del artículo 932 impondrá al inconforme una multa por el importe de treinta días de salario mínimo, si estudiadas las constancias aparece que la interposición del recurso efectivamente era improcedente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 939.
 
-La admisión de apelaciones en el efecto devolutivo se sujetará a las siguientes reglas:
+La admisión de apelación en el efecto devolutivo se sujetará a las siguientes reglas:
 
 I.- Todas las apelaciones, cuando procedan, se admitirán en el efecto devolutivo, a menos que por mandato expreso de la ley deban admitirse en ambos;
 
@@ -7125,7 +7141,9 @@ II.- La apelación en el efecto devolutivo no suspende la ejecución de la resol
 
 III.- No obstante lo dispuesto en la fracción anterior, para ejecutar las resoluciones deberá otorgarse previamente caución para responder de los perjuicios que puedan ocasionarse a la contraria con motivo de la ejecución provisional. Esta podrá llevarse adelante sin necesidad de caución cuando se trate de sentencia sobre alimentos y en los demás casos en que la ley lo disponga. Si la caución es otorgada por el autor, su monto comprenderá la devolución de la cosa que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causasen al demandado, si el superior revoca la resolución. Si se otorgare por el demandado, su monto cubrirá el pago de lo juzgado y sentenciado, o el cumplimiento, si se está en el caso de hacer o no hacer. La calificación de la caución será hecha por el juez, quien se sujetará a las disposiciones de este Código. La liquidación de los daños y perjuicios se formulará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución forzosa;
 
-IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, se remitirá al superior copia de la resolución apelada, con razón de su notificación, y, además, testimonio de lo que señale el apelante, con las adiciones que haga la contraria, y las que el juez estime necesarias. El apelante deberá hacer el señalamiento de constancias en el escrito en que interponga el recurso o dentro del tercer día de su admisión. Transcurrido este término sin haberlo solicitado, se le denegará el testimonio, y se tendrá por firme la resolución apelada; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, se remitirá al superior copia de la resolución apelada, con razón de su notificación, y, además, testimonio de lo que señale el apelante, con las adiciones que haga la contraria y las que el juez estime necesarias. El apelante deberá hacer el señalamiento de constancias en el escrito en que haga valer el recurso o dentro del término concedido para su interposición. Si transcurrido éste no lo hizo, se le denegará el testimonio, y se tendrá por firme la resolución apelada;
 
 V.- Si se tratare de sentencia, se dejará en el juzgado testimonio de lo necesario para ejecutarla, en su caso, remitiéndose los autos originales al superior para la sustanciación del recurso.
 
@@ -7161,31 +7179,43 @@ Admitida la apelación en ambos efectos, se remitirán los autos originales al S
 
 Si se decretare resolución firme, revocatoria de la sentencia apelada, quedarán sin efecto las medidas provisionales de aseguramiento en lo afectado por aquélla.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 946.
 
-Dentro del término a que se refiere el artículo 932, la parte apelante tendrá obligación de ocurrir ante el Superior expresando por escrito los agravios que en su concepto le cause la resolución apelada, los que deberán citar en forma expresa las disposiciones legales infringidas. Igualmente corresponde tal obligación al apelante adherido. La promoción podrá dirigirse al Presidente del Supremo Tribunal, quien la turnará a la sala que conozca del negocio, o directamente a ésta.
+En el escrito de interposición del recurso o dentro de los términos a que se refiere el artículo 930, la parte apelante tendrá obligación de expresar por escrito los agravios que, en su concepto, le cause la resolución apelada, los que deberán citar, en forma expresa, las disposiciones legales infringidas. Igualmente corresponde tal obligación al apelante adherido, en el plazo que al efecto le concede el artículo 935. Previo al envío para la tramitación de la alzada, el juez deberá ordenar la certificación de los términos para la interposición de la apelación, adhesión y defensa de derechos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 947.
 
-Para sustanciar la apelación, tendrán aplicación las siguientes prevenciones:
+Para el trámite de la apelación, se tendrán en cuenta, además, las siguientes prevenciones:
 
 I.- Llegados al Supremo Tribunal los autos o el testimonio de constancias, se turnarán a la sala que corresponda;
 
-II.- Esta radicará los autos tan luego como expire el término que el juez de primer grado fijó a las partes para que ocurrieran ante el tribunal, según lo dispuesto por el artículo 932;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-En al radicación se decidirá sobre la admisión del recurso y la calificación de grado hecha por el inferior, resolviendo simultáneamente las reclamaciones que hubiere por apelación mal admitida. Declarada inadmisible la apelación, se devolverán los autos; modificada la calificación, se procederá en consecuencia. Si en primera instancia se hubiere rechazado el recurso y el juez lo hubiese posteriormente admitido por la insistencia de la parte inconforme, según lo previsto en el artículo 932, y si además apareciese que efectivamente debe desecharse, se impondrá al apelante la sanción prevista por el artículo 938.
+II.- Esta dictará el auto de radicación y ordenará su notificación, la que será personal sólo en el caso que se haya dejado de actuar por más de seis meses y se haya señalado domicilio para la segunda instancia;
 
-> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Con la copia del escrito de expresión de agravios se dará vista por el término de cinco días a la contraparte. El silencio de ésta, no implica conformidad con aquéllos;
+III.- Efectuado lo anterior, decidirá sobre la admisión del recurso y la calificación de grado hecha por el inferior, resolviendo simultáneamente las reclamaciones que hubiere por apelación mal admitida. Declarada inadmisible la apelación, se devolverán los autos; modificada la calificación, se procederá en consecuencia;
 
-IV.- Sólo en los escritos de expresión de agravios y contestación, las partes podrán ofrecer pruebas, las que en su oportunidad se mandarán recibir si procede su admisión;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-V.- En caso de que el apelante omitiere en el término de ley expresar los agravios, se tendrá por desierto el recurso, haciendo la declaración correspondiente el superior a petición de parte, o de oficio;
+IV.- Si en primera instancia se hubiere rechazado el recurso y el juez lo hubiese posteriormente admitido por la inasistencia de la parte inconforme, según lo previsto por el artículo 932, y si además apareciese que efectivamente debe desecharse, se estará a lo dispuesto por el artículo 938;
 
-VI.- Presentado el escrito de contestación, o transcurrido el plazo legal para hacerlo, el tribunal resolverá sobre la admisión de pruebas, abriendo el término respectivo, que no podrá exceder de diez días, los cuales serán comunes para ofrecer y recibir; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-VII.- Transcurrido el término para la contestación de los agravios, y en su caso el de prueba, se dictará sentencia dentro del término de diez días.
+V.- Sólo en los escritos de expresión de agravios y contestación, las partes podrán ofrecer pruebas, cuya admisión o no, se acordarán al calificar el recurso;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Si el tribunal resuelve admitir pruebas que ameriten desahogo, abrirá un periodo para tal efecto que no podrá exceder de diez días;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Transcurridos los términos legales, se dictará sentencia dentro de los diez días.
 
 ###### ARTICULO 948.
 
@@ -7372,3 +7402,19 @@ Las reformas a que se contrae el presente Decreto entrarán en vigor a los trein
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+DECRETO No. LIX-562
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+DECRETO No. LIX-565
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
