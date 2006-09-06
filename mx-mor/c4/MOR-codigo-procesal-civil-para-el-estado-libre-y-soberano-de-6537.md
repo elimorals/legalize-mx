@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2005-12-21"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -2205,55 +2205,43 @@ La liquidación se tramitará en la vía incidental, con un escrito de cada part
 
 ###### Artículo 285.
 
-Solicitud de separación de cónyuges. El que intente demandar por divorcio o nulidad de matrimonio, o denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juzgado correspondiente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 286.
 
-Requisitos de la solicitud de separación de personas. La petición de separación será escrita, en ella se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso. En los casos en que la urgencia lo amerite, el Juez deberá con toda premura decretar y hacer ejecutar la medida de depósito o de separación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 287.
 
-Práctica de diligencias necesarias para la separación de personas. El Juez podrá, si lo estima conveniente, ordenar la práctica de las diligencias que a su juicio sean necesarias antes de dictar su resolución. Si se pide la separación y depósito de la mujer casada, se hará señalando la casa de depositario, de persona de buenas costumbres y notoria honorabilidad.
-
-Si la casa que se destine para el depósito es la misma en que está establecido el domicilio conyugal, no se nombrará depositario, sino que bastará que se conmine al esposo para que se abstenga de concurrir a ella mientras la medida subsista, sin perjuicio de que se le permita retirar sus objetos personales.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 288.
 
-Resolución de la procedencia de la separación de personas. Presentada la solicitud, el Juez sin más trámite, salvo lo dispuesto en el artículo anterior, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso en particular.
-
-No obstante, el Juez podrá citar a las partes en cualquier tiempo, ya sea en forma conjunta o separada y variar las disposiciones decretadas bajo su responsabilidad y sin substanciación especial, cuando exista causa justa que lo amerite y lo juzgue oportuno, haciéndolo con marcada acuciosidad; respecto a entrega de ropa u otros objetos, subsistencia de la mujer y de los hijos u otras circunstancias planteadas.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 289.
 
-Prevención al cónyuge de no impedir la separación o causar molestias. En la misma resolución ordenará la notificación al otro cónyuge, previniéndolo que se abstenga de impedir la separación o causar molestias a su cónyuge o a sus bienes y si se tratare de la mujer dictará las precauciones si se encontrare encinta, bajo apercibimiento de procederse en su contra en los términos legales que el Juez considere convenientes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 290.
 
-Situación de los hijos menores durante la separación. El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el Código Civil y las propuestas, si las hubiere, de los cónyuges, que podrán de común acuerdo designar la persona que tendrá a su cargo la custodia de los hijos menores. En ausencia del convenio, el Juez dejará a la madre el cuidado de los hijos que no hayan cumplido siete años.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 291.
 
-Ausencia de formalidades en caso de inconformidad de un cónyuge. La inconformidad de alguno de los cónyuges sobre la resolución o disposiciones decretadas, se tramitará en los términos previstos en este Código.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 292.
 
-Plazo para demandar. En la resolución se señalará el plazo de que dispondrá el solicitante para presentar la demanda que será de diez días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del Juez, podrá concederse una sola vez una prórroga por la mitad del plazo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 293.
 
-Regreso del cónyuge al domicilio conyugal. Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las veinticuatro horas siguientes. El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 294.
 
-Depósito de incapaces. El depósito de menores o incapacitados se decretará:
-
-I. Como medida anterior a la inhabilitación si el incapacitado presenta datos de peligrosidad; y, tratándose de huérfanos o incapacitados en abandono, por muerte o ausencia de la persona a cuyo cargo estuvieren;
-
-II. Como medida previa o, en otros casos, posterior a la demanda sobre pérdida de la patria potestad, si se alegare la posibilidad de malos tratos, ejemplo pernicioso o se les obligue a cometer actos ilícitos; y,
-
-III. Al admitirse la demanda de divorcio o de nulidad de matrimonio.
-
-Para el depósito se seguirán las normas aplicables a cada caso. El juez oirá a los interesados y podrá decretar el depósito de los menores o incapacitados en establecimiento público de asistencia o en hogar de reconocida honorabilidad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -2549,31 +2537,23 @@ Conversión del secuestro. El embargo preventivo se convertirá en definitivo cu
 
 ###### Artículo 341.
 
-Urgencia para determinar y asegurar alimentos provisionales. En caso de urgente necesidad deberán decretarse alimentos provisionales hasta por el cincuenta por ciento del salario del deudor alimentista; para ello se tendrá en cuenta el número de acreedores que ejerciten su derecho.
-
-Cuando el deudor no perciba sueldo, los alimentos se cubrirán de sus demás bienes en la misma proporción.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 342.
 
-Requisitos para solicitar los alimentos. Para pedir que se decreten provisionalmente los alimentos, deberán acreditarse el título en cuya virtud se piden, la posibilidad de quien deba darlos y la urgencia de la medida.
-
-Cuando se soliciten por razón de parentesco, deberá acreditarse éste. Si se fundan en testamento, contrato o convenio, debe exhibirse el documento en que consten.
-
-Si se piden como medida provisional en un juicio de divorcio se señalarán y asegurarán los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 343.
 
-Fijación del monto de los alimentos. Rendida la justificación a que se refiere el artículo anterior, el Juez determinará la suma a que deben ascender los alimentos, mandando abonarlos por quincenas o semanas anticipadas.
-
-La providencia se ejecutará sin necesidad de otorgar caución.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 344.
 
-Recursos contra la sentencia sobre alimentos. La resolución que se dicte concediendo los alimentos, es apelable en efecto devolutivo; la que los niegue, en efecto suspensivo. El recurso, en cualquiera de los casos, sólo puede ser interpuesto por el acreedor alimentista y se sustanciará sin intervención del deudor.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 345.
 
-Oposición a la resolución sobre alimentos. En la providencia no se permitirá discusión sobre el derecho de percibir alimentos. Cualquier reclamación sobre el particular y su monto se sustanciará en juicio del orden familiar, pero entretanto se seguirá abonando la suma señalada.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO X. De las providencias sobre obra nueva y obra peligrosa
 
@@ -6233,1043 +6213,531 @@ V. Si una sentencia, resolución, o laudo juridisccional (sic) no pudiera tener 
 
 ###### Artículo 774.
 
-Orden público de los asuntos del orden familiar. Todas las cuestiones inherentes a la familia se considerarán de orden público e interés social, por constituir la base de la integración de la sociedad.
-
-En todos los asuntos de carácter familiar tendrá intervención el Ministerio Público y deberán tramitarse conforme a este Título, siendo aplicables supletoriamente las reglas generales del juicio ordinario civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 775.
 
-Facultades del Juez para intervenir oficiosamente en los asuntos del orden familiar. El Juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores e incapacitados y de alimentos y decretar las medidas que tiendan a preservarla y a proteger a sus miembros.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
-
-Cuando el juzgador, al radicar la causa, se percate de que los hechos de violencia intrafamiliar puedan ser constitutivos de una conducta tipificada como delito, deberá dar vista al Ministerio Público adscrito con una copia certificada de las constancias de autos, para que a su vez el representante social adscrito al juzgado, en uso de las facultades que le concede el artículo 114 del Código de Procedimientos Penales del Estado, formule ante el Agente del Ministerio Público Investigador la denuncia correspondiente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 776.
 
-Suplencia de la deficiencia de las pretensiones en materia familiar. El Juez dispondrá de las más amplias facultades para la determinación de la verdad material, aunque quedará vinculado a la apreciación de las pruebas, basado en las reglas de la lógica y la experiencia, así como a los mandatos constitucionales para que se cumplan las formalidades esenciales del procedimiento.
-
-En los asuntos del orden familiar los Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
-
-No se requieren formalidades especiales para acudir ante el Juzgado de lo Familiar cuando se solicite la declaración, preservación o constitución de un derecho, o se alegue la violación del mismo, o el desconocimiento de una obligación, cuando se trate de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre cónyuges sobre administración de bienes comunes, educación de los hijos, oposición de consortes, padres y tutores y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 777.
 
-Reglas generales aplicables a los asuntos de orden familiar. Para la resolución de los asuntos de lo familiar, regirán los siguientes principios:
-
-I. Las reglas sobre repartición de la carga de la prueba no tendrán aplicación;
-
-II. Para la investigación de la verdad, el Juez puede ordenar el desahogo de cualquier prueba, aunque no la ofrezcan las partes;
-
-III. El principio preclusivo, en cuanto signifique un obstáculo para el logro de la verdad material no tendrá aplicación;
-
-IV. La admisión de hechos y el allanamiento no vinculan al Juez; y
-
-V. El Juez podrá auxiliarse de trabajadores sociales o profesionales en otras disciplinas y de autoridades que presten sus servicios dentro de la Administración Pública.
-
-En los asuntos que trata este Título no habrá condenación en costas.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 778.
 
-Facultad del Juez de verificar la certeza de firmas de escritos esenciales. Los escritos en que se solicite el desistimiento de la demanda, de la instancia o de la pretensión procesal o se haga valer la confesión de los hechos de la demanda o el allanamiento sobre negocios del orden familiar, deberán ser ratificados ante la presencia judicial, sin cuyo requisito no se les dará trámite.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 779.
 
-Reglas especiales de procedimiento. Podrá acudirse ante el Juez de lo Familiar, por escrito o por comparecencia personal en casos urgentes, exponiendo de manera breve y concisa los hechos de que se trate, en la inteligencia de que el auto admisorio de la demanda inicial deberá ser dictado dentro de los tres días siguientes. Con las copias respectivas del acta que se levante con motivo de la comparecencia y de los documentos que en su caso se presenten, se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma, por escrito o verbalmente, dentro del plazo de cinco días. En tales comparecencias las partes deberán ofrecer las prueba (sic) respectivas. Al ordenarse el traslado, el Juez deberá señalar día y hora para la celebración de la audiencia de conciliación y depuración respectiva.
-
-Será optativo para las partes acudir asesoradas y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando de un lapso que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un plazo igual.
-
-En la audiencia, las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley. El Juez podrá cerciorarse personalmente o con el auxilio de trabajadores sociales, profesionistas o autoridades que especifica el numeral 777 fracción V de este ordenamiento, de la veracidad de los hechos, quienes presentarán el informe correspondiente y podrán ser interrogados por el Juez y por las partes. El Juez, podrá ordenar la recepción de una o más pruebas aunque no las ofrezcan las partes.
-
-El Juez y las partes, por conducto de éste, podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 780.
 
-Pensión alimenticia provisional. Tratándose de alimentos que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará, desde luego, a petición del acreedor alimentario, sin audiencia del obligado alimentista y mediante información testimonial que estime necesaria, o la acreditación por otros medios de prueba, una pensión alimenticia provisional que mandará abonar de inmediato por semanas, quincenas o mensualidades por adelantado, mientras se resuelve el juicio por alimentos en definitiva.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 781.
 
-Facultad conciliatoria del Juez de lo Familiar. En los asuntos de orden familiar en los que exista controversia, el Juez tendrá obligación de citar a las partes para que asistan personalmente a una audiencia de conciliación y depuración en la que sólo se tratará de resolver sus diferencias mediante convenio con el que pueda evitarse o terminar la controversia y poner fin al procedimiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 782.
 
-Reglas a que debe sujetarse la audiencia de conciliación. La audiencia a que se refiere el artículo anterior, se sujetará a las reglas siguientes:
-
-I. Antes de proceder a la conciliación el Juez deberá depurar el procedimiento aplicando las reglas de los artículos 371 a 373 de este Código;
-
-II. La audiencia se celebrará dentro de los cinco días siguientes a la fecha en que quede fijado el debate y como requisito previo para que se dé inicio al período de pruebas;
-
-III. La asistencia de las partes será obligatoria y personal, no por medio de apoderado. El Juez deberá hacer uso de los medios de apremio más eficaces para lograr la comparecencia de las partes;
-
-IV. En la audiencia, el Juez, sin prejuzgar sobre el fondo del negocio, que examinará con antelación, propondrá soluciones a las partes y les hará una exhortación para que procuren llegar a un arreglo conciliatorio;
-
-V. Si el Juez logra avenir a las partes, se celebrará un convenio, que aprobado por el propio funcionario judicial, producirá los efectos jurídicos inherentes a una sentencia ejecutoriada;
-
-VI. El convenio para ser aprobado, no deberá lesionar los derechos que conforme a la Ley son irrenunciables o contravenir normas de orden público; y,
-
-VII. Si el Juez no logra avenir a las partes, continuará con la siguiente etapa del procedimiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 783.
 
-Audiencia de pruebas y alegatos. La audiencia de pruebas y alegatos se llevará a cabo dentro de los veinte días siguientes, contados a partir del auto o resolución de admisión de pruebas.
-
-La audiencia se practicará con o sin asistencia de las partes; si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los cinco días siguientes. Las partes deberán presentar a sus testigos, y acudirán los peritos nombrados o manifestarán bajo protesta de decir verdad el no estar en aptitud de hacerlo; se impondrá al Actuario del Juzgado la obligación de citar a los testigos y peritos, para que concurran a la audiencia respectiva, en la que el segundo deberá rendir dictamen. Dicha citación se hará con apercibimiento, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de cincuenta veces el salario mínimo general en la región, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se decrete desierta la prueba. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen con la debida anticipación y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 784.
 
-Forma y ejecución de la sentencia. La sentencia se pronunciará de manera breve y concisa, debidamente fundada y motivada, en el mismo momento de la audiencia de ser así posible o dentro de los cinco días siguientes. En su decisión el Juzgador tomará en consideración, preferentemente, el interés de los menores e incapacitados que formen parte de la familia, y si no los hubiere, se atenderá al interés de ella; así como a los de los mayores que la formen.
-
-Las resoluciones sobre alimentos son apelables en el efecto devolutivo y se ejecutarán sin fianza.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 785.
 
-Impugnación de la sentencia. La sentencia que se dicte, será apelable en el efecto devolutivo, debiendo interponerse en la forma y plazos previstos en el Capítulo respectivo que reglamenta dicho recurso, pero si la parte recurrente careciere de abogado, el propio Juzgado solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto a efecto de hacer valer el recurso y los agravios correspondientes o cualquier derecho a nombre de la parte que asesore.
-
-Los autos no apelables y los proveídos pueden ser revocados por el Juez que los dicta.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 786.
 
-Recusación y defensa en asuntos del orden familiar. Ni la recusación de los funcionarios judiciales ni la interposición de defensas dilatorias impedirán que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos, menores e incapacitados. En dichos supuestos, hasta después de tomadas dichas medidas se dará el trámite correspondiente a la cuestión planteada.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 787.
 
-Incidentes en el orden familiar. Los incidentes se sustanciarán y decidirán con un escrito de cada parte y sin suspensión del procedimiento. Cuando se promuevan pruebas, deberá ofrecerse en los escritos respectivos, se fijarán los puntos sobre los que verse y se citará para audiencia indiferible, en que se reciban, se oirán brevemente las alegaciones y se pronunciará resolución dentro de los tres días siguientes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 788.
 
-Aplicación en lo no previsto las normas generales. En todo lo no previsto y en cuanto no se oponga a lo ordenado en este Capítulo, se aplicarán las reglas generales de este Código.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 789.
 
-Diversa vía para asuntos del orden familiar, según involucren controversias. Cuando las cuestiones del orden familiar no impliquen controversia entre partes antagónicas, serán aplicables las normas de los procedimientos no contenciosos, en cuanto no se opongan a los mandatos de este Título. Si surgiere algún litigio, el asunto se regirá y ventilará por lo establecido para la jurisdicción contenciosa.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO II. De las cuestiones matrimoniales
 
 ###### Artículo 790.
 
-Quebrantamiento de la promesa matrimonial. Los juicios que versen sobre incumplimiento de la promesa matrimonial, se regirán por las siguientes disposiciones:
-
-I. En la demanda sólo podrá exigirse el pago de los gastos que se hubieren hecho con motivo del proyectado matrimonio, la indemnización a título de reparación moral, o la devolución de lo que se hubiere donado con tal motivo, o simultáneamente varias de estas peticiones;
-
-II. Si la demanda contuviese peticiones diversas de las que se mencionan en la fracción anterior, se tendrán por no hechas;
-
-III. No se dará curso a la demanda si apareciere que alguno de los prometidos, al celebrar los esponsales, no tenía la edad a que se refiere el Código Civil, o siendo menor de edad, no obtuvo el consentimiento de sus representantes legales;
-
-IV. Se acompañará el documento que contenga la promesa, excepto en el caso de que se cause grave daño a la reputación del prometido inocente;
-
-V. Presentada la demanda, el Juez citará a las partes a una audiencia en la que procurará un arreglo amistoso; y,
-
-VI. Si no se lograse el arreglo a que se refiere la fracción anterior, el juicio se tramitará conforme a las normas de los juicios del orden familiar.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 791.
 
-Autorización judicial para el matrimonio de un menor. Cuando se solicite que el Juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación al Oficial del Registro Civil. Si fuere adversa, sin necesidad de apelación se remitirá el expediente al Tribunal Superior para que, oyendo a los interesados, confirme o revoque la determinación.
-
-La mujer menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. El Juez, después de recibir una información sobre el particular, oyendo a los padres y sin formalidades especiales, decidirá si decreta o no el depósito.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 792.
 
-Examen de impedimento para contraer nupcias. Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento, el Juez citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
-
-El juicio se hará constar en una sola acta cuando termine en un solo día. La resolución que recaiga será inapelable.
-
-En los casos en que el actor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o se celebrase el matrimonio en contravención a la prohibición legal, el Juez, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
-
-El tutor deberá otorgar caución en los términos que dispone el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 793.
 
-Reglas para zanjar diferencias entre cónyuges. Las diferencias que surjan entre marido y mujer se tramitarán conforme a las reglas siguientes:
-
-I. Sobre la obligación de los cónyuges de vivir juntos;
-
-II. Acerca de la obligación, monto y aseguramiento de los alimentos;
-
-III. Sobre educación y establecimiento de los hijos y administración de los bienes que a éstos pertenezcan; y
-
-IV. Administración de los bienes comunes, y demás asuntos relativos a acuestiones (sic) patrimoniales entre los consortes.
-
-Recibida la demanda, el Juez citará a los cónyuges a una audiencia en la que los oirá; en ella recibirá las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que se dicte será apelable en el efecto devolutivo y se ejecutará sin necesidad de caución.
-
-Si se pidiere la terminación de la sociedad conyugal en los casos previstos por el Código Civil, el Juez decretará las medidas provisionales que estime oportunas para la conservación de los bienes de la sociedad legal a petición del actor, inclusive las de limitar las facultades del cónyuge administrador, tramitándose el litigio de acuerdo con las reglas del Capítulo I de este Título.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 794.
 
-Petición de separación de cónyuges. El consorte que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, por padecer éste, cualquier enfermedad de tipo crónico e incurable que sea además contagiosa, o hereditaria, o mortal, o impotencia incurable para la cópula; o las alteraciones de la conducta en la práctica sexual que sobrevengan después de celebrado el matrimonio; o encontrarse afectado por enfermedad mental incurable, exhibirá con su demanda la justificación de que se está en algunos de esos casos o solicitará que se admitan las pruebas conducentes sobre los hechos. El Juez recibirá las pruebas, oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda. Asimismo se decretará, como medida provisional, y mientras se dicta sentencia, la separación de los cónyuges.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO III. De la nulidad de matrimonio
 
 ###### Artículo 795.
 
-Legitimación para demandar la nulidad del matrimonio. Sólo las personas a quienes el Código Civil concede este derecho podrán demandar la nulidad del matrimonio. El derecho para pedirla no es transmisible por herencia o por cualquier otra manera; pero los herederos podrán continuar la pretensión ya comenzada por el autor de la sucesión.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 796.
 
-Capacidad procesal de menores para pedir la nulidad del matrimonio. Los cónyuges, en los juicios de nulidad de matrimonio, tendrán capacidad procesal; cuando fueren menores de edad necesitarán de un tutor especial.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 797.
 
-Modalidad de procedimiento aplicable a los juicios que versen sobre nulidad de matrimonio. La nulidad de matrimonio se tramitará de acuerdo con las reglas del Capítulo I de los juicios del orden familiar, con las siguientes modalidades:
-
-I. Si la demanda fuere entablada por uno solo de los cónyuges, al admitirse o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las medidas siguientes:
-
-A. Separar a los cónyuges en todo caso. Para este efecto el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que está dedicado; deberá el marido informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá urgentemente oyendo a ambos cónyuges.
-
-Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que se dedica.
-
-El Juez proveerá lo necesario para asegurar el manejo del hogar en tanto se resuelve la situación definitiva.
-
-B. Prevenir a ambos consortes se abstengan de causarse molestias de obra o de palabra;
-
-C. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-D. Dictar las medidas conducentes para que los cónyuges no se puedan causar perjuicio en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
-
-E. Dictar, cuando así proceda, las medidas precautorias que la Ley establece respecto a la mujer que queda encinta; y
-
-F. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. Los hijos menores de siete años quedarán en poder de la madre salvo que se ponga en peligro su salud física o mental. El Juez, previo el procedimiento que fija este Código, resolverá lo conveniente.
-
-II. Aunque medie admisión de hechos el juicio se abrirá a prueba por el plazo de Ley;
-
-III. El cónyuge rebelde no será considerado presuncionalmente confeso;
-
-IV. Los cónyuges no podrán celebrar transacción ni cláusula compromisoria o compromiso en árbitros, acerca de la nulidad de matrimonio;
-
-V. La muerte de uno de los cónyuges pone fin al juicio, salvo el derecho de los herederos para continuar la pretensión cuando la Ley lo determine; y,
-
-VI. Si durante el juicio aparecen causas de nulidad que no fueron invocadas en la demanda, se estimarán de oficio en la sentencia.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 798.
 
-De las facultades de suplencia del Juez y de los puntos resolutivos de la sentencia de nulidad. Al resolver la nulidad de matrimonio la sentencia decidirá, además, los siguientes puntos aunque no hubieren sido planteados por las partes, por lo que desde la iniciación del procedimiento el Juez deberá recabar de oficio, datos de prueba que le sean útiles para decidir:
-
-I. Si el matrimonio nulo se celebró o no de buena fe respecto de ambos o sólo de uno de los cónyuges;
-
-II. Los efectos civiles del matrimonio;
-
-III. La situación y cuidado de los hijos a propuesta de los padres;
-
-IV. Forma en que deben dividirse los bienes comunes. Los productos repartibles se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales, si ambos cónyuges hubieren procedido de buena fe; cuando solo la buena fe proviniese de uno solo de los consortes, a él se aplicarán íntegramente los productos. En caso de que hubiera existido mala fe de ambos cónyuges, los productos se aplicarán a favor de los hijos, y si no los hubiere, se dividirán según lo determine el Juzgador prudencialmente; y
-
-V. Precauciones que deben adoptarse respecto de la mujer que quede encinta al declararse la nulidad, para que se notifique al que era el esposo y se disponga sobre una pensión alimenticia para la mujer y la descendencia por venir.
-
-Ejecutoriada la sentencia, el Tribunal de oficio, enviará copia cerficada (sic) al Oficial del Registro Civil ante quien se celebró el matrimonio para su anotación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 799.
 
-Posibilidad de modificación de custodia de los hijos. El Juez en todo tiempo podrá modificar la determinación sobre la custodia de los hijos, atento el cumplimiento de las obligaciones que les impone el desempeño de la patria potestad, previsto por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 800.
 
-Revisión de oficio de sentencias sobre nulidad de matrimonio. La sentencia recaída en los juicios de nulidad de matrimonio por la no dispensa del parentesco consanguíneo; por la existencia de matrimonio anterior o por falta de forma, será revisable de oficio y se abrirá la segunda instancia aunque las partes no apelen, ni expresen agravios. El Tribunal Superior examinará la legalidad de la resolución de primer grado, quedando entretanto sin ejecutarse ésta.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IV. Divorcio por mutuo consentimiento
 
 ###### Artículo 801.
 
-De la tramitación judicial de los asuntos de divorcio por mutuo consentimiento. El divorcio por mutuo consentimiento deberá ser declarado por un Juez de lo Familiar y procederá siempre y cuando exista manifestación expresa de la libre voluntad de los cónyuges de disolver el vínculo matrimonial y se llenen los requisitos que este Código señala y exige.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 802.
 
-Demanda de divorcio por mutuo consentimiento. La demanda de divorcio por mutuo consentimiento será formulada por escrito por ambos cónyuges, quienes deberán suscribirla con sus firmas completas y auténticas, y, además la huella digital pulgar derecha de cada uno.
-
-El consorte menor de edad necesita de tutor especial para solicitar el divorcio por mutuo consentimiento.
-
-El divorcio voluntario no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 803.
 
-Documentos que deben presentar los consortes que pretenden divorciarse. Cuando ambos consortes convengan en divorciarse, en los términos del Código Civil, deberán ocurrir al Tribunal competente a manifestar su voluntad, presentando el convenio que exige este artículo; así como copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores e incapacitados.
-
-El convenio referido contendrá los siguientes requisitos:
-
-I. Designación de la persona a quien se confiarán los hijos menores e incapacitados, del matrimonio, tanto durante el procedimiento, así como después de ejecutoriado el divorcio;
-
-II. El modo de subvenir a las necesidades de los hijos tanto durante el juicio, como con posterioridad a que quede firme la sentencia de divorcio;
-
-III. La casa que servirá de habitación a cada uno de los consortes durante el procedimiento;
-
-IV. La cantidad que a título de alimentos un cónyuge debe pagar al otro mientras dure el juicio, la forma de hacer el pago y la garantía que debe darse para asegurarlo; y
-
-V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la propuesta para dividirla y liquidarla, así como la designación de liquidadores, a este efecto se acompañará un inventario y avalúo de todos los bienes de la sociedad. La administración de los bienes en el curso del juicio lo resolverá el Juez desde luego; el divorcio y la liquidación de la sociedad conyugal se pronunciarán al proveerse la sentencia de fondo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 804.
 
-Medidas judiciales provisionales. Mientras se decrete el divorcio, el Juez autorizará la separación de los consortes de manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos y en su caso al cónyuge, y a los que exista la obligación de dar alimentos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 805.
 
-Junta de avenencia y determinación sobre alimentos. Hecha la solicitud citará el Tribunal a los cónyuges y al representante del Ministerio Público a una junta, en la que se identificarán plenamente ante el Juez, que se efectuará después de los ocho y antes de los quince días siguientes y si asistieren los interesados los exhortará para procurar su reconciliación. Si insistieren los cónyuges en su propósito de divorciarse, y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el Tribunal, oyendo el parecer del Ministerio Público sobre este punto, dictará sentencia dentro del plazo de tres días, por la que quedará disuelto el vínculo matrimonial y se decidirá sobre el convenio presentado.
-
-Los consortes deberán comparecer personalmente, o en su caso, acompañados del tutor especial sin que puedan hacerlo por representantes o mandatarios.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 806.
 
-Caducidad de la instancia en divorcio voluntario. El Tribunal declarará sin efecto la solicitud y mandará archivar el expediente:
-
-I. Si los cónyuges dejaren pasar más tres meses sin continuar el procedimiento;
-
-II. Si no asistieren uno o ambos cónyuges a las juntas de avenencia; y,
-
-III. Cuando los cónyuges se reconcilien como se prevé en el artículo siguiente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 807.
 
-Reunión voluntaria de los que solicitaron el divorcio por mutuo consentimiento. Los cónyuges que hayan pedido el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo, en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado y den aviso de su acuerdo al Juez que lo tramitaba, dentro de un plazo de cinco días, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 808.
 
-Prohibición a los cónyuges reconciliados de promover un nuevo divorcio. Los cónyuges no podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año de su reconciliación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 809.
 
-Intervención del Ministerio Público acerca del convenio de los cónyuges. El Ministerio Público podrá oponerse al divorcio por mutuo consentimiento:
-
-I. Porque la solicitud se haya formulado en contravención de lo ordenado por los numerales 801 y 803 de este Código;
-
-II. Por considerar que el convenio viola los derechos de los hijos o que no quedan bien garantizados.
-
-El Ministerio Público propondrá las modificaciones que estime procedentes y el Tribunal las hará saber a los cónyuges para que dentro de tres días manifiesten si las aceptan; en caso afirmativo, se promunciará (sic) sentencia declarando disuelto el matrimonio.
-
-En caso de que no las acepten, el Tribunal resolverá en la sentencia lo que proceda con arreglo a la Ley, cuidando de que en todo caso queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 810.
 
-Apelación de la sentencia que decreta el divorcio. La sentencia de fondo es apelable en el efecto devolutivo, pero no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimentaria. La que lo niegue es apelable en el efecto suspensivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 811.
 
-Facultades del Juez de lo Familiar para la ejecución del convenio. El Juez que decrete el divorcio es competente para hacer cumplir y ejecutar el convenio que se apruebe en la sentencia. La ejecución se llevará a cabo, de acuerdo con lo dispuesto para la ejecución forzosa.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 812.
 
-Copia de la sentencia ejecutoriada de divorcio al Registro Civil. Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó, para los efectos de lo mandado por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO V. Divorcio necesario
 
 ###### Artículo 813.
 
-Legitimación en el divorcio necesario. El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él. La pretensión de divorcio sólo podrá ejercitarse por los consortes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 814.
 
-Mandato especial en el divorcio necesario. Los cónyuges pueden hacerse representar por apoderados, pero el mandato deberá ser especial y expreso.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 815.
 
-Representación legal y voluntaria en los juicios de divorcio necesario. Los cónyuges menores de edad necesitan de un tutor o mandatario con poder especial y expreso para litigar en asuntos de divorcio. La demanda y la contestación en su caso, serán suscritas también por el tutor y por el menor, quien estampará su huella dígito pulgar derecha; ambos la ratificarán ante la presencia judicial.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 816.
 
-Intervención del Ministerio Público en los juicios de divorcio necesario. El Ministerio Público tendrá intervención en los juicios de divorcio necesario; pero la facultad para rendir pruebas quedará limitada a ofrecer sólo las que sirvan para el mantenimiento del vínculo. Cuando existan hijos menores de edad el representante social actuará en defensa de éstos, sin limitación alguna.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 817.
 
-Medidas de aseguramiento de carácter personal. Al admitir la demanda de divorcio, el Juez, de oficio, dictará provisionalmente y mientras dure el juicio, las medidas a que se refieren los artículos 203 del Código Civil y 341 de este Código. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el Juez datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto como se pida. La cuantía de la pensión puede ser modificada durante el juicio cuando cambien las circustancias (sic) o el Juez tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges.
-
-A petición del Ministerio Público; de los abuelos, tíos o hermanos mayores de los consortes, el Juez, en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas para los hijos menores.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 818.
 
-Reglas generales aplicables en la tramitación de los juicios de divorcio necesario. El divorcio necesario se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
-
-I. Cuando medie confesión o allanamiento, se requerirá de ratificación y en todo caso se abrirá el juicio a prueba;
-
-II. El demandado rebelde, se estimará que contesta negativamente la demanda;
-
-III. El Juez exigirá la identificación de las partes;
-
-IV. Los cónyuges no podrán celebrar transacción sobre la pretensión de divorcio;
-
-V. La muerte de uno de los cónyuges pone fin al juicio de divorcio, sin que puedan continuarlo los herederos;
-
-VI. Durante el juicio se admitirán pruebas sobre nuevas causas de divorcio o motivos de culpa, mismas que se estimarán en la sentencia. Terminado el juicio, las causales pasadas no podrán alegarse;
-
-VII. La contrademanda sobre nulidad del matrimonio o divorcio, será admisible;
-
-VIII. El divorcio únicamente podrá demandarse dentro de los seis meses siguientes al día en que hayan sido de su conocimiento los hechos en que se funde la demanda, con excepción de las causales de tracto sucesivo;
-
-IX. Ninguna de las causales de divorcio señaladas en el Código Civil puede alegarse para pedir divorcio cuando haya mediado perdón expreso o tácito;
-
-X. El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa legal para el divorcio;
-
-XI. La reconciliación de los cónyuges, producirá los efectos regulados por el artículo 807 de este Código;
-
-XII. El cónyuge que diera causa al divorcio perderá todo lo que se le hubiera dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho; y,
-
-XIII. Cuando por el divorcio se originen daños o perjuicios a los intereses del consorte inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 819.
 
-De la acumulación de pretensiones de nulidad de matrimonio y divorcio. Las pretensiones sobre nulidad de matrimonio y divorcio pueden acumularse. Si se declara la nulidad, la sentencia se abstendrá de resolver sobre el divorcio.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 820.
 
-Plazo especial de caducidad y otras causas de terminación de la instancia. En el divorcio necesario la instancia concluirá sin sentencia:
-
-I. Si hubiere inactividad total de las partes en el proceso por más de tres meses naturales;
-
-II. Si se demostrare la reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia ejecutoria; y,
-
-III. Porque el cónyuge que no haya dado causa al divorcio prescinda de sus derechos y obligue al otro cónyuge a reunirse con él. En estos casos no se admitirá nuevo divorcio por los mismos hechos que motivaron el juicio anterior.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 821.
 
-De las facultades de suplencia del Juez de lo Familiar. La sentencia, en los juicios de divorcio necesario, resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, disolución de la sociedad conyugal y división de los bienes comunes, alimentos de los cónyuges, cuidado y subsistencia de los hijos, aunque las partes no lo hayan pedido.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 822.
 
-Puntos resolutivos de la sentencia de divorcio sobre la situación de los hijos. La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
-
-I. En los casos comprendidos en las fracciones XI, XIII, XIV, XVI, XVII y XX del artículo 199 del Código Civil, el Juez previos los estudios que estime necesarios, decretará al cuidado de cual de los dos progenitores deberán quedar los hijos menores atendiendo al interés primordial de éstos. Ambos cónyuges conservarán el ejercicio de la patria potestad. En el caso de la fracción XIV, por la comisión del delito que afecte la integridad física y moral de los hijos, hipótesis en la que perdura la patria potestad al cónyuge que dio causa al divorcio, el Juez resolverá a su criterio de acuerdo con las circustancias (sic), la forma y términos del cuidado y custodia de los hijos menores;
-
-II. Cuando la causa del divorcio estuviere comprendida en las fracciones I, III, IV, V, VIII, X, XII y XV del artículo 199 del Código Civil, los hijos permanecerán al cuidado del cónyuge que no dio causa al divorcio, pero a la muerte de éste, el otro progenitor podrá recuperarla en los casos de la fracción I: si los dos cónyuges hubieren dado causa al divorcio, se les suspenderá en el ejercicio de la patria potestad; pero a la muerte de uno de ellos la recobrará el otro, salvo los casos a que se refieren las fracciones III, IV y V en que no podrán volver a ejercerla. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente o descendiente que determine el Juez, y si no hay quien lo ejerza se les nombrará tutor. En los casos de las fracciones VIII y XII el cónyuge privado del ejercicio de la patria potestad podrá recuperarla si a criterio del Juez conviniere a los menores, decidiendo respecto del cuidado y custodia de los mismos. Si la causa del divorcio estuviere comprendida dentro de las fracciones VII y XV, el cónyuge que hubiera sido privado del ejercicio de la patria potestad, podrá recuperarla si comprueba ante el Juez de lo Familiar encontrarse rehabilitado, previo el procedimiento respectivo;
-
-III. En el caso de la fracción II, el menor quedará al lado de la madre.
-
-Respecto de las fracciones VI y VII, permanecerá al lado del cónyuge sano.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 823.
 
-Medidas de ejecución de la sentencia de divorcio. Ejecutoriada la sentencia de divorcio se procederá a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los divorciados tendrán obligación de contribuir en proporción a sus bienes e ingresos a la satisfacción de las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta que lleguen a la mayoría de edad, salvo los casos en que subsista la incapacidad física o mental o por continuación de los estudios del acreedor alimentario.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 824.
 
-Registro de la sentencia ejecutoriada. Ejecutoriada la sentencia de divorcio, el Juez remitirá copia al Oficial del Registro Civil ante quién se celebró el matrimonio para que levante el acta correspondiente, anote en la partida de matrimonio la disolución del vínculo y para que publique un extracto de la resolución, durante quince días en las tablas destinadas al efecto.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 825.
 
-Impugnación de las sentencias. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaria.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VI. Juicios sobre paternidad, filiación y patria potestad
 
 ###### Artículo 826.
 
-Pretensiones relacionadas con la paternidad y filiación. Se tramitarán conforme a las reglas de este Capítulo, los juicios que tengan por objeto:
-
-I. El desconocimiento de la paternidad de hijos nacidos de matrimonio;
-
-II. La revocación de la admisión o del reconocimiento de hijos nacidos fuera de matrimonio;
-
-III. La comprobación de la posesión de estado y filiación de los hijos nacidos de matrimonio; y,
-
-IV. La investigación de la paternidad y maternidad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 827.
 
-Quiénes pueden ejercitar estas pretensiones. Pueden ejercitar las pretensiones de paternidad y filiación:
-
-I. El marido o su tutor, si fuere incapaz, en los casos de desconocimiento de la paternidad de hijos nacidos de matrimonio. Los herederos del marido sólo tendrán este derecho, cuando teniendo o no tutor el marido haya muerto sin recobrar la razón. En los demás casos sólo podrán continuar la pretensión comenzada por el marido;
-
-II. La revocación del reconocimiento sólo puede ser intentada por el padre que lo hizo siendo menor; los otros interesados, sus herederos, si el reconocimiento se hizo sin su consentimiento; y la madre, si la admisión, se realizó sin su voluntad;
-
-III. La pretensión sobre posesión de estado y filiación de hijos nacidos de matrimonio puede ser intentada por el hijo, por los acreedores de éste y sus legatarios y donatarios, en los casos autorizados por el Código Civil;
-
-IV. La pretensión sobre investigaciones de la paternidad y la maternidad, puede ser intentada por los hijos y sus descendientes, en los casos autorizados por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 828.
 
-Tiempo en que pueden ejercitarse las pretensiones de paternidad y filiación. Las pretensiones de que hablan los dos artículos anteriores, sólo podrán intentarse dentro de los plazos que para cada caso particular fija este Código.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 829.
 
-Paternidad del hijo nacido con posterioridad a la disolución del matrimonio. Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 830.
 
-Plazo para ejercitar la pretensión de contradecir que el nacido es hijo de matrimonio. En los casos previstos en la fracción I del artículo 826 de este ordenamiento, el marido deberá deducir su pretensión dentro de sesenta días contados desde el nacimiento, si estuviere presente; o desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 831.
 
-Plazo para contradecir la paternidad por herederos. Los herederos del marido, excepto el caso de que éste, teniendo o no tutor, haya muerto sin recuperar la razón, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya presentado la demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación en el plazo hábil, los herederos tendrán para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos sean turbados por el hijo en la posesión de la herencia.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 832.
 
-Intervención del Ministerio Público. El Ministerio Público intervendrá en los juicios sobre paternidad y filiación, con la limitación de que en los que tengan por objeto el desconocimiento de la paternidad de hijos nacidos de matrimonio, sólo pueden rendir pruebas que tiendan a demostrar que la filiación es legítima.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 833.
 
-Representación voluntaria especial necesaria para intervenir. Si el juicio se entablare por medio de apoderado, no será admitida la legitimación del representante si no tiene poder especial o que contenga cláusula expresa autorizándolo para ejercitar la pretensión y tramitar el juicio.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 834.
 
-Reglas generales de tramitación de los juicios sobre paternidad y filiación. Los asuntos sobre paternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio.
-
-El juicio contradictorio se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
-
-I. Los juicios de paternidad y filiación no serán acumulables con ningún otro juicio, aunque exista conexidad, ni se admitirá en los mismos contrademanda o reconvención;
-
-II. En los casos de rebeldía se tendrá por contestada la demanda en sentido negativo;
-
-III. El Juez no quedará vinculado por el allanamiento a la demanda, si éste no es ratificado por la parte demandada, debiendo abrirse el juicio a prueba, en todo caso, por el plazo de Ley;
-
-IV. El Tribunal podrá tener en cuenta hechos no alegados por las partes, y ordenar de oficio la práctica de pruebas;
-
-V. Si el actor que intente la demanda deja de promover por más de seis meses en el juicio, la sentencia que se dicte se limitará a tenerlo por desistido de la pretensión;
-
-VI. Si una de las partes fallece, el juicio se dará por concluído excepto en los casos en que la Ley conceda a los herederos expresamente la facultad de continuarla;
-
-VII. El Juez podrá admitir pruebas y alegaciones de las partes, aunque se presenten fuera de plazo;
-
-VIII. La sentencia producirá efectos de cosa juzgada aún en contra de los terceros que no litigaren, excepto respecto de aquéllos que no habiendo sido citados al juicio, pretendan para sí la existencia de la relación paterna filial; y,
-
-IX. El Tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas cautelares que juzgue adecuadas para que no se cause perjuicio a los hijos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 835.
 
-Sentencias revisables de oficio. Las sentencias recaídas en el juicio sobre paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia aunque las partes no apelen ni expresen agravios, el Tribunal examinará la legalidad de la sentencia de primera instancia quedando entre tanto sin ejecutarse ésta.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 836.
 
-Pérdida de la patria potestad. Cuando la pérdida de la patria potestad no se derive de sentencia dictada en juicio penal o civil que condene expresamente a la pérdida de ese derecho, sólo podrá decretarse mediante sentencia declarativa que se dicte en juicio contradictorio. El juicio contradictorio se tramitará en la vía ordinaria, con intervención del Ministerio Público, en el que tendrán aplicación, en lo conducente, las reglas establecidas para los juicios de paternidad y filiación. La sentencia que se dicte es apelable en el efecto suspensivo.
-
-En cuaquier (sic) estado del juicio, el Juez podrá ordenar que la custodia del hijo quede al cuidado de uno de los padres o de tercera persona de reconocida honorabilidad y podrá además de oficio o a petición de parte acordar las medidas cautelares que juzgue adecuadas.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 837.
 
-Suspensión de la patria potestad. Los asuntos que versen sobre suspensión de la patria potestad y calificación de excusas cuando no hayan sido objeto de declaración judicial, se tramitarán y decidirán en una audiencia en la que se oiga a las partes y se reciban las pruebas que se presenten.
-
-La resolución que se dicte no es apelable.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VII. De la adopción
 
 ###### Artículo 838.
 
-Requisitos para pretender la adopción. Para que se autorice la adopción, el que pretenda adoptar a alguna persona, deberá acreditar que:
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-I. Es mayor de veintiocho años de edad y menor de cincuenta y ocho años de edad, y que es mayor, por lo menos, diecisiete años que la persona que trata de adoptar;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-II. El adoptante no es casado; o si los adoptantes están unidos en matrimonio , y han suscrito un acuerdo de considerar y tratar al adoptado como hijo suyo;
-
-III. (DEROGADA, P.O. 15 DE JUNIO DE 2005)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2005)</small>
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 839.
 
-REQUISITOS DE PROCEDENCIA DE LA ADOPCIÓN.- El que pretenda adoptar, deberá acreditar los requisitos señalados por el Código Civil, debiéndose observar, además, lo siguiente:
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-I. En la promoción inicial manifestar el nombre y edad del menor o incapacitado a quien se va a adoptar, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o tutela, si es que los hubiera, o en su caso de las personas o institución pública que lo haya acogido. La promoción debe, además, de acompañarse de los estudios socioeconómicos, psicológicos, médicos, tanto de los futuros adoptantes como del futuro adoptado realizados por la procuraduría de la Defensa del Menor y la Familia;
-
-II. (DEROGADA, P.O. 15 DE JUNIO DE 2005)
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-III. Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el adoptante o la institución según sea el caso, recabarán ante la Procuraduría de la Defensa del Menor y la Familia del Sistema para el Desarrollo Integral de la Familia en Morelos constancia del tiempo de la exposición o abandono para los efectos que establece el Código Civil;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-IV. Si hubieren transcurrido menos de tres meses del abandono, se decretará el depósito de quien se pretenda adoptar a favor del presunto adoptante, entretanto se consuma dicho plazo;
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-V. Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, siempre y cuando ello fuere aconsejable a criterio del Juez;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-VI. En el supuesto en que el menor haya sido entregado a alguna institución pública por quienes ejerzan la patria potestad, para promover su adopción, no se requerirá que transcurra el plazo de seis meses; y
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2005)</small>
-
-VII. En el caso de adopción internacional, el adoptante deberá acreditar su legal estancia en el país con la finalidad de realizar una adopción, y cumplir con lo que dispone el Código Civil en esta materia, así como lo dispuesto en la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional. La documentación que presenten los solicitantes en idioma distinto al español, incluirá la traducción oficial, y estar apostillada o legalizada por la Secretaría de Relaciones Exteriores.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 840.
 
-Personas cuyo consentimiento es necesario para la adopción. Para que la adopción tenga lugar deberán consentir en ella, en los casos respectivos:
-
-I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II. El tutor del que se va adoptar;
-
-III. Las personas que han acogido al que se pretende adoptar y lo traten como a hijo suyo, cuando no hubiere quién ejerza la patria potestad sobre él, ni tenga tutor; y,
-
-IV. El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparte su protección y lo haya acogido como hijo.
-
-Si el menor que se va a adoptar tuviere más de doce años, también se requerirá su consentimiento para la adopción.
-
-Cuando el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
-
-El Ministerio Público intervendrá y será oído en toda la secuela de la adopción y de su posible revocación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 841.
 
-De la resolución. Rendidas las justificaciones y obtenido el consentimiento de las personas que deban darlo conforme al artículo anterior, el Juez de lo Familiar resolverá dentro del tercer día lo que proceda sobre la adopción.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 842.
 
-Cuándo puede revocarse la adopción. La adopción puede ser revocada:
-
-I. Si el adoptado fuere mayor de edad y los adoptantes convienen en ello. En caso de que fuere menor se requerirá que las personas que prestaron su consentimiento, en concordancia de lo preceptuado por el artículo 840 de este Código, también manifiesten por escrito su anuencia para la revocación; y,
-
-II. Por ingratitud del adoptado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 843.
 
-Qué se entiende por ingratitud del adoptado. Para los efectos de la fracción II del numeral anterior, se considera ingrato al adoptado:
-
-I. Si comete algún delito que merezca pena mayor de un año de prisión o de internamiento contra la persona; la honra o los bienes del adoptante, de su cónyuge, sus ascendientes; o, de sus descendientes nacidos con posterioridad a la adopción;
-
-II. Cuando el adoptado acusa judicialmente al adoptante de algún delito, que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiera sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes; y,
-
-III. En caso de que el adoptado rehusare dar alimentos al adoptante que hubiere caído en pobreza.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 844.
 
-Revocación de la adopción. Cuando el adoptante o el adoptado pidan que la adopción sea revocada, el Juez de lo Familiar los citará a una audiencia verbal para dentro de los tres días siguientes, en la que decretará que la adopción quede revocada si, convencido de la espontaneidad con que se solicitó, encuentra que la revocación es conveniente para los intereses morales y materiales del adoptado.
-
-En el caso de evidenciarse la ingratitud del adoptante, aunque la resolución judicial que declare la revocación sea posterior, la adopción deja de producir efectos desde que se comete el acto de ingratitud.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 845.
 
-Medios de convicción para la revocación. Para acreditar cualquier hecho relativo a la conveniencia de la revocación de la adopción pueden rendirse toda clase de pruebas legales. Con particular esmero, el Juez de lo Familiar cuidará de los casos en que se denuncie o se tenga la sospecha fundada de que el adoptante cometiere actos de explotación o intente abusos inmorales contra la persona o bienes del adoptado, o bien de éste en contra del adoptante.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 846.
 
-Efectos de la revocación. La resolución pronunciada por el Juez dejará sin efecto la adopción y, en lo posible, restituirá los casos al estado que guardaban antes de realizarse ésta.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 847.
 
-Comunicación judicial de la revocación de la adopción. Las resoluciones que dicten los Jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 848.
 
-Impugnación de la adopción. Las resoluciones acerca de la adopción o de la revocación son apelables en efecto devolutivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VIII. De la rectificación de actas del estado civil
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ###### Artículo 849.
 
-La rectificación de un acta del estado civil sólo procede mediante sentencia judicial. La rectificación de las actas del estado civil no pueden hacerse sino mediante sentencia que dicte el Juez competente, salvo el reconocimiento y admisión que voluntariamente haga el padre o la madre a su hijo, en los casos autorizados por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 850.
 
-Cuándo se puede pedir la rectificación o la modificación de actas. Habrá lugar a pedir la rectificación de actas del estado civil por falsedad; por modificación, cuando se alega que el acta registrada no pasó; por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 851.
 
-Aclaración, complementación o ampliación de las actas del estado civil. La aclaración, complementación o ampliación de las actas del estado civil, derivadas de errores mecanográficos, ortográficos o cualesquiera que no varíen el contenido, ni los datos esenciales de los documentos originales deberá solicitarse ante las Oficialías del Registro Civil correspondientes a cada municipio o ante el Director del Registro Civil del Estado de Morelos.
-
-El oficial del Registro Civil que reciba la solicitud de aclaración, complementación o ampliación, deberá remitirla a la Dirección del Registro Civil del Estado, en un término no mayor de tres días hábiles, contados a partir de su recepción.
-
-En los trámites de aclaración, complementación o ampliación de actas del Registro Civil, se admitirá mandato otorgado y ratificado ante Notario Público.
-
-La solicitud de aclaración, complementación o ampliación del acta se solicitará por escrito dirigido al titular de la oficialía del registro civil municipal correspondiente o a la Dirección del Registro Civil del Estado de Morelos;
-
-La solicitud contendrá:
-
-1).- Nombre y domicilio del interesado;
-
-2).- Los datos del acta que se pretende aclarar, complementar o ampliar;
-
-3).- La parte del acta que contenga el error;
-
-4).- La forma como puede corregirse el error señalada (sic) por el solicitante;
-
-5).- La relación de las pruebas que ofrecerá el solicitante; y
-
-6).- Los motivos y fundamentos de la solicitud; y
-
-7).- Fecha y firma o huella digital en su caso del interesado.
-
-Si el escrito no fuere claro, no se acompañaren las pruebas o no existiere relación entre lo que manifiesta el promovente y lo que obra en el acta, se prevendrá de manera verbal por una sola ocasión al interesado, para que lo aclare o corrija, en la inteligencia de que de no hacerlo se desechará la solicitud.
-
-Recibida la solicitud el Director del Registro Civil del Estado de Morelos, examinará los documento (sic) y pruebas y si lo considera procedente ordenará las correcciones, en un término de diez días hábiles, contados a partir de la recepción de la solicitud; enviando copia al Oficial del Registro Civil correspondiente y al encargado del archivo estatal del Registro Civil para su debida inscripción.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 852.
 
-Quiénes pueden solicitar la rectificación o modificación de actas. Pueden pedir la rectificación o modificación de una acta del estado civil:
-
-I. Las personas de cuyo estado se trate o sus legítimos representantes;
-
-II. Las que se mencionan en el acta como relacionadas con el estado civil de la persona, cuya acta se pretende rectificar, pero únicamente por lo que respecta a los datos del propio promovente; y,
-
-III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 853.
 
-Trámite de la rectificación. El juicio sobre rectificación se tramitará en la vía sumaria con intervención del Ministerio Público, aplicando en lo conducente las reglas establecidas en los juicios sobre paternidad y filiación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 854.
 
-Sentencia sobre rectificación o modificación de actas del estado civil. El juicio concluirá con el dictado de la sentencia que será apelable en efecto suspensivo.
-
-Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IX. De la interdicción
 
 ###### Artículo 855.
 
-Requisitos de procedencia para la declaración de incapacidad o interdicción. La demanda que se presente con objeto de obtener la declaración de incapacidad o interdicción del que padece alguna de las causas que establece la fracción II del artículo 63 del Código Civil, deberá contener los siguientes datos:
-
-I. Nombre, edad, domicilio, estado civil y actual residencia del denunciado;
-
-II. Nombre, apellido y residencia del cónyuge o parientes dentro del cuarto grado, y nombre del tutor o curador que tuviere la persona cuya interdicción se solicita;
-
-III. Los hechos que dan motivo a la demanda;
-
-IV. Diagnóstico y pronóstico de la enfermedad formulado por el facultativo que lo asiste, acompañado del certificado o certificados relativos;
-
-V. Especificación de los bienes conocidos como propiedad del incapaz y que deben ser sometidos a la vigilancia judicial; y,
-
-VI. Especificación del parentesco o vínculo que une al denunciante con el denunciado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 856.
 
-Providencias que debe dictar el Juez de lo Familiar. Recibida la demanda, el Juez dispondrá lo siguiente:
-
-I. Que se notifique al Ministerio Público;
-
-II. Nombrar al incapacitado un tutor interino. Para hacer la designación se preferirá al padre, cónyuge, madre, abuelos o hermanos del incapacitado y si no los hubiere se nombrará persona de reconocida honarabilidad (sic), que además no tenga relación de amistad, animadversión, o comunidad de intereses con el denunciante;
-
-III. Dispondrá que dos peritos médicos, preferentemente alienistas o especialistas, según el caso, examinen al incapacitado, y emitan opinión acerca del fundamento de la solicitud. El tutor puede nombrar un médico para que tome parte en el examen y se oiga su dictamen. Puede el Juez, además, requerirles opinión preliminar a los médicos;
-
-IV. Ordenará que se cite al cónyuge y a los parientes cuyos informes se consideren útiles; y,
-
-V. Que se practique el examen en presencia del Juez, del Ministerio Público y de las personas citadas conforme a las (sic) fracción anterior así como del demandante. El Juez interrogará, si es posible a la persona cuya interdicción se pide, y escuchará la opinión de los médicos y demás personas citadas, formulándole las preguntas que considere oportunas, podrá ordenar de oficio las medidas de instrucción útiles a los fines del juicio.
-
-Previamente al examen a que se refiere la fracción III, el promovente consignará a disposición del Juzgado que conoce del negocio, los honorarios que los peritos psiquiatras y médicos especialistas fijen por escrito, lo que se comunicará al interesado para que dentro del plazo de tres días manifieste si está o no de acuerdo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 857.
 
-Falta de designación del tutor interino al pretendido incapaz. Si por algún motivo el Juez no diese cumplimiento oportuno a lo establecido en la fracción II del artículo anterior, la persona respecto de quien se pida la declaración de interdicción si sus condiciones se lo permiten, y él accede a hacerlo puede comparecer y efectuar por sí los actos procesales. En caso contrario de inmediato se le designará un defensor de oficio. Sin embargo, tan luego como el Juez subsane la omisión, será el tutor quien intervenga.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 858.
 
-Forma y contenido del dictamen médico. Además del examen en presencia del Juez, los médicos podrán practicar los exámenes adicionales que juzguen necesarios. En su informe establecerán con la mayor precisión las siguientes circunstancias:
-
-I. Diagnóstico de la enfermedad;
-
-II. Pronóstico de la misma;
-
-III. Manifestaciones características del estado actual del incapacitado; y,
-
-IV. Tratamiento conveniente para asegurar la condición futura del incapaz.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 859.
 
-Medidas de protección personal al incapaz. Recibido el informe, o antes si fuere necesario, el Juez tomará todas las medidas de protección personal del incapaz que considere convenientes para asegurar la mejor condición de éste.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 860.
 
-Resolución sobre la incapacidad y sus consecuencias. Cumplidos los trámites que se establecen en los artículos precedentes, y si el Juez tuviere la convicción del estado de incapacidad, la declarará así y proveerá a la tutela del incapacitado, así como a la patria potestad o tutela definitiva. Asimismo, designará curador que vigile los actos del tutor en el cuidado de la persona del incapaz y en la administración de los bienes de éste. Si no adquiere convicción de ese estado, podrá sobreseer los procedimientos o mantener por un plazo razonable el régimen de protección de administración establecido en el expediente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 861.
 
-No hay cosa juzgada acerca de las medidas adoptadas. Las declaraciones que el Juez hiciere en esta materia, así como las medidas dispuestas, no pasarán por autoridad de cosa juzgada, pudiendo ser revisadas en cualquier tiempo en que varíen las circustancias (sic). Cada año se hará un nuevo examen del declarado en estado de interdicción y el tutor que no promueva este examen será separado de su cargo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 862.
 
-Procedencia de la declaración de interdicción del sordomudo. La interdicción del sordomudo sólo se declarará en el caso de que la enfermedad haya impedido el desarrollo de sus facultades mentales. Si por educación especial, el sordomudo ha aprendido a leer y escribir, no se hará declaración de incapacidad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 863.
 
-Impugnación de la resolución. La sentencia que resuelve la solicitud de interdicción puede ser impugnada en apelación en efecto suspensivo, por todos los parientes consanguíneos dentro del cuarto grado, aunque no hayan intervenido en el juicio, y por el tutor o curador designados en la sentencia de fondo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 864.
 
-Revocación de la interdicción y su tramitación. La interdicción se revocará cuando cese la causa que la motivó. Para dictar la revocación se seguirán las disposiciones establecidas para el pronunciamiento de la interdicción.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 865.
 
-Sanciones aplicables en caso del ejercicio doloso de la pretensión. El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la Ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de cien días de salario mínimo general, que se destinará al fondo de administración de justicia.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 866.
 
-Condena de gastos y costas. Los gastos y costas procesales que deriven del juicio serán pagados con cargo al patrimonio del denunciado.
-
-Cuando el Juez considere que la demanda se hubiere formulado sin motivo o con propósitos dolosos, condenará en gastos y costas al denunciante.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO X. De los tutores, curadores y discernimiento de estos cargos
 
 ###### Artículo 867.
 
-Procedencia de nombramiento de tutores y curadores. Procederá el nombramiento de tutores y curadores y se conferirá la tutela con intervención de la autoridad judicial respecto de las personas que se encuentren en estado de minoridad o respecto de las que sean declaradas en estado de interdicción, conforme a las reglas del Capítulo anterior.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 868.
 
-Quienes pueden solicitar la designación. Puede pedir que se confiera la tutela y se haga el nombramiento de tutores y curadores:
-
-I. El mismo menor, si ha cumplido catorce años;
-
-II. El cónyuge del incapacitado;
-
-III. Los presuntos herederos legítimos;
-
-IV. El albacea;
-
-V. El tutor interino;
-
-VI. El Ministerio Público; y
-
-VII. El Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 869.
 
-Documentos que deben acompañarse a la demanda. La solicitud deberá acompañarse de los documentos que justifiquen el estado de minoridad o la declaración de interdicción. El estado de minoridad se justifica con el acta de nacimiento del menor, y si no la hubiere, se podrán exhibir otros documentos, y a falta de ellos, se comprobará por el aspecto del menor mediante pericial médica. Cuando no exista acta de nacimiento que compruebe la minoridad, se requerirá que la autoridad judicial haga previamente la declaración de dicho estado.
-
-El estado de interdicción se comprobará con la resolución que declare la incapacidad, pudiendo promoverse el nombramiento de tutor definitivo, como continuación del juicio en que se declaró.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 870.
 
-Nombramiento de tutor o curador y sus efectos. Comprobada la minoridad o incapacidad se procederá a hacer el nombramiento de tutor y curador, de acuerdo con las reglas del Código Civil. Al efecto el Tribunal Superior de Justicia cada año elaborará la lista de las personas que pueden asumir tal responsabilidad.
-
-Hecho el nombramiento, se notificará al tutor y al curador para que manifiesten dentro de cinco días si aceptan o no el cargo que es de interés público del que nadie puede eximirse, sino por causa legítima. Dentro de este plazo aceptarán sus cargos o expondrán su impedimento o excusa, sin perjuicio de que si durante el desempeño de la tutela ocurrieren causas posteriores de impedimento o legales de excusa, las hicieren valer. La aceptación de la tutela o el transcurso de los plazos en su caso, importarán la renuncia de la excusa.
-
-Tanto los tutores como los curadores aceptarán los cargos y protestarán su leal desempeño ante el Juez de lo Familiar que los nombró sin cuyo requisito no podrán ejercer la representación del incapacitado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 871.
 
-Obligación del tutor de otorgar garantía. Todo tutor, cualquiera que sea su clase, y dentro de los diez días que sigan a la aceptación, debe prestar las garantías de hipoteca, prenda o fianza, para que se le discierna el cargo a no ser que se encuentre en los siguientes casos:
-
-I. Los tutores testamentarios cuando expresamente los haya relevado de esta obligación el testador, salvo si con posterioridad haya sobrevenido causa ignorada por el testador, que a juicio del Juez y oyendo al curador, haga necesaria la caución;
-
-II. El tutor que no administre bienes;
-
-III. El padre, la madre y los abuelos del menor o incapacitado, en los casos en que conforme a la Ley son llamados a desempeñar la tutela de sus descendientes, salvo que el Juez con audiencia del curador y del Consejo de Tutelas, lo crea inconveniente;
-
-IV. Los que acojan a un expósito, lo alimenten y eduquen de manera eficiente y apropiada por más de cinco años, a no ser que hubieren recibido pensión para cuidar de él.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 872.
 
-Oposición al discernimiento de los cargos. Pueden oponerse al discernimiento de los cargos de tutor y curador, el menor, si hubiere cumplido catorce años de edad, el que haya formulado la petición, si tiene legitimación para hacerlo, y el Ministerio Público. Si se trata de tutor especial, quien ejerza la patria potestad.
-
-La oposición deberá fundarse en que el tutor o curador nombrados no reúnen los requisitos que la Ley exige para desempeñar estos cargos, o tienen impedimiento (sic) legal. El menor podrá también oponerse al nombramiento de tutor testamentario, cuando la persona que lo haya instituído heredero o legatario no sea su ascendiente, siempre que haya cumplido catorce años de edad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 873.
 
-Registro de tutelas. Bajo la responsabilidad de los Jueces de lo Familiar se llevará un registro de tutelas y curatelas que estará a disposición del Tribunal Superior de Justicia. En este registro se pondrá testimonio simple de todos los discernimientos que se hicieren de cargo de tutor o curador.
-
-De todas las determinaciones que pronuncien los Jueces en los juicios en que intervengan los tutores y los curadores, deberán conservar copias en sus juzgados con objeto de integrar un registro especial, además del de discernimiento de los cargos a que se refiere el párrafo anterior.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 874.
 
-Revisión del registro y medidas que se adoptan. Dentro de los ocho primeros días de cada año, en audiencia pública con citación del Ministerio Público y del Consejo de Tutelas, se procederá a examinar el registro a que se refiere el artículo anterior, y el Juez dictará las siguientes medidas:
-
-I. Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la Ley;
-
-II. Si hubiere alguna cantidad de dinero que resultare sobrante después de cubiertas las cargas y atenciones de la tutela o dinero que proceda de las redenciones de capitales o que se adquiera de cualquier otro modo lícito, se ordenará que si excede de cien veces el salario mínimo general diario vigente en el Estado, se imponga por el tutor en hipoteca calificada bajo su responsabilidad en el plazo de un mes o se ampliará este plazo por tres meses si hubiere algún inconveniente grave para hacer la imposición. También podrá autorizarse la inversión en cédulas, bonos u otros valores que ofrezcan seguridad, a juicio del Juez;
-
-III. Exigirá que los tutores rindan cuenta detallada de su administración en el mes de enero, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor;
-
-IV. Obligará a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o producto del caudal de los menores o incapacitados, después de cubiertas las sumas por los gastos de alimentación y educación del menor y de sueldos de los dependientes necesarios y de pagado el tanto por ciento de administración;
-
-V. Si los Jueces lo creyeren conveniente; decretarán el depósito cuando se presenten dificultades insuperables para la imposición de los sobrantes o capitales que tuvieren los menores o incapacitados;
-
-VI. Pedirán las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que pudieren haberse cometido; y,
-
-VII. Cuidarán de que a los declarados en estado de interdicción se les haga el examen médico anual ordenado por el artículo 861 de este Código.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 875.
 
-Tramitación incidental de los impedimentos y excusas de tutores y curadores. En todos los casos en que se suscite impedimento o excusa de tutores o curadores, o se promueva su separación, se nombrará desde luego tutor o curador interino mientras se decide el punto. La separación se tramitará en la forma incidental, y la resolución que se dicte será apelable en el efecto devolutivo.
-
-Si se decidiere que existe impedimento o motivo de excusa o se decreta la separación del tutor o curador, se hará nuevo nombramiento conforme a derecho.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 876.
 
-Reglas que deben observarse en la rendición y aprobación de cuentas de los tutores. Sobre la rendición y aprobación de cuentas de los tutores, regirán las reglas de la ejecución forzosa con las siguientes modificaciones:
-
-I. Las cuentas se rendirán dentro del mes de enero de cada año, conforme a lo dispuesto en el artículo 874 de este Código, debiendo cumplirse con esta obligación aunque no exista prevención judicial para ello;
-
-II. El tutor también tiene obligación de rendir cuentas cuando, por causas graves que calificará el Juez, lo exijan el curador, el Consejo Local de Tutelas o el mismo menor que hubiere cumplido catorce años de edad;
-
-III. Se requirá (sic) prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I, a menos de que hubiese separación y remoción del tutor, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela llegue al final del plazo por haber cesado el estado de minoridad o de interdicción; y,
-
-IV. Las personas a quienes deben ser rendidas las cuentas, son: el Juez de lo Familiar, el curador, el Consejo Local de Tutelas, el mismo menor que haya cumplido catorce años de edad, el tutor que substituya en el cargo al tutor anterior, el pupilo que deje de serlo, el Ministerio Público y las demás personas que fije el Código Civil.
-
-Del auto de aprobación pueden apelar el Ministerio Público y los demás interesados de que habla esta fracción. Del auto desaprobación pueden apelar el tutor, el curador, el Ministerio Público o cualquier interesado, si la resolución desaprobatoria no acepta en su totalidad las objeciones que hubieren formulado.
-
-Si se objetaren de falsas algunas partidas, se substanciará el incidente entendiéndose la diligencia sólo con los objetantes, el Ministerio Público y el tutor.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 877.
 
-Separación del tutor y la forma de tramitación. Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa grave en el tutor, se iniciará desde luego, a petición de parte, o del Ministerio Público, el juicio de separación, el que se seguirá en forma contenciosa y en la vía incidental. Desde que se inicie el juicio, el Juez nombrará un tutor interino, quedando en suspenso entretanto el tutor propietario, sin perjuicio de que en cualquier tiempo se remita testimonio, en lo conducente, a las autoridades penales, si aparecieren motivos graves para sospechar que exista la comisión de algún delito.
-
-Los tutores y curadores no pueden ser removidos sin que se siga el juicio contradictorio de que habla este artículo, tampoco pueden aceptarse sus excusas sin que se substancie el incidente respectivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 878.
 
-Entrega de bienes de la tutela. Concluída la tutela, el tutor está obligado a entregar todos los bienes del incapacitado y todos los documentos que correspondan, conforme al balance que se hubiere presentado en la última cuenta aprobada. La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas.
-
-La entrega de los bienes y la cuenta de la tutela se efectuará a expensas del incapacitado.
-
-Cuando medie dolo o culpa de parte del tutor serán de su cuenta todos los gastos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 879.
 
-Designación de tutor especial. La designación de un tutor especial para que represente a un menor en un juicio determinado, siempre que las funciones del tutor se circunscriban al de que se trata, se hará por el Juez del conocimiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO XI. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 880.
 
-Autorización judicial para vender bienes de menores o incapacitados. Será necesaria licencia judicial para venta de los bienes que pertenezcan exclusiva o parcialmente a menores o incapacitados si corresponden a las siguientes clases:
-
-I. Bienes raíces;
-
-II. Derechos reales sobre inmuebles;
-
-III. Alhajas y muebles preciosos; y,
-
-IV. Acciones de sociedades mercantiles, cuyo valor en junto exceda de cien veces el salario mínimo general diario vigente en la entidad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 881.
 
-Solicitud de enajenación y su substanciación. Es necesario que al pedirse la autorización judicial se exprese el motivo de la enajenación y el objeto, a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de ella.
-
-Si fuere el tutor quien pidiere la venta, debe proponer al hacer la solicitud, las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente. La demanda del tutor se substanciará en forma de incidente, con el curador y el Ministerio Público; la sentencia que se dicte es apelable en el efecto suspensivo.
-
-El Juez decidirá la forma de avalúo y en su caso el perito oficial que deba hacerlo, pudiendo el Ministerio Público nombrar también un perito.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 882.
 
-De las reglas para la subasta de los bienes. Respecto de las alhajas y muebles preciosos, el Juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor. Si se decreta, se hará conforme a las reglas de la ejecución forzosa para la de bienes muebles.
-
-El remate de los inmuebles se hará conforme a las reglas de la ejecución forzosa y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo judicial, ni la que no se ajuste a los términos de la autorización judicial. Si en la primera almoneda no hubiere postor, el Juez convocará a solicitud del tutor, o curador a una junta, dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
-
-Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta, y por conducto de corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 883.
 
-Destino del precio de la venta. El precio de la venta se entregará al tutor, si la caución o garantías prestadas son suficientes para responder de él. De otra manera, se depositará en la institución de crédito designada al efecto por el Juez.
-
-El Juez señalará un plazo prudente al tutor para que justifique la inversión del precio de la enajenación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 884.
 
-Solicitud para gravar o enajenar bienes del hijo sujeto a patria potestad y su tramitación. Para la venta de los bienes inmuebles o muebles preciosos del hijo sujeto a la patria potestad, requerirán los que la ejercen, la autorización judicial.
-
-La autorización se substanciará conforme a las reglas de los procedimientos no contenciosos, con intervención del Ministerio Público y de un tutor especial que para el efecto nombre el Juez desde las primeras diligencias.
-
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos, o consentir la extinción de derechos reales.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 885.
 
-Solicitud para autorización de préstamo a nombre del menor o incapacitado, para gravar bienes, o para realizar transacciones sobre sus bienes por parte del tutor. Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la conformidad del curador y del Consejo Local de Tutelas. La petición se formulará explicando las causas que obligan a solicitar el préstamo o a gravar los bienes, y en vista de la motivación y las pruebas que se aporten, el Juez concederá o denegará la autorización.
-
-En igual forma se procederá para llevar a cabo transacciones sobre bienes o derechos que pertenezcan a menores o incapacitados, y para dar en arrendamiento por más de cinco años sus bienes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 886.
 
-Aplicabilidad de las reglas de este Capítulo respecto de sus bienes pertenecientes a ausentes. Las reglas de este Capítulo serán aplicables en lo conducente para el gravamen, enajenación, transacción, y arrendamiento por más de cinco años, de bienes pertenecientes a ausentes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO XII. De la habilitación de edad y autorización a menores
 
 ###### Artículo 887.
 
-Habilitación a menor para comparecer a juicio. La habilitación para comparecer en juicio que solicite el menor que haya cumplido dieciséis años de edad, sujeto a patria potestad o tutela, le será concedida cuando compruebe que los padres o ascendientes que ejercieren la patria potestad o la tutela están ausentes, se ignora su paradero o se niegan a representarlo y si además, se demuestra que el menor fue demandado o se le sigue un perjuicio grave por no promover un juicio; y, comprueba su buena conducta y aptitud para el manejo de sus negocios.
-
-La autorización la concederá o denegará el Juez oyendo al menor y al Ministerio Público en una audiencia en la que recibirá las pruebas que le presenten. En caso de negativa le designará un tutor para asuntos judiciales.
-
-La resolución que se pronuncie no es apelable y quedará sin efecto cuando los padres o tutores se apersonen en el juicio en el que el menor sea parte.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 888.
 
-Emancipación por matrimonio. La emancipación por matrimonio del menor se produce de pleno derecho y sin necesidad de declaración judicial y no puede ser revocada.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 889.
 
-Autorización al menor para enajenar o gravar bienes inmuebles. La autorización que soliciten los emancipados o habilitados de edad para enajenar, gravar o hipotecar bienes raíces, se podrá otorgar oyendo al menor emancipado y al Ministerio Público en una audiencia, sin que se requieran formalidades de ninguna clase asentándose únicamente en una acta de la diligencia celebrada.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO XIII. De la declaración de ausencia y de presunción muerte
 
 ###### Artículo 890.
 
-Medidas preventivas que deben decretarse cuando se denuncie la desaparición de una persona. A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el Juez dictará las medidas conservativas a que se refiere el Código Civil, nombrando un depositario de sus bienes, y además mandará citar al ausente por edictos publicados en el Boletín Judicial y en dos de los principales periódicos de su último domicilio, remitiendo en su caso copia de los edictos a los Cónsules mexicanos de aquellos lugares del extranjero en que se presuma que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un plazo no menor de tres meses ni mayor de seis para que se presente.
-
-Podrán ser designados depositarios:
-
-I. El cónyuge del ausente;
-
-II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá (sic)al que estime más apto;
-
-III. Al ascendiente más próximo en grado al ausente;
-
-IV. A falta de anteriores o cuando sea incoveniente (sic) que alguno de ellos, por su mala conducta o por su ineptitud, sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubieren varios con igual derecho, ellos mismos eligirán (sic) al que deba ser depositario de los bienes del ausente o ignorado.
-
-En caso de desacuerdo en la elección, lo hará el Juez prefiriendo al que tenga mejores intereses en la conservación de los bienes del ausente.
-
-Si cumplido el plazo a que se refiere el primer párrafo de este artículo, el citado no compareciere por sí o por apoderado legítimo, ni por medio de tutor o pariente que pueda representarlo, se procederá al nombramiento de representante.
-
-Anualmente se hará la publicación de nuevos edictos y se cumplirá con las demás disposiciones del Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 891.
 
-Procedencia de la demanda por declaración de ausencia y la legitimación para promoverla. La solicitud por declaración de ausencia podrá promoverse pasados dos años desde el día en que haya sido nombrado el representante del ausente.
-
-En ella debe consignarse el nombre, apellido y residencia de los presuntos sucesores legítimos del desaparecido o los que hubieren sido nombrados en testamento público abierto y, cuando existan, el de su abogado o representante legal.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 892.
 
-Substanciación de procedimientos de la declaración de ausencia. Si el Juez encuentra fundada la solicitud, dispondrá que se publique durante tres meses, con intervalos de quince días en el Boletín Judicial y en dos de los periódicos principales del último domicilio del ausente, y en su caso, remitirá copia de los escritos a los Cónsules, como se indica en el artículo 890 de este Código.
-
-Pasados cuatro meses de la fecha de la última publicación, si no hubiere noticia del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia, mandando publicar la declaración por tres veces en el Boletín Judicial y en dos de los periódicos principales del último domicilio del ausente.
-
-El fallo que se pronuncie en el juicio de declaración de ausencia será apelable en el efecto devolutivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 893.
 
-Efectos de la declaración de ausencia. Declarada la ausencia, si hubiere testamento, la persona en cuyo poder se encuentre lo presentará al Juez, dentro de los quince días contados de la última publicación a que se refiere el artículo anterior de este Ordenamiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 894.
 
-Apertura del testamento, posterior a la declaración de ausencia. El Juez de oficio o a instancia de cualquiera que se crea interesado en el testamento, lo abrirá en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las demás solemnidades prescritas en su caso atendiendo a la naturaleza del testamento.
-
-En el caso de que no hubiere testamento, los herederos legítimos comparecerán ante el Juez acreditando su entroncamiento con el ausente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 895.
 
-Iniciación del juicio sucesorio previa a la declaración de presunción de muerte del ausente. Por virtud de la presentación o apertura del testamento, o una vez acreditado el parentesco con el ausente en el caso de herederos legítimos, se iniciará desde luego el juicio sucesorio para el solo efecto de la declaración de herederos; debiéndose continuar por sus demás trámites, hasta una vez que se declare la presunción de muerte.
-
-En el juicio sucesorio, los herederos testamentarios y, en su caso, los que fueren legítimos, requerirán a los poseedores provisionales para que den cuenta de su administración y serán puestos en la posesión provisional de los bienes, siempre que tengan capacidad legal para administrar y otorguen caución que asegure las resultas de la administración. Cuando estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 896.
 
-Reglas del procedimiento para la declaración de presunción de muerte. El procedimiento para la declaración de presunción de muerte se sujetará a las siguientes reglas:
-
-I. Tienen legitimación para solicitar la declaración de presunción de muerte los presuntos herederos legítimos del ausente, los instituídos en testamento abierto; los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente y el Ministerio Público;
-
-II. La solicitud deberá consignar los datos a que se refiere el artículo 891 de este Ordenamiento;
-
-III. La solicitud podrá presentarse después de que hayan transcurrido tres años desde la declaración de ausencia;
-
-IV. Acreditados los anteriores requisitos, el Juez declarará la presunción de muerte;
-
-V. La sentencia que declare la presunción del fallecimiento será ejecutada después de que haya pasado en autoridad de cosa juzgada. Una copia de la sentencia se enviará al Oficial del Registro Civil, en el que conste la partida de nacimiento del ausente, para que haga la anotación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 897.
 
-Declaración de presunción de muerte. Abierto el testamento, supuesta la posesión provisional de los bienes por los herederos y otorgada la caución, si el Juez considera procedente decretará la declaración de presunción de muerte del ausente, por lo que los herederos entrarán en la posesión definitiva de los bienes sin garantía alguna; la que según la Ley se hubiera otorgado, quedará cancelada.
-
-Cuando se llegare a aprobar la muerte del ausente la herencia se defiere a los que debieron heredar al tiempo de ella; pero los poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional.
-
-La sentencia que declare la presunción de muerte del ausente pone término a la sociedad conyugal, y en todo lo demás se procederá en concordancia con las previsiones del Código Civil.
-
-La sentencia es apelable en el efecto devolutivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 898.
 
-Ejecución y registro de la sentencia de presunción de muerte. La sentencia que declare la presunción de muerte será ejecutada después de que haya pasado en autoridad de cosa juzgada.
-
-Una copia de la resolución se enviará al Oficial del Registro Civil, en la que conste la partida de nacimiento del ausente, para que haga la anotación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 899.
 
-Facultades del Ministerio Público. El Ministerio Público velará por los intereses del ausente; será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 # LIBRO OCTAVO. De los juicios universales
 
@@ -7279,241 +6747,125 @@ Facultades del Ministerio Público. El Ministerio Público velará por los inter
 
 ###### Artículo 900.
 
-Las disposiciones sobre concursos de acreedores se aplican sólo a deudores no comerciantes y a las sociedades civiles. Las disposiciones de este Título regirán exclusivamente para los deudores no comerciantes y las sociedades civiles. En lo no previsto, se aplicarán supletoriamente las leyes mercantiles en materia de quiebras, pero sólo en lo que fuere indispensable para complementarlas y siempre que no se opongan directa o indirectamente a las que aquí se contienen.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 901.
 
-Procedencia del concurso cuando haya suspensión de pagos. Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles líquidas y exigibles.
-
-Se presumirá, salvo prueba en contrario, que el deudor no comerciante cesó en sus pagos, en los siguientes casos:
-
-I. Incumplimiento general en el pago de sus obligaciones líquidas y vencidas;
-
-II. Por el hecho de que tres o más acreedores de plazo cumplido hayan demandado y ejecutado ante un mismo o diversos juzgados a su deudor, y no haya bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas;
-
-III. La ocultación o ausencia del deudor sin dejar a alguien que legalmente pueda cumplir con sus obligaciones y sin que tenga bienes para que éstas puedan hacerse efectivas; y,
-
-IV. Cuando el deudor haga cesión de bienes en favor de sus acreedores.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 902.
 
-Concursos necesario y voluntario. El concurso del deudor no comerciante puede ser necesario o voluntario. Es necesario, en los casos comprendidos en las tres primeras fracciones del artículo anterior, y voluntario el comprendido en la fracción IV.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 903.
 
-El concurso de sociedades civiles comprende a los socios de responsabilidad ilimitada y solidaria. Los concursos de las sociedades civiles determinan que los socios que sean ilimitada y solidariamente responsables, sean considerados también en estado de concurso.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 904.
 
-Efectos de la declaración de concurso. La declaración de concurso incapacita al deudor para seguir administrando sus bienes; así como para cualquiera otra administración que por Ley le corresponda, y hace que se venza el plazo de todas sus deudas. Produce también el efecto de que dejen de devengar intereses sus deudas, salvo los créditos hipotecarios y pignoraticios que seguirán devengándolos hasta donde alcance el valor de los bienes que garanticen.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 905.
 
-Solicitud de la declaración de concurso. La declaración de concurso necesario se hará a solicitud escrita de uno o de varios acreedores del deudor o a solicitud del Ministerio Público. El concurso puede pedirse, no sólo contra el deudor presente, sino contra el ausente y contra las sucesiones de uno y otro. Con la solicitud se acompañarán las pruebas que justifiquen que el deudor se encuentra en estado de suspensión de pagos, o se recibirán éstas en una audiencia, que se verificará sin oír al deudor.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 906.
 
-Cesión de bienes por el deudor. El deudor que quiera hacer cesión de sus bienes deberá presentar un escrito en el que exprese los motivos que lo obligan a entregarlos para pagar a sus acreedores, y hará todas las explicaciones conducentes para el mejor conocimiento de sus negocios, con la solicitud acompañará lo siguiente:
-
-I. Un inventario exacto de sus bienes; y,
-
-II. Una lista de todos sus acreedores, con expresión del domicilio de éstos y del origen o detalle de cada deuda.
-
-No se incluirán en el inventario del activo los bienes exceptuados de embargo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 907.
 
-Resolución declarativa de concurso. En los casos de concurso necesario o voluntario, el Juez examinará la documentación y pruebas que se le presenten, y si encuentra motivos suficientes para considerar que existe estado de suspensión de pagos, hará la declaración de concurso y en la misma resolución adoptará las siguientes medidas:
-
-I. Notificar al deudor, personalmente o por cédula, la formación de su concurso necesario y por el Boletín Judicial o cédula, el concurso voluntario;
-
-II. Mandará que se comunique a los acreedores la formación del concurso. La notificación se hará por edictos que se publicarán en el Boletín Judicial y en un periódico local que designe el Juez, por dos veces de diez en diez días. Si hubiere acreedores en el lugar del juicio, se les citará por medio de cédula que se puede enviar por correo o telégrafo, si fuere necesario;
-
-III. Designará síndico provisional, fijará prudentemente sus honorarios y dará intervención al Ministerio Público;
-
-IV. Decretará el embargo y aseguramiento de los bienes, libros, correspondencia y documentos del deudor. Estas diligencias deberán practicarse en el mismo día, sellando las puertas de los almacenes y despachos de aquél y asegurando los muebles susceptibles de embargo que se hallen en el domicilio del mismo;
-
-V. Mandará hacer saber a los deudores del concursado, la prohibición de hacer pagos o entregar efectos de éste, bajo el apercibimiento de segundo pago, en caso de desobediencia;
-
-VI. Dictará orden para que el concursado haga entrega de sus bienes al síndico, bajo el apercibimiento de proceder penalmente en su contra si ocultare alguna cosa de su propiedad;
-
-VII. Señalará un plazo no menor de ocho días ni mayor de quince para que los acreedores presenten en el juzgado los títulos justificativos de sus créditos con copia de los mismos, para que estas últimas sean entregadas al síndico;
-
-VIII. Señalará día y hora para la junta de rectificación y graduación de créditos, que deberá celebrarse dentro de los quince días siguientes al en que expire el plazo fijado en la fracción anterior. El día de esta junta y el nombre del síndico, se harán saber en los edictos a que se refiere la fracción II; y,
-
-IX. Mandará pedir a los juzgados ante los que se tramiten pleitos contra el concursado, los envíen para su acumulación al juicio universal. Quedarán exceptuados de la acumulación:
-
-a). Los juicios hipotecarios que estuvieren pendientes y los que se promuevan después;
-
-b). Los juicios que procedan de créditos prendarios que no sean acumulables, por disposición expresa de la Ley;
-
-c). Los demás juicios que se hubieren fallado en primera instancia, mismos que se cancelarán una vez que se decidan definitivamente; y,
-
-d). Los que no sean acumulables por disposición de la Ley.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 908.
 
-Oposición del deudor a la declaración del concurso. El deudor puede oponerse al concurso necesario dentro del tercer día de su declaración. La oposición se sustanciará en la vía incidental, sin suspender las medidas a que se refiere el artículo anterior. La resolución del incidente será apelable en el efecto devolutivo.
-
-Revocado el auto que declaró abierto el concurso, deberán reponerse las cosas al estado que tenían antes de la declaración. El síndico, en el caso de haber realizado actos de administración, deberá rendir cuentas al interesado.
-
-El concursado que hubiere hecho cesión de bienes, no podrá pedir la revocación de la declaración de concurso, a no ser que haya algún error en la apreciación de sus negocios.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 909.
 
-Petición de los acreedores de la revocación del auto declarativo de concurso. Los acreedores, aun los garantizados con privilegio, hipoteca o prenda, podrán pedir por cuerda separada que se revoque la declaración del concurso, aun cuando el concursado haya manifestado ya su estado o haya consentido el auto judicial respectivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 910.
 
-Resistencia a la solicitud de los acreedores para la revocación del concurso. Cuando surja oposición a la petición de los acreedores para revocar el auto declarativo del concurso, la oposición se tramitará incidentalmente y sólo será procedente si la declaratoria de concurso necesario no se hubiere hecho con arreglo a la Ley, y en caso de concurso voluntario, además si existe inclusión fraudulenta de créditos en la lista presentada por el deudor.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 911.
 
-Obligaciones del declarado concursado. El concursado, una vez hecha la declaración de concurso, tendrá las siguientes obligaciones:
-
-I. Entregar todos sus bienes al síndico, excepto los que conforme a la Ley sean inalienables o no embargables;
-
-II. Presentar dentro de los cinco días de la notificación del auto que declaró el concurso necesario, un estado detallado de su activo y pasivo, con nombres y domicilios de los acreedores y deudores privilegiados. Podrá ser apremiado para que cumpla con su obligación, y si no lo hace, lo hará el síndico; y,
-
-III. Se abstendrá de seguir administrando sus bienes, así como continuar cualquier otra administración que por Ley le corresponda.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO II. De la rectificación y graduación de créditos
 
 ###### Artículo 912.
 
-Obligación de los acreedores de reclamar judicialmente sus créditos. Los acreedores del concursado deberán presentar sus créditos hasta tres días antes de la fecha en que deba tener verificativo la junta de acreedores. En el escrito respectivo deberán expresar el monto, origen y naturaleza de su crédito, presentando la prueba de sus afirmaciones. Para esto, los acreedores tienen facultad para examinar en la Secretaría los papeles y documentos del concursado hasta antes de la rectificación de créditos.
-
-Los acreedores que notificados oportunamente no cumplan con la obligación que les impone este artículo, serán considerados en mora, y perderán el privilegio que tengan, quedando reducidos a la clase de acreedores comunes, y si no gozaren de privilegios, perderán la tercera parte de lo que deberían percibir por razón de su crédito.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 913.
 
-Reglas para el desarrollo de la junta de rectificación y graduación de créditos. La junta de rectificación y graduación será presidida por el Juez, debiendo desarrollarse de acuerdo con las siguientes reglas:
-
-I. El síndico exhibirá en esa junta un balance practicado hasta el día anterior, en el que conste el activo y pasivo del concursado, y presentará, además, un inventario completo de la universalidad de la masa de los bienes con indicación de sus valores;
-
-II. Se procederá en seguida (sic) al examen de los créditos, previa lectura por el síndico de un breve informe sobre el estado general, activo y pasivo y documentos que prueben la existencia de cada uno de ellos. En este informe estarán contenidos los dictámenes que rindan sobre cada uno de los créditos presentados, y de los cuales con anticipación se le corrió traslado;
-
-III. El síndico presentará también un proyecto de clasificación de los créditos, de acuerdo con sus privilegios, según el Código Civil.
-
-Si no cumpliere con las obligaciones que le imponen las dos fracciones precedentes, será removido de plano, y perderá todo derecho de cobrar honorarios, imponiéndosele, además, la multa que fije el Juez;
-
-IV. El acreedor cuyo crédito no resulte del estado, libros o papeles del deudor, será admitido en la junta siempre que dentro del plazo legal haya presentado los justificantes de su crédito;
-
-V. El concursado podrá asistir por sí o por apoderado a las juntas que se celebren para lo cual deberá ser oportunamente citado;
-
-VI. Los acreedores podrán hacerse representar por apoderado, siendo bastante también el poder general para actos de administración. Quien represente a más de un acreedor, sólo podrá tener cinco votos como máximo; pero el monto de todos los créditos se computará para formar, en su caso, la mayoría de capital;
-
-VII. Los créditos presentados pueden ser objetados por el síndico, por el concursado, o por cualquier acreedor. Si no lo fueren, se tendrán por buenos y verdaderos y se inscribirán en la lista de los reconocidos. Si uno o más de los admitidos por la mayoría fuesen objetados por el deudor, por el síndico o por alguno de los acreedores, se tendrán por verificados provisionalmente si aparecen debidamente justificados, sin perjuicio de que por cuerda separada se siga la cuestión sobre su legitimidad. Si los objetantes fueren acreedores, deberán seguir el juicio a su costa, sin perjuicio de ser indemnizados, hasta la concurrencia de la suma en que su gestión hubiere enriquecido al concurso;
-
-VIII. Los acreedores que no hubieren presentado oportunamente los documentos justificativos de sus créditos no serán admitidos en la masa; pero podrá hacerse la rectificación de sus créditos judiciales a su costa, en la vía incidental;
-
-IX. Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el Juez suspenderá la audiencia para continuarla al día hábil siguiente, haciéndose constar en el acta tal circunstancia, sin necesidad de nueva convocatoria; y,
-
-X. En la misma junta, una vez terminada la rectificación y graduación, los acreedores, por mayoría de créditos y de personas asistentes designarán síndico definitivo, y determinarán el monto de sus hononarios (sic), de ser posible de acuerdo con el designado, o en su defecto, lo hará el Juez.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 914.
 
-Convenios entre el deudor y sus acreedores en la Junta de Rectificación y Graduación de Créditos. Una vez celebrada la Junta a que se refiere el artículo anterior o en la misma Junta, el deudor puede celebrar con sus acreedores los convenios que estime oportunos. Si no se producen, en la misma junta los convenios deberán celebrarse en otra que se convoque para el efecto.
-
-Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos. Si se realizaren convenios, se cumplirán las reglas establecidas por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 915.
 
-Venta posterior por el síndico de los bienes del concursado. Después de la junta de acreedores y en ausencia de convenio, resueltas las apelaciones y oposiciones que se hubieren interpuesto, el síndico procurará la venta de los bienes del concursado, de acuerdo con las reglas establecidas para la ejecución forzosa.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 916.
 
-Distribución proporcional del producto de los bienes ejecutados. El producto de los bienes se distribuirá proporcionalmente a los acreedores, de acuerdo con su privilegio y graduación en la forma establecida por el Código Civil.
-
-Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en la forma que determine el Juez, hasta la resolución definitiva.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 917.
 
-Pago a los acreedores privilegiados. El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, así como el que hubiere obtenido sentencia firme con fecha anterior a la declaración del concurso, no están obligados a esperar el resultado final del concurso general, y serán pagados con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlos a dar caución de mejor derecho.
-
-Si antes de establecido el derecho de preferencia de algún acreedor, se distribuyere un dividendo, se considerará como acreedor común, reservándose el precio del bien afectado, hasta la concurrencia del importe de su crédito, por si esa preferencia quedase reconocida.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 918.
 
-Terminación del concurso de acreedores. Cuando se hubiere pagado íntegramente a los acreedores y celebrado convenio adjudicando los bienes del concurso, se dará éste por concluído. Si el precio en que se vendieren no bastare a cubrir todos los créditos, se reservarán los derechos de los acreedores para cuando el deudor mejore su fortuna.
-
-Si después de satisfechos los créditos, quedaren fondos pertenecientes al concurso, se pagarán los réditos correspondientes en el mismo orden en que se pagaron los capitales; pero reducidos los intereses al tipo legal, a no ser que se hubiese pactado uno menor.
-
-Sólo que hubiere bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
-
-Si hubiere algún remanente, se entregará al concursado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 919.
 
-Derechos de los acreedores de designar un interventor. Los acreedores consignados en el estado del deudor o que hubieren presentado sus documentos justificativos, tienen derecho de nombrar un interventor que vigile legalmente los actos del síndico. El Juez podrá hacer las observaciones que estime pertinentes al síndico y al interventor.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 920.
 
-Concurso especial entre acreedores hipotecarios. Si hubiere varios acreedores hipotecarios garantizados por los mismos bienes, pueden formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas, si éstas se registraron dentro del plazo legal, o según el orden en que se hayan inscrito los gravámenes, si la inscripción se hizo fuera del plazo de Ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO III. De la administración del concurso
 
 ###### Artículo 921.
 
-Aceptación del cargo de síndico y posesión de los bienes del concurso. Aceptado el cargo por el síndico, se le pondrá, desde el día siguiente al del aseguramiento, en posesión, bajo inventario, de los bienes, libros y papeles del deudor. Si éstos estuvieren fuera del lugar del juicio, se inventariarán con intervención de la autoridad judicial exhortada, y al efecto, se citará al deudor para la diligencia.
-
-El dinero se depositará en una institución de crédito autorizada legalmente, dejándose en poder del síndico lo indispensable para atender los gastos de administración.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 922.
 
-Personas impedidas para ser síndico. No pueden ser síndico: el pariente del concursado o del Juez dentro del cuarto grado de consaguinidad (sic), ni segundo de afinidad; ni su amigo o enemigo manifiesto; ni con quien tenga sociedad o comunidad de intereses.
-
-El que se halle en alguno de estos casos, deberá excusarse y ser sustituido inmediatamente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 923.
 
-Desempeño del síndico del concurso. El síndico es el administrador de los bienes del concurso y con él deben entenderse las operaciones ulteriores o toda cuestión judicial o extrajudicial que el concursado tuviere pendiente, o que hubiere de iniciarse, incluyendo los juicios hipotecarios. El deudor, en estos juicios, podrá comparecer como tercero coadyuvante.
-
-El síndico ejecutará personalmente las funciones inherentes a su cargo, a menos que tenga que desempeñarlas fuera del lugar del asiento del juzgado, en cuyo caso podrá valerse de mandatarios.
-
-El síndico para garantizar su manejo deberá otorgar caución dentro de los primeros cinco días que sigan a la aceptación de su cargo, debiendo cubrir el monto que fije el Juez.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 924.
 
-Facultades del síndico provisional. Si el síndico provisional comprendiere que hay necesidad de realizar efectos, bienes o valores que pudieren perderse, disminuir su valor o deteriorarse, o fuere muy costosa su conservación, o útil su venta por alguna oportunidad especial, podrá enajenarlos con autorización del Juez, quien la dará, previa audiencia del Ministerio Público, debiendo dictarse en el plazo que proceda, según la urgencia del caso. También podrá autorizarse la venta anticipada, cuando fuere estrictamente indispensable para cubrir gastos urgentes de administración y de conservación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 925.
 
-Obligaciones del síndico. El síndico deberá presentar, dentro de los primeros diez días de cada mes, un estado de la administración, previo depósito en el establecimiento respectivo, del dinero que hubiere percibido. Con cada cuenta se formará cuaderno por separado.
-
-Las cuentas estarán a disposición de los interesados hasta el fin de mes, dentro de cuyo plazo podrán ser objetadas. Las objeciones se sustanciarán con la contestación del síndico y la resolución judicial, dentro del tercer día. Contra la resolución que se dicte procederá la apelación en el efecto devolutivo.
-
-El síndico será removido de plano si dejare de rendir la cuenta mensual, o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IV. El deudor común
 
 ###### Artículo 926.
 
-Intervención permitida al deudor. El deudor podrá intervenir en los incidentes relativos a la rectificación de los créditos; pero no en las cuestiones referentes a la graduación.
-
-Podrá hacerlo también en las cuestiones relativas a la enajenación de bienes. En todas las demás, será representado por el síndico, aun en los juicios hipotecarios; pero podrá comparecer como coadyuvante.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 927.
 
-Derecho del deudor a recibir alimentos. El deudor de buena fe tiene derecho a alimentos cuando el valor de los bienes exceda al importe de los créditos.
-
-De la resolución sobre los alimentos pueden apelar el deudor y los acreedores. La apelación sólo procede en el efecto devolutivo.
-
-Si en el curso del juicio se hace constar que los bienes son inferiores a los créditos, cesarán los alimentos, pero el deudor no devolverá los que hubiere percibido.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 928.
 
-Rehabilitación del concursado. El concursado quedará rehabilitado en los casos siguientes:
-
-I. Cuando hubiere celebrado convenio con sus acreedores, entre tanto sea cumplido. En caso de no cumplirlo, se reanudará el concurso;
-
-II. Cuando se pague íntegramente a los acreedores del concursado;
-
-III. Si el concurso se debiere a caso fortuito, al terminar podrá ser rehabilitado el deudor, siempre que proteste en forma legal atender al pago de sus deudas insolutas, tan pronto como su solvencia lo permita. En los demás casos, será rehabilitado cinco años después de terminado el concurso; pero si se impusiera al concursado alguna pena por concurso declarado fraudulento, no lo será hasta tres años después de cumplida.
-
-La demanda de rehabilitación se presentará ante al Juzgado que conoció del concurso, acompañado de la documental necesaria para probar que se han reunido los requisitos previstos en este numeral.
-
-La petición se tramitará actuando el Ministerio Público como representante de los acreedores, y antes de tenerla por contestada se publicará un extracto de la demanda, concediendo el plazo de un mes a cualquier interesado legitimado, para que formule oposición si lo estima procedente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ## TITULO SEGUNDO. De las sucesiones
 
@@ -7521,759 +6873,337 @@ La petición se tramitará actuando el Ministerio Público como representante de
 
 ###### Artículo 929.
 
-Cuándo debe tramitarse el juicio sucesorio. Una vez que se abra la sucesión por la muerte o declaración de presunción de muerte del autor de la herencia, deberá tramitarse el correspondiente juicio sucesorio, conforme a las reglas de este Título.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 930.
 
-Clases de juicios sucesorios. Los juicios sucesorios podrán ser:
-
-I. Testamentarios, cuando la herencia se establece por testamento;
-
-II. Intestamentarios o de sucesión legítima, cuando la herencia se decreta por disposición de la Ley.
-
-Cuando el testador disponga sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 931.
 
-Sucesiones judiciales y extrajudiciales. Las sucesiones se tramitarán:
-
-I. Ante la autoridad judicial, cualquiera que sea el caso; y,
-
-II. Extrajudicialmente, ante notario público, pero sólo en los casos en que la Ley lo autorice.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 932.
 
-Denuncia del juicio sucesorio y requisitos que debe cumplir. El juicio sucesorio se inicia mediante denuncia hecha por parte legítima. Una vez admitida la denuncia, el Juez tendrá por radicada la sucesión.
-
-La denuncia para la apertura y radicación de un juicio sucesorio deberá contener la expresión de los siguientes datos:
-
-I. El nombre, fecha, lugar de la muerte y último domicilio del autor de la sucesión;
-
-II. Si hay o no testamento;
-
-III. Nombres y domicilios de los herederos legítimos de que tenga conocimiento el denunciante, haya o no testamento, con expresión del grado de parentesco o lazo con el autor de la sucesión, indicando si hay menores;
-
-IV. Nombre y domicilio del albacea testamentario, si se conoce; y,
-
-V. Una lista provisional de los bienes que haya dejado a su muerte el autor de la sucesión y que sean conocidos por el denunciante, con expresión del lugar en que aquéllos se encuentren.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 933.
 
-Documentos anexos a la denuncia. Con el escrito de denuncia de un juicio sucesorio, deberán acompañarse los siguientes documentos:
-
-I. Copia certificada del acta de defunción del autor de la sucesión y no siendo esto posible, otro documento o prueba bastante y en su caso la declaración de ausencia o presunción de muerte;
-
-II. El testamento, si lo hay; en caso de no estar en posesión de él, se pedirá como acto prejudicial su exhibición por parte de la persona en cuyo poder se encuentre;
-
-III. El comprobante del parentesco o lazo del denunciante con el autor de la sucesión, en el caso en que se haga la denuncia como heredero legítimo presunto; y,
-
-IV. Copias por duplicado, del escrito de denuncia y demás documentos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 934.
 
-Quiénes pueden denunciar un juicio sucesorio. Pueden denunciar un juicio sucesorio:
-
-I. Los herederos del autor de la sucesión, ya sean testamentarios o legítimos, aunque sólo tengan ese carácter como presuntos;
-
-II. La concubina o el concubino;
-
-III. Los representantes de la Asistencia Pública;
-
-IV. Los acreedores del autor de la sucesión;
-
-V. El Ministerio Público; y,
-
-VI. Cualquier persona en los casos de herencias vacantes.
-
-El denunciante, excepto en los casos de las fracciones III, V y VI deberá justificar encontrarse en alguno de los casos previstos en este artículo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 935.
 
-Radicación del juicio sucesorio. Presentada la denuncia con sus anexos, el Juez, si la encuentra arreglada a derecho, decretará la radicación del juicio sucesorio. Si la denuncia fuere irregular o no viniere acompañada de los documentos exigidos por la ley, el Juez prevendrá al denunciante para que la corrija o complete.
-
-La radicación en todos los casos se hará del conocimiento del Ministerio Público.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 936.
 
-Posibilidad de dictar medidas urgentes para la conservación de los bienes de la sucesión. Si el Juez lo estima necesario, de oficio o a petición de parte, puede con audiencia del Ministerio Público, dictar medidas urgentes para la conservación de los bienes de la sucesión que a consecuencia de la muerte del autor de la herencia queden abandonados o en peligro de que se oculten o dilapiden o se apodere de ellos cualquier extraño. Estas medidas urgentes podrán consistir en:
-
-I. Colocación de sellos y cierre de las puertas correspondientes a las habitaciones del difunto cuyo acceso no sea indispensable para los que queden viviendo en la casa, y en la misma forma colocar sellos en dependencias o cajas fuertes, de seguridad u otros muebles del difunto. Los sellos se levantarán cuando haya albacea o interventor y se practique inventario;
-
-II. Reunir los papeles del difunto que cerrados y sellados se depositarán en el secreto del juzgado;
-
-III. Ordenar a la administración de correos que remita la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás documentos;
-
-IV. Mandar depositar el dinero y alhajas en el establecimiento autorizado por la Ley; y,
-
-V. Mandar inventariar los bienes susceptibles de ocultarse o perderse.
-
-Estas medidas podrán decretarse y ejecutarse en cualquier tiempo en que se juzguen necesarias, y se dictarán sin perjuicio de que el cónyuge supérstite, en su caso, siga en la posesión y administración de los bienes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 937.
 
-Designación judicial de interventor. Mientras no se nombre o haya albacea, y cuando ello fuere necesario para la guarda y conservación de los bienes de la sucesión o derechos que correspondan al autor de la sucesión, se nombrará, por el Juez, un interventor, quien deberá bajo pena de remoción otorgar caución dentro de los cinco días siguientes a su nombramiento para responder de su manejo por la cantidad que fijará el Juez. El interventor deberá ser persona capaz, de notoria buena conducta y domiciliado en el lugar del juicio o en el de la residencia del difunto.
-
-El interventor recibirá los bienes por inventario y tendrá el carácter de simple depositario, sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieren al pago de deudas mortuorias, créditos fiscales o alimentos, haciendo esto último mediante autorización judicial.
-
-Si los bienes estuvieren situados en lugares diversos o distantes, podrán nombrarse varios interventores, si uno solo no puede realizar su cargo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 938.
 
-Terminación del cargo de interventor. El interventor cesará en su cargo, luego que se nombre o dé a conocer el albacea y entregará a éste los bienes, sin que pueda retenerlos bajo ningún pretexto, ni aún por mejoras o gastos de manutención o reparación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 939.
 
-Nombramiento de tutor para herederos o legatarios menores de edad. En los juicios sucesorios en que haya herederos o legatarios menores o incapacitados que no tuvieren representante legítimo, o que entre el menor y éste puedan haber intereses contrarios, dispondrá el Juez que el mismo menor designe un tutor si ha cumplido catorce años, y si no los ha cumplido o no hace la designación, será nombrado por el Juez.
-
-Tan pronto como el Juez tenga conocimiento de la existencia de herederos menores, proveerá al nombramiento de tutor.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 940.
 
-Intervención de otros sujetos procesales en los juicios sucesorios. El Ministerio Público tendrá en los juicios sucesorios intervención en los siguientes casos:
-
-I. Cuando haya herederos menores o incapacitados aunque tengan representante o tutor;
-
-II. Cuando haya herederos no apersonados, para representarlos en tanto éstos comparecen a juicio;
-
-III. Cuando corresponda heredar al Estado;
-
-IV. En todos los juicios, mientras no haya reconocimiento o declaración de herederos.
-
-En las sucesiones de extranjeros los cónsules o agentes consulares tendrán la intervención que les concede la ley, los tratados o los usos internacionales.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 941.
 
-Asuntos acumulables a los juicios sucesorios. Son acumulables a los juicios testamentarios y a los intestados:
-
-I. Los pleitos ejecutivos incoados contra el finado antes de su fallecimiento;
-
-II. Las demandas ordinarias por pretensión personal, pendientes en primera instancia contra el finado;
-
-III. Los pleitos incoados contra el mismo por pretensión real que se hallen en primera instancia, cuando no se sigan en el juzgado del lugar en que esté sita la cosa inmueble o donde se hubieren hallado los muebles sobre que se litigue;
-
-IV. Todas las demandas ordinarias y ejecutivas que se deduzcan contra los herederos del difunto en su calidad de tales después de denunciado el intestado;
-
-V. Los juicios que sigan los herederos deduciendo la pretensión de petición de herencia, ya impugnando el testamento o la capacidad de los herederos presentados o reconocidos o exigiendo su reconocimiento, siempre que esto último acontezca antes de la adjudicación;
-
-VI. Las pretensiones de los legatarios reclamando sus legados, siempre que sean posteriores a la elaboración de inventarios y antes de la adjudicación, excepto los legados de alimentos, de pensiones de educación y de uso y habitación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 942.
 
-Competencia del órgano que conoce de la sucesión. El juzgado competente para conocer de un juicio sucesorio lo será también, con exclusión de cualquier otro juzgado, para conocer de todas las cuestiones que puedan surgir con ocasión de la muerte del autor de la herencia, impugnación y nulidad de testamento y los demás mencionados al señalar las reglas generales de competencia, y también lo será para conocer de las reclamaciones posteriores a la radicación de la sucesión, contra el patrimonio de la misma.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 943.
 
-Aceptación del cargo de albacea. El albacea debe aceptar su cargo dentro de los tres días siguientes al en que se le haga conocer el nombramiento por notificación personal, o en la audiencia en que haya sido designado, si estuviere presente, y si no lo hace, se tendrá por removido y se hará nueva designación.
-
-Si acepta, deberá caucionar su manejo con sujeción a lo dispuesto por el Código Civil, salvo que todos los interesados lo hayan dispensado de esta obligación. Si no cumple con otorgar la caución dentro del plazo indicado, será removido de plano.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 944.
 
-Sucesiones que pueden tramitarse ante notario público. Las sucesiones podrán tramitarse ante notario público en los siguientes casos:
-
-I. Cuando todos los herederos fueren mayores de edad, capaces y hubieren sido instituídos en testamento público;
-
-II. Cuando, hecha la declaración de herederos en un juicio de intestado, siendo ellos mayores de edad, capaces, encomiendan a un notario la conclusión del juicio.
-
-Para que haya lugar a la tramitación notarial deben reunirse además los siguientes requisitos:
-
-a) Que todos los interesados sean capaces y mayores de edad;
-
-b) Que lo soliciten todos; y,
-
-c) Que no exista controversia alguna.
-
-En cualquier momento, antes de concluída, a solicitud de cualquiera de los interesados, cesará la tramitación extrajudicial. Lo mismo se observará cuando se suscite oposición o controversia.
-
-La tramitación ante notario se verificará de acuerdo con lo que se dispone en el capítulo respectivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 945.
 
-Cambio de una sucesión intestada cuando apareciere el testamento. Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir la testamentaria, remitiendo el expediente a quien deba conocer de ésta a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del albacea testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumulen antes de su formación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 946.
 
-Formación de cuatro secciones en los juicios sucesorios. En todo procedimiento sucesorio se formarán cuatro secciones compuestas de los cuadernos necesarios. Cuando no haya inconveniente para ello las secciones pueden tramitarse simultáneamente. Las secciones serán las siguientes:
-
-I. Sección Primera o de Sucesión, contendrá: la denuncia, o el testamento, las citaciones y convocatorias, reconocimiento de derechos hereditarios, nombramiento y remoción de albaceas, tutores y resoluciones sobre validez del testamento, capacidad para heredar y preferencia de derechos;
-
-II. Sección Segunda o de Inventarios; contendrá: los inventarios y avalúos, los incidentes que se promuevan, las resoluciones que se dicten sobre los mismos, y las liquidaciones;
-
-III. Sección Tercera o de Administración, contendrá: todo lo relativo a administración, cuentas, su glosa y calificación; y,
-
-IV. Sección Cuarta o de Partición; contendrá: el proyecto de distribución provisional de los productos de los bienes hereditarios, el de partición, los incidentes conexos y los convenios, resoluciones y aplicación de los bienes.
-
-Los procedimientos de las secciones segunda y cuarta son comunes para todos los juicios.
-
-Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y a la vez desempeñe el cargo de albacea.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 947.
 
-Radicado el juicio sucesorio se dará información pública de él. Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, de diez en diez días, convocando a todos los que se consideren con derecho a la herencia y a los acreedores, para que se presenten en el juicio a deducirlos. Los edictos se publicarán en el Boletín Judicial y en uno de los periódicos de mayor circulación o de ser posible en otros medios de difusión. Si el juicio no se radicó en el lugar del último domicilio del finado, también se publicarán en él los edictos.
-
-Si el valor del activo de la sucesión no excediere de mil veces el salario mínimo general diario vigente en la región, no se hará publicación de edictos y sólo se fijarán éstos en los estrados del Juzgado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO II. Testamentarías
 
 ###### Artículo 948.
 
-Necesidad de un testamento válido para la apertura de la testamentaría. La herencia testamentaria se abre cuando hay testamento válido otorgado de acuerdo con las formalidades establecidas por la Ley. Si el testador dispone sólo de una parte de sus bienes, por el resto se abrirá la sucesión intestada, tramitándose conjuntamente y bajo la común representación del albacea testamentario.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 949.
 
-Radicación del juicio testamentario, convocatoria de junta a los interesados y nombramiento de albacea. El que promueve el juicio de testamentaría debe presentar el testamento del difunto. El Juez, cumplidos los requisitos legales lo tendrá por radicado, y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento, se les dé a conocer, y si no lo hubiere, procedan a elegirlo con arreglo a lo prescrito en el Código Civil y en el artículo 962 de este Código.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 950.
 
-Citación de los herederos por edictos o por exhorto. La citación de los herederos cuyo domicilio se ignore, se hará por edictos, y los que lo tuvieren fuera del lugar del juicio serán citados por exhorto.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 951.
 
-Citación al tutor de herederos menores o incapaces y su designación. Si hubiere herederos menores o incapacitados que tengan tutor, el Juez mandará citar a éste para la junta.
-
-Si los herederos menores no tuvieren tutor, el Juez dispondrá que lo nombren con arreglo a derecho como se previene en el artículo 939 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 952.
 
-Citación del Ministerio Público. Se citará también al Ministerio Público para que represente a los herederos cuyo paradero se ignore, y a los que habiendo sido citados no se presentaren. Luego que comparezcan los herederos y ausentes cesará la representación del Ministerio Público.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 953.
 
-Incompatibilidad de intereses entre tutor o representante de un menor o incapacitado. Tutor especial. Si el tutor o cualquier representante legítimo de algún heredero menor o incapacitado tiene interés en la herencia, le proveerá el Juez con arreglo a derecho de un tutor especial para el juicio o hará que lo nombre, si tuviere edad para ello, la intervención del tutor especial se limitará sólo a aquello en que el propietario o representante legítimo tenga incompatibilidad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 954.
 
-Junta para nombrar interventor por los herederos. En la junta prevenida por el artículo 949, de este Código, podrán los herederos nombrar interventor conforme al Código Civil, y se nombrará como lo reglamenta el numeral 937 de este Ordenamiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 955.
 
-Determinación del procedimiento acorde con el tipo de testamento. La testamentaría deberá tramitarse con sujeción al testamento, siempre que tenga los requisitos legales necesarios para su validez. Si se trata de testamento público cerrado, o de testamento ológrafo, de testamento privado, de testamento militar o marítimo o de testamento otorgado en el extranjero, se procederá previamente de acuerdo con lo señalado por los artículos siguientes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 956.
 
-Procedimiento cuando se trate de testamento público cerrado. Si se presenta un testamento público cerrado, el Juez hará comparecer al Notario y a los testigos que concurrieron a su otorgamiento, y procederá en la forma prevista en el Código Civil.
-
-Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga y será citado y asistirá a la diligencia el Ministerio Público. Cumplido lo anterior, el Juez decretará la publicación y protocolización del testamento, haciendo que firmen al margen las personas que hayan intervenido en la diligencia con el Juez y secretario, y se le pondrá el sello del juzgado, asentándose acta de todo ello.
-
-El testamento cerrado quedará sin efecto cuando se encuentre roto el pliego interior o abierto el que forme la cubierta, o raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
-
-Para la protocolización del testamento cerrado se preferirá la notaría del lugar en que haya sido abierto, y si hubiere varias, la que designe el promovente.
-
-Si se presentaren dos o más testamentos cerrados de una misma persona, de la misma o de diversa fecha, el Juez procederá respecto a cada uno de ellos como se previene en este artículo, y los hará protocolizar en un mismo oficio para los efectos a que haya lugar, en los términos previstos por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 957.
 
-Trámite del testamento ológrafo. A solicitud de parte interesada o de oficio, cuando un Juez tenga noticia de que el autor de la herencia depositó un testamento ológrafo, como lo dispone el Código Civil, dirigirá oficio al encargado del Registro Público de la Propiedad en que hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad. Recibido el pliego, procederá el Tribunal como lo dispone el Código Civil.
-
-Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastantes sus declaraciones, el Juez nombrará perito que la confronte con las indubitables que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 958.
 
-Secuela para el testamento privado. A instancia de parte legítima formulada ante el juzgado del lugar en que se haya otorgado, puede declararse formal el testamento privado de una persona, sea que conste por escrito o sólo de palabra, según lo previene el Código Civil. Para hacer esta declaración, se observarán las siguientes reglas:
-
-I. Es parte legítima la que tuviere un interés en el testamento o el que hubiere recibido algún encargo del testador;
-
-II. Hecha la solicitud, se señalará día y hora para el examen de los testigos que hayan concurrido al otorgamiento. Para la información, se citará al representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad;
-
-III. Los testigos declararán al tenor del interrogatorio respectivo, que se sujetará estrictamente a lo dispuesto por el Código Civil; y,
-
-IV. Recibidas las declaraciones, el Juez procederá en los términos del Código Civil.
-
-De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 959.
 
-Del testamento militar. Luego que el Juez reciba por conducto de la Secretaría de la Defensa Nacional, el parte respectivo, citará a los testigos que estuvieren en el lugar, y respecto a los ausentes mandará exhorto al del lugar donde se hallen, cumpliéndose en los términos que dispone el Código Civil.
-
-De la declaración judicial se remitirá copia autorizada al Secretario de la Defensa Nacional, y en lo demás se aplicarán las reglas conducentes del artículo que antecede.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 960.
 
-Hipótesis del testamento marítimo. Cuando el autor de la herencia fallezca en el mar o dentro de quince días contados desde su desembarque en algún puerto, donde, en consonancia con la Ley mexicana o extranjera, haya podido ratificar u otorgar su última disposición; el testamento, remitido por las autoridades marítimas a la Secretaría de Marina, o por los agentes diplomáticos o consulares, a la Secretaría de Relaciones Exteriores, seguirá el trámite dispuesto para el testamento militar en los artículos conducentes de este Código.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 961.
 
-Petición del testamento otorgado en el extranjero a la Secretaría de Relaciones Exteriores. Hechas las publicaciones respectivas que ordena el Código Civil, podrán los interesados ocurrir al Tribunal competente para que pida a la Secretaría de Relaciones Exteriores la remisión del testamento extranjero o se dirigirán directamente a ésta que lo envíe.
-
-Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público de la Propiedad tomará razón en el libro correspondiente como lo dispone el Código Civil, asentándose acta en que se hará constar haber recibido el pliego por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás, se obrará como lo dispone el Código Civil.
-
-Ante el juzgado competente se procederá con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esa clase de testamento otorgado en el país.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 962.
 
-Auto de radicación y convocatoria a junta de herederos. Presentado el testamento y cumplidos los requisitos de que hablan los artículos anteriores, se dictará auto de radicación. En los juicios testamentarios el auto de radicación contendrá además el mandamiento para que se convoque a los interesados y al Ministerio Público a una junta que se verificará dentro de los ocho días siguientes de la citación si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera de la sede del juicio, el Juez señalará el plazo que crea prudente, atendidas las distancias.
-
-La junta tendrá por objeto:
-
-I. Dar a conocer a los herederos el albacea testamentario si lo hubiere, o proceder a su designación con arreglo a lo dispuesto en el Código Civil;
-
-II. El reconocimiento, como herederos, de los nombrados en el testamento si éste no fuere objetado ni se objetare la capacidad legal de alguno;
-
-III. La designación de interventor en los casos que previene el artículo 937 de este Código;
-
-IV. La declaración de apertura de la sucesión legítima, si el testador hubiere dispuesto en el testamento de sólo parte de sus bienes;
-
-V. Discutir las demás cuestiones que en la junta sometan los interesados;
-
-VI. La designación, para los herederos menores o incapacitados, de tutor o representante cuando así proceda.
-
-A la junta serán citados los herederos nombrados en el testamento, el albacea testamentario, si lo hubiere, el Ministerio Público, el cónyuge supérstite o en su caso la concubina o el concubino y los ascendientes o descendientes del causante.
-
-La citación se hará por cédula o correo certificado. Si no se conociere el domicilio de los herederos, según lo ordena el artículo 950 de este Código, se les citará por medio de un edicto que se publicará en un diario de los de mayor circulación y en el Boletín Judicial; además, se fijará en los estrados del juzgado. Si el lugar de radicación no fuere el del último domicilio del autor de la herencia, también se publicará el edicto en éste. A los herederos cuyos domicilios se conozcan y que no radiquen en el lugar del juicio, se les citará por conducto de su representante legítimo. En todo caso, el Ministerio Público representará a los herederos cuyo paradero se ignore y a los que habiendo sido citados no se presenten, la representación del Ministerio Público cesará luego que se presenten los herederos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 963.
 
-Designación del albacea y resolución de objeciones al testamento. En la junta de herederos se dará a conocer a éstos el albacea nombrado, y el Juez reconocerá como tales a los que estén nombrados en las porciones que les correspondan, si el testamento no es objetado, ni tampoco la capacidad de los designados. En la misma junta, si no hubiere albacea testamentario o éste no aceptare su cargo, se procederá a su designación, y en su caso a la del interventor. Si el testamento fuere objetado en la junta por alguno de los herederos nombrados o por algún heredero con derecho a la sucesión legítima, en cuanto a su validez, o si se alegare sobre la capacidad para heredar de alguno de los nombrados, el Juez dictará resolución que tendrá el carácter de provisional, mientras se sustancia por separado el juicio ordinario correspondiente con el albacea o herederos afectados. La objeción no suspenderá los trámites del juicio sucesorio, sino sólo en la adjudicación de los bienes.
-
-Las cuestiones que no afectan la validez del testamento o la capacidad para heredar sino sólo su inoficiosidad, conforme lo establece el Código Civil, se decidirán en la audiencia y serán apelables las resoluciones respectivas sólo en el efecto devolutivo.
-
-Una vez celebrada la audiencia y dictadas las resoluciones que corresponda, los trámites del juicio testamentario serán los mismos que los establecidos por los artículos de este Código respecto a las secciones de inventarios, administración y partición.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO III. Intestamentarias
 
 ###### Artículo 964.
 
-Cuándo tiene lugar la denuncia de un juicio sucesorio intestamentario. La intestamentaria tiene lugar cuando no hay testamento o el que se otorgó es nulo o perdió su validez y en los demás casos previstos por el Código Civil.
-
-La denuncia de un intestado podrá hacerse por el Ministerio Público, o por cualquiera persona aunque no sea presunto heredero.
-
-Si la denuncia se hiciere por un presunto heredero o por un extraño, tendrán obligación de expresar bajo protesta de decir verdad los nombres de los demás coherederos con expresión de su domicilio y de si son o no capaces. La omisión de este requisito hará que se tenga por no hecha la denuncia y que se dé conocimiento al Ministerio Público para los efectos a que hubiere lugar.
-
-Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, concubina o concubino, ascendientes o colaterales dentro del cuarto grado, el Juez mandará fijar edictos anunciando la muerte de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 965.
 
-Derecho a heredar por sucesión legítima. El derecho a heredar por sucesión legítima debe comprobarse en la forma siguiente:
-
-I. Los descendientes, ascendientes y cónyuge, mediante la presentación de los certificados del Registro Civil que acrediten la relación. Deben declarar además, bajo protesta de decir verdad, cuáles otros parientes del autor de la sucesión existen dentro de los mismos grados. El cónyuge, o la concubina o el concubino, según el caso, si no existen descendientes o ascendientes, debe declarar, además, si existen colaterales;
-
-II. El adoptante o adoptado debe exhibir una copia del acta de adopción y hacer además la declaración a que se refiere el artículo anterior;
-
-III. Los colaterales acreditarán su relación con el causante con las partidas del Registro Civil correspondiente y además con información testimonial de que no existen ascendientes o descendientes o cónyuge del finado o que se encuentren en algunos de los casos de herencia concurrente a que se refiere el Código Civil; y,
-
-IV. La concubina o el concubino acreditará su carácter mediante las pruebas escritas que pueda exhibir y además con informaciones de testigos que se recibirán con citación del Ministerio Público y herederos afectados. No se admitirá promoción de los concubinos y si la hicieran se mandará devolver, cuando apareciere que existe cónyuge legítimo.
-
-Cuando no fuere posible por alguna circunstancia comprobar el parentesco mediante el certificado correspondiente del Registro Civil, se hará en la forma que determine el Código Civil. Además, para el reconocimiento de los derechos a la sucesión legítima podrá admitirse la conformidad expresa de los demás herederos afectados, respecto de alguno que no tenga comprobado su entroncamiento, siempre que sea unánime y quienes la manifiesten hayan comprobado su vínculo con el autor de la herencia en forma legal. El heredero así admitido tendrá los derechos que le correspondan según el grado de parentesco que se le reconozca para participar de la herencia. Las oposiciones que se presenten se decidirán en la junta de herederos pudiendo recibirse previamente las pruebas que ofrezcan los oponentes, con citación de los demás interesados.
-
-Los que comparezcan deduciendo derechos hereditarios deben expresar el grado de parentesco o lazo, justificándolo con los documentos correspondientes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 966.
 
-Justificación de derecho a herederos. Los que se crean con derecho a la herencia legítima deben justificar su parentesco o lazo con el autor de la herencia en cualquier tiempo hasta antes de la celebración de la junta de herederos y aun en ésta; pero la información de testigos y demás pruebas que ofrezcan los colaterales y el vinculado por concubinato deben recibirse precisamente antes de la celebración.
-
-Después de celebrada la junta de herederos, los que se presenten posteriormente deduciendo derechos hereditarios serán admitidos hasta antes de la adjudicación si los comprueban y los demás interesados están conformes. En caso contrario no serán admitidos, pero les queda a salvo su derecho para hacerlo valer en juicio ordinario contra los que fueron declarados herederos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 967.
 
-Radicación del intestado y convocatoria a los que se crean herederos. Si el Juez encuentra arreglada a derecho la denuncia, y ésta se acompaña de los documentos necesarios, dictará auto de radicación en los términos del artículo 962 de este Ordenamiento. En el auto de radicación se proveerá además lo siguiente:
-
-I. Mandará notificar la radicación a las personas señaladas como ascendientes, descendientes y cónyuge o en su caso la concubina o el concubino o en su defecto parientes colaterales dentro del cuarto grado, para que justifiquen sus derechos a la herencia y nombren albacea, haciéndoles saber el nombre del finado con las demás particulares que lo identifiquen y la fecha y lugar del fallecimiento;
-
-II. Mandará pedir informes al archivo de notarías y al Registro Público de la Propiedad sobre si aparece que el autor de la herencia hubiere otorgado testamento;
-
-III. Mandará recibir información testimonial supletoria cuando aparezca que sólo existen herederos colaterales o concubina o concubino; y,
-
-IV. Citará a los herederos y al Ministerio Público a una junta que se celebrará dentro de los treinta días siguientes para que en ella justifiquen sus derechos a la sucesión legítima los que no lo hubieren hecho antes, se haga la declaración de herederos y se designe albacea o interventor en su caso.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 968.
 
-Celebración de la junta de herederos. La junta de herederos se celebrará en la fecha fijada procediéndose en la forma siguiente:
-
-I. Se hará constar por la secretaría si se hicieron oportunamente las citaciones y publicaciones de que hablan los artículos anteriores, y sólo se suspenderá si no se hubiere cumplido con estos requisitos;
-
-II. La falta de informes del archivo de notarías y del Registro Público de la Propiedad sobre los testamentos que hubiere otorgado el autor de la herencia, no suspenderá la junta, si se comprobare que se pagaron previamente los derechos por la expedición de los certificados, sin perjuicio de que se sobresea el intestado cuando aparezca que se otorgó el testamento;
-
-III. Se recibirán los documentos que exhiban los interesados para justificar sus derechos y se dará cuenta con los que existan en el expediente. El Ministerio Público representará a los herederos ausentes y menores; y,
-
-IV. En seguida (sic), el Juez hará la declaratoria de herederos, de acuerdo con los justificantes que se hubieren presentado y conforme a las reglas del Código Civil sobre sucesión legítima;
-
-V. Se proveerá de tutor a los menores e incapacitados que no lo tuvieren;
-
-VI. Una vez hecha la declaratoria de herederos, los reconocidos procederán al nombramiento de albacea de acuerdo con las reglas del Código Civil. Para hacer este nombramiento, el Ministerio Público representará a los herederos que no concurran y a los menores que no tuvieren tutor;
-
-VII. Si no se hubiere presentado ningún aspirante a la herencia o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredera la Asistencia Pública. En este caso, se designará interventor o continuará en su cargo el que hubiere sido nombrado antes, mientras la Asistencia Pública hace designación de albacea;
-
-VIII. Se mandarán entregar al albacea los bienes sucesorios y los libros y papeles una vez que hubiere aceptado su cargo, sin perjuicio de lo dispuesto en el Código Civil. Si hubiere interventor cesará en su cargo y rendirá cuentas al albacea; y,
-
-IX. Si hubiere viuda encinta se adoptarán las precauciones que señala el Código Civil y se reservarán los derechos del hijo póstumo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 969.
 
-Oposición entre herederos. Las oposiciones que se susciten entre uno o varios aspirantes, antes o en la junta de herederos, serán decididas por el Juez en ésta y la resolución que se dicte será apelable en el efecto devolutivo, pero sin que pueda hacerse adjudicación hasta que la apelación esté decidida.
-
-Las impugnaciones que se presenten después se tramitarán en juicio sumario en el que el Ministerio Público tendrá intervención.
-
-Si fueren dos o más los aspirantes a la herencia y no estuvieren conformes en sus pretensiones, los impugnadores harán de demandantes y los impugnados de demandados, pudiendo los que hagan causa común formular sus pretensiones y defensas en un mismo escrito y bajo representante común.
-
-El Juez, pasados cinco días, pronunciará sentencia.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 970.
 
-Efectos de la declaración de herederos. La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y pretensiones del difunto a la persona en cuyo favor se hizo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 971.
 
-Designación de albacea. Cuando todos los interesados estén conformes o el heredero sea único, podrán renunciar a la junta y hacer por escrito la designación de albacea. El heredero único será siempre nombrado albacea.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 972.
 
-Sentencia declaratoria de herederos y nombramiento de albacea. En la sentencia el Juez declarará herederos a los que hubieren justificado su parentesco con el autor de la sucesión; y, si ninguno lo hubiere justificado declarará heredera a la Asistencia Pública, según señala el artículo 968 de este Ordenamiento.
-
-En la misma sentencia se resolverá quién es el albacea, que será nombrado por el Juez de entre los herederos declarados, si ninguno hubiere obtenido mayoría de votos. Si la asistencia pública fuere el heredero, su representante será nombrado albacea.
-
-La sentencia será apelable en el efecto suspensivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IV. Inventario y avalúo
 
 ###### Artículo 973.
 
-Requerimientos que debe llenar el inventario. El inventario que se practique por el albacea para presentarse en un procedimiento sucesorio, debe contener:
-
-I. Una lista completa de los bienes que formen el activo de la sucesión, dando una descripción de los mismos y de los títulos, registros y demás documentos que amparen su propiedad. Si en el activo figuraren algunos bienes o créditos litigiosos, deberá expresarse esta circunstancia, las particulares del juicio que se siga y la causa del pleito. Si en el activo figuraren algún interés o participación en sociedades, asociaciones o negocios, deberá expresarse el monto de ese interés o la cantidad que represente;
-
-II. Se proporcionará una lista de los bienes que el autor de la herencia tenía en su poder y que no le pertenecían, así como la parte de los del activo que corresponda a la sociedad conyugal o a la comunidad patrimonial del vínculo o los que estén en poder de la sucesión o de terceros que reporten algún gravamen;
-
-III. Mención de los frutos y productos que haya recibido la sucesión desde su apertura, con deducción de los gastos, para que se incluya el saldo líquido que existe en la fecha del inventario;
-
-IV. Una lista de las deudas que formen el pasivo de la sucesión, con expresión de los títulos o documentos que justifiquen este pasivo;
-
-V. Mención de cuál sea el caudal líquido hereditario; y,
-
-VI. El avalúo de los bienes se verificará simultáneamente con el inventario, cuando esto sea posible.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 974.
 
-Inventario extrajudicial. El inventario se podrá hacer extrajudicialmente, y para practicarlo no se requerirá licencia especial o determinación del Juez, excepto en los casos en que conforme a la Ley debe practicarse inventario solemne.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 975.
 
-Inventario solemne. El inventario solemne se practicará con intervención de un notario público o del actuario del juzgado, sin perjuicio de que el Juez pueda concurrir a su formación. Deberá practicarse inventario solemne en los siguientes casos:
-
-I. Si la mayoría de los herederos y legatarios lo piden;
-
-II. Si la mayoría de los herederos la constituyen menores; y,
-
-III. Cuando tuvieren interés como herederos o legatarios instituciones de beneficiencia (sic), instrucción, acción social o profesionales, sean de carácter público o privado.
-
-Cuando deba practicarse inventario solemne se señalará día y hora para la diligencia o diligencias de formación y se citará previamente para que concurran al cónyuge o en su caso, al vinculado que sobreviva y a los herederos, acreedores y legatarios que se hubieren presentado. El acta o actas que se levanten serán firmadas por todos los concurrentes que quisieren hacerlo, y en ellas se expresará cualquier inconformidad que se manifestare, designando los bienes cuya inclusión o exclusión se pida.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 976.
 
-Tiempo para exhibir el inventario. El inventario podrá presentarse en cualquier tiempo desde la apertura de la sucesión, pero en todo caso deberá quedar exhibido dentro de los quince días siguientes a la fecha en que el albacea haya aceptado su cargo. Si se practica antes de la designación del albacea, deberán firmarlo conjuntamente todos los herederos que se hubieren presentado en el juicio. En caso de que exista ya albacea, el inventario deberá ser firmado precisamente por éste, y además, por el cónyuge, supérstite, herederos y acreedores que deseen hacerlo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 977.
 
-Inventario suscrito por los interesados. Si se presenta el inventario suscrito por todos los interesados, se aprobará de plano. La aprobación del inventario se entenderá siempre hecha a reserva de que si aparecieren nuevos bienes o deudas no listados, se agreguen al mismo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 978.
 
-Procedimiento cuando el inventario no está suscrito por todos los interesados. Si el inventario no lo suscriben todos los interesados, se dará vista de él por seis días comunes a los que no lo suscriben, para que manifiesten si están o no conformes con él. Si transcurriere el plazo sin haberse hecho oposición, el Juez lo aprobará de plano.
-
-Si se dedujese oposición contra el inventario o avalúo, se tramitará en la vía incidental. Para dar curso a la oposición será indispensable que el que la haga exprese concretamente si la oposición se dirige contra el avalúo, cuál es el valor que se atribuye a cada uno de los bienes, y cuáles son las pruebas que se invocan como base de objeción al inventario. Si se objeta la inclusión o exclusión de algún bien, deberán expresarse los motivos o títulos que existen para ello, y proponerse junto con la oposición las pruebas que deseen ofrecerse.
-
-La oposición se sustanciará citando a las partes para una audiencia, en la que se reciban las pruebas y alegatos. Si los que dedujeron la oposición no asisten a la audiencia, se les tendrá por desistidos. Si los peritos que practicaron el avalúo no asisten, el Juez les impondrá una medida disciplinaria y designará sustitutos. Si los reclamantes fueren varios o idénticas sus oposiciones, podrán nombrar representante común. Si las reclamaciones tuvieren por objeto impugnar simultáneamente el inventario y el avalúo, una misma resolución decidirá las dos oposiciones.
-
-Los gastos del inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 979.
 
-Efectos de la aprobación del inventario. El inventario hecho por el albacea o por algún heredero o herederos aprovecha a todos los interesados, aunque no hayan sido citados, incluso los sustitutos y los que hereden por intestado.
-
-El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
-
-Aprobado el inventario por el Juez o por el consentimiento de todos los interesados no puede reformarse sino por error o dolo declarados por sentencia pronunciada en juicio sumario; pero siempre se entenderá aprobado con la reserva de que si aparecieren nuevos bienes o deudas, se agreguen como corresponda.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 980.
 
-Práctica del avalúo con base en Leyes fiscales. El avalúo se practicará de acuerdo con las reglas establecidas en el artículo 982 de este Código y sujetándose a lo que al efecto dispongan las leyes fiscales. Si el practicado conforme a las leyes fiscales no fuere satisfactorio para los herederos, por no corresponder al valor comercial de los bienes, deberá practicarse de común acuerdo otro que sirva de base para la partición.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 981.
 
-Remoción del albacea que no presente el inventario. Si pasado el plazo a que se refiere el artículo 976 de este Ordenamiento, el albacea no concluye ni presenta el inventario, será removido de plano, y cualquier heredero podrá promover la formación del inventario.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 982.
 
-Reglas para practicar el avalúo. Los avalúos serán practicados de acuerdo con las siguientes bases, que servirán de norma a los jueces para aprobarlos:
-
-I. Los valores en monedas extranjeras se estimarán tomando en cuenta el tipo de cambio determinado por el Banco de México, y a falta de éste el que publique la Secretaría de Hacienda y Crédito Público;
-
-II. Las alhajas serán valorizadas de acuerdo con dictamen pericial o en la suma en que estén aseguradas;
-
-III. Los demás muebles que no están asegurados; se estimarán por avalúo pericial;
-
-IV. Los valores serán estimados de acuerdo con la cotización en Bolsa. En defecto de estos datos, se ocurrirá al avalúo pericial;
-
-V. Para el de bienes inmuebles se tendrá en cuenta su valor comercial fijado por institución bancaria;
-
-VI. Los establecimientos mercantiles o industriales, y la participación en las utilidades de una sociedad, se valorizarán tomando en cuenta los datos del activo y pasivo de la contabilidad en la fecha del fallecimiento del causante, o el balance practicado en relación con la misma época; y,
-
-VII. Los créditos activos serán listados por su valor nominal; pero los interesados tendrán derecho a que se les deduzca la cantidad que dejen de cobrar, debiéndose hacer lo mismo que en los casos de quiebra del deudor. También tendrán derecho a que se deduzca el monto del crédito cuando éste sea litigioso y se pronuncie sentencia absolutoria para el deudor o cuando al practicarse embargo a éste, se encuentre que carece de bienes, o cuando los interesados convengan en retirar de los inventarios el crédito de que se trata. Si se recobra total o parcialmente una deuda castigada en los términos que anteceden, deberá incluirse el valor de la cantidad recobrada en los inventarios o presentarse un inventario adicional.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 983.
 
-Excepción de avalúo por expertos designados por los herederos o el albacea. El Juez podrá autorizar, que por la complejidad de la materia del avalúo, los peritos sean designados de común acuerdo por los herederos y el albacea y si no se pudiere lograr dicho acuerdo, se estará al designado por el albacea. Los honorarios del perito así designado serán con cargo a la herencia.
-
-Si algún heredero deseare nombrar un perito distinto, los honorarios serán por su cuenta.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 984.
 
-Práctica simultánea de inventario y avalúo. El inventario y avalúo se harán simultáneamente, excepto cuando sea urgente practicar el primero para asegurar los bienes y en el lugar no haya peritos competentes, y en los demás casos en que de hecho no sea posible.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 985.
 
-Oposición a los avalúos. La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en este Capítulo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO V. Administración
 
 ###### Artículo 986.
 
-Posesión y administración de los bienes de la sociedad conyugal por el cónyuge supérstite. El cónyuge supérstite tendrá la posesión y administración de los bienes de la sociedad conyugal con intervención del albacea en su caso, conforme a lo dispuesto por el Código Civil, y será puesto en ella en cualquier momento en que la pida, aunque antes la haya tenido el albacea u otra persona, sin que por esto pueda suscitarse cuestión alguna.
-
-Contra el auto que otorgue la posesión y administración al cónyuge, no se admitirá recurso; contra el que lo niegue, procede el recurso de queja.
-
-En el caso de que trata este artículo, la intervención del albacea se concretará a vigilar la administración del cónyuge y en cualquier momento en que observe que no se hace convenientemente, dará cuenta al Juez, quien citará a ambos a una audiencia para dentro de los tres días siguientes, y dentro de otros tres resolverá lo que proceda.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 987.
 
-Administración del albacea judicial. La administración de los bienes estará a cargo del albacea judicial, en el caso de que no haya heredero nombrado o éste no entre en la herencia y se haya designado por el Juez albacea en los términos dispuestos por el Código Civil.
-
-El albacea así nombrado cesará en la administración cuando habiéndose declarado herederos legítimos, éstos hagan la elección.
-
-El albacea judicial tendrá los mismos honorarios que se fijan para el interventor en el artículo siguiente, y así mismo le son aplicables las demás disposiciones relativas al interventor.
-
-Respecto a la administración por el albacea se tendrán en cuenta las siguientes reglas:
-
-I. Se regirá en los términos del Código Civil;
-
-II. Durante la sustanciación del juicio sucesorio no se podrán enajenar los bienes inventariados, sino en los casos previstos por el Código Civil, cuando los bienes puedan deteriorarse, cuando sean de difícil y costosa conservación, y cuando para la venta de los frutos se presenten condiciones ventajosas;
-
-III. Los libros de cuentas y papeles del difunto se entregarán al albacea y, hecha la partición, a los herederos reconocidos, observándose respecto a los títulos, lo dispuesto en el Capítulo siguiente. Los demás papeles quedarán en poder del que haya desempeñado el albaceazgo; y,
-
-IV. El albacea será removido de plano en los siguientes casos:
-
-a) Si no caucionare su manejo dentro del plazo legal, en los casos en que esté obligado a hacerlo;
-
-b) Si no presentare el inventario dentro del plazo legal;
-
-c) Si no presentare el proyecto de partición dentro del plazo legal o dentro de la prórroga que le concedan los interesados por mayoría de votos;
-
-d) Cuando no haga la manifestación para que se nombre a la persona encargada de hacer la partición, dentro de los cinco días que sigan a la aprobación del inventario;
-
-e) Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios dentro de los quince días siguientes a la aprobación del inventario;
-
-f) Cuando no rinda cuentas dentro de los primeros diez días de expirado cada bimestre; y,
-
-g) Cuando durante dos bimestres consecutivos sin justa causa deje de cubrir a los herederos o legatarios las porciones o frutos correspondientes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 988.
 
-Atribuciones del interventor. Las funciones del interventor se regirán por lo siguiente:
-
-I. Recibirá los bienes por inventario y tendrá el carácter de simple depositario, sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieran al pago de los impuestos y de las deudas mortuorias;
-
-II. En casos urgentes, podrá intentar las demandas que tengan por objeto recobrar bienes o hacer efectivos derechos pertenecientes a la sucesión y contestar las demandas que contra ella se promuevan debiendo dar inmediatamente cuenta al Juez de su actuación para que la apruebe o la impida;
-
-III. En los casos en que no sea urgente, y para ejecutar los actos a que se refiere la fracción anterior, el interventor deberá solicitar autorización judicial. La falta de autorización judicial al interventor en ningún caso podrá ser invocada por terceros;
-
-IV. El interventor no puede deducir en juicio las pretensiones que por razón de mejoras, manutención o reparación tenga contra la sucesión, sino cuando haya hecho estos gastos con autorización previa;
-
-V. El interventor percibirá, por concepto de honorarios, el uno por ciento del importe de los bienes; y,
-
-VI. La correspondencia que venga dirigida al difunto no podrá ser abierta por el interventor, sino que se abrirá en presencia del Juez en los periodos que se señalen, según las circunstancias. El interventor recibirá la que tenga relación con el caudal hereditario, previa relación que se haga en autos, y el Juez conservará la restante para darle en su oportunidad el destino que corresponda.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 989.
 
-Entrega de bienes a la Asistencia Pública por falta de herederos de la sucesión. Si se hubiere declarado heredero a la Asistencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con ella. Los demás se archivarán con los autos de intestado en un pliego cerrado y sellado, cuya cubierta rubricarán el Juez, el representante del Ministerio Público y el secretario del juzgado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 990.
 
-Obligación de rendir cuentas por el administrador de la herencia. Cualquiera de las personas que haya tenido la administración de la herencia, está obligada a rendir una cuenta bimestral, pudiendo el Juez exigir de oficio el cumplimiento de este deber.
-
-Serán aplicables a la rendición de cuentas, las reglas siguientes:
-
-I. Las cantidades que resulten líquidas se depositarán a disposición del Juzgado en el establecimiento destinado por la ley;
-
-II. La garantía otorgada por el interventor y el albacea no se cancelará sino hasta que haya sido aprobada la cuenta general de administración;
-
-III. Cuando el que administre no rinda su cuenta, dentro del plazo legal, será removido de plano;
-
-IV. También podrá ser removido a juicio del Juez y a solicitud de cualquiera de los interesados cuando alguna de las cuentas no fuere aprobada en su totalidad por ocultación u otro hecho que implique mala fe del que administre; o si la falta de aprobación se debe a otra causa, o no se deposita el faltante en un plazo de tres días;
-
-V. Cuando no alcancen los bienes para pagar las deudas líquidas, el albacea debe dar cuenta de esta circunstancia a los acreedores y liquidadores;
-
-VI. Concluídas las operaciones de liquidación dentro de los ocho días siguientes presentará el albacea su cuenta general de albaceazgo; si no lo hace, se le apremiará por los medios legales, siendo aplicables las reglas de la ejecución forzosa;
-
-VII. Presentada la cuenta bimestral o general de administración, se mandará poner en la secretaría a disposición de los interesados, por un plazo de diez días, para que se impongan de ella;
-
-VIII. Si todos los interesados aprobaren la cuenta, o no la objetaren, el Juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero para que se dé curso a la objeción, se requerirá que la causa de ésta se precise; y,
-
-IX. El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VI. Liquidación y partición
 
 ###### Artículo 991.
 
-Obligación del albacea de presentar un proyecto de distribución de los productos de los bienes hereditarios. Dentro de los quince días siguientes a la aprobación del inventario, el albacea presentará al juzgado un proyecto para la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada mes deberá entregarse a los herederos y legatarios, en proporción a su haber. Las (sic) distribución de los productos se hará en efectivo o en especie.
-
-Presentado el proyecto, mandará el Juez ponerlo a la vista de los interesados por cinco días, y si están conformes o si nada exponen dentro de ese plazo, el Juez lo aprobará y mandará abonar a cada uno la porción que le corresponde.
-
-La inconformidad expresa se sustanciará en forma incidental.
-
-Cuando los productos de los bienes variaren de bimestre a bimestre, el albacea presentará su proyecto de distribución por cada uno de los periodos indicados. En este caso deberá presentarse el proyecto dentro de los primeros cinco días de cada bimestre.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 992.
 
-Proyecto de partición de la herencia. Dentro de los treinta días de aprobado el inventario, el albacea presentará el proyecto de partición de los bienes, en los términos en que lo dispone el Código Civil, y con sujeción a las reglas de este Capítulo.
-
-Si no estuviere en posibilidad de hacer por sí mismo la partición, lo manifestará al Juez dentro de los cinco días siguientes de aprobado el inventario, a fin de que se nombre contador público titulado o abogado que la haga.
-
-Los plazos a que se refiere este artículo podrán ser prorrogados hasta por un mes más, cuando los interesados se muestren unánimemente conformes.
-
-El albacea que no cumpla con esta obligación será removido de plano.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 993.
 
-Quiénes pueden pedir la partición de la herencia. Tienen derecho a pedir la partición de la herencia:
-
-I. Los herederos que tengan libre disposición de sus bienes, tan pronto como hayan sido aprobados los inventarios;
-
-II. Los herederos bajo condición, luego que se haya cumplido ésta;
-
-III. El cesionario de una herencia o el acreedor de un heredero que haya trabado ejecución en los derechos que tenga en la herencia, siempre que hubiere obtenido sentencia de remate y no haya otros bienes con qué hacer el pago;
-
-IV. Los coherederos del heredero condicional, siempre que se asegure el derecho de éste para el caso de que se cumpla la condición, hasta saber que ésta ha faltado, o no puede cumplirse ya, sólo por lo que respecta a la parte en que consista el derecho pendiente y a las cauciones con que se haya asegurado. El albacea o el contador o abogado partidor, en su caso, proveerá al aseguramiento del derecho pendiente; y,
-
-V. Los sucesores del heredero que muere antes de la partición.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 994.
 
-Designación del partidor sustituto. Cuando el albacea no haga la partición por sí mismo, promoverá dentro del quinto día de aprobado el inventario, la elección de un contador o abogado con título debidamente registrado, para que la efectúe. El Juez convocará a los herederos a junta, dentro de los tres días siguientes, para que se haga en su presencia la elección. Si no hubiere mayoría, el Juez nombrará partidor, eligiéndolo de entre los propuestos.
-
-El cónyuge aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El Juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa que fijará el propio juzgador atendiendo a la cuantía del caudal hereditario.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 995.
 
-Normas para elaborar el proyecto de división y partición de bienes. El albacea o partidor nombrado conforme a los artículos anteriores, formulará el proyecto de división y partición de los bienes, de acuerdo con las reglas siguientes:
-
-I. Pedirá a los interesados las instrucciones que estime necesarias, a fin de hacer las adjudicaciones de conformidad con ellos, en todo lo que estén de acuerdo, o de conciliar en lo posible sus pretensiones;
-
-II. Puede ocurrir al Juez pidiéndole que cite a los interesados a una junta, a fin de que en ella fijen de común acuerdo las bases de la partición. Este acuerdo se considerará como un convenio. Si no hubiera conformidad, la partición se sujetará a los principios legales;
-
-III. En todo caso, al hacerse la división se separarán los bienes que correspondan al cónyuge que sobreviva; conforme a las capitulaciones que regulan la sociedad conyugal;
-
-IV. El proyecto de partición siempre se sujetará a la distribución de parte que hubiere hecho el testador;
-
-V. A falta de convenio entre los interesados; se incluirán en cada porción bienes de la misma especie, si fuere posible; y,
-
-VI. Si hubiere bienes gravados, se especificarán los gravámenes, indicando el modo de redimirlos o dividirlos entre los herederos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 996.
 
-Aprobación del proyecto de partición y dictado de la sentencia. Concluído el proyecto de partición, el Juez lo mandará poner a la vista de los interesados por un plazo de diez días.
-
-Vencido el plazo sin hacerse oposición, el Juez aprobará el proyecto y dictará sentencia, mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el secretario, una nota en que se haga constar la adjudicación.
-
-Si entre los bienes del caudal hereditario, hubiere inmuebles, se mandará protocolizar el proyecto de división y partición y se ordenará su inscripción en el Registro Público de la Propiedad.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 997.
 
-Oposición al proyecto de partición. Si dentro del plazo de que habla el artículo anterior se dedujere oposición contra el proyecto de división, se sustanciará en forma incidental, procurando que si fueren varias las oposiciones, la audiencia sea común, y a ella concurran los interesados y el albacea o partidor, para que se discutan las cuestiones promovidas y se reciban pruebas.
-
-Para dar curso a la oposición, es indispensable que el que la haga exprese concretamente cuál es el motivo de la inconformidad y cuáles las pruebas que invoca como base de la misma.
-
-Si los que se opusieren dejaren de asistir a la audiencia, se les tendrá por desistidos.
-
-Además de los herederos que pueden oponerse en la forma que se indica en los párrafos anteriores, se concede derecho para que se opongan a que se lleve a efecto la partición:
-
-I. A los acreedores hereditarios legalmente reconocidos, mientras no se pague su crédito, si ya estuviere vencido, y si no lo estuviere, mientras no se les asegure debidamente el pago. Si el crédito es hipotecario o prendario y grava bienes determinados de la sucesión, no se admitirá la oposición, si los bienes pasan a los herederos a quienes se les haya adjudicado con el gravamen respectivo;
-
-II. A los legatarios de cantidad, de alimentos, de educación o de pensiones, mientras no se les pague o garantice legalmente el derecho.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 998.
 
-Derecho del legatario de cantidad. Todo legatario de cantidad tendrá derecho a pedir que se le pague, aplicándose bienes de la herencia, y a ser considerado como interesado en las diligencias de partición.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 999.
 
-Adjudicación de bienes hereditarios y otorgamiento de escritura de partición. La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía la Ley exige para su venta. El notario ante el que se otorgue la escritura, será designado por el albacea.
-
-La escritura de partición, cuando haya lugar a su otorgamiento, deberá contener, además de las inserciones conducentes del juicio sucesorio, lo siguiente:
-
-I. Los nombres, medidas y linderos de los predios adjudicados, con expresión de la parte que cada heredero o adjudicatario tenga obligación de devolver si el precio de la cosa excede al de su porción, o de recibir si le faltare alguna porción;
-
-II. La garantía especial que para la devolución del exceso constituya el heredero, en el caso de la fracción que precede;
-
-III. La enumeración de los muebles o cantidades repartidos;
-
-IV. Expresión de las cantidades que algún heredero quede reconociendo al otro, y la garantía que se haya constituido;
-
-V. Noticia de la entrega de los títulos de las propiedades adjudicadas o repartidas; y,
-
-VI. La firma de todos los interesados o la firma en rebeldía por el Juez.
-
-Respecto a la partición y sus efectos, se estará a lo dispuesto por el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1000.
 
-Sentencia de adjudicación. La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VII. Transmisión hereditaria del patrimonio familiar
 
 ###### Artículo 1001.
 
-Validez de la transmisión hereditaria del patrimonio familiar. Para que sean aplicables las disposiciones de este Capítulo en la transmisión hereditaria del patrimonio familiar, es necesario que se pruebe que éste se ha constituído de conformidad a lo dispuesto por la fracción XXVIII del artículo 123 de la Constitución General de la República y el Código Civil.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1002.
 
-Bases a que debe sujetarse la transmisión del patrimonio familiar. La transmisión hereditaria del patrimonio familiar se hará conforme a las siguientes reglas:
-
-I. Con la denuncia se acompañará la partida de defunción del autor de la herencia, los comprobantes de la constitución del patrimonio familiar y su registro, así como el testamento, si lo hubiere;
-
-II. Si consta en estos documentos quiénes son los miembros de la familia beneficiaria, el Juez hará desde luego la declaratoria de herederos. En caso contrario, se exhibirán los comprobantes de parentesco de los beneficiarios;
-
-III. El inventario y avalúo se practicará desde luego por el cónyuge que sobreviva o por el albacea, si estuviere designado, y en su defecto, por el heredero que sea de más edad, siempre que su aptitud física y mental se lo permita. No se requerirá que el avalúo vaya firmado por perito si al constituirse el patrimonio familiar consta el valor de los bienes;
-
-IV. Presentado el inventario, el Juez convocará a una junta a los interesados, nombrando en ella tutor especial a los menores que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el plazo de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
-
-V. Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio;
-
-VI. El acta o actas en que consten las adjudicaciones servirán de título a los interesados y deberán registrarse; y,
-
-VII. La transmisión de los bienes del patrimonio familiar estará exenta de impuestos en la medida que dispongan las leyes.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO VIII. Tramitación ante notarios
 
 ###### Artículo 1003.
 
-Requisitos cuando el testamento es público. Cuando todos los herederos fueren capaces y hubieren sido instituidos en un testamento público o privado declarado formal judicialmente, el albacea, si lo hubiere, y los herederos, exhibiendo la partida de defunción del autor de la herencia y un testimonio del testamento, se presentarán ante un notario para hacer constar que aceptan la herencia, que se reconocen sus derechos hereditarios, y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
-
-Si no hubiere albacea testamentario, los herederos podrán designarlo de común acuerdo en la misma acta.
-
-El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez en diez días, en el Periódico Oficial y en otro órgano de información local de los de mayor circulación, del Estado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1004.
 
-Condiciones para el trámite de intestamentarías ante notario. La tramitación de intestamentarías ante notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad o si hay menores que estuviesen debidamente representados lo pidan de común acuerdo y no exista controversia, sin perjuicio de lo que se dispone en el artículo siguiente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1005.
 
-Protocolización del inventario y el avalúo aprobados por los herederos. Ya se trate de testamentarias o de intestados, practicado el inventario por el albacea y estando conforme con él todos los herederos, lo presentarán al notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, conforme a lo ordenado por este Código.
-
-Los interesados, de común acuerdo, podrán practicar un avalúo distinto para los efectos de la partición.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1006.
 
-Protocolización del proyecto de partición de herencia. Formado por el albacea, con la aprobación de los herederos, el proyecto de partición de la herencia, lo exhibirán al notario, quien efectuará su protocolización. Lo dispuesto en este artículo es aplicable tanto a las testamentarias como a los juicios de intestado. El albacea rendirá cuentas a los herederos, haciéndose constar en el acta respectiva el resultado de las mismas, o mandándose éstas protocolizar.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1007.
 
-Separación de herederos del juicio. Cuando todos los herederos fueren mayores de edad y los menores estén debidamente representados y hubieren sido reconocidos judicialmente con tal carácter en un intestado, podrán separarse de los procedimientos judiciales y éste podrá seguirse tramitando con intervención de un notario de acuerdo con lo que se establece en este Capítulo.
-
-En la misma forma, los herederos en un juicio testamentario pueden separarse de la tramitación judicial y continuar la tramitación de la testamentaría ante un notario.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 1008.
 
-Suspensión del trámite por oposición de algún pretendiente a la herencia. Siempre que haya oposición de algún aspirante a la herencia, el notario suspenderá su tramitación y enviará testimonio de las actas que hubiere levantado a la autoridad judicial que corresponda, suspendiendo, entre tanto, la tramitación hasta que aquélla le comunique el resultado, debiendo entonces actuar en consecuencia.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
 # LIBRO NOVENO. De los procedimientos no contenciosos
 
@@ -8718,6 +7648,34 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo para los e
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Remítase el presente ordenamiento al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Este Código iniciará su vigencia el día primero de octubre de dos mil seis, una vez que se publique en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre y cuando que con su aplicación no se violen derechos adquiridos.
+
+CUARTO.- Se derogan del Código Procesal Civil vigente en el Estado de Morelos, los artículos del 285 al 294, del 341 al 345, del 774 al 1008, y todas las demás disposiciones del orden familiar contenidas en dicho ordenamiento, que se opongan al presente Código.
+
+QUINTO.- Todos los juicios terminados, así como sus efectos jurídicos, se rigen por la ley anterior.
+
+Respecto a la tramitación de los juicios pendientes, se observarán las siguientes prevenciones:
+
+I.- Tendrán plena validez y efecto los actos realizados conforme a las leyes derogadas.
+
+II.- Los asuntos contenciosos que se encuentren en trámite en primera y única instancia al entrar en vigor este Código, se sujetarán a las leyes anteriores, hasta dictarse sentencia. La tramitación de la apelación contra el fallo que se dicte en esos negocios pendientes, se sujetará a este Código.
+
+III.- La tramitación y resolución de las apelaciones pendientes al entrar en vigor este Código, se sujetarán a las leyes anteriores.
+
+IV.- Si para la interposición de un recurso o para el ejercicio de algún otro derecho en la tramitación de los negocios pendientes al expedirse este Código, estuviere corriendo algún término y el señalado en él fuere menor que el fijado en la ley anterior, se observará lo dispuesto en esta última.
+
+V.- Los procedimientos de ejecución forzosa y providencias cautelares, se sujetarán a este Código en el estado en que se encuentren; pero acomodándolos de manera que su aplicación no resulte retroactiva.
+
+Los juicios que se inicien a partir del día en que entre en vigor este Código se regularán plenamente por el mismo.
+
+SEXTO.- Los epígrafes que preceden a los artículos de este Código no tienen valor para su interpretación y no pueden ser citados con respecto al contenido y alcance de las normas civiles.
 
 ###### ARTÍCULO PRIMERO.
 
