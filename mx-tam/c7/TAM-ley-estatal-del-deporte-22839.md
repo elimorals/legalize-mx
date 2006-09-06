@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-del-deporte-22839"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2001-12-06"
+last_updated: "2006-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -63,7 +63,9 @@ Son autoridades en materia deportiva en el Estado:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Educación, Cultura y Deporte;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+II.- El Secretario de Desarrollo Social, Cultura y Deporte;
 
 III.- El Director General del Deporte;
 
@@ -123,6 +125,30 @@ V.- Los deportistas con discapacidad no serán objeto de discriminación, siempr
 
 VI.- Los deportistas con discapacidad dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 9º.
+
+El Estado, a través de la Secretaría de Desarrollo Social, Cultura y Deporte, en cumplimiento con los fines y propósitos que en materia deportiva señala la presente ley, llevará a cabo las siguientes acciones:
+
+I.- Contribuir al desarrollo integral de las personas para que ejerzan plenamente sus capacidades;
+
+II.- Estimular la práctica y la iniciación deportiva, además de normar la programación de competencias deportivas acordes con planes y programas educativos;
+
+III.- Intervenir en la formulación de programas de cooperación nacional e internacional en materia de deporte y educación física;
+
+IV.- Coordinar, organizar y fomentar la enseñanza y práctica de los deportes en el Estado, así como su participación en los torneos y justas deportivas de carácter nacional e internacional;
+
+V.- Fomentar, planear y coordinar la investigación en el campo del deporte y la educación física, regular la creación y funcionamiento de asociaciones y organismos deportivos de carácter público y privado;
+
+VI.- Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden deportivo con instituciones del ramo de la Federación, de los Estados y de otros países;
+
+VII.- Organizar el Sistema Estatal del Deporte, así como todo género de eventos deportivos oficiales, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado; y
+
+VIII.- Otorgar el Premio Estatal del Deporte, conforme a lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 9°.
 
 El Estado, a través de la Secretaría de Educación, Cultura y Deporte, en cumplimiento con los fines y propósitos que en materia deportiva señala la presente ley, llevará a cabo las siguientes acciones:
@@ -145,7 +171,7 @@ VIII.- Otorgar el Premio Estatal del Deporte, conforme a lo dispuesto en la Ley 
 
 ###### ARTICULO 10.
 
-La Secretaría de Educación, Cultura y Deporte se encargará de la promoción, fomento del deporte y la cultura física en el Estado, a través de la Dirección General del Deporte, teniendo además las siguientes facultades:
+La Secretaría de Desarrollo Social, Cultura y Deporte se encargará de la promoción, fomento del deporte y la cultura física en el Estado, a través de la Dirección General del Deporte, teniendo además las siguientes facultades:
 
 I.- Coordinar el Sistema Estatal del Deporte;
 
@@ -155,7 +181,7 @@ III.- Formular el Programa Estatal del Deporte, mismo que debe de contemplar el 
 
 IV.- Normar la participación de los deportistas representantes del Estado en competencias oficiales, estatales y nacionales;
 
-V.- Coordinar acciones de las dependencias y entidades de la administración publica estatal en lo relativo a investigación en ciencias y técnicas del deporte, así como a la medicina deportiva;
+V.- Coordinar acciones de las dependencias y entidades de la administración pública estatal en lo relativo a investigación en ciencias y técnicas del deporte, así como a la medicina deportiva;
 
 VI.- Establecer los programas de formación y capacitación en materia deportiva;
 
@@ -193,7 +219,9 @@ XXII.- Promover e incrementar, conforme a las previsiones presupuestales existen
 
 XXIII.- Convocar anualmente, además de a los eventos deportivos contemplados en el Programa Estatal del Deporte; y
 
-XXIV.- Las demás que esta ley determine y las que otras disposiciones legales confieran al Ejecutivo del Estado, por conducto de la Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XXIV.- Las demás que esta ley determine y las que otras disposiciones legales confieran al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, Cultura y Deporte.
 
 ###### ARTICULO 11.
 
@@ -213,9 +241,11 @@ El Ejecutivo del Estado y los Ayuntamientos promoverán las acciones necesarias 
 
 Las autoridades deportivas en el Estado integrarán el Sistema Estatal del Deporte, el cual tiene por objeto combinar las acciones, recursos y procedimientos de las instancias públicas y privadas con el fin de apoyar; impulsar, fomentar y desarrollar el deporte en el Estado.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 15.
 
-El Sistema Estatal del Deporte estará representado por un consejo, que será presidido por el titular de la Secretaría de Educación, Cultura y Deporte o quien éste designe y cuyos integrantes tendrán carácter honorífico.
+El Sistema Estatal del Deporte estará representado por un consejo, que será presidido por el titular de la Secretaría de Desarrollo Social, Cultura y Deporte o quien éste designe y cuyos integrantes tendrán carácter honorífico.
 
 ###### ARTICULO 16.
 
@@ -281,7 +311,7 @@ V.- Otorgar las facilidades necesarias para la realización de actividades depor
 
 VI.- Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones, entrenadores, investigadores y deportistas que se destaquen en la promoción, organización y práctica de las disciplinas que estén incorporadas al Sistema Estatal del Deporte; y
 
-VII.- Procurar tener, en la medida de su capacidad presupuestaria, un lugar destinado al homenaje de los deportistas mas destacados del Municipio.
+VII.- Procurar tener, en la medida de su capacidad presupuestaria, un lugar destinado al homenaje de los deportistas más destacados del Municipio.
 
 ###### ARTICULO 22.
 
@@ -443,9 +473,11 @@ Los organismos deportivos de naturaleza profesional, podrán integrarse al Siste
 
 ### CAPITULO VIII. DE LA INVESTIGACION Y CAPACITACION DEPORTIVA
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 54.
 
-La Secretaría de Educación, Cultura y Deporte coordinará e impulsará la investigación y el desarrollo tecnológico, así como la aplicación de los conocimientos científicos en materia deportiva; para lo cual, promoverá la formación, capacitación, actualización y certificación de recursos humanos en la enseñanza y práctica del deporte, mediante la operación del Sistema de Capacitación y Certificación para Entrenadores Deportivos.
+La Secretaría de Desarrollo Social, Cultura y Deporte coordinará e impulsará la investigación y el desarrollo tecnológico, así como la aplicación de los conocimientos científicos en materia deportiva; para lo cual, promoverá la formación, capacitación, actualización y certificación de recursos humanos en la enseñanza y práctica del deporte, mediante la operación del Sistema de Capacitación y Certificación para Entrenadores Deportivos.
 
 ###### ARTICULO 55.
 
@@ -461,9 +493,11 @@ Se prohíbe del consumo y uso de cualquier sustancia natural o química, que mod
 
 Todos los deportistas del Estado que integren las preselecciones y selecciones nacionales para participar en competencias internacionales deberán de someterse a los controles para la detección de uso de sustancias prohibidas y métodos reglamentarios, de acuerdo a los que se establezcan en el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 58.
 
-La Secretaría de Educación, Cultura y Deporte promoverá la participación del Sector Salud e instituciones de nivel superior, para establecer los programas necesarios sobre el estudio, medidas de prevención y control del uso de sustancias prohibidas y métodos no reglamentarios.
+La Secretaría de Desarrollo Social, Cultura y Deporte promoverá la participación del Sector Salud e instituciones de nivel superior, para establecer los programas necesarios sobre el estudio, medidas de prevención y control de uso de sustancias prohibidas y métodos no reglamentarios.
 
 ###### ARTICULO 59.
 
@@ -686,3 +720,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintidós días del mes de noviembre de año dos mil uno.-
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
