@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2006-08-26"
+last_updated: "2006-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -406,9 +406,9 @@ El mandatario o apoderado de una persona jurídica, tiene que acreditar la exist
 
 Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o por medio del procurador con poder bastante.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
 
-Las partes e interesados podrán designar por escrito, en cualquier etapa procesal, abogado patrono legalmente autorizado para el ejercicio profesional.
+Las partes e interesados podrán designar por escrito, en cualquier etapa procesal, abogado patrono legalmente autorizado para el ejercicio profesional quien no podrá delegar en otro su función o nombrar diverso abogado patrono.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3232,13 +3232,17 @@ De las Declaraciones de los Testigos.
 
 Todos los que tengan conocimiento de los hechos que las partes deban probar, están obligados a declarar como testigos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 363.
 
-Los testigos serán citados a declarar cuando la parte que ofrece su testimonio manifieste bajo protesta de decir verdad no poder por sí misma hacer que se presenten. El juez ordenará la citación con apercibimiento de arresto hasta por tres días o multa equivalente hasta quince días de salario mínimo general vigente para el lugar del juicio, que se aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+Los testigos serán citados a declarar cuando la parte que ofrece su testimonio manifieste bajo protesta de decir verdad no poder por sí misma hacer que se presenten. El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa equivalente hasta quince días de salario mínimo general vigente para el lugar del juicio, que se aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general, vigente para el lugar del juicio, en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 El oferente de la prueba podrá sustituir sus testigos, siempre que no haya sido desahogada dicha prueba o se haya declarado perdido su derecho para ello.
 
@@ -8507,5 +8511,9 @@ DECRETO NUMERO 21402-LVII/06
 P.O. 26 DE AGOSTO DE 2006.
 
 DECRETO NUMERO 21420-LVII/06
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
