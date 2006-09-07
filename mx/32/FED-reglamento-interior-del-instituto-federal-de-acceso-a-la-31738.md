@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-31738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-11"
-last_updated: "2005-09-28"
+last_updated: "2006-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31738&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-06-05"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -139,9 +139,11 @@ Las convocatorias a las sesiones extraordinarias consignarán la fecha y hora de
 
 En caso de que se encuentren presentes todos los Comisionados y estén de acuerdo en llevar a cabo una sesión extraordinaria, no se requerirá cumplir con lo que establece el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 10.
 
-Las decisiones y resoluciones se adoptarán al menos con tres votos en el mismo sentido. En caso de empate el Comisionado Presidente resolverá con voto de calidad. Los expedientes y las actas resolutivas se harán públicos, asegurando que la información reservada o confidencial se mantenga con tal carácter.
+Las decisiones y resoluciones se adoptarán al menos con tres votos en el mismo sentido, salvo en lo que respecta a los recursos de revisión, de reconsideración y procedimientos de verificación de falta de respuesta, las cuales podrán tomarse con el voto de la mayoría de los Comisionados presentes.
 
 ###### Artículo 11.
 
@@ -544,3 +546,7 @@ UNICO. La presente Modificación entrará en vigor el mismo día de su publicaci
 D.O.F. 28 DE SEPTIEMBRE DE 2005.
 
 UNICO. El presente Reglamento Interior entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2006.
+
+UNICO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
