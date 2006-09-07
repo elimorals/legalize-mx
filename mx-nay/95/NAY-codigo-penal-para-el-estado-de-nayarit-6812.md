@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2006-05-24"
+last_updated: "2006-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -225,7 +225,9 @@ Si el reincidente en el mismo género de infracción comete un nuevo delito proc
 
 Son causas de inimputabilidad:
 
-I.- La condición de personas menores de dieciséis años;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+
+I.- La condición de personas menores de 18 años;
 
 II.- El trastorno mental; y,
 
@@ -3552,3 +3554,7 @@ P.O. 24 DE MAYO DE 2006.
 DECRETO POR EL QUE SE ADICIONA LA FRACCION XVI AL ARTICULO 369.
 
 Único.- La presente adición al Código Penal del Estado de Nayarit y reforma al Código de Procedimientos Penales, comenzarán a regir el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- Las reformas contenidas en el presente Decreto entrarán en vigor el 13 de septiembre del 2006, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
