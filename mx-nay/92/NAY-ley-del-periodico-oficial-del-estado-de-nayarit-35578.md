@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-periodico-oficial-del-estado-de-nayarit-35578"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-10"
-last_updated: "2003-12-10"
+last_updated: "2006-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 10 de diciembre de 2003.
 
@@ -105,45 +105,15 @@ El Director del Periódico Oficial incurrirá en responsabilidad y procederá su
 
 ###### Artículo 8o.
 
-Habrá un Consejo Editorial del Periódico Oficial, mismo que tendrá como finalidad evaluar la política editorial, hacer las observaciones sobre la pertinencia de sus contenidos, y garantizar la oportuna publicación de las ediciones que se realicen, así como su distribución al público usuario y entrega a los poderes, Ayuntamientos y organismo autónomos del estado.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 9o.
 
-El Consejo Editorial del Periódico Oficial se integrará de la siguiente manera:
-
-I. El Secretario General de Gobierno, o el funcionario que él comisione en sus ausencias temporales, quien lo presidirá;
-
-II. El Director del Periódico Oficial, quien fungirá como secretario técnico;
-
-III. Un representante del Poder Legislativo, designado por la Comisión de Gobierno Legislativo;
-
-IV. Un representante del Poder Judicial, designado por el Consejo de la Judicatura, y
-
-V. Respecto de asuntos municipales, se invitará a un representante del Ayuntamiento correspondiente para tratar lo relativo a la publicación de los asuntos de su interés y competencia.
-
-El Consejo funcionará en sesiones, las que se verificarán ordinariamente cuando menos 4 veces al año, o en forma extraordinaria cuantas veces sea necesario, a convocatoria del Secretario General de Gobierno. Los miembros del Consejo tendrán derecho a voz y voto, salvo el secretario técnico que únicamente tendrá derecho a voz. Los asuntos de su competencia se decidirán por mayoría de votos.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 10.
 
-El Consejo Editorial tendrá las siguientes atribuciones:
-
-I. Evaluar el diseño y contenido de las ediciones, impresiones y publicaciones del periódico;
-
-II. Dictar medidas para asegurar la oportuna entrega de ejemplares del periódico a los miembros de los poderes y Ayuntamientos y a los organismos dotados de autonomía, así como su adecuada distribución en el interior del estado, en los términos que establece la ley, recomendando las medidas que sean necesarias;
-
-III. Realizar recomendaciones y sugerencias sobre las siguientes cuestiones:
-
-a). Relaciones de coordinación sobre publicaciones oficiales con los poderes constitucionales, Ayuntamientos y organismos autónomos del estado;
-
-b). Trámites y publicaciones de fe de erratas;
-
-c). Convenios de colaboración e intercambio sobre políticas editoriales de periódicos, gacetas oficiales y el Diario Oficial de la Federación.
-
-d). Presentación de las estadísticas e informática del periódico;
-
-e). Elaboración y cumplimiento de programas de compilación de legislación local, y
-
-f). Las demás que acuerden sus propios integrantes, tendientes a coadyuvar a la mejor organización interna y a la prestación de los servicios del Periódico Oficial.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IV. DE SU CONTENIDO Y DISTRIBUCION
 
@@ -317,7 +287,7 @@ A partir de la entrada en vigor de la presente ley, se proveerá lo conducente p
 
 ###### ARTÍCULO TERCERO.
 
-El Consejo Editorial del Periódico Oficial previsto en el Capítulo III de esta ley, se integrará y funcionará dentro de los noventa días Siguientes a la entrada en vigor del presente decreto. Al efecto, se acreditarán los representantes ante la Secretaría General de Gobierno del Poder Ejecutivo, procediéndose a su debida instalación.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2006)
 
 ###### ARTÍCULO CUARTO.
 
@@ -330,3 +300,11 @@ En un plazo que no excederá los 90 días hábiles posteriores a la entrada en v
 D A D O en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los seis días del mes de noviembre del dos mil tres.- Dip. Presidente, Abad Cervantes Zurita.- Dip. Secretario, Everardo Sánchez Parra.- Dip. Secretario, José Antonio Jiménez González.- Rúbricas.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecinueve días del mes de noviembre del año dos mil tres.- ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Para su conocimiento y constancia de cumplimiento, notifíquese la presente resolución a la Suprema Corte de Justicia de la Nación.
