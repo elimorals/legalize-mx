@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-para-el-ahorro-2574
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-09"
-last_updated: "2002-09-09"
+last_updated: "2006-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25747&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2001-08-15"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL PARA EL AHORRO DE ENERGIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL PARA EL AHORRO DE ENERGIA, PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de septiembre de 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 9 de septiembre de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Energía.
 
@@ -674,3 +676,11 @@ Artículo Primero.- El presente Reglamento Interior entrará en vigor al día si
 Artículo Segundo.- Se abroga el Reglamento Interno de la Comisión Nacional para el Ahorro de Energía de fecha 8 de enero de 1990, publicado en el Diario Oficial de la Federación el 30 de marzo de 1990.
 
 Dado en la Ciudad de México, Distrito Federal, a los quince días del mes de agosto de dos mil uno (sic).- El Secretario de Energía y Presidente de la Comisión Nacional para el Ahorro de Energía, Tirso Ernesto Martens Rebolledo.- Rúbrica.- El Representante Suplente de la Secretaría de Hacienda y Crédito Público, Juan Arturo Lim Medrano.- Rúbrica.- El Representante Suplente de la Secretaría de Medio Ambiente y Recursos Naturales, Luis Barojas Weber.- Rúbrica.- El Representante Suplente de la Secretaría de Comunicaciones y Transportes, Antonio Guerrero Fernández.- Rúbrica.- El Representante de la Secretaría de Economía, Pablo Gómez Domínguez.- Rúbrica.- El Representante Suplente de la Secretaría de Educación Pública, Rosa Amelia Lozano Zambrano.- Rúbrica.- El Representante de la Secretaría de Energía, María Fernanda Casanueva de Diego.- Rúbrica.- El Representante de la Secretaría de Energía, Rosa Elvia Candelaria Cruz.- Rúbrica.- El Representante Suplente de la Secretaría de Energía, Luis Alberto Amado Castro.- Rúbrica.- El Representante de Petróleos Mexicanos, Roberto Osegueda Villaseñor.- Rúbrica.- El Representante Suplente de la Comisión Federal de Electricidad, Mateo Treviño Gaspari.- Rúbrica.- El Representante de Luz y Fuerza del Centro, Alfonso Caso Aguilar.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Comisión Nacional para el Ahorro de Energía de fecha 15 de agosto de 2001, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2002.
