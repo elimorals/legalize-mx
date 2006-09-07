@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-procuraduria-general-de-justicia-del-14291"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-05-03"
-last_updated: "2006-03-22"
+last_updated: "2006-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 3 de mayo de 1997.
 
@@ -79,9 +79,11 @@ XII.- Representar al Estado ante los Tribunales y autoridades en defensa de sus 
 
 XIII.- Las demás que señalen otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 3o.
 
-Las atribuciones a que se refiere la fracción I del artículo 2o. de esta Ley respecto de la averiguación previa, comprenden:
+Las atribuciones a que se refiere la fracción I del artículo 2º. de esta ley respecto de la averiguación previa, comprenden:
 
 I.- Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
 
@@ -119,9 +121,13 @@ g).- En los demás casos que determinen las normas aplicables;
 
 Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el Agente del Ministerio Público proponga el no ejercicio de la acción penal;
 
-XI.- Poner a disposición de las autoridades competentes, a los menores de 16 años de edad que hubieren cometido infracciones correspondientes a ilícitos tipificados por las leyes;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
 
-XII.- Poner a los inimputables mayores de 16 años de edad, a disposición del órgano jurisdiccional, cuando se deban de aplicar medidas de seguridad, ejercitando las acciones correspondientes, por los términos establecidos en las normas; y
+XI.- Poner a disposición de las autoridades competentes, a los menores de 18 años de edad que hubieren cometido infracciones correspondientes a ilícitos tipificados por las leyes;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+
+XII.- Poner a los inimputables mayores de 18 años de edad, a disposición del órgano jurisdiccional, cuando se deban de aplicar medidas de seguridad, ejercitando las acciones correspondientes, por los términos establecidos en las normas; y
 
 XIII.- Las demás que establezcan las normas aplicables;
 
@@ -662,3 +668,9 @@ P.O. 22 DE MARZO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Para su conocimiento y constancia de cumplimiento, notifíquese la presente resolución a la Suprema Corte de Justicia de la Nación.
+
+P.O. 7 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La reformas contenidas en el presente Decreto entrará en vigor el 13 de septiembre del 2006, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
