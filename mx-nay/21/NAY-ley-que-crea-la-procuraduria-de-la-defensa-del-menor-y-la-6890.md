@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-la-procuraduria-de-la-defensa-del-menor-y-la-6890"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "1977-12-31"
+last_updated: "2006-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE CREA LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 31 de diciembre de 1977.
 
@@ -39,9 +39,11 @@ D E C R E T A :
 
 LEY QUE CREA LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA EN EL ESTADO DE NAYARIT
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO PRIMERO.
 
-La Procuraduría de la Defensa del Menor y la Familia en el Estado de Nayarit, es órgano jurídico de carácter público, que tendrá personalidad para representar a menores de edad ante las diversas Autoridades, entendiéndose que es menor en el ámbito civil el adolescente que no ha cumplido dieciocho años; y en el ámbito penal el que no haya cumplido dieciséis.
+La Procuraduría de la Defensa del Menor y la Familia en el estado de Nayarit, es órgano jurídico de carácter público, que tendrá personalidad para representar a menores de edad ante las diversas autoridades, entendiéndose que es menor en el ámbito civil el adolescente que no ha cumplido dieciocho años; y en el ámbito penal el que no haya cumplido dieciocho.
 
 ###### ARTICULO SEGUNDO.
 
@@ -106,3 +108,9 @@ Coronel Rogelio Flores Curiel.- Rúbrica.
 El Secretario General de Gobierno,
 
 Dr. J. Jesús Osuna Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- Las reformas contenidas en el presente Decreto en vigor el 13 de septiembre del 2006, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
