@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-los-4599
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2005-07-30"
+last_updated: "2006-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de julio de 2005.
 
@@ -53,9 +53,11 @@ La aplicación de la presente ley corresponde a la administración pública cent
 
 Para efectos del cumplimiento oportuno de cada uno de los planes y programas derivados de esta ley, se incluirán las partidas correspondientes en la Ley de Ingresos y Presupuesto de Egresos del Estado, así como en los presupuestos de los municipios.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta ley, son niñas y niños las personas menores de 12 años de edad, y adolescentes los que tienen más 12 años y menos de 16 años de edad.
+Para los efectos de esta ley, son niñas y niños las personas menores de 12 años de edad, y adolescentes los que tienen más de 12 años y menos de 18 años de edad.
 
 ###### Artículo 4.
 
@@ -365,7 +367,9 @@ b) Que no sean privados de su libertad de manera ilegal o arbitraria. La detenci
 
 c) Que la privación de la libertad sea aplicada siempre y cuando se haya comprobado que se cometió (sic) infracciones graves a la Ley Penal y como último recurso, durante el periodo más breve posible, atendiendo al principio del interés superior de la infancia.
 
-d) Que aquellas personas mayores de once y menores de dieciséis años de edad, que infrinjan la Ley Penal, su tratamiento o internamiento sea distinto al de los adultos y, consecuentemente, se encuentren internados en lugares diferentes de éstos. Para ello el Estado deberá en todo momento contar con instituciones especializadas para su tratamiento e internamiento.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+
+d) Que aquellas personas mayores de doce y menores de dieciocho años de edad, que infrinjan la Ley Penal, su tratamiento o internamiento sea distinto al de los adultos y, consecuentemente, se encuentren internados en lugares diferentes de éstos. Para ello el Estado deberá en todo momento contar con instituciones especializadas para su tratamiento e internamiento.
 
 e) Que en el tratamiento a que se refiere el inciso anterior, se considere la importancia de promover la reintegración o adaptación social del adolescente y para que asuma una función constructiva en la sociedad.
 
@@ -1042,3 +1046,9 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del
 Dip. Presidente, Yolanda del Real Ureña.- Rúbrica.-Dip. Secretario, Everardo Sánchez Parra.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintinueve días del mes de julio del año dos mil cinco.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- Las reformas contenidas en el presente Decreto entrarán en vigor el 13 de septiembre del 2006, previa publicación en el Periódico Oficial.
