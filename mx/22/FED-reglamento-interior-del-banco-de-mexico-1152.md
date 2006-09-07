@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2005-11-15"
+last_updated: "2006-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -1097,75 +1097,79 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
-###### ARTICULO 38.
+###### Artículo 38.
 
 El balance general y los estados de cuenta consolidados mensuales del Banco, contendrán, cuando menos, los rubros siguientes:
 
-En el Activo:
+En el activo:
 
-Reserva Internacional
+Reserva internacional.
 
-Activos Internacionales
+Activos internacionales.
 
-Pasivos a Deducir
+Pasivos a deducir.
 
-Crédito al Gobierno Federal
+Crédito al Gobierno Federal.
 
-Valores Gubernamentales
+Valores gubernamentales.
 
-Crédito a Intermediarios Financieros y Deudores por Reporto
+Crédito a instituciones bancarias y deudores por reporto.
 
-Participaciones en Organismos Financieros Internacionales
+Crédito a organismos públicos.
 
-Inmuebles, Mobiliario y Equipo
+Crédito a fideicomisos de fomento.
 
-Otros Activos
+Participaciones en organismos financieros internacionales.
 
-En el Pasivo:
+Inmuebles, mobiliario y equipo.
 
-Fondo Monetario Internacional
+Otros activos.
 
-Autoridades Financieras del Extranjero
+En el pasivo:
 
-Base Monetaria
+Fondo Monetario Internacional.
 
-Billetes y Monedas en Circulación
+Base monetaria.
 
-Depósitos Bancarios en Cuenta Corriente
+Billetes y monedas en circulación.
 
-Depósitos en Cuenta Corriente del Gobierno Federal
+Depósitos bancarios en cuenta corriente.
 
-Otros Depósitos del Gobierno Federal
+Bonos de Regulación Monetaria.
 
-Depósitos de Empresas y Organismos Públicos
+Depósitos en cuenta corriente del Gobierno Federal.
 
-Depósitos de Regulación Monetaria
+Otros depósitos del Gobierno Federal.
 
-Otros Depósitos Bancarios y Acreedores por Reporto
+Depósitos de regulación monetaria.
 
-Depósitos de Fondos de Apoyo a Intermediarios Financieros
+Instituciones bancarias.
 
-Asignaciones de Derechos Especiales de Giro
+Valores gubernamentales.
 
-Otros Pasivos
+Otros depósitos de instituciones bancarias y acreedores por reporto.
 
-En el Capital Contable:
+Depósitos de empresas y organismos públicos.
 
-Capital
+Depósitos de fideicomisos de fomento.
 
-Reservas de Capital
+Asignaciones de derechos especiales de giro.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
+Otros pasivos.
 
-Además se presentarán enseguida del capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
+En el capital contable:
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
+Capital.
 
-El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos y los afectos a la reserva para cubrir obligaciones de carácter laboral, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. El Crédito a Intermediarios Financieros y Deudores por Reporto incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores, a los fideicomisos de fomento y a los reportos con casas de bolsa. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Intermediarios Financieros.
+Reservas de capital.
+
+Además se incluirán en el capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
+
+El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -1470,3 +1474,7 @@ CUARTO. En tanto no se modifiquen los acuerdos o actos de creación, integració
 D.O.F. 15 DE NOVIEMBRE DE 2005.
 
 PRIMERO. Las presentes reformas, adiciones y derogación entrarán en vigor a partir del 16 de noviembre de 2005.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2006.
+
+UNICO. La presente reforma al Reglamento Interior del Banco de México, entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
