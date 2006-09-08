@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-38423"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-04-06"
-last_updated: "2005-07-06"
+last_updated: "2006-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38423&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-02"
 
 ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 6 de abril de 2004.
 
@@ -169,15 +169,17 @@ Dirección Corporativa de Finanzas y Administración.
 
 II. Órgano Interno de Control.
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 III. Direcciones Ejecutivas:
 
 Adscritas a la Dirección Corporativa Jurídica y Fiduciaria:
 
-Dirección Ejecutiva de Soporte Legal, y
+Dirección Ejecutiva de Soporte Legal;
 
-Dirección Ejecutiva de Normatividad y Consulta Jurídica.
+Dirección Ejecutiva de Normatividad y Consulta Jurídica, y
+
+Dirección Ejecutiva Fiduciaria.
 
 Adscritas a la Dirección Corporativa de Relación con Entidades Transferentes:
 
@@ -997,6 +999,26 @@ X. Supervisar aleatoriamente el desempeño de las unidades administrativas jurí
 
 XI. Representar al SAE y ser el enlace en los asuntos jurídicos de carácter institucional de su competencia, con las áreas correspondientes de las dependencias y entidades de la Administración Pública Federal, la Procuraduría General de la República, entidades federativas y municipios.
 
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 31 bis.- Corresponde a la Dirección Ejecutiva Fiduciaria, el ejercicio de las siguientes atribuciones:
+
+I. Representar legalmente al SAE, en su calidad de delegado fiduciario general en los fideicomisos en que el SAE actúe como fiduciario sustituto;
+
+II. Fungir como delegado fiduciario general del SAE en los fideicomisos en que el SAE actúe como fiduciario sustituto;
+
+III. Dirigir las actividades relacionadas con la administración de los negocios fiduciarios, en los cuales el SAE funja como fiduciario sustituto;
+
+IV. Proponer el programa de trabajo para dar por terminados los derechos y obligaciones contraídos con el SAE en su calidad de fiduciario sustituto;
+
+V. Brindar asesoría en materia fiduciaria a las unidades administrativas del SAE;
+
+VI. Proponer a los terceros especializados en materia fiduciaria, susceptibles de ser contratados para auxiliar al SAE en la administración de los diversos negocios fiduciarios;
+
+VII. Dirigir las actividades de supervisión de los terceros especializados que se contraten para los efectos señalados en la fracción anterior, y
+
+VIII. Otorgar los poderes necesarios para actos de administración y pleitos y cobranzas que permitan la sana administración de los fideicomisos en que el SAE actúe como fiduciario sustituto y la defensa de su patrimonio.
+
 ###### ARTICULO 32.
 
 Corresponde a la Dirección Ejecutiva de Relación con Entidades Transferentes, el ejercicio de las siguientes atribuciones:
@@ -1513,7 +1535,7 @@ X. Controlar el cumplimiento de la legislación en materia de derechos de autor 
 
 ### CAPITULO IX. De las suplencias de los servidores públicos
 
-> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48.
 
@@ -1633,13 +1655,15 @@ Director Corporativo de Planeación Estratégica y Programas Interinstitucionale
 
 Director Corporativo de Finanzas y Administración.
 
-Los Coordinadores Regionales Guadalajara, Querétaro, Cancún, Veracruz, Tuxtla Gutiérrez, Tijuana, Hermosillo, Centro, Monterrey y Culiacán, suplirán las ausencias del Director General en el ámbito de sus respectivas circunscripciones territoriales.
+Los Coordinadores Regionales de Guadalajara, Querétaro, Cancún, Veracruz, Tuxtla Gutiérrez, Tijuana, Hermosillo, Centro, Monterrey y Culiacán, suplirán las ausencias del Director General en el ámbito de sus respectivas circunscripciones territoriales.
 
 La ausencia del Director Corporativo Jurídico y Fiduciario será suplida por los servidores públicos que a continuación se indican, en el orden siguiente:
 
 Director Ejecutivo de Soporte Legal.
 
 Director Ejecutivo de Normatividad y Consulta Jurídica.
+
+Director Ejecutivo Fiduciario.
 
 La ausencia del Director Corporativo de Planeación Estratégica y Programas Interinstitucionales, del Director Corporativo del Proceso de Bienes, del Director Corporativo del Proceso de Cartera y del Director Corporativo del Proceso de Empresas será suplida por el Director Corporativo Jurídico y Fiduciario.
 
@@ -1720,3 +1744,9 @@ CUARTO.- Las referencias que se hagan al Director Corporativo de Asesoría Jurí
 QUINTO.- Las referencias que se hagan al Director Ejecutivo de Administración de Empresas Aseguradas y Concursos Mercantiles o a la Dirección Ejecutiva de Administración de Empresas Aseguradas y Concursos Mercantiles en disposiciones jurídicas o administrativas, se entenderán hechas al Director Ejecutivo de Administración de Empresas y Concursos Mercantiles o a la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles, según corresponda.
 
 SEXTO.- Las referencias que se hagan al Director Ejecutivo de Delegaciones Regionales o a la Dirección Ejecutiva de Delegaciones Regionales en disposiciones jurídicas o administrativas, se entenderán hechas al Director Ejecutivo de Coordinaciones Regionales o a la Dirección Ejecutiva de Coordinaciones Regionales, según corresponda.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a lo dispuesto en el presente Acuerdo.
