@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-sorteos-instantaneos-en-463
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-22"
-last_updated: "2005-09-22"
+last_updated: "2006-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-09-20"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de septiembre de 2005.
 
@@ -29,9 +29,11 @@ Alonso Pascual García Tamés, Presidente del Consejo Directivo de Pronósticos 
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 1o.
 
-El presente Reglamento tiene por objeto regular los sorteos Instantáneos en Línea de conformidad con el Decreto de 16 de agosto de 1984, publicado en el Diario Oficial de la Federación el 17 de agosto del mismo año, que reformó y adicionó el del 14 de febrero de 1978, publicado en el Diario Oficial de la Federación el día 24 del propio mes, mismo que creó el Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en lo sucesivo se designará en este Reglamento como Pronósticos.
+El presente reglamento tiene por objeto regular los sorteos Instantáneos en Línea, de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 24 de febrero de 1978, sus reformas y adiciones.
 
 ###### Artículo 2o.
 
@@ -45,15 +47,21 @@ Para los efectos de este Reglamento, se entenderá por:
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos, y cuya función consistirá en aceptar las participaciones del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números del Sorteo Base hecha por el participante, bien sea por la lectura óptica del volante, por la digitación de los datos que dicte el participante al agente o por la petición de la participación automática y, en su caso, la manifestación de su intención de participar en los sorteos Instantáneos en Línea, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueba la participación en el sorteo.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las participaciones vendidas en el Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este Reglamento.
+2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números del Sorteo Base hecha por el participante, bien sea por la lectura óptica del volante, por la digitación de los datos que dicte el participante al agente o por la petición de la participación automática y, en su caso, la manifestación de su intención de participar en los sorteos Instantáneos en Línea, para lograr tenerlos en su dispositivo de almacenamiento; de ahí transmitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueba la participación en el sorteo.
 
-3.- Sorteo.- El evento que se inicia en el momento de aceptación de pago por parte del participante, y que termina con la impresión del boleto, en el que se observan los números con los cuales se participó y los números generados por el sistema, así como el importe del premio correspondiente.
+Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las participaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este Reglamento.
 
-4.- Boleto.- El documento impreso por la terminal por medio de la que fue vendida la apuesta de números y la de los sorteos Instantáneos en Línea, que se entrega como comprobante al participante, una vez cubierto el importe de las combinaciones de números que contenga.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las combinaciones numéricas contenidas en él, sean legítimos.
+3.- Sorteo.- El proceso que se inicia en el momento de aceptación de pago por parte del participante, y que termina con la impresión del boleto, en el que se observan los números con los cuales se participó y los números generados por el sistema, así como el importe del premio correspondiente.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+4.- Boleto.- Registro electrónico de la combinación y/o documento impreso en el que se plasma la participación, los cuales se encuentran almacenados en el sistema central de captación de transacciones en línea y acredita el derecho de participar en el sorteo.
+
+El documento impreso a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legítimos.
 
 5.- Sorteo base.- El concurso o sorteo de Tris, Chispazo, Melate o cualquier otro que con posterioridad determine Pronósticos en el que originalmente interviene el participante y cuya selección de combinaciones numéricas será comparada con los números generados por el sistema.
 
@@ -63,15 +71,29 @@ El boleto a que se refiere el párrafo anterior constituye un documento al porta
 
 8.- Premio.- Importe al que, en caso de acierto, se hace acreedor el participante, conforme a la pirámide de premiación que forma parte del lote correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+9.- Pronósticos: Pronósticos para la Asistencia Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+10.- Medios Electrónicos: cualquier dispositivo electrónico con el que Pronósticos comercialice sus sorteos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+11.- Ceremonia: acto oficial de selección al azar de la combinación ganadora.
+
 ###### Artículo 4o.
 
 Será requisito para llevar a cabo la carga de lotes en el sistema central de cómputo la presencia del inspector designado por la Secretaría de Gobernación, de un representante designado por el Director General de Pronósticos, de un representante de la Dirección Técnica y de un representante de la Gerencia de Sorteos.
 
 A efecto de certificar la carga a que hace referencia el presente artículo, deberá levantarse un acta de carga que deberán firmar los funcionarios listados en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 5o.
 
-Para efectos del inicio de venta de cada lote, Pronósticos informará al público por medio de un aviso en los periódicos de mayor circulación nacional:
+Para efectos del inicio de venta de cada lote, Pronósticos informará al público por medio de un aviso en medios de comunicación masiva y/o página Web de Pronósticos:
 
 a) Inicio de venta del lote;
 
@@ -113,7 +135,9 @@ No podrá iniciar la venta de un lote del mismo precio, sin haberse consumido el
 
 Concluida la vigencia del lote, se levantará acta en la que se harán constar los datos de identificación de éste, cantidad e importe de premios pagados, cantidad e importe de premios caducos y, en su caso, cualquier incidente que ocurriera durante la vigencia del mismo.
 
-Dicha acta se firmará con la participación del inspector de la Secretaría de Gobernación y un representante que designe el Director General quien deberá intervenir y suscribir el documento para todos los efectos legales.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Dicha acta se elaborará con la participación del Inspector de la Secretaría de Gobernación y un representante que designe el Director General quien deberá intervenir y suscribir el documento para todos los efectos legales.
 
 Estarán presentes también en la lectura y firma del acta, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también la suscribirán.
 
@@ -131,11 +155,25 @@ Para tal efecto, el sistema después de producir el boleto para el Sorteo Base, 
 
 Para efectos del sorteo, únicamente podrá imprimirse una selección de números del Sorteo Base por boleto.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 10o.
 
-La venta al público de los boletos objeto de este Reglamento, la efectuará el organismo directamente o a través de sus agentes autorizados, en los términos de la contratación respectiva, mediante el uso de terminales, por la digitación que haga el agente autorizado en la terminal, ésta imprimirá, numerará y expedirá el boleto que, contra su pago, será entregado al participante como comprobante de su participación.
+Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Instantáneos en Línea mediante el uso de:
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que este último determine.
+a) Terminales que mediante la digitación que haga el agente autorizado ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
+
+Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos señale en el contrato de comisión mercantil y el Reglamento de Agentes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 10o.
+
+bis.- Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, no se haya registrado la participación en el sistema central de captación de transacciones en línea, el titular de la participación no haya sido registrada en los términos mencionados, tendrá el derecho a la devolución del importe efectivamente pagado.
 
 ###### Artículo 11o.
 
@@ -219,11 +257,13 @@ Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficina
 
 El pago de los premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir el importe de los premios cuando los datos consignados en el boleto de que se trate no coincidan íntegramente con los de sus registros, carezcan de las menciones que señala este Reglamento o se encuentren mutilados, alterados o maltratados en forma que haga imposible la comprobación de su legitimidad o autenticidad.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 25o.
 
 El término de caducidad del derecho para cobrar un premio de los sorteos Instantáneos en Línea es de 60 días naturales, contados a partir del día siguiente de la celebración del mismo.
 
-El importe de los premios caducos, se llevará a la cuenta de reserva y posteriormente, de no usarse como reserva, su destino final, cuando así lo decida el Consejo Directivo será el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la Asistencia Pública.
+El importe de los premios caducos, se llevará a la cuenta de reserva para que posteriormente, de no usarse como reserva, con la aprobación del Consejo Directivo y de acuerdo a los resultados de los estudios actuariales que se realicen para determinar, en su caso, los excedentes de acumulación en el saldo de la misma, su destino final sea el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la asistencia pública.
 
 ###### Artículo 26.
 
@@ -254,3 +294,13 @@ Secretario del Consejo Directivo
 Lic. Eduardo Antonio Ancona González
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE SEPTIEMBRE DE 2006.
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
