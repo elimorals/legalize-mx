@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-protouch-33592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-01"
-last_updated: "2005-09-22"
+last_updated: "2006-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-21"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de septiembre de 2003.
 
@@ -29,9 +29,11 @@ REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 1o.
 
-El presente Reglamento tiene por objeto regular el concurso Protouch, de conformidad con el Decreto de 16 de agosto de 1984, publicado en el Diario Oficial de la Federación el 17 de agosto del mismo año, que reformó y adicionó el del 14 de febrero de 1978, publicado en el Diario Oficial de la Federación el día 24 del propio mes, mismo que creó el Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en lo sucesivo se designará en este Reglamento como Pronósticos.
+El presente reglamento tiene por objeto regular el concurso Protouch de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 24 de febrero de 1978, sus reformas y adiciones.
 
 ###### Artículo 2o.
 
@@ -43,11 +45,13 @@ Para los efectos de este Reglamento, se entenderá por:
 
 1. Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos, y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2. Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección hecha por el concursante, bien sea por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las quinielas, y expedir los boletos que comprueban la participación en el concurso.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el registro de apuestas concursantes para un concurso determinado, previa verificación de que cumplen con los requisitos establecidos en este Reglamento.
+2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el concurso. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones concursantes para un concurso determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
 
-3. Concurso.- El evento que tiene lugar desde la captación oficial de quinielas, incluyendo el Protouch inicial, hasta la Selección de Ganadores.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+3.- Concurso.- Concurso (sic).- El proceso que tiene lugar desde la captación oficial de quinielas, incluyendo el Protouch inicial, hasta la selección de ganadores; en el que los poseedores o titulares de un boleto mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio.
 
 4. Volante.- El documento que contiene los partidos seleccionados para un concurso, en donde el concursante anota sus pronósticos de resultados, así como el pronóstico de Protouch inicial.
 
@@ -55,7 +59,9 @@ Pronósticos podrá definir otras modalidades y conductos de venta transcribiend
 
 6. Protouch inicial.- Pronóstico que hace el concursante sobre el equipo que anotará el primer touch down y en cuál de los cuartos, o en su defecto si no habrá touch down, en el transcurso del tiempo oficial del partido señalado en el volante respectivo.
 
-7. Combinación.- El conjunto de dos o más quinielas asentadas en un volante.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+7.- Combinación.- El conjunto o combinación de dos o más quinielas seleccionadas por el participante.
 
 8. Pronóstico sencillo.- La selección por parte de un concursante de una de las tres posibles alternativas asentadas en un volante para un mismo partido, a saber: triunfo de uno de los contendientes o diferencia hasta de 6 puntos.
 
@@ -63,17 +69,35 @@ Pronósticos podrá definir otras modalidades y conductos de venta transcribiend
 
 10. Pronóstico triple.- La selección de las tres posibles alternativas asentadas en un volante para un mismo partido.
 
-11. Boleto.- Es el documento impreso por la terminal por medio de la que fue vendida la apuesta, y que se entrega como comprobante al concursante, una vez cubierto el importe de las quinielas o combinaciones que contenga.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
+11.- Boleto.- Registro electrónico de la combinación y/o documento impreso en el que se plasma la participación, los cuales se encuentran almacenados en el sistema central de captación de transacciones en línea y acredita el derecho de participar en el sorteo.
 
-12. Registro de apuestas.- Es el proceso por el cual las quinielas adquiridas por los concursantes quedan íntegramente grabadas en el archivo de apuestas participantes para un concurso determinado.
+El documento impreso a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legítimos.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+12.- Registro de participaciones.- Es el proceso por el cual todas las quinielas adquiridas para un concurso en particular, quedan integralmente grabadas en el archivo de participaciones para un concurso determinado.
 
 13. Monto acumulativo (bolsa).- La cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente concurso.
 
-14. Selección de ganadores.- Es el evento mediante el cual se determinan en cada concurso, mediante los sistemas electrónicos de computación utilizados por Pronósticos, los números de los boletos que obtuvieron premiación y el monto de la misma.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+14.- Selección de ganadores.- Es el evento mediante el cual, en cada concurso, utilizando los sistemas de cómputo, se determinan los números de los boletos que obtuvieron premiación y el monto de la misma.
 
 15. Bolsa garantizada.- Monto mínimo que Pronósticos se compromete a entregar al ganador o ganadores del primer lugar de cada una de las modalidades de Protouch y Protouch inicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+16.- Pronósticos.- Pronósticos para la Asistencia Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+17.- Medios electrónicos.- Cualquier dispositivo electrónico con el que Pronósticos comercialice sus concursos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+18.- Ceremonia.- Acto oficial de selección de la combinación ganadora.
 
 ### CAPITULO II. Partidos de fútbol americano base de los concursos
 
@@ -101,9 +125,11 @@ c) Diferencia.- Que el resultado sea de diferencia hasta de 6 puntos, a favor de
 
 d) Visitante.- Que gane el equipo visitante con diferencia a su favor por más de 6 puntos.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 6o.
 
-Se considerará como resultado definitivo de cada partido, así como del Protouch inicial, los que oficialmente se declaren y de los cuales se tomará conocimiento antes de la selección de ganadores. En caso de que por cualquier causa el resultado oficial de un partido no se conozca por no haberse iniciado o bien se haya suspendido o por no haberse concluido en el tiempo reglamentario sea cual fuere el tiempo que faltase, o por haberse adelantado o pospuesto a la fecha de su celebración programada y siempre que aquella fecha salga del lapso de celebración de los otros partidos contenidos en la quiniela programada o que por cualquier causa, motivo, razón o circunstancia, el resultado oficial de un partido no se conozca antes de efectuar la Selección de Ganadores, de inmediato se realizará un sorteo en los términos de los artículos 11o. y 12o. de este Reglamento, independientemente de lo que al respecto pudiera señalar la reglamentación de la Liga de Fútbol Americano o cualquier otra reglamentación al respecto.
+Se considerará como resultado definitivo de cada partido, así como del Protouch inicial, los que oficialmente se declaren y de los cuales se tomará conocimiento antes de la selección de ganadores. En caso de que por cualquier causa el resultado oficial de un partido no se conozca o se conozca anticipadamente por no haberse iniciado o bien se haya suspendido o por no haberse concluido en el tiempo reglamentario sea cual fuere el tiempo que faltase, o por haberse adelantado o pospuesto a la fecha de su celebración programada y siempre que aquella fecha salga del lapso de celebración de los otros partidos contenidos en la quiniela programada o que por cualquier causa, motivo, razón o circunstancia, el resultado oficial de un partido no se conozca antes de efectuar la Selección de Ganadores, de inmediato se realizará un concurso en los términos de los artículos 11o. y 12o. de este reglamento, independientemente de lo que al respecto pudiera señalar la reglamentación de la Liga de Fútbol Americano o cualquier otra reglamentación al respecto.
 
 ###### Artículo 7o.
 
@@ -155,21 +181,41 @@ Para el que se refiere el párrafo segundo del artículo 11o., se colocarán ant
 
 Al organizar Pronósticos un concurso Protouch, determinará los partidos de fútbol americano que deban integrarlo, la fecha de celebración de los mismos, así como el importe de cada participación y plazo dentro de los cuales podrá concursarse.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 15o.
 
-Sólo se podrá participar en el concurso Protouch utilizando los volantes emitidos por Pronósticos, que serán el único medio válido para colocar quinielas o combinaciones.
+Se podrá participar en el concurso, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
-Sus agentes autorizados los proporcionarán a los posibles concursantes.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 16o.
 
-Los volantes estarán a disposición del público, y en ellos el concursante anotará sus quinielas. La Institución informará al público, con toda oportunidad, el número mínimo y máximo de quinielas con que se podrá concursar en una sola apuesta.
+Pronósticos informará al público, con toda oportunidad, el número mínimo y máximo de quinielas con que se podrá concursar en una sola apuesta.
 
-En cada uno de los volantes el concursante anotará sus quinielas y touch inicial. Solamente se aceptará del participante la anotación de un solo pronóstico para la selección del touch inicial, independientemente del número de combinaciones que adquiera para el concurso Protouch.
+El concursante seleccionará sus quinielas y touch inicial.
+
+Solamente se aceptará del participante la selección de un solo pronóstico para la opción del touch inicial, independientemente del número de combinaciones que adquiera para el concurso Protouch.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 17o.
 
-La venta al público de los boletos, objeto de esta reglamentación, la efectuará el organismo directamente o a través de sus agentes autorizados, en los términos de la contratación respectiva, mediante el uso de terminales que por lectura óptica del volante llenado por el concursante, indicando su selección de pronósticos, o bien, mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprime, numera y expide el boleto que, contra su pago, será entregado al concursante como comprobante de su participación.
+Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Protouch mediante el uso de:
+
+a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de pronóstico, mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
+
+Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos señale en el contrato de comisión mercantil y el Reglamento de Agentes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 17o.
+
+bis.- Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, no se haya registrado la participación en el sistema central de captación de transacciones en línea, el titular de la participación no haya sido registrada en los términos mencionados, tendrá el derecho a la devolución del importe efectivamente pagado.
 
 ###### Artículo 18o.
 
@@ -187,15 +233,17 @@ El boleto deberá contener los siguientes datos:
 
 6.- El término de caducidad del derecho para cobrar el premio correspondiente es de 60 (sesenta) días naturales, contados a partir del día siguiente de la celebración del concurso.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 19o.
 
-Pronósticos, a través de su sistema electrónico de venta de apuestas en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas participantes.
+Pronósticos a través de su sistema central de captación de transacciones en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas concursantes.
 
-El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, el mismo día que se efectúe el cierre de ventas del concurso y previo a la celebración del primero de los partidos de fútbol americano programados.
+Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del artículo 22o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol americano programados e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
-A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del primero de los partidos de fútbol americano programados, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del concurso, la auditoría de la selección de ganadores.
+La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+
+El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere el presente artículo.
 
 ###### Artículo 20o.
 
@@ -203,45 +251,49 @@ Sólo en caso fortuito o de fuerza mayor, Pronósticos suspenderá o cancelará 
 
 ### CAPITULO IV. Selección de ganadores
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 21o.
 
-Todos los concursos se verificarán en lugar al cual tenga libre acceso el público.
+Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en diarios de circulación importante y en su página institucional en Internet, al siguiente día al que se hubiere verificado y obtenido la selección de ganadores, los pronósticos ganadores de la quiniela y el importe de la premiación por cada quiniela sencilla para cada una de las categorías establecidas.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 22o.
 
-Conocidos los resultados de los partidos de fútbol americano, base de un concurso o determinados por sorteo en la forma en que se indica en el capítulo II de este reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo y tercer premios de Protouch; así como al ganador o ganadores por haber acertado además el pronóstico del Protouch inicial.
+Conocidos los resultados de los partidos de fútbol americano, base de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo y tercer premios de Protouch; así como al ganador o ganadores por haber acertado además el pronóstico del Protouch inicial.
 
-Estos se determinarán de acuerdo con la información contenida en el archivo de registro de apuestas, única que tendrá validez para estos efectos. A este acto se le denomina Selección de Ganadores definido en los términos del punto 14 del artículo 3o. de este reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se hará constar la realización del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que al efecto designe el Director General de la institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
+Estos se determinarán de acuerdo con la información contenida en el archivo de registro de apuestas, única que tendrá validez para estos efectos. A este acto se le denomina Selección de Ganadores definido en los términos del numeral 14 del artículo 3o. de este reglamento.
 
-El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
+Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará acta en la que se hará constar la realización del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en el párrafo segundo del artículo 19o. de este reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
-Estarán presentes también en el desarrollo y la celebración del concurso de selección de ganadores, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo segundo.
+El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
-
-La Selección de Ganadores deberá iniciarse después de que se realice o sortee el último partido de los programados para un determinado concurso.
-
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 23o.
 
-Se considera fondo de cada concurso el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el concurso Protouch inicial y Protouch.
+Se considera fondo de cada concurso el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en el sistema central de captación de transacciones en línea, para los efectos de su participación en el concurso.
 
 Dicho fondo se aplicará como sigue:
 
 Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
 
-El 40% destinado a premiación de los concursantes ganadores.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+El 55% destinado a premiación de los concursantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 24o.
 
-Del 40% asignado a premiación, tal como se menciona en el artículo anterior, se instituyen cuatro categorías:
+Del 55% asignado a premiación, tal como se menciona en el artículo anterior, se instituyen cuatro categorías:
 
 a) Protouch inicial.
 
@@ -259,15 +311,21 @@ Cuando hubiere pluralidad de tenedores de quinielas ganadoras en cualquier nivel
 
 Cuando al hacer la Selección de Ganadores resultara que el premio de tercer lugar fuese inferior al costo de la quiniela sencilla, se tomará de la reserva para premios de Pronósticos, la diferencia que resultase. A tercer lugar no se pagará un premio inferior al valor de la quiniela sencilla, y con el criterio explicado se considerará reíntegro para estos casos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Cada quiniela sencilla sólo puede obtener un premio en una de las categorías especificadas.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 25o.
 
-El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 24 de este Reglamento y la dará a conocer previamente al público en los diarios de circulación importante del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 24o. de este reglamento y la dará a conocer previamente al público en medios de comunicación masiva y/o en el sitio Web de Pronósticos. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 26o.
 
-Si alguno o algunos de los participantes acertara al primer lugar del concurso Protouch, pero no acertaran al Protouch inicial; o aun acertando el Protouch inicial, no acertaran al total de los resultados de Protouch, se declarará desierto el premio de Protouch inicial y el importe por este concepto, íntegro, pasará a acumular la bolsa de Protouch inicial destinada a quienes lo acierten en el concurso inmediato siguiente. Lo mismo ocurrirá si en el siguiente concurso tampoco hubiere ganador y así sucesivamente.
-
-Pronósticos podrá modificar las bases señaladas en este artículo en aquellos concursos que, por su naturaleza y para beneficio del público, así lo requieran; en estos casos, se dará al procedimiento a seguir la más amplia difusión.
+Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
 
 ###### Artículo 27o.
 
@@ -279,11 +337,11 @@ Una quiniela sencilla ganadora de segundo premio tampoco podrá ser ganadora del
 
 Pronósticos podrá modificar las bases señaladas en este artículo en aquellos concursos que, por su naturaleza y para beneficio del público, así lo requieran; en estos casos, se dará al procedimiento a seguir la más amplia difusión.
 
-> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 27o.
 
-bis.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del concurso.
+bis.- Si por causas de fuerza mayor no acudiera al evento el Inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un Fedatario Público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a aquél correspondían dentro del desarrollo de la ceremonia.
 
 En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
@@ -297,11 +355,15 @@ Dentro de los cinco días hábiles siguientes a la publicación de los resultado
 
 La Comisión Dictaminadora de Reclamaciones de Pronósticos se integrará con los funcionarios de la Institución que designe el Director General, quien fungirá como Presidente de la misma, y sesionará con la asistencia del Inspector de la Secretaría de Gobernación.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 30o.
 
-En caso de que hubiera alguna reclamación, la Comisión Dictaminadora de Reclamaciones deberá reunirse al día siguiente hábil a la fecha en que concluya el plazo para la presentación de las reclamaciones en el lugar y hora que señale su presidente, y aceptará o desechará las que se presenten, a más tardar dentro de los cuatro días hábiles siguientes al día en que se reúna.
+En caso de que hubiera alguna reclamación, la Comisión Dictaminadora de Reclamaciones deberá reunirse en la fecha, lugar y hora que señale su Presidente y aceptará o desechará las reclamaciones o inconformidades que se presenten, notificando dicha resolución al reclamante dentro de los treinta días hábiles posteriores.
 
 Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comisión y serán definitivas.
+
+Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
 
 ###### Artículo 31o.
 
@@ -317,25 +379,33 @@ Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta d
 
 ### CAPITULO VI. Del pago de los premios
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 34o.
 
-A partir del siguiente día hábil a la fecha de celebración del concurso correspondiente, Pronósticos procederá al pago de los premios en moneda nacional.
+A partir del siguiente día hábil a la fecha de celebración del concurso correspondiente, Pronósticos procederá al pago de los premios de hasta $9,999,999.99 (nueve millones novecientos noventa y nueve mil novecientos noventa y nueve pesos 99/100 M.N.), en moneda nacional.
 
-El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la quiniela que hubiese resultado ganadora. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
+El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora o bien una vez corroborada la autenticidad del mismo, tratándose de registro electrónico.
+
+Para aquellos boletos cuyo premio resulte superior a la cantidad señalada en el primer párrafo de este artículo, Pronósticos contará con 5 (cinco) días hábiles para identificarlos, verificarlos y validarlos por los medios que considere idóneos, previo al pago del mismo.
+
+Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
 Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
 
-Cualquiera que sea el importe del premio podrán hacerlo efectivo en las Oficinas Generales de Pronósticos o en las instituciones u organismos que señale y que se harán del conocimiento público.
+Cualquiera que sea el importe del premio podrán hacerlo efectivo en las Oficinas Generales de Pronósticos o en las instituciones u organismos que éste señale y que se harán del conocimiento del público.
 
 ###### Artículo 35o.
 
 El pago de los premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir los premios cuando los datos consignados en el boleto de que se trate no coincidan íntegramente con los de sus registros, carezcan de las menciones que señala este Reglamento o se encuentren mutilados, alterados o maltratados en forma que haga imposible la comprobación de su legitimidad o autenticidad.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 36o.
 
-El derecho al cobro del importe de cada premio, caducará en un plazo de 60 días naturales contados a partir del día siguiente de la celebración del concurso.
+El derecho al cobro del premio caducará en un plazo de sesenta días naturales contados a partir del día siguiente de la celebración del concurso.
 
-El importe de los premios caducos, se llevará a la cuenta de reserva y posteriormente su destino final será el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la asistencia pública.
+El importe de los premios caducos, se llevará a la cuenta de reserva para que posteriormente, con la aprobación del Consejo Directivo y de acuerdo a los resultados de los estudios actuariales que se realicen para determinar, en su caso, los excedentes de acumulación en el saldo de dicha reserva, su destino final sea el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la asistencia pública.
 
 ###### Artículo 37o.
 
@@ -380,3 +450,15 @@ Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de los citados Reglamentos, serán resueltos conforme a los anteriores.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2006.
+
+Primero.- El artículo 19o. del presente Reglamento, entrará en vigor a partir del 11 de septiembre de 2006.
+
+Segundo.- El artículo 23o. y 24o. del presente Reglamento, entrarán en vigor a partir del 1 de enero de 2007.
+
+Tercero.- El presente acuerdo entrará en vigor al siguiente día de su publicación.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Quinto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
