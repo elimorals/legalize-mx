@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2004-12-10"
+last_updated: "2006-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -207,15 +207,19 @@ V.- La atención de la salud de los habitantes del Estado, la promoción de una 
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-VI. La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y
+VI. La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y (sic)
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-VII.- Garantizar el acceso a la información pública gubernamental, en los términos que establezca la Ley de la materia, y
+VII.- Garantizar el acceso a la información pública gubernamental, en los términos que establezca la ley de la materia;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-VIII.- La protección de los derechos de los pueblos y comunidades indígenas.
+VIII.- La protección de los derechos de los pueblos y comunidades indígenas; y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Garantizar los derechos de las personas menores de dieciocho años a quienes se atribuya la realización de una conducta tipificada como delito, mediante el establecimiento de un Sistema Integral de Justicia en el que se respeten los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -1117,13 +1121,19 @@ XXIII.- Establecer un sistema de modernización administrativa, así como promov
 
 XXIII-BIS.- Establecer el Servicio Civil de Carrera para los servidores públicos de la Administración Pública Estatal, en el que se regulará el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos, con criterios de calidad, eficiencia, mérito, lealtad, objetividad, legalidad, imparcialidad y equidad.
 
-XXIV.- Conceder indulto, conmutación y reducción de penas, en términos de las leyes aplicables.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+XXIV.- Conceder indulto, conmutación, reducción de penas o medidas y beneficios de libertad anticipada, en términos de las leyes aplicables.
 
 XXV.- Celebrar convenios con la Federación o con los Estados del País, para que los reos de nacionalidad mexicana sentenciados por delitos del orden común, que lo soliciten, puedan cumplir su condena en establecimientos dependientes del Ejecutivo Federal o de los Estados de su origen o residencia.
 
-XXVI.- Organizar el sistema de Centros de Readaptación Social de la Entidad, sobre la base del trabajo, la capacitación para el mismo y la educación del delincuente.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-XXVII.- Establecer instituciones especiales para el tratamiento de menores infractores.
+XXVI.- Organizar el Sistema de Centros de Readaptación Social y de Centros de Internamiento Especializados para Adolescentes de la Entidad, sobre la base del trabajo, la capacitación para el mismo y la educación.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+XXVII.- Implementar y vigilar en el ámbito administrativo, el Sistema de Justicia para Adolescentes y de asistencia social a menores, sobre la base de la especialización institucional, la protección integral y el interés superior de los menores.
 
 XXVIII.- Fomentar la educación, en todos sus niveles, conforme a las bases establecidas por el artículo 3o de la Constitución General de la República.
 
@@ -1157,7 +1167,7 @@ Al término del período constitucional, el Gobernador saliente, enviará al Con
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO II. DEL DESPACHO DEL EJECUTIVO
+### CAPITULO II.. DEL DESPACHO DEL EJECUTIVO
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2251,6 +2261,76 @@ Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado, en coordi
 
 En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
 
+P.O. 5 DE MARZO DE 2001.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas por la mayoría de los Ayuntamientos de la Entidad y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO PRIMERO.
+
+El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forma parte del mismo ordenamiento Constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno de enero de dos mil cinco.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+DECRETO QUE REFORMA LOS ARTICULOS 11, 12 Y 13.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado dispondrá que el presente Decreto, una vez publicado, se traduzca a las lenguas de los pueblos indígenas de la Entidad y ordenará su difusión en sus comunidades.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma y adición han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Órgano de Fiscalización Superior del Estado continuará la revisión de las cuentas públicas, que se encuentren pendientes, incluyendo la del año 2000. En tanto no se apruebe la Ley del Órgano de Fiscalización Superior del Estado, seguirá aplicándose la normatividad de la Contaduría Mayor de Hacienda.
+
+###### ARTÍCULO QUINTO.
+
+Todos los recursos humanos, financieros y materiales con que cuenta actualmente la Contaduría Mayor de Hacienda pasarán a formar parte del Órgano de Fiscalización Superior del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda, no sufrirán afectación alguna, en sus derechos laborales, con motivo de la entrada en vigor de este Decreto, y las demás leyes que se emitan con este motivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias que se hagan, en todas las disposiciones, a la Contaduría Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior del Estado.
+
 P.O. 17 DE DICIEMBRE DE 2001.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2306,27 +2386,3 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE DICIEMBRE DE 2004.
 
 DECRETO QUE REFORMA EL ARTICULO 131.
-
-###### ARTÍCULO PRIMERO.
-
-El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forma parte del mismo ordenamiento Constitucional.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno de enero de dos mil cinco.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 10 DE DICIEMBRE DE 2004.
-
-DECRETO QUE REFORMA LOS ARTICULOS 11, 12 Y 13.
-
-PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-TERCERO.- El Titular del Poder Ejecutivo del Estado dispondrá que el presente Decreto, una vez publicado, se traduzca a las lenguas de los pueblos indígenas de la Entidad y ordenará su difusión en sus comunidades.
-
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
