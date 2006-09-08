@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-44975"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-31"
-last_updated: "2005-05-31"
+last_updated: "2006-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 31 de mayo de 2005.
 
@@ -85,17 +85,33 @@ l) Dirección de Representación Gratuita en Materia Civil;
 
 m) Unidad de Defensoría Administrativa del Servidor Público;
 
-n) Dirección de Registros Públicos de la Propiedad;
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-o) Dirección de Notarías;
+n) Coordinación de Defensoría de Oficio Especializada para Adolescentes;
 
-p) Dirección de Oficialías del Registro Civil;
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-q) Coordinación de Gestión Administrativa y Operativa;
+o) Dirección de Registros Públicos de la Propiedad;
 
-r) Dirección de Regularización de Asentamientos Humanos; y
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-s) Dirección de Asuntos Agrarios.
+p) Dirección de Notarías;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+q) Dirección de Oficialías del Registro Civil;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+r) Coordinación de Gestión Administrativa y Operativa;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+s) Dirección de Regularización de Asentamientos Humanos; y
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+t) Dirección de Asuntos Agrarios.
 
 II.- Subsecretaría de Vinculación y Desarrollo Político:
 
@@ -313,7 +329,9 @@ La Subsecretaría de Servicios a la Comunidad, tendrá las siguientes facultades
 
 I.- Coordinar y supervisar la prestación del Servicio Público de Transporte de competencia estatal, y las atribuciones que correspondan a la Secretaría en materia de tránsito;
 
-II.- Organizar y coordinar la prestación de los servicios de la defensoría de oficio en materia penal, de la representación gratuita en materia civil, así como de la defensoría administrativa del servidor público, en los términos de la legislación de la materia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Organizar y coordinar la prestación de los servicios de la defensoría de oficio en materia penal, de la defensoría de oficio especializada para adolescentes, de la representación gratuita en materia civil, así como de la defensoría administrativa del servidor público, en los términos de la legislación de la materia;
 
 III.- Organizar y controlar el funcionamiento del Registro Público de la Propiedad;
 
@@ -523,9 +541,13 @@ La Dirección General de Servicios Sociales deberá planear, apoyar, coordinar y
 
 I.- Dirección de Defensoría de Oficio en Materia Penal;
 
-II.- Dirección de Representación Gratuita en Materia Civil; y
+II.- Dirección de Representación Gratuita en Materia Civil; y (sic)
 
-III.- Unidad de Defensoría Administrativa del Servidor Público.
+III.- Unidad de Defensoría Administrativa del Servidor Público;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Coordinación de Defensoría de Oficio Especializada para Adolescentes.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DEFENSORÍA DE OFICIO EN MATERIA PENAL
 
@@ -581,11 +603,33 @@ II.- Asesorar y representar a aquellas personas que habiendo tenido el carácter
 
 III.- Las demás que se deriven de la Ley o que le establezca el Director General.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE DEFENSORÍA DE OFICIO ESPECIALIZADA PARA ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 22 Bis.
+
+La Coordinación de Defensoría de Oficio Especializada para Adolescentes tendrá las siguientes facultades:
+
+I.- Organizar, dirigir, supervisar y evaluar la Defensoría de Oficio Especializada para Adolescentes, conforme a los lineamientos que establezca el Director General;
+
+II.- Asesorar y representar en forma gratuita a los adolescentes a quienes se atribuya una conducta tipificada como delito en las leyes del Estado, en todas las fases del procedimiento a que se refiere la Ley de Justicia para Adolescentes del Estado de Guanajuato, cuando haya sido designado para ello;
+
+III.- Capacitar en materia de justicia para adolescentes a los defensores de oficio especializados;
+
+IV.- Proponer y ejecutar los programas para el correcto desempeño de la Defensoría de Oficio Especializada para Adolescentes;
+
+V.- Difundir y promover las actividades y servicios de la Defensoría de Oficio Especializada para Adolescentes;
+
+VI.- Integrar el archivo y estadísticas de la Defensoría de Oficio Especializada para Adolescentes; y
+
+VII.- Las demás que se deriven de la Ley de Justicia para Adolescentes del Estado de Guanajuato, de la Ley de la Defensoría de Oficio en Materia Penal o que le confiera el Director General.
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE REGISTROS PÚBLICOS DE LA PROPIEDAD Y NOTARÍAS
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE REGISTROS PÚBLICOS DE LA PROPIEDAD
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 23.
 
@@ -595,7 +639,7 @@ I.- Dirección de Registros Públicos de la Propiedad; y
 
 II.- Dirección de Notarías.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE NOTARÍAS
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE REGISTROS PÚBLICOS DE LA PROPIEDAD
 
 ###### Artículo 24.
 
@@ -627,7 +671,7 @@ XII.- Llevar el procedimiento de las quejas presentadas en contra de los registr
 
 XIII.- Las demás que le señale la Ley o le confiera el Director General.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE NOTARÍAS
 
 ###### Artículo 25.
 
@@ -665,7 +709,7 @@ XV.- Las demás que le confiera el Director General.
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE OFICIALÍAS DEL REGISTRO CIVIL
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 26.
 
@@ -679,7 +723,7 @@ II.- Coordinación de Gestión Administrativa y Operativa.
 
 El Director General del Registro Civil y el Director de Oficialías del Registro Civil tendrán además las atribuciones propias de los Oficiales del Registro Civil.
 
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE GESTIÓN ADMINISTRATIVA Y OPERATIVA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE OFICIALÍAS DEL REGISTRO CIVIL
 
 ###### Artículo 28.
 
@@ -713,7 +757,7 @@ XIII.- Informar al Director General, las faltas, omisiones o irregularidades det
 
 XIV.- Las demás que le señale la Ley o le confiera el Director General.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE GESTIÓN ADMINISTRATIVA Y OPERATIVA
 
 ###### Artículo 29.
 
@@ -753,7 +797,7 @@ XVI.- Las demás que le confiera el Director General.
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE SEGURIDAD EN LA TENENCIA DE LA TIERRA
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 30.
 
@@ -763,7 +807,7 @@ I.- Dirección de Regularización de Asentamientos Humanos; y
 
 II.- Dirección de Asuntos Agrarios.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS AGRARIOS
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS
 
 ###### Artículo 31.
 
@@ -793,7 +837,7 @@ XI.- Tramitar y dar seguimiento a las solicitudes de regularización de los asen
 
 XII.- Las demás que le confiera el Director General.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS AGRARIOS
 
 ###### Artículo 32.
 
@@ -851,7 +895,7 @@ VIII.- Las demás que le confiera el Secretario y otras disposiciones legales ap
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE CONCERTACIÓN POLÍTICA
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE VINCULACIÓN POLÍTICA
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 35.
 
@@ -861,7 +905,7 @@ I.- Dirección de Vinculación Política; y
 
 II.- Dirección de Asuntos Sociales.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS SOCIALES
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE VINCULACIÓN POLÍTICA
 
 ###### Artículo 36.
 
@@ -877,7 +921,7 @@ IV.- Establecer los mecanismos de coordinación con los partidos y las agrupacio
 
 V.- Las demás que le confiera el Director General.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS SOCIALES
 
 ###### Artículo 37.
 
@@ -897,7 +941,7 @@ VI.- Las demás que le confiera el Director General.
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE ENLACE GUBERNAMENTAL
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ATENCIÓN A MUNICIPIOS
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 38.
 
@@ -907,7 +951,7 @@ I.- Dirección de Atención a Municipios; y
 
 II.- Dirección de Vinculación Institucional.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE VINCULACIÓN INSTITUCIONAL
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ATENCIÓN A MUNICIPIOS
 
 ###### Artículo 39.
 
@@ -923,7 +967,7 @@ IV.- Promover la capacitación y profesionalización de los servidores públicos
 
 V.- Las demás que le confiera el Director General.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE VINCULACIÓN INSTITUCIONAL
 
 ###### Artículo 40.
 
@@ -973,7 +1017,7 @@ VIII.- Las demás que le señalen las disposiciones legales y reglamentarias apl
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DEL TRABAJO
 
-#### SECCIÓN SEGUNDA. DE LAS JUNTAS LOCALES Y ESPECIALES DE CONCILIACIÓN Y ARBITRAJE, Y DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 43.
 
@@ -985,13 +1029,13 @@ II.- El Tribunal de Conciliación y Arbitraje; y
 
 III.- La Procuraduría General de la Defensa del Trabajo.
 
-#### SECCIÓN TERCERA. DE LA PROCURADURÍA GENERAL DE LA DEFENSA DEL TRABAJO
+#### SECCIÓN SEGUNDA. DE LAS JUNTAS LOCALES Y ESPECIALES DE CONCILIACIÓN Y ARBITRAJE, Y DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
 ###### Artículo 44.
 
 Las Juntas Locales y Especiales de Conciliación y Arbitraje, y el Tribunal de Conciliación y Arbitraje tendrán las atribuciones que les establezcan respectivamente, la Ley Federal del Trabajo, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, y los demás ordenamientos jurídicos aplicables.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+#### SECCIÓN TERCERA. DE LA PROCURADURÍA GENERAL DE LA DEFENSA DEL TRABAJO
 
 ###### Artículo 45.
 
@@ -1005,7 +1049,7 @@ III.- Promover e impulsar la conciliación como medio de solución de los confli
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE PROMOCIÓN Y DESARROLLO LABORAL
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO PARA EL TRABAJO PRODUCTIVO
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 46.
 
@@ -1015,7 +1059,7 @@ I.- La Dirección de Desarrollo para el Trabajo Productivo; y
 
 II.- La Dirección de Inspección del Trabajo.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INSPECCIÓN DEL TRABAJO
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO PARA EL TRABAJO PRODUCTIVO
 
 ###### Artículo 47.
 
@@ -1055,7 +1099,7 @@ XVI.- Fomentar la participación de las empresas en la generación de oportunida
 
 XVII.- Las demás que le señalen otras disposiciones legales o reglamentarias y sus superiores jerárquicos, dentro de la esfera de sus facultades.
 
-#### SECCIÓN PRIMERA. DE LA ADSCRIPCIÓN Y FACULTADES DE LA COORDINACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INSPECCIÓN DEL TRABAJO
 
 ###### Artículo 48.
 
@@ -1107,7 +1151,7 @@ La Secretaría Particular contará con una oficialía de partes quien será la e
 
 ### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE ASESORES
 
-#### SECCIÓN SEGUNDA. DE LA UNIDAD DE ANÁLISIS DE INFORMACIÓN
+#### SECCIÓN PRIMERA. DE LA ADSCRIPCIÓN Y FACULTADES DE LA COORDINACIÓN
 
 ###### Artículo 52.
 
@@ -1141,7 +1185,7 @@ IX.- Las demás que le confiera el Secretario.
 
 La Coordinación de Asesores contará con personal calificado en alguna rama del conocimiento humano relacionada con las facultades que le corresponden.
 
-#### SECCIÓN PRIMERA. DE SU ADSCRIPCIÓN E INTEGRACIÓN
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE ANÁLISIS DE INFORMACIÓN
 
 ###### Artículo 55.
 
@@ -1211,7 +1255,7 @@ IX.- Las demás que le confiera el Secretario.
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS Y VISITADURÍA INTERNA
 
-#### SECCIÓN SEGUNDA. DE LAS FACULTADES DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS Y VISITADURÍA INTERNA
+#### SECCIÓN PRIMERA. DE SU ADSCRIPCIÓN E INTEGRACIÓN
 
 ###### Artículo 60.
 
@@ -1237,7 +1281,7 @@ De la Dirección General dependerán además la Unidad de Enlace de Acceso a la 
 
 La Dirección General de Asuntos Jurídicos y Visitaduría Interna, diseñará y operará un sistema integral de atención jurídica de la Secretaría, que unifique y coordine los criterios de interpretación y aplicación jurídica así como el funcionamiento y relación entre las diferentes unidades de asistencia jurídica de las Direcciones Generales. Asimismo podrá opinar previamente sobre el nombramiento y, en su caso, la remoción del personal adscrito a dichas áreas.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASESORÍA Y CAPACITACIÓN LEGAL
+#### SECCIÓN SEGUNDA. DE LAS FACULTADES DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS Y VISITADURÍA INTERNA
 
 ###### Artículo 63.
 
@@ -1271,7 +1315,7 @@ XIII.- Fungir como Unidad de Enlace para atender las solicitudes de acceso a la 
 
 XIV.- Las demás que le señale el Secretario o que se deriven del presente Reglamento.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE LO CONTENCIOSO Y PROCEDIMIENTOS ADMINISTRATIVOS
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASESORÍA Y CAPACITACIÓN LEGAL
 
 ###### Artículo 64.
 
@@ -1299,7 +1343,7 @@ X.- Brindar asesoría jurídica al migrante guanajuatense y sus familias conform
 
 XI.- Las demás que le confiera el Secretario, el Director General, o que se deriven del presente Reglamento.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DEL PERIÓDICO OFICIAL
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE LO CONTENCIOSO Y PROCEDIMIENTOS ADMINISTRATIVOS
 
 ###### Artículo 65.
 
@@ -1321,7 +1365,7 @@ VII.- Tramitar los procedimientos administrativos disciplinarios por violación 
 
 VIII.- Las demás que le confiera el Secretario, el Director General o que se deriven del presente Reglamento.
 
-#### SECCIÓN SEXTA. DE LA DIRECCIÓN DEL ARCHIVO GENERAL DEL ESTADO
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DEL PERIÓDICO OFICIAL
 
 ###### Artículo 66.
 
@@ -1339,7 +1383,7 @@ V.- Organizar y recopilar el archivo y las publicaciones del Periódico Oficial 
 
 VI.- Las demás que le confiera el Secretario, el Director General o que se deriven del presente Reglamento.
 
-#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE VISITADURÍA INTERNA
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN DEL ARCHIVO GENERAL DEL ESTADO
 
 ###### Artículo 67.
 
@@ -1359,7 +1403,7 @@ VI.- Ejercer las facultades que se deriven del Reglamento Interior del Archivo G
 
 VII.- Las demás que le confiera el Secretario, el Director General, o que se deriven del presente Reglamento.
 
-#### SECCIÓN PRIMERA. DE SU ADSCRIPCIÓN E INTEGRACIÓN
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE VISITADURÍA INTERNA
 
 ###### Artículo 68.
 
@@ -1389,7 +1433,7 @@ XI.- Las demás que le confiera el Secretario, el Director General o que se deri
 
 ### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
-#### SECCIÓN SEGUNDA. DE LAS FACULTADES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+#### SECCIÓN PRIMERA. DE SU ADSCRIPCIÓN E INTEGRACIÓN
 
 ###### Artículo 69.
 
@@ -1411,7 +1455,7 @@ La Dirección General de Administración, organizará las acciones de las coordi
 
 El Director General de Administración podrá celebrar, previo acuerdo con el Secretario, los contratos y convenios necesarios para el ejercicio de las facultades que le correspondan.
 
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN EJECUTIVA DE INNOVACIÓN ADMINISTRATIVA
+#### SECCIÓN SEGUNDA. DE LAS FACULTADES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
 ###### Artículo 72.
 
@@ -1431,7 +1475,7 @@ VI.- Planear, coordinar, supervisar y controlar el sistema de adquisiciones y su
 
 VII.- Las demás que le confiera el Secretario.
 
-#### SECCIÓN CUARTA. DE LA COORDINACIÓN EJECUTIVA DE CONTROL PRESUPUESTAL
+#### SECCIÓN TERCERA. DE LA COORDINACIÓN EJECUTIVA DE INNOVACIÓN ADMINISTRATIVA
 
 ###### Artículo 73.
 
@@ -1455,7 +1499,7 @@ VIII.- Gestionar convenios con organizaciones, instituciones públicas o privada
 
 IX.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquellas que le confiera el Director General.
 
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN EJECUTIVA DE RECURSOS MATERIALES Y SERVICIOS GENERALES
+#### SECCIÓN CUARTA. DE LA COORDINACIÓN EJECUTIVA DE CONTROL PRESUPUESTAL
 
 ###### Artículo 74.
 
@@ -1476,6 +1520,8 @@ VI.- Revisar y evaluar el ejercicio del gasto en relación al cumplimiento de me
 VII.- Coordinar y verificar que la entrega recepción de los servidores públicos de la Secretaría se lleve a cabo de acuerdo a la normatividad aplicable; y
 
 VIII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquellas que le confiera el Director General.
+
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN EJECUTIVA DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
 ###### Artículo 75.
 
@@ -1536,3 +1582,13 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
+
+Artículo Tercero.- La Coordinación de Defensoría de Oficio Especializada para Adolescentes atenderá de manera oportuna los asuntos de adolescentes que le remita la Gestoría Oficiosa dependiente del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, procurando en todo caso la adecuada defensa de los derechos de los adolescentes sujetos a cualquier etapa del procedimiento a que se refiere el Sistema Integral de Justicia para Adolescentes.
