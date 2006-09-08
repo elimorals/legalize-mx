@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2005-11-30"
+last_updated: "2006-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -31,9 +31,11 @@ REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA.
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 1o.
 
-El presente reglamento tiene por objeto regular el Sorteo Melate, de conformidad con el Decreto de 16 de agosto de 1984, publicado en el Diario Oficial de la Federación el 17 de agosto del mismo año, que reformó y adicionó el 14 de febrero de 1978, publicado en el Diario Oficial de la Federación del 24 del propio mes, mismo que creó el Organismo Público Descentralizado Pronósticos para la Asistencia Pública, al que en lo sucesivo se designará en este reglamento como Pronósticos.
+El presente reglamento tiene por objeto regular el sorteo Melate-Revancha, de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 24 de febrero de 1978, sus reformas y adiciones.
 
 ###### Artículo 2o.
 
@@ -47,59 +49,83 @@ Para los efectos de este reglamento, se entenderá por:
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-3.- Sorteo.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la selección de ganadores.
+2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación automática de ellos, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las participaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+3.- Sorteo.- El proceso que tiene lugar desde la captación oficial de participaciones, hasta la selección de ganadores; en el cual, los poseedores o titulares de un boleto mediante la selección previa de una combinación de números, obtienen el derecho a participar en un procedimiento estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar una combinación de números, que genera uno o varios ganadores de un premio.
 
 4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el concursante anota sus preferencias.
 
-5.- Combinación.- El conjunto de los seis números asentados en un volante, pudiendo llegar hasta diez números, con las modalidades señaladas en el artículo 5o. del presente reglamento.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-6.- Boleto.- Es el documento impreso por la terminal por medio de la que fue vendida la apuesta, y que se entrega como comprobante al concursante, una vez cubierto el importe de las combinaciones que contenga.
+5.- Participación.- El conjunto o combinación de números seleccionados por el participante de acuerdo a las modalidades señaladas en el artículo 5o. del presente reglamento.
 
-El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+6.- Boleto.- Registro electrónico de la combinación y/o documento impreso en el que se plasma la participación, los cuales se encuentran almacenados en el sistema central de captación de transacciones en línea y acredita el derecho de participar en el sorteo.
 
-Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo Instantáneo en Línea de Pronósticos.
+El documento impreso a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legítimos.
 
-7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
+Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en los Sorteos Instantáneos en Línea de Pronósticos.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+7.- Registro de participaciones.- Es el proceso por el cual todas las participaciones adquiridas para un sorteo en particular, quedan integralmente grabadas en el archivo de participaciones para un sorteo determinado.
 
 8.- Monto acumulativo (polla o bolsa).- La cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente sorteo.
 
-9.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada sorteo mediante los sistemas electrónicos de computación instalados en las oficinas generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+9.- Selección de ganadores.- Es el evento mediante el cual, en cada sorteo, utilizando los sistemas de cómputo, se determinan los números de los boletos que obtuvieron premiación y el monto de la misma.
 
 10.- Bolsa garantizada.- Es el monto mínimo que Pronósticos se compromete a entregar al primer lugar acorde con lo establecido en los artículos 18o. y 19o. del presente reglamento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+11.- Pronósticos.- Pronósticos para la Asistencia Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+12.- Medios electrónicos.- Cualquier dispositivo electrónico con el que Pronósticos comercialice sus sorteos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+13.- Ceremonia.- Acto oficial de selección al azar de la combinación ganadora.
+
 ### Capítulo II. De los procedimientos para participar
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 4o.
 
-Sólo se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante las terminales (dispositivo electrónico) aprobadas por Pronósticos, por dictado del concursante al agente autorizado o a través de una selección automática y aleatoria efectuada por la terminal (Melático). Sus agentes autorizados los proporcionarán a todo posible participante.
+Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente, a través de una selección automática y aleatoria efectuada por la terminal (Melático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 5o.
 
-En el volante que emita Pronósticos, el participante marcará de 6 (seis) a 10 (diez) números seleccionados entre los 51 (cincuenta y un) impresos en el propio volante, que constituirán su pronóstico sobre el resultado del sorteo respectivo.
+El participante seleccionará de 6 (seis) a 10 (diez) números elegidos entre el 1 (uno) y el 51 (cincuenta y uno), los cuales constituirán su pronóstico sobre el resultado del sorteo respectivo.
 
-Combinación sencilla es la selección de 6 (seis) distintos números de los 51 (cincuenta y uno) determinados por Pronósticos.
+Combinación sencilla es la selección de 6 (seis) distintos números de los comprendidos entre el 1 (uno) y el 51 (cincuenta y uno).
 
-Combinación múltiple es la selección de 7 (siete) a 10 (diez) números y da lugar a varias combinaciones sencillas: 7 (siete) números a 7 (siete), 8 (ocho) números a 28 (veintiocho), 9 (nueve) números a 84 (ochenta y cuatro) y 10 (diez) números a 210 (doscientas diez).
+Combinación múltiple es la selección de 7 (siete) a 10 (diez) números distintos entre el 1 (uno) y el 51 (cincuenta y uno) y que da lugar a varias combinaciones sencillas: 7 (siete) números a 7 (siete), 8 (ocho) números a 28 (veintiocho), 9 (nueve) números a 84 (ochenta y cuatro) y 10 (diez) números a 210 (doscientas diez).
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 6o.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta de Melate mediante el uso de terminales (dispositivo electrónico) que:
+Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Melate mediante el uso de:
 
-a) Por lectura óptica del volante llenado por el participante indicando su selección de números, o bien mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación.
+a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el agente autorizado de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Melático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
 
-b) En un proceso simultáneo:
+b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
 
-b.1) Al estar conectada la terminal a un computador central, transmita y grabe en un módulo de almacenamiento electrónico las combinaciones de números vendidas para su trascripción en el Registro General de Combinaciones Participantes.
+Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
 
-b.2) Al no estar conectada dicha terminal al computador central, cuenta con un dispositivo de almacenamiento que registra las combinaciones vendidas al público para su transcripción posterior en el Registro General de Combinaciones Participantes.
-
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que éste señale.
+Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos le señale en el contrato de comisión mercantil y en el Reglamento de Agentes.
 
 ###### Artículo 7o.
 
@@ -107,41 +133,17 @@ Pronósticos podrá utilizar terminales (dispositivo electrónico) para la venta
 
 ###### Artículo 8o.
 
-Para los efectos de estas disposiciones se entenderá por terminal, (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección hecha por el participante, bien sea por lectura óptica del volante o por digitación de los datos, emitir señales al computador central o a su propio dispositivo de almacenamiento para el registro de las combinaciones de números y expedir los boletos que comprueben la participación en el sorteo.
+(DEROGADO, D.O.F. 8 DE SEPTIEMBRE 2006)
 
-Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de Combinaciones Participantes.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 9o.
 
-Los boletos expedidos por las terminales (dispositivo electrónico) podrían no ser transcritos por Pronósticos en el Registro General de Combinaciones Participantes, en los siguientes casos:
-
-a) Terminales conectadas al computador central:
-
-Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, se justifique el no registro.
-
-b) Terminales que no estén conectadas al computador central:
-
-b.1) Cuando su dispositivo de almacenamiento electrónico respectivo, por cualquier causa no sea concentrado oportunamente a las oficinas de Pronósticos.
-
-b.2) Cuando Pronósticos compruebe que los dispositivos de almacenamiento electrónico respectivos contengan alteraciones.
-
-b.3) Cuando los módulos de almacenamiento electrónico correspondientes, no contengan la información requerida para su registro y ésta no se pueda determinar por otro medio.
-
-b.4) Cuando por causa de fuerza mayor o caso fortuito debidamente comprobados, se justifique el no registro del módulo de almacenamiento electrónico.
-
-El tenedor del boleto que no haya sido transcrito en los términos mencionados:
-
-a) Tendrá derecho a la devolución del importe pagado contra entrega del boleto al agente autorizado que lo hubiera vendido, o presentándolo en las oficinas generales de Pronósticos.
-
-b) Tendrá derecho al pago de su premio, siempre y cuando se corrobore que los códigos de seguridad y las numeraciones de los boletos sean legítimos.
+Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, no se haya registrado la participación en el sistema central de captación de transacciones en línea, el titular de la participación que no haya sido registrada en los términos mencionados, tendrá el derecho a la devolución del importe efectivamente pagado.
 
 ###### Artículo 10o.
 
-Los boletos de Melate son documentos al portador y no títulos de crédito. Su adquisición entraña la celebración de un contrato de adhesión, el cual sólo genera los derechos y obligaciones que se establecen en el presente reglamento.
-
-> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
-
-Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo Instantáneo en Línea de Pronósticos.
+(DEROGADO, D.O.F. 8 DE SEPTIEMBRE 2006)
 
 ###### Artículo 11o.
 
@@ -165,51 +167,73 @@ No podrán participar en el sorteo ni se registrará la combinación cuyos núme
 
 ###### Artículo 13o.
 
-El agente autorizado remitirá a las oficinas generales de Pronósticos, por los medios y conductos que éste apruebe y dentro del plazo que fije, los módulos de almacenamiento electrónico a que se refiere el inciso b.2 del artículo 6o. y el importe de las combinaciones vendidas.
+(DEROGADO, D.O.F. 8 DE SEPTIEMBRE 2006)
 
 ### Capítulo III. Del sorteo y la asignación de premios
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 14o.
 
-Todos los sorteos se verificarán en lugar al cual tenga libre acceso el público.
+Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en diarios de circulación importante, el siguiente día al que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación por combinación sencilla correspondiente a cada una de las categorías establecidas.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 15o.
 
-El día y hora fijados para el sorteo ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 51 esferas iguales en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
+El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, se procederá conforme a lo siguiente:
 
-Ante la presencia del mismo Inspector se procederá a extraer de la tómbola, una a una y al azar, 6 (seis) esferas y otra “adicional” cuyos números integrarán la combinación de números ganadora.
+I. Se introducirán en una urna 51 (cincuenta y un) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
 
-El orden o secuencia en que se extraigan las 6 (seis) primeras esferas numeradas de la tómbola, no influirá en el resultado del sorteo; pero el número “adicional”, será siempre y en todo caso, la extraída en séptimo lugar.
+II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+
+IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 6 (seis) esferas y otra “adicional”, cuyos números integrarán la combinación de números ganadora.
+
+El orden o secuencia en que se extraigan las 6 (seis) primeras esferas numeradas de la urna, no influirá en el resultado del sorteo; pero el número “adicional”, será siempre y en todo caso, la ubicada en la última posición de izquierda a derecha, relativa al frente de la urna.
+
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere la fracción III del presente artículo.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 16o.
 
-Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del Inspector de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
+Concluida la ceremonia y determinada la combinación de números ganadora, en presencia del Inspector de la Secretaría de Gobernación y de los funcionarios mencionados en la fracción II del artículo 15o., se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 17o.
 
-Se considera fondo de cada sorteo el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el sorteo.
+Se considera fondo de cada sorteo el valor conjunto de todas las participaciones que hayan sido captadas, controladas, registradas y aseguradas en el sistema central de captación de transacciones en línea, para los efectos de su participación en el sorteo.
 
 Dicho fondo se aplicará como sigue:
 
 Un 10% a los agentes como comisión por las ventas que realicen.
 
-Un mínimo del 45% destinado a premiación de los participantes ganadores.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Un mínimo del 55% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la reserva de contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 18o.
 
-Se instituyen 8 categorías de premios en cada sorteo:
+Se instituyen 9 categorías de premios en cada sorteo:
 
-a) A primer lugar, a las combinaciones dentro de las cuales figuren los 6 (seis) primeros números extraídos al azar de la tómbola, a los que se designará números naturales.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+a) A primer lugar, a las combinaciones dentro de las cuales figuren los 6 (seis) primeros números extraídos al azar de la urna, a los que se designará números naturales.
 
 b) A segundo lugar, a las combinaciones dentro de las cuales figuren 5 (cinco) de los 6 (seis) números naturales y el adicional.
 
@@ -221,19 +245,33 @@ e) A quinto lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) d
 
 f) A sexto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales y el adicional.
 
-g) A séptimo lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales, y.
+g) A séptimo lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales, y (sic)
 
 h) A octavo lugar, a las combinaciones dentro de las cuales figuren 2 (dos) de los 6 (seis) números naturales y el adicional.
 
-Las combinaciones en las que figuren menos números de los mencionados en el inciso h) anterior, no serán acreedoras a premiación alguna.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+i) A noveno lugar, a las combinaciones dentro de las cuales figure 1 (uno) de los 6 (seis) números naturales y el adicional.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Las participaciones en las que figuren menos números de los mencionados en el inciso i) anterior, no serán acreedoras a premiación alguna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Cada participación sencilla sólo puede obtener un premio en una de las categorías especificadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 19o.
 
-El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 18o. de este reglamento y la dará a conocer previamente al público en los diarios de mayor circulación del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 18o. de este reglamento y la dará a conocer previamente al público en medios de comunicación masiva y/o en el sitio Web de Pronósticos. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20o.
 
@@ -249,29 +287,25 @@ De no haber combinación ganadora a los lugares segundo, tercero, cuarto y quint
 
 Las categorías de sexto, séptimo y octavo lugar no tienen premios acumulativos y, por lo tanto, sus importes asignados deberán repartirse en cada sorteo.
 
-Los montos asignados para la premiación de las cinco primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez substraído el monto destinado a cubrir el pago de premios de la sexta a la octava categoría.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+Los montos asignados para la premiación de las cinco primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez sustraído el monto destinado a cubrir el pago de premios de la sexta a la novena categoría.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 21o.
 
-Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+Concluida la ceremonia e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en la fracción II del artículo 15o. de este reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
-El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
+El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el desarrollo y la celebración del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
+###### Artículo 21o.
 
-El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaria de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
-
-A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos a los cuales exclusivamente tendrá acceso el Organo interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la sección de ganadores.
+bis.- Si por causas de fuerza mayor no acudiera al evento el Inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un Fedatario Público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a aquel correspondían dentro del desarrollo de la ceremonia.
 
 > <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
-
-###### Artículo 21o.
-
-bis.- Si por causas de fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un fedatario público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a éste correspondían dentro del desarrollo del sorteo.
 
 En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
@@ -281,9 +315,17 @@ En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta 
 
 Dentro de los 5 días hábiles siguientes a la publicación a que se refiere el artículo 14 de este Reglamento, el participante que tenga interés legítimo deberá impugnar los resultados mediante la presentación de escrito de inconformidad ante Pronósticos, en el que deberá exponer las razones de la impugnación y acompañar el documento en que funde su reclamación.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 23o.
 
 La Comisión Dictaminadora de Reclamaciones integrada por los funcionarios de Pronósticos designados por su Director General y por el Inspector de la Secretaría de Gobernación, estudiará y resolverá las inconformidades. El Director General de Pronósticos proveerá el cumplimiento de la resolución que se dicte.
+
+La Comisión Dictaminadora de Reclamaciones deberá reunirse en la fecha, lugar y hora que señale su Presidente y aceptará o desechará las reclamaciones o inconformidades que se presenten, notificando dicha resolución al reclamante dentro de los treinta días hábiles posteriores.
+
+Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comisión y serán definitivas.
+
+Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
 
 ###### Artículo 24o.
 
@@ -295,15 +337,21 @@ Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta d
 
 ### Capítulo V. Del pago de premios
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 26o.
 
-A partir del siguiente día hábil a la fecha de celebración del sorteo correspondiente, Pronósticos procederá al pago de los premios en moneda nacional.
+A partir del siguiente día hábil a la fecha de celebración del sorteo correspondiente, Pronósticos procederá al pago de los premios de hasta $9'999,999.99 (nueve millones novecientos noventa y nueve mil novecientos noventa y nueve pesos 99/100 M.N.), en moneda nacional.
 
-El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
+El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora o bien una vez corroborada la autenticidad del mismo, tratándose de registro electrónico.
+
+Para aquellos boletos cuyo premio resulte superior a la cantidad señalada en el primer párrafo de este artículo, Pronósticos contará con 5 (cinco) días hábiles para identificarlos, verificarlos y validarlos por los medios que considere idóneos, previo al pago del mismo.
+
+Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
 Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
 
-Cualquiera que sea el importe del premio podrán hacerlo efectivo en las Oficinas Generales de Pronósticos o en las instituciones u organismos que señale y que se harán del conocimiento del público.
+Cualquiera que sea el importe del premio podrán hacerlo efectivo en las Oficinas Generales de Pronósticos o en las instituciones u organismos que éste señale y que se harán del conocimiento del público.
 
 ###### Artículo 27o.
 
@@ -313,9 +361,13 @@ Para seguridad de los propios participantes, Pronósticos identificará por los 
 
 El pago de los premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir los premios cuando los datos consignados en el boleto de que se trate no coincidan íntegramente con los de sus registros, carezcan de las menciones que señala este reglamento o se encuentre mutilados, alterados o maltratados en forma que haga imposible la comprobación de su legitimidad o autenticidad.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 29o.
 
-El derecho al cobro del premio caducará en un plazo de sesenta días naturales contados a partir del día siguiente de la celebración del sorteo. El importe de los premios caducos, se llevará a la cuenta de reserva y posteriormente su destino final será el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la Asistencia Pública.
+El derecho al cobro del premio caducará en un plazo de sesenta días naturales contados a partir del día siguiente de la celebración del sorteo.
+
+El importe de los premios caducos, se llevará a la cuenta de reserva para que posteriormente, con la aprobación del Consejo Directivo y de acuerdo a los resultados de los estudios actuariales que se realicen para determinar, en su caso, los excedentes de acumulación en el saldo de dicha reserva, su destino final sea el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la asistencia pública.
 
 ###### Artículo 30o.
 
@@ -329,7 +381,9 @@ Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un
 
 En el caso de que el boleto contenga la participación dentro del sorteo Instantáneo en Línea únicamente se reembolsará el valor correspondiente al Melate, no así el de aquel.
 
-### Capítulo VI. Disposiciones generales del Promocional Revancha
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+### Capítulo VI. Disposiciones generales de Revancha
 
 ###### Artículo 32o.
 
@@ -339,71 +393,103 @@ Se participará en Revancha con los mismos números seleccionados en Melate, med
 
 Con el mismo boleto con que se participa en Melate, se participa en Revancha, por lo que en este caso el boleto lleva impresa la nota “Combinación con Revancha”.
 
-### Capítulo VII. De los procedimientos para participar en el Promocional Revancha
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+### Capítulo VII. De los procedimientos para participar en el de Revancha
 
 ###### Artículo 33o.
 
 El participante además de observar los procedimientos para participar en Melate, que señalan los artículos 4o al 13o de este reglamento, en el volante que emite Pronósticos, marcará su opción de participar en Revancha.
 
-### Capítulo VIII. Del sorteo y la asignación de premios del promocional Revancha
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+### Capítulo VIII. Del sorteo y la asignación de premios de Revancha
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 34o.
 
-Todos los sorteos se verificarán en lugar al cual tenga libre acceso el público.
+Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en diarios de circulación importante, el siguiente día al que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación por combinación sencilla correspondiente a cada una de las categorías establecidas.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 35o.
 
-El día y hora fijados para el sorteo ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 51 esferas iguales en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
+El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, se procederá conforme a lo siguiente:
 
-Ante la presencia del mismo Inspector se procederá a extraer de la tómbola, una a una y al azar, 6 (seis) esferas cuyos números integrarán la combinación de números ganadora.
+I. Se introducirán en una urna 51 (cincuenta y un) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
 
-El orden o secuencia en que se extraigan las 6 (seis) primeras esferas numeradas de la tómbola, no influirá en el resultado del sorteo.
+II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregue al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual exclusivamente tendrá acceso el Organo Interno de Control.
+
+IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 6 (seis) esferas, cuyos números integrarán la combinación de números ganadora.
+
+El orden o secuencia en que se extraigan las 6 (seis) esferas numeradas de la urna, no influirá en el resultado del sorteo.
+
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere la fracción III anterior.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 36o.
 
-Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del Inspector de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
+Concluida la ceremonia y determinada la combinación de números ganadora, en presencia del Inspector de la Secretaría de Gobernación y de los funcionarios mencionados en la fracción II del artículo 35o. de este reglamento, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 37o.
 
-Se considera fondo de cada sorteo el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en las oficinas generales de Pronósticos, para los efectos de su participación en el sorteo.
+Se considera fondo de cada sorteo el valor conjunto de todas las participaciones que hayan sido captadas, controladas, registradas y aseguradas en el sistema central de captación de transacciones en línea, para los efectos de su participación en el sorteo.
 
 Dicho fondo se aplicará como sigue:
 
 Un 10% a los agentes como comisión por las ventas que realicen.
 
-Un mínimo de 45% destinado a premiación de los participantes ganadores.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Un mínimo de 57% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2003)</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 38o.
 
 Se instituyen 4 categorías de premios en cada sorteo:
 
-a) A primer lugar, a las combinaciones dentro de las cuales figuren los 6 (seis) números extraídos al azar de la tómbola.
+a) A primer lugar, a las combinaciones dentro de las cuales figuren los 6 (seis) números extraídos al azar de la urna.
 
-b) A segundo lugar, a las combinaciones dentro de las cuales figuren 5 (cinco) de los 6 (seis) números.
+b) A segundo lugar, a las combinaciones dentro de las cuales figuren 5 (cinco) de los 6 (seis) números extraídos al azar de la urna.
 
-c) A tercer lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) de los 6 (seis) números.
+c) A tercer lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) de los 6 (seis) números extraídos al azar de la urna.
 
-d) A cuarto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números.
+d) A cuarto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números extraídos al azar de la urna.
 
-Las combinaciones en las que figuren menos números de los mencionados en el inciso d) anterior, no serán acreedoras a premiación alguna.
+e) A quinto lugar, a las combinaciones dentro de las cuales figuren 2 (dos) de los 6 (seis) números extraídos al azar de la urna.
+
+Las combinaciones en las que figuren menos números de los mencionados en el inciso e) anterior, no serán acreedoras a premiación alguna.
+
+Cada quiniela sencilla sólo puede obtener un premio en una de las categorías especificadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 39o.
 
-El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 38o. de este Reglamento y la dará a conocer previamente al público en los diarios de mayor circulación del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 38o. de este reglamento y la dará a conocer previamente al público en medios de comunicación masiva y/o en el sitio Web de Pronósticos. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 40o.
 
@@ -413,25 +499,19 @@ De no haber combinación ganadora al segundo lugar lo asignado a esta categoría
 
 De no haber combinación ganadora ni en segundo ni en tercer lugar, lo asignado a estas categorías acrecentará en su totalidad el premio asignado al primer lugar del siguiente sorteo.
 
-La categoría de cuarto lugar no tiene premio acumulativo y, por lo tanto, su importe asignado deberá repartirse en cada sorteo.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Las categorías de cuarto y quinto lugar no tienen premios acumulativos y, por lo tanto, sus importes asignados deberán repartirse en cada sorteo.
 
 Los montos asignados para la premiación de las tres primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez substraído el monto destinado a cubrir el pago de premios de la cuarta categoría.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 41o.
 
-Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo, así como los pormenores correspondientes a la Revancha. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en la fracción II del artículo 35o. de este reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
-El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
-
-Estarán presentes también en el desarrollo y la celebración del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
-
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
-
-El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
-
-A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
+El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
 > <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
@@ -441,23 +521,43 @@ bis.- Si por causas de fuerza mayor no acudiera al evento el inspector designado
 
 En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
-### Capítulo IX. Del pago de premios del promocional Revancha
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO VIII BIS. De las Reclamaciones de Revancha
+
+(REUBICADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 42o.
 
 Dentro de los 5 días hábiles siguientes a la publicación a que se refiere el artículo 34o de este Reglamento, el participante que tenga interés legítimo deberá impugnar los resultados mediante la presentación de escrito de inconformidad ante Pronósticos, en el que deberá exponer las razones de la impugnación y acompañar el documento en que funde su reclamación.
 
+> <small>(REFORMADO Y REUBICADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 43o.
 
 La Comisión Dictaminadora de Reclamaciones integrada por los funcionarios de Pronósticos designados por su Director General y por el Inspector de la Secretaría de Gobernación, estudiará y resolverá las inconformidades. El Director General de Pronósticos proveerá el cumplimiento de la resolución que se dicte.
+
+La Comisión Dictaminadora de Reclamaciones deberá reunirse en la fecha, lugar y hora que señale su Presidente y aceptará o desechará las reclamaciones o inconformidades que se presenten, notificando dicha resolución al reclamante dentro de los treinta días hábiles posteriores.
+
+Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comisión y serán definitivas.
+
+Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
+
+(REUBICADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 44o.
 
 Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
+(REUBICADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)
+
 ###### Artículo 45o.
 
 Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el reglamento publicado en el Diario Oficial de la Federación del 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+
+### Capítulo IX. Del pago de premios de Revancha
 
 ###### Artículo 46o.
 
@@ -524,3 +624,19 @@ Primero.- Estas reformas entrarán en vigor al día siguiente de su publicación
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas de este Reglamento, serán resueltos conforme a los anteriores.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2006
+
+Primero.- Se modifican los capítulos VI, VII, VIII y IX del presente Reglamento, cuando en ellos se haga referencia a la denominación "del Promocional Revancha", se entenderá como "de Revancha".
+
+Segundo.- Se adiciona el capítulo VIII bis "De las Reclamaciones de Revancha", el cual comprenderá los artículos 42o. al 45o.
+
+Tercero.- Los artículos 15o. y 35o. del presente Reglamento, entrarán en vigor a partir del 11 de septiembre de 2006.
+
+Cuarto.- Los artículos 17o., 18o., 20o., 37o., 38o. y 40o. del presente Reglamento, entrarán en vigor a partir del 19 de octubre de 2006.
+
+Quinto.- El presente acuerdo entrará en vigor al siguiente día de su publicación.
+
+Sexto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Séptimo.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
