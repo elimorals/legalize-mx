@@ -4,7 +4,7 @@ identifier: "CMX-nuevas-reglas-de-operacion-del-centro-de-justicia-51733"
 country: "mx"
 rank: "otro"
 publication_date: "2005-06-17"
-last_updated: "2005-06-17"
+last_updated: "2006-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51733&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2006-09-08"
 
 NUEVAS REGLAS DE OPERACION DEL CENTRO DE JUSTICIA ALTERNATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2006.
 
 Reglas publicadas en la Gaceta Oficial del Distrito Federal, el viernes 17 de junio de 2005.
 
@@ -77,19 +77,27 @@ DE LAS DEFINICIONES Y TERMINOLOGÍA
 
 Para efectos de este ordenamiento, deberá entenderse por:
 
-a) Autocomposición: solución que los propios mediados proporcionan a su conflicto.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+a) Autocomposición: solución que dos o más personas proporcionan a su conflicto.
 
 b) Mediación: procedimiento autocompositivo por el cual dos o más personas, llamadas mediados, involucradas en un conflicto, buscan y construyen ellas mismas una solución satisfactoria, con la asistencia de un tercero llamado mediador.
 
-c) Mediación familiar: procedimiento de solución de los conflictos originados en las relaciones entre hombre y mujer que se encuentren unidos en matrimonio o concubinato, entre personas unidas por algún lazo de parentesco; y los que surjan derivados tanto de dichas relaciones como de las mismas con terceros.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+c) Mediación Familiar: procedimiento para la solución de los conflictos originados en las relaciones entre hombre y mujer unidos en matrimonio o concubinato, o aun cuando no se encuentren en dichos supuestos, tengan hijos en común; entre personas unidas por algún lazo de parentesco, así como los que surjan de esas relaciones con terceros.
 
 d) Mediador: profesional de la Mediación capacitado y registrado por el Tribunal Superior de Justicia del Distrito Federal, para conducir el procedimiento de Mediación y actuar como facilitador de la comunicación y la negociación entre los mediados.
 
 e) Mediados: personas físicas o morales que, después de haber establecido una relación de variada naturaleza, se someten al proceso de Mediación, en busca de la solución a su conflicto.
 
-f) Comediador: mediador auxiliar del mediador a quien le fue asignado el caso, que tiene como función asistirlo, siempre que se requiera, en cualquier etapa del procedimiento, aportando sus experiencias, conocimientos y habilidades.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-g) Comediación: procedimiento complementario de la Mediación con el cual se enriquece su mecanismo habitual, a partir de la intervención de otro u otros mediadores.
+f) Comediador: Mediador o profesional de la Mediación autorizado por el Centro para auxiliar al Mediador asignado a determinado caso, para asistirlo en la Mediación, aportando sus experiencias, conocimientos y habilidades.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+g) Comediación: procedimiento complementario de la Mediación con el cual se enriquece su mecanismo habitual, a partir de la intervención de otro u otros mediadores o profesionales autorizados por el Centro.
 
 h) Remediación: etapa posterior de la Mediación que tiene lugar cuando el convenio alcanzado en ella, se ha incumplido parcial o totalmente, o cuando surgen nuevas circunstancias que hacen necesario retrotraer la Mediación para la modificación del convenio original.
 
@@ -113,11 +121,23 @@ q) Registro: Registro de Mediadores del Centro de Justicia Alternativa.
 
 r) Reglas: Nuevas Reglas de Operación del Centro de Justicia Alternativa.
 
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+s) Mediación Civil o Comercial: procedimiento para la solución de conflictos originados en las relaciones de naturaleza estrictamente civil, distinta de la familiar, o en las relaciones de naturaleza comercial.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+t) Orientador: profesional capacitado en Mediación, cuya función consiste en informar al público sobre el servicio de Mediación, valorar si los asuntos que se plantean son susceptibles de ser mediables y, en caso contrario, sugerir las instancias pertinentes.
+
 DE LA NATURALEZA Y COMPETENCIA DEL CENTRO
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 3.
 
-El Centro es una dependencia del Consejo que cuenta con autonomía técnica y de gestión, y se instituye para administrar y desarrollar los métodos alternativos de solución de conflictos.
+El Centro es una dependencia del Consejo con autonomía técnica y de gestión, instituido para administrar y desarrollar los métodos alternos de solución de conflictos.
+
+Para el desarrollo de sus funciones, el Centro contará con una Dirección Ejecutiva y la estructura orgánica autorizada.
 
 DEL OBJETO DEL CENTRO
 
@@ -153,9 +173,9 @@ La Mediación, de conformidad con este ordenamiento, es de naturaleza administra
 
 Además de los casos expresamente señalados por las Leyes, los particulares, en cualquier momento pueden optar por recurrir a la Mediación para dirimir sus conflictos, en los términos establecidos en este ordenamiento.
 
-La vía judicial estará siempre expedita en los términos y condiciones que establecen las leyes respectivas, para alcanzar la solución que por las vías alternas no se consiguió.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-Aun cuando los particulares hayan buscado dirimir sus conflictos en la vía jurisdiccional, también pueden intentar alcanzar la solución a los mismos, a través de la Mediación, sujetándose a los términos y condiciones que establece la Ley.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
 DE LA POTESTAD DE LOS ÓRGANOS JUDICIALES PARA ORIENTAR E INFORMAR SOBRE EL SERVICIO DE MEDIACIÓN
 
@@ -181,7 +201,9 @@ II. Confidencialidad. La información tratada en Mediación no deberá ser divul
 
 III. Flexibilidad. La Mediación carecerá de toda forma rígida;
 
-IV. Neutralidad. La Mediación deberá estar exenta de juicios, preferencias, opiniones y prejuicios ajenos a los mediados que puedan influir en la toma de sus decisiones;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Neutralidad. La Mediación deberá estar exenta de juicios, preferencias, opiniones y prejuicios respecto de los mediados, que puedan influir en la toma de sus decisiones;
 
 V. Imparcialidad. La Mediación deberá estar libre de favoritismos, inclinaciones o preferencias, no concederá ventajas a alguno de los mediados;
 
@@ -191,15 +213,19 @@ VII. Legalidad. La Mediación tendrá como límites la voluntad de las partes, l
 
 VIII. Honestidad. En la Mediación se valorarán las capacidades y limitaciones del mediador, para conducirla.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPÍTULO SEGUNDO.
 
-De la organización y funcionamiento del Centro de Justicia Alternativa.
+De la organización y Funcionamiento del Centro de Justicia Alternativa.
 
 DE LAS FUNCIONES DEL CENTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 9.
 
-A efecto de cumplir con sus objetivos, el Centro deberá:
+Son funciones del Centro:
 
 I. Administrar, evaluar y retroalimentar los servicios de Mediación, Comediación y Remediación.
 
@@ -213,7 +239,9 @@ V. Mantener actualizado el Registro;
 
 VI. Determinar si son mediables los conflictos respecto de los que se solicite el servicio de Mediación;
 
-VII. Asignar los asuntos a los mediadores de acuerdo a la lista de turno en la que se registren sus nombres, a efecto de que la asignación se realice en el orden numérico que corresponda, distribuyendo en forma equitativa las cargas de trabajo;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Asignar los asuntos a los mediadores en función de la naturaleza jurídica del conflicto y de acuerdo a la lista de turno en la que se registren sus nombres, a efecto de que la asignación se realice en el orden numérico que corresponda, distribuyendo en forma equitativa las cargas de trabajo;
 
 VIII. Monitorear permanentemente el desempeño del mediador;
 
@@ -233,17 +261,19 @@ XV. Cumplir con las demás disposiciones que establece este ordenamiento, el Con
 
 DE LAS CARACTERÍSTICAS DEL DIRECTOR Y DE SU PERMANENCIA EN EL CARGO
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 10.
 
-El Centro estará encomendado a un Director nombrado por el Consejo, procurando que en su persona se actualicen, una formación multidisciplinaria en materias de Derecho, Psicología, Sociología u otras aplicables a los métodos alternos, y conocimientos o experiencia sobre los mismos.
-
-El Director del Centro durará en su encargo dos años y podrá ser ratificado por el Consejo para otro periodo igual.
+El Centro estará encomendado a un Director Ejecutivo nombrado por el Consejo, procurando que en su persona se actualicen, una formación multidisciplinaria en materias de Derecho, Psicología, Sociología u otras aplicables a los Métodos Alternos, y conocimientos o experiencia sobre los mismos.
 
 DE LOS REQUISITOS PARA SER DIRECTOR
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 11.
 
-Para ser Director del Centro se deberán reunir los siguientes requisitos:
+Para ser Director Ejecutivo del Centro se deberán reunir los siguientes requisitos:
 
 I. Ser mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -261,9 +291,11 @@ VII. No haber sido condenado por delito alguno que lastime seriamente su buena f
 
 DE LAS ATRIBUCIONES DEL DIRECTOR
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 12.
 
-El Director tendrá las siguientes obligaciones con carácter de indelegables:
+El Director Ejecutivo tendrá las siguientes obligaciones con carácter de indelegables:
 
 I. Dirigir el Centro;
 
@@ -305,7 +337,9 @@ XIX. A partir de la experiencia del Centro y del reconocimiento de los avances d
 
 XX. Resguardar y mantener actualizado el Registro;
 
-XXI. Realizar cada dos años los procesos de evaluación de los mediadores y dar cuenta al Consejo con los resultados, remitiéndole toda la información relacionada con su récord, acompañándola de los comentarios y opinión conducentes, para efectos de su ratificación o revocación, así como para la actualización del Registro;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+XXI. Realizar los procesos de evaluación de los mediadores, en los términos previstos al respecto en este ordenamiento;
 
 XXII. Operar los mecanismos de difusión necesarios, a efecto de que el Tribunal y la sociedad conozcan las funciones, bondades y alcances de los servicios del Centro;
 
@@ -321,9 +355,11 @@ XXVII. Las demás que el Consejo o la Ley le impongan.
 
 DE LAS CAUSAS DE REMOCIÓN DEL DIRECTOR
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 13.
 
-El Director podrá ser removido cuando incurra en alguna de las siguientes hipótesis:
+El Director Ejecutivo podrá ser removido cuando incurra en alguna de las siguientes hipótesis:
 
 I. El incumplimiento de sus funciones o negligencia en el desempeño de las mismas;
 
@@ -343,11 +379,15 @@ VIII. Ausentarse de sus labores por más de tres días hábiles consecutivos sin
 
 DE LAS AUSENCIAS DEL DIRECTOR
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-En toda ausencia del Director por más de cinco días hábiles consecutivos, con autorización del Presidente del Consejo o por causa justificada, el Centro quedará a cargo de la persona que señale expresamente el Director o el Presidente del Consejo, si aquél se encuentra impedido.
+En toda ausencia del Director Ejecutivo por más de cinco días hábiles consecutivos, con autorización del Presidente del Consejo o por causa justificada, el Centro quedará a cargo de la persona que señale expresamente el Director o el Presidente del Consejo, si aquél se encuentra impedido.
 
-La vacante de Director será cubierta mediante nueva designación del Consejo, conforme a lo dispuesto en los artículos 10 y 11 de este ordenamiento.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+La vacante de Director Ejecutivo será cubierta mediante nueva designación del Consejo, conforme a lo dispuesto en los artículos 10 y 11 de este ordenamiento.
 
 Si la vacante se produce antes de la terminación del periodo respectivo, la persona que se designe para cubrirla durará en su encargo el tiempo que le faltó desempeñar a la persona sustituida.
 
@@ -391,9 +431,13 @@ V. Mantener o haber mantenido, durante los seis meses inmediatos anteriores a su
 
 VI. Ser socio, arrendador o inquilino de alguno de los mediados del procedimiento que se le turne;
 
-VII. Cuando con anterioridad a la designación, exista un vínculo de afecto o desafecto con alguno de los mediados, sus parientes por consanguinidad en línea recta sin limitación de grado, los colaterales hasta el cuarto o por afinidad, que pueda trascender en el procedimiento; y
+VII. Cuando con anterioridad a la designación, exista un vínculo de afecto o desafecto con alguno de los mediados, sus parientes por consanguinidad en línea recta sin limitación de grado, los colaterales hasta el cuarto o por afinidad, que pueda trascender en el procedimiento; y (sic)
 
-VIII. Cuando durante el procedimiento llegara a actualizarse cualquiera de los supuestos mencionados.
+VIII. Cuando durante el procedimiento llegara a actualizarse cualquiera de los supuestos mencionados;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Haber sido abogado, apoderado o persona autorizada de cualquiera de los mediados en algún juicio.
 
 DE LA OBLIGACIÓN DEL MEDIADOR DE EXCUSARSE Y DE SU SUBSTITUCIÓN
 
@@ -429,9 +473,13 @@ b) Tratar con respeto y diligencia a los mediados, conduciéndose ante ellos sin
 
 c) Abstenerse de divulgar y utilizar la información que obtengan en el ejercicio de la función y mantenerla en secreto;
 
-d) Conducir el procedimiento sin rigideces, respondiendo a las necesidades de los mediados, de manera que al propiciar una buena comunicación y comprensión entre ellos, se les facilite la negociación;
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-e) Cuidar que los mediados participen de manera libre, voluntaria, exentos de coacciones o de influencia alguna y de que libremente tomen sus propias decisiones para lograr acuerdos satisfactorios;
+d) Conducir el procedimiento con flexibilidad, respondiendo a las necesidades de los mediados, de manera que, al propiciar una buena comunicación y comprensión entre ellos, se les facilite la negociación;
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+e) Cuidar que los mediados participen en la Medicación de manera libre, voluntaria, exentos de coacciones o de influencia alguna y de que libremente tomen sus propias decisiones para lograr acuerdos satisfactorios;
 
 f) Conducir el procedimiento con equidad, estimulando la creatividad de los mediados durante la negociación;
 
@@ -439,9 +487,13 @@ g) Asegurarse de que los acuerdos a los que lleguen los mediados, estén apegado
 
 h) Evitar influir en los mediados para acudir, permanecer o retirarse del proceso de Mediación; los mediados deberán decidirlo por sí mismos, libremente y sin presiones.
 
-II. Suscribir “Escrito de Autonomía” en los casos que así proceda;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
-III. Celebrar convenio de confidencialidad con los mediados;
+II. Suscribir el "Escrito de Autonomía" en los casos que así proceda;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+III. Celebrar el “Convenio de Confidencialidad” con los Mediados;
 
 IV. Solicitar el consentimiento de los mediados para la participación de comediadores, peritos u otras personas en la Mediación, cuando resulte evidente que por las características del conflicto, se requiere su intervención;
 
@@ -459,7 +511,9 @@ d) Cuando la Mediación se vuelva inútil o impracticable para la finalidad pers
 
 e) Cuando alguno de los mediados o ambos lo soliciten.
 
-VII. Dar aviso ante la Dirección cuando tenga indicios de amenaza para la vida o la integridad física o psíquica de alguno de los mediados, que constituyan violencia familiar, o conozca de la concreción de hechos delictivos perseguibles de oficio, tanto para orientar y canalizar a los mediados a las instituciones especializadas pertinentes, como para dar vista, en su caso, a las autoridades competentes;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Dar aviso ante la Dirección Ejecutiva cuando tenga indicios de amenaza para la vida o la integridad física o psíquica de alguno de los Mediados, que constituyan violencia familiar, o cuando conozca de la concreción de hechos delictivos perseguibles de oficio, tanto para orientar y canalizar a los Mediados a las instituciones especializadas pertinentes, así como para, en su caso, hacerlo del conocimiento de las autoridades correspondientes;
 
 VIII. Rendir al Director informe de sus actividades;
 
@@ -473,19 +527,37 @@ XII. Cumplir con la normatividad que regule la operación del Centro, así como 
 
 XIII. Cumplir con las demás que este ordenamiento, otras leyes y el Consejo establezcan.
 
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Para el caso de que el Comediador autorizado por el Centro sea ajeno a éste, no aplican las fracciones VII a XIII de este artículo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 20 bis. Son obligaciones del Orientador:
+
+I. Dar a conocer las características, principios y reglas sobre los que se funda la Mediación;
+
+II. Valorar si el problema y las expectativas planteados por los usuarios son objeto de Mediación;
+
+III. Valorar la capacidad y disposición de los usuarios para participar en el procedimiento;
+
+IV. Sensibilizar a los solicitantes del servicio de Mediación para que usen esta vía de diálogo y negociación para la resolución de sus problemas.
+
 DEL PROCEDIMIENTO DISCIPLINARIO
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-El incumplimiento de alguna de las obligaciones establecidas en el artículo anterior, dará lugar a que los mediadores o los comediadores, a instancia del Director del Centro, sean sometidos al procedimiento disciplinario que corresponda y, en su caso, sancionados por la Comisión de Disciplina Judicial del Consejo.
-
-El Director del Centro consignará en el Registro, el resultado y sentido de la resolución firme que el Consejo emita.
+El incumplimiento de alguna de las obligaciones establecidas en los dos artículos anteriores, dará lugar a que los mediadores, comediadores u orientadores del Centro, a instancia del Director Ejecutivo, sean sometidos al procedimiento disciplinario que corresponda y, en su caso, sancionados por la Comisión de Disciplina Judicial del Consejo.
 
 DEL IMPEDIMENTO DERIVADO DE LA CONFIDENCIALIDAD QUE DEBE GUARDAR EL MEDIADOR
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 22.
 
-El mediador no podrá actuar como testigo en procedimiento legal alguno relacionado con los asuntos que medie, en términos del principio de confidencialidad que rige a la Mediación y al deber del secreto profesional que le asiste.
+El Mediador no podrá actuar como testigo en procedimiento legal alguno relacionado con los asuntos en los que participe, en términos del principio de confidencialidad que rige a la Mediación y al deber del secreto profesional que le asiste.
 
 DE LAS RESPONSABILIDADES DE LOS MEDIADORES
 
@@ -501,17 +573,23 @@ DE LOS ESTÍMULOS E INCENTIVOS PARA MEDIADORES Y COMEDIADORES
 
 El mediador o comediador, que en el ejercicio de su cargo, tenga un comportamiento sistemáticamente meritorio y destacado, se hará acreedor a los estímulos e incentivos establecidos en los programas que implante el Centro.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPÍTULO TERCERO.
 
-Del procedimiento de Mediación.
+Del Procedimiento de Mediación.
 
-Disposiciones generales.
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Disposiciones Generales.
 
 DE QUIÉNES PUEDEN Y CÓMO SOLICITAR INFORMACIÓN Y ORIENTACIÓN
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 25.
 
-Las solicitudes de información y orientación sobre el servicio de Mediación se formularán por los involucrados en el conflicto o por alguno de ellos, personalmente o por representante legal, ya sea de manera oral o escrita.
+Las solicitudes de información y orientación sobre el servicio de Mediación se formularán personalmente o por representante legal, ya sea de manera oral o escrita.
 
 DE LAS FORMAS DE SOLICITUD
 
@@ -535,9 +613,11 @@ La información que, en forma oral o por escrito, proporcionen los interesados a
 
 DEL “ACUERDO DE ACEPTACIÓN DEL SERVICIO DE MEDIACIÓN”
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 28.
 
-Si después de haber recibido la información, los solicitantes manifiestan su voluntad de participar en el procedimiento de Mediación, firmarán el “Acuerdo de Aceptación del Servicio de Mediación”, se les hará saber la fecha y hora para que comparezcan a la sesión inicial de Mediación, y se abrirá el expediente respectivo, al que se integrará el formulario estadístico, copia simple del documento de identificación y de las formas que se acumulen durante la Mediación.
+Si después de haber recibido la información, los solicitantes manifiestan por escrito su voluntad de participar en el procedimiento de Mediación, se les hará saber la fecha y hora para que comparezcan a la sesión inicial de Mediación, y se abrirá el expediente respectivo, al que se integrará copia simple del documento de identificación y una impresión de los formatos que se acumulen durante la Mediación.
 
 DE LA INVITACIÓN A RECIBIR EL SERVICIO
 
@@ -571,7 +651,9 @@ DE LA ASIGNACIÓN DEL MEDIADOR Y DE LA DETERMINACIÓN DE SU AUTONOMÍA
 
 Al momento en que se comunique a los mediados la cita de la sesión inicial, se les hará saber el nombre del mediador a quien en turno corresponda conducir el procedimiento.
 
-El mediador asignado, recibirá el expediente y tendrá obligación de emitir, dentro de los cinco días hábiles siguientes, su aceptación a través de la suscripción del “Escrito de Autonomía”, o de excusarse de conducir el procedimiento, por tener impedimento; en cuyo caso, deberá asignarse el asunto al siguiente mediador en turno; el cambio se anotará en el formulario estadístico y se hará del conocimiento de los mediados.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+El Mediador asignado, recibirá el expediente y tendrá obligación de emitir, dentro de los cinco días hábiles siguientes, su aceptación a través de la suscripción del "Escrito de Autonomía", o de excusarse de conducir el procedimiento, por tener impedimento; en cuyo caso, deberá asignarse el asunto al siguiente Mediador en turno, y efectuarse los registros conducentes; el cambio se hará del conocimiento de los mediados.
 
 DE LA MANERA DE RECIBIR INFORMACIÓN
 
@@ -599,7 +681,9 @@ f. Recordar que están por voluntad propia en la sesión y que, por lo tanto, su
 
 g. Permitir que el mediador guíe el procedimiento;
 
-h. Tener la mejor disposición para efectuar sesiones privadas cuando el mediador las solicite o alguno de los mediados la sugiera;
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+h. Tener disposición para efectuar sesiones privadas cuando el Mediador las solicite o alguno de los mediados la sugiera;
 
 i. No abandonar la sesión hasta en tanto el mediador la dé por terminada;
 
@@ -665,9 +749,11 @@ II. Por decisión del mediador, cuando se actualice cualquiera de los supuesto (
 
 DE LAS FORMALIDADES Y REQUISITOS DEL CONVENIO DE MEDIACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 41.
 
-Los acuerdos a los que lleguen los mediados se harán constar en un convenio legal que deberá observar las formalidades y requisitos siguientes:
+Los acuerdos a los que lleguen los Mediados se harán constar en un convenio que deberá observar las formalidades y requisitos siguientes:
 
 a) Constar por escrito;
 
@@ -675,7 +761,9 @@ b) Indicar lugar y fecha de celebración, nombre, edad, nacionalidad, estado civ
 
 c) Describir, en su caso, el documento con el que el apoderado o representante legal de los mediados acreditó su personalidad;
 
-d) Asentar los antecedentes de la relación de los mediados que motivaron la Mediación;
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+d) Asentar los antecedentes de la relación de los Mediados;
 
 e) Precisar en cada uno la obligación de dar, hacer, no hacer o tolerar;
 
@@ -683,9 +771,15 @@ f) Constituir el clausulado del convenio y ser firmado éste por ambos mediados 
 
 DEL INCUMPLIMIENTO DEL CONVENIO DE MEDIACIÓN
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 42.
 
-Una vez formalizado el convenio, éste tendrá, respecto de los mediados, el carácter de resolución definitiva; ante su incumplimiento, parcial o total, los mismos podrán acudir a la remediación en el propio Centro, y con la reapertura del expediente respectivo, construir un convenio modificatorio o un nuevo convenio; o exigir su cumplimiento forzoso ante los jueces competentes, previa su ratificación y autorización judicial, y en la vía y forma que manden las leyes respectivas.
+Una vez formalizado el convenio, éste tendrá, respecto de los mediados, el carácter de resolución definitiva; ante su incumplimiento, parcial o total, los mismos podrán acudir a la Remediación en el propio Centro, y con la reapertura del expediente respectivo, construir un convenio modificatorio o un nuevo convenio.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 42 bis. Una vez formalizado el convenio, los Mediados podrán comparecer ante el Juez de primera instancia, en la vía y forma que manden las leyes respectivas, para los efectos legales que correspondan.
 
 DE LA POTESTAD DEL CENTRO RESPECTO A APOYAR EL PROCEDIMIENTO DE MEDIACIÓN
 
@@ -693,9 +787,11 @@ DE LA POTESTAD DEL CENTRO RESPECTO A APOYAR EL PROCEDIMIENTO DE MEDIACIÓN
 
 El Centro, atento a las posibles circunstancias especiales que se pudieran actualizar durante el procedimiento de Mediación, recurrirá a todas las medidas pertinentes, a su alcance, para que éste concluya exitosamente, siempre que las mismas no violenten la Ley, la moral ni las buenas costumbres.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPÍTULO CUARTO.
 
-Del Procedimiento de Mediación Familiar en particular.
+Del Procedimiento de Mediación Familiar.
 
 DEL OBJETO DEL PROCEDIMIENTO DE MEDIACIÓN FAMILIAR
 
@@ -747,17 +843,27 @@ DEL CUMPLIMIENTO FORZOSO DEL CONVENIO
 
 El cumplimiento forzoso del convenio deberá solicitarse ante el Juez Familiar por la vía de apremio, en términos de lo dispuesto por el artículo 205 del Código de Procedimientos Civiles para el Distrito Federal o a través de la (sic) vías y formas legales correspondientes.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO CUARTO BIS.
+
+Del Procedimiento de Mediación Civil o Comercial.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 47 bis. El procedimiento de Mediación Civil o Comercial tendrá por objeto la solución de los conflictos entre particulares, ya sean personas físicas o morales, derivados de sus relaciones de naturaleza civil, en tanto no involucren cuestiones de derecho familiar, o de sus relaciones de naturaleza comercial, en razón de su participación en actos de comercio.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 47 ter. Se consideran conflictos susceptibles de resolver a través de la Mediación Civil o Comercial, aquellos surgidos de las relaciones entre particulares, de naturaleza civil o comercial, siempre que no transgredan el orden público, ni afecten derechos de terceros.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPÍTULO QUINTO.
 
-Del ingreso, capacitación y evaluación de los mediadores.
+Del Ingreso, Capacitación y Evaluación de los Mediadores.
 
 DE LOS PRINCIPIOS DEL PROCESO DE SELECCIÓN
-
-### CAPÍTULO SEXTO.
-
-De la información, de la difusión y de la sistematización.
-
-DE LA INFORMACIÓN Y ORIENTACIÓN QUE PROPORCIONE EL CENTRO
 
 ###### Artículo 48.
 
@@ -795,7 +901,9 @@ d) Estudiar y promover nuevas técnicas de Mediación, delimitando normas de bue
 
 e) Atender a las necesidades de apoyo psicológico de los mediadores, cuando por su permanente contacto con el conflicto humano, así lo requieran para su propia estabilidad emocional; y
 
-f) Elaborar los diagnósticos y presentar a la Dirección las propuestas de retroalimentación que se estimen necesarias.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2006)</small>
+
+f) Elaborar los diagnósticos y presentar a la Dirección Ejecutiva las propuestas de retroalimentación que se estimen necesarias.
 
 DEL DICTAMEN DE RATIFICACIÓN O DE REVOCACIÓN DEL CARGO
 
@@ -836,6 +944,12 @@ DEL EXPEDIENTE PARA LA RATIFICACIÓN DEL CARGO DE MEDIADOR
 El Centro remitirá al Consejo el expediente integrado de cada mediador, con dos meses de anticipación a la fecha en que éste cumpla dos años en su cargo, para efectos de ratificación, en el que se consignarán, los datos de identificación, resultados estadísticos y de evaluación, constancias que acrediten lo actuado y el sentido de las resoluciones anteriores emitidas por el Consejo, si las hubiere; acompañado del dictamen expedido por el Centro, para que ese órgano resuelva la ratificación o revocación del cargo del mediador de que se trate.
 
 La resolución del Consejo deberá asentarse en el Registro.
+
+### CAPÍTULO SEXTO.
+
+De la información, de la difusión y de la sistematización.
+
+DE LA INFORMACIÓN Y ORIENTACIÓN QUE PROPORCIONE EL CENTRO
 
 ###### Artículo 55.
 
@@ -888,3 +1002,13 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES REGLAS.</small>
+
+G.O. 8 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Las presentes reformas y adiciones a las Nuevas Reglas de Operación del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, entrarán en vigor el día primero de septiembre de dos mil seis.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+TERCERO.- Para mayor difusión y por tratarse de un ordenamiento de interés general, publíquese en la Gaceta Oficial del Distrito Federal.
