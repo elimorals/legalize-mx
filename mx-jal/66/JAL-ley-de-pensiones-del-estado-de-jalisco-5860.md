@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-pensiones-del-estado-de-jalisco-5860"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1990-04-07"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PENSIONES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -379,11 +379,15 @@ Si el pensionado no fuese restituido a su empleo o no se le asignare otro, en lo
 
 #### SECCION PRIMERA. Servicios Médicos para los Pensionados y sus Beneficiarios
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 21434-LVII/06.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 52.
 
-Los pensionados, en caso de enfermedad o maternidad, tendrán derecho a la asistencia médico-quirúrgica, farmacéutica y hospitalaria que sea necesaria.
+Los pensionados, en caso de enfermedad o maternidad, tendrán derecho a la asistencia médico quirúrgica, farmacéutica y hospitalaria que sea necesaria.
 
-Esta prestación no se otorgará, si el pensionado tiene derecho por sí mismo, o por su vinculación con otras personas, a recibirla.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 53.
 
@@ -872,3 +876,7 @@ Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 7 DE ABRIL DE 1990.
 
 Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor el día 1º de enero de 2008.
