@@ -4,7 +4,7 @@ identifier: "COL-ley-tutelar-para-menores-en-el-estado-de-colima-4410"
 country: "mx"
 rank: "ley"
 publication_date: "1980-03-15"
-last_updated: "1983-08-27"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY TUTELAR PARA MENORES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1983.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA, PUBLICADA EN EL SUPLEMENTO NO. 1 AL P.O. DE 9 DE SEPTIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO hHA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 15 de marzo de 1980.
 
@@ -576,3 +578,19 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de
 P.O. 27 DE AGOSTO DE 1983.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+Primero.- El presente Decreto entrará en vigor el día 12 de septiembre del año 2006 previa publicación que se haga en el Periódico Oficial "El Estado de Colima".
+
+Segundo.- Queda abrogada la Ley Tutelar para Menores en el Estado de Colima y todas las disposiciones que se opongan al presente ordenamiento.
+
+Tercero.- El Ejecutivo y el Poder Judicial en el Estado, tomando en cuenta las autoridades y las funciones previstas en esta ley, deberán capacitar y designar a los operadores del sistema y proporcionar los recursos humanos y materiales que se requieran, debiendo instrumentar un sistema permanente de capacitación especializada.
+
+Cuarto.- Todos los recursos, instalaciones y mobiliario pertenecientes al Consejo Tutelar y su Centro de Tratamiento se entregarán, previo inventario de la Dirección de Patrimonio del Gobierno del Estado, al Instituto para el Tratamiento de Menores Infractores del Estado de Colima.
+
+Quinto.- Sin perjuicio de sus derechos laborales, se incorporarán al Instituto para el Tratamiento de Menores Infractores del Estado de Colima, el personal adscritos al Consejo Tutelar y su Centro de Tratamiento.
+
+Sexto.- A los menores que estén sometidos a procedimiento o hayan sido condenados por el Consejo Tutelar, al momento de entrar en vigor la presente ley, se les aplicará esta última, pero las medidas impuestas no podrán modificarse en perjuicio del infractor.
+
+Séptimo.- El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en los noventa días siguientes a la entrada en vigor de la misma.
