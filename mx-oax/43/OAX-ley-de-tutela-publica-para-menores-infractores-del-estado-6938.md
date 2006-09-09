@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-tutela-publica-para-menores-infractores-del-estado-6938"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "1994-11-26"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE TUTELA PUBLICA PARA MENORES INFRACTORES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -514,3 +516,19 @@ LIC. JOSE ANTONIO ESTEFAN GARFIAS
 P.O. 26 DE NOVIEMBRE DE 1994.
 
 UNICO.- Este decreto entrará en vigor el día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+Primero.- Esta Ley entrará en vigor el día 1° de enero del año 2007. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- A la entrada en vigor de la presente Ley, quedará abrogada la ley de Tutela Pública para Menores Infractores del Estado de Oaxaca publicad el 5 de Marzo de 1994.
+
+Tercero.- Durante el plazo de su entrada en vigor, el Ejecutivo estatal y las autoridades estatales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+Cuarto.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la presente ley.
+
+Quinto.- En tanto se crea la entidad encargada de la Defensoría Pública, el Tribunal Superior de Justicia dispondrá y capacitará a personal suficiente que cumpla con las funciones y obligaciones establecidas para los defensores públicos en esta ley.
+
+Sexto.- El Tribunal Superior de Justicia del Estado, dos meses antes de la entrada en vigor de esta ley, habilitará las plazas necesarias de acuerdo a las necesidades del servicio, para ser ocupadas por defensores públicos especializados en materia de adolescentes. Para tales efectos organizará un programa intensivo de capacitación por medio del Instituto de Capacitación Judicial.
+
+Séptimo.- La Procuraduría General de Justicia del Estado, el Tribunal Superior de Justicia y la Dirección de Ejecución de Medidas para Adolescentes, deberán programar cursos intensivos de capacitación que comprendan las materias de derecho internacional de los derechos humanos, cursos para la resolución alternativa de conflictos, y cursos prácticos de litigación en un entorno adversarial de acuerdo con las características de su función.
