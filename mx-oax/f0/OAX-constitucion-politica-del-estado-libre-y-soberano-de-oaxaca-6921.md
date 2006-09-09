@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2006-01-21"
+last_updated: "2006-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -51,7 +51,7 @@ La Ley es igual para todos. La Constitución General de la República y esta Con
 
 Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deban hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -199,7 +199,7 @@ Ningún negocio judicial tendrá más de dos instancias, y el Juez que de cualqu
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Toda persona tiene derecho a que se le administre justicia por los tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial sin perjuicio de los centros de mediación y justicia alternativa que puedan crearse por las autoridades. El servicio tanto de los tribunales como de los centros de mediación o justicia alternativa mencionados, será gratuito, quedando en consecuencia, prohibidas las costas por estos servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
@@ -320,6 +320,18 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 ###### ARTICULO 15.
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+El Estado establecerá en el ámbito de su respectiva competencia, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidas. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+La operación de este sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la consignación y las que impongan las medidas. Estas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
 
@@ -1661,7 +1673,7 @@ Los mismos requisitos se exigirán para los Directores de organismos descentrali
 
 ###### ARTICULO 84.
 
-Las leyes, decretos, reglamentos, circulares, acuerdos, órdenes, despachos, convenios y demás documentos que el Gobernador del Estado suscriba en ejercicio de sus funciones deberá (sic) llevar la firma del titular o de los titulares de las dependencias involucradas en cada caso. Y sin este requisito no surtirá efectos legales.
+Las leyes, decretos, reglamentos, circulares, acuerdos, órdenes, despachos, convenios y demás documentos que el Gobernador del Estado suscriba en ejercicio de sus funciones, deberá (sic) llevar la firma del titular o de los titulares de las dependencias involucradas en cada caso. Y sin este requisito no surtirá efectos legales.
 
 Los Secretarios y demás funcionarios serán responsables de los actos de autoridad que realicen y ejecuten en contra de las disposiciones de esta Ley fundamental y demás ordenamientos jurídicos del Estado.
 
@@ -2986,6 +2998,12 @@ SEGUNDO.- Comuníquese al Gobernador del Estado, al Presidente de la República,
 P.O. 31 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día doce de septiembre del año dos mil seis. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la Ley de Justicia para Adolescentes del Estado de Oaxaca.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
