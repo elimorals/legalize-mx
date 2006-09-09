@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2006-02-11"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -423,7 +423,9 @@ La Secretaría de Seguridad Pública y Protección Ciudadana estará a cargo de 
 
 I. Organizar, preparar y dirigir a los cuerpos de policía;
 
-II. Mantener la seguridad, tranquilidad, moralidad y orden públicos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+II. Mantener la seguridad, tranquilidad, moralidad y orden público;
 
 III. Prevenir la comisión de delitos y proteger a las personas en sus derechos;
 
@@ -441,9 +443,45 @@ IX. Tomar las medidas necesarias para prevenir la comisión de delitos e infracc
 
 X. Administrar y vigilar las detenciones preventivas municipales, procurando que las mismas se den en circunstancias de seguridad e higiene de acuerdo a la dignidad que como personas les corresponde a los detenidos;
 
-XI. Organizar el despacho de la Secretaria con un Director Administrativo y el demás personal de su adscripción conforme a lo dispuesto en los manuales de organización y procedimientos; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Organizar el despacho de la Secretaría con un Director Administrativo y el demás personal de su adscripción conforme a lo dispuesto en los manuales de organización y procedimientos; y
 
 XII. Las demás que señalen las leyes, reglamentos y manuales de organización.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+Para los efectos del presente Reglamento, se entiende que estarán bajo el mando directo del Presidente Municipal, a través del Secretario de Seguridad Pública y Protección Ciudadana, los cuerpos de seguridad publica siguientes:
+
+1.- Los Cuerpos de Seguridad Pública Municipales con todas sus unidades y agrupamientos;
+
+2.- Los cuerpos de Tránsito Municipal, con todas sus unidades y agrupamientos;
+
+3.- Los cuerpos de seguridad y custodios de los Penales Municipales;
+
+4.- El Cuerpo Operativo de la Dirección de Protección Civil;
+
+5.- Los Cuerpos de Bomberos Municipales;
+
+6.- La Policía Comunitaria;
+
+7.- Las demás que en el futuro se constituyan.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+También se consideran como elementos de los cuerpos de seguridad pública, aquellos a quienes expresamente se les atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente expedido por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+No forman parte de los cuerpos de seguridad pública aquellas personas que desempeñen funciones de carácter administrativo o ajeno a la seguridad pública, aún cuando laboren en las dependencias encargadas de prestar ese servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+Queda prohibido que un elemento de seguridad preste simultáneamente su servicio con tal carácter en un cuerpo de segundad (sic) pública y otro de seguridad privada, con excepción de los miembros de la Policía Comunitaria, quienes también podrán formar parte de grupos o empresas de seguridad privada.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+A los Cuerpos Municipales de Seguridad Pública corresponden aquellas acciones dirigidas a prevenir la comisión de todo tipo de delitos y faltas administrativas, así como mantener el orden, la paz y la tranquilidad pública dentro de la jurisdicción municipal que les corresponda.
 
 ###### Artículo 36.
 
@@ -1308,3 +1346,7 @@ LIC. MIGUEL ÁNGEL CALDERÓN RODRÍGUEZ.
 P.O. 11 DE FEBRERO DE 2006.
 
 ÚNICO.- Las modificaciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+UNICO.- La presente adición al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
