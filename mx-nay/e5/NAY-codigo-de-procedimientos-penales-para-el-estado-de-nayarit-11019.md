@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2006-05-24"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1387,7 +1387,7 @@ En el auto de formal prisión o de sujeción a proceso, el juez dará vista al p
 
 ### CAPITULO II. CONFESION
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 190.
 
@@ -1397,7 +1397,7 @@ Se admitirá como prueba en los términos del artículo 20 fracción V de la Con
 
 ###### ARTICULO 191.
 
-La confesión es la declaración voluntaria hecha por persona mayor de dieciséis años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el Juez, o Tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se admitirá en cualquier estado del procedimiento, hasta antes de dictar sentencia irrevocable.
+La confesión es la declaración voluntaria hecha por persona mayor de dieciocho años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el Juez, o Tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se admitirá en cualquier estado del procedimiento, hasta antes de dictar sentencia irrevocable.
 
 ### CAPITULO IV. PERITOS
 
@@ -1607,7 +1607,7 @@ Cuando el testigo sea ciego, el juez nombrará una persona para que lo acompañe
 
 Antes de que los testigos comiencen a declarar, se les impondrá de las penas en que incurren los que se producen con falsedad o se niega a protestar o a declarar.
 
-A los menores de dieciséis años, únicamente se les exhortará para que se conduzcan con verdad.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 233.
 
@@ -1775,7 +1775,9 @@ Los jueces y tribunales apreciarán las pruebas, con sujeción a las reglas de e
 
 La confesión ante el Ministerio Público y ante el Juez deberá reunir los siguientes requisitos:
 
-I.- Que sea hecha por persona mayor de dieciséis años, en su contra, con pleno conocimiento, y sin coacción ni violencia física o moral;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Que sea hecha por persona mayor de dieciocho años, en su contra, con pleno conocimiento, y sin coacción ni violencia física o moral;
 
 II.- Que sea hecha ante el Ministerio Público o el Tribunal de la causa y en presencia del defensor o persona de su confianza, y que el inculpado esté debidamente enterado del procedimiento y del proceso;
 
@@ -2925,6 +2927,8 @@ PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES, SORDOMUDOS, CIEGOS DE NACIMIENTO
 
 ### CAPITULO II. MENORES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 430.
 
 Con los sordomudos o ciegos de nacimiento que contravengan la ley penal, se procederá en los términos de los artículos 81 y 82 del Código Penal.
@@ -3013,7 +3017,7 @@ En el caso a que se refiere la fracción II del artículo 395, se remitirá al i
 
 ###### ARTICULO 445.
 
-(DEROGADO POR LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES INFRACTORES DEL ESTADO DE NAYARIT, P.O. 24 DE DICIEMBRE DE 1977)
+Las medidas impuestas con motivo de las infracciones cometidas por menores de dieciocho años a las Leyes Penales del Estado, se hará de acuerdo a lo que disponga la Ley de la materia.
 
 TITULO DECIMOTERCERO
 
@@ -3350,3 +3354,9 @@ P.O. 25 DE DICIEMBRE DE 2004.
 P.O. 24 DE MAYO DE 2006.
 
 Único.- La presente adición al Código Penal del Estado de Nayarit y reforma al Código de Procedimientos Penales, comenzarán a regir el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La reforma contenida en (sic) presente Decreto entrará en vigor el 13 de septiembre del 2006, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
