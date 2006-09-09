@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-consejo-de-menores-del-estado-de-nayarit-11064"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-21"
-last_updated: "1993-04-21"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DEL CONSEJO DE MENORES DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 21 de abril de 1993.
 
@@ -912,3 +914,23 @@ Y EN CUMPLIMIENTO DE LO DISPUESTO EN LA FRACCION II DEL ARTICULO 69 DE LA CONSTI
 EL SECRETARIO GRAL. DE GOBIERNO.
 
 LIC. JAVIER GERMAN RODRIGUEZ JIMENEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día 12 doce de septiembre del año 2006 dos mil seis, previa su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley del Consejo de Menores del Estado de Nayarit, publicada en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit en fecha 21 de abril de 1993.
+
+Artículo Tercero. Las autoridades del Consejo de Menores del Estado de Nayarit a que se refiere la Ley que se abroga, podrán seguir actuando válidamente a la entrada en vigencia de la presente Ley, para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo con las siguientes reglas:
+
+a) Los asuntos que esté conociendo para efectos de investigación, los remitirá de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al adolescente que tuviere detenido;
+
+b) Los procedimientos que se encuentren en el periodo de instrucción los remitirá de inmediato al Juez para Adolescentes, poniendo a su disposición, en su caso, al adolescente que tuviere detenido;
+
+c) El Presidente del Consejo de Menores del Estado de Nayarit entregará a la Dirección de Reintegración Social para Adolescentes, a los que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos;
+
+Artículo Octavo. La Secretaría de Finanzas instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento a la presente Ley.
+
+Artículo Noveno. En tanto se instala la Sala Unitaria del Tribunal Superior de Justicia a que se refiere la presente ley, los asuntos de su competencia se tramitarán por la Sala Penal del Poder Judicial.
