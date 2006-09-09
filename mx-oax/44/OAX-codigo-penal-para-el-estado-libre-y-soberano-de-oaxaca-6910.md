@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2006-03-18"
+last_updated: "2006-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -55,9 +55,9 @@ II.- Por los delitos que se cometan en otra entidad federativa cuando produzcan 
 
 III.- Por los delitos permanentes y los continuados cometidos en otra entidad federativa y que se sigan cometiendo en el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
 
-2o.- Este Código se aplicará a todas las personas a partir de los dieciséis años de edad, cualesquiera que sean su residencia o nacionalidad.
+2o.- Este Código se aplicará a todas las personas a partir de los dieciocho años de edad, cualesquiera que sean su residencia o nacionalidad.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -5510,6 +5510,12 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 18 DE MARZO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día doce de septiembre del año dos mil seis. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la Ley de Justicia para Adolescentes del Estado de Oaxaca.
 
 ###### Artículo 10.
 
