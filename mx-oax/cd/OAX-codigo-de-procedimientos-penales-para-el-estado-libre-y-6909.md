@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2004-06-12"
+last_updated: "2006-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4132,3 +4134,39 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 12 DE JUNIO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Entrada en vigor
+
+Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las siete regiones que componen el Estado de Oaxaca. Se implementará primero en los Distritos Judiciales de la región del Istmo; un año después en los de la Mixteca y así consecutivamente en los distritos de las regiones de la Costa, Cuenca y Valle Centrales. Finalmente se implementará simultáneamente en las regiones de la Cañada y de la Sierra (Norte y Sur). En caso de que las partidas presupuestarias lo permitan, los períodos de la implementación escalonada podrán reducirse.
+
+SEGUNDO. Derogaciones
+
+A la entrada en vigor de este Código se abroga el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca de veintidós de octubre de mil novecientos setenta y nueve, promulgado el tres de diciembre del mismo año y publicado el nueve de agosto de mil novecientos ochenta; asimismo, se deroga cualquier disposición que se oponga o contradiga lo preceptuado en este Código.
+
+TERCERO. Aplicación a procesos pendientes
+
+Los procesos que, a la entrada en vigencia de este Código, se encuentren en trámite, continuarán hasta su conclusión, rigiéndose de conformidad con el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca de veintidós de octubre de mil novecientos setenta y nueve, promulgado el tres de diciembre del mismo año y publicado el nueve de agosto de mil novecientos ochenta.
+
+Lo mismo acontecerá por hechos ejecutados antes de la entrada en vigor del presente Código.
+
+CUARTO. Facultades transitorias
+
+Además de las facultades ya previstas en el Código, durante los primeros dos años de vigencia de este Código, el Pleno del Tribunal Superior de Justicia y el Procurador General de Justicia del Estado, dictarán, en la esfera de sus respectivas competencias, los acuerdos generales necesarios para su implementación y aplicación.
+
+QUINTO. Legislación de transición
+
+En el plazo de vacatio legis deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública y del Ministerio Público y de la Policía, así como la legislación penitenciaria.
+
+SEXTO. Entrada en vigor para el caso de la Ley de Justicia para Adolescentes del Estado de Oaxaca
+
+Este Código entrará en vigor para los efectos de la supletoriedad a la que se refiere la Ley de Justicia para Adolescentes del Estado de Oaxaca, a la entrada en vigor de la mencionada ley.
+
+SÉPTIMO. Normas y practicas
+
+Los órganos de procuración y administración de justicia y el de ejecución de penas, en el ejercicio de sus funciones reglamentarias, dictarán las normas prácticas necesarias para aplicar este Código.
+
+OCTAVO. Disposiciones presupuestales
+
+En los presupuestos de egresos para los años fiscales del 2007 y siguientes, deberán aprobarse los recursos financieros para la implementación de las disposiciones de este Código.
