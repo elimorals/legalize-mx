@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-metodos-alternos-para-la-solucion-de-conflictos-del-4289
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-14"
-last_updated: "2005-01-14"
+last_updated: "2006-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE METODOS ALTERNOS PARA LA SOLUCION DE CONFLICTOS DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de enero de 2005.
 
@@ -373,9 +373,11 @@ VIII. Contener el nombre, la firma o huella digital, según sea el caso, del pre
 
 ### CAPÍTULO IV. DE LA RATIFICACIÓN, LA CERTIFICACIÓN, EL RECONOCIMIENTO Y LA EJECUCIÓN DE LOS CONVENIOS DE MÉTODOS ALTERNOS
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 31.
 
-El Convenio del Método Alterno, en el supuesto de que el mecanismo alterno para la solución del conflicto haya tenido lugar en el desarrollo de un procedimiento jurisdiccional, deberá ser ratificado ante la autoridad judicial que conozca sobre dicho procedimiento, para el efecto de que si no contraviene lo dispuesto por el artículo tercero de la presente Ley, sea reconocido y se le den efectos de cosa juzgada o, en su caso de sentencia ejecutoriada, en los términos del Código Civil y del Código de Procedimientos Civiles del Estado.
+El Convenio del Método Alterno, en el supuesto de que el mecanismo alterno para la solución del conflicto haya tenido lugar en el desarrollo de un procedimiento jurisdiccional, deberá ser presentado ante la autoridad judicial que conozca sobre dicho procedimiento, para el efecto de que si no contraviene lo dispuesto por el artículo tercero de la presente Ley, sea reconocido y se le den efectos de cosa juzgada o, en su caso, de sentencia ejecutoriada, en los términos del Código Civil y del Código de Procedimientos Civiles del Estado de Nuevo León.
 
 ###### Artículo 32.
 
@@ -416,3 +418,13 @@ NAPOLEÓN CANTÚ CERNA
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la vigencia de la reforma a la Ley Orgánica del Poder Judicial del Estado que establece la creación de los Juzgados del Juicio Oral Civil y Familiar.
+
+Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén, con excepción de lo dispuesto en el Artículo 77, que aplicará para todo caso.
+
+Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
