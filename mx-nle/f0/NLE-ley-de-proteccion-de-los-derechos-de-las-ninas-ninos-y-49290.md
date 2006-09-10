@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-49290"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-17"
-last_updated: "2006-04-28"
+last_updated: "2006-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE ESTE ORDENAMIENTO SU ENTRADA EN VIGOR SURTIRA EFECTOS A LOS CIENTO VEINTE DIAS POSTERIORES A SU PUBLICACION EN EL P.O.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 17 de febrero de 2006.
 
@@ -467,7 +465,9 @@ Se establecerán programas de apoyo a las familias para que esa falta de recurso
 
 Niñas, niños y adolescentes tienen derecho a no ser separados de sus padres, tutores o quien ejerza la patria potestad, excepto cuando, a reserva de la determinación que en su caso tome la autoridad judicial, las autoridades competentes determinen de conformidad con la Ley y los procedimientos aplicables, que tal separación es necesaria en el interés superior del niño, esta determinación puede ser necesaria en casos particulares, tal como en aquellos en que el niño sea objeto de violencia o descuido por parte de sus padres, o cuando estos vivan separados y deba adoptarse una decisión acerca del lugar de residencia del niño.
 
-En cualquier procedimiento entablado de conformidad con el párrafo que antecede, se ofrecerá a todas las partes interesadas la oportunidad de participar en él y de dar a conocer lo que a su derecho convenga.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+En cualquier procedimiento entablado de conformidad con el párrafo que antecede, se ofrecerá a todas las partes interesadas la oportunidad de participar en él, de dar a conocer lo que a su derecho convenga, de someter a revisión judicial toda medida que se adopte, lo anterior mediante recurso en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un licenciado en derecho.
 
 ###### Artículo 43.
 
@@ -997,6 +997,20 @@ I. Se describirán con claridad y precisión las conductas violatorias de este d
 
 II. Se dispondrán con precisión las sanciones que ameritará cada una de estas conductas de manera idónea atendiendo a la gravedad del daño que causen, independiente de los tipos penales que puedan llegar a configurarse.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 97 Bis.
+
+Los municipios regularán lo referente a las faltas administrativas cometidas por niños, niñas y adolescentes, en un marco del respeto a los derechos y garantías fundamentales, así como a los derechos y garantías especiales que les son propias por su calidad de personas en desarrollo.
+
+En el caso de delitos no graves cometidos por niños o niñas, las autoridades municipales se harán cargo de sus rehabilitaciones y asistencia social, en los términos de los convenios de colaboración que suscriban con el Estado y el Sistema para el Desarrollo Integral de la Familia, y de acuerdo a lo establecido en la ley estatal en materia de asistencia social.
+
+En el caso de delitos graves cometidos por niños o niñas, la Secretaría de Seguridad Pública del Estado, en coordinación con el Sistema para el Desarrollo Integral de la Familia, se hará cargo de su rehabilitación y asistencia social, en los términos establecidos en la ley estatal en materia de asistencia social.
+
+En el caso de niños, niñas y adolescentes que presenten problemas de adicción, la Secretaría de Salud del Estado, en coordinación con el Sistema para el Desarrollo Integral de la Familia, desarrollarán los programas de asistencia social necesarios para su tratamiento y rehabilitación, en los términos establecidos en la ley estatal en materia de asistencia social y demás disposiciones aplicables.
+
+En estos casos, se atenderá a los niños, niñas y adolescentes observando en su caso la Ley de la materia sin privarlos de su libertad y se procurará por rodos los medios posibles asistirlos sin desvincularlos de su familia ni de sus amistades siempre y cuando estos mismos no les causen una violación a sus derechos, les den mal ejemplo, o los induzcan a infringir las leyes.
+
 ###### Artículo 98.
 
 Los ordenamientos legales del Estado en materia de familia, regularán los límites que debe tener el ejercicio de la patria potestad, de la tutela o de cualquier relación familiar que se tenga con una niña, niño o adolescente, a fin de que atienda al respeto de este derecho de conformidad con lo establecido en esta Ley.
@@ -1370,3 +1384,31 @@ GILBERTO MONTIEL AMOROSO
 P.O. 28 DE ABRIL DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su aplicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
