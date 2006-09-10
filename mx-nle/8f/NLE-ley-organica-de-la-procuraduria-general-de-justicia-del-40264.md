@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2005-11-02"
+last_updated: "2006-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -47,9 +47,11 @@ Esta Ley es de orden público e interés social y tiene por objeto establecer la
 
 La Procuraduría General de Justicia del Estado es la dependencia del Poder Ejecutivo que representa a la institución del Ministerio Público, encargada de defender los intereses de la sociedad debiendo por lo tanto, organizar, controlar y supervisar esta institución; vigilar el cumplimiento de las leyes; promover y coordinar la participación ciudadana en la actividad de la prevención del delito, a fin de lograr la procuración de justicia; e intervenir como representante legal del Ejecutivo del Estado en los juicios en que éste sea parte ó tenga el carácter de tercero, con las excepciones que marca la Ley.
 
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 3.
 
-El Ministerio Público es la institución que tiene como fin, en representación de la sociedad, investigar los delitos y brindar la debida protección a sus víctimas; perseguir a los posibles responsables de los mismos; ejercer ante los tribunales la acción penal y exigir la reparación de los daños y perjuicios; intervenir en asuntos del orden civil, familiar y penal, en los casos en que señalen las leyes y realizar las demás funciones que los ordenamientos jurídicos establezcan.
+El Ministerio Público es la institución que tiene como fin, en representación de la sociedad, investigar los delitos y brindar la debida protección a sus víctimas; perseguir a los posibles responsables de los mismos; ejercer ante los tribunales la acción penal y exigir la reparación de los daños y perjuicios; intervenir en asuntos del orden civil, familiar, penal y de adolescentes infractores en los casos en que señalen las leyes y realizar las demás funciones que los ordenamientos jurídicos establezcan.
 
 ###### Artículo 4.
 
@@ -221,7 +223,9 @@ A la Procuraduría le corresponde:
 
 I.- Realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos del orden común, que en los términos de la ley penal se consideren cometidos en el Estado;
 
-II.- Intervenir en los asuntos del orden criminal, civil y familiar, en los cuales el Ministerio Público tenga competencia legal para hacerlo;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Intervenir en los asuntos del orden criminal, de adolescentes infractores, civil y familiar, en los cuales el Ministerio Público tenga competencia legal para hacerlo;
 
 III.- Velar por la legalidad y por el respeto de los derechos humanos en la esfera de su competencia, así como procurar la pronta, completa e imparcial impartición de justicia;
 
@@ -315,7 +319,9 @@ XXV.- Restituir provisionalmente al ofendido, en el goce de sus derechos, en los
 
 XXVI.- Remitir a la Procuraduría de la Defensa del Menor y de la Familia, copia certificada de las averiguaciones previas que se relacionen con menores e incapaces que se encuentren en situación de daño, peligro o conflicto, para los efectos legales correspondientes;
 
-XXVII.- Poner a disposición de la autoridad competente a los menores de edad que hubieren incurrido en acciones u omisiones correspondientes a ilícitos tipificados por las leyes penales aplicables una vez que se acredite fehacientemente la minoría de edad;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XXVII.- Ejercer las funciones que en materia de adolescentes infractores le señalen las leyes correspondientes;
 
 XXVIII.- Poner a los inimputables mayores de edad a disposición del órgano jurisdiccional, cuando se deban aplicar medidas de seguridad, ejerciendo las acciones correspondientes en los términos establecidos en las normas aplicables;
 
@@ -585,9 +591,11 @@ V.- Determinar, previa obtención de los informes correspondientes, la cancelaci
 
 VI.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 32.
 
-La Dirección General de Averiguaciones Previas depende de la Subprocuraduría del Ministerio Público y es la unidad administrativa responsable de investigar y perseguir los delitos con el auxilio de la Agencia Estatal de Investigaciones, y de integrar las averiguaciones previas ejerciendo, en su caso, la acción penal correspondiente, siendo competente para realizar las acciones referidas en los artículos 23 y 25 de esta Ley, y para las siguientes:
+La Dirección General de Averiguaciones Previas depende de la Subprocuraduría del Ministerio Público y es la unidad administrativa responsable de investigar y perseguir los delitos con el auxilio de la Agencia Estatal de Investigaciones, y de integrar las averiguaciones previas ejerciendo, en su caso, la acción penal correspondiente, siendo competente para realizar las acciones referidas en los artículos 23 y 25 de esta Ley, las que le correspondan en materia de adolescentes infractores, y para las siguientes:
 
 I.- Recibir de los Agentes del Ministerio Público Investigadores, en los términos de los acuerdos que al efecto emita el Procurador, las averiguaciones previas debidamente agotadas en las que se proponga el ejercicio de la acción penal, o el no ejercicio de la misma, haciendo el estudio respectivo para determinar lo procedente;
 
@@ -613,7 +621,9 @@ XI.- Remitir para su debida atención, a la Dirección General de Derechos Human
 
 XII.- Coordinarse con las autoridades competentes a fin de localizar, en los términos de convenciones internacionales de las que México sea parte, a menores trasladados ilícitamente, dentro y fuera de la República;
 
-XIII.- Supervisar el correcto funcionamiento de las Agencias Investigadoras del Ministerio Público, cuando integren averiguaciones que tengan relación con conductas de menores, a efecto de remitir las constancias correspondientes conforme a la legislación de la materia, al Consejo Estatal de Menores;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XIII.- Supervisar el correcto funcionamiento de las Agencias del Ministerio Público cuando realicen las acciones correspondientes a adolescentes infractores, procurando en todo caso que quienes las realizan sean especialistas en dicha materia;
 
 XIV.- Operar y ejecutar convenios con instituciones públicas y privadas, nacionales o extranjeras, en materias de robo y tráfico de infantes;
 
@@ -925,9 +935,17 @@ XIII.- Enviar los dictámenes de trabajo social o psicosociales que le sean soli
 
 XIV.- Desarrollar y aplicar las políticas, programas, proyectos y acciones de la Procuraduría, en materia de servicios a la comunidad y participación social;
 
-XV.- Promover la participación de la comunidad en las tareas que lleve a cabo la Procuraduría para mejorar su desempeño, organizando al efecto los programas y cursos correspondientes; y
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-XVI.- Las que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
+XV.- Promover la participación de la comunidad en las tareas que lleve a cabo la Procuraduría para mejorar su desempeño, organizando al efecto los programas y cursos correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Prestar servicios en materia de métodos alternos en los que éstos sean procedentes de conformidad con las disposiciones en materia de adolescentes infractores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XVII.- Las que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
 ###### Artículo 45.
 
@@ -1301,9 +1319,11 @@ XXIX.- Integrar la documentación y expedir las copias certificadas que deban se
 
 XXX.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 54.
 
-La Dirección de Agentes del Ministerio Público Auxiliares del Procurador depende directamente del Procurador y es la unidad administrativa responsable de someter a su consideración los proyectos de resolución a los recursos de inconformidad interpuestos en contra de las determinaciones de inejercicio de la acción penal dictadas por el órgano investigador, así como los de formulación de agravios o desistimiento en los recursos de apelación; y los que se deban presentar en los asuntos del orden penal, civil y familiar de segunda instancia, siendo competente para:
+La Dirección de Agentes del Ministerio Público Auxiliares del Procurador depende directamente del Procurador y es la unidad administrativa responsable de someter a su consideración los proyectos de resolución a los recursos de inconformidad interpuestos en contra de las determinaciones de inejercicio de la acción penal dictadas por el órgano investigador, así como los de formulación de agravios o desistimiento en los recursos de apelación; y los que se deban presentar en los asuntos del orden penal, de adolescentes infractores, civil y familiar de segunda instancia, siendo competente para:
 
 I.- Coordinar y supervisar las actividades de los Agentes del Ministerio Público Auxiliares;
 
@@ -1335,7 +1355,9 @@ VII.- Poner en conocimiento del Procurador y del Subprocurador del Ministerio P�
 
 VIII.- Vigilar que en los procedimientos de segunda instancia en asuntos del orden penal, civil, familiar y en aquellos en que deba intervenir el Procurador, se desahoguen oportunamente las vistas, se formulen o contesten agravios y en general, se lleven adecuadamente y con las formalidades legales, compareciendo a las audiencias en representación del Procurador;
 
-IX.- Intervenir por sí o a través de sus Agentes, en los asuntos del orden penal, civil o familiar que determine el Procurador; y
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Intervenir por sí o a través de sus Agentes, en los asuntos del orden penal, de justicia para adolescentes, civil o familiar que determine el Procurador; y
 
 X.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
@@ -1880,3 +1902,31 @@ LUIS CARLOS TREVIÑO BERCHELMANN
 P.O. 2 DE NOVIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
