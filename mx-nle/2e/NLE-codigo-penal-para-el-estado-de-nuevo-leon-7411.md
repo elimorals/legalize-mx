@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2006-02-10"
+last_updated: "2006-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -165,9 +165,9 @@ NO HABRA CONDUCTA DELICTIVA PARA EL QUE OBRA IMPULSADO POR UNA FUERZA FISICA EXT
 
 ARTICULO 16 BIS.- PARA TODOS LOS EFECTOS LEGALES SE CALIFICAN COMO DELITOS GRAVES CONSIGNADOS EN ESTE CODIGO:
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-I.- LOS CASOS PREVISTOS EN LOS ARTICULOS 66, PRIMER PARRAFO; 150; 151; 152; 153; 154; 158; 159; 160; 163; 164; 165; 166, FRACCIONES III Y IV; 172 ULTIMO PARRAFO; 176; 196; 197; 197 BIS; 201 BIS; 201 BIS 2; 203 SEGUNDO PARRAFO; 204; 208 ULTIMO PARRAFO; 211; 212 FRACCION II; 214 BIS; 216 FRACCIONES II Y III; 216 BIS ULTIMO PARRAFO; 218 FRACCION III; 222 BIS CUARTO PARRAFO; 225; 240; 241; 242; 242 BIS; 243; 250 PARRAFO SEGUNDO; 265; 266; 267; 268; 271 BIS 2; 298; 299; 303 FRACCION III; 312; 313; 315; 318; 320 PARRAFO PRIMERO; 321 BIS; 321 BIS 1; 321 BIS 3; 322; 325; 329 ULTIMA PARTE; 357; 365 BIS; 367 FRACCION III, 371; 374 ULTIMO PARRAFO; 377 FRACCION III; 379 PARRAFO SEGUNDO; 387; 401; 403 Y 406 BIS. TAMBIEN LOS GRADOS DE TENTATIVA EN AQUELLOS CASOS, DE LOS ANTES MENCIONADOS, EN QUE LA PENA A APLICAR EXCEDA DE CINCO AÑOS EN SU TERMINO MEDIO ARITMETICO;
+I.- LOS CASOS PREVISTOS EN LOS ARTICULOS 66, PRIMER PARRAFO; 150; 151; 152; 153; 154; 158; 159; 160; 163; 164; 165; 166, FRACCIONES III Y IV; 172 ULTIMO PARRAFO; 176; 181 BIS 1; 196; 197; 197 BIS; 201 BIS; 201 BIS 2; 203 SEGUNDO PARRAFO; 204; 208 ULTIMO PARRAFO; 211; 212 FRACCION II; 214 BIS; 216 FRACCIONES II Y III; 216 BIS ULTIMO PARRAFO; 218 FRACCION III; 222 BIS CUARTO PARRAFO; 225; 240; 241; 242; 242 BIS; 243; 250 PARRAFO SEGUNDO; 265; 266; 267; 268; 271 BIS 2; 298; 299; 303 FRACCION III; 312; 313; 315; 318; 320 PARRAFO PRIMERO; 321 BIS; 321 BIS 1; 321 BIS 3; 322; 325; 329 ULTIMA PARTE; 357; 365 BIS; 367 FRACCION III, 371; 374 ULTIMO PARRAFO; 377 FRACCION III; 379 PARRAFO SEGUNDO; 387; 401; 403 Y 406 BIS. TAMBIEN LOS GRADOS DE TENTATIVA EN AQUELLOS CASOS, DE LOS ANTES MENCIONADOS, EN QUE LA PENA A APLICAR EXCEDA DE CINCO AÑOS EN SU TERMINO MEDIO ARITMETICO;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1087,6 +1087,10 @@ PROCEDE EL RECONOCIMIENTO DE LA INOCENCIA, CUALQUIERA QUE SEA LA SANCION IMPUEST
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
+###### ARTICULO 114.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+
 ###### ARTICULO 115.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
@@ -1656,6 +1660,10 @@ ARTICULO 181 BIS.- CUANDO LA DESOBEDIENCIA A UN MANDATO LEGITIMO DE AUTORIDAD SE
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1998)</small>
 
 SE ENTIENDE POR ARRAIGO LA MEDIDA DECRETADA POR LA AUTORIDAD JUDICIAL, ENCAMINADA A OBLIGAR A UN INDICIADO O TESTIGO A PERMANECER POR DETERMINADO TIEMPO EN EL LUGAR, BAJO LA FORMA Y LOS MEDIOS DE REALIZACION QUE DETERMINE EN LA RESOLUCION CORRESPONDIENTE, CON LA VIGILANCIA DEL MINISTERIO PUBLICO O SUS ORGANOS AUXILIARES, Y A DISPOSICION DE LA AUTORIDAD ORDENADORA. ESTA MEDIDA EN NINGUN CASO IMPLICARA LA INCOMUNICACION DEL ARRAIGADO, NI SU CONFINAMIENTO EN PRISION PREVENTIVA.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 181 BIS 1.- CUANDO LA DESOBEDIENCIA A UN MANDATO LEGITIMO DE AUTORIDAD SE HAGA INCUMPLIENDO LAS SANCIONES NO PRIVATIVAS DE LIBERTAD IMPUESTAS POR SENTENCIA CONDENATORIA, EL RESPONSABLE SERA SANCIONADO CON PENA DE SEIS MESES A SEIS AÑOS DE PRISION Y MULTA DE TREINTA A CIENTO VEINTE CUOTAS.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5030,6 +5038,34 @@ Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el 
 Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberá regularse las funciones del Consejo y sus Comisiones, así como la integración de estas.
 
 Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaria de Salud, en los términos de las disposiciones de este Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
