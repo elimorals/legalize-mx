@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-defensoria-de-oficio-para-el-estado-de-nuevo-leon-138
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-18"
-last_updated: "2005-12-22"
+last_updated: "2006-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de junio de 1997.
 
@@ -43,9 +43,11 @@ LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
 Las disposiciones de la presente Ley son de orden público y de interés social, y tienen por objeto regular la constitución, organización y funcionamiento de la Defensoría de Oficio del Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 2.
 
-La Defensoría de Oficio del Estado de Nuevo León es una institución adscrita a la Secretaría General de Gobierno, que tiene como finalidad la de proporcionar, obligatoria y gratuitamente, los servicios jurídicos de defensa, patrocinio y asesoría en materia penal a los acusados, así como en los asuntos no penales que establezca el Reglamento de esta Ley a personas de escasos recursos económicos que lo soliciten.
+La Defensoría de Oficio del Estado de Nuevo León es un órgano administrativo desconcentrado de la Secretaría General de Gobierno, el cual contará con autonomía técnica y tendrá a su cargo la aplicación de las disposiciones de la presente Ley para proporcionar, obligatoria y gratuitamente, los servicios jurídicos de defensa, patrocinio y asesoría a las personas que no quieran o no puedan nombrar defensor, acusadas en las materias penal, de adolescentes infractores, así como a las de escasos recursos económicos en los asuntos no penales que establezca el Reglamento de esta Ley.
 
 ###### ARTICULO 3.
 
@@ -77,13 +79,13 @@ El Director, los Coordinadores, los Defensores de Oficio, y los auxiliares de é
 
 El Secretario General de Gobierno, por conducto del Director, determinará la adscripción de los defensores de oficio y de sus auxiliares, atendiendo a los requerimientos del servicio que se presenten en las Salas del Tribunal Superior de Justicia, Juzgados de Primera Instancia, Agencias del Ministerio Público, Juzgados Menores, Alcaldías Judiciales y Consejo Estatal de Menores.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 7.
 
-Con el propósito de que toda persona detenida por causas de orden criminal cuente de inmediato con asistencia legal, habrá Defensores de Oficio en las Agencias del Ministerio Público Investigadoras y Auxiliares de Defensores de Oficio en las delegaciones ministeriales, en todo el Estado. El Reglamento de esta Ley determinará la forma en que cubrirán los horarios de servicio.
+Con el propósito de que toda persona detenida por faltas tipíficadas en las leyes cuente de inmediato con asistencia legal, habrá Defensores de Oficio en las Agencias del Ministerio Público y en las delegaciones ministeriales de todo el Estado. El Reglamento de esta Ley determinará la forma en que cubrirán los horarios de servicio.
 
-Para la estricta observancia de lo dispuesto en el artículo 4 de la Ley del Consejo Estatal de Menores, se designarán a los Defensores de Oficio que resulten necesarios para la debida atención de los casos que sean materia de esa Institución.
+Para la estricta observancia de lo dispuesto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se designarán los Defensores de Oficio Especializados que resulten necesarios para la debida atención de los casos en la materia.
 
 ###### ARTICULO 8.
 
@@ -189,13 +191,17 @@ IV. Coordinador del Area de Asuntos No Penales;
 
 V. Coordinador del Area Foránea;
 
-VI. Coordinador del Area de Segunda Instancia y Amparos; y
+VI. Coordinador del Area de Segunda Instancia y Amparos; y (sic)
 
-VII. Coordinador del Area de Apoyo Técnico.
+VII. Coordinador del Area de Apoyo Técnico;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-VIII. Coordinador del Area del Consejo Estatal de Menores.
+VIII. Coordinador de Mediación, Arbitraje y Gestoría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Coordinador del Área Especializada en Adolescentes Infractores.
 
 ###### ARTICULO 17.
 
@@ -251,9 +257,15 @@ XIV. Canalizar a la Coordinación de Apoyo Técnico, en su caso, las solicitudes
 
 XV. Apoyar a los defensores y auxiliares de su Area en los asuntos que, por razones de urgencia o importancia, lo requieren;
 
-XVI. Proponer al Director los estímulos y reconocimientos para el personal que sea merecedor por su buen desempeño; y
+XVI. Proponer al Director los estímulos y reconocimientos para el personal que sea merecedor por su buen desempeño; y (sic)
 
-XVII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Promover, de acuerdo a sus competencias específicas, la conciliación, mediación y otros métodos alternos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XVIII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 21.
 
@@ -377,21 +389,27 @@ El Coordinador de esta Area podrá contar con responsables de las labores de los
 
 Los auxiliares del Coordinador del Area de Apoyo Técnico a que se refiere el último párrafo de la disposición anterior, deberán reunir los requisitos exigidos para ser Coordinador; sin embargo, el requisito del título de Licenciado en Derecho podrá ser cubierto con título profesional, según sea su materia, de acuerdo al sector técnico en que habrán de desempeñarse.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 34 BIS. La Coordinación del Area del Consejo Estatal de Menores estará constituida por un Coordinador, los Defensores, los Auxiliares que se requieren, quienes prestarán sus servicios en el Consejo Estatal de Menores.
+ARTICULO 34 BIS. La Coordinación de Mediación, Arbitraje y Gestoría estará constituida por un coordinador, los Defensores y los Auxiliares que se requieran. Tendrá por función principal apoyar a los Defensores de Oficio de las demás Coordinaciones cuando éstas se lo soliciten en materia de métodos alternos.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 34 BIS 1. Corresponderá a la Coordinación del Area del Consejo Estatal de Menores, el despacho de los siguientes asuntos:
+ARTICULO 34 BIS 1. La Coordinación del Área Especializada en Adolescentes Infractores estará constituida por un Coordinador, los Defensores y los Auxiliares.
 
-I. Asistir jurídicamente a los Menores sujetos a los procedimientos previstos en la Ley del Consejo Estatal de Menores, con facultades para intervenir sobre la aplicación de las medidas de orientación, de protección o de tratamiento de externación o internación;
+> <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-II. Vigilar que se respeten los Derechos del Menor, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y la Constitución Política Local;
+Corresponderá a la Coordinación de Área Especializada en Adolescentes Infractores, el despacho de los siguientes asuntos:
 
-III. Proteger los derechos e intereses de los menores ante el Consejo, dentro y fuera del procedimiento;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-IV. Los demás que establezca la Ley.
+I. Asistir jurídicamente, en primera y segunda instancias y promoción de amparos cuando sea procedente, por medio de los Defensores de Oficio Especializados, a los adolescentes sujetos a los procedimientos previstos en la Ley del Sistema Estatal de Justicia para Adolescentes del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+II. Vigilar que se respeten los Derechos del adolescente, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución Política Local y las leyes derivadas de ésta;
+
+III. Proteger los derechos e intereses de los adolescentes dentro y fuera del procedimiento;
 
 ### CAPITULO CUARTO. De los Defensores de Oficio
 
@@ -408,6 +426,10 @@ II. Ser Licenciado en Derecho, con título registrado y práctica profesional m�
 III. No haber sido condenado por delito intencional alguno; y
 
 IV. Aprobar el examen de oposición.
+
+> <small>(ADICIONADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+La designación como Defensores de Oficio Especializados para Adolescentes estará sujeta a que los aspirantes a dicho cargo acrediten los conocimientos suficientes en la legislación vigente de la materia, así como en aspectos de carácter biopsicosocial del adolescente y de la familia.
 
 ###### ARTICULO 36.
 
@@ -427,23 +449,33 @@ La remuneración de los Defensores de Oficio será equivalente a la que perciban
 
 Son obligaciones de los Defensores de Oficio:
 
-I. Prestar el servicio de defensa en materia penal, en los términos prescritos por la fracción IX del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y su correlativo de la Constitución Política del Estado de Nuevo León;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+I. Prestar el servicio de defensa en las materias penal o de adolescentes infractores, según su especialización, en los términos prescritos por la fracción IX del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones constitucionales y legales aplicables;
 
 II. Prestar los servicios en materias no penales a que se refieren los Artículos 2o. y 8o. de esta Ley y en los términos que señale el Reglamento;
 
 III. Asistir diaria y puntualmente a su Area de trabajo, así como al Juzgado, Sala del Tribunal, Agencia del Ministerio Público o dependencia en la que deban ejercer sus servicios profesionales;
 
-IV. Realizar visitas periódicas a los reos que asesoren, patrocinen o defiendan, informándoles sobre su situación jurídica y demás circunstancias de su proceso, recabando cada vez la firma del reo, o de quien lo haga a su ruego, en la tarjeta de visitas correspondiente;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Realizar visitas periódicas a los reos o a los adolescentes privados de libertad que asesoren, patrocinen o defiendan, informándoles sobre su situación jurídica y demás circunstancias de su proceso, recabando cada vez la firma de su defendido o de quien lo haga a su ruego, en la tarjeta de visitas correspondiente;
 
 V. Comparecer en todas las audiencias y diligencias en las que la Ley establezca que debe estar presente el defensor;
 
 VI. Presentar en tiempo y forma las demandas y contestaciones, ofrecer pruebas, formular alegatos, conclusiones, promover incidentes, interponer recursos, formular agravios, promover juicios de amparo y, en general, hacer todo lo que se requiera a fin de cumplir eficazmente con la defensa, asesoría o patrocinio encomendados;
 
-VII. Cerciorarse de que los detenidos o internos no hayan sido torturados, golpeados, incomunicados o se les hayan violado sus derechos, en cuyo caso deberán turnar los hechos al conocimiento inmediato de su superior jerárquico para su canalización inmediata a la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-VIII. Turnar al Area de Apoyo Técnico las solicitudes de fianzas de interés social y los recibos de multa por conversión de pena, a efecto de obtener, cuando proceda, la libertad provisional o definitiva de los inculpados;
+VII. Cerciorarse de que sus defendidos no hayan sido torturados, golpeados, incomunicados o se les hayan violado sus derechos, en cuyo caso deberán turnar los hechos al conocimiento inmediato de su superior jerárquico para su canalización inmediata a la Comisión Estatal de Derechos Humanos;
 
-IX. Patrocinar a los reos en sus gestiones para obtener los beneficios que les otorgan las Leyes penales, tales como la libertad caucional, condena condicional, conversión de pena y otros;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+VIII. Turnar al Área de Apoyo Técnico las solicitudes de fianzas de interés social y los recibos de multa por conversión de pena o medida sancionadora, a efecto de obtener, cuando proceda, la libertad provisional o definitiva de los inculpados;
+
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Patrocinar a los reos o a los adolescentes infractores privados de libertad sus gestiones para obtener los beneficios que les otorgan las Leyes penales, tales como la libertad caucional, condena condicional, conversión de pena y otros;
 
 X. Llevar un estricto control y relación de sus actividades por medio del registro cotidiano de las mismas en un libro de registro personal;
 
@@ -473,9 +505,11 @@ IV. Desempeñar funciones que fuesen incompatibles con las que les corresponden 
 
 #### Sección Tercera. De las Excusas, de las Causas de Negación y el Retiro del Servicio
 
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 41.
 
-Los defensores adscritos a las Areas Penales deberán excusarse de aceptar o continuar la defensa de un acusado en los casos y en los términos previstos en el Título Octavo, Capítulo Segundo, del Código de Procedimientos Penales del Estado de Nuevo León, sin perjuicio de lo que al respecto dispongan esta Ley y su Reglamento.
+Los defensores adscritos a las áreas Penal o Especializada en Adolescentes Infractores deberán excusarse de aceptar o continuar la defensa de un acusado en los casos y en los términos previstos en las leyes, sin perjuicio de lo que al respecto dispongan esta Ley y su Reglamento.
 
 ###### ARTICULO 42.
 
@@ -551,7 +585,9 @@ La Coordinación de Apoyo Técnico proporcionará a los defensores, para el mejo
 
 I. El informe socioeconómico del solicitante de los servicios de la Defensoría en asuntos no penales;
 
-II. El trámite de las fianzas de interés social y de los recibos de multa por conversión de pena, para la obtención de la libertad de los acusados carentes de recursos económicos; y
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+II. El trámite de las fianzas de interés social y de los recibos de multa por conversión de pena o de la medida sancionadora, para la obtención de la libertad de los acusados carentes de recursos económicos; y
 
 III. El auxilio y asesoría de peritos en las especialidades requeridas por la Defensoría.
 
@@ -676,3 +712,31 @@ P.O. 22 DE DICIEMBRE DE 2005.
 Artículo Primero.- El presente Decreto entrará en vigor 90 días posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Reglamento de la Ley de la Defensoría de Oficio del Estado de Nuevo León deberá reformarse para atender a lo dispuesto por el presente Decreto, en un término que no exceda de 90 días a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
