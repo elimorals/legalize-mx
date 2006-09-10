@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-343
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-09"
-last_updated: "2006-02-10"
+last_updated: "2006-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 9 de octubre de 2003.
 
@@ -261,7 +261,9 @@ VIII. Ejecutar por acuerdo del Gobernador las penas privativas de libertad;
 
 IX. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad y traslado de reos;
 
-X. Asegurar y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+X. Asegurar y vigilar el establecimiento y operación de instituciones a cargo del cumplimiento y ejecución de las medidas sancionadoras que sean aplicadas a adolescentes infractores;
 
 XI. Promover, en la esfera de su competencia, la profesionalización y modernización de los cuerpos de seguridad pública del Estado;
 
@@ -305,7 +307,9 @@ VIII. Asesorar a los municipios en el ejercicio de acciones patrimoniales y de t
 
 IX. Convenir y fortalecer las relaciones con los gobiernos federal y municipales y con otros Estados, así como con la Secretaría de Seguridad Pública, para coordinar esfuerzos en materia de prevención contra la delincuencia organizada, en protección ciudadana y en la persecución de delitos;
 
-X. Intervenir en los asuntos del orden criminal, civil y familiar, en los cuales el Ministerio Público deba ser oído;
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+X. Intervenir en los asuntos del orden criminal, de adolescentes infractores, civil y familiar, en los cuales el Ministerio Público deba ser oído;
 
 XI. Designar y remover, por acuerdo del Gobernador, a los Agentes del Ministerio Público y libremente cambiarlos de adscripción según convenga al mejor servicio;
 
@@ -317,9 +321,17 @@ XIV. Formular y desarrollar programas de capacitación para el personal de la Pr
 
 XV. Proponer al Gobernador programas que tiendan a prevenir la delincuencia;
 
-XVI. Llevar la estadística e identificación delincuencial del Estado, y
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
+XVI. Llevar la estadística e identificación delincuencial del Estado,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Ejercer las funciones que le encomiendan las leyes, en materia de menores infractores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
 
 ###### Artículo 24.
 
@@ -1010,3 +1022,31 @@ Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el 
 Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
 
 Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
