@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-a-la-informacion-publica-del-estado-de-nuevo-2686
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2006-01-25"
+last_updated: "2006-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 2003.
 
@@ -147,13 +147,13 @@ III. La que contenga las opiniones, recomendaciones o puntos de vista que formen
 
 IV. La que de hacerse pública afecte la seguridad del Estado;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-V. Cuando se trate de información de particulares relativa a datos personales y sea recibida por la autoridad bajo condición de reserva de conformidad con alguna disposición legal, o esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades, en la forma prevista por alguna Ley;
+V. Cuando se trate de información de particulares relativa a datos personales que en el artículo 3 de esta Ley se especifican en protección de la privacidad de las personas; o esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades, en la forma prevista por alguna Ley;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Las averiguaciones previas; y
+VI. Las averiguaciones previas, o investigaciones en el caso de adolescentes infractores; y
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2004)</small>
 
@@ -161,9 +161,17 @@ VII. La información contenida en los expedientes seguidos ante los Tribunales d
 
 a. Asuntos en materia familiar;
 
-b. Procesos por delitos sexuales, delitos contra la libertad o delitos contra la familia; y
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
-c. Procesos penales en los que la víctima u ofendido del delito sea menor de edad o incapaz.
+b. Procesos por delitos sexuales, delitos contra la libertad o delitos contra la familia;
+
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+c. Procesos penales en los que la víctima u ofendido del delito sea menor de edad o incapaz; y
+
+> <small>(ADICIONADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+
+d) Procesos relacionados con conductas típicas como delitos atribuidas a adolescentes.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2004)</small>
 
@@ -520,3 +528,31 @@ P.O. 25 DE ENERO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las autoridades contarán con un plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto, para publicar en internet los correos electrónicos oficiales que destinarán para efecto de recibir las solicitudes de información a que se refiere el Artículo 13 de la Ley de Acceso a la Información Pública, reformado a través del presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- Las disposiciones legales contenidas en el presente Decreto entrarán en vigor el día 12 de septiembre del 2006.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de Menores y se derogan todas las normas que se opongan al presente Decreto, salvo lo previsto en los Artículos Tercero, Cuarto y Quinto siguientes.
+
+Artículo Tercero.- Las investigaciones, procedimientos y recursos iniciados en el Consejo Estatal de Menores en fecha anterior a la entrada en vigor de este decreto continuarán tramitándose conforme a las disposiciones de la Ley del Consejo Estatal de Menores, sin perjuicio de que en materia de medidas sancionadoras puedan acogerse a la Ley que más le beneficie.
+
+Artículo Cuarto.- Hasta que se encuentren concluidos los procedimientos a que refiere el artículo tercero transitorio, el Consejo Estatal de Menores continuará con la aplicación de las disposiciones de la Ley del Consejo Estatal de Menores, con el presupuesto y los recursos estrictamente indispensables, debiéndose para el efecto realizar los ajustes necesarios, una vez concluido lo anterior, quedará disuelto el Consejo Estatal de Menores.
+
+Artículo Quinto.- Los adolescentes que se encuentren cumpliendo una medida de conformidad con la ley que se abroga, quedarán sujetos al régimen previsto en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León en todo aquello que les beneficie.
+
+Artículo Sexto.- Dentro del plazo de entrada en vigor del presente Decreto, la Secretaría de Finanzas y Tesorería General del Estado coordinará la transferencia de presupuesto, recursos humanos, técnicos y materiales necesarios, asignados al Consejo Estatal de Menores, a las autoridades que el presente Decreto les atribuya competencia en materia de Adolescentes Infractores.
+
+Artículo Séptimo.- Quedan a salvo los derechos laborales del personal del Consejo Estatal de Menores.
+
+Artículo Octavo.- El Juez de Ejecución resolverá sobre la adecuación de las medidas aplicadas con anterioridad a la entrada en vigor del presente Decreto, en los casos que conforme a éste, su duración se modifique en beneficio del adolescente.
+
+Artículo Noveno.- Las autoridades investigadoras y judiciales, a que se refiere este Decreto, conocerán de los hechos que se atribuyan delictuosos que hubieren sido cometidos por adolescentes con anterioridad a la vigencia de este Decreto y respecto de los cuales no se hubiere iniciado procedimiento.
+
+Artículo Décimo.- En los casos en que no se haya pronunciado sentencia ejecutoria, a la entrada en vigor del presente Decreto, los Consejeros Unitarios o la Sala Superior, de la Sala Superior del Consejo Estatal de Menores ordenarán la inmediata libertad de los adolescentes menores de 14 años de edad internados. Se procederá de igual forma, en el caso de mayores de 14 años, siempre y cuando la conducta que a éstos se atribuya no se trate de los delitos graves consignados en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León.
+
+Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Ley de (sic) Consejo Estatal de Menores y de la aplicación de la medida que se determine.
+
+El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
+
+Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
