@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2006-04-28"
+last_updated: "2006-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1017,11 +1017,11 @@ El cargo de Gobernador sólo es renunciable por causa grave que calificará el C
 
 Del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 94.
 
-Al Poder Judicial corresponde la jurisdicción local en las materias de control de la constitucionalidad local, civil, familiar y penal. También garantizará la vigencia de las normas de la Constitución y leyes federales, en las materias en que éstas autoricen la jurisdicción concurrente.
+Al Poder Judicial corresponde la jurisdicción local en las materias de control de la constitucionalidad local, civil, familiar, penal y de adolescentes infractores. También garantizará la vigencia de las normas de la Constitución y leyes federales, en las materias en que estas autoricen la jurisdicción concurrente.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1097,9 +1097,9 @@ Corresponde al Tribunal Superior de Justicia:
 
 I. Resolver en Pleno las controversias constitucionales y las acciones de inconstitucionalidad;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-II. A través de las Salas, conocer en grado de revisión de los negocios civiles, familiares, penales o de jurisdicción concurrente, que le remitan los Jueces;
+II. A través de las Salas, conocer en grado de revisión de los negocios civiles, familiares, penales, de adolescentes infractores o de jurisdicción concurrente, que le remitan los Jueces;
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -1215,9 +1215,9 @@ XIV. Dar su opinión al Congreso del Estado y proporcionarle la información que
 
 XV. Elaborar la cuenta pública anual del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-XVI. Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal; y
+XVI. Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de adolescentes infractores; y
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -2077,9 +2077,21 @@ El Ejecutivo del Estado organizará el régimen penitenciario sobre la base del 
 
 Se faculta al Gobernador del Estado para celebrar con la Federación convenios de carácter general, para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento ambulatorio y con internamiento de menores infractores.
+El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento ambulatorio y con internamiento de adolescentes infractores. Así mismo, establecerá en el ámbito de su competencia, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años a los que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos de rehabilitación y asistencia social
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+La operación del sistema en cada orden de gobierno estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la integración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -2992,3 +3004,17 @@ P.O. 28 DE ABRIL DE 2006.
 DECRETO NUMERO 367, QUE REFORMA EL ARTICULO 4.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+DECRETO NUMERO 404, QUE REFORMA Y ADICIONA EL ARTICULO 17.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
+
+Artículo Segundo.- A efecto de atender a las reformas establecidas en el presente Decreto la legislación secundaria deberá ser modificada en el término no mayor de ciento ochenta días, desde la publicación hasta la entrada en vigor del presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+DECRETO NUMERO 405, QUE REFORMA LOS ARTICULOS 94, 96 Y 97.
+
+Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
