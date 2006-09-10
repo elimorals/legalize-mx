@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2005-12-27"
+last_updated: "2006-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -653,13 +653,13 @@ Si las partes o sus representantes no concurren al Juzgado o Tribunal en los dí
 
 El Secretario o el Juez, en su caso, asentarán en autos la razón que corresponda a esta clase de notificaciones que incluirá, en todo caso, fecha y número del Boletín Judicial.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 77.
 
-Es obligación de los Secretarios o de los Jueces cuando actúen con testigos de asistencia, entregar para su publicación en el Boletín Judicial una lista de los negocios acordados o resueltos en ese mismo día, designándose en éste solamente el número de expediente o toca, la naturaleza del Juicio, los nombres y apellidos de las partes o interesados, salvo que el Juez estime publicación reservada por tratarse de decisiones que impliquen ejecución, pero asentándose en todo caso número de expediente y naturaleza del Juicio. La lista se hará por duplicado quedando uno de los ejemplares en el Archivo de la oficina para resolver cualquier duda que se suscite e irá autorizada con sello y firma del Juez o Magistrado en todo caso. Además se formarán dos colecciones del Boletín Judicial, una de las cuales estará siempre a disposición de los interesados en la Secretaría y otro será para el archivo. En los lugares en donde no se publique el Boletín es obligación de los funcionarios indicados publicar todos los días en la tabla de avisos de los locales que ocupan sus oficinas, antes de las quince horas la lista de Acuerdos referida.
+Es obligación de los secretarios, o de los jueces cuando actúen con testigos de asistencia, entregar para su publicación en el Boletín Judicial una lista de los negocios acordados o resueltos en ese mismo día, designándose en éste solamente el número de expediente o toca, la naturaleza del procedimiento, los nombres y apellidos, de las partes o de los interesados, salvo que el Juez estime publicación reservada por tratarse de decisiones que impliquen ejecución, pero asentándose en todo caso el número de expediente y la naturaleza del procedimiento. La lista se hará por duplicado, quedando uno de los ejemplares en el archivo de la oficina para resolver cualquier duda que se suscite, e irá autorizada con sello y firma del secretario del juzgado o de la sala correspondiente o del Juez cuando actúe con testigos de asistencia. Además se formarán dos colecciones del Boletín Judicial, una de las cuales estará siempre a disposición de los interesados en la secretaría y otra será para el archivo. En los lugares en donde no se publique el Boletín Judicial, es obligación de los funcionarios indicados publicar todos los días en la tabla de avisos de los locales que ocupan sus oficinas, antes de las quince horas, la lista de acuerdos referida.
 
-Por errores y omisiones que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por el Boletín Judicial, así como respecto a la fecha en que surta efecto la notificación si el Boletín no se publicó en ese día. La nulidad se tramitará en la vía incidental conforme al Artículo 81 de este Código.
+Por errores u omisiones que hagan no identificables los procedimientos podrá pedirse la nulidad de las notificaciones hechas por el Boletín Judicial, así como respecto a la fecha en que surta efecto la notificación si el Boletín Judicial no se publicó en ese día. La nulidad se tramitará en la vía incidental conforme al artículo 81 de este Código.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -715,9 +715,11 @@ Igualmente podrá promoverse el incidente dentro del término señalado, respect
 
 El incidente a que se refiere el artículo anterior se tramitará por separado, sin suspender el procedimiento en que se promueva. Si la parte contraria estuviere conforme, se declarará de plano la nulidad en los términos solicitados.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 83.
 
-Se entienden tácitamente consentidas las notificaciones indebidamente hechos (sic): cuando el agraviado reciba con posterioridad, personalmente, una notificación; haga alguna promoción en el juicio o asista a cualquier acto o diligencia del mismo, si no se promueve el incidente de nulidad dentro de los cinco días siguientes.
+Se entienden tácitamente consentidas las notificaciones indebidamente hechas: cuando el agraviado reciba con posterioridad personalmente una notificación, haga alguna promoción en el procedimiento, o asista a cualquier acto o diligencia del mismo; si no se promueve el incidente de nulidad dentro de los cinco días siguientes.
 
 ###### Artículo 84.
 
@@ -727,11 +729,11 @@ Las resoluciones judiciales no se tendrán por consentidas, sino cuando notifica
 
 Por el sólo hecho de oír la notificación no se pierde el derecho de interponer dentro del término legal el recurso que proceda.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 86.
 
-Las infracciones cometidas al realizar notificaciones se castigarán con una multa de diez a cincuenta cuotas, que impondrá a petición de parte, sin perjuicio del derecho de la agraviada para reclamar los daños y perjuicios que se le ocasionen y de que, en su caso, se exija al infractor la responsabilidad criminal en que hubiere incurrido.
+Las infracciones cometidas al realizar notificaciones se castigarán con una multa de diez a cincuenta cuotas, que se impondrán a petición de parte, sin perjuicio del derecho de la agraviada para reclamar los daños y perjuicios que se le ocasionen y de que, en su caso, se exija al infractor la responsabilidad criminal en que hubiere incurrido.
 
 ###### Artículo 87.
 
@@ -2149,11 +2151,13 @@ La parte está obligada a absolver personalmente las posiciones cuando así lo e
 
 Es permitido articular posiciones al procurador que tenga poder especial para absolverlas, o general con cláusula para hacerlo.
 
-El cesionario se considera como apoderado del cedente para los efectos del inciso que precede.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+El cesionario se considera como apoderado del cedente para los efectos del párrafo que precede.
 
-Si el que debe de absolver posiciones residiera fuera del lugar del juicio, aun cuando hubiese señalado domicilio para recibir notificaciones en el lugar del juicio, el juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las preguntas previa la calificación y del cual deberá sacar previamente una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la Secretaría del Tribunal. El juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+Si el que debe absolver posiciones residiera fuera del lugar del procedimiento, aun cuando hubiese señalado domicilio para recibir notificaciones dentro del mismo, el Juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las preguntas previa la calificación y del cual deberá dejarse una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la Secretaría del Tribunal. El Juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -2975,9 +2979,11 @@ Dentro de los tres días siguientes al desahogo de la prueba, podrán las partes
 
 Transcurrido dicho término será desechada toda solicitud sobre tachas.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 390.
 
-Son tachas legales las contenidas en el artículo 325, y además, haber declarado por cohecho.
+Son tachas legales las contenidas en el artículo 325 de este Código, y además, haber declarado por soborno.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -3433,17 +3439,25 @@ La Sala que haya pronunciado la sentencia, devolverá los autos al inferior, den
 
 Todo lo que en este título se dispone respecto de la ejecución de sentencias, comprende los laudos arbitrales, los convenios y las transacciones extrajudiciales que sean resultado de métodos alternos de solución de conflictos, reconocidas judicialmente en autos, los convenios celebrados en juicio y las transacciones que consten en escritura pública, que por su naturaleza traigan aparejada ejecución.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 461 Bis.
 
-Para que sean ejecutables los convenios o laudos resultantes de los métodos alternos de solución de conflictos realizados antes del inicio de un procedimiento jurisdiccional para la solución de la controversia, deberán atenderse las siguientes reglas:
+Para que sean elevados a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada, los convenios o laudos resultantes de los métodos alternos realizados antes del inicio de un procedimiento jurisdiccional para la solución del conflicto, deberán atenderse las siguientes reglas:
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
 
 I. Las partes conjunta o separadamente, presentarán el convenio o laudo resultante, con el fin de que se constate que se haya observado lo dispuesto en el presente Código, la ley que regule los métodos alternos de solución de conflictos y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
 II. Si fue una sola de las partes la que solicitó el reconocimiento, deberá notificarse personalmente a la otra u otras;
 
-III. En caso de que el convenio cumpla con los requisitos anteriormente señalados, el juez lo reconocerá y le dará el valor de sentencia ejecutoriada;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+III. En caso de que el convenio cumpla los requisitos anteriormente señalados, el Juez lo elevará a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
 
 IV. Si el convenio o el laudo fuere oscuro, irregular o incompleto, el juez señalará en concreto sus defectos y prevendrá tanto a las partes como al prestador del servicio de métodos alternos, para que dentro de un plazo máximo de treinta días, la aclaren, corrijan o completen; hecho lo cual le dará curso, y en caso contrario, denegará su trámite.
 
@@ -3657,11 +3671,11 @@ DE LOS REMATES.
 
 Sólo hay secuestro judicial cuando la autoridad pública ordena por escrito y explícitamente que se aseguren bienes, poniéndose en simple guarda, en administración o intervención, según su naturaleza, para garantizar los derechos deducidos o que deban deducirse en juicio.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 497.
 
-El secuestro judicial sólo procede en la providencia precautoria, en los juicios ejecutivos y universales, en el juicio sumario de alimentos y en la ejecución de sentencias, convenios, laudos o transacciones judiciales.
+El secuestro judicial sólo procede en la providencia precautoria, en los juicios ejecutivos y universales, en el Juicio de Arrendamiento, en el procedimiento de alimentos y en la ejecución de sentencias, convenios, laudos o transacciones judiciales.
 
 ###### Artículo 498.
 
@@ -4269,6 +4283,10 @@ El Superior Tribunal substanciará el incidente de acumulación sujetándose en 
 
 El incidente de acumulación no suspende el curso de los juicios a que éste se refiere; pero en ninguno de ellos se dictará sentencia mientras no se resuelva la acumulación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+Para tal efecto, deberá comunicarse al Juez que conoce del procedimiento que se pretende acumular la admisión del incidente.
+
 ###### Artículo 583.
 
 Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere más próximo a su término, hasta que el otro estuviere en el mismo estado, a fin de que ambos se decidan en una misma sentencia.
@@ -4278,8 +4296,6 @@ Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere m
 DE LAS TERCERIAS.
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 584.
 
@@ -4345,9 +4361,13 @@ IV.- Apelar e interponer los recursos procedentes.
 
 El demandado debe denunciar el pleito al obligado al saneamiento antes de la contestación, de la demanda solicitándolo del juez, quien según las circunstancias ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado al saneamiento una vez salido al pleito, se convierte en principal.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 595.
 
-Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen. Si fueren de dominio, el juicio principal seguirá sus trámites hasta antes del remate y desde entonces se suspenderán sus procedimientos hasta que se decida la tercería.
+Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen. Si fueren de dominio sobre bienes muebles, el procedimiento principal en que se interpongan seguirá sus trámites y la celebración del remate únicamente podrá ser suspendida cuando el opositor exhiba título suficiente, a juicio del Juez, que acredite su dominio sobre el bien en cuestión o su derecho respecto de la acción que se ejercita.
+
+Tratándose de inmuebles, el remate sólo se suspenderá si el tercero exhibe escritura pública o instrumento equivalente, inscrito en el registro público correspondiente.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -4387,9 +4407,13 @@ Los impedimentos del juez en una tercería, ya en razón de competencia o por cu
 
 Cuando en una ejecución se afecten intereses de terceros que no tengan, con el ejecutante o el ejecutado, alguna controversia que pueda influir sobre los intereses de éstos, en virtud de los cuales se ha ordenado la ejecución, la oposición se resolverá por el procedimiento incidental. Tanto el ejecutante como el ejecutado serán solidariamente responsables de los daños y perjuicios que con la ejecución se causaren al tercero, a menos que se demuestre que sólo una de las partes ha sido responsable de la ejecución en bienes de éste, en cuyo caso cesará la solidaridad de la otra.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ## TITULO DECIMO TERCERO
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO UNICO.
 
@@ -4397,49 +4421,39 @@ REGLAS GENERALES PARA TODOS LOS JUICIOS.
 
 ###### Artículo 603.
 
-Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores o incapacitado.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 604.
 
-Hecha la solicitud citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta, que se efectuará después de los ocho y antes de los quince días siguientes y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativo a la situación de los hijos menores o incapacitados y de la mujer y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 605.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, tanto en el orden económico como en su salud física y mental, el Tribunal, oyendo el parecer del representante del Ministerio Público sobre estos puntos, al dictar su sentencia donde se disuelva el vínculo matrimonial y donde decida sobre el convenio presentado, decretará cuantas medidas sean necesarias para el bienestar de los menores.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 606.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 607.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 604 y 605, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 608.
 
-En cualquier caso en que los cónyuges dejaren pasar más de cuarenta y cinco días hábiles sin continuar el procedimiento, el Juez declarará sin efecto la solicitud y mandará archivar el expediente; el término empezará a contar a partir del día siguiente de la última resolución o actuación judicial y pronunciado el decreto que ordena que se dicte la sentencia, no se podrá hacer la declaración a que se refiere este artículo.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 609.
 
-En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estimen procedentes y el tribunal lo hará saber a los cónyuges para que dentro de tres días manifiesten si aceptan las modificaciones.
-
-En caso de que no las acepten, el tribunal resolverá en la sentencia lo que proceda con arreglo a la ley cuidando de que en todo caso queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no puede aprobarse, no podrá decretarse la disolución del matrimonio.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 610.
 
-La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos. En el caso que en la misma se decrete el pago de alimentos, deberá observarse lo dispuesto por el artículo 727 de este mismo Código.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 611.
 
-Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción; al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 # LIBRO SEGUNDO
 
@@ -4483,9 +4497,11 @@ VI.- La enumeración precisa y concreta, consignada en la conclusión, de las pe
 
 VII.- El valor de la suerte principal si de ello depende la competencia del Juez.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 613.
 
-Las promociones en que ambas partes estuvieren de acuerdo serán proveídas de plano y de conformidad, salvo los casos en que sean contrarias a las leyes prohibitivas o de interés público.
+Las promociones en que ambas partes estuvieren de acuerdo serán proveídas de plano y de conformidad, salvo los casos en que alteren el orden público, contravengan alguna disposición legal expresa o afecten derechos de terceros.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -4881,11 +4897,11 @@ La reconvención es inadmisible en el juicio ejecutivo.
 
 (DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 676.
 
-Todas las excepciones que opusiere el demandado, incluso las procesales, se decidirán en la sentencia definitiva, salvo las señaladas en el artículo 130 bis de este Código, mismas que se decidirán previamente sin suspender el procedimiento.
+Todas las excepciones que opusiere el demandado, incluso las procesales, se decidirán en la sentencia definitiva.
 
 ###### Artículo 677.
 
@@ -5055,59 +5071,23 @@ Los documentos que se hubieren presentado en juicio deben devolverse a las parte
 
 CONTROVERSIAS SOBRE CONVIVENCIA Y POSESION INTERINA DE MENORES.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+Artículo 723 BIS.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-Artículo 723 BIS.- Se tramitarán conforme a las reglas de este Capítulo, los juicios que tengan por objeto:
+Artículo 723 BIS I.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-I.- Las controversias que versen sobre la custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, o cuando tenga el hábito de embriagarse o el uso indebido y persistente de drogas enervantes, que amenace causar la ruina de los hijos;
+Artículo 723 BIS II.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-II.- Las controversias respecto de la convivencia entre los padres en relación con sus hijos o entre éstos y aquéllos mientras estén sujetos a la patria potestad;
+Artículo 723 BIS III.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-III.- Las controversias que versen sobre los derechos de posesión de estado de padre o de hijo a que se refiere el Artículo 353 del Código Civil en vigor.
+Artículo 723 BIS IV.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-Están legitimados para acudir en esta vía las personas que ejercen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente en aquellos en que dicha cuestión hubiere sido motivo de sentencia ejecutoria.
+Artículo 723 BIS V.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+Artículo 723 BIS VI.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-Artículo 723 BIS I.- La demanda en que se ejercite cualquier acción de las previstas en el artículo que antecede, reunirá los requisitos señalados en los artículos 612 y 614 de este Código.
+Artículo 723 BIS VII.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS II.- Presentada la demanda en los términos que se expresan en el artículo anterior se correrá traslado de ella por el término de tres días para que se conteste.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS III.- Transcurrido el período de emplazamiento dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
-
-La prueba documental podrá presentarse con anterioridad, sin perjuicio de que el Juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
-
-Cuando las partes tengan que rendir prueba testimonial deberán anunciarla en la demanda o en la contestación, respectivamente, mencionando los nombres, apellidos y domicilios de los testigos exhibiendo el interrogatorio al tenor del cual deberán ser examinados los testigos. El interrogatorio quedará en autos a la vista por si la contraria desea repreguntar, para que pueda formular y presentar por escrito las repreguntas, antes de la hora señalada para celebrar la audiencia.
-
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
-
-Concluida la audiencia se señalará fecha y hora para escuchar la opinión de los menores si han cumplido doce años.
-
-La sentencia se pronunciará dentro de los tres días siguientes.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS IV.- En los supuestos de las fracciones I y III del Artículo 723 bis, la sentencia que declare procedente la acción, mandará amparar o restituir la custodia o posesión, dictando los apercibimientos y providencias oportunas.
-
-En el supuesto de la fracción II del Artículo 723 bis, en la sentencia, el Juez señalará los días y horas para la convivencia entre padres e hijos, dictando los apercibimientos y providencias necesarias para su cumplimiento.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS V.- La sentencia que se dicte en los asuntos a que se refieren las fracciones I y II del artículo 723 bis, podrán modificarse cuando cambien las circunstancias que afectan el ejercicio de la acción que se dedujo, observándose para ello la vía incidental.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS VI.- La sentencia que se emita será apelable en el efecto devolutivo.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS VII.- La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se dicte la sentencia ejecutoria.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 712.
 
@@ -5167,13 +5147,11 @@ El juez, en caso de que decrete la demolición dispondrá que se haga bajo la di
 
 En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio Público.
 
-> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V
 
 DEL JUICIO SUMARIO DE ALIMENTOS.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ### CAPÍTULO V BIS
 
@@ -5215,89 +5193,47 @@ Desahogadas las pruebas y concluida la fase de alegatos, la sentencia se dictar�
 
 Artículo 732 BIS V.- Contra la sentencia que se dicte procede el recurso de apelación en ambos efectos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 724.
 
-Para decretar alimentos en favor de quien tenga derecho de exigirlos, se necesita:
-
-I.- Que se acredite cumplidamente el título en cuya virtud se piden;
-
-II.- Que se justifique, al menos aproximadamente, la capacidad económica del que deba darlos.
-
-El que exige los alimentos tiene a su favor la presunción de necesitarlos, por lo tanto no requiere prueba.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 725.
 
-La prueba de que trata la fracción I del artículo anterior será: el testamento, los documentos comprobantes de parentesco o de matrimonio, el convenio o la ejecutoria en que conste la obligación de dar alimentos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 726.
 
-Presentada la demanda con los documentos a que se refiere el artículo anterior, se correrá traslado al deudor alimentista por un término de tres días para que produzca su contestación. Esta sólo se admitirá a trámite si se refiere a lo previsto en la fracción II y último párrafo del artículo 724, de suerte que el Juez esté en condiciones de fijar el monto proporcional a que se contrae el artículo 311 del Código Civil, lo que se decretará de plano.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-En el auto que admite la demanda. el Juez fijará prudencialmente una pensión provisional, contra lo cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que se haga entrega de la misma al que exige los alimentos. Lo mismo se observará respecto de cualquier otro emolumento o crédito que exista en favor del deudor.
+###### Artículo 727.
 
-Fuera de los casos anteriores, se ordenará requerir al deudor sobre el pago inmediato de dicha pensión provisional embargando en su caso bienes de su propiedad que garanticen su cumplimiento.
-
-Transcurrido el periodo de emplazamiento, dentro de tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente requieran.
-
-La prueba documental podrá presentarse con anterioridad, sin perjuicio de que el juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
-
-Cuando las partes tengan que rendir prueba testimonial, deberán anunciarla en la demanda o en la contestación respectivamente, mencionado los nombres, apellidos y domicilios de los testigos, exhibiendo el interrogatorio al tenor del cual deberán ser examinados los testigos. El interrogatorio quedará en autos a la vista si la contraria desea repreguntar, para que pueda formular y presentar por escrito las repreguntas hasta antes de la hora señalada para celebrarse la audiencia.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Si las partes en la demanda o en la contestación solicitan el envío de oficio para pedir informes que interesen en el proceso, se ordenará que aquéllos se envíen de inmediato, con los apercibimientos de ley, para que puedan tenerse a la vista en la audiencia de pruebas y alegatos.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
-
-La sentencia se pronunciará dentro de los cinco días siguientes.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 727.
-
-La sentencia que decrete los alimentos, fijará la pensión correspondiente que deberá abonarse siempre por adelantado. La sentencia respectiva, indicará siempre en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión, podrá modificarse en su cuantía, previo el procedimiento respectivo, para que esté ajustada permanentemente a las necesidades del acreedor alimentista y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia, deberá hacerse personalmente del conocimiento de las partes, al ser notificada la sentencia respectiva.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 728.
 
-Notificada la sentencia, se comunicará sin demora conforme a lo establecido en el segundo párrafo del citado artículo 726 se tendrá por definitivo el embargo, trabado para garantizar la pensión provisional, pudiendo ampliarse el mismo y procederse a la venta para cubrirse el pago de las pensiones provisionales adeudadas y de la fijada en la sentencia y subsecuentes. El Registrador de la Propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
-
-La pensión provisional subsistirá mientras no se cumpla con la sentencia pronunciada, conforme a lo dispuesto en los párragos (sic) que anteceden).
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 729.
 
-La sentencia en que se denieguen los alimentos será apelable en ambos efectos, y contra la que los concede, sólo se admitirá la apelación en el efecto devolutivo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 730.
 
-En este juicio no se admitirá ninguna discusión sobre el derecho a percibir alimentos. Cualquiera reclamación en este sentido deberá intentarse en juicio ordinario.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+###### Artículo 731.
 
-###### ARTÍCULO 731.
-
-Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental sin perjuicio de seguirse abonando al acreedor alimentista, durante la substanciación del incidente, la cantidad que se le haya asignado conforme al artículo 727.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 732.
 
-De este juicio solo conocerán los Jueces de lo Familiar. En donde no los haya, conocerán los Jueces de lo Civil o de jurisdicción mixta.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 > <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
 ### CAPITULO VII
 
@@ -5307,83 +5243,43 @@ DEL JUICIO DE MENOR CUANTIA.
 
 ###### Artículo 733.
 
-Todas las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente Capítulo.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 734.
 
-La demanda en que se ejercite cualquier acción de las previstas en el artículo que antecede, reunirá los requisitos señalados en el artículo 612 de este Código. Con la misma se exhibirá el contrato de arrendamiento respectivo en el caso de haberse celebrado por escrito, así como los demás documentos que se quiera se tengan como prueba.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 735.
 
-Admitida la demanda, se correrá traslado de ella y de las copias de los documentos exhibidos a la parte demandada, emplazándosele para que la conteste dentro de cinco días. Del escrito de contestación se dará traslado por tres días al actor, para que manifieste y ofrezca las pruebas que a su derecho convengan. A su vez, el demandado presentará su dúplica dentro de igual término y para los mismos efectos.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 736.
 
-El escrito de contestación se formulará ajustándose a los términos previstos para la demanda.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
-
-Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
-
-Todas las excepciones que se opongan, incluso las procesales, se resolverán en la sentencia definitiva, salvo las señaladas en el artículo 130 bis de este Código, mismas que se decidirán previamente sin suspender el procedimiento
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
-
-El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. En este caso se correrá traslado de ella al actor, a fin de que la conteste dentro del plazo de cinco días. El reconventor producirá su réplica en el término de tres días y el actor su dúplica dentro de otros tres.
-
-Si el demandado o el actor reconvenido no formula su contestación, se tendrá por contestada en sentido negativo, en su caso, la demanda y la reconvención.
-
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
-
-En los escritos de demanda, contestación, réplica y dúplica, y en su caso en el de reconvención, contestación, réplica o dúplica, las partes ofrecerán sus pruebas.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 737.
 
-Fijada la litis, el juez, de oficio, hará la calificación de las pruebas ofrecidas por las partes y admitirá a trámite las que considere procedentes de acuerdo con el artículo 230, fijando fecha para la celebración de la audiencia de pruebas y alegatos, misma que deberá verificarse dentro de los doce días siguientes, ordenando notificarlo personalmente a las partes y mandando preparar las pruebas que requieran de diligencia especial.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 738.
 
-El ofrecimiento, admisión y desahogo de las pruebas, se sujetará a las reglas establecidas para ello en este Código.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 739.
 
-En la audiencia se desahogarán las pruebas admitidas en el orden que el Juez determine. Si no se logran desahogar todas las pruebas se diferirá la audiencia al quinto día hábil siguiente.
-
-Inmediatamente de desahogadas las pruebas, se oirán los alegatos de ambas partes, quienes también los podrán presentar por escrito en ese momento, quedando el negocio en estado de sentencia, misma que deberá pronunciarse en un plazo no mayor de ocho días, a contar del siguiente a la celebración de la audiencia.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 740.
 
-Los incidentes no suspenderán el procedimiento. Se substanciarán por cuerda separada, cualquiera que sea su naturaleza, en los términos de los artículos 561, 562 y 564 de este Código.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 741.
 
-Sólo las sentencias definitivas y las que decidan los incidentes que se promuevan, pronunciadas por los Jueces de Primera Instancia, serán apelables en el sólo efecto devolutivo.
-
-La impugnación contra las demás resoluciones que se dicten durante el procedimiento del Juicio o el trámite de los incidentes, se harán valer como agravio ante la segunda instancia, en el caso de que el agraviado por aquellas interponga el recurso de apelación contra la sentencia definitiva o interlocutoria, respectivamente.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 742.
 
-En todo lo aquí no previsto, se estará a las reglas de este Código, en cuanto no se opongan a lo dispuesto en el presente Capítulo.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO I
 
@@ -7269,7 +7165,7 @@ Si durante las actuaciones arbitrales las partes llegaren a una transacción que
 
 IMPUGNACION DEL LAUDO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 975.
 
@@ -7311,7 +7207,7 @@ II.- El árbitro podrá corregir cualquiera de los errores mencionados por su pr
 
 III.- También podrá pedir al árbitro la corrección del laudo, el juez que conozca del trámite para su aprobación y posterior ejecución, en los términos del artículo 461 Bis de este Código.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO VIII
 
@@ -7354,6 +7250,12 @@ El procedimiento de nulidad se substanciará incidentalmente, de conformidad con
 La resolución no será objeto de recurso alguno.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+### CAPITULO I
+
+CONFESIONAL.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 982.
 
@@ -7405,7 +7307,831 @@ Tratándose de extranjeros, se estará a lo dispuesto en las leyes aplicables.
 
 El documento que contenga el correspondiente convenio, cuando éste sea el resultado de métodos alternos de solución de conflictos, deberá ser presentado ante la autoridad judicial a fin de que, si no se contravienen disposiciones de orden público ni se afectan derechos de terceros, sean reconocidos por ésta y se les dé, respecto de las partes, la misma eficacia y autoridad de cosa juzgada o en su caso de sentencia ejecutoriada, en los términos del artículo 2845 del Código Civil.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+# LIBRO SEPTIMO
+
+PROCEDIMIENTO ORAL.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO PRIMERO
+
+DISPOSICIONES GENERALES.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 989.
+
+Se sujetarán al procedimiento oral:
+
+I.- Las controversias que se susciten con motivo de arrendamientos;
+
+II.- Las controversias que se susciten con motivo de alimentos, y convivencia y posesión interina de menores, cuando éstas constituyan el objeto de la acción principal; y
+
+III.- Las solicitudes de divorcio por mutuo consentimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 990.
+
+El procedimiento oral se realizará fundamentalmente con base en los principios de oralidad, inmediación, abreviación, publicidad, contradicción, concentración y continuidad. En lo no previsto en este Libro, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones comunes de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 991.
+
+Salvo lo dispuesto en este Libro, las promociones de las partes deberán formularse oralmente durante las audiencias, siendo aplicable al efecto lo dispuesto en el artículo 41 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 992.
+
+El Juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias, con excepción de lo dispuesto en este libro.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 993.
+
+Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 994.
+
+Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez, videograbadas por personal técnico adscrito al Poder Judicial del Estado y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 995.
+
+La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la Audiencia de Juicio deberá reclamarse durante ésta, antes de que el Juez pronuncie la sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 996.
+
+Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 997.
+
+Las tercerías que surjan dentro del procedimiento oral, se sustanciarán en forma separada, con los mismos trámites y procedimientos de éste, salvo lo dispuesto en el artículo 602 Bis del presente Código.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO SEGUNDO
+
+PRUEBAS.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO II
+
+TESTIMONIAL.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 998.
+
+La prueba confesional por posiciones podrá ofrecerse desde el escrito de demanda hasta antes de concluir la Audiencia Preliminar, debiendo exhibirse el pliego cerrado que las contenga antes de la audiencia señalada para su desahogo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 999.
+
+Llegado el momento para el desahogo de la prueba confesional, estando presentes las partes, la oferente formulará oralmente sus posiciones, calificando simultáneamente el Juez de improcedentes aquellas que lo fueren. En caso de que la absolvente no asista, el Juez abrirá el pliego y la tendrá por confesa de las posiciones calificadas de legales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO III
+
+INSTRUMENTAL.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1000.
+
+Al ofrecerse la prueba testimonial, no será necesario acompañar interrogatorio escrito. Las preguntas y repreguntas se formularán oralmente al testigo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1001.
+
+Cuando se trate de testigos que deban ser citados por el Juez, la citación se hará por lo menos con tres días de anticipación al día en que deban declarar, mediante cédula en la que se les apercibirá que en caso de desobediencia se les aplicarán los medios de apremio previstos en el artículo 330 de este Código, independientemente de que se les haga comparecer por medio de la fuerza pública.
+
+No obstante lo anterior, si no fuera posible hacer que el testigo comparezca a rendir su declaración, la prueba testimonial no será desahogada.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1002.
+
+Para la consecución de la verdad y de la justicia, el Juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos, debiendo el Juez impedir preguntas ociosas o impertinentes.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1003.
+
+Una vez que el testigo rinda su declaración, sólo podrá ausentarse del recinto oficial cuando el Juez lo autorice.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1004.
+
+El Juez podrá ordenar, de oficio o a petición de parte, confrontaciones de los testigos entre sí o con las partes, a fin de aclarar los hechos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1005.
+
+Los testigos que hayan declarado podrán ser tachados en la audiencia o en un plazo de tres días contados a partir del desahogo de la prueba, debiendo sustanciarse en forma incidental, suspendiéndose el término para pronunciar sentencia definitiva.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO IV
+
+PERICIAL.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1006.
+
+Es instrumento público el registro del procedimiento oral; probará el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, las personas que hubieran intervenido, las resoluciones pronunciadas por el Juez y los actos que se llevaron a cabo; y tendrá valor probatorio para los efectos del procedimiento, de los recursos y requerimientos que correspondan, excepto si se prueba que fue alterado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1007.
+
+Los documentos que presenten las partes deberán ser impugnados durante la etapa de calificación de pruebas en la Audiencia Preliminar. Los presentados con posterioridad, en los casos en que la ley lo permita, deberán serlo durante la audiencia en que se ofrezcan.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO I
+
+REGLAS GENERALES.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1008.
+
+La prueba pericial se desahogará con la intervención de los peritos designados por el Juez, sin perjuicio de que cada parte pueda designar un perito para que rinda dictamen por separado.
+
+La designación de perito por las partes deberá efectuarse antes de que concluya la Audiencia Preliminar, con la obligación de mencionar nombre, apellidos y domicilio; anexando título o cédula profesional, y los documentos que acrediten los requisitos exigidos por el artículo 314 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1009.
+
+De no cumplirse los requisitos del artículo anterior, se tendrá por no hecha la designación del perito, precluyendo el derecho para hacerla.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1010.
+
+Admitida la prueba pericial, el Juez señalará un plazo prudente para la rendición del dictamen correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1011.
+
+El perito designado por el Juez deberá aceptar el cargo en un plazo de tres días contados a partir del día en que se le haga saber su designación, debiendo el Juez proveer lo correspondiente; en caso de no aceptar, el Juez designará otro.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1012.
+
+El dictamen pericial será puesto a la vista de las partes, por lo menos tres días antes de la audiencia respectiva, quienes deberán pedir las aclaraciones que estimen pertinentes durante ésta.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1013.
+
+Los peritos se sujetarán a las disposiciones establecidas en los artículos 1002, 1003 y 1004 del presente Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1014.
+
+Los peritos asistirán a la audiencia respectiva con el fin de exponer las aclaraciones que el Juez o las partes les soliciten.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1015.
+
+El perito designado por el Juez que habiendo aceptado el cargo no rinda su dictamen o deje de concurrir a la audiencia respectiva sin justa causa calificada por el Juez, será sancionado con una multa de diez a cincuenta cuotas; además, será responsable de los daños y perjuicios causados por su culpa. En este caso, el Juez designará nuevo perito.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1016.
+
+Si a la audiencia mencionada en el artículo anterior los peritos designados por las partes, que habiendo aceptado el cargo, no asisten o no rinden su dictamen en el plazo fijado, se tendrá por no ofrecido dicho dictamen.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1017.
+
+En caso de que los peritos, con el fin de emitir su dictamen, tengan necesidad de entrevistar a una o más personas, el Juez señalará el lugar, día y la hora para ello, debiendo asistir todos los peritos designados.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1018.
+
+Cuando se trate de la evaluación de menores, el Juez determinará la forma en que se llevará a cabo, procurando que no se afecte la integridad física, psicológica o emocional de aquéllos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1019.
+
+Los honorarios de los peritos de las partes serán pagados por cada una de ellas sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas y los de los peritos designados por el Juez, por el Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1020.
+
+No será aplicable al procedimiento oral lo dispuesto en los artículos 310, 313, 316 y 319 de este Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO TERCERO
+
+AUDIENCIAS.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1021.
+
+Las audiencias serán presididas por el Juez bajo pena de nulidad; serán públicas, salvo las excepciones previstas en este Código y en la Ley de Acceso a la Información Pública del Estado; y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ellas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1022.
+
+Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 78 de este Código, además de contar con facultades para someter el conflicto a un método alterno, conciliar ante el Juez, y suscribir, en su caso, el convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1023.
+
+El Juez, al ordenar la citación para las audiencias, hará saber a las partes su obligación de asistir a las audiencias del procedimiento, apercibiéndolas de las consecuencias previstas en el artículo 996 de este Código para el caso de no comparecer.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1024.
+
+El Juez determinará el inicio y la conclusión de cada una de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en las anteriores.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del Juez en materia de conciliación.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1025.
+
+La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posible para procurar la continuidad del procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1026.
+
+Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el Juez podrá suspenderla.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1027.
+
+Cada vez que proceda la suspensión de una audiencia deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1028.
+
+Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo, a juicio del Juez, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la Ley tuvieren derecho a ello.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1029.
+
+Al inicio de cada audiencia el secretario del juzgado hará constar oralmente en el registro a que hace referencia el artículo anterior, la fecha, hora y el lugar de realización, el nombre de los servidores públicos del juzgado y demás personas que intervendrán.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1030.
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se han conducido y se conducirán con verdad durante el procedimiento; para tal efecto, el secretario del juzgado dará lectura íntegra de las disposiciones del Código Penal que tipifican el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad; igualmente les hará saber que en caso de conducirse con falsedad, el Juez procederá de oficio a dar vista al Ministerio Público, a fin de que inicie la averiguación correspondiente.
+
+La protesta así rendida surtirá efectos en todas las intervenciones que realice quien protestó durante las actuaciones del procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1031.
+
+Durante el desarrollo de las audiencias los jueces deberán imponer el orden y, en su caso, las correcciones disciplinarias a que se refiere este Código, oyendo en ese mismo acto en defensa a las personas a quienes se les impongan, resolviendo enseguida el confirmar, modificar o dejar sin efecto la corrección.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1032.
+
+En el transcurso de las audiencias o al terminarse éstas, se levantará un acta que deberá contener:
+
+I.- El lugar, la fecha y el expediente al que corresponde;
+
+II.- El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III.- La relación breve de lo actuado y resuelto en la audiencia, en forma enumerada, y
+
+IV.- Las constancias que la ley imponga para cada caso específico o que el Juez resuelva asentar.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1033.
+
+El secretario del juzgado deberá certificar el medio óptico o magnético en donde se encuentre grabada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1034.
+
+Se podrá solicitar copia simple o certificada, de las actas o los registros, o parte de ellos, que obren en el procedimiento, la que deberá ser certificada en los términos del artículo 1033 de este Código.
+
+Lo anterior con excepción de los casos señalados en la Ley de Acceso a la Información Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1035.
+
+La conservación de los registros estará a cargo del juzgado que los haya generado. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el Juez ordenará reemplazarlo, en todo o en parte, por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1036.
+
+En la secretaría del juzgado estarán disponibles los aparatos y el personal de auxilio necesarios para tener acceso a los registros del procedimiento, a fin de conocer su contenido, pudiendo tomar apuntes.
+
+Igualmente se podrá registrar en cualquiera de los medios citados en el artículo 1028 de este Código, una parte o la totalidad, de las audiencias que se lleven a cabo, sin que dichos registros tengan valor legal alguno dentro del procedimiento, salvo en el caso establecido en el artículo 1035 del presente Código.
+
+Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública del Estado obligue a la autoridad a negar el acceso público a la información.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO CUARTO
+
+INCIDENTES.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1037.
+
+Los incidentes que no tengan tramitación especial sólo podrán promoverse oralmente en las audiencias y no suspenderán éstas. La parte contraria podrá contestar oralmente en la audiencia o por escrito en un plazo de tres días contados a partir de la promoción del incidente, quedando en autos, a disposición del incidentista el escrito de contestación, para que se imponga del mismo.
+
+Tratándose de una cuestión que requiera prueba, el Juez ordenará el diligenciamiento y la desahogará en audiencia especial o dentro de algunas de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+En caso de que en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, suspenderá el pronunciamiento de la sentencia definitiva y procederá en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1038.
+
+Si se promueve la acumulación de autos, se procederá en los términos del artículo 1056 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1039.
+
+La recusación será admisible hasta antes de la calificación de las pruebas en la Audiencia Preliminar.
+
+Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO QUINTO
+
+PROCEDIMIENTO ORAL GENERAL.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO II
+
+REGLAS ESPECIALES.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1040.
+
+La demanda deberá presentarse por escrito, y reunirá los requisitos de los artículos 612 y 614 del presente Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1041.
+
+Admitida la demanda, el Juez ordenará emplazar al demandado corriéndole traslado con copia de la misma y de los documentos acompañados, a fin de que, en un plazo de cinco días, ocurra a producir su contestación por escrito.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1042.
+
+El actor podrá acompañar al actuario a efectuar el emplazamiento en el domicilio del demandado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1043.
+
+El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1044.
+
+El demandado podrá allanarse a la demanda; en este caso, el Juez citará a las partes a una audiencia en un plazo no mayor de tres días para pronunciar la sentencia definitiva.
+
+Corresponderá seguir el procedimiento respectivo, si la cuestión planteada es de orden público, si se trata de derechos irrenunciables o si los hechos en que se funda la demanda no pueden ser probados por confesión.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1045.
+
+El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de cinco días.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1046.
+
+Si el demandado o el actor reconvenido no formulan su contestación, analizado el emplazamiento respectivo, la demanda o la reconvención se tendrán por contestadas en sentido negativo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1047.
+
+En los escritos de demanda, reconvención y contestación a éstas, respectivamente, las partes ofrecerán sus pruebas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1048.
+
+Contestada la demanda y la reconvención, o transcurridos los plazos para hacerlo, el Juez de oficio examinará la personalidad de las partes; no estando satisfecha, procederá en los términos del artículo 9 del presente Código; de estar satisfecha, fijará la fecha y hora para la Audiencia Preliminar, ordenando notificarla personalmente a las partes por lo menos cinco días antes de ésta, apercibiéndolos de las consecuencias previstas en el artículo 996 de este Código para el caso de no comparecer, y dando vista al actor del escrito de contestación.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1049.
+
+La Audiencia Preliminar se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda sin justa causa calificada por el Juez con una multa hasta por el monto establecido en el artículo 27 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1050.
+
+La Audiencia Preliminar podrá suspenderse o diferirse cuando el Juez lo estime pertinente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1051.
+
+Al inicio de la Audiencia Preliminar, una vez que el secretario del juzgado lleve a cabo lo referido en el artículo 1029 de este Código, expondrá un breve resumen de la demanda, reconvención y contestación a éstas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1052.
+
+Si asisten las partes, el Juez les propondrá someterse a un método alterno, y si están de acuerdo con esta vía, se procederá conforme a la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
+
+No acordando las partes someter el conflicto a un método alterno, el Juez procurará la conciliación, haciéndoles saber las conveniencias de llegar a un convenio, y proponiéndoles soluciones a todos o algunos de los puntos controvertidos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1053.
+
+Las partes pueden solicitar al Juez tenga por acreditados ciertos hechos; dichos acuerdos probatorios no podrán ser discutidos posteriormente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1054.
+
+Si las partes no llegan a un convenio que establezca la solución total del conflicto, ya sea a través de un método alterno o de conciliación ante el Juez, procederá de oficio a la calificación de las pruebas relativas a las excepciones procesales opuestas.
+
+En caso de que las pruebas no requieran diligencia especial, se escucharán los alegatos, primero del actor y posteriormente del demandado. Enseguida, el Juez dictará la sentencia interlocutoria en el acto si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de 3 días.
+
+De ofrecerse la pericial, se mandará preparar y desahogar en los términos del Capítulo IV, del Título Segundo, de este libro del presente Código, y se fijará la fecha para la reanudación de la Audiencia Preliminar.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1055.
+
+Si se opone la incompetencia, el Juez pronunciará si sostiene o no su competencia.
+
+Si el Juez considera que es competente, continuará el procedimiento, reservando al opositor su derecho de impugnar vía agravio dicha resolución, en caso de inconformarse con la sentencia definitiva.
+
+Si el Juez considera que es incompetente, suspenderá el procedimiento y remitirá de inmediato todo lo actuado al Pleno del Tribunal, a fin de que resuelva lo conducente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1056.
+
+En caso de que se oponga la excepción de conexidad de la causa, el Juez informará de inmediato al Juez que conoce del procedimiento que se pretende acumular, para efecto de que no se pronuncie sentencia definitiva, en tanto no quede resuelta la misma.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1057.
+
+En caso de que resulten improcedentes las excepciones procesales o si no se opone alguna, el Juez precisará los acuerdos probatorios a los que hayan llegado las partes, fijará el objeto del procedimiento y los hechos controvertidos, calificará las pruebas ofrecidas y admitirá para su trámite las que considere procedentes de acuerdo con el artículo 230 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1058.
+
+Si no hay pruebas que requieran de diligencia especial para su desahogo o habiéndolas se puedan desahogar en la propia audiencia, el Juez dará por concluida la Audiencia Preliminar e iniciará de inmediato la Audiencia de Juicio, procediendo en los términos del artículo 1063 del presente Código.
+
+En caso contrario, mandará preparar aquéllas que requieran de diligencia especial, fijará la fecha y hora para la Audiencia de Juicio, a la que deberán concurrir las partes, así como los testigos y peritos, en caso de que se hayan ofrecido las pruebas respectivas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1059.
+
+Dentro de la etapa de preparación de las pruebas, podrá desahogarse la inspección judicial y la pericial, así como solicitarse los informes y enviar los exhortos para el desahogo de aquellas probanzas que lo requieran, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1060.
+
+En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, en la misma Audiencia Preliminar deberá estamparse la firma, rasgos caligráficos o cuerpo de escritura, que el Juez considere necesarios, pudiendo éste o las partes hacer las observaciones que estimen pertinentes, a fin de que los peritos dictaminen al respecto.
+
+Si no compareció quien debe firmar o escribir, se le citará para la fecha y hora que determine el Juez.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1061.
+
+El ofrecimiento, la admisión y el desahogo de las pruebas, se sujetará a las reglas establecidas para ello en este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1062.
+
+La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda sin justa causa calificada por el Juez con una multa hasta por el monto establecido en el artículo 27 del presente Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1063.
+
+Si asisten las partes, el juez procurará conciliarlas y en su caso, se celebrará el convenio correspondiente, mismo que será elevado a la categoría de cosa juzgada o sentencia ejecutoriada.
+
+Si las partes no llegan a un convenio, en el orden que el juez determine, se desahogarán las pruebas y las partes alegarán de su derecho en forma oral, hecho lo cual, quedará el negocio en estado de sentencia, misma que se dictará en el acto si fuere posible; en caso contrario, citará a las partes para dictarla dentro del término de 5 días.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1064.
+
+Sólo la sentencia definitiva, y los autos y las sentencias interlocutorias que pongan fin al procedimiento son apelables. Para la sentencia definitiva, este recurso se admitirá en el efecto devolutivo; para los autos y las sentencias interlocutorias que pongan fin al procedimiento, se admitirá en ambos efectos.
+
+La impugnación contra las demás resoluciones que se pronuncien durante el procedimiento, se hará valer como agravio ante la segunda instancia, en el caso de que el agraviado por aquéllas interponga el recurso de apelación contra la sentencia definitiva.
+
+Se exceptúa de lo anterior, la apelación en contra de las resoluciones que declaren la improcedencia de la excepción de conexidad de la causa y de la acumulación de autos.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO UNICO
+
+DIVORCIO POR MUTUO CONSENTIMIENTO.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCION PRIMERA
+
+ARRENDAMIENTO.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1065.
+
+Las controversias que se susciten con motivo de arrendamientos, independientemente de la cuantía, se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1066.
+
+Con la demanda se exhibirá el contrato de arrendamiento respectivo, en el caso de haberse celebrado por escrito.
+
+En el caso de que el contrato de arrendamiento sea otorgado o ratificado ante el fedatario público, el actor podrá solicitar al juez provea auto en el que se requiera al demandado, para que en el acto de la diligencia compruebe con los documentos respectivos estar al corriente del pago de las rentas, y si no lo hiciera, se le embargue bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se emplazará al demandado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1067.
+
+Emplazado el demandado y en caso de que el inmueble se encuentre desocupado, a petición del arrendador, se le dará posesión del inmueble en forma provisional, debiendo continuarse el procedimiento por sus demás etapas hasta su conclusión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCION SEGUNDA
+
+ALIMENTOS.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1068.
+
+Para decretar alimentos a favor de quien tenga derecho de exigirlos, se necesita:
+
+I.- Que se acredite el título en cuya virtud se piden;
+
+II.- Que se justifique, al menos aproximadamente, la capacidad económica del que deba darlos.
+
+El que exige los alimentos tiene a su favor la presunción de necesitarlos, por lo tanto, no requiere prueba.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1069.
+
+La prueba de que trata la fracción I del artículo anterior será: el testamento, los documentos comprobantes de parentesco o de matrimonio, el convenio o la ejecutoria en que conste la obligación de dar alimentos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1070.
+
+Recibida la demanda y cumplidas las exigencias legales, el Juez dictará el auto de admisión, fijando prudencialmente una pensión provisional, contra la cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro crédito que exista a favor del deudor alimentista.
+
+Para fijar la pensión provisional, el Juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria.
+
+Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
+
+La prueba documental podrá presentarse hasta antes de la etapa de calificación de pruebas en la Audiencia Preliminar, salvo la referida en la fracción I del artículo 1068 del presente Código, que deberá acompañarse junto con la demanda.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1071.
+
+La sentencia que decrete los alimentos, fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión podrá modificarse en su cuantía, previo el procedimiento respectivo, para que esté ajustada permanentemente a las necesidades del acreedor alimentista y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia deberá hacerse del conocimiento de las partes personalmente al ser notificada la sentencia respectiva.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1072.
+
+Notificada la sentencia, se comunicará sin demora a la persona física o moral de quien perciba el ingreso el deudor alimentista, si este es el caso.
+
+Cuando se hayan embargado bienes al deudor alimentista, se tendrá por definitivo el embargo trabado para garantizar la pensión provisional, pudiendo ampliarse éste y procederse a la venta para cubrirse el pago de las pensiones provisionales adeudadas, de la fijada en la sentencia y de las subsecuentes.
+
+El registrador público de la propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
+
+La pensión definitiva fijada en la sentencia sustituirá a la provisional.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1073.
+
+La sentencia en que se denieguen los alimentos es apelable en ambos efectos y la que los concede en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1074.
+
+En este procedimiento no se admitirá ninguna discusión sobre el derecho a percibir alimentos. Cualquier reclamación en este sentido deberá intentarse en juicio ordinario.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1075.
+
+Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental, sin perjuicio de seguirse abonando al acreedor alimentista, durante la sustanciación del incidente, la cantidad asignada conforme al artículo 1071 del presente Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCION TERCERA
+
+CONVIVENCIA Y POSESION INTERINA DE MENORES.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1076.
+
+Se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección, las controversias que se susciten con motivo de:
+
+I.- La custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, tenga el hábito de embriagarse, haga uso indebido y persistente de drogas enervantes, o amenace causar la ruina de los hijos;
+
+II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
+
+III.- Los derechos de posesión de estado de padre o de hijo a que se refiere el artículo 353 del Código Civil para el Estado en vigor.
+
+Están legitimados para acudir en esta vía las personas que ejercen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente cuando dicha cuestión haya sido motivo de sentencia ejecutoria.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1077.
+
+El Juez, después de contestada la demanda y fijada la litis, fijará un régimen de convivencia provisional con el demandante ya sea de manera libre, asistida o supervisada, atendiendo a las circunstancias del caso y al interés superior del menor involucrado, pudiendo negar dicha medida temporal en caso que exista un inminente riesgo a la integridad física, psicológica o emocional del menor.
+
+La convivencia provisional cesará una vez que el Juez pronuncie la sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1078.
+
+Durante el procedimiento deberá escucharse la opinión de los menores, si han cumplido doce años, quedando obligada la persona que detente la custodia a presentarlo el día y la hora señalados.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1079.
+
+En los supuestos de las fracciones I y III del artículo 1076 de este Código, la sentencia que declare procedente la acción, mandará amparar o restituir, la custodia o posesión, dictando los apercibimientos y las providencias oportunas.
+
+En el supuesto de la fracción II del artículo 1076 del presente Código, el Juez señalará en la sentencia los días y las horas para la convivencia, dictando los apercibimientos y las providencias necesarias para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1080.
+
+La sentencia que se pronuncie en los asuntos a que se refieren las fracciones I y II del artículo 1076 de este Código, podrá modificarse cuando cambien las circunstancias afectándose el ejercicio de la acción que se dedujo, debiendo sustanciarse en forma incidental.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1081.
+
+La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se pronuncie la sentencia ejecutoria, con excepción de la sentencia que ordene el cambio de custodia del menor, la cual se ejecutará una vez que quede firme, a fin de salvaguardar el interés superior del menor.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO SEXTO
+
+PROCEDIMIENTOS ORALES ESPECIALES.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1082.
+
+Los cónyuges que convengan en divorciarse en los términos del último párrafo del artículo 272 del Código Civil para el Estado, están obligados a presentar la solicitud de divorcio, una copia certificada del acta de matrimonio, una copia certificada de las actas de nacimiento o defunción de los hijos, si los hay, y un convenio en que se fijen los siguientes puntos:
+
+I.- Designación de personas a quienes serán confiados los hijos del matrimonio, tanto durante el procedimiento como después que haya causado ejecutoria la sentencia de divorcio;
+
+II.- El derecho de visita o convivencia que tendrá el cónyuge que no tenga la custodia, debiendo las partes precisar los días y las horas para ese efecto, y en caso de no hacerlo así, el Juez los determinará atendiendo a las circunstancias personales de los cónyuges y al interés superior de los menores;
+
+III.- El modo de subvenir a las necesidades de los hijos, así como la garantía que debe darse para asegurarlo, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+
+IV.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento y después de ejecutoriado el divorcio;
+
+V.- La cantidad que a título de alimentos, en caso de así acordarlo, un cónyuge debe pagar al otro durante y después del procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+
+VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento;
+
+VII.- La manera de liquidar la sociedad conyugal después de ejecutoriado el divorcio, así como la designación de liquidadores; para lo cual deberá acompañarse un inventario y avalúo, de los activos y pasivos, debiendo agregarse los documentos que lo acrediten;
+
+VIII.- Designación de la persona que cubrirá los gastos notariales en caso de existir la transmisión de la propiedad de los bienes inmuebles de un cónyuge a otro o a los hijos;
+
+IX.- Precisar el tiempo que llevan separados los cónyuges;
+
+X.- La manifestación, bajo protesta de decir verdad, de si se encuentra o no encinta la cónyuge; y
+
+XI.- Cualquier otro requisito que el Juez considere procedente tomando en cuenta las circunstancias de cada caso.
+
+Si la solicitud, el convenio o la documentación fueren insuficientes, el Juez concederá a los solicitantes un plazo de tres días para que los completen.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1083.
+
+Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez citará a los cónyuges, al Ministerio Público y, en su caso, al fiador, a una audiencia, señalando día y hora para que se verifique en un plazo de quince días.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1084.
+
+En la audiencia a que se refiere el artículo anterior, el Juez exhortará a los consortes a su reconciliación.
+
+Si se avienen, el Juez declarará sobreseído el procedimiento. Si no se logra la reconciliación e insisten los cónyuges en su propósito de divorciarse, siempre que en el convenio queden bien garantizados los derechos de los hijos, y que el Ministerio Público haya manifestado su conformidad, el Juez suspenderá la audiencia por un plazo no mayor a una hora, al término del cual deberá reanudarla y pronunciar de inmediato la sentencia, disolviendo el vínculo matrimonial y decidiendo sobre el convenio presentado, decretando cuantas medidas sean necesarias para el bienestar de los hijos.
+
+En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime pertinentes y el Juez lo hará saber a los cónyuges, para que en la misma audiencia manifiesten si aceptan o no las modificaciones.
+
+En caso de que no las acepten, el Juez resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que queden debidamente garantizados los derechos de los hijos.
+
+Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del matrimonio.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1085.
+
+El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1086.
+
+Los cónyuges no pueden hacerse representar por procurador en la audiencia a que se refiere el artículo 1083 del presente Código, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1087.
+
+En caso que cualquiera de los cónyuges, sin justa causa calificada por el Juez, no acudiere a la audiencia, el Juez declarará sin efecto la solicitud y mandará archivar el expediente.
+
+Si el cónyuge inasistente justifica la causa, el Juez citará a las partes a una nueva audiencia, bajo apercibimiento que en caso de persistir la inasistencia, el Juez declarará sin efecto la solicitud y mandará archivar el expediente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1088.
+
+La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo y la que lo niegue en ambos efectos. En el caso que en la misma se decrete el pago de alimentos, deberá observarse lo dispuesto por el artículo 1071 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 1089.
+
+Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta al oficial del registro civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil para el Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 1997)</small>
 
 TITULO ESPECIAL
 
@@ -8070,3 +8796,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
 
 Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
+
+P.O.10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la vigencia de la reforma a la Ley Orgánica del Poder Judicial del Estado que establece la creación de los Juzgados del Juicio Oral Civil y Familiar.
+
+Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén, con excepción de lo dispuesto en el Artículo 77, que aplicará para todo caso.
+
+Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
