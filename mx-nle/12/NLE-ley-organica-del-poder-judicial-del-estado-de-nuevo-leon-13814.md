@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2006-04-12"
+last_updated: "2006-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -41,11 +41,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local; en los asuntos de orden civil, familiar, penal y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+Esta Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden civil, familiar, penal, de adolescentes infractores y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
 
 ###### ARTÍCULO 2.
 
@@ -79,21 +79,33 @@ VII. Los Juzgados de Preparación de lo Penal;
 
 VIII. Los Juzgados de Juicio Oral Penal;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-IX. Los Juzgados de Jurisdicción Concurrente;
+IX. Los Juzgados de Garantía de Adolescentes Infractores;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-X. Los Juzgados de Jurisdicción Mixta;
+X. Los Juzgados de Juicio de Adolescentes Infractores;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-XI. Los juzgados Supernumerarios; y
+XI. Los Juzgados de Ejecución de Medidas Sancionatorias de Adolescentes Infractores;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-XII. Los Juzgados Menores.
+XII. Los Juzgados de Jurisdicción Concurrente;
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Los Juzgados de Jurisdicción Mixta;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XIV. Los Juzgados Supernumerarios; y
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XV. Los Juzgados Menores.
 
 En el Poder Judicial habrá un Consejo de la Judicatura del Estado el cual tendrá las atribuciones que le señala la Constitución Política del Estado y esta Ley.
 
@@ -127,9 +139,17 @@ VIII. Los jefes y agentes de la policía estatal y municipal;
 
 IX. Los servidores públicos adscritos a la Dirección de Prevención y Readaptación Social;
 
-X. Los Presidentes Municipales; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-XI. Los demás a quienes las leyes les confieran este carácter.
+X. Los servidores públicos adscritos a las instituciones a cargo del cumplimiento y ejecución de las medidas sancionadoras que sean aplicadas a adolescentes infractores;
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Los Presidentes Municipales; y
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Los demás a quienes las leyes les confieran este carácter.
 
 Los auxiliares de Impartición de Justicia se regirán por las leyes respectivas en cuanto a los requisitos y condiciones para el ejercicio de sus funciones, con exclusión de lo establecido en esta Ley.
 
@@ -161,11 +181,11 @@ Para efectos de la presente Ley, el Estado se divide en los Distritos Judiciales
 
 ### CAPÍTULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 7.
 
-El Tribunal Superior de Justicia se integrará con trece Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del Artículo 115 de esta Ley.
+El Tribunal Superior de Justicia se integrará con catorce Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del artículo 115 de esta Ley.
 
 ###### ARTÍCULO 8.
 
@@ -249,9 +269,9 @@ VII. Proponer al Consejo de la Judicatura las medidas necesarias para mejorar la
 
 VIII. Exhortar a los Magistrados y Jueces al puntual cumplimiento de sus deberes, cuando tuvieren conocimiento de demoras o irregularidades en el despacho de sus asuntos;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-IX. Formar Salas competentes en las materias Civil, Familiar, Penal y de Jurisdicción Concurrente, determinar el número de las mismas, su integración colegiada o unitaria, si serán de competencia especializada o mixta y la adscripción de los magistrados;
+IX. Formar Salas competentes en las materias Civil, Familiar, Penal, de Adolescentes Infractores y de Jurisdicción Concurrente, determinar el número de las mismas, su integración colegiada o unitaria, si serán de competencia especializada o mixta y la adscripción de los magistrados;
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -345,9 +365,9 @@ Según lo acuerde el Pleno del Tribunal Superior de Justicia, las Salas serán C
 
 Corresponde a las Salas:
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-I. Conocer en segunda instancia, en los términos que dispongan las leyes, de los negocios del orden civil, familiar, penal y de jurisdicción concurrente que hayan sido resueltos en primera instancia;
+I. Conocer en segunda instancia, en los términos que dispongan las leyes, de los negocios del orden civil, familiar, penal, de adolescentes infractores y de jurisdicción concurrente que hayan sido resueltos en primera instancia;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -531,17 +551,29 @@ VI. Los Jueces de Preparación de lo Penal;
 
 VII. Los Jueces del Juicio Oral Penal;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-VIII. Los Jueces de Jurisdicción Concurrente;
+VIII. Los Jueces de Garantías de Adolescentes Infractores;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-IX. Los Jueces Mixtos que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+IX. Los Jueces de Juicio de adolescentes Infractores;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-X. Jueces Supernumerarios.
+X. Loa Jueces de Ejecución de Medidas Sancionatorias de Adolescentes Infractores;
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Los Jueces de Jurisdicción Concurrente;
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Los Jueces Mixtos que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+
+> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Jueces Supernumerarios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -693,6 +725,50 @@ III. De la atención y trámite de los exhortos que les dirijan los Jueces de Pr
 
 IV. De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 36 Bis 3.
+
+Corresponde a los Jueces de Garantías de Adolescentes Infractores, en los términos de la Ley de la materia:
+
+I.- Aprobar los acuerdos reparatorios del daño o perjuicio;
+
+II.- Resolver sobre la suspensión del proceso a prueba;
+
+III.- Resolver sobre el otorgamiento de medidas cautelares;
+
+IV.- Recabar la declaración preparatoria del adolescente a quien se le impute la comisión de un delito;
+
+V.- Resolver sobre la vinculación a proceso del adolescente a quien se le impute la comisión de un delito;
+
+VI.- Resolver sobre la admisión de las pruebas que se desahogarán en la audiencia del juicio; y
+
+VII.- Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 36 Bis 4.
+
+Corresponde a los Jueces de Juicio de Adolescentes Infractores conocer del juicio acusatorio conforme a los lineamientos que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 36 Bis 5.
+
+Corresponde a los Jueces (sic) Ejecución de Medidas Sancionadoras de Adolescentes Infractores:
+
+I.- Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la misma;
+
+II.- Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas sancionadoras;
+
+III.- Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
+
+IV.- Atender las solicitudes que hagan los adolescentes sancionados y determinar lo que corresponda;
+
+V.- Visitar los centros de cumplimiento de las medidas sancionadoras del adolescente, por lo menos dos veces al mes; y
+
+VI.- Las demás atribuciones que ésta y otras leyes le asignen.
+
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 37.
@@ -803,11 +879,11 @@ XXI. Realizar las tareas que el Juez les asigne; y
 
 XXII. Las demás que les confieran las leyes y los reglamentos del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 45.
 
-Los Secretarios de los Juzgados de lo Penal, de Preparación de lo Penal y del Juicio Oral Penal tendrán, además de las atribuciones a las que se refiere el artículo anterior, siempre que sean aplicables a la materia penal, las siguientes:
+Los Secretarios de los Juzgados de lo Penal, de Preparación de lo Penal, del Juicio Oral Penal, de Garantías de Adolescentes Infractores, de Juicio de Adolescentes Infractores y de Ejecución de Medidas Sancionadoras de Adolescentes Infractores tendrán, además de las atribuciones a las que se refiere el artículo anterior, siempre que sean aplicables a la materia penal, las siguientes:
 
 I. Distribuir entre el personal que corresponda las consignaciones que se hagan por parte del Ministerio Público;
 
@@ -1353,13 +1429,13 @@ III. Comprobarán si se encuentran debidamente asegurados los instrumentos y obj
 
 IV. Revisarán los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-V. Harán constar el número de asuntos penales, civiles, familiares y de jurisdicción concurrente que se hayan tramitado y de Juicios de Amparo que se hayan promovido en contra del órgano visitado durante el tiempo que comprende la revisión, determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados y si en algún proceso en suspenso transcurrió el tiempo de prescripción de la acción penal;
+V. Harán constar el número de asuntos penales, de adolescentes infractores, civiles, familiares y de jurisdicción concurrente que se hayan tramitado y de Juicios de Amparo que se hayan promovido en contra del órgano visitado durante el tiempo que comprende la revisión, determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados y si en algún proceso en suspenso transcurrió el tiempo de prescripción de la acción penal;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Examinarán los expedientes formados con motivo de las causas penales, civiles, familiares y de jurisdicción concurrente que se estime conveniente y que permitan hacer una evaluación general a fin de verificar que las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; que las notificaciones y diligencias se efectuaron en los plazos legales; que los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado otorgan a los procesados; y
+VI. Examinarán los expedientes formados con motivo de las causas penales, de adolescentes infractores, civiles, familiares y de jurisdicción concurrente que se estime conveniente y que permitan hacer una evaluación general a fin de verificar que las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; que las notificaciones y diligencias se efectuaron en los plazos legales; que los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado otorgan a los procesados; y
 
 VII. Recomendar en caso de advertir que en un proceso se venció el término para dictar sentencia, que ésta se pronuncie a la brevedad, haciéndose constar en el expediente revisado.
 
@@ -1379,17 +1455,17 @@ Una copia del acta levantada por el visitador será entregada al titular del ór
 
 En los casos en que un juzgador no pueda conocer de determinados negocios por excusa o recusación, se conocerán los mismos de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-I. Si el impedimento fuere de un Magistrado de una de las Salas Unitarias del Tribunal Superior de Justicia, el negocio pasará a la que siga en número conforme a la materia. Impedidos todos los Magistrados de la misma materia, se turnará el negocio por riguroso orden a la Sala que corresponda de la otra materia;
+I. Si el impedimento fuere de un Magistrado de una de las Salas Unitarias del Tribunal Superior de Justicia, el negocio pasará a la que siga en número conforme a la materia. Impedidos todos los Magistrados de la misma materia, se turnará el negocio por riguroso orden a la Sala que corresponda de la otra materia, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
 II. Si el impedimento fuere de un Magistrado de una Sala Colegiada del Tribunal Superior de Justicia, conocerá del asunto el Magistrado que determine el Pleno;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-III. Si el impedimento fuere de los jueces de primera instancia, ya sea en las materias civil, familiar, penal, o de jurisdicción concurrente, en los distritos en los que exista más de un juzgado de la misma materia, del juez impedido pasará al que le siga en número. Dentro del mismo distrito se entenderá por juzgado siguiente en número del juzgado con número mayor, el juzgado con número menor.
+III. Si el impedimento fuere de los jueces de primera instancia, ya sea en las materias civil, familiar, penal, o de jurisdicción concurrente, en los distritos en los que exista más de un juzgado de la misma materia, del juez impedido pasará al que le siga en número, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores. Dentro del mismo distrito se entenderá por juzgado siguiente en número del juzgado con número mayor, el juzgado con número menor.
 
 Impedidos todos los jueces de un mismo distrito o existiendo un solo juzgado en él, del juez impedido pasará al que determine el Tribunal Superior de Justicia considerando la menor distancia entre ambos juzgados; y
 
@@ -1439,9 +1515,9 @@ I. Las faltas temporales del Presidente del Tribunal Superior de Justicia se cub
 
 Cuando la falta sea absoluta se procederá en los términos del artículo 22 de esta ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-II. Las de los Magistrados de las Salas Unitarias, del Tribunal Superior de Justicia, cuando la ausencia no pase de quince días y se trate del despacho de asuntos urgentes, serán cubiertas por el Magistrado que designe el Pleno. Cuando la ausencia exceda de quince días se designará por el Tribunal en Pleno un Magistrado interino que la cubra, quien deberá cumplir los requisitos para desempeñar este encargo.
+II. Las de los Magistrados de las Salas Unitarias, del Tribunal Superior de Justicia, cuando la ausencia no pase de quince días y se trate del despacho de asuntos urgentes, serán cubiertas por el Magistrado que designe el Pleno, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores. Cuando la ausencia exceda de quince días se designará por el Tribunal en Pleno un Magistrado interino que la cubra, quien deberá cumplir los requisitos para desempeñar este encargo.
 
 En las faltas absolutas se procederá en los términos de la Constitución Política del Estado;
 
@@ -1451,9 +1527,9 @@ III. La de un solo Magistrado de una Sala Colegiada, del Tribunal Superior de Ju
 
 En las faltas absolutas se procederá en los términos de la Constitución Política del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-IV. Las faltas temporales de los Jueces, sean de Primera Instancia o Menores, serán cubiertas por el Primer Secretario, en cuyo caso actuará como Secretario Fedatario el de mayor antigüedad en el cargo. Si la falta fuere del Juez y del Primer Secretario, el juzgado quedará a cargo del Secretario siguiente en orden de antigüedad, quien actuará con el Secretario que le siga en este supuesto o con dos testigos de asistencia. Concurriendo la falta de Juez y Secretarios, el Consejo de la Judicatura, designará a los sustitutos temporales correspondientes.
+IV. Las faltas temporales de los Jueces, sean de Primera Instancia o Menores, serán cubiertas por el Primer Secretario, en cuyo caso actuará como Secretario Fedatario el de mayor antigüedad en el cargo. Si la falta fuere del Juez y del Primer Secretario, el juzgado quedará a cargo del Secretario siguiente en orden de antigüedad, quien actuará con el Secretario que le siga en este supuesto o con dos testigos de asistencia. Concurriendo la falta de Juez y Secretarios, el Consejo de la Judicatura, designará a los sustitutos temporales correspondientes. En todo caso se tomarán las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores.
 
 Cuando la falta fuere absoluta, se aplicará en lo conducente lo dispuesto en el párrafo anterior hasta en tanto se designe nuevo Juez.
 
@@ -1735,9 +1811,9 @@ El Archivo Judicial del Estado dependerá del Consejo de la Judicatura y éste d
 
 Se depositarán en el Archivo Judicial:
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-I. Todos los expedientes del orden civil, familiar, penal, constitucional local, y de jurisdicción concurrente, totalmente concluidos por el Tribunal Superior de Justicia o los juzgados de dichos ramos;
+I. Todos los expedientes del orden civil, familiar, penal, de adolescentes infractores, constitucional local, y de jurisdicción concurrente, totalmente concluidos por el Tribunal Superior de Justicia o los juzgados de dichos ramos;
 
 II. Los expedientes que, aún cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante un año;
 
@@ -1745,11 +1821,11 @@ III. Cualquier otro expediente concluido que conforme a la ley deba conservarse 
 
 IV. Los demás documentos que las leyes establezcan o el Consejo de la Judicatura acuerde.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 139.
 
-Habrá en el archivo departamentos individuales para los ramos civil, familiar, penal, constitucional local y de jurisdicción concurrente.
+Habrá en el archivo departamentos individuales para los ramos civil, familiar, penal, de adolescentes infractores, constitucional local y de jurisdicción concurrente.
 
 ###### ARTÍCULO 140.
 
@@ -1795,11 +1871,11 @@ El Director recibirá de los órganos jurisdiccionales el material que deba publ
 
 ### CAPÍTULO SEGUNDO. DE LA REVISTA JURÍDICA
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 148.
 
-Se editará en la Capital del Estado una publicación que se denominará "Revista Jurídica", que tendrá por objeto dar a conocer las tesis más importantes que en materia civil, familiar, penal, constitucional local y de jurisdicción concurrente, sustenten los diversos órganos jurisdiccionales de la Entidad, así como los criterios dictados en uso de las facultades establecidas por el artículo 96 fracción V de la Constitución Política del Estado. También contendrá ejecutorias importantes que sustenten autoridades que conocen del Juicio de Amparo, en relación a la Legislación de Nuevo León, y trabajos de investigación jurídica. Esta publicación deberá hacerse por lo menos cada seis meses.
+Se editará una publicación que se denominará "Revista Jurídica", que tendrá por objeto dar a conocer las tesis más importantes que en materia civil, familiar, penal, de adolescentes infractores, constitucional local y de jurisdicción concurrente, sustenten los diversos órganos jurisdiccionales de la Entidad, así como los criterios dictados en uso de las facultades establecidas por el artículo 96 fracción V de la Constitución Política del Estado. También contendrá ejecutorias importantes que sustenten autoridades que conocen del Juicio de Amparo, en relación a la Legislación de Nuevo León, y trabajos de investigación jurídica. Esta publicación deberá hacerse por lo menos cada seis meses.
 
 ###### ARTÍCULO 149.
 
@@ -2016,3 +2092,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día 1º de febrero
 Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén.
 
 Artículo Tercero.- En el Presupuesto de Egresos para el año 2007, deberán considerarse las prevenciones presupuestales para garantizar la aplicación de lo dispuesto por el presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
