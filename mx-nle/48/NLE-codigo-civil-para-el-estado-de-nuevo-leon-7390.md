@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2005-12-27"
+last_updated: "2006-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -317,13 +317,13 @@ V.- La nacionalidad.
 
 El estado civil es un atributo privativo de las personas físicas.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO I. DEL NOMBRE
+
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO V. DE LA NACIONALIDAD
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -387,9 +387,9 @@ Art. 25 Bis VIII.- El cambio de nombre de una persona no la priva de sus derecho
 
 Art. 25 Bis IX.- En el procedimiento judicial de cambio de nombre, el Oficial del Registro Civil que elaboró el acta debe intervenir en calidad de parte y dar vista al Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -409,23 +409,19 @@ Art. 26 Bis I.- La persona moral tiene derecho al uso exclusivo de su nombre y p
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO III. DE LA CAPACIDAD JURIDICA
+### CAPITULO II. DEL DOMICILIO
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 27.
 
 Domicilio es el lugar en que la ley tiene por situadas a las personas para el cumplimiento de sus obligaciones y el ejercicio de sus derechos.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
-
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 28.
 
@@ -501,11 +497,11 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 Art. 29 Bis I.- Las personas morales, podrán designar domicilios convencionales para el ejercicio y cumplimiento de derechos y obligaciones, así como renunciar en el aspecto judicial a la jurisdicción de su domicilio.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO III. DE LA CAPACIDAD JURIDICA
+
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO II. DEL DOMICILIO
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 #### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
@@ -547,7 +543,7 @@ II.- A petición del Ministerio Público, de los parientes del incapaz, del tuto
 
 III.- A petición del mismo incapaz, la cual no necesita ser escrita.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 #### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
@@ -567,9 +563,9 @@ Las personas morales pueden ejercitar los derechos y cumplir las obligaciones qu
 
 Art. 31 Bis I.- Las personas morales obran y se obligan a través de los órganos por los que actúan, por disposición de la ley y conforme a las disposiciones relativas de sus estatutos sociales.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO I. DEL NOMBRE
+### CAPITULO IV. DEL PATRIMONIO
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -605,13 +601,17 @@ Art. 32 Bis IV.- El patrimonio moral se constituye por los derechos y deberes no
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO V. DE LA NACIONALIDAD
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO IV. DEL PATRIMONIO
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 33.
 
@@ -1041,7 +1041,7 @@ Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial
 
 La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si estos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -2199,23 +2199,7 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 ###### Art. 273.
 
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-I.- Designación de personas a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después que haya causado ejecutoria la sentencia de divorcio. El cónyuge que no tenga la custodia, tendrá derecho de visita o convivencia, debiendo las partes precisar los días y las horas para ese efecto, y en caso de no hacerlo así, el Juez los determinará atendiendo a las circunstancias personales de los cónyuges y al interés superior de los menores;
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1997)</small>
-
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
-
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores.
-
-A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+(DEROGADO, P.O.10 DE SEPTIEMBRE DE 2006)
 
 ###### Art. 274.
 
@@ -16528,6 +16512,14 @@ Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su
 Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
 
 Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
+
+P.O.10 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la vigencia de la reforma a la Ley Orgánica del Poder Judicial del Estado que establece la creación de los Juzgados del Juicio Oral Civil y Familiar.
+
+Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén, con excepción de lo dispuesto en el Artículo 77, que aplicará para todo caso.
+
+Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
 
 ###### ARTICULO TERCERO.
 
