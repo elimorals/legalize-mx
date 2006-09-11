@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-11475"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-03-15"
-last_updated: "1998-08-05"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 15 de marzo de 1996.
 
@@ -115,7 +115,9 @@ La Procuraduría General de Justicia del Estado será representada por el Procur
 
 Son atribuciones de la Procuraduría General de Justicia del Estado que ejercerá su titular, quien podrá delegar en las unidades administrativas de la Dependencia, las siguientes:
 
-I.- Coordinar y supervisar la actuación de los Agentes del Ministerio Público, en la persecución de los delitos que sean competencia de los Tribunales de Defensa Social en el Estado;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Coordinar y supervisar la actuación de los Agentes del Ministerio Público, en la persecución de los delitos que sean competencia de los Juzgados Penales en el Estado y de las conductas cometidas por mayores de doce años y menores de dieciocho que sean consideradas como delitos por la legislación del Estado;
 
 II.- Vigilar que se observen los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las atribuciones que legalmente corresponden a las autoridades judiciales o administrativas;
 
@@ -123,13 +125,21 @@ III.- Promover la expedita y eficiente procuración de justicia y la intervenci�
 
 IV.- Organizar la defensa y la prevención social de la delincuencia, fijando lineamientos generales de política criminal;
 
-V.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado; y
+V.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado; y (sic)
 
-VI.- Las demás que señalen las Leyes y Reglamentos vigentes de la entidad.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Autorizar el no ejercicio de la acción persecutoria en materia de justicia para adolescentes, así como revocar, modificar o confirmar las conclusiones con las que se le dé vista, en términos de lo que indica esta Ley, el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla y las demás leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Las demás que señalen las leyes y reglamentos vigentes de la Entidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 4º.
 
-La Procuraduría a través de su titular, coordinará y supervisará que los Agentes del Ministerio Público, en la persecución de los delitos, cumplan:
+La Procuraduría a través de su Titular, coordinará y supervisará que los Agentes del Ministerio Público, tanto en la persecución de los delitos como en la investigación de las conductas consideradas como tales y que sean cometidas por adolescentes mayores de doce años y menores de dieciocho, cumplan:
 
 I.- En la Averiguación Previa con:
 
@@ -173,6 +183,38 @@ G).- Interponer los recursos que técnica y jurídicamente estime procedentes, e
 
 H).- Las demás que le confieran los ordenamientos legales aplicables.
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+III.- En materia de Justicia para Adolescentes con:
+
+A).- Velar en todo momento por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos al Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla, así como de las víctimas de los hechos probablemente realizados por los adolescentes;
+
+B).- Informar de inmediato al adolescente, a sus familiares y a su defensor su situación jurídica, así como los derechos que le asisten;
+
+C).- Realizar lo conducente para que sea asignado un defensor social al adolescente desde el momento en que sea puesto a su disposición;
+
+D).- Resolver dentro de los plazos y términos previstos en el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla, sobre la procedencia o no de la remisión de los adolescentes que sean puestos a su disposición;
+
+E).- Formular la remisión y poner inmediatamente a los adolescentes a disposición de la autoridad competente, en términos del Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla, en los casos en que resulte procedente;
+
+F).- Procurar, en los casos de querella necesaria la conciliación entre el adolescente y la víctima u ofendido;
+
+G).- Garantizar que durante la retención provisional en los casos en los que ésta proceda, no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
+
+H).- Dirigir personalmente las investigaciones que sean conducentes para formular la remisión;
+
+I).- Valorar los resultados de su investigación con el fin de determinar la posición del órgano respecto del caso;
+
+J).- Formular el escrito de remisión;
+
+K).- Realizar durante el procedimiento todas las actuaciones necesarias, incluyendo ofrecimiento de pruebas, formulación de conclusiones e interposición de recursos;
+
+L).- Asesorar a la víctima durante la fase de Investigación de Instrucción;
+
+M).- Solicitar cuando proceda la reparación del daño para la víctima y realizar todas las acciones tendientes a obtenerla; y
+
+N).- Las demás que determinen las leyes aplicables.
+
 ###### ARTICULO 5º.
 
 Corresponde al titular de la Procuraduría, vigilar la observancia de los principios de legalidad y constitucionalidad, mediante las siguientes acciones:
@@ -199,7 +241,9 @@ IV.- Atender, verificar, dar respuesta y cumplimiento a las recomendaciones de l
 
 V.- Prestar a las autoridades competentes, el auxilio necesario, que fundadamente le requieran, para el debido ejercicio de sus funciones públicas;
 
-VI.- Velar por la aplicación de la Ley en los lugares de detención, reclusión o prisión, sin perjuicio de las atribuciones de la autoridad competente en materia de ejecución de sanciones y medidas de seguridad;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Velar por la aplicación de la Ley en los lugares de detención, reclusión, prisión y de retención provisional e internamiento de adolescentes, sin perjuicio de las atribuciones de la autoridad competente en materia de ejecución de sanciones y medidas de seguridad;
 
 VII.- Proteger los intereses individuales y sociales en general, incluyéndose en éstos los derechos de menores e incapaces, así como la intervención en los juicios civiles o familiares tramitados ante los juzgados competentes;
 
@@ -211,7 +255,9 @@ IX.- Promover y celebrar convenios con autoridades e instituciones públicas y p
 
 En el ámbito de la organización en la defensa y prevención social contra la delincuencia, a la Procuraduría y Agentes del Ministerio Público, les compete:
 
-I.- Practicar visitas a los Reclusorios Preventivos, escuchando las quejas de los internos, recibir denuncias o querellas, sin perjuicio de poner los hechos en conocimiento de las autoridades competentes encargadas de la reclusión; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Practicar visitas a los Reclusorios Preventivos y a los lugares de retención provisional de adolescentes, escuchando las quejas de los internos, recibir denuncias o querellas, sin perjuicio de poner los hechos en conocimiento de las autoridades competentes encargadas de la reclusión; y
 
 II.- Diseñar programas de prevención de la delincuencia, coadyuvando con organismos sociales y de seguridad pública en la difusión de estrategias para la prevención de la criminalidad.
 
@@ -299,11 +345,17 @@ XVIII.- En términos de Ley atender y facilitar a los Diputados los informes que
 
 El Ministerio Público es una Institución encargada de velar por la exacta observancia de las Leyes de interés público, y que a través de sus Agentes del Ministerio Público ejercita las acciones correspondientes en contra de los infractores de dichas Leyes, haciendo efectivos los derechos concedidos al Estado e interviniendo en los juicios que afecten a personas a quienes la Ley otorgue especial protección.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+En materia de justicia para adolescentes, ejercitar las acciones respectivas contra los mayores de doce años y menores de dieciocho, a quienes se les atribuya la comisión de una conducta tipificada como delito por la legislación del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 16.
 
-Los Agentes del Ministerio Público Titulares, en su carácter de representantes sociales, tendrán las atribuciones que le confieren los diferentes ordenamientos legales y los que esta Ley Orgánica prevé para la investigación y persecución de los delitos, así como los que por acuerdo le confiera el Titular de la Procuraduría.
+Los Agentes del Ministerio Público Titulares, en su carácter de representantes sociales, tendrán las atribuciones que le confieren los diferentes ordenamientos legales y los que esta Ley Orgánica prevé para la investigación y persecución de los delitos y de las conductas tipificadas como tales por la legislación del Estado, que hayan sido cometidas por mayores de doce años y menores de dieciocho, así como los que por acuerdo le confiera el Titular de la Procuraduría.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 Será el Reglamento de esta Ley, el que delimite específicamente las funciones y ámbitos de competencia que deberá regir para los Agentes del Ministerio Público Adjuntos y Auxiliares de Agente del Ministerio Público.
 
@@ -311,9 +363,11 @@ Será el Reglamento de esta Ley, el que delimite específicamente las funciones 
 
 Los Subprocuradores, los responsables de las áreas de Supervisión Técnica, Jurídica, Averiguaciones Previas y Control de Procesos y los Coordinadores Regionales de Procuración de Justicia tendrán la calidad de Agentes del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 18.
 
-El Titular de la Dependencia podrá designar Agentes del Ministerio Público Especiales, para que intervengan en procedimientos Civiles, Familiares o de Defensa Social, en asuntos específicos que a su juicio lo ameriten.
+El Titular de la Dependencia podrá designar Agentes del Ministerio Público Especiales, para que intervengan en procedimientos Civiles, Familiares, Penales, de Justicia para Adolescentes y en asuntos específicos que a su juicio lo ameriten.
 
 ###### ARTICULO 19.
 
@@ -331,9 +385,11 @@ III.- Los Agentes Subalternos del Ministerio Público.
 
 Se consideran auxiliares del Ministerio Público: La Policía Estatal, las Policías Municipales, las Policías de Tránsito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Los Agentes del Ministerio Público en la investigación de los delitos, deberán asumir el mando directo de la Policía Judicial, sin que por ningún motivo queden subordinados, directa o indirectamente a un agente o funcionario de ella, cualquiera que sea el cargo o la jerarquía administrativa que estos ostenten.
+Los Agentes del Ministerio Público en la investigación de los delitos y de las conductas tipificadas como tales por la legislación del Estado, que sean cometidas por mayores de doce años y menores de dieciocho, deberán asumir el mando directo de la Policía Judicial, sin que por ningún motivo queden subordinados, directa o indirectamente a un agente o funcionario de ella, cualquiera que sea el cargo o la jerarquía administrativa que éstos ostenten.
 
 El Ministerio Público sólo asignará a los Agentes de la Policía Judicial, tareas específicas de investigación o relacionadas con sus funciones, y les requerirá por escrito la información correspondiente.
 
@@ -487,9 +543,11 @@ Si se trata de artes o actividades no reglamentadas profesionalmente, deberán a
 
 Los aspirantes a ingresar a la Procuraduría, cualquiera que sea la categoría, nivel, área o circunscripción, deberán sustentar y aprobar los exámenes de ingreso y los de oposición, en la forma y términos que se fijen en la convocatoria correspondiente, sólo en casos excepcionales y por acuerdo del Procurador podrán eximirse de este trámite.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 37.
 
-La Policía Judicial actuará bajo la autoridad y el mando inmediato del Ministerio Público, auxiliándolo en la investigación y persecución de los delitos, conforme a las instrucciones que se le dicten, desarrollando las actividades que deban practicarse durante la Averiguación Previa y exclusivamente para los fines de ésta.
+La Policía Judicial actuará bajo la autoridad y el mando inmediato del Ministerio Público, auxiliándolo en la investigación y persecución de los delitos y de las conductas cometidas por mayores de doce años y menores de dieciocho y que estén tipificadas como delito por la legislación del Estado, conforme a las instrucciones que se le dicten, desarrollando las actividades que deban practicarse durante la Averiguación Previa o etapa de Investigación según corresponda y exclusivamente para los fines de ésta.
 
 Cumplirá las citaciones, presentaciones, órdenes de aprehensión, reaprehensión y auxilios de fuerza pública que se le ordenen por escrito.
 
@@ -523,9 +581,11 @@ El personal de la Procuraduría General de Justicia del Estado, está obligado a
 
 En casos urgentes podrá actuar en auxilio a las solicitudes realizadas por telefax, teléfono o cualquier otro medio de comunicación, verificando la identidad de quien realice la misma, que expresará con toda claridad la diligencia solicitada, los nombres de los elementos a los que se auxiliará, el fundamento de la providencia y el aviso de que se mandará el oficio de colaboración, el exhorto o la requisitoria que ratifique el mensaje, debiéndose asentar en el acta respectiva.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 43.
 
-Al tener conocimiento el Agente del Ministerio Público Investigador de la comisión de hechos delictivos, que sean competencia Federal, o bien, que existe concurso de delitos del fuero Común y del orden Federal en conexidad, deberá remitir de inmediato lo actuado al Ministerio Público Federal correspondiente.
+Al tener conocimiento el Agente del Ministerio Público Investigador de la comisión de hechos delictivos o de conductas tipificadas como tales por la legislación del Estado realizadas por mayores de doce años y menores de dieciocho, que sean competencia federal, o bien, que exista concurso de delitos del fuero común y del orden federal en conexidad, deberá remitir de inmediato lo actuado al Ministerio Público Federal o la autoridad que corresponda.
 
 ###### ARTICULO 44.
 
@@ -596,3 +656,13 @@ Los actos y procedimientos relacionados con esta Ley, iniciados con anterioridad
 ###### ARTÍCULO CUARTO.
 
 En tanto no se expidan las disposiciones reglamentarias y administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no contravengan.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
