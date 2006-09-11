@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2000-04-12"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -95,15 +95,19 @@ IV. Investigar y perseguir los delitos del orden común;
 
 V. Promover la práctica de las diligencias para la consecución de la justicia penal, en los juicios o asuntos en que legalmente deba intervenir;
 
-VI. Intervenir en los juicios que afecten a quienes las leyes otorgan especial protección;
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-VII. Intervenir en los negocios en que el Estado fuere parte;
+VI. Investigar y perseguir las conductas tipificadas como delitos por las leyes penales atribuidas a adolescentes, proveyendo al respecto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial;
 
-VIII. Proporcionar atención y auxilio a las víctimas u ofendidos por delitos;
+VII. Intervenir en los juicios que afecten a quienes las leyes otorgan especial protección;
 
-IX. Fomentar y coordinar la participación ciudadana para la mejor procuración de justicia; y
+VIII. Intervenir en los negocios en que el Estado fuere parte;
 
-X. Las demás que determinen la presente ley y otros ordenamientos legales.
+IX. Proporcionar atención y auxilio a las víctimas u ofendidos por delitos;
+
+X. Fomentar y coordinar la participación ciudadana para la mejor procuración de justicia; y
+
+XI. Las demás que determinen la presente ley y otros ordenamientos legales.
 
 ###### Artículo 7o.
 
@@ -186,6 +190,42 @@ VII. Formular las conclusiones en los términos señalados por la ley, y solicit
 VIII. Impugnar legalmente las resoluciones judiciales que a su juicio causen agravio a las personas cuya representación corresponda al Ministerio Público; y
 
 IX. En general, promover lo conducente al desarrollo de los procesos y ejercer las demás atribuciones que le confieran las leyes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 10 Bis.
+
+Investigar y perseguir las conductas tipificadas como delitos por las leyes penales estatales, atribuidas a adolescentes, proveyendo al respeto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial, comprende:
+
+I. Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos por las leyes penales, atribuidas a adolescentes, el análisis, el diagnóstico y la prognosis del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+
+II. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la Ley de Justicia para Adolescentes, así como de las víctimas de los hechos presuntamente realizados por los adolescentes;
+
+III. Informar de inmediato al adolescente, a sus familiares a su defensor su situación jurídica, así como los derechos que les asisten;
+
+IV. Realizar lo conducente para que sea asignado un defensor público al adolescente desde el momento en el que sea puesto a su disposición;
+
+V. Resolver dentro de los plazos y términos previstos en la Ley de Justicia para Adolescentes, la situación jurídica de los adolescentes que sean puestos a su disposición;
+
+VI. Formular la remisión y poner inmediatamente a los adolescentes a disposición del Juez para Adolescentes, en los casos en que resulte procedente;
+
+VII. Procurar, en los casos de querella necesaria, la conciliación entre el adolescente y la víctima u ofendido;
+
+VIII. Garantizar que durante la fase de detención, no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
+
+IX. Dirigir personalmente las investigaciones que sean conducente (sic) para formular el escrito de atribución de hechos;
+
+X. Valorar los resultados de su investigación con el fin de determinar la posición del órgano respecto del caso;
+
+XI. Formular el escrito de atribución de hechos;
+
+XII. Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos;
+
+XIII. Asesorar a la víctima durante la fase de investigación y juicio;
+
+XIV. Solicitar la reparación del daño para la víctima cuando proceda, y realizar todas las acciones tendientes a obtenerla; y,
+
+XV. Las demás que determine la ley.
 
 ###### Artículo 11.
 
@@ -291,19 +331,21 @@ VII. Dirección de Planeación, Desarrollo y Atención Ciudadana;
 
 VIII. Dirección de Investigación Criminalística y Servicios Periciales;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-IX. Dirección de Policía Ministerial;
+IX. Dirección Especializada en Justicia para Adolescentes;
 
-X. Coordinación Administrativa;
+X. Dirección de Policía Ministerial;
 
-XI. Unidad de Contraloría Interna;
+XI. Coordinación Administrativa;
 
-XII. Agentes del Ministerio Público;
+XII. Unidad de Contraloría Interna;
 
-XIII. Las Unidades Técnicas y Administrativas que se precisen en la presente Ley y su Reglamento; y
+XIII. Agentes del Ministerio Público;
 
-XIV. El personal que el servicio requiera.
+XIV. Las Unidades Técnicas y Administrativas que se precisen en la presente Ley y su Reglamento; y
+
+XV. El personal que el servicio requiera.
 
 Para el despacho de los asuntos de su competencia, los órganos y dependencias enumerados en este artículo se auxiliarán con las Coordinaciones, Unidades, Departamentos y Módulos que se establezcan en el Reglamento de esta Ley, en el que también se indicarán sus funciones.
 
@@ -719,6 +761,46 @@ IX. Mantener actualizado el registro de antecedentes penales en el Estado; y
 
 X. Las demás que le sean encomendadas por el Procurador General de Justicia.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 45 Bis.
+
+Para ser Director Especializado de Justicia para Adolescentes se requiere:
+
+I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+
+II. Ser Licenciado en Derecho con título legalmente expedido;
+
+III. Tener más de treinta años de edad;
+
+IV. Acreditar ejercicio profesional de cinco años, por lo menos;
+
+V. Ser de honradez y probidad notorias;
+
+VI. No haber sido condenado por delitos dolosos; y,
+
+VI. Contar con formación especializada en derechos de la infancia.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 45 Ter.
+
+Al Director Especializado de Justicia para Adolescentes le corresponde:
+
+I. Planear, organizar, programar, coordinar, vigilar y evaluar las actividades y el funcionamiento de las áreas y agencias del Ministerio Público especializado a su cargo;
+
+II. Acordar con el Subprocurador General de Justicia los asuntos de su competencia;
+
+III. Organizar, supervisar y verificar que los Agentes del Ministerio Público Especializado en Justicia para Adolescentes cumplan con las atribuciones que les confiere la Ley de Justicia para Adolescentes del Estado de Sinaloa;
+
+IV. Llevar y mantener un estricto control y seguimiento de los asuntos radicados en las Agencias Especializadas en Justicia para Adolescentes, así como de los procesos que se sigan ante los órganos judiciales especializados en sus diferentes instancias, incluida la ejecución de las medidas;
+
+V. Velar por el cumplimiento de las obligaciones a cargo de los agentes del Ministerio Público Especializado en Adolescentes;
+
+VI. Intervenir directamente, o a través de los agentes del Ministerio Público Especializado, en cuanto a la competencia de la institución del Ministerio Público, en los asuntos previsto en la Ley de Justicia para Adolescentes; y,
+
+VII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2000)</small>
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE LA POLICÍA MINISTERIAL
@@ -1021,7 +1103,19 @@ d). Presentar con oportunidad las pruebas, pedimentos y alegatos necesarios e in
 
 e). Las demás que les confieran otras disposiciones legales y el Procurador General de Justicia.
 
-IV. Facultades y obligaciones comunes a los Agentes del Ministerio Público:
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+IV. De los Agentes Especializados en Justicia para Adolescentes:
+
+a) Las previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa y el artículo 10 Bis de esta Ley;
+
+b) Residir en el lugar de su adscripción;
+
+c) Dar aviso a la Dirección Especializada de Justicia para Adolescentes de la iniciación de investigaciones, del ejercicio de la acción de remisión, del archivo provisional o definitivo de la investigación, de las resoluciones dictadas por los órganos judiciales al resolver sobre la sujeción a proceso, de la resolución del juicio, de la interposición de recursos y, en general, de todas aquellas resoluciones que incidan sobre el desarrollo del proceso, dentro de las veinticuatro horas siguientes;
+
+d) Las demás que les confieran otras disposiciones legales y el Procurador General de Justicia.
+
+V. Facultades y obligaciones comunes a los Agentes del Ministerio Público:
 
 a). Remitir con toda oportunidad al Procurador General, los datos necesarios para la formulación del informe anual de labores de la Institución y los especiales que le soliciten;
 
@@ -1268,3 +1362,43 @@ El presente decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias que en otras disposiciones jurídicas se hagan a la Policía Judicial, se entenderán hechas a la Policía Ministerial.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la iniciación de la vigencia de este Decreto, se abroga la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y su Reglamento, así como las normas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las autoridades correspondientes, deberán expedir los reglamentos que se prevén en la Ley de Justicia para Adolescentes del Estado de Sinaloa, así como realizar las adecuaciones presupuestales y orgánicas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, deberá expedir los reglamentos e implementar las acciones que sean necesarias para cumplir con su obligación de otorgar rehabilitación y asistencia social especializada a los menores de doce años de edad que hayan realizado conductas tipificadas como delitos en las leyes penales, en los términos del artículo 43 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa; así como a lo señalado por el artículo 18 de la Constitución Federal y la Convención sobre los Derechos del Niño.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal y el Supremo Tribunal de Justicia, en sus respectivos ámbitos de competencia, establecerán procedimientos y programas para la selección y capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración e impartición de justicia para adolescentes que infrinjan la ley penal, así como en la ejecución de las medidas de tratamiento.
+
+###### ARTÍCULO SEXTO.
+
+Las instituciones encargadas de la formación de los agentes de las policías deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor el presente Decreto, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los tratados internacionales y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Tutelar para Menores previsto en la Ley que se abroga en el transitorio segundo podrá seguir actuando válidamente a la entrada en vigor del presente Decreto, únicamente para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo a las siguientes reglas:
+
+a) Los asuntos sometidos al Consejo Tutelar para Menores en los que aún no haya emitido resolución inicial, los remitirá al Juez Especializado quien realizará la valoración de los datos y elementos de convicción que obren en el expediente y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+b) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución inicial los remitirá al Juez Especializado quien examinará y valorará los datos y elementos de convicción que obren en el expediente y que hayan servido de base a la resolución, y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución definitiva y los adolescentes se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa, en todo aquello que les beneficie. El Director del Centro de Observación y Readaptación del Consejo Tutelar para Menores remitirá al Órgano de Ejecución de Medidas para Adolescentes los expedientes relacionados con el cumplimiento de dichas medidas. El Juez Especializado, con audiencia del adolescente, sus padres, tutores o representantes legales y del Ministerio Público, podrá adecuar la medida correspondiente en los términos de lo previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa. En caso de duda sobre el régimen más favorable, se consultará al menor, a sus padres, tutores o representantes legales, atendiendo a los principios rectores de la Ley invocada.
+
+d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad, sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
+
+e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
