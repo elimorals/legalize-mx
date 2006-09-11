@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2004-03-05"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 397 POR EL QUE SE REFORMA Y ADICIONA LA LEY, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, ENTRARA EN VIGOR UN AÑO DESPUES DE SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -401,6 +403,10 @@ Los Actuarios de las Salas lo serán también del Pleno.
 
 Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares, así como de los que se interpongan en contra de las resoluciones que dicten los Jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+La Sala de Circuito Especializada para Adolescentes conocerá de los recursos que la Ley de Justicia para Adolescentes conceda ante el superior, contra las resoluciones dictadas por los Jueces de Primera Instancia Especializada para Adolescentes.
+
 ###### ARTICULO 37.
 
 El número de Salas de Circuito, su circunscripción territorial, composición y competencia serán fijados por el Pleno del Supremo Tribunal de Justicia.
@@ -521,11 +527,11 @@ Para ser Secretario y Actuario de Juzgado de Primera Instancia se requieren los 
 
 En cada Distrito Judicial habrá el número de Juzgados de Primera Instancia que determine el Pleno del Supremo Tribunal de Justicia, conforme a las necesidades del servicio judicial.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 52.
 
-El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar o de vigilancia de la ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar; los asuntos del orden de vigilancia de las consecuencias jurídicas del delito, sólo serán conocidos por los Juzgados de ese ramo.
+El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, para adolescentes o de vigilancia de la ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar; los asuntos del orden de vigilancia de las consecuencias jurídicas del delito, sólo serán conocidos por los Juzgados de ese ramo. Los procesos que se sigan a adolescentes a quienes se atribuyan la comisión de una conducta tipificada como delito en las leyes penales, sólo serán conocidos por los Jueces especializados en esa materia.
 
 ###### ARTICULO 53.
 
@@ -590,6 +596,44 @@ VI. Autorizar permisos de salida, en los términos previstos por la Ley de la ma
 VII. Resolver sobre las solicitudes de rehabilitación de derechos, funciones o empleo, en los términos del Código Penal y la Ley de Ejecución de las Consecuencias Jurídicas del Delito; y
 
 VIII. Las demás que les encomienden las leyes y disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 55 Bis (sic).- A los Juzgados de Primera Instancia Especializados para Adolescentes, corresponde:
+
+I. Conocer las causas instauradas en contra de las personas a quienes se impute la realización de una conducta tipificada como delito en las leyes penales estatales, cuando tenían entre doce años cumplidos y dieciocho no cumplidos;
+
+II. Promover los procedimientos alternativos al juzgamiento, a fin de cumplir con los principios de mínima intervención y subsidiariedad;
+
+III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley de Justicia para Adolescentes del Estado;
+
+IV. Resolver sobre las medidas a imponer, atendiendo los principios de culpabilidad por el acto, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes;
+
+V. Asegurarse de que el adolescente no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen a su situación;
+
+VI. Controlar la ejecución de las medidas impuestas a adolescentes y resolver sobre las cuestiones o los incidentes que se susciten durante la misma;
+
+VII. Resolver los recursos que se presenten durante el procedimiento de la ejecución de la medida, en contra de las determinaciones del Órgano de Ejecución de Medidas o los directores de los centros de internamiento;
+
+VIII. Vigilar en todo momento el respeto, integridad, dignidad y el estricto cumplimiento de los derechos y garantías de los adolescentes, especialmente en los casos de privación de la libertad;
+
+IX. Garantizar que durante la ejecución de la medida privativa de la libertad, adolescentes y adultos jóvenes tengan acceso en todo momento a los servicios de salud, educativos y recreativos; así como a recibir formación educativa, a que se respete su libertad de culto, a tener contacto con su familia y a recibir información sobre la ejecución de la medida;
+
+X. Garantizar que los adolescentes y los adultos jóvenes internados permanezcan en centros especializados, distintos entre sí y de los destinados a los adultos;
+
+XI. Atender las solicitudes que realicen personalmente adolescentes y adultos jóvenes o sus representantes legales, y resolver a la brevedad lo que corresponda;
+
+XII. Visitar periódicamente los centros de internamiento y vigilar que su estructura física, equipamiento y funcionamiento sean adecuados para cumplir con lo establecido por la Ley de Justicia para Adolescentes;
+
+XIII. Supervisar por lo menos una vez al mes, los programas de medidas diferentes al internamiento;
+
+XIV. Adecuar la medida si considera que ésta ya produjo sus efectos, es innecesaria o afecta el desarrollo, la dignidad o la integración familiar, social y cultural de quienes estén sujetos a ella;
+
+XV. Dictar resolución mediante la cual se dé por cumplida la medida impuesta, así como la libertad total y definitiva de los adolescentes;
+
+XVI. Emitir resoluciones vinculatorias para los centros de internamiento, en el ámbito de sus atribuciones; y,
+
+XVII. Las demás que determine la ley.
 
 ###### ARTICULO 56.
 
@@ -1116,3 +1160,43 @@ P.O. 5 DE MARZO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la iniciación de la vigencia de este Decreto, se abroga la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y su Reglamento, así como las normas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las autoridades correspondientes, deberán expedir los reglamentos que se prevén en la Ley de Justicia para Adolescentes del Estado de Sinaloa, así como realizar las adecuaciones presupuestales y orgánicas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, deberá expedir los reglamentos e implementar las acciones que sean necesarias para cumplir con su obligación de otorgar rehabilitación y asistencia social especializada a los menores de doce años de edad que hayan realizado conductas tipificadas como delitos en las leyes penales, en los términos del artículo 43 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa; así como a lo señalado por el artículo 18 de la Constitución Federal y la Convención sobre los Derechos del Niño.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal y el Supremo Tribunal de Justicia, en sus respectivos ámbitos de competencia, establecerán procedimientos y programas para la selección y capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración e impartición de justicia para adolescentes que infrinjan la ley penal, así como en la ejecución de las medidas de tratamiento.
+
+###### ARTÍCULO SEXTO.
+
+Las instituciones encargadas de la formación de los agentes de las policías deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor el presente Decreto, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los tratados internacionales y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Tutelar para Menores previsto en la Ley que se abroga en el transitorio segundo podrá seguir actuando válidamente a la entrada en vigor del presente Decreto, únicamente para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo a las siguientes reglas:
+
+a) Los asuntos sometidos al Consejo Tutelar para Menores en los que aún no haya emitido resolución inicial, los remitirá al Juez Especializado quien realizará la valoración de los datos y elementos de convicción que obren en el expediente y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+b) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución inicial los remitirá al Juez Especializado quien examinará y valorará los datos y elementos de convicción que obren en el expediente y que hayan servido de base a la resolución, y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución definitiva y los adolescentes se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa, en todo aquello que les beneficie. El Director del Centro de Observación y Readaptación del Consejo Tutelar para Menores remitirá al Órgano de Ejecución de Medidas para Adolescentes los expedientes relacionados con el cumplimiento de dichas medidas. El Juez Especializado, con audiencia del adolescente, sus padres, tutores o representantes legales y del Ministerio Público, podrá adecuar la medida correspondiente en los términos de lo previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa. En caso de duda sobre el régimen más favorable, se consultará al menor, a sus padres, tutores o representantes legales, atendiendo a los principios rectores de la Ley invocada.
+
+d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
+
+e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
