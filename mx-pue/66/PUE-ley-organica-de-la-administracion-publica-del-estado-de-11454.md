@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2006-06-23"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -513,9 +513,9 @@ XXII.- Intervenir en auxilio o coordinación con las autoridades federales, en l
 
 XXIII.- Intervenir en la regulación de los límites del Estado, de los Municipios y pueblos; erección, agregación y segregación de los pueblos; y cambio de categoría política o de nombre de los poblados, de acuerdo con la Constitución Política del Estado.
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-XXIV.- Proveer lo conducente para la ejecución de las penas y sanciones judiciales;
+XXIV.- Proveer lo conducente para la ejecución de las penas, sanciones y medidas judiciales;
 
 XXV.- Dar el trámite correspondiente a los exhortos judiciales;
 
@@ -551,9 +551,13 @@ XXXIX.- Coordinar con las autoridades de los Gobiernos Federal y Municipales, la
 
 XL.- Formular, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos de desarrollo;
 
-XLI.- (DEROGADA, P.O. 4 DE MARZO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O.11 DE SEPTIEMBRE DE 2006)</small>
 
-XLII.- Tramitar por acuerdo del Gobernador del Estado, las solicitudes de amnistía, indulto, libertad anticipada, traslado de reos y todos aquellos beneficios que conforme a la ley sean tendientes a lograr la readaptación social de los internos;
+XLI.- Proveer lo conducente para la valoración de las conductas tipificadas como delitos por la legislación del Estado, en que incurran las personas menores de doce años de edad, a través de los órganos técnicos respectivos, cuyas conclusiones servirán de base para que las instancias encargadas de atenderlas, determinen las medidas de rehabilitación, asistencia social y protección especial procedentes;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+XLII.- Tramitar por acuerdo del Gobernador del Estado, las solicitudes de amnistía, indulto, remisión parcial, conmutación, modificación de sanciones y medidas, traslado de reos y beneficios de libertad anticipada, que conforme a la Ley sean tendientes a lograr la rehabilitación y readaptación social de los internos, incluyendo a los adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
 
 XLIII.- (DEROGADA, P.O. 4 DE MARZO DE 2005)
 
@@ -1653,11 +1657,17 @@ XVI.- Ser miembro de la Junta de Gobierno de la Corporación Auxiliar de Policí
 
 XVII.- Prestar el auxilio de la fuerza pública cuando lo requieran los diversos órganos y dependencias de los Poderes del Estado, de la Federación y Municipios, para el debido ejercicio de sus funciones de conformidad con la legislación y normatividad aplicables;
 
-XVIII.- Proveer lo conducente para la vigilancia y control de los reos que se encuentran a disposición del Ejecutivo y establecer las políticas y programas para su readaptación social, incluyendo a los menores infractores;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-XIX.- Administrar los Centros de Readaptación Social del Estado;
+XVIII.- Administrar los Centros de Readaptación Social y los de Internamiento Especializados para Adolescentes del Estado;
 
-XX.- Vigilar el establecimiento de instituciones y medidas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+XIX.- Proveer lo conducente para la vigilancia, control y tratamiento de las personas internas en los Centros previstos en la fracción previa, que se encuentran a disposición del Ejecutivo y establecer las políticas y programas para su rehabilitación y readaptación social, incluyendo a los adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+XX.- Promover y vigilar el establecimiento de instituciones y medidas preventivas para adolescentes que cometan conductas tipificadas como delitos por la legislación del Estado, así como prestarles el auxilio necesario;
 
 XXI.- Organizar, dirigir, capacitar, administrar y supervisar las fuerzas de Seguridad Vial del Estado y apoyar a los cuerpos de inspección y vigilancia de los servicios de transporte en sus diversas modalidades, para vigilar y controlar a través de ellos y en los términos que señalen las leyes y reglamentos respectivos, todo lo relativo a la vialidad y tránsito de vehículos en los ámbitos de competencia del Estado;
 
@@ -1677,7 +1687,9 @@ XXVIII.- Organizar, dirigir, capacitar y administrar al Heroico Cuerpo de Bomber
 
 XXIX.- Intervenir en auxilio o colaboración con las autoridades federales y estatales, en los términos de las leyes relativas y los convenios que se celebren, en materia de armas de fuego, detonantes y pirotecnia, de migración, de transporte de reos y de prevención, combate y extinción de catástrofes o calamidades públicas;
 
-XXX.- Participar en la coordinación y desarrollo de operativos y acciones conjuntas o de colaboración en materia de seguridad pública, prevención y reeadaptación social, tratamiento de menores infractores, vigilancia ecológica y forestal, protección civil y transportes, en el marco de los ordenamientos, sistemas y convenios vigentes con los diversos órdenes de gobierno y con otras instituciones similares;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+XXX.- Participar en la coordinación y desarrollo de operativos y acciones conjuntas de colaboración en materia de seguridad pública, prevención, rehabilitación y readaptación social, tratamiento de personas que como adolescentes hayan cometido conductas tipificadas como delitos por la legislación del Estado, vigilancia ecológica y forestal, protección civil y transportes, en el marco de los ordenamientos, sistemas y convenios vigentes con los diversos órdenes de gobierno y con otras instituciones similares;
 
 XXXI.- Organizar, dirigir y administrar el servicio de carrera policial de los cuerpos de seguridad pública a su cargo, proveyendo lo necesario para su capacitación, profesionalización y especialización, para fomentar el desarrollo de la carrera técnica policial, así como para atender las solicitudes que al respecto le hagan los Ayuntamientos para los cuerpos municipales, en su caso;
 
@@ -2271,7 +2283,7 @@ TERCERO.- Las menciones contenidas en cualquier disposición legal o reglamentar
 
 CUARTO.- Se faculta al Gobernador y al Secretario de Fianzas y Administración, para que respectivamente y en términos de la Ley de Presupuesto, Contabilidad y Gasto Público y la Ley de Egresos del Estado para el ejercicio del año 2005, realicen los ajustes necesarios a dicho presupuesto y las modificaciones procedentes a los manuales y lineamientos vigentes en materia presupuestal, a fin de que la normatividad resulte congruente con los cambios funcionales y a la estructura orgánica del Poder Ejecutivo, teniendo la obligación de informar de ello al Congreso del Estado al rendir la cuenta pública y de considerar que as erogaciones que deriven de la aplicación de la presente Ley se sujeten en todo momento a la suficiencia presupuestal aprobada por el Congreso del Estado.
 
-QUINTO.- Se derogan toda las disposiciones legales que se opongan al presente Decreto.
+QUINTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 23 DE JUNIO DE 2006.
 
@@ -2284,5 +2296,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Las Dependencias que con motivo de la presente reforma sean modificadas en sus atribuciones y funciones, deberán realizar las adecuaciones necesarias a sus Reglamentos Interiores, en su caso, dentro del plazo de noventa días, contados a partir de la entrada en vigor de este Decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
