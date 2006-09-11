@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2003-03-17"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE ASESORIA Y DEFENSORIA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL INSTITUTO DE ASESORIA Y DEFENSORIA PUBLICA DEL ESTADO DE AGUASCALIENTES
+LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -233,7 +233,9 @@ El Coordinador de los Asesores Jurídicos tendrá a su cargo coordinar, vigilar,
 
 Los servicios del Instituto se prestarán a través de:
 
-I. Defensores públicos, en los asuntos del orden penal local, desde la averiguación previa hasta la ejecución de las penas; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+I. Defensores públicos, en los asuntos del orden penal local y del Sistema Estatal de Justicia para Adolescentes, desde la averiguación previa o investigación hasta la ejecución de las penas o medidas; y
 
 II. Asesores jurídicos, en asuntos del orden penal en tratándose de la víctima o el ofendido, en materia administrativa local, civil, mercantil y del trabajo, salvo los expresamente otorgados por la Ley a otras instituciones.
 
@@ -287,9 +289,11 @@ El Director General, los coordinadores, defensores públicos, asesores jurídico
 
 ### CAPITULO VI. De los Defensores Públicos
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 20.
 
-Los defensores públicos serán asignados inmediatamente por el Instituto, sin más requisitos que la solicitud formulada por el indiciado en la averiguación previa, el inculpado en el proceso penal, el sentenciado y el Agente del Ministerio Público o el órgano jurisdiccional, según sea el caso.
+Los Defensores Públicos y los Defensores Públicos especializados en adolescentes, serán asignados inmediatamente por el Instituto, sin más requisitos que la solicitud formulada por el adolescente al que se le esté aplicando la Ley del Sistema de Justicia para Adolescentes, por el indiciado en la averiguación previa, el inculpado en el proceso penal, el sentenciado y el Agente del Ministerio Público, el Agente del Ministerio Público Especializado en Adolescentes o el órgano jurisdiccional, según sea el caso.
 
 ###### ARTICULO 21.
 
@@ -338,6 +342,26 @@ X. Ante los Tribunales Federales los medios de defensa procedentes; y
 XI. Las demás promociones que sean necesarias para una adecuada defensa conforme a Derecho.
 
 El Instituto designará por cada juzgado que conozca de materia penal, cuando menos a un defensor público y al personal de auxilio necesario.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 22 BIS.- A los Defensores Públicos Especializados en adolescentes corresponden, además de las atribuciones señaladas en los artículos anteriores que procedan, las siguientes:
+
+I.- Ejercer la defensa legal de los adolescentes a quienes se atribuya la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal del Estado, en igualdad de circunstancias que su contraparte, desde el momento en el que sean presentados ante el Ministerio Público Especializado en Adolescentes y mientras estén sujetos a cualquiera de las fases del Sistema Estatal de Justicia para Adolescentes;
+
+II.- Asistir al adolescente sujeto a la aplicación de la Ley del Sistema de Justicia para Adolescentes, especialmente en aquellos momentos en los que por decisión de la autoridad, se modifique su situación jurídica o se pongan en riesgo sus derechos o garantías;
+
+III.- Mantener una comunicación constante con el adolescente, sus padres, tutores, o quien ejerza la patria potestad, o custodia, para informarles del devenir de la investigación, el proceso o la medida;
+
+IV.- Informar de inmediato al adolescente sujeto a la aplicación de la Ley del Sistema de Justicia para Adolescentes, sobre su situación jurídica, así como los derechos y garantías que le otorgan las disposiciones legales aplicables;
+
+V.- Pugnar para que en todo momento, se respeten los derechos y garantías de los adolescentes a quienes defiende, y hacer del conocimiento inmediato de las autoridades correspondientes, cuando no se respeten tales derechos y garantías, o exista inminencia de que así suceda;
+
+VI.- Promover soluciones o formas alternativas al proceso, así como los modos simplificados de terminación en los casos en que proceda;
+
+VII.- Solicitar al Ministerio Público para Adolescentes, el no ejercicio de la acción de remisión ante el Juez de Preparación para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello o en los supuestos que establece la propia Ley del Sistema de Justicia para Adolescentes; y
+
+VIII.- Realizar todos los trámites o gestiones necesarios para una defensa eficaz conforme a lo previsto en la Ley del sistema de Justicia para Adolescentes.
 
 ###### ARTICULO 23.
 
@@ -632,3 +656,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
