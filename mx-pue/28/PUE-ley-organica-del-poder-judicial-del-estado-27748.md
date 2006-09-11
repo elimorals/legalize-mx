@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2006-03-29"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -123,7 +123,9 @@ I.- El Tribunal Superior de Justicia;
 
 II.- La Junta de Administración del Poder Judicial del Estado;
 
-III.- Los Juzgados Civiles, Familiares y Penales;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Los Juzgados Civiles, Familiares, Penales y Especializados en Adolescentes;
 
 IV.- Los Juzgados Municipales;
 
@@ -359,9 +361,11 @@ Para el despacho de los asuntos del Tribunal Superior habrá tres Secretarios, q
 
 ### CAPÍTULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 14.
 
-El Tribunal Pleno se integra por los Magistrados que forman las Salas Civiles y Penales, y por el Presidente del propio Tribunal, quien deberá presidirlo.
+El Tribunal Pleno se integra por los Magistrados que forman las Salas y por el Presidente del propio Tribunal, quien deberá presidirlo.
 
 Para que funcione legalmente se necesita quórum de las dos terceras partes de la totalidad de los Magistrados propietarios.
 
@@ -599,11 +603,17 @@ Las Resoluciones de las Salas se tomarán por unanimidad o por mayoría de votos
 
 En caso de que en una misma Sala, al resolver un asunto, existieren tres o cinco criterios contrarios entre sí, sostenidos por los Magistrados, el asunto se turnará al Pleno del Tribunal Superior de Justicia para que decida cual prevalecerá.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 27.
 
-En el caso de falta de un Magistrado por lo menos de treinta días, o de impedimento por excusa o recusación, las Salas podrán funcionar con los dos o cuatro restantes, únicamente en cuanto a las resoluciones de mero trámite.
+En el caso de falta de un Magistrado por menos de treinta días, o de impedimento por excusa o recusación, la Sala podrá funcionar con los restantes, únicamente en cuanto a las resoluciones de mero trámite.
 
 Cada Sala calificará las excusas o impedimentos de sus integrantes. Si con motivo de la excusa o de la calificación del impedimento, el asunto o asuntos no pudieren ser resueltos dentro de un plazo máximo de diez días, se solicitará al Presidente del Tribunal Superior que comisione, por turno, al Magistrado que deba integrar Sala.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+En los casos antes señalados podrá también integrar Sala por turno, el Magistrado de la Sala Unitaria Especializada en Adolescentes.
 
 ###### ARTÍCULO 28.
 
@@ -665,6 +675,30 @@ IV.- Conocer de los juicios de amparo que se promuevan ante ellas conforme al ar
 
 V.- Conocer los demás asuntos que las leyes les encomienden expresamente.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 32 BIS.- Corresponde a la Sala Unitaria Especializada en Adolescentes:
+
+I.- Conocer de los asuntos que se le encomienden por acuerdo del Pleno del Tribunal Superior de Justicia del Estado;
+
+II.- Conocer de aquellos asuntos que tengan relación con la Justicia de Adolescentes;
+
+III.- Conocer de la revisión extraordinaria y del recurso de apelación que se interpongan en los asuntos previstos en el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
+
+IV.- Conocer de los impedimentos, las recusaciones y las excusas de sus subalternos y de los Jueces Especializados en Adolescentes;
+
+V.- Conocer de los conflictos de competencia que se susciten entre los Jueces Especializados en Adolescentes, entre uno de éstos y un Juez Penal, del mismo o de distinto Distrito Judicial;
+
+VI.- Conocer de los Juicios de Amparo que se promuevan ante ellas conforme al artículo 107, fracción XII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, contra actos de los Juzgados Especializados en Adolescentes, en los términos que establezcan las leyes federales respectivas;
+
+VII.- Integrar Sala por acuerdo del Pleno del Tribunal Superior de Justicia; y
+
+VIII.- Conocer de los demás asuntos que las leyes les encomienden expresamente.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 32 TER.- Cuando el Magistrado de la Sala Unitaria Especializada en Adolescentes estuviera impedido para conocer de un asunto, el Pleno del Tribunal Superior de Justicia designará por turno al Magistrado que deba de conocerlo; el Secretario de la Sala Unitaria practicará las diligencias urgentes y dictará las providencias de mero trámite, y sólo por autorización expresa del Pleno podrá dictar sentencias interlocutorias o definitivas.
+
 ## TÍTULO TERCERO. DE LAS AUTORIDADES JUDICIALES DE PRIMERA INSTANCIA
 
 ### CAPÍTULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
@@ -677,7 +711,9 @@ I.- Los Juzgados de lo Civil;
 
 II.- Los Juzgados de lo Familiar;
 
-III.- Los Juzgados de lo Penal;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Los Juzgados de lo Penal y Especializados en Adolescentes;
 
 IV.- Los Juzgados Municipales de lo Civil y de lo Penal;
 
@@ -769,9 +805,11 @@ IV.- Las demás que les confieran las leyes.
 
 ### CAPÍTULO III. DE LOS JUZGADOS PENALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 42.
 
-Habrá en la Capital del Estado, por lo menos, nueve Juzgados Penales.
+Habrá en la Capital del Estado, por lo menos, nueve Juzgados Penales. Tratándose de Juzgados Especializados en Adolescentes, habrá un Juzgado que tendrá jurisdicción en todo el Estado de Puebla; el Pleno del Honorable Tribunal Superior de Justicia determinará el lugar de su residencia, así como la creación de Juzgados Especializados en Adolescentes.
 
 En los demás Distritos Judiciales, los Jueces de lo Civil ejercerán las funciones que correspondan a los Jueces de lo Penal, dentro del territorio de su respectiva jurisdicción, sin perjuicio de que el Tribunal Pleno, de acuerdo con sus facultades, determine la creación de otros Juzgados Penales, ya sea en la Capital o en los otros Distritos Judiciales.
 
@@ -789,17 +827,47 @@ IV.- Resolver los conflictos de competencia que se susciten entre los Jueces Mun
 
 V.- Conocer de los asuntos penales en los que el Tribunal Superior de Justicia les haya prorrogado jurisdicción.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 43 BIS.- Compete a los Juzgados Especializados en Adolescentes:
+
+I.- Conocer las causas instauradas en contra de las personas a las que se refiere la ley de la materia;
+
+II.- Velar porque a los adolescentes se les respeten los derechos fundamentales consagrados en las Constituciones Federal y Estatal, y así como en los Tratados Internacionales ratificados por los Estados Unidos Mexicanos;
+
+III.- Dictar, cuando corresponda, en los plazos y términos previstos por la ley de la materia, la sujeción a proceso y las medidas cautelares que solicite el Ministerio Público Especializado, en su caso;
+
+IV.- Ejercer la custodia del adolescente detenido, y asegurarse de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen en su situación;
+
+V.- Fijar a las partes el plazo para la precisión de los medios de prueba que ofrecerán en el juicio;
+
+VI.- Aprobar los acuerdos reparatorios entre el adolescente probable responsable y la víctima y ofendido, así como declarar la extinción de la acción persecutoria o la reanudación del proceso por incumplimiento cuando procediere;
+
+VII.- Procurar las formas alternativas de justicia, a fin de cumplir con los principios de mínima intervención y de subsidiariedad;
+
+VIII.- Presidir las audiencias del procedimiento, y dictar los autos y resoluciones respecto de los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
+
+IX.- Declarar la responsabilidad o inocencia del adolescente sometido a juicio;
+
+X.- Imponer las medidas sancionadoras, atendiendo a los principios de responsabilidad limitada, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes; y
+
+XI.- Las demás que le confieran las leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 44.
 
-Los Jueces Penales tendrán las mismas facultades que los Jueces de lo Civil y de lo Familiar, a que se refiere el artículo 41 de esta Ley.
+Los Jueces Penales y Especializados en Adolescentes, tendrán las mismas facultades que los Jueces de lo Civil y de lo Familiar a que se refiere el artículo 41 de esta Ley.
 
 Asimismo, los Juzgados Penales contarán con personal igual al que se menciona en el artículo 36 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO IV. DE LOS JUZGADOS MUNICIPALES
 
 ###### ARTÍCULO 45.
 
-Los Jueces Penales serán nombrados y suplidos en las formas que señalan los artículos 37 y 38 de la presente Ley.
+Los Jueces Penales y Especializados en Adolescentes, serán nombrados y suplidos en las formas que señalan los artículos 37 y 38 de la presente Ley.
 
 ### CAPÍTULO V. DE LOS JUZGADOS DE PAZ
 
@@ -1645,7 +1713,9 @@ La carrera judicial se regirá por los principios de excelencia, profesionalismo
 
 La carrera judicial se integrará por las siguientes categorías:
 
-I.- Juez Civil, Familiar, Penal o Supernumerario;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Juez Civil, Familiar, Penal, Especializado en Adolescentes o Supernumerario;
 
 > <small>(F. DE E., P.O. DE 3 DE FEBRERO DE 2003)</small>
 
@@ -1919,9 +1989,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que merezca
 
 V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 171.
 
-Para ser Juez de lo Civil, de lo Familiar, de lo Penal, de Jurisdicción Mixta o Supernumerario, se requiere:
+Para ser Juez de lo Civil, de lo Familiar, de lo Penal, Especializado en Adolescentes, de Jurisdicción Mixta o Supernumerario, se requiere:
 
 I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles;
 
@@ -1953,11 +2025,11 @@ II.- Ser mayor de veinticinco años de edad; y
 
 III.- Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de un año; tratándose de Juez de Paz del interior del Estado, bastará con que posea los conocimientos necesarios.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 174.
 
-Para ser Secretario de Acuerdos Adjunto o Relator del Tribunal Superior de Justicia, Secretario de Sala, de Juzgado Civil, Familiar o Penal, de Juzgado Municipal o de Paz de la Capital del Estado, se requiere:
+Para ser Secretario de Acuerdos, Adjunto o Relator del Tribunal Superior de Justicia, Secretario de Sala, de Juzgado Civil, Familiar, Penal o Especializado en Adolescentes, de Juzgado Municipal o de Paz de la Capital del Estado, se requiere:
 
 I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles, con vecindad en el lugar en que va a ejercer sus funciones;
 
@@ -1977,9 +2049,11 @@ II.- Ser mayor de veinte años; y
 
 III.- Poseer los conocimientos necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 176.
 
-Para ser Diligenciario del Tribunal Superior de Justicia, de Juzgado Civil, Familiar, Penal o Municipal de la Capital del Estado, se requiere:
+Para ser Diligenciario del Tribunal Superior de Justicia, de Juzgado Civil, Familiar, Penal, Especializado en Adolescentes o Municipal de la Capital del Estado, se requiere:
 
 I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles, con vecindad en el lugar en que va a ejercer sus funciones;
 
@@ -2003,9 +2077,11 @@ III.- Poseer los conocimientos necesarios.
 
 Los Magistrados del Tribunal Superior de Justicia, una vez electos por el Congreso del Estado, protestarán su cargo ante la Legislatura en funciones, y en sus recesos, ante la Comisión Permanente.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 179.
 
-Los Jueces Civiles, Familiares, Penales, Mixtos y Supernumerarios, protestarán su cargo ante el Pleno del Tribunal Superior de Justicia.
+Los Jueces Civiles, Familiares, Penales, Especializados en Adolescentes, Mixtos y Supernumerarios, protestarán su cargo ante el Pleno del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO 180.
 
@@ -2466,3 +2542,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Por la conmemoración en el año dos mil seis del bicentenario del natalicio de Don Benito Juárez García, Benemérito de las Américas, en el año en curso será día de descanso obligatorio para los Trabajadores al Servicio del Estado, inhábil para el despacho de los Tribunales del Poder Judicial del Estado y no se contará en los plazos fijados en días por la legislación fiscal del Estado, el día martes 21 de marzo, en lugar del tercer lunes de marzo, por lo que la reforma relativa a este día, tendrá vigencia a partir del año dos mil siete.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
