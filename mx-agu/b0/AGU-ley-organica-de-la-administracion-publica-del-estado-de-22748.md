@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2005-12-12"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -395,11 +395,19 @@ XX.- Diseñar, coordinar y evaluar, programas y acciones de cultura para la prev
 
 XXI.- Fomentar, a través de los comités de seguridad, la participación ciudadana en la prevención del delito;
 
-XXII.- Ejecutar a través de los centros de readaptación social las penas y medidas de seguridad impuestas por el Poder Judicial, así como los tratamientos para menores infractores determinados por el Consejo Tutelar para Menores Infractores;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXII.- Ejecutar a través de los centros de readaptación social las penas y medidas de seguridad impuestas por el Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXII A.- Ejecutar a través del Centro Estatal para el Desarrollo del Adolescente, las medidas impuestas por el Poder Judicial;
 
 XXIII.- Organizar, dirigir, y administrar los centros de reeducación social en el Estado;
 
-XXIV.- Establecer y ejecutar programas y actividades que tengan como fin la reeducación social del sentenciado y menores infractores;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXIV.- Establecer y ejecutar programas y actividades que tengan como fin la reeducación social del sentenciado y la reincorporación social de los adolescentes;
 
 XXV.- Elaborar los expedientes técnicos correspondientes a las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
 
@@ -407,7 +415,9 @@ XXVI.- Diseñar, implementar, coordinar y evaluar las funciones de apoyo y asist
 
 XXVII.- Crear programas de reinserción social de los sentenciados que finalizaron el proceso de reeducación social;
 
-XXVIII.- Organizar, dirigir, y administrar los centros de reeducación social para menores infractores;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXVIII.- Organizar, dirigir, y administrar el Centro Estatal para el Desarrollo del Adolescente;
 
 XXIX.- Planear, organizar, regular, vigilar y sancionar en coordinación con los ayuntamientos, las normas de vialidad;
 
@@ -1201,9 +1211,21 @@ d) Dirección General de Prevención del Delito y Política Criminal;
 
 e) Dirección General de Seguridad Publica y Vialidad;
 
-f) Dirección General Jurídica; y
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-g) Dirección General de Administración.
+f) Dirección General Jurídica;
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+g) Dirección General de Administración;
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+h) Centro Estatal para el Desarrollo del Adolescente; e
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+i) Consejo Técnico previsto en la Ley del Sistema de Justicia para Adolescentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
 
@@ -1536,3 +1558,9 @@ DECIMO SEPTIMO.- Las facultades y referencias del Código Urbano para el Estado 
 P.O. 12 DE DICIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
