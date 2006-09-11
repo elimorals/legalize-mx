@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-el-sistema-estatal-de-asistencia-social-10029"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-26"
-last_updated: "2002-08-16"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 26 de junio de 1987.
 
@@ -63,7 +63,9 @@ Son sujetos de la recepción de los servicios de asistencia social, preferenteme
 
 I.- Menores en estado de abandono, desamparo, desnutrición o sujetos al mal trato;
 
-II.- Menores infractores, sin perjuicio de los ordenamientos legales que les son aplicables;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Niñas y niños que hayan realizado una conducta prevista como delito en las leyes penales estatales;
 
 III.- Alcohólicos, farmacodependientes o individuos en condiciones de estado de vagancia;
 
@@ -395,7 +397,7 @@ XVII.- Participar en programas de rehabilitación y educación especial;
 
 XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuera necesario para satisfacer los requerimientos de autonomía de los inválidos e incapaces;
 
-XIX.- Intervenir en la definición de los programas de readaptación del Consejo Tutelar para Menores, y
+XIX.-(DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 XX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
@@ -580,3 +582,43 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O.16 DE AGOSTO DE 2002.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la iniciación de la vigencia de este Decreto, se abroga la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y su Reglamento, así como las normas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las autoridades correspondientes, deberán expedir los reglamentos que se prevén en la Ley de Justicia para Adolescentes del Estado de Sinaloa, así como realizar las adecuaciones presupuestales y orgánicas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del Plazo de entrada en vigor del presente Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, deberá expedir los reglamentos e implementar las acciones que sean necesarias para cumplir con su obligación de otorgar rehabilitación y asistencia social especializada a los menores de doce años de edad que hayan realizado conductas tipificadas como delitos en las leyes penales, en los términos del artículo 43 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa; así como a lo señalado por el artículo 18 de la Constitución Federal y la Convención sobre los Derechos del Niño.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal y el Supremo Tribunal de Justicia, en sus respectivos ámbitos de competencia, establecerán procedimientos y programas para la selección y capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración e impartición de justicia para adolescentes que infrinjan la ley penal, así como en la ejecución de las medidas de tratamiento.
+
+###### ARTÍCULO SEXTO.
+
+Las instituciones encargadas de la formación de los agentes de las policías deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor el presente Decreto, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los tratados internacionales y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Tutelar para Menores previsto en la Ley que se abroga en el Transitorio segundo podrá seguir actuando válidamente a la entrada en vigor del presente Decreto, únicamente para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo a las siguientes reglas:
+
+a) Los asuntos sometidos al Consejo Tutelar para Menores en los que aún no haya emitido resolución inicial, los remitirá al Juez Especializado quien realizará la valoración de los datos y elementos de convicción que obren en el expediente y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+b) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución inicial los remitirá al Juez Especializado quien examinará y valorará los datos y elementos de convicción que obren en el expediente y que hayan servido de base a la resolución, y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución definitiva y los adolescentes se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa, en todo aquello que les beneficie. El Director del Centro de Observación y Readaptación del Consejo Tutelar para Menores remitirá al Órgano de Ejecución de Medidas para Adolescentes los expedientes realizados con el cumplimiento de dichas medidas. El Juez Especializado, con audiencia del adolescente, sus padres, tutores o representantes legales y del Ministerio Público, podrá adecuar la medida correspondiente en los términos de lo previsto en la Ley de Justicia Alternativa del Estado de Sinaloa. En caso de duda sobre el régimen más favorable, se consultará al menor, a sus padres, tutores o representantes legales, atendiendo a los principios rectores de la Ley invocada.
+
+d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
+
+e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
