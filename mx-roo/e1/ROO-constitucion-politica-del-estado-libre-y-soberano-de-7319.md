@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2004-05-28"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -229,7 +229,33 @@ Nadie puede ser reducido a prisión por deudas de carácter meramente civil. Nin
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El establecimiento que se reserve para ésta tendrá distinta ubicación respecto del destinado para la extinción de una condena física.
 
-El Gobierno del Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto. Asimismo, establecerá instituciones especiales para el tratamiento de menores infractores.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+El Estado establecerá un sistema integral de justicia para adolescentes que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+La operación de este sistema de justicia integral estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes, y se regirá por lo dispuesto en esta Constitución y su ley reglamentaria, misma que establecerá las bases del proceso especializado para adolescentes, la ejecución de las medidas y los lineamientos para el establecimiento del Sistema Integral de Justicia para Adolescentes, así como su integración, organización y funcionamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -2642,3 +2668,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE MAYO DE 2004.
 
 UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para los efectos legales que correspondan.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
