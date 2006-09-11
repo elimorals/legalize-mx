@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2005-12-30"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -67,11 +67,11 @@ II.- Que el acusado no haya sido definitivamente juzgado por los mismos hechos e
 
 Los delitos continuados y los permanentes se perseguirán con arreglo a las leyes del Estado de Puebla, cuando un momento cualquiera de la ejecución de aquellos delitos, se realice dentro del territorio de este Estado.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-###### Artículo 4.
+###### Artículo 4°.
 
-Las Leyes Penales del Estado de Puebla se aplicarán a las personas infractoras de las mismas, cualquiera que sea su nacionalidad y residencia. Se es penalmente imputable a partir de los dieciséis años en el Estado de Puebla.
+Las Leyes Penales del Estado de Puebla se aplicarán a las personas infractoras de las mismas, cualquiera que sea su nacionalidad y residencia. Se es penalmente imputable a partir de los dieciocho años en el Estado de Puebla.
 
 ###### Artículo 5°.
 
@@ -469,7 +469,9 @@ I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo 
 
 II.- Los tutores y custodios, por los delitos de los incapacitados que se hallen bajo su autoridad;
 
-III.- Los directores de internados o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciséis años, por los delitos que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquéllos;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Los directores de internados o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciocho años, por los delitos que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquéllos;
 
 IV.- Los dueños, empresarios o encargados de negociaciones o establecimientos mercantiles de cualquier especie, por los delitos que cometan sus obreros, jornaleros, empleados, domésticos y artesanos, con motivo y en el desempeño de su servicio;
 
@@ -4236,3 +4238,13 @@ P.O. 30 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
