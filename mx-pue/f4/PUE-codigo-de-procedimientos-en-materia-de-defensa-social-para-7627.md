@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2004-12-13"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1805,7 +1805,9 @@ La confesión produce su efecto tanto en lo que favorece como en lo que perjudic
 
 La confesión ante el Ministerio Público o ante el Juez hará prueba plena, cuando concurran las circunstancias siguientes:
 
-I.- Que se haga por persona mayor de dieciséis años, en su contra, con pleno conocimiento y sin coacción ni violencia alguna;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Que en su caso se haga por persona mayor de dieciocho años, en su contra, con pleno conocimiento y sin coacción ni violencia alguna;
 
 II.- Que sea hecha con la asistencia de su defensor, y de que el inculpado esté debidamente informado del procedimiento y del proceso;
 
@@ -3373,7 +3375,7 @@ La autoridad que conozca de la averiguación o del proceso, así como el mediado
 
 La invitación deberá indicar el día, hora y lugar determinado para la sesión, nombre y cargo de quien practique la mediación, con el deber de hacer entrega de la invitación, con por lo menos cinco días hábiles de anticipación a la fecha programada para la sesión.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O, 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 400.
 
@@ -3594,3 +3596,13 @@ P.O. 13 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
