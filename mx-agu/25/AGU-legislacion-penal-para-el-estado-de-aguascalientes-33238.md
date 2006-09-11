@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2006-08-07"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1823,9 +1823,11 @@ III. La del juicio, que comprende del auto que declara cerrada la instrucción a
 
 IV. La de ejecución, que comprende desde el momento en que cause ejecutoria la sentencia dictada por la autoridad judicial hasta la extinción de las penas o medidas de seguridad aplicadas.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 144.
 
-Los procedimientos especiales que se den con motivo de hechos punibles claramente tipificados y en los que hayan participado personas menores de 16 años de edad, inimputables, servidores públicos con fuero constitucional o fármaco dependientes o alcohol dependientes, se regirán por las disposiciones establecidas en la presente Legislación.
+Los procedimientos especiales que se den con motivo de hechos punibles claramente tipificados y en los que hayan participado personas inimputables, servidores públicos con fuero constitucional o fármaco dependientes o alcohol dependientes, se regirán por las disposiciones establecidas en la presente Legislación. Los menores de 18 años, se regirán por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
 
 ## TITULO SEGUNDO. SUJETOS Y AUXILIARES DEL PROCEDIMIENTO
 
@@ -2123,9 +2125,11 @@ Si el inculpado fuere considerado inimputable conforme a esta Legislación, quie
 
 Si la patria potestad fuere ejercida por el padre y por la madre, ellos actuarán bajo una única representación. El conflicto que pudiere suscitarse entre ellos, lo resolverá la autoridad que conozca del asunto.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 184.
 
-El inculpado deberá ser sometido a exámenes de carácter físico y mental, si el hecho punible que se le atribuye es de contenido sexual o se espera una pena superior a los cinco años de privación de la libertad; si se trata de un menor de dieciséis años de edad o de un mayor que haya cumplido los sesenta años de edad, tales exámenes deberán ser valorados plena y necesariamente por las autoridades encargadas de la aplicación de las penas o medidas de seguridad al momento de dictar resolución definitiva. Lo anterior se hará independientemente de la realización de los estudios técnicos de personalidad a cargo de las autoridades encargadas de la ejecución de las penas y medidas de seguridad.
+El inculpado, deberá ser sometido a exámenes de carácter físico y mental, si el hecho punible que se le atribuye es de contenido sexual o se espera una pena superior a los cinco años de privación de la libertad; si se trata de un mayor que haya cumplido los sesenta años de edad, tales exámenes deberán ser valorados plena y necesariamente por las autoridades encargadas de la aplicación de las penas o medidas de seguridad al momento de dictar resolución definitiva. Lo anterior se hará independientemente de la realización de los estudios técnicos de personalidad a cargo de las autoridades encargadas de la ejecución de las penas y medidas de seguridad.
 
 ###### Artículo 185.
 
@@ -3619,7 +3623,9 @@ Si el testigo no compareciere a declarar, a pesar de haber sido citado legalment
 
 Se comenzará instruyendo al testigo acerca de sus obligaciones y de la importancia y fines de la diligencia en la que participa, así como de la punibilidad establecida en la legislación vigente respecto a las personas que se niegan a declarar o declaran falsamente, y se les tomará la protesta de decir verdad.
 
-A los menores de dieciséis años de edad, sólo se les exhortará para que se conduzcan con verdad, y a los menores de trece años, se les solicitará información mediante el uso de instrumentos psiquiátricos válidos para ello, por personal capacitado para el efecto, y tal personal entregará a la autoridad correspondiente el resultado obtenido.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+A los menores de dieciocho años de edad, sólo se les exhortará para que se conduzcan con verdad, y a los menores de doce años, se les solicitará información mediante el uso de instrumentos psiquiátricos válidos para ello, por personal capacitado para el efecto, y tal personal entregará a la autoridad correspondiente el resultado obtenido.
 
 El testigo será interrogado sobre sus datos personales y las demás circunstancias útiles para valorar su testimonio. Luego continuará la declaración sobre lo que conozca del hecho punible o las particularidades del inculpado o de la víctima.
 
@@ -4501,41 +4507,27 @@ Cuando de la resolución se desprenda que el procesado accedió a estado de inim
 
 Mientras dure el tratamiento, no correrá el término para la prescripción de la acción penal.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 530.
 
-En la investigación y juzgamiento de hechos punibles en los cuales intervenga como indiciado un menor de 16 años de edad, se procederá de la siguiente manera:
-
-I. El Ministerio Público lo comunicará inmediatamente al Consejo Tutelar de Menores en el Estado, con todos los datos y elementos de que se disponga, para que asuma la tutela prevista en la Ley que lo regula, si correspondiere;
-
-II. La privación de libertad del menor sólo procederá en casos excepcionales, cuando no exista otra manera de asegurar la sujeción del indiciado al procedimiento y concluir adecuadamente la averiguación previa;
-
-III. Concluida la averiguación previa en términos de esta legislación y establecido plenamente el nivel de autoría, participación o complicidad del menor y que su conducta provocó el resultado de lesión o puesta en peligro del bien jurídico correspondiente al hecho tipificado, o colaboró para que ello sucediera, remitirá el expediente al Consejo Tutelar de Menores, para la continuación del procedimiento.
+En la investigación y juzgamiento de hechos punibles en los cuales intervenga como indiciado un menor de 18 años de edad, se procederá en la forma y términos previstos en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
 
 ###### Artículo 531.
 
-Recibida la averiguación previa por el Consejo Tutelar de Menores, procederá a certificar la existencia de los elementos que acrediten el cuerpo del delito de la figura típica correspondiente y el nivel de autoría, participación o complicidad del menor en el hecho punible, base fundamental para continuar con el procedimiento.
-
-Si el menor se encuentra privado de su libertad, se analizarán sus circunstancias personales, resolviendo con ello, en el término de 72 horas, si queda en libertad incondicional, si se entrega a quienes ejerzan la patria potestad sobre él, a quienes tengan su guarda o custodia, o si debe continuar internado en el Consejo.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 532.
 
-Determinada la continuación del procedimiento, éste tendrá por objeto el de valorar la autoría, participación o complicidad del menor en el hecho punible tipificado, o para el acreditamiento de alguna de las causas de justificación descritas en la presente Legislación, para el efecto de aplicarle la medida de seguridad correspondiente, trámite que deberá concluir en un término que no exceda de treinta días.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 533.
 
-Quienes ejerzan la patria potestad, la tutela o en su caso, la guarda o custodia del menor, tendrán la representación legal de éste en el procedimiento, y tendrán todas las garantías y facultades que se otorgan a los gobernados por la Constitución Política de los Estados Unidos Mexicanos y las leyes secundarias aplicables.
-
-Se podrá disponer que el menor no presencie los actos del procedimiento, salvo cuando fuere imprescindible su comparecencia, y en la medida que esto no afecte su salud mental.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 534.
 
-La resolución que determine la aplicación o no de una medida de seguridad al menor partícipe en un hecho punible tipificado, clarificará también los aspectos relacionados con los daños y perjuicios causados a la víctima u ofendido, para que éstos sean cubiertos en términos de lo previsto por la presente legislación.
-
-La víctima u ofendido podrá aportar, en consecuencia, al procedimiento especial, los elementos idóneos para valorar adecuadamente los daños y perjuicios que se les hayan causado.
-
-Si la medida que se ordene debe aplicarse al menor consiste en tratamiento en internamiento, la misma se ejecutará hasta su total terminación, independientemente de que se rebase la edad de los 16 años del sujeto en tratamiento.
-
-Para la aplicación de esta medida, se requiere de la existencia de un hecho punible considerado típico y que la conducta del menor no se encuentre amparada por una causa de justificación.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 535.
 
@@ -4567,7 +4559,7 @@ La aplicación de una ley posterior más benigna durante el procedimiento que to
 
 ###### Artículo 541.
 
-Las reglas del presente Título también se aplicarán en los casos relativos a procedimientos seguidos a personas menores de 16 años de edad o a inimputables.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 # LIBRO TERCERO. EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -4649,9 +4641,11 @@ c) Tratamiento; y
 
 d) Reintegración.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 554.
 
-Tomando en cuenta los resultados en la integración de los expedientes de ejecución, el sentenciado será clasificado en grupos de acuerdo con su capacidad, su edad, salud mental y física. Si cuenta con una edad que oscile entre los 16 y 22 años, deberá estar separado, en lo posible, de los demás internos.
+Tomando en cuenta los resultados en la integración de los expedientes de ejecución, el sentenciado será clasificado en grupos de acuerdo con su capacidad, salud mental y física.
 
 El estudio integral de personalidad del sentenciado, deberá de actualizarse con una periodicidad de seis meses a fin de constatar el grado de avance que registre durante dicho período en su proceso de reeducación social.
 
@@ -5068,3 +5062,9 @@ P.O. 7 DE AGOSTO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
