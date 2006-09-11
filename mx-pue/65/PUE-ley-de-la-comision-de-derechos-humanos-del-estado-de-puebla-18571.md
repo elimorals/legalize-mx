@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2000-03-24"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -213,7 +213,9 @@ IX.- Promover el estudio, enseñanza y divulgación de los derechos humanos en e
 
 X.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
 
-XI.- Supervisar, que las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Judicial y Centros de Readaptación Social para adultos y menores en el Estado, cuenten con las prerrogativas constitucionales y se garantice la plena vigencia de sus derechos humanos. Asimismo, se podrá solicitar el reconocimiento médico, físico y psicológico de los detenidos, cuando se presuma que han sufrido malos tratos o tortura, comunicando a las autoridades competentes los resultados de las revisiones practicadas para que tomen las medidas conducentes y en su caso, se denuncie ante las autoridades competentes a los servidores públicos responsables;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+XI.- Supervisar, que las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Judicial y Centros de Readaptación Social para adultos, así como en los Centros de Internamiento Especializado para Adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado, cuenten con las prerrogativas constitucionales y se garantice la plena vigencia de sus derechos humanos. Asimismo, se podrá solicitar el reconocimiento médico, físico y psicológico de los detenidos, cuando se presuma que han sufrido malos tratos o tortura, comunicando a las autoridades competentes los resultados de las revisiones practicadas para que tomen las medidas conducentes y en su caso, se denuncie ante las autoridades competentes a los servidores públicos responsables;
 
 XII.- Coadyuvar con el Ejecutivo del Estado, en materia de derechos humanos, propiciando en la sociedad el desarrollo de esa cultura;
 
@@ -609,7 +611,9 @@ El Visitador podrá solicitar a las autoridades y servidores públicos, se le pe
 
 Si la autoridad o servidor público señalado como presunto responsable, exhibiera a la persona; el Visitador de la Comisión, solicitará que se ponga de inmediato a disposición de la autoridad competente, además de pedir su no incomunicación y que se decreten las providencias necesarias tendientes a garantizar su vida e integridad corporal.
 
-Si el detenido es menor de dieciséis años, se exhortará a la autoridad, lo traslade de inmediato al Consejo Tutelar para Menores Infractores.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Si un adolescente es detenido por haber cometido conductas tipificadas como delitos por la legislación del Estado, se exhortará a quien lo haga a que lo ponga de inmediato a disposición de la autoridad competente, en la forma y términos establecidos en el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla.
 
 En su caso, se requerirá de la autoridad señalada como presunta responsable, un informe con justificación por escrito en relación con la solicitud formulada, el cual deberá rendirse en un plazo no mayor de cuarenta y ocho horas, contado a partir de que se le haya notificado.
 
@@ -706,3 +710,15 @@ El Presidente de la Comisión, así como los Consejeros, seguirán en sus funcio
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de marzo de dos mil.- Diputado Presidente.- GREGORIO TOXTLE TEPALE.- Rúbrica.- Diputado Secretario.- HORACIO GASPAR LIMA.- Rúbrica.- Diputado Secretario.- CÉSAR AUGUSTO REYES CABRERA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de marzo del año dos mil.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
