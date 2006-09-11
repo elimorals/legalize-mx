@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2005-08-15"
+last_updated: "2006-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -235,7 +235,9 @@ IV. La inimputabilidad.
 
 Serán inimputables:
 
-a) Los menores de dieciséis años de edad;
+(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2006) (F. DE E., G.O. 15 DE SEPTIEMBRE DE 2006)
+
+a) Los menores de dieciocho años de edad.
 
 b) Los que al momento de realizar la conducta típica carezcan de capacidad para comprender el hecho ilícito por trastorno, enajenación o retraso mentales; y
 
@@ -3076,3 +3078,7 @@ DECRETO No. 284, POR EL QUE SE REFORMA EL ARTICULO 233 DEL CODIGO.
 Primero. Presente (sic) decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor seis meses después de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
