@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-21802"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-25"
-last_updated: "2006-08-11"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 25 de julio de 2001.
 
@@ -63,9 +63,9 @@ V. Promover e impulsar la participación social para el mejoramiento de la segur
 
 Para los efectos de esta ley, se entiende por seguridad pública la función a cargo del Estado y los Municipios, tendiente a salvaguardar la integridad, los bienes y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-La (sic) autoridades competentes cumplirán con los fines de la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, así como con la readaptación y reinserción social de los delincuentes y de los menores infractores.
+Las autoridades competentes cumplirán con los fines de la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, así como con la readaptación y reinserción social de los delincuentes y de los adolescentes infractores de la ley penal.
 
 Para alcanzar los fines de prevención del delito, existirá coordinación obligatoria con los sistemas educativo, de integración familiar, de salud, de protección civil, de saneamiento ambiental, de seguridad social o cualquier otro que coadyuve a la preservación de la seguridad pública.
 
@@ -73,9 +73,11 @@ Para alcanzar los fines de prevención del delito, existirá coordinación oblig
 
 Las instituciones encargadas de la seguridad pública regirán su actuación bajo los principios de legalidad, protección social, eficiencia, eficacia, profesionalismo, honradez y respeto a los derechos humanos, y cualquier actividad fuera de estos principios, será sancionado de conformidad con la Ley.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 3.
 
-La función de seguridad pública es una responsabilidad conjunta que se asumirá por conducto de las autoridades de policía preventiva y tránsito, del Ministerio Público y la policía dependiente de éste, de los tribunales y de las autoridades responsables de la ejecución de las consecuencias jurídicas del delito y del tratamiento de menores infractores, en sus respectivos ámbitos de competencia, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta ley.
+La función de seguridad pública es una responsabilidad conjunta que se asumirá por conducto de las autoridades de policía preventiva y tránsito, del Ministerio Público y la policía dependiente de éste, de los tribunales y de las autoridades responsables de la ejecución de las consecuencias jurídicas del delito y del tratamiento de adolescentes infractores de la ley penal, en sus respectivos ámbitos de competencia, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta ley.
 
 ###### Artículo 4.
 
@@ -111,7 +113,9 @@ VI. Los Directores de los centros de ejecución de las consecuencias jurídicas 
 
 VII.- El Director de Vialidad y Transportes; y,
 
-VIII.- El Director del Centro de Tratamiento de Menores Infractores.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- El Director del Centro de Internamiento para Adolescentes.
 
 Las demás que determinen, con ese carácter, otras disposiciones aplicables.
 
@@ -201,11 +205,11 @@ En los casos de fuerza mayor o alteración grave del orden público, las policí
 
 ### Capítulo III. De las Instituciones de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 15.
 
-Las Instituciones de Seguridad Pública en general, estarán constituidas por las policías preventivas, el Ministerio Público y la Policía dependiente de éste, los tribunales y los cuerpos de custodia a internos de centros de ejecución de las consecuencias jurídicas del delito y de centros de tratamiento de menores infractores.
+Las Instituciones de Seguridad Pública en general, estarán constituidas por las policías preventivas, el Ministerio Público y la Policía dependiente de éste, los tribunales y los cuerpos de custodia a internos de centros de ejecución de las consecuencias jurídicas del delito y de centros de internamiento para adolescentes.
 
 A dichas instituciones corresponde planear, realizar, supervisar y evaluar las acciones dirigidas a mantener el orden, la paz y la tranquilidad públicas dentro del territorio del Estado o de los respectivos Municipios, según corresponda. Revisarán trimestralmente sus estrategias de trabajo, sus resultados y las propuestas que en su caso se les presenten para el mejor desempeño de sus funciones.
 
@@ -213,9 +217,9 @@ A dichas instituciones corresponde planear, realizar, supervisar y evaluar las a
 
 Las instituciones de seguridad pública en el Estado, son:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-I. Las Instituciones Estatales de Seguridad Pública, que comprenden a la Secretaría de Seguridad Pública, la Policía Estatal Preventiva y los cuerpos de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores, al Ministerio Público y la policía dependiente de éste, los tribunales, las que operarán en todo el territorio del Estado; y,
+I. Las Instituciones Estatales de Seguridad Pública, que comprenden a la Secretaría de Seguridad Pública, la Policía Estatal Preventiva y los cuerpos de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de internamiento para adolescentes, al Ministerio Público y la policía dependiente de éste, los tribunales, las que operarán en todo el territorio del Estado; y,
 
 II. Las Instituciones Municipales de Seguridad Pública, que comprenden a las Direcciones de Seguridad Pública y de Tránsito de los Municipios, las que operarán dentro de sus límites.
 
@@ -237,13 +241,13 @@ II Evitar el rezago de órdenes de aprehensión dictadas, revisando cada tres me
 
 Los tribunales se regirán por la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20.
 
-Las instituciones de seguridad pública encargadas de la custodia de los internos desarrollarán sus funciones exclusivamente en los establecimientos destinados a la readaptación social de delincuentes y a tratamiento de menores infractores, a cargo del Poder Ejecutivo Estatal, por conducto de la Secretaría de Seguridad Pública, de conformidad con las disposiciones jurídicas de la materia.
+Las instituciones de seguridad pública encargadas de la custodia de los internos desarrollarán sus funciones exclusivamente en los establecimientos destinados a la readaptación social de delincuentes y al internamiento de adolescentes, a cargo del Poder Ejecutivo Estatal, por conducto de la Secretaría de Seguridad Pública, de conformidad con las disposiciones jurídicas de la materia.
 
-Los custodios ejercerán funciones de vigilancia y protección de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores y, en general, de cualquier establecimiento destinado a la internación de quienes se encuentren privados de la libertad personal por resolución judicial o administrativa, de internos, visitantes, así como del traslado de sentenciados y procesados en el territorio del Estado, en los términos de las disposiciones jurídicas aplicables.
+Los custodios ejercerán funciones de vigilancia y protección de los centros de ejecución de las consecuencias jurídicas del delito y de internamiento para adolescentes y, en general, de cualquier establecimiento destinado a la internación de quienes se encuentren privados de la libertad personal por resolución judicial o administrativa, de internos, visitantes, así como del traslado de sentenciados y procesados en el territorio del Estado, en los términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 21.
 
@@ -363,11 +367,11 @@ Las corporaciones policiales, estatales y municipales, podrán organizar grupos 
 
 #### Sección Primera. De los Titulares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 32.
 
-Para ser titular de las instituciones policiales preventivas y las de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores, se exigirán, por lo menos, los siguientes requisitos:
+Para ser titular de las instituciones policiales preventivas y las de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de internamiento para adolescentes, se exigirán, por lo menos, los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -425,11 +429,11 @@ IX. Acreditar residencia efectiva de cuando menos dos años en la entidad; y
 
 X. Los demás que exijan esta Ley y su Reglamento, u otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 36.
 
-Son deberes mínimos de los miembros de las instituciones policiales y las de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de tratamiento de menores infractores, los siguientes:
+Son deberes mínimos de los miembros de las instituciones policiales y las de custodia de los centros de ejecución de las consecuencias jurídicas del delito y de internamiento para adolescentes, los siguientes:
 
 I. Conducirse siempre con apego al orden jurídico y con respeto a los derechos humanos;
 
@@ -787,7 +791,7 @@ IV. Un representante de la Procuraduría General de Justicia y un representante 
 
 V. El Encargado de la Policía Ministerial;
 
-VI. El Delegado del Consejo Tutelar para Menores;
+VI. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
@@ -825,7 +829,7 @@ V. Los representantes de la Policía Federal Preventiva;
 
 VI. Los representantes de la Procuraduría General de Justicia;
 
-VII. Los Delegados del Consejo Tutelar para Menores;
+VII. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
@@ -921,9 +925,11 @@ El Registro Estatal del Personal de Seguridad Pública contendrá la informació
 
 Las autoridades competentes del Estado y los Municipios inscribirán y mantendrán actualizados en este Registro, los datos de todos los integrantes de las instituciones de seguridad pública, en los términos de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 71.
 
-Se consideran miembros de dichas instituciones, a los servidores del Estado o de los Municipios, que realicen funciones de Policía Preventiva, Policía Ministerial, Agentes del Ministerio Público, Peritos, Jueces, Custodios Penitenciarios y Custodios de Menores, siempre que tengan un nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
+Se consideran miembros de dichas instituciones, a los servidores del Estado o de los Municipios, que realicen funciones de Policía Preventiva, Policía Ministerial, Agentes del Ministerio Público, Peritos, Jueces, Custodios Penitenciarios y Custodios de los Centros de Internamiento para Adolescentes, siempre que tengan un nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
 
 ###### Artículo 72.
 
@@ -970,6 +976,8 @@ La credencial que identifique a los integrantes de las instituciones de segurida
 La consulta al Registro Estatal será obligatoria y previa al ingreso de toda persona a cualquier institución de seguridad pública. Con los resultados de la consulta, la autoridad procederá de conformidad con las normas conducentes.
 
 #### Sección Tercera. De la Información sobre Procuración e Impartición de Justicia
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 76.
 
@@ -1023,9 +1031,11 @@ El incumplimiento de las disposiciones contenidas en esta Sección, dará lugar 
 
 #### Sección Cuarta. De la Estadística Estatal de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 81.
 
-Con el fin de apoyar las funciones de procuración e impartición de justicia, se integrará una base estatal de datos que contendrá la información que aporten las autoridades encargadas de la prevención del delito y aplicación de sanciones por infracción a reglamentos gubernativos y bandos de policía, de procuración e impartición de justicia, de readaptación social y de tratamiento de menores infractores.
+Con el fin de apoyar las funciones de procuración e impartición de justicia, se integrará una base estatal de datos que contendrá la información que aporten las autoridades encargadas de la prevención del delito y aplicación de sanciones por infracción a reglamentos gubernativos y bandos de policía, de procuración e impartición de justicia, de readaptación social y de ejecución de medidas para adolescentes.
 
 ###### Artículo 82.
 
@@ -1049,7 +1059,9 @@ VIII. Registro de Sentenciados que hayan cumplido su sentencia;
 
 IX. Registro de Reincidentes;
 
-X. Registro de Menores Infractores;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+X. Registro de adolescentes a quienes se haya impuesto una medida de tratamiento;
 
 XI. Base de Datos sobre ubicación, horarios, modos de operación, recursos y características criminales;
 
@@ -1077,7 +1089,7 @@ La Institución del Ministerio Público, y el órgano jurisdiccional, en su caso
 
 ###### Artículo 86.
 
-La estadística estatal de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de prevención del delito, sanción a infracciones administrativas, procuración e impartición de justicia, sistemas de prisión preventiva, de ejecución de sentencia y de tratamiento de menores, así como de los factores asociados al delito y a las conductas antisociales que afectan la seguridad pública.
+La estadística estatal de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de prevención del delito, sanción a infracciones administrativas, procuración e impartición de justicia, sistemas de prisión preventiva, de ejecución de sentencia y de ejecución de medidas para adolescentes, así como de los factores asociados al delito y a las conductas antisociales que afectan la seguridad pública.
 
 ###### Artículo 87.
 
@@ -1105,7 +1117,9 @@ III. La Procuraduría General de Justicia;
 
 IV. Las Autoridades Judiciales;
 
-V. Las Autoridades Administrativas de Readaptación Social y de Tratamiento de Menores Infractores; y,
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+V. Las Autoridades Administrativas de Readaptación Social y de Ejecución de Medidas para Adolescentes; y,
 
 VI. Las demás autoridades que señale esta ley.
 
@@ -1808,3 +1822,43 @@ P.O. 11 DE AGOSTO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la iniciación de la vigencia de este Decreto, se abroga la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y su Reglamento, así como las normas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las autoridades correspondientes, deberán expedir los reglamentos que se prevén en la Ley de Justicia para Adolescentes del Estado de Sinaloa, así como realizar las adecuaciones presupuestales y orgánicas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del Plazo de entrada en vigor del presente Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, deberá expedir los reglamentos e implementar las acciones que sean necesarias para cumplir con su obligación de otorgar rehabilitación y asistencia social especializada a los menores de doce años de edad que hayan realizado conductas tipificadas como delitos en las leyes penales, en los términos del artículo 43 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa; así como a lo señalado por el artículo 18 de la Constitución Federal y la Convención sobre los Derechos del Niño.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal y el Supremo Tribunal de Justicia, en sus respectivos ámbitos de competencia, establecerán procedimientos y programas para la selección y capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración e impartición de justicia para adolescentes que infrinjan la ley penal, así como en la ejecución de las medidas de tratamiento.
+
+###### ARTÍCULO SEXTO.
+
+Las instituciones encargadas de la formación de los agentes de las policías deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor el presente Decreto, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los tratados internacionales y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Tutelar para Menores previsto en la Ley que se abroga en el Transitorio segundo podrá seguir actuando válidamente a la entrada en vigor del presente Decreto, únicamente para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo a las siguientes reglas:
+
+a) Los asuntos sometidos al Consejo Tutelar para Menores en los que aún no haya emitido resolución inicial, los remitirá al Juez Especializado quien realizará la valoración de los datos y elementos de convicción que obren en el expediente y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+b) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución inicial los remitirá al Juez Especializado quien examinará y valorará los datos y elementos de convicción que obren en el expediente y que hayan servido de base a la resolución, y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución definitiva y los adolescentes se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa, en todo aquello que les beneficie. El Director del Centro de Observación y Readaptación del Consejo Tutelar para Menores remitirá al Órgano de Ejecución de Medidas para Adolescentes los expedientes realizados con el cumplimiento de dichas medidas. El Juez Especializado, con audiencia del adolescente, sus padres, tutores o representantes legales y del Ministerio Público, podrá adecuar la medida correspondiente en los términos de lo previsto en la Ley de Justicia Alternativa del Estado de Sinaloa. En caso de duda sobre el régimen más favorable, se consultará al menor, a sus padres, tutores o representantes legales, atendiendo a los principios rectores de la Ley invocada.
+
+d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
+
+e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
