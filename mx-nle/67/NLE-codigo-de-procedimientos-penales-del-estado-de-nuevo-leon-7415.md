@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2006-02-10"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -3909,6 +3909,10 @@ Las garantías a que se refieren las fracciones I y II del artículo 493 sólo p
 
 La naturaleza de la caución quedará a elección del acusado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En caso de que no se haga la manifestación mencionada, de acuerdo con el artículo que antecede se fijará la cantidad que corresponda en los términos de la fracción I del artículo siguiente, observándose lo que establecen las demás fracciones cuando el depósito no se pueda hacer en efectivo y así se solicite.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+En el caso de los delitos previstos en los Artículos 280, 280 bis y 282 del Código Penal del Estado, la caución que garantice la libertad del sujeto será otorgada en efectivo y además servirá para garantizar la reparación del daño.
+
 ###### ARTICULO 499.
 
 La caución podrá consistir:
@@ -5348,3 +5352,7 @@ Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el 
 Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
 
 Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
