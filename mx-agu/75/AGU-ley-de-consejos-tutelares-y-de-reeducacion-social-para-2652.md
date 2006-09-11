@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-consejos-tutelares-y-de-reeducacion-social-para-2652"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-17"
-last_updated: "2004-02-12"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 17 de enero de 1982.
 
@@ -686,3 +688,33 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Consejos Tutelares y Reeducación Social para Menores del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado Número Tres, Tomo XLV, de fecha 17 de enero de 1982 y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigencia del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán proceder a realizar los nombramientos de las autoridades encargadas de la aplicación de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos y personal del Centro Tutelar para Menores del Estado de Aguascalientes pasarán a formar parte del Centro Estatal, así como el personal necesario en los términos de la presente Ley, por lo que se autoriza al titular del Poder Ejecutivo realizar las reasignaciones presupuestales que ello impliquen.
+
+###### ARTÍCULO QUINTO.
+
+Los procesos penales en trámite a la entrada en vigencia de la presente Ley, que se lleven con motivo de la comisión de hechos punibles en los que se encuentre como inculpado una persona que al momento de su comisión era menor de dieciocho años, se remitirán a las autoridades especializadas previstas en el presente ordenamiento, para efecto de que los adolescentes sean sometidos al Sistema y se reponga el procedimiento correspondiente ajustándose a los extremos de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los procesos seguidos ante el Consejo Tutelar Central para Menores se remitirán a las autoridades especializadas previstas en el presente ordenamiento, para efecto de que los adolescentes sean sometidos al Sistema y se reponga el procedimiento correspondiente ajustándose a los extremos de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los quince días siguientes a la publicación de la presente Ley en el Periódico Oficial del Estado, se deberá instalar una Comisión de Evaluación y Seguimiento de la implementación del Sistema, cuya vigencia será de un año y la cual tendrá como objetivo elaborar informes trimestrales del análisis realizado. La Comisión estará integrada por dos representantes de los poderes Ejecutivo, Judicial y Legislativo, y de la Procuraduría General de Justicia del Estado, así como uno de la Comisión Estatal de Derechos Humanos. La coordinación de la Comisión de Evaluación y Seguimiento, estará a cargo del Secretario General de Gobierno, al cual le corresponde convocar para la instalación y cumplimiento de los objetivos de la misma.
