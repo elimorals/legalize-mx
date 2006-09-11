@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2006-06-19"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,17 +43,17 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, Juzgados de Primera Instancia Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, Juzgados de Primera Instancia Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, de Justicia para Adolescentes, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 2o.
 
-El Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, la Ley Electoral del Estado, la Ley del Procedimiento Administrativo y demás leyes vigentes.
+El Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, la Ley Electoral del Estado, la Ley del Procedimiento Administrativo, la Ley del Sistema de Justicia para Adolescentes y demás leyes vigentes.
 
 ###### ARTICULO 3o.
 
@@ -691,19 +691,75 @@ II.- Practicar las diligencias que les encomiende el Magistrado; y
 
 III.- Las demás que señalen las disposiciones legales aplicables.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO PRIMERO QUATER
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 33 O.- En materia de justicia para adolescentes, habrá los siguientes Jueces: de Preparación y Especializados para Adolescentes; y un Magistrado para Adolescentes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 33 P.- Los Juzgados de Preparación para Adolescentes, conocerán de todos los asuntos previstos en el Artículo 24 de la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes, así como de los demás asuntos que le encomienden las leyes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 33 Q.- Los Juzgados Especializados para Adolescentes, conocerán de:
+
+I. Las causas instauradas en contra de las personas a quienes se impute la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes, cuando tenían entre doce años cumplidos y dieciocho no cumplidos;
+
+II. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley del Sistema de Justicia para Adolescentes;
+
+III. Resolver sobre las medidas a imponer, atendiendo a los principios rectores del Sistema de Justicia para Adolescentes, a las circunstancias, gravedad del hecho punible, características y necesidades de los adolescentes, así como a todo lo previsto en la Ley del sistema de Justicia para Adolescentes;
+
+IV. El procedimiento de ejecución de las medidas impuestas por el Juez Especializado en términos de lo establecido por la Ley del Sistema de Justicia para Adolescentes;
+
+V. Vigilar en todo momento el respeto, integridad, dignidad y el estricto cumplimiento de los derechos y garantías de los adolescentes, especialmente en los casos de medidas de internamiento;
+
+VI. Garantizar que los adolescentes y los adultos jóvenes internados permanezcan en centros especializados, distintos entre sí y de los destinados a los adultos;
+
+VII. Vigilar que la estructura física, equipamiento y funcionamiento del Centro Estatal para el Desarrollo del Adolescente sean adecuados para cumplir con lo establecido por la Ley del Sistema de Justicia para Adolescentes; y
+
+VIII. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
+
+(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)
+
+ARTICULO 33 R.- Los Juzgados de Justicia para Adolescentes, contarán con el personal que determine el Consejo de la Judicatura, entre éstos se nombrará a los Secretarios que además, de las atribuciones a que se refiere el Artículo 46 de esta Ley en lo que sea aplicable, tendrá las siguientes:
+
+I. Asentar en los procesos las certificaciones de los trámites judiciales y las demás razones que la Ley establezca;
+
+II. Hacer las notificaciones, practicar los aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley, o por determinación judicial; y
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+III. Las demás que les ordenen los Jueces de Justicia para Adolescentes, necesarias para la función jurisdiccional que establece la Ley del Sistema de Justicia para Adolescentes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 33 S.- El Magistrado para Adolescentes, será designado de entre los Magistrados que integran el Supremo Tribunal de Justicia y será nombrado por el Pleno del Supremo Tribunal de Justicia, para que se especialice en la materia y conozca de los asuntos previstos por la Ley del Sistema de Justicia para Adolescentes, independientemente, de sus facultades y funciones como miembro del Pleno y salas.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 33 T.- Al Magistrado para Adolescentes le corresponderá conocer:
+
+I. En segunda instancia de las impugnaciones en contra de los Jueces de Preparación y Especializado, en términos de la Ley del Sistema de Justicia para Adolescentes; y
+
+II. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
+
 ## TITULO SEGUNDO
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
-
-## TITULO TERCERO
-
-### CAPITULO II. De los Juzgados Menores
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 34.
 
-Habrá en la capital del Estado los Juzgados de Primera Instancia, Civiles, Familiares, Penales y Mixtos que se distinguirán por los números ordinales que les correspondan que sean necesarios para la pronta administración de justicia; pero para la creación de un nuevo juzgado, el Supremo Tribunal de Justicia lo solicitará al H. Congreso del Estado, con la fundamentación necesaria.
+Habrá en la capital del Estado, los Juzgados de Primera Instancia, Civiles, Familiares, Penales, Mixtos y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia; pero para la creación de un nuevo juzgado, el Supremo Tribunal de Justicia lo solicitará al H. Congreso del Estado, con la fundamentación necesaria.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2006)</small>
 
@@ -713,11 +769,11 @@ Habrá en el Estado cinco partidos judiciales: el Primero comprenderá los Munic
 
 Para entrar al desempeño de sus funciones, los jueces protestarán ante el Pleno del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 36.
 
-Los jueces de primera instancia, civiles y penales, mixtos de primera instancia, familiares y mixtos menores, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo el juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
+Los jueces de primera instancia, civiles y penales, de justicia para adolescentes, mixtos de primera instancia, familiares y mixtos menores, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -895,7 +951,7 @@ Los Notificadores tendrán fe pública en el desempeño de sus funciones.
 
 Los servidores públicos tienen obligación de asistir a las horas de despacho y también a las extraordinarias que el Juez determine, dedicándose con eficiencia a sus labores, conforme a las órdenes que reciban del Juez y de los Secretarios de Acuerdos.
 
-### CAPITULO III. De los Peritos
+### CAPITULO II. De los Juzgados Menores
 
 ###### ARTICULO 51.
 
@@ -931,9 +987,7 @@ III.- Para diligenciar exhortos o despachos que reciban y que sean de su compete
 
 En los Juzgados Menores Mixtos actuará con el Juez un Secretario y tendrá la planta de empleados que fije el Presupuesto.
 
-### CAPITULO IV. Visita de Juzgados
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO III. De los Peritos
 
 ###### ARTICULO 55.
 
@@ -943,7 +997,9 @@ El Supremo Tribunal de Justicia formulará anualmente una lista de connotados pr
 
 En caso de que en la localidad no existan profesionales en la materia de que se trate, se estará a lo que disponga el Código Procesal de la materia.
 
-### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
+### CAPITULO IV. Visita de Juzgados
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 57.
 
@@ -955,9 +1011,7 @@ La visita general tendrá por objeto percatarse del despacho general de los nego
 
 Las visitas de que trate el artículo anterior serán presididas por el Magistrado Visitador, el acta respectiva la firmarán además el Juez y el Secretario del Juzgado en que se practique la visita.
 
-### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
 
 ###### ARTICULO 59.
 
@@ -989,7 +1043,9 @@ La sentencia será dictada por el pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 1995)</small>
 
-### CAPITULO I. Del Archivo Judicial
+### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 64.
 
@@ -1009,13 +1065,17 @@ Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas
 
 Los Magistrados Supernumerarios serán llamados en el orden de sus nombramientos para suplir a los Magistrados Propietarios en sus faltas temporales.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-Las faltas absolutas de los jueces civiles, penales, familiares y mixtos se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
+Las faltas absolutas de los jueces civiles, penales, familiares, de justicia para adolescentes y mixtos, se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 Las faltas temporales que no excedan de quince días se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar y en materia penal sólo definitivas.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado.
 
@@ -1037,7 +1097,9 @@ Las faltas absolutas, temporales o accidentales del Secretario del Supremo Tribu
 
 Las faltas de los demás servidores públicos de la administración de justicia, cuando excedan de quince días serán suplidas por la persona que se nombre.
 
-### CAPITULO II. De las Excitativas de Justicia
+## TITULO TERCERO
+
+### CAPITULO I. Del Archivo Judicial
 
 ###### ARTICULO 73.
 
@@ -1047,7 +1109,9 @@ El Archivo Judicial del Estado estará a cargo y cuidado del Secretario del Supr
 
 En el Archivo Judicial se depositarán:
 
-I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civiles, familiares y penales terminados en grado de apelación;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civiles, familiares, de justicia para adolescentes y penales terminados en grado de apelación;
 
 II.- Los procesos concluidos en apelación o primera instancia;
 
@@ -1059,9 +1123,11 @@ IV.- Los duplicados de los libros de entradas, archivos y demás que los jueces 
 
 V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal reciba.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 75.
 
-En los archivos de los Juzgados de Primera Instancia y Menores Mixtos se depositarán únicamente las actuaciones relativas a los negocios en trámite; los libros principales que deben llevarse; los oficios, circulares, leyes, decretos, comunicaciones y documentos que no deben agregarse a los expedientes en actual tramitación y sean de archivarse.
+En los archivos de los Juzgados de Primera Instancia, de Justicia para Adolescentes y Menores Mixtos, se depositarán únicamente las actuaciones relativas a los negocios en trámite; los libros principales que deben llevarse; los oficios, circulares, leyes, decretos, comunicaciones y documentos que no deben agregarse a los expedientes en actual tramitación y sean de archivarse.
 
 ###### ARTICULO 76.
 
@@ -1079,21 +1145,19 @@ Las copias certificadas y testimonios de documentos archivados sólo podrán exp
 
 Los documentos que obren en expedientes o actuaciones archivadas sólo podrán desglosarse para su entrega a quien tenga derecho a recibirlo.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 80.
 
-Los reglamentos del Supremo Tribunal de Justicia, del Tribunal Electoral y de los Juzgados de Primera Instancia y Menores Mixtos, respectivamente, determinarán la forma en que deba establecerse la oficina de archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
+Los reglamentos del Supremo Tribunal de Justicia, del Tribunal Electoral y de los Juzgados de Primera Instancia, de Justicia para Adolescentes y Menores Mixtos, respectivamente, determinarán la forma en que deba establecerse la oficina de (sic) archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
 
-### CAPITULO III. Del Fondo para la Administración de Justicia
+### CAPITULO II. De las Excitativas de Justicia
 
 ###### ARTICULO 81.
 
 Toda excitativa de justicia se promoverá por escrito ante la autoridad que haya hecho el nombramiento de aquélla contra quien se solicite, y se despachará o denegará previo informe justificado de ésta última con audiencia del Ministerio Público. Aquélla para rendir su informe y ésta para formular su pedimento, tendrá respectivamente el término de tres días, y de igual término gozará la autoridad que haya de resolver.
 
-### CAPITULO IV. Del Departamento de Computación e Informática
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1997)</small>
+### CAPITULO III. Del Fondo para la Administración de Justicia
 
 ###### ARTICULO 82.
 
@@ -1133,7 +1197,9 @@ d).- La capacitación, mejoramiento y especialización profesional del personal 
 
 La Secretaría de Finanzas informará mensualmente al Presidente del Supremo Tribunal de Justicia el estado contable del fondo, que se integra con los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común.
 
-### CAPITULO V. Disposiciones Generales
+### CAPITULO IV. Del Departamento de Computación e Informática
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 85.
 
@@ -1155,9 +1221,7 @@ e).- El registro computarizado y la informática de todas aquellas actividades d
 
 Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de computación e informática, tanto en la capital del Estado como en los Partidos Judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y el volumen de trabajo.
 
-### CAPITULO VI. Del Consejo de la Judicatura Estatal
-
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO V. Disposiciones Generales
 
 ###### ARTICULO 87.
 
@@ -1191,7 +1255,7 @@ Cuando el exceso de labores lo requiera, el Tribunal para evitar demoras en la a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
 
-### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
+### CAPITULO VI. Del Consejo de la Judicatura Estatal
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -1236,6 +1300,10 @@ VIII.- Conocer las denuncias que formulen los miembros del Consejo de la Judicat
 IX.- Las demás facultades que le confiera la Constitución Política del Estado, esta Ley y su reglamento.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+
+### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ### CAPITULO VIII. De la Contraloría Interna del Poder Judicial del Estado
 
@@ -1452,3 +1520,9 @@ SEGUNDO.- El Juzgado Mixto de Primera Instancia del Quinto Partido Judicial inic
 TERCERO.- Los asuntos que deba conocer el Juzgado Mixto de Primera Instancia del Quinto Partido Judicial, que estén en trámite, en los Juzgados Civiles, Familiares y Penales del Primer Partido Judicial, continuarán hasta su total conclusión en el Juzgado que se encuentran.
 
 CUARTO.- En tanto no entre en funcionamiento el Juzgado Mixto de Primera Instancia del Quinto Partido Judicial, seguirá conociendo des esta jurisdicción el Primer Partido Judicial.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
