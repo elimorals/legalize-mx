@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-defensoria-de-oficio-del-estado-de-13544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-18"
-last_updated: "2004-02-27"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 18 de agosto de 1993.
 
@@ -45,9 +45,11 @@ LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE SINALOA
 
 Las disposiciones del presente ordenamiento son de orden público e interés social y tienen por objeto regular la institución de la Defensoría de Oficio del Fuero Común del Estado y proveer a su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 2o.
 
-En el Estado habrá un Cuerpo de Defensores de Oficio del Fuero Común cuya finalidad será la de proporcionar, obligatoria y gratuitamente, los servicios jurídicos de defensa, patrocinio y asesoría en materia penal, civil, familiar y administrativa en los términos de los Artículos 20, fracción IX de la Constitución Política de los Estados Unidos Mexicanos y 78 de la Constitución Política del Estado de Sinaloa.
+En el Estado habrá un Cuerpo de Defensores de Oficio del Fuero Común cuya finalidad será la de proporcionar, obligatoria y gratuitamente, los servicios jurídicos de defensa, patrocinio y asesoría en materia penal, civil, familiar, administrativa y de justicia para adolescentes, en los términos de los Artículos 20, fracción IX de la Constitución Política de los Estados Unidos Mexicanos y 78 de la Constitución Política del Estado de Sinaloa.
 
 ###### ARTICULO 3o.
 
@@ -65,9 +67,11 @@ Por Defensor de Oficio se entiende al servidor público que, con tal nombramient
 
 ### CAPITULO II. DE LOS SERVICIOS JURIDICOS
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 6o.
 
-En los asuntos de orden penal, la defensa será proporcionada al acusado en los términos que dispone el Artículo 20 fracción IX, de la Constitución Política de los Estados Unidos Mexicanos.
+En los asuntos de orden penal y de justicia para adolescentes, la defensa será proporcionada al acusado en los términos que dispone el Artículo 20 fracción IX, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 7o.
 
@@ -159,9 +163,15 @@ El Jefe del Departamento Penal tendrá a su cargo la coordinación de los asunto
 
 Al Jefe del Departamento Civil y Familiar corresponde coordinar la prestación de servicios de la Dependencia en negocios de carácter civil y familiar para su adecuada atención.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 16 BIS.- Al Jefe del Departamento de Justicia para Adolescentes, corresponde coordinar la prestación de servicios de la Dependencia en los procedimientos previstos por la Ley de Justicia para Adolescentes, para su adecuada atención.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 17.
 
-El Jefe del Departamento de Formulación de Agravios, tendrá a su cargo la elaboración y contestación de agravios en segunda instancia, ante el Supremo Tribunal de Justicia del Estado.
+El Jefe del Departamento de Formulación de Agravios, tendrá a su cargo la elaboración y contestación de agravios en segunda instancia, ante el Supremo Tribunal de Justicia del Estado, con excepción de los asuntos relativos a justicia para adolescentes los cuales correrán a cargo del Departamento Especializado en esa materia.
 
 ### CAPITULO VI. DE LOS VISITADORES
 
@@ -331,6 +341,32 @@ V.- Llevar registro y control de los negocios que se atiendan, rindiendo periód
 
 VI.- Las demás que le asigne la Dirección o le imponga una defensa oportuna y eficaz.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 29 BIS.- Son atribuciones de los Defensores Especializados para Adolescentes:
+
+I. Ejercer la defensa legal de los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito en las leyes penales, en igualdad de circunstancias que su contraparte, desde el momento en el que sean presentados ante el Ministerio Público para Adolescentes y mientras estén sujetos a cualquiera de las fases del Sistema Estatal de Justicia para Adolescentes;
+
+II. Asistir al adolescente sujeto a la aplicación de la Ley de Justicia para Adolescentes, especialmente en aquellos momentos en los que por decisión de la autoridad se modifique su situación jurídica o se pongan en riesgo sus derechos o garantías;
+
+III. Mantener una comunicación constante con el adolescente, sus padres, tutores, o quien ejerza la patria potestad, o custodia, para informarles del devenir de la investigación, el proceso o la medida;
+
+IV. Pugnar para que en todo momento se respeten los derechos y garantías de los adolescentes a quienes defiende, y, en los términos del artículo 28 de esta ley, hacer del conocimiento inmediato de las autoridades correspondientes, así como de la Comisión Estatal de Derechos Humanos, cuando no se respeten tales derechos y garantías, o exista inminencia de que así suceda;
+
+V. Informar de inmediato al adolescente sujeto a la aplicación de la Ley de Justicia para Adolescentes, sobre su situación jurídica, así como los derechos y garantías que le otorgan las disposiciones legales aplicables;
+
+VI. Promover soluciones alternativas al proceso;
+
+VII. Solicitar al Ministerio Público para Adolescentes el no ejercicio de la remisión ante el Juez Especializado para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello;
+
+VIII. Realizar todos los trámites o gestiones necesarios, en tiempo y conforme a derecho para una eficaz defensa del adolescente, incluyendo ofrecimiento y desahogo de pruebas, realización de careos, formulación de alegatos, agravios, conclusiones, interposición de recursos, incidentes y demás actos conducentes;
+
+IX. Concurrir diariamente y durante las horas de oficina a los tribunales u oficinas de su adscripción;
+
+X. Llevar registro y control de los negocios que se atiendan, rindiendo periódicamente informe a la Dirección; y,
+
+XI. Las demás que le asigne la Dirección o le imponga una defensa oportuna y eficaz.
+
 #### SECCION CUARTA. DE LA CAPACITACION, EXCUSAS, RETIRO DEL SERVICIO Y RESPONSABILIDAD
 
 ###### ARTICULO 30.
@@ -347,9 +383,11 @@ IV.- Se extenderá la capacitación a los trabajadores sociales y peritos, en lo
 
 V.- Se otorgarán estímulos al personal cuyo desempeño lo amerite, para lo cual se preverá en el Presupuesto Anual de Egresos.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 31.
 
-Los Defensores de Oficio adscritos a la materia penal, podrán excusarse de aceptar o continuar la defensa de un acusado en los casos previstos en el Código de Procedimientos Penales del Estado.
+Los Defensores de Oficio adscritos a la materia penal y los Especializados para Adolescentes, podrán excusarse de aceptar o continuar la defensa de un acusado en los casos previstos en el Código de Procedimientos Penales para el Estado de Sinaloa.
 
 ###### ARTICULO 32.
 
@@ -532,3 +570,43 @@ P.O. 27 DE FEBRERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la iniciación de la vigencia de este Decreto, se abroga la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y su Reglamento, así como las normas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las autoridades correspondientes, deberán expedir los reglamentos que se prevén en la Ley de Justicia para Adolescentes del Estado de Sinaloa, así como realizar las adecuaciones presupuestales y orgánicas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del plazo de entrada en vigor del presente Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, deberá expedir los reglamentos e implementar las acciones que sean necesarias para cumplir con su obligación de otorgar rehabilitación y asistencia social especializada a los menores de doce años de edad que hayan realizado conductas tipificadas como delitos en las leyes penales, en los términos del artículo 43 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa; así como a lo señalado por el artículo 18 de la Constitución Federal y la Convención sobre los Derechos del Niño.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal y el Supremo Tribunal de Justicia, en sus respectivos ámbitos de competencia, establecerán procedimientos y programas para la selección y capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración e impartición de justicia para adolescentes que infrinjan la ley penal, así como en la ejecución de las medidas de tratamiento.
+
+###### ARTÍCULO SEXTO.
+
+Las instituciones encargadas de la formación de los agentes de las policías deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor el presente Decreto, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los tratados internacionales y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Tutelar para Menores previsto en la Ley que se abroga en el transitorio segundo podrá seguir actuando válidamente a la entrada en vigor del presente Decreto, únicamente para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo a las siguientes reglas:
+
+a) Los asuntos sometidos al Consejo Tutelar para Menores en los que aún no haya emitido resolución inicial, los remitirá al Juez Especializado quien realizará la valoración de los datos y elementos de convicción que obren en el expediente y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+b) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución inicial los remitirá al Juez Especializado quien examinará y valorará los datos y elementos de convicción que obren en el expediente y que hayan servido de base a la resolución, y dictará, en su caso, el auto de sujeción a proceso por el que deberá seguirse la causa, así como las medidas cautelares que le solicite el Ministerio Público. Los adolescentes, privados de su libertad deberán ser puestos inmediatamente a disposición del Juez Especializado competente en el Centro de Internamiento para Adolescentes.
+
+c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución definitiva y los adolescentes se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa, en todo aquello que les beneficie. El Director del Centro de Observación y Readaptación del Consejo Tutelar para Menores remitirá al Órgano de Ejecución de Medidas para Adolescentes los expedientes relacionados con el cumplimiento de dichas medidas. El Juez Especializado, con audiencia del adolescente, sus padres, tutores o representantes legales y del Ministerio Público, podrá adecuar la medida correspondiente en los términos de lo previsto en la Ley de Justicia para Adolescentes del Estado de Sinaloa. En caso de duda sobre el régimen más favorable, se consultará al menor, a sus padres, tutores o representantes legales, atendiendo a los principios rectores de la Ley invocada.
+
+d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
+
+e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
