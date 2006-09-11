@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adaptacion-social-y-de-los-consejos-tutelares-para-6736"
 country: "mx"
 rank: "ley"
 publication_date: "1980-09-30"
-last_updated: "1998-09-08"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE ADAPTACION SOCIAL Y DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: DEROGADA.
 
 Ley publicada en el Numero Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el martes 30 de septiembre de 1980.
 
@@ -548,3 +550,21 @@ SÉPTIMO. Se respetarán los derechos laborales adquiridos de los trabajadores q
 OCTAVO. En tanto se establecen los Centros Regionales, el Centro de Observación y Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal prestará sus servicios en toda la entidad.
 
 NOVENO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+G.O. 11 DE SEPTIEMBRE DE 2006.
+
+Primero. Esta ley entrará en vigor seis meses después de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Queda derogada la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores del Estado de Veracruz de 19 de septiembre de 1980 y todas las normas que se opongan al presente decreto.
+
+Tercero. Dentro del plazo de entrada en vigor de la presente Ley, el ejecutivo creará la Dirección general de medidas sancionadoras como organismo público desconcentrado de la Secretaría de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Cuarto. Dentro del plazo de entrada en vigor de la presente Ley, el Ejecutivo estatal y las autoridades estatales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+Quinto. Los adolescentes comprendidos en el artículo 3, fracción II, de esta ley que se encuentren procesados en el sistema penal para adultos, serán remitidos al Juez Especializado a la entrada en vigor de esta ley.
+
+Sexto. Los condenados a pena privativa de la libertad por sentencia ejecutoriada a la fecha de entrada en vigor de este ordenamiento, serán remitidos a los centros especializados a los que se refiere esta ley y su sentencia será revisada para adecuarla a los criterios que la misma establece.
+
+Séptimo. A la entrada en vigor de esta ley, las investigaciones ministeriales iniciadas en contra de los sujetos que comprende la misma serán remitidas al Ministerio Público Especializado en Adolescentes.
+
+Octavo. Las órdenes de aprehensión y de comparecencia libradas contra los adolescentes que comprende esta ley y que no hubieren sido ejecutadas, al entrar en vigor esta ley, quedarán sin efecto y, a solicitud del Ministerio Público Especializado, los Jueces las librarán nuevamente si procediere.
