@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-consejo-tutelar-para-menores-infractores-del-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "1981-06-12"
-last_updated: "1994-07-22"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 12 de junio de 1981.
 
@@ -430,3 +432,43 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Consejo Tutelar Para Menores Infractores del Estado Libere y Soberano de Puebla, publicada en el Periódico Oficial del Estado, el doce de junio de mil novecientos ochenta y uno.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades y órganos que prevé el presente ordenamiento, deberán ser nombradas y protestar sus cargos en términos de la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Los expedientes de los asuntos que se encuentran en trámite y en los que se presuma la participación de un adolescente, se seguirán tramitando conforme a las disposiciones previstas en el presente Código.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Código, las autoridades competentes enviarán a la Secretaría de Gobernación los expedientes de las personas que hayan realizado una conducta tipificada como delito y estén internados en el Centro de Observación y Readaptación Social de Menores Infractores del Estado de Puebla o recluidas en cualquier Centro de Readaptación Social por sentencia ejecutoriada dictada por los tribunales del Estado, para que a través del área que corresponda, revise y resuelva de oficio la situación jurídica de estas personas, mediante procedimiento de excepción que se substanciará administrativamente en los mismos términos que establece el artículo 290 de este Código para la extinción, total o parcial, de las medidas impuestas, en lo que resulten aplicables y dando vista al Ministerio Público, en su caso.
+
+Durante el trámite de los procedimientos a que se refiere el párrafo anterior, las personas sujetas al mismo seguirán internas en los Centros en que se encuentren, a disposición del Ejecutivo del Estado, y contra las resoluciones que pongan fin a los mismos no procede recurso alguno.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá aprobar y publicar las disposiciones reglamentarias relacionadas con el presente Código que se requieran, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección, capacitación inicial y permanente de los funcionarios que formarán parte de las autoridades e instituciones encargadas de la aplicación del presente Código, en materia de protección de los derechos de los adolescentes, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos especializados e instituciones académicas.
+
+###### ARTÍCULO OCTAVO.
+
+Las instituciones encargadas de la formación profesional de Agentes del Ministerio Público y de la Policía Judicial deberán incluir, en los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los Tratados Internacionales y demás ordenamientos aplicables.
+
+###### ARTÍCULO NOVENO.
+
+Las erogaciones que deriven de la aplicación de este ordenamiento, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado Libre y Soberano de Puebla.
