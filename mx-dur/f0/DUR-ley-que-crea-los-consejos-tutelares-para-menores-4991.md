@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-los-consejos-tutelares-para-menores-4991"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-13"
-last_updated: "1997-12-07"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de mayo de 1979.
 
@@ -884,3 +886,81 @@ P.O. 7 DE DICIEMBRE DE 1997.
 PRIMERO.- El Ejecutivo del Estado, dispondrá el establecimiento de los Centros de Observación para aquellos menores que aún encontrándose en tratamiento, hayan cumplido 16 años.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que crea los Consejos Tutelares para Menores Infractores del Estado de Durango, aprobada mediante decreto numero 100, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, numero 38 de fecha 13 de mayo de 1979 y sus reformas publicadas en los Periódicos Oficiales del Gobierno del Estado en los números 48 y 46 de fechas 17 de julio de 1993 y 7 de diciembre de 1997.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades del Consejo Tutelar para Menores Infractores del Estado de Durango a que se refiere la ley que se abroga en el artículo transitorio anterior, podrán seguir actuando válidamente a la entrada en vigencia del presente Código, para los efectos de remitir los asuntos que eran de su conocimiento a la autoridad competente, de acuerdo con las siguientes reglas:
+
+a) Los procedimientos que estén instruyendo los Consejos Tutelares de Menores los remitirá de inmediato al Juez para Menores, poniendo a su disposición, en su caso, al menor que tuviere detenido;
+
+b) Los recursos de revisión que se hubiesen interpuesto conforme a la ley abrogada y que a la entrada en vigor del presente Código se encuentren en trámite, serán remitidos a la autoridad competente establecida en este ordenamiento para que los resuelva conforme a las reglas de la apelación, poniendo a su disposición, en su caso, al menor que tuviere detenido;
+
+c) Los directores de los Centros de Observación y Orientación para Menores Infractores entregarán a los directores de los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango, a los internos que estuvieren sujetos a alguna medida firmemente decretada y los expedientes a ellos relativos;
+
+Las medidas impuestas, tanto las de internamiento como las de externación, continuarán aplicándose por las nuevas autoridades;
+
+d) Si cualquiera de los Centros de Observación y Orientación para Menores Infractores tuviere detenidos a menores de catorce años, ordenará su inmediata libertad.
+
+Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento de acuerdo con las reglas de este Código, salvo en los aspectos en que resulte más benéfica para el menor la aplicación de la ley que se abroga, y
+
+e) Los Centros de Observación y Orientación para Menores Infractores, y los Consejos Tutelares de Menores, dentro del término establecido en la ley de la materia deberán realizar el acto de entrega-recepción.
+
+###### ARTÍCULO QUINTO.
+
+Las autoridades ministeriales que a la entrada en vigencia de la presente ley, se encuentren realizado (sic) investigaciones a personas que tenían entre dieciséis años cumplidos y menos de dieciocho años, al momento de la realización de la conducta tipificada como delito, las averiguaciones previas serán remitidas al Ministerio Público especializado a que se refiere este Código, para que éste, en su caso, haga suyas esas actuaciones, las continúe y determine lo que haya lugar; (sic)
+
+###### ARTÍCULO SEXTO.
+
+La Procuraduría de la Defensa del menor, la mujer y la familia dependiente del Sistema Estatal para el Desarrollo Integral de la Familia remitirá a la Defensoría de Oficio los asuntos de menores infractores de que esté conociendo, siempre que tengan más de doce años.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor del presente Código, los Centros de Observación y Orientación para Menores Infractores, deberán transformarse en los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango y se sujetarán a las disposiciones que prevén en el presente ordenamiento, debiendo adecuar su estructura en un plazo máximo de hasta treinta días naturales, contados a partir de la entrada en vigor de este Código.
+
+###### ARTÍCULO OCTAVO.
+
+Los bienes y el presupuesto asignados al Consejo Tutelar para Menores pasan a formar parte del patrimonio del Tribunal de Menores Infractores, con excepción de los bienes y el del presupuesto asignado a los Centros de Observación y Orientación para Menores Infractores, los cuales pasaran a formar parte de los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango.
+
+###### ARTÍCULO NOVENO.
+
+El personal de base de los Consejos Tutelares para Menores se reasignará al que crea este Código, de acuerdo a sus funciones y capacidad tomando en cuenta las disposiciones orgánicas del presente ordenamiento.
+
+###### ARTÍCULO DECIMO.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento al presente Código.
+
+###### ARTÍCULO DECIMO PRIMERO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al personal directivo de los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Código.
+
+###### ARTÍCULO DECIMO SEGUNDO.
+
+Dentro de los 10 días hábiles a la entrada en vigor del presente Decreto se deberá designar al Magistrado propietario y supernumerario y a los Jueces del Tribunal de Menores Infractores.
+
+En el caso de la designación inicial de los Magistrados, la designación será hecha por el Titular del Poder Ejecutivo del Estado y ratificada por el Congreso del Estado por votación de mayoría absoluta de los diputados.
+
+En el caso de la designación de los Jueces estos serán designados por C. Gobernador Constitucional del Estado de Durango, siempre y cuando las personas designadas cumplan con los requisitos establecidos en el presente Código.
+
+Los Magistrados, fungirán en su encargo hasta el 14 de septiembre de 2010; en el caso de los Jueces, por esta única ocasión duraran en su encargo un año, a partir de su nombramiento.
+
+###### ARTÍCULO DECIMO TERCERO.
+
+El Titular del Poder Ejecutivo deberá emitir los Reglamentos necesarios para la debida aplicación de este Código, dentro del plazo de quince días naturales, contados a partir de la entrada en funciones del Centro Especializado de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango.
+
+###### ARTÍCULO DECIMO CUARTO.
+
+El Presidente del Tribunal de (sic) deberá emitir el Reglamento Interno dentro del plazo de 15 días naturales contados a partir del momento de su entrada en funciones.
