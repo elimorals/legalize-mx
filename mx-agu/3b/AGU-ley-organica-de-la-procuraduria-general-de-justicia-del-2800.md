@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "2004-02-12"
+last_updated: "2006-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN LOS P.O., SE RECOMIENDA ACUDIR A LOS TEXTOS QUE SE VISUALIZAN DENTRO DE LAS CRONOLOGIAS CORRESPONDIENTES A DICHAS FECHAS, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -45,11 +45,11 @@ LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
 ### CAPITULO I
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTICULO 1º.
+###### ARTICULO 1o.
 
-La presente Ley tiene por objeto regular la organización y funcionamiento de la Procuraduría General de Justicia del Estado de Aguascalientes, como dependencia del Poder Ejecutivo, y a la que se integran la institución del Ministerio Público Estatal y sus órganos auxiliares, para el despacho de los asuntos que se le atribuyen por los Artículos 21 de la Constitución Política de los Estados Unidos Mexicanos; 60, 61 y 62 de la Constitución Política del Estado de Aguascalientes, la Legislación Penal para el Estado de Aguascalientes, la presente ley y las demás disposiciones legales aplicables.
+La presente Ley tiene por objeto regular la organización y funcionamiento de la Procuraduría General de Justicia del Estado de Aguascalientes, como dependencia del Poder Ejecutivo, y a la que se integran la Institución del Ministerio Público Estatal y sus órganos auxiliares, para el despacho de los asuntos que se le atribuyen por los Artículos 21 de la Constitución Política de los Estados Unidos Mexicanos; 60, 61 y 62 de la Constitución Política del Estado de Aguascalientes, la Legislación Penal para el Estado de Aguascalientes, la Ley del Sistema de Justicia para Adolescentes, la presente Ley y las demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
 
@@ -73,7 +73,7 @@ VI.- Las demás que las leyes y disposiciones aplicables le otorguen.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 3º.
+###### ARTICULO 3o.
 
 En la investigación de los hechos punibles y la persecución de sus autores, partícipes o cómplices, el Ministerio Público actuará con apoyo en la ciencia y tecnología y con pleno respeto a las garantías y derechos que se reconocen a los gobernados en la Constitución Política de los Estados Unidos Mexicanos, correspondiéndole:
 
@@ -123,6 +123,48 @@ IX.- Interponer los recursos contemplados en la Ley aplicable y conducentes a ca
 
 X.- En general, hacer todas las promociones que sean conducentes a la tramitación regular de los procedimientos de su incumbencia y realizar todas las demás atribuciones que la Ley y demás disposiciones aplicables le confieran.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+C).- En materia de Justicia para Adolescentes:
+
+I.- Recibir las denuncias que de manera verbal o escrita se le formulen relativas a comisión de hechos punibles atribuidos a adolescentes que puedan encuadrar dentro de alguna figura típica establecida en la Legislación Penal para el Estado de Aguascalientes;
+
+II.- Investigar la existencia de los hechos punibles atribuidos a adolescentes que puedan encuadrar dentro de alguna figura típica establecida en la Legislación Penal para el Estado de Aguascalientes, contando para ello con el auxilio de los funcionarios o elementos de Policía, sea cual fuere su denominación, así como de los peritos oficiales integrados a la Dirección de Servicios Periciales de la Procuraduría General de Justicia en el Estado;
+
+III.- Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de hechos punibles que encuadren dentro de alguna figura típica establecida en la Legislación Penal para el Estado de Aguascalientes, atribuidas a adolescentes, el análisis, diagnóstico, plan de trabajo y bitácora de las acciones de investigación;
+
+IV.- Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la Ley del Sistema de Justicia para Adolescentes, así como de las víctimas u ofendidos de los hechos presuntamente realizados por los adolescentes;
+
+V.- Informar de inmediato al adolescente, a sus familiares, a su defensor, su situación jurídica, así como los derechos que les asisten;
+
+VI.- Realizar lo conducente para que sea asignado un Defensor Público Especializado en Adolescentes, desde el momento en el que sea puesto a su disposición;
+
+VII.- Resolver dentro de los plazos y términos previstos en la Ley del Sistema de Justicia para Adolescentes, la situación jurídica de los adolescentes que sean puestos a su disposición;
+
+VIII.- En su caso, solicitar la suspensión del proceso a prueba;
+
+IX.- Dirigir personalmente las investigaciones que sean conducentes para formular el escrito de acción de remisión;
+
+X.- Valorar los resultados de su investigación, con el fin de determinar la posición del órgano respecto del caso;
+
+XI.- Formular el escrito de acción de remisión y poner inmediatamente a los adolescentes a disposición del Juez de Preparación para Adolescentes, en los casos en que resulte procedente;
+
+XII.- Procurar, en los casos procedentes, la conciliación entre el adolescente y la víctima u ofendido, así como la utilización de formas alternativas al juicio y los modos simplificados de terminación del proceso;
+
+XIII.- Garantizar que no se mantenga al adolescente incomunicado, ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
+
+XIV.- Solicitar al Juez de Preparación la imposición de medidas cautelares;
+
+XV.- Asesorar al a víctima durante la fase de investigación y juicio;
+
+XVI.- Presentar recursos en los casos que proceda;
+
+XVII.- Solicitar la reparación del daño para la víctima cuando proceda, y realizar todas las acciones tendientes a obtenerla;
+
+XVIII.- Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia; y
+
+XIX.- Las demás que sean conducentes y que determine la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 4o.
@@ -147,7 +189,7 @@ La protección de los menores o incapaces, consiste en la intervención del Mini
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 6º.
+###### ARTICULO 6o.
 
 La intervención del Ministerio Público en la aplicación de las medidas de política criminal, incluye su obligación de vigilar y promover lo conducente, a fin de que las sentencias definitivas dictadas en los procedimientos penales sean estrictamente cumplidas, y de practicar visitas a los reclusorios en la Entidad, escuchando las quejas que se reciban de los internos, e iniciar la averiguación que corresponda de tratarse de algún hecho posiblemente constitutivo de delito, sin perjuicio de poner los hechos en el conocimiento de las autoridades encargadas de la reclusión.
 
@@ -159,7 +201,7 @@ El Procurador intervendrá por sí o por conducto de los Agentes del Ministerio 
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
 
-###### ARTICULO 8º.
+###### ARTICULO 8o.
 
 Para el cumplimiento de sus atribuciones, el Ministerio Público podrá requerir informes, documentos y opiniones de las dependencias y entidades de la Administración Pública Estatal, así como de otras autoridades y entidades, en la medida en que puedan suministrar elementos para el debido ejercicio de sus atribuciones y funciones. Asimismo, podrá requerir informes y documentos de los particulares, para los mismos fines, en los términos previstos por las leyes respectivas.
 
@@ -169,7 +211,7 @@ Para el cumplimiento de sus atribuciones, el Ministerio Público podrá requerir
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 9º.
+###### ARTICULO 9o.
 
 La Procuraduría General de Justicia del Estado estará presidida por el Procurador, jefe de la institución del Ministerio Público y sus órganos auxiliares. Para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su competencia, se integrará por los órganos siguientes:
 
@@ -205,7 +247,9 @@ XIII. DIRECCION GENERAL DE CONTRALORIA INTERNA.
 
 Los funcionarios públicos señalados en el Artículo anterior, auxiliarán al Procurador en las funciones que esta Ley le encomiende y, por delegación que haga el titular mediante acuerdo, resolverán los casos en que se consulte, por parte de los interesados, la formulación de conclusiones no acusatorias, y el desistimiento de la acción penal, así como las consultas que el Agente del Ministerio Público formule a las prevenciones que la autoridad judicial acuerde, en los términos que la Ley establezca, a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie la sentencia.
 
-Serán Agentes del Ministerio Público para todos los efectos legales que corresponda y con todas las atribuciones que esta Ley señala: el Procurador, los Subprocuradores, los Directores Generales de Asuntos Jurídicos, Averiguaciones Previas y Control de Procesos y los adscritos a la Policía Ministerial, Agencias Integradoras y Jueces Civiles, Familiares y Penales, designados para tal efecto por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Serán Agentes del Ministerio Público para todos los efectos legales que corresponda y con todas las atribuciones que esta Ley señala: el Procurador, los Subprocuradores, los Directores Generales de Asuntos Jurídicos, Averiguaciones Previas y Control de Procesos, el Ministerio Público Especializado en Adolescentes, y los adscritos a la Policía Ministerial, Agencias Integradoras y Jueces Civiles, Familiares, Penales, designados para tal efecto por el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -231,7 +275,9 @@ Asimismo, los funcionarios o elementos de la policía, sea identificada ésta co
 
 El Procurador General de Justicia del Estado, los Subprocuradores, los Directores Generales a que se refiere el Artículo 9o. del presente Ordenamiento Jurídico, los Agentes del Ministerio Público y de la Policía Ministerial, así como los servidores públicos auxiliares del Procurador, serán nombrados y removidos libremente por el Gobernador Constitucional del Estado.
 
-El nombramiento del Procurador, de conformidad con lo previsto en el segundo párrafo del Articulo 7o. de la Ley Orgánica del Poder Ejecutivo del Estado, en concordancia con la fracción XXXII del Artículo 27 de la Constitución Política Local, deberá ser ratificado por el H. Congreso del Estado, previa comparecencia del nominado en la forma que aquél determine.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+El nombramiento del Procurador, de conformidad con lo previsto en el segundo párrafo del Artículo 7º de la Ley Orgánica de la Administración Pública, en concordancia con la Fracción XXXII del Artículo 27 de la Constitución Política Local, deberá ser ratificado por el H. Congreso del Estado, previa comparecencia del nominado en la forma que aquél determine.
 
 Para ser Procurador, se requiere reunir los requisitos establecidos en el Artículo 53 de la Constitución del Estado.
 
@@ -279,7 +325,9 @@ El personal no citado en el artículo anterior, para ingresar o permanecer al se
 
 El Procurador General de Justicia en el Estado expedirá los acuerdos, circulares y los manuales de organización y procedimientos conducentes al buen despacho de las funciones de la Procuraduría, y resolverá por sí o por conducto del funcionario que determine, sobre el ingreso, la promoción, la adscripción, las renuncias, las sanciones y los estímulos de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo Estatal y quienes presten a éste sus servicios.
 
-Será facultad indelegable del Procurador General de Justicia en el Estado, bajo su más estricta responsabilidad, decidir sobre el ingreso, la promoción, la adscripción, las renuncias, sanciones y estímulos a los Agentes del Ministerio Público Especializados en Delitos Electorales, Delitos Sexuales y Delitos Contra la Familia, así como determinar el número de agentes que desempeñen tales funciones.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Será facultad indelegable del Procurador General de Justicia en el Estado, bajo su más estricta responsabilidad, decidir sobre el ingreso, la promoción, la adscripción, las renuncias, sanciones y estímulos a los Agentes del Ministerio Público Especializados en Adolescentes, Delitos Electorales, Delitos Sexuales, Delitos Contra la Familia, así como determinar el número de agentes que desempeñen tales funciones.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
@@ -502,3 +550,9 @@ SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presen
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
