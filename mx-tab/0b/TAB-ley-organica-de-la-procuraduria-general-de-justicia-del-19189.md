@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-19189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -95,7 +95,9 @@ VI. Realizar el aseguramiento de los instrumentos, objetos y productos del delit
 
 VII. Ordenar la detención de los probables responsables en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y de la legislación procesal correspondiente;
 
-VIII. Poner a disposición del Consejo Tutelar para Menores Infractores del Estado, a los menores de 17 años que hubieren cometido infracciones correspondientes a ilícitos tipificados por la ley penal;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VIII. Ejercitar la acción legal ante el Juez Especializado, a las personas que tengan entre 12 años cumplidos y menos de 18 años de edad y que hubieren cometido conductas tipificadas como delito por la ley penal;
 
 IX. Promover la conciliación en los delitos perseguibles por querella;
 
@@ -157,7 +159,9 @@ II. Tramitar incidentes penales ante órganos jurisdiccionales de los cuales ten
 
 III. Promover la conciliación en los asuntos del orden familiar, como instancia previa al órgano jurisdiccional; y
 
-IV. Coordinarse con otras instituciones que tengan por objeto la asistencia social de menores e incapaces para brindarles protección.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Coordinarse con otras instituciones que tengan por objeto la asistencia social para las personas menores de doce años de edad e incapaces para brindarles protección.
 
 ###### ARTICULO 8.
 
@@ -474,3 +478,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. CARLOS MANUEL PEREZ PRIEGO.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
