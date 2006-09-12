@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-defensoria-social-y-de-oficio-del-estado-de-san-luis-149
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-06"
-last_updated: "2002-06-15"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEFENSORIA SOCIAL Y DE OFICIO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de agosto de 1999.
 
@@ -47,21 +47,17 @@ LEY DE DEFENSORIA SOCIAL Y DE OFICIO DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO I. DE LA NATURALEZA Y OBJETO
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 1º.
 
-La presente Ley tiene por objeto sentar las bases de la defensa social de los habitantes del Estado, ante cualquier autoridad y establecer los servicios de asesoría de los mismos en toda controversia jurisdiccional; así como las de la defensa de oficio; y regular el funcionamiento y organización de la Coordinación General de la Defensoría Social y de Oficio, para dar cumplimiento a los postulados del artículo 18 de la Constitución Política del Estado, y 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos.
+La presente Ley tiene por objeto sentar las bases de la defensa social de los habitantes del Estado, ante cualquier autoridad; y establecer los servicios de asesorí a (sic) de los mismos en toda controversia jurisdiccional; así como, las de la defensa de oficio; y regular el funcionamiento y organización de la Coordinación General de la Defensorí a (sic) Social y de Oficio, para dar cumplimiento a los postulados del artí culo (sic) 18 de la Constitución Polí tica (sic) del Estado; 18 y 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos; y la Ley de Justicia Para (sic) Menores del Estado de San Luis Potosí.
 
-La Coordinación General de la Defensoría Social y de Oficio, estará adscrita y dependerá en forma directa del Despacho del Ejecutivo.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 2º.
 
-La Coordinación General de la Defensoría Social y de Oficio, vinculará sus acciones con todas las dependencias de Gobierno que tengan como propósito la atención de los sectores de la población que por razones económicas, sociales, étnicas, geográficas o culturales, demanden la actuación del Gobierno en la prestación de sus servicios públicos y en la satisfacción de sus necesidades.
-
-La Coordinación General de la Defensoría Social y de Oficio representará los intereses específicos, individuales o colectivos de las personas pertenecientes a los sectores antes citados, ante las distintas autoridades promoviendo su defensa y protección, ante las autoridades administrativas y los órganos jurisdiccionales, según sea el caso, y prestará la defensa a que se refiere la fracción IX del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+La Coordinación General de la Defensorí a (sic) Social y de Oficio, vinculará sus acciones con todas las dependencias de Gobierno, que tengan como propósito la atención de los sectores de la población que por razones económicas, sociales, étnicas, geográficas o culturales, o de justicia para menores, que demanden la actuación del Gobierno en la prestación de sus servicios públicos y en la satisfacción de sus necesidades.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
@@ -219,17 +215,29 @@ IX. Recabar los informes de gestión que le deberán rendir por escrito en forma
 
 X. Nombrar y remover con el acuerdo del Ejecutivo, al personal de la dependencia;
 
-XI. Designar abogados visitadores responsables de la inspección de los trabajos de los abogados defensores;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XII. Encomendar directamente a los abogados defensores de las distintas áreas aquellos asuntos que considere convenientes;
+XI. Designar abogados defensores de Oficio para menores;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XIII. Llevar a cabo por sí o a través de los órganos y áreas de la Coordinación General de la Defensoría Social y de Oficio, las acciones previstas en la presente Ley y sus reglamentos, para dar cumplimiento al objeto de la misma;
+XII. Designar abogados visitadores, o responsables de la inspección de los trabajos de los abogados defensores;
 
-XIV. Otorgar permisos, licencias y comisiones al personal de la dependencia, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XV. Las que expresamente le encomiende el Titular del Poder Ejecutivo, le señalen la presente Ley y sus reglamentos, y los demás ordenamientos legales aplicables.
+XIII. Encomendar directamente a los abogados defensores de las distintas áreas, aquellos asuntos que considere convenientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XIV. Llevar a cabo por sí o a través de los órganos y áreas de la Coordinación General de la Defensorí a (sic) Social y de Oficio, las acciones previstas en la presente Ley y sus reglamentos, para dar cumplimiento al objeto de la misma;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XV. Otorgar permisos, licencias y comisiones al personal de la dependencia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Las que expresamente le encomiende el Titular del Poder Ejecutivo; le señalen la presente Ley y sus reglamentos; y los demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2002)</small>
 
@@ -372,6 +380,10 @@ Los Defensores de Oficio deberán cumplir con los mismos requisitos que para ser
 Los abogados defensores adscritos a la Dirección de la Defensoría de Oficio, prestarán sus servicios profesionales de manera exclusiva al Estado de acuerdo con el contenido de esta Ley. Su jornada laboral se sujetará al horario que establece la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
 
 Asimismo, están obligados a rendir a la Dirección de su adscripción, un informe mensual sobre las acciones, promociones, gestiones y todo cuanto se relacione con la asistencia judicial que presten en los diversos asuntos de su atención.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Tratándose de los defensores de Oficio para menores, además de reunir los mismos requisitos que para ser Defensor Social, deberán acreditar los cursos de capacitación organizados por la Coordinación General de la Defensorí a (sic) Social y de Oficio.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
 
@@ -566,3 +578,29 @@ Los Defensores de Oficio podrán optar por la liquidación o manifestar expresam
 CUARTO. El Coordinador General de la Defensoría Social dictará las medidas necesarias para que los procesos y asuntos atendidos por los Defensores de Oficio que sean liquidados, continúen siendo atendidos diligentemente y conforme lo marca la ley, debiendo dar aviso y acreditar oportunamente en los procesos penales que correspondan del cambio de defensor de oficio, según sea el caso.
 
 QUINTO. Se deroga el artículo Transitorio Sexto de la Ley de Defensoría Social del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 6 de agosto de 1999.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el dí a (sic) doce de septiembre del año dos mil seis, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La situación jurí dica (sic) de las personas que se encuentren compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (dic) de los Estados Unidos Mexicanos, de la siguiente manera:
+
+El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez Especializado para que resuelva lo procedente.
+
+CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+QUINTO. Las autoridades del Consejo Tutelar para Menores Infractores del Estado, a que se refiere la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado de San Luis Potosí, podrán seguir actuando válidamente a la entrada en vigor de la Ley de Justicia para Menores del Estado de San Luis Potosí, para los efectos de remitir los asuntos que eran de su conocimiento, a la autoridad competente; de acuerdo con las siguientes reglas:
+
+a) Los asuntos que estén conociendo en investigación o integración las autoridades del Consejo Tutelar para Menores del Estado, serán remitidos de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+b) El procedimiento que estén instruyendo las autoridades del Consejo Tutelar para Menores del Estado, será remitido de inmediato al Juez Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel Silva", entregará a la Dirección de Ejecución de Medidas para Menores, a los menores que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos.
+
+Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
+
+d) Si las autoridades del Consejo Tutelar par Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
