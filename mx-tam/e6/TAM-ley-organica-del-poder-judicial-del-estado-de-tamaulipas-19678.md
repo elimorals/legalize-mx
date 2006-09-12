@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2006-03-15"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -97,9 +97,11 @@ Los árbitros privados designados voluntariamente no ejercerán autoridad públi
 
 Los tribunales del Estado estarán expeditos para administrar justicia, que impartirán en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando prohibido a sus servidores públicos recibir cualquier remuneración, gratificación, donación u obsequio de objetos o valores, aún cuando la actividad correspondiente se realice fuera de los tribunales o de las horas de despacho o en días y horas habilitados legalmente.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-Los tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son hábiles todos los días del año excepto los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia, pero en relación con la jurisdicción penal, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
+###### ARTICULO 8°.
+
+Los tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son hábiles todos los días del año excepto los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
 
 Serán inhábiles los siguientes días:
 
@@ -119,7 +121,9 @@ VII.- El veinticinco de diciembre.
 
 Son horas hábiles las comprendidas entre las 8:00 y las 19:00 horas.
 
-Durante los días inhábiles deberán dejarse guardias que atiendan los términos constitucionales en materia penal y la concesión de la libertad provisional bajo caución, cuando proceda, sin perjuicio de las actividades propias de la función.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Durante los días inhábiles deberán dejarse guardias que atiendan los términos constitucionales en materia penal y de justicia para adolescentes y la concesión de la libertad provisional bajo caución, cuando proceda, sin perjuicio de las actividades propias de la función.
 
 ## TITULO SEGUNDO. DE LA RESIDENCIA Y ORGANIZACION TERRITORIAL
 
@@ -151,9 +155,15 @@ IX.- Los demás que los que la ley les confiera dicho carácter.
 
 El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales y los Jueces Menores residirán en las cabeceras municipales respectivas.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio en donde se encuentren ubicados los Centros de Reintegración Social y Familiar para Adolescentes Infractores.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 10.
 
-El territorio del Estado de Tamaulipas se divide en quince Distritos Judiciales, los cuales son:
+El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, se divide en quince Distritos, los cuales son:
 
 PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Victoria, Güemez y Casas.
 
@@ -186,6 +196,24 @@ DECIMO TERCER DISTRITO JUDICIAL: Cabecera en Río Bravo, y comprende el Municipi
 DECIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Municipio del mismo nombre.
 
 DECIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 10 Bis.
+
+El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
+
+Primer Distrito Judicial: Cabecera en Guémez, y comprende los Distritos Judiciales I, IX, X y XII.
+
+Segundo Distrito Judicial: Cabecera en Altamira, y comprende los Distritos Judiciales II y XV.
+
+Tercer Distrito Judicial: Cabecera en Nuevo Laredo, y comprende los Distritos Judiciales III y VI.
+
+Cuarto Distrito Judicial: Cabecera en Matamoros, y comprende los Distritos Judiciales IV, XI y XIV.
+
+Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judiciales V y XIII.
+
+Sexto Distrito Judicial: Cabecera en El Mante, y comprende los Distritos Judiciales VII y VIII.
 
 ###### ARTICULO 11.
 
@@ -347,11 +375,13 @@ XXII.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le
 
 Para el ejercicio de su función jurisdiccional, el Supremo Tribunal de Justicia tendrá ocho Salas que actuarán en forma unitaria, mas las Salas Auxiliares que determine el Pleno.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 27.
 
-Las Salas Unitarias Primera, Tercera y Quinta conocerán en Segunda Instancia de los asuntos de carácter patrimonial, civil y mercantil; la Segunda, Cuarta y Sexta, en materia penal; y la Séptima y Octava, los de índole familiar. Todas conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados todos los Magistrados titulares de las Salas de una misma materia.
+Las Salas Unitarias Primera, Tercera y Quinta conocerán en Segunda Instancia de los asuntos de carácter patrimonial, civil y mercantil; la Segunda, Cuarta y Sexta, en materia penal; la Séptima y la Octava de índole familiar, y una Sala Especializada en Justicia para Adolescentes que atenderá las cuestiones relativas a dicha materia, Todas conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados todos los Magistrados titulares de las Salas de una misma materia.
+
+La Sala Especializada en Justicia para Adolescentes resolverá los recursos a que se refiera la ley que regule el procedimiento para adolescentes a quienes se atribuya la comisión de un ilícito penal conforme a las leyes del Estado.
 
 ###### ARTICULO 28.
 
@@ -435,9 +465,15 @@ I.- Los Jueces de lo Civil;
 
 II.- Los Jueces de lo Familiar;
 
-III.- Los Jueces de lo Penal; y,
+III.- Los Jueces de lo Penal; y (sic),
 
-IV.- Los Jueces Mixtos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Los Jueces Especializados en Justicia para Adolescentes; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Los Jueces Mixtos.
 
 ###### ARTICULO 36.
 
@@ -526,6 +562,34 @@ III.- Practicar las diligencias que les encomiende el Supremo Tribunal de Justic
 IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del Título Sexto de esta ley; y,
 
 V.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 39 Bis.
+
+Corresponde a los Jueces Especializados en Justicia para Adolescentes, en los términos de la ley de la materia:
+
+I.- Conocer de las conductas tipificadas como delito en las leyes penales del Estado atribuidas a adolescentes conforme a la competencia en los términos de la ley de la materia;
+
+II.- Recabar la declaración preparatoria del adolescente a quien se le atribuya la comisión de una conducta tipificada como delito en las leyes penales del Estado;
+
+III.- Realizar las acciones conducentes para que le sea designado un defensor de oficio al adolescente desde el momento en el que sea puesto a su disposición;
+
+IV.- Garantizar los derechos fundamentales y específicos del adolescente detenido, asegurándose de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como las demás que apliquen a su situación;
+
+V.- Informar de inmediato al adolescente, a sus padres, tutores o quien ejerza la patria potestad y al defensor de aquél sobre la situación jurídica del caso, así como los derechos que les asisten;
+
+VI.- Otorgar al adolescente, a sus padres, tutores o quien ejerza la patria potestad y a su defensor, toda la información que conste en el registro del procedimiento y que soliciten para garantizar una efectiva defensa;
+
+VII.- Conceder la libertad bajo caución al adolescente, en los casos y con los requisitos determinados en la ley;
+
+VIII.- Cuando resulte procedente, fomentar la conciliación de las partes a través de las formas alternativas de justicia, pudiendo hacer uso de la mediación para la solución de la conducta tipificada como delito por las leyes penales;
+
+IX.- Realizar, cuando resulte procedente, todas aquellas diligencias solicitadas por el adolescente, sus padres, tutores o quien ejerza la patria potestad o su defensor para el esclarecimiento de los hechos;
+
+X.- Vigilar que el cumplimiento de las medidas que se apliquen con base en los principios rectores determinados en la sentencia definitiva, ejecutándose en sus términos, salvaguardando el debido proceso legal y demás derechos y garantías que asisten al adolescente infractor; y
+
+XI.- Desempeñar las demás funciones que les encomienden las leyes federales y del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1169,9 +1233,11 @@ Cuando el Presidente o el Pleno del Supremo Tribunal tengan conocimiento de hech
 
 El Supremo Tribunal de Justicia comisionará a un Magistrado o a un Juez, cuando lo estime conveniente, para efectuar visita de supervisión a los reclusorios del Estado, en los casos que legalmente proceda y se estime necesario.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 117.
 
-Las visitas no se practicarán en día fijo ni con previo aviso a los jefes o directores de los establecimientos respectivos. Los Jueces Penales y Mixtos estarán obligados a realizar cuando menos una visita bimestral a los reclusorios de su distrito.
+Las visitas no se practicarán en día fijo ni con previo aviso a los jefes o directores de los establecimientos respectivos. Los Jueces Penales y Mixtos, así como los Jueces Especializados en Justicia para Adolescentes estarán obligados a realizar cuando menos una visita bimestral a los reclusorios de su distrito y a los Centros de Reintegración Social y Familiar para Adolescentes Infractores por lo menos dos veces por mes.
 
 ###### ARTICULO 118.
 
@@ -1185,9 +1251,11 @@ III.- Supervisar el tratamiento que reciban los procesados; y,
 
 IV.- Constatar la estricta observancia de las prescripciones relativas al régimen penitenciario.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 119.
 
-El Magistrado o Juez que practique la visita lo hará acompañado del Secretario, quien levantará en cada visita una acta detallada en la que hará constar la información que reciban, así como las quejas y reclamaciones que presenten los presos a su disposición y las observaciones que hagan los jefes o directores de los reclusorios.
+El Magistrado o Juez que practique la visita al Centro Estatal de Readaptación Social lo hará acompañado del Secretario, quien levantará en cada visita un acta detallada en la que hará constar la información que reciban, así como las quejas y reclamaciones que presenten los presos a su disposición o los adolescentes infractores a quienes se hubiere impuesto tratamiento privativo de la libertad, y las observaciones que hagan los jefes o directores de los reclusorios o de los Centros de Reintegración Social y Familiar para Adolescentes Infractores.
 
 ###### ARTICULO 120.
 
@@ -1700,3 +1768,21 @@ P.O. 15 DE MARZO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y tendrá vigencia hasta el 31 de diciembre de 2007, con excepción de los artículos 22, 23, el segundo párrafo del artículo 31 y 32 Bis de la Ley Orgánica del Ministerio Público del Estado, y los artículos 8°, 9°, 10, 10 bis y 27 de la Ley Orgánica del Poder Judicial del Estado, que tendrán vigencia indefinida en tanto no los modifique o derogue el Decreto pertinente del H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Hasta en tanto no se instituya la Sala Especializada en Justicia para Adolescentes, conocerá de los asuntos relativos a esa materia, la Sala Supernumeraria existente.
+
+###### ARTICULO TERCERO.
+
+Las investigaciones que se estén integrando con motivo de conductas tipificadas como delitos por las leyes penales atribuídas a adolescentes, se tramitarán conforme a las disposiciones aplicables de este Decreto.
+
+###### ARTICULO CUARTO.
+
+Se autoriza al Ejecutivo del Estado para que en los términos del Decreto del Presupuesto de Egresos del Estado para el presente ejercicio fiscal, realice las adecuaciones necesarias a estructurar los servicios de su competencia previstos en el presente Decreto. En el caso del Poder Judicial del Estado, por conducto de su representante hará la solicitud de ampliación de recursos presupuestales al Ejecutivo del Estado para atender los servicios que le competen conforme a esa misma disposición. Las transferencias y ampliaciones necesarias se incluirán en la cuenta pública correspondiente.
