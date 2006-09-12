@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-consejo-tutelar-para-menores-infractores-7350"
 country: "mx"
 rank: "ley"
 publication_date: "1976-02-14"
-last_updated: "1993-02-16"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1993.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de febrero de 1976.
 
@@ -586,3 +588,25 @@ DADO en la residencia del Poder Ejecutivo del Estado, el día dos del mes de feb
 P.O. 16 DE FEBRERO DE 1993.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quinta Roo.
+
+SEGUNDO.- El Gobernador del Estado, el Consejo de la Judicatura del Poder Judicial del Estado y la Procuraduría General de Justicia del Estado, así como las autoridades estatales correspondientes, deberán expedir los acuerdos necesarios para la organización, funcionamiento e integración de las autoridades, órganos e instituciones que conforman el Sistema Integral de Justicia para Adolescentes.
+
+Se autoriza al Gobernador del Estado para realizar las adecuaciones y transferencias presupuestales que se requieran para el funcionamiento de las autoridades, órganos e instituciones previstas en esta Ley.
+
+TERCERO.- Se derogan las disposiciones de la Ley del Consejo Tutelar para Menores Infractores del Estado publicada en el Periódico Oficial del Gobierno del Estado de fecha 14 de Febrero de 1976, sus reformas, así como las demás disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Los beneficios que se otorga a los sujetos de esta Ley, serán exigibles ante el Juez para Adolescentes.
+
+Para tal efecto, el Juez ordinario remitirá al Juez para Adolescentes de la jurisdicción que corresponda, los autos de los procesos seguidos a adolescentes sujetos a procesos en el sistema penal para adultos o que hayan sido condenados a pena privativa de libertad por sentencia ejecutoriada, a la entrada en vigor de la presente Ley.
+
+Asimismo, el Consejo Tutelar para Menores Infractores del Estado remitirá al Juez para Adolescentes de la jurisdicción que corresponda, los expedientes de los adolescentes que se encuentren cumpliendo una medida de conformidad con la Ley del Consejo Tutelar que se deroga, a la entrada en vigor de esta Ley.
+
+Los Jueces para Adolescentes a los que se remitan los autos y expedientes a que se refieren los párrafos anteriores, deberán resolver sobre los beneficios exigidos por los adolescentes o sus representantes legales, dentro de los 120 días siguientes a la promoción correspondiente.
+
+Hasta en tanto los Jueces para Adolescentes resuelven sobre los beneficios exigidos, los adolescentes que se encuentren privados de su libertad por sentencia firme o cumpliendo una medida de conformidad con la citada Ley del Consejo Tutelar, serán transferidos a los centros especializados a que se refiere esta Ley.
+
+QUINTO.- Las órdenes de aprehensión, reaprehensión y comparecencia libradas contra los adolescentes que comprende esta Ley, y que no hubieren sido cumplimentadas a la entrada en vigor del presente ordenamiento, serán remitidas junto con sus respectivos expedientes al Juez para Adolescentes de la jurisdicción que corresponda, el cual las revisará y, en su caso, librará las órdenes de presentación y detención respectivas, si correspondiere de acuerdo a las disposiciones de esta Ley.
