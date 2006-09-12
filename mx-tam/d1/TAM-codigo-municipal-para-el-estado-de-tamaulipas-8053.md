@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2006-09-06"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1333,13 +1333,13 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-Para los efectos de este impuesto se considera:
+- Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
 a).- Predio urbano, el ubicado en las zonas urbanas determinadas por la Dirección de Catastro.
 
-b).- Predio suburbano, el ubicado en las zonas determinadas por Catastro y que son susceptibles de fraccionarse; se convertirán en urbanas, para el efecto de este impuesto al contar la zona en que se encuentren ubicados con servicios eléctricos, de agua o drenaje, que sean susceptibles a ser proporcionados por algún organismo público, descentralizado o no, sea cual fuere su forma de integración.
+b).- Predio suburbano, el ubicado en las zonas determinadas por Catastro y que son susceptibles de fraccionarse, se convertirán en urbanas, para el efecto de este impuesto al contar la zona en que se encuentren ubicados con servicios eléctricos, de agua o drenaje, que sean susceptibles a ser proporcionados por algún organismo público, descentralizado o no, sea cual fuere su forma de integración.
 
 c).- Predio rústico, el que se encuentra fuera de los límites de las zonas determinadas como urbanas y suburbanas.
 
@@ -2959,13 +2959,17 @@ I.- Custodiar todos los documentos a su cargo.
 
 II.- Proporcionar al gobierno y la administración municipales fuentes de información documentales para el eficaz cumplimiento de sus funciones.
 
-III.- Preservar, incrementar y difundir la documentación con valor histórico.
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Brindar un servicio de carácter social.
+III.- Apoyar al responsable de la Unidad de la Información Pública del Ayuntamiento, proporcionándole la documentación que requiera para la atención de las solicitudes que presenten particulares sobre información pública o en ejercicio de su derecho de habeas data con base en la ley.
 
-V.- Auxiliar en la investigación de temas y asuntos de interés general.
+IV.- Preservar, incrementar y difundir la documentación con valor histórico.
 
-VI.- Los demás que se desprendan de los ordenamientos legales aplicables.
+V.- Brindar un servicio de carácter social.
+
+VI.- Auxiliar en la investigación de temas y asuntos de interés general.
+
+VII.- Los demás que se desprendan de los ordenamientos legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -2981,13 +2985,19 @@ Para los efectos de este Código, son documentos de interés público toda infor
 
 Estos documentos serán considerados bienes del dominio público y son parte del patrimonio municipal; son inalienables e imprescriptibles, quedan fuera de comercio y está prohibida su enajenación o embargo.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Toda la información del acervo documental del Archivo General del Municipio que no esté considerada expresamente como de oficio por la Ley de Información Pública del Estado, estará sujeta a la clasificación que se determine de acuerdo a su naturaleza y con base en las disposiciones legales y reglamentarias aplicables.
+
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 298.
 
 En todo caso, la clasificación y catalogación del Archivo General del Municipio permitirá distinguir:
 
-I.- Los acervos de transferencia y concentración, constituidos con los documentos generados por la administración municipal cuyo trámite haya concluido o se encuentre interrumpido sin justificación ni causa bastante por más de seis meses, pero que por el contenido de su información sean susceptibles de ser consultados ocasionalmente por algún órgano o dependencia municipal.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Los acervos de transferencia y concentración, constituidos con los documentos generados por la administración municipal cuyo trámite haya concluido o se encuentre interrumpido sin justificación ni causa bastante por más de seis meses, pero que por el contenido de su información sean susceptibles de ser consultados ocasionalmente por algún órgano o dependencia municipal, y toda la información clasificada de oficio expresamente por la Ley de Información Pública del Estado.
 
 II.- Los acervos con valor histórico, integrados con documentos cuya antigüedad sea mayor de treinta años y su contenido informativo sea de tal trascendencia que merezcan ser preservados.
 
@@ -3011,7 +3021,9 @@ V.- Los informes anuales sobre el estado que guardan los negocios municipales.
 
 VI.- Las leyes en materia municipal aprobadas por el Congreso del Estado y sus reformas, así como los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general.
 
-VII.- Los demás actos que a juicio del Ayuntamiento deban ser registrados.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Los demás actos que a juicio del Ayuntamiento deban ser registrados o constituyan información pública de oficio expresamente establecida en la Ley de Información Pública del Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3047,9 +3059,15 @@ II.- Dictar políticas para el adecuado funcionamiento del Archivo General del M
 
 III.- Llevar el control administrativo de todos los acervos documentales y bienes particulares que se le encomienden.
 
-IV.- Autorizar copias simples o certificadas, reproducciones magnetofónicas o gráficas de los documentos y materiales a su cargo, conforme a las disposiciones de este Código y los reglamentos municipales aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Las demás que expresamente le atribuyan las disposiciones legales, reglamentarias y administrativas.
+IV.- Autorizar y proporcionar al responsable de la Unidad de Información Pública del Ayuntamiento copias simples o certificadas, reproducciones magnetofónicas o gráficas de los documentos y materiales a su cargo, para la atención de las solicitudes de información pública que se presenten en términos de la Ley de Información Pública del Estado.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Autorizar y supervisar la consulta del acervo documental del Archivo General por parte de los servidores públicos del Municipio, así como la reproducción de documentos por cualquier medio para usos estrictamente de carácter oficial, conforme a las disposiciones de este Código, de la Ley de Información Pública del Estado y de los reglamentos aplicables.
+
+VI.- Las demás que expresamente le atribuyan las disposiciones legales, reglamentarias y administrativas.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3079,11 +3097,11 @@ Cuando el desempeño de las funciones encomendadas lo requieran, los órganos y 
 
 Es responsabilidad del Ayuntamiento o, en su caso, del Presidente Municipal autorizar el préstamo de los originales o la expedición de copias certificadas de los mismos a los órganos y dependencias municipales.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 308.
 
-Los servidores públicos quedan impedidos para extraer del Archivo General del Municipio cualquier tipo de información para usos distintos a los oficiales.
+Los servidores públicos quedan impedidos para extraer del Archivo General del Municipio cualquier tipo de información para usos distintos a los oficiales o a los supuestos contenidos en la Ley de Información Pública del Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3123,29 +3141,29 @@ Las declaratorias deducidas del Capítulo II de este Título serán emitidas por
 
 El Archivo General del Municipio atenderá al público en los días y horarios que se determine de acuerdo con las necesidades del servicio.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 315.
 
-Toda persona podrá consultar los acervos con valor histórico del Archivo General del Municipio de, conformidad con las disposiciones reglamentarias y administrativas al efecto vigentes, que garantizarán su integridad y preservación.
+Toda persona podrá consultar los acervos con valor histórico del Archivo General del Municipio de conformidad con las disposiciones reglamentarias y administrativas vigentes, que garanticen su integridad y preservación, observando siempre en lo aplicable lo dispuesto por la Ley de Información Pública del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 Los documentos con valor histórico podrán reproducirse total o parcialmente en ediciones impresas o de cualquier otro tipo, a condición de indicar con claridad su procedencia y donar a favor del Archivo General del Municipio por lo menos dos ejemplares o sus equivalentes de tales ediciones o reproducciones.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 316.
 
-El público podrá solicitar información contenida en los catálogos de los acervos de transferencia o concentración, en términos del Reglamento respectivo, pudiendo solicitar la expedición de copias certificadas de los documentos ahí contenidos.
+Toda persona podrá solicitar a la Unidad de Información Pública del Ayuntamiento información contenida en los catálogos de los acervos de transferencia o concentración, en términos de la Ley de la Información Pública del Estado de Tamaulipas y del Reglamento respectivo, pudiendo solicitar al Ayuntamiento o al Presidente Municipal la expedición de copias certificadas de los documentos ahí contenidos una vez que haya sido autorizada su entrega por la Unidad.
 
-La solicitud deberá formularse por medio de cédulas que el Archivo General del Municipio proporcionará, en la que conforme al catálogo respectivo se anotarán los datos que permitan la pronta y plena identificación del documento solicitado. Además, bajo protesta de conducirse con verdad, el solicitante manifestará sus generales y el uso a los que destinará la copia certificada.
+La solicitud deberá formularse y presentarse ante la Unidad de Información Pública del Ayuntamiento en los términos establecidos en la Ley de Información Pública del Estado de Tamaulipas, misma que deberá de responderse en un término no mayor de 10 días hábiles contados a partir de la fecha en que fue recibida por la Unidad.
 
-En los términos del artículo 68, fracción IV, el Secretario del Ayuntamiento resolverá sobre la solicitud dentro de los cinco días hábiles que sigan a su recepción y, de estimarlo necesario, consultará previamente al titular del órgano o dependencia municipal de donde provenga el documento solicitado.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 317.
 
-En la prestación de los servicios al público del Archivo General del Municipio, se estará a lo establecido en este Código y en la Ley de Ingresos del Municipio.
+En la prestación de los servicios al público del Archivo General del Municipio, se estará a lo establecido en este Código, en la Ley de Información Pública del Estado, en la Ley de Ingresos del Municipio, y en los reglamentos aplicables.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3558,3 +3576,9 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
