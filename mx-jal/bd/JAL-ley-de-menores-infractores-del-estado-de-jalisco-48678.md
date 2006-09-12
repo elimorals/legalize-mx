@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-menores-infractores-del-estado-de-jalisco-48678"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-07"
-last_updated: "2006-01-07"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE MENORES INFRACTORES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicad en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 7 de enero de 2006.
 
@@ -1216,3 +1218,19 @@ El Secretario General de Gobierno
 GERARDO OCTAVIO SOLÍS GÓMEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor a los 120 días posteriores a su publicación en el Periódico Oficial "El Estado de Jalisco, salvo el artículo tercero y quinto transitorios del presente decreto que entrarán en vigor el día de su publicación.
+
+SEGUNDO. Se abroga la Ley de Menores Infractores del Estado de Jalisco expedida mediante decreto número 21202 del 22 de diciembre del 2005.
+
+TERCERO. En tanto entre en vigor la presente Ley, serán aplicables las disposiciones contenidas en la Ley de Readaptación Juvenil del Estado, para lo cual las autoridades competentes deberán sujetarse a los principios del sistema que garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos así como los Tratados Internacionales vigentes en la materia.
+
+CUARTO. A la Entrada en vigor de la presente Ley de Readaptación Juvenil del Estado de Jalisco expedida mediante decreto número 7262 del 9 de agosto de 1958.
+
+QUINTO. En tanto entra en vigor la presente ley, los Poderes Ejecutivo y Judicial deberán disponer de todos los recursos materiales y humanos necesarios para la implementación del Sistema de Justicia Integral que establece este ordenamiento, para lo cual en dicho término deberán de realizar las adecuaciones, presupuestales, orgánicas y reglamentarias, correspondientes, así mismo deberán preveerse (sic) la selección, capacitación de los servidores Públicos del personal del sistema.
+
+SEXTO. Los menores de edad sujetos a procedimiento establecido en los ordenamientos en materia de menores infractores a la entrada en vigor de la presente ley podrán acogerse a sus disposiciones en todo aquello que los beneficie.
