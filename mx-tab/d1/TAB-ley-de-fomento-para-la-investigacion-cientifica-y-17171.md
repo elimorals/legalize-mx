@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fomento-para-la-investigacion-cientifica-y-17171"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-27"
-last_updated: "2000-09-27"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE FOMENTO PARA LA INVESTIGACION CIENTIFICA Y DESARROLLO TECNOLOGICO PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 27 de septiembre de 2000.
 
@@ -65,7 +65,13 @@ IV. Establecer y garantizar los medios de concertación, vinculación y particip
 
 V. Vincular la investigación científica y tecnológica con la educación;
 
-VI. Establecer las bases conforme a las cuales el Consejo de Ciencia y Tecnología deba celebrar convenios de coordinación o colaboración con los sectores público y privado; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Establecer las bases conforme a las cuales el Consejo de Ciencia y Tecnología deba celebrar convenios de coordinación o colaboración con los sectores público y privado;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI BIS. Establecer las bases conforme a las cuales el Consejo de Ciencia y Tecnología deba celebrar convenios de coordinación y colaboración con los Centros de Internamiento, con el fin de promover la ciencia y la tecnología, y
 
 VII. Regular la aplicación de recursos destinados para el financiamiento de investigación y desarrollo tecnológico.
 
@@ -530,3 +536,15 @@ PRESIDENTE
 DIP. ELENA CRISTINA CORTÉS CELORIO
 
 SECRETARIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
