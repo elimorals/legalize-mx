@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2004-12-30"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -59,7 +59,9 @@ c).- La de instrucción que se desarrollará una vez dictado el auto de formal p
 
 d).- La de juicio, donde el Ministerio Público precisa su acción y el procesado su defensa, se celebra la audiencia de vista, el Tribunal valora las pruebas, dicta la sentencia definitiva y causa ejecutoria.
 
-II.- El procedimiento para inimputables, exceptuando a los menores de dieciséis años, el cual se regirá por la ley respectiva.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II.- El procedimiento para inimputables, exceptuando a los menores de dieciocho años, el cual se regirá por la ley respectiva.
 
 III.- El procedimiento de ejecución de sanciones, sin perjuicio de lo dispuesto en la ley relativa a la readaptación social.
 
@@ -4380,3 +4382,15 @@ P.O. 30 DE DICIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procesados y sentenciados, que al momento de la comisión del delito hubiesen tenido menos de dieciocho años de edad, serán turnados a las autoridades competentes que establezcan las leyes del Sistema Integral de Justicia para Adolescentes, a fin de continuar con el proceso o ajustar la pena o medida de seguridad impuesta, según corresponda, de conformidad con lo que disponga la ley especial reglamentaria de los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y los dispositivos correspondientes de la Constitución Política del Estado.
+
+Para determinar las medidas de tratamiento contenidas en la ley estatal de justicia juvenil, en su caso, se deberá computar el tiempo que estuvo privado de la libertad.
