@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2002-03-22"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -441,9 +441,13 @@ X. Participar en la celebración de convenios de colaboración en materia de seg
 
 XI. Atender, conforme a los tratados, acuerdos y disposiciones jurídicas aplicables, el aseguramiento, custodia y traslado de los detenidos, reos y los sujetos a proceso;
 
-XII. Participar, dentro del marco del Sistema Estatal de Seguridad Pública, en la organización, que en el ámbito del Poder Ejecutivo a éste le competa, en materia de prevención y readaptación social y de regulación del Consejo Tutelar para Menores Infractores, incluyendo la aplicación de la normatividad referida a la ejecución de sentencias en los centros de reclusión y tratamiento a inimputables, cuando lo haya determinado la autoridad judicial;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XIII. Administrar, operar y mantener la seguridad de los reclusorios y centros de readaptación social del Estado, así como los correspondientes a los centros tutelares. También, orientar técnicamente y aprobar los proyectos para la construcción y remodelación de dichos establecimientos;
+XII. Participar, dentro del marco del Sistema Estatal de Seguridad Pública, en la organización, que en el ámbito del Poder Ejecutivo a éste le competa, en materia de prevención y readaptación social así como la regulación de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, incluyendo la aplicación de la normatividad referida a la ejecución de sentencias en los centros de reclusión y tratamiento a inimputables. Así como, también aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del adolescente, cuando lo haya determinado la autoridad judicial competente;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Administrar, operar y mantener la seguridad de los reclusorios y centros de readaptación social del Estado, así como los correspondientes a los Centros de Internamiento para Adolescentes sujetos del sistema Integral de Justicia. También, orientar técnicamente y aprobar los proyectos para la construcción y remodelación de dichos establecimientos;
 
 XIV. Proporcionar antecedentes penales a las autoridades competentes y expedir, previa solicitud, constancias de los mismos a personas con interés jurídico, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
 
@@ -1246,3 +1250,15 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
