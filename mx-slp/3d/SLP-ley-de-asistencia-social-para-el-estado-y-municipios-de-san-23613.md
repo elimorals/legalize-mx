@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2002-01-19"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -175,7 +175,13 @@ a) Los menores:
 
 7. Hijos de madres y padres privados de la libertad que no tengan familiares que se hagan cargo de ellos.
 
-8. Desnutridos.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+8. Los que tengan menos de doce años de edad y se les atribuya una conducta tipificada como delito en las leyes, cuyos derechos se encuentren amenazados o vulnerados.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+9. Desnutridos.
 
 b) Las mujeres:
 
@@ -1076,3 +1082,31 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el dí a (sic) doce del mes de septiembre del año dos mil seis, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La situación jurí dica (sic) de las personas que se encuentran compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
+
+EL Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
+
+CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+QUINTO. Las autoridades del Consejo Tutelar para Menores Infractores del Estado, a que se refiere la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado de San Luis Potosí, podrán seguir actuando válidamente a la entrada en vigor de la Ley de Justicia para Menores del Estado de San Luis Potosí, para los efectos de remitir los asuntos que eran de su conocimiento, a la autoridad competente; de acuerdo con las siguientes reglas:
+
+a) Los asuntos que estén conociendo en investigación o integración las autoridades del Consejo Tutelar para Menores del Estado, serán remitidos de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+b) El procedimiento que estén instruyendo las autoridades del Consejo Tutelar para Menores del Estado, será remitido de inmediato al Juez Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+c) El Director del Centro de Readaptación Social para Menores "Profesor Angel Silva", entregará a la Dirección de Ejecución de Medidas para Menores, a los que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos.
+
+Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
+
+d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
