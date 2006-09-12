@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "1996-05-28"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -101,9 +101,15 @@ IX.- Promover la participación del individuo en las actividades culturales, eco
 
 X.- Desarrollar la conciencia para la preservación de la salud y la paternidad responsable, sin menoscabo de la libertad y del respeto a la dignidad humana;
 
-XI.- Propiciar en el individuo el respeto a los símbolos patrios, de acuerdo a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales; y
+XI.- Propiciar en el individuo el respeto a los símbolos patrios, de acuerdo a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales; y (sic)
 
-XII.- Fomentar en el individuo la cultura de la informática y de una segunda lengua; sin menoscabo de la enseñanza del español.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XII.- Fortalecer en los educandos una cultura cívica que promueva el respeto y el culto a los emblemas nacionales, mediante el desarrollo de proyectos formativos e informativos coordinados por las instituciones competentes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XIII.- Fomentar en el individuo la cultura de la informática y de una segunda lengua, sin menoscabo de la enseñanza del español.
 
 ###### ARTICULO 8°.
 
@@ -1128,3 +1134,9 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. OSCAR PIMENTEL GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
