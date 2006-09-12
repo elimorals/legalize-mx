@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-tratamiento-de-menores-infractores-del-estado-3584"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-12"
-last_updated: "1993-07-12"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 12 de julio de 1993.
 
@@ -898,3 +900,19 @@ Palacio Legislativo, Campeche, Cam., a 9 de julio de 1993.- Dip. Martha E. Medin
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los nueve días del mes de julio de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley para el Tratamiento de Menores Infractores del Estado de Campeche y se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de la presente Ley.
+
+Tercero.- En un plazo de ciento veinte días hábiles, contados a partir del día siguiente a la fecha en que esta Ley entre en vigor, el Gobernador del Estado expedirá la reglamentación que se prevé en la misma. En ese mismo lapso el Gobernador y el Pleno del H. Tribunal Superior de Justicia, dentro de sus respectivos ámbitos de atribución, procederán a realizar las adecuaciones legales, reglamentarias, presupuestales y orgánicas que procedan.
+
+Cuarto.- El Gobernador del Estado y el Pleno del H. Tribunal Superior de Justicia del Estado deberán proceder a la selección y capacitación inicial y permanente de los servidores públicos que tendrán a su cargo las funciones de Ministerio Público y Defensores de Oficio especializados en adolescentes, así como de jueces y magistrados con la indicada especialidad, respectivamente, así como a quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+Quinto.- Entretanto se da cumplimiento a lo dispuesto en el artículo inmediato anterior, con carácter transitorio el Pleno del H. Tribunal Superior de Justicia del Estado, en uso de las facultades constitucionales y legales que le asisten, designará de entre los jueces y magistrados que actualmente conforman la plantilla del Poder Judicial del Estado a quienes fungirán como magistrados de la Sala Especializada para Adolescentes y jueces de instrucción y de juicio. En igual forma procederá el Gobernador en lo atinente a Ministerio Público y Defensores de Oficio.
+
+Sexto.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
