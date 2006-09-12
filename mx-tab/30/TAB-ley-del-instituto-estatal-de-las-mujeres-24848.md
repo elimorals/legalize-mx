@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-estatal-de-las-mujeres-24848"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-22"
-last_updated: "2005-10-12"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2001.
 
@@ -95,6 +95,10 @@ III. Diseñar y evaluar políticas públicas con perspectiva de género que perm
 
 IV. Coordinar a través del trabajo transversal con las dependencias y demás entidades de la administración pública la implementación y ejecución de políticas públicas estatales con perspectiva de género;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IV Bis. Impulsar campañas educativas dentro de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, a las mujeres que se encuentren privadas de su libertad;
+
 V. Propiciar la participación de diversos actores de la sociedad, incluyendo la iniciativa privada para promover mayor equidad entre hombres y mujeres;
 
 VI. Promover los mecanismos de participación de las Mujeres en la vida económica, social, cultural y política del Estado, y
@@ -133,13 +137,17 @@ XIII. Desarrollar, coordinar y fomentar por sí y en coordinación con otras ins
 
 XIV. Gestionar en colaboración con las autoridades encargadas de la procuración y administración de justicia, el respeto de los derechos de las mujeres y niñas victimas en un delito;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XV. Coordinar y gestionar con el Centro de Internamiento para Adolescentes Sujetos del Sistema Integral de Justicia, programas de desarrollo para las adolescentes y jóvenes internadas en el ámbito de la educación sexual y cuidado de la salud;
+
 > <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2005)</small>
 
-XV.- Supervisar el respeto irrestricto de los derechos humanos de las mujeres en los Centros Penitenciarios y de Readaptación Social en el Estado de Tabasco;
+XVI.- Supervisar el respeto irrestricto de los derechos humanos de las mujeres en los Centros Penitenciarios y de Readaptación Social en el Estado de Tabasco;
 
 > <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2005)</small>
 
-XVI.- Representar y asesorar legalmente a las mujeres de escasos recursos económicos en los litigios de los que sean parte, a través del departamento Jurídico del Instituto Estatal de las Mujeres.
+XVII.- Representar y asesorar legalmente a las mujeres de escasos recursos económicos en los litigios de los que sean parte, a través del departamento Jurídico del Instituto Estatal de las Mujeres.
 
 ###### Artículo 7.
 
@@ -474,3 +482,13 @@ P.O. 12 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
