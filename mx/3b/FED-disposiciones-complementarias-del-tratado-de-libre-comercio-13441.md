@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-09-01"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,297 +18,43 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECISION FINAL DE LA REVISION ANTE UN PANEL BINACIONAL CONFORME AL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE EN MATERIA DE TUBERIA PARA PERFORACION PETROLERA PROCEDENTE DE MEXICO
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE
 
-Decisión publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 1 de septiembre de 2006.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de septiembre de 2006.
 
-Sección Mexicana del Secretariado de los Tratados de Libre Comercio.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-REVISION ANTE UN PANEL BINACIONAL
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o. fracciones I y II, 14 y 23 de la Ley de Comercio Exterior, y
 
-CONFORME AL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE.
+CONSIDERANDO
 
-EN MATERIA DE TUBERIA PARA PERFORACION PETROLERA PROCEDENTE DE MEXICO
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-RESULTADOS FINALES DE LA REVISION DE CUOTAS COMPENSATORIAS ANTIDUMPING
+Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares o jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
 
-EXPEDIENTE No. USA-MEX-01-1904-05
+Que existe una disputa entre México y los Estados Unidos de América derivado del incumplimiento de éste con sus obligaciones establecidas en el TLCAN de otorgar acceso a su territorio al azúcar mexicano en los términos establecidos en el Anexo 703.2 del TLCAN, además de que se han negado a someterse al procedimiento de solución de controversias establecido en el propio tratado;
 
-DECISION DEL PANEL
+Que México y los Estados Unidos de América han reconocido la existencia de esa disputa y que ésta sigue sin resolverse;
 
-9 de agosto de 2006
+Que, en este contexto, el pasado 27 de julio los gobiernos de México y los Estados Unidos de América alcanzaron, entre otros, acuerdos en materia de comercio de azúcares y jarabes según se definen en la Sección C del Anexo 703.2 del TLCAN, que contribuirán a facilitar la transición al libre comercio de edulcorantes el 1 de enero de 2008;
 
-Howard N. Fenton, Presidente
+Que entre los acuerdos alcanzados está el otorgamiento por parte de México de un trato libre de impuestos para una cantidad de azúcares o jarabes de los Estados Unidos de América de 7,258 toneladas métricas (valor crudo) en cada uno de los años comerciales que inician el 1 de octubre de 2005 y 2006, así como para los primeros tres meses del año comercial que inicia el 1 de octubre de 2007, respectivamente;
 
-Héctor Cuadra y Moreno
+Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte; y
 
-Peter L. Fitzgerald
+Que la medida a que se refiere el presente Decreto cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Jaime Horacio Galicia Briseño
+DECRETO
 
-Arturo J. Lan Arredondo
+Artículo Único.- Se adiciona el artículo 15 al Decreto por el que se establece la Tasa Aplicable durante 2003 del Impuesto General de Importación, para las mercancías originarias de América del Norte publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, para quedar como sigue:
 
-Representantes Legales:
+“ARTÍCULO 15.- La importación de las mercancías originarias de América del Norte comprendidas en las fracciones arancelarias que se señalan en este artículo se sujetará al arancel preferencial indicado a continuación para cada una de ellas siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con el requisito señalado se aplicará el arancel establecido en el ARTÍCULO 1o. de la Ley de los Impuestos Generales de Importación y de Exportación:
 
-Douglas S. Lerley, Oficina del Abogado en Jefe de la Administración de Importaciones, en representación del Departamento de Comercio de los Estados Unidos de América.
+(VEASE ARCHIVO ANEXO)
 
-Jeffrey M. Winton, Preston Gates Ellis & Rouvelas Meeds LLP, en representación de Hylsa, S.A. de C.V.
+Lo dispuesto en este artículo será aplicable siempre que se trate de “productos calificados” de los Estados Unidos de América conforme a lo dispuesto en la Sección A del Anexo 703.2 del TLCAN y que el importador cuente con una declaración escrita del exportador que certifique que las mercancías a importar no se han beneficiado del programa “Sugar Reexport Program” de los Estados Unidos de América.
 
-John J. Mangan, Skadden, Arps, Slate, Meagher & Flom LLP, en representación de U.S. Steel.
-
-Robert B. Schagrin, Schagrin Associates, en representación de IPSCO Tubulars.
-
-I. INTRODUCCION
-
-En esta etapa del procedimiento administrativo iniciado en 1994, la demandada Hylsa, S.A. de C.V. (Hylsa) parece atrapada en un círculo vicioso. La saga dió inicio en 1995, año en que dicha empresa fue objeto de una resolución antidumping, aún cuando nunca se determinó que hubiera incurrido en discriminación de precios. (1) En 1999 fue solicitada la revocación de la resolución, pero no fue sino hasta la actualidad (¡2006!) que la solicitud fue denegada. Las razones aducidas fueron la ausencia de ventas en cantidades comerciales y la determinación de dumping, impugnada en 2003-2004. Esta empresa tiene antecedentes de ventas relativamente menores hacia los Estados Unidos, exceptuando el periodo de 15 meses que coincide con la investigación antidumping de 1994-95 que fue realizada a otra empresa, la cual encabezó la resolución que se menciona. El Departamento de Comercio determinó que en virtud de que las ventas posteriores de Hylsa fueron mucho menores que en este periodo, (así como lo fueron antes del periodo), éstas no podían considerarse como ventas en cantidades comerciales. Adicionalmente, el Departamento estableció que en virtud de que detectó discriminación de precios durante la novena revisión administrativa de 2004-05, no podía conceder la solicitud para la cuarta revisión (con conocimiento de haber una reclamación pendiente por parte de Hylsa en relación con dicha resolución y ante la circunstancia de que si la solicitud hubiera sido concedida después de la cuarta revisión, ya no habría existido una novena revisión para Hylsa).
-
-El Panel tiene ante sí la cuestión de determinar si la discrecionabilidad legal del Departamento de Comercio le permite sostener una resolución antidumping en contra de una empresa por razones que tienen al menos, la apariencia de la necesidad de sacar el asunto adelante a toda costa, por ejemplo utilizando una interpretación forzada de los hechos y de las reglas de una manera tal, que le llevó a sostener su resolución antidumping aún cuando ésta aparentaba ser abiertamente injusta.
-
-El 18 de enero de 2006 este Panel emitió su decisión inicial en el presente asunto relativo a la decisión del Departamento de negar la solicitud de revocación de la resolución antidumping en contra de TAMSA, y devolvió el caso al Departamento para que se realizara de nuevo el cálculo de los márgenes de dumping finales que fueron determinados para Hylsa, así como para considerar la solicitud de Hylsa de revocar la resolución antidumping en el supuesto de que el nuevo cálculo resultase en un margen de dumping de cero. El 27 de abril de 2006 el Departamento emitió su Resolución en Devolución, en la cual: (1) solicitó al Panel reconsiderar su decisión en cuanto al cálculo de los márgenes de dumping, (2) calculó nuevamente los márgenes en relación a las instrucciones dadas por el Panel y encontró un margen de dumping de cero; y (3) rechazó la solicitud de Hylsa de revocar la resolución antidumping. El Departamento presentó el expediente en devolución ante el Panel el 2 de mayo de 2006.
-
-El 22 de mayo de 2006 la empresa demandada Hylsa, presentó sus comentarios e impugnación en contra de la decisión del Departamento de Comercio de no revocar la resolución antidumping. En sus comentarios, Hylsa objetó la impugnación del Departamento a la decisión del Panel, en tanto que presentaba su propia objeción a la decisión del Panel rechazando su argumento de cero. En esta apelación de la decisión del Departamento, Hylsa impugnó la resolución del Departamento de que no se habían realizado envíos en cantidades comerciales durante los periodos de investigación administrativa y argumentó que el planteamiento del Departamento basado en su hallazgo de dumping en la novena Revisión Administrativa de la resolución, fue inadecuado.
-
-El 9 de junio de 2006 el Departamento presentó su respuesta a la impugnación de Hylsa, y a su vez, las reclamantes IPSCO Tubulars Inc., Lone Star Steel Company, y Maverick Tube Corporation presentaron sus respectivos comentarios en apoyo a la resolución del Departamento. El 12 de junio de 2006 el reclamante United States Steel Corporation también presentó sus comentarios en apoyo al Departamento.
-
-Para efectos de esta decisión, la jurisdicción del Panel y el criterio de revisión serán los mismos adoptados por el Panel en su decisión inicial (2), los cuales se tienen por incorporados como referencia.
-
-El Panel concluye que el cálculo de las cantidades comerciales que realizó el Departamento en la presente resolución por devolución, fue un abuso de su discrecionalidad y asimismo, que la determinación de dumping en la novena revisión se encontraba fuera del ámbito de este procedimiento por lo que no pudo ser tomada en consideración.
-
-(1) Hylsa fue uno de los varios exportadores mexicanos incluidos en la categoría de “todos los demás” y fue sujeto a una tarifa de depósito en efectivo después de la resolución del Departamento de Comercio de discriminación de precios de parte de Tubos de Acero de México, S.A. (TAMSA), Ver Resolución Final de Ventas por Debajo de su Valor Normal: Productos Tubulares de Región Petrolífera Procedentes de México. 60 Fed. Reg. 33657 (Junio 28, 1995).
-
-(2) En Materia de Productos Tubulares de Región Petrolífera Procedentes de México; Resultados Finales de la Revisión Administrativa de Cuotas Compensatorias por Discriminación de Precios y Determinación de No Revocación. Expediente. USA-MEX-01-1904-05. Págs. 7-10 (27 de enero de 2006).
-
-II. DISCUSION
-
-A. Solicitudes de Reconsideración de la Decisión del Panel
-
-Tanto el Departamento como Hylsa cuestionaron los elementos de la decisión del Panel y el razonamiento hecho en la decisión inicial. El Panel determina que estos cuestionamientos son peticiones de carácter incidental que impugnan su decisión y hace notar que la Regla 76 de las Reglas de Procedimiento del Artículo 1904 sobre la Revisión ante un Panel Binacional establece el procedimiento para solicitar que un Panel examine nuevamente su decisión. Sin embargo, de acuerdo con esta Regla, la petición incidental debe presentarse dentro de los diez días siguientes a la emisión de la decisión, (3) y la parte impugnadora no debe presentar “argumentos planteados durante el procedimiento de revisión ante el panel”. (4) El Panel hace notar que ninguna de las partes cumplió con la Regla 76 en el plazo para la presentación de la petición, el criterio de revisión (5), o la necesidad de nuevos argumentos (6). Por ello, el Panel no hará la consideración de los argumentos que fueron planteados por las partes en sus respectivas peticiones incidentales en relación con hechos que no fueron materia de esa parte de la Resolución del Departamento que fue impugnada por Hylsa, la denegación de la solicitud de revocación.
-
-(3) Regla 76(1).
-
-(4) Regla 76(3).
-
-(5) Regla 76(2).
-
-(6) El Panel reconoce que Hylsa hizo notar la decisión del Cuerpo de Apelación de la OMC, la cual revirtió la decisión del Panel de la OMC sobre la práctica de “cero” en las revisiones administrativas a las cuales el Panel hizo referencia en su decisión. Ver Comentarios del Quejoso Hylsa, S.A. de C.V., en la Resolución por Devolución de Comercio del 27 de abril, Págs. 14-15 (Versión No Confidencial, 22 de mayo de 2006). El Panel toma nota de esta decisión, pero en virtud de que no basa su conclusión en la decisión del Panel de la OMC, esta nueva información no es un cambio material.
-
-B. Determinación de Cantidades Comerciales
-
-Después de calcular nuevamente el margen de dumping de Hylsa, siguiendo las indicaciones del Panel, el Departamento encontró un margen de cero (7). Esto le reconoció a Hylsa tres revisiones administrativas durante las cuales no vendió el producto investigado por debajo de su valor normal, y por lo tanto, lo hizo elegible a solicitar la revocación de la resolución en su contra. (8) La legislación requería al Departamento establecer si Hylsa vendió el producto investigado en cantidades comerciales durante los tres años (9) y que Hylsa lo certificara para tales efectos. (10) El Panel concuerda con el punto de vista del Departamento de que este es un requisito de límite para la revocación de su decisión inicial en relación con la solicitud de TAMSA. (11) La cuestión ante el Panel en este momento es cómo define el Departamento el término “cantidades comerciales” para efectos de la solicitud de revocación de Hylsa y si la interpretación adoptada se encuentra dentro de su ámbito de discrecionalidad administrativa.
-
-El Panel había reconoció (sic) previamente que el Departamento determina la existencia de cantidades comerciales sobre una base casuística, tomando en cuenta las circunstancias particulares de cada exportador. (12) En este caso, el Departamento determinó que Hylsa no había realizado envíos en cantidades comerciales durante los tres años en cuestión, porque su volumen de ventas fue significativamente menor que las ventas obtenidas durante el periodo inicial de la investigación del Departamento sobre las ventas de TAMSA, revisión que estableció las bases para la resolución antidumping. En su análisis de la solicitud de revocación de Hylsa, el Departamento ofreció cuatro criterios posibles respecto de las cantidades comerciales, aunque los cuatro llevarían a la conclusión de Comercio de que las ventas durante los tres años revisados no fueron en cantidades comerciales. Tres de los criterios fueron basados en las ventas de Hylsa realizadas durante el periodo investigado de seis meses (POI por sus siglas en inglés) (13), o durante el año calendario, (14) en tanto que el cuarto criterio se basó en las ventas de TAMSA. (15) Hylsa argumenta en su escrito que si el Departamento hubiera basado su comparación en el periodo investigado requerido por las reglas actuales del Departamento (16) las ventas durante los tres años hubieran sido muy similares a aquellas durante el periodo investigado alternativo. (17) Normalmente, el Panel se sentiría obligado a otorgar deferencia a la discrecionalidad que tiene el Departamento al hacer tales determinaciones, como lo hizo en su decisión original en relación con la omisión de TAMSA de enviar en cantidades comerciales. (18) Sin embargo, en este caso, existe una diferencia fundamental.
-
-A diferencia de TAMSA, el Departamento no encontró que Hylsa hubiera tenido ventas por debajo de su valor normal. Cuando el Departamento publicó su reglamento final en 1997 adoptando las nuevas disposiciones acerca del requisito de cantidades comerciales, se estableció que:
-
-La suposición subyacente detrás de una revocación basada en la ausencia de discriminación de precios… es que el demandado, al comprometerse en una práctica justa durante un periodo de tiempo específico, ha demostrado que no reasumirá su práctica desleal después de la revocación de la resolución (énfasis añadido). (19)
-
-Hylsa, por supuesto, no ha cometido una práctica desleal, y no hay nada en contrario que prueben sus ventas durante los tres años de la revisión administrativa. Por lo tanto, cuando el Departamento confina sus análisis de las cantidades comerciales a una comparación bruta de las ventas de Hylsa durante un periodo de 15 meses en 1994 y 1995, ignorando los volúmenes de ventas anteriores y posteriores a dicho periodo, únicamente porque el periodo coincide con su investigación a TAMSA, una empresa encontrada culpable de una práctica desleal de comercio, el Departamento tiene la carga de la prueba para demostrar la validez de su determinación. Esa carga es más fuerte en este caso, porque el Departamento declinó incluir a Hylsa en su investigación inicial debido a que sus ventas eran muy bajas. (20) Ahora, el Departamento argumenta que debido a que sus ventas eran bajas durante los periodos de las revisiones administrativas subsecuentes, esta empresa no es elegible para la revocación de la resolución antidumping.
-
-Es un principio de Derecho Administrativo bien establecido que la decisión de una autoridad debe ser evaluada sobre las bases de la explicación que de la propia autoridad. (21) Al justificar su criterio de cantidades comerciales, el Departamento repetidamente se apoya en la necesidad expresa de determinar si la empresa puede participar en el mercado sin la disciplina de la resolución antidumping. (22) Cuando una empresa ha cometido discriminación de precios previamente, y sus ventas durante la resolución antidumping continúan en un porcentaje mínimo respecto de sus ventas bajo discriminación de precios, existe una evidencia perfectamente racional para determinar que las ventas no fueron hechas en cantidades comerciales. El Panel reconoció esto en su decisión original. (23) Sin embargo, no resulta claro que este mismo razonamiento sea legítimo cuando una empresa no ha incurrido en discriminación de precios y se le puede establecer un patrón de ventas comerciales legítimo, fuera del periodo de tiempo elegido por el Departamento. Bajo tales circunstancias, al rechazar alternativas legítimas, el Departamento necesita establecer un razonamiento para sostener su criterio que no esté relacionado con sus simples sospechas en relación con otra empresa que ha cometido prácticas desleales de comercio. (24) La Parte 351.222(b) crea una presunción refutable a favor de la revocación cuando no ha habido dumping a lo largo del curso de operaciones comerciales normales durante tres años de ventas de exportación en cantidades comerciales. Una vez que se ha detonado adecuadamente la presunción a favor de la revocación, la carga cambia, de tal manera que el Departamento solo puede sostener la resolución si existe “evidencia positiva” en el expediente, que apoye su decisión y justifique que es necesario prevenir el dumping. (25) Dada la práctica articulada del Departamento de determinar la existencia de cantidades comerciales sobre una base de caso por caso, y la ausencia de cualquier discriminación de precios de parte de Hylsa, la necesidad de que el departamento establezca una explicación alternativa legítima o una salida para su determinación respecto de las cantidades comerciales, es obligatoria.
-
-Es claro que el periodo de tiempo elegido por el Departamento como base para las ventas en cantidades comerciales hechas por Hylsa, no es obligatorio por la ley o el reglamento (26). Se basa en las reglas del Departamento en vigor en el momento de la acción inicial en contra de TAMSA definiendo el periodo de investigación de la denuncia antidumping (los seis meses previos, incluyendo el mes en el que se presentó la denuncia). (27) Tal como lo señala Hylsa, el Departamento cambió sus reglas, y ahora el periodo de investigación para una denuncia comprende los cuatro cuartos fiscales anteriores a la presentación de la denuncia. (28) Por lo tanto, el Departamento no está obligado por ley a establecer el periodo de tiempo para evaluar una denuncia, y no puede argumentar que está constreñido al periodo de seis meses escogido. Efectivamente, el Departamento demostró su voluntad de considerar otros periodos al determinar las bases para el cálculo de cantidades comerciales, tal como lo ha hecho en otros casos. (29) Tomó las figuras de seis meses y las anualizó, (30) después consideró el año calendario completo de 1994. (31) Ambos criterios reflejan las ventas más altas de Hylsa durante el periodo de mayo de 1994 a junio de 1995, asegurando cifras significativamente más altas que aquellas durante el periodo de revisión de tres años en el cual Hylsa basó su solicitud de revocación. Vale la pena hacer notar que el Departamento eligió no utilizar el periodo estándar que ahora usa normalmente para sus investigaciones y sus bases para ventas en cantidades comerciales, lo cual hubiera llevado a números similares a las ventas de Hylsa durante los tres años. (32) El razonamiento del Departamento para adoptar su criterio y no el método actual indicado por Hylsa, es una manifestación de la necesidad de establecer un registro de ventas sin la disciplina de una orden antidumping, (33) razonamiento motivado únicamente en las sospechas en contra de un violador de las leyes de comercio, el cual rechazamos.
-
-El Departamento también sugirió un cuarto método de análisis, el cual no utiliza las cifras de ventas reales de Hylsa. Se refiere a su decisión en el caso Rebar from Turkey, (34) la cual involucra la solicitud de una nueva empresa en el mercado, para que le sea revocada la resolución antidumping, basándose en un periodo de tres años de ventas que no estuvieron por debajo del valor normal. El Departamento comparó las ventas a las empresas que habían sido objeto de la investigación y concluyó que las ventas de la empresa nueva fueron muy bajas como para reflejar lo que vendería una empresa típica en ese negocio. Esto podría parecer análogo en tanto que la empresa nueva no podía haber cometido discriminación de precios anteriormente. Sin embargo, debido a que era nueva para el mercado de los Estados Unidos, no había ventas previas de ningún tipo que sirvieran de base para una comparación. Hylsa tiene un historial de participación en el mercado estadounidense, si bien es cierto que es un historial inconstante, arroja cifras de ventas reales para la comparación. (35) Por lo tanto, el Panel no considera que el caso Rebar From Turkey constituya una base válida para determinar las cantidades comerciales. (36)
-
-La alternativa planteada por Hylsa de utilizar el criterio vigente del periodo de investigación que considera los cuatro cuartos anteriores a la presentación de la denuncia, fue rechazado por el Departamento argumentando que este procedimiento fue adoptado con posterioridad. (37) Inclusive, la adopción de este método denota el carácter arbitrario de la decisión del Departamento. En efecto, las ventas de Hylsa, utilizando el método de los cuatro cuartos previos, serían similares a sus ventas durante los periodos de revisión administrativa. La cuestión es si el Departamento pudo rehusarse a considerar estas ventas como cantidades comerciales tan sólo porque las ventas inmediatamente posteriores fueron mayores No se puede especular acerca de ello, pero la diferencia en las ventas base para efectos de comparación de los dos métodos apuntan a una arbitrariedad inherente en el uso de la fórmula que el Departamento debe considerar.
-
-El Panel reconoce que el patrón de ventas de Hylsa plantea un reto para el Departamento quien debe determinar lo que constituyen ventas en cantidades comerciales, si el Departamento basa su decisión únicamente en comparaciones. La empresa no participó en el mercado estadounidense durante algunos años, y después volvió a participar con pequeñas ventas en marzo y abril de 1994, y ventas mayores en mayo y hasta el siguiente junio de 1995. Las ventas durante los tres años de revisión administrativa reflejan las ventas de marzo y abril, en lugar de los altos volúmenes del periodo de mayo de 1994 a junio de 1995. (38) El Departamento eligió utilizar un periodo de tiempo que capturara las cifras de ventas mayores para argumentar que las ventas posteriores no fueron en cantidades comerciales. (39) El Panel no puede decir que este método sea incorrecto o injustificadado, pero observa que la explicación ofrecida no es lógica ni consistente con la razón aducida. Si una empresa no está discriminando precios en relación con un producto (una presunción que el principio fundamental del debido proceso nos obliga a hacer en relación a Hylsa) (40), comparar las ventas de un periodo previo a la imposición de la cuota compensatoria con un periodo posterior, no le dice nada al Departamento acerca de la capacidad de esa empresa para vender sin la disciplina de una resolución antidumping. Sugiere que la imposición de la tasa del 21% en depósito en efectivo le ha desalentado a vender los bienes en dicho mercado. Puede haber circunstancias en las que la empresa no hubiera sido encontrada discriminando precios, pero que sin embargo, exista un patrón histórico de sus ventas, no daría una razón suficiente para acudir al método de la comparación artificial, basado en la mala conducta de otra empresa.
-
-(7) Resolución en Devolución, en Materia de Productos Tubulares de Región Petrolífera Procedentes de México. Resultados Finales de la Revisión Administrativa de Cuotas Compensatorias por Discriminación de Precios y Determinación de No Revocación. Págs. 1, 7, 19, 23 y 29 (Abril 27, 2006); Escrito de Respuesta de la Autoridad Investigadora. Págs. 2, 4 y 5 (Versión Pública, Junio 9, 2006).
-
-(8) 19 C.F.R. §351.222(b)(2)(i)(A).
-
-(9) 19 C.F.R. §351.222(d)(1).
-
-(10) 19 C.F.R. §351.222(e).
-
-(11) En Materia de Productos Tubulares de Región Petrolífera Procedentes de México; Resultados Finales de la Revisión Administrativa de Cuotas Compensatorias por Discriminación de Precios y Determinación de No Revocación. Expediente. USA-MEX-01-1904-05. Págs. 11 y 14 (27 de enero de 2006).
-
-(12) Id. Págs. 19, 21-23.
-
-(13) Resolución en Devolución. Págs. 24-29, 47-55; Escrito de Respuesta de la Autoridad Investigadora. Págs. 8-14, 16.
-
-(14) Id.
-
-(15) Id.
-
-(16) Ver Comentarios de Hylsa a la Resolución en Devolución. Págs. 16-17 y 20-26 (Versión No Confidencial); Ver también 19 U.S.C. § 1677(17); 19 U.S.C. § 1677(14); 19 U.S.C. § 1677(b)(1)(B); 19 C.F.R. § 351.204(b); 19 C.F.R. § 353.42(b)(Versión de 1995); 19 C.F.R. § 371.701.
-
-(17) Id.
-
-(18) Decisión del Panel. Pág. 23 (Enero 27, 2006).
-
-(19) 62 Fed. Reg. 27296, 27326 (Mayo 19, 1997).
-
-(20) Ver Comentarios de Hylsa a la Resolución en Devolución. Pág. 22 (Versión No Confidencial).
-
-(21) Ver SEC v. Chenery Corp., 332 U.S. 194, 67 S. Ct, 1575 (1947). Ver también Aman & Mayton, Administrative Law, Ch. 13 §13.10.1 (2d ed. 2001).
-
-(22) Ver Resolución en Devolución. Págs. 29, 52-56; Escrito de Respuesta de la Autoridad Investigadora. Págs. 6, 7, 15 y 16.
-
-(23) Ver Decisión del Panel. Págs. 20-21 (Enero 27, 2006).
-
-(24) El Panel no puede aceptar el razonamiento de Comercio de que el criterio de cantidades comerciales es necesario para establecer una relación razonable entre el nivel de ventas y la probabilidad de recurrencia del dumping, dado que a Hylsa no le ha sido encontrado previamente dumping. Encontramos difícil concluir razonablemente que un exportador retomará una práctica desleal, cuando dicho exportador no ha sido encontrado cometiendo prácticas desleales de comercio. Aún gramaticalmente, “retomar” implica la continuación de algo que ya ha iniciado en el pasado. En otras palabras, en la ausencia de una historia de prácticas desleales de comercio, puede no haber relación entre el nivel de ventas de un exportador y la probabilidad de recurrencia del dumping.
-
-(25) Ver Parte 351.222(b)(1)(i)(B) y (b)(2)(i)(C).
-
-(26) De hecho, existe un fuerte argumento de que en la medida en que exista un criterio obligatorio, este es la regla actual de cuatro cuartos fiscales (four fiscal quarters rule) porque esa era la regla en vigencia cuando Comercio hizo su regulación inicial de revocaciones en esta materia, después de que este Panel emitiera su decisión en enero de 2006.
-
-(27) Ver Comentarios de Hylsa a la Resolución en Devolución. Pág. 16-17, 20-26 (Versión No Confidencial). Ver también 19 U.S.C. § 1677(17); 19 U.S.C. § 1677(14); 19 U.S.C. § 1677(b)(1)(B); 19 C.F.R. § 351.204(b); 19 C.F.R. § 353.42(b) (versión de 1995); 19 C.F.R. § 371.701.
-
-(28) Ver Id. Usando el presente criterio, la base de ventas de Hylsa sería muy diferente que bajo el criterio adoptado por el Departamento.
-
-(29) Ver Resolución en Devolución. Págs. 24-28; Respuesta de la Autoridad Investigadora. Págs. 8-15.
-
-(30) Ver Id.
-
-(31) Ver Id.
-
-(32) Ver Comentarios de Hylsa a la Resolución en Devolución. Págs. 21-26 (Versión No Confidencial).
-
-(33) Ver Resolución en Devolución. Págs. 34, 48-49; Respuesta de la Autoridad Investigadora. Págs. 10-11.
-
-(34) Ver Resolución en Devolución. Págs. 25-28, 50-51, 55; Respuesta de la Autoridad Investigadora. Págs. 11-15; Ver también Certain Steel Concrete Reinforcing Bars From Turkey: Final Results, Rescission of Antidumping Duty Revisión administrativa in Part, and Determination Not To Revoke in Part, 68 Fed. Reg. 53217 (Septiembre 9, 2003) Argumentos y Memorando de Decisión.
-
-(35) Hylsa argumenta que al comparar sus ventas con las de TAMSA de la manera hecha en el caso Rebar from Turkey es inadecuado debido a las diferencias en los productos y en el mercadeo de Hylsa y de TAMSA. Ver Comentarios de Hylsa a la Resolución en Devolución. Págs. 27-28 (Versión No Confidencial). En tanto que nosotros hallamos que este argumento presenta algunos puntos legítimos, no los analizamos aquí, porque nuestra decisión de tratar a Hylsa como nuevo en el mercado es inadecuada.
-
-(36) Caso: Certain Steel Concrete Reinforcing Bars From Turkey: Final Results, Rescission of Antidumping Duty Revisión administrativa in Part, and Determination Not To Revoke in Part, 68 Fed. Reg. 53217 (Septiembre 9, 2003) Argumentos y Memorando de Decisión.
-
-(37) Ver Resolución en Devolución. Págs. 34, 48-49; Respuesta de la Autoridad Investigadora. Págs. 10-11.
-
-(38) Hylsa ha hecho notar que sus ventas durante los periodos de revisión ocurrieron solo en uno o dos meses de cada periodo, consistente con sus ventas, que hubieran sido capturadas por el uso de Comercio del criterio del periodos de investigación de cuatro cuartos previos a la presentación de denuncia. Ver Letter from Shearman & Sterling to N. Mineta, Agosto 16, 2000; Ver también Letter from Shearman & Sterling to N. Mineta, Agosto 29, 2000.
-
-(39) La empresa ha hecho notar que la caída en sus ventas ocurrieron con la imposición de la tarifa antidumping de depósito en efectivo de 21% sobre sus ventas a los Estados Unidos, efectiva en julio de 1995, después de la resolución final en contra de TAMSA. Ver Letter from Shearman & Sterling to N. Mineta, agosto 16, 2000; Ver también Letter from Shearman & Sterling to N. Mineta, agosto 29, 2000. En tanto que el Departamento no relaciona el declive en las ventas con las cuotas compensatorias por discriminación de precios como una razón legítima para reducir las ventas, cuando esas cuotas son impuestas en contra de una empresa dentro de la categoría de “todas las demás” que no fueron encontradas como discriminadoras de precios, utilizando la declinación para rechazar sus solicitudes de revocación provocan cuestiones justificables de injusticia.
-
-(40) El Panel no asume que el Departamento eligió el marco de tiempo particular porque sospechaba que Hylsa estaba cometiendo discriminación de precios durante este periodo de ventas mayores. Esta presunción de parte del Departamento sería un claro abuso de la discrecionalidad y una base ilegal para una presunción legal.
-
-C. Consideración de la Resolución de la Novena Revisión Administrativa
-
-El Departamento resolvió que aún cuando Hylsa hubiera vendido bienes en cantidades comerciales, no podría revocar la resolución antidumping porque encontró discriminación de precios en la resolución de la novena revisión administrativa en 2004-2005. (41) El Departamento indica que esto cumple con la disposición del reglamento que establece que el Departamento debe decidir si la “resolución es necesaria para eliminar el dumping.” (42) En apoyo a su posición de que puede considerar un evento ocurrido más de cinco años después del procedimiento en cuestión, cita la decisión de la Corte de Comercio Internacional (CIT, por sus siglas en inglés) en el caso Luoyang Bearing Corp. v. United States. (43) Hylsa impugna el uso de la evidencia de la novena revisión administrativa, como base para decidir en la cuarta revisión, al cuestionar el razonamiento de la CIT en el caso Luoyang (44) y argumenta que ni la decisión ni la evidencia de la novena revisión se encuentran en el expediente que el Panel tiene ante sí. (45)
-
-El Panel se muestra preocupado ante la idea de que el Departamento pueda usar conclusiones a las que llegó (46) en una revisión administrativa tramitada cinco años después del presente procedimiento, como evidencia de discriminación de precios para poder rechazar la solicitud de revocación en esta revisión. No obstante, toma en consideración su papel en el procedimiento del Capítulo 19 del TLCAN, en el sentido de respetar las decisiones de la CIT y de la Corte de Apelaciones para el Circuito Federal. (47) Por lo tanto, ha examinado cuidadosamente la opinión de la CIT para determinar si se debe seguir ese criterio. Encontramos que las circunstancias y el razonamiento de la CIT en ese caso, no son aplicables al nuestro, y que la omisión de la CIT de referirse a la cuestión fundamental de la naturaleza del expediente, no nos da una guía para la revisión del expediente requerida por las Reglas del Capítulo 19.
-
-La empresa, en el caso Louyang impugnó la decisión de no revocar, Zhejian Machinery Import and Export Corp. (ZMC) fue encontrada culpable de cometer discriminación de precios, siendo sometida a una resolución antidumping durante 12 años. La empresa solicitó la revocación basada en los tres años de ventas que no se encontraban por debajo del valor normal, pero el Departamento encontró discriminación de precios en la doceava revisión administrativa. ZMC impugnó esa conclusión y Comercio calculó nuevamente el margen de dumping, llegando a cero, y revocó preliminarmente la resolución. No obstante, debido al retraso en el procedimiento atribuible al error del Departamento, antes de que emitiera su resolución final, encontró en la décimo cuarta revisión administrativa que ZMC estaba incurriendo en discriminación de precios (48). Comercio entonces revisó su resolución preliminar y rechazó revocar la resolución. La CIT se apoyó en la afirmación del Departamento de que “la disciplina de la resolución continúa siendo necesaria para eliminar la discriminación de precios de parte de ZMC” (49) y confirmó la decisión. En apoyo a su resolución argumentó que la legislación antidumping tiene un propósito remedial y no punitivo, el Departamento no podía ignorar esta evidencia recolectada posteriormente, al momento de decidir si revocaba o no la resolución. (50)
-
-Una vez más se nos ha pedido permitir que el Departamento adopte una práctica cuestionable, basada únicamente en la culpabilidad o sospecha de culpabilidad de una parte distinta, violando la legislación de comercio. Y una vez más nos vemos obligados a señalar que a diferencia de ZMC, Hylsa, no ha sido encontrada culpable de cometer discriminación de precios, por lo que consideramos que no es convincente la justificación de la “disciplina de la resolución”. La afirmación de la CIT de que el propósito de la ley es remedial, se puede aplicar a una empresa con antecedentes de discriminación de precios, mas para una empresa que no ha sido encontrada culpable de discriminar precios, resulta difícil entender cómo la aplicación de la ley no tendría un efecto punitivo. Ciertamente, no es factible justificar tan burda desviación de los principios fundamentales del derecho administrativo, los cuales le hubieran permitido al Departamento integrar su propio expediente fuera del escrutinio de este Panel.
-
-Con todo respeto a la CIT, el Panel no comprende cómo pudo realizar la revisión del expediente requerida por la ley, cuando la evidencia decisoria que invoca el Departamento se encontraba fuera de dicho expediente. En el caso Luoyang (51) la CIT consideró el argumento planteado por ZMC de que debía revisar la decisión de Comercio que le llevó a su conclusión de discriminación de precios, pero dijo que estaba fuera del alcance de la materia ante la CIT e “involucraba un expediente que no fue presentado ante la Corte en el contexto de esta acción.” (52) El Panel concluye que el procedimiento y el expediente de la novena revisión de Comercio, no es similar al que se encuentra ante nosotros, aunque su conclusión lo pueda ser. En realidad, no entendemos cómo se podría confirmar la resolución del Departamento sobre esas bases.
-
-Nuestro análisis debe iniciar con lo que constituye el expediente en este caso. La ley define el expediente administrativo como:
-
-(i) una copia de toda la información presentada u obtenida por la… autoridad investigadora …durante el curso de operaciones comerciales normales del procedimiento administrativo; y
-
-(ii) una copia de la resolución, todas las transcripciones o registros de conferencias o audiencias, y todas las notificaciones publicadas en el Federal Register. (53)
-
-La CIT ha clarificado esto, sosteniendo que “cualquier información recibida por la ITA después de la resolución particular en cuestión, no es parte del expediente administrativo revisable.” (54) Al definir la “resolución particular en cuestión” la CIT dijo que “el expediente administrativo en este caso consiste en materiales presentados u obtenidos por la ITA entre el inicio de su revisión administrativa y la publicación de los Resultados Finales en esta revisión…” (55) Hylsa argumenta que el periodo de revisión administrativa en este asunto, durante el cual Comercio puede armar el expediente, “no puede ser mayor de 18 meses después del final del mes aniversario en el cual es solicitada la revisión.” (56) Lo anterior, ignora el hecho de que el Departamento reabrió el expediente debido a la devolución del Panel para estudiar la solicitud de revocación hecha por Hylsa, y que los Resultados Finales de la resolución fueron publicados el 27 de abril de 2006.
-
-Esto nos lleva a un problema conceptual difícil. Al considerar la devolución, Comercio estaba preocupado por las operaciones de Hylsa durante el periodo de la cuarta revisión administrativa, que comprendió del 1° de agosto de 1998 al 31 de julio de 1999, y sus revisiones anteriores, para así considerar la solicitud de revocación de Hylsa, basada en la existencia de tres revisiones consecutivas sin haberse encontrado discriminación de precios. En la publicación de su resolución el 27 de abril de 2006, el Departamento presentó un expediente suplementario. En tanto este expediente contenía información de los periodos de revisión, también incluía los escritos de las partes. Uno de esos escritos, presentado por la reclamante U.S. Steel, citaba el hecho de que en la novena revisión administrativa el Departamento había encontrado a Hylsa culpable de haber discriminado los precios del producto investigado. (57) En su decisión, el Departamento rechazó la solicitud de Hylsa de eliminar tal referencia en el expediente (58) y procedió a invocar las conclusiones de la novena revisión como una justificación separada para denegar la solicitud de revocación en la cuarta revisión. Por lo tanto, es cuestionable que el resultado de la novena revisión de Comercio sea parte del expediente (59) aún cuando éste haya sucedido varios años después del periodo relevante de las operaciones de Hylsa. Esto es apoyado por el lenguaje del criterio de revisión señalado en la Sección §351.222(b)(2)(i)(C) “[sea] de otra manera necesario para eliminar la discriminación de precios”, el cual invita al Departamento a una consideración extensiva de los factores relevantes.
-
-No obstante, el resultado de la novena revisión en el expediente ofrece poca ayuda a este Panel al determinar si existe evidencia sustancial en el expediente para apoyar la decisión del Departamento de no revocar. Esto es así por diversas razones: Primero, la decisión del Departamento no es una decisión final, ya que Hylsa presentó una impugnación judicial. En tanto que las partes pudieran especular acerca del resultado de esta apelación o el mérito de los argumentos de Hylsa para permitir al Departamento basar su decisión en un caso posterior que aún se encuentra en trámite ante las cortes, es irracional. Pero si la resolución del Departamento fuera revertida en la novena revisión, el efecto de su inválida decisión aún continuaría rigiendo el resultado de este procedimiento. El Panel considera que esto es incongruente con los conceptos fundamentales de la responsabilidad administrativa. (60)
-
-Segundo, el Panel está preocupado ante la circunstancia de que si el Departamento hubiera actuado en tiempo en la cuarta revisión y hubiera revocado la resolución, una novena revisión simplemente no hubiera tenido lugar. Sin embargo, en virtud del retraso, el Departamento está en posición de argumentar que la revisión posterior cumple el requisito de que “[sea] de otra manera necesario” para rechazar la revocación. Aún cuando el Departamento puede no ser responsable del retraso en el nombramiento del Panel del Capítulo 19, pero de haber calculado correctamente el margen de dumping originalmente, hubiera considerado la solicitud de revocación de Hylsa en el momento de la revisión, en lugar de seis años después. Con independencia de la falta, el Panel no cree que repercutir el riesgo del retraso en Hylsa, sea lo correcto. Permitir que el Departamento pueda invocar el resultado de una revisión administrativa posterior para justificar su negativa a revocar revisiones anteriores que fueron conducidas en forma dilatoria, promueve retrasos burocráticos estratégicos y el abuso del proceso administrativo.
-
-El presente asunto lleva al Panel a distinguir entre los exportadores que han sido encontrados culpables de cometer discriminación de precios y los que no. El requisito de revocación para aquellos que fueron encontrados culpables de discriminación de precios incluye un acuerdo que permite al Departamento restablecer automáticamente la resolución si encuentra dumping. (61) Ese requisito no existe para Hylsa, aunque el efecto de lo argumentado por el Departamento, le sujetaría a esa condición. Al permitir al Departamento utilizar resoluciones de dumping en revisiones administrativas posteriores (que en teoría no han ocurrido), el Departamento automáticamente puede imponer una resolución antidumping sobre una empresa que no fue previamente encontrada culpable de incurrir en discriminación de precios. Esto le parece al Panel incongruente con el razonamiento, así como con los requisitos de los reglamentos.
-
-Finalmente, y quizá más importante, el Panel no concibe, cómo se puede llevar a cabo una significativa “revisión del expediente”, cuando las circunstancias determinantes se encuentran totalmente fuera del ámbito de revisión del Panel. La prueba de la evidencia sustancial implica la revisión del expediente como un todo, incluyendo la evidencia que apoya y resta valor a la conclusión alcanzada por el Departamento. (62) El Departamento y las partes reclamantes nos harían aceptar el resultado de la novena revisión, como evidencia determinante para fundamentar la negativa a la revocación, sin ninguna evaluación de los elementos de esa decisión. El Panel ha encontrado previamente, que la conclusión de dumping hecha por el Departamento en la cuarta revisión, es fundamentalmente defectuosa, y en última instancia, fue reconsiderada, resultando en un margen de dumping de cero. Todavía estamos siendo llamados a considerar el valor de la conclusión del Departamento en la novena revisión, aún cuando está siendo impugnada por Hylsa en otra instancia. (63) Aquí es donde estamos más preocupados por la decisión de la CIT en el caso Luoyang Bearing Corporation, pues la aceptación del resultado por sí solo como un elemento del expediente sería dispositivo y obviaría cualquier necesidad o impacto de la revisión de expediente. El Panel no cree que el requisito para la revisión del Panel (o revisión judicial para esta materia) se logre de acuerdo con la legislación antidumping y el Tratado de Libre Comercio de América del Norte, cuando el Departamento es autorizado a evadirlo de manera significativa, al interponer su decisión no revisada en un procedimiento posterior.
-
-Hemos revisado la decisión de la Corte Internacional de Comercio en el caso de Floral Trade Council of Davis, California v. United States (64) y hemos encontrado algunas guías adicionales en este punto. En ese caso, el demandante estaba impugnando una resolución del Departamento, en el sentido de que ciertas flores no caen dentro del alcance de la resolución antidumping y buscaba expandir el expediente para incluir las investigaciones completas de la Administración de Comercio Internacional (ITA, por sus siglas en inglés) y la Comisión de Comercio Internacional (ITC, por sus siglas en inglés), que llevaron a las resoluciones que buscaba aclarar. En esta decisión, el Departamento estableció que “sin calificación ha examinado 'las investigaciones originales por el ITC y el Departamento'” y las ha utilizado como base parcial de su decisión. (65) La CIT dijo que cuando el Departamento hace dicha afirmación, la corte “debe asumir que toda la información relevante de esas investigaciones previas fue presentada ante la autoridad para efectos de la presente decisión.” (66) Entonces la CIT amplió el expediente para incluir la evidencia de la investigación en los otros procedimientos. Aquí, la información relevante que ha llevado a la decisión del Departamento no ha sido presentada ante este Panel, pero tal como lo señaló la CIT en el caso Luoyang Bearing Corporation, no es procedente que los procedimientos de la novena revisión administrativa se presenten ante este Panel. Consideramos que la decisión de la CIT en el caso Floral Trade Council es obligatoria. Si el Departamento ha de basarse en otro procedimiento, la evidencia relevante de ese procedimiento debió presentarse al tribunal revisor. En tanto que en este caso, el expediente de la novena revisión quedó fuera del de nuestra consideración en la cuarta revisión, la conclusión de tal procedimiento también deberá quedar fuera del alcance de nuestra revisión de la evidencia sustancial.
-
-Por lo tanto, para efectos de la revisión de la decisión del Departamento de rechazar la solicitud de Hylsa de revocar la resolución antidumping al final de la cuarta revisión administrativa, este Panel no considerará el resultado de la novena revisión administrativa.
-
-(41) Ver Resolución en Devolución. Págs. 55-56; Respuesta. Pág. 17. Nos sentimos consternados de observar que Comercio también ha hecho una resolución preliminar de discriminación de precios de parte de Hylsa en su décima revisión administrativa, 71 Fed. Reg. 27676 (Mayo 12, 2006). Nuestro razonamiento en esta opinión aplicará de igual manera a esa resolución.
-
-(42) 19 C.F.R. §351.222(b)(2)(i)(C).
-
-(43) 358 F. Supp. 2nd 1296 (2005).
-
-(44) Ver Comentarios de Hylsa en la Resolución por Devolución. Págs. 30-32 (Versión No Confidencial).
-
-(45) Id.
-
-(46) Hylsa ha impugnado la decisión del Departamento en la novena revisión en la Corte Internacional de Comercio.
-
-(47) Tratado de Libre Comercio de América del Norte, septiembre 13 de 1993, Parte 7, Disposiciones Administrativas e Institucionales, Capítulo 19, Revisión y solución de controversias en materia de cuotas antidumping y compensatorias. Artículo 1904(2).
-
-(48) Este caso es distinguido más adelante por el hecho de que ZMC fue detectada cometiendo discriminación de precios en la revisión administrativa tan solo dos años después de la revisión que impugnó. Aquí, al contrario, no existe relación o proximidad entre la cuarta y la novena revisión, conducidas cinco años después. Esto más adelante, minó el argumento de Comercio de que es esto es de alguna manera una “continuación” de la práctica comercial de Hylsa.
-
-(49) 358 F. Supp. 2d 1301.
-
-(50) ZMC también estaba intentando hacer un ataque colateral en la décimo cuarta revisión en este caso, el cual después se distingue de nuestro asunto. Ver Zhejjiang Machinery & Export Corp. v. United States, 2005 Ct. Intl. Trade LEXIS 150, Slip Op. 2005-139 Pág. 12 (CIT 2005).
-
-(51) 358 F. Spp.2d 1301 fn 3.
-
-(52) Id.
-
-(53) 19 U.S.C. §1516a(b)(2)(A)(2006). La definición del Artículo 1911 del Capítulo 19 del TLCAN señala que:
-
-expediente administrativo significa, a menos que las Partes y otras personas que comparezcan ante un panel acuerden otra cosa:
-
-(a) toda la información documental o de otra índole que se presente a la autoridad investigadora competente, o ésta obtenga, en el curso de un procedimiento administrativo, incluidos cualesquiera comunicaciones gubernamentales relacionadas con el caso, así como cualquier acta de las reuniones con una sola de las partes interesadas que se requiera conservar;
-
-(b) una copia de la resolución definitiva de la autoridad investigadora competente, que incluya la fundamentación y motivación de la misma;
-
-(c) todas las transcripciones o actas de las reuniones o audiencias ante la autoridad investigadora competente; y
-
-(d) todos los avisos publicados en el diario oficial de la Parte importadora en relación con el procedimiento administrativo;
-
-(54) Intrepid v. United States, 715 F. Supp. 1104, 1109 (CIT 1984) citado en Neuweg Fertigung GmbH v. United States, 797 F. Supp. 1020, 1022 (CIT 1992).
-
-(55) Neuweg Fertigung GmbH Pág. 1023.
-
-(56) Ver Comentarios de Hylsa a la Resolución en Devolución Pág. 32 (Versión No Confidencial), citando la disposición 19 U.S.C. § 1675(a)(3)(A).
-
-(57) Ver Comentarios de U.S. Steel en Apoyo a Comercio, 27 de abril, Resolución en Devolución (Junio 12, 2006).
-
-(58) Ver Resolución en Devolución. Pág. 55; Respuesta de la Autoridad Investigadora. Págs.17-18.
-
-(59) El Panel hace notar que el Departamento pudo haber tomado nota de su propio procedimiento en cualquier evento, aún si una de las partes no lo hubiera llevado al expediente, al incluir la referencia en su escrito.
-
-(60) Esta es una situación tan anómala que nuestra investigación no ha revelado ninguna decisión que estudie tal circunstancia. Su ilógica básica sugiere por qué ninguna corte lo ha estudiado.
-
-(61) 19 C.F.R. §351.222(b)(2)(i)(B).
-
-(62) Ver e.g. Gerald Metals, Inc. v. United States, 132 F.3d 716, 720 (Fed. Cir. 1997).
-
-(63) En teoría, este Panel pudo haber tenido ambos casos ante él bajo las Reglas del Capítulo 19, y hubiera podido estudiar esta preocupación particular, no así los dos argumentos previamente presentados.
-
-(64) 709 F. Supp. 229 (CIT 1989).
-
-(65) Id. Pág. 230.
-
-(66) Id.
-
-III. DECISION Y ORDEN
-
-Es nuestra conclusión que el Departamento actuó de manera arbitraria y de forma caprichosa, al no justificar su decisión de que Hylsa no vendió la mercancía investigada en cantidades comerciales durante los periodos de revisión. Por lo tanto, se devuelve el asunto al Departamento para mayor consideración, a la luz de los argumentos presentados por el Panel. Esto es necesario, dada nuestra conclusión de que los resultados de la novena revisión administrativa no pueden ser tomados en cuenta por el Departamento en su resolución de la cuarta revisión, quedando el criterio de ventas en cantidades comerciales como única base para su negativa a revocar la resolución antidumping en contra de Hylsa.
-
-Por las razones antes expuestas, el Panel ordena que este asunto sea devuelto al Departamento de Comercio para que reconsidere, de manera congruente con las conclusiones de este Panel, su determinación de que Hylsa no vendió en cantidades comerciales.
-
-El Departamento deberá reportar los resultados de esta decisión de devolución dentro de los 45 días siguientes a la fecha de esta orden.
-
-Emitida el 9 de agosto de 2006.
-
-Firmada en el original por:
-
-Howard N. Fenton, Chair
-
-Rúbrica.
-
-Héctor Cuadra
-
-Rúbrica.
-
-Arturo Lan
-
-Rúbrica.
-
-Peter L. Fitzgerald
-
-Rúbrica.
-
-Jaime Galicia
-
-Rúbrica.
+Tratándose de la importación de bienes clasificados en las fracciones arancelarias 1806.10.01 y 2106.90.05 adicionalmente a lo establecido en los dos párrafos anteriores de este artículo el importador deberá demostrar que el insumo clasificado en la subpartida 1701.99 utilizado en la producción de dichos bienes se consideró un “producto calificado” de los Estados Unidos de América conforme a lo dispuesto en la Sección A del Anexo 703.2 del TLCAN.”
 
 ###### ARTICULO PRIMERO.
 
@@ -604,6 +350,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2006.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-México, D.F., a 4 de agosto de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
