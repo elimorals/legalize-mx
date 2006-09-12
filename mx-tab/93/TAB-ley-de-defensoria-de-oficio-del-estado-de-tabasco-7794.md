@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-defensoria-de-oficio-del-estado-de-tabasco-7794"
 country: "mx"
 rank: "ley"
 publication_date: "1993-09-15"
-last_updated: "1993-09-15"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DEFENSORIA DE OFICIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 15 de septiembre de 1993.
 
@@ -69,9 +69,13 @@ II. Coordinación de Defensores;
 
 III. Departamento de Asuntos Penales;
 
-IV. Departamento de Asuntos no Penales; y
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-V. Departamento Administrativo.
+IV. Departamento de Defensores de Oficio Especializados para Adolescentes Sujetos del Sistema Integral de Justicia;
+
+V. Departamento de Asuntos no Penales; y
+
+VI. Departamento Administrativo.
 
 La Dirección General, Coordinación y Departamentos, contarán con el personal de oficina e intendencia que el presupuesto determine.
 
@@ -534,3 +538,15 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
