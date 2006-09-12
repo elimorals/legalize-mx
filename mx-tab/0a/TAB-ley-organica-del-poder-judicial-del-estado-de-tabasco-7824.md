@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "2002-01-29"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -603,7 +603,9 @@ V.- De las diligencia de consignación de todo lo relativo al derecho familiar;
 
 VI.- De la diligenciación de los exhortos, suplicatorios, requisitorias o despachos, relacionados con asuntos de lo familiar;
 
-VII.- De las cuestiones relativas a los asuntos que afecten en sus derechos de persona, a los menores e incapacitados; así como en general todas las cuestiones familiares que reclamen la intervención judicial;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- De las cuestiones relativas a los asuntos que afecten en sus derechos de persona, a las personas menores de edad e incapacitados; así como en general todas las cuestiones familiares que reclamen la intervención judicial;
 
 VIII.- De los demás que les encomienden las Leyes.
 
@@ -2302,3 +2304,13 @@ El Magistrado Presidente del Tribunal y del Consejo, acordará solicitar al Pode
 ###### ARTÍCULO DÉCIMO.
 
 Los procedimientos administrativos pendientes, para la aplicación de sanciones a los servidores públicos que conforme a las disposiciones de este decreto, pasen a ser competencia del Consejo de la Judicatura, deberán ser remitidas a éste por el Magistrado Presidente del Tribunal Superior de Justicia para que se continúen tramitando ante el mismo, con base a las disposiciones anteriores, salvo que las nuevas favorezcan a los servidores públicos involucrados o que estos de manera expresa decidan acogerse a las nuevas disposiciones. En lo que respecta a servidores públicos que de acuerdo a lo establecido en el presente decreto, sean competencia del Pleno del Tribunal Superior de Justicia, se continuarán tramitando por éste conforme a las disposiciones anteriores, salvo que los servidores públicos involucrados manifiesten acogerse a las nuevas disposiciones.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
