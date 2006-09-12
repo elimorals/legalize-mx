@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2004-12-21"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -875,7 +875,9 @@ XXIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de libertad anticipa
 
 XXV. Ser conducto para el ejercicio de la atribución del Gobernador del Estado en materia de inclusión de reos del orden común para su traslado a su país de origen para el cumplimiento de la condena que les hubiere sido impuesta, conforme a lo dispuesto por el párrafo quinto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVI. Administrar el sistema de impartición de justicia juvenil, en términos de la política correspondiente y con estricto respeto a las libertades fundamentales del individuo;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXVI. Ejecutar las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
 
 XXVII. Coordinar los programas y comisiones de seguridad pública;
 
@@ -1114,3 +1116,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinte días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
