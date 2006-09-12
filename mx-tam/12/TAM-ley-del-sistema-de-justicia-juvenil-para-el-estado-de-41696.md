@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-sistema-de-justicia-juvenil-para-el-estado-de-41696"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-10"
-last_updated: "2004-11-10"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 10 de noviembre de 2004.
 
@@ -1160,3 +1162,23 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de junio del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, manteniendo su vigencia hasta el 31 de diciembre de 2007.
+
+Artículo Segundo. Se abroga la Ley del Sistema de Justicia Juvenil, expedida mediante Decreto número 726 del 18 de mayo de 2004, publicada en el Periódico Oficial número 135 del 10 de noviembre de 2004, así como las disposiciones de ley que se opongan a los preceptos contenidos en el ordenamiento que se expide.
+
+Artículo Tercero. Con motivo de la preparación y presentación de la iniciativa de Decreto del Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2007, el Ejecutivo del Estado y el Supremo Tribunal de Justicia del Estado deberán hacer las gestiones y adecuaciones presupuestales necesarias para que a la entrada en vigor de este ordenamiento, inicien sus funciones las instituciones, órganos e instancias previstas para su aplicación y ejecución.
+
+Artículo Cuarto. En el lapso previo a la entrada en vigor de la presente ley, las autoridades competentes deberán prever la selección, el reclutamiento y los programas de capacitación inicial y permanente de los servidores públicos que integrarán el personal especializado previsto en este ordenamiento, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las dependencias estatales o el Supremo Tribunal de Justicia del Estado tengan firmados con organismos especializados en la protección de los derechos de los adolescentes.
+
+Artículo Quinto. Los procesados y sentenciados, que al momento de la comisión del delito hubiesen tenido menos de dieciocho años de edad, serán turnados a las autoridades competentes a fin de continuar con el proceso o ajustar la pena o medida de seguridad impuesta, según corresponda, de conformidad con lo dispuesto por la presente ley.
+
+Para determinar las medidas de tratamiento contenidas en la presente ley, en su caso, se deberá computar el tiempo que estuvo privado de la libertad.
+
+Artículo Sexto. Las investigaciones o Averiguaciones Previas que se encuentre integrando con motivo de la realización de conductas tipificadas como delitos por las leyes penales, antes de los dieciocho años, se tramitarán conforme a las disposiciones aplicables de este Decreto.
+
+Artículo Séptimo. Las órdenes de aprehensión o comparecencia respectivas que se libren contra los adolescentes que comprende esta ley y que no hubieren sido ejecutadas a la entrada en vigor del presente Decreto, quedarán sin efecto y se librarán las órdenes de aprehensión y comparecencia respectivas, si correspondiere, con base en el presente ordenamiento.
