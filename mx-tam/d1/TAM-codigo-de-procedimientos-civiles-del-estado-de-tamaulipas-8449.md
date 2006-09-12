@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2006-09-06"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -157,21 +157,33 @@ Dentro de los tres días de haberse hecho saber una corrección disciplinaria a 
 
 (DEROGADO, P.O. 22 DE JUNIO DE 1988)
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 16.
 
-Los Tribunales para hacer cumplir sus determinaciones, pueden emplear, a discreción, las siguientes medidas de apremio:
+Los tribunales para hacer cumplir sus determinaciones, pueden emplear a discreción, los siguientes medios de apremio:
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
 I.- Multa que no exceda del equivalente al importe de sesenta días de salario mínimo vigente en la Capital del Estado;
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
 II.- El auxilio de la fuerza pública, que deberá proporcionarse en el momento que fuere solicitado;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
 III.- El cateo por orden escrita. En cada caso se especificará su objeto y podrá autorizarse la rotura de cerraduras si las circunstancias así lo exigen; y,
 
-IV.- El arresto hasta por quince días. La Policía deberá informar al Juzgado, en cada caso, la fecha en que se llevó a cabo la detención.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- El arresto hasta por 36 horas. La policía deberá informar al juzgado, en cada caso, la fecha en que se llevó a cabo la detención.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 Todo requerimiento con apercibimiento de emplear medios de apremio, deberá notificarse personalmente a la parte que corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 Si fuese insuficiente el apremio, se procederá contra el rebelde conforme al Código Penal.
 
@@ -4845,7 +4857,7 @@ Si el embargo o ejecución afectare bienes de la sociedad legal, deberá reducir
 
 ###### ARTICULO 673.
 
-La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución, se substanciarán en la forma prevista para las tercerías.
+La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución se substanciarán en la forma prevista para las tercerías.
 
 ###### ARTICULO 674.
 
@@ -7143,7 +7155,7 @@ III.- No obstante lo dispuesto en la fracción anterior, para ejecutar las resol
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, se remitirá al superior copia de la resolución apelada, con razón de su notificación, y, además, testimonio de lo que señale el apelante, con las adiciones que haga la contraria y las que el juez estime necesarias. El apelante deberá hacer el señalamiento de constancias en el escrito en que haga valer el recurso o dentro del término concedido para su interposición. Si transcurrido éste no lo hizo, se le denegará el testimonio, y se tendrá por firme la resolución apelada;
+IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, se remitirá al superior copia de la resolución apelada, con razón de su notificación, y, además, testimonio de lo que señale el apelante, con las adiciones que haga la contraria y las que el juez estime necesarias. El apelante deberá hacer el señalamiento de constancias en el escrito en que haga valer el recurso o dentro del término concedido para su interposición. Si transcurrido éste no lo hizo, se le denegará el testimonio, y se tendrá por firme la resolución apelada.
 
 V.- Si se tratare de sentencia, se dejará en el juzgado testimonio de lo necesario para ejecutarla, en su caso, remitiéndose los autos originales al superior para la sustanciación del recurso.
 
@@ -7195,23 +7207,23 @@ I.- Llegados al Supremo Tribunal los autos o el testimonio de constancias, se tu
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Esta dictará el auto de radicación y ordenará su notificación, la que será personal sólo en el caso que se haya dejado de actuar por más de seis meses y se haya señalado domicilio para la segunda instancia;
+II.- Esta dictará el auto de radicación y ordenará su notificación, la que será personal sólo en el caso que se haya dejado de actuar por más de seis meses y se haya señalado domicilio para la segunda instancia.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Efectuado lo anterior, decidirá sobre la admisión del recurso y la calificación de grado hecha por el inferior, resolviendo simultáneamente las reclamaciones que hubiere por apelación mal admitida. Declarada inadmisible la apelación, se devolverán los autos; modificada la calificación, se procederá en consecuencia;
+III.- Efectuado lo anterior, decidirá sobre la admisión del recurso y la calificación de grado hecha por el inferior, resolviendo simultáneamente las reclamaciones que hubiere por apelación mal admitida. Declarada inadmisible la apelación, se devolverán los autos; modificada la calificación, se procederá en consecuencia.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Si en primera instancia se hubiere rechazado el recurso y el juez lo hubiese posteriormente admitido por la inasistencia de la parte inconforme, según lo previsto por el artículo 932, y si además apareciese que efectivamente debe desecharse, se estará a lo dispuesto por el artículo 938;
+IV.- Si en primera instancia se hubiere rechazado el recurso y el juez lo hubiese posteriormente admitido por la inasistencia de la parte inconforme, según lo previsto por el artículo 932, y si además apareciese que efectivamente debe desecharse, se estará a lo dispuesto por el artículo 938.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Sólo en los escritos de expresión de agravios y contestación, las partes podrán ofrecer pruebas, cuya admisión o no, se acordarán al calificar el recurso;
+V.- Sólo en los escritos de expresión de agravios y contestación, las partes podrán ofrecer pruebas, cuya admisión o no, se acordarán al calificar el recurso.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-VI.- Si el tribunal resuelve admitir pruebas que ameriten desahogo, abrirá un periodo para tal efecto que no podrá exceder de diez días;
+VI.- Si el tribunal resuelve admitir pruebas que ameriten desahogo, abrirá un periodo para tal efecto que no podrá exceder de diez días.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7414,6 +7426,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 DECRETO No. LIX-565
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
 
