@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-defensoria-publica-del-estado-de-tamaulipas-antes-21985"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-06"
-last_updated: "2001-06-06"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de junio de 2001.
 
@@ -53,7 +53,9 @@ I.- Proporcionar, obligatoria y gratuitamente, defensa en materia penal en cualq
 
 II.- Proporcionar, gratuitamente, patrocinio en materia civil, siempre y cuando los solicitantes justifiquen plenamente no estar en capacidad de cubrir los honorarios de un abogado patrono particular. Tratándose de la parte actora, sólo será patrocinada en los casos de jurisdicción voluntaria;
 
-III.- Defender a los menores infractores cuando así le sea solicitado o lo defina la autoridad correspondiente; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Defender a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito en las leyes del Estado, cuando así le sea solicitado o lo defina la autoridad correspondiente; y,
 
 IV.- Proporcionar orientación y consejo jurídico a las personas que lo soliciten.
 
@@ -81,9 +83,15 @@ La Dirección de la Defensoría de Oficio, para el cumplimiento de sus funciones
 
 I.- Un Director;
 
-II.- Un cuerpo de defensores de oficio, en materia civil, asignados al Ministerio Público investigador, a los juzgados menores, a los juzgados penales, a las salas penales del Supremo Tribunal de Justicia del Estado, a los Consejos Tutelares y a la Dirección; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Un cuerpo de defensores de oficio, en materia civil, asignados al ministerio público investigador, a los juzgados menores, a los juzgados penales, a los juzgados especializados en justicia para adolescentes, a las salas penales y de justicia para adolescentes del Supremo Tribunal de Justicia del Estado, y a la Dirección; y,
 
 III.- El personal administrativo que el servicio requiera.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Para la estricta observancia de lo dispuesto en las leyes relativas al conocimiento, investigación y enjuiciamiento de las conductas consideradas como delito en las leyes del Estado que se atribuyan a los adolescentes, se designarán los defensores de oficio especializados que resulten necesarios para la debida atención de los casos en la materia.
 
 ###### ARTICULO 8°.
 
@@ -91,7 +99,9 @@ Serán funciones de la defensoría de oficio las siguientes:
 
 I.- Atender los asuntos que le sean encomendados, dentro del territorio del Estado;
 
-II.- Atender la defensa desde el momento en que el inculpado tiene contacto con la autoridad investigadora, siempre que aquel no cuente con abogado particular;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Atender la defensa desde el momento en que el inculpado, o el adolescente a quien se atribuya la realización de una conducta tipificada como delito en las leyes del Estado, tengan contacto con la autoridad investigadora, siempre que no cuenten con abogado particular;
 
 III.- Tutelar los intereses procesales de sus defendidos y patrocinados;
 
@@ -99,7 +109,13 @@ IV.- Estar presente e intervenir en las diligencias de averiguación previa y en
 
 V.- Tramitar ante el Ministerio Público, el Juez o la Sala correspondientes, la libertad provisional bajo caución de los inculpados;
 
-VI.- Denunciar, en su caso, las violaciones a los derechos humanos que se detecten en la averiguación previa en los tribunales judiciales, centros de reclusión y consejos tutelares;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Denunciar, en su caso, las violaciones a los derechos humanos que se detecten en:
+
+a) La averiguación previa, en los procesos ante los tribunales judiciales y en los centros de reclusión; y
+
+b) La investigación, en los procesos ante los tribunales para adolescentes y centros de reintegración social y familiar para adolescentes;
 
 VII.- Intervenir en el patrocinio de los particulares que soliciten el servicio en los juicios civiles;
 
@@ -109,9 +125,15 @@ IX.- Promover oportunamente el ofrecimiento y desahogo de las pruebas necesarias
 
 X.- Tramitar los recursos de apelación interpuestos en contra de resoluciones dictadas en materia penal y civil, expresando oportunamente los agravios que procedan;
 
-XI.- Acudir al llamado de los menores infractores, o de quienes los representen, que requieran de sus servicios y brindarles la asesoría correspondiente, aceptar el cargo de defensor y comparecer a todas las diligencias; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y otras disposiciones legales le señalen.
+XI.- Acudir al llamado de los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito en las leyes del Estado, o de quienes los representen, que requieran de sus servicios, y brindarles la asesoría correspondiente, aceptar el cargo de defensor y comparecer a todas las diligencias;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XII.- Interponer, cuando proceda, los recursos a que se refieren los ordenamientos en materia de conocimiento, investigación y enjuiciamiento de las conductas consideradas como delito que se atribuyan a los adolescentes; y
+
+XIII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y otras disposiciones legales le señalen.
 
 ###### ARTICULO 9°.
 
@@ -131,6 +153,10 @@ IV.- Tener por lo menos tres años de ejercicio profesional anteriores al cargo,
 
 V.- No haber sido condenado por sentencia ejecutoriada como responsable de delito doloso, ni inhabilitado por responsabilidad administrativa.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Además de los requisitos señalados en las fracciones anteriores, los Defensores de Oficio Especializados en Justicia para Adolescentes, deberán aprobar un examen general de conocimientos teórico-prácticos que los acredite como profesionistas competentes y conocedores de los instrumentos internacionales sobre justicia para adolescentes ratificados por los Estados Unidos Mexicanos y de la legislación de la materia.
+
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL DIRECTOR
 
 ###### ARTICULO 11.
@@ -147,7 +173,9 @@ IV.- Acordar con el Secretario General de Gobierno la circunscripción y organiz
 
 V.- Calificar los casos en que proceda el patrocinio en asuntos civiles, así como las excusas de los defensores de oficio;
 
-VI.- Visitar periódicamente las agencias del Ministerio Público, los tribunales de adscripción de los defensores de oficio, los centros de prevención y readaptación social y consejos tutelares, para cerciorarse del debido y honesto ejercicio de la función de la defensoría;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Visitar periódicamente las agencias del ministerio público, los tribunales de adscripción de los defensores de oficio, los centros de prevención, de readaptación social, y de reintegración social y familiar para adolescentes, a fin de cerciorarse del debido y honesto ejercicio de la función de la defensoría;
 
 VII.- Desahogar las consultas de las personas que acudan a la Dirección en demanda del servicio y las de servidores públicos de la institución relacionadas con sus funciones;
 
@@ -187,7 +215,9 @@ III.- Estar presente e intervenir en todas las diligencias y etapas de la averig
 
 IV.- Gestionar la libertad de sus defendidos procurando que las fianzas sean asequibles, así como promover las de interés social;
 
-V.- Concurrir, cuando menos una vez a la semana, a los centros de readaptación social y consejos tutelares, de su adscripción, a entrevistarse con los inculpados cuya defensa tengan a su cargo, debiendo recabar constancia de cada entrevista;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Concurrir, cuando menos una vez a la semana, a los centros de readaptación social y centros de reintegración social y familiar para adolescentes de su adscripción, a entrevistarse con los inculpados, o adolescentes a quienes se atribuya la realización de una conducta tipificada como delito en las leyes del Estado cuya defensa tengan a su cargo, debiendo recabar constancia de cada entrevista;
 
 VI.- Proponer ante la Dirección, las medidas que tiendan a mejorar la situación de sus defendidos o patrocinados;
 
@@ -205,9 +235,27 @@ XII.- Rendir, trimestralmente, informe sobre sus intervenciones efectuadas, prop
 
 XIII.- Informar oportunamente a los interesados sobre el estado de sus asuntos;
 
-XIV.- Conceder, en horarios de oficinas, audiencias a sus patrocinados y, en su caso, a los interesados; y
+XIV.- Conceder, en horarios de oficinas, audiencias a sus patrocinados y, en su caso, a los interesados;
 
 XV.- Guardar el secreto profesional en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 12 BIS.- Adicionalmente a las obligaciones señaladas en el artículo anterior, los Defensores de Oficio Especializados en Justicia para Adolescentes tienen las siguientes:
+
+I.- Ejercer la defensa legal de los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito en las leyes del Estado, desde el momento en que sean presentados ante el Ministerio Público y mientras estén sujetos a cualquiera de las fases del proceso;
+
+II.- Velar por el estricto cumplimiento de los derechos y garantías de los adolescentes a quienes se les atribuya la comisión de una conducta tipificada como delito en las leyes del Estado, haciéndolo del conocimiento, en su caso, de las autoridades competentes cuando no les sean respetados, o exista evidencia de su inminente violación;
+
+III.- Vigilar que se garantice que no se divulguen, total o parcialmente, por cualquier medio de comunicación, el nombre del adolescente, los hechos o documentos del proceso;
+
+IV.- Mantener una comunicación constante con el adolescente, sus padres, tutores, o quien ejerza la patria potestad o custodia, informándoles del estado de la investigación, la fase del proceso y, en su caso, la medida de tratamiento que le fuere impuesta;
+
+V.- Informar de inmediato al adolescente a quien se atribuya la realización de una conducta prevista como delito por las leyes del Estado, sobre su situación jurídica, así como los derechos y garantías que a su favor otorgan las disposiciones legales aplicables;
+
+VI.- Promover la conciliación, la mediación o demás formas alternativas de justicia entre las partes, para la solución del conflicto derivado de la comisión de la conducta tipificada como delito en las leyes del Estado; y
+
+VII.- Realizar todos los trámites o gestiones necesarios, en tiempo y conforme a derecho para una eficaz defensa del adolescente, incluyendo del ofrecimiento y desahogo de pruebas, la formulación de alegatos, agravios, conclusiones, interposición de recursos, incidentes y demás actos conducentes.
 
 ### CAPITULO V. DE LAS LICENCIAS Y EXCUSAS
 
@@ -221,7 +269,9 @@ Los defensores de oficio deberán excusarse cuando:
 
 I.- Tengan parentesco, sin limitación de grado, o relación de amistad, trabajo o respeto con el ofendido o la contraparte;
 
-II.- Hayan presentado por sí, o su cónyuge o parientes, querella o denuncia en contra de alguno de los interesados, o del inculpado;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Hayan presentado por sí, su cónyuge o parientes, querella o denuncia en contra de alguno de los interesados, del adolescente a quien se atribuya la realización de una conducta tipificada como delito en las leyes del Estado o del inculpado;
 
 III.- Hayan patrocinado en algún asunto al ofendido o a la contraparte;
 
@@ -241,7 +291,9 @@ X.- Hayan asistido durante la tramitación del asunto a convite que les hubieran
 
 XI.- Hayan sido abogados, procuradores, peritos o testigos del ofendido o de la contraparte en el negocio de que se trate; o
 
-XII.- Se presenten reiteradas muestras de desconfianza de parte del inculpado o patrocinado o reciba de su parte ofensas que afecten la objetividad en la defensa.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XII.- Se presenten reiteradas muestras de desconfianza de parte del inculpado, patrocinado o del adolescente a quien se atribuya la realización de una conducta tipificada como delito en las leyes del Estado, o reciba de su parte ofensas que afecten la objetividad de la defensa.
 
 ###### ARTICULO 15.
 
@@ -290,3 +342,15 @@ Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas a los veintiocho días del mes de mayo del año dos mil uno.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado hará las transferencias y ampliaciones presupuestales necesarias para el cumplimiento de este Decreto durante el ejercicio presupuestal del presente año, en términos del Decreto del Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2006.
