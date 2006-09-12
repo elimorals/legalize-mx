@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2005-04-06"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -129,7 +129,7 @@ Son obligaciones de los ciudadanos del Estado:
 
 I. Votar en las elecciones populares en la forma que disponga la ley.
 
-II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima.
+II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima..
 
 III. Alistarse en la Guardia Nacional.
 
@@ -885,9 +885,9 @@ XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el 
 
 XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1965)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XLVIII. Dictar leyes para organizar dentro o fuera del Estado pero dentro del territorio de la República, el sistema penal por colonias, penitenciarías sobre la base del trabajo, como medio de regeneración;
+XLVIII. Dictar Leyes para organizar el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente; y dictar las Leyes necesarias para establecer un sistema integral de justicia para adolescentes, en el que se garanticen los derechos fundamentales que reconocen la Constitución General de la República y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos, atendiendo a la esencia del artículo 18 de la Constitución General de la República;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1321,7 +1321,7 @@ IV.- Conforme a la libertad de creencias y el principio histórico de la separac
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes y decretos del Congreso, y proveer en la esfera administrativa cuando fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos.
+V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes y decretos del Congreso, y proveer en la esfera administrativa cuando fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1351,7 +1351,7 @@ XI.- Resolver gubernativamente los asuntos que pongan las Leyes en el ámbito de
 
 XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes para el mejoramiento de las funciones del Poder Público del Estado y solicitar a éste órgano que inicie ante el Congreso de la Unión lo que sea de la competencia federal;
 
-XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
+XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -1365,7 +1365,7 @@ XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se adm
 
 XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
 
-XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
+XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
 
 > <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
 
@@ -1377,11 +1377,11 @@ XIX.- Convocar a los miembros del Congreso para el desempeño de sus funciones, 
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión.
+XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto.
+XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
 
 XXII.- (DEROGADA, P.O. 14 DE MARZO DE 2001)
 
@@ -1389,11 +1389,11 @@ XXII.- (DEROGADA, P.O. 14 DE MARZO DE 2001)
 
 XXIII.- Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;
 
-XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos.
+XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos;
 
-XXV. Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes.
+XXV. Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes;
 
-XXVI. Conceder indulto de las penas en los términos y con los requisitos que expresa la ley.
+XXVI. Conceder indulto de las penas en los términos y con los requisitos que expresa la ley;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1405,37 +1405,37 @@ XXVIII.- Sancionar a quienes le falten al respeto o infrinjan los reglamentos gu
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-XXIX. Representar al Gobierno del Estado en todos los actos inherentes a su cargo. Esta representación podrá delegarla u otorgarla en favor de terceros en los términos más amplios que, para tal efecto, fijen las leyes.
+XXIX. Representar al Gobierno del Estado en todos los actos inherentes a su cargo. Esta representación podrá delegarla u otorgarla en favor de terceros en los términos más amplios que, para tal efecto, fijen las leyes;
 
-XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito.
+XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
 
-XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
+XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre la misma en sesión pública, extraordinaria y solemne del Congreso que se verificará el último domingo del mes de noviembre de cada año.
+XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre la misma en sesión pública, extraordinaria y solemne del Congreso que se verificará el último domingo del mes de noviembre de cada año;
 
-XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
+XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 XXXV.- Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;
 
-XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente.
+XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente;
 
-XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden.
+XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 XXXVIII.- Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;
 
-XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley.
+XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley;
 
-XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos ramos de la Administración
+XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos ramos de la Administración;
 
 XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
 
@@ -1445,13 +1445,13 @@ XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayunta
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
-XLIII.- Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía.
+XLIII.- Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía;
 
-XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio.
+XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
-XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva.
+XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
@@ -1565,11 +1565,11 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores y en el Jurado Popular.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 101.
 
-La potestad de impartir justicia mediante la aplicación de las leyes en lo familiar, civil y penal, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
+La potestad de impartir justicia mediante la aplicación de las leyes en lo familiar, civil, penal y de justicia para adolescentes, así como de aquéllas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1705,7 +1705,9 @@ Las faltas temporales y definitivas de los Magistrados serán cubiertas en los t
 
 Son atribuciones del Supremo Tribunal de Justicia:
 
-I.- Conocer en segunda instancia de los asuntos familiares, civiles o penales, y de aquellos que establezcan otras leyes, que al efecto remitan los Jueces de Primera Instancia y Menores;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de Primera Instancia o Menores;
 
 II.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o los Ayuntamientos;
 
@@ -1767,9 +1769,15 @@ XXIX.- Constituir, modificar, suprimir o aumentar los órganos administrativos q
 
 XXX.- Discutir y aprobar el proyecto de presupuesto anual de egresos del Poder Judicial que deberá formular y proponer el Presidente, el que deberá ser remitido al Congreso del Estado, para su aprobación, así como ejercer y administrar en forma autónoma el presupuesto que le sea aprobado;
 
-XXXI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XXXII.- Las demás facultades y obligaciones que las leyes le otorguen.
+XXXI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXXII.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia; y
+
+XXXIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1853,9 +1861,13 @@ La institución del Ministerio Público representa los intereses de la sociedad 
 
 Son atribuciones del Ministerio Público:
 
-I.- Intervenir, ejerciendo la acción penal, en todos los juicios de este orden;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Cuidar que se ejecuten las penas impuestas por los Tribunales, exigiendo, de quien corresponda y bajo su responsabilidad el cumplimiento de las sentencias recaídas;
+I.- Ejercer la acción penal para el enjuiciamiento de los probables responsables de las conductas delictivas e intervenir durante los procedimientos penales y de justicia para adolescentes;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Cuidar que se ejecuten las penas y las medidas para adolescentes impuestas por los órganos jurisdiccionales, exigiendo, de quien corresponda y bajo su responsabilidad, el cumplimiento de las sentencias recaídas;
 
 III.- Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficencia pública, a los que representará, siempre que no tuvieren quién los patrocine, velando por sus intereses;
 
@@ -1873,7 +1885,9 @@ IX.- Cuidar que los juicios del orden penal se sigan con toda regularidad para q
 
 X.- Investigar las detenciones arbitrarias y otros abusos de autoridad que se cometan, adoptando las medidas necesarias para hacerlas cesar de inmediato, sin perjuicio de proveer lo conducente al castigo de los responsables;
 
-XI.- Promover la conciliación entre las partes en los delitos perseguibles por querella necesaria; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XI.- Promover la mediación, la conciliación y demás formas alternativas de justicia entre las partes en los delitos en que proceda conforme a la ley, así como la justicia restaurativa en los Sistemas Penal y de Justicia para Adolescentes; y
 
 XII.- Las demás que le señalen las leyes.
 
@@ -1893,20 +1907,6 @@ El nombramiento del Procurador General de Justicia se hará por el Gobernador, c
 
 ###### Art. 126.
 
-El organismo a que se refiere el Artículo 58 fracción XVIII de esta Constitución se denominará "Comisión de Derechos Humanos del Estado de Tamaulipas". Será un Organismo Público, Descentralizado, Autónomo e Independiente, con personalidad jurídica y patrimonio propio que tendrá por objeto la protección de los Derechos Humanos que otorga el orden jurídico mexicano; conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquied (sic) autoridad o servidor público que viole estos derechos en el ámbito del Estado. Formulará recomendaciones públicas, autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
-
-Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
-
-Una ley establecerá las bases de su organización y funcionamiento.
-
-## TITULO VIII. DE LA DEFENSORIA DE OFICIO
-
-### CAPITULO II. De la Comisión de Derechos Humanos
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
-
-###### Artículo 126.
-
 El organismo a que se refiere el artículo 58, fracción XVIII, de esta Constitución se denominará Comisión de Derechos Humanos del Estado de Tamaulipas. Será un organismo público autónomo e independiente, con personalidad jurídica y patrimonio propios que tendrá por objeto la protección de los derechos humanos que otorga el orden público mexicano, conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que viole estos derechos en el ámbito del Estado. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
@@ -1921,9 +1921,15 @@ Una ley establecerá las bases de su organización y funcionamiento.
 
 El titular del organismo deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
+## TITULO VIII. DE LA DEFENSORIA DE OFICIO
+
+### CAPITULO II. De la Comisión de Derechos Humanos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
 ###### Art. 127.
 
-En cumplimiento a lo dispuesto en el Artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados, de intervenir como Abogados Patronos de las partes en materia civil y de aconsejar, en este ramo, a quien así lo solicite.
+Se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados y a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años, de intervenir como abogados patronos de las partes en materia civil, y de aconsejar, en este ramo, a quien así lo solicite.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1939,7 +1945,7 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 130.
 
@@ -3249,13 +3255,11 @@ P.O. 6 DE ABRIL DE 2005.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27 Y ADICIONA LA FRACCIÓN XXIX-G DEL ARTÍCULO 73.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
