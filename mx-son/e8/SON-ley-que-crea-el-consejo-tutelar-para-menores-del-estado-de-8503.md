@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-consejo-tutelar-para-menores-del-estado-de-8503
 country: "mx"
 rank: "ley"
 publication_date: "1985-06-03"
-last_updated: "1992-12-28"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
+N. DE .E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE LA LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 12 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de junio de 1985.
 
@@ -832,3 +834,55 @@ B.O. 28 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor noventa días después de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea el Consejo Tutelar para Menores del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado Número 44, Sección I, de fecha 03 de junio de 1985 y sus reformas.
+
+La Procuraduría de la Defensa del Menor y la Familia, órgano dependiente del Sistema Estatal para el Desarrollo de la Familia creado por la ley que se abroga por virtud del presente ordenamiento, seguirá teniendo existencia jurídica en los términos de lo que dispongan otros ordenamientos legales y reglamentarios que le sean aplicables y continuará ejerciendo las atribuciones y funciones que le otorguen los mismos, con excepción de las referidas a la defensa de menores infractores.
+
+Las custodias de menores otorgadas por el Consejo Tutelar para Menores a la Procuraduría de la Defensa del Menor y la Familia o a cualquier otra institución pública o social, de conformidad con la ley que se abroga, subsistirán hasta en tanto se resuelve la situación de tales menores por las autoridades competentes en materia de derecho familiar, como es su reintegración a la familia si procediere o a un hogar substituto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de entrada en vigor de la presente ley, el Ejecutivo del Estado y las autoridades del Poder Judicial, realizarán las acciones conducentes a la instalación de los órganos que conformarán el Sistema Integral de Justicia para Adolescentes; asimismo, en sus respectivos ámbitos de competencia, establecerán programas para la selección, capacitación inicial y permanente de los servidores públicos que ejercerán las funciones previstas por esta ley para las autoridades y órganos que integrarán el Sistema Integral de Justicia para Adolescentes.
+
+###### ARTÍCULO CUARTO.
+
+Los adolescentes que se encuentren privados de su libertad por la comisión de una conducta tipificada como delito por las leyes penales considerada como no grave, serán puestos en libertad en forma inmediata, sin perjuicio de la aplicación de esta ley en lo que resulte procedente.
+
+El mismo procedimiento habrá de aplicarse a los adolescentes que se encuentren privados de su libertad por la comisión de una conducta tipificada como delito por las leyes penales, independientemente de su gravedad, pero que sean mayores de doce y menores de catorce años, sin perjuicio de la aplicación de esta ley en lo que resulte procedente.
+
+###### ARTÍCULO QUINTO.
+
+Los adolescentes que habiendo cometido una conducta tipificada como delito por las leyes penales calificada como grave, y que se encuentren en internamiento por una resolución definitiva por un plazo igual o mayor a siete años, serán puestos en libertad en forma inmediata. Los adolescentes que se encuentren sujetos a una medida de internamiento por un término menor al anteriormente señalado tendrán derecho a que sea revisada la medida por un Juez especializado en los términos previstos por esta ley.
+
+Las medidas de externamiento impuestas a los menores por el Consejo Tutelar para Menores y que se encuentren en período de cumplimiento, seguirán aplicándose en las instituciones públicas o privadas en que se lleven a cabo o en las que, en su caso, determine el Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes creado mediante esta ley, siempre que sean de las establecidas y la duración de su aplicación no haya excedido el término previsto para éstas por el presente ordenamiento.
+
+Las medidas de internamiento impuestas, seguirán aplicándose por el Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes, creado mediante esta ley, conforme a los términos de la misma, sin perjuicio de que el adolescente o sus padres, tutores o quienes ejerzan la patria potestad o custodia pueda acudir ante el Juez Especializado que corresponda a fin de solicitar la modificación o cese de la medida impuesta, de conformidad con lo dispuesto por esta ley.
+
+El Consejo Tutelar para Menores remitirá al Juez Especializado de justicia para adolescentes que corresponda, los originales de los expedientes de los menores en el que conste el procedimiento a que fue sujeto y la medida impuesta, para los efectos que procedan, y remitirá copia certificada de dichas constancias al Instituto de Tratamiento y Aplicación de Medidas para Adolescentes.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos que a la entrada en vigor de la presente ley esté conociendo el Consejo Tutelar para Menores, sin que se haya decidido definitivamente la situación del menor sujeto a los mismos, se seguirán tramitando por dicho Consejo hasta su conclusión, de conformidad con la Ley que se abroga.
+
+###### ARTÍCULO SÉPTIMO.
+
+Una vez concluida las funciones del Consejo Tutelar para Menores los recursos materiales y financieros, así como los bienes asignados para el cumplimiento de sus funciones, formarán parte del Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes.
+
+Los funcionarios y empleados adscritos al Consejo Tutelar para Menores del Estado de Sonora podrán formar parte del nuevo Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes en la medida que el propio Instituto lo requiera para su funcionamiento en los términos de esta ley, respetándose los derechos laborales de los mismos, cuyas funciones deberán ajustarse a las atribuciones que la presente ley le otorga a dicho Instituto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Hacienda, procederá a realizar las acciones conducentes a asignar los recursos presupuestarios necesarios para el funcionamiento y operación del Sistema Integral de Justicia para Adolescentes previsto en esta ley.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
