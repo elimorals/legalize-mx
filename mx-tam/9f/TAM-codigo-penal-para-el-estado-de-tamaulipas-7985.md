@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2006-09-06"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -101,9 +101,11 @@ Es competencia del Ejecutivo resolver los casos de condenados por sentencia firm
 
 ### CAPITULO IV. AMBITO PERSONAL
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 13.
 
-Este Código se aplicará a todas las personas sin distinción alguna, con las excepciones que sobre inimputabilidad, inmunidades y fuero establezcan las leyes. Los menores de dieciséis años se regirán por la ley especial aplicable a ellos.
+Este Código se aplicará a todas las personas sin distinción alguna, con las excepciones que sobre inimputabilidad, inmunidades y fuero establezcan las leyes. Las personas de doce años y menores de dieciocho años se regirán por las leyes de justicia especializada para adolescentes.
 
 ## TITULO SEGUNDO. DEL DELITO
 
@@ -275,11 +277,17 @@ El que se exceda en el caso de legítima defensa, por intervenir la tercera o cu
 
 Se considera inimputable:
 
-I.- El menor de dieciséis años;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+I.- El menor de dieciocho años;
 
 II.- Quien en el momento de la realización de la conducta, por causa de locura u oligofrenia, o por ser sordomudo, carezca de la capacidad de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión;
 
 III.- Quien, en el momento de la acción u omisión, se halle en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes, estupefacientes o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio, a menos que la perturbación de la conciencia hubiere sido provocada por el agente para facilitar la realización del hecho o procurarse una excusa, en cuyo caso la sanción se agravará hasta un tercio más de la que el juez hubiere impuesto de no mediar estos factores.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Tratándose de personas de entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por este Código o las leyes del Estado, les serán aplicables las disposiciones de la ley estatal especial reglamentaria del Sistema Integral de Justicia para Adolescentes, en los términos de lo dispuesto por los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 36.
 
@@ -365,9 +373,11 @@ III.- La condena anterior por delito doloso, cuando el nuevo hecho fuere culposo
 
 ### CAPITULO I. PENAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 45.
 
-Las penas aplicables por la comisión de delitos a quienes han cumplido dieciséis o más años de edad son:
+Las penas aplicables por la comisión de delitos a quienes han cumplido al momento del hecho delictivo dieciocho o más años de edad son:
 
 a).- Prisión;
 
@@ -2635,9 +2645,9 @@ Comete el delito de violación, el que por medio de la violencia física o moral
 
 Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere la esposa o concubina, sólo se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Para los efectos de éste capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+Para los efectos de este capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal o bucal, independientemente de su sexo.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3383,7 +3393,7 @@ III.- El que, para hacer que un inocente aparezca como responsable de un delito,
 
 ###### ARTICULO 379.
 
-Al responsable del delito de calumnia se le impondrá una sanción de seis meses a dos años de prisión o multa de quince a cuarenta días salario. En los casos de las dos últimas fracciones del artículo anterior. si el calumniado es condenado por sentencia firme, previo el reconocimiento de su inocencia, se impondrá al calumniador la misma sanción que a aquél.
+Al responsable del delito de calumnia se le impondrá una sanción de seis meses a dos años de prisión o multa de quince a cuarenta días salario. En los casos de las dos últimas fracciones del artículo anterior, si el calumniado es condenado por sentencia firme, previo el reconocimiento de su inocencia, se impondrá al calumniador la misma sanción que a aquél.
 
 ###### ARTICULO 380.
 
@@ -4275,7 +4285,7 @@ A las personas cuyo proceso judicial se encuentre en trámite a la fecha de inic
 
 Las personas que hubieren sido condenadas por sentencia ejecutoriada antes de la iniciación de vigencia de este Decreto y se encuentren en los supuestos de esta reforma legislativa, podrán promover la aplicación de penas sustitutivas mediante el incidente respectivo, en los términos del Código de Procedimientos Penales para el Estado.
 
-P.O. 5 DE JUNIO DE 1999
+P.O. 5 DE JUNIO DE 1999.
 
 DECRETO No. 28
 
@@ -4338,3 +4348,15 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procesados y sentenciados, que al momento de la comisión del delito hubiesen tenido menos de dieciocho años de edad, serán turnados a las autoridades competentes que establezcan las leyes del Sistema Integral de Justicia para Adolescentes, a fin de continuar con el proceso o ajustar la pena o medida de seguridad impuesta, según corresponda, de conformidad con lo que dispongan la ley especial reglamentaria de los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y los dispositivos correspondientes de la Constitución Política del Estado.
+
+Para determinas las medidas de tratamiento contenidas en la ley estatal de justicia juvenil, en su caso, se deberá computar el tiempo que estuvo privado de la libertad.
