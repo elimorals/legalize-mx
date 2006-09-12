@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-cultura-fisica-y-deporte-del-estado-de-tabasco-50292"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-29"
-last_updated: "2006-03-29"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -235,9 +235,17 @@ III. Proponer los mecanismos para la planeación, ejecución, evaluación y supe
 
 IV. Ejecutar las políticas deportivas para fomentar, promover y estimular el desarrollo de la cultura física y el deporte en el Estado;
 
-V. Proponer planes, programas y recursos que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y el deporte; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+V. Proponer planes, programas y recursos que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y el deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI. El Sistema Estatal deberá coordinarse con los centros de internamiento para adolescentes sujetos del sistema legal, a fin de impulsar la salud física y mental de los adolescentes y jóvenes que se encuentren en ese lugar; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Las demás que le otorgue esta ley u otros ordenamientos legales.
 
 ###### Artículo 12.
 
@@ -796,3 +804,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
