@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-246
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-27"
-last_updated: "2002-04-27"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de abril de 2002.
 
@@ -121,7 +121,9 @@ Queda dentro de su competencia, la administración, operación y dirección de c
 
 Para el cumplimiento de estas funciones, la Dirección General, tendrá entre otras las siguientes atribuciones:
 
-I. Organizar, dirigir y administrar los Centros de Readaptación Social, los Centros Tutelares de Menores Infractores, así como participar en la coordinación de los establecimientos considerados cárceles públicas municipales;
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006
+
+I. Organizar, dirigir y administrar los Centros de Readaptación Social y los Centros de Internamiento para Adolescentes del Sistema Integral de Justicia, así como participar en la coordinación de los establecimientos considerados cárceles públicas municipales;
 
 II. Registrar, trasladar, custodiar, vigilar y aplicar medidas de tratamiento a toda persona privada de su libertad, por orden de los Tribunales Penales del Estado y en su caso, dentro del ámbito de su competencia, en lo relativo a los internos del orden federal;
 
@@ -133,7 +135,9 @@ IV. Las demás que se le señalen en la presente ley, y las previstas en otras d
 
 La Autoridad Ejecutora, conforme las formalidades del caso, podrá celebrar convenios de Coordinación, para alcanzar los objetivos de sus atribuciones.
 
-En dichos convenios se determinará lo relativo a la creación y manejo de instituciones de readaptación social de toda índole, entre las que figurarán las destinadas al tratamiento de adultos que infringieron la Ley Penal, alienados que hayan incurrido en conductas antisociales y menores infractores, especificándose la participación que en cada caso corresponde a los Gobiernos Federal y Estatal.
+(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006
+
+En dichos convenios se determinará lo relativo a la creación y manejo de instituciones de readaptación social de toda índole, entre las que figurarán las destinadas al tratamiento de adultos que infringieron la Ley Penal, alienados que hayan incurrido en conductas antisociales y adolescentes sujetos del Sistema Integral de Justicia, especificándose la participación que en cada caso corresponde a los Gobiernos Federal y Estatal.
 
 Los convenios, en el marco del Sistema Nacional y en su caso, del Sistema Estatal, ambos de Seguridad Pública, podrán ser concertados con el Gobierno Federal, o con una o varias entidades federativas, para establecer, cuando ello sea aconsejable, Sistemas Regionales.
 
@@ -221,9 +225,11 @@ El sitio en que se desarrolle la prisión preventiva será distinto del que se d
 
 En la construcción de nuevos establecimientos de custodia y ejecución de sanciones y en el remozamiento o la adaptación de los existentes, el Ejecutivo tendrá las funciones de orientación técnica y las facultades de aprobación de proyectos; salvo que exista concurrencia de recursos, en los que se estará a los términos a que se refieran en su caso, los convenios que se celebren con la autoridad federal, y con las formalidades de ley, a través de sus dependencias y órganos competentes.
 
+(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006
+
 ###### Artículo 18.
 
-En ningún momento podrá ser enviado un menor a una institución de adulto. En caso de duda sobre la edad de un interno, y cuando no existan documentos que legalmente determinen la edad del infractor, se establecerá de inmediato, para los efectos respectivos, el dictamen clínico correspondiente, dando aviso a quien lo puso a disposición del Centro de Readaptación de que se trate para los efectos legales conducentes.
+En ningún momento podrá ser enviado un adolescente a una institución de adulto. En caso de duda sobre la edad de un interno, y cuando no existan documentos si se trata de un adolescente sujeto del Sistema Integral de Justicia, se establecerá de inmediato, para los efectos respectivos, el dictamen clínico correspondiente, dando aviso a quien lo puso a disposición del Centro de Readaptación de que se trate para los efectos legales conducentes.
 
 ###### Artículo 19.
 
@@ -590,3 +596,15 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
