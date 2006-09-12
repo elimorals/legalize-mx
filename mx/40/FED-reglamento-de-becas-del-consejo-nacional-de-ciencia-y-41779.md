@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-becas-del-consejo-nacional-de-ciencia-y-41779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-08"
-last_updated: "2004-12-08"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-12-03"
 
 REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 8 de diciembre de 2004.
 
@@ -75,7 +75,9 @@ Para los efectos del presente Reglamento, se entenderá por:
 
 · Cancelación de la beca. La interrupción definitiva del apoyo, por causas diferentes a las de su terminación.
 
-· Carta de liberación. El documento por virtud del cual se hace constar que el sujeto de apoyo ha cumplido con las obligaciones previstas en el Reglamento y en el Convenio de Asignación de Beca.
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2006)</small>
+
+· Carta de liberación.- Documento que se expide a petición de parte, por el cual se hace constar que el sujeto de apoyo ha cumplido con las obligaciones previstas en el Reglamento y en el Convenio de Asignación.
 
 · CONACYT. El Consejo Nacional de Ciencia y Tecnología.
 
@@ -343,9 +345,13 @@ La autorización que otorgue el CONACYT sobre cualquier modificación de una bec
 
 Las becas se cancelarán cuando la institución nacional o en el extranjero, empresa u organismo lo soliciten de manera justificada, el becario suspenda unilateralmente sus estudios; realice un cambio de institución o de programa de estudios sin la aprobación del CONACYT; omita información relevante o proporcione documentación falsa; y en los demás casos establecidos en el presente Reglamento, y otras disposiciones legales o administrativas aplicables.
 
+> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 26.
 
-Una beca se considera terminada cuando se ha cumplido con el objeto de la misma, lo que otorga al becario la calidad de ex becario del CONACYT, para cuyos efectos y constancia se expedirá la carta de liberación correspondiente.
+Una beca se considera terminada cuando el sujeto de apoyo ha cumplido con el objeto de la misma, realizando los estudios, obteniendo el grado académico, y en caso de haber realizado estudios en el extranjero, regresando al país para contribuir en el desarrollo nacional, conforme a lo establecido en este Reglamento y el Convenio de Asignación, presentando a CONACYT la información correspondiente.
+
+Cuando el sujeto de apoyo lo solicite, CONACYT expedirá la “Carta de Liberación” correspondiente.
 
 ###### ARTICULO 27.
 
@@ -384,3 +390,13 @@ TERCERO. El CONACYT aplicará el presente Reglamento en forma retroactiva al bec
 CUARTO. Las becas de los posgrados registrados en el Padrón de Excelencia se regirán por lo dispuesto en el presente Reglamento, en tanto se formaliza su extinción.
 
 México, Distrito Federal, a tres de diciembre de dos mil cuatro.- El Director General del Consejo Nacional de Ciencia y Tecnología, Jaime Parada Avila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto por el presente Acuerdo.
+
+TERCERO. Los asuntos pendientes de trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con el mismo.
