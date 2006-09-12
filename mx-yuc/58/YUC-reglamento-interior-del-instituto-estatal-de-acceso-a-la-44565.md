@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-44565"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-30"
-last_updated: "2005-07-13"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Yucatán, el miércoles 30 de marzo de 2005.
 
@@ -881,9 +881,11 @@ Para los efectos del artículo 39 de la Ley, las solicitudes de Acceso a la Info
 
 Los formatos deben estar disponibles en la Unidad de Acceso.
 
+> <small>(REFORMADO, D.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 66.
 
-Las solicitudes de Acceso a la Información pública pueden ser presentadas personalmente o a través de su legítimo representante en el domicilio de la Unidad de Acceso del Instituto. Asimismo, dicha solicitud puede ser presentada por medios electrónicos a través del sistema informático que establezca el Instituto para este fin. La Unidad de Acceso debe entregar o remitir la confirmación de la recepción de la solicitud correspondiente al particular, mediante acuse de recibo, en el que conste de manera fehaciente la fecha de presentación respectiva.
+Las solicitudes de Acceso a la Información pública pueden ser presentadas personalmente o a través de su legítimo representante en el domicilio de la Unidad de Acceso del Instituto. Asimismo, dicha solicitud puede ser presentada por medios electrónicos a través del sistema informático que establezca el Instituto para este fin o bien por vía telefónica. La Unidad de Acceso debe entregar o remitir la confirmación de la recepción de la solicitud correspondiente al particular, mediante acuse de recibo, en el que conste de manera fehaciente la fecha de presentación respectiva. En los casos de solicitudes vía telefónica, el acuse de recibo deberá quedarse en el Instituto a disposición del solicitante. Asimismo, el solicitante deberá proporcionar los requisitos que señala el artículo 39 de (sic) Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán y ajustarse a los lineamientos de uso que para tal efecto se publiquen en la página de Internet del Instituto.
 
 ###### Artículo 67.
 
@@ -1310,3 +1312,9 @@ D.O. 13 DE JULIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
