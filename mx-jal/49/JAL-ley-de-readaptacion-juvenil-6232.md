@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-readaptacion-juvenil-6232"
 country: "mx"
 rank: "ley"
 publication_date: "1958-08-09"
-last_updated: "2006-01-07"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE READAPTACION JUVENIL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE MENORES INFRACTORES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
@@ -480,3 +480,17 @@ Los menores sujetos a procedimiento por alguna infracción penal, o que se encue
 Cuarto.- A la entrada en vigor de la presente ley, el Ejecutivo del Estado deberá tener conformado el Tribunal Estatal de Justicia para Menores, para lo cual realizará las adecuaciones normativas y presupuestales necesarias.
 
 Quinto.- Esta ley entrará en vigor el día 1 de enero del 2007.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor a los 120 días posteriores a su publicación en el Periódico Oficial "El Estado de Jalisco, salvo el artículo tercero y quinto transitorios del presente decreto que entrarán en vigor el día de su publicación.
+
+SEGUNDO. Se abroga la Ley de Menores Infractores del Estado de Jalisco expedida mediante decreto número 21202 del 22 de diciembre del 2005.
+
+TERCERO. En tanto entre en vigor la presente Ley, serán aplicables las disposiciones contenidas en la Ley de Readaptación Juvenil del Estado, para lo cual las autoridades competentes deberán sujetarse a los principios del sistema que garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos así como los Tratados Internacionales vigentes en la materia.
+
+CUARTO. A la Entrada en vigor de la presente Ley de Readaptación Juvenil del Estado de Jalisco expedida mediante decreto número 7262 del 9 de agosto de 1958.
+
+QUINTO. En tanto entra en vigor la presente ley, los Poderes Ejecutivo y Judicial deberán disponer de todos los recursos materiales y humanos necesarios para la implementación del Sistema de Justicia Integral que establece este ordenamiento, para lo cual en dicho término deberán de realizar las adecuaciones, presupuestales, orgánicas y reglamentarias, correspondientes, así mismo deberán preveerse (sic) la selección, capacitación de los servidores Públicos del personal del sistema.
+
+SEXTO. Los menores de edad sujetos a procedimiento establecido en los ordenamientos en materia de menores infractores a la entrada en vigor de la presente ley podrán acogerse a sus disposiciones en todo aquello que los beneficie.
