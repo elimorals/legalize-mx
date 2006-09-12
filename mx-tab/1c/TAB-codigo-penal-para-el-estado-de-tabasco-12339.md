@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2003-05-03"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -77,9 +77,11 @@ Cuando entre la comisión de un delito y la correspondiente extinción de la pen
 
 ### CAPITULO III. VALIDEZ PERSONAL
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 5.
 
-Este Código se aplicará a todas las personas a partir de los diecisiete años de edad.
+Este Código se aplicará a todas las personas a partir de los dieciocho años de edad.
 
 ### CAPITULO IV. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
 
@@ -3549,7 +3551,7 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN LA CIUDAD DE VILLAHERMOS
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento:
 
-EXPEDIDO EN EL PALACIO DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTICUATRO DÍAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE.
+EXPEDIDO EN EL PALACIO DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTICUATRO DÍAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
 LIC. ROBERTO MADRAZO PINTADO.
 
@@ -3624,3 +3626,13 @@ PRIMERO.- El presente Decreto entrará en vigor a los cuarenta y cinco días sig
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Los delitos cometidos durante la vigencia de las disposiciones que se reforman, se castigarán conforme a éstas, salvo que las nuevas beneficien al o los inculpados, pues no es pretensión de esta reforma despenalizar conducta típica alguna.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
