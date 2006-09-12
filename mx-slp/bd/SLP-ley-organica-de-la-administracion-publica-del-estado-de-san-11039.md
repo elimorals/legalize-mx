@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2006-01-31"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -287,7 +287,9 @@ XIX. Realizar la vigilancia de los sistemas de vialidad y tránsito en el Estado
 
 XX. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos;
 
-XXI. Vigilar y coordinar el funcionamiento de las instituciones del Consejo Tutelar para Menores Infractores, elaborar y ejecutar los programas de readaptación social de los mismos y velar por que se apliquen todas las normas correspondientes;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XXI. Vigilar y coordinar, a través de la Dirección de Ejecución de Medidas para Menores, el funcionamiento de los centros de Internamiento Juvenil y de los centros de Ejecución de Medidas en Libertad; así como elaborar los programas personalizados de ejecución, y ejecutar las medidas de internamiento definitivo dictadas por el Juez Especializado en Justicia para Menores;
 
 XXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
@@ -1376,3 +1378,29 @@ La Oficialía Mayor coordinará la readscripción de los trabajadores de la Secr
 CUARTO. Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Planeación del Desarrollo, a la Secretaría de Finanzas, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia correspondiente, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
 
 QUINTO. El Ejecutivo del Estado deberá modificar el reglamento interior de la Secretaría de Finanzas, en un plazo no mayor de tres meses a partir de la entrada en vigencia del presente Decreto, manteniendo entre tanto observancia los ya existentes en lo que no se opongan al mismo. Posterior a dicho supuesto, se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el dí a (sic) doce del mes de septiembre del año dos mil seis, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La situación jurí dica (sic) de las personas que se encuentren compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
+
+El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
+
+CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+QUINTO. Las autoridades del Consejo Tutelar para Menores Infractores del Estado, a que se refiere la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado de San Luis Potosí, podrán seguir actuando válidamente a la entrada en vigor de la Ley de Justicia para Menores del Estado de San Luis Potosí, para los efectos de remitir los asuntos que eran de su conocimiento, a la autoridad competente; de acuerdo con las siguientes reglas:
+
+a) Los asuntos que estén conociendo en investigación o integración las autoridades del Consejo Tutelar para Menores del Estado, serán remitidos de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+b) El procedimiento que estén instruyendo las autoridades del Consejo Tutelar para Menores del Estado, será remitido de inmediato al Juez Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel Silva", entregará a la Dirección de Ejecución de Medidas para Menores, a los menores que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos.
+
+Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
+
+d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
