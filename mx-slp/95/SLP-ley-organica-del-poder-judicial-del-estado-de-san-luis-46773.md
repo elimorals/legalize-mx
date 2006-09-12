@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2005-10-15"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -93,9 +93,11 @@ Asimismo, podrá formar un fondo de apoyo para el mejoramiento de la administrac
 
 ### CAPITULO II. De las Autoridades Judiciales
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 3°.
 
-La potestad de aplicar las leyes del fuero común en materia civil, familiar, penal y electoral en el territorio del Estado, corresponde al Poder Judicial, así como el ejercicio de la función jurisdiccional en todos aquellos casos en que la ley expresamente lo faculte.
+La potestad de aplicar las leyes del fuero común en materia civil, familiar, penal, de justicia para menores, y electoral en el territorio del Estado, corresponde al Poder Judicial; así como el ejercicio de la función jurisdiccional en todos aquellos casos en que la ley expresamente lo faculte.
 
 ###### ARTICULO 4°.
 
@@ -620,6 +622,30 @@ VI. De los exhortos, suplicatorios y despachos, relacionados con el derecho fami
 VII. De las cuestiones relativas a los asuntos que afecten los derechos de los menores o incapacitados, y
 
 VIII. En general de todas las cuestiones familiares que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic) que en el momento de la comisión de la conducta atribuida hayan sido menores.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 53 TER. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces de ejecución, tendrán las siguientes:
+
+I. Dar seguimiento a las medidas impuestas por el Juez Especializado en Justicia para Menores, y el orden en que deben ser consideradas;
+
+II. Resolver sobre la modificación, sustitución o adecuación de la medida impuesta a los menores, por parte de los jueces especializados en justicia para menores;
+
+III. Determinar lo relativo a las medidas coercitivas aplicadas a los menores, en los centros de internamiento;
+
+IV. Autorizar los convenios de colaboración que firme la Dirección General de Ejecución de Medidas para Menores, los centros de Internamiento Juvenil, y los centros de Ejecución de Medidas en Libertad;
+
+V. Controlar y supervisar la legalidad de la aplicación y ejecución de las medidas;
+
+VI. Vigilar y garantizar el cumplimiento de los objetivos fijados por la Ley de Justicia para Menores del Estado de San Luis Potosí;
+
+VII. Resolver los incidentes que se presenten durante la fase de ejecución, y
+
+VIII. Las demás que se le atribuyen en la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
 ###### ARTICULO 54.
 
@@ -1181,7 +1207,9 @@ III. Comprobar si se encuentran inventariados y asegurados los instrumentos del 
 
 IV. Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-V. Hacer constar el número de asuntos penales, civiles, mercantiles y familiares, concluidos y en trámite; y de juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+V. Hacer constar el número de asuntos penales, civiles, mercantiles, familiares, y de justicia para menores, concluidos y en trámite; y de juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
 
 VI. Determinar si los procesados en libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si durante la suspensión de un proceso prescribió la acción penal;
 
@@ -1323,7 +1351,9 @@ Para la consulta y expedición de documentos que se encuentren depositados en el
 
 Se depositarán en el Archivo Judicial:
 
-I. Todos los expedientes del orden civil, familiar y penal, concluidos, tanto por el Supremo Tribunal de Justicia, como por los juzgados de los diversos distritos judiciales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+I. Todos los expedientes del orden civil, familiar, penal, y los relativos a la justicia para menores, concluidos, tanto por el Supremo Tribunal de Justicia, como por los juzgados de los diversos distritos judiciales;
 
 II. Los expedientes que aún cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo por un lapso de seis meses;
 
@@ -1369,9 +1399,11 @@ La biblioteca estará al servicio de los funcionarios judiciales y del público 
 
 ### CAPITULO IX. De la Gaceta Judicial
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 145.
 
-El Poder Judicial contará con una Gaceta, que publicará por lo menos en forma trimestral, y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar y penal, por las salas y el Pleno del Supremo Tribunal de Justicia, así como los trabajos, artículos jurídicos y ejecutorias de amparo que se estimen importantes.
+El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral; y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar, penal, y en materia de justicia para menores, por las salas y el Pleno del Supremo Tribunal de Justicia; así como los trabajos, artí culos jurí dicos (sic) y ejecutorias de amparo que se estimen importantes.
 
 ###### ARTICULO 146.
 
@@ -1886,3 +1918,31 @@ El Secretario General del Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el dí a (sic) doce del mes de septiembre del año dos mil seis, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La situación jurí dica (sic) de las personas que se encuentren compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
+
+El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
+
+CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+QUINTO. Las autoridades del Consejo Tutelar para Menores Infractores del Estado, a que se refiere la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado de San Luis Potosí, podrán seguir actuando válidamente a la entrada en vigor de la Ley de Justicia para Menores del Estado de San Luis Potosí, para los efectos de remitir los asuntos que eran de su conocimiento, a la autoridad competente; de acuerdo con las siguientes reglas:
+
+a) Los asuntos que estén conociendo en investigación o integración las autoridades del Consejo Tutelar para Menores del Estado, serán remitidos de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+b) El procedimiento que estén instruyendo las autoridades del Consejo Tutelar para Menores del Estado, será remitido de inmediato al Juez Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
+
+c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel Silva", entregará a la Dirección de Ejecución de Medidas para Menores, a los menores que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos.
+
+Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
+
+d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
