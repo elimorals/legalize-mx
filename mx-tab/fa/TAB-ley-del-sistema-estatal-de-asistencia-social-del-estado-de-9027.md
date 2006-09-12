@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "1999-06-16"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -59,13 +59,19 @@ El Gobierno del Estado proporcionará en forma prioritaria servicios de asistenc
 
 Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, hasta lograr su incorporación o una vida plena y productiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 4°.
 
-En los términos del artículo anterior son beneficiarios a la recepción de los servicios de asistencia social preferentemente los siguientes:
+En los términos del artículo anterior son beneficiarios a la recepción de lo (sic) servicios de asistencia social preferentemente los siguientes:
 
-I.- Menores en estado de abandono o desamparo, desnutrición o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Menores infractores; en cuanto a su readaptación e incorporación a la Sociedad;
+I.- Personas menores de edad en estado de abandono o desamparo, desnutrición o sujetos a maltrato;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Personas menores de doce años de edad y adolescentes sujetos del Sistema Integral de Justicia; en cuanto a su readaptación e incorporación a la Sociedad;
 
 III.- Alcohólicos, farmacodependientes e individuos en Condiciones de vagancia;
 
@@ -574,3 +580,13 @@ CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo c
 QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
