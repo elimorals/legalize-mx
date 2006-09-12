@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2006-06-30"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -99,7 +99,9 @@ La Ley dictada para regir por tiempo determinado o en una situación excepcional
 
 Las disposiciones de este Código se aplicarán por igual a todas las personas, sin perjuicio de las previsiones contenidas en la constitución y otras Leyes del Estado.
 
-Los menores de 16 años que incurran en las conductas previstas por este Código no serán sujetos de sus consecuencias jurídicas.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Las personas menores de dieciocho años que incurran en las conductas previstas por este Código no serán sujetos de sus consecuencias jurídicas.
 
 ### CAPITULO IV. CONCURSO APARENTE DE NORMAS
 
@@ -341,7 +343,9 @@ I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo 
 
 II.- Los tutores o custodios, por los delitos de los incapacitados que estén bajo su autoridad;
 
-III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento menores de dieciséis años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquéllos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento personas menores de dieciocho años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquéllos;
 
 IV.- Las personas físicas, las jurídicas colectivas o que se ostenten como tales, por los delitos que cometa cualquier persona vinculada con aquellos por una relación laboral, con motivo y en el desempeño de sus servicios;
 
@@ -2480,3 +2484,11 @@ P.O. 30 DE JUNIO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 SEGUNDO.- Publíquese el Decreto que en su caso se expida, en el Periódico Oficial del Gobierno del Estado, para los efectos legales que correspondan.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase copia del presente Decreto al Poder Ejecutivo del Estado, para los efectos de los Artículos 69 y 74 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
