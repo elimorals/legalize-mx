@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2002-03-15"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -401,7 +401,7 @@ El querellante podrá otorgar el perdón ante el Juez o Tribunal, en su caso ant
 
 ###### Artículo 48.
 
-Cuando fundadamente se tema que el acusado oculte o enajene sus bienes , el Ministerio Público, de oficio o petición de quien tenga derecho a la reparación del daño, podrá promover el embargo precautorio de aquellos bienes, que se decretará si se prueba la necesidad de ese embargo; pero si el acusado otorga fianza bastante, a juicio del Tribunal, podrá no decretarse o levantarse el efectuado.
+Cuando fundadamente se tema que el acusado oculte o enajene sus bienes, el Ministerio Público, de oficio o petición de quien tenga derecho a la reparación del daño, podrá promover el embargo precautorio de aquellos bienes, que se decretará si se prueba la necesidad de ese embargo; pero si el acusado otorga fianza bastante, a juicio del Tribunal, podrá no decretarse o levantarse el efectuado.
 
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
@@ -1135,9 +1135,11 @@ Los testigos deben ser examinados separadamente y sólo las partes podrán asist
 
 Antes de que los testigos comiencen a declarar y estando reunidos todos ellos, se les instruirá de las penas que el Código Penal establece para los que se producen con falsedad o se niegan a declarar.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 182.
 
-A los menores de dieciséis años, que deban declarar como testigos, en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
+A las personas menores de dieciocho años, que deban declarar como testigos, en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
 
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
@@ -1397,15 +1399,15 @@ En caso de duda, debe absolverse al acusado.
 
 El que afirma está obligado a probar y también lo está el que niega, cuando su negación es contraria a una presunción legal o envuelve la afirmación expresa de un hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 233.
 
-La confesión emitida ante el Ministerio Público y en su caso ante el Juez o Tribunal de la causa, sólo tendrá valor cuando concurran las siguientes circunstancias.
+La confesión emitida ante el Ministerio Público y en su caso ante el Juez o tribunal de la causa, sólo tendrá valor cuando concurran las siguientes circunstancias:
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-I.- Que sea hecha por persona mayor de dieciséis años, en su contra, con pleno conocimiento y sin coacción ni violencia física o moral;
+I.- Que sea hecha por persona mayor de dieciocho años, en su contra, con pleno conocimiento y sin coacción ni violencia física o moral;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -2949,7 +2951,7 @@ Los secretarios deberán dar cuenta, dentro del término de veinticuatro horas, 
 
 ###### Artículo 509.
 
-Para los efectos del anterior artículo , se hará constar en las promociones escritas el día y hora en que se presenten éstas y en el expediente el día y hora en que se hagan las verbales, así como el día y hora en que el Secretario dé cuenta con las promociones.
+Para los efectos del anterior artículo, se hará constar en las promociones escritas el día y hora en que se presenten éstas y en el expediente el día y hora en que se hagan las verbales, así como el día y hora en que el Secretario dé cuenta con las promociones.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -3724,3 +3726,11 @@ Salvo el caso del anterior artículo, se derogan todas las disposiciones que se 
 P.O. 15 DE MARZO DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase copia del presente Decreto al Poder Ejecutivo del Estado, para los efectos de los Artículos 69 y 74 de la Constitución Política del Estado Libre y Soberano de Quinta Roo.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
