@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-unidad-de-television-de-guanajuato-21
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2006-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA UNIDAD DE TELEVISION DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sexta Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -71,11 +71,37 @@ I.- Director General;
 
 II.- Dirección de Producción;
 
-III.- Dirección de Ingeniería;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- Dirección de Administración; y
+III.- Dirección de Administración;
 
-V.- Contraloría Interna.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IV.-Dirección de Noticias;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Coordinación de Operaciones;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Coordinación de Radiodifusión;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Coordinación Jurídica;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Coordinación de Imagen;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Coordinación de Relaciones Institucionales y Mercadotecnia; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+X.- Contraloría Interna.
 
 ###### Artículo 6o.
 
@@ -95,7 +121,9 @@ IV.- Acordar con el Director General el despacho de los asuntos encomendados a l
 
 V.- Someter para aprobación del Director General los estudios y proyectos que elaboren las áreas a su cargo;
 
-VI.- Mantener informado al Director General respecto del avance y resultados de los programas bajo su responsabilidad;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Dar cumplimiento y mantener informado al Director General respecto a la ejecución, supervisión, avance y resultados de los programas bajo su responsabilidad;
 
 VII.- Instrumentar los mecanismos de supervisión para verificar el buen uso del equipo, mobiliario y vehículos que se le sean asignados para el cumplimiento de sus funciones;
 
@@ -103,13 +131,25 @@ VIII.- Formular los anteproyectos de programas y presupuestos de egresos relativ
 
 IX.- Coordinarse con las demás unidades administrativas de UTEG para el desarrollo de las actividades del mismo;
 
-X.- Desempeñar las comisiones que el Director General le asigne y mantenerlo informado sobre el desarrollo las mismas;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XI.- Proponer al Director General acuerdos relativos al ingreso, promoción y permanencia del personal a su cargo;
+X.- Vigilar el cumplimiento de la normatividad de la materia;
 
-XII.- Vigilar la aplicación del proceso de reclutamiento, selección, contratación, inducción, capacitación y desarrollo del personal del UTEG, de acuerdo a la normatividad vigente; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XIII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Director General de UTEG.
+XI.- Participar en la planeación y desarrollo de proyectos, metas y objetivos de la UTEG;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XII.- Proponer los objetivos, metas y proyectos de su área, así como los mecanismos para su cumplimiento y el seguimiento de las mismas;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XIII.- Aplicar medidas preventivas y correctivas a problemas de contenidos, infraestructura y operación derivados del ejercicio de sus facultades; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XIV.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Director General de la UTEG.
 
 #### SECCIÓN PRIMERA. DEL DIRECTOR GENERAL
 
@@ -123,19 +163,29 @@ II.- Proponer los programas de actualización para la mayor profesionalización;
 
 III.- Someter a consideración el Consejo Directivo, los lineamientos para la estimación, captación, control y registro de los ingresos propios de UTEG, así como la aplicación de los mismos;
 
-IV.- Ejercer las facultades de administración, suscripción de títulos de crédito, pleitos y cobranzas, incluidas aquéllas que requieran de cláusula especial;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Ejercer o delegar las facultades de administración, suscripción de títulos de crédito, de pleitos y cobranzas incluídas aquéllas que requieran de cláusula especial;
 
 V.- Promover y supervisar la aplicación de políticas y normas que conduzcan al aseguramiento de la calidad de imagen y contenido, de los servicios prestados por UTEG;
 
 VI.- Realizar y auspiciar tareas de difusión relacionadas con los servicios que presta UTEG sobre la base de la normatividad establecida;
 
-VII.- Establecer metas y objetivos específicos, y definir de la misma forma sus estrategias, planes y programas, a fin de instrumentarlos dándoles seguimiento;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-VIII.- Promover y supervisar, cuando así proceda, la operación de los servicios de evaluación de competencia laboral;
+VII.- Establecer objetivos y metas generales a fin de derivar de éstas las estrategias, planes, proyectos y programas de la UTEG;
 
-IX.- Contratar los servicios de asesoría jurídica necesarios;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-X.- Formular querellas y denuncias y, de igual manera, otorgar perdón o presentar desistimientos que procedan, salvaguardando los intereses de UTEG;
+VIII.- Establecer el mecanismo de evaluación para medir el comportamiento y avance de los proyectos, así como el cumplimiento de metas del personal de la UTEG;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Contar con los servicios de asesoría que estime conveniente y auxiliarse del personal necesario y que el presupuesto permita para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+X.- Salvaguardar los intereses de la UTEG presentando en los casos que se requieran, querellas, denuncias, desistimientos, al igual que otorgar perdón cuando así sea conveniente a este organismo;
 
 XI.- Establecer lineamientos y estrategia en la programación, la marca y los programas o series realizados;
 
@@ -151,141 +201,235 @@ XVI.- Buscar otras fuentes de recursos, fuera de las asignadas por el Congreso d
 
 XVII.- Buscar en el mercado televisivo, nacional e internacional, material grabado para acrecentar el acervo de programas;
 
-XVIII.- Ejercer la facultad de firmar contratos de adquisición de derechos de programas televisivos nacionales e internacionales; y
+XVIII.- Ejercer la facultad de firmar contratos de adquisición de derechos de programas televisivos nacionales e internacionales; y (sic)
 
-XIX.- Las demás que le señalen las disposiciones legales aplicables, así como aquéllas que le confiera el Gobernador del Estado o el Consejo Directivo.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XIX.- Ejercer los procesos de adquisiciones, arrendamientos y contratación de servicios conforme a la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XX.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Gobernador del Estado o el Consejo Directivo.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCION DE PRODUCCIÓN
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 9o.
 
 La Dirección de Producción, tendrá las siguientes facultades:
 
-I.- Proponer al Director General las metas, proyectos y políticas de la producción actual y futura de UTEG;
+I.- Coordinar, dirigir y supervisar la producción interna de la UTEG en sus procesos y servicios;
 
-II.- Proponer al Director General la estrategia de formato y contenido de los programas, así como su realización;
+II.- Proponer al Director General temas y contenidos de los programas a producir y transmitir;
 
-III.- Velar para que la producción se efectúe conforme a los métodos de trabajo más adecuados y económicos, sin disminuir la calidad de su realización;
+III.- Supervisar el cumplimiento de los objetivos, metas, proyectos, planes y programas de su competencia;
 
-IV.- Delinear técnicas específicas del Área de Procuración, así como brindar capacitación continua al personal sobre actualización o avance de nuevas técnicas;
+IV.- Dar seguimiento a las políticas de imagen, concepto gráfico y desarrollo de identidad, junto con la Coordinación de Imagen, con base en el estilo definido por la UTEG; y
 
-V.- Aplicar medidas preventivas y correctivas a problemas derivados de la rutina diaria de trabajo;
+V.- Las demás que le confiera el Director General de la UTEG.
 
-VI.- analizar temas y contenidos de los programas a realizar;
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-VII.- Asesorar y supervisar a los productores sobre el diseño, escenografía, utilería, conducción, uso de cámaras, vestuario y maquillaje en los programas;
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
-VIII.- Delinear el balance y la objetIvidad (sic) de aquella temática que, por su contenido, pueda afectar a una parte de la comunidad;
-
-IX.- Detectar y solucionar problemas que se presenten durante la producción, sean técnicos o de expresión;
-
-X.- Participar en la planeación y desarrollo de proyectos, objetivos y metas de UTEG, en cuanto a contenido;
-
-XI.- Analizar cada programa final, fundamentalmente con el productor;
-
-XII.- Analizar que cada programa cumpla con las técnicas y contenido determinado por la marca de la UTEG;
-
-XIII.- Reglamentar el servicio técnicos y de transportación y solicitar al personal del área su plan de trabajo y observar su cumplimiento en el aspecto de producción;
-
-XIV.- Supervisar que cada productor lleve a cabo la planeación de las funciones investigación, guión, grabación, edición y post producción; y
-
-XV.- Las demás que le confiera el Director General de UTEG.
-
-#### SECCIÓN TERCERA. DE LA DIRECCION DE INGENIERÍA
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
-La Dirección de Ingeniería, tendrá las siguientes facultades:
+La Dirección de Administración tendrá las siguientes facultades:
 
-I.- Asumir la responsabilidad técnica ante las instancias de orden municipal, estatal y federal por las instalaciones y funcionamiento técnico de UTEG;
+I.- Planear, controlar y ejercer el manejo de los recursos humanos, financieros y materiales de la UTEG, así como eficientar su operación y mantener actualizado el control de bienes y resguardos;
 
-II.- Presentar ante el Director General las metas, objetivos, y proyectos y políticas de la Dirección de Ingeniería, así como participar en la planeación y desarrollo en las metas y objetivos de la UTEG;
+II.- Dirigir, coordinar y evaluar la elaboración del Programa Operativo Anual de la UTEG;
 
-III.- Formular y supervisar los programas de mantenimiento preventivo y correctivo de los equipos de grabación, producción y transmisión de UTEG;
+III.- Evaluar periódicamente el desarrollo y cumplimiento de los objetivos, metas, planes y programas anuales de cada una de las unidades administrativas de la UTEG;
 
-IV.- Conocer, atender y resolver los problemas técnicos de otras unidades administrativas;
+IV.- Integrar y presentar al Director General el pronóstico de ingresos y el anteproyecto del presupuesto de egresos de la UTEG, para aprobación del Consejo Directivo;
 
-V.- Supervisar el continuo uso del equipo técnico disponible;
+V.- Ejercer y controlar el flujo de ingresos y egresos para optimizar la aplicación de los recursos financieros, de acuerdo a la disponibilidad presupuestal y calendario de pagos de la UTEG;
 
-VI.- Detectar las fallas de transmisión e informar por escrito de las mismas al Director General;
+VI.- Formular los estados financieros de la UTEG y someterlos a consideración del Director General, para su aprobación por parte del Consejo Directivo;
 
-VII.- Promover en coordinación con la Dirección General, la capacitación y formación del personal técnico;
+VII.- Aplicar, coordinar y supervisar, conjuntamente con el Director General, el proceso de remuneraciones, promociones, licencias, comisiones, transferencias, altas, bajas y demás movimientos del personal de la UTEG, de conformidad con las disposiciones aplicables;
 
-VIII.- Evaluar conjuntamente con el Director General la integración del anteproyecto técnico, preferentemente dirigido a la compra de equipo compatible con el actual, y orientado paulatinamente a la digitalización;
+VIII.- Coordinar y aplicar el proceso de reclutamiento, selección, contratación, inducción, capacitación y desarrollo del personal de la UTEG, de conformidad con las disposiciones aplicables;
 
-IX.- Dirigir los .proyectos de desarrollo técnico, en cuanto a instalación y reinstalación de equipo, así como el de las instalaciones asignadas, manteniendo en buen estado el ya existente;
+IX.- Coordinar y supervisar la asignación de categorías, honorarios y retenciones de impuestos que procedan conforme a los ordenamientos establecidos para los mismos, informando de ello al Director General;
 
-X.- Coordinar actividades técnicas y operativas con el personal para el buen orden y desempeño de su trabajo;
+X.- Elaborar, administrar y aplicar el programa de capacitación y actualización del personal de la UTEG;
 
-XI.- Realizar enlaces de eventos especiales, así como brindar el servicio de grabaciones con unidad móvil;
+XI.- Comprobar que se realice en forma correcta y oportuna la generación, cálculo y pago de la nómina del personal de la UTEG;
 
-XII.- Radiar la señal de UTEG y sus repetidoras al mayor número de municipios, vigilando la calidad de señal, además de sujetarse a la reglamentación que establece para ello la Secretaría de Comunicaciones y Transporte;
+XII.- Elaborar los proyectos de los manuales de administración y organización de la UTEG;
 
-XIII.- Apegarse al marco jurídico aplicable al organismo en sus diferentes ámbitos y competencia en el desarrollo del Área para salvaguardar el patrimonio, llevando a cabo los monitoreos de manera individual o conjuntamente con otras televisoras, con el objeto de vigilar y actuar ante cualquier invasión de frecuencia; y
+XIII.- Participar en los procesos de adquisiciones, arrendamientos y contratación de servicios conforme a la normatividad aplicable;
 
-XIV.- Las demás que le confiera el Director General UTEG.
+XIV.- Dar seguimiento a las auditorias internas y externas a las que la UTEG esté sujeto; y
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+XV.- Las demás que le confiera el Director General de la UTEG.
 
-Artículo11.- La Dirección de Administración, tendrá las siguientes facultades:
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-I.- Planear, controlar y dirigir el manejo de los recursos financieros, técnicos y humanos, a efecto de conseguir un óptimo aprovechamiento;
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE NOTICIAS
 
-II.- Dirigir, coordinar y evaluar la elaboración del Programa Operativo Anual de UTEG;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Evaluar periódicamente el desarrollo y cumplimiento de los proyectos, objetivos y metas de los programas anuales de cada una de las unidades administrativas, en cuanto a la aplicación del presupuesto;
+Artículo11.- La Dirección de Noticias tendrá las siguientes facultades:
 
-IV.- Integrar y proponer al Director General el anteproyecto del presupuesto de egresos de UTEG, gestionando ante las instancias gubernamentales correspondientes su autorización y las modificaciones al mismo durante el ejercicio;
+I.- Proponer al Director General los lineamientos sobre contenido temático y estructura de la barra informativa de la UTEG;
 
-V.- Proponer el sistema y procedimiento para el ejercicio y control presupuestal;
+II.- Supervisar la información de los noticieros, cuidando que reflejen el perfil de la UTEG;
 
-VI.- Ejercer y controlar el flujo de ingresos y egresos para optimizar la aplicación de los recursos financieros de acuerdo a la disponibilidad presupuestal y calendario de pagos de UTEG;
+III.- Monitorear la operación y transmisión de los espacios informativos propios y de los demás medios;
 
-VII.- Coordinar ante la Dirección General la integración de los estados financieros de UTEG y someterlos a la autorización de las instancias correspondientes;
+IV.- Analizar el panorama informativo para integrar en la programación de la UTEG, los contenidos necesarios con mayor oportunidad y pertinencia;
 
-VIII.- Coordinar y aplicar el proceso de reclutamiento, selección, contratación, inducción, capacitación y desarrollo del personal administrativo de UTEG;
+V.- Realizar enlaces para proporcionar al televidente información en tiempo real y establecer un contacto directo con ellos;
 
-IX.- Aplicar, coordinar y supervisar, conjuntamente con el Director General, el proceso de remuneraciones, promociones, licencias, comisiones, transferencias, altas, bajas y demás movimientos del personal de UTEG·con el Director General;
+VI.- Implementar políticas de investigación que sustenten los contenidos informativos para obtener información veraz y oportuna de fuentes confiables;
 
-X.- Coordinar y supervisar que se realice en forma correcta y oportuna la generación, cálculo y pago de la nómina del personal;
+VII.- Proponer las políticas de contenido, estilo y participantes en los espacios informativos, de conformidad con los objetivos de la UTEG;
 
-XI.- Coordinar y supervisar la asignación de categorías, honorarios y retenciones de impuestos que procedan conforme a los ordenamientos establecidos para los mismos de las cuales tendrá conocimiento la Dirección General;
+VIII.- Establecer los mecanismos de control técnico en los documentos que conforman la operación y estructura del noticiero;
 
-XII.- Aplicar las sanciones laborales a que se haga acreedor el personal de UTEG conforme a los ordenamientos jurídicos aplicables;
+IX.- Establecer los lineamientos y procedimientos necesarios para la cobertura de eventos especiales que contribuyan al enriquecimiento de la cultura, la información y los valores de los televidentes;
 
-XIII.- Coordinar la aplicación de los sistemas de estímulos previstos por la Ley de la materia, conjuntamente con el Director General;
+X.- Generar procesos de análisis y auto evaluación sobre las diferentes emisiones y aplicar las medidas preventivas y correctivas con objeto de incrementar la calidad de las emisiones; y
 
-XIV.- Elaborar, administrar y aplicar el programa de capacitación y desarrollo del personal administrativo de UTEG;
+XI.- Las demás que le confiera el Director General de la UTEG.
 
-XV.- Coordinar y supervisar las actividades tendientes a prevenir accidentes y enfermedades profesionales y de trabajo entre el personal;
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XVI.- Aplicar la normatividad establecida en materia de adquisiciones, arrendamientos, servicios, así como conservación, uso, destino y formulación de inventarios, aseguramiento de activos, reclamo de siniestros y afectación, enajenación, baja y destino final de bienes muebles e inmuebles de UTEG;
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE OPERACIONES
 
-XVlI.- Coordinar la prestación de servicios generales;
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XVIII.- Controlar y salvaguardar el patrimonio de UTEG;
+###### Artículo 11-A.
 
-XIX.- Tramitar, en coordinación con la Dirección General los contratos de obra, adquisiciones, arrendamiento y de prestación de servicios que se celebren por parte de UTEG, en términos de la legislación aplicable;
+La Coordinación de Operaciones tendrá las siguientes facultades:
 
-XX.- Supervisar la instalación y puesta en marcha del equipo técnico asignado a UTEG y establecer mecanismos y contratación de mantenimientos preventivos;
+I.- Asumir la responsabilidad técnica ante las instancias de orden municipal, estatal y federal de las instalaciones y funcionamiento operativo de la UTEG;
 
-XXI.- Formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios de UTEG y someterlo a consideración del Director General;
+II.- Coordinar la operación bajo normas técnicas, de la cabina, estudios y unidad móvil, así como realizar enlaces de microondas desde la Unidad de Control Remoto;
 
-XXII.- Integrar y proponer el Programa Anual de Mantenimiento o Remodelación de inmuebles y de mobiliario de UTEG y someterlo a consideración del Director General;
+III.- Integrar, someter a aprobación del Director General y ejecutar el Programa Anual de Mantenimiento preventivo y correctivo de los equipos de producción de las diversas áreas de la UTEG;
 
-XXIII.- Formular el Programa de Equipamiento y someterlo a la aprobación del Director General;
+IV.- Dirigir los proyectos de desarrollo tecnológico, en cuanto a instalación y reinstalación de equipo;
 
-XXIV.- Planear, programar, presupuestar, asignar y gestionar en coordinación con las áreas, los recursos financieros necesarios para la operación de UTEG, de acuerdo con los criterios y rangos presupuestales establecidos;
+V.- Atender y coordinar los servicios solicitados por las distintas producciones, verificando que el equipo de audio, video e iluminación se encuentre dentro de los estándares de calidad;
 
-XXV.- Llevar el registro de los bienes inmuebles asignados a UTEG, así como mantenerlo actualizado;
+VI.- Coordinar las actividades técnicas y operativas con el personal de la UTEG para el buen orden y desempeño de su trabajo; y
 
-XXVI.- Dar cumplimiento a las obligaciones fiscales;
+VII.- Las demás que le confiera el Director General de la UTEG.
 
-XXVII.- Participar en la planeación y desarrollo de las metas y objetivos de UTEG;
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O 12 DE SEPTIEMBRE DE 2006)</small>
 
-XXVIII.- Brindar atención a las auditorías internas y externas a la que UTEG esté expuesto; y
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE RADIODIFUSIÓN
 
-XXIX.- Las demás que le confiera el Director General de UTEG.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 11-B.
+
+La Coordinación de Radiodifusión tendrá las siguientes facultades:
+
+I.- Instalar y operar canales de difusión a través del espectro radioeléctrico, incluyendo entre otros enlaces satelitales, de fibra óptica y de microondas;
+
+II.- Asumir la responsabilidad técnica ante las instancias de orden municipal, estatal y federal por las instalaciones y funcionamiento técnico de la Red de Radiodifusión de la UTEG;
+
+III.- Manejar, operar y resguardar el equipo de transmisiones, incluido el satelital, así como el de las estaciones repetidoras de la UTEG;
+
+IV.- Coordinar los trabajos de operación del master bajo las normas técnicas aplicables;
+
+V.- Integrar y ejecutar los programas de mantenimiento de los equipos que conforman la red de radiodifusión, previa aprobación del Director General;
+
+VI.- Supervisar y orientar las actividades del personal técnico a su cargo, para lograr el buen desempeño de sus labores y optimizar la atención y el servicio;
+
+VII.- Coordinar y supervisar la operación del área de sistemas e informática de la UTEG;
+
+VIII.- Detectar y atender de manera oportuna las fallas de transmisión y recepción de señal, informando al Director General, y en su caso, a las autoridades correspondientes; y
+
+IX.- Las demás que le confiera el Director General de la UTEG.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA COORDINACIÓN JURÍDICA
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 11-C.
+
+La Coordinación Jurídica tendrá las siguientes facultades:
+
+I.- Intervenir en la tramitación y resolución de los juicios en los que la UTEG sea parte;
+
+II.- Asesorar y defender a la UTEG en asuntos de carácter jurídico;
+
+III.- Elaborar y dar seguimiento a convenios, contratos y acuerdos en los que la UTEG sea parte; instaurar los procedimientos de renovación, rescisión o de terminación de los mismos; así como promover los mecanismos internos y gestionar lo conducente para mantener vigentes y dar seguimiento a los diferentes tipos de permisos y derechos que apliquen incluyendo de producción, de transmisión y de derechos de autor entre otros, procurando siempre salvaguardar los intereses del organismo;
+
+IV.- Tramitar y resolver en su caso los procedimientos administrativos disciplinarios formulados al interior del organismo, previo acuerdo con el Director General;
+
+V.- Fungir como unidad de enlace del organismo ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo;
+
+VI.- Proporcionar la información y la cooperación que le sea requerida, por las dependencias del Gobierno Federal, Estatal y Municipal, según corresponda;
+
+VII.- Apoyar a los responsables de las áreas de la UTEG, en los estudios y gestiones que sean necesarios y en particular en el seguimiento de la normatividad, acuerdos y operaciones para vigilar y reportar su desarrollo y cumplimiento al Director General;
+
+VIII.- Expedir certificaciones de los documentos existentes en los archivos de la UTEG;
+
+IX.- Encauzar, vigilar y dar seguimiento tanto al interior del organismo, como ante instancias privadas, municipales, estatales y federales a asuntos relativos a permisos, refrendos, avisos, derechos y trámites, en particular a los que competan a la Secretaría de Comunicaciones y Transportes y a la Secretaría de Gobernación;
+
+X.- Salvaguardar y vigilar el uso de los derechos del material propio y externo, así como asistir y asesorar en sus responsabilidades a las Jefaturas de Programación y Continuidad para transmitir los programas que se consideren convenientes, cuidando su origen, derechos y convenios que se establezcan y valorando en su caso, las consecuencias de su transmisión, con el objetivo de evitar contingencias; y
+
+XI.- Las demás que le confiera el Director General de la UTEG.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O 12 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCIÓN OCTAVA. DE LA COORDINACIÓN DE IMAGEN
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 11-D.
+
+La Coordinación de Imagen tendrá las siguientes facultades:
+
+I.- Generar el concepto de identidad y promocional de la programación de la UTEG;
+
+II.- Coordinar las actividades del área de imagen, diseño, maquillaje y escenografía, manteniendo una postura creativa y de servicio;
+
+III.- Proponer al Director General el diseño de la imagen corporativa de la UTEG, buscando una mayor penetración en el televidente;
+
+IV.- Generar productos de calidad para los diferentes medios y promover la difusión de la programación, coordinadamente con las áreas de programación y mercadotecnia de conformidad con las características establecidas por el organismo; y
+
+V.- Las demás que le confiera el Director General de la UTEG.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCIÓN NOVENA. DE LA COORDINACIÓN DE RELACIONES INSTITUCIONALES Y MERCADOTECNIA
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 11-E.
+
+La Coordinación de Relaciones Institucionales y Mercadotecnia tendrá las siguientes facultades:
+
+I.- Proponer al Director General y ejecutar mecanismos relativos a la obtención de ingresos propios a través de los sectores público, privado y social;
+
+II.- Promover la generación de patrocinios, intercambios e incentivos que estimulen la calidad y el desempeño de la UTEG;
+
+III.- Implementar estrategias de difusión y vinculación con los diferentes medios de comunicación, organismos e instituciones públicas y privadas;
+
+IV.- Planear con la orientación del Director General, campañas de posicionamiento interno y externo;
+
+V.- Presentar al Director General indicadores de audiencia de la UTEG, basadas en los medios disponibles encaminados a perfilar la producción, continuidad y programación del organismo;
+
+VI.- Fomentar y mantener las buenas relaciones de la UTEG tanto al interior como al exterior, y particularmente con los sectores público y privado, con la intención de fortalecer el desarrollo del organismo;
+
+VII.- Presentar al Director General y dar seguimiento a las estrategias de programación y continuidad, considerando contenidos y difusión;
+
+VIII.- Planear, organizar y dar seguimiento al desarrollo institucional de la UTEG; y
+
+IX.- Las demás que le confiera el Director General de la UTEG.
 
 ### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
 
@@ -297,7 +441,9 @@ El órgano de vigilancia de UTEG tendrá el carácter de Contraloría Interna, i
 
 La Contraloría Interna además de las facultades conferidas en el Decreto de Reestructuración de UTEG, tendrá las siguientes:
 
-I.- Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como, coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
 
 II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la UTEG se apeguen a las disposiciones legales aplicables;
 
@@ -309,21 +455,29 @@ V.- Efectuar el análisis e interpretación de los estados financieros de la UTE
 
 VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de calidad, en los servicios que ofrece la UTEG;
 
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta, en contra de los servidores públicos de la UTEG, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato, así como someter a consideración del Titular de la Secretaría de la Contraloría, el proyecto de resolución de las mismas;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta, en contra de los servidores públicos de la UTEG, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como someter a consideración del Titular de la Secretaría de la Gestión Pública el proyecto de resolución de las mismas;
 
 VIII.- Intervenir en los procesos de adjudicación, en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
 
 IX.- Fiscalizar los recursos federales ejercidos por el Organismo derivados de os acuerdos o convenios respectivos, en su caso;
 
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Contraloría del desarrollo de sus funciones; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Contraloría.
+X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Gestión Pública.
 
 ### CAPÍTULO QUINTO. DE LAS SUPLENCIAS Y LICENCIAS
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-En caso de falta temporal del Director General de UTEG, el Presidente del Consejo Directivo designará a un encargado que lo supla.
+Durante la ausencia menor de quince días hábiles del Director General, el despacho y resolución de los asuntos estará a cargo del director de área o coordinador que para tal efecto designe, dando cuenta de ello al Consejo Directivo; para el caso de exceder de dicho plazo, será suplido por quien designe el Titular del Poder Ejecutivo.
 
 ###### Artículo 15.
 
@@ -335,9 +489,11 @@ Las licencias podrán ser otorgadas y revocadas en los términos de la Ley del T
 
 ### CAPÍTULO SEXTO. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 17.
 
-Las relaciones laborales entre UTEG y sus trabajadores, se regirán por lo dispuesto en la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, así como por las Condiciones Generales de Trabajo en las Dependencias y Entidades del Poder Ejecutivo del Estado, así como por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+Las relaciones laborales entre la UTEG y sus trabajadores, se regirán por lo dispuesto en la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios y por las Condiciones Generales de Trabajo en las Dependencias y Entidades del Poder Ejecutivo del Estado, así como por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 T R A N S I T O R I O S
 
@@ -362,3 +518,11 @@ EL SUBSECRETARIO DE GOBIERNO
 Por ausencia del Secretario de Gobierno y con fundamento en el artículo 63 del Reglamento Interior de la Secretaría de Gobierno.
 
 GERARDO LUIS RODRÍGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
