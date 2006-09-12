@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-comision-estatal-de-derechos-humanos-7795"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-06"
-last_updated: "1993-01-06"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 6 de enero de 1993.
 
@@ -92,6 +92,10 @@ II. Conocer e investigar a petición de parte o de oficio, presuntas violaciones
 A) Por actos u omisiones de autoridades administrativas de carácter estatal y municipal;
 
 B) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente le correspondan en relación con dichos ilícitos, particularmente tratándose de conductas que afecten la integridad física de las personas;
+
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006.
+
+C) Por actos u omisiones en la aplicación del Sistema Integral de Justicia para Adolescentes;
 
 III. Formular recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante la autoridad respectivas, en los términos establecidos por el Artículo 52 tercer párrafo de la Constitución Política del Estado;
 
@@ -283,9 +287,13 @@ II. Iniciar a petición de parte, la investigación de las quejas que le sean pr
 
 III. Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de las violaciones de derechos humanos que por su propia naturaleza así lo permita;
 
-IV. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión Estatal para su consideración; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-V. Las demás que le señale la presente Ley y el Presidente de la Comisión Estatal, necesarias para el mejor cumplimiento de sus funciones.
+IV. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión Estatal para su consideración;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+V. Visitar los Centros de Internamiento.
 
 Los Visitadores adjuntos, auxiliarán en sus funciones a los Visitadores Generales, en los términos que fije el Reglamento y para tal efecto, deberán reunir los requisitos que establezca el mismo, para su designación.
 
@@ -532,3 +540,15 @@ LIC. MANUEL GURRIA ORDOÑEZ
 LIC. ENRIQUE PRIEGO OROPEZA
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que establece el Sistema Integral de Justicia para Adolescentes, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
