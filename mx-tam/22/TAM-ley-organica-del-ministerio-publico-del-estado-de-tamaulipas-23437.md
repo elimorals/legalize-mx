@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-ministerio-publico-del-estado-de-tamaulipas-23
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-30"
-last_updated: "2002-01-30"
+last_updated: "2006-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de enero de 2002.
 
@@ -79,7 +79,7 @@ j).- Determinar el ejercicio o no ejercicio de la acción penal, en los casos y 
 
 k).- Notificar al denunciante o querellante los acuerdos en los que se dicte el no ejercicio de la acción penal, a fin de que estén en posibilidad de interponer el recurso correspondiente;
 
-l).- En los casos de menores infractores, aplicar las medidas establecidas en el Código de Procedimientos Penales y en los ordenamientos legales que regulen las acciones de menores que transgredan la ley, y
+l).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2006)
 
 m).- Las demás que le confieran las disposiciones legales aplicables.
 
@@ -106,6 +106,10 @@ i).- Promover lo conducente, conforme a derecho, para el desarrollo de los proce
 j).- Previo acuerdo con el Procurador, desistirse de la acción penal en los términos establecidos en el Código de Procedimientos Penales para el Estado, y
 
 k).- Las demás que establezcan las leyes aplicables.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+II Bis.- En materia de justicia para adolescentes se procederá con base en las disposiciones de la Ley de Justicia Juvenil para el Estado de Tamaulipas, el Código de Procedimientos Penales, la presente Ley, y los ordenamientos legales de la materia.
 
 III.- En materia de Derechos Humanos:
 
@@ -244,6 +248,10 @@ IV.- Un Coordinador de Asuntos Internos;
 V.- Agentes del Ministerio Público;
 
 VI.- Policía Ministerial;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+VI Bis.- Policía Ministerial Especializada en Adolescentes;
 
 VII.- Direcciones de:
 
@@ -405,13 +413,19 @@ V.- Las demás que se le señalen en esta Ley, su reglamento y otras disposicion
 
 El titular de la Dirección Jurídica, estudiará los asuntos en los cuales deba emitir consejo al Procurador, atenderá los Juicios de Amparo en los que los servidores públicos de la Institución sean señalados como autoridades responsables; atenderá lo conducente a la observación de derechos humanos relacionados con los servidores públicos de la Institución; será responsable de los procedimientos de extradición internacional y entre Estados, de los programas de estudios legislativos, de biblioteca y documentación jurídica; y Jefes de Unidades de Atención a la Comunidad, tendrá además las facultades contempladas en esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 22.
 
-La Policía Ministerial y el titular de la Dirección de la Policía Ministerial tendrán las atribuciones establecidas por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, esta Ley y su Reglamento, así como por el Reglamento de la Policía Ministerial del Estado.
+La Policía Ministerial, la Especializada en Adolescentes y el titular de la Dirección de la Policía Ministerial tendrán las atribuciones establecidas por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, esta Ley y su Reglamento, así como por el Reglamento de la Policía Ministerial del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 23.
 
-La Policía Ministerial podrá recibir denuncias e iniciar las investigaciones necesarias, únicamente en caso de urgencia, cuando no puedan ser presentadas directamente ante el Ministerio Público y dará cuenta inmediata al servidor público competente para recibirlas, a fin de que realice lo conducente.
+La Policía Ministerial y la Especializada en Adolescentes podrán recibir denuncias e iniciar las investigaciones necesarias, únicamente en caso de urgencia, cuando no puedan ser presentadas directamente ante el Ministerio Público y dará cuenta inmediata al servidor público competente para recibirlas, a fin de que realice lo conducente.
+
+Adicionalmente de los requisitos exigidos en el Reglamento respectivo, los integrantes de la Policía Ministerial Especializada en Adolescentes recibirán instrucción y capacitación especial y aprobarán un examen general de conocimientos teórico-prácticos que los acredite como competentes y conocedores de los instrumentos internacionales sobre justicia para adolescentes ratificados por los Estados Unidos Mexicanos.
 
 ###### ARTICULO 24.
 
@@ -477,6 +491,10 @@ V.- Ser de honradez y probidad notorias; y
 
 VI.- No haber sido condenado en sentencia ejecutoriada por delito doloso ni haber sido inhabilitado por la Contraloría Gubernamental.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Además de los requisitos señalados en las fracciones anteriores, los Agentes del Ministerio Público Especializados en Adolescentes recibirán instrucción y capacitación especial y deberán aprobar un examen general de conocimientos teórico-prácticos que los acredite como profesionistas competentes y conocedores de la legislación de la materia y de los instrumentos internacionales sobre justicia para adolescentes ratificados por los Estados Unidos Mexicanos.
+
 ###### ARTICULO 32.
 
 Son atribuciones de los Agentes del Ministerio Público:
@@ -516,6 +534,60 @@ XVI.- Ordenar y aplicar medidas provisionales para asegurar o conservar, en su c
 XVII.- Visitar diariamente los separos policíacos o centros de detención para que hagan cesar de inmediato cualquier violación de los derechos humanos de los detenidos; y
 
 XVIII.- Las demás que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 32 Bis.
+
+Los Agentes del Ministerio Público Especializados en Justicia para Adolescentes tendrán las siguientes atribuciones:
+
+I.- Realizar la investigación y persecución de las conductas tipificadas como delitos en las leyes del Estado, que se atribuyan a los adolescentes de doce años cumplidos y menos de dieciocho años de edad;
+
+II.- Velar en todo momento, en los asuntos de su competencia, por el estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la ley en materia de justicia para adolescentes;
+
+III.- Velar para que los niños menores de doce años sobre los que advierta la amenaza o violación de alguno de sus derechos, sean adecuadamente atendidos por el área competente del Poder Ejecutivo Estatal en materia de asistencia y protección social;
+
+IV.- Garantizar que durante la fase de detención no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes, y que se satisfagan sus derechos a la alimentación y a la protección de la salud, así como los demás que apliquen a su situación;
+
+V.- Realizar las acciones conducentes para que le sea designado un defensor de oficio al adolescente desde el momento en el que sea puesto a su disposición;
+
+VI.- Informar de inmediato al adolescente, a sus padres, tutores o quien ejerza la patria potestad y al defensor de aquél sobre la situación jurídica del caso, así como los derechos que les asistan;
+
+VII.- Otorgar al adolescente, a sus padres, tutores o quien ejerza la patria potestad y a su defensor, toda la información que conste en el registro de la investigación y que soliciten para garantizar una efectiva defensa;
+
+VIII.- Realizar, cuando sea legalmente procedente, aquellas diligencias de investigación solicitadas por el adolescente, sus padres, tutores o quien ejerza la patria potestad o su defensor para el esclarecimiento de los hechos;
+
+IX.- Ejercer el mando directo e inmediato de los agentes de la Policía Ministerial Especializada en Justicia para Adolescentes que le estén adscritos;
+
+X.- Procurar las formas alternativas de justicia y los programas de justicia restaurativa, a fin de cumplir con los principios de mínima intervención y de subsidiariedad;
+
+XI.- Someter a la aprobación del juez especializado en justicia para adolescentes los acuerdos reparatorios que el adolescente y la víctima u ofendido hayan alcanzado;
+
+XII.- Solicitar al juez especializado las órdenes de aprehensión y comparecencia del adolescente, cuando procediere;
+
+XIII.- Solicitar, en los casos en que resulte procedente, la suspensión del proceso a prueba;
+
+XIV.- Poner inmediatamente a los adolescentes a disposición del juez especializado, en los casos en que resulte procedente;
+
+XV.- Decretar el archivo provisional o definitivo de la investigación;
+
+XVI.- Presentar la acusación y los medios de prueba;
+
+XVII.- Aplicar los criterios de oportunidad, en los casos en los que resulte procedente, en los términos de la ley de la materia;
+
+XVIII.- Solicitar la imposición de medidas cautelares en los casos y por los tiempos previstos en la ley especializada de la materia;
+
+XIX.- Solicitar la reparación del daño;
+
+XX.- Intervenir en todas las audiencias del proceso en los términos previstos por la ley de la materia;
+
+XXI.- Solicitar la imposición de las medidas de orientación, protección y tratamiento;
+
+XXII.- Interponer los recursos que le correspondan en los términos de la ley o desistirse de los ya interpuestos;
+
+XXIII.- Garantizar que no se divulguen, total o parcialmente, por cualquier medio de comunicación, el nombre del adolescente o de la víctima u ofendido, los hechos o documentos del proceso; y
+
+XXIV.- Las demás que le confieran las leyes.
 
 ###### ARTICULO 33.
 
@@ -740,3 +812,23 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintinueve días del mes de enero del dos mil dos.
 
 ATENTAMENTE. - "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rubrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y tendrá vigencia hasta el 31 de diciembre de 2007, con excepción de los artículos 22, 23, el segundo párrafo del artículo 31 y 32 Bis de la Ley Orgánica del Ministerio Público del Estado, y los artículos 8º, 9º, 10, 10 bis y 27 de la Ley Orgánica del Poder Judicial del Estado, que tendrán vigencia indefinida en tanto no los modifique o derogue el Decreto pertinente del H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Hasta en tanto no se instituya la Sala Especializada en Justicia para Adolescentes, conocerá de los asuntos relativos a esa materia, la Sala Supernumeraria existente.
+
+###### ARTICULO TERCERO.
+
+Las investigaciones que se estén integrando con motivo de conductas tipificadas como delitos por las leyes penales atribuidas a adolescentes, se tramitarán conforme a las disposiciones aplicables de este Decreto.
+
+###### ARTICULO CUARTO.
+
+Se autoriza al Ejecutivo del Estado para que en los términos del Decreto del Presupuesto de Egresos del Estado para el presente ejercicio fiscal, realice las adecuaciones necesarias a estructurar los servicios de su competencia previstos en el presente Decreto. En el caso del Poder Judicial del Estado, por conducto de su representante hará la solicitud de ampliación de recursos presupuestales al Ejecutivo del Estado para atender los servicios que le competen conforme a esa misma disposición. Las transferencias y ampliaciones necesarias se incluirán en la cuenta pública correspondiente.
