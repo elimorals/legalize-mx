@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-estadias-de-la-universidad-tecnologica-de-33145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-16"
-last_updated: "2004-01-31"
+last_updated: "2006-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ESTADÍAS DE LA UNIVERSIDAD TECNOLÓGICA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de julio de 2003.
 
@@ -189,15 +189,19 @@ Los Directores de Carrera serán los responsables de hacer el seguimiento de los
 
 Los Directores de Carrera designarán como Asesor Académico de los proyectos de Estadía que consideren pertinentes, a algún integrante del personal académico, de acuerdo a su especialidad y carga horaria. El Asesor supervisará el cumplimiento del programa de estadía establecido.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 22.
 
-Al término de la Estadía, el alumno presentará por escrito, en un plazo no mayor de treinta días, el desarrollo y resultado de su trabajo de Estadía, documento que será una de las bases para la obtención de su Título de Técnico Superior Universitario. Este reporte será sancionado por los Asesores y el Director de la Carrera correspondiente, verificando su calidad de presentación, trabajo técnico, redacción, y demás requisitos señalados en el procedimiento de Estadías.
+Al término de la Estadía, el alumno presentará por escrito en un plazo no mayor de treinta días, el desarrollo y resultado de su memoria de Estadía, documento con el cual obtendrá su Título de Técnico Superior Universitario. Este trabajo con sus respectivas conclusiones, deberá ser presentado por el alumno ante el empresario, y será sancionado por los asesores académico y empresarial, verificando su calidad de presentación, trabajo técnico, redacción, y demás requisitos señalados en el procedimiento de Estadías.
 
 ### CAPÍTULO CUARTO. DEL CONVENIO DE ESTADÍA
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 23.
 
-La Universidad celebrará un convenio específico para cada proyecto de Estadía, el cual será celebrado por el representante de la empresa o del organismo, por el Rector de la Universidad, el Director de Carrera, los Asesores Académico y Empresarial y el alumno responsable del proyecto. Las características del convenio se determinarán en la suscripción del mismo.
+La Universidad celebrará un convenio específico para cada proyecto de Estadía, el cual será celebrado por el representante de la empresa u organismo, el Rector, y el alumno responsable del proyecto. Las características del convenio se determinarán en la suscripción del mismo.
 
 ###### Artículo 24.
 
@@ -316,3 +320,7 @@ Lic. Laura O. Bañuelos Quintero
 P.O. 31 DE ENERO DE 2004.
 
 > <small>[N. DE E. LA MODIFICACIÓN POR LA QUE “SE REFORMA UN ARTÍCULO AL REGLAMENTO DE ESTADÍAS DE LA UNIVERSIDAD TECNOLÓGICA DE NAYARIT”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE NAYARIT.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2006.
+
+> <small>[N. DE E. LA MODIFICACIÓN POR LA QUE "SE MODIFICAN LOS ARTÍCULO 22 Y 23 DEL REGLAMENTO DE ESTADÍAS", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE NAYARIT.]</small>
