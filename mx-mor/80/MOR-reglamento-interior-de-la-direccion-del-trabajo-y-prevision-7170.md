@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-direccion-del-trabajo-y-prevision-717
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-05-16"
-last_updated: "1979-05-16"
+last_updated: "2006-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION DEL TRABAJO Y PREVISION SOCIAL
 
-REGLAMENTO INTERIOR DE LA DIRECCION DEL TRABAJO Y PREVISION SOCIAL
+REGLAMENTO INTERIOR DE LA DIRECCIÓN DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO EN MATERIA DE CONCILIACIÓN, INSPECCIÓN Y PROCURACIÓN DE LA DEFENSA DEL TRABAJO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 16 de mayo de 1979.
 
@@ -705,24 +707,6 @@ VI.- Tomar nota de las licencias y renuncias de los representantes ante las Junt
 
 DE LA OFICINA DE SANCIONES
 
-###### ARTICULO 66.
-
-Para ser Jefe de la Oficina de Sanciones se tienen que satisfacer los siguientes requisitos:
-
-I.- Ser mexicano, mayor de edad y en pleno ejercicio de sus derechos;
-
-II.- Tener Título legalmente expedido de Licenciado en Derecho, o Carta de Pasante de la carrera de Licenciado en Derecho;
-
-III.- Haberse distinguido en actividades de Derecho del Trabajo y de la Seguridad Social;
-
-IV.- No pertenecer al Estado Eclesiástico;
-
-V.- No haber estado sujeto a proceso por delito intencional.
-
-###### ARTICULO 67.
-
-Se encargará de tramitar las consignaciones que formulen los Departamentos de la Dirección del Trabajo y Previsión Social, por violaciones a la Ley Federal del Trabajo, y sus Reglamentos o por desobediencia a mandamientos administrativos debidamente fundados.
-
 ###### ARTICULO 68.
 
 Los expedientes relativos a la imposición de sanciones serán instruidos por el Director del Trabajo y Previsión Social, y las resoluciones que se dicten, serán firmadas por el citado Director y por el encargado de la Oficina de Sanciones como Secretario.
@@ -743,217 +727,15 @@ IV.- La capacidad económica de la empresa infractora en los términos de los Ar
 
 Las resoluciones dictadas con arreglo al Artículo precedente, podrán ser atacadas por medio de los Recursos de Reconsideración Administrativa o de Revisión.
 
-###### ARTICULO 71.
-
-El Recurso de Reconsideración Administrativa, se podrá interponer ante el Titular de la Dirección del Trabajo y Previsión Social, para que modifique o reconsidere su fallo. Se interpondrá dentro de los tres días hábiles contados a partir del día siguiente en que se haga la notificación.
-
-###### ARTICULO 72.
-
-El Director resolverá sin más trámite, conforme el escrito del interesado, a más tardar, diez días después de interpuesto el Recurso.
-
-###### ARTICULO 73.
-
-Las resoluciones que impongan sanciones, podrán ser también modificadas o revocadas mediante un recurso administrativo de revisión, que se interpondrá ante el Secretario de Gobierno, quien lo resolverá sin más trámite que el escrito del recurrente y el informe que rinda la autoridad que impuso la sanción, remitiendo el expediente relativo para mejor proveer. Este recurso se interpondrá, después de agotado el Recurso de que trata el Artículo 71 de este Reglamento.
-
-###### ARTICULO 74.
-
-El Recurso de Revisión se interpondrá, dentro de un término de cinco días hábiles, contados a partir de la fecha de la notificación respectiva.
-
-###### ARTICULO 75.
-
-La Secretaría de Finanzas del Gobierno del Estado tendrá a su cargo, la ejecución de las sanciones, en ejercicio de la facultad económico-coactiva, con base en los documentos que le envíe la Dirección del Trabajo y Previsión Social, inclusive la cancelación de la sanción impuesta cuando sea procedente.
-
 DE LA OFICINA DE HIGIENE Y SEGURIDAD INDUSTRIAL
 
 (Esta Oficina hasta ahora, ha funcionado de hecho, porque no está prevista en el Reglamento vigente; pero además con la Reforma a la fracción XXXI del Artículo 123 Constitucional, es probable que la misma oficina deje de existir porque las inspecciones de jurisdicción estatal, estarán bajo la vigilancia y observancia de la Autoridad federal).
 
-###### ARTICULO 76.
-
-Esta Oficina tendrá a su cargo lo siguiente:
-
-Vigilar la observancia y cumplimiento de las normas establecidas en los Reglamentos de Higiene del Trabajo; Reglamento de Medidas Preventivas de Accidentes de Trabajo; Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetos a Presión; Ley Federal del Trabajo en todo lo relacionado con la higiene y seguridad industrial; con las limitaciones a que se refiere el Artículo 123 Fracción XXXI reformada en su parte final, y en su caso, la Ley Reglamentaria correspondiente.
-
-###### ARTICULO 77.
-
-Para el ejercicio de las anteriores funciones contará con Inspectores de Higiene y Seguridad Industrial, los cuales estarán a su cargo.
-
-###### ARTICULO 78.
-
-Para ser Jefe de la Oficina de Higiene y Seguridad Industrial, se requiere:
-
-I.- Ser mexicano por nacimiento;
-
-II.- Soltero;
-
-III.- Tener título legalmente expedido en la carrera de Ingeniería Industrial o Ingeniero Químico Industrial, o equivalente;
-
-IV.- No pertenecer al Estado Eclesiástico;
-
-V.- No pertenecer a las agrupaciones de patrones o de los trabajadores;
-
-VI.- No haber estado condenado por delito intencional;
-
-VII.- Aprobar exámenes de competencia para el desempeño de la función encomendada.
-
 DE LOS INSPECTORES DE HIGIENE Y SEGURIDAD INDUSTRIAL
-
-###### ARTICULO 79.
-
-Para ser Inspector de Higiene y Seguridad Industrial se requiere:
-
-I.- Tener nacionalidad mexicana por nacimiento;
-
-II.- Soltero;
-
-III.- Ser mayor de edad, y
-
-IV.- Acreditar haber hecho los estudios para la carrera de Ingeniero Industrial o Ingeniero Químico Industrial, o equivalente, con título debidamente registrado, o en su defecto, ser pasante del octavo semestre de las carreras citadas.
-
-###### ARTICULO 80.
-
-Corresponde a los Inspectores de Higiene y Seguridad Industrial, el cumplimiento de las disposiciones relativas a Higiene del Trabajo y Seguridad Industrial y a este efecto exigirán:
-
-I.- Que exista el botiquín de medicamentos para primeros auxilios, de acuerdo con el Artículo 132, fracción XVII, de la Ley Federal del Trabajo;
-
-II.- Vigilar que los patrones cumplan con las obligaciones contenidas en las Fracciones XVI, XVII y XVIII del Artículo 132 de la Ley Federal del Trabajo;
-
-III.- Que los centros de trabajo cuenten con las instalaciones de agua potable, baños y servicios sanitarios necesarios;
-
-IV.- Que se practiquen los reconocimientos médicos a que se refiere la fracción X del Artículo 134 de la Ley Federal del Trabajo y en los contratos de trabajo respectivos;
-
-V.- Que las empresas proporcionen a los trabajadores la ropa y el equipo necesario para labores peligrosas, para evitar accidentes y enfermedades del trabajo;
-
-VI.- Que las mismas empresas adopten las protecciones de bandas, flechas de transmisión, peleas (sic), engranes, volantes, cigüeñales, émbolos, etc., del equipo de energía mecánica;
-
-VII.- Que se lleven a cabo las obras de reconocimiento e iluminación y se provea a las ya instaladas de los implementos necesarios para la expulsión o absorción de gases, humos o vapores perjudiciales a la salud de los trabajadores;
-
-VIII.- Que las instalaciones y circuitos eléctricos estaciones y subestaciones, tengan todas las seguridades preventivas de accidentes y estén dotados de los dispositivos de arranque, interruptores, anuncios y señales de "PELIGRO";
-
-IX.- Que las calderas, calentadores y recipientes que trabajan a presión, tengan la placa y documentación que comprueben que han sido inspeccionados, dando aviso oportuno cuando falte este requisito, a la Autoridad Federal;
-
-X.- Que cada centro de trabajo y establecimiento comercial, cuenten con el equipo adecuado contra incendios y que las personas encargadas de su uso, estén debidamente capacitados;
-
-XI.- Que los patrones proporcionen lugares específicos a los trabajadores para su atención médica conforme lo estipulan los artículos 504 y 505 de la Ley Federal del Trabajo;
-
-XII.- Que en toda empresa o establecimiento se organicen las Comisiones de Seguridad e Higiene que se juzguen necesarias, conforme lo establecen los Artículos 509 y 510 de la Ley Federal del Trabajo;
-
-XIII.- De acuerdo con el Artículo 352 de la Ley Federal del Trabajo, los talleres familiares deberán de observar las normas de higiene y seguridad;
-
-XIV.- Vigilar que las industrias y negociaciones estén constituidas e instaladas con la protección debida para los trabajadores en contra de los fenómenos físicos como la energía radiante, temperaturas anormales y humedad, ruidos, iluminación inadecuada y radiaciones de todos los tipos;
-
-XV.- Los Inspectores de Higiene y Seguridad, deberán recibir capacitación y adiestramiento sobre el manejo de instrumentos o detectores especiales para poder evaluar la importancia y la intensidad del riesgo;
-
-XVI.- Los sistemas de aspiración deberán ser inspeccionados regularmente, en períodos que no excedan de tres meses para investigar si existen escapes o depósitos de polvos y residuos;
-
-XVII.- Recomendar que la temperatura ambiente en las áreas de trabajo de las industrias y negociaciones, deba encontrarse entre los 16 y los 25 grados centígrados;
-
-XVIII.- Vigilar que el patrón o representante de las Industrias, tenga la obligación de elaborar el instructivo que contenga la forma de levantar las actas respectivas, así como la manera técnica de proveer a la protección de circuitos eléctricos, bandas, pasillos, escaleras, aparatos de presión, almacenamiento de combustible, ácidos, corrosivos, explosivos, mezclas detonantes, iluminación, ventilación, equipos de seguridad, tapancos y obras falsas, malacates y montacargas, extractores y humectantes, equipo de incendio, plantas de soldadura y demás aparatos similares.
-
-###### ARTICULO 81.
-
-Los Inspectores de Higiene y Seguridad Industrial, practicarán las visitas de acuerdo con las instrucciones recibidas y a falta de éstas, observarán las siguientes:
-
-I.- En sus visitas, que podrán ser iniciales, periódicas o especiales, se harán acompañar del propietario o representante de la empresa o comercio y de los miembros de las comisiones de seguridad e higiene y a falta de éstos por un trabajador por lo menos, recorriendo con ellos, todos los lugares del establecimiento;
-
-II.- En las actas que se levanten, harán constar claramente además, de las condiciones regulares e irregulares que presente el establecimiento visitado, las medidas de protección que sean necesarias implantar o construir ya sea para evitar accidentes o prevenir las enfermedades de trabajo de los empleados, dando aviso a la Dirección del Trabajo y Previsión Social, para los efectos que corresponda.
-
-###### ARTICULO 82.
-
-Estas actividades las desarrollarán los Inspectores de Higiene y Seguridad en coordinación o auxilio de las Autoridades Federales del Trabajo establecidas en el Estado a efecto de desarrollarlas sin interferencias con el objeto de delimitar su ámbito de desarrollo de acuerdo con lo establecido en el Artículo 75 de este Reglamento y el Artículo 123, Fracción XXXI reformado en su parte final de la Constitución General de la República.
-
-###### ARTICULO 83.
-
-Los Inspectores de Higiene y Seguridad Industrial a que se refiere el presente Reglamento, tienen derecho:
-
-I.- A que las Autoridades Judiciales los auxilien en sus funciones cuando soliciten su ayuda. Podrán pedir el auxilio de la fuerza pública, haciéndolo del conocimiento de la Dirección;
-
-II.- A solicitar de las Autoridades o de los particulares los informes que necesiten en el desempeño de sus funciones.
 
 DE LOS TRABAJADORES SOCIALES
 
-###### ARTICULO 84.
-
-Para ser Trabajador (a) Social dependiente de la Dirección del Trabajo y Previsión Social, se requiere:
-
-I.- Ser mexicano, mayor de edad y en pleno ejercicio de sus derechos;
-
-II.- Ser pasante o titulado de la carrera de Trabajo Social o equivalente;
-
-III.- Haberse distinguido en estudios o actividades de Derecho del Trabajo y de la Seguridad Social;
-
-IV.- No haber estado condenado por delito intencional.
-
-###### ARTICULO 85.
-
-Son obligaciones de los Trabajadores Sociales las siguientes:
-
-I.- Organizar eventos culturales y conferencias acerca de la Seguridad Industrial, abarcando sus dos aspectos: Seguridad en las instalaciones industriales y seguridad en cuanto a la integridad física del trabajador;
-
-II.- Dar a conocer ampliamente la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, Ley del Seguro Social, Ley del Instituto de Seguridad de Servicios Sociales de los Trabajadores del Estado y todo lo relacionado con la interpretación de los Contratos Colectivos de Trabajo y demás ordenamientos legales de la materia;
-
-III.- Dar a conocer las disposiciones, relacionadas con el Fondo de Fomento de Garantía para el Consumo de los Trabajadores (FONACOT).
-
-IV.- Hacer investigaciones sobre condiciones socio-económicas de los trabajadores con el objeto de encauzar los problemas que confronten;
-
-V.- Promover programas de educación social para mujeres y menores trabajadores, tendientes a lograr su progreso material, intelectual y social;
-
-VI.- Proponer medidas administrativas encaminadas a garantizar el bienestar de los menores trabajadores promoviendo su empleo en actividades de aprendizaje, compatibles con su desarrollo físico y mental, así como su asistencia a centros educativos;
-
-VII.- Cooperar con las organizaciones obreras en la redacción de Contratos Colectivos e Individuales de Trabajo, en lo que concierna a labores de mujeres y menores, a fin de asegurar la protección de los mismos; y
-
-VIII.- Asesorar a mujeres y menores en cuanto a los derechos que las Leyes, los contratos colectivos y los contratos individuales de trabajo establecen en su favor.
-
-###### ARTICULO 86.
-
-Para el cabal funcionamiento de sus labores, los Trabajadores (as) Sociales estarán atentos a los Tratados y Convenciones Internacionales que México suscriba y ratifique.
-
-###### ARTICULO 87.
-
-Los Trabajadores Sociales a que se refiere el presente Reglamento, tienen derecho:
-
-I.- A que las Autoridades Judiciales, los auxilien en sus funciones, cuando soliciten su ayuda; podrán pedir el auxilio de la fuerza pública, dando aviso a la Dirección para el mejor desempeño de las mismas.
-
-II.- A solicitar de las autoridades o de los particulares, los informes que necesiten en el desempeño de sus funciones.
-
 DE LAS RESPONSABILIDADES DEL PERSONAL DE LA DIRECCIÓN
-
-###### ARTICULO 88.
-
-Son causas de responsabilidad del Director, Jefes de Departamento y Jefes de Oficina: las faltas de probidad y honradez comprobadas en el desempeño de sus funciones.
-
-###### ARTICULO 89.
-
-Son causas especiales de responsabilidad de los Inspectores del Trabajo, de Higiene y Seguridad Industrial, Procuradores, Conciliadores y demás personal adscrito a la Dirección del Trabajo y Previsión Social:
-
-I.- Asentar hechos falsos en las actas que se levanten;
-
-II.- Recibir directa o indirectamente cualquier dádiva de los trabajadores o de los patrones;
-
-III.- No cumplir las órdenes recibidas de su superior jerárquico.
-
-###### ARTICULO 90.
-
-Las sanciones que pueden imponerse al personal de la Dirección del Trabajo y Previsión Social, independientemente de los que dispongan las Leyes Penales son:
-
-I.- Amonestación;
-
-II.- Suspensión hasta por un mes;
-
-III.- Destitución;
-
-IV.- Consignación, en su caso, ante la autoridad competente.
-
-###### ARTICULO 91.
-
-En la imposición de las sanciones se observarán las normas siguientes:
-
-I.- El Director practicará una investigación con audiencia del interesado;
-
-II.- Cuando a juicio del Director, la sanción aplicable sea la destitución, dará cuenta al Secretario de Gobierno para su resolución. Lo mismo se hará cuando se trate de un caso de consignación.
-
-###### ARTICULO 92.
-
-En los casos de responsabilidad del Director, las sanciones y la investigación la llevará a cabo el Gobernador Constitucional del Estado, por conducto de la Secretaría de Gobierno.
 
 ## TRANSITORIOS
 
@@ -984,3 +766,17 @@ EL SECRETARIO DE GOBIERNO
 Lic. Fausto González Hernández
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el decreto número 65 publicado en el Periódico Oficial Número 2536 del 22 de marzo de 1972, por el cual se creó el órgano técnico administrativo dependiente directamente del Ejecutivo del Estado, denominado Dirección de Trabajo y Previsión Social.
+
+TERCERO. Se abroga el Reglamento Interior de la Dirección del Trabajo y Previsión Social publicado en el Periódico Oficial Número 2909, de 16 de mayo de 1979.
+
+CUARTO. Se abroga el Acuerdo que establece los documentos que deberán exhibir los patrones por parte de la Dirección del Trabajo y Previsión Social, publicado en el POEM 4006, del 6 de octubre de 1999.
+
+QUINTO. Se derogan todas las demás disposiciones reglamentarias o administrativas que se opongan a lo dispuesto por el presente Reglamento.
