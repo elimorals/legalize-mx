@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "2005-02-26"
+last_updated: "2006-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -1033,7 +1033,9 @@ Con relación a este capítulo, en lo no previsto en esta Ley y su Reglamento, l
 
 Para su funcionamiento, el Congreso del Estado contará con los siguientes órganos técnicos y administrativos:
 
-I. Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+
+I. Órgano Superior de Fiscalización;
 
 II. Oficialía Mayor;
 
@@ -1051,11 +1053,21 @@ VIII. Dirección de Finanzas;
 
 IX. Dirección de Comunicación y Relaciones Públicas;
 
-X. Coordinación de Biblioteca y Videoteca Legislativa;
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
 
-XI. Coordinación de Seguridad y Operación Logística.
+X. Dirección del Archivo del Poder Legislativo;
 
-Para su integración, funcionamiento y competencia, estas dependencias se regirán por lo dispuesto en el reglamento interior del Congreso y con apego al presupuesto general de egresos del Poder Legislativo.
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Coordinación de biblioteca y videoteca legislativa; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Coordinación de seguridad y operación logística.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+
+Para su integración, funcionamiento y competencia, estas dependencias se regirán por lo dispuesto en el Reglamento Interior del Congreso; con excepción de la Dirección del Archivo del Poder Legislativo, la cual estará regulada por la Ley de la materia, todas con apego al presupuesto general de egresos del Poder Legislativo.
 
 ###### ARTICULO 133.
 
@@ -1236,3 +1248,9 @@ Con el propósito de armonizar los tiempos de ejercicio constitucional actuales 
 ###### ARTÍCULO SEXTO.
 
 La Junta de Coordinación Política, atendiendo a lo señalado por el artículo 53, fracción XVI, deberá crear el Comité de Evaluación cuya función será la de supervisar el ejercicio del gasto; dicho órgano estará integrado por los vocales de la Junta de Coordinación Política, su presidencia será rotativa, recayendo dicha responsabilidad en el Diputado de la misma fracción que presida la Junta, excepto cuando la Presidencia corresponda a la Fracción Parlamentaria del Partido Verde Ecologista de México, en cuyo caso será la Junta de Coordinación quien determine a su Titular.
+
+P.O. 13 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor desde el momento de su aprobación, debiéndose publicar en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
