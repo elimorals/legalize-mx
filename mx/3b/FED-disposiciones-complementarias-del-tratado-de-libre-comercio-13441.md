@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-09-12"
+last_updated: "2006-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,43 +18,49 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE
+DECRETO POR EL QUE SE MODIFICA TEMPORALMENTE EL ARTICULO 1 DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE LOS EE.UU
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de septiembre de 2006.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de septiembre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o. fracciones I y II, 14 y 23 de la Ley de Comercio Exterior, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
 
-Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares o jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
+Que el Anexo 1A del Acuerdo OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Acuerdo sobre Subvenciones y Medidas Compensatorias (el Acuerdo SMC);
 
-Que existe una disputa entre México y los Estados Unidos de América derivado del incumplimiento de éste con sus obligaciones establecidas en el TLCAN de otorgar acceso a su territorio al azúcar mexicano en los términos establecidos en el Anexo 703.2 del TLCAN, además de que se han negado a someterse al procedimiento de solución de controversias establecido en el propio tratado;
+Que el Acuerdo OMC en su Anexo 2 contiene el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
 
-Que México y los Estados Unidos de América han reconocido la existencia de esa disputa y que ésta sigue sin resolverse;
+Que el 28 de octubre de 2000 entró en vigor en los Estados Unidos de América (EE.UU.) la Ley de Compensación por Continuación del Dumping o Mantenimiento de las Subvenciones de 2000 (también conocida como la Enmienda Byrd) que permite a las autoridades competentes de EE.UU. distribuir entre productores y empresas estadounidenses que solicitaron el inicio de procedimientos de prácticas desleales de comercio internacional los montos recaudados por concepto del pago de derechos antidumping y cuotas compensatorias;
 
-Que, en este contexto, el pasado 27 de julio los gobiernos de México y los Estados Unidos de América alcanzaron, entre otros, acuerdos en materia de comercio de azúcares y jarabes según se definen en la Sección C del Anexo 703.2 del TLCAN, que contribuirán a facilitar la transición al libre comercio de edulcorantes el 1 de enero de 2008;
+Que el 10 de agosto de 2001 México solicitó el establecimiento de un Grupo Especial al amparo del Entendimiento para examinar la compatibilidad de la Enmienda Byrd con el Acuerdo OMC, en particular, con el GATT de 1994, el Acuerdo Antidumping y el Acuerdo SMC;
 
-Que entre los acuerdos alcanzados está el otorgamiento por parte de México de un trato libre de impuestos para una cantidad de azúcares o jarabes de los Estados Unidos de América de 7,258 toneladas métricas (valor crudo) en cada uno de los años comerciales que inician el 1 de octubre de 2005 y 2006, así como para los primeros tres meses del año comercial que inicia el 1 de octubre de 2007, respectivamente;
+Que el 27 de enero de 2003 el Órgano de Solución de Diferencias de la Organización Mundial del Comercio (OMC) adoptó los Informes del Grupo Especial y del Órgano de Apelación de la OMC que establecen que la Enmienda Byrd resulta incompatible con diversas disposiciones contenidas en los acuerdos señalados en el considerando anterior y que anula o menoscaba ventajas resultantes de esos acuerdos para las Partes Reclamantes;
 
-Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte; y
+Que el artículo 22 del Entendimiento establece el derecho de los Miembros de suspender concesiones u otras obligaciones emanadas del Acuerdo OMC que sean equivalentes al nivel de anulación o menoscabo causado por el incumplimiento de otro Miembro de una decisión del Órgano de Solución de Diferencias;
 
-Que la medida a que se refiere el presente Decreto cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 31 de agosto de 2004 el Órgano de Solución de Diferencias de la OMC dio a conocer la Decisión del Árbitro que establece la metodología aplicable a México para determinar el nivel de suspensión de concesiones u otras obligaciones equivalente a la anulación o menoscabo derivado del incumplimiento de EE.UU. en la OMC;
+
+Que en la sesión del 24 y 26 de noviembre de 2004 el Órgano de Solución de Diferencias de la OMC autorizó a México a suspender concesiones u otras obligaciones de acuerdo con lo dispuesto en el artículo 22 del Entendimiento y en la Decisión del árbitro señalada en el considerando anterior;
+
+Que el nivel de anulación o menoscabo para el período de 2005 ocasionado a México por la aplicación de la Enmienda Byrd se obtuvo conforme a la metodología establecida en la Decisión del Árbitro de la OMC antes mencionada, conforme a la cual México tiene derecho de suspender concesiones u otras obligaciones para el período de 2005 por un valor de comercio de 6.1 millones de dólares;
+
+Que las distribuciones de los montos recaudados por concepto de pago de derechos antidumping y cuotas compensatorias realizadas conforme a la Enmienda Byrd continuarán vigentes hasta el 1 de octubre de 2007, de conformidad con la Ley de Reducción de Déficit aprobada por el Congreso de EE.UU. Por lo que, ante el incumplimiento de EE.UU. de la decisión del Órgano de Solución de Diferencias de la OMC, México tiene derecho a suspender a EE.UU. concesiones u otras obligaciones que sean equivalentes al nivel de anulación o menoscabo causado, con fundamento en el artículo 22 del Entendimiento;
+
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+
+Que la nota al Artículo 302.1 del TLCAN establece que lo dispuesto en los artículos 302(1) y 302(2), referentes a la obligación de las Partes de no incrementar o adoptar aranceles aduaneros sobre bienes originarios y de eliminar sus aranceles aduaneros sobre bienes originarios de acuerdo con lo dispuesto en el calendario de desgravación de cada una de las Partes no tienen como propósito evitar que una Parte del TLCAN mantenga o aumente un arancel si el Entendimiento lo permite, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
 DECRETO
 
-Artículo Único.- Se adiciona el artículo 15 al Decreto por el que se establece la Tasa Aplicable durante 2003 del Impuesto General de Importación, para las mercancías originarias de América del Norte publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, para quedar como sigue:
-
-“ARTÍCULO 15.- La importación de las mercancías originarias de América del Norte comprendidas en las fracciones arancelarias que se señalan en este artículo se sujetará al arancel preferencial indicado a continuación para cada una de ellas siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con el requisito señalado se aplicará el arancel establecido en el ARTÍCULO 1o. de la Ley de los Impuestos Generales de Importación y de Exportación:
+Artículo Único.- Se modifica temporalmente el ARTÍCULO 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de EE.UU. clasificadas en la siguiente fracción arancelaria, que se sujeta al arancel de importación establecido a continuación:
 
 (VEASE ARCHIVO ANEXO)
-
-Lo dispuesto en este artículo será aplicable siempre que se trate de “productos calificados” de los Estados Unidos de América conforme a lo dispuesto en la Sección A del Anexo 703.2 del TLCAN y que el importador cuente con una declaración escrita del exportador que certifique que las mercancías a importar no se han beneficiado del programa “Sugar Reexport Program” de los Estados Unidos de América.
-
-Tratándose de la importación de bienes clasificados en las fracciones arancelarias 1806.10.01 y 2106.90.05 adicionalmente a lo establecido en los dos párrafos anteriores de este artículo el importador deberá demostrar que el insumo clasificado en la subpartida 1701.99 utilizado en la producción de dichos bienes se consideró un “producto calificado” de los Estados Unidos de América conforme a lo dispuesto en la Sección A del Anexo 703.2 del TLCAN.”
 
 ###### ARTICULO PRIMERO.
 
@@ -348,8 +354,10 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+PRIMERO.- El presente Decreto entrará en vigor el 14 de septiembre de 2006 y concluirá su vigencia el 31 de octubre de 2006.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+SEGUNDO.- Una vez concluida la vigencia de este Decreto, la importación de las mercancías originarias de EE.UU. a que hace referencia el Artículo Único de este Decreto se regirá por lo establecido en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
