@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-contaduria-mayor-de-hacienda-del-estado-de-nuevo-7477
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-08"
-last_updated: "2002-06-24"
+last_updated: "2006-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL ORGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 13 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de mayo de 1992.
 
@@ -446,3 +448,17 @@ Unico:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE JUNIO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor cuando se cumpla el supuesto a que se refiere el Artículo Transitorio Tercero del Decreto número 49 aprobado por el Congreso del Estado de Nuevo León en fecha 26 de marzo de 2001.
+
+P.O. 13 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la vigencia de las reformas a los artículos 63, fracciones XIII, XVI y XVII, 125 y 152 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
+
+Artículo Segundo.- A partir del inicio de la vigencia de este Decreto, se abroga la Ley de la Contaduría Mayor de Hacienda del Estado de Nuevo León, publicada en el Periódico Oficial, del día 8 de agosto de 1992, y así como todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan a esta Ley, salvo lo dispuesto en el Artículo Cuarto Transitorio del presente decreto.
+
+Artículo Tercero.- Se instruye al Pleno del Congreso para que conforme al Reglamento para el Gobierno Interior del Congreso, en el término de 15 días naturales a partir de la publicación de la presente Ley en el Periódico Oficial del Estado, emita convocatoria pública por 60 días para recibir las propuestas para seleccionar al Auditor General.
+
+Artículo Cuarto.- En tanto la Auditoría Superior del Estado no comience a ejercer las funciones a que se refiere el presente Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las funciones que actualmente le confiere la Ley de la Contaduría Mayor de Hacienda.
+
+Artículo Quinto.- Todos los bienes, recursos, derechos y obligaciones de la Contaduría Mayor de Hacienda pasarán a formar parte del patrimonio de la Auditoría Superior del Estado.
+
+Artículo Sexto.- Los trabajadores que al entrar en vigor el presente Decreto, que laboren en la Contaduría Mayor de Hacienda conservarán sus derechos y formarán parte del personal de la Auditoría Superior del estado.
