@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-luz-y-fuerza-del-centro-15865"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-03-21"
-last_updated: "2005-04-11"
+last_updated: "2006-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15865&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-11-24"
 
 ESTATUTO ORGANICO DE LUZ Y FUERZA DEL CENTRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2006.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 21 de marzo de 2000.
 
@@ -835,31 +835,35 @@ XII. Efectuar la evaluación de resultados operativos y de la gestión, y
 
 XIII. Elaborar y actualizar manuales, procedimientos y reglamentos.
 
-## TITULO DECIMO PRIMERO. De la Subdirección de Distribución y Comercialización
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO DECIMO PRIMERO. De la Subdirección de Distribución
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48.
 
-La Subdirección de Distribución y Comercialización, además de las que le asigne el Director, tendrá las funciones siguientes:
+La Subdirección de Distribución, además de las que le asigne el Director General, tendrá las funciones siguientes:
 
 I. Dirigir y supervisar la operación y mantenimiento del Sistema de Distribución;
 
-II. Dirigir y supervisar la operación comercial;
+II. Coordinar los procesos de distribución;
 
-III. Coordinar los procesos de distribución y comercialización;
+III. Establecer programas para mejorar los indicadores de desempeño;
 
-IV. Establecer programas para mejorar los indicadores de desempeño;
+IV. Establecer las políticas y lineamientos para la planeación y estudios que aseguren el desarrollo de la red y subestaciones de distribución; y
 
-V. Establecer las políticas y lineamientos para la planeación y estudios que aseguren el desarrollo de la red y subestaciones de distribución;
+V. Fijar las políticas para el desarrollo del programa de capacitación permanente orientados hacia la calidad en el servicio al cliente.
 
-VI. Establecer las políticas y lineamientos para la planeación comercial que aseguren la contratación, conexión, medición, facturación y cobranza del servicio público de energía eléctrica, y
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
-VII. Fijar las políticas para el desarrollo de programas de capacitación permanente orientados hacia la calidad en el servicio al cliente.
+### CAPITULO I. De la Gerencia de Operación Redes de Distribución
 
-### CAPITULO I. De la Gerencia de Operación de Redes de Distribución
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 49.
 
-La Gerencia de Operación de Redes de Distribución tendrá las funciones siguientes, además de las que le asigne el Subdirector de Distribución y Comercialización:
+La Gerencia de Operación Redes de Distribución, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
 I. Dirigir y supervisar la operación de las subestaciones y redes de distribución de la entidad a través de los diferentes centros de operación;
 
@@ -867,191 +871,279 @@ II. Normar los procedimientos, equipos y sistemas para operar la red de distribu
 
 III. Dirigir y supervisar el desarrollo, aplicación de nuevos métodos, equipos, tecnología para la operación y control de la red, las subestaciones de distribución, así como de sistemas para su administración;
 
-IV. Consolidar la información de la operación de las redes y subestaciones de distribución de la entidad;
+IV. Consolidar la información de la operación de las redes y subestaciones de distribución del Organismo;
 
-V. Supervisar los sistemas de información a los diferentes niveles administrativos del estado operativo del sistema de distribución en la entidad;
+V. Supervisar los sistemas de información a los diferentes niveles administrativos del estado operativo del sistema de distribución en el Organismo;
 
-VI. Facilitar los medios para la Administración de los trabajos de instalación, operación y mantenimiento del sistema de distribución, y
+VI. Facilitar los medios para la administración de los trabajos de instalación, operación y mantenimiento del Sistema de Distribución; y
 
-VII. Establecer programas de capacitación permanente, orientadas hacia la calidad del servicio.
+VII. Establecer programas de capacitación permanente, orientados hacia la calidad del servicio.
 
 ### CAPITULO II. De la Gerencia de Distribución
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 50.
 
-La Gerencia de Distribución tendrá, además de las que le asigne el Subdirector de Distribución y Comercialización, las funciones siguientes:
+La Gerencia de Distribución, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
 I. Fijar políticas y lineamientos para la planeación y estudio que garanticen el desarrollo de la red de distribución;
 
-II. Establecer la normatividad para la Ingeniería de Distribución y posibilitar su desarrollo homogéneo y de calidad, reduciendo los costos de: diseño, desarrollo y explotación del sistema de distribución;
+II. Establecer la normatividad para la Ingeniería de Distribución y posibilitar su desarrollo homogéneo y de calidad, reduciendo los costos de: diseño, desarrollo y explotación del Sistema de Distribución;
 
-III. Proveer y facilitar los medios que aseguren el diseño y proyecto de la red de distribución en condiciones adecuadas de calidad a un costo mínimo;
+III. Establecer políticas, normas y procedimientos para mejorar los servicios y productos que se le proporcionen al cliente;
 
-IV. Establecer programas de capacitación permanente, orientados hacia la calidad en el servicio al cliente;
+IV. Proveer y facilitar los medios que aseguren el diseño y proyecto de la red de distribución en condiciones adecuadas de calidad a un costo mínimo;
 
-V. Consolidar y programar la planeación de la expansión y modernización del sistema de distribución;
+V. Establecer programas de capacitación permanente, orientados hacia la calidad en el servicio al cliente;
 
-VI. Planeación y seguimiento del programa de Inversión;
+VI. Consolidar y programar la planeación de la expansión y modernización del Sistema de Distribución;
 
-VII. Elaborar estudios especiales para la implantación de nuevas tecnologías en las redes de distribución, y
+VII. Planear y dar seguimiento del Programa de Inversión;
 
-VIII. Elaborar manuales de procedimientos específicos.
+VIII. Elaborar estudios especiales para la implantación de nuevas tecnologías en las redes de distribución; y
+
+IX. Elaborar manuales de procedimientos específicos.
 
 ### CAPITULO III. De la Gerencia de Comercialización
 
 ###### ARTICULO 51.
 
-La Gerencia de Comercialización tendrá las funciones siguientes:
-
-I. Promover y gestionar el estudio, desarrollo y aplicación de nuevas tecnologías y sistemas administrativos en el proceso comercial;
-
-II. Fijar las políticas y lineamientos para la operación comercial en las Divisiones, Regiones y Unidades Comerciales;
-
-III. Establecer la normatividad para planear, organizar, dirigir, controlar, aplicar, desarrollar y supervisar los programas de inspección y pruebas de servicios y nuevos métodos de medición, así como diseñar, implantar, controlar y actualizar los estándares de servicio a usuarios, consolidando la planeación comercial;
-
-IV. Consolidar información operativa de las Divisiones, relacionada con la comercialización de la energía eléctrica y fijar las políticas y lineamientos para elaborar el presupuesto de inversión de la función comercial;
-
-V. Estudiar y, en su caso, formular propuestas en materia tarifaria y modificaciones en la normatividad en materia comercial;
-
-VI. Establecer las políticas, normas y procedimientos tanto para la celebración de convenios de pago a plazos, como para la cobranza centralizada;
-
-VII. Proporcionar información para la planeación, desarrollo y evaluación de los programas comerciales divisionales y a dependencias externas;
-
-VIII. Establecer políticas, normas y procedimientos para mejorar los servicios y productos que se les proporcione a los clientes;
-
-IX. Establecer la normatividad para el desarrollo de los programas de adiestramiento y capacitación relativas a la función comercial, y
-
-X. Ejercer las funciones que le encargue el Subdirector de Distribución y Comercialización.
+(DEROGADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)
 
 ### CAPITULO IV. De la Gerencia Metropolitana Norte
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 52.
 
-La Gerencia Metropolitana Norte tendrá, además de las que le asigne el Subdirector de Distribución y Comercialización, las funciones siguientes:
+La Gerencia Metropolitana Norte, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
-I. Coordinar los procesos de distribución y comercialización;
+I. Coordinar los procesos de distribución;
 
 II. Planear, dirigir y supervisar la expansión, mantenimiento y funcionamiento de la red de distribución;
 
-III. Dirigir y supervisar la operación comercial;
+III. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución;
 
-IV. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución y comercialización;
+IV. Asegurar el cumplimiento de metas y objetivos;
 
-V. Asegurar el cumplimiento de metas y objetivos;
+V. Asegurar el cumplimiento de los programas y mejoras de los productos y servicios que le proporcione al cliente;
 
 VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
 
-VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores; así como preservar el adecuado funcionamiento de las instalaciones;
+VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores, así como preservar el adecuado funcionamiento de las instalaciones;
 
-VIII. Establecer programas de capacitación permanente, y
+VIII. Establecer programas de capacitación permanente; e
 
 IX. Implantar esquemas de costos y rendimiento por obras.
 
 ### CAPITULO V. De la Gerencia Metropolitana Oriente
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 53.
 
-La Gerencia Metropolitana Oriente, además de las que le asigne el Subdirector de Distribución y Comercialización, tendrá las funciones siguientes:
+La Gerencia Metropolitana Oriente, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
-I. Coordinar los procesos de distribución y comercialización;
+I. Coordinar los procesos de distribución;
 
 II. Planear, dirigir y supervisar la expansión, mantenimiento y funcionamiento de la red de distribución;
 
-III. Dirigir y supervisar la operación comercial;
+III. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución;
 
-IV. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución y comercialización;
+IV. Asegurar el cumplimiento de metas y objetivos;
 
-V. Asegurar el cumplimiento de metas y objetivos;
+V. Asegurar el cumplimiento de los programas y mejoras de los productos y servicios que le proporcione al cliente;
 
 VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
 
-VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores; así como preservar el adecuado funcionamiento de las instalaciones;
+VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores, así como preservar el adecuado funcionamiento de las instalaciones;
 
-VIII. Establecer programas de capacitación permanente, y
+VIII. Establecer programas de capacitación permanente; e
 
 IX. Implantar esquemas de costos y rendimiento por obras.
 
 ### CAPITULO VI. De la Gerencia Metropolitana Poniente
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 54.
 
-La Gerencia Metropolitana Poniente, además de las que le asigne el Subdirector de Distribución y Comercialización, tendrá las funciones siguientes:
+La Gerencia Metropolitana Poniente, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
-I. Coordinar los procesos de distribución y comercialización;
+I. Coordinar los procesos de distribución;
 
 II. Planear, dirigir y supervisar la expansión, mantenimiento y funcionamiento de la red de distribución;
 
-III. Dirigir y supervisar la operación comercial;
+III. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución;
 
-IV. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución y comercialización;
+IV. Asegurar el cumplimiento de metas y objetivos;
 
-V. Asegurar el cumplimiento de metas y objetivos;
+V. Asegurar el cumplimiento de los programas y mejoras de los productos y servicios que le proporcione al cliente;
 
 VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
 
-VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores; así como preservar el adecuado funcionamiento de las instalaciones;
+VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores, así como preservar el adecuado funcionamiento de las instalaciones;
 
-VIII. Establecer programas de capacitación permanente, y
+VIII. Establecer programas de capacitación permanente; e
 
 IX. Implantar esquemas de costos y rendimiento por obras.
 
 ### CAPITULO VII. De la Gerencia de Pachuca
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 55.
 
-La Gerencia de Pachuca, además de las que le asigne el Subdirector de Distribución y Comercialización, tendrá las funciones siguientes:
+La Gerencia de Pachuca, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
-I. Coordinar los procesos de distribución y comercialización;
+I. Coordinar los procesos de distribución;
 
 II. Planear, dirigir y supervisar la expansión, mantenimiento y funcionamiento de la red de distribución;
 
-III. Dirigir y supervisar la operación comercial;
+III. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución;
 
-IV. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución y comercialización;
+IV. Asegurar el cumplimiento de metas y objetivos;
 
-V. Asegurar el cumplimiento de metas y objetivos;
+V. Asegurar el cumplimiento de los programas y mejoras de los productos y servicios que le proporcionen al cliente;
 
 VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
 
-VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores; así como preservar el adecuado funcionamiento de las instalaciones;
+VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores, así como preservar el adecuado funcionamiento de las instalaciones;
 
-VIII. Establecer programas de capacitación permanente, y
+VIII. Establecer programas de capacitación permanente; e
 
 IX. Implantar esquemas de costos y rendimiento por obras.
 
 ### CAPITULO VIII. De la Gerencia Toluca-Cuernavaca
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 56.
 
-La Gerencia Toluca-Cuernavaca tendrá las funciones siguientes, además de las que le asigne el Subdirector de Distribución y Comercialización:
+La Gerencia Toluca-Cuernavaca, además de las que le asigne el Subdirector de Distribución, tendrá las funciones siguientes:
 
-I. Coordinar los procesos de distribución y comercialización;
+I. Coordinar los procesos de distribución;
 
 II. Planear, dirigir y supervisar la expansión, mantenimiento y funcionamiento de la red de distribución;
 
-III. Dirigir y supervisar la operación comercial;
+III. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución;
 
-IV. Implantar y supervisar el cumplimiento de la normatividad establecida para los procesos de distribución y comercialización;
+IV. Asegurar el cumplimiento de metas y objetivos;
 
-V. Asegurar el cumplimiento de metas y objetivos;
+V. Asegurar el cumplimiento de los programas y mejoras de los productos y servicios que le proporcionen al cliente;
 
 VI. Asegurar el cumplimiento de los Planes y Programas de Trabajo, mediante el seguimiento del estado en que se encuentren desde su definición, diseño, ejecución y puesta en servicio;
 
-VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores; así como preservar el adecuado funcionamiento de las instalaciones;
+VII. Promover y crear condiciones de trabajo favorables que garanticen la integridad física de los trabajadores, así como preservar el adecuado funcionamiento de las instalaciones;
 
-VIII. Establecer programas de capacitación permanente, y
+VIII. Establecer programas de capacitación permanente; e
 
 IX. Implantar esquemas de costos y rendimiento por obras.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+## TITULO DECIMO PRIMERO BIS. De la Subdirección de Comercialización
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 56-A.
+
+La Subdirección de Comercialización, además de las que le asigne el Director General, tendrá las funciones siguientes:
+
+I. Dirigir y supervisar la operación comercial;
+
+II. Coordinar los procesos de comercialización;
+
+III. Establecer programas para mejorar los indicadores de desempeño;
+
+IV. Establecer las políticas y lineamientos para la planeación comercial que aseguren la contratación, conexión, medición, facturación y cobranza del servicio público de energía eléctrica; y
+
+V. Fijar las políticas para el desarrollo de programas de capacitación permanente orientados hacia la calidad en el servicio al cliente.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO I. De la Gerencia Comercial de Cuentas Ordinarias
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 56-B.
+
+La Gerencia Comercial de Cuentas Ordinarias, además de las que le asigne el Subdirector de Comercialización, tendrá las funciones siguientes:
+
+I. Promover y participar en el estudio, desarrollo y aplicación de nuevas tecnologías y sistemas administrativos en el proceso comercial;
+
+II. Fijar las políticas y lineamientos para la operación comercial en Sucursales y Agencias Foráneas;
+
+III. Consolidar información operativa, relacionada con la comercialización de la energía eléctrica y fijar las políticas y lineamientos para elaborar el presupuesto de inversión de la función comercial;
+
+IV. Estudiar y, en su caso, formular propuestas en materia tarifaria y modificaciones en la normatividad en material comercial;
+
+V. Dirigir y supervisar la operación comercial de las Sucursales y Agencias Foráneas;
+
+VI. Establecer las políticas, normas y procedimientos tanto para la celebración de convenios de pago a plazos, así como para la cobranza centralizada;
+
+VII. Proporcionar información para la planeación, desarrollo y evaluación de los programas comerciales de Sucursales y Agencias Foráneas a dependencias externas;
+
+VIII. Establecer políticas, normas y procedimientos para mejorar los servicios y productos que le proporcionen a los clientes; y
+
+IX. Establecer la normatividad para el desarrollo de los programas de adiestramiento y capacitación relativas a la función comercial.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO II. De la Gerencia Comercial de Cuentas de Gobierno
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 56-C.
+
+La Gerencia Comercial de Cuentas de Gobierno, además de las que le asigne el Subdirector de Comercialización, tendrá las funciones siguientes:
+
+I. Promover y participar en el estudio, desarrollo y aplicación de nuevas tecnologías y sistemas administrativos en el proceso comercial;
+
+II. Fijar las políticas y lineamientos para la operación comercial en las Oficinas Comerciales de Cuentas de Gobierno;
+
+III. Diseñar, implantar, controlar y actualizar los estándares de servicio a usuarios de los Gobiernos Federal, Estatal y Municipal;
+
+IV. Establecer las políticas, normas y procedimientos para la celebración de convenios de pago para los Gobiernos Federal, Estatal y Municipal, así como para la cobranza centralizada;
+
+V. Dirigir y supervisar la operación comercial de las Unidades Comerciales;
+
+VI. Coadyuvar en el establecimiento de políticas, normas y procedimientos para mejorar los servicios y productos que le proporcionen a los clientes;
+
+VII. Coadyuvar en el establecimiento de la normatividad y desarrollo de los programas de adiestramiento y capacitación relativos a la función comercial; y
+
+VIII. Proponer mejoras a las operativas comerciales para hacer más eficiente el proceso de atención a clientes.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO III. De la Gerencia Comercial de Cuentas Especiales
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 56-D.
+
+La Gerencia Comercial de Cuentas Especiales, además de las que le asigne el Subdirector de Comercialización, tendrá las funciones siguientes:
+
+I. Promover y participar en el estudio, desarrollo y aplicación de nuevas tecnologías y sistemas administrativos en el proceso comercial;
+
+II. Fijar las políticas y lineamientos para la operación comercial en las Oficinas Comerciales de Cuentas Especiales;
+
+III. Establecer la normatividad para planear, organizar, dirigir, controlar, aplicar, desarrollar y supervisar los programas de inspección y pruebas de servicios y nuevos métodos de medición, así como diseñar, implantar, controlar y actualizar los estándares de servicio a usuarios, consolidando la planeación comercial;
+
+IV. Dirigir y supervisar la operación comercial de las Oficinas Comerciales de Cuentas Especiales;
+
+V. Establecer las políticas, normas y procedimientos para la celebración de convenios de pago a plazos para las Cuentas Especiales, así como para la cobranza centralizada;
+
+VI. Coadyuvar en el establecimiento de políticas, normas y procedimientos para mejorar los servicios y productos que le proporcionen a los clientes;
+
+VII. Coadyuvar en el establecimiento de la normatividad y desarrollo de los programas de adiestramiento y capacitación relativos a la función comercial;
+
+VIII. Proponer mejoras a las operativas comerciales para hacer más eficiente el proceso de atención a clientes; y
+
+IX. Establecer programas de capacitación permanente.
+
 ## TITULO DECIMO SEGUNDO. De la Subdirección de Abastecimiento y Transportes
-
-### CAPITULO I. De la Gerencia de Adquisiciones y Almacenes
-
-### CAPITULO II. De la Gerencia de Transportes
-
-### CAPITULO III. De la Gerencia de Servicios
-
-## TITULO DECIMO TERCERO. De la Subdirección de Construcción
 
 ###### ARTICULO 57.
 
@@ -1071,7 +1163,7 @@ VI. Normar, revisar y controlar el adecuado uso de los transportes de la Entidad
 
 VII. Planear, supervisar y evaluar el ejercicio del presupuesto asignado a la misma.
 
-### CAPITULO I. De la Gerencia de Obras de Potencia
+### CAPITULO I. De la Gerencia de Adquisiciones y Almacenes
 
 ###### ARTICULO 58.
 
@@ -1103,7 +1195,7 @@ XII. Supervisar, en su caso, los índices de productividad de las áreas de adqu
 
 XIII. Promover la actualización de los sistemas de registro, control, guarda, custodia y suministro de materiales.
 
-### CAPITULO II. De la Gerencia de Obras de Distribución
+### CAPITULO II. De la Gerencia de Transportes
 
 ###### ARTICULO 59.
 
@@ -1139,7 +1231,7 @@ XIV. Supervisar y evaluar los índices de productividad correspondientes, y
 
 XV. Las demás que señale el Subdirector de Abastecimiento y Transportes.
 
-### CAPITULO III. De la Gerencia de Proyectos
+### CAPITULO III. De la Gerencia de Servicios
 
 ###### ARTICULO 60.
 
@@ -1175,9 +1267,29 @@ XIV. Las demás que señale el Subdirector de Abastecimiento y Transportes, y
 
 XV. Supervisar y evaluar los índices de productividad correspondientes.
 
-### CAPITULO I. De la Gerencia de Telecomunicaciones
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
-## TITULO DECIMO CUARTO. De la Subdirección de Servicios Técnicos
+### CAPITULO IV. De la Coordinación de Seguridad
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 60 Bis.
+
+La Coordinación de Seguridad tendrá las funciones siguientes:
+
+I. Determinar y autorizar la cantidad de elementos necesarios para integrar el estado de fuerza de las corporaciones policiales contratadas, así como el aumento y disminución del mismo en función de las necesidades del Organismo;
+
+II. Supervisar el buen desempeño de las funciones de las corporaciones policiales contratadas, correspondiéndole la autorización del pago por la prestación de servicios de seguridad, vigilancia y custodia;
+
+III. Representar al Organismo ante el Grupo de Coordinación para la Atención de Instalaciones Estratégicas (GCIE) y el Centro de Investigación y Seguridad Nacional (CISEN), así como coordinar el enlace con Organismos Estatales y del Gobierno Federal relacionados con la seguridad pública;
+
+IV. Coordinar operativos especiales en materia de seguridad, tanto de carácter rutinario, como en situaciones de alto riesgo, amenazas potenciales o emergencias diversas;
+
+V. Representar al Organismo ante la Dirección General de Protección Civil dependiente de la Secretaría de Gobernación, así como coordinar la integración de las Unidades Internas de Protección Civil de las diferentes instalaciones del Organismo; y
+
+VI. Diseñar mecanismos de recolección, procesamiento y explotación de información que contribuyan a preservar la integridad, estabilidad y seguridad del Organismo.
+
+## TITULO DECIMO TERCERO. De la Subdirección de Construcción
 
 ###### ARTICULO 61.
 
@@ -1199,7 +1311,7 @@ VII. Participar en la elaboración y control del programa de obras, índices de 
 
 VIII. Atender las funciones y actividades que le sean encomendadas por la superioridad.
 
-### CAPITULO II. De la Gerencia de Sistemas
+### CAPITULO I. De la Gerencia de Obras de Potencia
 
 ###### ARTICULO 62.
 
@@ -1217,7 +1329,7 @@ V. Atender a las distintas Representaciones Sindicales para el arreglo de asunto
 
 VI. Atender las funciones y actividades que le sean encomendadas por la superioridad.
 
-### CAPITULO III. De la Gerencia de Aseguramiento de la Calidad
+### CAPITULO II. De la Gerencia de Obras de Distribución
 
 ###### ARTICULO 63.
 
@@ -1243,7 +1355,7 @@ IX. Atender a las distintas Representaciones Sindicales para el arreglo de asunt
 
 X. Atender las funciones y actividades que le sean encomendadas por la superioridad.
 
-### CAPITULO I. De la Gerencia de Talleres Automotrices
+### CAPITULO III. De la Gerencia de Proyectos
 
 ###### ARTICULO 64.
 
@@ -1261,7 +1373,7 @@ V. Atender a las distintas Representaciones Sindicales para el arreglo de asunto
 
 VI. Atender las funciones y actividades que le sean encomendadas por la superioridad.
 
-## TITULO DECIMO QUINTO. De la Subdirección de Fábricas y Talleres
+## TITULO DECIMO CUARTO. De la Subdirección de Servicios Técnicos
 
 ###### ARTICULO 65.
 
@@ -1281,7 +1393,7 @@ VI. Establecer políticas y lineamientos ambientales, y
 
 VII. Definir, supervisar y evaluar los índices de productividad correspondientes.
 
-### CAPITULO II. De la Gerencia de Fábricas de Estructuras y Talleres Electromecánicos
+### CAPITULO I. De la Gerencia de Telecomunicaciones
 
 ###### ARTICULO 66.
 
@@ -1305,7 +1417,7 @@ VIII. Ejecutar el Plan Global, y
 
 IX. Determinar y dar seguimiento a los índices de los procesos productivos.
 
-### CAPITULO III. De la Gerencia de Talleres Civiles
+### CAPITULO II. De la Gerencia de Sistemas
 
 ###### ARTICULO 67.
 
@@ -1336,6 +1448,8 @@ XI. Soportar a usuarios y atender la mesa de ayuda;
 XII. Administrar los recursos informáticos, e
 
 XIII. Impulsar la actualización tecnológica informática de los recursos humanos del Organismo.
+
+### CAPITULO III. De la Gerencia de Aseguramiento de la Calidad
 
 ###### ARTICULO 68.
 
@@ -1369,7 +1483,7 @@ IV. Proporcionar apoyo técnico a las áreas, y
 
 V. Determinar y dar seguimiento a los índices de gestión.
 
-## TITULO DECIMO SEXTO. De Comités Varios
+## TITULO DECIMO QUINTO. De la Subdirección de Fábricas y Talleres
 
 ###### ARTICULO 69.
 
@@ -1378,6 +1492,8 @@ La Subdirección de Fábricas y Talleres, además de las que le asigne el Direct
 I. Planear, integrar, organizar y controlar las acciones relacionadas con los servicios requeridos por las actividades propias de Luz y Fuerza, que se prestan a través de 43 unidades de producción y/o servicio, y
 
 II. Definir, dar seguimiento y evaluar los índices de productividad en los diversos procesos.
+
+### CAPITULO I. De la Gerencia de Talleres Automotrices
 
 ###### ARTICULO 70.
 
@@ -1388,6 +1504,8 @@ I. Planear, integrar, organizar y controlar los talleres cuyas funciones operati
 Proporcionar mantenimiento preventivo y correctivo a la planta vehicular automotriz, al equipo pesado y al equipo hidráulico de la entidad.
 
 Definir y dar seguimiento a los índices de productividad de las actividades.
+
+### CAPITULO II. De la Gerencia de Fábricas de Estructuras y Talleres Electromecánicos
 
 ###### ARTICULO 71.
 
@@ -1421,6 +1539,8 @@ Proporcionar apoyo mecánico a otros talleres, y
 
 Definir y dar seguimiento a los índices de productividad de las actividades.
 
+### CAPITULO III. De la Gerencia de Talleres Civiles
+
 ###### ARTICULO 72.
 
 La Gerencia de Talleres Civiles tendrá, además de las que le asigne el Subdirector de Fábricas y Talleres, las funciones siguientes:
@@ -1433,7 +1553,7 @@ Diseño y producción de equipos de trabajo y mobiliario, y
 
 II. Definir y dar seguimiento a los índices de productividad de las actividades.
 
-## TITULO DECIMO SEPTIMO. De las Suplencias de los Servidores Públicos del Organismo
+## TITULO DECIMO SEXTO. De Comités Varios
 
 ###### ARTICULO 73.
 
@@ -1441,7 +1561,7 @@ La Junta, a propuesta de su presidente o cuando menos de la tercera parte de sus
 
 La Secretaría de Energía promoverá el establecimiento de comités mixtos de productividad, con la participación de representantes de los trabajadores y de la Administración del Organismo, que analizarán medidas relativas a la organización de los procesos productivos, de selección y de aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia.
 
-## TITULO DECIMO OCTAVO. De las Modificaciones al Estatuto
+## TITULO DECIMO SEPTIMO. De las Suplencias de los Servidores Públicos del Organismo
 
 ###### ARTICULO 74.
 
@@ -1467,6 +1587,8 @@ El Jefe de la Unidad de Asuntos Jurídicos, Jefe de la Unidad de Relaciones Inst
 
 Las ausencias y vacantes del Titular del Organo Interno de Control, así como las de los titulares de las áreas de responsabilidades; de Auditoría Interna; de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno; y de Quejas, serán suplidas conforme a lo previsto por el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
 
+## TITULO DECIMO OCTAVO. De las Modificaciones al Estatuto
+
 ###### ARTICULO 78.
 
 De conformidad con la facultad indelegable de la Junta de Gobierno, a que se refiere la fracción VIII del artículo 58 de la Ley Federal de las Entidades Paraestatales, a ésta corresponderá realizar las modificaciones que procedan al Estatuto Orgánico de Luz y Fuerza del Centro.
@@ -1490,3 +1612,9 @@ D.O.F. 11 DE ABRIL DE 2005.
 PRIMERO.- Las presentes Reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan los artículos 23, 24, 25, 26, 27 y 28 del Estatuto Orgánico de Luz y Fuerza del Centro.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Las presentes Reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el artículo 51 del Estatuto Orgánico de Luz y Fuerza del Centro.
