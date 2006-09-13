@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2006-03-31"
+last_updated: "2006-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -196,7 +196,9 @@ c) El nombre del Coordinador del Grupo Parlamentario.
 
 ###### ARTICULO 17.
 
-1. La Mesa Directiva de la Cámara de Diputados será electa por el Pleno; se integrará con un presidente, tres vicepresidentes y tres secretarios; durarán en sus funciones un año y podrán ser reelectos.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+1. La Mesa Directiva de la Cámara de Diputados será electa por el Pleno; se integrará con un presidente, tres vicepresidentes y un secretario propuesto por cada Grupo Parlamentario, pudiendo optar éste último por no ejercer dicho derecho. Los integrantes de la Mesa Directiva durarán en sus funciones un año y podrán ser reelectos.
 
 2. La Cámara elegirá a la Mesa Directiva por el voto de las dos terceras partes de los diputados presentes, mediante una lista que contenga los nombres de los propuestos con sus respectivos cargos.
 
@@ -208,7 +210,13 @@ c) El nombre del Coordinador del Grupo Parlamentario.
 
 6. En el caso de que a las 12:00 horas del día 31 de agosto del año de inicio de Legislatura no se hubiere electo a la Mesa Directiva conforme a lo dispuesto en los párrafos que anteceden, la Mesa de Decanos ejercerá las atribuciones y facultades que la ley otorga a aquélla y a sus integrantes, según corresponda, y su Presidente citará a la sesión de instalación de Congreso. La Mesa de Decanos no podrá ejercer dichas atribuciones más allá del 5 de septiembre.
 
-7. La elección de los integrantes de la Mesa Directiva para el segundo y tercer año de ejercicio de la Legislatura, se llevará a cabo durante la sesión preparatoria de la Cámara que inicia dichos periodos. El proceso será conducido por los integrantes de la Mesa Directiva que concluye su ejercicio. Si en dicha sesión no se alcanza la mayoría calificada requerida, esta Mesa continuará en funciones hasta el día 5 del siguiente mes con el fin de que se logren los entendimientos necesarios.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+7. La elección de los integrantes de la Mesa Directiva para el segundo y tercer año de ejercicio de la Legislatura, se llevará a cabo durante la sesión preparatoria del año de ejercicio que corresponda, garantizando que la presidencia de la Mesa Directiva para tales ejercicios recaiga, en orden decreciente, en un integrante de los dos grupos parlamentarios con mayor número de diputados que no la hayan ejercido. El proceso será conducido por los integrantes de la Mesa Directiva que concluye su ejercicio. Si en dicha sesión no se alcanza la mayoría calificada requerida, esta Mesa continuará en funciones hasta el día 5 del siguiente mes con el fin de que se logren los entendimientos necesarios.
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+8. En ningún caso la presidencia de la Mesa Directiva recaerá en el mismo año legislativo, en un diputado que pertenezca al Grupo Parlamentario que presida la Junta de Coordinación Política.
 
 ###### ARTICULO 18.
 
@@ -260,9 +268,15 @@ i) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acue
 
 1. La Mesa Directiva es dirigida y coordinada por el Presidente; se reunirá por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos.
 
-2. Como órgano colegiado, la Mesa Directiva adoptará sus decisiones por consenso y, en caso de no lograrse el mismo, por la mayoría absoluta de sus integrantes. En caso de empate, el Presidente de la Mesa tendrá voto de calidad.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
-3. A las reuniones de la Mesa concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+2. Como órgano colegiado, la Mesa Directiva adoptará sus decisiones por consenso, y en caso de no lograrse el mismo por la mayoría de sus integrantes mediante el voto ponderado, en el cual el Diputado que esté facultado para ello, representará tantos votos como integrantes tenga su Grupo Parlamentario. En caso de empate, el Presidente de la Mesa tendrá voto de calidad.
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+3. Para los efectos del párrafo anterior, el Diputado facultado para ejercer el voto ponderado, será el Vicepresidente. En el caso de los Grupos Parlamentarios que no cuenten con Vicepresidente o ante la ausencia del Vicepresidente respectivo a las reuniones de la Mesa, el voto ponderado será ejercido por el Secretario que corresponda.
+
+4. A las reuniones de la Mesa concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
 #### Sección Tercera. De su presidente
 
@@ -400,9 +414,15 @@ c) Nombre del diputado que haya sido designado como Coordinador del Grupo Parlam
 
 1. La Junta de Coordinación Política se integra con los Coordinadores de cada Grupo Parlamentario.
 
-2. Será Presidente de la Junta, por la duración de la Legislatura, el Coordinador de aquel Grupo Parlamentario que por sí mismo cuente con la mayoría absoluta en la Cámara.
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
-3. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los Coordinadores de los Grupos, en orden decreciente del número de legisladores que los integren.
+2. La sesión de instalación de la Junta de Coordinación Política, será convocada por el Coordinador del Grupo Parlamentario que tenga el mayor número de diputados.
+
+3. Será Presidente de la Junta, por la duración de la Legislatura, el Coordinador de aquel Grupo Parlamentario que por sí mismo cuente con la mayoría absoluta en la Cámara.
+
+> <small>(REFORMADO. D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+
+4. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por los Coordinadores de los tres Grupos Parlamentarios que cuenten con el mayor número de diputados. El orden anual para presidir este órgano será determinado por la Junta de Coordinación Política.
 
 ###### ARTICULO 32.
 
@@ -2005,3 +2025,9 @@ Unico.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 31 DE MARZO DE 2006.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- La adecuación respecto de la integración de la Mesa Directiva en los términos previstos en el artículo 17 que se reforma por virtud del presente decreto, deberá quedar cumplimentada en la sesión ordinaria inmediata siguiente a la fecha de entrada en vigor del presente decreto.
