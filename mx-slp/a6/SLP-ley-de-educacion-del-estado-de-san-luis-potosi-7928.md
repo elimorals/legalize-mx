@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2004-02-12"
+last_updated: "2006-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -80,6 +80,10 @@ Atenderá también la educación inicial, preescolar, indígena, especial y norm
 ###### ARTICULO 6º.
 
 Los habitantes de la Entidad deben cursar la educación preescolar, primaria y secundaria; y los padres o tutores están obligados a hacer que sus hijos o pupilos, menores de edad, cursen ambos niveles educativos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Para obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables, reciban la educación preescolar y primaria, deberá tener la edad mínima para ingresar a la educación básica, a nivel preescolar de 3 años; y para nivel primaria 6 años; cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
 ###### ARTICULO 7º.
 
@@ -1256,6 +1260,12 @@ P.O. 12 DE FEBRERO DE 2004.
 PRIMERO. Previa su publicación en el Periódico Oficial del Estado, el presente Decreto entrará en vigor el día siguiente al de su publicación, en el mismo órgano informativo oficial, del diverso Decreto por el que se reforman los párrafos primero y cuarto del artículo 10 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
