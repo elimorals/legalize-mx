@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2006-08-26"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -7551,9 +7551,15 @@ Las obligaciones no se presumen: quien afirme su existencia deberá referirse al
 
 Las obligaciones civiles nacen de la voluntad de las partes, de disposiciones expresas de la ley o como consecuencia de delitos, de faltas, o de hechos u omisiones ejecutadas con perjuicio ajeno, que ameriten una indemnización.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Art. 1261.
 
-La voluntad, como fuente de obligaciones, puede ser expresa o tácita; debiendo presumirse cuando una persona ejecuta actos o acepta beneficios que no se pueden explicar, dentro de la equidad y la justicia, sin el reconocimiento de las obligaciones correlativas.
+La voluntad, como fuente de obligaciones, puede ser expresa o tácita; debiendo presumirse cuando una persona ejecuta actos o acepta beneficios que no se pueden explicar, dentro de la equidad y la justicia, sin el reconocimiento de las obligaciones correlativas, para ello se estará a lo siguiente:
+
+I. Será expresa cuando se manifiesta verbalmente, por escrito, por medio electrónicos, ópticos o de cualquier otra tecnología o por signos inequívocos; y
+
+II. Será tácita cuando resulte de hechos o de actos que la presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio deba manifestarse expresamente.
 
 ###### Art. 1262.
 
@@ -7796,6 +7802,14 @@ Cuando la ley exija determinada forma de un contrato, mientras que éste no revi
 ###### Art. 1308.
 
 Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas que en el acto deban intervenir, salvo lo que previene este código para las personas que no saben o no pueden firmar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Lo previsto por el párrafo que antecede se tendrá por cumplido mediante la utilización de medios electrónicos, ópticos, firma electrónica certificada o de cualquier otra tecnología, siempre y cuando la información generada o comunicada en forma íntegra, a través de dichos medios, sea atribuible a las personas obligadas, puede existir permanentemente y sea accesible para su ulterior consulta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligares , mediante la utilización de firma electrónica certificada, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuye dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
 
 #### Sección Octava. De las cláusulas
 
@@ -17616,3 +17630,11 @@ P.O. 26 DE AGOSTO DE 2006.
 DECRETO NUMERO 21420-LVII/06
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
