@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "2004-10-23"
+last_updated: "2006-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -1027,6 +1027,14 @@ X. Debe dar fe de conocimiento de los comparecientes o de que los identificó po
 
 XI. Cuando se requiera que el instrumento se asiente además en algún otro idioma distinto al español, se podrá hacer, ya sea dividiendo la plana de arriba a bajo por medio de una línea en dos partes iguales o a continuación del final del instrumento, para que se escriba en una parte en idioma español y en la otra en el idioma extranjero. En todo caso, el instrumento deberá ser firmado por perito traductor autorizado.
 
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO EL DECRETO NO. 21432-LVII/06, LA PRESENTE ADICION ENTRARA EN VIGOR EL 1 DE ENERO DE 2007.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 82 bis.- El consentimiento de las partes para la celebración de actos jurídicos mediante instrumentos públicos podrá otorgarse a través de medios electrónicos, ópticos o de cualquier otra tecnología siempre y cuando se observen las disposiciones de la Ley de Firma Electrónica Certificada del Estado de Jalisco y sus Municipios.
+
+El Notario otorgará la escritura mediante el procedimiento previsto en la presente ley incluyendo la manifestación del párrafo anterior.
+
 ###### Artículo 83.
 
 Para que el Notario haga constar que los otorgantes tienen capacidad legal, bastará con que en ellos no observe manifestación de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
@@ -1225,9 +1233,11 @@ Artículo 104 bis. Cuando el notario autorice la constitución de Fundaciones o 
 
 Los avisos a que este Capítulo se refiere se darán por duplicado, para devolver al Notario, la copia con la anotación de la hora y fecha de recibido; la cual se deberá agregar al Libro de Documentos, asentando razón de ello.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2002)</small>
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO EL DECRETO NO. 21432-LVII/06, LA PRESENTE ADICION ENTRARA EN VIGOR EL 1 DE ENERO DE 2007.</small>
 
-El notario podrá optar por dar los avisos a que este Capítulo se refiere en forma electrónica mediante las reglas de carácter general que expidan las autoridades competentes con acuerdo de las dependencias involucradas en las que se establezca además la forma de recepción del soporte documental para ser agregado al libro de documentos, asentando razón de ello.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+El Notario podrá optar por dar los avisos a que este Capítulo se refiere a través de medios electrónicos, ópticos o de cualquier otra tecnología en los términos de la legislación aplicable y reglas de carácter general que para tal efecto expidan las autoridades competentes con acuerdo de las dependencias involucradas en las que se establezca además, la forma de recepción del soporte documental para ser agregado al libro de documentos, asentando razón de ello.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1995)</small>
 
@@ -2636,3 +2646,11 @@ P.O. 4 DE MAYO DE 2004.
 P.O. 23 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley de Registro público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
