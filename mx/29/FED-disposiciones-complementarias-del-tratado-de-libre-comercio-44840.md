@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2006-08-30"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,25 +19,29 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCAR EN 2006
+ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de agosto de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de septiembre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los capítulos VII del Tratado de Libre Comercio de América del Norte, IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica y IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los Capítulos VII del Tratado de Libre Comercio de América del Norte; IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, y IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, y
 
 CONSIDERANDO
 
 Que en los últimos meses se ha generado un incremento inusitado en los precios del azúcar en el mercado nacional, por lo que resulta necesario complementar la oferta nacional con importaciones, a efecto de que las industrias que la utilizan como materia prima en sus procesos productivos no resulten afectadas;
 
-Que el artículo único del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, da a conocer el arancel-cupo, aplicable a las siguientes fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
+Que el 30 de agosto pasado se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo para importar azúcar en 2006, estableciéndose un monto de 90 mil toneladas métricas;
+
+Que dicho cupo ha resultado insuficiente para incidir a la baja en el precio del azúcar, lo cual continua vulnerando la competitividad de la industria que la emplea como insumo en procesos productivos y afecta el poder adquisitivo de los consumidores, particularmente de los de menores ingresos;
+
+Que el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, da a conocer el arancel-cupo aplicable a las fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
 
 Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para la producción nacional, y
 
 Que la medida a que se refiere el presente ordenamiento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCAR EN 2006
+ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
 
 ###### ARTICULO PRIMERO.
 
@@ -101,183 +105,63 @@ Los formatos a que se hace referencia en este Acuerdo estarán a disposición de
 
 http://www.apps.cofemer.gob.mx/buscador/nuevo_tree.asp?org=SE&view=20&page=7.
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
-La importación de mercancías originarias de la Comunidad Europea, de un Estado de la Asociación Europea de Libre Comercio (en adelante AELC) integrada por Suiza, Liechtenstein, Noruega e Islandia, de la región conformada por México, El Salvador, Guatemala y Honduras o de la región conformada por México y Nicaragua, se gravará de acuerdo a la menor tasa arancelaria de entre la establecida en el artículo 1 de la Ley de los Impuestos Generales de Importación y de Exportación, y la preferencial contenida en el Apéndice de este Decreto. Las tasas arancelarias preferenciales se expresan en términos ad-valorem, salvo que en la columna relativa a la tasa se establezca un arancel específico, el cual se expresa en términos de dólares o centavos de dólar de los Estados Unidos de América u otro diverso.
+Se establece un cupo adicional para importar azúcar en 2006, con el arancel-cupo establecido en el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, el cual se señala a continuación:
 
-###### ARTÍCULO 2.
+(VEASE ARCHIVO ANEXO)
 
-Para los efectos del presente Decreto se entiende por:
+###### ARTICULO 2.
 
-I.- Mercancías originarias de la Comunidad Europea: Las que cumplan con lo establecido en el Anexo III denominado “Definición del Concepto de Productos Originarios y Procedimientos de Cooperación Administrativa” de la Decisión 2/2000 del Consejo Conjunto CE-México firmada bajo el Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una parte, y la Comunidad Europea y sus Estados Miembros, por otra (en adelante,“ la Decisión”);
+El procedimiento de asignación del cupo de importación referido en el presente instrumento será de asignación directa.
 
-II.- Mercancías originarias de un Estado de la AELC: Las que cumplan con lo establecido en el Anexo I denominado “Definición del Concepto de Productos Originarios y Procedimientos de Cooperación Administrativa” y con otros requisitos o disposiciones aplicables del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio;
+###### ARTICULO 3.
 
-III.- Mercancías originarias de Suiza: Las que cumplan con el artículo 3, Anexo III, y demás disposiciones aplicables del “Acuerdo sobre Agricultura entre los Estados Unidos Mexicanos y la Confederación Suiza”. Como se establece en el artículo 12 de dicho Acuerdo, esta definición incluirá las mercancías del Principado de Liechtenstein como parte del territorio de Suiza, en virtud del “Tratado de la Unión Aduanera entre Suiza y el Principado de Liechtenstein del 29 de marzo de 1923”;
+Podrán solicitar asignación del cupo a que se refiere el artículo anterior del presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que se mencionan a continuación y la asignación será otorgada por la Secretaría de Economía hasta agotar el cupo, conforme a los siguientes criterios:
 
-IV.- Mercancías originarias de Noruega: Las que cumplan con el artículo 3, Anexo III, y demás disposiciones aplicables del “Acuerdo sobre Agricultura entre los Estados Unidos Mexicanos y el Reino de Noruega”;
+I. Se asignarán 50,000 toneladas métricas para personas físicas o morales mediante el procedimiento de asignación directa bajo la modalidad de “primero en tiempo, primero en derecho”.
 
-V.- Mercancías originarias de Islandia: Las que cumplan con el artículo 3, Anexo III, y demás disposiciones aplicables del “Acuerdo sobre Agricultura entre los Estados Unidos Mexicanos y la República de Islandia”;
+II. La asignación de las restantes 50,000 toneladas métricas del cupo será por asignación directa de la siguiente manera:
 
-VI.- Mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras: Las que cumplan con lo establecido en el Capítulo VI denominado “Reglas de Origen” del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras;
+a. 30,000 toneladas métricas para las personas físicas o morales del sector refresquero que utilice azúcar como insumo en sus procesos productivos. El monto a asignar será el menor entre el solicitado y el equivalente a una vez el promedio mensual de sus consumos totales auditados de azúcar en 2005.
 
-VII.- Mercancías originarias de la región conformada por los Estados Unidos Mexicanos y Nicaragua: Las que cumplan con lo establecido en el Capítulo VI denominado "Reglas de Origen" del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y
+b. 20,000 toneladas métricas para las personas físicas o morales de la industria excepto del sector refresquero, que utilice azúcar como insumo en sus procesos productivos. El monto a asignar será el menor entre el solicitado y el equivalente a una vez el promedio mensual de sus consumos totales auditados de azúcar en 2005.
 
-VIII.- Apéndice: El Apéndice de este Decreto.
+###### ARTICULO 4.
 
-###### ARTÍCULO 3.
+Para lo señalado en el artículo 3, fracción I del presente ordenamiento, la solicitud de asignación del cupo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior de la Secretaría de Economía, emitirá, en su caso, constancia de asignación, misma que será entregada a través de la Representación Federal correspondiente, en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-Para determinar la tasa arancelaria preferencial que deberá aplicarse a la importación de las mercancías originarias mencionadas en el artículo 2 de este Decreto, se procederá de la siguiente manera:
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo de importación mediante la presentación, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando copia de la factura comercial, del conocimiento de embarque, carta de porte o guía aérea, según sea el caso. El plazo máximo para la expedición de los certificados de cupo es de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-I.- Para mercancías originarias de la Comunidad Europea:
+El monto del certificado será el menor entre el solicitado y el monto indicado en la factura comercial, el conocimiento de embarque, carta de porte o guía aérea, según sea el caso.
 
-a) Se aplicará la tasa correspondiente a la columna “Comunidad Europea” del Apéndice, o
+La vigencia de los certificados será al 15 de diciembre de 2006.
 
-b) En aquellos casos en que la columna “Comunidad Europea” del Apéndice o el artículo 9 de este Decreto indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005;
+###### ARTICULO 5.
 
-II.- Para mercancías originarias de un Estado de la AELC, en los casos en que sean iguales las tasas aplicables a Suiza, Noruega e Islandia, para una misma fracción arancelaria, según se establece en las columnas respectivas del Apéndice, dicha tasa se aplicará por igual a mercancías originarias de uno de esos Estados de la AELC:
+Para lo señalado en el artículo 3, fracción II del presente ordenamiento, las solicitudes de asignación deberán presentarse en el formato “Solicitud de asignación de cupo” SE-03-011-1, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que le corresponda, anexando los requisitos específicos contenidos en la hoja de requisitos que se establece como Anexo del presente Acuerdo.
 
-a) Para mercancías originarias de Suiza, se aplicará la tasa correspondiente a la columna “Suiza” del Apéndice, o
+La asignación será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, misma que será entregada a través de la Representación Federal correspondiente, en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-b) En aquellos casos en que la columna “Suiza” del Apéndice o el artículo 11 de este Decreto indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005;
+Una vez asignado el monto para importar dentro del cupo, el beneficiario deberá solicitar la expedición del certificado de cupo de importación mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, en la ventanilla de atención al público de la misma Representación Federal que corresponda. El plazo máximo para la expedición de los certificados de cupo es de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-c) Para mercancías originarias de Noruega, se aplicará la tasa correspondiente a la columna “Noruega” del Apéndice, o
+La vigencia de los certificados será al 15 de diciembre de 2006.
 
-d) En aquellos casos en que la columna “Noruega” del Apéndice o el artículo 12 de este Decreto indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005, y
+###### ARTICULO 6.
 
-e) Para mercancías originarias de Islandia, se aplicará la tasa correspondiente a la columna “Islandia” del Apéndice, o
+Los formatos citados en el presente instrumento estarán a disposición de los interesados en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
 
-f) En aquellos casos en que la columna “Islandia” del Apéndice o el artículo 13 de este Decreto indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de septiembre de 2005, y la segunda a las importaciones que se realicen entre el 1 de octubre y el 31 de diciembre de 2005;
+I. Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
 
-III.- En los casos en que sean iguales las tasas aplicables a El Salvador, Guatemala y Honduras, para una misma fracción arancelaria, según se establece en las columnas respectivas del Apéndice, dicha tasa se aplicará por igual a mercancías originarias de esta región. En caso de ser distintas, se estará a lo siguiente conforme al Anexo 3-04 (5) denominado “Programa de Desgravación Arancelaria” del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras:
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-a) La tasa correspondiente a la columna “El Salvador” del Apéndice, se aplicará a aquellas mercancías para las que la determinación de origen se hace de conformidad con el párrafo 10 (a) del Anexo 3-04 (5);
+II. Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
 
-b) La tasa correspondiente a la columna “Guatemala” del Apéndice, se aplicará a aquellas mercancías para las que la determinación de origen se hace de conformidad con el párrafo 11 (a) del Anexo 3-04 (5);
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
 
-c) La tasa correspondiente a la columna “Honduras” del Apéndice, se aplicará a aquellas mercancías para las que la determinación de origen se hace de conformidad con el párrafo 12 (a) del Anexo 3-04 (5), y
+###### ARTICULO 7.
 
-IV.- Para mercancías originarias de la región conformada por México y Nicaragua, se aplicará la primera tasa señalada en la columna "Nicaragua" del Apéndice o en el artículo 22 de este Decreto, cuando la importación se realice entre el 1 de enero y el 30 de junio de 2005; y se aplicará la segunda tasa señalada en cada columna del Apéndice o en el artículo 22 de este Decreto, cuando la importación se realice entre el 1 de julio y el 31 de diciembre de 2005.
-
-###### ARTÍCULO 4.
-
-Se aplicará la tasa indicada en la columna de la Comunidad Europea del Apéndice a las mercancías no originarias comprendidas en las partidas 52.08 a 52.12, 54.07 a 54.08, 55.12 a 55.16, 58.01, 58.06, 58.11, 64.02, 64.03 y 64.04 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que cumplan con las disposiciones del Apéndice II y Apéndice II (a) del Anexo III de la Decisión, siempre que el importador adjunte al pedimento de importación, un certificado de elegibilidad expedido por la Secretaría de Economía.
-
-Se aplicará la tasa indicada en el Apéndice a las mercancías no originarias procedentes de los Estados de la AELC comprendidas en:
-
-a) Las partidas 51.11 a 51.13, 52.08 a 52.12, 53.09 a 53.11, 54.07 a 54.08, 55.12 a 55.16, 58.01, 58.06, 58.11, 59.03 y capítulo 60 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que cumplan con las disposiciones de la Nota 1 del Apéndice 2 (a) del Anexo I del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía;
-
-b) Los capítulos 61 y 62, las partidas 63.01 a 63.07 y 63.09 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que cumplan con las disposiciones de la Nota 2 del Apéndice 2 (a) del Anexo I del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía, y
-
-c) La partida 64.03 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que cumplan con las disposiciones de la Nota 3 del Apéndice 2 (a) del Anexo I del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía.
-
-###### ARTÍCULO 5.
-
-. . .
-
-III. . . .
-
-Fracción Arancel
-
-4412.13.01 10
-
-4412.13.99 5
-
-4412.14.99 5
-
-4412.19.01 5
-
-4412.19.99 10
-
-4412.22.01 10
-
-4412.23.99 5
-
-4412.29.99 10
-
-4412.92.01 10
-
-4412.93.99 5
-
-4412.99.99 10
-
-XVII. . . .
-
-Fracción Arancel
-
-4412.13.01 10
-
-4412.13.99 5
-
-4412.14.99 5
-
-4412.19.01 5
-
-4412.19.99 10
-
-4412.22.01 10
-
-4412.23.99 5
-
-4412.29.99 10
-
-4412.92.01 10
-
-4412.93.99 5
-
-4412.99.99 10
-
-###### ARTÍCULO 6.
-
-La importación de las mercancías originarias de la Comunidad Europea comprendidas en las fracciones arancelarias que se señalan en este artículo, las cuales se identifican con el código "CUE" bajo el rubro "Nota" en el Apéndice, se sujetará al arancel preferencial especial indicado a continuación para cada una de ellas, conforme a la abreviatura señalada en la Regla 5a. complementaria de la Ley de los Impuestos Generales de Importación y de Exportación:
-
-Fracción Arancel
-
-1604.14.01 7.6% ad -valorem
-
-1604.14.99 7.6% ad -valorem
-
-1604.19.01 7.6% ad -valorem
-
-1604.20.02 7.6% ad -valorem
-
-8703.10.99 Ex.
-
-8703.21.01 Ex.
-
-8703.21.99 Ex.
-
-8703.22.01 Ex.
-
-8703.23.01 Ex.
-
-8703.24.01 Ex.
-
-8703.31.01 Ex.
-
-8703.32.01 Ex.
-
-8703.33.01 Ex.
-
-8703.90.01 Ex.
-
-8703.90.99 Ex.
-
-8706.00.01 Ex.
-
-8706.00.02 Ex.
-
-8706.00.99 Ex.
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
-
-###### ARTÍCULO 7.
-
-La importación de las mercancías originarias de la Comunidad Europea comprendidas en las fracciones arancelarias clasificadas bajo las partidas 87.02, 87.04 u 87.05 y que se identifiquen con el código “CAU” bajo el rubro “Nota” en el Apéndice, se sujetará al arancel preferencial indicado a continuación:
-
-I.- Si la mercancía cuenta con un peso bruto vehicular mayor o igual a 8,864 kg. por vehículo, el arancel preferencial será el indicado en la columna “Arancel” para dicha fracción arancelaria en el Apéndice, y
-
-II.- Si la mercancía cuenta con un peso bruto vehicular menor a 8,864 kg. por vehículo, el arancel preferencial será 10% ad valorem, salvo que la mercancía cuente con un certificado de cupo expedido por la Secretaría de Economía, en cuyo caso, estará exenta del arancel a la importación.
+Para la aplicación de este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas, ambas de la Secretaría de Economía.
 
 ###### ARTÍCULO 8.
 
@@ -317,8 +201,16 @@ La importación de mercancías originarias de Noruega, comprendidas en las fracc
 
 En aquellos casos de este artículo o en los de la columna “Noruega” del Apéndice, en los que se indique dos tasas para una fracción arancelaria, se aplicará la primera de ellas a las importaciones que se realicen entre el 1 de enero y el 30 de junio de 2005, y la segunda a las importaciones que se realicen entre el 1 de julio y el 31 de diciembre de 2005.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2006.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 15 de diciembre de 2006.
 
-México, D.F., a 4 de agosto de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+SEGUNDO.- Para efectos del artículo Segundo del Acuerdo por el que se da a conocer el cupo para importar azúcar en 2006, publicado en el Diario Oficial de la Federación el 30 de agosto pasado, se considerará, dentro del cómputo de azúcar importada durante 2005 (M05) y (Mi05), los conceptos denominados definitivo con claves de pedimento A1 y C1, temporal con PITEX o Maquila con claves de pedimento A2 y H2 y Transferencia o Virtuales con PITEX y Maquila con clave V1.
+
+México, D.F., a 12 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+HOJA DE REQUISITOS
+
+ANEXO DEL ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
+
+(VEASE ARCHIVO ANEXO)
