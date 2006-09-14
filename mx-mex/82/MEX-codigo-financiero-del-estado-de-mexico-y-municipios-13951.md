@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2006-08-21"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -4175,7 +4175,7 @@ A). Servicio regular de pasaje:
 
 (ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-a). Autobuses de 1a. Clase $9,010.
+a). Autobuses de 1a .Clase $9,010.
 
 (ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
@@ -12311,9 +12311,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
 
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Para la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente a más tardar el 15 de septiembre del año 2006.
+Para la integración del primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el día 30 del mes de septiembre del año 2006.
 
 G.G. 21 DE AGOSTO DE 2006.
 
@@ -12322,3 +12324,17 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente a aquél en que inicie la vigencia el Decreto que adiciona un quinto párrafo a la fracción XXX, reforma la fracción XLVII y adiciona la fracción XLVIII al artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El Titular del Ejecutivo Estatal expedirá el Reglamento y los Lineamientos para la aplicación del Libro Décimo Sexto del Código Administrativo del Estado de México, en un término de ciento veinte días posteriores a la entrada en vigor del mismo.
+
+G.G. 14 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
