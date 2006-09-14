@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2002-07-27"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -59,9 +59,11 @@ Con la finalidad de preservar la seguridad jurídica del tráfico inmobiliario e
 
 Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimientos Civiles para el Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 4.
 
-El servicio registral se prestará a través de la estructura orgánica prevista en esta Ley y su Reglamento.
+El servicio registral se prestará a través de la estructura orgánica prevista en esta Ley, y en su caso, de conformidad a las disposiciones jurídicas aplicables relativas a la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.
 
 Cada acto deberá estar firmado por un funcionario con fe pública registral que se responsabilizará del mismo.
 
@@ -77,13 +79,29 @@ III. Director General: El Director del Registro Público de la Propiedad;
 
 IV. Institución: El Registro Público de la Propiedad;
 
-V. Registrador: Funcionario depositario de fé pública registral;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Registro: El asiento en libros y folios de los actos jurídicos relacionados con la creación, extinción, modificación o transferencia de derechos reales o personales sobre bienes muebles o inmuebles de dominio privado, público o social; y (sic)
+V. Firma electrónica certificada: Los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden inequívocamente al firmante con la finalidad de autentificar el mismo y que ha sido certificada por un prestador de servicios de certificación de conformidad a lo establecido por la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios y por la presente Ley.
 
-VII. Sistema de información: Medio tecnológico, utilizable para generar, enviar, recibir, archivar, reproducir o procesar información respecto de los actos registrales contenidos en el acervo documental de la Institución; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-VIII. Folio Registral: Expediente con toda la información referida a un mismo mueble, inmueble o persona jurídica, considerado cada uno de éstos como una unidad registral con historial jurídico propio, cuya información deba ser procesada de manera electrónica o en forma manual.
+VI. Mensaje de datos: La información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología de conformidad a lo establecido por la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios y por la presente Ley.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Registrador: Funcionario depositario de fé pública registral;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+VIII. Registro: El asiento en libros y folios de los actos jurídicos relacionados con la creación, extinción, modificación o transferencia de derechos reales o personales sobre bienes muebles o inmuebles de dominio privado, público o social;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Sistema de información: Medio electrónico, óptico o cualquier otra tecnología, utilizable para generar, enviar, recibir, archivar, reproducir o procesar información respecto de los actos registrales contenidos en el acervo documental de la Institución; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+X. Folio Registral: Expediente con toda la información referida a un mismo mueble, inmueble o persona jurídica, considerado cada uno de éstos como una unidad registral con historial jurídico propio, cuya información deba ser procesada de manera electrónica o en forma manual.
 
 ###### Artículo 6.
 
@@ -141,7 +159,9 @@ V. No haber sido condenado por delito doloso.
 
 El Director General de la Institución tendrá las siguientes atribuciones:
 
-I. Ejercer la fe pública registral;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+I. Ejercer la fe pública registral, que podrá ser delegada al servidor público que determine a través de un acuerdo administrativo;
 
 II. Coordinar las actividades de la Institución;
 
@@ -225,7 +245,9 @@ XIV. Las demás que le impongan las leyes y las que deriven de la naturaleza de 
 
 Corresponde al Director de Propiedad:
 
-I. Ejercer la fe pública registral en ausencia de los Directores de Oficina y cuando mediante oficio así lo disponga el Director General;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+I. Ejercer la fe pública registral en su área de competencia y en ausencia de los Jefes de Oficina;
 
 II. Vigilar la legalidad y exactitud de los registros que se practiquen;
 
@@ -233,7 +255,9 @@ III. Supervisar el proceso de calificación registral de los títulos y document
 
 IV. Dar los avisos y proporcionar los informes previstos en los ordenamientos legales correspondientes;
 
-V. Asesorar a los Directores de Oficina en todo lo relativo al proceso de calificación registral y certificación;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+V. Asesorar a los Jefes de Oficina en todo lo relativo al proceso de calificación registral y certificación;
 
 VI. Dar seguimiento a las inconformidades que se susciten con motivo del proceso registral y de certificación;
 
@@ -357,9 +381,11 @@ Cada Oficina Registral operará trescientos mil folios como máximo. Para la ape
 
 La demarcación territorial de las oficinas registrales será establecida en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 22.
 
-Por cada oficina registral habrá un Director que tendrá las siguientes obligaciones y facultades:
+Por cada oficina registral habrá un Jefe que tendrá las siguientes obligaciones y facultades:
 
 I. Ejercer la fe pública registral en su área de competencia;
 
@@ -369,7 +395,9 @@ III. Expedir certificaciones de los asientos registrales a su cargo;
 
 IV. Efectuar el proceso de calificación registral de los títulos y documentos presentados para su registro, en los términos y plazos previstos en la presente Ley, ordenando, denegando o suspendiendo los mismos;
 
-V. Autorizar con su firma autógrafa los registros o anotaciones que se practiquen, así como las certificaciones y cancelaciones previstas por la Ley;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+V. Autorizar con su firma los registros o anotaciones que se practiquen, así como las certificaciones y cancelaciones previstas por la Ley;
 
 VI. Dar cuenta a la Dirección Jurídica de las demandas y denuncias en las que él o personal a su cargo sean parte con motivo del ejercicio de sus funciones y representar legalmente a la Institución en su circunscripción como apoderado judicial;
 
@@ -427,11 +455,17 @@ IV. Expedir los certificados de los registros individuales existentes en la inst
 
 La prestación de los servicios a que se refieren las fracciones que anteceden, se condicionará al pago de los derechos que correspondan y a las disposiciones contenidas en esta Ley y su Reglamento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Todos los servicios registrales y documentos a que hacen referencia las fracciones II. III y IV de presente artículo proporcionados mediante un mensaje de datos con firma electrónica certificada, de conformidad con la ley en la materia, tienen plena validez y eficacia jurídicas.
+
 ### CAPITULO II. DE LAS CERTIFICACIONES
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 24.
 
-La Institución tiene obligación de expedir a quien lo solicite certificaciones literales o en extracto, de las inscripciones o constancias asentadas en los libros y demás archivos existentes. Las certificaciones expedidas por la Institución, cuya información se encuentre contenida en el archivo, tendrán el carácter de documento público.
+La Institución tiene obligación de expedir, a quien lo solicite, certificaciones literales o en extracto de las inscripciones o constancias asentadas en los libros y demás archivos existentes de conformidad a lo establecido por la presente Ley y la Ley de Firma Electrónica Certificada del Estado de Jalisco y sus Municipios. Las certificaciones expedidas por la Institución, cuya información se encuentre contenida en el archivo, tendrán el carácter de documento público.
 
 ###### Artículo 25.
 
@@ -1396,3 +1430,11 @@ DR. MAURICIO LIMÓN AGUIRRE
 P.O. 27 DE JULIO DE 2002.
 
 ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
