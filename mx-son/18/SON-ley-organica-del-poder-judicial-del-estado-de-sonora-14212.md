@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2004-05-20"
+last_updated: "2006-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -105,7 +105,9 @@ Los acuerdos y resoluciones del Pleno del Supremo Tribunal de Justicia deberán 
 
 El Supremo Tribunal de Justicia tendrá, funcionando en Pleno, en el ámbito jurisdiccional, las siguientes atribuciones:
 
-I.- Conocer de las cuestiones de competencia que se susciten entre los Tribunales Regionales de Circuito, entre Jueces de Primera Instancia o entre Jueces Locales pertenecientes a distintos Distritos Judiciales del Estado;
+> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Conocer de las cuestiones de competencia que se susciten entre los Tribunales Regionales de Circuito, entre Jueces de Primer Instancia, excepto los especializados en justicia para adolescentes, o entre Jueces Locales pertenecientes a distintos Distritos Judiciales del Estado;
 
 II.- Calificar y resolver las causas de recusación o excusa de los Magistrados del Supremo Tribunal de Justicia y de los Magistrados de los Tribunales Regionales de Circuito;
 
@@ -160,6 +162,10 @@ XIV.- Determinar el número y los distritos judiciales que comprenderán cada un
 XV.- Determinar el número de los Tribunales Regionales de Circuito que existirán en cada uno de los circuitos;
 
 XVI.- Determinar el número y, en su caso, la especialización por materia, de los Juzgados de Primera Instancia que existirán en cada uno de los distritos judiciales;
+
+> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Determinar, mediante Acuerdos Generales, la jurisdicción territorial que tendrán los juzgados especializados en justicia para adolescentes, que podrá abarcar dos o más distritos judiciales;
 
 XVII.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, cuando en un mismo lugar haya varios de ellos;
 
@@ -323,9 +329,11 @@ c).- De los recursos de queja interpuestos en asuntos de los comprendidos en los
 
 d).- De los demás asuntos que expresamente señalen las leyes, así como de los juicios de responsabilidad civil en única instancia, en contra de los jueces de primera instancia y locales.
 
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 23.
 
-Cuando a juicio de las Salas del Supremo Tribunal de Justicia, se considere que una apelación promovida ante ellas carece de importancia para la fijación de criterios jurídicos trascendentes, podrá, discrecionalmente, enviarla al Tribunal Regional de Circuito que corresponda, para su resolución. Asimismo, cuando el Pleno del Supremo Tribunal de Justicia estime que una apelación de la que conozca un Tribunal Regional de Circuito, por su especial entidad, deba ser resuelta por una de sus Salas, le ordenará al Tribunal Regional respectivo que la remita, para el efecto indicado. Esta medida sólo podrá ser tomada oficiosamente.
+Cuando a juicio de las Salas del Supremo Tribunal de Justicia, se considere que una apelación promovida ante ellas carece de importancia para la fijación de criterios jurídicos trascendentes, podrá, discrecionalmente, enviarla al Tribunal Colegiado Regional de Circuito que corresponda, para su resolución. Asimismo, cuando el Pleno del Supremo Tribunal de Justicia estime que una apelación de la que conozca un Tribunal Colegiado Regional de Circuito, por su especial importancia, deba ser resuelta por una de sus Salas, le ordenará al Tribunal Colegiado Regional respectivo que la remita, para el efecto indicado. Esta medida sólo podrá ser tomada oficiosamente.
 
 ### CAPITULO QUINTO. DE LAS COMISIONES DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -441,9 +449,15 @@ Los Secretarios Proyectistas formularán los proyectos de resolución relativos,
 
 ### CAPITULO PRIMERO. DE SU INTEGRACION, JURISDICCION Y ATRIBUCIONES
 
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 41.
 
-Los Tribunales Regionales de Circuito se integrarán por tres magistrados cada uno.
+Los Tribunales Regionales de Circuito serán Colegiados o Unitarios.
+
+Los Tribunales Colegiados Regionales de Circuito se integrarán por tres magistrados cada uno.
+
+Los Tribunales Unitarios Regionales de Circuito se compondrán de un magistrado cada uno.
 
 ###### ARTICULO 42.
 
@@ -451,9 +465,11 @@ Los Tribunales Regionales de Circuito tendrán la jurisdicción territorial que 
 
 Los Magistrados Regionales de Circuito no podrán abandonar la residencia del Tribunal al que estén adscritos sin permiso previo otorgado por el Presidente del Supremo Tribunal de Justicia, o bien, por el funcionario que determine el Pleno, mediante acuerdo general.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 43.
 
-Corresponde conocer a los Tribunales Regionales de Circuito:
+Corresponde conocer a los Tribunales Colegiados Regionales de Circuito:
 
 I.- En materia penal:
 
@@ -475,45 +491,81 @@ d).- De los demás asuntos que expresamente les señalen las leyes; y
 
 III.- De las recusaciones de los jueces de primera instancia promovidas en los asuntos señalados en el presente artículo.
 
+> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 43 Bis.
+
+Los Tribunales Unitarios Regionales de Circuito conocerán:
+
+I.- De los recursos de apelación, denegada apelación, queja, revocación y revisión extraordinaria interpuestos contra sentencias, interlocutorias y autos dictados por jueces de primera instancia en procedimientos seguidos a adolescentes, a quienes se atribuya la comisión de una conducta tipificada como delito por las leyes penales;
+
+II.- De la calificación de los impedimentos, excusas y recusaciones de los jueces de justicia para adolescentes;
+
+III.- De las cuestiones de competencia que se susciten entre los jueces especializados en justicia para adolescentes; y
+
+IV.- De los demás asuntos que les encomienden las leyes.
+
 ### CAPITULO SEGUNDO. DE SU ORGANIZACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 44.
 
 Los Tribunales Regionales de Circuito sesionarán, cuando menos, una vez por semana, con la concurrencia de la mayoría de sus integrantes.
 
-Las resoluciones de los Tribunales Regionales de Circuito se tomarán por unanimidad o por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar, salvo que hayan estado ausentes en la discusión del asunto de que se trate.
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-El Magistrado Regional de Circuito que disintiere de la mayoría podrá formular voto particular, el cual se insertará en la resolución respectiva, si fuere presentado dentro de los tres días siguientes a la fecha de la sesión.
+Las resoluciones de los Tribunales Colegiados Regionales de Circuito se tomarán por unanimidad o por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar, salvo que hayan estado ausentes en la discusión del asunto de que se trate.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+El Magistrado de Tribunal Colegiado Regional de Circuito que disintiere de la mayoría podrá formular voto particular, el cual se insertará en la resolución respectiva, si fuere presentado dentro de los tres días siguientes a la fecha de la sesión.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
-Cuando un Magistrado Regional de Circuito estuviere impedido para conocer de un negocio o se excuse, aceptándosele la excusa, o calificándose de procedente el impedimento o faltare accidentalmente o esté ausente por un término no mayor de un mes, será suplido por el Secretario de Acuerdos, quien asumirá la ponencia.
+Cuando un Magistrado de Tribunal Colegiado Regional de Circuito estuviere impedido para conocer de un negocio o se excuse, aceptándosele la excusa, o calificándose de procedente el impedimento o faltare accidentalmente o esté ausente por un término no mayor de un mes, será suplido por el Secretario de Acuerdos, quien asumirá la ponencia, sin perjuicio de que en este último supuesto y antes de que transcurra dicho plazo, el Pleno del Supremo Tribunal de Justicia designe provisionalmente a quien supla al Magistrado de que se trate.
 
-Cuando la excusa o impedimento afecte a dos o más Magistrados Regionales de Circuito, conocerá del negocio el Tribunal Regional de Circuito geográficamente más próximo.
+Cuando un Magistrado de Tribunal Unitario Regional de Circuito falte por un término no mayor de quince días al despacho del Tribunal, el Secretario de Acuerdos practicará las diligencias y dictará resoluciones de carácter urgente, independientemente de que antes de que transcurra el plazo de referencia, el Pleno del Supremo Tribunal de Justicia designe provisionalmente a la persona que sustituya al Magistrado.
+
+Cuando la excusa o impedimento afecte a dos o más Magistrados de Tribunales Colegiados Regionales de Circuito, conocerá del negocio el Tribunal Colegiado Regional de Circuito geográficamente más próximo.
+
+Asimismo, cuando la excusa o impedimento afecte al Magistrado de un Tribunal Unitario Regional de Circuito, conocerá del negocio el Tribunal Unitario Regional de Circuito geográficamente más próximo, y mientras se remiten los autos, el secretario respectivo practicará las diligencias urgentes y dictará los proveídos de mero trámite.
+
+Las ausencias de los Magistrados Regionales de Circuito mayores de quince días y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 46.
 
-Cada Tribunal Regional de Circuito nombrará un Presidente, que durará en su encargo un año y podrá ser reelecto.
+Cada Tribunal Colegiado Regional de Circuito nombrará un Presidente, que durará en su encargo un año y podrá ser reelecto.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 47.
 
-Los Magistrados de los Tribunales Regionales de Circuito formularán oportunamente sus proyectos de resolución, por escrito y en forma de sentencia.
+Los Magistrados de los Tribunales Colegiados Regionales de Circuito formularán oportunamente sus proyectos de resolución, por escrito y en forma de sentencia.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48.
 
-En los Tribunales Regionales de Circuito se listarán de un día para otro, cuando menos, por los Magistrados Ponentes, los asuntos que habrán de despacharse en las sesiones ordinarias de los mismos y se irán resolviendo, sucesivamente, en el orden en que aparezcan listados. Cuando un proyecto se retire para mejor estudio, volverá a listarse y discutirse en un plazo no mayor de diez días. Por ningún motivo podrá retirarse un asunto más de dos veces.
+En los Tribunales Colegiados Regionales de Circuito se listarán de un día para otro, cuando menos, por los Magistrados Ponentes, los asuntos que habrán de despacharse en las sesiones ordinarias de los mismos y se irán resolviendo, sucesivamente, en el orden en que aparezcan listados. Cuando un proyecto se retire para mejor estudio, volverá a listarse y discutirse en un plazo no mayor de diez días. Por ningún motivo podrá retirarse un asunto más de dos veces.
 
-Si no pudieran despacharse en la sesión todos los asuntos listados, los restantes figurarán en la lista siguiente en primer lugar, sin perjuicio de que el Tribunal Regional de Circuito acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la resolución del mismo, cuando exista causa justificada.
+Si no pudiera despacharse en la sesión todos los asuntos listados, los restantes figurarán en la lista siguiente en primer lugar, sin perjuicio de que el Tribunal Colegiado Regional de Circuito acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la resolución del mismo, cuando exista causa justificada.
 
 ###### ARTICULO 49.
 
 Una vez aprobados los proyectos de resolución, constituyen fallos definitivos.
 
-### CAPITULO TERCERO. DE LOS PRESIDENTES DE LOS TRIBUNALES REGIONALES DE CIRCUITO
+> <small>(REFORMADA SU DENOMINACION, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO TERCERO. DE LOS PRESIDENTES DE LOS TRIBUNALES COLEGIADOS REGIONALES DE CIRCUITO
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 50.
 
-Corresponde a los Presidentes de los Tribunales Regionales de Circuito:
+Corresponde a los Presidentes de los Tribunales Colegiados Regionales de Circuito:
 
 I.- Dirigir los debates y conservar el orden en las sesiones del Tribunal;
 
@@ -525,11 +577,17 @@ IV.- Llevar la correspondencia del Tribunal;
 
 V.- Conocer de los recursos de reposición en materia civil y de revocación en materia mercantil y penal, que se interpongan contra las providencias y acuerdos de trámite, en los asuntos de la competencia del Tribunal. En caso de que se estime dudosa o trascendental alguna decisión en estos recursos, el Presidente consultará con los integrantes del Tribunal en sesión, para decidir lo conducente;
 
-VI.- Turnar, por riguroso orden entre los Magistrados de los Tribunales Regionales respectivos, los asuntos que sean de la competencia de los mismos;
+> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-VII.- Practicar inspecciones periódicas en la Secretaría de Acuerdos de los Tribunales Regionales de Circuito que les correspondan, con el fin de vigilar la puntualidad del acuerdo y la observancia de las disposiciones reglamentarias;
+VI.- Turnar, por riguroso orden entre los Magistrados de los Tribunales Colegiados Regionales respectivos, los asuntos que sean de la competencia de los mismos;
 
-VIII.- Informar a los Tribunales Regionales de Circuito respectivos las irregularidades encontradas en la realización de las inspecciones señaladas en la fracción anterior, sin perjuicio de dictar de inmediato, en forma provisional, las medidas que estimen pertinentes; y
+> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Practicar inspecciones periódicas en la Secretaría de Acuerdos de los Tribunales Colegiados Regionales de Circuito que les correspondan, con el fin de vigilar la puntualidad del acuerdo y la observancia de las disposiciones reglamentarias;
+
+> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Informar a los Tribunales Colegiados Regionales de Circuito respectivos las irregularidades encontradas en la realización de las inspecciones señaladas en la fracción anterior, sin perjuicio de dictar de inmediato, en forma provisional, las medidas que estimen pertinentes; y
 
 IX.- Las demás que le señalen esta ley u otras disposiciones jurídicas.
 
@@ -543,13 +601,17 @@ Los Tribunales Regionales de Circuito contarán con un Secretario de Acuerdos y 
 
 Los Secretarios de Acuerdos, Secretarios Auxiliares, Secretarios Proyectistas, Actuarios y empleados de los Tribunales Regionales de Circuito serán nombrados por éstos, conforme a lo que establece esta ley respecto a la Carrera Judicial.
 
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 53.
 
-Las faltas temporales que no excedan de tres meses así como los casos de impedimento de los Secretarios de Acuerdos de los Tribunales Regionales de Circuito, serán suplidos por los Secretarios que determinen los propios Tribunales.
+Las faltas temporales que no excedan de tres meses así como los casos de impedimento de los Secretarios de Acuerdos de los Tribunales Regionales de Circuito, serán suplidos por los Secretarios o personas que determinen los propios Tribunales.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 54.
 
-Los Secretarios de Acuerdos tendrán, en el ámbito de competencia de los Tribunales Regionales de Circuito, las obligaciones y facultades señaladas en el artículo 37, fracciones I, III, VI, IX y X de la presente ley, así como las de autorizar con su firma los acuerdos y resoluciones de la Presidencia y del propio Tribunal; dar cuenta, dentro de las veinticuatro horas siguientes a su presentación ante la Oficialía de Partes del Tribunal, de los escritos, oficios y promociones que se reciban y con los autos de expedientes que, conforme a la ley, ameriten acuerdo o resolución; vigilar que los libros, registros, y demás medidas de control de los Tribunales Regionales de Circuito se lleven correcta y oportunamente; tener bajo su dependencia inmediata al demás personal de la Secretaría de Acuerdos y ejercer vigilancia sobre él para el correcto desempeño de sus labores.
+Los Secretarios de Acuerdos tendrán, en el ámbito de competencia de los Tribunales Regionales de Circuito, las obligaciones y facultades señaladas en el artículo 37, fracciones I, III, VI y IX de la presente ley, así como las de autorizar con su firma los acuerdos y resoluciones de la Presidencia de los Tribunales Colegiados Regionales de Circuito y del Magistrado de los Tribunales Unitarios Regionales de Circuito, concernientes al trámite de los recursos que conozcan, así como las resoluciones y sentencias que recaigan a tales recursos en ambos tribunales regionales; dar cuenta, dentro de las veinticuatro horas siguientes a su presentación ante la Oficialía de Partes de los Tribunales, de los escritos, oficios y promociones que se reciban y con los autos de expedientes que, conforme a la ley, ameriten acuerdo o resolución; vigilar que los libros, registros, y demás medidas de control de los Tribunales Regionales de Circuito se lleven correcta y oportunamente; presentar a la Presidencia de los Tribunales Colegiados Regionales de Circuito y a los Magistrados de los Tribunales Unitarios Regionales de Circuito, una noticia de los negocios despachados durante el mes anterior, consignando los que quedan pendientes, con expresión del último trámite y su fecha; tener bajo su dependencia inmediata al demás personal de la Secretaría de Acuerdos y ejercer vigilancia sobre él para el correcto desempeño de sus labores.
 
 ## TITULO CUARTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -603,9 +665,17 @@ II.- Los Juzgados de lo Familiar;
 
 III.- Los Juzgados de lo Mercantil;
 
-IV.- Los Juzgados de lo Penal; y
+> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Los Juzgados Mixtos.
+IV.- Los Juzgados de lo Penal;
+
+> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Los Juzgados Mixtos; y
+
+> <small>(ADICIONADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Los Juzgados Especializados en Justicia para Adolescentes.
 
 Además, cuando se considere conveniente por las necesidades del servicio, podrán crearse Juzgados de Primera Instancia Supernumerarios.
 
@@ -658,6 +728,14 @@ Los Juzgados de lo Mercantil conocerán de los asuntos mercantiles relativos, cu
 ###### ARTICULO 63.
 
 Los Juzgados Mixtos conocerán de los asuntos a que se refieren los artículos precedentes del presente capítulo.
+
+> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 63 Bis.
+
+Los Juzgados Especializados en Justicia para Adolescentes conocerán de los procedimientos seguidos a los adolescentes en los que se les atribuya la comisión de conductas tipificadas como delitos por las leyes penales.
+
+Los Juzgados Especializados en Justicia para Adolescentes podrán ejercer jurisdicción en uno o más distritos judiciales, según lo determine el Pleno del Supremo Tribunal de Justicia en el Acuerdo de su creación.
 
 ###### ARTICULO 64.
 
@@ -715,6 +793,8 @@ Lo relativo a jurisdicción, nombramientos, atribuciones, deberes, sistemas de s
 
 ### CAPITULO SEPTIMO. DEL SISTEMA DE SUPLENCIAS EN LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 70.
 
 Son facultades y obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia:
@@ -749,29 +829,41 @@ XIII.- Las demás que les señalen esta ley u otras disposiciones legales aplica
 
 ###### ARTICULO 71.
 
-Cuando un Juez de Primera Instancia falte por un término menor de quince días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario del Ramo Civil, practicará las diligencias y dictará los autos de mero trámite y las resoluciones de carácter urgente.
+Cuando un Juez de Primera Instancia falte por un término menor de quince días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario de Ramo Civil, practicará las diligencias y dictará los autos de mero trámite y las resoluciones de carácter urgente, sin perjuicio de que antes de que transcurra dicho plazo, el pleno del Supremo Tribunal de Justicia designe provisionalmente a la persona que sustituya al Juez de que se trate.
 
 En las ausencias de los Jueces de Primera Instancia superiores a quince días, pero que no excedan de treinta, el Pleno del Supremo Tribunal de Justicia, designará a la persona que deba sustituirlo durante la ausencia, o bien, autorizará al Secretario referido en el párrafo que antecede, para que se encargue del despacho del Juzgado, sin que pueda resolver en definitiva.
 
-Las ausencias de los Jueces de Primera Instancia mayores de treinta días y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Pleno del Supremo Tribunal de Justicia.
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Las ausencias de los Jueces de Primera Instancia mayores de un mes y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 72.
 
-Quienes suplan en sus funciones a los Jueces de Primera Instancia, en los supuestos señalados en los dos últimos párrafos del artículo que antecede, disfrutarán del sueldo que a éstos corresponda, durante el tiempo de la suplencia.
+Quienes suplan en sus funciones a los Jueces de Primera Instancia, en los supuestos señalados en el artículo que antecede, disfrutarán del sueldo que a éstos corresponda, durante el tiempo de la suplencia.
 
 ###### ARTICULO 73.
 
 En caso de impedimento legal de un Juez de Primera Instancia en los lugares donde existan dos o más, el negocio de que se trate pasará a otro Juez del mismo ramo no impedido o, en su defecto, a los de ramo distinto, en orden al número de su designación.
 
+> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Cuando el impedimento legal sea respecto de un Juez Especializado en Justicia para Adolescentes, no será aplicable la última parte del párrafo que antecede y el negocio de que se trate pasará a otro Juez de la misma categoría y ramo no impedido, del Distrito Judicial más próximo.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 74.
 
-En los mismos casos del artículo anterior, si sólo existiera un Juez de Primera Instancia o todos ellos tuvieren que eximirse, conocerá del negocio el Juez de la misma categoría y del ramo que corresponda, del Distrito Judicial mas próximo.
+En los mismos casos del primer párrafo del artículo anterior, si sólo existiera un Juez de Primera Instancia o todos ellos tuvieren que eximirse, conocerá del negocio el Juez de la misma categoría y del ramo que corresponda, del Distrito Judicial más próximo.
+
+En los lugares en donde sólo exista un Juez de Justicia para Adolescentes o más y todos ellos tuvieren que excusarse, se observará lo dispuesto por el segundo párrafo del precepto que antecede.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 75.
 
-Las ausencias de los Secretarios de Acuerdos de los Juzgados de Primera Instancia, que no excedan de quince días, serán cubiertas por el otro Secretario, si hubiera dos o más en el mismo Juzgado o, en su defecto, por el Actuario que designe el Juez.
-
-Las ausencias temporales de los Secretarios de Acuerdos que excedan de quince días serán cubiertas por otro Secretario nombrado provisionalmente y, las faltas absolutas se cubrirán por la persona que se designe, atendiendo al sistema de carrera judicial.
+Las ausencias temporales de los Secretarios de Acuerdos de los Juzgados de Primera Instancia, serán cubiertas por la persona que designe el Juez en forma provisional. Las ausencias absolutas se cubrirán conforme a lo establecido por el sistema de carrera judicial.
 
 ###### ARTICULO 76.
 
@@ -1741,8 +1833,22 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 19 de Novie
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veinticinco de noviembre de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 20 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor dentro de los noventa días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se establezcan más de un Tribunal Unitario Regional de Circuito, en casos de excusa o impedimento del Magistrado Unitario Regional de Circuito, el Pleno del Supremo Tribunal de Justicia designará a quien deba suplirlo.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto se establezca un Juzgado Especializado en Justicia para Adolescentes en cada uno de los Distritos, el Pleno del Supremo Tribunal de Justicia al acordar la creación de los mismos, podrá determinar que ejerza competencia en dos o más distritos judiciales.
