@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2004-08-26"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO EL DECRETO DE NO. 21432-LVII/06, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2006, POR EL QUE SE REFORMA LA PRESENTE LEY, ENTRARA EN VIGOR EL DIA 1 DE ENERO DE 2007.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -692,6 +694,12 @@ VIII. Las demás que les establezcan la Constitución Federal, la particular del
 ###### Artículo 39.
 
 Los actos o disposiciones de carácter administrativo que impliquen la realización de obra pública o enajenación del patrimonio municipal, pueden ser sometidos previamente a plebiscito, en los términos de la Constitución Política del Estado de Jalisco y de la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 39 bis. Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jurídicos y procedimientos administrativos entre los Ayuntamientos del Estado de Jalisco y sus respectivas dependencias, y entidad de la Administración Pública municipal, entre éstos y los poderes del Estado, así como entre los primeros y los particulares, se podrán hacer uso de medios electrónicos, ópticos o de cualquier otra tecnología de conformidad a lo establecido por las disposiciones jurídicas aplicables y el reglamento que para tal efecto expida la entidad respectiva.
+
+El uso de la firma electrónica certificada para los servidores públicos se establecerá en el reglamento respectivo o se determinará por medio de los titulares de las entidades públicas municipales.
 
 ### CAPITULO I. Del Presidente Municipal
 
@@ -2058,3 +2066,11 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
