@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2006-07-13"
+last_updated: "2006-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -88,6 +88,12 @@ V. Órganos administrativos y técnicos.
 1. El ejercicio de las funciones de los diputados al Congreso del Estado durante tres años constituye el periodo constitucional de una Legislatura.
 
 2. El año legislativo se computa del 1 de febrero al 31 de enero del siguiente año.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 6 Bis.
+
+1. Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jurídicos y procedimientos administrativos y legislativos en el Poder Legislativo, entre éste y demás Poderes del Estado, Ayuntamientos y particulares, se podrá hacer uso de medios electrónicos, ópticos o de cualquier tecnología de conformidad a lo establecido por las disposiciones jurídicas aplicables.
 
 ## TÍTULO SEGUNDO. PREPARACIÓN, INSTALACIÓN Y CLAUSURA DE LA LEGISLATURA
 
@@ -2658,3 +2664,11 @@ P.O. 18 DE FEBRERO DE 2006.
 P.O. 13 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
