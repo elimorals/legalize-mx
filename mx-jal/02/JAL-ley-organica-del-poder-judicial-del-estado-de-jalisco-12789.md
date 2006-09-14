@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2006-06-22"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -86,6 +86,12 @@ Para tal efecto, los tribunales estarán expeditos para impartir justicia a toda
 ###### Artículo 5.
 
 Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su jurisdicción para aplicar las leyes en asuntos penales, familiares, civiles, mercantiles y cuanta especialidad lo permita el presupuesto, con las limitaciones en el lugar, grado y términos que señala esta ley y su reglamento. En los asuntos del orden federal podrán intervenir en los casos que expresamente las leyes de esa materia les confieran jurisdicción.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 5 Bis.
+
+Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jurídicos y procedimientos administrativos y judiciales en el Poder Judicial, entre éste y demás poderes del Estado, Ayuntamientos y particulares, se podrá hacer uso de medios electrónicos, ópticos o de la tecnología más adecuada de conformidad a lo establecido por las disposiciones jurídicas aplicables y el reglamento de la ley.
 
 ### CAPÍTULO III. DE LAS CONDICIONES Y PROHIBICIONES PARA EJERCER FUNCIONES JUDICIALES
 
@@ -3001,7 +3007,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSÍTORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE ENERO DE 1998.
 
@@ -3088,3 +3094,11 @@ P.O. 22 DE JUNIO DE 2006.
 DECRETO NUMERO 21356
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
