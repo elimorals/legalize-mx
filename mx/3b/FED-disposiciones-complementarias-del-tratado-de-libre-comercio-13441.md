@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-09-13"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,49 +18,29 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE MODIFICA TEMPORALMENTE EL ARTICULO 1 DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE LOS EE.UU
+ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de septiembre de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de septiembre de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los Capítulos VII del Tratado de Libre Comercio de América del Norte; IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, y IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, y
 
 CONSIDERANDO
 
-Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
+Que en los últimos meses se ha generado un incremento inusitado en los precios del azúcar en el mercado nacional, por lo que resulta necesario complementar la oferta nacional con importaciones, a efecto de que las industrias que la utilizan como materia prima en sus procesos productivos no resulten afectadas;
 
-Que el Anexo 1A del Acuerdo OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Acuerdo sobre Subvenciones y Medidas Compensatorias (el Acuerdo SMC);
+Que el 30 de agosto pasado se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo para importar azúcar en 2006, estableciéndose un monto de 90 mil toneladas métricas;
 
-Que el Acuerdo OMC en su Anexo 2 contiene el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
+Que dicho cupo ha resultado insuficiente para incidir a la baja en el precio del azúcar, lo cual continua vulnerando la competitividad de la industria que la emplea como insumo en procesos productivos y afecta el poder adquisitivo de los consumidores, particularmente de los de menores ingresos;
 
-Que el 28 de octubre de 2000 entró en vigor en los Estados Unidos de América (EE.UU.) la Ley de Compensación por Continuación del Dumping o Mantenimiento de las Subvenciones de 2000 (también conocida como la Enmienda Byrd) que permite a las autoridades competentes de EE.UU. distribuir entre productores y empresas estadounidenses que solicitaron el inicio de procedimientos de prácticas desleales de comercio internacional los montos recaudados por concepto del pago de derechos antidumping y cuotas compensatorias;
+Que el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, da a conocer el arancel-cupo aplicable a las fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
 
-Que el 10 de agosto de 2001 México solicitó el establecimiento de un Grupo Especial al amparo del Entendimiento para examinar la compatibilidad de la Enmienda Byrd con el Acuerdo OMC, en particular, con el GATT de 1994, el Acuerdo Antidumping y el Acuerdo SMC;
+Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para la producción nacional, y
 
-Que el 27 de enero de 2003 el Órgano de Solución de Diferencias de la Organización Mundial del Comercio (OMC) adoptó los Informes del Grupo Especial y del Órgano de Apelación de la OMC que establecen que la Enmienda Byrd resulta incompatible con diversas disposiciones contenidas en los acuerdos señalados en el considerando anterior y que anula o menoscaba ventajas resultantes de esos acuerdos para las Partes Reclamantes;
+Que la medida a que se refiere el presente ordenamiento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que el artículo 22 del Entendimiento establece el derecho de los Miembros de suspender concesiones u otras obligaciones emanadas del Acuerdo OMC que sean equivalentes al nivel de anulación o menoscabo causado por el incumplimiento de otro Miembro de una decisión del Órgano de Solución de Diferencias;
-
-Que el 31 de agosto de 2004 el Órgano de Solución de Diferencias de la OMC dio a conocer la Decisión del Árbitro que establece la metodología aplicable a México para determinar el nivel de suspensión de concesiones u otras obligaciones equivalente a la anulación o menoscabo derivado del incumplimiento de EE.UU. en la OMC;
-
-Que en la sesión del 24 y 26 de noviembre de 2004 el Órgano de Solución de Diferencias de la OMC autorizó a México a suspender concesiones u otras obligaciones de acuerdo con lo dispuesto en el artículo 22 del Entendimiento y en la Decisión del árbitro señalada en el considerando anterior;
-
-Que el nivel de anulación o menoscabo para el período de 2005 ocasionado a México por la aplicación de la Enmienda Byrd se obtuvo conforme a la metodología establecida en la Decisión del Árbitro de la OMC antes mencionada, conforme a la cual México tiene derecho de suspender concesiones u otras obligaciones para el período de 2005 por un valor de comercio de 6.1 millones de dólares;
-
-Que las distribuciones de los montos recaudados por concepto de pago de derechos antidumping y cuotas compensatorias realizadas conforme a la Enmienda Byrd continuarán vigentes hasta el 1 de octubre de 2007, de conformidad con la Ley de Reducción de Déficit aprobada por el Congreso de EE.UU. Por lo que, ante el incumplimiento de EE.UU. de la decisión del Órgano de Solución de Diferencias de la OMC, México tiene derecho a suspender a EE.UU. concesiones u otras obligaciones que sean equivalentes al nivel de anulación o menoscabo causado, con fundamento en el artículo 22 del Entendimiento;
-
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
-
-Que la nota al Artículo 302.1 del TLCAN establece que lo dispuesto en los artículos 302(1) y 302(2), referentes a la obligación de las Partes de no incrementar o adoptar aranceles aduaneros sobre bienes originarios y de eliminar sus aranceles aduaneros sobre bienes originarios de acuerdo con lo dispuesto en el calendario de desgravación de cada una de las Partes no tienen como propósito evitar que una Parte del TLCAN mantenga o aumente un arancel si el Entendimiento lo permite, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
-
-DECRETO
-
-Artículo Único.- Se modifica temporalmente el ARTÍCULO 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de EE.UU. clasificadas en la siguiente fracción arancelaria, que se sujeta al arancel de importación establecido a continuación:
-
-(VEASE ARCHIVO ANEXO)
+ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
 
 ###### ARTICULO PRIMERO.
 
@@ -276,51 +256,63 @@ De conformidad con el artículo sexto transitorio de la Ley de Ingresos de la Fe
 
 Para efecto de lo señalado en el párrafo anterior, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados dictamine el incumplimiento o no, presentado por el solicitante del cupo de importación. ASERCA/SAGARPA atenderá dicha solicitud, previa consulta al Comité Nacional Sistema Producto Maíz. Una vez realizado lo anterior, la Dirección General de Desarrollo de Mercados notificará a la Dirección General de Comercio Exterior el resultado de dicha consulta y, en su caso, el monto del incumplimiento.
 
-###### Artículo 1.
+###### ARTICULO 1.
 
-Se modifica temporalmente el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de EE.UU. clasificadas en las siguientes fracciones arancelarias, que se sujetan al arancel de importación establecido a continuación:
+Se establece un cupo adicional para importar azúcar en 2006, con el arancel-cupo establecido en el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, el cual se señala a continuación:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
-###### Artículo 2.
+###### ARTICULO 2.
 
-Las importaciones de mercancías originarias de EE.UU. clasificadas en la fracción arancelaria 1901.90.05 (preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50%, en peso, excepto las comprendidas en la fracción 1901.90.04.) a que hace referencia el artículo 1 del presente Decreto, que excedan de 29,400 toneladas durante los 12 meses siguientes a la entrada en vigor de este Decreto, estarán sujetas al arancel de importación previsto en el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
+El procedimiento de asignación del cupo de importación referido en el presente instrumento será de asignación directa.
 
-La Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación en el que notifique que se ha rebasado el volumen de importaciones de mercancías originarias de EE.UU. clasificadas en la fracción arancelaria 1901.90.05 previsto en el párrafo anterior.
+###### ARTICULO 3.
 
-###### ARTÍCULO 3.
+Podrán solicitar asignación del cupo a que se refiere el artículo anterior del presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que se mencionan a continuación y la asignación será otorgada por la Secretaría de Economía hasta agotar el cupo, conforme a los siguientes criterios:
 
-Estarán exentas del pago del arancel las mercancías no originarias de América del Norte, comprendidas en los capítulos 51 al 63 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (LIGIE), o la subpartida 9404.90, que cumplan con las disposiciones del apéndice 6.b del anexo 300-B del TLCAN, siempre que el importador adjunte al pedimento de importación, para textiles y prendas de vestir procedentes de Estados Unidos de América y Canadá, un certificado de elegibilidad expedido por la Secretaría de Economía, o un certificado de elegibilidad expedido por el Gobierno de Canadá, respectivamente.
+I. Se asignarán 50,000 toneladas métricas para personas físicas o morales mediante el procedimiento de asignación directa bajo la modalidad de “primero en tiempo, primero en derecho”.
 
-###### ARTÍCULO 4.
+II. La asignación de las restantes 50,000 toneladas métricas del cupo será por asignación directa de la siguiente manera:
 
-La importación de mercancías comprendidas en las fracciones arancelarias listadas en este artículo que provengan de Canadá o que no sean “productos calificados” de Estados Unidos de América, conforme a lo dispuesto en el anexo 703.2 “sección A” del Capítulo VII del TLCAN, estará sujeta a la tasa prevista en el artículo 1o. de la Ley de los Impuestos Generales de Importación y de Exportación, sin reducción alguna:
+a. 30,000 toneladas métricas para las personas físicas o morales del sector refresquero que utilice azúcar como insumo en sus procesos productivos. El monto a asignar será el menor entre el solicitado y el equivalente a una vez el promedio mensual de sus consumos totales auditados de azúcar en 2005.
 
-(VEASE TABLA ANEXA)
+b. 20,000 toneladas métricas para las personas físicas o morales de la industria excepto del sector refresquero, que utilice azúcar como insumo en sus procesos productivos. El monto a asignar será el menor entre el solicitado y el equivalente a una vez el promedio mensual de sus consumos totales auditados de azúcar en 2005.
 
-###### ARTÍCULO 5.
+###### ARTICULO 4.
 
-La importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias que se señalan en este artículo, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008:
+Para lo señalado en el artículo 3, fracción I del presente ordenamiento, la solicitud de asignación del cupo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior de la Secretaría de Economía, emitirá, en su caso, constancia de asignación, misma que será entregada a través de la Representación Federal correspondiente, en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-(VEASE TABLA ANEXA)
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo de importación mediante la presentación, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando copia de la factura comercial, del conocimiento de embarque, carta de porte o guía aérea, según sea el caso. El plazo máximo para la expedición de los certificados de cupo es de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-Lo dispuesto en este artículo sólo será aplicable a "productos calificados" de los Estados Unidos de América, conforme a lo dispuesto en el Anexo 703.2 "Sección A" del capítulo VII del Tratado de Libre Comercio de América del Norte.
+El monto del certificado será el menor entre el solicitado y el monto indicado en la factura comercial, el conocimiento de embarque, carta de porte o guía aérea, según sea el caso.
 
-Del 1 de enero de 2003 y hasta el 31 de diciembre de 2007, la importación de mercancías comprendidas en las fracciones arancelarias que se señalan en este artículo, estará exenta de arancel, siempre que se adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía.
+La vigencia de los certificados será al 15 de diciembre de 2006.
 
-###### ARTÍCULO 6.
+###### ARTICULO 5.
 
-La importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias que se señalan en este artículo, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008:
+Para lo señalado en el artículo 3, fracción II del presente ordenamiento, las solicitudes de asignación deberán presentarse en el formato “Solicitud de asignación de cupo” SE-03-011-1, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que le corresponda, anexando los requisitos específicos contenidos en la hoja de requisitos que se establece como Anexo del presente Acuerdo.
 
-(VEASE TABLA ANEXA)
+La asignación será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, misma que será entregada a través de la Representación Federal correspondiente, en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-Del 1 de enero de 2003 y hasta el 31 de diciembre de 2007, la importación de mercancías comprendidas en las fracciones arancelarias que se señalan en este artículo, estará exenta de arancel, siempre que se adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía.
+Una vez asignado el monto para importar dentro del cupo, el beneficiario deberá solicitar la expedición del certificado de cupo de importación mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, en la ventanilla de atención al público de la misma Representación Federal que corresponda. El plazo máximo para la expedición de los certificados de cupo es de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-###### ARTÍCULO 7.
+La vigencia de los certificados será al 15 de diciembre de 2006.
 
-La importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias que se señalan en este artículo, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008:
+###### ARTICULO 6.
 
-(VEASE TABLA ANEXA)
+Los formatos citados en el presente instrumento estarán a disposición de los interesados en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
+
+I. Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+II. Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
+
+###### ARTICULO 7.
+
+Para la aplicación de este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas, ambas de la Secretaría de Economía.
 
 ###### ARTICULO 8.
 
@@ -356,8 +348,14 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor el 14 de septiembre de 2006 y concluirá su vigencia el 31 de octubre de 2006.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 15 de diciembre de 2006.
 
-SEGUNDO.- Una vez concluida la vigencia de este Decreto, la importación de las mercancías originarias de EE.UU. a que hace referencia el Artículo Único de este Decreto se regirá por lo establecido en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
+SEGUNDO.- Para efectos del artículo Segundo del Acuerdo por el que se da a conocer el cupo para importar azúcar en 2006, publicado en el Diario Oficial de la Federación el 30 de agosto pasado, se considerará, dentro del cómputo de azúcar importada durante 2005 (M05) y (Mi05), los conceptos denominados definitivo con claves de pedimento A1 y C1, temporal con PITEX o Maquila con claves de pedimento A2 y H2 y Transferencia o Virtuales con PITEX y Maquila con clave V1.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 12 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+HOJA DE REQUISITOS
+
+ANEXO DEL ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
+
+(VEASE ARCHIVO ANEXO)
