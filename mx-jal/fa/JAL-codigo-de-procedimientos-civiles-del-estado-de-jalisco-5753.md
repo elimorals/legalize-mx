@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2006-09-07"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1388,7 +1388,7 @@ En los casos en que se haga valer reconvención en un juicio, éste, para los ef
 
 ###### ARTICULO 143.
 
-Se exceptúan de lo prevenido en el artículo anterior:
+Se exceptúan de lo provenido en el artículo anterior:
 
 I.- Los casos en que desestimada la demanda, lo sea igualmente la reconvención y aquellos en que tanto una como la otra se encontraren en parte procedentes;
 
@@ -2692,9 +2692,15 @@ VII.- Fotografías, copias fotostáticas, registros dactiloscópicos, y, en gene
 
 VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1994)
 
-IX.- Presunciones; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-X.- Los demás medios que produzcan convicción en el juzgador.
+IX.- Presunciones;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+X. Información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología; y
+
+XI.- Los demás medios que produzcan convicción en el juzgador.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3491,6 +3497,10 @@ Los documentos privados cuya comprobación se obtenga por medio de testigos, ten
 ###### ARTICULO 406.
 
 El documento que un litigante presente, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 406 bis.- La información que conste en medios electrónicos, ópticos o en cualquier otra tecnología, con la autorización de firma electrónica certificada hará prueba siempre y cuando se haya otorgado en los términos de la Ley de la materia y tendrá el valor a que se refieren los artículo 403 y 406 del presente Código.
 
 ###### ARTICULO 407.
 
@@ -5566,14 +5576,6 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5581,6 +5583,14 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8517,3 +8527,11 @@ DECRETO NUMERO 21420-LVII/06
 P.O. 7 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- las autoridades obligatorias deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
