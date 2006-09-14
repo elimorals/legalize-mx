@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2005-02-24"
+last_updated: "2006-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -64,6 +64,12 @@ Todas las Leyes, Decretos, Reglamentos y demás disposiciones que el Gobernador 
 ###### Art. 6°.
 
 El Gobernador del Estado expedirá los Reglamentos Interiores, los Acuerdos, Circulares y otras disposiciones que tiendan a regular el funcionamiento de las secretarías y dependencias del Ejecutivo, y autorizará la expedición de los manuales administrativos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+Art. 6 bis.- Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jurídicos y procedimientos administrativos entre el Titular del Poder Ejecutivo, sus respectivas secretarías y dependencias, organismos y entidades y los organismos paraestatales de la Administración Pública Estatal, entre éstos y demás Poderes del Estado, Ayuntamientos y particulares, se podrán hacer uso de medios electrónicos, ópticos o de cualquier tecnología de conformidad a lo establecido por las disposiciones jurídicas aplicables y el reglamento que para tal efecto expida la entidad pública respectiva.
+
+Los servicios públicos que pueden hacer uso de la firma electrónica certificada, se establecerá en el reglamento respectivo.
 
 ###### Art. 7°.
 
@@ -411,9 +417,17 @@ XXXI. Coordinar las funciones de protección ciudadana de competencia del Ejecut
 
 XXXII. Promover y encauzar la participación social;
 
-XXXIII. Llevar el registro y control de los profesionistas que ejerzan en el Estado, y organizar el servicio social profesional en la Entidad; y
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-XXXIV. Las demás que le asignen las leyes.
+XXXIII.- Ser la autoridad rectora en materia de firma electrónica certificada;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+
+XXXIV. Intervenir como autoridad certificadora frente a los prestadores de servicios de certificación en los asuntos relativos a la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, de conformidad a lo establecido por las disposiciones jurídicas aplicables y los criterios y condiciones que para tal efecto emita;
+
+XXXV. Llevar el registro y control de los profesionistas que ejerzan en el Estado, y organizar el servicio social profesional en la entidad; y
+
+XXVI. Las demás que le asignen las leyes.
 
 ###### Art. 31.
 
@@ -1820,3 +1834,11 @@ P.O. 24 DE FEBRERO DE 2005.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en este decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
