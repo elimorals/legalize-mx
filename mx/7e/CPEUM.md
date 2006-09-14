@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2006-04-07"
+last_updated: "2006-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2327,6 +2327,10 @@ e).- El equivalente al treinta y tres por ciento de los integrantes de la Asambl
 > <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 f).- Los partidos políticos con registro ante el Instituto Federal Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro.
+
+> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2006)</small>
+
+g).- La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución. Asimismo los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -5123,6 +5127,10 @@ Quinto.- Los asuntos que se encuentren en trámite o pendientes de resolución a
 Sexto.- Dentro de los 180 días naturales, posteriores a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá emitir la Ley a la que se refiere el apartado B del Artículo 26 de esta Constitución.
 
 Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+D.O.F. 14 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
