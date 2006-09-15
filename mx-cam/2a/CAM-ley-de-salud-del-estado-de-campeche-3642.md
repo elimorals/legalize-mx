@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-del-estado-de-campeche-3642"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "1999-06-30"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 31 de diciembre de 1987.
 
@@ -1401,6 +1401,22 @@ X.- Otorgar atención médica y tratamiento a los enfermos del SIDA, así como a
 
 XI.- Evitar, mediante las acciones señaladas en las fracciones anteriores, las actitudes irracionales acerca del riesgo de adquirir la enfermedad.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+### Capítulo IV Bis. Programa de Detección Temprana y Atención Especializada de Cáncer Mamario
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 161 bis.- El programa tiene por objeto establecer la prevención, detección temprana y tratamiento oportuno del cáncer de mama.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 161 ter.- La Secretaría de Salud del Estado será la responsable de planear, organizar, operar y evaluar este programa a través de sus áreas especializadas, de acuerdo a la disponibilidad presupuestaria existente.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1999)</small>
+
+## Título Décimo bis
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1999)</small>
 
 ### Capítulo Unico. Publicidad
@@ -1471,15 +1487,9 @@ Artículo 161 bis 10.- El titular del permiso no podrá introducir a la publicid
 
 Artículo 161 bis 11.- La Secretaría de Salud del Estado de Campeche podrá verificar en cualquier momento que la publicidad que se difunda se apegue a lo dispuesto en esta ley y otras disposiciones aplicables. En caso de haberse otorgado permiso, podrá revocarlo por las causas señaladas en el artículo 601 de esta Ley. La resolución de revocación surtirá efectos de prohibición de la publicidad.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1999)</small>
-
-## Título Décimo bis
-
-### Capítulo I. Disposiciones comunes
-
 ## Título Décimo Primero. Salubridad Local
 
-### Capítulo II. Mercados y Centros de Abasto
+### Capítulo I. Disposiciones comunes
 
 ###### Artículo 162.
 
@@ -1535,7 +1545,7 @@ Todo cambio de propietario de un establecimiento, de razón social o denominaci�
 
 La Secretaría de Salud Estatal publicará en el Periódico Oficial del Estado las normas técnicas, las resoluciones sobre otorgamiento y revocación de autorizaciones y las demás resoluciones administrativas que conforme a esta ley dicte, así como la información que determine. Las notificaciones que en términos de esta ley deban publicarse surtirán efectos a partir del día siguiente a su publicación.
 
-### Capítulo III. Construcciones
+### Capítulo II. Mercados y Centros de Abasto
 
 ###### Artículo 168.
 
@@ -1635,7 +1645,7 @@ Los Ayuntamientos o las autoridades que hicieren sus veces, tienen la obligació
 
 Los expendios de carnes, frutas, legumbres y otros productos agrícolas, que se ubiquen en supermercados, tiendas de abarrotes o casas particulares, deberán observar los requisitos correspondientes establecidos en las disposiciones precedentes y operarán previa la licencia o permiso de las autoridades sanitarias. Los vendedores ambulantes, para que puedan expender los mencionados productos, deberán contar con licencia para esa actividad de la autoridad sanitaria y, además, satisfacer todos los requisitos que establezca la reglamentación particular aplicable a su situación.
 
-### Capítulo IV. Funerarias y Panteones
+### Capítulo III. Construcciones
 
 ###### Artículo 184.
 
@@ -1863,7 +1873,7 @@ En los casos de omisión o renuencia, podrá observarse lo dispuesto en la parte
 
 Queda terminante (sic) prohibida en las casas de vecindad, la estancia de animales, cuando se compruebe por la autoridad sanitaria que ocasionan molestias o son un peligro para el vecindario, aún cuando se les tenga dentro de las propias habitaciones.
 
-### Capítulo V. Limpieza Pública
+### Capítulo IV. Funerarias y Panteones
 
 ###### Artículo 235.
 
@@ -2123,7 +2133,7 @@ III.- La inhumación en fosa común.
 
 Los cadáveres y restos humanos de personas desconocidas y de indigentes sepultados en fosa comúm (sic), deberán ser exhumados después de 3 años de su permanencia en ese lugar. Los restos áridos u osamentas de los cadáveres de indigentes, se someterán previamente, en su caso, a procedimientos de desintegración o de incineración autorizados por la Secretaría de Salud Estatal, para ser entregados a sus deudos o parientes que los reclamen. En cuanto a los restos áridos de personas desconocidas sepultadas en fosa común que no hubiesen sido identificados al fenecer el indicado plazo de 3 años derán (sic) exhumados y sometidos a los procedimientos de desintegración e incineración mencionados y se pondrán a disposición de la autoridad municipal respectiva para que ésta, previo dictamen de la autoridad sanitaria, determine el destino que deba darse a los restos.
 
-### Capítulo VI. Rastros
+### Capítulo V. Limpieza Pública
 
 ###### Artículo 290.
 
@@ -2205,7 +2215,7 @@ Los excrementos procedentes del vaciado de excusados se enterrarán, previo perm
 
 Queda prohibido abonar las tierras, dentro del perímetro de las poblaciones, con basuras o excrementos de animales.
 
-### Capítulo VII. Agua Potable y Alcantarillado
+### Capítulo VI. Rastros
 
 ###### Artículo 309.
 
@@ -2299,7 +2309,7 @@ Las carnes frescas, las secas sin salar o saladas, la cecina, el tasajo y, en ge
 
 El sacrificio de los animales en los rastros se hará utilizando los procedimientos más tecnificados que apruebe la autoridad sanitaria, tendientes a evitar la crueldad excesiva y el sufrimiento innecesario de los animales.
 
-### Capítulo VIII. Centros de Enseñanza
+### Capítulo VII. Agua Potable y Alcantarillado
 
 ###### Artículo 325.
 
@@ -2461,7 +2471,7 @@ Los caños estarán siempre a una distancia conveniente debajo de los acueductos
 
 Los propietarios de las casas están obligados a conservar por su cuenta, en el interior de sus predios, los desagües y caños de éstos en buen estado y normal funcionamiento.
 
-### Capítulo IX. Establos, Caballerizas y Establecimientos Similares
+### Capítulo VIII. Centros de Enseñanza
 
 ###### Artículo 357.
 
@@ -2531,7 +2541,7 @@ No se permitirá que a distancia menor de la que fijen los reglamentos respectiv
 
 Los directores, profesores y demás personas que presten sus servicios en los establecimientos de enseñanza, no podrán concurrir a éstos cuando sufran algún padecimiento transmisible que constituya un peligro para los alumnos, estando en la obligación de recabar y enviar a la dirección de educación respectiva, durante el mes de septiembre de cada año, un certificado por el que se haga constar que no padecen enfermedad transmisible alguna. Este certificado deberá serles expedido en su orden, gratuitamente por tratarse de un servicio social, por los médicos sanitarios o por los que desempeñen cualquier cargo oficial o, en su defecto, por médicos particulares.
 
-### Capítulo X. Centros de Readaptación Social
+### Capítulo IX. Establos, Caballerizas y Establecimientos Similares
 
 ###### Artículo 369.
 
@@ -2639,7 +2649,7 @@ Las caballerizas particulares quedarán sujetas a las disposiciones contenidas e
 
 En las casas de vecindad y en las construcciones particulares, queda terminantemente prohibida la estancia de toda clase de animales cuando causen molestias o constituyan un peligro para el vecindario, a juicio de la autoridad sanitaria.
 
-### Capítulo XI. Baños y Albercas Públicas
+### Capítulo X. Centros de Readaptación Social
 
 ###### Artículo 384.
 
@@ -2671,7 +2681,7 @@ Cuando al practicar las visitas de inspección a que se refiere el artículo ant
 
 Los menores infractores recibirán el tratamiento de rehabilitación correspondiente, en los lugares señalados por las leyes y reglamentos respectivos para ese efecto.
 
-### Capítulo XII. Centros de Reunión y Espectáculos
+### Capítulo XI. Baños y Albercas Públicas
 
 ###### Artículo 389.
 
@@ -2745,7 +2755,7 @@ III.- Tomar el baño de alberca sin haberse aseado previamente en el de regadera
 
 En los establecimientos de baños, los propietarios fijarán cartulinas con el contenido de este Capítulo y con las recomendaciones que, en el aspecto higiénico sugieran las autoridades sanitarias.
 
-### Capítulo XIII. Peluquerías, Salones de Belleza y Otros
+### Capítulo XII. Centros de Reunión y Espectáculos
 
 ###### Artículo 398.
 
@@ -2803,7 +2813,7 @@ Los circos, plazas de toros, salones de baile, campos deportivos, juegos mecáni
 
 La autoridad sanitaria podrá ordenar en todo tiempo la clausura de centros de reunión o de espectáculos públicos que no llenen las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran.
 
-### Capítulo XIV. Establecimientos de Hospedaje
+### Capítulo XIII. Peluquerías, Salones de Belleza y Otros
 
 ###### Artículo 406.
 
@@ -2845,7 +2855,7 @@ Queda terminantemente prohibido atender en esta clase de establecimientos a pers
 
 Los propietarios o quienes exploten esta clase de establecimientos, son responsables de la falta de cumplimiento de las disposiciones de este Capítulo.
 
-### Capítulo XV. Transporte Estatal y Municipal
+### Capítulo XIV. Establecimientos de Hospedaje
 
 ###### Artículo 414.
 
@@ -2907,7 +2917,7 @@ En cualquier tiempo por razones de higiene o porque se compruebe que los estable
 
 Cuando en estos establecimientos se ejerciere la prostitución o se expendieren bebidas alcohólicas, los dueños o administradores serán responsables de estas infracciones y les serán aplicadas las penas pecuniarias correspondientes, sin perjuicio de la clausura de los establecimientos si así se estima conveniente por la autoridad sanitaria.
 
-### Capítulo XVI. Lavaderos Públicos, Lavanderías y Tintorerías
+### Capítulo XV. Transporte Estatal y Municipal
 
 ###### Artículo 429.
 
@@ -2937,7 +2947,7 @@ Se prohibe escupir en el interior de los vehículos.
 
 Las carrozas fúnebres no podrán ponerse al servicio público sin permiso de la autoridad sanitaria, la que vigilará se conserven en condiciones satisfactorias de higiene.
 
-### Capítulo XVII. Farmacias, Droguerías y Establecimientos Similares
+### Capítulo XVI. Lavaderos Públicos, Lavanderías y Tintorerías
 
 ###### Artículo 436.
 
@@ -3021,7 +3031,7 @@ Cuando el lavado, secado y planchado de la ropa se realice en lavanderías o tin
 
 Los establecimientos y personas a que se refiere este Capítulo quedan sujetos a la inspección sanitaria.
 
-### Capítulo XVIII. Hospitales, Sanitarios y Establecimientos Similares
+### Capítulo XVII. Farmacias, Droguerías y Establecimientos Similares
 
 ###### Artículo 449.
 
@@ -3211,7 +3221,7 @@ Las boticas o farmacias sólo podrán preparar y despachar las recetas expedidas
 
 Queda estrictamente prohibido que en las plazas, paseos públicos, vías públicas o a domicilio, se vendan artículos de tocador y belleza, medicamentos o panaceas a los que se atribuyen propiedades maravillosas, aprovechando la ingenuidad del público consumidor. En consecuencia, ninguna autoridad podrá conceder permiso para la venta de estos productos en los lugares señalados, aún cuando estén aprobados y registrados por la Secretaría de Salud.
 
-### Capítulo XIX. Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
+### Capítulo XVIII. Hospitales, Sanitarios y Establecimientos Similares
 
 ###### Artículo 490.
 
@@ -3309,7 +3319,7 @@ Todos los establecimientos destinados a hospitalización tendrán un reglamento 
 
 En los hospitales para enfermos contagiosos y en los lazaretos, serán atendidas las orientaciones de las autoridades sanitarias respectivas, en lo que se refiere a las medidas que deban tomarse para evitar la propagación de las enfermedades que sufran los asilados, y no se despedirá a ningún enfermo sin haber obtenido el alta sanitaria.
 
-### Capítulo XX. Fábricas, Industrias, Depósitos y Establecimientos Similares
+### Capítulo XIX. Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
 
 ###### Artículo 510.
 
@@ -3541,7 +3551,7 @@ La Secretaría de Salud Estatal en los términos de esta ley y reglamentos aplic
 
 Para determinar la ubicación, funcionamiento y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, la Secretaría de Salud Estatal tomará en cuenta lo que dispongan para el caso los reglamentos, normas técnicas y las acciones relativas al programa contra el alcoholismo.
 
-### Capítulo XXI. Ingeniería Sanitaria
+### Capítulo XX. Fábricas, Industrias, Depósitos y Establecimientos Similares
 
 ###### Artículo 556.
 
@@ -3709,7 +3719,7 @@ La instalación de calderas, motores de vapor, de gas, y de toda clase de máqui
 
 Cuando no se dé parte de la instalación de una fábrica o establecimiento industrial y se le encuentre funcionando, será considerado como clandestino, procediéndose a su inmediata clausura, sin perjuicio de las demás sanciones que procedan.
 
-### Capítulo I. Autorizaciones
+### Capítulo XXI. Ingeniería Sanitaria
 
 ###### Artículo 590.
 
@@ -3723,7 +3733,7 @@ III.- La ejecución de obras de abastecimiento de agua potable, saneamiento, des
 
 ## Título Décimo Segundo. Autorizaciones y Certificados
 
-### Capítulo II. Revocación de Autorizaciones Sanitarias
+### Capítulo I. Autorizaciones
 
 ###### Artículo 591.
 
@@ -3781,7 +3791,7 @@ La Secretaría de Salud del Estado, podrá requerir tarjeta de control sanitario
 
 Los ingresos que por derechos se recepten por los servicios de salubridad local que se presten, se regirán por lo que disponga la legislación fiscal del Estado y los convenios de coordinación que celebren en la materia, el Gobierno de la Entidad y el Ejecutivo Federal.
 
-### Capítulo III. Certificados
+### Capítulo II. Revocación de Autorizaciones Sanitarias
 
 ###### Artículo 601.
 
@@ -3843,7 +3853,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiera la autorización revocada.
 
-### Capítulo Unico
+### Capítulo III. Certificados
 
 ###### Artículo 609.
 
@@ -3881,7 +3891,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## Título Décimo Tercero. Vigilancia Sanitaria
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Unico
 
 ###### Artículo 614.
 
@@ -4031,7 +4041,7 @@ El procedimiento de muestreo no impide que la Secretaría dicte y ejecute las me
 
 ## Título Décimo Cuarto. Medidas de Seguridad Sanitaria, Sanciones y Recursos
 
-### Capítulo II. Sanciones Administrativas
+### Capítulo I. Medidas de Seguridad Sanitaria
 
 ###### Artículo 623.
 
@@ -4141,7 +4151,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### Capítulo II. Sanciones Administrativas
 
 ###### Artículo 635.
 
@@ -4237,7 +4247,7 @@ Sólo procederá esta Sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### Capítulo IV. Recurso de Inconformidad
+### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 647.
 
@@ -4315,7 +4325,7 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### Capítulo V. Prescripción
+### Capítulo IV. Recurso de Inconformidad
 
 ###### Artículo 657.
 
@@ -4389,6 +4399,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
+### Capítulo V. Prescripción
+
 ###### Artículo 669.
 
 El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente ley, prescribirá en el término de cinco años.
@@ -4456,3 +4468,9 @@ P.O. 30 DE JUNIO DE 1999.
 Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La dependencia responsable tomará las previsiones presupuestarias necesarias para los efectos de este decreto.
