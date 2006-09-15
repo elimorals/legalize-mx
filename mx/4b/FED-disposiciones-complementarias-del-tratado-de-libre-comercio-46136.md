@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2006-09-05"
+last_updated: "2006-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,35 +18,29 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
+DECRETO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON, PUBLICADO EL 29 DE DICIEMBRE DE 2005
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de septiembre de 2006.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de septiembre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que para favorecer la competitividad de la industria nacional, mediante el abastecimiento oportuno de materias primas a precios internacionales, es conveniente reducir los aranceles a productos como los lingotes de aluminio, en el sector de manufacturas de aluminio, la lisina en la rama de alimentos para el sector avícola y de ganado porcino, el tricloro propil fosfato y la azodicarbonamida para el sector químico, la acacia para el sector de la curtiduría, cámaras para llanta de bicicleta, brocas, fresas y portaútiles del sector metalmecánica;
+Que el 30 de abril de 1998 el Senado de la República aprobó el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, el cual se publicó en el Diario Oficial de la Federación el 1 de julio de 1998 y entró en vigor en esa misma fecha;
 
-Que es necesario identificar e individualizar determinados productos en fracciones arancelarias específicas para que la industria nacional conozca con claridad los nichos de mercado y responda con mayor efectividad y oportunidad a la demanda del mercado, como el caso de suelas y tacones para la industria del calzado y las mercancías para la reparación o mantenimiento de aeronaves;
+Que de conformidad con el Anexo 2 del Artículo 4-04 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, la participación que corresponderá a Nicaragua dentro del esquema tipo arancel-cuota libre de arancel aduanero para azúcar que México implementará en caso de requerir azúcar será del 20% de las importaciones durante los primeros cuatro años de vigencia del Tratado. El Comité de Análisis Azucarero definirá la participación para años subsecuentes;
 
-Que es importante establecer medidas arancelarias que favorezcan la importación de insumos, para la industria fabricante o ensambladora de aeronaves y de aeropartes tendientes a apoyar a una industria en constante crecimiento, que se puede convertir en un sector de gran generación de inversión y empleos en los estados de Baja California, Chihuahua, Coahuila y Sonora;
+Que en virtud de que los primeros cuatro años de vigencia a que hace referencia el considerando anterior vencieron el 1 de julio de 2002, el 20 de octubre de 2004 el Comité de Análisis Azucarero acordó que, a partir del 1 de enero de 2005, en caso de que México requiera importar azúcar otorgará a Nicaragua una participación del 10% del arancel-cuota libre de arancel aduanero. Este acuerdo fue adoptado por la Comisión Administradora del Tratado mediante la Decisión No. 7, la cual fue publicada en el Diario Oficial de la Federación el 17 de agosto de 2005;
 
-Que para dar mayor certeza jurídica e información clara y transparente a todos los operadores del comercio exterior beneficiarios del esquema de fomento industrial de la Regla 8a de las Reglas Complementarias para la aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, conocido comúnmente como “Regla 8ª”, es imprescindible modificar la descripción de las fracciones arancelarias que amparan importaciones bajo la operación de la citada Regla, para confirmar que esta operación se realiza conforme a los lineamientos que establezca la Secretaría de Economía;
+Que en los últimos meses se ha generado una demanda inusitada de azúcar en el mercado nacional y en el de exportación, por lo que resulta necesario complementar la oferta nacional con importaciones, a efecto de que las industrias que la utilizan en sus procesos productivos no resulten afectadas;
 
-Que debido a las modificaciones arancelarias previstas en el presente instrumento se hace necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005;
+Que el 29 de diciembre de 2005 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, reformado el 3 de marzo de 2006 en el mismo órgano informativo, y
 
-Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, con ciertas fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
-
-Que en virtud de que ciertos productos que se importan al amparo del diverso por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
+Que en este contexto resulta necesario modificar el referido Decreto para establecer el arancel cuota preferencial a la importación de azúcar originaria de la República de Nicaragua conforme a los términos antes señalados, he tenido a bien expedir el siguiente
 
 DECRETO
-
-...
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -73,22 +67,6 @@ Fracción Arancel Modalidad de la mercancía
 6406.91.03 EXCL Únicamente: De madera, que contengan peletería.
 
 6406.91.99 EXCL Únicamente: De madera, que contengan peletería.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-Se adicionan al ARTÍCULO 23 del Decreto que se señala en el ARTÍCULO DÉCIMO del presente ordenamiento, las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
-
-Fracción Arancel Modalidad de la mercancía
-
-6406.20.02 Ex. De caucho.
-
-6406.20.02 Ex. Suelas de hule natural tipo crepé.
-
-6406.20.03 Ex. De caucho.
-
-6406.20.03 Ex. Suelas de hule natural tipo crepé.
-
-6406.91.99 0.8 Suelas y tacones.
 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
@@ -316,16 +294,26 @@ La importación de mercancías originarias del área conformada por los Estados 
 
 La importación de mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, comprendidas en las fracciones arancelarias que se identifican con el código “PXIX” bajo el rubro “Nota” en el Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de los Estados Unidos Mexicanos.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 3 de marzo del presente año, entrarán en vigor el próximo 1 de junio.
+Se adiciona el artículo 25 Bis al Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005 y reformado el 3 de marzo de 2006 en el mismo órgano informativo, para quedar como sigue:
 
-## TRANSITORIOS
+“ARTÍCULO 25 Bis.- La importación de las mercancías originarias de la región conformada por los Estados Unidos Mexicanos y Nicaragua comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas, siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con el requisito señalado, se aplicará el arancel establecido en artículo 1o. de la Ley de los Impuestos Generales de Importación y de Exportación.
 
-> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LAS DISPOSICIONES.</small>
+Fracción Arancel
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+1701.11.01 Ex.
 
-...
+1701.11.02 Ex.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de agosto de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+1701.99.01 Ex.
+
+1701.99.02 Ex.
+
+1701.99.99 Ex.”
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2006.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
