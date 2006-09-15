@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-174
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-04"
-last_updated: "2000-08-04"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de agosto de 2000.
 
@@ -57,7 +57,9 @@ III. Autoridad ejecutora, al Gobernador del Estado, por conducto de la Secretar�
 
 IV. Dirección, a la Dirección General de Prevención y Readaptación Social de la Secretaría de Gobierno.
 
-V. Sistema Penitenciario del Estado de Querétaro, al conjunto de Centros Preventivos, de Ejecución de Sanciones Penales, de Rehabilitación Psicosocial y de Asistencia Postpenitenciaria, así como los Centros de Observación y Tratamiento para Menores Infractores.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+V. Sistema Penitenciario del Estado de Querétaro, al conjunto de Centros Preventivos, de Ejecución de Sanciones Penales, de Rehabilitación Psicosocial y de Asistencia Postpenitenciaria, así como los Centros de Internamiento para Menores.
 
 VI. Indiciado, persona en contra de quien se inicien diligencias de preparación del ejercicio de la acción penal y hasta que se le dicta auto de procesamiento o de libertad por falta de elementos para procesar.
 
@@ -93,21 +95,55 @@ Corresponde al Ejecutivo del Estado por conducto de la Secretaría, la aplicaci�
 
 La Secretaría, a través de la Subsecretaría de Gobierno y de la Dirección, aplicará las disposiciones de la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 6.
 
-La Dirección, será competente para:
+Son atribuciones de la Dirección, las siguientes:
 
-I. Elaborar, coordinar y ejecutar los programas de Readaptación Social de los Infractores, así como dar seguimiento a menores infractores externados.
+I. Elaborar, coordinar y ejecutar los programas de Readaptación Social de los internos y externados del Sistema Penitenciario del Estado y del Sistema Integral de Justicia para Menores;
 
-II. Administrar los Centros de Readaptación Social, así como de observación y Tratamiento para Menores.
+II. Administrar, supervisar y evaluar los Centros de Readaptación Social, así como los de Internamiento para Menores;
 
-III. Resolver, sujetándose al procedimiento a que se refiere el capítulo XII del título tercero de la presente Ley, sobre la concesión de libertad anticipada.
+III. Resolver, sujetándose al procedimiento a que se refiere el Capítulo XII del Título Tercero de la presente Ley, sobre la concesión de libertad anticipada, declarar cumplida la pena o cumplida la medida y en consecuencia la libertad total y definitiva de los internos y menores;
 
-IV. Vigilar el establecimiento de instituciones y aplicación de las normas preventivas de menores infractores.
+IV. Coordinar e instrumentar programas de vigilancia y seguridad de los Centros que integran el Sistema Penitenciario y de Menores del Estado, así como elaborar manuales de procedimientos, rehabilitación, y procurar la capacitación y entrenamiento del personal directivo, administrativo, técnico y de vigilancia.
 
-V. Coordinar e instrumentar programas de vigilancia y seguridad de los Centros que integran el Sistema Penitenciario del Estado, así como elaborar manuales de procedimientos, rehabilitación, y procurar la capacitación y entrenamiento del personal directivo, administrativo, técnico y de vigilancia.
+V. Ejercer las facultades que le otorga la Ley de Justicia para Menores para el Estado de Querétaro y demás disposiciones relativas en la materia, por si y a través de los Directores de Procedimientos administrativos para menores, de Ejecución de Medidas para Menores y de Centros de Internamiento para Menores;
 
-VI. Las demás que le confieran otras disposiciones legales y reglamentarias, y las que expresamente le delegue el Secretario de Gobierno.
+VI. Cumplir con las órdenes y aplicar las medidas para menores y realizar todas las actividades conducentes para su reincorporación familiar, social y cultural, impuestas por el juez de la causa;
+
+VII. Aprobar y poner en práctica, en cada caso, un Programa Personalizado de Ejecución de Medidas;
+
+VIII. Elaborar los informes que le correspondan de conformidad con las leyes correspondientes;
+
+IX. Fomentar en las personas sujetas a alguna medida, el sentido de la responsabilidad, el valor del respeto a los derechos de los demás y el desarrollo de las capacidades necesarias para una participación constructiva dentro de la sociedad;
+
+X. Cumplir con las modalidades y circunstancias de toda clase de medidas;
+
+XI. Estar en contacto permanente con quienes ejerzan la patria potestad, tutela o custodia de menores sujetos a medida, a fin de mantener vinculados e informados sobre el cumplimiento de ésta y sobre su estado físico y mental;
+
+XII. Resolver sobre la adecuación de la medida, en forma provisional o definitiva, considerando las características del trastorno, así como las medidas del tratamiento, si considera que ésta ya produjo sus efectos, es innecesaria o afecta el desarrollo, la dignidad o la integración familiar, social y cultural de quienes estén sujetos a ella;
+
+XIII. Integrar un expediente de ejecución de la medida que contenga, por lo menos, la siguiente información:
+
+a) Los datos de identidad del menor sujeto a la medida y, en su caso, la información relativa a ingresos previos al Sistema;
+
+b) La conducta por la que fue impuesta la medida, las circunstancias y motivaciones de la misma y la autoridad judicial que la decretó;
+
+c) Día y hora de inicio y finalización de la medida;
+
+d) Datos acerca de la evaluación de la salud física y mental del menor;
+
+e) El Programa Personalizado de Ejecución, así como sus modificaciones, reportes e incidencias;
+
+f) Un registro del comportamiento del menor durante su estancia en el centro de internamiento, y
+
+g) Cualquier otro hecho, circunstancia o característica particular del menor que se considere importante.
+
+XIV. Suscribir los convenios que sean necesarios con otras autoridades, instituciones públicas y privadas, así como con organizaciones sociales y civiles, para realizar las funciones y objetivos de la Dirección; y
+
+XV. Las demás que le confieran otras disposiciones legales y reglamentarias, y las que expresamente le delegue el Secretario de Gobierno.
 
 ###### ARTICULO 7.
 
@@ -189,9 +225,11 @@ Para tal efecto, el Director del reclusorio informará al juez que conozca, cuan
 
 ### CAPITULO II. DE LAS INSTITUCIONES QUE INTEGRAN EL SISTEMA PENITENCIARIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 18.
 
-Las instituciones que integran el Sistema Penitenciario del Estado de Querétaro, se clasificarán en varoniles y femeniles, para procesados y sentenciados, de alta, media, baja y mínima seguridad, en base a su construcción y régimen interno; así como los Centros de Observación y Tratamiento para Menores Infractores, con excepción de las instituciones de rehabilitación psicosocial y de asistencia postpenitenciaria, en lo relativo a la seguridad.
+Las instituciones que integran el Sistema Penitenciario del Estado de Querétaro, se clasificarán en varoniles y femeniles, para procesados y sentenciados, de alta media, baja y mínima seguridad, en base a su construcción y régimen interno; así como los Centros de Internamiento para Menores, con excepción de las instituciones de rehabilitación psicosocial y de asistencia postpenitenciaria, en lo relativo a la seguridad.
 
 El Ejecutivo del Estado, a través de la Secretaría podrá decidir el establecimiento de nuevas instituciones regionales del Sistema Penitenciario de Querétaro en aquellos municipios que se considere necesario las cuales podrán ser de baja y mínima seguridad; la de alta y media se ubicarán en la periferia de la ciudad capital y de preferencia fuera de la zona urbanizada.
 
@@ -1035,9 +1073,43 @@ Una vez que el imputado obtenga cualquier tipo de libertad, se le hará saber so
 
 ### CAPÍTULO I. DE LA EJECUCIÓN DE MEDIDAS CAUTELARES IMPUESTAS A MENORES INFRACTORES
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 126.
 
-El procedimiento de ejecución de las medidas de orientación, protección y tratamiento impuestas a menores se sujetarán a las disposiciones de la Ley para el Tratamiento de Menores Infractores para el Estado de Querétaro.
+El Procedimiento de ejecución de las medidas impuestas a menores se sujetarán a las disposiciones de la Ley de Justicia para Menores para el Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 126 bis.- Para la adecuada ejecución de las medidas impuestas a menores habrá un Comité Técnico Interdisciplinario presidido por el Director para el Tratamiento de Menores, que se integrará con los siguientes miembros:
+
+I. El Director de Internamiento de Menores;
+
+II. Un Médico;
+
+III. Un Pedagogo;
+
+IV. Un Licenciado en Trabajo Social;
+
+V. Un Psicólogo; y
+
+VI. Un Licenciado en criminología.
+
+Asimismo, contará con el personal técnico y administrativo que requiera para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 126 ter.- Son atribuciones del Comité Técnico Interdisciplinario:
+
+I. Llevar a cabo los estudios biopsicosociales y todos aquellos tendientes al conocimiento de la etiología de la conducta antisocial del menor y emitir el dictamen técnico que corresponda;
+
+II. Elaborar los proyectos de Programas Personalizados de Ejecución de Medidas;
+
+III. Vigilar la correcta aplicación de las medidas de orientación, protección y tratamiento, y denunciar las irregularidades de que tengan conocimiento;
+
+IV. Evaluar el desarrollo y resultado de la aplicación y tratamiento tendientes a la adaptación del menor, emitiendo el dictamen correspondiente; y
+
+V. Las demás que determine (sic) las Leyes, los Reglamentos y el Director General de prevención y Readaptación Social.
 
 # LIBRO TERCERO. DE LA INTERVENCIÓN DE LA DIRECCIÓN EN LAS SUSPENSIONES A PRUEBA DEL PROCEDIMIENTO PENAL Y DE LA EJECUCIÓN DE LA PENA PRIVATIVA DE LIBERTAD
 
@@ -1172,3 +1244,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MA. GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE FORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
