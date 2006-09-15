@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-50640"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-05-26"
-last_updated: "2006-05-26"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro de Arteaga, el viernes 26 de mayo de 2006.
 
@@ -373,6 +373,10 @@ De acuerdo a la carga de trabajo existente, el Pleno determinará qué Sala debe
 
 La Sala Electoral podrá auxiliar a otra Sala teniendo las mismas facultades de éstas, aun dentro del proceso electoral, previo acuerdo del Pleno del Tribunal Superior de Justicia, siempre y cuando no se interfiera con la función primordial de aquella.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+Mediante una Sala Unitaria especializada en la materia, se conocerá de los asuntos relativos a la justicia para menores.
+
 ###### ARTÍCULO 26.
 
 Cada Sala elegirá, de entre los miembros que la componen, un presidente que durará en su cargo un año y podrá ser reelecto.
@@ -407,9 +411,11 @@ Las Salas sesionarán en Pleno los días y en el horario que establezca el Regla
 
 #### SECCIÓN PRIMERA. De la competencia de las Salas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 33.
 
-Los magistrados de las Salas Civil y Penal, o auxiliares, en su caso, en pleno o de manera unitaria, conocerán en su materia:
+Los magistrados de las Salas Civil, Penal, Electoral, especializada para menores o auxiliares, en su caso, en pleno o de manera unitaria, conocerán en su materia:
 
 I. De la segunda instancia y de la denegada apelación en los términos que establecen las leyes;
 
@@ -454,6 +460,10 @@ IV. Elaborar y divulgar la memoria de las resoluciones y criterios de interpreta
 V. Las demás que le confieran la presente Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
 
 Cuando auxilie a cualquiera de las otras Salas, seguirá los lineamientos de los artículos 33, 34 y 35 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 36 bis. La Sala especializada en justicia para menores, conocerá de los asuntos que señale la ley de la materia.
 
 ###### ARTÍCULO 37.
 
@@ -673,13 +683,21 @@ I. Los Juzgados Civiles;
 
 II. Los Juzgados Penales;
 
-III. Los Juzgados Familiares; y
+III. Los Juzgados Familiares; y (sic)
 
-IV. Los Juzgados Mixtos.
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Los Juzgados Especializados en Justicia para Menores; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+V. Los Juzgados Mixtos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 58.
 
-El Pleno del Tribunal Superior de Justicia determinará el número de juzgados civiles, familiares, penales, mixtos y municipales en los distritos judiciales, atendiendo a las necesidades del servicio, así como a las observaciones que sobre el particular haga el Consejo de la Judicatura.
+El Pleno del Tribunal Superior de Justicia determinará el número de juzgados civiles, familiares, penales, especializados en justicia para menores, mixtos y municipales en los distritos judiciales, atendiendo a las necesidades del servicio, así como a las observaciones que sobre el particular haga el Consejo de la Judicatura.
 
 Cuando en un distrito judicial exista más de un juzgado, se designarán por orden numérico.
 
@@ -762,6 +780,16 @@ II. De la diligenciación de despachos, exhortos, requisitorias, cartas rogatori
 III. Del recurso de revisión, en los términos del Código de Procedimientos Penales en vigor; y
 
 IV. De los demás asuntos que les señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 62 bis. Los Juzgados especializados en justicia para menores conocerá de:
+
+I. Los asuntos seguidos en contra de quienes se atribuya la realización de una conducta tipificada como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad en los términos de la ley especial;
+
+II. La diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, y en los términos previstos en las leyes adjetivas; y
+
+III. Los demás asuntos que les señalen la ley especializada en la materia y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 63.
 
@@ -947,7 +975,13 @@ VIII. Practicar las primeras diligencias en los procesos que les sean consignado
 
 IX. Practicar y recibir informaciones testimoniales que se soliciten y que tengan por objeto hacer constar los actos y los hechos que los productores agrícolas deban o quieran dar autenticidad, para efectos de recibir subsidios o apoyos relacionados con su actividad;
 
-X. Procurar la conciliación en toda controversia civil o penal que se persiga por querella y le sea planteada, en el ámbito de su competencia; y
+X. Procurar la conciliación en toda controversia civil o penal que se persiga por querella y le sea planteada, en el ámbito de su competencia; y (sic)
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Conocer y resolver respecto del procedimiento administrativo contemplado en la Ley de Justicia para Menores para el Estado de Querétaro; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
 XI. Las demás que les atribuyan la presente Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
 
@@ -1930,3 +1964,15 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIO DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
