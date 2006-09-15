@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-prevencion-y-atencion-de-la-violencia-intrafamiliar-2519
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-27"
-last_updated: "2002-06-27"
+last_updated: "2006-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 27 de junio de 2002.
 
@@ -57,13 +57,27 @@ IX. Aprobar la integración del órgano consultivo (sic);
 
 Son autoridades en materia de violencia intrafamiliar:
 
-I. Las Secretarías de Gobierno, de Desarrollo Social, de Educación, Cultura y Deporte y de Salud de la Administración Pública del Estado, dentro de sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+I. Las Secretarías de Gobierno, de Desarrollo Social, de Educación, Cultura y Deporte, de Salud y de Seguridad Pública de la Administración Pública del Estado, dentro de sus respectivos ámbitos de competencia;
 
 II. El Consejo para la Prevención y Atención de la Violencia Intrafamiliar;
 
-III. La Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
-IV. El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche.
+III. La Procuraduría General de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+IV. El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+V. La Comisión Estatal de Derechos Humanos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+VI. El Instituto Estatal de la Mujer.
 
 ###### Art. 3.
 
@@ -94,6 +108,10 @@ c) Maltrato sexual: Al patrón de conducta consistente en actos u omisiones reit
 ###### Art. 4.
 
 Corresponde la aplicación de esta ley, al Ejecutivo del Estado, a través del DIF, de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, de las Secretarías y de la Procuraduría; y a los Ayuntamientos de los Municipios del Estado, por conducto de las dependencias municipales homólogas a las antes mencionadas y a las Procuradurías Auxiliares de la Defensa del Menor, la Mujer y la Familia, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+Corresponde la aplicación de esta ley, al Ejecutivo del Estado, a través del DIF, de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, de las Secretarías y de la Procuraduría; y a los Ayuntamientos de los Municipios del Estado, por conducto de las dependencias municipales homólogas a las antes mencionadas y a las Procuradurías auxiliares de la Defensa del Menor, la Mujer y la Familia, a la Comisión Estatal de los Derechos Humanos y al Instituto Estatal de la Mujer, en el ámbito de sus respectivas competencias.
 
 ## Título Segundo. Del Consejo para la Prevención y Atención de la Violencia Intrafamiliar
 
@@ -133,9 +151,13 @@ X (SIC). Evaluar trimestralmente los logros y avances del Programa Integral;
 
 XI. Elaborar un informe anual de sus actividades;
 
-XII. Promover la creación de un Patronato que auxilie al Consejo en sus fines; y
+XII. Promover la creación de un Patronato que auxilie al Consejo en sus fines; y (sic)
 
-XIII. Las demás que le confiera la presente ley y otros ordenamientos aplicables así como aquellas que le sean necesarias para la consecución de sus fines.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Conocer del Recurso de Revisión a que se refiere el Capítulo III, del Título Cuarto de esta ley a través de la Secretaría Ejecutiva; y
+
+XIV. Las demás que le confiera la presente ley y otros ordenamientos aplicables así como aquellas que le sean necesarias para la consecución de sus fines.
 
 ## Título Tercero. De la Prevención y Atención de la Violencia Intrafamiliar
 
@@ -225,7 +247,9 @@ I. Coadyuvar, a través de las Oficialías del Registro del Estado Civil, a la d
 
 II. Promover la capacitación y sensibilización del personal profesional adscrito a la Defensoría Pública del fuero común, con el propósito de mejorar la atención a los receptores de la violencia intrafamiliar que requieran su intervención;
 
-III. Solicitar el apoyo de la Coordinación General de Seguridad Pública, Vialidad y Transporte del Estado para que se hagan llegar los diversos citatorios a que hace alusión el artículo 13, fracción VII, de la presente ley, a los presuntos generadores de violencia intrafamiliar; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+III. Solicitar el apoyo de la Coordinación de Seguridad Pública, Vialidad y Transporte del Estado, y en su caso, de la Secretaría de Seguridad Pública del Estado, para que se hagan llegar los diversos citatorios a que hace alusión el artículo 13, fracción VII, de la presente ley, a los presuntos generadores de violencia intrafamiliar; y
 
 IV. Promover ante la misma Coordinación que incluya en su programa de formación policiaca, la capacitación que sea necesaria en materia de violencia intrafamiliar.
 
@@ -279,21 +303,55 @@ II. Incumplir el convenio derivado del procedimiento de conciliación; y
 
 III. Incumplir la resolución de amigable composición a la que se sometieron las partes.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Art. 24.
 
-Las infracciones a la presente ley se castigarán con:
+Las infracciones a la presente ley se castigarán con las siguientes sanciones:
 
-I. Amonestación por escrito, de la que se hará llegar copia a los integrantes del Consejo, y
+I. Amonestación por escrito, de la que se hará llegar copia a los integrantes del Consejo;
 
-II. Apercibimiento por escrito, del que se hará llegar copia a la autoridad que corresponda.
+II. Apercibimiento por escrito, del que se hará llegar copia a la autoridad que corresponda;
+
+III. Multa de 30 a 180 días de salario mínimo general vigente en el Estado; y
+
+IV. Arresto hasta por 36 horas;
+
+En caso de reincidencia se duplicará la multa que se hubiere impuesto.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 25.
 
-La Coordinación General de Seguridad Pública, Vialidad y Transporte del Estado, a solicitud por escrito de las autoridades encargadas del trámite de los procedimientos de conciliación y amigable composición, localizará y presentará ante las mismas a quienes hagan caso omiso de una citación.
+La Coordinación General de Seguridad Pública, Vialidad y Transporte del Estado, y en su caso, la Secretaría de Seguridad Pública del Estado, a solicitud por escrito de las autoridades encargadas del trámite de los procedimientos de conciliación y amigable composición, localizará y presentará ante las mismas a quienes hagan caso omiso de una citación.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+### Capítulo III. De los Recursos
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 26.
 
-Contra la imposición de las sanciones que establece esta ley, así como contra las resoluciones del amigable componedor, no procederá recurso alguno.
+Contra la imposición de las sanciones que establece esta ley, así como contra las resoluciones del amigable componedor, procederá el recurso siguiente.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+###### Art. 27.
+
+La resolución y sanciones que se emitan y apliquen con apego a esta ley, podrán ser impugnadas mediante el recurso de revisión, mismo que deberá interponerse dentro del término de tres días naturales siguientes al de la notificación del acto que se impugne.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+###### Art. 28.
+
+El recurso de revisión deberá interponerlo el interesado por escrito, ante la Secretaría Ejecutiva del Consejo, aportando en el mismo acto las pruebas que considere necesarias para acreditar los fundamentos de su petición.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+###### Art. 29.
+
+La resolución del recurso se dictará en un término que no excederá de quince días naturales contados a partir de su interposición.
 
 TRANSITORIOS:
 
@@ -308,3 +366,11 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche,
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veinticinco días del mes de Junio del año dos mil dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
