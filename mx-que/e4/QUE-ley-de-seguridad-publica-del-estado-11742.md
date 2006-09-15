@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-publica-del-estado-11742"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-20"
-last_updated: "1997-03-20"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 1997.
 
@@ -940,3 +942,35 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. ALEJANDRO ESPINOSA MEDINA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día primero de octubre del año dos mil seis.
+
+###### ARTÍCULO SEGUNDO.
+
+Los reglamentos respectivos establecerán los plazos para implementar el servicio de carrera policial, así como los mecanismos para migrar a la estructura orgánica que se determine para cada Corporación con base en la presente Ley; además en éstos se podrán poner criterios de única aplicación para que los Policías concursen para ocupar grados no continuos en la estructura orgánica.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Seguridad Pública del Estado de Querétaro publicada en el periódico oficial de Gobierno del Estado "La sombra de Arteaga" de fecha 20 de marzo de 1997, y se derogan todas las disposiciones de igual o menor jerarquía que se oponga a esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las empresas de servicios de seguridad privada que no cuenten con la autorización respectiva, gozarán de un plazo de sesenta días naturales, contados a partir de la entrada en vigor de esta Ley, para regularizar su situación.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá expedir en el ámbito de su competencia las disposiciones reglamentarias a la presente Ley, entre tanto seguirán vigentes los reglamentos aplicables a las Corporaciones, en lo que no se opongan a esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos del Estado de Querétaro deberán expedir sus reglamentos municipales respectivos, a fin de que en su esfera de competencia, ejerzan las facultades otorgadas en la presente y ejecuten su debida observancia.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Estatal de Seguridad Pública y los Consejos Municipales de Seguridad Pública, deberán quedar integrados en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor de la presente Ley, salvo que los Ayuntamientos respectivos establezcan plazos diferentes para ello.
