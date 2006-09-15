@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "2003-12-24"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -259,7 +259,9 @@ XXII. Elaborar y ejecutar los programas de readaptación social de los infractor
 
 XXIII. Administrar los Centros de Readaptación Social y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
 
-XXIV. Vigilar el establecimiento de instituciones y la aplicación de las normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+XXIV. Administrar la parte relativa a la ejecución de las medidas impuestas en el Sistema Integral de Justicia para Menores, así como de los establecimientos de internamiento y tratamiento de menores;
 
 XXV. Organizar y controlar la Defensoría de Oficio;
 
@@ -976,3 +978,13 @@ SEGUNDO. Se abroga la "Ley que Crea la Dirección de Seguridad Pública del Esta
 TERCERO. Las Unidades Administrativas que con motivo de esta Ley se transfieran de la Secretaría de Gobierno o de alguna otra a la Secretaría de Seguridad Ciudadana, incluirán al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y el equipo que se haya venido usando. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán conforme a la disposición legal de la materia.
 
 CUARTO. Los juicios y procedimientos administrativos que se encuentren en trámite y que con motivo de esta Ley deban pasar al conocimiento de la Secretaría de Seguridad Ciudadana, continuarán con su desahogo por quien conozca, y para el caso de que no se hayan resuelto a la fecha de entrada en vigor de esta Ley, se remitirán a la Secretaría a efectos de que ella determine lo conducente. Tratándose de asuntos en litigio, la Secretaría asumirá la personalidad jurídica, ya sea activa o pasiva, hasta la total terminación de los mismos a partir de la entrada en vigor de esta Ley.
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
