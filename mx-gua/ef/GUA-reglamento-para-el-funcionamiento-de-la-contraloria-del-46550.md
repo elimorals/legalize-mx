@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-contraloria-del-46550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-04"
-last_updated: "2006-04-07"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de octubre del 2005.
 
@@ -83,9 +83,9 @@ Para los efectos de este reglamento, se entenderá por:
 
 I.- Código: Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Comité: Comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios del Instituto Electoral del Estado de Guanajuato;
+II.- Comité: Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Guanajuato;
 
 III.- Consejo: Consejo General del Instituto Electoral del Estado de Guanajuato;
 
@@ -153,6 +153,12 @@ XII.- Llevar el registro de antecedentes disciplinarios de los Servidores Públi
 
 XIII.- Las demás que le confieran las leyes, el Código y el Consejo.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 7 Bis.
+
+Tanto el representante del Poder Legislativo como el de los Partidos Políticos, serán designados por sorteo en sesión de Consejo cada vez que se renueve el Congreso del Estado.
+
 ### CAPÍTULO TERCERO. FUNCIONAMIENTO DE LA CONTRALORÍA
 
 ###### Artículo 8.
@@ -180,6 +186,10 @@ El tiempo transcurrido desde la fecha en que la Contraloría notifique a la unid
 ###### Artículo 10.
 
 Además de las auditorías o revisiones previstas en el programa anual de auditorías aprobado por el Consejo, la Contraloría deberá realizar revisiones a las unidades administrativas en los supuestos previstos en los artículos 11 y 24 de este reglamento, sujetándose a lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+Durante el tiempo en que se desarrolle un proceso electoral no se realizarán auditorías o revisiones, salvo en los casos de extrema gravedad y urgencia, a juicio de la Contraloría.
 
 ###### Artículo 11.
 
@@ -209,7 +219,9 @@ VI.- Comunicar al Consejo los casos en que se presuma la existencia de irregular
 
 VII.- Instaurar y sustanciar el procedimiento de responsabilidad administrativa, en los casos a que se refiere el presente reglamento;
 
-VIII.- Asistir si lo estima conveniente, sin voz ni voto, a las sesiones del Comité;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Asistir, o designar a quien deba asistir en su representación, con voz pero sin voto, a las sesiones del Comité;
 
 IX.- Asistir a la celebración de contratos y convenios en los que participe el Instituto con dependencias, organismos públicos o particulares;
 
@@ -494,3 +506,7 @@ PRIMERO.- Las reformas al presente reglamento entrarán en vigor el cuarto día 
 SEGUNDO.- Notifíquese por estrados.
 
 TERCERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+Único.- Las reformas al presente reglamento entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
