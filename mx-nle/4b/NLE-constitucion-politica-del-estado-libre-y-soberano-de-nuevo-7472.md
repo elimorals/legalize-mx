@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2006-09-10"
+last_updated: "2006-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -463,9 +463,17 @@ XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado serv
 
 XII.- Gestionar la solución de las demandas de los nuevoleoneses.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
-XIII.- Fiscalizar, revisar, vigilar, evaluar y aprobar o rechazar en su caso, las cuentas públicas, el ejercicio financiero y las cuentas de cobro e inversión de los caudales públicos del Estado y los Municipios, previo informe que envíen el Gobernador y la representación legal de los Municipios, respectivamente.
+XIII.- Fiscalizar, revisar, vigilar, evaluar, aprobar o rechazar en su caso con el apoyo del Órgano de Fiscalización Superior del Estado de Nuevo León, las cuentas públicas del Estado y los municipios, previo informe que envíen el Gobernador y la representación legal de los municipios, respectivamente.
+
+El Órgano de Fiscalización Superior del Estado de Nuevo León tendrá personalidad jurídica y autonomía financiera, técnica y de gestión.
+
+El Congreso del Estado coordinará y evaluará, sin perjuicio de la autonomía financiera, técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado de Nuevo León, de acuerdo con la Ley de la Materia.
+
+Para tal efecto deberá expedir la Ley que regule la creación organización y atribuciones del Órgano de Fiscalización Superior del Estado de Nuevo León, y emitir la convocatoria para elegir al Auditor General del Estado, el cual será electo por consenso, a falta de este por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación, se remitirá de nueva cuenta el dictamen a la Comisión correspondiente para que formule nueva convocatoria.
+
+Si de la revisión practicada por el Órgano de Fiscalización Superior del Estado de Nuevo León, aparecieran discrepancias entre los ingresos o egresos o no existiera exactitud o justificación entre los ingresos o gastos realizados, se fincarán las responsabilidades de conformidad con las disposiciones aplicables.
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
@@ -473,13 +481,13 @@ XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos 
 
 XV.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo, que hubiere hecho la autoridad electoral correspondiente.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
-XVI.- Recibir del Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Acceso a la Información Pública, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ellas emanen.
+XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Acceso a la Información Pública, Comisionados Ciudadanos de la Comisión Estatal Electoral, Auditor General del Estado y, Magistrados del Tribunal Electoral del Estado en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
-XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados de la Comisión de Acceso a la Información Pública, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada.
+XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado, Auditor General del Estado y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada.
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
@@ -1537,11 +1545,11 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 Los presidentes municipales de los ayuntamientos no podrán ser electos para el periodo inmediato, en municipio diverso al cual se desempeñaron como tales.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 125.
 
-Los Ayuntamientos enviarán, al Congreso del Estado las cuentas públicas del ejercicio anterior, para que este las apruebe o rechace en su caso, dentro de los seis meses siguientes a la fecha en que fue recibido por la Comisión de Dictamen correspondiente el informe definitivo elaborado por la Contaduría Mayor de Hacienda, o en su caso, informe de auditoria especial. En tal sentido, para la aprobación o rechazo de las cuentas referidas, el Congreso del Estado deberá contar, previamente, con los informes que al respeto formule la Contaduría Mayor de Hacienda.
+Los Ayuntamientos enviarán al H. Congreso del Estado las cuentas públicas del ejercicio anterior, para que éste las apruebe o rechace en su caso, contando previamente para tal efecto con el informe de resultados enviado por el Órgano de Fiscalización Superior del Estado, en términos de la Ley de Fiscalización Superior del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -1787,9 +1795,11 @@ Para que las adiciones o reformas propuestas sean aprobadas, y se tengan como pa
 
 Para las adiciones o reformas a que se refieren los artículos anteriores se guardarán las mismas reglas que quedan prescritas respecto de las leyes comunes, excepto el derecho de observaciones que no podrá ejercer el Gobernador, según la fracción III del art. 86.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Art. 152.
 
-Las leyes a que se refieren los artículos 45, 63 fracción XIX, 94, 95 y 118 son Constitucionales y en su reforma se guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
+Las leyes a que se refieren los artículos 45, 63 fracciones XIII y XIX, 94, 95 y 118 son constitucionales y en su reforma se guardarán las mismas reglas que en las que cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -3018,3 +3028,7 @@ P.O. 10 DE SEPTIEMBRE DE 2006.
 DECRETO NUMERO 405, QUE REFORMA LOS ARTICULOS 94, 96 Y 97.
 
 Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
