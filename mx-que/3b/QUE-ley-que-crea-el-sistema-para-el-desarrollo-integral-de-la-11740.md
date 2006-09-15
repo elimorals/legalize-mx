@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-sistema-para-el-desarrollo-integral-de-la-11740
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2003-09-24"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
-Ley Publicada en el Periódico Oficial del Estado de Querétaro de Arteaga, el jueves 26 de diciembre de 1985.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
@@ -261,7 +261,9 @@ I.- Proporcionar orientación y Asistencia Jurídica a las personas de escasos r
 
 II.- Actuar con interés jurídico ante las Autoridades y Tribunales competentes, cuando discrecionalmente considere afectados los derechos de menores, mayores incapaces, ancianos, minusválidos, y mujeres en periodos de gestación o lactancia, en estado de abandono o marginación y víctimas de maltrato, respetando siempre las atribuciones y funciones que las Leyes encomiendan a otras Autoridades.
 
-III.- Ejercer la defensa de los menores infractores.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Proporcionar rehabilitación y asistencia social en los términos que establece la Ley de Justicias para Menores para el Estado de Querétaro, a las personas menores de doce años que hayan realizado una conducta tipificada como delito por las leyes del Estado.
 
 IV.- Representar legalmente a los menores, en materia de derecho familiar, sin que sea necesario el otorgamiento de poder de parte de quién ejerza la patria potestad, la tutela o custodia.
 
@@ -363,7 +365,7 @@ EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE JUNIO DE 1993
 
@@ -378,6 +380,16 @@ PRIMERO.- La presente reforma entrará en vigor el día primero de octubre de 20
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
 
 TERCERO.- Los sistemas municipales para el Desarrollo Integral de la Familia, que no estén estructurados y organizados conforme a las disposiciones aplicables para el Sistema Estatal para el Desarrollo Integral de la Familia, deberán adecuar sus ordenamientos legales de creación a efecto de cumplir con la normatividad aplicable, contando con un término no mayor a 90 días contados a partir de la entrada en vigor de la presente reforma.
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
 
 ### CAPITULO VIII. DEL DIRECTOR AMINISTRATIVO
 
