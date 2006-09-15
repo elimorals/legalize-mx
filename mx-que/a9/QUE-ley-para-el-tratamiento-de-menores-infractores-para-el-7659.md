@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-tratamiento-de-menores-infractores-para-el-7659"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "2006-07-14"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA EL TRATAMIENTO PARA MENORES INFRACTORES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA MENORES PARA EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 16 de diciembre de 1993.
 
@@ -1222,3 +1224,17 @@ P.O. 17 DE DICIEMBRE DE 2004.
 P.O. 14 DE JULIO DE 2006.
 
 ÚNICO. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la Ley para el Tratamiento de Menores Infractores para el Estado, publicado en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga" el 16 de diciembre de 1993.
+
+TERCERO. Los órganos y autoridades que se establecen en la presente Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+
+QUINTO. Las autoridades y organismos que participan en el Sistema Integral de Justicia para Menores, están obligados a aplicar lo dispuesto por la presente Ley, en la medida de los recursos humanos y materiales con que cuenten. No obstante lo anterior, tendrán un plazo de ocho meses, contados a partir del inicio de la vigencia de la Ley, a efecto de implementar lo necesario para la total aplicación de la misma.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
