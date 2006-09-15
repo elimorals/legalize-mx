@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-el-sistema-estatal-de-asistencia-social-9416"
 country: "mx"
 rank: "ley"
 publication_date: "1986-07-17"
-last_updated: "1986-07-17"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de julio de 1986.
 
@@ -43,13 +43,17 @@ Esta Ley es de orden público e interés social y tiene por objeto establecer la
 
 El Gobierno del Estado proporcionará en forma prioritaria servicios de Asistencia Social encaminados al Desarrollo Integral de la Familia, entendida ésta como la célula de la sociedad, y proveer a sus miembros de los elementos necesarios en las diferentes etapas y circunstancias de su desarrollo, así como apoyar en su formación, subsistencia y desarrollo a individuos con carencias esenciales no superables por ellos mismos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 3.
 
-Son sujetos de la recepción de los servicios de Asistencia Social, preferentemente, los siguientes:
+Son sujetos de la recepción de los Servicios de Asistencia Social, preferentemente, los siguientes:
 
 I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a mal trato;
 
-II.- Menores Infractores, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de los que establezca la Legislación Penal o los Reglamentos aplicables;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Los menores de doce años de edad a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes del Estado, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de los que establezca la Ley de Justicia para Menores para el Estado de Querétaro y las demás que resulten aplicables;
 
 III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
 
@@ -346,3 +350,15 @@ LIC. MARIANO PALACIOS ALCOCER
 EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIO DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
