@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2006-06-16"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2825,9 +2825,13 @@ V.- La confesión de la deuda hecha, ante juez competente, por el deudor o por s
 
 VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios o en cualquiera otra forma;
 
-VII.- Las pólizas originales de contratos celebrados con intervención de corredor público; y
+VII.- Las pólizas originales de contratos celebrados con intervención de corredor público; y (sic)
 
-VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetados a él expresamente o lo hubieren aprobado.
+VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetados a él expresamente o lo hubieren aprobado;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Las sentencias que causen ejecutoria y acuerdos conciliatorios derivados de procedimientos en la Ley de Justicia de Menores para el Estado de Querétaro.
 
 ###### ARTÍCULO 453.
 
@@ -6694,3 +6698,13 @@ P.O. 16 DE JUNIO DE 2006.
 PRIMERO.- La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
