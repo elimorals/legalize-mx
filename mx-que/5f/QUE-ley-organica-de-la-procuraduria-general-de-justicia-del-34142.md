@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-34142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-24"
-last_updated: "2003-09-24"
+last_updated: "2006-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 24 de septiembre de 2003.
 
@@ -229,7 +229,31 @@ VIII. Velar por el respeto de los derechos humanos en la esfera de su competenci
 
 IX. Cuando lo solicite la víctima o el ofendido, informarle de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos y las leyes locales, e informarle del desarrollo del procedimiento penal en el que resulte ofendido, y en el período de preparación del ejercicio de la acción penal, recibirle y desahogar los medios de prueba que le aporte, auxiliándole cuando sea necesario a obtenerlos. Cuando se considere que no es necesaria la recepción de los medios de prueba que proponga el ofendido o la víctima, por ser contrario a derecho, a la moral, a las buenas costumbres, por no ser pertinente o por cualquier otra causa, el Ministerio Público deberá fundar y motivar su negativa;
 
-X. Propiciar la conciliación para llegar a arreglos entre las partes, derivados de conflictos que puedan tener por origen un hecho posiblemente constitutivo de delito que sólo sea perseguible por querella, sin demérito del derecho que el ofendido tiene para ejercer su derecho a querellarse y así dar inicio a las diligencias de preparación del ejercicio de la acción penal.
+X. Propiciar la conciliación para llegar a arreglos entre las partes, derivados de conflictos que puedan tener por origen un hecho posiblemente constitutivo de delito que sólo sea perseguible por querella, sin demérito del derecho que el ofendido tiene para ejercer su derecho a querellarse y así dar inicio a las diligencias de preparación del ejercicio de la acción penal;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+XI. En lo relativo al Sistema Integral de Justicia para Menores:
+
+a. Prevenir, investigar y perseguir los hechos que siendo tipificados como delitos por las leyes del Estado sean cometidos por menores de edad y que sean de la competencia de los Tribunales del Estado de Querétaro;
+
+b. Velar en todo momento por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los menores sujetos a la Ley de Justicia para Menores para el Estado de Querétaro, así como de las víctimas de los hechos presuntamente realizados por los menores;
+
+c. Informar de inmediato al menor, a sus familias y a su defensor, su situación jurídica y los derechos que les asisten;
+
+d. Realizar lo conducente para que sea asignado un defensor público al menor desde el momento en el que sea puesto a su disposición;
+
+e. Formular la consignación y poner inmediatamente a los menores a disposición de la autoridad competente;
+
+f. Procurar, en los casos que establezca la Ley de Justicia para Menores para el Estado de Querétaro, la conciliación entre el menor y la víctima u ofendido;
+
+g. Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos; y
+
+h. Solicitar la reparación del daño para la víctima cuando proceda, y realizar todas las acciones tendientes a obtenerla.
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Las demás que determine la ley.
 
 ###### Artículo 5.
 
@@ -271,9 +295,9 @@ Los Vehículos de motor o propulsión mecánica y otros objetos de uso lícito c
 
 VIII. Solicitar ante el órgano jurisdiccional la aplicación de las medidas cautelares y la práctica de diligencias que legalmente procedan y que el Ministerio Público no pueda ordenar;
 
-IX. Cuando se le haya puesto a disposición a un menor de dieciocho años y mayor de once, tan pronto se demuestre su edad a través de medio idóneo, enviarlo de inmediato al Consejo de Menores, remitiéndole las diligencias urgentes que con tal motivo se hayan practicado.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
-Si se presenta denuncia o querella y el indiciado resulta ser menor de dieciocho años y mayor de once, sin que haya detenido; tan pronto se demuestre esa circunstancia, remitirá las diligencias practicadas al Consejo de Menores para que éste proceda conforme a la ley de la materia
+IX. Cuando conozca de denuncia o querella cuyo presunto responsable sea un menor o se le haya puesto a disposición a un menor, consignará ante la autoridad competente, en los términos establecidos por la Ley de Justicia para Menores para el Estado de Querétaro.
 
 X. Proporcionar seguridad y auxilio a las víctimas y a testigos del delito que depongan en contra de los imputados, evitar que el ilícito se siga cometiendo y dictar todas las providencias necesarias para impedir que se pierdan, destruyan o alteren las huellas, o vestigios del hecho delictuoso, así como los instrumentos, cosas, objetos o efectos del delito.
 
@@ -353,7 +377,11 @@ VI. Instituto de Capacitación Técnica y Profesional;
 
 VII. Archivo General;
 
-VIII. Las coordinaciones, unidades, departamentos, Jefaturas, supervisiones y demás personal de apoyo administrativo que sea necesario.
+VIII. Las coordinaciones, unidades, departamentos, Jefaturas, supervisiones y demás personal de apoyo administrativo que sea necesario;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+
+XI (sic). Los Agentes del Ministerio Público especializados en materia de justicia para menores que sean necesarios.
 
 El Procurador podrá aumentar el número de Agentes del Ministerio Público y Agentes de Policía Investigadora Ministerial, según lo exijan las necesidades del servicio.
 
@@ -1414,3 +1442,15 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE FORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
