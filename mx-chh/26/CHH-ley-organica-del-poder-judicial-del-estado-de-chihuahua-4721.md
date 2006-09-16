@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2006-08-09"
+last_updated: "2006-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -43,11 +43,15 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
 Esta Ley reglamenta la estructura y funcionamiento del Poder Judicial del Estado de Chihuahua.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 2.
 
-En el fuero común y dentro del territorio del Estado, la potestad de aplicar las leyes en materia civil, incluída la familiar, y en materia penal corresponde al Poder Judicial, que además estará facultado para resolver las controversias que señala la Constitución Política del Estado.
+Corresponde al Poder Judicial, en el fuero común y dentro del territorio del Estado, en materia civil, familiar, penal y de justicia para adolescentes infractores:
+
+I.- Aplicar las leyes; y,
+
+II.- Resolver las controversias que señala la Constitución Política del Estado.
 
 ###### ARTICULO 3.
 
@@ -55,9 +59,13 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 I.- El Supremo Tribunal de Justicia;
 
-II.- Los Juzgados de Primera Instancia;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Los Juzgados Menores; y
+II.- Los Juzgados de Primera Instancia y los especializados para adolescentes infractores;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Los Juzgados Menores; y,
 
 IV.- Los Juzgados de Paz.
 
@@ -279,9 +287,9 @@ La declaración deberá presentarse ante el Secretario General del Supremo Tribu
 
 La falsedad del contenido de la declaración o la omisión de presentarla en los plazos señalados, será motivo de cese definitivo del infractor en sus funciones. Lo anterior sin perjuicio de que si el Pleno lo estima pertinente, se dé conocimiento de los hechos a las autoridades respectivas. En el caso de la fracción III, su incumplimiento inhabilitará al infractor hasta por diez años, para ser designado en un nuevo cargo en el Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL Y DE LA CARRERA JUDICIAL
+### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL Y CARRERA JUDICIAL
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -297,11 +305,11 @@ En tales procedimientos se tomará en cuenta la eficiencia, honradez, responsabi
 
 Podrá disponerse también la práctica de exámenes sicométricos cuando se consideren indispensables para un mejor servicio público.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 34.
 
-Las vacantes de jueces de primera instancia, la del Director General del Centro Estatal de Mediación, así como las de los Administradores de los Tribunales, se cubrirán mediante concurso de méritos y de oposición.
+Las vacantes de Jueces de Primera Instancia y de especializados para adolescentes infractores, así como la del Director General del Centro Estatal de Mediación, se cubrirán mediante concurso de méritos y de oposición.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -515,13 +523,17 @@ III. Convocar a concurso de méritos, en los términos del artículo 103 de la C
 
 IV. Elegir la terna para los efectos del artículo 68 de esta Ley.
 
-V. Convocar a concurso de oposición para designación de jueces de primera instancia, Director General del Centro Estatal de Mediación y, en su caso, de los Administradores de los Tribunales. Hacer el nombramiento correspondiente de los mismos. Declarar, a solicitud del interesado, cuando algunos (sic) de los jueces ha devenido inamovible, con excepción del Director General del Centro Estatal de Mediación y los Administradores de los Tribunales, quienes no gozarán de tal derecho.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+V. Convocar a concurso de oposición para la designación de Jueces de Primera Instancia y especializados para adolescentes Infractores, Director General del Centro Estatal de Mediación y en su caso de los Administradores de los Tribunales. Hacer el nombramiento correspondiente de los mismos. Declarar, a solicitud del interesado, cuando alguno de los Jueces ha devenido inamovible, con excepción del Director General del Centro Estatal de Mediación y los Administradores de los Tribunales, quienes no gozarán de tal derecho.
 
 VI. Encomendar el trámite y dictamen de algún asunto, cuya resolución corresponda al Pleno, a alguna de las salas o juzgados.
 
 VII. De oficio o a petición del magistrado, atraer cualquier asunto que por su trascendencia considera conveniente resolver.
 
-VIII. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+VIII. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo, con excepción de las especializadas para adolescentes infractores.
 
 IX. Crear y suprimir juzgados, establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia. Lo mismo procederá en los casos de las Subdirecciones Regionales de Mediación, en los términos de su ley.
 
@@ -557,11 +569,15 @@ XXII. Revocar, modificar o confirmar las providencias provisionales que hubiere 
 
 XXIII. Revocar o modificar a petición de alguno de los magistrados, los acuerdos adoptados en sesiones anteriores.
 
-XXIV. Autorizar el cambio de radicación de los procesos penales, cuando lo solicite el imputado o el Procurador General de Justicia del Estado, si mediare alguna razón concreta y grave que lo justifique.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+XXIV. Si mediare alguna razón concreta y grave que lo justifique, autorizar el cambio de radicación de los procesos penales y de los instaurados a adolescentes infractores, cuando lo solicite el Procurador General de Justicia del Estado, el imputado, el adolescente o su representante.
 
 XXV. Resolver las contradicciones de criterios jurisdiccionales que se manifestaren entre las salas del Tribunal.
 
-XXVI. Iniciar ante el Congreso leyes y decretos en materia civil, incluida la familiar, penal, procesal y de organización de tribunales.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+XXVI. Iniciar ante el Congreso leyes y decretos en materia civil, familiar, penal, de justicia especializada para adolescentes infractores, procesal y de organización de tribunales.
 
 XXVII. Interpretar, con efectos vinculatorios para los tribunales del Estado, las disposiciones de esta Ley, de sus reglamentos y de las leyes a que se refiere la fracción anterior.
 
@@ -655,9 +671,13 @@ X.- Someter oportunamente a consideración del Pleno el anteproyecto de Presupue
 
 XI.- Proveer de manera provisional los asuntos que sean de la competencia del Pleno y en su oportunidad, dar cuenta al mismo para su resolución definitiva;
 
-XII.- Disponer o permitir que los Jueces de Primera Instancia se trasladen temporalmente del lugar de su residencia a otro punto de su Distrito, cuando sea conveniente para agilizar el despacho de los asuntos de la competencia de éstos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-XIII.- Recibir la protesta de los Jueces de Primera Instancia del Estado, así como de los funcionarios y empleados del Supremo Tribunal de Justicia y sus Dependencias cuando la ley no disponga que deba hacerse de otra manera;
+XII.- Disponer o permitir que los Jueces de Primera Instancia y los Especializados para Adolescentes Infractores se trasladen temporalmente del lugar de su residencia a otro punto de su Distrito, cuando sea conveniente para agilizar el despacho de los asuntos de la competencia de éstos;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+XIII.- Recibir la protesta de los Jueces de Primera Instancia del Estado, de los Especializados para Adolescentes Infractores, así como de los funcionarios y empleados del Supremo Tribunal de Justicia y sus Dependencias cuando la ley no disponga que deba hacerse de otra manera;
 
 XIV.- Encomendar a los Jueces del Estado, conforme a su ramo, la práctica de diligencias en asuntos de su competencia o del Pleno;
 
@@ -671,7 +691,9 @@ XVII.- Ordenar la práctica de averiguaciones sobre la conducta de los Jueces y 
 
 XVIII.- Llevar la estadística del Pleno y la Presidencia en particular y en general, organizar la estadística judicial del Estado;
 
-XIX.- Disponer la forma de distribución de los asuntos que deban conocer los Jueces de Primera Instancia cuando haya dos o más en la misma localidad;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+XIX.- Disponer la forma de distribución de los asuntos de que deban conocer los Jueces de Primera Instancia y los Especializados para Adolescentes Infractores cuando haya dos o más en la misma localidad;
 
 XX.- Calificar las excusas y recusaciones del Secretario General;
 
@@ -725,13 +747,19 @@ Las providencias y acuerdos del Presidente podrán reclamarse ante el Pleno, sie
 
 ### CAPITULO IV. DE LAS SALAS
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 59.
 
-Las Salas serán unitarias o colegiadas y el Pleno determinará la materia sobre la que conocerá cada una. Existiendo varias de un mismo ramo se les designará por orden numérico. En materia penal las Salas serán colegiadas para conocer de los recursos de casación y revisión, pero serán unitarias para conocer del recurso de apelación en todos los casos.
+Las Salas serán unitarias o colegiadas y el Pleno determinará la materia sobre la que conocerá cada una. Existiendo varias de un mismo ramo se les designará por orden numérico.
 
-El recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y el recurso de revisión deberán conocerlo Magistrados que no hubieren intervenido en el mismo asunto en casación.
+En materia penal:
+
+l. Las Salas serán colegiadas para conocer de los recursos de casación y revisión y serán unitarias para conocer del recurso de apelación en todos los casos.
+
+II. El recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y el recurso de revisión deberán conocerlo Magistrados que no hubieren intervenido en el mismo asunto en casación.
+
+Las Salas especializadas para adolescentes infractores siempre serán unitarias y conocerán de los recursos de apelación y casación, los que, aunque atañan a un mismo proceso, pueden resolverse por una misma Sala.
 
 ###### ARTICULO 60.
 
@@ -761,13 +789,19 @@ l. Conocer, cada uno en su ramo, de los recursos contra resoluciones dictadas po
 
 II. Conocer de los asuntos en los que la ley establezca la revisión de oficio;
 
-III. Dirimir en su ramo las cuestiones de competencia que se susciten entre los Jueces, salvo los supuestos expresamente señalados en la ley. En el caso de que haya varios jueces de primera instancia en un mismo distrito que puedan ser declarados competentes, el Magistrado remitirá el asunto a que corresponda, según el turno que lleve la Presidencia del Supremo Tribunal para los juzgados;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-IV. Calificar cada uno en su ramo, las recusaciones de los Jueces de Primera Instancia y las recusaciones y excusas de los Secretarios de la Sala de su adscripción;
+III. Dirimir en su ramo las cuestiones de competencia que se susciten entre los Jueces, salvo los supuestos expresamente señalados en la ley. En el caso de que haya varios Jueces de Primera Instancia o Especializados para adolescentes infractores en un mismo Distrito que puedan ser declarados competentes, el Magistrado remitirá el asunto al que corresponda, según el turno que lleve la Presidencia del Supremo Tribunal para los Juzgados;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Calificar cada uno en su ramo, las recusaciones de los Jueces de Primera Instancia, las de los Jueces Especializados para adolescentes infractores y las recusaciones y excusas de los Secretarios de la Sala de su adscripción;
 
 V. Remitir al Tribunal Pleno, dentro de los cinco primeros días de cada mes, una noticia sobre el movimiento de negocios habidos en la Sala durante el mes anterior, especificando el estado que guarden los negocios existentes en ellas y la naturaleza de las resoluciones pronunciadas y una anual dentro de los primeros cinco días del mes de enero de cada año;
 
-VI. Constituirse, en Salas Penales unitarias, como únicos superiores jerárquicos de los jueces del Estado, para conocer, por riguroso turno, de los amparos a que se refiere el artículo 107 de la Constitución Federal. La tramitación de dichos asuntos se sujetará a los procedimientos fijados en la ley Federal respectiva;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Penales o Especializadas para adolescentes infractores, constituirse, según su materia, como únicos superiores jerárquicos de los Jueces del Estado, para conocer, por riguroso turno, de los amparos a que alude el artículo 107 de la Constitución Federal. La tramitación de dichos asuntos se sujetará a los procedimientos fijados en la Ley Federal relativa;
 
 VII. Imponer correcciones disciplinarias en la forma que lo autoricen las leyes;
 
@@ -794,6 +828,10 @@ Si todos los Magistrados del mismo ramo se inhibieren del conocimiento de un asu
 Inhibidos del conocimiento de un negocio todos los Magistrados, éstos serán sustituidos por los Jueces de Primera Instancia del Distrito Morelos que correspondan al ramo al que pertenezca el asunto, empezando por el de asignación más baja y agotados éstos, pasará a un Juez de otro ramo en el mismo orden que se ha venido señalando. Para los efectos de este artículo, los Juzgados Familiares se considerarán como del ramo civil con una asignación más alta que la de los correspondientes a esa materia. El Juez o los Jueces que conozcan del asunto actuarán como integrantes del tribunal de alzada únicamente para dichos efectos.
 
 Si el Magistrado originalmente inhibido se separare de sus funciones definitivamente o por más de sesenta días, volverá el negocio al despacho de origen para que lo continúe el funcionario que lo ha de sustituir.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+Para los efectos de este artículo, los Magistrados Especializados para adolescentes infractores se equipararán a los Magistrados penales y se entenderá que su asignación es consecutiva a la de éstos.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -1283,17 +1321,15 @@ XI.- Las demás que prescriban las leyes.
 
 ### CAPITULO XI. DE LA DEFENSORIA DE OFICIO
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 101.
 
-La Defensoría de Oficio del Estado tiene por objeto patrocinar, en materia penal, en los términos del artículo 20 de la Constitución Federal, a los procesados que no cuenten con defensor particular; y en materia civil y familiar, a las personas que carezcan de recursos económicos suficientes para pagar un abogado o cuando teniéndolos, a juicio del Juez sea urgente su designación.
+La Defensoría de Oficio del Estado tiene por objeto patrocinar, en materia Penal y de justicia especializada para adolescentes infractores, en los términos del artículo 20 de la Constitución Federal, a los procesados que no cuenten con defensor particular; y en materia Civil y Familiar, a las personas que carezcan de recursos económicos suficientes para pagar un abogado o cuando teniéndolos, a juicio del Juez sea urgente su designación.
 
-En materia familiar, el Defensor de Oficio tendrá el carácter de mandatario de la persona a quien el Juez le comisione su patrocinio.
+En materia Familiar, el Defensor de Oficio tendrá el carácter de mandatario de la persona a quien el Juez le comisione su patrocinio.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1996)</small>
-
-El Supremo Tribunal de Justicia organizará y mantendrá capacitado, un cuerpo de defensores de oficio que actuarán en favor de los indígenas sujetos a proceso penal o que sean parte en juicios de carácter civil.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1996)</small>
+El Supremo Tribunal de Justicia organizará y mantendrá capacitado, un cuerpo de defensores de oficio que efectuarán en favor de los indígenas sujetos a proceso penal o que sean parte en juicios de carácter civil.
 
 El Supremo Tribunal de Justicia, cuando así lo solicite expresamente el Ministerio Público, ordenará que los citados defensores de oficio representen y asesoren a los indígenas desde el inicio de la etapa de la averiguación previa.
 
@@ -1411,7 +1447,9 @@ III.- Promover todas las pruebas necesarias, solicitando la práctica de las dil
 
 IV.- Tramitar los recursos que favorezcan a sus patrocinados solicitando, cuando proceda, los beneficios que concedan las leyes y en general, hacer todas las gestiones que favorezcan a quienes prestan sus servicios, incluyendo la interposición del juicio de amparo cuando se requiera;
 
-V.- Atender con honestidad, responsabilidad y buen trato a sus patrocinados; oír a los presos en el interior de los reclusorios, cuando menos una vez por semana;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Atender con honestidad, responsabilidad y buen trato a sus patrocinados; oír a los detenidos en el interior de los reclusorios o centros de internamiento especializados para adolescentes Infractores, cuando menos una vez por semana;
 
 VI.- Presentarse diariamente a los Tribunales para asistir a las diligencias correspondientes, oír notificaciones o aceptar nombramientos, debiendo permanecer en las oficinas todo el tiempo necesario para la debida atención de su encomienda;
 
@@ -1429,6 +1467,8 @@ XII.- Aceptar los cargos que se les confieran si no existe impedimento o excusa 
 
 XIII.- Todas las demás que les señalen las leyes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 116.
 
 Los empleados subalternos de las oficinas de la Defensoría, realizarán todas las actividades que con motivo del ejercicio de su encargo les encomienden los Defensores de la oficina de su adscripción.
@@ -1437,7 +1477,9 @@ Los empleados subalternos de las oficinas de la Defensoría, realizarán todas l
 
 Son causa de responsabilidad de los Defensores:
 
-I.- Ausentarse frecuentemente de sus oficinas o de las prisiones y hospitales a donde fueren llamados por sus defensos o no permanecer en las primeras todo el tiempo necesario para el buen desempeño de su función;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Ausentarse frecuentemente de sus oficinas, de las prisiones, de los Centros de internamiento especializados para adolescentes infractores y hospitales a donde fueren llamados por sus defensos o no permanecer en las primeras todo el tiempo necesario para el buen desempeño de su función;
 
 II.- No obedecer el Reglamento en lo que se refiere a horas de despacho;
 
@@ -1767,7 +1809,9 @@ VII.- Mantener una actualización constante sobre los avances tecnológicos y ci
 
 VIII.- Computarizar las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
 
-IX.- Capturar datos procedentes de los juzgados de primera instancia y de las Salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de estar en posibilidad de efectuar un seguimiento de los mismos, por medio del sistema de computación; Para tal efecto, los titulares de las instancias referidas tendrán la obligación de proporcionar oportunamente la información correspondiente;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+IX.- Capturar datos procedentes de los juzgados de primera instancia, de los Juzgados Especializados para adolescentes infractores y de las Salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de estar en posibilidad de efectuar un seguimiento de los mismos, por medio del sistema de computación, Para tal efecto, los titulares de las instancias referidas tendrán la obligación de proporcionar oportunamente la información correspondiente;
 
 X.- Proporcionar a través de los medios electrónicos necesarios y previo acuerdo del Pleno, con base en los registros computarizados que se obtengan, información actualizada del estado procesal de los juicios a aquellas personas que sean partes o que legalmente puedan tener acceso a los mismos;
 
@@ -1775,7 +1819,9 @@ XI.- Mantener y conservar actualizados registros estadísticos de juicios y proc
 
 XII.- Elaborar y mantener actualizado el registro computarizado de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por la Presidencia del Supremo Tribunal de Justicia;
 
-XIII.- Apoyar al departamento correspondiente en la elaboración del Boletín Judicial en el que se publicarán las listas de acuerdos dictados por el Pleno, la Presidencia, las Salas y los Juzgados de Primera Instancia que el Pleno determine y aquellas otras actividades que la ley señale deban incluirse en dicho instrumento;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+XIII.- Apoyar al departamento correspondiente en la elaboración del Boletín Judicial en el que se publicarán las listas de acuerdos dictados por el Pleno, la Presidencia, las Salas, los Juzgados de Primera Instancia y los Especializados para adolescentes infractores que el Pleno determine y aquellas otras actividades que la ley señale deban incluirse en dicho instrumento;
 
 XIV.- Auxiliar por medio del procesamiento de datos a la Oficialía Mayor y a los departamentos de Presupuesto y Control Presupuestal, en la elaboración de patrones-nómina, plantillas, recibos y remuneraciones que otorgue el Tribunal por concepto de servicios personales, incapacidades, licencias u otros;
 
@@ -2033,43 +2079,49 @@ ARTICULO 145 y.- El Personal que integre la Unidad de Información tendrá la ob
 
 ## TITULO QUINTO. DE LOS JUZGADOS DEL ESTADO
 
-### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA Y ESPECIALIZADOS PARA ADOLESCENTES INFRACTORES
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 146.
 
-Los Juzgados de Primera Instancia podrán ser de los ramos civil, familiar o penal o mixtos. Tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
+Los juzgados de primera instancia podrán ser de los ramos civil, familiar, penal o mixtos. Tales juzgados, al igual que los Especializados para adolescentes infractores, tendrán jurisdicción en todo su distrito y residirán en la cabecera de éste, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
 
-La Jurisdicción de primera instancia en materia penal estará a cargo de los jueces de garantía y de los tribunales de juicio oral, en los términos de la legislación procesal.
+La jurisdicción de primera instancia en materia penal y la especializada para adolescentes infractores estará a cargo de jueces, en los términos de la legislación procesal correspondiente.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 147.
 
-El pleno determinará, conforme a las necesidades de trabajo, el número de juzgados de primera instancia, su ubicación, así como la materia o materias de las que deban conocer y, en su caso, la creación de juzgados itinerantes.
+El pleno determinará, conforme a las necesidades de trabajo, el número de Juzgados de Primera Instancia y Especializados para adolescentes infractores, su ubicación, así como, tratándose de los primeros, la materia o materias de las que deban conocer.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 148.
 
-Los Jueces de Primera Instancia serán nombrados por el Pleno en la forma y términos que establece la Constitución Política del Estado y esta Ley Orgánica. Rendirán la protesta de ley ante el Presidente del Tribunal.
+Los Jueces de Primera Instancia y los Especializados para adolescentes infractores serán nombrados por el pleno en la forma y términos que establece la Constitución Política del estado y esta ley orgánica. Rendirán la protesta de ley ante el Presidente del tribunal.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 149.
 
-En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia trasladarse del lugar de su residencia a otro punto de su Distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo penal o del familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del Juzgado del lugar de su ubicación a otro punto de su Distrito, previo aviso al Presidente del Tribunal.
+En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia y los Especializados para adolescentes infractores trasladarse del lugar de su residencia a otro punto de su distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo Penal, Especializado para adolescentes infractores o del Familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del juzgado del lugar de su ubicación a otro punto de su distrito, previo aviso al Presidente del tribunal.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 149 BIS.- Los tribunales de juicio en materia penal se integrarán siempre colegiadamente con tres jueces.
+ARTICULO 149 BIS.- Los tribunales de juicio en materia penal se integrarán siempre colegiadamente con tres jueces; y con uno, los de juicio especial para adolescentes infractores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 150.
 
-Corresponde a los jueces de primera instancia de acuerdo a su ramo:
+Corresponde a los jueces de primera instancia de acuerdo a su ramo y a los especializados para adolescentes infractores:
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-I.- Conocer de los asuntos civiles, familiares o penales que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
+I.- Conocer de los asuntos civiles, familiares, penales o los relativos a adolescentes infractores que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
 
 II.- (DEROGADA, P.O. 9 DE AGOSTO DE 2006)
 
@@ -2111,27 +2163,41 @@ I. Otorgar las autorizaciones judiciales previas que solicite el Ministerio Púb
 
 II. Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promueven en ellas;
 
-III. Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-IV. Resolver sobre la vinculación a proceso de los imputados;
+III. Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados o adolescentes infractores;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Resolver sobre la vinculación a proceso de los imputados o de los adolescentes infractores;
 
 V. Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la ley;
 
-VI. Dirigir la audiencia intermedia;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Los de causas instruidas a personas mayores de edad al cometer el delito, dirigir la audiencia intermedia;
 
 VII. Dictar sentencia en el procedimiento abreviado; y
 
 VIII. Las demás que le otorgue la ley.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 150 TER.- Los Tribunales de juicio oral en materia penal tienen las siguientes atribuciones:
+ARTICULO 150 TER.- Los Tribunales de juicio oral en materia penal y los Jueces Especializados de juicio oral para adolescentes infractores tienen las siguientes atribuciones:
 
-l. Conocer y juzgar las causas penales;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+l. Conocer y juzgar los procesos sometidos a su conocimiento;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 II. Resolver todas las cuestiones que se presentan durante el juicio;
 
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2006)</small>
+
 III. Dictar sentencia con base en las pruebas presentadas durante la audiencia de juicio; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 IV. Las demás que les otorgue la ley.
 
@@ -2161,9 +2227,9 @@ En los lugares en que hubiere más de un Juez, el Encargado del Registro y la No
 
 Las ausencias absolutas de los jueces de primera instancia Civiles o Familiares serán cubiertas en la forma que lo determina la Constitución Política del Estado y esta Ley. Las temporales serán cubiertas por el Secretario de Acuerdos del Juzgado o por un interino cuando el Pleno así lo designe y las accidentales por el Secretario de Acuerdos del juzgado. En todos estos casos y durante la ausencia del titular, el Secretario quedará encargado del despacho hasta que su titular propietario o interino, asuma sus funciones y tendrá todas las facultades del Juez, incluida la de dictar sentencia definitiva.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 154 BIS.- Las ausencias absolutas de los jueces de primera instancia del ramo penal serán cubiertas en la forma que determina la Constitución Política del Estado y esta ley. Las temporales y accidentales serán cubiertas por un juez de la misma jerarquía de acuerdo al orden y distribución de trabajo que el Pleno determine.
+ARTICULO 154 BIS.- Las ausencias absolutas de los jueces de primera instancia del ramo penal y las de los jueces especializados para adolescentes infractores serán cubiertas en la forma que determina la Constitución Política del Estado y esta ley. Las temporales y accidentales, por un juez de la misma jerarquía de acuerdo al orden y distribución de trabajo que el Pleno determine.
 
 ###### ARTICULO 155.
 
@@ -2174,6 +2240,10 @@ Para los efectos de esta disposición, tratándose de Jueces de lo Civil, agotad
 Agotados los Jueces de Primera Instancia, se remitirá el negocio a los de Primera Instancia del Distrito más cercano, aplicándose en lo conducente las mismas reglas señaladas en los párrafos anteriores. Al separarse en sus funciones por más de noventa días o definitivamente el Juez inhibido o recusado, volverá el asunto al Juzgado de su origen.
 
 Para los efectos de esta disposición y la que sigue, se entenderá por más cercano aquel Distrito con cuya cabecera sea más rápida la comunicación terrestre.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 155 BIS.- Para los efectos de los dos artículos anteriores, los jueces penales de primera instancia se equipararán a los especializados para adolescentes infractores y se entenderá que la asignación de éstos es consecutiva a la de aquéllos.
 
 ###### ARTICULO 156.
 
@@ -2385,33 +2455,33 @@ Cuando un Juez conozca tanto de asuntos civiles como penales, dará preferencia 
 
 Los Jueces del Estado tendrán a su cargo, en su caso, el local donde se halle instalado el Juzgado de su adscripción, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento del Oficial Mayor, cualquier deterioro que sufran. Para tales efectos, deberán entregar y recibir dichos bienes bajo riguroso inventario, así como los valores que por cualquier causa se encuentren depositados en la oficina.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 174.
 
-Los Jueces del Estado actuarán con Secretario o con quien legalmente debe sustituirlo; en su caso, lo harán con Testigos de Asistencia, quienes deberán:
+Los Jueces del Estado actuarán con Secretario o con quien legalmente deba sustituirlo; en su caso, lo harán con Testigos de Asistencia, quienes deberán:
 
-l. Ser ciudadanos mexicanos, mayores de dieciocho años;
+I.- Ser ciudadanos mexicanos, mayores de dieciocho años;
 
-II. Estar en pleno ejercicio de sus derechos; y
+II.- Estar en pleno ejercicio de sus derechos; y,
 
-III. Ser de notoria probidad y buena conducta.
+III.- Ser de notoria probidad y buena conducta.
 
-No obstante, en materia penal los jueces y magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+No obstante, en materia penal y en la especializada para adolescentes infractores, los jueces y magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
 
-En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+En materia penal y en la especializada para adolescentes infractores tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
 
 Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
 
-Cuando un Juez de la materia penal utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
+Cuando un juez penal o especializado para adolescentes infractores utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
 
-Las autoridades judiciales de la materia penal podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
+Las autoridades judiciales de la materia penal y las especializadas para adolescentes infractores podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
 
 El Pleno dictará los reglamentos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 174 BIS.- Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
+ARTICULO 174 BIS.- Cuando una autoridad penal o especializada para adolescentes infractores del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
@@ -2461,11 +2531,15 @@ II.- Redactar los autos del acuerdo diario; elaborar los proyectos de acuerdo y 
 
 Los Secretarios Proyectistas adscritos a los Juzgados deberán elaborar los proyectos de resolución que les encomiende el Juez, realizar todas aquellas actividades que les asignen el Juez o el Secretario de Acuerdos de su adscripción y previo acuerdo del Juez, tendrán las atribuciones que para los Secretarios de Acuerdos establece la Ley, cuando el despacho de los asuntos así lo requiera. Para esto último, bastará que en el expediente donde se actúe, se asiente la razón respectiva.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 180.
 
-Habrá en los Distritos Judiciales el número de Notificadores con el carácter de Ministros Ejecutores adscritos a los Juzgados, tanto de Primera Instancia como Menores, que a juicio del Pleno del Tribunal se hagan necesarios y lo autorice el Presupuesto.
+Habrá en los Distritos Judiciales el número de Notificadores con el carácter de Ministros Ejecutores adscritos a los Juzgados, que a juicio del Pleno del Tribunal se hagan necesarios y lo autorice el Presupuesto.
 
-Los Notificadores adscritos a los Juzgados que conozcan de las materias civil y familiar no son recusables ni podrán excusarse de intervenir en los asuntos que conozca el Juzgado de su adscripción; pero al actuar como Ministros Ejecutores deberán inhibirse bajo su responsabilidad cuando haya causa justa, proponiendo su excusa ante el Juez de los autos al hacérsele saber el mandamiento correspondiente; el Juez calificará la excusa sin audiencia de las partes y en vista únicamente de las razones que el Ministro Ejecutor señale. Contra dicha resolución no cabrá recurso alguno.
+Los Notificadores adscritos a los Juzgados que conozcan de las materias civil y familiar no son recusables ni podrán excusarse de intervenir en los asuntos que conozca el Juzgado de su adscripción; pero al actuar como Ministros Ejecutores deberán inhibirse bajo su responsabilidad cuando haya causa justa, proponiendo su excusa ante el Juez de los autos al hacérsele saber el mandamiento correspondiente; el Juez calificará la excusa sin audiencia de las partes y en vista únicamente de las razones que el Ministro Ejecutor señale.
+
+Contra dicha resolución no cabrá recurso alguno.
 
 En los casos que este artículo señala, así como en las ausencias del Notificador o cuando éste no exista en el Juzgado respectivo, el sustituto lo será el Secretario de Acuerdos o quien a su vez deba sustituirlo en su función.
 
@@ -2481,11 +2555,11 @@ III.- Pedir el auxilio de la fuerza pública cuando fuere necesario para cumplir
 
 ## TITULO SEXTO. DE LA INAMOVILIDAD JUDICIAL
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 182.
 
-La inamovilidad es condición reservada a los magistrados y a los jueces de primera instancia por lo que no podrán ser destituidos sino por responsabilidad derivada de hechos ilícitos graves, previo procedimiento que se siga en su contra. Tampoco serán rebajados de la categoría salarial que tuvieren.
+La inamovilidad es condición reservada a los magistrados, a los jueces de primera instancia y a los especializados para adolescentes infractores, por lo que no podrán ser destituidos sino por responsabilidad derivada de hechos ilícitos graves, previo procedimiento que se siga en su contra. Tampoco serán rebajados de la categoría salarial que tuvieren.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -2495,11 +2569,11 @@ La inamovilidad sólo se extingue por destitución, renuncia o jubilación.
 
 La concesión de licencia temporal no la suspende.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 184.
 
-Los magistrados del Supremo Tribunal de Justicia y los jueces de primera instancia serán nombrados por tres años y devendrán inamovibles si, al término de su encargo, los primeros son ratificados por el Congreso y los segundos por las dos terceras partes de los magistrados integrantes del Pleno.
+Los magistrados del Supremo Tribunal de Justicia, los jueces de primera instancia y los especializados para adolescentes infractores serán nombrados por tres años y devendrán inamovibles si, al término de su encargo, los primeros son ratificados por el Congreso y los segundos por las dos terceras partes de los magistrados integrantes del Pleno.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -3174,3 +3248,9 @@ Artículo Segundo. Derogación Tácita de Preceptos Incompatibles. Quedan deroga
 Artículo Tercero. Facultades extraordinarias del Supremo Tribunal. A partir de la vigencia de esta ley y hasta los dos año siguientes de la entrada en vigor en todo el Estado del nuevo Código de Procedimientos Penales, el Pleno del Supremo Tribunal de Justicia podrá establecer las disposiciones generales para el traslado y designación de funcionarios, nombramiento provisional de jueces de garantía, integración de tribunales de juicio oral y salas de casación, redistribución de competencias territoriales, asignación del juzgado de rezagas y creación de órganos que resulten pertinentes. Las decisiones que adopte el Pleno en virtud de esta norma deberán sustentarse siempre en un mejor servicio público y en la necesidad de instrumentar la aplicación del nuevo Código Procesal Penal.
 
 Artículo Cuarto. En aquellos lugares en donde todavía esté vigente el Código de Procedimientos Penales de 1987, corresponde a los Jueces de Primera Instancia que conozcan de la materia Penal revisar de oficio el auto de definición de la situación jurídica de los inculpados, en las causas que hubieren iniciado en su auxilio jueces de menor jerarquía, con el fin de corregir las deficiencias formales de que pudiera adolecer y con el de reponer el procedimiento, si mediare algún vicio procesal que así lo ameritara.
+
+P.O. 16 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero. Inicio de Vigencia.- El presente Decreto iniciará su vigencia el primero de julio del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
