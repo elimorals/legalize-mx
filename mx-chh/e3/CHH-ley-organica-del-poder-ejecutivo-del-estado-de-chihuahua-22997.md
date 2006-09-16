@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-12-10"
+last_updated: "2006-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -913,9 +913,13 @@ XIII.- A través de programas específicos, otorgar atención a las víctimas de
 
 XIV.- Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, Estatales y Municipales;
 
-XV.- Diseñar la política penitenciaria en los delitos del orden local; desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-XVI.- Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los consejos tutelares para menores, centro de rehabilitación o de mejoramiento para menores y demás instituciones similares;
+XV.- Diseñar la política penitenciaria en los delitos del orden local; desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados; de igual forma, diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y los de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+
+XVI.- Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de Internamiento para adolescentes y demás instituciones similares;
 
 XVII.- Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reclusión en el Estado;
 
@@ -1432,3 +1436,9 @@ Las relaciones laborales entre el Instituto y sus trabajadores se regirán por l
 En tanto, las relaciones laborales entre el Departamento de Atención a la Juventud y sus trabajadores, que subsistan al momento de la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
 
 Artículo Quinto.- La Junta Directiva del Instituto deberá sesionar, por primera vez, dentro de los sesenta días posteriores a la entrada en vigor de esta Ley, con la finalidad de aprobar el Estatuto Orgánico del mismo.
+
+P.O. 16 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero. Inicio de Vigencia.- El presente Decreto iniciará su vigencia el primero de julio del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
