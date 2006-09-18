@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2006-09-13"
+last_updated: "2006-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE SEPTIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -109,9 +109,13 @@ SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprender
 
 I.- PRIMER CIRCUITO:
 
-1.- Cincuenta y cinco tribunales colegiados especializados: diez en materia penal, dieciséis en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE SEPTIEMBRE DE 2006)</small>
 
-2.- Ocho tribunales unitarios especializados: seis en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
+1.- Cincuenta y seis tribunales colegiados especializados: diez en materia penal, diecisiete en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE SEPTIEMBRE DE 2006)</small>
+
+2.- Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
 3.- Sesenta y cuatro juzgados de Distrito especializados en el Distrito Federal: dieciocho de procesos penales federales, doce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y cinco en materia de trabajo, todos con sede en el Distrito Federal.
 
@@ -654,3 +658,19 @@ D.O.F. 13 DE SEPTIEMBRE DE 2006.
 PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil seis.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 18 DE SEPTIEMBRE DE 2006.
+
+ACUERDO GENERAL 59/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 18 DE SEPTIEMBRE DE 2006.
+
+ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
