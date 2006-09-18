@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-organizacion-interna-del-instituto-mexicano-12531
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-11"
-last_updated: "2005-04-26"
+last_updated: "2006-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-11-04"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, PUBLICADO EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de noviembre de 1998.
 
@@ -3638,3 +3640,23 @@ CUARTO.- El personal de las delegaciones que en aplicación del presente Decreto
 QUINTO.- Las menciones que se hagan en las disposiciones jurídicas o en las administrativas emitidas por el Consejo Técnico del Instituto, a las Delegaciones 1 Noroeste del Distrito Federal y 2 Noreste del Distrito Federal, se entenderán referidas a la Delegación Norte del Distrito Federal. De igual forma, las referidas a las Delegaciones 3 Suroeste del Distrito Federal y 4 Sureste del Distrito Federal, se entenderán relacionadas a la Delegación Sur del Distrito Federal.
 
 SEXTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica del Instituto Mexicano del Seguro Social, se deberán realizar mediante movimientos compensados que no incrementarán el presupuesto de servicios personales aprobado para dicho Instituto en el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 18 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Organización Interna del Instituto Mexicano del Seguro Social publicado en el Diario Oficial de la Federación el 11 de noviembre de 1998, así como los acuerdos y disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. En los términos y plazos que establezca el Consejo Técnico, los recursos humanos, materiales y financieros, así como, en su caso, los archivos y expedientes con los que actualmente cuentan las unidades administrativas del Instituto que se modifican o suprimen, serán transferidos a las unidades administrativas que correspondan, de conformidad con las atribuciones conferidas en este Reglamento. Para tal efecto, se deberán formalizar las actas de entrega recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+Las unidades administrativas que a la entrada en vigor del presente Reglamento, tengan asuntos pendientes, serán responsables de su trámite y resolución, hasta en tanto se concluya la transferencia a que se alude en el párrafo anterior.
+
+CUARTO. El personal de las unidades administrativas que se suprimen o se modifican, en aplicación del presente Reglamento, en ninguna forma resultará afectado en sus derechos ni prestaciones.
+
+QUINTO. En un término que no excederá de seis meses contados a partir de la entrada en vigor del presente Reglamento, el Consejo Técnico del Instituto, deberá adoptar las medidas conducentes para la extinción de los Consejos Consultivos Regionales.
+
+SEXTO. Las menciones que se hagan en los reglamentos y demás disposiciones jurídicas o administrativas emitidas por el Consejo Técnico del Instituto, a las Direcciones de Administración y Calidad, de Planeación y Finanzas, y, de Incorporación y Recaudación del Seguro Social, se entenderán referidas a los Órganos Normativos a que se alude en los artículos 69, 70 y 71 del presente ordenamiento, respectivamente.
+
+SÉPTIMO. Para efectos del artículo 144, tratándose de las facultades del Delegado que son concurrentes con las señaladas para las Subdelegaciones en el artículo 150, el Consejo Técnico, dentro de los 90 días naturales siguientes a la entrada en vigor de este Reglamento, mediante reglas de carácter general, que se publicarán en el Diario Oficial de la Federación, determinará los supuestos en que dichas facultades concurrentes serán ejercidas por el Delegado. Entre tanto, dichas facultades concurrentes serán ejercidas por las Subdelegaciones en el ámbito de su circunscripción territorial.
+
+OCTAVO. Las modificaciones que en virtud del presente Reglamento se lleven a cabo a la estructura orgánica del Instituto Mexicano del Seguro Social, se deberán realizar mediante movimientos compensados y no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
