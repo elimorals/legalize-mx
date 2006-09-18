@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-suprema-corte-de-justicia-de-la-nacion-16326"
 country: "mx"
 rank: "reglamento"
 publication_date: "1923-05-01"
-last_updated: "1923-05-01"
+last_updated: "2006-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16326&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1923-04-06"
 ---
 # REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE SEPTIEMBRE DE 2006 (ABROGADO).
 
 Reglamento aprobado el martes 1 de mayo de 1923.
 
@@ -530,3 +532,19 @@ México, 1.° de mayo de 1923.
 El Secretario de Acuerdos,
 
 F. Parada Gay.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE SEPTIEMBRE DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Publíquese el presente Reglamento Interior en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+Tercero.- Se abroga el Reglamento Interior de la Suprema Corte de Justicia de la Nación, promulgado el seis de abril de mil novecientos veintitrés.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan a lo previsto en este Reglamento Interior.
+
+Quinto.- Al cumplirse un año de la entrada en vigor de este Reglamento Interior, se llevará a cabo una evaluación sobre su aplicación y, en su caso, se formularán los proyectos de reformas o adiciones al mismo que se estimen pertinentes.
