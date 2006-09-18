@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-sistema-para-el-desarrollo-integral-487
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-20"
-last_updated: "2005-10-20"
+last_updated: "2006-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 20 de octubre de 2005.
 
@@ -49,35 +49,31 @@ b) La Junta de Gobierno
 
 c) La Dirección General
 
-II.- Unidades Administrativas:
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-a) Coordinación General de Administración y Operación.
+II.- Unidades administrativas:
 
-b) Dirección de Atención a Población Vulnerable y Centros Asistenciales.
+a) Coordinación General de Operación
 
-c) Dirección de Programas Alimentarios.
+b) Coordinación General de Administración
 
-d) Dirección de Desarrollo Comunitario.
+c) Dirección de Atención a Población Vulnerable y Centros Asistenciales
 
-e) Dirección de Atención a Personas con Discapacidad.
+d) Dirección de Programas Alimentarios y Desarrollo Comunitario
 
-f) Dirección de Organismos de la Sociedad Civil.
+e) Dirección de Atención a Personas con Discapacidad
 
-g) Dirección de Planeación y Finanzas.
+f) Dirección de Organismos de la Sociedad Civil
 
-h) Dirección de Recursos Materiales y Servicios Generales.
+g) Dirección de Planeación y Finanzas
 
-i) Dirección de Recursos Humanos.
+h) Dirección de Recursos Materiales y Servicios Generales
 
-j) Unidad de Comunicación Social.
-
-k) Unidad de Asesoría Legal.
-
-l) Unidad de Estudios Estratégicos y Proyectos Especiales.
+i) Dirección de Recursos Humanos
 
 III.- Órgano Desconcentrado
 
-a) Procuraduría de la Defensa del Menor y la Familia.
+a) Procuraduría de la Defensa del Menor y la Familia
 
 Se anexa organigrama estructural
 
@@ -209,9 +205,11 @@ La Junta de Gobierno celebrará sesiones ordinarias trimestralmente y las extrao
 
 Las sesiones ordinarias que celebra la Junta de Gobierno, se llevarán a cabo cuando la asistencia sea la mitad más uno de los integrantes; sus decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 19.
 
-Para la celebración de las sesiones de la Junta de Gobierno, se deberá emitir convocatoria por su Presidente por conducto del Director General; a la que se acompañará el orden dei (sic) día y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los integrantes de dicha Junta de Gobierno, con cinco días hábiles de anticipación a la celebración de la sesión siendo de carácter ordinario y con tres días hábiles cuando sea extraordinaria.
+Para la celebración de las sesiones de la Junta de Gobierno, se deberá emitir convocatoria por su Presidente por conducto de su Director General; a la que acompañará el orden del día y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los integrantes de dicha Junta de Gobierno con cinco días de anticipación hábiles tratándose de sesiones ordinarias y con 48 horas de sesiones extraordinarias.
 
 ###### Artículo 20.
 
@@ -245,27 +243,37 @@ VI. Recabar las firmas de los integrantes que participaron en la toma de los acu
 
 VII. Desarrollar las demás atribuciones que le confieran el presente Reglamento y las disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 22.
 
-Las sesiones se desarrollan en el siguiente orden:
+Las sesiones de la Junta de Gobierno se desarrollan en el siguiente orden:
 
-I. Lista de presentes y declaratoria relativa al quórum;
+I. Lista de asistencia;
 
-II. Instalación legal de la reunión;
+II. Verificación de quórum legal por parte del Comisario;
 
-III. Lectura y aprobación en su caso, del acta de la sesión anterior;
+III. Lectura y aprobación del orden del día;
 
-IV. Discusión y resolución de los puntos comprendidos en el orden del día;
+IV. Lectura del acta de la sesión anterior;
 
-V. Consignación de acuerdos;
+V. Informe del Director General;
 
-VI. Asuntos Generales; y
+VI. Informe del Comisario;
 
-VII. Clausura de la reunión.
+VII. Lectura, discusión y, en su caso, aprobación de asuntos;
+
+VIII. Asuntos Generales;
+
+IX. Resumen de acuerdos aprobados; y
+
+X. Clausura.
+
+> <small>(REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
-En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prevista, se deberá de celebrar entre los cinco y quince días hábiles siguientes.
+En caso de que la reunión convocada no pudiera llevarse a cabo a la fecha prevista, se deberá de celebrar entre los tres días hábiles siguientes, cuando se trate de sesiones ordinarias y dentro de las 48 horas siguientes tratándose de sesiones extraordinarias.
 
 ###### Artículo 24.
 
@@ -303,15 +311,63 @@ VII. Coordinar la implementación de mecanismos que contribuyan a garantizar el 
 
 VIII. Someter a consideración y aprobación de la Junta de Gobierno, a más tardar en la segunda quincena del mes de octubre de cada año, el anteproyecto del programa operativo anual y presupuestal, mismo que deberá elaborarse de conformidad con la legislación aplicable; y (sic)
 
-IX. Cumplir con lo que se le asignen en otras leyes aplicables o expresamente le encomiende la Junta de Gobierno;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-X. Las demás que le confieran las disposiciones legales aplicables, así como las que expresamente le encomiende la Junta de Gobierno.
+IX. Establecer y conducir las políticas de comunicación social, así como, coordinar la producción, transmisión y publicación de campañas y acciones de difusión de DIF Sonora en los medios de comunicación, en acuerdo con la Coordinación de Comunicación Social adscrita a la Secretaría de Gobierno;
 
-### CAPÍTULO V. De las Atribuciones de la Coordinación General de Administración y Operación
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+X. Coordinar, vigilar y dar seguimiento al cumplimiento de los compromisos contraídos por DIF Sonora a través de los acuerdos, contratos y convenios de colaboración, apoyo y coordinación institucional celebrados, así como aquellos que le confieren lo! leyes y otros ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Coordinar y dirigir la elaboración de investigaciones con parámetros estadísticos, sociodemográficos y de percepción ciudadana aplicadas en temas de asistencia social; y
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Las demás que le confieran las disposiciones legales aplicables, así como las que le encomiende la Junta de Gobierno.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO V. De las Atribuciones de las Coordinaciones Generales
+
+> <small>(ADICIONADO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 27 Bis.
+
+La Coordinación General de Operación, estará adscrita a la Dirección General y le corresponde la conducción operativa de las unidades administrativas que estén bojo su adscripción, y será responsable ante el Director General de su correcto funcionamiento y le corresponden las siguientes atribuciones:
+
+l. Planear, establecer, dirigir y controlar el funcionamiento de la Coordinación General de Operación, de acuerdo a lo establecido en la normatividad legal correspondiente;
+
+II. Supervisar la realización con lo establecido dentro de los manuales de procedimientos de las áreas a su cargo;
+
+III. Supervisar y revisar la integración de la información de las áreas a su cargo que será sometida para aprobación en las sesiones ordinarias y extraordinarias de la Junta de Gobierno de DIF Sonora;
+
+IV. Aprobar, supervisar y coadyuvar al buen financiamiento de las direcciones operativas que conforman DIF Sonora;
+
+V. Coordinar la integración del sistema de información documental de las áreas adscritas a su cargo de acuerdo a la Ley de Acceso a la Información Pública del Estado de Sonora;
+
+VI. Supervisar, coordinar y dar seguimiento a la atención a población infantil vulnerable a través de los programas y centros asistenciales;
+
+VII. Supervisar, coordinar y dar seguimiento a los programas alimentarios y de desarrollo comunitario;
+
+VIII. Supervisar, coordinar y dar seguimiento a la atención o población discapacitada a través de los programas y centros asistenciales;
+
+IX. Supervisar, coordinar y dar seguimiento al otorgamiento de apoyos en especie, asistenciales y de gestión para la salud a la población vulnerable;
+
+X. Supervisar, coordinar y dar seguimiento a los organismos públicos y privados a través de los programas establecidos para ello dentro de la Dirección de Organismos de la Sociedad Civil;
+
+XI. Formar parte de los órganos de comités de apoyos establecidos en el presente Reglamento; y
+
+XII. Desarrollar las demás atribuciones que de manera específica le asigne su superior jerárquico, o le confieran las leyes y otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 28.
 
-La Coordinación General de Administración y Operación, estará adscrita a la Dirección General y le corresponde la conducción técnica y operativa de las unidades administrativas que estén bajo su adscripción, y será responsable ante el Director General de su correcto funcionamiento.
+La Coordinación General de Administración, estará adscrita a la Dirección General y le corresponde la conducción técnica y operativa de las unidades administrativas que estén bajo su adscripción, y será responsable ante el Director General de su correcto funcionamiento y le corresponden las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
 I. Planear, establecer, dirigir y controlar el funcionamiento de la Coordinación General de Administración, de acuerdo a lo establecido en la normatividad legal correspondiente;
 
@@ -339,7 +395,7 @@ XII. Presentar para aprobación del Director General los informes sobre las eval
 
 XIII. Presentar a consideración del Director General la aplicación de los recursos financieros en nuevos proyectos que permitan mejorar la atención a la población vulnerable del Estado;
 
-XIV. Aprobar, supervisar y coadyuvar al buen financiamiento de las direcciones operativas que Conforman DIF Sonora;
+XIV. (DEROGADA, B.O. 18 DE SEPTIEMBRE DE 2006)
 
 XV. Supervisar la gestión y canalización de apoyos extraordinarios en caso de contingencias y desastres naturales;
 
@@ -351,7 +407,9 @@ XVIII. Formar parte de los órganos de comités de apoyos establecidos en el pre
 
 XIX. Desarrollar las demás atribuciones que de manera específica le asigne su superior jerárquico, o le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
-### CAPÍTULO VI. De las Atribuciones Genéricas de las Unidades Administrativas
+> <small>(REFORMADA SU DENOMINACION, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO VI. De las Atribuciones de las Direcciones
 
 ###### Artículo 29.
 
@@ -365,31 +423,43 @@ II. Planear, establecer y promover proyectos de mejora continua en sus áreas de
 
 III. Organizar, dirigir y evaluar el desempeño de las labores encomendadas a las distintas áreas que integren la unidad Administrativa correspondiente;
 
-IV. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la aprobación del Coordinador General de Administración y Operación y posteriormente a la autorización del Director General;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-V. Conducir sus actividades de acuerdo con los programas aprobados y las políticas previamente autorizado por el Coordinador General de Administración y Operación y aprobado por el Director General, para el logro de los objetivos y prioridades establecidos para el DIF Sonora;
+IV. Formular los anteproyectos de programas y presupuestos que les corresponden y someterlos a la aprobación del Coordinador General de Administración y posteriormente a la autorización del Director General;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+V. Conducir sus actividades de acuerdo con los programas aprobados y las políticas previamente autorizados por el Coordinador General correspondiente y aprobado por el Director General, para el logro de los objetivos y prioridades establecidas para el DIF Sonora;
 
 VI. Rendir los informes y formular los dictámenes, estudios y opiniones que solicite el Director General;
 
 VII. Aplicar y vigilar el cumplimiento de las Leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y actividades de la competencia de su respectiva Unidad Administrativa, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
 
-VIII. Acordar con el Coordinador General de Administración y Operación los asuntos de la competencia de la Unidad Administrativa a su cargo y presentarlo al Director General;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-IX. Someter a la consideración del Coordinador General de Administración y Operación y posteriormente al Director General los proyectos de modernización y desarrollo administrativo correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
+VIII. Acordar con el Coordinador General correspondiente los asuntos de la competencia de la Unidad Administrativa a su cargo y presentarlo al Director General;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Someter a la consideración del Coordinador General correspondiente y posteriormente al Director General los proyectos de modernización y desarrollo administrativo respectivo, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
 X. Someter a consideración y gestionar ante la Comisión Estatal de Bienes y Concesiones la desincorporación y enajenación de los bienes muebles e inmuebles que se consideren como improductivos u obsoletos, ociosos, innecesarios o de desecho, con el consentimiento de la Dirección General;
 
-XI. Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva.
+XI. Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva;
 
 XII. Vigilar que los recursos humanos, materiales, técnicos y financieros sean utilizados de manera eficaz y eficiente beneficio de la operatividad de la unidad administrativa respectiva; y
 
 XIII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico así como aquella que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
-### CAPÍTULO VII. De las Atribuciones Específicas de las Unidades Administrativas
+> <small>(REFORMADA SU DENOMINACION, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO VII. De las Atribuciones Específicas de las Direcciones
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 30.
 
-La Dirección de Atención a Población Vulnerable y Centros Asistenciales, dependerá de la Coordinación General de Administración y Operación y le corresponde las siguientes atribuciones:
+La Dirección de Atención a Población Vulnerable y Centros Asistenciales, dependerá de la Coordinación General de Operación y le corresponde las siguientes atribuciones:
 
 I. Planear, establecer, dirigir, controlar y evaluar los programas y presupuestos institucionales de prestación de servicio de asistencia social a población vulnerable en el Estado de Sonora, de acuerdo a lo establecido en la normatividad legal correspondiente;
 
@@ -429,13 +499,17 @@ XVIII. Apoyar y formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora;
 
 XIX. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 31.
 
-La Dirección de Programas Alimentarios, dependerá de la Coordinación General de Administración y Operación y le corresponde las siguientes atribuciones:
+La Dirección de Programas Alimentarios y Desarrollo Comunitario, dependerá de la Coordinación General de Operación y le corresponde las siguientes atribuciones:
 
 I. Planear, establecer, dirigir y controlar los programas institucionales de Asistencia Alimentaria en el Estado de Sonora, de acuerdo a lo establecido en la normatividad legal correspondiente;
 
-II. Planear, dirigir, controlar y evaluar la operación y funcionamiento de los órganos Administrativos y Programas incorporados a la Dirección de Programas Alimentarios;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+II. Planear, establecer, dirigir y controlar el funcionamiento de la Dirección de Programas Alimentarios y Desarrollo Comunitario, de acuerdo a lo establecido en la normatividad legal correspondiente;
 
 III. Vigilar, supervisar y evaluar que a través del Programa de Desayunos Escolares se reduzca el estado de malnutrición de la población preescolar y escolar, principalmente de las zonas rurales e indígenas e incidir favorablemente en su aprovechamiento y deserción escolar;
 
@@ -447,47 +521,71 @@ VI. Controlar y evaluar de manera permanente y coordinada con instituciones de i
 
 VII. Planear, establecer y apoyar para que se realicen los eventos cívicos, artísticos y culturales que se requieran para la promoción de los programas que sean de la competencia de esta Dirección;
 
-VIII. Controlar, evaluar y revisar la aplicación y seguimiento del Sistema de la Gestión de la Calidad en la Dirección de Programas Alimentarios;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-IX. Formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
+VIII. Controlar, evaluar y revisar la aplicación y seguimiento del Sistema de Gestión de la Calidad en la Dirección de Programas Alimentarios y Desarrollo Comunitario;
 
-X. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Formar parte de los Órganos de Asesoría y Apoyo de DIF sonora;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+X. Establecer procedimientos e instrumentos a fin de llevar el control, seguimiento y evaluación, de los programas que forman parte de lo Dirección por definir estrategias de operación para el logro de objetivos y metas planteadas;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XI. Planear y supervisor que se lleven a cabo diagnósticos que permitan la implantación de los programas acordes a la realidad social de los localidades más marginadas y vulnerables del Estado, además de formular estrategias de acción participativas institucionales y comunitarias;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Elaborar proyectos surgidos de las necesidades reales de la población con base sustentable y sostenible, apegados a la normatividad y lineamientos de operación;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Establecer coordinación con diferentes instancias de gobierno y organizaciones a través de las cuales se genere el desarrollo comunitario con base a las demandas de salud, educación, alimentación, vivienda y comunidad;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XIV. Planear, dirigir, controlar y evaluar el Programa de Espacios de Alimentación, Encuentro y Desarrollo otorgando seguridad alimentaria a la población vulnerable a través de los espacios para la elaboración de alimentos y con la participación y organización social de los beneficiarios;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XV. Planear y supervisar la realización pruebas (sic) psicológicas de evaluación que permitan contar con personal adecuado para la atención de los niños en las estancias infantiles, así como atención alimentaría, educativa y de cuidado para que se realice un eficiente funcionamiento de la estancia;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Supervisar y llevar a cabo la implantación metodológica de la planeación participativa para crear estructuras organizativas, programas y proyectos surgidos de las necesidades y planteamientos de las comunidades;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XVII. Dirigir y supervisar la capacitación y/o adiestramiento de manera continua a los diferentes grupos comunitarios y lo (sic) beneficiarios, que intervienen en la ejecución de los programas;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XVIII. Promover la realización de capacitaciones con base en los Sistemas DIF a fin de que puedan llevar a cabo el funcionamiento eficiente y oportuno de los programas de la Dirección;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XIX. Promover la capacitación continua al personal de la Dirección para que realice de manera actualizada y en apego de las demandas de los beneficiarios de los programas las funciones que les corresponden;
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XX. Coordinar, supervisor y evaluar la operación eficaz y eficiente del Parque Infantil; y
+
+> <small>(ADICIONADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XXI. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 32.
 
-La Dirección de Desarrollo Comunitario, dependerá de la Coordinación General de Administración y Operación y le corresponde las siguientes atribuciones:
+(DEROGADO, B.O. 18 DE SEPTIEMBRE DE 2006)
 
-I. Planear, establecer y dirigir y controlar el funcionamiento de lo Dirección de Integración Social y Desarrollo Comunitario, de acuerdo a lo establecido en la normatividad legal correspondiente;
-
-II. Establecer procedimientos e instrumentos a fin de llevar el control, seguimiento y evaluación de los programas que forman parte de la dirección para definir estrategias de operación para el logro de objetivos y metas planteadas;
-
-III. Planear y supervisar que se lleven a cabo diagnósticos que permitan la implantación de los programas acordes a la realidad social de las localidades más marginadas y vulnerables del Estado, además de formular estrategias de acción participativas institucionales y comunitarias;
-
-IV. Elaborar proyectos surgidos de las necesidades reales de lo población con base sustentable y sostenible, apegados a la normatividad y lineamientos de operación;
-
-V. Establecer coordinación con diferentes instancias de gobierno y organizaciones a través de las cuales se genere el desarrollo comunitario con base en sus demandas de salud, educación, alimentación, vivienda y comunidad;
-
-VI. Planear, dirigir, controlar y evaluar el Programa de Espacios de Alimentación, Encuentro y Desarrollo otorgando seguridad alimentaria a la población vulnerable a través de los espacios para la elaboración de alimentos y con la participación y organización social de los beneficiarios;
-
-VII. Planear y supervisar la realización pruebas (sic) psicológicas de evaluación que permitan contar con personal adecuado para la atención de los niños en las estancias infantiles, así como atención alimentaría, educativa y de cuidado para que se realice un eficiente funcionamiento de la estancia;
-
-VIII. Supervisar y llevar a cabo la implantación metodología de la planeación participativa para crear estructuras organizativas, programas y proyectos surgidos de las necesidades y planteamientos de las comunidades;
-
-IX. Dirigir y supervisar la capacitación y/o adiestramiento de manera continua a los diferentes grupos comunitarios y/o beneficiarios, que intervienen en la ejecución de los programas;
-
-X. Promover la realización de capacitaciones con los Sistemas DIF a fin de que puedan llevar a cabo el funcionamiento eficiente y oportuno de los programas de la Dirección;
-
-XI. Promover la capacitación continua al personal de la dirección para que realice de manera actualizada y en apego de las demandas de los beneficiarios de los programas la (sic) funciones que les corresponden;
-
-XII. Coordinar, supervisar y evaluar la operación del Parque Infantil se realice de manera eficaz y eficiente;
-
-XIII. Formar porte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
-
-XIV. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 33.
 
-La Dirección de Atención a Personas con Discapacidad dependerá de la Coordinación General de Administración y Operación y le corresponde las siguientes atribuciones:
+La Dirección de Atención a Personas con Discapacidad dependerá de la Coordinación General de Operación y le corresponde las siguientes atribuciones:
 
 I. Fungir como Unidad de enlace y vinculación con el Consejo Estatal para la Integración Social para las Personas con Discapacidad;
 
@@ -537,9 +635,11 @@ XXIII. Formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
 
 XXIV. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 34.
 
-La Dirección de Organismos de la Sociedad Civil, dependerá de la Coordinación General de Administración y Operación y le corresponde las siguientes atribuciones específicas:
+La Dirección de Organismos de la Sociedad Civil, dependerá de la Coordinación General de Operación y le corresponde las siguientes atribuciones específicas:
 
 I. Integrar una red que articule a las organizaciones de la Sociedad Civil en el Estado para fungir como el órgano que concentre la opinión de las mismas y vincule las políticas públicas de desarrollo y asistencia social en Sonora;
 
@@ -561,13 +661,19 @@ IX. Formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
 
 X. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 35.
 
-La Dirección de Planeación y Finanzas, dependerá de la Coordinación General de Administración y le corresponden las siguientes atribuciones específicas:
+La Dirección de Planeación y Finanzas, dependerá de la Coordinación General de Administración y le corresponden las siguientes atribuciones:
 
-I. Integrar el Proyecto de Presupuesto de Ingresos y Egresos, así como el Programa Operativo Anual y someterlo a consideración del Coordinador General de Administración y Operación para su posterior aprobación del Director General de DIF Sonora;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-II. Proponer y presentar al Coordinador General de Administración y Operación las normas y lineamientos que con base a la normatividad estatal y federal, deberán regir la programación y presupuestación de las acciones a desarrollar en los programas operativos, tanto para DIF Sonora como para los Sistemas DIF Municipales;
+I. Integrar los Proyectos de Presupuestos de Ingresos y Egresos, así como el Programa Operativo Anual y someterlo a consideración del Coordinador General de Administración para su posterior aprobación del Director General de DIF Sonora;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+II. Proponer y presentar al Coordinador General de Administración las normas y lineamientos que con base a la normatividad estatal y federal, deberán regir la programación y presupuestación de las acciones a desarrollar en los programas operativos, tanto para DIF Sonora como para los Sistemas DIF Municipales;
 
 III. Establecer los conductos de comunicación con los Sistemas DIF Municipales que permitan el correcto, oportuno y expedito flujo de información sobre las actividades que en materia de asistencia social llevan a cabo;
 
@@ -597,9 +703,13 @@ XV. Establecer controles y reportes que requieran para llevar una efectiva revis
 
 XVI. Elaborar oportunamente los informes mensuales, trimestrales y anuales de avance del presupuesto de egresos;
 
-XVII. Someter a aprobación del Coordinador General de Administración y de Operación las ampliaciones, reducciones y transferencias de los recursos asignados a los programas de DIF Sonora;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
-XVIII. Coordinar la elaboración del informe sobre la situación financiera de los centros asistenciales y programas generadores de cuotas de recuperación y presentarlo a consideración del Coordinador General de Administración y Operación;
+XVII. Someter a aprobación del Coordinador General de Administración las ampliaciones, reducciones y transferencias de los recursos asignados a los programas de DIF Sonora;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+XVIII. Coordinar la elaboración del informe sobre la situación financiera de los centros asistenciales y programas generadores de cuotas de recuperación y presentarlo a consideración del Coordinador General de Administración;
 
 XIX. Coordinar la atención a las auditorias internas y externas que se realicen al DIF Sonora;
 
@@ -621,17 +731,23 @@ XXVII. Formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
 
 XXVIII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 36.
 
-La Dirección de Recursos Materiales y Servicios Generales, dependerá de la Coordinación General de Administración y Operación y le corresponden las siguientes atribuciones específicas:
+La Dirección de Recursos Materiales y Servicios Generales, dependerá de la Coordinación General de Administración y le corresponden las siguientes atribuciones:
 
 I. Organizar, controlar y evaluar la adquisición, administración y cuidado de los recursos materiales que se utilicen y vigilar que se proporcionen de manera oportuna, eficaz y eficiente los servicios generales necesarios que requieran las distintas Unidades Administrativas en DIF Sonora;
 
-II. Elaborar y someter a consideración de la Coordinación General de Administración el Programa Anual de adquisiciones de Bienes y servicios y remitirlo a la Secretaría de la Contraloría General;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+II. Elaborar y someter a consideración de la Coordinación General de Administración el Programa Anual de Adquisiciones de Arrendamientos y Servicios y remitirlo a la Secretaría de la Contraloría General;
 
 III. Dirigir y supervisar las acciones para la adquisición, inventario y suministro de los bienes y servicios requeridos;
 
-IV. Proponer y gestionar ante la Comisión Estatal de Bienes y Concesiones la desincorporación y enajenación de los bienes muebles e inmuebles que se consideren como improductivos u obsoletos, ociosos, innecesarios o de desecho, previa autorización de la Coordinación General de Administración y Operación, conforme a las disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Proponer y gestionar ante la Comisión Estatal de Bienes y Concesiones la desincorporación y enajenación de los bienes muebles e inmuebles que se consideren como improductivos u obsoletos, ociosos, innecesarios o de desecho, previa autorización de la Coordinación General de Administración, conforme a las disposiciones legales aplicables;
 
 V. Integrar y remitir a la Secretaría de la Contraloría General vía electrónica en los plazos establecidos para tal efecto, la información relativa a las licitaciones públicas que se requieran celebrar;
 
@@ -673,11 +789,15 @@ XXIII. Formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
 
 XXIV. Desarrollar las demás atribuciones que de manera específica le asigne su superior jerárquico, así como aquellas que le confieran las Leyes y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 37.
 
-La Dirección de Recursos Humanos, dependerá de la Coordinación General de Administración y Operación y le corresponden las siguientes atribuciones:
+La Dirección de Recursos Humanos, dependerá de la Coordinación General de Administración y le corresponden las siguientes atribuciones:
 
 I. Planear, formular y conducir los procesos de reclutamiento, selección, contratación, capacitación y desarrollo del personal de las distintas área (sic) que conforman DIF Sonora; así como llevar a cabo los cambios de adscripción del personal con base en las distintas necesidades que presenten los centros de trabajo que conforman al Sistema DIF Sonora;
+
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
 
 II. Planear, dirigir y controlar la contratación y asignación de sueldos correspondientes basándose en el tabulador de sueldos del Gobierno del Estado y presentarla a consideración del Coordinador General de Administración y cuando sean puestos de confianza presentarla a autorización de la Dirección General;
 
@@ -685,7 +805,9 @@ III. Realizar el seguimiento, ejecutar y controlar las incidencias del personal 
 
 IV. Planear, organizar, dirigir y controlar el programa de capacitación para cumplir cabalmente con los objetivos y las metas contempladas en el mismo;
 
-V. Planear, realizar y verificar las acciones necesarias para mejor (sic) el desempeño de los distintos proceso (sic) y servicios que conforman la Dirección;
+> <small>(REFORMADA, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
+V. Planear, realizar y verificar las acciones necesarias para mejorar el desempeño de los distintos procesos y servicios que conforman la dirección;
 
 VI. Conducir las relaciones laborales de DIF Sonora conforme a las leyes, reglamentos y políticas establecidas;
 
@@ -695,79 +817,15 @@ VIII. Desarrollar las demás atribuciones que de manera específica le señale s
 
 ###### Artículo 38.
 
-La Unidad de Comunicación Social, dependerá de la Dirección General y le corresponden las siguientes atribuciones:
-
-I. Planear, dirigir, controlar y evaluar la presupuestación y programación de la Unidad Administrativo a su cargo y el ejercicio de dicho presupuesto cumpliendo con los indicadores y las metas establecidas;
-
-II. Establecer y conducir las políticas de comunicación social de DIF Sonora;
-
-III. Elaborar, difundir y coordinar los lineamientos básicos de comunicación interna de DIF Sonora para una mejor difusión de las actividades;
-
-IV. Efectuar las acciones necesarias para mantener permanentemente informados a los medios de comunicación, de las actividades cotidianas de DIF Sonora;
-
-V. Establecer una estrecha relación y comunicación con los medios masivos informativos para mantener una permanente difusión de las acciones y actividades que se llevan a cabo en DIF Sonora;
-
-VI. Coordinar la producción, transmisión y publicación de campañas y acciones de difusión de DIF Sonora en los medios de comunicación, en acuerdo con la Coordinación de Comunicación Social del Ejecutivo del Estado;
-
-VII. Establecer relación formal con los Sistemas DIF Municipales, mediante los mecanismos adecuados de comunicación recíproca;
-
-VIII. Integrar y difundir al interior de DIF Sonora la información generada en los medios de comunicación, acerca de las acciones y eventos, que sobre Asistencia Social se realicen en otros ámbitos;
-
-IX. Coordinar y supervisar lo producción y edición de impresos promocionales de orientación y difusión de audiovisuales de DIF Sonora;
-
-X. Coordinar y supervisar el cumplimiento de las disposiciones establecidas para la imagen institucional;
-
-XI Atender y canalizar o los medios masivos de comunicación que soliciten entrevistas con funcionarios de DIF Sonoro;
-
-XII. Planear y coordinar el diseño y fabricación de los stands o presentarse por DIF Sonora, cuando tenga el compromiso de participar en congresos, convenciones y exposiciones;
-
-XIII. Formar porte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
-
-XIV. Desarrollar las demás atribuciones que de manera específica le asigne su superior jerárquico, así como aquellos que le confieran las Leyes y otros ordenamientos jurídicos aplicables.
+(DEROGADO, B.O. 18 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 39.
 
-La Unidad de Asesoría Legal, dependerá de la Dirección General y le corresponden las siguientes atribuciones:
-
-I. Representar legalmente a DIF Sonora ante toda clase de autoridad jurisdiccional o administrativa;
-
-II. Auxiliar y en su caso representar al Director General, en los eventos contenciosos que se ventilen ante los juzgados y tribunales, cuando DIF Sonora sea parte;
-
-III. Revisar y ante firmar lo documentación legal que requiero de la firma del Director General;
-
-IV. Analizar, corregir y validar los contratos, acuerdos y convenios a celebrar, así como el aspecto jurídico de los reglamentos y manuales administrativos de DIF Sonora;
-
-V. Vigilar y dar seguimiento al cumplimiento de los compromisos contraídos por DIF Sonora a través de acuerdos, contratos y convenios de colaboración, apoyo y coordinación interinstitucional celebrados;
-
-VI. Asesorar jurídicamente al Director General y a los titulares de los Unidades Administrativas que integran DIF Sonora;
-
-VII. Establecer, organizar y resguardar la normatividad aplicable vigente y promover su conocimiento y correcta aplicación en todas los Unidades Administrativas de DIF Sonora;
-
-VIII. Formar parte de los Órganos de Asesoría y Apoyo de DIF Sonora; y
-
-IX. Desarrollar las demás atribuciones que de manera específica le asigne su superior jerárquico, así como aquellas que le confieran las Leyes y otros ordenamientos jurídicos aplicables.
+(DEROGADO, B.O. 18 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 40.
 
-La Unidad de Estudios Estratégicos y Proyectos Especiales, dependerá de la Dirección General y le corresponden las siguientes atribuciones:
-
-I. Planear, la presupuestación y programación de la Unidad Administrativa a su cargo y controlar el correcto ejercicio de los recursos asignados cumpliendo con los indicadores y las metas establecidas;
-
-II. Coordinar la elaboración de Investigaciones estadísticas y cualitativas, ya sean científicas y aplicadas en temas de asistencia social para coadyuvar a la toma de decisiones;
-
-III. Coordinar, dirigir recomendar la integración de datos estadísticos, indicadores estratégicos que permitan lo toma de decisiones a través del desarrollo de metodologías cualitativas y cuantitativas de acuerdo con parámetros estadísticos, sociodemográficos y de percepción ciudadana;
-
-IV. Recomendar a la Dirección General la creación de nuevos proyectos y programas; así como adecuar y asegurar lo operación de los programas existentes;
-
-V. Recomendar la conformación de mecanismos que permitan influir en la conducción y conformación de las políticas públicas de asistencia social en DIF Sonora;
-
-VI. Dirigir el programa de evaluación de proyectos sociales de inversión para DIF Sonora;
-
-VII. Coordinar y presentar a la Coordinación General de Administración y Operación y posteriormente o lo Dirección General, los informes resultantes de los procesos, sujetos a reingeniería o en su caso a mejora de procesos;
-
-VIII. Apoyar en el logro de los objetivos de la Dirección General mediante lo evaluación y seguimiento de indicadores estratégicos, así como de planes y proyectos de la Institución;
-
-IX. Desarrollar las demás atribuciones inherentes a su cargo y las que de manera específica le asigne su superior jerárquico, o le confieran las Leyes y otros ordenamientos jurídicos aplicables.
+(DEROGADO, B.O. 18 DE SEPTIEMBRE DE 2006)
 
 ### CAPÍTULO VIII. Del Órgano Desconcentrado
 
@@ -837,15 +895,19 @@ En la ausencia del Comisario Público Ciudadano, éste será suplido por el comi
 
 La junta de Gobierno y demás dependientes jerárquicos de ésta, en su caso, deberán proporcionar oportunamente al Comisario Público designado por la Secretaría de la Contraloría General, la información y documentación que requiera para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 46.
 
-El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se le formule y notifique con cinco días de anticipación asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias de DIF Sonora a cargo de la Junta de Gobierno.
+El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público asistirán con voz pero sin voto, previa citación por escrito que se les formule y notifique con cinco días de anticipación a las sesiones ordinarias y con 48 horas a las extraordinarias.
 
 ### CAPÍTULO X. De las Relaciones Laborales
 
 ###### Artículo 47.
 
 DIF Sonora, para el logro de su objeto, estará integrado por trabajadores de confianza y de base.
+
+REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 48.
 
@@ -861,9 +923,11 @@ La relación de trabajo entre DIF Sonora y sus trabajadores, se regirá por la L
 
 Durante las ausencias temporales del Director General, el despacho y la resolución de los asuntos urgentes de DIF Sonora, estará a cargo del funcionario que el propio Director general designe.
 
+> <small>(REFORMADO, B.O. 18 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 51.
 
-En ausencias de uno o varios titulares de las Direcciones ó Unidades Administrativas, éstos serán suplidos por los funcionarios que designe el Director General.
+En ausencias de uno o varios titulares de las Coordinaciones Generales, Direcciones o Unidades Administrativas, éstos serán suplidos por los funcionarios que designe el Director General.
 
 ## Transitorios
 
@@ -910,3 +974,9 @@ Comisario Público Ciudadano de DIF Sonora
 Nota: Se anexa Organigrama General del DIF Sonora
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION VI DEL B.O. DE 20 DE OCTUBRE DE 2005, PAGINA 23.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 18 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
