@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-educacion-21887"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2005-05-17"
+last_updated: "2006-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -99,11 +99,15 @@ A).- Secretaría Técnica
 
 B).- Secretaría Particular
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+C).- Unidad de Asesores
+
 II.- SUBSECRETARÍAS:
 
 A).- Para el Desarrollo Educativo
 
-1.- Dirección para el Fortalecimiento de la Comunidad Educativa
+1.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 2.- Dirección General de Educación Básica
 
@@ -127,7 +131,7 @@ b.- Dirección de Educación Superior
 
 c.- Dirección para la Formación de Profesionales de la Educación
 
-5.- Dirección de Educación No Formal
+5.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 6.- Dirección General de Política Educativa
 
@@ -183,29 +187,19 @@ a.- Dirección de Egresos
 
 b.- Dirección de Ingresos
 
-4.- Dirección de Producción de Nómina
+4.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 III.- Unidades de Apoyo del Secretario:
 
-A).- Para el Desarrollo Institucional
-
-1.- Coordinación General Para el Desarrollo Institucional
-
-2.- Coordinación Ejecutiva de Cultura Organizacional
-
-3.- Coordinación Ejecutiva de Regulación Estructural
-
-4.- Coordinación Ejecutiva para la Integración Regional
-
-5.- Coordinación Ejecutiva para el Desarrollo Institucional Sectorial
+A).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 B).- De Comunicación
 
-1.- Dirección General de Comunicación
+1.- (DEROGADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
-a.- Dirección de Estudios de Comunicación
+a.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
-b.- Unidad de Comunicación Social
+b.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 c.- Dirección de Comunicación Interna
 
@@ -223,7 +217,7 @@ D).- De Sistemas y Tecnología
 
 a.- Dirección de Ingeniería de Programas
 
-b.- Dirección de Asistencia Técnica y Formación Tecnológica
+b.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 c.- Dirección de Integración de Tecnologías de Información
 
@@ -239,7 +233,7 @@ B.- Coordinaciones para el:
 
 2).- Desarrollo de la Educación Media Superior y Superior
 
-3).- Desarrollo del Docente y de Proyectos Educativos
+3).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 4).- Desarrollo de los Servicios Administrativos
 
@@ -275,9 +269,11 @@ f.- Acreditación e Incorporación
 
 Los titulares de las unidades administrativas de la SEG ejercerán sus atribuciones de conformidad con el presente Reglamento y demás disposiciones legales aplicables.
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-Para el mejor cumplimiento de sus funciones, las unidades administrativas de la SEG implementarán los Programas de Simplificación y Mejoramiento Administrativo de conformidad con la normatividad aplicable y en coordinación con la Unidad de Desarrollo Institucional de la SEG.
+###### Artículo 6o.
+
+Para el mejor cumplimiento de sus funciones, las unidades administrativas de la SEG implementarán los Programas de Simplificación y Mejoramiento Administrativo de conformidad con la normatividad aplicable.
 
 ## TÍTULO SEGUNDO. DE LA ESTRUCTURA Y ATRIBUCIONES DE LA SECRETARÍA
 
@@ -365,11 +361,41 @@ IV.- Coordinar la correspondencia de oficinas centrales de la SEG; y
 
 V.- Las demás que le asigne el Secretario.
 
-#### SECCIÓN PRIMERA. DE LOS DELEGADOS REGIONALES
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCIÓN TERCERA. DE LA UNIDAD DE ASESORES
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 9o Bis.
+
+La Unidad de Asesores tendrá las siguientes atribuciones:
+
+I.- Asesorar en la planeación, desarrollo y evaluación de proyectos y programas estratégicos de la SEG;
+
+II.- Proponer al Secretario políticas, estrategias y acciones para la atención de asuntos relevantes que incidan en la función educativa;
+
+III.- Asesorar y apoyar al Secretario en las acciones de coordinación con autoridades federales, de otras entidades federativas o de los municipios del Estado;
+
+IV.- Apoyar y asesorar a las diferentes áreas de la SEG, en la aplicación de herramientas y procesos de mejora, que contribuyan al adecuado cumplimiento de la función educativa y en la conformación de sus manuales de organización;
+
+V.- Proponer al Secretario adecuaciones a la estructura organizacional y al modelo de desarrollo institucional, que contribuyan a incrementar el nivel de competitividad organizacional de la SEG;
+
+VI.- Vigilar la efectividad, congruencia y articulación de las políticas educativas, administrativas y laborales, así como realizar las propuestas para su mejora;
+
+VII.- Coordinar y dar seguimiento a las acciones, comisiones y proyectos encomendados por el Secretario y elaborar los informes de su avance;
+
+VIII.- Evaluar los avances de los proyectos de corto y mediano plazo, para alcanzar los resultados esperados de las acciones programadas por la SEG;
+
+IX.- Generar propuestas para la articulación de los programas y proyectos implementados por la SEG en materia educativa; y
+
+X.- Las demás que le asigne el Secretario.
+
+La Unidad contará con los asesores que requieran las necesidades del servicio y que permita el presupuesto.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES GENERALES DE LOS TITULARES DE UNIDADES ADMINISTRATIVAS
 
-#### SECCIÓN SEGUNDA. DE LOS SUBSECRETARIOS
+#### SECCIÓN PRIMERA. DE LOS DELEGADOS REGIONALES
 
 ###### Artículo 10.
 
@@ -397,7 +423,7 @@ X.- Participar en los Comités de Planeación para el Desarrollo Regional; y
 
 XI.- Las demás que les señalen las disposiciones legales y reglamentarias, así como aquellas que les asigne el Secretario.
 
-#### SECCIÓN TERCERA. DE LOS DIRECTORES Y COORDINADORES
+#### SECCIÓN SEGUNDA. DE LOS SUBSECRETARIOS
 
 ###### Artículo 11.
 
@@ -427,7 +453,7 @@ XI.- Coordinar sus actividades con instancias educativas, para la resolución de
 
 XII.- Las demás que les señalen las disposiciones legales y reglamentarias, así como aquellas que les asigne su superior jerárquico.
 
-#### SECCIÓN CUARTA. DE LAS UNIDADES DE APOYO
+#### SECCIÓN TERCERA. DE LOS DIRECTORES Y COORDINADORES
 
 ###### Artículo 12.
 
@@ -461,7 +487,7 @@ XIII.- Suscribir los documentos que les competen en ejercicio de sus atribucione
 
 XIV.- Las demás que les señalen las disposiciones legales y reglamentarias, así como aquellas que les asigne su superior jerárquico.
 
-#### SECCIÓN PRIMERA. SUBSECRETARÍA PARA EL DESARROLLO EDUCATIVO
+#### SECCIÓN CUARTA. DE LAS UNIDADES DE APOYO
 
 ###### Artículo 13.
 
@@ -491,7 +517,7 @@ IX.- Las demás que les señalen las disposiciones legales y reglamentarias, as�
 
 Las Subsecretarías tendrán igual nivel administrativo.
 
-#### SECCIÓN SEGUNDA. SUBSECRETARÍA PARA EL DESARROLLO HUMANO
+#### SECCIÓN PRIMERA. SUBSECRETARÍA PARA EL DESARROLLO EDUCATIVO
 
 ###### Artículo 15.
 
@@ -567,27 +593,7 @@ XXXII.- Las demás que le señalen las disposiciones legales y reglamentarias, a
 
 ###### Artículo 16.
 
-La Dirección para el Fortalecimiento de la Comunidad Educativa, tendrá las siguientes atribuciones:
-
-I.- Definir estrategias para promover la participación social en la educación y la vinculación social del Sistema Educativo del Estado;
-
-II.- Proponer lineamientos que orienten la constitución y el funcionamiento de los Órganos de Participación Social en la Educación del Estado;
-
-III.- Proponer lineamientos y definir estrategias que promuevan la participación organizada de los padres de familia en las instituciones educativas en el Estado, de conformidad con la normatividad aplicable;
-
-IV.- Coordinar acciones de impacto social con los diferentes ámbitos de gobierno, las organizaciones sociales y los particulares para mejorar la educación en el Estado;
-
-V.- Diseñar y proponer nuevos modelos de organización que propicien una mejor participación social en la educación;
-
-VI.- Impulsar la asesoría y capacitación a las Delegaciones Regionales, en materia de vinculación y participación social;
-
-VII.- Impulsar programas para la formación de los padres de familia, que permitan a éstos cumplir de mejor manera su responsabilidad en el proceso educativo de sus hijos;
-
-VIII.- Proponer estrategias que permitan la utilización de los espacios educativos para impulsar el encuentro y desarrollo de las familias;
-
-IX.- Coadyuvar con los órganos estatales de participación social en el funcionamiento y seguimiento de sus acciones; y
-
-X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 17.
 
@@ -869,33 +875,7 @@ XII.- Las demás que le señalen las disposiciones legales y reglamentarias, as�
 
 ###### Artículo 26.
 
-La Dirección de Educación no Formal, tendrá las siguientes atribuciones:
-
-I.- Coadyuvar en el establecimiento de políticas de vinculación, para el desarrollo de la educación permanente, la capacitación para el trabajo y la educación no formal;
-
-II.- Promover la vinculación entre las Delegaciones Regionales y los diferentes organismos y programas que emprendan acciones de educación no formal, para el desarrollo de estrategias conjuntas;
-
-III.- Identificar conjuntamente con las Delegaciones Regionales y organismos de educación no formal, las necesidades educativas;
-
-IV.- Gestionar ante las instancias correspondientes, la prestación del servicio de educación no formal, para cubrir las necesidades detectadas;
-
-V.- Proponer estrategias para la oferta de programas que atiendan la demanda actual de educación no formal en el Estado;
-
-VI.- Proponer programas de capacitación, actualización y perfeccionamiento de conocimientos a través de Sistemas Alternativos de Formación y Desarrollo;
-
-VII.- Fomentar la creación de la red estatal de promoción de educación no formal, con la participación de las Delegaciones Regionales;
-
-VIII.- Promover la generación de la oferta educativa con opciones terminales que permitan acceder al mercado laboral en mejores condiciones;
-
-IX.- Impulsar acciones de evaluación de educación no formal en el Estado;
-
-X.- Promover la creación de modelos pedagógicos para la educación no formal;
-
-XI.- Proponer la creación y adecuación de las políticas en materia de educación no formal;
-
-XII.- Asesorar y capacitar a las Delegaciones Regionales respecto a la educación no formal; y
-
-XIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 27.
 
@@ -1095,7 +1075,7 @@ IX.- Coordinar con las Delegaciones Regionales la verificación del cumplimiento
 
 X.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
-#### SECCIÓN TERCERA. SUBSECRETARÍA DE RECURSOS FINANCIEROS Y MATERIALES
+#### SECCIÓN SEGUNDA. SUBSECRETARÍA PARA EL DESARROLLO HUMANO
 
 ###### Artículo 33.
 
@@ -1165,7 +1145,9 @@ I.- Coordinar y supervisar los procesos de reclutamiento, selección, capacitaci
 
 II.- Coordinar y administrar la bolsa de trabajo de la SEG;
 
-III.- Asegurar que la selección del personal de la SEG responda a la normatividad vigente y a las políticas definidas por la Subsecretaría para el Desarrollo Educativo y la Unidad de Apoyo para el Desarrollo Institucional;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+III.- Asegurar que la selección del personal de la SEG responda a la normatividad vigente y a las políticas definidas por la Subsecretaría para el Desarrollo Educativo;
 
 IV.- Promover el desarrollo integral del personal de la SEG;
 
@@ -1247,7 +1229,9 @@ VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así
 
 La Dirección General de Administración de Recursos Humanos, tendrá las siguientes atribuciones:
 
-I.- Cubrir las necesidades de personal de la SEG, acorde a lo establecido por la Subsecretaría para el Desarrollo Educativo y la Unidad para el Desarrollo Institucional conforme a los perfiles de puesto, así como coadyuvar en la solución de conflictos laborales de manera conjunta con la Unidad de Apoyo de Consejería Legal;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Cubrir las necesidades de personal de la SEG, acorde a lo establecido por la Subsecretaría para el Desarrollo Educativo, conforme a los perfiles de puesto, así como coadyuvar en la solución de conflictos laborales de manera conjunta con la Unidad de Apoyo de Consejería Legal;
 
 II.- Cumplir con los acuerdos, convenios y la normatividad aplicable a los procesos de cambios, comisiones, basificaciones y escalafón del personal docente y administrativo de la SEG;
 
@@ -1317,7 +1301,7 @@ V.- Coordinarse con la Subsecretaría de Recursos Financieros y Materiales y la 
 
 VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
 
-#### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL PARA EL DESARROLLO INSTITUCIONAL
+#### SECCIÓN TERCERA. SUBSECRETARÍA DE RECURSOS FINANCIEROS Y MATERIALES
 
 ###### Artículo 43.
 
@@ -1587,167 +1571,67 @@ IX.- Las demás que le señalen las disposiciones legales y reglamentarias, así
 
 ###### Artículo 54.
 
-La Dirección de Producción de Nómina, tendrá las siguientes atribuciones:
-
-I.- Garantizar el pago correcto de los movimientos operados en la base de datos de nómina;
-
-II.- Garantizar el pago correcto a los beneficiarios de las deducciones efectuadas en la nómina;
-
-III.- Supervisar la validación de los cálculos en prestaciones autorizadas e incrementos salariales;
-
-IV.- Autorizar las emisiones ordinarias y extraordinarias de la nómina;
-
-V.- Autorizar la extracción e impresión de la nómina definitiva;
-
-VI.- Autorizar la impresión de cheques de pago de nómina y la dispersión de los datos de nómina electrónica;
-
-VII.- Autorizar el pago por concepto de reexpedición de cheques de nómina;
-
-VIII.- Verificar la adecuada aplicación de la normatividad en materia de operación de nómina;
-
-IX.- Garantizar la integración de la información para la declaración anual del Impuesto Sobre el Producto del Trabajo de los trabajadores de la SEG;
-
-X.- Proponer políticas, procedimientos y sistemas de carácter técnico, en lo referente a la nómina;
-
-XI.- Proponer al titular de la Subsecretaría de Recursos Financieros y Materiales las medidas administrativas convenientes para la mejor organización y funcionamiento de la nómina;
-
-XII.- Garantizar la recuperación de recursos financieros con los beneficiarios de las deducciones de la nómina por concepto de cheques cancelados y reintegros de nómina;
-
-XIII.- Elaborar la nómina y los reportes derivados de la misma; y
-
-XIV.- Las demás que le señalen, las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LAS UNIDADES DE APOYO DEL SECRETARIO
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN
+#### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL PARA EL DESARROLLO INSTITUCIONAL
 
 ###### Artículo 55.
 
-La Coordinación General para el Desarrollo Institucional, tendrá las siguientes atribuciones:
-
-l.- Coordinar los esfuerzos de la SEG para el Desarrollo como organización en función del mejoramiento del servicio educativo;
-
-II.- Facilitar los procesos para la planeación estratégica y operativa en la SEG y sus dependencias;
-
-III.- Coordinar y asesorar en la SEG y sus dependencias la evaluación, adecuación y establecimiento de políticas estructurales en función de la optimización de procesos y servicios;
-
-IV.- Coordinar y asesorar en las acciones para el establecimiento de sistemas y programas para el mejoramiento continuo de procesos y servicios en todas las dependencias de la SEG y sus organismos sectorizados y descentralizados;
-
-V.- Coordinar el diseño e implementación de sistemas para la evaluación y reconocimiento al desempeño del personal; y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 56.
 
-La Coordinación Ejecutiva de Cultura Organizacional, tendrá las siguientes atribuciones:
-
-l.- Coordinar la definición de los valores institucionales que deberán impulsar y practicar las personas y grupos en la SEG;
-
-II.- Evaluar de forma continua la congruencia de las acciones de las personas y los grupos de la SEG en relación con los valores institucionales;
-
-III.- Desarrollar programas de formación en los valores institucionales en todo el personal;
-
-IV.- Medir el impacto organizacional de la promoción de los valores institucionales; y
-
-V.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 57.
 
-La Coordinación Ejecutiva de Regulación Estructural tendrá las siguientes atribuciones:
-
-l.- Impulsar y facilitar los procesos de planeación estratégica, táctica y operativa;
-
-II.- Impulsar y facilitar la simplificación y desconcentración de procesos a las Delegaciones Regionales;
-
-III.- Proponer e implementar proyectos para la adecuación estructural de la organización que responda a la política educativa;
-
-IV.- Coordinar la elaboración y actualización de los documentos formales de la organización; y
-
-V.- Las demás que le señalen las disposicione6 legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 58.
 
-La Coordinación Ejecutiva para la Integración Regional, tendrá las siguientes atribuciones:
-
-I.- Orientar y asesorar los procesos de desarrollo organizacional en las Delegaciones Regionales;
-
-II.- Formar y certificar facilitadores para procesos de mejora continua en las Delegaciones Regionales; y
-
-III.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 59.
 
-La Coordinación Ejecutiva para el Desarrollo Institucional Sectorial, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
-I.- Orientar y asesorar los procesos de desarrollo organizacional en los organismos sectorizados a la SEG;
-
-II.- Formar y certificar facilitadores para procesos de mejora continua en los organismos sectorizados a la SEG; y
-
-III.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
-
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE CONSEJERÍA LEGAL
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN
 
 ###### Artículo 60.
 
-La Dirección General de Comunicación, tendrá las siguientes atribuciones:
-
-l.- Difundir en la sociedad los avances del sistema educativo;
-
-II.- Establecer un sistema para conocer periódicamente las expectativas, necesidades y opiniones de la sociedad sobre el Sistema Educativo;
-
-III.- Coordinar la operación efectiva del sistema de comunicación interna de la SEG;
-
-IV.- Asesorar en la elaboración de los programas de comunicación de los organismos públicos descentralizados y entidades del sector educativo;
-
-V.- Establecer las políticas para la unificación de criterios en el manejo de la imagen institucional de la SEG, y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 61.
 
-La Dirección de Estudios de Comunicación, tendrá las siguientes atribuciones:
-
-I.- Realizar los estudios que permitan:
-
-a.- Establecer los modelos para garantizar la difusión estratégica de las acciones educativas;
-
-b.- Elaborar las propuestas de políticas para la planeación de los programas de comunicación de la SEG;
-
-c.- Asesorar a las instancias educativas en materia de planeación de medios;
-
-d.- Evaluar el impacto de la información que se difunde en los medios de comunicación respecto del sector educativo; y
-
-II.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 62.
 
-La Unidad de Comunicación Social, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
-I.- Elaborar las propuestas de difusión del Proyecto Educativo Estatal, sus avances y logros;
-
-II.- Aplicar los criterios del Plan General de Comunicación de la SEG en la elaboración de publicaciones de carácter informativo y de difusión;
-
-III.- Orientar y coadyuvar en las actividades de comunicación social de las Delegaciones Regionales y facilitar el apoyo que en esta materia le sea requerido por los organismos descentralizados y desconcentrados; y
-
-IV.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 63.
 
-La Dirección de Comunicación Interna, tendrá las siguientes atribuciones:
+La Dirección de Comunicación Interna estará directamente adscrita al Secretario y tendrá las siguientes atribuciones:
 
-I.- Coordinar la difusión de los objetivos, programas, y acciones de la SEG a la comunidad educativa;
+I.- Planear, organizar y coordinar la comunicación interna de la SEG;
 
-II.- Establecer canales y sistemas de comunicación interna entre el personal de la SEG y del sector educativo;
+II.- Coadyuvar en la difusión de los programas y avances del sistema educativo;
 
-III.- Orientar y coadyuvar en las actividades de comunicación interna de las Delegaciones Regionales y facilitar el apoyo que en esta materia le sea requerido por los organismos descentralizados y desconcentrados;
+III.- Atender los requerimientos de información relacionados con el servicio educativo;
 
-IV.- Difundir y dar seguimiento a la aplicación de las políticas de imagen institucional de la SEG;
+IV.- Instrumentar métodos y sistemas que permitan la más eficaz intercomunicación entre los servidores públicos que laboran en la SEG;
 
-V.- Proponer estrategias de comunicación que faciliten la vinculación entre los integrantes del Sistema Educativo; y
+V.- Coadyuvar en la observancia de las políticas de la imagen institucional de la SEG;
 
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+VI.- Revisar y autorizar la difusión de la información que generen las unidades administrativas de la SEG y determinar los medios que resulten más adecuados para ello; y
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE SISTEMAS Y TECNOLOGÍA
+VII.- Coordinar la cobertura informativa y logística de los eventos de la SEG.
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE CONSEJERÍA LEGAL
 
 ###### Artículo 64.
 
@@ -1847,7 +1731,7 @@ XII.- Notificar y ejecutar las sanciones dictaminadas por la Secretaría de la C
 
 XIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le confiera su superior.
 
-#### SECCIÓN PRIMERA. DE LA ORGANIZACIÓN
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE SISTEMAS Y TECNOLOGÍA
 
 ###### Artículo 67.
 
@@ -1897,29 +1781,7 @@ VII.- Las demás que le señalen las disposiciones legales y reglamentarias, as�
 
 ###### Artículo 69.
 
-La Dirección de Asistencia Técnica y Formación Tecnológica, tendrá las siguientes atribuciones:
-
-I.- Proponer las alternativas de actualización de los equipos y los programas informáticos, para que se adapten a la vanguardia tecnológica;
-
-II.- Validar el contenido de los programas de capacitación relacionados con tecnologías de información;
-
-III.- Garantizar el desarrollo de habilidades en los integrantes de la SEG, en el uso de las tecnologías de información;
-
-IV.- Garantizar el mantenimiento y óptimo funcionamiento de los equipos y programas de cómputo de la SEG;
-
-V.- Dar seguimiento a los servicios de asesoría y soporte técnico sobre problemas de equipos y programas informáticos;
-
-VI.- Asesorar al personal de la SEG en los trámites de garantía de equipo de cómputo y periféricos, así como dar seguimiento a los mismos;
-
-VII.- Vigilar la administración, control y resguardo de las licencias de programas informáticos;
-
-VIII.- Coadyuvar en la instrumentación de las políticas para la adquisición, uso y servicios relacionados con tecnología de información que apoye el desarrollo educativo, acorde a la normatividad establecida;
-
-IX.- Coadyuvar en la elaboración de contratos de servicios de tecnología de información y adquisición de bienes informáticos;
-
-X.- Emitir el dictamen técnico correspondiente para la adquisición de bienes informáticos; y
-
-XI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 70.
 
@@ -1961,7 +1823,7 @@ VI.- Las demás que le señalen las disposiciones legales y reglamentarias, así
 
 ### CAPÍTULO QUINTO. DE LA ORGANIZACIÓN Y ATRIBUCIONES DE LAS DELEGACIONES REGIONALES
 
-#### SECCIÓN SEGUNDA. DEL DELEGADO
+#### SECCIÓN PRIMERA. DE LA ORGANIZACIÓN
 
 ###### Artículo 72.
 
@@ -2099,7 +1961,7 @@ VIII.- Delegación Regional Sur Este Acámbaro
 
 Las Delegaciones Regionales tienen igual jerarquía entre sí y entre ellas no habrá preeminencia alguna.
 
-#### SECCIÓN TERCERA. DE LAS COORDINACIONES DE LAS DELEGACIONES REGIONALES
+#### SECCIÓN SEGUNDA. DEL DELEGADO
 
 ###### Artículo 75.
 
@@ -2149,7 +2011,7 @@ XX.- Garantizar la comunicación permanente con la comunidad y las instancias qu
 
 XXI.- Realizar las demás funciones que las atribuciones legales y reglamentarias le atribuyan, así como aquellas que le confiera su superior.
 
-#### SECCIÓN CUARTA. DE LOS CENTROS DE DESARROLLO EDUCATIVO
+#### SECCIÓN TERCERA. DE LAS COORDINACIONES DE LAS DELEGACIONES REGIONALES
 
 ###### Artículo 76.
 
@@ -2203,23 +2065,7 @@ VIII.- Las demás que le señalen las disposiciones legales y reglamentarias, as
 
 ###### Artículo 78.
 
-La Coordinación para el Desarrollo del Docente y de Proyectos Educativos, tendrá las siguientes atribuciones:
-
-I.- Coordinar los servicios que en cada municipio ofrecen los CEDE;
-
-II.- Coordinar la operación y evaluación de los proyectos educativos que se implementen en la región;
-
-III.- Operar, en coordinación con los jefes de sector y supervisores, las estrategias que promuevan el desarrollo de docentes y directivos;
-
-IV.- Promover el desarrollo de proyectos de investigación e innovación educativas en la región;
-
-V.- Dar seguimiento y evaluar los proyectos educativos que se implementen en la región, en coordinación con los jefes de sector y supervisores;
-
-VI.- Conocer y atender las necesidades de formación y desarrollo de los docentes, coordinándose con las instancias pertinentes;
-
-VII.- Coadyuvar a través de los CEDE en la elaboración de los Proyectos Educativos Municipales, así como apoyar la elaboración e implementación del Proyecto Educativo Estatal en la región; y
-
-VIII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior jerárquico.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 79.
 
@@ -2239,7 +2085,7 @@ VI.- Elaborar el presupuesto de egresos de la Delegación Regional y dar seguimi
 
 VII.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior jerárquico.
 
-#### SECCIÓN QUINTA. DE LAS UNIDADES DE SERVICIOS DE APOYO A LA EDUCACIÓN
+#### SECCIÓN CUARTA. DE LOS CENTROS DE DESARROLLO EDUCATIVO
 
 ###### Artículo 80.
 
@@ -2318,6 +2164,8 @@ IX.- Apoyar en la aplicación de evaluaciones de aprovechamiento escolar estatal
 X.- Analizar e interpretar datos estadísticos de necesidades de actualización; y
 
 XI.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquellas que le asigne su superior jerárquico.
+
+#### SECCIÓN QUINTA. DE LAS UNIDADES DE SERVICIOS DE APOYO A LA EDUCACIÓN
 
 ###### Artículo 84.
 
@@ -2542,3 +2390,7 @@ P.O. 17 DE MAYO DE 2005.
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- La Dirección para la Formación de Profesionales de la Educación continuará con el cumplimiento de las diversas actividades, comisiones y funciones en las que guardaba participación el Instituto Superior de Estudios Pedagógicos del Estado de Guanajuato.
+
+P.O. 19 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
