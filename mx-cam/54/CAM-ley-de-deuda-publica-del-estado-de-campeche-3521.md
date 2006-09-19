@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-deuda-publica-del-estado-de-campeche-3521"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-28"
-last_updated: "1995-06-28"
+last_updated: "2006-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 19 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 28 de junio de 1995.
 
@@ -246,3 +248,11 @@ Palacio Legislativo, Campeche, Cam., a 27 de Junio de 1995.- Dip. Vicente Castel
 En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 Fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veintisiete días del mes de junio de mil novecientos noventa y cinco.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2006.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Deuda Pública del Estado de Campeche expedida por la LV Legislatura del Congreso del Estado el 27 de junio de 1995, publicada el 28 de ese mismo mes y año en el Periódico Oficial del Estado; y se derogan todas las demás disposiciones legales y reglamentarias en lo que se opongan al contenido de la presente Ley.
