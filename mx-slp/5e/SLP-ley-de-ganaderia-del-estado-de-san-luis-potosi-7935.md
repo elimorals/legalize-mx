@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-7935"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-22"
-last_updated: "1998-10-14"
+last_updated: "2006-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE GANADERIA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 19 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el miércoles 22 de noviembre de 1995.
 
@@ -1090,3 +1092,13 @@ P.O. 14 DE OCTUBRE DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Ganadería del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, con fecha 22 de noviembre de 1995.
+
+TERCERO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo no mayor de noventa días a partir de la vigencia de este Ordenamiento.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a esta Ley.
