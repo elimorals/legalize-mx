@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "1999-12-15"
+last_updated: "2006-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -185,9 +185,17 @@ XLV. Instrumentos Económicos: Los mecanismos normativos y administrativos de ca
 
 XLVI. Instrumentos de Carácter Fiscal: Los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental; las que en ningún caso, se establecerán con fines exclusivamente recaudatorios;
 
-XLVII. Instrumentos Financieros: Los créditos, fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, protección, restauración o aprovechamiento sustentable del ambiente, así como al financiamiento de programas, proyectos, estudios de investigación científica y tecnológica para la conservación ambiental en la Entidad, y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-XLVIII. Instrumentos de Mercado: Las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas naturales protegidas de competencia estatal o municipal así también en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental.
+XLVII. Instrumentos Financieros: Los créditos, fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, protección, restauración o aprovechamiento sustentable del ambiente; así como al financiamientos de programas, proyectos, estudios de investigación científica y tecnológica para la conservación ambiental en la Entidad;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XLVIII. Instrumentos de Mercado: Las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo; o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas naturales protegidas de competencia estatal o municipal, así también, en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental, y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XLIX. Centro de Población: Las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas.
 
 ###### ARTICULO 4o.
 
@@ -267,7 +275,9 @@ XVIII. Determinar los porcentajes mínimos de suelos de la Entidad que requieran
 
 XIX. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones III, VI y VII del artículo 7° de la LGEEPA;
 
-XX. La evaluación del impacto ambiental de las obras o actividades que no se encuentren expresamente reservadas a la federación, y en su caso, la expedición de las autorizaciones correspondientes en los términos establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XX. La evaluación del impacto ambiental de las obras o actividades que no se encuentren expresamente reservadas a la federación o a los municipios, y, en su caso, la expedición de las autorizaciones correspondientes en los términos establecidos en la presente Ley;
 
 XXI. La conducción de la política estatal de información y difusión en materia ambiental;
 
@@ -295,7 +305,9 @@ XXXII. La elaboración de informes periódicos sobre el estado del ambiente en e
 
 XXXIII. La prestación de apoyo y auxilio técnico a los ayuntamientos y a los organismos operadores del agua que lo precisen, para el cumplimiento de las atribuciones que esta Ley les otorga;
 
-XXXIV. Expedir los dictámenes técnicos previos al otorgamiento de las licencias de uso de suelo, respecto de las obras o actividades de carácter público o privado que puedan causar impacto ambiental significativo o que sean consideradas como riesgosas, situadas dentro de los centros de población y asentamientos humanos, así como en los casos de obras o actividades que se pretendan desarrollar fuera de los mismos;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XXXIV. Expedir los dictámenes técnicos previos al otorgamiento de las licencias de uso de suelo, respecto de las obras o actividades de carácter público o privado que puedan causar impacto ambiental significativo, o que sean consideradas como riesgosas, situadas dentro de los centros de población y asentamientos humanos que no cuenten con Plan de Centro de Población Estratégico o Plan de Desarrollo Urbano, así como en los casos de obras o actividades que se pretendan desarrollar fuera de los mismos;
 
 XXXV. Inspeccionar las obras o actividades que lo requieran y sancionar en los casos que así lo ameriten, en los términos previstos en esta Ley y demás disposiciones aplicables, en aquellos a que alude el Décimo Transitorio de este ordenamiento sólo en cuanto este último esté vigente;
 
@@ -351,7 +363,9 @@ XVIII. La formulación y conducción de la política municipal de información y
 
 XIX. Expedir las licencias de uso de suelo conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano, en la presente Ley, en los planes de ordenamiento ecológico, de desarrollo urbano y demás disposiciones normativas y reglamentarias aplicables;
 
-XX. Promover previamente ante la SEGAM y participar en la evaluación del impacto ambiental de obras o actividades de competencia estatal que puedan causar impacto ambiental significativo, cuando las mismas se pretendan realizar en el ámbito de su circunscripción territorial, a fin de otorgar, en los términos de dicha evaluación y autorización, la licencia de uso de suelo municipal de construcción y la licencia de operación o funcionamiento correspondientes;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XX. Realizar la evaluación del impacto ambiental de obras o actividades que puedan causar impacto ambiental significativo, cuando las mismas se pretendan realizar en sus centros de población, y cuenten con Plan de Desarrollo Urbano, y Plan de Centro Estratégico de Población, a fin de otorgar, en los términos de dicha evaluación y autorización, la licencia de uso de suelo municipal de construcción, y la licencia de operación o funcionamiento correspondientes; cuando no cuenten con dichos planes promoverán la evaluación conjunta con la SEGAM;
 
 XXI. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
 
@@ -377,7 +391,9 @@ XXXI. Aplicar por sí o a través de los organismos operadores del agua, las med
 
 XXXII. Expedir y adecuar los Bandos de Policía y Buen Gobierno, así como los reglamentos, circulares y demás actos administrativos que fueren convenientes o necesarios para la mejor observancia de la Ley, y
 
-XXXIII. La atención de los demás asuntos que en materia de conservación ambiental les conceda la LGEEPA, esta Ley u otros ordenamientos, en concordancia con éstas y que no estén otorgados expresamente a la federación o al Estado.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XXXIII. Expedir las autorizaciones de impacto ambiental en los casos que establece la ley.
 
 ###### ARTICULO 9o.
 
@@ -463,7 +479,9 @@ Los instrumentos mediante los cuales el Estado y los ayuntamientos, en su caso, 
 
 I. Los planes de ordenamiento ecológico del territorio y los programas derivados de los mismos, así como las declaratorias de áreas naturales protegidas de jurisdicción estatal y municipal, así como sus correspondientes planes de manejo o recuperación que, como integrantes del ordenamiento ecológico de la Entidad están establecidos y regulados en esta Ley;
 
-II. Las licencias de uso del suelo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+II. Las licencias de uso del suelo de obras o actividades que se pretendan realizar fuera de las áreas urbanas o urbanizables;
 
 III. Los instrumentos económicos;
 
@@ -797,89 +815,53 @@ V. En general, aquellas actividades relacionadas con la protección, conservaci�
 
 En los términos previstos por el artículo 9° fracción X de la Ley General de Asentamientos Humanos, los ayuntamientos podrán fijar las restricciones, tanto al uso del suelo como a las construcciones de cualquier clase que requieran el desarrollo urbano y ambiental estatal, así como las que fueren necesarias para la aplicación de los respectivos planes, de la presente Ley y demás disposiciones legales aplicables.
 
-El criterio general normativo para la regulación de los usos del suelo en el territorio del Estado, obedecerá estrictamente al contenido de los planes de ordenamiento ecológico regional y local del territorio, así como a los planes de desarrollo urbano en los asentamientos humanos y centros de población, a lo previsto en ésta y otras leyes aplicables.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+El criterio general normativo para la regulación de los usos del suelo en el territorio del Estado, obedecerá estrictamente al contenido de los planes de ordenamiento ecológico regional del territorio, así como a los planes de desarrollo urbano en los asentamientos humanos y centros de población, a lo previsto en esta Ley, las de Desarrollo Urbano, y del Agua, así como de otras leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+El otorgamiento de dichas licencias será conforme lo dispone la Ley de Desarrollo Urbano del Estado.
 
 ###### ARTICULO 49.
 
-La Licencia de Uso del Suelo que otorguen los municipios, respecto de la administración y control del aprovechamiento del suelo tendrá los siguientes objetivos:
-
-I. Conformar la estructura urbana y rural y su entorno ambiental, de acuerdo a lo previsto en los planes de ordenamiento ecológico regionales y locales del territorio, así como en los respectivos planes de desarrollo urbano;
-
-II. Impedir que, con motivo del establecimiento de actividades tanto públicas como privadas, de gran magnitud o riesgo, de carácter industrial, comercial, de servicios u otros, se afecten gravemente la prestación de los servicios públicos, el equilibrio dinámico del ambiente natural, la salud y seguridad pública y, en general, el nivel de las condiciones de vida de la población;
-
-III. Evitar la construcción, instalación y funcionamiento de edificios, obras y actividades públicas o privadas que correspondan a usos prohibidos, según la zonificación contemplada en el plan de ordenamiento ecológico o en el respectivo plan de desarrollo urbano;
-
-IV. Precisar las condiciones a que, en su caso, quedará sujeto el aprovechamiento del inmueble de que se trate con el uso del suelo permitido que se le asigne, para lograr su integración al contexto urbano de la zona en que se encuentre ubicado y, de igual manera, para prevenir, atenuar o compensar alteraciones significativas al ambiente en el territorio del Estado, y
-
-V. Configurar la imagen urbana de los nuevos desarrollos en el marco de los elementos naturales y paisajísticos existentes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 50.
 
-Los ayuntamientos deberán recabar previamente el dictamen técnico correspondiente que expedirá la SEGAM, en los casos de obras o actividades tanto de carácter público como privado que puedan causar impacto ambiental significativo dentro del territorio de la Entidad, así como en los casos y actividades consideradas riesgosas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 51.
 
-En los casos en que la SEMARNAP en el ámbito de su competencia hubiere autorizado cambios de uso de terrenos forestales o de aptitud preferentemente forestal, aprovechamientos forestales o hubiese emitido cualquier otra autorización, tratándose de cambios de uso del suelo y aprovechamiento del mismo, en los términos de la LGEEPA y de la Ley Forestal y su Reglamento, el titular de las autorizaciones federales deberá presentar éstas conjuntamente con los estudios técnicos y manifestaciones de impacto ambiental que pudieran causar modificaciones a la calidad de vida, ante el Ayuntamiento que corresponda a efecto de solicitar se le expida el dictamen técnico respectivo, que servirá de base para la expedición de la licencia de uso del suelo, por el mismo.
-
-El Ayuntamiento, una vez presentada la documentación correspondiente, procederá a revisarla y evaluarla expidiendo el dictamen correspondiente, mismo que podrá ser positivo o negativo o condicionando la expedición de la licencia al cumplimiento previo de otros requisitos que se apeguen a la normatividad ambiental vigente, por lo tanto, quedará prohibida la realización de cualquier obra o actividad mientras el Ayuntamiento no expida la referida licencia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 52.
 
-Los ayuntamientos no expedirán licencias de uso del suelo, o prórrogas a la misma, que contravengan lo establecido en los planes de ordenamiento ecológico, de desarrollo urbano, en los decretos de áreas naturales protegidas o que contravengan la normatividad ambiental y urbana, la LGEEPA, esta Ley, así como demás ordenamientos y disposiciones reglamentarias aplicables.
-
-Los ayuntamientos tampoco emitirán licencias municipales de construcción o de funcionamiento con infracción a lo contemplado en la respectiva licencia de uso del suelo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 53.
 
-La licencia de uso del suelo deja a salvo los derechos de terceros, y no prejuzga respecto de la titularidad del dominio y demás derechos que recaigan sobre los inmuebles a que se refieran.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 54.
 
-La licencia de uso del suelo señalará, para el respectivo predio, los usos de referencia de manera que su titular tenga constancia fidedigna de los usos permitidos entre los cuales pueda optar, así como de las restricciones federales y estatales que le sean aplicables. En su caso, dicha licencia indicará el uso que puede generar impacto ambiental significativo que en su caso se permita y las condiciones, restricciones, limitaciones y otorgamiento de garantías a que su ejercicio pueda quedar sujeto.
-
-Previo a la emisión de la licencia de uso del suelo que pueda generar impacto ambiental significativo o en los casos de actividades riesgosas, se recabará la opinión del Cabildo, la que deberá quedar asentada en el acta de la sesión que al efecto se levante. En estos casos, el Ayuntamiento respectivo una vez recibida la solicitud para la expedición de la licencia, remitirá sin demora en un plazo máximo de cinco días hábiles contados a partir de la recepción del documento, la solicitud con sus anexos a la SEGAM y a la SEDUCOP cuando así proceda, para recabar su dictamen técnico sobre el uso solicitado, debiendo dichas autoridades emitirlo en un término improrrogable de diez días hábiles contados a partir de la fecha en que reciban la solicitud correspondiente.
-
-La SEGAM y la SEDUCOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solicitado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 55.
 
-La licencia de uso del suelo dejará de surtir efectos en aquellos casos en que habiendo transcurrido seis meses a partir de la expedición de la misma no se hubieren iniciado los trabajos de construcción, o si durante el transcurso de un año contado a partir de su fecha de expedición el solicitante no hubiere iniciado actividades; en este último caso, los plazos previstos en la licencia podrán prorrogarse a petición expresa del solicitante; cuando se hubieren realizado ampliaciones, diversificación de actividades o cambio de giro industrial, comercial o de servicios requerirá la expedición de nueva licencia.
-
-La prórroga de los plazos mencionados en el párrafo anterior, deberá solicitarse dentro de los quince días naturales anteriores a la fecha en que éstos expiran, debiendo el promovente hacer entrega al Ayuntamiento que corresponda de la licencia original. Una vez evaluada la solicitud de prórroga y previo dictamen de las autoridades que corresponda, el Ayuntamiento expedirá la prórroga solicitada dentro de los quince días hábiles siguientes.
-
-El titular de la licencia de uso de suelo no podrá realizar ampliaciones, diversificación de actividades o cambio de giro industrial, comercial y de servicios, sin que se le haya expedido la nueva licencia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 56.
 
-Procederá la revocación de la licencia de uso del suelo en los siguientes casos:
-
-I. Cuando se haya modificado el uso, las intensidades máximas de ocupación y utilización del predio, o las restricciones estatales o federales constantes en la misma, o no se hubieren observado éstas últimas por el titular de la licencia;
-
-II. Cuando el titular de la licencia no hubiese dado aviso a la autoridad competente de la modificación del proyecto inicialmente presentado, así como del cambio de uso del suelo en el respectivo predio;
-
-III. En aquellos casos en que el Ayuntamiento, la SEGAM o la SEDUCOP cuando así proceda, detecten mediante los procedimientos previstos en esta Ley o en el ordenamiento que resulte aplicable, que no se dio cumplimiento a cualquiera de las condicionantes establecidas en la licencia original y dentro de los plazos previstos en la misma, y
-
-IV. Cuando se advierta falsedad de datos en la información presentada ante la autoridad.
-
-En el caso de la fracción anterior, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la acción emprendida. Para los efectos de este artículo se requerirá la declaratoria de la autoridad competente.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 57.
 
-Una vez otorgada la licencia si se detectare a través del procedimiento de inspección previsto en esta Ley, que su titular ha causado o sigue causando por sí o por interpósita persona daños irreversibles al entorno ambiental del inmueble, o no hubiere dado cumplimiento con las restricciones federales o condicionantes estatales previstas en las autorizaciones respectivas, el Ayuntamiento correspondiente podrá dejar sin efectos la licencia otorgada, sin perjuicio de la aplicación de las medidas de seguridad y sanciones establecidas en el presente ordenamiento.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 58.
 
-La solicitud de licencia de uso del suelo deberá contener y acompañar cuando menos los siguientes requisitos:
-
-I. Señalar el uso actual del suelo, así como el uso que se propone y superficie por construir de ser el caso, acompañando un croquis de localización del predio;
-
-II. Anteproyecto arquitectónico o de diseño urbano de ser el caso, y memoria descriptiva del mismo cuando se trate de uso que pueda generar impacto ambiental significativo en su área de influencia, y
-
-III. El estudio técnico justificativo para cambio de uso de terrenos forestales o de aptitud preferentemente forestal, y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAP para su evaluación, así como las autorizaciones emitidas por la misma cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma en materia de impacto ambiental.
-
-La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna; dicha licencia será personalísima, intransferible, inembargables los derechos derivados de la misma e inalienable y no será objeto de fusión o escisión tratándose de sociedades mercantiles legalmente constituidas.
-
-En aquellos casos en que no exista un marco rector normativo que establezca una zonificación de uso de suelo, previo al otorgamiento de la licencia que al efecto se expida, deberá recabarse el dictamen y opinión de la SEGAM o de la SEDUCOP o de ambas, según el caso particular de que se trate y conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano y en esta Ley.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2006)
 
 ## TITULO QUINTO. DEL APROVECHAMIENTO SUSTENTABLE DE LOS ELEMENTOS NATURALES Y ANTROPICOS
 
@@ -1481,6 +1463,8 @@ VIII. De instalación de centros de acopio de residuos sólidos reciclables, tal
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 114.
 
 La prevención y control de las contingencias ambientales que se generen en el territorio de la Entidad, corresponderá al Sistema Estatal de Protección Civil.
@@ -1517,137 +1501,281 @@ V. Sistemas de medidas concretas de acciones, lugares señalados para las labore
 
 ###### ARTICULO 117.
 
-La realización de obras y actividades que puedan causar deterioro ambiental, efectos negativos sobre el ambiente y que rebasen los límites y condiciones establecidos en las disposiciones aplicables para su protección, requerirá de la autorización de impacto ambiental por parte de la SEGAM, con excepción de las obras y actividades que de conformidad con el artículo 28 de la LGEEPA corresponda a la SEMARNAP autorizar su impacto ambiental.
+La evaluación del impacto ambiental es el procedimiento a través del cual, la autoridad competente evalúa los efectos que sobre el ambiente y los recursos naturales, pueden generar la implementación de planes y programas de desarrollo dentro del territorio del Estado, así como de las obras o actividades a que se refiere este Capítulo, a fin de evitar o reducir al máximo los efectos negativos sobre el ambiente, prevenir futuros daños al mismo, y propiciar el aprovechamiento sustentable de los recursos naturales.
+
+El procedimiento de evaluación del impacto ambiental se inicia mediante la presentación del documento denominado manifestación de impacto ambiental ante la SEGAM, o ante el ayuntamiento correspondiente, según competa conforme a esta Ley; y concluye con la resolución que ésta última emita. La elaboración de la manifestación de impacto ambiental se sujetará a lo que establecen la presente Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 118.
 
-Para los efectos del artículo anterior requerirán autorización de impacto ambiental, quienes pretendan realizar las siguientes obras o actividades ya sean públicas o privadas:
+Las personas físicas o morales interesadas en la realización de obras o actividades, que impliquen o puedan implicar afectación del medio ambiente o generación de riesgos, requieren autorización de impacto ambiental, previo a la realización de las mismas.
 
-I. Obra pública que no corresponda a la competencia de la federación;
+Las obras y actividades que requieren autorización de la SEGAM, son las siguientes:
 
-II. Obras hidráulicas en aguas de jurisdicción estatal y municipal;
+I. Obras o actividades que pretendan realizarse en áreas naturales protegidas de competencia del Estado;
 
-III. Zonas y parques industriales en los que no se prevean realizar actividades altamente riesgosas;
+II. Obras o actividades dentro de suelo urbano en los siguientes casos:
 
-IV. Carreteras, caminos y puentes estatales, incluyendo los caminos rurales;
+a) Las que colinden con áreas naturales protegidas o suelos de conservación y con vegetación de cuerpos de aguas.
 
-V. Explotación, extracción, procesamiento y beneficio de minerales o substancias no reservadas a la federación, en los términos establecidos en el párrafo cuarto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Minera y en esta Ley, tales como explotación de bancos de materiales para la construcción u ornamento de obras, y aquellas cuyos productos se deriven de la descomposición de las rocas y cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto entre otras;
+b) Nuevas actividades u obras de infraestructura, servicios o comerciales o sus ampliaciones, cuyos procesos requieran de medidas, sistemas o equipos especiales para no afectar los recursos naturales, o para cumplir con las normas ambientales para el Estado.
 
-VI. Instalaciones de tratamiento, recuperación y disposición final de residuos sólidos municipales, así como de residuos industriales no peligrosos;
+c) Obras, actividades o cambios de uso de suelo que se pretendan realizar en predios con cobertura vegetal;
 
-VII. Instalaciones de tratamiento de aguas residuales de procedencia municipal;
+III. Industrias de todo género, con excepción de las que conforme al artículo 28 fracción II de la Ley General del Equilibrio Ecológico y Protección al Ambiente, corresponde a la SEMARNAT evaluar su impacto ambiental;
 
-VIII. Industrias de todo género, con excepción de las que conforme al artículo 28 fracción II de la LGEEPA, corresponde a la SEMARNAP evaluar su impacto ambiental;
+IV. Explotación, extracción, procesamiento y beneficio de minerales o substancias no reservadas a la Federación, en los términos establecidos en el párrafo cuarto del artículo 27 de la Constitución Poli tica (sic) de los Estados Unidos Mexicanos, en la Ley Minera y en esta Ley, tales como explotación de bancos de materiales para la construcción u ornamento de obras, y aquéllas cuyos productos se deriven de la descomposición de las rocas, y cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto, entre otras;
 
-IX. Desarrollos turísticos;
+V. Vías de comunicación de competencia del Estado;
 
-X. Obras y actividades en áreas naturales protegidas de jurisdicción estatal y municipal;
+VI. Zonas y parques industriales donde no se prevea la realización de actividades altamente riesgosas;
 
-XI. Actividades consideradas como riesgosas en los términos previstos en esta Ley, así como en el listado que al efecto se expida;
+VII. Conjuntos o fraccionamientos habitacionales que pretendan realizarse fuera de los centros de población;
 
-XII. Fraccionamientos de cualquier tipo;
+VIII. Desarrollos turísticos;
 
-XIII. Creación y fundación de nuevos centros de población, y
+IX. Actividades consideradas riesgosas en los términos de esta Ley;
 
-XIV. Las demás que aun cuando sean distintas a las anteriores, puedan causar impactos ambientales significativos de carácter adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas para su realización a la regulación federal.
+X. Las instalaciones para la disposición final de residuos sólidos, urbanos y las instalaciones para el manejo de residuos de manejo especial y residuos industriales no peligrosos, en los términos del Titulo Sétimo Capitulo II de esta Ley;
+
+XI. Instalaciones de tratamiento secundario de aguas residuales provenientes de los sistemas de drenaje y alcantarillado;
+
+XII. Obras hidráulicas en aguas sujetas a la regulación del Estado, y
+
+XIII. Aquellas obras o actividades que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente.
+
+El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes, precisarán, respecto del listado anterior, los casos y las modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo; así como los casos en que por su ubicación y características, conforme a los planes de desarrollo urbano y de Centro de Población Estratégico o Municipal, las obras y actividades no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en esta Ley,
+
+Cuando las obras y actividades señaladas en el presente artículo, impliquen el cambio de uso de suelo de terrenos forestales, el interesado deberá obtener previamente de la SEMARNAT, la autorización de cambio de uso de suelo respectiva, de conformidad a lo previsto en la Ley General de Desarrollo Forestal Sustentable.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 119.
 
-Los efectos negativos que sobre el ambiente pudieren causar las obras o actividades no previstas en el artículo anterior, estarán sujetas en lo conducente a las disposiciones de esta Ley, así como a la normatividad federal y estatal en materia de impacto ambiental.
+La autoridad municipal expedirá las autorizaciones de impacto ambiental en los siguientes casos:
+
+l. Fraccionamientos habitacionales que pretendan ubicarse dentro del centro de población, cuando éste se encuentre determinado por el respectivo Plan de Desarrollo Urbano o de Centro de Población Estratégico o Municipal; a falta de éste, la evaluación de los mismos corresponderá a la SEGAM, conforme a lo previsto en la fracción XXXIV del artículo 7° de la presente Ley;
+
+II. Mercados, centros comerciales y centrales de abastos;
+
+III. Los que establezcan los ordenamientos ecológicos o planes de desarrollo urbano municipales;
+
+IV. Obras o actividades que pretendan realizarse dentro de áreas naturales protegidas de competencia municipal, y que no corresponda a la SEGAM o a la SEMARNAT evaluar su impacto ambiental;
+
+V. Obras de mantenimiento y reparación en vías municipales de comunicación, y la creación de caminos rurales;
+
+VI. Instalaciones dedicadas al manejo de residuos sólidos urbanos, excepto las dedicadas para su disposición final;
+
+VII. Obras o actividades que estando reservadas a la Federación o al Estado, se descentralicen mediante convenio a favor del municipio;
+
+VIII. Actividades micro industriales, cuando por sus características y objeto impliquen riesgo al ambiente, y
+
+IX. Obras o actividades que estando reservadas a la Federación o al Estado, se descentralicen mediante convenio a favor del municipio.
+
+En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso de suelo, construcciones, fraccionamientos, u otros que establezcan los reglamentos municipales y disposiciones que de ellos se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatible la política ambiental con la de desarrollo urbano, y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia. El reglamento municipal respectivo que para tal efecto se emita, determinará los procedimientos para llevar a cabo la evaluación del impacto ambiental de las obras y actividades señaladas en el presente artículo.
+
+Los ayuntamientos se abstendrán de expedir las autorizaciones de impacto ambiental, en los casos en que la obra o actividad se desarrolle en territorio de dos o más municipios, o cuando las obras rebasen más del treinta por ciento del tamaño del núcleo de población en que pretendan desarrollarse. En este caso, la autorización deberá solicitarse ante la SEGAM.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 120.
 
-Para obtener la autorización a que se refieren los artículos 117 y 118 de esta Ley, los interesados deberán presentar ante la SEGAM una manifestación de impacto ambiental, en los términos previstos en el artículo 30 de la LGEEPA.
+Quedan exentas de autorización de impacto ambiental:
 
-Cuando se trate de actividades consideradas como riesgosas en los términos de la presente Ley y que se encuentren en el listado que al efecto se expida, la manifestación deberá incluir un análisis de riesgo bajo la modalidad de informe preliminar.
+I. Las obras y actividades de emergencia que sean necesarias para prevenir o para mitigar los daños causados, o que pudieran ocasionarse con motivo de desastres naturales, accidentes o catástrofes;
 
-Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de la obra o actividad, los interesados deberán hacerlas del conocimiento de la SEGAM, a fin de que ésta en un plazo no mayor de diez días hábiles contados a partir de su recepción, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en términos de lo dispuesto en esta Ley y en la normatividad ambiental vigente.
+II. Las obras o actividades que por su magnitud, ubicación, condiciones de su entorno y calidad en sus procesos de producción, previo análisis de la solicitud respectiva, se considere nula o poco significativa la generación de impactos, y
 
-El contenido del informe preventivo, así como las características y las modalidades de las manifestaciones de impacto ambiental, serán los establecidos en los instructivos que al efecto se expidan mediante acuerdo administrativo, y en su defecto en lo previsto en el Reglamento de la LGEEPA en materia de impacto ambiental.
+III. Las obras y actividades expresamente previstas en un plan parcial de desarrollo urbano, o programa de ordenamiento ecológico, evaluado por la Secretaría en los términos de este Apartado.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 121.
 
-En la realización de obras y actividades a que se refiere el artículo 118 de esta Ley, requerirán la presentación de un informe preventivo y no una manifestación de impacto ambiental cuando:
+Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría o el ayuntamiento correspondiente, según competa, una manifestación de impacto ambiental; la cual deberá contener, por lo menos:
 
-I. Existan normas oficiales mexicanas o normas ambientales estatales u otras disposiciones que regulen sus emisiones, descargas, aprovechamiento de los recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
+l. Nombre, denominación o razón social, nacionalidad, domicilio y dirección de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación;
 
-II. Las obras o actividades de que se trate, estén expresamente previstas por un plan de desarrollo urbano o programa de ordenamiento ecológico que haya sido evaluado por la SEGAM, debidamente aprobado y publicado en el Periódico Oficial del Estado, y
+II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra en el desarrollo de la actividad; la superficie de terreno requerido; el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad; el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y el programa para el abandono de las obras o el cese de las actividades;
 
-III. Se trate de instalaciones que pretendan ubicarse en fraccionamientos industriales o comerciales autorizados.
+III. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
 
-En los casos anteriores la SEGAM, una vez analizado el informe preventivo, determinará en un plazo no mayor de veinte días naturales contados a partir de la recepción del informe, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el Reglamento de la LGEEPA en materia de impacto ambiental.
+IV. Vinculación con las normas y regulaciones de uso del suelo en el área correspondiente;
+
+V. Identificación, descripción y evaluación de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas, mediante la utilización de instrumentos metodológicos, y
+
+VI. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
+
+Cuando se trate de actividades consideradas riesgosas en los términos de esta Ley, la manifestación deberá incluir el estudio de riesgo correspondiente, el cual será considerado al evaluarse el impacto ambiental.
+
+Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta en un plazo no mayor de diez días hábiles, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
+
+El contenido del informe preventivo, así como las características, las modalidades de las manifestaciones de impacto ambiental y los casos para los que aplicarán, serán los establecidos en el reglamento de la presente Ley, los reglamentos municipales, o en los instructivos que al efecto se expidan mediante acuerdo administrativo; o en caso de no existir los anteriores, en lo previsto en el Reglamento de la LGEEPA en materia de evaluación del impacto ambiental.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 122.
 
-Una vez que la SEGAM reciba una manifestación de impacto ambiental, pondrá ésta a disposición del público con el fin de que pueda ser consultada por cualquier persona.
+En las áreas naturales protegidas se requerirá de una manifestación de impacto ambiental en su modalidad regional, para toda actividad, obra y operación pública o privada que se pretenda desarrollar, excepto aquellas que se encuentren expresamente previstas en el respectivo decreto o programa de manejo.
 
-Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial que aporte el interesado.
-
-La SEGAM a solicitud de cualquier persona de la comunidad podrá llevar a cabo una reunión pública de información y consulta, misma que deberá efectuarse antes de la iniciación del procedimiento de evaluación e indicará también que dicho documento se encuentra a disposición de cualquier persona, a través de medios electrónicos y en las oficinas de dicha dependencia.
-
-Asimismo, el promovente deberá publicar a su costa un extracto del proyecto en alguno de los diarios de mayor circulación en la Entidad, dentro del plazo de cinco días hábiles contados a partir de su presentación ante la SEGAM.
-
-Cualquier interesado dentro del plazo de cinco días hábiles contados a partir de la publicación del extracto del proyecto que contiene la manifestación de impacto ambiental, podrá solicitar sea puesta a su disposición para su consulta en los términos señalados con anterioridad; asimismo, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes, dentro de un plazo no mayor de cinco días hábiles. En caso de no presentarse éstas dentro del plazo señalado, se entenderá que no existen observaciones al proyecto. La SEGAM agregará las observaciones realizadas por los interesados al expediente respectivo y consignará en la resolución que emita el proceso de consulta, así como los resultados de las observaciones propuestas que se hayan formulado por escrito.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 123.
 
-Una vez presentada la manifestación de impacto ambiental y transcurridos los plazos antes señalados, la SEGAM iniciará el procedimiento de evaluación para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento y la normatividad ambiental aplicable e integrará el expediente respectivo en un plazo no mayor de cinco días hábiles.
+En la realización de obras y actividades a que se refieren los artículos 118 y 119 de esta Ley, requerirán la presentación de un informe preventivo, y no una manifestación de impacto ambiental, cuando:
 
-La SEGAM una vez presentada una manifestación de impacto ambiental, notificará de ello al municipio correspondiente donde se pretenda llevar a cabo la obra o actividad, en un término de cinco días hábiles, a fin de que manifieste lo que a su interés convenga, situación que deberá llevar a cabo en un plazo de cinco días hábiles contados a partir de la notificación correspondiente; una vez transcurrido dicho plazo sin que el municipio hubiese manifestado algo al respecto, se entenderá que no existe objeción o comentarios al proyecto presentado.
+I. Existan normas oficiales mexicanas, o normas ambientales estatales, u otras disposiciones que regulen sus emisiones, descargas, aprovechamiento de los recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 
-Para la autorización de las obras y actividades a que se refiere al artículo 118 de esta Ley, la SEGAM se sujetará a lo que establezcan los ordenamientos antes señalados, así como los planes de desarrollo urbano y programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
+II. Las obras o actividades de que se trate, estén consideradas a realizarse dentro de la zonificación respectiva de un plan de desarrollo urbano o programa de ordenamiento ecológico, debidamente aprobado y publicado en el Periódico Oficial del Estado, o
 
-Asimismo, para la autorización a que se refiere este artículo la SEGAM deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos naturales y antrópicos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
+III. Se trate de instalaciones que pretendan ubicarse en fraccionamientos industriales o comerciales autorizados.
+
+En los casos anteriores, la autoridad competente, una vez recibido el informe preventivo, podrá requerir en un plazo de diez días, aclaraciones, rectificaciones o ampliaciones al contenido del informe, suspendiéndose el término que restare para concluir el procedimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 123 BIS. Analizado el informe preventivo, y en su caso, complementada la información requerida, la autoridad competente determinará en un plazo no mayor de veinte días naturales contados a partir de la recepción del informe:
+
+I. Que se encuentra en los supuestos anteriormente señalados y que, por lo tanto, puede realizar la obra o actividad en los términos propuestos, sujetándose a las condiciones que para tal efecto se establezcan;
+
+II. Que se requiere la presentación de una manifestación de impacto ambiental, en alguna de sus modalidades;
+
+III. Negar la autorización en caso de que exista alguna de las causales de negativa previstas en el artículo 127 BIS de la presente Ley.
+
+Tratándose de informes preventivos en los que los impactos de las obras o actividades a que se refieren, se encuentren totalmente regulados por las normas oficiales mexicanas, transcurrido el plazo a que se refiere este artículo, sin que la Secretaría haga la notificación correspondiente, se entenderá que dichas obras o actividades podrán llevarse a cabo en la forma en la que fueron proyectadas y de acuerdo con las mismas normas.
+
+En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe preventivo, pretendiendo se aplique la afirmativa ficta, se entenderá que el ingreso del procedimiento para la autorización del informe preventivo es inexistente, independientemente de las sanciones previstas en esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 124.
 
-Revisados los antecedentes la SEGAM resolverá si es necesario que el interesado proporcione información adicional. Si por las características de la obra o actividad propuesta fuese necesaria la opinión técnica de especialistas en la materia, la SEGAM podrá requerirla en el seno de la Comisión Especial a que se refiere el artículo 131 de la presente Ley, debiendo procederse en este caso como corresponda.
+El informe preventivo deberá contener:
 
-Con los nuevos antecedentes a que se refiere el párrafo anterior, la SEGAM evaluará el impacto ambiental de la obra o actividad propuesta y expedirá debidamente fundada y motivada la resolución correspondiente en la que podrá:
+I. Datos de identificación, en los que se mencione:
 
-I. Autorizar la realización de la obra o actividad de que se trate en los términos manifestados;
+a) El nombre y la ubicación del proyecto.
 
-II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en su caso de accidentes. Cuando se trate de autorizaciones condicionadas, la SEGAM señalará los requerimientos que deben observarse en la realización de la obra o actividad prevista, así como los plazos para su cumplimiento, y
+b) Los datos generales del promovente.
 
-III. Negar la autorización solicitada cuando:
+c) Los datos generales del responsable de la elaboración del informe.
 
-a). Se contravenga lo establecido en esta Ley, sus reglamentos, la normatividad ambiental federal o estatal y demás disposiciones aplicables;
+II. Referencia, según corresponda:
 
-b). La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como endémicas, amenazadas, raras o en peligro de extinción o cuando se afecte a una de dichas especies, o
+a) A las normas oficiales mexicanas u otras disposiciones que regulen las emisiones, las descargas o el aprovechamiento de recursos naturales, aplicables a la obra o actividad.
 
-c). Se advierta o exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales que pudieren ocasionarse en la obra o actividad de que se trate.
+b) Al plan de desarrollo urbano o programa de ordenamiento ecológico en el cual esté considerada la obra o actividad dentro de su zonificación respectiva.
 
-La SEGAM podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, en aquellos casos expresamente señalados en el Reglamento de la presente Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas o a la salud.
+c) A la autorización de la Secretaría, del parque industrial, en el que se ubique la obra o actividad, y
 
-La resolución de la SEGAM sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
+III. La siguiente información:
+
+a) La descripción general de la obra o actividad proyectada.
+
+b) La identificación de las sustancias o productos que vayan a emplearse y que puedan impactar el ambiente, así como sus características físicas y químicas.
+
+c) La identificación y estimación de las emisiones, descargas y residuos cuya generación se prevea, así como las medidas de control que se pretendan llevar a cabo.
+
+d) La identificación de los impactos ambientales significativos o relevantes, y la determinación de las acciones y medidas para su prevención y mitigación.
+
+e) Los planos de localización del área en la que se pretende realizar el proyecto.
+
+f) En su caso, las condiciones adicionales que se propongan en los términos del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 125.
 
-La SEGAM dentro del plazo de treinta y cinco días hábiles, contados a partir de la recepción de la manifestación de impacto ambiental, deberá emitir la resolución correspondiente.
+Una vez que la Secretaría reciba una manifestación de impacto ambiental, integrará, dentro de los cinco días hábiles siguientes, el expediente respectivo, que pondrá a disposición del público, con el fin de que pueda ser consultado por cualquier persona. Para tal efecto, la Secretaría deberá publicar en medios electrónicos, el listado de las manifestaciones de impacto ambiental recibidas para su evaluación y dictamen respectivo.
 
-La SEGAM podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de diez días hábiles, contados a partir de que ésta sea declarada por la SEGAM, siempre y cuando le sea entregada la información requerida.
+Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente, y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 
-Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la autoridad requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por treinta días naturales adicionales, siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley, circunstancia que deberá notificarse al solicitante.
+La Secretarí a (sic) una vez presentada una manifestación de impacto ambiental, notificará de ello al municipio correspondiente donde se pretenda llevar a cabo la obra o actividad, en un término de cinco días hábiles contados a partir de integrado el expediente, a fin de que manifieste lo que a su interés convenga, situación que deberá llevar a cabo en un plazo de cinco días hábiles contados a partir de la notificación correspondiente; una vez transcurrido dicho plazo sin que el municipio hubiese manifestado algo al respecto, se entenderá que no existe objeción o comentarios al proyecto presentado.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 126.
 
-La SEGAM contará con un registro de prestadores de servicios y peritos en materia ambiental, cuyos lineamientos serán establecidos en el reglamento respectivo o mediante acuerdo administrativo que al efecto se expida.
+La Secretaría, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las siguientes bases:
 
-Las personas que presten servicios de impacto ambiental serán responsables ante la SEGAM de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad, que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación mas efectivas.
+l. La Secretaría publicará la solicitud de autorización en materia de impacto ambiental en su sitio de Internet. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en el Estado, dentro del plazo de cinco días contados a partir de la fecha en que se acuerde el inicio del proceso de consulta pública;
 
-Los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo, podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en estos casos, la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
+II. Cualquier ciudadano, dentro del plazo de diez días contados a partir de la publicación del extracto del proyecto en los términos antes referidos, podrá solicitar a la Secretaría ponga a disposición del público en las oficinas del municipio que corresponda, la manifestación de impacto ambiental;
+
+III. Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el reglamento de la presente Ley, la Secretaría, podrá organizar una reunión pública de información en la que el promovente explicará los aspectos técnicos ambientales de la obra o actividad de que se trate;
+
+IV. Cualquier interesado, dentro del plazo de diez días contados a partir de que la Secretaría ponga a disposición del público la manifestación de impacto ambiental en los términos de la fracción I, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes, y
+
+V. La Secretaría agregará las observaciones realizadas por los interesados al expediente respectivo y, consignará, en la resolución que emita, el proceso de consulta pública realizado, y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 127.
 
-La SEGAM y, en su caso, el respectivo Ayuntamiento vigilarán y controlarán que:
+Al realizar la evaluación del impacto ambiental, la autoridad competente se sujetará, entre otros aspectos, a lo que establezcan los programas de ordenamiento ecológico del territorio, a los programas de desarrollo urbano, a las declaratorias de áreas naturales protegidas, sus programas de manejo, a las normas aplicables y las demás disposiciones jurídicas que resulten aplicables.
 
-I. En la ejecución de la obra, su conclusión, operación y mantenimiento se dé cumplimiento a las exigencias establecidas por la propia SEGAM, así como a la normatividad ambiental correspondiente;
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-II. Los organismos operadores del agua cumplan en todo momento con las disposiciones normativas en materia de control de descargas de aguas residuales a las redes de drenaje y alcantarillado de los centros de población, sin perjuicio de la intervención de otras dependencias, y
+ARTICULO 127 BIS. Una vez presentada la manifestación de impacto ambiental, la Secretaría iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días.
 
-III. En las obras y actividades que se desarrollen en la Entidad en uso de autorizaciones de impacto ambiental emitidas por la SEMARNAP, en los casos de su exclusiva competencia, se observen asimismo las disposiciones y limitaciones contenidas en las respectivas autorizaciones e igualmente lo prevenido en la normatividad ambiental aplicable.
+Asimismo, para la autorización a que se refiere este artículo, la Secretaría deberá evaluar los posibles efectos de dichas obras o actividades, en el o los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 
-Los costos ambientales respecto de las obras o actividades sujetas a autorización en materia de impacto ambiental, deberán previamente evaluarse en la aplicación de restricciones, debiendo considerar los posibles cambios significativos de valor de plusvalía, antropológicos y estéticos.
+La Secretaría una vez presentada una manifestación de impacto ambiental, notificará de ello al municipio correspondiente donde se pretenda llevar a cabo la obra o actividad, en un término de cinco días hábiles, a fin de que manifieste lo que a su interés convenga, situación que deberá llevar a cabo en un plazo de cinco días hábiles contados a partir de la notificación correspondiente; una vez transcurrido dicho plazo sin que el municipio hubiese manifestado algo al respecto, se entenderá que no existe objeción o comentarios al proyecto presentado.
+
+Una vez evaluada la manifestación de impacto ambiental, la Secretaría emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
+
+I. Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
+
+II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista, o
+
+III. Negar la autorización solicitada, cuando:
+
+a) Se contravenga lo establecido en esta Ley, la LGEEPA, los reglamentos, las normas oficiales mexicanas, normas técnicas ambientales y las demás disposiciones aplicables.
+
+b) La obra o actividad de que se trate, pueda propiciar que una o más especies sean declaradas como amenazadas o en peligro de extinción, o cuando se afecte a ejemplares o poblaciones de una de dichas especies. Si dentro de la manifestación de impacto ambiental se proponen técnicas y métodos que garanticen su no afectación, la SEGAM podrá otorgar la autorización solicitada.
+
+c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
+
+d) Se funde en duda técnica en virtud de que en los estudios presentados no aparezca demostrada la tecnología o mecanismos propuestos para evitar, mitigar o reducir los efectos que sobre el ambiente pueda causar la obra o actividad; o bien, cuando ésta consista en la aplicación de tecnologías novedosas cuyos resultados sobre el ambiente no hayan sido probados y documentados.
+
+La Secretaría podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la presente Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas.
+
+La resolución de la Secretaría, en caso de ser positiva, sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 127 TER. La Secretaría deberá emitir la resolución correspondiente en un plazo de sesenta días hábiles, a partir de que se integre la información necesaria y concluyan los procedimientos previos de opinión y consulta.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 127 QUATER. La Secretaría podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso, la suspensión podrá exceder el plazo de treinta días hábiles, contados a partir de que ésta sea declarada por la Secretaría, siempre y cuando le sea entregada la información requerida.
+
+En caso de que la información complementaria solicitada no se haya proporcionado en tiempo y forma, la Secretaría desechará el trámite.
+
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la autoridad requiera de un plazo mayor para su evaluación, este se podrá ampliar hasta por treinta días naturales adicionales, siempre que se justifique conforme a lo dispuesto en el reglamento de la presente Ley, circunstancia que deberá notificarse al solicitante.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 127 QUINQUIES. Los responsables de la realización de los planes y programas, obras o actividades reguladas en este Capítulo, deberán sujetarse a las condiciones y limitaciones que señale la autorización respectiva; su incumplimiento será motivo para que la Secretaría, previo el procedimiento de verificación respectivo, determine la suspensión de la misma y por ende, la suspensión de las actividades.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 127 SEXIES. Las personas que presten servicios de evaluación del impacto ambiental, serán responsables solidarios ante la autoridad competente, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren. Los prestadores de servicios declararán bajo protesta de decir verdad, que en dichos documentos se incorporan técnicas y metodologías certificadas, así como la información y medidas de prevención y mitigación más efectivas. En caso de incumplimiento o exista falsedad en la información proporcionada, será acreedor a las sanciones correspondientes y la cancelación del trámite de evaluación.
+
+Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo, podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales; en este caso, la responsabilidad respecto del contenido del documento corresponderá a quienes lo suscriban.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 127 SEPTIES. Las obras o actividades a que se refieren los artículos 118 y 119 de esta Ley, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la evaluación de impacto ambiental en los términos que para tal efecto determine el reglamento en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 127 OCTIES. Los interesados en llevar las obras o actividades que requieran sujetarse al procedimiento de evaluación de impacto ambiental, podrán, previo a la elaboración de los estudios correspondientes, o presentación de los mismos ante la Secretaría, llevar a cabo actividades de información y difusión en las comunidades que pudieran considerarse afectadas respecto de las mismas, para efectos de valorar su aceptación social.
+
+La realización de lo anteriormente señalado, deberá ser informado a la Secretaría y municipio respectivo, y posterior a su realización.
+
+El resultado de las actividades señaladas, en caso de llevarse a cabo, deberán ser incorporadas en los estudios de impacto ambiental correspondiente.
 
 ## TITULO DECIMO. DE LA PARTICIPACION SOCIAL E INFORMACION, LA INVESTIGACION Y LA EDUCACION AMBIENTAL
 
@@ -2186,3 +2314,17 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 19 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días naturales de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los ayuntamientos deberán adecuar sus áreas de administración urbana, así como organizar las mesas colegiadas de dictaminación y recepción de fraccionamientos, a más tardar el treinta y uno de octubre de dos mil seis.
+
+CUARTO. En tanto los ayuntamientos no cuenten con la estructura administrativa adecuada, podrán acordar con la SEDUVOP que se lleve a cabo la asesoría correspondiente.
+
+QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la Ley de Desarrollo Urbano, y los demás que fueren necesarios con relación a la misma, antes del treinta y uno de mayo del año dos mil siete.
