@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2006-06-06"
+last_updated: "2006-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2006.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -149,6 +149,10 @@ II bis.- La Protección Social en Salud;
 III.- La coordinación, evaluación y seguimiento de los servicios de salud a los que se refiere el artículo 34, fracción II;
 
 IV.- La atención materno-infantil;
+
+> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+IV bis.- El programa de nutrición materno-infantil en los pueblos y comunidades indígenas;
 
 > <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
@@ -292,11 +296,19 @@ III.- Colaborar al bienestar social de la población mediante servicios de asist
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
+> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+IV bis.- Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores y organización social;
+
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que propicien el desarrollo satisfactorio de la vida;
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
 VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+VI bis.- Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -354,21 +366,23 @@ Los gobiernos de las entidades federativas coadyuvarán, en el ámbito de sus re
 
 La Secretaría de Salud auxiliará, cuando lo soliciten los estados, en las acciones de descentralización a los municipios que aquéllos lleven a cabo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría de Salud promoverá la participación, en el Sistema Nacional de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+La Secretaria de Salud promoverá la participación, en el sistema nacional de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
-La concertación de acciones entre la Secretaría de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaria de Salud y las autoridades de las comunidades indígenas, los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Definición de las responsabilidades que asuman las partes;
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -411,8 +425,6 @@ V.- Ejercer la acción extraordinaria en materia de salubridad general;
 VI.- Promover y programar el alcance y las modalidades del Sistema Nacional de Salud y desarrollar las acciones necesarias para su consolidación y funcionamiento;
 
 VII.- Coordinar el Sistema Nacional de Salud;
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -662,9 +674,9 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición, y
 
-X.- La asistencia social a los grupos más vulnerables.
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -721,8 +733,6 @@ II.- Servicios a derechohabientes de instituciones públicas de seguridad social
 III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten, y
 
 IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -844,9 +854,11 @@ Los usuarios deberán ajustarse a las reglamentaciones internas de las instituci
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos a la población en general y a los servicios sociales y privados.
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 54.
 
-Las autoridades sanitarias competentes y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
+Las autoridades sanitarias competentes y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de las poblaciones o comunidades indígenas las autoridades sanitarias brindarán la asesoría y en su caso la orientación en español y en la lengua o lenguas en uso en la región o comunidad.
 
 ###### ARTICULO 55.
 
@@ -999,6 +1011,10 @@ La planificación familiar tiene carácter prioritario. En sus actividades se de
 Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta ley, independientemente de la responsabilidad penal en que incurran.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
 ###### ARTICULO 68.
 
@@ -1706,6 +1722,10 @@ Las Secretarías de Salud y de Educación Pública y los gobiernos de las entida
 
 La Secretaría de Educación Pública, en coordinación con la Secretaría de Salud, promoverá el establecimiento de un sistema de enseñanza continua en materia de salud.
 
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+De la misma manera reconocerá, respetará y promoverá el desarrollo de la medicina tradicional indígena. Los programas de prestación de la salud, de atención primaria que se desarrollan en comunidades indígenas, deberán adaptarse a su estructura social y administrativa, así como su concepción de la salud y de la relación del paciente con el médico, respetando siempre sus derechos humanos.
+
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 94.
@@ -1826,11 +1846,11 @@ III.- Recursos físicos, humanos y financieros disponibles para la protección d
 
 En coordinación con la Secretaría de Programación y Presupuesto y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salud integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 106.
 
-Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios cuando proceda, y las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta Ley, deberán suministrarla a la Secretaría de Salud, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales para la salud.
+Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios y las autoridades de las comunidades indígenas cuando proceda, así como las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta ley, deberán suministrarla a la Secretaría de Salud, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales para la salud.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -1901,6 +1921,10 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 ###### ARTICULO 113.
 
 La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ### CAPITULO III. Enfermedades no transmisibles
 
@@ -5202,7 +5226,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
 
-La participación de las autoridades municipales estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+La participación de las autoridades municipales y de las autoridades de las comunidades indígenas, estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
 
 ###### ARTICULO 394.
 
@@ -5350,7 +5376,9 @@ Se consideran medidas de seguridad las disposiciones que dicte la autoridad sani
 
 Son competentes para ordenar o ejecutar medidas de seguridad, la Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.
 
-La participación de los municipios estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+
+La participación de los municipios y de las autoridades de las comunidades indígenas estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
 
 ###### ARTICULO 404.
 
@@ -5466,7 +5494,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 > <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
-###### Artículo 414 Bis.
+###### ARTICULO 414 Bis.
 
 Será procedente la acción de aseguramiento prevista en el artículo 414 como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos de perfumería y belleza que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
 
@@ -6179,3 +6207,7 @@ D.O.F. 25 DE MAYO DE 2006.
 D.O.F. 6 DE JUNIO DE 2006.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE SEPTIEMBRE DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
