@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2003-12-20"
+last_updated: "2006-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -2057,11 +2057,23 @@ VIII. Restricciones Federales y Estatales de Uso del Suelo: las contempladas en 
 
 IX. Licencia Municipal de Construcción: el acto por el cual cada Ayuntamiento autoriza la ejecución de una edificación, instalación u obra o alguno de los servicios específicos que señale el Reglamento de ésta Ley;
 
-X. Director Responsable de Obra: la persona física que, inscrita en el respectivo Registro Municipal está habilitada para asumir la dirección y vigilancia de la ejecución de obras de edificación o urbanización para la construcción, así como la que sólo desarrolle una actividad parcialmente vinculada con determinado proyecto u obra, y
+X. Director Responsable de Obra: la persona física que, inscrita en el respectivo Registro Municipal está habilitada para asumir la dirección y vigilancia de la ejecución de obras de edificación o urbanización para la construcción, así como la que sólo desarrolle una actividad parcialmente vinculada con determinado proyecto u obra, y (sic)
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
-XI. Supervisor de Obra Municipal: la persona física que inscrita en el Registro Estatal de Peritos, o en el respectivo registro municipal de existir el mismo, está habilitada por el ayuntamiento como auxiliar de la autoridad municipal, para asumir la supervisión y vigilancia de la ejecución de obras de edificación o urbanización para la construcción, así como la que sólo desarrolle una actividad parcialmente vinculada con determinado proyecto u obra.
+XI. Supervisor de Obra Municipal: la persona física que inscrita en el Registro Estatal de Peritos, o en el respectivo registro municipal de existir el mismo, está habilitada por el ayuntamiento como auxiliar de la autoridad municipal, para asumir la supervisión y vigilancia de la ejecución de obras de edificación o urbanización para la construcción, así como la que sólo desarrolle una actividad parcialmente vinculada con determinado proyecto u obra;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Dictamen de factibilidad. Es el documento mediante el cual, en los términos de la Ley, se establece la posibilidad de desarrollar un fraccionamiento en un predio determinado; señalando el uso general y específico del suelo; densidad, los coeficientes de ocupación y uso del suelo; y las restricciones federales, estatales y municipales al mismo. En los casos de fraccionamientos habitacionales, se considera autorizado el uso del suelo a los lotes que resulten del mismo;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Cambio de uso de suelo. Acción del hombre consistente en utilizar una superficie de terreno, para el desarrollo de actividades diferentes a las que corresponden a su condición natural o uso predominante, según se determine en los planes de desarrollo urbano municipales y/o de ordenamiento ecológico, y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+XIV. Estudio de impacto urbano. Es el instrumento técnico que tiene como objetivo auxiliar a la autoridad municipal, para la toma de decisiones en la emisión del dictamen de impacto urbano en los casos de licencias de Uso de Suelo y dictámenes de Factibilidad de Impacto Significativo; aportando información detallada que complemente la estrategia del Plan de Desarrollo Urbano aplicable; así como proporcionando observaciones y recomendaciones que en su caso, conduzcan a la definición acertada de condicionantes bajo las cuales habrán de instalarse, los usos de suelo; mediante este estudio se identificará el grado de compatibilidad de un nuevo uso de suelo, dentro del contexto en el que pretende ubicarse y, en caso de ser procedente, plantear estrategias que permitan su integración armónica con el entorno urbano y social en que se desarrollará.
 
 ###### ARTICULO 130.
 
@@ -2115,17 +2127,29 @@ La prórroga de los plazos mencionados en el párrafo anterior, deberá solicita
 
 El titular de la licencia de uso de suelo no podrá realizar ampliaciones, diversificación de actividades o cambio de giro industrial, comercial y de servicios, sin que se le haya expedido la nueva licencia.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 136.
 
-La solicitud de licencia de uso del suelo deberá reunir los requisitos siguientes:
+La solicitud de licencia de uso del suelo deberá contener y acompañar cuando menos los siguientes requisitos:
 
-I. Señalar el uso actual del suelo y superficie construida, así como el uso del suelo que se propone y superficie por construir, acompañando croquis de localización del predio;
+I. Señalar el uso actual del suelo y superficie construido; así como el uso del suelo que se propone y superficie por construir, anexando croquis de localización del predio;
 
-II. Anteproyecto arquitectónico o de diseño urbano y memoria descriptiva del mismo; cuando se trate de uso que genere impacto significativo en su área de influencia; y
+II. Anteproyecto arquitectónico o de diseño urbano de ser el caso, y memoria descriptiva del mismo; cuando se trate de uso que pueda generar impacto ambiental significativo en su área de influencia;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+III. Llevar anexo el recibo de pago del predial del inmueble al corriente, y
 
-III. Llevar anexo el recibo de pago del predial del inmueble al corriente.
+IV. En su caso, el estudio técnico justificativo para cambio de uso de terrenos forestales o de aptitud preferentemente forestal; y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAT para su evaluación, así como las autorizaciones emitidas por la misma, cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma, en materia de impacto ambiental.
+
+La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna; dicha licencia será personalísima; intransferible; inembargables los derechos derivados de la misma; e inalienable; y no será objeto de fusión o escisión, tratándose de sociedades mercantiles legalmente constituidas.
+
+En aquellos casos en que no exista un marco rector normativo que establezca una zonificación de uso de suelo, previo al otorgamiento de la licencia que al efecto se expida, deberá recabarse el dictamen y opinión de la SEGAM o de la SEDUVOP, o de ambas, según el caso particular de que se trate, y conforme a los lineamientos establecidos en la Ley Ambiental del Estado de San Luis Potosí, y en esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+ARTICULO 136 BIS. Los ayuntamientos no expedirán licencias de uso del suelo, o prórrogas a la misma, que contravengan lo establecido en los planes de ordenamiento ecológico, de desarrollo urbano, en los decretos de áreas naturales protegidas, o que contravengan la normatividad ambiental y urbana, la LGEEPA, esta Ley, así como demás ordenamientos y disposiciones reglamentarias aplicables.
+
+Los ayuntamientos tampoco emitirán licencias municipales de construcción o de funcionamiento, con infracción a lo contemplado en la respectiva licencia de uso del suelo.
 
 ###### ARTICULO 137.
 
@@ -2133,35 +2157,49 @@ Recibida que sea la solicitud a que se refiere el artículo anterior, el ayuntam
 
 Asimismo, el ayuntamiento recabará la opinión de las dependencias y organismos correspondientes según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 138.
 
-Cuando la solicitud a que se refiere el artículo 136 de esta Ley, verse sobre las actividades señaladas en los artículos 118 fracciones III, VI, VII, VIII, IX, XI, y XII, y 121 de la Ley Ambiental del Estado, el ayuntamiento requerirá dentro de los tres días siguientes a la recepción de la misma al solicitante, para que presente además de la documentación exigida por el citado artículo, la constancia de trámite para la autorización de impacto ambiental reglamentada por la ley de referencia.
+Cuando la solicitud a que se refiere el artículo 136 de esta Ley, verse sobre las actividades señaladas en los artículos 118 y 119 de la Ley Ambiental del Estado, el ayuntamiento requerirá, dentro de los tres días siguientes a la recepción de la misma, al solicitante, para que presente además de la documentación exigida por el artículo 136 de esta Ley, la constancia de trámite para la autorización de impacto ambiental reglamentada por la Ley Ambiental del Estado.
 
-Asimismo, el ayuntamiento requerirá la autorización de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, cuando se trate de la ejecución de las obras a que se refieren el artículo 28 de la Ley General del Equilibrio Ecológico y Protección al Ambiente.
+En los casos en que la SEMARNAT en el ámbito de su competencia, hubiere autorizado cambios de uso de terrenos forestales o de aptitud preferentemente forestal, aprovechamientos forestales, o hubiese emitido cualquier otra autorización, tratándose de cambios de uso del suelo y aprovechamiento del mismo, en los términos de la LGEEPA y de la Ley Forestal y su reglamento, el titular de las autorizaciones federales deberá presentar éstas conjuntamente con los estudios técnicos y manifestaciones de impacto ambiental que pudieran causar modificaciones a la calidad de vida, ante el ayuntamiento que corresponda, a efecto de solicitar se le expida el dictamen técnico respectivo, que servirá de base para la expedición de la licencia de uso del suelo, por el mismo.
+
+El ayuntamiento, una vez presentada la documentación relativa, procederá a revisarla y evaluarla expidiendo el dictamen correspondiente, mismo que podrá ser positivo o negativo, o condicionando la expedición de la licencia al cumplimiento previo de otros requisitos que se apeguen a la normatividad ambiental vigente; por lo tanto, quedará prohibida la realización de cualquier obra o actividad mientras el ayuntamiento no expida la referida licencia.
 
 ###### ARTICULO 139.
 
 En los casos de obras o actividades tanto de carácter público como privado que puedan causar impacto ambiental significativo dentro del territorio de la Entidad, así como en los casos y actividades consideradas riesgosas, los ayuntamientos deberán recabar, previamente a la emisión de la licencia de uso del suelo, el dictamen técnico correspondiente que expedirá la Secretaría de Ecología y Gestión Ambiental, en los términos del artículo 50 de la Ley Ambiental del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 140.
 
-Una vez que se encuentren satisfechos los requisitos que establecen los artículos que anteceden del presente Capítulo, el Ayuntamiento expedirá la licencia del suelo, dentro de los diez días hábiles siguientes a la recepción del último documento que el mismo haya requerido.
+Una vez que se encuentren satisfechos los requisitos que establecen los artículos que anteceden del presente Capítulo, el ayuntamiento expedirá la licencia de uso del suelo, dentro de los diez días hábiles siguientes a la recepción del último documento que el mismo haya requerido.
 
-La licencia deberá determinar el uso de suelo para el predio completo, especificando los usos de referencia de manera que su titular tenga constancia fidedigna de los usos permitidos, así como las restricciones federales y estatales que le correspondan.
+La licencia de uso del suelo señalará, para el respectivo predio, los usos de referencia de manera que su titular tenga constancia fidedigna de los usos permitidos entre los cuales pueda optar, así como de las restricciones federales y estatales que le sean aplicables. En su caso, dicha licencia indicará el uso que puede generar impacto ambiental significativo que en su caso se permita, y las condiciones, restricciones, limitaciones y otorgamiento de garantías a que su ejercicio pueda quedar sujeto.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+En los casos en que el uso del suelo pueda generar impacto ambiental significativo, o en los casos de actividades riesgosas, el ayuntamiento respectivo, una vez recibida la solicitud para la expedición de la licencia, remitirá sin demora en un plazo máximo de cinco días hábiles, contados a partir de la recepción del documento, la solicitud con sus anexos a la SEGAM y la SEDUVOP, cuando así proceda, para recabar su dictamen técnico sobre el uso solicitado, debiendo dichas autoridades emitirlos en un término improrrogable de diez días hábiles contados a partir de la fecha en que reciban la solicitud correspondiente.
 
-La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna.
+La SEGAM y la SEDUVOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solicitado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
+
+La licencia de uso del suelo, no faculta a su titular, para iniciar la ejecución de construcción u obra alguna.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 141.
 
-De la prórroga de la licencia de uso del suelo:
+La vigencia de la licencia de uso del suelo se sujetará a lo siguiente:
 
-I. La licencia tendrá una vigencia de doce meses y podrá prorrogarse por lapsos sucesivos anuales de duración;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-II. El trámite de la prórroga de la licencia de uso del suelo deberá hacerse dentro de los quince días naturales anteriores a la fecha que expira, el promovente deberá entregar a la autoridad la licencia original y el comprobante de pago de los derechos correspondientes a la prórroga;
+I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+II. El trámite de prórroga de la licencia previa de uso del suelo, deberá hacerse dentro de los treinta días naturales anteriores a la fecha que expira; el promovente deberá presentar a la autoridad la licencia original y el comprobante de pago de los derechos correspondientes.
+
+El pago de derechos subsecuentes de la licencia indefinida, deberá hacerse anualmente dentro de los treinta días anteriores a la fecha que corresponda al día y mes de la fecha de su expedición;
 
 III. No se otorgará prórroga de la licencia de uso del suelo, cuando se haya modificado el uso, la intensidad máxima de ocupación y utilización del predio;
 
@@ -2803,11 +2841,23 @@ El titular de la autorización de un fraccionamiento estará afecto a las obliga
 
 I. Ceder a título gratuito al Ayuntamiento correspondiente la superficie del terreno objeto del fraccionamiento, singularizadas en el plano aprobado, que fueren necesarias para la apertura y prolongación de las vías públicas;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-II. Transferir gratuitamente al mismo ayuntamiento las áreas de donación destinadas a equipamiento urbano, de conformidad con lo establecido en el artículo 157, fracción IV de la presente Ley, así como en el Reglamento de la misma.
+II. Transferir gratuitamente al mismo ayuntamiento las áreas de donación destinadas a equipamiento urbano, de conformidad con lo establecido en el artículo 157 fracción IV de la presente Ley, y cumplir los requisitos siguientes:
 
-La formalización del cumplimiento de esta obligación deberá efectuarse mediante la escrituración de la misma, en un plazo que no deberá exceder de cuarenta y cinco días hábiles, contados a partir de que sea autorizado el fraccionamiento de que se trate. El incumplimiento de la escrituración respectiva, dejará sin efecto la aprobación del fraccionamiento, girando el ayuntamiento la notificación respectiva a Catastro Municipal y al Registro Público de la Propiedad y del Comercio, sin perjuicio de las demás sanciones a que se haga acreedor el titular de la autorización;
+a) Tener acceso directo por vía pública existente o en proyecto, y tener cuando menos quinientos metros cuadrados de superficie, con quince metros de frente.
+
+b) Para el supuesto de que el área de donación sea menor a quinientos metros cuadrados, el propietario o el ayuntamiento podrán solicitar que dicha superficie le sea pagada en efectivo al municipio, tomando como valor unitario el comercial practicado por un perito valuador debidamente inscrito en el Padrón Estatal de Peritos, o el catastral; en ambos casos del predio ya urbanizado; siempre será tomando siempre (sic) el valor que resulte mayor.
+
+Los recursos obtenidos por el ayuntamiento en los términos del inciso b), deberán ser destinados preferentemente para la adquisición de reserva territorial para equipamiento urbano o infraestructura básica en las zonas socioeconómicas menos favorecidas del centro de población que lo requiera; siempre y cuando sea aprobado por cuando menos las dos terceras partes de los integrantes del cabildo, el que será responsable de que estos recursos se apliquen exclusivamente a los fines anteriormente señalados.
+
+c) Reunirán las características físicas que se indican: no exceder su pendiente del quince por ciento, excepto cuando no exista otra opción; no estar compuesta de terrenos con rellenos; no estar afectas a restricciones federales o estatales; no ser inaprovechables por otras condiciones naturales; y no estar destinadas a camellones o áreas verdes de vías públicas.
+
+d) Su localización dentro del respectivo desarrollo urbano, será determinada por el ayuntamiento, a fin de responder debidamente a la mejor distribución, acceso y funcionamiento de los servicios públicos urbanos.
+
+El ayuntamiento deberá respetar en las áreas de donación de que se trate, el cuarenta por ciento de área verde, que quedará al cuidado de los vecinos del fraccionamiento; y el resto lo podrá utilizar para equipamiento urbano u obras que considere de beneficio para la población; en caso de que se vaya a transferir el área a un tercero, deberá ser aprobado por cuando menos las dos terceras partes de los integrantes del cabildo, y la posterior autorización del Honorable Congreso del Estado, para que tenga validez.
+
+La formalización del cumplimiento de esta obligación deberá efectuarse en el mismo acto en que conste la protocolización del acta de notificación del fraccionamiento autorizado. El incumplimiento de la escrituración respectiva, dejará sin efecto la aprobación del fraccionamiento, girando el ayuntamiento la notificación respectiva a catastro municipal, y al Registro Público de la Propiedad y del Comercio; sin perjuicio de las demás sanciones a que se haga acreedor el titular de la autorización;
 
 III. Ejecutar las obras de urbanización en los términos que fije la respectiva autorización, así como de acuerdo a los proyectos y especificaciones que en su oportunidad se aprueben;
 
@@ -2885,9 +2935,9 @@ En su caso, señalará las condiciones a que deberán sujetarse la elaboración 
 
 A la solicitud del dictamen de factibilidad, se deberán acompañar como mínimo, en la forma que especifique el Reglamento de ésta Ley los documentos siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-I. Copia certificada del título que acredite la propiedad del predio, y comprobante de pago del impuesto predial al corriente;
+I. Copia certificada del título que acredite la propiedad del predio, y comprobante de pago del impuesto predial al corriente. Cuando no se cuente con el título de propiedad, se podrá acompañar a la solicitud el que acredite la legítima posesión del predio, debiendo anexarse posteriormente el relativo a la propiedad, si (sic) el cual la autorización no será concedida;
 
 II. Ubicación del predio en aerofoto o cartografía reciente;
 
@@ -2895,11 +2945,13 @@ III. Plano del levantamiento de la poligonal del predio;
 
 IV. Memoria descriptiva del anteproyecto;
 
-V. Copia de la factibilidad de dotación de agua potable, y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+V. Copia de la carta de factibilidad de dotación de agua potable, conforme a lo establecido en el artículo 156 de la Ley de Aguas del Estado de San Luis Potosí, y
 
-VI. Constancia de trámite de la autorización de impacto ambiental a que se refieren los artículos 118, la fracción XII y 121 de la Ley Ambiental del Estado.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Constancia de trámite de la autorización de impacto ambiental, a que se refieren los artículos 118 fracción XII y 121 de la Ley Ambiental del Estado de San Luis Potosí, cuando sean fraccionamientos mayores de cincuenta viviendas o lotes.
 
 ### CAPITULO XIV. DE LA REGULARIZACION DE FRACCIONAMIENTOS
 
@@ -2915,7 +2967,23 @@ La autorización de fraccionamientos será otorgada por el Ayuntamiento siempre 
 
 Toda solicitud de autorización de fraccionamiento se presentará por duplicado y deberá ser acompañada por lo menos, según lo especifiquen las respectivas disposiciones reglamentarias, de los documentos que a continuación se mencionan:
 
-I. Dictamen de factibilidad del fraccionamiento;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+I. Dictamen de factibilidad del fraccionamiento emitido por la Dirección de Administración Urbana o equivalente; previamente evaluado en forma colegiada por un representante de:
+
+a) H. cuerpo de bomberos.
+
+b) Protección civil.
+
+c) Ingeniería de tránsito municipal o equivalente.
+
+d) Administración y desarrollo urbano o equivalente.
+
+e) Organismo operador de agua o equivalente.
+
+f) Cámara u organismo que represente a los constructores del municipio, que manifieste su interés de participar como testigo de la transparencia y cumplimiento de tiempos y procedimientos.
+
+Los tiempos máximos de respuesta de cada una de las instancias que participan en la dictaminación colegiada, no podrán ser mayores de quince días hábiles;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -2929,13 +2997,15 @@ V. Certificado de libertad de gravamen actualizado del predio;
 
 VI. Comprobante de pago del impuesto predial, y
 
-VII. Autorización de Impacto Ambiental.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+VII. Autorización de impacto ambiental, cuando se encuentren en los supuestos establecidos en los artículos 118, 119 y 123 de la Ley Ambiental del Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 185.
 
-Una vez revisada la documentación y después de haberse hecho el análisis correspondiente, el órgano o dirección municipal competente dictaminará lo conducente, remitiendo una copia de la autorización al cabildo para su conocimiento.
+Una vez revisada la documentación y después de haberse hecho el análisis correspondiente, el órgano o dirección municipal competente dictaminará lo conducente en un plazo no mayor de diez días hábiles; remitiendo una copia de la autorización al cabildo para su conocimiento.
 
 ###### ARTICULO 186.
 
@@ -3005,11 +3075,43 @@ El Ayuntamiento podrá recibir previamente a la municipalización, mediante conv
 
 En lo que se refiere a los sistemas de agua potable, cuando así le sea exigido, el fraccionador está obligado a entregar éstos al Ayuntamiento o al organismo operador, con el objeto de interconectarlos a la red municipal y optimizar el aprovechamiento de su fuente de abastecimiento.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+Para la entrega-recepción del fraccionamiento y firma del acta correspondiente, se llevará a cabo el siguiente procedimiento:
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+Los dictámenes y acta correspondientes serán emitidos a través de una mesa colegiada de recepción; la cual será coordinada por la Dirección de Administración y Desarrollo Urbano o equivalente, así como por la Sindicatura municipal; y estará integrada por un representante de:
+
+a) Alumbrado público o equivalente.
+
+b) Patrimonio municipal o equivalente.
+
+c) Administración y desarrollo urbano o equivalente.
+
+d) Seguridad pública municipal o equivalente.
+
+e) Sindicatura municipal.
+
+f) Organismo operador de Agua o equivalente.
+
+g) Cámara u organismo que represente a los constructores del municipio, que manifieste su interés de participar como testigo de la transparencia y cumplimiento de tiempos y procedimientos.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+Los tiempos de respuesta de cada una de las instancias que participen en la mesa colegiada de recepción, no podrán exceder de diez días hábiles para emitir los dictámenes o informes que correspondan, y de cinco días en el caso de las resolutorias.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+Una vez realizada la revisión física del fraccionamiento y recibidos los dictámenes correspondientes, la Dirección de Administración y Desarrollo Urbano o equivalente, y la Sindicatura municipal, convocarán a los integrantes de la mesa colegiada de recepción, así como al representante legal, para la firma del acta administrativa.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 193.
 
-El ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento de un acta administrativa en la que intervendrán el Presidente Municipal correspondiente, el fraccionador, el Director de Obras Públicas y en su caso, el Director de Planeación Municipal, a fin de que, previo dictamen técnico-jurídico, se certifique que el fraccionador cumplió con todas las obligaciones establecidas en factibilidades, licencias y calendarios de ejecución del fraccionamiento, así como que se encuentran en buen estado y calidad las obras y servicios que se entreguen.
+El ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento del acta administrativa mencionada en el artículo anterior; y la Dirección de Administración y Desarrollo Urbano o su equivalente, y la sindicatura, la enviarán al presidente municipal para su firma, a fin de que se certifique que el fraccionador cumplió con todas las obligaciones establecidas en factibilidades, licencias y calendarios de ejecución del fraccionamiento, así como que se encuentran en buen estado y calidad las obras y servicios que se entreguen; en un plazo no mayor de veinte días hábiles. En caso contrario, notificarán en el mismo plazo al fraccionador, las inconsistencias que deberá subsanar y el término que se le otorga para hacerlo; procediendo nuevamente de conformidad con este artículo y con lo dispuesto en el artículo 192 de esta Ley.
+
+En caso de no dar cumplimiento con los plazos establecidos en éste y en el artículo 192, se entenderá que el fraccionamiento fue recibido de conformidad por todas las áreas de la administración municipal involucradas en el proceso de entrega-recepción del fraccionamiento.
 
 ### CAPITULO UNICO
 
@@ -3658,3 +3760,15 @@ P.O. 20 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días naturales de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los ayuntamientos deberán adecuar sus áreas de administración urbana, así como organizar las mesas colegiadas de dictaminación y recepción de fraccionamientos, a más tardar el treinta y uno de octubre de dos mil seis.
+
+CUARTO. En tanto los ayuntamientos no cuenten con la estructura administrativa adecuada, podrán acordar con la SEDUVOP que se lleve a cabo la asesoría correspondiente.
+
+QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la Ley de Desarrollo Urbano, y los demás que fueren necesarios con relación a la misma, antes del treinta y uno de mayo del año dos mil siete.
