@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2004-07-24"
+last_updated: "2006-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -671,7 +671,9 @@ Las violaciones a lo establecido por la presente Ley, su reglamento y demás dis
 
 Para los efectos de la presente ley, la Secretaría o los Ayuntamientos según el caso, aplicará a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
 
-I.- Multa equivalente de 10 a 50 veces el salario mínimo vigente en la zona económica en que se cometa la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien, obstruyan las rampas o accesos para personas con discapacidad, u obstaculicen el libre desplazamiento de acuerdo al artículo 55 de esta ley;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2006)</small>
+
+I.- Multa equivalente de 20 a 50 veces el salario mínimo diario vigente en la zona económica en que se cometa la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien, obstruyan las rampas o accesos para personas con discapacidad, u obstaculicen el libre desplazamiento, de acuerdo al artículo 55 de esta Ley;
 
 II.- Multa equivalente de 30 a 50 veces el salario mínimo vigente en la zona económica en que se cometa la infracción, a los prestadores en cualquier modalidad del servicio público o privado que nieguen, impidan u obstaculicen el uso del servicio a personas con discapacidad y a su perro guía, si es el caso; o que no cumplan con las adaptaciones requeridas por la presente ley;
 
@@ -687,11 +689,11 @@ Si la sanción fuese impuesta por la Autoridad Municipal, el crédito fiscal se 
 
 Para la imposición de sanciones se observará lo dispuesto por el Código Fiscal del Estado de Chihuahua, tratándose de las impuestas por la Secretaría; y conforme a lo que dispone el Código Municipal, tratándose de los Ayuntamientos de los 67 Municipios.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 73.
 
-Para garantizar el respeto de los espacios de estacionamiento preferencial para personas con discapacidad y en forma auxiliar a la autoridad correspondiente, podrán denunciar la infracción señalada en el artículo 71, fracción I de esta ley, tres ciudadanos que atestigüen dicha conducta y que debidamente identificados lo hagan constar en documento sin más formalidad que la declaración de protesta de decir verdad y demás datos generales.
-
-La anterior declaración servirá como documento base y fundamental para que la autoridad correspondiente, una vez que lo tenga de su conocimiento, levante la infracción respectiva.
+Para garantizar el respeto de los espacios de estacionamiento preferencial para personas con discapacidad y en forma auxiliar a la autoridad correspondiente, podrán denunciar la infracción señalada en el artículo 71, fracción I de esta ley, dos ciudadanos que atestigüen dicha conducta y que debidamente identificados lo hagan constar en documento sin más formalidad que la declaración de protesta de decir verdad y demás datos generales.
 
 ### CAPÍTULO IX. DE LOS RECURSOS
 
@@ -736,3 +738,9 @@ LIC. SERGIO ANTONIO MARTINEZ GARZA.
 EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DEL DESPACHO DE LA SECRETARIA GENERAL DE GOBIERNO POR MINISTERIO DE LEY
 
 LIC. JESUS ANTONIO PIÑON JIMENEZ.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 20 DE SEPTIEMBRE DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
