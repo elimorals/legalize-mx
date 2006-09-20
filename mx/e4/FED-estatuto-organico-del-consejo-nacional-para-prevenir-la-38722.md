@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-38722"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-04-26"
-last_updated: "2004-04-26"
+last_updated: "2006-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38722&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-03-29"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION, PUBLICADO EN EL D.O.F. DE 20 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Sección Primera del Diario Oficial de la Federación, el lunes 26 de abril de 2004.
 
@@ -672,3 +674,11 @@ Artículo Segundo. De acuerdo con el objeto de la Ley, dentro del ámbito de su 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Consejo Nacional contra la Discriminación en su primera sesión ordinaria de trabajo sostenida el 27 de octubre de 2003 y modificado en su primera sesión de 2004, celebrada el 29 de marzo.
 
 México, D.F., a 29 de marzo de 2004.- El Presidente del Consejo Nacional para Prevenir la Discriminación y de su Junta de Gobierno, Gilberto Rincón Gallardo y Meltis.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 20 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero. El presente Estatuto abroga el publicado en el Diario Oficial de la Federación el día 26 de abril de 2004.
+
+Artículo Segundo. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
