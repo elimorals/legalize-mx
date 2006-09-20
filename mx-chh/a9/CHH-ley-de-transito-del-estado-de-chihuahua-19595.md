@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2005-01-19"
+last_updated: "2006-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL FOLLETO ANEXO AL P.O. DE 20 DE SEPTIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -1146,3 +1148,21 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 20 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Se abroga la Ley de Tránsito del Estado de Chihuahua, que entró en vigor el 1º de febrero del año 2001.
+
+SEGUNDO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. El Ejecutivo del Estado deberá expedir el Reglamento correspondiente dentro de los noventa días naturales a la publicación de la presente Ley.
+
+CUARTO. Los Municipios del Estado, por conducto de sus Ayuntamientos, deberán expedir en el término de noventa días naturales, contados a partir de la publicación de la presente Ley, sus respectivos Reglamentos en materia de Tránsito.
+
+En tanto se realiza la reglamentación a que se refiere el párrafo anterior, se aplicarán las disposiciones vigentes emitidas por las autoridades competentes.
+
+QUINTO. En aquellos municipios que a la entrada en vigor de esta Ley, el servicio de tránsito sea prestado por el Estado, los ayuntamientos deberán manifestar dentro de los tres meses siguientes, su intención de asumir la prestación material del servicio o suscribir en los términos de la Constitución General de la República y la presente Ley, el convenio necesario para que sea el Estado quien lo otorgue, exceptuando los que tengan convenios vigentes.
+
+SEXTO. En lo que respecta a los artículos 16, 17, 19, 20, 92 y 93, entrarán en vigor seis meses después de la publicación de esta Ley.
+
+SÉPTIMO. Los consejos consultivos de cada municipio, determinarán los mecanismos necesarios para que los vehículos que se encuentran en los corralones, puedan ser rematados de conformidad con lo estipulado en el Código Fiscal del Estado.
