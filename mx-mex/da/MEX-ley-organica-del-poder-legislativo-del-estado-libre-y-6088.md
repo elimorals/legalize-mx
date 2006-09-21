@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2006-09-14"
+last_updated: "2006-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -913,9 +913,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Procuración y Administración de Justicia
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
 
-- Planificación y Finanzas Públicas
+- Planeación y Gasto Público
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1008,6 +1008,14 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2006)</small>
 
 - Seguimiento de la operación de proyectos para prestación de servicios
+
+> <small>(ADICIONADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
+
+- Finanzas Públicas
+
+> <small>(ADICIONADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
+
+- Recursos Acuíferos
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1548,3 +1556,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 21 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la " Gaceta del Gobierno".
