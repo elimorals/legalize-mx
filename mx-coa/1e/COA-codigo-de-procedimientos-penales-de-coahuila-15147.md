@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2006-03-11"
+last_updated: "2006-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
+CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -1607,7 +1607,9 @@ Será improcedente tal beneficio ante el Ministerio Público cuando se trate de 
 
 PREVENCIONES CUANDO SE DEJE EN LIBERTAD CAUCIONAL AL RETENIDO. Cuando el Ministerio Público deje libre al indiciado, lo prevendrá para que comparezca cuantas veces lo cite durante la averiguación previa. Además, le podrá hacer otras prevenciones para evitar que se acerque o moleste al ofendido, víctimas o testigos; o se ausente de la ciudad. Igualmente, lo prevendrá que deberá comparecer ante el juez que se consigne la causa.
 
-Tratándose del delito de violencia intrafamiliar, propio o equiparado, el Ministerio Público siempre prohibirá al indiciado que se acerque al o los ofendidos y que vaya al lugar donde estos residan.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+Tratándose del delito de violencia familiar, propio o equiparado, el Ministerio Público siempre prohibirá al indiciado que se acerque al o los ofendidos y que vaya al lugar donde estos residan.
 
 El Ministerio Público podrá hacer efectiva la caución si el indiciado no se presenta a cita que le hiciere o incumple otra prevención que se le impuso. La garantía se cancelará y se devolverá por el Ministerio Público, cuando quede firme el no-ejercicio de la acción penal.
 
@@ -2843,7 +2845,9 @@ A tal virtud, los titulares de las secretarías y dependencias del ejecutivo del
 
 Sin perjuicio de que puedan ser designados otros servidores de las mismas secretarías, dependencias, escuelas o facultades.
 
-Los profesionales de las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con violencia familiar, podrán colaborar en calidad de peritos en los casos de violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+Los profesionales de las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con violencia familiar, podrán colaborar en calidad de peritos en los casos de violencia familiar.
 
 ###### ARTÍCULO 381.
 
@@ -4547,7 +4551,9 @@ En la misma notificación se le darán a conocer al inculpado las obligaciones q
 
 PROHIBICIONES AL INCULPADO. El juzgador, cuando lo juzgue prudente, podrá prohibir al inculpado ir al lugar donde tenga su residencia la persona ofendida por el delito, víctimas, o sus familiares; o a sus lugares de trabajo o reunión. Esto lo podrá acordar al conceder la libertad caucional o durante el curso del proceso, en primera o segunda instancia.
 
-El juzgador siempre prohibirá al inculpado ir al lugar donde resida o trabaje la persona ofendida o víctima por el delito de violencia intrafamiliar o acercarse a ella a menos de cien metros.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+El juzgador siempre prohibirá al inculpado ir al lugar donde resida o trabaje la persona ofendida o víctima por el delito de violencia familiar o acercarse a ella a menos de cien metros.
 
 ###### ARTÍCULO 607.
 
@@ -5624,3 +5630,7 @@ A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieci
 QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
