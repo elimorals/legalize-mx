@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2006-02-03"
+last_updated: "2006-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2006.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE FEBRERO DE 2006.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -563,11 +561,11 @@ Una vez entregado dicho permiso al interesado este lo deberá presentar ante la 
 
 El giro cuya operación haya sido autorizada por el Ayuntamiento, deberá iniciar su actividad en un plazo no mayor de sesenta días contados a partir de la entrega del permiso respectivo. En caso de no iniciarse la operación del giro en el plazo mencionado se aplicaran las medidas de apremio y sanciones a que se refiere el presente ordenamiento.
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Los permisos autorizados por el Ayuntamiento serán entregados por el Secretario del Ayuntamiento al solicitante, debiendo contener dichos permisos los siguientes datos:
+Los permisos autorizados por el Ayuntamiento serán entregados por el Secretario de Desarrollo Económico al solicitante, debiendo contener dichos permisos los siguientes datos:
 
 > <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
@@ -591,7 +589,9 @@ i).- Número de permiso;
 
 j).- Registro Federal de Contribuyentes del titular o curp;
 
-k).- Firma del Presidente Municipal y del Secretario del Ayuntamiento;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+k).- Firma del Presidente Municipal y del Secretario de Desarrollo Económico;
 
 l).- Llevara la siguiente leyenda: "En caso de cesión de derechos el titular del presente permiso, deberá previamente dar aviso por escrito a la Secretaría del Ayuntamiento, para conocer sobre la situación actual del permiso de acuerdo a la ley y el reglamento que regulan las bebidas alcohólicas", y
 
@@ -1346,3 +1346,13 @@ La presente reforma entrara en vigor al momento de su aprobación y deberá publ
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- La presente reforma entrara en vigor al momento de su aprobación, y se derogan todas aquellas disposiciones que se opongan a la misma.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado, en un Diario de circulación estatal y/o en la Gaceta Municipal, para conocimiento de los vecinos.
+
+TERCERO.- Realícense las adecuaciones presupuéstales para efecto del cumplimiento del presente acuerdo.
+
+CUARTO.- Los recursos materiales, humanos y financieros con los que cuenten las diversas dependencias, que por razones de la presente iniciativa tengan modificaciones en cuanto a su reestructuración, pasaran a formar parte de la Secretaría a la que pertenezcan.
