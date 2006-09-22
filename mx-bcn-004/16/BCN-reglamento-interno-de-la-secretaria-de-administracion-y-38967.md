@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-administracion-y-38967"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2004-04-09"
+last_updated: "2006-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 09 de abril de 2004.
 
@@ -921,31 +921,33 @@ m) Realizar todos sus actos cumpliendo con las normas técnicas y procedimientos
 
 n) Las demás que le sean asignadas por la Dirección de Informática.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPITULO IV. DE LAS AUSENCIAS TEMPORALES
 
 ###### ARTICULO 58.
 
-Las ausencias temporales del Secretario de Administración y Finanzas, que no excedan de los quince días seguidos o en intervalo de un mes, serán suplidas mediante designación temporal que, por escrito del titular, podrá recaer en alguno de los Jefes de las Unidades Administrativas de mayor jerarquía.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 59.
 
-Las ausencias del Secretario de Administración y Finanzas, mayores de quince días pero que no excedan de treinta días, serán cubiertas mediante nombramiento provisional que emita el Presidente a favor de alguno de los Jefes de las Unidades Administrativas de mayor jerarquía de la misma secretaria.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 60.
 
-La ausencia del Secretario de Administración y Finanzas, mayores de treinta días serán valoradas por la comisión plenaria del Ayuntamiento a iniciativa del Presidente.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 61.
 
-Las ausencias temporales del Tesorero Municipal, Oficial Mayor y Director de Informática que no excedan de los quince días, serán suplidas mediante designación temporal que, por escrito del titular, podrá recaer en alguno de los Subdirectores de la Dependencia.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 62.
 
-Las ausencias del Tesorero Municipal, Oficial Mayor y Director de Informática mayores de quince días pero que no excedan de treinta días, serán cubiertas mediante nombramiento provisional que emita el Secretario a favor de alguno de los Jefes de las Unidades Administrativas de mayor jerarquía.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 63.
 
-La ausencia del Tesorero Municipal, Oficial Mayor Y Director de Informática mayores de treinta días serán valoradas serán valoradas (sic) por el Secretario.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
 
 ## TRANSITORIOS
 
@@ -956,3 +958,15 @@ El presente reglamento iniciara su vigencia al día siguiente de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 El Presente Reglamento deroga toda disposición en contrario contenida en la reglamentación Municipal de Tijuana y normas técnicas existentes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- La presente reforma entrara en vigor al momento de su aprobación, y se derogan todas aquellas disposiciones que se opongan a la misma.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado, en un Diario de circulación estatal y/o en la Gaceta Municipal, para conocimiento de los vecinos.
+
+TERCERO.- Realícense las adecuaciones presupuéstales para efecto del cumplimiento del presente acuerdo.
+
+CUARTO.- Los recursos materiales, humanos y financieros con los que cuenten las diversas dependencias, que por razones de la presente iniciativa tengan modificaciones en cuanto a su reestructuración, pasaran a formar parte de la Secretaría a la que pertenezcan.
