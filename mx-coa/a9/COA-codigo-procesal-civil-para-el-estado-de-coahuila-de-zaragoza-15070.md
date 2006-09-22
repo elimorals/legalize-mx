@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2004-08-17"
+last_updated: "2006-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -451,7 +451,9 @@ VII. En los negocios relativos a la tutela de menores e incapacitados, el juzgad
 
 VIII. En los negocios para suplir el consentimiento de quien ejerza la patria potestad o sobre impedimentos para contraer matrimonio, el del lugar en donde se hayan presentado los pretendientes.
 
-IX. Para decidir las diferencias conyugales; los juicios de nulidad de matrimonio y los casos de violencia intrafamiliar, el del domicilio conyugal.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Para decidir las diferencias conyugales; los juicios de nulidad de matrimonio y los casos de violencia familiar, el del domicilio conyugal.
 
 X. En los juicios de divorcio, el del domicilio conyugal. Cuando se demanda el divorcio por la separación del hogar conyugal originada por causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda o si la separación se prolongó por más de tres años, independientemente del motivo que la haya originado, será competente el juzgado del domicilio del actor.
 
@@ -2625,7 +2627,9 @@ De todo escrito y documento que se presenten, deben exhibirse tantas copias clar
 
 La omisión de las copias no será motivo para dejar de admitir los escritos y documentos presentados, pero en este caso el juzgador podrá mandarlas hacer a costa del que debió exhibirlas.
 
-Sin embargo, las demandas principales o incidentales o los escritos con los que se formulen liquidaciones, no serán admitidas si no se acompañan, excepción hecha de las demandas en que se reclaman alimentos o se planten (sic) supuestos de violencia intrafamiliar, en cuyo caso el juzgador de oficio mandará sacarlas.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+Sin embargo, las demandas principales o incidentales o los escritos con los que se formulen liquidaciones, no serán admitidas si no se acompañan, excepción hecha de las demandas en que se reclaman alimentos o se planten (sic) supuestos de violencia familiar, en cuyo caso el juzgador de oficio mandará sacarlas.
 
 ###### ARTÍCULO 271.
 
@@ -3255,7 +3259,9 @@ Remisión del expediente al juzgador competente.
 
 Si el juzgador que decretó la separación no fuere el que deba conocer del proceso, remitirá las diligencias practicadas al que fuere competente, ante quién deberá presentarse la demanda.
 
-### CAPÍTULO TERCERO. Violencia intrafamiliar
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO TERCERO. Violencia Familiar
 
 ###### ARTÍCULO 331.
 
@@ -3263,7 +3269,9 @@ Solicitud de medidas.
 
 Toda persona que sufra, maltrato físico, psicoemocional o sexual, por parte de alguno de los integrantes del grupo familiar, podrá denunciar estos hechos en forma verbal o escrita y solicitar al juez de primera instancia de su domicilio que decrete una medida provisional urgente que evite su reiteración.
 
-El Ministerio público, la Procuraduría de la Familia, la Unidad de Asistencia y Atención para la Prevención de la Violencia Intrafamiliar, los directores o encargados de los servicios asistenciales sociales, educativos o de salud, públicos o privados, o cualquier servidor público que por razón de su encargo tenga conocimiento de alguno de estos hechos que afecten a menores o incapaces, ancianos o discapacitados, deberán formular la petición a que este precepto se refiere.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+El Ministerio público, la Procuraduría de la Familia, la Unidad de Asistencia y Atención para la Prevención de la Violencia Familiar, los directores o encargados de los servicios asistenciales sociales, educativos o de salud, públicos o privados, o cualquier servidor público que por razón de su encargo tenga conocimiento de alguno de estos hechos que afecten a menores o incapaces, ancianos o discapacitados, deberán formular la petición a que este precepto se refiere.
 
 ###### ARTÍCULO 332.
 
@@ -5613,13 +5621,17 @@ Orden público en los asuntos inherentes a la familia.
 
 Todos los asuntos inherentes a la familia se considerarán de orden público e interés social, por constituir la base de la integración de la sociedad.
 
-Por tanto, en todos los asuntos que trata este título deberán tener intervención el Ministerio Público y, en su caso, el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de la Familia, la Unidad de Asistencia para la Prevención de la Violencia Intrafamiliar, y las autoridades administrativas del Estado o de los municipios, que por razón de sus funciones, tengan que ver con las cuestiones familiares.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+Por tanto, en todos los asuntos que trata este título deberán tener intervención el Ministerio Público y, en su caso, el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de la Familia, la Unidad de Asistencia para la Prevención de la Violencia Familiar, y las autoridades administrativas del Estado o de los municipios, que por razón de sus funciones, tengan que ver con las cuestiones familiares.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 548.
 
 Intervención oficiosa del Juez.
 
-El juzgador en asuntos del orden familiar estará facultado para intervenir de oficio en todos aquellos procesos que afecten a la familia, cuando se trate de menores e incapacitados, de la ministración de alimentos y de cuestiones relacionadas con la violencia intrafamiliar, decretando las medidas tendientes a preservarla y a proteger a sus miembros.
+El juzgador en asuntos del orden familiar estará facultado para intervenir de oficio en todos aquellos procesos que afecten a la familia, cuando se trate de menores e incapacitados, de la ministración de alimentos y de cuestiones relacionadas con la violencia familiar, decretando las medidas tendientes a preservarla y a proteger a sus miembros.
 
 ###### ARTÍCULO 549.
 
@@ -5627,11 +5639,13 @@ Suplencia de la deficiencia en asuntos del orden familiar.
 
 En todos los asuntos del orden familiar los jueces y tribunales estarán obligados a suplir la deficiencia de las partes en sus planteamientos de derecho. En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juzgador deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 550.
 
 Libertad en la forma en ciertos procedimientos familiares.
 
-No se requieren formalidades especiales para acudir ante las autoridades judiciales en asuntos de materia familiar, cuando se solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo, o el desconocimiento de una obligación; cuando se trate de violencia intrafamiliar, de alimentos, de calificación de impedimentos para contraer matrimonio, o de las diferencias que surjan entre los cónyuges, sobre la educación de los hijos, o las autorizaciones que sus padres deban dar en relación a su persona o a sus bienes; las oposiciones de padres y tutores y, en general, todas las cuestiones familiares similares que reclamen la intervención judicial.
+No se requieren formalidades especiales para acudir ante las autoridades judiciales en asuntos de materia familiar, cuando se solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo, o el desconocimiento de una obligación; cuando se trate de violencia familiar, de alimentos, de calificación de impedimentos para contraer matrimonio, o de las diferencias que surjan entre los cónyuges, sobre la educación de los hijos, o las autorizaciones que sus padres deban dar en relación a su persona o a sus bienes; las oposiciones de padres y tutores y, en general, todas las cuestiones familiares similares que reclamen la intervención judicial.
 
 Esta disposición no es aplicable en los casos de nulidad de matrimonio, divorcio, pérdida de la patria potestad e investigación de la paternidad.
 
@@ -6107,11 +6121,15 @@ Acta de divorcio y anotación de la sentencia.
 
 Una vez que la sentencia que decretó el divorcio haya adquirido autoridad de cosa juzgada, el juzgador remitirá copia al Oficial ante quien se celebró el matrimonio y a la Dirección Estatal del Registro Civil para que se proceda a levantar el acta de divorcio por el primero y a realizar las anotaciones marginales correspondientes por ambos.
 
-### CAPÍTULO OCTAVO. Violencia intrafamiliar
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPÍTULO OCTAVO. Violencia Familiar
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 597.
 
-Denuncia de hechos que importen violencia intrafamiliar.
+Denuncia de hechos que importen violencia familiar.
 
 Quien sufra maltrato físico, psicoemocional o sexual, por parte de algún integrante del grupo familiar, podrá denunciar estos hechos en forma verbal o escrita ante el juez con competencia en asuntos familiares; sin embargo, en los lugares en que no resida juez de lo familiar, los jueces de primera instancia en materia civil, los mixtos, los letrados y los de conciliación, tendrán facultades para recibir la denuncia y acordar las medidas provisionales urgentes a que se refieren los artículos 331 y 332 de este código, hecho lo cual, remitirán al de materia familiar competente, sin demora alguna, las actuaciones practicadas.
 
@@ -6121,11 +6139,13 @@ Representación legal o por dependencia oficial de menores, incapaces, ancianos 
 
 Cuando el afectado fuere menor o incapaz, anciano o discapacitado, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público o por la Procuraduría de la Familia. También estarán obligados a efectuar la denuncia los encargados de los servicios asistenciales, sociales o educativos, públicos o privados, los profesionales de la salud y todo funcionario público en razón de su labor. El menor o incapaz puede directamente poner en conocimiento de los hechos al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 599.
 
-Procedimiento en los casos de violencia intrafamiliar.
+Procedimiento en los casos de violencia familiar.
 
-La violencia intrafamiliar se tramitará de acuerdo con las reglas previstas en los artículos 550 y 551 de este ordenamiento, con las siguientes modalidades:
+La violencia familiar se tramitará de acuerdo con las reglas previstas en los artículos 550 y 551 de este ordenamiento, con las siguientes modalidades:
 
 I. El juzgador requerirá un diagnóstico de interacción familiar efectuado por peritos de diversas disciplinas, que presten sus servicios en el Sistema para el Desarrollo integral de la Familia o en instituciones públicas de educación y salud, para determinar los daños físicos y psíquicos sufridos por la víctima; la situación de peligro en que se encuentra; así como el medio social y el ambiente familiar en el que se desenvuelve. Las partes podrán solicitar otros informes técnicos.
 
@@ -6137,7 +6157,9 @@ IV. En la fase de conciliación el juzgador exhortará a los involucrados en aud
 
 V. El juzgador, de ser necesario, en atención a los informes, instará a las partes y a su grupo familiar a asistir a programas educativos y terapéuticos.
 
-VI. De las denuncias que se formulen y de las determinaciones que se dicten, se dará participación al Sistema para el Desarrollo Integral de la Familia y a la Unidad de Asistencia y Atención para la Prevención de la Violencia Intrafamiliar, a fin de que a través de la coordinación de los servicios públicos y privados eviten y, en su caso, superen las causas del maltrato, abusos y todo tipo de violencia dentro de la familia. Ambos organismos deberán informar a los juzgados en materia familiar cuales son las instituciones donde se proporcionará al agredido, al agresor y a su grupo familiar, asistencia medico-psicológica gratuita.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+VI. De las denuncias que se formulen y de las determinaciones que se dicten, se dará participación al Sistema para el Desarrollo Integral de la Familia y, a la Unidad de Asistencia y Atención para la Prevención de la Violencia Familiar, a fin de que a través de la coordinación de los servicios públicos y privados eviten y, en su caso, superen las causas del maltrato, abusos y todo tipo de violencia dentro de la familia. Ambos organismos deberán informar a los juzgados en materia familiar cuales son las instituciones donde se proporcionará al agredido, al agresor y a su grupo familiar, asistencia medico psicológica gratuita.
 
 VII. A requerimiento del juzgador, la Policía del Estado y la Policía Municipal, están obligadas a hacer comparecer de inmediato a quienes fueren citados y a llevar a cabo las exclusiones de hogar y demás medidas que, por razones de seguridad personal, dispusieren los jueces.
 
@@ -13120,3 +13142,7 @@ P.O. 17 DE AGOSTO DE 2004.
 PRIMERO. El presente decreto entrará en vigor sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los que se autorizan las pruebas periciales biológicas para la determinación de la paternidad y la maternidad, así como la presunción que se genera en perjuicio de quienes no otorgan su consentimiento para someterse a dichas pruebas, entrarán en vigor una vez que se expidan las leyes que regulen el funcionamiento seguro y eficiente de los laboratorios en los que se practiquen y que las Dependencias Oficiales competentes estén en condiciones de realizarlas, con el máximo grado de confiabilidad.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
