@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2006-03-21"
+last_updated: "2006-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -4779,7 +4779,9 @@ V. El que haya sido condenado por un delito que merezca pena de prisión, cometi
 
 VI. El padre y la madre respecto del hijo abandonado por ellos.
 
-VII. Los padres que prostituyan a sus hijos o atentaren a su pudor, respecto de los ofendidos; o que los hayan hecho objeto de violencia intrafamiliar debidamente comprobada.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Los padres que prostituyan a sus hijos o atentaren a su pudor, respecto de los ofendidos; o que los hayan hecho objeto de violencia familiar debidamente comprobada.
 
 VIII. Los parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieran cumplido.
 
@@ -20052,3 +20054,7 @@ P.O. 21 DE MARZO DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
