@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2006-01-06"
+last_updated: "2006-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -89,41 +89,51 @@ El Secretario, contará con las funciones y atribuciones que establece el Reglam
 
 ### CAPITULO III. ESTRUCTURA DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 5.
 
-Para el desempeño de sus funciones, la Secretaría de Gobierno Municipal, tendrá bajo su cargo la siguiente estructura:
+Para el desempeño de sus funciones, la Secretaría de Gobierno Municipal, tendrá bajo su cargo la siguiente estructura y Entidades:
 
 I.- Dirección General de Gobierno;
 
-II.- Dirección de Gestión Política;
+a).- Sub Dirección de Gobierno;
 
-III.- Dirección de Asuntos de Cabildo;
+b).- Sub Dirección de Concertación Social;
 
-IV.- Dirección de Regulación Municipal;
+c).- Oficialía del Registro Civil;
 
-V.- Dirección de Protección Civil;
+d).- Junta Municipal de Reclutamiento;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+e).- Departamento de Asuntos de Gobierno;
 
-VI.- Dirección Municipal del Transporte Publico de Tijuana;
+f).- Unidad de Gestión, Programas Institucionales y Atención Ciudadana que tendrá los siguientes:
 
-VII.- Departamento Administrativo;
+1.- Departamento de apoyo a la promoción de la Gestión y Atención Ciudadana;
 
-VIII.- Coordinación de delegaciones, y
+2.- Departamento Estadística e Informática;
 
-IX.- Las Delegaciones Municipales.
+g).- Departamento de mercado sobre ruedas y permisos promocionales;
 
-Entidades:
+II.- Dirección Municipal del Transporte Público de Tijuana;
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2005)</small>
+III.- Dirección de Gestión Política;
 
-A. Comité de Planeación para el Desarrollo Municipal, y
+IV.- Dirección de Asuntos de Cabildo;
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+V.- Dirección Administrativa:
 
-B. Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California.
+1.- Área de enlace delegacional, que tendrá las atribuciones derivadas de las que tiene la Dirección Administrativa, que le instruya el Director.
+
+VI.- Dirección de Inspección y verificación Municipal;
+
+VII.- Coordinación de Percepción Social y Opinión Pública;
+
+VIII.- Entidades:
+
+A.- Comité de Planeación para el Desarrollo Municipal.
+
+B.- Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California.
 
 ## TITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LAS DEPENDENCIAS DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL
 
@@ -135,51 +145,53 @@ B. Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipi
 
 La Dirección General de Gobierno, contará con las funciones y atribuciones que establece el Reglamento de la Administración Pública del Ayuntamiento de Tijuana, Baja California y las demás que expresamente le encomienden las leyes, reglamentos y acuerdos del Ayuntamiento o le instruya el Secretario de Gobierno Municipal.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 7.
 
 Para el desempeño de sus funciones, la Dirección General de Gobierno Municipal, tendrá bajo su cargo la siguiente estructura:
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2005)</small>
+I.- Sub Dirección de Gobierno;
 
-I.- Subdirección de Gobierno;
+II.- Sub Dirección de Concertación Social;
 
-II.- Departamento Administrativo;
+III.- Departamento de Asuntos de Gobierno;
 
-III.- Oficialía del Registro Civil;
+IV.- Oficialía del Registro Civil;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2006)</small>
+V.- Junta Municipal de Reclutamiento;
 
-IV.- Junta Municipal de Reclutamiento;
+VI.- Unidad de Gestión, Programas Institucionales y atención Ciudadana, que tendrá los siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2006)</small>
+a.- Departamento de apoyo a la promoción de la Gestión y Atención Ciudadana;
 
-V.- Departamento de Asuntos de Gobierno, y
+b.- Departamento Estadística (sic) e Informática;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2006)</small>
+VII.- Departamento de mercados sobre ruedas y permisos promocionales, que tendrá las siguientes atribuciones y obligaciones:
 
-VI.- Departamento de mercados sobre ruedas y promocionales, que tendrá las siguientes atribuciones:
+1.- Llevar el control de expedientes y archivo a escala municipal, de permisos anuales otorgados para el ejercicio del comercio ambulante en su modalidad de mercados sobre ruedas y promociónales;
 
-a. Llevar el control de expedientes y archivo a escala municipal, de permisos anuales otorgados para el ejercicio del comercio ambulante en su modalidad de mercados sobre ruedas y promociónales;
+2.- Recepción y archivo de actas, avisos e infracciones giradas por la Dirección de Inspección y verificación y Jefaturas delegacionales de Inspección y Verificación, con el fin de conformar antecedentes en los expedientes de los permisionarios;
 
-b. Recepción y archivo de actas, avisos e infracciones giradas por la Dirección y Jefaturas delegacionales de Inspección y Verificación, con el fin de conformar antecedentes en los expedientes de los permisionarios;
+3.- Facilitar a la Dirección de Inspección y Vigilancia por instrucciones del Director General de Gobierno los expedientes que le sean solicitados para alguna diligencia;
 
-c. Facilitar a la Dirección de Inspección y Vigilancia por instrucciones del Director General de Gobierno los expedientes que le sean solicitados para alguna diligencia;
+4.- Llevar acabo (sic) en tiempo y forma, la revalidación de permisos de mercados sobre ruedas;
 
-d. Llevar acabo (sic) en tiempo y forma, la revalidación de permisos de mercados sobre ruedas;
+5.- Tomar la fotografía digital a los permisionarios autorizados que todavía no cuentan con gafete anual;
 
-e. Tomar la fotografía digital a los permisionarios autorizados que todavía no cuentan con gafete anual;
+6.- Recepción de documentos para trámites de revalidación y regularización de permisos, previa autorización de la dirección general de gobierno;
 
-f. Recepción de documentos para tramites de revalidación y regularización de permisos, previa autorización de la dirección general de gobierno;
+7.- Verificar en la tesorería municipal que el permisionario no presente adeudos anteriores, en caso contrario, solicitar el pago de Derechos correspondiente;
 
-g. Verificar en la tesorería municipal que el permisionario no presente adeudos anteriores, en caso contrario, solicitar el pago de Derechos correspondiente;
+8.- Captura de datos, emisión y entrega de gafetes por computadora de los permisos anuales nuevos ó revalidados;
 
-h. Captura de datos, emisión y entrega de gafetes por computadora de los permisos anuales nuevos ó revalidados;
+9.- Conformar, presentar informes y reportes de forma mensual de las actividades y estadísticas totales de: revalidaciones, regularizaciones, constancias, copias certificadas emitidas, solicitudes recibidas, permisos nuevos otorgados, renovaciones y cancelaciones, bajas de permisos e ingresos percibidos por diversos conceptos;
 
-i. Conformar, presentar informes y reportes de forma mensual de las actividades y estadísticas totales de: revalidaciones, regularizaciones, constancias, copias certificadas emitidas, solicitudes recibidas, permisos nuevos otorgados, renovaciones y cancelaciones, bajas de permisos e ingresos percibidos por diversos conceptos, y
+10.- Proporcionar datos e informes de manera veraz y objetiva a la Dirección General de Gobierno, con el fin de facilitar la elaboración del presupuesto de ingresos y egresos por el rubro de revalidación, altas y emisión de gafetes para mercados sobre ruedas;
 
-j. Proporcionar datos e informes de manera veraz y objetiva a la Dirección General de Gobierno, con el fin de facilitar la elaboración del presupuesto de ingresos y egresos por el rubro de revalidación, altas y emisión de gafetes para mercados sobre ruedas.
+11.- Actualizar y depurar el padrón de mercados sobre ruedas, y
 
-VII.- (DEROGADA, P.O. 20 DE MAYO DE 2005)
+12. - Realizara recorridos periódicos de inspección y verificación en las plazas donde se instalen mercados sobre ruedas, en coordinación y con apoyo de la Dirección de Inspección y Verificación.
 
 ### CAPITULO I
 
@@ -199,23 +211,39 @@ IV. Brindar apoyo y asesoría a las áreas de la Dirección General en lo relati
 
 V. Coadyuvar con el Director General de Gobierno en el desempeño de sus funciones, y
 
-VI. Las demás que expresamente le encomienden las Leyes, Reglamentos y demás Normatividad aplicable, así como las que le sean encomendadas por el Director General, el Secretario o el Presidente en su caso.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Formular en coordinación con la Dirección de Asuntos de Cabildo y la(s) dependencia(s) que por materia corresponda, estudios en materia reglamentaria en relación a reformas encaminadas a resolver problemas específicos de repercusión social;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Asesorar y conciliar a los particulares a fin de encontrar una solución en caso de controversias sobre la aplicación de sus derechos respecto a las autoridades;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+VIII. Las demás que expresamente le encomienden las Leyes, Reglamentos y demás Normatividad aplicable, así como las que le sean encomendadas por el Director General, el Secretario o el Presidente en su caso.
 
 ### CAPITULO I
 
-#### SECCION SEGUNDA. DEL DEPARTAMENTO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCION SEGUNDA. DE LA DIRECCION ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 9.
 
-El Departamento Administrativo será el encargado de organizar, coordinar y controlar los recursos humanos, financieros y materiales asignados a las direcciones y departamentos adscritos a la Secretaría, con el objeto de optimizar su rendimiento y con ella eficientizar el desarrollo de las actividades de la dependencia.
+La Dirección Administrativa será la encargada de organizar, coordinar y controlar los recursos humanos, financieros y materiales asignados a las direcciones y departamentos adscritos a la Secretaría, con el objeto de optimizar su rendimiento y con ella eficientizar el desarrollo de las actividades de la dependencia.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 10.
 
-Corresponde al Departamento Administrativo el despacho de los siguientes asuntos:
+Corresponde a la Dirección Administrativa el despacho de los siguientes asuntos:
 
-I. Planear y coordinar la elaboración del proyecto de presupuesto de egresos de las Direcciones y Departamentos adscritos a la Secretaría;
+I. Planear y coordinar la elaboración del proyecto de presupuesto de egresos de las Direcciones, Departamentos adscritos a la Secretaría, así como los de las delegaciones municipales;
 
-II. Llevar un control sobre el ejercicio del presupuesto autorizado de las Direcciones y departamentos adscritos a la Secretaría;
+II. Llevar un control sobre el ejercicio del presupuesto autorizado de las Direcciones, Departamentos adscritos a la Secretaría, así como los de las delegaciones municipales;
 
 III. Autorizar y supervisar el buen uso del importe del fondo revolvente asignado a la Secretaría;
 
@@ -223,19 +251,25 @@ IV. Gestionar y tramitar ante la Tesorería Municipal los movimientos presupuest
 
 V. Autorizar y supervisar las adquisiciones las ordenes de pedido y requisiciones de material que soliciten las Direcciones y Departamentos adscritos a la Secretaría;
 
-VI. Coordinar y supervisar los movimientos del personal adscrito a las Direcciones y Departamentos de la Secretaría;
+VI. Coordinar y supervisar los movimientos del personal adscrito a las Direcciones, Departamentos de la Secretaría;
 
 VII. Gestionar y tramitar ante la Oficialía Mayor los movimientos de personal que sean necesarios;
 
-VIII. Llevar un control del inventario de los activos fijos asignados a las Direcciones y Departamentos de la Secretaría, y
+VIII. Llevar un control del inventario de los activos fijos asignados a las Direcciones y Departamentos de la Secretaría;
 
-IX. Aclarar y dar seguimiento a las observaciones realizadas por la Sindicatura Municipal.
+IX. Aclarar y dar seguimiento a las observaciones realizadas por la Sindicatura Municipal, y
+
+X. Las demás que le instruya el Presidente Municipal, el Secretario de Gobierno o el Director General de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
-El Departamento Administrativo para la realización de sus funciones contará con la siguiente estructura:
+La Dirección Administrativa para la realización de sus funciones contará con la siguiente estructura:
 
-I. Subjefe del Departamento administrativo
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+l. Subdirector del Departamento administrativo
 
 a. Área de Recursos Humanos
 
@@ -249,25 +283,29 @@ II. Área Administrativa de la Dirección de Regulación Municipal
 
 III. Área Administrativa de la Dirección de Protección Civil
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 12.
 
-Son funciones de la Subjefatura Administrativa las siguientes:
+Son funciones de la Subdirección Administrativa las siguientes:
 
-I. Apoyar al Departamento Administrativo en la supervisión del personal administrativo con el objeto de eficientizar las tareas asignadas.
+I. Apoyar a la Dirección Administrativa en la supervisión del personal administrativo con el objeto de eficientizar las tareas asignadas;
 
-II. Supervisar la realización de las aperturas programáticas, así como los reportes trimestrales de las Direcciones y Departamentos adscritos a la Secretaría.
+II. Supervisar la realización de las aperturas programáticas, así como los reportes trimestrales de las Direcciones, Departamentos adscritos a la Secretaría, así como las relativas a las Delegaciones;
 
-III. Coadyuvar en la realización del proyecto de presupuesto de las Direcciones y Departamentos adscritos a la Secretaría.
+III. Coadyuvar en la realización del proyecto de presupuesto de las Direcciones, Departamentos adscritos a la Secretaría, así como las relativas a las Delegaciones;
 
-IV. Llevar el control del fondo revolvente asignado a la Subdirección, así como realizar periódicamente arqueos de caja internos.
+IV. Llevar el control del fondo revolvente asignado a la Dirección, así como realizar periódicamente arqueos de caja internos;
 
-V. Dar contestación y seguimiento a las observaciones realizadas por la Contaduría Mayor de Hacienda y la Sindicatura Municipal.
+V. Dar contestación y seguimiento a las observaciones realizadas por Órgano de Fiscalización Superior y la Sindicatura Municipal;
 
-VI. Dar contestación y seguimiento a la correspondencia recibida en la Subdirección Administrativa.
+VI. Dar contestación y seguimiento a la correspondencia recibida en la Dirección Administrativa;
 
-VII. Apoyar al subdirector administrativo en la elaboración de Tareas y proyectos especiales de carácter administrativo y Financiero.
+VII. Apoyar al Director administrativo en la elaboración de Tareas y proyectos especiales de carácter administrativo y Financiero;
 
-VIII. Asistir en representación del Subdirector Administrativo a reuniones de trabajo.
+VIII. Asistir en representación del Director Administrativo a reuniones de trabajo, cuando sea instruido;
+
+IX. (SIC)
 
 ### CAPITULO I
 
@@ -849,6 +887,384 @@ La Dirección de Asuntos de Cabildo contará con las funciones y atribuciones qu
 
 ARTICULO 61 BIS.- La Dirección Municipal del Transporte Publico de Tijuana es la Dependencia encargada de coadyuvar en la definición y establecimiento de políticas y estrategias en materia de Vialidad y Transporte, en coordinación con las dependencias Estatales y Municipales, con el objeto de consolidar un Sistema Integral de Transporte Público, eficiente, seguro, ordenado y acorde a la dinámica de la ciudad; promover el reordenamiento y el establecimiento de rutas y concesiones de transporte público en sus distintas modalidades dentro de la jurisdicción municipal de Tijuana; proponer estrategias, fórmulas de solución, asociación y líneas de acción para afrontar y reducir los conflictos en materia de Vialidad y Transporte Publico y efectuar la inspección, vigilancia, revisión mecánica e imposición de las sanciones administrativas de conformidad con los artículos 19 y 42 de la Ley General de Transporte Publico del Estado de Baja California, así como la realización de estudios técnicos para la definición de vías, itinerarios y tarifas aplicables al transporte publico, en sus distintas modalidades.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 62.
+
+Corresponde a la Sub Dirección de Concertación Social, el ejercicio de las siguientes atribuciones:
+
+I.- Coadyuvar con la Secretaria de Gobierno Municipal y la Dirección General de Gobierno, en la conducción de la política interna de la administración pública municipal;
+
+II.- Auxiliar al Secretario de Gobierno Municipal y Director General de Gobierno, en la atención de los asuntos que le sean planteados por la comunidad u organizaciones civiles;
+
+III.- Tramitar las solicitudes e integrar los expedientes respecto a la asignación de categorías de los asentamientos humanos del municipio, asi como certificaciones de domicilio de cultos religiosos;
+
+IV.- Desempeñar las comisiones y funciones que le sean expresamente encomendados por el Ayuntamiento el Presidente, Secretario de Gobierno Municipal o el Director General de Gobierno;
+
+V.- Por instrucciones expresas del Secretario de Gobierno o el Director General de Gobierno Municipal, establecer relaciones especificas con el Gobierno Federal, el Gobierno del Estado, los Poderes Legislativo y Judicial, así como con los demás Ayuntamientos del Estado y el País;
+
+VI.- Canalizar la correspondencia en relación a peticiones ciudadanas a las áreas de la administración publica que correspondan, dando seguimiento a las mismas para su pronta y expedita resolución;
+
+VII.- Intervenir en los problemas relacionados con situaciones de riesgo originados por causas de la naturaleza o negligencia social;
+
+VIII.- Promover la participación de la sociedad en las tareas de gobierno, fortaleciendo la coordinación interinstitucional;
+
+IX.- Promover y proyectar la solución concertada de problemas sociales y gremiales de competencia municipal, y
+
+X.- Coadyuvar con las medidas tendientes al mejoramiento en la prestación del servicio público del transporte.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 63.
+
+La Unidad de Gestión, Programas Institucionales y Atención Ciudadana se encargadara (sic) de articular los esfuerzos de las diversas instancias de gobierno, para los efectos de dar seguimiento y oportuna respuesta y atención a las demandas ciudadanas, canalizando las peticiones a los diversos programas de atención social que implemente el Gobierno Central y Descentralizado.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 64.
+
+El departamento de gestión y atención ciudadana, tendrá las siguientes facultades:
+
+I.- Será el área encargada de llevar un registro de los planteamientos que la ciudadanía exponga al Secretario de Gobierno ó al Director General de Gobierno;
+
+II.- Canalizara las demandas de la ciudadanía, al área de Gobierno que corresponda y dará seguimiento del problema plateado (sic), hasta su terminación, y
+
+III.- Informara del seguimiento y resultados que se obtengan, de las diversas peticiones que haga la ciudadanía al Director de Gobierno, destacando si la respuesta del Gobierno fue favorable o no, al ciudadano.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 65.
+
+El Departamento de Estadística e Informática, tendrá las siguientes facultades:
+
+I.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las diversas áreas adscritas a la Secretaria de Gobierno;
+
+II.- Coordinar los sistemas de información y estadística de la Secretaria de Gobierno y de las áreas bajo el mando de esta;
+
+III.- Establecer y difundir las normas y las políticas para regular la administración de tecnologías administrativas, así como de bienes y servicios informáticos y de telecomunicaciones de la Secretaría de Gobierno;
+
+IV.- Establecer propuestas para lograr la cooperación de diversos organismos públicos, sociales y privados, tanto nacionales como internacionales, para fortalecer y consolidar los sistemas informáticos y de telecomunicaciones de la Secretaria de Gobierno, y
+
+VI (SIC).- Procesar y controlar la información estadística de las áreas de la Secretaria de Gobierno, que incremente su eficiencia y coadyuve en la toma de decisiones y el cumplimiento de los objetivos propuestos; (sic)
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 66.
+
+Corresponde a la Coordinación de Percepción Social y Opinión Pública, las siguientes atribuciones:
+
+I.- Realizar estudios para conocer la percepción social y la opinión pública sobre la gestión de gobierno y el desempeño de la administración pública municipales (sic);
+
+II.- Generar información estratégica para la toma de decisiones en asuntos del gobierno y la administración pública municipales;
+
+III.- Integrar bases de datos con la información de las diferentes dependencias de la Administración Publica Municipal, acerca de la calidad de los servicios que prestan y del seguimiento de las acciones de gobierno;
+
+IV.- Dar seguimiento a los Programas Prioritarios y evaluar su impacto en la percepción social de la gestión de gobierno;
+
+V.- Proponer mecanismos de orden general, y de intervención gubernamental, dirigidos a la mejora continua de la calidad de los servicios públicos municipales y de la imagen del gobierno;
+
+VI.- Asesorar al Secretario de Gobierno en la formulación de políticas públicas y la implementación de los programas de gobierno;
+
+VII.- Solicitar información a los Secretarios de sector, cuando se requiera para los fines de diagnostico o estudios específicos, y
+
+VIII.- Las demás que le instruya el Presidente Municipal o el Secretario de Gobierno.
+
+> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO VI
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+#### SECCION SEPTIMA (SIC). DIRECCION DE INSPECCION Y VERIFICACION MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 67.
+
+Corresponde a la Dirección de Inspección y Verificación Municipal, el despacho de los siguientes asuntos:
+
+I.- Realizar la vigilancia respecto del cumplimiento de los reglamentos municipales;
+
+II.- Supervisar la inspección de los establecimientos comerciales, uso de la vía pública para el comercio ambulante y mercados sobre ruedas;
+
+III.- Vigilar e inspeccionar el cumplimiento de los permisos otorgados para espectáculos públicos y privados en los términos que fueron otorgados;
+
+IV.- Emitir la opinión de factibilidad que le sea requerida para la realización de espectáculos públicos y privados, juegos electromecánicos y similares;
+
+V.- La supervisión, inspección y control de personas cuando exista la presunción de riesgo de ser contagiadas con enfermedades transmisibles en virtud de las actividades que realizan en restaurantes, clubes, bares, centros nocturnos, establecimientos de belleza y lugares de actividad similar, en cumplimiento de las disposiciones sanitarias que determina la Ley General de Salud, la Ley de Salud Pública del Estado y sus reglamentos, así como los convenios que se suscriban en materia de salud;
+
+VI.- Verificar, inspeccionar y vigilar los establecimientos con licencia o permiso de operación mercantil, así como los que se dediquen a la venta, almacenaje para su venta y venta para consumo de bebidas alcohólicas;
+
+VII.- Llevar a cabo visitas de inspección o verificación relativas a las solicitudes de licencias, autorizaciones, permisos o trámite de cambio en los mismos, conforme al reglamento municipal de que se trate, con el propósito de llevar a cabo la inspección o verificación que corresponda e informar el resultado a la Dependencia Municipal interesada;
+
+VIII.- Imponer, ejecutar y reconsiderar las sanciones que se deriven de la aplicación de los reglamentos municipales;
+
+IX.- Realizar actividades generales de prevención en la comisión de infracciones de los diversos Reglamentos Municipales;
+
+X.- Requerir la exhibición de libros y documentos que deban llevarse de acuerdo al giro del establecimiento o servicio que se preste;
+
+XI.- Imponer cuando sea procedente de acuerdo a la normatividad aplicable apercibimientos, amonestaciones, medidas preventivas y sanciones a las personas físicas o morales obligadas a observar los Reglamentos Municipales, conforme a la actividad que realicen;
+
+XII.- Practicar las visitas domiciliarias de inspección o verificación con absoluto respeto a las garantías contenidas en la Constitución Política de los Estados Unidos Mexicanos;
+
+XIII.- Desahogar el procedimiento de inspección o verificación administrativa, observando los principios de legalidad, formalidad y audiencia contenidos en la normatividad de la materia;
+
+XIV.- Ejecutar o cumplimentar los actos y resoluciones que emitan la propia Dirección y demás autoridades competentes;
+
+XV.- Levantar las actas y diligencias administrativas relativas a los procedimientos en los que intervengan;
+
+XVI.- Imponer las sanciones en los casos que sea procedente, cuando se advierta directamente la comisión de una o más infracciones que así lo ameriten, contempladas en uno o varios Reglamentos Municipales;
+
+XVII.- Designar a los jefes de departamento de la Dirección, a los Jefes de Inspección y Verificación Municipal en cada una de las Delegaciones Municipales y al personal que dependa de estos; asimismo podrá ordenar la rotación periódica de los mismos;
+
+XVIII.- Requerir de manera periódica a los diferentes departamentos y Unidad de la Dirección, así como de las Jefaturas de Inspección y Verificación Municipal de cada una de las Delegaciones, la información de las actividades que realizan, en el ejercicio de sus funciones;
+
+XIX.- Solicitar a la dependencia municipal competente los padrones que por materia le correspondan; Padrón Único de Comerciantes Ambulantes, (PUCA), Padrón de Alcoholes, Padrón de Operatividad mercantil, etc., para efecto de programación de inspecciones y verificaciones, y la detección establecimientos irregulares;
+
+XX.- Las demás que le atribuyen expresamente las Leyes, los Reglamentos y aquellas que le encomiende el Cabildo, el Presidente o los Secretarios de Sector que le competan.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 68.
+
+La Dirección de Inspección y Verificación, contara para desarrollar sus funciones, con los suficientes inspectores de acuerdo a la materia de que tratan los diferentes reglamentos municipales, que se clasificaran como:
+
+a).- Inspectores Integrales o Multidisciplinarios, e
+
+b).- Inspectores Especializados.
+
+Los inspectores integrales o multidisciplinarios realizaran funciones generales, de prevención, notificación, verificación, inspección y vigilancia de acuerdo a la normatividad municipal; desahogando las diligencias administrativas, así como el levantamiento de actas relativas a la aplicación de la normatividad antes mencionada, excepto en los casos en que se requiera de conocimientos profesionales, técnicos o especializados.
+
+Los inspectores especializados además de estar facultados para intervenir como Integrales o multidisciplinarios, serán aquellos que practicarán las visitas domiciliarias para efectos de inspección y verificación en tareas específicas que por su naturaleza normativa requiera de conocimientos profesionales, técnicos o especializados, para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 69.
+
+Para el desempeño de sus funciones, la Dirección de Inspección y Verificación Municipal, contara con la siguiente estructura:
+
+III (SIC). Sub Dirección de Inspección y Verificación Municipal:
+
+a. Departamento de Inspección y verificación municipal;
+
+b. Departamento de Espectáculos Públicos y Privados;
+
+c. Departamento de Normatividad y Control;
+
+d. Departamento de Inspección y Verificación en las Delegaciones Municipales, y
+
+IV. Sub Dirección de Planeación:
+
+a. Departamento de Estudios y Proyectos, y (sic)
+
+b. Departamento Administrativo.
+
+c. La Unidad de Registro y Control de Inspecciones y Verificaciones; (sic)
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 70.
+
+Son funciones del Subdirector de Inspección y Verificación Municipal, las siguientes:
+
+I.- Coadyuvar con el Director de Inspección y Verificación Municipal, en la conducción de las relaciones institucionales y laborales; así como en el desahogo de los asuntos que competan a la Dirección de Inspección y Verificación y de los departamentos y unidad a su cargo;
+
+II.- Acordar con el Director de Inspección y Verificación los asuntos que competan a la Dirección y a los Departamentos y Unidad a su cargo;
+
+III.- Desempeñar las comisiones que el Director le encomiende y por acuerdo expreso representar a la Dirección en actos que el propio Director determine;
+
+IV.- Vigilar e implementar los programas que permitan la regulación del comercio formal e informal, aplicando cabalmente las Leyes y Reglamentos de competencia municipal;
+
+V.- Optimizar en lo posible tiempos y recursos en lo general, y mejorar el desempeño del personal;
+
+VI.- Instruir, supervisar y evaluar las actividades que desarrollan los diferentes Departamentos y Unidad a su cargo, y
+
+VII.- Coordinar y supervisar los operativos que realice la Dirección de Inspección y Verificación Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 71.
+
+Son funciones de la Unidad de Registro y Control de Inspecciones y Verificaciones, las siguientes:
+
+I.- Llevar el registro, control de las solicitudes y resultados de las inspecciones y verificaciones de cada una de las dependencias municipales;
+
+II.- Coordinar la recepción, trámite y seguimiento que corresponda a las peticiones de las distintas dependencias municipales, respecto a las inspecciones o verificaciones ejecutadas por la Dirección de Inspección y Verificación, en cumplimiento a los reglamentos municipales conforme a la materia de que se trate;
+
+III.- Integrar los informes, respecto de los resultados derivados de las diligencias de inspección y verificación que lleven a cabo los inspectores o verificadores de la Dirección, con la finalidad de canalizarlos a las dependencias municipales que correspondan, y
+
+IV.- Rendir los informes que le solicite el Director, con respecto del ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 72.
+
+Son funciones del Subdirector de Planeación, las siguientes:
+
+l.- Acordar con el Director de Inspección y Verificación los asuntos de los Departamentos a su cargo;
+
+II.- Desempeñar las comisiones que el Director le encomiende, por acuerdo expreso para representar a la Dirección en actos que el propio Director determine;
+
+III.- Someter a la aprobación del Director los estudios y proyectos que se elaboren en la Dirección;
+
+IV.- Coordinar las labores de integración e interrelación que propicie a nivel interno y externo el óptimo desarrollo de las responsabilidades que son competencia de la Dirección y Departamentos a su cargo;
+
+V.- Someter a consideración del Director los manuales de organización, procedimientos y servicio de los diversos Departamentos y Unidad, conforme a los lineamientos establecidos por el Reglamento de la Administración Pública Municipal para el Ayuntamiento de Tijuana, Baja California, y
+
+VI.- Supervisar el registro y control de la información que se genere en los diferentes departamentos y áreas de la Dirección, con el propósito de llevar el análisis y recopilación de la misma, a fin de conformar informes y reportes de manera mensual, que le permita la planeación, programación y seguimiento de las estrategias de trabajo a seguir en la Dirección.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 73.
+
+Son funciones del encargado del Departamento de Normatividad y Control las siguientes:
+
+I.- Análisis, estudio y recopilación de la normatividad aplicable a la Dirección de Inspección y Verificación;
+
+II.- Someter a consideración del Director de Inspección y Verificación las propuestas y modificaciones de los reglamentos municipales, para ser presentados ante la Consejería Jurídica Municipal;
+
+III.- Investigación de datos de las funciones y características de los departamentos y Unidad de la Dirección así como de las Jefaturas de Inspección y Verificación de las Delegaciones, con el fin de diseñar los procedimientos operativos que conlleven a la elaboración o actualización de manuales operativos, con visto bueno de su superior jerárquico;
+
+IV.- Proponer al Director de Inspección y Verificación, la revisión y actualizar (sic) de los convenios de colaboración con las diferentes dependencias, a fin de que estos puedas (sic) ser sometidos a consideración del Director de Inspección y Verificación, para su firma;
+
+V.- Dar contestación con apoyo de la Consejeria Jurídica a los recursos administrativos interpuestos ante la Dirección de Inspección y Verificación;
+
+VI.- Elaborar las órdenes de devolución de los vehículos asegurados en la vía pública, a particulares que infringieron la normatividad municipal correspondiente, previa revisión de la documentación;
+
+VII.- Crear e implementar periódicamente los cursos de capacitación a los inspectores de la Dirección, a efecto de establecer los programas de evaluación de este personal, para el mejor desempeño de sus funciones, o cuando se lo instruya el Director de Inspección y Verificación;
+
+VIII.- Coadyuvar con la Consejería Jurídica Municipal respecto a la recepción, trámite y seguimiento de los asuntos de curso legal que sean dirigidos a la Dirección de Inspección y Verificación, e
+
+IX.- Integrar los informes, llevando el registro y control de los mismos, de los asuntos de su competencia, informando esto al Director de Inspección y Verificación.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 74.
+
+El Departamento de Inspección y Verificación será el encargado de vigilar cumplimiento (sic) de la Leyes y Reglamentos aplicables al Municipio, mediante visitas domiciliarias de inspección o verificación a los establecimientos mercantiles para lo cual ejercerá entre otras, las siguientes funciones:
+
+I.- Combatir la venta y almacenaje clandestino de bebidas alcohólicas en establecimientos comerciales y domicilios particulares;
+
+II.- Ejecución de Inspecciones de factibilidad para el otorgamiento de permisos nuevos, trámites de cambio o extensión de giro, nombre comercial, propietario y domicilio, para la venta y almacenaje de bebidas alcohólicas;
+
+III.- Ejecución de Inspecciones y verificaciones para el otorgamiento de permisos nuevos o trámites de cambio de giro, nombre comercial, propietario y domicilio, para la operación mercantil de los establecimientos;
+
+IV.- Inspección a bares, centros nocturnos y discotecas, con el fin de detectar el acceso a menores de edad, drogas o armas y proceder administrativa o judicialmente según la ley y reglamento de la materia, y en su caso la turnación al Juez Municipal que corresponda;
+
+V.- Inspección de todos los giros acreditados en el reglamento de alcoholes, respecto al cumplimiento del horario establecido para su operación;
+
+VI.- Revisión permanente del padrón general de permisos, corroborando datos y verificando la revalidación anual del mismo, según el ejercicio fiscal vigente;
+
+VII.- Ejecutar citatorios, notificaciones, resoluciones, sanciones, multas y clausuras temporales o definitivas decretadas por la autoridad municipal;
+
+VIII.- Inspeccionar y sancionar la venta de vehículos de forma ilegal en la vía pública;
+
+IX.- Sancionar aquellas (sic) personas y propietarios de establecimientos en los cuales se ejerzan trabajos o actividades mediante las cuales se pueda propagar alguna enfermedad transmisible y que carezca de los medios de control que determina la Dirección de Servicios Médicos Municipales, y (sic)
+
+X.- Informar- y someter a consideración los asuntos de su competencia para su autorización, del Director de Inspección y Verificación, y
+
+XI.- Las demás que determinen las leyes y los reglamentos de la Administración Publica Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 75.
+
+Son funciones del Departamento de Espectáculos Públicos y Privados, las siguientes:
+
+I.- Verificar el cumplimiento de la reglamentación en materia de Espectáculos Públicos y Privados que se celebren en el Municipio de Tijuana, Baja California;
+
+II.- Efectuar recorridos de inspección y vigilancia en los establecimientos y domicilios particulares para localizar eventos o espectáculos públicos y verificar su autorización previa y su cumplimiento en los términos en que fue otorgada;
+
+III.- Ordenar la suspensión o la interrupción del desarrollo de un evento o espectáculo público por falta de autorización o si la tuviere por incumplimiento de los términos en que fue otorgada; procediendo administrativamente sin perjuicio de las faltas de tipo judicial en que se pudiera incurrir;
+
+IV.- Someter a consideración los asuntos de su competencia al Director de Inspección y Verificación, e informarlo de los resultados de sus funciones, y
+
+V.- Las demás que determinen las leyes y los reglamentos municipales.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 76.
+
+Son funciones del Departamento de Estudios y Proyectos, las siguientes:
+
+I.- Recopilación de datos y seguimiento de las actividades inherentes a las funciones que realizan los distintos departamentos y áreas dependientes de la Dirección así como de las Jefaturas de Inspección y Verificación Municipal de cada una de las Delegaciones, a fin de proyectar los ingresos captados por concepto de sanciones aplicadas por la Dirección, detectando las omisiones que pudieran resultar del incumplimiento en el pago de las actas administrativas derivadas de las inspecciones practicadas;
+
+II.- Registro y control de la información que se genere en las áreas de la Dirección así como de las Jefaturas de Inspección y Verificación Municipal de las Delegaciones, para efectos estadísticos;
+
+III.- Creación del sistema geográfico referencial de establecimientos con venta almacenaje y consumo público de bebidas alcohólicas, y (sic)
+
+IV.- Estudio, análisis y elaboración de asuntos específicos solicitados por el Director de Inspección y Verificación, y
+
+V.- Rendir los informes que le solicite el Director o Sub Director de Inspección y Verificación, con respecto del ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+ARTCULO (SIC) 77.- Son funciones del Encargado del Departamento Administrativo las siguientes:
+
+I.- Gestionar y tramitar ante el Secretario de Gobierno los movimientos de personal, previo visto bueno del Director de Inspección y Verificación;
+
+II.- Elaborar la prenómina del personal adscrito a la Dirección de Inspección y Verificación Municipal y enviarla al Director de Inspección y Verificación para su visto bueno;
+
+III.- Llevar un control del fondo revolvente asignado a la Dirección de Inspección y Verificación, así como elaborar los reembolsos y enviarlos a la Dirección para su autorización;
+
+IV.- Coadyuvar con la dependencia que corresponda, en la realización del proyecto del presupuesto de egresos de la Dirección de Inspección y Verificación, informando del resultado al Director de Inspección y Verificación;
+
+V.- Llevar un control del padrón de activos fijos asignados a la Dirección de Inspección y Verificación e informar a la Dirección sobre cualquier modificación al mismo;
+
+VI.- Elaborar las órdenes de pedido, requisiciones de material y equipo necesario en la Dirección de Inspección y Verificación, con el visto bueno del Sub Director y enviarlas a la Secretaría de Gobierno, para su autorización, y
+
+VII.- Elaborar los mecanismos para el registro y control de asistencia de los inspectores de la Dirección proponiendo roles de trabajo tomando en cuenta previamente la asignación y rotación que determine el Director.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+ARTCULO (SIC) 78.- El Departamento de Inspección y Verificación en las Delegaciones Municipales, conforme a la jurisdicción previamente asignada por el Director, tendrá las siguientes atribuciones:
+
+I.- Ejecutar las acciones, aplicación de programas y actividades en plena observancia a las leyes y reglamentos Municipales, así como al presente reglamento y a las políticas y disposiciones administrativas dictadas por el Secretario de Gobierno o el Director de Inspección y verificación;
+
+II.- Emitir la factibilidad que le solicite el Director de Inspección y Verificación por instrucciones del Director General de Gobierno, como requisito previo para la autorización de permisos para el funcionamiento de plazas de nueva creación como resultado de las solicitudes que realicen las agrupaciones de mercados sobre ruedas, reconocidas por el Ayuntamiento;
+
+III.- Emitir la factibilidad que le solicite el delegado municipal correspondiente, respecto de las solicitudes de permisos de comercio ambulante y de puestos fijos y semi fijos que hayan iniciado su trámite en la demarcación delegacional, que corresponda, informando del resultado de estas al Director de Inspección y Verificación;
+
+IV.- Llevar a cabo la inspección y vigilancia de la actividad que realicen los vendedores ambulantes, mercados sobre ruedas y los permisionarios de puestos fijos y semi fijos, cuidando el interés público con relación al libre transito por calles y avenidas de la ciudad, dentro de su estricta jurisdicción político territorial demarcada por la Delegación correspondiente;
+
+V.- Realizar la inspección y vigilancia de los establecimientos comerciales;
+
+VI.- Realizar la inspección y vigilancia respecto de la venta ilegal de vehículos en la vía pública; así como elaborar las ordenes de devolución de los vehículos asegurados en la vía publica, cuando proceda, previa autorización del Director o Sub Director de Inspección y Verificación;
+
+VII.- Rendir los informes que le solicite el Director de Inspección y Verificación, respecto del ejercicio de sus funciones, y
+
+VIII.- Las demás que establezca el presente ordenamiento y las que le instruya el Director de Inspección y Verificación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO III (SIC). DE LAS AUSENCIAS TEMPORALES
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 79.
+
+Las ausencias temporales del Director de Inspección y Verificación Municipal que no excedan de quince días seguidos serán cubiertas por el Subdirector de Inspección y Verificación Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 80.
+
+Las ausencias del Director de Inspección y Verificación, mayores de quince días pero que no excedan de treinta días, serán cubiertas mediante nombramiento provisional que emita el Secretario de Gobierno.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 81.
+
+Las ausencias temporales del Jefe de Inspección y Verificación en las Delegaciones municipales que no excedan de 15 días seguidos, serán cubiertas por la persona que designe el Director de Inspección de Verificación.
+
+Si la ausencia es mayor de 15 días pero no excede de 30 será cubierta mediante nombramiento provisional que emita el Secretario de Gobierno, a propuesta del Director de Inspección y Verificación.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 82.
+
+Las ausencias del Director, así como de los Jefes de los Departamentos de Inspección y Verificación Municipal en las delegaciones municipales, mayores de treinta días será (sic) valoradas y resueltas por el Secretario de Gobierno.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -906,3 +1322,13 @@ PRIMERO.- El presente acuerdo entrara en vigor al momento de su aprobación, y d
 SEGUNDO.- Realícense los ajustes administrativos y presupuestales necesarios a efecto de que el departamento de mercados sobre ruedas dependiente de la Dirección de Regulación municipal, pase a formar parte de la estructura de la Dirección General de Gobierno con todo lo que le sea propio y corresponda.
 
 TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- La presente reforma entrara en vigor al momento de su aprobación, y se derogan todas aquellas disposiciones que se opongan a la misma.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado, en un Diario de circulación estatal y/o en la Gaceta Municipal, para conocimiento de los vecinos.
+
+TERCERO.- Realícense las adecuaciones presupuéstales para efecto del cumplimiento del presente acuerdo.
+
+CUARTO.- Los recursos materiales, humanos y financieros con los que cuenten las diversas dependencias, que por razones de la presente iniciativa tengan modificaciones en cuanto a su reestructuración, pasarán a formar parte de la Secretaría a la que pertenezcan.
