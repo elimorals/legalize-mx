@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2006-09-01"
+last_updated: "2006-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1183,9 +1183,9 @@ IV. CONCURSO REAL. Cuando el sujeto activo haya realizado varias acciones u omis
 
 V. CRITERIOS PARA DETERMINAR CUAL ES LA PENA MAYOR O MÁS GRAVE. En los casos de concurso de delitos en los que sea necesario determinar cual es la pena mayor o más grave, se atenderá a los siguientes criterios:
 
-1) Si las penas son de la misma naturaleza, pena mayor será la de máximo superior; si los máximos son iguales, la que presente el mínimo mayor; si tanto las máximas como las mínimas son iguales, pena mayor será la de aquella disposición que prevea una pena accesoria.
+I. Si las penas son de la misma naturaleza, pena mayor será la de máximo superior; si los máximos son iguales, la que presente el mínimo mayor; si tanto las máximas como las mínimas son iguales, pena mayor será la de aquella disposición que prevea una pena accesoria.
 
-2) Si las penas son de distinta naturaleza, pena mayor será la más grave según el orden establecido por el artículo 56.
+II. Si las penas son de distinta naturaleza, pena mayor será la más grave según el orden establecido por el artículo 56.
 
 VI. PENAS DE CALIDAD DISTINTA A LA DE PRISIÓN. En cualquier clase de concurso, si con la pena de prisión concurren otras de diferente calidad, también se aplicarán estas, observándose, en su caso, para efectos de su individualización, las mismas reglas de cálculo previstas para aquella.
 
@@ -1659,7 +1659,9 @@ II. MODALIDAD DE SUSPENSIÓN PARCIAL O TOTAL DE DERECHOS. La limitación o suspe
 
 7. La realización de determinadas ocupaciones.
 
-8. El ejercicio de derechos familiares, en especial si se trata de violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+8. El ejercicio de derechos familiares, en especial si se trata de violencia familiar.
 
 9. La custodia, la tutela y la adopción.
 
@@ -2343,11 +2345,11 @@ CONCEPTO DE DAÑO MORAL. Por daño moral se entiende: El sufrimiento que el deli
 
 AUTONOMÍA DEL DAÑO MORAL. Cuando un hecho u omisión ilícito produzca un daño moral, el responsable tendrá obligación de repararlo mediante una indemnización en dinero, con independencia de que se cause o no se cause daño material.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 120.
 
-PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad. Violencia Intrafamiliar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Cualquiera de los supuestos que se previenen en el artículo 311. Rapto y equiparable al rapto. Atentados al pudor propio e impropio. Estupro. Difamación. Calumnia. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto. Extorsión. Robo con violencia, consumado o en grado de tentativa. Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta. Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
+PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad. Violencia familiar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Violación conyugal. Pornografía infantil, de adolescentes y de incapaces, Lenocinio, Trata de personas, menores e incapaces y Adulterio, Cualquiera de los supuestos que se previenen en el artículo 311, Rapto y equiparable al rapto, Atentados al pudor propio e impropio, Estupro, Difamación, Calumnia. Amenazas. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto, Extorsión, Robo con violencia, consumado o en grado de tentativa, Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta, lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
 
 ###### ARTÍCULO 271.
 
@@ -2611,7 +2613,7 @@ Será inoperante esta causa de prescripción en delitos contra la vida, la salud
 
 Las reglas de prescripción de este artículo se aplicarán con independencia de las reglas prescriptivas de la acción penal, según la sanción atribuible.
 
-### CAPÍTULO TERCERO. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN ESTE TÍTULO
+### CAPÍTULO TERCERO. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN ESTE TITULO
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2653,7 +2655,7 @@ ARTÍCULO 291 BIS 9. CONSECUENCIAS ESPECIALES EN LOS CASOS DE PARTICIPACIÓN DE 
 
 ARTÍCULO 291 BIS 10. NORMA COMPLEMENTARIA EN ORDEN A LA TERMINOLOGÍA PROPIA DE LOS DELITOS CONTRA EL MEDIO AMBIENTE. Para los efectos del presente Título, se estará a la terminología establecida en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado, así como a la prevista en los demás ordenamientos legales aplicables.
 
-(REFUBICADO [N. DE E. ANTES CAPITULO SEGUNDO], P.O. 1 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCIÓN TERCERA. PRESCRIPCIÓN DE LAS SANCIONES PENALES
 
@@ -2899,7 +2901,9 @@ ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA ORDENAC
 
 ### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
 
-### CAPÍTULO PRIMERO. VIOLENCIA INTRAFAMILIAR
+### CAPÍTULO PRIMERO. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 292.
 
@@ -3095,6 +3099,8 @@ PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará pr
 
 ## TÍTULO ÚNICO. DELITOS CONTRA EL ORDEN FAMILIAR
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPÍTULO SÉPTIMO. ADULTERIO
 
 ###### ARTÍCULO 309.
@@ -3113,7 +3119,7 @@ DELITOS CONTRA LA FAMILIA
 
 ###### ARTÍCULO 310.
 
-SANCIONES Y FIGURA TÍPICA DE VIOLENCIA INTRAFAMILIAR. Se aplicarán de seis meses a seis años de prisión, multa y suspensión del derecho de recibir alimentos hasta por tres años:
+SANCIONES Y FIGURA TÍPICA DE VIOLENCIA FAMILIAR. Se aplicarán de seis meses a seis años de prisión, multa y suspensión del derecho de recibir alimentos hasta por tres años:
 
 Al cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el cuarto grado; que ejerza la fuerza física o moral de manera reiterada con relación a la integridad física, psíquica o ambas, de algún miembro de la familia; independientemente de que pueda producir o no lesiones.
 
@@ -3121,19 +3127,25 @@ Asimismo, como medida de seguridad, se le podrá sujetar a un tratamiento psicol
 
 Este delito se perseguirá por querella de la parte ofendida; salvo que la víctima sea menor de edad o incapaz, casos que se perseguirán de oficio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 311.
 
-SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DE VIOLENCIA INTRAFAMILIAR. Se equipara a la violencia intrafamiliar y se sancionará con seis meses a seis años de prisión y multa: A quien realice cualquiera de los actos del artículo anterior en contra de la persona con la que se encuentra unida fuera del matrimonio; del adoptante o adoptado; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esas personas; o de cualquiera otra persona que esté sujeta a la custodia, guarda protección, educación, instrucción o cuidado de dicha persona o del sujeto activo.
+SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DE VIOLENCIA FAMILIAR. Se equipara a la violencia familiar y se sancionará con seis meses a seis años de prisión y multa: A quien realice cualquiera de los actos del artículo anterior en contra de la persona con la que se encuentra unida fuera del matrimonio; del adoptante o adoptado; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esas personas; o de cualquiera otra persona que esté sujeta a la custodia, guarda protección, educación, instrucción o cuidado de dicha persona o del sujeto activo.
 
 Este delito se perseguirá por querella de la parte ofendida; salvo que la víctima sea menor de edad o incapaz, casos que se perseguirán de oficio.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 312.
 
-SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA INTRAFAMILIAR, PROPIO O EQUIPARADO. En los casos de los dos artículos precedentes, se podrá aplicar al responsable la prohibición de ir a lugar determinado donde residan los ofendidos para salvaguardar su integridad física o psíquica.
+SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO. En los casos de los dos artículos precedentes, se podrá aplicar al responsable la prohibición de ir a lugar determinado donde residan los ofendidos para salvaguardar su integridad física o psíquica.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 313.
 
-SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA INTRAFAMILIAR, PROPIO O EQUIPARADO, CON RELACIÓN A OTRO QUE SE COMETA. Si además de los delitos que prevé este capítulo, resulta cometido otro con motivo de la violencia intrafamiliar, se aplicarán las reglas del concurso.
+SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO, CON RELACIÓN A OTRO QUE SE COMETA. Si además de los delitos que prevé este capítulo, resulta cometido otro con motivo de la violencia familiar, se aplicarán las reglas del concurso.
 
 ### CAPÍTULO SEGUNDO. LESIONES
 
@@ -3160,6 +3172,8 @@ Este delito se perseguirá siempre a petición de parte ofendida.
 QUERELLA PARA PERSEGUIR LOS DELITOS DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR. Los delitos que prevé este capítulo se perseguirán por querella. La que podrá formular la dependencia que se encargue de la defensa del menor o de la familia cuando falten los representantes legítimos; o éstos no lo hagan sin causa justificada y se estime conveniente a los intereses del menor; en cuyo caso sólo aquélla podrá otorgar el perdón.
 
 ### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 318.
 
@@ -3363,11 +3377,13 @@ Si la conducta descrita se realizara culposamente, las sanciones se reducirán a
 
 ###### ARTÍCULO 347.
 
-PENALIDAD PARA HOMICIDIO QUE SE COMETE BAJO EMOCIÓN VIOLENTA. Se aplicará la mitad de las penas que se señalan para el homicidio simple doloso: A quien lo cometa en estado de emoción violenta que se origine con motivo de violencia intrafamiliar en su contra; o por conducta grave del ofendido que por sí sea seriamente ofensiva y, además, racionalmente atenúe el grado de punibilidad del sujeto activo; siempre y cuando éste no la procure dolosamente, ni dé causa para ella.
+PENALIDAD PARA HOMICIDIO QUE SE COMETE BAJO EMOCIÓN VIOLENTA. Se aplicará la mitad de las penas que se señalan para el homicidio simple doloso: A quien lo cometa en estado de emoción violenta que se origine con motivo de violencia familiar en su contra; o por conducta grave del ofendido que por sí sea seriamente ofensiva y, además, racionalmente atenúe el grado de punibilidad del sujeto activo; siempre y cuando éste no la procure dolosamente, ni dé causa para ella.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 348.
 
-PENALIDAD EN LESIONES QUE SE COMETEN BAJO EMOCIÓN VIOLENTA. Se aplicará la mitad de las penas que se señalan para las figuras típicas de lesiones: A quien las infiera en estado de emoción violenta, que se origine con motivo de violencia intrafamiliar en su contra; o por conducta grave del ofendido que por sí sea seriamente ofensiva y, además, racionalmente atenúe el grado de punibilidad del sujeto activo; siempre y cuando éste no la procure dolosamente, ni dé causa para ella.
+PENALIDAD EN LESIONES QUE SE COMETEN BAJO EMOCIÓN VIOLENTA. Se aplicará la mitad de las penas que se señalan para las figuras típicas de lesiones: A quien las infiera en estado de emoción violenta, que se origine con motivo de violencia familiar en su contra; o por conducta grave del ofendido que por sí sea seriamente ofensiva y, además, racionalmente atenúe el grado de punibilidad del sujeto activo; siempre y cuando éste no la procure dolosamente, ni dé causa para ella.
 
 ###### ARTÍCULO 349.
 
@@ -3665,7 +3681,7 @@ I. Al autor o partícipe que espontáneamente libere al secuestrado dentro de la
 
 En los casos en que concurra alguna o algunas de las calificativas a que se refieren las fracciones I y II del precepto citado, se aumentará en un tercio el mínimo y máximo de las sanciones previstas en este artículo. El incremento será de dos tercios, si tiene lugar alguno o algunos de los supuestos previstos en la fracción III incisos 1) a 4) del artículo anterior.
 
-II. Si después de producido el secuestro uno de los partícipes, antes que los demás, proporciona al Ministerio Público en el período de averiguación, información veraz que haga posible su identificación, y se logre localizar al ofendido sin grave menoscabo de su salud.
+III. Si después de producido el secuestro uno de los partícipes, antes que los demás, proporciona al Ministerio Público en el período de averiguación, información veraz que haga posible su identificación, y se logre localizar al ofendido sin grave menoscabo de su salud.
 
 Cuando la información provenga de persona vinculada a uno de los secuestradores, por lazos de parentesco o amistad, se aumentará en una mitad el mínimo y máximo de las sanciones de que se trata.
 
@@ -4494,3 +4510,15 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Para facilitar la interpretación y aplicación del presente Decreto de reforma, el Ejecutivo publicará la Exposición de Motivos que con el se acompaña, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+Decreto Numero 66
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+Decreto Numero 67
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
