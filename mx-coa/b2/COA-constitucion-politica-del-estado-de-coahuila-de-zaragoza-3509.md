@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2006-08-29"
+last_updated: "2006-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1054,9 +1054,9 @@ XLIV. Expedir, con base en lo dispuesto en el apartado B del artículo 123 de la
 
 XLV. Expedir una ley sobre responsabilidades de los servidores públicos estatales y municipales, así como otras normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad.
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
-XLVI. Solicitar la protección de los Poderes de la Unión, en los casos a que se refiere el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos.
+XLVI. Solicitar la protección de los Poderes de la Unión, en los casos y términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2260,11 +2260,11 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-Bases Fundamentales.
+El Gobierno Municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158.
 
@@ -2364,7 +2364,7 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2372,11 +2372,11 @@ El Municipio Libre.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-El Gobierno Municipal.
+Bases Fundamentales.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2411,8 +2411,6 @@ Los principios de fidelidad estatal y municipal tienen por objeto consolidar una
 Los gobiernos estatal y municipal y los organismos públicos autónomos, en la esfera de sus competencias, deberán actuar bajo los lineamientos señalados, a fin de mantener con la federación y con las entidades federativas una relación cooperativa e interdependiente, bajo el principio de fidelidad federal.
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
-
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2618,7 +2616,7 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
-ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 APARTADO TERCERO.
 
@@ -2823,6 +2821,8 @@ II. La resolución del Congreso podrá ser impugnada en los términos del artíc
 III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado o el equivalente al veinte por ciento de los integrantes de los Ayuntamientos o Concejos Municipales, podrán impugnar por vía de controversia constitucional, si procede o no que el Gobierno Estatal asuma la función o servicio público municipal de que se trate, en los términos del artículo 158 de esta Constitución.
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEPTIMO.
 
@@ -3833,3 +3833,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Poder Legislativo del Estado expedirá la Ley de Justicia Administrativa que regulará la competencia, procedimientos, organización y atribuciones del Tribunal de lo Contencioso-Administrativo, que iniciará sus actuaciones una vez aprobada la partida presupuestal para su operación.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
