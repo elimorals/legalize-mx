@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2006-08-24"
+last_updated: "2006-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DEL 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 69, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2006, LA REFORMAS A LOS ARTICULOS 31, 33 Y LA FRACCION X DEL ARTICULO 60, ENTRARAN EN VIGOR EL DIA CATORCE DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL OCHO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -48,6 +50,10 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 ###### Artículo 1º.
 
 En el Estado de Michoacán de Ocampo todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, así como de los demás derechos establecidos en esta Constitución y en las leyes que de ambas emanen.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+Queda prohibida toda discriminación motivada por origen ético (sic) o nacional, sexo, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -307,11 +313,11 @@ Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominar�
 
 #### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años. La elección se celebrará el segundo domingo del mes de noviembre del año anterior en que concluya su función la Legislatura.
+El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años. La elección se celebrará el primer domingo del mes de julio del año en que concluya su función la Legislatura.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
@@ -405,15 +411,15 @@ Los diputados propietarios, durante el período de su encargo, no podrán desemp
 
 La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN II. De la Reunión y Renovación del Congreso
+#### SECCION II. De la Reunión y Renovación del Congreso
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 29.
 
-El Congreso se renovará totalmente cada tres años, y se instalará el día quince de enero del año siguiente en que hubiere elecciones ordinarias.
+El Congreso se renovará totalmente cada tres años, y se instalará el día quince del mes de septiembre del año en que se celebre la elección ordinaria.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -441,15 +447,23 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 
 En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.</small>
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 31.
 
-El Congreso sesionará por años legislativos, comprendidos del quince de enero al catorce de enero del año próximo.
+El Congreso sesionará por años legislativos, comprendidos del día quince del mes de septiembre al día catorce del mes de septiembre del año siguiente.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 En los meses de septiembre a diciembre, se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 En los meses de enero a marzo, se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al penúltimo año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.
 
@@ -457,11 +471,13 @@ La revisión y dictamen de las cuentas públicas se hará con base en el Informe
 
 (DEROGADO, P.O. 7 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DEL 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.</small>
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado asistirá a la apertura del año legislativo de sesiones del Congreso de cada año y presentará dentro de los treinta días siguientes, el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso dará respuesta en términos generales. Al acto a que se refiere este precepto, deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este cuerpo.
+El Gobernador del Estado asistirá a la apertura de cada año legislativo del Congreso del Estado. A esta sesión deberán asistir el Presidente y los Magistrados del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -841,11 +857,11 @@ d) Los consejeros y funcionarios electorales federales o estatales, a menos que 
 
 Las personas a que se refieren los incisos a), b) y c) anteriores, podrán ser electas si se separan de sus cargos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 51.
 
-La elección de Gobernador se celebrará el segundo domingo del mes de noviembre del año anterior en que concluya el período Constitucional. El Gobernador entrará a ejercer su cargo el 15 de febrero del año siguiente al de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+La elección de Gobernador se celebrará el primer domingo del mes de julio del año en que concluya el período constitucional. El Gobernador entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -863,11 +879,11 @@ b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier d
 
 El Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DEL 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 54.
 
-Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el quince de febrero, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
+Si al comenzar un período constitucional no se presentare el Gobernador electo, la elección no estuviere hecha o no sea declarada su legalidad y validez, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -935,7 +951,7 @@ VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes
+VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -945,9 +961,11 @@ VIII.- Presentar cada año al Congreso, a más tardar el treinta y uno de marzo,
 
 IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.</small>
 
-X.- Dar cuenta al Congreso, como lo dispone el artículo 33 de esta Constitución, sobre el estado que guarde la administración pública, proponiendo los medios para mejorarla;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+
+X. Presentar al Congreso del Estado, un informe por escrito, en el mes de agosto de cada año legislativo, en el que manifieste el estado general que guarde la Administración Pública del Estado, proponiendo los medios para mejorarla. El Presidente del Congreso dará respuesta a esa presentación en términos generales. A esta sesión deberán asistir el Presidente y los magistrados del Supremo Tribunal de Justicia;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -957,7 +975,7 @@ XI.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida e
 
 XII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública del Estado y apoyar, en su caso, a los cuerpos de seguridad pública municipal, policía preventiva y tránsito municipales.
 
-La policía preventiva municipal, acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La policía preventiva municipal, acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1229,7 +1247,7 @@ El Magistrado cuyo retiro forzoso haya sido aprobado, tendrá derecho a un haber
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-###### Artículo 79.
+###### Artículo 79
 
 La elección, reelección o privación del encargo de Magistrado del Supremo Tribunal de Justicia, se hará por el Congreso del Estado mediante el voto de las dos terceras partes de los diputados presentes, a propuesta del Consejo del Poder Judicial.
 
@@ -1655,9 +1673,7 @@ El Estado adopta como base de su división territorial y de su organización pol
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que deberá residir en la cabecera que señala la Ley. La competencia que esta Constitución otorga al gobierno municipal se ejercerá de manera exclusiva por el Ayuntamiento y no habrá autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
-
-La elección de los integrantes de los ayuntamientos se celebrará el segundo domingo del mes de noviembre del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero de enero del año siguiente al de su elección.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1693,11 +1709,13 @@ Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo se
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
+(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 117.
 
-Los presidentes municipales, síndicos y regidores de los ayuntamientos serán electos simultáneamente y en su totalidad, cada tres años. Por cada síndico y por cada uno de los regidores, se elegirá un suplente.
+Los ayuntamientos tendrán un periodo de ejercicio de cuatro años y seis meses. La elección de la totalidad de sus integrantes, se celebrará, según corresponda, el primer domingo del mes de julio del año en que concluya el período constitucional y el primer domingo del mes de diciembre, del año anterior al en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección y el día primero de marzo del año siguiente al de su elección, respectivamente.
+
+Por cada síndico y regidor, se elegirá un suplente.
 
 ###### Artículo 118.
 
@@ -1977,7 +1995,7 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 ###### Artículo 130.
 
-El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos ya adoptará las medidas necesarias para planear el desarrollo estatal y municipal.
+El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
@@ -2850,6 +2868,46 @@ P.O. 24 DE AGOSTO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+DECRETO No. 36
+
+Artículo Primero.- El presente Derecho (sic) entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre (sic) Soberano de Michoacán de Ocampo.
+
+P.O. 22 DE SEPTIEMBRE DE 2006.
+
+DECRETO No. 69
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículo 31, 33 y la fracción X del artículo 60, que entrarán en vigor el día catorce del mes de septiembre del año dos mil ocho.
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+
+SEGUNDO. Por única vez, el Congreso del Estado, mediante el voto de las dos terceras partes de la totalidad de sus integrantes, en los primeros quince días del mes de enero del año dos mil ocho, nombrará al Gobernador del Estado, para un periodo de transición comprendido entre el día quince del mes de febrero del año dos mil ocho y el día treinta del mes de septiembre del año dos mil nueve.
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+
+TERCERO. Para los efectos de la presente reforma constitucional, la Septuagésima Legislatura, concluirá su periodo de ejercicio el catorce de septiembre del año dos mil ocho, de modo que coincida con la fecha de instalación de la Septuagésima Primera Legislatura.
+
+En virtud de lo anterior, el último año legislativo de la Septuagésima Legislatura concluirá el catorce de septiembre del año dos mil ocho.
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+
+CUARTO. La Septuagésima Primera Legislatura del Congreso del Estado, se elegirá el primer domingo del mes de julio del año dos mil ocho y tendrá un periodo de ejercicio que comprenderá del día quince del mes de septiembre del año dos mil ocho, al día catorce del mes de septiembre del año dos mil doce.
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+
+QUINTO. Para los efectos de la presente reforma constitucional, los actuales ayuntamientos del Estado, concluirán su periodo de ejercicio el día treinta y uno del mes de agosto del año dos mil ocho, de modo que coincida con la fecha de instalación de quienes deban sucederlos.
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+
+SEXTO. Los integrantes de los ayuntamientos que se elijan el primer domingo del mes de julio del año dos mil ocho, ejercerán en el periodo comprendido entre el día primero de septiembre de ese año, hasta el día treinta y uno de agosto del año dos mil doce.
+
+SÉPTIMO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO OCTAVO.
 
