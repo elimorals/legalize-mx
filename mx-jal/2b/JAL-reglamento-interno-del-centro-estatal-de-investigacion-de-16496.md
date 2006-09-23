@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-centro-estatal-de-investigacion-de-16496
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-10"
-last_updated: "2000-06-10"
+last_updated: "2006-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL CENTRO ESTATAL DE INVESTIGACION DE LA VIALIDAD Y EL TRANSPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de junio de 2000.
 
@@ -101,11 +101,15 @@ V. Proporcionar asesoría especializada en materia de transporte y vialidad a la
 
 VI. Conocer la metodología y los sistemas de informática para los medios de transporte, determinando y proporcionando el sistema más eficaz y la metodología más adecuada para el transporte público en el Estado;
 
-VII. Considerar, dentro de sus estudios propositivos para la planeación de transporte público, otros factores complementarios como son el aprovechamiento del suelo, el desarrollo económico y social de las ciudades; la participación de los particulares, y en general, todos los elementos que conforman la estructura urbana;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Considerar dentro de los estudios propositivos para la planeación del transporte público, otros factores complementarios, de manera enunciativa y no limitativa, tales como son el aprovechamiento del suelo, las actividades económicas y sociales de las ciudades, la participación de los particulares y en general todos los elementos que conforman la estructura urbana, aplicables al caso del estudió en particular;
 
 VIII. Proponer las medidas que se consideren convenientes para racionalizar y eficientar la prestación del transporte público;
 
-IX. Investigar los diferentes sistemas alternativos de energía para aplicación al transporte, determinando y elaborando las especificaciones más adecuadas para las condiciones de cada ciudad o zona;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Considerar los diferentes sistemas alternativos de energía para aplicación al transporte, determinando y elaborando las especificaciones más adecuadas para las condiciones de cada ciudad o zona;
 
 X. Celebrar convenios con institutos de investigación cuyos objetivos sean similares o afines a los del CEIT, a efecto de producir un intercambio de conocimientos científicos y tecnológicos, además de involucrarse con centros educativos, organismos no gubernamentales, y en general, con la sociedad en los temas inherentes al transporte;
 
@@ -113,13 +117,17 @@ XI. Realizar la elaboración de estudios socioeconómicos y técnicos para deter
 
 XII. Conocer los diferentes sistemas de vialidad, así como la infraestructura empleada para el transporte nacional e internacional y evaluar las más convenientes para adecuarlas a las condiciones en el Estado;
 
-XIII. Estudiar los diferentes tipos de señalamientos viales, así como de semaforización y proponer la instrumentación de los más apropiados;
+XIII. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
-XIV. Elaborar la metodología para dictaminar las propuestas de tarifas para el servicio de transporte público en el Estado;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
-XV. Proponer la metodología para la homologación de partes que se emplean, tanto en el transporte como en la vialidad, para lograr disminuir la importación de estos insumos;
+XIV. Participar en la comisión de tarifas para elaborar la metodología para dictaminar las propuestas de tarifas para el servicio de transporte público en el Estado;
 
-XVI. Proponer las medidas y normas técnicas para la protección a la vida y la salud de los usuarios del transporte público, así como la comodidad y rapidez en el tránsito de vehículos;
+XV. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2006)
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+XVI. Participar en la elaboración de las medidas y normas técnicas para la protección a la vida y la salud de los usuarios del transporte público, así como la comodidad y rapidez en el tránsito de vehículos;
 
 XVII. Llevar a cabo actividades que tiendan a visualizar al CEIT como un foro de concertación en materia de investigación en transporte y vialidad, en el ámbito nacional e internacional; y
 
@@ -187,13 +195,21 @@ Cada miembro propietario designará a su suplente que los sustituya en sus ausen
 
 El cargo como miembro de la Junta será honorífico y, por lo tanto, no remunerado.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 12.
 
-Las sesiones de la Junta podrán ser ordinarias y extraordinarias, las primeras deberán celebrarse cada tres meses, las segundas se efectuarán cuantas veces fuere necesario, previa convocatoria formulada a juicio del Presidente de la Junta o, cuando éste no lo haga, a petición de por lo menos cuatro de sus integrantes.
+Las sesiones de la Junta podrán ser ordinarias y extraordinarias.
+
+La Junta de Gobierno deberá celebrar, por lo menos, dos sesiones ordinarias al año. Las sesiones extraordinarias se efectuarán cuantas veces fuere necesario, previa convocatoria formulada a juicio del Presidente de la Junta o, cuando éste no lo haga, a petición de por lo menos cuatro de sus integrantes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 13.
 
-La convocatoria a sesiones de la Junta formulada por el Secretario Técnico, contendrá el orden del día y deberá ser entregada con una anticipación no menor de 48 horas, debiendo anexarse copia de la minuta del acta de la sesión anterior, así como la información y documentación correspondiente.
+Las convocatorias a sesiones de la Junta será formulada por el Presidente o por el Director General del CEIT, cuando reciba instrucciones de éste.
+
+La convocatoria respectiva contendrá el orden del día y deberá ser entregada con una anticipación no menor de 48 horas, debiendo anexarse la información y documentación correspondiente.
 
 ###### Artículo 14.
 
@@ -215,17 +231,23 @@ I. Aprobar las políticas, estrategias, normas técnicas y criterios de organiza
 
 II. Autorizar la propuesta que el Director General haga tanto del plan de trabajo como del proyecto de presupuesto de egresos anual y, en su caso, las modificaciones extraordinarias a los mismos, para su posterior presentación al H. Congreso, en el caso del presupuesto de egresos;
 
-III. Proponer al Titular del Ejecutivo Estatal y a los gobiernos municipales, proyectos que tiendan a mejorar en lo general, la prestación y operación del servicio de transporte público;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+III. Proponer al Titular del Ejecutivo Estatal y a los gobiernos municipales, proyectos que tiendan a mejorar en lo general, la planeación para la prestación del servicio de transporte público;
 
 IV. Aprobar el establecimiento de las oficinas operadoras del CEIT que se requieran en los diversos municipios del Estado;
 
-V. Elaborar y someter a la aprobación del Titular del Ejecutivo del Estado, sus estados financieros y los balances anuales, así como los informes generales;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Analizar los estudios de transporte propuestos por otras instancias para la Zona Metropolitana de Guadalajara, así como para el resto de los municipios del Estado de Jalisco, con el objetivo de proponer mejoras al mismo o considerar su posible aplicación en el Estado;
+V. Elaborar y someter a la aprobación del titular del Ejecutivo del Estado, sus estados financieros y los balances anuales, así como los informes generales;
+
+VI. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 VII. Promover, ante los sectores privado y social, la obtención de fondos para el desarrollo de sus actividades;
 
-VIII. Autorizar los manuales de procedimientos, operación y calidad, así como los de prestación de servicios del CEIT;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+VIII.- Autorizar los manuales de procedimientos, procesos y organización, así como los de prestación de servicios del CEIT;
 
 IX. Aprobar y modificar su reglamento interno; y
 
@@ -239,15 +261,21 @@ I. Presidir las sesiones de la Junta y hacer cumplir sus acuerdos;
 
 II. Declarar abiertas las sesiones de la Junta y, en su caso, suspenderlas, así como dirigir y coordinar las intervenciones sobre los proyectos y asuntos sometidos a su consideración, poniendo en votación los asuntos tratados;
 
-III. Autorizar el libro de actas del CEIT; y
+III. Autorizar el libro de actas del CEIT; y (sic)
 
-IV. Las demás que por acuerdo establezca la Junta.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+IV. Remitir oportunamente a los miembros de la Junta la convocatoria y el material indispensable para realizar las sesiones; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+V. Las demás que por acuerdo establezca la Junta.
 
 ###### Artículo 19.
 
 El Secretario Técnico de la Junta tendrá las siguientes funciones:
 
-I. Remitir oportunamente a los miembros de la Junta la convocatoria y el material indispensable para realizar las sesiones;
+I. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 II. Levantar el acta de las sesiones que celebre la Junta y recabar la firma de su Presidente y de los miembros asistentes;
 
@@ -287,7 +315,9 @@ V. Asistir con voz, pero sin voto a las sesiones de la Junta;
 
 VI. Establecer y organizar las oficinas del CEIT, así como expedir los nombramientos del personal, de acuerdo con las disposiciones legales aplicables;
 
-VII. Conceder licencias y toda clase de autorizaciones administrativas al personal de la institución en la forma y términos autorizados por la Junta, y que se contemplen en las condiciones generales de trabajo que al efecto se expidan;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+VII. Conceder licencias y toda clase de autorizaciones administrativas al personal de la institución en la forma y términos contenidos en las condiciones generales de trabajo, autorizadas y expedidas por la Junta;
 
 VIII. Preparar y someter a la Junta, para su conocimiento y aprobación, los planes y programas de trabajo, los proyectos de inversión y financiamiento, los informes de actividades y las modificaciones que se hagan a los mismos, así como los presupuestos de ingresos y egresos del CEIT; respecto al presupuesto de egresos, deberá presentarlo a la Junta para que por su conducto sea remitido al Ejecutivo del Estado y éste a su vez lo envíe para su aprobación al H. Congreso del Estado;
 
@@ -323,7 +353,7 @@ Bajo la responsabilidad del Director General se formulará el balance general an
 
 TRANSITORIOS (SIC)
 
-ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Así lo resolvió el Ciudadano Gobernador Constitucional del Estado, ante los Ciudadanos Secretario General de Gobierno y Secretario de Vialidad y Transporte, quienes autorizan y dan fe.
 
@@ -344,3 +374,9 @@ EL SECRETARIO DE VIALIDAD Y TRANSPORTE
 ING. LEOPOLDO S. MONTELONGO CASTELLANOS
 
 La presente hoja de firmas forma parte del Acuerdo del C. Gobernador del Estado de fecha 22 de mayo del año 2000, mediante el cual se ordena la publicación del Reglamento Interno del Centro Estatal de Investigación de la Vialidad y el Transporte.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
