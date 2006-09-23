@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2006-04-04"
+last_updated: "2006-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1069,7 +1069,9 @@ El Tribunal será colegiado, funcionará en pleno y estará integrado por cinco 
 
 Dos Magistrados serán designados por el Poder Judicial y los Ayuntamientos.
 
-Dos Magistrados serán designados por los sindicatos, por conducto de la Unión.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+Dos magistrados serán designados por los sindicatos, uno por el Sindicato de Trabajadores al Servicio del Gobierno del Estado y otro por conducto de la Unión.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
 
@@ -1398,3 +1400,7 @@ P.O. 4 DE ABRIL DE 2006.
 ###### ARTICULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
