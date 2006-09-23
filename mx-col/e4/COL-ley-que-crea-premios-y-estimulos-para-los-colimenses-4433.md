@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "1968-05-11"
+last_updated: "2006-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -63,9 +63,39 @@ III.- Condecoración "GRAL. MANUEL ALVAREZ'', que se concederá a funcionarios p
 
 IV.- Condecoración "ALFONSO MICHEL'', para distinguidos artistas (pintores, compositores, grabadores, escultores, fotógrafos, concertistas, actores, músicos, cantantes, críticos, pictóricos, teatrales o musicales, arquitectos, etc.);
 
-V.- Condecoración "LIC. BALBINO DAVALOS'', que se otorgará a quienes se distingan en las letras (historiadores, poetas, periodistas, críticos, ensayistas, literatos, cuentistas, académicos, novelistas, filólogos, investigadores, autores de obras especializadas, escritores, etc.); y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
-VI.- Condecoración "Dr. MIGUEL GALINDO'', que se otorgará a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.).
+V.- Condecoración “LIC. BALBINO DAVALOS”, que se otorgará a quienes se distingan en las Letras (historiadores, poetas, críticos, ensayistas, literatos, cuentistas, académicos, novelistas, filólogos, investigadores, autores de obras especializadas, escritores, etc.);
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Condecoración “DR. MIGUEL GALINDO”, que se otorgara a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.); y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+VII.- Premio Estatal de Periodismo, como reconocimiento público a la labor que realizan los trabajadores de los medios de comunicación, en las categorías siguientes:
+
+I.- Reportaje;
+
+II.- Conducción de noticias por radio o televisión;
+
+III.- Artículo de fondo / opinión;
+
+IV.- Caricatura / Humos;
+
+V.-Entrevista;
+
+VI.- Crónica;
+
+VII.- Fotografía;
+
+VIII.- Servicio de orientación y utilidad a la sociedad;
+
+IX.- Periodismo cultural / difusión científica; y
+
+X.- Periodismo deportivo.
+
+La entrega de estos premios se hará en el marco del festejo del día de la libertad de expresión.
 
 ###### Artículo 2o.
 
@@ -82,6 +112,42 @@ El otorgamiento de las insignias será decretado en cada caso particular por el 
 ###### Artículo 5o.
 
 La entrega de las insignias la hará personalmente el propio Jefe del Poder Ejecutivo, o quien haga sus veces, en solemne ceremonia que anualmente habrá de efectuarse aprovechando uno de los actos celebrados con motivo de la Feria Regional, en la inteligencia de que el Decreto que en cada caso particular expida el H. Congreso Local para el otorgamiento de las condecoraciones, se dará a conocer en cada vez, personalmente por el mismo Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 6o.
+
+La entrega del Premio Estatal de Periodismo a la labor que realizan los trabajadores de los medios de comunicación a que se refiere la fracción VII, del artículo 1° de esa Ley, se hará de manera personal en sesión solemne el día de la libertad de expresión o cuando así lo determine el pleno, en el Congreso del Estado.
+
+La Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, expedirá la convocatoria en el mes de marzo, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los periodistas, reporteros y en general a toda la población del Estado, admitiéndose sólo propuestas en ternas a candidatos al Premio en sus diferentes categorías.
+
+La Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, convocará a la integración de un Consejo Ciudadano que examinará las candidaturas presentadas y propondrá a los acreedores el premio o bien sugerirá que se declaras desierto, si las candidaturas no reúnen las condiciones para ser consideradas.
+
+El Consejo Ciudadano se integrará con un representante de las instituciones de Educación Superior Públicas y Privadas del Estado, así como aquellas escuelas que tengan especialidad en comunicación o periodismo; las asociaciones o clubes debidamente registrados que agrupen a reporteros, periodistas, escritores, caricaturistas y fotógrafos de Colima; y por cada una de las administraciones municipales.
+
+Las propuestas de ganadores en cada categoría que formule el Consejo Ciudadano serán remitidas a la Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, quien verificará que cumplan con los requisitos señalados.
+
+Los criterios para seleccionar a los candidatos que se harán acreedores al Premio Estatal de Periodismo serán los siguientes:
+
+I.- La calidad periodística;
+
+II.- La veracidad y objetividad de la información;
+
+III.- El interés que despierte en la sociedad;
+
+IV.- El beneficio social de su actividad;
+
+V.- La trayectoria personal;
+
+VI.- La actividad del propuesto durante el año anterior;
+
+VII.- El apego a la libertad de expresión;
+
+VIII.- La ética profesional; y
+
+IX.- La responsabilidad profesional.
+
+La entrega del Premio Estatal de Periodismo consistirá en un pergamino y una asignación en Moneda Nacional siempre que exista disponibilidad presupuestaria.
 
 TRANSITORIOS:
 
@@ -104,3 +170,7 @@ Palacio de Gobierno, Colima, Col., Octubre 10 de 1967.- El Secretario General de
 P.O. 11 DE MAYO DE 1968.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
