@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1995-08-26"
+last_updated: "2006-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -45,9 +45,13 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 1.
 
-Corresponde a los Tribunales que integran el Poder Judicial del Estado de Colima, en los términos que establecen la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las Leyes en asuntos civiles y penales, del fuero común; lo mismo que en los asuntos de origen federal, en los casos en que expresamente las Leyes de esta materia les confieran jurisdicción.
+Corresponde a los Tribunales del Poder Judicial del Estado de Colima, la facultad de interpretar y aplicar las normas jurídicas en los asuntos del orden civil, familiar y penal del fuero común; en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ésta emanen.
+
+Además, conocerán del procedimiento integral de justicia para menores que hayan participado en conductas delictivas, conforme a lo previsto en la Ley de la materia y de aquellas cuestiones que les sean planteadas en aplicación del principio de la jurisdicción concurrente a que se refiere la fracción I del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 2.
 
@@ -55,7 +59,9 @@ La facultad a que se refiere el artículo anterior se ejerce:
 
 I.- Por el Supremo Tribunal de Justicia;
 
-II.- Por los Jueces de Primera Instancia en materia Civil, Familiar, Mercantil o Penal;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+II.- Por los Jueces de Primera Instancia en materia Civil, Familiar, Mercantil, Penal y Especializados en Justicia para Adolescentes;
 
 III.- Por los Jueces Mixtos de Primera Instancia;
 
@@ -409,9 +415,17 @@ I.- Las apelaciones, reposiciones de procedimiento, denegación de apelaciones q
 
 II.- Las recusaciones que se hagan valer respecto de los jueces en los procesos de su conocimiento y de los secretarios de acuerdos de las salas;
 
-III.- La oposición propuesta por las partes en contra de las excusas hechas valer por los referidos jueces o secretarios de acuerdos de las salas; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
-IV.- De los demás asuntos que les encomienden las leyes aplicables.
+III.- La oposición propuesta por las partes en contra de las excusas hechas valer por los referidos jueces o secretarios de acuerdos de las salas;
+
+> <small>(REFORMADA [N. DE E ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+IV.- Actuando por acuerdo del Pleno como sala especializada en justicia para adolescentes de conformidad con lo establecido por la ley de la materia; de las apelaciones y reposiciones de procedimiento que interpongan las partes en contra de las resoluciones de los jueces especializados en justicia para adolescentes; así como de las acusaciones que se hagan valer respecto de dichos jueces y de los secretarios de acuerdo de las salas en los procesos de su conocimiento, y de la oposición propuesta por las partes en contra de las excusas hechas valer por los referidos jueces o secretarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+V.- De los demás asuntos que les encomienden las leyes aplicables.
 
 B).- A las salas mixtas:
 
@@ -491,9 +505,17 @@ II.- Los Jueces de lo Mercantil;
 
 III.- Los Jueces de lo Familiar;
 
-IV.- Los Jueces de lo Penal; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Los Jueces Mixtos.
+IV.- Los Jueces de lo Penal;
+
+> <small>(REFORMADA [N. DE E ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+V.- Los Jueces Especializados en Justicia para Adolescentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- Los Jueces Mixtos.
 
 ###### ARTICULO 27.
 
@@ -705,11 +727,45 @@ En el orden administrativo, el primer Secretario de Acuerdos del Juzgado tendrá
 
 Los Secretarios actuarios de los Juzgados Penales tienen las atribuciones y obligaciones que en lo conducente establece el artículo 41 de esta Ley, en la inteligencia de que, por lo que ve a las notificaciones, lo hará en la forma y términos decretados, con apego al Código de Procedimientos Penales.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+### CAPITULO II BIS. JUZGADOS ESPECIALIZADOS EN JUSTICIA PARA ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 49-I.
+
+Los Juzgados Especializados en Justicia para Adolescentes conocerán de las fases de preparación del proceso, instrucción y juicio, en primera instancia, del procedimiento integral para adolescentes que hayan participado en conductas delictivas, de acuerdo con lo dispuesto en la Ley de la materia.
+
+Serán designados por el Supremo Tribunal de Justicia del Estado en los partidos judiciales con mayor porcentaje de adolescentes que hayan participado en conductas delictivas.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 49
+
+II.- La planta de cada Juzgado Especializado en Justicia para Adolescentes se integrará con un Juez, Secretario de Acuerdos, Secretarios Actuarios especializados en la materia y los demás servidores públicos que establezca el presupuesto y se requiera.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 49
+
+III.- Para ser Juez, Secretario de Acuerdos y Secretario Actuario de los Juzgados Especializados en Justicia para Adolescentes se deben reunir los requisitos que establecen los artículos 27, 37 y 12 de esta Ley, respectivamente, y estar especializados en la materia.
+
+Los Juzgados Especializados en Justicia para Adolescentes tendrán las obligaciones y atribuciones que establecen la Ley de la materia y las demás disposiciones jurídicas aplicables.
+
+Los Secretarios de Acuerdos de los Juzgados Especializados en Justicia para Adolescentes tendrán las obligaciones y atribuciones que establecen los artículos 39 y 47 de esta Ley, así como la Ley de la materia.
+
+En el orden administrativo, el secretario de acuerdos con mayor antigüedad en el juzgado tendrá el carácter de jefe inmediato del personal del mismo; dirigirá las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del juez, a quien deberá dar cuenta de los asuntos que se presenten e infracciones que se cometan, para que obre conforme a sus facultades, y además tendrá las obligaciones precisadas en las fracciones I, II, III, V y VI del acuerdo 40 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTICULO 49
+
+IV.- Los Secretarios Actuarios de los Juzgados Especializados en Justicia para Adolescentes tendrán las atribuciones y obligaciones que en lo conducente establecen el artículo 41 de esta Ley y desempeñarán sus funciones conforme a lo previsto en la Ley de la materia.
+
 ### CAPITULO III. JUZGADOS MIXTOS
 
 ### CAPITULO IV. JUZGADOS MIXTOS DE PAZ
-
-### CAPITULO I. DE LOS MAGISTRADOS
 
 ###### ARTICULO 50.
 
@@ -727,7 +783,7 @@ Los Juzgados Mixtos de Primera Instancia del Estado, para el despacho de los neg
 
 Las obligaciones de los Secretarios de Acuerdos de los Juzgados Mixtos, serán las mismas de los Secretarios de los Juzgados de Primera Instancia. Cuando haya uno o sólo dos Secretarios, éstos asumirán todas las obligaciones fijadas para los demás.
 
-### CAPITULO II. DE LOS JUECES Y DEMAS SERVIDORES PUBLICOS
+### CAPITULO I. DE LOS MAGISTRADOS
 
 ###### ARTICULO 54.
 
@@ -787,17 +843,17 @@ Son facultades de los Secretarios de Acuerdos Mixtos de Paz, las mismas que tien
 
 Las faltas o inhibiciones de los Jueces Mixtos de Paz, serán suplidas por los Secretarios de Acuerdos, quienes actuarán con dos testigos de asistencia.
 
+### CAPITULO II. DE LOS JUECES Y DEMAS SERVIDORES PUBLICOS
+
 ### CAPITULO I. DE LOS SINDICOS DE CONCURSO
 
 ### CAPITULO II. INTERVENTORES DE CONCURSO
 
 ### CAPITULO III. DE LOS PERITOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
 ## TITULO SEXTO. FALTAS, EXCUSAS Y RECUSACIONES
 
-### CAPITULO II. UNIDAD DE APOYO ADMINISTRATIVO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 64.
 
@@ -815,7 +871,7 @@ Si por defunción, renuncia o incapacidad, faltare algún Magistrado, el Jefe de
 
 En los casos de excusa o recusación de uno de los Magistrados Propietarios de las salas del Supremo Tribunal de Justicia conocerá del negocio el otro Magistrado de la misma sala de la que forma parte. Si éste a su vez estuviere impedido, conocerá del negocio cualquiera de los supernumerarios, quien integrará el Pleno de la Sala con el Presidente del Tribunal en los términos del artículo 20 de la presente Ley. Cuando todos los Magistrados Propietarios y Supernumerarios estuvieren impedidos se pondrá el caso en conocimiento del Gobernador del Estado para que provea al nombramiento de los Magistrados Supernumerarios que deban conocer del negocio, en la forma establecida por el Artículo 70 de la Constitución Política del Estado.
 
-### CAPITULO III. CENTRO DE COMPUTO
+### CAPITULO II. UNIDAD DE APOYO ADMINISTRATIVO
 
 ###### ARTICULO 67.
 
@@ -851,7 +907,7 @@ Las faltas de los Jueces Mixtos de Paz, menores de un mes, serán suplidas inmed
 
 ## TITULO SEPTIMO
 
-### CAPITULO IV. ARCHIVO JUDICIAL
+### CAPITULO III. CENTRO DE COMPUTO
 
 ###### ARTICULO 75.
 
@@ -905,7 +961,7 @@ El Síndico que faltare al cumplimiento de las obligaciones que le impone esta L
 
 Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado, sin perjuicio de que se ejercite, por quienes corresponda, las acciones procedentes, a fin de asegurar debidamente los intereses del concurso, e independientemente de la acción penal cuando hubiere ocurrido en fraude de los acreedores. Cuando hubiere habido dos o más síndicos, la garantía que cada uno haya otorgado responderá en su respectivo ejercicio.
 
-### CAPITULO V. BIBLIOTECA
+### CAPITULO IV. ARCHIVO JUDICIAL
 
 ###### ARTICULO 84.
 
@@ -919,7 +975,7 @@ Los interventores serán nombrados por los acreedores en cualquier tiempo, por m
 
 Las atribuciones del interventor, su ejercicio y causas de remoción se encuentran previstos por el Código de Procedimientos Civiles.
 
-### CAPITULO VI. BOLETIN JUDICIAL
+### CAPITULO V. BIBLIOTECA
 
 ###### ARTICULO 87.
 
@@ -937,7 +993,7 @@ Para ser perito se requiere ser mexicano, tener buenos antecedentes de moralidad
 
 ## TITULO PRIMERO. DEPENDENCIAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-### CAPITULO VII. CENTRO DE ESTUDIOS JUDICIALES
+### CAPITULO VI. BOLETIN JUDICIAL
 
 ###### ARTICULO 89.
 
@@ -963,7 +1019,7 @@ VIII.- Conserjerías;
 
 IX.- La Oficialía de Partes.
 
-### CAPITULO VIII. OFICINA CENTRAL DE DEPOSITOS Y CONSIGNACIONES
+### CAPITULO VII. CENTRO DE ESTUDIOS JUDICIALES
 
 ###### ARTICULO 90.
 
@@ -1003,7 +1059,7 @@ XII.- Las demás atribuciones que le señalen las leyes.
 
 El Jefe de la Unidad de Apoyo Administrativo coordinará el trabajo y el ejercicio de las funciones correspondientes a las Dependencias del Poder Judicial, atendiendo a las necesidades de la administración. El Supremo Tribunal determinará la organización de las mismas, creando las direcciones o departamentos que se requieran para el cabal cumplimiento de sus atribuciones.
 
-### CAPITULO IX. CONSERJERIAS
+### CAPITULO VIII. OFICINA CENTRAL DE DEPOSITOS Y CONSIGNACIONES
 
 ###### ARTICULO 93.
 
@@ -1047,9 +1103,7 @@ Para el cumplimiento de las atribuciones y obligaciones que corresponden al Cent
 
 El Centro de Cómputo se integrará con el personal especializado que el Presupuesto de egresos autorice y se regirá por el reglamento que para el efecto se expida, teniendo el carácter de servidores públicos de confianza.
 
-### CAPITULO X. OFICIALIA DE PARTES
-
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+### CAPITULO IX. CONSERJERIAS
 
 ###### ARTICULO 98.
 
@@ -1091,7 +1145,9 @@ La planta del Archivo se compondrá: de un Director, Oficiales y Escribientes qu
 
 El reglamento respectivo fijará las atribuciones de los Servidores Públicos de la administración de justicia del archivo y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse, y el Presidente del Tribunal podrá acordar, en todo caso, las disposiciones que crea convenientes.
 
-### CAPITULO I. DESIGNACIONES
+### CAPITULO X. OFICIALIA DE PARTES
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
 
 ###### ARTICULO 106.
 
@@ -1119,7 +1175,7 @@ VI.- Llevar la estadística de usuarios; y
 
 VII.- Las demás que le prescriban las leyes, reglamentos respectivos y los acuerdos del Tribunal o de su Presidente.
 
-### CAPITULO II. INCOMPATIBILIDADES
+### CAPITULO I. DESIGNACIONES
 
 ###### ARTICULO 109.
 
@@ -1141,7 +1197,7 @@ El Boletín Judicial será editado por el Consejo Editorial que se integrará co
 
 En todo lo relativo a la Administración del Boletín, el Consejo Editorial tendrá las más amplias facultades, tanto para el manejo y la aplicación de los ingresos que se obtengan, como para la designación y remoción del personal administrativo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. INCOMPATIBILIDADES
 
 ###### ARTICULO 112.
 
@@ -1151,7 +1207,7 @@ El Supremo Tribunal de Justicia contará con un Centro de Estudios Judiciales, e
 
 El Centro de Estudios Judiciales funcionará como lo determine el reglamento que al efecto expida el Supremo Tribunal de Justicia y contará con el personal docente y administrativo necesario para la ejecución de sus propios programas.
 
-### CAPITULO II. FALTAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 114.
 
@@ -1197,7 +1253,7 @@ El Director de la Oficina, bajo su más estricta responsabilidad, rendirá un in
 
 El Supremo Tribunal de Justicia creará en los respectivos Partidos Judiciales, en los casos que lo ameriten, las correspondientes Oficinas de Depósito y Consignaciones.
 
-### CAPITULO III. ORGANOS Y SISTEMAS PARA LA IMPOSICION DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO II. FALTAS
 
 ###### ARTICULO 122.
 
@@ -1221,7 +1277,7 @@ Los jefes de las oficinas radicadas en los edificios presentarán al Presidente 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 1990)</small>
 
-### CAPITULO I. DEPOSITARIOS
+### CAPITULO III. ORGANOS Y SISTEMAS PARA LA IMPOSICION DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 126-I.
 
@@ -1241,13 +1297,15 @@ Para ser Titular de la Oficialía de Partes, se requiere tener Título de Licenc
 
 III.- El Supremo Tribunal de Justicia podrá crear Oficialías de Partes en los Partidos Judiciales en que existan dos o más Juzgados que conozcan de una misma rama del Derecho, asignándoles al efecto el personal correspondiente y las funciones que tendrán a su cargo.
 
+### CAPITULO I. DEPOSITARIOS
+
 ### CAPITULO II. INTERPRETES Y TRADUCTORES
+
+## TITULO SEGUNDO. CONDICIONES PARA EL INGRESO, FORMACION Y PERMANENCIA EN EL SERVICIO DE LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO III. PERITOS VALUADORES
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
-
-## TITULO SEGUNDO. CONDICIONES PARA EL INGRESO, FORMACION Y PERMANENCIA EN EL SERVICIO DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 127.
 
@@ -1590,3 +1648,7 @@ TERCERO.- La publicación del directorio de peritos valuadores a que se refiere 
 CUARTO.- La exigencia y validez del refrendo bianual comenzará a surtir efectos a partir del mes de enero de 1996.
 
 Los Peritos registrados deberán acreditar haber cubierto los derechos correspondientes a los ejercicios de 1994 y 1995, previamente a la obtención del refrendo bianual a que se refiere el párrafo anterior.
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
