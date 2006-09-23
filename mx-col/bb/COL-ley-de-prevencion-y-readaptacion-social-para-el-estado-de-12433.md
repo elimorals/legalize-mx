@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2006-05-06"
+last_updated: "2006-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -679,25 +679,35 @@ El patronato brindará asistencia a los liberados de otras entidades federativas
 
 Para el mejor logro de los fines, el Consejo Técnico de cada reclusorio, entrará en contacto con el organismo postinstitucional a través de la dirección del establecimiento penal, desde que el interno quede en libertad.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
 ### CAPITULO VIII. DE LA ASISTENCIA A LAS VICTIMAS
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
 
 ###### ARTICULO 94.
 
-La DIRECCION contará con un patronato, que tendrá a su cargo prestar atención moral y material a las víctimas de los delitos y otras infracciones de las leyes penales, que se cometan dentro de la jurisdicción estatal.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
 
 ###### ARTICULO 95.
 
-El consejo de patronos del organismo de asistencia a las víctimas se integrará con representantes gubernamentales y de los sectores productivos de la Entidad, tanto industriales y comerciantes como agropecuarios, instituciones de beneficencia social y salud públicas. Además se contará con representantes de las organizaciones profesionales de Abogados.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
 
 ###### ARTICULO 96.
 
-El patronato brindará asistencia a las víctimas de delitos e infracciones penales cometidos fuera de la Entidad, que se establezcan en ésta, según los convenios que se celebren, y para la atención recíproca de las víctimas estatales, establecerá vínculos de coordinación con organismos similares de otros Estados.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
 
 ###### ARTICULO 97.
 
-Para el mejor logro de los fines, el Consejo Técnico de cada reclusorio entrará en contacto con el organismo de asistencia a las víctimas a través de la dirección del establecimiento penal, en cuanto sean de su conocimiento las necesidades de las víctimas o sus familiares que requieran del auxilio del patronato.
-
-Las dependencias de la Procuraduría General de Justicia del Estado y las del Poder Judicial, así como el Consejo Tutelar para Menores, en cuanto esto resulte posible, procurarán la vinculación con el patronato, de las víctimas y sus familiares que requieran de la ayuda, proporcionando toda la información necesaria a dicho organismo.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 ## TRANSITORIOS
 
@@ -744,3 +754,15 @@ SEGUNDO.- El titular del Poder Ejecutivo, dentro de los 30 días siguientes a la
 P.O. 6 DE MAYO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En tanto quede instalado el Centro, las funciones que en materia de apoyo a las víctimas estén realizando los órganos del gobierno, seguirán funcionando conforme a los procedimientos que actualmente establezcan las leyes.
+
+TERCERO.- El Reglamento Interno del Centro, deberá ser expedido por el Consejo de Administración dentro de los tres meses siguientes a la entrada en vigor de esta Ley y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+CUARTO.- En tanto se expida el Reglamento Interno de esta Ley, el Consejo de Administración y el Director, resolverán lo que conforme a derecho proceda.
+
+QUINTO.- Se deroga el Capítulo VIII de la Ley de Prevención y Readaptación Social para el Estado de Colima y todas las demás disposiciones que se opongan a la presente ley.
