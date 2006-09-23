@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vialidad-y-transporte-del-estado-de-colima-4095"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-17"
-last_updated: "2003-09-13"
+last_updated: "2006-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE VIALIDAD Y TRANSPORTE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 23 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 17 de febrero de 1990.
 
@@ -574,3 +576,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE SEPTIEMBRE DE 2003.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de Vialidad y Transporte del Estado de Colima publicada mediante Decreto número 80 en el Periódico Oficial "el Estado de Colima" de fecha 17 de febrero de 1990.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir los reglamentos a que hace referencia esta Ley en un plazo no mayor de seis meses a partir de su entrada en vigor, en tanto se aplicará el actual en lo que no contravenga a esta ley.
+
+CUARTO.- Para efectos del cumplimiento en la adquisición de las pólizas de seguros a que hace referencia esta Ley, y su Reglamento, por única ocasión será entre los meses de enero a junio del año 2007 y en lo sucesivo de enero a marzo.
