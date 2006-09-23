@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2004-12-04"
+last_updated: "2006-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -1620,6 +1620,10 @@ El dictamen de vocación del suelo, con base en la zonificación prevista en los
 Para utilizar un área, predio o construcción a un uso o destino determinado, los propietarios o poseedores deberán obtener el dictamen de vocación del suelo correspondiente.
 
 La presentación del dictamen, será requisito necesario para iniciar el trámite del permiso o licencia respectiva.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+
+En las áreas de construcción para casa habitación, no deberá establecerse ningún tipo de instalación de telecomunicaciones a menos de 200 metros.
 
 ###### ARTICULO 129.
 
@@ -4320,3 +4324,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
