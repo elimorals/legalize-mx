@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2004-05-08"
+last_updated: "2006-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -129,37 +129,39 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 19o.
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo Estatal contará con las siguientes dependencias:
 
-Secretaría General de Gobierno.
+Secretaría General de Gobierno
 
-Secretaría de Finanzas.
+Secretaría de Finanzas
 
-Secretaría de Desarrollo Social.
+Secretaría de Desarrollo Social
 
-Secretaría de Desarrollo Urbano.
+Secretaría de Desarrollo Urbano
 
-Secretaría de Desarrollo Rural.
+Secretaría de Desarrollo Rural
 
-Secretaría de Educación.
+Secretaría de Educación
 
-Secretaría de Salud y Bienestar Social.
+Secretaría de Salud y Bienestar Social
 
-Secretaría de Planeación.
+Secretaría de Planeación
 
-Secretaría de Fomento Económico.
+Secretaría de Fomento Económico
 
-Secretaría de Cultura.
+Secretaría de Cultura
 
-Secretaría de Turismo.
+Secretaría de Turismo
 
-Secretaría de Administración.
+Secretaría de la Juventud
 
-Procuraduría General de Justicia.
+Secretaría de Administración
+
+Procuraduría General de Justicia
 
 ###### ARTICULO 20o.
 
@@ -727,6 +729,48 @@ XIX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le c
 
 XX.- Las demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
+> <small>(ADICIONADO, P.O. 123 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 24 BIS 5.- A la Secretaría de la Juventud le corresponde el despacho de los siguientes asuntos:
+
+I. Generar, diseñar, articular y ejecutar políticas públicas incluyentes con perspectivas de equidad y género de acuerdo a la diversidad de lo juvenil que permitan incorporar de manera activa a los jóvenes en el desarrollo del Estado.
+
+II. Coordinar los trabajos del Subcomité Especial de Participación de los Jóvenes en el Comité Estatal de Planeación del Estado de Colima,
+
+III. Definir, planear y programar las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo a los Planes Nacional y Estatal de Desarrollo.
+
+IV. Promover de forma coordinada el trabajo interinstitucional con las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal y de la sociedad civil, diseñando y realizando acciones a favor de los jóvenes.
+
+V. Fungir como representante del Ejecutivo, cuando éste considere necesario, en materia de juventud ante las diversas instancias de gobierno y sociedad civil.
+
+VI. Realizar, promover, actualizar y difundir de manera permanente estudios e investigaciones sobre el tema de lo juvenil, permitiendo la obtención de un conocimiento sistemático permanente.
+
+VII. Realizar de manera permanente entre los jóvenes, talleres de planeación social participativa en localidades rurales y urbanas que permitan conocer la problemática de la juventud, así como también sus alternativas de solución.
+
+VIII. Promover una cultura emprendedora que permita generar autoempleo, así como la elevación de la productividad y del poder adquisitivo.
+
+IX. Promocionar la oferta educativa, coadyuvando a la superación académica mediante la gestión de apoyos económicos y materiales.
+
+X. Promover acciones para concienciar a los jóvenes en la temática de la salud integral donde éstos participen y contribuyan a través de proyectos que les permitan disminuir problemáticas y aprovechar oportunidades.
+
+XI. Generar y, en su caso canalizar propuestas, sugerencias, expectativas, necesidades e inquietudes de la juventud a los organismos públicos, privados y sociales que correspondan.
+
+XII. Reconocer y estimular el trabajo sobresaliente de los jóvenes del Estado en los distintos ámbitos donde se desenvuelven.
+
+XIII. Promover la creación de instancias municipales de la juventud, y de espacios físicos de acuerdo a la diversidad de lo juvenil, que representen lugares de participación, recreación, expresión y entretenimiento.
+
+XIV. Fomentar la creación de organizaciones juveniles con cultura de liderazgo social y apoyar las ya existentes para el desarrollo de proyectos que los beneficien.
+
+XV. Difundir y propiciar la oferta gubernamental y no gubernamental, las demandas y necesidades de los jóvenes, haciendo énfasis en las áreas de empleo, educación, salud integral, medio ambiente, cultura, recreación y uso adecuado del tiempo libre.
+
+XVI. Crear mecanismos e instrumentos para incrementar el poder adquisitivo de los jóvenes.
+
+XVII. Implementar espacios de expresión en los medios de comunicación que sirvan como espacios de interlocución entre los mismos jóvenes.
+
+XVIII. Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le Corresponda; y
+
+XIX. Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 25o.
@@ -952,3 +996,17 @@ QUINTO.- Se derogan todas las disposiciones legales o reglamentarias que se opon
 P.O. 8 DE MAYO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 23 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2007, previa publicación que se haga en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+SEGUNDO.- Se abroga el Decreto que crea el Instituto Colimense de la Juventud publicado en el Periódico Oficial "El Estado de Colima", el 27 de Marzo de 1999, así como se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Los bienes muebles e inmuebles que sean propiedad o tenga en administración el Instituto Colimense de la Juventud, pasarán a formar parte del patrimonio y continuarán siendo administrados, según sea el caso por la Secretaría de la Juventud.
+
+CUARTO.- La Secretaría de Finanzas proveerá los recursos necesarios a la dependencia que se crea mediante este Decreto, con las provisiones presupuestales existentes, por todo el resto del ejercicio fiscal 2006.
+
+QUINTO.- Las menciones de otra Leyes o Decretos al Instituto Colimense de la Juventud, se entenderán referidas a la Secretaría de la Juventud, de conformidad con la competencia que a dicha dependencia le señala el presente Decreto.
+
+SEXTO.- La readscripción de los trabajadores del Instituto Colimense de la Juventud a la dependencia que se crea de conformidad con el presente Decreto, se hará con estricto apego a sus derechos laborales, en los términos de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
