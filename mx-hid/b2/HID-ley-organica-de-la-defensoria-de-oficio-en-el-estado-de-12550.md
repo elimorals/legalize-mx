@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-defensoria-de-oficio-en-el-estado-de-12550"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1975-03-24"
-last_updated: "1975-03-24"
+last_updated: "2006-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Hidalgo, el 24 de marzo de 1975.
 
@@ -64,6 +64,10 @@ d).- En Materia Agraria promoverá todo lo concerniente a la debida aplicación 
 e).- En Materia Administrativa asesorará y patrocinará a todas las personas que reuniendo los requisitos del Artículo Primero, se vean afectadas por la indebida aplicación de Normas Administrativas o Fiscales.
 
 f).- En Materia Constitucional, proveerá a la observancia de las garantías constitucionales de sus defensos, interponiendo el juicio de amparo cuando aquellas se vean amenazadas o violadas por actos de autoridad.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+g).- En materia de justicia para adolescentes, prestará defensa de oficio desde la investigación hasta la ejecución de medidas.
 
 Artículo Séptimo.- La Defensoría de Oficio del Estado de Hidalgo estará integrada por:
 
@@ -195,6 +199,26 @@ a).- Se abstendrán de tramitar y resolver asuntos por conducto de interpósitas
 
 b).- Tomarán razón del nombre, domicilio, ocupación y demás datos que estimen necesarios de las personas que soliciten sus servicios a efecto de que pueda realizarse el estudio socioeconómico de todas las personas, comunicando de inmediato todos estos datos a las trabajadoras sociales, quienes previa orden del Jefe de Defensores, realizarán el estudio respectivo.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo Décimo Cuarto Bis.- Además de las obligaciones a que se refiere el Artículo Décimo Segundo, los defensores en Materia de Justicia para Adolescentes, tendrán las siguientes obligaciones:
+
+I.- Ejercer la defensa legal de los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito en las Leyes Estatales, en igualdad de circunstancias que su contraparte, desde el momento en el que sean presentados ante el Ministerio Público para Adolescentes y mientras estén sujetos a cualquiera de las fases del Sistema Estatal de Justicia para Adolescentes;
+
+II.- Asistir al adolescente sujeto a la aplicación de la Ley de Justicia para Adolescentes del Estado de Hidalgo, especialmente en aquellos momentos en los que por decisión de la Autoridad, se modifique su situación jurídica o de pongan en riesgo sus derechos o garantías;
+
+III.- Mantener una comunicación constante con los adolescentes, sus padres, tutores, o quien ejerza la patria potestad, o custodia, para informarles del devenir de la investigación, el proceso o la medida;
+
+IV.- Pugnar para que en todo momento se respeten los derechos y garantías de los adolescentes a quienes defiende y hacer del conocimiento inmediato de las Autoridades correspondientes, cuando no se respeten tales derechos y garantías o exista inminencia de que así suceda;
+
+V.- Informar de inmediato al adolescente sujeto a la aplicación de la Ley de Justicia para Adolescentes del Estado de Hidalgo, sobre su situación jurídica, así como los derechos y garantías que le otorgan las disposiciones legales aplicables;
+
+VI.- Promover soluciones alternativas al proceso;
+
+VII.- Solicitar al Ministerio Público para Adolescentes, el no ejercicio de la puesta a disposición ante el Juez de Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello, y
+
+VIII.- Realizar todos los trámites o gestiones necesarios, en tiempo y conforme a derecho para una eficaz defensa del adolescente, incluyendo ofrecimiento y desahogo de pruebas, realización de careos, formulación de alegatos, agravios, conclusiones, interposición de recursos, incidentes y demás actos conducentes.
+
 Artículo Décimo Quinto.- Además de las obligaciones a que se refiere el Artículo Décimo Segundo los defensores en Materia Laboral tendrán las siguientes obligaciones:
 
 1o.- Proponer a los interesados soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas.
@@ -286,3 +310,19 @@ Dado en el Salón de Sesiones del H. Congreso del Estado de Hidalgo, en Pachuca 
 Por tanto, mando se imprima, publique y circule, para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo de la Ciudad de Pachuca de Soto, Hidalgo, a los veinte días del mes de marzo de mil novecientos setenta y cinco.- El Gobernador Constitucional del Estado, Profr. Y Lic. MANUEL SANCHEZ VITE.- El Secretario General de Gobierno, Lic. ABEL RAMIREZ ACOSTA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes, de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor esta Ley, se abroga la Ley Tutelar para Menores Infractores del Estado de Hidalgo.
+
+TERCERO.- Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las Autoridades Estatales correspondientes, deberían expedir los Reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas Dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO.- Las instituciones encargadas de la formulación de los agentes de las Policías Estatales, deberán incluir, en un plazo que no supere el ciclo lectivo en curso, al momento de entrar en vigor de esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los Tratados Internacionales y demás Ordenamientos Estatales aplicables.
+
+QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
+
+SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
