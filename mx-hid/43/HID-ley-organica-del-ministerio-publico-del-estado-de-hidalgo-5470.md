@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-5470"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-08"
-last_updated: "1995-08-14"
+last_updated: "2006-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de febrero de 1988.
 
@@ -189,9 +189,41 @@ II.- Ejercitar ante las autoridades competentes las acciones en beneficio de los
 
 III.- Las demás que las leyes le otorguen.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 10.
 
-(DEROGADO, P.O. 14 DE AGOSTO DE 1995)
+Corresponde al Ministerio Público en materia de Justicia Estatal para Adolescentes:
+
+I.- Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos por las Leyes Estatales, atribuidas a adolescentes, el análisis, el diagnóstico y la prognosis del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+
+II.- Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la Ley de Justicia para Adolescentes del Estado de Hidalgo, así como de las víctimas de los hechos presuntamente realizados por los adolescentes;
+
+III.- Informar de inmediato al adolescente, a sus familiares a su defensor su situación jurídica, así como los derechos que les asisten;
+
+IV.- Realizar lo conducente para que sea asignado un defensor de oficio al adolescente desde el momento en el que sea puesto a su disposición;
+
+V.- Resolver dentro de los plazos y términos previstos en la Ley de Justicia para Adolescentes del Estado de Hidalgo, la situación jurídica de los adolescentes que sean puestos a su disposición;
+
+VI.- Formular la puesta a disposición y poner inmediatamente a los adolescentes a disposición del Juez de Adolescentes, en los casos en que resulte procedente;
+
+VII.- Procurar, en los casos de querella necesaria, la conciliación entre el adolescente y la víctima u ofendido;
+
+VIII.- Garantizar que durante la fase de detención, no se mantenga al adolescente incomunicado ni se le coacciones, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
+
+IX.- Dirigir personalmente las investigaciones que sean conducente (sic) para formular el escrito de atribuciones del caso;
+
+X.- Valorar los resultados de su investigación con el fin de determinar la posición del órgano respecto del caso;
+
+XI.- Formular el escrito de atribución de hechos;
+
+XII.- Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos;
+
+XIII.- Asesorar a la víctima durante la fase de investigación y juicio;
+
+XIV.- Solicitar la reparación del daño para la víctima cuando proceda, y realizar todas las acciones tendientes a obtenerla, y
+
+XV.- Las demás que determine la Ley.
 
 ###### ARTICULO 11.
 
@@ -419,7 +451,7 @@ IV.- Desahogar las pruebas tendientes a determinar los daños y perjuicios;
 
 V.- Disponer lo necesario para que se respeten las garantías individuales de los inculpados;
 
-VI.- Proteger a los menores con los procedimientos tutelares;
+VI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2006)
 
 VII.- Resolver las averiguaciones previas, según su contenido, ejercitando la acción penal correspondiente o solicitando el archivo de las mismas en los casos de no ejercicio de la acción al Subprocurador; y
 
@@ -758,3 +790,17 @@ CUARTO.- Se abrogan los capítulos primero y segundo del título cuarto de la Le
 P.O. 14 DE AGOSTO DE 1995.
 
 UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes, de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor esta Ley, se abroga la Ley Tutelar para Menores Infractores del Estado de Hidalgo.
+
+TERCERO.- Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las Autoridades Estatales correspondientes, deberían expedir los Reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas Dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO.- Las instituciones encargadas de la formulación de los agentes de las Policías Estatales, deberán incluir, en un plazo que no supere el ciclo lectivo en curso, al momento de entrar en vigor de esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los Tratados Internacionales y demás Ordenamientos Estatales aplicables.
+
+QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
+
+SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
