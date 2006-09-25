@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2005-03-31"
+last_updated: "2006-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -1037,7 +1037,7 @@ ARTICULO 30 TER.- A la Secretaría de Salud corresponde el despacho de los sigui
 
 I.- Proponer, establecer, conducir, supervisar y evaluar la Política Estatal en Materia de Salud, de conformidad con lo dispuesto en las Leyes General y Estatal de Salud y los Sistemas Nacional y Estatal de Salud, así como con las directrices generales de la Planeación Estatal del desarrollo y en congruencia con las políticas, normas y procedimientos que a nivel nacional determine la Secretaría de Salud;
 
-II.- Proponer al Gobernador del Estado las políticas y los programas de coordinación con las Autoridades Federales y Municipales en Materia de Salud;
+II.- Proponer la Gobernador del Estado las políticas y los programas de coordinación con las Autoridades Federales y Municipales en Materia de Salud;
 
 III.- Establecer lineamientos y mecanismos de Planeación, Programación, Presupuestación y Evaluación en Materia de Salud;
 
@@ -1129,7 +1129,9 @@ XVIII.- Administrar los Centros de Readaptación Social;
 
 XIX.- Tramitar, por acuerdo del Gobernador y con la intervención que corresponda al Procurador General de Justicia, las solicitudes de extradición, amnistía, indulto, libertad condicional y traslado de reos;
 
-XX.- Vigilar los establecimientos e instituciones y la aplicación de las normas preventivas tutelares en materia de menores infractores;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+XX.- Administrar la parte relativa a la ejecución de las medidas impuestas en el sistema Estatal de Justicia para Adolescentes, en términos de la Ley de Justicia para Adolescentes del Estado de Hidalgo y con estricto apego a los derechos humanos;
 
 XXI.- Administrar y dar mantenimiento a la flota aérea del Poder Ejecutivo; y
 
@@ -1278,3 +1280,17 @@ SÉPTIMO.- El Gobernador del Estado tomará las medidas necesarias a fin de emit
 OCTAVO.- En periodo similar al referido en el Transitorio Séptimo, el Gobernador del Estado emitirá los Decretos Modificatorios de las Entidades Paraestatales afectadas por la presente reforma.
 
 NOVENO.- En tanto entren en vigor los ordenamientos que deberán adecuarse por virtud de este mandato, continuarán aplicándose en todo lo que no se oponga a esta reforma, tanto las disposiciones legales como reglamentarias que regulaban los actos previstos en la Ley que se modifica.
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes, de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor esta Ley, se abroga la Ley Tutelar para Menores Infractores del Estado de Hidalgo.
+
+TERCERO.- Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las Autoridades Estatales correspondientes, deberían expedir los Reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas Dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO.- Las instituciones encargadas de la formulación de los agentes de las Policías Estatales, deberán incluir, en un plazo que no supere el ciclo lectivo en curso, al momento de entrar en vigor de esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los Tratados Internacionales y demás Ordenamientos Estatales aplicables.
+
+QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
+
+SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
