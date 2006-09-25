@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2005-02-09"
+last_updated: "2006-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -53,7 +53,9 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 I. El Tribunal Superior de Justicia; y
 
-II. Los Juzgados Civiles, Familiares y Penales.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+II. Los Juzgados Civiles, Familiares, Penales y de Administración de Justicia para Adolescentes.
 
 ###### Artículo 3.
 
@@ -109,9 +111,17 @@ I. GURIDI y ALCOCER, con sede en la Ciudad de Tlaxcala de Xicohténcatl, que com
 
 II. SANCHEZ PIEDRAS, con sede en la Ciudad de Apizaco, que comprenderá los Municipios de: Atltzayanca, Apizaco, Atlangatepec, Benito Juárez, Calpulalpan, Cuapiaxtla, Cuaxomulco, El Carmen Tequexquitla, Emiliano Zapata, Españita, Huamantla, Hueyotlipan, Ixtenco, Muñoz de Domingo Arenas, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Sanctórum de Lázaro Cárdenas, San José Teacalco, San Lucas Tecopilco, Terrenate, Tetla de la Solidaridad, Tlaxco, Tocatlán, Tzompantépec, Xalóztoc, Xaltocan, Yauhquemehcan y Zitlaltépec de Trinidad Sánchez Santos.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 8 Bis.
+
+En materia de administración de justicia para adolescentes los juzgados ejercerán su competencia en todo el territorio del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 9.
 
-En las materias constitucional, administrativa, electoral y laboral burocrática, el Tribunal y sus Salas ejercerán su competencia en todo el territorio del Estado.
+En las materias constitucional, administrativa, electoral, laboral burocrática y de administración de justicia para adolescentes, el Tribunal y sus Salas ejercerán su competencia en todo el territorio del Estado.
 
 ###### Artículo 10.
 
@@ -123,15 +133,27 @@ En los Distritos a que se refiere el Artículo 6 que antecede, funcionarán sepa
 
 ### Capítulo Primero. De la Integración e Instalación
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 11.
 
-El Tribunal Superior de Justicia es el Organo Supremo del Poder Judicial, tendrá su residencia en la capital del Estado y se integrará por catorce Magistrados Propietarios y tres Supernumerarios.
+El Tribunal Superior de Justicia es el Órgano Supremo del Poder Judicial, tendrá su residencia en la capital del Estado y se integrará por quince Magistrados Propietarios y los Supernumerarios que al efecto se requieran, con base a la disponibilidad presupuestal y necesaria de servicio.
 
-El Congreso del Estado nombrará a los Magistrados Propietarios y Supernumerarios, y deberá prever para cada uno a su respectivo suplente, para el caso de falta absoluta, en la forma y términos previstos en la Constitución Local.
+El Congreso del Estado nombrará a los Magistrados Propietarios con la votación de las dos terceras partes del total de los diputados que integren la Legislatura correspondiente, y deberá prever para cada uno a su respectivo suplente, para el caso de falta absoluta, en la forma y términos previstos en la Constitución Local.
+
+Los Magistrados Supernumerarios serán nombrados por la Comisión de Gobierno Interno y Administración.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 12.
 
-Los Magistrados Propietarios y Supernumerarios, durarán en el cargo seis años, salvo que sobrevenga incapacidad legal o material, e iniciarán sus funciones el día uno de marzo del año que corresponda y concluirán el último día de febrero respectivo, con excepción del caso de la ratificación prevista en la Constitución Política de los Estados Unidos Mexicanos.
+Los Magistrados Propietarios, durarán en el cargo seis años, y cumplido ese periodo podrán ser reelectos, solo podrán ser privados de su cargo en los términos que determina la Constitución, la Ley de R4sponsabilidades de los Servidores Públicos del Estado y por incapacidad física y mental.
+
+La reelección o ratificación se realizará previa evaluación objetiva a los magistrados del Tribunal Superior de Justicia, en la que demuestren que durante el desempeño de su función, la realizaron con imparcialidad, independencia, eficiencia, probidad, honorabilidad, excelencia, ética, profesionalismo, vocación inquebrantable, dedicación diligencia, actuación permanente, experiencia, honestidad invulnerable y que gozan de buena fama pública.
+
+La independencia de los magistrados y jueces en el ejercicio de sus funciones, estará garantizada por lo que establece la Constitución Local y por esta ley.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 Cuando surja una falta definitiva, el Pleno llamará al suplente respectivo, el Magistrado así nombrado, concluirá el término del sustituido y el Congreso del Estado procederá a la designación del nuevo suplente.
 
@@ -139,29 +161,41 @@ Cuando surja una falta definitiva, el Pleno llamará al suplente respectivo, el 
 
 El día uno del mes de febrero del año que corresponda, el Presidente del Tribunal saliente presidirá la sesión de instalación de los Magistrados Propietarios entrantes, en la que se procederá a la elección del nuevo Presidente, en los términos previstos en el Artículo siguiente y a la adscripción de los Magistrados a las Salas respectivas. Asimismo, se nombrará al Secretario General de Acuerdos del Tribunal, a propuesta de su Presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-Cada año los Magistrados Propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo un año y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
+Los Magistrados Propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo dos años y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
 
-I. En la sesión ordinaria que se lleve a cabo durante la primera quincena del mes de febrero de cada año, se procederá a la elección relativa;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
-II. Los Magistrados propuestos a ocupar el cargo de Presidente, no serán de los que integren la Sala Electoral Administrativa; a menos que alguno de los demás Magistrados propietarios reúna los requisitos establecidos en la Fracción XI del Artículo 83 de la Constitución del Estado, para que ocupe la magistratura vacante;
+I. En la sesión ordinaria que se lleve a cabo durante la primera quincena del mes de febrero de cada año, se procederá a la elección correspondiente;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+II. Los magistrados propuestos a ocupar el cargo de Presidente, no serán de los que integren la Sala Electoral Administrativa y de las salas Laboral Burocrática y Unitaria de Administración de Justicia para Adolescentes; a menos que alguno de los demás magistrados propietarios no reúna los requisitos establecidos en la fracción XI del artículo 83 de la Constitución del Estado, para que ocupe la magistratura vacante;
 
 III. Los votos se emitirán en forma secreta;
 
 IV. La votación mínima para la designación será de diez votos a favor de alguno de los Magistrados propuestos. De no obtenerse esa mayoría, se procederá a repetir la votación hasta lograr una mayoría de cuando menos ocho votos, y
 
-V. El Presidente entrará en funciones el día uno de febrero y concluirá el último día de enero del año respectivo.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+V. El Presidente entrará en funciones el dieciséis de febrero del año respectivo y concluirá el quince de febrero del año que corresponda.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 15.
 
-Los Magistrados Supernumerarios deberán cumplir con los requisitos a que se refiere el Artículo 83, inclusive en su Fracción XI, de la Constitución Política del Estado. Percibirán los emolumentos que les fije el Presupuesto de Egresos, suplirán a los Propietarios en sus ausencias temporales y en los casos de excusa o recusación, de conformidad con el turno que se establezca.
+Los Magistrados Supernumerarios deberán cumplir con los requisitos a que se refiere el artículo 83 de la Constitución Política del Estado. Percibirán los emolumentos que les fije el presupuesto de egresos, suplirán a los Propietarios en sus ausencias temporales y en los casos de excusa o recusación, de conformidad con el turno que se establezca, y su nombramiento será por el tiempo que determine la Comisión de gobierno Interno y Administración, con base en las necesidades del servicio.
 
 ### Capítulo Segundo. Del Funcionamiento del Tribunal Superior de Justicia
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 16.
 
-El Tribunal funcionará en Pleno y en las Salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática y Penal.
+El Tribunal funcionará en Pleno y en las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática, Penal y de Administración de Justicia para Adolescentes.
 
 ###### Artículo 17.
 
@@ -181,9 +215,11 @@ La Comisión de Gobierno Interno y Administración se encargará de las funcione
 
 ### Capítulo Tercero. Del Pleno
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-El Pleno del Tribunal Superior de Justicia se integrará con los catorce Magistrados Propietarios.
+El Pleno del Tribunal Superior de Justicia se integrará con los Magistrados Propietarios y de quienes los suplan legalmente, de cada una de las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática, Penal y de Administración de Justicia para Adolescentes.
 
 ###### Artículo 21.
 
@@ -325,13 +361,17 @@ V. Las demás que le confieran las Leyes, Reglamentos Interiores y Acuerdos gene
 
 ### Capítulo Quinto. De las Salas
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 31.
 
-El Tribunal Superior de Justicia, se integrará por las Salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática y Penal.
+El Tribunal Superior de Justicia, se integrará por las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática, Penal y de Administración de Justicia para Adolescentes.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 32.
 
-Cada Sala se integrará por tres Magistrados, quienes de manera rotativa y por el período de un año ejercerán la Presidencia de la Sala de que se trate; a excepción de la Sala Laboral-Burocrática, que será unitaria.
+Cada Sala se integrará por tres Magistrados, quienes de manera rotativa y por el período de un año ejercerán la Presidencia de la Sala de que se trate; a excepción de la Sala Laboral-Burocrática y de Administración de Justicia para Adolescentes, que serán unitarias.
 
 ###### Artículo 33.
 
@@ -426,6 +466,20 @@ III. Los recursos de revocación interpuestos en contra de las resoluciones del 
 IV. Encomendar a los jueces de su competencia el desahogo de las diligencias, que deban practicarse fuera de las oficinas de la Sala, con excepción de las notificaciones, y
 
 V. Las demás que determinen las Leyes.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 40 Bis.
+
+A la Sala Unitaria de Administración de Justicia para Adolescentes le corresponderá conocer de:
+
+I. Los recursos que se interpongan contra las resoluciones del juez en materia de justicia para adolescentes;
+
+II. Las excusas y recusaciones del juez del ramo;
+
+III. Encomendar a los jueces de su competencia el desahogo de las diligencias que deban practicarse fuera de las oficinas de la Sala, con excepción de las notificaciones, y
+
+IV. Las demás que determinen las leyes.
 
 ### Capítulo Sexto. De los Magistrados
 
@@ -546,6 +600,16 @@ Los Jueces Penales conocerán y resolverán:
 I. Los asuntos de carácter penal que le sean consignados, y
 
 II. Los demás asuntos que les encomienden las Leyes.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 50 Bis.
+
+Los Jueces de Administración de Justicias para Adolescentes conocerán y resolverán:
+
+I. Los asuntos de administración de justicia para adolescentes que les sean planteados, y
+
+II. Los demás asuntos que les encomienden las leyes.
 
 ###### Artículo 51.
 
@@ -695,9 +759,11 @@ La Comisión de Gobierno Interno y Administración será el órgano encargado de
 
 La Comisión se regirá por el Reglamento que expida el Pleno del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 63.
 
-Además de las facultades que establece el Artículo 85 de la Constitución Política del Estado, la Comisión tendrá las siguientes:
+Además de las facultades que establece el artículo 85 de la Constitución Política del Estado, la Comisión tendrá las siguientes:
 
 I. Ejercer el Presupuesto de Egresos del Poder Judicial de acuerdo a los principios de racionalidad, transparencia, honradez y eficiencia;
 
@@ -719,9 +785,17 @@ IX. Implementar la carrera judicial que debe regirse por los principios de legal
 
 X. Expedir acuerdos generales para el adecuado ejercicio de sus funciones;
 
-XI. Dictar las medidas que sean procedentes, para que la administración de justicia sea pronta, expedita e imparcial, y para que se observe la disciplina en todo el Poder Judicial, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
-XII. Las demás que señalen las Leyes.
+XI. Dictar las medidas que sean procedentes, para que la administración de justicia sea pronta, expedita e imparcial, y para que se observe la disciplina en todo el Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+XII. Nombrar y designar a los magistrados supernumerarios y jueces en los términos previstos por esta ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Las demás que señalen las Leyes.
 
 ###### Artículo 64.
 
@@ -1378,3 +1452,21 @@ P.O. 9 DE FEBRERO DE 2005.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La designación y nombramiento de los jueces especializados en la Administración de Justicia para Adolescentes, se realizará en la forma y términos que determine la Comisión de Gobierno Interno y Administración del Poder Judicial, observando lo mandatado en el artículo décimo del apartado de transitorios de la Ley de Procuración e Impartición (sic) Justicia para los Adolescentes del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+La designación y nombramiento del Magistrado de la Sala Unitaria de Administración de Justicia para Adolescentes, se llevará a cabo una vez que se termine el presupuesto necesario en el Decreto correspondiente, en tanto se deberá observar lo dispuesto en el artículo segundo del apartado de transitorios del Decreto número 89 que contiene diversas reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Tlaxcala, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se contrapongan con el contenido de este Decreto.
