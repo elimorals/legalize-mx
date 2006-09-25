@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-41751"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-09"
-last_updated: "1998-12-09"
+last_updated: "2006-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE DOCTOR ARROYO, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE DOCTOR ARROYO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE DR. ARROYO, N.L., PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de diciembre de 1998.
 
@@ -602,3 +604,11 @@ PRIMER SINDICO
 PROFRA. MA. EMELIA ALVARADO CASTAÑEDA
 
 SEGUNDO SINDICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE 2006.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial y en la Gaceta Municipal.
+
+Segundo. Queda abrogado el reglamento de Policía y Buen Gobierno de Dr. Arroyo, N.L., aprobado el día 15 de Agosto de 1998, así como todas las reformas y adiciones que fueron aprobadas en años posteriores, que se opongan al presente Reglamento.
