@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-22012"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-08-06"
-last_updated: "2006-07-24"
+last_updated: "2006-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 6 de agosto de 2001.
 
@@ -899,9 +899,17 @@ III. Juzgados Civiles y Familiares;
 
 IV. Juzgados Penales;
 
-V. Juzgados Mixtos y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Juzgados Mixtos Menores.
+V. Juzgados Mixtos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Juzgados Mixtos Menores y
+
+(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2006
+
+VII. Juzgados Especializados para Adolescentes.
 
 Cuando en un distrito judicial hubiere más de un Juzgado de la misma materia, serán numerados progresivamente.
 
@@ -980,6 +988,48 @@ VI. Imponer al personal bajo sus órdenes, las correcciones disciplinarias que p
 VII. Substanciar y resolver los litigios de su competencia y
 
 VIII. Las demás que prevean las leyes y reglamentos.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 70 BIS.- Además de las atribuciones que corresponden a un Juez de Primera Instancia, a los Jueces Especializados para Adolescentes corresponde:
+
+I.- Conocer las causas instauradas en contra de las personas a quienes se impute la realización de una conducta tipificada como delito en las Leyes Estatales, cuando tenían entre doce años cumplidos y dieciocho no cumplidos;
+
+II.- Promover los procedimientos alternativos al juzgamiento, a fin de cumplir con los principios de mínima intervención y subsidiariedad;
+
+III.- Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley de Justicia para Adolescentes del Estado de Hidalgo;
+
+IV.- Resolver sobre las medidas a imponer, atendiendo los principios de culpabilidad por el acto, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes, y
+
+V.- Ejercer la custodia del adolescente detenido y asegurarse de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen a su situación.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+ARTÍCULO 70 TER.- Son atribuciones de los Jueces Especializados en Justicia para Adolescentes las siguientes:
+
+I.- Controlar la ejecución de las medidas impuestas a adolescentes y resolver sobre las cuestiones o los incidentes que se susciten durante la misma;
+
+II.- Resolver los recursos que se presenten durante el procedimiento de la ejecución de la medida, en contra de las determinaciones de la Dirección General o los Directores de los Centros de Internamiento;
+
+III.- Vigilar en todo momento el respeto, integridad, dignidad y el estricto cumplimiento de los derechos y garantías de los adolescentes, especialmente en los casos de privación de la libertad;
+
+IV.- Garantizar que durante la ejecución de la medida privada de la libertad, adolescentes y adultos jóvenes tengan acceso en todo momento a los servicios de salud, educativos y recreativos; así como a recibir formación educativa, a que se respete su libertad de culto, a tener contacto con su familiar y a recibir información sobre la ejecución de la medida;
+
+V.- Garantizar que los adolescentes y los adultos jóvenes internados permanezcan en centros especializados, distintos entre sí y de los destinados a los adultos;
+
+VI.- Atender las solicitudes que realicen personalmente adolescentes y adultos jóvenes o sus representantes legales y resolver a la brevedad lo que corresponda;
+
+VII.- Visitar periódicamente los Centros Estatales de Internamiento y vigilar que su estructura física, equipamiento y funcionamiento sean adecuados para cumplir con lo establecido por la Ley de Justicia para Adolescentes del Estado de Hidalgo;
+
+VIII.- Supervisar por lo menos una vez al mes, los programas de medidas diferentes al internamiento;
+
+IX.- Adecuar la medida si considera que ésta ya produjo sus efectos, es innecesaria o afecta el desarrollo, la dignidad o la integración familiar, social y cultural de quienes estén sujetos a ella;
+
+X.- Dictar resolución mediante la cual se dé por cumplida la medida impuesta, así como la libertad total y definitiva de los adolescentes;
+
+XI.- Emitir resoluciones vinculatorias para los Centros Estatales de Internamiento, en el ámbito de sus atribuciones, y
+
+XII.- Las demás que determine la Ley.
 
 ###### ARTÍCULO 71.
 
@@ -2282,3 +2332,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su Publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Poder Judicial tomará de inmediato las medidas necesarias para designar a los Consejeros del Consejo de la Judicatura. De igual forma, solicitará a los Poderes Legislativo y Ejecutivo, nombren, a sus respectivos Consejeros.
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes, de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor esta Ley, se abroga la Ley Tutelar para Menores Infractores del Estado de Hidalgo.
+
+TERCERO.- Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las Autoridades Estatales correspondientes, deberían expedir los Reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas Dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO.- Las instituciones encargadas de la formulación de los agentes de las Policías Estatales, deberán incluir, en un plazo que no supere el ciclo lectivo en curso, al momento de entrar en vigor de esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los Tratados Internacionales y demás Ordenamientos Estatales aplicables.
+
+QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
+
+SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
