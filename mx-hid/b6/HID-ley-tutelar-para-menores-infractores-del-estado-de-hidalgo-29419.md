@@ -4,7 +4,7 @@ identifier: "HID-ley-tutelar-para-menores-infractores-del-estado-de-hidalgo-2941
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-24"
-last_updated: "2003-03-24"
+last_updated: "2006-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY TUTELAR PARA MENORES INFRACTORES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 204, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de marzo de 2003.
 
@@ -700,3 +702,19 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL EL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes, de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor esta Ley, se abroga la Ley Tutelar para Menores Infractores del Estado de Hidalgo.
+
+TERCERO.- Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Estatal y las Autoridades Estatales correspondientes, deberían expedir los Reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas Dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+CUARTO.- Las instituciones encargadas de la formulación de los agentes de las Policías Estatales, deberán incluir, en un plazo que no supere el ciclo lectivo en curso, al momento de entrar en vigor de esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los Tratados Internacionales y demás Ordenamientos Estatales aplicables.
+
+QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
+
+SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
