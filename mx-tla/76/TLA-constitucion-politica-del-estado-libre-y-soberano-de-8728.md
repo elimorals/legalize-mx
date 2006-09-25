@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2004-08-10"
+last_updated: "2006-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -77,9 +77,19 @@ IV. Al trato igualitario sin distinción de personas por razón de raza, sexo, e
 
 V. Nadie podrá ser condenado a la pena de muerte ni ejecutado. En todo procedimiento se excluirá la prueba obtenida ilegalmente.
 
-VI. Los menores de edad tienen derecho a la protección física y psíquica. Podrán expresar su opinión libremente, la cual será tomada en cuenta en los asuntos que les afecten, en función de su edad y madurez. En todos los actos de autoridad relativos al menor, el interés superior de éstos constituirá una consideración primordial y se cuidará que las instituciones privadas también lo observen.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
-En el procedimiento de menores infractores se otorgará (sic) las mismas garantías que a los adultos y aquéllas que sean necesarias para lograr una rehabilitación más rápida y eficiente;
+VI. Los menores de edad, tienen derecho a la protección física y psicológica. Su opinión será tomada en cuenta en los asuntos que les afecten, en función de su edad y madurez.
+
+En todos los actos de autoridad relativos al menor, el interés superior de éstos constituirá una consideración primordial y se cuidará que las instituciones privadas también lo observen.
+
+Se establecerá un sistema integral de justicia para los adolescentes que tengan entre doce años cumplidos y menos de dieciocho, a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado; este sistema garantizará sus derechos fundamentales, así como aquellos derechos específicos que por su condición de persona en desarrollo le han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley sólo serán sujetas a rehabilitación y asistencia social.
+
+Únicamente a los adolescentes mayores de catorce años de edad se les aplicará como medida extrema el internamiento por la comisión de conductas antisociales calificadas como graves. La sanción que se imponga por internamiento no podrá exceder de siete años como pena máxima que contemple el delito.
+
+Cuando los adolescentes mayores de doce años cometen conductas antisociales calificadas como no graves se aplicarán medidas de orientación, protección y tratamiento que amerite cada caso, con el fin de lograr su reintegración social y familiar.
+
+En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas;
 
 VII. De investigar, recibir y difundir hechos de interés público, salvo los casos previstos por la Ley;
 
@@ -815,7 +825,7 @@ La infracción de esta disposición será castigada con la pérdida del carácte
 
 ### CAPITULO XI. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 38.
 
@@ -1025,7 +1035,9 @@ XXV. Instruir al Instituto Electoral, para que proceda a efectuar las elecciones
 
 XXVI. Nombrar al Procurador General de Justicia del Estado;
 
-XXVII. Designar a los Magistrados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+XXVII. Nombrar, y, en su caso, reelegir previa evaluación a los magistrados del Tribunal Superior de Justicia de plazo cumplido, o removerlos en .los términos previstos en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado;
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
@@ -1553,9 +1565,21 @@ El Ministerio Público es el órgano dependiente del Poder Ejecutivo en cuanto a
 
 La Policía Preventiva del Estado y la de los Municipios colaborarán con la Ministerial en el combate a la delincuencia conforme a los convenios que al respecto se celebren.
 
-La Ley Orgánica del Ministerio Público que se expida, regulará su estructura, funcionamiento de órganos de dirección y en general todo aquello que tenga relación con el mismo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
-Garantizar la seguridad pública es un deber del Estado; para ello contará con una corporación de policía que estará al mando del Poder Ejecutivo y de los presidentes municipales, en el ámbito de sus respectivas competencias. Esta policía prestará auxilio a las autoridades, para el debido cumplimiento de sus atribuciones y se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+Para la investigación y, en su caso, la remisión al juez especializado para adolescentes, se dispondrá de agentes ministeriales especializados para la atención de esos asuntos, bajo los principios de interés especial en la adolescencia, transversalidad, subsidiariedad, flexibilidad, equidad y de protección integral de los derechos de los adolescentes.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+Los agentes ministeriales o de policía que traten de manera exclusiva con menores o que se dediquen fundamentalmente a la prevención e investigación de la delincuencia de adolescentes, estarán debidamente instruidos y capacitados de forma permanente para el funcionamiento de sus atribuciones.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+La Ley Orgánica de la Institución del Ministerio Público, regulará su estructura, funcionamiento, competencia y administración, conforme lo dispone este mandato.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+Garantizar la seguridad pública es un deber del Estado; para ello contará con una corporación de policía que estará al mando del Poder Ejecutivo y de los presidentes municipales, en el ámbito de sus respectivas competencias, Esta policía prestará auxilio a las autoridades, para el debido cumplimiento de sus atribuciones y se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1595,11 +1619,11 @@ IX. Aprobar los exámenes públicos de oposición, que se efectúen conforme a l
 
 Los servidores públicos del Ministerio Público no tendrán, en los juicios en que intervengan, ninguna prerrogativa especial.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 76.
 
-El Consejo Tutelar de Menores Infractores conocerá de las infracciones que cometan los menores de 16 años, quienes contarán con un mínimo de garantías que las Constituciones Políticas, de los Estados Unidos Mexicanos y ésta, conceden a toda persona. La Ley que se expida para normar su funcionamiento, estructura, competencia y administración, cuidará que su articulado observe este mandato.
+La operación del sistema integral de justicia para adolescentes, estará a cargo de instancias ministeriales jurisdiccionales y administrativas especializadas en la materia. La ley que se expida establecerá su estructura, y normará su funcionamiento, competencia y administración.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1631,41 +1655,81 @@ Prevenciones generales.
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, integrado por las salas Civil, Familiar, Electoral-Administrativa, Laboral-Burocrática y Penal, y en los juzgados civiles, familiares y penales.
+El ejercicio del Poder Judicial se depositará en un Tribunal Superior de Justicia, integrado por salas y juzgados de Primera Instancia. El Tribunal Superior de Justicia es el órgano supremo del Poder Judicial.
 
-El Poder Judicial garantizará la supremacía y control de esta Constitución, y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los términos, plazos y condiciones que fijen las leyes.
+El Tribunal Superior de Justicia funcionará en pleno y en las salas siguientes:
 
-El Tribunal Superior de Justicia es el órgano supremo del Poder Judicial; funcionará en pleno y en salas. Los magistrados del Tribunal durarán en el cargo seis años y serán nombrados por el Congreso del Estado conforme a lo establecido por esta Constitución; elegirán de entre ellos a un Presidente que durará en su encargo un año y podrá ser reelecto por una sola vez.
+I. Civil:
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+II. Penal;
+
+III. Familiar;
+
+IV. Electoral Administrativa;
+
+V. Laboral-Burocrática, y
+
+VI. Unitaria de Administración de Justicia para Adolescentes.
+
+Las plazas de magistrados supernumerarios se crearán en base a la disponibilidad presupuestal y entrarán en funciones en los términos que previene la Ley Orgánica del Poder Judicial.
+
+El Poder Judicial garantizará la supremacía y el control de esta Constitución y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los términos, plazos y condiciones que fijen las leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 80.
 
-El Tribunal Superior de Justicia, funcionando en pleno, tendrá las siguientes facultades:
+El Tribunal Superior de Justicia, funcionará en pleno y tendrá las facultades siguientes:
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 I. Dictar las medidas necesarias para que el Poder Judicial del Estado cumpla cabalmente con su función de impartir justicia;
 
-II. Resolver los conflictos competenciales que surjan entre los órganos que integran el Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+II. Resolver los conflictos competenciales que surjan entre los órganos que integran el Poder Judicial del Estado, así como emitir los acuerdos para hacer una adecuada distribución de las cargas de trabajo;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 III. Autorizar que se proceda penalmente contra los jueces, cuando así lo amerite el caso;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 IV. Remitir a los Poderes Legislativo y Ejecutivo del Estado los informes que le soliciten sobre la administración de justicia;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 V. Presentar las iniciativas de Ley que sean necesarias para una mejor impartición de justicia;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 VI. Conocer y resolver el recurso de revocación que los interesados interpongan, contra los acuerdos del Presidente del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 VII. Designar a todo el personal del Poder Judicial;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 VIII. Fijar la jurisdicción y competencia de los Juzgados del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 IX. Determinar los precedentes obligatorios sustentados en cinco resoluciones en el mismo sentido, que vinculen a las salas y juzgados del Estado, y resolver las contradicciones de los precedentes que sustenten las salas;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 X. Expedir su Reglamento Interior y normas administrativas que le sean necesarias para el cumplimiento de sus fines;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XI. Ordenar que se publiquen, para su obligatoriedad, en el Boletín Judicial del Estado, las disposiciones de observancia general que dicte;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 XII. Conceder licencias a sus Magistrados para que puedan separarse de sus cargos hasta por seis meses, llamando al respectivo suplente; y,
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XIII. Las demás que señale esta Constitución y las leyes.
 
@@ -1759,47 +1823,51 @@ Las Salas, Civil, Familiar y Penal serán colegiadas, se integrarán por tres Ma
 
 La Sala Laboral-Burocrática se integrará por un Magistrado, conocerá de los conflictos individuales y colectivos de carácter laboral y de seguridad social, que se susciten entre las administraciones públicas estatal y municipales y sus servidores públicos, así como de los conflictos intergremiales.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+La Sala Unitaria de Administración de Justicia para Adolescentes, integrada por un magistrado, conocerá de los recursos que expresamente señale la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+Se establecerá un sistema de mediación y conciliación como forma de autocomposición asistida de las controversias entre las partes, cuando esas controversias recaigan sobre derechos de los cuales pueden los particulares disponer libremente y no se afecte el orden público, la ley en la materia regulará todo lo concerniente a este mandato.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 83.
 
-Para ser Magistrado o Juez, se requiere:
+Para ser Magistrado o Juez se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos, con una residencia mínima de dos años en el Estado, antes del nombramiento;
 
-I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima de cinco años en el Estado, antes del nombramiento;
+II. Tener cuando menos treinta y cinco años de edad el día del nombramiento;
 
-II. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2002)
+III. Ser licenciado en derecho, con título legalmente expedido, con una antigüedad mínima de diez años y cinco años si se trata de los jueces;
 
-III. Tener cuando menos treinta y cinco años de edad el día del nombramiento; o treinta años, si se trata de los jueces;
+IV. Gozar de buena reputación; no haber sido condenado por la comisión de algún delito doloso, ni estar inhabilitado para desempeñar cargos públicos; y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otros que lastime seriamente la buena fama en el concepto público, se inhabilitara para el cargo, cualquiera que haya sido la pena, y
 
-IV. Ser licenciado en derecho, con título y cédula profesionales legalmente expedidos, con antigüedad mínima de diez años para Magistrado y cinco para Juez;
+V. No haber sido servidor público de primer nivel en la administración pública estatal, Procurador General de Justicia o Diputado Local, durante el año previo a su designación.
 
-V. Haber ejercido como abogado postulante, académico o en la administración o procuración de justicia, cinco años anteriores a la fecha del nombramiento.
+Los aspirantes deberán aprobar los exámenes públicos de oposición que se efectúen conforme a la ley, ante el pleno del Congreso, quien nombrará a los miembros del jurado, el que estará integrado por académicos e investigadores ajenos al Estado.
 
-En igualdad de circunstancias, se preferirá a los profesionales del derecho que hayan prestado sus servicios al Poder Judicial del Estado;
+Previamente a la práctica de esos exámenes deberá expedirse con cuarenta y cinco días de anticipación una convocatoria dirigida a todos los abogados de la entidad, debidamente publicitada en los periódicos de mayor circulación, en el que se hará saber el nombre de los sinodales.
 
-VI. Gozar de buena reputación; no haber sido condenado por la comisión de algún delito doloso, ni estar inhabilitado para desempeñar cargos públicos;
+En igualdad de circunstancias se preferirá a aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes entre otras ramas de la profesión jurídica.
 
-VII. No haber sido Gobernador o servidor público de primer nivel en la Administración Pública estatal, Procurador General de Justicia, Diputado Local, Senador, Diputado Federal o Presidente Municipal, durante el año previo a su designación;
-
-VIII. No ser ministro de algún culto religioso;
-
-IX. No ser miembro activo del Ejército y Fuerzas Armadas del país;
-
-X. Aprobar los exámenes públicos de oposición, que se efectúen conforme a la Ley, ante el Pleno del Congreso, quien nombrará a los miembros del jurado, el que estará integrado básicamente por académicos e investigadores preferentemente ajenos al Estado. Previamente a la práctica de esos exámenes, deberá expedirse con un mes de anticipación, una convocatoria dirigida a todos los abogados de la Entidad, debidamente publicitada en los periódicos de mayor circulación, conteniendo el nombre de los sinodales.
-
-Tratándose de jueces, la convocatoria y exámenes respectivos, los hará la Comisión de Gobierno Interno y Administración del Poder Judicial; y,
-
-XI. Además de los requisitos anteriores, para ser Magistrado de la Sala Electoral-Administrativa, se requerirá no ser directivo de algún partido político, ni servidor público de la Federación, del Estado o de los Ayuntamientos, con funciones de dirección y mando, durante el año previo a la fecha de la designación.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 84.
 
-Los Magistrados serán nombrados por el Congreso, con la votación de por lo menos las dos terceras partes del total de los diputados presentes, tomando como base el cumplimiento de los requisitos a que se refiere el Artículo anterior.
+Los magistrados serán nombrados por el Congreso con la votación de las dos terceras partes del total de los diputados que integren la Legislatura correspondiente.
 
-Los nombramientos de los jueces los hará la Comisión de Gobierno Interno y Administración del Poder Judicial.
+Los magistrados del Tribunal Superior de Justicia durarán en el cargo seis años y cumplido este periodo podrán ser reelectos, sólo podrán ser privados de su cargo en los términos que determina esta Constitución, la Ley de Responsabilidades de los Servidores Públicos del Estado y por incapacidad física o mental.
+
+Los magistrados elegirán de entre ellos a un Presidente que durará en su encargo dos años y podrá ser reelecto por una sola: vez.
+
+La reelección o ratificación se realizará previa evaluación objetiva a los magistrados del Tribunal Superior de Justicia, en la que demuestren que durante el desempeño de su función, la realizaron con imparcialidad, independencia, eficiencia, probidad, honorabilidad, excelencia, ética, profesionalismo, vocación inquebrantable, dedicación, diligencia, actuación permanente, experiencia, honestidad invulnerable y que gozan de buena fama pública. Este procedimiento se establecerá en la Ley Orgánica correspondiente.
+
+La independencia de los magistrados y jueces en el ejercicio de sus funciones, estará garantizada por esta Constitución y por la Ley Orgánica del Poder Judicial; esta última establecerá las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2780,3 +2848,41 @@ P.O. 10 DE AGOSTO DE 2004.
 ###### ARTICULO UNICO.
 
 Este Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La integración y funcionamiento en lo relativo al sistema integral de justicia para los adolescentes, el pleno del Tribunal Superior de Justicia, y el titular del Poder Ejecutivo, conforme a su respectivo ámbito de competencia, establecerán los lineamientos presupuesta les y administrativos necesarios a efecto de cumplir con lo establecido en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y lo dispuesto por este Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se cumpla lo dispuesto en el punto anterior, el pleno del Tribunal Superior de Justicia del Estado, encomendar a la Sala Penal, la función que le corresponda desempeñar a la Sala Unitaria de Administración de Justicia para Adolescentes, una vez creada.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, dentro del término mandatado por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, expedirá las normas y reformas necesarias que resulten de la expedición de este Decreto.
+
+###### ARTICULO CUARTO.
+
+El titular del Poder Ejecutivo del Estado, hará las prevenciones presupuestales necesarias a efecto de cumplir con la operación y funcionamiento del sistema integral de justicia para los adolescentes, conforme lo establece este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El sistema de mediación y conciliación entrará en vigor a partir del primero de enero del año dos mil siete; para tal efecto, el Congreso del Estado, expedirá la ley reglamentaria correspondiente, y se hará la prevención presupuestal para su exacta aplicación y funcionamiento.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTICULO SÉPTIMO.
+
+Con fundamento en lo dispuesto por el artículo 96 fracción I de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, se instruye al ciudadano Secretario Parlamentario de esta Soberanía, para que notifique este Decreto al Honorable Congreso de la Unión, enviándole también copia certificada del dictamen correspondiente.
+
+###### ARTICULO OCTAVO.
+
+Remítase, a través del diputado presidente de la Mesa Directiva de este Congreso Local, copia certificada del dictamen con proyecto de Decreto a la Suprema Corte de Justicia de la Nación para que obre como corresponde en la controversia 04/2005 y en el recurso de queja derivado de la misma para los efectos legales correspondientes.
+
+###### ARTÍCULO NOVENO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
