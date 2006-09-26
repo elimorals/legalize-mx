@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "2006-09-14"
+last_updated: "2006-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 26 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCION DE LOS PRECEPTOS 133 Y 134 REFERIDOS POR EL 135 DE LA NUEVA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -1425,6 +1427,8 @@ Podrán expedirse y autorizarse Testimonios, copias certificadas y certificacion
 
 ### CAPITULO IX. Del Arancel
 
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO 135 DE LA NUEVA LEY DEL NOTARIADO DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 26 DE SEPTIEMBRE DE 2006, EL PRESENTE ARTICULO CONTINUARA VIGENTE.</small>
+
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1995)</small>
 
 ###### Artículo 133.
@@ -1515,11 +1519,17 @@ XXVII. En las escrituras los contratos de crédito otorgados por las institucion
 
 XXVIII. En las sucesiones tramitadas ante notario y en las intervenciones arbitrales, se cobrará conforme las tasas fijadas en las fracciones I y III de este artículo.
 
+(VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO 135 DE LA NUEVA LEY DEL NOTARIADO DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 26 DE SEPTIEMBRE DE 2006, EL PRESENTE ARTICULO CONTINUARA VIGENTE.</small>
+
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1995)</small>
 
 ###### Artículo 134.
 
 Las cuotas señaladas en el presente arancel, se ajustarán automáticamente el día 1º de enero de cada año, en la misma proporción del cociente resultante de la división del Índice Nacional de Precios al Consumidor del mes inmediato anterior, entre el que sirvió como referencia en el año anterior.
+
+(VEASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1995)</small>
 
@@ -2654,3 +2664,33 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley de Registro público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "El Estado de Jalisco". Salvo lo dispuesto en los artículos siguientes.
+
+SEGUNDO. Se abroga la Ley del Notariado del Estado de Jalisco, contenida en el decreto 14397 y publicada el día 8 de octubre de 1991 en el Periódico Oficial "El Estado de Jalisco" con sus reformas y adiciones, con la excepción de lo establecido en el artículo 135 de éste ordenamiento, y se derogan todas las disposiciones que se opongan a la presente ley.
+
+TERCERO. Los convenios de asistencia recíproca celebrados con antelación a la vigencia de la presente ley y que hubieren sido autorizados por la Secretaría General de Gobierno y publicados en el Periódico Oficial El Estado de Jalisco, quedarán sin efecto, concediéndose noventa días naturales para dar por concluidas las actuaciones notariales pendientes, debiendo surtir sus efectos a partir de la entrada en vigor de la presente Ley.
+
+CUARTO.- Los convenios de asociación notarial celebrados con antelación a la vigencia de la presente ley y que hubieren sido autorizados por la Secretaría General de Gobierno y publicados en el Periódico Oficial El Estado de Jalisco, continuarán surtiendo todos sus efectos legales.
+
+QUINTO.- Lo dispuesto por la sección segunda del capítulo II, del Título Segundo de esta Ley, entrará en vigor el día primero de julio del año 2007.
+
+SEXTO.- Los procedimientos administrativos instaurados por quejas presentadas en contra de notarios hasta antes de la vigencia de la presente ley, les serán aplicables las disposiciones relativas de la ley del notariado que se deroga. Las quejas administrativas que se presenten a partir de la vigencia de la presente Ley, les serán aplicables las disposiciones contenidas en éste ordenamiento, independientemente de la fecha en que se atribuya la comisión de la falta.
+
+SÉPTIMO. Los integrantes del Consejo de Notarios electorales bajo la vigencia de la Ley del Notariado que se deroga, tendrá el impedimento a que se refiere el artículo 207 penúltimo párrafo de este Ley.
+
+OCTAVO. Al entrar en vigor el presente decreto, el vicepresidente del Consejo de Notarios y los Consejeros representantes de las regiones notariales del estado, asumirán en forma simultánea los cargos de vicepresidente ejecutivo y vicepresidentes regionales a que se refieren los incisos b) y c) del artículo 207 de esta ley.
+
+NOVENO.- Los notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de ésta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia de la presente Ley, ya sea por disposición legal o por acuerdo del Titular del Ejecutivo, podrán mantener su oficina en ese municipio.
+
+DÉCIMO.- Los actuales notarios suplentes continuarán fungiendo como tales, conservando los derechos y facultades que les confiere la ley que se deroga, y pasarán a ser titulares hasta que se declare vacante la notaría de su adscripción.
+
+DÉCIMO PRIMERO.- Los notarios suplentes tendrán el derecho que les otorgaban los artículos cuarto y noveno transitorio del decreto 19,471, si optan por ejercer dicho derecho dentro de los treinta días naturales a la vigencia de la presente Ley.
+
+DÉCIMO SEGUNDO.- Los exámenes de patente de aspirante al ejercicio notarial que hubieren sido autorizados por Ejecutivo, así como los procedimientos en donde se hubiese decretado la vacancia de una notaria con anterioridad a la vigencia de ésta ley, se continuarán tramitando hasta su conclusión conforme a la legislación que se abroga.
+
+DÉCIMO TERCERO.- Para los efectos del régimen interno de funciones, estructura y disposiciones presupuestarias, del Colegio de Notarios, la Mutualidad y de la Academia, se estará a lo dispuesto por los estatutos o reglamento interior que para este efecto se autoricen en asamblea ordinaria por el Colegio de Notarios. El Consejo de Notarios deberá expedir sus estatutos o reglamento interior dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO CUARTO.- Hasta en tanto se instale Consejo de la Judicatura, la obligación contenida en el artículo 45, se tendrá por cumplida notificando al Consejo General del Poder Judicial.
