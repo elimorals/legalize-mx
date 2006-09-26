@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-25906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-23"
-last_updated: "2005-12-21"
+last_updated: "2006-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de agosto del 2002.
 
@@ -821,7 +821,9 @@ Artículo 35 B.- El Instituto de Atención a las Víctimas del Delito del Estado
 
 La organización y funcionamiento del Instituto se determinará en su Reglamento Interior y en las demás disposiciones aplicables.
 
-El Director General del Instituto, para el ejercicio de sus funciones, se auxiliará de las unidades administrativas que se determinen en el Reglamento Interior, de conformidad con la disponibilidad presupuestal.
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2006)</small>
+
+El Director General del Instituto, para el ejercicio de sus funciones se auxiliará de las unidades administrativas que se determinen en el Reglamento Interior, de conformidad con la disponibilidad presupuestal, y del Comité Ciudadano.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -845,7 +847,33 @@ VIII. Realizar el seguimiento de los servicios gratuitos de asesoría jurídica,
 
 Previa valoración los servicios instituidos en beneficio de las víctimas podrán extenderse a los ofendidos del delito;
 
-IX. Las demás establecidas en este ordenamiento, en el Reglamento Interior del Instituto y en otras disposiciones legales aplicables.
+> <small>(REFORMADA [ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2006)</small>
+
+IX. Trabajar de manera coordinada con la Comisión de Derechos Humanos del Estado de México, en el desarrollo de programas para la atención a las víctimas del delito así como impulsar las acciones necesarias para promover y proteger sus derechos fundamentales entre las autoridades y la población del Estado de México;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE SEPTIEMBRE DE 2006)</small>
+
+X. Las demás establecidas en este ordenamiento, en el Reglamento Interior del Instituto y en otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 35 D.- El Comité Ciudadano es un órgano de apoyo, consulta y opinión del Instituto de Atención a las Víctimas del Delito, conformado por ciudadanos y de carácter multidisciplinario, encargado de participar en el diseño, elaboración y coordinación de programas de atención a las víctimas del delito.
+
+El Comité Ciudadano se integrará por cinco consejeros propietarios y tres suplentes, que serán designados por la Legislatura, por mayoría calificada de los diputados presentes, a propuesta de la Junta de Coordinación Política, de entre representantes de los sectores académico y social del Estado de México, mismos que no podrán ser ni haber sido dirigentes de sindicatos o de partidos políticos, o candidatos de partido político alguno.
+
+Los consejeros durarán en su desempeño tres años y su cargo será honorífico.
+
+Son facultades del Comité Ciudadano, las siguientes:
+
+I.- Participar en la elaboración de programas de atención a las víctimas del delito en las áreas jurídica, psicológica y de trabajo social;
+
+II.- Proponer la celebración de convenios con organizaciones nacionales e internacionales especializadas en la protección de las víctimas del delito;
+
+III.- Coadyuvar con el Director en la elaboración del informe anual sobre las actividades realizadas del instituto;
+
+IV.- Evaluar los resultados de programas y demás acciones realizadas por las entidades y dependencias públicas a favor de las víctimas del delito;
+
+V.- Las demás establecidas en este ordenamiento y en el Reglamento Interior del Instituto.
 
 ###### Artículo 36.
 
@@ -1688,3 +1716,11 @@ TERCERO.- En tanto entra en funciones el Instituto de Atención a las Víctimas 
 CUARTO.- Los recursos presupuestales, financieros, materiales, técnicos y humanos que se tienen programados para la operación de la Unidad de Atención a Víctimas del Delito, se asignarán al Instituto de Protección y Atención a las Víctimas del Delito del Estado de México.
 
 QUINTO.- Las Secretarías General de Gobierno y de Finanzas, Planeación y Administración, y la Procuraduría General de Justicia del Estado de México proveerán lo necesario para la instalación y funcionamiento de este órgano administrativo desconcentrado de la Procuraduría, creado por este decreto.
+
+G.G. 26 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
