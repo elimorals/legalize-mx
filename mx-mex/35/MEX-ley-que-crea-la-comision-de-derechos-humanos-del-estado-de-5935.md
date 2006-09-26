@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-de-derechos-humanos-del-estado-de-5935
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-20"
-last_updated: "1997-07-01"
+last_updated: "2006-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 20 de octubre de 1992.
 
@@ -93,9 +93,15 @@ XI. Establecer canales de comunicación permanentes con las organizaciones no gu
 
 > <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-XII. Expedir su Reglamento Interno, con sujeción estricta al presente ordenamiento; y
+XII. Expedir su Reglamento Interno, con sujeción estricta al presente ordenamiento; y (sic)
 
-XIII. Las demás que sean necesarias para el cumplimiento de sus objetivos y que se deriven de esta Ley y demás ordenamientos legales relativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2006)</small>
+
+XIII. Celebrar convenios de colaboración con las instancias federales, estatales, municipales y las sociedades y asociaciones civiles que determinen, a efecto de garantizar la atención y protección a las víctimas del delito y abuso de poder, lo anterior en el marco de sus respectivas competencias;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE SEPTIEMBRE DE 2006)</small>
+
+XIV. Las demás que sean necesarias para el cumplimiento de sus objetivos y que se deriven de esta Ley y demás ordenamientos legales relativos.
 
 > <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
@@ -782,3 +788,11 @@ Este decreto entrará en vigor a los diez días naturales siguientes al de su pu
 ###### ARTICULO TERCERO.
 
 A partir del inicio de la vigencia del presente decreto el actual titular de la Comisión de Derechos Humanos se denominará Comisionado de los Derechos Humanos.
+
+G.G. 26 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
