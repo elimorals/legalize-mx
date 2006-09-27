@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2005-01-19"
+last_updated: "2006-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -175,7 +175,11 @@ XXV.- Evacuado/albergado: Persona que con carácter precautorio y ante la posibi
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2003)</small>
 
-XXVI.- Grupos voluntarios: las instituciones, organizaciones y asociaciones que cuenten con el personal, conocimiento, experiencia y equipos necesarios, y presten sus servicios en acciones de protección civil de manera altruista y comprometida.
+XXVI.- Grupos voluntarios: las instituciones, organizaciones y asociaciones que cuenten con el personal, conocimiento, experiencia y equipos necesarios, y presten sus servicios en acciones de protección civil de manera altruista y comprometida;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+XXVII.- Sistemas contra incendios: Lo constituyen los equipos instalados en los inmuebles, los cuales sirven para detectar, mitigar y extinguir los incendios, quedando comprendidos dentro de éstos las instalaciones con centrales de alarma, detectores de calor y humo, sean fotoeléctricos o por ionización, los hidrantes y los sistemas de rociadores.
 
 ## TITULO SEGUNDO. DE LOS SISTEMAS ESTATAL, DISTRITAL Y MUNICIPAL DE PROTECCION CIVIL
 
@@ -643,13 +647,21 @@ En los inmuebles o establecimientos que por su propia naturaleza o por el uso al
 
 De igual forma, los organizadores de espectáculos de concentración masiva de personas, deberán solicitar de la Unidad una autorización a efecto de verificar las medidas de seguridad con que se cuenta.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Para iniciar y realizar toda construcción con las características a que se refiere el presente Artículo, se requiere la autorización expresa de la Unidad Estatal o Municipal de Protección Civil, según corresponda, quien tendrá la obligación de verificar que en el proyecto ejecutivo de construcción, se contemple la instalación de sistemas contra incendios, así como también realizar la posterior verificación de su instalación y adecuado funcionamiento.
+
 ###### Artículo 34.
 
 Los propietarios, poseedores o administradores de establecimientos en los que haya afluencia del público y los organizadores o responsables de eventos, deberán, en coordinación con las Autoridades de Protección Civil, practicar simulacros que permitan orientar y auxiliar a la población en caso de estado de emergencia.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 35.
 
-En todos los lugares a que se refieren los artículos anteriores deberán colocarse, en sitios visibles, equipos de seguridad, señales preventivas, restrictivas e informativas, luces y equipo reglamentario según el caso, los instructivos y manuales para situaciones de emergencia, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después de algún siniestro o desastre, así como señalar las zonas de seguridad.
+Todos los lugares a que se refieren los Artículos anteriores deberán contar con sistemas contra incendios; además, deberán colocarse en sitios visibles equipos de seguridad, señales preventivas, restrictivas e informativas, luces y equipo necesario, según el caso, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después de algún siniestro o desastre, así como señalar las zonas de seguridad.
+
+Para los efectos del párrafo anterior, los sistemas contra incendios deberán contar como mínimo con los elementos descritos en la fracción XXVII del artículo 5 de la presente Ley, salvo lo relativo a los hidrantes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
 
@@ -1020,3 +1032,13 @@ Para el correcto desempeño de las atribuciones que se confieren a la Secretarí
 ###### ARTÍCULO TERCERO.
 
 Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los inmuebles o establecimientos que por su propia naturaleza o por el uso al que se han destinado reciban una afluencia masiva de personas, y que no cuenten con los sistemas contraincendios a la entrada en vigor de este Decreto, deberán instalarlos en un plazo de un año, a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
