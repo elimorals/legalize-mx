@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transporte-publico-del-estado-de-queretaro-34067"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-05"
-last_updated: "2003-09-05"
+last_updated: "2006-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS AL PRESENTE ORDENAMIENTO, SU ENTRADA EN VIGOR SERA A LOS SESENTA DIAS HABILES POSTERIORES A SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 5 de septiembre de 2003
 
@@ -361,6 +363,10 @@ Para facilitar el desplazamiento de las personas con capacidades diferentes, el 
 
 En cumplimiento a lo dispuesto en el presente artículo, la Dirección de Tránsito y Transporte vigilará que los concesionarios y permisionarios cuyas unidades con las que prestan el servicio deban ser sustituidas por ser de modelo inferior al que señala la presente Ley, presenten unidades equipadas con las características señaladas en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+En el caso de transporte de personas a que se refiere el artículo 40, fracción I, inciso a) al d), el servicio de transporte de adultos mayores y personas con discapacidad tendrá un costo equivalente al 20% del valor de la tarifa, siempre que los beneficiados acrediten su condición con las credenciales oficiales correspondientes.
+
 ###### ARTICULO 36.
 
 Los concesionarios y permisionarios de la prestación del servicio público podrán solicitar del Secretario de Gobierno, a través de la Dirección de Tránsito y Transporte la aprobación de convenios con organizaciones magisteriales, estudiantiles, sindicales, turísticas y otras que modifiquen sus tarifas y las reduzcan por causa de cooperación con estos organismos.
@@ -501,7 +507,9 @@ IV. Solicitar autorización a la Secretaría de Gobierno a través de la Direcci
 
 Son obligaciones de los concesionarios:
 
-I. Prestar el servicio concesionado con eficiencia y oportunidad sin dar preferencia por razón de tiempo o lugar;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+I. Prestar el servicio concesionado con eficiencia y oportunidad sin dar preferencia por razón de tiempo o lugar, así como otorgar los descuentos del servicio en caso de adultos mayores y personas con discapacidad, en el caso del servicio de transporte previsto en la fracción I, inciso a) al d) del artículo 40;
 
 II. Cubrir toda la ruta autorizada, respetando horarios, paraderos y frecuencia de paso;
 
@@ -535,9 +543,11 @@ Los vehículos de transporte que se utilicen para la explotación de la concesi�
 
 Es obligatorio para los concesionarios y permisionarios del servicio de transportación de personas y objetos, asegurar a los pasajeros, en su vida e integridad física, y al patrimonio de los mismos, de acuerdo a lo dispuesto en el Código Civil para el Estado de Querétaro y demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 57.
 
-Los concesionarios y permisionarios deberán hacer entrega a los usuarios del boleto, recibo, porte o factura, que ampare el importe del servicio contratado e incluya el seguro correspondiente.
+Los concesionarios y permisionarios deberán hacer entrega a los usuarios del boleto, recibo, porte o factura, que ampare el importe del servicio contratado e incluya el seguro correspondiente. En el caso de adultos mayores y personas con discapacidad deberán también entregar el boleto que ampare el seguro correspondiente.
 
 ###### ARTICULO 58.
 
@@ -623,7 +633,11 @@ III. Que el servicio comprenda el trayecto completo desde el lugar de abordaje h
 
 IV. Que tratándose de transporte público de carga, sus bienes sean transportados desde el lugar de su embarque hasta el sitio de destino previamente determinado, bajo la responsabilidad del concesionario o permisionario que preste el servicio;
 
-V. Presentar quejas ante la autoridad competente, de conformidad como lo establece el artículo siguiente.
+V. Presentar quejas ante la autoridad competente, de conformidad como lo establece el artículo siguiente;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+VI. En el caso de los adultos mayores y personas con discapacidad, recibir el servicio de transporte público con el descuento respectivo, en el caso del transporte contemplado en los incisos a) al d) de la fracción I del artículo 40.
 
 ###### ARTÍCULO 72.
 
@@ -865,7 +879,11 @@ VII. Negar a la autoridad de transporte la información relativa a los programas
 
 VIII. Negar el servicio a quien lo solicite, sin causa justificada;
 
-IX. No se atiendan las observaciones realizadas por el Director de Tránsito y Transporte dentro del plazo establecido en el texto de las mismas.
+IX. No se atiendan las observaciones realizadas por el Director de Tránsito y Transporte dentro del plazo establecido en el texto de las mismas;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+X. No realicen el descuento respectivo a los adultos mayores o personas con discapacidad, cuando conforme a esta ley tengan tal derecho.
 
 ###### ARTICULO 99.
 
@@ -1132,3 +1150,13 @@ LIC. BERNARDO GARCÍA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor sesenta días hábiles después de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. La Secretaría de Salud valorará y expedirá las credenciales oficiales correspondientes a las personas con capacidades diferentes que lo soliciten, de acuerdo con las normas oficiales mexicanas y las suscritas por convenios internacionales ante la Organización Mundial de la Salud, a efecto de hacer efectivo el descuento.
+
+TERCERO. Las autoridades del transporte definidas en el artículo 3 de la Ley de Transporte del Estado, en coordinación con las asociaciones de concesionarios, y permisionarios, dentro del plazo de la publicación e inicio de vigencia de las presente reformas, mecanismos para dar a conocer a la sociedad y a los operadores el contenido de las mismas.
