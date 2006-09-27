@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "2005-12-29"
+last_updated: "2006-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -1537,6 +1537,10 @@ C).- Que la omisión de la infracción sea en forma continuada.
 
 En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se notifique al infractor la resolución por la cual se le impuso la sanción, la multa se reducirá en un 20% de su monto sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+En los casos que la persona acredite haber ejercido su prerrogativa de votar en la elección inmediata anterior, se le hará un descuento de un día de salario mínimo vigente en la zona del monto total de la multa, adicional, incluso, a cualquier otro beneficio.
+
 ###### ARTICULO 90.
 
 En los casos a que se refiere el artículo anterior, las multas se aumentarán conforme a las siguientes reglas:
@@ -2704,3 +2708,7 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 ###### ARTICULO TERCERO.
 
 Publíquese la presente Ley en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
