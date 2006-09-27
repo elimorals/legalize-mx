@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-poder-legislativo-para-la-aplicacion-de-la-21161
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-09"
-last_updated: "2004-04-09"
+last_updated: "2006-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL PODER LEGISLATIVO PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 9 de marzo de 2001.
 
@@ -59,9 +59,11 @@ Para los efectos del presente Reglamento deberá entenderse por:
 
 Ley: la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro;
 
-> <small>(REFORMADO, 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Comisión: La Comisión de Vigilancia del Poder Legislativo;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Comisión: La Comisi6n de Vigilancia en pleno, y no exclusivamente su Presidente;
 
 Comité: el Comité a que hace referencia el artículo 19 de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios.
 
@@ -85,37 +87,75 @@ El órgano interno de control será la Comisión.
 
 ### CAPÍTULO PRIMERO. DE LAS ATRIBUCIONES DE LA COMISIÓN DE VIGILANCIA, LA OFICIALÍA MAYOR Y LA TESORERÍA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 4.
 
-La Comisión supervisará el funcionamiento del Comité.
+La Comisión vigilará el funcionamiento del Comité a través de los informes que le rindan.
 
-Una vez emitida la resolución de la adquisición, enajenación o contratación de servicios con base en los trabajos del Comité, la Comisión acordará lo que proceda e instruirá lo conducente a la Oficialía Mayor a fin de que se lleve a cabo la formalización y ejecución de los actos jurídicos a que haya lugar.
+Una vez emitida la resolución de la adquisición, enajenación o contratación de servicios con base en los trabajos del Comité, el titular de la Oficialía Mayor procederá a realizar la formalización y ejecución de los actos jurídicos a que haya lugar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 5.
 
-La Comisión a través del Comité instruirá al Oficial Mayor a fin de que sea éste quien reúna y resguarde la información necesaria para la integración de los expedientes relativos a las distintas gestiones que para la adquisición, enajenación, arrendamientos y contratación de servicios sean necesarios.
+Corresponderá al Secretario del Comité, mantener en custodia y dar seguimiento a los expedientes que se generen con motivo de las adquisiciones, enajenaciones, arrendamientos y contratación de servicios realizados a través del Comité, por el período señalado en el artículo 55 de la ley.
 
 ### CAPÍTULO SEGUNDO. DEL COMITÉ TÉCNICO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 6.
 
-El Comité es el órgano técnico y consultivo de la Comisión, a la que deberá rendir un informe trimestral de sus actividades, que tiene por objeto vigilar el cumplimiento de la Ley, en el marco de las atribuciones y funciones de la legislatura, realizando las acciones tendientes a la optimización de recursos financieros asignados en su presupuesto.
+El comité es el órgano responsable de las adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y la Comisión de su revisión.
+
+En los meses de enero, abril, julio y octubre el Comité deberá presentar informe trimestral de sus actividades a la Comisión para su información.
+
+En el año de cambio de la legislatura, el informe correspondiente al tercer trimestre del año, deberá ser presentado dentro de los primeros quince días del mes de septiembre con copia a la Mesa Directiva o Comisión Permanente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 7.
 
-El Comité, estará conformado por cinco miembros y sus respectivos suplentes, los cuales se integrarán de la siguiente manera:
+El comité estará conformado por cinco miembros y sus respectivos suplentes, los cuales se integrarán de la siguiente manera:
 
-I.- Un Presidente, que será el Presidente de la Comisión;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II.- Un Secretario Ejecutivo, que será el Secretario de la Comisión; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+Un Presidente, que será el Oficial Mayor.
 
-III.- Tres vocales, que serán el Oficial Mayor, el Tesorero y un integrante de la Comisión que ésta designe.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Cada miembro tendrá un suplente, los cuales serán nombrados por la Comisión.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-Las decisiones del Comité serán tomadas por mayoría de votos del total de sus integrantes.
+Un Secretario, que será el Secretario Técnico de la Comisión
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Tres vocales, que serán: El Tesorero, el Jefe de Recursos Materiales de la Oficialía Mayor y el Jefe de Recursos Humanos de la Oficialía Mayor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Cada miembro tendrá un suplente, los cuales serán nombrados por los mismos integrantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Las decisiones del Comité serán tomadas por mayoría de votos del total de sus integrantes, el presidente decidirá en caso de empate.
 
 > <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2004)</small>
 
@@ -125,9 +165,13 @@ Los integrantes del Comité podrán invitar a funcionarios internos y auxiliarse
 
 ### CAPÍTULO PRIMERO. REGLAS COMUNES DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 8.
 
-El acto de recepción de propuestas se verificará en el lugar y tiempo que determine el Comité, según la convocatoria aprobada por la Comisión, quedando excluido de toda participación el proveedor que no se apegue a estas condiciones.
+El acto de recepción de propuestas se verificará en el lugar y tiempo que determine el Comité, quedando excluido de toda' participación el proveedor que no se apegue a estas condiciones y la convocatoria respectiva.
 
 ###### ARTÍCULO 9.
 
@@ -179,9 +223,13 @@ Para los efectos del artículo 86 de la Ley, se entenderán como personas intere
 
 La sustanciación de las inconformidades a que se refiere el Capítulo XIV de la Ley, se realizará ante la Comisión en su carácter de órgano de control interno. En caso de que la Comisión no resuelva, la resolución se sujetará al Pleno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 19.
 
-Los aspectos no previstos en la Ley, este reglamento y las convocatorias respectivas serán resueltos por la Comisión, asegurando en todo caso las mejores condiciones en cuanto a precios, calidad, financiamiento, oportunidad y demás' elementos que beneficien al Poder Legislativo y no implique favorecer a un proveedor participante en demérito de otros.
+Los aspectos no previstos en la ley, este reglamento y las convocatorias respectivas serán resueltos por el Comité, asegurando en todo caso las mejores condiciones en cuanto a precios, calidad y financiamiento, oportunidad y demás elementos que beneficien al Poder Legislativo y no implique favorecer a un proveedor participante en demérito de otros y en estricto apego al marco legal.
 
 ## TÍTULO CUARTO. DEL PADRÓN DE PROVEEDORES
 
@@ -264,3 +312,9 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 9 DE ABRIL DE 2004.
 
 PRIMERO.- Este Decreto entrará en vigor a partir de su aprobación por el Pleno de la LIV Legislatura del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 26 de septiembre del año 2006, ordenándose su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro la "Sombra de Arteaga".
