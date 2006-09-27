@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2006-04-28"
+last_updated: "2006-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -197,19 +197,25 @@ Si la información o documentación a que se refiere el párrafo anterior no fue
 
 I. Sufrir el diputado, su cónyuge o alguno de sus parientes consanguíneos hasta el segundo grado, en línea recta o colateral, accidente de cualquier naturaleza que ponga en peligro la vida o la integridad física;
 
-II. Padecer el diputado enfermedad que impida el desempeño normal y adecuado de sus facultades y funciones ante la Legislatura, o padecerla gravemente su cónyuge o alguno de sus parientes sin limitación de grado en línea recta o en segundo grado en la colateral;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+II. Padecer el diputado enfermedad que impida el desempeño normal y adecuado de sus facultades y funciones ante la Legislatura, o padecerla gravemente su cónyuge o alguno de sus parientes hasta segundo grado en línea recta o colateral;
 
 III. Fallecer el cónyuge del diputado o alguno de sus parientes consanguíneos hasta el segundo grado, en línea recta o colateral;
 
-IV. Ocurrir en el lugar donde habitualmente radique el diputado, algún desastre natural o circunstancia grave que impida su traslado a la residencia del Poder Legislativo; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+IV. Ocurrir en el lugar donde habitualmente radique el diputado, algún desastre natural o circunstancia grave que impida su traslado al recinto oficial donde se verifique la sesión; y
 
-V. Atender con el carácter de diputado, compromisos oficiales de carácter legislativo, de representación de la Legislatura, de Comisiones, ya sea ordinaria, de Grupo Parlamentario o Fracción Parlamentaria que por su naturaleza tengan prioridad, u otros asuntos de carácter personal justificados, a criterio del presidente de la Legislatura.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+V. Atender con el carácter de diputado compromisos oficiales de carácter legislativo, de representación de la Legislatura, de Comisiones, de Grupo Parlamentario o Fracción Parlamentaria que por su naturaleza tengan prioridad u otros asuntos de carácter personal justificados.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 12.
 
-(Justificación de inasistencias) Los diputados podrán, en forma previa o posterior, solicitar justificación de falta para no asistir a una sesión de la Legislatura o de sus órganos, incorporarse después de iniciada o separarse de ella, mediante escrito con firma autógrafa en el que se expresarán y acreditarán las causas en que se funde. La autorización será valorada y en su caso concedida por el presidente de la Legislatura con acuerdo de la Mesa Directiva o del órgano correspondiente.
+(Justificación de Inasistencias) Los diputados podrán, en forma previa o dentro de los tres días hábiles siguientes de celebrada la sesión, solicitar justificación de falta para no asistir a una sesión de la Legislatura o de sus órganos, incorporarse después de iniciada o separarse de ella, mediante escrito con firma autógrafa en el que se expresarán y acreditarán las causas en que se funde. La autorización será valorada y en su caso concedida por el presidente de la Legislatura con acuerdo de la Mesa Directiva o por el presidente del órgano correspondiente con acuerdo de sus integrantes.
 
 ###### Artículo 13.
 
@@ -217,11 +223,15 @@ V. Atender con el carácter de diputado, compromisos oficiales de carácter legi
 
 I. Se considerará ausente de la sesión el diputado que no esté presente en cualquiera de los siguientes momentos: al pasarse lista cuando inicie la sesión; cuando en el curso de la misma se hubiere reclamado el quórum, o cuando se verifique una votación nominal y no se encuentre presente.
 
-II. Al día hábil siguiente de la fecha en que se verifique la inasistencia, se acordará el descuento respectivo y lo comunicará a la Tesorería con el objeto de que se aplique.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+II.- En la sesión inmediata posterior de Mesa Directiva o del órgano correspondiente en que se haya verificado la inasistencia, se acordará el descuento respectivo y lo comunicará a la Tesorería con el objeto de que se aplique.
 
 Sólo podrá aplicarse un descuento a cada diputado por cada sesión del Pleno o de los órganos a que faltare, en los términos del presente artículo.
 
-Se fijará una sanción genérica para el caso de los retardos, y una para el caso de las inasistencias.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Al diputado que no asista a la sesión de Pleno de la Legislatura se le aplicará como sanción un descuento correspondiente a un día de dieta; cuando la inasistencia se presente en sesión de cualquier órgano de la Legislatura el descuento será lo correspondiente al cincuenta por ciento de un día de dieta. La Mesa Directiva o los órganos correspondientes fijarán la sanción en los casos de retardos, la cual no podrá ser mayor que para el caso de inasistencia.
 
 ###### Artículo 14.
 
@@ -287,7 +297,9 @@ VIII. La Comisión Instructora.
 
 (Dependencias) Son dependencias del Poder Legislativo:
 
-I. La Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+I. La Entidad Superior de Fiscalización del Estado;
 
 II. La Oficialía Mayor;
 
@@ -1009,7 +1021,7 @@ Las adecuaciones podrán suprimir fragmentos de la iniciativa, hacer variaciones
 
 ###### Artículo 91.
 
-(Vista al autor) Las Comisiones deberán comunicar al autor de la iniciativa, las modificaciones que se acordaran en el dictamen respectivo, informándolo al Pleno para los efectos de lo dispuesto en la Constitución Política del Estado.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -1189,7 +1201,9 @@ IV. Tener el resguardo y archivo de los asuntos concernientes a su dependencia;
 
 V. Rendir ante las Comisiones de Planeación y Presupuesto y de Vigilancia cuantos informes y documentos le requiera sobre su gestión;
 
-VI. Elaborar los informes de cuenta pública del Poder Legislativo y remitirlos a la Contaduría Mayor de Hacienda y a la Comisión de Vigilancia para su conocimiento;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+VI. Elaborar los informes de cuenta pública del Poder Legislativo y remitirlos a la Entidad Superior de Fiscalización del Estado y a la Comisión de Vigilancia para su conocimiento;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -1267,23 +1281,27 @@ XIV. Auxiliar a las Comisiones Ordinarias, participar y colaborar en la elaborac
 
 XV. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y las demás disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 5ª SECCIÓN
 
-CONTADURÍA MAYOR DE HACIENDA
+ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 114.
 
-(Función y ubicación orgánica) La Contaduría Mayor de Hacienda es la dependencia del Poder Legislativo que asesora técnicamente a las Comisiones tanto de Hacienda, como de Planeación y Presupuesto, dependiendo jerárquicamente de la primera.
+(Función y ubicación orgánica) La Entidad Superior de Fiscalización del Estado es la dependencia del Poder Legislativo que asesora técnicamente a las Comisiones tanto de Hacienda, como de Planeación y Presupuesto, dependiendo jerárquicamente de la primera.
 
 Por medio de estas comisiones el Poder Legislativo ejecuta el cumplimiento de sus facultades en materia hacendaría, de fiscalización, y control de la Administración pública centralizada y descentralizada estatal y municipal, así como de los organismos públicos autónomos.
 
 Su conformación, funcionamiento y facultades se regularán por su Ley Orgánica y las demás disposiciones legales.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 115.
 
-(Requisitos) Para ser titular de la Contaduría Mayor de Hacienda se requiere poseer título a nivel de licenciatura en contaduría pública, administración, derecho o materia afín a las funciones, con experiencia comprobada de al menos cinco años en el ámbito profesional, ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas.
+(Requisitos) Para ser titular de la Entidad Superior de Fiscalización del Estado se requiere reunir los requisitos que establece el artículo 47 de la Constitución Política del Estado libre y Soberano de Querétaro Arteaga.
 
 6ª SECCIÓN
 
@@ -1497,7 +1515,9 @@ VIII. Asegurar a los trabajadores, el ejercicio de los derechos que les reconoce
 
 (Cómputo de los plazos) Los plazos a que se refiere esta ley, se computarán por días hábiles, a partir del día siguiente en que se comuniquen, salvo disposición expresa en contrario.
 
-La recepción de documentos se realizará por la oficialía de partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Fuera de estos casos, el presidente de la Legislatura podrá habilitar días y horas hábiles distintos a los señalados. Los documentos que no fueren recibidos por conducto de esta área, se tendrán por no presentados ante el Poder Legislativo.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+La recepción de documentos se realizará por la oficialía de partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas, exceptuándose los periodos vacacionales autorizados por la Mesa Directiva o Comisión Permanente y los días señalados de asueto por las leyes de la materia y los convenios sindicales. Fuera de estos casos, el presidente de la Legislatura podrá habilitar días y horas distintos a los señalados. Los documentos que no fueren recibidos por conducto de esta área, se tendrán por no presentados ante el Poder Legislativo.
 
 ###### Artículo 137.
 
@@ -1619,15 +1639,15 @@ Cuando en una misma iniciativa se propongan reformas a diversos ordenamientos y 
 
 (Reasignación de iniciativas) El presidente de la Legislatura podrá reasignar iniciativas para estudio y dictamen de una Comisión distinta a la que conozca de éstas, por inactividad legislativa de tres meses o más. En este caso, el presidente de la Legislatura solicitará a la Comisión respectiva, rinda un informe sobre el particular, a más tardar en cinco días hábiles a partir de recibir el requerimiento, a fin de determinar lo conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 152.
 
-(Notificación de Adecuaciones o rechazo de la iniciativa) Cuando un dictamen proponga adecuaciones a la iniciativa o ésta última sea rechazada por la Legislatura, se notificará de ello al autor que la hubiere propuesto, en el domicilio oficial de la autoridad o en el que se señale en el escrito inicial, cuando se trate de particulares.
+(Notificación del rechazo de la iniciativa) Cuando un dictamen sea rechazado por la Legislatura, se notificará de ello al autor que la hubiere propuesto, en el domicilio oficial de la autoridad o en el que se señale en el escrito inicial, cuando se trate de particulares.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-Si el autor es un diputado, se entenderá notificado con su sola asistencia a la sesión en que se dé cuenta de las adecuaciones o se apruebe el rechazo.
+Si el autor es un diputado, se entenderá notificado con su sola asistencia a la sesión en que se apruebe el rechazo.
 
 Si el autor ya no ejerciera el cargo en cuyo ejercicio presentó la iniciativa, la notificación se realizará a la institución en la cual lo desempeñó.
 
@@ -1651,6 +1671,8 @@ IV. En caso de que alguno de los diputados presentes en la sesión quisiera inte
 
 V. Una vez aprobados los dictámenes, se continuará con su trámite.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 155.
 
 (Trámite de los dictámenes) El trámite a que se sujetarán los dictámenes que se presenten ante el Pleno, será el siguiente:
@@ -1659,7 +1681,7 @@ I. El Presidente de la Legislatura, verificará que el dictamen a discutirse, ya
 
 II. Si el dictamen propone aprobar la iniciativa sin modificaciones y el Pleno lo aprueba, se turnará a la Comisión de Redacción y Estilo para los efectos previstos en esta Ley;
 
-III. Si el dictamen propone aprobar la iniciativa con modificaciones, se estará a lo dispuesto en la Constitución Política del Estado y en esta ley;
+III. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2006)
 
 IV. Si el dictamen propone aprobar la iniciativa sin modificaciones y el Pleno lo rechaza, se ordenará su archivo, salvo que éste acuerde instruir a la Comisión para que emita un nuevo dictamen, señalándole el sentido de la modificación;
 
@@ -2119,55 +2141,83 @@ VI. Solicitar la presencia de la fuerza pública dentro del recinto legislativo,
 
 Por excepción y por acuerdo de la presidencia de la Comisión Instructora, podrán habilitarse días y horas distintas a las enunciadas en esa disposición.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 215.
 
-(Contenido y anexos a la denuncia o solicitud) En el procedimiento de juicio político, el promovente acompañará a la denuncia, copia de una identificación oficial, preferentemente de su credencial para votar y los elementos de prueba que ofrezca. En la denuncia detallará los hechos que a su criterio sean constitutivos de cualquiera de las conductas previstas en el artículo aplicable de la Ley de Responsabilidades de los Servidores Públicos.
+(Contenido y anexos a la denuncia o solicitud) En el procedimiento de juicio político, el promovente acompañará a la denuncia, copia de una identificación oficial, preferentemente de su credencial para votar y los elementos de prueba que ofrezca, además de los requisitos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro. En la denuncia detallará los hechos que a su criterio sean constitutivos de cualquiera de las conductas previstas en el artículo aplicable de la Ley antes citada.
 
 Tratándose de declaración de procedencia, el Ministerio Público hará la solicitud remitiendo a la Legislatura, copia certificada de la averiguación previa y demás constancias que la integren.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 216.
 
-(Ratificación) Una vez presentada la denuncia de juicio político en la Oficialía de Partes, se dará aviso al secretario de la Comisión Instructora, quien solicitará a la Dirección de Asuntos Legislativos y Jurídicos notifique al denunciante el día y hora para la ratificación ante aquel, dentro de los cinco días hábiles siguientes.
+(Ratificación) Una vez presentada la denuncia de juicio político en la Oficialía de Partes, se dará aviso al secretario de la Comisión Instructora, quien solicitará a la Dirección de Asuntos Legislativos y Jurídicos notifique, al día hábil siguiente, al denunciante el día y hora para la ratificación ante aquél, la cual se verificará dentro de los cinco días hábiles siguientes a dicha notificación.
 
 En el caso de la solicitud de declaración de procedencia no se requerirá de ratificación por parte del Ministerio Público.
 
 La notificación al denunciante se hará en el domicilio señalado en su escrito de denuncia; en caso de no haberse señalado domicilio, o si el señalado no corresponde al del promoverte o no se encontrará localizado en la ciudad de Querétaro, las notificaciones se harán mediante los estrados de la Dirección de Asuntos Legislativos y Jurídicos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+Si la denuncia no es ratificada, se tendrá por no interpuesta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 217.
 
-(Turno a la Comisión Instructora) Ratificada la denuncia de juicio político ante o recibida la solicitud de declaración de procedencia, el director de Asuntos Legislativos y Jurídicos turnará al presidente y secretario de la Comisión Instructora, copia del escrito de denuncia y de los anexos que lo acompañen.
+(Turno a la Comisión Instructora) Ratificada la denuncia de juicio político ante o recibida la solicitud de declaración de procedencia, el director de Asuntos Legislativos y Jurídicos turnará al presidente y secretario de la Comisión Instructora, copia del escrito de denuncia y de los anexos que lo acompañen, en un plazo no mayor de tres días hábiles.
 
 Los documentos que no fuere posible fotocopiar, estarán a disposición para consulta de los integrantes de la Sección Instructora, en el archivo de la Dirección.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 218.
 
 (Auto de recepción) El secretario de la Comisión Instructora, el mismo día que reciba la documentación a que se refiere el artículo anterior, levantará constancia en la que hará constar:
 
-I. Las fechas de recibido por la oficialía de partes y por la Presidencia de la Comisión Instructora, y
+I.- Las fechas de recibido por la oficialía de partes y por la Presidencia de la Comisión Instructora,
 
-II. La relación de la documentación que se acompaña.
+II.- La fecha en que fue ratificada la denuncia, para el caso de juicio político; y
+
+III.- La relación de la documentación que se acompaña.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 219.
 
 (Primera convocatoria a la Comisión Instructora) Emitida la constancia, se comunicará al presidente de la Comisión Instructora, quien deberá convocar a los integrantes de la misma dentro de los quince días hábiles siguientes para resolver sobre la incoación o no del procedimiento.
 
+En contra de esta determinación no se admitirá recurso alguno.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 220.
 
 (Auto de incoación) El auto de incoación deberá estar debidamente motivado y fundado y contendrá un apartado de antecedentes, considerandos y resolutivos.
 
-A partir del auto de incoación se contarán los plazos a que se refiere la Ley de Responsabilidades de los Servidores Públicos.
+A partir del auto de incoación se contará el plazo previsto en la última parte del párrafo primero del artículo 101 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+
+La denuncia será desechada de plano cuando no presente medios de prueba, teniendo como plazo para exhibirlas hasta el momento de la ratificación de la denuncia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 221.
 
-(Notificación de la incoación) De incoarse el procedimiento, se ordenará la notificación al denunciado o inculpado, entregándole copia de la denuncia o solicitud y documentos anexos y emplazándolo para que comparezca personalmente o a través de su defensor y por escrito, dentro del plazo de siete días hábiles contados a partir de la notificación, a efecto de manifestar lo que su derecho convenga en relación con los hechos que se le imputen.
+(Notificación de la incoación) De incoarse el procedimiento, se ordenará dentro de los tres días hábiles siguientes la notificación al denunciado o inculpado, entregándole copia de la denuncia o solicitud y documentos anexos y emplazándolo para que comparezca personalmente o a través de su defensor y por escrito, la cual se llevará acabo una vez transcurridos siete días hábiles contados a partir de la notificación, a efecto de manifestar lo que su derecho convenga en relación con los hechos que se le imputen y ofrecer las pruebas que a su interés convenga, relacionándolas con los hechos controvertidos.
 
-La no comparecencia injustificada del denunciado o inculpado, hará que se le tenga por confeso de los hechos y conductas que se le atribuyen.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+La no comparecencia injustificada del denunciado o inculpado, hará que se le tenga por confeso de los hechos y conductas que se le atribuyen, salvo prueba en contrario.
 
 En relación con la declaración de procedencia, la Comisión Instructora podrá realizar todas las diligencias y solicitar los medios de prueba necesarios para valorar las conductas motivo de la causa, la probable responsabilidad del inculpado y constatar que éste se encuentre considerado en el artículo 98 de la Constitución Política del Estado, para emitir el dictamen respectivo.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 222.
 
-(Apertura de la instrucción) Recibida la comparecencia del denunciado o inculpado o agotado el plazo para que ésta se lleve a cabo, el secretario de la Comisión Instructora, por acuerdo de su presidente, emitirá auto de apertura del período de instrucción en el que se admitirán o desecharán las pruebas y se señalarán las fechas para aquellas que requieran desahogo.
+(Apertura de la instrucción) Recibida la comparecencia del denunciado o inculpado o agotado el plazo para que ésta se lleve a cabo, el secretario de la Comisión Instructora, por acuerdo de su presidente emitirá auto de apertura del período de instrucción en el que se admitirán o desecharán las pruebas y se señalarán las fechas para aquéllas que requieran desahogo, en los términos y plazos que marca la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 223.
 
@@ -2175,13 +2225,19 @@ En relación con la declaración de procedencia, la Comisión Instructora podrá
 
 La oportunidad para presentar alegatos dentro del juicio o procedimiento, hará las veces de la audiencia del inculpado.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 224.
 
-(Turno a Pleno) Expresados los alegatos o transcurrido el plazo para expresarlos, la Comisión Instructora sesionará las veces que sean necesarias para emitir sus conclusiones en relación a la denuncia de juicio político o el dictamen relativo a la declaración de procedencia, y se turnarán al presidente de la Legislatura para que convoque a sesión del Pleno que deberá celebrarse en un plazo no mayor a 10 días hábiles contados a partir de cerrarse el plazo para formular alegatos, a efecto de su discusión y votación, ajustándose a las reglas aplicables a los debates y las votaciones y a lo dispuesto por la Constitución del Estado.
+(Turno a Pleno) Expresados los alegatos o transcurrido el plazo para expresarlos, la Comisión Instructora sesionará las veces que sean necesarias para emitir sus conclusiones en relación a la denuncia de juicio político o el dictamen relativo a la declaración de procedencia en base a las disposiciones que establece la Ley de Responsabilidad de los Servidores Públicos del Estado de Querétaro. En caso de que las conclusiones sean acusatorias se turnarán al presidente de la Legislatura para que convoque a sesión del Pleno que decida mayoría absoluta de los diputados presentes, erigirse en órgano de acusación que deberá celebrarse en un .plazo no mayor a 30 días hábiles contados a partir de cerrarse el plazo para formular alegatos el cual se podrá prorrogar por causa justificada, a efecto de su discusión y votación, ajustándose a las reglas aplicables a los debates y las votaciones y a lo dispuesto por la Constitución del Estado.
+
+Para el caso en que las conclusiones sean absolutorias, se ordenará el archivo del expediente como asunto totalmente concluido a la Dirección de Asuntos Legislativos y Jurídicos.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 225.
 
-(Notificación de la resolución definitiva) La resolución definitiva que el Pleno acuerde, será notificada al Ministerio Público, al inculpado o al Tribunal Superior de Justicia, en lo conducente.
+(Notificación de la resolución definitiva) La resolución definitiva que el Pleno acuerde, será notificada a las partes, al Ministerio Público o al Tribunal Superior de Justicia, en lo conducente.
 
 ###### Artículo 226.
 
@@ -2239,7 +2295,11 @@ c) En contra de los dictámenes de las Comisiones, emitidos en su función legis
 
 d) Actos o resoluciones emitidos por la Legislatura;
 
-e) Actos o resoluciones emitidos por la Comisión Permanente en cumplimiento de sus facultades constitucionales y legales.
+e) Actos o resoluciones emitidos por la Comisión Permanente en cumplimiento de sus facultades constitucionales y legales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+f) Cualquier determinación en el trámite de Juicio Político y Declaración de Procedencia.
 
 En estos casos y en cualquier tiempo, se desechará o sobreseerá de plano el recurso.
 
@@ -2532,3 +2592,13 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día de su aprobación por el Pleno, se ordena su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
