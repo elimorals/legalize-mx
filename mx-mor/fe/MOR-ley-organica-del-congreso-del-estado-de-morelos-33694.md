@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2006-05-31"
+last_updated: "2006-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -735,7 +735,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 11. Industria, Comercio y Servicios.
 
-12. Salud, Deporte y Bienestar Social.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+12. Salud.
 
 13. Desarrollo Agropecuario.
 
@@ -758,6 +760,10 @@ Las Comisiones Ordinarias serán las siguientes:
 22. Turismo.
 
 23. Asuntos migratorios.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+24. Asuntos del Deporte.
 
 Y las demás que la Legislatura determine.
 
@@ -937,15 +943,17 @@ II. Conocer y hacer recomendaciones respecto de las modificaciones o adiciones d
 
 III. (DEROGADA, P.O. 25 DE FEBRERO DE 2004)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 60.
 
-La Comisión de Salud, Deporte y Bienestar Social será competente para:
+La Comisión de Salud será competente para:
 
 I. Conocer los asuntos relacionados con la prestación de los servicios de salud, así como la calidad de vida de los morelenses;
 
 II. En el ámbito de la competencia estatal, dictaminar sobre la legislación en materia de salud, vivienda y asistencia social;
 
-III. Conocer de los programas deportivos que coadyuven al mejoramiento de la salud de los morelenses; y
+III. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
 
@@ -1112,6 +1120,22 @@ III. Atender y dar seguimiento ante las instancias públicas Federal, Estatal y 
 IV. Realizar foros y estudios sobre las causas de migración de los morelenses y proponer las medidas para la atención de éstas; y
 
 V. Todos aquellos asuntos en la materia que le sean turnados.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 66 Bis 6.
+
+Corresponde a la Comisión de Asuntos del Deporte:
+
+I.- Presentar y dictaminar las iniciativas relativas al fortalecimiento de actividades deportivas en el Estado;
+
+II.- Conocer y emitir recomendaciones sobre los diversos programas deportivos que coadyuven al mejoramiento del deporte del Estado de Morelos;
+
+III.- Impulsar las acciones que conlleven a la realización de planes y programas tendientes a promover el deporte de alto rendimiento en Morelos;
+
+IV.- Implementar e impulsar foros que involucren a las diversas instituciones, asociaciones, ligas y demás organismos que promueven el deporte en el Estado con el objeto de mejorar su organización y estructura; y
+
+V.- Presentar y dictaminar las iniciativas relativas a la comisión; (sic)
 
 ### CAPÍTULO IV. DE LOS COMITÉS DEL CONGRESO DEL ESTADO
 
@@ -1516,3 +1540,9 @@ P.O. 31 DE MAYO DE 2006.
 PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+SEGUNDO. Remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
