@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2006-07-21"
+last_updated: "2006-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -811,9 +811,11 @@ La base del derecho por servicio de alumbrado público será el resultado de sum
 
 Se define el valor de los coeficientes así:
 
-COEFICIENTE VALOR DEL COEFICIENTE EXPRESADO
+COEFICIENTE VALOR DEL COEFICIENTE
 
-EN DÍAS DE SALARIO MÍNIMO
+EXPRESADO EN DÍAS DE
+
+SALARIO MÍNIMO
 
 A 0.2
 
@@ -1383,6 +1385,10 @@ Por toda multa que se hiciere efectiva, se expedirá el correspondiente recibo o
 
 Los presidentes municipales o los encargados de las finanzas públicas municipales podrán reducir, hasta un cien por ciento, el importe de las multas impuestas por autoridades municipales.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+
+En los casos que la persona acredite haber ejercido su prerrogativa de votar en la elección inmediata anterior, se le hará un descuento de un día de salario mínimo vigente en la zona del monto total de la multa, adicional, incluso, a cualquier otro beneficio.
+
 ### CAPÍTULO TERCERO. GASTOS DE EJECUCIÓN
 
 ###### Artículo 147.
@@ -1654,3 +1660,7 @@ Se derogan todas las disposiciones legales de igual o menor jerarquía a la pres
 ###### ARTÍCULO TERCERO.
 
 Los municipios, en la recaudación fiscal, cumplirán con la presente reforma y lo informarán a la Legislatura, en la primera cuenta pública inmediata siguiente a la entrada en vigor de la presente Ley.
+
+P.O. 27 DE SEPTIEMBRE DE 2006.
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
