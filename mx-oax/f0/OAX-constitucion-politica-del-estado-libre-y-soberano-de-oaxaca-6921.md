@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2006-09-09"
+last_updated: "2006-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2006.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -455,6 +455,8 @@ La imposición de las penas es propia y exclusiva de la autoridad judicial. La i
 
 Compete a la Autoridad Administrativa la aplicación de las sanciones por las infracciones a los reglamentos gubernativos y de Policía.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 22.
 
 Son obligaciones de los habitantes del Estado:
@@ -473,7 +475,7 @@ IV. Cooperar en la Campaña de Alfabetización.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-## TITULO SEGUNDO. Del Orden Público
+## TITULO SEGUNDO. De los Ciudadanos, de las Elecciones, de los Partidos Políticos, de los Organismos y de los Procesos Electorales
 
 ###### ARTICULO 23.
 
@@ -523,53 +525,77 @@ IV.- Alistarse en la guardia nacional para la defensa del territorio y de las in
 
 V.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a que pertenecen, sobre todo en caso de catástrofes, terremotos, inundaciones, incendios, etc., que implican una solidaridad voluntaria y moral a este fin.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 25.
 
-Las elecciones son actos de interés público. Su organización y desarrollo es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, denominado Instituto Estatal Electoral. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad son sus principios rectores.
+El sistema electoral del Estado, se regirá por las siguientes bases:
 
-En la integración del Instituto Estatal Electoral participan el Poder Legislativo, los partidos políticos y la ciudadanía, en los términos que dispone la ley aplicable.
+A. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+Las elecciones son actos de interés público. Su organización y desarrollo estarán a cargo del órgano electoral.
 
-El Instituto Estatal Electoral será autoridad de la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Organo Superior de dirección es el Consejo General, el cual estará integrado por un consejero presidente y consejeros electorales propuestos por las fracciones parlamentarias y designados por el Congreso del Estado, así como representantes nombrados por los partidos políticos, en los términos que disponga la ley. Los órganos ejecutivos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las mesas directivas de casilla estarán integradas por ciudadanos. Los órganos de vigilancia se integrarán mayoritariamente por los representantes de los partidos políticos.
+I.- Las elecciones de Diputados Locales, Gobernador del Estado y Concejales de los Ayuntamientos, según cada caso, serán concurrentes con las elecciones federales;
 
-El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las facultades relativas a la preparación de la jornada electoral, la realización de cómputos y el otorgamiento de constancias, la capacitación electoral, educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
+II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos;
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+III.- La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que deban imponerse;
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán el Instituto Estatal Electoral, el Tribunal Estatal Electoral y el Congreso del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. La ley fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad, en las etapas de los procesos electorales.
+IV.- La les establecerá y reglamentará los medios de participación ciudadana; y
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+V.- Las mesas directivas de casilla estarán integradas por ciudadanos, en los términos previstos por la ley.
 
-El Tribunal Estatal Electoral es un órgano público dotado de plena autonomía en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; y es máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
+B. DE LOS PARTIDOS POLITICOS
 
-El Tribunal Estatal Electoral tendrá la competencia que determine la Ley y conocerá de los recursos y medios de impugnación que en materia electoral se encuentren previstos en esta Constitución y en la Ley. Las resoluciones del Tribunal serán obligatorias y definitivas.
+Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales estará determinada y garantizada por la ley.
 
-El Tribunal Estatal Electoral se integrará con tres magistrados numerarios y tres supernumerarios que serán designados por el Congreso del Estado mediante el voto de las dos terceras partes de los miembros presentes en la sesión correspondiente, de entre una lista de candidatos propuesta por el Tribunal Superior de Justicia del Estado emanada de miembros de la judicatura estatal, de conformidad con lo dispuesto por la ley.
+I.- Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos;
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+II.- Los partidos políticos recibirán, de acuerdo con las disponibilidades presupuestales, en forma equitativa, financiamiento público para su sostenimiento y contarán, durante los procesos electorales, con apoyos para sus actividades de promoción de candidaturas a cargos de elección popular y de fomento del sufragio. Los fondos del financiamiento público, bajo ninguna circunstancia podrán aplicarse a la promoción de precandidatos dentro de los procedimientos internos de selección;
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+III.- Los partidos políticos registrarán fórrmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional. La ley establecerá los medios para garantizar una efectiva equidad de género e impedir la discriminación;
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos públicos de elección del Estado de Oaxaca y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+IV.- La ley establecerá las reglas a las que se sujetarán el financiamiento, el acceso equitativo a los medios de información y las campañas electorales.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+La contratación de los medios de información, se hará por conducto del Instituto Estatal Electoral, en los términos que la ley establezca;
 
-Los partidos políticos recibirán, de acuerdo con las disponibilidades presupuestales, en forma equitativa, financiamiento público para su sostenimiento y contarán durante los procesos electorales con apoyos para sus actividades tendientes a la promoción del sufragio popular. La ley establecerá las reglas a que sujetarán su financiamiento, su acceso a los medios de comunicación social en condiciones de equidad y sus campañas electorales.
+V.- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, los montos máximos de las aportaciones pecuniarias de sus militantes y simpatizantes, así como los procedimientos para el control y vigilancia de origen y uso de todos los recursos con que cuenten, estableciendo las sanciones por el incumplimiento de estas disposiciones y de los reglamentos correspondientes;
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1997)</small>
+VI.- El periodo de campaña electoral para Gobernador, tendrá una duración máxima de noventa días, para Diputados sesenta días y para Concejales Municipales por el régimen de partidos políticos, treinta días;
 
-La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; establecerá, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+VII.- La duración de los procesos internos de los partidos políticos para la selección de precandidatos, será regulada por la ley, considerando los plazos para el registro formal de candidaturas; y
 
-La elección del Poder Legislativo, así como la de los Ayuntamientos, tendrá lugar en la fecha que determine la ley electoral respectiva.
+VIII.- Se prohíbe el uso de propaganda electoral que impacte negativamente al medio ambiente. Las modalidades para el uso de la propaganda electoral, serán reguladas por las leyes.
 
-La ley protegerá las tradiciones y prácticas democráticas de las comunidades indígenas, que hasta ahora han utilizado para la elección de sus Ayuntamientos.
+Las leyes respectivas sancionarán la contravención a las disposiciones contenidas en este artículo.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1997)</small>
+C. DEL INSTITUTO ELECTORAL
 
-La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+La organización y desarrollo de las elecciones, es una función estatal que realiza el organismo público de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones, con personalidad jurídica y patrimonio propios, denominado Instituto Estatal Electoral. El ejercicio de sus funciones se sujetará a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
+
+I.- El Instituto Estatal Electoral será autoridad en la materia y profesional en su desempeño. Su estructura contará con órganos de dirección, ejecutivos, técnicos, de vigilancia y de fiscalización. En la integración de sus diversos órganos, se dispondrá de personal profesionalizado o capacitado en la materia;
+
+II.- El Órgano Superior de dirección es el Consejo General, el cual estará integrado por un consejero presidente y seis consejeros electorales, con derecho a voz y voto, elegidos por el Congreso del Estado, mediante el voto aprobatorio de la dos terceras partes de sus integrantes; así como por representantes nombrados por los partidos políticos, en los términos que disponga la ley;
+
+III.- El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las facultades relativas a la capacitación electoral, la educación cívica, la impresión de materiales electorales, la preparación de la jornada electoral, la realización de cómputos, la calificación, y en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley; y
+
+IV.- El Instituto Estatal Electoral tendrá a su cargo las funciones de fiscalización de los recursos estatales otorgados a los partidos políticos. Para tal efecto, podrá celebrar convenios de colaboración.
+
+D. DE LOS MEDIOS DE IMPUGNACION
+
+La ley establecerá un sistema de medios de impugnación de los que conocerán el Instituto Estatal Electoral y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los proceso electorales y garantizará que los actos y resoluciones electorales, se sujeten invariablemente a los principios de legalidad y constitucionalidad. La ley fijará los plazos para promover los medios de impugnación.
+
+E. DEL TRIBUNAL ESTATAL ELECTORAL
+
+El Tribunal Estatal Electoral es un órgano del Poder Judicial de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones. Es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
+
+I.- El Tribunal Estatal Electoral conocerá de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de usos y costumbres, así como de todas las demás controversias que determine la ley respectiva;
+
+II.- Las resoluciones del Tribunal serán definitivas e inatacables en el ámbito local;
+
+III.- El Tribunal Estatal Electoral está integrado por tres magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, de una lista por ternas para propietarios y suplentes, propuesta por el Tribunal Superior de Justicia del Estado. La ley determinará el proceso de selección, previa convocatoria y examen por oposición.
+
+Los magistrados del Tribunal Estatal Electoral deberán reunir los mismos requisitos que los magistrados del Tribunal Superior de Justicia y durarán en su encargo cuatro años, pudiendo ser reelectos por una sola vez.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
 
@@ -663,9 +689,9 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por el sistema de usos y costumbres, se observará lo dispuesto por el penúltimo párrafo del artículo 25 de esta Constitución y la Legislación Reglamentaria. No habrá autoridad intermedia entre éstos y el Gobierno del Estado.
+La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por el sistema de usos y costumbres, se observará lo dispuesto por el artículo 25, apartado A, fracción II, de esta Constitución y la Legislación reglamentaria. No habrá autoridad intermedia entre éstos y el Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
@@ -715,9 +741,9 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Los partidos políticos tendrán derecho a que les sean reconocidos hasta veinticinco diputados, sumando los electos por mayoría relativa y por representación proporcional, y
+V.- Los partidos políticos tendrán derecho a que les sean asignados los Diputados que obtengan por mayoría relativa; pero, en su caso, ningún partido podrá tener más de veintidós Diputados considerando ambos principios; y
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
@@ -793,13 +819,9 @@ Serán diputados electos al Congreso del Estado los candidatos a diputados que o
 
 La Diputación Permanente de la Legislatura saliente, en funciones de Comisión instaladora, procederá a la instalación de la Legislatura electa en la fecha señalada en el artículo 41 de esta Constitución.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE MAYO DE 1995)</small>
-
 ###### ARTICULO 40.
 
-Las resoluciones que dicte el Tribunal Estatal Electoral respecto de la validez o nulidad de las constancias de mayoría o de asignación proporcional que hubieren sido otorgadas a los candidatos a diputados al Congreso Local, así como respecto de la elegibilidad de dichos candidatos, serán definitivas e inatacables. El Tribunal informará al Instituto Estatal Electoral el contenido de sus resoluciones a fin de que este último expida las constancias que corresponda.
-
-Ese mismo carácter tendrán las resoluciones del Congreso del Estado erigido en Colegio Electoral respecto a la elección de Gobernador y Ayuntamientos (sic) en los términos establecidos por la ley reglamentaria.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2006)
 
 (REUBICADA, P.O. 13 DE MAYO DE 1995)
 
@@ -969,9 +991,9 @@ IV. Iniciar leyes y decretos ante el Congreso de la Unión;
 
 V. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-VI. Calificar las elecciones de los Ayuntamientos;
+VI. Elegir al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1065,13 +1087,13 @@ XXVI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas q
 
 XXVII. Emitir el Decreto correspondiente para que el Instituto Estatal Electoral convoque a elecciones de Gobernador, Diputados y Ayuntamientos en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-XXVIII. Conocer y declarar las elecciones a Diputados, Gobernador y concejales de los Ayuntamientos y emitir el Decreto correspondiente;
+XXVIII. Ratificar los nombramientos de Magistrados del Tribunal Superior de Justicia y elegir a los Magistrados del Tribunal Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-XXIX. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine esta Constitución. Conocer de la ratificación de los nombramientos de magistrados del Tribunal Superior de Justicia;
+XXIX. Designar al Gobernador sustituto o interino en los casos determinados por esta Constitución. La determinación respectiva se exceptúa de las competencias del Instituto Estatal Electoral y del Tribunal Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1295,11 +1317,11 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 67.
 
-La elección del Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del estado, en los términos de la Ley Electoral. La Legislatura del Estado hará la computación de votos y su calificación y declarará electo al ciudadano que hubiere obtenido el mayor número de votos, haciéndolo saber al pueblo del estado por medio de un decreto, mediante Bando Solemne.
+La elección del Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Ley Electoral. El Instituto Estatal Electoral hará el cómputo final de la elección, la calificación y en su caso la declaración de validez, expedirá la constancia de mayoría y formulará la declaratoria de Gobernador Electo, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -1493,9 +1515,9 @@ XIX. Celebrar convenios con el Gobierno Federal o con los ayuntamientos para coo
 
 XX. Conceder licencia a funcionarios y empleados;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-XXI. Convocar a elecciones extraordinarias de Diputados, cuando haya desaparecido el Poder Legislativo;
+XXI. Emitir el decreto para que el Instituto Estatal Electoral convoque a elecciones extraordinarias de Diputados, cuando haya desaparecido el Poder Legislativo;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1642,6 +1664,16 @@ IX. Enajenar o gravar los bienes raíces pertenecientes al Estado, sin autorizac
 X. Disponer en ningún caso y por ningún motivo de los bienes que son propios de los Municipios.
 
 XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos que la Constitución Federal lo autorice, poniéndola inmediatamente sin excusa alguna a disposición de la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+XII.- Realizar alusiones u otras formas de comunicación, que incidan de algún modo sobre posiciones políticas que correspondan a los partidos y candidatos contendientes en el proceso electoral o emitir mensajes indirectos o implícitos que puedan tener efectos a favor o en contra de alguna opción política contendiente, desde el inicio de las campañas hasta concluida la jornada electoral;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+XIII.- Realizar cualquier tipo de campaña publicitaria de programas sociales, de obra pública y gubernamentales, treinta días antes del día de la elección.
+
+Se exceptúan de lo dispuesto en las fracciones XII y XIII, la comunicación de medidas urgentes de Estado o de acciones relacionadas con protección civil, programas de salud por emergencias, servicios y atención a la comunidad por causas graves o fortuitas.
 
 #### SECCION CUARTA. Del Ministerio Público
 
@@ -1867,15 +1899,9 @@ REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 8 DE DICIEMBRE DE 2000)
 
 Las faltas temporales de los Magistrados serán cubiertas por los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de justicia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 126], P.O. 8 DE DICIEMBRE DE 2000)
-
 ###### ARTICULO 105.
 
-El Magistrado que no concurra al Tribunal, sin causa justificada o sin previa licencia de su Presidente, perderá el derecho a la dieta correspondiente al día de su ausencia.
-
-El Presidente podrá conceder licencia hasta por diez días y el Tribunal hasta por seis meses. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal, salvo el caso de enfermedad debidamente comprobada.
-
-Se exceptúan de lo dispuesto en el párrafo anterior, las licencias que se concedan por el Pleno para la integración del Tribunal Estatal Electoral, las que se extenderán por todo el tiempo necesario para el desempeño de la función.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 127], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1970,6 +1996,30 @@ Los Municipios tienen personalidad jurídica propia y constituyen un nivel de go
 I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la ley determine.
 
 Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+Para ser miembro de un Ayuntamiento se requiere:
+
+a) Ser ciudadano en ejercicio de sus derechos políticos;
+
+b) Saber leer y escribir;
+
+c) Estar avecindado en el municipio, por un período no menor de un año inmediato anterior al día de la elección;
+
+d) No pertenecer a las fuerzas armadas permanentes federales, a las fuerzas de seguridad pública estatales o de la seguridad pública municipal;
+
+e) No ser servidor público municipal, del Estado o de la Federación;
+
+f) No pertenecer al estado eclesiástico ni ser ministro de algún culto;
+
+g) No haber sido sentenciado por delitos intencionales; y
+
+h) Tener un modo honesto de vivir.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+Los ciudadanos comprendidos en los supuestos de los incisos d) y e), podrán ser concejales siempre y cuando se separen del servicio activo o de sus cargos, con ciento veinte días de anticipación a la fecha de la elección.
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
@@ -2231,7 +2281,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3004,6 +3054,32 @@ P.O. 9 DE SEPTIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día doce de septiembre del año dos mil seis. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la Ley de Justicia para Adolescentes del Estado de Oaxaca.
+
+P.O. 28 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos del artículo 25, Apartado A, fracción I de esta Constitución, y con la finalidad de homologar los calendarios de los procesos electorales locales y federales, se prorroga el ejercicio de la Quincuagésima Novena Legislatura, del 13 de noviembre del año 2007 al 13 de noviembre del año 2008.
+
+TERCERO.- Por única ocasión, para hacer posible el cumplimiento de los artículos 25, Apartado A, fracción 1, 41, 42 y 43 de esta Constitución, la Sexagésima Legislatura del Estado, iniciará su ejercicio a partir de su instalación el día 13 de noviembre de 2008 y lo concluirá el 13 de noviembre del año 2012.
+
+CUARTO.- En consecuencia, la Sexagésima Primera y subsecuentes Legislaturas tendrán periodos constitucionales de tres años.
+
+QUINTO.- Para los efectos del artículo 25, Apartado A, fracción I de esta Constitución, y con la finalidad de homologar los calendarios de los procesos electorales locales y federales, el ejercicio de los actuales ayuntamientos del Estado, electos por el régimen de partidos políticos, se prorroga hasta el día 31 de diciembre del año 2008.
+
+SEXTO.- Con ese mismo propósito, los integrantes de los ayuntamientos que se elijan el primer domingo de julio del año 2008, por el régimen de partidos políticos, por única ocasión, ejercerán un periodo de cuatro años, comprendido entre el 01 de enero del año 2009 y el 31 de diciembre del año 2012.
+
+SEPTIMO.- Los ayuntamientos subsecuentes a los que se refiere el artículo transitorio anterior, tendrán periodos constitucionales de tres años.
+
+OCTAVO.- Los Municipios cuyos concejales se eligen por el sistema de usos y costumbres, continuarán con sus prácticas democráticas conforme a la normatividad prevista en el Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca, hasta en tanto se emita la nueva normatividad derivada de las anteriores reformas. Las elecciones de los ayuntamientos sujetos al sistema de usos y costumbres, que se celebren en el periodo referido en el artículo Undécimo Transitorio, serán validadas por el Instituto Estatal Electoral y, por última ocasión, calificadas por la Legislatura.
+
+NOVENO.- El Instituto Estatal Electoral y el Tribunal Estatal Electoral, continuarán funcionando de acuerdo con las normas hasta hoy establecidas en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, hasta en tanto se emita la nueva normatividad.
+
+DECIMO.- Con la finalidad de homologar los calendarios de los procesos electorales locales y federales, al concluir el periodo constitucional para el que fue electo el actual Gobernador del Estado, la Legislatura, con la aprobación de las dos terceras partes de sus integrantes, designará un Gobernador Interino Constitucional, para un periodo de transición que comprenderá del primero de diciembre de 2010 al 30 de noviembre de 2012.
+
+UNDECIMO.- El Honorable Congreso del Estado, contará con un plazo de hasta seis meses para reformar el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, emitir la normatividad correspondiente a los medios de impugnación en materia electoral y demás ordenamientos relativos.
+
+DUODECIMO.- Se derogan todas las disposiciones constitucionales y legales que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
