@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2005-11-01"
+last_updated: "2006-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -878,6 +878,8 @@ XIV. Pasar diariamente a la Tesorería Municipal, en forma directa o a través d
 XV. Ejercer en materia de lo dispuesto por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, las facultades y responsabilidades que determine la ley;
 
 XVI. Solicitar licencia por escrito y por causa justificada al Ayuntamiento, para ausentarse del Municipio por más de diez días; debiendo formular aviso para ausentarse por un término menor;
+
+> <small>N. DE E. CONFORME AL ARTICULO UNICO DEL DECRETO 002, PUBLICADO EN EL PERIODICO OFICIAL 28 DE SEPTIEMBRE DE 2006 Y EN ATENCION A SU APLICABILIDAD SE SEÑALA: "LA DISPOSICION CONTENIDA EN LA FRACCION XVII DEL ARTICULO 70 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI, REFORMADA MEDIANTE DECRETO LEGISLATIVO NUMERO 395, PUBLICADO EL UNO DE NOVIEMBRE DE 2005 EN EL PERIODICO OFICIAL DEL ESTADO; POR UNICA OCASION NO SERA APLICABLE A LOS PRESIDENTES MUNICIPALES EN FUNCIONES, QUIENES EN CONSECUENCIA, DEBERAN RENDIR EL INFORME A QUE SE REFIERE LA CITADA FRACCION, CORRESPONDIENTE AL TERCER AÑO DE EJERCICIO LEGAL DE SUS RESPECTIVOS AYUNTAMIENTOS, DENTRO DE LA PRIMERA QUINCENA DEL MES DE DICIEMBRE DEL AÑO 2006".</small>
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
@@ -2052,3 +2054,7 @@ TERCERO. Por única vez, en relación con lo dispuesto por el artículo 31 Apart
 Del mismo modo, respecto del presupuesto de egresos de cada uno de los ayuntamientos para el ejercicio fiscal 2007, éste deberá ser elaborado por el ayuntamiento en funciones con la opinión del electo, y será aprobado por el primero de los mencionados, en términos del artículo 129 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí; sin perjuicio de que el ayuntamiento que inicie el uno de enero de 2007, lo modifique, si así lo estima necesario, durante los primeros quince días de ese mismo año.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2006.
+
+UNICO. Este Decreto entrará en vigor el 29 de septiembre del año 2006, previa publicación en el Periódico Oficial del Estado.
