@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-urbano-para-el-estado-de-sonora-8511"
 country: "mx"
 rank: "ley"
 publication_date: "1985-02-18"
-last_updated: "1996-07-15"
+last_updated: "2006-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE JULIO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 28 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Ley publicada en la Sección Primera el Boletín Oficial del Estado de Sonora, el lunes 18 de febrero de 1985.
 
@@ -1257,7 +1259,7 @@ VI.- Ejecutar por su cuenta los gastos de conservación de las obras de urbaniza
 
 VII.- Otorgar ante y a satisfacción de la Tesorería Municipal una garantía personal o real que garantice la buena calidad de las obras por el término de un año, contados a partir de la fecha de terminación de las obras y por un importe igual al 5% de la suma de los costos de urbanización, sin incluir lo referente a electrificación y alumbrado público, siempre y cuando se cuente con el acta de recepción correspondiente de parte de la Comisión Federal de Electricidad.
 
-> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1995)</small>
 
 VIII.- Insertar en los contratos de enajenación de lotes que celebre, los siguientes conceptos:
 
@@ -2152,3 +2154,29 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Los trámites y solicitudes de fraccionamientos, desarrollos, funciones, subdivisiones y relotificaciones que estuvieren pendientes de resolver hasta antes de la entrada en vigor de la presente Ley, deberán de continuarse hasta su determinación conforme al contenido de las disposiciones que se reforman.
+
+B.O. 28 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano para el Estado de Sonora publicada en el Boletín Oficial del Gobierno del Estado con fecha 18 de febrero de 1985 y las demás disposiciones legales que se opongan a lo dispuesto por esta ley.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador del Estado dentro de los noventa días siguientes a la entrada en vigor del presente ordenamiento, instalará la Comisión Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado y los ayuntamientos de los municipios de la entidad, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor de la presente ley, para que reformen y, en su caso, formulen, aprueben y publiquen los reglamentos correspondientes del presente Ordenamiento. Mientras tanto, seguirán vigentes los actuales en lo que no se opongan a esta ley.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos en relación con los desarrollos de uso industrial, turístico y campestre que se encuentren en trámite ante la Secretaría, continuarán hasta su conclusión conforme las disposiciones de la Ley que se abroga.
+
+Los procedimientos en relación con fraccionamientos habitacionales que se encuentren en trámite de autorización ante los ayuntamientos de los municipios, continuarán hasta su conclusión, conforme a las disposiciones de la Ley que se abroga.
+
+Los procedimientos a que se refieren los párrafos anteriores deberán ser resueltos por las instancias señaladas en un plazo no mayor a ciento ochenta días.
