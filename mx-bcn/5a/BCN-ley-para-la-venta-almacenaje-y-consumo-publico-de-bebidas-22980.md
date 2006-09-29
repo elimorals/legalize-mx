@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2006-02-24"
+last_updated: "2006-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -195,7 +195,17 @@ IV.- Proponer políticas para la autorización de permisos y horarios extraordin
 
 De la integración del consejo consultivo.- La integración del consejo consultivo será mayoritariamente ciudadano, con la participación de organismos no gubernamentales legalmente constituidos, cuyo objeto social esté relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, con representantes de organismos que agrupen a permisionarios y un representante de la autoridad municipal correspondiente. Su conformación se realizará mediante convocatoria pública que emita el Ayuntamiento y el nombramiento de consejero tendrá el carácter de honorífico, debiendo durar en el cargo un período no mayor que el del ayuntamiento de que se trate.
 
-El Consejo nombrará de entre sus miembros ciudadanos, a un representante en calidad de presidente, un secretario técnico y los vocales que determine el reglamento que al efecto se expida. En este reglamento se establecerá la organización y funcionamiento del consejo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
+Los Ayuntamientos convocarán e integrarán el Consejo Consultivo dentro de un plazo que no excederá de ciento veinte días a partir de la fecha de inicio del ejercicio constitucional para el cual resultaren elegidos.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
+El Consejo nombrará de entre sus miembros ciudadanos, a un representante en calidad de Presidente, un secretario técnico y los vocales que determine el Reglamento que al efecto se expida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
+En el Reglamento se establecerá la organización y funcionamiento del consejo.
 
 ###### ARTÍCULO 9.
 
@@ -540,3 +550,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 24 DE FEBRERO DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
