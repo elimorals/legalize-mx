@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-09-14"
+last_updated: "2006-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,43 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
+ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de septiembre de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de septiembre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los Capítulos VII del Tratado de Libre Comercio de América del Norte; IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, y IV del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, y en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los Capítulos III, VII y XX del Tratado de Libre Comercio de América del Norte, artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o., 5o., fracciones V y X, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 de su Reglamento, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que en los últimos meses se ha generado un incremento inusitado en los precios del azúcar en el mercado nacional, por lo que resulta necesario complementar la oferta nacional con importaciones, a efecto de que las industrias que la utilizan como materia prima en sus procesos productivos no resulten afectadas;
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el 30 de agosto pasado se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo para importar azúcar en 2006, estableciéndose un monto de 90 mil toneladas métricas;
+Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares o jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
 
-Que dicho cupo ha resultado insuficiente para incidir a la baja en el precio del azúcar, lo cual continua vulnerando la competitividad de la industria que la emplea como insumo en procesos productivos y afecta el poder adquisitivo de los consumidores, particularmente de los de menores ingresos;
+Que existe una disputa entre México y los Estados Unidos de América relativa al cumplimiento de este último con sus obligaciones establecidas en el TLCAN de permitir el acceso a su mercado al azúcar mexicano;
 
-Que el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, da a conocer el arancel-cupo aplicable a las fracciones arancelarias 1701.11.01, 1701.11.02, 1701.99.01, 1701.99.02 y 1701.99.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
+Que por tal motivo México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN. La disputa no ha sido resuelta, entre otras cosas, porque, no obstante que México solicitó el establecimiento de un panel al amparo del Capítulo XX del TLCAN, habiendo previamente satisfecho todos los requisitos previstos en el mismo, los Estados Unidos de América se han negado a designar panelistas, según lo exige el TLCAN;
 
-Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para la producción nacional, y
+Que el 11 de noviembre de 2005, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos;
 
-Que la medida a que se refiere el presente ordenamiento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 21 de febrero de 2006, los Estados Unidos de América otorgaron a los Estados Unidos Mexicanos una segunda cuota adicional de 59, 349 toneladas métricas de azúcar refinada (valor crudo), para el ciclo comercial de octubre de 2005 a septiembre de 2006;
 
-ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
+Que el pasado 27 de julio los gobiernos de ambos países llegaron a un acuerdo que establece ciertas condiciones para el comercio bilateral de edulcorantes que contribuirá a facilitar la transición al libre comercio a partir del 1 de enero de 2008, pero también reconoce que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr este objetivo;
+
+Que entre los acuerdos alcanzados está el otorgamiento por parte de los Estados Unidos de América de un cupo libre de arancel para 21,774 toneladas métricas (valor crudo) de azúcar refinada originaria de México durante el año comercial 2005 a septiembre de 2006;
+
+Que el 2 de agosto de 2006, se publicó en el Diario Oficial de la Federación el Acuerdo que adiciona al similar por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos, dando a conocer, la cuota adicional de 59, 349 toneladas métricas de azúcar refinada (valor crudo) y la cuota de 21,774 toneladas métricas (valor crudo) de azúcar refinada adicional otorgada en el marco del acuerdo alcanzado el pasado 27 de julio;
+
+Que el pasado 9 de agosto los Estados Unidos de América anunciaron una cuota de 4,907 toneladas métricas de azúcar refinada (valor crudo) adicional a la cuota otorgada en el acuerdo del pasado 27 de julio;
+
+Que es necesario contar con un procedimiento de asignación expedito para efectuar las exportaciones, mejorar la productividad y la competitividad del sector, así como procurar la equidad en la asignación del cupo de azúcar libre de arancel a los Estados Unidos de América;
+
+Que el procedimiento de asignación de los cupos de azúcares, jarabes y productos con alto contenido de azúcar, es el resultado de un proceso de labores coordinado, entre las secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Cámara Nacional de las Industrias Azucarera y Alcoholera, y
+
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO PRIMERO.
 
@@ -48,17 +62,11 @@ El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido e
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-De conformidad con el artículo sexto transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, el arancel-cupo aplicable a la cuota adicional a la mínima acordada en el Tratado de Libre Comercio de América del Norte para la importación de las mercancías originarias en el propio Tratado, comprendidas en la fracción arancelaria 1005.90.03, es el que a continuación se indica:
+Se adiciona a los cuatro cupos contenidos en el cuadro del artículo Primero del Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 11 de noviembre de 2005, modificado mediante diverso dado a conocer en el mismo medio informativo el 2 de agosto de 2006, una cantidad adicional, para quedar como sigue:
 
-CÓDIGO DESCRIPCIÓN Unidad AD-VALOREM
-
-IMP. EXP.
-
-1005.90.03 Maíz amarillo. Kg 1 No aplica
-
-Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 15.
 
@@ -348,14 +356,8 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 15 de diciembre de 2006.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 30 de septiembre de 2006.
 
-SEGUNDO.- Para efectos del artículo Segundo del Acuerdo por el que se da a conocer el cupo para importar azúcar en 2006, publicado en el Diario Oficial de la Federación el 30 de agosto pasado, se considerará, dentro del cómputo de azúcar importada durante 2005 (M05) y (Mi05), los conceptos denominados definitivo con claves de pedimento A1 y C1, temporal con PITEX o Maquila con claves de pedimento A2 y H2 y Transferencia o Virtuales con PITEX y Maquila con clave V1.
+SEGUNDO.- Para efectos del presente Acuerdo, los plazos a que se refiere el artículo tercero del Acuerdo que se adiciona, empezarán a contar a partir de la fecha de publicación del presente ordenamiento.
 
-México, D.F., a 12 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-HOJA DE REQUISITOS
-
-ANEXO DEL ACUERDO POR EL QUE SE DA A CONOCER UN CUPO ADICIONAL PARA IMPORTAR AZUCAR EN 2006
-
-(VEASE ARCHIVO ANEXO)
+México, D.F., a 26 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
