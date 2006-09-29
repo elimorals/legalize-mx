@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2005-12-30"
+last_updated: "2006-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -75,11 +75,11 @@ El Ejecutivo del Estado expedirá la reglamentación necesaria para la aplicaci�
 
 Para que surtan efectos las resoluciones, acuerdos, convenios o disposiciones, de carácter general, que establezcan obligaciones, afecten o generen derechos a particulares, deberán publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-La aplicación de esta ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado y de la Secretaría de la Contraloría General del Estado, en sus respectivos ámbitos de competencia.
+La aplicación de esta ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor de Gobierno y de la Contraloría Interna, en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 6o.
 
@@ -299,9 +299,11 @@ Los convenios de coordinación podrán ser de vigencia indefinida. En este caso,
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos financieros, así como su justificación, comprobación y pago, con base en el presupuesto de egresos correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 36.
 
-En el ejercicio del gasto público estatal se aplicará lo dispuesto en la Constitución Política del Estado y en lo conducente, lo previsto en la Ley de Egresos del Estado, en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado, en la Ley de Obras Pública para el Estado y en la demás legislación aplicable en la materia, en los términos previstos en esta Ley.
+En el ejercicio del gasto público estatal se aplicará lo dispuesto en la Constitución Política del Estado Libre y Soberano de Nuevo León y en lo conducente, lo previsto en la Ley de Egresos del Estado, en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, en la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y en la demás legislación aplicable en la materia, en los términos previstos en esta Ley.
 
 Los organismos descentralizados y fideicomisos públicos del Gobierno del Estado ejercerán su gasto público conforme a lo dispuesto en los ordenamientos jurídicos a que hace referencia este artículo, así como a lo que dispongan las leyes que los rigen y sus estatutos internos.
 
@@ -359,9 +361,11 @@ V.- Obras y servicios públicos financiados con créditos a largo plazo, relativ
 
 VI.- Erogaciones relativas a obligaciones de pago contraídas en el último año del período constitucional y pagaderas al inicio del siguiente período, comprendidas en la Ley de Egresos del Estado, incluyendo sus ampliaciones autorizadas en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 44.
 
-Para el ejercicio del Presupuesto de Egresos del Estado, se requiere que el gasto haya sido autorizado por la Secretaría de Finanzas y Tesorería General del Estado y se hayan cumplido los requisitos previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado, en la Ley de Obras Públicas para el Estado, en la Ley del Servicio Civil y en las demás disposiciones aplicables en la materia.
+Para el ejercicio del Presupuesto de Egresos del Estado, se requiere que el gasto haya sido autorizado por la Secretaría de Finanzas y Tesorería General del Estado y se hayan cumplido los requisitos previstos en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, en la Ley del Servicio Civil del Estado de Nuevo León y en las demás disposiciones aplicables en la materia.
 
 ###### ARTICULO 45.
 
@@ -539,27 +543,31 @@ Las obligaciones a cargo del Estado, a que se refiere el párrafo anterior, se r
 
 En el caso de las entidades paraestatales, por lo que se refiere a los organismos descentralizados, el patrimonio del Estado consistirá en los derechos patrimoniales que éste tenga respecto de la Entidad, como ente jurídico cuyo dominio corresponde al Estado; tratándose de fideicomisos, sociedades y asociaciones el patrimonio del Estado estará representado por su participación en el mismo. En estos casos, los derechos patrimoniales del Estado podrán ser representados por títulos, con arreglo a las demás leyes respectivas los cuales, tratándose de organismos descentralizados, sólo podrán ser afectados o enajenados previa autorización del Congreso del Estado.
 
-Quedan sujetos a las disposiciones de esta ley y sus reglamentos los actos de adquisición, administración, uso, aprovechamiento, explotación y enajenación de bienes inmuebles del Estado; así como la ejecución de las obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición que sobre ellos se efectúen, incluyendo los que se realicen en forma coordinada entre el Estado y sus organismos descentralizados y fideicomisos con los Municipios, sin perjuicio de las disposiciones de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado, en la Ley de Obras Públicas para el Estado y la Ley de Desarrollo Urbano del Estado.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
+Por lo que respecta a los inmuebles propiedad del Estado, Entidades Descentralizadas y Fideicomisos, corresponde a ésta Ley regular los actos que impliquen la limitación, afectación, gravamen o transmisión de dominio por cualquier título. Su adquisición, administración, uso, aprovechamiento o explotación que no constituya derechos reales a favor de terceros, corresponde a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Nuevo León.
 
 Las operaciones inmobiliarias, incluso las enajenaciones, que realicen los organismos paraestatales a que se refiere el artículo 2o., se sujetarán a lo dispuesto en sus respectivas leyes, decretos o acuerdos de creación, a las disposiciones aplicables de esta Ley, así como a sus estatutos internos y a las reglas que al efecto expida el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-Las dependencias y entidades de carácter estatal a que se refiere al artículo 2o. de esta Ley y, en general, cualquier persona física y moral, pública o privada, que tengan asignados para su custodia, administración, uso o aprovechamiento, bienes o recursos propiedad del Estado, estarán obligadas a cumplir con las disposiciones que sobre control y mantenimiento dicte la Secretaria de Finanzas y Tesorería General del Estado, debiendo informar a esta dependencia, a la mayor brevedad posible, bajo su responsabilidad, toda circunstancia o eventualidad distinta de su uso normal, que implique o pueda implicar un desgaste, deterioro o pérdida de los bienes que le fueron asignados.
+Las dependencias y entidades de carácter estatal a que se refiere al artículo 2o. de esta Ley y, en general, cualquier persona física y moral, pública o privada, que tengan asignados para su custodia, administración, uso o aprovechamiento, bienes propiedad del Estado, estarán obligadas a cumplir con las disposiciones que sobre control y mantenimiento dicte la Oficialía Mayor de Gobierno, debiendo informar a esta dependencia, a la mayor brevedad posible, bajo su responsabilidad, toda circunstancia o eventualidad distinta de su uso normal, que implique o pueda implicar un desgaste, deterioro o pérdida de los bienes que le fueron asignados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 1995)</small>
+Las personas físicas y morales así como las de dependencias y entidades señaladas en el párrafo anterior estarán obligadas a cumplir las disposiciones sobre control de recursos financieros que al efecto emita la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 69.
 
-El activo fijo consistente en los bienes a que se refiere el artículo 76, se mantendrá bajo un estricto control de inventarios, conforme a los sistemas que establezca la Secretaria de Finanzas y Tesorería General del Estado.
+El activo fijo consistente en los bienes a que se refiere el artículo 76, se mantendrá bajo un estricto control de inventarios, conforme a los sistemas que establezca la Oficialía Mayor de Gobierno.
 
 Las dependencias del Gobierno del Estado y sus organismos descentralizados y fideicomisos deberán llevar un registro y control de su patrimonio, con sistemas que permitan conocer las altas y bajas y su valor actualizado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-La Secretaria de Finanzas y Tesorería General del Estado expedirá la normatividad relacionada con estas funciones y resolverá en lo administrativo las consultas que se le presenten.
+La Oficialía Mayor de Gobierno expedirá la normatividad relacionada con estas funciones y resolverá en lo administrativo las consultas que se le presenten.
 
 ###### ARTICULO 70.
 
@@ -567,19 +575,23 @@ Los bienes del dominio público y privado del Estado y sus organismos paraestata
 
 ###### ARTICULO 71.
 
-En la adquisición, arrendamiento y enajenación de bienes del Estado y de sus organismos descentralizados y fideicomisos, se estará a lo dispuesto en esta ley, en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado, en la Ley de Obras Públicas para el Estado y en la Ley de Egresos del Estado.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 72.
 
 Los actos jurídicos que se realicen respecto de bienes del Estado y de sus organismos paraestatales con violación a lo dispuesto en este Capítulo, serán nulos de pleno derecho.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-Tratándose de inmuebles propiedad del Gobierno del Estado o de sus organismos descentralizados y fideicomisos, objeto de alguno de los actos, negocios jurídicos, convenios o contratos que sean nulos conforme a este artículo, la Secretaria de Finanzas y Tesorería General del Estado está facultada para recuperarlos administrativamente y determinar su aprovechamiento conforme a lo que establezca el Ejecutivo del Estado, sin perjuicio de ejercer las acciones legales a que haya lugar.
+Tratándose de inmuebles propiedad del Gobierno del Estado o de sus organismos descentralizados y fideicomisos, objeto de alguno de los actos, negocios jurídicos, convenios o contratos que estén afectados de nulidad conforme a este artículo, la Secretaría de Finanzas y Tesorería General del Estado, en el ámbito de su competencia, estará facultado (sic) para recuperarlos administrativamente y determinar su aprovechamiento conforme a lo que establezca el Ejecutivo del Estado, sin perjuicio de ejercer las acciones legales a que haya lugar.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-El Ejecutivo, en los términos previstos en la Constitución Política del Estado, en la Ley Orgánica de la Administración Pública del Estado y en las demás leyes aplicables, ejercerá los actos de adquisición, control, administración, transmisión de dominio, inspección y vigilancia de los bienes muebles e inmuebles del Estado a que se refiere esta ley y sus reglamentos. Para los efectos de este artículo, las dependencias y los organismos paraestatales de la administración pública estatal, así como las demás personas que usen o tengan a su cuidado los bienes muebles e inmuebles estatales, deberán proporcionar a las dependencias competentes los informes, datos, documentos y demás facilidades que se requieran. Así mismo, la Secretaria de Finanzas y Tesorería General del Estado, examinará periódicamente la documentación y demás información jurídica relacionada con las operaciones que realicen el Gobierno del Estado, sus organismos descentralizados y fideicomisos públicos, en relación con los bienes muebles e inmuebles a fin de determinar el cumplimiento de esta ley y de las disposiciones que de ella emanen.
+El Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, en los términos previstos en la Constitución Política del Estado Libre y Soberano de Nuevo León, en la Ley Orgánica de la Administración Pública para el Estado y en las demás leyes aplicables, ejercerá los actos de enajenación, afectación, limitación, gravamen o transmisión de dominio por cualquier titulo sobre los bienes inmuebles propiedad del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
+Para los efectos de este artículo, las dependencias y los organismos paraestatales de la administración pública estatal, así como las demás personas que usen o tengan a su cuidado bienes muebles e inmuebles estatales, deberán proporcionar a las dependencias competentes los informes, datos, documentos y demás facilidades que se requieran. Así mismo, la Secretaría de Finanzas y Tesorería General del Estado y la Oficialía Mayor de Gobierno, en el ámbito de su competencia examinarán periódicamente la documentación y demás información relacionada con las operaciones que realice el Gobierno del Estado, sus organismos descentralizados y fideicomisos públicos, en relación con los bienes muebles e inmuebles a fin de determinar el cumplimiento de esta Ley y las disposiciones que de ella emanen.
 
 ###### ARTICULO 73.
 
@@ -597,123 +609,115 @@ IV.- Adquisiciones y enajenaciones a título oneroso o gratuito que realice el G
 
 V.- Adquisiciones que deriven de actos expropiatorios en favor del Estado o de afectaciones con motivo de la realización de obras públicas.
 
-En los casos a que se refiere este artículo, el documento que consigne la operación respectiva tendrá el carácter de escritura pública y será inscrito en el Registro Público de la Propiedad y del Comercio. Tratándose de afectaciones derivadas de la realización de obras públicas, se estará a lo dispuesto en la Ley de Desarrollo Urbano del Estado.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+En los casos a que se refiere este artículo, el documento que consigne la operación respectiva tendrá el carácter de escritura pública y será inscrito en el Registro Público de la Propiedad y del Comercio. Tratándose de afectaciones derivadas de la realización de obras públicas, se estará a lo dispuesto en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 74.
 
-Las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Estado, tendrán la obligación de llevar los catálogos y actualizar los inventarios de dichos bienes, conforme a las normas y procedimientos aprobados. Adicionalmente, estarán obligadas a proporcionar los datos y los informes que les soliciten la Secretaría de la Contraloría General del Estado y la Secretaría de Finanzas y Tesorería General del Estado.
+Las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Estado, tendrán la obligación de llevar los catálogos y actualizar los inventarios de dichos bienes, conforme a las normas y procedimientos aprobados. Adicionalmente, estarán obligadas a proporcionar los datos y los informes que les soliciten la Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor de Gobierno y la Contraloría Interna.
 
 #### SECCION SEGUNDA. DE LAS FACULTADES DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 75.
 
-El Secretario de Finanzas y Tesorero General del Estado está facultado para expedir las normas relativas a la custodia, otorgamiento del uso o goce temporal y enajenación de los bienes del Estado. No se podrán enajenar los bienes del Estado, si no se cuenta previamente con la autorización expresa del Secretario de Finanzas y Tesorero General del Estado; la cual, en el caso de bienes muebles, podrá otorgarse mediante resoluciones de carácter general.
+El Secretario de Finanzas y Tesorero General del Estado está facultado para expedir las normas relativas a la enajenación, arrendamiento, comodato, concesión, gravamen, afectación y cualquier otro derecho sobre bienes inmuebles propiedad del Estado:
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+No se podrán adquirir, enajenar, constituir gravámenes, derechos reales o limitaciones sobre los bienes inmuebles del Estado, si no se cuenta previamente con la autorización expresa del Secretario de Finanzas y Tesorero General del Estado, sin menoscabo de lo dispuesto por el artículo 106 de esta Ley.
+
+En el caso de bienes muebles, la autorización que emita la Secretaría de Finanzas y Tesorería General del Estado podrá otorgarse mediante resoluciones de carácter general correspondiendo la ejecución y aplicación de dichas reglas a la Oficialía Mayor de Gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 76.
 
-El registro unitario de bienes y el control e inventario del patrimonio del Estado, consistente en inmuebles y en mobiliario y equipo de oficina, equipo de cómputo, maquinaria, instrumentos, equipo de transporte y, en general, bienes muebles similares, así como el mantenimiento de bienes inmuebles se ejercerá por la Secretaria de Finanzas y Tesorería General del Estado, en los términos previstos por la Ley Orgánica de la Administración Pública del Estado y demás disposiciones aplicables.
+El registro unitario de bienes y el control e inventario del patrimonio del Estado, consistente en inmuebles y en mobiliario y equipo de oficina, equipo de cómputo, maquinaria, instrumentos, equipo de transporte y, en general, bienes muebles similares, así como la construcción, reconstrucción, mantenimiento, remodelación, conservación, adaptación y adecuación de espacios para oficinas de bienes inmuebles del Estado, se ejercerá por la Oficialía Mayor de Gobierno, en los términos previstos por la Ley Orgánica de la Administración Pública para el Estado y demás disposiciones aplicables.
+
+Asimismo, la Oficialía Mayor del Gobierno ejercerá la vigilancia e inspección de los inmuebles propiedad del Estado, los que de hecho se utilicen por el Estado a un servicio público o fines de interés social, así como aquellos cuya posesión tenga el Estado por cualquier otro acto jurídico.
 
 ###### ARTICULO 77.
 
 Las transferencias, inversiones y aportaciones en propiedad o administración, de recursos materiales o financieros estatales, así como el otorgamiento del uso o goce temporal de bienes del Estado, a título oneroso o gratuito, en favor de entidades paraestatales, serán efectuadas por el Ejecutivo a través de la Secretaría de Finanzas y Tesorería General del Estado. En los registros contables y patrimoniales del Estado y de las entidades paraestatales que reciban los recursos, se hará constar la naturaleza del suministro.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 78.
 
-El titular del Ejecutivo del Estado podrá disponer sobre el destino de los remanentes que tengan sus organismos descentralizados y fideicomisos, estando facultado para afectarlos en garantía, transferirlos en préstamo o en propiedad a otras entidades paraestatales o utilizarlos en el financiamiento del presupuesto de egresos del Estado. Los remanentes no comprenderán los recursos programados para cubrir pasivos o financiar programas de inversión aprobados por el Consejo de Administración u órgano equivalente.
+El titular del Ejecutivo del Estado podrá disponer sobre el destino de los remanentes que tengan sus organismos descentralizados, fideicomisos y demás entidades del sector paraestatal, estando facultado para afectarlos en garantía, transferirlos en préstamo o en propiedad a otras entidades paraestatales o utilizarlos en el financiamiento del presupuesto de egresos del Estado. Los remanentes no comprenderán los recursos programados para cubrir pasivos o financiar programas de inversión aprobados por el Consejo de Administración u órgano equivalente.
 
 ###### ARTICULO 79.
 
 El patrimonio consistente en los activos financieros del Estado, será custodiado y administrado por la Secretaría de Finanzas y Tesorería General del Estado. Los órganos competentes de los Poderes Judicial y Legislativo serán responsables de la custodia y administración de los recursos públicos que les haya sido ministrados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 80.
 
-Corresponderá a la Secretaria de Finanzas y Tesorería General del Estado:
+Con relación al patrimonio público del Estado, corresponderá a la Oficialía Mayor de Gobierno:
 
-I.- Vigilar, inspeccionar y conservar los inmuebles propiedad del Estado, los que de hecho se utilicen por el Estado a un servicio público o a fines de interés social, así como aquéllos cuya posesión tenga el Estado por cualquier acto jurídico;
+I.- Celebrar, con sujeción a lo establecido en el artículo 106 de esta Ley y previa autorización de la Secretaría de Finanzas y Tesorería General del Estado, los contratos relacionados con la enajenación, arrendamiento, comodato, concesión, gravamen, afectación o cualquier otro derecho real sobre bienes inmuebles propiedad del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
+II.- Efectuar, respecto de bienes muebles del patrimonio estatal, las operaciones relacionadas con los actos a que se refiere la fracción anterior, sujetándose en su caso, a las normas generales que expida la Secretaría de Finanzas y Tesorería General del Estado;
 
-II.- Proponer al Gobernador las políticas en materia de vigilancia, control, conservación, inventario, uso y destino, respecto de los muebles a que se refiere el artículo 76 y de los inmuebles, propiedad del Gobierno del Estado, y en materia de mantenimiento de estos últimos; dictar normas técnicas, autorizar y, en su caso, realizar la reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y demás que realice el Estado por sí o en cooperación con los municipios, con organismos paraestatales o con particulares, excepto las encomendadas expresamente por las leyes a otras dependencias.
+III.- Vigilar, inspeccionar, conservar y dar mantenimiento a los inmuebles del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
+IV.- Llevar el inventario del patrimonio mobiliario e inmobiliario del Estado, así como operar el sistema de información correspondiente;
 
-III.- Realizar las operaciones de compra venta, donación, gravamen, afectación u otras por las que el Estado adquiera o enajene la propiedad, el dominio o cualquier derecho real sobre inmuebles estatales, así como efectuar el control, enajenación, permuta, inspección y vigilancia de los bienes muebles a que se refiere el artículo 76 y de los inmuebles y, en su caso, en la celebración de los contratos relativos para su uso, aprovechamiento y explotación, en los términos de Ley.
+V.- Proponer políticas, así como establecer y aplicar normas, sistemas y procedimientos para el control e inventario de los bienes muebles e inmuebles del Estado;
 
-IV.- Dictar los acuerdos que se requieran para la adecuada aplicación de las disposiciones reglamentarias en las materias de su competencia;
+VI.- Dictar normas generales y, en su caso, realizar la reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y demás que realice el Estado por sí o en cooperación con los municipios, con entidades paraestatales o con particulares, excepto las encomendadas expresamente por las leyes a otras dependencias;
 
-V.- Normar, programar y realizar actos y contratos en los términos que este Capítulo prevé, en el ámbito de su competencia;
+VII.- Fijar las normas y procedimientos a los que se sujetarán las licitaciones públicas para la enajenación de bienes muebles e inmuebles propiedad del Estado, así como presentar para dictamen del Comité de Operaciones Inmobiliarias del Estado las excepciones para realizar la enajenación a través de concursos por invitación o por adjudicación directa;
 
-VI.- Tratándose de las licitaciones públicas para la enajenación de bienes muebles a que se refiere el artículo 76 e inmuebles, fijar las normas y procedimientos a los que se sujetarán las convocatorias, las bases y especificaciones, los actos de apertura de propuestas y los de fallo correspondiente; establecer las reglas que se observarán para garantizar la seriedad de las proposiciones de los postores, la adjudicación respectiva y su formalización final;
+VIII.- Ejercer, en el ámbito de su competencia, las acciones o defensas administrativas, civiles, mercantiles, penales, laborales o de cualquier índole que procedan en asuntos en que se vea involucrado el patrimonio del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
+IX.- Asesorar en materia inmobiliaria a las dependencias y entidades del Estado y a los municipios que lo soliciten; y
 
-VII.- En caso de enajenación a través de licitación pública, establecer las reglas a que se sujetará la percepción del precio pactado y sus garantías, así como proponer ante el Titular del Ejecutivo los casos y causas para enajenar bienes en otras modalidades diferentes a la de licitación pública;
+X.- Ejercer las demás atribuciones que le otorgan ésta y las demás leyes.
 
-VIII.- Llevar actualizado el inventario general del patrimonio mobiliario a que se refiere el artículo 76 y el inmobiliario, propiedad del Estado, con su valuación correspondiente;
-
-IX.- Recabar la información y documentos correspondientes, elaborar el expediente respectivo y, previa autorización del titular del Ejecutivo, enviarlo a la Secretaría General de Gobierno, a fin de elaborar la iniciativa respectiva y presentarla al Congreso del Estado, para autorizar la enajenación o gravamen que afecte su libre uso por un término mayor de cinco años, de inmuebles propiedad del Estado;
-
-X.- Proporcionar la asesoría que soliciten, a las entidades y dependencias del Estado y sus municipios, en materia inmobiliaria;
-
-(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)(REPUBLICADO, P.O. 15 DE NOVIEMBRE DE 2004)
-
-XI.- Celebrar contratos y otorgar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes del dominio público o privado del Estado, así como los convenios a que se refiere el tercer párrafo del Artículo 129 de esta Ley.
-
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
-
-XII.- Establecer y aplicar sistemas y procedimientos de conservación, control e inventario de los bienes muebles a que se refiere el artículo 76 y de los inmuebles del Gobierno del Estado, así como de mantenimiento de estos últimos;
-
-XIII.- Solicitar a la Procuraduría General de Justicia del Estado el ejercicio de las acciones legales
-
-tendientes a custodiar, conservar o recuperar los bienes del Estado; y
-
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
-
-XIV.- Determinar las normas y procedimientos para la elaboración de los catálogos e inventarios generales de los bienes muebles e inmuebles del Estado;
-
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
-
-XV.- Operar el sistema de información inmobiliaria, el cual tendrá como objeto la integración de los datos de identificación física y antecedentes jurídicos y administrativos de ese patrimonio; y
-
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
-
-XVI.- Ejercer las demás atribuciones que le otorgan ésta y las demás leyes.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 81.
 
-En las distintas operaciones inmobiliarias respecto de bienes del Estado, corresponderá a la Secretaría de Finanzas y Tesorería General del Estado, a través de la Dirección de Catastro del Estado, lo siguiente:
+Con relación al patrimonio público del Estado, corresponderá a la Secretaría de Finanzas y Tesorería General del Estado:
 
-I.- Valuar los inmuebles objeto de la operación de adquisición, enajenación, permuta o de cualquier otra autorizada por la ley, cuando se requiera;
+I.- Autorizar, sin menoscabo de lo dispuesto por el artículo 106 de esta Ley, la enajenación, venta, donación, arrendamiento, comodato, concesión, gravamen, afectación y cualquier otro derecho sobre bienes inmuebles propiedad del Estado;
 
-II.- Fijar el monto de la indemnización por la expropiación de inmuebles que realice la administración pública estatal;
+II.- Expedir normas generales para la enajenación, venta, donación, arrendamiento, comodato, concesión, gravamen, afectación o cualquier otro derecho sobre bienes inmuebles propiedad del Estado;
 
-III.- Fijar el monto de la indemnización en los casos en que el Estado rescate concesiones sobre inmuebles de dominio público;
+III.- Celebrar los convenios a que se refiere el tercer párrafo del artículo 129 de esta Ley; y
 
-IV.- Valuar los inmuebles estatales materia de concesión, para el efecto de determinar el monto de las contraprestaciones a cargo del concesionario;
+IV.- A través de la Dirección de Catastro:
 
-V.- Justipreciar las rentas en los contratos en que el Estado intervenga como arrendador o arrendatario;
+a) Valuar los inmuebles objeto de la operación de enajenación, permuta o de cualquier otra forma de transmisión de dominio o afectación por gravamen.
 
-VI.- Valuar los bienes vacantes que se adjudiquen al Estado;
+b) Fijar el monto de la indemnización por la expropiación de inmuebles que realice la administración pública estatal;
 
-VII.- Practicar los demás avalúos y justipreciaciones relacionados con inmuebles, que señalen las leyes y reglamentos; y
+c) Fijar el monto de la indemnización en los casos en que el Estado rescate concesiones sobre inmuebles de dominio público;
 
-VIII.- Ejercer las demás atribuciones que le otorgan ésta y las demás leyes.
+d) Valuar los inmuebles estatales materia de concesión, para el efecto de determinar el monto de las contraprestaciones a cargo del concesionario;
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+e) Justipreciar las rentas en los contratos de arrendamiento en que el Estado intervenga;
+
+f) Valuar los bienes vacantes que se adjudiquen al Estado; y
+
+g) Practicar los demás avalúos y justipreciaciones relacionados con inmuebles propiedad del Estado.
+
+V.- Ejercer las demás atribuciones que le otorgan ésta y las demás leyes.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 82.
 
-La Secretaría de la Contraloría General del Estado y la Secretaria de Finanzas y Tesorería General del Estado podrán practicar indistintamente en forma conjunta o separada, visitas de inspección en las dependencias del Gobierno Estatal, para verificar la existencia en oficinas, locales, bodegas, almacenes e inventarios de los bienes muebles a que se refiere el artículo 76, y el destino y afectación de los mismos.
+La Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor de Gobierno y la Contraloría Interna, podrán practicar indistintamente en forma conjunta o separada, visitas de inspección en las dependencias del Gobierno Estatal, para verificar la existencia en oficinas, locales, bodegas, almacenes e inventarios de los bienes muebles a que se refiere el artículo 76 de ésta Ley, y el destino y afectación de los mismos.
 
-El registro de la propiedad inmobiliaria del Estado, así como de aquellos inmuebles que por cualquier título o circunstancia tenga en posesión o utilice el Estado, estará a cargo de la Secretaría de Finanzas y Tesorería General del Estado. El sistema de captación, almacenamiento y procesamiento de datos para el desempeño de la función registral, será definido en el reglamento respectivo.
+El registro de la propiedad inmobiliaria del Estado, así como de aquellos inmuebles que por cualquier título o circunstancia tenga en posesión o utilice el Estado, estará a cargo de la Oficialía Mayor de Gobierno. El sistema de captación, almacenamiento y procesamiento de datos para el desempeño de la función registral, será definido en el reglamento respectivo.
 
-La Secretaría de la Contraloría General del Estado, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Secretaría de Finanzas y Tesorería General del Estado la información a que se refiere el párrafo que antecede.
+La Contraloría Interna, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Oficialía Mayor de Gobierno la información a que se refiere el párrafo que antecede.
 
 ###### ARTICULO 83.
 
@@ -791,9 +795,11 @@ Los bienes del dominio privado, en todo lo no previsto por esta ley, estarán su
 
 No pierden su carácter de bienes de dominio público los que, estando destinados a un servicio público, de hecho o por derecho fueren aprovechados temporalmente, en todo o en parte, en otro objeto que no pueda considerarse como servicio público.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 91.
 
-La Secretaría de Finanzas y Tesorería General del Estado expedirá las normas y procedimientos a que se sujetará la clasificación de los bienes del Estado, y el procedimiento que deba seguirse en lo relativo a la afectación, valuación y destino final de dichos bienes.
+La Secretaría de Finanzas y Tesorería General del Estado expedirá las normas y procedimientos a que se sujetará la clasificación de los bienes del Estado, y el procedimiento que deba seguirse exclusivamente en lo relativo a la afectación, valuación y destino final.
 
 #### SECCION CUARTA. DE LAS CONCESIONES SOBRE BIENES DEL DOMINIO PUBLICO
 
@@ -921,11 +927,11 @@ Los bienes de dominio privado pueden ser objeto de todos los contratos que regul
 
 Para optimizar la utilización de los inmuebles pertenecientes al patrimonio del Estado, las dependencias de los Poderes Legislativo, Judicial y Ejecutivo presentarán a la Secretaría de Finanzas y Tesorería General del Estado, por los conductos legales correspondientes, las necesidades inmobiliarias para recabar la información que fundamente las políticas, directrices y decisiones que formulen las autoridades competentes en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 104.
 
-Para satisfacer los requerimientos de inmuebles que planteen las dependencias del Gobierno del Estado y racionalizar y optimizar sus recursos, la Secretaría de Finanzas y Tesorería General del Estado, con base en la información disponible en el registro de la propiedad inmobiliaria a su cargo, procederá como sigue:
+Para satisfacer los requerimientos de inmuebles que planteen las dependencias del Gobierno del Estado y racionalizar y optimizar sus recursos, la Oficialía Mayor de Gobierno, con base en la información disponible en el registro de la propiedad inmobiliaria a su cargo, procederá como sigue:
 
 I.- Cuantificará y calificará los requerimientos, atendiendo a las características de los inmuebles solicitados y a su localización;
 
@@ -939,17 +945,19 @@ En caso de que se requiera adquirir inmuebles, deberá hacerse con cargo a la pa
 
 Cuando se requiera ejecutar obras de construcción, modificación, adaptación, conservación y mantenimiento de bienes muebles o inmuebles que tengan el carácter de históricos, artísticos o arqueológicos, se obtendrá previamente la opinión de las autoridades competentes en estas materias.
 
-#### SECCION SEXTA. DE LA ADQUISICION, ENAJENACION Y ARRENDAMIENTO DE BIENES
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 1995)</small>
+#### SECCION SEXTA. DE LA ENAJENACION Y ARRENDAMIENTO DE BIENES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 106.
 
-La enajenación de inmuebles del Estado, así como si se gravan en alguna forma que afecte su libre uso por un término mayor de cinco años, será efectuada por los servidores públicos que señale el Congreso del Estado en el decreto por el cual se autoricen estas operaciones. En caso de no preverse en el decreto respectivo la designación del funcionario autorizado para efectuar la operación, ésta podrá ser realizada por el Titular del Ejecutivo del Estado o por el Secretario de Finanzas y Tesorero General del Estado.
+La enajenación de inmuebles propiedad del Estado, así como su afectación por gravamen o cualquier acto que en alguna forma se afecte su libre uso por un término mayor de cinco años, será efectuada por los servidores públicos que señale el Congreso del Estado en el decreto por el cual se autoricen estas operaciones. En caso de no preverse en el decreto respectivo la designación del funcionario autorizado para efectuar la operación, se entenderá que corresponde al Titular de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-La Secretaría de Finanzas y Tesorería General del Estado será la autoridad facultada para celebrar los actos en donde se haga constar la enajenación de bienes muebles del Estado.
+La Oficialía Mayor de Gobierno será la autoridad facultada para celebrar los actos en donde se haga constar la enajenación de bienes muebles del Estado.
 
 Tratándose de inmuebles propiedad de entidades públicas del sector paraestatal, para su enajenación o afectación bastará la autorización que expida su respectivo consejo de administración u órgano equivalente. Del uso de esta facultad se informará al rendirse la cuenta pública correspondiente.
 
@@ -983,29 +991,31 @@ En los casos de donación a que se refiere el artículo 107 de esta ley, el decr
 
 Tanto el bien objeto de la donación como sus mejoras revertirán en favor del Estado, si el donatario no iniciare la utilización del bien en el fin señalado, dentro del plazo máximo previsto, o si, habiéndolo hecho, diere al inmueble un uso distinto antes de que concluya el período mínimo a que se refiere el párrafo anterior, sin contar con la previa autorización del Ejecutivo del Estado. Cuando la donataria sea una asociación o institución privada, también procederá la reversión del bien y sus mejoras en favor del Estado, si la donataria desvirtúa la naturaleza o el carácter no lucrativo de sus fines, si deja de cumplir con su objeto o si se extingue antes de que concluya el plazo mencionado en el párrafo anterior. Las condiciones a que se refiere este artículo se insertarán en la escritura de donación respectiva, sin que su omisión afecte la aplicación de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 110.
 
-La venta a particulares de bienes del Estado y sus organismos descentralizados y fideicomisos, cuyo valor de avalúo exceda de la cantidad que anualmente establezca el Congreso del Estado en la Ley de Egresos, deberá hacerse en licitación pública. La convocatoria se publicará por la Secretaría de Finanzas y Tesorería General del Estado, tratándose de bienes del Estado, o por el Director General o funcionario equivalente en el caso de organismos descentralizados y fideicomisos, con quince días de anticipación, por lo menos, en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación en el Estado.
+La venta a particulares de bienes del Estado y sus organismos descentralizados y fideicomisos, cuyo valor de avalúo exceda de la cantidad que anualmente establezca el Congreso del Estado en la Ley de Egresos, deberá hacerse en licitación pública. La convocatoria se publicará por la Oficialía Mayor de Gobierno, tratándose de bienes del Estado, o por el Director General o funcionario equivalente en el caso de organismos descentralizados y fideicomisos, con quince días de anticipación, por lo menos, en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación en el Estado.
 
 En los demás casos, la operación podrá hacerse, a juicio del Ejecutivo, en licitación pública, en licitación por invitación o a través de enajenación directa.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 111.
 
-El precio de los inmuebles que se vayan a adquirir, así como el monto de rentas que pague el Estado o sus organismos descentralizados y fideicomisos, no podrá ser superior en un 20% al señalado en el dictamen respectivo, emitido por la Secretaría de Finanzas y Tesorería General del Estado, a través de la Dirección de Catastro.
+En los casos de enajenaciones, permutas, arrendamientos, garantías o cualquier otro acto jurídico relativo a los inmuebles del Estado o de sus organismos descentralizados, fideicomisos y demás entidades paraestatales, el importe de la operación no podrá ser inferior en un 20% del señalado en el dictamen respectivo, emitido por la autoridad estatal competente en materia de catastro.
 
-En los casos de ventas, permutas o arrendamientos de inmuebles del Estado o de sus organismos descentralizados y fideicomisos, el importe de la operación no podrá ser inferior en un 20% al señalado en el dictamen respectivo, emitido por la Dirección de Catastro.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 112.
 
-Para los efectos a que se refiere el artículo anterior, se podrán utilizar indistintamente un avalúo expedido por la Dirección de Catastro, por instituciones de crédito o por el Instituto Mexicano de Valuación de Nuevo León, A.C.
+Para los efectos a que se refiere el artículo anterior, se podrán utilizar indistintamente un avalúo expedido por la autoridad estatal competente en materia de catastro, por instituciones de crédito o por el Instituto y Colegio Mexicano de Valuación de Nuevo León, A.C. u organismos con objeto semejante.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 113.
 
-La enajenación de bienes muebles del Estado y sus organismos descentralizados y fideicomisos deberá hacerse con base en los precios de mercado de los mismos, según sus características y condiciones particulares, debiendo hacerse constar tales precios con los medios en que sea factible.
+La enajenación de bienes muebles del Estado y sus organismos descentralizados, fideicomisos y demás entidades paraestatales deberá hacerse con base en los precios de mercado de los mismos, según sus características técnicas y condiciones particulares, debiendo establecer tales precios con los medios en que sea factible.
 
 > <small>(F. DE E. P.O. 21 DICIEMBRE DE 1994)</small>
 
@@ -1023,15 +1033,17 @@ En la enajenación de inmuebles del Estado, el Gobierno Estatal se reservará el
 
 Mientras no esté totalmente pagado el precio, los compradores de inmuebles estatales no podrán hipotecarlos ni constituir sobre ellos derechos reales en favor de terceros, ni tendrán facultad para derribar o modificar las construcciones, sin permiso expreso de la Secretaría de Finanzas y Tesorería General del Estado, sin perjuicio de lo establecido en otras disposiciones legales. Lo dispuesto en este artículo se asentará en el documento donde conste la enajenación del inmueble, sin que su omisión afecte su aplicación.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### ARTICULO 117.
 
-El Ejecutivo del Estado y sus organismos descentralizados y fideicomisos podrán optar por enajenar bienes muebles mediante venta directa a particulares, sin sujetarse a licitación pública, cuando no existan por lo menos tres postores idóneos o capacitados legalmente para presentar ofertas; se obtengan mayores beneficios para la Entidad; se trate de programas de vivienda o de fomento empresarial; se den los supuestos previstos en la Ley de Egresos del Estado o el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado.
+El Ejecutivo del Estado y sus organismos descentralizados, fideicomisos y demás entidades paraestatales podrán optar por enajenar bienes muebles mediante venta directa a particulares, sin sujetarse a licitación pública, cuando no existan por lo menos tres postores idóneos o capacitados legalmente para presentar ofertas; se obtengan mayores beneficios para la Entidad; se trate de programas de vivienda o de fomento empresarial; se den los supuestos previstos en la Ley de Egresos del Estado o el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 118.
 
-Con excepción del caso en que el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado, la Secretaria de Finanzas y Tesorería General del Estado o el director general o funcionario equivalente del organismo descentralizado o fideicomiso, según corresponda, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubieren dado los supuestos a que se refieren los artículos 114 y 117, lo hará del conocimiento de la Secretaría de la Contraloría General del Estado, acompañando la documentación que justifica tal situación.
+Con excepción del caso en que el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado, la Secretaría de Finanzas y Tesorería General del Estado o el director general o funcionario equivalente del organismo descentralizado o fideicomiso, según corresponda, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubieren dado los supuestos a que se refieren los artículos 114 y 117 de ésta Ley, lo hará del conocimiento de la Contraloría Interna, acompañando la documentación que justifica tal situación.
 
 ###### ARTICULO 119.
 
@@ -1045,25 +1057,47 @@ El derecho que este artículo concede deberá ejercitarse ante la autoridad que 
 
 ###### ARTICULO 121.
 
-Tratándose de la adquisición de los bienes muebles a que se refiere el artículo 76, así como en el caso de arrendamiento de inmuebles para oficinas públicas en las que el Estado tenga el carácter de arrendatario, en lo no previsto en esta Ley se aplicará la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública del Estado.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 122.
 
-Las dependencias de la administración pública sólo podrán arrendar por conducto de la Secretaria de Finanzas y Tesorería General del Estado bienes inmuebles para su servicio, cuando no sea posible o conveniente su adquisición.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2006)
 
-Tanto la adquisición como el arrendamiento de inmuebles para oficinas públicas del sector centralizado, así como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, requerirán la autorización previa de los estudios, proyectos o programas, por parte de la Secretaría de Finanzas y Tesorería General del Estado, independientemente de la competencia o intervención que les corresponda a otras dependencias.
-
-El Ejecutivo, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, determinará las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas estatales.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 123.
 
-El Comité de Operaciones Patrimoniales del Estado tendrá como función auxiliar al Ejecutivo, a través de dictamen, en aquellas cuestiones en las que se vea involucrado el patrimonio mobiliario, inmobiliario, histórico y artístico del Estado. El Comité se integrará con los titulares de la Secretaría General de Gobierno, de la Secretaría de Finanzas y Tesorería General del Estado, de la Procuraduría General de Justicia, de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaría de la Contraloría General del Estado, de la Oficialía Mayor de Gobierno del Estado y de las demás dependencias que el Ejecutivo determine, con sus respectivos suplentes, y lo presidirá el titular de la Secretaría de Finanzas y Tesorería General del Gobierno del Estado.
+Se establece el Comité de Operaciones Inmobiliarias del Estado como un órgano colegiado e interinstitucional de carácter consultivo, de opinión, y en su caso dictaminador, con el propósito de auxiliar en las operaciones concernientes a la limitación, afectación, gravamen, transmisión de dominio y el otorgamiento del uso y goce de los bienes inmuebles propiedad del Estado a favor de terceros, ya sea que se lleve a cabo mediante la enajenación, concesión, aprovechamiento, permuta, donación, explotación, garantía, arrendamiento, usufructo, comodato, derecho real de superficie o cualquier otro acto jurídico.
 
-El Ejecutivo del Estado emitirá las normas de carácter general que regularán las funciones, atribuciones, bases y lineamientos del Comité de Operaciones Patrimoniales del Estado.
+El Comité se integrará por representantes de las siguientes dependencias:
+
+I. Con voz y voto:
+
+a) La Secretaría de Finanzas y Tesorería General del Estado;
+
+b) La Oficialía Mayor de Gobierno;
+
+c) La Procuraduría General de Justicia;
+
+d) La Secretaría de Desarrollo Económico;
+
+e) La Secretaría de Obras Públicas; y
+
+f) Las demás dependencias que el Ejecutivo determine.
+
+II. Sólo con voz:
+
+a) La Contraloría Interna; y
+
+b) La Dependencia promovente.
+
+El representante de la Secretaría de Finanzas y Tesorería General del Estado presidirá las sesiones del Comité y deberá tener nivel jerárquico de Director o superior a éste y tendrá voto de calidad en caso de empate.
+
+Los demás integrantes del Comité de Operaciones Inmobiliarias del Estado acreditarán su representación mediante escrito del titular de la dependencia de que se trate, en la inteligencia de que éstos deberán tener nivel jerárquico de director o superior y sus respectivos suplentes deberán tener, como mínimo, nivel jerárquico de coordinador o equivalente.
+
+El Comité sólo sesionará cuando se encuentren presentes la mayoría de sus integrantes entre los cuales deberá estar el representante de la Secretaría de Finanzas y Tesorería General del Estado y sus decisiones se tomarán por mayoría de votos, haciéndose constar en el acta respectiva la votación correspondiente.
+
+El Ejecutivo del Estado emitirá las normas de carácter general que regularán las funciones, atribuciones, bases y lineamientos del Comité de Operaciones Inmobiliarias del Estado.
 
 ### CAPITULO X. DEL FINANCIAMIENTO A TRAVES DEL CREDITO PUBLICO
 
@@ -1498,3 +1532,7 @@ Artículo Tercero.- Las disposiciones del presente Decreto no le serán aplicabl
 P.O. 30 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 1º de enero del año 2006.
+
+P.O. 29 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
