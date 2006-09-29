@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2004-11-18"
+last_updated: "2006-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -12793,7 +12793,7 @@ Sólo por el consentimiento de todos los acreedores puede remitirse la obligaci�
 
 ###### Artículo 2515.
 
-El heredero del deudor del bien indiviso, apremiado por la totalidad de la obligación, puede pedir un término para hacer concurrir a sus coherederos, siempre que la deuda no sea de tal naturaleza que sólo pueda satisfacerse por el heredero demandado, quien entonces puede ser condenado, pero dejando a salvo sus derechos de indemnización contra sus coherederos.
+El heredero del deudor de bien indiviso, apremiado por la totalidad de la obligación, puede pedir un término para hacer concurrir a sus coherederos, siempre que la deuda no sea de tal naturaleza que sólo pueda satisfacerse por el heredero demandado, quien entonces puede ser condenado, pero dejando a salvo sus derechos de indemnización contra sus coherederos.
 
 ###### Artículo 2516.
 
@@ -16549,11 +16549,13 @@ VIII.- Cuando no se individualicen los bienes del deudor sobre los que constituy
 
 IX.- Cuando falte algún otro requisito que deba llenar el documento de acuerdo con este Código u otras leyes aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 ###### Artículo 3186.
 
-La calificación hecha por el registrador podrá recurrirse ante el Secretario de Gobierno. Si éste confirma la calificación el perjudicado por ella podrá reclamarla en juicio, en el que será parte el Registrador.
+La calificación hecha por el Registrador podrá recurrirse ante el Secretario de Hacienda, si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio, en el que será parte el Registrador.
 
-Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiera hecho la anotación preventiva a que se refiere la fracción IV del artículo 3200.
+Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiera hecho la anotación preventiva a que se refiere la fracción IV del Artículo 3200.
 
 ### CAPITULO SEPTIMO. De los diferentes ramos del registro
 
@@ -16864,3 +16866,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO.- Los efectos del presente decreto de reforma, se retrotraen al veintidós de septiembre del año dos mil cuatro, fecha de inicio del Sistema del Folio Registral.
+
+P.O. 29 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
