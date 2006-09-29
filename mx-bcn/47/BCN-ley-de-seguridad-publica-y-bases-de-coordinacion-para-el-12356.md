@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2006-02-24"
+last_updated: "2006-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -177,7 +177,9 @@ Asimismo, deberán expedir las identificaciones y proporcionar, sin costo alguno
 
 Los uniformes, placas e insignias de los elementos de seguridad privada o auxiliar, serán distintos a los que corresponde usar a la Policía Preventiva y Policía Ministerial. Se diseñarán de manera que posibiliten la plena identificación y puedan distinguirse las corporaciones de seguridad pública de las privadas.
 
-Queda prohibido a los elementos de seguridad pública y privada la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio similar distinto a los reglamentarios; el uso de vehículos sin placas, robados o recuperados y cuya estancia en el país sea ilegal; así como la utilización de insignias, divisas, armamento o uniformes reservados al Ejército, Armada y Fuerza Aérea Nacionales.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
+Queda prohibido a los elementos de seguridad pública y privada la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio similar, distinto a los reglamentarios; el uso de vehículos sin placas o con placas que no le correspondan, robados o recuperados y cuya estancia en el país sea ilegal; así como la utilización de insignias, armamento o uniformes reservados al Ejército, Armada y Fuerza Área Nacionales.
 
 Asimismo queda prohibido, prestar simultáneamente servicios de cualquier carácter en un cuerpo de seguridad pública y privada.
 
@@ -1098,3 +1100,7 @@ CUARTO.- Los procedimientos que se encuentren pendientes de resolución antes de
 P.O. 24 DE FEBRERO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
