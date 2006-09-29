@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2006-09-05"
+last_updated: "2006-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2006.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -454,7 +454,11 @@ Notas.
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 19. Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería
+### Capítulo 19
+
+Preparaciones a base de cereales, harina, almidón, fécula o leche;
+
+productos de pastelería
 
 Notas.
 
@@ -1050,7 +1054,11 @@ b) metales (incluso metal precioso) o pigmentos, depositados en una hoja de cual
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 33. Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética
+### Capítulo 33
+
+Aceites esenciales y resinoides;
+
+preparaciones de perfumería, de tocador o de cosmética
 
 Notas.
 
@@ -4734,7 +4742,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 
 SEGUNDO.- El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.01, 4412.19.99, 4412.22.01, 4412.29.99, 4412.92.01 y 4412.99.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 28.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 24.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 20.
 
-El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 15.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, D.O.F. 29 DE SEPTIEMBRE DE 2006)</small>
+
+El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 10.
 
 D.O.F. 14 DE SEPTIEMBRE DE 2005.
 
@@ -4765,3 +4775,15 @@ D.O.F. 5 DE SEPTIEMBRE DE 2006.
 > <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.</small>
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se reforma el párrafo segundo del artículo segundo transitorio del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y se reforman y adicionan los diversos que establecen la tasa aplicable para el 2005 del impuesto general de importación para las mercancías originarias de algunos países con los que México ha celebrado tratados y acuerdos comerciales, publicado en el Diario Oficial de la Federación el 7 de septiembre de 2005 para quedar en los siguientes términos:
+
+"SEGUNDO.- .
+
+.
+
+El arancel establecido en el artículo primero de este Decreto para las fracciones arancelarias 4412.13.99, 4412.14.99, 4412.19.01, 4412.23.99 y 4412.93.99, estará vigente hasta el 15 de agosto de 2006. A partir del 16 de agosto de 2006, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 23.5, y estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 10."
