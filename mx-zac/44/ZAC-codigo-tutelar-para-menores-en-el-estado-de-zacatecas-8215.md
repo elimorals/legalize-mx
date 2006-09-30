@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-tutelar-para-menores-en-el-estado-de-zacatecas-8215"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-04-26"
-last_updated: "2004-12-29"
+last_updated: "2006-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 CODIGO TUTELAR PARA MENORES EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 1986.
 
@@ -912,3 +914,29 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 29 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2006.
+
+Primero.- Esta Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial, Ógano del Gobierno del Estado.
+
+Segundo.- Se abroga el Código titular para Menores en el Estado de Zacatecas, contenido en el Decreto No. 237 publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el 26 de abril de 1986 y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- El procedimiento de juicio oral establecido en esta Ley comenzará a aplicarse a partir de julio del 2007, en tanto, el juez especializado deberá aplicar un procedimiento sumario atendiendo las garantías contenidas en el artículo 18 de la Constitución General de la República y los principios generales establecidos en esta Ley.
+
+En tanto se aprueban las reformas procedentes a la Ley Orgánica del Poder Judicial, la aplicación de esta Ley quedarán cargo de un juez designado mediante acuerdo general emitido por el Pleno del Tribunal Superior de Justicia, este juez especializado deberá conocer de los asuntos en trámite y los que le sean remitidos, de conformidad con las disposiciones contenidas en el artículo 18 de la Constitución General de la República y los principios generales de este ordenamiento, en todo lo que beneficien al adolescente en conflicto con la ley penal.
+
+El juzgado especializado deberá contar con el personal auxiliar que las necesidades del servicio requieran para el cumplimiento de sus funciones.
+
+Para la designación del juez y el personal, el Tribunal Superior de Justicia tomará en cuenta a aquellos servidores públicos con especialidad o conocimiento en materia de justicia para adolescentes.
+
+Para el conocimiento de los recursos que se interpongan entre el inicio de la vigencia de esta Ley y las reformas a que se hace referencia en este artículo, el Poder Judicial, mediante acuerdo general del Pleno, tomará las medidas administrativas que estime convenientes para su substanciación y resolución.
+
+Lo anterior, a efecto de que se respeten al adolescente en conflicto con la ley penal las garantías que en su favor establece el artículo 18 de la Constitución General de la República y los principios generales de esta Ley.
+
+Cuarto.- En tanto se aprueben las reformas procedentes a la Ley Orgánica del Ministerio Público del Estado, la titular del Poder Ejecutivo dispondrá las adecuaciones administrativas necesarias para el funcionamiento de las Agencias del Ministerio Público especializadas en adolescentes que requiera la atención de los asuntos en trámite. De igual manera, deberá garantizar la asistencia jurídica de los adolescentes a través de la asignación de defensores de oficio especializados.
+
+Quinto.- El Centro de Internamiento y Atención integral Juvenil se entregará con el personal que al efecto designe la titular del Ejecutivo del Estado y se ubicará en las instalaciones que actualmente ocupa el Centro de Observación del Consejo Tutelar para Menores.
+
+Sexto.- El Ejecutivo Estatal y el Poder Judicial, en sus respectivos ámbitos de competencia, establecerán programas para la selección y capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración y administración de justicia para adolescentes, así como para aquellos que se incorporen al Centro de Internamiento y Atención integral Juvenil.
+
+Séptimo.- Los Poderes Ejecutivo y Judicial establecerán la prevención presupuestal correspondiente para el establecimiento, integración y funcionamiento del Sistema de Justicia para Adolescentes previsto en esta Ley.
