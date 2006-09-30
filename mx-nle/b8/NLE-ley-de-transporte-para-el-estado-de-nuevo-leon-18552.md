@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-el-estado-de-nuevo-leon-18552"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-25"
-last_updated: "2003-09-19"
+last_updated: "2006-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PARA LA MOBILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de octubre de 2000.
 
@@ -1028,3 +1030,25 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 P.O. 19 DE SEPTIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor sesenta días naturales posteriores a partir de su publicación en el Periódico Oficial del Estado, y por lo que respecta al capítulo VI denominado "Del Sistema de Transporte de Carga", quedará supeditado para su vigencia a que transcurran sesenta días naturales posteriores a la fecha en que quede publicado en el Periódico Oficial del Estado el Plan Pectoral de Transporte y Vialidad en su apartado de carga para el Área Metropolitana de la Ciudad de Monterrey se elaborará de manera conjunta entre la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, la Agencia para Planeación del Desarrollo Urbano de Nuevo León y el Consejo Estatal de Transporte y Vialidad, en consenso con las Cámaras de la Industria y el Comercio del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Transporte para el Estado de Nuevo León publicada en el Periódico Oficial del Estado en decreto número 393 de fecha 25 de octubre de 2000, se derogan también las reformas que hubiere tenido dicho ordenamiento. Asimismo, se derogan todas las disposiciones contrarias a lo establecido en esta Ley.
+
+Artículo Tercero.- Con el fin de proveer lo necesario en lo administrativo par la ejecución de esta Ley se establece un plazo para la expedición del Reglamento respectivo de sesenta días posteriores a partir de la publicación del presente decreto en el Periódico Oficial del Estado. En ningún caso podrá el reglamento otorgar facultades extraordinarias a las establecidas en la Ley.
+
+Artículo Cuarto.- Los procedimientos y recursos que se encuentran en trámite a la entrada en vigor de esta Ley, se substanciarán con arreglo a la Ley que se abroga.
+
+Artículo Quinto.- Para regular las autorizaciones provisionales con que cuenten los actuales prestadores de servicio del transporte urbano de pasajeros, la Agencia prioritaria y preferentemente agotará previamente con los mismos el proceso de canje de sus actuales permisos por la concesión correspondiente.
+
+Entre tanto se procede a la expedición de la concesión dichas autorizaciones o permisos surtirán todos sus efectos legales.
+
+Tratándose de vehículos de alquiler deberán contar con expediente integrado y seleccionados preferentemente por antigüedad.
+
+Artículo Sexto.- La ruta de la modalidad del SITRA comprendida en el Artículo 26 fracción I y que operan dentro del área Metropolitana de Monterrey deberán emigrar al SITME de acuerdo al convenio de reestructuración entre la Agencia y los actuales prestadores del Servicio, tomando como referencia las bases establecidas en los artículos 65 y 66 de esta Ley y lo señalado por el Plan Sectorial de Transporte y Vialidad.
+
+Artículo Séptimo.- En tanto no se expidan normas técnicas estatales correspondientes para regular las diferentes modalidades del servicio SITCA, se aplicará la normatividad federal sobre la materia.
+
+Artículo Octavo.- Las autoridades competentes deberán realizar los estudios que permitan conocer y dar solución a la problemática de los servicios de vehículos de alquiler que operen dentro y fuera de la zona metropolitana de Monterrey.
