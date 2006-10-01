@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ejecucion-de-sanciones-del-estado-de-yucatan-18690"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2000-03-30"
+last_updated: "2006-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EJECUCION DE SANCIONES DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -47,11 +47,17 @@ LEY DE EJECUCIÓN DE SANCIONES DEL ESTADO DE YUCATÁN
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto:
 
-I. Establecer las normas relativas a la ejecución de las sanciones privativas de libertad, que impongan las autoridades jurisdiccionales, del fuero común de acuerdo a la legislación penal vigente;
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
-II. Facultar a las autoridades competentes para que vigilen y controlen todo acto relativo a la reclusión de los internos en los Centros de Readaptación Social;
+I. Establecer las normas relativas a la ejecución de las sanciones privativas de libertad, que impongan las autoridades jurisdiccionales de acuerdo a la legislación penal vigente; así como, las relativas a la supervisión de la aplicación de las medidas impuestas por los órganos Jurisdiccionales Especializados en Justicia para Menores;
 
-III. Fijar las facultades y obligaciones de las autoridades estatales que participen en la ejecución de las sanciones privativas de libertad, y
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+II. Facultar a las autoridades competentes para que vigilen y controlen todo acto relativo a la reclusión de los internos en los Centros de Readaptación Social, así como lo relativo al internamiento de los adolescentes, en el Centro Especializado en la Aplicación de Medidas;
+
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+III. Fijar las facultades y obligaciones de las autoridades estatales que participen en la ejecución de las sanciones privativas de libertad, así como de las encargadas de la supervisión del Centro Especializado en la Aplicación de Medidas para Adolescentes y de las medidas determinadas para los adolescentes, y
 
 IV. Establecer el tratamiento al que habrán de sujetarse los internos en los Centros de Readaptación Social.
 
@@ -67,13 +73,21 @@ El Ejecutivo del Estado podrá celebrar con los gobiernos federal o de otras ent
 
 En materia de readaptación social, el Ejecutivo del Estado organizará jurídica y administrativamente el Sistema Penitenciario sobre la base de la educación, la capacitación laboral y el trabajo, como medios para la reincorporación social del delincuente y supervisará los Centros de Readaptación Social de la entidad para mantener la seguridad, tranquilidad e integridad del establecimiento, de los internos, del personal y de los visitantes, ejerciendo las medidas y acciones pertinentes para el buen funcionamiento del establecimiento.
 
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+Corresponde también al Ejecutivo, organizar administrativa y jurídicamente el Centro Especializado en la Aplicación de Medidas para Adolescentes, buscando su reincorporación social y familiar, mediante el pleno desarrollo de su persona y capacidades; de igual modo, supervisa la aplicación de las medidas impuestas a los mismos, conforme a lo dispuesto por la autoridad jurisdiccional.
+
 ###### ARTÍCULO 5.
 
 Los procedimientos para hacer efectivo el importe de las sanciones pecuniarias o de las fianzas por incumplimiento de las obligaciones contraídas en los procesos de carácter penal, estarán a cargo de la Secretaría de Hacienda y Planeación o de la dependencia que ejerza sus funciones, en los términos que establezcan las disposiciones legales aplicables.
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTÍCULO 6.
 
-La Dirección de Prevención y Readaptación Social practicará las acciones conducentes al estricto cumplimiento de las sentencias a que se refiere esta Ley y realizará las gestiones correspondientes ante las autoridades administrativas o solicitando ante los Tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido en la sentencia en favor o en contra de los individuos objeto de ella. La Dirección de Prevención y Readaptación Social procederá conforme a esta disposición, ya sea por queja del interesado o cuando por cualquier otro medio tenga conocimiento de que la autoridad encargada de la ejecución de la sentencia, se aparte de lo ordenado en ella o en la Ley.
+La Dirección de Prevención y Readaptación Social, practicará las acciones conducentes al estricto cumplimiento de las sentencias a que se refiere esta Ley, y de las medidas impuestas conforme a la Ley especial de la materia, por medio de la Unidad Administrativa Especializada para la Supervisión de Medidas aplicadas a Adolescentes. Cuando las autoridades administrativas o sus Subalternos, incurran en abusos o se aparten de lo prevenido en la sentencia o resolución definitiva a favor o en contra de los individuos objeto de ella, realizará las gestiones correspondientes ante las autoridades administrativas, o solicitando la suspensión inmediata a los abusos y procediendo de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+La Dirección de Prevención y Readaptación Social procederá conforme a esta disposición, ya sea por queja del interesado o cuando por cualquier otro medio tenga conocimiento de que la autoridad encargada de la ejecución de la sentencia o de la medida, se aparte de lo ordenado en ella o en la Ley.
 
 ###### ARTÍCULO 7.
 
@@ -151,6 +165,10 @@ En dicha planeación se procurará en lo posible, la liberación de la carga eco
 
 XIII. Seleccionar y capacitar, de acuerdo a los criterios aplicados en el actual Sistema Penitenciario, al personal de los Centros de Readaptación Social en los niveles: ejecutivo, administrativo, técnico, de servicios generales y de custodia. La capacitación será previa y posterior a la toma de posesión del cargo;
 
+(ADICIONADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+XIII Bis. Diseñar, establecer y ejecutar programas de capacitación en materia de justicia para adolescentes, para el Centro Especializado en la Aplicación de Medidas para Adolescentes, así como para la Unidad Especializada para la Supervisión de Medidas aplicadas a Adolescentes;
+
 XIV. Implementar medidas para mejorar el funcionamiento administrativo y técnico de los Centros de Readaptación Social, así como para atender las necesidades de los internos y las sugerencias o quejas de sus familiares o defensores;
 
 XV. Supervisar el tratamiento del sistema progresivo técnico en todas sus fases;
@@ -215,11 +233,53 @@ El Consejo Técnico Interdisciplinario estará integrado por el personal que cum
 
 El Consejo Técnico Interdisciplinario será presidido por el Director del Centro de Readaptación Social correspondiente, celebrará sesiones ordinarias cada mes con la asistencia de la mayoría de sus integrantes y extraordinarias, cuando sea convocado por el propio Director. Las decisiones del Consejo Técnico Interdisciplinario se tomarán por la mayoría de votos de los asistentes y en caso de empate, el Director tendrá voto de calidad.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO IV. DEL A UNIDAD ADMINISTRATIVA ESPECIALIZADA PARA LA SUPERVISIÓN DE MEDIDAS APLICADAS A ADOLESCENTES
+
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+ARTÍCULO 17 BIS. La Unidad Administrativa Especializada para la Supervisión de Medidas aplicadas a Adolescentes, será responsable de la aplicación de esta Ley en su parte conducente, y su Titular será designado por la Secretaría General de Gobierno.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+Asimismo, contará con el personal administrativo, técnico y jurídico Especializado en Justicia para Adolescentes y demás que se requiera.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+Para ser Titular de la Unidad Administrativa Especializada para la Supervisión de Medidas aplicadas a Adolescentes, se requiere reunir los requisitos que se establece para ser Director de Prevención y Readaptación Social, además de conocimientos Especializados en Justicia para Adolescentes.
+
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+ARTÍCULO 17 TER. La Unidad Administrativa Especializada para la Supervisión de Medidas aplicadas a adolescentes, tendrá las atribuciones siguientes:
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+I.- Realizar visitas periódicas al Centro y verificar que su estructura física, equipamiento y funcionamiento, sean adecuados para cumplir con lo establecido en la Ley especial de la materia, levantando un acta circunstanciada en cada visita, que firmarán el visitador y el Director del Centro;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+II.- Coordinar las acciones necesarias para mejorar los aspectos que así lo requieran, a partir de lo indicado en el acta de visita;
+
+III.- Vigilar la estricta aplicación de la Ley especial de la materia, del Reglamento Interno del Centro y demás ordenamientos aplicables, en el ámbito de su competencia;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+IV.- Recibir, atender y en su caso, tramitar las quejas sobre cualquier irregularidad que se presentará en relación con el personal o los adolescentes internos en la institución;
+
+V.- Vigilar que en todo momento se respete la integridad, la dignidad, los derechos y las garantías de los adolescentes internos en el Centro;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+VI.- Emitir acuerdos vinculatorios respecto al funcionamiento del Centro;
+
+VII.- Recibir las quejas que interpongan los adolescentes internos o el personal del Centro, en contra del Director del mismo, turnándolas al órgano que corresponda, y
+
+VIII.- Las demás que le atribuyan otras disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. DEL SISTEMA PENITENCIARIO
 
-### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 18.
 
@@ -339,7 +399,7 @@ No podrán tener acceso los internos a revistas o libros obscenos, bebidas alcoh
 
 Queda prohibido a los internos poseer libros, revistas, periódicos, textos, fotografías o dibujos que provoquen, directa o indirectamente, desdén hacia el pueblo mexicano o propaguen ideas contrarias a los principios democráticos consignados en la Constitución Política de los Estados Unidos Mexicanos, o los que inciten a actuar negativamente en su proceso de readaptación a juicio del Consejo Técnico Interdisciplinario.
 
-### CAPÍTULO III. DEL PERSONAL
+### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
 
 ###### ARTÍCULO 42.
 
@@ -395,7 +455,7 @@ Los internos enfermos mentales serán enviados a establecimientos especializados
 
 Los internos sordomudos serán recluidos en escuelas o establecimientos especiales para su educación, pero en los casos del artículo que antecede podrán estar separados en una sección especial.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DEL PERSONAL
 
 ###### ARTÍCULO 50.
 
@@ -463,7 +523,7 @@ La custodia de los establecimientos o departamentos de mujeres estará exclusiva
 
 ## TÍTULO CUARTO. REGLAS COMUNES A PROCESADOS Y SENTENCIADOS
 
-### CAPÍTULO I. DEL RÉGIMEN OCUPACIONAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 60.
 
@@ -569,7 +629,7 @@ Para lograr estos fines, la Dirección de Prevención y Readaptación Social dis
 
 ## TÍTULO QUINTO. DEL RÉGIMEN INTERIOR DE LOS ESTABLECIMIENTOS
 
-### CAPÍTULO II. DEL RÉGIMEN EDUCATIVO
+### CAPÍTULO I. DEL RÉGIMEN OCUPACIONAL
 
 ###### ARTÍCULO 81.
 
@@ -635,7 +695,7 @@ El Ejecutivo del Estado, de acuerdo a sus posibilidades, proporcionará a los in
 
 Las condiciones, horarios y demás disposiciones procedentes para el trabajo de los internos, se determinarán en el Reglamento Interior de los Centros de Readaptación Social.
 
-### CAPÍTULO III. ASISTENCIA MÉDICA
+### CAPÍTULO II. DEL RÉGIMEN EDUCATIVO
 
 ###### ARTÍCULO 91.
 
@@ -665,7 +725,7 @@ Con autorización de la Dirección del Centro de Readaptación Social respectivo
 
 Los Centros de Readaptación Social contarán con una biblioteca, cuando menos y los internos podrán hacer uso del servicio, respetando los horarios y disposiciones que dicte la Dirección.
 
-### CAPÍTULO IV. DEL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO III. ASISTENCIA MÉDICA
 
 ###### ARTÍCULO 95.
 
@@ -709,7 +769,7 @@ El médico que corresponda deberá visitar a los internos enfermos con la frecue
 
 El médico del establecimiento deberá dar cumplimiento a las disposiciones relativas a la Ley de Salud, en los casos de enfermedades transmisibles.
 
-### CAPÍTULO V. DEL TRABAJO SOCIAL
+### CAPÍTULO IV. DEL RÉGIMEN DISCIPLINARIO
 
 ###### ARTÍCULO 101.
 
@@ -753,7 +813,7 @@ Los internos tienen derecho a ser recibidos en audiencia por los servidores púb
 
 Sólo el Director del Centro de Readaptación Social respectivo podrá imponer las medidas disciplinarias previstas por esta Ley y por el reglamento respectivo, mediante un procedimiento sumario encaminado a comprobar la falta y la responsabilidad del interno y a escuchar a éste en su defensa. El interno podrá denunciar la comisión de abusos en la aplicación de correcciones, recurriendo para ello a la Dirección de Prevención y Readaptación Social, la cual estará facultada para subsanar las anomalías que se hubieren cometido en perjuicio del interno, de resultar procedente.
 
-### CAPÍTULO I. DE LAS SANCIONES PRIVATIVAS DE LIBERTAD
+### CAPÍTULO V. DEL TRABAJO SOCIAL
 
 ###### ARTÍCULO 107.
 
@@ -771,13 +831,13 @@ Asimismo, trabajará coordinadamente con los organismos no institucionales, a fi
 
 ## TÍTULO SEXTO. DE LAS SANCIONES IMPUESTAS POR LOS TRIBUNALES
 
-### CAPÍTULO II. DE LAS SANCIONES PECUNIARIAS
+### CAPÍTULO I. DE LAS SANCIONES PRIVATIVAS DE LIBERTAD
 
 ###### ARTÍCULO 110.
 
 En la ejecución de sanciones que importen privación o restricción de libertad, el Ejecutivo del Estado aplicará a los infractores los procedimientos que estime conducentes a su rehabilitación, educación moral y física, instrucción y readaptación social sobre las bases que se establecen en esta Ley y de acuerdo con las condiciones y posibilidades materiales existentes.
 
-### CAPÍTULO III. DE LA INTERNACIÓN
+### CAPÍTULO II. DE LAS SANCIONES PECUNIARIAS
 
 ###### ARTÍCULO 111.
 
@@ -813,7 +873,7 @@ II. Si excediere de 50 días multa, se podrá conceder un plazo de hasta dos añ
 
 Si no alcanzare a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el sentenciado liberado seguirá sujeto a la obligación de pagar la parte que falte o la totalidad, en su caso
 
-### CAPÍTULO IV. DE LA EXTINCIÓN DE LAS SANCIONES
+### CAPÍTULO III. DE LA INTERNACIÓN
 
 ###### ARTÍCULO 118.
 
@@ -827,7 +887,7 @@ Cuando sobreviniere la curación de los inimputables serán reingresados en el l
 
 En los casos previstos en este Capítulo, los enfermos a quienes se aplique internación podrán ser entregados, en los términos del Código Penal, a quienes corresponda hacerse cargo de ellos, debiendo tomarse las medidas de aseguramiento a juicio del Juez o Tribunal, si se trata de procesados o del Ejecutivo del Estado, si se trata de sentenciados, para garantizar el daño que pudieren causar dichos enfermos por no haberse tomado las precauciones necesarias en su vigilancia y de que, en su caso, reingresen al Centro de Readaptación Social.
 
-### CAPÍTULO I. CONMUTACIÓN
+### CAPÍTULO IV. DE LA EXTINCIÓN DE LAS SANCIONES
 
 ###### ARTÍCULO 120.
 
@@ -849,7 +909,7 @@ Todo interno que quede en libertad será examinado previamente por el médico de
 
 ## TÍTULO SÉPTIMO. VARIACIÓN DE SANCIONES
 
-### CAPITULO II. MODIFICACIÓN
+### CAPÍTULO I. CONMUTACIÓN
 
 ###### ARTÍCULO 124.
 
@@ -869,7 +929,7 @@ Recibida la solicitud, el Ejecutivo del Estado la resolverá dentro de un térmi
 
 La conmutación no exime de la reparación del daño.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO II. MODIFICACIÓN
 
 ###### ARTÍCULO 128.
 
@@ -881,7 +941,7 @@ Recibida la solicitud establecida en el artículo anterior, el Ejecutivo del Est
 
 ## TÍTULO OCTAVO. DE LOS BENEFICIOS DE LIBERTAD ANTICIPADA
 
-### CAPÍTULO II. DE LA REMISIÓN PARCIAL DE LA PENA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 130.
 
@@ -927,7 +987,7 @@ No se concederán los beneficios a que se refiere este Capítulo, a los internos
 
 El Ejecutivo del Estado, por conducto de la Dirección de Prevención y Readaptación Social, solicitará a la autoridad competente, de conformidad con los procedimientos legales establecidos, la reaprehensión del interno al que se le haya concedido alguno de los beneficios que señala esta Ley, para que extinga la parte de la pena privativa de libertad que le falte por compurgar, cuando deje de cumplir los requisitos y condiciones por los que le fue otorgado.
 
-### CAPITULO III. DE LA LIBERTAD PREPARATORIA
+### CAPÍTULO II. DE LA REMISIÓN PARCIAL DE LA PENA
 
 ###### ARTÍCULO 137.
 
@@ -951,7 +1011,7 @@ Si la resolución fuere favorable se comunicará para sus efectos al Director o 
 
 La remisión parcial de la pena podrá ser revocada cuando apareciere posteriormente un error, omisión o alteración de los datos proporcionados en los documentos que integren el expediente.
 
-### CAPÍTULO IV. DE LA PRELIBERACIÓN
+### CAPITULO III. DE LA LIBERTAD PREPARATORIA
 
 ###### ARTÍCULO 142.
 
@@ -989,7 +1049,7 @@ Cuando se revoque la libertad preparatoria se recogerá e inutilizará la consta
 
 El condenado cuya libertad preparatoria haya sido revocada, deberá cumplir el resto de la sanción. Los hechos que originen los nuevos procesos a que se refiere el artículo anterior, interrumpen los plazos para extinguir la sanción.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. DE LA PRELIBERACIÓN
 
 ###### ARTÍCULO 148.
 
@@ -1103,6 +1163,8 @@ TÍTULO DECIMOPRIMERO
 
 SUBSTITUTIVOS DE PRISIÓN
 
+### CAPÍTULO ÚNICO
+
 ###### ARTÍCULO 167.
 
 Los substitutivos de prisión son los medios jurídicos, a través de los cuales se substituye la sanción privativa de libertad por otra a un sentenciado, siempre que cumpla con los requisitos establecidos en el Código Penal del Estado. Los substitutivos de prisión son dictados en sentencias ejecutoriadas por los jueces de lo penal, el Tribunal Superior de Justicia o bien, por las autoridades federales competentes y pueden ser multa, condena condicional, tratamiento en semilibertad, tratamiento en libertad y trabajo en favor de la comunidad.
@@ -1140,3 +1202,33 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
+
+Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
+
+Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
+
+Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
+
+Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+
+Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+
+Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
+
+Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensa Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
+
+Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
+
+Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
