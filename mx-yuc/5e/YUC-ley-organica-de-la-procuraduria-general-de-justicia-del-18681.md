@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-procuraduria-general-de-justicia-del-18681"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-30"
-last_updated: "2000-03-30"
+last_updated: "2006-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo del 2000.
 
@@ -51,7 +51,9 @@ Las disposiciones de esta Ley son de orden público e interés social y tienen p
 
 La Procuraduría General de Justicia del Estado de Yucatán, es la dependencia del Poder Ejecutivo encargada de:
 
-I. Garantizar el despacho oportuno y expedito de los asuntos atribuidos a la Institución del Ministerio Público en los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos, 71, 72 y 73 de la Constitución Política del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+I. Garantizar el despacho oportuno y expedito de los asuntos atribuidos a la Institución del Ministerio Público en los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos, 71, 72, 73 y 73 Bis de la Constitución Política del Estado de Yucatán;
 
 II. Prevenir la comisión de ilícitos mediante programas, estrategias y acciones específicas que para tal efecto se establezcan, y
 
@@ -65,7 +67,9 @@ El Ministerio Público es una Institución de buena fe, unitaria y representativ
 
 Son finalidades del Ministerio Público y en consecuencia de la Procuraduría General de Justicia:
 
-I. La persecución de los delitos del orden común cometidos en el estado, cualesquiera que sean la residencia o nacionalidad de los responsables, así como de los iniciados, preparados o cometidos fuera del estado, cuando produzcan o se pretenda que tengan efectos en el territorio del mismo, siempre que concurran las siguientes circunstancias:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+I. La persecución de los delitos del orden común y de las conductas de los adolescentes tipificadas como delitos por las normas penales del Estado, cualesquiera que sean la residencia o nacionalidad de los responsables, así como de los iniciados, preparados o cometidos fuera del estado, cuando produzcan o se pretenda que tengan efectos en el territorio del mismo, siempre que concurran las siguientes circunstancias:
 
 a). Que el inculpado no haya sido juzgado definitivamente por los mismos hechos en el lugar en que los cometió;
 
@@ -121,7 +125,9 @@ II. Velar por la legalidad en la esfera de su competencia, así como promover la
 
 III. Proteger los derechos e intereses de los menores, incapaces, ausentes y otros de carácter individual o social, en general, en los términos que determinen las leyes;
 
-IV. Investigar las infracciones cometidas por los menores y participar en su carácter de representante social en las diferentes etapas del procedimiento que se siga ante el Consejo Tutelar de Menores Infractores, hasta la conclusión de cada uno de los procesos, en los términos de la ley de la materia;
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+IV. Investigar las conductas atribuidas a los adolescentes y participar en su carácter de representante social, en las diferentes etapas del proceso que se siga ante los Órganos Jurisdiccionales de Justicia para Adolescentes del Poder Judicial del Estado, hasta la conclusión de cada uno de los procesos, en los términos de la ley de la materia;
 
 V. Realizar estudios, formular y ejecutar lineamientos de política criminal y promover reformas que tengan por objeto hacer más eficiente la función de seguridad pública y contribuir al mejoramiento de la procuración e impartición de justicia;
 
@@ -183,7 +189,7 @@ d) Las Agencias Adscritas del Ministerio Público;
 
 e) Las Agencias del Ministerio Público para la Atención de los Delitos contra la Mujer, el Menor, Personas en Edad Senescente y Grupos Vulnerables;
 
-f) La Agencia del Ministerio Público Especializada, Adscrita al Consejo Tutelar de Menores Infractores, y
+f) (DEROGADO, D.O. 1 DE OCTUBRE DE 2006)
 
 g) La Dirección del Servicio Médico Forense.
 
@@ -195,11 +201,25 @@ b) La Dirección de Capacitación y Actualización de Personal;
 
 c) La Dirección de Servicios a la Sociedad, y
 
-d) La Dirección para la Prevención de los Delitos contra la Mujer, el Menor, Personas en Edad Senescente y Grupos Vulnerables.
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+d) La Dirección para la Prevención de los Delitos contra la Mujer, Personas en Edad Senescente y Grupos Vulnerables.
 
 IV. La Subprocuraduría Especializada en Delitos Electorales, contará con el personal de apoyo que sea necesario, de acuerdo a lo que establezca el Reglamento de esta Ley y autorice el presupuesto.
 
-Para garantizar el adecuado funcionamiento de la Procuraduría General de Justicia del Estado, se contará con una Unidad de Contraloría Interna, dependiente de la Secretaría de la Contraloría General del Estado, organizada con las atribuciones que establezcan las leyes aplicables en la materia.
+> <small>(ADICIONADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V. La Subprocuraduría Especializada en Justicia para Adolescentes, de la que forma parte:
+
+a) Las Agencias Investigadoras del Ministerio Público Especializado en Justicia para Adolescentes;
+
+b) Las Agencias Adscritas del Ministerio Público Especializado en Justicia para Adolescentes, y
+
+c) La Dirección de la Policía Ministerial Especializada en justicia para Adolescentes.
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Todo el personal perteneciente a la Subprocuraduría Especializada en Justicia para Adolescentes, deberá contar con estudios en derecho minoril y disciplinas relacionadas con los adolescentes, así como no haber sido condenado por delito de carácter intencional; además de los requisitos previstos en esta ley.
 
 ###### ARTÍCULO 14.
 
@@ -233,13 +253,21 @@ Los Subprocuradores cumplirán los mismos requisitos, exceptuando el referente a
 
 Para ser Agente del Ministerio Público se deberán aprobar los exámenes en materia:
 
-a) Penal;
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
 
-b) Civil;
+I.- Penal;
 
-c) Familiar, y
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
 
-d) Sobre la legislación relativa a senescentes o menores, según el caso.
+II.- Civil;
+
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+III.- Familiar, y
+
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+IV.- Sobre la legislación relativa a senescentes o adolescentes, según el caso.
 
 De igual manera deberán aprobar las pruebas psicológicas y cumplir con los requisitos que para tal efecto se establezcan en el reglamento de esta Ley.
 
@@ -247,9 +275,11 @@ De igual manera deberán aprobar las pruebas psicológicas y cumplir con los req
 
 Para ocupar el cargo de Director en cualquiera de las áreas de la Procuraduría General de Justicia se requiere poseer título profesional de abogado o licenciado en derecho, previo cumplimiento de los requisitos y con las excepciones que señale el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 21.
 
-Para ser Subdirector, Comandante o Jefe de Grupo de la Dirección de la Policía Judicial, se debe haber concluido el nivel educativo superior. Para ser agente de la misma, se requerirá cuando menos el nivel educativo medio superior, independientemente de los demás requisitos que señale el reglamento de esta Ley.
+Para ser Subdirector, Comandante o Jefe de Grupo de la Dirección de la Policía Ministerial, se debe haber concluido el nivel educativo superior. Para ser agente de la misma, se requerirá cuando menos el nivel educativo medio superior, independientemente de los demás requisitos que señale el reglamento de esta Ley.
 
 En los casos a que se refiere el párrafo anterior, el Ejecutivo del Estado podrá dispensar el requisito de nivel educativo que se exige cuando se trate de personal en servicio con antigüedad, experiencia y méritos suficientes comprobables mediante su hoja de servicios, siempre que dicho personal se comprometa a incorporarse a los programas educativos que para tal fin organice la Procuraduría.
 
@@ -295,13 +325,17 @@ VII. Las demás que expresamente le confieran con tal carácter esta Ley, su reg
 
 Son facultades delegables del Procurador General de Justicia:
 
-I. La investigación de los delitos y la persecución de los mismos, ordenando que se practiquen las averiguaciones correspondientes;
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+I. La investigación de los delitos, las conductas de los Adolescentes tipificadas como delitos por las normas penales en el Estado, y la persecución de los mismos, ordenando que se practiquen las averiguaciones correspondientes;
 
 II. El ejercicio ante los Tribunales de la acción penal, ordenando la práctica de las diligencias que sean necesarias;
 
 III. La vigilancia y control del funcionamiento de las empresas que proporcionen servicios de seguridad privada en el estado y las que le señalen la Ley de la materia;
 
-IV. La supervisión y control de los asuntos de orden civil, familiar o de menores y, en general, de todos aquellos en que la Procuraduría General de Justicia conforme a la Ley, deba ser oída, y
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+IV. La supervisión y control de los asuntos de orden civil, familiar o de justicia para adolescentes y en general, de todos aquellos en que la Procuraduría General de Justicia conforme a la Ley, deba ser oída, y
 
 V. Las demás que establezcan esta Ley, su reglamento y otros ordenamientos legales aplicables.
 
@@ -427,7 +461,9 @@ III. La presentación a la consideración del Procurador de los dictámenes que 
 
 IV. La concertación y coordinación con otras dependencias, para la elaboración de programas que incluyan acciones directas acerca de la atención individual, grupal o familiar, que se deban proporcionar a mujeres víctimas de la violencia familiar, delitos sexuales y otros delitos que pongan en peligro su equilibrio emocional e integridad física;
 
-V. La remisión inmediata al Consejo Tutelar de Menores Infractores de los expedientes que se integren sobre hechos delictuosos cometidos por menores de dieciséis años;
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V. La remisión inmediata a la Suprocuraduría Especializada de Justicia para Adolescentes, de los expedientes que se integren sobre conductas atribuidas a adolescentes, y dar vista a la Procuraduría de la Defensa del Menor y la Familia cuando se trate de menores de doce años de edad;
 
 VI. La interposición de los recursos, la promoción y seguimiento de los incidentes, y cuando así corresponda, el desistimiento de los mismos, y
 
@@ -455,13 +491,17 @@ Son atribuciones de la Dirección de Control de Procesos:
 
 I. La vigilancia de la secuela de las causas que se instruyan en los juzgados penales, civiles, familiares y de jurisdicción mixta;
 
-II. La intervención en los procedimientos y procesos que se ventilen en los juzgados y en el Consejo Tutelar de Menores Infractores ejercitando las acciones correspondientes;
+II. (DEROGADA, D.O. 1 DE OCTUBRE DE 2006)
 
 III. La interposición en el proceso de los recursos que procedan conforme a las leyes correspondientes;
 
-IV. El establecimiento de los criterios que los Agentes Adscritos deban seguir en todos los procesos ante los órganos jurisdiccionales y ante el Consejo Tutelar de Menores Infractores;
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
-V. La atención de las consultas que formulen los Agentes del Ministerio Público Adscritos a los Juzgados o al Consejo Tutelar de Menores Infractores;
+IV. El establecimiento de los criterios, que los Agentes Adscritos deban seguir, en todos los procesos ante los órganos jurisdiccionales;
+
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V. La atención de las consultas que formulen los Agentes del Ministerio Público Adscritos a los Juzgados;
 
 VI. El control estadístico de todos los procesos hasta su total y definitiva conclusión, y
 
@@ -557,19 +597,7 @@ V. Las demás que en materia civil, de lo familiar y mercantil les señalen las 
 
 ###### ARTÍCULO 42.
 
-Son atribuciones de las Agencias del Ministerio Público Adscritas al Consejo Tutelar de Menores Infractores:
-
-I. Investigar e integrar los resultados de las actividades relativas a las infracciones cometidas por los menores de dieciséis años, de acuerdo con las disposiciones establecidas en la ley de la materia;
-
-II. Practicar las diligencias necesarias para la comprobación del cuerpo de la infracción y de la probable participación del menor en la comisión del ilícito;
-
-III. Remitir al Consejo Tutelar de Menores Infractores para su custodia, a los infractores sujetos a investigación, en un término máximo de cuarenta y ocho horas, contadas a partir de su presentación;
-
-IV. Realizar todas las diligencias necesarias para conocer la verdad histórica de los hechos que conozca, de acuerdo con los procedimientos y en los términos que establece la ley de la materia;
-
-V. Proteger los derechos legítimos, los intereses de la sociedad y en particular, de las personas afectadas por las infracciones cometidas por los menores, para la debida reparación de los daños causados, y
-
-VI. Las demás que le otorguen esta Ley, la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán y otros ordenamientos legales aplicables.
+(DEROGADO, D.O. 1 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 43.
 
@@ -625,9 +653,15 @@ II. La formación, capacitación y actualización permanente de los Agentes Inve
 
 III. El estudio y análisis de nuevos contenidos y métodos relativos a la formación de personal para su posterior inclusión en los programas correspondientes;
 
-IV. La aplicación y vigilancia de los planes y programas que correspondan a sus funciones, y
+IV. La aplicación y vigilancia de los planes y programas que correspondan a sus funciones, y (sic)
 
-V. Las demás que señale esta Ley, su reglamento y otros ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V. Capacitar en forma permanente y sistemática al persona de la Subprocuraduría Especializada en Justicia para Adolescentes, en materia de derechos humanos, derecho minoril y disciplinas relacionadas con los adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+VI. Las demás que señale esta Ley, su reglamento y otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -692,6 +726,94 @@ VI. La promoción de los desistimientos de la acción penal y las peticiones de 
 VII. La realización de estudios encaminados a fortalecer la aplicación de la legislación electoral en el estado, y
 
 VIII. Las demás que le confieran esta Ley, su reglamento y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+ARTÍCULO 49 BIS. Son atribuciones de la Subprocuraduría Especializada en Justicia para Adolescentes:
+
+I.- En la etapa de averiguación previa:
+
+a) Investigar y perseguir las conductas tipificadas como delitos por las normas penales, atribuidas a adolescentes, en los términos previstos en la presente ley y en las demás disposiciones aplicables.
+
+b) Recibir las denuncias o querellas que se presenten en forma oral o por escrito sobre hechos que puedan constituir conductas tipificadas como delitos por las normas penales y, en su caso, desecharlas cuando sea notorio que los hechos que la integran no lo son.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+c) Investigar las conductas tipificadas como delitos por las normas penales y atribuidas a los adolescentes, conforme a lo previsto en las reglas de integración de las investigaciones; con pleno respeto a la integridad, dignidad y estricto cumplimiento a sus derechos y garantías.
+
+d) Requerir a las demás Agencias del Ministerio Público y a sus órganos auxiliares, para que en forma inmediata les pongan a su disposición a los adolescentes sujetos a investigación.
+
+e) Informar de inmediato al Adolescente y a sus representantes legales, su situación jurídica, así como de sus derechos.
+
+f) Practicar las diligencias conducentes a obtener los elementos de convicción sobre la conducta atribuida al Adolescente y su probable responsabilidad.
+
+g) Garantizar que durante la detención se mantenga al Adolescente en lugares especializados distintos a los destinados a los adultos, no se le incomunique, no se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes.
+
+(F. DE E., D.O. 25 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+h) Remitir a los adolescentes para su proceso al Juzgado Especializado para Adolescentes, dentro de un plazo máximo de cuarenta y ocho horas, contado a partir de su detención, cuando de las investigaciones realizadas se desprenda su participación en la comisión de una conducta tipificada como delito en la legislación penal o, cuando no se acredite el tipo penal o la probable responsabilidad del Adolescente; y resolver, previa autorización del titular de esta Subprocuraduría, la no remisión del mismo.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+i) Solicitar a los Jueces giren las órdenes de localización y presentación que se requiera, para el esclarecimiento de los hechos materia del procedimiento.
+
+j) Proteger los derechos y los intereses legítimos de las personas afectadas, durante la etapa de investigación, así como los intereses de la sociedad en general, velando siempre por la debida reparación de los daños causados.
+
+k) Aplicar el principio de oportunidad.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+l) Propiciar desde el primer momento, la conciliación y la mediación entre las partes, cuando se trate de ilícitos en los que de acuerdo con el Código Penal del Estado, proceda el perdón del ofendido.
+
+m) Dar vista a la Procuraduría de la Defensa del Menor y la Familia, para los efectos dispuestos en la ley del ramo.
+
+n) Remitir al Director de Control de Procesos, copia de la integración de la consignación de la averiguación previa, si procediere, junto con la remisión del expediente, cuando exista coparticipación del Adolescente con adultos en la comisión de una conducta tipificada como delito, y
+
+o) Los demás que esta ley y otros ordenamientos aplicables le establezcan.
+
+II.- En la etapa del proceso ante el Juzgado Especializado para Adolescentes:
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+a) Promover las diligencias procedentes para comprobar el cuerpo del delito y la plena responsabilidad de los adolescentes, sujetos a proceso.
+
+b) Interponer los recursos previstos en esta ley, cuando la resolución sea contraria a los intereses de la representación social, expresando los agravios que cause la resolución recurrida.
+
+c) Desistirse de la acción intentada y de los recursos e incidentes, previa autorización del Titular de esta Suprocuraduría.
+
+d) Formular los alegatos para que el Juez resuelva en definitiva, solicitando en su caso, la aplicación de la medida que proceda, a criterio del juez.
+
+e) Promover la libertad del Adolescente sea porque el hecho no haya existido, porque existiendo no le sea atribuible, no constituya delito o exista a favor de aquél alguna de las causas excluyentes de delito consignadas en el Código Penal del Estado de Yucatán o de extinción de la acción ejercitada.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+f) Aportar los elementos de convicción y promover ante el Juzgado Especializado para Adolescentes, las diligencias conducentes para el esclarecimiento de los hechos, la comprobación del tipo penal y la plena responsabilidad del Adolescentes; así como, la existencia del daño y la fijación del monto de su reparación.
+
+g) Solicitar al Juez, en los casos en que proceda, dicte las medidas cautelares contempladas en esta ley.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+h) Promover las providencias necesarias para restituir a la víctima u ofendido, en el goce de la cosa o derecho que hubiere sido privado, así como exigir la reparación del daño, en los casos que proceda.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+i) Velar en el ámbito de su competencia, que el principio de legalidad se cumpla, promoviendo que el procedimiento se desahogue en forma expedita y oportuna.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+j) Pedir al juez aplique el principio de oportunidad, a través de la conciliación y la mediación entre las partes y cuando se trate de ilícitos en los que de acuerdo con el Código Penal del Estado, proceda el perdón del ofendido.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+k) El establecimiento de los criterios que los Agentes Adscritos deban seguir, en todos los procesos ante los órganos jurisdiccionales.
+
+l) El control estadístico de todos los procesos hasta su total y definitiva conclusión, y
+
+m) Las otras que le confieran esta ley y demás ordenamientos aplicables.
+
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+ARTÍCULO 49 TER. Las Agencias Investigadoras del Ministerio Público Especializadas en Justicia para Adolescentes, serán auxiliadas por la Dirección de la Policía Ministerial Especializada en Justicia para Adolescentes, la cual bajo su mando en el ámbito de sus atribuciones, y sólo podrá actuar por instrucciones de aquellas.
 
 ## TÍTULO CUARTO. VACACIONES, LICENCIAS, ESTÍMULOS Y RECOMPENSAS
 
@@ -824,3 +946,33 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
+
+Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
+
+Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
+
+Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
+
+Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+
+Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+
+Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
+
+Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensa Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
+
+Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
+
+Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
