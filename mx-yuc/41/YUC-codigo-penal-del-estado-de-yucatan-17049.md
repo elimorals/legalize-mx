@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2004-07-06"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -45,7 +45,9 @@ CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
 Este Código se aplicará en el Estado de Yucatán por los delitos que sean competencia de sus tribunales, en los casos de:
 
-I. Delitos cometidos en el territorio de la entidad federativa, cualquiera que sea la residencia o nacionalidad de los responsables, siempre que ya hubieren cumplido dieciséis años de edad. A los menores de dieciséis años que realicen una conducta activa u omisiva considerada delictuosa en los términos de este Código, se le aplicarán las disposiciones contenidas en las leyes correspondientes, por los órganos destinados a ello y según las normas de procedimiento que las mismas establezcan;
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+I. Delitos cometidos en el territorio de la entidad federativa, cualquiera que sea la residencia o nacionalidad de los responsables y siempre que ya hubieren cumplido dieciocho años de edad. A los menores de dieciocho años que realicen una conducta activa u omisa considerada delictuosa en los términos de este Código, se le aplicarán las disposiciones contenidas en las leyes correspondientes, por los órganos especializados destinados a ello y según las normas de procedimiento que las mismas establezcan;
 
 II. Delitos iniciados, preparados o cometidos fuera del Estado, cuando produzcan o se pretenda que tengan efectos en el territorio del mismo, siempre que concurran las siguientes circunstancias:
 
@@ -145,9 +147,23 @@ IV. Los que intencionalmente presten ayuda o auxilio para su comisión;
 
 V. Los que con posterioridad a su ejecución, auxilien al sujeto activo del delito, por acuerdo previo;
 
-VI. Los que sabiendo que se está cometiendo un delito o se va a cometer y, teniendo el deber legal de impedir su ejecución, no lo impiden, y
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
 
-VII. Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
+VI. Los que sabiendo que se está cometiendo un delito o se va a cometer y, teniendo el deber legal de impedir su ejecución, no lo impiden;
+
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+VII. Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo, y
+
+> <small>(ADICIONADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+VIII.- Los que lo lleven a cabo sirviéndose de otro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+A la persona que se sirvió de un menor de dieciocho años de edad o persona que tenga un trastorno mental o desarrollo intelectual retardado para la realización de un delito, se le impondrá, además de la pena correspondiente, un tercio más.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O. 1 DE OCTUBRE DE 2006)</small>
 
 Los jueces podrán aumentar o disminuir la sanción respectiva, dentro de los límites fijados en cada caso por la ley, según la calidad y el grado de participación de cada delincuente.
 
@@ -2309,7 +2325,7 @@ V. A sabiendas, hiciere uso de un documento falso o de copia, transcripción o t
 
 BIS. Se impondrá de cuatro a diez años de prisión y de ciento cincuenta a quinientos días-multa al que:
 
-I. Produzca o imprima, sin estar legalmente autorizado, altere o falsifique tarjetas bancarias o comerciales y los documentos o pagarés en los que se asientan las operaciones que con ellas se realizan para el pago de bienes y servicios o para disposición de numerario, o bien los use o los enajene o distribuya, aún gratuitamente;
+I. Produzca o imprima, sin estar legalmente autorizado, altere o falsifique tarjetas bancarias o comerciales y los documentos o pagares en los que se asientan las operaciones que con ellas se realizan para el pago de bienes y servicios o para disposición de numerario, o bien los use o los enajene o distribuya, aún gratuitamente;
 
 II. Adquiera, utilice, posea o detente indebidamente tarjetas bancarias o comerciales, documentos o pagarés en los que se asientan las operaciones que con ella se realizan y vales para el pago de bienes o servicios, a sabiendas de que son alterados o falsificados;
 
@@ -3340,3 +3356,35 @@ D.O. 1 DICIEMBRE DE 2003.
 D.O. 6 DE JULIO DE 2004.
 
 ÚNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
+
+Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
+
+Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
+
+Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la Unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
+Artículo Séptimo.- El Congreso del Estado, nombrará a los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado, a más tardar el 5 de junio del año 2007.
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
+Artículo Octavo.- Los Jueces Especializados en Justicia para Adolescentes, deberán ser designados por el Pleno del Tribunal de Justicia del Estado, a más tardar el 10 de junio de 2007.
+
+Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
+
+Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensoría Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
+
+Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
+
+Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
