@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-impuesto-predial-18745"
 country: "mx"
 rank: "ley"
 publication_date: "1961-07-31"
-last_updated: "1961-07-31"
+last_updated: "2006-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DEL IMPUESTO PREDIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 711, PUBLICADO EN EL D.O. DE 1 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 31 de julio de 1961.
 
@@ -332,3 +334,11 @@ AGUSTIN FRANCO AGUILAR.
 El Secretario General,
 
 MARIO ZAVALA TRACONIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Para conocimiento general de las autoridades municipales, publíquese también en un periódico, de entre los de mayor circulación en el Estado.
