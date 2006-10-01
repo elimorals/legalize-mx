@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "2005-12-09"
+last_updated: "2006-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -183,9 +183,13 @@ Los titulares de las dependencias de la Administración Pública formularán, re
 
 Los acuerdos y disposiciones del Gobernador del Estado deberán ser firmados por él y por el titular de la dependencia que corresponda, para su debida validez y observancia.
 
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 16.
 
-La promulgación de leyes, la expedición de reglamentos, decretos y acuerdos de observancia general, serán firmados por el Gobernador del Estado, el Secretario de Gobierno y el titular de la secretaría que corresponda. Cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los titulares de cada una de ellas.
+Las iniciativas de leyes o decretos, así como los reglamentos, decretos y acuerdos de observancia general que expida el Ejecutivo, serán firmados por el Gobernador del Estado, el Secretario de Gobierno y el titular de la dependencia que corresponda.
+
+La promulgación de leyes y decretos expedidos por el Congreso del Estado, será suscrita únicamente por el Gobernador del Estado y el Secretario General de Gobierno.
 
 ###### ARTICULO 17.
 
@@ -293,9 +297,9 @@ IX.- Administrar los Centros de Readaptación Social para los delincuentes y est
 
 X.- Ejercer las funciones que al Ejecutivo del Estado corresponda, en materia de trabajo y previsión social;
 
-> <small>(REFORMADA, D.O. 18 DE JULIO DE 1994)</small>
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
-XI.- Vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores y administrar la Escuela de Educación Especial para menores infractores;
+XI.- Vigilar el cumplimiento de las normas relacionadas con la justicia para adolescentes y, el funcionamiento del Centro Especializado en la Aplicación de Medidas;
 
 XII.- Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública del Estado;
 
@@ -785,9 +789,11 @@ XV.- Proponer al titular del Ejecutivo del Estado, a los auditores externos y a 
 
 XVI.- Las demás que le asignen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 40.
 
-La Procuraduría General de Justicia tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y las demás disposiciones legales relativas.
+La Procuraduría General de Justicia tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Yucatán y las demás disposiciones legales relativas.
 
 > <small>(REFORMADO, D.O. 13 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1248,3 +1254,39 @@ Quedan derogadas las demás disposiciones que se opongan a lo dispuesto en el pr
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, contados a partir del día en que entre en vigor este Decreto, a efecto de que se revisen y en su caso realicen las adecuaciones pertinentes a los reglamentos aplicables.
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+DECRETO NUMERO 708.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
+
+Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
+
+Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
+
+Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
+
+Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+
+Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+
+Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
+
+Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensa Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
+
+Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
+
+Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+DECRETO NUMERO 709.
+
+ÚNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
