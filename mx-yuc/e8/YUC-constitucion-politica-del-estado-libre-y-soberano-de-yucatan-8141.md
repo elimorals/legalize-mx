@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2006-08-31"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -47,11 +47,19 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
 Todos los habitantes del Estado de Yucatán, gozarán de las garantias que otorga la Constitución Política de los Estados Unidos Mexicanos, las derivadas de los Acuerdos o Tratados Internacionales, en los que el Estado Mexicano sea parte, y las establecidas en ésta Constitución.
 
-> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Tratándose de niñas, niños y adolescentes, las leyes garantizarán la protección de sus derechos humanos y garantías constitucionales con base en los principios de interés superior y protección integral. Esta Constitución reconoce como derechos de los infantes los previstos en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos del Niño y demás Tratados Internacionales ratificados por el Senado de la República.
+
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Se garantizará el desarrollo pleno e integral de las niñas, niños y adolescentes, mediante el fomento del respeto a los derechos de la infancia y la cultura de su protección.
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 2.
 
-El Estado de Yucatán por medio de sus poderes públicos, garantizará a toda persona que se encuentre en su territorio, el respeto de las mencionadas garantías sin discriminación alguna.
+El Estado de Yucatán por medio de sus Poderes Públicos y Organismos Autónomos, garantizará a toda persona que se encuentre en su territorio y sin discriminación alguna, el respeto de los derechos y prerrogativas referidas en el artículo anterior.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -69,7 +77,9 @@ III.- Prestar los servicios que las Leyes prescriban, considerándose como tales
 
 IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
 
-V.- Hacer que sus hijos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria.
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V.- Corresponsabilizarse con el Estado en la protección de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como hacer que sus hijos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -549,7 +559,7 @@ VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobie
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-VII Bis.- instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1227,7 +1237,11 @@ Las falta (sic) de los funcionarios del Gobierno serán suplidas en los término
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia, en los Juzgados de Primera Instancia y en los demás establecidos o que en adelante establezcan las leyes.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa para dirimir controversias.
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
@@ -1235,13 +1249,15 @@ Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior d
 
 ###### Artículo 64.
 
-El Tribunal Superior de Justicia se compondrá de seis Magistrados y funcionará en Tribunal Pleno o dividido en Salas, de la manera que establezca la Ley. Habrá además seis Magistrados Suplentes.
+El Tribunal Superior de Justicia se compondrá de nueve Magistrados. Seis de los Magistrados integrarán el Pleno del Tribunal que funcionará colegiadamente o dividido en salas.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+Los otros tres Magistrados integrarán la Sala Especializada en Justicia para Adolescentes, máximo órgano jurisdiccional en esta materia. Su funcionamiento y atribuciones estarán determinados por la legislación secundaria. Estos tres Magistrados no integrarán el Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 65.
 
-Cada uno de los Magistrados del Tribunal Superior de Justicia, propietario o suplente, durará en su encargo cuatro años, y será nombrado por el Congreso del Estado por mayoría absoluta del número total de Diputados. Sólo podrá ser removido previo juicio de responsabilidad.
+Cada uno de los Magistrados del Tribunal Superior de Justicia, durará en su encargo cuatro años, y será nombrado por el Congreso del Estado por mayoría absoluta del número total de diputados. Solo podrá ser removido previo juicio de responsabilidad.
 
 > <small>(ADICIONADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -1263,7 +1279,13 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- No tener más de sesenta y cinco años de edad ni menos de treinta y cinco, el día de la elección.
 
-Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Los Magistrados que integren la Sala Especializada en Justicia para Adolescentes, deberán contar con conocimientos suficientes en la materia de su competencia y serán designados por el Congreso del Estado a propuesta del Pleno del Tribunal Superior de Justicia y del Gobernador del Estado. No deberán tener menos de treinta años el día de su designación.
+
+(ADICIONADO [N. DE E. REUBICADO], D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial, serán hechos preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1271,11 +1293,11 @@ Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial ser
 
 Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso, y en los recesos de éste, ante la Diputación Permanente, la siguiente protesta: "Presidente: ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: - Sí Protesto.- Presidente: Si no lo hiciereis así, la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ###### Artículo 68.
 
-Las vacantes por licencias concedidas a los Magistrados del Tribunal Superior de Justicia serán cubiertas por los Magistrados suplentes.
+Las vacantes por licencias concedidas a los Magistrados del Tribunal Superior de Justicia, serán cubiertas conforme a la Ley Orgánica del Poder Judicial del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1295,17 +1317,37 @@ Los Jueces de Primera Instancia durarán en su encargo cuatro años y sólo podr
 
 La Ley establecerá y organizará los Juzgados de Primera Instancia y los demás que se creyeren convenientes, y el Ministerio Público del Estado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 72.
 
-La persecución de los delitos incumbe al Ministerio Público, jefaturado por el Procurador General de Justicia, y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato del Ministerio Público. El Procurador General de Justicia, los Agentes del Ministerio Público y los Jefes y Agentes de la Policía Judicial, serán nombrados por el Gobernador del Estado.
+La procuración de justicia, tratándose de delitos y conductas de los adolescentes tipificadas como delitos por las normas penales del Estado, incumbe al Ministerio Público y Policía Ministerial, la cual estará bajo la autoridad y mando inmediato de aquel. El Procurador General de Justicia, los Agentes del Ministerio Público y los Jefes y Agentes de la Policía Ministerial, serán nombrados por el Gobernador del Estado.
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 73.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los Reglamentos Gubernativos y de Policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se les hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso. De las sanciones que impongan las autoridades municipales y que fueren recurridas, resolverá definitivamente el Gobernador del Estado.
+La imposición de las penas, así como de las medidas que se apliquen a los adolescentes, es propia y exclusiva de la autoridad judicial, por conducto de sus órganos competentes. Las autoridades que efectúen la remisión y las que impongan las medidas serán independientes entre sí.
+
+La aplicación de sanciones por infracciones administrativas previstas en las leyes y reglamentos, corresponde a la autoridad competente; lasque únicamente consistirán en multa o arresto hasta por treinta y seis horas. Si el infractor no pagare la multa que se le hubiese impuesto, se conmutará ésta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas o por trabajos en beneficio de la comunidad. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+###### Artículo 73 Bis.
+
+En los términos previstos por esta Constitución, se establece un Sistema Integral de Justicia para las personas que tengan entre 12 años cumplidos y menos de 18 años de edad, a las que se les atribuya o se les declare responsables de conductas tipificadas como delitos en las disposiciones penales del Estado.
+
+La procuración, impartición y acceso a la justicia para adolescentes estará a cargo del Ministerio Público, la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia, y la Defensoría Legal. La ejecución y supervisión de las medidas estará a cargo del Centro de Aplicación de Medidas para Adolescentes y la Dirección de Prevención y Readaptación Social, los que serán órganos especializados en la materia.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+Los procedimientos seguidos a los adolescentes, tendrán como principios rectores: el de interés superior, el debido proceso legal, confidencialidad, oportunidad, proporcionalidad y protección integral.
+
+En los términos y condiciones que contenga la Ley, se aplicarán medidas de orientación, protección y tratamiento que amerite cada caso, buscando la reincorporación social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidad.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+El internamiento se utilizará como medida externa, por el menor tiempo posible y se aplicará únicamente, a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves en las disposiciones penales del estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1337,9 +1379,13 @@ V.- conceder licencias a los Magistrados, llamando al suplente que corresponda; 
 
 VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
 
-VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del Ingreso y del gasto público del Estado, y remitirlo al Titular del Poder Ejecutivo a más tardar el 15 de octubre de cada año, a fin de que este considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado.
+VII.- Formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del ingreso y del gasto público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el 15 de Octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado, y
+
+> <small>(ADICIONADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+VIII.- Las demás que le confiera esta Constitución y otras leyes.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -2660,3 +2706,31 @@ D.O. 31 DE AGOSTO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
+
+Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
+
+Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
+
+Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la Unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
+
+Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+
+Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+
+Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
+
+Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensoría Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
+
+Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
+
+Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
