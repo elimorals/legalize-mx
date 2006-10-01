@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "2006-01-23"
+last_updated: "2006-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -45,13 +45,17 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN.
 
 DE LAS AUTORIDADES.
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 1.
 
-Corresponde al Poder Judicial del Estado de Yucatán, en los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en asuntos de orden civil, familiar, mercantil y de defensa social y en los de carácter federal, cuando expresamente las leyes de esta materia le confieran jurisdicción; así como de expedir el Reglamento de esta propia Ley.
+Corresponde al Poder Judicial del Estado de Yucatán, en los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en asuntos de orden civil, familiar, mercantil, de justicia para adolescentes, de defensa social y acuerdos que resulten aplicables, le confieran jurisdicción; así como, de expedir el Reglamento de esta propia Ley.
+
+(REFORMADO PRIMER PARRAFO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 2.
 
-La facultad a que se refiere el Artículo anterior se ejerce:
+La facultad a que se refiere el Artículo anterior, se ejerce:
 
 I.- Por el Tribunal Superior de Justicia del Estado;
 
@@ -61,9 +65,19 @@ III.- Por los Juzgados de lo Civil;
 
 IV.- Por los Juzgados de lo Familiar;
 
-V.- Por los Juzgados Mixtos y de lo Familiar;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V.- Por los Juzgados Especializados para Adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+VI.- Por los Juzgados Mixtos y de lo Familiar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
 
 VI.- Por los Juzgados de Paz; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
 
 VII.- Por los demás funcionarios y autoridades de la Administración de Justicia, en los términos que establezcan esta Ley, su Reglamento, los Códigos de Procedimientos y las demás Leyes relativas.
 
@@ -91,13 +105,19 @@ VI.- La Dirección del Registro Civil del Estado y las Oficialías del mismo;
 
 VII.- Los Médicos Forenses, los Notarios Públicos y los Peritos Oficiales e Intérpretes;
 
-VIII.- Los Ayuntamientos y todas las Autoridades Municipales subalternas.
+VIII.- Los Ayuntamientos y todas las Autoridades Municipales subalternas;
 
 IX.- Los Comisarios de Manzana y Jefes de Cuartel;
 
-X.- Los Comisarios Municipales y Encargados del Gobierno inmediato de cualquier núcleo de población; y
+X.- Los Comisarios Municipales y Encargados del Gobierno inmediato de cualquier núcleo de población; y (sic)
 
-XI.- Los demás a quienes las Leyes les confieran este carácter.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+XI.- El Centro de Aplicación de Medidas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
+
+XII.- Los demás a quienes las Leyes les confieran este carácter.
 
 ###### ARTICULO 5.
 
@@ -157,11 +177,19 @@ DE LA ORGANIZACION DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 DE LOS MAGISTRADOS.
 
-> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia se integrará por seis Magistrados Propietarios denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; funcionará en Pleno o en Salas, según lo determine esta Ley y las demás relativas. Uno de los Magistrados será Presidente del Tribunal. Habrá seis Magistrados Suplentes y para el despacho de los asuntos, tendrá un Secretario General de Acuerdos, un Secretario de Acuerdos para cada una de las Salas, y los Secretarios Auxiliares, Proyectistas y demás personal que determine el presupuesto.
+El Tribunal Superior de Justicia se integrará por nueve Magistrados Propietarios.
+
+Seis de los magistrados integrarán el Pleno del Tribunal, que funcionará colegiadamente o dividido en Salas. Estos se denominarán magistrados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto, respectivamente.
+
+Tres magistrados integrarán la Sala Especializada en Justicia para Adolescentes, que se denominarán Primero, Segundo y Tercero.
+
+Uno de los Magistrados que integran el Pleno será el Presidente del Tribunal.
+
+El Tribunal, para el despacho de los asuntos de su competencia, tendrá un Secretario General de Acuerdos, un secretario de acuerdos para cada una de las salas, y los secretarios auxiliares, proyectistas y demás personal que se determine mediante acuerdos generales y lo permita la disponibilidad presupuestal.
 
 ###### ARTICULO 14.
 
@@ -170,6 +198,10 @@ Cada uno de los Magistrados del Tribunal Superior de Justicia, Propietario o Sup
 ###### ARTICULO 15.
 
 Para ser Magistrado se requiere reunir los requisitos que señala el Artículo 66 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Para ser Magistrado Especializado en Justicia para Adolescentes, además de los requisitos que refiere el párrafo precedente, deberá contar con experiencia profesional o conocimientos especializados en dicha materia.
 
 ###### ARTICULO 16.
 
@@ -193,7 +225,13 @@ III.- Admitir las renuncias que de sus cargos hagan los Funcionarios y empleados
 
 IV.- Conceder licencias a los Magistrados, llamando al suplente que corresponda;
 
-V.- Vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia e imponer las sanciones a que se refieren las disposiciones relativas de esta Ley;
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V.- Vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia, proa lo cual podrá aprobar acuerdos generales, internos y especiales del Poder Judicial, necesarios para el mejor ejercicio de la función jurisdiccional y normar el debido cumplimiento de esta ley; ordenar su publicación, en su caso, y vigilar su debida observancia; ordenar los trámites que estime convenientes para el cumplimiento de sus atribuciones; e imponer las sanciones a que se refieren las disposiciones relativas de esta Ley;
+
+> <small>(ADICIONADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+V Bis.- Establecer, mediante acuerdos generales, la creación de órganos administrativos para apoyar la prestación del servicio de impartición de justicia;
 
 VI.- Designar indistintamente a los Magistrados integrantes del Tribunal para que ejerzan la vigilancia a que se refiere la fracción que antecede y para practicar visitas a los Juzgados, a efecto de que la Administración de Justicia sea pronta y eficaz, cuando lo solicite parte interesada o cuando así proceda, en la forma y términos establecidos en esta Ley;
 
@@ -211,7 +249,9 @@ XII.- Aplicar, en su caso, las sanciones establecidas en la presente Ley, su Reg
 
 XIII.- Imponer correcciones disciplinarias a los funcionarios y empleados de la Administración de Justicia cuando no rindan, con oportunidad, los informes a que están obligados o no cumplan con las determinaciones legales aplicables o del superior jerárquico, de acuerdo con las Leyes;
 
-XIV.- Formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del ingreso y del gasto público del Estado y remitirlo al Titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado;
+(REFORMADA, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+XIV.- Formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del ingreso y del gasto público del Estado y remitirlo al Titular del Poder Ejecutivo a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado. El proyecto de presupuesto deberá incluir un desglose detallado por cada una de las Salas, con los juzgados de primera instancia de cuyas resoluciones les corresponde conocer, así como de la Sala Especializada en Justicia para Adolescentes y sus respectivos juzgados, de manera separada; asegurándose que en relación a esta última, se conozca el anteproyecto original de presupuesto;
 
 XV.- Acordar el aumento de la planta de empleados de la Administración de Justicia, de la Unidad de Administración y del Instituto de Capacitación del Poder Judicial, cuando las necesidades del servicio así lo requieran y siempre que lo permitan las condiciones del presupuesto;
 
@@ -225,21 +265,21 @@ XIX.- Conocer y resolver las cuestiones no previstas en la presente Ley en lo qu
 
 XX.- Dirigir las finanzas del Fondo Auxiliar para la Administración de Justicia del Estado;
 
-> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 1994)</small>
+XXI.- (DEROGADA, D.O. 1 DE OCTUBRE DE 2006)
 
-XXI.- Designar a dos Magistrados Propietarios del Tribunal Superior de Justicia del Estado y a un Juez de Primera instancia del Poder Judicial del Estado, para integrar el Tribunal Superior Electoral del Estado, en los términos previstos por el Código Electoral del Estado de Yucatán.
+XXII.- (DEROGADA, D.O. 1 DE OCTUBRE DE 2006)
 
-> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
 
-XXII.- Designar a los Magistrados del Tribunal Electoral del Estado, de conformidad con las disposiciones contenidas en el Código Electoral del Estado de Yucatán.
+XXIII.- Crear Departamentos Judiciales y modificar su número y jurisdicción territorial;
 
-> <small>(REFORMADA, D.O. 23 DE ENERO DE 2006)</small>
+(REFORMADA [N. DE E. ADICIONADA], D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
-XXIII.- Modificar la competencia de los juzgados existentes y la creación de otros de primera instancia en los Departamentos Judiciales Segundo y Tercero; cuando las necesidades del servicio lo requieran y lo permita el presupuesto asignado al Poder Judicial del Estado de Yucatán.
+XXIV.- Crear Juzgados en los Departamentos Judiciales, así como establecer y modificar su competencia y jurisdiccion territorial, y
 
-> <small>(ADICIONADA, D.O. 23 DE ENERO DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 1 DE OCTUBRE DE 2006)</small>
 
-XXIV.- Las demás atribuciones que le confieran las Leyes.
+XXV.- Las demás atribuciones que le confieran las Leyes.
 
 ###### ARTICULO 19.
 
@@ -327,11 +367,11 @@ En caso de renuncia, o al término de su encargo el Magistrado que se hubiere de
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 25.
 
-El Tribunal Superior de Justicia del Estado además de su ejercicio en Pleno, funcionará en dos Salas, Primera y Segunda, que actuarán colegiadamente y se integrarán por tres Magistrados denominados Primero, Segundo y Tercero de la Sala respectiva, sin perjuicio del número que les corresponda conforme al decreto de su designación. La primera Sala se integrará por los Magistrados Primero, Segundo y Quinto; la segunda Sala, por los Magistrados Tercero, Cuarto y Sexto.
+El Tribunal Superior de Justicia del Estado además de su ejercicio en Pleno, funcionará en Salas. Las Salas se denominarán Primera, Segunda y Especializada en Justicia para adolescentes, que se integrarán por tres Magistrados denominados Primero, Segundo y Tercero de la Sala respectiva, sin perjuicio del número que les corresponda conforme al decreto de su designación. La primera Sala se integrará por los Magistrados Primero, Segundo y Quinto; la Segunda Sala, por los Magistrados Tercero, Cuarto y Sexto. La Sala Especializada en Justicia para Adolescentes se integrará por (sic) Magistrados Primero, Segundo y Tercero.
 
 > <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
 
@@ -371,6 +411,14 @@ I.- De las apelaciones, denegadas apelaciones, revisiones forzosas, excusas, rec
 
 II.- De los demás asuntos que determinen las Leyes.
 
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 30 BIS.- La Sala Especializada en Justicia para Adolescentes conocerá:
+
+I.- De los recursos que se interpongan en materia de justicia para adolescentes, contra los actos y resoluciones de juzgados (sic) primera instancia competentes en esta materia, conforme a la ley especial, y
+
+II.- De los demás asuntos que determinen las leyes.
+
 ###### ARTICULO 31.
 
 Las Salas sesionarán en audiencia pública, por lo menos un día hábil de cada semana y, en forma secreta, cuando fuere necesario, cualquier día hábil de la misma.
@@ -387,6 +435,10 @@ Los asuntos de Defensa Social que se remitan al Tribunal Superior de Justicia se
 
 Los asuntos del Orden Civil, Familiar o Mercantil que se remitan al Tribunal Superior de Justicia serán turnados a los Magistrados integrantes de la Segunda Sala, para la formulación de las ponencias que deberán discutirse, votarse y en su caso aprobarse, por estricto orden numérico y equitativo a partir de la fecha de recepción del expediente correspondiente, en la Sala.
 
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+ARTICULO 33 BIS.- Los asuntos de Justicia para adolescentes que se remitan al Tribunal Superior de Justicia, serán turnados a la Sala Especializada para la formulación de las resoluciones que deberán aprobarse por escrito y orden numérico; a partir de la fecha de recepción del expediente respectivo.
+
 ###### ARTICULO 34.
 
 Las resoluciones y acuerdos de cada una de las Salas del Tribunal Superior de Justicia deberán ser suscritos por los Magistrados que intervinieran en ellos.
@@ -395,9 +447,11 @@ Las resoluciones y acuerdos de cada una de las Salas del Tribunal Superior de Ju
 
 DE LOS SECRETARIOS DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 35.
 
-El Tribunal Superior de Justicia tendrá un Secretario General de Acuerdos y dos Secretarios que se denominarán Secretarios Primero y Segundo. El Primero tendrá a su cargo y actuará como Secretario de Acuerdos de la Segunda Sala y suplirá al Secretario General de Acuerdos en las ausencias temporales de éste. El Segundo tendrá a su cargo y actuará como Secretario de Acuerdos de la Primera Sala.
+El Tribunal Superior de Justicia tendrá un Secretario General de Acuerdos y tres Secretarios que se denominarán Secretario Primero, Segundo y Tercero. El Primero tendrá a su cargo y actuará como Secretario de Acuerdos de la Segunda Sala y suplirá al Secretario general de acuerdos en las ausencias temporales de éste. El Segundo tendrá a su cargo y actuará como Secretario de Acuerdos de la Primera Sala. El Tercero será Secretario de Acuerdos en la Sala Especializada en Justicia para Adolescentes y será suplido en sus ausencias temporales, por los secretarios Primero y Segundo, es éste orden.
 
 ###### ARTICULO 36.
 
@@ -479,11 +533,19 @@ DE LA ORGANIZACION DE LOS JUZGADOS DEPENDIENTES DEL TRIBUNAL SUPERIOR DE JUSTICI
 
 DE LOS JUECES DE PRIMERA INSTANCIA.
 
-> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 42.
 
-En el Primer Departamento Judicial habrá ocho Jueces del ramo de Defensa Social, que se denominarán Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo y Octavo de Defensa Social, seis Jueces para las ramas Civil y Mercantil que se denominarán Primero, Segundo, Tercero, Cuarto, Quinto y Sexto de lo Civil y cuatro Jueces que conocerán de los asuntos que atañen a la familia y que se denominarán Primero, Segundo, Tercero y Cuarto de lo Familiar. Los Jueces mencionados conocerán en primera instancia de los asuntos de los cuales se surta competencia para ellos por razón de las materias indicadas.
+En cada uno de los departamentos judiciales del estado, el Pleno del Tribunal establecerá juzgados, mediante acuerdos generales en que determinará el número y tipo de juzgados que sean necesarios.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+Cuando en el mismo departamento judicial existan dos o más juzgados de la misma materia, se les identificará con el número ordinal que corresponda a la secuencia de su respectiva creación.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+Los acuerdos generales del Pleno del Tribunal que creen juzgados, también determinarán su jurisdicción y competencia. La jurisdicción territorial de los juzgados podrá abarcar todo el departamento judicial o parte de él, pero nunca el territorio de municipios ubicados en departamentos diversos. En el caso de los Juzgados Especializados en Justicia para Adolescentes, podrá acordar que tengan jurisdicción en todo el estado o limitada a los departamentos judiciales, a propuesta de la Sala Especializada en Justicia para Adolescentes.
 
 > <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
 
@@ -509,9 +571,13 @@ III.- Ser Abogado o Licenciado en Derecho, con título legalmente expedido con a
 
 IV.- Tener como mínimo veinticinco años de edad;
 
-V.- No tener parentesco con algún Magistrado en ejercicio, ni con el Procurador General de Justicia del Estado, en funciones, en grado alguno en la línea recta ascendente o descendente, ni en el segundo grado en la colateral; y
+V.- No tener parentesco con algún Magistrado en ejercicio, ni con el Procurador General de Justicia del Estado, en funciones, en grado alguno en la línea recta ascendente o descendente, ni en el segundo grado en la colateral; y (sic)
 
-VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+Para ser Juez Especializado en materia de Justicia para Adolescentes, además de los requisitos a que (sic) refiere el párrafo precedente, deberá contar con experiencia profesional o capacitación especializada en dicha materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 1 DE DICIEMBRE DE 1993)</small>
 
@@ -753,11 +819,33 @@ En caso de faltas temporales que no excedan de un mes, de recusación o excusa d
 
 Los Jueces de Paz, cuando deban ausentarse del lugar de su residencia darán aviso al que deba sustituirlos, para que éste se encargue del despacho del Juzgado.
 
-### CAPITULO UNICO. DE LAS VISITAS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+### CAPITULO VIII. DE LOS JUZGADOS ESPECIALIZADOS PARA ADOLESCENTES
+
+> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 63 BIS.- Corresponde a los Jueces Especializados para Adolescentes:
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+I.- Conocer las causas instauradas, en contra de las personas a quienes se les atribuya la realización de una conducta tipificada como delito en las leyes penales y tengan entre doce años cumplidos y dieciocho no cumplidos;
+
+II.- Propiciar y conocer en su caso, de los procedimientos alternativos al juzgamiento, a fin de cumplir con los principios de mínima intervención y subsidiariedad;
+
+III.- Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la ley especial de la materia;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+IV.- Resolver sobre las medidas a aplicar, atendiendo los principios de responsabilidad, proporcionalidad y racionalidad; así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes;
+
+V.- Ejercer la custodia del adolescente detenido, asegurándose de la salvaguarda de todos sus derechos y garantías durante el tiempo que se encuentre a su disposición, y
+
+VI.- Las demás que determinen las Ley especial en la materia y los demás ordenamientos legales aplicables.
 
 ## TITULO QUINTO. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
 
-### CAPITULO I. DE LOS ACTUARIOS
+### CAPITULO UNICO. DE LAS VISITAS
 
 ###### ARTICULO 64.
 
@@ -775,51 +863,97 @@ V.- Dar cuenta al Tribunal en Pleno, entregando a su Presidente el acta original
 
 ## TITULO SEXTO. DE LOS DEMAS FUNCIONARIOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DE LOS SECRETARIOS RELATORES
+> <small>(REFORMADA SU DENOMINACION, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+### CAPITULO I. DE LOS ACTUARIOS Y CENTRO COORDINADOR DE ACTUARIOS
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 65.
 
-Habrá dos Actuarios para el Tribunal Superior de Justicia y dos por cada Juzgado de Primera Instancia, cuando las necesidades así lo requieran.
-
-###### ARTICULO 66.
+el Tribunal Superior de Justicia, los juzgados y los Centros Coordinadores contarán con el número de actuarios que determine el Pleno del Tribunal, de acuerdo con las necesidades del servicio y las previsiones del presupuesto.
 
 Para ser Actuario se exigen los mismos requisitos que fija el artículo 48 de esta Ley.
 
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 66.
+
+En los Departamentos Judiciales, donde el número de juzgados y diligencias lo hagan conveniente, el Pleno del Tribunal Superior de Justicia podrá crear, mediante acuerdos generales y considerando la disponibilidad de recursos en su presupuesto de egresos, Centros Coordinadores de Actuarios, tanto en materia civil, familiar y mercantil, como en materia penal y de justicia para adolescentes. Estos Centros recibirán de los juzgados los expedientes o diligencias para notificar o desahogar, efectuarán estas actuaciones judiciales y devolverán la documentación judicial con las constancias y actas que hayan levantado.
+
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 67.
 
-Los Actuarios notificarán las resoluciones Judiciales en la forma y términos que éstas y la Ley determinen, harán que en el Diario Oficial del Gobierno del Estado se repitan inmediatamente aquellas notificaciones que adolezcan de algún error u omisión.
+El Pleno del Tribunal Superior de Justicia, de conformidad con esta ley, establecerá mediante acuerdos generales, los requisitos que deberán satisfacer los servicios públicos de los Centros Coordinadores de Actuarios, diversos a los actuarios; asimismo, determinará su planta de empleados, estructura organizacional, procedimientos, formatos y demás reglas concernientes.
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-Actuarán asimismo como Ministros Ejecutores en las diligencias de embargo, requerimiento, lanzamiento o cualquier otra providencia que se les ordene cumplir.
+Son atribuciones y obligaciones de los responsables de los Centros Coordinadores de Actuarios:
+
+I.- Auxiliar administrativamente a los juzgados en todo lo relativo a funciones actuariales, manteniendo constante comunicación con los jueces y secretarios, a fin de fortalecer y hacer expedita la impartición de justicia;
+
+II.- Organizar, dirigir y controlar el desahogo de ejecuciones y notificaciones ordenadas por los órganos jurisdiccionales;
+
+III.- Llevar un control de la entrega a los actuarios de los expedientes en que deban hacerse las notificaciones y diligencias judiciales que les son entregadas para ser practicadas y de la devolución de los expedientes, en que conste la fecha y hora en que ocurran estos eventos;
+
+IV.- Coordinar y organizar las agencias de notificación y diligencias judiciales que han de practicar los actuarios, mediante riguroso turno, excepto las de carácter urgente, las medidas cautelares, las dictadas en materia de amparo u otras que así lo ameriten, a criterio del juez emisor;
+
+V.- Supervisar que el desempeño de los actuarios en las diligencias se realice con estricto apego a Derecho;
+
+VI.- Llevar el control de personal, tanto de los actuarios como de los empleados administrativos del Centro, así como resguardar, bajo su responsabilidad, los expedientes que ingresen diariamente a esta oficina para ser diligenciados;
+
+VII.- Entregar los expedientes a las personas que desempeñen el cargo de agentes del Ministerio Público, en los casos en que por disposición de la ley se ordene dicha entrega, y recuperarlos oportunamente;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+VIII.- Remitir diariamente al Diario Oficial del Gobierno del Estado, las listas de los asuntos que deban notificarse por este medio, con sujeción a las disposiciones legales y administrativas vigentes;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+IX.- Hacer publicar en el Diario Oficial del Gobierno del Estado, la repetición inmediata de aquellas notificaciones que adolezcan de algún error u omisión, y
+
+X.- Las demás que se señalen especialmente en el acuerdo general que los cree.
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 69.
 
-Son obligaciones de los Actuarios:
+Son atribuciones y obligaciones de los actuarios:
 
-I.- Asistir con puntualidad al Tribunal o Juzgado a que están adscritos y permanecer en ellos diariamente de las ocho a las diez horas y de las trece a las catorce horas del día. En los casos en que hayan dos o más Actuarios, alternativamente, uno de ellos permanecerá en el local del Juzgado o Tribunal, por todo el horario de labores, a efecto de cumplir con las funciones de su cargo;
+I.- Asistir con puntualidad al lugar que presten sus servicios, durante el tiempo que fije el titular de la dependencia, de acuerdo con las disposiciones legales vigentes;
 
-II.- Recibir del Secretario, mediante constancia que suscribirá, todos los asuntos que tuvieran que notificar o diligenciar;
+II.- Recibir los expedientes para realizar notificaciones, diligencias o actuaciones y firmar su recepción;
 
-III.- Entregar y recoger los expedientes, de las personas que desempeñen el cargo de Ministerio Público, en los casos en que por disposición de la Ley, se mande dicha entrega;
+III.- Notificar las resoluciones judiciales en la forma y términos que las leyes aplicables determinen, para cuyos efectos tendrán fe pública en todo lo relativo al ejercicio de su cargo;
 
-IV.- Remitir diariamente, antes de las diez horas, al Diario Oficial del Gobierno del Estado, las listas de los asuntos que deban notificarse por ese medio, con sujeción a las prescripciones legales vigentes;
+IV.- Actuar como ministros ejecutores en las diligencias de embargo, requerimiento, lanzamiento o cualquier otra providencia que se les ordene cumplir;
 
-V.- Estar presente, todos los días a las trece horas, en el Tribunal o Juzgado a que estén adscritos para el efecto de recibir los expedientes a que se refiere la fracción II de este Artículo;
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
 
-VI.- Hacer personalmente y a domicilio todas las notificaciones que conforme a la Ley deban practicarse en esa forma. Estas notificaciones las hará bajo su responsabilidad, dentro del término legal, sea cual fuere el número de los asuntos que tengan que diligenciar. Si no estuviere señalado el lugar en que deba hacerse la notificación, pondrán razón de ello en autos y devolverá el expediente a la Secretaría;
+V.- Hacer las notificaciones personales y practicar las diligencias que se decreten y que conforme a la Ley deban practicarse y, devolver los expedientes dentro de las veinticuatro horas siguientes a la conclusión de la diligencia, previa constancia en el registro correspondiente. Estas notificaciones las harán bajo su responsabilidad dentro del término legal, sea cual fuere el número de los asuntos que tengan que diligenciar. Si no estuviere señalado el lugar en que deba hacerse la notificación, pondrán razón de ello en autos y devolverán el expediente a la Secretaría o al Centro Coordinador de Actuarios;
 
-VII.- Notificar bajo su responsabilidad dentro de las veinticuatro horas, las resoluciones dictadas en asuntos de Defensa Social;
+VI.- Notificar bajo su responsabilidad dentro de los términos que establezca el ordenamiento legal aplicable, las resoluciones dictadas en asuntos de Defensa Social y de Justicia para Adolescentes;
 
-VIII.- Poner constancia en los expedientes del cumplimiento de las providencias Judiciales, así como de las notificaciones que hicieren;
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
 
-IX.- Practicar cuantas diligencias sean propias de su cargo en los asuntos de que conozcan el Tribunal y los Juzgados de su adscripción, dentro del término legal. Cuando por la naturaleza de las diligencias que deban practicarse requiera un término mayor del legal, darán cuenta al Juez o Presidente de Sala respectiva, de esta circunstancia, para que éste amplíe prudentemente y bajo su responsabilidad dicho término;
+VII.- Levantar inmediatamente, las actas de las diligencias que practiquen, haciendo constar todos los incidentes que se susciten sin suspenderlas por ningún motivo; salvo los casos expresamente determinados por la ley;
 
-X.- Rendir los informes que el Juez o cualquier otra autoridad les pida;
+VIII.- Hacer constar en los expedientes del cumplimiento de las providencias judiciales, así como de las notificaciones que hicieren;
 
-XI.- No retener por ningún motivo los expedientes, pasado el término señalado por esta Ley para la diligenciación de los mismos o que el Juez conceda, en su caso; y
+IX.- Practicar, dentro del término legal, cuantas diligencias sean propias de su cargo en los asuntos de que conozcan los Juzgados;
 
-XII.- Ejercer las funciones de Secretario en los casos previstos por esta Ley.
+X.- Realizar las funciones a que se refieren las fracciones VII, VIII y IX del artículo 68 de esta Ley, cuando en el lugar de su adscripción no funcione un Centro Coordinador de Actuarios;
+
+XI.- Realizar las diligencias que ordene el juez en las horas inhábiles que habilite para tal efecto;
+
+XII.- Rendir los informes que el Juez o cualquier otra autoridad les pida;
+
+XIII.- Ejercer las funciones de secretario en los casos previstos por esta Ley, y
+
+XIV.- Las demás que establezcan las disposiciones legales aplicables.
 
 ###### ARTICULO 70.
 
@@ -835,9 +969,11 @@ IV.- De la fecha en que hayan practicado la diligencia, notificación o acto que
 
 V.- De la fecha de la devolución del expediente;
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 71.
 
-Las diligencias que se practiquen fuera del local del Tribunal o del Juzgado las harán los Actuarios en horas que requieran su presencia en estas oficinas. Si la diligencia lo ameritare, por razones de urgencia, el Tribunal o el Juez podrán autorizar al Actuario para que comience a practicarla aún en las horas en que debe permanecer en el local del Tribunal o Juzgado de su adscripción, lo que se hará constar al practicarse la diligencia.
+El titular del órgano judicial correspondiente y en su caso, el titular del Centro Coordinador de Actuarios, determinarán y vigilarán el cumplimiento del horario para efectuar las diligencias fuera de su centro de trabajo, permanecer en él, y cumplir sus funciones, dentro del marco normativo que establezcan las leyes aplicables y los acuerdos generales del Pleno del Tribunal Superior de Justicia. Si la diligencia lo ameritare por razones de urgencia, la autoridad competente instruirá al actuario para que practique diligencias aún durante el tiempo que debe permanecer en el centro de trabajo de su adscripción, lo que se hará constar en un registro escrito.
 
 ###### ARTICULO 72.
 
@@ -847,7 +983,7 @@ Queda estrictamente prohibido a los Actuarios cobrar cantidad alguna con motivo 
 
 Los Actuarios tendrán despacho en el local de las Dependencias a que estuvieren adscritos.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS SECRETARIOS RELATORES
 
 ###### ARTICULO 74.
 
@@ -869,7 +1005,7 @@ Para ser Secretario Relator, se exigen los mismos requisitos que fija el Artícu
 
 DE LOS DEMAS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA.
 
-### CAPITULO I. DE LAS OFICIALIAS DE PARTES
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 78.
 
@@ -897,23 +1033,47 @@ Los Jueces, para designar síndicos e interventores de concursos y quiebras, alb
 
 ## TITULO OCTAVO. DE LAS DEPENDENCIAS DEL PODER JUDICIAL DEL ESTADO
 
-### CAPITULO II. DEL ARCHIVO JUDICIAL DEL ESTADO
+### CAPITULO I. DE LAS OFICIALIAS DE PARTES
+
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ## TITULO NOVENO. VACACIONES Y LICENCIAS
 
-### CAPITULO III. LA BIBLIOTECA
+### CAPITULO II. DEL ARCHIVO JUDICIAL DEL ESTADO
 
 ###### ARTICULO 84.
 
-Habrán dos Oficialías de Partes, la primera encargada de distribuir los negocios que deban iniciarse, bien se trate de jurisdicción contenciosa, mixta o voluntaria, de que hayan de conocer cada uno de los Juzgados Civiles y de los de lo Familiar, procediéndose de la siguiente manera: el titular de la Oficialía será receptor de los documentos y les pondrá la fecha y hora de recibo de los mismos y su firma entregándolos de inmediato bajo su más estricta responsabilidad, al Secretario de Juzgado que corresponda, de acuerdo con sendos Libros de Registro que se llevarán para el caso. Otorgará asimismo recibo, si le fuere solicitado, del escrito o documentos presentados. La segunda se encargará de distribuir las averiguaciones recibidas de que deban conocer cada uno de los Juzgados de Defensa Social, cuidando que en la misma exista orden y equidad.
+En el Poder Judicial habrá cuando menos, tres oficialías de partes:
 
-> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+I.- La común de los Juzgados Civiles y de lo Familiar del Primer Departamento Judicial del Estado y de la Sala Segunda del Tribunal Superior de Justicia, misma que funcionará de las ocho a las veinticuatro horas para recibir todo tipo de escritos de la competencia de estos juzgados; y los dirigidos a la Sala Civil, después de las catorce horas;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+II.- La común de los Juzgados de Defensa Social del Primer Departamento Judicial del Estado y de la Sala Primera del Tribunal Superior de Justicia, funcionará de las cero a las veinticuatro horas, todos los días del año; durante ese horario recibirá consignaciones y sólo después de las catorce horas recibirá todo tipo de escritos dirigidos a las Salas y los juzgados. Durante el horario de oficinas para atención al público del Tribunal y los juzgados, de las ocho a las catorce horas, los escritos de trámite deberán presentarse directamente ante ellos;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+III.- La de los Juzgados y de la Sala Especializados en Justicia para Adolescentes, funcionará de las cero a las veinticuatro horas, todos los días del año; durante ese horario recibirá todo tipo de escritos dirigidos a la Sala y los juzgados. Durante el horario de oficinas para atención al público de la Sala y los juzgados, de las ocho a las catorce horas, los escritos de trámite deberán presentarse directamente ante ellos;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+IV.- La del Tribunal Superior de Justicia, dependiente de la Secretaría General, que recibirá y enviará la correspondencia de la Presidencia, la Secretaría General y las dependencias administrativas, diversas a las promociones judiciales dirigidas a las Salas, funcionará de las ocho a las dieciséis horas.
+
+En los Departamentos Judiciales donde no exista oficialía de partes, todos los escritos y promociones, deberán presentarse precisamente en las oficinas del juzgado, en horas y días hábiles y ante el funcionario competente. En horas inhábiles las promociones y escritos que deban presentarse antes del vencimiento de los términos fatales, podrán ser recibidos en el domicilio del secretario que conforme a la ley corresponda.
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales, podrá crear oficialías de partes adicionales a las previstas en este artículo y establecer su estructura organizacional, atribuciones y procedimientos; los requisitos que deberán satisfacer sus servidores públicos; el sistema de suplencias; formatos y demás normatividad, para su buen funcionamiento, atendiendo siempre a lo establecido en esta Ley.
+
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 85.
 
-Los Titulares de las Oficialías de Partes serán funcionarios de confianza y de reconocida honorabilidad y que acrediten que hayan concluido estudios de Bachillerato o equivalente. Las ausencias accidentales o temporales que no excedan de un mes del Oficial de Partes en Materia Civil, Mercantil, de lo Familiar y en Materia de Defensa Social, serán suplidas por designación que hará el Presidente del Tribunal Superior de Justicia del Estado.
+Los Titulares de las Oficialías de Partes serán funcionarios de confianza y de reconocida honorabilidad y que acrediten haber concluido estudios de Abogado, Licenciado en Derecho o pasante de la misma. Las ausencias accidentales o temporales de los oficiales de partes, que no excedan de un mes, serán suplidas mediante designación que hará el Pleno del Tribunal Superior de Justicia del Estado.
 
-### CAPITULO IV. UNIDAD DE ADMINISTRACION DEL PRESUPUESTO DEL PODER JUDICIAL
+### CAPITULO III. LA BIBLIOTECA
 
 ###### ARTICULO 86.
 
@@ -975,7 +1135,7 @@ Cualquier defecto, irregularidad o infracción que advierta el encargado del Arc
 
 El reglamento respectivo fijará las atribuciones del encargado y empleados del Archivo y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse. El Presidente del Tribunal Superior de Justicia podrá acordar, en todo momento, las disposiciones que al respecto estime convenientes.
 
-### CAPITULO V. INSTITUTO DE CAPACITACION
+### CAPITULO IV. UNIDAD DE ADMINISTRACION DEL PRESUPUESTO DEL PODER JUDICIAL
 
 ###### ARTICULO 98.
 
@@ -985,7 +1145,7 @@ La Biblioteca del Poder Judicial del Estado funcionará de acuerdo con las dispo
 
 El Bibliotecario formará inventario alfabético, por nombre de autores, de todos los libros y papeles de la biblioteca, y un inventario general de muebles y útiles al servicio de la misma. Ordenará las obras conforme al sistema de clasificación adoptado por el Tribunal y formará un catálogo clasificado de ella, uno de cuyos ejemplares remitirá al Magistrado señalado en el artículo que antecede. Serán deberes del bibliotecario: conservar en buen estado los libros y papeles, dando cuenta de los desperfectos que sufran, y los demás que prescriban los reglamentos y acuerdos del Tribunal.
 
-### CAPITULO I. VACACIONES
+### CAPITULO V. INSTITUTO DE CAPACITACION
 
 ###### ARTICULO 100.
 
@@ -1043,7 +1203,11 @@ Es obligación que las cantidades provenientes mensualmente de la partida asigna
 
 El Tribunal Pleno ordenará que cuando menos se celebre una auditoría externa anual, para verificar el correcto manejo de fondos; esta auditoría se practicará por un despacho contable que designe el propio Pleno.
 
-### CAPITULO II. LICENCIAS
+### CAPITULO VI. DE LA ESPECIALIZACION DE LAS DEPENDENCIAS EN MATERIA DE JUSTICIA PARA ADOLESCENTES
+
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+ARTICULO 108 BIS.- Las dependencias a que hacen referencia los capítulos I, II, III y V del presente Título, contarán, cada una de ellas, con secciones especializadas en Justicia para Adolescentes.
 
 ###### ARTICULO 105.
 
@@ -1057,31 +1221,51 @@ El Director del Instituto de Capacitación del Poder Judicial será designado po
 
 El personal docente y administrativo del Instituto se integrará con los funcionarios del Poder Judicial y con los profesionales que el Pleno tenga a bien designar.
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 108.
 
-El Instituto se regirá, en cuanto a su régimen interior, por lo que disponga su propio reglamento.
+El Pleno del Tribunal establecerá la organización y atribuciones del Instituto de Capacitación, mediante un acuerdo general.
 
-### CAPITULO I. FALTAS ABSOLUTAS, TEMPORALES Y ACCIDENTALES
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+El Pleno del Tribunal tendrá una Comisión de Magistrados, responsables de la dirección y supervisión de las actividades del Instituto y las subcomisiones especializadas por materia, transitorias y permanentes, que considere necesarias. La subcomisión especializada en justicia para adolescentes, será permanente y estará integrada por el Presidente del Tribunal, el Presidente de (sic) sala especializada y un Magistrado de la misma. Las comisiones y subcomisiones en materia de capacitación serán creadas mediante acuerdos del Pleno del Tribunal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 1 DE OCTUBRE DE 2006)</small>
+
+### CAPITULO I. VACACIONES
 
 ## TITULO DECIMO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS E IMPEDIMENTOS DE LOS FUNCIONARIOS Y EMPLEADOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DE LA SUSTITUCION EN CASO DE IMPEDIMENTOS
-
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1992)</small>
+### CAPITULO II. LICENCIAS
 
 ###### ARTICULO 109.
 
 Los funcionarios y empleados del Poder Judicial del Estado, en materia civil, familiar o mercantil, anualmente gozarán de dos períodos de vacaciones que comprenderán la segunda quincena de los meses de Julio y Diciembre. Durante esos períodos vacacionales permanecerán cerrados los Tribunales respectivos y no correrán los términos.
 
+(REFORMADO PRIMER PARRAFO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 110.
 
-Los funcionarios y empleados del Poder Judicial del Estado en Materia de Defensa Social, así como los de los Juzgados Mixtos y de lo Familiar del Segundo y Tercer Departamento Judicial de Estado, gozarán asimismo, cada año, de dos períodos quincenales de vacaciones, en la forma y términos que señale el Pleno del Tribunal Superior de Justicia del Estado.
+Los funcionarios y empleados del Poder Judicial del Estado en Materia de Defensa Socia, de Justicia para Adolescentes, así como los de los Juzgados Mixtos que tuvieran competencia en materia de defensa social, gozarán, cada año, de dos períodos quincenales de vacaciones, en la forma y términos que señale el Pleno del Tribunal Superior de Justicia del Estado.
 
 > <small>(F. DE E., D.O. 23 DE MARZO DE 1992)</small>
 
 El Presidente de la Primera Sala del Tribunal, el Secretario de la misma, un Actuario y un Escribiente de la Propia Sala, disfrutarán de vacaciones en la primera quincena de los meses de Julio y Diciembre, y los demás funcionarios y empleados de la citada Sala lo harán en la segunda quincena de los citados meses. En este período deberán permanecer de guardia los mencionados Presidente, secretario, Actuario y Escribiente de la Primera Sala, precisándose que el Presidente quedará investido de todas las facultades que la Ley otorga a la Sala, para el solo efecto de acordar sobre la petición de libertades provisionales bajo fianza, cumplimiento de ejecutorias federales, términos constitucionales de conformidad con lo dispuesto en los artículos 14, 16, 19 y 20 de la Constitución Política de los Estados Unidos Mexicanos, y cualquier otro asunto de carácter notoriamente urgente.
 
-### CAPITULO I. PREVENCIONES GENERALES
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+Durante los periodos vacacionales de los servidores públicos y empleados de la Primera y Tercera Salas del Tribunal, el secretario de acuerdos correspondiente se encargará de la oficina, en los términos establecidos en esta ley y, además, deberán permanecer de guardia un secretario auxiliar, un secretario relator, un actuario y un técnico judicial. El encargado de la oficina quedará investido de todas las facultades que la Ley otorga a la Sala, para el solo efecto de acordar sobre la petición de libertad provisional bajo fianza, cumplimiento de ejecutorias federales, términos constitucionales de conformidad con lo dispuesto en los artículo 14, 16, 19 y 20 de la Constitución Política de los Estados Unidos Mexicanos, y cualquier otro asunto de carácter notoriamente urgente.
+
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+Los actos del secretario encargado de la Sala, conforme a este artículo, serán autorizados por el secretario auxiliar si lo hubiere y en su defecto, por el actuario respectivo.
+
+(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+Los funcionarios designados para cubrir los periodos vacacionales generales, disfrutarán de las correspondientes vacaciones en los periodos que establezca el Pleno del Tribunal Superior.
+
+### CAPITULO I. FALTAS ABSOLUTAS, TEMPORALES Y ACCIDENTALES
 
 ###### ARTICULO 111.
 
@@ -1109,7 +1293,9 @@ Toda solicitud de licencia deberá presentarse ante la Secretaría del Tribunal 
 
 ## TITULO DECIMO PRIMERO. PREVENCIONES GENERALES Y RESPONSABILIDADES
 
-### CAPITULO II. DE LAS RESPONSABILIDADES
+### CAPITULO II. DE LA SUSTITUCION EN CASO DE IMPEDIMENTOS
+
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 115.
 
@@ -1119,49 +1305,67 @@ Son faltas absolutas las provenientes de muerte, renuncia o destitución. Son te
 
 Las vacantes por licencias concedidas a los Magistrados del Tribunal Superior de Justicia, serán cubiertas por los Magistrados suplentes.
 
-Cuando alguno de los Magistrados de cualquiera de las Salas faltare accidentalmente o esté ausente por un término no mayor de un mes, será suplido por el Magistrado que determine la otra Sala.
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
-En los asuntos de la competencia del Pleno, cuando por faltas accidentales o temporales no mayores de un mes, de los Magistrados, no se reúna el quórum a que se refiere el Artículo 19 de esta Ley, para que funcione el Tribunal Pleno, serán llamados para integrarlo en caso necesario por su orden, los Jueces de lo Civil y los de lo Familiar del Primer Departamento Judicial del Estado; a falta o por impedimento de éstos se llamará a los de Defensa Social y en defecto de ellos, a los Mixtos y de lo Familiar.
+Cuando alguno de los Magistrados de las Salas Primera y Segunda faltare accidentalmente o esté ausente por un término no mayor de un mes, será suplido por el Magistrado que determine la otra Sala. El Magistrado de la Sala Especializada en Justicia para Adolescentes, será suplido por el Secretario de Acuerdos.
+
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
+En los asuntos de la competencia del Pleno, cuando por faltas accidentales o temporales no mayores de un mes, de los Magistrados, deje de reunirse el quórum a que se refiere el Artículo 19 de esta Ley, para que funcione el Pleno del Tribunal, serán llamados para integrarlo en caso necesario, en este orden, los Jueces de lo Civil, los de Defensa Social y los de lo Familiar del Primer Departamento Judicial del Estado; a falta o por impedimento de éstos, se llamará a los de otros departamentos judiciales en el orden de éstos y de manera análoga.
 
 ###### ARTICULO 117.
 
 Lo dispuesto en los artículos anteriores se llevará efecto (sic) sin perjuicio de que la Presidencia del Pleno del Tribunal se cubra en los términos a que alude el artículo 24 de esta Ley; las faltas temporales o accidentales del Presidente de alguna de las Salas serán suplidas por el Magistrado de la misma que corresponda por razón de orden numérico.
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 118.
 
-Los Secretarios Primero y Segundo del Tribunal Superior de Justicia, se suplirán mutuamente en los casos de faltas accidentales, recusación o excusa; a falta de ambos, se llamará en su orden a los Secretarios de Acuerdos de los Juzgados de lo Civil y a falta de éstos a los de lo Familiar; las faltas temporales de dichos Secretarios serán suplidas por un Secretario Interino.
+Los Secretarios del Tribunal Superior de Justicia, se suplirán mutuamente, en su orden, en los casos de faltas accidentales, recusación o excusa; a falta de ellos, se llamará en su orden a los Secretarios de Acuerdos de los Juzgados del ramo que corresponda; las faltas temporales de dichos Secretarios, serán suplidos por un Secretario Interino.
+
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 119.
 
-Las faltas temporales de los Jueces de Primera Instancia se suplirán por un Juez Interino. Las faltas accidentales serán suplidas con sujeción a las prescripciones siguientes:
+Las faltas temporales de los jueces de primera instancia, se suplirán por un Juez con carácter interino. Sus faltas accidentales, serán suplidas por el Secretario de Acuerdos correspondiente y; en su defecto, por el Juez o Secretario que determine el Pleno del Tribunal Superior de Justicia siguiendo en su caso, y de manera sucesiva el orden de la numeración de los juzgados.
 
-I.- Las de los Jueces de lo Civil, por los del mismo ramo en orden numérico y a falta de éstos, por los de lo Familiar, siguiendo el orden de su numeración;
+En el caso de los jueces especializados en justicia para adolescentes, sólo podrán ser suplidos por otro servidor público judicial especializado.
 
-II.- Los de lo Familiar, por los mismos del ramo por orden numérico y a falta de éstos, serán suplidos por los de lo Civil siguiendo el orden de su numeración;
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
 
-III.- Respecto a los Jueces de Defensa Social, por los del mismo ramo por su orden numérico, a falta de éstos por los de lo Civil en orden a su numeración; y
+Para los efectos de este artículo, los Secretario de Acuerdos asumirán el despacho del Juzgado para el sólo efecto de practicar las diligencias urgentes, dictas las providencias de trámite y las resoluciones urgentes con arreglo a la Ley, pero sin resolver en definitiva.
 
-IV.- Las de los Jueces Mixtos, y de lo Familiar, por los Secretarios segundos de su adscripción, quienes asumirán el despacho para el solo efecto de practicar las diligencias urgentes, dictar las providencias de mero trámite y las resoluciones urgentes con arreglo a la ley, pero sin resolver en definitiva. Los Secretarios serán suplidos en sus funciones, a falta de otro Secretario, por los Actuarios de la adscripción en el mismo orden.
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 120.
 
-Las faltas temporales de los Secretarios de primera instancia se suplirán por un Secretario interino. Los Secretarios de Acuerdos y Auxiliares, se suplirán mutuamente en faltas accidentales y a falta de ambos, por los del Juzgado del propio Ramo o Departamento Judicial de su adscripción que siga en número; a falta de éstos por los Actuarios del mismo Ramo o Departamento, siguiendo el mismo orden y en defecto de éstos, en caso de urgencia, podrán actuar los Jueces con testigos de asistencia que nombren para tal efecto.
+Las faltas de los Secretarios de los Juzgados de Primera Instancia, se suplirán de la forma siguiente:
 
-Los Secretarios Auxiliares únicamente podrán usar la firma de autorizar en los casos en que suplan a los de Acuerdos.
+I.- Las faltas temporales por un Secretario interino;
+
+> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+
+II.- En las faltas accidentales de los Secretarios de Acuerdos y Auxiliares, se suplirán mutuamente y a falta de ambos, por los del Juzgado del propio ramo o Departamento Judicial de su adscripción que siga de manera sucesiva, en el orden de su numeración. Los Secretarios Auxiliares únicamente podrán usar la firma de autorizar en los casos que suplan a los de Acuerdos, y
+
+III.- Las faltas accidentales de los Secretarios de Acuerdos en los Juzgados donde no hubiere Secretarios Auxiliares, por un Actuario del mismo juzgado y a falta de éste, por el Secretario o el Actuario del otro juzgado de la misma cabecera, en ese orden.
+
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 121.
 
-Las faltas temporales de los Actuarios se suplirán por un Actuario Interino. Por faltas accidentales de algún Actuario de los Juzgados del Primer Departamento Judicial del Estado, se pasará el asunto a otro Actuario del mismo Juzgado y a falta de éste se pasará el asunto al del Juzgado del mismo Ramo que siga en número al de su Adscripción. Por faltas accidentales de algún Actuario del Tribunal Superior de Justicia, hará las veces del mismo, otro del propio Tribunal; agotados en su orden, pasará el asunto al Actuario del Juzgado Civil que corresponda en orden numérico, o en su defecto, al que por ese orden esté adscrito a alguno de los Juzgados de lo Familiar en la forma que corresponda. Los Actuarios del Tribunal suplirán en orden numérico inverso a los de los Juzgados de Primera Instancia de carácter Civil o de lo Familiar, empezando a contarse por los de lo Civil, de manera que se entienda que el orden para esa suplencia será el siguiente: a los del Tribunal, agotados en su orden, los de los Juzgados de lo Civil y los de lo Familiar, también en orden numérico.
-
-Las faltas accidentales de algún Actuario de los Juzgados Mixtos y de lo Familiar, se cubrirán por otro de la misma adscripción, y a falta de éste por los Secretarios del Propio Juzgado en orden numérico.
+Las faltas temporales de los Actuarios se suplirán por un interino que nombre el Pleno del Tribunal Superior de Justicia. Por faltas accidentales de algún actuario del Tribunal, hará las veces del mismo, otro del propio Tribunal; agotados en su orden pasará el asunto al Actuario que determine el Pleno del Tribunal.
 
 ###### ARTICULO 122.
 
 Las vacantes por licencias concedidas a los demás funcionarios o empleados de la Administración de Justicia serán cubiertas por interinos.
 
+### CAPITULO I. PREVENCIONES GENERALES
+
 ###### ARTICULO 123.
 
-Cuando por recusación o excusa de algún Magistrado se resuelva que está impedido para conocer de un determinado asunto, correspondiente a alguna de las Salas, conocerá del mismo un Magistrado de la otra Sala en orden numérico; por impedimento de aquellos serán llamados por su orden los Jueces de lo Civil, los de lo Familiar del Primer Departamento Judicial del Estado; a falta o impedimento de éstos se llamará a los de Defensa social y en defecto de ellos a los Mixtos y de lo Familiar, en su orden.
+Cuando por recusación o excusa de algún Magistrado de las Salas Primera y Segunda, se resuelva que esta impedido para conocer de un determinado asunto, correspondiente a alguna de las Salas, conocerá del mismo un Magistrado de la otra Sala en orden numérico de ésta. Por impedimento de los Magistrados, serán llamados por su orden, los jueces de primera instancia del Primer Departamento Judicial del Estado según la materia del asunto que deba conocer la sala y a falta de ellos, se llamará al Juez que determine el Pleno del Tribunal Superior de Justicia.
+
+En caso que el impedimento recaiga en algún Magistrado de la Sala Especializada en Justicia para Adolescentes, conocerá del asunto un Juez Especializado que no esté impedido.
 
 ###### ARTICULO 124.
 
@@ -1171,55 +1375,43 @@ En los asuntos de la competencia del Pleno cuando por recusación o excusa de Ma
 
 Lo dispuesto en los dos numerales anteriores se llevará a efecto sin perjuicio de que la Presidencia del Tribunal en Pleno y de las Salas, se cubra en los términos a que aluden los artículos 24 y 117 de esta Ley.
 
+(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+
 ###### ARTICULO 126.
 
-Las faltas de los Titulares de los Juzgados de lo Civil que ocurran en determinado asunto por excusa o recusación, se suplirán con sujeción a las prescripciones siguientes:
+Las faltas de los Titulares de los Juzgados, que ocurran en determinado asunto por excusa o recusación, se suplirán por los jueces del mismo ramo en su orden numérico y a falta de éstos, por el que designe el Tribunal Pleno.
 
-I.- Por los Jueces del mismo Ramo en su orden numérico;
+En el caso de los jueces especializados en justicia para adolescentes, sólo podrán ser suplidos por otro servidor público judicial especializado.
 
-II.- Impedidos los Jueces de lo Civil, el asunto pasará a los de lo Familiar, sucesivamente, siguiendo el orden de su numeración;
+Cuando por excusa o recusación un Juez de Primera instancia deje de conocer algún asunto, una vez admitido, será turnado a otro Juez no impedido del mismo ramo y departamento, siguiendo de manera sucesiva el orden numérico progresivo de los juzgados y, agotados los Jueces del mismo ramo, pasará al Juez que determine el Tribunal Superior de Justicia.
 
-III.- Impedidos los Jueces de lo Familiar, el asunto pasará a los de Defensa Social, sucesivamente, siguiendo el orden de su numeración; y
+En los Departamentos Judiciales donde no hubiere dos o más jueces del mismo ramo, pero los hubiere de distinto ramo, el asunto pasará recíprocamente al del otro ramo, en el orden de su numeración, en su caso.
 
-IV.- Impedidos los Jueces a que se refiere la fracción precedente, pasará el asunto a los Mixtos y de lo Familiar, en su orden.
+Impedidos todos los Jueces de un mismo Departamento Judicial o existiendo un solo juzgado en dicho Departamento, el asunto pasará del Juez impedido al que determine el Tribunal Superior de Justicia, considerando la menor distancia entre ambos Juzgados.
+
+Para los efectos de esta disposición, se entenderá por más cercano aquél Juzgado cuya sede se encuentre a menor distancia de aquél en el que se dio la excusa y recusación. El Tribunal Superior de Justicia, mediante un acuerdo general podrá establecer y modificar los criterios de cercanía entre los Departamentos Judiciales.
+
+En caso de que el Juez que motivó la excusa o recusación sea sustituido de manera definitiva, el asunto podrá volver al juzgado de su origen, si en él no hubiere recaído resolución firme.
 
 ###### ARTICULO 127.
 
-Las faltas de los Titulares de los Juzgados de lo Familiar que ocurran en determinado asunto por excusa o recusación serán suplidos en la forma siguiente:
-
-I.- Por los del mismo Ramo;
-
-II.- Impedidos los Jueces de lo Familiar, el asunto pasará a los de lo Civil, siguiendo el orden de su numeración;
-
-III.- Impedidos los Jueces a que se refiere la fracción anterior, pasará el asunto a los Jueces de Defensa Social de acuerdo a su orden numérico; y
-
-IV.- Impedidos los Jueces mencionados en la fracción precedente, pasará el asunto a los Jueces Mixtos y de lo Familiar, por su orden numérico.
+(DEROGADO, D.O. 1 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 128.
 
-Las faltas de los Titulares de los Juzgados de Defensa Social que ocurran en determinado asunto por excusa o recusación se suplirán en la forma siguiente:
-
-I.- Por los Jueces del mismo Ramo en su orden numérico;
-
-II.- Impedidos todos los Jueces de Defensa Social el asunto pasará a los de lo Civil, siguiendo el orden de su numeración.
-
-III.- Impedidos los Jueces a que se refiere la fracción anterior el asunto pasará a los de lo Familiar, siguiendo el orden de su numeración; y
-
-IV.- Impedidos los Jueces mencionados en la fracción precedente conocerán del asunto los Jueces Mixtos y de lo Familiar, en su orden.
+(DEROGADO, D.O. 1 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 129.
 
-En los casos de excusa o recusación, las faltas de los Jueces Mixtos y de lo Familiar, en determinado asunto se suplirán con sujeción a las prescripciones siguientes:
+(DEROGADO, D.O. 1 DE OCTUBRE DE 2006)
 
-I.- Por los Jueces del mismo Ramo.
-
-II.- Impedidos dichos Jueces el asunto pasará a los de lo Civil, por su orden, si es de carácter Civil; a los Juzgados de lo Familiar, si es de esa índole; a los Juzgados de Defensa Social, si es de su Ramo, y en su orden; y
-
-III.- A falta de los Jueces de lo Civil el asunto pasará a los Juzgados de lo Familiar, por su orden, y a falta de éstos, a los de Defensa Social siempre en su orden. A falta de los Jueces de lo Familiar, los asuntos de tal índole pasarán a los de lo Civil y a falta de éstos a los de Defensa Social, en su orden, y a falta de los Jueces de Defensa Social los asuntos de ese Ramo pasarán a los Juzgados de lo Civil y a falta de éstos a los de lo Familiar por su orden.
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 130.
 
-Los Actuarios del Poder Judicial no son recusables; pero los adscritos a los Juzgados de lo Civil, los de lo Familiar y los adscritos a los Mixtos, y de lo Familiar (sic), al actuar como Ministros Ejecutores, deberán inhibirse cuando haya causa justa, proponiendo su excusa ante el Juez respectivo, al hacérseles saber el mandamiento correspondiente. La excusa será calificada por el Juez de los autos sin audiencia de las partes y en vista sólo de la razón en que se funde el Ministro Ejecutor y sin más recurso que el de responsabilidad. El sustituto, en todo caso, será el Actuario que corresponda en términos del Artículo 121 de esta Ley.
+Los actuarios del Poder Judicial no son recusables; pero al actuar como autoridad ejecutora, deberá inhibirse cuando haya causa justa, proponiendo su excusa ante el Juez respectivo, al hacérseles saber el mandamiento correspondiente. La excusa será calificada por el Juez de los autos sin audiencia de las partes y en vista sólo de la razón en que se funde el actuario y sin más recurso que el de responsabilidad. El sustituto, en todo caso, será el actuario que corresponda en términos del artículo 121 de esta Ley.
+
+### CAPITULO II. DE LAS RESPONSABILIDADES
 
 ###### ARTICULO 131.
 
@@ -1249,9 +1441,11 @@ Los Tribunales del Estado despacharán durante todos los días hábiles del año
 
 Los asuntos Civiles y de lo Familiar serán despachados en días y horas hábiles; sin embargo, en los casos de urgencia, podrán habilitarse los que no lo fueren, en los términos que las leyes determinen.
 
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 138.
 
-Para los asuntos del ramo de Defensa Social, son hábiles todos los días del año y todas las horas del día y de la noche, sin excepción alguna y sin previa habilitación.
+Para los asuntos de Defensa Social y de Justicia para Adolescentes, son hábiles todos los días del año y todas las horas del día y de la noche, sin excepción alguna y sin previa habilitación.
 
 ###### ARTICULO 139.
 
@@ -1370,3 +1564,31 @@ D.O. 23 DE ENERO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a este decreto.
+
+Artículo Tercero.- En tanto se crean los órganos especializados y se efectúan los correspondientes nombramientos señalados en el presente decreto, la administración de los procesos jurisdiccionales y procedimientos alternativos y administrativos, estarán a cargo del actual Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores. Dichos actos deberán realizarse a más tardar en un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- A partir de la entrada en vigor de este Decreto, el Poder Ejecutivo adecuará el presupuesto destinado para el funcionamiento del Consejo Tutelar de Menores Infractores del Estado de Yucatán y de la Escuela de Educación Social para Menores Infractores y en su caso acordará con el Poder Judicial lo conducente en las previsiones que éste tuviere que efectuar en cumplimiento de este decreto.
+
+Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2007, con el fin de atender el funcionamiento inicial del Sistema Integral de Justicia para Adolescentes.
+
+Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
+
+Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+
+Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+
+Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Décimo.- La Procuraduría General de Justicia del Estado por medio de la Agencia Especializada para la Atención de Adolescentes, y las demás que el Titular de aquella cree conforme a las atribuciones que le otorga la respectiva ley orgánica y la disponibilidad presupuestal, participará en el Sistema Integral de Justicia para Adolescentes.
+
+Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, la aplicación y vigilancia de las medidas que se impongan a los Adolescentes, la Secretaría General de Gobierno hará todo lo conducente con el fin de que la Dirección de la Defensa Legal del Estado, la Escuela de Educación Social para Menores Infractores y la Dirección de Prevención y Readaptación Social se ajusten a las necesidades del nuevo Sistema.
+
+Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
+
+Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
