@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-el-tratamiento-y-proteccion-de-los-menores-14957"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "1999-08-12"
+last_updated: "2006-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY PARA EL TRATAMIENTO Y PROTECCION DE LOS MENORES INFRACTORES DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIAS PARA ADOLESCENTES DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 1 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 12 de agosto de 1999.
 
@@ -1236,3 +1238,43 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 1 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial del Gobierno del Estado, con excepción de lo preceptuado en el artículo 142 de esta ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La entrada en vigor del presente Decreto abroga el publicado con el número doscientos diez, en el Diario Oficial del Gobierno del Estado y que contiene la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán; y todas las normas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir del día siguiente de la publicación del presente Decreto y hasta antes del inicio de su entrada en vigor, el Consejo Tutelar de Menores Infractores y la Escuela de Educación Social para Menores Infractores, continuaran conociendo de los asuntos en los que a los adolescentes, se les atribuyan conductas tipificadas como delitos o hayan sido declarados responsables de ella y, de la aplicación de las medidas, respectivamente. Esto, de conformidad con las facultades conferidas a ambos órganos, en la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+A partir del inicio de la vigencia de este Decreto y hasta que comience a funcionar el Sistema Integral de Justicia para Adolescentes, con todos sus órganos jurisdiccionales y administrativos, el Consejo Tutelar de Menores Infractores y la Escuela de Educación Social para Menores Infractores aplicarán esta ley a los adolescentes a los que se atribuyan conductas tipificadas como delito en las leyes penales. Los adolescentes que al momento de entrar en vigor esta ley se encuentren procesados conforme la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán continuarán sujetos a ella hasta que se emita la resolución definitiva.
+
+###### ARTÍCULO QUINTO.
+
+Los adolescentes que hubiesen tenido 16 años cumplidos y menos de 18 años de edad, al momento de la comisión de conductas actualmente tipificadas como delito, en las leyes penales del Estado, y que se encuentren actualmente sujetos a proceso en los Juzgados de Defensa Social del Estado; serán puestos a disposición del Consejo Tutelar de Menores Infractores, a la brevedad posible.
+
+###### ARTÍCULO SEXTO.
+
+En el caso de los adolescentes que al momento de la comisión de la conducta tipificada como delito por las leyes penales, hubiesen tenido 16 años cumplidos y menos de 18 años de edad, y actualmente se encuentren compurgando pena privativa de libertad, impuesta mediante Sentencia Ejecutoriada, la Dirección de Prevención y Readaptación Social, comunicará a los titulares de los Juzgados de Defensa Social, los nombres, las sanciones aplicadas y su duración, y el tiempo compurgado, para el efecto de que la autoridad judicial efectúe una revisión y, en su caso, aplique lo dispuesto por el artículo 142 de esta ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las órdenes de aprehensión y de comparecencia libradas por los Juzgados de Defensa Social, en contra (sic) los adolescentes que al momento de la comisión de la conducta tipificada como delito por las leyes penales, hubiesen tenido 16 años cumplidos y menos de 18 años de edad, y no ejecutadas; quedarán sin efecto, y se procederá conforme a las previsiones de la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán.
+
+###### ARTÍCULO OCTAVO.
+
+El Sistema Integral de Justicia para Adolescentes deberá comenzar a funcionar con todos sus órganos judiciales y administrativos, antes de que concluyan seis meses siguientes al inicio de la vigencia de esta ley.
+
+###### ARTÍCULO NOVENO.
+
+El Poder Judicial publicará en el Diario Oficial del Gobierno del Estado la fecha de inicio del funcionamiento de sus órganos especializados en justicia para adolescentes.
