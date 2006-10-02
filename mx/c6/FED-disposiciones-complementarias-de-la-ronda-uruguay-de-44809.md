@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-ronda-uruguay-de-44809"
 country: "mx"
 rank: "otro"
 publication_date: "2005-01-24"
-last_updated: "2006-08-02"
+last_updated: "2006-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,111 +19,351 @@ issue_date: "2005-01-21"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA RONDA URUGUAY DE NEGOCIACIONES COMERCIALES MULTILATERALES Y, EL ACUERDO POR EL QUE SE ESTABLECE LA ORGANIZACION MUNDIAL DEL COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTÁ SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 2 de octubre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech; Parte III, artículo 4 del Acuerdo sobre la Agricultura; 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 de su Reglamento; y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 22 y 23 del Reglamento de la Ley de Comercio Exterior; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (Acuerdo OMC) fue aprobado por el Senado de la República el 13 de julio de 1994, publicado en el Diario Oficial de la Federación el 30 de diciembre del mismo año y entró en vigor el 1 de enero de 1995;
+Que conforme a los artículos 20 de la Ley de Comercio Exterior, y 36 fracciones I inciso c) y II inciso b) de la Ley Aduanera, sólo podrán hacerse cumplir en el punto de entrada o salida al país las regulaciones no arancelarias, cuyas mercancías hayan sido identificadas en términos de sus fracciones arancelarias y nomenclatura que les corresponda conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-Que el 11 de noviembre de 2005, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos;
+Que a efecto de cumplir con lo dispuesto en la Ley de Comercio Exterior, el 9 de noviembre de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diversos dados a conocer en el mismo medio informativo el 20 de diciembre de 2005 y el 29 de marzo del presente año;
 
-Que el 2 de febrero de 2006, Estados Unidos de América anunció incrementar el cupo de importación de la Organización Mundial del Comercio en 250 mil toneladas cortas de azúcar refinada para 2006;
+Que como parte de las Metas Presidenciales de Buen Gobierno y las Acciones Concretas para Incrementar la Competitividad, se estableció el compromiso de revisar los instrumentos de regulación no arancelaria, para evitar los casos de doble regulación y los que constituyan un instrumento obsoleto en las condiciones del comercio exterior actuales toda vez que la efectividad de éstos puede resultar erosionada cuando se presenta una proliferación de los mismos;
 
-Que el 21 de febrero de 2006, los Estados Unidos de América otorgaron a los Estados Unidos Mexicanos una cuota adicional de 59,349 toneladas de azúcar refinada (valor crudo), para el ciclo comercial octubre de 2005 a septiembre de 2006;
+Que la revisión de las regulaciones no arancelarias es una de las principales acciones de la facilitación comercial, ya que con ello se simplifica la regulación de las actividades comerciales, se reducen los costos en los que incurren los particulares para poder cumplir con la normatividad, se modernizan y agilizan los trámites, se evitan trámites innecesarios y se imprime certidumbre, transparencia y continuidad a las operaciones de comercio exterior;
 
-Que existe una disputa pendiente de resolución entre los Estados Unidos Mexicanos y los Estados Unidos de América concerniente al comercio bilateral de edulcorantes y la asignación de los cupos de exportación a que se refiere este Acuerdo se llevará a cabo sin perjuicio de cualesquier derechos (sic) que le asistan (sic) a México en el marco del Tratado de Libre Comercio de América del Norte incluido en el capítulo XX, y las normas del derecho internacional;
+Que mediante el Decreto por el que se establecen las condiciones para la importación definitiva de vehículos automotores usados, publicado en el Diario Oficial de la Federación el 22 de agosto de 2005, el Ejecutivo Federal determinó que las importaciones realizadas a su amparo están exentas del cumplimiento del requisito de permiso previo siempre que se cumpla con los requisitos y el procedimiento establecido en el propio Decreto, por lo que ya no es necesario mantener dicho requisito en el Acuerdo;
 
-Que es necesario contar con un procedimiento de asignación expedito para efectuar las exportaciones, mejorar la productividad y la competitividad del sector para asegurar el abasto nacional, así como procurar la equidad en la asignación del cupo de exportación de azúcar libre de arancel a los Estados Unidos de América;
+Que recientemente se modificó la descripción de diversas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que se encuentran sujetas al requisito de permiso previo, lo que determina la necesidad de actualizar la descripción de dichas fracciones arancelarias en el citado Acuerdo;
 
-Que el procedimiento de asignación de los cupos de azúcares, jarabes y productos con alto contenido de azúcar, es el resultado de un proceso de labores coordinado, entre las secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Cámara Nacional de las Industrias Azucarera y Alcoholera, y
+Que con objeto de simplificar los instrumentos de comercio exterior, y evitar trámites innecesarios a los usuarios, se libera del cumplimiento de permiso previo aquellas fracciones arancelarias sujetas a doble regulación;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que en el marco del Tratado de Montevideo 1980, México suscribió el 30 de abril de 1983 el Acuerdo Regional No. 2 de Apertura de Mercados a favor del Ecuador y el Acuerdo Regional No. 3 de Apertura de Mercados en favor de Paraguay; y el 27 de abril de 1984 el Acuerdo Regional No. 4 relativo a la Preferencia Arancelaria Regional, en los cuales se comprometió a eliminar las restricciones no arancelarias sobre la importación de los productos incluidos en dichos Acuerdos Regionales, salvo a las que se refiere el Artículo 50 del Tratado de Montevideo de 1980;
 
-ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+Que el 10 de abril de 2000 se publicó en el Diario Oficial de la Federación el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo Regional número 4, relativo a la Preferencia Arancelaria Regional; y el 23 de agosto del mismo año se publicaron en el mismo Diario el Decreto para la Aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador y el Decreto para la Aplicación del Acuerdo Regional No. 3 de Apertura de Mercados a favor de Paraguay;
 
-> <small>(F. DE E., D.O.F. 24 DE AGOSTO DE 2006)</small>
+Que con objeto de dar cumplimiento a los compromisos internacionales de México, así como facilitar la consulta sobre el esquema regulatorio vigente en la materia, resulta necesario eliminar el requisito de permiso previo de importación para las mercancías incluidas en los mencionados Acuerdos Regionales, y
 
-###### ARTICULO UNICO.
+Que la Comisión de Comercio Exterior, conforme al procedimiento previsto en la Ley de la materia, opinó favorablemente la eliminación del citado requisito de permiso previo, he tenido a bien expedir el siguiente:
 
-Se adiciona a los tres cupos contenidos en el cuadro del artículo Primero del Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 11 de noviembre de 2005, uno cuarto para quedar como sigue:
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
 
-(VEASE ARCHIVO ANEXO)
+###### ARTICULO 1.
 
-###### Artículo 1.
+Se eliminan del artículo 1o. del Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005, modificado mediante diversos dados a conocer en el mismo medio informativo el 20 de diciembre de 2005 y 29 de marzo de 2006, las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
 
-El presente Acuerdo tiene por objeto establecer las disposiciones de carácter administrativo conforme a las cuales la Secretaría de Economía, por conducto de la Unidad de Prácticas Comerciales Internacionales, tramitará y resolverá las investigaciones derivadas del mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio y, en su caso, propondrá al titular del Ejecutivo Federal la imposición de medidas de salvaguardia de transición que correspondan.
+2712.90.03 9803.00.01 9803.00.02 --------------- ---------------
 
-###### Artículo 2.
+###### ARTICULO 2.
 
-Para efectos del presente Acuerdo, se entenderá por:
+Se eliminan del artículo 4o. del Acuerdo que se señala en el artículo 1 del presente ordenamiento, las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
 
-I. Comité, el Comité de Salvaguardias de la Organización Mundial del Comercio;
+1702.50.01 1702.90.99 --------------- --------------- ---------------
 
-II. Medidas de salvaguardia de transición, las medidas que regulen o restrinjan las importaciones de mercancías originarias de la República Popular China similares o directamente competidoras con mercancías de fabricación nacional, a efecto de prevenir o reparar una desorganización del mercado o una desviación importante del comercio;
+###### ARTICULO 3.
 
-III. Parte interesada, el productor nacional y extranjero, el exportador o el importador de las mercancías objeto de investigación, las asociaciones en las que la mayoría de los miembros sean productores, exportadores o importadores de las mercancías objeto de investigación, así como el gobierno de la República Popular China o el gobierno del Miembro de la Organización Mundial del Comercio de que se trate, sin perjuicio de que la Secretaría pueda admitir la inclusión al procedimiento de investigación a partes interesadas distintas a las mencionadas, siempre que demuestren tener interés jurídico en el resultado de la investigación;
+Se eliminan del artículo 5o. fracción II del Acuerdo que se señala en el artículo 1 del presente ordenamiento, las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
 
-IV. Rama de producción nacional, el conjunto de productores de mercancías similares o directamente competidoras, o aquéllos cuya producción conjunta constituya una proporción importante de la producción nacional total de dichas mercancías;
+0406.90.03 0406.90.05 0406.90.06 0406.90.99 ---------------
 
-V. Secretaría, la Secretaría de Economía, y
+###### ARTICULO 4.
 
-VI. Unidad, la Unidad de Prácticas Comerciales Internacionales.
+Se elimina del artículo 7o. del Acuerdo que se señala en el artículo 1 del presente ordenamiento, la fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indica:
 
-###### Artículo 3.
+2712.90.03 --------------- --------------- --------------- ---------------
 
-La Secretaría impondrá una medida de salvaguardia de transición en los términos previstos en el presente Acuerdo, en los siguientes casos: …
+###### ARTICULO 5.
 
-###### Artículo 4.
+Se reforma el artículo 2o. del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
 
-Una desorganización del mercado se presenta cuando las importaciones de mercancías originarias de la República Popular China similares o directamente competidoras con mercancías de fabricación nacional estén aumentando rápidamente, en términos absolutos o relativos, de tal forma que sean una causa importante de daño grave o amenaza de daño grave a la rama de producción nacional de dichas mercancías, en los términos previstos en el presente Acuerdo.
+“ARTICULO 2o.- Para efectos de la autorización a que se refiere la Regla 8a de las Complementarias para la aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o temporal:
 
-###### Artículo 5.
+FRACCION DESCRIPCION
 
-Para determinar si existe una desorganización del mercado en términos del artículo anterior, se considerarán factores objetivos, entre ellos:
+9802.00.01 Mercancías para el Programa de Promoción Sectorial de la Industria Eléctrica, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-I. El volumen de las importaciones de las mercancías objeto de investigación;
+9802.00.02 Mercancías para el Programa de Promoción Sectorial de la Industria Electrónica, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-II. El efecto de tales importaciones sobre los precios de las mercancías similares o directamente competidoras, y
+9802.00.03 Mercancías para el Programa de Promoción Sectorial de la Industria del Mueble, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-III. El efecto de tales importaciones sobre la rama de producción nacional que produce mercancías similares o directamente competidoras.
+9802.00.04 Mercancías para el Programa de Promoción Sectorial de la Industria del Juguete, Juegos de Recreo y Artículos Deportivos, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-Desorganización del mercado
+9802.00.05 Mercancías para el Programa de Promoción Sectorial de la Industria del Calzado, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-###### Artículo 6.
+9802.00.06 Mercancías para el Programa de Promoción Sectorial de la Industria Minera y Metalúrgica, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-Una desviación importante del comercio se presenta cuando una medida adoptada por la República Popular China o por un Miembro de la Organización Mundial del Comercio para prevenir o reparar una desorganización del mercado, cause o amenace causar un aumento de las importaciones originarias de la República Popular China en el mercado mexicano.
+9802.00.07 Mercancías para el Programa de Promoción Sectorial de la Industria Bienes de Capital, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-###### Artículo 7.
+9802.00.08 Mercancías para el Programa de Promoción Sectorial de la Industria Fotográfica, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-Para determinar si las medidas impuestas para prevenir o reparar la desorganización del mercado causan o amenazan causar una desviación importante del comercio se considerarán factores objetivos, entre ellos:
+9802.00.09 Mercancías para el Programa de Promoción Sectorial de la Industria de Maquinaria Agrícola, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-I. El aumento real o inminente de la participación en el mercado mexicano de las importaciones de las mercancías objeto de investigación originarias de la República Popular China;
+9802.00.10 Mercancías para el Programa de Promoción Sectorial de las Industrias Diversas, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-II. La naturaleza o la magnitud de la medida adoptada o propuesta por la República Popular China o por el Miembro de la Organización Mundial del Comercio de que se trate;
+9802.00.11 Mercancías para el Programa de Promoción Sectorial de la Industria Química, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-III. El aumento real o inminente del volumen de las importaciones de las mercancías objeto de investigación originarias de la República Popular China, debido a la medida adoptada o propuesta;
+9802.00.12 Mercancías para el Programa de Promoción Sectorial de la Industria de Manufacturas del Caucho y Plástico, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-IV. Las condiciones de la oferta y la demanda de las mercancías objeto de investigación en el mercado nacional, y
+9802.00.13 Mercancías para el Programa de Promoción Sectorial de la Industria Siderúrgica, cuando se trate de productores directos y las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-V. En su caso, el volumen de las exportaciones de las mercancías objeto de investigación originarias de la República Popular China destinadas o que pretendan destinarse al Miembro de la Organización Mundial del Comercio que aplicó las medidas provisionales o definitivas para prevenir o reparar una desorganización del mercado.
+9802.00.14 Mercancías para el Programa de Promoción Sectorial de la Industria de Productos Farmoquímicos, Medicamentos y Equipo Médico, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-###### Artículo 8.
+9802.00.15 Mercancías para el Programa de Promoción Sectorial de la Industria del Transporte, excepto el Sector de la Industria Automotriz y de Autopartes, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-La Secretaría, por conducto de la Unidad, realizará el análisis para la determinación de medidas de salvaguardia de transición con base en los factores previstos en este Acuerdo.
+9802.00.16 Mercancías para el Programa de Promoción Sectorial de la Industria del Papel y Cartón, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
 
-Consultas
+9802.00.17 Mercancías para el Programa de Promoción Sectorial de la Industria de la Madera, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+9802.00.18 Mercancías para el Programa de Promoción Sectorial de la Industria del Cuero y Pieles, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+9802.00.19 Mercancías para el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+9802.00.20 Mercancías para el Programa de Promoción Sectorial de la Industria Textil y de la Confección, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+9802.00.24 Mercancías para el Programa de Promoción Sectorial de la Industria de Chocolates, Dulces y Similares, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+9802.00.25 Mercancías para el Programa de Promoción Sectorial de la Industria del Café, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+9802.00.26 Mercancías para el Programa de Promoción Sectorial de la Industria Siderúrgica, cuando se trate de productores indirectos y las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa, de la Ley de los Impuestos Generales de Importación y de Exportación, conforme a los criterios que establezca la Secretaría de Economía.
+
+###### ARTICULO 6.
+
+Se reforma el Artículo 3o. del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
+
+“ARTICULO 3o.- Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva y sean originarias y procedentes de Argentina, Brasil, Cuba, Ecuador, Perú, Panamá o Paraguay, importadas al amparo de un Acuerdo de Alcance Parcial negociado conforme al Tratado de Montevideo 1980:
+
+FRACCION DESCRIPCION
+
+0402.10.01 Leche en polvo o en pastillas.
+
+0402.21.01 Leche en polvo o en pastillas.
+
+0402.91.01 Leche evaporada.
+
+0406.90.03 De pasta blanda, tipo Colonia, cuando su composición sea: humedad de 35.5% a 37.7%, cenizas de 3.2% a 3.3%, grasas de 29.0% a 30.8%, proteínas de 25.0% a 27.5%, cloruros de 1.3% a 2.7% y acidez de 0.8% a 0.9% en ácido láctico.
+
+0713.33.02 Fríjol blanco, excepto lo comprendido en la fracción 0713.33.01.
+
+0713.33.03 Fríjol negro, excepto lo comprendido en la fracción 0713.33.01.
+
+0713.33.99 Los demás.
+
+0806.10.01 Frescas.
+
+1001.90.01 Trigo común (Triticum aestivum o trigo duro).
+
+1003.00.02 En grano, con cáscara, excepto lo comprendido en la fracción 1003.00.01.
+
+1005.90.03 Maíz amarillo.
+
+1005.90.04 Maíz blanco (harinero).
+
+1107.10.01 Sin tostar.
+
+1107.20.01 Tostada.
+
+1516.10.01 Grasas y aceites, animales, y sus fracciones.
+
+1521.10.01 Carnauba.
+
+1704.10.01 Chicles y demás gomas de mascar, incluso recubiertos de azúcar.
+
+1704.90.99 Los demás.
+
+1806.32.01 Sin rellenar.
+
+Excepto: Los originarios y provenientes de Cuba.
+
+1806.90.99 Los demás.
+
+Excepto: Los originarios y provenientes de Cuba.
+
+2101.11.01 Café instantáneo sin aromatizar.
+
+2401.10.01 Tabaco para envoltura.
+
+2401.10.99 Los demás.
+
+2401.20.01 Tabaco rubio, Burley o Virginia.
+
+2401.20.99 Los demás.
+
+2402.10.01 Cigarros (puros) (incluso despuntados) y cigarritos (puritos), que contengan tabaco.
+
+Excepto: Los originarios y provenientes de Cuba y Panamá.
+
+2402.20.01 Cigarrillos que contengan tabaco.
+
+2402.90.99 Los demás.
+
+2403.10.01 Tabacos para fumar, incluso con sucedáneos de tabaco en cualquier proporción.
+
+2403.91.01 Tabaco del tipo utilizado para envoltura de tabaco.
+
+2403.91.99 Los demás.
+
+2403.99.99 Los demás.”
+
+###### ARTICULO 7.
+
+Se reforma el artículo 6o. del Acuerdo que señala el artículo 1 del presente ordenamiento, para quedar como sigue:
+
+“ARTICULO 6o.- Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías usadas comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva:
+
+FRACCION DESCRIPCION
+
+8701.20.01 Tractores de carretera para semirremolques.
+
+8702.10.01 Con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.10.03.
+
+8702.10.02 Con carrocería integral, excepto lo comprendido en la fracción 8702.10.04.
+
+8702.10.03 Para el transporte de 16 o más personas incluyendo el conductor, con carrocería montada sobre chasis.
+
+8702.10.04 Para el transporte de 16 o más personas incluyendo el conductor, con carrocería integral.
+
+8702.90.01 Trolebuses.
+
+8702.90.02 Con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.90.04.
+
+8702.90.03 Con carrocería integral, excepto lo comprendido en la fracción 8702.90.05.
+
+8702.90.04 Para el transporte de 16 o más personas incluyendo el conductor, con carrocería montada sobre chasis.
+
+8702.90.05 Para el transporte de 16 o más personas incluyendo el conductor, con carrocería integral.
+
+8703.10.01 Con motor eléctrico, excepto los comprendidos en las fracciones 8703.10.02 y 8703.10.03.
+
+8703.10.99 Los demás.
+
+8703.21.99 Los demás.
+
+Excepto: Vehículos con estructura tubular cuyo peso sea inferior o igual a 200 kilogramos, de hasta dos plazas (“Go-Karts”).
+
+8703.22.01 De cilindrada superior a 1,000 cm3 pero inferior o igual a 1,500 cm3.
+
+Excepto: Vehículos con estructura tubular cuyo peso sea inferior o igual a 200 kilogramos, de hasta dos plazas (“Go-Karts”).
+
+8703.23.01 De cilindrada superior a 1,500 cm3 pero inferior o igual a 3,000 cm3.
+
+Excepto: Vehículos tipo familiar o “station wagon” preparados para transporte especializado, denominados “coches fúnebres” o “carrozas fúnebres”.
+
+8703.24.01 De cilindrada superior a 3,000 cm3.
+
+Excepto: Vehículos tipo familiar o “station wagon” preparados para transporte especializado, denominados “coches fúnebres” o “carrozas fúnebres”, cuya cilindrada sea inferior o igual a 3,500 cm3.
+
+8703.31.01 De cilindrada inferior o igual a 1,500 cm3.
+
+Excepto: Vehículos con estructura tubular cuyo peso sea inferior o igual a 200 kilogramos, de hasta dos plazas (“Go-Karts”).
+
+8703.32.01 De cilindrada superior a 1,500 cm3 pero inferior o igual a 2,500 cm3.
+
+Excepto: Vehículos tipo familiar o “station wagon” preparados para transporte especializado, denominados “coches fúnebres” o “carrozas fúnebres”.
+
+8703.33.01 De cilindrada superior a 2,500 cm3.
+
+Excepto: Vehículos tipo familiar o “station wagon” preparados para transporte especializado, denominados “coches fúnebres” o “carrozas fúnebres”, cuya cilindrada sea inferior o igual a 3,500 cm3.
+
+8703.90.01 Eléctricos.
+
+8703.90.99 Los demás.
+
+8704.21.02 De peso total con carga máxima inferior o igual a 2,721 kg.
+
+8704.21.03 De peso total con carga máxima superior a 2,721 kg, pero inferior o igual a 4,536 kg.
+
+8704.21.99 Los demás.
+
+8704.22.02 De peso total con carga máxima superior o igual a 5,000 kg, pero inferior o igual a 6,351 kg.
+
+8704.22.03 De peso total con carga máxima superior a 6,351 kg, pero inferior o igual a 7,257 kg.
+
+8704.22.04 De peso total con carga máxima superior a 7,257 kg, pero inferior o igual a 8,845 kg.
+
+8704.22.05 De peso total con carga máxima superior a 8,845 kg, pero inferior o igual a 11,793 kg.
+
+8704.22.06 De peso total con carga máxima superior a 11,793 kg, pero inferior o igual a 14,968 kg.
+
+8704.22.99 Los demás.
+
+8704.23.99 Los demás.
+
+8704.31.03 De peso total con carga máxima superior a 2,721 kg, pero inferior o igual a 4,536 kg, excepto lo comprendido en la fracción 8704.31.04.
+
+8704.31.04 Denominados “pick up”, de peso total con carga máxima inferior o igual a 3,200 kg, y cuyo número de serie o año-modelo sea al menos 10 años anterior al vigente, que no sean de doble rodada.
+
+Excepto: Vehículos procedentes de los Estados Unidos de América, Canadá o la Comunidad Europea.
+
+8704.31.99 Los demás.
+
+8704.32.02 De peso total con carga máxima superior o igual a 5,000 kg, pero inferior o igual a 6,351 kg.
+
+8704.32.03 De peso total con carga máxima superior a 6,351 kg, pero inferior o igual a 7,257 kg.
+
+8704.32.04 De peso total con carga máxima superior o igual a 7,257 kg, pero inferior o igual a 8,845 kg.
+
+8704.32.05 De peso total con carga máxima superior a 8,845 kg, pero inferior o igual a 11,793 kg.
+
+8704.32.06 De peso total con carga máxima superior a 11,793 kg, pero inferior o igual a 14,968 kg.
+
+8704.32.99 Los demás.
+
+8705.10.01 Camiones-grúa.
+
+8705.20.01 Con equipos hidráulicos de perforación destinados a programas de abastecimiento de agua potable en el medio rural.
+
+8705.20.99 Los demás.
+
+8705.40.01 Camiones hormigonera.
+
+8705.90.01 Con equipos especiales para el aseo de calles.
+
+8705.90.99 Los demás.
+
+8706.00.01 Chasis con motor de explosión, de dos cilindros de 700 cm3, de cuatro tiempos y con potencia inferior a 20 C.P. (15 KW).
+
+8706.00.02 Chasis para vehículos de la partida 87.03 o de las subpartidas 8704.21 y 8704.31.
+
+8706.00.99 Los demás.
+
+Para efectos de este apartado, se considerará como vehículo usado aquel que se encuentre en cualquiera de los supuestos siguientes:
+
+a) que no haya sido adquirido de primera mano. Se considerará que el vehículo no fue adquirido de primera mano cuando no se cuente con la factura expedida por el fabricante o un distribuidor autorizado por el fabricante;
+
+b) que el año-modelo del vehículo, que se observe en el número de identificación vehicular, no corresponda al año en que se efectúe la importación del vehículo o a un año posterior, y
+
+c) que, al momento de efectuar el despacho aduanero, la lectura del odómetro indique que el vehículo ha recorrido más de 1,000 kilómetros, o su equivalente en millas, en el caso de vehículos con peso bruto vehicular inferior a 5,000 kilogramos; o que ha recorrido más de 5,000 kilómetros, o su equivalente en millas, en el caso de vehículos con peso bruto vehicular igual o superior a 5,000 kilogramos pero inferior a 8,864 kilogramos.”
+
+###### ARTICULO 8.
+
+Se adiciona el artículo 16 del Acuerdo que señala el artículo 1 del presente ordenamiento, para quedar como sigue: PENDIENTE COCEX
+
+“ARTICULO 16.- De conformidad con la Ley de Transparencia y Acceso a la Información Pública Gubernamental, será puesta a disposición del público por medios electrónicos en la página de Internet de la Secretaría, la información siguiente, relativa a los permisos previos otorgados: a) nombre del titular, b) unidad administrativa que los otorga, c) fracción arancelaria, d) descripción del producto, e) volumen, f) fecha de expedición g) periodo de vigencia.”
 
 ###### Artículo 9.
 
-En los casos de desorganización del mercado o desviación importante del comercio, previo a la imposición de una medida definitiva, los Estados Unidos Mexicanos podrán solicitar la celebración de consultas con la República Popular China o, en su caso, con el Miembro de la Organización Mundial del Comercio de que se trate, con objeto de llegar a una solución mutuamente satisfactoria. La Secretaría notificará la solicitud de celebración de consultas al Comité.
+Se adiciona el artículo 17 del Acuerdo que señala el artículo 1 del presente ordenamiento para quedar como sigue:
 
-Las consultas se celebrarán en un plazo de 30 días naturales contados a partir de la notificación de la solicitud de las mismas al Comité.
+“ARTICULO 17.- El periodo de vigencia de los permisos previos de importación y de exportación a que se refiere el presente ordenamiento, será de un año, excepto en los siguientes casos:
+
+I. De las mercancías a que se refieren las fracciones arancelarias 4012.20.01 y 4012.20.99 del artículo 1o. del presente ordenamiento, cuando se otorguen para comercializar en el Estado de Baja California, la región parcial del Estado de Sonora y Cd. Juárez Chihuahua, al 31 de diciembre de cada año.
+
+II. De las mercancías a que se refiere la fracción arancelaria 6309.00.01 del artículo 1o. del presente ordenamiento, tres meses.
+
+III. De las mercancías a que se refiere el artículo 2o. del presente ordenamiento, un año o menos, cuando el proceso productivo así lo requiera.
+
+IV. De las mercancías a que se refiere la fracción arancelaria 8701.20.01 del artículo 6o. del presente ordenamiento, cuando se otorgue a empresas de la región y franja fronteriza norte del país dedicadas al desmantelamiento de unidades automotrices usadas, al 31 de diciembre de cada año.
+
+V. De las mercancías a que se refiere el artículo 6o. del presente ordenamiento, tratándose de vehículos del personal del Servicio Exterior Mexicano, durante el tiempo que esté vigente el permiso de importación temporal de vehículos emitido por el Servicio de Administración Tributaria a través del Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C. (banjercito).
+
+VI. De las mercancías a que se refiere el artículo 7 bis del presente ordenamiento, 90 días naturales improrrogables.
+
+Los permisos previos de importación y de exportación a que se refiere el presente ordenamiento, se podrán prorrogar por un periodo igual al del permiso inicial autorizado, siempre y cuando los criterios con los que se otorgó continúen vigentes y no se trate de las mercancías a que se refiere el artículo 3o., 4o., 5o. y 7 bis del presente Acuerdo.”
 
 ###### Artículo 10.
 
@@ -199,7 +439,7 @@ la Ronda Uruguay.
 
 Azúcar refinada. 2,954
 
-México, D.F., a 28 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 26 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
 ###### ARTICULO SEGUNDO.
 
@@ -267,11 +507,9 @@ c) Personas físicas y morales, con antecedentes de asignación en el año previ
 
 Para llevar a cabo el canje de los certificados de cupo los beneficiarios deberán solicitarlo a través de la Representación Federal correspondiente, para lo cual contarán con un plazo de quince días hábiles a partir de la entrada en vigor del presente Acuerdo. La solicitud del interesado se hará a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.”
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 30 de septiembre de 2006.
-
-SEGUNDO.- Para efectos del presente Acuerdo, los plazos a que se refiere el artículo tercero del Acuerdo que se adiciona, empezarán a contar a partir de la fecha de publicación del presente ordenamiento.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
