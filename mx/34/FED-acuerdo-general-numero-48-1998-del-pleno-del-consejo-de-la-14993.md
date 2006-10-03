@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2005-11-02"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -613,7 +615,7 @@ De Comisiones Unidas
 
 ###### Artículo 56.
 
-(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
+(DEROGADO POR ACUERDO GENERAL 11/2004, DEL PLENO DEL CONSEJODE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2004).
 
 ###### Artículo 57.
 
@@ -1885,199 +1887,193 @@ d) Ordenará al Secretario Ejecutivo del Pleno y Carrera Judicial recabar la inf
 
 El Secretario Ejecutivo del Pleno y Carrera Judicial vigilará la tramitación y seguimiento del procedimiento de ratificación en los términos establecidos en las disposiciones que al efecto emita el Pleno.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)</small>
+
 ## TITULO CUARTO. Del Recurso de Revisión Administrativa
 
 ###### Artículo 193.
 
-El Consejero que deba rendir el informe a que se refiere el artículo 124 de la Ley, será designado de acuerdo al turno que se lleve en la Secretaría Ejecutiva del Pleno y Carrera Judicial, de entre aquellos que hayan votado a favor de la resolución impugnada. A dicho informe deberá acompañarse copia certificada del acuerdo del Pleno en el que haya sido designado para representar al Consejo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 194.
 
-La designación a que se refiere el artículo anterior conllevará la representación del Consejo para llevar a cabo todos los actos necesarios durante la tramitación del recurso de revisión administrativa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 195.
 
-El Secretario Ejecutivo del Pleno y Carrera Judicial remitirá a la brevedad al Consejero designado como representante del Consejo, copia certificada del escrito del recurso y de los documentos que se acompañaron a éste.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 196.
 
-Cuando se solicite la expedición de copia certificada de alguna resolución del Consejo, relativa a la remoción de magistrados de Circuito o jueces de Distrito, ya sea porque está transcurriendo el término de cinco días hábiles a que se refiere el artículo 124 de la Ley, o bien, porque se encuentra pendiente de resolver el recurso de revisión administrativa, deberá incluirse en la certificación la leyenda correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
-Transcurridos los cinco días hábiles, sin que se haya interpuesto el recurso de revisión administrativa, el Secretario Ejecutivo del Pleno y Carrera Judicial, o bien el de Disciplina, en su caso, deberán levantar la certificación en el expediente que corresponda, en la que se hará constar tal circunstancia y, en consecuencia, el Presidente dictará un acuerdo en el cual se asentará que la resolución de referencia no fue recurrida.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)</small>
 
 ## TITULO QUINTO. De la Responsabilidad
 
 ###### Artículo 197.
 
-Para los efectos del artículo 129 de la Ley se entenderá por miembros del Consejo exclusivamente a los Consejeros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 198.
 
-Las causas de responsabilidad a que se refiere el artículo 131 de la Ley deberán quedar plenamente acreditadas a través del procedimiento administrativo que se siga con arreglo a la propia Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 199.
 
-En los procedimientos administrativos de responsabilidad que se sigan en contra de aquellos servidores públicos del Poder Judicial de la Federación que hayan estado adscritos o se encuentren adscritos a algún órgano jurisdiccional u Oficina de Correspondencia Común a éstos, se aplicará supletoriamente el Código Federal de Procedimientos Penales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 200.
 
-Las causas de responsabilidad previstas en el artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos sólo serán aplicables para aquellas situaciones no previstas en el artículo 131 de la Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 201.
 
-El procedimiento administrativo de responsabilidad se iniciará, de oficio, en contra de los servidores públicos siempre que el Pleno estime que existen elementos de prueba que hagan presumir la existencia de alguna conducta contemplada en el artículo 131 de la Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 202.
 
-Cuando se trate de servidores públicos adscritos a órganos jurisdiccionales y se presentare un escrito de queja o denuncia en su contra en alguna oficina del Consejo, deberá remitirse sin mayor trámite a la Secretaría Ejecutiva de Disciplina, para que se le dé el curso legal correspondiente. Tratándose de quejas o denuncias presentadas en contra de servidores públicos adscritos a los órganos administrativos del Consejo deberán remitirse sin mayor trámite a la Dirección General de Responsabilidades para los mismos efectos. El Secretario Ejecutivo de Disciplina y el Director General sólo darán trámite a las denuncias cuando estén apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 203.
 
-Las denuncias anónimas que omitan presentarse acompañadas de pruebas documentales fehacientes, serán desechadas de plano por el Presidente del Consejo, mediante el acuerdo respectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 204.
 
-Para los efectos del artículo anterior, se considerarán documentales fehacientes todos aquellos documentos públicos que hagan prueba plena, en términos de lo dispuesto por el artículo 280 del Código Federal de Procedimientos Penales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 205.
 
-Cuando se trate de denuncias anónimas, en ningún caso se perfeccionará el material probatorio aportado por los promoventes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 206.
 
-Las resoluciones de la Comisión de Disciplina serán firmadas por el Presidente de ésta, por el Consejero Ponente y por el Secretario Técnico de la propia Comisión, quien autorizará y dará fe de aquéllas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 207.
 
-La Comisión de Disciplina, por conducto de su presidente, entregará en cada sesión plenaria una relación de los procedimientos administrativos disciplinarios que hayan sido declarados improcedentes, que no se haya acreditado la responsabilidad, que se hayan declarado sin materia o hayan sido sobreseídos, e informará sobre los dictámenes de visita de inspección ordinaria o extraordinaria, aprobados en sus sesiones, en los que no se hayan advertido irregularidades administrativas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 208.
 
-El Pleno será competente para resolver las quejas administrativas que deban declararse fundadas; las denuncias en las que se encuentre acreditada alguna causa de responsabilidad, o bien de aquellos procedimientos administrativos de responsabilidad trascendentales o en los que se imponga multa al promovente; así como para conocer y resolver lo que proceda en los términos previstos en la Ley; y, de los dictámenes que presente el Secretario Ejecutivo de Disciplina ante la Comisión correspondiente, en relación con las visitas ordinarias o extraordinarias de inspección que sean practicadas en los tribunales de Circuito, juzgados de Distrito u Oficinas de Correspondencia Común a éstos, de las cuales se derive la presunta responsabilidad administrativa de alguno de los integrantes de esos órganos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 209.
 
-Las resoluciones del Pleno, relativas a los procedimientos administrativos de responsabilidad, deberán resolverse por unanimidad de votos, o bien por mayoría calificada de cinco votos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 210.
 
-Las resoluciones del Pleno serán firmadas por el Presidente, por el Consejero Ponente, por el Secretario Ejecutivo de Disciplina, quien autorizará y dará fe de aquéllas y, en su caso, por el Consejero que haya hecho suyo el proyecto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 211.
 
-La Contraloría del Poder Judicial de la Federación, a través de la Dirección General de Responsabilidades, será competente para conocer de los procedimientos administrativos de responsabilidad comprendidos en la fracción IV del artículo 133 de la Ley, en la forma y términos previstos en el capítulo correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 212.
 
-El procedimiento de responsabilidad administrativa a que se refiere el artículo 134 de la Ley, cuando se trate de servidores públicos adscritos a órganos jurisdiccionales y Oficinas de Correspondencia Común a éstos, se iniciará y tramitará en la Secretaría Ejecutiva de Disciplina.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 213.
 
-La remisión del escrito de denuncia y anexos para que el servidor público rinda informe con respecto a la causa o causas de responsabilidad que se le imputen, se hará por conducto del Secretario Ejecutivo de Disciplina, mediante oficio, en forma personal o a través de un juez de Distrito que actúe en auxilio de éste, o bien a través de correo certificado o mensajería.
-
-> <small>(REFORMADO POR EL ACUERDO GENERAL 19/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ABRIL DE 2003)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 214.
 
-El término de cinco días hábiles para rendir el informe sobre los hechos a que se refiera un escrito de queja o denuncia comenzará a correr desde el día siguiente al de la fecha de la notificación.
-
-A dicho informe deberá acompañarse el medio electrónico o magnético, que contenga su transcripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 215.
 
-En caso de que se solicite informe a un servidor público cuya adscripción ya no corresponda a la que se hace referencia en el escrito de queja o denuncia, éste podrá solicitar la ampliación del término de cinco días, cuando así lo considere necesario, hasta por diez días hábiles más, con el objeto de recabar las pruebas que estime pertinentes para apoyarlo. Con el mismo objeto se concederá un término de quince días hábiles para rendir el informe en aquellos casos en que la queja o denuncia se promueva en contra de un exservidor público del Poder Judicial de la Federación.
-
-Si el funcionario a quien se solicita el informe se encuentra de vacaciones, el término para rendirlo comenzará a contar a partir del primer día que se reintegre a sus labores; y, en el supuesto de que el informe deba rendirlo algún servidor público, que por cualquier causa se encuentre gozando de una licencia, el término le empezará a computar a partir del día siguiente al que concluya ésta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 216.
 
-Los procedimientos administrativos de responsabilidad que se integren en contra de alguna persona que ya no labora en el Poder Judicial de la Federación y cuyo domicilio se desconozca, se suspenderán hasta en tanto no se cuente con el domicilio actual y correcto de aquélla, para lo cual se remitirá la constancia respectiva a la Dirección General de Recursos Humanos del Consejo, con el objeto de que de reingresar dicha persona se reanude el procedimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 217.
 
-Cuando se soliciten copias certificadas de actuaciones judiciales, libros de gobierno, libretas auxiliares o algún otro documento que obre en un órgano jurisdiccional, en una Oficina de Correspondencia Común a éstos, o en un órgano del Consejo, con el objeto de exhibirlas dentro de un procedimiento administrativo de responsabilidad, su expedición será gratuita.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 218.
 
-El término para resolver los procedimientos administrativos de responsabilidad será de treinta días hábiles, contados a partir de la fecha en que el expediente haya sido recibido en la ponencia del Consejero al que por turno corresponda, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirlo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 219.
 
-Las resoluciones pronunciadas dentro de las quejas administrativas declaradas improcedentes, infundadas o sin materia o en las denuncias en que no se encuentre acreditada la causa de responsabilidad, se notificarán dentro de las setenta y dos horas siguientes a que se concluya el engrose de la resolución, por conducto del Secretario Ejecutivo cuando el funcionario a notificar esté adscrito a algún órgano jurisdiccional cuya residencia se ubique en el Distrito Federal o zona conurbada y por correo certificado, servicio de mensajería o por conducto de un juez de Distrito cuando la adscripción se tenga en cualquier otro lugar de la República.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 220.
 
-Las notificaciones a que se refiere el artículo anterior se harán entregando al servidor público correspondiente copia certificada de la resolución.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 221.
 
-Tratándose de la probable comisión de faltas graves de magistrados de Circuito, jueces de Distrito o de cualquier otro servidor público del Poder Judicial de la Federación, cuando no se hubiere substanciado el procedimiento previsto en el artículo 134 de la Ley, el Consejero a quien se haya turnado el asunto para la elaboración del proyecto de resolución o el Contralor, en el ámbito de su competencia, emitirán un dictamen que se someterá a consideración del Pleno para que éste determine citar al presunto responsable a la audiencia a que se refiere la fracción III del numeral invocado. La citación a dicha audiencia se hará en lo aplicable, de la misma manera que las notificaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 222.
 
-Los alegatos deberán expresarse en la audiencia a que se refiere el artículo anterior en forma escrita o verbal y se asentarán en el acta correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 223.
 
-De toda audiencia se levantará un acta circunstanciada, la cual firmarán al margen y al calce los Consejeros presentes, el Secretario Ejecutivo de Disciplina, el Secretario Técnico de la Comisión de Disciplina y quienes hayan intervenido en ella; en caso de que alguno de éstos no desee firmar se hará constar en el acta dicha circunstancia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 224.
 
-Ninguna audiencia podrá suspenderse, salvo que exista causa justificada para ello.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 225.
 
-La práctica de investigaciones a que se refiere la fracción IV del artículo 134 de la Ley se efectuará de acuerdo con lo establecido en ésta, en el Acuerdo General que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y en el presente Acuerdo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 226.
 
-En caso de que el Consejero al que fue turnado el expediente relativo al procedimiento administrativo de responsabilidad para la elaboración del proyecto de resolución, con posterioridad al rendimiento del informe del presunto responsable o a la celebración de la audiencia, considere necesaria la práctica de algunas investigaciones por no existir elementos suficientes para resolver o bien porque advierta otros que impliquen nueva responsabilidad administrativa, emitirá un dictamen que, previo análisis en la Comisión de Disciplina, se someterá a consideración del Pleno, para que éste determine si es o no procedente la práctica de las investigaciones, así como la forma en que deben llevarse a cabo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 227.
 
-Las audiencias que, en su caso, deban celebrarse dentro del procedimiento de responsabilidad administrativa se levantarán en la forma y términos establecidos en la Ley y en el presente Acuerdo, ante la Comisión de Disciplina.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 228.
 
-La suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones será competencia exclusiva del Pleno; la determinación correspondiente deberá encontrarse debidamente fundada y motivada; en ella se determinará si el servidor público suspendido continuará disfrutando de sus derechos y si percibirá durante el tiempo que se encuentre suspendido un porcentaje de sus percepciones. La notificación de la suspensión temporal se hará a más tardar dentro de las veinticuatro horas siguientes de que así lo determine el Pleno, para lo cual éste comisionará al funcionario que estime pertinente. De dicha notificación deberá levantarse la correspondiente acta circunstanciada, ante la presencia de dos testigos, la cual deberá contener las firmas de quienes en ella intervinieron. La suspensión temporal surtirá efectos al día siguiente de su notificación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 229.
 
-Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el Pleno podrá dictar las medidas que considere convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que aquél decida imponer al servidor público en contra de quien se integró la inconformidad.
-
-(REFORMADO POR EL ACUERDO GENERAL 12/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2003) (F. DE E., D.O.F. 20 DE MARZO DE 2003)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 230.
 
-El apercibimiento privado y la amonestación privada que se impongan como sanción al resolver algún procedimiento administrativo de responsabilidad, incluyendo los tramitados por el Instituto Federal de Defensoría Pública o por la Contraloría del Poder Judicial de la Federación, se notificarán por la Secretaría Ejecutiva de Disciplina por conducto de un actuario, cuando el servidor público sancionado se encuentre adscrito en algún órgano jurisdiccional cuya residencia se ubique en el Distrito Federal o zona conurbada y por correo certificado o servicio de mensajería cuando la adscripción se tenga en cualquier otro lugar de la República. El apercibimiento público y la amonestación pública se notificarán por conducto del Presidente de la Comisión de Disciplina, en el seno del Consejo, o bien por conducto del Visitador Judicial o Juez de Distrito comisionados para tal fin, para lo cual se citará al servidor público respectivo y de la diligencia se levantará un acta circunstanciada que firmarán los que hayan intervenido en ella. Las restantes sanciones previstas en el artículo 135 de la Ley, se notificarán por conducto del Presidente de la Comisión de Disciplina, el titular de la Secretaría Ejecutiva de Disciplina, o por algún Secretario Técnico adscrito a dicha Secretaría, quien para ese efecto, estará investido de fe pública, en el entendido de que también en este caso, deberá levantarse la correspondiente acta circunstanciada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 231.
 
-De toda resolución que contenga una sanción se remitirá copia certificada a la Dirección General de Recursos Humanos del Consejo para que se agregue al expediente personal del servidor público sancionado, para los efectos que a dicha dirección correspondan y a la Contraloría del Poder Judicial de la Federación para que integre el registro de servidores públicos sancionados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 232.
 
-Para la valoración y sanción de las faltas conforme a los criterios previstos en los tres últimos párrafos del artículo 53 y los artículos 54 y 55 de la Ley Federal de Responsabilidades de los Servidores Públicos se tendrá a la vista el expediente personal del servidor público correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 233.
 
-Se estimará que existe reincidencia en las causas de responsabilidad en aquellos casos en que un servidor público haya sido sancionado con anterioridad por la comisión de la misma irregularidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 234.
 
-Al momento de admitir, durante la tramitación o bien al pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, el Presidente podrá dictar las medidas que considere convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas al servidor público en contra de quien se integró aquél.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 235.
 
-La fijación de la multa que se imponga al promovente, a su representante o a ambos, en aquellos casos en que se advierta que la queja se interpuso sin motivo será a discreción del Pleno, para lo cual siempre se analizará la trascendencia y circunstancias particulares del asunto. La imposición de la multa debe obrar debidamente fundada y motivada en la resolución correspondiente, así como la orden de ejecución.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 236.
 
-El procedimiento previsto en el Título Octavo de la Ley y en el presente Acuerdo se seguirá también para la tramitación de las faltas administrativas previstas en el artículo 38 de la Ley Federal de Defensoría Pública, así como para las faltas que se atribuyan al Director General y a los miembros de la Junta Directiva del Instituto Federal de Defensoría Pública.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ###### Artículo 237.
 
-La revisión administrativa a que se refiere el artículo 140 de la Ley se tramitará en los mismos términos establecidos en el Título Cuarto del presente Acuerdo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2006)
 
 ## TITULO SEXTO. De la División Territorial
 
@@ -2510,3 +2506,63 @@ PRIMERO.- Se abroga el Acuerdo General 2/2003, del Pleno del Consejo de la Judic
 SEGUNDO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+SEGUNDO.- Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal 79/2001 y se derogan los Títulos Cuarto y Quinto del diverso Acuerdo General 48/1998 del propio órgano colegiado, así como las demás disposiciones emitidas por éste que se opongan al presente Acuerdo.
+
+TERCERO.- Lo dispuesto en el artículo 4 de este Acuerdo, será aplicable a los procedimientos que se inicien con posterioridad a la entrada en vigor de este Acuerdo.
+
+CUARTO.- Los procedimientos administrativos de responsabilidad que se encuentren pendientes de resolución, se concluirán conforme a las disposiciones vigentes antes de la entrada en vigor de este Acuerdo. Los que se inicien con posterioridad a esa fecha, respecto de hechos acontecidos previamente, se regirán en su aspecto sustantivo por aquellas disposiciones.
+
+QUINTO.- Los procedimientos de investigación iniciados antes de la entrada en vigor de este Acuerdo, que se hayan prolongado por más de seis meses se tendrán por concluidos y se estará a lo dispuesto en los artículos 57 y 90 de este Acuerdo.
+
+SEXTO.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+SEGUNDO.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 2/1995 , 25/1998, 30/1998, 34/1998, 48/1998, 23/1999, 58/1999, 17/2000, 35/2000, 36/2000, 37/2000, 54/2001, 1/2002, 8/2003, 24/2003, 63/2003, 26/2004 y 28/2004; así como las circulares CJD/003 y CON/001.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente Acuerdo.
+
+CUARTO.- Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente Acuerdo, subsisten en sus términos.
+
+QUINTO.- Se ratifica el Acuerdo General del Pleno del Consejo de la Judicatura Federal 28/2005, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, así como sus reformas, de conformidad con lo dispuesto en el artículo 172 de este Acuerdo.
+
+SEXTO.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de la Ley seguirán vigentes, en los términos en que fueron autorizadas.
+
+SEPTIMO.- Lo dispuesto en el artículo 58 de este Acuerdo será aplicable a los cursos que se hayan recibido o impartido por servidores públicos del Poder Judicial de la Federación, incluso cuando el Instituto estaba a cargo de la Suprema Corte de Justicia de la Nación, lo que deberá ser realizado por el Instituto a la brevedad posible, informando de sus avances a la Comisión.
+
+OCTAVO.- La vigencia de lo dispuesto en el último párrafo del artículo 73 de este Acuerdo, comenzará a regir sesenta días después de publicado el presente ordenamiento en el Diario Oficial de la Federación.
+
+NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO.
+
+Primero.- El presente Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+Segundo.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 8/1995, 11/1995, 2/1996, 4/1996, 13/1996, 14/1996, 19/1996, 13/1998, 30/1998, 47/1998, 48/1998, 23/1999, 26/1999, 3/2000, 5/2000, 21/2000, 35/2000, 36/2000, 37/2000, 93/2000, 3/2001, 79/2001, 1/2002, 4/2002, 5/2003, 8/2003, 12/2003, 17/2003, 19/2003, 21/2003, 50/2003, 11/2004, 25/2004, 28/2004, 41/2004, 46/2004, 54/2004, 56/2004, 1/2005, 8/2005, 24/2005, 44/2005, 25/2006 27/2006, 28/2006 y 33/2006.
+
+Tercero.- Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+Cuarto.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de este Acuerdo seguirán vigentes, en los términos en que fueron autorizadas.
+
+Quinto.- Se ratifican los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 22/2006, por el que se Regula la Constitución, Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, y 52/2006, por el que se Regula la Disponibilidad de los Recursos del Fondo de Apoyo a la Administración de Justicia.
+
+Sexto.- La implementación del Programa de Registro de Asistencia de Procesados en Libertad Provisional Mediante Tecnologías Digitales de Reconocimiento en los órganos jurisdiccionales competentes, se hará en la forma y en los términos que en su oportunidad determine el Pleno y conforme a la disponibilidad presupuestal con que se cuente.
+
+Séptimo.- En la consecución del objetivo del Título Décimo Primero de este Acuerdo no se generarán ni ampliarán nuevas estructuras, sino que deberá cumplirse esta nueva función con personal de los propios órganos jurisdiccionales involucrados, por lo que éstos y la Dirección General de Estadística y Planeación Judicial optimizarán los recursos humanos y financieros con los que actualmente se cuentan.
+
+Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos Humanos que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Servicios al Personal, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
+
+Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
