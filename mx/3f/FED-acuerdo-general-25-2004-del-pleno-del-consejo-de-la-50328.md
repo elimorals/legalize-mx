@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-25-2004-del-pleno-del-consejo-de-la-50328"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-05-17"
-last_updated: "2004-05-17"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50328&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-04-21"
 
 ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA LAS FRACCIONES II Y III DEL ARTICULO 1o., ASI COMO LOS NUMERALES 4o., 5o., 6o. Y 7o., Y ADICIONA LOS ARTICULOS 36, 37, 38, 39 Y 40, TODOS DEL ACUERDO GENERAL 5/2000, CON EL PROPOSITO DE MODIFICAR LA ADSCRIPCION Y ATRIBUCIONES DE LA DIRECCION GENERAL DE ASUNTOS JURIDICOS Y DE LA DIRECCION GENERAL DE COMUNICACION SOCIAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de mayo de 2004.
 
@@ -152,3 +154,25 @@ SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación,
 TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
 
 MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 25/2004, del Pleno del Consejo de la Judicatura Federal, que deroga las fracciones II y III del artículo 1o., así como los numerales 4o., 5o., 6o. y 7o., y adiciona los artículos 36, 37, 38, 39 y 40, todos del Acuerdo General 5/2000, con el propósito de modificar la adscripción y atribuciones de la Dirección General de Asuntos Jurídicos y de la Dirección General de Comunicación Social del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio consejo, en sesión de veintiuno de abril de dos mil cuatro, por unanimidad de votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández.-México, Distrito Federal, a veintiuno de abril de dos mil cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+Primero.- El presente Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+Segundo.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 8/1995, 11/1995, 2/1996, 4/1996, 13/1996, 14/1996, 19/1996, 13/1998, 30/1998, 47/1998, 48/1998, 23/1999, 26/1999, 3/2000, 5/2000, 21/2000, 35/2000, 36/2000, 37/2000, 93/2000, 3/2001, 79/2001, 1/2002, 4/2002, 5/2003, 8/2003, 12/2003, 17/2003, 19/2003, 21/2003, 50/2003, 11/2004, 25/2004, 28/2004, 41/2004, 46/2004, 54/2004, 56/2004, 1/2005, 8/2005, 24/2005, 44/2005, 25/2006 27/2006, 28/2006 y 33/2006.
+
+Tercero.- Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+Cuarto.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de este Acuerdo seguirán vigentes, en los términos en que fueron autorizadas.
+
+Quinto.- Se ratifican los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 22/2006, por el que se Regula la Constitución, Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, y 52/2006, por el que se Regula la Disponibilidad de los Recursos del Fondo de Apoyo a la Administración de Justicia.
+
+Sexto.- La implementación del Programa de Registro de Asistencia de Procesados en Libertad Provisional Mediante Tecnologías Digitales de Reconocimiento en los órganos jurisdiccionales competentes, se hará en la forma y en los términos que en su oportunidad determine el Pleno y conforme a la disponibilidad presupuestal con que se cuente.
+
+Séptimo.- En la consecución del objetivo del Título Décimo Primero de este Acuerdo no se generarán ni ampliarán nuevas estructuras, sino que deberá cumplirse esta nueva función con personal de los propios órganos jurisdiccionales involucrados, por lo que éstos y la Dirección General de Estadística y Planeación Judicial optimizarán los recursos humanos y financieros con los que actualmente se cuentan.
+
+Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos Humanos que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Servicios al Personal, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
+
+Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
