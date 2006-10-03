@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2003-del-pleno-del-consejo-de-la-51842"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-05-29"
-last_updated: "2003-05-29"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-05-21"
 
 ACUERDO GENERAL 24/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ASISTENCIA DE SERVIDORES PUBLICOS ADSCRITOS AL CONSEJO DE LA JUDICATURA FEDERAL, ORGANOS JURISDICCIONALES Y AUXILIARES, A LOS CONCURSOS Y EXAMENES AUTORIZADOS POR EL PROPIO PLENO, PARA DESEMPEÑAR UNA CATEGORIA DE LAS MENCIONADAS EN EL ARTICULO 110 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION O DE LA VISITADURIA JUDICIAL, Y QUE ABROGA EL DIVERSO ACUERDO GENERAL 19/2001 DEL REFERIDO CUERPO COLEGIADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de mayo de 2003.
 
@@ -74,3 +76,25 @@ SEGUNDO.- A partir de la entrada en vigor del presente acuerdo se abroga el dive
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 24/2003, del Pleno del Consejo de la Judicatura Federal, Relativo a la Asistencia de Servidores Públicos Adscritos al Consejo de la Judicatura Federal, Organos Jurisdiccionales y Auxiliares, a los Concursos y Exámenes Autorizados por el propio Pleno, para Desempeñar una Categoría de las Mencionadas en el Artículo 110 de la Ley Orgánica del Poder Judicial de la Federación o de la Visitaduría Judicial, y que Abroga el Diverso Acuerdo General 19/2001 del Referido Cuerpo Colegiado, fue aprobado por el Pleno del Consejo, en sesión de veintiuno de mayo de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintiuno de mayo de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+SEGUNDO.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 2/1995 , 25/1998, 30/1998, 34/1998, 48/1998, 23/1999, 58/1999, 17/2000, 35/2000, 36/2000, 37/2000, 54/2001, 1/2002, 8/2003, 24/2003, 63/2003, 26/2004 y 28/2004; así como las circulares CJD/003 y CON/001.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente Acuerdo.
+
+CUARTO.- Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente Acuerdo, subsisten en sus términos.
+
+QUINTO.- Se ratifica el Acuerdo General del Pleno del Consejo de la Judicatura Federal 28/2005, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, así como sus reformas, de conformidad con lo dispuesto en el artículo 172 de este Acuerdo.
+
+SEXTO.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de la Ley seguirán vigentes, en los términos en que fueron autorizadas.
+
+SEPTIMO.- Lo dispuesto en el artículo 58 de este Acuerdo será aplicable a los cursos que se hayan recibido o impartido por servidores públicos del Poder Judicial de la Federación, incluso cuando el Instituto estaba a cargo de la Suprema Corte de Justicia de la Nación, lo que deberá ser realizado por el Instituto a la brevedad posible, informando de sus avances a la Comisión.
+
+OCTAVO.- La vigencia de lo dispuesto en el último párrafo del artículo 73 de este Acuerdo, comenzará a regir sesenta días después de publicado el presente ordenamiento en el Diario Oficial de la Federación.
+
+NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
