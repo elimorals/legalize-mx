@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2004-del-pleno-del-consejo-de-la-50299"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-09-08"
-last_updated: "2004-09-08"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50299&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-09-01"
 
 ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA LA ESTRUCTURA DE LA SECRETARIA EJECUTIVA DE ADMINISTRACION, LA ADSCRIPCION DE SUS DIRECCIONES GENERALES, CREA LA SECRETARIA EJECUTIVA DE OBRA, RECURSOS MATERIALES Y SERVICIOS GENERALES Y REFORMA EL DIVERSO 5/2000
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2006, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 8 de septiembre de 2004.
 
@@ -560,3 +562,25 @@ SEXTO.-Al cumplirse seis meses de la entrada en vigor del presente acuerdo, la C
 SÉPTIMO.-Se instruye a la Secretaría Ejecutiva de Finanzas para que, en el ámbito de su competencia elabore los manuales de organización, funciones específicas de puestos y de procedimientos, que correspondan a la estructura de las unidades administrativas objeto del presente acuerdo.
 
 MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 54/2004, del Pleno del Consejo de la Judicatura Federal, que modifica la estructura de la Secretaría Ejecutiva de Administración, la adscripción de sus direcciones generales, crea la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales y reforma el diverso 5/2000, fue aprobado por el Pleno del propio consejo, en sesión de uno de septiembre de dos mil cuatro, en lo general, por unanimidad de votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández; y, en lo específico, por mayoría de seis votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández, se determinó que la Secretaría Ejecutiva que se crea tenga bajo su adscripción a la Dirección General de Administración Regional, contra el voto del señor consejero Adolfo O. Aragón Mendía, quien consideró que la dirección general citada debería estar adscrita a la Secretaría Ejecutiva de Administración, así como que la Dirección General de Seguridad y Protección Civil tendría que estar adscrita a la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, de nueva creación.-México, Distrito Federal, a uno de septiembre de dos mil cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+Primero.- El presente Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+Segundo.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 8/1995, 11/1995, 2/1996, 4/1996, 13/1996, 14/1996, 19/1996, 13/1998, 30/1998, 47/1998, 48/1998, 23/1999, 26/1999, 3/2000, 5/2000, 21/2000, 35/2000, 36/2000, 37/2000, 93/2000, 3/2001, 79/2001, 1/2002, 4/2002, 5/2003, 8/2003, 12/2003, 17/2003, 19/2003, 21/2003, 50/2003, 11/2004, 25/2004, 28/2004, 41/2004, 46/2004, 54/2004, 56/2004, 1/2005, 8/2005, 24/2005, 44/2005, 25/2006 27/2006, 28/2006 y 33/2006.
+
+Tercero.- Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+Cuarto.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de este Acuerdo seguirán vigentes, en los términos en que fueron autorizadas.
+
+Quinto.- Se ratifican los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 22/2006, por el que se Regula la Constitución, Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, y 52/2006, por el que se Regula la Disponibilidad de los Recursos del Fondo de Apoyo a la Administración de Justicia.
+
+Sexto.- La implementación del Programa de Registro de Asistencia de Procesados en Libertad Provisional Mediante Tecnologías Digitales de Reconocimiento en los órganos jurisdiccionales competentes, se hará en la forma y en los términos que en su oportunidad determine el Pleno y conforme a la disponibilidad presupuestal con que se cuente.
+
+Séptimo.- En la consecución del objetivo del Título Décimo Primero de este Acuerdo no se generarán ni ampliarán nuevas estructuras, sino que deberá cumplirse esta nueva función con personal de los propios órganos jurisdiccionales involucrados, por lo que éstos y la Dirección General de Estadística y Planeación Judicial optimizarán los recursos humanos y financieros con los que actualmente se cuentan.
+
+Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos Humanos que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Servicios al Personal, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
+
+Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
