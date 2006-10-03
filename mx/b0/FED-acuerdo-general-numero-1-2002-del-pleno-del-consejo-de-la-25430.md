@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-1-2002-del-pleno-del-consejo-de-la-25430
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-02-21"
-last_updated: "2002-02-21"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-02-13"
 
 ACUERDO GENERAL 1/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 135 DEL DIVERSO ACUERDO GENERAL 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CUERPO COLEGIADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 21 de febrero del 2002.
 
@@ -78,3 +80,47 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMÉNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 1/2002, del Pleno del Consejo de la Judicatura Federal, que reforma el artículo 135 del diverso Acuerdo General 48/1998, que regula la organización y funcionamiento del propio cuerpo colegiado, fue aprobado en sesión extraordinaria de trece de febrero de dos mil dos, por unanimidad de votos de los señores consejeros: presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a trece de febrero de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+SEGUNDO.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 2/1995 , 25/1998, 30/1998, 34/1998, 48/1998, 23/1999, 58/1999, 17/2000, 35/2000, 36/2000, 37/2000, 54/2001, 1/2002, 8/2003, 24/2003, 63/2003, 26/2004 y 28/2004; así como las circulares CJD/003 y CON/001.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente Acuerdo.
+
+CUARTO.- Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente Acuerdo, subsisten en sus términos.
+
+QUINTO.- Se ratifica el Acuerdo General del Pleno del Consejo de la Judicatura Federal 28/2005, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, así como sus reformas, de conformidad con lo dispuesto en el artículo 172 de este Acuerdo.
+
+SEXTO.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de la Ley seguirán vigentes, en los términos en que fueron autorizadas.
+
+SEPTIMO.- Lo dispuesto en el artículo 58 de este Acuerdo será aplicable a los cursos que se hayan recibido o impartido por servidores públicos del Poder Judicial de la Federación, incluso cuando el Instituto estaba a cargo de la Suprema Corte de Justicia de la Nación, lo que deberá ser realizado por el Instituto a la brevedad posible, informando de sus avances a la Comisión.
+
+OCTAVO.- La vigencia de lo dispuesto en el último párrafo del artículo 73 de este Acuerdo, comenzará a regir sesenta días después de publicado el presente ordenamiento en el Diario Oficial de la Federación.
+
+NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO.
+
+Primero.- El presente Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+Segundo.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 8/1995, 11/1995, 2/1996, 4/1996, 13/1996, 14/1996, 19/1996, 13/1998, 30/1998, 47/1998, 48/1998, 23/1999, 26/1999, 3/2000, 5/2000, 21/2000, 35/2000, 36/2000, 37/2000, 93/2000, 3/2001, 79/2001, 1/2002, 4/2002, 5/2003, 8/2003, 12/2003, 17/2003, 19/2003, 21/2003, 50/2003, 11/2004, 25/2004, 28/2004, 41/2004, 46/2004, 54/2004, 56/2004, 1/2005, 8/2005, 24/2005, 44/2005, 25/2006 27/2006, 28/2006 y 33/2006.
+
+Tercero.- Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+Cuarto.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de este Acuerdo seguirán vigentes, en los términos en que fueron autorizadas.
+
+Quinto.- Se ratifican los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 22/2006, por el que se Regula la Constitución, Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, y 52/2006, por el que se Regula la Disponibilidad de los Recursos del Fondo de Apoyo a la Administración de Justicia.
+
+Sexto.- La implementación del Programa de Registro de Asistencia de Procesados en Libertad Provisional Mediante Tecnologías Digitales de Reconocimiento en los órganos jurisdiccionales competentes, se hará en la forma y en los términos que en su oportunidad determine el Pleno y conforme a la disponibilidad presupuestal con que se cuente.
+
+Séptimo.- En la consecución del objetivo del Título Décimo Primero de este Acuerdo no se generarán ni ampliarán nuevas estructuras, sino que deberá cumplirse esta nueva función con personal de los propios órganos jurisdiccionales involucrados, por lo que éstos y la Dirección General de Estadística y Planeación Judicial optimizarán los recursos humanos y financieros con los que actualmente se cuentan.
+
+Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos Humanos que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Servicios al Personal, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
+
+Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
