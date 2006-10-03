@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-forestal-estatal-de-coahuila-de-zaragoza-13402
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2001-03-16"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL SERVICIO FORESTAL ESTATAL DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 3 DE OCTUBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -960,3 +962,17 @@ PRIMERO. La presente ley entrará en vigor el día siguiente al de su publicaci�
 SEGUNDO. El Patronato del Servicio Forestal Estatal llevará a cabo las acciones necesarias para que las delegaciones que mediante esta ley se establecen, queden formalmente instaladas dentro de los 30 días siguientes a la fecha en que entre en vigor la presente ley.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE OCTUBRE DE 2006.
+
+PRIMERO. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley del Servicio Forestal Estatal de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, el martes 8 de diciembre de 1998 y todas las disposiciones estatales que se opongan a la presente ley.
+
+TERCERO. Los recursos financieros y materiales con que cuenta el Servicio Estatal Forestal pasarán a formar parte del patrimonio de la Secretaria para ser utilizados por la unidad especializada que para tal efecto se cree.
+
+Los Recursos Humanos con los que cuente, en su caso, serán reasignados en las áreas de la Secretaría según lo disponga el titular de la misma. No se les afectará en sus derechos laborales.
+
+CUARTO. El reglamento de esta ley deberá expedirse en un término que no exceda de 180 días naturales contados a partir de la entrada en vigor de esta ley.
+
+QUINTO. Hasta en tanto los municipios emitan los reglamentos y bandos para regular las materias que según la Ley General de Desarrollo Forestal Sustentable son de su competencia al Estado aplicar esta ley en el ámbito local, coordinándose para ello con las autoridades municipales.
