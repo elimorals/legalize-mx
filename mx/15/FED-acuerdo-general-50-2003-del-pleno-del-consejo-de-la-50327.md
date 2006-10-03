@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-50-2003-del-pleno-del-consejo-de-la-50327"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-08-28"
-last_updated: "2003-08-28"
+last_updated: "2006-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50327&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-08-20"
 
 ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA LOS DIVERSOS 15/1996, 5/2000 Y 5/2003, EN RELACION CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE SEGURIDAD Y PROTECCION CIVIL, DE RECURSOS HUMANOS Y DE SERVICIOS MEDICOS Y DE DESARROLLO INFANTIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 28 de agosto de 2003.
 
@@ -108,3 +110,25 @@ PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 50/2003, del Pleno del Consejo de la Judicatura Federal, que modifica los diversos 15/1996, 5/2000 y 5/2003, en relación con las atribuciones de las Direcciones Generales de Seguridad y Protección Civil, de Recursos Humanos y de Servicios Médicos y de Desarrollo Infantil, fue aprobado por el Pleno del propio consejo, en sesión de veinte de agosto de dos mil tres, por unanimidad de votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.-México, Distrito Federal, a veinte de agosto de dos mil tres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2006.
+
+Primero.- El presente Acuerdo entrará en vigor el día dieciséis de octubre de dos mil seis.
+
+Segundo.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 8/1995, 11/1995, 2/1996, 4/1996, 13/1996, 14/1996, 19/1996, 13/1998, 30/1998, 47/1998, 48/1998, 23/1999, 26/1999, 3/2000, 5/2000, 21/2000, 35/2000, 36/2000, 37/2000, 93/2000, 3/2001, 79/2001, 1/2002, 4/2002, 5/2003, 8/2003, 12/2003, 17/2003, 19/2003, 21/2003, 50/2003, 11/2004, 25/2004, 28/2004, 41/2004, 46/2004, 54/2004, 56/2004, 1/2005, 8/2005, 24/2005, 44/2005, 25/2006 27/2006, 28/2006 y 33/2006.
+
+Tercero.- Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+Cuarto.- Las licencias otorgadas con carácter de indefinidas antes de la entrada en vigor de este Acuerdo seguirán vigentes, en los términos en que fueron autorizadas.
+
+Quinto.- Se ratifican los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 22/2006, por el que se Regula la Constitución, Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, y 52/2006, por el que se Regula la Disponibilidad de los Recursos del Fondo de Apoyo a la Administración de Justicia.
+
+Sexto.- La implementación del Programa de Registro de Asistencia de Procesados en Libertad Provisional Mediante Tecnologías Digitales de Reconocimiento en los órganos jurisdiccionales competentes, se hará en la forma y en los términos que en su oportunidad determine el Pleno y conforme a la disponibilidad presupuestal con que se cuente.
+
+Séptimo.- En la consecución del objetivo del Título Décimo Primero de este Acuerdo no se generarán ni ampliarán nuevas estructuras, sino que deberá cumplirse esta nueva función con personal de los propios órganos jurisdiccionales involucrados, por lo que éstos y la Dirección General de Estadística y Planeación Judicial optimizarán los recursos humanos y financieros con los que actualmente se cuentan.
+
+Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos Humanos que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Servicios al Personal, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
+
+Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
