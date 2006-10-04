@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2005-03-04"
+last_updated: "2006-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MONTERREY
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
 
@@ -273,21 +273,29 @@ Contra la negativa de entregar o corregir Datos Personales procederá la interpo
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 17.
 
-Cualquier persona o su representante podrá solicitar a las Dependencias o Entidades, la información mediante escrito, o bien en los formatos que apruebe el Comisionado.
+Cualquier persona o su representante podrá solicitar a las Dependencias o Entidades, la información mediante escrito, o en el formato que apruebe el Comisionado, o bien por correo electrónico.
 
-La solicitud deberá contener:
+En todo caso, la solicitud deberá contener:
 
-I. El nombre del solicitante y domicilio u otro medio para recibir notificaciones, como el correo electrónico.
+I. El nombre del solicitante y domicilio para recibir notificaciones, en su caso, el correo electrónico.
 
-II. La descripción razonable y comprensible de los documentos administrativos de los cuales solicita información.
+II. La descripción razonable, comprensible y específica de los documentos administrativos de los cuales solicita información.
 
-III. Cualquier otro dato que propicie su localización con objeto de facilitar su búsqueda.
+III. Cualquier otro dato que propicie su identificación y localización con objeto de facilitar su búsqueda.
 
-IV. La modalidad en que se solicita se otorgue el acceso a la información, la cual podrá ser de manera directa, copias simples, certificadas u otro tipo de medio.
+IV. La modalidad en que se solicita se otorgue el acceso a la información, la cual podrá ser por escrito, mediante copias simples, o certificadas, correo electrónico u otro tipo de medio, registro, soporte digital, siempre que la Autoridad cuente con la información en dicho formato. Cuando no se mencione la modalidad de entrega de información, la misma será proporcionada por la dependencia en el formato que considere idóneo, en atención a su naturaleza.
 
-Cuando la solicitud presentada no sea suficiente para identificar la información de que se trata, la Autoridad dentro del término de tres días hábiles requerirá por escrito al solicitante las aclaraciones que permita atender debidamente su petición. Los peticionarios no están obligados a la ratificación del escrito, ni a manifestar el uso que darán a la información, ni a justificar el motivo de su petición.
+V. En el caso de solicitud por correo electrónico se entenderá la misma vía para la respuesta, salvo especificación en contrario.
+
+En el caso de que la presentación de la solicitud sea por vía electrónica, se tendrá por recibida en la fecha asentada en el registro electrónico del equipo receptor de la misma. En caso de que la fecha asentada sea inhábil, se considerará que la solicitud fue presentada el día hábil siguiente de su recepción.
+
+Cuando la solicitud presentada no sea suficiente para identificar la información de que se trata, la Autoridad dentro del término de tres días hábiles requerirá por escrito al solicitante, en su caso por correo electrónico las aclaraciones que permita atender debidamente su petición.
+
+Los peticionarios no están obligados a la ratificación del escrito, ni a manifestar el uso que darán a la información, ni a justificar el motivo de su petición.
 
 La Oficina del Comisionado a través de las Unidades de enlace auxiliará a los particulares en la elaboración de las solicitudes de acceso a la información, en particular en los casos en que el solicitante no sepa leer ni escribir.
 
@@ -588,3 +596,11 @@ C. JESÚS RICARDO CANAVATI TAFICH
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C. EDGAR RODOLFO OLÁIZ ORTÍZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2006
+
+PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- (sic) Publíquese en la Gaceta Municipal y el Periódico Oficial del Estado por ser de interés general.
