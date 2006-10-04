@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-finanzas-y-46757"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-26"
-last_updated: "2005-10-26"
+last_updated: "2006-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de octubre de 2005.
 
@@ -615,7 +615,9 @@ XXXII. Los demás que determinen las disposiciones legales aplicables o le deleg
 
 La Dirección General de Auditoría Fiscal atenderá el despacho de los siguientes asuntos:
 
-I. Ordenar, suscribir y practicar visitas domiciliarias, auditorías, inspecciones, verificaciones y demás aspectos de comprobación de obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, que tengan su domicilio fiscal en el territorio del Estado de Morelos, en términos de lo dispuesto por el Convenio de Colaboración Administrativa en materia Fiscal Federal;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2006)</small>
+
+I. Ordenar, suscribir y practicar visitas domiciliarias, auditorías, inspecciones, verificaciones y demás aspectos de comprobación de obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, que tengan su domicilio fiscal en el territorio del estado de Morelos, respecto de ingresos que tenga derecho a percibir el Estado, así como de ingresos coordinados en términos del Convenio de Colaboración Administrativa en materia Fiscal Federal;
 
 II. Ejercer las atribuciones conferidas por la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal así como los anexos correspondientes;
 
@@ -643,11 +645,15 @@ XIII. Analizar las solicitudes de condonación de multas derivadas de actos de f
 
 XIV. Comunicar a las autoridades competentes los resultados obtenidos en las revisiones de declaraciones y de dictámenes formulados por contadores públicos, así como de las visitas domiciliarias de auditoría y demás actos de comprobación, para que determinen y liquiden las obligaciones fiscales que les correspondan, aportándoles los datos y elementos necesarios para que ejerzan sus facultades;
 
-XV. Ordenar, suscribir y practicar requerimientos en el domicilio de los contribuyentes, o en el de la Dirección, respecto de la exhibición de los libros y documentos que integren la contabilidad, para proceder a su revisión con el fin de verificar si se ha cumplido con las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2006)</small>
+
+XV. Ordenar, suscribir y practicar requerimientos en el domicilio fiscal de los contribuyentes, o en las oficinas de las propias autoridades, relacionados con la exhibición de los libros y documentos que integren la contabilidad, para proceder a su revisión con el fin de verificar si se ha cumplido con las disposiciones fiscales, respecto ingresos que tenga derecho a percibir el Estado, así como de ingresos coordinados en términos del Convenio de Colaboración Administrativa en materia Fiscal Federal;
 
 XVI. Notificar los actos administrativos que emita en ejercicio de las facultades que le otorgan las disposiciones legales aplicables;
 
-XVII. Ordenar, suscribir y practicar requerimientos en materia de declaraciones, avisos y demás documentos, a efecto de comprobar que los contribuyentes, responsables solidarios o terceros con ellos relacionados han cumplido con las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2006)</small>
+
+XVII. Ordenar, suscribir y practicar requerimientos en materia de declaraciones, avisos y demás documentos, a efecto de comprobar que los contribuyentes, responsables solidarios o terceros con ellos relacionados han cumplido con las disposiciones fiscales, respecto ingresos que tenga derecho a percibir el Estado, así como ingresos coordinados en términos del Convenio de Colaboración Administrativa en materia Fiscal Federal;
 
 XVIII. Ordenar, suscribir y practicar revisiones inherentes al Registro Federal de Contribuyentes;
 
@@ -655,7 +661,9 @@ XIX. Formular los dictámenes técnicos contables en materia de contribuciones, 
 
 XX. Ordenar y suscribir las liquidaciones de auditoría, multas y documentos de identificación de auditores, agentes fiscales y demás personal que intervenga directamente en las facultades de fiscalización que lleva a cabo el personal de la Subsecretaría;
 
-XXI. Ordenar, suscribir y practicar requerimientos para la exhibición en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo la revisión de la contabilidad, datos u otros documentos o informes que se les requieran, así como imponer multas por su incumplimiento;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2006)</small>
+
+XXI. Ordenar, suscribir y practicar requerimientos para la exhibición en su domicilio fiscal, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo la revisión de la contabilidad, datos u otros documentos o informes que se les requieran, así como imponer multas por su incumplimiento, respecto ingresos que tenga derecho a percibir el Estado, así como de ingresos coordinados en términos del Convenio de Colaboración Administrativa en materia Fiscal Federal;
 
 XXII. Autorizar actos de verificación para mantener actualizado el padrón de contribuyentes, de conformidad con lo establecido en los Convenios de Colaboración Administrativa en materia Fiscal Federal;
 
@@ -663,7 +671,9 @@ XXIII. Ordenar, suscribir, practicar y supervisar la ejecución de las actividad
 
 XXIV. Ordenar, suscribir, practicar y supervisar la realización de las funciones de verificación del uso de máquinas de comprobación fiscal y de la expedición de comprobantes fiscales;
 
-XXV. Vigilar y supervisar el establecimiento, funcionamiento y control del Padrón de Contribuyentes de impuestos estatales;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2006)</small>
+
+XXV. Vigilar y supervisar el establecimiento, funcionamiento y control del Padrón de Contribuyentes de impuestos estatales, así como, ordenar, suscribir y practicar actos de verificación para mantener actualizado dicho padrón;
 
 XXVI. Solicitar la intervención de autoridades estatales y municipales para que sus corporaciones de seguridad pública auxilien a las autoridades fiscales cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de comprobación o el proceso de fiscalización, y
 
@@ -1164,3 +1174,9 @@ EL SECRETARIO DE FINANZAS Y PLANEACIÓN
 L.C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
