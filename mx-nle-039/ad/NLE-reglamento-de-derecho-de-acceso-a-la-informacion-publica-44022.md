@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2005-03-04"
+last_updated: "2006-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,39 +23,13 @@ state: "NLE"
 ---
 # REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MONTERREY
 
-REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MONTERREY
+LEY NÚMERO 637 DE INGRESOS DEL MUNICIPIO DE PUENTE NACIONAL, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE Al EJERCICIO FISCAL DEL AÑO 2024
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
+Ley publicada en el Número Ext. 520 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 29 de diciembre de 2023.
 
-C. Integrantes del R. Ayuntamiento de la Ciudad de Monterrey.
-
-La Comisión que suscribe, recibió para su estudio y dictamen a través de la Secretaría del R. Ayuntamiento, PROYECTO DE ABROGACIÓN al "REGLAMENTO DE DERECHO A LA INFORMACIÓN DEL MUNICIPIO DE MONTERREY" y expedición del "REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY"
-
-En atención a lo anterior, la Comisión de Gobernación y Reglamentación, en ejercicio de las facultades que le confieren los Artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 26 inciso a), fracción VII, de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, y los artículos 56 y 59, fracción I, del Reglamento Interior del R. Ayuntamiento de la Ciudad de Monterrey, presenta a este H. Cuerpo Colegiado, para su consideración y, en su caso, aprobación, el siguiente Dictamen:
-
-ANTECEDENTES:
-
-I. Conforme a lo establecido en el Artículo 71 del Reglamento Interior del R. Ayuntamiento, la Comisión de Gobernación y Reglamentación recibió del C. Presidente Municipal, por conducto de la Secretaría del R. Ayuntamiento, proyecto de Abrogación al "Reglamento de Derecho a la Información del Municipio de Monterrey" publicado en el Periódico Oficial del Estado número 62 de fecha 20 de mayo de 2002, y expedición del "Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey" para su adecuación con la "Ley de Acceso a la Información Pública", publicada en el Decreto 305 en el Periódico Oficial del Estado número 25, de fecha 21 de febrero de 2003, y reformada por los Decretos 107 y 108, publicados en el Periódico Oficial número 90 de fecha 14 de julio de 2004.
-
-1.- Que dicha propuesta fue debidamente analizada y discutida en el seno de la Comisión que suscribe el presente dictamen con la participación de todos y cada uno de sus integrantes.
-
-Consecuentemente, y
-
-CONSIDERANDO:
-
-I. Que el presente dictamen busca simplificar el ejercicio del derecho de los ciudadanos para acceder a la información pública adecuándose a la "Ley de Acceso a la Información Pública" vigente en el Estado de Nuevo León, publicada según Decreto 305 en el Periódico Oficial del Estado número 25, de fecha 21 de febrero de 2003.
-
-II. Que el R. Ayuntamiento de Monterrey, dentro de sus atribuciones, conforme a la Constitución Política de los Estados Unidos Mexicanos en sus artículos 21 Y 115, fracción III, la Constitución Política del Estado de Nuevo León, en sus artículos 130, así corno en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, tiene la facultad de expedir disposiciones jurídicas reglamentarias, a fin de brindar al ciudadano condiciones de tranquilidad social, seguridad y certidumbre jurídica.
-
-III. Que toda reforma, modificación o adición, en el caso del Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León, debe tener como objetivos fundamentales su simplificación y adecuación con la "Ley de Acceso a la Información Pública", así como garantizar a toda persona el ejercicio del derecho de acceso a la información en posesión de las dependencias y entidades del Gobierno Municipal de Monterrey, sustentándose en los principios democráticos de publicidad de los actos de gobierno; de rendición de cuentas de los servidores públicos, y en el derecho a la información y de petición, garantías consagradas en los artículos 6 y 8 de la Constitución Política de los Estados Unidos Mexicanos.
-
-IV. Que para la revisión y consulta del presente reglamento, la Comisión de Gobernación y Reglamentación del R. Ayuntamiento de Monterrey, tomó en consideración las opiniones vertidas en los diferentes foros efectuados desde que se realizó la consulta para la reforma del Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León. Dentro de las opiniones recibidas se encuentran las realizadas por organismos civiles como la Asociación de Abogadas Egresadas de la Facultad de Derecho y Criminología de la Universidad Autónoma de Nuevo León, Asociación Neoleonesa de Abogadas, Asociación Nacional de Abogados Democráticos, A. C. así como opiniones de Sindicatos como la C. N. O. P., Colegios de Abogados como la Barra Mexicana del Colegio de Abogados, Colegio de Abogados de Nuevo León, A. C., Bloque de Abogados de Nuevo León, Colegio de Abogados de Guadalupe y Colegio de Doctores en Derecho; Corredores Públicos; Abogados Postulantes; Estudiantes y Representantes de Universidades como la Universidad Autónoma de Nuevo León, Universidad Regiomontana, la Facultad Libre de Derecho de Monterrey y el Instituto Tecnológico y de Estudios Superiores de Monterrey. De igual forma desde el pasado 07 de octubre del año próximo pasado se ha dado difusión al proyecto de reforma a través de la página de internet del Municipio.
-
-Conforme a lo anteriormente expuesto y fundado, se abroga el Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León, y se expide el "Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey" en los siguientes términos:
-
-REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -307,11 +281,25 @@ Las Autoridades no están obligadas a proporcionar información que es del conoc
 
 ###### Artículo 19.
 
-La Dependencia o Entidad turnará la solicitud a la Unidad Administrativa que tenga o pueda tener la información, con objeto de que ésta la localice, verifique su clasificación y le comunique a la primera la procedencia del acceso y la manera en que se encuentra disponible. Las Unidades Administrativas podrán entregar documentos administrativos que contengan información clasificada como Reservada o Restringida, siempre y cuando los documentos en que conste la información permitan eliminar las partes o secciones clasificadas. En tales casos deberán señalarse las partes o secciones que fueron eliminadas.
+Los Derechos por Servicios Prestados por la Tesorería se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
+
+I. a VI. […]
+
+(NOTA: EL 8 DE OCTUBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VII. LA CERTIFICACIÓN DE DOCUMENTOS PÚBLICOS QUE OBRAN EN EL ARCHIVO DE LA TESORERÍA, 1 UMAS.
 
 ###### Artículo 20.
 
-La Autoridad proporcionará la información en un plazo que no podrá exceder de 10 días hábiles, contados desde la presentación de aquella, siempre que el solicitante haya cubierto el pago de los derechos correspondientes. Este plazo podrá ampliarse hasta por un periodo igual por única vez, cuando medien circunstancias que no permitan proporcionar la información dentro del plazo establecido, estando obligada la Autoridad a hacerlo del conocimiento del peticionario mediante escrito fundado y motivado.
+Los Derechos por los Servicios del Registro Civil se causarán y pagarán, en Unidades de Medida y Actualización, de acuerdo a las cuotas siguientes:
+
+I. a II. […]
+
+(NOTA: EL 8 DE OCTUBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. RECONOCIMIENTO DE HIJOS, UNA;
+
+IV. a VIII. […]
 
 ###### Artículo 21.
 
