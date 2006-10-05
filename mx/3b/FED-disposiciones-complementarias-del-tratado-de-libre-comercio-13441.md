@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-09-29"
+last_updated: "2006-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,43 +18,39 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de septiembre de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de octubre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los Capítulos III, VII y XX del Tratado de Libre Comercio de América del Norte, artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o., 5o., fracciones V y X, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 de su Reglamento, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los capítulos III, VII y XX del Tratado de Libre Comercio de América del Norte; artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 16, 17, 20, 21, 23 y 24 de la Ley de Comercio Exterior; 17 al 22, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y 16 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, y
 
 CONSIDERANDO
 
 Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares o jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
+Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares y jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
 
 Que existe una disputa entre México y los Estados Unidos de América relativa al cumplimiento de este último con sus obligaciones establecidas en el TLCAN de permitir el acceso a su mercado al azúcar mexicano;
 
 Que por tal motivo México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN. La disputa no ha sido resuelta, entre otras cosas, porque, no obstante que México solicitó el establecimiento de un panel al amparo del Capítulo XX del TLCAN, habiendo previamente satisfecho todos los requisitos previstos en el mismo, los Estados Unidos de América se han negado a designar panelistas, según lo exige el TLCAN;
 
-Que el 11 de noviembre de 2005, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos;
+Que en este contexto, el pasado 27 de julio los gobiernos de México y los Estados Unidos de América llegaron a un acuerdo que establece ciertas condiciones para el comercio bilateral de edulcorantes que contribuirá a facilitar la transición al libre comercio a partir del 1 de enero de 2008, pero también reconoce que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr este objetivo;
 
-Que el 21 de febrero de 2006, los Estados Unidos de América otorgaron a los Estados Unidos Mexicanos una segunda cuota adicional de 59, 349 toneladas métricas de azúcar refinada (valor crudo), para el ciclo comercial de octubre de 2005 a septiembre de 2006;
+Que entre los acuerdos alcanzados, se prevé el otorgamiento por parte de México de un trato libre de arancel para 250,000 toneladas métricas (base seca) de fructosa originaria de los Estados Unidos de América durante el año comercial que inicia el 1 de octubre de 2006 y los primeros tres meses del año comercial que inicia el 1 de octubre de 2007, respectivamente, que requiere implementarse;
 
-Que el pasado 27 de julio los gobiernos de ambos países llegaron a un acuerdo que establece ciertas condiciones para el comercio bilateral de edulcorantes que contribuirá a facilitar la transición al libre comercio a partir del 1 de enero de 2008, pero también reconoce que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr este objetivo;
+Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte;
 
-Que entre los acuerdos alcanzados está el otorgamiento por parte de los Estados Unidos de América de un cupo libre de arancel para 21,774 toneladas métricas (valor crudo) de azúcar refinada originaria de México durante el año comercial 2005 a septiembre de 2006;
+Que el 29 de septiembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto que modifica el diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte para establecer un arancel cupo a la importación de la fructosa originaria de los Estados Unidos de América clasificada en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-Que el 2 de agosto de 2006, se publicó en el Diario Oficial de la Federación el Acuerdo que adiciona al similar por el que se dan a conocer los cupos para internar a los Estados Unidos de América en el ciclo comercial octubre de 2005 a septiembre de 2006, azúcares originarios de los Estados Unidos Mexicanos, dando a conocer, la cuota adicional de 59, 349 toneladas métricas de azúcar refinada (valor crudo) y la cuota de 21,774 toneladas métricas (valor crudo) de azúcar refinada adicional otorgada en el marco del acuerdo alcanzado el pasado 27 de julio;
+Que de conformidad con el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus modificaciones, las mercancías establecidas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación están sujetas al requisito de permiso previo de importación;
 
-Que el pasado 9 de agosto los Estados Unidos de América anunciaron una cuota de 4,907 toneladas métricas de azúcar refinada (valor crudo) adicional a la cuota otorgada en el acuerdo del pasado 27 de julio;
+Que corresponde a la Secretaría de Economía dar seguridad jurídica en la aplicación de los criterios y requisitos para otorgar permisos previos, basándose en los principios de transparencia, certidumbre, mejora regulatoria y simplificación, y
 
-Que es necesario contar con un procedimiento de asignación expedito para efectuar las exportaciones, mejorar la productividad y la competitividad del sector, así como procurar la equidad en la asignación del cupo de azúcar libre de arancel a los Estados Unidos de América;
+Que la Comisión de Comercio Exterior opinó favorablemente la medida a que se refiere el presente ordenamiento, he tenido a bien expedir el siguiente:
 
-Que el procedimiento de asignación de los cupos de azúcares, jarabes y productos con alto contenido de azúcar, es el resultado de un proceso de labores coordinado, entre las secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Cámara Nacional de las Industrias Azucarera y Alcoholera, y
-
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE ADICIONA AL SIMILAR POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA EN EL CICLO COMERCIAL OCTUBRE DE 2005 A SEPTIEMBRE DE 2006, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS
 
 ###### ARTICULO PRIMERO.
 
@@ -266,35 +262,55 @@ Para efecto de lo señalado en el párrafo anterior, la Dirección General de Co
 
 ###### ARTICULO 1.
 
-Se establece un cupo adicional para importar azúcar en 2006, con el arancel-cupo establecido en el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, el cual se señala a continuación:
+El cupo para la importación definitiva de fructosa originaria de los Estados Unidos de América clasificada en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación durante el año comercial que inicia el 1 de octubre de 2006 y los primeros tres meses del año comercial que inicia el 1 de octubre de 2007 de conformidad con el arancel cupo establecido en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002 y sus modificaciones, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 2.
 
-El procedimiento de asignación del cupo de importación referido en el presente instrumento será de asignación directa.
+De conformidad con lo previsto en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, el cupo a que se refiere el artículo 1 del presente Acuerdo se administrará por medio de permisos previos de importación de conformidad con el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus modificaciones.
 
 ###### ARTICULO 3.
 
-Podrán solicitar asignación del cupo a que se refiere el artículo anterior del presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que se mencionan a continuación y la asignación será otorgada por la Secretaría de Economía hasta agotar el cupo, conforme a los siguientes criterios:
+Los permisos previos de importación que se tramiten ante la Secretaría de Economía, para la importación definitiva de las mercancías originarias de los Estados Unidos de América clasificadas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, entre el 1 de octubre de 2006, hasta el 31 de diciembre de 2007, se realizará conforme a los criterios siguientes:
 
-I. Se asignarán 50,000 toneladas métricas para personas físicas o morales mediante el procedimiento de asignación directa bajo la modalidad de “primero en tiempo, primero en derecho”.
+PRIMERO: Podrán solicitar la autorización de permiso previo, aquellos promoventes que cuenten con un certificado de contingentes arancelarios vigente emitido por la Asociación de Refinadores de Maíz (Corn Refiners Association, Inc) de los Estados Unidos de América. El promovente deberá adjuntar a su solicitud de permiso previo de importación el original del certificado de contingentes arancelarios correspondiente al periodo que cubra la cantidad total que solicita en dicho permiso. Las Representaciones Federales de la Secretaría de Economía emitirán el permiso previo de importación por la cantidad de fructosa que el certificado de contingentes arancelarios presentado por el promovente represente, en base comercial; utilizando, para la conversión de base seca a base comercial, los siguientes factores de conversión para cada fracción arancelaria:
 
-II. La asignación de las restantes 50,000 toneladas métricas del cupo será por asignación directa de la siguiente manera:
+a) 1702.40.99, cantidad en base seca / 0.71;
 
-a. 30,000 toneladas métricas para las personas físicas o morales del sector refresquero que utilice azúcar como insumo en sus procesos productivos. El monto a asignar será el menor entre el solicitado y el equivalente a una vez el promedio mensual de sus consumos totales auditados de azúcar en 2005.
+b) 1702.60.01, cantidad en base seca / 0.77;
 
-b. 20,000 toneladas métricas para las personas físicas o morales de la industria excepto del sector refresquero, que utilice azúcar como insumo en sus procesos productivos. El monto a asignar será el menor entre el solicitado y el equivalente a una vez el promedio mensual de sus consumos totales auditados de azúcar en 2005.
+c) 1702.60.02, cantidad en base seca / 0.77; y
+
+d) 1702.60.99, cantidad en base seca / 0.77.
+
+SEGUNDO: Los promoventes deberán presentar la solicitud de permiso previo de importación en la Representación Federal de la Secretaría de Economía correspondiente, utilizando el formato “Solicitud de Permiso de Importación o Exportación y de Modificaciones” (SE-03-057), el cual estará a disposición de los interesados en las Representaciones Federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-057-A
+
+TERCERO: El dictamen de la solicitud a que se refiere el criterio anterior, se realizará por la Dirección General de Comercio Exterior de la Secretaría de Economía considerando el criterio Primero del presente artículo y la resolución correspondiente se emitirá a través de la Representación Federal que le corresponda.
+
+El plazo máximo para otorgar los permisos previos de importación es de quince días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
+
+CUARTO: Los permisos previos de importación tendrán la siguiente vigencia por periodo:
+
+(VEASE ARCHIVO ANEXO)
+
+QUINTO: Los promoventes a los que se les haya autorizado un permiso previo de importación podrán transferir la cantidad autorizada en dicho permiso de una fracción arancelaria a otra, siempre y cuando el titular del permiso previo presente a la Representación Federal de la Secretaría de Economía una nueva solicitud de permiso y adjunte a dicha solicitud el permiso original vigente, en lugar del certificado de contingentes arancelarios. La Representación Federal de la Secretaría de Economía emitirá un nuevo permiso en la fracción arancelaria solicitada por la cantidad correspondiente y el permiso previo de importación anterior será cancelado. Cualquier monto no utilizado de un permiso autorizado puede ser transferido a una solicitud de permiso de importación subsecuente, siempre que el promovente sea el titular del permiso de importación que contenga el monto no utilizado.
+
+SEXTO: La Secretaría de Economía concluirá la autorización de los permisos previos de importación cuando el cupo determinado por periodo en el artículo 1 del presente Acuerdo se haya agotado.
+
+Los montos de los permisos previos de importación que no hayan sido utilizados dentro de su periodo correspondiente podrán ser considerados por la Asociación de Refinadores de Maíz (Corn Refiners Association, Inc) de los Estados Unidos de América dentro del cupo disponible para el remanente a distribuir dentro del mismo periodo, siempre que el importador se lo notifique.
+
+SEPTIMO: La Dirección General de Industrias Básicas en coordinación con la Subsecretaría de Negociaciones Comerciales Internacionales, ambas de la Secretaría de Economía, realizarán una vigilancia permanente de las operaciones de comercio exterior que se realicen al amparo de los permisos previos de importación autorizados y podrán ser consultadas sobre la interpretación de los criterios en este artículo por parte de la Dirección General de Comercio Exterior de la misma Secretaría.
 
 ###### ARTICULO 4.
 
-Para lo señalado en el artículo 3, fracción I del presente ordenamiento, la solicitud de asignación del cupo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda. La Dirección General de Comercio Exterior de la Secretaría de Economía, emitirá, en su caso, constancia de asignación, misma que será entregada a través de la Representación Federal correspondiente, en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
+Los permisos previos de importación que se tramiten ante la Secretaría de Economía para la importación temporal de las mercancías originarias de los Estados Unidos de América clasificadas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 se continuarán dictaminando y emitiendo las resoluciones correspondientes de manera automática en las Representaciones Federales de esta Secretaría.
 
-Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo de importación mediante la presentación, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, adjuntando copia de la factura comercial, del conocimiento de embarque, carta de porte o guía aérea, según sea el caso. El plazo máximo para la expedición de los certificados de cupo es de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
+Los promoventes deberán presentar la solicitud de permiso previo de importación en la Representación Federal de la Secretaría de Economía correspondiente utilizando el formato “Solicitud de Permiso de Importación o Exportación y de Modificaciones” (SE-03-057), el cual estará a disposición de los interesados en las Representaciones Federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-057-A
 
-El monto del certificado será el menor entre el solicitado y el monto indicado en la factura comercial, el conocimiento de embarque, carta de porte o guía aérea, según sea el caso.
+El plazo máximo para otorgar los permisos previos de importación es de quince días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
 
-La vigencia de los certificados será al 15 de diciembre de 2006.
+Los permisos previos de importación a que se refiere el presente artículo se expedirán con vigencia al 31 de diciembre de 2007.
 
 ###### ARTICULO 5.
 
@@ -356,8 +372,10 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 30 de septiembre de 2006.
+PRIMERO.- El presente Acuerdo entrará en vigor el 1 de octubre del presente año y concluirá su vigencia el 31 de diciembre de 2007.
 
-SEGUNDO.- Para efectos del presente Acuerdo, los plazos a que se refiere el artículo tercero del Acuerdo que se adiciona, empezarán a contar a partir de la fecha de publicación del presente ordenamiento.
+SEGUNDO.- Se abroga el Acuerdo que establece los criterios para otorgar permisos previos por parte de la Secretaría de Economía, a las importaciones definitivas de fructosa originarias de los Estados Unidos de América publicado en el Diario Oficial de la Federación el 20 de marzo de 2003 y sus reformas publicadas en el mismo órgano informativo el 30 de septiembre y 11 de noviembre de 2005.
+
+TERCERO.- En caso de que el monto del cupo que se aplicará en el periodo del 1 de octubre al 31 de diciembre de 2007 establecido en el artículo 1 del presente Acuerdo varíe, la Secretaría de Economía lo dará a conocer mediante modificación del presente ordenamiento, a través de publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 26 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
