@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-45176"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-06-05"
-last_updated: "2005-06-05"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de julio de 2005.
 
@@ -87,7 +87,9 @@ XII. Los notarios públicos y los corredores públicos;
 
 XIII. El director y personal de la Procuraduría de la Defensa del Menor y la Familia;
 
-XIV. El director y personal de los centros de observación y orientación para menores infractores;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
+XIV. El Director y personal de los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango;
 
 XV. El director de los establecimientos neuropsiquiátricos o especializados en el tratamiento de inimputables;
 
@@ -2646,3 +2648,15 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas la (sic) disposiciones legales que se opongan al presente decreto.
