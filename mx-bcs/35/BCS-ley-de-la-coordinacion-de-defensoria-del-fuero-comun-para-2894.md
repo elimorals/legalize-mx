@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-coordinacion-de-defensoria-del-fuero-comun-para-2894"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-20"
-last_updated: "1995-05-20"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LA COORDINACION DE DEFENSORIA DEL FUERO COMUN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de mayo de 1995.
 
@@ -41,9 +41,11 @@ LEY DE LA COORDINACION DE DEFENSORIA DEL FUERO COMUN PARA EL ESTADO DE BAJA CALI
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de interés social, sus preceptos regulan los servicios jurídicos de defensa a los acusados en materia penal; así como de asesoría y patrocinio en asuntos de derecho privado a personas de escasos recursos económicos que lo soliciten.
+La presente Ley es de orden público y de interés social, sus preceptos regulan los servicios jurídicos de defensa a los acusados en materia penal y en Justicia para Adolescentes; así como de asesoría y patrocinio en asuntos de derecho privado a personas de escasos recursos económicos que lo soliciten.
 
 ###### Artículo 2.
 
@@ -53,7 +55,9 @@ Para los fines de esta Ley, se crea un organismo administrativo desconcentrado d
 
 Los servicios proporcionados por la Coordinación Estatal serán obligatorios y gratuitos, en los términos previstos en el reglamento interior.
 
-La defensa jurídica se proporcionará en materia penal, a todos los que se acojan a la garantía constitucional, y en derecho privado, a las personas de escasos recursos económicos estándose preferentemente al demandado, debiendo el interesado demostrar su situación patrimonial en términos del reglamento respectivo.
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+La defensa jurídica se proporcionará en materia penal, a todos los que se acojan a la garantía constitucional, en relación al procedimiento de Justicia para Adolescentes y en derecho privado, a las personas de escasos recursos económicos estándose preferentemente al demandado, debiendo el interesado demostrar su situación patrimonial en términos del reglamento respectivo.
 
 ###### Artículo 4.
 
@@ -205,9 +209,11 @@ k).- Las demás que les imponga el Coordinador General y el propio Reglamento In
 
 El Defensor de Oficio, para el cumplimiento de su cargo, tendrá las facultades y deberes que se señalan en esta Ley y su Reglamento Interior.
 
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 17.
 
-En el cumplimiento de sus deberes profesionales de defensa, asesoría y patrocinio, previstos en esta Ley, los Defensores de Oficio prestarán sus servicios en cualquier día y hora que se les requiera; vigilarán permanentemente que toda persona cuente de inmediato con asistencia legal para su defensa ante las autoridades competentes, especialmente en materia penal, invocando con diligencia y en forma expedita los derechos que les asistan a sus defendidos, asesorados o patrocinados.
+En el cumplimiento de sus deberes profesionales de defensa, asesoría y patrocinio, previstos en esta Ley, los Defensores de Oficio prestarán sus servicios en cualquier día y hora que se les requiera; vigilarán permanentemente que toda persona cuente de inmediato con asistencia legal para su defensa ante las autoridades competentes, especialmente en materia penal y en Justicia para Adolescentes, invocando con diligencia y en forma expedita los derechos que les asistan a sus defendidos, asesorados o patrocinados.
 
 ###### Artículo 18.
 
@@ -221,9 +227,11 @@ La Coordinación Estatal deberá contar con instalaciones adecuadas para su func
 
 Las Dependencias Policiacas, Agencias del Ministerio Público del Fuero Común, Tribunales y Autoridades Municipales, promoverán lo necesario dentro de sus instalaciones para el desempeño apropiado de la Defensoría de Oficio.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-Para la eficaz observancia de esta Ley, habrá un Defensor de Oficio adscrito a cada uno de los Juzgados Penales y Mixtos que integran los Partidos Judiciales del Estado, así como en las Agencias del Ministerio Público Investigadoras del Fuero Común.
+Para la eficaz observancia de esta Ley, habrá un Defensor de Oficio adscrito a cada uno de los Juzgados Penales y Mixtos que integran los Partidos Judiciales del Estado, Juzgados Especializados para Adolescentes, así como en las Agencias del Ministerio Público Investigadoras del Fuero Común.
 
 Igualmente se prestará el servicio de Defensoría de Oficio en las salas del Tribunal Superior de Justicia del Estado y en los Juzgados de lo Civil y Familiar.
 
@@ -247,9 +255,13 @@ Se practicarán evaluaciones periódicas a fin de constatar la mejoría de los c
 
 Los libros de registro de la Coordinación de la Defensoría de Oficio deberán contener los siguientes datos:
 
-I.- El libro de registro en averiguación previa debe contener: Fecha de inicio de la averiguación previa, nombre del Defensor designado, número de averiguación previa, nombre del presunto responsable, nombre del denunciante, delito, diligencias y trámites realizados;
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-II.- El libro de registro de la Coordinación de la Defensoría de Oficio, en materia penal debe contener: La designación del juzgado, partida, nombres del acusado y denunciante, delito, nombre del Defensor, fecha de la declaración preparatoria, fecha del auto del término constitucional, fecha del ofrecimiento de pruebas, fecha del desahogo de las mismas, fecha de la formulación de conclusiones, notificación de la sentencia y su sentido, fecha de la interposición del recurso de apelación, en su caso, designación de la Sala del Tribunal Superior de Justicia, fecha de la radicación del expediente, número de toca, fecha de la audiencia de vista, fecha de la formulación de agravios, fecha de la notificación de la sentencia dictada en la sala y resumen de los puntos resolutivos y, en su caso, fecha de la presentación de la demanda de amparo;
+I.- El libro de registro en averiguación previa debe contener: fecha de inicio de la averiguación previa, nombre del defensor designado, número de averiguación previa, nombre del presunto responsable, nombre del denunciante, delito, diligencias y trámites realizados; en el caso de aquellos menores sujetos al procedimiento de justicia para adolescentes, se asentarán los datos que identifiquen su procedimiento cuidando en todo momento el sigilo de dicha información;
+
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+II.- El libro de registro de la Coordinación de la Defensoría de Oficio, en materia penal debe contener: La designación del juzgado, partida, nombres del acusado y denunciante, delito, nombre del Defensor, fecha de declaración preparatoria, fecha del auto del término constitucional, fecha del ofrecimiento de pruebas, fecha del desahogo de las mismas, fecha de la formulación de conclusiones, notificación de la sentencia y su sentido, fecha de la interposición del recurso de apelación, en su caso, designación de la sala del Tribunal Superior de Justicia, fecha de la radicación del expediente, número del toca, fecha de la audiencia de vista, fecha de la formulación de agravios, fecha de la notificación de la sentencia dictada en la sala y resumen de sus puntos resolutivos y, en su caso, fecha de la presentación de la demanda de amparo; en el caso de aquellos menores sujetos a procedimiento de justicia para adolescentes, se asentarán los datos que identifiquen su procedimiento cuidando en todo momento el sigilo de dicha información;
 
 III.- El libro de registro de la Coordinación de la Defensoría de Oficio, en materia civil, familiar y mercantil, debe contener los siguientes datos: Designación del juzgado, partida, nombres del interesado, del actor y demandado, clase de juicio, fecha de formulación o contestación de la demanda, fecha de la audiencia, fecha del desahogo de las pruebas, fecha de la sentencia en que se notifica el sentido de la misma y fecha en que se interpuso el recurso de apelación, en su caso, o designación de la sala, fecha de radicación del expediente, número de toca, fecha de la formulación de agravios, fecha de la notificación de la sentencia pronunciada en segunda instancia y resumen de los puntos resolutivos de la misma y en su caso, fecha de la presentación de la demanda de amparo; y
 
@@ -284,3 +296,9 @@ LIC. GUILLERMO MERCADO ROMERO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 5 DE OCTUBRE DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
