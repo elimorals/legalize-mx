@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2004-del-pleno-del-consejo-de-la-47097"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-23"
-last_updated: "2006-02-03"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-14"
 
 ACUERDO GENERAL 24/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de abril de 2004.
 
@@ -663,7 +663,13 @@ II. En el caso de que dos o más ofertas económicas coincida, el Consejo adjudi
 
 III. La convocatoria, las bases y la relación de los bienes objeto de la subasta podrá difundirse en su caso a través de la página en Intranet y deberá fijarse en un lugar visible de todas las áreas y centros de trabajo del Poder Judicial de la Federación ubicados en la ciudad donde se efectúe la venta.
 
-Una vez realizados los procedimientos antes señalados, si quedasen vehículos sin haberse enajenado, se podrá solicitar al Comité, la autorización de un nuevo procedimiento de enajenación, y en su caso, que el precio de venta se disminuya hasta en un tercio sobre el valor avalúo.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 58/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2006)</small>
+
+Si quedasen vehículos sin haberse enajenado una vez realizados los procedimientos correspondientes o a la conclusión de alguno de éstos, la Comisión de Administración podrá autorizar la realización de un nuevo procedimiento en el cual se contemple la disminución al precio de venta de hasta un tercio sobre el valor promedio que resulte entre el precio más bajo de la Guía EBC y el arrojado por el avalúo, previo análisis y opinión favorable del Comité.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 58/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2006)</small>
+
+Agotado este último procedimiento, la Comisión de Administración adoptará las medidas que estime pertinentes respecto a la enajenación de los vehículos que no hayan sido adjudicados.
 
 > <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -778,3 +784,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+D.O.F. 5 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
