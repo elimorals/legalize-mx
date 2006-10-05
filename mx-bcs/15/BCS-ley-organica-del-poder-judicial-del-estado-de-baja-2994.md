@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2006-07-11"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -43,11 +43,13 @@ Ley Orgánica del Poder Judicial del Estado de Baja California Sur
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 1o.
 
-El ejercicio del Poder Judicial del Estado de Baja California Sur, se deposita en el Tribunal Superior de Justicia, Tribunal Estatal Electoral y Jueces del Fuero Común en los términos de la Constitución Política del Estado de Baja California Sur.
+El ejercicio del Poder Judicial del Estado de Baja California Sur se deposita en el Tribunal Superior de Justicia, Tribunal Estatal Electoral, Jueces del Fuero Común y Jueces Especializados en Justicia para Adolescentes, en los términos de la Constitución Política del Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1998)</small>
 
 Corresponde al Tribunal Superior de Justicia, Tribunal Estatal Electoral y Jueces del Estado, la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente se la concedan las Leyes.
 
@@ -69,9 +71,15 @@ V. Los Jueces de Paz;
 
 VI. Los Árbitros;
 
-VII. El Jurado Popular, y
+VII. El Jurado Popular, y (sic)
 
-VIII. Los demás Servidores Públicos y Auxiliares de la Administración de Justicia en los términos que establezca esta Ley, los Códigos de Procedimientos y las leyes relativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 5 DE OCTUBRE DE 2006)</small>
+
+VIII. Los Jueces especializados para Adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 5 DE OCTUBRE DE 2006)</small>
+
+IX. Los demás Servidores Públicos y Auxiliares de la Administración de Justicia, en los términos que establezca esta Ley, los Códigos de Procedimientos y Leyes relativas.
 
 ## TITULO SEGUNDO. DIVISION TERRITORIAL
 
@@ -145,9 +153,9 @@ Son facultades del Tribunal Superior de Justicia en Pleno:
 
 I. Iniciar ante el Congreso del Estado los proyectos de Ley y promover las reformas que estime conveniente para la buena Administración de Justicia;
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-II. Resolver sin ulterior recurso, como órgano de sentencia, las causas de responsabilidad por delitos oficiales que deban instruirse en contra de los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General y Subprocuradores de la Procuraduría General de Justicia, el Contralor General del Estado, los Coordinadores y Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones Asimiladas, los Presidentes de las Juntas de Conciliación y Arbitraje y el Presidente del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, conforme a la Constitución Política del Estado;
+II. Resolver sin ulterior recurso, como órgano de sentencia, las causas de responsabilidad por delitos oficiales que deban instruirse en contra de los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, Jueces Especializados en Justicia para Adolescentes, los Secretarios y Subsecretarios del despacho, el Procurador General y Subprocuradores de la Procuraduría General de Justicia, el Contralor General del Estado, los Coordinadores y los directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones Asimiladas, los Presidentes de las Juntas de Conciliación y Arbitraje, y el Presidente del Tribunal de conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, conforme a la Constitución Política del Estado;
 
 III. Conocer y resolver de las controversias en que el Estado fuere parte como sujeto de derecho privado, salvo lo dispuesto por la Constitución General de la República;
 
@@ -157,9 +165,13 @@ V. Expedir los reglamentos interiores del Tribunal Superior de Justicia, de los 
 
 VI. Elegir al Presidente del Tribunal Superior de Justicia de entre los Magistrados que lo forman y designar a los que deban integrar cada Sala;
 
-VII. Nombrar a los Jueces de Primera Instancia, Menores y de Paz; sin expresar en los nombramientos respectivos la Jurisdicción Territorial en que deban ejercer sus funciones y recibirles la protesta de Ley;
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-VIII. Asignar la adscripción en que deban ejercer sus funciones los Jueces de Primera Instancia, Menores y de Paz; y tratándose de los primeros, en los lugares en que haya dos o más, el Juzgado en que deba prestar sus servicios;
+VII. Nombrar a los Jueces de Primera Instancia, Jueces Especializados en Justicia para adolescentes, Menores y de Paz, sin expresar en los nombramientos respectivos la Jurisdicción Territorial en que deban ejercer sus funciones, y recibirles la protesta de Ley;
+
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+VIII. Asignar la adscripción en que deban ejercer sus funciones los Jueces de Primera Instancia, Jueces Especializados en Justicia para Adolescentes, Menores y de Paz, y tratándose de los primeros, en los lugares en que haya dos o más, el Juzgado en que deban presentar sus servicios;
 
 IX. Cambiar a los Jueces de una misma categoría, de un Partido Judicial a otro o de un Juzgado a otro dentro del mismo Partido Judicial, siempre que las necesidades del servicio así lo requieran o que haya causa fundada y suficiente para el cambio;
 
@@ -399,7 +411,9 @@ XI. Conocer de los demás asuntos que le encomienden las Leyes.
 
 ARTICULO 22 A.- Corresponde a los Magistrados de la Sala Penal:
 
-I. Conocer de los recursos de apelación, denegada apelación, quejas y cualquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia y Menores en asuntos del orden penal que sean de su competencia;
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+I. Conocer de los recursos de apelación, denegada apelación, quejas y cualquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia, Menores en asuntos del orden penal que sean de su competencia, así como del Recurso de Apelación interpuesto contra las resoluciones que con el mismo carácter que las señaladas con anterioridad, sean emitidas por los Jueces Especializados en Justicia para Adolescentes;
 
 II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
 
@@ -557,21 +571,23 @@ Los Servidores Públicos, que no se encuentren, entre los señalados en este cap
 
 ### CAPITULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 33.
 
-En cada Partido Judicial habrá el número necesario de Juzgados de Primera Instancia que determine el Pleno del Tribunal Superior de Justicia; previo acuerdo de éste se fijará la jurisdicción y la competencia penal, civil y familiar de dichos Juzgados. En los Partidos Judiciales en que haya un sólo Juzgado de Primera Instancia éste conocerá de los asuntos del orden penal, civil y familiar.
+En cada Partido Judicial habrá el número necesario de Juzgados de Primera Instancia que determine el Pleno del Tribunal Superior de Justicia; previo acuerdo de éste, se fijará la jurisdicción y la competencia penal civil y familiar de dichos Juzgados. En los Partidos Judiciales en los que haya un solo Juzgado de Primera Instancia, éste conocerá de los asuntos del orden penal, civil y familiar. De igual manera designará el número de Juzgados Especializados en Justicia para Adolescentes.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 1997)</small>
-
-En aquellos lugares donde existan tres o más Juzgados de Primera Instancia en materia Civil o Familiar, habrá una Oficialía de Partes Común y la propia de cada una de ellos, en los términos que dispone el Código de Procedimientos Civiles del Estado.
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 34.
 
-Los Jueces de Primera Instancia deberán residir en las cabeceras de sus respectivos Partidos Judiciales o en el lugar en el que tenga su asiento el Juzgado del que sean titulares, y no podrán salir de su Jurisdicción sin licencia previa del Presidente del Tribunal.
+Los Jueces de Primera Instancia y Especializados en Justicia para Adolescentes, deberán residir en las cabeceras de sus respectivos Partidos Judiciales o en el lugar en el que tenga su asiento el Juzgado del que sean titulares, y no podrán salir de su Jurisdicción o lugar de asiento, sin licencia previa del Presidente del Tribunal.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 35.
 
-Para ser Juez de Primera Instancia se requiere:
+Para ser Juez de Primera Instancia o Juez Especializado en Justicia para Adolescentes, se requiere:
 
 I. Tener 28 años de edad cumplidos y menos de 65 el día de la designación;
 
@@ -630,6 +646,18 @@ III. De las competencias que se susciten entre los Jueces Menores y de Paz de su
 IV. De los incidentes civiles que surjan en los negocios que ante ellos se tramiten; y
 
 V. De los demás asuntos que les encomienden las Leyes.
+
+> <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 37 BIS.- En Justicia para Adolescentes, los Jueces Especializados conocerán:
+
+I. De las causas instauradas en contra de las personas a quienes se impute la realización de un acto tipificado como delito en las leyes locales, cuando teniendo entre doce años cumplidos y dieciocho años no cumplidos;
+
+II. Promover la conciliación entre el adolescente y la víctima u ofendido como alternativa al juzgamiento, a fin de cumplir con los principales de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio;
+
+III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley de Justicia para Adolescentes; y
+
+IV. Resolver sobre las medidas a imponer, atendiendo los principios, de culpabilidad por el acto, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes.
 
 ###### ARTICULO 38.
 
@@ -775,17 +803,21 @@ XII. Tener a su cargo el archivo del Juzgado, cuidando que esté debidamente ord
 
 XIII. Las demás que las Leyes o las autoridades superiores ordenen.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 44.
 
-Para ser Actuario de un Juzgado de Primera Instancia se requiere:
+Para ser Actuario de un Juzgado de Primera Instancia o Juzgado Especializado en Justicia para Adolescentes se requiere:
 
 I. Haber cursado cuando menos la instrucción media básica y tener los conocimientos jurídicos necesarios para el desempeño de sus funciones; y
 
 II. Haber cumplido 21 años de edad y reunir los requisitos que establecen las fracciones III, V, VI, VII y VIII del artículo 42 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 45.
 
-Corresponde a los Actuarios de los Juzgados de Primera Instancia:
+Corresponde a los Actuarios de los Juzgados de Primera Instancia y Juzgado Especializado en Justicia para Adolescentes:
 
 I. Permanecer en el Juzgado de las 8:00 a las 10:00 horas en los días hábiles, para hacer las notificaciones a las partes personalmente, cuando aquéllas deban efectuarse en tal forma, sólo en el caso de que los interesados concurran al Juzgado;
 
@@ -2235,7 +2267,7 @@ Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por t
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
-### CAPITULO SEGUNDO. DE SU INTEGRACION
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -2273,7 +2305,7 @@ X. Las demás que le señale esta Ley, la Ley Electoral del Estado de Baja Calif
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE SU INTEGRACION
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -2604,3 +2636,7 @@ UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicaci
 B.O. 11 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 5 DE OCTUBRE DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
