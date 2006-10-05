@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2004-08-22"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -111,9 +111,11 @@ II.- Una sentencia y un procedimiento distinto, se archivará o se sobreseerá d
 
 III.- Dos sentencias, dictadas en procesos distintos, se hará la declaratoria de nulidad de la sentencia que corresponda al proceso que se inició en segundo término y se extinguirán sus efectos.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 11.
 
-Las disposiciones de este Código se aplicarán a todas las personas a partir de los dieciséis años de edad.
+Las disposiciones de este Código se aplicarán a todas las personas a partir de los dieciocho años de edad.
 
 ###### ARTÍCULO 12.
 
@@ -1351,7 +1353,7 @@ Las mismas sanciones se impondrán a quien acepte la identificación.
 
 Se impondrán de tres meses a cuatro años de prisión y multa de diez a ciento cincuenta días multa, al servidor público que sin causa justificada abandone sus funciones sin haber presentado su renuncia, o sin que se le haya aceptado, o al que habiéndole sido aceptada no entregue todo aquello que haya sido objeto de su responsabilidad, a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
 
-### CAPÍTULO CUARTO. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPÍTULO TERCERO. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
 
 ###### ARTÍCULO 162.
 
@@ -1371,7 +1373,7 @@ I.- De tres meses a tres años de prisión o de treinta a trescientos días mult
 
 II.- De tres a ocho años de prisión, y hasta quinientos días multa, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente.
 
-### CAPÍTULO TERCERO. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
+### CAPÍTULO CUARTO. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 164.
 
@@ -4002,3 +4004,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que s opongan al presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
