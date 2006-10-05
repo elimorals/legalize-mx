@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2004-05-02"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -3101,9 +3101,11 @@ PROCEDIMIENTOS ESPECIALES
 
 ### CAPITULO I. PROCEDIMIENTOS PARA LOS INIMPUTABLES
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 466.
 
-Cuando de las diligencias de averiguación previa aparezca que haya motivo fundado para sospechar que el inculpado ha ejecutado el delito hallándose en los estados de inimputabilidad que menciona el artículo 17 del Código Penal, el Ministerio Público ordenará su internación en un establecimiento adecuado en el cual se pondrá a disposición de la autoridad judicial.
+Cuando de las diligencias de averiguación previa aparezca que haya motivo fundado para sospechar que el inculpado ha ejecutado el delito hallándose en los estados de inimputabilidad que menciona el artículo 27 del Código Penal para el Estado Libre y Soberano de Durango, el Ministerio Público ordenará su internación en un establecimiento adecuado en el cual se pondrá a disposición de la autoridad judicial.
 
 ###### ARTICULO 467.
 
@@ -3117,35 +3119,41 @@ En el caso del artículo anterior, el tribunal ordenará que el inculpado sea ex
 
 Si el procesado no tuviere tutor, el juez procederá a designarle uno provisional quien le representará en todos los actos del proceso, sin perjuicio de que se ordene su comparecencia personal cuando se estime necesario para el esclarecimiento de la verdad de los hechos. Si tuviere tutor, éste le representará en todos los actos del proceso.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 470.
 
-Si del dictamen rendido por los peritos psiquiatras o médicos legistas en su caso resultare que el procesado está incurso (sic) en alguna de las causas de inimputabilidad señaladas en el artículo 17 del Código Penal, el juez inmediatamente cerrará el procedimiento ordinario, declarará al procesado en estado de interdicción y le designará un tutor definitivo, quien le representará en lo sucesivo en todos los actos del proceso, sin perjuicio de que si el juez, de oficio o a solicitud de parte, lo estima necesario, disponga la comparecencia personal cuando sea necesaria para el esclarecimiento de la verdad de los hechos.
+Si el dictamen rendido por los peritos psiquiatras, o médicos legistas en su caso resultare que el procesado está incurso en alguna de las causas de inimputabilidad señaladas en el artículo 27 del Código Penal para el Estado Libre y Soberano de Durango, el juez inmediatamente cerrará el procedimiento ordinario, declarará al procesado en estado de interdicción y le designará un tutor definitivo, quien le representará en lo sucesivo en todos los actos del proceso, sin perjuicio de que si el juez, de oficio o a solicitud de parte, lo estima necesario, disponga la comparecencia personal cuando sea necesaria para el esclarecimiento de la verdad de los hechos.
 
 ###### ARTICULO 471.
 
 Si se comprueba la participación del procesado en los hechos, el juez oyendo al Ministerio Público y al defensor o al tutor o a ambos a la vez, dictará resolución ordenando el internamiento de aquél en los términos del Capítulo XV del Título Tercero Subtítulo Segundo Libro I del Código Penal.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 472.
 
-Si el inculpado o procesado ha perpetrado el hecho padeciendo la causa de inimputabilidad mencionada en la fracción II del artículo 17 del Código Penal, o habiéndolo perpetrado, sufriendo la causa señalada en la fracción I del propio artículo, pudiere darse cuenta del procedimiento, éste se seguirá en la forma ordinaria hasta la sentencia. Si no pudiere darse cuenta del procedimiento ordinario, aunque fuere imputable, se seguirá este procedimiento especial.
+Si el inculpado o procesado ha perpetrado el hecho padeciendo la causa de inimputabilidad mencionada en la fracción II del artículo 27 del Código Penal para el Estado Libre y Soberano de Durango, o habiéndolo perpetrado, sufriendo la causa señalada en la fracción I del propio artículo, pudiere darse cuenta del procedimiento, éste se seguirá en la forma ordinaria hasta la sentencia. Si no pudiere darse cuenta del procedimiento ordinario, aunque fuere imputable, se seguirá este procedimiento especial.
 
 ### CAPITULO II. PROCEDIMIENTO RELATIVO A LOS MENORES
 
 ###### ARTICULO 473.
 
-Los menores de siete años a quienes se impute la ejecución de un hecho delictuoso, no serán sujetos a procedimiento alguno, y la intervención del Ministerio público se limitará a recibirles declaración, si pudieren expresarse, con el objeto de investigar si en la ejecución del hecho fueron instigados, auxiliados o encubiertos por mayores.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 474.
 
-Tratándose de menores de dieciséis años, el funcionario del Ministerio Público practicará las diligencias de averiguación previa que fueren necesarias y una vez concluídas las remitirá junto con el inculpado si hubiere sido presentado a la autoridad competente para conocer del caso de acuerdo con la ley que crea los Consejos Tutelares para menores Infractores del Estado de Durango.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 475.
 
-Si en la ejecución del delito participan mayores y menores, conocerá de él por lo que respecta a los primeros, la autoridad judicial correspondiente y por lo que toca a los segundos la autoridad protectora debiéndose remitir a ambas, copias de las actuaciones.
+Si en la ejecución del delito participaran mayores y menores, conocerá de él por lo que respecta a los primeros, la autoridad judicial correspondiente y por lo que toca a los segundos los Jueces del Tribunal para Menores Infractores del Estado de Durango, debiéndose remitir a ambos, copias de las actuaciones.
 
 ###### ARTICULO 476.
 
-Si en la averiguación practicada por la autoridad protectora aparece que el menor fue instigado, auxiliado o encubierto para la ejecución del delito por uno o varios mayores, aquélla hará compulsa de las actuaciones y las remitirá al Ministerio Público.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2006)
 
 ### CAPITULO III. APERCIBIMIENTO
 
@@ -3306,3 +3314,13 @@ Se derogan todas las disposiciones que contravengan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos penales que se tramiten por delito grave ante los Tribunales del Estado, de conformidad con lo que establece el último párrafo del artículo 163 del Código de Procedimientos Penales del Estadio de Durango, antes de la vigencia de este Decreto, seguirán tramitándose conforma a dicha disposición legal.
+
+P.O. 5 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas la (sic) disposiciones legales que se opongan al presente decreto.
