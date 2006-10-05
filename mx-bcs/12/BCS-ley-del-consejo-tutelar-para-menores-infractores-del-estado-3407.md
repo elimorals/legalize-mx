@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-consejo-tutelar-para-menores-infractores-del-estado-340
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "1977-12-31"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL DECRETO POR EL QUE SE CREA LA LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 5 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -490,3 +492,15 @@ Lic. Angel César Mendoza Arámburo.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Guillermo Mercado Romero.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 5 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor 180 días hábiles posteriores a su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Durante el término de entrada en vigencia de esta Ley, se crearán los reglamentos, Instituciones, Centro de Internamiento y Tratamiento, y órganos que se requieran para la aplicación del presente decreto.
+
+TERCERO.- El Ejecutivo del Estado de Baja California Sur, contará con 180 días hábiles posteriores a la publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur de este Decreto, para crear el Reglamento Interno para el funcionamiento del Centro de Internamiento y Tratamiento para Adolescentes del Estado de Baja California Sur.
+
+CUARTO.- En tanto entre en vigor la presente Ley, permanecerán vigentes la Ley del Consejo Tutelar para Menores Infractores y la Ley de Normas Mínimas para Menores Infractores ambas del Estado de Baja California Sur; así como las Instituciones previstas en dichas normas.
