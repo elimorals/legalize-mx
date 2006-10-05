@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2005-07-24"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -107,7 +107,9 @@ Para los efectos de esta Ley, la seguridad pública es una función de carácter
 
 El Ministerio Público realizará sus funciones de acuerdo a lo establecido en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Durango, en las Leyes aplicables, reglamentos y demás disposiciones que rijan su función.
 
-La readaptación social de los delincuentes y de los menores infractores estará a cargo de los centros de prevención y readaptación social del Estado y de los consejos tutelares, y sujetarán su funcionamiento a lo dispuesto en las Leyes aplicables.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
+La readaptación social de los delincuentes y de los menores infractores estará a cargo de los Centros de Prevención y Readaptación Social del Estado y de los Centros Especializados de Readaptación y Tratamiento para Menores Infractores, respectivamente, y sujetarán su funcionamiento a lo dispuesto en las Leyes aplicables.
 
 Las medidas para auxiliar y proteger a la población en los casos de accidentes y desastres, serán coordinados por las autoridades en materia de protección civil, con base en las Leyes, reglamentos y normas que regulan esa materia.
 
@@ -1525,6 +1527,8 @@ Para efectos de lo dispuesto en el presente capítulo, la Procuraduría y los ti
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 137.
 
 El Gobierno del Estado, en coordinación con los Municipios, dispondrá de un sistema de comunicación telefónica para que los habitantes de la Entidad, en casos de emergencia, establezcan contacto en forma rápida y eficiente con las dependencias y corporaciones de seguridad pública.
@@ -1603,17 +1607,19 @@ Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciu
 
 ###### ARTÍCULO 145.
 
-La Secretaria de Seguridad será la encargada de formular, ejecutar y evaluar los programas de readaptación social, aplicar la ejecución de sentencias dictadas por los tribunales a las personas condenadas que sean puestas a disposición del Gobernador del Estado; conocer y resolver sobre los beneficios de las libertades absolutas, libertades preparatorias, libertades preliberacionales, a favor de las personas internas en los centros de reclusión; así como la vigilancia y supervisión de quienes gozan del beneficio de la libertad condicional de la condena; supervisar y vigilar la correcta ejecución de las penas impuestas por la comisión de delitos, administrar los centros de readaptación social y tramitar, por acuerdo del gobernador, las solicitudes de indultos, extradición y traslados de reos; celebrar convenios con los ayuntamientos, para la custodia de reos, sujetos a proceso judicial; asegurar y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores.
+La Secretaría de Seguridad será la encargada de formular, ejecutar y evaluar los programas de readaptación social, aplicar la ejecución de sentencias dictadas por los tribunales a las personas condenadas que sean puestas a disposición del Gobernador del Estado; conocer y resolver sobre los beneficios de las libertades absolutas, libertades preparatorias, libertades preliberaciones, a favor de las personas internas en los centros de reclusión, así como la vigilancia y supervisión de quienes gozan del beneficio de la libertad condicional de la condena; supervisar y vigilar la correcta ejecución de las penas impuestas por la comisión de delitos, administrar los centros de readaptación social y tramitar, por acuerdo del gobernador, las solicitudes de indultos, extradición y traslados de reos; celebrar convenios con los ayuntamientos, para la custodia de reos, sujetos a proceso judicial; asegurar y vigilar los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango, y cumplir los requerimientos y mandamientos de los Jueces de Ejecución para Menores Infractores.
 
 ###### ARTÍCULO 146.
 
 La Secretaria de Seguridad en materia de prevención y readaptación social tendrá a su cargo las siguientes funciones:
 
-I. Organizar, dirigir y administrar las prisiones, Centros de Observación y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2006)</small>
 
-Orientación para Menores Infractores y Centros de Readaptación Social del Estado;
+I. Organizar, dirigir y administrar las prisiones, los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango y Centros de Readaptación Social del Estado;
 
-II. Formular Reglamentos y demás disposiciones de orden interior por los que habrán de regirse las prisiones, Centros de Observación y Orientación para Menores Infractores y Centros de Reclusión, así como vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2006)</small>
+
+II. Formular Reglamentos y demás disposiciones de orden interior por los que habrá de regirse las prisiones, los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango y Centros de Reclusión, así como vigilar su cumplimiento;
 
 III. Las de distribución, traslado, custodia, vigilancia y tratamiento de toda persona que fuera privada de la libertad por orden de los Tribunales del Estado o de Autoridad competente, desde el momento de su ingreso a cualquier establecimiento a su cargo;
 
@@ -1635,11 +1641,15 @@ XI. Organizar patronatos para reos liberados;
 
 XII. Adoptar las medidas más convenientes para la prevención y represión de la delincuencia debiendo hacer a los órganos del poder públicos las sugerencias que estime convenientes;
 
-XIII. Administrar, supervisar, controlar y vigilar los Centros de Observación y Orientación para Menores Infractores;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2006)</small>
+
+XIII. Administrar, supervisar, controlar y vigilar los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango;
 
 XIV. Cuidar que las autoridades a cuya disposición se encuentran los menores infractores, ordenen la remisión inmediata de éstos al organismo o institución competente que deba encargarse de su tratamiento;
 
-XV. Realizar estudios y análisis correspondientes a fin de proponer a la Secretaria de Seguridad Pública la actualización de reglamentos y manuales de operación de los Centros de Readaptación Social y Centro de Observación y Orientación para Menores Infractores; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2006)</small>
+
+XV. Realizar estudios y análisis correspondientes a fin de actualizar los reglamentos y manuales de operación de los Centros de Readaptación Social y los Centros Especializados de Readaptación y Tratamiento para Menores Infractores en el Estado de Durango; y
 
 XVI. Las demás que le otorguen la Ley en la materia y sus reglamentos.
 
@@ -1840,3 +1850,15 @@ C. P. ISMAEL ALFREDO HERNANDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
