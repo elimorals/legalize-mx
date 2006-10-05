@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "2004-11-30"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -77,7 +77,9 @@ V. Citar, a efecto de que rindan su declaración, a los denunciantes y demás pe
 
 VI. Practicar las diligencias pertinentes para la recta y expedita administración de justicia.
 
-VII. (DEROGADA, B.O. 20 DE MAYO DE 1992)
+> <small>(REFORMADA [N. DE E., ADICIONADA], B.O. 5 DE OCTUBRE DE 2006)</small>
+
+VII. Integrar las averiguaciones previas y ejercitar acción ante los Tribunales Especializados para adolescentes, cuando así proceda, proporcionando las pruebas y promoviendo las diligencias tendientes a comprobar el delito y la probable responsabilidad social de los adolescentes y en su caso, la no responsabilidad de estos, así como la existencia, el monto y la reparación del daño ocasionado por la conducta típica cometida.
 
 VIII. Intervenir, en los casos y términos que prescriban las leyes, en la readaptación social de los delincuentes.
 
@@ -135,7 +137,9 @@ VII. Un Director de Servicios Periciales.
 
 VIII. Un Director de la Policía Ministerial.
 
-IX. Los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados y al Tribunal Superior de Justicia.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+IX. Los Agentes del Ministerio Público Investigadores, especializados en justicia para adolescentes y adscritos a los juzgados y al tribunal superior de justicia.
 
 X. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
 
@@ -463,7 +467,9 @@ Son facultades del Subprocurador:
 
 I. Suplir en sus funciones al Procurador, en los casos previstos en esta Ley.
 
-II. La supervisión de las funciones que desempeñen los Agentes del Ministerio Público Investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+II. La supervisión de las funciones que desempeñen los Agentes del Ministerio Público Investigadores, especializados en adolescentes y adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -551,7 +557,9 @@ VIII. Las demás que le señalen los reglamentos y el Procurador.
 
 ARTICULO 36 B.- Son atribuciones de los Subprocuradores Regionales:
 
-I. La supervisión de las funciones que desempeñen los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados, dentro de la adscripción que les señale el Procurador General de Justicia;
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+I. La supervisión de las funciones que desempeñen los Agentes del Ministerio Público Investigadores, especializados en justicia para adolescentes y adscritos a los Juzgados, dentro de la adscripción que les señale el Procurador General de Justicia;
 
 II. La vigilancia de las funciones que realizan las dependencias de las Direcciones de Averiguaciones Previas, Control de Procesos, Servicios Periciales y Policía Judicial, dentro de su adscripción;
 
@@ -621,11 +629,13 @@ VIII. Cumplir con las demás comisiones que les señale el Procurador.
 
 La Dirección de Averiguaciones Previas estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia, y tendrá las facultades siguientes:
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-Podrá contar con un Subdirector que el Procurador General de Justicia designe, quien ejercerá las atribuciones del Director por acuerdo del mismo, con el número de Agencias Investigadoras del Ministerio Público en todo el Estado que sean necesarias para el servicio de sus funciones, conforme lo autorice el Presupuesto de Egresos y tendrá las facultades y obligaciones siguientes:
+Podrá contar con un Subdirector que el Procurador General de Justicia designe, quien ejercerá las atribuciones del Director por acuerdo del mismo, con el número de Agencias Investigadoras del Ministerio Público y Especializadas en Adolescentes en todo el Estado que sean necesarias para el servicio de sus funciones, conforme lo autorice el presupuesto de egresos y tendrá las facultades y obligaciones siguientes:
 
-I. Practicar directamente o a través de las Agencias Investigadoras, las averiguaciones previas correspondientes a delitos del Fuero Común y en su caso, ejercitar la acción penal.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+I. Practicar directamente o a través de las Agencias Investigadoras, las averiguaciones previas correspondientes a delitos del fuero común y en su caso, ejercitar la acción penal, así como la integración de las averiguaciones previas en contra de adolescentes en conflicto con la ley penal.
 
 II. Recibir las querellas o denuncias por los delitos y violaciones a las Leyes de interés público de la competencia de los tribunales del Fuero Común.
 
@@ -673,7 +683,9 @@ ARTICULO 38 C.- (DEROGADO, B.O. 10 DE AGOSTO DE 1997)
 
 ARTICULO 38 D.- La Dirección de Control de Procesos estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia y tendrá las siguientes facultades y obligaciones:
 
-I. Vigilar e intervenir en todos los negocios de la competencia de los Tribunales del Fuero Común del Estado, siempre que en éstos, conforme a la ley deba ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las leyes.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+
+I. Vigilar e intervenir en todos los negocios de la competencia de los Tribunales del fuero común y Especializados en Adolescentes del Estado, siempre que en estos, conforme a la ley deba ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las leyes.
 
 II. Someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
 
@@ -693,9 +705,11 @@ VI. Supervisar las funciones que desempeñen los Agentes del Ministerio Público
 
 VII. Las demás que le atribuyan las leyes, los reglamentos, el Procurador General de Justicia y el Subprocurador respectivo.
 
-> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-ARTICULO 38 E.- La Dirección de Control de Procesos, para el desempeño de sus funciones contará con los subdirectores, personal y el número de Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común que sean necesarios, conforme lo autorice el presupuesto.
+ARTICULO 38 E.- La Dirección de Control de Procesos, para el desempeño de sus funciones contará con los Subdirectores, personal y el número de Agentes del Ministerio Público adscritos a los Tribunales del fuero común y especializados en adolescentes que sean necesarios, conforme lo autorice el presupuesto.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 1997)</small>
 
 Será facultad y atribución de los subdirectores, suplir en sus funciones al Director en los casos previstos por esta ley y los reglamentos.
 
@@ -1068,3 +1082,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 B.O. 30 DE NOVIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 5 DE OCTUBRE DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
