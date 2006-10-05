@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2005-05-19"
+last_updated: "2006-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1093,7 +1093,9 @@ XIII. Supervisar y vigilar la correcta ejecución de las penas impuestas por la 
 
 XIV. Celebrar convenios con los ayuntamientos, para la custodia de reos, sujetos a proceso judicial;
 
-XV. Asegurar y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2006)</small>
+
+XV. Ejecutar y vigilar las medidas impuestas por el Tribunal de Menores Infractores del Estado de Durango, de conformidad con las disposiciones del Código de Justicia para menores Infractores del Estado de Durango; organizar, dirigir, administrar, supervisar, controlar y vigilar los Centros Especializados de Readaptación y Tratamiento para Menores Infractores del Estado de Durango; Cumplimentar los requerimientos y mandamientos de los Jueces de Ejecución de Menores, y organizar y dirigir las actividades de apoyo a los liberados;
 
 XVI. Diseñar, proponer y en su caso establecer programas tendientes a prevenir el pandillerismo, el alcoholismo y la farmacodependencia, en coordinación con las dependencias federales, estatales y municipales competentes;
 
@@ -1680,3 +1682,13 @@ La regulación respecto a la constitución, organización, funcionamiento y cont
 P.O. 19 DE MAYO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 5 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas la sus disposiciones legales que se opongan al presente decreto.
