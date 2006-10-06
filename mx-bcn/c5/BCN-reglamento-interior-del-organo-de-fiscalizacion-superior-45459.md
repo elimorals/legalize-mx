@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-organo-de-fiscalizacion-superior-45459"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2005-07-08"
+last_updated: "2006-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de julio de 2005.
 
@@ -67,15 +67,17 @@ XI.- Dirección de Auditoría Tijuana.- Es la Dirección de Auditoría que tiene
 
 XII.- Dirección de Auditoría Ensenada.- Es la Dirección de Auditoría que tiene como ámbito territorial de competencia las entidades fiscalizables que tengan su domicilio dentro del Municipio de Ensenada.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 4.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Órgano de Fiscalización contará con los servidores públicos necesarios y la siguiente estructura:
 
-I.- AUDITOR SUPERIOR DE FISCALIZACION.
+I.- AUDITOR SUPERIOR DE FISCALIZACIÓN.
 
-II.- DIRECCION GENERAL DE AUDITORIA.
+II.- DIRECCIÓN GENERAL DE AUDITORÍA.
 
-III.- DIRECCION DE AUDITORÍA MEXICALI.
+III.- DIRECCIÓN DE AUDITORÍA MEXICALI.
 
 1. Departamento de Auditoría Presupuestal y Programática.
 
@@ -87,7 +89,7 @@ III.- DIRECCION DE AUDITORÍA MEXICALI.
 
 5. Departamento de Auditoría a Obra Pública.
 
-IV.- DIRECCION DE AUDITORIA TIJUANA.
+IV.- DIRECCIÓN DE AUDITORÍA TIJUANA.
 
 1. Departamento de Auditoría Presupuestal y Programática.
 
@@ -97,33 +99,39 @@ IV.- DIRECCION DE AUDITORIA TIJUANA.
 
 4.- Departamento de Auditoría a Obra Pública.
 
-V.- DIRECCION DE AUDITORIA ENSENADA.
+V.- DIRECCIÓN DE AUDITORÍA ENSENADA.
 
 1. Departamento de Auditoría Financiera y Presupuestal.
 
 2. Departamento de Auditoría a Obra Pública.
 
-VI. DIRECCION DE NORMATIVIDAD Y MEJORA CONTINUA.
+VI. DIRECCIÓN DE NORMATIVIDAD Y MEJORA CONTINUA.
 
 1. Departamento de Normatividad y Control de Procesos de Auditoría.
 
 2. Departamento de Mejora Continua en los procesos de Auditoría.
 
-VII.- UNIDAD GENERAL DE ADMINISTRACION.
+VII.- UNIDAD GENERAL DE ADMINISTRACIÓN.
 
-1. Departamento de Recursos Humanos y Materiales.
+1. Departamento de Recursos Humanos.
 
-2. Departamento de Planeación y Finanzas.
+2. Departamento de Recursos Materiales.
 
-3. Departamento de Informática.
+3. Departamento de Planeación y Finanzas.
 
-VIII.- UNIDAD DE ASUNTOS JURIDICOS.
+4. Departamento de Informática.
+
+VIII.- UNIDAD DE ASUNTOS JURÍDICOS.
 
 IX.- DEPARTAMENTO DE ENLACE LEGISLATIVO.
 
 ###### ARTÍCULO 5.
 
 Por cada Dirección habrá un Director, por cada Unidad habrá un Titular, por cada Departamento habrá un Jefe así como los demás servidores públicos que las necesidades relativas a las funciones a realizar se requieran, siempre que las plazas estén contempladas en el Presupuesto de Egresos del Órgano de Fiscalización; todo el personal deberá ser nombrado por el Auditor Superior, mismo que ejercerá las funciones y asumirá las responsabilidades establecidas en la Ley, en los Manuales de Organización y Procedimientos y en el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+A falta de nombramiento de un Director, de un Titular de Unidad o de un Jefe de Departamento, el Auditor Superior designará a quien tendrá a su cargo la coordinación y atención de los asuntos de que se trate hasta en tanto se realice el nombramiento correspondiente.
 
 ###### ARTÍCULO 6.
 
@@ -281,6 +289,8 @@ La Dirección de Auditoría Tijuana estará adscrita al Director General de Audi
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA UNIDAD GENERAL DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 18.
 
 La Dirección de Auditoría Ensenada estará adscrita al Director General de Auditoría y tendrá los siguientes Departamentos a su cargo:
@@ -411,11 +421,15 @@ Para ser Director de la Dirección de Normatividad y Mejora Continua, se requier
 
 La Unidad General de Administración estará adscrita al Auditor Superior y tendrá a su cargo los siguientes Departamentos:
 
-1. Departamento de Recursos Humanos.
+1.- Departamento de Recursos Humanos.
 
-2. Departamento de Planeación y Finanzas.
+2.- Departamento de Recursos Materiales.
 
-3. Departamento de Informática.
+3.- Departamento de Planeación y Finanzas.
+
+4.- Departamento de Informática.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ### CAPÍTULO NOVENO
 
@@ -439,51 +453,57 @@ VI.- Desempeñar las comisiones y requerimientos que el Auditor Superior le enco
 
 VII.- Elaborar su programa anual de trabajo donde se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
 
-VIII.- Elaborar anualmente en coordinación con el Director General de Auditoría, Directores y Unidades, el anteproyecto de presupuesto de egresos así como los programas y subprogramas del Órgano de Fiscalización para someterlo a la debida autorización del Auditor Superior;
+VIII.- Elaborar anualmente en coordinación con el Director General de Auditoría, Directores y Titulares de Unidades, el anteproyecto de presupuesto de egresos así como los programas y subprogramas del órgano de Fiscalización para someterlo a la debida autorización del Auditor Superior;
 
-IX.- Dar cumplimiento cabal de las obligaciones fiscales, laborales, administrativas y demás que correspondan legalmente al Órgano de Fiscalización;
+IX.- Dar cumplimiento cabal de las obligaciones fiscales, laborales, administrativas y demás que correspondan legalmente al órgano de Fiscalización;
 
-X.- Gestionar, percibir y controlar los recursos financieros correspondientes al Presupuesto autorizado del Órgano de Fiscalización;
+X.- Gestionar, percibir y controlar los recursos financieros correspondientes al Presupuesto autorizado del órgano de Fiscalización;
 
-XI.- Implementar, un sistema de contabilidad que permita registrar las operaciones del Órgano de Fiscalización de conformidad con la normatividad aplicable, y elaborar mensualmente los informes financieros del mismo, para someterlos a la autorización del Auditor Superior;
+XI.- Implementar, un sistema de contabilidad que permita registrar las operaciones del órgano de Fiscalización de conformidad con la normatividad aplicable, y elaborar mensualmente los informes financieros del mismo, para someterlos a la autorización del Auditor Superior;
 
 XII.- Implementar y vigilar la operación del Sistema de Control Presupuestal y Programático del Órgano de Fiscalización;
 
 XIII.- Informar mensualmente al Auditor Superior sobre la aplicación del presupuesto aprobado, dentro de los diez días siguientes al que corresponda cada período;
 
-XIV.- Informar trimestralmente al Auditor Superior sobre el avance programático del Órgano de Fiscalización dentro de los quince días siguientes al que corresponde cada período;
+XIV.- Informar trimestralmente al Auditor Superior sobre el avance programático del órgano de Fiscalización dentro de los quince días siguientes al que corresponde cada período;
 
-XV.- Administrar los recursos humanos, materiales y financieros del Órgano de Fiscalización de acuerdo con las disposiciones legales, administrativas y reglamentarias;
+XV.- Administrar los recursos humanos, materiales y financieros del órgano de Fiscalización de acuerdo con las disposiciones legales, administrativas y reglamentarias;
 
-XVI.- Participar en la formulación en su caso, en los convenios laborales que se suscriban en relación con el personal del Órgano de Fiscalización Superior;
+XVI.- Participar en la formulación en su caso, en los convenios laborales que se suscriban en relación con el personal del órgano de Fiscalización Superior;
 
 XVII.- Valorar y someter a la aprobación del Auditor Superior, los nombramientos del personal, así como controlar altas y bajas de los mismos y vigilar la actualización de la plantilla y el archivo del recurso humano;
 
 XVIII.- Coordinarse con las diversas áreas del Órgano de Fiscalización para la elaboración del programa anual de capacitación para someterlo a consideración del Auditor Superior y una vez aprobado, ejecutarlo y reportar periódicamente sobre su avance;
 
-XIX.- Proponer al Auditor Superior los sistemas de evaluación y motivación para los Servidores Públicos del Órgano de Fiscalización, así como otorgar los premios y estímulos de desempeño que prevean las políticas administrativas al respecto;
+XIX.- Proponer al Auditor Superior los sistemas de evaluación y motivación para los Servidores Públicos del órgano de Fiscalización, así como otorgar los premios y estímulos de desempeño que prevean las políticas administrativas al respecto;
 
-XX.- Adquirir y resguardar los activos, bienes y servicios que requiera el Órgano de Fiscalización y suministrar los recursos materiales que soliciten sus áreas, con sujeción a los presupuestos y a las disposiciones legales aplicables;
+XX.- Someter a la consideración del Auditor Superior los programas de vacaciones del personal, procurando apegarse a la normatividad interna vigente, escuchando a los Directores y Titulares de Unidades, cuidando no afectar sus programas de actividades;
 
-XXI.- Implementar y vigilar que se lleven a cabo los mecanismos y procedimientos que sean necesarios para salvaguardar los bienes del Órgano de Fiscalización;
+XXI.- Coordinar, supervisar y validar la formulación y pago de la nómina del personal, así como los pagos por estímulos al desempeño, finiquitos y de cualquier otra percepción a favor de los funcionarios y empleados del Órgano de Fiscalización;
 
-XXII.- Gestionar los servicios de apoyo administrativo, de equipo, herramientas entre otras, que requieran las áreas del Órgano de Fiscalización para el desempeño de sus funciones;
+XXII.- Adquirir y resguardar los activos, bienes y servicios que requiera el Órgano de Fiscalización y suministrar los recursos materiales que soliciten sus áreas, con sujeción a los presupuestos y a las disposiciones legales aplicables;
 
-XXIII.-Verificar que se cumplan los mecanismos adecuados para el control de la correspondencia oficial y los archivos de Oficialía de Partes;
+XXIII.- Implementar y vigilar que se lleven a cabo los mecanismos y procedimientos que sean necesarios para salvaguardar los bienes del Órgano de Fiscalización;
 
-XXIV.-Implementar y vigilar la operación de los sistemas de mantenimiento preventivo y correctivo para garantizar el funcionamiento adecuado de los bienes muebles e inmuebles del Órgano de Fiscalización;
+XXIV.- Gestionar los servicios de apoyo administrativo, de equipo, herramientas entre otras, que requieran las áreas del Órgano de Fiscalización para el desempeño de sus funciones;
 
-XXV.- Establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones y documentación del Órgano de Fiscalización, de acuerdo a las normas aprobadas para su operación, desarrollo y vigilancia;
+XXV.- Verificar que se cumplan los mecanismos adecuados para el control de la correspondencia oficial y los archivos de Oficialía de Partes;
 
-XXVI.-Proponer al Auditor Superior, las políticas y lineamientos para la baja de documentos justificatorios y comprobatorios, así como papeles de trabajo y otros documentos que genere el Órgano de Fiscalización para efectos de destrucción, guarda y custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
+XXVI.- Implementar y vigilar la operación de los sistemas de mantenimiento preventivo y correctivo para garantizar el funcionamiento adecuado de los bienes muebles e inmuebles del Órgano de Fiscalización;
 
-XXVII.- Realizar y vigilar la actualización del diagnóstico de las necesidades en materia de informática de las áreas del Órgano de Fiscalización;
+XXVII.- Establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones y documentación del Órgano de Fiscalización, de acuerdo a las normas aprobadas para su operación, desarrollo y vigilancia;
 
-XXVIII.- Establecer las normas y emitir las políticas en materia de informática y comunicaciones del Órgano de Fiscalización, previa aprobación del Auditor Superior;
+XXVIII.- Proponer al Auditor Superior, las políticas y lineamientos para la baja de documentos justificatorios y comprobatorios, así como papeles de trabajo y otros documentos que genere el Órgano de Fiscalización para efectos de destrucción, guarda y custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
 
-XXIX.-Revisar la elaboración de los proyectos de estudios de factibilidad para optimizar la plataforma tecnológica del Órgano de Fiscalización, mediante la adquisición, ampliación o sustitución de los recursos informáticos, y
+XXIX.- Realizar y vigilar la actualización del diagnóstico de las necesidades en materia de informática de las áreas del Órgano de Fiscalización;
 
-XXX.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio sea necesario.
+XXX.- Establecer las normas y emitir las políticas en materia de informática y comunicaciones del Órgano de Fiscalización, previa aprobación del Auditor Superior;
+
+XXXI.- Revisar la elaboración de los proyectos de estudios de factibilidad para optimizar la plataforma tecnológica del Órgano de Fiscalización, mediante la adquisición, ampliación o sustitución de los recursos informáticos, y
+
+XXXII.- Administrar y mantener actualizado el portal de Internet del Órgano de Fiscalización, contando con las atribuciones funcionales necesarias para solicitar lo conducente a las Direcciones y Unidades que estén obligadas a proporcionar información con tales propósitos; y
+
+XXXIII.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio sea necesario.
 
 ###### ARTÍCULO 27.
 
@@ -845,19 +865,23 @@ X.- Cualquier otra función inherente a su cargo que le sea requerida o encomend
 
 Para ser Jefe del Departamento de Informática, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI del presente Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer Título de Ingeniero o Licenciado en Sistemas Computacionales, en Informática o Carreras Profesionales afines, y acreditar experiencia en análisis y programación de sistemas computacionales del sector gubernamental o su equivalencia en la iniciativa privada y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
+> <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACION, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 CAPÍTULO DECIMOSEXTO
 
-DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE RECURSOS HUMANOS Y MATERIALES
+DE LAS ATRIBUCIONES DEL DEPARTAMENTO DE RECURSOS HUMANOS Y DE RECURSOS MATERIALES
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 49.
 
-El Departamento de Recursos Humanos y Materiales estará adscrito a la Unidad General de Administración y tendrá a su cargo el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
+El Departamento de Recursos Humanos estará adscrito a la Unidad General de Administración y tendrá a su cargo el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
 I.- Llevar a cabo el control administrativo de los recursos humanos de acuerdo con las disposiciones legales y reglamentarias, así como las políticas y normas dictadas por el Auditor Superior;
 
-II.- Revisar la elaboración de los nombramientos del personal a partir del nivel de Director General de Auditoría y demás personal del órgano de Fiscalización, así como los movimientos y los casos de terminación de los efectos de dichos nombramientos, de acuerdo con las disposiciones jurídicas aplicables;
+II.- Revisar la elaboración de los nombramientos del personal a partir del nivel de Director General de Auditoría y demás personal del Órgano de Fiscalización, así como los movimientos y los casos de terminación de los efectos de dichos nombramientos, de acuerdo con las disposiciones jurídicas aplicables;
 
-III.- Revisar la elaboración de las nóminas para el pago del personal del Órgano de Fiscalización, de acuerdo a las plazas autorizadas por el Auditor Superior, verificando que se realicen las retenciones que legalmente procedan, y someterlas a la autorización de su jefe inmediato;
+III.- Elaborar la nómina para el pago del personal del Órgano de Fiscalización, de acuerdo a las plazas autorizadas por el Auditor Superior, verificando que se realicen las retenciones que legalmente procedan, y someterlas a la autorización de su jefe inmediato;
 
 IV.- Vigilar la actualización de los expedientes del personal del Órgano de Fiscalización;
 
@@ -875,35 +899,55 @@ X.- Someter a consideración de su superior inmediato, la contratación de expos
 
 XI.- Sugerir y llevar a cabo la implementación de medidas de seguridad del Órgano de Fiscalización, para salvaguardar la integridad del personal;
 
-XII.- Implementar los controles adecuados para el debido cumplimiento de las labores de limpieza y seguridad del Órgano de Fiscalización;
+XII.- Someter, a consideración de la Unidad General de Administración, los programas de vacaciones del personal, procurando apegarse a la normatividad interna vigente, cuidando no afectar sus programas de actividades;
 
-XIII.- Adquirir los bienes y servicios que requiera el Órgano de Fiscalización y suministrar los recursos materiales que soliciten sus diferentes áreas, con sujeción a las disposiciones legales aplicables;
+XIII.- Valorar y someter a la aprobación de la Unidad General de Administración, los nombramientos del personal, así como controlar altas y bajas de los mismos y vigilar la actualización de la plantilla y el archivo del recurso humano;
 
-XIV.- Implementar y mantener los mecanismos y procedimientos que sean necesarios para salvaguardar los bienes del Órgano de Fiscalización y en general de su patrimonio;
+XIV.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor.
 
-XV.- Proporcionar los servicios de apoyo administrativo que requieran las diferentes áreas del Órgano de Fiscalización;
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-XVI.- Implementar y operar los sistemas de mantenimiento preventivo y correctivo para garantizar el funcionamiento adecuado de los bienes muebles e inmuebles del Órgano de Fiscalización;
+###### ARTÍCULO 49
 
-XVII.- Implementar políticas y lineamientos para el debido control y funcionamiento del Archivo de Oficia lía de Partes, así como el personal de Seguridad a su cargo;
+BIS.- Para ser Jefe del Departamento de Recursos Humanos, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI de éste Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer Título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y acreditar experiencia en cargos relacionados con la materia y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-XVIII.- Recibir, registrar y archivar el Periódico Oficial del Estado y el Diario Oficial de la Federación;
-
-XIX.- Llevar un control de las Leyes, Decretos, Reglamentos, Acuerdos y de todas las disposiciones legales, así como del préstamo de los mismos al personal del Órgano de Fiscalización;
-
-XX.- Controlar y mantener actualizado el acervo bibliotecario del Órgano de Fiscalización;
-
-XXI.- Llevar un adecuado control de inventarios del Órgano de Fiscalización y la actualización de los mismos, así como el control de papelería y otros;
-
-XXII.- Llevar el control de los vehículos oficiales del Órgano de Fiscalización, cuidando que se dé el adecuado mantenimiento a los mismos, estar actualizados en cuanto a las pólizas de garantías, así como regular el correcto uso de éstos;
-
-XXIII.- Llevar el control de los resguardos de los diversos bienes del Órgano de Fiscalización, y mantener actualizados los mismos, y
-
-XXIV.-Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 50.
 
-Para ser Jefe del Departamento de Recursos Humanos y Materiales, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI de éste Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer Título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y acreditar experiencia en cargos relacionados con la materia y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+El Departamento de Recursos Materiales estará adscrito a la Unidad General de Administración y tendrá a su cargo el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
+
+I.- Implementar los controles adecuados para el debido cumplimiento de las labores de limpieza y seguridad del Órgano de Fiscalización;
+
+II.- Adquirir los bienes y servicios que requiera el Órgano de Fiscalización y suministrar los recursos materiales que soliciten sus diferentes áreas, con sujeción a las disposiciones legales aplicables;
+
+III.- Implementar y mantener los mecanismos, y procedimientos que sean necesarios para salvaguardar los bienes del Órgano de Fiscalización y en general de su patrimonio;
+
+IV.- Proporcionar los servicios de apoyo administrativo que requieran las diferentes áreas del Órgano de Fiscalización;
+
+V.- Implementar y operar los sistemas de mantenimiento preventivo y correctivo para garantizar el funcionamiento adecuado de los bienes muebles e inmuebles del Órgano de Fiscalización;
+
+VI.- Implementar políticas y lineamientos para el debido control y funcionamiento del Archivo de Oficialía de Partes, así como el personal de Seguridad a su cargo;
+
+VII.- Recibir, registrar y archivar el Periódico Oficial del Estado y el Diario Oficial de la Federación;
+
+VIII.- Llevar un control de las Leyes, Decretos, Reglamentos, Acuerdos y de todas las disposiciones legales, así como del préstamo de los mismos al personal del Órgano de Fiscalización;
+
+IX.- Controlar y mantener actualizado el acervo bibliotecario del Órgano de Fiscalización;
+
+X.- Llevar un adecuado control de inventarios del Órgano de Fiscalización y la actualización de los mismos, así como el control de papelería y otros;
+
+XI.- Llevar el control de los vehículos oficiales del Órgano de Fiscalización, cuidando que se dé el adecuado mantenimiento a los mismos, estar actualizados en cuanto a las pólizas de garantías y de seguros, así como regular el correcto uso de éstos;
+
+XII.- Llevar el control de los resguardos de los diversos bienes del Órgano de Fiscalización, y mantener actualizados los mismos, y
+
+XIII.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO 50
+
+BIS.- Para ser Jefe del Departamento de Recursos Materiales, se requiere además de los requisitos contenidos en el artículo 14 fracciones I y VI de éste Reglamento, tener cuando menos 30 años cumplidos el día de la designación, poseer Título de alguna de las siguientes Licenciaturas: Recursos Humanos, Contaduría Pública, Administración de Empresas, Administración Pública o Licenciaturas afines, y acreditar experiencia en cargos relacionados con la materia y ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 CAPÍTULO DECIMOSÉPTIMO
 
@@ -1002,3 +1046,23 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.
 AUDITOR SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE BAJA CALIFORNIA,
 
 DR. VÍCTOR ADÁN LÓPEZ CAMACHO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas deberán publicarse en el Periódico Oficial del Estado y entrarán en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones administrativas en lo que se opongan a las presentes Reformas.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren pendientes al entrar en vigor las presentes Reformas y que deban pasar de una Dirección o de un Departamento a otro u otros, continuarán su trámite y serán resueltos por aquel o aquellos a quienes se les atribuye la competencia en las presentes Reformas, debiendo formularse el acta de entrega-recepción correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Una vez publicadas las presentes Reformas en los términos del Artículo Primero Transitorio anterior, el Auditor Superior contará con un plazo de un mes de calendario para conformar la estructura del Órgano de Fiscalización conforme a lo establecido en las mismas.
