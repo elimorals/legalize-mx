@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procesos-electorales-del-estado-de-20104
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2004-12-10"
+last_updated: "2006-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2006.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 30 de octubre de 2000.
 
@@ -113,9 +113,13 @@ Ejercerá el derecho de voto, en los términos de la Constitución Política de 
 
 I. Tener vecindad en el Estado, con residencia efectiva de por lo menos seis meses;
 
-II. Estar inscrito en el Padrón Estatal Electoral, y aparecer en el Listado Nominal de Electores con Imagen, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-III. Tener Credencial Estatal de Elector.
+II.- Estar inscrito en el Padrón Electoral, y aparecer en el Listado Nominal de Electores con fotografía, y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+III.- Tener Credencial de Elector.
 
 ###### ARTÍCULO 11.
 
@@ -149,7 +153,9 @@ b) Motivos de su participación, y
 
 c) Manifestación expresa de conducirse conforme a los principios de imparcialidad y objetividad.
 
-A la solicitud se deberá anexar fotocopia de la Credencial Estatal de Elector, y
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+A la solicitud se deberá anexar fotocopia de la Credencial de Elector, y
 
 III. El Consejo Estatal Electoral, otorgará el registro para participar como observador electoral, a quien habiendo satisfecho lo exigido en las fracciones anteriores, cumpla además con los siguientes requisitos:
 
@@ -197,9 +203,11 @@ El ciudadano acreditado como observador electoral, podrá solicitar la informaci
 
 El Consejo Estatal Electoral determinará los plazos durante los cuales los observadores electorales deberán presentarle informes sobre el desarrollo de los actos a que se refiere el Artículo 14 de esta Ley. En ningún caso los informes, opiniones o conclusiones que emitan tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 17.
 
-Los ciudadanos mexicanos no residentes en el Estado, que deseen participar como observadores en las elecciones de la Entidad, deberán obtener su registro en los términos de este Capítulo, previo cumplimiento de los requisitos señalados, exceptuándose el de residencia y el estar inscrito en el Padrón Estatal Electoral, presentando solicitud por escrito ante el Consejo Estatal Electoral, con copia fotostática anexa de la Credencial Federal de Elector con Fotografía; de aprobarse su registro, serán denominados observadores electorales no residentes y estarán sujetos a los mismos derechos y obligaciones que para los observadores electorales en el Estado fija la presente Ley.
+Los ciudadanos mexicanos no residentes en el Estado, que deseen participar como observadores en las elecciones de la Entidad, deberán obtener su registro en los términos de este Capítulo, previo cumplimiento de los requisitos señalados, exceptuándose el de residencia, presentando solicitud por escrito ante el Consejo Estatal Electoral; de aprobarse su registro, serán denominados observadores electorales no residentes y estarán sujetos a los mismos derechos y obligaciones que para los observadores electorales en el Estado fija la presente Ley.
 
 ### CAPÍTULO TERCERO. DE LAS OBLIGACIONES
 
@@ -207,9 +215,13 @@ Los ciudadanos mexicanos no residentes en el Estado, que deseen participar como 
 
 Son obligaciones de los ciudadanos residentes en el Estado:
 
-I. Inscribirse en el Padrón Estatal Electoral y obtener su Credencial Estatal de Elector;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. Notificar a la Dirección General del Registro Estatal de Electores los cambios de domicilio que realicen, y de cualquier error que contenga la Credencial Estatal de Elector;
+I. Inscribirse en el Padrón Electoral y obtener su Credencial de Elector;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Notificar al Instituto Federal Electoral los cambios de domicilio que realicen, y de cualquier error que contenga la Credencial de Elector;
 
 III. Votar en las elecciones en la casilla de la sección electoral que corresponda a su domicilio, salvo las excepciones que establece esta Ley;
 
@@ -565,7 +577,9 @@ VIII. Las causas de disolución como partido político.
 
 Para que una asociación obtenga su registro como partido político estatal, es necesario que reúna los siguientes requisitos:
 
-I. Contar con un mínimo de dos mil quinientos afiliados en todo el territorio del estado. De estos, deberán de corresponder un mínimo de cuatrocientos afiliados por municipio, en por los menos tres de ellos. La afiliación se hará mediante solicitud individual original de los ciudadanos residentes en el Municipio correspondiente, en las que conste el nombre completo, apellidos, domicilio, ocupación, clave y número de la Credencial Estatal de Elector y la firma de cada afiliado o huella digital, en su caso;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+I. Contar con un mínimo de dos mil quinientos afiliados en todo el territorio del estado. De estos, deberán de corresponder un mínimo de cuatrocientos afiliados por municipio, en por los menos tres de ellos. La afiliación se hará mediante solicitud individual original de los ciudadanos residentes en el Municipio correspondiente, en las que conste el nombre completo, apellidos, domicilio, ocupación, clave y número de la Credencial de Elector y la firma de cada afiliado o huella digital, en su caso;
 
 II. Celebrar una asamblea en cada municipio, bajo el siguiente orden del día:
 
@@ -621,7 +635,9 @@ Las asambleas a que se refiere el Artículo 44 de esta Ley, deberán realizarse 
 
 I. Fueron exhibidas las solicitudes individuales originales de afiliación de los miembros residentes en el Municipio correspondiente;
 
-II. Concurrieron a las asambleas cuando menos el setenta y cinco por ciento de los afiliados o delegados en su caso, habiéndose identificado con su Credencial Estatal de Elector, a efecto de acreditar que son ciudadanos residentes del Municipio y que están inscritos en el Padrón Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Concurrieron a las asambleas cuando menos el setenta y cinco por ciento de los afiliados o delegados en su caso, habiéndose identificado con su Credencial de Elector, a efecto de acreditar que son ciudadanos residentes del Municipio y que están inscritos en el Padrón Electoral;
 
 III. Con los ciudadanos asistentes quedaron formuladas las listas de afiliados;
 
@@ -831,11 +847,13 @@ Financiamiento público estatal, es aquel que el Estado otorga a los partidos po
 
 El monto total del financiamiento público estatal se divide en:
 
-I. Financiamiento permanente: es aquel que se determina cada año y cuyo monto es igual al cuarenta y cinco por ciento de la cantidad que resulte de multiplicar el número de electores inscritos en el Padrón Estatal Electoral al primero de enero del año que corresponda, por el veinte por ciento de un salario mínimo diario general vigente en la entidad, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+I. Financiamiento permanente: es aquél que se determina cada año y cuyo monto es igual al cuarenta y cinco por ciento de la cantidad que resulte de multiplicar el número de electores inscritos en el Padrón Electoral al primero de enero del año que corresponda, por el veinte por ciento de un salario mínimo diario general vigente en la entidad, y
 
-II. Financiamiento de campaña: Es aquel que se determina por cada proceso electoral y cuyo monto equivale al ochenta por ciento del resultado que se obtenga de multiplicar el veinte por ciento de un salario mínimo diario general vigente en la entidad, por cada ciudadano inscrito en el Padrón Estatal Electoral, al primero de enero del año de la elección, más el resultado que se obtenga de la operación señalada en la fracción III del Artículo 69 de esta Ley.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Financiamiento de campaña: Es aquél que se determina por cada proceso electoral y cuyo monto equivale al ochenta por ciento del resultado que se obtenga de multiplicar el veinte por ciento de un salario mínimo diario general vigente en la entidad, por cada ciudadano inscrito en el Padrón Electoral, al primero de enero del año de la elección, más el resultado que se obtenga de la operación señalada en la fracción III del Artículo 69 de esta Ley.
 
 ###### ARTÍCULO 68.
 
@@ -887,7 +905,9 @@ II. Determinará el monto que le corresponde a cada partido político, de confor
 
 III. Entregará a cada partido político, la cantidad que le corresponda de cada elección, conforme al inciso a), de la fracción IV, del Artículo 69 de esta Ley;
 
-IV. A los resultados obtenidos en la fracción II, de este Artículo, se le restará la entrega efectuada conforme a la fracción anterior, las diferencias obtenidas, se dividirán cada una de ellas entre el número de electores inscritos en el Padrón Estatal Electoral, al primero de enero del año de la elección. Esta operación se efectuará por cada partido político, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+IV. A los resultados obtenidos en la fracción II, de este Artículo, se le restará la entrega efectuada conforme a la fracción anterior, las diferencias obtenidas, se dividirán cada una de ellas entre el número de electores inscritos en el Padrón Electoral, al primero de enero del año de la elección. Esta operación se efectuará por cada partido político, y
 
 V. A efecto de realizar la entrega a que se refieren los incisos b), c) y d), de la fracción IV del Artículo 69 de esta Ley, se efectuarán las siguientes operaciones, para cada uno de los partidos políticos:
 
@@ -1071,9 +1091,11 @@ c) Las consideraciones y propuestas del punto de Acuerdo.
 
 Recibido el dictamen por el Consejero Presidente, el Consejo Estatal Electoral, contará con un plazo de quince días para resolver lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 84.
 
-Para efectos de la revisión de los informes de gastos de precampañas de aspirantes a candidatos, de campaña y anuales de los partidos políticos, la Comisión podrá requerir al titular del órgano señalado en el Artículo 72 de esta Ley, la documentación necesaria para comprobar la veracidad de lo reportado en los informes.
+Para efectos de la revisión de los informes de gastos de precampañas de precandidatos, de campaña y anuales de los partidos políticos, la Comisión podrá requerir al titular del órgano señalado en el Artículo 72 de esta Ley, la documentación necesaria para comprobar la veracidad de lo reportado en los informes.
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -1155,7 +1177,9 @@ VI. Contar con domicilio social propio y permanente, comunicándolo al Consejo E
 
 VII. Registrar ante el Consejo Estatal Electoral la plataforma electoral aprobada en su convención o asamblea, y publicarla y difundirla en la elección de que se trate;
 
-VIII. Registrar a sus candidatos a puestos de elección popular, ante los órganos electorales competentes;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+VIII. Registrar a sus precandidatos y candidatos a puestos de elección popular, ante los órganos electorales competentes en los términos de esta Ley;
 
 IX. Formar parte de los Consejos Estatal y Distritales Electorales;
 
@@ -1369,7 +1393,9 @@ I. Contribuir al desarrollo de la vida democrática en el Estado;
 
 II. Fortalecer el régimen de partidos políticos;
 
-III. Integrar el Registro Estatal de Electores;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+III. Administrar el Registro Estatal de Electores;
 
 IV. Asegurar a los ciudadanos el ejercicio de los derechos político electorales y el cumplimiento de sus obligaciones;
 
@@ -1431,7 +1457,9 @@ El Secretario Fedatario será nombrado por la mayoría calificada del Consejo Es
 
 Para ser Consejero Ciudadano del Consejo Estatal Electoral, se deberán reunir los siguientes requisitos:
 
-I. Ser mexicano por nacimiento en pleno goce de sus derechos político electorales y civiles, estar inscrito en el Padrón Estatal Electoral y contar con Credencial Estatal de Elector;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+I. Ser mexicano por nacimiento en pleno goce de sus derechos político electorales y civiles, estar inscrito en el Padrón Electoral y contar con Credencial de Elector;
 
 II. Tener treinta años de edad o más al día de su designación, y menor de sesenta y cinco;
 
@@ -1547,7 +1575,9 @@ IV. Designar a los Consejeros Ciudadanos Numerarios y Supernumerarios de los Con
 
 V. Designar al Director General del Instituto Estatal Electoral y al Director General del Registro Estatal de Electores, por el voto de las dos terceras partes de sus integrantes con derecho a ello, a propuesta del Consejero Presidente;
 
-VI. Designar a los Directores de Organización Electoral, de Capacitación Electoral y Educación Cívica, de Prerrogativas y Partidos Políticos, y de Administración de la Dirección General del Instituto Estatal Electoral; así como a los Directores de Informática, de Operación y de Administración de la Dirección General del Registro Estatal de Electores, por el voto de las dos terceras partes de sus integrantes y conforme a la propuesta que presenten los Directores Generales respectivos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+VI. Designar a los Directores de Organización Electoral, de Capacitación Electoral y Educación Cívica, de Prerrogativas y Partidos Políticos, y de Administración de la Dirección General del instituto Estatal Electoral, por el voto de las dos terceras partes de sus integrantes y conforme a la propuesta que presente el Director General;
 
 VII. Designar por el voto de las dos terceras partes de sus integrantes con derecho a ello, al Secretario Fedatario del Consejo Estatal Electoral, conforme a la propuesta del Consejero Presidente;
 
@@ -1567,13 +1597,19 @@ XIV. Dictar los lineamientos relativos al Registro Estatal de Electores;
 
 XV. Ordenar y aprobar en su caso, el proyecto que formule la Dirección General del Registro Estatal de Electores, sobre la división del territorio del Estado en distritos electorales;
 
-XVI. Aprobar el tipo de la Credencial Estatal de Elector, y el modelo de las actas de la jornada electoral y la demás documentación y material electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-XVII. Declarar la validez y definitividad del Padrón Estatal Electoral y los Listados Nominales de Electores;
+XVI. Aprobar el modelo de las actas de la jornada electoral y la demás documentación y material electoral;
 
-XVIII. Ordenar la impresión de los Listados Nominales de Electores con imagen por distrito y sección electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-XIX. Aprobar los trabajos de integración, actualización, depuración y revisión del Padrón Estatal Electoral y las Listas Nominales de Electores;
+XVII. Declarar la definitividad del Listado Nominal de Electores con fotografía entregado por el Instituto Federal Electoral en los términos del convenio correspondiente;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+XVIII. Solicitar la impresión de los Listados Nominales de Electores con fotografía por distrito y sección electoral;
+
+XIX. (DEROGADA, P. O. 6 DE OCTUBRE DE 2006)
 
 (REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
 
@@ -1599,7 +1635,9 @@ XXVIII. Conocer de las infracciones y faltas, en el ámbito de su competencia, y
 
 XXIX. Conocer y acordar lo conducente respecto de los informes semestrales que deban rendir los Directores Generales;
 
-XXX. Autorizar la celebración de convenios de apoyo y colaboración con las autoridades federales o estatales electorales, en materia de catálogo general de electores, padrón electoral, seccionamiento, listas nominales de electores credencial estatal de elector y cartografía electoral, y demás en materia electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+XXX. Autorizar la celebración de convenios de apoyo y colaboración con las autoridades federales o estatales electorales, en materia de catálogo general de electores, padrón electoral, seccionamiento, listas nominales de electores, credencial de elector y cartografía electoral, y demás en materia electoral;
 
 XXXI. Ordenar la elaboración de proyectos y estudios, con el fin de analizar la viabilidad de otras formas de organización y votación electoral, tendientes a facilitar y eficientar el desarrollo de la jornada electoral, mediante el uso de nuevas tecnologías, sin demérito de la autenticidad y el secreto del voto, y aprobarlos en su caso;
 
@@ -1753,7 +1791,9 @@ Para ser Director General del Instituto Estatal Electoral, se deberán reunir lo
 
 I. Ser mexicano por nacimiento;
 
-II. Estar en pleno ejercicio de sus derechos político electorales y civiles, inscrito en el Padrón Estatal Electoral y contar con Credencial Estatal de Elector;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Estar en pleno ejercicio de sus derechos político electorales y civiles, inscrito en el Padrón Electoral y contar con Credencial de Elector;
 
 III. No tener más de sesenta y cinco años de edad ni menos de treinta, al día de la designación;
 
@@ -1837,7 +1877,9 @@ Para ser director, se deberán satisfacer los siguientes requisitos:
 
 I. Ser mexicano por nacimiento;
 
-II. Estar en pleno ejercicio de sus derechos político electorales y civiles, inscrito en el Padrón Estatal Electoral y contar con Credencial Estatal de Elector;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Estar en pleno ejercicio de sus derechos político electorales y civiles, inscrito en el Padrón Electoral y contar con Credencial de Elector;
 
 III. Tener veinticinco años de edad y no más de sesenta y cinco, al día de la designación;
 
@@ -2185,9 +2227,13 @@ Para ser integrante de la Mesa Directiva de Casilla se requiere:
 
 I. Ser ciudadano residente en la sección electoral que comprenda la casilla;
 
-II. Estar inscrito en el Padrón Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-III. Contar con Credencial Estatal de Elector;
+II. Estar inscrito en el Padrón Electoral;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+III. Contar con Credencial de Elector;
 
 IV. Estar en aptitud de ejercer sus derechos políticos;
 
@@ -2269,11 +2315,17 @@ II. Contar las boletas electorales recibidas, antes de iniciar la votación, con
 
 III. Anotar en el acta, antes de iniciar la votación, el número de folios con sus correspondientes boletas electorales;
 
-IV. Comprobar que el nombre del elector se encuentre en la Lista Nominal de Electores con imagen, salvo cuando se trate de representantes de partidos políticos acreditados en esa casilla y en los casos en que se pueda votar en casillas especiales;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-V. Anotar la palabra "votó" e imprimir la huella digital del elector en el Listado Nominal de Electores con imagen, así como impregnar el líquido indeleble en el pulgar izquierdo del Elector;
+IV. Comprobar que el nombre del elector se encuentre en la Lista Nominal de Electores con fotografía, salvo cuando se trate de representantes de partidos políticos acreditados en esa casilla y en los casos en que se pueda votar en casillas especiales;
 
-VI. Marcar la Credencial Estatal de Elector del ciudadano que haya votado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+V. Anotar la palabra "votó" e imprimir la huella digital del elector en el Listado Nominal de Electores con fotografía, así como impregnar el líquido indeleble en el pulgar izquierdo del Elector;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+VI. Marcar la Credencial de Elector del ciudadano que haya votado;
 
 VII. Recibir durante la jornada electoral los escritos de incidentes, que presenten los representantes de los partidos políticos acreditados para la Mesa Directiva de Casilla;
 
@@ -2289,7 +2341,9 @@ XI. Las demás que disponga esta Ley.
 
 Son atribuciones y obligaciones de los Escrutadores de las Mesas Directivas de Casilla, las siguientes:
 
-I. Comprobar si la cantidad de boletas depositadas en cada una de las urnas electorales, corresponde al número de votos emitidos por los electores anotados en la Lista Nominal de Electores con imagen;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+I. Comprobar si la cantidad de boletas depositadas en cada una de las urnas electorales, corresponde al número de votos emitidos por los electores anotados en la Lista Nominal de Electores con fotografía;
 
 II. Verificar el número de votos emitidos en favor de cada candidato, fórmula o planilla;
 
@@ -2393,31 +2447,25 @@ Los Consejeros Ciudadanos Numerarios y Supernumerarios, para el desempeño de su
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 171.
 
-El Instituto Estatal Electoral prestará, por conducto de la Dirección General del Registro Estatal de Electores y sus Delegaciones Municipales, los servicios inherentes al registro de electores.
+La Dirección General del Registro Estatal de Electores del Instituto Estatal Electoral, ejercerá las atribuciones que dispone el Artículo 174 de esta Ley.
 
-El Registro Estatal de Electores es de carácter permanente y de interés público. Tiene por objeto cumplir con lo previsto en el Artículo 174 de esta Ley.
+Los documentos, datos e informes de los ciudadanos que posea la Dirección General del Registro Estatal de Electores, en cumplimiento de las obligaciones que les impone la Constitución Política del Estado y esta Ley, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer por cualquier medio, salvo cuando se trate de juicios, recursos o procedimientos en que el Instituto Estatal Electoral fuese parte o para cumplir con las obligaciones previstas por esta Ley en materia electoral, o por mandato judicial.
 
-Los documentos, datos e informes que los ciudadanos proporcionen a la Dirección General del Registro Estatal de Electores, en cumplimiento de las obligaciones que les impone la Constitución Política del Estado y esta Ley, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer por cualquier medio, salvo cuando se trate de juicios, recursos o procedimientos en que el Instituto Estatal Electoral fuese parte o para cumplir con las obligaciones previstas por esta Ley en materia electoral, o por mandato judicial.
+Los datos e informes estadísticos que maneje el Registro Estatal de Electores, sin demérito de lo dispuesto en el párrafo anterior, podrán ser proporcionados a organismos o instituciones de interés público, previo convenio que al efecto se celebre.
 
-Los datos e informes estadísticos que arroje la actividad del servicio inherente al Registro Estatal de Electores, sin demérito de lo dispuesto en el párrafo anterior, podrán ser proporcionados a organismos o instituciones de interés público, previo convenio que al efecto se celebre.
-
-Los miembros de los Consejos Estatal y Distritales, Direcciones Generales del Instituto y las Comisiones de Vigilancia, tendrán acceso a la información que conforma al Padrón Estatal Electoral y la que se derive de éste, exclusivamente para el cumplimiento de sus funciones y no podrán destinarla a finalidad u objeto distinto al de la revisión del Padrón Estatal Electoral, de las listas nominales y la promoción del empadronamiento y credencialización.
+Los miembros de los Consejos Estatal y Distritales, Direcciones Generales del Instituto, tendrán acceso a la información que conforma al Padrón Electoral y la que se derive de éste, exclusivamente para el cumplimiento de sus funciones.
 
 ### CAPÍTULO SEGUNDO. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 172.
 
-La Dirección General del Registro Estatal de Electores se integrará por:
-
-I. Un Director General;
-
-II. Un Director de Operación, de Informática y de Administración;
-
-III. Un Delegado en cada uno de los Municipios del Estado, y
-
-IV. Una Comisión Estatal de Vigilancia y Comisiones de Vigilancia Municipales.
+Al frente de la Dirección General del Registro Estatal Electoral, estará un Director General.
 
 El Consejo Estatal Electoral vigilará la integración, funcionamiento y actividades de la Dirección General del Registro Estatal de Electores.
 
@@ -2431,35 +2479,45 @@ La Dirección General del Registro Estatal de Electores contará con los recurso
 
 Son atribuciones de la Dirección General del Registro Estatal de Electores, las siguientes:
 
-I. Inscribir en el Padrón Estatal Electoral a los ciudadanos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. Expedir la Credencial Estatal de Elector;
+I. Administrar el Padrón Electoral y los Listados Nominales que le sean proporcionados por el Instituto Federal Electoral;
 
-III. Realizar los estudios y formular los proyectos de la división territorial del Estado en distritos y secciones electorales, atendiendo los criterios de carácter técnico, geográficos, demográficos y procurando equilibrar el número de electores por distrito a la media estatal. En caso de que un Municipio cuente con más del cincuenta por ciento del promedio que resulte de dividir el total de electores del Padrón Estatal Electoral entre los dieciséis distritos, tendrá derecho a un distrito electoral circunscrito a su ámbito Municipal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-IV. Mantener actualizado y perfeccionar el Registro Estatal de Electores en todo el Estado, para cuyo fin podrá requerir la colaboración de los ciudadanos, con fundamento en lo dispuesto en el párrafo cuarto del Artículo 5 de la Constitución Política de los Estados Unidos Mexicanos, y Artículo 9 fracción II de la Constitución Política del Estado;
+II. Instalar la Comisión Estatal de Vigilancia en los términos de esta Ley;
 
-V. Formar el Catálogo General de Electores y el Padrón Estatal Electoral y mantenerlos permanentemente actualizados y depurados;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-VI. Aplicar la técnica censal total o la técnica censal parcial para la formación del Catálogo General de Electores;
+III. Realizar los estudios y formular los proyectos de la división territorial del Estado en distritos y secciones electorales;
 
-VII. Elaborar las Listas Nominales de Electores, clasificadas por distritos y secciones electorales, ordenadas alfabéticamente, y distribuirlas en los términos de esta Ley;
+IV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-VIII. Elaborar las Listas Nominales con Imagen que se utilizarán en la jornada electoral, atendiendo las clasificaciones mencionadas en la fracción que antecede;
+V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-IX. Establecer con las autoridades Federales, Estatales y Municipales la coordinación necesaria, a fin de obtener la información sobre el fallecimiento de los ciudadanos, suspensión de derechos político electorales, y pérdida u obtención de la nacionalidad o ciudadanía;
+VI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+VII. Distribuir el Padrón Electoral y los Listados Nominales en los términos de esta Ley;
+
+VIII. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
+
+IX. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
 X. Mantener actualizada la cartografía electoral del Estado, clasificada por Municipio, distrito electoral y sección electoral;
 
-XI. Establecer, previa aprobación de la Comisión Estatal de Vigilancia, los procedimientos técnicos para facilitar la inscripción y las modificaciones que deban efectuarse al Padrón Estatal Electoral;
+XI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-XII. Rendir los informes y extender las constancias que solicite directamente el Tribunal de Justicia Electoral del Poder Judicial del Estado, los Consejos Electorales del Instituto o los partidos políticos por conducto de sus representantes ante la Comisión Estatal de Vigilancia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+XII. Rendir los informes y extender las constancias que solicite directamente el Tribunal de Justicia Electoral del Poder Judicial del Estado, los Consejos Electorales del Instituto o los partidos políticos por conducto de sus representantes;
 
 XIII. Proporcionar a los partidos políticos, las Listas Nominales de Electores, en los términos de esta Ley;
 
-XIV. Garantizar que las Comisiones Estatal y Municipales de Vigilancia y el Comité Técnico Estatal se integren y funcionen en los términos de esta Ley;
+XIV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-XV. Solicitar a las Comisiones de Vigilancia los estudios y el desahogo de las consultas sobre los asuntos que estime conveniente dentro de la esfera de su competencia;
+XV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
 XVI. Recabar en cada proceso electoral, la documentación electoral necesaria para elaborar las estadísticas correspondientes;
 
@@ -2483,13 +2541,17 @@ III. Cumplimentar los acuerdos del Consejo Estatal Electoral en los asuntos de s
 
 IV. Someter al conocimiento, y en su caso, a la aprobación del Consejo Estatal Electoral los asuntos de su competencia;
 
-V. Ordenar la impresión de la Credencial Estatal de Elector conforme al tipo que apruebe el Consejo Estatal Electoral;
+V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-VI. Orientar y coordinar las acciones de las Direcciones de Informática, de Operación, de Administración, de las Delegaciones Municipales y de las Comisiones Estatal y Municipales de Vigilancia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-VII. Aprobar la estructura de las Direcciones del Registro Estatal de Electores, conforme a las necesidades del servicio y a los recursos presupuestales autorizados;
+VI. Orientar y coordinar las acciones del personal a su cargo;
 
-VIII. Proponer al Consejo Estatal Electoral los nombramientos de los Directores de Informática, Operación y Administración;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+VII. Aprobar la estructura de la Dirección General del Registro Estatal de Electores, conforme a las necesidades del servicio y a los recursos presupuesta les autorizados;
+
+VIII. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
 IX. Elaborar, de acuerdo con las Leyes aplicables el anteproyecto de presupuesto de egresos de la Dirección General del Registro Estatal de Electores, para remitirlo al Consejero Presidente del Consejo Estatal Electoral;
 
@@ -2501,19 +2563,21 @@ XII. Presentar al Consejo Estatal Electoral, informe anual respecto del ejercici
 
 XIII. Proporcionar la información presupuestal, contable y financiera, que se requiera en la revisión de la cuenta pública;
 
-XIV. Presidir la Comisión Estatal de Vigilancia y nombrar al Secretario Técnico de la misma;
+XIV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-XV. Llevar el libro de registro y asistencia de los representantes de los partidos políticos a las comisiones de vigilancia;
+XV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-XVI. Firmar las constancias, certificaciones e informes que requiera el Tribunal de Justicia Electoral del Poder Judicial del Estado, y aquellas que le soliciten los Consejos Electorales del Instituto Estatal Electoral o los partidos políticos por conducto de los representantes acreditados ante la Comisión Estatal de Vigilancia. Así como, las solicitadas por ciudadanos de manera personal y directa, en todo lo relacionado con su inscripción en el Padrón Estatal Electoral y Lista Nominal de Electores, pudiendo autorizar a los Delegados Municipales de la Dirección del Registro Estatal de Electores, para que en su nombre las expidan cuando sean solicitadas dentro de esa circunscripción municipal;
+XVI. Firmar las constancias, certificaciones e informes que requiera el Tribunal de Justicia Electoral del Poder Judicial del Estado, y aquellas que le soliciten los ciudadanos, los Consejos Electorales del Instituto Estatal Electoral o los partidos políticos por conducto de sus representantes legítimos;
 
 XVII. Elaborar el proyecto de reglamento interno de la Dirección General del Registro Estatal de Electores, para someterlo a consideración del Consejo Estatal Electoral;
 
 XVIII. Preparar los insumos necesarios para la realización de elecciones extraordinarias, plebiscito y referéndum, y someterlo a la aprobación del Consejo Estatal Electoral;
 
-XIX. Elaborar manuales de organización de las direcciones a su cargo, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+XIX. Elaborar manuales de organización de las unidades a su cargo, y
 
 XX. Las demás que disponga esta Ley.
 
@@ -2529,669 +2593,357 @@ Asimismo, no podrá ocupar cargos públicos de primer o segundo nivel en la admi
 
 ###### ARTÍCULO 177.
 
-La Comisión Estatal de Vigilancia, es el órgano de la Dirección General del Registro Estatal de Electores que tiene como función vigilar la integración, depuración y actualización permanente del Padrón Estatal Electoral.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 178.
 
-Las Comisiones de Vigilancia se integrarán por:
-
-I. El Director General del Registro Estatal de Electores, o en su caso, el Delegado Municipal del Registro Estatal de Electores correspondiente al Municipio de que se trate, quienes fungirán como Presidentes de las respectivas Comisiones;
-
-II. Un Representante Propietario o su Suplente por cada uno de los partidos políticos, y
-
-III. Un Secretario Técnico designado por el Presidente de la Comisión respectiva.
-
-Los partidos políticos deberán acreditar oportunamente a sus representantes ante las Comisiones de Vigilancia, los que podrán ser sustituidos en todo tiempo.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 179.
 
-La Comisión Estatal de Vigilancia tendrá las siguientes atribuciones:
-
-I. Vigilar que la inscripción de los ciudadanos en el Padrón Estatal Electoral y en los Listados Nominales de Electores, así como que su actualización se lleve a cabo en los términos de esta Ley;
-
-II. Vigilar que la Credencial Estatal de Elector se entregue oportunamente a los ciudadanos;
-
-III. Vigilar que la demarcación distrital y seccional del territorio del Estado se efectúe y mantenga, en los términos establecidos en esta Ley;
-
-IV. Recibir las solicitudes y los respectivos elementos probatorios que presenten los ciudadanos y los partidos políticos, para la depuración y actualización del Padrón Estatal Electoral y de los Listados Nominales de Electores;
-
-V. Coadyuvar en la actualización del Padrón Estatal Electoral;
-
-VI. Someter a consideración del Consejo Estatal Electoral, los acuerdos que normen las actividades que sea necesario implementar para la buena marcha de los trabajos relacionados con el Padrón Estatal Electoral, la entrega de la Credencial Estatal de Elector y la elaboración de los Listados Nominales de Electores;
-
-VII. Supervisar las auditorías externas que se practiquen al Padrón Estatal Electoral y los Listados Nominales de Electores por acuerdo del Consejo Estatal Electoral;
-
-VIII. Proponer al Consejo Estatal Electoral, la planeación general de las actividades de la Dirección General del Registro Estatal de Electores, para la actualización, depuración y verificación del Padrón Estatal Electoral diseñado previamente por su Comité Técnico, y
-
-IX. Las demás que disponga esta Ley.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 180.
 
-Las Comisiones Municipales de Vigilancia, en el ámbito de su competencia, tendrán las atribuciones señaladas en el Artículo 179 de esta Ley, excepto las previstas en sus fracciones VI y VIII. En todo caso deberán mantener una relación de subordinación y coordinación con la Comisión Estatal de Vigilancia y sesionarán en los períodos convocados por esta última.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 181.
 
-Para cumplimentar sus atribuciones, la Comisión Estatal de Vigilancia contará con un Comité Técnico Estatal, que será el órgano de origen y formulación de las propuestas para la planeación estratégica, programación, supervisión, vigilancia, evaluación, seguimiento y auditoría del desarrollo de los trabajos y programas de la Dirección General del Registro Estatal de Electores. El Comité sesionará en los períodos convocados por la Comisión Estatal de Vigilancia.
-
-Las opiniones o estudios del Comité Técnico Estatal serán consideradas para la toma de decisiones de los órganos electorales competentes.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 182.
 
-El Comité Técnico Estatal estará integrado por:
-
-I. Un Coordinador, que será el Secretario Técnico de la Comisión Estatal de Vigilancia, y se auxiliará de los funcionarios de la Dirección General del Registro Estatal de Electores que requiera para el desarrollo de esta función, y
-
-II. Dos representantes por cada partido político; uno será el representante acreditado ante la Comisión Estatal de Vigilancia, y el otro se acreditará ante el Comité, debiendo contar con una alta calificación técnica en las áreas de estadística, actuaría, informática o de demografía. Podrán ser sustituidos en todo momento.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 183.
 
-El Comité Técnico Estatal, tendrá las siguientes actividades:
-
-I. Planeación estratégica, que comprende:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) Abocarse al análisis de las actividades que a mediano y largo plazo debe desarrollar la Dirección General del Registro Estatal de Electores, en relación a sus programas, definiendo los conceptos de los mismos;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) Revisar la planeación y proponer, en su caso, a la Comisión Estatal de Vigilancia, las modificaciones en las áreas de cartografía, revisión documental, consolidación de la base de datos, operativo de campo, capacitación, informática, seguimiento, actualización y comunicación;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-c) Proponer para las etapas del operativo de campo, la expedición de la Credencial Estatal de Elector y previo análisis del funcionamiento y cobertura de los módulos, las adecuaciones a la operación, ubicación, días y horario de atención al público de los módulos fijos, de los módulos móviles y las rutas de cobertura, a fin de poder garantizar al ciudadano la misma oportunidad de obtenerla;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-d) Diseñar la metodología para la supervisión de los partidos políticos en las actividades que se realicen en el centro de cómputo, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-e) Diseñar la metodología para los trabajos de supervisión que desarrollen las Comisiones Estatal y Municipales de Vigilancia;
-
-II. Analizar, supervisar, evaluar y auditar el desarrollo y avances de los programas de la Dirección General del Registro Estatal de Electores, en sus aspectos de: consolidación cartográfica; verificación documental; verificación de campo; listado de homonimias; tablas de inconsistencias y su corrección; generación de cintas magnéticas; instalación y funcionamiento de módulos; avances de ciudadanos que obtuvieron su Credencial Estatal de Elector; incidencias; actualización del Padrón Estatal Electoral; creación de la base de imágenes y su utilización;
-
-III. Analizar los catálogos de cartografía, básico de secciones y localidades para su cotejo con la información del Padrón Estatal Electoral y los Listados Nominales de Electores;
-
-IV. De monitoreo y seguimiento:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) Supervisando al centro de cómputo para conocer materialmente los procedimientos para lograr la correspondencia de la base de datos, documentos fuente y ubicación geográfico electoral del domicilio de los ciudadanos; la corrección de inconsistencias; la coordinación entre el operativo de campo y los sistemas informáticos; y los sistemas de control. Para éste efecto deberá elaborarse un calendario de supervisión, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) Para conocer los avances del impacto de la campaña de comunicación social, y en su caso, proponer acciones que la eficienticen;
-
-V. De evaluación, que se realizará conforme se desarrollen cada una de las etapas procedimentales señaladas en la planeación general del programa en cada municipio, para conocer el grado de cumplimiento de los procedimientos y el logro de los objetivos. En su caso, propondrá adecuaciones o innovaciones a los procedimientos con el objeto de procurar una mayor eficiencia.
-
-Las adecuaciones o innovaciones que se formulen, considerarán el uso racional de los recursos con que cuenta el Instituto Estatal Electoral para ejecutar los programas, y
-
-VI. De auditoría, consistentes en verificar mediante métodos estadísticos, los siguientes aspectos del programa:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) La correspondencia entre la delimitación territorial de las secciones electorales y los productos cartográficos, que comprendan el número de ciudadanos previsto en esta Ley;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) La información contenida en los registros de la base de datos, para determinar el nivel de coincidencia de la información de las solicitudes de incorporación al Padrón Estatal Electoral con la cartografía electoral;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-c) El catálogo de localidades, para verificar que las claves de cada localidad, manzana y sección, sean únicas;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-d) La configuración geográfica de las secciones clasificadas como rurales y mixtas, para conocer si son adecuadas sus vías de comunicación y permitan al ciudadano trasladarse a la cabecera de la sección;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-e) Los reportes parciales de las adecuaciones cartográficas y que las mismas se hayan realizado correctamente;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-f) El archivo clasificado del centro de cómputo, para conocer su consistencia interna, en relación a la existencia de los documentos fuente y su correcta ubicación;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-g) Las actividades de depuración;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-h) Las cintas magnéticas con los registros de los ciudadanos que hayan sido depurados o que presenten inconsistencias;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-i) Los procedimientos de la depuración en gabinete y campo para constatar que se apegan a la normatividad técnica establecida;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-j) Las Credenciales Estatales de Elector, que se encuentren en módulo y correspondan al área de su responsabilidad;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-k) Que los desechos de los materiales utilizados para la expedición de la Credencial Estatal de Elector sean totalmente destruidos, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-l) Que las nuevas inscripciones, cambio de domicilio, reposiciones de Credencial Estatal de Elector y rectificaciones, se efectúen adecuadamente en su levantamiento, captura y procesamiento informático.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 184.
 
-De conformidad con el Reglamento Interior, la Dirección General del Registro Estatal de Electores podrá crear unidades operativas o áreas técnicas cuyo objeto sea auxiliar y apoyar la supervisión de las actividades que se establezcan en los programas de trabajo.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS PARA PRESTAR EL SERVICIO DE REGISTRO ESTATAL DE ELECTORES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 185.
 
-El Registro Estatal de Electores estará compuesto por los siguientes instrumentos:
+El Registro Estatal de Electores administra los siguientes instrumentos:
 
-I. El Catálogo General de Electores;
+I. (DEROGADA, P.O. 6 DE OCTUBRE DE 2006)
 
-II. El Padrón Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. El Padrón Electoral;
 
 III. Listados Nominales, y
 
-IV. Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+IV.- Credencial de Elector.
 
 ###### ARTÍCULO 186.
 
-Los ciudadanos residentes en el Estado, están obligados a participar en la formación y actualización del Catálogo General de Electores y del Padrón Estatal Electoral en los términos de esta Ley.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ### CAPÍTULO SEGUNDO. DEL CATÁLOGO GENERAL DE ELECTORES
 
 ###### ARTÍCULO 187.
 
-En el Catálogo General de Electores se consigna la información básica de los mexicanos mayores de dieciocho años residentes en el Estado, recabada a través de la técnica censal total o de los datos o información obtenidos mediante los procedimientos contenidos en los convenios de colaboración y apoyo que celebren el Instituto Estatal Electoral, el Gobierno del Estado de Baja California y el Instituto Federal Electoral.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 188.
 
-Por acuerdo del Consejo Estatal Electoral, el Director General del Registro Estatal de Electores, podrá ordenar se aplique la técnica censal total en el Estado, con la finalidad de formar un Catálogo General de Electores que sea la base para preservar un Padrón Estatal Electoral actualizado y confiable.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 189.
 
-La técnica censal total es el procedimiento que se realiza mediante entrevistas casa por casa, o a través de las formas que determine la Comisión Estatal de Vigilancia, a fin de obtener de los mexicanos residentes en la Entidad mayores de dieciocho años, la siguiente información básica:
-
-I. Apellido paterno, materno y nombre completo;
-
-II. Lugar y fecha de nacimiento;
-
-III. Edad, sexo y estado civil;
-
-IV. Domicilio actual y tiempo de residencia;
-
-V. Ocupación y escolaridad;
-
-VI. Número de manzana, código postal y teléfono;
-
-VII. En su caso, el número y fecha del certificado de naturalización, y
-
-VIII. Las demás que la Dirección General del Registro Estatal de Electores estime convenientes.
-
-La información básica contendrá además, el Municipio, localidad, distrito electoral y sección electoral correspondiente al domicilio, así como la fecha en que se realizó la visita, el nombre y la firma del entrevistador.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 190.
 
-La técnica censal parcial tendrá por objeto recabar la información básica de los ciudadanos no incluidos en el Catálogo General de Electores, o en su caso, verificar los datos contenidos en el mismo, mediante visitas casa por casa, o a través de las formas que determine la Comisión Estatal de Vigilancia.
-
-La Dirección General del Registro Estatal de Electores podrá utilizar la técnica censal parcial en municipios, localidades, distritos y secciones o parte de éstos, en aquellos casos que así lo decida el Consejo Estatal Electoral, a fin de mantener actualizados el Catálogo General de Electores y el Padrón Estatal Electoral.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 191.
 
-La Comisión Estatal de Vigilancia podrá proponer al Consejo Estatal Electoral, que se aplique en un Municipio, localidad, distrito o sección electoral, la técnica censal parcial.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 192.
 
-Concluida la aplicación de la técnica censal total o parcial, según sea el caso, la Dirección General verificará que en el Catálogo General de Electores no haya duplicados, a fin de asegurar que cada persona aparezca una sola vez.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
-En todos los casos se deberá establecer el mayor número de elementos para ubicar geográficamente el domicilio del ciudadano.
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-### CAPÍTULO TERCERO. DEL PADRÓN ESTATAL ELECTORAL
+### CAPÍTULO TERCERO. DEL PADRÓN, LISTADO NOMINAL Y LA CREDENCIAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 193.
 
-Con base en el Catálogo General de Electores, y en su caso, en las solicitudes de inscripción presentadas por los ciudadanos, o en los datos o información obtenidos mediante los procedimientos contenidos en los convenios de colaboración y apoyo que celebren el Instituto Estatal Electoral, el Gobierno del Estado de Baja California y el Instituto Federal Electoral, la Dirección General del Registro Estatal de Electores, procederá a la formulación del Padrón Estatal Electoral, en el que se dará de alta al ciudadano cuya solicitud haya sido aprobada por alguna de las formas antes señaladas.
+Para los efectos de esta Ley, serán válidos y se deberá utilizar, el padrón electoral, la lista nominal de electores y las credenciales de elector con fotografía que en la entidad haya integrado y expedido el Registro Federal de Electores.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 194.
 
-La solicitud de incorporación al Padrón Estatal Electoral, se hará en forma individual, en la que se asentarán los siguientes datos:
+El Presidente del Consejo Estatal Electoral, deberá convenir con el Instituto Federal Electoral, la utilización de los instrumentos electorales descritos en el artículo anterior.
 
-I. Apellido paterno, materno y nombre completo;
-
-II. Lugar y fecha de nacimiento;
-
-III. Edad, sexo y estado civil;
-
-IV. Domicilio actual y tiempo de residencia efectiva en la Entidad, no menor de seis meses;
-
-V. Ocupación y escolaridad;
-
-VI. Número de teléfono y código postal;
-
-VII. En su caso, el número y fecha de certificado de naturalización;
-
-VIII. Firma, y en su caso huella digital, y
-
-IX. Los demás que hayan sido aprobados por el Consejo Estatal Electoral a propuesta de la Dirección General del Registro Estatal de Electores.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 195.
 
-El personal encargado de hacer la inscripción a que se refieren los artículos 199 y 200 de esta Ley, asentará en las formas individuales, los datos siguientes:
+La Dirección General del Registro Estatal Electoral instará, a los residentes del Estado para que regularicen su inscripción como electores o bien, que hagan uso de los derechos que concede el Código Federal de Instituciones y Procedimientos Electorales.
 
-I. Municipio y localidad donde se realice la inscripción;
-
-II. Distrito, sección electoral y manzana correspondiente al domicilio, y
-
-III. Fecha de la solicitud de inscripción.
-
-Hecha la solicitud anterior se le entregará el comprobante correspondiente.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 196.
 
-Las autoridades competentes y los encargados del Registro Civil están obligados a expedir, a petición escrita del interesado, las certificaciones y constancias que sean necesarias para acreditar su residencia, tiempo de la misma y mayoría de edad.
+Los ciudadanos ocurrirán ante la respectiva Vocalía del Registro Federal de Electores de la Entidad, o ante los módulos correspondientes a inscribirse o dar aviso de cualquier cambio y regularizar su calidad de electores.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+ARTÍCULO 196 BIS.- La Comisión Estatal de Vigilancia estará integrada por el Director General del Registro Estatal de Electores quien la presidirá, un representante propietario o su suplente por cada uno de los partidos políticos y un secretario técnico designado por el presidente de la misma.
+
+Dicha Comisión tendrá como función vigilar que la demarcación distrital y seccional del territorio del Estado se mantenga en los términos establecidos en esta Ley, coadyuvar en la actualización del Padrón Electoral, supervisar las auditorias que se practiquen al padrón electoral y al Listado Nominal de Electores por acuerdo del Consejo Estatal Electoral.
+
+La Comisión funcionará durante el proceso electoral y sus resoluciones serán remitidas al Consejo Estatal Electoral para los efectos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 197.
 
-Los ciudadanos residentes en el Estado que se encuentren incapacitados físicamente, para acudir a inscribirse ante las oficinas de la Dirección General del Registro Estatal de Electores, deberán solicitar su inscripción por escrito, acompañando la documentación que acredite su ciudadanía y su incapacidad; para ello deberán dar aviso por correo, teléfono o cualquier otro medio, y la Dirección General dictará las medidas pertinentes para su atención personal directa en el domicilio.
+Solo los ciudadanos que hayan solicitado su inscripción o rectificación al Padrón Electoral, desde el día siguiente al de la última elección ordinaria efectuada y hasta el día quince de enero del año de la próxima elección ordinaria a celebrarse, podrá ejercer su derecho al voto en la misma.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 198.
 
-Al ciudadano que le sea negada la inscripción al Padrón Estatal Electoral, podrá dirigirse a la Delegación u oficina correspondiente a su domicilio, señalando en el formato correspondiente los motivos concretos en que funde su reclamación. La Dirección General del Registro Estatal de Electores, en un plazo de diez días deberá responder; en caso de encontrar procedente la reclamación, efectuará la inscripción al Padrón Estatal Electoral y expedirá la Credencial Estatal de Elector. La resolución podrá ser recurrida.
+Para que los residentes en el Estado que en el año de la elección cumplan dieciocho años de edad, entre el dieciséis de enero y el día de la elección, participen en la misma, deberán solicitar su inscripción al padrón electoral, a más tardar el día quince de enero del año de la elección.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 199.
 
-La Dirección General del Registro Estatal de Electores, realizará anualmente, a partir del dieciséis de octubre y hasta el catorce de febrero siguiente, una campaña intensiva de actualización del Catálogo General de Electores y del Padrón Estatal Electoral, convocando y orientando a la ciudadanía a cumplir con las obligaciones siguientes, según corresponda:
+Los ciudadanos residentes en el Estado podrán ejercer su derecho al voto e identificarse para esos efectos con la credencial de elector, que expida el Registro Federal de Electores.
 
-I. Acudir ante las oficinas de la Dirección General o a los lugares que ésta determine, para ser incorporado al Catálogo General de Electores, el ciudadano que:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) No hubiese sido incorporado durante la aplicación de la técnica censal total, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) Hubiese alcanzado la ciudadanía con posterioridad a la aplicación de la técnica censal total, y
-
-II. Acudir a las oficinas de la Dirección General o a los lugares que ésta determine, quienes incorporados en el Catálogo General de Electores o en el Padrón Estatal Electoral:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) No hubieren notificado su cambio de domicilio;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) No hubieren notificado errores en sus datos personales;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-c) No estén registrados en el Padrón Estatal Electoral;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-d) Hubieren extraviado su Credencial Estatal de Elector, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-e) Hubieren sido restituidos en sus derechos político electorales.
-
-Los partidos políticos coadyuvarán con el Instituto Estatal Electoral en las tareas de orientación ciudadana.
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 200.
 
-Los ciudadanos que durante el período de actualización acudan a darse de alta o a dar aviso de cambio de domicilio, o bien que durante la aplicación de la técnica censal sean requeridos por el personal de la Dirección General del Registro Estatal de Electores, tendrán la obligación de señalar el domicilio en que hubieren sido registrados con anterioridad, y en su caso, firmar y poner la huella digital en los documentos para la actualización respectiva.
+El Consejo Estatal Electoral, podrá contratar en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California, a empresas o instituciones especializadas para auditar el padrón electoral y al Listado Nominal de Electores, que el Registro Federal de Electores proporcione en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+La auditoria a que se refiere el párrafo anterior deberá concluir a más tardar el veinte de mayo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 201.
 
-Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción o rectificación al Padrón Estatal Electoral en períodos distintos a los de actualización a que se refiere el Artículo 199 de esta Ley, desde el día siguiente al de la última elección ordinaria efectuada y hasta el día catorce de febrero del año de la próxima elección ordinaria a celebrarse.
+La Dirección General del Registro Estatal Electoral enviará las listas nominales de electores sin fotografía a los Consejos Distritales, con la oportunidad suficiente en los términos del Convenio que al efecto se celebre con el Instituto Federal Electoral, para su exhibición, publicación y revisión.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+En el caso de la rectificación y modificación a las listas nominales de electores sin fotografía, se procederá en los términos del Código Federal de Instituciones y Procesos Electorales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 202.
 
-Los residentes en el Estado que en el año de la elección cumplan dieciocho años de edad, entre el dieciséis de enero y el día de la elección deberán solicitar su inscripción, a más tardar el día catorce de febrero.
+Los partidos políticos tendrán derecho a recibir en medios electrónicos, la información relativa al listado nominal con que cuente el Instituto Estatal Electoral en los términos de esta Ley y el convenio a que se refiere este capitulo.
+
+Las Listas Nominales de Electores que se entreguen a los partidos políticos serán para su uso exclusivo y no podrán destinarlas a finalidad u objeto distinto al de su revisión.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 203.
 
-Es obligación de los ciudadanos inscritos en el Padrón Estatal Electoral, dar aviso de su cambio de domicilio ante la Dirección General del Registro Estatal de Electores, o en la delegación más cercana a su nuevo domicilio, o en los lugares que ésta determine, dentro de los treinta días posteriores a la fecha en que esto ocurra.
+Para efectos de la presente ley, se entenderá que el catálogo general de electores previsto en el Código Federal de Instituciones y Procedimientos Electorales, es la base para la formación del padrón electoral.
 
-Cuando el ciudadano solicite modificación por cambio de domicilio deberá exhibir el comprobante respectivo; tratándose de corrección de datos deberá mostrar acta de nacimiento, Credencial Estatal de Elector o cualquier otro documento que resulte idóneo para subsanar el error. En ambos casos la Dirección General, de considerarlo procedente, hará los cambios en el Padrón Estatal Electoral.
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-Al recibir el ciudadano la Credencial Estatal actualizada, deberá entregar la anterior, la cual será inutilizada de inmediato, para su posterior destrucción.
+ARTÍCULO 203 BIS.- A más tardar el día treinta de mayo del año de la elección, el Consejo Estatal Electoral, deberá sesionar a efecto de declarar la definitividad del Listado Nominal de Electores con fotografía que le entregue el Instituto Federal Electoral en los términos del convenio correspondiente.
 
-### CAPÍTULO CUARTO. DE LA ACTUALIZACIÓN DEL CATÁLOGO GENERAL DE ELECTORES Y DEL PADRÓN ESTATAL ELECTORAL
+Los representantes propietarios de los partidos políticos acreditados ante el Consejo Estatal Electoral obtendrán de la Dirección General del Registro Estatal de Electores copia en papel del Listado Nominal de Electores con fotografía, una vez que las mismas hayan sido declaradas definitivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+Una vez hecha la declaratoria de definitividad, la Dirección General del Registro Estatal de Electores, remitirá a los Consejos Distritales los Listados Nominales de Electores con fotografía, para que éstos, dentro de los cinco días anteriores a la fecha de la jornada electoral los entreguen a cada uno de los Presidentes de las Mesas Directivas de Casilla, en los términos previstos en esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO CUARTO. DE LOS DISTRITOS Y SECCIONES ELECTORALES
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 204.
 
-En caso de que la Dirección General del Registro Estatal de Electores detecte mediante revisiones de campo, que uno o varios electores no residen en el domicilio que tienen registrado, asentará esta circunstancia, dejando aviso en el domicilio de que se trate y publicando sus nombres en los estrados de la propia Dirección, en el Periódico Oficial del Estado y en un diario de circulación estatal, por dos ocasiones mediando quince días entre cada publicación, a efecto de que cumplan con su obligación de notificar el cambio.
+Para efectos de dividir territorial mente al Estado, en Distritos y Secciones Electorales, la Dirección del Registro Estatal Electoral podrá formular un proyecto de división territorial, atendiendo los criterios de carácter técnico, geográficos, demográficos y procurando equilibrar el número de electores por distrito a la media estatal. En caso de que un Municipio cuente con más del cincuenta por ciento del promedio que resulte de dividir el total de electores del Padrón Estatal Electoral entre los dieciséis distritos, tendrá derecho a un distrito electoral circunscrito a su ámbito Municipal.
 
-Si transcurridos quince días después de la segunda publicación no se registrare movimiento o modificación, la Dirección General procederá a darlos de baja del Padrón Estatal Electoral, previa autorización de la Comisión Estatal de Vigilancia, ratificada por el Consejo Estatal Electoral, haciendo constar en sus registros el aviso y las publicaciones mencionadas.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 205.
 
-La documentación relativa a las altas, bajas o modificaciones de los ciudadanos en el Padrón Estatal Electoral quedará bajo la custodia y responsabilidad de la Dirección General del Registro Estatal de Electores, dando acceso a las Comisiones de Vigilancia para los efectos de consulta y verificación.
-
-###### ARTÍCULO 206.
-
-Las solicitudes de inscripción realizadas por los ciudadanos que no cumplan con la obligación de acudir a la oficina o módulo de la Dirección General del Registro Estatal de Electores, correspondiente a sus delegaciones, a obtener su Credencial Estatal de Elector, a más tardar el día quince de octubre del año siguiente a aquél en que solicitaron su inscripción en el Padrón Estatal Electoral, serán canceladas.
-
-En el supuesto a que se refiere el párrafo anterior, la Dirección General, elaborará relaciones con los nombres de los ciudadanos cuyas solicitudes hubiesen sido canceladas, clasificándolas por sección electoral y alfabéticamente, a fin de que sean entregadas a los representantes de los partidos políticos acreditados ante la Comisión Estatal de Vigilancia, a más tardar el día quince de noviembre de cada año, para su conocimiento y observaciones.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-###### ARTÍCULO 207.
-
-Las relaciones a que se refiere el Artículo 206 de esta Ley, serán exhibidas desde el día dieciséis de noviembre y hasta el día catorce de febrero del año siguiente en las oficinas o módulos de la Dirección General del Registro Estatal de Electores y en los lugares públicos que previamente determine la Comisión Estatal de Vigilancia, a fin de que surtan efectos de notificación por estrados a los ciudadanos interesados y que éstos tengan la posibilidad de solicitar nuevamente su inscripción en el Padrón Estatal Electoral durante el plazo para la campaña intensiva a que se refiere el Artículo 199 de esta Ley.
-
-###### ARTÍCULO 208.
-
-Cuando corresponda a un año electoral y se esté en los supuestos previstos en los artículos 206 y 207 de esta Ley, y el ciudadano no ha modificado sus datos, el formato de Credencial Estatal de Elector no será destruido, se suspenderá el trámite señalado en el Artículo 209 de esta Ley, y se conservará a disposición del ciudadano hasta el último día señalado en esta Ley para la entrega de credenciales.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-###### ARTÍCULO 209.
-
-Los formatos de las credenciales de los ciudadanos cuya solicitud haya sido cancelada en los términos de los artículos 206 y 207 de esta Ley, serán inutilizados, para su posterior destrucción, a más tardar el último día del mes de febrero de cada año, bajo la supervisión de la Comisión Estatal de Vigilancia.
-
-###### ARTÍCULO 210.
-
-El ciudadano cuya solicitud de inscripción en el Padrón Estatal Electoral hubiese sido cancelada por omisión en la obtención de su Credencial Estatal de Elector en los términos de los artículos anteriores, podrá solicitar nuevamente su inscripción en los términos y plazos previstos en los artículos 199 y 201 de esta Ley.
-
-###### ARTÍCULO 211.
-
-Los formatos de las credenciales de los ciudadanos que solicitaron su inscripción al Padrón Estatal Electoral o efectuaron alguna solicitud de actualización durante el año anterior al de la elección, y que no se les hubiese expedido la Credencial Estatal de Elector dentro del plazo legalmente establecido para ello, serán resguardados de conformidad con el procedimiento señalado por el Consejo Estatal Electoral, con la supervisión de la Comisión Estatal de Vigilancia.
-
-###### ARTÍCULO 212.
-
-La Dirección General del Registro Estatal de Electores dará de baja del Padrón Estatal Electoral al ciudadano que:
-
-I. Hubiere fallecido, o por resolución judicial haya sido declarada su ausencia o presunción de muerte;
-
-II. Tuviere suspendido el ejercicio de sus derechos político electorales, conforme al Artículo 38 de la Constitución Política de los Estados Unidos Mexicanos, y
-
-III. Haya perdido la nacionalidad o la ciudadanía mexicana.
-
-En estos casos, la Dirección General del Registro Estatal de Electores, operará la baja, una vez que sea acreditada documentalmente por las autoridades competentes.
-
-###### ARTÍCULO 213.
-
-Los encargados del Registro Civil, que expidan actas de fallecimiento de personas mayores de edad, estarán obligados a comunicarlo por escrito a la Dirección General del Registro Estatal de Electores, en un plazo de quince días posteriores a estos actos.
-
-###### ARTÍCULO 214.
-
-Los jueces que declaren la presunción de ausencia o la de muerte, la pérdida, suspensión o restitución de los derechos ciudadanos o que afecten la capacidad civil, estarán obligados a comunicarlo por escrito a la Dirección General del Registro Estatal de Electores, dentro de un plazo de quince días a partir de la fecha en que quede firme la resolución o el acuerdo dictado.
-
-###### ARTÍCULO 215.
-
-El Director General del Registro Estatal de Electores solicitará bimestralmente, a la Secretaría de Relaciones Exteriores le informe sobre los movimientos que registre en relación con:
-
-I. Expedición o cancelación de cartas de naturalización;
-
-II. Expedición de certificados de nacionalidad, y
-
-III. Renuncias a la nacionalidad.
-
-Asimismo, la Dirección General del Registro Estatal de Electores recabará de los órganos de la Administración Pública Federal, Estatal y Municipal la información para registrar todo cambio que afecte al Padrón Estatal Electoral. El Director General del Registro Estatal de Electores, podrá celebrar convenios de cooperación, a efecto de que se proporcione puntualmente.
-
-###### ARTÍCULO 216.
-
-La Dirección General del Registro Estatal de Electores revisará periódicamente el grado de depuración y actualización del Padrón Estatal Electoral, y aplicará las medidas conducentes para preservar su máxima confiabilidad.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-La depuración y actualización del Padrón Estatal Electoral deberá suspenderse a más tardar el día catorce de febrero del año de la elección.
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-Para efectos de la actualización del Catálogo General de Electores y del Padrón Estatal Electoral, los artículos 199, 200, 201, 202, 203, 205, 212, 213 y 215 de esta Ley, podrán cumplirse mediante los procedimientos contenidos en los convenios de colaboración y apoyo que celebren el Instituto Estatal Electoral, el Gobierno del Estado de Baja California y el Instituto Federal Electoral.
-
-### CAPÍTULO QUINTO. DE LOS LISTADOS NOMINALES DE ELECTORES Y SU REVISIÓN
-
-###### ARTÍCULO 217.
-
-Los Listados Nominales de Electores, son las relaciones elaboradas por la Dirección General del Registro Estatal de Electores, agrupadas por distrito y sección, ordenadas alfabéticamente, que contienen el nombre de las personas incluidas en el Padrón Estatal Electoral, a quienes se ha expedido y entregado su Credencial Estatal de Elector.
-
-###### ARTÍCULO 218.
-
-La sección electoral es la fracción territorial de los distritos electorales, para la inscripción de los ciudadanos en el Padrón Estatal Electoral y en los Listados Nominales de Electores.
+La sección electoral es la fracción territorial de los distritos electorales, para la inscripción de los ciudadanos en el Padrón Electoral y en los Listados Nominales de Electores.
 
 Las secciones electorales se enumerarán por orden progresivo, y en las listas de cada sección aparecerá el nombre de los ciudadanos en orden alfabético.
 
 Cada sección tendrá como mínimo cien electores y como máximo tres mil.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO 206.
+
+El convenio que en los términos del artículo 194 se suscriba con el Instituto Federal Electoral, deberá de prever que los listados nominales que se entreguen se agrupen a los ciudadanos por distrito electoral local, municipios y sección electoral.
+
+Para efectos de lo anterior, el Director del Registro Estatal Electoral deberá comunicar al Instituto Federal Electoral, la conformación de los distritos y secciones electorales en el Estado.
+
+###### ARTÍCULO 207.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 208.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 209.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 210.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 211.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 212.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 213.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 214.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 215.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 216.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+### CAPÍTULO QUINTO. DE LOS LISTADOS NOMINALES DE ELECTORES Y SU REVISIÓN
+
+###### ARTÍCULO 217.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
+###### ARTÍCULO 218.
+
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
+
 ###### ARTÍCULO 219.
 
-Cumplido lo dispuesto en el Artículo 218 de esta Ley, se procederá a formar la Lista Nominal de Electores básica sin imagen.
-
-La Lista se formulará por distrito y por secciones electorales, ordenados alfabéticamente.
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-La lista Nominal será puesta a disposición de los partidos políticos y de los ciudadanos para su revisión, y en su caso, para que formulen las observaciones que estimen pertinentes, de acuerdo al procedimiento y plazo que señala el Artículo siguiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 220.
 
-La Dirección General del Registro Estatal de Electores entregará a sus delegaciones municipales las Listas Nominales de Electores básicas sin imagen para ser exhibidas, a más tardar el día dieciséis de mayo; serán fijadas en lugares públicos por quince días contados a partir de la fecha de su recepción, a efecto de que los partidos políticos a través de las Comisiones de Vigilancia y los ciudadanos, presenten de manera individualizada y circunstanciada ante la delegación respectiva, las observaciones que sobre la misma hagan.
-
-Los partidos políticos tienen derecho a obtener por conducto de sus representantes ante la Comisión Estatal de Vigilancia, copia en medios magnéticos a partir de su exhibición, o en papel en fecha posterior.
-
-La Dirección General del Registro Estatal de Electores podrá acordar otras formas de difusión de las Listas Nominales de Electores, para que éstas sean conocidas por el mayor número de ciudadanos.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 221.
 
-Una vez recibidas y acreditadas las observaciones pertinentes, las delegaciones municipales las remitirán a la Dirección General del Registro Estatal de Electores, dentro de los tres días siguientes a su formulación.
-
-Cuando procedan las observaciones serán incorporadas a la Lista Nominal de Electores, haciéndose las modificaciones respectivas.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 222.
 
-Podrá solicitar la rectificación a la Lista Nominal de Electores, el ciudadano que:
-
-I. Habiendo obtenido oportunamente su Credencial Estatal de Elector, no aparezca incluido en la sección correspondiente a su domicilio, y
-
-II. Sin haber obtenido su Credencial Estatal de Elector, haya sido incluido.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-En los supuestos anteriores se podrá presentar solicitud de rectificación, a más tardar el treinta de mayo del año de la elección.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 223.
 
-Cualquier ciudadano o partido político podrá gestionar en forma individualizada y circunstanciada, hasta el día treinta de mayo del año del proceso electoral, las modificaciones a las Listas Nominales de Electores ante la Dirección General del Registro Estatal de Electores, por cualquiera de las causas enunciadas en el artículo anterior, siempre y cuando éstas sean debidamente comprobadas.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 224.
 
-Las Listas Nominales de Electores Complementarias sin imagen contendrán únicamente los nombres de los ciudadanos cuyas observaciones a las Listas Nominales de Electores Básicas sin imagen, hubieren procedido.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-Cuando las observaciones fueran procedentes, la Dirección General del Registro Estatal de Electores, a más tardar el cuatro de junio del año de la elección, entregará a las delegaciones municipales las Listas Nominales de Electores Complementarias sin imagen, para ser exhibidas en lugares públicos por diez días, a efecto de que los partidos políticos a través de las Comisiones de Vigilancia, y los ciudadanos presenten ante la delegación respectiva, las observaciones concretas e individualizadas que sobre las mismas hagan.
-
-En caso de no haber observaciones o éstas fueran improcedentes, no se requerirá la elaboración y exhibición, de las Listas Nominales de Electores Complementarias sin imagen.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 225.
 
-Las Listas Nominales de Electores Básicas con imagen, serán elaboradas a partir de la conclusión del período de exhibición de las Listas Nominales de Electores Básicas sin imagen, y en caso de que proceda la elaboración y exhibición de las Listas Nominales de Electores Complementarias sólo se modificará la Lista Nominal Básica con imagen, en aquellas partes en que haya procedido alguna observación, o de resultar conveniente, se anexarán las hojas correspondientes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 226.
 
-A más tardar el día veinticuatro de junio del año en que se celebre el proceso electoral ordinario, la Dirección General del Registro Estatal de Electores entregará, en medios magnéticos, previa solicitud, a cada uno de los representantes propietarios de los partidos políticos acreditados ante la Comisión Estatal de Vigilancia, copia de las Listas Nominales de Electores, ordenadas alfabéticamente y por secciones, correspondientes a cada uno de los distritos electorales, de todos aquellos ciudadanos que hubiesen obtenido su Credencial Estatal de Elector al día once de mayo anterior.
-
-Las Listas Nominales de Electores que se entreguen a los partidos políticos serán para su uso exclusivo y no podrán destinarlas a finalidad u objeto distinto al de su revisión.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 227.
 
-A más tardar el día veinticuatro de junio del año de la elección, el Director General del Registro Estatal de Electores informará al Consejero Presidente del Consejo Estatal Electoral, del estado que guardan las Listas Nominales de Electores, para que en un plazo no mayor de cinco días, éste convoque al Consejo a efecto de que una vez sometidos a su consideración se declare, en su caso, que el Padrón Estatal Electoral y el Listado Nominal de Electores son válidos y definitivos.
-
-Los representantes propietarios de los partidos políticos, acreditados ante la Comisión Estatal de Vigilancia obtendrán de la Dirección General del Registro Estatal de Electores copia en papel del Listado Nominal de Electores, una vez que las mismas hayan sido declaradas válidas y definitivas.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 228.
 
-La Dirección General del Registro, una vez aprobado el Padrón Estatal Electoral y el Listado Nominal de Electores, señalados en el Artículo 227 de esta Ley, ordenará la impresión de las Listas Nominales de Electores con imagen por distrito y por sección electoral, para su entrega al Consejo Estatal Electoral, a más tardar el día doce de julio del año de la elección.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 229.
 
-Las Listas Nominales de Electores con imagen, se integrarán con los mismos datos y en la misma forma que las Listas Nominales de Electores, llevando incluida adicionalmente la imagen de los electores consignados en ellas y se utilizarán el día de la jornada electoral. Se podrá incluir huella digital y firma del elector.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 230.
 
-La Dirección General del Instituto Estatal Electoral, distribuirá las Listas Nominales de Electores con imagen a los Consejeros Presidentes de los Consejos Distritales Electorales, para que éstos, con apoyo de la Dirección de Organización, los hagan llegar a cada uno de los Presidentes de las Mesas Directivas de Casilla, dentro de los cinco días anteriores al de la jornada electoral.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-El Consejo Estatal Electoral, a más tardar el doce de julio del año de la elección, determinará a propuesta de la Comisión Estatal de Vigilancia, el procedimiento mediante el cual los partidos políticos podrán cotejar las Listas Nominales de Electores con imagen en los Consejos Distritales Electorales.
-
-El cotejo a que se refiere el párrafo anterior, deberá realizarse a más tardar diez días antes de la jornada electoral.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 231.
 
-Los partidos políticos contarán, en la Comisión Estatal de Vigilancia, con terminales de computo que les permita tener acceso a la información contenida en el Padrón Estatal Electoral y en las Listas Nominales de Electores. Igualmente y conforme a las posibilidades técnicas, tendrán acceso permanente al contenido de la base de datos, base de imágenes, documentos fuentes y movimientos a la base de datos del Padrón Estatal Electoral.
-
-La Dirección General del Registro Estatal de Electores instalará en sus delegaciones municipales, mecanismos de consulta a los cuales tendrá acceso cualquier ciudadano para verificar si está registrado en el Padrón Estatal Electoral e incluido en la Lista Nominal de Electores que corresponda.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ### CAPÍTULO SEXTO. DE LA CREDENCIAL ESTATAL DE ELECTOR
 
 ###### ARTÍCULO 232.
 
-La Credencial Estatal de Elector, es el documento indispensable para que los ciudadanos ejerzan su derecho al voto.
-
-El tipo de Credencial Estatal de Elector será autorizado por el Consejo Estatal Electoral y deberá contener los datos que hagan posible su identificación como ciudadanos, y serán por lo menos, los siguientes:
-
-I. Datos del elector:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) Municipio y localidad que corresponda a su domicilio;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) Sección electoral en dónde deberá votar;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-c) Apellidos paterno, materno y nombre completo;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-d) Domicilio;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-e) Sexo, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-f) Fecha de nacimiento, y
-
-II. Datos de control y seguridad:
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-a) Número de credencial de elector;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-b) Clave de elector;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-c) Código de barras;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-d) Fotografía del elector;
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-e) Lugar para asentar la firma y huella digital del elector, y
-
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
-
-f) Firma impresa del Director General del Registro Estatal de Electores.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 233.
 
-Los ciudadanos tendrán la obligación de acudir a las oficinas o módulos que determine la Dirección General del Registro Estatal de Electores, para obtener su Credencial Estatal de Elector.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 234.
 
-La Credencial Estatal de Elector se expedirá por duplicado, el original se entregará al ciudadano cuyo derecho acredita y el duplicado llevará impresa la Leyenda "no da derecho a votar" y se destinará para el archivo clasificado de credenciales de la Dirección General del Registro.
-
-El duplicado de la Credencial podrá sustituir, en caso de que el Consejo Estatal Electoral lo determine, la solicitud de inscripción en el Padrón Electoral Federal, presentada por los ciudadanos ante el Instituto Federal Electoral, y cuya información fue remitida al Instituto Estatal Electoral mediante los procedimientos contenidos en los convenios de colaboración y apoyo que celebren el Instituto Estatal Electoral, el Gobierno del Estado de Baja California y el Instituto Federal Electoral.
-
-El ciudadano al recibir su Credencial Estatal de Elector, deberá presentar ante el funcionario electoral, identificación con fotografía cuyo tipo sea aprobado por la Comisión Estatal de Vigilancia, verificando que todos los datos estén correctos, y en caso de conformidad procederá a firmarla y poner su huella digital, debiendo el funcionario electoral conservar constancia de entrega de la Credencial, con la referencia de los medios de identificación.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 235.
 
-Los ciudadanos que habiendo cumplido con los requisitos y trámites correspondientes para obtener su Credencial Estatal de Elector, tendrán hasta el día once de mayo del año de la elección para recogerla.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 236.
 
-Los ciudadanos que hayan extraviado su Credencial Estatal de Elector, o esté deteriorada, deberán solicitar su correspondiente reposición, a la que se le inscribirá la palabra "reposición", a más tardar el día diecisiete de marzo del año de la elección.
-
-Si el extravío o el deterioro de la credencial, ocurre con posterioridad a la fecha indicada en el párrafo anterior, el ciudadano también podrá solicitar la reposición, y si le es negada se estará a lo dispuesto por el Artículo 421 de esta Ley.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 237.
 
-La Dirección General del Registro Estatal de Electores resolverá sobre la procedencia de la solicitud de expedición, rectificación o reposición de la Credencial Estatal de Elector, en un plazo de diez días siguientes a su presentación.
-
-La resolución recaída a la solicitud será notificada personalmente al ciudadano si comparece ante la oficina responsable de la inscripción, o en su caso, por telegrama o correo certificado, con su respectivo acuse de recibo.
-
-En contra de la resolución que declare improcedente la solicitud o la falta de respuesta en tiempo, procederá el recurso de inconformidad. Para tal efecto, los ciudadanos interesados tendrán a su disposición, en las oficinas de la Dirección General del Registro Estatal de Electores, los formatos necesarios para la interposición del recurso.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 238.
 
-El período para expedir y entregar la Credencial Estatal de Elector concluirá el once de mayo del año de la elección.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 239.
 
-Los formatos de credencial no utilizados, se relacionarán y clasificarán para ser depositados en lugar aprobado por el Consejo Estatal Electoral, que garantice su salvaguarda hasta la conclusión de la jornada electoral de que se trate.
-
-El Director General del Registro Estatal de Electores, tomará las medidas necesarias para que las Delegaciones Municipales, en presencia de las Comisiones de Vigilancia, concentren y trasladen los formatos de referencia, para su depósito.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 240.
 
-El ciudadano a quien se le haya expedido Credencial Estatal de Elector, quedará incluido en la Lista Nominal de Electores de la sección que corresponda a su domicilio, y en la Lista Nominal de Electores con imagen correspondiente.
-
-La Dirección General del Registro Estatal de Electores, verificará que los nombres de los ciudadanos que no hayan acudido a obtener su Credencial Estatal de Elector, no aparezcan en las Listas Nominales de Electores.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ### CAPÍTULO SÉPTIMO. DE LA AUDITORÍA A LOS TRABAJOS DE LA DIRECCIÓN GENERAL DEL REGISTRO ESTATAL DE ELECTORES
 
 ###### ARTÍCULO 241.
 
-El Consejo Estatal Electoral, con base en el calendario que apruebe, ordenará la práctica de auditorías parciales al Padrón Estatal Electoral y a los Listados Nominales de Electores, tomando en consideración que la última servirá de base para los efectos previstos en el Artículo 227 de esta Ley.
-
-Las auditorías las harán personas físicas o morales especializadas en el ramo, y se adjudicarán mediante el procedimiento de licitación pública que acuerde el Consejo Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
-
-La auditoría, previa al proceso, deberá terminarse a más tardar el día diecinueve de junio.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 242.
 
-El Consejo Estatal Electoral y la Dirección General del Registro Estatal de Electores, deberán considerar en el presupuesto de egresos de esta última, los recursos económicos necesarios para el apoyo de los representantes de los partidos políticos que realicen tareas de validación y verificación de los instrumentos del Registro Estatal de Electores, de acuerdo al reglamento que para el efecto se apruebe.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 # LIBRO SEXTO. DE LAS PRECAMPAÑAS
 
@@ -3207,9 +2959,13 @@ Corresponde a los partidos políticos o coaliciones, autorizar a sus militantes 
 
 Para los fines de la presente Ley, se entenderá por:
 
-I. Precampaña Electoral: es el conjunto de actividades reguladas por esta Ley, los estatutos y acuerdos de los partidos políticos o coaliciones, que de manera previa a la campaña electoral, son llevadas a cabo por los aspirantes a candidatos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. Actos de Precampaña: son las acciones que tienen por objeto mejorar la imagen de los aspirantes a candidato, con el fin de obtener la nominación como candidato del partido político o coalición, para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
+I. Precampaña Electoral: es el conjunto de actividades reguladas por esta Ley, y los estatutos, acuerdos y lineamientos emanados de los partidos políticos o coaliciones de conformidad con aquella, que realizan los precandidatos a ser postulados por un partido político a un cargo de elección popular, dentro de un proceso de elección interna convocado por aquel, con la finalidad de promover su imagen y capacidad como la mejor para obtener la candidatura.
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Actos de Precampaña: son las acciones que tienen por objeto mejorar la imagen de los precandidatos, con el fin de obtener la nominación como candidato del partido político o coalición, para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
 
 a) Reuniones públicas o privadas;
 
@@ -3221,21 +2977,33 @@ d) Entrevistas en los medios;
 
 e) Visitas domiciliarias, y
 
-f) Demás actividades que realicen los aspirantes a candidatos.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-III. Propaganda de precampaña electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la precampaña electoral producen y difunden los aspirantes a candidatos y sus apoyadores o simpatizantes, con el propósito de presentar y difundir sus propuestas ante la sociedad y los militantes del partido por el que aspiran ser nominados.
+f) Demás actividades que realicen los precandidatos.
 
-IV. Aspirante a candidato: los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+III. Propaganda de precampaña electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la precampaña electoral producen y difunden los precandidatos y sus simpatizantes, con el propósito de presentar y difundir sus propuestas ante los militantes del partido por el que aspiran ser nominados.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+IV. Precandidato: Los ciudadanos que deciden contender al interior de un partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 245.
 
-El partido político o coalición deberá informar por escrito al Consejo Estatal Electoral, sobre el inicio de la precampaña electoral dentro de los cinco días anteriores a éste, en el que deberá acompañar un informe de los lineamientos o acuerdos, a los que estarán sujetos los aspirantes a candidatos.
+Todas las precampañas electorales iniciarán el tres de febrero del año de la elección, debiendo concluir a más tardar un día antes del inicio del periodo de la solicitud de registro de candidatos.
 
-Las precampañas electorales no podrán iniciar antes de ciento veinte días naturales del inicio del proceso electoral correspondiente, debiendo concluir a más tardar un día antes del inicio del período de la solicitud de registro de candidatos.
+El partido político o coalición deberá informar por escrito al Consejo Estatal Electoral dentro de los cinco días anteriores al tres de Febrero del año de la elección, los lineamientos o acuerdos a los que estarán sujetos los precandidatos.
+
+En caso de que los lineamientos no se encuentren ajustados a la Ley, el Consejo de Estatal Electoral, deberá de requerir al partido político para que en el término de dos días contados a partir de su presentación, los modifique, apercibiéndolo de que en caso de no hacerlo el Consejo hará las modificaciones necesarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 246.
 
-El partido político o coalición deberá informar al Consejo Estatal Electoral, dentro de los cinco días siguientes, sobre la acreditación de los aspirantes a candidatos, acompañando la siguiente información:
+El partido político o coalición deberá informar al Consejo Estatal Electoral, dentro de los cinco días siguientes, sobre la acreditación de los precandidatos, acompañando la siguiente información:
 
 I. Copia del escrito de solicitud;
 
@@ -3243,29 +3011,45 @@ II. Copia de la exposición de motivos;
 
 III. Copia del programa de trabajo;
 
-IV. Nombre del representante del aspirante a candidato;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-V. Nombre del responsable de la obtención, administración y gasto de los recursos recabados, del aspirante a candidato, y
+IV. Nombre del representante del precandidato;
 
-VI. Domicilio para oír y recibir notificaciones del aspirante a candidato o su representante.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+V. Nombre del responsable de la obtención, administración y gasto de los recursos recabados, del precandidato, y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+VI. Domicilio para oír y recibir notificaciones del precandidato o su representante.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 247.
 
-En caso de que el aspirante, a candidato no informe que desea iniciar la precampaña, tanto el Consejo Estatal Electoral como los partidos políticos o coaliciones, podrán reconocer que una precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del partido correspondiente y esta Ley.
+En caso de que el precandidato no informe que desea iniciar la precampaña, tanto el Consejo Estatal Electoral como los partidos políticos o coaliciones, podrán reconocer que una precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del partido correspondiente y esta Ley.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 248.
 
-Una vez notificado, el Consejo Estatal Electoral, por conducto de su Comisión del Régimen de Partidos Políticos, hará saber al partido y a los aspirantes a candidatos, conforme a la presente ley, las obligaciones a que quedan sujetos, y extenderá la constancia respectiva para el aspirante a candidato.
+Una vez notificado, el Consejo Estatal Electoral, por conducto de la Comisión del Régimen de Partidos Políticos, hará saber al partido y a los precandidatos, conforme a la presente ley, las obligaciones a que quedan sujetos, y les extenderá la constancia respectiva.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 249.
 
-Los partidos dispondrán lo necesario a fin de que los aspirantes a candidatos sean reconocidos como tales, extendiéndole las constancias de registro respectivas, si cumple con los requisitos y resulte procedente, conforme a esta ley, los estatutos y acuerdos del partido. En los formatos de registro, se hará mención de la fidelidad de los datos proporcionados, bajo protesta de decir verdad por parte de los aspirantes a candidato.
+Los partidos dispondrán lo necesario a fin de que los precandidatos sean reconocidos como tales, extendiéndole las constancias de registro respectivas, si cumple con los requisitos y resulte procedente, conforme a esta ley, los estatutos y acuerdos del partido. En los formatos de registro, se hará mención de la fidelidad de los datos proporcionados, bajo protesta de decir verdad por parte de los precandidatos.
 
-### CAPÍTULO SEGUNDO. DE LOS ASPIRANTES A CANDIDATO
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS PRECANDIDATOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 250.
 
-Los aspirantes a candidato deberán observar lo siguiente:
+Los precandidatos deberán observar lo siguiente:
 
 I. Respetar los estatutos, lineamientos o acuerdos del partido político o coalición, respecto de la postulación de candidatos, así como lo prescrito en la presente Ley;
 
@@ -3273,7 +3057,9 @@ II. Informar por escrito al partido político o coalición de su aspiración, ac
 
 III. Presentar un informe financiero, sobre el origen y aplicación de recursos, ante el partido político o coalición, dentro de los tres días anteriores a la realización del evento, en el cual se elija o designe al candidato;
 
-IV. Entregar al partido político o coalición por el que contendió internamente, cualquier remanente del financiamiento de precampaña que pudiera existir. Lo anterior, sin importar si el aspirante a candidato concluyó o no la precampaña electoral y si fue o no nominado como candidato;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+IV. Entregar al partido político o coalición por el que contendió internamente, cualquier remanente del financiamiento de precampaña que pudiera existir. Lo anterior, sin importar si el precandidato concluyó o no la precampaña electoral y si fue o no nominado como candidato;
 
 V. Cumplir con el tope de gastos, conforme lo establece el Artículo 253 de esta Ley;
 
@@ -3287,13 +3073,17 @@ IX. Propiciar la exposición, desarrollo y discusión del programa y acciones fi
 
 X. Las demás que establezca la Ley.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 251.
 
-En el caso de que se trate de aspirantes que sean servidores públicos, además de cumplir con lo que establece la Constitución Política del Estado y esta Ley, se abstendrán de promover la recaudación de recursos para destinarlos a la realización de actos proselitistas a favor de su candidatura o la de otros aspirantes, si no ha informado de ello a su partido y éste a su vez no le ha otorgado la constancia correspondiente, ni notificado al Instituto Estatal Electoral sobre su aspiración.
+En el caso de que se trate de precandidatos que sean servidores públicos, además de cumplir con lo que establece la Constitución Política del Estado y esta Ley, se abstendrán de promover la recaudación de recursos para destinarlos a la realización de actos proselitistas a favor de su precandidatura o la de otros, si no ha informado de ello a su partido y éste a su vez no le ha otorgado la constancia correspondiente, ni notificado al Instituto Estatal Electoral sobre su aspiración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 252.
 
-Queda prohibido a los aspirantes a candidato lo siguiente:
+Queda prohibido a los precandidatos lo siguiente:
 
 I. Recibir cualquiera de las aportaciones a que se refiere el Artículo 71 de esta Ley;
 
@@ -3309,17 +3099,21 @@ VI. Lo que establecen las fracciones I y II del Artículo 300 de esta Ley.
 
 ### CAPÍTULO TERCERO. DE LA FISCALIZACIÓN DE LAS PRECAMPAÑAS
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 253.
 
-Los recursos que destinen los aspirantes a candidatos para la realización de propaganda de precampaña electoral y en actos de precampaña, no podrán rebasar los topes que determine el Consejo Estatal Electoral, los cuales serán el veinte por ciento del establecido para cada caso, en la elección inmediata anterior, actualizándose en los términos del inciso a) de la fracción I del Artículo 294 de esta Ley.
+Los recursos que destinen los precandidatos para la realización de propaganda de precampaña electoral y en actos de precampaña, no podrán rebasar los topes que determine el Consejo Estatal Electoral, los cuales serán el veinte por ciento del establecido para cada caso, en la elección inmediata anterior, actualizándose en los términos del inciso a) de la fracción I del Artículo 294 de esta Ley.
 
 ###### ARTÍCULO 254.
 
 Quedan comprendidos dentro de los topes a gastos de precampaña, aquellos a que se refiere el Artículo 293 de esta Ley, respecto de las campañas electorales, en lo que resulte aplicable.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 255.
 
-Los recursos obtenidos durante una precampaña electoral, estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados en favor de los aspirantes a candidatos, en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, no comprendidas en el Artículo 71 de esta Ley.
+Los recursos obtenidos durante una precampaña electoral, estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados en favor de los precandidatos, en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, no comprendidas en el Artículo 71 de esta Ley.
 
 ###### ARTÍCULO 256.
 
@@ -3349,9 +3143,11 @@ IV. Las aportaciones en especie se harán constar por escrito en contratos celeb
 
 V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objeto de la precampaña electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 258.
 
-Los aspirantes a candidato deberán informar regularmente sobre los recursos de que dispongan, su monto, origen, aplicación y destino probables, así como de la estructura que los respalda, sean estos individuos, asociaciones u otros organismos o grupos.
+Los precandidatos deberán informar regularmente sobre los recursos de que dispongan, su monto, origen, aplicación y destino, así como de la estructura que los respalda, sean estos individuos, asociaciones u otros organismos o grupos.
 
 Al término de su precampaña electoral presentará un informe general de los ingresos y gastos que haya efectuado, conforme a los lineamientos que establezca el Consejo Estatal Electoral.
 
@@ -3367,17 +3163,21 @@ Una vez que un partido político haya recibido los informes a que se refiere la 
 
 El Consejo Estatal Electoral, a través de la Comisión del Régimen de Partidos Políticos, emitirá un dictamen sobre el informe financiero de las precampañas electorales, a más tardar veinticinco días a partir de su recepción.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 262.
 
-El Consejo Estatal Electoral, a propuesta de la Comisión del Régimen de Partidos Políticos, determinará el alcance y repercusiones de los errores u omisiones técnicas, y establecerá los lineamientos y formatos que los aspirantes a candidato y partidos políticos deberán observar en sus informes de gastos.
+El Consejo Estatal Electoral, a propuesta de la Comisión del Régimen de Partidos Políticos, determinará el alcance y repercusiones de los errores u omisiones técnicas, y establecerá los lineamientos y formatos que los precandidatos y partidos políticos deberán observar en sus informes de gastos.
 
 ###### ARTÍCULO 263.
 
 El Consejo Estatal Electoral, recibirá las quejas, por parte de los partidos políticos o coalición, a que haya lugar sobre el origen, aplicación y destino de los recursos utilizados en precampañas electorales.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 264.
 
-Cuando un partido político o coalición no cumpla en tiempo con la presentación de los informes a que se refiere el Artículo 260 de esta Ley, el Consejo Estatal Electoral, por conducto de la Comisión del Régimen de Partidos Políticos, notificará tanto al partido político o coalición y, personalmente, al aspirante a candidato, apercibiéndolos de que en caso de no subsanar la omisión en un término de cinco días se impondrá la sanción prevista en la fracción III del Artículo 265 de esta Ley.
+Cuando un partido político o coalición no cumpla en tiempo con la presentación de los informes a que se refiere el Artículo 260 de esta Ley, el Consejo Estatal Electoral, por conducto de la Comisión del Régimen de Partidos Políticos, notificará tanto al partido político o coalición y, personalmente, al precandidato, apercibiéndolos de que en caso de no subsanar la omisión en un término de cinco días se impondrá la sanción prevista en la fracción III del Artículo 265 de esta Ley.
 
 ###### ARTÍCULO 265.
 
@@ -3391,9 +3191,9 @@ I. Apercibimiento;
 
 II. Multa hasta por mil veces el Salario Mínimo General vigente en la entidad, y
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-III. Pérdida del derecho a registrar como candidato al aspirante a candidato cuando éste se exceda en el tope de gastos de precampaña establecidos o cuando habiendo omitido la entrega de los informes a que se refiere la fracción III del Artículo 250 de esta Ley no la subsanara en el término fijado por el Consejo Estatal lectoral (sic). En estos casos, el partido político o coalición podrá registrar como candidato a persona distinta.
+III. Pérdida del derecho a registrar como candidato al precandidato cuando éste se exceda en el tope de gastos de precampaña establecidos o cuando habiendo omitido la entrega de los informes a que se refiere la fracción III del Artículo 250 de esta Ley no la subsanara en el término fijado por el Consejo Estatal Electoral. En estos casos, el partido político o coalición podrá registrar como candidato a persona distinta.
 
 # LIBRO SÉPTIMO. DEL PROCESO ELECTORAL
 
@@ -3569,9 +3369,9 @@ III. Domicilio y tiempo de residencia efectiva;
 
 IV. Ocupación;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-V. Clave de la Credencial Estatal de Elector;
+V. Clave de la Credencial de Elector;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -3597,9 +3397,9 @@ I. Escrito de aceptación de la candidatura por parte del ciudadano propuesto;
 
 II. Copia certificada del acta de nacimiento, de reconocimiento de hijo o de adopción, según el caso;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-III. Certificación de la vigencia de la Credencial Estatal de Elector, expedida por la Dirección General del Registro Estatal de Electores;
+III. Copia de la credencial electoral;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -3783,9 +3583,11 @@ IV. El nombre del ciudadano autorizado por el partido político o coalición o c
 
 El Consejero Presidente del Consejo Estatal Electoral previa solicitud por escrito del partido político o coalición interesada, gestionará ante las autoridades competentes, las medidas de seguridad personal para sus candidatos, desde el momento en que obtengan su registro.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 299.
 
-Los partidos políticos o coaliciones, aspirantes a candidatos o candidatos que durante la campaña electoral, pretendan realizar marchas o reuniones que impliquen interrupción temporal de la vialidad, deberán oportunamente hacer del conocimiento a la autoridad competente, el itinerario, día, hora y tiempo de duración, a fin de que ésta provea lo necesario para el libre desarrollo del evento.
+Los partidos políticos o coaliciones, precandidatos o candidatos que durante la campaña electoral, pretendan realizar marchas o reuniones que impliquen interrupción temporal de la vialidad, deberán oportunamente hacer del conocimiento a la autoridad competente, el itinerario, día, hora y tiempo de duración, a fin de que ésta provea lo necesario para el libre desarrollo del evento.
 
 ###### ARTÍCULO 300.
 
@@ -3907,9 +3709,11 @@ I. En caso de que el número de ciudadanos inscritos en la Lista Nominal de Elec
 
 II. No existiendo un local que permita la instalación de las casillas necesarias en un mismo sitio, éstas se ubicarán en lugares diversos, atendiendo a la concentración y distribución de los electores en la sección.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 314.
 
-El Consejo Distrital Electoral acordará, cuando las condiciones geográficas de una sección hagan difícil el acceso de los electores residentes en un mismo sitio, la instalación de casillas distantes en lugares que ofrezcan un fácil acceso, informando a la Dirección General del Registro Estatal de Electores para que proceda a la elaboración de la Lista Nominal de Electores con imagen que corresponda a cada una de ellas, siempre y cuando las condiciones técnicas lo permitan.
+El Consejo Distrital Electoral acordará, cuando las condiciones geográficas de una sección hagan difícil el acceso de los electores residentes en un mismo sitio, la instalación de casillas distantes en lugares que ofrezcan un fácil acceso, para que se proceda a la elaboración de la Lista Nominal de Electores con fotografía que corresponda a cada una de ellas, siempre y cuando las condiciones técnicas lo permitan.
 
 ###### ARTÍCULO 315.
 
@@ -3925,7 +3729,13 @@ II. Simultáneamente con el procedimiento señalado en la fracción anterior, se
 
 El procedimiento de sorteo y las bases de la convocatoria pública, serán determinados por el Consejo Estatal Electoral, a propuesta del Director General del Instituto Estatal Electoral.
 
-El Consejo Distrital Electoral que corresponda, se apoyará para efectos de realizar el sorteo, en la Dirección General del Registro Estatal de Electores, en el que estará presente la Comisión que el Consejo designe, así como la Comisión Estatal de Vigilancia de la Dirección General del Registro Estatal de Electores, según el calendario que previamente determine el Consejo Estatal Electoral.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+El Consejo Distrital Electoral que corresponda, se apoyará para efectos de realizar el sorteo, en la Dirección General del Registro Estatal de Electores, según el calendario que previamente determine el Consejo Estatal Electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2006)</small>
+
+El Consejo Estatal Electoral podrá acordar, cuando a su juicio exista imposibilidad técnica o presupuestal para llevar acabo el sorteo a que se refiere este artículo, que se celebre convenio con el Instituto Federal Electoral para que sea este quien lleve a cabo dicho procedimiento.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
@@ -4031,13 +3841,13 @@ Los representantes de los partidos políticos o coalición ante las Mesas Direct
 
 Los ciudadanos propuestos para fungir como representantes generales, o como representantes ante las Mesas Directivas de Casilla, deberán reunir los siguientes requisitos:
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-I. Estar inscritos en el Padrón Estatal Electoral;
+I. Estar inscritos en el Padrón Electoral;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. Contar con Credencial Estatal de Elector vigente, y
+II. Contar con Credencial de Elector vigente, y
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4125,9 +3935,9 @@ III. Indicación de su carácter de propietario o suplente;
 
 IV. Número del distrito electoral para el caso de representantes generales; y en el caso de los representantes ante las Mesas Directivas de Casilla el número de sección y de casilla en que actuará;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-V. Número y clave de la Credencial Estatal de Elector;
+V. Número y clave de la Credencial de Elector;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4151,7 +3961,9 @@ La solicitud de registro o sustitución de nombramientos de representantes, se s
 
 I. Se hará mediante escrito firmado por el dirigente o representante del partido político ante el Consejo Distrital Electoral correspondiente, y
 
-II. Se anexará una relación con los nombres de los representantes y tipo de representación, el carácter de propietario o suplente, el número y la clave de la Credencial Estatal de Elector de cada uno de ellos y el número del distrito electoral tratándose de representantes generales, y en el caso de los representantes ante las Mesas Directivas de Casilla, el número de sección y de casilla en que actuará.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. Se anexará una relación con los nombres de los representantes y tipo de representación, el carácter de propietario o suplente, el número y la clave de la Credencial de Elector de cada uno de ellos y el número del distrito electoral tratándose de representantes generales, y en el caso de los representantes ante las Mesas Directivas de Casilla, el número de sección y de casilla en que actuará.
 
 Las solicitudes de registro que no reúnan uno o varios de los requisitos se regresarán al partido político solicitante, para que dentro de los tres días siguientes, subsane las omisiones. Vencido el término señalado sin corregirse la omisión, no se registrará el nombramiento.
 
@@ -4237,9 +4049,9 @@ Los requisitos que deberán cumplir los ciudadanos que aspiren a ser auxiliares 
 
 I. Ser ciudadano mexicano;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. Contar con credencial estatal de elector;
+II. Contar con credencial de elector;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4369,9 +4181,9 @@ En las operaciones señaladas en las fracciones anteriores, los representantes d
 
 Los Consejeros Presidentes de los Consejos Distritales Electorales, con el apoyo de la Dirección de Organización Electoral, entregarán a cada Presidente de Mesa Directiva de Casilla, dentro de los cinco días previos al anterior de la elección y contra el recibo detallado correspondiente:
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-I. La Lista Nominal de Electores con imagen de la sección electoral, según corresponda;
+I. La Lista Nominal de Electores con fotografía de la sección electoral, según corresponda;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4381,9 +4193,9 @@ II. La relación de los representantes generales acreditados por cada partido po
 
 III. La relación de los representantes de los partidos registrados para la casilla;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-IV. Las boletas para cada elección, en número igual al de los electores que figuren en la Lista Nominal de Electores con imagen para cada casilla de la sección electoral, y el dato de los folios correspondientes; y una mascarilla impresa en sistema braille;
+IV. Las boletas para cada elección, en número igual al de los electores que figuren en la Lista Nominal de Electores con fotografía para cada casilla de la sección electoral, y el dato de los folios correspondientes; y una mascarilla impresa en sistema braille;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4409,9 +4221,11 @@ IX. Las mamparas que garanticen que el elector pueda emitir su voto en secreto.
 
 El Consejo Distrital Electoral, en el caso de que alguno de los representantes de los partidos políticos o coaliciones ante las mesas directivas de casilla, no sea residente de la sección electoral, acordará se entreguen las boletas adicionales en número igual al de representantes de partido no residentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 341.
 
-Los Presidentes de las Mesas Directivas de Casilla especiales recibirán la documentación y materiales a que se refiere el Artículo 339 de esta Ley, con excepción de la Lista Nominal de Electores con imagen, en lugar de la cual recibirán las formas e instrumentos especiales para identificar y anotar los datos de la credencial estatal electoral de los electores, que estando transitoriamente fuera de su Municipio, voten en la casilla.
+Los Presidentes de las Mesas Directivas de Casilla especiales recibirán la documentación y materiales a que se refiere el Artículo 339 de esta Ley, con excepción de la Lista Nominal de Electores con fotografía, en lugar de la cual recibirán las formas e instrumentos especiales para identificar y anotar los datos de la credencial electoral de los electores, que estando transitoriamente fuera de su Municipio, voten en la casilla.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
@@ -4573,23 +4387,31 @@ Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En e
 
 Recibida la comunicación que antecede, el Consejo Distrital decidirá si reanuda la votación, para lo cual tomará las medidas que estime necesarias.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 354.
 
-Los electores votarán en el orden en que se presenten ante la Mesa Directiva de Casilla, debiendo presentar su Credencial Estatal de Elector.
+Los electores votarán en el orden en que se presenten ante la Mesa Directiva de Casilla, debiendo presentar su Credencial de Elector.
 
-Los Presidentes de las Mesas Directivas de Casilla permitirán emitir su voto a aquellos ciudadanos que estando en la Lista Nominal de Electores con imagen, correspondientes a su domicilio, su Credencial Estatal de Elector contenga errores de seccionamiento. En este caso, los Presidentes de las Mesas Directivas de Casillas, además de identificar a los electores en los términos de esta Ley, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen efectivo.
+Los Presidentes de las Mesas Directivas de Casilla permitirán emitir su voto a aquellos ciudadanos que estando en la Lista Nominal de Electores con fotografía, correspondientes a su domicilio, su Credencial de Elector contenga errores de seccionamiento, en este caso, los Presidentes de las Mesas Directivas de Casillas, además de identificar a los electores en los términos de esta Ley, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen efectivo.
 
-En los casos que proceda, en lugar de la credencial indicada se entregará la copia certificada de los puntos resolutivos de la sentencia pronunciada por el Tribunal de Justicia Electoral del Poder Judicial del Estado, que autorice al ciudadano a emitir su voto, la cual deberá ser recogida y anexada al acta de la jornada electoral que se levante. Además deberá exhibir la identificación oficial con fotografía para que los funcionarios de la casilla le permitan votar.
+En los casos que proceda, en lugar de la credencial indicada se entregará la copia certificada de los puntos resolutivos de la sentencia pronunciada por el Tribunal Electoral del Poder Judicial de la Federación, que autorice al ciudadano a emitir su voto, la cual deberá ser recogida y anexada al acta de la jornada electoral que se levante. Además deberá exhibir la identificación oficial con fotografía para que los funcionarios de la casilla le permitan votar.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 355.
 
-El Presidente de la Mesa Directiva de Casilla recogerá la Credencial Estatal de Elector que tenga muestra de alteración o no pertenezca al ciudadano. El Secretario de la Mesa Directiva anotará esta circunstancia en la hoja de incidentes, y el nombre del ciudadano o ciudadanos probables responsables.
+El Presidente de la Mesa Directiva de Casilla recogerá la Credencial de Elector que tenga muestra de alteración o no pertenezca al ciudadano. El Secretario de la Mesa Directiva anotará esta circunstancia en hoja de incidentes, y el nombre del ciudadano o ciudadanos probables responsables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 356.
 
-Una vez comprobado que el elector aparece en la Lista Nominal de Electores con imagen, se procederá de la siguiente manera:
+Una vez comprobado que el elector aparece en la Lista Nominal de Electores con fotografía, se procederá de la siguiente manera:
 
-I. El ciudadano, además de entregar su Credencial Estatal de Elector, a requerimiento del Presidente de la Mesa Directiva de Casilla deberá mostrar su pulgar izquierdo, para constatar que no ha votado en otra casilla;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+I. El ciudadano, además de entregar su Credencial de Elector, a requerimiento del Presidente de la Mesa Directiva de Casilla deberá mostrar su pulgar izquierdo, para constatar que no ha votado en otra casilla;
 
 II. El Presidente le entregará las boletas de las elecciones para que libremente y en secreto marque las boletas electorales en el recuadro correspondiente al partido político o coalición por la que sufraga;
 
@@ -4605,19 +4427,27 @@ Una vez entregada la boleta electoral y, en su caso, la mascarilla correspondien
 
 Después de que la persona con discapacidad visual haya marcado la boleta electoral, si ésta lo solicita, el funcionario de casilla o el acompañante de confianza le conducirán hacia donde se encuentran colocadas las urnas;
 
-V.- El elector depositará las boletas en las urnas correspondientes, y
+V. El elector depositará las boletas en las urnas correspondientes, y
 
-VI. El Secretario de la casilla anotará la palabra "votó" e imprimirá la huella digital del pulgar derecho del elector en el Listado Nominal de Electores con imagen correspondiente y procederá a:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-a) Marcar la Credencial Estatal de Elector del ciudadano que ha ejercido su derecho de voto;
+VI. El Secretario de la casilla anotará la palabra "voto" e imprimirá la huella digital del pulgar derecho del elector en el Listado Nominal de Electores con fotografía, correspondiente y procederá a:
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+a). Marcar la Credencial de Elector del ciudadano que ha ejercido su derecho de voto;
 
 b) Impregnar con líquido indeleble el dedo pulgar izquierdo del elector, y
 
-c) Devolver al ciudadano su Credencial Estatal de Elector.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+c). Devolver al ciudadano su Credencial de Elector.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 357.
 
-Los representantes de los partidos políticos ante las Mesas Directivas de Casilla, podrán ejercer su derecho de voto en los términos de los artículos anteriores, en la casilla que estén acreditados; debiendo el Secretario de la Mesa Directiva de Casilla anotar el nombre completo y la clave de la Credencial Estatal de Elector, al final de la Lista Nominal de Electores con Imagen.
+Los representantes de los partidos políticos ante las Mesas Directivas de Casilla, podrán ejercer su derecho de voto en los términos de los Artículos anteriores, en la casilla que estén acreditados; debiendo el Secretario de la Mesa Directiva de Casilla anotar el nombre completo y la clave de la Credencial de Elector, al final de la Lista Nominal de Electores con fotografía.
 
 ###### ARTÍCULO 358.
 
@@ -4675,17 +4505,23 @@ Ninguna autoridad podrá detener a los integrantes de las Mesas Directivas de Ca
 
 En las casillas especiales se recibirá la votación de Gobernador y de Diputados por el principio de representación proporcional, de los electores que transitoriamente se encuentren fuera de su Municipio, y se aplicarán, además de las reglas establecidas en los artículos anteriores de este Capítulo, las siguientes:
 
-I. El ciudadano además de exhibir su Credencial Estatal de Elector a requerimiento del Presidente de la Mesa Directiva de Casilla, deberá mostrar el pulgar izquierdo para constatar que no ha votado en otra casilla;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. El Secretario de la Mesa Directiva, verificará la vigencia de la Credencial Estatal de Elector en el instrumento que le fue proporcionado por el Consejo Distrital Electoral y procederá a asentar en el acta de electores en tránsito, los datos de la misma, y
+I. El ciudadano además de exhibir su Credencial de Elector a requerimiento del Presidente de 13 Mesa Directiva de Casilla, deberá mostrar el pulgar izquierdo para constatar que no ha votado en otra casilla;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+II. El Secretario de la Mesa Directiva, verificará la vigencia de la Credencial de Elector en el instrumento que le fue proporcionado por el Consejo Distrital Electoral y procederá a asentar en el acta de electores en tránsito, los datos de la misma, y
 
 (REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
 III. Una vez asentados los datos anteriores, se procederá a entregarle la boleta correspondiente a la elección de Gobernador, y en su caso, para la de Diputados, esta última deberá ser sellada previamente con la leyenda "Representación Proporcional" o "R.P.", recabando la firma del elector.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 366.
 
-La votación se cerrará a las 18:00 horas; podrá cerrarse antes, sólo cuando el Presidente y el Secretario de la Mesa Directiva de Casilla certifiquen que hubieren votado todos los electores incluidos en la Lista Nominal de Electores con imagen correspondiente.
+La votación se cerrará a las 18:00 horas; podrá cerrarse antes, sólo cuando el Presidente y el Secretario de la Mesa Directiva de Casilla certifiquen que hubieren votado todos los electores incluidos en la Lista Nominal de Electores con fotografía correspondiente.
 
 En la casilla se recibirá votación después de las 18:00 horas, siempre y cuando haya electores formados para votar, en cuyo caso se permitirá votar únicamente a éstos.
 
@@ -4759,9 +4595,9 @@ El escrutinio y cómputo de cada elección se realizará conforme a las reglas s
 
 I. El Secretario de la Mesa Directiva de Casilla contará las boletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta, anotando el número y folio de ellas, y las guardará en un sobre especial, el cual quedará cerrado y anotará en su exterior el número de boletas así como la Leyenda, "boletas inutilizadas";
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-II. Los escrutadores contarán el número de ciudadanos que votaron conforme a la Lista Nominal de Electores con Imagen, correspondiente a la sección; además del número de representantes de partidos políticos o coaliciones que votaron en la casilla;
+II. Los escrutadores contarán el número de ciudadanos que votaron conforme a la Lista Nominal de Electores con fotografía, correspondiente a la sección; además del número de representantes de partidos políticos o coaliciones que votaron en la casilla;
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4831,9 +4667,9 @@ b) Los votos válidos, y
 
 c) Los votos nulos para cada elección, y
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-IV. La Lista Nominal de Electores con imagen.
+IV. La Lista Nominal de Electores con fotografía.
 
 ###### ARTÍCULO 377.
 
@@ -5209,9 +5045,13 @@ II. Recibir la votación en día y hora distintas a las señaladas por esta Ley;
 
 III. Recibir la votación por personas u órganos distintos a los facultados por esta Ley;
 
-IV. Permitir sufragar a quien no presente su Credencial Estatal de Elector o no aparezca en el Listado Nominal de Electores con Imagen, siempre que ello sea determinante para el resultado de la votación, salvo los casos señalados por esta Ley;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
 
-V. Utilizar para la recepción del voto un Listado Nominal de Electores con imagen que contenga datos distintos, a aquel que con carácter definitivo haya aprobado el Consejo Estatal Electoral, siempre que ello sea determinante para el resultado de la votación;
+IV. Permitir sufragar a quien no presente su Credencial de Elector o no aparezca en el Listado Nominal de Electores con fotografía, siempre que ello sea determinante para el resultado de la votación, salvo los casos señalados por esta Ley;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2006)</small>
+
+V. Utilizar para la recepción del voto un Listado Nominal de Electores con fotografía que contenga datos distintos, a aquel que hubiere proporcionado el Instituto Federal Electoral, siempre que ello sea determinante para el resultado de la votación;
 
 VI. Impedir el ejercicio del voto a los ciudadanos sin causa justificada, y que esto sea determinante para el resultado de la votación;
 
@@ -5347,7 +5187,7 @@ El recurso de inconformidad se podrá hacer valer:
 
 I. Durante el tiempo que transcurra entre dos procesos electorales por:
 
-a) Los ciudadanos, para impugnar los actos o resoluciones de la Dirección General del Registro Estatal de Electores recaídos a: los escritos de reclamación con motivo de la negativa a la inscripción al Padrón Estatal Electoral; las solicitudes de expedición de Credencial Estatal de Elector o rectificación de las Listas Nominales de Electores; así como a los ciudadanos que habiendo cumplido con los requisitos y trámites correspondientes, no hubieren obtenido oportunamente la Credencial Estatal de Elector;
+a) (DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 b) Las asociaciones políticas, por conducto de sus representantes legítimos, cuando se les haya negado el registro como partidos políticos, y
 
@@ -5357,7 +5197,7 @@ c) Los partidos políticos, por conducto de sus representantes legítimos, para 
 
 II. Durante el proceso electoral por:
 
-a) Los ciudadanos, hasta diez días antes del día de la elección, para impugnar los actos o resoluciones de la Dirección General del Registro Estatal de Electores recaídos a las solicitudes de expedición o reposición de Credencial Estatal de Elector o rectificación de las Listas Nominales de Electores, y
+a) (DEROGADO, P.O. 6 DE OCTUBRE DE 2006)
 
 b) Los partidos políticos y las coaliciones, por conducto de sus representantes legítimos, en contra de los actos o resoluciones de los Consejos Estatal y Distritales Electorales, que no tengan el carácter de irrevocables o bien, que no proceda otro recurso señalado en esta Ley.
 
@@ -6009,11 +5849,11 @@ El recurso de revisión, será resuelto dentro de los treinta días siguientes a
 
 Los recursos de inconformidad interpuestos por los partidos políticos o coaliciones dentro de los cinco días anteriores a la elección, serán resueltos junto con los recursos de revisión con los que guarden relación. El recurrente deberá señalar la conexidad de la causa con el recurso de revisión.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 470.
 
 Las sentencias que recaigan a los recursos de inconformidad, tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
-
-De conformidad con el Artículo 421 fracción II inciso a) de esta Ley, y cuando la sentencia que se dicte, declare procedente la impugnación del recurrente y la autoridad responsable, por razón de los plazos legales o imposibilidad técnica, no los pueda incluir debidamente en la Lista Nominal de Electores correspondiente a la sección electoral de su domicilio, o expedirles la Credencial Estatal de Elector, se estará a lo dispuesto en el Artículo 354 de esta Ley.
 
 ###### ARTÍCULO 471.
 
@@ -6510,3 +6350,7 @@ P.O. 10 DE DICIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el primero de noviembre de 2004.
+
+P.O. 6 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
