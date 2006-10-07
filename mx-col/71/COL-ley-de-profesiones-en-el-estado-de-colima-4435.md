@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-en-el-estado-de-colima-4435"
 country: "mx"
 rank: "ley"
 publication_date: "1964-12-26"
-last_updated: "1974-06-08"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE PROFESIONES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1974.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROFESIONES DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 7 DE OCTUBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1964.
 
@@ -498,3 +500,25 @@ P.O. 8 DE JUNIO DE 1974.
 PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Mientras no se dé por terminado el convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, quedan derogadas las disposiciones de la Ley de Profesiones del Estado que se opongan al cumplimiento del presente decreto.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Profesiones en el Estado de Colima aprobada el 26 de Diciembre de 1964 y publicada en el Periódico Oficial "El Estado de Colima" en la misma fecha.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones contrarias a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo, deberá expedir el Reglamento de esta Ley en un plazo de seis meses a partir de la entrada en su entrada (sic) en vigor.
+
+###### ARTÍCULO QUINTO.
+
+El convenio suscrito por el Poder Ejecutivo del Estado, con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para la unificación del registro profesional, publicado en el Diario Oficial de la Federación el 10 de julio de 1975, se mantiene vigente hasta que las partes convengan su terminación o se pacte su renovación o actualización.
