@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1998-01-17"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -87,9 +87,9 @@ VI.- Las donaciones, herencias, legados y cualesquiera otras aportaciones de car
 
 VII.- Todos los bienes muebles e inmuebles que adquiera la Oficina de Pensiones, así como el producto de los mismos, en su caso.
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
 
-VIII.- Con el importe de las rentas a que se refiere la Fracción V del artículo 89 de este ordenamiento.
+VIII.- Con el importe de las rentas, ventas o productos a que se refiere la fracción V del artículo 89 de este ordenamiento.
 
 ###### ARTICULO 6°.
 
@@ -739,9 +739,11 @@ III.- En construcción de granjas que tengan por objeto incrementar los ingresos
 
 IV.- En instrumentos de inversión financiera de plazo y tasa fijos, tales como los operados en sociedades de inversión, bonos, pagarés, notas, certificados, papel comercial, aceptaciones bancarias y otros similares emitidos por el Gobierno Federal, Instituciones de Crédito y Organismos Auxiliares, Sociedades Nacionales de Crédito, Empresas y Casas de Bolsa; títulos de crédito u obligaciones emitidas o garantizadas por Instituciones de Crédito y Sociedades Nacionales de Crédito; en obligaciones de compañías mexicanas o extranjeras, que sean operadas legalmente por agentes autorizados por la Comisión Nacional Bancaria y de Valores y que concurran al mercado de valores pero que no funde sus utilidades en circunstancias imprevistas del azar o sean motivo de especulación bursátil. Las inversiones a que se refiere este artículo se harán en las mejores condiciones de seguridad, rendimiento y liquidez; pudiendo, para su instrumentación, utilizar figuras legales de carácter fiduciario como contratos de fideicomiso o mandato.
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
 
-V.- En la adquisición y adaptación de inmuebles para ser rentados a Entidades Públicas.
+V.- En la adquisición y adaptación de bienes inmuebles para su subdivisión, urbanización y ejercer cualquier acto jurídico de dominio sobre los mismos, con la finalidad de venderlos o rentarlos a entidades públicas, privadas o particulares, con el propósito de acrecentar el Fondo de la Oficina de Pensiones del Estado, conforme a la Ley de Bienes Pertenecientes al Estado y a las demás leyes.
+
+La venta e inversión que señala el párrafo anterior, también se podrá realizar respecto de bienes muebles.
 
 Las inversiones a que se refiere este artículo se harán dentro del plan anual que acuerde el Consejo Directivo. Para las inversiones que no sean en inmuebles, se hará necesario además, la autorización del Ejecutivo del Estado.
 
@@ -1042,3 +1044,9 @@ P.O. 17 DE ENERO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha ley.
