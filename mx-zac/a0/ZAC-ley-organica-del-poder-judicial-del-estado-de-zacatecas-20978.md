@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2003-01-11"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -1297,9 +1297,11 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ### CAPITULO PRIMERO. DE SU INTEGRACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 76.
 
-El Tribunal Estatal Electoral es un órgano especializado del Poder Judicial del Estado, la máxima autoridad jurisdiccional en materia electoral, tendrá su sede en la Capital del Estado y su jurisdicción comprende todo el territorio de éste.
+El Tribunal Estatal Electoral es un órgano especializado del Poder Judicial del Estado, la máxima autoridad jurisdiccional en materia electoral, tendrá su sede en la Capital del Estado o zona conurbada y su jurisdicción comprende todo el territorio de éste.
 
 Los Magistrados que lo integren deberán reunir los requisitos que se exigen en el artículo 97 de la Constitución Política del Estado y esta Ley, para su designación se observarán las reglas y procedimientos siguientes:
 
@@ -2012,3 +2014,7 @@ P.O. 11 DE ENERO DE 2003
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las disposiciones de ley o de reglamento, que se opongan a aquél.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
