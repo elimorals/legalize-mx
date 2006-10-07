@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-de-medios-de-impugnacion-electoral-del-34230"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-04"
-last_updated: "2003-10-04"
+last_updated: "2006-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -223,11 +223,13 @@ Cuando el acto reclamado no se produzca durante el desarrollo de un proceso elec
 
 El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiera notificado el acto o resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 Del plazo para la interposición de los medios de impugnación
 
 ARTÍCULO 12
 
-Por regla general, salvo el juicio de relaciones laborales, los medios de impugnación que previene esta ley deberán interponerse dentro de los tres días siguientes contados a partir del día siguiente de aquél en que el actor tenga conocimiento o se le hubiere notificado el acto o resolución que se recurra.
+Por regla general, salvo el juicio de relaciones laborales, los medios de impugnación que previene esta ley deberán interponerse dentro de los cuatro días siguientes contados a partir del día siguiente de aquél en que el actor tenga conocimiento o se le hubiere notificado el acto o resolución que se recurra.
 
 ### CAPÍTULO CUARTO. Requisitos del Medio de Impugnación
 
@@ -499,7 +501,9 @@ ARTÍCULO 32
 
 La autoridad electoral que reciba un medio de impugnación, de manera inmediata, procederá de la siguiente manera:
 
-I. Lo hará del conocimiento público mediante cédula que fijará en los estrados. Dentro de las 48 horas siguientes a la fijación de la cédula, los representantes de los partidos políticos, coaliciones o terceros interesados, podrán presentar los escritos que consideren pertinentes, los que deberán reunir los requisitos que para la interposición de los medios de impugnación previene esta ley; además deberán precisar la razón del interés jurídico en que se fundan y las pretensiones concretas para comparecer, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+I. Lo hará del conocimiento público mediante cédula que fijará en los estrados. Dentro de las 72 horas siguientes a la fijación de la cédula, los representantes de los partidos políticos, coaliciones o terceros interesados, podrán presentar los escritos que consideren pertinentes, los que deberán reunir los requisitos que para la interposición de los medios de impugnación, previene esta ley; además deberán precisar la razón del interés jurídico en que se fundan y las pretensiones concretas para comparecer, y
 
 II. En el caso del recurso de revisión y del juicio de nulidad electoral, por la vía más expedita, dará aviso de su recepción al Tribunal Electoral, precisando: actor, acto o resolución impugnado, fecha y hora exacta de su recepción.
 
@@ -1012,3 +1016,9 @@ DR. RICARDO MONREAL ÁVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
