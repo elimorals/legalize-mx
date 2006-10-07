@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-34233"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-04"
-last_updated: "2003-10-04"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -467,7 +467,9 @@ Registro de Fórmulas por Distrito Electoral
 
 ARTÍCULO 19
 
-1. Para la elección de diputados de mayoría cada partido político o coalición, debidamente registrado o acreditado, deberá solicitar el registro de una sola fórmula de candidatos en cada distrito electoral en que pretendan contender, cuyo registro o sustitución estarán sujetos a lo dispuesto en esta ley.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+1. Para la elección de diputados de mayoría cada partido político, a través de su dirigencia estatal, o coalición, debidamente registrado o acreditado, deberá solicitar el registro de una sola fórmula de candidatos en cada distrito electoral en que pretendan contender, cuyo registro o sustitución estarán sujetos a lo dispuesto en esta ley.
 
 2. La relación total de los candidatos a Diputados que por este principio solicite cada partido político o coalición, no deberá estar integrada con más del 70% de candidatos de un mismo género, tanto en los propietarios como en los suplentes.
 
@@ -721,6 +723,10 @@ ARTÍCULO 37
 
 3. Comprobarán en forma fehaciente tener domicilio propio y permanente en la capital del Estado, y acreditarán poseer instalaciones idóneas para el desarrollo de las actividades, objetivos y fines del partido.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+4. Acreditar a través de su órgano de dirección estatal, a los representantes ante el Consejo General, y demás órganos, comisiones o equivalentes del Instituto, quienes deberán tener su domicilio y ser vecinos del Estado.
+
 Registro de Partidos Políticos Estatales
 
 ARTÍCULO 38
@@ -861,7 +867,9 @@ V. Coligarse o postular candidaturas comunes con otros partidos;
 
 VI. Fusionarse en los términos de esta ley;
 
-VII. Nombrar representantes ante los órganos del Instituto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+VII. Nombrar representantes, a través de sus dirigencias estatales, ante los órganos del Instituto;
 
 VIII. Ser propietarios, poseedores o administradores sólo de los bienes que sean indispensables para el cumplimiento directo e inmediato de sus fines;
 
@@ -923,7 +931,9 @@ XIV. Permitir la práctica de auditorías y verificaciones que ordene el Institu
 
 XV. Comunicar al Consejo General del Instituto cualquier modificación a su declaración de principios, programa de acción, estatutos o emblema, dentro de los diez días siguientes a la fecha en que el partido tome el acuerdo correspondiente;
 
-XVI. Comunicar oportunamente al Consejo General los cambios de domicilio social o de los integrantes de sus órganos directivos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+XVI. Comunicar oportunamente, por conducto de su dirigencia estatal, al Consejo General los cambios de domicilio social o de los integrantes de sus órganos directivos y demás comisiones;
 
 XVII. Actuar y conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta;
 
@@ -1019,7 +1029,9 @@ ARTÍCULO 53
 
 1. Los partidos políticos, al ejercer sus prerrogativas en los medios de comunicación social, deberán difundir sus principios ideológicos, programas de acción y plataformas electorales.
 
-2. Para la realización de sus actividades ordinarias y durante el tiempo que transcurra entre los procesos electorales, los partidos políticos tendrán acceso a los medios de comunicación masiva, de manera equitativa conforme a los tiempos que contrate el Consejo General del Instituto con los concesionarios de Radio y Televisión, esta erogación se hará con cargo al Presupuesto de Egresos del Instituto, independientemente de los tiempos y espacios que los partidos políticos contraten con cargo a sus respectivos financiamientos.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+2. Para la realización de sus actividades ordinarias y durante el tiempo que transcurra entre los procesos electorales, los partidos políticos tendrán acceso a los medios de comunicación social, de manera equitativa conforme a los tiempos que contrate el Consejo General del Instituto con los concesionarios de Radio y Televisión, esta erogación se hará con cargo al Presupuesto de Egresos del Instituto. Lo anterior, independientemente de los tiempos y espacios que los partidos políticos o coaliciones soliciten al Consejo General contratar con cargo a sus respectivos financiamientos.
 
 Acuerdos del Consejo General
 
@@ -1027,11 +1039,19 @@ ARTÍCULO 54
 
 1. El Consejo General tomará los acuerdos pertinentes, a fin de que el ejercicio de estas prerrogativas de acceso a tiempos y espacios en los medios de comunicación, constituyan una garantía para los programas de los partidos políticos.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+2. En todo momento el Consejo General, verificará que los medios de comunicación social en la Entidad, cumplan con las obligaciones que establezca la ley y el respectivo contrato.
+
 Contratar tiempos y Espacios
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 ARTÍCULO 55
 
-1. Es derecho de los partidos políticos contratar tiempos y espacios en los medios de comunicación social para difundir mensajes orientados a la obtención del voto durante las campañas electorales.
+1. Es derecho exclusivo de los partidos políticos y, en su caso, de las coaliciones contratar por conducto del Consejo General tiempos y espacios en los medios de comunicación social para difundir mensajes orientados a la obtención del voto durante las campañas electorales.
+
+2. El Consejo General superivisará que el contenido de los mensajes reúna los requisitos que señale la presente ley y el propio Consejo. De existir contravención a las disposiciones de este ordenamiento en su difusión, el Consejo General ordenará la suspensión debidamente fundada y motivada. Ningún partido político, persona física o moral que no sea el Consejo General, podrá contratar propaganda en radio, televisión o prensa, de algún partido político, coalición o candidato o precandidato.
 
 ### CAPÍTULO TERCERO. Del Financiamiento de los Partidos Políticos
 
@@ -1261,15 +1281,23 @@ ARTÍCULO 69
 
 ### CAPÍTULO CUARTO. De la Fiscalización a los Partidos Políticos y su Régimen Tributario
 
-Órgano Interno de Contabilidad de los Partidos Políticos
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+Órgano Interno estatal de Contabilidad de los Partidos Políticos
 
 ARTÍCULO 70
 
-1. Cada partido político deberá contar con un órgano interno encargado de recibir, registrar, controlar y administrar su patrimonio, incluyendo los recursos que conforman su régimen de financiamiento; así como de establecer un sistema de contabilidad que permita preparar la información relativa a los estados financieros periódicos y de campaña que deberán presentar al Consejo General en los términos previstos en esta ley.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
-2. Los partidos políticos deberán registrar, ante el Consejo General del Instituto, el órgano interno a que se refiere el párrafo anterior. Al hacerlo, señalarán el nombre de su titular, así como el de las demás personas autorizadas para representar al partido político ante el Consejo para los efectos relativos a la recepción del financiamiento público y de presentación de los informes a que se encuentre obligado.
+1. Cada partido político deberá contar con un órgano interno estatal como único encargado de recibir, registrar, controlar y administrar su patrimonio, incluyendo los recursos que conforman su régimen de financiamiento; así como de establecer un sistema de contabilidad que permita preparar la información relativa a los estados financieros periódicos y de campaña que deberán presentar al Consejo General en los términos previstos en esta ley.
 
-3. Las funciones de registro, control y administración a cargo de cada partido político que asumirá a través de su respectivo órgano interno, y que se refieren a los recursos financieros y materiales que constituyen el patrimonio, implica para aquéllos, sujetarse al cumplimiento de las obligaciones siguientes:
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+2. Los partidos políticos deberán por conducto de sus dirigencias estatales registrar, ante el Consejo General del Instituto, el órgano interno a que se refiere el párrafo anterior. Al hacerlo, señalarán el nombre de su titular, así como el de las demás personas autorizadas para representar al partido político ante el Consejo para los efectos relativos a la recepción del financiamiento público y de presentación de los informes a que se encuentre obligado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+3. Las funciones de registro, control y administración a cargo de cada partido político que asumirá a través de su respectivo órgano interno estatal, y que se refieren a los recursos financieros y materiales que constituyen el patrimonio, implica para aquéllos, sujetarse al cumplimiento de las obligaciones siguientes:
 
 I. Llevar sus registros conforme a los principios de contabilidad generalmente aceptados; el Consejo General del Instituto proporcionará anualmente el catálogo de cuentas y las formas o formatos de reportes a que se adecuará el mismo;
 
@@ -1283,7 +1311,9 @@ Informes Contables de los Partidos Políticos
 
 ARTÍCULO 71
 
-1. Los partidos políticos deberán presentar al Consejo General del Instituto, informes sobre el origen y monto de los ingresos que perciban por cualquier modalidad de financiamiento; su empleo y aplicación, así como un estado de posición financiera anual, de conformidad a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+1. Los partidos políticos por conducto de sus dirigencias estatales deberán presentar al Consejo General del Instituto, informes sobre el origen y monto de los ingresos que perciban por cualquier modalidad de financiamiento; su empleo y aplicación, así como un estado de posición financiera anual, de conformidad a lo siguiente:
 
 I. Informes de periodicidad anual, que se presentarán a más tardar dentro de los sesenta días naturales siguientes a la conclusión del ejercicio fiscal que se reporte, y que serán:
 
@@ -1449,15 +1479,19 @@ III. Presentar un solo registro, emblema, colores y denominación.
 
 Coaliciones. Notificación al Instituto
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ARTÍCULO 81
 
-1. Los partidos políticos que pretendan formar una coalición, deberán manifestar por escrito dirigido al Instituto, dentro de los cuarenta días anteriores al inicio del periodo de registro de candidatos en la elección en que pretendan coligarse, su voluntad de constituirla. A fin de que se designe un fedatario por parte del Instituto para que verifique el procedimiento que desarrollarán los partidos políticos que pretenden coligarse.
+1. Los partidos políticos que pretendan formar una coalición, deberán manifestar por escrito dirigido al Instituto, a través de sus dirigencias estatales, dentro de los cuarenta días anteriores al inicio del periodo de registro de candidatos en la elección en que pretendan coligarse, su voluntad de constituirla. A fin de que se designe un fedatario por parte del Instituto para que verifique el procedimiento que desarrollarán los partidos políticos que pretenden coligarse.
 
 Coalición. Requisitos para su registro
 
 ARTICULO 82
 
-1. Para que el Instituto tramite la solicitud de registro de una coalición, los partidos políticos interesados deberán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+1. Para que el Instituto tramite la solicitud de registro de una coalición, los partidos políticos interesados a través de sus dirigencias estatales, deberán:
 
 I. Acreditar que la coalición fue aprobada por la asamblea estatal u órgano competente de conformidad a los estatutos de cada uno de los partidos políticos coligados;
 
@@ -1855,7 +1889,9 @@ Registro de Plataforma Electoral
 
 ARTÍCULO 115
 
-1. Es derecho exclusivo de los partidos políticos y en su caso de las coaliciones, solicitar el registro de candidatos a cargos de elección popular.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+1. Es derecho exclusivo de los partidos políticos, a través de sus dirigencias estatales, y en su caso de las coaliciones, solicitar el registro de candidatos a cargos de elección popular.
 
 2. Iniciado el proceso electoral, para que proceda el registro de candidaturas a cualquier cargo de elección popular, previamente cada partido político solicitará al Consejo General del Instituto, a más tardar el día 15 de marzo del año de la elección, el registro de la plataforma electoral que sus candidatos sostendrán en sus campañas políticas.
 
@@ -1863,9 +1899,13 @@ ARTÍCULO 115
 
 Solicitudes de Registro. Equidad entre Géneros
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ARTÍCULO 116
 
-1. De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados, como de ayuntamientos que presenten los partidos políticos o las coaliciones ante el Instituto, en ningún caso incluirán más del 70% de candidatos propietarios de un mismo género.
+1. De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados, como de ayuntamientos que presenten los partidos políticos, a través de sus dirigencias estatales, o las coaliciones ante el Instituto, en ningún caso incluirán más del 70% de candidatos propietarios de un
+
+mismo género.
 
 Segmentación de Listas Plurinominales. Equidad de Géneros
 
@@ -1887,7 +1927,9 @@ Registro de Candidatos Migrantes al cargo de Diputados
 
 ARTÍCULO 119
 
-1. Las listas de candidatos a diputados por el principio de representación proporcional que registre cada partido político, deberán integrar una fórmula de candidato propietario y suplente con carácter de migrante que ocupará el último lugar de la lista plurinominal.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+1. Las listas de candidatos a diputados por el principio de representación proporcional que registre cada partido político, a través de sus dirigencias estatales, deberán integrar una fórmula de candidato propietario y suplente con carácter de migrante que ocupará el último lugar de la lista plurinominal.
 
 2. El lugar que ocupe esta fórmula de candidatos con carácter migrante, deberá ser la última de la lista que por ese concepto obtenga cada partido político, independientemente del lugar que esta fórmula de candidatos de carácter migrante tenga en la lista estatal registrada. Para la aplicación de este procedimiento se estará a lo señalado en el artículo 25 de esta ley.
 
@@ -2003,7 +2045,9 @@ Sustitución de Candidatos Registrados
 
 ARTÍCULO 129
 
-1. Para la sustitución de candidatos registrados, los partidos políticos y en su caso las coaliciones, deberán solicitarla por escrito dirigido al Consejo General, de conformidad con lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+1. Para la sustitución de candidatos registrados, los partidos políticos, a través de sus dirigencias estatales, y en su caso las coaliciones, deberán solicitarla por escrito dirigido al Consejo General, de conformidad con lo siguiente:
 
 I. Dentro del plazo establecido para el registro de candidatos, podrán sustituirlos libremente, por los funcionarios de partido o representantes de coalición facultados para ello;
 
@@ -3449,6 +3493,8 @@ ARTÍCULO 243
 
 1. El Consejo General es el órgano máximo de dirección del Instituto y se integra con un Consejero Presidente, que lo será también del Instituto, y seis consejeros electorales, con sus respectivos suplentes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2006)</small>
+
 2. El Consejero Presidente y los consejeros electorales durarán en su cargo cuatro años y podrán ser ratificados para otro periodo. La Ley Orgánica del Instituto determinará reglas sobre equidad entre géneros, así como los requisitos de imparcialidad e independencia que deberán reunir los consejeros electorales y la retribución a que tendrán derecho mientras duren en el cargo. De los consejeros electorales propietarios, preferentemente, cuatro serán de un género y tres del otro.
 
 3. El Consejero Presidente y los consejeros electorales serán designados por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, a propuesta de las fracciones legislativas.
@@ -3461,7 +3507,9 @@ ARTÍCULO 244
 
 2. Los consejeros representantes del Poder Legislativo serán electos por el Pleno de la Legislatura. Serán propuestos por las fracciones legislativas. Se elegirá un propietario y un suplente por cada fracción legislativa.
 
-3. El Consejero Presidente propondrá al Consejo General una terna para la designación del Secretario Ejecutivo, que será elegido mediante el voto de las dos terceras partes de sus integrantes.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+3. El Consejero Presidente propondrá al Consejo General una terna para la designación del Secretario Ejecutivo y de los integrantes de la Junta Ejecutiva, que serán elegidos mediante el voto de las dos terceras partes de sus integrantes; por ningún motivo deberá haber vacantes en la Secretaría ni en la Junta Ejecutiva por más de cuarenta y cinco días naturales; por tanto, en un plazo de treinta días naturales siguientes a la situación de vacancia, el Presidente del Consejo deberá presentar las ternas para la designación de los funcionarios; en caso de que no se realice la elección de conformidad con lo dispuesto en este artículo, el Consejo definirá el nombramiento dentro de los quince días naturales siguientes.
 
 Consejos Electorales Distritales y Municipales. Integración
 
@@ -3580,3 +3628,9 @@ DR. RICARDO MONREAL ÁVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
