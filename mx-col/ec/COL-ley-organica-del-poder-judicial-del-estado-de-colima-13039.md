@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "2006-09-23"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -123,19 +123,29 @@ IV.- El Cuarto, con residencia en la Población de Villa de Alvarez, comprende l
 
 ### CAPITULO I. SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 6.
 
-El Supremo Tribunal de Justicia reside en la Capital del Estado, y está integrado por un número de Magistrados Propietarios no menor de ocho, conforme a lo acordado por el Pleno, dos Suplentes y dos Supernumerarios, designados todos en la forma y términos que determina la Constitución Política del Estado.
+El Supremo Tribunal de Justicia residirá en la Capital del Estado y estará integrado por un número no mayor de trece magistrados propietarios. De los cuales doce integrarán Sala, el Magistrado restante fungirá como Presidente mientras dure su encargo, al término de (sic) cual integrará Sala en lugar del Magistrado electo para el nuevo período; más dos Magistrados Suplentes que cubrirán las faltas temporales de cualquiera de aquellos y dos Magistrados Supernumerarios que sustituirán a los anteriores, cuando por excusa o recusación de éstos no hubiere quien pueda conocer el negocio o cuando por las mismas causas no pudiera integrarse el Pleno. Los magistrados serán nombrados en la forma y términos que determina la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 El Supremo Tribunal funciona en Pleno y en Salas.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 El Pleno se compone de los magistrados propietarios que integran el Supremo Tribunal de Justicia, pero bastará la presencia de las tres cuartas partes de sus miembros para que pueda funcionar. Los magistrados suplentes y supernumerarios formarán parte del Pleno cuando substituyan a los magistrados propietarios y desempeñarán además las funciones que se contienen en la presente Ley.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 El Presidente del Supremo Tribunal de Justicia será uno de los magistrados propietarios, no integrará Sala durante el tiempo que desempeñe el cargo y será sustituido en ella por el magistrado que se designe en el Pleno.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 Los magistrados suplentes percibirán sueldo igual al que señale el Presupuesto a los propietarios en los casos y durante el tiempo que sustituyan a éstos, según lo establecido en la fracción II del artículo 64 de esta Ley. Los magistrados Supernumerarios percibirán los emolumentos que en cada caso le sean asignados por el Pleno y deberán ser proporcionales a los servicios que presten.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Las resoluciones del Pleno se tomarán por unanimidad o por mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o no hayan estado presentes durante la discusión del asunto de que se trate. En caso de empate se resolverá el asunto en la siguiente sesión, para la que se convocará a los magistrados que hubiesen concurrido a la anterior y a los que hubiesen faltado a la misma, siempre que estos no estuvieren legalmente impedidos; si en la última sesión tampoco se obtuviere mayoría se tendrá por desechado el proyecto y el Presidente del Supremo Tribunal designará otro magistrado distinto del ponente, para que formule nuevo proyecto, teniendo en cuenta las opiniones vertidas.
 
@@ -1652,3 +1662,7 @@ Los Peritos registrados deberán acreditar haber cubierto los derechos correspon
 P.O. 23 DE SEPTIEMBRE DE 2006.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
