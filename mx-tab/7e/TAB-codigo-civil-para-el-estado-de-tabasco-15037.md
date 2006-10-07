@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2003-10-08"
+last_updated: "2006-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -5779,11 +5779,15 @@ Representación
 
 Los beneficiarios de los bienes afectos al patrimonio de familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por quien lo constituyó y, en su defecto, por quien nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 729.
 
 Inalienabilidad
 
-Los bienes afectos al patrimonio de familia son inalienables y no están sujetos a embargo ni gravamen alguno, con excepción de las responsabilidades fiscales que sobre ellos pesen y de las modalidades a que pudieren llegar a estar sujetos con relación al interés público.
+Los bienes afectos al patrimonio de la familia son inalienables y no están sujetos a embargo ni gravamen alguno, con excepción de las modalidades que pudiera exigir el interés público.
 
 ###### ARTICULO 730.
 
@@ -5799,17 +5803,25 @@ Uno por familia
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 732.
 
 Valor máximo
 
-El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a cuatro mil días del salario mínimo general vigente en el Estado.
+El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a diez mil días del salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 733.
 
 Requisitos para su constitución
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de primera instancia de su domicilio, designando con toda precisión y de manera que puedan ser inscritos gratuitamente en el Registro Público de la Propiedad los bienes que van a quedar afectos al expresado patrimonio. Además, comprobará lo siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+El que quiera constituir el patrimonio, lo manifestará por escrito al Juez de Primera Instancia de su domicilio, designando con toda precisión y de manera que puedan ser inscritos gratuitamente en el Registro Público de la Propiedad los bienes que van a quedar afectos al expresado patrimonio. Además, comprobará lo siguiente:
 
 I.- Que es mayor de edad o que está emancipado;
 
@@ -5819,7 +5831,11 @@ III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio
 
 La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
 
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio de familia; y que no reportan gravámenes fuera de la servidumbre. Si reportan gravámenes, podrá constituirse con ellos el patrimonio, aunque el acreedor no dé su consentimiento para ello; pero, en todo caso, el inmueble responderá del pago del débito, en los términos que se hubiere convenido. Para fijar el máximo avalúo del patrimonio, no se tomará en cuenta el valor del adeudo; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+IV.- Que son propiedad del constituyente los bienes destinados al patrimonio de familia; y que no reportan otros gravámenes diferentes a las servidumbres de paso o adeudos de contribuciones prediales;
 
 V.- Que el monto de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 732. Este valor se probará mediante avalúo expedido por institución de crédito. Si el interesado lo pidiere, la solicitud a que se refiere este artículo será redactada por el Juez, haciéndolo constar en acta.
 
@@ -5965,13 +5981,15 @@ Cuándo puede disminuirse
 
 Puede disminuirse el patrimonio de la familia cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 749.
 
-Disminución por incremento de valor
+Conservación del bien
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-También puede disminuirse el patrimonio de familia cuando éste, por causas posteriores a su constitución, ha rebasado más de un cien por ciento el valor máximo que pueda tener, conforme al artículo 732.
+Cuando por causas posteriores a la declaración de haberse constituido patrimonio de familia que no modifiquen las características del bien inmueble, se rebase en más de un ciento por ciento el valor máximo señalado en el Artículo 732, esto no alterará la inalienabilidad e inembargabilidad del bien.
 
 ###### ARTICULO 750.
 
@@ -25298,3 +25316,11 @@ P.O. 8 DE OCTUBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor 30 días después del día en que haya sido publicado en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la vigencia del Decreto que se aprueba se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a sus disposiciones.
+
+TERCERO.- Las solicitudes de Declaración de Patrimonio de Familia que se hayan promovido antes de la vigencia del presente Decreto se resolverán conforme a las disposiciones aplicables en ese momento.
