@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2006-05-15"
+last_updated: "2006-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1727,9 +1727,13 @@ Lo dispuesto en el artículo anterior se observará desde que los funcionarios e
 
 Todos los Funcionarios Públicos a que se refiere el artículo 139 de esta Constitución, que estén separados de su cargo con licencia, gozarán de fuero Constitucional.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 126.
 
-La responsabilidad por delitos y faltas oficiales de funcionarios o empleados públicos que gocen de fuero constitucional, sólo podrá exigirse durante el ejercicio del encargo y un año después. En cuanto a los delitos comunes se observarán las reglas generales de la prescripción.
+La responsabilidad por delitos y faltas oficiales de funcionarios o empleados públicos que gocen de fuero constitucional, solo podrá exigirse durante el ejercicio del encargo y un año después. Las sanciones correspondientes se aplicarán dentro de un período no mayor de un año a partir de iniciado el procedimiento.
+
+En cuanto a los delitos comunes se observarán las reglas generales de la prescripción.
 
 ###### Artículo 127.
 
@@ -2646,6 +2650,10 @@ P.O. 18 DE FEBRERO DE 2006.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
