@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2003-10-08"
+last_updated: "2006-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,33 +21,31 @@ state: "TAB"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-CÓDIGO FISCAL DE LA FEDERACIÓN
+CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE MARZO DE 1987.
+Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
-Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
+LIC. ROBERTO MADRAZO PINTADO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO EN EL ARTICULO 51, FRACCION I DE LA CONSTITUCION POLITICA LOCAL; A SUS HABITANTES SABED:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
-JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
+LA QUINCUAGESIMA QUINTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 36, FRACCIONES I Y XXXIX, DE LA CONSTITUCION POLITICA LOCAL Y EN BASE A LA SIGUIENTE:
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+...
 
-DECRETO:
+Que este Honorable Congreso está facultado en términos del artículo 36, fracciones I y XXXIX de la Constitución Política Local, para expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social, por lo que en consecuencia hemos tenido a bien emitir el siguiente:
 
-"El Congreso de los Estados Unidos Mexicanos, Decreta:
+DECRETO No. 205
 
-CODIGO FISCAL DE LA FEDERACION
+###### ARTICULO UNICO
 
-###### ARTICULO UNICO.
+Se aprueba el Código Civil para el Estado de Tabasco, para quedar como sigue:
 
-El presente Decreto entrará en vigor el 1o. de octubre de 1982.
+CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-D.O.F. 31 DE DICIEMBRE DE 1982.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+DISPOSICIONES GENERALES
 
 ###### ARTICULO 1.
 
@@ -115,3717 +113,1921 @@ II.- En el documento en que se haga constar el contrato, se transcriban textualm
 
 Afectan directamente al interés público las renuncias de derechos otorgadas por personas cultural, social y económicamente débiles, en convenios de contenido patrimonial.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Se considera domicilio fiscal:
+Nulidad de los actos ejecutados contra las leyes prohibitivas
 
-I. Tratándose de personas físicas:
+Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley ordene lo contrario. La nulidad que establece este artículo es absoluta.
 
-a). Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios.
+###### ARTICULO 11.
 
-b). Cuando no realicen las actividades señaladas en el inciso anterior y presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades.
+Costumbre
 
-c). En los demás casos, el lugar donde tengan el asiento principal de sus actividades.
+Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
 
-II. En el caso de personas morales:
+###### ARTICULO 12.
 
-a). Cuando sean residentes en el país, el local en donde se encuentre la administración principal del negocio.
+Ignorancia de la ley
 
-b). Si se trata de establecimientos de personas morales residentes en el extranjero, dicho establecimiento; en el caso de varios establecimientos, el local en donde se encuentre la administración principal del negocio en el país, o en su defecto el que designen.
+Nadie podrá sustraerse a la observancia de los preceptos legales alegando que los ignora, que son notoriamente injustos o que pugnan con sus opiniones y sólo procederán en contra de ellos los recursos determinados por las mismas leyes. Sin embargo, a pesar de lo dispuesto anteriormente, los jueces, atendiendo a las circunstancias de cada caso, podrán eximir a las personas físicas de las sanciones en que hubieren incurrido por no cumplir la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, instruyéndolas previamente sobre los deberes que dicha ley imponga, cuando quien ignore la ley sea un individuo de condición cultural, social y económicamente débil.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+###### ARTICULO 13.
 
-Las autoridades fiscales podrán practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquellos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 18.
+Excepción a las reglas generales
 
-###### Artículo 11.
+Las leyes que establezcan excepción a las reglas generales, no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
 
-Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, se aplicarán a éstos las siguientes reglas:
+###### ARTICULO 14.
 
-I. El ejercicio fiscal de las personas morales que no tengan ejercicio social y el de las personas físicas, coincidirá con el año de calendario.
+Efectos de las leyes de interés público
 
-II. Las personas morales que tengan ejercicio social, su ejercicio fiscal coincidirá con éste, salvo en el caso del ejercicio de liquidación, y deberá reunir los siguientes requisitos:
+Los efectos de las leyes de interés público, no podrán alterarse por convenio celebrado entre particulares.
 
-a). El ejercicio regular abarcará siempre doce meses y el irregular un período menor.
+###### ARTICULO 15.
 
-b). Los ejercicios terminarán el día último del mes de calendario que el contribuyente elija.
+Efectos jurídicos de actos celebrados fuera del Estado
 
-En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación o se fusione. En el primer caso, simultáneamente con la presentación de la declaración del ejercicio se deberá garantizar el interés fiscal en los términos que señale el reglamento de este Código y se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, presentará las declaraciones del ejercicio de la sociedad que desaparezca, la que subsista.
+Los efectos jurídicos de los actos y contratos celebrados fuera del Estado de Tabasco, pero que deban ser ejecutados en el mismo, se regirán por las disposiciones de este Código y demás leyes tabasqueñas y, en su caso, por las leyes federales que resulten aplicables.
 
-Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
+###### ARTICULO 16.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+Bienes sitos en el Estado
 
-###### Artículo 12.
+Los bienes muebles e inmuebles, sitos en el Estado, se regirán por las leyes tabasqueñas y, en su caso, por las federales que resulten aplicables, aun cuando los dueños no sean mexicanos ni vecinos del Estado.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. de mayo; el 5 de mayo; el 16 de septiembre; el 12 de octubre; el 1o. y el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+###### ARTICULO 17.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Forma de los actos jurídicos
 
-Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales federales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
+Los actos jurídicos en todo lo relativo a su forma, se regirán por las leyes del lugar donde suceden. Sin embargo, los mexicanos y los extranjeros residentes fuera del Estado de Tabasco, quedan en libertad para sujetarse a las formas prescritas por este Código y demás leyes locales relativas, cuando el acto haya de tener ejecución dentro del territorio del mismo Estado. Cuando sean relativos a bienes inmuebles que se encuentren dentro del Estado, para que produzcan efectos con relación a terceros, deberán inscribirse en el Registro Público de la Propiedad del lugar de su ubicación, aun cuando no se exija este requisito en el lugar del otorgamiento.
 
-En los plazos establecidos por períodos y aquéllos en que se señale una fecha determinada para su extinción se computarán todos los días.
+###### ARTICULO 18.
 
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+Responsabilidad civil de autoridades
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+El uso abusivo que hagan las autoridades de sus atribuciones legales y todo abuso que de su derecho realicen los particulares, es causa de responsabilidad civil, la cual sólo podrá ser reclamada dentro del plazo de un año, contado a partir del día en que el afectado tenga conocimiento del hecho abusivo.
 
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+###### ARTICULO 19.
 
-Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+Obligación de resolver controversias
 
-###### Artículo 13.
+El silencio, obscuridad o insuficiencia de la ley, no autoriza a los jueces o Tribunales para dejar de resolver una controversia que ante ellos sea planteada.
 
-La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las 24 horas del día.
+###### ARTICULO 20.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Resolución de controversias civiles
 
-Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
+Las controversias judiciales del orden civil, deberán resolverse conforme a la letra de la ley o a su interpretación jurídica. A falta de ley, se resolverán conforme a los principios generales del derecho.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+###### ARTICULO 21.
 
-###### Artículo 14.
+Resolución de conflicto de derechos
 
-Se entiende por enajenación de bienes:
+En caso de conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicio y no en favor del que pretenda obtener un lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá en favor de la parte que cultural, económica y socialmente sea más débil; y sólo cuando las partes se encuentren en circunstancias semejantes, se resolverá observando la mayor equidad posible entre los interesados.
 
-I. Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado.
+###### ARTICULO 22.
 
-II. Las adjudicaciones, aun cuando se realicen a favor del acreedor.
+Costumbre como norma jurídica
 
-III. La aportación a una sociedad o asociación.
+La costumbre puede ser aceptada como norma jurídica de carácter general, únicamente cuando la ley expresamente remita a ella.
 
-IV. La que se realiza mediante el arrendamiento financiero.
+###### ARTICULO 23.
 
-V. La que se realiza a través del fideicomiso, en los siguientes casos:
+Deberes en beneficio de la familia
 
-a). En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+El Juez, o quien represente al Ministerio Público, incurre en responsabilidad civil y oficial cuando no cumpla los deberes que este Código le impone en beneficio de la familia, los menores y los incapacitados. Para los efectos de este Código, la familia la forman las personas que estando unidas por matrimonio, concubinato o por lazos de parentesco de consanguinidad, de afinidad o civil, habiten en una misma casa o tengan unidad en la administración del hogar.
 
-b). En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+###### ARTICULO 24.
 
-VI. La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+Participación del Ministerio Público
 
-a). En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-b). En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
+Además de los casos expresamente señalados por la ley, será siempre oído el Ministerio Público en todos los negocios judiciales relativos a la familia, matrimonio, nulidad de éste, divorcio, concubinato, filiación, patria potestad, tutela, curatela, ausencia, rectificación o nulidad de actas del estado civil, patrimonio de familia y sucesión.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+###### ARTICULO 25.
 
-VII. La Transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+Interpósita persona
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+En caso de que este Código no permita a una persona la adquisición de un derecho o la celebración de un acto jurídico, no podrá hacerlo por sí ni por interpósita persona y, para esos efectos, salvo que se disponga otra cosa, se presume que son interpósitas personas el cónyuge, en su caso el concubinario o la concubina, y los presuntos herederos o socios de la persona a quien la ley no permite adquirir ese derecho o realizar tal acto jurídico.
 
-Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses. No se consideran enajenaciones al público en general, cuando en la documentación comprobatoria se traslade en forma expresa y por separado el impuesto al valor agregado.
+###### ARTICULO 26.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Derecho del tanto
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Cuando tratándose de la transmisión de derechos por acto entre vivos, a título oneroso, este Código conceda el derecho del tanto, el enajenante notificará al titular o titulares de tal derecho, los términos y condiciones de la enajenación que tuviere convenida, para que aquéllos puedan hacer uso de su derecho del tanto dentro de los ocho días siguientes a la notificación. Transcurrido ese plazo, sin haberlo ejercitado, se pierde el expresado derecho. Mientras no se haya hecho la notificación, la enajenación no producirá efecto legal alguno.
 
-Se considera que la enajenación se efectúa en territorio nacional, entre otros casos, si el bien se encuentra en dicho territorio al efectuarse el envío al adquirente y cuando no habiendo envío, en el país se realiza la entrega material del bien por el enajenante.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Si hay varios titulares del derecho del tanto que hicieren uso de éste al mismo tiempo y respecto del mismo bien, será preferido, si la ley no dispone de otra cosa, el que represente mayor parte; cuando la ley conceda aquél a quienes con anterioridad tengan ya un derecho real sobre el bien objeto de la enajenación y si las partes son iguales, será preferido el designado por la suerte, salvo convenio en contrario.
 
-Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
+###### ARTICULO 27.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Lesión
 
-###### Artículo 15.
+Si alguno, explotando o aprovechándose de la ignorancia, necesidad de otro o de su debilidad cultural, social o económica, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tendrá derecho a obtener la declaración de nulidad del contrato o, en su caso, la reducción equitativa de su obligación.
 
-Arrendamiento financiero es el contrato por el cual se otorga el uso o goce temporal de bienes tangibles, siempre que se cumpla con los siguientes requisitos:
+###### ARTICULO 28.
 
-I. Que se establezca un plazo forzoso que sea igual o superior al mínimo para deducir la inversión en los términos de las disposiciones fiscales o cuando el plazo sea menor, se permita a quien recibe el bien, que al término del plazo ejerza cualquiera de las siguientes opciones:
+Cómputo de plazos
 
-a). Transferir la propiedad del bien objeto del contrato mediante el pago de una cantidad determinada, que deberá ser inferior al valor de mercado del bien al momento de ejercer la opción.
+Salvo disposición de la ley en otro sentido, los plazos fijados por este Código se computarán atendiendo a las reglas siguientes:
 
-b). Prorrogar el contrato por un plazo cierto durante el cual los pagos serán por un monto inferior al que se fijó durante el plazo inicial del contrato.
+I.- Se contarán por años, meses y días, respectivamente, y no de momento a momento;
 
-c). Obtener parte del precio por la enajenación a un tercero del bien objeto del contrato.
+II.- Los años se computarán desde el día, mes y año en que empiece el plazo, hasta la misma fecha, menos un día del año siguiente y así sucesivamente;
 
-II. Que la contraprestación sea equivalente o superior al valor del bien al momento de otorgar su uso o goce.
+III.- Los meses se regularán por el número de días que les correspondan, según el calendario ordinario;
 
-III. Que se establezca una tasa de interés aplicable para determinar los pagos y el contrato se celebre por escrito.
+IV.- Los días se entenderán de veinticuatro horas naturales, contadas desde las cero horas hasta las doce de la noche;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+V.- El día en que comienza el plazo se cuenta siempre entero, aunque no lo sea; pero aquel en que termina debe ser completo; y
 
-###### Artículo 16.
-
-Se entenderá por actividades empresariales las siguientes:
-
-I. Las comerciales que son las que de conformidad con las leyes federales tienen ese carácter y no están comprendidas en las fracciones siguientes.
-
-II. Las industriales entendidas como la extracción, conservación o transformación de materias primas, acabado de productos y la elaboración de satisfactores.
-
-III. Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha y la primera enajenación de los productos obtenidos, que no hayan sido objeto de transformación industrial.
-
-IV. Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-V. Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, así como la captura y extracción de las mismas y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial.
-
-VI. Las silvícolas que son las de cultivo de los bosques o montes, así como la cría, conservación, restrauración (sic), fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
-
-Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen, parcial o totalmente, las citadas actividades empresariales.
-
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 17.
-
-Cuando se perciba el ingreso en bienes o servicios, se considerará el valor de éstos en moneda nacional en la fecha de la percepción según las cotizaciones o valores en el mercado, o en defecto de ambos el de avalúo. Lo dispuesto en este párrafo no es aplicable tratándose de moneda extranjera.
-
-Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
-
-###### Artículo 18.
-
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
-
-Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Hacienda y Crédito Público, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
-
-I. Constar por escrito.
-
-II. El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro federal de contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que le correspondió en dicho registro.
-
-III. Señalar la autoridad a la que se dirige y el propósito de la promoción.
-
-IV. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
-
-Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al registro federal de contribuyentes a que se refiere el artículo 31 de este Código.
-
-###### Artículo 19.
-
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario.
-
-Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
-
-Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-###### Artículo 20.
-
-Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional. Los pagos que deban efectuarse en el extranjero se podrán realizar en la moneda del país de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-En los casos en que las leyes fiscales así lo establezcan a fin de determinar las contribuciones y sus accesorios, se aplicará el índice nacional de precios al consumidor, el cual será calculado por el Banco de México y se publicará en el Diario Oficial de la Federación dentro de los primeros diez días del mes siguiente al que corresponda.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Para determinar las contribuciones y sus accesorios se considerará el tipo de cambio a que se haya adquirido la moneda extranjera de que se trate, y no habiendo adquisición, se estará al tipo de cambio promedio para enajenación con el cual inicien operaciones en el mercado las instituciones de crédito en la ciudad de México o, en su caso, al tipo de cambio establecido por el Banco de México cuando se trate de actos o actividades que deban realizarse con las instituciones de crédito sujetos a un tipo de cambio diferente al anterior, correspondientes al día en que se causen las contribuciones. El tipo de cambio promedio para enajenación a que se refiere este párrafo será el que mensualmente publique la Secretaría de Hacienda y Crédito Público durante la primera semana del mes inmediato siguiente a aquél al que corresponda, para cada uno de los días de dicho mes de calendario. Para los días en que las instituciones de crédito no hubieran realizado operaciones, se tomará en cuenta el tipo de cambio correspondiente al día inmediato anterior en que sí las hubieran realizado.
-
-Cuando las disposiciones fiscales permitan el acreditamiento de impuestos o de cantidades equivalentes a éstos, pagados en moneda extranjera, se considerará el tipo de cambio que corresponda conforme a lo señalado en el párrafo anterior, referido a la fecha en que se causó el impuesto que se traslada o en su defecto cuando se pague.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Para determinar las contribuciones al comercio exterior, así como para pagar aquéllas que deban efectuarse en el extranjero, se considerará el tipo de cambio que fije la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
-
-Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados únicamente se aceptarán en los casos y con las condiciones que establezca el Reglamento de este Código.
-
-> <small>(F. DE E., D.O.F. 28 DE MARZO DE 1984)</small>
-
-Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
-
-I. Gastos de ejecución.
-
-II. Recargos.
-
-III. Multas.
-
-IV. La indemnización a que se refiere el antepenúltimo párrafo del artículo 21 de este Código.
-
-Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior para efectuar el pago se estará a lo dispuesto por la Ley Monetaria.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Cuando las leyes establezcan que las contribuciones se pagan mediante declaración, la Secretaría de Hacienda y Crédito Público podrá ordenar, por medio de disposiciones de carácter general, y con el objeto de facilitar el cumplimiento de la obligación que la información correspondiente se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-Artículo 20 BIS.- El Indice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20, que calcula el Banco de México, se sujeta a lo siguiente:
-
-I. Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
-
-> <small>(F. DE E., D.O.F. 17 DE ENERO DE 1989)</small>
-
-II. Deberán cotizarse los precios correspondientes a cuando menos 2000 productos y servicios específicos agrupados en 250 conceptos de consumo, los cuales abarcarán al menos 35 ramas de los sectores agrícola, ganadero, industrial y de servicios, conforme al catálogo de actividades económicas elaborado por el Instituto Nacional de Estadística, Geografía e Informática.
-
-III. Tratándose de alimentos las cotizaciones de precios se harán como mínimo tres veces durante cada mes. El resto de las cotizaciones se obtendrán una o más veces mensuales.
-
-IV. Las cotizaciones de precios con las que se calcule el Indice Nacional de Precios al Consumidor de cada mes, deberán corresponder al período de que se trate.
-
-V. El Indice Nacional de Precios al Consumidor de cada mes se calculará utilizando la fórmula de Laspeyres. Se aplicarán ponderadores para cada rubro del consumo familiar considerando los conceptos siguientes:
-
-Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, aparatos y enseres domésticos; salud y cuidado personal; transporte; educación y esparcimiento; otros servicios.
-
-El Banco de México publicará en el Diario Oficial de la Federación los estados, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas a que se refieren las fracciones I y II así como las cotizaciones utilizadas para calcular el Indice.
-
-###### Artículo 21.
-
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco federal por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 50% mayor de la tasa que mediante ley fije anualmente el Congreso de la Unión, tomando en consideración el Costo Porcentual Promedio de Captación de Recursos del Sistema Bancario, proporcionado por el Banco de México.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Cuando los recargos determinados por el contribuyebnte (sic) sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Cuando el contribuyente pague en forma espontánea en los términos del artículo 73 de este Código las contribuciones omitidas, el importe de los recargos no excederá de los causados durante un año.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere este artículo. No causarán recargos las multas no fiscales.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 22.
-
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque o certificados expedidos a nombre del contribuyente, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firmes de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
-
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de dos meses siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva. Si dentro de dicho plazo no se efectúa la devolución, el fisco federal deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 21 de este Código. Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde que se venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco federal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 21 de este Código, sobre las cantidades pagadas indebidamente y a partir de que se efectúo el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-En ningún caso los intereses a cargo del fisco federal excederán de los que se causen en cinco años.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 21 de este Código, sobre las cantidades devueltas indebidamente y los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
-
-La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-La devolución mediante los certificados a que se refiere el primer párrafo de este artículo sólo se podrá hacer cuando los contribuyentes tengan obligación de retener contribuciones, de efectuar pagos provisionales mediante declaración y cuando así lo soliciten.
-
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
-
-Lo dispuesto en el cuarto párrafo de este artículo también será aplicable cuando las autoridades fiscales hayan, efectuado compensación de oficio en los términos del penúltimo párrafo del artículo 23.
-
-###### Artículo 23.
-
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución por la cual están obligados a efectuar pagos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
-
-Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 21 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
-
-No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el artículo 22, aun cuando la devolución ya hubiera sido solicitada. En este caso se notificará personalmente al contribuyente la resolución que efectúe la compensación.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Se entenderá que es una misma contribución si se trata del mismo impuesto, aportación de seguridad social, contribución de mejoras o derecho.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 24.
-
-Se podrán compensar los créditos y deudas entre la Federación por una parte y los Estados, Distrito Federal, Municipios, organismos descentralizados o empresas de participación estatal mayoritarias, excepto sociedades nacionales de crédito, por la otra. Tratándose de la compensación con Estados y Municipios se requerirá previo acuerdo de éstos.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 25.
-
-Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos, inclusive el de presentar certificados de promoción fiscal o de devolución de impuestos. En los demás casos siempre se requerirá la presentación de los certificados de promoción fiscal o de devolución de impuestos, además del cumplimiento de los otros requisitos que establezcan los decretos en que se otorguen los estímulos.
-
-Los contribuyentes podrán acreditar el importe de los estímulos a que tengan derecho, a más tardar en un plazo de cinco años contados a partir del último día en que venza el plazo para presentar la declaración del ejercicio en que nació el derecho a obtener el estímulo; si el contribuyente no tiene obligación de presentar declaración del ejercicio, el plazo contará a partir del día siguiente a aquél en que nazca el derecho a obtener el estímulo.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con resquisitos (sic)formales adicionales al aviso a que se refiere el primer párrafo de este artículo, se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se obtenga la autorización o el documento respectivo.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscales a los que no tuvieran derecho, se causarán recargos en los términos del artículo 21 de este Código, sobre las cantidades acreditadas indebidamente y a partir de la fecha del acreditamiento.
-
-###### Artículo 26.
-
-Son responsables solidarios con los contribuyentes:
-
-I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
-
-II. Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
-
-III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación garantice respecto de dichas contribuciones el interés fiscal en los términos del artículo 11 de este Código, y siempre que cumpla con las obligaciones de presentar avisos y de proporcionar informes, a que se refiere este Código y su Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualquiera de los siguientes supuestos.
-
-a). No solicite su inscripción en el registro federal de contribuyentes.
-
-b). Cambie su domicilio sin presentar el aviso correspondiente en los términos del reglamento de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
-
-c). No lleve contabilidad, la oculte o la destruya.
-
-IV. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
-
-V. Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de dichas contribuciones.
-
-VI. Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado.
-
-VII. Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieran causado en relación con los bienes legados o donados, hasta por el monto de éstos.
-
-VIII. Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
-
-IX. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 27.
-
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar su inscripción en el registro federal de contribuyentes de la Secretaría de Hacienda y Crédito Público y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se establecen en el reglamento de este Código.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Las personas que hagan los pagos a que se refiere el Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, deberán solicitar la inscripción de los contribuyentes a los que hagan dichos pagos, para tal efecto éstos deberán proporcionarles los datos necesarios.
-
-Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro federal de contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Hacienda y Crédito Público dentro del mes siguiente a la autorización de la escritura.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-La Secretaría de Hacienda y Crédito Público llevará el registro federal de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Hacienda y Crédito Público sea parte. Las personas inscritas deberán conservar en su domicilio la documentación comprobatoria de haber cumplido con las obligaciones que establecen este artículo y el Reglamento de este Código.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Tratándose de establecimientos para la realización de actividades empresariales, o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, abiertos al público en general, los contribuyentes deberán conservar en ellos, copias de los avisos que por los mismos establecimientos o locales hayan presentando conforme a este artículo y al Reglamento de este Código, debiendo exhibirlos a las autoridades fiscales cuando éstas lo soliciten.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Las personas físicas que dejen de realizar actividades empresariales deberán garantizar el interés fiscal en los términos del Reglamento de este Código.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-La solicitud o los avisos a que se refiere el primer párrafo de este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
-
-###### Artículo 28.
-
-Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
-
-I. Llevarán los sistemas y registros contables que señale el reglamento de este Código, los que deberán reunir los requisitos que establezca dicho reglamento.
-
-II. Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas.
-
-III. Llevarán la contabilidad en su domicilio. Dicha contabilidad podrá llevarse en lugar distinto cuando se cumplan los requisitos que señale el reglamento de este Código.
-
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos que establezca el reglamento de este Código.
-
-Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por las máquinas registradoras de comprobación fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+VI.- Cuando el último día sea feriado, no se tendrá por completo el plazo, sino cumplido el primer día hábil que siga.
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
-## TITULO I. Disposiciones Generales
+## TITULO PRIMERO. DE LAS PERSONAS FISICAS
 
-###### Artículo 29.
+###### ARTICULO 29.
 
-Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por las actividades que se realicen, dichos comprobantes deberán reunir los requisitos que señale el Reglamento de este Código. Las personas que adquieran bienes o usen servicios deberán solicitar el comprobante respectivo.
+Quiénes son personas físicas
 
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
+Son personas físicas los seres humanos, y tienen capacidad de goce y capacidad de ejercicio.
 
-Los contribuyentes con local fijo tendrán obligación de registrar el valor de los actos o actividades que realicen con el público en general, en las máquinas registradoras de comprobación fiscal, cuando se las proporcione la Secretaría de Hacienda y Crédito Público, expedir los comprobantes respectivos; tenerlas en operación y cuidar que cumplan con el propósito para el que fueron proporcionadas. Cuando el adquiriente de los bienes o el usuario del servicio solicite comprobante que reúna requisitos para efectuar deducciones o acreditamiento de contribuciones deberán expedir dichos comprobantes además de los señalados en este párrafo.
+###### ARTICULO 30.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Capacidad de goce y ejercicio
 
-La Secretaría de Hacienda y Crédito Público llevará el registro de los contribuyentes a quienes proporcione máquinas registradoras de comprobación fiscal y éstos deberán presentar los avisos y conservar la información que señale el reglamento de este Código.
+La capacidad de goce es la aptitud para ser titular de derechos y obligaciones. La capacidad de ejercicio es la aptitud para ejercitar derechos y cumplir obligaciones.
 
-###### Artículo 30.
+###### ARTICULO 31.
 
-Las personas obligadas a llevar contabilidad deberán conservarla en el lugar a que se refiere la fracción III del artículo 28 de este Código a disposición de las autoridades fiscales.
+Capacidad de goce
 
-Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
+La capacidad de goce del ser humano se adquiere por el nacimiento y se pierde por la muerte, pero desde el momento en que es concebido, queda bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código. Esta disposición protege, también, a los concebidos por cualquier método de concepción humana artificial, aun cuando no se encuentren en el útero materno.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+###### ARTICULO 32.
 
-La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante el plazo en el que de conformidad con el artículo 67 de este Código se extingan las facultades de las autoridades fiscales, contado a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en que se presente la declaración del último ejercicio en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en que quede firme la resolución que les ponga fin.
+Restricciones a la personalidad
 
-Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 52 de este Código, podrán microfilmar la parte de su contabilidad que señale el reglamento y los microfilms tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezca el propio reglamento; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, será directamente responsable del cumplimiento.
+La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### ARTICULO 33.
 
-Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
+Igualdad
 
-###### Artículo 31.
+Ninguna distinción admite la ley en la capacidad de los seres humanos fundada en la diferencia de sexos o cualquiera otra causa.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro federal de contribuyentes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Hacienda y Crédito Público, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
+###### ARTICULO 34.
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Hacienda y Crédito Público, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro federal de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+A quiénes se puede demandar
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aun cuando no haya pago a efectuar, en tanto no presenten los avisos que correspondan para efectos del registro federal de contribuyentes.
+Todos los residentes de la entidad pueden ser demandados ante los Tribunales de éste, por las obligaciones y deberes contraídos dentro o fuera del mismo Estado. También a los que no residan en el Estado, si en él tienen bienes que estén afectos a las obligaciones contraídas, o si éstas deben tener su ejecución en el mismo Estado o si señaló como domicilio convencional para fijar la competencia.
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
+## TITULO SEGUNDO. DE LAS PERSONAS JURIDICAS COLECTIVAS
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+###### ARTICULO 35.
 
-Las declaraciones, avisos, solicitudes de inscripción en el registro federal de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público. También podrán enviarse por medio del servicio postal en pieza certificada en los casos en que la propia Secretaría lo autorice, conforme a las reglas generales que al efecto expida; en este último caso se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas de correos.
+Capacidad de las personas colectivas
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Las personas jurídicas colectivas autorizadas por la ley tienen capacidad de goce y de ejercicio, salvo que su autonomía esté restringida por disposición legal o declaración judicial.
 
-Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de registro federal de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+###### ARTICULO 36.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Quiénes son personas jurídicas colectivas
 
-Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso y se omita hacerlo por alguna de ellas, se tendrá por no presentada la declaración o aviso por la contribución omitida.
+Son personas jurídicas colectivas:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Cuando las disposiciones fiscales no señalen plazo para la presentación de declaraciones, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
+I.- El Estado de Tabasco y sus municipios;
 
-###### Artículo 32.
+II.- Las demás corporaciones de carácter público reconocidas por la Ley;
 
-Las personas obligadas a presentar declaraciones tienen el derecho de presentar declaraciones complementarias sustituyendo los datos de la original. Este derecho puede ser ejercido dentro de los cinco años siguientes a la fecha en que se hubiera presentado la original.
+III.- Las asociaciones civiles;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+IV.- Las sociedades civiles;
 
-Iniciado el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales a que se refieren los artículos 58 y 76, según proceda, debiendo pagarse las multas que establece el citado artículo 76.
+V.- Las fundaciones; y
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+VI.- Las demás entidades de carácter privado a las que la ley atribuya o reconozca expresamente personalidad.
 
-Se presentará declaración complementaria conforme a lo previsto por el segundo párrafo del artículo 144, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del artículo 77, fracción II, inciso b).
+###### ARTICULO 37.
 
-Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 21 de este Código, a partir de la fecha en que se debió hacer el pago.
+Reconocimiento de la capacidad
 
-###### Artículo 33.
+En el Estado de Tabasco se reconoce capacidad de goce y de ejercicio de las personas jurídicas colectivas creadas o autorizadas por las leyes federales y por las leyes de los demás Estados de la Federación.
 
-Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
+###### ARTICULO 38.
 
-I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
+Ejercicio de derechos
 
-II. Mantener oficinas en diversos lugares del territorio nacional que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
+Las personas jurídicas colectivas pueden ejercitar los derechos que no sean incompatibles con su objeto y, en general, todos aquellos que no les estén prohibidos por la ley.
 
-III. Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia.
+###### ARTICULO 39.
 
-IV. Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige.
+Regulación
 
-V. Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
+Las personas jurídicas colectivas se regirán por las leyes correspondientes y, en su caso, por lo dispuesto en este Código, por su escritura constitutiva y por sus estatutos; y se obligan por medio de los órganos que las representen legítimamente o en la forma que dispongan las leyes.
 
-VI. Efectuar en distintas partes del país reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales períodos de presentación de declaraciones.
+## TITULO TERCERO. DEL DOMICILIO
 
-VII. Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año.
+###### ARTICULO 40.
 
-###### Artículo 34.
+De las personas
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
+El domicilio de una persona física es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se halle.
 
-## TITULO II. De los Derechos y Obligaciones de los Contribuyentes
+###### ARTICULO 41.
 
-###### Artículo 35.
+Propósito de establecerse en un lugar
 
-Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Diario Oficial de la Federación.
+Se presume el propósito de establecerse en un lugar, cuando se reside más de seis meses en él. Transcurrido el mencionado tiempo, el que no quiera que nazca la presunción que se acaba de señalar, declarará dentro del término de quince días, tanto a la autoridad municipal de su domicilio, como a la autoridad municipal de donde se encuentre, que no desea perder su antiguo domicilio y adquirir uno nuevo. La declaración no producirá efectos si se hace en perjuicio de terceros.
 
-###### Artículo 36.
+###### ARTICULO 42.
 
-Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal Fiscal de la Federación mediante juicio iniciado por las autoridades fiscales.
+Legal
 
-Cuando la Secretaría de Hacienda y Crédito Público modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no se encuentre presente.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+###### ARTICULO 43.
 
-Artículo 36 BIS.- Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos distintos a los de comercio exterior, que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal o se refieran a deducciones, surtirán sus efectos, en el caso, para el ejercicio para el cual se hubieren dictado.
+Cuál se reputa legal
 
-> <small>(F. DE E., D.O.F. 17 DE ENERO DE 1989)</small>
+Se reputa como domicilio legal:
 
-Al concluir el ejercicio para el que se hubiere emitido una resolución de las que señala el párrafo anterior, los interesados podrán someter las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
+I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad esté sujeto;
 
-Este precepto no será aplicable a las autorizaciones relativas a pagos provisionales, prórrogas para el pago y aceptación y dispensa de garantías del interés fiscal.
+II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
-###### Artículo 37.
+III.- De los militares en servicio activo, el lugar en que están destinados;
 
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de cuatro meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
+IV.- De los empleados públicos, el lugar donde desempeñen sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior; y
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+V.- De los sentenciados a sufrir una pena privativa de libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
-Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
+###### ARTICULO 44.
 
-###### Artículo 38.
+De las personas jurídicas colectivas
 
-Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
+El domicilio de las personas jurídicas colectivas se determina:
 
-I. Constar por escrito.
+I.- Por la ley que las haya creado o reconocido o que las rija directamente;
 
-II. Señalar la autoridad que lo emite.
+II.- Por su escritura constitutiva, los estatutos o reglas de su fundación; y
 
-III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate.
+III.- En defecto de lo anterior, por el lugar en que se ejerzan las principales funciones de su instituto o se haya establecido su representación legal.
 
-IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+###### ARTICULO 45.
 
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
+Actos ejecutados dentro del territorio del Estado
 
-###### Artículo 39.
+Las personas jurídicas colectivas privadas que tengan su domicilio fuera del Estado, pero que ejerciten actos jurídicos dentro de su territorio, se consideran domiciliadas en el lugar donde los hayan ejecutado, para todo lo que a esos actos se refiere. Las personas jurídicas colectivas privadas que operen por medio de sucursales, en lugar distinto de la casa matriz, se entenderán sometidas, para todo lo relativo a los hechos que sean imputables a sus sucursales o a los actos jurídicos que éstas realicen, a la jurisdicción del lugar donde suceden tales hechos o se efectúen tales actos jurídicos. Para los efectos de este artículo, se equiparan a las personas jurídicas colectivas privadas, las empresas de participación estatal.
 
-El Ejecutivo Federal mediante resoluciones de carácter general podrá:
+###### ARTICULO 46.
 
-I. Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del país, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+Convencional
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Se tiene derecho de designar un domicilio convencional para el cumplimiento de obligaciones determinadas.
 
-II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+## TITULO CUARTO. DEL NOMBRE
 
-III. Conceder subsidios o estímulos fiscales.
+###### ARTICULO 47.
 
-Las resoluciones que conforme a este artículo dicte el Ejecutivo Federal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
+De las personas físicas
 
-## TITULO III. De las Facultades de las Autoridades Fiscales
+El nombre de las personas físicas se forma por el nombre propio y los apellidos paternos de sus progenitores.
 
-###### Artículo 40.
+###### ARTICULO 48.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán indistintamente:
+Nombre propio
 
-I. Solicitar el auxilio de la fuerza pública.
+El nombre propio será puesto libremente por quien registre el nacimiento de un niño y los apellidos serán los paternos de los progenitores. Si no se sabe quiénes son éstos, el nombre y apellidos serán puestos por el Oficial del Registro Civil.
 
-II. Imponer la multa que corresponda en los términos de este Código.
+###### ARTICULO 49.
 
-III. Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+De la mujer casada
 
-###### Artículo 41.
+La mujer casada podrá conservar libremente su nombre o sustituir su segundo apellido por el primero de su cónyuge, anteponiéndole la preposición "de"; la sustitución no quedará sin efectos en los casos de divorcio o nulidad del matrimonio, ni de viudez, cuando la mujer quiera conservarlo.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Hacienda y Crédito Público exigirá la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+###### ARTICULO 50.
 
-I. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+De personas colectivas públicas
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Las personas jurídicas colectivas de carácter público, llevarán el nombre que las leyes les asignen.
 
-Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia Secretaría podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+###### ARTICULO 51.
 
-Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
+De personas colectivas privadas
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+El nombre de las personas jurídicas colectivas de carácter privado, estará constituido por la denominación o razón social que se les asigne en el acto de su constitución o de conformidad con sus estatutos.
 
-II. Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción III de este artículo por una misma omisión, salvo tratándose de declaraciones en que bastará con no atender un requerimiento. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
+###### ARTICULO 52.
 
-III. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende el requerimiento se impondrán multas por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+Derecho al uso
 
-En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+Todas las personas jurídicas, sean físicas o colectivas, tienen derecho al uso de su nombre, pudiendo por lo tanto oponerse a que un tercero use el mismo nombre sin tener derecho, conforme a las prescripciones de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+###### ARTICULO 53.
 
-###### Artículo 42.
+Derecho a controvertir el uso
 
-La Secretaría de Hacienda y Crédito Público a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
+El hecho de controvertir judicialmente el uso indebido de un nombre por otra persona, se transmite a los herederos del afectado para continuar la acción; pero no para ejercitarla si éste no lo hizo en vida.
 
-I. Rectificar los errores aritméticos que aparezcan en las declaraciones.
+###### ARTICULO 54.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Cuándo procede la modificación
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-III. Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías.
+Procede la modificación y, en su caso, el cambio de nombre con que una persona física esté inscrita en el Registro Civil:
 
-IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de disposiciones fiscales.
+I.- Si se demuestra que una persona ha usado, invariable y constantemente, en su vida social y jurídica otro nombre distinto al de su registro;
 
-V. Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte.
+II.- Si el nombre registrado expone a la persona al ridículo; y
 
-VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
+III.- En el caso de homonimia, si el solicitante demuestra que el uso del homónimo le causa perjuicio moral o económico.
 
-VII. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Hacienda y Crédito Público tendrán el mismo valor probatorio que la ley relativa concede a las actas de la policía judicial; y la propia Secretaría, a través de los abogados hacendarios que designe, será coadyuvante el ministerio público federal, en los términos del Código Federal de Procedimientos Penales.
+###### ARTICULO 55.
 
-Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+Reconocimiento de hijo
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+El reconocimiento de un hijo en los términos de los artículos 106, 107 y 108, produce el efecto de otorgar al reconocido, el derecho al uso de los apellidos correspondientes.
 
-La Secretaría de Hacienda y Crédito Público tendrá las facultades anteriores para comprobar el cumplimiento de las disposiciones sobre control de cambios.
+###### ARTICULO 56.
 
-###### Artículo 43.
+Sentencias sobre la paternidad o maternidad
 
-En la orden de visita, además de los requisitos a que se refiere el artículo 38 de este Código, se deberá indicar:
+Las sentencias ejecutoriadas que desconozcan o establezcan la paternidad o la maternidad producirán, respectivamente, el efecto de privar u otorgar a la persona de cuya filiación se trate, el derecho al uso del apellido correspondiente.
 
-I. El lugar o lugares donde debe efectuarse la visita.
+###### ARTICULO 57.
 
-II. El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
+Anotación marginal del acta
 
-Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 44.
+Para cumplir con lo dispuesto en el artículo anterior, la misma sentencia ordenará se envíen copias certificadas de los puntos resolutivos de la misma al Oficial del Registro Civil que corresponda, para que anote marginalmente el sentido del fallo en el acta de nacimiento del afectado y, en su caso, en la de su matrimonio.
 
-En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
+###### ARTICULO 58.
 
-I. La visita se realizará en el lugar o lugares señalados en la orden de visita.
+Validez de una modificación
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Ninguna modificación o cambio de nombre tendrá validez si no se hace mediante sentencia que concluya de un juicio en que se oiga juntamente al Ministerio Público y al Director del Registro Civil.
 
-II. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
+###### ARTICULO 59.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Obligaciones con nombre anterior
 
-En este caso, los visitadores al citar al visitado o su representante, podrán hacer una relación de los sistemas, libros, registros y demás documentación que integren la contabilidad. Si el contribuyente presenta aviso de cambio de domicilio, después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten.
+La modificación y, en su caso, el cambio de nombre de una persona, no libera ni exime a ésta de las obligaciones y responsabilidades que haya contraído con el nombre anterior.
 
-Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+## TITULO QUINTO. DEL REGISTRO CIVIL
 
-En los casos en que al presentarse los visitadores al lugar en donde deba practicarse la diligencia, descubran bienes o mercancías cuya importación, tenencia, producción, explotación, captura o transporte deba ser manifestada a las autoridades fiscales o autorizada por ellas, sin que se hubiera cumplido con la obligación respectiva, los visitadores procederán al aseguramiento de dichos bienes o mercancías.
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+###### ARTICULO 60.
 
-III. Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+Institución pública
 
-Los testigos pueden ser substituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+El Registro Civil es una institución pública de interés social a través de la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificativos del estado civil de las personas. Estas inscripciones surtirán efectos contra terceros.
 
-IV. Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+###### ARTICULO 61.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+A cargo de quién está
 
-###### Artículo 45.
+El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerárquicamente dependerá de la Secretaría de Gobierno. El Registro Civil está constituido por una Dirección, un Archivo Central, Unidades Administrativas y las Oficialías que establezca el reglamento respectivo.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita; así como permitir la verificación de bienes y mercancías.
+###### ARTICULO 62.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Oficiales del Registro Civil
 
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
+La titularidad de las Oficialías del Registro Civil estará a cargo de servidores públicos denominados "Oficiales del Registro Civil", quienes tendrán fe pública en el desempeño de las labores propias de su cargo y serán nombrados por el Director General, previo acuerdo del Ejecutivo.
 
-Los visitadores podrán recoger la contabilidad para examinarla en las oficinas de la autoridad fiscal, cuando se dé alguno de los siguientes supuestos:
+###### ARTICULO 63.
 
-I. El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
+Actas
 
-II. Existan sistemas de contabilidad, registros o libros sociales, que no estén sellados, cuando deban estarlo conforme a las disposiciones fiscales.
+Las actas del Registro Civil se asentarán en forma especial; la infracción a esta disposición producirá su nulidad. Las inscripciones se harán en forma computarizada o mecanográfica; en ambos casos, deberán contener la clave única de registro de población o, en su defecto, la transcripción de la misma; en caso de inscripción computarizada, se regirá conforme al procedimiento de guarda y distribución de las copias del respaldo informático y tratándose de forma mecanográfica, los formatos una vez utilizados se encuadernarán en volúmenes hasta de doscientas actas que corresponderán al año a que se refiera.
 
-III. Exista dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados.
+###### ARTICULO 64.
 
-IV. Se lleven dos o más libros sociales similares con distinto contenido.
+Expedición de formas
 
-V. No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
+Los oficiales del Registro Civil tendrán bajo su responsabilidad formas especiales por quintuplicado en las que se asentarán actas de "Nacimiento", "Reconocimiento de Hijos", "Adopción", "Matrimonio", "Divorcio Administrativo", "Defunción" e "Inscripción de sentencias ejecutoriadas", que declaren la emancipación, la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes. Las formas del Registro Civil serán expedidas por el Ejecutivo del Estado o por quien éste designe.
 
-VI. Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales, o cuando sean falsos o amparen operaciones inexistentes.
+###### ARTICULO 65.
 
-VII. Se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+Comprobación del estado civil
 
-VIII. Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
+El estado civil de las personas sólo se comprueba por las constancias respectivas del Registro Civil. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, con excepción de los casos previsto (sic) por este mismo Código.
 
-IX. Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+###### ARTICULO 66.
 
-En el caso de que los visitadores recojan la contabilidad, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 46 de este Código, con la que se terminará la visita domiciliaria en el domicilio o establecimientos del visitado, continuándose el ejercicio de las facultades de comprobación en las oficinas de las autoridades fiscales donde se levantará el acta final.
+Qué se puede insertar en las actas
 
-(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
+En las actas del estado civil no podrá insertarse, ni por vía de nota o advertencia, sino lo que esté expresamente prevenido en la ley; cualquier inserción que contravenga lo anterior, se tendrá por no puesta.
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores recojan sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos que se recogen, pudiendo continuar la visita en el domicilio o establecimientos del visitado.
+###### ARTICULO 67.
 
-###### Artículo 46.
+Requisitos a observar en las actas
 
-La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
+En las actas del estado civil se observarán los requisitos siguientes:
 
-I. De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado aunque dichos efectos no se consignen en forma expresa. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no constituyen resolución fiscal.
+I.- Se indicará el día, mes, año y hora exacta en que se presenten los interesados;
 
-II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción II del artículo 44 de este Código.
+II.- Se tomará razón de los documentos que se presenten;
 
-III. Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
+III.- Se indicarán los nombres, edad, nacionalidad y domicilio de las personas que se mencionen, en cuanto fuere posible;
 
-IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida.
+IV.- Las actas se numerarán progresivamente;
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+V.- No se emplearán abreviaturas;
 
-V. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia.
+VI.- No se harán raspaduras ni se borrará lo escrito;
 
-VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
+VII.- Si es necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible lo escrito, salvo lo dispuesto por el párrafo tercero del artículo 92; y
 
-## TITULO IV. De las Infracciones y Delitos Fiscales
+VIII.- Al final de cada acta se salvará con toda claridad lo entrerrenglonado y lo testado, conforme a la fracción anterior.
 
-###### Artículo 47.
+###### ARTICULO 68.
 
-Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente en los siguientes casos:
+Representación por mandatario
 
-I. Cuando el visitado antes del inicio de la visita hubiere presentado aviso ante la Secretaría de Hacienda y Crédito Público manifestando su deseo de presentar sus estados financieros dictaminados por contador público autorizado, siempre que dicho aviso se haya presentado en el plazo y cumpliendo los requisitos, que al efecto señale el reglamento de este Código.
+Si los interesados no pueden concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste en instrumento público o privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante el Juez de primera instancia o Notario Público.
 
-II. En los casos a que se refiere el artículo 58 de este Código.
+###### ARTICULO 69.
 
-En el caso de conclusión anticipada a que se refiere la fracción I de este artículo se deberá levantar acta en la que se señale esta situación.
+Testigos
 
-###### Artículo 48.
+Los testigos que intervengan en las actas del estado civil serán mayores de edad, prefiriéndose los que designen los interesados.
 
-Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+###### ARTICULO 70.
 
-I. La solicitud se notificará en el domicilio manifestado ante el registro federal de contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrán notificarse en su casa habitación o lugar donde éstas se encuentren.
+Formas oficiales
 
-II. En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos.
+Los actos del estado civil sólo pueden asentarse en las formas que señala el artículo 64.
 
-III. Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
+###### ARTICULO 71.
 
-###### Artículo 49.
+Conformidad del contenido
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1982)
+Extendida un acta, será leída en voz alta por el Oficial del Registro Civil que la autorice, en presencia de los que en ella intervengan, quienes la firmarán, y si alguno no pudiere hacerlo, se expresará la causa y se hará constar que los interesados quedan conformes con su contenido.
 
-###### Artículo 50.
+###### ARTICULO 72.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1982)
+Lectura del acta por el interesado
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Si alguno de los interesados quisiera enterarse por sí mismo del tenor del acta, podrá hacerlo y, si no supiere leer, uno de los testigos designados por él leerá aquélla y la firmará a su ruego, si el interesado no supiere hacerlo.
 
-###### Artículo 51.
+###### ARTICULO 73.
 
-Las autoridades fiscales que al ejercer las facultades de comprobación a que se refiere el artículo 48, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución.
+Suspensión del acta
 
-Los datos, documentos e informes que los terceros proporcionen, deberán darse a conocer al contribuyente mediante notificación que se efectuará en los términos del artículo 134 de este Código.
+Si un acto comenzado se entorpeciese por que las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta, marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, razón que deberá firmar el Oficial del Registro Civil, los interesados y los testigos si quisieren hacerlo.
 
-Cuando las autoridades fiscales conozcan de terceros, en ejercicio de las facultades de comprobación a que se refiere el artículo 48 de este Código, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario al que le estén practicando una visita domiciliaria, darán a conocer a éste el resultado de aquella actuación, en el acta final de la citada visita domiciliaria. En este caso se tendrán por aceptados los hechos u omisiones contra los cuales el contribuyente o responsable solidario no ofrezca pruebas para desvirtuarlos en los términos del artículo 54.
+###### ARTICULO 74.
 
-###### Artículo 52.
+Distribución de los ejemplares
 
-Los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de las disposiciones fiscales así como en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, se presumirán ciertos, salvo prueba en contrario, siempre que se reúnan los siguientes requisitos:
+Asentada un acta del estado civil, el Oficial que la autorice entregará un ejemplar de ella a los interesados, otro quedará en el Archivo de la Oficialía y los restantes se remitirán a la Dirección del Registro Civil para que ésta los distribuya como señale el Reglamento del Registro Civil.
 
-I. Que el contador público que dictamine esté registrado ante las autoridades fiscales para estos efectos. Este registro lo podrán obtener únicamente las personas de nacionalidad mexicana que tengan título de contador público registrado en la Secretaría de Educación Pública y que sean miembros de un colegio de contadores reconocido por la misma Secretaría.
+###### ARTICULO 75.
 
-II. Que el dictamen se formule de acuerdo con las disposiciones del reglamento de este Código y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado del mismo.
+Archivo
 
-III. Que el contador público emita, conjuntamente con su dictamen, un informe sobre la revisión de la situación fiscal del contribuyente, en el que consigne, bajo protesta de decir verdad, los datos que señale el Reglamento de este Código.
+A los datos que presenten los interesados se les anotará el número del acta y el sello de la Oficialía y se depositarán en el Archivo del Registro Civil, formándose con ellos el Apéndice.
 
-Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
+###### ARTICULO 76.
 
-Cuando el contador público no dé cumplimiento a las disposiciones referidas en este artículo, la autoridad fiscal, previa audiencia, suspenderá hasta por tres años los efectos de su registro. Si hubiera reincidencia o el contador hubiera participado en la comisión de un delito de carácter fiscal, se procederá a la cancelación definitiva de dicho registro. En estos casos se dará inmediatamente aviso por escrito al colegio profesional y, en su caso, a la Federación de Colegios Profesionales, a que pertenezca el contador público en cuestión.
+Prueba de acta perdida
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 53.
+Cuando no hayan existido registros o se hayan perdido, estuvieren rotos o borrados, o faltaren las hojas en que se pueda suponer estaba el acta, se aplicarán las siguientes disposiciones:
 
-En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten éstos informes o documentos del contribuyente, responsable solidario o tercero, se estará a lo siguiente:
+I.- Si se trata del estado civil constituido antes del establecimiento del Registro Civil, podrá demostrarse por los medios ordinarios de prueba;
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+II.- Si se trata del estado civil constituido después del establecimiento del Registro Civil hasta el día anterior a la fecha de haberse iniciado el asentamiento de las actas en formas impresas, se podrá recibir pruebas del acto por instrumentos o testigos; pero si uno solo de los registros se inutilizó y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase; y
 
-(SIC) Se tendrán los siguientes plazos para su presentación:
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-a). Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
+III.- Si el estado civil que pretenda probarse se constituyó después de haberse ordenado asentar las actas en formas impresas, podrá recibirse prueba del acto por instrumento o testigos; pero si en las dependencias a que se refiere el artículo 74 existiera algún ejemplar de las formas en que conste el acto, de ésta se tomará la prueba sin admitirla de otra clase. Para acreditar el estado civil adquiridos por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles en cuanto a su legalización, debiendo inscribirse en la Oficialía del Registro Civil de la adscripción de su domicilio.
 
-b). Seis días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+###### ARTICULO 77.
 
-c). Quince días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, en los demás casos.
+Actos del Oficial del Registro Civil
 
-Los plazos a que se refiere este inciso se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+Los actos y actas del estado civil del Oficial del Registro Civil, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por él mismo; se asentarán en las formas correspondientes, y se autorizarán por el Oficial de la adscripción más próxima o por el que designe el Director del Registro Civil.
 
-II. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+###### ARTICULO 78.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Oficialías del Registro Civil
 
-###### Artículo 54.
+Las Oficialías del Registro Civil estarán bajo el control, coordinación, inspección y vigilancia de la Dirección del Registro Civil.
 
-Los contribuyentes que no estén conformes con el resultado de la visita podrán inconformarse con los hechos contenidos en el acta final mediante escrito que deberán presentar ante las autoridades fiscales dentro de los cuarenta y cinco días siguientes al inmediato posterior a aquél en que se cerró. El plazo para inconformarse con los hechos contenidos en actas complementarias correrá a partir del día siguiente al inmediato posterior al en que se cierren.
+###### ARTICULO 79.
 
-Al escrito de inconformidad acompañarán las pruebas documentales pertinentes vinculadas a los hechos que pretendan desvirtuarse, siempre que no le hubiesen solicitado su presentación durante el desarrollo de la visita.
+Testimonios
 
-Los hechos con los cuales el contribuyente no se inconforme dentro del plazo legal o haciéndolo no los hubiera desvirtuado con las pruebas a que se refiere el párrafo anterior, se tendrán por consentidos.
+Toda persona puede pedir testimonio de las actas del Registro Civil y de los datos que señala el artículo 75. Los Oficiales del Registro Civil están obligados a expedirlo. Los testimonios de las actas harán fe en juicio y fuera de él.
 
-###### Artículo 55.
+###### ARTICULO 80.
 
-Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, así como el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
+Responsabilidad por defectos
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Los vicios o defectos que existan en las actas, sujetan al Oficial del Registro Civil a las penas establecidas en las leyes correspondientes.
 
-I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar la declaración del ejercicio de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que hayan transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate. Lo dispuesto en esta fracción no es aplicable a aportaciones de seguridad social.
+###### ARTICULO 81.
 
-II. No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales.
+Defectos no substanciales
 
-III. Se dé alguna de las siguientes irregularidades:
+Cuando los vicios o defectos de las actas no son substanciales, no producen la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-a). Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más de 3% sobre los declarados en el ejercicio.
+###### ARTICULO 82.
 
-b). Registro de compras, gastos o servicios no realizados o no recibidos.
+Responsabilidad por omisión
 
-c). Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios.
+La omisión del registro de reconocimiento en el caso del artículo 107, del registro de tutela y de la autorización de la adopción, no priva de sus efectos legales el reconocimiento, tutela y adopción, respectivamente, ni impide a los padres, tutores o adoptantes el ejercicio de sus facultades como tales, ni puede alegarse por ninguna persona en perjuicio del reconocido o del incapaz a que se refieran esos actos; pero los responsables de la omisión incurrirán en una multa hasta por el equivalente a quince días de salario mínimo general vigente en la Entidad, que impondrá el Oficial del Registro Civil del lugar donde se haya hecho la declaración extemporánea de nacimiento y que deberá enterarse en la oficina fiscal del Estado, de su jurisdicción. Respecto de la imposición de la multa a que se refiere este artículo, los oficiales del Registro Civil, gozarán de las facultades que se concede a los Jueces en el artículo 12 de este Código.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### ARTICULO 83.
 
-IV. No cumplan con las obligaciones sobre valuación de inventarios o no lleven el procedimiento de control de los mismos, que establezcan las disposiciones fiscales.
+Constancias de no residentes en el Estado
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Para establecer el estado civil de las personas que no residan en el Estado, bastará que las constancias presentadas estén conformes con las leyes del país o Estado de la República Mexicana en que se haya verificado el acto a que se refieren.
 
-V. Tengan la obligación de utilizar las máquinas registradoras de comprobación fiscal que les haya proporcionado la Secretaría de Hacienda y Crédito Público, y no lo hagan o las destruyan, alteren o impidan el propósito para el que fueron proporcionadas.
+###### ARTICULO 84.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Anotaciones
 
-VI. Se adviertan otras irregularidades en su contabilidad que imposibiliten el conocimiento de sus operaciones.
+Todo acto del estado civil relativo a otro ya registrado, deberá anotarse de oficio al margen del acta respectiva tan pronto reciba el Oficial del Registro Civil constancia de aquél. Las anotaciones se harán con la debida mención al folio del registro del acta a que se refieren tales anotaciones, y éstas se insertarán en todos los testimonios que se expidan. Si el acta que debe anotarse y la que motiva la anotación se hubieren autorizado en oficinas diversas, el Oficial que levantó la segunda remitirá copia de ella al del lugar en que se encuentre la primera, para que a su tenor se haga la anotación correspondiente.
 
-La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
+###### ARTICULO 85.
 
-###### Artículo 56.
+Sanciones por infracciones
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+La infracción de lo dispuesto en los artículos 67, 74 última parte, la falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas, se sancionarán con la destitución del Oficial del Registro Civil, sin perjuicio de las demás penas que establezcan las leyes.
 
-I. Utilizando los datos de la contabilidad del contribuyente.
+### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
-II. Tomando como base los datos contenidos en las declaraciones del ejercicio correspondiente a cualquier contribución, sea del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
+###### ARTICULO 86.
 
-III. A partir de la información que proporcionen terceros a solicitud de las autoridades fiscales, cuando tengan relación de negocios con el contribuyente.
+Declaración de nacimiento
 
-IV. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación.
+Las declaraciones de nacimiento se harán dentro de los 365 días siguientes a éste, presentando a la persona ante el Oficial del Registro Civil en su oficina y, en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre la persona.
 
-V. Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
+###### ARTICULO 87.
 
-###### Artículo 57.
+Extemporáneo
 
-Las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención y entero, por más del 3% sobre las retenciones enteradas.
+Si pasados los 365 días no se hubiere registrado el nacimiento, éste será extemporáneo y podrá hacerse en la forma siguiente: hasta los trece años de edad, el registro se hará con autorización del Director del Registro Civil. En cualquier otro caso deberá observarse lo previsto, al efecto, por el Código de Procedimientos Civiles de la Entidad.
 
-Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a V inclusive del artículo 56 de este Código.
+###### ARTICULO 88.
 
-Si las retenciones no enteradas corresponden a pagos a que se refiere el Capítulo I Título IV de la Ley del Impuesto sobre la Renta y el retenedor tiene más de veinte trabajadores a su servicio, se presumirá que las contribuciones que deben enterarse son las siguientes:
+Obligación de dar aviso
 
-I. Las que resulten de aplicar la tarifa que corresponda sobre el límite máximo del grupo en que, para efectos de pago de cotizaciones al Instituto Mexicano del Seguro Social, se encuentre cada trabajador al servicio del retenedor, elevado al período que se revisa.
+Los médicos, cirujanos, comadronas u otras personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil de la localidad, dentro de los diez días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna. Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere el párrafo anterior estará a cargo del director o de la persona encargada de la administración.
 
-II. En el caso de que el retenedor no hubiera efectuado pago de cotizaciones por sus trabajadores al Instituto Mexicano del Seguro Social, se considerará que las retenciones no enteradas son las que resulten de aplicar la tarifa que corresponda sobre una cantidad equivalente a cuatro veces el salario mínimo general de la zona económica del retenedor elevado al período que se revisa, por cada trabajador a su servicio.
+###### ARTICULO 89.
 
-Lo dispuesto en este artículo será aplicable también para determinar presuntivamente la base de otras contribuciones, cuando esté constituida por los pagos a que se refiere el Capítulo I del Título IV de la Ley del Impuesto sobre la Renta.
+Contenido
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+El acta de nacimiento contendrá el día, mes, año, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre que le corresponda, sin que por motivo alguno puedan omitirse; la expresión de si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos y, si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en el artículo siguiente.
 
-Tratándose de las aportaciones no enteradas al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, previstas en el artículo 136 de la Ley Federal del Trabajo, se considerará que las omitidas son las que resulten de aplicar la tasa del 5% a la cantidad equivalente a cuatro veces el salario mínimo general diario de la zona económica del patrón, elevado al período que se revisa, por cada trabajador a su servicio.
+###### ARTICULO 90.
 
-###### Artículo 58.
+Datos de los progenitores
 
-Cuando en el desarrollo de una visita en el domicilio fiscal, las autoridades fiscales se den cuenta de que el visitado se encuentra en alguna de las causales de determinación presuntiva señalada en el artículo 55 de este Código, siempre que tengan elementos suficientes para apreciar en lo fundamental la situación fiscal del visitado, dichas autoridades podrán proceder conforme a lo siguiente:
+Cuando el menor sea presentado por los padres o por uno de ellos, y se exhiba copia certificada del acta de matrimonio de éstos, salvo sentencia judicial definitiva en contrario, se asentarán los nombres, domicilio y nacionalidad de sus progenitores, abuelos y testigos.
 
-I. En un plazo que no excederá de tres meses después de iniciada una visita en el domicilio fiscal, le notificará a éste, mediante acta parcial, que se encuentra en posibilidad de que se le aplique la determinación presuntiva a que se refiere el artículo 55 de este Código.
+###### ARTICULO 91.
 
-II. Dentro de los quince días siguientes a la fecha de notificación del acta parcial, el visitado podrá corregir su situación fiscal en las distintas contribuciones que se causen por ejercicio a que haya estado afecto en el período sujeto a revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a los visitadores. Dicho plazo podrá prorrogarse por una sola vez por quince días más.
+Datos de quien presente
 
-III. Las autoridades podrán concluir la visita o continuarla. En el primer caso levantarán el acta final haciendo constar sólo el hecho de que el contribuyente corrigió su situación fiscal. En el caso de que las autoridades continúen la visita, deberán hacer constar en el acta final todas las irregularidades que hubieran encontrado y señalarán aquéllas que hubiera corregido el visitado.
+Cuando no se presente la copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado, en los términos que establece el artículo 68 de este Código, y el nombre de los abuelos por la línea del mismo o de los mismos, si concurrieren los dos progenitores.
 
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
+###### ARTICULO 92.
 
-Lo dispuesto en este artículo no es aplicable cuando se esté en los supuestos de agravante señalados en el artículo 75 fracción II de este Código.
+Deber de reconocer al hijo
 
-###### Artículo 59.
+Tanto la madre como el padre, que no estuvieren casados entre sí, tienen el deber de reconocer a su hijo; pero si no cumplen con este deber voluntariamente, no se asentará en el acta de nacimiento el nombre de los mismos y simplemente, se anotará la hora, día, mes año y lugar del nacimiento, así como el nombre propio y apellidos que se pongan a la persona cuyo nacimiento sea registrado. Si el padre o la madre o ambos piden por sí o por apoderado que en el acta de nacimiento se asiente su nombre, se hará constar éste y se mencionará en su caso la petición que en este sentido hagan el padre, la madre, o ambos, o el apoderado. Cuando el hijo sea presentado por uno de los progenitores, se asentará únicamente el nombre del que lo presente.
 
-Para la comprobación de los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
+En el acta de nacimiento no se hará ninguna mención que califique la filiación en forma alguna. Las palabras "hijo legítimo", "hijo natural", "hijo ilegítimo", "hijo de padres desconocidos", "hijo de padre desconocido", "hijo de madre desconocida", o "habido como consecuencia de cualquier método de reproducción humana artifical (sic)", que se inserten con infracción de este artículo, se testarán de oficio, de manera que queden ilegibles. El Oficial del Registro Civil que inserte en el acta alguna de estas menciones será sancionado, la primera vez con una multa por el equivalente a quince días de salario mínimo general vigente en la Entidad y la segunda con destitución del cargo. La investigación de la paternidad y de la maternidad está permitida en los términos establecidos por este Código.
 
-I. Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente.
+En el caso de los hijos nacidos como resultado de la participación de una madre gestante sustituta, se presumirá la maternidad de la madre contratante que la presenta, ya que este hecho implica su aceptación. En los casos en los que participe una madre subrogada, deberá estarse a lo ordenado para la adopción plena.
 
-II. Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
+Se entiende por madre gestante sustituta, la mujer que lleva el embarazo a término y proporciona el componente para la gestación, más no el componente genético. Por el contrario, la madre subrogada provee ambos: el material genético y el gestante para la reproducción. Se considera madre contratante a la mujer que convenga en utilizar los servicios de la madre gestante sustituta o de la madre subrogada, según sea el caso.
 
-III. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos por los que se deben pagar contribuciones.
+Salvo el caso de que se trate de un hijo nacido de una madre gestante sustituta, cuando el hijo nazca de una mujer casada que viva con su esposo, el Oficial del Registro Civil no podrá asentar como padre a otro que no sea el mismo marido, excepto que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-IV. Que son ingresos de la empresa por los que se deben pagar contribuciones, los depósitos hechos en cuenta de cheques personal de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa y ésta no los registre en contabilidad.
+###### ARTICULO 93.
 
-V. Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos del último ejercicio que se revisa por los que se deban pagar contribuciones.
+Presencia del Oficial del Registro Civil
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste pasará al lugar en que se halle el o los interesados, y allí recibirá la petición de que se exprese su nombre, todo lo cual se asentará en el acta.
 
-VI. Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas o por servicios por los que el contribuyente obtuvo ingresos.
+###### ARTICULO 94.
 
-## TITULO V. De los Procedimientos Administrativos
+Padres no casados
 
-### CAPITULO UNICO
+Si los padres del hijo tuvieren impedimento para contraer matrimonio entre sí, por estar uno de ellos o ambos casados con otra persona, no se hará ninguna mención de esa circunstancia y podrá asentarse el nombre de ambos progenitores si lo pidieren, observándose en su caso lo dispuesto por el artículo siguiente.
 
-###### Artículo 1o.
+###### ARTICULO 95.
 
-Las personas físicas y las morales están obligadas a contribuir para los gastos públicos conforme a las leyes fiscales respectivas; las disposiciones de este Código se aplicarán en su defecto. Sólo mediante ley podrá destinarse una contribución a un gasto público específico.
+Hijo de mujer casada
 
-La Federación queda obligada a pagar contribuciones únicamente cuando las leyes lo señalen expresamente.
+Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso podrá el Oficial del Registro Civil asentar como padre a otro que no sea su cónyuge.
 
-Los estados extranjeros, en casos de reciprocidad, no están obligados a pagar impuestos. No quedan comprendidas en esta exención las entidades o agencias pertenecientes a dichos estados.
+###### ARTICULO 96.
 
-Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
+Padre con impedimento no dispensable
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Si los padres del hijo no pudiesen contraer matrimonio por existir entre ellos el impedimento no dispensable de parentesco por consanguinidad o por afinidad, no se hará mención alguna de esta circunstancia; pero sí se hará constar el nombre de los progenitores si éstos hicieren el reconocimiento.
 
-###### Artículo 2o.
+###### ARTICULO 97.
 
-Las contribuciones se clasifican en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos, las que se definen de la siguiente manera:
+Expósitos
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Toda persona que encontrare un niño recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el tiempo, modo y lugar en que le haya encontrado, así como las demás circunstancias que en el caso hayan concurrido.
 
-I. Impuestos son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II, III y IV de este artículo.
+###### ARTICULO 98.
 
-II. Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado.
+Obligaciones de presentar a los expuestos
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+La misma obligación tienen los jefes, directores y administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad o casa hogar, respecto de los niños nacidos o expuestos en ellas.
 
-III. Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+###### ARTICULO 99.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+Mención de objetos del menor
 
-IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes de dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+En las actas que se levanten en estos casos, no se expresarán las circunstancias que designa el artículo 97, ni se hará constar que el nacimiento ocurrió en una prisión o en una casa hogar; pero sí la edad aparente del niño, su sexo, el nombre propio que se le ponga y los apellidos que le correspondan o se le pongan en su caso, y el nombre de la persona o casa de cuna que se encargue de él. En el acta únicamente se mencionará que los objetos y papeles del menor se encuentran en el Archivo Estatal del Registro Civil.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+###### ARTICULO 100.
 
-Cuando sean organismos descentralizados los que proporcionen la seguridad social a que hace mención la fracción II, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
+Depósito de documentos del menor
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos de valor, se depositarán en el Archivo Estatal del Registro Civil, dando formal recibo de ellos a quien los recoja y se dará parte, inmediatamente, al Ministerio Público, para que proceda como lo dispone este Código en materia de tutela.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 21 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1o.
+###### ARTICULO 101.
 
-###### Artículo 3o.
+Prohibición de inquirir sobre la paternidad
 
-Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Se prohibe al Oficial del Registro Civil y a los testigos que conforme al artículo 69 deben asistir al acto, hacer inquisición directa o indirecta sobre la paternidad. En el acta sólo se asentará lo que manifiesten las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que éstas sean castigadas conforme a las prescripciones del Código Penal.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 21 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+###### ARTICULO 102.
 
-Son productos las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
+Nacimiento en tránsito
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+El nacimiento que ocurra durante un viaje, podrá registrarse en el lugar o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso, se remitirá copia del acta al Oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 86 con un día más por cada 40 kilómetros de distancia o fracción que exceda de la mitad.
 
-###### Artículo 4o.
+###### ARTICULO 103.
 
-Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
+Aviso de nacimiento y muerte
 
-La recaudación proveniente de todos los ingresos de la Federación, aun cuando se destinen a un fin específico, se hará por la Secretaría de Hacienda y Crédito Público o por las oficinas que dicha Secretaría autorice.
+Si al dar el aviso del nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción.
 
-###### Artículo 5o.
+###### ARTICULO 104.
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+Parto múltiple
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Cuando se trate de parto múltiple se levantará acta por separado a cada uno de los nacidos, haciendo constar las particularidades que los distingan y quién nació primero, según las noticias que comuniquen al Oficial del Registro Civil las personas que hayan asistido al parto.
 
-Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho federal común cuando su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
+###### ARTICULO 105.
 
-###### Artículo 6o.
+Anotación marginal de sentencia
 
-Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
+Extendidas las actas de reconocimiento, tutela, adopción, matrimonio, divorcio administrativo y defunción, se anotará en el acta de nacimiento de la persona a que se refieran aquellas actas. Igualmente, se hará en el acta de nacimiento una anotación marginal, de la sentencia que en su caso decrete la revocación de la adopción o el divorcio judicial.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO
 
-Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+###### ARTICULO 106.
 
-Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
+De hijos naturales
 
-Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas, dentro del plazo que a continuación se indica:
+Si el padre, o la madre o ambos reconocieren a un hijo al presentarlo dentro o fuera del término de la ley, para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión del nombre del progenitor o progenitores que lo reconozcan. Esta acta surtirá los efectos de reconocimiento legal.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+###### ARTICULO 107.
 
-I. Si la contribución se calcula por períodos establecidos en Ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 17 del mes de calendario inmediato posterior al de terminación del período de la retención o de la recaudación, respectivamente.
+Después del acta de nacimiento
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1986)</small>
+Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que se expresarán el nombre del hijo que se reconoce, el consentimiento del hijo para ser reconocido si es mayor de edad, el nombre del padre o de la madre que reconozca, o de ambos si los dos lo reconocen, la nacionalidad de éstos y los nombres de los testigos.
 
-II. En cualquier otro caso, dentro de los 5 días siguientes al momento de la causación.
+###### ARTICULO 108.
 
-III. (DEROGADA, D.O.F. 30 DE ABRIL DE 1986)
+Por otros medios
 
-En el caso de contribuciones que se deben pagar mediante retención, aún cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en el artículo 353, el Juez o el Notario ante quien se haya tramitado el reconocimiento presentará dentro del término de quince días, al encargado del Registro Civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa del documento, observándose las demás prescripciones contenidas en este Código.
 
-Cuando los retenedores deban hacer un pago en bienes, solamente harán la entrega del bien de que se trate si quien debe recibir los provee de los fondos necesarios para efectuar la retención en moneda nacional.
+###### ARTICULO 109.
 
-Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, el recibo oficial o la forma valorada expedidos y controlados exclusivamente por la Secretaría de Hacienda y Crédito Público o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora.
+Referencia a la anterior
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+En todas las actas de reconocimiento posteriores a las de nacimiento, se hará referencia a éstas, poniendo los datos correspondientes.
 
-Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la elegida por el contribuyente no podrá variarla respecto al mismo ejercicio.
+### CAPITULO IV. DE LAS ACTAS DE TUTELA
 
-###### Artículo 7o.
+###### ARTICULO 110.
 
-Las leyes fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en toda la República el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo que en ellas se establezca una fecha posterior.
+Inscripción
 
-###### Artículo 8o.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que dispone el Código de Procedimientos Civiles, el tutor, dentro de las setenta y dos horas siguientes a la fecha de la publicación, presentará copia certificada del auto referido al Oficial del Registro Civil, para que asiente el acta respectiva. El curador cuidará del cumplimiento de este artículo.
 
-Para los efectos fiscales se entenderá por México, país y territorio nacional, lo que conforme a la Constitución Política de los Estados Unidos Mexicanos integra el territorio nacional y la zona económica exclusiva situada fuera del mar territorial.
+###### ARTICULO 111.
 
-###### Artículo 9o.
+Contenido
 
-Se consideran residentes en territorio nacional:
+El acta de tutela contendrá:
 
-I. A las siguientes personas físicas:
+I.- El nombre y edad del incapacitado;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+II.- La clase de incapacidad por la que se haya diferido la tutela;
 
-a). Las que hayan establecido su casa habitación en México, salvo que en el año de calendario permanezcan en otro país por más de 183 días naturales consecutivos o no y acrediten haber adquirido la residencia para efectos fiscales en ese otro país.
+III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad, antes del discernimiento de la tutela;
 
-b). Las de nacionalidad mexicana que sean funcionarios del Estado o trabajadores del mismo, aun cuando por el carácter de sus funciones permanezcan en el extranjero por un plazo mayor al señalado en el inciso a) de esta fracción.
+IV.- El nombre, edad, estado, profesión y domicilio, tanto del tutor como del curador;
 
-II. A las personas morales que hayan establecido en México la administración principal del negocio.
+V.- La garantía dada por el tutor, expresando el nombre y demás generales del fiador, si la garantía consiste en fianza; o los nombres, ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o en prenda; y
 
-Salvo prueba en contrario, se presume que las personas físicas o morales, de nacionalidad mexicana, son residentes en territorio nacional.
+VI.- El nombre del Juez y Tribunal que pronunció el auto de discernimiento y la fecha de éste.
 
-###### Artículo 60.
+### CAPITULO V. DE LAS ACTAS DE ADOPCION
 
-Cuando el contribuyente omita registrar adquisiciones en su contabilidad y éstas fueran determinadas por las autoridades fiscales, se presumirá que los bienes adquiridos y no registrados, fueron enajenados y que el importe de la enajenación fue el que resulta de las siguientes operaciones:
+###### ARTICULO 112.
 
-I. El importe determinado de adquisición, incluyendo el precio pactado y las contribuciones, intereses, normales o moratorios, penas convencionales y cualquier otro concepto que se hubiera pagado con motivo de la adquisición, se multiplica por el por ciento de utilidad bruta con que opera el contribuyente.
+Inscripción
 
-II. La cantidad resultante se sumará al importe determinado de adquisición y la suma será el valor de la enajenación.
+Dictada la resolución judicial definitiva que autorice una adopción, dentro del término de quince días el adoptante presentará al Oficial del Registro Civil copia certificada de ella, para que se levante el acta correspondiente.
 
-El por ciento de utilidad bruta se obtendrá de los datos contenidos en la declaración del impuesto sobre la renta del contribuyente en el ejercicio de que se trate o de la última que hubiera presentado para ese efecto, y se determinará dividiendo la utilidad bruta declarada entre el costo declarado. A falta de declaración se entenderá que la utilidad bruta es de 50%.
+###### ARTICULO 113.
 
-La presunción establecida en este artículo no se aplicará cuando el contribuyente demuestre que la falta de registro de las adquisiciones fue motivada por caso fortuito o fuerza mayor.
+Contenido
 
-Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y en su defecto, el de mercado o el de avalúo.
+El acta de adopción contendrá: nombres, apellidos, fecha, lugar de nacimiento y domicilio del adoptado; nombres, apellidos, estado civil, domicilio y nacionalidad del o de los adoptantes y los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y Tribunal que la dictó.
 
-###### Artículo 61.
+###### ARTICULO 114.
 
-Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 55 de este Código y no puedan comprobar por el período objeto de revisión sus ingresos así como el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+Cancelación
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y la anote en la de nacimiento.
 
-I. Si con base en la contabilidad y documentación del contribuyente o información de terceros pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el ingreso o el valor de los actos o actividades, se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión.
+### CAPITULO VI. DE LAS ACTAS DE MATRIMONIO
 
-II. Si la contabilidad del contribuyente no permite reconstruir las operaciones del periodo de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de ingresos o del valor de los actos o actividades que observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+###### ARTICULO 115.
 
-Al ingreso o valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda. Tratándose de impuesto sobre la renta, se determinará previamente la utilidad fiscal mediante la aplicación al ingreso bruto estimado del coeficiente que para determinar dicha utilidad señala la Ley del Impuesto sobre la Renta.
+Solicitud
 
-###### Artículo 62.
+Las personas que pretenden contraer matrimonio presentarán un escrito ante el Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-Para comprobar los ingresos, así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+I.- Nombres, edad, ocupación y domicilio de los pretendientes, así como de sus padres si fueren conocidos; cuando alguno de los pretendientes o los dos hayan sido casados, se expresará el nombre de la persona con quien se haya celebrado el anterior matrimonio, la causa de su disolución y la fecha de éste;
 
-I. Se refieran al contribuyente designado por su nombre, denominación o razón social.
+II.- Que no tienen impedimento legal para casarse; y
 
-II. Señalen como lugar para la entrega o recibo de bienes o prestación de servicios, relacionados con las actividades del contribuyente, cualquiera de sus establecimientos, aún cuando exprese el nombre, denominación o razón social de un tercero, real o ficticio.
+III.- Que es su voluntad unirse en matrimonio, precisando si el régimen económico de éste será el de separación de bienes o el de sociedad conyugal.
 
-III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio.
+Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir, imprimirá su huella digital.
 
-IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
+###### ARTICULO 116.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Documentos
 
-###### Artículo 63.
+Al escrito a que se refiere el artículo anterior se acompañará:
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Hacienda y Crédito Público y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
+I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer de catorce;
 
-Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+II.- La constancia de que otorgan su consentimiento las personas a que se refieren los artículos 155 y 156, para que el matrimonio se celebre bajo el régimen económico señalado por los pretendientes;
 
-###### Artículo 64.
+III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal alguno para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
+IV.- Un certificado suscrito por médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad crónica e incurable que sea, además, contagiosa y hereditaria;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+V.- Copia certificada de la constancia relativa a: defunción del cónyuge, del divorcio administrativo, parte resolutiva de la sentencia de divorcio judicial o de nulidad del matrimonio, en caso de que cualquiera de los contrayentes hubiere sido casado anteriormente; y
 
-I. Determinarán, en primer lugar, las contribuciones omitidas en el último ejercicio de doce meses por el que se hubiera presentado o debió haber sido presentada la declaración, a más tardar el día anterior al en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al período transcurrido entre la fecha de terminación de dicho ejercicio y el momento en que se ejerzan las citadas facultades.
+VI.- Copia de la dispensa de impedimentos, si los hubo.
 
-Si se tratare de contribuyentes cuyos estados financieros hubieran sido dictaminados por contador público autorizado, se considerará como último ejercicio, aquel de doce meses por el que se haya presentado el último dictamen, salvo que hubieran transcurrido cuando menos doce meses desde que presentó dicho dictamen sin haber presentado otro. En estos casos la determinación también podrá abarcar los meses posteriores a la presentación del último dictamen. Lo dipuesto (sic) en este párrafo se aplicará también a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté dictaminado.
+###### ARTICULO 117.
 
-II. Al comprobarse que durante el período a que se refiere la fracción anterior se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas correspondientes a ejercicios anteriores, sin más limitación que lo dispuesto en el artículo 67 de este Código, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de este artículo.
+Reconocimiento de firmas
 
-Las irregularidades a que se refiere esta fracción, son las siguientes:
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes, o tutores que deben otorgar su consentimiento, reconozcan ante él y por separado sus firmas.
 
-a). Omisión en el pago de participación de utilidades a los trabajadores de acuerdo con la utilidad fiscal declarada.
+Las declaraciones de los testigos a que se refiere al artículo 116 en su fracción III, serán ratificadas bajo protesta de decir verdad ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando la ratificación de la misma ante su presencia.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### ARTICULO 118.
 
-b). Efectuar compensación o acreditamiento improcedente contra contribuciones a su cargo, u obtener en forma también improcedente la devolución de contribuciones, por más de 5% sobre el total de las declaradas.
+Fecha y lugar de celebración
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+El matrimonio se celebrará dentro de los quince días siguientes al de la presentación de la solicitud en el lugar, día y hora que señale el Oficial del Registro Civil.
 
-c). Omisión en el pago de contribuciones por más del 5% sobre el total de las declaradas por adeudo propio.
+###### ARTICULO 119.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Celebración
 
-d). Omisión en el entero de la contribución de que se trate por más del 5% sobre el total retenido o que debió retenerse.
+En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevista por el artículo 68 de este Código y los testigos a que se refiere la fracción III del artículo 116. Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que a ella se hayan acompañado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y, si están conformes, los declarará unidos en el nombre de la ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio.
 
-e). Cuando se dé alguno de los supuestos a que se refiere el artículo 55 de este Código.
+###### ARTICULO 120.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Constancia de celebración
 
-f). No solicitar la inscripción en el registro federal de contribuyentes cuando se esté obligado a ello o no presentar el aviso de cambio de domicilio fiscal o hacerlo extemporáneamente, salvo cuando se presenten en forma espontánea. Se considerará que se incurrió en la irregularidad señalada en este inciso, aun cuando los supuestos mencionados en el mismo hubiesen ocurrido en ejercicios o períodos distintos a los que se refiere la fracción I de este artículo.
+Se levantará el acta de matrimonio en que se hará constar:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+I.- Nombres, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-g). Proporcionar en forma equivocada u omitir la información correspondiente al valor de los actos o actividades realizadas en cada entidad federativa cuando tengan establecimientos en dos o más entidades, siempre que la omisión o alteración exceda en más del 5% de la (sic) cantidades que debieron proporcionarse de acuerdo con las actividades realizadas.
+II.- Si son mayores o menores de edad;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+III.- Nombres, domicilio y nacionalidad de sus padres;
 
-h). Consignar información o datos falsos en los estados de resultados reales del ejercicio que se presenten para solicitar reducción de los pagos provisionales, o en los informes acerca del movimiento de efectivo en caja y bancos, cuando se solicite el pago a plazos ya sea diferido o en parcialidades.
+IV.- El consentimiento de éstos, de los abuelos o tutores o de las autoridades que deban suplirlo si son menores de edad los contrayentes;
 
-Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Si se incurre en alguna de las irregularidades señaladas en esta fracción, se podrá incluso, determinar contribuciones omitidas distintas a aquellas en que se cometió la irregularidad, aún cuando correspondan a ejercicios anteriores.
+V.- Que no hubo impedimento legal para el matrimonio o, en su caso, que éste se dispensó;
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la ley y de la sociedad;
 
-Cuando las autoridades fiscales que ejerzan sus facultades de comprobación sean competentes para revisar a los contribuyentes exclusivamente respecto de determinadas contribuciones, se considerarán cometidas las irregularidades a que se refieren los incisos b), c) y d) de esta fracción, aun cuando los porcientos señalados en dichas fracciones se refieran solamente a las contribuciones en relación a las cuales tenga competencia la autoridad fiscal de que se trate.
+VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-III. Aún cuando se presenten declaraciones complementarias después de que se inicie el ejercicio de las facultades de comprobación por las autoridades fiscales o las formas de corrección de la situación fiscal a que se refieren los artículo (sic) 58 y 76, se podrán determinar contribuciones omitidas por los ejercicios anteriores.
+VIII.- Nombres, edad, nacionalidad y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes; y
 
-IV. Las declaraciones complementarias o las formas de corrección de la situación fiscal a que se refieren los artículos 58 y 76, correspondientes a períodos anteriores a los señalados en la fracción I, podrán ser motivo de determinación de contribuciones en cualquier tiempo por lo que hace a los conceptos que hubieren modificado.
+IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-V. Las contribuciones retenidas o que debieron retenerse podrán ser determinadas en cualquier tiempo, aún cuando en el último ejercicio sujeto a fiscalización no se determinen contribuciones o no se encuentren irregularidades a que se hace referencia en la fracción II de este artículo.
+El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren o pudieren hacerlo, asentándose en este último caso la razón por la que alguna de ellas no firma. Al margen del acta imprimirán sus huellas digitales los contrayentes.
 
-VI. Si en el período a que se refiere la fracción I, el contribuyente hubiera incurrido en las irregularidades a que se hace referencia en la fracción II, se podrán hacer las modificaciones a que haya lugar por los ejercicios anteriores, aún cuando las mismas no den lugar al pago de contribuciones.
+###### ARTICULO 121.
 
-VII. No obstante lo dispuesto en la fracción I de este artículo, las autoridades fiscales siempre podrán determinar contribuciones por un período menor del que se señala en dicha fracción.
+Celebración colectiva
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Lo dispuesto en este artículo no es aplicable a la determinación de contribuciones realizadas por las autoridades fiscales, que derive de la revisión de la cuenta pública federal efectuada por la Contaduría Mayor de Hacienda o de observaciones de la Comisión Nacional Bancaria y de Seguros, a aportaciones de seguridad social, contribuciones sobre ingresos provenientes del extranjero o que se causen por la importación de bienes, al impuesto sobre tenencia o uso de vehículos; ni respecto de las deducciones por creación o incremento de reservas de pasivo cuando los pagos correspondientes se efectúen en ejercicios posteriores a aquél en que se hizo la deducción, así como de los ejercicios en que se incurrió en pérdidas para efectos del impuesto sobre la renta, cuando dichas pérdidas se disminuyan, total o parcialmente, en el ejercicio respecto del cual se ejercen las facultades de comprobación; tampoco es aplicable en el ejercicio inmediato anterior a aquél en que se incurrió en pérdida, cuando ésta se disminuya en dicho ejercicio.
+La celebración colectiva de matrimonios, no exime al Oficial del Registro Civil del cumplimiento estricto de la solemnidad a que se refieren los artículos anteriores.
 
-No se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse en virtud de lo dispuesto por este artículo.
+###### ARTICULO 122.
 
-Lo establecido en este artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
+Acta con impedimentos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado civil y domicilio del denunciante, insertándose íntegramente la denuncia. El acta será firmada por los que en ella intervinieron y remitida al Juez de primera instancia que corresponda, para que haga la calificación del impedimento.
 
-###### Artículo 65.
+###### ARTICULO 123.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse junto con sus accesorios, dentro del mes siguiente a la fecha en que surta efectos su notificación.
+Declaraciones falsas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 66.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 116, serán denunciados ante el Ministerio Público para los efectos legales correspondientes. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de treinta y seis meses. Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo los accesorios, a la tasa que mediante ley fije anualmente el Congreso de la Unión, tomando en consideración el Costo Porcentual Promedio de Captación de Recursos del Sistema Bancario, proporcionado por el Banco de México.
+###### ARTICULO 124.
 
-Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades dispensen el otorgamiento de garantía en razón de que el contribuyente en los términos del reglamento de este Código tenga, en relación con el crédito, plena solvencia o su capacidad económica sea insuficiente.
+Denuncia de impedimentos
 
-Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-I. Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+Las denuncias de impedimentos pueden hacerse por cualquier persona. Las que sean falsas, sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
-II. El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
+###### ARTICULO 125.
 
-III. El contribuyente no pague alguna de las parcialidades, con sus recargos, a más tardar dentro de los quince días siguientes a aquél en que vence la parcialidad.
+Informe de impedimentos a los interesados
 
-###### Artículo 67.
+Antes de remitir el acta al Juez de primera instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia cause ejecutoria.
 
-Las facultades de las autoridades fiscales, para comprobar el cumplimiento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contado a partir del día siguiente a aquél en que:
+###### ARTICULO 126.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Denuncia anónima
 
-I. Se presentó la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquel en que se presentan, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
+Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de primera instancia que corresponda y suspenderá todo procedimiento hasta que ésta resuelva.
 
-II. Se presentó o debió haberse presentado declaración o aviso que corresponda a una contribución que no se calcule por ejercicios o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración.
+###### ARTICULO 127.
 
-III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
+Suspensión del matrimonio
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el registro federal de contribuyentes o no lleve contabilidad, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso el plazo de diez años se computará a partir del día siguiente a aquel en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
+Denunciado un impedimento el matrimonio no podrá celebrarse, aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+###### ARTICULO 128.
 
-En los casos de responsabilidad solidaria a que se refiere el artículo 26 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
+Sanción
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será sancionado como lo disponga el Código Penal.
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se interponga algún recurso administrativo o juicio.
+###### ARTICULO 129.
 
-Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
+Negativa de celebración del matrimonio
 
-Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 68.
+Los oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
-Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
+###### ARTICULO 130.
 
-###### Artículo 69.
+Sanción por retardo
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 63 de este Código.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado por primera vez con una multa hasta de veinticinco días de salario mínimo general vigente en la Entidad y, en caso de reincidencia, con la destitución de su cargo.
 
-Sólo por acuerdo expreso del Secretario de Hacienda y Crédito Público se podrán publicar los siguientes datos por grupos de contribuyentes: nombre, domicilio, actividad, ingreso total, utilidad fiscal o valor de sus actos o actividades y contribuciones acreditables o pagadas.
+###### ARTICULO 131.
 
-###### Artículo 70.
+Solicitud de declaraciones
 
-La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir a los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime conveniente a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio. También podrá exigir declaración bajo protesta, a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes y a los que suscriban el certificado exigido por la fracción IV del artículo 116. Asimismo podrá admitir cualquier otra prueba procedente.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+### CAPITULO VII. DE LAS ACTAS DE DIVORCIO ADMINISTRATIVO
 
-Tratándose de las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, dichas cantidades se incrementarán a la que resulte de multiplicarlas por los factores que en su caso señale, para estos efectos, el Congreso de la Unión. La Secretaría de Hacienda y Crédito Público calculará para las infracciones correspondientes, las cantidades que resulten de las operaciones anteriores y las publicará en el Diario Oficial de la Federación.
+###### ARTICULO 132.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Solicitud
 
-Las cantidades que resulten en los términos del párrafo anterior, se ajustarán de conformidad con la siguiente
+El acta de divorcio administrativo se levantará en los términos previstos por el artículo 268 de este ordenamiento, previa solicitud por escrito que presenten los cónyuges y en ellas se expresará el nombre, edad, ocupación y domicilio de los solicitantes, fecha y lugar de la oficina en que celebraron su matrimonio y el número de partida del acta correspondiente.
 
-TABLA
+###### ARTICULO 133.
 
-Cantidades Unidad de ajuste
+Anotación del divorcio
 
-Desde $ 1.01 hasta $ 500.00 a decenas de pesos.
+Extendida el acta se mandará anotar en la de matrimonio de los divorciados, y la copia de la declaración administrativa de divorcio se archivará con el mismo número del acta.
 
-Desde $ 500.01 hasta $ 1,000.00 a medias centenas de pesos.
+### CAPITULO VIII. DE LAS ACTAS DE DEFUNCION
 
-Desde $ 1,000.01 hasta $ 10,000.00 a centenas de pesos.
+###### ARTICULO 134.
 
-Desde $ 10,000.01 en adelante, a miles de pesos.
+Autorización para inhumación - cremación
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Para efectuar el ajuste a que se refiere la tabla de este artículo, las cantidades se aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima; cuando la cantidad se encuentre a la misma distancia de dos unidades el ajuste se hará a la más baja.
+Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará del fallecimiento con certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación hasta que pasen veinticuatro horas de la muerte, salvo los casos en que se ordene otra cosa por la autoridad sanitaria competente del lugar.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### ARTICULO 135.
 
-Las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, que se deban aplicar a los contribuyentes que se denominan contribuyentes menores en los términos de la Ley del Impuesto sobre la Renta, las cantidades se considerarán reducidas en un 50% de dichos montos.
+Formalidades
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+El acta de defunción se hará en el formato respectivo, asentándose los datos que el Oficial del Registro Civil requiera o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay, o los vecinos.
 
-Artículo 70 BIS.- Los ingresos que la Federación obtenga efectivamente de multas por infracción a las disposiciones fiscales distintas a las de la Ley Aduanera, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación y ejecución de créditos fiscales relativos a dichas disposiciones.
+###### ARTICULO 136.
 
-Sólo ingresará a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes. Salvo que por ley estén destinados a otros fines. La distribución de los fondos se hará en los términos que señale el reglamento.
+Contenido
 
-###### Artículo 71.
+El acta de defunción contendrá:
 
-Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este Capítulo se consideran como tales así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
+I.- Nombre, edad, ocupación, estado civil y domicilio que tuvo el difunto;
 
-Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se imponga.
+II.- Si era casado o viudo, el nombre de su cónyuge;
 
-###### Artículo 72.
+III.- Nombre, edad, profesión y domicilio de los testigos y si fueren parientes, el grado en que lo sean;
 
-Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo comunicarán a la autoridad fiscal competente para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+IV.- Nombre de los padres del difunto, si se supieren;
 
-Tratándose de funcionarios y empleados fiscales, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que estén sujetas sus actuaciones.
+V.- La causa de la muerte;
 
-Se libera de la obligación establecida en este artículo a los siguientes funcionarios y empleados públicos:
+VI.- Fecha, hora y lugar de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
 
-I. Aquellos que de conformidad con otras leyes tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones.
+VII.- Nombre, número de cédula profesional y domicilio del médico que certifique la defunción; y
 
-II. Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+VIII.- Nombre, edad, nacionalidad, domicilio del declarante y grado de parentesco, en su caso, con el difunto.
 
-###### Artículo 73.
+###### ARTICULO 137.
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito. Se considerará que el cumplimiento no es espontáneo en el caso de que:
+Obligación de avisar
 
-I. La omisión sea descubierta por las autoridades fiscales.
+Los dueños o habitantes de la casa en que se verifique un fallecimiento, los superiores, los directores y administrativos de los cuarteles, colegios, hospitales, prisiones, asilos o cualquier casa de comunidad, los encargados de los mesones y hoteles, y los caseros de las casas de vecindad, tienen obligación de dar aviso, dentro de las veinticuatro horas siguientes de ocurrida la muerte, al Oficial del Registro Civil. El incumplimiento de esta obligación se sancionará con multa por el equivalente de hasta treinta veces el salario mínimo general vigente en la Entidad.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+###### ARTICULO 138.
 
-II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
+Constancia de autoridad municipal
 
-Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 74.
+Si el fallecimiento ocurriere en lugar donde no haya oficina del Registro Civil, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que levante el acta de defunción dentro de los quince días siguientes.
 
-La Secretaría de Hacienda y Crédito Público podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+###### ARTICULO 139.
 
-La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda y Crédito Público al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
+Muerte violenta
 
-La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal o se dispensa su garantía.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+Cuando el Oficial del Registro Civil sospechare que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público sepa de un fallecimiento, dará cuenta al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y los objetos que se le hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se obtengan mayores datos, se comunicarán al Oficial del Registro Civil para que los anote al margen del acta.
 
-###### Artículo 75.
+En todos los casos de muerte en las prisiones, no se hará mención de ellos en los registros y las actas contendrán simplemente los demás requisitos que se prescriben en el artículo 136.
 
-Dentro de los límites fijados por este Código, las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales, incluyendo las relacionadas con las contribuciones al comercio exterior, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
+###### ARTICULO 140.
 
-I. Se considerará como agravante el hecho de que el infractor sea reincidente. Se da la reincidencia cuando:
+En siniestro
 
-a). Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, incluyendo las retenidas o recaudadas, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia.
+En los casos de siniestros, en que no sea fácil reconocer el cadáver, se formará el acta con la declaración de quienes lo hayan recogido, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos y objetos que con él se hayan encontrado.
 
-b). Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo de este Código.
+###### ARTICULO 141.
 
-II. También será agravante en la comisión de una infracción, cuando se dé cualquiera de los siguientes supuestos:
+Declaración en caso de desastre
 
-a). Que se haga uso de documentos falsos o en los que se hagan constar operaciones inexistentes.
+Si hay certeza de que alguna persona ha perecido en el lugar del desastre, pero no aparece el cadáver, el acta contendrá las declaraciones de las personas que hayan conocido a la que no aparece, y las demás noticias que acerca del acontecimiento puedan recabarse.
 
-b). Que se utilicen, sin derecho a ello, documentos expedidos a nombre de un tercero para deducir su importe al calcular las contribuciones o para acreditar cantidades trasladadas por concepto de contribuciones.
+###### ARTICULO 142.
 
-c). Que se lleven dos o más sistemas de contabilidad con distinto contenido.
+Fuera del domicilio
 
-d). Se lleven dos o más libros sociales similares con distinto contenido.
+Si alguno falleciera en lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil correspondiente, copia certificada del acta de defunción para que haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma. Asimismo, cuando una autoridad ordene la inhumación y de ésta resulte que la causa de la muerte fue distinta a la anotada en el acta de defunción, se comunicará esta circunstancia al Oficial del Registro Civil que haya levantado el acta, quien hará la anotación correspondiente.
 
-e). Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
+###### ARTICULO 143.
 
-f). Que se microfilmen documentos para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados en contravención de las disposiciones fiscales carezcan de valor probatorio.
+De militar
 
-III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
+El jefe de cualquier cuerpo o destacamento militar tiene la obligación de dar parte al Oficial del Registro Civil, de los muertos que hayan habido en cualquier acto del servicio, especificándose la filiación de los mismos. El Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
 
-IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
+### CAPITULO IX. INSCRIPCION DE RESOLUCIONES JUDICIALES QUE MODIFIQUEN EL ESTADO CIVIL DE LAS PERSONAS
 
-V. Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
+###### ARTICULO 144.
 
-VI. En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución. Lo dispuesto en esta fracción no será aplicable tratándose de las materias aduanera o del registro federal de vehículos, y cuando se den los supuestos previstos en los artículos 77 fracción II, inciso b) y 78 de este Código.
+Copia de resolución ejecutoriada
 
-###### Artículo 76.
+Las autoridades judiciales que declaren la paternidad o maternidad, divorcio, nulidad o inexistencia del matrimonio, ausencia, presunción de muerte, tutela, pérdida o limitación de la capacidad legal para administrar bienes o la adopción, remitirán al Oficial del Registro Civil correspondiente, dentro del término de quince días, copia certificada de la resolución ejecutoriada o auto de discernimiento respectivo.
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, excepto tratándose de contribuciones al comercio exterior, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
+Recibida la copia certificada a que se refiere el párrafo anterior, el Oficial:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+I.- Levantará el acta:
 
-I. El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final de visita.
+a) De reconocimiento, cuando la sentencia haya declarado la paternidad o maternidad;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+b) De adopción, cuando se conceda ésta;
 
-II. El 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de visita pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió.
+c) De tutela, en su caso.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+II.- Anotará:
 
-No será aplicable lo dispuesto en las fracciones I y II de este artículo cuando en la comisión de la infracción se dé alguno de los supuestos de la fracción II del artículo 75.
+a) En el acta de nacimiento o en su caso la de matrimonio, la declaración de ausencia o presunción de muerte;
 
-III. El 150% de las contribuciones omitidas en los demás casos.
+b) En el acta de matrimonio, si se declara nulo, inexistente o disuelto el vínculo matrimonial;
 
-Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de las fracciones I y II de este artículo, aplicarán el por ciento señalado en la fracción III sobre el remanente no pagado de las contribuciones.
+c) En el acta de tutela, si se declaró recuperada la capacidad.
 
-El pago de las multas en los términos de las fracciones I y II de este artículo se podrán efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Hacienda y Crédito Público.
+Las actas a que se refiere la fracción I de este artículo, contendrán el nombre, edad, estado civil y nacionalidad de la persona o personas de quienes se trate, la fecha de la sentencia, sus puntos resolutivos y el Tribunal que la dictó. Las anotaciones se harán insertando los datos esenciales de la resolución judicial que se haya comunicado.
 
-También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+### CAPITULO X. DE LA RECTIFICACION Y ACLARACION DE LAS ACTAS DEL REGISTRO CIVIL
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+###### ARTICULO 145.
 
-Cuando se declaren pérdidas fiscales mayores a las realmente sufridas, la multa será el 10% de la diferencia que resulte entre la pérdida declarada y la que realmente corresponda cuando medie dolo, mala fe o se procure u obtenga un beneficio, al que no tenga derecho.
+Ante quién procede la rectificación
 
-###### Artículo 77.
+La rectificación de un acta del estado civil, puede hacerse ante el Poder Judicial y en virtud de sentencia ejecutoriada dictada por éste, salvo el reconocimiento que voluntariamente haga el padre de su hijo, el cual se sujetará a lo previsto en este Código.
 
-En los casos a que se refiere el artículo 76 de este Código, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-I. Se aumentarán:
+###### ARTICULO 146.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Cuándo procede
 
-a). En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en la fracción IV del artículo 75.
+Ha lugar a la rectificación del acta:
 
-b). En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
+I.- Cuando el suceso registrado no ocurrió;
 
-c). En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 75 de este Código.
+II.- Cuando erróneamente se hubiere asentado un nombre o alguna otra circunstancia, cuando ésta sea esencial;
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+III.- En los casos de cambio o variación de nombre a que se refieren los artículos 54, 55 y 56 de este Código; y
 
-Tratándose de los casos comprendidos en las fracciones I y II del artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente.
+IV.- En los casos de cambio de régimen patrimonial del matrimonio.
 
-II. Se disminuirán:
+###### ARTICULO 147.
 
-a). En un 25% del monto de las contribuciones omitidas que hayan sido objeto de dictamen, o del beneficio indebido, si el infractor ha hecho dictaminar por contador público autorizado sus estados financieros correspondientes al ejercicio fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de las fracciones I y II del artículo anterior, el infractor deberá efectuar el pago en los términos de dichas fracciones y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
+Quiénes pueden promoverla
 
-b). En un 20% del monto de las contribuciones omitidas, o del beneficio indebido, en el caso de la fracción III del artículo 76 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro del mes siguiente a la fecha en que se le notificó la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+Pueden promover la rectificación de un acta del estado civil:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+I.- Las personas de cuyo estado civil se trate;
 
-###### Artículo 78.
+II.- Las personas que se mencionen en el acta como relacionadas con el estado civil de algunos;
 
-Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+III.- Los herederos de las personas comprendidas en las fracciones precedentes; y
 
-###### Artículo 79.
+IV.- Las personas a quienes expresamente conceda la ley ese derecho.
 
-Son infracciones relacionadas con el registro federal de contribuyentes las siguientes:
+###### ARTICULO 148.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Formalidades del juicio
 
-I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea.
+El juicio de rectificación de acta se seguirá en la forma que establece el Código de Procedimientos Civiles del Estado.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+###### ARTICULO 149.
 
-Se excluye de responsabilidad por la comisión de esta infracción a las personas cuya solicitud de inscripción debe ser legalmente efectuada por otra, inclusive cuando dichas personas queden subsidiariamente obligadas a solicitar su inscripción.
+Comunicación de sentencia ejecutoriada
 
-II. No presentar solicitud de inscripción a nombre de un tercero cuando legalmente se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente espontáneamente.
+La sentencia ejecutoriada se comunicará al Oficial del Registro Civil y éste hará una referencia de ella al calce del acta de que se trate, sea que el fallo conceda o niegue la rectificación.
 
-III. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
+###### ARTICULO 150.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Aclaraciones ante el registro
 
-IV. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la Ley.
+La aclaración de las actas del estado civil procede ante la Dirección del Registro Civil, cuando al asentar aquéllas se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales y pueden pedirla las mismas personas a que se refiere el artículo 147. Deberá tramitarse en la forma que establezca el Reglamento del Registro Civil.
 
-V. Autorizar actas constitutivas, de fusión o liquidación, de personas morales, sin cumplir lo dispuesto por el artículo 27 de este Código.
+## TITULO SEXTO. DEL MATRIMONIO
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+### CAPITULO I. DE LOS ESPONSALES
 
-VI. Señalar como domicilio fiscal para efectos del registro federal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 10.
+###### ARTICULO 151.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+En qué consisten
 
-###### Artículo 80.
+La promesa de matrimonio, por escrito, que se hacen mutuamente el hombre y la mujer, constituye los esponsales. Sólo pueden prometerse en matrimonio los que tienen la edad requerida para contraerlo. Los esponsales no obligan a contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa; sin embargo, el que sin causa grave, a juicio del Juez, rehusare o difiriere indefinidamente el cumplimiento de ésta, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
 
-A quien cometa las infracciones relacionadas con el registro federal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
+Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubiere donado con motivo de su matrimonio concertado.
 
-I. De $67,000.00 a las comprendidas en las fracciones I, II y VI.
+###### ARTICULO 152.
 
-II. De $34,000.00 a la comprendida en la fracción III.
+Ejercicio de acciones
 
-III. Para la señalada en la fracción IV:
+Las acciones a que se refiere el artículo anterior, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa o diferimiento indefinido para la celebración del matrimonio.
 
-a). Tratándose de declaraciones, la mayor que resulte entre $6,700.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $135,000.00.
+### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-b). De $34,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
+###### ARTICULO 153.
 
-c). De $6,700.00 en los demás documentos.
+Formalidades
 
-IV. De $202,000.00 para la establecida en la fracción V.
+El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las solemnidades que ella exige. El Estado procurará, por todos los medios que estén a su alcance, que las personas que vivan en concubinato contraigan matrimonio. Para la realización de este fin, que es de orden público, se efectuarán campañas periódicas de convencimiento en las que colaboren los servidores públicos y maestros del Estado.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
+###### ARTICULO 154.
 
-###### Artículo 81.
+Quiénes pueden contraerlo
 
-Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes o avisos o expedir constancias incompletas o con errores:
+Pueden contraer matrimonio: el hombre que ha cumplido dieciséis años y la mujer que haya cumplido catorce. El Gobernador del Estado, o el Presidente Municipal del lugar, pueden conceder dispensa, en casos excepcionales y por causas graves y justificadas.
 
-I. No presentar las declaraciones, solicitudes, avisos o constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
+###### ARTICULO 155.
 
-II. Presentar las declaraciones, solicitudes, avisos o expedir constancias, incompletos o con errores.
+Del menor de edad
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Para que el menor de edad, cualquiera que sea su sexo, pueda contraer matrimonio, se requiere:
 
-III. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente.
+I.- El consentimiento del ascendiente o de los ascendientes que ejerzan la patria potestad; y
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+II.- Si no hay quien ejerza la patria potestad, se necesita el consentimiento del tutor y, faltando éste, el Juez de primera instancia del domicilio del menor suplirá el consentimiento.
 
-IV. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución.
+###### ARTICULO 156.
 
-###### Artículo 82.
+Consentimiento en caso de menores
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+Quienes han prestado y ratificado su consentimiento ante el Oficial del Registro Civil, no pueden revocarlo, a menos que haya justa causa para ello; tampoco podrán revocarlo quienes los sustituyan.
 
-I. Para la señalada en la fracción I:
+###### ARTICULO 157.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+Suplencia del consentimiento por la autoridad
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+Cuando los ascendientes o tutores nieguen su consentimiento y su disenso no parezca racional, podrá recurrir el interesado al Gobernador del Estado o al servidor público a quien éste comisione para ello, quien después de obtener información sobre el particular suplirá dicho consentimiento, según lo estime conducente a los intereses del menor; pero sin esta habilitación, el matrimonio no podrá celebrarse.
 
-a). Tratándose de declaraciones, la mayor que resulte entre $5,500.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
+Si el que niega el consentimiento es el Juez, el interesado podrá ocurrir al Tribunal Superior de Justicia, en los términos que señale el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### ARTICULO 158.
 
-b). Por presentar una declaración, solicitud, aviso o constancia, fuera de los plazos señalados en los requerimientos:
+Fallecimiento de quien otorga el consentimiento
 
-1. El doble de la que correspondió por la omisión de la declaración, solicitud, aviso o constancia por la que se hizo el requerimiento, cuando el documento requerido se presente dentro de los seis días siguientes a aquél en que venció el plazo señalado en el propio requerimiento.
+Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 118.
 
-2. El doble de la señalada en el subinciso anterior, cuando la presentación se haga entre el séptimo y el duodécimo día siguiente a aquél en que venció el plazo señalado en dicho requerimiento.
+###### ARTICULO 159.
 
-3. El doble de la señalada en el subinciso anterior, cuando la presentación se haga después del duodécimo día siguiente al de vencimiento del plazo señalado en dicho requerimiento.
+Revocación del consentimiento del Juez
 
-En caso de incumplimiento al requerimiento formulado por la omisión, se aplicará la multa señalada en el subinciso 3 que antecede.
+Solamente por causa justa superveniente, el Juez que hubiera autorizado a un menor para contraer matrimonio, podrá revocar el consentimiento otorgado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+###### ARTICULO 160.
 
-c). De $13,000.00 en los demás documentos.
+Impedimentos
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+Son impedimentos para celebrar el matrimonio:
 
-II. Respecto de la señalada en la fracción II:
+I.- La falta de edad requerida por la ley;
 
-a). De $6,700.00 por no poner el nombre o ponerlo equivocadamente.
+II.- La falta de consentimiento del que, o de los que conforme a la ley, tienen la patria potestad, del tutor o del Juez en sus respectivos casos;
 
-b). De $3,400.00 por no poner el domicilio o ponerlo equivocadamente.
+III.- El error, cuando sea esencialmente sobre la persona;
 
-c). De $700.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+IV.- El parentesco de consanguinidad, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos. En su colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos y, al contrario, siempre que estén en el tercer grado;
 
-d). De $6,700.00 en los demás casos.
+V.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+VI.- El atentado contra la vida de alguno de los casados, para casarse con el que quede libre;
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+VII.- La fuerza o miedo graves. En caso de rapto subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente manifieste su voluntad;
 
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $13,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+VIII.- La embriaguez habitual;
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectuado.
+IX.- El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra substancia que altere la conducta y produzca farmacodependencia;
 
-###### Artículo 83.
+X.- La impotencia por causa física para consumar el matrimonio, siempre que sea incurable;
 
-Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
+XI.- Las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias;
 
-I. No llevar contabilidad.
+XII.- La disminución o perturbación de la inteligencia; y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+XIII.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro.
 
-II. No llevar algún libro o registro especial a que obliguen las leyes fiscales; no cumplir con las obligaciones sobre valuación de inventarios o no llevar el procedimiento de control de los mismos, que establezcan las disposiciones fiscales.
+De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
-III. Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan; llevarla en lugares distintos a los señalados en dichas disposiciones.
+###### ARTICULO 161.
 
-IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos.
+Impedimento de divorciada
 
-V. No presentar para sellarse los libros o sistemas de contabilidad, cuando lo exijan las disposiciones fiscales.
+La mujer no puede contraer nuevo matrimonio, sino hasta pasados ciento ochenta días después de la disolución de la anterior, a menos que durante ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
-VI. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales.
+###### ARTICULO 162.
 
-VII. No expedir comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan o expedirlos sin requisitos fiscales.
+Impedimento por adopción
 
-VIII. Microfilmar documentación para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas.
+El adoptante o los ascendientes de éste no pueden contraer matrimonio con el adoptado o sus descendientes, en tanto dure el lazo jurídico resultante de la adopción.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+###### ARTICULO 163.
 
-###### Artículo 84.
+Impedimento por tutela
 
-A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
+Quien haya desempeñado la tutela no puede contraer matrimonio con quien ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se concederá por el Gobernador del Estado o por el servidor público a quien éste comisione para ello, sino cuando hayan sido aprobadas legalmente las cuentas de la tutela. La prohibición contenida en este artículo comprende también a los curadores y a los ascendientes y descendientes de éstos y de los tutores.
 
-I. De $34,000.00 a $337,000.00 a la comprendida en la fracción I.
+Si el matrimonio se celebra en contravención a lo dispuesto en el párrafo anterior, el Juez designará a quien, ejerciendo interinamente la tutela, reciba los bienes y los administre, mientras se obtiene la dispensa. En el caso de la primera parte del párrafo anterior, el régimen patrimonial del matrimonio será el de separación de bienes; aunque el matrimonio se hubiere contraído bajo el régimen de sociedad conyugal expresa o tácitamente.
 
-II. De $6,700.00 a $168,000.00 a las establecidas en las fracciones II y III.
+###### ARTICULO 164.
 
-III. De $6,700.00 a $135,000.00 a la señalada en la fracción IV.
+Matrimonio fuera del Estado
 
-IV. De $6.700.00 a $67,000.00 a la comprendida en la fracción V.
+El matrimonio celebrado entre mexicanos fuera del territorio del Estado, pero dentro de la República, y que sea válido con arreglo a las leyes del lugar en que se celebró, surte todos los efectos civiles en el Estado de Tabasco. Respecto a la transcripción en el Registro Civil del acta de celebración de matrimonio de los mexicanos que se casen en el extranjero y que se domicilien en el territorio del Estado, se aplicará lo dispuesto por la legislación federal.
 
-V. De $20,000.00 a $269,000.00 a la señalada en la fracción VI.
+### CAPITULO III. DE LOS DERECHOS Y DEBERES QUE NACEN DEL MATRIMONIO
 
-VI. De $6,700.00 a $67,000.00 a la comprendida en la fracción VII.
+###### ARTICULO 165.
 
-VII. De $67,000.00 a $337,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención de las disposiciones fiscales carezcan de valor probatorio.
+Fidelidad y ayuda mutua
 
-###### Artículo 85.
+Los cónyuges deben guardarse fidelidad, vivir juntos en el domicilio conyugal, contribuir cada uno por su parte a los fines del matrimonio y ayudarse mutuamente. Cualquier convenio contrario a la ayuda mutua que se deben los cónyuges, se tendrá por no puesto.
 
-Son infracciones relacionadas con el ejercicio de la facultad de comprobación las siguientes:
+Los cónyuges pueden planificar el número y espaciamiento de sus hijos, así como emplear cualquier método de reproducción artificial para lograr su propia descendencia. Este derecho será ejercido de común acuerdo por los cónyuges, extendiéndose a aquellas parejas que viven públicamente como si fueran marido y mujer y sin tener algún impedimento para contraer matrimonio entre sí.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+###### ARTICULO 166.
 
-I. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
+Dispensa de vivir juntos
 
-II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+El Juez de primera instancia, con conocimiento de causa, eximirá a uno de los cónyuges del deber de vivir con el otro, cuando alguno de los dos traslade su domicilio al extranjero o cuando se establezca en un lugar insalubre o indecoroso.
 
-### CAPITULO UNICO
+###### ARTICULO 167.
 
-###### Artículo 86.
+Obligación de alimentos
 
-A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
+Los alimentos de los cónyuges y de sus hijos serán a cargo de aquéllos, por partes iguales. Pueden los cónyuges, por convenio, repartirse en otra proporción el pago de los alimentos. Si no llegan a un acuerdo y no estuviesen conformes con el cincuenta por ciento fijado por este artículo, la proporción que a cada uno de ellos corresponda en el pago de los alimentos dependerá de sus posibilidades económicas.
 
-I. De $67,000.00 a $674,000.00 a la comprendida en la fracción I.
+No tiene la obligación que impone este artículo, el cónyuge que carezca de bienes propios y esté imposibilitado para trabajar, ni el que por convenio tácito o expreso con el otro, se ocupe de las labores del hogar o de la atención de los hijos menores. En estos casos, el otro cónyuge solventará íntegramente esos alimentos.
 
-II. De $34,000.00 a $1'347,000.00 a la establecida en la fracción II.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 87.
+Los bienes de los cónyuges y sus ingresos, quedan afectados preferentemente al pago de los alimentos, en la parte que a cada uno corresponda por la ley o por convenio. Para hacer efectivo este derecho, podrán los cónyuges y los hijos pedir en cualquier momento el aseguramiento de aquellos bienes.
 
-Son infracciones a las disposiciones fiscales, en que pueden incurrir los funcionarios o empleados públicos en el ejercicio de sus funciones:
+###### ARTICULO 168.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Igualdad de deberes y obligaciones
 
-I. No exigir el pago total de las contribuciones y sus accesorios; recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales.
+Los derechos, deberes y obligaciones que respectivamente otorga o impone a los cónyuges el matrimonio, serán siempre iguales para ambos, cualquiera que sea su aportación respecto de los alimentos.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+###### ARTICULO 169.
 
-II. Asentar falsamente que se ha dado cumplimiento a las dispociones (sic) fiscales o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos.
+Igualdad de autoridad
 
-III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
+Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+I.- Al lugar en que se establezca el domicilio conyugal y la casa en que éste se instale;
 
-###### Artículo 88.
+II.- A la dirección y cuidado del hogar;
 
-A quien comenta (sic) las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
+III.- A la educación y establecimiento de los hijos; y
 
-I. De $34,000.00 a $337,000.00 a la comprendida en la fracción I.
+IV.- A la administración de los bienes que sean comunes a los cónyuges.
 
-II. De $34,000.00 a $1'347,000.00 a las establecidas en las fracciones II y III.
+En caso de que no estuvieren conformes en alguno de los puntos indicados o sobre cualquiera otro relativo a ambos cónyuges como tales a los hijos, el Juez de primera instancia del domicilio conyugal procurará avenirlos y, si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de la familia.
 
-###### Artículo 89.
+###### ARTICULO 170.
 
-Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
+Libertad de empleo
 
-I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
+Los cónyuges podrán desempeñar cualquier empleo, ejercer una profesión, industria, oficio o comercio, siendo lícitos. Sólo puede oponerse uno de los cónyuges a que el otro realice la actividad que desempeñe, cuando ésta dañe a la familia o ponga en peligro su estabilidad.
 
-II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
+###### ARTICULO 171.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+Libre disposición de bienes
 
-###### Artículo 90.
+Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les corresponda, sin que para tal objeto necesite del consentimiento uno del otro.
 
-A quien cometa las infracciones señaladas en el artículo 89 de este Código, se impondrán las siguientes multas:
+###### ARTICULO 172.
 
-I. De $67,000.00 a $674,000.00 a la comprendida en la fracción I.
+Administración de bienes de cónyuges menores
 
-II. De $34,000.00 a $337,000.00 a la establecida en la fracción II.
+Los cónyuges menores de edad tendrán la administración de sus bienes en los términos del artículo que precede; pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+###### ARTICULO 173.
 
-###### Artículo 91.
+Autorización judicial para contratar entre sí
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $6,700.00 a $67,000.00.
+Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de asociación civil o el de mandato para pleitos y cobranzas o para actos de administración.
 
-###### Artículo 92.
+###### ARTICULO 174.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Hacienda y Crédito Público:
+Autorización judicial para ser fiador uno de otro
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de caución para que el otro obtenga su libertad personal.
 
-I. Formule querella, tratándose de los previstos en los artículos 105, 108, 109, 110, 111, 112 y 114.
+###### ARTICULO 175.
 
-II. Declare que el Fisco Federal ha sufrido o pudo sufrir perjuicio en los establecidos en los artículos 102 y 115.
+Cuándo no se concederá autorización
 
-III. Formule la declaratoria correspondiente, en los casos de contrabando de mercancías por las que no deban pagarse impuestos y requieran permiso de autoridad competente, o de mercancías de tráfico prohibido.
+La autorización a que se refieren los artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia.
 
-En los demás casos no previstos en las fracciones anteriores bastará la denuncia de los hechos ante el Ministerio Público Federal.
+###### ARTICULO 176.
 
-Los procesos por los delitos fiscales a que se refieren las tres fracciones de este artículo se sobreseerán a petición de la Secretaría de Hacienda y Crédito Público, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministro (sic) Público Federal formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Compraventa entre consortes
 
-En los delitos fiscales en que sea necesaria querella o declaratoria de perjucio (sic) y el daño o el perjuicio sea cuantificable, la Secretaría de Hacienda y Crédito Público hará la cuantificación correspondiente en la propia querella o declaratoria o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público Federal formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
+El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+###### ARTICULO 177.
 
-Para los efectos de este Capítulo, se entiende por salario, el mínimo general diario de la zona económica correspondiente al Distrito Federal, vigente en el momento de la comisión del delito. Se consideran mercancías los productos, artículos y cualesquier otros bienes, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
+Ejercicio de acciones de uno contra otro
 
-###### Artículo 93.
+Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-Cuando una autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código y sea perseguible de oficio, de inmediato lo hará del conocimiento del Ministerio Público Federal para los efectos legales que procedan, aportándole las actuaciones y pruebas que se hubiere allegado.
+###### ARTICULO 178.
 
-###### Artículo 94.
+Avenimiento por Juez
 
-En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
+Cualquier disensión que surja entre los esposos con motivo del ejercicio de los derechos a que se refieren los artículos 166 y 169 o en cualquiera otra situación similar, será dirimida por el Juez de primera instancia del lugar del domicilio conyugal, quien en todo caso, y previamente, procurará avenir a los disidentes y si no lo consigue resolverá, sin forma de juicio, dictando la resolución en la misma acta que se levante para hacer constar la comparecencia de los interesados y lo que al respecto exponga cada uno de ellos.
 
-###### Artículo 95.
+###### ARTICULO 179.
 
-Son responsables de los delitos fiscales, quienes:
+Cuándo no se levantará acta
 
-I. Concierten la realización del delito.
+Si el Juez consigue el avenimiento, no se procederá al levantamiento del acta.
 
-II. Realicen la conducta o el hecho descritos en la Ley.
+### CAPITULO IV. DE LOS EFECTOS DEL MATRIMONIO CON RELACION A LOS BIENES DE LOS CONYUGES
 
-III. Cometan conjuntamente el delito.
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-IV. Se sirvan de otra persona como instrumento para ejecutarlo.
+###### ARTICULO 180.
 
-V. Induzcan dolosamente a otro a cometerlo.
+Régimen matrimonial
 
-VI. Ayuden dolosamente a otro para su comisión.
+Las personas que vayan a contraer matrimonio deben manifestar, tanto en el escrito a que se refiere el artículo 115, como en el acto de su celebración, si optan por el régimen de separación de bienes o por el de sociedad conyugal, en la inteligencia de que si omiten hacerlo, se les tendrá por casados bajo este último régimen.
 
-VII. Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
+###### ARTICULO 181.
 
-###### Artículo 96.
+Inscripción del régimen matrimonial
 
-Es respnsable (sic) de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito:
+El acta de matrimonio debe inscribirse en el Registro Público de la Propiedad, por cuanto al régimen patrimonial de aquél.
 
-I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítimaprocedencia (sic), o ayude a otro a los mismos fines.
+###### ARTICULO 182.
 
-II. Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito o asegure para el inculpado el objeto o provecho del mismo.
+Modificaciones del régimen
 
-El encumbrimiento (sic) a que se refiere este artículo se sancionará con prisión de tres meses a seis años.
+Los cónyuges, después de celebrado el matrimonio pueden, con autorización judicial, cambiar el régimen de sociedad conyugal por el de separación de bienes y viceversa.
 
-###### Artículo 97.
+###### ARTICULO 183.
 
-Si un funcionario o empleado público comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres meses a tres años de prisión.
+Enajenación de hogar conyugal
 
-###### Artículo 98.
+Si la casa en la que se establezca el hogar conyugal no constituye patrimonio de familia, pero es propiedad de uno de los cónyuges o pertenece a ambos en copropiedad o es de la sociedad conyugal, no puede enajenarse sino con el consentimiento de los dos consortes.
 
-La tentativa de los delitos previstos en este Código es punible, cuando la resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de éstos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
+###### ARTICULO 184.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Hipoteca del hogar conyugal
 
-La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
+La casa a que se refiere el artículo anterior, sólo puede hipotecarse cuando el crédito garantizado con la hipoteca sea para mejorarla y con el consentimiento de ambos consortes.
 
-Si el autor desistiere de la ejecución o impidere (sic) la consumación del delito, no se impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
+###### ARTICULO 185.
 
-###### Artículo 99.
+Muebles del hogar conyugal
 
-En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad más de la que resulte aplicable.
+Los muebles del hogar conyugal, sean propios de los cónyuges o de la sociedad conyugal o pertenezcan a ambos cónyuges en copropiedad, no pueden enajenarse sin el consentimiento de los consortes.
 
-Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
+###### ARTICULO 186.
 
-###### Artículo 100.
+Enajenación cuando hay menores
 
-La acción penal en los delitos fiscales perseguibles por querella de la Secretaría de Hacienda y Crédito Público, prescribirá en tres años contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se cmputarán (sic) a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal aplicable en materia federal.
+Si hay hijos menores en el hogar conyugal, los actos realizados en contravención a lo dispuesto en los artículos 183 y 184 anteriores, estarán afectados de nulidad absoluta.
 
-###### Artículo 101.
+###### ARTICULO 187.
 
-Para que proceda la condena condicional cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal aplicable en materia federal, será necesario comprobar que el interés fiscal está satisfecho o garantizado.
+Enajenación cuando no hay menores
 
-###### Artículo 102.
+En el caso de los artículos anteriores, si no hay hijos menores en el hogar conyugal, sólo estarán afectados de nulidad relativa.
 
-Comete el delito de contrabando quien introduzca al país o extraiga de él mercancías:
+###### ARTICULO 188.
 
-I. Omitiendo el pago total o parcial de los impuestos que deban cubrirse.
+Inembargabilidad de bienes conyugales
 
-II. Sin permiso de autoridad competente, cuando sea necesario este requisito.
+La casa en que se constituya el hogar conyugal y los muebles de éste son inembargables, hasta por un valor equivalente al máximo autorizado por este Código para la constitución del patrimonio de familia, salvo que el crédito que se cobre se origine en el precio de los muebles o en la hipoteca mencionada en el artículo 184.
 
-III. De importación o exportación prohibida.
+#### SECCION SEGUNDA. DE LA SOCIEDAD CONYUGAL
 
-También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregadas legalmente por las autoridades o por las personas autorizadas para ello.
+###### ARTICULO 189.
 
-###### Artículo 103.
+En qué consiste
 
-Se presume cometido el delito de contrabando, cuando:
+El régimen de sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente del patrimonio propio de cada uno de los consortes.
 
-I. Se descubran mercancías extranjeras dentro de los lugares y zonas de inspección y vigilancia permanente, sin los documentos que acrediten su legal tenencia, transporte, manejo o estancia en el país.
+###### ARTICULO 190.
 
-II. Se encuentren vehículos extranjeros fuera de una zona de veinte kilómetros en cualquier dirección contados en línea recta a partir de los límites extremos de la zona urbana de las poblaciones fronterizas, sin la documentación a que se refiere la fracción anterior.
+Personalidad
 
-III. No se justifiquen los faltantes o sobrantes de mercancías que resulten al efectuarse la descarga de los medios de transporte, respecto de las consignadas en los manifiestos o guías de carga.
+La sociedad conyugal es una persona jurídica cuya capacidad nace desde la celebración del matrimonio.
 
-IV. Se descarguen subrepticiamente mercancías extranjeras de los medios de transporte, aun cuando sean de rancho, abastecimiento o uso económico.
+###### ARTICULO 191.
 
-V. Se encuentren mercancías extranjeras en tráfico de altura a bordo de embarcaciones en aguas territoriales sin estar documentadas.
+Cuándo termina
 
-VI. Se descubran mercancías extranjeras a bordo de una embarcación en tráfico mixto, sin documentación alguna.
+La sociedad conyugal termina con la disolución del matrimonio o antes de ésta, por convenio de los cónyuges o por resolución judicial.
 
-VII. Se encuentren mercancías extranjeras en una embarcación destinada exclusivamente al tráfico de cabotaje, que no llegue a su destino o que haya tocado puerto extranjero antes de su arribo.
+###### ARTICULO 192.
 
-VIII. No se justifique el faltante de mercancías nacionales embarcadas para tráfico de cabotaje.
+Presunción de muerte
 
-IX. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado para el tráfico internacional.
+La sociedad conyugal termina, también, con la presunción de muerte en caso de ausencia.
 
-###### Artículo 104.
+###### ARTICULO 193.
 
-El delito de contrabando se sancionará con pena de prisión:
+Cómo se rigen
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+La sociedad conyugal se rige por las disposiciones de esta sección y, en lo no previsto en ella, por las reglas relativas a la sociedad civil. Lo anterior es aplicable a las relaciones de contenido patrimonial existentes entre el concubinario y la concubina.
 
-I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de 500 veces el salario.
+###### ARTICULO 194.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Su administración
 
-II. De tres a nueve años, si el monto de los impuestos omitidos excede de 500 veces el salario.
+La administración de la sociedad conyugal corresponde a ambos consortes y éstos pueden convenir que uno de ellos sea el administrador.
 
-III. De tres meses a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
+###### ARTICULO 195.
 
-En los demás casos de mercancías de tráfico prohibido, la sanción será de tres a nueve años de prisión.
+Cambio de administrador
 
-IV. De tres meses a seis años, cuando no sea posible determinar el monto de los impuestos omitidos con motivo del contrabando o se trate de mercancías por las que no deban pagarse impuestos y requieran permiso de autoridad competente.
+Si el cónyuge administrador, por negligencia o administración torpe, amenaza arruinar a la sociedad conyugal o disminuir considerablemente los bienes de ella, puede el otro cónyuge pedir judicialmente la administración de la sociedad o la terminación de ésta.
 
-Para determinar el valor de las mercancías y el monto de los impuestos omitidos, se tomarán en cuenta las averías de aquéllas si son producidas antes del contrabando.
+###### ARTICULO 196.
 
-###### Artículo 105.
+Bienes propios de los cónyuges
 
-Será sancionado con las mismas penas del contrabando, quien:
+Son propios de cada cónyuge: los bienes de que se es dueño al celebrarse el matrimonio y los que se poseen antes de su unión; aunque no fuera dueño de ellos, si los adquiere por usucapión durante la sociedad.
 
-I. Adquiera mercancía extranjera que no sea para su uso personal, la enajene o comercie con ella, sin la documentación que compruebe su legal estancia en el país.
+###### ARTICULO 197.
 
-II. Tenga en su poder por cualquier título, mercancías extranjeras que no sean para su uso personal, sin la documentación a que se refiere la fracción anterior.
+Bienes adquiridos por condición
 
-III. Ampare con documentación o factura auténtica, mercancía extranjera distinta de la que cubre la documentación expedida.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-IV. Tenga mercancías extranjeras de tráfico prohibido.
+Son bienes propios de cada cónyuge los adquiridos por efectos de una condición, cuyo cumplimiento se realiza durante el matrimonio, pero estipulada antes.
 
-V. En su carácter de funcionario o empleado público de la Federación, de los Estados, del Distrito Federal o de Municipios, autorice la internación de algún vehículo, proporcione documentos o placas para su circulación, otorgue matrícula o abanderamiento, o intervenga para su inscripción en el registro federal de vehículos, cuando la importación del propio vehículo se haya efectuado sin el permiso previo de la autoridad federal competente.
+###### ARTICULO 198.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Bienes adquiridos por liberalidad
 
-VI. Tenga en su poder algún vehículo de procedencia extranjera sin comprobar su legal importación o estancia en el país, o sin previa autorización legal, en el caso de automóviles y camiones, cuando se trate de modelos correspondientes a los últimos cinco años.
+Son bienes propios, también, los que durante el matrimonio adquiera cada cónyuge por donación, herencia o legado constituido a favor de uno solo de ellos, pero si la donación es onerosa, las cargas serán por cuenta exclusiva del donatario.
 
-VII. Enajene o adquiera por cualquier título sin autorización legal, vehículos importados temporalmente.
+En las capitulaciones matrimoniales se puede pactar que los bienes que se adquieran por cualquiera de las causas señaladas en este artículo, sean parte de la sociedad conyugal.
 
-VIII. Enajene o adquiera por cualquier título, vehículos importados definitivamente para transitar en zonas libres o franjas fronterizas, o provisionalmente para circular en las citadas franjas fronterizas, si el adquirente no reside en dichas zonas o franjas.
+###### ARTICULO 199.
 
-### CAPITULO UNICO
+Bienes adquiridos a título oneroso
 
-###### Artículo 106.
+Son propios los bienes adquiridos a título oneroso, con dinero proveniente de la enajenación de un bien propio de uno de los cónyuges o por permuta con uno de éstos. En este caso, el bien adquirido es propio del cónyuge que era propietario del bien enajenado.
 
-Para los efectos del artículo anterior:
+###### ARTICULO 200.
 
-I. Son mercancías de uso personal:
+Dinero de una enajenación
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Si se enajena un bien propio de uno de los cónyuges, y el dinero obtenido con la enajenación no se emplea para adquirir otro bien cierto y determinado; pero si se utiliza en beneficio de la familia, al liquidarse la sociedad se considerará el importe de la enajenación como un crédito a cargo de ésta y a favor del cónyuge que fue propietario del bien enajenado.
 
-a). Alimentos y bebidas para su consumo, ropa y otros objetos personales, excepto joyas.
+###### ARTICULO 201.
 
-b). Cosméticos, productos sanitarios y de aseo, lociones, perfumes, medicamentos y aparatos médicos o de prótesis que utilice.
+Pensiones
 
-c). Artículos domésticos para su casa habitación, siempre que no sean dos o más de la misma especie.
+Son bienes propios de cada cónyuge, también, las pensiones que se venzan durante el matrimonio, derivadas de una renta vitalicia constituida antes de él.
 
-II. La estancia legal en el país de las mercancías extranjeras se comprueba, con:
+###### ARTICULO 202.
 
-a). La documentación aduanal exigida por la Ley.
+Los demás bienes
 
-b). Nota de venta expedida por la autoridad fiscal federal.
+Salvo los bienes que los artículos anteriores consideran propios de cada uno de los cónyuges, todos los que éstos adquieran, conjunta o separadamente, después del matrimonio y hasta la disolución de la sociedad conyugal, pertenecen a ésta.
 
-c). Factura extendida por persona inscrita en el registro federal de contribuyentes.
+###### ARTICULO 203.
 
-d). La carta de porte en que consten los datos del remitente, del destinatario y de los efectos que ampare, si se trata de porteadores legalmente autorizados para efectuar el servicio público de transporte, fuera de la zona de inspección y vigilancia permanente.
+Consentimiento para actos de dominio
 
-###### Artículo 107.
+Para que puedan realizase actos de dominio a nombre de la sociedad conyugal, se requiere el consentimiento de ambos cónyuges, aun en el caso de que el administrador sea uno solo de ellos.
 
-El delito de contrabando será calificado cuando se cometa:
+###### ARTICULO 204.
 
-I. Con violencia física o moral en las personas.
+Herencia común
 
-II. De noche o por lugar no autorizado para la entrada o salida del país de mercancías.
+Los cónyuges no pueden repudiar ni aceptar la herencia común sin el consentimiento expreso de ambos.
 
-III. Ostentándose el autor como funcionario o empleado público.
+###### ARTICULO 205.
 
-IV. Usando documentos falsos.
+Deudas
 
-Las calificativas a que se refieren las fracciones III y IV de este artículo, también serán aplicables al delito previsto en el artículo 105.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Cuando los delitos a que se refiere este artículo sean calificados, la sanción correspondiente se aumentará de tres meses a tres años de prisión. Si la calificativa constituye otro delito, se aplicarán las reglas de la acumulación.
+Las deudas contraídas durante el matrimonio por ambos consortes o por uno solo de ellos, son cargo de la sociedad conyugal.
 
-###### Artículo 108.
+###### ARTICULO 206.
 
-Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco federal.
+Deudas anteriores al matrimonio
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Las deudas anteriores al matrimonio, cuando el cónyuge deudor no tenga bienes con qué pagarlas, sólo podrán ser pagadas con las gananciales que le correspondan, después de disuelta la sociedad conyugal, sin perjuicio de las acciones del acreedor para pedir la separación de los bienes del deudor.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de 500 veces el salario; cuando exceda, la pena será de tres a nueve años de prisión.
+###### ARTICULO 207.
 
-Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
+Solución en caso de disenso
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+Siempre que los cónyuges deban realizar juntos un acto de administración o disposición, en caso de disenso el Juez resolverá lo procedente.
 
-No se formulará querella si quien hubiere omitido el pago de la contribución u obtenido el beneficio indebido conforme a este artículo, lo entera espontáneamente con sus recargos antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+###### ARTICULO 208.
 
-Para los fines de este artículo y del siguiente, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
+Bienes propiedad de la sociedad
 
-###### Artículo 109.
+Todos los bienes que existan en poder de cualquiera de los cónyuges al terminar la sociedad conyugal, se presumen propiedad de ésta, salvo prueba en contrario.
 
-Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
+###### ARTICULO 209.
 
-I. Consigne en las declaraciones que presente para efectos fiscales, ingresos menores a los realmente obtenidos o deducciones falsas.
+Bienes considerados como donación
 
-II. Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
+Ni la declaración de uno de los cónyuges que afirme ser suyo un bien, ni la confesión del otro, ni ambas juntas son pruebas suficientes, aunque se hayan hecho en juicio; pero la confesión se considerará como donación, que no quedará confirmada sino por la muerte del donante.
 
-III. Se beneficie sin derecho de un subsidio o estímulo fiscal.
+###### ARTICULO 210.
 
-### CAPITULO I. De las Infracciones
+Inventario
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-###### Artículo 110.
+Disuelta la sociedad se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos; se pagarán los créditos que hubiere contra la comunidad conyugal, se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá por partes iguales entre los dos consortes.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien:
+###### ARTICULO 211.
 
-I. Omita solicitar su inscripción o la de un tercero en el registro federal de contribuyentes por más de un año contado a partir de la fecha en que debió hacerlo, a menos que se trate de personas cuya solicitud de inscripción deba ser presentada por otro aún en el caso en que éste no lo haga.
+En caso de pérdidas
 
-II. No rinda al citado registro, los informes a que se encuentra obligado o lo haga con falsedad.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-III. Use más de una clave del registro federal de contribuyentes.
+En caso de que hubiere pérdidas, el importe de éstas se deducirá del haber de cada cónyuge en proporción al monto de cada uno de sus haberes, y si sólo uno llevó capital, de éste se deducirá la pérdida total.
 
-IV. Se atribuya como propias actividades ajenas ante el registro federal de contribuyentes.
+###### ARTICULO 212.
 
-(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
+Muerte de un cónyuge
 
-V. Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al registro federal de contribuyentes, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos.
+Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración de la sociedad conyugal, con intervención del representante de la sucesión, mientras no se verifique la partición.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+#### SECCION TERCERA. DE LA SEPARACION DE BIENES
 
-No se formulará querella si, quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al registro federal de contribuyentes en el caso de la fracción V.
+###### ARTICULO 213.
 
-###### Artículo 111.
+En qué consiste
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien:
+En el régimen de separación de bienes, los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
 
-I. Omita presentar las declaraciones para efectos fiscales a que estuviere obligado durante dos o más ejercicios fiscales.
+###### ARTICULO 214.
 
-II. Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos.
+Propiedad individual
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o por el ejercicio de una profesión, comercio o industria.
 
-III. Oculte, altere o destruya total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
+###### ARTICULO 215.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Cuando ambos adquieran
 
-### CAPITULO II. De los Delitos Fiscales
+Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en ese caso el que administre será considerado como mandatario.
 
-###### Artículo 112.
+###### ARTICULO 216.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del Fisco Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 500 veces el salario; cuando exceda, la sanción será de tres a nueve años de prisión.
+Responsabilidad por daños
 
-###### Artículo 113.
+El marido responde a la mujer y ésta a aquél de los daños y perjuicios que se causaren por dolo, culpa o negligencia.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que dolosamente altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
+###### ARTICULO 217.
 
-Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
+Servicios entre cónyuges
 
-###### Artículo 114.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Se impondrá sanción de tres meses a seis años de prisión, a los funcionarios o empleados públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
+En ninguno de los regímenes matrimoniales el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestaren o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro no originado por enfermedad, se encargare temporalmente de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+#### SECCION CUARTA. DE LAS DONACIONES ANTENUPCIALES
 
-### CAPITULO I. De los Recursos Administrativos
+###### ARTICULO 218.
 
-###### Artículo 115.
+Concepto
 
-Se impondrá de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de 200 veces el salario; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se llaman antenupciales las donaciones que antes del matrimonio hace un cónyuge al otro, cualquiera que sea el nombre que la costumbre les haya dado.
 
-La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
+###### ARTICULO 219.
 
-###### Artículo 116.
+Hechas por extraño
 
-Contra los actos administrativos dictados en materia fiscal federal, se podrá interponer los siguientes recursos:
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-I. El de revocación.
+Son también donaciones antenupciales las que un extraño hace a alguno de los cónyuges o ambos, en consideración al matrimonio.
 
-II. El de oposición al procedimiento administrativo de ejecución.
+###### ARTICULO 220.
 
-III. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+Monto máximo
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Las donaciones antenupciales entre esposos, aunque fueren varias, no podrán exceder, reunidas, de la sexta parte de los bienes del donante. En lo que excedan, la donación será inoficiosa.
 
-###### Artículo 117.
+###### ARTICULO 221.
 
-El recurso de revocación procederá contra las resoluciones definitivas que:
+Inoficiosas
 
-I. Determinen contribuciones o accesorios.
+Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
 
-II. Nieguen la devolución de cantidades que procedan conforme a la Ley.
+###### ARTICULO 222.
 
-III. Siendo diversas de las anteriores, dicten las autoridades aduaneras.
+Cálculo de la donación
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+Para calcular si es inoficiosa una donación antenupcial, tiene el cónyuge donatario y sus herederos la facultad de elegir entre la época en que se hizo la donación y la del fallecimiento del donador; pero si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
 
-No procederá el recurso de revocación contra las resoluciones que decidan el procedimiento administrativo de investigación y audiencia.
+###### ARTICULO 223.
 
-###### Artículo 118.
+Aceptación
 
-El recurso de oposición al procedimiento administrativo de ejecución procederá contra los actos que:
+Las donaciones antenupciales no necesitan, para su validez, de aceptación expresa.
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
+###### ARTICULO 224.
 
-I. Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobró en exceso sea imputable a la oficina ejecutora o se refiere a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 21 de este Código.
+Revocación por ingratitud
 
-II. Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley.
+Las donaciones antenupciales no podrán ser revocadas por sobrevenir hijos al donante, ni por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
-III. Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 128 de este Código.
+###### ARTICULO 225.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Revocación de las antenupciales
 
-IV. Determinen el valor de los bienes embargados a que se refiere el artículo 175 de este Código.
+Las donaciones antenupciales son revocables:
 
-###### Artículo 119.
+I.- Porque el matrimonio dejase de efectuarse; y
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+II.- Por el adulterio o separación injustificada de la casa conyugal, con abandono absoluto de las obligaciones inherentes a la familia, por parte del donatario, cuando el donante fuera el otro cónyuge.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+###### ARTICULO 226.
 
-###### Artículo 120.
+Donación de menores
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal de la Federación. El de oposición al procedimiento administrativo de ejecución deberá agotarse previamente a la promoción del juicio ante dicho Tribunal.
+Los menores pueden hacer donaciones antenupciales; pero sólo con intervención de sus padres o tutores o con aprobación judicial.
 
-Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
+###### ARTICULO 227.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Reglas aplicables
 
-###### Artículo 121.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos su notificación.
+Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a esta Sección.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+#### SECCION QUINTA. DE LAS DONACIONES ENTRE CONSORTES
 
-Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, al del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
+###### ARTICULO 228.
 
-Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+Confirmación
 
-###### Artículo 122.
+Los consortes pueden hacerse donaciones, pero sólo se confirmarán con la muerte del donante, con tal que no perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
 
-El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 18 de este Código y señalar además:
+###### ARTICULO 229.
 
-I. El acto que se impugna.
+Disposiciones aplicables
 
-II. Los agravios que le cause el acto impugnado.
+Son aplicables a las donaciones entre consortes las siguientes disposiciones:
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+I.- Pueden ser revocadas libremente y en todo tiempo por los donantes;
 
-III. Las pruebas y los hechos controvertidos de que se trate.
+II.- Los cónyuges no necesitan autorización judicial para revocarlas;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+III.- Estas donaciones no se anularán por la supervenencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes; y
 
-Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los indique, en caso de incumplimiento, se tendrá por no presentado el recurso.
+IV.- Sólo se confirmarán con la muerte del donante.
 
-Cuando no se gestione en nombre propio, la representación de los interesados deberá recaer en licenciado en derecho. No será aplicable lo dispuesto en este párrafo si la gestión se realiza en nombre de una persona moral en los términos de la ley que la regula y conforme a sus estatutos, sin perjucio (sic) de lo que disponga la legislación de profesiones.
+### CAPITULO V. DE LOS MATRIMONIOS NULOS E ILICITOS
 
-###### Artículo 123.
+###### ARTICULO 230.
 
-El promovente deberá acompañar al escrito en que se interponga el recurso:
+Causas de nulidad
 
-I. Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales.
+Son causas de nulidad de un matrimonio:
 
-II. El documento en que conste el acto impugnado.
+I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge que celebra matrimonio con persona determinada, lo contrae con otra;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 160; y
 
-III. Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
+III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 115 a 120.
 
-IV. Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
+###### ARTICULO 231.
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+Acción
 
-La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
+La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro del término de treinta días de conocerlo, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+###### ARTICULO 232.
 
-Cuando no se acompañe alguno de los documentos a que se refiere este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente y, en caso de que no lo haga, se tendrán por no ofrecidas las pruebas o, si se trata de los documentos mencionados en las fracciones I a III, se tendrá por no interpuesto el recurso.
+Cuándo no procede la nulidad
 
-###### Artículo 124.
+Los dieciséis años en el hombre y catorce en la mujer dejarán de ser causa de nulidad:
 
-Es improcedente el recurso cuando se haga valer contra actos administrativos:
+I.- Cuando haya habido hijos;
 
-I. Que no afecten el interés jurídico del recurrente.
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+III.- Cuando antes de declararse ejecutoriada la resolución de nulidad, se obtuviese la dispensa de edad o la esposa se halle encinta.
 
-II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias.
+###### ARTICULO 233.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+Quiénes podrán alegarla
 
-III. Que hayan sido impugnados ante el Tribunal Fiscal de la Federación.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquélla o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
 
-IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
+###### ARTICULO 234.
 
-V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
+Cuándo cesa
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+Cesa la causa de nulidad establecida en el artículo que precede:
 
-VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 129 de este Código.
+I.- Si han pasado los treinta días sin que se haya reclamado; y
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los esposos a vivir en su casa, presentando a la prole como de los consortes en el Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
 
-VII. Si son revocados los actos por la autoridad.
+###### ARTICULO 235.
 
-###### Artículo 125.
+Término
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal Fiscal de la Federación. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Si la resolución dictada en el recurso de revocación se combate ante el Tribunal Fiscal de la Federación, la impugnación del acto conexo deberá hacerse valer ante la sala regional del Tribunal Fiscal que conozca del juicio respectivo.
+La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
 
-###### Artículo 126.
+###### ARTICULO 236.
 
-El recurso de oposición al procedimiento administrativo de ejecución se hará valer ante la oficina ejecutora y no podrá discutirse en el mismo la validez del acto administrativo en que se haya determinado el crédito fiscal.
+En caso de parentesco
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO QUE SE INDICA.</small>
+El parentesco por consanguinidad no dispensado, anula el matrimonio; pero si después se obtuviera dispensa y ambos cónyuges, reconocida la nulidad, quisieran espontáneamente reiterar su consentimiento por medio de un acto ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+###### ARTICULO 237.
 
-No procederá este recurso contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
+Quiénes pueden ejercitar la acción
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en la línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
-###### Artículo 127.
+###### ARTICULO 238.
 
-Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque éste no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 129, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
+Acción en caso de atentado
 
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+La acción de la nulidad que proviene del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el cónyuge del primer matrimonio, por sus hijos o herederos y por los cónyuges que contrajeran el segundo, o por el Ministerio Público.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### ARTICULO 239.
 
-###### Artículo 128.
+Por falta de formalidades
 
-El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco federal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales federales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
 
-(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+###### ARTICULO 240.
 
-###### Artículo 129.
+Cuándo no se admitirá
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente siempre que se trate de los recurribles conforme a los artículos 117 y 118 se estará a las reglas siguientes:
+No se admitirá demanda de nulidad por falta de formalidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
 
-I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
+###### ARTICULO 241.
 
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
+Derecho para demandar la nulidad
 
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley se lo conceda expresamente, y no es transmisible por herencia ni de cualquier otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
 
-El particular tendrá un plazo de cuarenta y cinco días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+###### ARTICULO 242.
 
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
+Anotación de sentencia
 
-IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+Ejecutoriada la sentencia que declare la nulidad, el Tribunal de oficio enviará copia certificada de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
 
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
+###### ARTICULO 243.
 
-En el caso de actos regulados por otras leyes federales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que, en su caso, establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
+Presunción de validez
 
-###### Artículo 130.
+El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
-En los recursos administrativos se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+###### ARTICULO 244.
 
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+Prohibición sobre la nulidad
 
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
 
-Las demás pruebas quedarán a la prudente apreciación de la autoridad.
+###### ARTICULO 245.
 
-Si por el enlace de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+Efectos del matrimonio nulo
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure, y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes o desde su separación en caso contrario.
 
-###### Artículo 131.
+###### ARTICULO 246.
 
-La autoridad deberá dictar resolución y notificarla en un término que no exederá de cuatro meses contados a partir de la fecha de interposición del recurso. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
+Buena fe de un cónyuge
 
-El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
+Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos. Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto a los hijos.
 
-### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
+###### ARTICULO 247.
 
-###### Artículo 132.
+Presunción de buena fe
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+###### ARTICULO 248.
 
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+Medidas provisionales en caso de demanda
 
-No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, se dictarán inmediatamente las medidas provisionales que establece el artículo 280.
 
-La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
+###### ARTICULO 249.
 
-###### Artículo 133.
+Convenio sobre los hijos
 
-La resolución que ponga fin al recurso podrá:
+Después que la sentencia de nulidad cause ejecutoria, se resolverá sobre la situación de los hijos. Para este efecto, los padres convendrán lo que les parezca sobre el cuidado de ellos, la proporción que les corresponda pagar de los alimentos y la forma de garantizar su pago.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+El Juez aprobará o no el convenio, según estime conveniente para el interés de los hijos. En caso de que desapruebe el convenio, dictará las medidas que estime procedentes. Puede el Juez ordenar que los hijos queden al cuidado del ascendiente o ascendientes, paternos o maternos, según juzgue más conveniente, atendiendo siempre el interés de los hijos. La disposición contenida en este párrafo es facultativa y no limitativa.
 
-I. Desecharlo por improcedente o sobreseerlo, en su caso.
+###### ARTICULO 250.
 
-II. Confirmar el acto impugnado.
+Modificación en atención a los hijos
 
-III. Mandar reponer el procedimiento administrativo.
+El Juez, en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y velando en todo caso por los intereses de los menores.
 
-IV. Dejar sin efectos el acto impugnado.
+###### ARTICULO 251.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+División de bienes
 
-V. Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los cónyuges hubieren procedido de buena fe, se dividirán entre ellos de conformidad con lo dispuesto por este Código para la liquidación de la sociedad conyugal. Si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos y, si no los hubiere, se dividirán entre los cónyuges en la forma que éstos convengan o, en su defecto, conforme a las reglas para la división de la copropiedad.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### ARTICULO 252.
 
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses aún cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
+Reglas sobre donaciones
 
-### CAPITULO III. Del Procedimiento Administrativo de Ejecución
+Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
 
-###### Artículo 134.
+I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
 
-Las notificaciones de los actos administrativos se harán:
+II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+III.- Las hechas al inocente por el cónyuge que obró de mala fe, quedarán subsistentes; y
 
-II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
+IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
-III. Por estrados, en los casos que señalen las leyes fiscales y este Código.
+###### ARTICULO 253.
 
-IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio nacional.
+Mujer encinta
 
-###### Artículo 135.
+Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo I del Título Quinto del Libro Tercero.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la hagan directamente las autoridades fiscales, deberá señalarse la fecha en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
+###### ARTICULO 254.
 
-La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
+Matrimonio ilícito
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Es ilícito y, además, nulo el matrimonio:
 
-###### Artículo 136.
+I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
 
-Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 163, y cuando se celebre sin que haya transcurrido el término fijado en el artículo 161.
 
-También se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del registro federal de contribuyentes, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
+En los casos anteriores, la nulidad sólo podrá ser exigida por el Ministerio Público y dentro del término de noventa días de celebrado el matrimonio.
 
-Toda notificación personal, realizada con quien deba entenderse será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
+###### ARTICULO 255.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+Sanciones por infracción
 
-En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen los matrimonios, incurrirán en los delitos que señale el Código de la materia.
 
-###### Artículo 137.
+### CAPITULO VI. DEL DIVORCIO
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días, a las oficinas de las autoridades fiscales.
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+###### ARTICULO 256.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el reglamento de este Código.
+Consecuencias del divorcio
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+El divorcio disuelve el vínculo del matrimonio y deja a quienes fueron cónyuges en aptitud de contraer otro.
 
-###### Artículo 138.
+###### ARTICULO 257.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal.
+Cómo se clasifica
 
-###### Artículo 139.
+El divorcio se clasifica en voluntario y necesario. Es voluntario cuando se solicita de común acuerdo por los cónyuges, y es necesario cuando cualquiera de éstos lo reclama fundado en una o más de las causas a que se refiere el artículo 272 de este Código.
 
-Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquél en que se hubiera fijado el documento.
+###### ARTICULO 258.
 
-###### Artículo 140.
+Substanciación del voluntario
 
-Las notificaciones por edictos se harán mediante publicaciones durante tres días consecutivos en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación en la República y contendrán un resumen de los actos que se notifican.
+El divorcio voluntario se substanciará administrativa o judicialmente, según las circunstancias del matrimonio. El divorcio necesario será substanciado ante la autoridad judicial.
 
-En este caso se tendrá como fecha de notificación la de la última publicación.
+###### ARTICULO 259.
 
-###### Artículo 141.
+Residencia de los divorciantes
 
-Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
+No se podrá promover el divorcio voluntario ni demandar el necesario ante un Juez de primera instancia del Estado, sino cuando los cónyuges hayan residido dentro de la jurisdicción de dicho Juez, por lo menos con seis meses de anticipación a la fecha en que ocurran ante éste.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### ARTICULO 260.
 
-I. Depósito de dinero en las instituciones de crédito autorizadas para tal efecto.
+Audiencias
 
-II. Prenda o hipoteca.
+En todo juicio de divorcio las audiencias serán secretas.
 
-III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
+###### ARTICULO 261.
 
-IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
+Fallecimiento de uno de los cónyuges
 
-V. Embargo en la vía administrativa.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y en tanto no se cubra el crédito, deberá ampliarse la garantía por el importe de los recargos correspondientes a los doce meses siguientes.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-El reglamento de este Código establecerá los requisitos que deberán reunir las garantías. La Secretaría de Hacienda y Crédito Público vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Se podrá dispensar el otorgamiento de la garantía en los casos y con los requisitos que señale el reglamento de este Código. La solicitud de dispensa no exime al contribuyente de la obligación de garantizar el interés fiscal, en tanto se dicte resolución definitiva expresa respecto a la dispensa.
-
-###### Artículo 142.
-
-Procede garantizar el interés fiscal, cuando:
-
-I. Se solicite la suspensión del procedimiento administrativo de ejecución.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-II. Solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente.
-
-III. Se solicite la aplicación del producto en los términos del artículo 159 de este Código.
-
-IV. En los demás casos que señalen este ordenamiento y las leyes fiscales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
-
-###### Artículo 143.
-
-Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 141 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
-
-Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Hacienda y Crédito Público.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO Y LOS INCISOS SIGUIENTES, REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO EN CITA.</small>
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Tratándose de fianza a favor de la Federación, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
-
-a). La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, en cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. La citada información se proporcionará a la Secretaría de Hacienda y Crédito Público, misma que se publicará en el Diario Oficial de la Federación para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados en la (sic) regiones donde no se haga alguno de los señalamientos mencionados.
-
-b). Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Hacienda y Crédito Público que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO I. Disposiciones Generales
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 144.
-
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efectos su notificación, siempre que el interesado manifieste ante la autoridad ejecutora, bajo protesta de decir verdad y dentro del mes siguiente a dicha fecha, que interpondrá recurso administrativo o juicio de nulidad y que garantizará el interés fiscal. Si a más tardar al vencimiento del citado plazo de cuarenta y cinco días, se acredita la impugnación y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución hasta que se haga saber la resolución definitiva que recaiga en el recurso o juicio.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria y garantizará la parte controvertida y sus recargos.
-
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
-
-En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta, con los recargos causados.
-
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el antepenúltimo párrafo del artículo 141 de este Código.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal Fiscal de la Federación que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
-
-### CAPITULO II. De la Improcedencia y del Sobreseimiento
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 145.
-
-Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la ley, mediante el procedimiento administrativo de ejecución.
-
-Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible, cuando a juicio de la autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
-
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 141, se levantará el embargo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al tiempo de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 41, fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
-
-###### Artículo 146.
-
-El crédito fiscal se extingue por prescripción en el término de cinco años.
-
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consume la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
-
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, no libera de su pago.
-
-###### Artículo 147.
-
-Las controversias que surjan entre el fisco federal y los fiscos locales relativas al derecho de preferencia para recibir el pago de los créditos fiscales, se resolverán por los tribunales judiciales de la Federación, tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
-
-I. La preferencia corresponderá al fisco que tenga a su favor créditos por impuestos sobre la propiedad raíz, tratándose de los frutos de los bienes inmuebles o del producto de la venta de éstos.
-
-II. En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
-
-###### Artículo 148.
-
-Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor, el fisco federal con los fiscos locales fungiendo como autoridad federal de conformidad con los convenios de coordinación fiscal y con los organismos descentralizados que sean competentes para cobrar coactivamente contribuciones de carácter federal, la Secretaría de Hacienda y Crédito Público iniciará o continuará, según sea el caso, el procedimiento administrativo de ejecución por todos los créditos fiscales federales omitidos.
-
-El producto obtenido en los términos de este artículo, se aplicará a cubrir los créditos fiscales en el orden siguiente:
-
-I. Los gastos de ejecución.
-
-II. Los accesorios de las aportaciones de seguridad social.
-
-III. Las aportaciones de seguridad social.
-
-IV. Los accesorios de las demás contribuciones y otros créditos fiscales.
-
-V. Las demás contribuciones y otros créditos fiscales.
-
-###### Artículo 149.
-
-El fisco federal tendrá preferencia para recibir el pago de créditos provenientes de ingresos que la Federación debió percibir, con excepción de adeudos garantizados con prenda o hipoteca, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los trabajadores de acuerdo con la Ley Federal del Trabajo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Para que sea aplicable la excepción a que se refiere el párrafo anterior, será requisito indispensable que con anterioridad a la fecha en que surta efectos la notificación del crédito fiscal, las garantías se hayan inscrito en el registro público que corresponda y, respecto de los adeudos por alimentos, que se haya presentado la demanda ante las autoridades competentes.
-
-La vigencia y exigibilidad del crédito cuya preferencia se invoque deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo.
-
-En ningún caso el fisco federal entrará en los juicios universales. Cuando se inicie juicio de quiebra, suspensión de pagos o de concurso, el juez que conozca del asunto deberá dar aviso a las autoridades fiscales para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento administrativo de ejecución.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-###### Artículo 150.
-
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
-
-I. Por el requerimiento señalado en el primer párrafo del artículo 151 de este Código.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción II y 141, fracción V de este Código.
-
-III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
-
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica correspondiente al Distrito Federal, se cobrará esta cantidad en vez del 2% del crédito.
-
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al año.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41 fracción II y 141 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
-
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
-
-Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales federales para el establecimiento de fondos de productividad y para financiar los programas de formación de funcionarios fiscales, salvo que por ley estén destinados a otros fines.
-
-## TITULO VI. Del Procedimiento Contencioso Administrativo
-
-### CAPITULO III. De los Impedimentos y Excusas
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 151.
-
-Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, en caso de no hacerlo en el acto, procederán como sigue:
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco.
-
-II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
-
-El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el registro público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
-
-Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del registro público que corresponda, en todas ellas se inscribirá el embargo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Si la exigibilidad se origina por cese de la prórroga, o de la autorización para pagar en parcialidades, por error aritmético en las declaraciones o por situaciones previstas en la fracción I del artículo 41 de este Código, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
-
-###### Artículo 152.
-
-El ejecutor designado por el jefe de la oficina exactora se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en el artículo 137 de este Código. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma. El acta deberá llenar los requisitos a que se refiere el artículo 38 de este ordenamiento.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
-
-En el caso de actos de inspección y vigilancia, se procederá al aseguramiento de los bienes cuya importación debió ser manifestada a las autoridades fiscales o autorizada por éstas, siempre que quien practique la inspección esté facultado para ello en la orden respectiva.
-
-### CAPITULO IV. De la Demanda
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 153.
-
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales.
-
-En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los artículos 165, 166 y 167 de este Código.
-
-La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
-
-El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina exactora, pudiendo recaer el nombramiento en el ejecutado.
-
-###### Artículo 154.
-
-(DEROGADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)
-
-El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-###### Artículo 155.
-
-La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
-
-I. Dinero, metales preciosos y depósitos bancarios.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
-
-III. Bienes muebles no comprendidos en las fracciones anteriores.
-
-IV. Bienes inmuebles.
-
-La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 156.
-
-El ejecutor podrá señalar bienes sin sujetarse al orden establecido en el artículo anterior, cuando el deudor o la persona con quien se entienda la diligencia:
-
-I. No señale bienes suficientes a juicio del ejecutor o no haya seguido dicho orden al hacer el señalamiento.
-
-II. Cuando teniendo el deudor otros bienes susceptibles de embargo, señale:
-
-a). Bienes ubicados fuera de la circunscripción de la oficina ejecutora.
-
-b). Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
-
-c). Bienes de fácil descomposición o deterioro o materias inflamables.
-
-###### Artículo 157.
-
-Quedan exceptuados de embargo:
-
-I. El lecho cotidiano y los vestidos del deudor y de sus familiares.
-
-II. Los muebles de uso indispensable del deudor y de sus familiares, no siendo de lujo a juicio del ejecutor.
-
-III. Los libros, instrumentos, útiles y mobiliario indispensable para el ejercicio de la profesión, arte y oficio a que se dedique el deudor.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-IV. La maquinaria, enseres y semovientes de las negociaciones, en cuanto fueren necesarios para su actividad ordinaria a juicio del ejecutor, pero podrán ser objeto de embargo con la negociación en su totalidad si a ella están destinados.
-
-V. Las armas, vehículos y caballos que los militares en servicio deban usar conforme a las leyes.
-
-VI. Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras.
-
-VII. El derecho de usufructo, pero no los frutos de éste.
-
-VIII. Los derechos de uso o de habitación.
-
-IX. El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Registro Público de la Propiedad.
-
-X. Los sueldos y salarios.
-
-XI. Las pensiones de cualquier tipo.
-
-XII. Los ejidos.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 158.
-
-Si al designarse bienes para el embargo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la oficina ejecutora, a la que deberá allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la ejecutora las pruebas no son suficientes, ordenará al ejecutor que continúe con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso de oposición al procedimiento administrativo de ejecución en los términos de este Código.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 159.
-
-Cuando los bienes señalados para la traba estuvieren ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará no obstante la diligencia. Dichos bienes se entregarán al depositario designado por la oficina ejecutora o por el ejecutor y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
-
-Si los bienes señalados para la ejecución hubieran sido ya embargados por parte de autoridades fiscales locales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad federal y se dará aviso a la autoridad local. En caso de inconformidad, la controversia resultante será resuelta por los tribunales judiciales de la Federación. En tanto se resuelve el procedimiento respectivo no se hará aplicación del producto, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Hacienda y Crédito Público.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 160.
-
-El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
-
-Si en cumplimiento de lo dispuesto en el primer párrafo de este Artículo, se paga un crédito cuya cancelación deba anotarse en el registro público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado el jefe de la oficina ejecutora firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del registro público que corresponda, para los efectos procedentes.
-
-###### Artículo 161.
-
-El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas.
-
-Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
-
-###### Artículo 162.
-
-Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el acceso al domicilio de aquél o al lugar en que se encuentren los bienes, siempre que el caso lo requiera el ejecutor solicitará el auxilio de la policía o de otra fuerza pública para llevar adelante el procedimiento de ejecución.
-
-###### Artículo 163.
-
-Si durante el embargo, la persona con quien se entienda la diligencia no abriere la (sic) puertas de las construcciones, edificios o casas señalados para la traba o en los que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo fundado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
-
-En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina, en los términos del reglamento de este Código.
-
-Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, elejecutor (sic) trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
-
-###### Artículo 164.
-
-Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o de administrador.
-
-En la intervención de nogociaciones (sic) será aplicable, en lo conducente, las secciones de este capítulo.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-### CAPITULO V. De la Contestación
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 165.
-
-El interventor encargado de la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, deberá retirar de la negociación intervenida el 10% de los ingresos en dinero y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
-
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco federal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
-
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
-
-###### Artículo 166.
-
-El interventor administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistir de estas últimas, previo acuerdo de la oficina ejecutora, así como para otorgar los poderes generales o especiales que juzgue convenientes, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
-
-El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
-
-Tratándose de nogociaciones (sic) que no constituyan una sociedad, el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
-
-###### Artículo 167.
-
-El interventor administrador tendrá las siguientes obligaciones:
-
-I. Rendir cuentas mensuales comprobadas a la oficina ejecutora.
-
-II. Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la caja de la oficina ejecutora a medida que se efectúe la recaudación.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-El interventor administrador no podrá enajenar los bienes del activo fijo. Cuando se den los supuestos de enajenación de las negociaciones intervenida (sic) a que se refiere el artículo 172 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este Capítulo.
-
-###### Artículo 168.
-
-El nombramiento de interventor administrador deberá anotarse en el registro público que corresponda al domicilio de la negociación intervenida.
-
-###### Artículo 169.
-
-Sin perjuicio de lo dispuesto por el artículo 166 de este Código, la asamblea y administración de la sociedad podrán continuar reuniéndose regularmente para conocer de los asuntos que les competen y de los informes que formule el interventor administrador sobre el funcionamiento y las operaciones de la negociación, así como para opinar sobre los asuntos que les someta a su consideración. El interventor podrá convocar a asamblea de accionistas, socios o partícipes y citar a la administración de la sociedad con los propósitos que considere necesarios o convenientes.
-
-###### Artículo 170.
-
-En caso de que la negociación que pretenda intervenir ya lo estuviera por mandato de otra autoridad, se nombrará no obstante el nuevo interventor, que también lo será para las otras intervenciones mientras subsista la efectuada por las autoridades fiscales. La designación o cambio de interventor se pondrá en conocimiento de las autoridades que ordenaron las anteriores o posteriores intervenciones.
-
-###### Artículo 171.
-
-La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la oficina ejecutora comunicará el hecho al registro público que corresponda para que se cancele la inscripción respectiva.
-
-###### Artículo 172.
-
-Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado periodo del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
-
-###### Artículo 173.
-
-La enajenación de bienes embargados, procederá:
-
-(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
-
-I. A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del artículo 175 de este Código.
-
-II. En los casos de embargo precautorio a que se refiere el artículo 145 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento.
-
-III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del artículo 192 de este Código.
-
-IV. Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hubieren hecho valer.
-
-###### Artículo 174.
-
-Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
-
-La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-###### Artículo 175.
-
-La base para enajenación de los bienes inmuebles embargados será el de avalúo y para negociaciones, el avalúo pericial, ambos conforme a las reglas que establezca el reglamento de este Código y en los demás casos, la que fijen de común acuerdo la autoridad y el embargado, en un plazo de seis días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
-
-El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de oposición al procedimiento administrativo de ejecución a que se refiere la fracción IV del artículo 118 de este Código, dentro de los diez días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en el reglamento de este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
-
-Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo no designen valuador, se tendrá por aceptado el avalúo hecho conforme al primer párrafo de este artículo.
-
-Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, la autoridad exactora designará dentro del término de seis días, un perito tercero valuador que será cualquiera de los señalados en el reglamento de este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes. El avalúo que se fije será la base para la enajenación de los bienes.
-
-En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de 10 días si se trata de bienes muebles, 20 días si son inmuebles y 30 días cuando sean negociaciones, a partir de la fecha de su designación.
-
-###### Artículo 176.
-
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquella en que se determinó el precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
-
-La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
-
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al año, la convocatoria se publicará en el órgano oficial de la entidad en la que resida la autoridad ejecutora y en uno de los periódicos de mayor circulación, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
-
-###### Artículo 177.
-
-Los acreedores que aparezcan del certificado de gravámenes correspondiente a los últimos diez años, el cual deberá obtenerse oportunamente, serán citados para el acto de remate y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la fracción IV del artículo 134 de este Código, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
-
-Los acreedores a que alude el párrado (sic) anterior podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
-
-###### Artículo 178.
-
-Mientras no se finque el remate, el embargado puede proponer comprador que ofrezca de contado la cantidad suficiente para cubrir el crédito fiscal.
-
-###### Artículo 179.
-
-Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO VI. De los Incidentes
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-#### Sección Primera. Disposiciones Generales
-
-###### Artículo 180.
-
-En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para cubrir el interés fiscal; si éste es superado por la base fijada para el remate, se procederá en los términos del artículo 196 de este Código.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Si el importe de la postura es menor al interés fiscal, se rematarán de contado los bienes embargados.
-
-La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca el reglamento de este Código. En este supuesto quedará liberado de la obligación de pago el embargado.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-###### Artículo 181.
-
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por institución de crédito autorizada para tal efecto; en las poblaciones donde no haya alguna de esas instituciones, el depósito se hará de contado en la propia oficina ejecutora.
-
-El importe de los depósitos que se constituyen de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
-
-###### Artículo 182.
-
-El escrito en que se haga la postura deberá contener:
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor, y en su caso, la clave del registro federal de contribuyentes; tratándose de sociedades, el nombre o razón social, la fecha de constitución, la clave del registro federal de contribuyentes y el domicilio social.
-
-II. La cantidad que se ofrezca y la forma de pago.
-
-###### Artículo 183.
-
-El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora hará saber a los presentes qué posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
-
-Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse.
-
-###### Artículo 184.
-
-Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones contraídas y las que este Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco federal. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 185.
-
-Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulta de las mejoras.
-
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la autoridad ejecutora procederá a entregarle los bienes que le hubiere adjudicado.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor en que se adjudicarán los bienes, éstos se aplicarán a cubrir los adeudos que se generaran por este concepto.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-###### Artículo 186.
-
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
-
-Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el jefe de la oficina ejecutora lo hará en su rebeldía.
-
-El ejecutado, aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
-
-###### Artículo 187.
-
-Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al registro público que corresponda, en un plazo que no excederá de quince días.
-
-###### Artículo 188.
-
-Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aun las de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
-
-#### Sección Segunda. Del recurso de revocación
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-###### Artículo 189.
-
-Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del fisco federal en el procedimiento administrativo. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código.
-
-###### Artículo 190.
-
-El fisco federal tendrá preferencia para adjudicarse en cualquier almoneda, los bienes ofrecidos en remate, en los siguientes casos:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-I. A falta de postores.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-II. A falta de pujas.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-III. En caso de posturas o pujas iguales.
-
-IV. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-La adjudicación se hará al valor que corresponda para la almoneda de que se trate.
-
-###### Artículo 191.
-
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los términos del artículo 176 de este Código con la salvedad de que la publicación se hará por una sola vez.
-
-La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Si tampoco se fincare el remate en la segunda almoneda, se considerará que el bien fue enajendo (sic) en un 50% del valor de avalúo, aceptándose como dación en pago para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos, o a instituciones asistenciales o de beneficiencia (sic) autorizadas conforme a las leyes de la materia.
-
-###### Artículo 192.
-
-Los bienes embargados podrán enajenarse fuera de remate, cuando:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I. El embargado proponga comprador antes del día en que se finque el remate, se enajenen o adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-II. Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III. Se trate de bienes que habiendo salido a remate en primera almoneda, no se hubieran presentado postores.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 193.
-
-En el supuesto señalado en la fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes.
-
-###### Artículo 194.
-
-El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el artículo 20 de este Código.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 195.
-
-En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
-
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
-
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinado conforme al artículo 175 de este Código, se aplicarán a cubrir los adeudos que se generarán por este concepto.
-
-###### Artículo 196.
-
-Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-En caso de conflicto, el remanente se depositará en institución de crédito autorizada en tanto resuelven las autoridades competentes.
-
-###### Artículo 197.
-
-Los juicios que se promuevan ante el Tribunal Fiscal de la Federación se regirán por las disposiciones de este Título. A falta de disposición expresa se aplicará supletoriamente el Código Federal de Procedimientos Civiles, siempre que se refiera a instituciones previstas en este Código y que la disposición supletoria se avenga al procedimiento contencioso que el mismo establece.
-
-###### Artículo 198.
-
-Son partes en el juicio contencioso administrativo:
-
-I. El demandante.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-II. Los demandados. Tendrán ese carácter:
-
-a). La autoridad que dictó la resolución impugnada.
-
-b). El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-III. El titular de la dependencia o entidad de la Administración Pública Federal, Procuraduría General de la República o Procuraduría General de Justicia del Distrito Federal, de la que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Hacienda y Crédito Público será parte en los juicios en que se controviertan actos de autoridades federativas coordinadas, emitidos con fundamento en convenios o acuerdos en materia de coordinación en ingresos federales.
-
-Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría de Hacienda y Crédito Público podrá apersonarse como parte en los otros juicios en que se controvierta el interés fiscal de la Federación.
-
-IV. El tercero que tenga un derecho incompatible con la pretensión del demandante.
-
-(DEROGADO ULTIMO PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 199.
-
-Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital y firmará otra persona a su ruego.
-
-###### Artículo 200.
-
-Ante el Tribunal Fiscal de la Federación no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación de la demanda o de la contestación, en su caso.
-
-La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Fiscal de la Federación, sin perjuicio de lo que disponga la legislación de profesiones.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo Federal en el reglamento o decreto respectivo; o conforme lo establezcan las disposiciones locales, tratándose de las autoridades de las entidades federativas coordinadas.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
-
-###### Artículo 201.
-
-En los juicios que se tramiten ante el Tribunal Fiscal de la Federación no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
-
-###### Artículo 202.
-
-Es improcedente el juicio ante el Tribunal Fiscal de la Federación en los casos, por las causales y contra los actos siguientes:
-
-I. Que no afecten los intereses jurídicos del demandante.
-
-II. Cuya impugnación no corresponda conocer a dicho Tribunal.
-
-III. Que hayan sido materia de sentencia pronunciada por el Tribunal Fiscal, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-IV. Respecto de las cuales hubiere consentimiento, entendiéndose que hay consentimiento únicamente cuando no se promovió algún medio de defensa en los términos de las leyes respectivamente o juicio ante el Tribunal Fiscal en los plazos que señala este Código.
-
-V. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una autoridad administrativa o ante el propio Tribunal.
-
-VI. Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de aquéllos cuya interposición sea optativa.
-
-VII. Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo 219 de este Código.
-
-VIII. Que hayan sido impugnados en un procedimiento judicial.
-
-IX. Contra ordenamientos que den normas o instrucciones de carácter general y abstracto, sin haber sido aplicados concretamente al promovente.
-
-X. Cuando no se haga valer agravio alguno.
-
-XI. Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado.
-
-XII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-La procedencia del juicio será examinada aun de oficio.
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 203.
-
-Procede el sobreseimiento:
-
-I. Por desistimiento del demandante.
-
-II. Cuando durante el juicio aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior.
-
-III. En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia el proceso.
-
-IV. Si la autoridad demandada deja sin efecto el acto impugnado.
-
-V. En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-El sobreseimiento del juicio podrá ser total o parcial.
-
-###### Artículo 204.
-
-Los magistrados del Tribunal Fiscal de la Federación estarán impedidos para conocer, cuando:
-
-I. Tienen interés personal en el negocio.
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-II. Sean parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y segundo por afinidad.
-
-III. Han sido patronos o apoderados en el mismo negocio.
-
-IV. Tienen amistad estrecha o enemistad con alguna de las partes o con sus patronos o representantes.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-V. Han dictado el acto impugnado o han intervenido con cualquier carácter en la emisión del mismo o en su ejecución.
-
-VI. Figuran como parte en un juicio similar, pendiente de resolución.
-
-VII. Están en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
-
-###### Artículo 205.
-
-Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 206.
-
-Manifestada por un magistrado la causa de impedimento, el Presidente de la Sala Regional turnará el asunto a la Superior, que calificará la excusa y, de ser fundada, designará a quien deba sustituir al magistrado impedido.
-
-###### Artículo 207.
-
-La demanda se presentará por escrito directamente ante la Sala Regional en cuya circunscripción radique la autoridad que emitió la resolución impugnada, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación de ésta.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-La demanda podrá enviarse por correo certificado con acuse de recibo si el demandante tiene su domicilio fuera de la población donde esté la sede de la sala o cuando ésta se encuentre en el Distrito Federal y el domicilio fuera de él, siempre que el envío se efectúe en el lugar en que resida el demandante.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Las autoridades podrán presentar la demanda dentro de los cinco años siguientes a la fecha en que sea emitida la resolución, cuando se pida la modificación o nulidad de un acto favorable a un particular, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
-
-Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año si antes no se ha aceptado el cargo de representante de la sucesión.
-
-###### Artículo 208.
-
-La demanda deberá indicar:
-
-I. El nombre y domicilio del demandante.
-
-II. La resolución que se impugna.
-
-III. La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa.
-
-IV. Los hechos que den motivo a la demanda.
-
-V. Las pruebas que ofrezca.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-En caso de que se ofrezca prueba pericial o testimonial se precisarán los hechos sobre los que deban versar y señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas.
-
-VI. La expresión de los agravios que le cause el acto impugnado.
-
-VII. El nombre y domicilio del tercero interesado, cuando lo haya.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Cuando se omitan los datos previstos en las fracciones II, III y VII, el magistrado instructor requerirá mediante notificación personal al demandante para que los proporcione en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda. Si se omiten los datos de la fracción I, el requerimiento se hará mediante notificación por lista.
-
-###### Artículo 209.
-
-El demandante deberá adjuntar a su instancia:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-I. Una copia de la misma para cada una de las partes y una copia de los documentos anexos para el titular a que se refiere la fracción III del artículo 198, o en su caso, para el particular demandado.
-
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio.
-
-III. El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-IV. Constancia de la notificación del acto impugnado, excepto cuando el demandante declare bajo protesta de decir verdad que no recibió constancia o cuando hubiera sido por correo. Si la notificación fue por edictos deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-V. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante.
-
-VI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
-
-VII. Las pruebas documentales que ofrezca.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentren para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado instructor requerirá, mediante notificación personal al demandante, para que los presenten en el plazo de cinco días, apercibiéndolo de que de no hacerlo se tendrán por no ofrecidas las pruebas respectivas, o si se trata de los previstos en las fracciones I a IV, se tendrá por no presentada la demanda.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Artículo 209 BIS.- Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
-
-I. Si el demandante afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que lo conoció.
-
-En caso de que tembién (sic) impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, conjuntamente con los que se formulen contra la notificación.
-
-II. Si el actor manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien atribuye el acto, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir mediante ampliación de la demanda.
-
-III. El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
-
-Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada, y como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 210.
-
-Se podrá ampliar la demanda, dentro de los cuarenta y cinco días siguientes al en que surta efectos la notificación del acuerdo que admita la contestación de la misma, en los casos siguientes:
-
-I. Cuando se impugne una negativa ficta;
-
-II. Contra el acto principal del que derive el impugnado en la demanda, así como su notificación, cuando se den a conocer en la contestación;
-
-III. En los casos previstos por el artículo 209 BIS.
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 211.
-
-El tercero, dentro de los cuarenta y cinco días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables en lo conducente los dos últimos párrafos del artículo 209.
-
-###### Artículo 212.
-
-Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los cuarenta y cinco días siguientes a aquél en que surta efectos el emplazamiento. El plazo para contestar la ampliación de la demanda será de cuarenta y cinco días siguientes al en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación en tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hecho (sic) notorios resulten desvirtuados.
-
-Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
-
-Cuando los demandados fueren varios el término para contestar les correrá individualmente.
-
-#### Sección Tercera. Del recurso de oposición al procedimiento administrativo de ejecución
-
-###### Artículo 213.
-
-El demandado, en su contestación expresará:
-
-I. Los incidentes de previo y especial pronunciamiento a que haya lugar.
-
-II. Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda.
-
-III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron, según sea el caso.
-
-IV. Los argumentos por medio de los cuales se demuestre la ineficacia de los agravios.
-
-V. Las pruebas que ofrezca.
-
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
-
-En caso de que se ofrezca prueba pericial o testimonial, se precisarán los hechos sobre los que deban versar y se señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
-
-VI. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Para los efectos de este artículo, será aplicable lo dispuesto en el último párrafo del artículo 208 de este Código.
-
-###### Artículo 214.
-
-El demandado deberá adjuntar a su contestación:
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-I. Copias de la misma y de los documentos que acompañe para el demandante y para el tercero señalado en la demanda.
-
-II. El documento en que acredite su personalidad cuando el demandado sea un particular y no gestione en nombre propio.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado.
-
-IV. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
-
-V. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
-
-VI. Las pruebas documentales que ofrezca.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Para los efectos de este artículo será aplicable, en lo conducente los dos últimos párrafos del artículo 209.
-
-###### Artículo 215.
-
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-En la contestación de la demanda o hasta antes del cierre de la instrucción la autoridad demandada podrá allanarse a las pretensiones del demandante o revocar la resolución impugnada.
-
-###### Artículo 216.
-
-Cuando haya contradicciones entre los fundamentos de hecho y de derecho dados en la contestación de la autoridad que dictó la resolución impugnada y la formulada por la Secretaría de Estado, Departamento Administrativo u organismo descentralizado de que dependa aquélla, únicamente se tomará en cuenta, respecto a esas contradicciones, lo expuesto por éstos últimos.
-
-###### Artículo 217.
-
-En el juicio contencioso administrativo sólo serán de previo y especial pronunciamiento:
-
-I. La incompetencia en razón del territorio.
-
-II. El de acumulación de autos.
-
-III. El de nulidad de notificaciones.
-
-IV. El de interrupción por causa de muerte o disolución.
-
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-V. La recusación por causa de impedimento.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
-
-#### Sección Cuarta. De la Impugnación de las Notificaciones
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 218.
-
-Cuando ante una de las salas regionales se promueva juicio de la que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponderá ventilar el negocio, enviándole los autos.
-
-Recibido el expediente por la sala requerida, decidirá de plano dentro de las 48 horas siguientes, si acepta o no el conocimiento del asunto.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Si la sala regional requerida lo acepta; comunicará su resolución a la requirente, a las partes y a la Sala Superior. En caso de no aceptarlo, hará saber su resolución a la sala requirente y a las partes, y remitirá los autos a la Sala Superior.
-
-Recibidos los autos, la Sala Superior determinará dentro de los cinco días siguientes a cuál sala regional corresponde conocer el juicio, pudiendo señalar a alguna de las contendientes o a sala diversa, comunicando su decisión a las mismas y a las partes, y remitiendo los autos a la que sea declarada competente.
-
-Cuando una sala esté conociendo de algún juicio que sea de la competencia de otra, cualquiera de las partes podrá recurrir a la Sala Superior, exhibiendo copia certificada de la demanda y de las constancias que estime pertinente. Si éstas fueron suficientes, la Sala Superior, resolverá la cuestión de competencia y ordenará la remisión de los autos a la sala regional que corresponda. Si las constancias no fueren suficientes, podrá pedir informe a la sala regional cuya competencia se denuncie y resolverá con base en lo que ésta exponga.
-
-###### Artículo 219.
-
-Procede la acumulación de dos o más juicios pendientes de resolución en los casos en que:
-
-I. Las partes sean las mismas y se invoquen idénticos agravios.
-
-II. Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugnen varias partes del mismo acto.
-
-III. Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos que sean unos antecedentes o consecuencia de los otros.
-
-###### Artículo 220.
-
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 221.
-
-La acumulación se tramitará ante el magistrado instructor que esté conociendo del juicio en el cual la demanda se presentó primero. Dicho magistrado, en el plazo de diez días, formulará proyecto de resolución que someterá a la sala, la cual dictará la determinación que proceda. La acumulación podrá tramitarse de oficio.
-
-###### Artículo 222.
-
-Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano.
-
-Una vez decreta la acumulación, la sala que conozca del juicio más reciente, deberá enviar los autos a la que conoce el primer juicio, en un plazo que no excederá de seis días. Cuando la acumulación se decrete en una misma sala, se turnarán los autos al magistrado que conoce el juicio más antiguo.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Cuando no pueda decretarse la acumulación por que en alguno de los juicios se hubiese cerrado la instrucción o por encontrarse en diversas instancias, a petición de parte o de oficio, se decretará la suspensión del procedimiento en el juicio en trámite. La suspensión subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
-
-###### Artículo 223.
-
-Las notificaciones que no fueren hechas conforme a lo dispuesto en este Código serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquel en que conoció el hecho ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
-
-Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, el magistrado instructor dictará resolución.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 224.
-
-La interrupción por causa de muerte o disolución procederá y se tramitará, conforme a lo previsto en el Código Federal de Procedimientos Civiles.
-
-###### Artículo 225.
-
-Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 204 de este Código.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 226.
-
-La recusación de magistrados se promoverá ante la Sala Superior, mediante escrito que se presente en la Sala Regional respectiva, al que se acompañarán las pruebas que se ofrezcan. El presidente de ésta, dentro de los cinco días siguientes, enviará a la Sala Superior el escrito de recusación, junto con un informe que el magistrado recusado debe rendir. A falta de informe se presumirá cierto el impedimento. Si la Sala Superior declara fundada la recusación, el magistrado será sustituido en los términos de la Ley orgánica del Tribunal Fiscal de la Federación.
-
-Los magistrados que conozcan de una recusación son irrecusables para ese solo efecto.
-
-La recusación del perito del Tribunal se promoverá ante el magistrado instructor, dentro de los seis días siguientes a la fecha en que surta efectos la notificación del acuerdo por el que se le designe.
-
-El instructor pedirá al perito recusado que rinda un informe dentro de los tres días siguientes. A falta de informe se presumirá cierto el impedimento. Si la Sala encuentra fundada la recusación substituirá al perito.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 227.
-
-Los particulares podrán promover el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, ante el magistrado instructor de la Sala Regional que conozca del asunto o que haya conocido del mismo en la primera instancia, acompañando copia de los documentos en que se haga constar el ofrecimiento y, en su caso, otorgamiento de la garantía, así como de la solicitud de suspensión presentada ante la ejecutora y, si lo hubiere, la documentación en que conste la negativa de la suspensión, el rechazo de la garantía o el reinicio de la ejecución.
-
-Con los mismos trámites del incidente previsto en el párrafo anterior, las autoridades fiscales podrán impugnar el otorgamiento de la suspensión cuando no se ajuste a la ley.
-
-El incidente previsto en este artículo podrá promoverse hasta que se dicte sentencia o resolución firme de la Sala Regional, de la Sala Superior o del Tribunal Colegiado de Circuito, en su caso. Mientras no se dicte la misma, la Sala Regional podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-#### Sección Quinta. Del trámite y resolución de los recursos
-
-###### Artículo 228.
-
-En el auto que admita el incidente a que se refiere el artículo 227, el magistrado instructor ordenará correr traslado a la autoridad a quien se impute el acto, pidiéndole un informe que deberá rendir en un plazo de tres días. Asimismo, podrá decretar la suspensión provisional de la ejecución. Si la autoridad ejecutora no rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, se tendrán éstos por ciertos.
-
-Dentro del plazo de cinco días a partir de que haya recibido el informe, o de que haya vencido el término para presentarlo, la Sala dictará resolución en la que decrete o niegue la suspensión del procedimiento administrativo de ejecución o decida sobre la admisión de la garantía ofrecida.
-
-Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, la Sala Regional declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de uno a tres tantos del salario mínimo general del área geográfica correspondiente al Distrito Federal, elevado al mes.
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-Si el incidente es promovido por la autoridad por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Artículo 228 BIS.- Cuando se promueva alguno de los incidentes previstos en el artículo 217, se suspenderá el juicio en el principal hasta que se dicte la resolución correspondiente.
-
-Los incidentes a que se refieren las fracciones I, II, IV y V de dicho artículo únicamente podrán promoverse hasta antes de que quede cerrada la instrucción, en los términos del artículo 235 de este Código.
-
-Cuando se promuevan incidentes que no sean de previo y especial pronunciamiento, continuará el trámite del proceso.
-
-Si no está previsto algún trámite especial, los incidentes se substanciarán corriendo traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado concedido, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial las reglas relativas del principal.
-
-Los autos que admitan la demanda, la contestación, la intervención del tercero perjudicado o alguna prueba, podrán ser objetados por las partes, mediante escrito que presentarán en el plazo de cinco días; objeción que se decidirá en la resolución que ponga fin al juicio o en la sentencia respectiva.
-
-###### Artículo 229.
-
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el magistrado instructor hasta antes de que se cierre la instrucción del juicio. La sala resolverá sobre la autenticidad del documento exclusivamente para efectos de dicho juicio.
-
-### CAPITULO VII. De las Pruebas
-
-###### Artículo 230.
-
-En los juicios que se tramiten ante el Tribunal Fiscal de Federación (sic), será admisible toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, el magistrado instructor ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-El magistrado instructor podrá acordar la exhibición de cualquier documento que tenga relación con los hechos controvertidos o para ordenar la práctica de cualquier diligencia.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 231.
-
-La prueba pericial se sujetará a lo siguiente:
-
-I. En el auto que recaiga a la contestación de la demanda o de su ampliación, se requerirá a las partes para que dentro del plazo de diez días presenten a sus peritos, a fin de que acrediten que reúnen los requisitos correspondientes, acepten el cargo y protesten su legal desempeño, apercibiéndolas de que si no lo hacen sin justa causa, o la persona propuesta no acepta el cargo o no reúne los requisitos de ley, sólo se considerará el peritaje de quien haya cumplimentado el requerimiento.
-
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
-
-II. El magistrado instructor, cuando a su juicio deba presidir la diligencia y lo permita la naturaleza de ésta, señalará lugar, día y hora para el desahogo de la prueba pericial pudiendo pedir a los peritos todas las aclaraciones que estime conducentes y exigirles la práctica de nuevas diligencias.
-
-III. En los acuerdos por los que se discierna a cada perito, el magistrado instructor le concederá un plazo mínimo de quince días para que rinda su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo concedido.
-
-IV. Por una sola vez y por causa que lo justifique, comunicada al instructor antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la sustitución de su perito, señalando el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto.
-
-V. El perito tercero será designado por la Sala Regional de entre los que tenga adscritos. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que debe rendir dicho dictamen y las partes cubrirán sus honorarios. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución fiduciaria, debiendo cubrirse sus honorarios por las partes.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 232.
-
-Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste no poder presentarlos, el magistrado instructor los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
-
-###### Artículo 233.
-
-A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridades tienen obligación de expedir con toda oportunidad las copias de los documentos que les soliciten; si no se cumpliera con esa obligación la parte interesada solicitará al magistrado instructor que requiera a los omisos.
-
-Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
-
-En los casos en que la autoridad no sea parte, el magistrado instructor podrá hacer valer como medida de apremio la imposición de multas de hasta el monto del equivalente al salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al trimestre, a los funcionarios omisos.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para hacer las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el magistrado instructor podrá considerar que se está en presencia de omisión por causa justificada.
-
-###### Artículo 234.
-
-La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
-
-I. Harán prueba plena la confesión expresa de las partes, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero, si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas.
-
-II. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas quedará a la prudente apreciación de la sala.
-
-Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
-
-###### Artículo 235.
-
-El magistrado instructor, diez días después de que haya concluído la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
-
-Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará cerrada la instrucción, sin necesidad de declaratoria expresa.
-
-###### Artículo 236.
-
-La sentencia se pronunciará por unanimidad o mayoría de votos de los magistrados integrantes de la Sala, dentro de los sesenta días siguientes a aquél en que se cierre la instrucción en el juicio. Para este efecto el magistrado instructor formulará el proyecto respectivo dentro de los cuarenta y cinco días siguientes al cierre de la instrucción. Para dictar resolución en los casos de sobreseimiento por alguna de las causas previstas en el artículo 203 de este Código, no será necesario que se hubiese cerrado la instrucción.
-
-Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de diez días.
-
-Si el proyecto no fue aceptado por los otros magistrados de la Sala, el magistrado instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
-
-###### Artículo 237.
-
-Las sentencias del Tribunal Fiscal se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Cuando se hagan valer diversos conceptos de nulidad por omisión de formalidades o violaciones de procedimiento, la sentencia o resolución de la Sala deberá examinar y resolver cada uno, aun cuando considere fundado alguno de ellos.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
-
-No se podrán anular o modificar los actos de la (sic) autoridades administrativas no impugnados de manera expresa en la demanda.
-
-###### Artículo 238.
-
-Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
-
-I. Incompetencia del funcionario que la haya dictado u ordenado o tramitado el procedimiento del que deriva dicha resolución.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-II. Omisión de los requisitos formales exigidos por las leyes, que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-III. Vicios del procedimiento que afecten las defensas del particular y trasciendan al sentido de la resolución impugnada.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-IV. Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejo de aplicar las debidas.
-
-V. Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la ley confiera dichas facultades.
-
-###### Artículo 239.
-
-La sentencia definitiva podrá:
-
-I. Reconocer la validez de la resolución impugnada.
-
-II. Declarar la nulidad de la resolución impugnada.
-
-III. Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Si la sentencia obliga a la autoridad a realizar un determinado acto, o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses aún cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
-
-En caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-El Tribunal Fiscal de la Federación declarará la nulidad para el efecto de que se emita nueva resolución cuando se esté en alguno de los supuestos previstos en las fracciones II y III, y en su caso, V, del Artículo 238 de este Código.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Artículo 239 BIS.- La Sala Superior del Tribunal Fiscal de la Federación, de oficio o a petición fundada de la Sala Regional correspondiente o de la Secretaría de Hacienda y Crédito Público, podrá resolver los juicios que por sus características especiales así lo ameriten.
-
-Revisten estas características los juicios en que:
-
-I. El valor del negocio exceda de cien veces el salario mínimo general vigente para el área geográfica del Distrito Federal, elevado al año.
-
-II. Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley o fijar el alcance de los elementos constitutivos de una contribución.
-
-Si la Sala Superior decide ejercer de oficio la facultad a que este artículo se refiere, lo comunicará a la Sala Regional antes de que ésta admita la contestación de la demanda.
-
-La petición de la citada Secretaría podrá presentarse antes de que se acuerde dicha admisión, en escrito dirigido a la Sala Superior, por conducto de la Sala Regional respectiva, y acompañado de las constancias necesarias.
-
-Cuando la Sala Regional proponga que un asunto sea resuelto por la Sala Superior, acordará enviar a ésta la petición, en el auto que admita la contestación de la demanda.
-
-Los acuerdos de la Sala Superior que admitan la petición o que de oficio decidan resolver el juicio, serán notificados personalmente a las partes por la Sala Regional. Al efectuar la notificación, se les requerirá que señalen domicilio para recibir notificaciones en la sede de la Sala Superior, así como que designen persona autorizada para recibirlas o, en el caso de las autoridades, que señalen a su representante en dicha sede, apercibiendo a las propias partes que de no hacerlo, la resolución que dicte la Sala Superior les será notificada por lista.
-
-Una vez cerrada la instrucción del juicio, la Sala Regional remitirá el expediente original a la Sala Superior. Recibido éste, el Presidente de la Sala Superior designará magistrado ponente.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Artículo 239 TER.- En los casos de incumplimiento de sentencia firme, la parte afectada podrá ocurrir en queja, por una sola vez, ante la Sala Regional que instruyó en primera instancia el juicio en que se dictó la sentencia, de acuerdo con las siguientes reglas:
-
-I. Procederá contra la indebida repetición de un acto o resolución anulado; así como cuando en el acto o resolución emitido para cumplimentar una sentencia, se incurra en exceso o defecto en su cumplimiento. No procederá respecto de actos negativos de la autoridad administrativa.
-
-II. Se interpondrá por escrito ante el magistrado que actuó como instructor, dentro de los quince días siguientes al día en que surta efectos la notificación del acto o resolución que la provoca. En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto en el cumplimiento de la sentencia, o bien repetición del acto o resolución anulado.
-
-El magistrado instructor pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o resolución que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado instructor dará cuenta a la Sala, la que resolverá dentro de cinco días.
-
-III. En caso de que haya repetición del acto anulado, la Sala hará la declaratoria correspondiente, dejando sin efectos el acto repetido, y la notificará al funcionario responsable de la repetición, ordenándole que se abstenga de incurrir en nuevas repeticiones.
-
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, para que proceda jerárquicamente, y la Sala impondrá a éste una multa hasta de noventa veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
-
-IV. Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos el acto o resolución que provocó la queja y concederá al funcionario responsable veinte días para que dé el cumplimiento debido al fallo, señalando la forma y términos, precisados en la sentencia, conforme a los cuales deberá cumplir.
-
-V. Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución, si se solicita ante la oficina ejecutora y se garantiza el interés fiscal en los términos del artículo 144.
-
-A quien promueva una queja frívola e improcedente se le impondrá una multa hasta de noventa veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
-
-###### Artículo 240.
-
-Las partes podrán formular excitativa de justicia ante la Sala Superior, si el magistrado instructor no formula el proyecto respectivo dentro del plazo señalado en este Código.
-
-###### Artículo 241.
-
-Recibida la excitativa de justicia el Presidente del Tribunal Fiscal de la Federación, solicitará informe al magistrado instructor que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta a la Sala Superior y si ésta encuentra fundada la excitativa otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal Fiscal de la Federación.
-
-En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto del magistrado instructor, el informe a que se refiere el párrafo anterior se pedirá al presidente de la sala regional respectiva, para que lo rinda en el plazo de tres días y se dará cuenta a la Sala Superior, la que en caso de considerar fundada la excitativa, concederá un plazo de diez días a la sala regional para que dicte sentencia y si ésta no lo hace, se podrá sustituir a los magistrados renuentes.
-
-Cuando un magistrado, en dos ocasiones hubiera sido sustituido conforme a este precepto, la Sala Superior podrá poner el hecho en conocimiento del Presidente de la República.
-
-###### Artículo 242.
-
-El recurso de reclamación procederá ante la Sala Regional, en contra de las resoluciones del magistrado instructor que desechen la demanda, la contestación o alguna prueba, que decreten el sobreseimiento del juicio o aquellas que rechacen la intervención del tercero. La reclamación se interpondrá dentro de los cinco días siguientes a aquél en que surta efectos la notificación respectiva.
-
-###### Artículo 243.
-
-Interpuesto el recurso a que se refiere el artículo anterior, el magistrado instructor ordenará correr traslado a la contraparte por el término de cinco días para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la sala para que resuelva en el término de cinco días. El magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
-
-###### Artículo 244.
-
-Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
-
-###### Artículo 245.
-
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 246.
-
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 247.
-
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-(REFORMADA SU NUMERACION [N. DE E. ANTES SECCION TERCERA], D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 248.
-
-Las resoluciones de las Salas Regionales que decreten o nieguen sobreseimientos y las sentencias definitivas, podrán ser impugnadas por la autoridad, a través de la unidad administrativa encargada de su defensa jurídica, interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede de la Sala Regional respectiva, mediante escrito que presente ante esta última dentro del término de quince días siguientes al día en que surta efectos su notificación, por violaciones procesales cometidas durante el juicio, siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo, o por violaciones cometidas en las propias resoluciones o sentencias; cuando la cuantía del asunto exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente en el momento de su emisión.
-
-En el caso de contribuciones que deban determinarse o cubrirse por períodos inferiores a doce meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de la contribución entre el número de meses comprendidos en el período que corresponda y multiplicar el cociente por doce.
-
-Cuando la cuantía sea inferior a la que corresponda conforme al primer párrafo o sea indeterminada, el recurso procederá cuando el negocio sea de importancia y trascendencia, debiendo el recurrente razonar esa circunstancia para efectos de la admisión del recurso. En materia de aportaciones de seguridad social, se presume que tienen importancia y trascendencia los asuntos que versen sobre la determinación de sujetos obligados, de conceptos que integran la base de cotización y del grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo.
-
-La Secretaría de Hacienda y Crédito Público podrá interponer el recurso, cuando la resolución o sentencia afecte el interés fiscal de la Federación y, a su juicio, el asunto tenga importancia, independientemente de su monto, por tratarse de la interpretación de leyes o reglamentos, de las formalidades esenciales del procedimiento, o por fijar el alcance de los elementos constitutivos de una contribución.
-
-El recurso de revisión también será procedente contra las resoluciones o sentencias que dicte la Sala Superior del Tribunal, en los casos a que se refiere el Artículo 239 BIS.
-
-En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas coordinadas en ingresos federales, el recurso sólo podrá ser interpuesto por la Secretaría de Hacienda y Crédito Público.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 249.
-
-Si el particular interpuso amparo directo contra la misma resolución o sentencia impugnada mediante el recurso de revisión, el Tribunal Colegiado de Circuito que conozca del amparo resolverá el citado recurso, lo cual tendrá lugar en la misma sesión en que decida el amparo.
-
-###### Artículo 250.
-
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y 1 DE FEBRERO DE 1988)
-
-###### Artículo 251.
-
-Toda resolución debe notificarse, a más tardar, el tercer día siguiente a aquel en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
-
-Al actuario que sin causa justificada no cumpla con esta obligación se le impondrá una multa hasta de dos veces el equivalente al salario mínimo general de la zona económica correspondiente al Distrito Federal elevado al mes, sin que exceda del 30% de su salario y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
-
-###### Artículo 252.
-
-En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
-
-###### Artículo 253.
-
-Las notificaciones que deban hacerse a los particulares, se harán en los locales de las salas si las personas a quienes deba notificarse se presentan dentro de las veinticuatro horas siguientes a aquella en que se haya dictado la resolución. Cuando el particular no se presente se harán por lista autorizada que se fijará en sitio visible de los locales de los tribunales.
-
-Cuando el particular no se presente se harán personalmente o por correo certificado con acuse de recibo, siempre que se conozca su domicilio o que éste o el de su representante se encuentre en territorio nacional, tratándose de los siguientes casos:
-
-I. La que corra traslado de la demanda, de la contestación y, en su caso, de la ampliación.
-
-II. La que mande citar a los testigos o a un tercero.
-
-III. El requerimiento a la parte que debe cumplirlo.
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
-
-V. La resolución de sobreseimiento.
-
-VI. La sentencia definitiva.
-
-VII. En todos aquellos casos en que el magistrado instructor así lo ordene.
-
-La lista a que se refiere este artículo contendrá nombre de la persona, expediente y tipo de acuerdo. En los autos se hará constar la fecha de la lista.
-
-###### Artículo 254.
-
-Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
-
-(DEROGADO SEGUNDO PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 255.
-
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
-
-### CAPITULO VIII. Del Cierre de la Instrucción
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-#### Sección Primera. Disposiciones generales
-
-###### Artículo 256.
-
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1982)
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-###### Artículo 257.
-
-Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
-
-###### Artículo 258.
-
-El cómputo de los plazos se sujetará a las reglas siguientes:
-
-I. Empezarán a correr a partir del día siguiente a aquel en que surta efectos la notificación.
-
-II. Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas de las salas del Tribunal Fiscal durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-III. Si están señalados en períodos o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día del plazo o la fecha determinada es inhábil, el término se prorrogará hasta el siguiente día hábil.
-
-IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá en el primer caso que el plazo vence el mismo día del mes de calendario posterior a aquel en que se inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. Cuando no exista el mismo día en los plazos que se fijen por mes, éste se prorrogará hasta el primer día hábil del siguiente mes de calendario.
-
-###### Artículo 259.
-
-Las tesis contenidas en las sentencias que dicten las Salas Regionales del Tribunal Fiscal de la Federación constituirán precedente para la Sala que las haya sustentado, así como para las otras que conozcan de casos iguales, cuando hayan sido publicadas en la Revista del Tribunal.
-
-Las tesis que sustente la Sala Superior al resolver los juicios con características especiales, a que se refiere el artículo 239 BIS, constituirán precedente para el Tribunal, a partir de su publicación en la citada Revista.
-
-La Sala de que se trate aprobará la tesis que constituye precedente, la síntesis y el rubro, así como la numeración que le corresponda en el orden de los que haya dictado, hecho lo cual la Sala Superior ordenará su publicación en la Revista del Tribunal.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 260.
-
-Cuando las Salas Regionales sustenten un criterio distinto al de un precedente, expresarán en la sentencia las razones por las que dejan de aplicarlo y enviarán a la Sala Superior copia de la misma para que resuelva el que deba prevalecer.
-
-En caso de contradicción de sentencias, cualquiera de los magistrados del Tribunal, la Secretaría de Hacienda y Crédito Público o las partes en los juicios en que tales tesis se sustentaron, podrán denunciarla ante la Sala Superior para que ésta decida cual tesis debe prevalecer.
-
-La resolución que pronuncie la Sala Superior en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-###### Artículo 261.
-
-Al recibir la sentencia que deje de aplicar algún precedente o la denuncia de contradicción, la Sala Superior establecerá la tesis que deba prevalecer, misma que constituirá jurisprudencia obligatoria para el Tribunal, siempre que se apegue a la jurisprudencia que, en su caso, hayan formado los tribunales del Poder Judicial de la Federación.
-
-También constituirá jurisprudencia la tesis sostenida por la Sala Superior al resolver los juicios con características especiales, previstos en el artículo 239 BIS, siempre que se sustente en tres resoluciones no interrumpidas por otra en contrario y cumpla con el requisito señalado por el párrafo anterior.
-
-La Sala Superior deberá aprobar la tesis jurisprudencial, la síntesis y el rubro que corresponda, y ordenará su publicación en la Revista del Tribunal. Una vez formada la jurisprudencia respectiva señalará también la numeración progresiva que le corresponda.
-
-Los Magistrados de la Sala Superior podrán proponer a ésta que modifique su jurisprudencia, cuando haya razones fundadas que lo justifiquen. Las Salas Regionales también podrán proponer la modificación, expresando a la Sala Superior los razonamientos que sustenten la propuesta.
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-Cuando una Sala Regional dicte una resolución o sentencia contraviniendo la jurisprudencia del Tribunal, la Sala Superior solicitará a los Magistrados que hayan votado a favor de dicha resolución o sentencia que le rindan un informe y, una vez confirmado el incumplimiento, los apercibirá y, en caso de reincidencia, les aplicará la sanción administrativa que corresponda, en los términos de la Ley de la materia.
-
-## TRANSITORIOS
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Primero.- Este Código entrará en vigor en toda la República el día 1o. de enero de 1983, excepción hecha del Título VI, del Procedimiento Contencioso Administrativo, que iniciará su vigencia el 1o. de abril de 1983.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Segundo.- A partir de la entrada en vigor de este Código, se deroga el Código Fiscal de la Federación de fecha 30 de diciembre de 1966.
-
-El Reglamento del Registro Federal de Contribuyentes de fecha 13 de junio de 1980, el Reglamento del Artículo 85 del Código Fiscal de la Federación de fecha 9 de abril de 1980, el Reglamento para el Cobro y Aplicación de los Gastos de Ejecución y Pago de Honorarios por Notificación de Créditos de fecha 29 de diciembre de 1973, continuarán aplicándose en lo que no se oponga al presente Código hasta en tanto se expida su Reglamento.
-
-Artículo Tercero.- Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en este Código.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Cuarto.- Cuando con anterioridad a la fecha de entrada en vigor de este Código se hubieran causado recargos sobre contribuciones federales no pagadas, que hubieran alcanzado el 100% del importe de dichas contribuciones a partir del primero de enero de 1983, se reanudará la causación de recargos sobre las mismas, conforme a este Código, aún cuando exceda del porciento mencionado.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Quinto.- Si con anterioridad al primero de septiembre de 1982, se hubieran solicitado devoluciones, cumpliéndose los requisitos que para estos efectos establecen las disposiciones fiscales y no se hubiera obtenido al primero de enero de 1983, a partir de esta fecha dichas cantidades empezarán a causar intereses conforme al artículo 22 del presente Código.
-
-Cuando la solicitud de devolución se hubiera presentado dentro de los 4 meses anteriores a la entrada en vigor de este Código, las cantidades a devolver empezarán a causar intereses, en su caso, a partir de la fecha en que se cumplan los 4 meses contados a partir de la fecha de presentación de la solicitud debidamente requisitada.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Artículo Sexto.- Los delitos y las infracciones cometidos durante la vigencia del Código que se abroga, se sancionarán en los términos preceptuados, por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Séptimo.- La interposición de los recursos administrativos o del juicio contencioso administrativo a que se refiere este Código, en contra de los actos que hubieran sido notificados con anterioridad al 1o. de enero o 1o. de abril de 1983, según el caso, podrán hacerse valer durante el plazo de cuarenta y cinco días contados a partir de la fecha en que surtió efectos la notificación, cuando no hubiese vencido el plazo para su interposición.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Octavo.- Los recursos administrativos que se hubieran interpuesto hasta el 31 de diciembre de 1982, se tramitarán y resolverán de conformidad con lo dispuesto por el presente Código.
-
-Artículo Noveno.- En los casos en que se haya interpuesto algún medio de defensa previsto en este Código y no se hubiera garantizado el interés fiscal o habiéndose efectuado deba ampliarse la garantía, ésta deberá otorgarse o ampliarse en un plazo de quince días contados a partir de la fecha de entrada en vigor de este Código, excepto cuando se trate de instituciones nacionales de crédito.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Décimo.- Los juicios contenciosos administrativos que se hubieran interpuesto antes de la entrada en vigor de este Código, se tramitarán y resolverán de conformidad con sus disposiciones.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Artículo Décimo Primero.- Para los efectos de la aplicación de este Código, respecto de los convenios de colaboración administrativa celebrados por la Secretaría de Hacienda y Crédito Público con los Estados y el Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para su coordinación en impuestos federales vigentes; así como del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y demás ordenamientos a los que les sea aplicables, ya sea cuando sus cláusulas o disposiciones hagan referencia a materias reguladas en él, o bien, cuando las mismas deban aplicarse o interpretarse en función, de las disposiciones del propio Código, deberán seguirse aplicando o interpretando en la misma forma y términos como se venía haciendo en relación con el Código Fiscal de la Federación vigente hasta el 31 de diciembre de 1982, aún cuando en este Código se utilice terminología diferente para regular las mismas materias, salvo que alguna disposición establezca lo contrario o regule de manera diferente alguna materia.
-
-México, D. F., a 30 de diciembre de 1981.- Blas Chumacero Sánchez, S.P.- Marco Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martinez, D.S.- Rúbricas".
-
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-D.O.F. 30 DE SEPTIEMBRE DE 1982.
+La muerte de uno de los cónyuges, acaecida durante el procedimiento de divorcio, pone fin al mismo, y los herederos tienen los mismos derechos y obligaciones que tendrían si no se hubiere promovido ese divorcio.
 
 ###### ARTICULO 262.
 
@@ -3859,9 +2061,7 @@ Anotación en el acta
 
 Ejecutoriada una sentencia de divorcio, el Juez de primera instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró y éste, al margen del acta de matrimonio, pondrá nota expresando la fecha en que se declaró el divorcio y el Tribunal que lo declaró, y hará publicar un extracto de la resolución, durante quince días, en las tablas destinadas a ese efecto.
 
-#### Sección Segunda. Del embargo
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+#### SECCION SEGUNDA. DEL DIVORCIO VOLUNTARIO
 
 ###### ARTICULO 267.
 
@@ -3907,9 +2107,7 @@ Reconciliación
 
 Los cónyuges que judicialmente hayan solicitado su divorcio voluntario, podrán reconciliarse en cualquier tiempo, siempre y cuando el divorcio no hubiere sido decretado; pero efectuada tal reconciliación, no podrán volver a solicitar su divorcio por mutuo consentimiento, sino pasado un año desde que tuvo verificativo aquélla.
 
-#### Sección Tercera. De la intervención
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+#### SECCION TERCERA. DEL DIVORCIO NECESARIO
 
 ###### ARTICULO 272.
 
@@ -4113,9 +2311,7 @@ En el caso de las causales enumeradas en las fracciones VI y VII del artículo 2
 
 ## TITULO SEPTIMO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
-### CAPITULO IX. De la Sentencia
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+### CAPITULO I. DEL PARENTESCO
 
 ###### ARTICULO 287.
 
@@ -4177,7 +2373,7 @@ Cómo se cuenta la línea transversal
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra, o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-### CAPITULO X. De los Recursos
+### CAPITULO II. DE LOS ALIMENTOS
 
 ###### ARTICULO 297.
 
@@ -4351,7 +2547,7 @@ Si uno de los consortes no estuviere presente o estándolo no cumpliere con la o
 
 ## TITULO OCTAVO. DE LA FILIACION
 
-### CAPITULO XI. De las Notificaciones y del Cómputo de los Términos
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 320.
 
@@ -4379,9 +2575,7 @@ Obligación del Estado de instruir sobre la filiación
 
 El Estado, a través de la autoridad y organismos que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación a quienes cuentan con la edad suficiente para contraer matrimonio.
 
-### CAPITULO XII. De la Jurisprudencia
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+### CAPITULO II. DE LAS PRESUNCIONES DE PATERNIDAD
 
 ###### ARTICULO 324.
 
@@ -4841,7 +3035,7 @@ Si el que está en posesión de los derechos de ascendiente o de descendiente en
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
 
-#### Sección Cuarta. Del remate
+#### SECCION PRIMERA. DE LA ADOPCION SIMPLE
 
 ###### ARTICULO 381.
 
@@ -4969,9 +3163,7 @@ Anotación en el acta
 
 El Juez que decrete la adopción o la revocación de ésta o que apruebe la impugnación, remitirá copia de la resolución respectiva al Oficial del Registro Civil correspondiente para que anote el acta de adopción y las demás que correspondan en los términos que previene este Código.
 
-#### Sección Primera. De la reclamación
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+#### SECCION SEGUNDA. DE LA ADOPCION PLENA
 
 ###### ARTICULO 398.
 
@@ -5121,7 +3313,7 @@ Los menores de edad no pueden alegar la nulidad de que hablan los artículos 409
 
 ###### ARTICULO 416.
 
-Cuando se hacen pasar por mayores
+Cuándo se hacen pasar por mayores
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7587,11 +5779,15 @@ Representación
 
 Los beneficiarios de los bienes afectos al patrimonio de familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por quien lo constituyó y, en su defecto, por quien nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 729.
 
 Inalienabilidad
 
-Los bienes afectos al patrimonio de familia son inalienables y no están sujetos a embargo ni gravamen alguno, con excepción de las responsabilidades fiscales que sobre ellos pesen y de las modalidades a que pudieren llegar a estar sujetos con relación al interés público.
+Los bienes afectos al patrimonio de la familia son inalienables y no están sujetos a embargo ni gravamen alguno, con excepción de las modalidades que pudiera exigir el interés público.
 
 ###### ARTICULO 730.
 
@@ -7607,17 +5803,25 @@ Uno por familia
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 732.
 
 Valor máximo
 
-El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a cuatro mil días del salario mínimo general vigente en el Estado.
+El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a diez mil días del salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 733.
 
 Requisitos para su constitución
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de primera instancia de su domicilio, designando con toda precisión y de manera que puedan ser inscritos gratuitamente en el Registro Público de la Propiedad los bienes que van a quedar afectos al expresado patrimonio. Además, comprobará lo siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+El que quiera constituir el patrimonio, lo manifestará por escrito al Juez de Primera Instancia de su domicilio, designando con toda precisión y de manera que puedan ser inscritos gratuitamente en el Registro Público de la Propiedad los bienes que van a quedar afectos al expresado patrimonio. Además, comprobará lo siguiente:
 
 I.- Que es mayor de edad o que está emancipado;
 
@@ -7627,7 +5831,11 @@ III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio
 
 La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
 
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio de familia; y que no reportan gravámenes fuera de la servidumbre. Si reportan gravámenes, podrá constituirse con ellos el patrimonio, aunque el acreedor no dé su consentimiento para ello; pero, en todo caso, el inmueble responderá del pago del débito, en los términos que se hubiere convenido. Para fijar el máximo avalúo del patrimonio, no se tomará en cuenta el valor del adeudo; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+IV.- Que son propiedad del constituyente los bienes destinados al patrimonio de familia; y que no reportan otros gravámenes diferentes a las servidumbres de paso o adeudos de contribuciones prediales;
 
 V.- Que el monto de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 732. Este valor se probará mediante avalúo expedido por institución de crédito. Si el interesado lo pidiere, la solicitud a que se refiere este artículo será redactada por el Juez, haciéndolo constar en acta.
 
@@ -7773,13 +5981,15 @@ Cuándo puede disminuirse
 
 Puede disminuirse el patrimonio de la familia cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 749.
 
-Disminución por incremento de valor
+Conservación del bien
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-También puede disminuirse el patrimonio de familia cuando éste, por causas posteriores a su constitución, ha rebasado más de un cien por ciento el valor máximo que pueda tener, conforme al artículo 732.
+Cuando por causas posteriores a la declaración de haberse constituido patrimonio de familia que no modifiquen las características del bien inmueble, se rebase en más de un ciento por ciento el valor máximo señalado en el Artículo 732, esto no alterará la inalienabilidad e inembargabilidad del bien.
 
 ###### ARTICULO 750.
 
@@ -7963,9 +6173,7 @@ Las asociaciones de beneficencia se regirán por las leyes correspondientes.
 
 ### CAPITULO IV. DE LAS FUNDACIONES
 
-#### Sección Segunda. De la revisión
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTICULO 771.
 
@@ -24637,7 +22845,7 @@ Concepto de aparcería agrícola
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan o a falta de convenio, conforme a las costumbres del lugar; en el entendido de que el aparcero nunca podrá corresponderle sólo por su trabajo menos del 50 por ciento de la cosecha.
+Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan o a falta de convenio, conforme a las costumbres del lugar; en el entendido de que al aparcero nunca podrá corresponderle sólo por su trabajo menos del 50 por ciento de la cosecha.
 
 ###### ARTICULO 2982.
 
@@ -26603,7 +24811,17 @@ Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede 
 
 La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos deberá únicamente notificarlo al deudor.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2003)</small>
+
+Las Instituciones de Crédito, indistintamente de Banca Múltiple o de Banca de Desarrollo, las demás entidades financieras, así como los fideicomisos públicos, que conforman el Sistema Bancario Mexicano; los institutos de vivienda y en su caso, las entidades de la administración pública federal, estatal o municipal, creados con esa finalidad en los términos de las leyes orgánicas ó conforme el acto legislativo por el que se constituyan; podrán ceder los créditos que tengan garantizados con hipoteca, sin necesidad de escritura pública, notificación al deudor, ni de registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor, señalando quién será el nuevo acreedor y, en su caso, el domicilio para recibir el pago dentro del lugar donde se estuviere realizando antes de la cesión.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2003)</small>
+
+Derivado de la cesión, el deudor tendrá los mismos derechos y obligaciones contemplados en el contrato original; por lo que no podrán variarse las condiciones para el cumplimiento de las obligaciones del deudor, sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2003)</small>
+
+En los supuestos previstos en los párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor del o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de esta.
 
 ###### ARTICULO 3224.
 
@@ -27093,6 +25311,20 @@ PRIMERO.- El presente decreto entrará en vigor a los cuarenta y cinco días sig
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
 
+P.O. 8 DE OCTUBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor 30 días después del día en que haya sido publicado en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la vigencia del Decreto que se aprueba se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a sus disposiciones.
+
+TERCERO.- Las solicitudes de Declaración de Patrimonio de Familia que se hayan promovido antes de la vigencia del presente Decreto se resolverán conforme a las disposiciones aplicables en ese momento.
+
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
@@ -27153,18 +25385,6 @@ I. Para los efectos del primer párrafo de la fracción I del artículo 41 del C
 
 II. Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 1.25 que se aplicará a partir del 1o. de julio de 1985.
 
-## TRANSITORIO
-
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1985...
-
-D.O.F. 31 DE DICIEMBRE DE 1985.
-
-Disposición Transitoria
-
 ###### ARTICULO SEGUNDO.
 
 Para la aplicación de los artículos del Código Fiscal de la Federación que se reforman conforme a lo establecido por el artículo anterior, se estará a las siguientes disposiciones transitorias:
@@ -27173,10 +25393,6 @@ I.- Cuando con anterioridad al 1o. de mayo de 1986, se hubieran causado recargos
 
 II.- Tratándose de solicitudes de devolución que se hubieran presentado antes del 1o. de junio de 1986, la devolución se podrá hacer en el plazo de cuatro meses sin causar intereses.
 
-## TRANSITORIOS
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
-
 ###### ARTICULO TERCERO.
 
 Durante el año de 1986 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
@@ -27184,16 +25400,6 @@ Durante el año de 1986 se aplicarán respecto del Código Fiscal de la Federaci
 I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, determinen las autoridades fiscales como pago provisional a cargo de los obligados durante el año de 1986 se incrementará con la que resulte de aplicar a la misma el factor 1.6.
 
 II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 2.45 que se aplicará a partir del 1o. de marzo de 1986, sobre las cantidades en vigor desde el 1o. de julio de 1985.
-
-## TRANSITORIO
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1986.
-
-D.O.F. 30 DE ABRIL DE 1986.
-
-Disposiciones Transitorias
 
 ###### ARTICULO SEGUNDO.
 
@@ -27240,101 +25446,3 @@ a).- En un 40% del monto de las contribuciones omitidas que hayan sido objeto de
 b).- 10% para la prevista en el inciso b) de la citada fracción II.
 
 E.- En los casos señalados en el artículo 78 la multa será el 6% de las contribuciones omitidas.
-
-## TRANSITORIO
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1987.
-
-D.O.F. 2 DE MARZO DE 1987.
-
-LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
-
-D.O.F. 31 DE DICIEMBRE DE 1987.
-
-Disposiciones de vigencia anual
-
-###### ARTICULO SEGUNDO.
-
-Durante el año de 1988 la cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, puedan hacer efectiva las autoridades fiscales como pago provisional a cargo de los obligados, se incrementará a la que resulte de aplicarle el factor de 2.2.
-
-###### ARTICULO TERCERO.
-
-Durante el año de 1988, para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 2.6 que se aplicará a partir del 1o. de marzo de 1988, sobre las cantidades en vigor.
-
-## TRANSITORIO
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1988.
-
-D.O.F. 5 DE ENERO DE 1988.
-
-REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
-
-Disposiciones Transitorias
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-Para efectos de lo establecido por el Artículo Primero de este Decreto, se estará a las siguientes disposiciones transitorias:
-
-PRIMERA.- Los recargos previstos en el párrafo tercero adicionado al artículo 21 del Código Fiscal de la Federación, en los casos de garantías de obligaciones fiscales a cargo de terceros, se causarán respecto de aquellas que se otorguen a partir de la vigencia de este Decreto.
-
-SEGUNDA.- Los procedimientos, trámites y recursos administrativos, así como los incidentes, recursos de reclamación y trámites en el juicio contencioso administrativo, que se hubieren iniciado antes de la vigencia de este Decreto, continuarán su sustanciación y se resolverán conforme a las disposiciones legales vigentes a la fecha en que se iniciaron.
-
-Cuando antes de la vigencia de este Decreto haya comenzado a correr el plazo para la interposición de algún medio de defensa, éste se interpondrá, sustanciará y resolverá conforme a las disposiciones vigentes en la fecha en que dichos plazos se iniciaron.
-
-TERCERA.- En los juicios en trámite a la fecha de la vigencia de este Decreto, podrá interponer el recurso de revisión la unidad administrativa encargada de la defensa jurídica de la autoridad, que tenga reconocida la representación en el juicio correspondiente o que haya venido actuando en el mismo con dicha representación.
-
-CUARTA.- La Sala Superior del Tribunal Fiscal de la Federación continuará el trámite y resolverá los recursos de revisión que las autoridades hubieren interpuesto con anterioridad a la vigencia de este Decreto.
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-Contra las resoluciones definitivas que dicte la Sala Superior en los recursos de revisión a que se refiere el párrafo anterior, procederá el recurso de revisión fiscal conforme a lo ordenado por el Código Fiscal de la Federación en las disposiciones que por virtud de este Decreto se reforman, el que será resuelto por los Tribunales Colegiados de Circuito conforme al procedimiento previsto para la revisión en amparo indirecto.
-
-QUINTA.- La Sala Superior del Tribunal Fiscal de la Federación continuará el trámite hasta la resolución definitiva de los recursos de queja interpuestos con anterioridad a la vigencia de este Decreto, concretándose, al resolver, a decidir si son o no fundados los agravios, pero sin que la resolución forme jurisprudencia.
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-SEXTA.- Los juicios en que, a la fecha de iniciación de vigencia de este Decreto, no hubiere concluido el término para la interposición del recurso de revisión o el de revisión fiscal, previstos por las disposiciones que se reforman, y éstos no se presentaron, las autoridades interpondrán el recurso de revisión establecido por el artículo 248 del Código Fiscal de la Federación, reformado por este Decreto, ante el Tribunal Colegiado de Circuito que corresponda, antes del vencimiento.
-
-SEPTIMA.- La representación de las autoridades en todas las instancias del juicio se tendrá por acreditada, si habiéndose iniciado éste antes de la vigencia de este Decreto, al presentarse la contestación de la demanda, se satisfacen los requisitos que con anterioridad fueron exigidos para acreditarla. En estos casos, si de conformidad con las disposiciones legales, surgiere otro representante con posterioridad, la sustitución se acreditará en el juicio por la autoridad.
-
-OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Fiscal de la Federación antes de la fecha en que rija este Decreto, conservará su vigencia, pero podrá ser modificada en los casos y términos que señalan las leyes.
-
-## TRANSITORIO
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrarán en vigor el 30 de junio de 1988.
-
-D.O.F. 31 DE DICIEMBRE DE 1988.
-
-Disposiciones Transitorias
-
-###### ARTICULO SEGUNDO.
-
-Para los efectos de los preceptos que se adicionan al Código Fiscal de la Federación, conforme a lo dispuesto por el Artículo anterior, se estará a las siguientes disposiciones transitorias:
-
-I.- La serie del Indice Nacional de Precios al Consumidor que el Banco de México ha venido calculando desde 1978, continuará elaborándose con los criterios utilizados, congruentes con los previstos en el artículo 20-BIS del Código Fiscal de la Federación.
-
-II.- Quedan sin efecto las resoluciones administrativas a que se refiere el artículo 36-BIS del Código Fiscal de la Federación, dictadas con anterioridad a la vigencia de esta Ley, sin perjuicio de que los interesados sometan las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
-
-Disposiciones de Vigencia Anual
-
-###### ARTICULO TERCERO.
-
-Durante el año de 1989 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
-
-I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación puedan hacer efectiva las autoridades fiscales como pago provisional a cargo de los obligados, se incrementará a la que resulte de aplicarle el factor de 1.3.
-
-II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, durante el año de 1989, se establece el factor de 1.3 que se aplicará a partir del 1o. de marzo del mismo año sobre las cantidades en vigor.
-
-## TRANSITORIO
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1989.
