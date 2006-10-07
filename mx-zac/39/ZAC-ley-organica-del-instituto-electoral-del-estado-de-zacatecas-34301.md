@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-34
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-04"
-last_updated: "2003-10-04"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -251,7 +251,9 @@ ARTÍCULO 13
 
 1. El Consejero Presidente percibirá una retribución diaria de cincuenta cuotas de salario mínimo.
 
-2. Los Consejeros Electorales del Consejo General percibirán la dieta mensual que se les asigne en el presupuesto de egresos del Instituto, acordado anualmente por el Consejo General. La dieta no excederá del sesenta por ciento de la percepción del Consejero Presidente.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+2. Los Consejeros Electorales del Consejo General percibirán retribución mensual, equivalente al sesenta por ciento de la percepción total del Consejero Presidente, y se les garantizarán las prestaciones de ley correspondientes.
 
 3. Los consejeros distritales y municipales percibirán la remuneración que les asigne el Consejo General.
 
@@ -501,7 +503,9 @@ XL. Emitir, a más tardar el 30 de enero del año en que se celebren las eleccio
 
 XLI. Establecer las bases y emitir los lineamientos a que se sujetarán los debates públicos que deban efectuar los candidatos a puestos de elección popular;
 
-XLII. Emitir los acuerdos pertinentes, a fin de que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a los medios de comunicación constituya una garantía en sus programas correspondientes.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+XLII. Emitir los acuerdos y reglamentos que procedan, a fin de que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a los medios de comunicación constituya una garantía en sus programas correspondientes. Asimismo contratará directamente los tiempos y espacios que los partidos políticos o coaliciones le indiquen, incluyendo encuestas y estudios de opinión. Dicha contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
 
 XLIII. Expedir las convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse, así como cualquier otra que deba expedirse para la realización de sus fines;
 
@@ -1479,7 +1483,9 @@ IV. Los funcionarios electorales, de conformidad con esta ley y el Estatuto;
 
 V. Los notarios públicos en el Estado, por incumplimiento a las obligaciones que les impone la Ley Electoral;
 
-VI. Quienes violen las disposiciones de la Ley Electoral en materia de financiamiento;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+VI. Quienes siendo autoridades, representantes de instituciones o particulares, personas físicas o morales, violen las disposiciones de la Ley Electoral en materia de financiamiento o contratación de propaganda y su contenido;
 
 VII. Los dirigentes, candidatos, miembros o simpatizantes de los partidos políticos;
 
@@ -1581,6 +1587,26 @@ VI. Resolución negativa a las solicitudes de registro de candidaturas.
 
 6. Previo a la cancelación del registro de un partido político estatal deberá seguirse el procedimiento previsto en la Ley Electoral.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+Faltas en que incurren los particulares, personas físicas o morales
+
+## TÍTULO DÉCIMO. De las Infracciones y de las Sanciones Administrativas
+
+###### ARTÍCULO 72
+
+ARTÍCULO 72-A
+
+1.- Los particulares, personas físicas o morales, incurren en infracción, por actos u omisiones, a que estén obligados por mandato de leyes y reglamentos electorales.
+
+2. Sin perjuicio de observar la disposición de carácter general prevista en el párrafo anterior, los particulares, personas físicas o morales incurren en infracción que conocerá el Consejo General, en los supuestos siguientes:
+
+I. Dejar de cumplir las resoluciones o acuerdos de los órganos del Instituto o del Tribunal Estatal Electoral;
+
+II. Celebrar contratos de propaganda a través de los medios de comunicación social, en contravención a lo dispuesto por la legislación electoral, o
+
+III.- Cuando las personas físicas o morales difundan propaganda a través de los medios de comunicación social, cuyo contenido implique ofensa, difamación, calumnia, o que denigre a candidatos, partidos políticos o instituciones.
+
 Sanciones a Jueces y Agentes del M. P.
 
 ARTÍCULO 73
@@ -1627,8 +1653,6 @@ b) Realicen aportaciones económicas a un partido político, coalición o candid
 
 II. Tratándose de extranjeros que por cualquier forma, pretendan inmiscuirse o se inmiscuyan, en asuntos políticos.
 
-## TÍTULO DÉCIMO. De las Infracciones y de las Sanciones Administrativas
-
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Decreto se enviará para su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, e iniciará su vigencia al día siguiente de su publicación, conjuntamente con el Decreto de Reformas y Adiciones a diversos artículos de la Constitución Política del Estado Libre y Soberano de Zacatecas, aprobadas en el periodo extraordinario de sesiones celebrado por la actual Legislatura, los días del 22 al 26 de agosto de 2003.
@@ -1660,3 +1684,9 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
