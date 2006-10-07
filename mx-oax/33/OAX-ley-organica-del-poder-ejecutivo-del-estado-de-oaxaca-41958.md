@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2005-01-12"
+last_updated: "2006-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -441,7 +441,7 @@ XIX.- Reglamentar el desarrollo de sistemas de información, así como la adquis
 
 XX.- Elaborar, controlar y mantener actualizado, en coordinación con la Secretaría Contraloría, el inventario de bienes muebles e inmuebles propiedad del Ejecutivo local;
 
-XXI.- Establecer, coordinadamente con las dependencias y entidades, Programas de Modernización y Calidad Administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo.
+XXI.- Establecer, coordinadamente con las dependencias y entidades, Programas de Modernización y Calidad Administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
@@ -581,9 +581,9 @@ XXII.- Otorgar reconocimientos y estímulos al mérito de los creadores artísti
 
 XXIII.- Desarrollar la formación y capacitación de investigadores y promotores culturales; y (sic)
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
 
-XXIV.- Coordinar, organizar y supervisar el funcionamiento de: las Casas de Cultura, la Biblioteca Pública Central y la Red Estatal de Bibliotecas, las Casas del Pueblo, el Centro de Iniciación Musical de Oaxaca, las diversas instituciones musicales del Gobierno del Estado, la Compañía Estatal de Danza Contemporánea, la Compañía Estatal de Danza Costumbrista, el Taller de Artes Pláticas "Rufino Tamayo", el Teatro "Macedonio Alcalá", el Teatro del Centro Cultural, la Hemeroteca Pública, el Archivo Histórico de la Entidad, la Academia de la Cultura Oaxaqueña, la Academia Oaxaqueña de la Lengua Mixteca, la Academia Oaxaqueña de la Lengua Zapoteca, el Museo Frisell, el Teatro Juárez, la Sala José Vasconcelos y los demás espacios e instituciones artísticas y culturales del Gobierno del Estado; y
+XXIV.- Coordinar, organizar y supervisar el funcionamiento de: las Casas de Cultura, la Biblioteca Pública Central y la Red Estatal de Bibliotecas, las Casas del Pueblo, el Centro de Iniciación Musical de Oaxaca, las diversas Instituciones musicales del Gobierno del Estado, la Compañía Estatal de Danza Contemporánea, la Compañía Estatal de Danza Costumbrista, el Taller de Artes Plásticas "Rufino Tamayo", la Hemeroteca Pública, el Archivo Histórico de la Entidad, la Academia de la Cultura Oaxaqueña, la Academia Oaxaqueña de la Lengua Mixteca, la Academia Oaxaqueña de la Lengua Zapoteca, el Museo Frisell, la Sala José Vasconcelos, y los demás espacios e instituciones artísticas y culturales del Gobierno del Estado, que le sean sectorizadas. Así mismo, determinará las políticas culturales de las Entidades Auxiliares de Colaboración de la Administración Pública Estatal en materia de cultura; e intervendrá en la planeación y presupuestación de las actividades culturales y artísticas del Teatro "Macedonio Alcalá", el Teatro del Centro Cultural, el Teatro Juárez y todos los museos, unidades de servicios culturales y turísticos del Estado, y en las unidades auxiliares de colaboración de la Administración Pública Estatal, relacionadas con la cultura;
 
 > <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
 
@@ -655,9 +655,13 @@ XIII.- Fomentar y promover las inversiones para la construcción de infraestruct
 
 XIV.- Integrar y mantener actualizados, el inventario de recursos turísticos y el Padrón Estatal de Prestadores de Servicios Turísticos;
 
-XV.- Vigilar que los programas que se realicen en materia de desarrollo turístico, contengan criterios ecológicos para conservar y restaurar el medio ambiente; y
+XV.- Vigilar que los programas que se realicen en materia de desarrollo turístico, contengan criterios ecológicos para conservar y restaurar el medio ambiente; y (sic)
 
-XVI.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2006)</small>
+
+XVI.- Coordinar y Organizar la actividad administrativa, turística y de difusión de los organismos, unidades y entidades que ofrezcan servicios culturales y turísticos; en asociación con el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, someter a consideración del Titular del Ejecutivo, la creación de las unidades y los organismos auxiliares que ofrezcan servicios culturales y turísticos; y
+
+XVII.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 30.
 
@@ -873,7 +877,9 @@ VI.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 El Gobernador del Estado determinará el ámbito territorial y sede de las Delegaciones de Gobierno.
 
-### Capítulo V. De la Coordinación General del Transporte
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+### Capítulo V. De las Coordinaciones General de Transporte y General de Asuntos Jurídicos
 
 ###### Artículo 38.
 
@@ -904,6 +910,26 @@ XI.- Coadyuvar operativamente con la Dirección de Tránsito del Estado, para el
 XII.- Integrar, con la participación de los sectores publico, social y privado, órganos colegiados de apoyo y asesoría técnica en materia de transporte, coordinando su funcionamiento; y
 
 XIII.- Las demás que le confieran las leyes, decretos y reglamentos.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+
+Artículo 38 bis.- A la Coordinación General de Asuntos Jurídicos corresponde el despacho de los siguientes asuntos:
+
+I.- Revisar los instrumentos legales y documentos en general que tenga que suscribir el Gobernador del Estado;
+
+II.- Coordinar las acciones que impliquen ejercicio legal, en las que intervengan el Gobernador del Estado;
+
+III.- Representar legalmente al Gobernador del Estado como tal y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte. Esta representación tendrá los efectos de mandato judicial;
+
+IV.- Participar en los asuntos jurídicos en que intervenga el Gobernador del Estado;
+
+V.- Cooperar con las dependencias y entidades de la Administración Pública Paraestatal, en la elaboración de documentos legales y sugerir las estrategias legales en las que intervenga;
+
+VI.- Representar al Ejecutivo del Estado y promover en las Controversias Constitucionales y Acciones de Inconstitucionalidad en las que éste o la Gubernatura sean parte, en términos de la Ley Reglamentaria de las fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+
+VII.- Emitir opinión jurídica en los instrumentos legales que el sean turnados por las dependencias y entidades de la Administración Pública, y en los que el Gobernador del Estado intervenga; y
+
+VIII.- Las demás que le confieran las leyes, decretos y reglamentos.
 
 ### Capítulo VI. De la Coordinación para los Procesos de Planeación, Finanzas y Administración
 
@@ -1104,3 +1130,9 @@ AL C.
 P.O. 12 DE ENERO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha Ley.
