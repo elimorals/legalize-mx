@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2005-03-22"
+last_updated: "2006-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -81,11 +81,13 @@ Las entidades paraestatales, gozarán de autonomía de gestión para el cabal cu
 
 Sin menoscabo de lo dispuesto en el párrafo anterior, las entidades paraestatales se sujetarán al control y evaluación del Ejecutivo del Estado, en los términos previstos en la presente ley.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-Las entidades quedan sujetas al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley, por conducto de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría, en el respectivo ámbito de sus atribuciones y por las dependencias de la Administración Pública Centralizada, que al efecto determine como Coordinadoras de Sector.
+Las entidades quedan sujetas al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley y de las demás disposiciones aplicables, por conducto de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría, en el respectivo ámbito de sus atribuciones y por las dependencias de la Administración Pública Centralizada, que al efecto se determinen como Coordinadoras de Sector o aquellas a que les estén sectorizadas.
+
+Todos los bienes muebles o inmuebles que constituyan el patrimonio del Estado, incluyendo los de las entidades paraestatales, los organismos auxiliares, las unidades de servicios culturales y turísticos y los de las entidades paraestatales de los municipios son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos del año siguiente, se solicite de la Legislatura del Estado, la expedición de un decreto especial que autorice la erogación.
 
 ###### ARTICULO 6o.
 
@@ -585,7 +587,7 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a la presente Ley.
 
-TERCERO.- El Ejecutivo Estatal, contará con un plazo improrrogable de seis meses a partir de la entrada en vigor de esta Ley, para decretar o solicitar a la H. Legislatura Local, en su caso, la modificación o reforma del instrumento de creación, estatutos o escrituras constitutivas de las entidades paraestatales, para ajustarlos en lo que proceda a los términos de esta Ley. En tanto no se efectúen las modificaciones o reformas enunciadas, las entidades paraestatales seguirán funcionando de acuerdo con sus instrumentos de creación.
+TERCERO.- (DEROGADO, P.O. 7 DE OCTUBRE DE 2006)
 
 CUARTO.- En lo tocante a los Fideicomisos a que se refiere el artículo 33 de esta Ley, sus Comités Técnicos, se ajustarán a la integración y funcionamiento que en esta ley se señalen respecto a los Organos de Gobierno,
 
@@ -648,3 +650,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se 
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha ley.
