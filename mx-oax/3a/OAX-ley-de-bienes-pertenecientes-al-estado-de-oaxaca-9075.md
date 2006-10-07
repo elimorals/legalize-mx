@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-bienes-pertenecientes-al-estado-de-oaxaca-9075"
 country: "mx"
 rank: "ley"
 publication_date: "1951-12-15"
-last_updated: "2001-03-15"
+last_updated: "2006-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 1951.
 
@@ -75,9 +75,9 @@ Del Dominio Público y de las Concesiones.
 
 Artículo Quinto: Los bienes de dominio público o de uso común pertenecientes al Estado, son inalienables e imprescriptibles, y no están sujetos, mientras no varía su situación jurídica, a acción reivindicatoria o de posesión definitiva o interina. Pueden aprovecharse de ellos, todos los habitantes con las restricciones establecidas por la Ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
 
-Artículo Sexto: Todos los bienes muebles o inmuebles que constituyan el patrimonio del Estado, son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos del año siguiente, se solicite de la Legislatura del Estado la expedición de un decreto especial que autorice la erogación.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
-Los bienes del dominio público o de uso común y los destinados a un servicio público, no podrán ser objeto de hipoteca, ni reportar en provecho de particulares, sociedades o corporaciones, ningún derecho de uso, usufructo o habitación; tampoco podrá imponerse servidumbre pasiva alguna en los términos del derecho común. Los permisos o concesiones que otorgue la autoridad administrativa sobre esta clase de bienes, tendrán siempre el carácter de revocables.
+Artículo Sexto: Todos los bienes muebles o inmuebles, que constituyan el patrimonio del Estado, incluyendo los de las entidades paraestatales, los organismo auxiliares, las unidades de servicios culturales y turísticos y los de los municipios son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos del año siguiente, se solicite de la Legislatura del Estado la expedición de un decreto especial que autorice la erogación.
 
 Artículo Séptimo: El cambio de destino de los bienes inmuebles por parte del Gobierno del Estado de Oaxaca, podrá hacerse con autorización de la Legislatura mediante la expedición del Decreto respectivo.
 
@@ -278,3 +278,9 @@ Al C...
 P.O. 15 DE MARZO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación.
+
+P.O. 7 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha ley.
