@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-agencia-de-proteccion-al-medio-ambiente-y-38028"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-26"
-last_updated: "2004-02-26"
+last_updated: "2006-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 26 de febrero de 2004.
 
@@ -61,19 +61,27 @@ Consejo: El Consejo de Participación Ciudadana de la Agencia.
 
 Director General: El Director General de la Agencia.
 
-Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+Ley: La Ley Ambiente del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 4.
 
-La Agencia de Protección al Medio Ambiente y Recursos Naturales, a través de la Junta de Gobierno, el Director General y servidores públicos facultados por el organismo, es la autoridad competente para aplicar las normas y atribuciones que en materia de medio ambiente y recursos naturales le encomiendan la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León y su Reglamento; la Ley Estatal para la Protección de los Animales, y demás leyes y ordenamientos estatales y federales aplicables.
+La Agencia de Protección al Medio Ambiente y Recursos Naturales, a través de la Junta de Gobierno, el Director General y servidores públicos facultados por el organismo, es la autoridad competente para aplicar las normas y atribuciones que en materia de medio ambiente y recursos naturales le encomiendan la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley Ambiente del Estado de Nuevo León y su Reglamento; la Ley Estatal para la Protección de los Animales, y demás leyes y ordenamientos estatales y federales aplicables.
 
 ###### Artículo 5.
 
 El objeto de la Agencia será:
 
-I. Vigilar el cumplimiento de la normatividad aplicable mediante los planes, programas y proyectos en materia tanto de protección, fomento y conservación de los recursos naturales, como de inspección y vigilancia de los mismos, que al efecto sean concertados con la federación y los municipios, con el objetivo de salvaguardar el entorno y sus riquezas naturales;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-II. Promover la restauración ambiental, en especial las áreas verdes, bosques, parques estatales y zonas recreativas;
+I. Vigilar el cumplimiento de la normatividad aplicable mediante los planes, programas y proyectos en materia tanto de protección, fomento y conservación del medio ambiente y los recursos naturales, como de inspección y vigilancia de los mismos, que al efecto sean concertados con la federación y los municipios, con el objetivo de salvaguardar el entorno y sus riquezas naturales;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+II. Promover, en coordinación con las instancias que correspondan, la restauración ambiental, en especial, las áreas verdes, bosques, parques estatales y zonas recreativas;
 
 III. Fortalecer la cultura ecológica mediante programas de educación ambiental;
 
@@ -89,11 +97,15 @@ VIII. Impulsar el desarrollo y uso de tecnologías para aprovechar, bajo criteri
 
 IX. Promover la transparencia de la información ambiental con bases de datos que permitan un análisis objetivo de los problemas del medio; y
 
-X. Instrumentar políticas de preservación, conservación y aprovechamiento sustentable de la flora y la fauna silvestres, suelo, agua y otros recursos naturales, a través de la vinculación con todos los niveles de gobierno y con los diversos sectores de la sociedad.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+X. Fomentar en coordinación con las instancias correspondientes, políticas de preservación, conservación y aprovechamiento sustentable de la flora y la fauna silvestres, suelo, agua y otros recursos naturales, a través de la vinculación con todos los niveles de gobierno y con los diversos sectores de la sociedad.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 6.
 
-En las situaciones de orden legal no previstas en el presente ordenamiento, en lo que no se opongan a esta Ley, se aplicarán de manera supletoria la Ley Orgánica de la Administración Pública para el Estado de Nuevo León; la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado y su Reglamento, y las demás leyes y reglamentos estatales y federales que impliquen aspectos relacionados con el ámbito de competencia de la Agencia, en las atribuciones que se entiendan conferidas a la autoridad estatal.
+En las situaciones de orden legal no previstas en el presente ordenamiento, en lo que no se opongan a esta Ley, se aplicarán de manera supletoria la Ley Orgánica de la Administración Pública para el Estado de Nuevo León; la Ley Ambiente del Estado de Nuevo León y su Reglamento, y las demás leyes y reglamentos estatales y federales que impliquen aspectos relacionados con el ámbito de competencia de la Agencia, en las atribuciones que se entiendan conferidas a la autoridad estatal.
 
 ###### Artículo 7.
 
@@ -145,23 +157,35 @@ XVIII. Realizar las acciones que le competan a fin de preservar y restaurar el e
 
 XIX. Diseñar programas que promuevan la regulación y auditoría ambiental en industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal;
 
-XX. Formular, conducir y evaluar la política estatal en materia de aprovechamiento sustentable de la vida silvestre, actividades cinegéticas y la pesca deportiva en el Estado, conforme a lo dispuesto en las leyes y reglamentos aplicables;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-XXI. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales, y que tengan relación directa con las materias que se encuentren dentro del objeto de la Agencia;
+XX. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales, y que tengan relación directa con las materias que se encuentren dentro del objeto de la Agencia;
 
-XXII. Aplicar, en el ámbito estatal, y dentro de la esfera de su competencia, las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y de la Ley General de Vida Silvestre; así como las atribuciones que la Federación le transfiera al Estado, en el marco de las disposiciones que las mismas establecen;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-XXIII. Aplicar, dentro de la esfera de su competencia, las disposiciones de la Ley Estatal de Protección a los Animales;
+XXI. Aplicar, en el ámbito estatal, y dentro de la esfera de su competencia, las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como las atribuciones que la Federación le transfiera al Estado, en el marco de las disposiciones que las mismas establecen;
 
-XXIV. Administrar el Sistema Estatal de Áreas Naturales Protegidas llevando a cabo su manejo integral y vigilancia, promoviendo la participación de las instituciones científicas y académicas y de los sectores social y privado en su restauración, conservación y aprovechamiento sustentable;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-XXV. Administrar, desarrollar y supervisar en el ámbito de su competencia, la operación de los parques estatales, así como ejecutar las acciones necesarias para su rehabilitación, que permita el mejoramiento de los servicios que ofrecen al público;
+XXII. Aplicar, dentro de la esfera de su competencia, las disposiciones de la Ley Estatal de Protección a los Animales para el Estado de Nuevo León;
 
-XXVI. Atender los asuntos que en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, les concedan las leyes u otros ordenamientos y que no estén otorgados expresamente a la Federación;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-XXVII. Impulsar campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica; y
+XXIII. Atender los asuntos que en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, les concedan las leyes u otros ordenamientos y que no estén otorgados expresamente a la Federación;
 
-XXVIII. Las demás que le otorguen la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León y su Reglamento, otros ordenamientos legales y el Reglamento Interior de la Agencia.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+XXIV. Impulsar campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica; y
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+XXV. Las demás que le otorguen la Ley del Ambiente del Estado de Nuevo León y su Reglamento, otros ordenamientos legales y el Reglamento Interior de la Agencia.
+
+XXVI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2006)
+
+XXVII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2006)
+
+XXVIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2006)
 
 ###### Artículo 9.
 
@@ -189,13 +213,27 @@ El Consejo estará integrado por:
 
 I. Un Presidente Honorario, que será el Gobernador del Estado, con derecho de voz y de voto;
 
-II. Un Secretario Técnico, que será el Director General de la Agencia, que tendrá derecho de voz pero no de voto; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2006)</small>
 
-III. Un grupo de consejeros integrados de manera proporcional, cuyo número no deberá de ser menor a diez ni mayor a veintiuno, que podrán organizarse en comisiones de trabajo, para el desempeño de sus funciones, en los términos de la presente Ley.
+II. Un Presidente, que será designado y removido por el Gobernador del Estado, de entre los consejeros ciudadanos convocados, que tendrá derecho de voz y de voto, y al cual se le denominará Consejero Presidente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2006)</small>
+
+III. Un Secretario Técnico, que será el Director General de la Agencia, que tendrá derecho de voz pero no de voto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2006)</small>
+
+IV. Un grupo de consejeros integrados de manera proporcional, cuyo número no deberá de ser menor a diez ni mayor a veintiuno, que podrán organizarse en comisiones de trabajo, para el desempeño de sus funciones, en los términos de la presente Ley.
 
 Los consejeros ciudadanos que integran el Consejo contarán con voz y voto, y su participación será a título de colaboración ciudadana y tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general.
 
-Las ausencias del Presidente Honorario serán suplidas por el Director General de la Agencia, y en este caso fungirá como Secretario Técnico el suplente que sea designado por el propio Director General de la Agencia. Los miembros propietarios del Consejo deberán designar a su respectivo suplente, mediante escrito turnado al Secretario Técnico.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+El director General de la Agencia, en su carácter de Secretario Técnico del Consejo, deberá proveer lo necesario, a efecto de que se establezca en la estructura orgánica de la Agencia, una oficina de enlace que desempeñe las funciones de la Secretaría Técnica, y otorgue el apoyo logístico y administrativo necesario para el desarrollo de las actividades del Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+Las ausencias del Presidente Honorario serán suplidas por la persona que al efecto éste designe. Las ausencias del Consejero Presidente serán suplidas por el consejero ciudadano que al efecto designe el Director General. Las ausencias menores a tres meses del responsable de la oficina de enlace de la Secretaría Técnica, serán cubiertas por el suplente que sea designado por el propio Director General. En caso de ausencia definitiva, el Director General someterá a la consideración del pleno del Consejo, la designación de la persona que cubra dicha función.
 
 ###### Artículo 12.
 
@@ -221,9 +259,11 @@ V. Integrar comisiones o comités para la atención de asuntos específicos; y
 
 VI. Las que determine el Reglamento Interior de la Agencia y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-El Presidente Honorario del Consejo tendrá las siguientes facultades:
+El Consejero Presidente tendrá las siguientes facultades:
 
 I. Presidir las sesiones del Consejo y hacer cumplir sus acuerdos;
 
@@ -237,17 +277,23 @@ V. Coordinar a las Comisiones de trabajo; y
 
 VI. Las que le señalen el Reglamento Interior de la Agencia, y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 15.
 
-El Consejo celebrará sesiones ordinarias semestralmente, y extraordinarias cuando así se convoquen por el Presidente Honorario o el Secretario Técnico.
+El Consejo celebrará sesiones ordinarias semestralmente, y extraordinarias cuando así se convoquen por el Presidente Honorario, el Consejero Presidente o el Secretario Técnico.
 
 El Consejo sesionará previa convocatoria hecha por escrito, pudiendo ser enviada vía fax o por medios electrónicos, por el Secretario Técnico, con una anticipación de cuando menos 5 días naturales a la fecha señalada para la sesión, de acuerdo al calendario de sesiones que se apruebe en la primera sesión de instalación, o en la primera sesión de cada año. Para poder sesionar de manera ordinaria o extraordinaria se requerirá la presencia de la mayoría de los Consejeros, incluido el Presidente Honorario del Consejo o su suplente.
 
 Cuando se proponga tratar asuntos de interés general no comprendidos en el orden del día, se consultará con los integrantes del Consejo, y en caso de aceptación por mayoría simple, se desahogarán después del último punto listado.
 
-En todos los casos, los acuerdos del Consejo serán tomados por mayoría de votos de los integrantes presentes del Consejo. En caso de empate, el Presidente Honorario tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-El Secretario Técnico deberá elaborar las actas sobre los acuerdos tomados, las cuales deberán estar firmadas por el Presidente Honorario del Consejo, por el Secretario Técnico y por los consejeros asistentes.
+En todos los casos, los acuerdos del Consejo serán tomados por mayoría de votos de los integrantes presentes del Consejo. En caso de empate, el Presidente Honorario o quien lo supla, tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+El Secretario Técnico deberá elaborar las actas sobre los acuerdos tomados, las cuales deberán estar firmadas por el Presidente Honorario del Consejo, por el Consejero Presidente, por el Secretario Técnico y por los consejeros asistentes.
 
 ###### Artículo 16.
 
@@ -255,25 +301,37 @@ El Consejo podrá constituir comisiones de trabajo, ya sea de carácter permanen
 
 Las Comisiones permanentes serán las siguientes:
 
-I. De Parques Estatales y Patrimonio Ecológico;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-II. De Aprovechamiento y Desarrollo Sustentable de los Recursos Naturales;
+I. De Calidad del Aire;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+II. De Suelos y Residuos;
 
 III. De Ordenamiento Ecológico, Impacto y Riesgo Ambiental;
 
-IV. De Mejoramiento Ambiental;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-V. De Normatividad y Marco Legal;
+IV. De Manejo Integral del Agua, y;
 
-VI. De Educación y Cultura Ambiental; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-VII. De Pesca.
+V. De Educación y Cultura Ambiental.
 
-Se podrán constituir el número de Comisiones temporales que determine el Consejo, para los asuntos que el mismo considere necesario establecer.
+VI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2006)
 
-Dichas Comisiones, contarán con un Coordinador, designado por el Presidente Honorario del Consejo, y se integrarán con los Consejeros que sean convocados por éste.
+VII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2006)
 
-Los avances, informes especiales, análisis específicos o conclusiones de los trabajos de las Comisiones, deberán de ser entregados de forma escrita y en medios magnéticos a la Presidencia Honoraria del Consejo, con una copia para la Secretaría Técnica.
+> <small>N. DE E. CON LA PRESENTE REFORMA, ESTE PARRAFO SE INTEGRO CON LOS ANTERIORES TERCERO Y CUARTO, PARA QUEDAR CONFORMADO D ELA SIGUIENTE FORMA.</small>
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+Se podrán constituir el número de Comisiones temporales que determine el Consejo, para los asuntos que el mismo considere necesario establecer. Dichas Comisiones, contarán con un Coordinador, designado por el Consejero Presidente, y se integrarán con los Consejeros que sean convocados por éste.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+Los avances, informes especiales, análisis específicos o conclusiones de los trabajos de las Comisiones, deberán de ser entregados de forma escrita y en medios magnéticos a la Presidencia Honoraria del Consejo, al Consejero Presidente y a la Secretaría Técnica.
 
 #### SECCIÓN SEGUNDA. DE LA JUNTA DE GOBIERNO
 
@@ -285,7 +343,9 @@ I. Un Presidente que será el Gobernador del Estado;
 
 II. Un Secretario, que será el Director General de la Agencia, que participará como miembro de la Junta con voz pero sin voto; y
 
-III. Seis vocales que serán integrados por los titulares de cada una de las siguientes dependencias y entidades públicas o las que en su caso las sustituyan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+III. Ocho vocales que serán integrados por los titulares de cada una de las siguientes dependencias y entidades públicas o las que en su caso las sustituyan:
 
 a. La Secretaría General de Gobierno;
 
@@ -295,9 +355,19 @@ c. El Titular del Gabinete de Desarrollo Económico;
 
 d. La Secretaría de Salud;
 
-e. El Titular del Gabinete de Desarrollo Social; y
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2006)</small>
 
-f. La Corporación para el Desarrollo Agropecuario de Nuevo León.
+e. El Titular del Gabinete de Desarrollo Social;
+
+f. La Corporación para el Desarrollo Agropecuario de Nuevo León;
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+g. El Organismo Público Descentralizado Parques y Vida Silvestre de Nuevo León, y
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+h. Servicios de Agua y Drenaje de Monterrey, I.P.D.
 
 Los integrantes de la Junta de Gobierno podrán ser representados en sus ausencias, por quienes designen para este efecto con el carácter de suplentes, mediante documento que será remitido a la Junta de Gobierno.
 
@@ -417,7 +487,9 @@ XVIII. Fungir como Secretario en las sesiones de la Junta de Gobierno;
 
 XIX. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de recursos humanos del organismo; y otorgar y revocar los nombramientos de los funcionarios de las áreas administrativas, técnicas y operativas del mismo, debiendo observar lo dispuesto por la Ley de la Administración Financiera para el Estado de Nuevo León; y
 
-XX. Las demás que determine esta Ley, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León, otros ordenamientos legales y el Reglamento Interior de la Agencia.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2006)</small>
+
+XX. Las demás que determine esta Ley, la Ley Ambiente del Estado de Nuevo León, otros ordenamientos legales y el Reglamento Interior de la Agencia.
 
 #### SECCIÓN CUARTA. DEL COMISARIO
 
@@ -518,3 +590,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE OCTUBRE DE 2006.
+
+Artículo Único.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, la cual deberá ser posterior a la entrada en vigor de la Ley que crea el Organismo Público Descentralizado denominado Parques y Vida Silvestre de Nuevo León.
