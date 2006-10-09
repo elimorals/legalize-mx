@@ -4,7 +4,7 @@ identifier: "VER-codigo-electoral-para-el-estado-de-veracruz-de-ignacio-de-18942
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-19"
-last_updated: "2005-10-17"
+last_updated: "2006-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO NUMERO 590 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 9 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 19 de octubre de 2000.
 
@@ -3734,3 +3736,45 @@ Cuarto. El Consejo del Instituto Electoral Veracruzano deberá quedar instalado,
 Quinto. Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, para su conocimiento y efectos legales a que haya lugar
 
 Sexto. Publíquese en la Gaceta Oficial órgano del Gobierno del estado.
+
+G.O. 9 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Electoral para el Estado de Veracruz, publicado en la Gaceta Oficial del estado, de fecha dieciocho de octubre del año dos mil.
+
+###### ARTÍCULO TERCERO.
+
+En (sic) plazo no mayor de noventa días naturales contados a partir de la vigencia del presente Código, el Consejo General deberá emitir los reglamentos de las comisiones y de la contraloría, así como las adecuaciones a su reglamentación respectiva.
+
+###### ARTÍCULO CUARTO.
+
+El proceso electoral del 2007, en el que se renovarán el Congreso y los ayuntamientos del Estado, se iniciará con la primera sesión e instalación del Consejo General del Instituto Electoral Veracruzano, lo que tendrá lugar el día 10 de enero del propio año 2007.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General deberá prever los recursos necesarios para el cumplimiento de los derechos previstos en la fracción VII del artículo 47 de este Código, de las asociaciones políticas estatales, para el inmediato ejercicio fiscal.
+
+###### ARTÍCULO SEXTO.
+
+Los Consejeros Electorales y el Secretario Ejecutivo que se encuentren en funciones al entrar en vigor el presente Código, continuarán en el ejercicio de su encargo, en los términos que dispone este ordenamiento, para el periodo por el que fueron designados. No podrán ser reelectos en el siguiente periodo para el mismo cargo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los partidos políticos o ciudadanos deberán retirar, en un plazo no mayor a tres días a partir de la entrada en vigor de este Código, la publicidad que se encuentre colocada o esté siendo transmitida por cualquier medio y que constituyan actos anticipados de precampaña y campaña; así mismo en un plazo igual deberán cesar las actividades y publicidad proselitista y de promoción de imagen, hasta las fechas establecidas para ello. El incumplimiento de esta disposición dará lugar a la pérdida del derecho a ser registrados como candidatos por la autoridad electoral.
+
+###### ARTÍCULO OCTAVO.
+
+La actual integración del Consejo General, queda exceptuada de la aplicación de la acción afirmativa de género a que hacen referencia los artículos 118 y 123 del presente ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan las demás disposiciones que se opongan al presente Código.
+
+###### ARTÍCULO DÉCIMO.
+
+Las disposiciones contenidas en los artículos del 320 al 324 de este Código Entrarán en vigor a partir de que el H. Congreso del Estado, en ejercicio de sus atribuciones provea la reforma constitucional tendiente a la creación del Tribunal Electoral del Poder Ejecutivo del Estado, como la instancia jurisdiccional con competencia exclusiva para conocer y emitir sentencia sobre Juicios de Protección de los Derechos Políticos Electorales, en los términos previstos por este ordenamiento.
