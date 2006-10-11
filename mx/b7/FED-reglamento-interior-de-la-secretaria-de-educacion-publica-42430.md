@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2005-01-21"
+last_updated: "2006-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -53,7 +53,9 @@ IV. Oficialía Mayor;
 
 V. Unidad de Planeación y Evaluación de Políticas Educativas;
 
-VI. Coordinación Ejecutiva;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+
+VI. Unidad de Coordinación Ejecutiva;
 
 VII. Dirección General de Comunicación Social;
 
@@ -87,7 +89,7 @@ XXI. Dirección General del Bachillerato;
 
 XXII. Dirección General de Centros de Formación para el Trabajo;
 
-XXIII. Dirección General de Educación Secundaria Técnica;
+XXIII. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2006)
 
 XXIV. Dirección General de Desarrollo Curricular;
 
@@ -143,6 +145,8 @@ VIII. Radio Educación, y
 
 IX. Universidad Pedagógica Nacional.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+
 La Secretaría contará con un Órgano Interno de Control que se regirá conforme a lo dispuesto en los artículos 47, 49 y 50 de este Reglamento.
 
 ###### ARTÍCULO 3.
@@ -189,7 +193,9 @@ XI. Expedir el manual de organización general de la Secretaría que deberá pub
 
 XII. Expedir, con sujeción a lo dispuesto por la Ley de la materia y su Reglamento, los nombramientos de directores generales y titulares de las unidades administrativas de la Secretaría y emitir los lineamientos conforme a los cuales deberán expedirse los nombramientos relativos a los demás rangos del Sistema de Servicio Profesional de Carrera;
 
-XIII. Acordar con los Subsecretarios, Oficial Mayor, titulares de la Unidad de Planeación y Evaluación de Políticas Educativas y de la Coordinación Ejecutiva, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+
+XIII. Acordar con los Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
 
 XIV. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría y de sus órganos desconcentrados y, en su caso, las modificaciones a éstos, así como dar su conformidad a los de las entidades paraestatales del sector coordinado por ella;
 
@@ -241,7 +247,9 @@ IX. Suscribir los documentos relativos al ejercicio de las facultades que le hay
 
 X. Expedir copias certificadas de las constancias que obren en los archivos de las unidades administrativas a su cargo, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación;
 
-XI. Establecer la coordinación necesaria con los demás Subsecretarios, Oficial Mayor, titulares de la Unidad de Planeación y Evaluación de Políticas Educativas y de la Coordinación Ejecutiva, así como de las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+
+XI. Establecer la coordinación necesaria con los demás Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, así como de las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
 
 XII. Adscribir al personal de las unidades administrativas de su responsabilidad y decidir sobre sus movimientos dentro de tales unidades;
 
@@ -335,7 +343,9 @@ II. Expedir, previa aprobación del Secretario, los lineamientos para la elabora
 
 III. Desarrollar, integrar y difundir la información necesaria para la planeación, programación y evaluación del sector educativo y establecer los indicadores respectivos;
 
-IV. Promover, en coordinación con la Coordinación Ejecutiva, la participación social, la de las autoridades educativas y entidades especializadas en la planeación, programación y evaluación de las políticas educativas;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+
+IV. Promover, en coordinación con la Unidad de Coordinación Ejecutiva, la participación social, la de las autoridades educativas y entidades especializadas en la planeación, programación y evaluación de las políticas educativas;
 
 V. Coordinar, en consulta con las unidades administrativas y órganos desconcentrados de la Secretaría, así como de las entidades del sector educativo, la planeación y evaluación de políticas y programas de carácter estratégico;
 
@@ -369,11 +379,15 @@ XIX. Someter a la aprobación del Secretario el anteproyecto de presupuesto del 
 
 XX. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
 
-### CAPÍTULO VI. DE LA COORDINACIÓN EJECUTIVA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO VI. DE LA UNIDAD DE COORDINACIÓN EJECUTIVA
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 9.
 
-Al frente de la Coordinación Ejecutiva habrá un Coordinador, a quien corresponderá el ejercicio de las siguientes facultades:
+Al frente de la Unidad de Coordinación Ejecutiva habrá un Coordinador, a quien corresponderá el ejercicio de las siguientes facultades:
 
 I. Coordinar y dar seguimiento a los asuntos relacionados con las unidades administrativas adscritas al Secretario y, en su caso, convocar a sus titulares;
 
@@ -1049,29 +1063,7 @@ XIV. Proporcionar a los organismos descentralizados de los gobiernos de las enti
 
 ###### ARTÍCULO 28.
 
-Corresponde a la Dirección General de Educación Secundaria Técnica el ejercicio de las siguientes atribuciones:
-
-I. Proponer normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de la educación secundaria técnica y difundir los vigentes;
-
-II. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, criterios para la orientación de la educación secundaria técnica de acuerdo con las finalidades de la educación tecnológica;
-
-III. Promover y evaluar el desarrollo de la educación secundaria técnica en coordinación con la Dirección General de la Evaluación de Políticas;
-
-IV. Promover y fomentar, en coordinación con las autoridades educativas locales y las demás unidades administrativas competentes, la ciencia y tecnología en el nivel de educación secundaria;
-
-V. Normar la organización, el funcionamiento y la evaluación de la educación secundaria técnica en los planteles que imparten esta modalidad, en coordinación con las autoridades educativas locales, la Dirección General de Evaluación de Políticas y demás unidades administrativas competentes de la Secretaría;
-
-VI. Apoyar a las autoridades educativas locales, cuando así lo requieran, en la aplicación de las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos de evaluación del aprendizaje para la educación secundaria técnica;
-
-VII. Diseñar y desarrollar, de acuerdo con los lineamientos aprobados y en coordinación con las autoridades educativas locales y las unidades administrativas competentes de la Secretaría, programas para la capacitación, actualización y superación del personal técnico, así como del directivo y docente de los planteles que impartan educación secundaria técnica;
-
-VIII. Coordinar actividades en materia de ciencia y tecnología con autoridades educativas locales y otras dependencias y entidades;
-
-IX. Normar la expedición de diplomas y constancias a los alumnos que acrediten los cursos básicos de educación tecnológica y formación tecnológica, respectivamente;
-
-X. Diseñar y desarrollar en coordinación con las demás unidades administrativas competentes de la Secretaría, materiales de estudio, guías de trabajo y demás auxiliares didácticos para apoyar las asignaturas de ciencia y tecnología en el nivel de secundaria, y
-
-XI. Organizar y llevar a cabo, en coordinación con las autoridades educativas locales, la Dirección General de Evaluación de Políticas y con las unidades administrativas competentes de la Secretaría, acciones que contribuyan a la evaluación de la educación secundaria, con énfasis en la ciencia y tecnología.
+(DEROGADO, D.O.F. 11 DE OCTUBRE DE 2006)
 
 ###### ARTÍCULO 29.
 
@@ -1664,3 +1656,15 @@ SÉPTIMO.- Cuando en este Reglamento se dé una denominación distinta a alguna 
 OCTAVO.- Los derechos de los trabajadores serán respetados conforme a la ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos humanos, financieros y materiales asignados a la Dirección General de Educación Secundaria Técnica, serán reasignados a la Administración Federal de Servicios Educativos en el Distrito Federal, con la intervención de las instancias que determine el Titular de la Secretaría y de conformidad con las instrucciones que al efecto imparta.
+
+TERCERO.- Las acciones que se deriven de la reforma a que se refiere el presente Decreto, se sujetarán al presupuesto aprobado por la H. Cámara de Diputados para la Secretaría de Educación Pública en el ejercicio fiscal 2006.
+
+CUARTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
