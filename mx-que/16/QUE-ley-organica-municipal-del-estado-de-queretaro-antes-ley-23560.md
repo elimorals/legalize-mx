@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2006-03-03"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -553,13 +553,29 @@ XIII. Solicitar y obtener de los titulares de las dependencias y organismos muni
 
 XIV. Las demás que les señale la Ley, los reglamentos municipales y el propio Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 34.
 
-La representación conferida a los Síndicos se entiende sin más limitaciones que las consignadas en esta Ley y las que resulten de considerar dicha representación legal, sólo con las facultades del mandatario general para pleitos y cobranzas, con cláusulas para absolver posiciones e interponer o desistirse del juicio de amparo, en los términos del primer párrafo del artículo 2433 y demás relativos y aplicables del Código Civil para el Estado de Querétaro y la Ley de Amparo vigente.
+La representación conferida a los Síndicos, se entiende sin más limitaciones que las consignadas en esta Ley y las que resulten de considerar dicha representación legal; sólo con las facultades del mandatario general para pleitos y cobranzas, con cláusulas para absolver posiciones e interponer o desistirse del juicio de amparo, en los términos del primer párrafo del artículo 2433 y demás relativos y aplicables del Código Civil para el Estado de Querétaro y la Ley de Amparo vigente. Los Síndicos no pueden desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso otorgue el ayuntamiento.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 35.
 
-Los Síndicos no pueden desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso otorgue el Ayuntamiento.
+Una vez instalado el Ayuntamiento, los regidores propietarios integrarán grupos o fracciones con el objeto de conformar unidades de representación, actuar en forma organizada y coordinada en los trabajos municipales y realizar las tareas administrativas y de gestión que les correspondan, así como presentar de manera consolidada las iniciativas que correspondan en materia reglamentaria municipal. El acreditamiento del grupo o fracción se hará en sesión del ayuntamiento, a más tardar una semana posterior a su instalación, mediante escrito firmado por cada uno de los integrantes del grupo o fracción, en dicho documento se acreditará a su coordinador, el cual realizará funciones de representación y podrá tomar decisiones a nombre de quienes integren su grupo. La mecánica de elección o sustitución de cada coordinador corresponde a cada Grupo.
+
+El Conjunto de dos o más regidores por cada partido político constituirán un grupo al interior del Ayuntamiento, son fracciones aquellas constituidas por un solo regidor.
+
+Los grupos y fracciones gozarán de personalidad jurídica siendo el coordinador quien tendrá la representación legal del mismo ante las instancias que correspondan. En todo tiempo se abstendrán los coordinadores de grupos o fracciones de celebrar convenios con contenido patrimonial a nombre del Ayuntamiento o ejercer la representación legal del mismo excepto cuando éste lo acuerde.
+
+Los grupos y fracciones gozarán de los recursos aprobados por el ayuntamiento y que se determinen en el presupuesto, en forma proporcional al número de integrantes que los constituyan, pudiendo, incluso, contratar personal con los recursos de que dispongan, en cuyo caso quedarán bajo la responsabilidad laboral de los grupos y fracciones, sin presumirse vínculo laboral o de cualquier especie con el ayuntamiento.
+
+Del recurso ejercido, se informará al ayuntamiento en la modalidad y temporalidad que el mismo acuerde.
+
+Los recursos que reciban los regidores por conducto de sus grupos o fracciones serán idénticos para todos sin distinción de partido político. Los regidores que se consideren independientes recibirán los recursos que correspondan a aquellos adscritos a algún grupo o fracción.
+
+Cuando se acredite que algún regidor ha dejado de pertenecer a algún partido político por cualquier causa, dejará de pertenecer al grupo o fracción y conservarán la asignación de recursos aprobada.
 
 ### CAPÍTULO TERCERO. DE LAS COMISIONES PERMANENTES DE DICTAMEN
 
@@ -2104,3 +2120,13 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 11 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
