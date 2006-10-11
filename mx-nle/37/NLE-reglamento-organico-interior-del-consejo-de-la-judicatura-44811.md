@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2005-05-02"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -253,7 +253,7 @@ VI.- Aquellas cuestiones que los Consejeros hayan solicitado expresamente;
 
 VII.- La hora de la clausura de la sesión, y
 
-VIII.- La firma del Presidente y Consejeros presentes, así como la del Secretario General; (sic)
+VIII.- La firma del Presidente y Consejeros presentes, así como la del Secretario General;
 
 ###### Artículo 9.
 
@@ -301,7 +301,7 @@ El Pleno podrá acordar la integración de comités de trabajo y autorizar a los
 
 Para el cumplimiento de las atribuciones del Consejo, el Pleno tendrá las siguientes facultades:
 
-I.- Aprobar los proyectos correspondientes a la creación, reubicación geográfica y especialización de los juzgados, así como los cambios en la jurisdicción territorial de éstos, para lograr el más eficiente despacho de los asuntos.
+I.-Aprobar los proyectos correspondientes a la creación, reubicación geográfica y especialización de los juzgados, así como los cambios en la jurisdicción territorial de éstos, para lograr el más eficiente despacho de los asuntos.
 
 II.- Proporcionar al Congreso del Estado opinión sustentada objetivamente sobre el desempeño de los Magistrados del Tribunal, para efecto de su ratificación constitucional;
 
@@ -311,7 +311,7 @@ IV.- Autorizar la adscripción de los Jueces de Primera Instancia y de los Juece
 
 V.- Determinar la readscripción de los Jueces de Primera Instancia y Menores a una competencia territorial, o a un órgano jurisdiccional de materia distinta, siempre que las necesidades del servicio así lo requieran y se expongan las causas para la readscripción;
 
-VI.- Decidir sobre las adscripciones y readscripciones de secretarios, actuarios, personal técnico y administrativo que integran los órganos jurisdiccionales del Poder Judicial y expedirles el nombramiento respectivo, con excepción del personal del Tribunal Superior de Justicia y las áreas a su cargo.
+VI Decidir sobre las adscripciones y readscripciones de secretarios, actuarios, personal técnico y administrativo que integran los órganos jurisdiccionales del Poder Judicial y expedirles el nombramiento respectivo, con excepción del personal del Tribunal Superior de Justicia y las áreas a su cargo.
 
 VII.- Designar a propuesta del presidente, al Titular de la Visitaduría, y demás personal que se requiera para apoyar las funciones de supervisión y vigilancia de los Juzgados de Primera Instancia y Menores que integran el Poder Judicial;
 
@@ -1051,9 +1051,11 @@ DEL ÁREA DE MODERNIZACIÓN TECNOLÓGICA.
 
 El Consejo de la Judicatura contará con un órgano de administración y tesorería que se denominará Dirección de Administración y Tesorería, y tendrá como función principal ejercer el presupuesto aprobado en la Ley de Egresos del Estado y realizará la administración de acuerdo a las disposiciones legales aplicables y a las instrucciones emitidas por el Pleno; adquirirá los bienes y servicios, y tendrá a su cargo la infraestructura judicial y el recurso humano que garantice la integridad, transparencia y seguridad dentro de la normatividad y procedimientos establecidos en el Poder Judicial; así como intervenir en todos los actos jurídicos que afectan al presupuesto; controlar los registros de bienes muebles e inmuebles del Poder Judicial y cuidar su mantenimiento; suministrar los recursos materiales y proporcionar los servicios a los órganos jurídicos y unidades administrativas; elaborar los programas de capacitación y adiestramiento al personal administrativo y vigilar el cumplimiento de las obligaciones de fiscalización y compromisos contraídos ante otros poderes del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 62.
 
-La Dirección de Administración y Tesorería se integrará con: un Director General, Director adjunto, Coordinadores: Jurídico, de Finanzas, de Recursos Humanos; de Adquisiciones, Servicios y Obras, y de Infraestructura judicial, jefes de departamento y demás personal técnico y administrativo que apruebe el Pleno, de acuerdo con disponibilidad presupuestal, y además, para el debido funcionamiento y prevención interna de la Dirección de Administración y Tesorería, en la aplicación de los recursos establecidos en la Ley de Egresos del Estado, se integrará un Comité de Operaciones Patrimoniales, cuyas atribuciones están determinadas en el presente Reglamento.
+La Dirección de Administración y Tesorería se integrará con: un Director General, Coordinadores: Jurídico, de Finanzas, de Recursos Humanos; de Adquisiciones, Servicios y Obras, y de Infraestructura judicial, jefes de departamento y demás personal técnico y administrativo que apruebe el Pleno, de acuerdo con disponibilidad presupuestal, y además, para el debido funcionamiento y prevención interna de la Dirección de Administración y Tesorería, en la aplicación de los recursos establecidos en la Ley de Egresos del Estado, se integrará un Comité de Operaciones Patrimoniales, cuyas atribuciones están determinadas en el presente reglamento.
 
 Los Coordinadores tendrán las siguientes atribuciones:
 
@@ -1101,11 +1103,7 @@ I.- Actuar y asesorar jurídicamente a la administración del Poder Judicial del
 
 II.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
 
-f).- Director Adjunto y Eventos Especiales:
-
-I.- Dirigir y coordinar todos los eventos sociales, culturales, deportivos y de otra índole, tanto internos como externos en los que institucionalmente el Poder Judicial del Estado tome parte; desde el diseño de la logística, señalando los requerimientos necesarios, dándole seguimiento, hasta la culminación de los mismos; y
-
-II.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
+f).- (DEROGADO, P.O. 11 DE OCTUBRE DE 2006)
 
 ###### Artículo 63.
 
@@ -1141,9 +1139,13 @@ XIV.- Aplicar las medidas administrativas aprobadas por el Pleno que permitan el
 
 XV.- Opinar sobre el diseño de la política informática e información estadística, en el ámbito de su competencia;
 
-XVI.- Supervisar la correcta administración, mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles del Poder Judicial del Estado, y
+XVI.- Supervisar la correcta administración, mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles del Poder Judicial del Estado, y (sic)
 
-XVII.- Las demás que por acuerdo del Pleno, del Presidente, de las Comisiones del Consejo y en otras disposiciones jurídicas le sean encomendadas.
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2006)</small>
+
+XVII.- Dirigir y coordinar todos los eventos -sociales, culturales, deportivos y de otra índole, tanto internos como externos en los que institucionalmente el Poder Judicial del Estado tome parte; desde el diseño de la logística, señalando los requerimientos necesarios, dándole seguimiento, hasta la culminación de los mismos; y
+
+XVIII.- Las demás que por acuerdo del Pleno, del Presidente, de las Comisiones del Consejo y en otras disposiciones jurídicas le sean encomendadas.
 
 DEL COMITÉ PARA EL CONTROL DE OPERACIONES PATRIMONIALES.
 
@@ -1303,7 +1305,7 @@ XV.- Apoyar al Instituto de la Judicatura en la elaboración de los programas de
 
 XVI.- Definir los estándares de tecnología por utilizar apoyándose en los estándares de Gobierno del Estado;
 
-XVII.- Proponer soluciones apoyadas en la tecnología que acerquen los servicios del Poder Judicial, y (sic)
+XVII.- Proponer soluciones apoyadas en la tecnología que acerquen los servicios del Poder Judicial, y
 
 XVIII.- Elaborar y presentar al Pleno el informe estadístico trimestral del Poder Judicial, para que por conducto del Presidente se haga su envío al Congreso del Estado.
 
@@ -1723,7 +1725,9 @@ Los exámenes de aptitud serán aplicados por el Instituto de la Judicatura de c
 
 Cuando el titular del órgano jurisdiccional proponga al Consejo más de una persona para cubrir una vacante, a fin de que se le apliquen los correspondientes exámenes de aptitud, habiendo obtenido todos los interesados resultados aprobatorios, el Consejo sólo expedirá nombramiento a quien haya obtenido las mejores calificaciones, quedando los restantes en el enlistado que llevará el Instituto, sin que tengan que volver a presentar examen de aptitud con posterioridad al darse una nueva vacante en la categoría para la que presentaron, aunque ésta se dé en otro órgano jurisdiccional. Igual criterio aplicará a los interesados que por su cuenta acudan al Consejo a solicitar se les aplique el referido examen.
 
-Los resultados aprobatorios de los exámenes de aptitud tendrán vigencia anual, contada partir de la fecha en que estos se aplicaron.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2006)</small>
+
+Con motivo de los resultados aprobatorios los exámenes de aptitud, se expedirá la constancia correspondiente, la cual tendrá vigencia de un año a partir de la fecha de expedición de la referida constancia.
 
 ###### Artículo 120.
 
@@ -2246,3 +2250,11 @@ Consejero
 LIC. HORTENCIA RUIZ GUERRERO
 
 Secretaria General de Acuerdos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2006.
+
+PRIMERO: Aprobadas en sesión plenaria del Consejo de la Judicatura de fecha 28-veintiocho de febrero de 2006-dos mil seis, se ordena su publicación en el Periódico Oficial del Estado y en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado.
+
+SEGUNDO: Las reformas aludidas entrarán en vigor al día siguiente de la última de las publicaciones a que se refiere el primer punto transitorio del presente acuerdo.
