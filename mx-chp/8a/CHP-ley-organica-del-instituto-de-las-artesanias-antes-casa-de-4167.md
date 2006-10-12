@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-las-artesanias-antes-casa-de-4167
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-08-02"
-last_updated: "2003-12-03"
+last_updated: "2006-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE LA CASA DE LAS ARTESANIAS DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO DE LAS ARTESANIAS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 1989.
 
@@ -434,3 +436,11 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PE
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 12 DE OCTUBRE DE 2006.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abrogará la Ley Orgánica de la Casa de las Artesanías de Chiapas, expedida el 20 de julio de 1989, mediante Decreto número 71, publicado en el Periódico Oficial del Estado, número 33, de la fecha dos de agosto de 1989, y sus posteriores adicciones y reformas. Así como, todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero.- El Instituto de las Artesanías, deberá emitir su Reglamento Interior de conformidad con los términos fijados en la presente Ley, en un lapso de treinta días, contado a partir de la fecha de publicación de ésta.
