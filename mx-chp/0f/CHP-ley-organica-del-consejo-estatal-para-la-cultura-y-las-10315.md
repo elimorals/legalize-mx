@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-consejo-estatal-para-la-cultura-y-las-10315"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-11"
-last_updated: "1996-12-11"
+last_updated: "2006-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DEL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY ORGANICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Chiapas, el miércoles 11 de diciembre de 1996.
 
@@ -314,3 +316,21 @@ DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO, EN LA CIUDAD DE TUXTLA 
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS ONCE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
 JULIO CESAR RUIZ FERRO.- GOBERNADOR DEL ESTADO.- ERACLIO ZEPEDA RAMOS.- SECRETARIO DE GOBIERNO.- GIOVANNI ZENTENO MIJANGOS.- SECRETARIO DE HACIENDA.- ISMAEL DE LEON ROBLERO.- ENCARGADO DEL DESPACHO DE LA SECRETARIA DE EDUCACION.- JUAN CARLOS GOMEZ ARANDA.- OFICIAL MAYOR DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 2006.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Reglamento Interior del Consejo Estatal para las Culturas y las Artes de Chiapas, deberá expedirse dentro de los sesenta días siguientes a la entrada en vigor de esta ley.
+
+Artículo Tercero.- La primera sesión del Consejo Directivo será convocada dentro de los diez días siguientes a la entrada en vigor de esta Ley, y en este acto se instalará el Consejo Directivo y en la misma se aprobará el calendario de las sesiones subsecuentes.
+
+Artículo Cuarto.- Se abroga la Ley Orgánica del Consejo Estatal para la Cultura y las Artes de Chiapas, publicada en el Periódico Oficial del Estado, No. 125-3ª Sección, de fecha 11 de diciembre de 1996.
+
+Artículo Quinto.- Los bienes muebles e inmuebles que se encuentren asignados al Consejo Estatal para la Cultura y las Artes de Chiapas, y que actualmente estén en posesión y uso de éste, así como, los recursos financieros otorgados al mencionado organismo, serán administrados por el Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Sexto.- Los trabajadores que al entrar en vigor esta ley, se encuentren prestando sus servicios en el Consejo Estatal para la Cultura y las Artes de Chiapas, conservarán sus derechos y pasarán a formar parte del personal del Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Séptimo.- El Ejecutivo del Estado dispondrá se publique, circule y se le de el debido cumplimiento.
