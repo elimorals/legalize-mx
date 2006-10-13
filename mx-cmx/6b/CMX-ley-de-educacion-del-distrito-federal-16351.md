@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2000-06-08"
+last_updated: "2006-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE OCTUBRE DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -150,11 +150,15 @@ XX. Auspiciar una educación que permita a la sociedad participar en la conducci
 
 XXI. Promover actitudes de participación, tolerancia y pluralidad.
 
-XXII. Fomentar en los educandos una actitud de respeto ante las diferencias religiosas, de género, de condición étnica, de índole cultural, o debidas a discapacidades.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXII. Propiciar una educación en ciencias de la computación, informática e Internet en todos los niveles, tipos y modalidades, incorporando asignaturas de tecnología de la información e informática con el propósito de dotar de modernas herramientas a los estudiantes del Distrito Federal como una forma de prepararlos para comprender y adaptarse a la sociedad y al mundo cambiante en el que vivimos.
+
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 11.
 
-Los particulares que presten servicios de educación inicial, básica, media superior y normal en el Distrito Federal deberán ajustarse sin excepción a lo que establece el artículo 3º. Constitucional y a lo dispuesto en los artículos 9 y 10 de esta ley.
+Los particulares que presten servicios de educación inicial, básica, media superior y superior en el Distrito Federal, deberán ajustarse, sin excepción, a lo que establece el artículo 3° Constitucional y a lo dispuesto en los artículos 9 y 10 de esta Ley.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE LA FUNCIÓN EDUCATIVA
 
@@ -170,7 +174,9 @@ I. Vigilar el cumplimiento y aplicación del artículo tercero constitucional, l
 
 II. Impulsar y fortalecer la educación pública.
 
-III. Prestar los servicios de educación inicial, básica, media superior, normal y demás para la formación, actualización, capacitación y superación profesional para los profesores de educación básica, incluyendo la indígena y la especial. Además, atender e impartir todos los tipos y modalidades educativos, incluyendo la educación superior. La educación media superior y superior se prestará en forma concurrente con la federación.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+III. Prestar los servicios de educación inicial, básica -incluyendo la indígena- y especial; atender e impartir todos los tipos y modalidades educativos, incluyendo la educación media superior, así como la superior. La educación media superior y la superior se prestará en forma concurrente con la Federación.
 
 IV. Determinar, con fundamento en las disposiciones de la Ley General de Educación, de esta ley y de común acuerdo con el Consejo de Educación del Distrito Federal, la política educativa de la entidad.
 
@@ -190,17 +196,23 @@ XI. Revalidar y otorgar equivalencias de estudios, de acuerdo con los lineamient
 
 XII. Vigilar que la educación que impartan los particulares en planteles incorporados al sistema educativo del Distrito Federal se sujete a las normas establecidas.
 
-XIII. Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica. Además, otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los mencionados, en concurrencia con el gobierno federal.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XIII. Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria y secundaria. Además, otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los mencionados, en concurrencia con el gobierno federal. En el otorgamiento, negación y revocación de las autorizaciones y reconocimientos deberá observarse lo dispuesto por el Título Tercero de esta Ley.
 
 XIV. Determinar y formular planes y programas de estudio, distintos de los de educación primaria, secundaria y normal y demás para la formación de maestros de educación básica, en concurrencia con la federación.
 
 XV. Dotar obligatoria y oportunamente a las instituciones que impartan educación primaria y secundaria de los libros de texto autorizados por la Secretaría de Educación Pública, así como del material didáctico necesario a fin de que se cumpla eficazmente con la función social educativa.
 
-XVI. Instalar los Consejos de Educación de zona, delegacionales y del Distrito Federal.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XVI. Instalar los Consejos de Educación de centro escolar, de zona, delegacionales y del Distrito Federal.
 
 XVII. Fortalecer y desarrollar la infraestructura de los servicios educativos a través de la construcción, mantenimiento, rehabilitación y equipamiento de espacios educativos.
 
-XVIII. Convocar a congresos educativos con amplia participación social.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XVIII. Convocar cada tres años, a Congresos Educativos Ordinarios y cuando sea necesario a Congresos Educativos Extraordinarios con amplia participación social.
 
 XIX. Editar libros y producir materiales didácticos distintos de los libros de texto gratuitos, en forma concurrente con la federación.
 
@@ -220,7 +232,9 @@ XXVI. Promover el establecimiento y operación de casas de cultura, museos, heme
 
 XXVII. Establecer y coordinar los programas de educación para adultos, alfabetización, educación indígena y educación especial, en coordinación con el gobierno federal.
 
-XXVIII. Promover convenios de cooperación y/o acuerdos interinstitucionales en materia educativa, científica, tecnológica, artística, cultural, de educación física y deporte, en los términos que establecen las disposiciones legales.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXVIII. Promover convenios de cooperación y/o acuerdos interinstitucionales, con instituciones públicas o privadas, en materia educativa, científica, tecnológica, artística, cultural, de educación física y deporte, en los términos que establecen las disposiciones legales.
 
 XXIX. Celebrar convenios con la federación para unificar, ampliar y enriquecer los servicios educativos.
 
@@ -234,7 +248,9 @@ XXXIII. Promover y supervisar la realización de actos cívicos escolares que fo
 
 XXXIV. Otorgar reconocimientos y distinciones a los educadores que se destaquen en su labor profesional y a quienes aporten innovaciones para mejorar la calidad de la enseñanza.
 
-XXXV. Fomentar el cooperativismo y vigilar la contratación de servicios y la compra de mercancías que se expendan en los planteles educativos, de acuerdo con las normas correspondientes.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXV. Fomentar el cooperativismo para garantizar la aplicación estricta de sus principios y practicarlo en las cooperativas escolares, vigilar la contratación de servicios y la compra de mercancías que se expendan en los planteles educativos, de acuerdo con las normas correspondientes.
 
 XXXVI. Establecer, con la organización sindical correspondiente, disposiciones laborales, sociales y asistenciales que regirán la relación con los docentes.
 
@@ -250,7 +266,9 @@ Para los efectos de esta ley, el sistema educativo del Distrito Federal está co
 
 I. Las autoridades educativas del Distrito Federal.
 
-II. Las instituciones educativas oficiales de los diferentes tipos, niveles y modalidades; los organismos públicos descentralizados y desconcentrados.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+II. Las instituciones educativas oficiales de los diferentes tipos, niveles y modalidades; los organismos públicos descentralizados y los órganos desconcentrados precisados en esta Ley.
 
 III. Los educandos, educadores y personal de apoyo y asistencia a la educación.
 
@@ -380,11 +398,21 @@ II. El básico abarca los niveles de preescolar, primaria y secundaria.
 
 III. El medio superior comprende el bachillerato y los demás tipos equivalentes a éste.
 
-IV. El superior es el que se imparte después del bachillerato o sus equivalentes. Comprende la educación normal en todos sus niveles y especialidades, la tecnológica y la universitaria, e incluye estudios encaminados a obtener la licenciatura, la especialidad, la maestría y el doctorado.
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+IV. El superior es el que se imparte después del bachillerato o sus equivalentes. Comprende la educación tecnológica y la universitaria e incluye estudios encaminados a obtener la licenciatura, la especialidad, la maestría y el doctorado, cualquier otro posgrado o su equivalente.
 
 ###### Artículo 37.
 
 La educación primaria, secundaria, la media superior y la superior podrán adoptar las modalidades escolarizada, no escolarizada y mixta. Por lo que se refiere a la escolarizada, ninguno de los grupos rebasará los 30 alumnos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+Ninguna escuela pública o privada podrá emplear a personal docente o permitir que persona alguna imparta clases mientras no cuente con la certificación o documento que le acredite para la docencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+Para tal efecto, todo profesor en activo deberá contar con título profesional y actualizarse obligatoria y periódicamente en los centros que la autoridad educativa disponga para tales efectos.
 
 ### CAPÍTULO II. DE LA EDUCACIÓN INICIAL
 
@@ -406,9 +434,11 @@ La educación básica contribuirá al desarrollo integral y armónico del niño 
 
 El Gobierno del Distrito Federal brindará todos los apoyos necesarios para garantizar la permanencia del educando hasta la conclusión de la educación básica; ampliará la cobertura y combatirá los rezagos.
 
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 42.
 
-La educación preescolar comprende dos grados; tiene como propósito estimular el desarrollo cognoscitivo, afectivo, social y psicomotor del niño en un contexto pedagógico adecuado a sus características y necesidades, así como la formación de hábitos, habilidades y destrezas.
+La educación preescolar comprende tres grados; tiene como propósito estimular el desarrollo cognoscitivo, afectivo, social y psicomotor del niño en un contexto pedagógico adecuado a sus características y necesidades, así como la formación de hábitos, habilidades y destrezas.
 
 ###### Artículo 43.
 
@@ -456,6 +486,14 @@ Con el objetivo de garantizar la enseñanza media superior para todos los solici
 
 Las instituciones de educación media superior establecidas en el Distrito Federal, contribuirán a completar la demanda de este nivel educativo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+I. El Instituto de Educación Media Superior (IEMS), organismo público descentralizado de la Secretaría de Educación del Distrito Federal, con personalidad jurídica y patrimonio propios, tendrá por objeto, como parte integrante del Sistema Educativo del Distrito Federal, impartir e impulsar educación de tipo medio superior en el Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+II. La organización, funcionamiento y atribuciones de este organismo público se regirán por lo que disponga la ley en la materia.
+
 ###### Artículo 54.
 
 En los planteles de educación media superior que establezca el Gobierno del Distrito Federal, los programas y planes de estudio responderán a las necesidades de carácter social y a lo estipulado en el artículo 51 de esta ley.
@@ -488,77 +526,55 @@ La educación superior es la que se imparte después del bachillerato y sus equi
 
 ###### Artículo 61.
 
-La educación normal corresponde al tipo de educación superior y su propósito fundamental es la formación de docentes para la educación básica y media superior.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 62.
 
-El subsistema formador de docentes está integrado por los servicios de formación, actualización, capacitación y superación profesional.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 63.
 
-El Gobierno del Distrito Federal prestará los servicios de educación normal y demás para la actualización, capacitación y superación profesional de los maestros de educación básica y media superior.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 64.
 
-El subsistema de Educación Normal del Distrito Federal está integrado por las escuelas formadoras de docentes para la educación inicial, básica y media superior.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 65.
 
-La educación que el Gobierno del Distrito Federal imparta en las escuelas normales tendrá las siguientes finalidades:
-
-I. Formar profesionales técnico-pedagógicos identificados con los valores de respeto y aprecio a la dignidad humana, la democracia, la justicia, la tolerancia, la honradez y la estima por la cultura y el trabajo.
-
-II. Preparar profesores para la docencia en la educación básica y media superior e investigadores científico-pedagógicos que se especialicen en los problemas de esta área del conocimiento.
-
-III. Preparar profesores para las tareas de orientación, dirección y supervisión de la función educativa.
-
-IV. Proporcionar a los estudiantes una cultura general y pedagógica de carácter teórico y práctico, que los capacite para desarrollar eficazmente el servicio educativo.
-
-V. Lograr que los alumnos dominen los contenidos educativos y estimular en ellos el desarrollo de habilidades para conducir acertadamente el proceso de enseñanza-aprendizaje.
-
-VI. Desarrollar y fortalecer en los estudiantes la vocación magisterial.
-
-VII. Proporcionar a los estudiantes conocimientos sólidos sobre ecología para que fomenten en sus alumnos el uso racional de los recursos naturales y la protección del medio ambiente.
-
-VIII. Fortalecer en los estudiantes la conciencia para construir una nación democrática, tolerante e independiente, soberana en sus decisiones internas y respetuosa de los demás Estados.
-
-IX. Fomentar la constante actualización y superación académica del docente.
-
-X. Hacer que los alumnos valoren el significado que tiene para la sociedad el trabajo del docente y su participación activa en la solución de los problemas de la comunidad.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 66.
 
-El Gobierno del Distrito Federal creará las escuelas normales necesarias para satisfacer la demanda de maestros de educación básica, de educación especial y media superior.
-
-Los profesionistas que egresen de las instituciones públicas formadoras de docentes obtendrán nombramiento oficial.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 67.
 
-Las escuelas formadoras de docentes tendrán como tareas sustantivas la docencia, la investigación pedagógica y la difusión educativa y cultural; contarán con estatuto orgánico; y establecerán estudios en alguna de las licenciaturas que tengan asignadas, de maestría y doctorado. Para el fortalecimiento del posgrado, podrán establecer convenios con instituciones nacionales y extranjeras.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 68.
 
-Las escuelas formadoras de docentes serán dirigidas por miembros de su propio personal académico, seleccionados de una terna elegida por la comunidad educativa, para que de ésta el titular de la Secretaría de Educación del Distrito Federal haga el nombramiento correspondiente.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 69.
 
-Los profesores que se incorporen a la docencia en las escuelas formadoras de docentes lo harán por convocatoria pública y mediante concurso de oposición y de méritos.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 70.
 
-Las escuelas formadoras de docentes del Distrito Federal contarán con un sistema de investigadores de la educación formado por los profesores que demuestren, ante una comisión especialmente designada para el caso, tener una producción de alto nivel en la investigación educativa y poseer estudios de posgrado.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 71.
 
-Las instituciones formadoras de docentes contarán con presupuesto específico para diseñar y realizar investigación educativa relevante; tendrán escuelas de experimentación y prácticas docentes; y establecerán programas de apoyo para la superación académica de sus profesores.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 72.
 
-La Secretaría de Educación del Distrito Federal establecerá programas permanentes para la capacitación, actualización y superación profesional de sus maestros en servicio.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 73.
 
-La Secretaría de Educación del Distrito Federal podrá celebrar convenios de colaboración con las universidades, encaminados a la formación de profesionales de la educación y la investigación en materia educativa, de acuerdo con las necesidades de la entidad.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 74.
 
@@ -571,6 +587,14 @@ La Secretaría de Educación del Distrito Federal podrá analizar, junto con las
 ###### Artículo 76.
 
 El Gobierno del Distrito Federal, en concurrencia con la federación, podrá crear instituciones de educación superior para atender las necesidades sociales, económicas y culturales de la entidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+I. La Universidad Autónoma de la Ciudad de México goza de autonomía en su régimen interno en los términos que dispone el artículo 3° de esta Ley; podrá, conforme a sus propias normas y procedimientos nombrar a sus autoridades, elaborar sus planes y programas de estudio dentro de los principios de libertad de cátedra e investigación y de libre examen y discusión de las ideas, así como administrar su patrimonio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+II. La organización, funcionamiento y atribuciones de la Universidad Autónoma de la Ciudad de México, se regirán por lo que disponga la Ley de Autonomía de la Universidad de la Ciudad de México otorgada por la Asamblea Legislativa del Distrito Federal.
 
 ###### Artículo 77.
 
@@ -744,7 +768,9 @@ El Gobierno del Distrito Federal utilizará los medios masivos de comunicación 
 
 Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades, para lo cual deberán ajustarse a la legislación aplicable y a los planes y programas vigentes.
 
-Respecto a la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la autoridad educativa en el Distrito Federal.
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+Respecto a la educación preescolar, primaria y la secundaria, deberán obtener previamente, en cada caso, la autorización expresa de la autoridad educativa en el Distrito Federal. Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de validez oficial de estudios, el que será otorgado por las autoridades educativas del Distrito Federal en concurrencia con las de la Federación, en los términos que dispone la Ley General de Educación.
 
 Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de validez oficial de estudios, el que será otorgado por las autoridades educativas locales en concurrencia con las de la federación.
 
@@ -760,11 +786,11 @@ II. Instalaciones que satisfagan las condiciones higiénicas, de seguridad y ped
 
 III. Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica.
 
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 109.
 
-Las autoridades educativas del Distrito Federal publicarán anualmente, en la Gaceta Oficial, una relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo harán público, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
-
-Los particulares que impartan estudios con autorización o reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
+Las autoridades educativas del Distrito Federal publicarán anualmente, en la Gaceta Oficial y en tres diarios de los de mayor circulación en el Distrito Federal, una relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo harán público, oportunamente y en cada caso, la inclusión o la suspensión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 ###### Artículo 110.
 
@@ -788,9 +814,11 @@ Para realizar una visita de inspección deberá mostrarse la orden correspondien
 
 Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y por dos testigos. En su caso, se hará constar en dicha acta la negativa del visitado de suscribirla sin que esa negativa afecte su validez. Un ejemplar del acta se pondrá a disposición del visitado. Los particulares podrán presentar a las autoridades educativas documentación relacionada con la visita dentro de los cinco días hábiles siguientes a la fecha de inspección.
 
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 112.
 
-La revocación de la autorización para impartir educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, procederá a juicio de la autoridad, cuando se hubiesen infringido los preceptos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la presente ley y demás normas aplicables.
+La revocación de la autorización para impartir educación primaria y secundaria, procederá a juicio de la autoridad, cuando se hubiesen infringido los preceptos contenidos en la Constitución Política de los Estados Unidos mexicanos, La Ley General de Educación, la presente Ley y demás normas aplicables. Para revocar una autorización, la autoridad deberá cumplir con los requisitos y formalidades establecidos en la Ley de Procedimientos Administrativos del Distrito Federal.
 
 ###### Artículo 113.
 
@@ -848,7 +876,7 @@ X. Promover la investigación educativa.
 
 XI. Proponer a la Secretaría de Educación Pública la revisión permanente de los planes, programas y contenidos de estudio de la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica que se imparte en los centros formadores de maestros, para adecuarlos al desarrollo socioeconómico, político, cultural, y a los avances en el campo de la investigación pedagógica.
 
-XII. Fortalecer y crear posgrados en educación normal para apoyar la formación, actualización y superación continua de los docentes.
+XII. (DEROGADA, G.O. 13 DE OCTUBRE DE 2006)
 
 XIII. Atender integralmente el proceso educativo, apoyando a las instituciones del sistema educativo con personal multidisciplinario.
 
@@ -972,7 +1000,7 @@ Las instituciones del sistema educativo del Distrito Federal expedirán certific
 
 ###### Artículo 135.
 
-La validez oficial en el Distrito Federal de los estudios de primaria, secundaria, normal y demás para la formación de maestros de educación básica, realizados fuera del sistema educativo nacional se obtendrá mediante la revalidación de los mismos, siempre y cuando sean equiparables con los estudios cursados dentro de dichos sistemas.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 136.
 
@@ -980,15 +1008,7 @@ Es facultad del titular del Gobierno del Distrito Federal, por conducto de la Se
 
 ###### Artículo 137.
 
-La revalidación de estudios podrá otorgarse por niveles educativos, por grados escolares o por asignaturas u otras unidades de aprendizaje y podrá autorizarse si se cumplen los siguientes requisitos:
-
-I. Los estudios que se pretendan revalidar deben ser iguales o similares a los que se impartan en las instituciones educativas del Distrito Federal.
-
-II. Los estudios a revalidar estarán sujetos al número de asignaturas y contenidos exigidos a los planteles del Distrito Federal.
-
-III. Las asignaturas y contenidos a que se refiere la fracción anterior, en lo general, deben corresponder en su extensión, temario y número de horas de cátedra al mínimo exigido en los planteles iguales o similares del Distrito Federal.
-
-IV. En los casos en que resulte difícil establecer la igualdad o similitud, se podrá crear un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes para acreditar sus conocimientos.
+(DEROGADO, G.O. 13 DE OCTUBRE DE 2006)
 
 ###### Artículo 138.
 
@@ -1098,9 +1118,13 @@ Los profesores de tiempo completo o cuya suma de horas sea equivalente, con plaz
 
 ## TÍTULO OCTAVO. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 150.
 
-La Secretaría de Educación del Distrito Federal, en concurrencia con la federación, determinará y formulará los planes y programas de estudio distintos de los de la educación primaria, secundaria y normal, y demás para la formación de maestros.
+La Secretaría de Educación del Distrito Federal, en concurrencia con la federación, determinará y formulará los planes y programas de estudio distintos de los de educación preescolar, primaria y secundaria, y demás para la formación de maestros.
+
+En la determinación y formulación de los planes y programas de estudio a que se refiere el párrafo anterior, deberá observarse lo dispuesto por el artículo 8° de esta Ley.
 
 ###### Artículo 151.
 
@@ -1310,6 +1334,10 @@ XVII. Disponer indebidamente de los bienes y recursos destinados a la educación
 
 XVIII. Abstenerse de cumplir con los planes y programas de estudio que las autoridades educativas hayan determinado.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XIX Ejercer la docencia sin el título profesional y las certificaciones o constancias para que cada nivel o tipo de educación exige la presente Ley.
+
 ###### Artículo 179.
 
 Las infracciones enumeradas en el artículo anterior, según la gravedad de las mismas, se sancionarán con:
@@ -1396,8 +1424,42 @@ La imposición de las sanciones establecidas en la presente ley no excluye la po
 
 ## TRANSITORIO
 
-ÚNICO. La presente Ley entrará en vigor una vez que se haya agotado el proceso y los actos a que se refiere el artículo CUARTO TRANSITORIO de la Ley General de Educación.
+> <small>(DEROGADO [N. DE E. REFORMADA SU NUMERACION], G.O. 13 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+> <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese la presente Ley al Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal. Para mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones de la presente Ley, relativas a la educación inicial, básica -incluyendo la indígena- y especial, entrarán en vigor una vez que se derogue el artículo cuarto transitorio de la Ley General de Educación.
+
+> <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO CUARTO.
+
+En tanto se derogue el artículo cuarto transitorio de la Ley General de Educación, las facultades que esta ley le confiere a la Secretaría de Educación del Distrito Federal, corresponderán a la Secretaría de Desarrollo Social del Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones contenidas en los decretos administrativos que crean el Instituto de Educación Media Superior del Distrito Federal y la Universidad Autónoma de la Ciudad de México, seguirán aplicándose por los actos jurídicos realizados durante su vigencia.
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 28 de abril de dos mil.- POR LA MESA DIRECTIVA.- DIP. MARIA DE LOS ANGELES CORREA DE LUCIO, PRESIDENTA.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de mayo de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE OCTUBRE DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
