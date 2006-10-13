@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-juntas-de-mejoramiento-moral-civico-y-48865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-03"
-last_updated: "2006-02-03"
+last_updated: "2006-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL, DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 3 de febrero de 2006.
 
@@ -99,7 +99,9 @@ El Ayuntamiento a través de la Coordinación, fomentará la integración de Jun
 
 Para la adecuada coordinación de las actividades y operaciones de las Juntas, se creara una Directiva por la cual serán representadas.
 
-Las directivas estarán integradas por un Presidente, un Secretario, un Tesorero y dos Vocales, y durarán en su encargo tres años con posibilidad de reelección hasta por un período igual, bajo el mismo procedimiento por el que fueron designados.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2006)</small>
+
+Las directivas estarán integradas por un Presidente, un Secretario, un Tesorero y dos vocales, y durarán en su encargo tres años, las cuales no podrán ser reelectas en el período posterior inmediato.
 
 Los cargos de los miembros de las Juntas, serán honoríficos y su aceptación voluntaria, quienes acepten quedarán obligados a desempeñar con eficacia las comisiones que se comprometan cumplir.
 
@@ -584,3 +586,9 @@ A T E N T A M E N T E
 LIC. ALBERTO REZA SALDAÑA
 
 SECRETARIO DEL XVIII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE OCTUBRE DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
