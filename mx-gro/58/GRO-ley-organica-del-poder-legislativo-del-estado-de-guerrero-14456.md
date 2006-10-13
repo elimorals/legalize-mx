@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2005-11-29"
+last_updated: "2006-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -1363,9 +1363,11 @@ En los períodos siguientes al de la instalación de la Legislatura y antes de c
 
 Una vez instalada la Mesa Directiva se procederá a comunicarlo a los Poderes Ejecutivo y Judicial del Estado, a los Ayuntamientos de la Entidad, así como a los Poderes de la Unión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 100.
 
-El Congreso del Estado se reunirá en dos períodos ordinarios de sesiones por año de ejercicio. El primero iniciará el 15 de noviembre y terminará el 15 de febrero del año siguiente; el segundo, del 1º de abril al 30 de junio del mismo año.
+El Congreso del Estado se reunirá en tres períodos ordinarios de sesiones por año de ejercicio. El primero iniciará el 15 de noviembre y se clausurará el 15 de febrero del año siguiente; el segundo, se instalará el 1º de abril y concluirá el 15 de junio y el tercero, se llevará a cabo del 1º de septiembre al 15 de octubre del mismo año.
 
 Durante los recesos, el Congreso podrá celebrar períodos extraordinarios de sesiones, previa convocatoria formulada por la Comisión Permanente a solicitud de la mayoría de sus integrantes o del Gobernador del Estado. La convocatoria respectiva fijará la fecha de inicio del período y el o los asuntos a tratar durante el mismo.
 
@@ -2428,3 +2430,9 @@ Artículo Primero.- El presente Decreto entrará en vigor a partir de la fecha d
 Artículo Segundo.- Comuníquese el presente Decreto al Gobernador del Estado para su conocimiento y efectos conducentes.
 
 Artículo Tercero.- Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
+
+P.O. 13 DE OCTUBRE DE 2006.
+
+Primero.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
