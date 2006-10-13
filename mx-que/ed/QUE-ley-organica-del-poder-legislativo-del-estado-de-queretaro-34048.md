@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2006-09-27"
+last_updated: "2006-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -1287,15 +1287,13 @@ XV. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, e
 
 ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 114.
 
-(Función y ubicación orgánica) La Entidad Superior de Fiscalización del Estado es la dependencia del Poder Legislativo que asesora técnicamente a las Comisiones tanto de Hacienda, como de Planeación y Presupuesto, dependiendo jerárquicamente de la primera.
+(Función y Ubicación Orgánica) La Entidad Superior de Fiscalización del Estado dependerá jerárquicamente del Poder Legislativo; su competencia y atribuciones se establecerán en la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y su Ley reglamentaria.
 
-Por medio de estas comisiones el Poder Legislativo ejecuta el cumplimiento de sus facultades en materia hacendaría, de fiscalización, y control de la Administración pública centralizada y descentralizada estatal y municipal, así como de los organismos públicos autónomos.
-
-Su conformación, funcionamiento y facultades se regularán por su Ley Orgánica y las demás disposiciones legales.
+La Entidad Superior de Fiscalización del Estado asesorará técnicamente y, en su caso, propondrá los proyectos de dictamen respectivos, a las Comisiones de Hacienda y Planeación y Presupuesto del Poder Legislativo, cuando éstas lo requieran para cumplir adecuadamente con su función legislativa.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2295,7 +2293,7 @@ c) En contra de los dictámenes de las Comisiones, emitidos en su función legis
 
 d) Actos o resoluciones emitidos por la Legislatura;
 
-e) Actos o resoluciones emitidos por la Comisión Permanente en cumplimiento de sus facultades constitucionales y legales;
+e) Actos o resoluciones emitidos por la Comisión Permanente en cumplimiento de sus facultades constitucionales y legales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2598,6 +2596,16 @@ P.O. 27 DE SEPTIEMBRE DE 2006.
 ###### ARTÍCULO PRIMERO.
 
 Esta Ley entrará en vigor el día de su aprobación por el Pleno, se ordena su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 13 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 ###### ARTÍCULO SEGUNDO.
 
