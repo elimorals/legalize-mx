@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-contraloria-del-46550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-04"
-last_updated: "2006-09-15"
+last_updated: "2006-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de octubre del 2005.
 
@@ -181,7 +181,9 @@ La Contraloría tendrá veinte días hábiles para elaborar su dictamen, los cua
 
 El Consejo emitirá el acuerdo correspondiente, ordenando, en su caso, las medidas legales procedentes.
 
-El tiempo transcurrido desde la fecha en que la Contraloría notifique a la unidad administrativa sobre el inicio de la revisión, hasta la fecha en que aquélla entregue el dictamen correspondiente al Secretario del Consejo, no deberá exceder de cuatro meses.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2006)</small>
+
+El tiempo trascurrido desde la fecha en que la Contraloría notifique a la unidad administrativa sobre el inicio de la revisión, hasta la fecha en que aquélla entregue el dictamen correspondiente al Secretario del Consejo, no deberá exceder de 120 días hábiles.
 
 ###### Artículo 10.
 
@@ -510,3 +512,7 @@ TERCERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno 
 P.O. 15 DE SEPTIEMBRE DE 2006.
 
 Único.- Las reformas al presente reglamento entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE OCTUBRE DE 2006.
+
+Único.- La reforma al presente reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
