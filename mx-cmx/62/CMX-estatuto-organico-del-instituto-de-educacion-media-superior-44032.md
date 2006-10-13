@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2005-03-23"
+last_updated: "2006-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-03-18"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE OCTUBRE DE 2006.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -566,9 +566,13 @@ Los Órganos Consultivos se regirán por el reglamento para la Integración y Fu
 
 La educación media superior que imparta el Instituto, se realizará en los planteles que para este fin acuerde crear el Consejo de Gobierno. Los planteles conforman el Sistema de Bachillerato del Gobierno del Distrito Federal que se regirá por las Reglas Internas que para tal fin el Consejo de Gobierno apruebe.
 
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 29.
 
-Cada plantel será administrado por un Subdirector de Coordinación de Planteles, nombrado por el Director General, y ratificado por el Consejo de Gobierno.
+Cada plantel será administrado por un Subdirector de Coordinación de Planteles, el cual podrá ser nombrado de entre el personal académico por el Director General, y ratificado por el Consejo de Gobierno.
+
+Una vez concluida su gestión, si así fuera el caso, el Subdirector de Coordinación de Planteles se reincorporará al personal académico.
 
 ###### Artículo 30.
 
@@ -713,3 +717,11 @@ Directora General del Instituto de Educación Media Superior del Distrito Federa
 (firma)
 
 (Firma)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 13 DE OCTUBRE DE 2006.
+
+Primero. Publíquese la presente reforma en la Gaceta Oficial del Distrito Federal.
+
+Segundo. La presente reforma entrará en vigor a partir de su publicación en la Gaceta Oficial del Distrito Federal.
