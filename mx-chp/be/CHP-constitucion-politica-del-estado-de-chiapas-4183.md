@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2004-11-09"
+last_updated: "2006-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2006.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -343,7 +343,7 @@ El Instituto de Investigaciones Legislativas tendrá a su cargo el Secretariado 
 
 La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídicos y Comunicación Social dependerán de la Junta de Coordinación Política; la Secretaría de Servicios Parlamentarios y el Instituto de Investigaciones Legislativas dependerán de la Mesa Directiva y las Unidades de Apoyo que se creen guardarán la relación de dependencia que señale la Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2006)</small>
 
 ## TITULO TERCERO. DE LOS PODERES PUBLICOS
 
@@ -355,11 +355,13 @@ La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídi
 
 ###### ARTICULO 16.
 
-El Congreso del Estado se integra con Diputados electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado se integra en su totalidad con Diputados Electos cada tres años. La elección de Diputados se verificará el primer domingo de julio del año de la elección. Por cada Diputado propietario se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
 
 La renovación del Congreso del Estado se realizará a través de elecciones auténticas, periódicas y mediante sufragio universal, libre, secreto y directo, sujeta a los principios de mayoría relativa y de representación proporcional, en los términos de esta Constitución y de la Legislación Electoral.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
 
@@ -903,7 +905,7 @@ VII. No haber sido condenado por delito que amerite pena corporal de más de un 
 
 VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni por afinidad en los dos primeros o relación conyugal con el Gobernador en ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2006)</small>
 
 ## TITULO QUINTO BIS. DE LOS ORGANOS AUTONOMOS DEL ESTADO
 
@@ -911,9 +913,9 @@ VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni p
 
 ###### ARTICULO 36.
 
-El Gobernador electo por sufragio popular en elecciones ordinarias entrará a ejercer su cargo el 8 de diciembre y durará en él 6 años.
+El Gobernador electo por sufragio popular en elecciones ordinarias, entrará a ejercer su cargo el ocho de diciembre del año de la elección, y durará en él seis años.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE ABRIL DE 1995)</small>
+Las Elecciones ordinarias para Gobernador, a que se refiere el párrafo anterior, se llevarán a cabo el mismo día en que se efectúen las elecciones ordinarias para elegir Presidente de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1417,13 +1419,17 @@ E) No prestar servicios a Gobiernos o Instituciones Extranjeros; y
 
 F) Los demás que establezca la legislación respectiva.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 61.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, durarán en su cargo tres años y no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período. La prohibición anterior comprende a todos los miembros del Ayuntamiento sin importar el cargo que hayan desempeñado.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, durarán en su encargo tres años y no podrán ser reelectos para el período inmediato.
 
-Los Ayuntamientos deberán tomar posesión el día primero de enero, siguiente a su elección.
+Los Ayuntamientos deberán tomar posesión el día primero de enero siguiente al de su elección. Las elecciones ordinarias, para elegir a los miembros de los Ayuntamientos antes mencionados, se llevarán a cabo el primer domingo de julio del año de la elección.
+
+Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos mencionados en el párrafo anterior, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período.
+
+Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período. La prohibición anterior comprende a todos los miembros del Ayuntamiento sin importar el cargo que hayan desempeñado.
 
 Si por cualquier circunstancia no se hubiese efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso del Estado tendrá la facultad para decidir la celebración de elecciones extraordinarias o para designar un Concejo Municipal integrado por un mínimo de tres y un máximo de cinco personas.
 
@@ -2776,3 +2782,17 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 Tercero.- Las reformas relacionadas con la creación de la Comisión de los Derechos Humanos, entrarán en vigor, el mismo día de su publicación.
 
 Cuarto.- A partir de la vigencia, señalada en el artículo anterior, el Ejecutivo del Estado, deberá enviar al Congreso del Estado, la terna respectiva, para designar al Presidente de la Comisión de los Derechos Humanos. Así mismo, las propuestas correspondientes, para el nombramiento de los Consejeros, del Consejo General, de la propia Comisión de los Derechos Humanos.
+
+P.O. 14 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto de Reformas y Adiciones a la Constitución, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Para los efectos de la presente Reforma Constitucional, los Diputados miembros de la Sexagésima Segunda Legislatura del Congreso del Estado, concluirán sus funciones legislativas, por única vez, el día 15 de noviembre del año 2008.
+
+Artículo Cuarto.- Los Diputados integrantes de la Sexagésima Tercera Legislatura del Congreso del Estado, serán electos el primer domingo de julio del año 2008 y, por única vez, durarán en su encargo cuatro años, iniciando sus funciones legislativas el día 16 de noviembre de 2008, para concluir el día 15 de noviembre del año 2012.
+
+Artículo Quinto.- Para los efectos de la presente Reforma Constitucional, los miembros de los Ayuntamientos actuales, por única vez, concluirán su encargo, el día 31 de diciembre del año 2008.
+
+Artículo Sexto.- Los integrantes de los Ayuntamientos que tomen posesión el día primero de enero del año 2009, serán electos el primer domingo del mes de julio del año 2008, y por única vez, durarán en su encargo cuatro años, para concluir el día 31 de diciembre del año 2012.
