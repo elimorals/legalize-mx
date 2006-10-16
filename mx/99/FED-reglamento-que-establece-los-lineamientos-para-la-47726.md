@@ -4,7 +4,7 @@ identifier: "FED-reglamento-que-establece-los-lineamientos-para-la-47726"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-03"
-last_updated: "2005-12-26"
+last_updated: "2006-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-18"
 
 REGLAMENTO QUE ESTABLECE LOS LINEAMENTOS PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE OCTUBRE DE 2006.
 
 Acuerdo publicado en la Primera y Segunda Secciones del Diario Oficial de la Federación, el viernes 3 de enero de 2003.
 
@@ -193,8 +193,6 @@ PRIMERO. Se modifica la denominación del “Reglamento que Establece los Lineam
 
 SEGUNDO.- Se modifica el Reglamento señalado en el punto de acuerdo anterior, para quedar como sigue:
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE ORDENAMIENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DE 26 DE DICIEMBRE DE 2005</small>
-
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS NACIONALES
@@ -257,9 +255,13 @@ q) Organizaciones sociales o adherentes: entes que mantienen una relación insti
 
 r) SHCP: Secretaría de Hacienda y Crédito Público;
 
-s) CNBV: Comisión Nacional Bancaria y de Valores; y
+s) CNBV: Comisión Nacional Bancaria y de Valores; y (sic)
 
-t) Salario mínimo: Salario mínimo general diario vigente en el Distrito Federal.
+t) Salario mínimo: Salario mínimo general diario vigente en el Distrito Federal;
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2006)</small>
+
+u) Frente: La asociación de dos o más partidos para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes registrados ante el Instituto en términos de lo dispuesto en el artículo 57, párrafo 2 del COFIPE.
 
 1.3. Tanto los ingresos en efectivo como en especie que reciban los partidos por cualquiera de las modalidades de financiamiento, deberán registrarse contablemente y estar sustentados con la documentación original correspondiente, en términos de lo establecido por el Código y el presente Reglamento.
 
@@ -636,6 +638,50 @@ d) Dentro de los primeros treinta días de cada año los partidos deberán notif
 8.5. Todos los egresos efectuados con los recursos transferidos conforme al presente artículo deberán estar soportados de conformidad, en lo conducente, con lo dispuesto en el capítulo III del presente título. Las facturas o recibos emitidos por el CDE, la fundación, el instituto de investigación, o la organización adherente que reciba los recursos transferidos, sólo tendrán validez como comprobantes precisamente de la transferencia, pero en todo caso el partido deberá presentar los comprobantes de los gastos finales realizados con dichos recursos, emitidos por los proveedores de bienes o servicios. De no permitirse a la autoridad electoral el ejercicio de sus facultades de verificación en los términos referidos en el presente artículo, el partido se hará sujeto a las sanciones que correspondan.
 
 8.6. Cada comité estatal, organización adherente, fundación o instituto de investigación deberá controlar el uso y destino de las transferencias en efectivo o en especie que reciban del CEN, de conformidad con lo establecido en los artículos 8.5, 13.2, 24.1, 24.2 y 24.3 del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 8
+
+ARTICULO 8-A
+
+De los recursos destinados a los Frentes
+
+8.A.1 Cada partido político que forme parte de un Frente se sujetará, al administrar sus recursos para tales efectos, a las reglas siguientes:
+
+a) Deberá depositar los recursos en efectivo en cuentas bancarias específicas de cada uno de los partidos integrantes del Frente. Las cuentas bancarias se identificarán como CBFTE -(PARTIDO)-(FRENTE)-(NUMERO). Los recursos que ingresen a esta cuenta deberán provenir de la cuenta CB-CEN del partido que realiza la transferencia. Los estados de cuenta respectivos deberán conciliarse mensualmente y el órgano de finanzas del partido los remitirá a la autoridad electoral cuando ésta lo solicite o así lo establezca el Reglamento.
+
+b) Deberá aperturar a su nombre la cuenta bancaria CBFTE -(PARTIDO)-(FRENTE)-(NUMERO) a que se refiere el inciso a) y administrarla mancomunadamente por quienes autorice el encargado del órgano de finanzas del partido.
+
+c) Los recursos destinados a la consecución de los fines de un Frente deberán registrarse en cuentas específicas en la contabilidad del partido para tal efecto, en las que se especifique su destino y deberán conservarse las pólizas de los cheques correspondientes junto con los recibos internos que debe expedir el CEN. En tales recibos tiene que constar la fecha, monto, cuenta de origen, cuenta de destino, identificación del receptor, y la firma autógrafa del funcionario autorizado por el órgano de finanzas del partido.
+
+d) No deberán ingresar a la cuenta bancaria CBFTE -(PARTIDO)-(FRENTE)-(NUMERO) a que se refiere el inciso a) recursos provenientes de la recepción de aportaciones en efectivo (simpatizantes o militantes), eventos de autofinanciamiento, recursos locales (operación ordinaria o campaña), así como los provenientes del financiamiento público para actividades de campaña.
+
+e) Deberá abstenerse transferir recursos de su cuenta CBFTE -(PARTIDO)-(FRENTE)-(NUMERO) a las cuentas de la misma naturaleza de los otros partidos integrantes del Frente.
+
+f) En las cuentas contables del partido deberán identificarse y registrarse todos los gastos efectuados con los recursos destinados a la consecución de los fines del Frente, de conformidad con el Catálogo de Cuentas previsto en el Reglamento.
+
+g) Los comprobantes de los egresos deberán ser emitidos a nombre del partido que los realizó por los proveedores de bienes o servicios y deberán cumplir con lo dispuesto en el capítulo III del presente título.
+
+h) En todo caso y circunstancia, deberá de abstenerse de realizar pagos de Reconocimientos por Actividades Políticas con cargo a su cuenta CBFTE -(PARTIDO)-(FRENTE)-(NUMERO).
+
+i) Desde un mes antes del inicio de las campañas electorales federales y hasta un mes posterior a la conclusión de éstas, en ningún caso y por ninguna circunstancia, los partidos podrán destinar recursos en efectivo o especie para financiar actividades relacionadas con la consecución de los fines del Frente.
+
+j) Los partidos políticos integrantes del Frente no podrán utilizar las prerrogativas dedicadas a éste para financiar, entre otras, las siguientes actividades:
+
+I. Actividades de apoyo electoral a cualquier aspirante a cargo de elección popular federal, local o municipal antes y durante los procesos de selección interna que los partidos celebren; así como durante los periodos de campaña electoral que señalen las leyes del ámbito territorial que corresponda.
+
+II. Administración y operación de los procesos de selección interna de candidatos que celebre cualquiera de los partidos integrantes del Frente.
+
+III. Actividades señaladas en los artículos 182-A, párrafo 2; y 183 a 190 del Código Federal de Instituciones y Procedimientos Electorales.
+
+IV. Se considerarán para efectos de lo establecido en el artículo 182-A, párrafo 2, los gastos comprendidos dentro del artículo 17.2 del Reglamento, asimismo, para tal efecto, se tomarán en cuenta los criterios establecidos en los artículos 17.4 y 17.6 del Reglamento.
+
+En caso de que los partidos políticos incurran en conductas contrarias a lo dispuesto en el presente inciso, la Comisión las considerará, según sea el caso, para efectos de los informes de ingresos y gastos de los procesos de selección interna, de los periodos anuales o de campaña; así como para los topes de gastos de campaña y sanciones por faltas administrativas y/o de fiscalización.
+
+k) Al finalizar la duración del convenio celebrado para la constitución de un Frente registrado ante el Instituto, o bien hasta un mes después de su conclusión, deberán cancelar la cuenta bancaria CBFTE -(PARTIDO)-(FRENTE)-(NUMERO) y los remanentes deberán ser reintegrados a alguna cuenta CBCEN del partido. La transferencia deberá estar soportada con el recibo correspondiente.
+
+8.A.2 La Comisión podrá solicitar en cualquier tiempo a los partidos integrantes de un Frente, información sobre el monto y el destino de los recursos que transfieran para financiar las actividades del mismo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -1808,3 +1854,13 @@ NOVENO. Se derogan todas aquellas disposiciones que se opongan a lo establecido 
 DECIMO. La Secretaría Ejecutiva, en el ejercicio de sus atribuciones, instruirá a la Dirección Ejecutiva de Administración para que ésta provea a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, en su calidad de Secretaría Técnica de la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas, de los recursos humanos, materiales y financieros necesarios para realizar los cometidos derivados del presente Reglamento. Dichos recursos deberán estar previstos en las modificaciones al presupuesto de egresos del Instituto Federal Electoral para el ejercicio 2006 que sea aprobado por el Consejo General en la sesión respectiva.
 
 DECIMO PRIMERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE OCTUBRE DE 2006.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+ANEXO UNICO
+
+AF. FORMATO “IA” - INFORME ANUAL
+
+(VEASE ARCHIVO ANEXO)
