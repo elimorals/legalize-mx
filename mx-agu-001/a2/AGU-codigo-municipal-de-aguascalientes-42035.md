@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2006-01-23"
+last_updated: "2006-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
 
@@ -4917,9 +4917,11 @@ VII. Local: Lugar o espacio asignado al titular de un permiso dentro del mercado
 
 VIII. Zonificación de Giros: Agrupamiento de locatarios que en un área del mercado comercialicen productos o mercancías similares.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 488.
 
-La Dirección de Mercados, es la autoridad responsable del funcionamiento, vigilancia y administración de los mismos, para lo cual cuenta con las siguientes atribuciones:
+La Dirección de Mercados, Estacionamientos y Áreas Comerciales, es la autoridad responsable del funcionamiento, vigilancia y administración de los mismos, para lo cual cuenta con las siguientes atribuciones.
 
 I. Vigilar el cumplimiento de las disposiciones de este capítulo y del Código;
 
@@ -4933,9 +4935,17 @@ V. Determinar horarios y ubicaciones, según los giros comerciales;
 
 VI. Atender quejas de los locatarios, vecinos y público en general y levantar actas administrativas e imponer infracciones por el incumplimiento del presente capítulo;
 
-VII. Mantener la seguridad y el orden público dentro de los mercados, así como en buen estado y funcionamiento el servicio sanitario; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-VIII. Otorgar licencias para uso de los locales de los mercados, así como concesionar el servicio sanitario.
+VII. Mantener la seguridad y el orden público dentro de los mercados, así como en buen estado y funcionamiento el servicio sanitario;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+VIII. Otorgar licencias para uso de los locales de los mercados, así como concesionar el servicio sanitario; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
+
+IX. La donación de bienes perecederos de conformidad con lo dispuesto en el artículo 1742.
 
 ###### ARTICULO 489.
 
@@ -17623,21 +17633,23 @@ V. Credencial o Gáfete.- Es el documento que da derecho exclusivo para ejercer 
 
 El titular de este documento podrá designar dos suplentes mismos que serán acreditados por la autoridad, previo cumplimiento de lo establecido en el presente artículo;
 
-VI. Comité Dictaminador.- Será el Organo encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública, exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+VI. Comité Dictaminador.- Será el Órgano encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo. Asimismo tendrá la facultad de ordenar la disposición final de bienes no perecederos que por su condición o estado no puedan ser objeto de donación, conforme a lo dispuesto por el artículo 1742 del presente Código.
 
 Estará integrado por:
 
-a) El Director de Mercados y Estacionamientos Públicos;
+a) El Regidor Presidente de la Comisión de Mercados, Rastros y Estacionamientos;
 
-b) El Subdirector de Mercados;
+b) El Director de Mercados, Estacionamientos y Áreas comerciales;
 
-c) El Jefe del Departamento de áreas Comerciales;
+c) Un Representante de la Secretaría de Desarrollo Urbano;
 
-d) Un Representante de la Secretaría de Desarrollo Urbano;
+d) Un Representante de la Delegación Municipal correspondiente;
 
-e) Un Representante de la Delegación Municipal correspondiente; y
+e) Un Representante de los comerciantes elegido de entre ellos; y
 
-f) Un Representante de todos los comerciantes elegido de entre ellos.
+f) Un Representante de la Contraloría Municipal.
 
 VII. Se consideran zonas prohibidas: aquellas donde no se podrá autorizar actividad de comercio en vía pública.
 
@@ -17657,7 +17669,9 @@ La Dirección de Mercados la cuál podrá delegar sus facultades administrativas
 
 Corresponde a:
 
-El Regidor Titular de la Comisión de Mercados del H. Ayuntamiento:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+La Dirección de Mercados, Estacionamientos y Áreas Comerciales:
 
 I. Vigilar el cumplimiento de lo dispuesto en este capítulo y en el Código Municipal;
 
@@ -17703,9 +17717,15 @@ XVI. Levantar las actas administrativas e infracciones que correspondan por el i
 
 XVII. Aplicar las sanciones previstas en este capítulo;
 
-XVIII. Determinar las zonas restringidas para el comercio en vía pública de acuerdo al Plan de Desarrollo Municipal; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-XIX. Las demás que le señale este Código y otras disposiciones legales aplicables y conforme lo determine el interés público.
+XVIII. Determinar las zonas restringidas para el comercio en vía pública de acuerdo al Plan de Desarrollo Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
+
+XIX. Dar en donación bienes perecederos en los términos de lo dispuesto por el artículo 1742 de este Código; y
+
+XX. Las demás que le señale este Código y otras disposiciones legales aplicables y conforme lo determine el interés público.
 
 Las Delegaciones Municipales:
 
@@ -20073,17 +20093,21 @@ La suspensión deberá perdurar hasta que el infractor realice el pago de la o l
 
 Cuando se compruebe que el infractor es personal de la Dirección de Mercados, se le aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y en lo conducente el presente Código.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 1742.
 
-Para proceder a la suspensión de actividades como medida de seguridad, el inspector deberá de notificar al comerciante para que suspenda sus actividades y se retire inmediatamente de la vía pública, bajo apercibimiento que en caso de no hacerlo, se procederá a retirar los bienes y mercancías que constituyen el puesto ambulante, permanente o establecimiento, poniéndolo a su disposición en la bodega de la Dirección de Mercados.
+Para proceder a la suspensión de actividades como medida de seguridad, el inspector deberá de notificar al comerciante para que suspenda sus actividades y se retire inmediatamente de la vía pública, bajo apercibimiento que en caso de no hacerlo, se procederá a retirar los bienes y mercancías que constituyen el puesto ambulante, permanente o establecimiento, poniéndolo a su disposición en la bodega de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
 El verificador podrá solicitar para tal efecto el uso de la fuerza pública.
 
-En caso de que en el puesto tenga mercancía perecedera, le será entregada al propietario en la propia Dirección.
+En caso de que en el puesto tenga mercancía perecedera, en el acta que levante el verificador, asentará el plazo con el que el infractor cuenta para recuperar su mercancía, que será de una a veinticuatro horas, pasado este tiempo la Dirección podrá disponer de la mercancía asegurada sin responsabilidad para la autoridad municipal, dándola en donación a instituciones de asistencia social, la mercancía reclamada dentro del plazo señalado, le será entregada al propietario en la propia Dirección.
 
-Los infractores que deseen recuperar su mercancía están obligados a pagar la infracción, contando con veinticuatro horas si son bienes perecederos y de cuarenta y cinco días si son duraderos.
+Los infractores que deseen recuperar su mercancía están obligados a pagar la infracción, dentro del plazo señalado en el acta si son bienes merecedores y de cuarenta y cinco días si son duraderos.
 
-Los bienes que no se recojan en el tiempo señalado, previo acuerdo del Cabildo, serán donados a instituciones de beneficencia pública, a través del D.I.F. Municipal, sin responsabilidad para la autoridad municipal.
+Los bienes duraderos que no se recojan en el tiempo señalado, previo acuerdo del Cabildo, serán donados a través del D.I.F. Municipal, sin responsabilidad para la autoridad municipal.
+
+En el caso de artículos no perecederos que por su condición o estado, no puedan ser objeto de donación, el comité Dictaminador procederá a ordenar lo que legalmente proceda, previa elaboración de acta circunstanciada que al efecto se levante.
 
 ###### ARTICULO 1743.
 
@@ -20316,3 +20340,7 @@ PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguien
 SEGUNDO.- Las Secretarías, Direcciones, Subdirecciones, Coordinaciones o Departamentos que hayan cambiando de nombre o adscripción con la presente reforma conservarán todas sus facultades, competencias y atribuciones que cada una de ellas tienen establecidas al día de hoy en este ordenamiento, hasta en tanto se realicen las reformas necesarias con respecto a sus funciones.
 
 TERCERO.- El actual Director General de Seguridad Pública y Tránsito Municipal asumirá las funciones de Encargado de Despacho de la Secretaría de Seguridad Pública y Tránsito, hasta en tanto el H. Ayuntamiento de Aguascalientes tenga a bien cumplir con lo que establece el artículo 36 fracción LVIII de la Ley Municipal para el Estado.
+
+P.O. 16 DE OCTUBRE DE 2006.
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
