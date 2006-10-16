@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2002-10-30"
+last_updated: "2006-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -79,9 +79,13 @@ VIII.- Otras autoridades relacionadas con la seguridad pública.
 
 Las autoridades de Seguridad Pública del Estado dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Procurador General de Justicia y Subprocurador del Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-Los servidores públicos señalados en el párrafo anterior tendrán derecho a que los Cuerpos de Seguridad Pública del Estado otorguen protección a su integridad física y a la de su familia durante el ejercicio de su encargo y hasta los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
+Las autoridades de Seguridad Preventiva de los municipios dictarán las medidas conducentes para brindar la protección necesaria a los Secretarios de la Policía Preventiva Municipal o Titular de la Policía Municipal y a los Directores o Subdirectores operativos, por lo que se afectarán las provisiones necesarias en el presupuesto anual del Municipio correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+Los servidores públicos señalados en los párrafos anteriores tendrán derecho a que los Cuerpos de Seguridad Pública del Estado o del Municipio, según corresponda, otorguen protección a su integridad física y de su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado durante el ejercicio de su encargo y hasta los dos años siguientes a la conclusión del mismo, siempre y cuando se haya desempeñado en el cargo por un tiempo mínimo de un año, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
 
 ###### Artículo 5o.
 
@@ -976,3 +980,9 @@ El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, d
 P.O. 30 DE OCTUBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Gozarán de esta protección o beneficio quienes actualmente se desempeñen en el cargo y quienes en el futuro lo desempeñen deberán tener como mínimo un año en el cargo, en la inteligencia de que la autoridad en caso de que por motivos graves lo considere conveniente le otorgue la protección aún y cuando no tenga esa antigüedad.
