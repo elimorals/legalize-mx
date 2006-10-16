@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2005-12-27"
+last_updated: "2006-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -91,11 +91,9 @@ II.- Derechos son las contribuciones establecidas en Ley por el uso o aprovecham
 
 III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de tareas estatales o municipales provocadas por las actividades del contribuyente. Su rendimiento no debe tener un destino ajeno al financiamiento de las obras o actividades correspondientes.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1o.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -103,7 +101,9 @@ Los recargos, las sanciones, los gastos de ejecución y la indemnización a que 
 
 Son aprovechamientos los ingresos distintos de las contribuciones que percibe el Estado por funciones de derecho público, los ingresos derivados de financiamientos y los que obtengan los organismos descentralizados que no tengan la naturaleza de derechos.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de estos y participan de su naturaleza.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
 Son productos, las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -2856,3 +2856,7 @@ P.O. 27 DE DICIEMBRE DE 2005.
 Artículo Primero.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
 
 Artículo Segundo.- Los procedimientos promovidos con anterioridad al inicio de la vigencia del presente Decreto se regirán por la legislación que se encontraba en vigor a la fecha de su promoción.
+
+P.O. 16 DE OCTUBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
