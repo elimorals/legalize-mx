@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-05-03"
+last_updated: "2006-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -673,25 +673,33 @@ III. Concluida la votación, el Secretario procederá a efectuar el cómputo y d
 
 Se realizará votación nominal o por cédula cuando algún miembro del Ayuntamiento lo solicite, y la mayoría lo apruebe en ese sentido.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 86.
 
-Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento, serán económicas; la votación económica, consistirá en levantar la mano. En este caso el Secretario solicitará el sentido de los votos a favor, en contra y abstenciones.
+Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento, serán económicas; la votación económica consistirá en levantar la mano. En este caso el Secretario solicitará el sentido de los votos a favor o en contra.
 
 ###### Artículo 87.
 
 En caso de empate, independientemente de la forma de ejercer el voto empleado, el Presidente Municipal, resolverá el asunto en cuestión en ejercicio de su voto de calidad.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 88.
 
-Los Regidores se abstendrán de votarse a sí mismos y de votar en asuntos en los que tengan interés personal.
+El Presidente, los Regidores y el Síndico deberán votar todo proyecto de acuerdo, dictamen o resolución que se ponga a su consideración, y sólo podrán abstenerse de ello por disposición de ley.
+
+Se considera que existe causa justificada para abstenerse de votar, cuando se trate de votarse a sí mismo o en asuntos en los que tengan un interés personal que condicione la emisión de una opinión objetiva e imparcial por existir vínculos familiares, económicos o intereses de alguna otra clase.
 
 ###### Artículo 89.
 
 Mientras se realiza la votación ningún integrante del Ayuntamiento podrá retirarse del recinto ni excusarse de votar salvo por lo dispuesto en este Capítulo.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 90.
 
-En caso de que un miembro del Ayuntamiento se ausente del salón de sesiones se entenderá que su voto es en el sentido de abstención.
+En caso de que un miembro del Ayuntamiento, se ausente del Salón de Sesiones se entenderá que su voto es en el sentido de la mayoría.
 
 ###### Artículo 91.
 
@@ -753,7 +761,9 @@ I. Se reunirán previa convocatoria de su presidente, comunicada a los restantes
 
 II. La reunión será válida si asisten la mayoría de los integrantes de la comisión, entre los que deberá estar su Presidente. En caso contrario, se hará una segunda convocatoria para celebrarla a más tardar al siguiente día hábil y, en tal caso, la reunión se celebrará válidamente con los miembros que concurran;
 
-III. Las resoluciones se tomarán por mayoría de votos de los integrantes que asistan a la reunión. En caso de empate, el Presidente de la comisión tendrá voto de calidad;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+III. Las resoluciones se tomarán por mayoría de votos de los integrantes que asistan a la reunión, y en ningún caso los Regidores integrantes de la misma con derecho a voto, podrán abstenerse de hacerlo, salvo cuando la propia comisión considere que están impedidos por disposición legal. En caso de empate, el Presidente de la comisión tendrá voto de calidad;
 
 IV. Las comisiones actuarán con plena libertad en los trabajos de discusión, análisis y resolución de los asuntos que les correspondan;
 
@@ -11277,7 +11287,7 @@ Ri. Respuesta del modo
 
 T. Periodo natural de intereses
 
-Ta. límite (sic) inferior de la meseta espectral
+Ta. límitev inferior de la meseta espectral
 
 Tb. límite (sic) superior de la meseta espectral
 
@@ -11553,7 +11563,7 @@ Pi = Wihi (i Wi/c Q;c/Q>a)
 
 Donde:
 
-Wi = Peso del nivel ¡
+Wi= Peso del nivel ¡
 
 h¡ = Altura del nivel ¡ sobre el desplante
 
@@ -11567,7 +11577,7 @@ g (P¡ X¡)
 
 Donde:
 
-Wi: Peso del nivel i
+W i: Peso del nivel i
 
 Pi: Fuerza lateral de inercia en el nivel i
 
@@ -11589,7 +11599,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(-q)W¡
+a¡ = (1-r(1-q)W¡
 
 W¡h¡
 
@@ -11603,7 +11613,7 @@ III. Péndulos Invertidos.
 
 Los péndulos invertidos son estructuras en que 50 por ciento o más de su masa se halla en el extremo superior y tiene un solo elemento resistente en la dirección de análisis o una sola hilera de columnas perpendicular a esta. En el análisis estático de estas estructuras, además de la fuerza lateral estipulada se tendrá en cuenta la aceleración angular de la masa superior asociada al giro de dicha masa con respecto a un eje horizontal normal a la dirección de análisis y que pase por el punto de unión entre la masa y el elemento resistente. El efecto de dicha aceleración se tomará equivalente a un par aplicado en el extremo superior del elemento resistente, cuyo valor es igual a
 
-M = 1.5Pr2°Q/X
+M=1.5Pr2°Q/X
 
 donde r° es el radio de giro de la masa con respecto al eje en cuestión; x y f son el desplazamiento lateral y el giro, respectivamente, del extremo superior del elemento resistente bajo la acción de la fuerza lateral P que actúa sobre la masa de acuerdo con la fracción I de este artículo.
 
@@ -26470,3 +26480,9 @@ TERCERO.- Se Instruye al Presidente Municipal y al Secretario del Honorable Ayun
 P.O. 3 DE MAYO DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 18 DE OCTUBRE DE 2006.
+
+PRIMERO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las demás disposiciones que sean contrarias al presente Decreto.
