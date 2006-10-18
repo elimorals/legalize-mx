@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-administrativo-del-instituto-de-52421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2005-06-15"
+last_updated: "2006-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR ADMINISTRATIVO DEL ISSTECH
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE CHIAPAS: 18 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 15 de junio de 2005.
 
@@ -106,19 +106,33 @@ Unidad Jurídica
 
 Unidad de Supervisión y Atención al Derechohabiente
 
-Unidad de Adquisiciones y Suministros
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
 
 Subdirección General
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
 Unidad de Planeación
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
 
 Unidad de Tecnologías de Información
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
 Subdirección de Prestaciones Socioeconómicas
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
 
 Subdirección de Servicios Médicos
 
-Subdirección de Administración y Finanzas
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+Subdirección de Administración
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+Subdirección de Finanzas
 
 Órganos Desconcentrados
 
@@ -184,7 +198,13 @@ Subdirección de Servicios Médicos.
 
 Subdirección de Prestaciones Socioeconómicas.
 
-Subdirección de Administración y Finanzas.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+Subdirección de Administración.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+Subdirección de Finanzas.
 
 Unidad de Planeación.
 
@@ -336,59 +356,55 @@ XIX.- Formular el Programa Operativo Anual de la Subdirección de Servicios Méd
 
 XX.- Las demás que le confieren las disposiciones legales aplicables, el Manual General de Organización y las que le encomiende la Dirección General y/o la Subdirección General del Instituto, en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 18.
 
-De conformidad con la estructura orgánica del Instituto, la Subdirección de Administración y Finanzas contará con los órganos administrativos siguientes: Coordinación de Ingeniería y Mantenimiento.
-
-Departamento de Control Presupuestal.
-
-Departamento de Tesorería.
-
-Departamento de Contabilidad.
+De conformidad con la estructura orgánica del Instituto, la Subdirección de Administración contará con los órganos administrativos siguientes:
 
 Departamento de Administración de Personal.
 
-Departamento de Recursos Materiales.
+Departamento de Abastecimientos Médicos.
+
+Departamento de Adquisiciones.
+
+Departamento de Mantenimiento y Servicios Generales.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 19.
 
-El Subdirector de Administración y Finanzas atenderá el despacho de los siguientes asuntos:
+El Subdirector de Administración atenderá el despacho de los siguientes asuntos:
 
-l.- Planear, organizar y controlar los recursos humanos, financieros y materiales con que cuenta el Instituto, con base en el marco normativo de la administración pública estatal; así como emitir las normas internas que garanticen su mejor administración.
+I.- Planear y dirigir políticas y estrategias para el desarrollo de los servicios administrativos institucionales.
 
-II.- Definir y establecer objetivos y políticas en materia de administración, desarrollo de personal y relaciones laborales.
+II.- Emitir y vigilar el cumplimiento de la normatividad de los procesos de los servicios de abastecimiento, equipamiento, construcción, conservación y servicios generales, así como de administración de personal, de acuerdo con las leyes, reglamentos y políticas establecidas en la materia.
 
-III.- Promover e instrumentar el desarrollo de los programas inductivos, de entrenamiento y eje desarrollo, encaminados a consolidar los sistemas y procesos que permitan crear y/o fortalecer la cultura de trabajo, de competitividad, de calidad y de excelencia.
+III.- Emitir, en los términos de las disposiciones legales aplicables, los lineamientos, bases y normas especificas para la contratación de adquisiciones arrendamientos y servicios, así con de obra pública y servicios relacionados con la misma.
 
-IV.- Definir y establecer objetivos, políticas y procedimientos para la administración de los recursos financieros y materiales, así como de los servicios generales del Instituto.
+IV.- Vigilar y coordinar la planeación integral y estratégica del abastecimiento institucional, estableciendo los lineamientos para la programación y presupuestación de las adquisiciones de bienes y servicios.
 
-V.- Planear, dirigir y controlar las actividades referentes al patrimonio del Instituto.
+V. Vigilar la eficiencia del proceso de abasto institucional de bienes de consumo y de inversión.
 
-VI.- Efectuar las operaciones financieras del Instituto, conforme a las disposiciones legales en la materia.
+VI.- Sancionar las solicitudes de requerimientos de medicamentos, materiales y suministros médicos, equipamiento, demás materiales y servicios, con base a los niveles de inventario.
 
-VII.- Cumplir con los objetivos que marca la Ley del Instituto en el Capítulo 13, artículos 161 al 168, que establece las disposiciones relativas al patrimonio, reservas e inversiones del Instituto.
+VII.- Vigilar el cumplimiento de la normatividad en materia de contratación de servicios, sistema electrónico de contrataciones gubernamentales (Compranet) y programa anual de contratación de servicios del ámbito institucional.
 
-VIII.- Vigilar y controlar el cobro oportuno de los ingresos presupuestarios por concepto de cuotas y aportaciones, así como de las recuperaciones por préstamos otorgados y demás ingresos que perciba el Instituto.
+VIII.- Vigilar la eficiencia de los procesos de conservación y los que corresponden a los servicios generales.
 
-IX.- Proponer medidas tendientes a modernizar y mejorar los sistemas y procedimientos para efectuar el recibo, control, desembolso y custodia de los fondos, valores y depósitos.
+IX.- Vigilar que los estudios, dictámenes, supervisión y planificación de obras se haga con estricto apego a las disposiciones y políticas establecidas para el efecto.
 
-X.- Firmar la documentación necesaria para las erogaciones o pagos que con cargo al presupuesto de egresos autorizado, deba ejercer el Instituto.
+X.- Supervisar que los programas para la construcción, adaptación y remodelación de obras, se lleven a cabo de acuerdo a las necesidades de las instalaciones del Instituto y apegándose a la normatividad vigente.
 
-XI.- Elaborar los estados financieros, presupuestarios y demás informes relativos al patrimonio y reservas del Instituto.
+XI.- Establecer y vigilar que se mantengan actualizados los sistemas y procedimientos para una mejor administración y aprovechamiento de los recursos humanos.
 
-XII.- Ejecutar las resoluciones respecto de las sanciones administrativas a que se haga acreedor el personal del Instituto.
+XII.- Impulsar el desarrollo de los recursos humanos, haciendo cumplir los programas de capacitación, adiestramiento, incentivos, análisis de puesto y calificación de méritos.
 
-XIII.- Acordar con la Dirección General los nombramientos de los empleados, los movimientos de personal y resolver sobre los casos de terminación de los efectos del nombramiento.
+XIII.- Coordinar las acciones de política laboral del Instituto, así como llevar el seguimiento al cumplimiento de acuerdos pactados con el SUTSISSTECH.
 
-XIV.- Programar y supervisar que se otorgue el mantenimiento preventivo y correctivo a los equipos e inmuebles propiedad del Instituto.
+XIV.- Supervisar la Entrega-Recepción de las diferentes unidades administrativas del Instituto, para verificar su correcta integración de acuerdo a la normatividad establecida.
 
-XV.- Supervisar que los programas para la construcción, adaptación y remodelación de obras, se lleven a cabo de acuerdo a las necesidades de las instalaciones del Instituto y apegándose a la normatividad vigente.
-
-XVI.- Supervisar los avances físicos y financieros de obras de mantenimiento y construcción, vigilando que se cumpla en calidad, volumen, costo y tiempo; y que se apeguen a los presupuestos autorizados.
-
-XVII.- Realizar los estudios e investigaciones financieras que permitan implantar los mecanismos adecuados para el manejo y administración de las inversiones, así como evaluar la productividad y rentabilidad de las mismas.
-
-XVIII.- Las demás que le confieren las disposiciones legales aplicables, el Manual General de Organización y la Dirección General y/o la Subdirección General del Instituto en el ámbito de su competencia.
+XV.- Las demás que le confieren las disposiciones legales aplicables, el Manual General de Organización y la Dirección General y/o Subdirección General del Instituto en el ámbito de su competencia.
 
 ### Capítulo III. Integración de las Unidades y Facultades de sus Titulares
 
@@ -550,7 +566,9 @@ VI.- Fungir como enlace con el Despacho Actuarial, en la elaboración de las val
 
 VII.- Analizar y mantener actualizada la estructura orgánica y ocupacional del Instituto.
 
-VIII.- Validar la creación, cancelación, conversión y recategorización de plazas y puestos, a través de la revisión y análisis de los estudios técnicos y administrativos, en coordinación con la Subdirección de Administración y Finanzas.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+VIII. Validar la creación, cancelación, conversión y recategorización de plazas y puestos, a través de la revisión y análisis de los estudios técnicos y administrativos, en coordinación con la Subdirección de Administración.
 
 IX.- Formular en coordinación con las áreas normativas y operativas del Instituto, los manuales, reglamentos y demás documentos de carácter administrativo.
 
@@ -600,7 +618,9 @@ IV.- Formular su programa operativo anual, con base a los objetivos y metas esta
 
 V.- Proponer para su aprobación los proyectos de presupuesto y programas de trabajo, así como los manuales administrativos y de servicio.
 
-VI.- Dirigir y resolver con base a los lineamientos que fije la Subdirección de Administración y Finanzas, los asuntos del personal al servicio del órgano desconcentrado y proponer los movimientos internos del personal.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2006)</small>
+
+VI.- Dirigir y resolver con base a los lineamientos que fije la Subdirección de Administración, los asuntos del personal al servicio del órgano desconcentrado y proponer los movimientos internos del personal.
 
 VII.- Ejecutar las sanciones administrativas a que se hagan acreedores los trabajadores del órgano desconcentrado que corresponda, de conformidad con las disposiciones legales establecidas al respecto.
 
@@ -619,6 +639,10 @@ Coordinaciones Médicas Regionales.
 Casas Clínicas Geriátricas.
 
 Centro Deportivo y Cultural Tuxtla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2006)</small>
+
+Unidad Deportiva ISSTECH.
 
 Oficinas de Enlace.
 
@@ -847,3 +871,9 @@ Dado en la Sala de Juntas del Instituto de Seguridad Social de los Trabajadores 
 Los Integrantes de la Junta Directiva
 
 Nelda Rosa Camacho Alayola, Secretaria de Administración en representación del Gobernador del Estado y Presidente de la Junta Directiva.- Lic. Eduardo Chanona Solís, Subsecretario de Administración de Personal y Representante de la Secretaria de Administración y Consejera.- Lic. Jesús Evelio Rojas Morales, Secretario de Planeación y Finanzas y Consejero.- Lic. Ricardo Duque Gallegos, Director General del lSSTECH y Secretario Técnico.- C.P. Jorge Antonio Palacios Jonapá, Subdirector General del ISSTECH y Consejero.- Profr. Jorge Hugo Marín Córdova, Representante de la Sección 40 del SNTE y Consejero.- Profr. Olber Zepeda Burguete, Representante del Sindicato de la Burocracia y Consejero.- INVITADOS.- C.P. Carlos Martínez Martínez, Contralor General.- C.P. Balmores Navarrete Martínez, Comisario Público Propietario.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2006.
+
+Artículo Único.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
