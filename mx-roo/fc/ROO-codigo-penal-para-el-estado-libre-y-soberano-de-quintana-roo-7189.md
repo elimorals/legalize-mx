@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2006-09-12"
+last_updated: "2006-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -593,7 +593,9 @@ I.- Cuando no exceda de tres años, por multa o trabajo en favor de la comunidad
 
 II.- Cuando no exceda de cuatro años, por tratamiento en libertad, semilibertad, o trabajo en favor de la comunidad según se requiera, en los términos de los artículos 23, 24 y 37.
 
-Para los efectos de la conmutación, se requerirá que el reo sea delincuente primario, pague o garantice la reparación de los daños y perjuicios causados y se considere más adecuada la pena conmutativa en atención a las condiciones personales del sujeto y a los fines de ésta.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+Para los efectos de la conmutación, se requerirá que el reo sea delincuente primario, pague o garantice la reparación de los daños y perjuicios causados, que el delito no sea considerado como grave cuando se cometa en agravio de alguna persona menor de 18 años de edad o que no tenga la capacidad para comprender el significado del hecho, y se considere más adecuada la pena conmutativa en atención a las condiciones personales del sujeto y a los fines de ésta.
 
 Tratándose de la multa conmutativa de la pena de prisión, la equivalencia será en razón de hasta un día multa por un día de prisión, atendiendo a las condiciones económicas del sentenciado. La multa sustitutiva es independiente de la señalada, en su caso, como pena. Si además de la pena privativa de la libertad se impuso al sentenciado una multa como pena, deberá pagarse ésta o garantizarse su pago para que proceda la conmutación.
 
@@ -843,7 +845,7 @@ La misma pena se impondrá:
 
 I.- Al que prive de la vida a otro por móviles de piedad mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
 
-II.- A la madre que para ocultar su deshonra prive de la vida a su hijo en el momento del nacimiento o dentro de las 72 horas siguientes. Si no es por este motivo, se estará a lo previsto en el artículo 88.
+II.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2006)
 
 ### CAPITULO VI. DELITOS DE PELIGRO PARA LA VIDA O LA SALUD DE LAS PERSONAS
 
@@ -851,7 +853,9 @@ II.- A la madre que para ocultar su deshonra prive de la vida a su hijo en el mo
 
 Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de uno a siete años si el suicidio se consumare. Si el suicidio no se consuma por causas ajenas a su voluntad, pero se causen lesiones, se le impondrá hasta las dos terceras partes del máximo de la pena anterior, y si no se causan éstas, hasta la mitad.
 
-Si la persona a quien se instiga o ayuda al suicidio fuere menor de dieciséis años de edad o no tuviere capacidad de comprender la relevancia de su conducta, las penas previstas en este artículo se aumentarán hasta en una mitad más.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+Si la persona a quien se instiga o ayuda al suicidio fuere menor de dieciocho años de edad o no tuviere capacidad de comprender la relevancia de su conducta, las penas previstas en este artículo se aumentarán hasta en una mitad más.
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD PERSONAL
 
@@ -921,7 +925,9 @@ Si las lesiones fueren inferidas en riña se impondrá hasta la mitad o hasta la
 
 Al que dolosamente lesione a sus ascendientes o descendientes, a su hermano, cónyuge, concubino, adoptante o adoptado, con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de la pena que corresponda por la lesión inferida.
 
-Si las lesiones son inferidas a un menor de doce años o incapaz, sujeto a la patria potestad, tutela o custodia del tutor, además de las penas que le correspondan por la lesión producida se privará al responsable de esa potestad, tutela o custodia.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+Si las lesiones son inferidas a una persona menor de dieciocho años o que no pueda tener la capacidad de repeler el acto, sujeta a la patria potestad, tutela o custodia del tutor, la pena privativa de la libertad se aumentará en una mitad de las que le correspondan y además se privará al responsable de esa tutela o custodia y se le suspenderá de la patria potestad por igual tiempo.
 
 ###### ARTICULO 103.
 
@@ -1015,7 +1021,9 @@ La pena prevista en el artículo anterior se aumentará hasta en una mitad más,
 
 I.- Que se realice con violencia o se veje a la víctima;
 
-II.- Que la víctima sea menor de dieciséis años o mayor de setenta años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente, o
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+II.- Que la víctima sea una persona menor de dieciocho años o mayor de setenta años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente, o
 
 III.- Que la privación se prolongue por más de ocho días.
 
@@ -1047,7 +1055,9 @@ III.- Que se lleve a cabo en grupo de tres o más personas;
 
 IV.- Que se realice con violencia, se veje o se torture a la víctima, o
 
-V.- Que la víctima sea menor de dieciséis o mayor de setenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del agente.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+V.- Que la víctima sea una persona menor de dieciocho o mayor de setenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del agente.
 
 ###### ARTICULO 119.
 
@@ -1059,25 +1069,25 @@ Si el agente espontáneamente pone en libertad al secuestrado dentro de los tres
 
 ###### ARTICULO 120.
 
-Al que sustraiga o retenga a una persona por medio de la violencia física o moral o del engaño, para satisfacer algún deseo erótico sexual o para casarse con ella, se le impondrá prisión de uno a seis años.
-
-La misma pena se aplicará al que con los fines a que se refiere el artículo precedente, sustraiga o retenga a una persona menor de doce años de edad o que no tenga capacidad de comprender el hecho que se comete en su persona o que por cualquier causa no pudiera resistirlo. Si el medio que se empleare fuese la violencia la pena se aumentará hasta una mitad más.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 121.
 
-Cuando el agente contraiga matrimonio con la persona ofendida, se extinguirá la acción penal o la ejecución de la pena, en su caso, en relación con él o con los demás que intervengan en el delito, salvo que el matrimonio sea ilegal en los términos del artículo 175, siempre que el sujeto pasivo lo desee.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 122.
 
-El delito de rapto se perseguirá por querella de la persona ofendida o de su legítima representante.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2006)
 
-### CAPITULO II. ABUSOS DESHONESTOS
+### CAPITULO II. ABUSOS SEXUALES
 
 ###### ARTICULO 123.
 
 Al que amenace a otro con causarle un daño en su persona de manera reiterada y en un corto período de tiempo, o en sus bienes o en los de un tercero con quien el ofendido tenga algún vínculo, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad hasta por seis meses.
 
 ### CAPITULO III. ESTUPRO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 124.
 
@@ -1117,9 +1127,17 @@ Al que por medio de la violencia física o moral realice cópula con persona de 
 
 Si la víctima fuere impúber la prisión será de seis a veinte años y de veinte a sesenta días multa.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
 Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de seis a treinta años de prisión y de cuarenta a cien días multa.
 
-Se equipara a la violación y se sancionará con la misma pena prevista en el primer párrafo de este artículo, al que introduzca por la vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima. Cuando se cometa, aún sin el uso de la violencia, en persona que por su edad o por su estado mental no esté en posibilidades de comprender el significado del hecho o de resistir la conducta delictuosa se aplicará la sanción prevista en el tercer párrafo de este artículo.
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+Al que realice cópula por medio de la violencia física o moral con persona menor de dieciocho años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de seis a treinta años de prisión y de cuarenta a cien días de multa.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+Se equipara a la violación y se sancionará con la misma pena prevista en el primer párrafo de este artículo, al que introduzca por la vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima. Cuando se cometa, aún sin el uso de la violencia, en persona menor de doce años o por su estado mental no esté en posibilidades de comprender el significado del hecho o de resistir la conducta delictuosa se aplicará la sanción prevista en el cuarto párrafo de este artículo.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -1135,15 +1153,17 @@ III.- Cuando la violación sea cometida por dos o más personas.
 
 IV.- Cuando la violación sea cometida aprovechando la confianza depositada en el agente, sin que éste tenga relación de parentesco con la víctima.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+
 ### CAPITULO II. DELITOS EN MATERIA DE APICULTURA
 
 ###### ARTICULO 129.
 
 A quien sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto erótico sexual o lo obliguen a ejecutarlo, se le impondrá prisión de uno a tres años. La pena se aumentará hasta en una mitad más, cuando se empleare la violencia.
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
-A quien sin propósito de llegar a la cópula ejecute un acto erótico sexual en una persona menor de catorce años de edad o impúber, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de dos a cuatro años. La pena se aumentará hasta en una mitad más cuando se empleare violencia, en los casos que proceda.
+A quien sin propósito de llegar a la cópula ejecute un acto erótico sexual en una persona menor de catorce años de edad o impúber, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de tres a siete años. La pena se aumentará hasta en una mitad más cuando se empleare violencia, en los casos que proceda.
 
 ### CAPITULO III. ABIGEATO
 
@@ -1151,7 +1171,7 @@ A quien sin propósito de llegar a la cópula ejecute un acto erótico sexual en
 
 ###### ARTICULO 130.
 
-Al que por medio de seducción o engaño realice cópula consentida con mujer honesta mayor de doce años de edad y menor de dieciséis, se le impondrá prisión de dos a seis años.
+Al que por medio de seducción o engaño realice cópula consentida con persona mayor de catorce y menor de dieciocho años de edad, se le impondrá prisión de cuatro a ocho años.
 
 El delito previsto en este artículo solo será perseguido por querella de parte ofendida o de su legítimo representante.
 
@@ -1211,7 +1231,9 @@ Cuando haya pendiente un proceso que se instruya por un delito imputado a alguie
 
 En este caso, la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
+### CAPITULO II. RETENCION Y SUSTRACCIÓN DE PERSONAS MENORES DE EDAD O QUE NO TENGAN LA CAPACIDAD DE COMPRENDER EL SIGNIFICADO DEL HECHO
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 137.
 
@@ -1463,7 +1485,7 @@ Al que por cualquier medio destruya o deteriore una cosa ajena o propia, con per
 
 Si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública, o se comete por medio de inundación, incendio, minas, bombas o explosivos, la prisión será de dos a nueve años y de quince a doscientos días multa.
 
-### CAPITULO III(SIC). ASOCIACION DELICTUOSA
+### CAPITULO III (SIC). ASOCIACION DELICTUOSA
 
 ###### ARTICULO 163.
 
@@ -1505,15 +1527,25 @@ No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el oblig
 
 Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la Ley determina, se le impondrá prisión de seis meses a tres años. El Juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
 
-### CAPITULO I(SIC). ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+### CAPITULO I (SIC). ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
 ###### ARTICULO 171.
 
-Al que sin tener relación familiar o de parentesco sustraiga a un menor de catorce años o incapaz, sin el consentimiento de quien legítimamente tenga custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de dos a seis años.
+Al que sin tener relación familiar o de parentesco sustraiga a una persona menor de dieciocho años o que no tiene la capacidad para comprender el significado del hecho, sin el consentimiento de quien legítimamente tenga custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de cuatro a ocho años.
 
-Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la prisión será de uno a seis años.
+Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la prisión será de dos a seis años.
 
-Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará hasta una tercera parte de las penas arriba señaladas.
+Si el agente devuelve a la persona menor o que no tiene la capacidad para comprender el significado del hecho espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará hasta una tercera parte de las penas arriba señaladas.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 171
+
+BIS.- Se impondrá pena privativa de libertad de dos a seis años al padre o la madre, que sin el consentimiento o autorización del otro progenitor retuviere o trasladare a su hijo o hijos menores de dieciocho años fuera o dentro del País con la finalidad de cambiar su residencia habitual o impida de algún modo la convivencia del niño, niña o adolescente con su otro progenitor, de acuerdo con la Ley de la materia en el Estado; salvo en los casos en los que el juez competente hubiere condenado a alguno de los padres a no convivir o ha hacerlo de manera condicionada con sus hijos.
+
+Si el agente devuelve a la persona menor de dieciocho años dentro de los cinco días naturales siguientes a la consumación del delito, se le aplicará hasta una tercera parte de la pena señalada en el párrafo anterior.
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
@@ -1573,7 +1605,9 @@ A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2006)</small>
 
-### CAPITULO I. CORRUPCION DE MENORES
+### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE EDAD O DE QUIENES NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 176
 
@@ -1631,9 +1665,13 @@ Si el agresor lesionara por primera vez a cualquiera de los parientes o personas
 
 ### CAPITULO II. LENOCINIO
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
 ## TITULO SEGUNDO. DELITOS EN MATERIA DE INHUMACION Y EXHUMACION
 
 ### CAPITULO III. TRATA DE PERSONAS
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 177.
 
@@ -1777,37 +1815,107 @@ En el caso de que se actualicen otros delitos con motivo de las conductas a que 
 
 Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal, realice actividades propias de una profesión sin tener el título correspondiente exigido por la Ley, o se ostente por medio de placas, tarjetas, papel membretado, anuncios u otra forma de publicidad para ofertar dichos servicios, obtener algún beneficio o causar algún daño, se aplicará prisión de uno a cinco años y de cincuenta a doscientos días de salario.
 
-## TITULO CUARTO. DELITOS CONTRA LA MORAL PUBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+## TITULO CUARTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 ###### ARTICULO 191.
 
-Al que procure o facilite la corrupción de un menor de dieciséis años mediante actos sexuales perversos o prematuros o lo induzca a la práctica de la mendicidad, ebriedad, toxicomanía o algún otro vicio, se le aplicará de seis meses a cinco años de prisión, de cincuenta o doscientos días multa y se le inhabilitará para ser tutor o curador.
+A quien procure, facilite o induzca a una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporales o sexuales, prostitución, prácticas sexuales, consumo de algún narcótico o bebida embriagante, práctica de la mendicidad, comisión de algún delito o a formar parte de una asociación delictuosa, se le aplicarán de cuatro a once años de prisión, de cincuenta a doscientos días multa y se le inhabilitará para ser tutor.
+
+Se aumentará la pena privativa de libertad hasta en una mitad más al que obligue a una persona menor de dieciocho años de edad o que no tenga la capacidad para comprender el significado del hecho, a realizar una o varias de las conductas anteriormente descritas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 192.
 
-Al que emplee a un menor de dieciséis años de edad en lugares que por su naturaleza sean nocivos a su formación moral, se le impondrá prisión de seis meses a tres años y, además, la suspensión o clausura del establecimiento en caso de reincidencia.
+Al que emplee a una persona menor de dieciocho años de edad o que no tenga la capacidad para comprender el significado del hecho en lugares que por su naturaleza sean nocivos a su sano desarrollo físico, mental o emocional, se le impondrá prisión de cuatro a ocho años y, además, la suspensión o clausura del establecimiento en caso de reincidencia.
 
 A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá la pena de prisión prevista en el párrafo anterior, aumentada hasta en una mitad más y se le privará o suspenderá hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
 
-Para los efectos de este precepto, se considerará que es empleado el menor de dieciséis años que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+Para los efectos de este precepto, se considerará que es empleado la persona menor de dieciocho años o que no tenga la capacidad para comprender el significado del hecho que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+PORNOGRAFIA INFANTIL
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 192
+
+BIS.- Comete el delito de pornografía infantil quien, a persona menor de dieciocho años:
+
+I. Induzca, incite, propicie, facilite u obligue a realizar actos de exhibicionismo corporal o de pornografía;
+
+II. Video grabe, audio grabe, fotografié o plasme en imágenes fijas o en movimiento, realizando actos de exhibicionismo corporal o de pornografía;
+
+III. Promueva, invite, facilite o gestione por cualquier medio, la realización de actividades en las que se ofrezca la posibilidad de observar actos de exhibicionismo corporal o de pornografía, que estén siendo llevadas a cabo por persona menor de dieciocho años de edad.
+
+Comete también el delito de pornografía infantil el que siendo mayor de edad, participe como activo o pasivo en los actos de exhibicionismo corporal o de pornografía realizados por persona menor de edad.
+
+Se entiende por actos de exhibicionismo corporal a toda representación del cuerpo humano, con fin lascivo sexual.
+
+Se considera acto de pornografía a toda representación realizada por cualquier medio, de actividades lascivas sexuales explícitas, reales o simuladas. Las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares; los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual o de embarazo de adolescentes, no constituyen pornografía infantil.
+
+La sanción por el delito de pornografía infantil será de siete a veinte años de prisión y de 400 a 500 días multa. En todos los casos se aplicará también como pena el decomiso de objetos, instrumentos y productos del delito, respetando los derechos de terceros.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 192
+
+TER.- También se entenderá como pornografía infantil, aplicándose la misma pena establecida en el artículo anterior, al que:
+
+I. Con o sin fines de lucro, fije, imprime o exponga de cualquier manera, los actos de exhibicionismo corporal o de pornografía realizados por persona menor de dieciocho años de edad;
+
+II. Con o sin fines de lucro, elabore, reproduzca, distribuya, venda, arriende, posea, almacene, adquiera, publicite o transmita material que contenga actos de exhibicionismo corporal o de pornografía realizados por persona menor de dieciocho años de edad;
+
+III. Dirija, administre o supervise cualquier tipo de banda u organización por sí o a través de terceros, con el propósito de que se realicen las conductas relacionadas con actos de exhibicionismo corporal o de pornografía mencionados en las fracciones y en el Artículo anterior.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+TURISMO SEXUAL INFANTIL
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 192
+
+QUATER.- Comete el delito de turismo sexual quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio para que una persona viaje al interior o exterior del territorio del Estado de Quintana Roo con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho.
+
+Al autor de este delito se le impondrá una pena de siete a quince años de prisión y de trescientos a quinientos días de multa.
+
+A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho, en virtud de las conductas antes descritas, se le impondrá una pena de doce a dieciséis años de prisión y de doscientos a trescientos días multa.
 
 ### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTICULO 193.
 
-Al que explote el comercio carnal de otro, se mantenga de este comercio u obtenga de este modo un beneficio cualquiera, administre o sostenga lugares a explotar la prostitución, se le impondrá prisión de seis meses a seis años y de cincuenta a cuatrocientos días multa.
+Comete el delito de lenocinio:
 
-Si la persona explotada fuere menor de dieciséis años de edad la pena se aumentará hasta en una mitad.
+I. Quien explote el cuerpo de otra persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+
+II. Quien obligue a una persona o la solicite para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que ejerza la prostitución;
+
+III. Quien regentee, dirija, patrocine, administre o sostenga, directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia en los que se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y
+
+IV. Quien oculte, concierte o permita el comercio carnal de una persona; (sic)
+
+El delito de lenocinio se sancionará con prisión de seis a doce años y con cincuenta a cuatrocientos días multa. Si la persona explotada fuere menor de dieciocho años de edad o que no tuviere la capacidad para comprender el significado del hecho la pena se aumentará hasta en una mitad.
 
 ### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 194.
 
-Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del Estado, se le impondrá prisión de seis meses a cinco años y de cincuenta a trescientos días multa. Si el ofendido fuere menor de dieciséis años la pena se aumentará en una mitad más.
+Comete el Delito de trata de personas quien promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona para someterla a cualquier forma de explotación, incluida la explotación sexual comercial infantil, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre, o para ser extirpada de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado.
 
-Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena de prisión se agravará hasta dos años más y la multa hasta cien días más.
+Al autor de este delito se le impondrá una pena de siete a dieciocho años de prisión y de cincuenta a trescientos días multa. Si el ofendido fuere persona menor de dieciocho años de edad o quien no tuviere la capacidad para comprender el significado del hecho la pena se aumentará en una mitad más.
+
+Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena de prisión se agravará hasta tres años más y la multa hasta doscientos días más.
 
 ### CAPITULO IV. ULTRAJES A LA AUTORIDAD
 
@@ -2492,3 +2600,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Remítase copia del presente Decreto al Poder Ejecutivo del Estado, para los efectos de los Artículos 69 y 74 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 20 DE OCTUBRE DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
