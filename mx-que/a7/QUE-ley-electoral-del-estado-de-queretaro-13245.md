@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2005-10-01"
+last_updated: "2006-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 5 de diciembre de 1996.
 
@@ -299,25 +299,29 @@ La remisión de la iniciativa de ley mencionada a la Legislatura del Estado siem
 
 Dado el caso de que la Legislatura del Estado hubiera rechazado la iniciativa de distritación que presente el Consejo General, éste, luego de analizar las razones de la negativa, deberá elaborar un nuevo proyecto atendiendo a las bases mencionadas en la presente ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 15.
 
 Son requisitos para ser postulado, y en su caso, para ocupar cualquier cargo de elección popular los siguientes:
 
 I. Cumplir con los que señale la Constitución del Estado para el cargo de que se trate;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
 
-II. Ser mexicano y ciudadano queretano en pleno ejercicio de sus derechos políticos y civiles, residir en el Estado, Municipio o Distrito Electoral de que se trate, según sea el caso, en que se hace la elección. Se entiende por residencia la permanencia habitual en un domicilio ubicado en la demarcación territorial correspondiente, por más de seis meses consecutivos;
+II. Ser ciudadano queretano en pleno ejercicio de sus derechos políticos y civiles, y residir en el Estado o en el municipio en que se hace la elección;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
 
-III. Contar con la credencial de elector, debiendo estar inscrito en el padrón electoral de la demarcación territorial correspondiente a su domicilio, por lo menos seis meses después del establecimiento del mismo;
+III. Contar con la credencial de elector debiendo estar inscrito en el padrón electoral don domicilio en el Estado;
 
-IV. No ocupar cargo público alguno de la federación, estado o municipios, y no tener mando en las fuerzas armadas, a menos que se separe definitivamente noventa días antes de la fecha de la elección; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+IV. No desempeñar ningún cargo público en el que se ejerzan funciones de autoridad en la federación, estado o municipios, ni pertenecer al ejercito, ni tener mando de fuerzas armadas, a menos que en estos casos se solicite licencia o se renuncie al empleo, cargo o comisión cuando menos noventa días antes del día de la elección;
 
-V. No sea o haya sido cuando menos en los tres años anteriores al día de la elección, Consejero Electoral integrante del Consejo General, Director General o Director Ejecutivo del Instituto Electoral de Querétaro o magistrado del órgano jurisdiccional que conozca en materia electoral;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+V. En los tres años anteriores al día de la elección, no haber ejercido el cargo de Consejero Electoral o Director General del Instituto Electoral del Estado o Magistrado del órgano jurisdiccional que conozca en materia electoral;
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
@@ -4558,3 +4562,13 @@ P.O. 1 DE OCTUBRE DE 2005.
 PRIMERO.- En caso de que el Instituto Federal Electoral realice modificaciones que afecten la actual demarcación seccional, éstas seguirán perteneciendo al distrito que actualmente corresponde a la sección que da origen a la nueva división seccional, identificándose con la nomenclatura que le sea asignada en la cartografía electoral.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
