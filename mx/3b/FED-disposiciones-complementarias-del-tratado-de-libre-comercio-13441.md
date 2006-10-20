@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-10-16"
+last_updated: "2006-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,35 +18,35 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCARES Y JARABES DE AZUCAR, ORIGINARIOS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 16 de octubre de 2006.
+Acuerdo publicado en el Diario Oficial de la Federación, el viernes 20 de octubre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los Capítulos III, VII y XX del Tratado de Libre Comercio de América del Norte, y los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones V y X, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y 15 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los capítulos III, VII y XX del Tratado de Libre Comercio de América del Norte, los artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o., fracciones V y X, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
 Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares o jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
+Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares y jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
 
 Que existe una disputa entre México y los Estados Unidos de América relativa al cumplimiento de este último con sus obligaciones establecidas en el TLCAN de permitir el acceso a su mercado al azúcar mexicano;
 
-Que por tal motivo México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN. La disputa no ha sido resuelta, entre otras cosas, porque, no obstante que México solicitó el establecimiento de un panel al amparo del Capítulo XX del TLCAN, habiendo previamente satisfecho todos los requisitos previstos en el mismo, los Estados Unidos de América se han negado a designar panelistas, según lo exige el TLCAN;
+Que por tal motivo México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN. La disputa no ha sido resuelta, entre otras cosas, porque, no obstante que México solicitó el establecimiento de un panel al amparo del capítulo XX del TLCAN, habiendo previamente satisfecho todos los requisitos previstos en el mismo, los Estados Unidos de América se han negado a designar panelistas, según lo exige el TLCAN;
 
 Que en este contexto, el pasado 27 de julio los gobiernos de México y los Estados Unidos de América llegaron a un acuerdo que establece ciertas condiciones para el comercio bilateral de edulcorantes que contribuirá a facilitar la transición al libre comercio a partir del 1 de enero de 2008, pero también reconoce que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr este objetivo;
 
-Que entre los acuerdos alcanzados está el otorgamiento de un cupo libre de arancel para 7,258 toneladas métricas (valor crudo) de azúcares o jarabes originarios de los Estados Unidos de América para cada uno de los años comerciales que inician el 1 de octubre de 2005, 2006 y 2007, respectivamente;
+Que el acuerdo, entre otros, prevé el otorgamiento por parte de los Estados Unidos de América de un trato libre de impuestos para 250,000 toneladas métricas (valor crudo) de azúcar originaria de México durante el año comercial que inicia el 1 de octubre de 2006 y los primeros tres meses del año comercial que inicia el 1 de octubre de 2007, respectivamente, que requiere implementarse;
 
-Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte;
+Que es necesario contar con un procedimiento de asignación expedito para efectuar las exportaciones, mejorar la productividad y la competitividad del sector, así como procurar la equidad en la asignación del cupo de exportación de azúcar libre de arancel a los Estados Unidos de América;
 
-Que el 12 de septiembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto que modifica el diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte para establecer el arancel cupo a 13 fracciones arancelarias referentes a azúcar, y
+Que el procedimiento de asignación de los cupos de azúcares, jarabes y productos con alto contenido de azúcar, es el resultado de un proceso de labores coordinado, entre las secretarías de Economía, y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y la Cámara Nacional de las Industrias Azucarera y Alcoholera, y
 
 Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCARES Y JARABES DE AZUCAR, ORIGINARIOS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LOS ESTADOS UNIDOS DE AMERICA, AZUCARES ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO PRIMERO.
 
@@ -258,53 +258,69 @@ Para efecto de lo señalado en el párrafo anterior, la Dirección General de Co
 
 ###### ARTICULO 1.
 
-El cupo para importar azúcares y jarabes originarios de los Estados Unidos de América, entre el 1 de octubre de 2005 y hasta el 31 de diciembre de 2007, con el arancel cupo establecido en el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002 y sus modificaciones, es el que se determina a continuación:
+El cupo para internar a los Estados Unidos de América, azúcares originarios de los Estados Unidos Mexicanos durante el año comercial que inicia el 1 de octubre de 2006 y los primeros tres meses del año comercial que inicia el 1 de octubre de 2007, de conformidad con el acuerdo alcanzado el pasado 27 de julio entre México y los Estados Unidos de América es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 2.
 
-El procedimiento de asignación del cupo de importación referido en el presente Acuerdo, será el de asignación directa.
-
-Las cantidades máximas por periodo serán las siguientes:
-
-(VEASE ARCHIVO ANEXO)
+El procedimiento de asignación del cupo para internar a los Estados Unidos de América, azúcares originarios de los Estados Unidos Mexicanos de exportación referido en el presente instrumento, será el de asignación directa.
 
 ###### ARTICULO 3.
 
-Podrán solicitar asignación del cupo a que se refiere el artículo 1 del presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cuenten con un certificado de asignación previa expedido por la Alianza de Azucareros de América (“American Sugar Alliance”) de los Estados Unidos de América o por la entidad que ésta designe. Dicho certificado deberá establecer la cantidad de asignación previa y su inicio de vigencia.
+Podrán solicitar asignación de los cupos a que se refiere el presente Acuerdo los ingenios azucareros establecidos en los Estados Unidos Mexicanos que se encuentren en operación.
 
-La asignación será otorgada por la Secretaría de Economía, a través de la Dirección General de Comercio Exterior, a quienes presenten el certificado de asignación previa expedido por la Alianza de Azucareros de América (“American Sugar Alliance”) de los Estados Unidos de América o por la entidad que ésta designe y de conformidad con el mismo.
+Para la distribución de los cupos por ingenio azucarero en operación, la Dirección General de Industrias Básicas y la Dirección General de Política Comercial, ambas de la Secretaría de Economía, tomarán en cuenta la propuesta que entregue la Cámara Nacional de las Industrias Azucarera y Alcoholera, previa conformidad del Fondo de Empresas Expropiadas del Sector Azucarero. Dicha propuesta, deberá presentarse a la Dirección General de Industrias Básicas de esta Secretaría, anexando el escrito de conformidad del mencionado Fondo, conforme a lo siguiente:
+
+I.- Para efectos del cupo establecido en el artículo 1 fracción I del presente Acuerdo, dentro de los cinco días hábiles siguientes a la publicación en el Diario Oficial de la Federación del presente Acuerdo, y
+
+II.- Para efectos del cupo establecido en el artículo 1 fracción II del presente Acuerdo, dentro de los cinco días hábiles siguientes al 1 de septiembre de 2007.
+
+Con base en la propuesta de la Cámara Nacional de las Industrias Azucarera y Alcoholera, señalada en el párrafo anterior y, tomando en cuenta las observaciones que, en su caso, realice la Dirección General de Desarrollo de Mercados de Apoyos y Servicios a la Comercialización Agropecuaria, de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Dirección General de Industrias Básicas y la Dirección General de Política Comercial, ambas de la Secretaría de Economía, en el ámbito de sus respectivas atribuciones, definirán dicha distribución, misma que notificarán, en un plazo que no excederá de cinco días hábiles después de la recepción de la propuesta, a la Dirección General de Comercio Exterior de la Secretaría de Economía para efecto de la asignación de las respectivas solicitudes.
 
 ###### ARTICULO 4.
 
-La solicitud de asignación de cupo a que se refiere el presente Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda, anexando los requisitos específicos contenidos en la hoja de requisitos que se establece como Anexo del presente Acuerdo. La Dirección General de Comercio Exterior de la Secretaría de Economía emitirá, la resolución en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
+La asignación de los cupos a que se refiere el presente Acuerdo será a través de la Dirección General de Comercio Exterior de la Secretaría de Economía, de conformidad con la distribución que las Direcciones Generales de Industrias Básicas y de Política Comercial de la Secretaría de Economía le hayan notificado previamente.
 
 ###### ARTICULO 5.
 
-La asignación otorgada de conformidad con el artículo 3 del presente ordenamiento, podrá ser utilizada, parcial o totalmente, por una persona distinta a su titular para lo que ésta deberá presentar la solicitud de asignación de cupo de conformidad con el artículo 4 del presente ordenamiento, anexando los requisitos específicos contenidos en la hoja de requisitos que se establece como Anexo del presente Acuerdo.
+Con objeto de utilizar en forma óptima los cupos de exportación, la Dirección General de Comercio Exterior de la Secretaría de Economía incrementará el cupo que se le haya distribuido a un ingenio en operación, mencionado en la notificación señalada en el artículo 4 de este Acuerdo, siempre y cuando la Cámara Nacional de las Industrias Azucarera y Alcoholera le presente un escrito donde comunique la celebración de un convenio entre ingenios en operación, a través del cual un ingenio exporta por cuenta y orden de otro ingenio que no puede exportar el cupo que le corresponde.
+
+La Dirección General de Comercio Exterior de la Secretaría de Economía, asignará, en su caso, el monto respectivo, de conformidad con el convenio a que se refiere el párrafo anterior, previa solicitud del interesado.
 
 ###### ARTICULO 6.
 
-Una vez asignado el monto para importar dentro del cupo, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo en un plazo máximo de siete días hábiles, contados a partir del día siguiente a la presentación de la solicitud.
+La solicitud de asignación de los cupos a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Dirección General de Comercio Exterior, ubicada en avenida Insurgentes Sur 1940, planta baja, colonia Florida, en México, D.F., dentro de los siguientes plazos:
 
-La vigencia de los certificados de cupo será hasta el 31 de diciembre de 2007.
+I.- Para efectos del artículo 1 fracción I del presente Acuerdo, a partir de la entrada en vigor y hasta el 31 de agosto de 2007, y
+
+II.- Para efectos del artículo 1 fracción II del presente Acuerdo, a partir del 15 de septiembre y hasta el 30 de noviembre de 2007.
+
+La vigencia máxima de las asignaciones será la siguiente:
+
+I.- Para efectos del artículo 1 fracción I del presente Acuerdo, al 30 de septiembre de 2007, y
+
+II.- Para efectos del artículo 1 fracción II del presente Acuerdo, al 31 de diciembre de 2007.
+
+La Dirección General de Comercio Exterior emitirá oficio de asignación en un plazo máximo de 7 días hábiles, contado a partir del día siguiente a la presentación de la solicitud.
 
 ###### ARTICULO 7.
 
-Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las Representaciones Federales de esta Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+Una vez asignados los montos para exportar dentro de los cupos señalados en el artículo 1 de este Acuerdo, la Secretaría, a través de la Dirección General de Comercio Exterior, expedirá los certificados de cupo, previa presentación del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, al cual deberá anexarse un escrito indicando el medio de transporte que se utilizará para exportar la mercancía. En caso de que sea por barco, deberá señalarse el nombre de la nave, el puerto de salida y el de entrada a los Estados Unidos de América, cantidad por certificado, nombre y domicilio del consignatario, fecha estimada de salida del país y de entrada a los Estados Unidos de América.
 
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A.
-
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A.
+La Dirección General de Comercio Exterior emitirá los certificados de cupo en un plazo máximo de 7 días hábiles, contado a partir del día siguiente a la presentación de la solicitud.
 
 ###### ARTICULO 8.
 
+Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en las Representaciones Federales de la Secretaría de Economía, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+
+I.- Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+II.- Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
+
+###### ARTICULO 9.
+
 Para la aplicación de este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas, ambas de la Secretaría de Economía.
-
-###### ARTÍCULO 9.
-
-Para efectos de diferenciar las mercancías que califiquen para ser marcadas como mercancías de los Estados Unidos de América o mercancías de Canadá, tanto en lo referente a los certificados de cupo emitidos por la Secretaría de Economía, como para las importaciones de mercancías al amparo de los artículos 6 y 8 de este Decreto se estará a lo dispuesto en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus respectivas modificaciones.
 
 ###### ARTICULO 10.
 
@@ -328,14 +344,10 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+
+SEGUNDO.- En caso de que el monto del cupo correspondiente al periodo del 1 de octubre al 31 de diciembre de 2007 establecido en el artículo 1 fracción II del presente Acuerdo varíe, la Secretaría de Economía lo dará a conocer mediante modificación del presente ordenamiento en el mes de agosto de 2007, a través de publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 26 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-HOJA DE REQUISITOS
-
-ANEXO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR AZUCARES Y JARABES DE AZUCAR, ORIGINARIOS DE LOS ESTADOS UNIDOS DE AMERICA
-
-(VEASE ARCHIVO ANEXO)
