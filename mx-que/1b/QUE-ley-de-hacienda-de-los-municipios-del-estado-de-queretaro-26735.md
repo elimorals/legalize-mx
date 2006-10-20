@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2006-09-27"
+last_updated: "2006-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -1535,11 +1535,13 @@ Dichos criterios generales serán aplicables a todos los interesados que reúnen
 
 Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, y quedará sin efecto el descuento por falta de uno de ellos.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 158.
 
-Solo para el Ejercicio Fiscal de 2006, las propiedades de las personas físicas que hayan sido regularizados mediante los Programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), pagaran el importe de una vez el salario mínimo vigente en el Estado por concepto de impuesto sobre Traslado de Dominio.
+Solo para el ejercicio fiscal 2006, las personas físicas cuyos predios hayan sido regularizados mediante los Programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), pagaran el importe de una vez el salario mínimo vigente en el Estado, por concepto de impuesto sobre traslado de dominio.
+
+Se exceptúan de lo anterior las personas físicas cuyos predios provengan de propiedad Federal, Estatal o Municipal, y hayan sido regularizados mediante los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), los cuales no causarán impuesto de traslado de dominio.
 
 ## TRANSITORIOS
 
@@ -1664,3 +1666,9 @@ Los municipios, en la recaudación fiscal, cumplirán con la presente reforma y 
 P.O. 27 DE SEPTIEMBRE DE 2006.
 
 ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE OCTUBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
