@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-normas-minimas-para-la-readaptacion-social-de-21997"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-31"
-last_updated: "2001-06-29"
+last_updated: "2006-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE NORMAS MINIMAS PARA LA READAPTACION SOCIAL DE SENTENCIADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 31 de octubre de 1976.
 
@@ -89,9 +89,11 @@ El tratamiento penitenciario será individualizado con aportación de las divers
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada medio y las posibilidades presupuestases del Estado, se clasificará a los reos en instituciones especializadas, entre las que podrán figurar establecimientos de seguridad máxima, media y mínima, colonias y campamentos penales, hospitales psiquiátricos y para infecciosos, e instituciones abiertas.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 12.
 
-El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para la extinción de las penas y estarán completamente separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Los menores infractores serán internados en los establecimientos que fija la Ley del Consejo Tutelar para menores, pero en todo caso, en instituciones diversas de las designadas para los adultos.
+El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para la extinción de las penas y estarán completamente separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Únicamente las personas que sean mayores de catorce y menores de dieciocho años de edad serán sujetos de internamiento en los establecimientos y en los casos que fije la Ley de Justicia para Adolescentes del Estado de Quintana Roo, pero en todo caso, en instituciones diversas de las designadas para los adultos.
 
 ###### ARTICULO 13.
 
@@ -266,3 +268,7 @@ P.O. 29 DE JUNIO DE 2001.
 ###### ARTICULO UNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
