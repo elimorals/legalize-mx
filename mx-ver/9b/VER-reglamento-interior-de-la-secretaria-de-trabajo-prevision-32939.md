@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-trabajo-prevision-32939
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-10"
-last_updated: "2004-12-31"
+last_updated: "2006-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO, PREVISION SOCIAL Y PRODUCTIVIDAD -ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO Y PREVISION SOCIAL-
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO Y PREVISION SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO, PREVISION SOCIAL Y PRODUCTIVIDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 10 de julio de 2003.
 
@@ -31,7 +31,9 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de
 
 MIGUEL ALEMÁN VELAZCO, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en ejercicio de las facultades que me confiere el artículo 8 fracción II de la Ley Orgánica del Poder Ejecutivo del Estado, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRABAJO, PREVISIÓN SOCIAL Y PRODUCTIVIDAD
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -73,23 +75,27 @@ La Secretaría, para el despacho de los asuntos que le competen, se auxiliará c
 
 La Secretaría contará con una Unidad Administrativa para la presupuestación, programación y ejercicio del presupuesto a su cargo.
 
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 8.
 
 La Secretaría, para el despacho de los asuntos de su competencia, contará con los órganos administrativos siguientes:
 
 Dirección General de Trabajo;
 
-Dirección General de Previsión Social y Empleo;
+Dirección General de Previsión Social y Productividad;
 
 Dirección General de Inspección del Trabajo;
 
-Procuraduría de la Defensa del Trabajo; y
+Dirección General del Servicio Nacional de Empleo;
 
-Unidad Administrativa.
+Unidad Administrativa; y,
 
-Los titulares de las Direcciones Generales y de la Procuraduría arriba mencionados, deberán contar con título profesional de licenciado en derecho, cumpliendo los demás requisitos que establezca la legislación aplicable.
+Procuraduría de la Defensa del Trabajo.
 
-El titular de la Unidad Administrativa deberá reunir los requisitos que establece el artículo 10 de la Ley Orgánica del Poder Ejecutivo del Estado.
+Los titulares de las direcciones generales y de la procuraduría arriba mencionados, deberán contar con Título profesional de Licenciado en Derecho, a excepción del director general del Servicio Nacional de Empleo, quien podrá ser licenciado en cualquier área de las ciencias económico administrativas o ciencias sociales vinculadas al sector laboral, debiendo cumplir con los demás requisitos que establezca la legislación aplicable.
+
+El titular de la unidad administrativa deberá reunir los requisitos que establece el artículo 10 de la Ley Orgánica del Poder Ejecutivo del Estado.
 
 ###### Artículo 9.
 
@@ -217,27 +223,59 @@ VII. Cuidar los archivos de la Junta Local de Conciliación y Arbitraje; y
 
 VIII. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el Secretario.
 
-### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE PREVISIÓN SOCIAL Y EMPLEO
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE PREVISIÓN SOCIAL Y PRODUCTIVIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 14.
 
-Son atribuciones del Director General de Previsión Social y Empleo las siguientes:
+Son atribuciones del director general de Previsión Social y Productividad, las siguientes:
 
 I. Implementar, promover y coordinar programas de previsión social en la Entidad;
 
 II. Coordinar con las empresas y patrones del Estado, la metodología adecuada para lograr el cumplimiento de las disposiciones laborales en sus áreas de trabajo;
 
-III. Promover acciones de capacitación de los trabajadores, fomentando sus valores éticos, tendientes al logro de una nueva cultura laboral;
+III. (DEROGADA, G.O. 20 DE OCTUBRE DE 2006)
 
 IV. Instrumentar mecanismos jurídicos tendientes a lograr una solución administrativa de los conflictos laborales, mediante acciones conciliatorias;
 
 V. Promover el estudio, edición y distribución de obras literarias, históricas y de política comparada, en materia laboral, así como a dar seguimiento a los programas y acciones de la Secretaría, elaborando la memoria estadística correspondiente;
 
-VI. Coordinar en el Estado, el cumplimiento de las acciones derivadas del Servicio Nacional de Empleo;
+VI. (DEROGADA, G.O. 20 DE OCTUBRE DE 2006)
 
-VII. Apoyar al Secretario, en la instrumentación de programas de aplicación de la política laboral del Ejecutivo Estatal; y
+VII. Apoyar al Secretario, en la instrumentación de programas de aplicación de la política laboral del Ejecutivo Estatal; y (sic)
 
-VIII. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el Secretario.
+VIII. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el Secretario;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+IX. Investigar, desarrollar y divulgar métodos, técnicas y sistemas dirigidos al examen, diagnóstico y mejoramiento de los niveles de calidad y productividad en los centros de trabajo;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+X. Promover y difundir estudios e investigaciones en materia de productividad y sobre las condiciones económicas y laborales de empresas y ramas de actividad seleccionadas;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+XI. Fomentar la colaboración de la Secretaría con instituciones de educación superior, organismos y entidades de los sectores público, privado y social, para el análisis y estudio de temas laborales, con el fin de promover una nueva cultura laboral que eleve la productividad y competitividad;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+XII. Realizar programas de investigación en materia de productividad, en concordancia con los objetivos plasmados en el Plan Veracruzano de Desarrollo;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+XIII. Diseñar, organizar, promover cursos y programas en coordinación con las demás áreas de la administración pública y los sectores privado y social, a fin de elevar la productividad de los trabajadores;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+XIV. Coadyuvar con la Dirección General de Trabajo en la solución de conflictos colectivos;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+XV. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el secretario.
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN GENERAL DE INSPECCIÓN DEL TRABAJO
 
@@ -301,59 +339,93 @@ IX. Coordinar el desempeño de sus actividades con los demás órganos administr
 
 X. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el Secretario.
 
-### CAPÍTULO IX. DE LA UNIDAD ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN GENERAL DEL SERVICIO NACIONAL DE EMPLEO
+
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 17.
 
-Son atribuciones del Jefe de la Unidad Administrativa las siguientes:
+Son atribuciones del director general del Servicio Nacional de Empleo, las siguientes:
 
-I. Supervisar la aplicación y rendimiento eficiente de los recursos financieros, materiales y humanos asignados a la Secretaría;
+I. Promover acciones de capacitación de los trabajadores, fomentando sus valores éticos, tendientes al logro de una nueva cultura laboral.
 
-II. Fungir como enlace entre la Secretaría y la Secretaría de Finanzas y Planeación, en el trámite de los asuntos administrativos y financieros;
+II. Ejecutar los programas relativos al empleo, en sus diversas vertientes.
 
-III. Procurar la obtención y asignación oportuna y eficiente de los recursos económicos, material y equipo necesario para el óptimo desarrollo de las actividades asignadas a la Secretaría;
+III. Realizar estudios y análisis de las características y comportamientos de los mercados laborales en el Estado por rama de actividad y grupo poblacional, elaborando en la esfera de su competencia los programas que contribuyan a ser más transparente el ámbito laboral, así como los estudios que determinen las causas de desempleo, desocupación y subempleo en el estado de Veracruz.
 
-IV. Proponer y vigilar la correcta asignación y aplicación de sueldos y honorarios al personal de la Secretaría y establecer los mecanismos y procedimientos que permitan supervisar el control de asistencia, corrección disciplinaria, estímulos, incapacidades, permisos y licencias de conformidad con las condiciones generales de trabajo;
+IV. Otorgar a la población desocupada asistencia técnica, información y los apoyos respectivos, conforme a los lineamientos y normatividad establecidas en los programas estatales y federales y de conformidad con la disposición presupuestal.
 
-V. Coordinar la elaboración del proyecto de presupuesto de la Secretaría y supervisar el correcto ejercicio de las partidas presupuestales;
+V. Fomentar y promover la cultura de la capacitación como medio para procurar el bienestar de los trabajadores, a fin de incrementar su productividad y consecuentemente la competitividad de las empresas.
 
-VI. Coordinar y supervisar la integración y actualización del inventario de mobiliario y equipo de la Secretaría;
+VI. Vincular a la población desocupada con las oportunidades de empleo que genere el aparato productivo en el Estado, a través de las estrategias implementadas por la Secretaría.
 
-VII. Vigilar el adecuado funcionamiento del archivo de la Secretaría;
+VII. Propiciar la participación conjunta de agencias de colocación, bolsas de trabajo, centros de capacitación, organizaciones empresariales y sindicales y demás de naturaleza similar, a fin de realizar intercambios permanentes de información respecto a la disponibilidad de vacantes y empleo.
 
-VIII. Controlar y mantener actualizada la plantilla de personal a partir de su diseño, así como supervisar los perfiles correspondientes a los puestos y cargos integrados a la Secretaría;
+VIII. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el secretario.
 
-IX. Proporcionar al Secretario, con la periodicidad que éste acuerde, los informes relativos a la situación presupuestal de la Secretaría y elaborar mensualmente un estado de egresos consolidado, comparando el gasto presupuestado con su ejercicio;
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2006)</small>
 
-X. Revisar y aprobar la documentación comprobatoria del gasto, cuidando que corresponda a las diferentes partidas presupuestales asignadas a la Secretaría;
+### CAPÍTULO X. DE LA UNIDAD ADMINISTRATIVA
 
-XI. Diseñar y proponer al Secretario, los métodos y las técnicas que sean necesarias para revisar y mejorar los mecanismos de control administrativos internos;
-
-XII. Coordinar la elaboración de los proyectos de Manuales de Organización, Procedimientos y Servicios al Público, así como su actualización y someterlos a la consideración del Secretario;
-
-XIII. Llevar, en coordinación con la instancia competente de la Secretaría de Finanzas y Planeación, la bolsa de trabajo de la Secretaría;
-
-XIV. Proveer la capacitación y adiestramiento del personal de la Secretaría, de conformidad con la política que se establezca, en coordinación con la Secretaría de Finanzas y Planeación;
-
-XV. Coadyuvar en la solución de los conflictos laborales que se susciten en la Secretaría; y
-
-XVI. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el Secretario.
-
-### CAPÍTULO X. DE LA SUPLENCIA
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 18.
 
-El secretario será suplido en las ausencias por cualquiera de los directores generales señalados en el artículo 8 del presente reglamento.
+Son atribuciones del Jefe de la Unidad Administrativa las siguientes:
+
+I. Supervisar la aplicación y rendimiento eficiente de los recursos financieros, materiales y humanos asignados a la Secretaría.
+
+II. Fungir como enlace entre la Secretaría y la Secretaría de Finanzas y Planeación, en el trámite de los asuntos administrativos y financieros.
+
+III. Procurar la obtención y asignación oportuna y eficiente de los recursos económicos, material y equipo necesario para el óptimo desarrollo de las actividades asignadas a la Secretaría.
+
+IV. Proponer y vigilar la correcta asignación y aplicación de sueldos y honorarios al personal de la Secretaría y establecer los mecanismos y procedimientos que permitan supervisar el control de asistencia, corrección disciplinaria, estímulos, incapacidades, permisos y licencias de conformidad con las condiciones generales de trabajo.
+
+V. Coordinar la elaboración del proyecto de presupuesto de la Secretaría y supervisar el correcto ejercicio de las partidas presupuestales.
+
+VI. Coordinar y supervisar la integración y actualización del inventario de mobiliario y equipo de la Secretaría.
+
+VII. Vigilar el adecuado funcionamiento del archivo de la Secretaría.
+
+VIII. Controlar y mantener actualizada la plantilla de personal a partir de su diseño, así como supervisar los perfiles correspondientes a los puestos y cargos integrados a la Secretaría.
+
+IX. Proporcionar al Secretario, con la periodicidad que éste acuerde, los informes relativos a la situación presupuestal de la Secretaría.
+
+X. Revisar y aprobar la documentación comprobatoria del gasto, cuidando que corresponda a las diferentes partidas presupuestales asignadas a la Secretaría.
+
+XI. Diseñar y proponer al Secretario, los métodos y las técnicas que sean necesarias para revisar y mejorar los mecanismos de control administrativos internos.
+
+XII. Coordinar la elaboración de los proyectos de Manuales de Organización, Procedimientos y Servicios al Público, así como su actualización y someterlos a la consideración del Secretario.
+
+XIII. Llevar, en coordinación con la instancia competente de la Secretaría de Finanzas y Planeación, la bolsa de trabajo de la Secretaría.
+
+XIV. Proveer la capacitación y adiestramiento del personal de la Secretaría, de conformidad con la política que se establezca, en coordinación de los conflictos laborales que se susciten en la Secretaría; y
+
+XV. Las demás que le señalen las leyes y reglamentos, así como las que le confiera el Secretario.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO XI. DE LA SUPLENCIA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 19.
 
-Los Directores Generales, serán suplidos en sus ausencias temporales que no excedan de quince días, por el Subdirector que al efecto designen; si la ausencia excede de quince días, serán suplidos por el servidor público de la jerarquía inferior que designe el Secretario.
+El Secretario será suplido en sus ausencias por cualquiera de los directores generales señalados en el artículo 8 del presente reglamento.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 20 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 20.
 
-Los titulares de los demás órganos administrativos de la Secretaría, durante sus ausencias que no excedan de quince días, serán suplidos por el servidor público de la jerarquía inmediata inferior que ellos designen; si la ausencia excede de quince días, serán suplidos por el servidor público de la jerarquía inferior que designe el Director General del área a que estén adscritos.
+Los directores generales serán suplidos en sus ausencias temporales por el servidor público inmediato inferior que al efecto designe el secretario.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2006)</small>
+
+###### Artículo 21.
+
+Los titulares de los demás órganos administrativos de la Secretaría, durante sus ausencias que no excedan de quince días, serán suplidos por el servidor público de la jerarquía inmediata inferior que ellos designen; si la ausencia excede de quince días, serán suplidos por el servidor público de la jerarquía inferior que designe el director general del área a que estén adscritos.
 
 ## TRANSITORIOS
 
@@ -382,3 +454,9 @@ G.O. 31 DE DICIEMBRE DE 2004.
 Primero. El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 20 DE OCTUBRE DE 2006.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. En tanto se expiden los Manuales de Organización, Procedimientos y Servicios al Público, el Secretario de Trabajo, Previsión Social y Productividad estará facultado para resolver las cuestiones que dichos manuales deben regular.
