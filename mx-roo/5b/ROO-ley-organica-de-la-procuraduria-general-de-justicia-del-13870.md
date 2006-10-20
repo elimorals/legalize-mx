@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-13870"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "1999-02-15"
+last_updated: "2006-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -623,7 +623,9 @@ VI.- Abigeato, que recaiga en ganado menor;
 
 VII.- Todos los demás delitos que se persigan por querella previstos en el Código Penal del Estado de Quintana Roo, y
 
-VIII.- Los anteriores, que sean cometidos por los menores de dieciséis años, siempre que las sanciones tengan un carácter tutelar, en los términos de la Ley del Consejo Tutelar para Menores Infractores del Estado.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+
+VIII.- Las conductas tipificadas como delito en las Leyes del Estado, realizadas por personas menores de dieciocho años de edad, que no sean consideradas como graves, en los términos de la Ley de Justicia para Adolescentes.
 
 ###### ARTICULO 36.
 
@@ -1258,3 +1260,9 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 PROFR. RAUL O. SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE OCTUBRE DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
