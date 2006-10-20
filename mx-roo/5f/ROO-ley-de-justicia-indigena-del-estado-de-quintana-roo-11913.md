@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-indigena-del-estado-de-quintana-roo-11913"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-14"
-last_updated: "1997-11-14"
+last_updated: "2006-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA INDIGENA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 14 de agosto de 1997
 
@@ -143,7 +143,7 @@ VI.- Daños hasta por un monto de cien salarios mínimos;
 
 VII.- Todos los demás delitos que se persigan por querella previstos en el Código Penal para el Estado de Quintana Roo; y
 
-VIII.- Los anteriores, que sean cometidos por los menores de dieciséis años, siempre que las sanciones tengan un carácter tutelar, en los términos de la Ley del Consejo Tutelar para Menores Infractores del Estado.
+VIII.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2006)
 
 Cuando por las circunstancias de la comisión de algún delito previsto en este artículo, que represente un peligro para la comunidad o revista importancia social, el Tribunal Superior de Justicia, oyendo al juez tradicional respectivo, podrá ejercer la facultad de atracción y, en su caso, turnar los autos al Juez competente.
 
@@ -151,9 +151,11 @@ Cuando por las circunstancias de la comisión de algún delito previsto en este 
 
 Quedan expresamente exceptuados de la competencia de los jueces tradicionales, el conocimiento de los delitos calificados por la ley como graves.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 19.
 
-También conocerán de las faltas administrativas que afecten a la familia, a la dignidad de las personas, a la imagen y buen gobierno de las autoridades locales y de las autoridades tradicionales, así como de las cometidas por los menores de dieciséis años, que no sean de competencia municipal. En este caso, las sanciones aplicables no serán mayores a las que previene, para estos casos, la Constitución General de la República.
+También conocerán de las faltas administrativas que afecten a la familia, a la dignidad de las personas, a la imagen y buen gobierno de las autoridades locales y de las autoridades tradicionales, así como de las cometidas por las personas menores de dieciocho años, que no sean de competencia municipal. En este caso, las sanciones aplicables no serán mayores a las que previene, para estos casos, la Constitución General de la República.
 
 ### CAPITULO V. MEDIOS DE APREMIO, SANCIONES Y MEDIDAS DE SEGURIDAD
 
@@ -278,3 +280,7 @@ P.O. 14 DE NOVIEMBRE DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
