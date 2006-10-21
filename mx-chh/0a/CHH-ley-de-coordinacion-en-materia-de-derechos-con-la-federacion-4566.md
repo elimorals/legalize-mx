@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-en-materia-de-derechos-con-la-federacion-45
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-30"
-last_updated: "1981-12-30"
+last_updated: "2006-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACION EN MATERIA DE DERECHOS CON LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1981.
 
@@ -41,7 +41,7 @@ Es objeto de esta ley regular la adhesión del Estado de Chihuahua al Sistema de
 
 ###### ARTICULO 2.
 
-El Estado de Chihuahua se adhiere al Sistema Nacional de Coordinación en Materia de Derechos, obligándose a no mantener en vigor derechos locales o municipales por:
+El Estado de Chihuahua se adhiere al Sistema Nacional de Coordinación en Materia de Derechos, Obligándose a no mantener en vigor derechos locales o municipales por:
 
 I.- Licencias y en general permisos o autorizaciones, inclusive las que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
 
@@ -51,11 +51,25 @@ b).- Licencias para fraccionar o lotificar terrenos;
 
 c).- Licencias para conducir vehículos;
 
-d).- Expedición de placas y tarjetas para la circulación de vehículos.
+d).- Expedición de placas y tarjetas para la circulación de vehículos;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2006)</small>
+
+e).- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2006)</small>
+
+f).- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2006)</small>
+
+g).- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que realicen por medio de televisión, radio, periódicos y revistas.
 
 II.- Registros o por cualquier acto concerniente a los mismos, a excepción de los relativos a los Registros Civil y Público de la Propiedad y del Comercio.
 
-III.- Uso de las vías públicas o la tenencia de bienes sobre la misma, incluyendo cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos o de tránsito por las vías públicas.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2006)</small>
+
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
 
 IV.- Actos de inspección y vigilancia.
 
@@ -65,9 +79,11 @@ Los derechos locales o municipales no podrán ser diferenciales considerando el 
 
 El Estado y sus Municipios ejercerán todas las facultades que les confieren las leyes respectivas para requerir licencias, registros, permisos o autorizaciones o para realizar actos de inspección y vigilancia, sin cobrar retribución alguna en los términos del artículo que antecede.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 4.
 
-La Tarifa de Derechos que expida el Gobernador del Estado por los servicios de carácter administrativo prestados a los particulares, en los términos del artículo 309 del Código Fiscal del Estado y las Tarifas de Derechos que se expidan para el cobro de los servicios que presten los Municipios, no deberán incluir los conceptos excluidos por el artículo 2 de esta ley, en tanto el Estado permanezca coordinado en materia de derechos con la Federación.
+La Tarifa de Derechos que expida el Congreso del Estado por los servicios de carácter administrativo prestados a los particulares, en los términos del artículo 309 del Código Fiscal del Estado y las tarifas de Derechos que se expidan para el cobro de los servicios que presten los Municipios, no deberán incluir los conceptos excluidos por el artículo 2 de esta Ley, en tanto el Estado permanezca coordinado en materia de derechos, con la Federación.
 
 ###### ARTICULO 5.
 
@@ -116,3 +132,9 @@ LIC. OSCAR ORNELAS K.
 El Srio. General de Gobierno.
 
 LIC. ARMANDO ALMEIDA MARTINEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
