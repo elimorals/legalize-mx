@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2005-03-30"
+last_updated: "2006-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE OCTUBRE DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1140,33 +1140,49 @@ El Instituto de Investigaciones Parlamentarias de la Asamblea se regirá por la 
 
 ### CAPITULO IX. DE LOS GRUPOS PARLAMENTARIOS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 80], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 23 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 85.
 
-Los Grupos Parlamentarios se integran cuando menos por tres Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido, los cuales actuaran en forma orgánica y coordinada en todos los trabajos de la Asamblea Legislativa del Distrito Federal, a efecto de garantizar la libre expresión de las corrientes ideológicas.
+Los grupos parlamentarios se integran de la manera siguiente:
 
-En ningún caso pueden constituir un Grupo Parlamentario separado, los Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido. Ningún Diputado podrá formar parte de más de un grupo parlamentario, pero habiéndose separado del primero se considerara sin partido o independiente.
+I.- Cuando menos por tres Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido, los cuales actuarán en forma orgánica y coordinada en todos los trabajos de la Asamblea Legislativa del Distrito Federal, a efecto de garantizar la libre expresión de las corrientes ideológicas.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 81], G.O. 30 DE MARZO DE 2005)</small>
+En ningún caso pueden constituir un Grupo Parlamentario separado, los Diputados que tengan un mismo origen partidario y/o pertenezcan a un mismo partido. Ningún diputado podrá formar parte de más de un Grupo Parlamentario, pero habiéndose separado del primero se considerara sin partido o independiente.
+
+II.- Cuando de origen existan diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para constituir un Grupo Parlamentario, podrán asociarse a efecto de conformar una Coalición Parlamentaria con la denominación que acuerden previamente y siempre que la suma de sus integrantes sea mayor a 3.
+
+La Coalición Parlamentaria podrá constituirse a partir del día siguiente a la conformación de la Comisión de Gobierno, mediante convenio suscrito por los diputados integrantes. Ésta se equiparará respecto de los derechos, beneficios y/o prerrogativas que esta Ley les otorga a un Grupo Parlamentario.
+
+Para los efectos anteriores deberá comunicar su constitución a la Comisión de Gobierno, quien lo hará del conocimiento del Pleno de la Asamblea en la sesión ordinaria posterior a la comunicación.
+
+Las Coaliciones Parlamentarias tendrán acceso a los derechos, beneficios y/o prerrogativas, una vez que los Grupos Parlamentarios hayan ejercido los suyos.
+
+La integración de una Coalición Parlamentaria sólo podrá ser de carácter permanente, por lo que en caso de disolución del grupo o separación de alguno de sus integrantes, los diputados que dejen de formar parte de la misma perderán los beneficios, prerrogativas y responsabilidades a los que hayan tenido acceso como miembros de dicha Coalición y recuperarán la condición previa a la conformación de ésta, por lo que no podrán integrarse a otro Grupo Parlamentario.
+
+> <small>(REFORMADO, G.O. 23 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 86.
 
-Los Grupos Parlamentarios contarán con un Diputado Coordinador y un Vicecoordinador. Los Coordinadores de los Grupos Parlamentarios serán el conducto para realizar las tareas de coordinación con la Mesa Directiva, en todo lo referente a la integración y participación de sus miembros en las Comisiones Especiales, las de carácter protocolario o ceremonial y las representaciones de la Asamblea en el interior o exterior del país. En todos los trabajos del Grupo Parlamentario, el Coordinador contará con el auxilio del Vicecoordinador.
+Los Grupos Parlamentarios y Coaliciones Parlamentarias contarán con un diputado Coordinador y un Vicecoordinador. Los Coordinadores de los Grupos Parlamentarios serán el conducto para realizar las tareas de coordinación con la Mesa Directiva en todo lo referente a la integración y participación de sus miembros en las Comisiones Especiales, las de carácter protocolario o ceremonial y las representaciones de la Asamblea en el interior o exterior del país.
 
-Cada Grupo Parlamentario nombrará y denominará a una persona que cumplirá con las funciones de Enlace con la Comisión de Gobierno y los demás Grupos Parlamentarios. Dicho nombramiento deberá ser comunicado a la Comisión de Gobierno.
+Cada Grupo Parlamentario o Coalición Parlamentaria nombrará y denominará a una persona que cumplirá con las funciones de enlace con la Comisión de Gobierno y los demás Grupos Parlamentarios y Coaliciones Parlamentarias. Dicho nombramiento deberá ser comunicado a la Comisión de Gobierno.
 
-El funcionamiento, actividades y los procedimientos para la designación de los cargos directivos, dentro de los Grupos Parlamentarios, serán regulados por las normas de sus respectivos Partidos y los lineamientos internos de los respectivos Grupos en el marco de las disposiciones de esta Ley.
+El funcionamiento, actividades y los procedimientos para la designación de los cargos directivos dentro de los Grupos Parlamentarios y Coaliciones Parlamentarias serán regulados por las normas de sus respectivos Partidos cuando pertenezcan a la misma filiación política y a los lineamientos internos de los respectivos grupos ó coaliciones, en el marco de las disposiciones de esta Ley.
 
-En todos los trabajos del Grupo Parlamentario, el coordinador contará con el auxilio del Vicecoordinador y en ausencia del primero, asumirá por cuanto a éste se refiera el segundo, incluyendo en las sesiones de la Comisión de Gobierno.
+Las funciones del Coordinador, en sus ausencias, serán asumidas por el Vicecoordinador inclusive en las sesiones de la Comisión de Gobierno.
 
-Los Grupos Parlamentarios, tendrán para los mismos efectos del párrafo anterior, personalidad jurídica en términos de lo dispuesto por las disposiciones legales aplicables.
+Los grupos parlamentarios y Coaliciones Parlamentarias tendrán para los mismos efectos del párrafo anterior, personalidad jurídica en términos de lo dispuesto por las disposiciones legales aplicables.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 82], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 87.
 
 Los Grupos Parlamentarios deberán comunicar al Pleno, a través de la Comisión de Gobierno, de la constitución, integración y coordinación; igualmente procederán cuando se sustituya a su coordinador o exista alguna alta o baja en su interior.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2006)</small>
+
+ARTÍCULO 87 BIS.- Los Grupos Parlamentarios y Coaliciones Parlamentarias podrán realizar entre ellos alianzas parlamentarias de carácter transitorio o permanente con la finalidad de establecer e impulsar agendas legislativas generales o específicas en común. Las alianzas parlamentarias transitorias serán las que se realicen para periodos ordinarios o extraordinarios específicos, mientras que las permanentes serán las que se constituyan para toda la Legislatura.
 
 ### CAPITULO ÚNICO. DEL PROCEDIMIENTO LEGISLATIVO
 
@@ -1471,3 +1487,13 @@ SEXTO.- La incorporación de la Secretaría Técnica a la estructura de la Asamb
 SÉPTIMO.- En lo relativo a la integración y funcionamiento Comisión para la Gestión Integral del Agua, entrará en vigor a partir de la IV Legislatura.
 
 OCTAVO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
