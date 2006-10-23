@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-merito-civil-del-estado-de-mexico-26748"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2003-12-02"
+last_updated: "2006-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL MERITO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 30 de agosto de 2002.
 
@@ -127,9 +127,11 @@ Las obras o actos que acrediten la asignación de las preseas no necesariamente 
 
 Podrán concurrir como triunfadoras varias personas con derecho a presea, cuando así se dictamine, en cuyo caso se distribuirá a partes iguales entre los premiados, la entrega en numerario.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 13.
 
-Las preseas serán otorgadas por el Gobernador Constitucional del Estado de México, el día 2 de marzo de cada año, en ceremonia solemne.
+Las preseas serán otorgadas por el Gobernador Constitucional del Estado de México, el día 2 de marzo de cada dos años, en ceremonia solemne.
 
 ### CAPITULO TERCERO. DE LOS ORGANOS DE PREMIACION
 
@@ -145,15 +147,19 @@ II. Los Jurados.
 
 El Consejo de Premiación es un órgano colegiado de carácter permanente, encargado de poner en estado de resolución los expedientes que se integren para el otorgamiento de los premios establecidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 16.
 
-El Consejo de Premiación se integrará por los Secretarios General de Gobierno, de Educación, Cultura y Bienestar Social y de Administración; así como por dos representantes de la Legislatura Local y dos del Tribunal Superior de Justicia. Para este efecto, el Ejecutivo del Estado invitará a los Poderes Legislativo y Judicial para que designen sus representantes.
+El Consejo de Premiación se integrará por los Secretarios General de Gobierno, de Educación, y de Finanzas; así como por dos representantes de la Legislatura Local y dos del Tribunal Superior de Justicia. Para este efecto, el Ejecutivo del Estado invitará a los Poderes Legislativo y Judicial para que designen sus representantes.
 
 Cada uno de los miembros propietarios registrará ante la Secretaría del Consejo, el nombre del servidor público que deba suplirlo en sus ausencias.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 17.
 
-El Consejo de Premiación será presidido por el Secretario General de Gobierno, y fungirá como Secretario del mismo, el titular de la Secretaría de Educación, Cultura y Bienestar Social.
+El Consejo de Premiación será presidido por el Secretario General de Gobierno, y fungirá como Secretario del mismo, el titular de la Secretaría de Educación.
 
 ###### Artículo 18.
 
@@ -343,9 +349,11 @@ Presea al Mérito Cívico "Isidro Fabela Alfaro"
 
 La presea al mérito cívico se otorgará a quienes constituyen en su comunidad ejemplos respetables de dignidad cívica por su diligente cumplimiento de la ley, por la firme y serena defensa de los derechos propios y de los demás, por el respeto a las instituciones públicas, por un relevante comportamiento de participación ciudadana o por la realización de actos heroicos.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 48.
 
-La presea se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con el Subsecretario General de Gobierno, el Procurador General de Justicia y tres miembros de reconocida honorabilidad en la entidad; asimismo, se invitará a los Poderes Legislativo y Judicial a efecto de que, a través de un representante, formen parte de este jurado.
+La presea se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con el Subsecretario General de Gobierno, un representante de la Secretaría de Desarrollo Social y tres miembros de reconocida honorabilidad en la entidad; asimismo, se invitará a los Poderes Legislativo y Judicial a efecto de que, a través de un representante, formen parte de este jurado.
 
 Presea al Mérito Municipal "Alfredo del Mazo Vélez"
 
@@ -357,9 +365,11 @@ Serán acreedores a esta presea quienes por propia voluntad, con sacrificio pers
 
 Podrá otorgarse esta presea a personas físicas que reúnan los elementos señalados en el artículo anterior, o a pueblos, comunidades o municipios considerados como personas morales.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 51.
 
-El reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado con los Secretarios de Desarrollo Urbano y Obras Públicas, de Desarrollo Económico, de Desarrollo Agropecuario y de Desarrollo Social; el Subsecretario General de Gobierno; y los Directores Generales del Sistema para el Desarrollo Integral de la Familia del Estado de México y el de Educación Básica.
+El reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado con los Secretarios de Desarrollo Urbano, de Desarrollo Económico, de Desarrollo Agropecuario y de Desarrollo Social; el Subsecretario General de Gobierno; y los Directores Generales del Sistema para el Desarrollo Integral de la Familia del Estado de México y el de Educación Básica.
 
 Presea al Trabajo "Fidel Velázquez Sánchez"
 
@@ -367,9 +377,11 @@ Presea al Trabajo "Fidel Velázquez Sánchez"
 
 La presea al trabajo se conferirá a las personas que por su capacidad organizativa o por su eficiente entrega a su cotidiana labor mejoren la productividad en el área a la que estén adscritos o sean ejemplo estimulante para los demás trabajadores.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 53.
 
-La presea se tramitará ante el Consejo de Premiación, el que instituirá un jurado integrado por los Secretarios del Trabajo y de la Previsión Social, de Desarrollo Económico y de Desarrollo Agropecuario; el Delegado de la Secretaría del Trabajo y Previsión Social de la Federación en la entidad y tres representantes de organizaciones obreras.
+La presea se tramitará ante el Consejo de Premiación, el que instituirá un jurado integrado por los Secretarios del Trabajo, de Desarrollo Económico y de Desarrollo Agropecuario; el Delegado de la Secretaría del Trabajo y Previsión Social de la Federación en la entidad y tres representantes de organizaciones obreras.
 
 Presea a la Juventud "Felipe Sánchez Solís"
 
@@ -377,9 +389,11 @@ Presea a la Juventud "Felipe Sánchez Solís"
 
 La presea a la juventud será entregada a personas menores de veinticinco años cuya conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos, y pueda considerarse como ejemplo para motivar la superación personal o el progreso de la comunidad.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 55.
 
-La presea se tramitará ante el Consejo de Premiación, el que instituirá un jurado calificador con los Secretarios del Trabajo y de la Previsión Social, de Desarrollo Agropecuario y de Desarrollo Social; el Subsecretario de Educación Media Superior y Superior, el Director General del Instituto Mexiquense de la Juventud, el Rector de la Universidad Autónoma del Estado de México y tres vocales designados por el propio Consejo.
+La presea se tramitará ante el Consejo de Premiación, el que instituirá un jurado calificador con los Secretarios del Trabajo, de Desarrollo Agropecuario y de Desarrollo Social; el Subsecretario de Educación Media Superior y Superior, el Director General del Instituto Mexiquense de la Juventud, el Rector de la Universidad Autónoma del Estado de México y tres vocales designados por el propio Consejo.
 
 Presea a la Perseverancia en el Servicio a la Sociedad "Gustavo Baz Prada"
 
@@ -405,9 +419,11 @@ Presea a la Administración Pública "Adolfo López Mateos"
 
 La presea a la administración pública se concederá a los servidores públicos del Estado que desempeñen las labores que les estén encomendadas con honradez, diligencia, constancia o acuciosidad ejemplares, así como por cualquier acto excepcional que redunde en beneficio del servicio al que estén adscritos.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 61.
 
-Este reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con un representante de la Secretaría de Administración, y tres presidentes municipales; asimismo, se invitará a los Poderes Legislativo y Judicial a efecto de que, a través de un representante, formen parte de este jurado.
+Este reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con un representante de la Secretaría de Finanzas y tres presidentes municipales; asimismo, se invitará a los Poderes Legislativo y Judicial a efecto de que, a través de un representante, formen parte de este jurado.
 
 Presea al Impulso Económico "Filiberto Gómez"
 
@@ -419,9 +435,11 @@ La presea al impulso económico se entregará a quienes en las actividades agrop
 
 El Consejo de Premiación podrá establecer una presea por cada uno de los rubros económicos que se mencionan en el artículo anterior.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 64.
 
-Este reconocimiento se tramitará ante el Consejo de Premiación, el que designará un jurado calificador presidido por el Secretario de Desarrollo Económico e Integrado por los Secretarios de Desarrollo Agropecuario y del Trabajo y de la Previsión Social; los Subsecretarios de Industria y Promoción Internacional, y el de Comercio y Turismo, los Directores Generales de Comercio, de Turismo y del Instituto de Investigación y Fomento de las Artesanías del Estado de México; y sendos representantes de organizaciones artesanales, campesinas y comerciales y de la Asociación de Industriales del Estado de México.
+Este reconocimiento se tramitará ante el Consejo de Premiación, el que designará un jurado calificador presidido por el Secretario de Desarrollo Económico e Integrado por los Secretarios de Desarrollo Agropecuario y del Trabajo; un representante mas de la Secretaría de Desarrollo Económico, dos representantes de la Secretaría de Turismo y el Director General del Instituto de Investigación y Fomento de las Artesanías del Estado de México; así como sendos representantes de organizaciones artesanales, campesinas y comerciales y de la Asociación de Industriales del Estado de México.
 
 Presea al Mérito en la Preservación del Ambiente "José Mariano Mociño Suárez Lozada"
 
@@ -429,9 +447,11 @@ Presea al Mérito en la Preservación del Ambiente "José Mariano Mociño Suáre
 
 La presea al mérito en la preservación del ambiente se otorgará a personas físicas o morales, a comunidades, a grupos de personas o a instituciones que hayan realizado acciones notables para la protección, preservación, restauración y mejoramiento del equilibrio ecológico y del medio ambiente en el Estado.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 66.
 
-El otorgamiento de la presea se discernirá en el Consejo de Premiación, que designará un jurado calificador integrado por cinco a diez miembros, cuya calificación y conocimientos en la materia sean reconocidos e idóneos por la naturaleza del premio. En todo caso, deberán formar parte de este jurado el Secretario de Desarrollo Urbano y Obras Públicas, el de Ecología, y un representante de las instituciones públicas de educación superior del Estado; asimismo, se invitará al Poder Legislativo a efecto de que, a través de un representante, forme parte de este jurado.
+El otorgamiento de la presea se discernirá en el Consejo de Premiación, que designará un jurado calificador integrado por cinco a diez miembros, cuya calificación y conocimientos en la materia sean reconocidos e idóneos por la naturaleza del premio. En todo caso, deberán formar parte de este jurado el Secretario de Desarrollo Urbano, el de Medio Ambiente, y un representante de las instituciones públicas de educación superior del Estado; asimismo, se invitará al Poder Legislativo a efecto de que, a través de un representante, forme parte de este jurado.
 
 Presea "José María Luis Mora"
 
@@ -453,11 +473,11 @@ PRESEA A RESIDENTES EN EL EXTRANJERO "JOSÉ MARÍA HEREDIA Y HEREDIA".
 
 La presea "José María Heredia y Heredia" se entregará a las personas físicas residentes en el extranjero que sean originarias del Estado de México, y que hayan realizado acciones, obras o servicios de carácter relevante en favor de la humanidad, el país, el Estado de México o su comunidad.
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 68-B.
 
-Este reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con el Coordinador General de Enlace Institucional o su equivalente, el Subsecretario General de Gobierno, el Subsecretario de Industria y Promoción Internacional, un representante de la Secretaría del Trabajo y de la Previsión Social y otro de la Secretaría de Educación, Cultura y Bienestar Social, y tres presidentes municipales.
+Este reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con el Coordinador General de Enlace Institucional o su equivalente, el Subsecretario General de Gobierno, un representante de la Secretaría de Desarrollo Económico, un representante de la Secretaría del Trabajo y otro de la Secretaría de Educación y tres presidentes municipales.
 
 ### CAPITULO SEXTO. DE LOS RECONOCIMIENTOS ESPECIALES
 
@@ -501,9 +521,11 @@ La ceremonia de la inhumación será solemne, y deberá observar las formalidade
 
 En todo caso, la ceremonia de inhumación será presidida por el Titular del Ejecutivo, o bien el representante que él designe. Asimismo, se convocará a los titulares o representantes de los Poderes Legislativo y Judicial de la Entidad.
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 78.
 
-La Secretaría de Educación y Cultura y Bienestar Social imprimirá un Libro que contendrá la relación biográfica de aquellos que, por haber merecido el reconocimiento del Estado, están inhumados en la Rotonda de los Hombres Ilustres del Estado de México, agregándose las solicitudes que se hubieren presentado para decretar la inhumación y los documentados en que ésta se fundamenta.
+La Secretaría de Educación, imprimirá un Libro que contendrá la relación biográfica de aquellos que, por haber merecido el reconocimiento del Estado, están inhumados en la Rotonda de los Hombres Ilustres del Estado de México, agregándose las solicitudes que se hubieren presentado para decretar la inhumación y los documentados en que ésta se fundamenta.
 
 T R A N S I T O R I O S
 
@@ -538,3 +560,11 @@ PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente acuerdo.
+
+G.G. 23 DE OCTUBRE DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- El siguiente otorgamiento de las Preseas "Estado de México", será en el año 2008.
