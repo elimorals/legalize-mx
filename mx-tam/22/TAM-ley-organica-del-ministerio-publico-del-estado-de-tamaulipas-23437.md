@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-ministerio-publico-del-estado-de-tamaulipas-23
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-30"
-last_updated: "2006-09-12"
+last_updated: "2006-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de enero de 2002.
 
@@ -191,9 +191,11 @@ Los servidores públicos que estén en el supuesto previsto por este artículo e
 
 El desempeño de las funciones del Ministerio Público estará a cargo del Procurador General de Justicia, quién podrá realizarlas por sí o por conducto de los servidores públicos de la institución y de sus órganos auxiliares, quienes las desempeñarán de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, la local del Estado, los Código (sic) Penal y de Procedimientos Penales, esta ley, su Reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 6°.
 
-El Procurador será designado por el Gobernador del Estado en los términos de la Constitución Política del Estado.
+El Procurador será designado por el Gobernador del Estado, con la ratificación del Congreso del Estado, en los términos de la Constitución Política del Estado.
 
 ###### ARTICULO 7°.
 
@@ -209,9 +211,11 @@ El Procurador determinará sobre el ingreso, adscripción, promoción, renuncias
 
 Podrá designar temporalmente a los servidores públicos de la Procuraduría cuando así lo requiera una causa grave o urgente, por medio de la cual se ponga en riesgo la integridad y seguridad de la institución o del propio Estado, debiendo informar de inmediato al titular del Ejecutivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 10.
 
-Corresponde al Gobernador nombrar y remover libremente al Procurador General, Primer y Segundo Sub Procurador General, Delegados Regionales, Coordinador, Directores y al Agente del Ministerio Público Especial para Asuntos Electorales.
+Corresponde al Gobernador designar con la ratificación del Congreso del Estado al Procurador General de Justicia con la facultad de removerlo libremente. Así mismo podrá nombrar y remover libremente al Primer y Segundo Subprocurador General, Delegados Regionales, Coordinador, Directores y al Agente del Ministerio Público Especial para Asuntos Electorales.
 
 Por su parte, corresponde al Procurador, previo acuerdo con el titular del Ejecutivo, la atribución para designar Subdirectores, Supervisores, Agentes del Ministerio Público, Jefes de Departamento, Oficiales Secretarios, Comandantes, Jefes de Grupo, Agentes de la Policía Ministerial y demás personal que se requiera, con base en el Presupuesto de Egresos del Estado.
 
@@ -832,3 +836,9 @@ Las investigaciones que se estén integrando con motivo de conductas tipificadas
 ###### ARTICULO CUARTO.
 
 Se autoriza al Ejecutivo del Estado para que en los términos del Decreto del Presupuesto de Egresos del Estado para el presente ejercicio fiscal, realice las adecuaciones necesarias a estructurar los servicios de su competencia previstos en el presente Decreto. En el caso del Poder Judicial del Estado, por conducto de su representante hará la solicitud de ampliación de recursos presupuestales al Ejecutivo del Estado para atender los servicios que le competen conforme a esa misma disposición. Las transferencias y ampliaciones necesarias se incluirán en la cuenta pública correspondiente.
+
+P.O. 24 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
