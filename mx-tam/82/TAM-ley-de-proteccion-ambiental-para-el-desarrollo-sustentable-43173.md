@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-ambiental-para-el-desarrollo-sustentable-4317
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2005-10-12"
+last_updated: "2006-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 12 DE OCTUBRE DE 2005
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2006.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -173,7 +173,9 @@ f) Integrar, mantener actualizado y publicar el inventario de fuentes fijas de c
 
 g) La regulación del aprovechamiento sustentable, prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tengan asignadas;
 
-h) La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2006)</small>
+
+h) La prevención y el control de la contaminación originada por ruido, vibraciones, energía térmica, energía lumínica, radiaciones no ionisantes (sic) producto de campos electromagnéticas, emisores de radiofrecuencia y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que, conforme a la Ley General, sean consideradas como de jurisdicción federal;
 
 i) La regulación de actividades que no sean consideradas altamente riesgosas para el ambiente, cuando afecten al equilibrio ecológico de los ecosistemas o el ambiente dentro del territorio del Estado;
 
@@ -1970,5 +1972,11 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 P.O. 12 DE OCTUBRE DE 2005.
 
 ###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
