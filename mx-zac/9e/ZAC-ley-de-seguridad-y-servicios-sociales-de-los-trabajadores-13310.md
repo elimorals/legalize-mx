@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-13310
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "2001-04-18"
+last_updated: "2006-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2001
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de agosto de 1986.
 
@@ -781,17 +781,41 @@ a) El Director General, quien fungirá como Presidente de la misma y será nombr
 
 b) El Secretario de Finanzas del Gobierno del Estado;
 
-c) El Secretario de Administración del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+c) El Oficial Mayor del Gobierno del Estado;
 
 d) Un Representante Sindical de los trabajadores al servicio del Estado, municipios e instituciones descentralizadas del Estado;
 
 e) Un Representante de la Sección 58 del Sindicato Nacional de Trabajadores de la Educación;
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+f) Un representante del Sindicato Independiente de Trabajadores de Telesecundaria en el Estado de Zacatecas (SITTEZ).
+
 II. La Comisión de Vigilancia la formarán:
 
-a) El Secretario de la Contraloría General del Estado, que tendrá el carácter de Presidente;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2006)</small>
 
-b) Un Representante de la Secretaría de Finanzas del Gobierno del Estado.
+a) El Titular de la Contraloría Interna del Estado, quien tendrá el carácter de Presidente;
+
+b) Un Representante de la Secretaría de Finanzas del Gobierno del Estado;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+c) El Director General del Instituto;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+d) Un Representante del Sindicato Único de Trabajadores al Servicio del Estado, Municipios y Organismos Paraestatales (SUTSEMOP);
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+e) Un Representante de la Sección 58 del Sindicato Nacional de Trabajadores de la Educación;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+f) Un Representante del Sindicato Independiente de los Trabajadores de Telesecundaria en el Estado de Zacatecas (SITIEZ).
 
 ###### ARTICULO 103.
 
@@ -1084,3 +1108,7 @@ LIC. ROBERTO ALMANZA FELIX.
 P.O. 18 DE ABRIL DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
