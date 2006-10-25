@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-21358"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-30"
-last_updated: "2001-04-30"
+last_updated: "2006-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACION PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de abril de 2001.
 
@@ -199,9 +199,17 @@ XVIII. Supervisar que la educación impartida en los establecimientos particular
 
 XIX. Impulsar el desarrollo de la enseñanza y la investigación científica y tecnológica;
 
-XX. Promover la investigación e innovación educativas; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2006)</small>
 
-XXI. Estimular la producción de obras y material didáctico por medio de la emisión gratuita de los contenidos, el otorgamiento de subvenciones o recompensas, o mediante distinciones honoríficas.
+XX. Promover la investigación e innovación educativa;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+XXI. Estimular la producción de obras y materiales didácticos por medio de la emisión gratuita de los contenidos, el otorgamiento de subvenciones o recompensas, o mediante distinciones honoríficas; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+XXII. Establecer una efectiva y estrecha coordinación con la Secretaría de Salud y demás autoridades competentes, con el fin de promover programas y acciones que fomenten en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos el seguimiento de una alimentación sana y la práctica de actividad física, dirigidas a lograr estilos de vida saludables. Asimismo, establecer estrategias y medidas que tiendan a desmotivas el consumo de alimentos con bajo o nulo valor nutricional, así como prohibir la venta de estos productos en los aspectos de las instituciones de nivel básico.
 
 ###### ARTÍCULO 15.
 
@@ -1182,3 +1190,15 @@ Gonzalo M. Armienta Calderón.
 El Secretario de Educación Pública y Cultura.
 
 J. Antonio Malacón Díaz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto empezará a surtir sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, en un plazo de sesenta días naturales contados a partir de la iniciación de la vigencia de este Decreto, elaborará la reglamentación correspondiente.
