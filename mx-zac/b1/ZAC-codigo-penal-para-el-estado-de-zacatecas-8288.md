@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2006-02-01"
+last_updated: "2006-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2006.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -820,6 +820,14 @@ V.- Las que otras leyes o reglamentos señalen como tales.
 ### CAPITULO IV. ASOCIACION DELICTUOSA
 
 141.- Se impondrá prisión de tres meses a cuatro años y multa de cinco a veinte cuotas, al que forme parte de una asociación o banda de tres o más personas, organizada para delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+
+141 Bis.- Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión, hasta una mitad más de las penas que les correspondan por el o los delitos cometidos.
+
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito con violencia sobre la víctima.
+
+Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
 ### CAPITULO V. DELITOS DE TRANSITO EJECUTADOS POR MANEJADORES DE VEHICULOS O AUTORIDADES DE TRANSITO
 
@@ -3058,3 +3066,9 @@ P.O. 1 DE FEBRERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- A las personas que hayan cometido alguno de los delitos contemplados en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el momento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+
+P.O. 25 DE OCTUBRE DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- A las personas que hayan cometido algún delito en las circunstancias que se contempla, en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el comento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
