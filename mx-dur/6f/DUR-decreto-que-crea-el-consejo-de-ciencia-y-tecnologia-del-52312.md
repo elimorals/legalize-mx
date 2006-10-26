@@ -4,7 +4,7 @@ identifier: "DUR-decreto-que-crea-el-consejo-de-ciencia-y-tecnologia-del-52312"
 country: "mx"
 rank: "decreto"
 publication_date: "1996-04-18"
-last_updated: "1996-04-18"
+last_updated: "2006-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 DECRETO QUE CREA EL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Durango, el jueves 18 de abril de 1996.
 
@@ -288,3 +290,53 @@ LIC. ALFREDO BRACHO BARBOSA
 EL SECRETARIO DE EDUCACIÓN CULTURA Y DEPORTE
 
 ING. EMILIANO HERNANDEZ CAMARGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 26 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la publicación de la presente Ley, se abroga el Decreto Administrativo que creó el Consejo de Ciencia y Tecnología del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, de fecha 18 de abril de 1996.
+
+###### ARTICULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado emitirá el acuerdo de sectorización del COCYTED a la Secretaría de Educación del Estado, dentro de los treinta días siguiente a la entrada en vigor de esta Ley.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO QUINTO.
+
+A partir de la entrada en vigor de la presente ley, el COCYTED se sujetará a las disposiciones que en ella se prevén, debiendo adecuar su estructura orgánica y su funcionamiento interno, conforme ha quedado establecido en la presente ley.
+
+###### ARTICULO SEXTO.
+
+La Junta Directiva del COCYTED deberá integrarse y efectuar su sesión constitutiva dentro de los quince días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Junta Directiva del COCYTED emitirá el Reglamento Interior del mismo, dentro de los sesenta días posteriores a la fecha de la sesión constitutiva de la Junta Directiva.
+
+###### ARTICULO OCTAVO.
+
+En tanto no se expidan las disposiciones reglamentarias y administrativas correspondientes derivadas de la aplicación de la presente Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos de carácter general existentes a la fecha de entrada en vigor de la presente Ley.
+
+A partir de la entrada en vigor de la presente Ley, deberán emitirse y publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, las disposiciones administrativas y reglamentarias de carácter general derivadas de la aplicación de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+El COCYTED conservará dentro de su patrimonio todos los bienes, archivos y recursos presupuestales que le hayan sido asignados.
+
+###### ARTICULO DÉCIMO.
+
+Los servidores públicos y demás personal que laboren en el COCYTED, seguirán formando parte del mismo, respetándose en todo momento sus derechos laborales adquiridos en los términos de la legislación aplicable.
+
+###### ARTICULO DÉCIMO PRIMERO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor de la presente Ley, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
