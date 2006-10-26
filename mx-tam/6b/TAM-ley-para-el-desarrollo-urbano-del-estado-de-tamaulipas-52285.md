@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2006-04-25"
+last_updated: "2006-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -85,7 +85,9 @@ VI. La constitución de reservas territoriales;
 
 VII. La preservación y protección al ambiente, así como la protección y conservación de las áreas naturales; y
 
-VIII. La construcción de vivienda de interés social.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+VIII. Fomentar la construcción de vivienda de interés social.
 
 2. Para la mejor protección del interés público, el Estado llevará a cabo:
 
@@ -121,7 +123,9 @@ IX. El fomento para el establecimiento de reservas territoriales;
 
 X. La dotación suficiente y adecuada de infraestructura y equipamiento urbano, así como la debida prestación de los servicios públicos;
 
-XI. El establecimiento de normas y procedimientos del mercado inmobiliario y el de la vivienda de interés social;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XI. El diseño de programas que impulsen el mercado inmobiliario y el desarrollo de la vivienda de interés social;
 
 XII. La aplicación y observancia de las políticas urbanas de ordenamiento, mejoramiento, crecimiento y conservación, previstas en los planes aplicables; y
 
@@ -135,7 +139,9 @@ I. Inversiones, obras, prestación de servicios o cualquier otra acción en mate
 
 II. Fraccionamiento, relotificación, división, subdivisión o fusión de áreas o predios;
 
-III. Constitución del régimen de propiedad en condominio en cualquier modalidad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+III. La Constitución del régimen de propiedad en condominio en cualquier modalidad, sin contravenir lo dispuesto en la Ley del Régimen de Propiedad en Condominio;
 
 IV. Acciones que afecten el patrimonio natural o cultural y la imagen urbana de las áreas urbanizadas;
 
@@ -199,9 +205,15 @@ XXIII. FRACCIONAMIENTO CAMPESTRE: Es la porción de superficie territorial que s
 
 XXIV. FRACCIONAMIENTO ESPECIAL: Es la porción de superficie territorial que por su localización, topografía, diseño, densidad, usos y destinos del suelo propuestos o fin social justificado, requieren de estudios complementarios y los resolutivos correspondientes;
 
-XXV. FRACCIONAMIENTO HABITACIONAL: Es la porción de superficie territorial cuyos lotes se aprovecharán predominantemente para vivienda y que deberán ser urbanizados en su totalidad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-XXVI. FRACCIONAMIENTO INDUSTRIAL: Es la porción de superficie territorial destinada al alojamiento de actividades predominantemente industriales y que deberán ser urbanizados en su totalidad;
+XXV. FRACCIONAMIENTO HABITACIONAL: Es la porción de superficie territorial cuyos lotes se aprovecharán predominantemente para vivienda y que deberán ser urbanizados en su totalidad, pudiendo ejecutarse por etapas.
+
+La densidad de viviendas por hectárea será determinada por el Plan Municipal de Ordenamiento Territorial y Desarrollo Urbano que corresponda;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XXVI. FRACCIONAMIENTO INDUSTRIAL: Es la porción de superficie territorial destinada al alojamiento de actividades predominantemente industriales y que deberán ser urbanizados en su totalidad, pudiendo ejecutarse por etapas;
 
 XXVII. FRACCIONAMIENTO POPULAR: Es la porción de superficie territorial destinada al desarrollo predominantemente habitacional que se localiza en zonas previstas para densidad alta, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y solo serán enajenados por organismos federales, estatales o municipales;
 
@@ -261,7 +273,9 @@ LII. SUBDIVIDIR: Es la acción mediante la cual un predio que ya ha sido dividid
 
 LIII. USOS: Son los fines a los que se sujetarán las zonas o predios particulares;
 
-LIV. URBANIZACIÓN SECUENCIAL: Es el proceso para introducir infraestructura en un desarrollo mediante diversas etapas, atendiendo las disposiciones de esta ley;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+LIV. URBANIZACIÓN SECUENCIAL: Es aplicable exclusivamente en fraccionamientos populares, y se define como el proceso de urbanizar parcialmente un fraccionamiento popular, de forma tal que pueda comercializarse por la autoridad competente sin que cuente con la urbanización total;
 
 LV. VÍA PÚBLICA: Es todo inmueble del dominio público y utilización común que por disposición de la ley, o por razón del servicio, se destine al libre tránsito; o bien que de hecho está ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público; y
 
@@ -403,9 +417,13 @@ XXII. Resolver sobre los recursos administrativos que conforme a su competencia 
 
 XXIII. Ordenar las anotaciones marginales de los usos y destinos establecidos en el Sistema Estatal;
 
-XXIV. Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios ejidales; y
+XXIV. Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios ejidales; y (sic)
 
-XXV. Las demás que le confiera este ordenamiento, y demás disposiciones legales.
+XXV. Las demás que le confiera este ordenamiento, y demás disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XXVI. Las atribuciones a que se refiere este artículo serán ejercidas por el titular del Instituto y sus unidades administrativas.
 
 2. Las atribuciones a que se refiere este artículo serán ejercidas por el titular del Instituto y sus unidades administrativas.
 
@@ -719,9 +737,11 @@ El Gobierno del Estado, por conducto del Instituto, y los Ayuntamientos, deberá
 
 Cuando para satisfacer las necesidades en materia de desarrollo urbano, asentamientos humanos u ordenamiento territorial, se requiera de terrenos nacionales, ejidales o comunales, el Estado por conducto del Instituto y los Ayuntamientos, en su caso, harán las gestiones correspondientes con objeto de adquirir las reservas para el crecimiento urbano.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 39.
 
-Cuando se trate de predios de origen ejidal y se pretenda hacer la primera venta, es obligatorio agotar el derecho de preferencia que corresponde al Gobierno del Estado, tutelado en la Ley General de Asentamientos Humanos y previsto en la Ley Agraria. Para tal efecto, se deberá recabar la opinión del Instituto, sobre el interés que pueda tener en adquirir el inmueble en cuestión.
+Cuando se trate de predios de origen ejidal y se pretenda hacer la primera venta, es obligatorio agotar el derecho de preferencia que corresponde al Gobierno del Estado, tutelado en la Ley General de Asentamientos Humanos y previsto en la Ley Agraria. Para tal efecto, se deberá recabar la opinión del Instituto, y del Ayuntamiento que corresponda de acuerdo a la ubicación del predio objeto de la operación pretendida, debiendo éstos emitir en forma escrita e indubitable su interés en adquirir dicho predio en un término no mayor de 30 días naturales contados a partir del día siguiente en que se efectúe la notificación correspondiente; en caso de no producirse la respuesta, se entenderá que no se tiene interés en adquirir dicho predio.
 
 ###### ARTÍCULO 40.
 
@@ -805,7 +825,7 @@ IV. Zonas industriales deterioradas o abandonadas, donde los procesos productivo
 
 V. Zonas de conservación patrimonial que tienen valores históricos, arqueológicos, arquitectónicos y artísticos o típicos, así como las que sin estar formalmente clasificadas como tales, presenten características que requieren atención especial para mantener y elevar sus valores;
 
-VI. Zonas susceptibles de rescate, cuyas condiciones naturales ya hayan sido alteradas por la presencia de usos inconvenientes o por el manejo indebido de recursos naturales y que requieran de acciones para reestablecer (sic) en lo posible su situación original; en estas áreas se ubican los asentamientos humanos rurales. Las obras que se realicen en dichas zonas se condicionarán a que se lleven a cabo acciones para establecer el equilibrio ambiental.
+VI. Zonas susceptibles de rescate, cuyas condiciones naturales ya hayan sido alteradas por la presencia de usos inconvenientes o por el manejo indebido de recursos naturales y que requieran de acciones para reestablecer (sic) en lo posible su situación original; en estas áreas se ubican los asentamientos humanos rurales. Las obras que se realicen en dichas zonas se condicionarán a que se lleven a cabo acciones para establecer el equilibrio ambiental;
 
 VII. Zonas naturales en cuya extensión no presentan alteraciones graves y que requieren medidas para el control del uso del suelo, así como para desarrollar en ellos actividades que sean compatibles con la función de conservación natural; y
 
@@ -819,7 +839,9 @@ VIII. Zonas destinadas a la producción agropecuaria, piscícola, forestal, agro
 
 1. El espacio que integra la vía pública está limitado por el plano vertical que siguen el alineamiento oficial o el lindero de la misma.
 
-2. Las vías públicas son inalienables, intransmisibles, inembargables e imprescriptibles.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+2. Las vías públicas son inalienables, intransmisibles, inembargables e imprescriptibles. No serán consideradas vías públicas aquellas vialidades que se diseñen, y en su caso se construyan, dentro de un desarrollo sujeto al régimen de propiedad en condominio.
 
 3. Para efectos de esta ley, las vías públicas se clasifican de la siguiente manera:
 
@@ -833,25 +855,37 @@ a) De doble sentido de circulación: Tendrán un derecho de vía de treinta metr
 
 b) De un sentido de circulación: Estarán formadas por dos vialidades que entre sus ejes no tengan más de trescientos metros, con sentidos contrarios de circulación. Tendrán un derecho de vía de veinte metros con dos banquetas de tres metros cada una y una calzada principal de catorce metros;
 
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
 IV. VÍAS TERCIARIAS: Son los caminos o vialidades que colindan con el frente de los predios de un fraccionamiento. Por definición, son de menor sección transversal, y están diseñadas para que los automóviles transiten a baja velocidad. Deberá preverse una vialidad de este tipo a cada 150 metros entre ejes, cuando menos.
 
-Con el objetivo de que las vialidades terciarias sean más seguras, se deberán diseñar para que sean utilizadas con un solo sentido de circulación, y el desarrollador del fraccionamiento podrá disponer todas las vialidades terciarias bajo este criterio.
+> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-En caso de que el propio diseño de las vialidades demande que una o varias deban de utilizarse con doble sentido de circulación, aplicará lo señalado en el inciso b) de este artículo.
+> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-El desarrollador podrá proponer más vialidades con doble sentido de circulación, pero deberá observar invariablemente lo establecido en el artículo 52, fracción II.
+> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-Cuando se trate de vialidades cerradas, que por definición deben de utilizarse con doble sentido de circulación, el desarrollador acordará con la autoridad la sección más conveniente, pero deberá cumplir cuando menos con la sección especificada en el inciso a) de la fracción IV de este artículo.
+> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-Las vialidades terciarias podrán ser como sigue (sic):
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-a). De un solo sentido de circulación: Tendrán un derecho de vía de trece metros, con dos banquetas de dos metros cada una, y una calzada principal de nueve metros; y
+Las vialidades terciarias tendrán un derecho de vía de trece metros con banquetas de dos metros cada una, y una calzada de 9 metros para el tránsito de los vehículos, preferentemente de un solo sentido de circulación.
 
-b). De doble sentido de circulación: Tendrán un derecho de vía de dieciséis metros con cincuenta centímetros, con dos banquetas de dos metros cada una, y una calzada principal de doce metros con cincuenta centímetros, de la cual se destinarán cincuenta centímetros a señalar una franja separadora central entre los carriles de circulación, que incremente la seguridad.
+a) (DEROGADO, P.O. 26 DE OCTUBRE DE 2006)
+
+b). (DEROGADO, P.O. 26 DE OCTUBRE DE 2006)
 
 V. VÍAS PEATONALES: Son los caminos de uso exclusivo del peatón con un ancho mínimo de seis metros.
 
-Todas las vialidades, de uso vehicular, peatonal o mixto deberán asegurar que los vehículos para la atención de emergencias puedan acceder en todo momento.
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+VI. DISPOSICIONES DIVERSAS:
+
+a) Todas las vialidades, de uso vehicular, peatonal o mixto deberán asegurar que los vehículos para la atención de emergencias puedan acceder en todo momento.
+
+b) Las vialidades se diseñarán estructuralmente de acuerdo a las características y especificaciones previstas por la Norma Oficial Mexicana. A falta de lo anterior, se aplicarán los criterios de diseño que la autoridad competente establezca.
+
+c) En caso de que el fraccionamiento que se presenta para autorización se ubique en una zona urbana ya desarrollada, y ésta deba de conectarse a vialidades existentes de cualquier tipo, los trazos de vialidades del nuevo fraccionamiento deberán ser congruentes con las vialidades existentes. Sin embargo, en ningún caso las vialidades del nuevo fraccionamiento podrán tener menos de trece metros de derecho de vía, ni menos de nueve metros de calzada principal para el tránsito de los vehículos.
 
 ## TÍTULO VIII. DE LOS FRACCIONAMIENTOS, DIVISIONES, SUBDIVISIONES, FUSIONES Y RELOTIFICACIONES DEL SUELO
 
@@ -925,15 +959,17 @@ Los cementerios públicos, ubicados tanto en el área urbana como en la rural, �
 
 VII. ESPECIAL: Es aquel que por su localización, topografía, diseño, densidad, usos y destinos del suelo propuestos o fin social justificado, podrá tener características particulares que sean procedentes de acuerdo a la ley. Requieren de estudios complementarios y los resolutivos correspondientes; en todo caso deberá garantizarse el acceso de los servicios de emergencia al fraccionamiento.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 50.
 
-El interesado en urbanizar el suelo, desarrollar fraccionamientos o condominios habitacionales de cualquier tipo, deberá respetar una dimensión que no podrá ser menor de seis metros lineales en el frente de los lotes o de las áreas privativas para uso habitacional que serán objeto de enajenación.
+El interesado en urbanizar el suelo, para desarrollar fraccionamientos habitacionales, deberá respetar una dimensión que no podrá ser menor de seis metros lineales en el frente. No estarán sujetos a esta restricción los desarrollos habitacionales que sean sujetos al régimen de propiedad en condominio.
 
 ###### ARTÍCULO 51.
 
 El procedimiento para desarrollar el fraccionamiento de un predio es el siguiente:
 
-I. ETAPA 1.- USO DEL SUELO Y LlNEAMIENTOS URBANÍSTICOS: El fraccionador deberá obtener el certificado de uso de suelo y los lineamientos urbanísticos aplicables conforme a lo previsto por el Programa Municipal.
+I. ETAPA 1.- USO DEL SUELO Y LlNEAMIENTOS URBANÍSTICOS: El. fraccionador deberá obtener el certificado de uso de suelo y los lineamientos urbanísticos aplicables conforme a lo previsto por el Programa Municipal.
 
 Al efecto, el fraccionador presentará ante la autoridad municipal la siguiente documentación:
 
@@ -977,7 +1013,9 @@ h) Criterios para plantar árboles en las áreas públicas;
 
 II. ETAPA 2.- LOTIFICACIÓN: Con base en los lineamientos urbanísticos, el fraccionador presentará el proyecto del fraccionamiento con las vialidades y los sentidos de circulación, rasantes, Iotificación, área vendible, áreas de cesión y afectaciones, en su caso, tanto por condiciones naturales, como por destinos previstos en los programas vigentes de desarrollo urbano. La dependencia u oficina municipal competente, emitirá dictamen para someterlo a la aprobación del Ayuntamiento. Esta autorización quedará sin efecto en caso de que al término de un año, el fraccionador no concluya el trámite señalado en la misma.
 
-El fraccionador deberá registrar en el Sistema Estatal, el proyecto de fraccionamiento autorizado por el Ayuntamiento. El Registro Público de la Propiedad y del Comercio no inscribirá el proyecto de fraccionamiento del cual no se acredite haberse registrado en el Sistema Estatal.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+El fraccionador deberá registrar en el Sistema Estatal, el proyecto de fraccionamiento autorizado por el Ayuntamiento, debiendo además sujetarse a lo establecido en el artículo 69 de esta Ley.
 
 III. ETAPA 3.- PROYECTO EJECUTIVO Y VENTAS: El fraccionador deberá presentar lo siguiente:
 
@@ -1007,7 +1045,9 @@ El valor de la garantía podrá ser actualizado semestralmente en caso de que el
 
 l) Solicitud de autorización de ventas.
 
-El fraccionador podrá pedir se le autorice urbanizar por etapas. En este caso de urbanización, la garantía a la que se refiere el inciso k) del párrafo anterior equivaldrá al costo total de las obras de infraestructura de la etapa de que se trate, pero no será menor del treinta por ciento del monto original. Cuando un fraccionamiento sea de cien lotes, o menos, la urbanización sólo podrá autorizarse en una sola etapa.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+El fraccionador podrá pedir se le autorice urbanizar por etapas. En este caso de urbanización, la garantía a la que se refiere el inciso k) del párrafo anterior equivaldrá al costo total de las obras de infraestructura de la etapa de que se trate, pero no será menor del treinta por ciento del monto original.
 
 Los planos deberán tener la autorización de los organismos correspondientes debiendo contener el nombre y el cargo de quien o quienes autorizan, las firmas autógrafas y el sello del organismo, y estar firmados por el propietario.
 
@@ -1045,7 +1085,9 @@ b) Iluminación
 
 c) Instalación de juegos infantiles; y
 
-d) Un árbol por cada sesenta metros cuadrados de superficie. Los árboles deberán tener una altura mínima de tres metros y un tronco de diámetro mayor a ocho centímetros.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+d) Un árbol por cada sesenta metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros; y (sic)
 
 V.- En contraparte a las obligaciones señaladas en la fracción IV de este artículo, el desarrollador solicitará por escrito a la autoridad municipal la recepción de dichas áreas. En caso de no existir causa justificada que la autoridad municipal notifique por escrito al desarrollador, será el Ayuntamiento el responsable de dar mantenimiento a las áreas referidas, quedando el desarrollador en todo caso obligado a garantizar la reparación de deficiencias que pudiesen surgir, atendiendo para ello los criterios de garantía que se señalan en esta misma Ley. El plazo para que el Ayuntamiento reciba o en su caso señale observaciones, es de quince días calendario a partir de presentada la solicitud;
 
@@ -1053,7 +1095,9 @@ VI. Cuando el polígono del terreno a desarrollar como fraccionamiento tenga una
 
 a). El área de cesión no podrá ser menor al diez por ciento del área vendible.
 
-b). El área vendible final, ya restada el área de cesión, no podrá exceder del 53% de la superficie total del polígono desarrollado;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+b) El área vendible final, ya restada el área de cesión, no podrá exceder del 53% de la superficie total del polígono desarrollado. No aplica esta restricción en caso de que el área de cesión sea cuando menos equivalente al 15% del área vendible.
 
 c) Deberá cumplir con los lineamientos urbanísticos en materia de vialidades y frente mínimo de lote, señalados en esta misma Ley; y
 
@@ -1167,7 +1211,11 @@ DE LAS AUTORIZACIONES DE DIVISIONES, SUBDIVISIONES, FUSIONES, Y RELOTIFICACIONES
 
 ###### ARTÍCULO 64.
 
-1. La autorización de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados que no requieren del trazo de una o más vías para dar acceso a los lotes resultantes, será otorgada por la autoridad municipal y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+1. La autorización de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados que no requieren del trazo de una o más vías públicas para dar acceso a los lotes resultantes, será otorgada por la autoridad municipal y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
 2. Si el predio requiere del trazo de una o más vías públicas para dar acceso a lotes resultantes o cuando la superficie sea mayor de diez mil metros cuadrados, se le dará el tratamiento de fraccionamiento, debiendo el interesado cumplir con los requisitos establecidos en esta ley para su aprobación.
 
@@ -1231,15 +1279,23 @@ VIII. Los que acrediten el cumplimiento de los requisitos establecidos en las de
 
 ### CAPÍTULO III. DE LA INSCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 69.
 
-1. Quien obtenga la autorización para fraccionar, dividir, subdividir, fusionar o relotificar uno o varios predios, deberá registrar los permisos y documentación gráfica correspondiente en el Sistema Estatal.
+1. Quien obtenga la autorización para fraccionar, dividir, subdividir, fusionar o relotificar uno o varios predios, deberá inscribirla en el Registro Público de la Propiedad y del Comercio.
 
-2. La inscripción en el Registro Público de la Propiedad y del Comercio de la autorización referida en el párrafo anterior, requerirá de la presentación de la constancia de registro en el Sistema Estatal.
+2. El Registro Público de la Propiedad y del Comercio notificará al Sistema Estatal, dentro de los quince días naturales siguientes a la fecha de registro, de la inscripción efectuada por quien hubo obtenido la autorización de fraccionar, dividir, fusionar o relotificar uno o varios predios.
+
+3. El representante legal del predio inscrito en el Registro Público de la Propiedad y del Comercio, tendrá la obligación de entregar, en el Sistema Estatal copia de los permisos y documentación gráfica correspondiente a la autorización de que se trate. El plazo para la entrega referida será de cinco días naturales a la fecha de inscripción ante el Registro Público de la Propiedad y del Comercio.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 70.
 
-El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo del fraccionamiento, tanto en el Sistema Estatal como en el Registro Público de la Propiedad y del Comercio.
+1. El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo del fraccionamiento, en el Registro Público de la Propiedad y del Comercio.
+
+2. El representante legal del predio inscrito en el Registro Público de la Propiedad y del Comercio, tendrá la obligación de entregar, en el Sistema Estatal copia de los permisos y documentación gráfica correspondiente a la autorización de que se trate. El plazo para la entrega referida será de cinco días naturales a la fecha de inscripción ante el Registro Público de la Propiedad y del Comercio.
 
 ###### ARTÍCULO 71.
 
@@ -1391,9 +1447,11 @@ V. Realizar el pago de los derechos correspondientes.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 87.
 
-Toda persona que tenga conocimiento de que se han autorizado o se están llevando a cabo, construcciones, cambios de usos del suelo, destinos del suelo, actos o acciones urbanas en contravención a las disposiciones de esta ley, a los programas de ordenamiento territorial y desarrollo urbano aplicables u otras disposiciones de carácter general en la materia, podrá denunciarlo ante la autoridad competente para que se inicie al procedimiento administrativo correspondiente y se apliquen, en su caso, las medidas de seguridad y sanciones respectivas cuando:
+Toda persona con interés jurídico que tenga conocimiento de que se han autorizado o se están llevando a cabo, construcciones, cambios de usos del suelo, destinos del suelo, actos o acciones urbanas en contravención a las disposiciones de esta ley, a los programas de ordenamiento territorial y desarrollo urbano aplicables u otras disposiciones de carácter general en la materia, podrá denunciarlo ante la autoridad competente para que se inicie al procedimiento administrativo correspondiente y se apliquen, en su caso, las medidas de seguridad y sanciones respectivas cuando:
 
 I. Originen un deterioro en la calidad de vida de los asentamientos humanos de la zona;
 
@@ -1531,7 +1589,9 @@ b) La construcción sea distinto (sic) al tipo de fraccionamiento o desarrollo a
 
 c) La realización de ventas o actos tendientes a concretarlas sin contar con la autorización correspondiente; y
 
-d) La ausencia de inscripción en el Sistema Estatal.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+d) La omisión en la entrega de copia de autorizaciones al Sistema Estatal, de acuerdo a lo señalado en esta ley.
 
 III. Realizar alguna construcción, instalación, demolición o excavación, sin contar con la debida autorización;
 
@@ -1684,3 +1744,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiún días del mes de abril del año dos mil seis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
