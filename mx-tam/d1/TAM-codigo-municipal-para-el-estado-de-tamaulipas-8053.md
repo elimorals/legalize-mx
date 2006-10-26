@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2006-09-12"
+last_updated: "2006-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -727,25 +727,51 @@ VI.- Revisar frecuentemente las relaciones de rezagos para que sean liquidadas y
 
 VII.- Cerciorarse de que el Tesorero Municipal y los Cajeros hayan otorgado la caución suficiente e idónea.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-VIII.- Vigilar que se presente oportunamente la cuenta pública trimestral para su revisión por el Congreso.
+VIII.- Vigilar que se presente oportunamente la cuenta pública, para su revisión por el Congreso del Estado.
 
 IX.- Desempeñar las comisiones para las cuales sean previamente designados.
 
 X.- Asistir puntualmente a las sesiones del Ayuntamiento con voz y voto.
 
-XI.- Intervenir en la formulación del inventario de bienes muebles e inmuebles del Municipio, y que se inscriban en un libro especial, así como regularizar la propiedad de dichos bienes.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XI.- Intervenir en la formulación del inventario de bienes muebles e inmuebles del Municipio, y que se inscriban en un libro especial, con expresión de sus valores y de todas las características de identificación, uso y destino, así como regularizar la propiedad de dichos bienes.
 
 XII.- Comparecer y suscribir los contratos y demás actos jurídicos que contengan obligaciones patrimoniales para el municipio.
 
 XIII.- Fungir como Agente del Ministerio Público en los casos y condiciones que determine la Ley Orgánica de esta institución.
 
-XIV.- Las demás que les señale la Ley y sus Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XIV.- Solicitar y obtener del Tesorero Municipal, las informaciones relativas a la Hacienda Municipal, al ejercicio del presupuesto de egresos, al patrimonio municipal y demás documentación de la gestión municipal, necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XV.- Revisar y, en su caso, si está de acuerdo suscribir los estados de origen y aplicación de los fondos públicos, la cuenta pública municipal y los estados financieros.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XVI.- Vigilar la actualización de los inventarios de bienes muebles e inmuebles y valores que integran el patrimonio del municipio.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XVII.- Vigilar que se regularicen y custodien los bienes inmuebles del municipio y que se inscriban en el Registro Público de la Propiedad y del Comercio.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XVIII.- Vigilar que se mantenga actualizado el registro de todas las enajenaciones que realice el Ayuntamiento.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 26 DE OCTUBRE DE 2006)</small>
+
+XIX.- Las demás que le señalen las Leyes, Reglamentos o el Ayuntamiento.
+
+(REFORMADO, P.O. 26 DE OCTUBRE DE 2006) (F. DE E., P.O. 31 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 61.
 
-En los municipios donde existan dos Síndicos, éstos podrán intervenir conjunta o separadamente en los negocios judiciales y administrativos, con las facultades señaladas en el artículo anterior.
+Para el ejercicio de las facultades y obligaciones que corresponden a los Síndicos en los municipios donde este Código prevea la existencia de dos de ellos, a ambos corresponden indistintamente las funciones previstas en las fracciones I, IX, X, XIV y XIX del artículo anterior. Al Primer Síndico le competen las funciones señaladas en las fracciones II, segunda parte, III, IV, V, VI, VII, VIII y XV del artículo anterior, y al Segundo Síndico le corresponden las funciones aludidas en las fracciones II, primera parte, XI, XII, XIII, XVI, XVII y XVIII.
 
 ### CAPITULO X. DE LAS COMISIONES
 
@@ -877,7 +903,9 @@ VIII.- Formular, conservar y registrar un inventario detallado de los bienes mun
 
 IX.- Planear y proyectar oportunamente los presupuestos anuales de ingresos y egresos del Municipio.
 
-X.- Hacer conjuntamente con los Síndicos, las gestiones oportunas en los asuntos de interés para la Hacienda Municipal.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+
+X.- Hacer conjuntamente con el Síndico Primero, en los Ayuntamientos integrados con dos Síndicos, las gestiones oportunas en los asuntos de interés para la Hacienda Municipal.
 
 XI.- Ejercer las atribuciones que como autoridad fiscal le otorga el Código Fiscal del Estado y demás leyes y reglamentos.
 
@@ -1333,13 +1361,13 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-- Para los efectos de este impuesto se considera:
+Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
 a).- Predio urbano, el ubicado en las zonas urbanas determinadas por la Dirección de Catastro.
 
-b).- Predio suburbano, el ubicado en las zonas determinadas por Catastro y que son susceptibles de fraccionarse, se convertirán en urbanas, para el efecto de este impuesto al contar la zona en que se encuentren ubicados con servicios eléctricos, de agua o drenaje, que sean susceptibles a ser proporcionados por algún organismo público, descentralizado o no, sea cual fuere su forma de integración.
+b).- Predio suburbano, el ubicado en las zonas determinadas por Catastro y que son susceptibles de fraccionarse; se convertirán en urbanas, para el efecto de este impuesto al contar la zona en que se encuentren ubicados con servicios eléctricos, de agua o drenaje, que sean susceptibles a ser proporcionados por algún organismo público, descentralizado o no, sea cual fuere su forma de integración.
 
 c).- Predio rústico, el que se encuentra fuera de los límites de las zonas determinadas como urbanas y suburbanas.
 
@@ -3255,7 +3283,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III 38, 39 y 40 de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3265,7 +3293,7 @@ Los municipios actuales seguirán subsistiendo aunque no reúnan los requisitos 
 
 ###### ARTICULO SEXTO.
 
-El aspecto sustantivo y de procedimiento a que se refiere la Ley de Ingresos de los Municipios para el ejercicio fiscal de 1984, se regirán por lo dispuesto en el Título Segundo del presente Código.
+El aspecto sustantivo y de procedimiento a que se refiere la Ley de Ingresos de los Municipios para el ejercicio fiscal de 1984; se regirán por lo dispuesto en el Título Segundo del presente Código.
 
 ###### ARTICULO SEPTIMO.
 
@@ -3582,3 +3610,9 @@ P.O. 12 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
