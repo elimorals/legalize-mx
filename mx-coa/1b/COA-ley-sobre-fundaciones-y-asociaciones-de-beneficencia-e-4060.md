@@ -4,7 +4,7 @@ identifier: "COA-ley-sobre-fundaciones-y-asociaciones-de-beneficencia-e-4060"
 country: "mx"
 rank: "ley"
 publication_date: "1940-12-28"
-last_updated: "1940-12-28"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY SOBRE FUNDACIONES Y ASOCIACIONES DE BENEFICENCIA E INSTRUCCION PUBLICA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 28 de diciembre de 1940.
 
@@ -332,3 +334,15 @@ EL OFICIAL MAYOR ENC. DEL DESPACHO.
 PROF. MAURILIO P. NAÑEZ.
 
 (Rúbrica.)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley sobre Fundaciones y Asociaciones de Beneficencia e Instrucción Pública de fecha 28 de diciembre de 1940.
+
+TERCERO.- Se deroga cualquier otra disposición que se oponga en cuanto a su contenido, términos y alcance a la presente Ley.
+
+CUARTO.- Las instituciones que este ordenamiento rige, adecuarán administrativamente sus actas de fundación y estatutos a los lineamientos que de acuerdo a esta Ley establezca la Junta de Beneficencia Privada, con el objeto de facilitarles apoyo y un mejor desempeño en su organización y funcionamiento. Las solicitudes para autorizar la constitución de instituciones de beneficencia, así como los demás procedimientos en trámite, se continuarán de acuerdo a lo preceptuado por el presente decreto.
