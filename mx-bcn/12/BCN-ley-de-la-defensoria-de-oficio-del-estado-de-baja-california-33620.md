@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-defensoria-de-oficio-del-estado-de-baja-california-33
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2006-05-19"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO UNICO DEL DECRETO NO. 247, POR EL QUE SE REFORMAN LOS ARTICULOS 2, 6, 11 Y 12 DE LA PRESENTE LEY, ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE MARZO DE 2007.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -39,11 +41,11 @@ LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
 La presente ley es de interés social y tiene por objeto regular el funcionamiento y la organización de la Defensoría de Oficio del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 2.
 
-La Defensoría de Oficio es una Institución de orden público e Interés social que tiene como fin garantizar el acceso a la defensa jurídica, patrocinio y asesoría gratuita, a personas de escasos recursos económicos, para la adecuada defensa y protección de sus derechos y garantías individuales a través de los siguientes servicios:
+La Defensoría de Oficio es una Institución de orden público e Interés social que tienen como fin garantizar el acceso a la defensa jurídica, patrocinio y asesoría gratuita, a personas de escasos recursos económicos, para la adecuada defensa y protección de sus derechos y garantías individuales a través de los siguientes servicios:
 
 I.- Defender jurídicamente en materia penal, en cualquier etapa del procedimiento a las personas que lo soliciten, o cuando a falta de un defensor particular, el ministerio público o el juez designe al de oficio;
 
@@ -53,7 +55,9 @@ II.- Patrocinar en materia familiar, civil y administrativa, a las personas que 
 
 III.- Orientar y asesorar en materia jurídica a las personas que lo soliciten;
 
-IV.- Defender, orientar y asesorar a los menores infractores y/o a sus representantes legales, conforme a la Ley en materia;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+IV.- Defender, orientar y asesorar a los adolescentes acusados de conductas tipificadas como delitos por las leyes estatales y/o sus representantes legales, conforme a la Ley en la materia;
 
 V.- Defender jurídicamente, al personal de los cuerpos de seguridad en el Estado, cuando no cuenten con un defensor, en los términos de la Ley aplicable; y,
 
@@ -89,11 +93,11 @@ II.- Un cuerpo de defensores de Oficio; y,
 
 III.- El personal Administrativo que determine su Reglamento Interno.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 6.
 
-La Defensoría, contará con defensores de oficio en el Tribunal Superior de Justicia del Estado, Procuraduría General de Justicia del Estado, Tribunal de lo Contencioso Administrativo, Centros de Readaptación Social, Consejos de Menores y en los juzgados calificadores conforme a los requerimientos del servicio, cuya adscripción se determinará en los términos del Reglamento.
+La Defensoría, contará con defensores de oficio en el Tribunal Superior de Justicia del Estado, Procuraduría General de Justicia del Estado, Centros de Readaptación Social, Centros de Diagnóstico y de Ejecución de Medidas para Adolescentes y en los juzgados calificadores conforme a los requerimientos del servicio, cuya adscripción se determinará en los términos del Reglamento.
 
 ###### Artículo 7.
 
@@ -181,6 +185,10 @@ IV.- Ser licenciado en derecho con título legalmente expedido y registrado ante
 
 V.- No haber sido condenado por sentencia ejecutoriada como responsable de delito doloso, ni inhabilitado por responsabilidad administrativa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+Tratándose del Defensor de Oficio Especializado para Adolescentes, deberá contar con experiencia profesional demostrable o capacitación especializada en la materia.
+
 #### SECCION II. De las Obligaciones de los Defensores de Oficio
 
 ###### Artículo 12.
@@ -197,9 +205,9 @@ IV.- Hacer valer las causas excluyentes de responsabilidad a favor de los inculp
 
 V.- Tramitar ante el ministerio público, el juez correspondiente, la libertad provisional bajo caución de los inculpados, en los casos en que proceda;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VI.- Tramitar los recursos de apelación correspondientes en contra de resoluciones dictadas en materia penal, civil y familiar y de revisión en materia administrativa, expresando oportunamente los agravios que procedan;
+VI.- Tramitar los recursos de apelación correspondientes en contra de resoluciones dictadas en materia penal, civil, familiar, así como los recursos que se estipulen en la materia de justicia para adolescentes, expresando oportunamente los agravios que procedan;
 
 VII.- Solicitar la inmediata comunicación con el detenido al ministerio público, juzgados calificadores o comandancias de las direcciones de seguridad pública municipal, cuando por cualquier medio se entere que una persona se encuentra detenida por la posible comisión de un delito, no así cuando se trate de infracciones de cualquier naturaleza;
 
@@ -460,3 +468,7 @@ P.O. 19 DE MAYO DE 2006.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Defensoría de oficio del Estado de Baja California preverá lo conducente en su presupuesto de egresos para el funcionamiento de los defensores de oficio de lo contencioso.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
