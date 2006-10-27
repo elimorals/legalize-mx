@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2005-11-18"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCION Y PROTECCION A LA VICTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -39,13 +39,19 @@ LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ES
 
 Las disposiciones de esta Ley son de orden público y tienen por objeto establecer los derechos, así como las medidas de atención y protección a la víctima o el ofendido por algún delito, conforme a lo establecido por el Artículo 20, apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Víctima.- A todo aquel individuo titular del bien jurídico tutelado que haya sufrido directamente alguna afectación en su persona o bienes con motivo de la comisión de un delito;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-II.- Ofendido.- A todo aquel individuo que haya sufrido indirectamente alguna afectación en su persona o bienes con motivo de la comisión de un delito y que tenga derecho a la reparación del daño conforme al Artículo 35 del Código Penal;
+I.- Víctima.- A todo aquel individuo titular del bien jurídico tutelado que haya sufrido directamente alguna afectación en su persona o bienes con motivo de la comisión de un delito o conducta atribuible a un adolescente y que se encuentre tipificada como delito por las leyes estatales;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+II.- Ofendido.- A todo aquel individuo que haya sufrido indirectamente alguna afectación en su persona o bienes con motivo de la comisión de un delito o conducta atribuible a un adolescente y que se encuentre tipificada como delito por las leyes estatales y que tenga derecho a la reparación del daño conforme al Artículo 35 del Código Penal;
 
 III.- Ley.- A la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California;
 
@@ -199,9 +205,11 @@ El sistema para el Desarrollo Integral de la Familia sin perjuicio de las facult
 
 El Agente del Ministerio Público en toda averiguación previa, deberá otorgarle las medidas de atención y protección que requiera la víctima o el ofendido, debiendo dejar constancia en el expediente y remitir dicha actuación a la Dirección para su conocimiento y efectos correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 19.
 
-El Agente del Ministerio Público, podrá dictar desde el inicio de la averiguación previa y durante el ejercicio de la acción penal, las medidas necesarias a efecto de recabar pruebas para acreditar los daños y perjuicios causados a la víctima o el ofendido, incluyendo la fijación del monto de la reparación del daño, así como el aseguramiento y embargo precautorio de bienes para ese fin.
+El Agente del Ministerio Público, podrá dictar desde el inicio de la averiguación previa o investigación y durante el ejercicio de la acción penal o de la acción de remisión, las medidas necesarias a efecto de recabar pruebas para acreditar los daños y perjuicios causados a la víctima o el ofendido, incluyendo la fijación del monto de la reparación del daño, así como el aseguramiento y embargo precautorio de bienes para ese fin.
 
 ###### ARTÍCULO 20.
 
@@ -217,9 +225,11 @@ En el caso de que los hechos denunciados o investigados no constituyan un tipo p
 
 A los facultativos, personal médico y demás prestadores de las instituciones de salud del Estado que en contra de la voluntad de la víctima o el ofendido les hayan practicado cualquier tipo de exploración física, se les impondrá una multa de treinta a cien días de salario mínimo. Si se hubiere utilizado la fuerza física o cualquier otro acto de intimidación, se les aplicará hasta el doble de dicha sanción sin perjuicio de las demás responsabilidades en que incurran conforme a otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 23.
 
-El Agente del Ministerio Público que por cualquier situación o circunstancia, en la averiguación previa, durante el ejercicio de la acción penal o durante el procedimiento omita recabar de oficio o presentar al Juzgador las pruebas que tiendan a la comprobación del daño causado por el delito, será sancionado con multa de treinta a cincuenta días de salario mínimo, en caso de reincidencia se le aplicará además hasta el doble de dicha sanción, sin perjuicio de las responsabilidades en que incurra conforme a otras disposiciones legales.
+El Agente del Ministerio Público que por cualquier situación o circunstancia, en la averiguación previa o investigación, durante el ejercicio de la acción penal o de la acción de remisión, o durante el procedimiento omita recabar de oficio o presentar al Juzgador las pruebas que tiendan a la comprobación del daño causado por el delito o por la conducta tipificada como delito cometida por adolescente, será sancionado con multa de treinta a cincuenta días de salario mínimo, en caso de reincidencia se le aplicará además hasta el doble de dicha sanción, sin perjuicio de las responsabilidades en que incurra conforme a otras disposiciones legales.
 
 ###### ARTÍCULO 24.
 
@@ -227,9 +237,11 @@ Queda prohibido al Juzgador o al Ministerio Público dar a conocer sin el consen
 
 Quien viole esta prohibición será sancionado con multa de quinientos a mil salarios mínimos, en caso de reincidencia se le impondrá además hasta el doble de dicha sanción, sin perjuicio de las demás responsabilidades en que incurra conforme a otras leyes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 25.
 
-Al Juez o Tribunal que en la sentencia que ponga fin al proceso penal no se ocupe de resolver sobre la reparación del daño, cuando éste haya sido probado y cuantificado, determinando en forma clara y precisa su monto y la imposición de la pena que proceda por este concepto, se le impondrá una multa de treinta a doscientos cincuenta días de salario mínimo vigente en el Estado, en caso de reincidencia se le aplicará además hasta el doble de dicha sanción, sin perjuicio de las responsabilidades en que incurra conforme a otras leyes.
+Al Juez o Tribunal que en la sentencia que ponga fin al proceso penal o al proceso para adolescentes en los términos de la Ley respectiva, no se ocupe de resolver sobre la reparación del daño, cuando éste haya sido probado y cuantificado, determinando en forma clara y precisa su monto y la imposición de la pena o medida que proceda por este concepto, se le impondrá una multa de treinta a doscientos cincuenta días de salario mínimo vigente en el Estado, en caso de reincidencia se le aplicará además hasta el doble de dicha sanción, sin perjuicio de las responsabilidades en que incurra conforme a otras leyes.
 
 ###### ARTÍCULO 26.
 
@@ -270,3 +282,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
