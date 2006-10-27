@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2005-11-18"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
@@ -47,7 +47,9 @@ Esta Ley tiene por objeto organizar a la Procuraduría General de Justicia del E
 
 La institución del Ministerio Público ejercerá por conducto de su titular o de sus órganos auxiliares directos, las siguientes atribuciones:
 
-I.- Investigar y perseguir los delitos del orden común cometidos en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+I.- Investigar y perseguir los delitos del orden común cometidos en el Estado de Baja California, así como aquellas conductas tipificadas como delitos en las leyes estatales, cometidas por adolescentes;
 
 II.- Velar por la legalidad y el respeto a los derechos humanos en la esfera de su competencia, así como promover la pronta, completa y debida procuración de justicia;
 
@@ -55,7 +57,9 @@ II.- Velar por la legalidad y el respeto a los derechos humanos en la esfera de 
 
 III.- Proteger los derechos e intereses de las personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, ausentes y adultos mayores de sesenta años de edad, así como también los de carácter individual o social en general, en los términos que determinen las leyes y reglamentos aplicables;
 
-IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+IV.- Ejercer las atribuciones que le corresponden en el ámbito de su competencia en el caso de conductas calificadas como delitos por las leyes estatales cometidas por adolescentes, conforme a los principios que establece el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con lo establecido con la Ley en materia de justicia para adolescentes del Estado;
 
 V.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
@@ -71,6 +75,12 @@ IX.- Exigir responsabilidad penal a los servidores públicos que en el ejercicio
 
 X.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO 2 Bis.
+
+Cuando en esta Ley se haga alusión al término delito, el mismo se entenderá referido también a la conducta tipificada como delito por las leyes estatales cometida por adolescentes en lo conducente, de conformidad a lo dispuesto por la Ley de Justicia para Adolescentes del Estado de Baja California.
+
 ###### ARTÍCULO 3.
 
 Las atribuciones concedidas a la institución del Ministerio Público se definen de la siguiente manera:
@@ -85,7 +95,9 @@ II.- Conocer en auxilio del Ministerio Público Federal, las denuncias o querell
 
 III.- Investigar la comisión de delitos del orden común con el auxilio de la Policía Ministerial del Estado, y demás auxiliares de la procuración de justicia, en caso de considerarlo necesario;
 
-IV.- Practicar las diligencias necesarias, para recabar las pruebas pertinentes para la comprobación de los elementos del tipo penal y la probable responsabilidad de los inculpados, para en su caso, fundar y motivar el ejercicio de la acción penal;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+IV.- Practicar las diligencias necesarias, para recabar las pruebas pertinentes para la comprobación de los elementos del tipo penal y la probable responsabilidad de los inculpados, para en su caso, fundar y motivar el ejercicio de la acción penal, o de la acción de remisión, tratándose de adolescentes;
 
 V.- Solicitar en vía de informe, de cualquier oficina, autoridad o entidad pública, los datos que estime necesarios para la integración de la averiguación previa, en la medida en que estos puedan aportar elementos para el debido ejercicio de sus atribuciones;
 
@@ -107,9 +119,13 @@ XIII.- Designar tutor dativo al ofendido en caso de tratarse de incapaz, en tér
 
 XIV.- Acordar la reserva en trámite que proceda, de acuerdo con la Ley adjetiva penal;
 
-XV.- Acordar el ejercicio o no ejercicio de la acción penal, en los casos y conforme a lo establecido en el Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XVI.- Ordenar notificar al denunciante o querellante, los acuerdos en los que se dicte el no ejercicio de la acción penal, a fin de que estén en posibilidad de interponer el Recurso de Revisión de conformidad a lo que establezca la Ley;
+XV.- Acordar el ejercicio o no ejercicio de la acción penal, en los casos y conforme a lo establecido en el Código de Procedimientos Penales, así como el ejercicio o no ejercicio de acción de remisión, de conformidad con la Ley de Justicia para Adolescentes del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XVI.- Ordenar notificar al denunciante o querellante, los acuerdos en los que se dicte el no ejercicio de la acción penal; o acción de remisión, a fin de que estén en posibilidad de interponer el Recurso de Revisión de conformidad a lo qué establezca la Ley;
 
 XVII.- Dictar las medidas pertinentes para preservar las huellas, instrumentos y objetos del delito, de conformidad a lo dispuesto para el caso, en el Código de Procedimientos Penales para el Estado;
 
@@ -119,13 +135,15 @@ XIX.- Dictar las medidas pertinentes para proporcionar auxilio y seguridad a las
 
 XX.- Notificar a solicitud del inculpado, la resolución de archivo definitivo que se derive de la averiguación previa, conforme a las reglas de notificación previstas en el artículo 43 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-B) En la consignación y durante el proceso penal:
+B) En la consignación y durante el proceso penal o de justicia para adolescentes:
 
 I.- Iniciar el proceso penal;
 
-II.- Ejercitar la acción penal ante los Juzgados competentes por los delitos del orden común, siempre que exista denuncia o querella, estén comprobados los elementos del tipo penal y la probable responsabilidad de quienes en ellos hubieren intervenido, solicitando las correspondientes órdenes de aprehensión o de comparecencia;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+II.- Ejercitar la acción penal ante los Juzgados competentes por los delitos del orden común, siempre que exista denuncia o querella, estén comprobados los elementos del tipo penal y la probable responsabilidad de quienes en ellos hubieren intervenido, solicitando las correspondientes órdenes de aprehensión, o de comparecencia; asimismo ejercitar la acción de remisión en los términos de la Ley en materia de Justicia para adolescentes;
 
 III.- Solicitar en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y del Código de Procedimientos Penales para el Estado, las órdenes de cateo y de arraigo que sean necesarias;
 
@@ -149,7 +167,9 @@ XI.- Promover lo conducente conforme a derecho, para el desarrollo de los proces
 
 XII.- Concurrir diariamente a los tribunales para oír y recibir las notificaciones correspondientes, así como acudir a las audiencias y diligencias que así lo requieran, y
 
-XIII.- Desistirse de la acción penal en los términos establecidos en el Código de Procedimientos Penales para el Estado.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIII.- Desistirse de la acción penal o de la acción de remisión, en los términos establecidos en el Código de Procedimientos Penales para el Estado, y en su caso, la Ley de Justicia para Adolescentes del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -202,6 +222,10 @@ III.- Concertar acciones con instituciones de asistencia médica y social, públ
 IV.- Promover en instituciones públicas o privadas, atención psicológica a sujetos pasivos del delito, y
 
 V.- Dictar las medidas y providencias pertinentes para proporcionar ayuda y auxilio a las víctimas de los delitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+Asimismo, el Ministerio Público deberá vigilar que las víctimas u ofendidos del delito que sean personas menores de dieciocho años de edad, no sean obligados a carearse con el inculpado cuando se trate de los delitos de violación y secuestro. Lo anterior también será aplicable cuando dichas conductas sean cometidas por adolescentes de conformidad con la Ley de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -637,9 +661,11 @@ X.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así co
 
 XI.- Las demás que les encomiende el Procurador y les sean conferidas por las Leyes y Reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 22.
 
-La Dirección de Averiguaciones Previas tiene como función esencial la investigación de los delitos del orden común en el Estado, resolviendo sobre el ejercicio o no ejercicio de la acción penal. Cada Dirección de Averiguaciones Previas dependerá directamente de la Subprocuraduría de Zona a la que se encuentre adscrita.
+La Dirección de Averiguaciones Previas tiene como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en materia de investigación de delitos del orden común, resolviendo sobre el ejercicio o no ejercicio de la acción penal o acción de remisión, según corresponda. Cada Dirección de Averiguaciones Previas dependerá directamente de la Subprocuraduría de Zona a la que se encuentre adscrita.
 
 Son atribuciones de la Dirección de Averiguaciones Previas, en el ámbito de su adscripción:
 
@@ -649,7 +675,9 @@ II.- Investigar los delitos del orden común con el auxilio de la Policía Minis
 
 III.- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición de parte, cuando esté plenamente comprobado en la averiguación previa el delito de que se trate, exigiendo garantía suficiente si se estimare necesario;
 
-IV.- Poner a disposición de la autoridad jurisdiccional u ordenar la libertad del indiciado, en los plazos y términos señalados en el Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+IV.- Poner a disposición de la autoridad jurisdiccional u ordenar la libertad del indiciado, en los plazos y términos señalados en. El Código de Procedimientos Penales para el Estado, o en su caso, de la Ley de Justicia para Adolescentes del Estado de Baja California;
 
 V.- Solicitar las órdenes de aprehensión, comparecencia y de cateo cuando procedan legalmente y sean necesarias, en los términos que señala la Constitución y demás ordenamientos legales aplicables;
 
@@ -691,27 +719,31 @@ XXI.- Rendir los informes necesarios para su intervención en los juicios de amp
 
 XXII.- Proporcionar audiencia al público que lo solicite;
 
-XXIII.- Vigilar que los acuerdos en que se determine el ejercicio o no ejercicio de la acción penal, así como el archivo del expediente, estén de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XXIV.- Vigilar que en todos los casos en los que se dicte el no ejercicio de la acción penal, se ordene y realice la notificación a los denunciantes o querellantes, para que estén en posibilidades de interponer el Recurso que establezca la Ley de la materia, y
+XXIII.- Vigilar que los acuerdos en que se determine el ejercicio o no ejercicio de la acción penal, o de la acción de remisión, así como el archivo del expediente, estén de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado, o en su caso, a la Ley de Justicia para Adolescentes del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XXIV.- Vigilar que en todos los casos en los que se dicte el no ejercicio de la acción penal, o de la acción de remisión, se ordene y realice la notificación a los denunciantes o querellantes, para que estén en posibilidades de interponer el Recurso que establezca la Ley de la materia, y
 
 XXV.- Las demás inherentes al cargo, aquellas que le sean encomendadas por la Subprocuradoría (sic) de Zona de su adscripción, y las que determinen las Leyes, Reglamentos y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 23.
 
-La Dirección de Control de Procesos, tendrá como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en los procesos instaurados en el Tribunal Superior de Justicia, los Juzgados Penales, Civiles, Familiares, de Paz Penal, de Paz Civil, de Paz y Mixtos de Paz en el Estado, por conducto de los Agentes del Ministerio Público adscritos a Juzgados. La Dirección de Control de Procesos, está subordinada de manera directa a la Subprocuraduría de Zona de su adscripción.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+La Dirección de Control de Procesos, tendrá como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en los procesos instaurados en el Tribunal Superior de Justicia, los Juzgados Penales, Civiles, Familiares, para Adolescentes, de Paz Penal, de Paz Civil, de Paz y Mixtos de Paz en el Estado, por conducto de los Agentes del Ministerio Público adscritos a Juzgados. La Dirección de Control de Procesos está subordinada de manera directa a la Subprocuraduría de Zona de su adscripción.
 
 Son atribuciones de la Dirección de Control de Procesos en el ámbito de su adscripción, las siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-I.- Vigilar y Coordinar el desempeño de los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, a los Juzgados Penales, Civiles, Familiares, de Paz Penales, de Paz Civiles, de Paz y Mixtos de Paz;
+I.- Vigilar y Coordinar el desempeño de los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, a los Juzgados Penales, Civiles, Familiares, para Adolescentes, Justicia de Paz Penales, de Paz Civiles, de Paz y Mixtos de Paz;
 
-II.- Intervenir en los procesos penales en primera instancia, promoviendo las diligencias tendientes a comprobar los elementos del tipo penal y la responsabilidad de los inculpados, así como para exigir el pago y la garantía de la reparación del daño;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+II.- Intervenir en los procesos penales en primera instancia y en los procesos para Adolescentes, promoviendo las diligencias tendientes a comprobar los elementos del tipo penal y la responsabilidad de los inculpados, así como para exigir el pago y la garantía de la reparación del daño;
 
 III.- Solicitar el aseguramiento precautorio de bienes para los efectos de la reparación del daño;
 
@@ -727,7 +759,9 @@ VIII.- Formular conclusiones en los términos señalados por la Ley, y solicitar
 
 IX.- Vigilar el exacto cumplimiento del principio de legalidad, y de la pronta y expedita impartación (sic) de justicia;
 
-X.- Estudiar los expedientes en los que se dé vista al Ministerio Público por estimar que existan hechos que puedan constituir delito para promover lo que proceda conforme a derecho. En estos casos podrá ejercitar o ampliar el ejercicio de la acción penal por sí o por medio de los Agentes del Ministerio Público adscritos a los Juzgados;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+X.- Estudiar los expedientes en los que se dé vista al Ministerio Público por estimar que existan hechos que puedan constituir delito para promover lo que proceda conforme a derecho. En estos casos podrá ejercitar o ampliar el ejercicio de la acción penal o la acción de remisión, por sí o por medio de los Agentes del Ministerio Público adscritos a los Juzgados;
 
 XI.- Turnar a la Dirección de Averiguaciones Previas, los informes y documentos relativos cuando estime que deba iniciarse la indagatoria correspondiente;
 
@@ -737,7 +771,9 @@ XII.- Intervenir en los juicios en que sean parte las personas menores de diecio
 
 XIII.- Formular conclusiones no acusatorias después de consultar al Procurador General de Justicia, por cualquiera de las causas establecidas en el Código de Procedimientos Penales para el Estado de Baja California;
 
-XIV.- Formar con las constancias que estime necesarias, expedientes relativos a las causas penales que se tramitan en la zona de su adscripción;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIV.- Formar con las constancias que estime necesarias, expedientes relativos a las causas penales o para Adolescentes, que se tramiten en la zona de su adscripción;
 
 XV.- Organizar y llevar el control de archivo de los asuntos que determine el Procurador;
 
@@ -749,7 +785,9 @@ XVIII.- Rendir los informes necesarios para su intervención en los juicios de a
 
 XIX.- Rendir informe mensual al Subprocurador de Zona de su adscripción, sobre el inicio y seguimiento de los procesos judiciales a su cargo;
 
-XX.- Desistirse de la acción penal con aprobación del Procurador General de Justicia, y de conformidad a lo establecido en el Código de Procedimientos Penales del Estado, y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XX.- Desistirse de la acción penal o de la acción de remisión, con aprobación del Procurador General de Justicia, y de conformidad a lo establecido en el Código de Procedimientos Penales del Estado o en su caso, de la Ley de Justicia para Adolescentes del Estado de Baja California; y
 
 XXI.- Las demás que le sean encomendadas por el Subprocurador de su adscripción, le establezca esta Ley, su Reglamento, y demás disposiciones legales aplicables.
 
@@ -1001,6 +1039,74 @@ I.- Interponer los recursos legales procedentes, expresando los agravios que la 
 
 II.- Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+E) De los Agentes del Ministerio Público Especializados para Adolescentes, adscritos a las Agencias Investigadoras;
+
+I.- Recibir las denuncias o querellas de hechos que presuntivamente constituyan una o más conductas tipificadas corno delitos por las leyes estatales;
+
+II.- Practicar las diligencias necesarias para comprobar si los hechos denunciados constituyen o no, una o más conductas tipificadas como delitos por las leyes estatales, y para establecer o no la probable responsabilidad del adolescente indiciado;
+
+III.- Ordenar la comparecencia de las personas que deban declarar en las investigaciones, preferentemente por medio de citatorios, y en caso de que lo estime necesario mediante orden de detención por conducto de la policía ministerial, y en su caso, hacer uso de las medidas de apremio legalmente establecidas para su debido cumplimiento;
+
+IV.- Ordenar a la Policía Ministerial, las diligencias o averiguaciones en que deba intervenir para la debida integración de la investigación;
+
+V.- Ejercer la acción de remisión, respecto a los hechos que considere que constituyan conductas tipificadas como delitos por las leyes estatales, remitiéndola al Juez de Primera Instancia Especializado para Adolescentes, solicitando la orden de detención u orden de comparecencia en contra de quién o quiénes se presuman como probables responsables;
+
+VI.- Dictar acuerdo de archivo definitivo cuando sea legalmente procedente, previa consulta al Director de Averiguaciones Previas, ordenando la notificación del mismo al denunciante o querellante;
+
+VII.- Integrar las investigaciones cuando haya adolescentes detenidos en relación a hechos presuntamente ilícitos, allegándose de las pruebas suficientes para resolver hasta en un plazo de cuarenta y ocho horas, si procede el ejercicio de la acción de remisión en contra de los adolescentes detenidos o su libertad;
+
+VIII.- Tener el control del personal técnico y administrativo a sus órdenes, y rendir un informe mensual al Director de Averiguaciones Previas, con copia al Subprocurador de Zona y al Procurador, en todos los asuntos en que intervenga con motivo de su cargo;
+
+IX.- Rendir los informes necesarios para su intervención en los juicios de amparo;
+
+X.- Disponer en casos necesarios, de los cuerpos de seguridad pública estatales o municipales para el ejercicio de sus funciones;
+
+XI.- Asegurar los bienes, instrumentos, objetos y valores relacionados con los hechos que constituyan conductas tipificadas como delitos en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional o de la autoridad que competa;
+
+XII.- Rendir informe diario al Director de Averiguaciones Previas de sus actividades, haciendo constar la información sobre actas iniciadas y el avance de las mismas;
+
+XIII.- Supervisar el debido registro y custodia de los objetos, valores e instrumentos asegurados y relacionados con hechos denunciados motivo de las indagatorias, informando de ello a su superior jerárquico;
+
+XIV.- Investigar y hacer cesar las detenciones arbitrarias que se cometan, dando cuenta al Director de Averiguaciones Previas, así como conceder cuando corresponda la libertad a los adolescentes;
+
+XV.- Implementar los medios de Justicia Alternativa, en los procedimientos seguidos a adolescentes, así como sancionar los convenios que se deriven de los mismos, en la forma y condiciones que dispone la Ley de Justicia para Adolescentes del Estado de Baja California, y
+
+XVI.- Las demás que sean previstas por esta Ley, la Ley de Justicia para Adolescentes del Estado de Baja California y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+F) De los Agentes del Ministerio Público Especializados para Adolescentes adscritos a los Juzgados de Primera Instancia Especializados para Adolescentes:
+
+I.- Intervenir en todas las diligencias que se practiquen en los procedimientos seguidos en los juzgados de su adscripción, promoviendo todas las acciones tendientes a demostrar la existencia de los elementos del ilícito cometido por los adolescentes y la responsabilidad atribuible a quien o quienes lo hayan cometido;
+
+II.- Formular los pedimentos que sean procedentes, y desahogar las vistas dentro de los términos legales, así como presentar y sostener oportunamente, las argumentaciones y alegatos correspondientes;
+
+III.- Cuidar que en los procedimientos, se respeten en todo momento los derechos y garantías de los adolescentes, así como de la víctima u ofendido de las conductas presuntivamente atribuidas;
+
+IV.- Desistirse de la acción de remisión ejercida, en los casos en que proceda y de conformidad a lo establecido en la Ley de Justicia para Adolescentes del Estado de Baja California;
+
+V.- Solicitar la medida de orientación, protección o tratamiento correspondiente, cuando se hayan reunido los requisitos para imponerse; solicitar la libertad del adolescente inculpado, sea porque la conducta tipificada como delito no exista o porque existiendo no sea atribuible al acusado, o concurran a favor de este algunas excluyentes del delito no sea atribuible al acusado, o concurran a favor de éste algunas excluyentes del delito o de extinción de la acción persecutora prevista en el Código Penal del Estado; en esos casos, antes de formular su pedimento para que se dicte libertad del inculpado, deberá recabarse la autorización del Procurador por conducto del Subprocurador de Zona o de Director de Control de Procesos, en su caso;
+
+VI.- En los casos en que deban formularse alegatos inacusatorios, deberá recabarse previamente la autorización del Procurador por conducto del Subprocurador de Zona, o en su caso del Director de Control de Procesos;
+
+VII.- Solicitar en los términos de Ley la suspensión del procedimiento;
+
+VIII.- Interponer los recursos que legalmente procedan;
+
+IX.- Concurrir a las visitas de Centros de Diagnóstico o de Ejecución de Medidas para Adolescentes que practique el Juzgado de Primera Instancia Especializado para Adolescentes de su adscripción;
+
+X.- Remitir inmediatamente a la Policía Ministerial las órdenes de detención o comparecencia de su adscripción para .su cumplimiento;
+
+XI.- Rendir al Director de Control de Procesos, con copia al Subprocurador de Zona, un informe semanal del estado que guardan los procesos en que intervengan, así como todas las actividades inherentes al cargo;
+
+XII.- Informar al Director de Control de Procesos, con copia al Subprocurador de Zona, de las irregularidades que se adviertan en la administración de justicia en los juzgados de su adscripción;
+
+XIII.- Plantear las consultas que estime necesarias al Director de Control de Procesos, y
+
+XIV.- Las demás que sean previstas por esta Ley, la Ley de Justicia para Adolescentes del Estado de Baja California y demás disposiciones legales aplicables.
+
 ###### ARTÍCULO 29.
 
 Las Secretarías de Acuerdos de las Agencias del Ministerio del orden común, tienen las siguientes atribuciones:
@@ -1141,7 +1247,9 @@ XI.- Las demás que legalmente le sean señaladas.
 
 D) De los Agentes de la Policía Ministerial:
 
-I.- Investigar los hechos constitutivos de delitos que se denuncien, en cumplimiento a las órdenes del Ministerio Público, o en aquellos delitos flagrantes y en caso de extrema urgencia, debiendo de hacerlo del inmediato conocimiento del Ministerio Público y de la Jefatura de Grupo; poniendo a los inculpados a disposición del Ministerio Público de conformidad a lo dispuesto en el Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+I.- Investigar los hechos constitutivos de delitos del orden común denunciados, así como las conductas calificadas como delitos cometidas (sic) por adolescentes, en cumplimiento a las órdenes del Agente del Ministerio Público, delitos flagrantes o en caso de urgencia administrativa, debiendo hacerlo del inmediato conocimiento del Agente del Ministerio Público y de la Jefatura de Grupo de su adscripción, poniendo a los inculpados a disposición del Ministerio Público conforme a lo dispuesto por las leyes;
 
 II.- Tratar con el debido respeto y cortesía a las personas con las que se relacionen con motivo de sus funciones, así como a sus superiores jerárquicos y compañeros de labores;
 
@@ -1429,6 +1537,12 @@ En ningún caso se acreditará como funcionario o empleado de la institución, m
 
 Tratándose de delitos perseguibles de oficio cuando la gravedad de las circunstancias lo amerite, y a fin de que no se pierdan las huellas e indicios del delito, ni los responsables se sustraigan de la acción penal, se faculta a los Delegados Municipales, en los lugares donde no haya Agentes del Ministerio Público, para que en auxilio de éste y bajo su más estricta responsabilidad practiquen las primeras diligencias de Policía Ministerial, que deberán remitir inmediatamente al Agente del Ministerio Público en turno, acompañando además los objetos, instrumentos del delito, valores y demás que hubieren recogido y en su caso al detenido.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO 53 Bis.
+
+Las Agencias del Ministerio Público cuando lo requieran podrán contar con un Agente del Ministerio Público Especializado para adolescentes, el cual tendrá las atribuciones que le confiere la Ley de la materia y esta Ley. Este contará con el personal técnico y administrativo que sea necesario.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1504,3 +1618,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presente reformas.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
