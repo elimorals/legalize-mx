@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2005-10-28"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -1051,7 +1051,9 @@ XXV.- Ejecutar las penas por delitos del orden común, administrar y operar el s
 
 XXVI.- Tramitar, por acuerdo del Ejecutivo del Estado, las solicitudes de libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
 
-XXVII.- Proponer al Ejecutivo del Estado la creación y en su caso administrar las instituciones que contribuyan al desarrollo de la función tutelar para menores infractores y los Centros de Readaptación Social para Adultos;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XXVII.- Proponer al Ejecutivo del Estado la creación y en su caso, la administración de los órganos, autoridades e instituciones que contribuyan al diagnóstico, orientación, protección y tratamiento de los adolescentes de conformidad con lo previsto por la Ley en materia de justicia para adolescentes, y los Centros de Readaptación Social para adultos;
 
 XXVIII.- Tramitar por acuerdo del Ejecutivo del Estado, las solicitudes de indulto;
 
@@ -1666,3 +1668,7 @@ TERCERO.- Los recursos financieros, materiales y humanos, así como los archivos
 CUARTO.- El Poder Ejecutivo, dentro de los noventa días siguientes contados a partir de la entrada de las presentes reformas, realizará las adecuaciones necesarias a los reglamentos correspondientes para la operatividad de los órganos de la Secretaría de Protección al Ambiente.
 
 QUINTO.- Durante el ejercicio fiscal del año 2005, la Secretaría de Protección al Ambiente funcionará con la misma estructura con la que ha venido funcionando la dirección General de Ecología, hasta que se realicen las adecuaciones presupuestales correspondientes.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
