@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2005-01-31"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-06-20"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -56,21 +56,31 @@ VI. Presidente: La o el Presidente de la Comisión;
 
 VII. Consejo: El Consejo de la Comisión;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-VIII. Visitadores: Visitadores Generales;
+VIII. Visitadurías y/o Visitadores: Visitadurías Generales y/o Visitadores Generales;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+IX. (DEROGADA, G.O. 27 DE OCTUBRE DE 2006)
 
-IX. Secretaría: La Secretaría Técnica;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-X. Parte quejosa: Quejoso (a) o agraviado (a), y
+X. Parte quejosa: Quejoso (a), y/o peticionario (a) y/o agraviado (a);
 
 (ADICIONADA, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 22 DE MAYO DE 2003)
 
-XI. Estatuto del Servicio: Estatuto del Servicio Profesional en Derechos Humanos.
+XI. Estatuto del Servicio: Estatuto del Servicio Profesional en Derechos Humanos;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XII. Manual: El Manual de Procedimientos Específicos del Servicio Profesional en Derechos Humanos de la Comisión;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIV. OIP: Oficina de Información Pública de la Comisión de Derechos Humanos del Distrito Federal.
 
 (REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 22 DE MAYO DE 2003)
 
@@ -120,11 +130,15 @@ Todas las actuaciones y procedimientos de la Comisión serán gratuitas, lo que 
 
 Cuando la parte interesada decida contar con asistencia profesional para el trámite de su queja, se le deberá hacer la observación de que ello no es necesario y se le recordará que la Comisión tiene la obligación de proporcionar sus servicios de manera gratuita.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 7o.
 
-El personal de la Comisión regirá sus actuaciones y prestará sus servicios conforme a los principios de dicho Organismo. En consecuencia, deberá procurar en toda circunstancia proteger los derechos humanos de la parte quejosa, participar en las acciones de promoción de los derechos humanos, y hacer del conocimiento de sus superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la institución.
+El personal de la Comisión regirá sus actuaciones y prestará sus servicios conforme a los principios de dicho Organismo.
+
+En su actuación buscará la igualdad de género. Para ello aplicará políticas de equidad de género que permitan acelerar la igualdad de facto entre las mujeres y los hombres.
+
+Como consecuencia de lo anterior, deberá procurar en toda circunstancia proteger los derechos humanos de la parte quejosa, participar en las acciones de promoción de los derechos humanos, y hacer del conocimiento de sus superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la institución.
 
 El personal de la Comisión, en materia de responsabilidades quedará sujeto al título IV de la Constitución.
 
@@ -194,35 +208,27 @@ III. Las Visitadurías, y
 
 IV. (DEROGADA, G.O. 24 DE ABRIL DE 2003)
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 17.
 
 Son áreas de apoyo:
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+I. La Secretaría Ejecutiva;
 
-I. La Secretaría Técnica;
+II. La Secretaría Técnica;
 
-II. Las Direcciones Generales;
+III. Las Direcciones Generales;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+IV. La Contraloría Interna;
 
-III. La Contraloría Interna;
+V. Las Direcciones Ejecutivas;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+VI. La Secretaría Particular de la Presidencia;
 
-IV. Las Direcciones Ejecutivas;
+VII. Las Coordinaciones, y
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
-
-V. Las Coordinaciones;
-
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
-
-VI. La Secretaría Particular de la Presidencia; y
-
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2005)</small>
-
-VII. Todas aquellas que sean necesarias para el apoyo a los órganos de la Comisión.
+VIII. Todas aquellas que sean necesarias para el apoyo a los órganos de la Comisión.
 
 ### CAPÍTULO III. De la Presidencia de la Comisión
 
@@ -248,13 +254,15 @@ I. En su carácter de representante legal, podrá otorgar poderes para pleitos y
 
 II. Proponer al Consejo, para su aprobación, los lineamientos y programas generales de la Comisión, así como la normatividad interna, manuales y los procedimientos administrativos necesarios para su buen funcionamiento;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-III. Designar, dirigir y coordinar a las y los titulares de los órganos y áreas de apoyo de la Comisión, así como removerlos si así lo estima conveniente. Al efecto firmará los nombramientos de las o los Visitadores(as), Secretario(a) Técnico(a), Directores(as) Generales, Contralor(a) Interno(a), Directores(as) Ejecutivos(as), Coordinadores(as), y Secretario(a) Particular de la Presidencia; así como del personal del Servicio Profesional en Derechos Humanos;
+III. Designar, dirigir y coordinar a las y los titulares de los órganos y áreas de apoyo de la Comisión, así como removerlos si así lo estima conveniente. Para ello firmará los nombramientos de quienes ocupen estos cargos; al efecto buscará en estas determinaciones mantener una paridad de género.
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+Así también firmará los nombramientos del personal del Servicio Profesional en Derechos Humanos;
 
-IV. Designar a la o el encargado(a) del despacho, en caso de ausencia temporal de los titulares de las Visitadurías, Secretaría Técnica, Direcciones Generales, Contraloría Interna, Direcciones Ejecutivas, Coordinaciones, y Secretaría Particular de la Presidencia;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+IV. Designar a la o el encargado(a) del despacho, en caso de ausencia temporal de las y los titulares de los órganos y áreas de apoyo de la Comisión;
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -262,25 +270,25 @@ V. Conocer, supervisar y vigilar el desarrollo de las actividades de los órgano
 
 VI. Coordinar el establecimiento de las políticas generales en materia de derechos humanos que habrá de seguir la Comisión ante los organismos nacionales e internacionales respectivos;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-VII. Celebrar convenios, directamente o por delegación de facultades, a través de los órganos o áreas de apoyo en términos del artículo 22, fracción VIII de la Ley, y
+VII. Celebrar convenios, directamente o por delegación de facultades, a través de los órganos o áreas de apoyo en términos del artículo 22, fracción VIII de la Ley;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-VIII. Proponer al Consejo el proyecto de Estatuto del Servicio, así como el Manual de Procedimientos Específicos y las modificaciones a dichos instrumentos, y
+VIII. Proponer al Consejo el proyecto de Estatuto del Servicio, así como el Manual y las modificaciones a dichos instrumentos, y
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
 
 IX. Las demás que le confiere la Ley, el presente Reglamento, el Estatuto del Servicio y los ordenamientos internos aplicables.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 21.
 
 La o el Presidente deberá elaborar y rendir un informe semestral de actividades al Consejo. Asimismo, un informe anual de actividades a la Asamblea Legislativa del Distrito Federal en términos de lo establecido en el Estatuto y la Ley.
 
-Para la elaboración de estos informes se considerarán los estándares internacionales.
+Para la elaboración de estos informes se considerarán los estándares internacionales y las políticas transversales de equidad de género en el respeto de los derechos humanos en el Distrito Federal.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -294,11 +302,11 @@ En el informe anual se incluirán los datos que se señalan en el artículo 57 d
 
 Cuando la naturaleza del caso lo requiera, por su importancia o gravedad, la o el Presidente podrá presentar a la opinión pública un informe especial en el que se expongan los logros obtenidos, la situación de particular gravedad que se presenta, las dificultades que para el desarrollo de las funciones de la Comisión hayan surgido, y el resultado de las investigaciones sobre situaciones de carácter general o sobre alguna cuestión que revista una especial trascendencia.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 24.
 
-Las Visitadurías Generales son órganos auxiliares de la Presidencia de la Comisión y realizarán sus funciones de conformidad con la Ley, el presente Reglamento y de acuerdo con las instrucciones que al efecto indique la o el Presidente.
+Las Visitadurías son órganos auxiliares de la Presidencia de la Comisión y realizarán sus funciones de conformidad con la Ley, el presente Reglamento y de acuerdo con las instrucciones que al efecto indique la o el Presidente.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -314,55 +322,69 @@ Durante las ausencias temporales de la o el Presidente, por destitución o renun
 
 Para el despacho de los asuntos que corresponden a la o el Presidente, éste(a) contará con las áreas de apoyo siguientes:
 
-I. La Secretaría Técnica;
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-II. La Dirección General de Quejas y Orientación;
+I. La Secretaría Ejecutiva;
 
-III. La Dirección General de Administración;
+II. La Secretaría Técnica;
 
-IV. La Dirección General de Comunicación Social;
+III. La Dirección General de Quejas y Orientación;
 
-V. La Dirección General de Educación y Promoción de los Derechos Rumanos;
+IV. La Dirección General de Administración;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+V. La Dirección General de Comunicación Social;
 
-VI. La Contraloría Interna;
+VI. La Dirección General de Educación y Promoción de los Derechos Humanos;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+VII. La Contraloría Interna;
 
-VII. La Dirección Ejecutiva de Seguimiento de Recomendaciones;
+> <small>(REFORMADA Y REUBICADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+VIII. La Dirección Ejecutiva de Seguimiento;
 
-VIII. La Dirección Ejecutiva de Investigación y Desarrollo Institucional;
+IX. La Dirección Ejecutiva de Investigación y Desarrollo Institucional;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+(REUBICADA, G.O. 27 DE OCTUBRE DE 2006)
 
-IX. La Coordinación de Asesores;
+X. La Secretaría Particular de la Presidencia;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+(REUBICADA, G.O. 27 DE OCTUBRE DE 2006)
 
-X. La Coordinación de Asuntos Jurídicos; y
+XI. La Coordinación de Asesores;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2005)</small>
+XII. La Coordinación de Asuntos Jurídicos, y
 
-XI. La Secretaría Particular de la Presidencia.
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIII. La Coordinación de Interlocución Institucional y Legislativa.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTÍCULO 26 BIS.- La Secretaría Ejecutiva es el área de apoyo de la Comisión, que bajo las directrices que instruya la o el Presidente le auxiliará en la conducción institucional, dando seguimiento y evaluando las tareas programáticas, lineamientos y políticas generales a los que habrán de sujetarse las actividades sustantivas y administrativas de la Comisión.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTÍCULO 26 TER.- Para el cumplimiento de sus atribuciones, la Secretaría Ejecutiva se auxiliará:
+
+I. De las Coordinaciones; y
+
+II. Del personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 27.
 
 Para el cumplimiento de sus atribuciones, la Dirección General de Quejas y Orientación contará con:
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+I. Una Dirección de Atención y Orientación;
 
-I. Una Dirección de Quejas;
+II. Una Dirección de Admisibilidad e Información;
 
-II. Una Dirección de Orientación;
+III. Una Unidad de Recepción y Trabajo Social;
 
-III. Una Dirección de Unidades Desconcentradas, y
+IV. Una Oficina de Información Pública, y
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-IV. El personal profesional, técnico y administrativo necesario que al efecto establezca el Presidente para la adecuada realización de sus funciones.
+V. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
 ###### ARTÍCULO 28.
 
@@ -410,17 +432,19 @@ III. (DEROGADA, G.O. 31 DE ENERO DE 2005)
 
 IV. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 31.
 
-Para el cumplimiento de sus atribuciones, la Dirección Ejecutiva de Seguimiento de Recomendaciones contará con:
+Para el cumplimiento de sus atribuciones, la Dirección Ejecutiva de Seguimiento contará con:
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-I. Una Dirección de Seguimiento e Información; y
+I. Una Dirección de Seguimiento;
 
-II. (DEROGADA, G.O. 31 DE ENERO DE 2005)
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+II. Una Dirección de Información e Investigación, y
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -452,61 +476,73 @@ I. Una Dirección de Auditoría y Responsabilidades, y
 
 II. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 34.
 
-La Coordinación de Asesores, la Coordinación de Asuntos Jurídicos y la Secretaría Particular de la Presidencia de la Comisión, contarán con el personal necesario para el cumplimiento de sus atribuciones.
+La Secretaría Particular y las Coordinaciones de la Comisión, contarán con el personal necesario para el cumplimiento de sus atribuciones.
 
 #### Sección segunda. De las atribuciones de las áreas de apoyo adscritas a la Presidencia
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 35.
 
-La Dirección General de Quejas y Orientación tendrá las atribuciones siguientes:
+Son atribuciones de la o el Secretario(a), Ejecutivo(a) las siguientes:
 
-I. Recibir y registrar las quejas por presuntas violaciones a los derechos humanos;
+I. Coordinar, dar seguimiento y evaluar las tareas programáticas, lineamientos y políticas generales a los que habrán de sujetarse las actividades sustantivas y administrativas de la Comisión bajo las directrices que instruya la o el Presidente;
 
-II. Registrar las investigaciones que se inicien de oficio por parte de las Visitadurías;
+II. Coordinar, dar seguimiento y evaluar las políticas generales que en materia de Derechos Humanos proponga la o el Presidente y que deberán seguirse ante organismos públicos, sociales o privados, nacionales e internacionales;
 
-III. Registrar las medidas precautorias que se soliciten a las autoridades, en los casos en que no se lleve a cabo el procedimiento de investigación ante la Comisión;
+III. Colaborar con la o el Presidente en la elaboración de informes anuales, semestrales o especiales;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+IV. Auxiliar a la o el Presidente de la Comisión en todas las tareas administrativas, por conducto del área de apoyo respectiva;
 
-IV. Realizar las labores de orientación al público, cuando de la queja que se presente se desprenda fehacientemente que no es de la competencia de la Comisión. La orientación deberá realizarse de modo tal que a la persona atendida se le expliquen la naturaleza de su problema, las posibles formas de solución y se le proporcionen los datos de la institución a la que puede acudir, así como el domicilio y el teléfono de este último;
+V. Coadyuvar en el seguimiento y evaluación a los acuerdos dictados por la o el Presidente;
 
-V. Asignar número de expediente a las quejas presuntamente violatorias de los derechos humanos y registrarlas en el banco de datos automatizado que al efecto se establezca;
+VI. Presentar a la o el Presidente las propuestas de políticas internas, temas y opiniones respecto a las actividades de la Comisión, de las cuales las y los integrantes del Consejo deben conocer y opinar;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+VII. Formular líneas estratégicas institucionales que en su caso, se implementen en los órganos y áreas de apoyo que correspondan; y,
 
-VI. Turnar a las Visitadurías los correspondientes expedientes, dando aviso de esto a la Dirección Ejecutiva de Seguimiento de Recomendaciones;
+VIII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-VII. Operar y administrar el banco de datos en el que se registren, desde la recepción de la queja hasta la conclusión del expediente, todas las acciones llevadas a cabo por la Comisión, excepto aquellas quejas que hayan sido concluidas por recomendación, mismas que tendrán que ser coordinadas y archivadas por la Dirección Ejecutiva de Seguimiento de Recomendaciones;
+ARTÍCULO 35 BIS.- La Dirección General de Quejas y Orientación tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+I. Atender a las personas que soliciten apoyo de la Comisión por cualquier medio, para la presentación de una queja o denuncia;
 
-VIII. Turnar a los órganos y áreas de la Comisión la correspondencia a ellos dirigida y que se reciba en sus oficinas;
+II. Atender a las y los peticionarios que acudan a la Comisión, realizando una entrevista a fin de valorar si del asunto se desprende una presunta violación a los derechos humanos, a partir de lo cual se levantará acta circunstanciada de ello;
 
-IX. Recibir los recursos de impugnación que se presenten y remitirlos de inmediato a la Visitaduría que haya conocido del asunto;
+III. Realizar las acciones de trabajo social mediante la recepción y atención personal de las y los peticionarios que acudan a la oficina sede de la Comisión y, en su caso, apoyar a las Unidades Desconcentradas;
 
-X. Coordinar las labores de las Unidades Desconcentradas;
+IV. Valorar que los documentos reúnan los requisitos para determinar la admisibilidad para su registro, elaborando el acuerdo correspondiente. En los casos en que la o el peticionario haya solicitado la reserva de sus datos, se especificará en dicho acuerdo;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+V. Registrar las investigaciones que se inicien de oficio por parte de las Visitadurías;
 
-XI. Resguardar, mantener y administrar el archivo de los expedientes de queja que conozca la Comisión;
+VI. Asignar la queja a la Visitaduría que corresponda y turnarla para su calificación;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+VII. Operar en colaboración con la Dirección General de Administración en el marco de sus atribuciones el banco de datos en el que se registren las orientaciones e incompetencias, comprendidas en los artículos 12 y 13 del presente Reglamento y las quejas;
 
-XII. Remitir las incompetencias en los términos del Artículo 12 y 13 del presente Reglamento;
+VIII. Recibir y analizar los documentos que ingresen en la Oficialía de Partes para determinar el trámite que les corresponda, según la naturaleza de los mismos;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+IX. Recibir los recursos de impugnación o de queja que se presenten y remitirlos de inmediato a la Visitaduría que haya conocido del asunto;
 
-XIII. Despachar la correspondencia concerniente a la atención de quejas, tanto la que deba enviarse a las autoridades como a la parte quejosa, y recabar los correspondientes acuses de recepción, y
+X. Solicitar y gestionar por instrucciones de la o el Presidente ante las autoridades competentes en casos urgentes las medidas precautorias, de conservación o de restitución necesarias, u otras acciones, para evitar la consumación irreparable de violaciones a derechos humanos. Las mismas acciones podrán realizarse cuando la naturaleza del caso lo amerite y no se haya iniciado el procedimiento de investigación ante la Comisión;
 
-(REFORMADA, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 22 DE MAYO DE 2003)
+XI. Orientar a las y los peticionarios para el trámite de su asunto, cuando de los hechos se desprenda que no se surte la competencia legal de la Comisión; la orientación deberá realizarse de modo tal que a la persona se le explique la naturaleza de su problema, las razones por las cuales no es competente la Comisión, así como las alternativas para su atención, proporcionándole los datos de la institución a la que puede acudir, así como el domicilio y teléfono de ésta;
 
-XIV. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XII. Coordinar las labores de las Unidades Desconcentradas, favoreciendo la cercanía con las y los habitantes de las correspondientes demarcaciones territoriales;
+
+XIII. Recibir, valorar y sin admitir la instancia, registrar y remitir las incompetencias en términos de los artículos 12 y 13 del presente Reglamento al organismo público nacional o estatal protector de derechos humanos que corresponda;
+
+XIV. Recibir, valorar, registrar y dar trámite a las solicitudes de información pública, hasta la entrega de la respuesta al solicitante;
+
+XV. Coordinar todas las acciones para la debida operación de la OIP, tanto al interior como al exterior de la Comisión;
+
+XVI. Apoyar a la o el Presidente en la elaboración, de los informes en el ámbito de su competencia, y
+
+XVII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 ###### ARTÍCULO 36.
 
@@ -516,9 +552,9 @@ La Dirección General de Administración tendrá las atribuciones siguientes:
 
 I. Atender las necesidades administrativas de los diferentes órganos y áreas de la Comisión de conformidad a los lineamientos generales, normas, políticas, manuales y procedimientos administrativos aprobados por el Consejo, así como por las indicaciones que reciba de la o el Presidente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-II. Establecer con la aprobación de la o el Presidente las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros de la Comisión, así como la prestación de servicios generales de apoyo;
+II. Establecer con la aprobación de la o el Presidente las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros de la Comisión, así como la prestación de servicios generales de apoyo, aplicando políticas que garanticen la equidad de género;
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -542,19 +578,29 @@ VII. Ejecutar las determinaciones del Comité de Adquisiciones, Arrendamientos y
 
 VIII. Conservar y custodiar los bienes muebles e inmuebles de la Comisión, conforme a los lineamientos que al efecto se dicten, y llevar el registro y control de los mismos;
 
-IX. Establecer y operar el sistema de cómputo de la Comisión;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+IX. Establecer y administrar tanto los servicios de cómputo como el sistema de bases de datos para el adecuado cumplimiento de las funciones de la Comisión, así como operar aquellas bases de datos necesarias, en el ámbito de su competencia;
 
-X. Resguardar, mantener y administrar el Archivo General de la Comisión;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+X. Resguardar, mantener y administrar el Archivo General, así como el archivo de los expedientes de queja que conozca la Comisión;
 
-XI. Implementar lo relativo al desarrollo del Servicio Profesional en Derechos Humanos, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+XI. Despachar la correspondencia concerniente a la atención de quejas, tanto la que deba enviarse a las autoridades como a la parte quejosa, y recabar los correspondientes acuses de recepción;
 
-XII. Las demás que le confiera el presente reglamento, la o el Presidente, el Estatuto del Servicio y los ordenamientos internos aplicables.
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XII. Implementar lo relativo al desarrollo del Servicio Profesional en Derechos Humanos, aplicando políticas que garanticen la equidad de género;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIII Coordinar en colaboración con los órganos y áreas de apoyo correspondientes, la publicación de los mecanismos de comunicación interna de la Comisión, y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIV. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, el Manual y los ordenamientos internos aplicables.
 
 ###### ARTÍCULO 37.
 
@@ -578,9 +624,9 @@ IV. Coordinar las reuniones de prensa de la o el Presidente y demás funcionario
 
 V. Informar a la o el Presidente sobre las denuncias que aparezcan en los medios de comunicación social, a efecto de que, en su caso, se proceda conforme al artículo 24, fracción 2, de la Ley;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-VI. Elaborar la revista de comunicación interna, y
+VI. Coadyuvar en la elaboración de los instrumentos informativos que requieran los órganos y áreas de apoyo de la Comisión, y
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -606,45 +652,41 @@ VI. Vincularse con las organizaciones de la sociedad civil para realizar accione
 
 VII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 39.
 
-La Dirección Ejecutiva de Seguimiento de Recomendaciones tendrá las atribuciones siguientes:
+La Dirección Ejecutiva de Seguimiento tendrá las atribuciones siguientes:
 
-> <small>(F. DE E., G.O. 8 DE AGOSTO DE 2002)</small>
+I. Registrar en una base de datos automatizada la información relacionada con las Recomendaciones que se emitan y de su seguimiento, y con el seguimiento a los procedimientos administrativos de responsabilidad derivados de los expedientes de queja concluidos;
 
-I. Registrar en una base de datos automatizada la información relacionada con las Recomendaciones que se emitan;
+II. Dar seguimiento a los procedimientos administrativos de responsabilidad derivados de los expedientes de queja concluidos;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+III. Dar seguimiento a las Recomendaciones emitidas por esta Comisión;
 
-II. Informar a la o el Presidente sobre el avance en el cumplimiento de cada una de las Recomendaciones, hasta que se consideren totalmente cumplidas;
+IV. Iniciar investigaciones de oficio, pudiendo elaborar, pronunciamientos generales y programas preventivos en materia de derechos humanos, conforme a lo establecido en los artículos 17, fracciones VI y IX; así como 50 de la Ley;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+V. Elaborar los Informes que se deriven de sus atribuciones;
 
-III. Preparar los proyectos de informes que la o el Presidente deba enviar a las autoridades, sobre el estado que guarde el cumplimiento de cada una de las Recomendaciones;
+VI. Dar seguimiento a los informes especiales emitidos por la Comisión, en colaboración con las y los Titulares de los órganos y áreas de apoyo responsables de su emisión;
 
-IV. Solicitar informes adicionales a las autoridades a las cuales se dirigió una Recomendación, a fin de que precisen datos o aporten otros elementos para evaluar el grado de cumplimiento. El informe será rendido dentro del plazo que para tal efecto se fije, según la gravedad del caso, el cual no excederá de 15 días contados a partir de que reciba el requerimiento;
+VII. Recibir, valorar y verificar las pruebas que envíe la autoridad en cumplimiento de las Recomendaciones;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+VIII. Solicitar a las autoridades los informes que considere pertinentes para el cumplimiento de sus atribuciones. Las autoridades que omitan dar la información serán responsables en términos de lo dispuesto en los Capítulos VII y VIII de la Ley;
 
-V. Informar a la parte quejosa que lo solicite del cumplimiento de las Recomendaciones correspondientes;
+IX. Realizar visitas de verificación en el ámbito de su competencia;
 
-VI. Realizar visitas de inspección con el fin de comprobar el cumplimiento de aquellos puntos recomendatorios que requieran de este tipo de verificación para certificar su cumplimiento;
+X. Informar a las o los peticionarios (as) y agraviados (as) que lo soliciten el avance y cumplimiento de las Recomendaciones emitidas por esta Comisión;
 
-VII. Cuando lo considere pertinente, podrá colaborar con la autoridad en los casos en que ésta lo solicite, a fin de lograr acciones tendientes al cumplimiento de una Recomendación aceptada;
+XI. Asistir a la o el Presidente (a) en la realización de mesas interinstitucionales de trabajo con distintas autoridades en el ámbito de su competencia;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+XII. Informar a la o el Presidente (a) el estado que guarden los asuntos de su competencia;
 
-VIII. Coordinar el trabajo de evaluación del cumplimiento de las Recomendaciones con las y los Visitadores (as) y las y los visitadores (as) adjuntos (as) que hubiesen preparado los proyectos respectivos y solicitar a éstos, en su caso, la práctica de diligencias que fueren necesarias a fin de verificar la información recibida;
+XIII. Calificar el cumplimiento de las Recomendaciones y con base en la valoración de las pruebas de cumplimiento aportadas por la autoridad, determinar la conclusión del seguimiento de éstas; haciendo la propuesta respectiva a la o el Presidente;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+XIV. Someter a consideración de la o el Presidente el seguimiento de las Recomendaciones que se ubiquen en los supuestos de las fracciones contempladas en el artículo 65 bis de la Ley, y
 
-IX. Dar seguimiento a las Propuestas Generales que emita la o el Presidente, y
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-X. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XV. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2005)</small>
 
@@ -660,7 +702,9 @@ I. Planear, desarrollar y promover estudios e investigaciones en materia de dere
 
 II. Impulsar investigaciones diagnósticas para auxiliar al Presidente en la formulación de propuestas generales, conducentes al cumplimiento de los objetivos de la Comisión;
 
-III. Atender las necesidades en materia de relaciones y seguimiento con organismos nacionales e internacionales para los fines de la Coordinación;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+III. Atender las necesidades en materia de relaciones y seguimiento con organismos nacionales e internacionales en el ámbito de su competencia;
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -674,27 +718,37 @@ V. Auxiliar a la o el Presidente en la coordinación de los procedimientos de pl
 
 VI. Proponer estrategias de articulación, dirección educativa y promoción activa de los derechos humanos, dirigidas prioritariamente a la capacitación y profesionalización del personal de la Comisión;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-VII. Diseñar y actualizar los criterios y contenidos para la implementación del Servicio Profesional en Derechos Humanos;
+VII. Diseñar y actualizar los criterios y contenidos para la implementación del Servicio Profesional en Derechos Humanos, aplicando políticas transversales que garanticen la equidad de género;
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 VIII. Formular programas y proponer acciones en coordinación con las dependencias competentes, los órganos y áreas de la Comisión, para impulsar el cumplimiento de los tratados, convenciones, acuerdos internacionales signados y ratificados por México en materia de derechos humanos Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos que divulgará de manera amplia entre la población;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-IX. Elaborar el anteproyecto del Estatuto del Servicio y proponer a la o el Presidente las actualizaciones del mismo, y
+IX. Proponer a la o el Presidente las modificaciones al Estatuto del Servicio y al Manual;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-X. Las demás que le confiera el presente reglamento, la o el Presidente, el Estatuto del Servicio y los ordenamientos internos aplicables.
+X. Garantizar el desarrollo del programa de equidad de género que impulse las políticas transversales del mismo, y
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XI. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, el Manual y los ordenamientos internos aplicables.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 41.
 
-La Coordinación de Asesores, la Coordinación de Asuntos Jurídicos y la Secretaría Particular de la Presidencia de la Comisión, tendrán las funciones que la o el Presidente establezca y contarán con el personal de apoyo que sea necesario.
+La Secretaría Particular de la Presidencia de la Comisión, tendrá las funciones que la o el Presidente establezca y contará con el personal de apoyo que sea necesario.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTÍCULO 41 BIS.- Las Coordinaciones serán supervisadas por la o el Secretario (a) Ejecutivo (a) y tendrán las funciones que establezca la o el Presidente.
+
+Estas áreas contarán con el personal de apoyo que sea necesario.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -776,9 +830,9 @@ XII. Firmar, junto con la o el Secretario(a) Técnico(a), todos los acuerdos o r
 
 XIII. Las demás atribuciones que le confieren la Ley, este Reglamento y el Estatuto del Servicio.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-#### Sección segunda. De los Consejeros(as) y de las Sesiones del Consejo
+#### Sección segunda. De los y las Consejeros(as) y de las Sesiones del Consejo
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1026,9 +1080,11 @@ III. El personal profesional, técnico y administrativo necesario para el cumpli
 
 ### CAPÍTULO V. De las Visitadurías
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 65.
 
-La Comisión contará con un mínimo de dos y un máximo de cuatro Visitadurías.
+La Comisión contará con un mínimo de dos Visitadurías y se incrementarán de conformidad con las necesidades del servicio y la disponibilidad presupuestal.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1040,17 +1096,17 @@ La o el Visitador(a) será el titular de la Visitaduría que corresponda y conoc
 
 Las Visitadurías serán identificadas de la manera siguiente: Primera Visitaduría, Segunda Visitaduría, Tercera Visitaduría y Cuarta Visitaduría.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 68.
 
-Cada Visitaduría tendrá a su cargo la tramitación de los procedimientos de investigación que se inicien de oficio o mediante queja. En éste último supuesto, de conformidad con el turno que le haya asignado la Dirección General de Quejas y Orientación.
+Cada Visitaduría tendrá a su cargo la tramitación de los procedimientos de investigación que se inicien de oficio o mediante queja. En este último supuesto, de conformidad con la asignación que lleve a cabo la Dirección General de Quejas y Orientación. La o el Presidente podrá acordar que un caso determinado sea conocido específicamente por una Visitaduría.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
-
-La o el Presidente podrá acordar que un caso determinado sea conocido específicamente por una Visitaduría, con independencia de la asignación por turno.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 69.
 
-El Presidente podrá asignar, discrecionalmente a las Visitadurías, asuntos especiales que no estén incluidos en su programa operativo anual.
+La o el Presidente podrá asignar, discrecionalmente a las Visitadurías, asuntos especiales que no estén incluidos en su programa operativo anual.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1106,11 +1162,11 @@ III. Solicitar en cualquier momento a las autoridades competentes que se tomen l
 
 IV. Solicitar en casos urgentes a las autoridades federales y a las entidades federativas, que de manera inmediata se tomen las medidas precautorias, de conservación o de restitución necesarias para evitar la consumación irreparable de las violaciones a los derechos humanos de que tenga conocimiento;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-V. Allegarse, con apoyo del personal médico adscrito a la Comisión, del certificado médico de lesiones y, si es necesario, los análisis clínicos, tanto de laboratorio como de gabinete, cuando la parte quejosa refiera haber sido objeto de tortura, tratos crueles, inhumanos o degradantes;
+V. Allegarse, con apoyo de la Unidad de Servicios Médicos y Psicológicos adscrita a la Visitaduría que por razón de su especialidad se determine, del certificado médico de lesiones y, si es necesario, los análisis clínicos, tanto de laboratorio como de gabinete, cuando la parte quejosa refiera haber sido objeto de tortura, tratos crueles, inhumanos o degradantes;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+(REFORMADA, G.O. 24 DE ABRIL DE 2003) (REPUBLICADA, G.O. 27 DE OCTUBRE DE 2006)
 
 VI. Turnar los proyectos de Recomendación, Propuesta General y Acuerdo de no Responsabilidad a la Presidencia para su aprobación;
 
@@ -1118,11 +1174,15 @@ VI. Turnar los proyectos de Recomendación, Propuesta General y Acuerdo de no Re
 
 VII. Aprobar, previo acuerdo con la o el Presidente, las conciliaciones en los procedimientos de investigación;
 
-VIII. Elaborar los informes y certificar las constancias que obren en los expedientes de queja a su cargo, que deban remitirse a la Comisión Nacional de los Derechos Humanos por la interposición de los recursos previstos en la Ley y el Reglamento de ese Organismo, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+VIII. Elaborar los informes y certificar las constancias que obren en los expedientes de queja a su cargo, que deban remitirse a la Comisión Nacional de los Derechos Humanos por la interposición de los recursos previstos en la Ley y el Reglamento de ese Organismo;
 
-IX. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+IX. Operar en colaboración con la Dirección General de Quejas y Orientación, y la Dirección General de Administración en el marco de sus atribuciones, el banco de datos, en el que se registren todas las acciones implementadas con motivo de la investigación de las quejas asignadas, y
+
+X. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 ###### ARTÍCULO 72.
 
@@ -1132,13 +1192,13 @@ I. Una Dirección General;
 
 II. Dos Direcciones de Área;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-III. Visitadores(as) adjuntos(as), y
+III. El apoyo de la Unidad de Servicios Médicos y Psicológicos, la cual se adscribirá a la Visitaduría, que por razón de su especialidad corresponda;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+IV. Visitadores(as) adjuntos(as), y
 
-IV. El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+V. El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1188,11 +1248,11 @@ X. Organizar y dirigir las visitas e inspecciones a las oficinas administrativas
 
 XI. Las demás que les confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 74.
 
-Las o los Directores(as) de Área de las Visitadurías serán los responsables inmediatos de dirigir los equipos de investigación y auxiliarán a la o el Director(a) General en sus funciones.
+Las o los Directores(as) de Área de las Visitadurías serán los responsables inmediatos de dirigir los equipos de investigación y auxiliarán a la o el Director General adscrito a la Visitaduría, o en su caso al Visitador en sus funciones.
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2005)</small>
 
@@ -1250,9 +1310,11 @@ El principio de confidencialidad no operará en los casos siguientes: Recomendac
 
 Los servidores públicos que laboren en la Comisión no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, cuando dicha prueba se encuentre relacionada con su intervención en el tratamiento de los procedimientos de investigación de violaciones a derechos humanos radicados en la Comisión.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 82.
 
-Las Recomendaciones, Acuerdos de No Responsabilidad, Propuestas Generales e Informes Especiales que emita la Comisión estarán basados en las pruebas que de manera fehaciente consten en los respectivos expedientes y deberán estar fundados y motivados en la norma interna e internacional que sea aplicable.
+Las Recomendaciones, Acuerdos de No Responsabilidad, Propuestas Generales e Informes Especiales y Conciliaciones que emita la Comisión estarán basados en las pruebas que de manera fehaciente consten en los respectivos expedientes y deberán estar fundados y motivados en la norma interna e internacional que sea aplicable.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1264,7 +1326,9 @@ I. Sean solicitadas por parte legítima, y
 
 II. Cuando no se trate de documentos que afecten derechos de terceros.
 
-### CAPÍTULO II. De la presentación, recepción y registro de la queja
+> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+### CAPÍTULO II. De la admisibilidad para registro de la queja
 
 ###### ARTÍCULO 84.
 
@@ -1280,27 +1344,33 @@ II. Oralmente, por comparecencia o por vía telefónica, y
 
 III. Por cualquier otro medio de comunicación telegráfica, eléctrica o electrónica.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 86.
 
-Las quejas que se presenten por escrito deberán contener:
+La admisibilidad para el registro de las quejas se determina por los requisitos siguientes:
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 I. Los datos mínimos de identificación: nombre, apellidos, domicilio y, en su caso, número telefónico de la persona que presuntamente ha sido o está siendo afectada en sus derechos humanos, así como los de la persona que presente la queja si ésta fuera distinta del agraviado(a);
 
-II. Los hechos presuntamente constitutivos de violación a los derechos humanos;
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-III. El servidor público o autoridad a quien se imputen los hechos;
+II. Si la o el peticionario solicita que sus datos de identificación se mantengan en reserva;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+III. Los hechos presuntamente constitutivos de violación a los derechos humanos;
 
-IV. Si es el caso, las pruebas en las que sustente su dicho la parte quejosa, y
+IV. El servidor público o autoridad a quien se imputen los hechos;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+V. Si es el caso, las pruebas en las que sustente su dicho la parte quejosa, y
 
-V. Nombre, firma o huella digital del interesado(a).
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-La Comisión podrá suplir la deficiencia de la queja, salvo por lo que se refiere a los requisitos señalados en las fracciones I y V.
+VI. Nombre, firma o huella digital de la parte quejosa.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+La Comisión podrá suplir la deficiencia de la queja, salvo por lo que se refiere a los requisitos señalados en las fracciones I y VI.
 
 ###### ARTÍCULO 87.
 
@@ -1318,15 +1388,15 @@ Lo previsto en el párrafo anterior no se aplicará a la parte quejosa que se en
 
 (DEROGADO, G.O. 24 DE ABRIL DE 2003)
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 90.
 
 Se considerará como anónima una queja que no contenga el nombre, no esté firmada o no tenga huella digital de la parte quejosa. En este supuesto no se podrá recibir ni iniciar trámite alguno con la queja.
 
-Se excepcionan de lo establecido en el párrafo anterior, aquellas quejas que no contengan nombre, firma o huella digital de la parte quejosa, como consecuencia del temor a represalias que puedan atentar contra su integridad física o moral. En este supuesto, se iniciará de oficio la investigación a fin de que, si es procedente, se solicite el establecimiento de medidas precautorias, de conservación o restitución a favor de la parte quejosa. Para ello, bajo estricta reserva, la Comisión solicitará datos de identificación de la parte quejosa con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus derechos humanos.
+Se excepcionan de lo establecido en el párrafo anterior, las quejas que no contengan nombre, firma o huella digital de la parte quejosa, como consecuencia del temor a represalias que puedan atentar contra su integridad física o moral. En este supuesto, se registrará y asignará la queja, debiéndose mantener los datos de identificación de la parte quejosa en estricta reserva, los cuales le serán invariablemente solicitados con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus derechos humanos.
 
-Para la continuación del trámite y del procedimiento de investigación a cargo de la Comisión, se requerirá acuerdo de la o el Presidente o de las o los Visitadores(as). Si estos servidores públicos, bajo su responsabilidad, consideran que no ha lugar para continuar con la investigación, ésta concluirá con la actuación que se hubiese realizado inicialmente. En caso contrario, se seguirá con la investigación hasta su conclusión en los términos que señale la Ley y este Reglamento.
+Si con motivo de mantener la reserva durante la investigación, se ve imposibilitada la actuación e intervención de la Comisión, se dará por concluido el procedimiento, debiéndose exponer en el Acuerdo de Conclusión las razones por las que no fue posible la continuación de éste.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1374,9 +1444,7 @@ La Comisión podrá iniciar de oficio procedimientos de investigación por presu
 
 I. Cuando se trate de denuncias presentadas en los medios de comunicación;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-II. Cuando la parte quejosa solicite que su nombre se mantenga en estricta reserva;
+II. (DEROGADA, G.O. 27 DE OCTUBRE DE 2006)
 
 III. Cuando resulte evidente la frecuencia de ciertas violaciones a derechos humanos por las mismas autoridades o servidores públicos, para los efectos del artículo 17, fracción VI, de la Ley, y
 
@@ -1400,15 +1468,13 @@ Presentada la queja o iniciada de oficio la investigación, se deberá registrar
 
 ### CAPÍTULO III. De la calificación
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 100.
 
-Una vez que la queja haya sido recibida y registrada, la Dirección General de Quejas y Orientación le asignará un número de expediente y acusará recibo de la misma a la parte quejosa, turnando el asunto al día hábil siguiente al de su registro a la Visitaduría que corresponda, para los efectos de su calificación y admisión.
+Una vez que la queja haya cumplido con los requisitos de admisibilidad y sea registrada, la Dirección General de Quejas y Orientación le asignará un número de expediente y acusará recibo de la misma a la parte quejosa, turnando el asunto como plazo máximo al día hábil siguiente al de su registro a la Visitaduría que corresponda, para los efectos de su calificación.
 
-El acuerdo de calificación y admisión deberá ser emitido por la o el Visitador(a) o la o el Director(a) General a más tardar al día siguiente en que haya recibido el turno.
-
-En él se señalará si ha lugar o no para iniciar una investigación, de acuerdo con los elementos con los que cuente la Comisión.
+El acuerdo de calificación deberá ser emitido por la Visitaduría a más tardar al día siguiente en que haya recibido el turno. En él se señalará si ha lugar o no para iniciar una investigación, de acuerdo con los elementos con los que cuente la Comisión.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1420,7 +1486,9 @@ I. Determinando la presunta existencia de la violación a los derechos humanos, 
 
 II. Determinando la incompetencia de la Comisión, orientando jurídicamente a la parte quejosa para que, si así lo considera conveniente, haga valer su derecho ante la autoridad competente. Este supuesto se sustentará en las causales que la Ley establece;
 
-III. Determinándola como pendiente, cuando la queja sea oscura, poco clara, confusa o imprecisa, en términos de lo establecido por el artículo 34 de la Ley. Al efecto se entenderá que la queja es oscura cuando exista la imposibilidad de saber cuál es la presunta violación a los derechos humanos o a quién se le imputan los hechos, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+III. Determinándola como pendiente, cuando la queja sea poco clara, confusa o imprecisa, en términos de lo establecido por el artículo 34 de la Ley. Al efecto se entenderá que la queja es poco clara, confusa o imprecisa cuando exista la imposibilidad de saber cuál es la presunta violación a los derechos humanos o a quién se le imputan los hechos, y
 
 IV. Determinando la improcedencia por encontrarse en alguno de los supuestos que la Ley establece, ya sea por que haya transcurrido el plazo a que se refiere el artículo 28 de la Ley o bien porque se actualice cualquier otro supuesto de improcedencia previsto en dicho ordenamiento legal.
 
@@ -1598,13 +1666,17 @@ VIII. Por haberse enviado a la autoridad o servidor público señalado como resp
 
 IX. Por Recomendación, en los términos que señala la Ley y el presente Reglamento, quedando abierto el expediente exclusivamente para los efectos del seguimiento de la misma;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-X. Por no existir elementos suficientes para acreditar la violación a los derechos humanos, y
+X. Por no existir elementos suficientes para acreditar la violación a los derechos humanos;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-XI. Por no haberse identificado a la autoridad que cometió la violación a los derechos humanos.
+XI. Por no haberse identificado a la autoridad que cometió la violación a los derechos humanos, y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+
+XII. Por orientación a la parte quejosa.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1662,11 +1734,11 @@ Para los efectos del artículo anterior, se considerarán violaciones graves a l
 
 La o el visitador(a) adjunto(a) que conozca de un procedimiento de investigación susceptible de ser solucionado por la vía conciliatoria, inmediatamente dará aviso a la parte quejosa de esta circunstancia, y le explicará en qué consiste el procedimiento y cuáles son sus ventajas. Asimismo, la o lo mantendrá informado(a) sobre el trámite conciliatorio hasta su conclusión.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 130.
 
-La o el Visitador(a) o la o el Director(a) General, de una manera breve y sencilla, presentará por escrito a la autoridad o servidor público a quien se imputen los hechos presuntamente violatorios de los derechos humanos, la propuesta de conciliación, previamente aceptada por la parte quejosa, a fin de que, si es aceptada por la autoridad, se concluya el procedimiento respectivo.
+La o el Visitador(a) de una manera breve y sencilla, presentará por escrito a la autoridad o a la o el servidor público a quien se imputen los hechos presuntamente violatorios de los derechos humanos, la Propuesta de Conciliación, previamente consensuada con la parte quejosa, y valorada por la o el Presidente y la Dirección Ejecutiva de Seguimiento, a fin de que, si es aceptada por la autoridad, se firme por la o el Presidente y se concluya el procedimiento respectivo.
 
 ###### ARTÍCULO 131.
 
@@ -1680,7 +1752,7 @@ Vencido el plazo para acreditar el cumplimiento de la conciliación sin que la a
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-#### Sección tercera. De los Acuerdos de no Responsabilidad
+#### Sección tercera. De los Acuerdos de No Responsabilidad
 
 ###### ARTÍCULO 133.
 
@@ -1712,19 +1784,19 @@ V. La motivación y fundamentación en la que se soporte el Acuerdo de no Respon
 
 Los Acuerdos de no Responsabilidad serán notificados de inmediato a la parte quejosa y a las autoridades o servidores públicos a los que vayan dirigidos, haciendo saber a la parte quejosa, en forma expresa, el recurso o medio de impugnación que, en su caso, pueden ejercer.
 
+(REUBICADO, G.O. 27 DE OCTUBRE DE 2006)
+
 #### Sección cuarta. De las Recomendaciones
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 136.
 
 Concluida la investigación, si existen elementos que generen convicción en el sentido de que existe violación a los derechos humanos, la Comisión, por conducto de la o el visitador(a) adjunto(a) que conozca de la investigación, elaborará el anteproyecto de Recomendación que corresponda.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2005)</small>
-
 ###### ARTÍCULO 137.
 
-El anteproyecto de Recomendación deberá ser validado por la o el Visitador(a), quien en lo conducente tomará en cuenta la opinión de la Dirección Ejecutiva de Seguimiento de Recomendaciones. El anteproyecto final será puesto a consideración de la o el Presidente.
+El anteproyecto de Recomendación deberá ser validado por la o el Visitador, quien en lo conducente tomará en cuenta la opinión de la Dirección Ejecutiva de Seguimiento. El anteproyecto final será puesto a consideración de la o el Presidente.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1738,9 +1810,9 @@ La o el Presidente estudiará el proyecto pudiendo hacer las consultas que estim
 
 Las Recomendaciones contendrán, como mínimo, los siguientes elementos:
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
-I. Nombre de la parte quejosa, autoridad o servidor público señalado como responsable, número de expediente, lugar y fecha;
+I. Nombre de la parte quejosa, autoridad o servidor público señalado como responsable, número de expediente, lugar y fecha, salvo en aquéllos casos excepcionales contemplados por el artículo 55 de la Ley;
 
 II. Descripción de los hechos violatorios de los derechos humanos;
 
@@ -1788,23 +1860,19 @@ La Comisión deberá dar seguimiento a las Recomendaciones aceptadas por la auto
 
 La Comisión podrá formular denuncia ante la Contraloría General del Gobierno del Distrito Federal, en los términos de la ley de responsabilidades de los servidores públicos aplicable, para fincar las responsabilidades administrativas en aquellos casos en los que la autoridad o el servidor público a los que se imputa la violación a los derechos humanos, no rinda la información requerida en más de dos ocasiones.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 145.
 
-La Dirección Ejecutiva de Seguimiento de Recomendaciones calificará la Recomendación de acuerdo a su aceptación y cumplimiento.
+La Dirección Ejecutiva de Seguimiento calificará la Recomendación de acuerdo a su aceptación y cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 146.
 
-La Dirección Ejecutiva de Seguimiento de Recomendaciones informará a la o el Presidente, de manera periódica, el estado en el que se encuentran las Recomendaciones emitidas.
+La Dirección Ejecutiva de Seguimiento informará a la o el Presidente, de manera periódica, el estado en el que se encuentran las Recomendaciones emitidas.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
-
-Al efecto, la o el Presidente en ejercicio de las atribuciones establecidas en los artículos 2, 17, fracción V, y 22, fracciones III y IV, de la Ley, podrá hacer del conocimiento de la Asamblea Legislativa del Distrito Federal o de las instancias internacionales competentes, el estado en que se encuentran las Recomendaciones, para la contribución a su cumplimiento.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+Al efecto, la o el Presidente en ejercicio de las atribuciones establecidas en los artículos 2, 17, fracción V, y 22, fracciones III y IV y 65 bis de la Ley, podrá hacer del conocimiento de la Asamblea Legislativa del Distrito Federal o de las instancias internacionales competentes, el estado en que se encuentran las Recomendaciones, para la contribución a su cumplimiento.
 
 La conclusión del seguimiento de recomendaciones deberá ser aprobada por la o el Presidente.
 
@@ -1873,3 +1941,17 @@ Todo lo concerniente al Servicio Profesional en Derechos Humanos de la Comisión
 G.O. 31 DE ENERO DE 2005.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 27 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las Reformas y Adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 17 de agosto de 2006, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal derogando las disposiciones que las contravengan.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de investigación y de seguimiento, así como los de Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+###### ARTÍCULO TERCERO.
+
+La estructura orgánica de la Comisión a que se refiere el presente Reglamento Interno, se irá ocupando conforme lo permita la disponibilidad presupuestal.
