@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2005-11-18"
+last_updated: "2006-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 247, LAS REFORMAS ENTRARAN EN VIGOR A PARTIR DEL PRIMERO DE MARZO DE DOS MIL SIETE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -237,19 +239,21 @@ III. Se abstendrá de asumir patrones estereotipados de comportamientos o práct
 
 IV. Se basará en modelos psicoterapéuticos específicos para personas con perfiles definidos y contendrá acciones susceptibles de evaluación.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 20.
 
-La atención se podrá hacer extensiva en instituciones públicas a quienes cuenten con ejecutoria relacionada con eventos de violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas el juez penal o familiar; o bien, a solicitud del propio interesado.
+La atención se podrá hacer extensiva en instituciones públicas a quienes cuenten con ejecutoria relacionada con eventos de violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas el juez penal, familiar, o especializado para adolescentes; o bien, a solicitud del propio interesado.
 
 ###### ARTÍCULO 21.
 
 La atención será proporcionada por personal especializado y en la medida de lo posible de forma multidisciplinaria.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO 22.
 
-Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente registradas en la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia la realización de estudios o investigaciones, o bien que emitan informes o dictámenes respecto de procesos psicoterapéuticos de generadores y víctimas de la violencia familiar, cuando sea necesario para allegarse elementos al emitir sentencia o en general le sean de utilidad, conforme a los Códigos de Procedimientos Civiles y Penales para el Estado de Baja California.
+Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente registradas en la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia la realización de estudios o investigaciones, o bien que emitan informes o dictámenes respecto de procesos psicoterapéuticos de generadores y víctimas de la violencia familiar, cuando sea necesario para allegarse elementos al emitir sentencia o en general le sean de utilidad, conforme a los Códigos de Procedimientos Civiles y Penales para el Estado de Baja California y demás leyes aplicables.
 
 ###### ARTÍCULO 23.
 
@@ -464,3 +468,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
