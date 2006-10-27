@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3607"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-13"
-last_updated: "2001-03-06"
+last_updated: "2006-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 13 de marzo de 1981.
 
@@ -57,19 +57,19 @@ El Comité de Planeación para el Desarrollo del Estado contará con los órgano
 
 I.- Por un Presidente, que será el C. Gobernador del Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-II.- Por dos Vicepresidentes, que serán los Secretarios de Gobierno y de Finanzas del Estado;
+II. Por un Vicepresidente que será el Secretario de Gobierno;
 
-Cada uno de los Vicepresidentes tendrá a su cargo las atribuciones que determine el correspondiente reglamento interior;
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-III.- Por un Coordinador General, que será el Secretario de Planeación y Desarrollo del Estado;
+III. Por un Coordinador General que será el Secretario de Finanzas del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-IV.- Por un Secretario Técnico, que será el Subsecretario de Planeación de la Secretaría de Planeación y Desarrollo del Estado;
+IV. Por un Secretario Técnico que será el Subsecretario de Programación y Presupuesto de la Secretaría de Finanzas del Estado;
 
 V.- Por los delegados y representantes de las Dependencias y Entidades Paraestatales del Gobierno Federal en el Estado;
 
@@ -89,9 +89,9 @@ XI.- Los representantes de instituciones de educación superior y de centros de 
 
 XII.- Los senadores y diputados federales por el Estado, así como los diputados locales.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Se integrará al Comité de Planeación para el Desarrollo del Estado como Vocal de Vigilancia, el titular de la Secretaría de la Contraloría y Modernización Administrativa.
+Se integra al Comité de Planeación para el Desarrollo del Estado como vocal de vigilancia, el titular de la Secretaría de la Función pública del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
 
@@ -252,3 +252,13 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Para los efectos de lo dispuesto en este Decreto, el Comité deberá reunirse en un plazo que no excederá de 30 días, contado a partir de la fecha en que entre en vigor el presente Decreto, levantándose el acta respectiva que se protocolizará ante notario público e inscribirá en el Registro Público.
 
 CUARTO. El Comité expedirá su reglamento interior dentro de los 30 días siguientes a la fecha en que entre en vigor este Decreto.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- El Comité deberá reunirse, por primera vez, en un plazo que no excederá de 30 días, a partir de la fecha en que entre en vigor el presente Decreto levantándose el Acta respectiva, misma que se protocolizará ante Notario Público e inscribirá en el Registro Público.
+
+CUARTO.- El Comité expedirá su reglamento interior dentro de los 30 días siguientes a la fecha en que entre en vigor este Decreto.
