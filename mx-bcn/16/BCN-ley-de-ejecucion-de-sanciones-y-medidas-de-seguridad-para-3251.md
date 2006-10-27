@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2001-11-09"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO UNICO DEL DECRETO NO. 247, POR EL QUE SE REFORMAN LOS ARTICULOS 2,4, 20, 28, 120, 123 Y 124 DE LA PRESENTE LEY, ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE MARZO DE 2007.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 4 de agosto de 1995.
 
@@ -47,11 +49,11 @@ LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALI
 
 Las disposiciones de esta Ley son de observancia general en el Estado de Baja California y su aplicación corresponde al Poder Ejecutivo, a través de la Secretaría de Seguridad Pública, salvo las facultades de los órganos jurisdiccionales en materia de ejecución penal. Las autoridades y los cuerpos de seguridad pública del Estado, están obligados a prestar el auxilio y apoyo necesario para el cumplimiento de sus normas.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 2.
 
-Esta Ley tiene por objeto establecer las bases para la ejecución de las penas y medidas de seguridad, impuestas por las autoridades judiciales del Estado o el Consejo de Menores como consecuencia del delito o de la infracción, según sea el caso. No comprende, por lo tanto, la situación de las personas arrestadas por sanción disciplinaria o medidas de apremio, impuestas por los tribunales o por las autoridades administrativas, pero sí las medidas que se apliquen a inimputables que hubiesen incurrido en hechos previstos en la Ley como delitos.
+Esta Ley tiene por objeto establecer las bases para la ejecución de las penas y medidas de seguridad, así como las medidas de orientación, protección y tratamiento, impuestas por las autoridades judiciales del Estado, como consecuencia del delito o de las conductas por las autoridades judiciales del Estado, como consecuencia del delito o de las conductas atribuidas a adolescentes que se encuentren tipificadas como delito por las leyes estatales, según sea el caso. No comprende, por lo tanto, la situación de las personas arrestadas por sanción disciplinaria o medidas de apremio, impuestas por los tribunales o por las autoridades administrativas, pero sí las medidas que se apliquen a inimputables que hubiesen incurrido en hechos previstos en la Ley como delitos.
 
 ###### ARTICULO 3.
 
@@ -61,11 +63,11 @@ El Ejecutivo del Estado podrá celebrar con la Federación, el Distrito Federal 
 
 ### CAPITULO I. DE LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 4.
 
-Corresponde a la Secretaría de Seguridad Pública, a través de la Subsecretaría del Sistema Estatal Penitenciario, la ejecución de las penas y medidas de seguridad impuestas por la autoridad judicial o el Consejo de Menores, con las excepciones previstas en las Leyes, así como el control de todos los centros de custodia preventiva, reclusión penitenciaria e internamiento para inimputables que existan en el Estado, sin perjuicio de las funciones que establezcan los convenios de coordinación que se celebren con el Gobierno Federal y otras entidades de la República.
+Corresponde a la Secretaría de Seguridad Pública, a través de la Subsecretaría del Sistema Estatal Penitenciario, la ejecución de las penas y medidas de seguridad, así como las medidas de orientación, protección y tratamiento, impuestas por la autoridad judicial, con las excepciones previstas en las Leyes, así como el control de todos los centros de custodia preventiva, reclusión penitenciaria e internamiento para inimputables que existan en el Estado, además de los Centros de Diagnóstico y Centros de Ejecución de Medidas para adolescentes, que cometan conductas tipificadas como delitos por las leyes estatales; sin perjuicio de las funciones que establezcan los delitos por las leyes estatales; sin perjuicio de las funciones que establezcan los convenios de coordinación que se celebren con el Gobierno Federal y otras entidades de la República.
 
 Los arrestos administrativos o por medidas de apremio dictadas por la autoridad judicial, deberán de cumplirse ante la autoridad municipal.
 
@@ -215,7 +217,9 @@ II.- Centros para mujeres con secciones de indiciadas, procesadas y reos.
 
 III.- Centros de custodia, evaluación y terapia para inimputables por defecto mental.
 
-IV.- Centros de custodia, evaluación y readaptación para menores.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+IV.- Centros de Diagnóstico y Centros de Ejecución de Medidas para adolescentes, en los términos de la Ley en materia de justicia para adolescentes, y
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -281,11 +285,11 @@ En el caso de los farmacodependientes, su reclusión no podrá exceder del térm
 
 Los internos sordomudos, ciegos, paralíticos o drogadictos que requieran de tratamiento, serán recluidos en secciones especiales del centro respectivo, para su educación o terapia.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 28.
 
-Los menores infractores estarán a cargo de la Subsecretaría, a través del Consejo de Menores, en los centros correspondientes.
+La custodia, diagnóstico y ejecución de medidas de los adolescentes que cometan conductas tipificadas como delito por las leyes estatales, estará a cargo de la Subsecretaría, a través de los Centros correspondientes.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -1015,9 +1019,13 @@ El Estado procurará, de acuerdo con sus posibilidades económicas, establecer a
 
 ### CAPITULO III. DEL PATRONATO PARA LIBERADOS
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 120.
 
-Para apoyar a los liberados en materia laboral, asistencial y de vinculación con la familia, se crearán en cada Municipio del Estado de Baja California un Patronato para liberados, que estará dotado de personalidad jurídica y patrimonio propio, dirigido por un Comité Ejecutivo de tres miembros, nombrados por el Consejo de Patronos, y un presidente designado por el Gobernador del Estado, quienes durarán en sus funciones tres años, pudiendo ser reelectos.
+Para apoyar a los liberados, en materia laboral, educativa, asistencial, y de vinculación con la familia, se crearán en cada Municipio del Estado de Baja California un Patronato para liberados, que estará dotado de personalidad jurídica y patrimonio propio, dirigido por un Comité Ejecutivo de tres miembros, nombrados por el Consejo de Patronos, y un presidente designado por el Gobernador del Estado, quienes durarán en sus funciones tres años, pudiendo ser reelectos.
+
+La función del patronato, también se extenderá al apoyo de quienes hayan sido liberados de Centros de Ejecución de Medidas para Adolescentes.
 
 ###### ARTICULO 121.
 
@@ -1027,19 +1035,25 @@ El Consejo de Patronos se compondrá de veinte miembros y quedará integrado por
 
 La asistencia que otorgue el patronato no tendrá carácter policial y, en la medida de sus posibilidades, comprenderá el auxilio moral, económico, jurídico, médico, laboral y social, tanto de los liberados como de sus familias, pudiendo solicitar a las autoridades y a los particulares, la colaboración adecuada para realizar sus funciones.
 
-## TITULO SEPTIMO. DE LA APLICACION DE MEDIDAS DE SEGURIDAD PARA INIMPUTABLES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-### CAPITULO I. DE LOS MENORES INFRACTORES
+## TITULO SEPTIMO. DE LA APLICACION DE MEDIDAS PARA INIMPUTABLES Y ADOLESCENTES
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+### CAPITULO I. DE LOS ADOLESCENTES
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 123.
 
-Las medidas de readaptación social que se impongan a menores, por haber incurrido en conductas previstas por la Ley como delitos, se regirán por las disposiciones de la Ley para Menores infractores y, en lo que sea aplicable, por la presente Ley.
+Las medidas de reintegración social que se impongan a los adolescentes, por haber incurrido en conductas tipificadas como delitos por las leyes estatales, se regirán por las disposiciones de la Ley de Justicia para Adolescentes del Estado de Baja California y, en lo que sea aplicable, por la presente Ley.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 124.
 
-Los menores que estando sometidos a medidas reeducativas en centros de detención, cumplan su mayoridad penal, por ningún motivo serán trasladados a centros para imputables. Si muestran todavía tendencias delictivas, podrán ser retenidos en centros para jóvenes, dependientes del mismo consejo tutelar, hasta los veinticinco años, o entregados en custodia familiar a una persona responsable, siempre que el interno o los terceros a que se refiere el Artículo 44 del Código Penal para el Estado de Baja California, hayan cubierto o garantizado la reparación del daño.
-
-Para que un menor sea entregado en custodia familiar, es necesario que se someta, por todo el tiempo que determine el Consejo, a actividades terapéuticas con la participación obligatoria de los que ejerzan la patria potestad o la tutela.
+Los adolescentes que estando internos en Centros de Diagnóstico o de Ejecución de Medidas, cumplan su mayoría de edad, por ningún motivo serán trasladados a centros para imputables; en este supuesto, seguirán internos en el Centro que corresponda, a disposición del órgano judicial especializado, hasta en tanto cumplan la medida impuesta por dicho órgano.
 
 ### CAPITULO II. DE LOS INIMPUTABLES POR DEFECTOS MENTALES
 
@@ -1258,3 +1272,7 @@ CUARTO.- Los bienes, productos y servicios propiedad de los internos se cambiar�
 QUINTO.- La Dirección de Control y Evaluación Gubernamental asignará el personal necesario para dar cumplimiento al transitorio cuarto y, en su caso, instruirá los procedimientos y acciones que deriven de cualquier incumplimiento.
 
 SEXTO.- La Secretaría de Planeación y Finanzas del Estado coadyuvará con los Directores de los Centros de Readaptación Social del Estado, en el control y supervisión de los recursos que deriven de lo dispuesto por el transitorio cuarto, asignando el personal competente al efecto.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
