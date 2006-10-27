@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-depositos-constituidos-en-materia-de-procedimientos-3015
 country: "mx"
 rank: "ley"
 publication_date: "1981-05-20"
-last_updated: "1981-05-20"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE DEPOSITOS CONSTITUIDOS EN MATERIA DE PROCEDIMIENTOS SOBRE MENORES INFRACTORES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO OCTAVO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 20 de mayo de 1981.
 
@@ -134,3 +136,31 @@ EL OFICIAL MAYOR DE GOBIERNO ENC. DE LA SECRETARIA GRAL. POR M. DE L.
 LIC. RAUL POMPA VICTORIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del primero de marzo del año dos mil siete.
+
+SEGUNDO.- Con la entrada en vigor de la Ley de Justicia para Adolescentes del Estado de Baja California, queda abrogada la Ley para Menores Infractores en el Estado de Baja California.
+
+TERCERO.- Los procedimientos iniciados y los que se inicien previo a la vigencia de la Ley de Justicia para Adolescentes del Estado de Baja California se tramitarán, substanciarán y resolverán de conformidad con las disposiciones contempladas en la Ley para Menores Infractores en el Estado de Baja California, publicada en el Periódico Oficial Número 53, Sección I, de fecha 24 de diciembre de 1993, Tomo C.
+
+CUARTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la Ley para Menores Infractores en el Estado de Baja California.
+
+QUINTO.- Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo del Estado, las instituciones y autoridades estatales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas respectivas. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se podrá recurrir a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+
+Asimismo, una vez publicada la presente Ley, las autoridades obligadas a la aplicación de ésta impulsarán y acordarán los convenios de colaboración o en su caso de transferencia de recursos que consideren necesarios, para el adecuado funcionamiento de las instituciones y órganos que establece la misma.
+
+SEXTO.- Las instituciones encargadas de la formación de los agentes de las policías estatales y municipales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de la adolescencia contenidos en la Constitución, los tratados internacionales y esta Ley.
+
+SÉPTIMO.- El Consejo de la Judicatura a partir de la publicación de la presente Ley, deberá lanzar convocatoria para la designación del Magistrado Especializado para Adolescentes, Jueces Especializados para Adolescentes, Secretarios de Acuerdos y Actuarios, en los términos de las disposiciones legales aplicables.
+
+OCTAVO.- Se abroga la Ley de Depósitos Constituidos en Materia de Procedimientos sobre Menores Infractores del Estado de Baja California, publicada en el Periódico Oficial Número 14, de fecha 20 de Mayo de 1981, Tomo LXXXVIII, a partir de la entrada en vigor de la Ley de Justicia para Adolescente del Estado de Baja California.
+
+NOVENO.- Las personas que hayan efectuado depósitos en efectivo, en los procedimientos sobre menores infractores, que hubieren dejado de tener el carácter de caución por haber desaparecido la causa que dio origen a su otorgamiento, y que habiendo sido puestos a disposición de los interesados, no los hubieren retirado en el plazo de seis meses, contarán con un término de noventa días a partir de la abrogación de la Ley de Depósitos Constituidos en Materia de Procedimientos sobre Menores Infractores del Estado de Baja California para solicitar su devolución en los términos de la Ley abrogada.
+
+DÉCIMO.- Antes de la entrada en vigor de la presente Ley, el Congreso del Estado deberá realizar las adecuaciones normativas que regirán los términos y condiciones a los cuales se sujetará la rehabilitación y asistencia social, de las personas menores de doce años de edad a que se refiere el artículo 6 de este ordenamiento.
+
+DÉCIMO PRIMERO.- A la entrada en vigor de la presente Ley, por ningún motivo se afectarán los actuales derechos laborales de los trabajadores adscritos al Consejo de Menores de Estado de Baja California.
