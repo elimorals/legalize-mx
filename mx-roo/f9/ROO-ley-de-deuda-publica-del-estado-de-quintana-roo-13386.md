@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-deuda-publica-del-estado-de-quintana-roo-13386"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-18"
-last_updated: "2004-10-19"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 18 de diciembre de 1998.
 
@@ -65,47 +65,115 @@ II. Entidades de la administración pública paraestatal: Los organismos descent
 
 III. Entidades de la administración pública paramunicipal: Los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales que formen parte de la misma;
 
-IV. Crédito Público: La aptitud jurídica, política, económica y moral de las entidades para, basadas en la confianza de que gozan por su administración patrimonio e historial crediticio, endeudarse, en forma directa o contingente, con el objeto de obtener ingresos destinados a realizar inversiones públicas productivas;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-V. Deuda Pública Directa del Estado: La que contraiga el Estado como responsable directo;
+IV. Legislatura: La Honorable Legislatura del Estado de Quintana Roo;
 
-VI. Deuda Contingente del Estado: La que derive de operaciones de endeudamiento en las cuales el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto de sus organismos descentralizados, empresas de participación estatal mayoritaria, y de los municipios del Estado;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VII. Deuda Pública Directa de los Municipios: La que contraigan los Municipios como responsables directos;
+V. Secretaría: la (sic) Secretaría de Hacienda del Estado de Quintana Roo;
 
-VIII. Deuda Contingente de los Municipios: La que derive de operaciones de endeudamiento en las cuales los Municipios funjan como garantes; avalistas, deudores solidarios; subsidiarios o sustitutos de los organismos descentralizados y empresas de participación mayoritaria municipal;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-IX. Empréstitos: Las operaciones de endeudamiento, directo o contingente, que resulten del crédito público que celebren el Estado o los Municipios;
+VI. Instituto: El Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo;
 
-X. Créditos: Las operaciones de endeudamiento, directo o contingente, que resulten del crédito público que celebren las entidades señaladas en las fracciones III, IV y V del artículo 2 de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XI. Financiamientos: Las operaciones de endeudamiento referidas en las fracciones IX y X anteriores, consideradas desde el punto de vista del ingreso que generan a las entidades, mismas que pueden derivar de:
+VII. Crédito Público: La aptitud jurídica, política, económica y moral de las entidades, basadas en la confianza de que gozan por su administración patrimonio e historial crediticio, endeudarse, en forma directa o contingente, con el objeto de obtener ingresos destinados a realizar inversiones públicas productivas;
 
-A) La suscripción o emisión de valores, títulos de créditos o de cualquier otro documento pagadero a plazos;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-B) La contratación de préstamos con instituciones financieras;
+VIII. Deuda Pública: las (sic) obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento mediante las cuales las entidades reciban un ingreso numerario sobre el crédito público de las entidades. La deuda pública puede agruparse en las siguientes categorías:
 
-C) La (sic) adquisiciones de bienes o contratación de obras, adquisiciones o servicios cuyo pago se pacte a plazos;
+a. Deuda Pública del Estado: la que contraiga el Estado por conducto del Poder Ejecutivo como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades, a través de las siguientes formas;
 
-D) Operaciones de refinanciamiento o reestructuración de empréstitos o créditos;
+b. Deuda Pública Directa del Estado: la que contraiga el Estado como responsable directo, por conducto del Poder Ejecutivo;
 
-E) Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y,
+c. Deuda Contingente del Estado: la que derive de operaciones de endeudamiento en las cuales el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto de sus organismos descentralizados, empresas de participación estatal mayoritaria, y de los municipios del Estado;
 
-F) En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
+d. Deuda Pública Municipal: la que contraigan los municipios, por conducto de sus ayuntamientos, como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
 
-XII. Valores: Son los valores representativos de un empréstito o crédito colectivo, tales como las obligaciones, bonos, certificados y demás títulos de crédito que emitan las entidades señaladas en el artículo 2 de esta Ley, en serie o en masa, en los términos de las Leyes que los rijan, destinados a circular en el mercado de valores, incluyendo los que se emitan de manera indirecta, mediante fideicomisos a través de instituciones fiduciarias y al amparo, en su caso, de un acta de emisión, cuando por disposición de la Ley o de la naturaleza de los títulos correspondientes así se requiera;
+e. Deuda Pública Directa de los Municipios: la que contraigan los municipios como responsables directos;
 
-XIII. Servicio de la Deuda Pública: Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate;
+f. Deuda Contingente de los Municipios: la que derive de operaciones de endeudamiento en las cuales los municipios funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
 
-XIV. Inversiones Públicas Productivas: Las destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos o al mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer, siempre que en forma directa o indirecta, inmediata o mediata, generen un incremento en los ingresos de las entidades. Asimismo, se consideran inversiones públicas productivas para efectos de esta Ley, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales o calamidades declaradas por el Titular del Poder Ejecutivo Estatal;
+g. Deuda Pública de las Entidades de la Administración Pública Paraestatal: la que contraigan las entidades de la administración pública paraestatal como responsables directas;
 
-XV. Montos y Conceptos de Endeudamiento Autorizado: Son los montos y conceptos derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y las Leyes de Ingresos de los Municipios, según corresponda;
+h. Deuda Pública de las Entidades de la Administración Pública Paramunicipal: la que contraigan las entidades de la administración pública paramunicipal como responsables directas;
 
-XVI. Operaciones de Refinanciamiento: Son los empréstitos o créditos que se celebren por las entidades a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
+i. Deuda del Instituto: es la deuda que se contrae por éste en los mercados financieros;
 
-XVII. Operaciones de Reestructuración: Son los empréstitos o créditos que celebren las entidades a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XVIII. Órganos de Gobierno: Los consejos, juntas directivas o equivalentes de las entidades de la administración pública paraestatal y paramunicipal.
+IX. Empréstitos: las (sic) operaciones de endeudamiento directo o contingente que resulten del crédito público que celebren el Estado o los municipios;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+X. Créditos: las (sic) operaciones de endeudamiento, directo o contingente, que resulten del crédito público que celebren el Estado o los Municipios;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XI. Financiamientos: Las operaciones de endeudamiento referidas en las fracciones IX y XI anteriores, consideradas desde el punto de vista del ingreso que generan las entidades, mismas que pueden derivar de:
+
+a. La suscripción o emisión de valores, títulos de créditos o de cualquier otro documento pagadero a plazos;
+
+b. La contratación de préstamos con instituciones financieras;
+
+c. Las adquisiciones de bienes o contratación de obras, adquisiciones o servicios cuyo pago se pacte a plazos;
+
+d. Operaciones de refinanciamiento o reestructuración de empréstitos o créditos;
+
+e. Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y,
+
+f. En general, de operaciones financieras, bajo cualquier modalidad que comprendan obligaciones a plazo, así como de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades.
+
+(REFORMADA, P.O. 27 DE OCTUBRE DE 2006) (F. DE E., P.O. 15 DE NOVIEMBRE DE 2006)
+
+XII. Valores: Son los valores representativos de un empréstito o crédito colectivo, tales como las obligaciones, bono, certificados y demás títulos de crédito que emitan las entidades señaladas en el artículo 2 de esta Ley, en serie o en masa, en los términos de las Leyes que rijan, destinados a circular en el mercado de valores, incluyendo los que se emitan de manera indirecta, mediante fideicomisos a través de instituciones fiduciarias y al amparo, en su caso, de una acta de emisión, cuando por disposición de la Ley o de la naturaleza de los títulos correspondientes así se requiera;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIII. Servicio de la Deuda Pública: son (sic) los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico (sic) o financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIV. Inversiones Públicas Productivas: las (sic) destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos; a las operaciones de refinanciamiento y reestructuración de la deuda pública que tengan como objeto el mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que pretenda contraer, siempre que en forma directa o indirecta, inmediata o mediata, generen economías o ahorros en los ingresos de las entidades; Asimismo (sic), se consideran inversiones públicas productivas para efectos de esta Ley, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales o calamidades declaradas por el Titular del Poder Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XV. Montos y Conceptos de Endeudamiento Autorizado: son (sic) los derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las leyes de ingresos de los municipios, según corresponda;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XVI. Operaciones de Refinanciamiento: son (sic) los empréstitos o créditos que se celebren por las entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XVII. Operaciones de Reestructuración: son (sic) los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XVIII. Operaciones financieras de cobertura: las (sic) operaciones financieras que tienden a evitar o reducir riesgos económico (sic) o financieros derivados de créditos o empréstitos obtenidos por las Entidades con base en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XIX. Órganos de Gobierno: los (sic) consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XX. Proyectos Públicos Privados: Son todos aquellos programas que se desarrollen con financiamiento público y capital privado cuyo objeto es generar proyectos de inversión pública productiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XXI. Proyecto de Prestación de Servicios: las (sic) obligaciones multianuales, directas o contingentes, que resulten del establecimiento de contratos de prestación de servicios pagados con gasto corriente y que no constituyen deuda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XXII. Registro: el (sic) Registro de Obligaciones y Empréstitos del Estado de Quintana Roo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+XXIII. Superávit primario: El excedente entre los ingresos totales y las sumas de las erogaciones, excluyendo el servicio de la deuda.
 
 ###### ARTICULO 4º.
 
@@ -119,23 +187,27 @@ Los recursos obtenidos por las entidades mediante operaciones de deuda pública 
 
 Los actos realizados en contravención a las disposiciones previstas en la presente Ley serán nulos de pleno derecho. Lo anterior, sin perjuicio de las responsabilidades en que incurran quienes los lleven a cabo.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 5º.
 
-Las entidades podrán contratar operaciones de deuda pública por los conceptos y hasta por los montos que anualmente establezca la Legislatura del Estado como límite máximo. Estos montos se establecerán conforme a lo siguiente:
+Las Entidades Públicas previa autorización de la Legislatura, podrán contratar deuda directa o contingente en los términos de esta Ley.
 
-I.- Se observará que las erogaciones necesarias para efectuar los pagos de intereses y amortizaciones de capital no excedan en balance primario anual, la capacidad de pago para afrontar estas obligaciones;
+La Legislatura podrá autorizar a Las Entidades Públicas para contratar deuda directa o contingente con montos y en los plazos que ésta estime, cuando tengan capacidad financiera para solventarlo y considerando la naturaleza, objeto y destino del empréstito.
 
-Se entiende como balance primario, la diferencia entre los ingresos totales menos los gastos de operación, incluyendo el gasto corriente, el de inversión y las transferencias;
+Las entidades públicas deberán demostrar un superávit primario en sus finanzas y presentarlo de conformidad a las disposiciones normativas de la Ley de la materia y las que emitan para tal efecto. La Secretaría que permitan (sic) garantizar el cumplimiento de sus obligaciones de manera total y prever el monto económico específico en el presupuesto de egresos de cada año durante la vigencia del financiamiento.
 
-II.- La Legislatura del Estado podrá autorizar a las entidades para contraer deuda pública en montos superiores a lo señalado anteriormente, cuando tengan capacidad financiera para solventar, considerando la naturaleza, características y destino del crédito.
+Todas las entidades públicas que soliciten autorización a la Legislatura para la contratación de deuda, deberán acompañar dicha solicitud de los elementos que la sustenten.
 
 ###### ARTICULO 6º.
 
 No requieren autorización de la Legislatura las obligaciones directas, cuyo plazo de vencimiento no rebase los sesenta días naturales, que se contraigan para solventar necesidades urgentes. Estas operaciones estarán sujetas a los requisitos de información y registro a que se refiere la Ley.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 7º.
 
-La Secretaría de Hacienda del Estado es la dependencia del Ejecutivo facultada para aplicar e interpretar para efectos administrativos la presente ley y para regular su debido cumplimiento. En el ámbito municipal, esta atribución corresponderá a la Tesorería.
+La Secretaría es la dependencia del Ejecutivo facultada para aplicar e interpretar para efectos administrativos la presente ley y para regular su debido cumplimiento.
 
 ###### ARTICULO 8º.
 
@@ -143,9 +215,11 @@ En los casos no previstos en esta Ley, se aplicarán supletoriamente las disposi
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES EN MATERIA DE CREDITO PUBLICO
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 9º.
 
-Son autoridades en materia de deuda pública, dentro de sus respectivas competencias, la Legislatura del Estado, el Ejecutivo del Estado, la Secretaría de Hacienda del Estado, los ayuntamientos, los presidentes municipales, los tesoreros municipales, los titulares de las entidades a que se refiere el Artículo 2º fracciones III y IV, y los comités técnicos de financiamiento creados conforme a los artículos 15, 16 y 17 de esta Ley.
+Son autoridades en materia de deuda pública, dentro de sus respectivas competencias, la Legislatura, el Ejecutivo del Estado, La (sic) Secretaría, los ayuntamientos, los presidentes municipales, los tesoreros municipales, los titulares de las entidades a que se refiere el Artículo 2º fracciones III y IV, los comités técnicos de financiamiento creados conforme al Artículo 17 de esta Ley y El Instituto.
 
 ###### ARTICULO 10.
 
@@ -339,6 +413,60 @@ X.- Las demás que, en materia de deuda pública, le confiera la Constitución P
 
 XI.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2004)
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 12 BIS.- El Instituto es la primera instancia para que el Estado, organismos descentralizados estatales, Empresas de participación mayoritaria Estatal y los fideicomisos en que el fideicomitente sea alguna de las entidades antes señaladas, puedan contratar deuda.
+
+Estas entidades podrán contratar deuda de manera independiente al Instituto, cuando acrediten ante la legislatura, contar con una opción menos onerosa de la que le propone el Instituto o que éste haya expresado su opinión en el sentido de que financieramente la entidad no garantiza plenamente las condiciones de cumplimiento oportuno y total del financiamiento solicitado.
+
+Tratándose de los Municipios, organismos descentralizados municipales, empresas de participación mayoritaria municipal y los fideicomisos en que el fideicomitente sea alguna de las entidades municipales señaladas en el presente párrafo, podrán, después de haber escuchado la opinión del Instituto, contratar deuda o financiamiento con otra Institución, diferente al Instituto, obteniendo la autorización de la Legislatura.
+
+Para tal efecto, la Legislatura podrá escuchar la opinión del Instituto.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 12 TER.- Al Instituto en materia de deuda le compete a través de su Director General:
+
+I. Presentar y gestionar, en coordinación con la Secretaría, ante la Legislatura las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley y las demás aplicables en materia de Deuda;
+
+II. Contratar los empréstitos que le hayan sido autorizados por la Legislatura;
+
+III. Negociar, celebrar, emitir y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito, valores y demás instrumentos legales necesarios, directa o indirectamente, para la obtención en los mercados financieros de los financiamientos y el otorgamiento de crédito a las entidades a que se refiere el Articulo 2º de esta Ley, así como el manejo, operación y gestión de los mismos, que hayan sido autorizados conforme a lo previsto en la ley antes señalada en esta fracción y de conformidad con la legislación aplicable;
+
+IV. Dar cumplimiento a todas las obligaciones derivadas de las contrataciones u operaciones en las que intervenga;
+
+V. Emitir o suscribir, previa autorización de la Legislatura, valores y colocarlos a través de intermediarios financieros para que los coloquen entre el público inversionista, en los términos de esta Ley y de la legislación aplicable en la materia;
+
+VI. Celebrar, según corresponda de acuerdo a lo previsto en esta Ley, los actos jurídicos necesarios para el refinanciamiento y reestructuración de la deuda pública a cargo de las entidades a las que se refiere el Artículo 2º de la citada Ley en esta fracción;
+
+VII. Constituirse, previa autorización de la Legislatura y sujeto a lo establecido en la Ley de Deuda Pública del Estado de Quintana Roo, en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en el Artículo 2º de la citada Ley en esta fracción;
+
+VIII. Previa autorización de la Legislatura y de conformidad con los instrumentos jurídicos igualmente autorizados y aprobados, recibir los flujos de efectivo derivados de las afectaciones que las entidades públicas realicen a sus ingresos para establecer como fuente o garantía de pago, o ambas, los derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de las entidades señaladas en el Artículo 2º de esta Ley, que hayan celebrado contrato con el Instituto para acceder a financiamiento y en cumplimiento de las disposiciones legales aplicables a la materia;
+
+IX. Previa autorización de la Legislatura y de conformidad con los instrumentos jurídicos igualmente autorizados y aprobados, constituir como fuente o garantía de pago, o ambas, los flujos de efectivo que reciba de las entidades incluyendo los derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de las entidades señaladas en el Artículo 2º de esta Ley, destinados al cumplimiento de las obligaciones financieras que haya contratado el Instituto en los mercados financieros;
+
+X. Negociar, previa autorización de la Legislatura, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebren las entidades con el Instituto y a su vez los celebrados por el Instituto en los mercados financieros;
+
+XI. Recibir, previa instrucción irrevocable o no, de las entidades que señala el Artículo 2º de esta Ley, pagos por cuenta de los mismos, con cargo a las participaciones federales, en su caso, que les correspondan, así como a sus ingresos propios;
+
+XII. Solicitar a las entidades la documentación e información complementaria que requiera, para el análisis de las solicitudes de autorización de endeudamiento y para el cumplimiento de las obligaciones que contraiga;
+
+XIII. Celebrar, de acuerdo a lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos por el Instituto en su carácter de emisor o deudor con base en la Ley antes referida;
+
+XIV. Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley, a proyectos de inversión pública productiva de acuerdo con lo autorizado por la Legislatura;
+
+XV. Realizar oportunamente los pagos de capital, intereses y accesorios de la deuda del Instituto;
+
+XVI. Proporcionar a la Legislatura la información que esta le requiera de acuerdo con esta Ley, en relación con las operaciones de deuda pública que el Instituto celebre;
+
+XVII. Inscribir los financiamientos que celebre en el Registro de Obligaciones y Empréstitos del Estado de Quintana Roo, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
+
+XVIII. Promover la inscripción de los financiamientos que contraten las entidades con el propio instituto, cuando los mismos se contraigan con afectación de las participaciones federales que correspondan en su caso a las entidades, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar sobre la situación que guarden dichas obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+
+XIX. Asesorar a las entidades señaladas en el Artículo 2º de esta Ley, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública; y
+
+XX. Las demás que le confiera esta Ley y otras disposiciones legales aplicables.
+
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 13.
@@ -403,31 +531,13 @@ En el caso de que los actos de los Ayuntamientos a que se refieren las fraccione
 
 Las atribuciones a que se refiere el Artículo 13 de esta ley, serán ejercidas en lo conducente, en el ámbito de su respectiva competencia, por el Presidente Municipal, y demás titulares de las dependencias administrativas del Ayuntamiento, en los términos que dispongan las leyes y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
-
 ###### ARTICULO 15.
 
-Se crea un Comité Técnico de Financiamiento Estatal, que será un órgano auxiliar de consulta del Titular del Poder Ejecutivo del Estado en materia de Deuda Pública. Este Comité estará integrado por los titulares de la Secretaría de Hacienda del Estado, la Secretaría de Planeación y Desarrollo Regional, la Secretaría de Desarrollo Económico, la Secretaría de la Contraloría y por el titular de la entidad a la cual esté destinado el financiamiento directo o contingente. El Comité Técnico de Financiamiento será presidido por el titular de la Secretaría de Hacienda del Estado y contará con un Secretario Técnico que será designado por el Presidente del Comité.
+(DEROGADO, P.O. 27 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 16.
 
-El Comité Técnico de Financiamiento Estatal tendrá las siguientes funciones:
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2004)</small>
-
-I.- Conocer y evaluar las necesidades y capacidad de endeudamiento del Estado;
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2004)</small>
-
-II.- Evaluar y opinar sobre los programas crediticios que presenten las entidades de la administración pública paraestatal;
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2004)</small>
-
-III.- Evaluar y opinar sobre el otorgamiento, en cualquier forma, de la garantía del Estado, ya sea como garante, aval, deudor solidario, subsidiario o sustituto en operaciones de deuda pública en las que tengan carácter de deudores directos las entidades señaladas en el artículo 2 de esta Ley, y, proponer, en su caso, los requisitos que deberán observarse en cada caso;
-
-IV.- Comunicar por escrito, dentro de los siguientes quince días hábiles a la fecha de la presentación de la solicitud, su dictamen a las entidades públicas solicitantes;
-
-V.- Las demás que en materia de deuda pública le confieran las leyes y demás ordenamientos jurídicos.
+(DEROGADO, P.O. 27 DE OCTUBRE DE 2006)
 
 ###### ARTICULO 17.
 
@@ -435,15 +545,131 @@ Los ayuntamientos establecerán comités técnicos de financiamiento municipales
 
 ### CAPITULO TERCERO. DE LA CONTRATACION DE EMPRESTITOS, CREDITOS Y FINANCIAMIENTOS
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 18.
 
-La contratación de empréstitos o créditos a cargo de las entidades, deberá ser previamente autorizada por la Legislatura del Estado.
+La contratación de empréstitos o créditos a cargo de las entidades, deberá ser previamente autorizada por la Legislatura.
 
-Con la antelación a su autorización por la Legislatura del Estado, la celebración de empréstitos a cargo de los Municipios deberá ser autorizada por sus respectivos Ayuntamientos; la celebración de créditos a cargo de entidades de la administración pública paraestatal deberá ser autorizada por sus Órganos de Gobierno y por la Secretaría de Hacienda del Estado; y, la celebración de créditos a cargo de entidades de la administración pública paramunicipal, deberá ser autorizada por sus Órganos de Gobierno y por el Ayuntamiento correspondiente.
+Con antelación a su autorización por la Legislatura, la celebración de empréstitos a cargo de los Municipios deberá ser autorizada por sus respectivos Ayuntamientos; la celebración de créditos a cargo de Entidades de la Administración Pública Paraestatal deberá ser autorizada por sus Órganos de Gobierno y por la Secretaría con excepción del Instituto; y, la celebración de créditos a cargo de Entidades de la Administración Pública Paramunicipal, deberá ser autorizada por sus Órganos de Gobierno y por el Ayuntamiento correspondiente.
 
-El Gobierno del Estado sólo podrá contratar empréstitos a través de la Secretaría de Hacienda del Estado.
+El Gobierno del Estado podrá contratar empréstitos a través de la Secretaría o con el Instituto.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 18 BIS.- El procedimiento para que las entidades públicas accedan a financiamiento con la participación del Instituto será conforme a los siguientes pasos:
+
+I. Elaboración y publicación de convocatorias para acceder a financiamiento. El Instituto publicará una convocatoria al menos una vez por año, o en su caso, también podrá circular invitaciones a las entidades, en ambos casos indicando las fechas en las que éste accederá a financiamiento de los mercados financieros mexicanos, con la intención de que las entidades públicas interesadas en acceder a financiamiento, puedan inscribirse y participar en las operaciones de financiamiento en las fechas convocadas o en aquellas señaladas en las invitaciones respectivas.
+
+II. Inscripción de las entidades publicas para participar en las operaciones de financiamiento. Las entidades públicas interesadas se inscribirán ante el Instituto conforme a las instrucciones publicadas en la convocatoria, o en su caso, conforme a las invitaciones respectivas, y entregando la documentación indicada, que al menos incluirá lo siguiente:
+
+a. La fecha de la operación de financiamiento en la que la entidad pública desea participar;
+
+b. El monto del financiamiento requerido;
+
+c. El plazo estimado;
+
+d. Los flujos de efectivo que dedicará al pago de las obligaciones;
+
+e. Las preferencias en la forma de pago incluyendo años de gracia en el pago de capital;
+
+f. El destino de los recursos; y
+
+g. Cualquier otra indicación o interés de la entidad publica en cuanto al financiamiento requerido.
+
+El Instituto deberá acogerse a las instrucciones y requerimientos que formalicen las entidades públicas en los términos de los incisos de ésta fracción; sin embargo estas especificaciones podrán variar una vez que el Instituto haya armado la operación de financiamiento, individual o colectivo, conforme a las condiciones vigentes en los mercados de capital, procurando obtener los mejores términos y condiciones posibles.
+
+III. Gestión para la obtención de acuerdo de órganos competentes de gobierno. El Instituto asistirá en gestión a cada entidad pública para obtener los acuerdos de sus órganos de gobierno para que puedan acceder a financiamiento. Para ese efecto, el Instituto asistirá a la entidad pública a elaborar la documentación jurídica y financiera que sea necesaria. Los acuerdos aprobatorios que se deberán obtener son, en al menos, las siguientes vertientes:
+
+a. Acuerdo para acceder a financiamiento en los montos, plazos, términos y condiciones previstos.
+
+b. Acuerdo para comprometer de manera irrevocable, durante la vigencia del financiamiento, los flujos de efectivo necesarios, incluyendo la afectación de las participaciones federales que le correspondan e ingresos propios, así como otros flujos cuya normatividad lo permita, para el pago y/o garantía de las obligaciones crediticias y la conformación de fondos de reserva.
+
+Los acuerdos se obtendrán de tal manera que el Instituto pueda fungir como acreedor ante las entidades públicas.
+
+En caso de que alguna entidad pública no pueda obtener los acuerdos aprobatorios necesarios, el Instituto no podrá continuar con el trámite de integración de la misma en la operación de financiamiento programada.
+
+IV. Gestión para la obtención de autorizaciones de la Legislatura Estatal. El Instituto elaborará la documentación jurídica, financiera y de cualquier otra índole en conformidad con el Artículo 21 de esta Ley, necesaria para gestionar ante la Legislatura, las siguientes autorizaciones en su caso:
+
+a. Para que las entidades públicas puedan acceder al financiamiento en los montos, plazos y términos autorizados por sus respectivos órganos de gobierno conforme a la fracción III de este Artículo y a lo dispuesto en el Artículo 6 de esta Ley.
+
+b. En el caso del propio Instituto, gestionará la autorización de endeudamiento para sí, por el monto total autorizado a que se refiere el inciso a) de esta fracción, así como por el monto que el propio Instituto pueda requerir para realizar sus propias funciones.
+
+c. Para comprometer de manera irrevocable, durante la vigencia del financiamiento, los flujos de efectivo necesarios, incluyendo la afectación de las participaciones que le correspondan e ingresos propios, así como otros flujos cuya normatividad lo permita, para el pago y/o garantía de las obligaciones crediticias y la conformación de fondos de reserva.
+
+Las autorizaciones se obtendrán de tal manera que el Instituto pueda fungir como: Acreedor de las propias entidades públicas y como Deudor ante los participantes en los mercados de capital conforme al Artículo 24 de esta Ley.
+
+En caso de que la Legislatura no autorice a alguna entidad pública a acceder al financiamiento en los montos, plazos y condiciones solicitadas, el Instituto asistirá a la entidad a revisar y adecuar su solicitud a los requerimientos formulados por la Legislatura, observado siempre los plazos de la convocatoria a la que se refiere la fracción I de este Artículo. De continuar la imposibilidad, el Instituto no podrá dar seguimiento al trámite de integrar a esa entidad pública en la operación de financiamiento programada.
+
+V. Elaboración, gestión e integración de documentos Jurídicos o financieros y de cualquier otra índole. El Instituto deberá solicitar e integrar, así como elaborar y gestionar la obtención de la información y documentación necesarias para las operaciones de financiamiento, la cual podrá incluir:
+
+a. Solicitudes y autorizaciones de deuda;
+
+b. Constitución y autorización de avales cuando se requieran en los términos de esta Ley;
+
+c. Escenarios de deuda y tablas de amortización;
+
+d. Estados Financieros;
+
+e. Otros dictámenes y certificaciones;
+
+f. Mandatos e Instrucciones;
+
+g. Cálculos de superávit primario;
+
+h. Prospectos de colocación;
+
+i. Reportes e informes;
+
+j. Calificaciones de Crédito; y
+
+k. Cualquier otra que sea necesaria.
+
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
+VI. Suscripción de documentos para la intercepción de flujos de efectivo de las entidades públicas y constitución de Fondos de reserva. El Instituto suscribirá con las entidades públicas, los instrumentos jurídicos y financieros que le faculten, de manera irrevocable durante la vigencia del financiamiento, para recibir pagos calendarizados en su carácter de acreedor, a través de la intercepción de flujos de efectivo previo a que ingresen a las cuentas bancarias y/o tesorerías de las entidades públicas, con lo cual, dichos flujos de efectivo, pasarán a formar parte del patrimonio del Instituto y perderán su condición o naturaleza de origen. El Instituto, por su parte, acordará el compromiso de la entrega del financiamiento a las entidades públicas, una vez que este haya sido obtenido y se encuentre disponible en sus cuentas bancarias, lo cual podrá efectuarse en cualquiera de las siguientes modalidades:
+
+a. Transferencia de los Fondos a los municipios que así lo deseen y lo manifiesten expresamente por escrito al suscribir el acuerdo correspondiente;
+
+b. Transferencia en su caso de los recursos obtenidos por financiamiento, a los fondos que alude el Artículo 43 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Quintana Roo, con excepción de los montos correspondientes a los municipios que hayan optado por el inciso a) de esta Fracción, para ministrarlo a las entidades públicas, conforme al avance de los proyectos de inversión publica productiva;
+
+Los documentos a que se refiere esta fracción, podrán consistir entre otros que se consideren necesarios, en:
+
+1. Registros ante autoridades e instituciones competentes;
+
+2. Contratos, acuerdos, convenios, mandatos e instrucciones con carácter irrevocable o no;
+
+3. Títulos de Crédito y/o bonos;
+
+4. Certificados de participación inmobiliaria;
+
+5. Contratos bancarios o con instituciones financieras;
+
+6. Convocatorias y contratos con proveedores de servicio;
+
+7. Contratos de Fideicomisos; y
+
+8. Cualquier otra que sea necesaria.
+
+VII. Suscripción de documentos para acceder a financiamiento de los mercados financieros y comprometer el pago de obligaciones correspondiente. El Instituto deberá suscribir los instrumentos jurídicos y financieros necesarios para obtener financiamiento de los mercados financieros mexicanos conforme a lo estipulado en esta Ley, y comprometer los flujos de efectivo que forman parte de su patrimonio, para el pago de obligaciones correspondientes. De igual forma, establecerá los fondos de reserva necesarios para garantizar posibles contingencias y obtener mejores calificaciones crediticias.
+
+Los documentos a que se refiere esta fracción, podrán consistir entre otros que se consideren necesarios, en:
+
+1. Registros ante autoridades e instituciones competentes;
+
+2. Contratos, acuerdos, convenios, mandatos e instrucciones con carácter de irrevocables o no;
+
+3. Títulos de Crédito y/o bonos;
+
+4. Certificados de participación inmobiliaria;
+
+5. Contratos bancarios o con instituciones financieras;
+
+6. Contratos de Fideicomisos;
+
+7. Convocatorias y contratos con proveedores de servicio; y
+
+8. Cualquier otra que sea necesaria.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
 
@@ -467,33 +693,35 @@ La contratación de empréstitos, créditos y financiamientos se sujetará a los
 
 En cumplimiento a lo previsto por la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, las entidades sólo podrán emitir valores y otros títulos de crédito pagaderos en moneda nacional y dentro del territorio de la República. En los títulos respectivos y, en su caso, en el acta de emisión, deberán citarse los datos fundamentales de su autorización, así como la prohibición de su venta o cesión a extranjeros, sean éstos gobiernos, entidades gubernamentales, organismos internacionales, personas físicas o morales. Los títulos no tendrán validez si no consignan dichos datos. Lo dispuesto en este artículo será aplicable a los demás títulos de crédito que suscriban, avalen o, en cualquier forma garanticen las entidades.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 22.
 
-Cuando las entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley requieran que el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto en un financiamiento, la contratación del mismo se realizará con la autorización e intervención de la Secretaría de Hacienda del Estado. En el caso de que el Estado otorgue el empréstito, crédito o financiamiento, la contratación se efectuará a través de la Secretaría de Hacienda del Estado.
+Cuando las entidades señaladas en las fracciones II, III, IV y V del Artículo 2º de esta Ley requieran que el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto en un financiamiento, la contratación del mismo se realizará con la autorización e intervención de la Secretaría, con excepción de (sic) Instituto. En el caso de que el Estado otorgue el empréstito, crédito o financiamiento, la contratación se efectuará a través de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 23.
 
-Cuando las entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley requieran que el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto en un financiamiento, deberán formular solicitud a la Secretaría de Hacienda, acompañando la información que ésta determine; presentando además en la forma que lo requiera, la información que le permita determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos del crédito o empréstito.
+Cuando las entidades señaladas en las fracciones II, III, IV y V del Artículo 2º de esta Ley requieran que el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto en un financiamiento, deberán formular solicitud a la Secretaría, acompañando la información que ésta determine; que le permita conocer su capacidad de pago y la necesidad debidamente razonable del tipo de gasto que se pretende financiar con los recursos del crédito o empréstito. Con excepción del Instituto.
 
-La Secretaría de Hacienda del Estado comunicará oficialmente su resolución a las entidades solicitantes, precisando en cada caso, las características y condiciones en que los empréstitos, créditos y financiamientos puedan ser contratados. En el instrumento o título que se documenten las obligaciones de la entidad acreditada, se insertarán los datos de la autorización relativa.
+La Secretaría comunicará oficialmente su resolución a las entidades solicitantes, precisando en cada caso, las características y condiciones en que los empréstitos, créditos y financiamientos puedan ser contratados. En el instrumento o título que se documenten las obligaciones de la entidad acreditada, se insertarán los datos de la autorización relativa.
 
 Los proyectos financiados a través de créditos deberán ser autofinanciables o acordes con la capacidad de pago de las entidades contratantes.
 
-Sólo por causas extraordinarias que afecten el equilibrio financiero del Municipio, el Ejecutivo del Estado y el Presidente Municipal podrán convenir sobre la subrogación del Estado en los derechos del acreedor o sobre las obligaciones del deudor, y pagar la deuda municipal, previa autorización de la Legislatura del Estado.
+Sólo por causas extraordinarias que afecten el equilibrio financiero del Municipio, el Ejecutivo del Estado y el Presidente Municipal podrán convenir sobre la subrogación del Estado en los derechos del acreedor o sobre las obligaciones del deudor, y pagar la deuda municipal, previa autorización de la Legislatura del Estado y cumpliendo con lo establecido en esta Ley.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 19 DE OCTUBRE DE 2004)</small>
+Los organismos descentralizados y empresas de participación mayoritaria estatales y municipales podrán contratar empréstitos, créditos y financiamientos, previo acuerdo del órgano de gobierno correspondiente, dentro de los montos y por los conceptos aprobados multi-anualmente por la Legislatura y cumpliendo con lo establecido en esta Ley.
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 19 DE OCTUBRE DE 2004)</small>
+En la contratación de los créditos, el Ejecutivo del Estado o los Ayuntamientos podrán afectar como garantía de las obligaciones contraídas, sus participaciones en ingresos federales, previa autorización de la Legislatura.
 
-> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 19 DE OCTUBRE DE 2004)</small>
+Los créditos que contraten las entidades señaladas en el Artículo 2° de esta ley y las garantías que otorguen, deberán estar inscritos en el Registro Único de Obligaciones y Empréstitos del Estado.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2004)</small>
+Las entidades de la administración pública paraestatal y paramunicipal podrán contratar créditos y financiamientos, previo Acuerdo del Órgano de Gobierno correspondiente, dentro de los montos y conceptos de endeudamiento autorizados por la Legislatura del Estado en términos de lo previsto por esta Ley.
 
-Las entidades de la administración pública paraestatal y paramunicipal podrán contratar créditos y financiamientos, previo acuerdo del Órgano de Gobierno correspondiente, dentro de los montos y conceptos de endeudamiento autorizados por la Legislatura del Estado en términos de lo previsto por esta Ley.
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 23 BIS.- Las entidades a las que se refiere el Artículo 2º de esta Ley deberán cubrir sus obligaciones crediticias de manera oportuna durante la vigencia de los financiamientos a sus acreedores, por lo que deberán realizar las acciones de índole operativa y los actos jurídicos necesarios para dar cumplimiento a estas obligaciones crediticias, de no hacerlo así serán sujetos a la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ### CAPITULO CUARTO
 
@@ -577,11 +805,11 @@ Los Municipios podrán constituirse en garantes, avalistas, obligados solidarios
 
 El Estado y los Municipio podrán, con la autorización previa de la Legislatura del Estado, emitida mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente o de aquellos en los que funjan como garantes, los bienes del dominio privado propiedad de los mismos o sus ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable, asimismo, el Estado y los Municipios podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Las entidades de la administración pública paraestatal podrán, con la autorización previa de sus Órganos de Gobierno, de la Secretaría y de la Legislatura del Estado, emitida por este último mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paraestatal podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
+Las entidades de la administración pública paraestatal podrán, con la autorización previa de sus Órganos de Gobierno, de la Secretaría en este caso exceptuando al Instituto y de la Legislatura del Estado, emitida por esta última mediante Ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualquier (sic) otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paraestatal podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2004)</small>
 
@@ -752,3 +980,9 @@ La modificación de los mecanismos legales que, bajo cualquier modalidad o forma
 ###### ARTÍCULO CUARTO.
 
 La autorización de la Legislatura a que hacen mención los párrafos segundo y tercero del Artículo 36 de la Ley de Deuda Pública del Estado de Quintana Roo, reformado mediante este Decreto, no será necesaria para la modificación de instrucciones irrevocables o notificaciones a la Tesorería de la Federación derivadas de mecanismos legales que, bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades, a efecto de garantizar o realizar el pago de financiamientos, con anterioridad a la fecha de entrada en vigor del presente decreto.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
