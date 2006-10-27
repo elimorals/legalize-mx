@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2006-06-16"
+last_updated: "2006-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -41,9 +41,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 1.
 
-Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales y familiares, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
+Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales, familiares y de justicia para adolescentes, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -59,13 +61,19 @@ IV.- Por los Jueces de Primera Instancia del Ramo Penal.
 
 V.- Por los Jueces de Primera Instancia de Jurisdicción Mixta.
 
-VI.- Por los Jueces de Paz.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VII.- Por los Jurados Populares.
+VI.- Por los Jueces de Primera Instancia Especializados para Adolescentes.
 
-VIII.- Por el Consejo de la Judicatura del Estado de Baja California.
+VII.- Por los Jueces de Paz.
 
-IX.- Por los demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta ley, los Códigos de Procedimientos y Leyes correspondientes.
+VIII.- Por los Jurados Populares.
+
+IX.- Por el Consejo de la Judicatura del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+X. Por los demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta Ley, los Códigos de Procedimientos y Leyes correspondientes.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -89,9 +97,13 @@ III.- Los Juzgados de primera Instancia en Materia Familiar;
 
 IV.- Los Juzgados de Primera Instancia del Ramo Penal;
 
-V.- Los Juzgados de Paz, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VI.- El Tribunal de Justicia Electoral.
+V.- Los Juzgados de Primera Instancia Especializados para Adolescentes;
+
+VI.- Los Juzgados de Paz, y
+
+VII.- El Tribunal de Justicia Electoral.
 
 Los órganos del Poder Judicial del Estado, funcionarán de modo permanente e ininterrumpido durante cada año de actividades. El Consejo de la Judicatura dictará las medidas correspondientes para la organización permanente de las actividades de los juzgados de conformidad con el Título Decimoprimero de esta Ley.
 
@@ -227,13 +239,19 @@ No podrá recaer ningún nombramiento de la Administración de Justicia en indiv
 
 El Tribunal Superior de Justicia, estará integrado por trece magistrados propietarios y seis suplentes como mínimo y funcionará en Pleno o en Salas en forma permanente en los términos de su calendario anual de actividades colegiadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+Además contará con una Sala Unitaria Especializada para Adolescentes.
+
 ###### ARTICULO 22.
 
 Uno de los Magistrados Propietarios será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo de la Judicatura del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 23.
 
-Para ser designado Magistrado, se requiere:
+Para ser designado Magistrado del Poder Judicial, se requiere:
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -258,6 +276,10 @@ VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
 VII.- No haber ocupado el cargo de Gobernador del Estado, Titular de una Secretaría, o Procurador de Justicia, durante el año previo al día de la designación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+Tratándose del Magistrado Especializado para Adolescentes, de conformidad con el artículo 60 fracción IV, de la Constitución Política del Estado, deberá contar con experiencia profesional o capacitación especializada demostrable, en dicha materia.
 
 ###### ARTICULO 24.
 
@@ -489,17 +511,21 @@ XII.- Convocar a sesión extraordinaria del Pleno a solicitud de Consejo de la J
 
 ### CAPITULO V. DE LAS SALAS DE TRIBUNAL
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 45.
 
-Habrá cuando menos cuatro Salas del Tribunal Superior de Justicia del Estado, integradas cada una por tres magistrados y designadas por número ordinario.
+Las Salas del Tribunal Superior de Justicia del Estado podrán ser Colegiadas o Unitarias; las primeras integradas por lo menos con tres Magistrados y las segundas integradas por un Magistrado, designadas por número ordinario.
 
 ###### ARTICULO 46.
 
 Los magistrados del Tribunal desempeñarán por turno semanario, el cargo de Semanero de acuerdo con las leyes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 47.
 
-Las resoluciones de la Sala se tomarán por unanimidad o mayoría de votos de los Magistrados que la integran, quienes no podrán abstenerse de votar sino, cuando tengan impedimento legal; si no hubiese mayoría en la votación de algún asunto, se entenderá desechado el proyecto, debiendo pasarse el asunto a otro Magistrado de la Sala para que presente nuevo proyecto de resolución en un término que no excederá de 30 días. Si a pesar de lo previsto en el párrafo anterior, no hubiese mayoría en la votación se pasará el asunto a la Sala que corresponda según la materia para que resuelva.
+Las resoluciones de las Salas Colegiadas se tomarán por unanimidad o mayoría de votos de los Magistrados que la integran, quienes no podrán abstenerse de votar sino, cuando tengan impedimento legal; si no hubiese mayoría en la votación de algún asunto, se entenderá desechado el proyecto, debiendo pasarse el asunto a otro Magistrado de la Sala para que presente nuevo proyecto de resolución en un término que no excederá de 30 días. Si a pesar de lo previsto en el párrafo anterior, no hubiese mayoría en la votación se pasará el asunto a la Sala que corresponda según la materia para que resuelva. En las Salas Unitarias, las resoluciones se tomarán por decisión del Magistrado integrante.
 
 ###### ARTICULO 48.
 
@@ -529,9 +555,11 @@ Si no fuere aprobado el proyecto pero el magistrado ponente aceptare las condici
 
 Si el proyecto del Magistrado ponente fue aprobado sin adiciones ni reformas, se tendrá como sentencia definitiva y se firmará dentro de los tres días siguientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 49.
 
-Cuando un magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal.
+Cuando un magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal. En el caso del Magistrado de Sala Unitaria, el Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de votos, designará a uno de los Magistrados integrante de una de las Salas que conozcan de la materia penal, para que lo supla.
 
 Cuando la excusa o impedimento afecte a dos o más de los magistrados de la Sala, conocerá del negocio la Sala que corresponda según la materia.
 
@@ -545,13 +573,21 @@ II.- De las apelaciones y denegadas apelaciones que se interpongan en materia pe
 
 III.- De las revisiones oficiosas en materia civil y de lo familiar que prevengan las leyes.
 
-IV.- De las competencias que se susciten en materia civil o penal entre las autoridades judiciales del Fuero Común.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-V.- De los impedimentos y recusaciones de las autoridades judiciales del Fuero Común del Estado, tanto en materia civil, familiar y del ramo penal.
+IV.- Los recursos que se interpongan en materia de Justicia para Adolescentes, contra los actos o resoluciones emitidos por los Jueces de Primera Instancia Especializados para Adolescentes, de conformidad con la Ley especial en la materia.
 
-VI.- De las contiendas de acumulación que susciten en materia penal, entre las autoridades que expresa la fracción anterior, y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VII.- De los demás asuntos que determinen las leyes.
+V.- De las competencias que se susciten en materia civil, penal o para Adolescentes entre las autoridades judiciales del Fuero Común.
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+VI.- De los impedimentos y recusaciones de las autoridades judiciales del Fuero Común del Estado, tanto en materia civil, familiar, del ramo penal y para Adolescentes.
+
+VII.- De las contiendas de acumulación que susciten en materia penal, entre las autoridades que expresa la fracción anterior, y
+
+VIII.- De los demás asuntos que determinen las leyes.
 
 ###### ARTICULO 51.
 
@@ -577,21 +613,35 @@ II.- Los de Primera Instancia de los (sic) Familiar.
 
 III.- Los de Primera Instancia Penal.
 
-IV.- Los Mixtos de Primera Instancia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-V.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación.
+IV.- Los de Primera Instancia Especializados para Adolescentes.
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+V.- Los mixtos de Primera Instancia, y
+
+VI.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 54.
 
-En el Partido Judicial de Mexicali, habrá cuando menos cuatro Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, cinco Juzgados de Primera Instancia Penal y cuatro Juzgados de Paz, distribuidos de la siguiente manera: Uno Civil y uno Penal en la Ciudad de Mexicali, uno Mixto en Guadalupe Victoria y otro Mixto en San Felipe.
+En el partido Judicial de Mexicali, habrá cuando menos cuatro Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, cinco Juzgados de Primera Instancia Penal y cuatro Juzgados de Paz, distribuidos de la siguiente manera: Uno Civil y uno Penal en la Ciudad de Mexicali, uno Mixto en Guadalupe Victoria y otro Mixto en San Felipe. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 55.
 
-En el Partido Judicial de Tijuana, habrá cuando menos cinco Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, siete Juzgados de Primera Instancia Penal y tres Juzgados de Paz, uno Civil y dos Penales.
+En el Partido Judicial de Tijuana, habrá cuando menos cinco Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, siete Juzgados de Primera Instancia Penal y tres Juzgados de Paz, uno Civil, dos Penales. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes.
+
+Tratándose de Juzgado de Primera Instancia Especializado para adolescentes además de la competencia territorial que le corresponde al Partido Judicial de Tijuana, conocerá de las conductas tipificadas como delito que cometan los adolescentes dentro de la competencia territorial del Partido Judicial de Tecate.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 56.
 
-En el Partido Judicial de Ensenada, habrá cuando menos tres Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia Penal, tres Juzgados de Paz, distribuidos de la siguiente manera: Uno Civil y uno Penal en la Ciudad de Ensenada y un Mixto de Paz en San Quintín.
+En el Partido Judicial de Ensenada, habrá cuando menos tres Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia Penal y tres Juzgados de Paz, distribuidos de la siguiente manera: Uno Civil y uno Penal en el Ciudad de Ensenada y uno Mixto de Paz en San Quintín. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes.
 
 ###### ARTICULO 57.
 
@@ -631,9 +681,11 @@ De toda protesta y aceptación del cargo de los servidores públicos del Poder J
 
 Los nombramientos de jueces serán hechos, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 64.
 
-Para ser Juez de lo Civil, de lo Familiar, de lo Penal, Mixto de Primera Instancia o de Paz, se requiere:
+Para ser Juez de lo Civil, de lo Familiar, de lo Penal, Especializado para Adolescentes, Mixto de Primera Instancia o de Paz, se requiere:
 
 I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
 
@@ -648,6 +700,10 @@ V.- Gozar de buena reputación y no haber sido condenado por un delito intencion
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
 VI.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
+
+Además, en el caso de los Jueces de Primera Instancia Especializados para Adolescentes, es necesario contar con experiencia profesional o capacitación especializada demostrable, en dicha área.
 
 ###### ARTICULO 65.
 
@@ -679,9 +735,11 @@ El incumplimiento de esta disposición ameritará la suspensión temporal o defi
 
 Para el mejor desempeño de sus labores, cada uno de los Juzgados de los diversos Partidos Judiciales en los que se divide el Estado, contarán con un Juez, el número de Secretarios de Acuerdos, Actuarios y el personal que determine el Pleno del Consejo de la Judicatura del Estado de acuerdo con el presupuesto de egresos.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
 ###### ARTICULO 69.
 
-Los jueces de lo Civil, de los (sic) Familiar, de lo Penal, Mixtos de Primera Instancia o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que por ley, sean de su competencia.
+Los jueces de lo Civil, de lo Familiar, de lo Penal, Mixtos de Primera Instancia, Especializados para Adolescentes o de Paz, cuando sean varios en el mismo partido judicial, se identificarán por numeración progresiva y conocerán de los negocios jurídicos que por ley, sean de su competencia.
 
 ###### ARTICULO 70.
 
@@ -933,6 +991,72 @@ I.- En los asuntos civiles, de los juicios contenciosos que versen sobre la prop
 
 II.- En el ramo Penal, de los delitos que tengan como sanción, apercibimiento, caución de no ofender, multa cuyo máximo sea de cuarenta días de salario mínimo, prisión cuyo máximo sea de un año o ambas, de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
 
+> <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+### CAPITULO VII. DE LA ORGANIZACION DE LOS JUZGADOS DE PRIMERA INSTANCIA ESPECIALIZADOS PARA ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 90 Bis.
+
+Los Jueces de Primera Instancia Especializados para Adolescentes, tendrán las siguientes atribuciones y obligaciones:
+
+I. Conocer de las conductas tipificadas como delito por las leyes estatales atribuidas a adolescentes, desahogando los procedimientos respectivos para emitir las resoluciones que procedan;
+
+II. Determinar las medidas de orientación, protección o tratamiento, de conformidad con las reglas establecidas para tales efectos en la Ley de Justicia para Adolescentes del Estado de Baja California, así como vigilar la ejecución de las mismas;
+
+III. Proteger los derechos y garantías del adolescente sometido a procedimiento, así como los de la víctima u ofendido;
+
+IV. Ordenar la detención preventiva, en los casos en que sea legalmente procedente de conformidad con la Ley de la materia;
+
+V. Promover los Medios de Justicia Alternativa señalados en la Ley de la materia, siempre que procedan jurídicamente, y sancionar los convenios entre las partes;
+
+VI. Designar al personal que durante los periodos vacacionales deba quedar de guardia, y
+
+VII. Las demás que le confiera esta Ley, y la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 90
+
+Ter.- Son obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia Especializados para Adolescentes:
+
+I.- Dar cuenta diariamente al Juez y acordar con él, los escritos y promociones de las partes, así como los oficios que se dirijan al Juzgado;
+
+II.- Efectuar las notificaciones a las partes y proporcionar los expedientes a los interesados para cualquier efecto legal, siempre que sean en la oficina;
+
+III.- Autorizar las providencias, celebración de audiencias, despachos de autos y resoluciones que se dicten, expidan o practiquen, escribiendo su nombre completo y firma en los asuntos del Juzgado y expedir las copias autorizadas en virtud de resolución judicial o cuando la Ley lo determine, y
+
+IV.- Las demás que les impongan las leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 90
+
+Quater.- El Primer Secretario de Acuerdos tendrá además, las siguientes atribuciones:
+
+I. Sustituir al Juez en sus faltas temporales que no excedan de dos meses, en los términos que señale esta Ley;
+
+II. Distribuir diariamente entre él y los demás Secretarios, las remisiones que se hagan al Juzgado;
+
+III. Llevar los libros del Juzgado, pudiendo ser con intervención de alguno de los miembros de la oficina, y
+
+IV. Dirigir las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del Juez, dando cuenta de las faltas que se cometan para que el Juez obre de acuerdo a sus facultades.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTICULO 90
+
+Quinquies.- El Actuario tendrá las siguientes obligaciones:
+
+I. Recibir de los Secretarios de Acuerdos los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera del Juzgado, firmando en el libro correspondiente;
+
+II. Hacer las notificaciones personales y practicar las diligencias que ordene el Juez dentro de los tres días, devolviendo los expedientes debidamente diligenciados, previas anotaciones en el libro respectivo, el que contendrá la fecha en que se reciba el expediente y la devolución del mismo;
+
+III. Suplir al Secretario de Acuerdos respectivo, en los casos y términos que señale esta Ley, y
+
+IV. Las demás que le impongan las leyes.
+
 ### CAPITULO I. DE LOS MAGISTRADOS
 
 ### CAPITULO II. DE LOS JUECES, SECRETARIOS ACTUARIOS Y EMPLEADOS
@@ -943,11 +1067,9 @@ II.- En el ramo Penal, de los delitos que tengan como sanción, apercibimiento, 
 
 ### CAPITULO I. DE SUS PERIODOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
 ## TITULO SEXTO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DEL JUICIO POLITICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 91.
 
@@ -975,7 +1097,7 @@ Las faltas temporales de los Magistrados por más de seis meses, serán cubierta
 
 La falta absoluta de un Magistrado, será cubierta en la forma que previene el artículo 61 de la Constitución Política del Estado; pero mientras se hace la designación, la falta será cubierta en los términos del artículo que precede.
 
-### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+### CAPITULO II. DEL JUICIO POLITICO
 
 ###### ARTICULO 94.
 
@@ -1009,7 +1131,7 @@ Las faltas absolutas de los Jueces, Secretarios y demás empleados de la Adminis
 
 ## TITULO SEPTIMO. DE LOS IMPEDIMENTOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
+### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
 
 ###### ARTICULO 101.
 
@@ -1041,7 +1163,7 @@ En los casos de impedimento por recusación o excusas de los jueces de Paz, cono
 
 ## TITULO OCTAVO. DE LAS LICENCIAS DE LOS SERVIDORES PUBLICOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
+### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
 
 ###### ARTICULO 104.
 
@@ -1083,9 +1205,7 @@ En caso de que los servidores de la Administración de Justicia dejaren de asist
 
 ## TITULO NOVENO. DE LAS VACACIONES
 
-### CAPITULO I. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
-
-SU INTEGRACION Y FUNCIONAMIENTO
+### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
 
 ###### ARTICULO 111.
 
@@ -1105,7 +1225,9 @@ Fuera de los períodos de vacaciones y de los días de asueto que señala el cal
 
 ## TITULO DECIMO. DE LAS RESPONSABILIDAD (SIC) DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DE LAS UNIDADES DE APOYO
+### CAPITULO I. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
+
+SU INTEGRACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 115.
 
@@ -1125,7 +1247,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas serán autó
 
 Todo ciudadano o persona moral, por conducto de sus órganos de representación, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia por escrito y debidamente firmada y ratificada ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior.
 
-### CAPITULO III. DE SUS ATRIBUCIONES
+### CAPITULO II. DE LAS UNIDADES DE APOYO
 
 ###### ARTICULO 118.
 
@@ -1139,7 +1261,7 @@ Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio
 
 El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeña su cargo y dentro del año siguiente al en que se separe, por cualquier causa, del ejercicio de sus funciones.
 
-### CAPITULO IV. DE SU PRESIDENTE
+### CAPITULO III. DE SUS ATRIBUCIONES
 
 ###### ARTICULO 121.
 
@@ -1149,7 +1271,7 @@ Para proceder penalmente contra los Magistrados del Tribunal Superior de Justici
 
 La responsabilidad derivada de delitos cometidos por los Magistrados, Jueces y Consejeros de la Judicatura durante el tiempo de su encargo será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal, los cuales nunca podrán ser inferiores a tres años. No correrá término alguno de prescripción en tanto el Magistrado o Consejero de la Judicatura se encuentre en el desempeño de su cargo.
 
-### CAPITULO V. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA
+### CAPITULO IV. DE SU PRESIDENTE
 
 ###### ARTICULO 123.
 
@@ -1303,9 +1425,7 @@ XVI.- Dar el uso inadecuado al equipo de cómputo, electrónico o de cualquier o
 
 XVII.- Todo incumplimiento de los deberes propios del cargo.
 
-### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+### CAPITULO V. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA
 
 ###### ARTICULO 132.
 
@@ -1481,7 +1601,9 @@ TITULO DECIMOPRIMERO
 
 DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO
 
-### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
+### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 155.
 
@@ -1565,7 +1687,7 @@ Las resoluciones del Pleno del Consejo de la Judicatura del Estado, se tomarán 
 
 El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido. Asumirá la presidencia del Consejo de la Judicatura con motivo de impedimento o excusa, el Consejero que por turno le corresponda, quien en su caso empate (sic), tendrá voto de calidad.
 
-### CAPITULO VIII. DEL ARCHIVO JUDICIAL
+### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
 
 ###### ARTICULO 164.
 
@@ -1583,7 +1705,7 @@ Para el mejor desempeño de las funciones asignadas a las unidades administrativ
 
 Los titulares de las unidades administrativas deberán tener título profesional expedido en alguna materia afín a las atribuciones conferidas, experiencia mínima de tres años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-### CAPITULO IX. DEL BOLETIN JUDICIAL
+### CAPITULO VIII. DEL ARCHIVO JUDICIAL
 
 ###### ARTICULO 168.
 
@@ -1691,7 +1813,7 @@ El Pleno del Consejo de la Judicatura, contará con los Servidores Públicos y p
 
 El Consejo de la Judicatura residirá en la capital del Estado de Baja California.
 
-### CAPITULO X. DE LAS VISITAS DE INSPECCION Y EVALUACION
+### CAPITULO IX. DEL BOLETIN JUDICIAL
 
 ###### ARTICULO 172.
 
@@ -1713,9 +1835,7 @@ VI.- Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura d
 
 VII.- Las demás que determine esta ley y los correspondientes reglamentos y acuerdos generales.
 
-### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+### CAPITULO X. DE LAS VISITAS DE INSPECCION Y EVALUACION
 
 ###### ARTICULO 173.
 
@@ -1743,13 +1863,15 @@ IX.- Las demás que le asignen las leyes y reglamentos.
 
 El Secretario General del Consejo de la Judicatura deberá reunir los requisitos que señala el artículo 24 de esta ley.
 
-### CAPITULO XII. DE LA OFICIALIA DE PARTES
+### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 175.
 
 Para su adecuado funcionamiento, el Consejo de la Judicatura del Estado contará cuando menos con las siguientes Unidades Administrativas: del Instituto de la Judicatura, del Archivo Judicial y de Notarios, del Boletín Judicial, Contraloría y Oficialía de Partes.
 
-### CAPITULO I. DE LAS DESIGNACIONES
+### CAPITULO XII. DE LA OFICIALIA DE PARTES
 
 ###### ARTICULO 176.
 
@@ -1791,7 +1913,7 @@ El Instituto de la Judicatura llevará acabo (sic) cursos de preparación para l
 
 El Instituto de la Judicatura, contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
+### CAPITULO I. DE LAS DESIGNACIONES
 
 ###### ARTICULO 182.
 
@@ -1835,7 +1957,7 @@ III.- Realizar la microfilmación o captación por duplicado a efecto de que uno
 
 IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmación o captación no se haga con equipo que capte simultáneamente las dos caras de dichos documentos y estos contengan anotaciones al reverso. Se destruirán las constancias procesales y documentos originales que hayan sido captados conforme a lo dispuesto anteriormente.
 
-### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
+### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
 
 ###### ARTICULO 187.
 
@@ -1849,7 +1971,7 @@ El Boletín Judicial se publicará diariamente con excepción de sábados, domin
 
 La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
 
-### CAPITULO I. DEL SERVICIO MEDICO FORENSE
+### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
 
 ###### ARTICULO 190.
 
@@ -1895,7 +2017,7 @@ El acta levantada por el visitador será entregada al Titular del Organo Visitad
 
 El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
 
-### CAPITULO II. DE LOS SINDICOS DE CONCURSO
+### CAPITULO I. DEL SERVICIO MEDICO FORENSE
 
 ###### ARTICULO 195.
 
@@ -1933,7 +2055,7 @@ III.- Durante el mes de mayo de cada año deberá presentarse la declaración de
 
 Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
 
-### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
+### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
 ###### ARTICULO 197.
 
@@ -1955,13 +2077,13 @@ TITULO DECIMOSEGUNDO
 
 DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
+### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
+
 ### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
 
 ### CAPITULO V. DE LOS NOTARIOS
 
 ### CAPITULO VI. DE LOS PERITOS
-
-### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
 ###### ARTICULO 198.
 
@@ -1989,9 +2111,7 @@ VII.- Actuario del Poder Judicial del Estado.
 
 El Consejo de la Judicatura del Estado establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
 
-### CAPITULO I. DE SU NATURALEZA
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
 ###### ARTICULO 201.
 
@@ -2031,7 +2151,7 @@ III.- Un Magistrado del Tribunal Superior de Justicia que determine el Pleno del
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+### CAPITULO I. DE SU NATURALEZA
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2073,7 +2193,7 @@ TITULO DECIMOTERCERO
 
 DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2173,7 +2293,7 @@ V.- Calzar con su firma y nombre completo, los certificados y constancias que ex
 
 VI.- Las demás que les encomienden las leyes.
 
-### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2199,7 +2319,7 @@ IV.- Ser de notoria honradez y no haber sido condenado por delito intencional.
 
 V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17 de esta ley.
 
-### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2223,7 +2343,7 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2231,7 +2351,7 @@ Serán causas de la remoción del interventor, no prestar vigilancia necesaria a
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
-### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2239,7 +2359,7 @@ Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designad
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
-### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2285,7 +2405,7 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
-### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
+### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2325,7 +2445,7 @@ DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2387,7 +2507,7 @@ Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzg
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
+### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2471,7 +2591,7 @@ Para sesionar válidamente en Pleno y resolver cuestiones administrativas intern
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
+### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2563,7 +2683,7 @@ XXXVIII.- Las demás que señale esta Ley y el Reglamento Interior.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
+### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2651,7 +2771,7 @@ XX.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
+### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2689,7 +2809,7 @@ XIV.- Las demás que le encomiende el Pleno y el Presidente del Tribunal.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
+### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2773,7 +2893,7 @@ XVII.- Desempeñar cualquier otra función que la Ley o el Reglamento Interior d
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2798,6 +2918,10 @@ VII.- Firmar los convenios relativos a la prestación del servicio social del Tr
 VIII.- Las demás que le señale el Reglamento Interior, los acuerdos generales y la Ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 265.
 
@@ -3222,3 +3346,7 @@ SEGUNDO.- La presente reforma será aplicable a los Consejeros de la Judicatura 
 P.O. 16 DE JUNIO DE 2006.
 
 ARTÍCULO TRANSITORIO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
