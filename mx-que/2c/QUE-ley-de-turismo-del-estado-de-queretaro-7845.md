@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-7845"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-12"
-last_updated: "2004-09-03"
+last_updated: "2006-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 12 de noviembre de 1992.
 
@@ -890,3 +892,17 @@ P.O. 3 DE SEPTIEMBRE DE 2004.
 La presente Ley iniciará su vigencia a los 30 días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 27 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Turismo del Estado de Querétaro publicada el 29 de septiembre de 1992, en el Periódico Oficial de Gobierno del Estado de Querétaro "la Sombra de Arteaga".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
