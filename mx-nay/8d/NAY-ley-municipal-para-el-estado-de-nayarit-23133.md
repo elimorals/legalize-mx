@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2006-07-26"
+last_updated: "2006-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -535,7 +535,11 @@ b) Iniciar leyes o decretos ante el Congreso del Estado, en lo relativo al gobie
 
 c) Aprobar, en su caso, las minutas de reforma o adición a la Constitución Política del Estado;
 
-d) Formular y remitir al Congreso del Estado para su aprobación, a más tardar el quince de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente, proponiendo las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo así, se tomarán como iniciativas las leyes que hubieren regido durante el año fiscal inmediato anterior;
+d) Formular y remitir al Congreso del Estado para su aprobación, a más tardar el quince de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente, proponiendo las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo así, se tomarán como iniciativas las leyes que hubieren regido durante el año fiscal inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2006)</small>
+
+Los ayuntamientos deberán presentar su iniciativa de ley de ingresos al Congreso del Estado a más tardar el 15 de diciembre, en los años en que el titular del Ejecutivo estatal o el federal inicien su encargo en los términos del artículo 63 de la Constitución Política del Estado de Nayarit y del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos respectivamente;
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
@@ -2507,7 +2511,7 @@ Los municipios pueden coordinarse entre sí para solucionar y atender necesidade
 
 TÍTULO DECIMOQUINTO
 
-### CAPÍTULO ÚNICO. De la asociación y coordinac ión de los municipios con fines de derecho público
+### CAPÍTULO ÚNICO. De la asociación y coordinación de los municipios con fines de derecho público
 
 ### CAPÍTULO I
 
@@ -3122,3 +3126,7 @@ P.O. 26 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 28 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
