@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2006-08-05"
+last_updated: "2006-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -421,6 +421,10 @@ El contenido del Presupuesto de Egresos deberá permitir la identificación clar
 
 B. El Ejecutivo elaborará las iniciativas de Ley de Ingresos del Estado y de Presupuesto de Egresos del Estado, las cuales hará llegar al Congreso a más tardar el día 31 de octubre del año anterior al de su vigencia debiendo comparecer el secretario del despacho correspondiente a dar cuenta de las mismas. La modificación a dicho plazo procederá en los términos que fije la ley.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2006)</small>
+
+Cuando se trate del año en que el titular del Ejecutivo inicie su encargo en los términos del artículo 63 de esta constitución, o en su caso se trate de aquel en que entra en funciones el titular del Poder Ejecutivo federal en los términos del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos, la presentación a la que se alude deberá realizarse a más tardar el 15 de diciembre.
+
 En caso de que por cualquier motivo se omita en forma tácita la presentación de algunas de las iniciativas a que alude el párrafo anterior, servirán como iniciativas la Ley de Ingresos y el Presupuesto de Egresos vigente.
 
 La aprobación y resolución respecto de los ingresos deberá preceder a la de los gastos. En todo caso el Congreso deberá motivar en el dictamen correspondiente, los beneficios que se deriven de las modificaciones propuestas a las iniciativas de Ley de Ingresos y de Presupuesto de Egresos.
@@ -435,7 +439,7 @@ El Congreso resolverá sobre las observaciones del Ejecutivo, dentro de los cinc
 
 C. Si al inicio del año no se encontraren aprobados la Ley de Ingresos y el Presupuesto de Egresos, o únicamente este último, deberá observarse lo siguiente:
 
-I. En el caso de la Ley de Ingresos, continuará vigente aquella aprobada para el año anterior, en tanto se apruebe la ley para el año correspondiente, y los ingresos que excedan los montos autorizados en esta ley sólo podrán destinarse a la creación de reservas para el estado;
+I.- En el caso de la Ley de Ingresos, continuará vigente aquella aprobada para el año anterior, en tanto se apruebe la ley para el año correspondiente, y los ingresos que excedan los montos autorizados en esta ley sólo podrán destinarse a la creación de reservas para el estado;
 
 II. En el caso del Presupuesto de Egresos, continuará vigente aquel aprobado para el ejercicio fiscal anterior, únicamente respecto de los gastos obligatorios, en tanto se apruebe el Presupuesto para el año correspondiente. En todo caso, la ley determinará los criterios que permitan definir los gastos de carácter obligatorio los cuales deberán comprender al menos el gasto corriente aprobado para el año anterior, hasta por el porcentaje que determine la ley así como las remuneraciones de los servidores públicos.
 
@@ -647,7 +651,7 @@ XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
 
-XXX. Expedir leyes y decretos en todas aquellas materias que no sean de la competencia exclusiva de la Federación, así como las que haga obligatorias la Constitución Política de los Estados Unidos Mexicanos;
+XXX. Expedir leyes y decretos en todas aquellas materias que no sean de la competencia exclusiva de la Federación, así como las que haga obligatorias la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -2608,3 +2612,13 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto a los Ayuntamientos de la entidad, para los efectos previsto por el artículo 131 de la Constitución Política del Estado de Nayarit.
+
+P.O. 28 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto a los H. ayuntamientos constitucionales de la Entidad para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
