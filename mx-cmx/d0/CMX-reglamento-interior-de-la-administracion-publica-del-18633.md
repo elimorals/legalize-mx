@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2006-09-29"
+last_updated: "2006-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -4914,9 +4914,9 @@ III. Ordenar y realizar auditorias y revisiones tanto ordinarias como extraordin
 
 IV. Formular observaciones derivadas de las auditorías y revisiones, emitir las recomendaciones correspondientes y dar un seguimiento sistemático a la solventación de las mismas, así como dejar insubsistente aquellas observaciones que en su solventación o seguimiento sobrevenga un impedimento legal o material para su atención;
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-V. Solicitar se finque responsabilidades ante la Dirección General de Legalidad y Responsabilidades, proporcionando los elementos y constancias de que se hubiese allegado mediante el ejercicio de sus facultades, respecto de actos y omisiones detectados en la auditoría o revisión, y en su caso, por la falta de atención y solventación de la observación generada;
+V. Solicitar se finque responsabilidades ante la Dirección General de Legalidad y Responsabilidades, proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoría o revisión, y con motivo de las observaciones generadas, y en su caso, por la falta de atención y solventación de las mismas;
 
 > <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -4965,6 +4965,10 @@ XVIII. Ordenar, cuando lo estime conveniente, a las dependencias, órganos desco
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 XIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades e instituciones públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
 
 > <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -5068,6 +5072,14 @@ XXXIII. Dar contestación a las opiniones y propuestas de los Contralores Ciudad
 
 XXXIV. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como solicitar se le remitan los expedientes, en la etapa procesal en que se encuentren, para turnarlos al área que corresponda a efecto de continuar con la investigación, substanciación y resolución de los casos de responsabilidad mayor o de faltas graves;
 
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXXIV BIS. Determinar, previo acuerdo con el titular de la Dependencia, la remisión de expedientes de los asuntos derivados de los dictámenes técnicos correctivos realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidades administrativas emitidos por la Auditoría Superior de la Federación, a las contralorías internas en las dependencias, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, cuando se juzgue conveniente para la pronta y expedita atención y resolución de dichos casos, a efecto que conozcan, investiguen, inicien, substancien y resuelvan los procedimientos administrativos disciplinarios y, determinen en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXXIV TER. Determinar, previo acuerdo con el titular de la Dependencia, la remisión de expedientes de los asuntos derivados de la omisión o de la presentación fuera de los plazos establecidos en las disposiciones normativas aplicables, de las declaraciones de situación patrimonial, a las contralorías internas en las dependencias, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, cuando se juzgue conveniente para que de manera pronta y expedita conozcan, investiguen, inicien, substancien y resuelvan los procedimientos administrativos disciplinarios y, determinen en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 XXXV. Ordenar y realizar verificaciones, revisiones, inspecciones, visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública e intervenir en todos los procesos administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, patrimonio inmobiliario, servicios públicos, enajenaciones, pagos, presupuestación, ingresos, egresos, almacenes e inventarios o cualquier otro previsto en los ordenamientos vigentes, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
@@ -5120,11 +5132,15 @@ VII. Requerir de acuerdo a la naturaleza de sus funciones, información y docume
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-VIII. Conocer, investigar y resolver sobre los actos u omisiones que pudieran constituir responsabilidad administrativa, que se desprendan de los expedientes de investigación o de los procedimientos administrativos disciplinarios que le sean turnados por la Dirección General de Legalidad y Responsabilidades, en el ejercicio de la facultad de atracción, prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos; y
+VIII. Conocer, investigar y resolver sobre los actos u omisiones que pudieran constituir responsabilidad administrativa, que se desprendan de los expedientes de investigación o de los procedimientos administrativos disciplinarios que le sean turnados por la Dirección General de Legalidad y Responsabilidades, en el ejercicio de la facultad de atracción, prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos; y (sic)
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-IX. Las demás que se deriven de este Reglamento u otras disposiciones legales.
+IX. Las demás que se deriven de este Reglamento u otras disposiciones legales;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+X. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
 ###### Artículo 105.
 
@@ -5154,11 +5170,23 @@ IX. Disponer la practica de investigaciones y citar para otra u otras audiencias
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-X. Conocer e investigar respecto de actos u omisiones de servidores públicos, que pudieran constituir responsabilidad administrativa, que se desprendan de auditorias, quejas o denuncias, tramitadas ante la Contraloría General o cualquiera de las Contralorías Internas, siempre que dichos actos y omisiones sean motivo de investigación en otro u otros expedientes radicados en esta Dirección, a efecto de determinar las sanciones que en su caso correspondan, y
+X. Conocer e investigar respecto de actos u omisiones de servidores públicos, que pudieran constituir responsabilidad administrativa, que se desprendan de auditorias, quejas o denuncias, tramitadas ante la Contraloría General o cualquiera de las Contralorías Internas, siempre que dichos actos y omisiones sean motivo de investigación en otro u otros expedientes radicados en esta Dirección, a efecto de determinar las sanciones que en su caso correspondan, y (sic)
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-XI. Las demás que se deriven de este Reglamento u otras disposiciones legales.
+XI. Las demás que se deriven de este Reglamento u otras disposiciones legales;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XII. Remitir a las contralorías internas en las dependencias, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, previa determinación de la Dirección General de Legalidad y Responsabilidades, los expedientes de los asuntos derivados de los dictámenes técnicos correctivos realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidades administrativas emitidos por la Auditoría Superior de la Federación, a efecto que conozcan, investiguen, inicien, substancien y resuelvan los procedimientos administrativos disciplinarios y, determinen en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XIII. Requerir de acuerdo con la naturaleza de sus funciones, información a las contralorías internas sobre el estado que guardan las investigaciones y procedimientos administrativos disciplinarios iniciados con motivo de la remisión de expedientes derivados de los dictámenes técnicos correctivos realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidades administrativas emitidos por la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5248,11 +5276,15 @@ XXV. Instruir a las Dependencias, Órganos Desconcentrados, Órganos Político-A
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XXVI. Emitir opinión a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública, respecto la procedencia de suspender definitivamente el procedimiento de una licitación pública o invitación restringida a cuando menos tres proveedores o no celebrar los contratos y convenios, en materia de adquisiciones, arrendamientos y prestación de servicios; y
+XXVI. Emitir opinión a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública, respecto la procedencia de suspender definitivamente el procedimiento de una licitación pública o invitación restringida a cuando menos tres proveedores o no celebrar los contratos y convenios, en materia de adquisiciones, arrendamientos y prestación de servicios; y (sic)
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XXVII. Emitir opinión a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública, respecto a la procedencia de rescindir o dar por terminados anticipadamente los contratos y convenios, sin agotar el plazo para la aplicación de penas convencionales, en materia de adquisiciones, arrendamientos y prestación de servicios.
+XXVII. Emitir opinión a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública, respecto a la procedencia de rescindir o dar por terminados anticipadamente los contratos y convenios, sin agotar el plazo para la aplicación de penas convencionales, en materia de adquisiciones, arrendamientos y prestación de servicios;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXVIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
 ###### Artículo 107.
 
@@ -5292,11 +5324,15 @@ X. Acordar, la suspensión temporal de los servidores públicos de sus empleos, 
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-XI. Conocer, investigar y resolver sobre los actos u omisiones que pudieran constituir responsabilidad administrativa, que se desprendan de los expedientes de investigación, que le sean turnados por la Dirección General de Legalidad y Responsabilidades, en el ejercicio de la facultad de atracción, prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos; y
+XI. Conocer, investigar y resolver sobre los actos u omisiones que pudieran constituir responsabilidad administrativa, que se desprendan de los expedientes de investigación, que le sean turnados por la Dirección General de Legalidad y Responsabilidades, en el ejercicio de la facultad de atracción, prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos; y (sic)
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-XII. Las demás que se deriven de este Reglamento u otras disposiciones legales.
+XII. Las demás que se deriven de este Reglamento u otras disposiciones legales;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
 ###### Artículo 108.
 
@@ -5346,9 +5382,17 @@ VIII. Ordenar y realizar visitas de inspección, cuando los signos exteriores de
 
 IX. Substanciar y resolver el procedimiento administrativo relativo a la evolución patrimonial de los servidores públicos, emitiendo en su caso, la declaratoria de que el servidor público sujeto a la investigación respectiva, en términos de la Ley de la materia, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo, y hacerla del conocimiento al Ministerio Público de conformidad con las disposiciones legales aplicables, así como substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-X. Substanciar y resolver los procedimientos administrativos disciplinarios correspondientes a la declaratoria de omisión o presentación de la declaración de situación patrimonial fuera de los plazos establecidos en la Ley, o cuando ésta contenga información falsa y determinar en su caso las sanciones administrativas que procedan, así como substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+X. Conocer, investigar, iniciar, substanciar y resolver los procedimientos administrativos disciplinarios correspondientes a la declaratoria de omisión o presentación de la declaración de situación patrimonial, fuera de los plazos establecidos en las disposiciones normativas aplicables, o cuando ésta contenga información falsa, y determinar en su caso las sanciones administrativas que procedan, así como conocer, substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+X BIS. Remitir a las contralorías internas en las dependencias, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, previa determinación de la Dirección General de Legalidad y Responsabilidades, los expedientes de los asuntos derivados de la omisión o de la presentación fuera de los plazos establecidos en las disposiciones normativas aplicables, de las declaraciones de situación patrimonial, a efecto que conozcan, investiguen, inicien, substancien y resuelvan los procedimientos administrativos disciplinarios y, determinen en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+X TER. Requerir de acuerdo con la naturaleza de sus funciones, información a las contralorías internas sobre el estado que guardan las investigaciones y procedimientos administrativos disciplinarios iniciados con motivo de la remisión de expedientes derivados de la omisión o de la presentación fuera de los plazos establecidos en las disposiciones normativas aplicables, de las declaraciones de situación patrimonial;
 
 XI. Acordar, cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones;
 
@@ -5356,13 +5400,17 @@ XII. Expedir previo cotejo, copias certificadas de los documentos que obren en s
 
 XIII. Expedir la constancia que acredite la no existencia de registro de inhabilitación para desempeñar empleos, cargos o comisiones en la Administración Pública;
 
-XIV. Integrar y mantener actualizado el registro de los servidores públicos sancionados en el ámbito de la Administración Pública y colaborar con la Federación y entidades federativas en términos de los convenios celebrados en esta materia; y
+XIV. Integrar y mantener actualizado el registro de los servidores públicos sancionados en el ámbito de la Administración Pública y colaborar con la Federación y entidades federativas en términos de los convenios celebrados en esta materia; y (sic)
 
 XV. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y órganos de control interno;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-XVI. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
+XVI. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XVII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
 > <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -5392,9 +5440,13 @@ X. Proponer a las Contralorías Internas la adopción de las medidas que se requ
 
 XI. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-XII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, Contralorías Internas, cuando lo estime conveniente, y
+XII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, Contralorías Internas, cuando lo estime conveniente, y (sic)
 
-XIII. Las demás que se deriven de este Reglamento u otras disposiciones legales.
+XIII. Las demás que se deriven de este Reglamento u otras disposiciones legales;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
 ###### Artículo 110.
 
@@ -5466,9 +5518,9 @@ I. Asistir con el carácter de Comisario a los Consejos de Administración o Dir
 
 II. Emitir opinión anual sobre la situación financiera de las Entidades Paraestatales, con base en el dictamen de los auditores externos, presentarla ante el órgano de gobierno y, en su caso, a la asamblea de accionistas;
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-III. Rendir anualmente informes respecto del desempeño general de las Dependencias, Órganos Desconcentrados y Entidades Paraestatales de la Administración Pública, derivados del análisis y evaluación trimestral;
+III. Rendir anualmente informes respecto del desempeño general de las Entidades Paraestatales de la Administración Pública del Distrito Federal, así como de aquellos órganos desconcentrados en los que se considere la participación de un Comisario Público;
 
 > <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -5498,11 +5550,15 @@ XII. Ordenar y realizar en el ámbito de su competencia, visitas a los Órganos 
 
 > <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XIII. Asistir como representante de la Contraloría General a los Comités de Control y Evaluación de los Órganos Desconcentrados y de las Entidades Paraestatales de la Administración Pública, coadyuvando a la mejora de la gestión de dichos órganos de la Administración Pública; y
+XIII. Asistir como representante de la Contraloría General a los Comités de Control y Evaluación de los Órganos Desconcentrados y de las Entidades Paraestatales de la Administración Pública, coadyuvando a la mejora de la gestión de dichos órganos de la Administración Pública; y (sic)
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-XIV. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos que sean remitidas por la Dirección Ejecutiva de Contraloría Ciudadana.
+XIV. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos que sean remitidas por la Dirección Ejecutiva de Contraloría Ciudadana;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5620,11 +5676,15 @@ XXVIII. Instruir a las Dependencias, Órganos Desconcentrados, Órganos Polític
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XXIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial; y
+XXIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial; y (sic)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XXX. Las demás que expresamente le atribuya el presente Reglamento y las demás disposiciones administrativo-jurídicas.
+XXX. Las demás que expresamente le atribuya el presente Reglamento y las demás disposiciones administrativo-jurídicas;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5640,9 +5700,9 @@ I. Proponer, para la aprobación del titular de la Dirección General de Contral
 
 II. Apoyar las revisiones programadas, así como las extraordinarias o adicionales a éstas, de conformidad con los lineamientos que para tal fin emita la Contraloría General, a efecto de vigilar el cumplimiento de las disposiciones legales, reglamentarias y administrativas en materia de información, estadística, organización, procedimientos, sistemas de registro y contabilidad, contratación y remuneraciones al personal, contratación de adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes, activos y demás que correspondan, en términos de las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-III. Formular observaciones derivadas de los procesos de implantación de sistemas de control interno y llevar su seguimiento, emitiendo las recomendaciones para su solventación;
+III. Formular recomendaciones para la solución de las deficiencias detectadas mediante la implantación o seguimiento de sistemas de control interno;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5728,13 +5788,17 @@ XXVI. Dar contestación a las opiniones y propuestas de los Contralores Ciudadan
 
 XXVII. Realizar visitas e inspecciones a las instalaciones de los proveedores y contratistas que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, a efecto de vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-XXVIII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y enajenación de bienes muebles, así como de todas las consecuencias legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+XXVIII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y enajenación de bienes muebles, así como de todas las consecuencias legales que de éstos resulten cuando se detecten irregularidades y existan elementos suficientes que a juicio del contralor interno deriven en daño al erario público.
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+No procederá la suspensión cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos;
 
-XXIX. Instruir a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública a las que estén adscritas, a suspender temporal o definitivamente, rescindir o terminar anticipadamente los contratos y/o convenios, pagos y, demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos prestación de servicios, obra pública y enajenación de bienes muebles; cuando derivado de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXIX. Instruir a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública a las que estén adscritas, a suspender temporal o definitivamente, rescindir o terminar anticipadamente los contratos y/o convenios, pagos y, demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos prestación de servicios, obra pública y enajenación de bienes muebles cuando se detecten irregularidades y existan elementos suficientes que a juicio del contralor interno deriven en daño al erario público.
+
+No procederá la suspensión, rescisión o terminación anticipada cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos;
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -5742,11 +5806,27 @@ XXX. Realizar las investigaciones y solicitar toda clase de información y docum
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XXXI.- Vigilar que las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública a las que estén adscritas, cumplan con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y
+XXXI.- Vigilar que las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública a las que estén adscritas, cumplan con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y (sic)
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-XXXII. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
+XXXII. Conocer, investigar, iniciar, substanciar y resolver los procedimientos administrativos disciplinarios y, en su caso, imponer las sanciones que correspondan, de expedientes derivados de dictámenes técnicos correctivos realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidades administrativas emitidos por la Auditoría Superior de la Federación, que les remita la Dirección General de Legalidad y Responsabilidades o la Dirección de Cuenta Pública ambas de la Contraloría General del Distrito Federal, así como conocer, substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXXIII. Atender con oportunidad los requerimientos de información que le haga la Dirección de Cuenta Pública, respecto del estado que guarden las investigaciones y procedimientos administrativos disciplinarios iniciados con motivo de la remisión de expedientes derivados de dictámenes técnicos correctivos realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidades administrativas emitidos por la Auditoría Superior de la Federación.
+
+Asimismo, atender con oportunidad los requerimientos de información que le haga la Dirección de Situación Patrimonial, respecto del estado que guarden las investigaciones y procedimientos administrativos disciplinarios iniciados con motivo de la remisión de expedientes derivados de la de la omisión o de la presentación fuera de los plazos establecidos en las disposiciones normativas aplicables, de las declaraciones de situación patrimonial;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXXIV. Conocer, investigar, iniciar, sustanciar y resolver los procedimientos administrativos disciplinarios y, en su caso, imponer las sanciones que correspondan, de expedientes derivados de la omisión en la presentación de la declaración de situación patrimonial o de la presentación de la declaración de situación patrimonial fuera de los plazos establecidos en las disposiciones normativas aplicables, que les remita la Dirección General de Legalidad y Responsabilidades o la Dirección de Situación Patrimonial ambas de la Contraloría General del Distrito Federal, así como substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XXXV.- Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+
+XXXVI. Las demás atribuciones que se deriven de este Reglamento u otras disposiciones legales.
 
 > <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5754,25 +5834,55 @@ XXXII. Las demás atribuciones que se deriven de este Reglamento u otras disposi
 
 BIS.- Corresponde a la Dirección Ejecutiva de Contraloría Ciudadana:
 
-I. Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los Contralores Ciudadanos en los órganos colegiados de la administración pública del Distrito Federal, de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-II. Organizar y coordinar la Red de Contraloría Ciudadana integrada por personas acreditadas como contralores ciudadanos por el Jefe de Gobierno del Distrito Federal, así como proponer la normatividad para su integración y la evaluación de su funcionamiento;
+I. Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los contralores ciudadanos en los órganos colegiados de la Administración Pública del Distrito Federal, de las dependencias, unidades administrativas, órganos políticoadministrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, en la prestación de los servicios públicos, en las acciones de gobierno y en la actuación de los servidores públicos;
 
-III. Establecer los vínculos necesarios con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las funciones de vigilancia de los contralores ciudadanos en sus órganos colegiados;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-IV. Integrar, sistematizar, remitir a las áreas competentes y dar seguimiento a las propuestas, opiniones, quejas y denuncias de los contralores ciudadanos con relación a su actividad en las diversas dependencias, unidades administrativas, órganos político administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
+II. Organizar y coordinar la Red de Contraloría Ciudadana, así como proponer la normatividad para su organización, integración, funcionamiento y evaluación del desempeño;
 
-V. Desarrollar un sistema de formación, asesoría y capacitación a los Contralores Ciudadanos para el desempeño de sus funciones;
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-VI. Supervisar y evaluar la actuación y desempeño de los contralores ciudadanos y proponer las medidas para hacer más eficiente su labor en la Administración Pública del Distrito Federal;
+II BIS. Convocar a la ciudadanía, a las organizaciones civiles y sociales, a las instituciones académicas y profesionales, y medios de comunicación a presentar propuestas de candidatas y candidatos a contralores ciudadanos;
 
-VII. Requerir información a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública sobre la atención y seguimiento que le han dado a las propuestas y opiniones emitidas por los Contralores Ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos, para la realización de las funciones que tienen encomendadas;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+III. Establecer los vínculos necesarios con las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las actividades de vigilancia de los contralores ciudadanos en sus órganos colegiados, en la prestación de los servicios públicos, en las acciones de gobierno y en la actuación de los servidores públicos;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+IV. Integrar, sistematizar, y remitir a las áreas competentes las quejas y denuncias de los contralores ciudadanos, así como de las que éstos tengan conocimiento, y dar seguimiento a las propuestas y opiniones, de los contralores ciudadanos, con relación a sus actividades en las diversas dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito.
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+V. Desarrollar un Sistema de Formación, Asesoría y Capacitación para los integrantes de la Red de Contraloría Ciudadana para el desempeño de sus actividades;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+VI. Supervisar y evaluar la actuación y desempeño de los contralores ciudadanos y proponer las medidas para hacer más eficientes las actividades de vigilancia ciudadana en la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+VII. Solicitar de acuerdo a la naturaleza de sus funciones información y documentación a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública, y en su caso, sobre la atención y seguimiento que le dieron a las propuestas y opiniones de los contralores ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos para la realización de las funciones que tienen encomendadas;
 
 VIII. Realizar estudios en materia de transparencia de la gestión pública, rendición de cuentas y participación ciudadana, en coordinación con la Red de Instituciones Asesoras o con aquellos sectores de la sociedad relacionados con estas materias;
 
-IX. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal; y
+IX. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal; y (sic)
 
-X. Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de participación ciudadana.
+X. Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de participación ciudadana;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XI. Efectuar y coadyuvar con las unidades administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen con motivo del programa a su cargo, en las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federa;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XII. Expedir previo cotejo copias certificados de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+
+XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
 
 ###### Artículo 113 Bis.
 
@@ -6042,7 +6152,7 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO , G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCION V
 
@@ -9953,3 +10063,7 @@ SEGUNDO. El presente Decreto entrará en vigor el primer día de octubre de 2006
 TERCERO. Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de los Órganos Político Administrativos, que por virtud de este Decreto dejan de tener algunas atribuciones, se transferirán a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que adquieren nuevas atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
 
 CUARTO. Los asuntos en trámite a cargo de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de los Órganos Político Administrativos, que por virtud de este Decreto dejan de tener algunas atribuciones se continuaran atendiendo, por las Unidades Administrativas de Apoyo Técnico Operativo que adquiere nuevas atribuciones, hasta su conclusión.
+
+G.O. 30 DE OCTUBRE DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
