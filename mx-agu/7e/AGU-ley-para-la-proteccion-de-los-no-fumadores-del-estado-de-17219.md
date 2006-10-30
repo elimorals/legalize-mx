@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-17219"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-20"
-last_updated: "2000-03-20"
+last_updated: "2006-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 30 DE OCTUBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de marzo de 2000.
 
@@ -288,3 +290,19 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Protección de los No Fumadores del Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes, el 20 de marzo del año dos mil.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado emitirá el Reglamento respectivo en un plazo no mayor de 120 días naturales, a partir de la entrada en vigencia de la presente Ley.
